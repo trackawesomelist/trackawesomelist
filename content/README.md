@@ -408,41 +408,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Coroot (⭐5.5k)](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative.
 
-#### [27. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Reading and Writing Tools / Others
-
-*   [Collate](https://collate.one/get-started) - Free tool to collect, summarize and query PDFs with AI. All offline and free [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/collateai/id6447429913) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Developer Tools / Command Line Tools
-
-*   [Ghostty (⭐25k)](https://github.com/ghostty-org/ghostty) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ghostty-org/ghostty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Wave (⭐8.4k)](https://github.com/wavetermdev/waveterm) - An open-source terminal that combines traditional terminal features with graphical capabilities like file previews, web browsing, and AI assistance. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wavetermdev/waveterm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Developer Tools / Frameworks For Hybrid Applications
-
-*   [Tauri](https://tauri.app/) - Create small, fast, secure, cross-platform applications [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/tauri-apps/tauri)
-
-##### Design and Product / Design Tools
-
-*   [darktable](https://www.darktable.org) - darktable is an open source photography workflow application and raw developer. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/darktable-org/darktable) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Audio and Video Tools / Audio Record and Process
-
-*   [CapSoftware](https://github.com/CapSoftware/) - An open-source alternative to Loom. Beautiful, shareable screen recording tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CapSoftware/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Utilities / Menu Bar Tools
-
-*   [DayBar](https://wangchujiang.com/daybar/) - An application that can display the local date and reminder events in the menu bar. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/daybar/6739052447)
-*   [NotchNook](https://lo.cafe/notchnook) - Customizes your Mac's menu bar to seamlessly integrate with the notch design.
-
-#### [28. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+#### [27. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ##### Apps
 
 *   [Plebbit](https://github.com/plebbit) - Plebbit is a serverless, adminless, decentralised and infinitely scalable Social Media platform that is peer-to-peer and open-source.It's built on top of IPFS, Gossipsub and Blockchain namesystems (ENS, SNS).
 
-#### [29. Awesome Kde](/content/francoism90/awesome-kde/README.md)
+#### [28. Awesome Kde](/content/francoism90/awesome-kde/README.md)
 
 ##### Office & Productivity
 
@@ -452,7 +424,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Kröhnkite (⭐486)](https://github.com/anametologin/krohnkite) - A dynamic tiling extension for KWin.
 
-#### [30. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+#### [29. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ##### API
 
@@ -462,7 +434,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [FastCloner (⭐31)](https://github.com/lofcz/FastCloner) - Fast deep cloning library for .NET 8+. Zero-config, works out of the box.
 
-#### [31. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+#### [30. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ##### Command-Line Tools / Discovery
 
@@ -472,7 +444,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Conflake](https://ratson.github.io/conflake/) - A batteries included, autoload files, convention-based configuration framework for `flake.nix`.
 
-#### [32. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [31. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -574,13 +546,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [NDJSON (⭐701) (⭐701)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐359) (⭐359)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [33. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+#### [32. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ##### Other plugins
 
 *   [Capacitor voice recorder (⭐82)](https://github.com/tchvu3/capacitor-voice-recorder) - A plugin for simple voice recording.
 
-#### [34. Awesome Django](/content/wsvincent/awesome-django/README.md)
+#### [33. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ##### Projects / Boilerplate
 
@@ -591,7 +563,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Baserow](https://gitlab.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
 *   [Django CRM Admin (⭐129)](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
 
-#### [35. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [34. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -673,92 +645,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [inboxsphere/persistent-scheduler (⭐7)](https://github.com/inboxsphere/persistent-scheduler) \[[persistent-scheduler](https://crates.io/crates/persistent-scheduler)] - A high-performance task scheduling system built with Tokio, offering task persistence, repeatable tasks, and Cron-based scheduling for reliable time-based operations.
 
-#### [36. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Bot Building
-
-*   [arikawa (⭐495)](https://github.com/diamondburned/arikawa) - A library and framework for the Discord API.
-
-##### Configuration
-
-*   [hedzr/store (⭐5)](https://github.com/hedzr/store) - Extensible, high-performance configuration management library, optimized for hierarchical data.
-
-##### SQL Query Builders
-
-*   [patcher (⭐2)](https://github.com/Jacobbrewer1/patcher) - Powerful SQL Query builder that automatically generates SQL queries from structs.
-
-##### Relational Database Drivers
-
-*   [go-sqlite3 (⭐572)](https://github.com/ncruces/go-sqlite3) - This Go module is compatible with the database/sql driver. It allows embedding SQLite into your application, provides direct access to its C API, supports SQLite VFS, and also includes a GORM driver.
-*   [sqlite](https://pkg.go.dev/modernc.org/sqlite) - Package sqlite is a sql/database driver using a CGo-free port of the C SQLite3 library.
-
-##### Distributed Systems
-
-*   [committer (⭐32)](https://github.com/vadiminshakov/committer) - A distributed transactions management system (2PC/3PC implementation).
-
-##### Financial
-
-*   [ledger (⭐896)](https://github.com/formancehq/ledger) - A programmable financial ledger that provides a foundation for money-moving applications.
-
-##### Game Development
-
-*   [Arche (⭐163)](https://github.com/mlange-42/arche) - Archetype-based Entity Component System (ECS) for Go.
-
-##### Uncategorized
-
-*   [archives (⭐128)](https://github.com/mholt/archives) - a cross-platform, multi-format Go library for working with archives and compression formats with a unified API and as virtual file systems compatible with io/fs.
-
-##### HTTP Clients
-
-*   [axios4go (⭐11)](https://github.com/rezmoss/axios4go) - A Go HTTP client library inspired by Axios, providing a simple and intuitive API for making HTTP requests.
-
-##### Server Applications
-
-*   [wd-41 (⭐147)](https://github.com/baalimago/wd-41) - A (w)eb (d)evelopment server with automatic live-reload on file changes.
-
-##### Mock
-
-*   [pgxmock (⭐411)](https://github.com/pashagolub/pgxmock) - A mock library implementing [pgx - PostgreSQL Driver and Toolkit (⭐11k)](https://github.com/jackc/pgx/).
-
-##### Formatters
-
-*   [sq (⭐2.2k)](https://github.com/neilotoole/sq) - Convert data from SQL databases or document formats like CSV or Excel into formats such as JSON, Excel, CSV, HTML, Markdown, XML, and YAML.
-
-##### Utilities
-
-*   [xpool (⭐3)](https://github.com/peczenyj/xpool) - Yet another golang type safe object pool using generics.
-
-##### Other Software / Libraries for creating HTTP middlewares
-
-*   [goblin](https://goblin.run) - Cloud builder for CLI's written in go lang
-*   [Layli](https://layli.app) - Draw pretty layout diagrams as code.
-*   [tinycare-tui (⭐12)](https://github.com/DMcP89/tinycare-tui) - Small terminal app that shows git commits from the last 24 hours and week, current weather, some self care advice, a joke, and you current todo list tasks.
-
-##### Meetups / Libraries for creating HTTP middlewares
-
-*   [Golang Milano](https://www.meetup.com/golang-milano/)
-*   [Golang Roma](https://www.meetup.com/golangroma/)
-*   [Golang Torino](https://www.meetup.com/golang-torino/)
-
-#### [37. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
-
-##### Cloud Infrastructure and Management
-
-*   [Batteries Included (⭐29)](https://github.com/batteries-included/batteries-included) - A self hostable platform for automation/UI driven Kubernetes; built in Elixir and Golang the entire UI is built with Phoenix Live View.
-*   [Kubereq (⭐11)](https://github.com/mruoss/kubereq) - Kubernetes Client for Elixir based on Req.
-
-##### Data Visualization
-
-*   [tucan (⭐202)](https://github.com/pnezis/tucan) - An Elixir plotting library on top of VegaLite.
-*   [vega\_lite (⭐189)](https://github.com/livebook-dev/vega_lite) - Elixir bindings for Vega-Lite.
-
-#### [38. Awesome Elm](/content/sporto/awesome-elm/README.md)
+#### [35. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ##### Inspired by Elm / Games
 
 *   [Tyrian](https://tyrian.indigoengine.io/) - Tyrian is an Elm-inspired frontend framework for Scala.js.
 
-#### [39. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [36. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Frameworks
 
@@ -799,7 +692,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [AMD C++ Compiler](https://www.amd.com/en/developer/aocc.html) - Developed by AMD.
 
-#### [40. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [37. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Other DB wrappers
 
@@ -830,7 +723,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [deoxybyte-gzip (⭐7)](https://github.com/keithj/deoxybyte-gzip) -  Common Lisp interface to zlib via CFFI. GPL3.
     *   This system provides gzip and gunzip functions and a Gray-streams implementation, both built on a set of lower-level zlib functions.
 
-#### [41. Awesome Php](/content/ziadoz/awesome-php/README.md)
+#### [38. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ##### Table of Contents / Content Management Systems (CMS)
 
@@ -840,7 +733,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [PhpEd](https://www.nusphere.com/products/phped.htm) - An IDE with professional commercial debugger.
 
-#### [42. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+#### [39. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ##### Misc
 
@@ -850,7 +743,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [procodile (⭐10)](https://github.com/crystal-china/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile (for production and/or development environments)
 
-#### [43. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+#### [40. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ##### Games / Apache License
 
@@ -860,19 +753,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [apq-base (⭐1)](https://github.com/ada-apq/apq/) - APQ is a database interface library written in Ada95.
 
-#### [44. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
+#### [41. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
 
 ##### Apps / Development Tools
 
 *   [Kangaroo (⭐385)](https://github.com/dbkangaroo/kangaroo) - AI-powered SQL client and admin tool for popular databases.
 
-#### [45. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+#### [42. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ##### Projects / Tools
 
 *   [Autosubst-ocaml (⭐13)](https://github.com/uds-psl/autosubst-ocaml) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
 
-#### [46. Awesome V](/content/vlang/awesome-v/README.md)
+#### [43. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Build Systems
 
@@ -895,13 +788,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [limine-v-template (⭐0)](https://github.com/plos-clan/limine-v-template) - A simple template for building a Limine-compliant kernel in V.
 *   [v-limine (⭐0)](https://github.com/wenxuanjun/v-limine) - A V library for handling Limine boot protocol structures.
 
-#### [47. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+#### [44. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ##### Misc libraries
 
 *   [pblischak/zprob (⭐7)](https://github.com/pblischak/zprob) - Module for Random Number Distributions.
 
-#### [48. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [45. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Books, blogs, and training materials / Free and public materials
 
@@ -912,7 +805,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [`mcx-pac`](https://github.com/mcx-rs/mcx-pac) Peripheral Access Crate for NXP MCX Series MCUs - [![crates.io](https://img.shields.io/crates/v/mcx-pac.svg)](https://crates.io/crates/mcx-pac)
 
-#### [49. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [46. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### Full Featured Financial Management
 
@@ -933,7 +826,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Ghostfolio (⭐5.2k)](https://github.com/ghostfolio/ghostfolio#readme) - open source wealth management software built with web technology.
 *   [PortfolioPerformance](https://www.portfolio-performance.info/en/) - An open source tool to calculate the overall performance of an investment portfolio-
 
-#### [50. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+#### [47. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ##### Presentations
 
@@ -950,14 +843,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [UnlockECU (⭐277)](https://github.com/jglim/UnlockECU) - Free, open-source ECU seed-key unlocking tool.
 
-#### [51. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+#### [48. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ##### Commercial Offerings
 
 *   [loginfactor](https://www.loginfactor.com/)
 *   [univention](https://www.univention.com/)
 
-#### [52. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+#### [49. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ##### Software / Make your life easier
 
@@ -965,19 +858,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Hyperbrowser](https://hyperbrowser.ai) - A platform for running and scaling headless browsers with built-in features for session recording, CAPTCHA solving, proxies, etc to easily run tests at scale.
 *   [MixedVoices](https://mixedvoices.xyz) - An Open Source tool for analyzing and evaluating AI Voice agents
 
-#### [53. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+#### [50. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ##### Online services (a-z↓)
 
 *   [Argos](https://argos-ci.com) - The open source visual testing platform for modern engineering teams.
 
-#### [54. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+#### [51. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 
 ##### Cloud Services / Desktop GUI Automation (non-browser-centric)
 
 *   [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for running and scaling Selenium automations with headless Chrome with advanced features like proxies, captcha solving, and session recording.
 
-#### [55. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+#### [52. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ##### Test-Driven Development
 
@@ -987,26 +880,26 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [The Efficiency Paradox](https://www.youtube.com/watch?v=hGJpez7rvc0) by **Niklas Modig** \[18:48]
 
-#### [56. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+#### [53. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ##### Newsletters / Commerical Tools
 
 *   [Alpasignal.ai](https://alphasignal.ai/) AI newsletter for developers
 *   [Therundown.ai](https://www.therundown.ai/) Get the latest AI news, understand why it matters, and learn how to apply it in your work.
 
-#### [57. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [54. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Image Analysis / Steam
 
 *   [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
 
-#### [58. Awesome Math](/content/rossant/awesome-math/README.md)
+#### [55. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ##### Algebra / Linear Algebra
 
 *   📖 [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
 
-#### [59. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [56. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Bayesian Modeling / Bayesian Induction
 
@@ -1027,7 +920,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Constraint Representation Towards Precise Data-Driven Storytelling](https://ieeexplore.ieee.org/abstract/document/10766486) - ***VIS-Gen4DS'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=12234019078719898658)]. A position paper on DSL for data-driven storytelling. Data-driven storytelling serves as a crucial bridge for communicating ideas in a persuasive way. However, the manual creation of data stories is a multifaceted, labor-intensive, and case-specific effort, limiting their broader application. As a result, automating the creation of data stories has emerged as a significant research thrust. Despite advances in Artificial Intelligence, the systematic generation of data stories remains challenging due to their hybrid nature: they must frame a perspective based on a seed idea in a top-down manner, similar to traditional storytelling, while coherently grounding insights of given evidence in a bottom-up fashion, akin to data analysis. These dual requirements necessitate precise constraints on the permissible space of a data story. This viewpoint proposes integrating constraints into the data story generation process. Defined upon the hierarchies of interpretation and articulation, constraints shape both narrations and illustrations to align with seed ideas and contextualized evidence. The authors identify the taxonomy and required functionalities of these constraints. Although constraints can be heterogeneous and latent, this position paper explores the potential to represent them in a computation-friendly fashion via Domain-Specific Languages. The authors believe that leveraging constraints will facilitate both artistic and scientific aspects of data story generation.
 
-#### [60. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [57. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Libraries/Packages/Scripts / Polars plugins
 
@@ -1040,33 +933,33 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Polars DataFrame Operations and Optimization Guide](https://app.studyraid.com/en/courses/11455/polars-dataframe-operations-and-optimization-guide) Online free course that teaches the basics of data manipulation operations with Polars by [Studyraid](https://app.studyraid.com/en).
 
-#### [61. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+#### [58. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ##### JavaScript / FrameWorks
 
 *   [chart-patterns (⭐11)](https://github.com/focus1691/chart-patterns) - Technical analysis library for Market Profile, Volume Profile, Stacked Imbalances and High Volume Node indicators.
 *   [orderflow (⭐20)](https://github.com/focus1691/orderflow) - Orderflow trade aggregator for building Footprint Candles from exchange websocket data.
 
-#### [62. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
+#### [59. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
 
 ##### Online Resources and Courses / Digital Asset Management (DAM)
 
 *   **[Awesome AI Marketing (⭐17)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
 
-#### [63. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+#### [60. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ##### Features
 
 *   [1.9 - Provider iteration with for\_each](https://opentofu.org/docs/intro/whats-new/#provider-iteration-for_each)
 *   [1.9 - The -exclude flag](https://opentofu.org/docs/intro/whats-new/#the--exclude-flag)
 
-#### [64. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
+#### [61. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
 
 ##### Other
 
 *   🔧 [Mirth-Migrator (⭐6)](https://github.com/odoodo/Mirth-Migrator) - Mirth Migrator is a web-based tool that automates the transfer of Mirth Connect Enterprise Service Bus channels and code templates between Mirth environments.
 
-#### [65. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [62. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ##### Table of contents
 
@@ -1080,7 +973,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   📺: youtube or video
     *   💡or 🏆: recommendation
 
-#### [66. Topics](/content/selvaklnc/topics/README.md)
+#### [63. Topics](/content/selvaklnc/topics/README.md)
 
 ##### List of articles and posts
 
@@ -1104,13 +997,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Oregon History and Westward Migration](https://blog.u-s-history.com/2020/05/oregon-history-and-westward-migration.html?commentPage=2) - The Beginnings
 *   Breaking the Bread: [A Brief History of Sourdough](https://blog.u-s-history.com/2020/05/breaking-bread-brief-history-of.html?commentPage=3)
 
-#### [67. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
+#### [64. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
 
 ##### Articles / Golang - Community
 
 *   [Firebase GenKit with Gemma using Ollama](https://xavidop.me/firebase/gcp/2024-05-24-firebase-genkit-ollama/) - Firebase project that uses the Gen AI Kit with Gemma using Ollama.
 
-#### [68. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+#### [65. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ##### File Management
 
@@ -1156,6 +1049,149 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [AltSnap (⭐2.7k)](https://github.com/RamonUnch/AltSnap) -  A lightweight window management tool for snapping windows to predefined positions using keyboard shortcuts. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [FancyZones (⭐114k)](https://github.com/microsoft/PowerToys) - A feature of PowerToys that helps with window snapping and arranging for multi-monitor setups in Windows. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [GlazeWM (⭐7.2k)](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3wm written in Rust. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+
+#### [66. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Reading and Writing Tools / Others
+
+*   [Collate](https://collate.one/get-started) - Free tool to collect, summarize and query PDFs with AI. All offline and free [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/collateai/id6447429913) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Developer Tools / IDEs
+
+*   [BeagleEditor (⭐0)](https://github.com/beaglesoftware/editor) - A "beagleful" editor with features like syntax highlighting, plugins and... - A bit ugly, but it works
+
+##### Developer Tools / Command Line Tools
+
+*   [Ghostty (⭐25k)](https://github.com/ghostty-org/ghostty) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ghostty-org/ghostty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Wave (⭐8.4k)](https://github.com/wavetermdev/waveterm) - An open-source terminal that combines traditional terminal features with graphical capabilities like file previews, web browsing, and AI assistance. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wavetermdev/waveterm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Developer Tools / Frameworks For Hybrid Applications
+
+*   [Tauri](https://tauri.app/) - Create small, fast, secure, cross-platform applications [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/tauri-apps/tauri)
+
+##### Design and Product / Design Tools
+
+*   [darktable](https://www.darktable.org) - darktable is an open source photography workflow application and raw developer. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/darktable-org/darktable) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Audio and Video Tools / Audio Record and Process
+
+*   [CapSoftware](https://github.com/CapSoftware/) - An open-source alternative to Loom. Beautiful, shareable screen recording tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CapSoftware/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / Menu Bar Tools
+
+*   [DayBar](https://wangchujiang.com/daybar/) - An application that can display the local date and reminder events in the menu bar. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/daybar/6739052447)
+*   [NotchNook](https://lo.cafe/notchnook) - Customizes your Mac's menu bar to seamlessly integrate with the notch design.
+
+#### [67. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Authentication and OAuth
+
+*   [permissions (⭐6)](https://github.com/xyproto/permissions) - Library for keeping track of users, login states, and permissions. Uses secure cookies and bcrypt.
+
+##### Bot Building
+
+*   [arikawa (⭐495)](https://github.com/diamondburned/arikawa) - A library and framework for the Discord API.
+
+##### Build Automation
+
+*   [gaper (⭐81)](https://github.com/maxclaus/gaper) - Builds and restarts a Go project when it crashes or some watched file changes.
+
+##### Configuration
+
+*   [hedzr/store (⭐5)](https://github.com/hedzr/store) - Extensible, high-performance configuration management library, optimized for hierarchical data.
+
+##### SQL Query Builders
+
+*   [patcher (⭐2)](https://github.com/Jacobbrewer1/patcher) - Powerful SQL Query builder that automatically generates SQL queries from structs.
+
+##### Relational Database Drivers
+
+*   [go-sqlite3 (⭐572)](https://github.com/ncruces/go-sqlite3) - This Go module is compatible with the database/sql driver. It allows embedding SQLite into your application, provides direct access to its C API, supports SQLite VFS, and also includes a GORM driver.
+*   [sqlite](https://pkg.go.dev/modernc.org/sqlite) - Package sqlite is a sql/database driver using a CGo-free port of the C SQLite3 library.
+
+##### Distributed Systems
+
+*   [committer (⭐32)](https://github.com/vadiminshakov/committer) - A distributed transactions management system (2PC/3PC implementation).
+
+##### Financial
+
+*   [ledger (⭐896)](https://github.com/formancehq/ledger) - A programmable financial ledger that provides a foundation for money-moving applications.
+
+##### Game Development
+
+*   [Arche (⭐163)](https://github.com/mlange-42/arche) - Archetype-based Entity Component System (ECS) for Go.
+
+##### Uncategorized
+
+*   [archives (⭐128)](https://github.com/mholt/archives) - a cross-platform, multi-format Go library for working with archives and compression formats with a unified API and as virtual file systems compatible with io/fs.
+
+##### HTTP Clients
+
+*   [axios4go (⭐11)](https://github.com/rezmoss/axios4go) - A Go HTTP client library inspired by Axios, providing a simple and intuitive API for making HTTP requests.
+
+##### Server Applications
+
+*   [wd-41 (⭐147)](https://github.com/baalimago/wd-41) - A (w)eb (d)evelopment server with automatic live-reload on file changes.
+
+##### Template Engines
+
+*   [extemplate](https://git.sr.ht/~dvko/extemplate) - Tiny wrapper around html/template to allow for easy file-based template inheritance.
+
+##### Mock
+
+*   [gomock (⭐2.5k)](https://github.com/uber-go/mock) - Mocking framework for the Go programming language.
+*   [pgxmock (⭐411)](https://github.com/pashagolub/pgxmock) - A mock library implementing [pgx - PostgreSQL Driver and Toolkit (⭐11k)](https://github.com/jackc/pgx/).
+
+##### Formatters
+
+*   [sq (⭐2.2k)](https://github.com/neilotoole/sq) - Convert data from SQL databases or document formats like CSV or Excel into formats such as JSON, Excel, CSV, HTML, Markdown, XML, and YAML.
+
+##### Utilities
+
+*   [xpool (⭐3)](https://github.com/peczenyj/xpool) - Yet another golang type safe object pool using generics.
+
+##### XML / Libraries for creating HTTP middlewares
+
+*   [xmlquery (⭐454)](https://github.com/antchfx/xmlquery) - xmlquery is Golang XPath package for XML query.
+
+##### Other Software / Libraries for creating HTTP middlewares
+
+*   [goblin](https://goblin.run) - Cloud builder for CLI's written in go lang
+*   [Layli](https://layli.app) - Draw pretty layout diagrams as code.
+*   [tinycare-tui (⭐12)](https://github.com/DMcP89/tinycare-tui) - Small terminal app that shows git commits from the last 24 hours and week, current weather, some self care advice, a joke, and you current todo list tasks.
+
+##### Meetups / Libraries for creating HTTP middlewares
+
+*   [Golang Milano](https://www.meetup.com/golang-milano/)
+*   [Golang Roma](https://www.meetup.com/golangroma/)
+*   [Golang Torino](https://www.meetup.com/golang-torino/)
+
+#### [68. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+
+##### Applications
+
+*   [Harpoon (⭐8)](https://github.com/aschiavon91/harpoon) - A webhook receiver/inspector app, made using Phoenix and LiveView, it's basically a simplified version of [webhook.site](htts://webhook.site).
+
+##### Cloud Infrastructure and Management
+
+*   [Batteries Included (⭐29)](https://github.com/batteries-included/batteries-included) - A self hostable platform for automation/UI driven Kubernetes; built in Elixir and Golang the entire UI is built with Phoenix Live View.
+*   [Kubereq (⭐11)](https://github.com/mruoss/kubereq) - Kubernetes Client for Elixir based on Req.
+
+##### Data Visualization
+
+*   [tucan (⭐202)](https://github.com/pnezis/tucan) - An Elixir plotting library on top of VegaLite.
+*   [vega\_lite (⭐189)](https://github.com/livebook-dev/vega_lite) - Elixir bindings for Vega-Lite.
+
+#### [69. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+
+##### Papers / 2025
+
+*   [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) - (AAAI) *Auditing as a black-box optimization problem where the goal is to automatically uncover input-output pairs of the target LLMs that exhibit illegal, immoral, or unsafe behaviors.*
+*   [Queries, Representation & Detection: The Next 100 Model Fingerprinting Schemes](https://arxiv.org/abs/2412.13021) - (AAAI) *Divides model fingerprinting into three core components, to identify ∼100 previously unexplored combinations of these and gain insights into their performance.*
+
+##### Related Events / 2025
+
+*   [AAAI workshop on AI Governance: Alignment, Morality, and Law](https://aaai.org/conference/aaai/aaai-25/workshop-list/#ws06)
 
 ### [Jan 21, 2025](/content/2025/01/21/README.md)
 
@@ -2025,7 +2061,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 302, 📝 01&#x2F;22 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 21K, 📝 24&#x2F;11&#x2F;16 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K, 📝 01&#x2F;22 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-- [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 92, 📝 24&#x2F;10&#x2F;22 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
+- [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 97, 📝 01&#x2F;22 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
 - [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 9.3K, 📝 01&#x2F;22 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
 - [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 20K, 📝 01&#x2F;22 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
 - [Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md) - ([Source ⭐ 1.1K, 📝 20&#x2F;11&#x2F;25 ](https://github.com/passy/awesome-recursion-schemes)) - Resources for learning and using recursion schemes.

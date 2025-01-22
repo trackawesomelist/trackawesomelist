@@ -8,6 +8,10 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
+### Applications
+
+*   [Harpoon (⭐8)](https://github.com/aschiavon91/harpoon) - A webhook receiver/inspector app, made using Phoenix and LiveView, it's basically a simplified version of [webhook.site](htts://webhook.site).
+
 ### Cloud Infrastructure and Management
 
 *   [Batteries Included (⭐29)](https://github.com/batteries-included/batteries-included) - A self hostable platform for automation/UI driven Kubernetes; built in Elixir and Golang the entire UI is built with Phoenix Live View.
