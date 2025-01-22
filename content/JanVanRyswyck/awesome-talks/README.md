@@ -6,6 +6,16 @@ Awesome online talks and screencasts
 
 [ Daily / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
 
+## [Jan 22, 2025](/content/2025/01/22/README.md)
+
+### Test-Driven Development
+
+*   [TDD: Theme & Variations](https://www.youtube.com/watch?v=C5IH0ABmyc0) by **Kent Beck** \[57:29]
+
+### Methodologies
+
+*   [The Efficiency Paradox](https://www.youtube.com/watch?v=hGJpez7rvc0) by **Niklas Modig** \[18:48]
+
 ## [Aug 09, 2024](/content/2024/08/09/README.md)
 
 ### Software Development

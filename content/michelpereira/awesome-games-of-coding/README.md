@@ -2,9 +2,15 @@
 
 A curated list of games that can teach you how to learn a programming language.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/michelpereira/awesome-games-of-coding/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) · ⭐ 1.8K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/michelpereira/awesome-games-of-coding/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 michelpereira/awesome-games-of-coding](https://github.com/michelpereira/awesome-games-of-coding) · ⭐ 1.9K · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/michelpereira/awesome-games-of-coding/week/README.md) / [Overview](/content/michelpereira/awesome-games-of-coding/readme/README.md) ]
+
+## [Jan 08, 2025](/content/2025/01/08/README.md)
+
+### JavaScript
+
+*   [BitBurner (⭐886)](https://github.com/bitburner-official/bitburner-src) - A programming-based idle incremental RPG where you, the player, take the role of an unknown hacker in a dark, dystopian world. The game can be played in the browser, or installed locally through Steam.
 
 ## [Jun 19, 2024](/content/2024/06/19/README.md)
 
@@ -26,7 +32,7 @@ A curated list of games that can teach you how to learn a programming language.
 
 ### Miscellaneous
 
-*   [The Command Line Murders (⭐5.4k)](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
+*   [The Command Line Murders (⭐5.7k)](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
 *   [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn S
     QL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 *   [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret
@@ -94,7 +100,7 @@ A curated list of games that can teach you how to learn a programming language.
 
 ### Python
 
-*   [Robocode (⭐139)](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
+*   [Robocode (⭐144)](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
 
 ### Java
 

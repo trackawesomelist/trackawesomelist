@@ -6,6 +6,16 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 [ [Daily](/content/AchoArnold/discount-for-student-dev/README.md) / Weekly / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
 
+## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
+
+### 3D Animation and Modeling Software
+
+*   [Solid Edge](https://resources.sw.siemens.com/en-US/download-solid-edge-student-edition/) \[FREE] - Free professional 3D CAD software for students.
+
+### Screen Recorders
+
+*   [1001 Record](https://1001record.com/educational-discount) \[DISCOUNT] - 1001 Record is the best screen recording app for Mac with a built-in annotation tool and more. 60% Discount for students.
+
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
 ### SaaS
@@ -17,7 +27,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 ### SaaS
 
 *   [Appwrite](https://appwrite.io/education) \[FREE] - Appwrite is an open-source Backend-as-a-Service platform for building web, mobile, native, or backend apps.  Free access to Appwrite Pro (worth $15/month) throughout your student career (i.e., as long as you remain a member of the GitHub Student Developer Pack).
-*   [StreamYard](https://streamyard.com/github-students) \[FREE] - New Relic is an observability platform that helps fully understand how to improve your software. Free New Relic while you are a student. ($300/month value).
 *   [Bump.sh](https://bump.sh/students) \[FREE] - Publish and keep API docs up-to-date from OpenAPI and AsyncAPI files stored in your GitHub repo. Free use of the Standard plan, worth $149/month, as long as you are a GitHub Student.
 *   [Doppler](https://doppler.com/lp/secretsops-for-students) \[FREE] - A different way to manage secrets. From local development to production, we work on every stack, scaling with you as your team and products grow. Free Doppler Team subscription while the user is an active student.
 
@@ -403,7 +412,6 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 ### Software Packs
 
 *   [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) \[FREE] - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
-*   [IBM Student Developer Community](https://developer.ibm.com/students/) \[FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
 *   [Exploratory](https://exploratory.io/) \[FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
 
 ### Learning Resources
@@ -449,7 +457,3 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 ### Payments
 
 *   [Stripe](https://stripe.com/) \[CREDIT] - Web and mobile payments, built for developers. Waived transaction fees on first $1,000 in revenue processed available via [Github Student Developer Pack](https://education.github.com/pack).
-
-### Management Systems
-
-*   [Bitnami](https://bitnami.com) \[FREE] - Install cloud applications in a single click. Business 3 plan (normally $49/month) for one year available via [Github Student Developer Pack](https://education.github.com/pack).

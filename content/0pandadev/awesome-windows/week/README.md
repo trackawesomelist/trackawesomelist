@@ -2,21 +2,68 @@
 
 An awesome & curated list of tools and apps for Windows 10/11.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 410 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/0pandadev/awesome-windows/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 0pandadev/awesome-windows](https://github.com/0PandaDEV/awesome-windows) · ⭐ 469 · 🏷️ Platforms
 
 [ [Daily](/content/0pandadev/awesome-windows/README.md) / Weekly / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
+
+## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
+
+### File Management
+
+*   [Xftp 7](https://www.netsarang.com/en/xftp/) - Flexible SFTP/FTP client with advanced features for efficient file transfers. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+
+### IDEs
+
+*   [Zed](https://zed.dev) - A high-performance, multiplayer code editor from the creators of Atom. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/zed-industries/zed)
+
+### Remote Access
+
+*   [AnyDesk](https://anydesk.com/) - Free and lightweight remote access solution for ease of use.
+*   [Moonlight (⭐12k)](https://github.com/moonlight-stream/moonlight-qt) - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/moonlight-stream/moonlight-qt)
+*   [Parsec](https://parsec.app/) - High-performance remote desktop solution with 4k streaming at 60fps and low latency.
+*   [RealVNC](https://www.realvnc.com) - Secure remote access for desktop and mobile devices.
+*   [RoyalTSX](https://www.royalapps.com/ts/win/features) - Remote access tool for IT professionals, supporting multiple protocols.
+*   [RustDesk](https://rustdesk.com/) - Open-source remote desktop software with a focus on simplicity and security. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/rustdesk/rustdesk)
+*   [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Play your Steam games across devices using the Steam Link app.
+*   [Sunshine (⭐22k)](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/LizardByte/Sunshine)
+*   [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer.
+
+### Screenshot
+
+*   [Capter (⭐98)](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/flameshot-org/flameshot)
+*   [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly.
+
+### System Utilities
+
+*   [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives safely and easily. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/balena-io/etcher)
+*   [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Rem0o/FanControl.Releases) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares.
+*   [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/xanderfrangos/twinkle-tray)
+
+### Virtualization
+
+*   [QEMU](https://www.qemu.org/) - Open-source emulator and virtualizer for hardware and system virtualization.
+*   [Rancher Desktop](https://rancherdesktop.io) - Open-source application for managing containers and Kubernetes on the desktop.
+*   [VirtualBox](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization software for creating and managing virtual machines.
+
+### Window Management
+
+*   [AltSnap (⭐2.7k)](https://github.com/RamonUnch/AltSnap) -  A lightweight window management tool for snapping windows to predefined positions using keyboard shortcuts. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [FancyZones (⭐114k)](https://github.com/microsoft/PowerToys) - A feature of PowerToys that helps with window snapping and arranging for multi-monitor setups in Windows. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [GlazeWM (⭐7.2k)](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3wm written in Rust. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
 
 ### Application Launchers
 
-*   [kunkun (⭐11)](https://github.com/kunkunsh/kunkun) - Raycast/Alfred-like launcher with sandboxed extensions ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [kunkun (⭐24)](https://github.com/kunkunsh/kunkun) - Raycast/Alfred-like launcher with sandboxed extensions ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [Wox](http://wox-launcher.github.io/Wox/) - Launches apps with web search integration. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Wox-launcher/Wox/)
 
 ### Chat Clients
 
 *   [LegCord](https://legcord.app/) - Discord client with Vencord and shelter integration. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/legcord/legcord) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
-*   [Equicord (⭐328)](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Equicord/Equicord)
+*   [Equicord (⭐358)](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Equicord/Equicord)
 
 ### Cloud Storage
 
@@ -57,7 +104,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [1Password](https://1password.com/) - Premium password manager with secure vault and team features. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 *   [Proton Pass](https://proton.me/pass) - Zero-knowledge encrypted password manager.
-*   [Vaultwarden (⭐40k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dani-garcia/vaultwarden) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Vaultwarden (⭐41k)](https://github.com/dani-garcia/vaultwarden) - Lightweight Bitwarden server implementation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dani-garcia/vaultwarden) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ### Terminal
 
@@ -95,14 +142,14 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Command Line Tools
 
-*   [btop4win (⭐867)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [Scoop (⭐21k)](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [btop4win (⭐888)](https://github.com/aristocratos/btop4win) - Windows port of the famous btop resource monitor. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Scoop (⭐22k)](https://github.com/lukesampson/scoop) - Command-line installer for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Customization
 
 *   [Classic Start (⭐30)](https://github.com/passionate-coder/Classic-Start) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 *   [TranslucentTB (⭐16k)](https://github.com/TranslucentTB/TranslucentTB) - Makes taskbar transparent. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [YASB (⭐415)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [YASB (⭐532)](https://github.com/amnweb/yasb) - Creates customizable status bars. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Databases Clients
 
@@ -110,7 +157,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Game Stores
 
-*   [Gale (⭐142)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Gale (⭐164)](https://github.com/Kesomannen/gale) - Modern and lightweight mod manager for Thunderstore. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### IDEs
 
@@ -119,7 +166,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Productivity
 
 *   [AutoHotkey](https://autohotkey.com/) - Automation scripting language for Windows. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [Kaas (⭐29)](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Kaas (⭐46)](https://github.com/0xfrankz/Kaas) - Privacy-focused LLM client for multiple AI services. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ### Screen Capture
 
@@ -127,8 +174,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### System Utilities
 
-*   [neohtop (⭐4.6k)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
-*   [SetToStartup](https://aashutoshrathi.github.io/Python-Scripts-and-Games/SetToStartup/) - Startup program management utility. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [neohtop (⭐4.7k)](https://github.com/Abdenasser/neohtop) - Modern system monitor built with Svelte and Rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ### Terminal
 
@@ -141,7 +187,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Version Control
 
-*   [GitLight (⭐777)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [GitLight (⭐778)](https://github.com/colinlienard/gitlight) - Open-source GitHub & GitLab notifications client. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -195,9 +241,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [Mp3tag](https://www.mp3tag.de/en/) - Edits music metadata and tags.
 
-### System Utilities
+### File Management
 
 *   [Everything](https://www.voidtools.com/) - Instant file search utility.
+
+### System Utilities
+
 *   [WinFindr](https://winfindr.com/) - Multi-term file and registry search utility.
 
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
@@ -217,7 +266,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Email
 
 *   [BlueMail](https://www.bluemail.me/desktop/) - Cross-platform email client with modern interface.
-*   [Postbox](https://postbox-inc.com/) - Advanced email management application. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+*   [Postbox](https://postbox-inc.com/) - Advanced email management application.
 
 ### Game Stores
 
@@ -243,8 +292,11 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [Fraps](https://www.fraps.com/) - DirectX/OpenGL game recording utility.
 *   [LICEcap](https://www.cockos.com/licecap/) - Animated GIF screen capture tool.
-*   [ShareX](https://getsharex.com/) - Feature-rich screen capture and sharing tool. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/ShareX/ShareX)
 *   [Snipping Tool](https://support.microsoft.com/en-in/help/13776/windows-use-snipping-tool-to-capture-screenshots) - Built-in Windows screenshot utility.
+
+### Screenshot
+
+*   [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/ShareX/ShareX)
 
 ### Security
 
@@ -256,10 +308,6 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### System Utilities
 
 *   [LightBulb (⭐2.3k)](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
-*   [Process Monitor](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) - Real-time system activity monitoring tool.
-*   [rimraf](https://www.npmjs.com/package/rimraf) - Deep deletion module for handling long file paths.
-*   [Speccy](https://www.piriform.com/speccy) - Detailed hardware information utility.
-*   [Unlocker](https://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - File unlock utility.
 
 ### Terminal
 
@@ -377,7 +425,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### Compression
 
 *   [7-Zip](https://www.7-zip.org/) - File archiver with multiple format support. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/ip7z/7zip)
-*   [Bandizip](https://www.bandisoft.com/bandizip/) - Archive manager with multiple format support. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+*   [Bandizip](https://www.bandisoft.com/bandizip/) - Archive manager with multiple format support.
 *   [Riot](https://riot-optimizer.com/) - Compresses images with multiple optimization options.
 *   [WinRAR](https://www.rarlab.com/) - Compresses, backs up and splits files. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 
@@ -393,33 +441,35 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### Data Recovery
 
-*   [Data Rescue](https://www.prosofteng.com/windows-data-recovery) - Professional recovery solution for photos, videos, and documents. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
-*   [IsoBuster](https://www.isobuster.com/) - Multi-format data recovery tool supporting various storage media. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
-*   [Ontrack EasyRecovery](https://www.ontrack.com/en-au/software/easyrecovery/windows) - Advanced recovery tool with comprehensive filtering capabilities. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+*   [Data Rescue](https://www.prosofteng.com/windows-data-recovery) - Professional recovery solution for photos, videos, and documents.
+*   [IsoBuster](https://www.isobuster.com/) - Multi-format data recovery tool supporting various storage media.
+*   [Ontrack EasyRecovery](https://www.ontrack.com/en-au/software/easyrecovery/windows) - Advanced recovery tool with comprehensive filtering capabilities.
 *   [PartitionGuru ｜ Eassos Recovery](https://www.eassos.com/) - Specialized recovery tool for partitions and file systems. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 *   [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - Free recovery utility focused on partition restoration and disk repair.
 
 ### Developer Utilities
 
-*   [Cacher](https://www.cacher.io/) - Syncs and organizes code snippets with Gist integration and IDE plugins. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+*   [Cacher](https://www.cacher.io/) - Syncs and organizes code snippets with Gist integration and IDE plugins.
 *   [Mamp](https://www.mamp.info/en/) - Runs Apache, MySQL and PHP stack locally.
 *   [Pieces](https://pieces.app/) - Uses AI to help capture, organize and reuse code snippets and dev resources.
-*   [Velocity](https://velocity.silverlakesoftware.com/) - Browses and searches API documentation without internet connection. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+*   [Velocity](https://velocity.silverlakesoftware.com/) - Browses and searches API documentation without internet connection.
 *   [Xampp](https://www.apachefriends.org/index.html) - Bundles Apache, MariaDB, PHP and Perl for local development.
 
 ### Email
 
-*   [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client with customization and multi-language support. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+*   [Mailbird](https://www.mailbird.com/) - IMAP and POP3 email client with customization and multi-language support.
 *   [Mailspring](https://getmailspring.com/) - Modern email client built on web technologies. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Foundry376/Mailspring) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 *   [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Feature-rich email client with minimalist design. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build)
 *   [Wino Mail](https://winomail.app) - Modern mail client with integrated calendar. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/bkaankose/Wino-Mail)
 
 ### File Management
 
+*   [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - Lossless file size optimizer for multiple formats.
 *   [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://download.filezilla-project.org/client/)
-*   [One Commander](https://onecommander.com/) - Modern file manager with miller columns. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+*   [FreeFileSync](https://www.freefilesync.org/) - File and folder backup with multiple sync modes.
+*   [fselect (⭐4.1k)](https://github.com/jhspetersson/fselect) - SQL-like file search utility.
+*   [One Commander](https://onecommander.com/) - Modern file manager with miller columns.
 *   [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client.
-*   [Xftp 7](https://www.netsarang.com/en/xftp/) - Flexible and lightweight SFTP/FTP client. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 
 ### Game Stores
 
@@ -507,35 +557,23 @@ An awesome & curated list of tools and apps for Windows 10/11.
 ### System Utilities
 
 *   [Advanced Renamer](https://www.advancedrenamer.com/) - Batch file renamer with support for metadata and regex.
-*   [Carnac](https://code52.org/carnac/) - Keystroke visualization tool for screencasts.
 *   [CleanMyPC](https://macpaw.com/cleanmypc) - System cleanup and optimization utility. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 *   [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU monitoring and information tool.
-*   [Econap](https://econap.de) - System sleep prevention utility.
-*   [FileOptimizer](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer) - Lossless file size optimizer for multiple formats.
-*   [FreeFileSync](https://www.freefilesync.org/) - File and folder backup with multiple sync modes.
-*   [fselect (⭐4k)](https://github.com/jhspetersson/fselect) - SQL-like file search utility.
-*   [Glary Utilities](https://www.glarysoft.com/) - System optimization and maintenance suite.
 *   [GPU-Z](https://www.techpowerup.com/gpuz/) - GPU monitoring and information tool.
 *   [HWMonitor](https://www.cpuid.com/softwares/hwmonitor.html) - Hardware monitoring for temperatures, voltages, and fan speeds.
 *   [IrfanView](https://www.irfanview.com/) - Fast and compact image viewer and converter.
-*   [Link Shell Extension](https://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Explorer integration for symlink creation.
-*   [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Quick power schema switcher with AC-plug automation. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/petrroll/PowerSwitcher)
-*   [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Advanced task manager for handling processes and system resources.
-*   [Process Hacker](https://processhacker.sourceforge.net/) - Comprehensive system monitoring and management tool.
+*   [Process Hacker](https://processhacker.sourceforge.net/) - Comprehensive system monitoring and management tool. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/PKRoma/ProcessHacker)
 *   [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
-*   [Retroshare](https://retroshare.cc/) - Secure communications and file sharing platform. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/RetroShare/RetroShare)
 *   [Rufus](https://rufus.akeo.ie/) - Bootable USB creation utility.
 *   [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) - Secure file deletion command-line utility.
-*   [SpaceMonger](https://spacemonger.en.softonic.com/download) - Disk space usage visualization tool.
 *   [SpeedCrunch](https://speedcrunch.org/) - Powerful scientific calculator. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://bitbucket.org/heldercorreia/speedcrunch/)
-*   [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Advanced Windows system utilities collection.
-*   [Waltr](https://softorino.com/waltr/) - iOS media transfer utility without iTunes.
+*   [Waltr](https://softorino.com/waltr/) - iOS media transfer utility without iTunes. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
 *   [WizTree](https://wiztree.en.lo4d.com/) - Fast disk space analyzer.
 
 ### Terminal
 
 *   [ConEmu (⭐8.7k)](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, and quake-style dropdown.
-*   [FluentTerminal (⭐9.2k)](https://github.com/felixse/FluentTerminal) - UWP-based modern terminal emulator.
+*   [FluentTerminal (⭐9.3k)](https://github.com/felixse/FluentTerminal) - UWP-based modern terminal emulator.
 *   [MobaXterm](https://mobaxterm.mobatek.net/) - Enhanced terminal with X server and SSH client.
 *   [MTPuTTY](https://ttyplus.com/multi-tabbed-putty/) - Multi-tabbed PuTTY client.
 *   [Terminus](https://eugeny.github.io/terminus/) - Configurable terminal built on web technologies. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Eugeny/terminus)

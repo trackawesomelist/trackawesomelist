@@ -2,7 +2,7 @@
 
 A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/coq-community/awesome-coq/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 coq-community/awesome-coq](https://github.com/coq-community/awesome-coq) · ⭐ 328 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/coq-community/awesome-coq/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 coq-community/awesome-coq](https://github.com/coq-community/awesome-coq) · ⭐ 333 · 🏷️ Programming Languages
 
 [ [Daily](/content/coq-community/awesome-coq/README.md) / [Weekly](/content/coq-community/awesome-coq/week/README.md) / Overview ]
 
@@ -16,7 +16,7 @@ A curated list of awesome Coq libraries, plugins, tools, verification projects, 
 
 The [Coq proof assistant](https://coq.inria.fr) provides a formal language to write mathematical definitions, executable algorithms, and theorems, together with an environment for semi-interactive development of machine-checked proofs.
 
-Contributions welcome! Read the [contribution guidelines (⭐323)](https://github.com/coq-community/awesome-coq/blob/master/CONTRIBUTING.md) first.
+Contributions welcome! Read the [contribution guidelines (⭐333)](https://github.com/coq-community/awesome-coq/blob/master/CONTRIBUTING.md) first.
 
 ## Contents
 
@@ -43,33 +43,33 @@ Contributions welcome! Read the [contribution guidelines (⭐323)](https://githu
 
 ### Frameworks
 
-*   [ConCert (⭐116)](https://github.com/AU-COBRA/ConCert) - Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.
+*   [ConCert (⭐117)](https://github.com/AU-COBRA/ConCert) - Framework for smart contract testing and verification featuring a code extraction pipeline to several smart contract languages.
 *   [CoqEAL (⭐67)](https://github.com/CoqEAL/CoqEAL) - Framework to ease change of data representations in proofs.
 *   [FCF (⭐49)](https://github.com/adampetcher/fcf) - Framework for proofs of cryptography.
-*   [Fiat (⭐150)](https://github.com/mit-plv/fiat) - Mostly automated synthesis of correct-by-construction programs.
+*   [Fiat (⭐151)](https://github.com/mit-plv/fiat) - Mostly automated synthesis of correct-by-construction programs.
 *   [FreeSpec (⭐52)](https://github.com/lthms/FreeSpec) - Framework for modularly verifying programs with effects and effect handlers.
 *   [Hoare Type Theory (⭐70)](https://github.com/imdea-software/htt/) - A shallow embedding of sequential separation logic formulated as a type theory.
 *   [Hybrid](https://www.site.uottawa.ca/~afelty/HybridCoq/) - System for reasoning using higher-order abstract syntax representations of object logics.
 *   [Iris](https://iris-project.org) - Higher-order concurrent separation logic framework.
 *   [Q\*cert (⭐56)](https://github.com/querycert/qcert) - Platform for implementing and verifying query compilers.
-*   [SSProve (⭐56)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
-*   [VCFloat (⭐25)](https://github.com/VeriNum/vcfloat) - Framework for verifying C programs with floating-point computations.
+*   [SSProve (⭐57)](https://github.com/SSProve/ssprove) - Framework for modular cryptographic proofs based on the Mathematical Components library.
+*   [VCFloat (⭐26)](https://github.com/VeriNum/vcfloat) - Framework for verifying C programs with floating-point computations.
 *   [Verdi (⭐596)](https://github.com/uwplse/verdi) - Framework for formally verifying distributed systems implementations.
 *   [VST](https://vst.cs.princeton.edu) - Toolchain for verifying C code inside Coq in a higher-order concurrent, impredicative separation logic that is sound w\.r.t. the Clight language of the CompCert compiler.
 
 ### User Interfaces
 
 *   [CoqIDE](https://coq.inria.fr/refman/practical-tools/coqide.html) - Standalone graphical tool for interacting with Coq.
-*   [Coqtail (⭐274)](https://github.com/whonore/Coqtail) - Interface for Coq based on the Vim text editor.
-*   [Coq LSP (⭐154)](https://github.com/ejgallego/coq-lsp) - Language server and extension for the Visual Studio Code and VSCodium editors with custom document checking engine.
+*   [Coqtail (⭐278)](https://github.com/whonore/Coqtail) - Interface for Coq based on the Vim text editor.
+*   [Coq LSP (⭐156)](https://github.com/ejgallego/coq-lsp) - Language server and extension for the Visual Studio Code and VSCodium editors with custom document checking engine.
 *   [Proof General](https://proofgeneral.github.io) - Generic interface for proof assistants based on the extensible, customizable text editor Emacs.
 *   [Company-Coq (⭐351)](https://github.com/cpitclaudel/company-coq) - IDE extensions for Proof General's Coq mode.
 *   [opam-switch-mode (⭐5)](https://github.com/ProofGeneral/opam-switch-mode) - IDE extension for Proof General to locally change or reset the opam switch from a menu or using a command.
-*   [jsCoq (⭐519)](https://github.com/jscoq/jscoq) - Port of Coq to JavaScript, which enables running Coq projects in a browser.
+*   [jsCoq (⭐520)](https://github.com/jscoq/jscoq) - Port of Coq to JavaScript, which enables running Coq projects in a browser.
 *   [Jupyter kernel for Coq (⭐94)](https://github.com/EugeneLoy/coq_jupyter) - Coq support for the Jupyter Notebook web environment.
-*   [VsCoq (⭐350)](https://github.com/coq-community/vscoq) - Language server and extension for the Visual Studio Code and VSCodium editors.
-*   [VsCoq Legacy (⭐350)](https://github.com/coq-community/vscoq/tree/vscoq1) - Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
-*   [Waterproof editor (⭐40)](https://github.com/impermeable/waterproof) - Educational environment for writing mathematical proofs in interactive notebooks.
+*   [VsCoq (⭐355)](https://github.com/coq-community/vscoq) - Language server and extension for the Visual Studio Code and VSCodium editors.
+*   [VsCoq Legacy (⭐355)](https://github.com/coq-community/vscoq/tree/vscoq1) - Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
+*   [Waterproof editor (⭐41)](https://github.com/impermeable/waterproof) - Educational environment for writing mathematical proofs in interactive notebooks.
 
 ### Libraries
 
@@ -77,35 +77,35 @@ Contributions welcome! Read the [contribution guidelines (⭐323)](https://githu
 *   [Algebra Tactics (⭐33)](https://github.com/math-comp/algebra-tactics) - Ring and field tactics for Mathematical Components.
 *   [Bignums (⭐22)](https://github.com/coq/bignums) - Library of arbitrarily large numbers.
 *   [Bedrock Bit Vectors (⭐27)](https://github.com/mit-plv/bbv) - Library for reasoning on fixed precision machine words.
-*   [CertiGraph (⭐17)](https://github.com/Salamari/CertiGraph) - Library for reasoning about directed graphs and their embedding in separation logic.
+*   [CertiGraph (⭐18)](https://github.com/Salamari/CertiGraph) - Library for reasoning about directed graphs and their embedding in separation logic.
 *   [CoLoR (⭐35)](https://github.com/fblanqui/color) - Library on rewriting theory, lambda-calculus and termination, with sub-libraries on common data structures extending the Coq standard library.
 *   [coq-haskell (⭐168)](https://github.com/jwiegley/coq-haskell) - Library smoothing the transition to Coq for Haskell users.
 *   [Coq-Kruskal (⭐0)](https://github.com/DmxLarchey/Coq-Kruskal) - Collection of libraries related to rose trees and Kruskal's tree theorem.
 *   [CoqInterval](https://gitlab.inria.fr/coqinterval/interval/) - Tactics for performing proofs of inequalities on expressions of real numbers.
 *   [Coq record update (⭐43)](https://github.com/tchajed/coq-record-update) - Library which provides a generic way to update Coq record fields.
 *   [Coq-std++](https://gitlab.mpi-sws.org/iris/stdpp) - Extended alternative standard library for Coq.
-*   [ExtLib (⭐129)](https://github.com/coq-community/coq-ext-lib) - Collection of theories and plugins that may be useful in other Coq developments.
-*   [FCSL-PCM (⭐26)](https://github.com/imdea-software/fcsl-pcm) - Formalization of partial commutative monoids as used in verification of pointer-manipulating programs.
+*   [ExtLib (⭐130)](https://github.com/coq-community/coq-ext-lib) - Collection of theories and plugins that may be useful in other Coq developments.
+*   [FCSL-PCM (⭐28)](https://github.com/imdea-software/fcsl-pcm) - Formalization of partial commutative monoids as used in verification of pointer-manipulating programs.
 *   [Flocq](https://gitlab.inria.fr/flocq/flocq) - Formalization of floating-point numbers and computations.
-*   [Formalised Undecidable Problems (⭐111)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
+*   [Formalised Undecidable Problems (⭐112)](https://github.com/uds-psl/coq-library-undecidability) - Library of undecidable problems and reductions between them.
 *   [Hahn (⭐30)](https://github.com/vafeiadis/hahn) - Library for reasoning on lists and binary relations.
-*   [Interaction Trees (⭐207)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
-*   [LibHyps (⭐20)](https://github.com/Matafou/LibHyps) - Library of Ltac tactics to manage and manipulate hypotheses in proofs.
+*   [Interaction Trees (⭐208)](https://github.com/DeepSpec/InteractionTrees) - Library for representing recursive and impure programs.
+*   [LibHyps (⭐21)](https://github.com/Matafou/LibHyps) - Library of Ltac tactics to manage and manipulate hypotheses in proofs.
 *   [MathComp Extra (⭐5)](https://github.com/thery/mathcomp-extra) - Extra material for the Mathematical Components library, including the AKS primality test and RSA encryption and decryption.
-*   [Mczify (⭐24)](https://github.com/math-comp/mczify) - Library enabling Micromega arithmetic solvers to work when using Mathematical Components number definitions.
-*   [Metalib (⭐73)](https://github.com/plclub/metalib) - Library for programming language metatheory using locally nameless variable binding representations.
+*   [Mczify (⭐25)](https://github.com/math-comp/mczify) - Library enabling Micromega arithmetic solvers to work when using Mathematical Components number definitions.
+*   [Metalib (⭐74)](https://github.com/plclub/metalib) - Library for programming language metatheory using locally nameless variable binding representations.
 *   [Paco](http://plv.mpi-sws.org/paco/) - Library for parameterized coinduction.
 *   [Regular Language Representations (⭐41)](https://github.com/coq-community/reglang) - Translations between different definitions of regular languages, including regular expressions and automata.
 *   [Relation Algebra (⭐48)](https://github.com/damien-pous/relation-algebra) - Modular formalization of algebras with heterogeneous binary relations as models.
-*   [Simple IO (⭐31)](https://github.com/Lysxia/coq-simple-io) - Input/output monad with user-definable primitive operations.
-*   [TLC (⭐38)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
+*   [Simple IO (⭐32)](https://github.com/Lysxia/coq-simple-io) - Input/output monad with user-definable primitive operations.
+*   [TLC (⭐39)](https://github.com/charguer/tlc) - Non-constructive alternative to Coq's standard library.
 
 ### Package and Build Management
 
 *   [coq\_makefile](https://coq.inria.fr/refman/practical-tools/utilities.html) - Build tool distributed with Coq and based on generating a makefile.
-*   [Coq Nix Toolbox (⭐34)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and continuous integration for Coq.
+*   [Coq Nix Toolbox (⭐35)](https://github.com/coq-community/coq-nix-toolbox) - Nix helper scripts to automate local builds and continuous integration for Coq.
 *   [Coq Package Index](https://coq.inria.fr/opam/www/) - Collection of Coq packages based on opam.
-*   [Coq Platform (⭐190)](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
+*   [Coq Platform (⭐191)](https://github.com/coq/platform) - Curated collection of packages to support Coq use in industry, education, and research.
 *   [coq-community Templates (⭐13)](https://github.com/coq-community/templates) - Templates for generating configuration files for Coq projects.
 *   [Debian Coq packages](https://people.debian.org/~jpuydt/coq_platform.html) - Coq-related packages available in the testing distribution of Debian.
 *   [Docker-Coq (⭐37)](https://github.com/coq-community/docker-coq) - Docker images for many versions of Coq.
@@ -118,22 +118,22 @@ Contributions welcome! Read the [contribution guidelines (⭐323)](https://githu
 
 ### Plugins
 
-*   [AAC Tactics (⭐29)](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
+*   [AAC Tactics (⭐30)](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
 *   [Coinduction (⭐15)](https://github.com/damien-pous/coinduction) - Plugin for doing proofs by enhanced coinduction.
 *   [Coq-Elpi (⭐141)](https://github.com/LPCIC/coq-elpi) - Extension framework based on λProlog providing an extensive API to implement commands and tactics.
-*   [CoqHammer (⭐221)](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
-*   [Equations (⭐224)](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
+*   [CoqHammer (⭐222)](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
+*   [Equations (⭐226)](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
 *   [Gappa](https://gitlab.inria.fr/gappa/coq) - Tactic for discharging goals about floating-point arithmetic and round-off errors.
 *   [Hierarchy Builder (⭐97)](https://github.com/math-comp/hierarchy-builder) - Collection of commands for declaring Coq hierarchies based on packed classes.
 *   [Itauto](https://gitlab.inria.fr/fbesson/itauto) - SMT-like tactics for combined propositional reasoning about function symbols, constructors, and arithmetic.
 *   [Ltac2](https://coq.inria.fr/refman/proof-engine/ltac2.html) - Experimental typed tactic language similar to Coq's classic Ltac language.
-*   [MetaCoq (⭐400)](https://github.com/MetaCoq/metacoq) - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
+*   [MetaCoq (⭐412)](https://github.com/MetaCoq/metacoq) - Project formalizing Coq in Coq and providing tools for manipulating Coq terms and developing certified plugins.
 *   [Mtac2 (⭐51)](https://github.com/Mtac2/Mtac2) - Plugin adding typed tactics for backward reasoning.
 *   [Paramcoq (⭐45)](https://github.com/coq-community/paramcoq) - Plugin to generate parametricity translations of Coq terms.
-*   [QuickChick (⭐260)](https://github.com/QuickChick/QuickChick) - Plugin for randomized property-based testing.
+*   [QuickChick (⭐261)](https://github.com/QuickChick/QuickChick) - Plugin for randomized property-based testing.
 *   [SMTCoq (⭐157)](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
 *   [Tactician](https://coq-tactician.github.io) - Interactive tool which learns from previously written tactic scripts across all the installed Coq packages and suggests the next tactic to be executed or tries to automate proof synthesis fully.
-*   [Unicoq (⭐51)](https://github.com/unicoq/unicoq) - Plugin that replaces the existing unification algorithm with an enhanced one.
+*   [Unicoq (⭐53)](https://github.com/unicoq/unicoq) - Plugin that replaces the existing unification algorithm with an enhanced one.
 *   [Waterproof proof language (⭐33)](https://github.com/impermeable/coq-waterproof) - Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof.
 
 ### Puzzles and Games
@@ -148,15 +148,15 @@ Contributions welcome! Read the [contribution guidelines (⭐323)](https://githu
 
 ### Tools
 
-*   [Alectryon (⭐240)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
-*   [Autosubst 2 (⭐17)](https://github.com/uds-psl/autosubst2) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
+*   [Alectryon (⭐246)](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
+*   [Autosubst-ocaml (⭐13)](https://github.com/uds-psl/autosubst-ocaml) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
 *   [CFML](https://gitlab.inria.fr/charguer/cfml2) - Tool for proving properties of OCaml programs in separation logic.
 *   [coq2html (⭐30)](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
 *   [coqdoc](https://coq.inria.fr/refman/using/tools/coqdoc.html) - Standard documentation tool that generates LaTeX or HTML files from Coq code.
 *   [CoqOfOCaml (⭐255)](https://github.com/clarus/coq-of-ocaml) - Tool for generating idiomatic Coq from OCaml code.
-*   [coq-dpdgraph (⭐87)](https://github.com/coq-community/coq-dpdgraph) - Tool for building dependency graphs between Coq objects.
-*   [coq-scripts (⭐8)](https://github.com/JasonGross/coq-scripts) - Scripts for dealing with Coq files, including tabulating proof times.
-*   [coq-tools (⭐39)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
+*   [coq-dpdgraph (⭐88)](https://github.com/coq-community/coq-dpdgraph) - Tool for building dependency graphs between Coq objects.
+*   [coq-scripts (⭐9)](https://github.com/JasonGross/coq-scripts) - Scripts for dealing with Coq files, including tabulating proof times.
+*   [coq-tools (⭐41)](https://github.com/JasonGross/coq-tools) - Scripts for manipulating Coq developments.
     *   [`find-bug.py`](https://github.com/JasonGross/coq-tools/blob/master/find-bug.py) - Automatically minimizes source files producing an error, creating small test cases for Coq bugs.
     *   [`absolutize-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/absolutize-imports.py) - Processes source files to make loading of dependencies robust against shadowing of file names.
     *   [`inline-imports.py`](https://github.com/JasonGross/coq-tools/blob/master/inline-imports.py) - Creates stand-alone source files from developments by inlining the loading of all dependencies.
@@ -164,50 +164,50 @@ Contributions welcome! Read the [contribution guidelines (⭐323)](https://githu
     *   [`move-requires.py`](https://github.com/JasonGross/coq-tools/blob/master/move-requires.py) - Moves all dependency loading statements to the top of source files.
     *   [`move-vernaculars.py`](https://github.com/JasonGross/coq-tools/blob/master/move-vernaculars.py) - Lifts many vernacular commands and inner lemmas out of proof script blocks.
     *   [`proof-using-helper.py`](https://github.com/JasonGross/coq-tools/blob/master/proof-using-helper.py) - Modifies source files to include proof annotations for faster parallel proving.
-*   [Cosette (⭐668)](https://github.com/uwdb/Cosette) - Automated solver for reasoning about SQL query equivalences.
-*   [hs-to-coq (⭐79)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
+*   [Cosette (⭐671)](https://github.com/uwdb/Cosette) - Automated solver for reasoning about SQL query equivalences.
+*   [hs-to-coq (⭐81)](https://github.com/plclub/hs-to-coq) - Converter from Haskell code to equivalent Coq code.
 *   [lngen (⭐30)](https://github.com/plclub/lngen) - Tool for generating locally nameless Coq definitions and proofs.
 *   [Menhir](http://gallium.inria.fr/~fpottier/menhir/) - Parser generator that can output Coq code for verified parsers.
 *   [mCoq (⭐30)](https://github.com/EngineeringSoftware/mcoq) - Mutation analysis tool for Coq projects.
-*   [Ott (⭐350)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
-*   [PyCoq (⭐50)](https://github.com/ejgallego/pycoq) - Set of bindings and libraries for interacting with Coq from inside Python 3.
-*   [Roosterize (⭐18)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
-*   [Sail (⭐645)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture (ISA) semantics of processors and generating Coq definitions.
+*   [Ott (⭐356)](https://github.com/ott-lang/ott) - Tool for writing definitions of programming languages and calculi that can be translated to Coq.
+*   [PyCoq (⭐52)](https://github.com/ejgallego/pycoq) - Set of bindings and libraries for interacting with Coq from inside Python 3.
+*   [Roosterize (⭐19)](https://github.com/EngineeringSoftware/roosterize) - Tool for suggesting lemma names in Coq projects.
+*   [Sail (⭐657)](https://github.com/rems-project/sail) - Tool for specifying instruction set architecture (ISA) semantics of processors and generating Coq definitions.
 *   [SerAPI (⭐128)](https://github.com/ejgallego/coq-serapi) - Tools and OCaml library for (de)serialization of Coq code to and from JSON and S-expressions.
 *   [Trakt (⭐15)](https://github.com/ecranceMERCE/trakt) - Generic goal preprocessing tool for proof automation tactics.
 
 ### Type Theory and Mathematics
 
-*   [Analysis (⭐211)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
-*   [Category Theory in Coq (⭐761)](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
-*   [Completeness and Decidability of Modal Logic Calculi (⭐8)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
+*   [Analysis (⭐210)](https://github.com/math-comp/analysis) - Library for classical real analysis compatible with Mathematical Components.
+*   [Category Theory in Coq (⭐760)](https://github.com/jwiegley/category-theory) - Axiom-free formalization of category theory.
+*   [Completeness and Decidability of Modal Logic Calculi (⭐9)](https://github.com/coq-community/comp-dec-modal) - Soundness, completeness, and decidability for the logics K, K\*, CTL, and PDL.
 *   [CoqPrime (⭐37)](https://github.com/thery/coqprime) - Library for certifying primality using Pocklington and Elliptic Curve certificates.
 *   [CoRN (⭐112)](https://github.com/coq-community/corn) - Library of constructive real analysis and algebra.
 *   [Coqtail Math (⭐15)](https://github.com/coq-community/coqtail-math) - Library of mathematical results ranging from arithmetic to real and complex analysis.
 *   [Coquelicot](https://gitlab.inria.fr/coquelicot/coquelicot) - Formalization of classical real analysis compatible with the standard library and focusing on usability.
 *   [Finmap (⭐47)](https://github.com/math-comp/finmap) - Extension of Mathematical Components with finite maps, sets, and multisets.
-*   [Four Color Theorem (⭐179)](https://github.com/coq-community/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
+*   [Four Color Theorem (⭐182)](https://github.com/coq-community/fourcolor) - Formal proof of the Four Color Theorem, a landmark result of graph theory.
 *   [Gaia (⭐30)](https://github.com/coq-community/gaia) - Implementation of books from Bourbaki's Elements of Mathematics, including set theory and number theory.
-*   [GeoCoq (⭐186)](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
+*   [GeoCoq (⭐190)](https://github.com/GeoCoq/GeoCoq) - Formalization of geometry based on Tarski's axiom system.
 *   [Graph Theory (⭐34)](https://github.com/coq-community/graph-theory) - Formalized graph theory results.
 *   [Homotopy Type Theory (⭐1.3k)](https://github.com/HoTT/Coq-HoTT) - Development of homotopy-theoretic ideas.
-*   [Infotheo (⭐65)](https://github.com/affeldt-aist/infotheo) - Formalization of information theory and linear error-correcting codes.
+*   [Infotheo (⭐66)](https://github.com/affeldt-aist/infotheo) - Formalization of information theory and linear error-correcting codes.
 *   [Mathematical Components](http://math-comp.github.io) - Formalization of mathematical theories, focusing in particular on group theory.
 *   [Math Classes (⭐163)](https://github.com/coq-community/math-classes) - Abstract interfaces for mathematical structures based on type classes.
 *   [Monae (⭐71)](https://github.com/affeldt-aist/monae) - Monadic effects and equational reasoning.
-*   [Odd Order Theorem (⭐27)](https://github.com/math-comp/odd-order) - Formal proof of the Odd Order Theorem, a landmark result of finite group theory.
+*   [Odd Order Theorem (⭐29)](https://github.com/math-comp/odd-order) - Formal proof of the Odd Order Theorem, a landmark result of finite group theory.
 *   [Puiseuxth (⭐4)](https://github.com/roglo/puiseuxth) - Proof of Puiseux's theorem and computation of roots of polynomials of Puiseux's series.
-*   [UniMath (⭐966)](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
+*   [UniMath (⭐970)](https://github.com/UniMath/UniMath) - Library which aims to formalize a substantial body of mathematics using the univalent point of view.
 
 ### Verified Software
 
 *   [CompCert](http://compcert.inria.fr) - High-assurance compiler for almost all of the C language (ISO C99), generating efficient code for the PowerPC, ARM, RISC-V and x86 processors.
 *   [Ceramist (⭐121)](https://github.com/certichain/ceramist) - Verified hash-based approximate membership structures such as Bloom filters.
-*   [CertiCoq (⭐139)](https://github.com/CertiCoq/certicoq) - Verified compiler from Gallina, the internal language of Coq, down to CompCert's Clight language.
-*   [Fiat-Crypto (⭐725)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
+*   [CertiCoq (⭐140)](https://github.com/CertiCoq/certicoq) - Verified compiler from Gallina, the internal language of Coq, down to CompCert's Clight language.
+*   [Fiat-Crypto (⭐735)](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
 *   [Functional Algorithms Verified in SSReflect (⭐45)](https://github.com/clayrat/fav-ssr) - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
 *   [Incremental Cycles](https://gitlab.inria.fr/agueneau/incremental-cycles) - Verified OCaml implementation of an algorithm for incremental cycle detection in graphs.
-*   [Jasmin (⭐277)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
+*   [Jasmin (⭐278)](https://github.com/jasmin-lang/jasmin) - Formalized language and verified compiler for high-assurance and high-speed cryptography.
 *   [JSCert (⭐197)](https://github.com/jscert/jscert) - Coq specification of ECMAScript 5 (JavaScript) with verified reference interpreter.
 *   [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Formal model of a Rust core language and type system, a logical relation for the type system, and safety proofs for some Rust libraries.
 *   [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - Definitions and proofs for real-time system schedulability analysis.
@@ -237,7 +237,7 @@ Contributions welcome! Read the [contribution guidelines (⭐323)](https://githu
 *   [Coq tag on Proof Assistants Stack Exchange](https://proofassistants.stackexchange.com/questions/tagged/coq)
 *   [Coq keyword on Zenodo](https://zenodo.org/search?q=keywords%3A%22Coq%22)
 *   [Coq-community package maintenance project (⭐68)](https://github.com/coq-community/manifesto)
-*   [Mathematical Components wiki (⭐595)](https://github.com/math-comp/math-comp/wiki)
+*   [Mathematical Components wiki (⭐596)](https://github.com/math-comp/math-comp/wiki)
 *   [100 famous theorems proved using Coq (⭐57)](https://github.com/coq-community/coq-100-theorems)
 *   [Planet Coq link aggregator](https://coq.pl-a.net)
 
@@ -270,8 +270,8 @@ Contributions welcome! Read the [contribution guidelines (⭐323)](https://githu
 *   [Programs and Proofs](https://ilyasergey.net/pnp/) - Book that gives a brief and practically-oriented introduction to interactive proofs in Coq which emphasizes the computational nature of inductive reasoning about decidable propositions via a small set of primitives from the SSReflect proof language.
 *   [Computer Arithmetic and Formal Proofs](https://www.sciencedirect.com/book/9781785481123/computer-arithmetic-and-formal-proofs) - Book that describes how to formally specify and verify floating-point algorithms in Coq using the Flocq library.
 *   [The Mathematical Components book](https://math-comp.github.io/mcb/) - Book oriented towards mathematically inclined users, focusing on the Mathematical Components library and the SSReflect proof language.
-*   [Modeling and Proving in Computational Type Theory (⭐83)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
-*   [Hydras & Co. (⭐69)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book and library on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including a proof of the Gödel-Rosser first incompleteness theorem.
+*   [Modeling and Proving in Computational Type Theory (⭐84)](https://github.com/uds-psl/MPCTT) - Book covering topics in computational logic using Coq, including foundations, canonical case studies, and practical programming.
+*   [Hydras & Co. (⭐70)](https://github.com/coq-community/hydra-battles) - Continuously in-progress book and library on Kirby and Paris' hydra battles and other entertaining formalized mathematics in Coq, including a proof of the Gödel-Rosser first incompleteness theorem.
 
 ### Course Material
 
@@ -279,7 +279,7 @@ Contributions welcome! Read the [contribution guidelines (⭐323)](https://githu
 *   [Foundations of Separation Logic](https://chargueraud.org/teach/verif/) - Introduction to using separation logic to reason about sequential imperative programs in Coq.
 *   [Floating-Point Numbers and Formal Proof (⭐6)](https://github.com/thery/FlocqLecture) - Introductory course on Coq real numbers and floating-point numbers from the Flocq library.
 *   [Introduction to the Theory of Computation](https://gitlab.com/umb-svl/turing) - Formalization to support an undergraduate course on the theory of computation, including languages and Turing machines.
-*   [Lectures on Software Foundations (⭐116)](https://github.com/clarksmr/sf-lectures) - Material on the Software Foundations series of textbooks, including a series of YouTube videos.
+*   [Lectures on Software Foundations (⭐118)](https://github.com/clarksmr/sf-lectures) - Material on the Software Foundations series of textbooks, including a series of YouTube videos.
 *   [MathComp School (⭐6)](https://github.com/gares/math-comp-school-2022) - Coq sources for lessons and exercises that introduce the SSReflect proof language and the Mathematical Components library.
 *   [Mechanized Semantics (⭐64)](https://github.com/xavierleroy/cdf-mech-sem) - Companion Coq sources for a course on programming language semantics at Collège de France.
 *   [Program Logics (⭐40)](https://github.com/xavierleroy/cdf-program-logics) - Companion Coq sources for a course on program logics at Collège de France.
@@ -293,8 +293,8 @@ Contributions welcome! Read the [contribution guidelines (⭐323)](https://githu
 *   [Coq requirements in Common Criteria evaluations](https://inria.hal.science/hal-04452421) - Guide on how to write readable and reviewable Coq code in high assurance applications.
 *   [Coq Tactics in Plain English](https://charlesaverill.github.io/ctpe/) - Guide to Coq tactics with explanations and examples.
 *   [Learn X in Y minutes where X=Coq](https://learnxinyminutes.com/docs/coq/) - Whirlwind tour of Coq as a language.
-*   [Lemma Overloading (⭐26)](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
+*   [Lemma Overloading (⭐27)](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
 *   [MathComp Tutorial Materials (⭐17)](https://github.com/math-comp/tutorial_material) - Source code for Mathematical Components tutorials.
 *   [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
-*   [Tricks in Coq (⭐506)](https://github.com/coq-community/coq-tricks) - Tips, tricks, and features in Coq that are hard to discover.
+*   [Tricks in Coq (⭐510)](https://github.com/coq-community/coq-tricks) - Tips, tricks, and features in Coq that are hard to discover.
 

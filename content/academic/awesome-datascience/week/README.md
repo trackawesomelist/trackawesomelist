@@ -6,9 +6,66 @@
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Jan 20 - Jan 26, 2025](/content/2025/3/README.md)
+
+### Other Awesome Lists / Book Deals (Affiliated)
+
+*   [The Future of Data Science: Predictions and Trends](https://www.appliedaicourse.com/blog/future-of-data-science/)
+*   [Data Science and Machine Learning: What’s The Difference?](https://www.appliedaicourse.com/blog/data-science-and-machine-learning-whats-the-difference/)
+
+## [Jan 13 - Jan 19, 2025](/content/2025/2/README.md)
+
+### Other Awesome Lists / Book Deals (Affiliated)
+
+*   [Is Data Science a Good Career?](https://www.scaler.com/blog/is-data-science-a-good-career/)
+
+## [Jan 06 - Jan 12, 2025](/content/2025/1/README.md)
+
+### Other Awesome Lists / Book Deals (Affiliated)
+
+*   [Data Science Projects (⭐1.8k)](https://github.com/veb-101/Data-Science-Projects)
+
+## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
+
+### MOOC's
+
+*   [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - Linear Algebra course by Gilbert Strang
+
+### Colleges
+
+*   [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science)
+
+### Deep Learning Packages / Visualization Tools
+
+*   [r2d3](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+### Books / Visualization Tools
+
+*   [Mining Massive Datasets](http://www.mmds.org/) - free e-book comprehended by an online course
+*   [Advances in Genetic Programming, Vol. 3](http://www0.cs.ucl.ac.uk/staff/W.Langdon/aigp3/) - Free Download
+*   [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
+
+### Bloggers / Book Deals (Affiliated)
+
+*   [Greg Reda](http://www.gregreda.com/) - Greg Reda Personal Blog
+*   [Drew Conway](http://drewconway.com/) - Personal Web Page
+*   [Noah Iliinsky](http://complexdiagrams.com/) - Personal Blog
+*   [Clare Corthell](http://datasciencemasters.org/) - The Open Source Data Science Masters
+*   [Data Scientist](https://datascientists.com/) is building the data scientist culture.
+*   [Emilio Ferrara's web page](http://www.emilio.ferrara.name/)
+
+### Podcasts / Book Deals (Affiliated)
+
+*   [Partially Derivative](http://partiallyderivative.com/)
+
+### Datasets / Book Deals (Affiliated)
+
+*   [NASA SocioEconomic Data and Applications Center - SEDAC](https://earthdata.nasa.gov/centers/sedac-daac)
+*   [Open data Index](http://index.okfn.org/)
+
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [Top 100+ Machine Learning Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/machine-learning-interview-questions/)
 
@@ -26,11 +83,11 @@
 *   [Data Science for Beginners - Learn with AI tutor](https://codekidz.ai/lesson-intro/data-science-368dbf)
 *   [Machine Learning for Beginners - Learn with AI tutor](https://codekidz.ai/lesson-intro/machine-lear-36abfb)
 
-### Podcasts / Book Deals (Affiliated) 🛍
+### Podcasts / Book Deals (Affiliated)
 
 *   [The Analytics Engineering Podcast](https://roundup.getdbt.com/s/the-analytics-engineering-podcast)
 
-### Comics / Book Deals (Affiliated) 🛍
+### Comics / Book Deals (Affiliated)
 
 *   [Data Science Cartoons](https://www.cartoonstock.com/directory/d/data_science.asp)
 *   [Data Science: The XKCD Edition](https://davidlindelof.com/data-science-the-xkcd-edition/)
@@ -56,14 +113,14 @@
 
 *   [XGBoost (⭐26k)](https://github.com/dmlc/xgboost)
 *   [LightGBM (⭐17k)](https://github.com/microsoft/LightGBM)
-*   [CatBoost (⭐8.1k)](https://github.com/catboost/catboost)
+*   [CatBoost (⭐8.2k)](https://github.com/catboost/catboost)
 *   [JAX (⭐31k)](https://github.com/google/jax)
 
 ### Deep Learning Packages / Visualization Tools
 
 *   [Dash](https://plotly.com/dash/)
 
-### Podcasts / Book Deals (Affiliated) 🛍
+### Podcasts / Book Deals (Affiliated)
 
 *   [Gradient Descent](https://wandb.ai/fully-connected/gradient-descent)
 
@@ -83,7 +140,7 @@
 
 ### Comparison / Three kinds of Machine Learning Systems
 
-*   [datacompy (⭐487)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
+*   [datacompy (⭐494)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
 
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
@@ -111,7 +168,7 @@
 
 ## [Dec 11 - Dec 17, 2023](/content/2023/50/README.md)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work)
 *   [What is generative AI?](https://www.techtarget.com/searchenterpriseai/definition/generative-AI)
@@ -143,9 +200,9 @@
 
 *   [Yolov3 (⭐10k)](https://github.com/ultralytics/yolov3)
 *   [Yolov5 (⭐52k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐34k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov8 (⭐35k)](https://github.com/ultralytics/ultralytics)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [The Humanitarian Data Exchange](https://data.humdata.org/)
 
@@ -179,7 +236,7 @@
 *   [SARSA (State-Action-Reward-State-Action) algorithm](https://en.wikipedia.org/wiki/State%E2%80%93action%E2%80%93reward%E2%80%93state%E2%80%93action)
 *   [Temporal difference learning](https://en.wikipedia.org/wiki/Temporal_difference_learning#:~:text=Temporal%20difference%20\(TD\)%20learning%20refers,estimate%20of%20the%20value%20function.)
 
-### YouTube Videos & Channels / Book Deals (Affiliated) 🛍
+### YouTube Videos & Channels / Book Deals (Affiliated)
 
 *   [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
 
@@ -220,7 +277,7 @@
 
 *   [Machine Learning For Absolute Beginners](https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Akhil Soni](https://medium.com/@akhil0435) - ML, DL and Data Science
 *   [Akhil Soni](https://akhilworld.hashnode.dev/) - ML, DL and Data Science
@@ -235,8 +292,8 @@
 
 ### Free Courses
 
-*   [MLSys-NYU-2022 (⭐375)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-*   [Hands-on Train and Deploy ML (⭐770)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
+*   [MLSys-NYU-2022 (⭐381)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [Hands-on Train and Deploy ML (⭐775)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
@@ -254,7 +311,7 @@
 
 *   [12 free Data Science projects to practice Python and Pandas](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Santiago Basulto](https://medium.com/@santiagobasulto) - Data Science with Python
 
@@ -274,7 +331,7 @@
 
 *   [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early Access
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [Top Future Trends in Data Science in 2023](https://medium.com/the-modern-scientist/top-future-trends-in-data-science-in-2023-3e616c8998b8)
 
@@ -286,11 +343,7 @@
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 
-### Free Courses
-
-*   [Python for Machine Learning](https://globalaihub.com/courses/introduction-to-python-the-road-to-machine-learning/) - Start your journey to machine learning with Python, one of the most powerful programming languages.
-
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [IBB Open Portal](https://data.ibb.gov.tr/en/)
 
@@ -322,7 +375,7 @@
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [Deep Learning Interview Questions](https://www.adaface.com/blog/deep-learning-interview-questions/)
 
@@ -375,7 +428,7 @@
 
 *   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) Free Download
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
 
@@ -393,22 +446,16 @@
 
 *   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://hastie.su.domains/ElemStatLearn/)
 
-### Slack Communities / Book Deals (Affiliated) 🛍
-
-*   [Women Who Code - Data Science](https://www.womenwhocode.com/datascience)
-
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
 ### Tutorials
 
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 *   [#tidytuesday (⭐7k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
-*   [Data science your way (⭐597)](https://github.com/jadianes/data-science-your-way)
-*   [PySpark Cheatsheet (⭐459)](https://github.com/kevinschaich/pyspark-cheatsheet)
+*   [Data science your way (⭐598)](https://github.com/jadianes/data-science-your-way)
+*   [PySpark Cheatsheet (⭐466)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
-*   [How To Label Data](https://www.lighttag.io/how-to-label-data/)
 *   [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
-*   [Over 1000 Data Science Online Courses at Classpert Online Search Engine](https://classpert.com/search/data-science)
 *   [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard (⭐1.2k)](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 *   [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 *   [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
@@ -422,7 +469,6 @@
 *   [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
 *   [AI Expert Roadmap (⭐29k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 *   [Convex Optimization](https://www.edx.org/course/convex-optimization) - Convex Optimization (basics of convex analysis; least-squares, linear and quadratic programs, semidefinite programming, minimax, extremal volume, and other problems; optimality conditions, duality theory...)
-*   [Skillcombo - Data Science](https://skillcombo.com/courses/development/data-science/free/) - 1000+ free online Data Science courses
 *   [Learning from Data](https://home.work.caltech.edu/telecourse.html) - Introduction to machine learning covering basic theory, algorithms and applications
 
 ### MOOC's
@@ -447,7 +493,6 @@
 *   [Msc in Data Science @ The University of Edinburgh](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view\&id=902)
 *   [Master of Management Analytics @ Queen's University](https://smith.queensu.ca/grad_studies/mma/index.php)
 *   [Master of Data Science @ Illinois Institute of Technology](https://www.iit.edu/academics/programs/data-science-mas)
-*   [Master of Applied Data Science @ The University of Michigan](https://www.si.umich.edu/programs/master-applied-data-science-online)
 *   [Master Data Science and Artificial Intelligence @ Eindhoven University of Technology](https://www.tue.nl/en/education/graduate-school/master-data-science-and-artificial-intelligence/)
 *   [Master's Degree in Data Science and Computer Engineering @ University of Granada](https://masteres.ugr.es/datcom/)
 
@@ -463,7 +508,7 @@
 
 *   [Data Science From Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python-dp-1492041130/dp/1492041130/ref=dp_ob_title_bk)
 
-### Journals, Publications and Magazines / Book Deals (Affiliated) 🛍
+### Journals, Publications and Magazines / Book Deals (Affiliated)
 
 *   [ICML](https://icml.cc/2015/) - International Conference on Machine Learning
 *   [GECCO](https://gecco-2019.sigevo.org/index.html/HomePage) - The Genetic and Evolutionary Computation Conference (GECCO)
@@ -477,22 +522,18 @@
 *   [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
 *   [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
 *   [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications towards Data Science
-*   [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 
-### Newsletters / Book Deals (Affiliated) 🛍
+### Newsletters / Book Deals (Affiliated)
 
-*   [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 *   [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 
-### Podcasts / Book Deals (Affiliated) 🛍
+### Podcasts / Book Deals (Affiliated)
 
 *   [Data Stories](https://datastori.es/)
 *   [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 *   [AI Today](https://www.cognilytica.com/aitoday/)
 *   [Adversarial Learning](https://adversariallearning.com/)
-*   [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 *   [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
-*   [Data Crunch](https://datacrunchcorp.com/data-crunch-podcast/)
 *   [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 *   [Data Science at Home](https://datascienceathome.com/)
 *   [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)
@@ -505,15 +546,12 @@
 *   [Linear Digressions](https://lineardigressions.com/)
 *   [Not So Standard Deviations](https://nssdeviations.com/)
 *   [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
-*   [Partially Derivative](https://partiallyderivative.com/)
 *   [Superdatascience](https://www.superdatascience.com/podcast/)
 *   [The Data Engineering Show](https://www.dataengineeringshow.com/)
 *   [The Radical AI Podcast](https://www.radicalai.org/)
-*   [The Robot Brains Podcast](https://www.therobotbrains.ai/)
 *   [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
-*   [How AI Built This](https://how-ai-built-this.captivate.fm/)
 
-### Presentations / Book Deals (Affiliated) 🛍
+### Presentations / Book Deals (Affiliated)
 
 *   [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 *   [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
@@ -526,7 +564,7 @@
 *   [How to win data science competitions with Deep Learning](https://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
 *   [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
 
-### YouTube Videos & Channels / Book Deals (Affiliated) 🛍
+### YouTube Videos & Channels / Book Deals (Affiliated)
 
 *   [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
 *   [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -558,11 +596,11 @@
 *   [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
 *   [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
 
-### Telegram Channels / Book Deals (Affiliated) 🛍
+### Telegram Channels / Book Deals (Affiliated)
 
 *   [Loss function porn](https://t.me/loss_function_porn) — Beautiful posts on DS/ML theme with video or graphic visualization.
 
-### Hobby / Book Deals (Affiliated) 🛍
+### Hobby / Book Deals (Affiliated)
 
 *   [Awesome Music Production (⭐1.1k)](https://github.com/ad-si/awesome-music-production)
 
@@ -580,19 +618,19 @@
 
 ## [Sep 05 - Sep 11, 2022](/content/2022/36/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
 
 ## [Aug 29 - Sep 04, 2022](/content/2022/35/README.md)
 
-### Books / Book Deals (Affiliated) 🛍
+### Books / Book Deals (Affiliated)
 
 *   [Data for All](https://www.manning.com/books/data-for-all?utm_source=mikrobusiness\&utm_medium=affiliate)
 
 ## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
 
-### Books / Book Deals (Affiliated) 🛍
+### Books / Book Deals (Affiliated)
 
 *   [eBook sale - Save up to 45% on eBooks!](https://www.manning.com/?utm_source=mikrobusiness\&utm_medium=affiliate\&utm_campaign=ebook_sale_8_8_22)
 *   [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning?utm_source=mikrobusiness\&utm_medium=affiliate\&utm_campaign=book_ness_causal_7_26_22\&a_aid=mikrobusiness\&a_bid=43a2198b)
@@ -618,12 +656,12 @@
 
 *   [Dive into Deep Learning](https://d2l.ai/)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Datawrangling](http://www.datawrangling.org) by Peter Skomoroch. MACHINE LEARNING, DATA MINING, AND MORE
 *   [Data Science 101](https://ryanswanstrom.com/datascience101/) - Learning To Be A Data Scientist
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [NASDAQ:DATA](https://data.nasdaq.com/) - Nasdaq Data Link A premier source for financial, economic and alternative datasets.
 *   [National Centers for Environmental Information](https://www.ncei.noaa.gov/)
@@ -633,12 +671,6 @@
 ### Books / Visualization Tools
 
 *   [Julia for Data Analysis](https://www.manning.com/books/julia-for-data-analysis) - Early Access
-
-## [Mar 07 - Mar 13, 2022](/content/2022/10/README.md)
-
-### Datasets / Book Deals (Affiliated) 🛍
-
-*   [SocialGrep](https://socialgrep.com/datasets) - a collection of open Reddit datasets.
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
@@ -677,17 +709,14 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [addepar](https://opensource.addepar.com/ember-charts/#/overview)
 *   [anychart](https://www.anychart.com/)
 *   [cartodb](https://cartodb.github.io/odyssey.js/)
 *   [Cube](https://square.github.io/cube/)
 *   [d3plus](https://d3plus.org/)
 *   [dygraphs](https://dygraphs.com/)
-*   [ECharts](https://echarts.baidu.com/index-en.html)
 *   [exhibit](https://www.simile-widgets.org/exhibit/)
 *   [Glue](http://docs.glueviz.org/en/latest/index.html)
 *   [highcarts](https://www.highcharts.com/)
-*   [jqplot](https://www.jqplot.com/)
 *   [Matplotlib](https://matplotlib.org/)
 *   [nvd3](https://nvd3.org/)
 *   [Openrefine](https://openrefine.org/)
@@ -695,7 +724,6 @@
 *   [techanjs](https://techanjs.org/)
 *   [Timeline](https://timeline.knightlab.com/)
 *   [variancecharts](https://variancecharts.com/index.html)
-*   [r2d3](https://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 *   [NetworkX](https://networkx.org/)
 
 ### Books / Visualization Tools
@@ -704,27 +732,19 @@
 *   [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](https://www.thedatasciencehandbook.com/)
 *   [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8) & [(cheaper PDF version)](https://gum.co/everydaydata)
 *   [Essential Natural Language Processing](https://www.manning.com/books/getting-started-with-natural-language-processing) - Early access
-*   [Mining Massive Datasets](https://www.mmds.org/) - free e-book comprehended by an online course
-*   [Global Optimization Algorithms: Theory and Application](https://www.it-weise.de/projects/book.pdf) - Free Download
 *   [Genetic Algorithms and Evolutionary Computation](https://www.talkorigins.org/faqs/genalg/genalg.html) - Free Download
-*   [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com)
 *   [Artificial Intelligence: Foundations of Computational Agents, 2nd Edition](https://artint.info/index.html) - Free HTML version
 *   [The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Free Download
 *   [Data Mesh in Action](https://www.manning.com/books/data-mesh-in-action) - Early Access
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Wes McKinney](https://wesmckinney.com/archives.html) - Wes McKinney Archives.
-*   [Greg Reda](https://www.gregreda.com/) - Greg Reda Personal Blog
 *   [Kevin Davenport](https://kldavenport.com/) - Kevin Davenport Personal Blog
 *   [Julia Evans](https://jvns.ca/) - Recurse Center alumna
 *   [Sean J. Taylor](https://seanjtaylor.com/) - Personal Web Page
-*   [Drew Conway](https://drewconway.com/) - Personal Web Page
-*   [Noah Iliinsky](https://complexdiagrams.com/) - Personal Blog
 *   [Matt Harrison](https://hairysun.com/) - Personal Blog
 *   [Prash Chan](https://www.mdmgeek.com/) - Tech Blog on Master Data Management And Every Buzz Surrounding It
-*   [Clare Corthell](https://datasciencemasters.org/) - The Open Source Data Science Masters
-*   [Paul Miller](https://cloudofdata.com/) Based in the UK and working globally, Cloud of Data's consultancy services help clients understand the implications of taking data and more to the Cloud.
 *   [Quora Data Science](https://www.quora.com/topic/Data-Science) - Data Science Questions and Answers from experts
 *   [Louis Dorard](https://www.ownml.co/blog/) a technology guy with a penchant for the web and for data, big and small
 *   [Machine Learning Mastery](https://machinelearningmastery.com/) about helping professional programmers confidently apply machine learning algorithms to address complex problems.
@@ -734,25 +754,19 @@
 *   [Spenczar](https://spenczar.com/) a data scientist at *Twitch*. I handle the whole data pipeline, from tracking to model-building to reporting.
 *   [KD Nuggets](https://www.kdnuggets.com/) Data Mining, Analytics, Big Data, Data, Science not a blog a portal
 *   [Meta Brown](https://www.metabrown.com/blog/) - Personal Blog
-*   [Data Scientist](https://datascientists.net/) is building the data scientist culture.
 *   [Tevfik Kosar](https://magnus-notitia.blogspot.com/) - Magnus Notitia
 *   [New Data Scientist](https://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
 *   [Harvard Data Science](https://harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
 *   [Kaggle Past Solutions](https://www.chioka.in/kaggle-competition-solutions/)
 *   [NYC Taxi Visualization Blog](https://chriswhong.github.io/nyctaxi/)
-*   [Learning Lover](https://learninglover.com/blog/)
-*   [Dataists](https://www.dataists.com/)
 *   [Data-Mania](https://www.data-mania.com/)
 *   [Data-Magnum](https://data-magnum.com/)
-*   [P-value](https://www.p-value.info/) - Musings on data science, machine learning, and stats.
 *   [Digital transformation](https://tarrysingh.com/)
 *   [Data Mania Blog](https://www.data-mania.com/blog/) - [The File Drawer](https://chris-said.io/) - Chris Said's science blog
-*   [Emilio Ferrara's web page](https://www.emilio.ferrara.name/)
 *   [DataNews](https://datanews.tumblr.com/)
 *   [Periscopic](https://periscopic.com/#!/news)
 *   [Meaning of](https://www.kennybastani.com/)
 *   [Adventures in Data Land](https://blog.smola.org)
-*   [DATA MINERS BLOG](https://blog.data-miners.com/)
 *   [FlowingData](https://flowingdata.com/) - Visualization and Statistics
 *   [Calculated Risk](https://www.calculatedriskblog.com/)
 *   [O'reilly Learning Blog](https://www.oreilly.com/content/topics/oreilly-learning/)
@@ -764,15 +778,15 @@
 *   [Sebastian's Blog](https://ruder.io/#open) - Blog for NLP and transfer learning!
 *   [Distill](https://distill.pub) - Dedicated to clear explanations of machine learning!
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Data Science Day](https://www.facebook.com/datascienceday/)
 
-### Data Science Competitions / Book Deals (Affiliated) 🛍
+### Data Science Competitions / Book Deals (Affiliated)
 
 *   [Analytics Vidhya](https://datahack.analyticsvidhya.com/)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [Academic Torrents](https://academictorrents.com/)
 *   [hadoopilluminated.com](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
@@ -791,27 +805,25 @@
 *   [ClimateData.us](https://www.climatedata.us/) (related: [U.S. Climate Resilience Toolkit](https://toolkit.climate.gov/))
 *   [GHDx](https://ghdx.healthdata.org/) - Institute for Health Metrics and Evaluation - a catalog of health and demographic datasets from around the world and including IHME results
 *   [undata](https://data.un.org/)
-*   [NASA SocioEconomic Data and Applications Center - SEDAC](https://sedac.ciesin.columbia.edu/)
 *   [The GDELT Project](https://www.gdeltproject.org/)
 *   [Sweden, Statistics](https://www.scb.se/en/)
 *   [StackExchange Data Explorer](https://data.stackexchange.com) - an open source tool for running arbitrary queries against public data from the Stack Exchange network.
 *   [San Fransisco Government Open Data](https://datasf.org/opendata/)
-*   [Open data Index](https://index.okfn.org/)
 *   [GHTorrent](https://ghtorrent.org/)
 *   [Google Dataset Search (beta)](https://datasetsearch.research.google.com/)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [awesome-dataviz (⭐3.8k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-datasets (⭐61k)](https://github.com/awesomedata/awesome-public-datasets)
-*   [Awesome Data Science Ideas (⭐666)](https://github.com/JosPolfliet/awesome-ai-usecases)
+*   [awesome-dataviz (⭐3.9k)](https://github.com/javierluraschi/awesome-dataviz)
+*   [awesome-datasets (⭐62k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [Awesome Data Science Ideas (⭐668)](https://github.com/JosPolfliet/awesome-ai-usecases)
 *   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐89)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [Deepchecks (⭐3.6k)](https://github.com/deepchecks/deepchecks)
+*   [Deepchecks (⭐3.7k)](https://github.com/deepchecks/deepchecks)
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -841,11 +853,11 @@
 
 *   [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [MapLight](https://www.maplight.org/data-series) - provides a variety of data free of charge for uses that are freely available to the general public. Click on a data set below to learn more
 
@@ -869,7 +881,7 @@
 *   [An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)
 *   [Deep Learning with PyTorch](https://www.simonandschuster.com/books/Deep-Learning-with-PyTorch/Eli-Stevens/9781617295263)
 
-### Comics / Book Deals (Affiliated) 🛍
+### Comics / Book Deals (Affiliated)
 
 *   [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
 *   [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
@@ -881,10 +893,9 @@
 *   [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
 *   [Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing](https://www.oreilly.com/library/view/streaming-systems/9781491983867/)
 *   [Data Science at the Command Line: Facing the Future with Time-Tested Tools](https://www.oreilly.com/library/view/data-science-at/9781491947845/)
-*   [Machine Learning - CIn UFPE](https://www.cin.ufpe.br/~cavmj/Machine%20-%20Learning%20-%20Tom%20Mitchell.pdf)
 *   [Machine Learning with Python - Tutorialspoint](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
 
@@ -897,13 +908,13 @@
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 
 ## [Aug 02 - Aug 08, 2021](/content/2021/31/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
 
@@ -913,9 +924,9 @@
 
 *   [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Awesome Explainable Graph Reasoning (⭐1.9k)](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
+*   [Awesome Explainable Graph Reasoning (⭐2k)](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 
 ## [Jun 21 - Jun 27, 2021](/content/2021/25/README.md)
 
@@ -935,13 +946,13 @@
 
 *   [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [The official portal for European data](https://data.europa.eu/en)
 
 ## [Mar 22 - Mar 28, 2021](/content/2021/12/README.md)
 
-### Data Science Competitions / Book Deals (Affiliated) 🛍
+### Data Science Competitions / Book Deals (Affiliated)
 
 *   [Microprediction](https://www.microprediction.com/python-1)
 
@@ -951,19 +962,15 @@
 
 *   [pytorch\_tabular (⭐1.4k)](https://github.com/manujosephv/pytorch_tabular)
 
-### Bloggers / Book Deals (Affiliated) 🛍
-
-*   [Deep and Shallow](https://deep-and-shallow.com/) - All things Deep and Shallow in Data Science
-
 ## [Feb 22 - Feb 28, 2021](/content/2021/8/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [nbshare](https://www.nbshare.io/notebooks/data-science/) - Data Science notebooks
 
 ## [Feb 01 - Feb 07, 2021](/content/2021/5/README.md)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [IBM Asset Dataset](https://developer.ibm.com/exchanges/data/)
 
@@ -975,17 +982,17 @@
 *   [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science)
 *   [Machine Learning Bookcamp](https://mlbookcamp.com/) - Early access
 
-### Slack Communities / Book Deals (Affiliated) 🛍
+### Slack Communities / Book Deals (Affiliated)
 
 *   [DataTalks.Club](https://datatalks.club)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
-*   [5000 Images of Clothes (⭐105)](https://github.com/alexeygrigorev/clothing-dataset)
+*   [5000 Images of Clothes (⭐104)](https://github.com/alexeygrigorev/clothing-dataset)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Data Science Interviews Questions (⭐9k)](https://github.com/alexeygrigorev/data-science-interviews)
+*   [Data Science Interviews Questions (⭐9.1k)](https://github.com/alexeygrigorev/data-science-interviews)
 
 ## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
 
@@ -995,52 +1002,45 @@
 
 ## [Dec 07 - Dec 13, 2020](/content/2020/49/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
-
-## [Nov 23 - Nov 29, 2020](/content/2020/47/README.md)
-
-### Books / Visualization Tools
-
-*   [A Comprehensive Guide to Machine Learning](https://www.eecs189.org/static/resources/comprehensive-guide.pdf)
 
 ## [Nov 02 - Nov 08, 2020](/content/2020/44/README.md)
 
 ### MOOC's
 
-*   [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - Linear Algebra course by Gilbert Strang
 *   [A 2020 Vision of Linear Algebra (G. Strang)](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/)
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐921)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [scikit-multilearn (⭐923)](https://github.com/scikit-multilearn/scikit-multilearn)
 *   [sklearn-expertsys (⭐489)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.5k)](https://github.com/jundongl/scikit-feature)
 *   [scikit-rebate (⭐415)](https://github.com/EpistasisLab/scikit-rebate)
 *   [seqlearn (⭐691)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐514)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-bayes (⭐515)](https://github.com/AmazaspShumik/sklearn-bayes)
 *   [sklearn-crfsuite (⭐425)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
 *   [sklearn-deap (⭐771)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
 *   [scikit-image (⭐6.1k)](https://github.com/scikit-image/scikit-image)
 *   [scikit-opt (⭐5.3k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐354)](https://github.com/maximtrp/scikit-posthocs)
+*   [scikit-posthocs (⭐353)](https://github.com/maximtrp/scikit-posthocs)
 *   [pystruct (⭐664)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
 *   [cuML (⭐4.3k)](https://github.com/rapidsai/cuml)
-*   [causalml (⭐5.1k)](https://github.com/uber/causalml)
+*   [causalml (⭐5.2k)](https://github.com/uber/causalml)
 *   [mlpack (⭐5.2k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐4.9k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.2k)](https://github.com/lensacom/sparkit-learn)
 *   [hyperlearn (⭐1.9k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐14k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐411)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐877)](https://github.com/dswah/pyGAM)
+*   [RuleFit (⭐412)](https://github.com/christophM/rulefit)
+*   [pyGAM (⭐881)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐85k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐86k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐16k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.5k)](https://github.com/pytorch/text)
 *   [torchaudio (⭐2.6k)](https://github.com/pytorch/audio)
@@ -1057,9 +1057,9 @@
 *   [Sonnet (⭐9.8k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
 *   [Polyaxon (⭐3.6k)](https://github.com/polyaxon/polyaxon)
-*   [NeuPy (⭐739)](https://github.com/itdxer/neupy)
+*   [NeuPy (⭐738)](https://github.com/itdxer/neupy)
 *   [tfdeploy (⭐353)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐688)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [tensorflow-upstream (⭐690)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐61)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐11)](https://github.com/bsautermeister/tensorlight)
@@ -1074,7 +1074,7 @@
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
 *   [Hera (⭐487)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.4k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐542)](https://github.com/google/qkeras)
+*   [qkeras (⭐543)](https://github.com/google/qkeras)
 *   [keras-rl (⭐5.5k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
@@ -1089,9 +1089,9 @@
 
 *   [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) - Convex Optimization book by Stephen Boyd - Free Download
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Awesome Game Datasets (⭐764)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐770)](https://github.com/leomaurodesenv/game-datasets#readme)
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
@@ -1134,23 +1134,19 @@
 
 *   [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
 *   [Evolutionary Algorithms](https://www.intechopen.com/books/evolutionary-algorithms) - Free Download
-*   [Advances in Genetic Programming, Vol. 3](https://www.cs.bham.ac.uk/~wbl/aigp3/) - Free Download
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
-*   [Data Science London](https://datasciencelondon.org/) Data Science London is a non-profit organization dedicated to the free, open, dissemination of data science.
-    We are the largest data science community in Europe.
-    We are more than 3,190 data scientists and data geeks in our community.
 *   [Analytics Vidhya](https://www.analyticsvidhya.com/) - A full-fledged website about data science and analytics study material.
 *   [Chris Albon's Website](https://chrisalbon.com/) - Data Science and AI notes
 
-### Data Science Competitions / Book Deals (Affiliated) 🛍
+### Data Science Competitions / Book Deals (Affiliated)
 
 *   [Kaggle](https://www.kaggle.com/)
 *   [DrivenData](https://www.drivendata.org/)
 *   [InnoCentive](https://www.innocentive.com/)
 
-### Datasets / Book Deals (Affiliated) 🛍
+### Datasets / Book Deals (Affiliated)
 
 *   [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 *   [datahub.io](https://datahub.io/)
@@ -1164,24 +1160,24 @@
 *   [r/datasets](https://www.reddit.com/r/datasets/)
 *   [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 *   [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
-*   [Open Data Sources (⭐506)](https://github.com/datasciencemasters/data)
+*   [Open Data Sources (⭐507)](https://github.com/datasciencemasters/data)
 *   [UNICEF Data](https://data.unicef.org/)
 *   [Public Git Archive (⭐324)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 *   [Microsoft Research Open Data](https://msropendata.com/)
 *   [Open Government Data Platform India](https://data.gov.in/)
 *   [NAYN.CO Turkish News with categories (⭐3)](https://github.com/naynco/nayn.data)
 *   [Covid-19 (⭐1.2k)](https://github.com/datasets/covid-19)
-*   [Covid-19 Google (⭐116)](https://github.com/google-research/open-covid-19-data)
+*   [Covid-19 Google (⭐117)](https://github.com/google-research/open-covid-19-data)
 *   [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 
-### Other Awesome Lists / Book Deals (Affiliated) 🛍
+### Other Awesome Lists / Book Deals (Affiliated)
 
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
-*   [Awesome Machine Learning (⭐66k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   [Awesome Machine Learning (⭐67k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐10k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐227k)](https://github.com/vinta/awesome-python)
+*   [awesome-python (⭐230k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐28k)](https://github.com/donnemartin/data-science-ipython-notebooks)
-*   [awesome-r (⭐6k)](https://github.com/qinwf/awesome-R)
+*   [awesome-r (⭐6.1k)](https://github.com/qinwf/awesome-R)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐16k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
 *   [Machine Learning for Software Engineers (⭐28k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 *   [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
@@ -1191,8 +1187,8 @@
 *   [Awesome Decision Tree Papers (⭐2.4k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 *   [Awesome Fraud Detection Papers (⭐1.6k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 *   [Awesome Gradient Boosting Papers (⭐1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
-*   [Awesome Computer Vision Models (⭐515)](https://github.com/nerox8664/awesome-computer-vision-models)
-*   [Awesome Monte Carlo Tree Search (⭐652)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+*   [Awesome Computer Vision Models (⭐519)](https://github.com/nerox8664/awesome-computer-vision-models)
+*   [Awesome Monte Carlo Tree Search (⭐653)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 *   [100 NLP Papers (⭐3.8k)](https://github.com/mhagiwara/100-nlp-papers)
 
@@ -1219,32 +1215,32 @@
 *   [Advances in Evolutionary Algorithms](https://www.intechopen.com/books/advances_in_evolutionary_algorithms) - Free Download
 *   [Genetic Programming: New Approaches and Successful Applications](https://www.intechopen.com/books/genetic-programming-new-approaches-and-successful-applications) - Free Download
 
-### GitHub Groups / Book Deals (Affiliated) 🛍
+### GitHub Groups / Book Deals (Affiliated)
 
 *   [Berkeley Institute for Data Science](https://github.com/BIDS)
 
 ## [Jul 20 - Jul 26, 2020](/content/2020/29/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) - Blog for Evolutionary Algorithms
 
 ## [Dec 09 - Dec 15, 2019](/content/2019/49/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - Data Science with Esoteric programming languages
 
 ## [Mar 11 - Mar 17, 2019](/content/2019/10/README.md)
 
-### Telegram Channels / Book Deals (Affiliated) 🛍
+### Telegram Channels / Book Deals (Affiliated)
 
 *   [Open Data Science](https://t.me/opendatascience) – First Telegram Data Science channel. Covering all technical and popular staff about anything related to Data Science: AI, Big Data, Machine Learning, Statistics, general Math and the applications of former.
 *   [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
 
 ## [Feb 06 - Feb 12, 2017](/content/2017/6/README.md)
 
-### Bloggers / Book Deals (Affiliated) 🛍
+### Bloggers / Book Deals (Affiliated)
 
 *   [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
 *   [Hakan Kardas](https://www.cse.unr.edu/~hkardes/) - Personal Web Page
@@ -1268,25 +1264,25 @@
 
 ## [Jun 06 - Jun 12, 2016](/content/2016/23/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
 ## [Jan 18 - Jan 24, 2016](/content/2016/3/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
 
 ## [Nov 30 - Dec 06, 2015](/content/2015/48/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Vademecum of Practical Data Science](https://www.facebook.com/datasciencevademecum)
 
 ## [Aug 04 - Aug 10, 2014](/content/2014/31/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Big data hadoop NOSQL Hive Hbase](https://www.facebook.com/groups/bigdatahadoop/)
 *   [Analytics, Data Mining, Predictive Modeling, Artificial Intelligence](https://www.facebook.com/groups/data.analytics/)
@@ -1300,7 +1296,7 @@
 
 ## [Jul 28 - Aug 03, 2014](/content/2014/30/README.md)
 
-### Facebook Accounts / Book Deals (Affiliated) 🛍
+### Facebook Accounts / Book Deals (Affiliated)
 
 *   [Data](https://www.facebook.com/data)
 *   [Big Data Scientist](https://www.facebook.com/Bigdatascientist)

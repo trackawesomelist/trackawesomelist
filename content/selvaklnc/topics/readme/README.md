@@ -85,6 +85,16 @@ Interesting topics on all subjects:
 
 ## List of articles and posts
 
+*   Master SEO with the Complete [SEO Growth Blueprint](https://www.linkedin.com/pulse/master-seo-complete-growth-blueprint-series-selvakumaran-krishnan-ikx1c) Series.
+*   The Importance of [Cryptographic Standards in Modern Security](https://www.linkedin.com/pulse/importance-cryptographic-standards-modern-security-krishnan-yfsgc).
+*   The Human Factor: [Building a Cyber-Aware Culture in Organizations](https://www.linkedin.com/pulse/human-factor-building-cyber-aware-culture-selvakumaran-krishnan-mbrzc)
+*   [Google algorithm updates](https://medium.com/@selvakumarankrishnan/google-algorithm-updates-a-comprehensive-study-of-how-google-algorithm-updates-shape-online-seo-b509b320bf0d) | A comprehensive study of how Google algorithm updates shape online SEO impacts
+*   [Social Engineering Hacks](https://www.linkedin.com/pulse/social-engineering-hacks-how-manipulation-techniques-your-krishnan-usnec): How Manipulation Techniques Threaten Your Security and How to Protect Yourself
+*   [Online magazines and their allure](https://medium.com/@selvakumarankrishnan/online-magazines-and-their-allure-embrace-the-digital-eleganceonline-magazines-and-their-allure-1054f786a227): Embrace the digital elegance
+*   [Brute Force Attacks](https://www.linkedin.com/pulse/brute-force-attacks-prevention-mitigation-selvakumaran-krishnan-5b5pc) | Prevention and Mitigation
+*   The art of [finding peace in aloneness](https://medium.com/@selvakumarankrishnan/the-art-of-finding-peace-in-aloneness-0a1f14bc3168).
+*   Exploring [Generative AI in Cybersecurity](https://www.linkedin.com/pulse/exploring-generative-ai-cybersecurity-new-chapter-krishnan-istmc): A New Chapter.
+*   The Ongoing Debate: [Online vs. Offline Businesses](https://medium.com/@selvakumarankrishnan/the-ongoing-debate-online-vs-offline-businesses-e63b46594960)
 *   [Profitable Online Business Ideas for 2024](https://sites.google.com/view/vibe-reads/articles-profitable-online-business-ideas) – Kickstart Your Digital Venture
 *   [Best Online Business Ideas & Passive Income Opportunities](https://ourmaster.wordpress.com/2024/10/19/best-online-business-ideas-passive-income-opportunities-for-2024/) for 2024
 *   30 Best [Articles Guiding to Profitable Online Business](https://top-list-reads.blogspot.com/2024/10/online-business-idea-collection.html) Ideas in 2024
@@ -256,6 +266,12 @@ Interesting topics on all subjects:
 
 ## Responses
 
+*   [Museums](https://blog.u-s-history.com/2011/07/museums-of-richmond-virginia.html?commentPage=4) of Richmond Virginia
+*   American History through American Art at the [Metropolitan Museum of Art](https://blog.u-s-history.com/2012/03/image-credit-museum-of-art-if-youre-in.html?commentPage=2)
+*   [World Celebrates 50th Anniversary of Earth Day](https://blog.u-s-history.com/2020/04/world-celebrates-50th-anniversary-of.html?commentPage=2) - The History Behind The Holiday
+*   Florida History: [Everglades](https://blog.u-s-history.com/2020/04/florida-history-everglades.html?commentPage=2)
+*   [Oregon History and Westward Migration](https://blog.u-s-history.com/2020/05/oregon-history-and-westward-migration.html?commentPage=2) - The Beginnings
+*   Breaking the Bread: [A Brief History of Sourdough](https://blog.u-s-history.com/2020/05/breaking-bread-brief-history-of.html?commentPage=3)
 *   Office of [International Programs](http://international.lander.edu/asia-summer/april-27-2013)
 *   Guiding the [growth and development of over 24 brands](https://www.bu.edu/bhr/2024/09/24/nurturing-24-brands-allowing-them-to-evolve-mature-and-even-rocket-into-space/#comment-130011), helping them not only evolve and mature but also reach extraordinary heights, even beyond expectations.
 *   [Too many spider man](https://sites.northwestern.edu/situationcritical/2016/10/25/too-many-spider-men/comment-page-112/#comment-329717)

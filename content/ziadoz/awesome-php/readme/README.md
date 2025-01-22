@@ -119,7 +119,7 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *   [Composer Installers (⭐1.4k)](https://github.com/composer/installers) - A  multi-framework Composer library installer.
 *   [Composer](https://getcomposer.org/) - A package and dependency manager.
-*   [Pie (⭐382)](https://github.com/php/pie) - The official PHP installer for extensions.
+*   [Pie (⭐905)](https://github.com/php/pie) - The official PHP installer for extensions.
 *   [Phive](https://phar.io/) - A PHAR manager.
 *   [Pickle (⭐1.6k)](https://github.com/FriendsOfPHP/pickle) - A PHP extension installer.
 
@@ -128,14 +128,14 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *Extras related to dependency management.*
 
 *   [Composed (⭐53)](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
-*   [Composer Merge Plugin (⭐938)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-*   [Composer Normalize (⭐1k)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
-*   [Composer Patches (⭐1.5k)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
+*   [Composer Merge Plugin (⭐943)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
+*   [Composer Normalize (⭐1.1k)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
+*   [Composer Patches (⭐1.6k)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
 *   [Composer Prefer Lowest Validator (⭐20)](https://github.com/dereuromark/composer-prefer-lowest) - A plugin to check if minimum dependencies can be installed and tested.
-*   [Composer Require Checker (⭐896)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+*   [Composer Require Checker (⭐916)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 *   [Composer Unused (⭐1.5k)](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
 *   [Repman](https://repman.io) - A private PHP package repository manager and Packagist proxy.
-*   [Satis (⭐3.1k)](https://github.com/composer/satis) - A static Composer repository generator.
+*   [Satis (⭐3.2k)](https://github.com/composer/satis) - A static Composer repository generator.
 *   [Tooly (⭐101)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
 *   [Toran Proxy](https://toranproxy.com) - A Composer proxy for speed and reliability. (:warning: Toran Proxy is being phased out.)
 
@@ -157,9 +157,9 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *Extras related to web development frameworks.*
 
-*   [CakePHP CRUD (⭐376)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
+*   [CakePHP CRUD (⭐375)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 *   [Knp RAD Components](https://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
-*   [LaravelS (⭐3.8k)](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
+*   [LaravelS (⭐3.9k)](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 *   [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
 
 ### Content Management Systems (CMS)
@@ -178,6 +178,7 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 *   [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
 *   [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
+*   [TYPO3](https://typo3.org) - An enterprise level CMS.
 *   [WordPress (⭐20k)](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
 ### Components
@@ -198,8 +199,8 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *   [Laravel Zero](https://laravel-zero.com) - A micro-framework for console applications.
 *   [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-*   [Minicli (⭐1k)](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
-*   [Silly (⭐922)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
+*   [Minicli (⭐1.1k)](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
+*   [Silly (⭐923)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 *   [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
 ### Micro Framework Extras
@@ -208,7 +209,7 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *   [Slim Skeleton (⭐1.6k)](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
 *   [Slim Twig View (⭐305)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-*   [Slim PHP View (⭐264)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+*   [Slim PHP View (⭐266)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Routers
 
@@ -218,14 +219,14 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Fast Route (⭐5.1k)](https://github.com/nikic/FastRoute) - A fast routing library.
 *   [Klein (⭐2.7k)](https://github.com/klein/klein.php) - A flexible router.
 *   [Pux (⭐1.3k)](https://github.com/c9s/Pux) - Another fast routing library.
-*   [Route (⭐652)](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
+*   [Route (⭐653)](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 
 ### Templating
 
 *Libraries and tools for templating and lexing.*
 
 *   [Latte](https://latte.nette.org/) - The safest and truly intuitive templates for PHP.
-*   [MtHaml (⭐359)](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
+*   [MtHaml (⭐360)](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 *   [Mustache (⭐3.2k)](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
 *   [PHPTAL](https://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 *   [Plates](http://platesphp.com/) - A native PHP templating library.
@@ -251,8 +252,8 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [PHP VCR](https://php-vcr.github.io/) - A library for recording and replaying HTTP requests.
 *   [Requests (⭐3.6k)](https://github.com/WordPress/Requests) - A simple HTTP library.
 *   [Retrofit (⭐157)](https://github.com/tebru/retrofit-php) - A library to ease creation of REST API clients.
-*   [Symfony HTTP Client (⭐1.9k)](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
-*   [Laminas Diactoros (⭐484)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
+*   [Symfony HTTP Client (⭐2k)](https://github.com/symfony/http-client) - A component to fetch HTTP resources synchronously or asynchronously.
+*   [Laminas Diactoros (⭐496)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
 ### Scraping
 
@@ -263,14 +264,14 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [DiDOM (⭐2.2k)](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
 *   [Embed (⭐2.1k)](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
 *   [PHP Spider (⭐1.3k)](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
-*   [Symfony Panther (⭐2.9k)](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
+*   [Symfony Panther (⭐3k)](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
 
 ### Middlewares
 
 *Libraries for building application using middlewares.*
 
 *   [PSR-7 Middlewares (⭐668)](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
-*   [Relay (⭐319)](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
+*   [Relay (⭐323)](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 *   [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
 *   [Laminas Stratigility (⭐55)](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
 
@@ -279,19 +280,19 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *Libraries for parsing URLs.*
 
 *   [PHP Domain Parser (⭐1.2k)](https://github.com/jeremykendall/php-domain-parser) - A domain suffix parser library.
-*   [Purl (⭐907)](https://github.com/jwage/purl) - A URL manipulation library.
+*   [Purl (⭐906)](https://github.com/jwage/purl) - A URL manipulation library.
 *   [sabre/uri (⭐289)](https://github.com/sabre-io/uri) - A functional URI manipulation library.
-*   [Uri (⭐1k)](https://github.com/thephpleague/uri) - Another URL manipulation library.
+*   [Uri (⭐1.1k)](https://github.com/thephpleague/uri) - Another URL manipulation library.
 
 ### Email
 
 *Libraries for sending and parsing email.*
 
 *   [CssToInlineStyles (⭐5.8k)](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
-*   [Email Reply Parser (⭐640)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
+*   [Email Reply Parser (⭐639)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 *   [Email Validator (⭐162)](https://github.com/nojacko/email-validator) - A small email address validation library.
-*   [Fetch (⭐503)](https://github.com/tedious/Fetch) - An IMAP library.
-*   [Mautic (⭐7.4k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Fetch (⭐504)](https://github.com/tedious/Fetch) - An IMAP library.
+*   [Mautic (⭐7.6k)](https://github.com/mautic/mautic) - Email marketing automation
 *   [PHPMailer (⭐21k)](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 *   [PHP IMAP (⭐1.7k)](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
 *   [Stampie (⭐294)](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
@@ -302,12 +303,12 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *Libraries for file manipulation and MIME type detection.*
 
-*   [CSV (⭐3.3k)](https://github.com/thephpleague/csv) - A CSV data manipulation library.
+*   [CSV (⭐3.4k)](https://github.com/thephpleague/csv) - A CSV data manipulation library.
 *   [Flysystem (⭐13k)](https://github.com/thephpleague/Flysystem) - Abstraction for local and remote filesystems.
 *   [Gaufrette (⭐2.5k)](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 *   [PHP FFmpeg (⭐4.9k)](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - A wrapper for the [FFmpeg](https://www.ffmpeg.org/) video library.
 *   [UnifiedArchive (⭐275)](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
-*   [Parquet (⭐19)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
+*   [Parquet (⭐29)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
 
 ### Streams
 
@@ -320,10 +321,10 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *Libraries that implement the dependency injection design pattern.*
 
-*   [Aura.Di (⭐349)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
-*   [Acclimate (⭐220)](https://github.com/AcclimateContainer/acclimate-container) - A common interface to dependency injection containers and service locators.
-*   [Auryn (⭐722)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
-*   [Container (⭐844)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
+*   [Aura.Di (⭐348)](https://github.com/auraphp/Aura.Di) - A serializable dependency injection container with constructor and setter injection, interface and trait awareness, configuration inheritance, and much more.
+*   [Acclimate (⭐221)](https://github.com/AcclimateContainer/acclimate-container) - A common interface to dependency injection containers and service locators.
+*   [Auryn (⭐725)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
+*   [Container (⭐850)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 *   [Disco (⭐139)](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
 *   [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
 *   [Pimple](https://pimple.symfony.com/) - A tiny dependency injection container.
@@ -334,13 +335,13 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *Libraries for manipulating images.*
 
 *   [Color Extractor (⭐1.3k)](https://github.com/thephpleague/color-extractor) - A library for extracting colours from images.
-*   [Glide (⭐2.5k)](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
+*   [Glide (⭐2.6k)](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
 *   [Image Hash (⭐2k)](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
-*   [Image Optimizer (⭐911)](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
+*   [Image Optimizer (⭐909)](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
 *   [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
 *   [Intervention Image (⭐14k)](https://github.com/Intervention/image) - Another image manipulation library.
-*   [PHP Image Workshop (⭐862)](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
-*   [PHP QR Code (⭐2k)](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
+*   [PHP Image Workshop (⭐859)](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
+*   [PHP QR Code (⭐2.1k)](https://github.com/chillerlan/php-qrcode/) - QR Code generator and reader.
 
 ### Testing
 
@@ -350,22 +351,22 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Atoum (⭐1.4k)](https://github.com/atoum/atoum) - A simple testing library.
 *   [Behat](https://docs.behat.org/en/latest/) - A behaviour driven development (BDD) testing framework.
 *   [Codeception (⭐4.8k)](https://github.com/Codeception/Codeception) - A full stack testing framework.
-*   [Faker (⭐3.6k)](https://github.com/fakerphp/faker) - A fake data generator library.
-*   [Foundry (⭐663)](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
+*   [Faker (⭐3.7k)](https://github.com/fakerphp/faker) - A fake data generator library.
+*   [Foundry (⭐694)](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
 *   [Infection (⭐2.1k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
 *   [Kahlan (⭐1.1k)](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
 *   [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
 *   [Mockery (⭐11k)](https://github.com/mockery/mockery) - A mock object library for testing.
-*   [Nette Tester (⭐462)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
+*   [Nette Tester (⭐463)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 *   [ParaTest (⭐2.3k)](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
 *   [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
-*   [Phake (⭐479)](https://github.com/phake/phake) - Another mock object library for testing.
-*   [PHP-Mock (⭐359)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
-*   [PHP MySQL Engine (⭐549)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
+*   [Phake (⭐478)](https://github.com/phake/phake) - Another mock object library for testing.
+*   [PHP-Mock (⭐360)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
+*   [PHP MySQL Engine (⭐550)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
 *   [PHPSpec (⭐1.9k)](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 *   [PHPT](https://qa.php.net/write-test.php) - A test tool used by PHP itself.
 *   [PHPUnit (⭐20k)](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
-*   [PHPUnit Polyfills (⭐173)](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
+*   [PHPUnit Polyfills (⭐176)](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
 *   [Prophecy (⭐8.5k)](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
 *   [VFS Stream (⭐1.4k)](https://github.com/bovigo/vfsStream) - A virtual filesystem stream wrapper for testing.
 
@@ -381,14 +382,14 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [SemaphoreCI](https://semaphoreci.com) - A continuous integration platform for open-source and private projects.
 *   [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/) - A Docker based continuous integration platform for open source and private projects.
 *   [Travis CI](https://www.travis-ci.com) - A continuous integration platform.
-*   [Setup PHP (⭐2.9k)](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
+*   [Setup PHP (⭐3k)](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
 ### Documentation
 
 *Libraries for generating project documentation.*
 
 *   [APIGen (⭐2.2k)](https://github.com/apigen/apigen) - Another API documentation generator.
-*   [daux.io (⭐796)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
+*   [daux.io (⭐802)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
 *   [phpDocumentor](https://phpdoc.org/) - A documentation generator.
 *   [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
 *   [zircote/swagger-php (⭐5.1k)](https://github.com/zircote/swagger-php) - Generate OpenAPI documentation for your RESTful API.
@@ -397,16 +398,16 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *Libraries for generating secure random numbers, encrypting data and scanning and testing for vulnerabilities.*
 
-*   [AntiXSS (⭐679)](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
+*   [AntiXSS (⭐686)](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
 *   [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium (⭐12k)](https://github.com/jedisct1/libsodium).
 *   [Optimus (⭐1.3k)](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 *   [OWASP](https://owasp.org/) - Explore the world of cyber security.
-*   [PHPGGC (⭐3.2k)](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
+*   [PHPGGC (⭐3.3k)](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
 *   [PHP Encryption (⭐3.8k)](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
 *   [PHPSecLib](https://phpseclib.sourceforge.net) - A pure PHP secure communications library.
 *   [random\_compat (⭐8.2k)](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`
 *   [Roave Security Advisories (⭐2.7k)](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
-*   [Secure Headers (⭐507)](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
+*   [Secure Headers (⭐512)](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
 *   [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 *   [SQLMap (⭐33k)](https://github.com/sqlmapproject/sqlmap) - An automatic SQL injection and database takeover tool.
 *   [Zap (⭐13k)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
@@ -415,14 +416,14 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *Libraries and tools for working with and storing passwords.*
 
-*   [GenPhrase (⭐115)](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
+*   [GenPhrase (⭐116)](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
 *   [Password Compat (⭐2.1k)](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
-*   [Password Policy (⭐77)](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
-*   [Password Validator (⭐145)](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
-*   [Password-Generator (⭐293)](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
+*   [Password Policy (⭐78)](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
+*   [Password Validator (⭐144)](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
+*   [Password-Generator (⭐295)](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
 *   [PHP Password Lib (⭐373)](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 *   [phpass](https://www.openwall.com/phpass/) - A portable password hashing framework.
-*   [Zxcvbn PHP (⭐831)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
+*   [Zxcvbn PHP (⭐833)](https://github.com/bjeavons/zxcvbn-php) - A realistic PHP password strength estimate library based on Zxcvbn JS.
 
 ### Code Analysis
 
@@ -430,25 +431,25 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *   [Better Reflection (⭐1.2k)](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 *   [Code Climate](https://codeclimate.com) - An automated code review.
-*   [Editorconfig-Checker (⭐64)](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
-*   [GrumPHP (⭐4.1k)](https://github.com/phpro/grumphp) - A PHP code-quality tool.
+*   [Editorconfig-Checker (⭐65)](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
+*   [GrumPHP (⭐4.2k)](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 *   [PHP AST Viewer](https://php-ast-viewer.com/) - A tool for viewing the Abstract Syntax Tree of PHP code.
-*   [PHP Magic Number Detector (⭐555)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
+*   [PHP Magic Number Detector (⭐561)](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 *   [PHP Parser (⭐17k)](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
-*   [PHP Semantic Versioning Checker (⭐429)](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
-*   [Phpactor (⭐1.4k)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
+*   [PHP Semantic Versioning Checker (⭐430)](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
+*   [Phpactor (⭐1.5k)](https://github.com/phpactor/phpactor) - PHP completion, refactoring and introspection tool.
 *   [PHPLOC (⭐2.3k)](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 *   [PHPQA (⭐565)](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
-*   [Rector (⭐8.7k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
+*   [Rector (⭐9.2k)](https://github.com/rectorphp/rector) - A tool to upgrade and refactor code.
 *   [Scrutinizer](https://scrutinizer-ci.com/) - A web tool to [scrutinise PHP code (⭐444)](https://github.com/scrutinizer-ci/php-analyzer).
-*   [UBench (⭐568)](https://github.com/devster/ubench) - A simple micro-benchmark library.
+*   [UBench (⭐567)](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
 ### Code Quality
 
 *Libraries for managing code quality, formatting and linting.*
 
 *   [CaptainHook (⭐1k)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
-*   [PHP CodeSniffer (⭐970)](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
+*   [PHP CodeSniffer (⭐1.1k)](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
 *   [PHP CS Fixer (⭐13k)](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
 *   [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
 *   [PHP Mess Detector (⭐2.3k)](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
@@ -461,12 +462,12 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *Libraries for performing static analysis of PHP code.*
 
 *   [Exakat (⭐379)](https://github.com/exakat/exakat) - A static analysis engine for PHP.
-*   [Deptrac (⭐2.6k)](https://github.com/qossmic/deptrac) - A static code analysis tool that helps to enforce rules for dependencies between software layers.
-*   [Mondrian (⭐397)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+*   [Deptrac (⭐2.7k)](https://github.com/qossmic/deptrac) - A static code analysis tool that helps to enforce rules for dependencies between software layers.
+*   [Mondrian (⭐395)](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 *   [phan (⭐5.5k)](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
 *   [PHP Architecture Tester (⭐1.1k)](https://github.com/carlosas/phpat) - Easy-to-use architecture testing tool for PHP.
 *   [PHPCompatibility (⭐2.2k)](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
-*   [PhpDependencyAnalysis (⭐564)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
+*   [PhpDependencyAnalysis (⭐567)](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customizable dependency graphs.
 *   [PHPDoc Parser (⭐1.4k)](https://github.com/phpstan/phpdoc-parser) - Next-gen phpDoc parser with support for intersection types and generics
 *   [PHP Metrics (⭐2.5k)](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 *   [PHP Migration (⭐202)](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
@@ -482,9 +483,9 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [Functional PHP (⭐2k)](https://github.com/lstrojny/functional-php) - A functional programming library.
 *   [Iter (⭐1.1k)](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 *   [IterTools PHP (⭐141)](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
-*   [Pipeline (⭐960)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
-*   [Porter (⭐612)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
-*   [RulerZ (⭐873)](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
+*   [Pipeline (⭐971)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+*   [Porter (⭐611)](https://github.com/ScriptFUSION/Porter) - Data import abstraction library for consuming Web APIs and other data sources.
+*   [RulerZ (⭐872)](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 ### Debugging and Profiling
 
@@ -493,8 +494,8 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
 *   [Barbushin PHP Console (⭐1.3k)](https://github.com/barbushin/php-console) - Another web debugging console using Google Chrome.
 *   [Kint (⭐2.8k)](https://github.com/kint-php/kint) - A debugging and profiling tool.
-*   [Metrics (⭐317)](https://github.com/beberlei/metrics) - A simple metrics API library.
-*   [PCOV (⭐702)](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
+*   [Metrics (⭐318)](https://github.com/beberlei/metrics) - A simple metrics API library.
+*   [PCOV (⭐713)](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
 *   [PHP Console (⭐529)](https://github.com/Seldaek/php-console) - A web debugging console.
 *   [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 *   [PHPBench (⭐1.9k)](https://github.com/phpbench/phpbench) - A benchmarking Framework.
@@ -521,10 +522,10 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *Project build and automation tools.*
 
-*   [Box (⭐1.1k)](https://github.com/box-project/box) - A utility to build PHAR files.
+*   [Box (⭐1.2k)](https://github.com/box-project/box) - A utility to build PHAR files.
 *   [Construct (⭐266)](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 *   [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
-*   [RMT (⭐455)](https://github.com/liip/RMT) - A library for versioning and releasing software.
+*   [RMT (⭐454)](https://github.com/liip/RMT) - A library for versioning and releasing software.
 
 ### Task Runners
 
@@ -540,13 +541,13 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *Tools for building navigation structures.*
 
 *   [KnpMenu (⭐1.4k)](https://github.com/KnpLabs/KnpMenu) - A menu library.
-*   [Menu (⭐740)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
+*   [Menu (⭐743)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
 
 ### Asset Management
 
 *Tools for managing, compressing and minifying website assets.*
 
-*   [JShrink (⭐749)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐752)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 *   [Laravel Mix (⭐5.3k)](https://github.com/laravel-mix/laravel-mix) - An elegant wrapper around Webpack for the 80% use case.
 *   [Symfony Asset (⭐3.1k)](https://github.com/symfony/asset) - Manages URL generation and versioning of web assets.
 *   [Symfony Encore (⭐2.2k)](https://github.com/symfony/webpack-encore) - A simple but powerful API for processing and compiling assets built around Webpack.
@@ -557,7 +558,7 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *   [Country List (⭐5.2k)](https://github.com/umpirsky/country-list) - A list of all countries with names and ISO 3166-1 codes.
 *   [GeoCoder](https://geocoder-php.org/) - A geocoding library.
-*   [GeoJSON (⭐296)](https://github.com/jmikola/geojson) - A GeoJSON implementation.
+*   [GeoJSON (⭐300)](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 *   [GeoTools (⭐1.4k)](https://github.com/thephpleague/geotools) - A library of geo-related tools.
 *   [PHPGeo (⭐1.6k)](https://github.com/mjaschen/phpgeo) - A simple geo library.
 
@@ -568,8 +569,8 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [CalendR](https://yohan.giarel.li/CalendR/) - A calendar management library.
 *   [Carbon (⭐17k)](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
 *   [Chronos (⭐1.4k)](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
-*   [Moment.php (⭐971)](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
-*   [Yasumi (⭐1k)](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
+*   [Moment.php (⭐970)](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
+*   [Yasumi (⭐1.1k)](https://github.com/azuyalabs/yasumi) - A library to help you calculate the dates and names of holidays.
 
 ### Event
 
@@ -577,19 +578,19 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *   [Amp (⭐4.3k)](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 *   [Broadway (⭐1.5k)](https://github.com/broadway/broadway) - An event source and CQRS library.
-*   [CakePHP Event (⭐22)](https://github.com/cakephp/event) - An event dispatcher library.
-*   [Elephant.io (⭐109)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+*   [CakePHP Event (⭐21)](https://github.com/cakephp/event) - An event dispatcher library.
+*   [Elephant.io (⭐115)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 *   [Evenement (⭐1.3k)](https://github.com/igorw/evenement) - An event dispatcher library.
 *   [Event (⭐1.5k)](https://github.com/thephpleague/event) - An event library with a focus on domain events.
-*   [Fast CGI Client (⭐551)](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
+*   [Fast CGI Client (⭐554)](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
 *   [FrankenPHP](https://frankenphp.dev/) - A modern PHP app server written in Go.
-*   [Pawl (⭐583)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
-*   [Prooph Event Store (⭐548)](https://github.com/prooph/event-store) - An event source component to persist event messages
-*   [PHP Defer (⭐293)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
+*   [Pawl (⭐589)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
+*   [Prooph Event Store (⭐547)](https://github.com/prooph/event-store) - An event source component to persist event messages
+*   [PHP Defer (⭐301)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
 *   [Ratchet (⭐6.3k)](https://github.com/ratchetphp/Ratchet) - A web socket library.
-*   [ReactPHP (⭐8.9k)](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
+*   [ReactPHP (⭐9k)](https://github.com/reactphp/reactphp) - An event driven non-blocking I/O library.
 *   [RxPHP (⭐1.7k)](https://github.com/ReactiveX/RxPHP) - A reactive extension library.
-*   [Swoole (⭐18k)](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
+*   [Swoole (⭐19k)](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
 *   [Workerman (⭐11k)](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
 
 ### Logging
@@ -602,12 +603,12 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *Libraries and applications for taking payments and building online e-commerce stores.*
 
-*   [Money (⭐4.6k)](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
+*   [Money (⭐4.7k)](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
 *   [Brick Money (⭐1.7k)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
-*   [OmniPay (⭐5.9k)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
+*   [OmniPay (⭐6k)](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 *   [Payum (⭐1.9k)](https://github.com/payum/payum) - A payment abstraction library.
-*   [Shopsys Framework (⭐332)](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
-*   [Shopware (⭐2.8k)](https://github.com/shopware/shopware) - Highly customizable e-commerce software
+*   [Shopsys Framework (⭐333)](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
+*   [Shopware (⭐2.9k)](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 *   [Swap (⭐1.3k)](https://github.com/florianv/swap) - An exchange rates library.
 *   [Sylius](https://sylius.com/) - An open source e-commerce solution.
 
@@ -617,7 +618,7 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 
 *   [Browsershot (⭐4.9k)](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
 *   [Dompdf (⭐11k)](https://github.com/dompdf/dompdf) - A HTML to PDF converter.
-*   [Gotenberg (⭐226)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
+*   [Gotenberg (⭐246)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 *   [Snappy (⭐4.4k)](https://github.com/KnpLabs/snappy) - A PDF and image generation library.
 *   [TCPDF](https://tcpdf.org/) - An open source PHP class for generating PDF documents.
 
@@ -628,25 +629,25 @@ Please see [CONTRIBUTING (⭐31k)](https://github.com/ziadoz/awesome-php/blob/ma
 *   [PHPPowerPoint (⭐1.3k)](https://github.com/PHPOffice/PHPPresentation) - A library for working with Microsoft PowerPoint Presentations.
 *   [PHPWord (⭐7.3k)](https://github.com/PHPOffice/PHPWord) - A library for working with Microsoft Word documents.
 *   [PHPSpreadsheet (⭐13k)](https://github.com/PHPOffice/PhpSpreadsheet) - A pure PHP library for reading and writing spreadsheet files (successor of PHPExcel).
-*   [OpenSpout (⭐836)](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
+*   [OpenSpout (⭐856)](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 
 ### Database
 
 *Libraries for interacting with databases using object-relational mapping (ORM) or datamapping techniques.*
 
-*   [Atlas.Orm (⭐428)](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
-*   [Aura.Sql (⭐559)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
-*   [Aura.SqlQuery (⭐452)](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
+*   [Atlas.Orm (⭐427)](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
+*   [Aura.Sql (⭐556)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
+*   [Aura.SqlQuery (⭐451)](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
 *   [Baum (⭐2.2k)](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
-*   [CakePHP ORM (⭐149)](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
+*   [CakePHP ORM (⭐147)](https://github.com/cakephp/orm) - Object-Relational Mapper, implemented using the DataMapper pattern.
 *   [Cycle ORM (⭐1.2k)](https://github.com/cycle/orm) - PHP DataMapper, ORM.
-*   [Doctrine Extensions (⭐4k)](https://github.com/doctrine-extensions/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
+*   [Doctrine Extensions (⭐4.1k)](https://github.com/doctrine-extensions/DoctrineExtensions) - A collection of Doctrine behavioural extensions.
 *   [Doctrine](https://www.doctrine-project.org/) - A comprehensive DBAL and ORM.
 *   [Laravel Eloquent (⭐2.7k)](https://github.com/illuminate/database) - A simple ORM.
 *   [Pomm (⭐164)](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 *   [ProxyManager (⭐5k)](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
 *   [RedBean](https://redbeanphp.com/index.php) - A lightweight, configuration-less ORM.
-*   [Slimdump (⭐184)](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
+*   [Slimdump (⭐185)](https://github.com/webfactory/slimdump) - An easy dumper tool for MySQL.
 *   [Spot2 (⭐601)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ### Migrations
@@ -663,7 +664,7 @@ Libraries to help manage database schemas and migrations.
 
 *Libraries for working with "NoSQL" backends.*
 
-*   [MongoDB (⭐889)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
+*   [MongoDB (⭐892)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
 *   [PHPMongo (⭐242)](https://github.com/sokil/php-mongo) - A MongoDB ORM.
 *   [Predis (⭐7.6k)](https://github.com/predis/predis) - A feature-complete Redis library.
 
@@ -672,10 +673,10 @@ Libraries to help manage database schemas and migrations.
 *Libraries for working with event and task queues.*
 
 *   [Bernard (⭐1.2k)](https://github.com/bernardphp/bernard) - A multibackend abstraction library.
-*   [BunnyPHP (⭐705)](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
+*   [BunnyPHP (⭐716)](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
 *   [Pheanstalk (⭐1.9k)](https://github.com/pheanstalk/pheanstalk) - A Beanstalkd client library.
 *   [PHP AMQP (⭐4.5k)](https://github.com/php-amqplib/php-amqplib) - A pure PHP AMQP library.
-*   [Tarantool Queue (⭐63)](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
+*   [Tarantool Queue (⭐64)](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
 *   [Thumper (⭐276)](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 *   [Enqueue (⭐2.2k)](https://github.com/php-enqueue/enqueue-dev) - A message queue packages for PHP that supports RabbitMQ, AMQP, STOMP, Amazon SQS, Redis and Doctrine transports.
 
@@ -684,7 +685,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries and software for indexing and performing search queries on data.*
 
 *   [Elastica (⭐2.3k)](https://github.com/ruflin/Elastica) - A client library for ElasticSearch.
-*   [ElasticSearch PHP (⭐40)](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
+*   [ElasticSearch PHP (⭐5.3k)](https://github.com/elastic/elasticsearch-php) - The official client library for [ElasticSearch](https://www.elastic.co/).
 *   [Solarium](https://www.solarium-project.org/) - A client library for [Solr](https://solr.apache.org/).
 *   [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - A query library for the [Sphinx](https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) search engines.
 
@@ -692,30 +693,30 @@ Libraries to help manage database schemas and migrations.
 
 *Libraries related to the command line.*
 
-*   [Aura.Cli (⭐104)](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
-*   [Cilex (⭐620)](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
+*   [Aura.Cli (⭐102)](https://github.com/auraphp/Aura.Cli) - Provides the equivalent of request ( Context ) and response ( Stdio ) objects for the command line interface, including Getopt support, and an independent Help object for describing commands.
+*   [Cilex (⭐621)](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 *   [CLI Menu (⭐1.9k)](https://github.com/php-school/cli-menu) - A library for building CLI menus.
-*   [CLIFramework (⭐437)](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
+*   [CLIFramework (⭐440)](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
 *   [CLImate (⭐1.9k)](https://github.com/thephpleague/climate) - A library for outputting colors and special formatting.
-*   [Commando (⭐798)](https://github.com/nategood/commando) - Another simple command line opt parser.
+*   [Commando (⭐799)](https://github.com/nategood/commando) - Another simple command line opt parser.
 *   [Cron Expression (⭐4.9k)](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 *   [GetOpt (⭐337)](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 *   [GetOptionKit (⭐150)](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
-*   [PsySH (⭐9.7k)](https://github.com/bobthecow/psysh) - Another PHP REPL.
+*   [PsySH (⭐9.8k)](https://github.com/bobthecow/psysh) - Another PHP REPL.
 *   [ShellWrap (⭐746)](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 
 ### Authentication and Authorization
 
 *Libraries for implementing user authentication and authorization.*
 
-*   [Aura.Auth (⭐134)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
-*   [SocialConnect Auth (⭐551)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
+*   [Aura.Auth (⭐132)](https://github.com/auraphp/Aura.Auth) - Provides authentication functionality and session tracking using various adapters.
+*   [SocialConnect Auth (⭐550)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
 *   [Json Web Token (⭐7.3k)](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
-*   [OAuth 1.0 Client (⭐969)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
+*   [OAuth 1.0 Client (⭐977)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 *   [OAuth 2.0 Client (⭐3.7k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
 *   [OAuth2 Server](https://bshaffer.github.io/oauth2-server-php-docs/) - Another OAuth2 server implementation.
 *   [OAuth2 Server](https://oauth2.thephpleague.com/) - An OAuth2 authentication server, resource server and client library.
-*   [Opauth (⭐1.7k)](https://github.com/opauth/opauth) - A multi-provider authentication framework.
+*   [Opauth (⭐1.6k)](https://github.com/opauth/opauth) - A multi-provider authentication framework.
 *   [Paseto (⭐3.3k)](https://github.com/paragonie/paseto) - Platform-Agnostic Security Tokens.
 *   [PHP oAuthLib (⭐1.1k)](https://github.com/daviddesberg/PHPoAuthLib) - Another OAuth library.
 *   [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
@@ -727,73 +728,73 @@ Libraries to help manage database schemas and migrations.
 *Libraries for working with markup and CSS formats.*
 
 *   [Cebe Markdown (⭐1k)](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
-*   [CommonMark PHP (⭐2.7k)](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
-*   [Decoda (⭐196)](https://github.com/milesj/decoda) - A lightweight markup parser library.
+*   [CommonMark PHP (⭐2.8k)](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
+*   [Decoda (⭐197)](https://github.com/milesj/decoda) - A lightweight markup parser library.
 *   [Essence (⭐768)](https://github.com/essence/essence) - A library for extracting web media.
-*   [Embera (⭐339)](https://github.com/mpratt/Embera) - An Oembed consumer library.
+*   [Embera (⭐341)](https://github.com/mpratt/Embera) - An Oembed consumer library.
 *   [HTML to Markdown (⭐1.8k)](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
 *   [HTML5 PHP (⭐1.6k)](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 *   [Parsedown (⭐15k)](https://github.com/erusev/parsedown) - Another Markdown parser.
 *   [PHP CSS Parser (⭐1.8k)](https://github.com/MyIntervals/PHP-CSS-Parser) - A Parser for CSS Files written in PHP.
 *   [PHP Markdown (⭐3.4k)](https://github.com/michelf/php-markdown) - A Markdown parser.
-*   [Shiki PHP (⭐284)](https://github.com/spatie/shiki-php) - A [Shiki (⭐10k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
-*   [VObject (⭐570)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+*   [Shiki PHP (⭐286)](https://github.com/spatie/shiki-php) - A [Shiki (⭐11k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [VObject (⭐573)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### JSON
 
 *Libraries for working with JSON.*
 
 *   [JSON Lint (⭐1.3k)](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
-*   [JSONMapper (⭐211)](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
+*   [JSONMapper (⭐212)](https://github.com/JsonMapper/JsonMapper) - A library for mapping JSON to PHP objects.
 
 ### Strings
 
 *Libraries for parsing and manipulating strings.*
 
-*   [Agent (⭐4.5k)](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
-*   [ANSI to HTML5 (⭐238)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
+*   [Agent (⭐4.6k)](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
+*   [ANSI to HTML5 (⭐239)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 *   [Color Jizz (⭐286)](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colors.
-*   [Device Detector (⭐2.9k)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
-*   [Hyphenation (⭐54)](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm
+*   [Device Detector (⭐3.2k)](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
+*   [Hyphenation (⭐53)](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm
 *   [Jieba-PHP (⭐1.3k)](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 *   [Mobile-Detect (⭐11k)](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 *   [Patchwork UTF-8 (⭐79)](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
-*   [Portable ASCII (⭐532)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
-*   [Portable UTF-8 (⭐510)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
+*   [Portable ASCII (⭐547)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
+*   [Portable UTF-8 (⭐511)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 *   [Slugify (⭐2.9k)](https://github.com/cocur/slugify) - A library to convert strings to slugs.
 *   [SQL Formatter (⭐3.9k)](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
-*   [Stringy (⭐171)](https://github.com/voku/Stringy) - A string manipulation library with multibyte support.
+*   [Stringy (⭐173)](https://github.com/voku/Stringy) - A string manipulation library with multibyte support.
 *   [UA Parser (⭐2k)](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
-*   [URLify (⭐673)](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
-*   [UUID (⭐12k)](https://github.com/ramsey/uuid) - A library for generating UUIDs.
+*   [URLify (⭐677)](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
+*   [UUID (⭐13k)](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 
 ### Numbers
 
 *Libraries for working with numbers.*
 
 *   [Brick Math (⭐1.9k)](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
-*   [ByteUnits (⭐163)](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
+*   [ByteUnits (⭐162)](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 *   [DecimalObject (⭐20)](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
-*   [IP (⭐250)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
+*   [IP (⭐253)](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
 *   [LibPhoneNumber for PHP (⭐4.8k)](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 *   [PHP Conversion (⭐131)](https://github.com/Crisu83/php-conversion) - Another library for converting between units of measure.
 *   [PHP Units of Measure (⭐22)](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
-*   [MathPHP (⭐2.3k)](https://github.com/markrogoyski/math-php) - A math library for PHP.
+*   [MathPHP (⭐2.4k)](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
 ### Filtering, Sanitizing and Validation
 
 *Libraries for filtering, sanitizing and validating data.*
 
 *   [Assert (⭐2.4k)](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
-*   [Aura.Filter (⭐160)](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
-*   [CakePHP Validation (⭐43)](https://github.com/cakephp/validation) - Another validation library.
-*   [Filterus (⭐454)](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
+*   [Aura.Filter (⭐159)](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
+*   [CakePHP Validation (⭐42)](https://github.com/cakephp/validation) - Another validation library.
+*   [Filterus (⭐453)](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 *   [HTML Purifier (⭐3.1k)](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 *   [ISO-codes (⭐792)](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
-*   [JSON Schema (⭐3.5k)](https://github.com/jsonrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
+*   [JSON Schema (⭐3.6k)](https://github.com/jsonrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
 *   [MetaYaml (⭐104)](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 *   [Respect Validation (⭐5.8k)](https://github.com/Respect/Validation) - A simple validation library.
-*   [Symfony HTML Sanitizer (⭐238)](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
+*   [Symfony HTML Sanitizer (⭐243)](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
 *   [Upload (⭐1.7k)](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
 *   [Valitron (⭐1.6k)](https://github.com/vlucas/valitron) - Another validation library.
 *   [Valinor (⭐1.3k)](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
@@ -808,10 +809,10 @@ Libraries to help manage database schemas and migrations.
 *   [Drest (⭐87)](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
 *   [HAL (⭐203)](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 *   [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
-*   [Jane (⭐607)](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
+*   [Jane (⭐615)](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 *   [Negotiation (⭐1.4k)](https://github.com/willdurand/Negotiation) - A content negotiation library.
 *   [Restler (⭐1.4k)](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
-*   [PackageGenerator (⭐428)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
+*   [PackageGenerator (⭐430)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
 
 ### Caching and Locking
 
@@ -819,27 +820,27 @@ Libraries to help manage database schemas and migrations.
 
 *   [APIx Cache (⭐117)](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing.
 *   [CacheTool (⭐1.7k)](https://github.com/gordalina/cachetool) - A tool to clear APC/opcode caches from the command line.
-*   [CakePHP Cache (⭐51)](https://github.com/cakephp/cache) - A caching library.
-*   [Doctrine Cache (⭐7.8k)](https://github.com/doctrine/cache) - A caching library.
+*   [CakePHP Cache (⭐52)](https://github.com/cakephp/cache) - A caching library.
+*   [Doctrine Cache (⭐7.9k)](https://github.com/doctrine/cache) - A caching library.
 *   [Metaphore (⭐101)](https://github.com/sobstel/metaphore) - Cache slam defense using a semaphore to prevent dogpile effect.
 *   [Stash (⭐962)](https://github.com/tedious/Stash) - Another library for caching.
-*   [Laminas Cache (⭐103)](https://github.com/laminas/laminas-cache) - Another caching library.
-*   [Lock (⭐932)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
+*   [Laminas Cache (⭐102)](https://github.com/laminas/laminas-cache) - Another caching library.
+*   [Lock (⭐936)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Data Structure and Storage
 
 *Libraries that implement data structure or storage techniques.*
 
-*   [CakePHP Collection (⭐89)](https://github.com/cakephp/collection) - A simple collections library.
+*   [CakePHP Collection (⭐88)](https://github.com/cakephp/collection) - A simple collections library.
 *   [Fractal (⭐3.5k)](https://github.com/thephpleague/fractal) - A library for converting complex data structures to JSON output.
 *   [Ginq (⭐193)](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
 *   [JsonMapper (⭐1.6k)](https://github.com/cweiske/jsonmapper) - A library that maps nested JSON structures onto PHP classes.
 *   [JSON Machine (⭐1.1k)](https://github.com/halaxa/json-machine) - Provides iteration over huge JSONs using simple `foreach`
 *   [Knapsack (⭐536)](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
-*   [msgpack.php (⭐389)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
+*   [msgpack.php (⭐390)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
 *   [PINQ (⭐461)](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
 *   [Serializer (⭐2.3k)](https://github.com/schmittjoh/serializer) - A library for serializing and de-serializing data.
-*   [YaLinqo (⭐441)](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
+*   [YaLinqo (⭐444)](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 *   [Laminas Serializer (⭐33)](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
 
 ### Notifications
@@ -864,8 +865,8 @@ Libraries to help manage database schemas and migrations.
 
 *Libraries for Internationalization (I18n) and Localization (L10n).*
 
-*   [Aura.Intl (⭐90)](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
-*   [CakePHP I18n (⭐29)](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
+*   [Aura.Intl (⭐89)](https://github.com/auraphp/Aura.Intl) - Provides internationalization (I18N) tools, specifically package-oriented per-locale message translation.
+*   [CakePHP I18n (⭐28)](https://github.com/cakephp/i18n) - Message translation and localization for dates and numbers.
 
 ### Serverless
 
@@ -881,24 +882,24 @@ Libraries to help manage database schemas and migrations.
 *Libraries and tools for configuration.*
 
 *   [PHP Dotenv (⭐13k)](https://github.com/vlucas/phpdotenv) - Parse and load environment variables from `.env` files.
-*   [Symfony Dotenv (⭐3.7k)](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
-*   [Yo! Symfony TOML (⭐200)](https://github.com/yosymfony/toml) - A PHP parser for [TOML (⭐20k)](https://github.com/toml-lang/toml).
+*   [Symfony Dotenv (⭐3.8k)](https://github.com/symfony/dotenv)- Parse and load environment variables from `.env` files.
+*   [Yo! Symfony TOML (⭐202)](https://github.com/yosymfony/toml) - A PHP parser for [TOML (⭐20k)](https://github.com/toml-lang/toml).
 
 ### LLMs
 
 *Libraries for working with Large Language Models.*
 
-*   [Instructor for PHP (⭐218)](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
-*   [LLPhant (⭐871)](https://github.com/theodo-group/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
-*   [OpenAI Client (⭐5k)](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
-*   [OpenAI Client for Laravel (⭐2.8k)](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
-*   [PHP Mistral AI SDK (⭐6)](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
+*   [Instructor for PHP (⭐235)](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
+*   [LLPhant (⭐969)](https://github.com/theodo-group/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
+*   [OpenAI Client (⭐5.1k)](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+*   [OpenAI Client for Laravel (⭐3k)](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
+*   [PHP Mistral AI SDK (⭐8)](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
 
 ### Third Party APIs
 
 *Libraries for accessing third party APIs.*
 
-*   [Amazon Web Service SDK (⭐6k)](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
+*   [Amazon Web Service SDK (⭐6.1k)](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 *   [AsyncAWS](https://async-aws.com/) - An unofficial asynchronous PHP AWS SDK.
 *   [Campaign Monitor](https://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
 *   [Github (⭐2.2k)](https://github.com/KnpLabs/php-github-api) - A library to interface with the Github API.
@@ -920,11 +921,11 @@ Libraries to help manage database schemas and migrations.
 
 *   [Annotations (⭐6.7k)](https://github.com/doctrine/annotations) - An annotation library (part of Doctrine).
 *   [BotMan (⭐6.1k)](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chatbots.
-*   [ClassPreloader (⭐361)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
-*   [Ganesha (⭐591)](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
+*   [ClassPreloader (⭐371)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
+*   [Ganesha (⭐599)](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 *   [Hprose-PHP (⭐2k)](https://github.com/hprose/hprose-php) - A cross-language RPC.
-*   [Laravel Serializable Closure (⭐526)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
-*   [noCAPTCHA (⭐359)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
+*   [Laravel Serializable Closure (⭐543)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
+*   [noCAPTCHA (⭐361)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 *   [Pagerfanta (⭐1.6k)](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 *   [Safe (⭐2.4k)](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
 
@@ -936,22 +937,22 @@ Libraries to help manage database schemas and migrations.
 
 *Tools to help install and manage PHP on your computer.*
 
-*   [Brew PHP Switcher (⭐963)](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
+*   [Brew PHP Switcher (⭐971)](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
 *   [HomeBrew](https://brew.sh/) - A package manager for OSX.
 *   [PHP Brew (⭐5.4k)](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
 *   [PHP Build (⭐1k)](https://github.com/php-build/php-build) - Another PHP version installer.
-*   [Static PHP CLI (⭐1.3k)](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
+*   [Static PHP CLI (⭐1.4k)](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
 
 ### Development Environment
 
 *Software and tools for creating and sharing a development environment.*
 
 *   [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
-*   [DDEV (⭐2.8k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
+*   [DDEV (⭐2.9k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
 *   [Docker](https://www.docker.com/) - A containerization platform.
-*   [Docker PHP Extension Installer (⭐4.3k)](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
-*   [Docksal (⭐690)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
-*   [Expose (⭐4.2k)](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
+*   [Docker PHP Extension Installer (⭐4.4k)](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
+*   [Docksal (⭐694)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+*   [Expose (⭐4.3k)](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
 *   [Lando](https://lando.dev/) - Push-button development environments.
 *   [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
 *   [Laravel Herd](https://herd.laravel.com/) - A one click PHP development environment for macOS and Windows.
@@ -975,6 +976,7 @@ Libraries to help manage database schemas and migrations.
 
 *   [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
 *   [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - An IDE with support for PHP and HTML5.
+*   [PhpEd](https://www.nusphere.com/products/phped.htm) - An IDE with professional commercial debugger.
 *   [PhpStorm](https://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 *   [VS Code](https://code.visualstudio.com/) - An open source code editor.
 
@@ -987,7 +989,7 @@ Libraries to help manage database schemas and migrations.
 *   [Cachet (⭐14k)](https://github.com/cachethq/cachet) - The open source status page system.
 *   [DBV (⭐1.7k)](https://github.com/victorstanciu/dbv) - A database version control application.
 *   [Lychee (⭐6.3k)](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
-*   [MailCatcher (⭐6.3k)](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
+*   [MailCatcher (⭐6.5k)](https://github.com/sj26/mailcatcher) - A web tool for capturing and viewing emails.
 *   [phpMyAdmin (⭐7.3k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 *   [PHP Queue (⭐665)](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
 *   [phpRedisAdmin (⭐3.1k)](https://github.com/ErikDubbelboer/phpRedisAdmin) - A simple web interface to manage [Redis](https://redis.io/) databases.
@@ -997,9 +999,9 @@ Libraries to help manage database schemas and migrations.
 
 *Infrastructure for providing PHP applications and services.*
 
-*   [appserver.io (⭐965)](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
+*   [appserver.io (⭐966)](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
 *   [php-pm (⭐6.6k)](https://github.com/php-pm/php-pm) - A process manager, supercharger and load balancer for PHP applications.
-*   [RoadRunner (⭐7.9k)](https://github.com/roadrunner-server/roadrunner) - High-performance PHP application server, load-balancer and process manager.
+*   [RoadRunner (⭐8k)](https://github.com/roadrunner-server/roadrunner) - High-performance PHP application server, load-balancer and process manager.
 
 # Resources
 

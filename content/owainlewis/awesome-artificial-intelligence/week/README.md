@@ -6,6 +6,13 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 [ [Daily](/content/owainlewis/awesome-artificial-intelligence/README.md) / Weekly / [Overview](/content/owainlewis/awesome-artificial-intelligence/readme/README.md) ]
 
+## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
+
+### Newsletters / Commerical Tools
+
+*   [Alpasignal.ai](https://alphasignal.ai/) AI newsletter for developers
+*   [Therundown.ai](https://www.therundown.ai/) Get the latest AI news, understand why it matters, and learn how to apply it in your work.
+
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
 ### Tools / Images
@@ -144,7 +151,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Code / Commerical Tools
 
-*   [ExplainX (⭐415)](https://github.com/explainX/explainx)- ExplainX is a fast, lightweight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
+*   [ExplainX (⭐423)](https://github.com/explainX/explainx)- ExplainX is a fast, lightweight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
 
 ## [Jul 06 - Jul 12, 2020](/content/2020/27/README.md)
 
@@ -187,7 +194,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Learning / Commerical Tools
 
-*   [Awesome Neural Art (⭐89)](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
+*   [Awesome Neural Art (⭐92)](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
 
 ## [Aug 12 - Aug 18, 2019](/content/2019/32/README.md)
 
@@ -232,8 +239,8 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 *   [Awesome Community Detection (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data
 *   [Awesome Decision Tree Papers (⭐2.4k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences
-*   [Awesome Gradient Boosting Papers (⭐998)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
-*   [Awesome Fraud Detection Papers (⭐1.6k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
+*   [Awesome Gradient Boosting Papers (⭐1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
+*   [Awesome Fraud Detection Papers (⭐1.7k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
 
 ## [Mar 11 - Mar 17, 2019](/content/2019/10/README.md)
 
@@ -318,7 +325,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 ### Code / Commerical Tools
 
-*   [FARGonautica (⭐112)](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
+*   [FARGonautica (⭐113)](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
 
 ## [Oct 09 - Oct 15, 2017](/content/2017/41/README.md)
 
@@ -436,7 +443,7 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 *   [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 *   [Machine Learning Mastery](http://machinelearningmastery.com/)
-*   [Awesome Machine Learning (⭐66k)](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
+*   [Awesome Machine Learning (⭐67k)](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 *   [FastML](http://fastml.com/)
 
 ### Organizations / Commerical Tools

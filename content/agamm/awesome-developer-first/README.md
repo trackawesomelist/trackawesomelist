@@ -2,9 +2,42 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.1K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.2K · 🏷️ Business
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
+
+## [Jan 21, 2025](/content/2025/01/21/README.md)
+
+### Infrastructure as Code
+
+*   [Terrateam](https://terrateam.io/) - GitOps-first open-source Infrastructure as Code automation for Terraform, OpenTofu, Terragrunt, CDKTF, and Pulumi. [![Terrateam](https://img.shields.io/github/stars/terrateamio/terrateam?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/terrateamio/terrateam)
+
+## [Jan 20, 2025](/content/2025/01/20/README.md)
+
+### IDE
+
+*   [GoCodeo](https://www.gocodeo.com/)- An AI coding & testing agent.
+
+## [Jan 19, 2025](/content/2025/01/19/README.md)
+
+### Backend-as-a-Service
+
+*   [Encore](https://encore.dev/) - Open-source TypeScript backend framework for robust type-safe applications. [![Encore](https://img.shields.io/github/stars/encoredev/encore?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/encoredev/encore) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
+
+### Deployment Hosting
+
+*   [Reflex](https://reflex.dev/) - Python framework to build and deploy
+    web apps (including frontend). [![Reflex](https://img.shields.io/github/stars/reflex-dev/reflex?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/reflex-dev/reflex)
+
+## [Jan 18, 2025](/content/2025/01/18/README.md)
+
+### Localization
+
+*   [Locize](https://locize.com) - The translation management system created by the creators of i18next. Work with writers in dev/stage env before hitting prod.
+
+### Misc
+
+*   [Propexo](https://www.propexo.com/) - Unified API to integrate with property management systems.
 
 ## [Dec 22, 2024](/content/2024/12/22/README.md)
 
@@ -621,7 +654,7 @@ A curated list of awesome developer-first tools products.
 
 ### Analytics
 
-*   *   [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, fast analytics tool.
+*   [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, fast analytics tool.
 
 ## [Nov 10, 2022](/content/2022/11/10/README.md)
 

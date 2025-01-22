@@ -149,6 +149,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 *   [Structure and Interpretation of Test Cases](https://vimeo.com/289852238) by **Kevlin Henney** \[01:04:23]
 *   [Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg) by **Sandro Mancuso** \[57:59]
 *   [TDD For Those Who Don't Need It](https://www.youtube.com/watch?v=a6oP24CSdUg) by **Chew Choon Keat** \[13:42]
+*   [TDD: Theme & Variations](https://www.youtube.com/watch?v=C5IH0ABmyc0) by **Kent Beck** \[57:29]
 
 #### Methodologies
 
@@ -164,6 +165,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 *   [It Is Not About Software Anymore](https://www.youtube.com/watch?v=X8iIRG9LA54) by **Mary Poppendieck** \[01:06:38]
 *   [7 minutes, 26 seconds, and the Fundamental Theorem of Agile Software Development](https://www.youtube.com/watch?v=WSes_PexXcA) by **JB Rainsberger** \[00:07:42]
 *   [Explaining Team Flow](https://www.youtube.com/watch?v=bhpQKA9XYcE) by **Michel Grootjans** \[14:30]
+*   [The Efficiency Paradox](https://www.youtube.com/watch?v=hGJpez7rvc0) by **Niklas Modig** \[18:48]
 
 #### Computer History
 

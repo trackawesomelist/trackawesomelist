@@ -2,9 +2,19 @@
 
 ⚡️Articles, Websites, Tools and Case Studies to implement performance budget to a website. (PR 's welcomed)
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pajaydev/awesome-web-performance-budget/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pajaydev/awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget) · ⭐ 76 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/pajaydev/awesome-web-performance-budget/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 pajaydev/awesome-web-performance-budget](https://github.com/pajaydev/awesome-web-performance-budget) · ⭐ 113 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/pajaydev/awesome-web-performance-budget/week/README.md) / [Overview](/content/pajaydev/awesome-web-performance-budget/readme/README.md) ]
+
+## [Jan 01, 2025](/content/2025/01/01/README.md)
+
+### Blogs
+
+*   [Web Performance Budget: How to Set up, Calculate, And Apply](https://uxify.com/blog/post/web-performance-budget-guide) - How to Set up budget, Calculate, And Apply
+
+### Videos
+
+*   [Revisiting Performance Budgets](https://www.youtube.com/watch?v=cnr3CJwpaps) - Revisiting Performance Budgets
 
 ## [Feb 19, 2022](/content/2022/02/19/README.md)
 
@@ -15,7 +25,7 @@
 ### Open source tools
 
 *   [Perfume.js](https://zizzamia.github.io/perfume/) - Tiny, web performance monitoring library that reports field data back to your favorite analytics tool.
-*   [Falco (⭐760)](https://github.com/theodo/falco) - Helps you monitor, analyze, and optimize your websites.
+*   [Falco (⭐768)](https://github.com/theodo/falco) - Helps you monitor, analyze, and optimize your websites.
 
 ### Case Studies
 
@@ -104,13 +114,13 @@
 
 ### Bundle Analyzers
 
-*   [Rollup Visualizer (⭐1k)](https://github.com/btd/rollup-plugin-visualizer) - Visualize and analyze your Rollup bundle to see which modules are taking up space.
+*   [Rollup Visualizer (⭐2k)](https://github.com/btd/rollup-plugin-visualizer) - Visualize and analyze your Rollup bundle to see which modules are taking up space.
 
 ## [Feb 01, 2020](/content/2020/02/01/README.md)
 
 ### Build Tools to set up performance budget
 
-*   [Size Limit (⭐5.5k)](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
+*   [Size Limit (⭐6.6k)](https://github.com/ai/size-limit) - Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.
 *   [Size Plugin (⭐1.7k)](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 
 ## [Jan 27, 2020](/content/2020/01/27/README.md)
@@ -118,7 +128,7 @@
 ### Bundle Analyzers
 
 *   [bundle-buddy](https://bundle-buddy.firebaseapp.com/) - A tool to help you find source code duplication across your JavaScript chunks/splits.
-*   [Parcel plugin Visualizer (⭐273)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
+*   [Parcel plugin Visualizer (⭐274)](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) - A plugin for the parcel bundler to visualise bundle contents.
 
 ## [Jan 20, 2020](/content/2020/01/20/README.md)
 
@@ -128,7 +138,7 @@
 
 ### Bundle Analyzers
 
-*   [CSS Analyzer (⭐671)](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
+*   [CSS Analyzer (⭐699)](https://github.com/macbre/analyze-css) - CSS selectors complexity and performance analyzer.
 
 ## [Jan 07, 2020](/content/2020/01/07/README.md)
 
@@ -176,13 +186,13 @@
 
 ### Build Tools to set up performance budget
 
-*   [Performance Budget Builder (⭐178)](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
+*   [Performance Budget Builder (⭐181)](https://github.com/GoogleChromeLabs/pr-bot) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
 *   [Progressive Web Metrics (⭐1.2k)](https://github.com/paulirish/pwmetrics) - Lay out your template types, set a size budget for each template type, then plug in the sizes for each asset category that will load in the template.
-*   [rollup-plugin-size-snapshot (⭐159)](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
+*   [rollup-plugin-size-snapshot (⭐164)](https://github.com/TrySound/rollup-plugin-size-snapshot) - CLI tool and lib to gather performance metrics via Lighthouse.
 
 ### Bundle Analyzers
 
-*   [lasso-analyzer (⭐3)](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
+*   [lasso-analyzer (⭐4)](https://github.com/ajay2507/lasso-analyzer) - Analyze and Visualise project bundles created by Lasso.
 
 ### Videos
 
@@ -209,13 +219,13 @@
 
 ### Build Tools to set up performance budget
 
-*   [Grunt-perfbudget (⭐861)](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
+*   [Grunt-perfbudget (⭐856)](https://github.com/tkadlec/grunt-perfbudget) - Grunt task for performance budgeting.
 *   [ImportCost - VS Extension](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - Extension to display inline in the VS code editor the size of the imported package.
 
 ### Bundle Analyzers
 
 *   [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
-*   [webpack-bundle-analyzer (⭐12k)](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
+*   [webpack-bundle-analyzer (⭐13k)](https://github.com/webpack-contrib/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap.
 *   [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
 
 ### Case Studies
@@ -234,7 +244,7 @@
 
 ### Build Tools to set up performance budget
 
-*   [Bundle Size (⭐4.4k)](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
+*   [Bundle Size (⭐4.5k)](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
 
 ### Videos
 

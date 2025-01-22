@@ -4,6 +4,30 @@
 
 [ Daily / [Weekly](/content/selvaklnc/topics/week/README.md) / [Overview](/content/selvaklnc/topics/readme/README.md) ]
 
+## [Jan 22, 2025](/content/2025/01/22/README.md)
+
+### List of articles and posts
+
+*   Master SEO with the Complete [SEO Growth Blueprint](https://www.linkedin.com/pulse/master-seo-complete-growth-blueprint-series-selvakumaran-krishnan-ikx1c) Series.
+*   The Importance of [Cryptographic Standards in Modern Security](https://www.linkedin.com/pulse/importance-cryptographic-standards-modern-security-krishnan-yfsgc).
+*   The Human Factor: [Building a Cyber-Aware Culture in Organizations](https://www.linkedin.com/pulse/human-factor-building-cyber-aware-culture-selvakumaran-krishnan-mbrzc)
+*   [Google algorithm updates](https://medium.com/@selvakumarankrishnan/google-algorithm-updates-a-comprehensive-study-of-how-google-algorithm-updates-shape-online-seo-b509b320bf0d) | A comprehensive study of how Google algorithm updates shape online SEO impacts
+*   [Social Engineering Hacks](https://www.linkedin.com/pulse/social-engineering-hacks-how-manipulation-techniques-your-krishnan-usnec): How Manipulation Techniques Threaten Your Security and How to Protect Yourself
+*   [Online magazines and their allure](https://medium.com/@selvakumarankrishnan/online-magazines-and-their-allure-embrace-the-digital-eleganceonline-magazines-and-their-allure-1054f786a227): Embrace the digital elegance
+*   [Brute Force Attacks](https://www.linkedin.com/pulse/brute-force-attacks-prevention-mitigation-selvakumaran-krishnan-5b5pc) | Prevention and Mitigation
+*   The art of [finding peace in aloneness](https://medium.com/@selvakumarankrishnan/the-art-of-finding-peace-in-aloneness-0a1f14bc3168).
+*   Exploring [Generative AI in Cybersecurity](https://www.linkedin.com/pulse/exploring-generative-ai-cybersecurity-new-chapter-krishnan-istmc): A New Chapter.
+*   The Ongoing Debate: [Online vs. Offline Businesses](https://medium.com/@selvakumarankrishnan/the-ongoing-debate-online-vs-offline-businesses-e63b46594960)
+
+### Responses
+
+*   [Museums](https://blog.u-s-history.com/2011/07/museums-of-richmond-virginia.html?commentPage=4) of Richmond Virginia
+*   American History through American Art at the [Metropolitan Museum of Art](https://blog.u-s-history.com/2012/03/image-credit-museum-of-art-if-youre-in.html?commentPage=2)
+*   [World Celebrates 50th Anniversary of Earth Day](https://blog.u-s-history.com/2020/04/world-celebrates-50th-anniversary-of.html?commentPage=2) - The History Behind The Holiday
+*   Florida History: [Everglades](https://blog.u-s-history.com/2020/04/florida-history-everglades.html?commentPage=2)
+*   [Oregon History and Westward Migration](https://blog.u-s-history.com/2020/05/oregon-history-and-westward-migration.html?commentPage=2) - The Beginnings
+*   Breaking the Bread: [A Brief History of Sourdough](https://blog.u-s-history.com/2020/05/breaking-bread-brief-history-of.html?commentPage=3)
+
 ## [Dec 25, 2024](/content/2024/12/25/README.md)
 
 ### List of public profiles of Selvakumaran Krishnan

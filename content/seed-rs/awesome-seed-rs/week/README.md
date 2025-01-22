@@ -2,9 +2,19 @@
 
 A curated list of awesome things related to Seed
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/seed-rs/awesome-seed-rs/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 seed-rs/awesome-seed-rs](https://github.com/seed-rs/awesome-seed-rs) · ⭐ 182 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/seed-rs/awesome-seed-rs/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 seed-rs/awesome-seed-rs](https://github.com/seed-rs/awesome-seed-rs) · ⭐ 218 · 🏷️ Front-End Development
 
 [ [Daily](/content/seed-rs/awesome-seed-rs/README.md) / Weekly / [Overview](/content/seed-rs/awesome-seed-rs/readme/README.md) ]
+
+## [Jan 13 - Jan 19, 2025](/content/2025/2/README.md)
+
+### Official Resources
+
+*   ~~Homepage~~
+
+### Projects Using Seed
+
+*   ~~seed-rs.org~~ - Seed's official website.
 
 ## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
 
@@ -16,7 +26,7 @@ A curated list of awesome things related to Seed
 
 ### Projects Using Seed
 
-*   [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses [`Seed`](https://seed-rs.org/), [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
+*   [Pslink](https://pslink.teilgedanken.de) - An URL-shortener page focused on use in publications ([demo](https://demo.pslink.teilgedanken.de/app/) (user, password: demo)).  Uses `Seed`, [`actix-web`](https://actix.rs/), and [`sqlx`](https://github.com/launchbadge/sqlx).
 
 ## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
 
@@ -40,15 +50,15 @@ A curated list of awesome things related to Seed
 
 ### Projects Using Seed
 
-*   [Typesync](https://typesync.rutrum.net) - Test your typing speed on song lyrics.  Uses [`Seed`](https://seed-rs.org/), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
+*   [Typesync](https://typesync.rutrum.net) - Test your typing speed on song lyrics.  Uses `Seed`, [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 
 ## [Jan 11 - Jan 17, 2021](/content/2021/2/README.md)
 
 ### Bundlers
 
-*   [Trunk (⭐2k)](https://github.com/thedodd/trunk) - WASM web application bundler for Rust.
+*   [Trunk (⭐3.6k)](https://github.com/thedodd/trunk) - WASM web application bundler for Rust.
 *   [Web Bundler (⭐11)](https://github.com/panoptix-za/web-bundler) - Bundles a Seed SPA for publishing.
-*   [Seeder (⭐44)](https://github.com/MartinKavik/seeder) - Set up Seed app and start dev server by running one command.
+*   [Seeder (⭐43)](https://github.com/MartinKavik/seeder) - Set up Seed app and start dev server by running one command.
 
 ### Libraries
 
@@ -74,7 +84,7 @@ A curated list of awesome things related to Seed
 
 ### Projects Using Seed
 
-*   [Music composer (⭐5)](https://github.com/ethanboxx/planters-rdconf-hackathon-project) - A basic music composition app.
+*   [Music composer (⭐6)](https://github.com/ethanboxx/planters-rdconf-hackathon-project) - A basic music composition app.
 
 ## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
 
@@ -121,7 +131,7 @@ A curated list of awesome things related to Seed
 
 ### Quickstarts
 
-*   [Quickstart with Webpack (⭐106)](https://github.com/seed-rs/seed-quickstart-webpack) - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/), Typescript.
+*   [Quickstart with Webpack (⭐112)](https://github.com/seed-rs/seed-quickstart-webpack) - Main features: Auto-reload, Prerendering, Minification, [TailwindCSS](https://tailwindcss.com/), Typescript.
 
 ## [Jan 13 - Jan 19, 2020](/content/2020/2/README.md)
 
@@ -133,27 +143,23 @@ A curated list of awesome things related to Seed
 
 ### Official Resources
 
-*   [GitHub repo (⭐3.5k)](https://github.com/seed-rs/seed)
+*   [GitHub repo (⭐3.8k)](https://github.com/seed-rs/seed)
 
 ### Quickstarts
 
-*   [Default quickstart (⭐94)](https://github.com/seed-rs/seed-quickstart) - Contains only Rust libraries.
+*   [Default quickstart (⭐101)](https://github.com/seed-rs/seed-quickstart) - Contains only Rust libraries.
 
 ### Examples
 
-*   [RealWorld example (⭐116)](https://github.com/seed-rs/seed-rs-realworld) - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
-*   [Official examples (⭐3.5k)](https://github.com/seed-rs/seed/tree/master/examples) - Smaller examples included in official repo.
-*   [ERWA mytodo (⭐9)](https://github.com/seed-rs/erwa_mytodo) - Rust full-stack example. Diesel, Rocket, Seed.
-
-### Projects Using Seed
-
-*   [seed-rs.org (⭐14)](https://github.com/seed-rs/seed-rs.org) - Seed's official website.
+*   [RealWorld example (⭐124)](https://github.com/seed-rs/seed-rs-realworld) - "The mother of all demo apps" — Exemplary fullstack [Medium.com](https://medium.com/) clone.
+*   [Official examples (⭐3.8k)](https://github.com/seed-rs/seed/tree/master/examples) - Smaller examples included in official repo.
+*   [ERWA mytodo (⭐10)](https://github.com/seed-rs/erwa_mytodo) - Rust full-stack example. Diesel, Rocket, Seed.
 
 ## [Oct 14 - Oct 20, 2019](/content/2019/41/README.md)
 
 ### Projects Using Seed
 
-*   [benxu.dev/blog (⭐0)](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on [`Seed`](https://seed-rs.org/), [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
+*   [benxu.dev/blog (⭐0)](https://github.com/AlterionX/benxu-dev) - A relatively simple open source personal blog. Built on `Seed`, [`maud`](https://maud.lambda.xyz), [`Rocket`](https://rocket.rs), and [`Diesel`](https://diesel.rs).
 
 ## [Sep 23 - Sep 29, 2019](/content/2019/38/README.md)
 
@@ -166,10 +172,6 @@ A curated list of awesome things related to Seed
 *   [Kavik.cz (⭐5)](https://github.com/MartinKavik/kavik.cz) - Open-source personal website.
 
 ## [Jul 29 - Aug 04, 2019](/content/2019/30/README.md)
-
-### Official Resources
-
-*   [Homepage](https://seed-rs.org/)
 
 ### Projects Using Seed
 
