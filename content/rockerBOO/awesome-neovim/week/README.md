@@ -15,6 +15,7 @@ Collections of awesome neovim plugins.
 ### Utility / Diagnostics
 
 *   [mluders/comfy-line-numbers.nvim (⭐15)](https://github.com/mluders/comfy-line-numbers.nvim) - Limits relative numbers to only show left-hand digits on the keyboard.
+*   [MatanyaP/keyboard-guard.nvim](https://github.com/matandd/keyboard-guard.nvim) - Prevents unintended actions when typing in non-English keyboard layouts.
 
 ## [Jan 20 - Jan 26, 2025](/content/2025/3/README.md)
 

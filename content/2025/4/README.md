@@ -16,7 +16,7 @@
 
 ### Templates / Godot 4
 
-*   [Takin Godot Template (⭐102)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+*   [Takin Godot Template (⭐103)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
 ## [3. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
@@ -450,6 +450,10 @@
 *   [tucan (⭐202)](https://github.com/pnezis/tucan) - An Elixir plotting library on top of VegaLite.
 *   [vega\_lite (⭐189)](https://github.com/livebook-dev/vega_lite) - Elixir bindings for Vega-Lite.
 
+### HTTP
+
+*   [finch (⭐1.3k)](https://github.com/sneako/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
+
 ## [36. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Authentication and OAuth
@@ -626,6 +630,10 @@
 
 ## [38. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
+### Resources / Podcasts
+
+*   [Django Brew](https://djangobrew.com/) - A fun, caffeine-powered podcast about the Django web framework by Adam Hill and Sangeeta Jadoonanan!
+
 ### Projects / Boilerplate
 
 *   [Blaze.horse (⭐42)](https://github.com/piepworks/blaze-starter) - A Django starter kit with reins and saddle included!
@@ -765,7 +773,7 @@
 
 ### Logging
 
-*   [AutoLoggerMessage (⭐33)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐34)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ### Tools
 
@@ -1206,6 +1214,7 @@
 ### Utility / Diagnostics
 
 *   [mluders/comfy-line-numbers.nvim (⭐15)](https://github.com/mluders/comfy-line-numbers.nvim) - Limits relative numbers to only show left-hand digits on the keyboard.
+*   [MatanyaP/keyboard-guard.nvim](https://github.com/matandd/keyboard-guard.nvim) - Prevents unintended actions when typing in non-English keyboard layouts.
 
 ## [71. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 

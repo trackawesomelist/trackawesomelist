@@ -8,6 +8,10 @@ A curated list of awesome things related to Django
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
+### Resources / Podcasts
+
+*   [Django Brew](https://djangobrew.com/) - A fun, caffeine-powered podcast about the Django web framework by Adam Hill and Sangeeta Jadoonanan!
+
 ### Projects / Boilerplate
 
 *   [Blaze.horse (⭐42)](https://github.com/piepworks/blaze-starter) - A Django starter kit with reins and saddle included!

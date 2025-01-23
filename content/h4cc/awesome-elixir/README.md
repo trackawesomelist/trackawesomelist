@@ -6,6 +6,12 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ Daily / [Weekly](/content/h4cc/awesome-elixir/week/README.md) / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Jan 23, 2025](/content/2025/01/23/README.md)
+
+### HTTP
+
+*   [finch (⭐1.3k)](https://github.com/sneako/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
+
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
 ### Applications
@@ -910,12 +916,6 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 ### Testing
 
 *   [mox (⭐1.3k)](https://github.com/dashbitco/mox) - Mocks and explicit contracts for Elixir.
-
-## [Sep 26, 2020](/content/2020/09/26/README.md)
-
-### HTTP
-
-*   [finch (⭐0)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
 ## [Sep 25, 2020](/content/2020/09/25/README.md)
 

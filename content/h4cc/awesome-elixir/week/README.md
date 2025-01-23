@@ -22,6 +22,10 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 *   [tucan (⭐202)](https://github.com/pnezis/tucan) - An Elixir plotting library on top of VegaLite.
 *   [vega\_lite (⭐189)](https://github.com/livebook-dev/vega_lite) - Elixir bindings for Vega-Lite.
 
+### HTTP
+
+*   [finch (⭐1.3k)](https://github.com/sneako/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
+
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
 ### Framework Components
@@ -865,10 +869,6 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 *   [Nova Elixir (⭐9)](https://github.com/stollcri/elixir.novaextension) - Syntax highlighting and code completion for Elixir files (.ex, .exs, .eex) in Nova.
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
-
-### HTTP
-
-*   [finch (⭐0)](https://github.com/keathley/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
 ### YAML
 

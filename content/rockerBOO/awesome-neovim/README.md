@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 23, 2025](/content/2025/01/23/README.md)
+
+### Utility / Diagnostics
+
+*   [MatanyaP/keyboard-guard.nvim](https://github.com/matandd/keyboard-guard.nvim) - Prevents unintended actions when typing in non-English keyboard layouts.
+
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
 ### Utility / Diagnostics
