@@ -49,9 +49,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [archives (⭐128)](https://github.com/mholt/archives) - a cross-platform, multi-format Go library for working with archives and compression formats with a unified API and as virtual file systems compatible with io/fs.
 
+### Networking
+
+*   [GoProxy (⭐6.1k)](https://github.com/elazarl/goproxy) - A library to create a customized HTTP/HTTPS proxy server using Go.
+
 ### HTTP Clients
 
 *   [axios4go (⭐11)](https://github.com/rezmoss/axios4go) - A Go HTTP client library inspired by Axios, providing a simple and intuitive API for making HTTP requests.
+
+### Resource Embedding
+
+*   [embed](https://pkg.go.dev/embed) - Package embed provides access to files embedded in the running Go program.
 
 ### Server Applications
 
@@ -4093,14 +4101,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### Resource Embedding
 
 *   [debme (⭐33)](https://github.com/leaanthony/debme) - Create an `embed.FS` from an existing `embed.FS` subdirectory.
-*   [fileb0x (⭐635)](https://github.com/UnnoTed/fileb0x) - Simple tool to embed files in go with focus on "customization" and ease to use.
-*   [go-resources (⭐177)](https://github.com/omeid/go-resources) - Unfancy resources embedding with Go.
-*   [go.rice (⭐2.4k)](https://github.com/GeertJohan/go.rice) - go.rice is a Go package that makes working with resources such as HTML, JS, CSS, images, and templates very easy.
-*   [mule (⭐15)](https://github.com/wlbr/mule) - Embed external resources like images, movies ... into Go source code to create single file binaries using `go generate`. Focused on simplicity.
-*   [packr (⭐3.4k)](https://github.com/gobuffalo/packr) - The simple and easy way to embed static files into Go binaries.
 *   [rebed (⭐29)](https://github.com/soypat/rebed) - Recreate folder structures and files from Go 1.16's `embed.FS` type
-*   [statik (⭐3.8k)](https://github.com/rakyll/statik) - Embeds static files into a Go executable.
-*   [templify (⭐30)](https://github.com/wlbr/templify) - Embed external template files into Go code to create single file binaries.
 *   [vfsgen (⭐984)](https://github.com/shurcooL/vfsgen) - Generates a vfsdata.go file that statically implements the given virtual filesystem.
 
 ### Science and Data Analysis

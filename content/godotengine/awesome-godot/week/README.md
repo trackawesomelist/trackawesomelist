@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ [Daily](/content/godotengine/awesome-godot/README.md) / Weekly / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
+
+### Templates / Godot 4
+
+*   [Takin Godot Template (⭐102)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+
 ## [Jan 13 - Jan 19, 2025](/content/2025/2/README.md)
 
 ### 3D / Godot 4
