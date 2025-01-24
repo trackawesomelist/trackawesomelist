@@ -6,7 +6,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
-## [Jan 23, 2025](/content/2025/01/23/README.md)
+## [Jan 24, 2025](/content/2025/01/24/README.md)
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 
@@ -655,7 +655,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 ### Hardware / Motor Controllers
 
 *   [grblShield (⭐132)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
-*   [TinyG (⭐909)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+*   [TinyG (⭐910)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 *   [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 
 ### Hardware / Accessories and Adapters

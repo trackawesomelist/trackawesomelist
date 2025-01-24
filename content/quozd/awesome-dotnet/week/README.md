@@ -18,7 +18,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Logging
 
-*   [AutoLoggerMessage (⭐34)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐35)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ### Tools
 
@@ -974,7 +974,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Testing
 
-*   [ArchUnitNET (⭐972)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
+*   [ArchUnitNET (⭐973)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
 *   [Snapshooter (⭐307)](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
 
 ### Tools

@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
-## [Jan 23, 2025](/content/2025/01/23/README.md)
+## [Jan 24, 2025](/content/2025/01/24/README.md)
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

@@ -57,7 +57,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 ### Motor Controllers
 
 *   [grblShield (⭐132)](https://github.com/synthetos/grblShield) - All the stepper motor control hardware needed to turn an [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
-*   [TinyG (⭐909)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
+*   [TinyG (⭐910)](https://github.com/synthetos/TinyG) - More featureful and robust 6-axis G-code-based motion control hardware. ([adafruit](https://www.adafruit.com/product/1749))
 *   [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - Grbl-compatible stepper motor control shield for Arduino, similar to the grblShield.
 *   [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC) - Raspberry Pi add-on board w/ stepper controllers and a microcontroller running grbl. Interfaces with the Pi's serial pins.
 *   [EBB Driver Board](https://shop.evilmadscientist.com/productsmenu/188) - USB-based dual stepper motor controller board, originally designed for the EggBot.

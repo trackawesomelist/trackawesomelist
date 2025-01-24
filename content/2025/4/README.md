@@ -16,7 +16,7 @@
 
 ### Templates / Godot 4
 
-*   [Takin Godot Template (⭐103)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+*   [Takin Godot Template (⭐105)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
 ## [3. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
@@ -201,6 +201,10 @@
 
 ## [17. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
+### Software Development
+
+*   [5 WTFs in 6 LOCs](https://brightonruby.com/2016/five-wtfs-in-six-lines-of-code-dot-wingrove/) by **Dorothy Wingrove** (Brighton Ruby 2016) \[05:11]
+
 ### Test-Driven Development
 
 *   [TDD: Theme & Variations](https://www.youtube.com/watch?v=C5IH0ABmyc0) by **Kent Beck** \[57:29]
@@ -208,6 +212,7 @@
 ### Methodologies
 
 *   [The Efficiency Paradox](https://www.youtube.com/watch?v=hGJpez7rvc0) by **Niklas Modig** \[18:48]
+*   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** \[47:53]
 
 ## [18. Awesome Selenium](/content/christian-bromann/awesome-selenium/week/README.md)
 
@@ -773,7 +778,7 @@
 
 ### Logging
 
-*   [AutoLoggerMessage (⭐34)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐35)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ### Tools
 

@@ -6,7 +6,7 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
-## [Jan 23, 2025](/content/2025/01/23/README.md)
+## [Jan 24, 2025](/content/2025/01/24/README.md)
 
 ### Utility / Diagnostics
 

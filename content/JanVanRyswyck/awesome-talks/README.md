@@ -6,6 +6,16 @@ Awesome online talks and screencasts
 
 [ Daily / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
 
+## [Jan 24, 2025](/content/2025/01/24/README.md)
+
+### Software Development
+
+*   [5 WTFs in 6 LOCs](https://brightonruby.com/2016/five-wtfs-in-six-lines-of-code-dot-wingrove/) by **Dorothy Wingrove** (Brighton Ruby 2016) \[05:11]
+
+### Methodologies
+
+*   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** \[47:53]
+
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
 ### Test-Driven Development
@@ -20,7 +30,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** \[01:02:41]
+*   [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** (DevGAMM 2019) \[01:02:41]
 
 ## [Nov 01, 2023](/content/2023/11/01/README.md)
 
@@ -32,14 +42,14 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [The Worst Programming Language Ever](https://www.youtube.com/watch?v=vcFBwt1nu2U) by **Mark Rendle** \[1:00:40]
+*   [The Worst Programming Language Ever](https://www.youtube.com/watch?v=vcFBwt1nu2U) by **Mark Rendle** (NDC Oslo 2021) \[1:00:40]
 
 ## [Jul 06, 2023](/content/2023/07/06/README.md)
 
 ### Software Development
 
-*   [Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=qC_ioJQpv4E) by **Mark Rendle** \[55:34]
-*   [Email vs Capitalism, or, Why We Can't Have Nice Things](https://www.youtube.com/watch?v=mrGfahzt-4Q) by **Dylan Beattie** \[56:45]
+*   [Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=qC_ioJQpv4E) by **Mark Rendle** (NDC Copenhagen 2022) \[55:34]
+*   [Email vs Capitalism, or, Why We Can't Have Nice Things](https://www.youtube.com/watch?v=mrGfahzt-4Q) by **Dylan Beattie** (NDC Oslo 2023) \[56:45]
 
 ### Software Design
 
@@ -49,7 +59,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [Inventing on Principle](https://vimeo.com/38272912) by **Bret Victor** \[54:20]
+*   [Inventing on Principle](https://vimeo.com/38272912) by **Bret Victor** (CUSEC 2012) \[54:20]
 
 ## [Oct 19, 2021](/content/2021/10/19/README.md)
 
@@ -73,7 +83,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=CnquVcxvAl0) by **Paolo Perrotta** \[36:35]
+*   [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=CnquVcxvAl0) by **Paolo Perrotta** (Barcelona Ruby Conference 2020) \[36:35]
 
 ## [Dec 19, 2020](/content/2020/12/19/README.md)
 
@@ -91,7 +101,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [Feature Branching Considered Evil](https://www.youtube.com/watch?v=h7LeD7VevyI) by **Thierry de Pauw** \[49:38]
+*   [Feature Branching Considered Evil](https://www.youtube.com/watch?v=h7LeD7VevyI) by **Thierry de Pauw** (DevTernity 2019) \[49:38]
 
 ## [Nov 17, 2020](/content/2020/11/17/README.md)
 
@@ -110,7 +120,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** \[1:07:57]
+*   [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** (Software Art Thou 2018) \[1:07:57]
 
 ## [Apr 25, 2020](/content/2020/04/25/README.md)
 
@@ -148,7 +158,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** \[50:42]
+*   [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** (Pacific Northwest Scala 2013) \[50:42]
 
 ### Test-Driven Development
 
@@ -194,7 +204,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** \[55:46]
+*   [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** (NDC Oslo 2017) \[55:46]
 
 ### Computer History
 
@@ -228,7 +238,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [Effective Programs - 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU) by **Rich Hickey** \[1:14:51]
+*   [Effective Programs - 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU) by **Rich Hickey** (Clojure/Conf 2017) \[1:14:51]
 
 ## [Nov 03, 2017](/content/2017/11/03/README.md)
 
@@ -258,7 +268,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** \[58:53]
+*   [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** (GOTO Copenhagen 2012) \[58:53]
 
 ## [Mar 18, 2017](/content/2017/03/18/README.md)
 
@@ -317,12 +327,6 @@ Awesome online talks and screencasts
 
 *   [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle) by **Philip Wadler** \[42:17]
 
-## [Oct 21, 2016](/content/2016/10/21/README.md)
-
-### Software Development
-
-*   [5 WTFs in 6 LOCs](https://vimeo.com/181409251) by **Dorothy Wingrove** \[05:11]
-
 ## [Sep 11, 2016](/content/2016/09/11/README.md)
 
 ### Functional Programming
@@ -333,7 +337,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) by **Thomas Figg** \[1:06:43]
+*   [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) by **Thomas Figg** (EMF 2012) \[1:06:43]
 
 ### Object-Oriented Programming
 
@@ -361,7 +365,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** \[01:02:52]
+*   [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** (NDC 2014) \[01:02:52]
 
 ### Web Development
 
@@ -371,7 +375,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** \[23:07]
+*   [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** (Rocky Mountain Ruby 2015) \[23:07]
 
 ## [Dec 06, 2015](/content/2015/12/06/README.md)
 
@@ -383,7 +387,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** \[36:00]
+*   [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** (Strange Loop 2015) \[36:00]
 
 ## [Nov 21, 2015](/content/2015/11/21/README.md)
 
@@ -431,7 +435,7 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** \[1:10:14]
+*   [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** (Google 2007) \[1:10:14]
 
 ## [Jun 10, 2015](/content/2015/06/10/README.md)
 
@@ -533,13 +537,13 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** \[52:43]
+*   [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** (Clojure/Conf 2013) \[52:43]
 
 ## [Oct 27, 2014](/content/2014/10/27/README.md)
 
 ### Software Development
 
-*   [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4\&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** \[45:49]
+*   [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4\&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** (Strange Loop 2014) \[45:49]
 
 ### Methodologies
 
@@ -549,15 +553,15 @@ Awesome online talks and screencasts
 
 ### Software Development
 
-*   [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** \[1:04:34]
-*   [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** \[32:55]
-*   [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** \[39:32]
-*   [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger** \[33:46]
-*   [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by **James Mickens** \[27:35]
-*   [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** \[1:10:04]
-*   [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** \[1:01:26]
-*   [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash** \[1:10:54]
-*   [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** \[53:30]
+*   [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** (OOPSLA 1997) \[1:04:34]
+*   [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** (Dropbox's DBX conference 2013) \[32:55]
+*   [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** (MIT Media Lab 2013) \[39:32]
+*   [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger** (Strange Loop 2013) \[33:46]
+*   [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by **James Mickens** (Monitorama PDX 2014) \[27:35]
+*   [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** (JVM Languages Summit 2009) \[1:10:04]
+*   [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** (Strange Loop 2011) \[1:01:26]
+*   [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash** (Berkman Klein Center 2013) \[1:10:54]
+*   [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** (ACM OOPSLA 1998) \[53:30]
 
 ### Object-Oriented Programming
 

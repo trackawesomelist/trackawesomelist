@@ -151,7 +151,7 @@ See [Vivraan/godot-lang-support (⭐331)](https://github.com/Vivraan/godot-lang-
 
 *   [Godot XR Template (⭐147)](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
 *   [Maaack's Game Template (⭐584)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
-*   [Takin Godot Template (⭐103)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+*   [Takin Godot Template (⭐105)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
 #### Godot 3
 

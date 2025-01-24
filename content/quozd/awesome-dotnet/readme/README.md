@@ -798,7 +798,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [elmah.io](https://elmah.io) - Cloud logging for .NET web applications using ELMAH. Find bugs before you go live. Powerful search, API, integration with Slack, GitHub, Visual Studio and more. **\[[Free for OSS](https://elmah.io/sponsorship/opensource)]** **\[$]**
 *   [BugSnag](https://docs.bugsnag.com/platforms/dotnet/) - Logs errors. Includes useful diagnostic info like stack trace, session, release, etc. Has a free tier. **\[Free for OSS]\[$]**
 *   [ZeroLog (⭐413)](https://github.com/Abc-Arbitrage/ZeroLog) - ZeroLog is a zero-allocation .NET logging library. It provides basic logging capabilities to be used in latency-sensitive applications, where garbage collections are undesirable.
-*   [AutoLoggerMessage (⭐34)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐35)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ## Machine Learning and Data Science
 
@@ -1201,7 +1201,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Testing
 
-*   [ArchUnitNET (⭐972)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
+*   [ArchUnitNET (⭐973)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
 *   [NetArchTest (⭐1.4k)](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net Standard that can enforce architectural rules in unit tests.
 *   [AutoFixture (⭐3.4k)](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
 *   [BDTest (⭐82)](https://github.com/thomhurst/BDTest/wiki) - A behaviour driven testing and reporting framework!
