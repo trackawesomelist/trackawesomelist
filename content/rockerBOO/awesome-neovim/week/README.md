@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
+### Color / Diagnostics
+
+*   [xzbdmw/colorful-menu.nvim (⭐187)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [m15a/nvim-srcerite (⭐4)](https://github.com/m15a/nvim-srcerite) - A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
@@ -15,7 +19,6 @@ Collections of awesome neovim plugins.
 ### Utility / Diagnostics
 
 *   [mluders/comfy-line-numbers.nvim (⭐15)](https://github.com/mluders/comfy-line-numbers.nvim) - Limits relative numbers to only show left-hand digits on the keyboard.
-*   [MatanyaP/keyboard-guard.nvim](https://github.com/matandd/keyboard-guard.nvim) - Prevents unintended actions when typing in non-English keyboard layouts.
 
 ## [Jan 20 - Jan 26, 2025](/content/2025/3/README.md)
 

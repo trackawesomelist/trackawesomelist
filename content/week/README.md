@@ -392,10 +392,633 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Conflake](https://ratson.github.io/conflake/) - A batteries included, autoload files, convention-based configuration framework for `flake.nix`.
 
-#### [31. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [31. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+
+##### Other plugins
+
+*   [Capacitor voice recorder (⭐82)](https://github.com/tchvu3/capacitor-voice-recorder) - A plugin for simple voice recording.
+
+#### [32. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications
+
+*   [Mega (⭐190)](https://github.com/web3infra-foundation/mega) - A monorepo & monolithic codebase management system that supports Git, also is an unofficial open source implementation of Google Piper.
+
+##### Applications / Database
+
+*   [apecloud/ape-dts (⭐296)](https://github.com/apecloud/ape-dts) - Data Transfer Suite. Provides data replication between MySQL, PostgreSQL, Redis, MongoDB, Kafka, ClickHouse, and more.
+*   [KiteSQL (⭐588)](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust
+*   [Limbo (⭐8.8k)](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
+
+##### Applications / Finance
+
+*   [e257-fi/tackler-ng (⭐61)](https://github.com/e257-fi/tackler-ng) \[[tackler](https://crates.io/crates/tackler)] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting [![CI Badge](https://github.com/e257-fi/tackler-ng/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/e257-fi/tackler-ng/blob/main/.github/workflows/ci.yml)
+*   [tarkah/tickrs (⭐1.3k)](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal
+
+##### Applications / Operating systems
+
+*   [adamperkowski/highlightos (⭐54)](https://github.com/adamperkowski/highlightos) - x86\_64 OS kernel written in Rust & Assembly.
+
+##### Applications / Productivity
+
+*   [aichat (⭐5.2k)](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+
+##### Applications / System tools
+
+*   [nwiizo/tfocus (⭐51)](https://github.com/nwiizo/tfocus) - Interactive tool for selecting and executing Terraform plan/apply operations
+
+##### Applications / Utilities
+
+*   [television (⭐1.9k)](https://github.com/alexpasmantier/television) - A blazing fast general purpose fuzzy finder TUI ![GitHub branch check runs](https://img.shields.io/github/check-runs/alexpasmantier/television/main)
+
+##### Applications / Vulnerability Research
+
+*   [0xdea/rhabdomancer (⭐15)](https://github.com/0xdea/rhabdomancer) \[[rhabdomancer](https://crates.io/crates/rhabdomancer)] - Vulnerability research assistant that locates all calls to potentially insecure API functions in a binary file [![build](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml)
+
+##### Applications / Web Servers
+
+*   [g3proxy (⭐507)](https://github.com/bytedance/g3) - Forward proxy server, support Proxy Chaining, Protocol Inspection, MITM Interception, ICAP Adaptation, Transparent Proxy [![CodeCoverage](https://github.com/bytedance/g3/actions/workflows/codecov.yml/badge.svg)](https://github.com/bytedance/g3/actions)
+*   [plabayo/rama (⭐250)](https://github.com/plabayo/rama) - A modular service framework to move and transform your network packets, used to build web clients, servers and — above all — proxies
+*   [vproxy/0x676e67 (⭐133)](https://github.com/0x676e67/vproxy) - An fast asynchronous Rust HTTP/Socks5 Proxy
+
+##### Development tools / Profiling
+
+*   [g3bench (⭐507)](https://github.com/bytedance/g3) - A benchmark tool that supports HTTP 1.x, HTTP 2, HTTP 3, TLS Handshake, DNS and Cloudflare Keyless
+
+##### Development tools / Static analysis
+
+*   [verus-lang/verus (⭐1.3k)](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code
+
+##### Libraries / Artificial Intelligence
+
+*   [blackportal-ai/delta (⭐348)](https://github.com/blackportal-ai/delta) - Δ An Open-Source Machine Learning Framework in Rust. ![crates.io](https://img.shields.io/crates/v/deltaml.svg) ![build](https://img.shields.io/github/actions/workflow/status/blackportal-ai/delta/core.yml?branch=master)
+*   [blackportal-ai/nebula (⭐55)](https://github.com/blackportal-ai/nebula) - A Package Manager for Machine Learning Datasets and Models. ![build](https://img.shields.io/github/actions/workflow/status/blackportal-ai/nebula/core.yml?branch=master)
+
+##### Libraries / Asynchronous
+
+*   [dagrs (⭐332)](https://github.com/dagrs-dev/dagrs) - A high-performance asynchronous task programming framework, which follows the concept of Flow based Programming.
+
+##### Libraries / Database
+
+*   [VennDB](https://venndb.rs/) \[[venndb (⭐97)](https://github.com/plabayo/venndb)] - An append-only in-memory database in Rust for rows queried using bit (flag) columns.
+
+##### Libraries / Finance
+
+*   [stochastic-rs (⭐36)](https://github.com/rust-dd/stochastic-rs) \[[stochastic-rs](https://crates.io/crates/stochastic-rs)] - High-performance data generation library for stochastic process with quant finance tools. ![GitHub Workflow Status](https://github.com/rust-dd/stochastic-rs/actions/workflows/rust.yml/badge.svg)
+
+##### Libraries / Game development
+
+*   Minecraft
+    *   [bedrock-crustaceans/bedrock-rs (⭐104)](https://github.com/bedrock-crustaceans/bedrock-rs) - Universal toolkit for Minecraft Bedrock Edition development in Rust. [![GitHub stars](https://img.shields.io/github/stars/bedrock-crustaceans/bedrock-rs)](https://github.com/bedrock-crustaceans/bedrock-rs) [![CI](https://github.com/bedrock-crustaceans/bedrock-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/bedrock-crustaceans/bedrock-rs/actions/workflows/ci.yml)
+    *   [Pumpkin (⭐3.8k)](https://github.com/pumpkin-mc/pumpkin) - A high-performance Minecraft server Software fully written in Rust
+
+##### Libraries / GUI
+
+*   [Ribir (⭐967)](https://github.com/RibirX/Ribir) - Ribir is a Rust GUI framework that helps you build beautiful and native multi-platform applications from a single codebase.
+
+##### Libraries / Task scheduling
+
+*   [inboxsphere/persistent-scheduler (⭐7)](https://github.com/inboxsphere/persistent-scheduler) \[[persistent-scheduler](https://crates.io/crates/persistent-scheduler)] - A high-performance task scheduling system built with Tokio, offering task persistence, repeatable tasks, and Cron-based scheduling for reliable time-based operations.
+
+#### [33. Awesome Elm](/content/sporto/awesome-elm/README.md)
+
+##### Inspired by Elm / Games
+
+*   [Tyrian](https://tyrian.indigoengine.io/) - Tyrian is an Elm-inspired frontend framework for Scala.js.
+
+#### [34. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+##### Frameworks
+
+*   [Siv3D (⭐1k)](https://github.com/Siv3D/OpenSiv3D) - Siv3D (OpenSiv3D) is a C++20 framework for creative coding (2D/3D games, media art, visualizers, and simulators). \[MIT] [website](https://siv3d.github.io/)
+
+##### Debug
+
+*   [Hippomocks (⭐196)](https://github.com/dascandy/hippomocks) - Single-header mocking framework. \[LGPL-2.1]
+*   [IceCream-Cpp (⭐598)](https://github.com/renatoGarcia/icecream-cpp) - Never use cout/printf to debug again  \[MIT]
+
+##### Math
+
+*   [MATIO (⭐356)](https://github.com/tbeu/matio) -  MATLAB MAT File I/O Library. \[BSD-2-Clause] [website](https://sourceforge.net/projects/matio/)
+
+##### Scripting
+
+*   [nanobind (⭐2.5k)](https://github.com/wjakob/nanobind) - tiny and efficient C++/Python bindings. \[BSD-3-Clause]
+
+##### Serialization
+
+*   [BitSerializer (⭐12)](https://github.com/PavelKisliak/BitSerializer) - Multi-format serialization library (JSON, XML, YAML, CSV, MsgPack) \[MIT]
+
+##### Yaml
+
+*   [fkYAML (⭐84)](https://github.com/fktn-k/fkYAML) - A C++ header-only YAML library. \[MIT]
+*   [LibCYAML (⭐269)](https://github.com/tlsa/libcyaml) - C library for reading and writing YAML. \[ISC]
+*   [libfyaml (⭐258)](https://github.com/pantoniou/libfyaml) - A fancy 1.2 YAML and JSON parser/writer. \[MIT]
+
+##### Miscellaneous
+
+*   [CPP-JWT (⭐402)](https://github.com/arun11299/cpp-jwt) - JSON Web Token library for C++. \[MIT]
+*   [MPark.Variant (⭐680)](https://github.com/mpark/variant) - C++17 `std::variant` for C++11/14/17. \[BSL-1.0]
+*   [SafetyHook (⭐428)](https://github.com/cursey/safetyhook) - C++23 procedure hooking library. \[BSL-1.0]
+*   [xxHash (⭐9.4k)](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm. \[BSD-2-Clause] [website](https://xxhash.com/)
+*   [xxhash\_cpp (⭐172)](https://github.com/RedSpah/xxhash_cpp) - Port of the xxhash library to C++17. \[BSD-2-Clause]
+
+##### Compiler
+
+*   [AMD C++ Compiler](https://www.amd.com/en/developer/aocc.html) - Developed by AMD.
+
+#### [35. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+##### Other DB wrappers
+
+*   [cl-bunny (⭐17)](https://github.com/cl-rabbit/cl-bunny) -  Common Lisp RabbitMQ client based on IOLib. MIT.
+
+##### Web Development
+
+*   NEW [Web Apps in Lisp: Know-how](https://web-apps-in-lisp.github.io/) - tutorial and reference material to build interactive web apps in Common Lisp. CC-BY.
+
+##### Community
+
+*   [vend (⭐25)](https://github.com/fosskers/vend) - Just vendor your dependencies! MPL-2.0.
+
+##### Readline, ncurses and other graphical helpers / Third-party APIs
+
+*   [text-draw (⭐14)](https://github.com/Shinmera/text-draw) - Toolkit to draw graphics using pure Unicode text only: boxes, backgrounds, checkboxes and radio buttons, lines, arrows, tables, trees… zlib.
+
+##### Caching (serialization) / Third-party APIs
+
+*   [cl-store (⭐55)](https://github.com/skypher/cl-store) - a portable serialization package which gives you the ability to store all common-lisp data types into streams. MIT.
+    *   Call `store object "file.bin")` to store a (possibly compound) lisp object to disk, and `restore` to get it back.
+*   [conspack (⭐91)](https://github.com/conspack/cl-conspack) - binary serialization.
+*   🚀 [cl-binary-store (⭐29)](https://github.com/ajberkley/cl-binary-store) -  A fast Common Lisp binary serializer/deserializer. BSD\_3Clause. See [reddit announce](https://www.reddit.com/r/Common_Lisp/comments/1hz5879/new_binary_serializationdeserialization_library/) (2025).
+    *   "A super fast and customizable serializer/deserializer of Common Lisp objects to/from a very compact binary format. Equality of objects, circular references, and the full Common Lisp type system are supported. Specialized arrays (on SBCL) are stored/restore at lightning speed."
+
+##### Compression / decompression / Third-party APIs
+
+*   [deoxybyte-gzip (⭐7)](https://github.com/keithj/deoxybyte-gzip) -  Common Lisp interface to zlib via CFFI. GPL3.
+    *   This system provides gzip and gunzip functions and a Gray-streams implementation, both built on a set of lower-level zlib functions.
+
+#### [36. Awesome Php](/content/ziadoz/awesome-php/README.md)
+
+##### Table of Contents / Content Management Systems (CMS)
+
+*   [TYPO3](https://typo3.org) - An enterprise level CMS.
+
+##### Configuration / Text Editors and IDEs
+
+*   [PhpEd](https://www.nusphere.com/products/phped.htm) - An IDE with professional commercial debugger.
+
+#### [37. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+
+##### Misc
+
+*   [sentry (⭐3)](https://github.com/crystal-china/sentry) - Build/Runs your crystal application, watches files, and rebuilds/restarts app on file changes.
+
+##### Official Documentation Translations
+
+*   [procodile (⭐10)](https://github.com/crystal-china/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile (for production and/or development environments)
+
+#### [38. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+
+##### Games / Apache License
+
+*   [retro-arcade (⭐1)](https://github.com/fastrgv/RetroArcade) - Space Invaders, Pacman, & Frogger games that run in a terminal on Windows, OS-X & Linux.
+
+##### Database / Apache License
+
+*   [apq-base (⭐1)](https://github.com/ada-apq/apq/) - APQ is a database interface library written in Ada95.
+
+#### [39. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
+
+##### Apps / Development Tools
+
+*   [Kangaroo (⭐385)](https://github.com/dbkangaroo/kangaroo) - AI-powered SQL client and admin tool for popular databases.
+
+#### [40. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+
+##### Projects / Tools
+
+*   [Autosubst-ocaml (⭐13)](https://github.com/uds-psl/autosubst-ocaml) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
+
+#### [41. Awesome V](/content/vlang/awesome-v/README.md)
+
+##### Build Systems
+
+*   [clockwork (⭐14)](https://github.com/emmathemartian/clockwork) - A language-agnostic build tool wrote in V.
+
+##### Command-line
+
+*   [vfetch (⭐8)](https://github.com/carlosqsilva/vfetch) - A macOS system information fetch written in V.
+
+##### Serialization
+
+*   [maple (⭐7)](https://github.com/emmathemartian/maple) - A very simple key-value config format wrote in V.
+
+##### Web
+
+*   [Mantis (⭐15)](https://github.com/khalyomede/mantis) - A web framework written in V.
+
+##### Operating Systems & OS Development Examples / Vim
+
+*   [limine-v-template (⭐0)](https://github.com/plos-clan/limine-v-template) - A simple template for building a Limine-compliant kernel in V.
+*   [v-limine (⭐0)](https://github.com/wenxuanjun/v-limine) - A V library for handling Limine boot protocol structures.
+
+#### [42. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+
+##### Misc libraries
+
+*   [pblischak/zprob (⭐7)](https://github.com/pblischak/zprob) - Module for Random Number Distributions.
+
+#### [43. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+
+##### Books, blogs, and training materials / Free and public materials
+
+*   [impl Rust on ESP32 Book](https://esp32.implrust.com/) - A hands-on guide that uses the ESP32 DevKit V1 to demonstrate how to work with various modules and sensors. ([github source (⭐31)](https://github.com/ImplFerris/esp32-book))
+*   [Pico Pico Book](https://pico.implrust.com/) - A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. ([github source (⭐28)](https://github.com/ImplFerris/pico-pico))
+
+##### Peripheral Access Crates / NXP
+
+*   [`mcx-pac`](https://github.com/mcx-rs/mcx-pac) Peripheral Access Crate for NXP MCX Series MCUs - [![crates.io](https://img.shields.io/crates/v/mcx-pac.svg)](https://crates.io/crates/mcx-pac)
+
+#### [44. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+##### Full Featured Financial Management
+
+*   [Actual](https://actualbudget.org) - Super fast and privacy-focused app for managing your finances.
+*   [Firefly III](https://www.firefly-iii.org/) - A free and open source personal finance manager.
+*   [Maybe](https://maybefinance.com/) - Open Source and secure OS for your personal finances.
+
+##### Shared Expenses
+
+*   Tricount - App size is massive (\~200MB) and contains many trackers from Facebook, Google and Huawei.
+*   Splitwise - App contains trackers from Google and Amazon.
+*   [Spliit (⭐1.3k)](https://github.com/spliit-app/spliit#readme) - Share Expenses with Friends & Family. No ads. No account. Open Source. Forever Free.
+*   [PeerSplit (⭐18)](https://github.com/tanayvk/peersplit#readme) - [Website](https://github.com/pluja/awesome-privacy/blob/main/README.md/peersplit.app) - Track and split group expenses. 100% free, 100% private.
+*   [SplitPro (⭐456)](https://github.com/oss-apps/split-pro#readme) - [Website](https://splitpro.app) - Split Expenses with your friends for free. An open source alternative to SplitWise.
+
+##### Portfolio trackers
+
+*   [Ghostfolio (⭐5.2k)](https://github.com/ghostfolio/ghostfolio#readme) - open source wealth management software built with web technology.
+*   [PortfolioPerformance](https://www.portfolio-performance.info/en/) - An open source tool to calculate the overall performance of an investment portfolio-
+
+#### [45. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+
+##### Presentations
+
+*   [TR23: V2GEvil: Ghost in the wires](https://www.youtube.com/watch?v=JVWFfSmIlRY) - This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC), and an introduction to the tool V2GEvil. Accessible through the On-Board Charging (OBC) port, makes this attack vector really important for the security of future vehicles.
+*   [DEF CON CHV - V2GEvil: Ghost in the wires](https://www.youtube.com/watch?v=Ui2etjRyrUE) - Shortened and summarized version of the talk V2GEvil: Ghost in the wires, from the DEF CON 32 Car Hacking Village, by Pavel Khunt and Thomas Sermpinis.
+*   [The hack, the crash and two smoking barrels. (And all the times I (almost) killed an engineer.)](https://www.youtube.com/watch?v=MDndWJxfP-U) - Thomas Sermpinis goes through the process of responsibly disclosing findings affecting the Blind Spot Detection Sensor of a current MY vehicle from one of the biggest OEMs in the world, leading to accusations that he was collaborating with hostile nations by the OEM. A story about how automotive manufacturers are treating the security industry, where are we heading, and how to be better, on the stage of DEF CON 32.
+
+##### Research Papers
+
+*   [On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats](https://hexhive.epfl.ch/publications/files/22WOOT.pdf)
+*   [Pavel, K. Vehicle On-Board Charging Security Scanner, 2024](https://dspace.cvut.cz/bitstream/handle/10467/113764/F8-DP-2024-Khunt-Pavel-thesis.pdf)
+
+##### Libraries and Tools / C++
+
+*   [UnlockECU (⭐277)](https://github.com/jglim/UnlockECU) - Free, open-source ECU seed-key unlocking tool.
+
+#### [46. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+
+##### Commercial Offerings
+
+*   [loginfactor](https://www.loginfactor.com/)
+*   [univention](https://www.univention.com/)
+
+#### [47. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+
+##### Software / Make your life easier
+
+*   [Hercules (⭐237)](https://github.com/test-zeus-ai/testzeus-hercules) - World's first open source end to end testing agent.
+*   [Hyperbrowser](https://hyperbrowser.ai) - A platform for running and scaling headless browsers with built-in features for session recording, CAPTCHA solving, proxies, etc to easily run tests at scale.
+*   [MixedVoices](https://mixedvoices.xyz) - An Open Source tool for analyzing and evaluating AI Voice agents
+
+#### [48. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+
+##### Online services (a-z↓)
+
+*   [Argos](https://argos-ci.com) - The open source visual testing platform for modern engineering teams.
+
+#### [49. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
+
+##### Cloud Services / Desktop GUI Automation (non-browser-centric)
+
+*   [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for running and scaling Selenium automations with headless Chrome with advanced features like proxies, captcha solving, and session recording.
+
+#### [50. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+
+##### Newsletters / Commerical Tools
+
+*   [Alpasignal.ai](https://alphasignal.ai/) AI newsletter for developers
+*   [Therundown.ai](https://www.therundown.ai/) Get the latest AI news, understand why it matters, and learn how to apply it in your work.
+
+#### [51. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+##### Image Analysis / Steam
+
+*   [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
+
+#### [52. Awesome Math](/content/rossant/awesome-math/README.md)
+
+##### Algebra / Linear Algebra
+
+*   📖 [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
+
+#### [53. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+
+##### JavaScript / FrameWorks
+
+*   [chart-patterns (⭐11)](https://github.com/focus1691/chart-patterns) - Technical analysis library for Market Profile, Volume Profile, Stacked Imbalances and High Volume Node indicators.
+*   [orderflow (⭐20)](https://github.com/focus1691/orderflow) - Orderflow trade aggregator for building Footprint Candles from exchange websocket data.
+
+#### [54. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
+
+##### Online Resources and Courses / Digital Asset Management (DAM)
+
+*   **[Awesome AI Marketing (⭐17)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
+
+#### [55. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+
+##### Features
+
+*   [1.9 - Provider iteration with for\_each](https://opentofu.org/docs/intro/whats-new/#provider-iteration-for_each)
+*   [1.9 - The -exclude flag](https://opentofu.org/docs/intro/whats-new/#the--exclude-flag)
+
+#### [56. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
+
+##### Other
+
+*   🔧 [Mirth-Migrator (⭐6)](https://github.com/odoodo/Mirth-Migrator) - Mirth Migrator is a web-based tool that automates the transfer of Mirth Connect Enterprise Service Bus channels and code templates between Mirth environments.
+
+#### [57. Topics](/content/selvaklnc/topics/README.md)
+
+##### List of articles and posts
+
+*   Master SEO with the Complete [SEO Growth Blueprint](https://www.linkedin.com/pulse/master-seo-complete-growth-blueprint-series-selvakumaran-krishnan-ikx1c) Series.
+*   The Importance of [Cryptographic Standards in Modern Security](https://www.linkedin.com/pulse/importance-cryptographic-standards-modern-security-krishnan-yfsgc).
+*   The Human Factor: [Building a Cyber-Aware Culture in Organizations](https://www.linkedin.com/pulse/human-factor-building-cyber-aware-culture-selvakumaran-krishnan-mbrzc)
+*   [Google algorithm updates](https://medium.com/@selvakumarankrishnan/google-algorithm-updates-a-comprehensive-study-of-how-google-algorithm-updates-shape-online-seo-b509b320bf0d) | A comprehensive study of how Google algorithm updates shape online SEO impacts
+*   [Social Engineering Hacks](https://www.linkedin.com/pulse/social-engineering-hacks-how-manipulation-techniques-your-krishnan-usnec): How Manipulation Techniques Threaten Your Security and How to Protect Yourself
+*   [Online magazines and their allure](https://medium.com/@selvakumarankrishnan/online-magazines-and-their-allure-embrace-the-digital-eleganceonline-magazines-and-their-allure-1054f786a227): Embrace the digital elegance
+*   [Brute Force Attacks](https://www.linkedin.com/pulse/brute-force-attacks-prevention-mitigation-selvakumaran-krishnan-5b5pc) | Prevention and Mitigation
+*   The art of [finding peace in aloneness](https://medium.com/@selvakumarankrishnan/the-art-of-finding-peace-in-aloneness-0a1f14bc3168).
+*   Exploring [Generative AI in Cybersecurity](https://www.linkedin.com/pulse/exploring-generative-ai-cybersecurity-new-chapter-krishnan-istmc): A New Chapter.
+*   The Ongoing Debate: [Online vs. Offline Businesses](https://medium.com/@selvakumarankrishnan/the-ongoing-debate-online-vs-offline-businesses-e63b46594960)
+
+##### Responses
+
+*   [Museums](https://blog.u-s-history.com/2011/07/museums-of-richmond-virginia.html?commentPage=4) of Richmond Virginia
+*   American History through American Art at the [Metropolitan Museum of Art](https://blog.u-s-history.com/2012/03/image-credit-museum-of-art-if-youre-in.html?commentPage=2)
+*   [World Celebrates 50th Anniversary of Earth Day](https://blog.u-s-history.com/2020/04/world-celebrates-50th-anniversary-of.html?commentPage=2) - The History Behind The Holiday
+*   Florida History: [Everglades](https://blog.u-s-history.com/2020/04/florida-history-everglades.html?commentPage=2)
+*   [Oregon History and Westward Migration](https://blog.u-s-history.com/2020/05/oregon-history-and-westward-migration.html?commentPage=2) - The Beginnings
+*   Breaking the Bread: [A Brief History of Sourdough](https://blog.u-s-history.com/2020/05/breaking-bread-brief-history-of.html?commentPage=3)
+
+#### [58. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
+
+##### Articles / Golang - Community
+
+*   [Firebase GenKit with Gemma using Ollama](https://xavidop.me/firebase/gcp/2024-05-24-firebase-genkit-ollama/) - Firebase project that uses the Gen AI Kit with Gemma using Ollama.
+
+#### [59. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+##### File Management
+
+*   [Xftp 7](https://www.netsarang.com/en/xftp/) - Flexible SFTP/FTP client with advanced features for efficient file transfers. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
+
+##### IDEs
+
+*   [Zed](https://zed.dev) - A high-performance, multiplayer code editor from the creators of Atom. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/zed-industries/zed)
+
+##### Remote Access
+
+*   [AnyDesk](https://anydesk.com/) - Free and lightweight remote access solution for ease of use.
+*   [Moonlight (⭐12k)](https://github.com/moonlight-stream/moonlight-qt) - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/moonlight-stream/moonlight-qt)
+*   [Parsec](https://parsec.app/) - High-performance remote desktop solution with 4k streaming at 60fps and low latency.
+*   [RealVNC](https://www.realvnc.com) - Secure remote access for desktop and mobile devices.
+*   [RoyalTSX](https://www.royalapps.com/ts/win/features) - Remote access tool for IT professionals, supporting multiple protocols.
+*   [RustDesk](https://rustdesk.com/) - Open-source remote desktop software with a focus on simplicity and security. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/rustdesk/rustdesk)
+*   [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Play your Steam games across devices using the Steam Link app.
+*   [Sunshine (⭐22k)](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/LizardByte/Sunshine)
+*   [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer.
+
+##### Screenshot
+
+*   [Capter (⭐98)](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/flameshot-org/flameshot)
+*   [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly.
+
+##### System Utilities
+
+*   [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives safely and easily. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/balena-io/etcher)
+*   [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Rem0o/FanControl.Releases) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares.
+*   [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/xanderfrangos/twinkle-tray)
+
+##### Virtualization
+
+*   [QEMU](https://www.qemu.org/) - Open-source emulator and virtualizer for hardware and system virtualization.
+*   [Rancher Desktop](https://rancherdesktop.io) - Open-source application for managing containers and Kubernetes on the desktop.
+*   [VirtualBox](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization software for creating and managing virtual machines.
+
+##### Window Management
+
+*   [AltSnap (⭐2.7k)](https://github.com/RamonUnch/AltSnap) -  A lightweight window management tool for snapping windows to predefined positions using keyboard shortcuts. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [FancyZones (⭐114k)](https://github.com/microsoft/PowerToys) - A feature of PowerToys that helps with window snapping and arranging for multi-monitor setups in Windows. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+*   [GlazeWM (⭐7.2k)](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3wm written in Rust. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+
+#### [60. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Reading and Writing Tools / Others
+
+*   [Collate](https://collate.one/get-started) - Free tool to collect, summarize and query PDFs with AI. All offline and free [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/collateai/id6447429913) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Developer Tools / IDEs
+
+*   [BeagleEditor (⭐0)](https://github.com/beaglesoftware/editor) - A "beagleful" editor with features like syntax highlighting, plugins and... - A bit ugly, but it works
+
+##### Developer Tools / Command Line Tools
+
+*   [Ghostty (⭐25k)](https://github.com/ghostty-org/ghostty) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ghostty-org/ghostty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Wave (⭐8.4k)](https://github.com/wavetermdev/waveterm) - An open-source terminal that combines traditional terminal features with graphical capabilities like file previews, web browsing, and AI assistance. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wavetermdev/waveterm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Developer Tools / Frameworks For Hybrid Applications
+
+*   [Tauri](https://tauri.app/) - Create small, fast, secure, cross-platform applications [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/tauri-apps/tauri)
+
+##### Design and Product / Design Tools
+
+*   [darktable](https://www.darktable.org) - darktable is an open source photography workflow application and raw developer. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/darktable-org/darktable) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Audio and Video Tools / Audio Record and Process
+
+*   [CapSoftware](https://github.com/CapSoftware/) - An open-source alternative to Loom. Beautiful, shareable screen recording tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CapSoftware/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / Menu Bar Tools
+
+*   [DayBar](https://wangchujiang.com/daybar/) - An application that can display the local date and reminder events in the menu bar. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/daybar/6739052447)
+*   [NotchNook](https://lo.cafe/notchnook) - Customizes your Mac's menu bar to seamlessly integrate with the notch design.
+
+#### [61. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+
+##### Papers / 2025
+
+*   [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) - (AAAI) *Auditing as a black-box optimization problem where the goal is to automatically uncover input-output pairs of the target LLMs that exhibit illegal, immoral, or unsafe behaviors.*
+*   [Queries, Representation & Detection: The Next 100 Model Fingerprinting Schemes](https://arxiv.org/abs/2412.13021) - (AAAI) *Divides model fingerprinting into three core components, to identify ∼100 previously unexplored combinations of these and gain insights into their performance.*
+
+##### Related Events / 2025
+
+*   [AAAI workshop on AI Governance: Alignment, Morality, and Law](https://aaai.org/conference/aaai/aaai-25/workshop-list/#ws06)
+
+#### [62. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Color / Diagnostics
+
+*   [xzbdmw/colorful-menu.nvim (⭐187)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+
+##### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [m15a/nvim-srcerite (⭐4)](https://github.com/m15a/nvim-srcerite) - A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
+
+##### Utility / Diagnostics
+
+*   [mluders/comfy-line-numbers.nvim (⭐15)](https://github.com/mluders/comfy-line-numbers.nvim) - Limits relative numbers to only show left-hand digits on the keyboard.
+
+#### [63. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Gurubase](https://gurubase.io/g/angular) - Angular Guru leverages up-to-date information from the Angular documentation, Stack Overflow, and articles across the internet to answer your questions.
+
+##### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [kinde-angular (⭐15)](https://github.com/luukhaijes/kinde-angular) - Angular wrapper around the [Kinde](https://kinde.com/) Typescript [SDK](https://docs.kinde.com/developer-tools/sdks/backend/typescript-sdk/).
+
+##### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [extreme-angular (⭐96)](https://github.com/joematthews/extreme-angular) - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
+
+##### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-van (⭐1)](https://github.com/otodockal/ngx-van) - Tiny replacement for HTML nav element with mobile side nav menu built-in. Good old nav element on desktop, sliding side nav on mobile. No duplication.
+*   [ngx-swipe-menu (⭐1)](https://github.com/charlesschaefer/ngx-swipe-menu) - A component to create "swipe left to 'action'" experiences.
+
+##### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [tableau-ui-angular (⭐1)](https://github.com/serionist/tableau-ui-angular) -  A third-party component library that brings Tableau-style components to Angular.
+
+#### [64. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+
+##### Templates / Godot 4
+
+*   [Takin Godot Template (⭐105)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+
+#### [65. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+
+##### Manuals, Ephemera, Papers, and Patents / Manuals
+
+*   [HP-75 Plotter ROM External Reference Specification (1982) (PDF)](https://literature.hpcalc.org/community/hp75-plotter-ers.pdf)
+
+#### [66. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+
+##### Mobile Development
+
+*   [Android Developer Roadmap (⭐4.1k)](https://github.com/mobile-roadmap/android-developer-roadmap) - Roadmap to becoming an Android developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://github.com/mobile-roadmap/android-developer-roadmap).
+
+##### AI / Machine Learning / Data Science
+
+*   [Deep Learning Roadmap (⭐4.6k)](https://github.com/instillai/deep-learning-roadmap) - Roadmap to getting started with deep learning [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://github.com/instillai/deep-learning-roadmap).
+*   [Data Science Roadmap (⭐630)](https://github.com/boringPpl/data-science-roadmap) - Roadmap to becoming a data scientist [<img src="https://img.shields.io/badge/Roadmap-2020-yellow.svg">](https://github.com/boringPpl/data-science-roadmap).
+*   [Data Scientist Roadmap (⭐7.1k)](https://github.com/MrMimic/data-scientist-roadmap) - Roadmap of tutorials for those interested in data science [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/MrMimic/data-scientist-roadmap).
+
+##### Miscellaneous
+
+*   [University Degree Roadmap (⭐106)](https://github.com/IlIllII/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/IlIllII/collecobrary).
+
+#### [67. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Analytics
+
+*   [Postiz](https://postiz.com) `⚠` - Schedule posts, track the performance of your content, and manage all your social media accounts in one place (Alternative to Buffer, Hootsuite, Sprout Social). ([Source Code (⭐18k)](https://github.com/gitroomhq/postiz-app)) `Apache-2.0` `Docker`
+
+##### Software / Automation
+
+*   [Medusa (⭐1.8k)](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Clients (⭐1.9k)](https://github.com/medusajs/nextjs-starter-medusa)) `GPL-3.0` `Python`
+
+##### Software / Content Management Systems (CMS)
+
+*   [Localess](https://localess.org/home) `⚠` - Powerful translation management and content management system. Manage and translate your website or app content into multiple languages, using AI to translate faster. ([Source Code (⭐45)](https://github.com/Lessify/localess)) `MIT` `Docker`
+
+##### Software / Document Management
+
+*   [Gotenberg](https://gotenberg.dev) - Developer-friendly API to interact with powerful tools like Chromium and LibreOffice for converting numerous document formats (HTML, Markdown, Word, Excel, etc.) into PDF files, and more. ([Source Code (⭐8.4k)](https://github.com/gotenberg/gotenberg), [Clients (⭐128)](https://github.com/gotenberg/awesome-gotenberg)) `MIT` `Docker`
+
+##### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [Digirecord](https://ladigitale.dev/digirecord/) - Record and share audio files (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digirecord)) `AGPL-3.0` `Nodejs/PHP`
+
+##### Software / Games - Administrative Utilities & Control Panels
+
+*   [Minus Games](https://accessory.github.io/minus_games_user_guide) - Sync games and save files across multiple devices. ([Source Code (⭐9)](https://github.com/Accessory/minus_games)) `MIT` `Rust`
+*   [RomM](https://romm.app/) `⚠` - ROM manager for organizing, enriching, and playing retro games, with support for 400+ platforms. ([Demo](https://demo.romm.app/), [Source Code (⭐3k)](https://github.com/rommapp/romm)) `AGPL-3.0` `Docker`
+
+##### Software / Internet of Things (IoT)
+
+*   [LHA (⭐8)](https://github.com/javalikescript/lha) - Light Home Automation application. LHA is fully extensible using Blockly, HTML or Lua. It includes extensions such as ConBee, Philips Hue or Z-Wave JS. `MIT` `Lua`
+
+##### Software / Media Streaming - Multimedia Streaming
+
+*   [ClipBucket](https://clipbucket.fr/) - Start your own video sharing website (YouTube/Netflix Clone) in a matter of minutes. ([Demo](https://demo.clipbucket.oxygenz.fr/), [Source Code (⭐84)](https://github.com/MacWarrior/clipbucket-v5)) `AAL` `Docker/PHP`
+
+##### Software / Miscellaneous
+
+*   [Digicut](https://ladigitale.dev/digicut/) - Cut audio and video files using FFMPEG.wasm (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digicut)) `AGPL-3.0` `Nodejs`
+*   [Digiflashcards](https://ladigitale.dev/digiflashcards/) - An online application to create flashcards (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiflashcards)) `AGPL-3.0` `Nodejs/PHP`
+*   [Digiquiz](https://ladigitale.dev/digiquiz/) - An online application to publish content created with H5P (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiquiz)) `AGPL-3.0` `Nodejs`
+*   [Digiread](https://ladigitale.dev/digiread/) `⚠` - Clean up online pages and articles using Mozilla's Readability (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiread)) `AGPL-3.0` `Nodejs/PHP`
+*   [Digisteps](https://ladigitale.dev/digisteps/) - A simple application for creating online educational paths (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digisteps)) `AGPL-3.0` `Nodejs/PHP`
+
+##### Software / Money, Budgeting & Management
+
+*   [ezbookkeeping](https://ezbookkeeping.mayswind.net/) - A lightweight personal bookkeeping app hosted by yourself. ([Demo](https://ezbookkeeping-demo.mayswind.net/), [Source Code (⭐138)](https://github.com/mayswind/ezbookkeeping)) `MIT` `Go/Docker`
+*   [Mybucks.online](https://mybucks.online) - A secure, browser-based, password-only self-custodial cryptocurrency wallet. ([Demo](https://app.mybucks.online), [Source Code (⭐6)](https://github.com/mybucks-online/app)) `MIT` `Nodejs`
+*   [MyFin (⭐44)](https://github.com/afaneca/myfin) - Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. ([Demo (⭐44)](https://github.com/afaneca/myfin?tab=readme-ov-file#demo-account---try-it-for-yourself), [Clients (⭐28)](https://github.com/afaneca/myfin-android)) `AGPL-3.0` `Nodejs`
+
+##### Software / Pastebins
+
+*   [BinPastes (⭐3)](https://github.com/querwurzel/BinPastes) - Minimal pastebin supporting client-side encryption, fulltext search, one-time messages. Intended for one to few users looking for a simple pastebin deployment. ([Demo](https://paste.wylke.it)) `Apache-2.0` `Java`
+
+##### Software / Self-hosting Solutions
+
+*   [HomeServerHQ](https://www.homeserverhq.com/) - An all-in-one home server infrastructure and installer. Have a fully configured email server, VPN, and public website(s) set up in less than an hour, even behind CGNAT. ([Source Code (⭐7)](https://github.com/homeserverhq/hshq)) `GPL-3.0` `Shell`
+
+##### Software / Software Development - API Management
+
+*   [Opik](https://www.comet.com/site/products/opik/) `⚠` - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ([Source Code (⭐4.6k)](https://github.com/comet-ml/opik)) `Apache-2.0` `Docker/Python`
+
+#### [68. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+
+##### API
+
+*   [Population.NET (⭐29)](https://github.com/Authentic199/Population.NET) - A .NET library allows clients to specify the exact fields they need, reducing unnecessary data transfer by avoiding the retrieval of all fields by default.
+
+##### Artificial Intelligence
+
+*   [LlmTornado (⭐45)](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
+
+##### Logging
+
+*   [AutoLoggerMessage (⭐35)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+
+##### Tools
+
+*   [FastCloner (⭐31)](https://github.com/lofcz/FastCloner) - Fast deep cloning library for .NET 8+. Zero-config, works out of the box.
+
+#### [69. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
+*   [Boomi Cloud API Management](https://developer.mashery.com/) - A cloud-native API platform that enables you to deploy APIs anywhere and manage them from everywhere.
 *   [Gravitee.io API Management (⭐212) (⭐212)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
 *   [WSO2 API Manager (⭐873) (⭐873)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
 
@@ -494,654 +1117,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [NDJSON (⭐701) (⭐701)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐359) (⭐359)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [32. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
-
-##### Other plugins
-
-*   [Capacitor voice recorder (⭐82)](https://github.com/tchvu3/capacitor-voice-recorder) - A plugin for simple voice recording.
-
-#### [33. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications
-
-*   [Mega (⭐190)](https://github.com/web3infra-foundation/mega) - A monorepo & monolithic codebase management system that supports Git, also is an unofficial open source implementation of Google Piper.
-
-##### Applications / Database
-
-*   [apecloud/ape-dts (⭐296)](https://github.com/apecloud/ape-dts) - Data Transfer Suite. Provides data replication between MySQL, PostgreSQL, Redis, MongoDB, Kafka, ClickHouse, and more.
-*   [KiteSQL (⭐588)](https://github.com/KipData/KiteSQL) - SQL as a Function for Rust
-*   [Limbo (⭐8.8k)](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.
-
-##### Applications / Finance
-
-*   [e257-fi/tackler-ng (⭐61)](https://github.com/e257-fi/tackler-ng) \[[tackler](https://crates.io/crates/tackler)] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting [![CI Badge](https://github.com/e257-fi/tackler-ng/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/e257-fi/tackler-ng/blob/main/.github/workflows/ci.yml)
-*   [tarkah/tickrs (⭐1.3k)](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal
-
-##### Applications / Operating systems
-
-*   [adamperkowski/highlightos (⭐54)](https://github.com/adamperkowski/highlightos) - x86\_64 OS kernel written in Rust & Assembly.
-
-##### Applications / Productivity
-
-*   [aichat (⭐5.2k)](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-
-##### Applications / System tools
-
-*   [nwiizo/tfocus (⭐51)](https://github.com/nwiizo/tfocus) - Interactive tool for selecting and executing Terraform plan/apply operations
-
-##### Applications / Utilities
-
-*   [television (⭐1.9k)](https://github.com/alexpasmantier/television) - A blazing fast general purpose fuzzy finder TUI ![GitHub branch check runs](https://img.shields.io/github/check-runs/alexpasmantier/television/main)
-
-##### Applications / Vulnerability Research
-
-*   [0xdea/rhabdomancer (⭐15)](https://github.com/0xdea/rhabdomancer) \[[rhabdomancer](https://crates.io/crates/rhabdomancer)] - Vulnerability research assistant that locates all calls to potentially insecure API functions in a binary file [![build](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml)
-
-##### Applications / Web Servers
-
-*   [g3proxy (⭐507)](https://github.com/bytedance/g3) - Forward proxy server, support Proxy Chaining, Protocol Inspection, MITM Interception, ICAP Adaptation, Transparent Proxy [![CodeCoverage](https://github.com/bytedance/g3/actions/workflows/codecov.yml/badge.svg)](https://github.com/bytedance/g3/actions)
-*   [plabayo/rama (⭐250)](https://github.com/plabayo/rama) - A modular service framework to move and transform your network packets, used to build web clients, servers and — above all — proxies
-*   [vproxy/0x676e67 (⭐133)](https://github.com/0x676e67/vproxy) - An fast asynchronous Rust HTTP/Socks5 Proxy
-
-##### Development tools / Profiling
-
-*   [g3bench (⭐507)](https://github.com/bytedance/g3) - A benchmark tool that supports HTTP 1.x, HTTP 2, HTTP 3, TLS Handshake, DNS and Cloudflare Keyless
-
-##### Development tools / Static analysis
-
-*   [verus-lang/verus (⭐1.3k)](https://github.com/verus-lang/verus) - Verified Rust for low-level systems code
-
-##### Libraries / Artificial Intelligence
-
-*   [blackportal-ai/delta (⭐348)](https://github.com/blackportal-ai/delta) - Δ An Open-Source Machine Learning Framework in Rust. ![crates.io](https://img.shields.io/crates/v/deltaml.svg) ![build](https://img.shields.io/github/actions/workflow/status/blackportal-ai/delta/core.yml?branch=master)
-*   [blackportal-ai/nebula (⭐55)](https://github.com/blackportal-ai/nebula) - A Package Manager for Machine Learning Datasets and Models. ![build](https://img.shields.io/github/actions/workflow/status/blackportal-ai/nebula/core.yml?branch=master)
-
-##### Libraries / Asynchronous
-
-*   [dagrs (⭐332)](https://github.com/dagrs-dev/dagrs) - A high-performance asynchronous task programming framework, which follows the concept of Flow based Programming.
-
-##### Libraries / Database
-
-*   [VennDB](https://venndb.rs/) \[[venndb (⭐97)](https://github.com/plabayo/venndb)] - An append-only in-memory database in Rust for rows queried using bit (flag) columns.
-
-##### Libraries / Finance
-
-*   [stochastic-rs (⭐36)](https://github.com/rust-dd/stochastic-rs) \[[stochastic-rs](https://crates.io/crates/stochastic-rs)] - High-performance data generation library for stochastic process with quant finance tools. ![GitHub Workflow Status](https://github.com/rust-dd/stochastic-rs/actions/workflows/rust.yml/badge.svg)
-
-##### Libraries / Game development
-
-*   Minecraft
-    *   [bedrock-crustaceans/bedrock-rs (⭐104)](https://github.com/bedrock-crustaceans/bedrock-rs) - Universal toolkit for Minecraft Bedrock Edition development in Rust. [![GitHub stars](https://img.shields.io/github/stars/bedrock-crustaceans/bedrock-rs)](https://github.com/bedrock-crustaceans/bedrock-rs) [![CI](https://github.com/bedrock-crustaceans/bedrock-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/bedrock-crustaceans/bedrock-rs/actions/workflows/ci.yml)
-    *   [Pumpkin (⭐3.8k)](https://github.com/pumpkin-mc/pumpkin) - A high-performance Minecraft server Software fully written in Rust
-
-##### Libraries / GUI
-
-*   [Ribir (⭐967)](https://github.com/RibirX/Ribir) - Ribir is a Rust GUI framework that helps you build beautiful and native multi-platform applications from a single codebase.
-
-##### Libraries / Task scheduling
-
-*   [inboxsphere/persistent-scheduler (⭐7)](https://github.com/inboxsphere/persistent-scheduler) \[[persistent-scheduler](https://crates.io/crates/persistent-scheduler)] - A high-performance task scheduling system built with Tokio, offering task persistence, repeatable tasks, and Cron-based scheduling for reliable time-based operations.
-
-#### [34. Awesome Elm](/content/sporto/awesome-elm/README.md)
-
-##### Inspired by Elm / Games
-
-*   [Tyrian](https://tyrian.indigoengine.io/) - Tyrian is an Elm-inspired frontend framework for Scala.js.
-
-#### [35. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
-
-##### Frameworks
-
-*   [Siv3D (⭐1k)](https://github.com/Siv3D/OpenSiv3D) - Siv3D (OpenSiv3D) is a C++20 framework for creative coding (2D/3D games, media art, visualizers, and simulators). \[MIT] [website](https://siv3d.github.io/)
-
-##### Debug
-
-*   [Hippomocks (⭐196)](https://github.com/dascandy/hippomocks) - Single-header mocking framework. \[LGPL-2.1]
-*   [IceCream-Cpp (⭐598)](https://github.com/renatoGarcia/icecream-cpp) - Never use cout/printf to debug again  \[MIT]
-
-##### Math
-
-*   [MATIO (⭐356)](https://github.com/tbeu/matio) -  MATLAB MAT File I/O Library. \[BSD-2-Clause] [website](https://sourceforge.net/projects/matio/)
-
-##### Scripting
-
-*   [nanobind (⭐2.5k)](https://github.com/wjakob/nanobind) - tiny and efficient C++/Python bindings. \[BSD-3-Clause]
-
-##### Serialization
-
-*   [BitSerializer (⭐12)](https://github.com/PavelKisliak/BitSerializer) - Multi-format serialization library (JSON, XML, YAML, CSV, MsgPack) \[MIT]
-
-##### Yaml
-
-*   [fkYAML (⭐84)](https://github.com/fktn-k/fkYAML) - A C++ header-only YAML library. \[MIT]
-*   [LibCYAML (⭐269)](https://github.com/tlsa/libcyaml) - C library for reading and writing YAML. \[ISC]
-*   [libfyaml (⭐258)](https://github.com/pantoniou/libfyaml) - A fancy 1.2 YAML and JSON parser/writer. \[MIT]
-
-##### Miscellaneous
-
-*   [CPP-JWT (⭐402)](https://github.com/arun11299/cpp-jwt) - JSON Web Token library for C++. \[MIT]
-*   [MPark.Variant (⭐680)](https://github.com/mpark/variant) - C++17 `std::variant` for C++11/14/17. \[BSL-1.0]
-*   [SafetyHook (⭐428)](https://github.com/cursey/safetyhook) - C++23 procedure hooking library. \[BSL-1.0]
-*   [xxHash (⭐9.4k)](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm. \[BSD-2-Clause] [website](https://xxhash.com/)
-*   [xxhash\_cpp (⭐172)](https://github.com/RedSpah/xxhash_cpp) - Port of the xxhash library to C++17. \[BSD-2-Clause]
-
-##### Compiler
-
-*   [AMD C++ Compiler](https://www.amd.com/en/developer/aocc.html) - Developed by AMD.
-
-#### [36. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
-
-##### Other DB wrappers
-
-*   [cl-bunny (⭐17)](https://github.com/cl-rabbit/cl-bunny) -  Common Lisp RabbitMQ client based on IOLib. MIT.
-
-##### Web Development
-
-*   NEW [Web Apps in Lisp: Know-how](https://web-apps-in-lisp.github.io/) - tutorial and reference material to build interactive web apps in Common Lisp. CC-BY.
-
-##### Community
-
-*   [vend (⭐25)](https://github.com/fosskers/vend) - Just vendor your dependencies! MPL-2.0.
-
-##### Readline, ncurses and other graphical helpers / Third-party APIs
-
-*   [text-draw (⭐14)](https://github.com/Shinmera/text-draw) - Toolkit to draw graphics using pure Unicode text only: boxes, backgrounds, checkboxes and radio buttons, lines, arrows, tables, trees… zlib.
-
-##### Caching (serialization) / Third-party APIs
-
-*   [cl-store (⭐55)](https://github.com/skypher/cl-store) - a portable serialization package which gives you the ability to store all common-lisp data types into streams. MIT.
-    *   Call `store object "file.bin")` to store a (possibly compound) lisp object to disk, and `restore` to get it back.
-*   [conspack (⭐91)](https://github.com/conspack/cl-conspack) - binary serialization.
-*   🚀 [cl-binary-store (⭐29)](https://github.com/ajberkley/cl-binary-store) -  A fast Common Lisp binary serializer/deserializer. BSD\_3Clause. See [reddit announce](https://www.reddit.com/r/Common_Lisp/comments/1hz5879/new_binary_serializationdeserialization_library/) (2025).
-    *   "A super fast and customizable serializer/deserializer of Common Lisp objects to/from a very compact binary format. Equality of objects, circular references, and the full Common Lisp type system are supported. Specialized arrays (on SBCL) are stored/restore at lightning speed."
-
-##### Compression / decompression / Third-party APIs
-
-*   [deoxybyte-gzip (⭐7)](https://github.com/keithj/deoxybyte-gzip) -  Common Lisp interface to zlib via CFFI. GPL3.
-    *   This system provides gzip and gunzip functions and a Gray-streams implementation, both built on a set of lower-level zlib functions.
-
-#### [37. Awesome Php](/content/ziadoz/awesome-php/README.md)
-
-##### Table of Contents / Content Management Systems (CMS)
-
-*   [TYPO3](https://typo3.org) - An enterprise level CMS.
-
-##### Configuration / Text Editors and IDEs
-
-*   [PhpEd](https://www.nusphere.com/products/phped.htm) - An IDE with professional commercial debugger.
-
-#### [38. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
-
-##### Misc
-
-*   [sentry (⭐3)](https://github.com/crystal-china/sentry) - Build/Runs your crystal application, watches files, and rebuilds/restarts app on file changes.
-
-##### Official Documentation Translations
-
-*   [procodile (⭐10)](https://github.com/crystal-china/procodile) - Run processes in the background (and foreground) on Mac & Linux from a Procfile (for production and/or development environments)
-
-#### [39. Awesome Ada](/content/ohenley/awesome-ada/README.md)
-
-##### Games / Apache License
-
-*   [retro-arcade (⭐1)](https://github.com/fastrgv/RetroArcade) - Space Invaders, Pacman, & Frogger games that run in a terminal on Windows, OS-X & Linux.
-
-##### Database / Apache License
-
-*   [apq-base (⭐1)](https://github.com/ada-apq/apq/) - APQ is a database interface library written in Ada95.
-
-#### [40. Awesome Vala](/content/desiderantes/awesome-vala/README.md)
-
-##### Apps / Development Tools
-
-*   [Kangaroo (⭐385)](https://github.com/dbkangaroo/kangaroo) - AI-powered SQL client and admin tool for popular databases.
-
-#### [41. Awesome Coq](/content/coq-community/awesome-coq/README.md)
-
-##### Projects / Tools
-
-*   [Autosubst-ocaml (⭐13)](https://github.com/uds-psl/autosubst-ocaml) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
-
-#### [42. Awesome V](/content/vlang/awesome-v/README.md)
-
-##### Build Systems
-
-*   [clockwork (⭐14)](https://github.com/emmathemartian/clockwork) - A language-agnostic build tool wrote in V.
-
-##### Command-line
-
-*   [vfetch (⭐8)](https://github.com/carlosqsilva/vfetch) - A macOS system information fetch written in V.
-
-##### Serialization
-
-*   [maple (⭐7)](https://github.com/emmathemartian/maple) - A very simple key-value config format wrote in V.
-
-##### Web
-
-*   [Mantis (⭐15)](https://github.com/khalyomede/mantis) - A web framework written in V.
-
-##### Operating Systems & OS Development Examples / Vim
-
-*   [limine-v-template (⭐0)](https://github.com/plos-clan/limine-v-template) - A simple template for building a Limine-compliant kernel in V.
-*   [v-limine (⭐0)](https://github.com/wenxuanjun/v-limine) - A V library for handling Limine boot protocol structures.
-
-#### [43. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
-
-##### Misc libraries
-
-*   [pblischak/zprob (⭐7)](https://github.com/pblischak/zprob) - Module for Random Number Distributions.
-
-#### [44. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
-
-##### Books, blogs, and training materials / Free and public materials
-
-*   [impl Rust on ESP32 Book](https://esp32.implrust.com/) - A hands-on guide that uses the ESP32 DevKit V1 to demonstrate how to work with various modules and sensors. ([github source (⭐31)](https://github.com/ImplFerris/esp32-book))
-*   [Pico Pico Book](https://pico.implrust.com/) - A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. ([github source (⭐28)](https://github.com/ImplFerris/pico-pico))
-
-##### Peripheral Access Crates / NXP
-
-*   [`mcx-pac`](https://github.com/mcx-rs/mcx-pac) Peripheral Access Crate for NXP MCX Series MCUs - [![crates.io](https://img.shields.io/crates/v/mcx-pac.svg)](https://crates.io/crates/mcx-pac)
-
-#### [45. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
-
-##### Full Featured Financial Management
-
-*   [Actual](https://actualbudget.org) - Super fast and privacy-focused app for managing your finances.
-*   [Firefly III](https://www.firefly-iii.org/) - A free and open source personal finance manager.
-*   [Maybe](https://maybefinance.com/) - Open Source and secure OS for your personal finances.
-
-##### Shared Expenses
-
-*   Tricount - App size is massive (\~200MB) and contains many trackers from Facebook, Google and Huawei.
-*   Splitwise - App contains trackers from Google and Amazon.
-*   [Spliit (⭐1.3k)](https://github.com/spliit-app/spliit#readme) - Share Expenses with Friends & Family. No ads. No account. Open Source. Forever Free.
-*   [PeerSplit (⭐18)](https://github.com/tanayvk/peersplit#readme) - [Website](https://github.com/pluja/awesome-privacy/blob/main/README.md/peersplit.app) - Track and split group expenses. 100% free, 100% private.
-*   [SplitPro (⭐456)](https://github.com/oss-apps/split-pro#readme) - [Website](https://splitpro.app) - Split Expenses with your friends for free. An open source alternative to SplitWise.
-
-##### Portfolio trackers
-
-*   [Ghostfolio (⭐5.2k)](https://github.com/ghostfolio/ghostfolio#readme) - open source wealth management software built with web technology.
-*   [PortfolioPerformance](https://www.portfolio-performance.info/en/) - An open source tool to calculate the overall performance of an investment portfolio-
-
-#### [46. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
-
-##### Presentations
-
-*   [TR23: V2GEvil: Ghost in the wires](https://www.youtube.com/watch?v=JVWFfSmIlRY) - This research is dedicated to enhancing the cybersecurity of electric vehicles, with a specific focus on identifying vulnerabilities in the Electric Vehicle Communication Controller (EVCC), and an introduction to the tool V2GEvil. Accessible through the On-Board Charging (OBC) port, makes this attack vector really important for the security of future vehicles.
-*   [DEF CON CHV - V2GEvil: Ghost in the wires](https://www.youtube.com/watch?v=Ui2etjRyrUE) - Shortened and summarized version of the talk V2GEvil: Ghost in the wires, from the DEF CON 32 Car Hacking Village, by Pavel Khunt and Thomas Sermpinis.
-*   [The hack, the crash and two smoking barrels. (And all the times I (almost) killed an engineer.)](https://www.youtube.com/watch?v=MDndWJxfP-U) - Thomas Sermpinis goes through the process of responsibly disclosing findings affecting the Blind Spot Detection Sensor of a current MY vehicle from one of the biggest OEMs in the world, leading to accusations that he was collaborating with hostile nations by the OEM. A story about how automotive manufacturers are treating the security industry, where are we heading, and how to be better, on the stage of DEF CON 32.
-
-##### Research Papers
-
-*   [On the Insecurity of Vehicles Against Protocol-Level Bluetooth Threats](https://hexhive.epfl.ch/publications/files/22WOOT.pdf)
-*   [Pavel, K. Vehicle On-Board Charging Security Scanner, 2024](https://dspace.cvut.cz/bitstream/handle/10467/113764/F8-DP-2024-Khunt-Pavel-thesis.pdf)
-
-##### Libraries and Tools / C++
-
-*   [UnlockECU (⭐277)](https://github.com/jglim/UnlockECU) - Free, open-source ECU seed-key unlocking tool.
-
-#### [47. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
-
-##### Commercial Offerings
-
-*   [loginfactor](https://www.loginfactor.com/)
-*   [univention](https://www.univention.com/)
-
-#### [48. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
-
-##### Software / Make your life easier
-
-*   [Hercules (⭐237)](https://github.com/test-zeus-ai/testzeus-hercules) - World's first open source end to end testing agent.
-*   [Hyperbrowser](https://hyperbrowser.ai) - A platform for running and scaling headless browsers with built-in features for session recording, CAPTCHA solving, proxies, etc to easily run tests at scale.
-*   [MixedVoices](https://mixedvoices.xyz) - An Open Source tool for analyzing and evaluating AI Voice agents
-
-#### [49. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
-
-##### Online services (a-z↓)
-
-*   [Argos](https://argos-ci.com) - The open source visual testing platform for modern engineering teams.
-
-#### [50. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
-
-##### Cloud Services / Desktop GUI Automation (non-browser-centric)
-
-*   [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for running and scaling Selenium automations with headless Chrome with advanced features like proxies, captcha solving, and session recording.
-
-#### [51. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
-
-##### Newsletters / Commerical Tools
-
-*   [Alpasignal.ai](https://alphasignal.ai/) AI newsletter for developers
-*   [Therundown.ai](https://www.therundown.ai/) Get the latest AI news, understand why it matters, and learn how to apply it in your work.
-
-#### [52. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-##### Image Analysis / Steam
-
-*   [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
-
-#### [53. Awesome Math](/content/rossant/awesome-math/README.md)
-
-##### Algebra / Linear Algebra
-
-*   📖 [Linear Algebra Done Right](https://linear.axler.net/) - Sheldon Axler
-
-#### [54. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Bayesian Modeling / Bayesian Induction
-
-*   [Word learning as Bayesian inference](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245) - ***Psychological Review***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=5476233692839102256)]. \[[Preprint](https://tallinzen.net/media/readings/xu_tenenbaum_2007.pdf)]. The authors present a Bayesian framework for understanding how adults and children learn the meanings of words. The theory explains how learners can generalize meaningfully from just one or a few positive examples of a novel word's referents, by making rational inductive inferences that integrate prior knowledge about plausible word meanings with the statistical structure of the observed examples. The theory addresses shortcomings of the two best known approaches to modeling word learning, based on deductive hypothesis elimination and associative learning. Three experiments with adults and children test the Bayesian account's predictions in the context of learning words for object categories at multiple levels of a taxonomic hierarchy. Results provide strong support for the Bayesian account over competing accounts, in terms of both quantitative model fits and the ability to explain important qualitative phenomena. Several extensions of the basic theory are discussed, illustrating the broader potential for Bayesian models of word learning.
-*   [How to Grow a Mind: Statistics, Structure, and Abstraction](https://www.science.org/doi/full/10.1126/science.1192788) - ***Science***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=2667398573353002097)]. \[[Preprint](https://cocosci.princeton.edu/tom/papers/growamind.pdf)]. This review describes recent approaches to reverse-engineering human learning and cognitive development and, in parallel, engineering more humanlike machine learning systems. Computational models that perform probabilistic inference over hierarchies of flexibly structured representations can address some of the deepest questions about the nature and origins of human thought: How does abstract knowledge guide learning and reasoning from sparse data? What forms does our knowledge take, across different domains and tasks? And how is that abstract knowledge itself acquired?
-*   [Human-level concept learning through probabilistic program induction](https://www.science.org/doi/full/10.1126/science.aab3050) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506)]. \[[Preprint](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf)]. \[[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]. People learning new concepts can often generalize successfully from just a single example, yet machine learning algorithms typically require tens or hundreds of examples to perform with similar accuracy. People can also use learned concepts in richer ways than conventional algorithms—for action, imagination, and explanation. This work presents a computational model that captures these human learning abilities for a large class of simple visual concepts: handwritten characters from the world’s alphabets. The model represents concepts as simple programs that best explain observed examples under a Bayesian criterion. On a challenging one-shot classification task, the model achieves human-level performance while outperforming recent deep learning approaches.
-*   [Building Machines That Learn and Think Like People](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-like-people/A9535B1D745A0377E16C590E14B94993) - ***Behavioral and Brain Sciences***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287)]. \[[Preprint](https://leylaroksancaglar.github.io/Caglar_Hanson_2017.pdf)]. Recent progress in artificial intelligence has renewed interest in building systems that learn and think like people. Many advances have come from using deep neural networks trained end-to-end in tasks such as object recognition, video games, and board games, achieving performance that equals or even beats that of humans in some respects. Despite their biological inspiration and performance achievements, these systems differ from human intelligence in crucial ways. The authors review progress in cognitive science suggesting that truly human-like learning and thinking machines will have to reach beyond current engineering trends in both what they learn and how they learn it. Specifically, the authors argue that these machines should (1) build causal models of the world that support explanation and understanding, rather than merely solving pattern recognition problems; (2) ground learning in intuitive theories of physics and psychology to support and enrich the knowledge that is learned; and (3) harness compositionality and learning-to-learn to rapidly acquire and generalize knowledge to new tasks and situations. The authors suggest concrete challenges and promising routes toward these goals that can combine the strengths of recent neural network advances with more structured cognitive models.
-
-##### Bayesian Modeling / Generative Model
-
-*   [Filters, random fields and maximum entropy (FRAME): Towards a unified theory for texture modeling](https://link.springer.com/article/10.1023/A:1007925832420) - ***International Journal of Computer Vision***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=11604954524863138240)]. \[[Preprint](https://dash.harvard.edu/bitstream/handle/1/3637117/Mumford_FRAME.pdf?sequence=1)]. This article presents a statistical theory for texture modeling. This theory combines filtering theory and Markov random field modeling through the maximum entropy principle, and interprets and clarifies many previous concepts and methods for texture analysis and synthesis from a unified point of view. The theory characterizes the ensemble of images I with the same texture appearance by a probability distribution f(I) on a random field, and the objective of texture modeling is to make inference about f(I), given a set of observed texture examples.
-*   [A tale of three probabilistic families: Discriminative, descriptive, and generative models](https://www.ams.org/journals/qam/2019-77-02/S0033-569X-2018-01528-5/home.html) - ***Quarterly of Applied Mathematics***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6129609629126793774)]. \[[Preprint](http://www.stat.ucla.edu/~ywu/QAM2018.pdf)]. The pattern theory of Grenander is a mathematical framework where patterns are represented by probability models on random variables of algebraic structures. In this paper, the authors review three families of probability models, namely, the discriminative models, the descriptive models, and the generative models. A discriminative model is in the form of a classifier. It specifies the conditional probability of the class label given the input signal. A descriptive model specifies the probability distribution of the signal, based on an energy function defined on the signal. A generative model assumes that the signal is generated by some latent variables via a transformation. The authors shall review these models within a common framework and explore their connections, and shall also review the recent developments that take advantage of the high approximation capacities of deep neural networks.
-*   [From information scaling of natural images to regimes of statistical models](https://www.jstor.org/stable/43638808?seq=1) - ***Quarterly of Applied Mathematics***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=17387130978932998303)]. \[[Preprint](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf)].  One fundamental property of natural image data that distinguishes vision from other sensory tasks such as speech recognition is that scale plays a profound role in image formation and interpretation. Specifically, visual objects can appear at a wide range of scales in the images due to the change of viewing distance as well as camera resolution. The same objects appearing at different scales produce different image data with different statistical properties. In particular, this work shows that the entropy rate of the image data changes over scale. Moreover, the inferential uncertainty changes over scale too. The authors call these changes information scaling. They then examine both empirically and theoretically two prominent and yet largely isolated classes of image models, namely, wavelet sparse coding models and Markov random field models. The results indicate that the two classes of models are appropriate for two different entropy regimes: sparse coding targets low entropy regimes, whereas Markov random fields are appropriate for high entropy regimes. Because information scaling connects different entropy regimes, both sparse coding and Markov random fields are necessary for representing natural image data, and information scaling triggers transitions between these two regimes.
-*   [Minimax entropy principle and its application to texture modeling](https://ieeexplore.ieee.org/abstract/document/6796444) - ***Neural Computing***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=407872717119429940)]. \[[Preprint](https://www.dam.brown.edu/people/mumford/vision/papers/1997e--MinimaxEntropy-NC.pdf)]. This article proposes a general theory and methodology, called the minimax entropy principle, for building statistical models for images (or signals) in a variety of applications. This principle consists of two parts. The first is the maximum entropy principle for feature binding (or fusion): for a given set of observed feature statistics, a distribution can be built to bind these feature statistics together by maximizing the entropy over all distributions that reproduce them. The second part is the minimum entropy principle for feature selection: among all plausible sets of feature statistics, we choose the set whose maximum entropy distribution has the minimum entropy. Computational and inferential issues in both parts are addressed; in particular, a feature pursuit procedure is proposed for approximately selecting the optimal set of features. The minimax entropy principle is then corrected by considering the sample variation in the observed feature statistics, and an information criterion for feature pursuit is derived. The minimax entropy principle is applied to texture modeling, where a novel Markov random field (MRF) model, called FRAME (filter, random field, and minimax entropy), is derived, and encouraging results are obtained in experiments on a variety of texture images.
-*   [Parameter Expansion for Data Augmentation](https://www.tandfonline.com/doi/abs/10.1080/01621459.1999.10473879) - ***Journal of the American Statistical Association***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15342818142955984734)]. \[[Preprint](http://www.stat.ucla.edu/~ywu/research/papers/PXDA.pdf)]. Viewing the observed data of a statistical model as incomplete and augmenting its missing parts are useful for clarifying concepts and central to the invention of two well-known statistical algorithms: expectation-maximization (EM) and data augmentation. Recently, the authors demonstrated that expanding the parameter space along with augmenting the missing data is useful for accelerating iterative computation in an EM algorithm. The main purpose of this article is to rigorously define a parameter expanded data augmentation (PX-DA) algorithm and to study its theoretical properties. The PX-DA is a special way of using auxiliary variables to accelerate Gibbs sampling algorithms and is closely related to reparameterization techniques.
-
-##### Domain Specific Language / Design Practises
-
-*   [Constraint Representation Towards Precise Data-Driven Storytelling](https://ieeexplore.ieee.org/abstract/document/10766486) - ***VIS-Gen4DS'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=12234019078719898658)]. A position paper on DSL for data-driven storytelling. Data-driven storytelling serves as a crucial bridge for communicating ideas in a persuasive way. However, the manual creation of data stories is a multifaceted, labor-intensive, and case-specific effort, limiting their broader application. As a result, automating the creation of data stories has emerged as a significant research thrust. Despite advances in Artificial Intelligence, the systematic generation of data stories remains challenging due to their hybrid nature: they must frame a perspective based on a seed idea in a top-down manner, similar to traditional storytelling, while coherently grounding insights of given evidence in a bottom-up fashion, akin to data analysis. These dual requirements necessitate precise constraints on the permissible space of a data story. This viewpoint proposes integrating constraints into the data story generation process. Defined upon the hierarchies of interpretation and articulation, constraints shape both narrations and illustrations to align with seed ideas and contextualized evidence. The authors identify the taxonomy and required functionalities of these constraints. Although constraints can be heterogeneous and latent, this position paper explores the potential to represent them in a computation-friendly fashion via Domain-Specific Languages. The authors believe that leveraging constraints will facilitate both artistic and scientific aspects of data story generation.
-
-#### [55. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Libraries/Packages/Scripts / Polars plugins
-
-*   [polars-utils (⭐5)](https://github.com/junghoon-son/polars-utils) - Collection of utilities for data exploration and analysis with Polars DataFrames by [@junghoon-son](https://github.com/junghoon-son).
-*   [polars-st (⭐33)](https://github.com/Oreilles/polars-st) - Polars plugin that provides spatial operations on Polars DataFrames, Series and Expressions by [@Oreilles](https://github.com/Oreilles).
-*   [polars-pairing (⭐9)](https://github.com/apcamargo/polars-pairing) - Polars plugin that provides pairing functions that encode two natural numbers into a single natural number, by [@apcamargo](https://github.com/apcamargo).
-*   [polars-bio (⭐3)](https://github.com/biodatageeks/polars-bio) - Polars plugin for large-scale genomic analyses which is easy to use and considerable faster and more scalabe than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
-
-##### Resources / Tutorials & workshops
-
-*   [Polars DataFrame Operations and Optimization Guide](https://app.studyraid.com/en/courses/11455/polars-dataframe-operations-and-optimization-guide) Online free course that teaches the basics of data manipulation operations with Polars by [Studyraid](https://app.studyraid.com/en).
-
-#### [56. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
-
-##### JavaScript / FrameWorks
-
-*   [chart-patterns (⭐11)](https://github.com/focus1691/chart-patterns) - Technical analysis library for Market Profile, Volume Profile, Stacked Imbalances and High Volume Node indicators.
-*   [orderflow (⭐20)](https://github.com/focus1691/orderflow) - Orderflow trade aggregator for building Footprint Candles from exchange websocket data.
-
-#### [57. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
-
-##### Online Resources and Courses / Digital Asset Management (DAM)
-
-*   **[Awesome AI Marketing (⭐17)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
-
-#### [58. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
-
-##### Features
-
-*   [1.9 - Provider iteration with for\_each](https://opentofu.org/docs/intro/whats-new/#provider-iteration-for_each)
-*   [1.9 - The -exclude flag](https://opentofu.org/docs/intro/whats-new/#the--exclude-flag)
-
-#### [59. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
-
-##### Other
-
-*   🔧 [Mirth-Migrator (⭐6)](https://github.com/odoodo/Mirth-Migrator) - Mirth Migrator is a web-based tool that automates the transfer of Mirth Connect Enterprise Service Bus channels and code templates between Mirth environments.
-
-#### [60. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-##### Table of contents
-
-*   **Legend** 🔑:
-    *   `ref`: external URL
-    *   `doc`: archived doc
-    *   `cite`: the source of comments
-    *   `cnt`: number of citations
-    *   `git`: GitHub link
-    *   `x-ref`: Cross reference
-    *   📺: youtube or video
-    *   💡or 🏆: recommendation
-
-#### [61. Topics](/content/selvaklnc/topics/README.md)
-
-##### List of articles and posts
-
-*   Master SEO with the Complete [SEO Growth Blueprint](https://www.linkedin.com/pulse/master-seo-complete-growth-blueprint-series-selvakumaran-krishnan-ikx1c) Series.
-*   The Importance of [Cryptographic Standards in Modern Security](https://www.linkedin.com/pulse/importance-cryptographic-standards-modern-security-krishnan-yfsgc).
-*   The Human Factor: [Building a Cyber-Aware Culture in Organizations](https://www.linkedin.com/pulse/human-factor-building-cyber-aware-culture-selvakumaran-krishnan-mbrzc)
-*   [Google algorithm updates](https://medium.com/@selvakumarankrishnan/google-algorithm-updates-a-comprehensive-study-of-how-google-algorithm-updates-shape-online-seo-b509b320bf0d) | A comprehensive study of how Google algorithm updates shape online SEO impacts
-*   [Social Engineering Hacks](https://www.linkedin.com/pulse/social-engineering-hacks-how-manipulation-techniques-your-krishnan-usnec): How Manipulation Techniques Threaten Your Security and How to Protect Yourself
-*   [Online magazines and their allure](https://medium.com/@selvakumarankrishnan/online-magazines-and-their-allure-embrace-the-digital-eleganceonline-magazines-and-their-allure-1054f786a227): Embrace the digital elegance
-*   [Brute Force Attacks](https://www.linkedin.com/pulse/brute-force-attacks-prevention-mitigation-selvakumaran-krishnan-5b5pc) | Prevention and Mitigation
-*   The art of [finding peace in aloneness](https://medium.com/@selvakumarankrishnan/the-art-of-finding-peace-in-aloneness-0a1f14bc3168).
-*   Exploring [Generative AI in Cybersecurity](https://www.linkedin.com/pulse/exploring-generative-ai-cybersecurity-new-chapter-krishnan-istmc): A New Chapter.
-*   The Ongoing Debate: [Online vs. Offline Businesses](https://medium.com/@selvakumarankrishnan/the-ongoing-debate-online-vs-offline-businesses-e63b46594960)
-
-##### Responses
-
-*   [Museums](https://blog.u-s-history.com/2011/07/museums-of-richmond-virginia.html?commentPage=4) of Richmond Virginia
-*   American History through American Art at the [Metropolitan Museum of Art](https://blog.u-s-history.com/2012/03/image-credit-museum-of-art-if-youre-in.html?commentPage=2)
-*   [World Celebrates 50th Anniversary of Earth Day](https://blog.u-s-history.com/2020/04/world-celebrates-50th-anniversary-of.html?commentPage=2) - The History Behind The Holiday
-*   Florida History: [Everglades](https://blog.u-s-history.com/2020/04/florida-history-everglades.html?commentPage=2)
-*   [Oregon History and Westward Migration](https://blog.u-s-history.com/2020/05/oregon-history-and-westward-migration.html?commentPage=2) - The Beginnings
-*   Breaking the Bread: [A Brief History of Sourdough](https://blog.u-s-history.com/2020/05/breaking-bread-brief-history-of.html?commentPage=3)
-
-#### [62. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
-
-##### Articles / Golang - Community
-
-*   [Firebase GenKit with Gemma using Ollama](https://xavidop.me/firebase/gcp/2024-05-24-firebase-genkit-ollama/) - Firebase project that uses the Gen AI Kit with Gemma using Ollama.
-
-#### [63. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
-
-##### File Management
-
-*   [Xftp 7](https://www.netsarang.com/en/xftp/) - Flexible SFTP/FTP client with advanced features for efficient file transfers. ![paid](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/paid.svg)
-
-##### IDEs
-
-*   [Zed](https://zed.dev) - A high-performance, multiplayer code editor from the creators of Atom. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/zed-industries/zed)
-
-##### Remote Access
-
-*   [AnyDesk](https://anydesk.com/) - Free and lightweight remote access solution for ease of use.
-*   [Moonlight (⭐12k)](https://github.com/moonlight-stream/moonlight-qt) - Open-source GameStream client for Windows, Mac, Linux, and Steam Link. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/moonlight-stream/moonlight-qt)
-*   [Parsec](https://parsec.app/) - High-performance remote desktop solution with 4k streaming at 60fps and low latency.
-*   [RealVNC](https://www.realvnc.com) - Secure remote access for desktop and mobile devices.
-*   [RoyalTSX](https://www.royalapps.com/ts/win/features) - Remote access tool for IT professionals, supporting multiple protocols.
-*   [RustDesk](https://rustdesk.com/) - Open-source remote desktop software with a focus on simplicity and security. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/rustdesk/rustdesk)
-*   [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Play your Steam games across devices using the Steam Link app.
-*   [Sunshine (⭐22k)](https://github.com/LizardByte/Sunshine) - Open-source self-hosted game streaming server for use with Moonlight. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/LizardByte/Sunshine)
-*   [TeamViewer](https://www.teamviewer.com/en) - Popular remote control software for desktop sharing and file transfer.
-
-##### Screenshot
-
-*   [Capter (⭐98)](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/flameshot-org/flameshot)
-*   [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly.
-
-##### System Utilities
-
-*   [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives safely and easily. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/balena-io/etcher)
-*   [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/Rem0o/FanControl.Releases) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
-*   [Nirsoft](https://www.nirsoft.net/utils/index.html) - Collection of utility softwares.
-*   [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness levels of multiple monitors. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/xanderfrangos/twinkle-tray)
-
-##### Virtualization
-
-*   [QEMU](https://www.qemu.org/) - Open-source emulator and virtualizer for hardware and system virtualization.
-*   [Rancher Desktop](https://rancherdesktop.io) - Open-source application for managing containers and Kubernetes on the desktop.
-*   [VirtualBox](http://www.virtualbox.org) - Powerful x86 and AMD64/Intel64 virtualization software for creating and managing virtual machines.
-
-##### Window Management
-
-*   [AltSnap (⭐2.7k)](https://github.com/RamonUnch/AltSnap) -  A lightweight window management tool for snapping windows to predefined positions using keyboard shortcuts. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [FancyZones (⭐114k)](https://github.com/microsoft/PowerToys) - A feature of PowerToys that helps with window snapping and arranging for multi-monitor setups in Windows. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-*   [GlazeWM (⭐7.2k)](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3wm written in Rust. ![oss](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
-
-#### [64. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Reading and Writing Tools / Others
-
-*   [Collate](https://collate.one/get-started) - Free tool to collect, summarize and query PDFs with AI. All offline and free [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/collateai/id6447429913) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Developer Tools / IDEs
-
-*   [BeagleEditor (⭐0)](https://github.com/beaglesoftware/editor) - A "beagleful" editor with features like syntax highlighting, plugins and... - A bit ugly, but it works
-
-##### Developer Tools / Command Line Tools
-
-*   [Ghostty (⭐25k)](https://github.com/ghostty-org/ghostty) - A fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/ghostty-org/ghostty) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Wave (⭐8.4k)](https://github.com/wavetermdev/waveterm) - An open-source terminal that combines traditional terminal features with graphical capabilities like file previews, web browsing, and AI assistance. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wavetermdev/waveterm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Developer Tools / Frameworks For Hybrid Applications
-
-*   [Tauri](https://tauri.app/) - Create small, fast, secure, cross-platform applications [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/tauri-apps/tauri)
-
-##### Design and Product / Design Tools
-
-*   [darktable](https://www.darktable.org) - darktable is an open source photography workflow application and raw developer. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/darktable-org/darktable) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Audio and Video Tools / Audio Record and Process
-
-*   [CapSoftware](https://github.com/CapSoftware/) - An open-source alternative to Loom. Beautiful, shareable screen recording tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/CapSoftware/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Utilities / Menu Bar Tools
-
-*   [DayBar](https://wangchujiang.com/daybar/) - An application that can display the local date and reminder events in the menu bar. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/daybar/6739052447)
-*   [NotchNook](https://lo.cafe/notchnook) - Customizes your Mac's menu bar to seamlessly integrate with the notch design.
-
-#### [65. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
-
-##### Papers / 2025
-
-*   [CALM: Curiosity-Driven Auditing for Large Language Models](https://arxiv.org/abs/2501.02997) - (AAAI) *Auditing as a black-box optimization problem where the goal is to automatically uncover input-output pairs of the target LLMs that exhibit illegal, immoral, or unsafe behaviors.*
-*   [Queries, Representation & Detection: The Next 100 Model Fingerprinting Schemes](https://arxiv.org/abs/2412.13021) - (AAAI) *Divides model fingerprinting into three core components, to identify ∼100 previously unexplored combinations of these and gain insights into their performance.*
-
-##### Related Events / 2025
-
-*   [AAAI workshop on AI Governance: Alignment, Morality, and Law](https://aaai.org/conference/aaai/aaai-25/workshop-list/#ws06)
-
-#### [66. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [m15a/nvim-srcerite (⭐4)](https://github.com/m15a/nvim-srcerite) - A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
-
-##### Utility / Diagnostics
-
-*   [mluders/comfy-line-numbers.nvim (⭐15)](https://github.com/mluders/comfy-line-numbers.nvim) - Limits relative numbers to only show left-hand digits on the keyboard.
-*   [MatanyaP/keyboard-guard.nvim](https://github.com/matandd/keyboard-guard.nvim) - Prevents unintended actions when typing in non-English keyboard layouts.
-
-#### [67. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-##### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [Gurubase](https://gurubase.io/g/angular) - Angular Guru leverages up-to-date information from the Angular documentation, Stack Overflow, and articles across the internet to answer your questions.
-
-##### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [extreme-angular (⭐96)](https://github.com/joematthews/extreme-angular) - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
-
-##### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-van (⭐1)](https://github.com/otodockal/ngx-van) - Tiny replacement for HTML nav element with mobile side nav menu built-in. Good old nav element on desktop, sliding side nav on mobile. No duplication.
-*   [ngx-swipe-menu (⭐1)](https://github.com/charlesschaefer/ngx-swipe-menu) - A component to create "swipe left to 'action'" experiences.
-
-##### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [tableau-ui-angular (⭐1)](https://github.com/serionist/tableau-ui-angular) -  A third-party component library that brings Tableau-style components to Angular.
-
-#### [68. Awesome Godot](/content/godotengine/awesome-godot/README.md)
-
-##### Templates / Godot 4
-
-*   [Takin Godot Template (⭐105)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
-
-#### [69. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
-
-##### Manuals, Ephemera, Papers, and Patents / Manuals
-
-*   [HP-75 Plotter ROM External Reference Specification (1982) (PDF)](https://literature.hpcalc.org/community/hp75-plotter-ers.pdf)
-
-#### [70. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Analytics
-
-*   [Postiz](https://postiz.com) `⚠` - Schedule posts, track the performance of your content, and manage all your social media accounts in one place (Alternative to Buffer, Hootsuite, Sprout Social). ([Source Code (⭐18k)](https://github.com/gitroomhq/postiz-app)) `Apache-2.0` `Docker`
-
-##### Software / Automation
-
-*   [Medusa (⭐1.8k)](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. ([Clients (⭐1.9k)](https://github.com/medusajs/nextjs-starter-medusa)) `GPL-3.0` `Python`
-
-##### Software / Content Management Systems (CMS)
-
-*   [Localess](https://localess.org/home) `⚠` - Powerful translation management and content management system. Manage and translate your website or app content into multiple languages, using AI to translate faster. ([Source Code (⭐45)](https://github.com/Lessify/localess)) `MIT` `Docker`
-
-##### Software / Document Management
-
-*   [Gotenberg](https://gotenberg.dev) - Developer-friendly API to interact with powerful tools like Chromium and LibreOffice for converting numerous document formats (HTML, Markdown, Word, Excel, etc.) into PDF files, and more. ([Source Code (⭐8.4k)](https://github.com/gotenberg/gotenberg), [Clients (⭐128)](https://github.com/gotenberg/awesome-gotenberg)) `MIT` `Docker`
-
-##### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [Digirecord](https://ladigitale.dev/digirecord/) - Record and share audio files (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digirecord)) `AGPL-3.0` `Nodejs/PHP`
-
-##### Software / Games - Administrative Utilities & Control Panels
-
-*   [Minus Games](https://accessory.github.io/minus_games_user_guide) - Sync games and save files across multiple devices. ([Source Code (⭐9)](https://github.com/Accessory/minus_games)) `MIT` `Rust`
-*   [RomM](https://romm.app/) `⚠` - ROM manager for organizing, enriching, and playing retro games, with support for 400+ platforms. ([Demo](https://demo.romm.app/), [Source Code (⭐3k)](https://github.com/rommapp/romm)) `AGPL-3.0` `Docker`
-
-##### Software / Internet of Things (IoT)
-
-*   [LHA (⭐8)](https://github.com/javalikescript/lha) - Light Home Automation application. LHA is fully extensible using Blockly, HTML or Lua. It includes extensions such as ConBee, Philips Hue or Z-Wave JS. `MIT` `Lua`
-
-##### Software / Media Streaming - Multimedia Streaming
-
-*   [ClipBucket](https://clipbucket.fr/) - Start your own video sharing website (YouTube/Netflix Clone) in a matter of minutes. ([Demo](https://demo.clipbucket.oxygenz.fr/), [Source Code (⭐84)](https://github.com/MacWarrior/clipbucket-v5)) `AAL` `Docker/PHP`
-
-##### Software / Miscellaneous
-
-*   [Digicut](https://ladigitale.dev/digicut/) - Cut audio and video files using FFMPEG.wasm (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digicut)) `AGPL-3.0` `Nodejs`
-*   [Digiflashcards](https://ladigitale.dev/digiflashcards/) - An online application to create flashcards (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiflashcards)) `AGPL-3.0` `Nodejs/PHP`
-*   [Digiquiz](https://ladigitale.dev/digiquiz/) - An online application to publish content created with H5P (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiquiz)) `AGPL-3.0` `Nodejs`
-*   [Digiread](https://ladigitale.dev/digiread/) `⚠` - Clean up online pages and articles using Mozilla's Readability (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiread)) `AGPL-3.0` `Nodejs/PHP`
-*   [Digisteps](https://ladigitale.dev/digisteps/) - A simple application for creating online educational paths (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digisteps)) `AGPL-3.0` `Nodejs/PHP`
-
-##### Software / Money, Budgeting & Management
-
-*   [ezbookkeeping](https://ezbookkeeping.mayswind.net/) - A lightweight personal bookkeeping app hosted by yourself. ([Demo](https://ezbookkeeping-demo.mayswind.net/), [Source Code (⭐138)](https://github.com/mayswind/ezbookkeeping)) `MIT` `Go/Docker`
-*   [Mybucks.online](https://mybucks.online) - A secure, browser-based, password-only self-custodial cryptocurrency wallet. ([Demo](https://app.mybucks.online), [Source Code (⭐6)](https://github.com/mybucks-online/app)) `MIT` `Nodejs`
-*   [MyFin (⭐44)](https://github.com/afaneca/myfin) - Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. ([Demo (⭐44)](https://github.com/afaneca/myfin?tab=readme-ov-file#demo-account---try-it-for-yourself), [Clients (⭐28)](https://github.com/afaneca/myfin-android)) `AGPL-3.0` `Nodejs`
-
-##### Software / Pastebins
-
-*   [BinPastes (⭐3)](https://github.com/querwurzel/BinPastes) - Minimal pastebin supporting client-side encryption, fulltext search, one-time messages. Intended for one to few users looking for a simple pastebin deployment. ([Demo](https://paste.wylke.it)) `Apache-2.0` `Java`
-
-##### Software / Self-hosting Solutions
-
-*   [HomeServerHQ](https://www.homeserverhq.com/) - An all-in-one home server infrastructure and installer. Have a fully configured email server, VPN, and public website(s) set up in less than an hour, even behind CGNAT. ([Source Code (⭐7)](https://github.com/homeserverhq/hshq)) `GPL-3.0` `Shell`
-
-##### Software / Software Development - API Management
-
-*   [Opik](https://www.comet.com/site/products/opik/) `⚠` - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle. ([Source Code (⭐4.6k)](https://github.com/comet-ml/opik)) `Apache-2.0` `Docker/Python`
-
-#### [71. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
-
-##### API
-
-*   [Population.NET (⭐29)](https://github.com/Authentic199/Population.NET) - A .NET library allows clients to specify the exact fields they need, reducing unnecessary data transfer by avoiding the retrieval of all fields by default.
-
-##### Artificial Intelligence
-
-*   [LlmTornado (⭐45)](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
-
-##### Logging
-
-*   [AutoLoggerMessage (⭐35)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
-
-##### Tools
-
-*   [FastCloner (⭐31)](https://github.com/lofcz/FastCloner) - Fast deep cloning library for .NET 8+. Zero-config, works out of the box.
-
-#### [72. Awesome Django](/content/wsvincent/awesome-django/README.md)
+#### [70. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ##### Resources / Podcasts
 
@@ -1156,7 +1132,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Baserow](https://gitlab.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
 *   [Django CRM Admin (⭐129)](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
 
-#### [73. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [71. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Authentication and OAuth
 
@@ -1248,7 +1224,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Golang Roma](https://www.meetup.com/golangroma/)
 *   [Golang Torino](https://www.meetup.com/golang-torino/)
 
-#### [74. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+#### [72. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ##### Applications
 
@@ -1268,7 +1244,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [finch (⭐1.3k)](https://github.com/sneako/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
-#### [75. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+#### [73. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ##### Software Development
 
@@ -1282,6 +1258,60 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [The Efficiency Paradox](https://www.youtube.com/watch?v=hGJpez7rvc0) by **Niklas Modig** \[18:48]
 *   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** \[47:53]
+
+#### [74. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Bayesian Modeling / Bayesian Induction
+
+*   [Word learning as Bayesian inference](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0033-295X.114.2.245) - ***Psychological Review***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=5476233692839102256)]. \[[Preprint](https://tallinzen.net/media/readings/xu_tenenbaum_2007.pdf)]. The authors present a Bayesian framework for understanding how adults and children learn the meanings of words. The theory explains how learners can generalize meaningfully from just one or a few positive examples of a novel word's referents, by making rational inductive inferences that integrate prior knowledge about plausible word meanings with the statistical structure of the observed examples. The theory addresses shortcomings of the two best known approaches to modeling word learning, based on deductive hypothesis elimination and associative learning. Three experiments with adults and children test the Bayesian account's predictions in the context of learning words for object categories at multiple levels of a taxonomic hierarchy. Results provide strong support for the Bayesian account over competing accounts, in terms of both quantitative model fits and the ability to explain important qualitative phenomena. Several extensions of the basic theory are discussed, illustrating the broader potential for Bayesian models of word learning.
+*   [How to Grow a Mind: Statistics, Structure, and Abstraction](https://www.science.org/doi/full/10.1126/science.1192788) - ***Science***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=2667398573353002097)]. \[[Preprint](https://cocosci.princeton.edu/tom/papers/growamind.pdf)]. This review describes recent approaches to reverse-engineering human learning and cognitive development and, in parallel, engineering more humanlike machine learning systems. Computational models that perform probabilistic inference over hierarchies of flexibly structured representations can address some of the deepest questions about the nature and origins of human thought: How does abstract knowledge guide learning and reasoning from sparse data? What forms does our knowledge take, across different domains and tasks? And how is that abstract knowledge itself acquired?
+*   [Human-level concept learning through probabilistic program induction](https://www.science.org/doi/full/10.1126/science.aab3050) - ***Science***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=11844685101409624506)]. \[[Preprint](https://ai6034.mit.edu/wiki/images/LakeDec2015.pdf)]. \[[Supplementary Material](https://cims.nyu.edu/~brenden/LakeEtAl2015Science_supp.pdf)]. People learning new concepts can often generalize successfully from just a single example, yet machine learning algorithms typically require tens or hundreds of examples to perform with similar accuracy. People can also use learned concepts in richer ways than conventional algorithms—for action, imagination, and explanation. This work presents a computational model that captures these human learning abilities for a large class of simple visual concepts: handwritten characters from the world’s alphabets. The model represents concepts as simple programs that best explain observed examples under a Bayesian criterion. On a challenging one-shot classification task, the model achieves human-level performance while outperforming recent deep learning approaches.
+*   [Building Machines That Learn and Think Like People](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-like-people/A9535B1D745A0377E16C590E14B94993) - ***Behavioral and Brain Sciences***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=8504723689348856287)]. \[[Preprint](https://leylaroksancaglar.github.io/Caglar_Hanson_2017.pdf)]. Recent progress in artificial intelligence has renewed interest in building systems that learn and think like people. Many advances have come from using deep neural networks trained end-to-end in tasks such as object recognition, video games, and board games, achieving performance that equals or even beats that of humans in some respects. Despite their biological inspiration and performance achievements, these systems differ from human intelligence in crucial ways. The authors review progress in cognitive science suggesting that truly human-like learning and thinking machines will have to reach beyond current engineering trends in both what they learn and how they learn it. Specifically, the authors argue that these machines should (1) build causal models of the world that support explanation and understanding, rather than merely solving pattern recognition problems; (2) ground learning in intuitive theories of physics and psychology to support and enrich the knowledge that is learned; and (3) harness compositionality and learning-to-learn to rapidly acquire and generalize knowledge to new tasks and situations. The authors suggest concrete challenges and promising routes toward these goals that can combine the strengths of recent neural network advances with more structured cognitive models.
+
+##### Bayesian Modeling / Generative Model
+
+*   [Filters, random fields and maximum entropy (FRAME): Towards a unified theory for texture modeling](https://link.springer.com/article/10.1023/A:1007925832420) - ***International Journal of Computer Vision***, 1998. \[[All Versions](https://scholar.google.com/scholar?cluster=11604954524863138240)]. \[[Preprint](https://dash.harvard.edu/bitstream/handle/1/3637117/Mumford_FRAME.pdf?sequence=1)]. This article presents a statistical theory for texture modeling. This theory combines filtering theory and Markov random field modeling through the maximum entropy principle, and interprets and clarifies many previous concepts and methods for texture analysis and synthesis from a unified point of view. The theory characterizes the ensemble of images I with the same texture appearance by a probability distribution f(I) on a random field, and the objective of texture modeling is to make inference about f(I), given a set of observed texture examples.
+*   [Object Perception as Bayesian Inference](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.55.090902.142005) - ***Annual Review of Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=1611451804975333652)]. \[[Preprint](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf)]. We perceive the shapes and material properties of objects quickly and reliably despite the complexity and objective ambiguities of natural images. Typical images are highly complex because they consist of many objects embedded in background clutter. Moreover, the image features of an object are extremely variable and ambiguous owing to the effects of projection, occlusion, background clutter, and illumination. The very success of everyday vision implies neural mechanisms, yet to be understood, that discount irrelevant information and organize ambiguous or noisy local image features into objects and surfaces. Recent work in Bayesian theories of visual perception has shown how complexity may be managed and ambiguity resolved through the task-dependent, probabilistic integration of prior object knowledge with image features.
+*   [A tale of three probabilistic families: Discriminative, descriptive, and generative models](https://www.ams.org/journals/qam/2019-77-02/S0033-569X-2018-01528-5/home.html) - ***Quarterly of Applied Mathematics***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6129609629126793774)]. \[[Preprint](http://www.stat.ucla.edu/~ywu/QAM2018.pdf)]. The pattern theory of Grenander is a mathematical framework where patterns are represented by probability models on random variables of algebraic structures. In this paper, the authors review three families of probability models, namely, the discriminative models, the descriptive models, and the generative models. A discriminative model is in the form of a classifier. It specifies the conditional probability of the class label given the input signal. A descriptive model specifies the probability distribution of the signal, based on an energy function defined on the signal. A generative model assumes that the signal is generated by some latent variables via a transformation. The authors shall review these models within a common framework and explore their connections, and shall also review the recent developments that take advantage of the high approximation capacities of deep neural networks.
+*   [From information scaling of natural images to regimes of statistical models](https://www.jstor.org/stable/43638808?seq=1) - ***Quarterly of Applied Mathematics***, 2008. \[[All Versions](https://scholar.google.com/scholar?cluster=17387130978932998303)]. \[[Preprint](http://www.stat.ucla.edu/~sczhu/papers/Quarterly_final.pdf)].  One fundamental property of natural image data that distinguishes vision from other sensory tasks such as speech recognition is that scale plays a profound role in image formation and interpretation. Specifically, visual objects can appear at a wide range of scales in the images due to the change of viewing distance as well as camera resolution. The same objects appearing at different scales produce different image data with different statistical properties. In particular, this work shows that the entropy rate of the image data changes over scale. Moreover, the inferential uncertainty changes over scale too. The authors call these changes information scaling. They then examine both empirically and theoretically two prominent and yet largely isolated classes of image models, namely, wavelet sparse coding models and Markov random field models. The results indicate that the two classes of models are appropriate for two different entropy regimes: sparse coding targets low entropy regimes, whereas Markov random fields are appropriate for high entropy regimes. Because information scaling connects different entropy regimes, both sparse coding and Markov random fields are necessary for representing natural image data, and information scaling triggers transitions between these two regimes.
+*   [Minimax entropy principle and its application to texture modeling](https://ieeexplore.ieee.org/abstract/document/6796444) - ***Neural Computing***, 1997. \[[All Versions](https://scholar.google.com/scholar?cluster=407872717119429940)]. \[[Preprint](https://www.dam.brown.edu/people/mumford/vision/papers/1997e--MinimaxEntropy-NC.pdf)]. This article proposes a general theory and methodology, called the minimax entropy principle, for building statistical models for images (or signals) in a variety of applications. This principle consists of two parts. The first is the maximum entropy principle for feature binding (or fusion): for a given set of observed feature statistics, a distribution can be built to bind these feature statistics together by maximizing the entropy over all distributions that reproduce them. The second part is the minimum entropy principle for feature selection: among all plausible sets of feature statistics, we choose the set whose maximum entropy distribution has the minimum entropy. Computational and inferential issues in both parts are addressed; in particular, a feature pursuit procedure is proposed for approximately selecting the optimal set of features. The minimax entropy principle is then corrected by considering the sample variation in the observed feature statistics, and an information criterion for feature pursuit is derived. The minimax entropy principle is applied to texture modeling, where a novel Markov random field (MRF) model, called FRAME (filter, random field, and minimax entropy), is derived, and encouraging results are obtained in experiments on a variety of texture images.
+*   [Parameter Expansion for Data Augmentation](https://www.tandfonline.com/doi/abs/10.1080/01621459.1999.10473879) - ***Journal of the American Statistical Association***, 1999. \[[All Versions](https://scholar.google.com/scholar?cluster=15342818142955984734)]. \[[Preprint](http://www.stat.ucla.edu/~ywu/research/papers/PXDA.pdf)]. Viewing the observed data of a statistical model as incomplete and augmenting its missing parts are useful for clarifying concepts and central to the invention of two well-known statistical algorithms: expectation-maximization (EM) and data augmentation. Recently, the authors demonstrated that expanding the parameter space along with augmenting the missing data is useful for accelerating iterative computation in an EM algorithm. The main purpose of this article is to rigorously define a parameter expanded data augmentation (PX-DA) algorithm and to study its theoretical properties. The PX-DA is a special way of using auxiliary variables to accelerate Gibbs sampling algorithms and is closely related to reparameterization techniques.
+
+##### Domain Specific Language / Design Practises
+
+*   [Constraint Representation Towards Precise Data-Driven Storytelling](https://ieeexplore.ieee.org/abstract/document/10766486) - ***VIS-Gen4DS'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=12234019078719898658)]. A position paper on DSL for data-driven storytelling. Data-driven storytelling serves as a crucial bridge for communicating ideas in a persuasive way. However, the manual creation of data stories is a multifaceted, labor-intensive, and case-specific effort, limiting their broader application. As a result, automating the creation of data stories has emerged as a significant research thrust. Despite advances in Artificial Intelligence, the systematic generation of data stories remains challenging due to their hybrid nature: they must frame a perspective based on a seed idea in a top-down manner, similar to traditional storytelling, while coherently grounding insights of given evidence in a bottom-up fashion, akin to data analysis. These dual requirements necessitate precise constraints on the permissible space of a data story. This viewpoint proposes integrating constraints into the data story generation process. Defined upon the hierarchies of interpretation and articulation, constraints shape both narrations and illustrations to align with seed ideas and contextualized evidence. The authors identify the taxonomy and required functionalities of these constraints. Although constraints can be heterogeneous and latent, this position paper explores the potential to represent them in a computation-friendly fashion via Domain-Specific Languages. The authors believe that leveraging constraints will facilitate both artistic and scientific aspects of data story generation.
+
+#### [75. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars-utils (⭐5)](https://github.com/junghoon-son/polars-utils) - Collection of utilities for data exploration and analysis with Polars DataFrames by [@junghoon-son](https://github.com/junghoon-son).
+*   [polars-st (⭐33)](https://github.com/Oreilles/polars-st) - Polars plugin that provides spatial operations on Polars DataFrames, Series and Expressions by [@Oreilles](https://github.com/Oreilles).
+*   [polars-pairing (⭐9)](https://github.com/apcamargo/polars-pairing) - Polars plugin that provides pairing functions that encode two natural numbers into a single natural number, by [@apcamargo](https://github.com/apcamargo).
+*   [polars-bio (⭐3)](https://github.com/biodatageeks/polars-bio) - Polars plugin for large-scale genomic analyses which is easy to use and considerable faster and more scalabe than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
+
+##### Resources / Tutorials & workshops
+
+*   [Polars DataFrame Operations and Optimization Guide](https://app.studyraid.com/en/courses/11455/polars-dataframe-operations-and-optimization-guide) Online free course that teaches the basics of data manipulation operations with Polars by [Studyraid](https://app.studyraid.com/en).
+
+##### Resources / Blog posts
+
+*   [Tutorials about Polars](https://sparkbyexamples.com/category/polars/) - A list of blog posts on Polars topics by [@sparkbyexamples](https://github.com/sparkbyexamples).
+*   [How to Deal With Missing Data in Polars](https://realpython.com/polars-missing-data/) - A post that covers practical techniques for managing missing data with Polars by [Ian Eyre](https://realpython.com/team/ieyre/).
+
+#### [76. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+##### Table of contents
+
+*   **Legend** 🔑:
+    *   `ref`: external URL
+    *   `doc`: archived doc
+    *   `cite`: the source of comments
+    *   `cnt`: number of citations
+    *   `git`: GitHub link
+    *   `x-ref`: Cross reference
+    *   📺: youtube or video
+    *   💡or 🏆: recommendation
 
 ---
 
@@ -1300,8 +1330,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 9. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 48K 📝 01&#x2F;22 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 10. [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K 📝 01&#x2F;22 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 11. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 20K 📝 01&#x2F;24 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
-12. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 72K 📝 01&#x2F;09 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
-13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K 📝 01&#x2F;24 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+12. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K 📝 01&#x2F;24 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+13. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 72K 📝 01&#x2F;09 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 14. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 20K 📝 01&#x2F;22 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
 15. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 19K 📝 01&#x2F;22 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 16. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 19K 📝 01&#x2F;22 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
@@ -1309,36 +1339,36 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 18. [Awesome Privacy](/content/pluja/awesome-privacy/README.md) - ([Source ⭐ 14K 📝 01&#x2F;22 ](https://github.com/pluja/awesome-privacy)) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 19. [Awesome Microservices](/content/mfornos/awesome-microservices/README.md) - ([Source ⭐ 13K 📝 01&#x2F;22 ](https://github.com/mfornos/awesome-microservices)) - A curated list of Microservice Architecture related principles and technologies.
 20. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 9.8K 📝 01&#x2F;24 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
-21. [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K 📝 01&#x2F;22 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-22. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.6K 📝 01&#x2F;24 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+21. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.6K 📝 01&#x2F;24 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+22. [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K 📝 01&#x2F;22 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 23. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 25K 📝 01&#x2F;14 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 24. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 16K 📝 01&#x2F;17 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 25. [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 9.3K 📝 01&#x2F;22 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
 26. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 7.2K 📝 01&#x2F;24 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
 27. [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 15K 📝 01&#x2F;16 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
 28. [Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md) - ([Source ⭐ 6.1K 📝 01&#x2F;24 ](https://github.com/JanVanRyswyck/awesome-talks)) - Awesome online talks and screencasts
-29. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source ⭐ 8.4K 📝 01&#x2F;20 ](https://github.com/davidsonfellipe/awesome-wpo)) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
-30. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 6.5K 📝 01&#x2F;22 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-31. [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source ⭐ 5K 📝 01&#x2F;22 ](https://github.com/AboutRSS/ALL-about-RSS)) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
-32. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 4.4K 📝 01&#x2F;22 ](https://github.com/zoidyzoidzoid/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
-33. [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.3K 📝 01&#x2F;22 ](https://github.com/ipfs/awesome-ipfs)) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
-34. [Awesome Rest](/content/marmelab/awesome-rest/README.md) - ([Source ⭐ 3.7K 📝 01&#x2F;22 ](https://github.com/marmelab/awesome-rest)) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
-35. [Awesome Elm](/content/sporto/awesome-elm/README.md) - ([Source ⭐ 3.6K 📝 01&#x2F;22 ](https://github.com/sporto/awesome-elm)) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
-36. [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 3.6K 📝 01&#x2F;22 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
-37. [Awesome Love2d](/content/love2d-community/awesome-love2d/README.md) - ([Source ⭐ 3.5K 📝 01&#x2F;22 ](https://github.com/love2d-community/awesome-love2d)) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-38. [Awesome Crystal](/content/veelenga/awesome-crystal/README.md) - ([Source ⭐ 3.4K 📝 01&#x2F;22 ](https://github.com/veelenga/awesome-crystal)) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
-39. [Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md) - ([Source ⭐ 3.3K 📝 01&#x2F;22 ](https://github.com/jaredthecoder/awesome-vehicle-security)) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
-40. [Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md) - ([Source ⭐ 17K 📝 01&#x2F;05 ](https://github.com/alexpate/awesome-design-systems)) - 💅🏻 ⚒ A collection of awesome design systems
-41. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 01&#x2F;07 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-42. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.3K 📝 01&#x2F;18 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
-43. [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.9K 📝 01&#x2F;22 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
-44. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K 📝 01&#x2F;22 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
-45. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.7K 📝 01&#x2F;22 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
-46. [Awesome Electronics](/content/kitspace/awesome-electronics/README.md) - ([Source ⭐ 6.1K 📝 01&#x2F;13 ](https://github.com/kitspace/awesome-electronics)) - A curated list of awesome resources for Electronic Engineers and hobbyists
-47. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.7K 📝 01&#x2F;16 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-48. [Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md) - ([Source ⭐ 2.5K 📝 01&#x2F;22 ](https://github.com/ramnes/awesome-mongodb)) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
-49. [Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md) - ([Source ⭐ 8.9K 📝 01&#x2F;09 ](https://github.com/mjhea0/awesome-fastapi)) - A curated list of awesome things related to FastAPI
-50. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 7.9K 📝 01&#x2F;10 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
+29. [Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md) - ([Source ⭐ 6K 📝 01&#x2F;24 ](https://github.com/liuchong/awesome-roadmaps)) - A curated list of roadmaps.
+30. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source ⭐ 8.4K 📝 01&#x2F;20 ](https://github.com/davidsonfellipe/awesome-wpo)) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
+31. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 6.5K 📝 01&#x2F;22 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+32. [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source ⭐ 5K 📝 01&#x2F;22 ](https://github.com/AboutRSS/ALL-about-RSS)) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
+33. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 4.4K 📝 01&#x2F;22 ](https://github.com/zoidyzoidzoid/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
+34. [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.3K 📝 01&#x2F;22 ](https://github.com/ipfs/awesome-ipfs)) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
+35. [Awesome Rest](/content/marmelab/awesome-rest/README.md) - ([Source ⭐ 3.7K 📝 01&#x2F;22 ](https://github.com/marmelab/awesome-rest)) - A collaborative list of great resources about RESTful API architecture, development, test, and performance
+36. [Awesome Elm](/content/sporto/awesome-elm/README.md) - ([Source ⭐ 3.6K 📝 01&#x2F;22 ](https://github.com/sporto/awesome-elm)) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
+37. [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 3.6K 📝 01&#x2F;22 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
+38. [Awesome Love2d](/content/love2d-community/awesome-love2d/README.md) - ([Source ⭐ 3.5K 📝 01&#x2F;22 ](https://github.com/love2d-community/awesome-love2d)) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
+39. [Awesome Crystal](/content/veelenga/awesome-crystal/README.md) - ([Source ⭐ 3.4K 📝 01&#x2F;22 ](https://github.com/veelenga/awesome-crystal)) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
+40. [Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md) - ([Source ⭐ 3.3K 📝 01&#x2F;22 ](https://github.com/jaredthecoder/awesome-vehicle-security)) - 🚗  A curated list of resources for learning about vehicle security and car hacking.
+41. [Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md) - ([Source ⭐ 17K 📝 01&#x2F;05 ](https://github.com/alexpate/awesome-design-systems)) - 💅🏻 ⚒ A collection of awesome design systems
+42. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 13K 📝 01&#x2F;07 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+43. [Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md) - ([Source ⭐ 4.3K 📝 01&#x2F;18 ](https://github.com/mgramin/awesome-db-tools)) - Everything that makes working with databases easier
+44. [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.9K 📝 01&#x2F;22 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
+45. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K 📝 01&#x2F;22 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+46. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.7K 📝 01&#x2F;22 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
+47. [Awesome Electronics](/content/kitspace/awesome-electronics/README.md) - ([Source ⭐ 6.1K 📝 01&#x2F;13 ](https://github.com/kitspace/awesome-electronics)) - A curated list of awesome resources for Electronic Engineers and hobbyists
+48. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.7K 📝 01&#x2F;16 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+49. [Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md) - ([Source ⭐ 2.5K 📝 01&#x2F;22 ](https://github.com/ramnes/awesome-mongodb)) - :leaves: A curated list of awesome MongoDB resources, libraries, tools and applications
+50. [Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md) - ([Source ⭐ 8.9K 📝 01&#x2F;09 ](https://github.com/mjhea0/awesome-fastapi)) - A curated list of awesome things related to FastAPI
 
 ## All Tracked List
 
@@ -1452,7 +1482,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Tensorflow Lite](/content/margaretmz/awesome-tensorflow-lite/README.md) - ([Source ⭐ 960, 📝 22&#x2F;02&#x2F;15 ](https://github.com/margaretmz/awesome-tensorflow-lite)) - An awesome list of TensorFlow Lite models, samples, tutorials, tools and learning resources.
 - [Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md) - ([Source ⭐ 761, 📝 24&#x2F;12&#x2F;02 ](https://github.com/mostafatouny/awesome-theoretical-computer-science)) - The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 - [Awesome Xai](/content/altamiracorp/awesome-xai/README.md) - ([Source ⭐ 54, 📝 21&#x2F;05&#x2F;04 ](https://github.com/altamiracorp/awesome-xai)) - Awesome Explainable AI (XAI) and Interpretable ML Papers and Resources
-- [Computer Science](/content/ossu/computer-science/README.md) - ([Source ⭐ 173K, 📝 21&#x2F;07&#x2F;23 ](https://github.com/ossu/computer-science)) - 🎓 Path to a free self-taught education in Computer Science!
+- [Computer Science](/content/ossu/computer-science/README.md) - ([Source ⭐ 175K, 📝 21&#x2F;07&#x2F;23 ](https://github.com/ossu/computer-science)) - 🎓 Path to a free self-taught education in Computer Science!
 - [Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;10&#x2F;01 ](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)) - machine learning and deep learning tutorials, articles and other resources 
 - [Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md) - ([Source ⭐ 2.1K, 📝 24&#x2F;12&#x2F;27 ](https://github.com/arbox/machine-learning-with-ruby)) - Curated list: Resources for machine learning in Ruby
 - [Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md) - ([Source ⭐ 967, 📝 22&#x2F;08&#x2F;27 ](https://github.com/arbox/nlp-with-ruby)) - Curated List: Practical Natural Language Processing done in Ruby
@@ -1686,7 +1716,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Iot](/content/HQarroum/awesome-iot/README.md) - ([Source ⭐ 3K, 📝 23&#x2F;12&#x2F;26 ](https://github.com/HQarroum/awesome-iot)) - 🤖 A curated list of awesome Internet of Things projects and resources.
 - [Awesome Lidar](/content/szenergy/awesome-lidar/README.md) - ([Source ⭐ 1K, 📝 01&#x2F;20 ](https://github.com/szenergy/awesome-lidar)) - 😎 Awesome LIDAR list. The list includes LIDAR manufacturers, datasets, point cloud-processing algorithms, point cloud frameworks and simulators.
 - [Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md) - ([Source ⭐ 318, 📝 24&#x2F;01&#x2F;17 ](https://github.com/delftopenhardware/awesome-open-hardware)) - 🛠Helpful items for making open source hardware projects.
-- [Awesome Plotters](/content/beardicus/awesome-plotters/README.md) - ([Source ⭐ 1.1K, 📝 01&#x2F;24 ](https://github.com/beardicus/awesome-plotters)) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
+- [Awesome Plotters](/content/beardicus/awesome-plotters/README.md) - ([Source ⭐ 1.2K, 📝 01&#x2F;24 ](https://github.com/beardicus/awesome-plotters)) - A curated list of code and resources for computer-controlled drawing machines and other visual art robots.
 - [Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md) - ([Source ⭐ 2.5K, 📝 23&#x2F;04&#x2F;30 ](https://github.com/protontypes/awesome-robotic-tooling)) - Tooling for professional robotic development in C++ and Python with a touch of ROS, autonomous driving and aerospace.
 - [Awesome Robotics](/content/kiloreux/awesome-robotics/README.md) - ([Source ⭐ 4.2K, 📝 24&#x2F;09&#x2F;23 ](https://github.com/kiloreux/awesome-robotics)) - A list of awesome Robotics resources
 - [Guitarspecs](/content/gitfrage/guitarspecs/README.md) - ([Source ⭐ 197, 📝 20&#x2F;12&#x2F;27 ](https://github.com/gitfrage/guitarspecs)) - Overview of the electric guitar's parts specs
@@ -1716,7 +1746,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md) - ([Source ⭐ 5.4K, 📝 24&#x2F;11&#x2F;19 ](https://github.com/micromata/awesome-javascript-learning)) - A tiny list limited to the best JavaScript Learning Resources
 - [Awesome Product Management](/content/dend/awesome-product-management/README.md) - ([Source ⭐ 1.5K, 📝 24&#x2F;10&#x2F;18 ](https://github.com/dend/awesome-product-management)) - 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 - [Awesome Programming for Kids](/content/HollyAdele/awesome-programming-for-kids/README.md) - ([Source ⭐ 1.1K, 📝 24&#x2F;11&#x2F;15 ](https://github.com/HollyAdele/awesome-programming-for-kids)) - A curated list of resources for teaching kids programming. 
-- [Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md) - ([Source ⭐ 5.1K, 📝 24&#x2F;07&#x2F;09 ](https://github.com/liuchong/awesome-roadmaps)) - A curated list of roadmaps.
+- [Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md) - ([Source ⭐ 6K, 📝 01&#x2F;24 ](https://github.com/liuchong/awesome-roadmaps)) - A curated list of roadmaps.
 - [Awesome Speaking](/content/matteofigus/awesome-speaking/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;11&#x2F;21 ](https://github.com/matteofigus/awesome-speaking)) - Resources about public speaking
 - [Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md) - ([Source ⭐ 579, 📝 16&#x2F;10&#x2F;12 ](https://github.com/lucasviola/awesome-tech-videos)) - :tv: A curated list of tech conferences from youtube, vimeo, etc for us to get inspired ;)
 - [Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md) - ([Source ⭐ 11K, 📝 22&#x2F;06&#x2F;17 ](https://github.com/dive-into-machine-learning/dive-into-machine-learning)) - Free ways to dive into machine learning with Python and Jupyter Notebook. Notebooks, courses, and other links. (First posted in 2016.)
@@ -1936,7 +1966,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md) - ([Source ⭐ 280, 📝 19&#x2F;06&#x2F;29 ](https://github.com/ianstormtaylor/awesome-heroku)) - A curated list of helpful Heroku resources.
 - [Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md) - ([Source ⭐ 4.1K, 📝 22&#x2F;06&#x2F;21 ](https://github.com/frenck/awesome-home-assistant)) - A curated list of amazingly awesome Home Assistant resources.
 - [Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/README.md) - ([Source ⭐ 74, 📝 20&#x2F;09&#x2F;14 ](https://github.com/victorshinya/awesome-ibmcloud)) - A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.
-- [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 379, 📝 01&#x2F;22 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
+- [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 379, 📝 01&#x2F;24 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
 - [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 48K, 📝 01&#x2F;22 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md) - ([Source ⭐ 487, 📝 19&#x2F;09&#x2F;10 ](https://github.com/weblancaster/awesome-IoT-hybrid)) - The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 - [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.3K, 📝 01&#x2F;22 ](https://github.com/ipfs/awesome-ipfs)) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.
@@ -2017,7 +2047,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 665, 📝 24&#x2F;04&#x2F;07 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 31K, 📝 01&#x2F;22 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 803, 📝 01&#x2F;22 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 803, 📝 01&#x2F;24 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
@@ -2085,7 +2115,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 302, 📝 01&#x2F;22 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 302, 📝 01&#x2F;24 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 21K, 📝 24&#x2F;11&#x2F;16 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K, 📝 01&#x2F;22 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 97, 📝 01&#x2F;22 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

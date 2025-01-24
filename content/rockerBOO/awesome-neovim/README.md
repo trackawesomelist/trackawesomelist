@@ -8,9 +8,9 @@ Collections of awesome neovim plugins.
 
 ## [Jan 24, 2025](/content/2025/01/24/README.md)
 
-### Utility / Diagnostics
+### Color / Diagnostics
 
-*   [MatanyaP/keyboard-guard.nvim](https://github.com/matandd/keyboard-guard.nvim) - Prevents unintended actions when typing in non-English keyboard layouts.
+*   [xzbdmw/colorful-menu.nvim (⭐187)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 

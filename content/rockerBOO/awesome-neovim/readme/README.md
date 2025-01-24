@@ -553,6 +553,7 @@ Collections of awesome neovim plugins.
 *   [moyiz/command-and-cursor.nvim (⭐18)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
 *   [rachartier/tiny-devicons-auto-colors.nvim (⭐111)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
 *   [TaDaa/vimade (⭐584)](https://github.com/TaDaa/vimade) - Dim, fade, tint, animate, and customize colors in your windows and buffers.
+*   [xzbdmw/colorful-menu.nvim (⭐187)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
 <!--lint disable double-link -->
 
@@ -972,7 +973,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [dzfrias/arena.nvim (⭐89)](https://github.com/dzfrias/arena.nvim) - A smart (frecency-based) buffer switcher.
 *   [MisanthropicBit/decipher.nvim (⭐35)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
 *   [philosofonusus/ecolog.nvim (⭐109)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
-*   [MatanyaP/keyboard-guard.nvim](https://github.com/matandd/keyboard-guard.nvim) - Prevents unintended actions when typing in non-English keyboard layouts.
 
 ### CSV Files
 
