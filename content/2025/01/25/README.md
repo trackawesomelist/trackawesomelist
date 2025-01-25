@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25, 2025
 
-16 awesome lists updated today.
+19 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -130,7 +130,7 @@
 
 ### Physics
 
-*   [slick (⭐13)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
+*   [slick (⭐14)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
 
 ## [14. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -138,7 +138,52 @@
 
 *   [Takin Godot Template (⭐106)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
-## [15. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [15. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+
+### YouTube Channels
+
+*   [Joy of Code](https://www.youtube.com/@JoyofCodeDev)
+
+### State Libraries
+
+*
+
+### UI Libraries
+
+*   [lomer-ui](https://ui.lomer.dev) - A dead-simple CLI tool to instantly kickstart your components.
+
+### Graphs
+
+*   [svelte-flow](https://svelteflow.dev) - A customizable Svelte component for building node-based editors and interactive diagrams by the creators of React Flow
+
+### Scaffold
+
+*   [template-svelte (⭐53)](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
+
+### HTTP Requests / Form Components
+
+*   [tanstack-svelte-query](https://tanstack.com/query/latest/docs/svelte/overview) - Framework agnostic type-safe query and mutation library for Svelte.
+
+## [16. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Projects Using Vue.js / Open Source
+
+*   [MyIP (⭐7.1k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
+
+### Components & Libraries / UI Components
+
+*   [hy-vue-gantt (⭐4)](https://github.com/Xeyos88/HyVueGantt) - A powerful and flexible Gantt chart component for Vue 3 applications.
+*   [vue-enhanced-check (⭐17)](https://github.com/keiwen/vue-enhancedCheck) - Enhanced checkboxes / radio input + toggle, components for vue 3
+
+### Components & Libraries / UI Utilities
+
+*   [vue-to-counter (⭐0)](https://github.com/siaikin/vue-to-counter) Scroll strings, numbers, dates like a slot machine.
+
+### Components & Libraries / Utilities
+
+*   [tauri-plugin-pinia (⭐26)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri.
+
+## [17. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -152,11 +197,17 @@
 
 *   [ng-simple-sidebar (⭐7)](https://github.com/secanis/ng-simple-sidebar) - A simple Angular component to generate a sidebar with a hamburger menu.
 
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [xzbdmw/colorful-menu.nvim (⭐188)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+*   [xzbdmw/colorful-menu.nvim (⭐189)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+
+## [19. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+
+### Terminal / Terminal UI
+
+*   [lazyjournal (⭐278)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.4k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
 
 ---
 

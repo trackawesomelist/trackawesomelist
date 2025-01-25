@@ -140,7 +140,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-barcode6 (⭐32)](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode (⭐5.6k)](https://github.com/lindell/JsBarcode).
+*   [ngx-barcode6 (⭐33)](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode (⭐5.6k)](https://github.com/lindell/JsBarcode).
 
 ## [Jan 09, 2025](/content/2025/01/09/README.md)
 

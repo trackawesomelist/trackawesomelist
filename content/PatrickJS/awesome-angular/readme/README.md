@@ -713,7 +713,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-katex (⭐3)](https://github.com/pusherman/ngx-katex) - A simple Angular wrapper for [KaTeX (⭐19k)](https://github.com/KaTeX/KaTeX).
 *   [ngx-wagmi (⭐7)](https://github.com/thanhhoa214/ngx-wagmi) - An essential toolkit to connect your Angular app to the blockchain, bringing powerful wallet and contract interactions to your fingertips.
 *   [ngx-chessground (⭐6)](https://github.com/topce/ngx-chessground) - Angular wrapper for [chessground (⭐1.1k)](https://github.com/ornicar/chessground).
-*   [ngx-barcode6 (⭐32)](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode (⭐5.6k)](https://github.com/lindell/JsBarcode).
+*   [ngx-barcode6 (⭐33)](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode (⭐5.6k)](https://github.com/lindell/JsBarcode).
 *   [ngx-viz (⭐1)](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
 
 #### Internationalization
