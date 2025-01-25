@@ -6,7 +6,7 @@ A curated list of roadmaps.
 
 [ Daily / [Weekly](/content/liuchong/awesome-roadmaps/week/README.md) / [Overview](/content/liuchong/awesome-roadmaps/readme/README.md) ]
 
-## [Jan 24, 2025](/content/2025/01/24/README.md)
+## [Jan 25, 2025](/content/2025/01/25/README.md)
 
 ### Mobile Development
 

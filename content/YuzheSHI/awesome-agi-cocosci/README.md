@@ -6,7 +6,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
-## [Jan 24, 2025](/content/2025/01/24/README.md)
+## [Jan 25, 2025](/content/2025/01/25/README.md)
 
 ### Bayesian Modeling / Generative Model
 

@@ -8,6 +8,10 @@ A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
+### Physics
+
+*   [slick (⭐13)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
+
 ### UI
 
 *   [Luis (⭐5)](https://github.com/SiENcE/luis) - LUIS (Love UI System) - A retained Mode UI Framework for LÖVE with Input processing (mouse, keyboard, touch, gamepad),  Layer-, Grid-, State-, Theming-system, UI Editor, 16+ Widgets (for Desktop & Mobile).

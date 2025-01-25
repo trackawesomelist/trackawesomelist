@@ -32,7 +32,7 @@
 
 ### Templates / Godot 4
 
-*   [Takin Godot Template (⭐105)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+*   [Takin Godot Template (⭐106)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
 ## [4. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
@@ -311,6 +311,35 @@
 ### Peripheral Access Crates / NXP
 
 *   [`mcx-pac`](https://github.com/mcx-rs/mcx-pac) Peripheral Access Crate for NXP MCX Series MCUs - [![crates.io](https://img.shields.io/crates/v/mcx-pac.svg)](https://crates.io/crates/mcx-pac)
+
+### Peripheral Access Crates / Raspberry Pi Silicon
+
+*   [`rp235x-pac`](https://crates.io/crates/rp235x-pac) - Peripheral access API for the RP2350 family of dual-core microcontrollers - [![crates.io](https://img.shields.io/crates/v/rp235x-pac.svg)](https://crates.io/crates/rp235x-pac)
+
+### HAL implementation crates / Raspberry Pi Silicon
+
+*   [`rp235x-hal`](https://crates.io/crates/rp235x-hal) - HAL for the RP2350 family of dual-core microcontrollers (used in the Raspberry Pi Pico 2 etc.) - [![crates.io](https://img.shields.io/crates/v/rp235x-hal.svg)](https://crates.io/crates/rp235x-hal)
+
+### Board support crates / Adafruit
+
+*   [`adafruit-feather-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) [![crates.io](https://img.shields.io/crates/v/adafruit-feather-rp2040.svg)](https://crates.io/crates/adafruit-feather-rp2040)
+*   [`adafruit-itsy-bitsy-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the [Adafruit ItsyBitsy RP2040](https://www.adafruit.com/product/4888) [![crates.io](https://img.shields.io/crates/v/adafruit-itsy-bitsy-rp2040.svg)](https://crates.io/crates/adafruit-itsy-bitsy-rp2040)
+*   [`adafruit-kb2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the [Adafruit KB2040](https://www.adafruit.com/product/5302) [![crates.io](https://img.shields.io/crates/v/adafruit-kb2040.svg)](https://crates.io/crates/adafruit-kb2040)
+*   [`adafruit-macropad`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the [Adafruit Macropad](https://www.adafruit.com/product/5128) [![crates.io](https://img.shields.io/crates/v/adafruit-macropad.svg)](https://crates.io/crates/adafruit-macropad)
+*   [`adafruit-qt-py-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the [Adafruit QT Py RP2040](https://www.adafruit.com/product/4900) [![crates.io](https://img.shields.io/crates/v/adafruit-qt-py-rp2040.svg)](https://crates.io/crates/adafruit-qt-py-rp2040)
+
+### Board support crates / Pimoroni
+
+*   [`pimoroni-pico-explorer`](https://github.com/rp-rs/rp-hal-boards) - Board Support for the [Pimoroni Pico Explorer](https://shop.pimoroni.com/products/pico-explorer-base)
+*   [`pimoroni-pico-lipo-16mb`](https://github.com/rp-rs/rp-hal-boards) - Board Support for the [Pimoroni Pico Lipo 16MB](https://shop.pimoroni.com/products/pimoroni-pico-lipo?variant=39335427080275)
+
+### Board support crates / Raspberry Pi
+
+*   [`rp-pico`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the RP2040-based Raspberry Pi Pico.
+
+### Board support crates / Sparkfun
+
+*   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 
 ## [26. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
@@ -801,7 +830,7 @@
 
 ### Logging
 
-*   [AutoLoggerMessage (⭐35)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐36)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ### Tools
 
@@ -1168,6 +1197,10 @@
 
 *   [Terrateam](https://terrateam.io) - GitOps-first Terraform automation with pull request-driven workflows, project isolation via self-hosted runners, and layered runs for ordered operations. Free for up to 3 users.
 
+### Authentication, Authorization, and User Management
+
+*   [Permit.io](https://permit.io) - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.
+
 ### Monitoring
 
 *   [Servervana](https://servervana.com) - Advanced uptime monitoring with support for large projects and teams. Provides HTTP monitoring, Browser based monitoring, DNS monitoring, domain monitoring, status pages and more. The free tier includes 10 HTTP monitors, 1 DNS monitor and one status page.
@@ -1219,6 +1252,10 @@
 
 ## [69. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
+### Physics
+
+*   [slick (⭐13)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
+
 ### UI
 
 *   [Luis (⭐5)](https://github.com/SiENcE/luis) - LUIS (Love UI System) - A retained Mode UI Framework for LÖVE with Input processing (mouse, keyboard, touch, gamepad),  Layer-, Grid-, State-, Theming-system, UI Editor, 16+ Widgets (for Desktop & Mobile).
@@ -1237,7 +1274,7 @@
 
 ### Color / Diagnostics
 
-*   [xzbdmw/colorful-menu.nvim (⭐187)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+*   [xzbdmw/colorful-menu.nvim (⭐188)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -1283,6 +1320,7 @@
 
 *   [ngx-van (⭐1)](https://github.com/otodockal/ngx-van) - Tiny replacement for HTML nav element with mobile side nav menu built-in. Good old nav element on desktop, sliding side nav on mobile. No duplication.
 *   [ngx-swipe-menu (⭐1)](https://github.com/charlesschaefer/ngx-swipe-menu) - A component to create "swipe left to 'action'" experiences.
+*   [ng-simple-sidebar (⭐7)](https://github.com/secanis/ng-simple-sidebar) - A simple Angular component to generate a sidebar with a hamburger menu.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

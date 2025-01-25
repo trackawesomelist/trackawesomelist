@@ -17,6 +17,35 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 *   [`mcx-pac`](https://github.com/mcx-rs/mcx-pac) Peripheral Access Crate for NXP MCX Series MCUs - [![crates.io](https://img.shields.io/crates/v/mcx-pac.svg)](https://crates.io/crates/mcx-pac)
 
+### Peripheral Access Crates / Raspberry Pi Silicon
+
+*   [`rp235x-pac`](https://crates.io/crates/rp235x-pac) - Peripheral access API for the RP2350 family of dual-core microcontrollers - [![crates.io](https://img.shields.io/crates/v/rp235x-pac.svg)](https://crates.io/crates/rp235x-pac)
+
+### HAL implementation crates / Raspberry Pi Silicon
+
+*   [`rp235x-hal`](https://crates.io/crates/rp235x-hal) - HAL for the RP2350 family of dual-core microcontrollers (used in the Raspberry Pi Pico 2 etc.) - [![crates.io](https://img.shields.io/crates/v/rp235x-hal.svg)](https://crates.io/crates/rp235x-hal)
+
+### Board support crates / Adafruit
+
+*   [`adafruit-feather-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) [![crates.io](https://img.shields.io/crates/v/adafruit-feather-rp2040.svg)](https://crates.io/crates/adafruit-feather-rp2040)
+*   [`adafruit-itsy-bitsy-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the [Adafruit ItsyBitsy RP2040](https://www.adafruit.com/product/4888) [![crates.io](https://img.shields.io/crates/v/adafruit-itsy-bitsy-rp2040.svg)](https://crates.io/crates/adafruit-itsy-bitsy-rp2040)
+*   [`adafruit-kb2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the [Adafruit KB2040](https://www.adafruit.com/product/5302) [![crates.io](https://img.shields.io/crates/v/adafruit-kb2040.svg)](https://crates.io/crates/adafruit-kb2040)
+*   [`adafruit-macropad`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the [Adafruit Macropad](https://www.adafruit.com/product/5128) [![crates.io](https://img.shields.io/crates/v/adafruit-macropad.svg)](https://crates.io/crates/adafruit-macropad)
+*   [`adafruit-qt-py-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the [Adafruit QT Py RP2040](https://www.adafruit.com/product/4900) [![crates.io](https://img.shields.io/crates/v/adafruit-qt-py-rp2040.svg)](https://crates.io/crates/adafruit-qt-py-rp2040)
+
+### Board support crates / Pimoroni
+
+*   [`pimoroni-pico-explorer`](https://github.com/rp-rs/rp-hal-boards) - Board Support for the [Pimoroni Pico Explorer](https://shop.pimoroni.com/products/pico-explorer-base)
+*   [`pimoroni-pico-lipo-16mb`](https://github.com/rp-rs/rp-hal-boards) - Board Support for the [Pimoroni Pico Lipo 16MB](https://shop.pimoroni.com/products/pimoroni-pico-lipo?variant=39335427080275)
+
+### Board support crates / Raspberry Pi
+
+*   [`rp-pico`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the RP2040-based Raspberry Pi Pico.
+
+### Board support crates / Sparkfun
+
+*   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
+
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
 ### Panic handling / WIP
@@ -636,11 +665,6 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### Board support crates / Adafruit
 
 *   [`feather-f405`](https://crates.io/crates/feather-f405) - Board support for the [Feather STM32F405 Express](https://www.adafruit.com/product/4382). [![crates.io](https://img.shields.io/crates/v/feather-f405.svg)](https://crates.io/crates/feather-f405)
-*   [`adafruit-feather-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) [![crates.io](https://img.shields.io/crates/v/adafruit-feather-rp2040.svg)](https://crates.io/crates/adafruit-feather-rp2040)
-*   [`adafruit-itsy-bitsy-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit ItsyBitsy RP2040](https://www.adafruit.com/product/4888) [![crates.io](https://img.shields.io/crates/v/adafruit-itsy-bitsy-rp2040.svg)](https://crates.io/crates/adafruit-itsy-bitsy-rp2040)
-*   [`adafruit-kb2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit KB2040](https://www.adafruit.com/product/5302) [![crates.io](https://img.shields.io/crates/v/adafruit-kb2040.svg)](https://crates.io/crates/adafruit-kb2040)
-*   [`adafruit-macropad`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit Macropad](https://www.adafruit.com/product/5128) [![crates.io](https://img.shields.io/crates/v/adafruit-macropad.svg)](https://crates.io/crates/adafruit-macropad)
-*   [`adafruit-qt-py-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit QT Py RP2040](https://www.adafruit.com/product/4900) [![crates.io](https://img.shields.io/crates/v/adafruit-qt-py-rp2040.svg)](https://crates.io/crates/adafruit-qt-py-rp2040)
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -683,19 +707,6 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### HAL implementation crates / Texas Instruments
 
 *   [`tm4c123x-hal`](https://github.com/rust-embedded-community/tm4c-hal/)
-
-### Board support crates / Pimoroni
-
-*   [`pimoroni-pico-explorer`](https://github.com/rp-rs/rp-hal) - Board Support for the [Pimoroni Pico Explorer](https://shop.pimoroni.com/products/pico-explorer-base)
-*   [`pimoroni-pico-lipo-16mb`](https://github.com/rp-rs/rp-hal) - Board Support for the [Pimoroni Pico Lipo 16MB](https://shop.pimoroni.com/products/pimoroni-pico-lipo?variant=39335427080275)
-
-### Board support crates / Raspberry Pi
-
-*   [`rp-pico`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the RP2040-based Raspberry Pi Pico.
-
-### Board support crates / Sparkfun
-
-*   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
