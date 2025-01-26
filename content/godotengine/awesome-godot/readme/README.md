@@ -93,7 +93,7 @@ See [Vivraan/godot-lang-support (⭐331)](https://github.com/Vivraan/godot-lang-
 
 *   [LibreAim (⭐126)](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 *   [open-fpsz](https://gitlab.com/open-fpsz/open-fpsz) - An open-source, fast-paced multiplayer shooter game inspired by Tribes, with jetpacks, skis and vehicles.
-*   [OpenLiberty (⭐207)](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
+*   [OpenLiberty (⭐208)](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 *   [Reia (⭐224)](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
 *   [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
 *   [Tanks of Freedom II (⭐269)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
@@ -151,7 +151,7 @@ See [Vivraan/godot-lang-support (⭐331)](https://github.com/Vivraan/godot-lang-
 
 *   [Godot XR Template (⭐147)](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
 *   [Maaack's Game Template (⭐584)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
-*   [Takin Godot Template (⭐106)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+*   [Takin Godot Template (⭐108)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
 #### Godot 3
 

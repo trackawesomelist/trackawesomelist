@@ -2195,7 +2195,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Bayesian Modeling / Generative Model
 
-*   [Latent Space Factorisation and Manipulation via Matrix Subspace Projection](http://proceedings.mlr.press/v119/li20i.html) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9592355331559392684\&hl=en\&as_sdt=0,5)].
+*   [Latent Space Factorisation and Manipulation via Matrix Subspace Projection](http://proceedings.mlr.press/v119/li20i.html) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9592355331559392684)].
 
 ### Meta-Level Considerations / Meta Learning
 

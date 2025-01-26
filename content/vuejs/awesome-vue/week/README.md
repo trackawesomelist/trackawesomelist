@@ -67,7 +67,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [Unhead (⭐669)](https://github.com/unjs/unhead)
+*   [Unhead (⭐670)](https://github.com/unjs/unhead)
 *   [Official: Vue Teleport](https://vuejs.org/guide/built-ins/teleport)
 
 ### Components & Libraries / Dev Tools
@@ -140,7 +140,7 @@
 
 ### Resources / Examples
 
-*   [umo editor (⭐430)](https://github.com/umodoc/editor) - Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Visit [Playground](https://demo.umodoc.com/editor?lang=en-US) for a fast experience.
+*   [umo editor (⭐432)](https://github.com/umodoc/editor) - Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Visit [Playground](https://demo.umodoc.com/editor?lang=en-US) for a fast experience.
 
 ### Components & Libraries / UI Components
 
@@ -223,7 +223,7 @@
 
 *   [Shadcn UI (⭐5.9k)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui (⭐79k)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue (⭐4.1k)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS (⭐85k)](https://github.com/tailwindlabs/tailwindcss)).
 *   [uni-app (⭐40k)](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
-*   [vue-vben-admin (⭐26k)](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
+*   [vue-vben-admin (⭐27k)](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
 *   [Geeker-Admin (⭐7.5k)](https://github.com/HalseySpicy/Geeker-Admin) - A set of open source backend management framework based on Vue3 + TypeScript + Element Plus. [Live demo](https://admin.spicyboy.cn)
 *   [VitePress (⭐14k)](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 
@@ -405,7 +405,7 @@
 
 *   [tanstack-table (⭐26k)](https://github.com/tanstack/table) - Headless UI for building powerful tables & datagrids.
 *   [@kolirt/vue-modal (⭐15)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
-*   [vue-skia (⭐307)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [vue-skia (⭐308)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [@kolirt/vue-web3-auth (⭐36)](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 
 ### Components & Libraries / Utilities
@@ -432,7 +432,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-use-active-scroll (⭐83)](https://github.com/smastrom/vue-use-active-scroll) - Highlight Vue 3 menu/sidebar links without compromises.
+*   [vue-use-active-scroll (⭐84)](https://github.com/smastrom/vue-use-active-scroll) - Highlight Vue 3 menu/sidebar links without compromises.
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
@@ -630,7 +630,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Snippets.Ninja (⭐113)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
+*   [Snippets.Ninja (⭐114)](https://github.com/dd3v/snippets.ninja) - Progressive web application for code snippet management. Offline first. Open Source. App uses IndexedDB for local storage.
 
 ## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
 
@@ -673,7 +673,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vorms (⭐623)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
+*   [vorms (⭐624)](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 
 ## [Jul 11 - Jul 17, 2022](/content/2022/28/README.md)
 
@@ -1394,7 +1394,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [uiv (⭐941)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
+*   [uiv (⭐942)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
 
 ## [Oct 12 - Oct 18, 2020](/content/2020/41/README.md)
 
@@ -1943,7 +1943,7 @@
 *   [Carvue.js](https://carvuejs.github.io/) - IBM's Carbon Design System for Vue.js
 *   [Osiris UI](https://osiris-ui.github.io/osiris) - :art: A Vue.js 2.0 universal responsive UI component library
 *   [@Carbon/vue (⭐610)](https://github.com/carbon-design-system/carbon-components-vue) - Carbon Design System components from the @carbon team.
-*   [MDBootstrap (⭐956)](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
+*   [MDBootstrap (⭐957)](https://github.com/mdbootstrap/Vue-Bootstrap-with-Material-Design) - Powerful UI toolkit based on the latest Bootstrap 4 and Vue 2.6.10, providing a set of slick, responsive page templates, layouts, components and widgets to rapidly build responsive, mobile-first websites and apps.
 *   [vue-material-adapter (⭐105)](https://github.com/pgbross/vue-material-adapter) - Integration of Material Components for Vue.js which follows the best practices recommended by Google: Using Foundations and Adapters
 *   [PrimeVue](https://primefaces.org/primevue) - The Most Complete UI Component Library for Vue
 *   [CoreUI for Vue.js (⭐618)](https://github.com/coreui/coreui-vue) - CoreUI for Vue.js is a UI Component Library that offers a bunch of cross-browser, responsive, and lightweight Vue.js UI components.
@@ -1968,7 +1968,7 @@
 ### Components & Libraries / UI Layout
 
 *   [vue-grid-layout (⭐7.2k)](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
-*   [vue-masonry (⭐682)](https://github.com/shershen08/vue-masonry) - Vue.js directive for masonry blocks layouting.
+*   [vue-masonry (⭐683)](https://github.com/shershen08/vue-masonry) - Vue.js directive for masonry blocks layouting.
 *   [vue-virtual-scroll-list (⭐4.4k)](https://github.com/tangbc/vue-virtual-scroll-list) - A vue (2.x) component support big data by using virtual scroll list.
 *   [vue-virtual-scroller (⭐9.9k)](https://github.com/Akryum/vue-virtual-scroller) - Component to scroll a large amount of elements efficiently (Vue 2.x).
 *   [dnd-grid (⭐307)](https://github.com/dattn/dnd-grid) - A vuejs grid with draggable and resizable boxes
@@ -2013,7 +2013,7 @@
 *   [flowchart-vue (⭐350)](https://github.com/joyceworks/flowchart-vue) - Flowchart & Flowchart designer component for Vue.js.
 *   [bs-vue-timeline (⭐11)](https://github.com/x10sv/bs-vue-timeline) - An alternative responsive boostrap-vue timeline
 *   [vue-functional-calendar (⭐471)](https://github.com/ManukMinasyan/vue-functional-calendar) - Lightweight, high performance calendar component(Date Picker, Date Range) based on Vue.
-*   [vue-cal (⭐79)](https://github.com/antoniandre/vue-cal) - A Vue JS full calendar, no dependency, no BS. 🤘.
+*   [vue-cal (⭐80)](https://github.com/antoniandre/vue-cal) - A Vue JS full calendar, no dependency, no BS. 🤘.
 *   [vue2-leaflet (⭐2k)](https://github.com/KoRiGaN/Vue2Leaflet) - Vue 2 components for Leaflet maps.
 *   [vue-audio-visual (⭐733)](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.
 *   [vue-h5-audio-controls (⭐10)](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue.
@@ -2063,7 +2063,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-global-events (⭐691)](https://github.com/shentao/vue-global-events/) – A component to handle global events (like shortcuts) using Vue’s event modifiers
+*   [vue-global-events (⭐690)](https://github.com/shentao/vue-global-events/) – A component to handle global events (like shortcuts) using Vue’s event modifiers
 *   [vue-tabevents (⭐33)](https://github.com/Almoullim/vue-tabevents) – Easy communication between other opened tabs
 *   [vue-responsive (⭐99)](https://github.com/reinerBa/Vue-Responsive): Vue.js(2.x) directive to hide/show HTML-elements with the Bootstrap 4, 3 or self defined breakpoints.
 *   [Form Builder (⭐121)](https://github.com/laravel-enso/formbuilder) - Json template based form builder, based on Vue and Laravel.
@@ -2392,7 +2392,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [Thermal](https://thermal.codecarrot.net) - One stop to all Git repository.
-*   [QMK Configurator (⭐718)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
+*   [QMK Configurator (⭐719)](https://github.com/qmk/qmk_configurator) - QMK Firmware Keyboard Configuration UI in Vue.js.
 
 ### Components & Libraries / Frameworks
 
@@ -2415,7 +2415,7 @@
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐678)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐679)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ## [Mar 18 - Mar 24, 2019](/content/2019/11/README.md)
 

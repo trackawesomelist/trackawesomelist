@@ -10,7 +10,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Artificial Intelligence
 
-*   [LlmTornado (⭐45)](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
+*   [LlmTornado (⭐46)](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
 
 ### Logging
 

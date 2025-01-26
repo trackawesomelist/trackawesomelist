@@ -592,7 +592,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ### Software / Vector Utilities
 
-*   [vpype (⭐756)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+*   [vpype (⭐757)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 
 ### Software / Fonts
 

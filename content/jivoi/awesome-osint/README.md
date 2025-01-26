@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Jan 26, 2025](/content/2025/01/26/README.md)
+
+### DNS / Steam
+
+*   [Columbus Project (⭐29)](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
+
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
 ### Image Analysis / Steam
@@ -251,10 +257,6 @@
 ### Domain and IP Research / Steam
 
 *   [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
-
-### DNS / Steam
-
-*   [Columbus Project](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
 ## [Jul 21, 2023](/content/2023/07/21/README.md)
 
@@ -749,12 +751,6 @@
 ### Username Check / Steam
 
 *   [IDCrawl](https://www.idcrawl.com/username) - Search for a username in popular social networks.
-
-## [Nov 15, 2021](/content/2021/11/15/README.md)
-
-### Social Media Tools / Twitter
-
-*   [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
 
 ## [Nov 12, 2021](/content/2021/11/12/README.md)
 

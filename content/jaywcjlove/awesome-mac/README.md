@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Jan 26, 2025](/content/2025/01/26/README.md)
+
+### Utilities / Productivity
+
+*   [Launchy](https://apple.co/3PLI2AH) - An app launcher and switcher that utilizes a radial menu.
+
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
 ### Reading and Writing Tools / Others
@@ -2362,7 +2368,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [nushell (⭐33k)](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [nushell (⭐34k)](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Aug 28, 2019](/content/2019/08/28/README.md)
 

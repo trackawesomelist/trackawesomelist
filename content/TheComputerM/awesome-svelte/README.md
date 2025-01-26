@@ -157,11 +157,11 @@
 
 ### UI Libraries
 
-*   [Svelte UX (⭐871)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
+*   [Svelte UX (⭐872)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
 
 ### Charts
 
-*   [LayerChart (⭐723)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+*   [LayerChart (⭐724)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ## [Apr 18, 2024](/content/2024/04/18/README.md)
 
@@ -339,7 +339,7 @@
 
 ### UI Libraries
 
-*   [ionic-svelte (⭐785)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+*   [ionic-svelte (⭐792)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## [Jun 25, 2022](/content/2022/06/25/README.md)
 

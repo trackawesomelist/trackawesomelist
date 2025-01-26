@@ -315,7 +315,6 @@ Thanks to our main contributors
 *   [RiteTag](https://ritetag.com)
 *   [Sentiment140](http://www.twittersentiment.appspot.com)
 *   [Tagdef](https://tagdef.com)
-*   [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
 *   [Trends24](http://trends24.in)
 *   [TwChat](http://twchat.com)
 *   [TweetDeck](https://www.tweetdeck.com)
@@ -1339,7 +1338,7 @@ Thanks to our main contributors
 ## [↑](#-table-of-contents) DNS
 
 *   [Amass (⭐12k)](https://github.com/owasp-amass/amass) - The amass tool searches Internet data sources, performs brute force subdomain enumeration, searches web archives, and uses machine learning to generate additional subdomain name guesses. DNS name resolution is performed across many public servers so the authoritative server will see the traffic coming from different locations. Written in Go.
-*   [Columbus Project](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
+*   [Columbus Project (⭐29)](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 *   [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
 *   [Merklemap](https://www.merklemap.com/) - Discover and enumerate all subdomains associated with a website, including those not publicly advertised. Works by ingesting certificate transparency logs.
 

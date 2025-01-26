@@ -12,6 +12,10 @@
 
 *   [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
 
+### DNS / Steam
+
+*   [Columbus Project (⭐29)](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
+
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
 ### Email Search / Email Check / Steam
@@ -251,10 +255,6 @@
 ### Domain and IP Research / Steam
 
 *   [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
-
-### DNS / Steam
-
-*   [Columbus Project](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
@@ -706,10 +706,6 @@
 ### Real-Time Search, Social Media Search, and General Social Media Tools
 
 *   [IDCrawl](https://www.idcrawl.com/) - Search for a name in popular social networks.
-
-### Social Media Tools / Twitter
-
-*   [Trends Predictions](https://trendspredictions.com/) - A tool for discovering new trending topics.
 
 ### Social Media Tools / Telegram
 

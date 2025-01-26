@@ -38,6 +38,10 @@
 *   [DayBar](https://wangchujiang.com/daybar/) - An application that can display the local date and reminder events in the menu bar. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/daybar/6739052447)
 *   [NotchNook](https://lo.cafe/notchnook) - Customizes your Mac's menu bar to seamlessly integrate with the notch design.
 
+### Utilities / Productivity
+
+*   [Launchy](https://apple.co/3PLI2AH) - An app launcher and switcher that utilizes a radial menu.
+
 ## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
 
 ### Utilities / Productivity
@@ -2137,7 +2141,7 @@
 
 ### Developer Tools / Command Line Tools
 
-*   [nushell (⭐33k)](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [nushell (⭐34k)](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Aug 19 - Aug 25, 2019](/content/2019/33/README.md)
 

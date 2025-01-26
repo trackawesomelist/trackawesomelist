@@ -336,7 +336,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐31k
 *   [oscap-docker (⭐1.4k)](https://github.com/OpenSCAP/openscap) - OpenSCAP provides oscap-docker tool which is used to scan Docker containers and images. By [OpenSCAP](https://github.com/OpenSCAP)
 *   [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) :heavy\_dollar\_sign: - (previously Twistlock Security Suite) detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.
 *   [Syft (⭐6.5k)](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
-*   [Sysdig Falco (⭐7.5k)](https://github.com/falcosecurity/falco) - Sysdig Falco is an open source container security monitor. It can monitor application, container, host, and network activity and alert on unauthorized activity.
+*   [Sysdig Falco (⭐7.6k)](https://github.com/falcosecurity/falco) - Sysdig Falco is an open source container security monitor. It can monitor application, container, host, and network activity and alert on unauthorized activity.
 *   [Sysdig Secure](https://sysdig.com/solutions/cloud-threat-detection-and-response/) :heavy\_dollar\_sign: - Sysdig Secure addresses run-time security through behavioral monitoring and defense, and provides deep forensics based on open source Sysdig for incident response.
 *   [Trend Micro DeepSecurity](https://www.trendmicro.com/en_us/business/products/hybrid-cloud/deep-security.html) :heavy\_dollar\_sign: - Trend Micro DeepSecurity offers runtime protection for container workloads and hosts as well as preruntime scanning of images to identify vulnerabilities, malware and content such as hardcoded secrets.
 *   [Trivy (⭐24k)](https://github.com/aquasecurity/trivy) - Aqua Security's open source simple and comprehensive vulnerability scanner for containers (suitable for CI).
@@ -383,7 +383,7 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 *   [DockStation (⭐2.2k)](https://github.com/DockStation/dockstation) - A developer centric UI to configure, monitor, and manage services and containers [@dock\_station](https://twitter.com/dock_station)
 *   [Lifeboat (⭐186)](https://github.com/jplhomer/lifeboat) - An easy way to launch Docker projects with a graphical interface on your Mac. [@jplhomer](https://github.com/jplhomer)
 *   [Simple Docker UI (⭐600)](https://github.com/felixgborrego/simple-docker-ui) - built on Electron. By [@felixgborrego](https://github.com/felixgborrego/)
-*   [Stevedore (⭐310)](https://github.com/slonopotamus/stevedore) - Good Docker Desktop replacement for Windows. Both Linux and Windows Containers are supported. [@slonopotamus](https://github.com/slonopotamus)
+*   [Stevedore (⭐311)](https://github.com/slonopotamus/stevedore) - Good Docker Desktop replacement for Windows. Both Linux and Windows Containers are supported. [@slonopotamus](https://github.com/slonopotamus)
 
 #### Terminal
 
@@ -400,7 +400,7 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 *   [dry (⭐3.1k)](https://github.com/moncho/dry) - An interactive CLI for Docker containers by [@moncho](https://github.com/moncho)
 *   [goManageDocker (⭐566)](https://github.com/ajayd-san/gomanagedocker) - TUI tool to view and manage your docker objects blazingly fast with sensible keybindings, also supports VIM navigation out of the box by [@ajay-dsan](https://github.com/ajayd-san)
 *   [lazydocker (⭐41k)](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By [@jesseduffield](https://github.com/jesseduffield)
-*   [lazyjournal (⭐279)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.4k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
+*   [lazyjournal (⭐280)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.4k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
 *   [oxker (⭐778)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://www.rust-lang.org/), making heavy use of [ratatui (⭐12k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐957)](https://github.com/fussybeaver/bollard), by [@mrjackwills](https://github.com/mrjackwills)
 *   [sen (⭐1k)](https://github.com/TomasTomecek/sen) - :skull: Terminal user interface for docker engine, by [@TomasTomecek][tomastomecek]
 
@@ -437,7 +437,7 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 
 #### Web
 
-*   [Admiral (⭐255)](https://github.com/vmware/admiral) Admiral™ is a highly scalable and very lightweight Container Management platform for deploying and managing container based applications. By [VMWare][vmware]
+*   [Admiral (⭐256)](https://github.com/vmware/admiral) Admiral™ is a highly scalable and very lightweight Container Management platform for deploying and managing container based applications. By [VMWare][vmware]
 *   [CASA (⭐79)](https://github.com/knrdl/casa) - Outsource the administration of a handful of containers to your co-workers, by [@knrdl](https://github.com/knrdl)
 *   [Container Web TTY (⭐252)](https://github.com/wrfly/container-web-tty) - Connect your containers via a web-tty [@wrfly](https://github.com/wrfly)
 *   [dockemon (⭐714)](https://github.com/ProductiveOps/dokemon) - Docker Container Management GUI by [@productiveops](https://github.com/ProductiveOps)
@@ -449,7 +449,7 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 *   [docker-swarm-visualizer (⭐3.3k)](https://github.com/dockersamples/docker-swarm-visualizer) - Visualizes Docker services on a Docker Swarm (for running demos).
 *   [dockering-on-rails (⭐24)](https://github.com/Electrofenster/dockerding-on-rails) :skull: - Simple Web-Interface for Docker with a lot of features by [@Electrofenster](https://github.com/Electrofenster/)
 *   [DockerSurfer (⭐8)](https://github.com/Simone-Erba/DockerSurfer) :skull: - A web service for analyze and browse dependencies between Docker images in the Docker registry, by [@Simone-Erba](https://github.com/Simone-Erba/)
-*   [dockge (⭐14k)](https://github.com/louislam/dockge) - easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager by [@louislam](https://github.com/louislam).
+*   [dockge (⭐15k)](https://github.com/louislam/dockge) - easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager by [@louislam](https://github.com/louislam).
 *   [Komodo (⭐2.3k)](https://github.com/mbecker20/komodo) - A tool to build and deploy software on many servers
 *   [Kubevious (⭐1.6k)](https://github.com/kubevious/kubevious) - A highly visual web UI for Kubernetes which renders configuration and state in an application centric way by [@rubenhak](https://github.com/rubenhak).
 *   [Mafl (⭐409)](https://github.com/hywax/mafl) - Minimalistic flexible homepage by [@hywax](https://github.com/hywax/)
@@ -500,7 +500,7 @@ Applications designed to help or simplify building **new** images
 *   [container-factory (⭐62)](https://github.com/mutable/container-factory) - Produces Docker images from tarballs of application source code by [@mutable](https://github.com/mutable)
 *   [copy-docker-image (⭐37)](https://github.com/mdlavin/copy-docker-image) - Copy a Docker image between registries without a full Docker installation by [@mdlavin](https://github.com/mdlavin)
 *   [Derrick (⭐690)](https://github.com/alibaba/derrick) - A tool help you to automate the generation of Dockerfile and dockerize application by scanning the code. By [@alibaba](https://github.com/alibaba).
-*   [dlayer (⭐403)](https://github.com/orisano/dlayer) - docker layer analyzer by [@orisano](https://github.com/orisano)
+*   [dlayer (⭐404)](https://github.com/orisano/dlayer) - docker layer analyzer by [@orisano](https://github.com/orisano)
 *   [docker-companion (⭐44)](https://github.com/mudler/docker-companion) - A command line tool written in Golang to squash and unpack docker images by [@mudler](https://github.com/mudler/)
 *   [docker-make (⭐98)](https://github.com/CtripCloud/docker-make) - Build, tag,and push a bunch of related docker images via a single command.
 *   [docker-replay (⭐203)](https://github.com/bcicen/docker-replay) - Generate `docker run`command and options from running containers. By [bcicen](https://github.com/bcicen)
@@ -530,7 +530,7 @@ Applications designed to help or simplify building **new** images
 *   [chaperone-docker (⭐64)](https://github.com/garywiz/chaperone-docker) - A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.
 *   [Dockerfile Generator (⭐174)](https://github.com/ozankasikci/dockerfile-generator) `dfg` is both a Go library and an executable that produces valid Dockerfiles using various input channels.
 *   [Dockerfile Project](https://dockerfile.github.io/) - Trusted Automated Docker Builds. Dockerfile Project maintains a central repository of Dockerfile for various popular open source software services runnable on a Docker container.
-*   [dockerfilegraph (⭐165)](https://github.com/patrickhoefler/dockerfilegraph) - Visualize your multi-stage Dockerfiles. By [@PatrickHoefler](https://github.com/patrickhoefler)
+*   [dockerfilegraph (⭐166)](https://github.com/patrickhoefler/dockerfilegraph) - Visualize your multi-stage Dockerfiles. By [@PatrickHoefler](https://github.com/patrickhoefler)
 *   [Dockershelf (⭐87)](https://github.com/Dockershelf/dockershelf) - A repository that serves as a collector for docker recipes that are universal, efficient and slim. Images are updated, tested and published daily via a Travis cron job. Maintained by [@CollageLabs](https://github.com/CollageLabs).
 *   [dockmoor (⭐19)](https://github.com/MeneDev/dockmoor) :construction: - Manage docker image references and help to create reproducible builds with Docker. By [@MeneDev](https://github.com/MeneDev)
 *   [Vektorcloud](https://github.com/vektorcloud) - A collection of minimal, Alpine-based Docker images
@@ -633,7 +633,7 @@ Services to securely store your Docker images.
 *   [Microservices Continuous Deployment (⭐142)](https://github.com/francescou/docker-continuous-deployment) - Continuous deployment of a microservices application.
 *   [mu (⭐971)](https://github.com/stelligent/mu) - Tool to configure CI/CD of your container applications via AWS CodePipeline, CodeBuild and ECS [@Stelligent](https://github.com/stelligent)
 *   [Ouroboros (⭐1.6k)](https://github.com/pyouroboros/ouroboros) :skull: - Automatically update running Docker containers with notifications
-*   [Popper (⭐302)](https://github.com/systemslab/popper) - Github actions workflow (HCL syntax) execution engine.
+*   [Popper (⭐303)](https://github.com/systemslab/popper) - Github actions workflow (HCL syntax) execution engine.
 *   [Screwdriver :heavy\_dollar\_sign:](https://screwdriver.cd/) - Yahoo's OpenSource buildplatform designed for Continous Delivery.
 *   [Skipper (⭐46)](https://github.com/Stratoscale/skipper) - Easily dockerize your Git repository by [@Stratoscale](https://github.com/Stratoscale)
 *   [SwarmCI (⭐57)](https://github.com/ghostsquad/swarmci) - Create a distributed, isolated task pipeline in your Docker Swarm.

@@ -1757,7 +1757,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Bayesian Modeling / Generative Model
 
 *   [Cooperative Training of Descriptor and Generator Networks](https://ieeexplore.ieee.org/ielaam/34/8922815/8519332-aam.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=18202808849093155435\&hl=en\&as_sdt=0,5)].
-*   [Latent Space Factorisation and Manipulation via Matrix Subspace Projection](http://proceedings.mlr.press/v119/li20i.html) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9592355331559392684\&hl=en\&as_sdt=0,5)].
+*   [Latent Space Factorisation and Manipulation via Matrix Subspace Projection](http://proceedings.mlr.press/v119/li20i.html) - ***ICML'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=9592355331559392684)].
 
 ### Complexity & Information Theory / Visual Complexity
 

@@ -1238,7 +1238,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-enhancy-forms (⭐4)](https://github.com/klippa-app/ngx-enhancy-forms) - Fancy enhanced angular forms.
 *   [ngx-forms-core (⭐1)](https://github.com/Juulsgaard/ngx-forms-core) - This library provides strictly typed versions of the Angular form system. The classes extend the Angular form system and provide several tools to improve type strictness.
 *   [ngx-focus-entities (⭐2)](https://github.com/klee-contrib/ngx-focus-entities) - Library for generating reactive Angular forms from a Focus4 representation generated with [TopModel (⭐11)](https://github.com/klee-contrib/topmodel).
-*   [@TanStack/form (⭐3.9k)](https://github.com/TanStack/form) - Designed with first-class TypeScript support, headless UI components, and a framework-agnostic design, it streamlines form handling and ensures a seamless experience across various front-end frameworks.
+*   [@TanStack/form (⭐4k)](https://github.com/TanStack/form) - Designed with first-class TypeScript support, headless UI components, and a framework-agnostic design, it streamlines form handling and ensures a seamless experience across various front-end frameworks.
 *   [@luistabotelho/angular-signal-forms (⭐1)](https://github.com/luistabotelho/angular-signal-forms) - Simple Angular library to implement forms with signals.
 *   [ngx-form-object (⭐6)](https://github.com/infinum/ngx-form-object) - ngx-form-object is an abstraction on top of Angular's reactive forms. It generates a form from a given model and automatically handles creation of nested forms (HasOne and HasMany model relationships).
 *   [reactive-form-extensions](https://gitlab.com/Riuen/reactive-form-extensions) - This project improves Angular's ReactiveForms with useful features like trimming inputs, showing error messages, and changing CSS classes based on validation rules, all without extra dependencies and with less code.
@@ -1339,7 +1339,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-advanced-img (⭐1)](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
 *   [ngx-unsplash (⭐4)](https://github.com/BerryCloud/ngx-unsplash) - Angular service for proxied [Unsplash API](https://unsplash.com/developers).
 *   [ngx-img-cropper (⭐193)](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.
-*   [ngx-smart-cropper (⭐3)](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
+*   [ngx-smart-cropper (⭐4)](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
 *   [ngx-annotorious (⭐1)](https://github.com/vedph/ngx-annotorious) - Angular wrapper for [Annotorious V3](https://annotorious.dev/), a library that adds annotations to images.
 *   [ngx-easy-image-drawing (⭐2)](https://github.com/PsySanchez/ngx-easy-image-drawing) - Angular library for easy image drawing on a canvas.
 *   [ngx-blurhash-render (⭐3)](https://github.com/Mohid123/ngx-blurhash-render) - Lighweight library that renders the blurhash of a provided image. For Angular 15+. Requires [blurhash](https://www.npmjs.com/package/blurhash) as a dependency.
@@ -1409,7 +1409,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [@Xilerth/ngx-logger (⭐1)](https://github.com/Xilerth/ngx-logger) - This library empowers developers to seamlessly integrate custom logging solutions tailored to their specific requirements, enabling efficient debugging, monitoring, and analytics.
 *   [pretty-html-log (⭐39)](https://github.com/angular-extensions/pretty-html-log) - A module that allows you to pretty print the inner HTML of ComponentFixtures, DebugElements, NativeElements or even plain HTML strings to the console. This is very useful for debugging Angular component tests in Jest.
 *   [log4ngx (⭐1)](https://github.com/secondbounce/log4ngx) - A Typescript logging framework for Angular projects, based on concepts used in Log4j, Log4net, etc.
-*   [ngx-wlog (⭐1)](https://github.com/w5g-wywiwyg/ngx-wlog) - A logger for Angular applications, drawing inspiration from the .NET [NLog](https://nlog-project.org/).
+*   [ngx-wlog (⭐2)](https://github.com/w5g-wywiwyg/ngx-wlog) - A logger for Angular applications, drawing inspiration from the .NET [NLog](https://nlog-project.org/).
 
 #### Maps
 
