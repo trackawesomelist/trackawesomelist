@@ -6,7 +6,7 @@ A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 [ Daily / [Weekly](/content/love2d-community/awesome-love2d/week/README.md) / [Overview](/content/love2d-community/awesome-love2d/readme/README.md) ]
 
-## [Jan 25, 2025](/content/2025/01/25/README.md)
+## [Jan 26, 2025](/content/2025/01/26/README.md)
 
 ### Physics
 

@@ -6,7 +6,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ Daily / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
-## [Jan 25, 2025](/content/2025/01/25/README.md)
+## [Jan 26, 2025](/content/2025/01/26/README.md)
 
 ### Artificial Intelligence
 
@@ -1046,7 +1046,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Testing
 
-*   [ArchUnitNET (⭐974)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
+*   [ArchUnitNET (⭐975)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
 *   [Snapshooter (⭐307)](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
 
 ## [Oct 02, 2020](/content/2020/10/02/README.md)

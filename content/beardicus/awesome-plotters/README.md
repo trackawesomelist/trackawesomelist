@@ -6,7 +6,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
-## [Jan 25, 2025](/content/2025/01/25/README.md)
+## [Jan 26, 2025](/content/2025/01/26/README.md)
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 
@@ -592,7 +592,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ### Software / Vector Utilities
 
-*   [vpype (⭐755)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+*   [vpype (⭐756)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 
 ### Software / Fonts
 

@@ -602,7 +602,7 @@
 *   [Savycart (⭐51)](https://github.com/itsalb3rt/savycart-app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 *   [Afterman (⭐49)](https://github.com/itsalb3rt/afterman) - 🌕 Create beautiful docs in markdown and HTML from postman collection. Using Quasar Framework
 *   [LogChimp (⭐759)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
-*   [Yacht (⭐3.5k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
+*   [Yacht (⭐3.6k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
 *   [Antares SQL (⭐2k)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 *   [Bagisto (⭐16k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 *   [GrandNode 2.0 (⭐1.1k)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
@@ -624,6 +624,7 @@
 *   [YesPlayMusic (⭐30k)](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
 *   [douyin (⭐10k)](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
 *   [MyIP (⭐7.1k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
+*   [fylepad (⭐90)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
 
 ### Commercial Products
 
@@ -864,7 +865,7 @@
 *   [vue-axe (⭐189)](https://github.com/vue-a11y/vue-axe) - Accessibility auditing for Vue.js applications.
 *   [vue-announcer (⭐233)](https://github.com/vue-a11y/vue-announcer) - A simple way with Vue to announce any useful information for screen readers.
 *   [vue-focus-lock (⭐139)](https://github.com/theKashey/vue-focus-lock) - It is a trap! A lock for a Focus. A11y util for scoping a focus.
-*   [eslint-plugin-vuejs-accessibility (⭐261)](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - Vue.js accessibility eslint-plugin managed by @vue-a11y .
+*   [eslint-plugin-vuejs-accessibility (⭐262)](https://github.com/vue-a11y/eslint-plugin-vuejs-accessibility) - Vue.js accessibility eslint-plugin managed by @vue-a11y .
 
 ## Components & Libraries
 
@@ -1045,7 +1046,7 @@
 *   [VueToastify (⭐231)](https://github.com/nandi95/vue-toastify) - A fuss free notification component.
 *   [@kyvg/vue3-notification (⭐384)](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
 *   [vue-global-alert-utility (⭐0)](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible.
-*   [notivue (⭐783)](https://github.com/smastrom/notivue) - Fully-featured notification system for Vue 3 and Nuxt 3.
+*   [notivue (⭐784)](https://github.com/smastrom/notivue) - Fully-featured notification system for Vue 3 and Nuxt 3.
 
 #### Loader
 
@@ -1092,10 +1093,10 @@ Tooltips / popovers
 
 *   [vue-material-design-icons (⭐166)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
 *   [vue-fontawesome (⭐2.4k)](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
-*   [vue-country-flag (⭐173)](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
+*   [vue-country-flag (⭐174)](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
 *   [vue-fa (⭐23)](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
 *   [vue-icomoon (⭐29)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
-*   [vue-icons (⭐56)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
+*   [vue-icons (⭐57)](https://github.com/kalimah-apps/vue-icons) - More than 11,000 icons from most popular icon libraries (bootstrap, fontawesome, feather .. etc)
 
 #### Marquee
 
@@ -1108,7 +1109,7 @@ Tooltips / popovers
 *   [vue-navigation-bar (⭐189)](https://github.com/johndatserakis/vue-navigation-bar) - A simple, pretty navbar for your Vue projects.
 *   [vue-file-toolbar-menu (⭐149)](https://github.com/motla/vue-file-toolbar-menu) - UI file/toolbar menus for Vue apps
 *   [v-dropdown-menu (⭐32)](https://github.com/RadKod/v-dropdown-menu) - Customizable dropdown menu plugin for vuejs. SSR supported.
-*   [vue-bottom-sheet (⭐217)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
+*   [vue-bottom-sheet (⭐218)](https://github.com/webzlodimir/vue-bottom-sheet) - A swipeable bottom sheet component for Vue.js created with Hammer.js
 *   [vue-awesome-sidebar (⭐52)](https://github.com/amirkian007/vue-awesome-sidebar) - A modern and fast sidebar menu component for vue(3x) capable with vue-router.
 *   [vue-use-fixed-header (⭐61)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
 *   [navpress (⭐1)](https://github.com/aaronlamz/navpress) - NavPress is a CLI tool for generating static navigation websites. It allows you to quickly build a navigation site through a configuration file.
@@ -1167,7 +1168,7 @@ Tooltips / popovers
 
 *   [vue-audio-visual (⭐733)](https://github.com/staskobzar/vue-audio-visual) - Vue HTML5 audio visualization components.
 *   [vue-h5-audio-controls (⭐10)](https://github.com/cycjimmy/vue-h5-audio-controls) - A simple h5 music controller for Vue.
-*   [vue-use-sound (⭐509)](https://github.com/vueuse/sound) - A Vue Hook for playing sound effects.
+*   [vue-use-sound (⭐510)](https://github.com/vueuse/sound) - A Vue Hook for playing sound effects.
 *   [Vue-Player (⭐3)](https://github.com/display-design-studio/vue-player) - Lightweight, customizable, and easy-to-implement vue video player.
 
 #### Infinite Scroll
@@ -1187,7 +1188,7 @@ Tooltips / popovers
 #### Tree
 
 *   [sl-vue-tree (⭐345)](https://github.com/holiber/sl-vue-tree) - A simple customizable draggable tree component for Vue.js
-*   [vue-finder (⭐160)](https://github.com/jledentu/vue-finder) - A component to display hierarchical data, with selection, filtering and drag & drop
+*   [vue-finder (⭐161)](https://github.com/jledentu/vue-finder) - A component to display hierarchical data, with selection, filtering and drag & drop
 *   [object-visualizer (⭐224)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
 
 #### Graph
@@ -1216,8 +1217,8 @@ Tooltips / popovers
 
 #### Miscellaneous
 
-*   [vue-kanban (⭐809)](https://github.com/BrockReece/vue-kanban) - A flexible drag and drop kanban board component
-*   [v-offline (⭐373)](https://github.com/vinayakkulkarni/v-offline) - Simple, tiny and easy to use detection of offline & online events for your Vue app (less than 390b minified)
+*   [vue-kanban (⭐810)](https://github.com/BrockReece/vue-kanban) - A flexible drag and drop kanban board component
+*   [v-offline (⭐374)](https://github.com/vinayakkulkarni/v-offline) - Simple, tiny and easy to use detection of offline & online events for your Vue app (less than 390b minified)
 *   [vue-connection-listener (⭐89)](https://github.com/Botre/vue-connection-listener) - Vue event bus plugin listening for online/offline changes.
 *   [vue-prom (⭐145)](https://github.com/Botre/vue-prom) - Vue promise wrapper component.
 *   [vue-identify-network (⭐68)](https://github.com/vinayakkulkarni/vue-identify-network) - ⚡️Identify what kinda internet your users are using!
@@ -1241,7 +1242,7 @@ Tooltips / popovers
 #### Tabs
 
 *   [vue-lumino (⭐86)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
-*   [vue3-tabs-chrome (⭐103)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
+*   [vue3-tabs-chrome (⭐104)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
 
 #### Form
 
@@ -1260,7 +1261,7 @@ Tooltips / popovers
 *   [form-create (⭐6.3k)](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data
 *   [vue3-otp-input (⭐119)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
 *   [Vueform](https://vueform.com) - (probably) the most comprehensive form builder for Vue.js [Online Demo](https://vueform.com/examples)
-*   [Everright-formEditor (⭐464)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐465)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ###### Date Picker
 
@@ -1279,7 +1280,7 @@ Tooltips / popovers
 *   [vue-cool-select (⭐244)](https://github.com/iliyaZelenko/vue-cool-select) - Bootstrap / Material Design theme, support slots, autocomplete, events, validation and more.
 *   [vue-select-sides (⭐70)](https://github.com/juliorosseti/vue-select-sides) - A component for Vue.js to select double-sided data (2-sides).
 *   [@vueform/multiselect (⭐812)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
-*   [vue3-select-component (⭐65)](https://github.com/TotomInc/vue3-select-component) - Vue 3 Select Component, single & multi-select, best-in-class DX support with TypeScript end-to-end typesafe, easy styling, slots and more \~4.4KB
+*   [vue3-select-component (⭐66)](https://github.com/TotomInc/vue3-select-component) - Vue 3 Select Component, single & multi-select, best-in-class DX support with TypeScript end-to-end typesafe, easy styling, slots and more \~4.4KB
 
 ##### Drag and Drop
 
@@ -1521,7 +1522,7 @@ Tooltips / popovers
 *   [vue-request (⭐1.3k)](https://github.com/Attojs/vue-request) - ⚡️ Vue 3 Composable for data fetching, supports SWR, polling, error retry, cache request, pagination, and other cool features.
 *   [swrv (⭐2.2k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 *   [vue-vroom (⭐10)](https://github.com/frederikbache/vue-vroom) - A plugin for REST APIs, that lets you quickly generate type safe stores and a mock API with minimal config.
-*   [tanstack-query (⭐43k)](https://github.com/tanstack/query) - Powerful asynchronous state management.
+*   [tanstack-query (⭐44k)](https://github.com/tanstack/query) - Powerful asynchronous state management.
 
 #### i18n
 
@@ -1628,7 +1629,7 @@ Payment utilities.
 
 *Integrate with services or other frameworks*
 
-*   [vue-recaptcha (⭐879)](https://github.com/DanSnow/vue-recaptcha) - Google reCAPTCHA component for Vue.js
+*   [vue-recaptcha (⭐880)](https://github.com/DanSnow/vue-recaptcha) - Google reCAPTCHA component for Vue.js
 *   [vuefire (⭐4)](https://github.com/nigeltiany/vuefire) - Firebase for VueJS and Vuex
 *   [vue-postgrest (⭐80)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 *   [vue-tweet (⭐36)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id

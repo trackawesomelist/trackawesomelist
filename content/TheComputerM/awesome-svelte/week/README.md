@@ -157,12 +157,12 @@
 
 ### UI Libraries
 
-*   [Svelte UX (⭐869)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
+*   [Svelte UX (⭐871)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
 *   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 
 ### Charts
 
-*   [LayerChart (⭐721)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+*   [LayerChart (⭐723)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
@@ -321,7 +321,7 @@
 
 ### UI Libraries
 
-*   [ionic-svelte (⭐784)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+*   [ionic-svelte (⭐785)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
@@ -345,7 +345,7 @@
 
 ### Charts
 
-*   [svelte-frappe-charts (⭐310)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
+*   [svelte-frappe-charts (⭐309)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
@@ -392,7 +392,7 @@
 
 ### Notification
 
-*   [@zerodevx/svelte-toast (⭐846)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
+*   [@zerodevx/svelte-toast (⭐847)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 

@@ -6,11 +6,11 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
-## [Jan 25, 2025](/content/2025/01/25/README.md)
+## [Jan 26, 2025](/content/2025/01/26/README.md)
 
 ### Color / Diagnostics
 
-*   [xzbdmw/colorful-menu.nvim (⭐189)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+*   [xzbdmw/colorful-menu.nvim (⭐192)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 

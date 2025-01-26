@@ -6,7 +6,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
-## [Jan 25, 2025](/content/2025/01/25/README.md)
+## [Jan 26, 2025](/content/2025/01/26/README.md)
 
 ### Authentication, Authorization, and User Management
 

@@ -1201,7 +1201,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Testing
 
-*   [ArchUnitNET (⭐974)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
+*   [ArchUnitNET (⭐975)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
 *   [NetArchTest (⭐1.4k)](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net Standard that can enforce architectural rules in unit tests.
 *   [AutoFixture (⭐3.4k)](https://github.com/AutoFixture/AutoFixture) - AutoFixture is an open source framework for .NET designed to minimize the 'Arrange' phase of your unit tests
 *   [BDTest (⭐82)](https://github.com/thomhurst/BDTest/wiki) - A behaviour driven testing and reporting framework!

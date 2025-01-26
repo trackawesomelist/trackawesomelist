@@ -16,6 +16,10 @@
 
 *   [kinde-angular (⭐15)](https://github.com/luukhaijes/kinde-angular) - Angular wrapper around the [Kinde](https://kinde.com/) Typescript [SDK](https://docs.kinde.com/developer-tools/sdks/backend/typescript-sdk/).
 
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-dev-toolbar (⭐5)](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
+
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [extreme-angular (⭐96)](https://github.com/joematthews/extreme-angular) - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
