@@ -821,7 +821,7 @@ No servers involved. Everything goes directly from one peer to the other peer. N
 
 With email aliases, you can finally create a different identity for each website. Defend against spams, phishing and data breach. You can choose self-hosting any of the following options or you can also use their own platform as a service.
 
-*   [SimpleLogin (⭐5.3k)](https://github.com/simple-login/app)
+*   [SimpleLogin (⭐5.4k)](https://github.com/simple-login/app)
 *   [AnonAddy (⭐3.6k)](https://github.com/anonaddy/anonaddy)
 
 [Back to top 🔝](#contents)
@@ -1119,6 +1119,7 @@ GNU/Linux is a family of free (as in freedom and as in free beer) and open sourc
 
 These tools are useful when sharing secrets, code snippets or any other kind of text with others in a private way.
 
+*   [crypt.fyi](https://crypt.fyi) - Ephemeral zero-knowledge sensitive data sharing platform with web, cli, and chrome-extension clients
 *   [NoPaste (⭐385)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
 *   [PrivateBin (⭐6.8k)](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 *   [Yopass (⭐1.9k)](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files.

@@ -10,7 +10,7 @@
 
 ### Terminal / Terminal UI
 
-*   [lazyjournal (⭐282)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.4k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
+*   [lazyjournal (⭐283)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.4k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
@@ -89,7 +89,7 @@
 
 ### API Client / Other
 
-*   [docker-controller-bot (⭐160)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
+*   [docker-controller-bot (⭐161)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
 
 ## [Apr 08, 2024](/content/2024/04/08/README.md)
 
@@ -254,7 +254,7 @@
 
 ### Testing / Other
 
-*   [Kurtosis (⭐404)](https://github.com/kurtosis-tech/kurtosis) - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/)
+*   [Kurtosis (⭐405)](https://github.com/kurtosis-tech/kurtosis) - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/)
 
 ## [Mar 23, 2023](/content/2023/03/23/README.md)
 
@@ -510,7 +510,7 @@
 
 ### Reverse Proxy
 
-*   [bunkerized-nginx (⭐7.3k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default. By [@bunkerity](https://github.com/bunkerity)
+*   [bunkerized-nginx (⭐7.4k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default. By [@bunkerity](https://github.com/bunkerity)
 *   [Docker Dnsmasq Updater (⭐34)](https://github.com/moonbuggy/docker-dnsmasq-updater) - Update a remote dnsmasq server with Docker container hostnames.
 *   [docker-flow-proxy (⭐318)](https://github.com/docker-flow/docker-flow-proxy) - Reconfigures proxy every time a new service is deployed, or when a service is scaled. By [@docker-flow](https://github.com/docker-flow)
 *   [docker-proxy (⭐282)](https://github.com/silarsis/docker-proxy) :skull: - Transparent proxy for docker containers, run in a docker container. By [@silarsis](https://github.com/silarsis)
@@ -543,7 +543,7 @@
 *   [Deepfence Enterprise](https://deepfence.io) :heavy\_dollar\_sign: - Full life cycle Cloud Native Workload Protection platform for kubernetes, virtual machines and serverless. By [@deepfence](https://github.com/deepfence)
 *   [Deepfence Threat Mapper (⭐4.9k)](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless. By [@deepfence](https://github.com/deepfence)
 *   [docker-bench-security (⭐9.2k)](https://github.com/docker/docker-bench-security) - script that checks for dozens of common best-practices around deploying Docker containers in production. By [@docker](https://github.com/docker)
-*   [docker-explorer (⭐533)](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions by [@Google](https://github.com/google)
+*   [docker-explorer (⭐532)](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions by [@Google](https://github.com/google)
 *   [docker-lock](https://github.com/safe-waters/docker-lock) - A cli-plugin for docker to automatically manage image digests by tracking them in a separate Lockfile. By [@safe-waters](https://github.com/safe-waters)
 *   [KICS (⭐2.2k)](https://github.com/checkmarx/kics) - an infrastructure-as-code scanning tool, find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle. Can be extended for additional policies. By [Checkmarx](https://github.com/Checkmarx)
 *   [notary (⭐3.2k)](https://github.com/theupdateframework/notary) - a server and a client for running and interacting with trusted collections. By [@TUF](https://github.com/theupdateframework)
@@ -650,7 +650,7 @@
 *   [Portainer (⭐32k)](https://github.com/portainer/portainer) - A lightweight management UI for managing your Docker hosts or Docker Swarm clusters by [@portainer](https://github.com/portainer)
 *   [Rapid Dashboard (⭐142)](https://github.com/ozlerhakan/rapid) - A simple query dashboard to use Docker Remote API by [@ozlerhakan](https://github.com/ozlerhakan/)
 *   [Seagull (⭐1.9k)](https://github.com/tobegit3hub/seagull) - Friendly Web UI to monitor docker daemon. by [@tobegit3hub](https://github.com/tobegit3hub)
-*   [Swarmpit (⭐3.1k)](https://github.com/swarmpit/swarmpit) - Swarmpit provides simple and easy to use interface for your Docker Swarm cluster. You can manage your stacks, services, secrets, volumes, networks etc.
+*   [Swarmpit (⭐3.2k)](https://github.com/swarmpit/swarmpit) - Swarmpit provides simple and easy to use interface for your Docker Swarm cluster. You can manage your stacks, services, secrets, volumes, networks etc.
 *   [Swirl (⭐626)](https://github.com/cuigh/swirl) - Swirl is a web management tool for Docker, focused on swarm cluster By [@cuigh](https://github.com/cuigh/)
 *   [Theia (⭐20k)](https://github.com/eclipse-theia/theia) - Extensible platform to develop full-fledged multi-language Cloud & Desktop IDE-like products with state-of-the-art web technologies.
 *   [Yacht (⭐3.6k)](https://github.com/SelfhostedPro/Yacht) :construction: - A Web UI for docker that focuses on templates and ease of use in order to make deployments as easy as possible. By [@SelfhostedPro](https://github.com/SelfhostedPro)
@@ -729,7 +729,7 @@
 *   [docker-image-size-limit (⭐123)](https://github.com/wemake-services/docker-image-size-limit) - A tool to keep an eye on your docker images size.
 *   [Dockerfile Linter action (⭐41)](https://github.com/buddy-works/dockerfile-linter) - The linter lets you verify Dockerfile syntax to make sure it follows the best practices for building efficient Docker images.
 *   [dockfmt (⭐431)](https://github.com/jessfraz/dockfmt) :construction: - Dockerfile formatter and parser by [@jessfraz](https://github.com/jessfraz)
-*   [FROM:latest (⭐995)](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter by [@replicatedhq](https://github.com/replicatedhq)
+*   [FROM:latest (⭐996)](https://github.com/replicatedhq/dockerfilelint) - An opinionated Dockerfile linter by [@replicatedhq](https://github.com/replicatedhq)
 *   [Hadolint (⭐11k)](https://github.com/hadolint/hadolint) - A Dockerfile linter that checks for best practices, common mistakes, and is also able to lint any bash written in `RUN` instructions; by [@lukasmartinelli](https://github.com/lukasmartinelli)
 *   [Whale-linter (⭐36)](https://github.com/jeromepin/whale-linter) - A simple and small Dockerfile linter written in Python3+ without dependencies by [@jeromepin](https://github.com/jeromepin)
 
@@ -786,7 +786,7 @@
 *   [Captain (⭐768)](https://github.com/harbur/captain) - Convert your Git workflow to Docker containers ready for Continuous Delivery by [@harbur](https://github.com/harbur).
 *   [Cyclone (⭐1.1k)](https://github.com/caicloud/cyclone) - Powerful workflow engine and end-to-end pipeline solutions implemented with native Kubernetes resources by [@caicloud](https://github.com/caicloud).
 *   [Diun (⭐3.3k)](https://github.com/crazy-max/diun) - Receive notifications when an image or repository is updated on a Docker registry by [@crazy-max](https://github.com/crazy-max).
-*   [Docker plugin for Jenkins (⭐492)](https://github.com/jenkinsci/docker-plugin/) - The aim of the docker plugin is to be able to use a docker host to dynamically provision a slave, run a single build, then tear-down that slave.
+*   [Docker plugin for Jenkins (⭐491)](https://github.com/jenkinsci/docker-plugin/) - The aim of the docker plugin is to be able to use a docker host to dynamically provision a slave, run a single build, then tear-down that slave.
 *   [Drone (⭐32k)](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
 *   [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) - GitLab has integrated CI to test, build and deploy your code with the use of GitLab runners.
 *   [GOCD-Docker (⭐94)](https://github.com/gocd/gocd-docker) :skull: - Go Server and Agent in docker containers to provision.

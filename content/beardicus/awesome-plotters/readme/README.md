@@ -149,7 +149,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 *   [blackstripes (⭐96)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
 *   [Ribbon (⭐244)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
 *   [penplot (⭐269)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
-*   [penkit (⭐145)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
+*   [penkit (⭐146)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
 *   [generativeExamples (⭐63)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
 *   [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
 *   [LineDream](https://linedream.marcrleonard.com/) - A generative art library for Python that can export SVGs.
@@ -181,7 +181,7 @@ Tools to manipulate and optimize vector-based file formats.
 *   [svgsort (⭐256)](https://github.com/inconvergent/svgsort) - Path planning for plotting SVG files, reduces time spent moving with the pen up.
 *   [svgo (⭐21k)](https://github.com/svg/svgo) - Node.js-based tool for optimizing SVG files.
 *   [Polargraph Optimizer (⭐57)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
-*   [penkit-optimize (⭐145)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
+*   [penkit-optimize (⭐146)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
 *   [svg-crowbar (⭐841)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
 *   [vpype (⭐757)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 *   [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - A browser-based tool to crop SVGs using different primitives, custom shapes, or other SVGs.

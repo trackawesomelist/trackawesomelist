@@ -87,7 +87,7 @@
 
 *   [shadcn-svelte](https://www.shadcn-svelte.com/) - Beautifully designed components that you can copy and paste into your apps.
 *   [SvelteUI](https://svelteui.dev/) - all inclusive Svelte library - Components, Actions, Utilities, Animations.
-*   [Sveltestrap (⭐164)](https://github.com/sveltestrap/sveltestrap) - Bootstrap 4 & 5 components.
+*   [Sveltestrap (⭐165)](https://github.com/sveltestrap/sveltestrap) - Bootstrap 4 & 5 components.
 
 ### Table
 
@@ -96,7 +96,7 @@
 ### Icons
 
 *   [unplugin-icons (⭐4.2k)](https://github.com/unplugin/unplugin-icons) - Access thousands of icons as components on-demand universally.
-*   [steeze-ui/icons (⭐187)](https://github.com/steeze-ui/icons) - Effortless Icon Packs & Components for Svelte, React, Vue and more.
+*   [steeze-ui/icons (⭐186)](https://github.com/steeze-ui/icons) - Effortless Icon Packs & Components for Svelte, React, Vue and more.
 *   [lucide-svelte (⭐12k)](https://github.com/lucide-icons/lucide) - Implementation of the lucide icon library for svelte applications.
 *   [svelte-icons-pack (⭐61)](https://github.com/leshak/svelte-icons-pack) - Based on [https://github.com/react-icons/react-icons (⭐12k)](https://github.com/react-icons/react-icons).
 
@@ -145,7 +145,7 @@
 
 ### UI Libraries
 
-*   [SVAR Core for Svelte (⭐75)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
+*   [SVAR Core for Svelte (⭐76)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
@@ -162,7 +162,7 @@
 
 ### Charts
 
-*   [LayerChart (⭐724)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+*   [LayerChart (⭐725)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
@@ -173,7 +173,7 @@
 ### UI Libraries
 
 *   [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
-*   [M3 Svelte (⭐279)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
+*   [M3 Svelte (⭐280)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 
 ### Frameworks / Form Components
 

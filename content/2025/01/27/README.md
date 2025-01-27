@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 27, 2025
 
-21 awesome lists updated today.
+22 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -35,7 +35,13 @@
 
 *   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** \[47:53]
 
-## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [5. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+### Pastebin and Secret Sharing
+
+*   [crypt.fyi](https://crypt.fyi) - Ephemeral zero-knowledge sensitive data sharing platform with web, cli, and chrome-extension clients
+
+## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / Raspberry Pi Silicon
 
@@ -66,13 +72,13 @@
 
 *   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 
-## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### HTTP
 
 *   [finch (⭐1.3k)](https://github.com/sneako/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
-## [7. Awesome Go](/content/avelino/awesome-go/README.md)
+## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Networking
 
@@ -82,19 +88,19 @@
 
 *   [embed](https://pkg.go.dev/embed) - Package embed provides access to files embedded in the running Go program.
 
-## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [9. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Resources / Podcasts
 
 *   [Django Brew](https://djangobrew.com/) - A fun, caffeine-powered podcast about the Django web framework by Adam Hill and Sangeeta Jadoonanan!
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
 *   [Boomi Cloud API Management](https://developer.mashery.com/) - A cloud-native API platform that enables you to deploy APIs anywhere and manage them from everywhere.
 
-## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Artificial Intelligence
 
@@ -102,21 +108,21 @@
 
 ### Logging
 
-*   [AutoLoggerMessage (⭐36)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐37)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
-## [11. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [12. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Productivity
 
 *   [Launchy](https://apple.co/3PLI2AH) - An app launcher and switcher that utilizes a radial menu.
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Authentication, Authorization, and User Management
 
 *   [Permit.io](https://permit.io) - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.
 
-## [13. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+## [14. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ### Mobile Development
 
@@ -132,25 +138,25 @@
 
 *   [University Degree Roadmap (⭐106)](https://github.com/IlIllII/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/IlIllII/collecobrary).
 
-## [14. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [15. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [HP-75 Plotter ROM External Reference Specification (1982) (PDF)](https://literature.hpcalc.org/community/hp75-plotter-ers.pdf)
 
-## [15. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [16. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Physics
 
-*   [slick (⭐14)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
+*   [slick (⭐15)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
 
-## [16. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [17. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Templates / Godot 4
 
 *   [Takin Godot Template (⭐108)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
-## [17. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [18. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### YouTube Channels
 
@@ -176,17 +182,21 @@
 
 *   [tanstack-svelte-query](https://tanstack.com/query/latest/docs/svelte/overview) - Framework agnostic type-safe query and mutation library for Svelte.
 
-## [18. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [19. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
 *   [MyIP (⭐7.1k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
-*   [fylepad (⭐91)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
+*   [fylepad (⭐92)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
 
 ### Components & Libraries / UI Components
 
 *   [hy-vue-gantt (⭐4)](https://github.com/Xeyos88/HyVueGantt) - A powerful and flexible Gantt chart component for Vue 3 applications.
+*   [vue3-social-sharing (⭐12)](https://github.com/hedint/vue3-social-sharing) - Style agnostic Vue 3 plugin for social sharing your links on major social networks.
+*   [vue-progress-circle (⭐3)](https://github.com/keiwen/vue-progress-circle) - Circle progress bar component for vue3
+*   [vue-roller-picker (⭐0)](https://github.com/keiwen/vue-roller-picker) - Roll-designed selector component for vue3
 *   [vue-enhanced-check (⭐17)](https://github.com/keiwen/vue-enhancedCheck) - Enhanced checkboxes / radio input + toggle, components for vue 3
+*   [vue-integer-plusminus (⭐18)](https://github.com/keiwen/vue-integer-plusminus) - Integer input component for vue3 with increment and decrement buttons, fitting as spinbutton, allowing keyboard functionalities
 
 ### Components & Libraries / UI Utilities
 
@@ -196,7 +206,7 @@
 
 *   [tauri-plugin-pinia (⭐26)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri.
 
-## [19. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [20. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -215,17 +225,17 @@
 
 *   [ng-simple-sidebar (⭐7)](https://github.com/secanis/ng-simple-sidebar) - A simple Angular component to generate a sidebar with a hamburger menu.
 
-## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Color / Diagnostics
 
-*   [xzbdmw/colorful-menu.nvim (⭐193)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+*   [xzbdmw/colorful-menu.nvim (⭐198)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
-## [21. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [22. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / Terminal UI
 
-*   [lazyjournal (⭐282)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.4k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
+*   [lazyjournal (⭐283)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.4k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
 
 ---
 

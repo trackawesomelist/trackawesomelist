@@ -149,7 +149,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [SvelteUI](https://svelteui.dev/) - all inclusive Svelte library - Components, Actions, Utilities, Animations.
 *   [Flowbite Svelte](https://flowbite-svelte.com/) - Open-source Svelte UI components built with Tailwind CSS and Flowbite.
 *   [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
-*   [Sveltestrap (⭐164)](https://github.com/sveltestrap/sveltestrap) - Bootstrap 4 & 5 components.
+*   [Sveltestrap (⭐165)](https://github.com/sveltestrap/sveltestrap) - Bootstrap 4 & 5 components.
 *   [carbon-components-svelte (⭐2.7k)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 *   [Svelte Material UI (⭐3.3k)](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 *   [Melt UI (⭐3.9k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
@@ -158,11 +158,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
 *   [Svelte UX (⭐872)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
 *   [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
-*   [M3 Svelte (⭐279)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
+*   [M3 Svelte (⭐280)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 *   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 *   [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
 *   [Smelte (⭐1.5k)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. *(pre-v5)*
-*   [SVAR Core for Svelte (⭐75)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
+*   [SVAR Core for Svelte (⭐76)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
 *   [AgnosticUI (⭐730)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
 ## UI Components
@@ -198,7 +198,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [unplugin-icons (⭐4.2k)](https://github.com/unplugin/unplugin-icons) - Access thousands of icons as components on-demand universally.
 *   [svelte-fa (⭐403)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 and 6 component.
 *   [svelte-awesome (⭐495)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
-*   [steeze-ui/icons (⭐187)](https://github.com/steeze-ui/icons) - Effortless Icon Packs & Components for Svelte, React, Vue and more.
+*   [steeze-ui/icons (⭐186)](https://github.com/steeze-ui/icons) - Effortless Icon Packs & Components for Svelte, React, Vue and more.
 *   [svelte-icons (⭐293)](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
 *   [svelte-heroicons (⭐8)](https://github.com/krowten/svelte-heroicons) - Icons, crafted by the creators of Tailwind CSS.
 *   [svelte-icomoon (⭐5)](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
@@ -228,7 +228,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *   [svelte-frappe-charts (⭐309)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 *   [Layer Cake (⭐1.5k)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
-*   [LayerChart (⭐724)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+*   [LayerChart (⭐725)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ### Graphs
 

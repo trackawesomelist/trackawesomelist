@@ -14,7 +14,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Logging
 
-*   [AutoLoggerMessage (⭐36)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐37)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
@@ -104,11 +104,11 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Game
 
-*   [Friflo.Engine.ECS (⭐169)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) -  High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
+*   [Friflo.Engine.ECS (⭐167)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) -  High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
 
 ### ORM
 
-*   [Friflo.Json.Fliox (⭐169)](https://github.com/friflo/Friflo.Json.Fliox) - High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API.
+*   [Friflo.Json.Fliox (⭐167)](https://github.com/friflo/Friflo.Json.Fliox) - High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API.
 
 ### Queue
 
@@ -976,7 +976,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Testing
 
-*   [ArchUnitNET (⭐975)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
+*   [ArchUnitNET (⭐976)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
 *   [Snapshooter (⭐307)](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
 
 ### Tools

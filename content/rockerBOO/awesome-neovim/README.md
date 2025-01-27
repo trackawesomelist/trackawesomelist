@@ -10,7 +10,7 @@ Collections of awesome neovim plugins.
 
 ### Color / Diagnostics
 
-*   [xzbdmw/colorful-menu.nvim (⭐193)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+*   [xzbdmw/colorful-menu.nvim (⭐198)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
@@ -74,11 +74,11 @@ Collections of awesome neovim plugins.
 
 ### Git / Diagnostics
 
-*   [mrloop/telescope-git-branch.nvim (⭐6)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
+*   [mrloop/telescope-git-branch.nvim (⭐7)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
 
 ### Split and Window / Diagnostics
 
-*   [ycdzj/win-mover.nvim (⭐7)](https://github.com/ycdzj/win-mover.nvim) - Window mover that avoids moving side windows.
+*   [ycdzj/win-mover.nvim (⭐10)](https://github.com/ycdzj/win-mover.nvim) - Window mover that avoids moving side windows.
 
 ## [Jan 06, 2025](/content/2025/01/06/README.md)
 
@@ -138,15 +138,15 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [MisanthropicBit/decipher.nvim (⭐35)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
+*   [MisanthropicBit/decipher.nvim (⭐38)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
 
 ### Motion / Diagnostics
 
-*   [cxwx/specs.nvim (⭐8)](https://github.com/cxwx/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
+*   [cxwx/specs.nvim (⭐9)](https://github.com/cxwx/specs.nvim) - A fast and lightweight Neovim Lua plugin to keep an eye on where your cursor has jumped.
 
 ### Keybinding / Diagnostics
 
-*   [TheBlob42/houdini.nvim (⭐38)](https://github.com/TheBlob42/houdini.nvim) - Create shortcut to escape modes without delay.
+*   [TheBlob42/houdini.nvim (⭐40)](https://github.com/TheBlob42/houdini.nvim) - Create shortcut to escape modes without delay.
 
 ### Split and Window / Diagnostics
 
@@ -179,21 +179,21 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [supermaven-inc/supermaven-nvim (⭐834)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+*   [supermaven-inc/supermaven-nvim (⭐852)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 
 ## [Dec 07, 2024](/content/2024/12/07/README.md)
 
 ### Completion / Diagnostics
 
-*   [brianaung/compl.nvim (⭐31)](https://github.com/brianaung/compl.nvim) - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
+*   [brianaung/compl.nvim (⭐30)](https://github.com/brianaung/compl.nvim) - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
 
 ### Git / Diagnostics
 
-*   [trevorhauter/gitportal.nvim (⭐46)](https://github.com/trevorhauter/gitportal.nvim) - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
+*   [trevorhauter/gitportal.nvim (⭐47)](https://github.com/trevorhauter/gitportal.nvim) - Generate Git permalinks, open them in your browser, load files locally from permalinks, and more.
 
 ### Tmux / Diagnostics
 
-*   [juselara1/tmutils.nvim (⭐12)](https://github.com/juselara1/tmutils.nvim) - Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs.
+*   [juselara1/tmutils.nvim (⭐13)](https://github.com/juselara1/tmutils.nvim) - Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs.
 
 ## [Dec 02, 2024](/content/2024/12/02/README.md)
 
@@ -227,13 +227,13 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [you-n-g/navigate-note.nvim (⭐18)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
+*   [you-n-g/navigate-note.nvim (⭐19)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
 
 ## [Nov 24, 2024](/content/2024/11/24/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [Dan7h3x/signup.nvim (⭐39)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
+*   [Dan7h3x/signup.nvim (⭐40)](https://github.com/Dan7h3x/signup.nvim) - a little smart `lsp_signature` helper with awesome features.
 
 ### Terminal Integration / Diagnostics
 
@@ -245,7 +245,7 @@ Collections of awesome neovim plugins.
 
 ### GitHub / Diagnostics
 
-*   [2KAbhishek/octohub.nvim (⭐68)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
+*   [2KAbhishek/octohub.nvim (⭐69)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 ### Competitive Programming / Diagnostics
 
@@ -253,23 +253,23 @@ Collections of awesome neovim plugins.
 
 ### Boilerplate / Diagnostics
 
-*   [2KAbhishek/template.nvim (⭐9)](https://github.com/2KAbhishek/template.nvim) - Opinionated template for starting plugin dev quickly.
+*   [2KAbhishek/template.nvim (⭐10)](https://github.com/2KAbhishek/template.nvim) - Opinionated template for starting plugin dev quickly.
 
 ## [Nov 21, 2024](/content/2024/11/21/README.md)
 
 ### GitHub / Diagnostics
 
-*   [topaxi/pipeline.nvim (⭐149)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
+*   [topaxi/pipeline.nvim (⭐150)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 
 ## [Nov 19, 2024](/content/2024/11/19/README.md)
 
 ### Web Development / Diagnostics
 
-*   [lima1909/resty.nvim (⭐38)](https://github.com/lima1909/resty.nvim) - Fast and easy-to-use HTTP-Rest-Client.
+*   [lima1909/resty.nvim (⭐39)](https://github.com/lima1909/resty.nvim) - Fast and easy-to-use HTTP-Rest-Client.
 
 ### Code Runner / Diagnostics
 
-*   [chrisgrieser/nvim-justice (⭐13)](https://github.com/chrisgrieser/nvim-justice) - Lightweight integration of the `just` task runner.
+*   [chrisgrieser/nvim-justice (⭐14)](https://github.com/chrisgrieser/nvim-justice) - Lightweight integration of the `just` task runner.
 
 ## [Nov 17, 2024](/content/2024/11/17/README.md)
 

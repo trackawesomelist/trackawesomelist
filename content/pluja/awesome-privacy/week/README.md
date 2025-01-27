@@ -6,6 +6,12 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ [Daily](/content/pluja/awesome-privacy/README.md) / Weekly / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
+
+### Pastebin and Secret Sharing
+
+*   [crypt.fyi](https://crypt.fyi) - Ephemeral zero-knowledge sensitive data sharing platform with web, cli, and chrome-extension clients
+
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Full Featured Financial Management
@@ -988,7 +994,7 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 ### Email Alias Services (Anonymous Forwarding)
 
-*   [SimpleLogin (⭐5.3k)](https://github.com/simple-login/app)
+*   [SimpleLogin (⭐5.4k)](https://github.com/simple-login/app)
 *   [AnonAddy (⭐3.6k)](https://github.com/anonaddy/anonaddy)
 
 ### Budget Management

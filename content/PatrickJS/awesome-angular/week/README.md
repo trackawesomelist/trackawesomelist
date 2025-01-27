@@ -256,7 +256,7 @@
 
 ### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-page-object-model (⭐26)](https://github.com/FrancescoBorzi/ngx-page-object-model) - This library streamlines the process of writing unit tests for Angular UI Components by utilizing the Page Object Model (POM) design pattern. By adopting the POM design pattern, you can create an additional layer of abstraction, effectively separating your test logic from the DOM manipulation logic.
+*   [ngx-page-object-model (⭐27)](https://github.com/FrancescoBorzi/ngx-page-object-model) - This library streamlines the process of writing unit tests for Angular UI Components by utilizing the Page Object Model (POM) design pattern. By adopting the POM design pattern, you can create an additional layer of abstraction, effectively separating your test logic from the DOM manipulation logic.
 
 ### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -265,7 +265,7 @@
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-select2 (⭐57)](https://github.com/Harvest-Dev/ng-select2) - This Angular CLI module is a fork of [select2-component (⭐23)](https://github.com/plantain-00/select2-component).
-*   [ngx-duration-picker (⭐29)](https://github.com/FrancescoBorzi/ngx-duration-picker) - Angular component for ISO\_8601 durations.
+*   [ngx-duration-picker (⭐30)](https://github.com/FrancescoBorzi/ngx-duration-picker) - Angular component for ISO\_8601 durations.
 *   [ngx-super-select-tree (⭐2)](https://github.com/HesamKashefi/ngx-super-select-tree) - A single/multiple choice drop down tree for Angular!
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

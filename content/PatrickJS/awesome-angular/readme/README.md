@@ -926,7 +926,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Meticulous AI](https://www.meticulous.ai/) - Cover the 1000s of edge cases of your application - without writing or maintaining a single test.
 *   [ngtx (⭐10)](https://github.com/Centigrade/ngtx) - `ngtx` stands for "A**ng**ular **T**esting E**x**tensions" and is a small set of functions aiming to make your life easier when testing Angular components.
 *   [Early AI](https://www.startearly.ai/) - Save time, enhance code coverage, and ensure quality with Early's automatically generated, verified, and validated unit tests.
-*   [ngx-page-object-model (⭐26)](https://github.com/FrancescoBorzi/ngx-page-object-model) - This library streamlines the process of writing unit tests for Angular UI Components by utilizing the Page Object Model (POM) design pattern. By adopting the POM design pattern, you can create an additional layer of abstraction, effectively separating your test logic from the DOM manipulation logic.
+*   [ngx-page-object-model (⭐27)](https://github.com/FrancescoBorzi/ngx-page-object-model) - This library streamlines the process of writing unit tests for Angular UI Components by utilizing the Page Object Model (POM) design pattern. By adopting the POM design pattern, you can create an additional layer of abstraction, effectively separating your test logic from the DOM manipulation logic.
 
 #### Updating
 
@@ -1275,7 +1275,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-countries-dropdown (⭐5)](https://github.com/kapilkumar0037/ngx-countries-dropdown) - Angular library with customizable countries dropdown component with flags, dial code, language and currency details.
 *   [ngx-mat-split-button (⭐2)](https://github.com/feature23/ngx-mat-split-button) - A split button component for Angular Material. Split buttons (also known as "split button dropdowns" in Bootstrap) have a primary action button with a conjoined dropdown toggle that opens a menu for secondary actions.
 *   [ng-select2 (⭐57)](https://github.com/Harvest-Dev/ng-select2) - This Angular CLI module is a fork of [select2-component (⭐23)](https://github.com/plantain-00/select2-component).
-*   [ngx-duration-picker (⭐29)](https://github.com/FrancescoBorzi/ngx-duration-picker) - Angular component for ISO\_8601 durations.
+*   [ngx-duration-picker (⭐30)](https://github.com/FrancescoBorzi/ngx-duration-picker) - Angular component for ISO\_8601 durations.
 *   [ngx-super-select-tree (⭐2)](https://github.com/HesamKashefi/ngx-super-select-tree) - A single/multiple choice drop down tree for Angular!
 *   [ngx-easy-emoji-picker (⭐1)](https://github.com/PsySanchez/ngx-easy-emoji-picker) - Angular library that seamlessly integrates emoji selection into your application.
 *   [ngx-mat-table-multi-sort (⭐3)](https://github.com/pgerke/ngx-mat-table-multi-sort) - Add multi-sort capability to an Angular Material table.
