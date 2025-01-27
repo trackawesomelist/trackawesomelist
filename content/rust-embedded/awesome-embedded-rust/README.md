@@ -6,7 +6,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
-## [Jan 26, 2025](/content/2025/01/26/README.md)
+## [Jan 27, 2025](/content/2025/01/27/README.md)
 
 ### Peripheral Access Crates / Raspberry Pi Silicon
 

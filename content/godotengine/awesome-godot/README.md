@@ -6,7 +6,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
-## [Jan 26, 2025](/content/2025/01/26/README.md)
+## [Jan 27, 2025](/content/2025/01/27/README.md)
 
 ### Templates / Godot 4
 

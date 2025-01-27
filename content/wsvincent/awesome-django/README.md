@@ -6,7 +6,7 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
-## [Jan 26, 2025](/content/2025/01/26/README.md)
+## [Jan 27, 2025](/content/2025/01/27/README.md)
 
 ### Resources / Podcasts
 

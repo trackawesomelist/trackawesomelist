@@ -6,11 +6,13 @@ A curated list of awesome things related to Django
 
 [ [Daily](/content/wsvincent/awesome-django/README.md) / Weekly / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
-## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
+## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
 ### Resources / Podcasts
 
 *   [Django Brew](https://djangobrew.com/) - A fun, caffeine-powered podcast about the Django web framework by Adam Hill and Sangeeta Jadoonanan!
+
+## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Projects / Boilerplate
 

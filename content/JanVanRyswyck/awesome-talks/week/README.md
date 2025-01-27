@@ -6,11 +6,17 @@ Awesome online talks and screencasts
 
 [ [Daily](/content/JanVanRyswyck/awesome-talks/README.md) / Weekly / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
 
-## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
+## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
 ### Software Development
 
 *   [5 WTFs in 6 LOCs](https://brightonruby.com/2016/five-wtfs-in-six-lines-of-code-dot-wingrove/) by **Dorothy Wingrove** (Brighton Ruby 2016) \[05:11]
+
+### Methodologies
+
+*   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** \[47:53]
+
+## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Test-Driven Development
 
@@ -19,7 +25,6 @@ Awesome online talks and screencasts
 ### Methodologies
 
 *   [The Efficiency Paradox](https://www.youtube.com/watch?v=hGJpez7rvc0) by **Niklas Modig** \[18:48]
-*   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** \[47:53]
 
 ## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
 

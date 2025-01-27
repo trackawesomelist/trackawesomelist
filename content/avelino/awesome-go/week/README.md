@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
+
+### Networking
+
+*   [GoProxy (⭐6.1k)](https://github.com/elazarl/goproxy) - A library to create a customized HTTP/HTTPS proxy server using Go.
+
+### Resource Embedding
+
+*   [embed](https://pkg.go.dev/embed) - Package embed provides access to files embedded in the running Go program.
+
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Authentication and OAuth
@@ -49,17 +59,9 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [archives (⭐128)](https://github.com/mholt/archives) - a cross-platform, multi-format Go library for working with archives and compression formats with a unified API and as virtual file systems compatible with io/fs.
 
-### Networking
-
-*   [GoProxy (⭐6.1k)](https://github.com/elazarl/goproxy) - A library to create a customized HTTP/HTTPS proxy server using Go.
-
 ### HTTP Clients
 
 *   [axios4go (⭐11)](https://github.com/rezmoss/axios4go) - A Go HTTP client library inspired by Axios, providing a simple and intuitive API for making HTTP requests.
-
-### Resource Embedding
-
-*   [embed](https://pkg.go.dev/embed) - Package embed provides access to files embedded in the running Go program.
 
 ### Server Applications
 

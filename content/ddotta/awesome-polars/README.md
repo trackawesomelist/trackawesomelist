@@ -6,7 +6,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
-## [Jan 26, 2025](/content/2025/01/26/README.md)
+## [Jan 27, 2025](/content/2025/01/27/README.md)
 
 ### Resources / Blog posts
 

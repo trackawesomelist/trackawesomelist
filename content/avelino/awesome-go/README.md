@@ -6,7 +6,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
-## [Jan 26, 2025](/content/2025/01/26/README.md)
+## [Jan 27, 2025](/content/2025/01/27/README.md)
 
 ### Networking
 

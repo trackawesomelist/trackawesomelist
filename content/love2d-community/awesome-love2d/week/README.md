@@ -6,11 +6,13 @@ A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 [ [Daily](/content/love2d-community/awesome-love2d/README.md) / Weekly / [Overview](/content/love2d-community/awesome-love2d/readme/README.md) ]
 
-## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
+## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
 ### Physics
 
 *   [slick (⭐14)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
+
+## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### UI
 

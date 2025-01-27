@@ -6,11 +6,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ [Daily](/content/quozd/awesome-dotnet/README.md) / Weekly / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
-## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
-
-### API
-
-*   [Population.NET (⭐29)](https://github.com/Authentic199/Population.NET) - A .NET library allows clients to specify the exact fields they need, reducing unnecessary data transfer by avoiding the retrieval of all fields by default.
+## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
 ### Artificial Intelligence
 
@@ -19,6 +15,12 @@ A collection of awesome .NET libraries, tools, frameworks and software
 ### Logging
 
 *   [AutoLoggerMessage (⭐36)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+
+## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
+
+### API
+
+*   [Population.NET (⭐29)](https://github.com/Authentic199/Population.NET) - A .NET library allows clients to specify the exact fields they need, reducing unnecessary data transfer by avoiding the retrieval of all fields by default.
 
 ### Tools
 
