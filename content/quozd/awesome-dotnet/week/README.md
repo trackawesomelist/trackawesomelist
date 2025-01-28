@@ -14,7 +14,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Desktop
 
-*   [Sucrose Wallpaper Engine (⭐602)](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
+*   [Sucrose Wallpaper Engine (⭐603)](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
 ### Logging
 

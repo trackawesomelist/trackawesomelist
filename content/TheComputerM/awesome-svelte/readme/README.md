@@ -239,7 +239,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Svelte Tweakpane UI](https://kitschpatrol.com/svelte-tweakpane-ui) - UI elements from [Tweakpane](https://tweakpane.github.io/docs/) wrapped in a collection of idiomatic Svelte components.
 *   [svelte-tree-viewer (⭐16)](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 *   [svelte-copyright (⭐17)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
-*   [svelte-splitpanes (⭐408)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels.
+*   [svelte-splitpanes (⭐409)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels.
 *   [mathjax-svelte (⭐0)](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
 *   [svelte-stepper (⭐150)](https://github.com/efstajas/svelte-stepper) - A Svelte component for building animated step flows.
 *   [css-3d-progress (⭐2)](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
@@ -334,7 +334,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [@danielsharkov/svelte-router (⭐13)](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.
 *   [@shaun/svelterouter (⭐3)](https://github.com/shaunlee/svelterouter) - Another vue-router inspired Svelte router.
 *   [Elegua (⭐82)](https://github.com/howesteve/elegua) - Small (< 180LoC), fast, easy, full featured SPA router
-*   [svelte5-router (⭐97)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
+*   [svelte5-router (⭐98)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 
 ## Frameworks
 

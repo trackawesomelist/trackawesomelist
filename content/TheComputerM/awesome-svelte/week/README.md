@@ -70,7 +70,7 @@
 
 ### Routers / Form Components
 
-*   [svelte5-router (⭐97)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
+*   [svelte5-router (⭐98)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -267,7 +267,7 @@
 
 ### Miscellaneous
 
-*   [svelte-splitpanes (⭐408)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels.
+*   [svelte-splitpanes (⭐409)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels.
 *   [mathjax-svelte (⭐0)](https://github.com/WoolDoughnut310/mathjax-svelte) - A Svelte component for MathJax.
 
 ### Forms
