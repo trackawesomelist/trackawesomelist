@@ -6,15 +6,23 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ Daily / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
-## [Jan 27, 2025](/content/2025/01/27/README.md)
+## [Jan 28, 2025](/content/2025/01/28/README.md)
 
 ### Artificial Intelligence
 
 *   [LlmTornado (⭐46)](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
 
+### Desktop
+
+*   [Sucrose Wallpaper Engine (⭐602)](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
+
 ### Logging
 
 *   [AutoLoggerMessage (⭐37)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+
+### Tools
+
+*   [STranslate (⭐2.8k)](https://github.com/ZGGSONG/STranslate) - STranslate is a ready-to-go translation ocr tool developed with WPF.
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 

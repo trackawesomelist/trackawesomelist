@@ -6,7 +6,7 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
-## [Jan 27, 2025](/content/2025/01/27/README.md)
+## [Jan 28, 2025](/content/2025/01/28/README.md)
 
 ### Projects / API Management
 

@@ -11,7 +11,7 @@
 ### Projects Using Vue.js / Open Source
 
 *   [MyIP (⭐7.1k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
-*   [fylepad (⭐92)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
+*   [fylepad (⭐93)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
 
 ### Components & Libraries / UI Components
 
@@ -61,7 +61,7 @@
 ### Components & Libraries / Frameworks
 
 *   [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and Tailwind CSS.
-*   [flowbite-vue (⭐803)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
+*   [flowbite-vue (⭐804)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 
 ### Components & Libraries / UI Components
 
@@ -71,7 +71,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [Unhead (⭐670)](https://github.com/unjs/unhead)
+*   [Unhead (⭐671)](https://github.com/unjs/unhead)
 *   [Official: Vue Teleport](https://vuejs.org/guide/built-ins/teleport)
 
 ### Components & Libraries / Dev Tools
@@ -128,7 +128,7 @@
 
 ### Components & Libraries / Dev Tools
 
-*   [Vue Mess Detector (⭐279)](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
+*   [Vue Mess Detector (⭐280)](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 
 ## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
 
@@ -465,7 +465,7 @@
 *   [vueginate (⭐5)](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
 *   [blottie (⭐11)](https://github.com/Applelo/blottie) Lottie component for Vue 3
 *   [TresJs (⭐2.4k)](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
-*   [Cientos (⭐306)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
+*   [Cientos (⭐307)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
 
 ## [May 15 - May 21, 2023](/content/2023/20/README.md)
 
@@ -746,7 +746,7 @@
 ### Components & Libraries / UI Components
 
 *   [qalendar (⭐275)](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
-*   [sortablejs-vue3 (⭐386)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
+*   [sortablejs-vue3 (⭐387)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
@@ -1201,7 +1201,7 @@
 ### Components & Libraries / UI Utilities
 
 *   [@vuito/vue (⭐4)](https://github.com/mathix420/vuito) - Simple, lightweight, isomorphic, and template-based validation library.
-*   [vue3-lazyload (⭐36)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
+*   [vue3-lazyload (⭐37)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
 
 ## [Apr 19 - Apr 25, 2021](/content/2021/16/README.md)
 
@@ -2036,7 +2036,7 @@
 *   [vue-command (⭐309)](https://github.com/ndabAP/vue-command) - A fully working Vue.js terminal emulator
 *   [vue-fixed-header (⭐167)](https://github.com/potato4d/vue-fixed-header) - Simple and cross-browser friendly fixed header component for Vue.js written by TypeScript.
 *   [vue-twemoji-picker (⭐225)](https://github.com/kevinfaguiar/vue-twemoji-picker) - A fast plug-n-play Twemoji Picker (+textarea for Twemoji rendering) for Vue.
-*   [vue-tel-input (⭐823)](https://github.com/EducationLink/vue-tel-input) - International Telephone Input with Vue.
+*   [vue-tel-input (⭐824)](https://github.com/EducationLink/vue-tel-input) - International Telephone Input with Vue.
 *   [vue-scroll-picker (⭐270)](https://github.com/wan2land/vue-scroll-picker) - A scroll picker component for Vue 2.x. Support all gestures of mouse(also wheel) and touch.
 *   [form-create (⭐6.3k)](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data
 *   [vue-select (⭐4.7k)](https://github.com/sagalbot/vue-select) - A native Vue.js component that provides similar functionality to Select2 without the overhead of jQuery.
@@ -2052,7 +2052,7 @@
 *   [vue-froala-wysiwyg (⭐636)](https://github.com/froala/vue-froala-wysiwyg) - Official VueJS plugin for Froala WYSIWIG HTML Editor.
 *   [vue-trix (⭐245)](https://github.com/hanhdt/vue-trix) - Simple and lightweight Trix rich-text editor for Vue.js
 *   [tiptap (⭐28k)](https://github.com/heyscrumpy/tiptap) - A renderless and extendable rich-text editor for Vue.js
-*   [ckeditor5-vue (⭐370)](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
+*   [ckeditor5-vue (⭐371)](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
 *   [vue-cropper (⭐4.4k)](https://github.com/xyxiao001/vue-cropper) - A picture clipping plugin for vue2.0
 *   [vue-croppie (⭐261)](https://github.com/jofftiquez/vue-croppie) - Yet another image cropper
 *   [vue-advanced-cropper (⭐1k)](https://github.com/Norserium/vue-advanced-cropper) - An advanced cropper that gives you opportunity to create almost any cropper that you desire
@@ -2376,7 +2376,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-datepicker (⭐166)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
+*   [vue-datepicker (⭐165)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 
 ## [Jun 17 - Jun 23, 2019](/content/2019/24/README.md)
 

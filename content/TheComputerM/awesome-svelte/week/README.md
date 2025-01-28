@@ -91,7 +91,7 @@
 
 ### Table
 
-*   [@vincjo/datatables (⭐494)](https://github.com/vincjo/datatables) - A toolkit for creating datatable components with Svelte.
+*   [@vincjo/datatables (⭐495)](https://github.com/vincjo/datatables) - A toolkit for creating datatable components with Svelte.
 
 ### Icons
 
@@ -173,7 +173,7 @@
 ### UI Libraries
 
 *   [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
-*   [M3 Svelte (⭐280)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
+*   [M3 Svelte (⭐279)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 
 ### Frameworks / Form Components
 
@@ -321,7 +321,7 @@
 
 ### UI Libraries
 
-*   [ionic-svelte (⭐792)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+*   [ionic-svelte (⭐799)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 

@@ -10,7 +10,7 @@ A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
 
 ### Physics
 
-*   [slick (⭐15)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
+*   [slick (⭐17)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 

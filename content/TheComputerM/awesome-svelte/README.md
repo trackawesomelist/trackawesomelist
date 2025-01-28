@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/TheComputerM/awesome-svelte/week/README.md) / [Overview](/content/TheComputerM/awesome-svelte/readme/README.md) ]
 
-## [Jan 27, 2025](/content/2025/01/27/README.md)
+## [Jan 28, 2025](/content/2025/01/28/README.md)
 
 ### YouTube Channels
 
@@ -91,7 +91,7 @@
 
 ### Table
 
-*   [@vincjo/datatables (⭐494)](https://github.com/vincjo/datatables) - A toolkit for creating datatable components with Svelte.
+*   [@vincjo/datatables (⭐495)](https://github.com/vincjo/datatables) - A toolkit for creating datatable components with Svelte.
 
 ### Icons
 
@@ -184,7 +184,7 @@
 ### UI Libraries
 
 *   [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
-*   [M3 Svelte (⭐280)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
+*   [M3 Svelte (⭐279)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 
 ## [Feb 09, 2024](/content/2024/02/09/README.md)
 
@@ -339,7 +339,7 @@
 
 ### UI Libraries
 
-*   [ionic-svelte (⭐792)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
+*   [ionic-svelte (⭐799)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 
 ## [Jun 25, 2022](/content/2022/06/25/README.md)
 

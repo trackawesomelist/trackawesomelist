@@ -61,6 +61,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
     *   [DateTime](#datetime)
     *   [Decompilation](#decompilation)
     *   [Deployment](#deployment)
+    *   [Desktop](#desktop)
     *   [DirectX](#directx)
     *   [Distributed Computing](#distributed-computing)
     *   [DLR](#dlr)
@@ -475,6 +476,10 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## DirectX
 
 *   [Vortice.Windows (⭐1k)](https://github.com/amerkoleci/Vortice.Windows) - Cross platform .NET standard libraries for DirectX, WIC, Direct2D1, XInput, XAudio and X3DAudio
+
+## Desktop
+
+*   [Sucrose Wallpaper Engine (⭐602)](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
 ## Distributed Computing
 
@@ -1265,6 +1270,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [Another Redis Desktop Manager (⭐31k)](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager \[GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
 *   [OctaneEngine (⭐237)](https://github.com/gregyjames/OctaneDownloader) - A high performance multipart downloader with many features such as pause/resume support, asynchronous progress, and throttling.
 *   [FastCloner (⭐31)](https://github.com/lofcz/FastCloner) - Fast deep cloning library for .NET 8+. Zero-config, works out of the box.
+*   [STranslate (⭐2.8k)](https://github.com/ZGGSONG/STranslate) - STranslate is a ready-to-go translation ocr tool developed with WPF.
 
 ## Trading
 

@@ -624,7 +624,7 @@
 *   [YesPlayMusic (⭐30k)](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
 *   [douyin (⭐10k)](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
 *   [MyIP (⭐7.1k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
-*   [fylepad (⭐92)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
+*   [fylepad (⭐93)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
 
 ### Commercial Products
 
@@ -913,7 +913,7 @@
 *   [Stellar UI (⭐39)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 *   [Shadcn UI (⭐5.9k)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui (⭐80k)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue (⭐4.1k)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS (⭐85k)](https://github.com/tailwindlabs/tailwindcss)).
 *   [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and Tailwind CSS.
-*   [flowbite-vue (⭐803)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
+*   [flowbite-vue (⭐804)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 
 #### Mobile
 
@@ -1252,7 +1252,7 @@ Tooltips / popovers
 
 ##### Phone Number Input Formatter
 
-*   [vue-tel-input (⭐823)](https://github.com/EducationLink/vue-tel-input) - International Telephone Input with Vue.
+*   [vue-tel-input (⭐824)](https://github.com/EducationLink/vue-tel-input) - International Telephone Input with Vue.
 
 ##### Picker
 
@@ -1272,7 +1272,7 @@ Tooltips / popovers
 
 *   [vue-flatpickr-component (⭐970)](https://github.com/ankurk91/vue-flatpickr-component) Vue.js component for [flatpickr (⭐16k)](https://github.com/chmln/flatpickr) datetime picker
 *   [VCalendar](https://vcalendar.io/) Very customizable and powerful calendar/datepicker component with many features and good documentation.
-*   [vue-datepicker (⭐166)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
+*   [vue-datepicker (⭐165)](https://github.com/mathieustan/vue-datepicker) - A clean & responsive datepicker with Material Design style for Vuejs 2.x. (date/month/quarter && date range picker) :new:
 
 ##### Select
 
@@ -1291,7 +1291,7 @@ Tooltips / popovers
 *   [vue-draggable-resizable (⭐3.4k)](https://github.com/mauricius/vue-draggable-resizable) - Vue2 component for draggable and resizable elements.
 *   [vue-smooth-dnd (⭐1.8k)](https://github.com/kutlugsahin/vue-smooth-dnd) - Vue wrappers of smooth-dnd library. drag and drop, sortable library covering for many cases.
 *   [vue3-dnd (⭐662)](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
-*   [sortablejs-vue3 (⭐386)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
+*   [sortablejs-vue3 (⭐387)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
 *   [vue-fluid-dnd (⭐268)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
 
 ##### Type Select
@@ -1327,7 +1327,7 @@ Tooltips / popovers
 *   [vue-froala-wysiwyg (⭐636)](https://github.com/froala/vue-froala-wysiwyg) - Official VueJS plugin for Froala WYSIWIG HTML Editor.
 *   [vue-trix (⭐245)](https://github.com/hanhdt/vue-trix) - Simple and lightweight Trix rich-text editor for Vue.js
 *   [tiptap (⭐28k)](https://github.com/heyscrumpy/tiptap) - A renderless and extendable rich-text editor for Vue.js
-*   [ckeditor5-vue (⭐370)](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
+*   [ckeditor5-vue (⭐371)](https://github.com/ckeditor/ckeditor5-vue) - An official CKEditor 5 rich text editor component for Vue.js.
 *   [vue-quilly (⭐64)](https://github.com/alekswebnet/vue-quilly) - 🪶 Tiny Vue 3 component, that helps to create Quill v2 based WYSIWYG editors.
 
 ##### Image Manipulation
@@ -1438,7 +1438,7 @@ Tooltips / popovers
 #### Lazy Load
 
 *   [vue-lazy (⭐3)](https://github.com/bartdominiak/vue-lazy) - Lightweight Image/Picture lazyload based on Intersection API
-*   [vue3-lazyload (⭐36)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
+*   [vue3-lazyload (⭐37)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
 
 #### Pagination
 
@@ -1469,7 +1469,7 @@ Tooltips / popovers
 
 *Manage meta information in the document head*
 
-*   [Unhead (⭐670)](https://github.com/unjs/unhead)
+*   [Unhead (⭐671)](https://github.com/unjs/unhead)
 
 #### Portal
 
@@ -1492,7 +1492,7 @@ Tooltips / popovers
 *   [VueGL (⭐680)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 *   [vue-displacement-slideshow (⭐213)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 *   [TresJs (⭐2.4k)](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
-*   [Cientos (⭐306)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
+*   [Cientos (⭐307)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
 *   [trois (⭐4.3k)](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 
 #### Fullscreen
@@ -1652,7 +1652,7 @@ Payment utilities.
 *   [Storybook](https://storybook.js.org) - The UI Development Environment. works with v3.2+ later.
 *   [Font Awesome Finder](https://chrome.google.com/webstore/detail/font-awesome-icon-finder/kjejboahkcobalmgldloeinebmbomgog) - Chrome extension to search, preview and choose Font Awesome icons and copy the selected icon HTML code & Unicode to clipboard.
 *   [Bit (⭐18k)](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
-*   [Vue Mess Detector (⭐279)](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
+*   [Vue Mess Detector (⭐280)](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 
 #### Inspect
 

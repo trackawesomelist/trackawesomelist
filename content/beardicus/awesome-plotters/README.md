@@ -6,7 +6,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
-## [Jan 27, 2025](/content/2025/01/27/README.md)
+## [Jan 28, 2025](/content/2025/01/28/README.md)
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 

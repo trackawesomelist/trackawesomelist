@@ -273,7 +273,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *   [Bump (⭐961)](https://github.com/kikito/bump.lua) - Collision detection library for Lua.
 *   [HC](https://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects.
 *   [loveblobs](https://github.com/exezin/loveblobs) - A softbody library with support for both dynamic and static arbitrary softbodies.
-*   [slick (⭐15)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
+*   [slick (⭐17)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
 *   [Strike (⭐28)](https://github.com/Aweptimum/Strike) - 2D collision detection library. Extendable, based on Separating-Axis-Theorem.
 
 ## Platforms

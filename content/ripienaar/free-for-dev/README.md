@@ -6,7 +6,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
-## [Jan 27, 2025](/content/2025/01/27/README.md)
+## [Jan 28, 2025](/content/2025/01/28/README.md)
 
 ### Authentication, Authorization, and User Management
 
@@ -5596,7 +5596,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [stathat.com](https://www.stathat.com/) — Get started with ten stats for free, no expiration
 *   [statuscake.com](https://www.statuscake.com/) — Website monitoring, unlimited tests free with limitations
 *   [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
-*   [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
 
 ### Crash and Exception Handling
 
