@@ -196,6 +196,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [DrawDB (⭐24k)](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 *   [ERAlchemy (⭐1.2k)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 *   [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
+*   [Liam ERD (⭐326)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
 *   [QuickDBD](https://www.quickdatabasediagrams.com/) - Simple online tool to quickly draw database diagrams.
 
 ### Documentations
@@ -228,7 +229,7 @@ Building API for your Data
 
 *   [Datasette (⭐9.7k)](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 *   [DreamFactory (⭐1.6k)](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
-*   [Graphweaver (⭐499)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
+*   [Graphweaver (⭐501)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
 *   [Hasura GraphQL Engine (⭐31k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 *   [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
 *   [Prisma (⭐17k)](https://github.com/prismagraphql/prisma) -  Prisma turns your database into a realtime GraphQL API.

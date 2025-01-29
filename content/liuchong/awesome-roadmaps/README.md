@@ -78,7 +78,7 @@ A curated list of roadmaps.
 
 ### Miscellaneous
 
-*   [System Design Roadmap (⭐393)](https://github.com/mohsenshafiei/system-design-master-plan) - Roadmap to learn system design and architecture [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/mohsenshafiei/system-design-master-plan).
+*   [System Design Roadmap (⭐394)](https://github.com/mohsenshafiei/system-design-master-plan) - Roadmap to learn system design and architecture [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/mohsenshafiei/system-design-master-plan).
 *   [UI/UX Designer Roadmap (⭐2.1k)](https://github.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017 [<img src="https://img.shields.io/badge/Roadmap-2017-yellow.svg">](https://github.com/togiberlin/ui-ux-designer-roadmap).
 
 ## [Oct 09, 2021](/content/2021/10/09/README.md)

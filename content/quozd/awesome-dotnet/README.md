@@ -14,11 +14,11 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Desktop
 
-*   [Sucrose Wallpaper Engine (⭐603)](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
+*   [Sucrose Wallpaper Engine (⭐604)](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
 ### Logging
 
-*   [AutoLoggerMessage (⭐41)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐43)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ### Tools
 

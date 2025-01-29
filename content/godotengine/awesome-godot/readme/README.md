@@ -150,8 +150,8 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 #### Godot 4
 
 *   [Godot XR Template (⭐151)](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
-*   [Maaack's Game Template (⭐608)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
-*   [Takin Godot Template (⭐108)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+*   [Maaack's Game Template (⭐609)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
+*   [Takin Godot Template (⭐109)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
 #### Godot 3
 
@@ -223,10 +223,10 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 *   [Importality (⭐367)](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others.
 *   [Input Helper (⭐834)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls. *(Godot 3 and 4)*
 *   [LimboAI (⭐1.4k)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
-*   [Maaack's Game Template Plugin (⭐608)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
+*   [Maaack's Game Template Plugin (⭐609)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 *   [Maaack's Menus Template (⭐167)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 *   [Maaack's Scene Loader (⭐32)](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
-*   [NobodyWho (⭐156)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
+*   [NobodyWho (⭐163)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 *   [Orchestrator (⭐1k)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games.
 *   [PixelPen (⭐112)](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
 *   [Quest Manager (⭐40)](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
@@ -238,7 +238,7 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 *   [SmartShape2D (⭐1.4k)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool. *(Godot 3 and 4)*
 *   [System Bar Color Changer (⭐19)](https://github.com/syntaxerror247/godot-android-system-bar-color-changer) - An Android plugin that enables you to dynamically change the colors of the status bar and navigation bar, and also supports enabling translucent system bars for a modern, immersive UI experience.
 *   [Talo (⭐56)](https://github.com/TaloDev/godot) - A self-hostable game backend for managing players, leaderboards, stats, saving/loading data and more.
-*   [TerraBrush (⭐788)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
+*   [TerraBrush (⭐789)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 *   [Virtual Joystick (⭐770)](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options. *(Godot 3 and 4)*
 *   [Your Buil](https://codeberg.org/svetogam/yourbuil) - A plugin that makes it as easy as possible to use build data like git commit hashes in your build.
 
@@ -262,7 +262,7 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 *   [Dijkstra map for Godot (⭐79)](https://github.com/MatejSloboda/Dijkstra_map_for_Godot) - A GDNative project for Godot game engine, that introduces Dijktra Map pathfinding node.
 *   [Discord.gd (⭐118)](https://github.com/3ddelano/discord.gd) - Discord bot API wrapper. Make bots in 100% GDScript.
 *   [EffekseerForGodot3 (⭐133)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects.
-*   [Escoria (⭐798)](https://github.com/godotengine/escoria) - Point & click adventure game framework. *(Godot 2 and 3)*
+*   [Escoria (⭐799)](https://github.com/godotengine/escoria) - Point & click adventure game framework. *(Godot 2 and 3)*
 *   [FMOD GDNative (⭐514)](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript.
 *   [Funexpected Flash Tools (⭐21)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
 *   [GDGIFExporter (⭐126)](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
@@ -319,7 +319,7 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 #### Godot 2
 
 *   [Auto Tile Layer (⭐29)](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format.
-*   [Grass Plugin (⭐72)](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations.
+*   [Grass Plugin (⭐73)](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations.
 *   [gterm (⭐100)](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators.
 *   [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
 
@@ -350,7 +350,7 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 *   [GodotHook (⭐50)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine. *(Godot 3 and 4)*
 *   [godot-jolt (⭐2.3k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐7.2k)](https://github.com/jrouwe/JoltPhysics).
 *   [godot-luaAPI (⭐406)](https://github.com/WeaselGames/godot_luaAPI) - Module for creating sandboxed modding APIs with Lua. *(Godot 3 and 4)*
-*   [godot-rapier-2d (⭐480)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐4.3k)](https://github.com/dimforge/rapier) physics server for Godot.
+*   [godot-rapier-2d (⭐481)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐4.3k)](https://github.com/dimforge/rapier) physics server for Godot.
 *   [Keyring (⭐6)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
 *   [Texture Packer (⭐63)](https://github.com/Relintai/texture_packer) - Tools to layer, pack, and merge textures at runtime. *(Godot 3 and 4)*
 *   [Voxelman (⭐100)](https://github.com/Relintai/voxelman) - A voxel engine with more focus on editor integration, gameplay-related features, and extendability. *(Godot 3 and 4)*
@@ -393,7 +393,7 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 *   [Geany (⭐21)](https://github.com/haimat/GDScript-Geany) - Syntax highlighting.
 *   [Gedit (⭐17)](https://github.com/haimat/GDScript-gedit) - Syntax highlighting.
 *   [IntelliJ IDEA (⭐149)](https://github.com/exigow/intellij-gdscript) - Syntax highlighting and autocompletion.
-*   [JetBrains Rider (C#) (⭐412)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
+*   [JetBrains Rider (C#) (⭐413)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 *   [Kakoune](https://github.com/Skytrias/gdscript-kak) - Syntax highlighting.
 *   [GNU Nano (⭐2)](https://github.com/GodotID/nano-gdscript) - Syntax highlighting.
 *   [Sublime Text (⭐67)](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.

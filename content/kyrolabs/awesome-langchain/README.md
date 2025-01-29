@@ -36,12 +36,12 @@
 ### Tools / Services
 
 *   [Pluto (⭐90)](https://github.com/pluto-lang/pluto): Simplify deploying LangChain applications on AWS by allowing you to define and utilize necessary cloud resources directly in your application code, automatically creating the required infrastructure. ![GitHub Repo stars](https://img.shields.io/github/stars/pluto-lang/pluto?style=social)
-*   [Llama-github (⭐262)](https://github.com/JetXu-LLM/llama-github): Llama-github is a python library which built with Langchain framework that helps you retrieve the most relevant code snippets, issues, and repository information from GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/JetXu-LLM/llama-github?style=social)
+*   [Llama-github (⭐261)](https://github.com/JetXu-LLM/llama-github): Llama-github is a python library which built with Langchain framework that helps you retrieve the most relevant code snippets, issues, and repository information from GitHub ![GitHub Repo stars](https://img.shields.io/github/stars/JetXu-LLM/llama-github?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Rigging (⭐229)](https://github.com/dreadnode/rigging): Lightweight LLM Interaction Framework (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/dreadnode/rigging?style=social)
-*   [Nerve (⭐765)](https://github.com/evilsocket/nerve): Instrument any LLM to do actual stuff (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/nerve-ai/nerve?style=social)
+*   [Nerve (⭐767)](https://github.com/evilsocket/nerve): Instrument any LLM to do actual stuff (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/nerve-ai/nerve?style=social)
 *   [Vision agent (⭐1.8k)](https://github.com/landing-ai/vision-agent): Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task. ![GitHub Repo stars](https://img.shields.io/github/stars/landing-ai/vision-agent?style=social)
 *   [llama-agents (⭐1.9k)](https://github.com/run-llama/llama-agents): llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=social)
 *   [Claude Engineer (⭐11k)](https://github.com/Doriandarko/claude-engineer): Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=social)
@@ -298,7 +298,7 @@
 
 ### Tools / Services
 
-*   [Llama2 Embedding Server (⭐988)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
+*   [Llama2 Embedding Server (⭐990)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
 
 ## [Aug 15, 2023](/content/2023/08/15/README.md)
 
@@ -336,7 +336,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLMFlow (⭐679)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
+*   [LLMFlow (⭐680)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
 
 ## [Jul 31, 2023](/content/2023/07/31/README.md)
 
@@ -772,7 +772,7 @@
 ### Tools / Services
 
 *   [LlamaHub (⭐3.5k)](https://github.com/emptycrown/llama-hub): a library of data loaders for LLMs made by the community ![GitHub Repo stars](https://img.shields.io/github/stars/emptycrown/llama-hub?style=social)
-*   [EVAL (⭐869)](https://github.com/corca-ai/EVAL): Elastic Versatile Agent with Langchain. will execute all your requests. ![GitHub Repo stars](https://img.shields.io/github/stars/corca-ai/EVAL?style=social)
+*   [EVAL (⭐870)](https://github.com/corca-ai/EVAL): Elastic Versatile Agent with Langchain. will execute all your requests. ![GitHub Repo stars](https://img.shields.io/github/stars/corca-ai/EVAL?style=social)
 *   [Auto-evaluator (⭐1.1k)](https://github.com/PineappleExpress808/auto-evaluator): a lightweight evaluation tool for question-answering using Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/PineappleExpress808/auto-evaluator?style=social)
 *   [Langchain visualizer (⭐728)](https://github.com/amosjyng/langchain-visualizer): visualization and debugging tool for LangChain workflows ![GitHub Repo stars](https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social)
 *   [LLM Strategy (⭐394)](https://github.com/BlackHC/llm-strategy): implementing the Strategy Pattern using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/BlackHC/llm-strategy?style=social)
@@ -831,7 +831,7 @@
 
 ### Unmaintained / Videos Playlists
 
-*   [LangchainUI (⭐889)](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
+*   [LangchainUI (⭐888)](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
 *   [Yeager.ai (⭐586)](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease ![GitHub Repo stars](https://img.shields.io/github/stars/yeagerai/yeagerai-agent?style=social)
 
 ## [Apr 17, 2023](/content/2023/04/17/README.md)

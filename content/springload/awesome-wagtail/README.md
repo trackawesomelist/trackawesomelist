@@ -17,7 +17,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Rich text editor extensions
 
-*   [wagtailmdx (⭐1)](https://github.com/TheBestDestroyer/wagtailmdx) - A [MDXEditor (⭐2.2k)](https://github.com/mdx-editor/editor) integration for Wagtail as textfield widget.
+*   [wagtailmdx (⭐1)](https://github.com/TheBestDestroyer/wagtailmdx) - A [MDXEditor (⭐2.3k)](https://github.com/mdx-editor/editor) integration for Wagtail as textfield widget.
 
 ## [Aug 22, 2024](/content/2024/08/22/README.md)
 
@@ -806,7 +806,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Open-source sites / Lists
 
-*   [bakerydemo (⭐984)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
+*   [bakerydemo (⭐985)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
 *   [wagtaildemo (⭐285)](https://github.com/wagtail/wagtaildemo) – An example site implemented with Wagtail.
 
 ## [Sep 29, 2017](/content/2017/09/29/README.md)

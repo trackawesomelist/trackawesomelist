@@ -14,7 +14,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-builder (⭐0)](https://github.com/yracnet/vite-plugin-builder) - Enable dual compilation for Server-Side Rendering (SSR) and Client-Side Rendering (CSR).
+*   [vite-plugin-builder (⭐1)](https://github.com/yracnet/vite-plugin-builder) - Enable dual compilation for Server-Side Rendering (SSR) and Client-Side Rendering (CSR).
 
 ## [Jan 20 - Jan 26, 2025](/content/2025/3/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Tauri / Electron
 
-*   [HuLa (⭐983)](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
+*   [HuLa (⭐986)](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -213,7 +213,7 @@
 
 ### Framework-agnostic Plugins / Security
 
-*   [vite-plugin-csp-guard (⭐28)](https://github.com/RockiRider/csp/tree/main/packages/vite-plugin-csp-guard) - Lets you configure a Content Security Policy to your project, supports all directives and hashing.
+*   [vite-plugin-csp-guard (⭐29)](https://github.com/RockiRider/csp/tree/main/packages/vite-plugin-csp-guard) - Lets you configure a Content Security Policy to your project, supports all directives and hashing.
 
 ### WordPress / Community
 
@@ -279,7 +279,7 @@
 
 ### Open Source / Community
 
-*   [@lazarv/react-server (⭐207)](https://github.com/lazarv/react-server) - A React meta-framework.
+*   [@lazarv/react-server (⭐208)](https://github.com/lazarv/react-server) - A React meta-framework.
 
 ## [Jun 03 - Jun 09, 2024](/content/2024/23/README.md)
 
@@ -902,7 +902,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [unplugin-fonts (⭐357)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
+*   [unplugin-fonts (⭐358)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -1005,7 +1005,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-entry-shaking (⭐132)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
+*   [vite-plugin-entry-shaking (⭐133)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
@@ -1062,7 +1062,7 @@
 
 ### Vue / Ecosystem
 
-*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-i18n (⭐249)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
+*   ![v3](https://img.shields.io/badge/-v3-35495e) [unplugin-vue-i18n (⭐250)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
 
 ### Preact / Presets
 
@@ -1198,7 +1198,7 @@
 
 ### Get Started
 
-*   [create-vite-app (⭐230)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
+*   [create-vite-app (⭐231)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
 
 ### Templates / Vue 2
 
@@ -1241,7 +1241,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-inject (⭐63)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
+*   [vite-plugin-html-inject (⭐64)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
 
 ### Symfony / Community
 
@@ -1492,7 +1492,7 @@
 
 ### WordPress / Community
 
-*   [wordpress-vite-assets (⭐136)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+*   [wordpress-vite-assets (⭐135)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
@@ -1857,7 +1857,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html (⭐621)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
+*   [vite-plugin-html (⭐622)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 
 ## [Feb 08 - Feb 14, 2021](/content/2021/6/README.md)
 

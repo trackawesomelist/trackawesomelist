@@ -10,7 +10,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Templates / Godot 4
 
-*   [Takin Godot Template (⭐108)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+*   [Takin Godot Template (⭐109)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
 ## [Jan 12, 2025](/content/2025/01/12/README.md)
 
@@ -27,7 +27,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Godot 4
 
-*   [NobodyWho (⭐156)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
+*   [NobodyWho (⭐163)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 
 ## [Nov 28, 2024](/content/2024/11/28/README.md)
 
@@ -97,7 +97,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Plugins and scripts / Godot 4
 
 *   [Godot XR Tools (⭐552)](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
-*   [TerraBrush (⭐788)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
+*   [TerraBrush (⭐789)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 
 ## [Aug 20, 2024](/content/2024/08/20/README.md)
 
@@ -162,11 +162,11 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Templates / Godot 4
 
-*   [Maaack's Game Template (⭐608)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
+*   [Maaack's Game Template (⭐609)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 
 ### Plugins and scripts / Godot 4
 
-*   [Maaack's Game Template Plugin (⭐608)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
+*   [Maaack's Game Template Plugin (⭐609)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 *   [Maaack's Menus Template (⭐167)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 *   [Maaack's Scene Loader (⭐32)](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
 
@@ -230,7 +230,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 *   [godot-box2d (⭐328)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐8.5k)](https://github.com/erincatto/box2d) physics server for Godot.
 *   [godot-jolt (⭐2.3k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐7.2k)](https://github.com/jrouwe/JoltPhysics).
-*   [godot-rapier-2d (⭐480)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐4.3k)](https://github.com/dimforge/rapier) physics server for Godot.
+*   [godot-rapier-2d (⭐481)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐4.3k)](https://github.com/dimforge/rapier) physics server for Godot.
 
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
@@ -585,7 +585,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Godot 3
 
-*   [Escoria (⭐798)](https://github.com/godotengine/escoria) - Point & click adventure game framework. *(Godot 2 and 3)*
+*   [Escoria (⭐799)](https://github.com/godotengine/escoria) - Point & click adventure game framework. *(Godot 2 and 3)*
 
 ### Modules / Godot 4
 
@@ -904,7 +904,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Plugins and scripts / Godot 2
 
 *   [Auto Tile Layer (⭐29)](https://github.com/leezh/autotile) - Allows automatic 2D tiling using RPG Maker's Autotile format.
-*   [Grass Plugin (⭐72)](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations.
+*   [Grass Plugin (⭐73)](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amounts of grass, foliages and other vegetations.
 *   [gterm (⭐100)](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators.
 *   [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
 
@@ -926,7 +926,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### GDScript/C# editor support / Godot version unknown
 
-*   [JetBrains Rider (C#) (⭐412)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
+*   [JetBrains Rider (C#) (⭐413)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 
 ## [Aug 28, 2020](/content/2020/08/28/README.md)
 

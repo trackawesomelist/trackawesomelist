@@ -87,7 +87,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [Wagtail EditorJS (⭐11)](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 *   [Wagtail Terms (⭐6)](https://github.com/smark-1/wagtailterms) - A plugin to add a glossary terms entity to the Draftail editor.
 *   [Wagtail Text Alignment (⭐4)](https://github.com/Nigel2392/wagtail_text_alignment) - Align text, headings and more in your Wagtail richtext editor.
-*   [wagtailmdx (⭐1)](https://github.com/TheBestDestroyer/wagtailmdx) - A [MDXEditor (⭐2.2k)](https://github.com/mdx-editor/editor) integration for Wagtail as textfield widget.
+*   [wagtailmdx (⭐1)](https://github.com/TheBestDestroyer/wagtailmdx) - A [MDXEditor (⭐2.3k)](https://github.com/mdx-editor/editor) integration for Wagtail as textfield widget.
 
 ### Widgets
 
@@ -456,7 +456,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ## Open-source sites
 
-*   [bakerydemo (⭐984)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
+*   [bakerydemo (⭐985)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
 *   [wagtaildemo (⭐285)](https://github.com/wagtail/wagtaildemo) – An example site implemented with Wagtail.
 *   [Torchbox (⭐124)](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
 *   [Made with Wagtail (⭐86)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.

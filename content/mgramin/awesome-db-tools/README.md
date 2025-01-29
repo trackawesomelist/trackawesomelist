@@ -6,6 +6,12 @@ Everything that makes working with databases easier
 
 [ Daily / [Weekly](/content/mgramin/awesome-db-tools/week/README.md) / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
+## [Jan 29, 2025](/content/2025/01/29/README.md)
+
+### Schema / Diagrams
+
+*   [Liam ERD (⭐326)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
+
 ## [Jan 18, 2025](/content/2025/01/18/README.md)
 
 ### Application platforms / Samples
@@ -147,7 +153,7 @@ Everything that makes working with databases easier
 
 ### API / Samples
 
-*   [Graphweaver (⭐499)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
+*   [Graphweaver (⭐501)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
 
 ## [Aug 04, 2023](/content/2023/08/04/README.md)
 

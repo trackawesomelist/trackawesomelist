@@ -54,7 +54,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [create-vite (⭐70k)](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 *   [create-vitawind (⭐160)](https://github.com/huibizhang/vitawind/tree/package/create-vitawind) - Scaffolding for TailwindCSS project.
 *   [create-electron-vite (⭐195)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
-*   [create-vite-app (⭐230)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
+*   [create-vite-app (⭐231)](https://github.com/ErKeLost/create-vite-app) - Scaffolding Your Out Of The Box Vite Project.
 *   [create-nx-workspace (⭐24k)](https://github.com/nrwl/nx) - Scaffolding a Nx + React + Vite + Vitest.
 *   [bati (⭐349)](https://github.com/batijs/bati) - Scaffolding a Vike project.
 *   [create-awesome-node-app (⭐73)](https://github.com/Create-Node-App/create-node-app) - Scaffolding your project choosing between different templates.
@@ -212,7 +212,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 ### Tauri
 
-*   [HuLa (⭐983)](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
+*   [HuLa (⭐986)](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
 
 #### Neutralino
 
@@ -278,7 +278,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-stylelint (⭐23)](https://github.com/ModyQyW/vite-plugin-stylelint) - Runs Stylelint synchronously/asynchronously.
 *   [Vite-plugin-graphiql (⭐7)](https://github.com/mammadataei/vite-plugin-graphiql) - Integration for GraphiQL IDE.
 *   [vite-plugin-graphql-server (⭐9)](https://github.com/mammadataei/vite-plugin-graphql-server) - Bootstrap a local GraphQL server for testing and documentaion.
-*   [unplugin-fonts (⭐357)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
+*   [unplugin-fonts (⭐358)](https://github.com/cssninjaStudio/unplugin-fonts) - Load font from Typekit, Google Fonts, Fontsource or your own custom one.
 *   [unplugin-config (⭐25)](https://github.com/kirklin/unplugin-config) - Configuration file generator for web apps, allowing external customization of global variables without repackaging.
 *   [vite-plugin-svg-spritemap (⭐50)](https://github.com/g-makarov/vite-plugin-svg-spritemap) - Generates a SVG spritemap from multiple .svg files.
 *   [vite-plugin-dc (⭐3)](https://github.com/dvgis/vite-plugin-dc) - Integration with @dvgis/dc-sdk library.
@@ -355,11 +355,11 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [@yuanjianming/unplugin-font-spider (⭐1)](https://github.com/yuan66-hub/unplugin-font-spider) - A webfont compression plugin.
 *   [vite-plugin-static-filehash (⭐7)](https://github.com/MrQinYQ/vite-plugin-static-filehash) - It can help the program improve the cache hit rate.
 *   [vite-plugin-singlefile-compression (⭐1)](https://github.com/bddjr/vite-plugin-singlefile-compression) - Compress all assets and embeds them into `dist/index.html`, making it convenient to share as a single HTML file.
-*   [vite-plugin-builder (⭐0)](https://github.com/yracnet/vite-plugin-builder) - Enable dual compilation for Server-Side Rendering (SSR) and Client-Side Rendering (CSR).
+*   [vite-plugin-builder (⭐1)](https://github.com/yracnet/vite-plugin-builder) - Enable dual compilation for Server-Side Rendering (SSR) and Client-Side Rendering (CSR).
 
 #### Transformers
 
-*   [vite-plugin-html (⭐621)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
+*   [vite-plugin-html (⭐622)](https://github.com/anncwb/vite-plugin-html) - Plugin to minimize and use ejs template syntax in `index.html`.
 *   [vite-plugin-ts-nameof (⭐22)](https://github.com/Shinigami92/vite-plugin-ts-nameof) - Ability to resolve [nameof (⭐493)](https://github.com/dsherret/ts-nameof) in TypeScript.
 *   [vite-plugin-handlebars (⭐190)](https://github.com/alexlafroscia/vite-plugin-handlebars) - Process HTML files with Handlebars.
 *   [vite-plugin-virtual-html (⭐74)](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with `@vue/cli`.
@@ -370,7 +370,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-pug-transformer (⭐38)](https://github.com/TheSeally/vite-plugin-pug-transformer) - Pug template engine support.
 *   [@import-meta-env/unplugin (⭐250)](https://github.com/runtime-env/import-meta-env) - Inject environment variables into the `import.meta.env` object after building the application instead of statically replacing it during production.
 *   [@modyfi/vite-plugin-yaml (⭐78)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
-*   [vite-plugin-html-inject (⭐63)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
+*   [vite-plugin-html-inject (⭐64)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
 *   [unplugin-inject-preload (⭐33)](https://github.com/Applelo/unplugin-inject-preload) - Inject `<link rel="preload">` to your `index.html` based on your build assets.
 *   [@vituum/vite-plugin-handlebars (⭐6)](https://github.com/vituum/vite-plugin-handlebars) - Handlebars template engine support, transforms `.hbs` templates to `.html`.
 *   [@vituum/vite-plugin-pug (⭐9)](https://github.com/vituum/vite-plugin-pug) - Pug template engine support, transforms `.pug` templates to `.html`.
@@ -433,7 +433,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 *   [vite-plugin-mock-dev-server (⭐187)](https://github.com/pengzhanbo/vite-plugin-mock-dev-server) - Mock server for development, support CJS/ESM/JSON, auto-importing file and HMR.
 *   [vite-plugin-api (⭐38)](https://github.com/yracnet/vite-plugin-api) - Generate route mapping for API Routes services from the directory tree.
 *   [vite-plugin-shortcuts (⭐10)](https://github.com/kinfuy/vite-plugin-shortcuts) - Add additional customized shortcut key population.
-*   [vite-plugin-entry-shaking (⭐132)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
+*   [vite-plugin-entry-shaking (⭐133)](https://github.com/Dschungelabenteuer/vite-plugin-entry-shaking) - Mimic tree-shaking behaviour when importing code from an entry file in development mode.
 *   [vite-plugin-auto-alias (⭐9)](https://github.com/jwyGithub/vite-plugin-auto-alias) - Automatically generate alias based on path.
 *   [vite-plugin-image-placeholder (⭐11)](https://github.com/pengzhanbo/vite-plugin-image-placeholder) - Generate placeholder images by path matches.
 *   [vite-plugin-find-image-duplicates (⭐7)](https://github.com/wChenonly/vite-plugin-find-image-duplicates) - Find if there are duplicate images in your project when building it.
@@ -470,7 +470,7 @@ Use the "Table of Contents" menu on the top-right corner to explore the list.
 
 #### Security
 
-*   [vite-plugin-csp-guard (⭐28)](https://github.com/RockiRider/csp/tree/main/packages/vite-plugin-csp-guard) - Lets you configure a Content Security Policy to your project, supports all directives and hashing.
+*   [vite-plugin-csp-guard (⭐29)](https://github.com/RockiRider/csp/tree/main/packages/vite-plugin-csp-guard) - Lets you configure a Content Security Policy to your project, supports all directives and hashing.
 *   [vite-plugin-csp (⭐0)](https://github.com/maccuaa/vite-plugin-csp) - Content Security Policy (CSP) for SPA. Automatically calculates asset hashes (SRI), detects Google Fonts. Support `Bun` and `Node.js` runtimes.
 
 <hr>
@@ -524,7 +524,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 #### Ecosystem
 
-*   ![v3] [unplugin-vue-i18n (⭐249)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
+*   ![v3] [unplugin-vue-i18n (⭐250)](https://github.com/intlify/bundle-tools/tree/main/packages/unplugin-vue-i18n) - Integration for Vue I18n.
 *   ![v3] [vite-plugin-i18n-resources (⭐31)](https://github.com/fvena/vite-plugin-i18n-resources) - Load i18n translation message files.
 *   ![v3] [vite-plugin-i18n-autoimport (⭐3)](https://github.com/PengBoUESTC/vite-plugin-i18n-autoimport) - Auto import i18n config file for components.
 
@@ -768,7 +768,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 
 ### WordPress
 
-*   [wordpress-vite-assets (⭐136)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+*   [wordpress-vite-assets (⭐135)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
 *   [Kima (⭐19)](https://github.com/axelilali/kima) - Starter theme with Twig.
 *   [WordPlate (⭐2.1k)](https://github.com/vinkla/wordplate) - Starter app with Composer.
 
@@ -842,7 +842,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 *   [Vituum (⭐330)](https://github.com/vituum/vituum) - Wrapper around Vite with predefined config, integrations and template engines.
 *   [Compiiile (⭐205)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
 *   [Gracile (⭐29)](https://github.com/gracile-web/gracile) - A meta-framework powered by Lit SSR.
-*   [@lazarv/react-server (⭐207)](https://github.com/lazarv/react-server) - A React meta-framework.
+*   [@lazarv/react-server (⭐208)](https://github.com/lazarv/react-server) - A React meta-framework.
 *   [WXT (⭐5.3k)](https://github.com/wxt-dev/wxt) - Framework for building web extensions, with the same DX as Nuxt.
 *   [Revili (⭐5)](https://github.com/revilijs/revili) - A command and GUI integration tool.
 
