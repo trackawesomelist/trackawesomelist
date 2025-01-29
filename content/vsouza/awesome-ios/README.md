@@ -6,6 +6,12 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 [ Daily / [Weekly](/content/vsouza/awesome-ios/week/README.md) / [Overview](/content/vsouza/awesome-ios/readme/README.md) ]
 
+## [Jan 29, 2025](/content/2025/01/29/README.md)
+
+### Analytics
+
+*   [Embrace](http://embrace.io) - Mobile observability, built on OpenTelemetry, to provide user-focused, reliable apps.
+
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
 ### Blockchain
@@ -1302,7 +1308,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 *   [PSTModernizer (⭐214)](https://github.com/PSPDFKit-labs/PSTModernizer) - Makes it easier to support older versions of iOS by fixing things and adding missing methods.
 *   [spacecommander (⭐1.1k)](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C code as a team without even trying.
 *   [SwiftCop (⭐541)](https://github.com/andresinaka/SwiftCop) -  SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐8k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐8.1k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 *   [Tailor (⭐1.4k)](https://github.com/sleekbyte/tailor) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 *   [WeakableSelf (⭐78)](https://github.com/vincent-pradeilles/weakable-self) - A Swift micro-framework to encapsulate `[weak self]` and `guard` statements within closures.
 

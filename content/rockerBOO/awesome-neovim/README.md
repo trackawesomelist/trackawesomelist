@@ -6,7 +6,7 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
-## [Jan 28, 2025](/content/2025/01/28/README.md)
+## [Jan 29, 2025](/content/2025/01/29/README.md)
 
 ### Completion / Diagnostics
 
@@ -14,7 +14,7 @@ Collections of awesome neovim plugins.
 
 ### Color / Diagnostics
 
-*   [xzbdmw/colorful-menu.nvim (⭐203)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+*   [xzbdmw/colorful-menu.nvim (⭐205)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
 ### Utility / Diagnostics
 
@@ -76,7 +76,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [philosofonusus/ecolog.nvim (⭐109)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
+*   [philosofonusus/ecolog.nvim (⭐114)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
 
 ## [Jan 12, 2025](/content/2025/01/12/README.md)
 
@@ -158,7 +158,7 @@ Collections of awesome neovim plugins.
 
 ### Split and Window / Diagnostics
 
-*   [MisanthropicBit/winmove.nvim (⭐7)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
+*   [MisanthropicBit/winmove.nvim (⭐8)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
 
 ## [Dec 20, 2024](/content/2024/12/20/README.md)
 
@@ -187,7 +187,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [supermaven-inc/supermaven-nvim (⭐855)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+*   [supermaven-inc/supermaven-nvim (⭐856)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 
 ## [Dec 07, 2024](/content/2024/12/07/README.md)
 

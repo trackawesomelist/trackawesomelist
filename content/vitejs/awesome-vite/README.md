@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/vitejs/awesome-vite/week/README.md) / [Overview](/content/vitejs/awesome-vite/readme/README.md) ]
 
-## [Jan 28, 2025](/content/2025/01/28/README.md)
+## [Jan 29, 2025](/content/2025/01/29/README.md)
 
 ### Templates / React
 
@@ -687,7 +687,7 @@
 
 ### Tauri / Others
 
-*   [vite-vue3-chrome-extension-v3 (⭐555)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
+*   [vite-vue3-chrome-extension-v3 (⭐556)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
 
 ## [Oct 18, 2023](/content/2023/10/18/README.md)
 
@@ -761,7 +761,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-node-polyfills (⭐326)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
+*   [vite-plugin-node-polyfills (⭐327)](https://github.com/davidmyersdev/vite-plugin-node-polyfills) - Polyfill Node's Core Modules for browser environments.
 
 ## [Sep 08, 2023](/content/2023/09/08/README.md)
 
@@ -912,7 +912,7 @@
 
 ### Templates / Vue 3
 
-*   [antdv-pro (⭐726)](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
+*   [antdv-pro (⭐727)](https://github.com/antdv-pro/antdv-pro) - AntdvPro is a complete set of enterprise-level mid-backend front-end/design solutions based on Vue3, Vite4, ant-design-vue4, Pinia, UnoCSS and Typescript.
 
 ### Templates / React
 
@@ -967,7 +967,7 @@
 ### React / Official
 
 *   [@vitejs/plugin-react (⭐646)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
-*   [@vitejs/plugin-react-swc (⭐906)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
+*   [@vitejs/plugin-react-swc (⭐908)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
 
 ## [May 31, 2023](/content/2023/05/31/README.md)
 
@@ -1070,7 +1070,7 @@
 
 ### Node.js / Community
 
-*   [vite-express (⭐705)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
+*   [vite-express (⭐706)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
 
 ## [Jan 20, 2023](/content/2023/01/20/README.md)
 
@@ -1254,7 +1254,7 @@
 
 ### Templates / Electron
 
-*   [electron-vue-template (⭐626)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
+*   [electron-vue-template (⭐627)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
 
 ## [Oct 05, 2022](/content/2022/10/05/README.md)
 
@@ -1312,7 +1312,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-validate-env (⭐182)](https://github.com/Julien-R44/vite-plugin-validate-env) - Validate your environment variables at build time. Never forget an environment variable again.
+*   [vite-plugin-validate-env (⭐183)](https://github.com/Julien-R44/vite-plugin-validate-env) - Validate your environment variables at build time. Never forget an environment variable again.
 
 ## [Aug 31, 2022](/content/2022/08/31/README.md)
 
@@ -1346,7 +1346,7 @@
 
 ### Templates / React
 
-*   [react-vite-ts-boilerplate (⭐109)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
+*   [react-vite-ts-boilerplate (⭐110)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
 
 ## [Aug 14, 2022](/content/2022/08/14/README.md)
 
@@ -1446,7 +1446,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-web-update-notification (⭐526)](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support vite and umijs.
+*   [vite-plugin-web-update-notification (⭐527)](https://github.com/GreatAuk/plugin-web-update-notification) - Detect webpage updates and notify user to reload. support vite and umijs.
 
 ### Framework-agnostic Plugins / Testing
 
@@ -1534,7 +1534,7 @@
 
 ### Get Started
 
-*   [create-electron-vite (⭐194)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
+*   [create-electron-vite (⭐195)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 
 ## [May 15, 2022](/content/2022/05/15/README.md)
 
@@ -1716,7 +1716,7 @@
 
 ### WordPress / Community
 
-*   [wordpress-vite-assets (⭐137)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
+*   [wordpress-vite-assets (⭐136)](https://github.com/idleberg/php-wordpress-vite-assets) - Integration for WordPress themes.
 
 ## [Feb 21, 2022](/content/2022/02/21/README.md)
 
@@ -1799,7 +1799,7 @@
 
 ### Svelte / Integrations
 
-*   [vite-plugin-svelte (⭐886)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
+*   [vite-plugin-svelte (⭐885)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
 ## [Dec 01, 2021](/content/2021/12/01/README.md)
 
@@ -1823,7 +1823,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-sass-dts (⭐123)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
+*   [vite-plugin-sass-dts (⭐124)](https://github.com/activeguild/vite-plugin-sass-dts) - This is a plugin that automatically creates a type file when using the CSS module type-safely.
 
 ## [Oct 12, 2021](/content/2021/10/12/README.md)
 
@@ -2141,7 +2141,7 @@
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-imagetools (⭐976)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
+*   [vite-imagetools (⭐977)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 
 ### React / Framework
 

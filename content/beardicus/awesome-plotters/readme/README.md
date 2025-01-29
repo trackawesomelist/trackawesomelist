@@ -162,7 +162,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 *   [PlotterFun](https://mitxela.com/plotterfun/) - Browser-based Image to SVG converter similar to SquiggleDraw.
 *   [SVG.js](https://svgjs.dev/) - Dependency-free lightweight library for creating, manipulating, and animating SVG.
 *   [Components AI](https://components.ai/) - Experimental computational design platform for exploring generative space.
-*   [DrawingBotV3 (⭐373)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
+*   [DrawingBotV3 (⭐374)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
 *   [linedraw (⭐783)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
 *   [plotter.vision](https://plotter.vision/) - Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses.
 *   [plotting-maps (⭐54)](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
@@ -183,7 +183,7 @@ Tools to manipulate and optimize vector-based file formats.
 *   [Polargraph Optimizer (⭐57)](https://github.com/ezheidtmann/polargraph-optimizer) - Optimize drawing plan for a polargraph.
 *   [penkit-optimize (⭐146)](https://github.com/paulgb/penkit/tree/master/optimizer) - An SVG optimizer that uses a vehicle routing solver to minimize plot time.
 *   [svg-crowbar (⭐841)](https://github.com/NYTimes/svg-crowbar) - Chrome-only bookmarklet for extracting SVG from an HTML document.
-*   [vpype (⭐757)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+*   [vpype (⭐758)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 *   [SVG Cropper](https://msurguy.github.io/svg-cropper-tool/) - A browser-based tool to crop SVGs using different primitives, custom shapes, or other SVGs.
 
 ### Fonts

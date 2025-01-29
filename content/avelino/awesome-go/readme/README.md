@@ -53,7 +53,7 @@ We use the *[Golang Bridge (⭐403)](https://github.com/gobridge/about-us/blob/m
 
 **Awesome Go has no monthly fee***, but we have employees who **work hard** to keep it running. With money raised, we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](https://github.com/avelino/awesome-go/blob/main/README.md/mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support).*
 
-> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐230k)](https://github.com/vinta/awesome-python).
+> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐232k)](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
@@ -2517,7 +2517,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [chromedp (⭐11k)](https://github.com/knq/chromedp) - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
 *   [ggr (⭐314)](https://github.com/aerokube/ggr) - a lightweight server that routes and proxies Selenium WebDriver requests to multiple Selenium hubs.
 *   [playwright-go (⭐2.4k)](https://github.com/mxschmitt/playwright-go) - browser automation library to control Chromium, Firefox and WebKit with a single API.
-*   [rod (⭐5.6k)](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy.
+*   [rod (⭐5.7k)](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy.
 *   [selenoid (⭐2.6k)](https://github.com/aerokube/selenoid) - alternative Selenium hub server that launches browsers within containers.
 
 ### Fail injection

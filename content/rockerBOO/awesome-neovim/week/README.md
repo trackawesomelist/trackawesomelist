@@ -14,7 +14,7 @@ Collections of awesome neovim plugins.
 
 ### Color / Diagnostics
 
-*   [xzbdmw/colorful-menu.nvim (⭐203)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+*   [xzbdmw/colorful-menu.nvim (⭐205)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
 ### Utility / Diagnostics
 
@@ -58,7 +58,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [philosofonusus/ecolog.nvim (⭐109)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
+*   [philosofonusus/ecolog.nvim (⭐114)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
 
 ### Terminal Integration / Diagnostics
 
@@ -137,7 +137,7 @@ Collections of awesome neovim plugins.
 
 ### Split and Window / Diagnostics
 
-*   [MisanthropicBit/winmove.nvim (⭐7)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
+*   [MisanthropicBit/winmove.nvim (⭐8)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
 
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
@@ -149,7 +149,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [supermaven-inc/supermaven-nvim (⭐855)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+*   [supermaven-inc/supermaven-nvim (⭐856)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 
 ### Programming Languages Support / Diagnostics
 

@@ -189,6 +189,7 @@ Please see [CONTRIBUTING (⭐48k)](https://github.com/vsouza/awesome-ios/blob/ma
 *   [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
 *   [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
 *   [devtodev](https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development.
+*   [Embrace](http://embrace.io) - Mobile observability, built on OpenTelemetry, to provide user-focused, reliable apps.
 *   [Emerge Tools](https://www.emergetools.com) - Prevent app size & performance regressions on every pull request, get automated insights on how to improve.
 *   [Instabug](https://instabug.com) - In-app feedback, Bug and Crash reporting, Fix Bugs Faster through user-steps, video recordings, screen annotation, network requests logging.
 *   [Matomo (⭐389)](https://github.com/matomo-org/matomo-sdk-ios) - The MatomoTracker is an iOS, tvOS and macOS SDK for sending app analytics to a Matomo server.
@@ -405,7 +406,7 @@ Please see [CONTRIBUTING (⭐48k)](https://github.com/vsouza/awesome-ios/blob/ma
 *   [PSTModernizer (⭐214)](https://github.com/PSPDFKit-labs/PSTModernizer) - Makes it easier to support older versions of iOS by fixing things and adding missing methods.
 *   [spacecommander (⭐1.1k)](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C code as a team without even trying.
 *   [SwiftCop (⭐541)](https://github.com/andresinaka/SwiftCop) -  SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations.
-*   [SwiftFormat (⭐8k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
+*   [SwiftFormat (⭐8.1k)](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code.
 *   [Tailor (⭐1.4k)](https://github.com/sleekbyte/tailor) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 *   [WeakableSelf (⭐78)](https://github.com/vincent-pradeilles/weakable-self) - A Swift micro-framework to encapsulate `[weak self]` and `guard` statements within closures.
 

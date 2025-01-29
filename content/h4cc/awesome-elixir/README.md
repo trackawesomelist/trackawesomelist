@@ -6,7 +6,7 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ Daily / [Weekly](/content/h4cc/awesome-elixir/week/README.md) / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
-## [Jan 28, 2025](/content/2025/01/28/README.md)
+## [Jan 29, 2025](/content/2025/01/29/README.md)
 
 ### HTTP
 

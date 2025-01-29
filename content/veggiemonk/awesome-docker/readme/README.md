@@ -217,7 +217,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐31k
 *   [Dockerana (⭐205)](https://github.com/dockerana/dockerana) :skull: - packaged version of Graphite and Grafana, specifically targeted at metrics from Docker.
 *   [DockProc](https://gitlab.com/n0r1sk/dockproc) - I/O monitoring for containers on processlevel.
 *   [dockprom (⭐6.1k)](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager by [@stefanprodan](https://github.com/stefanprodan)
-*   [Doku (⭐324)](https://github.com/amerkurev/doku) - Doku is a simple web-based application that allows you to monitor Docker disk usage. [@amerkurev](https://github.com/amerkurev)
+*   [Doku (⭐325)](https://github.com/amerkurev/doku) - Doku is a simple web-based application that allows you to monitor Docker disk usage. [@amerkurev](https://github.com/amerkurev)
 *   [Dozzle (⭐7.5k)](https://github.com/amir20/dozzle) - Monitor container logs in real-time with a browser or mobile device. [@amir20](https://github.com/amir20)
 *   [Dynatrace](https://www.dynatrace.com/solutions/container-monitoring/) :heavy\_dollar\_sign: - Monitor containerized applications without installing agents or modifying your Run commands
 *   [Glances (⭐27k)](https://github.com/nicolargo/glances) - A cross-platform curses-based system monitoring tool written in Python by [@nicolargo](https://github.com/nicolargo)
@@ -400,7 +400,7 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 *   [dry (⭐3.1k)](https://github.com/moncho/dry) - An interactive CLI for Docker containers by [@moncho](https://github.com/moncho)
 *   [goManageDocker (⭐566)](https://github.com/ajayd-san/gomanagedocker) - TUI tool to view and manage your docker objects blazingly fast with sensible keybindings, also supports VIM navigation out of the box by [@ajay-dsan](https://github.com/ajayd-san)
 *   [lazydocker (⭐41k)](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By [@jesseduffield](https://github.com/jesseduffield)
-*   [lazyjournal (⭐284)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.5k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
+*   [lazyjournal (⭐285)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.5k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
 *   [oxker (⭐778)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://www.rust-lang.org/), making heavy use of [ratatui (⭐12k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐957)](https://github.com/fussybeaver/bollard), by [@mrjackwills](https://github.com/mrjackwills)
 *   [sen (⭐1k)](https://github.com/TomasTomecek/sen) - :skull: Terminal user interface for docker engine, by [@TomasTomecek][tomastomecek]
 
@@ -492,7 +492,7 @@ Tools and applications that are either installed inside containers or designed t
 
 Applications designed to help or simplify building **new** images
 
-*   [ansible-bender (⭐678)](https://github.com/ansible-community/ansible-bender) - A tool utilising `ansible` and `buildah` by [@TomasTomecek][tomastomecek]
+*   [ansible-bender (⭐679)](https://github.com/ansible-community/ansible-bender) - A tool utilising `ansible` and `buildah` by [@TomasTomecek][tomastomecek]
 *   [buildah (⭐7.6k)](https://github.com/containers/buildah) - A tool that facilitates building OCI images by [@containers][containers]
 *   [BuildKit (⭐8.4k)](https://github.com/moby/buildkit) - Concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit by [@moby project](https://github.com/moby)
 *   [cekit (⭐106)](https://github.com/cekit/cekit) - A tool used by openshift to build base images using different build engines by [@cekit](https://github.com/cekit).
@@ -595,10 +595,10 @@ Services to securely store your Docker images.
 *   [ahab (⭐136)](https://github.com/instacart/ahab) - Docker event handling with Python by [@instacart](https://github.com/instacart)
 *   [clj-docker-client (⭐176)](https://github.com/into-docker/clj-docker-client) :skull: - Idiomatic Clojure client for the Docker remote API. By [@lispyclouds][lispyclouds]
 *   [contajners (⭐136)](https://github.com/lispyclouds/contajners) - An idiomatic, data-driven, REPL friendly Clojure client for OCI container engines. By [@lispyclouds][lispyclouds]
-*   [Docker Client for JVM (⭐114)](https://github.com/gesellix/docker-client) - A Docker remote api client library for the JVM, written in Groovy by [@gesellix][gesellix]
+*   [Docker Client for JVM (⭐115)](https://github.com/gesellix/docker-client) - A Docker remote api client library for the JVM, written in Groovy by [@gesellix][gesellix]
 *   [Docker Client TypeScript](https://gitlab.com/masaeedu/docker-client) - Docker API client for JavaScript, automatically generated from Swagger API definition from moby repository. By [@masaeedu](https://github.com/masaeedu)
 *   [docker-client (⭐1.4k)](https://github.com/spotify/docker-client) :skull: - Java client for the Docker remote API. By [@spotify][spotify]
-*   [docker-controller-bot (⭐161)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
+*   [docker-controller-bot (⭐162)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
 *   [docker-it-scala (⭐431)](https://github.com/whisklabs/docker-it-scala) - Docker integration testing kit with Scala by [@whisklabs](https://github.com/whisklabs)
 *   [docker-java-api (⭐270)](https://github.com/amihaiemil/docker-java-api) - Lightweight, truly object-oriented, Java client for Docker's API. By [@amihaiemil](https://github.com/amihaiemil)
 *   [docker-maven-plugin (⭐1.9k)](https://github.com/fabric8io/docker-maven-plugin) - A Maven plugin for running and creating Docker images by [@fabric8io](https://github.com/fabric8io)
@@ -681,7 +681,7 @@ Services to securely store your Docker images.
 *   [Docker Clean (⭐1.3k)](https://github.com/ZZROTDesign/docker-clean) - A script that cleans Docker containers, images and volumes by [@zzrotdesign](https://github.com/ZZROTDesign)
 *   [docker\_gc (⭐104)](https://github.com/pdacity/docker_gc) - Image for automatic removing unused Docker Swarm objects. Also works just as Docker Service by [@pdacity](https://github.com/pdacity)
 *   [Docker-cleanup (⭐587)](https://github.com/meltwater/docker-cleanup) :skull: - Automatic Docker image, container and volume cleanup by [@meltwater](https://github.com/meltwater)
-*   [docker-custodian (⭐372)](https://github.com/Yelp/docker-custodian) - Keep docker hosts tidy. By [@Yelp](https://github.com/Yelp)
+*   [docker-custodian (⭐373)](https://github.com/Yelp/docker-custodian) - Keep docker hosts tidy. By [@Yelp](https://github.com/Yelp)
 *   [docker-garby (⭐37)](https://github.com/konstruktoid/docker-garby) - Docker garbage collection script by [@konstruktoid](https://github.com/konstruktoid).
 *   [docker-gc (⭐5k)](https://github.com/spotify/docker-gc) :skull: - A cron job that will delete old stopped containers and unused images by [@spotify][spotify]
 *   [Docuum (⭐614)](https://github.com/stepchowfun/docuum) - Least recently used (LRU) eviction of Docker images by [@stepchowfun](https://github.com/stepchowfun)
@@ -706,7 +706,7 @@ Services to securely store your Docker images.
 *   [Dockunit (⭐45)](https://github.com/dockunit/platform) :skull: - Docker based integration tests. A simple Node based utility for running Docker based unit tests. By [@dockunit](https://github.com/dockunit)
 *   [EZDC (⭐12)](https://github.com/lynchborg/ezdc) - Golang test harness for easily setting up tests that rely on services in a docker-compose.yml. By [@byrnedo]
 *   [InSpec][inspec] - InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements. By [@chef](https://github.com/chef)
-*   [Kurtosis (⭐406)](https://github.com/kurtosis-tech/kurtosis) - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/)
+*   [Kurtosis (⭐408)](https://github.com/kurtosis-tech/kurtosis) - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/)
 *   [Pull Dog](https://github.com/apps/pull-dog) - A GitHub app that automatically creates Docker-based test environments for your pull requests, from your docker-compose files. Not open source.
 *   [Pumba (⭐2.8k)](https://github.com/alexei-led/pumba) - Chaos testing tool for Docker. Can be deployed on kubernetes and CoreOS cluster. By [@alexei-led](https://github.com/alexei-led)
 

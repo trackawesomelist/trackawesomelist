@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
-## [Jan 28, 2025](/content/2025/01/28/README.md)
+## [Jan 29, 2025](/content/2025/01/29/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -52,7 +52,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [flowbite-vue (⭐804)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
+*   [flowbite-vue (⭐803)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 
 ## [Dec 04, 2024](/content/2024/12/04/README.md)
 
@@ -151,7 +151,7 @@
 
 ### Resources / Examples
 
-*   [umo editor (⭐436)](https://github.com/umodoc/editor) - Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Visit [Playground](https://demo.umodoc.com/editor?lang=en-US) for a fast experience.
+*   [umo editor (⭐438)](https://github.com/umodoc/editor) - Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Visit [Playground](https://demo.umodoc.com/editor?lang=en-US) for a fast experience.
 
 ### Components & Libraries / UI Components
 
@@ -415,7 +415,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue-tg (⭐220)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+*   [vue-tg (⭐221)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
 ## [Jul 28, 2023](/content/2023/07/28/README.md)
 
@@ -939,7 +939,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [tolgee/vue (⭐234)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐236)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 
 ## [Feb 27, 2022](/content/2022/02/27/README.md)
 
@@ -1696,7 +1696,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-inline-svg (⭐178)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
+*   [vue-inline-svg (⭐179)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
 
 ## [Sep 30, 2020](/content/2020/09/30/README.md)
 
@@ -2785,7 +2785,7 @@
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐679)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐680)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ## [Apr 16, 2019](/content/2019/04/16/README.md)
 

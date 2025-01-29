@@ -6,6 +6,16 @@ An Awesome List for getting started with web archiving
 
 [ Daily / [Weekly](/content/iipc/awesome-web-archiving/week/README.md) / [Overview](/content/iipc/awesome-web-archiving/readme/README.md) ]
 
+## [Jan 29, 2025](/content/2025/01/29/README.md)
+
+### Tools & Software / Search & Discovery
+
+*   [PANDORÆ (⭐7)](https://github.com/Guillaume-Levrier/PANDORAE) - A desktop research software to be plugged on a Solr endpoint to query, retrieve, normalize and visually explore web archives. *(Stable)*
+
+### Tools & Software / Utilities
+
+*   [httpreserve.info](https://httpreserve.info) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
+
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
 ### Resources for Web Publishers
@@ -86,7 +96,7 @@ An Awesome List for getting started with web archiving
 
 ### Tools & Software / Utilities
 
-*   [Internet Archive Library (⭐1.7k)](https://github.com/jjjake/internetarchive) - A command line tool and Python library for interacting directly with [archive.org](https://archive.org). (Python). *(Stable)*
+*   [Internet Archive Library (⭐1.7k)](https://github.com/jjjake/internetarchive) - A command line tool and Python library for interacting directly with <!--lint ignore double-link-->[archive.org](https://archive.org). (Python). *(Stable)*
 
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
@@ -98,8 +108,7 @@ An Awesome List for getting started with web archiving
 
 ### Tools & Software / Utilities
 
-*   [httpreserve.info](https://httpreserve.info/) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
-*   [HTTPreserve linkstat (⭐10)](https://github.com/httpreserve/linkstat) - Command line implementation of [httpreserve.info](https://httpreserve.info) to describe the status of a web page. Can be easily scripted and provides JSON output to enable querying through tools like JQ. HTTPreserve Linkstat describes current status, and earliest and latest links on [archive.org](https://archive.org/). (Golang). *(Stable)*
+*   [HTTPreserve linkstat (⭐10)](https://github.com/httpreserve/linkstat) - Command line implementation of <!--lint ignore double-link-->[httpreserve.info](https://httpreserve.info) to describe the status of a web page. Can be easily scripted and provides JSON output to enable querying through tools like JQ. HTTPreserve Linkstat describes current status, and earliest and latest links on <!--lint ignore double-link-->[archive.org](https://archive.org/). (Golang). *(Stable)*
 
 ## [Jul 14, 2023](/content/2023/07/14/README.md)
 
@@ -137,7 +146,7 @@ An Awesome List for getting started with web archiving
 
 ### Tools & Software / Utilities
 
-*   [Go Get Crawl (⭐150)](https://github.com/karust/gogetcrawl) - Extract web archive data using [Wayback Machine](https://web.archive.org/) and [Common Crawl](https://commoncrawl.org/). *(Stable)*
+*   [Go Get Crawl (⭐150)](https://github.com/karust/gogetcrawl) - Extract web archive data using <!--lint ignore double-link-->[Wayback Machine](https://web.archive.org/) and [Common Crawl](https://commoncrawl.org/). *(Stable)*
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
 
@@ -287,7 +296,7 @@ An Awesome List for getting started with web archiving
 
 ### Tools & Software / Search & Discovery
 
-*   [playback (⭐8)](https://github.com/wabarc/playback) - A toolkit for searching archived webpages from [Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) and beyond. *(In Development)*
+*   [playback (⭐8)](https://github.com/wabarc/playback) - A toolkit for searching archived webpages from <!--lint ignore double-link-->[Internet Archive](https://web.archive.org), [archive.today](https://archive.today), [Memento](http://timetravel.mementoweb.org) and beyond. *(In Development)*
 
 ## [Apr 16, 2021](/content/2021/04/16/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Tools / Services
 
-*   [LangFair (⭐143)](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
+*   [LangFair (⭐145)](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
@@ -39,7 +39,7 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Rigging (⭐229)](https://github.com/dreadnode/rigging): Lightweight LLM Interaction Framework (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/dreadnode/rigging?style=social)
-*   [Nerve (⭐764)](https://github.com/evilsocket/nerve): Instrument any LLM to do actual stuff (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/nerve-ai/nerve?style=social)
+*   [Nerve (⭐765)](https://github.com/evilsocket/nerve): Instrument any LLM to do actual stuff (rust) ![GitHub Repo stars](https://img.shields.io/github/stars/nerve-ai/nerve?style=social)
 *   [Vision agent (⭐1.8k)](https://github.com/landing-ai/vision-agent): Vision Agent is a library that helps you utilize agent frameworks to generate code to solve your vision task. ![GitHub Repo stars](https://img.shields.io/github/stars/landing-ai/vision-agent?style=social)
 *   [llama-agents (⭐1.9k)](https://github.com/run-llama/llama-agents): llama-agents is an async-first framework for building, iterating, and productionizing multi-agent systems, including multi-agent communication, distributed tool execution, human-in-the-loop, and more ![GitHub Repo stars](https://img.shields.io/github/stars/run-llama/llama-agents?style=social)
 *   [Claude Engineer (⭐11k)](https://github.com/Doriandarko/claude-engineer): Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/Doriandarko/claude-engineer?style=social)
@@ -82,7 +82,7 @@
 *   [SWE Agent (⭐14k)](https://github.com/princeton-nlp/swe-agent): SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. ![GitHub Repo stars](https://img.shields.io/github/stars/princeton-nlp/swe-agent?style=social)
 *   [Gateway (⭐6.9k)](https://github.com/Portkey-AI/gateway): A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API. ![GitHub Repo stars](https://img.shields.io/github/stars/Portkey-AI/gateway?style=social)
 *   [AgentRun (⭐257)](https://github.com/Jonathan-Adly/AgentRun): The easiest, and fastest way to run AI-generated Python code safely ![GitHub Repo stars](https://img.shields.io/github/stars/Jonathan-Adly/AgentRun?style=social)
-*   [LLama Cpp Agent (⭐521)](https://github.com/Maximilian-Winter/llama-cpp-agent): The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)
+*   [LLama Cpp Agent (⭐522)](https://github.com/Maximilian-Winter/llama-cpp-agent): The llama-cpp-agent framework is a tool designed for easy interaction with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/Maximilian-Winter/llama-cpp-agent?style=social)
 *   [FinRobot (⭐2.1k)](https://github.com/AI4Finance-Foundation/FinRobot): An Open-Source AI Agent Platform for Financial Applications using LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot?style=social)
 *   [Groq Ruby (⭐113)](https://github.com/drnic/groq-ruby): Groq Cloud runs LLM models fast and cheap. This is a convenience client library for Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/drnic/groq-ruby?style=social)
 
@@ -109,7 +109,7 @@
 
 ### Tools / Services
 
-*   [MindSQL (⭐266)](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.![GitHub Repo stars](https://img.shields.io/github/stars/mindinventory/mindsql?style=social)
+*   [MindSQL (⭐267)](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.![GitHub Repo stars](https://img.shields.io/github/stars/mindinventory/mindsql?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
@@ -244,7 +244,7 @@
 
 ### Tools / Services
 
-*   [Llama2 Embedding Server (⭐987)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
+*   [Llama2 Embedding Server (⭐988)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
 
 ### Open Source Projects / Knowledge Management
 
@@ -486,7 +486,7 @@
 *   [Chat Math Techniques](https://huggingface.co/spaces/JavaFXpert/gpt-math-techniques): langchain chat with math techniques on Huggingface
 *   [Notion QA (⭐2.1k)](https://github.com/hwchase17/notion-qa): Notion Question-Answering Bot ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/notion-qa?style=social)
 *   [Chat with Scanned Documents (⭐6)](https://github.com/tony-xlh/Chat-with-Scanned-Documents): A demo chatting with documents scanned with Dynamic Web TWAIN.
-*   [snowChat ❄️ (⭐501)](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
+*   [snowChat ❄️ (⭐502)](https://github.com/kaarthik108/snowChat): Chat with you're snowflake database ![GitHub Repo stars](https://img.shields.io/github/stars/kaarthik108/snowChat?style=social)
 
 ### Learn / Notebooks
 
@@ -549,7 +549,7 @@
 
 ### Tools / Services
 
-*   [Auto Evaluator (⭐755)](https://github.com/langchain-ai/auto-evaluator): Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)
+*   [Auto Evaluator (⭐756)](https://github.com/langchain-ai/auto-evaluator): Langchain auto evaluator ![GitHub Repo stars](https://img.shields.io/github/stars/langchain-ai/auto-evaluator?style=social)
 
 ### Tools / Agents
 
@@ -598,7 +598,7 @@
 ### Tools / Templates
 
 *   [create-t3-turbo-ai (⭐343)](https://github.com/zckly/create-t3-turbo-ai): t3 based, Langchain-friendly boilerplate for building type-safe, full-stack, LLM-powered web apps with Nextjs and Prisma ![GitHub Repo stars](https://img.shields.io/github/stars/zckly/create-t3-turbo-ai?style=social)
-*   [LangChain.js LLM Template (⭐325)](https://github.com/Conner1115/LangChain.js-LLM-Template): LangChain LLM template that allows you to train your own custom AI LLM model. ![GitHub Repo stars](https://img.shields.io/github/stars/Conner1115/LangChain.js-LLM-Template?style=social)
+*   [LangChain.js LLM Template (⭐326)](https://github.com/Conner1115/LangChain.js-LLM-Template): LangChain LLM template that allows you to train your own custom AI LLM model. ![GitHub Repo stars](https://img.shields.io/github/stars/Conner1115/LangChain.js-LLM-Template?style=social)
 *   [Streamlit Template (⭐272)](https://github.com/hwchase17/langchain-streamlit-template): template for how to deploy a LangChain on Streamlit ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-streamlit-template?style=social)
 *   [Codespaces Template (⭐111)](https://github.com/lostintangent/codespaces-langchain): a Codespaces template for getting up-and-running with LangChain in seconds! ![GitHub Repo stars](https://img.shields.io/github/stars/lostintangent/codespaces-langchain?style=social)
 *   [Gradio Template (⭐134)](https://github.com/hwchase17/langchain-gradio-template): template for how to deploy a LangChain on Gradio ![GitHub Repo stars](https://img.shields.io/github/stars/hwchase17/langchain-gradio-template?style=social)

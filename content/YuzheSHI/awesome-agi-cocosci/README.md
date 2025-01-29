@@ -6,7 +6,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
-## [Jan 28, 2025](/content/2025/01/28/README.md)
+## [Jan 29, 2025](/content/2025/01/29/README.md)
 
 ### Bayesian Modeling / Generative Model
 
@@ -2490,7 +2490,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Bayesian Modeling / Generative Model
 
-*   [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NeurIPS'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760\&hl=en\&as_sdt=0,5)].
+*   [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NeurIPS'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760)].
 
 ### Meta-Level Considerations / Gestalt
 

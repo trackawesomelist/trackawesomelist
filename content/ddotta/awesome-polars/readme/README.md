@@ -102,7 +102,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 *   [polars-st (⭐33)](https://github.com/Oreilles/polars-st) - Polars plugin that provides spatial operations on Polars DataFrames, Series and Expressions by [@Oreilles](https://github.com/Oreilles).
 *   [polars-pairing (⭐9)](https://github.com/apcamargo/polars-pairing) - Polars plugin that provides pairing functions that encode two natural numbers into a single natural number, by [@apcamargo](https://github.com/apcamargo).
 *   [polars-bio (⭐3)](https://github.com/biodatageeks/polars-bio) - Polars plugin for large-scale genomic analyses which is easy to use and considerable faster and more scalabe than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
-*   [polars-ts (⭐18)](https://github.com/drumtorben/polars-ts/tree/main) - Polars Time Series Extension that offers a wide range of metrics, feature extractors, and various tools for time series forecasting by [@drumtorben](https://github.com/drumtorben).
+*   [polars-ts (⭐19)](https://github.com/drumtorben/polars-ts/tree/main) - Polars Time Series Extension that offers a wide range of metrics, feature extractors, and various tools for time series forecasting by [@drumtorben](https://github.com/drumtorben).
 
 ### Python
 

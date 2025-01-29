@@ -421,7 +421,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [SVG.js](https://svgjs.dev/) - Dependency-free lightweight library for creating, manipulating, and animating SVG.
 *   [Components AI](https://components.ai/) - Experimental computational design platform for exploring generative space.
-*   [DrawingBotV3 (⭐373)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
+*   [DrawingBotV3 (⭐374)](https://github.com/SonarSonic/DrawingBotV3) - Cross-platform software for converting images to line drawings.
 
 ### Software / Vector Utilities
 
@@ -548,7 +548,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ### Software / Vector Utilities
 
-*   [vpype (⭐757)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
+*   [vpype (⭐758)](https://github.com/abey79/vpype) - Plotter-focused Python-based CLI utility for generating and manipulating SVGs, including scaling and optimizing paths.
 
 ### Software / Fonts
 

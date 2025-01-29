@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
-## [Jan 28, 2025](/content/2025/01/28/README.md)
+## [Jan 29, 2025](/content/2025/01/29/README.md)
 
 ### DNS / Steam
 

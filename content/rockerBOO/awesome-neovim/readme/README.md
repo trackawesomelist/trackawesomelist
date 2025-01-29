@@ -240,7 +240,7 @@ Collections of awesome neovim plugins.
 *   [Kurama622/llm.nvim (⭐92)](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
 *   [3v0k4/exit.nvim (⭐13)](https://github.com/3v0k4/exit.nvim) - Prompt LLMs (large language models) to write Vim commands.
 *   [k2589/LLuMinate.nvim (⭐15)](https://github.com/k2589/lluminate.nvim) - Enrich context for LLM with LSP hover added to clipboard.
-*   [supermaven-inc/supermaven-nvim (⭐855)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+*   [supermaven-inc/supermaven-nvim (⭐856)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 *   [milanglacier/yarepl.nvim#aider-extensions (⭐120)](https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md) - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
 
 <!--lint disable double-link -->
@@ -554,7 +554,7 @@ Collections of awesome neovim plugins.
 *   [moyiz/command-and-cursor.nvim (⭐18)](https://github.com/moyiz/command-and-cursor.nvim) - Highlight cursor and visual selections when entering command mode.
 *   [rachartier/tiny-devicons-auto-colors.nvim (⭐111)](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) - Automatically updates nvim-web-devicons colors based on your current colorscheme.
 *   [TaDaa/vimade (⭐584)](https://github.com/TaDaa/vimade) - Dim, fade, tint, animate, and customize colors in your windows and buffers.
-*   [xzbdmw/colorful-menu.nvim (⭐203)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+*   [xzbdmw/colorful-menu.nvim (⭐205)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
 <!--lint disable double-link -->
 
@@ -974,7 +974,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ellisonleao/dotenv.nvim (⭐43)](https://github.com/ellisonleao/dotenv.nvim) - Minimalist .env support.
 *   [dzfrias/arena.nvim (⭐89)](https://github.com/dzfrias/arena.nvim) - A smart (frecency-based) buffer switcher.
 *   [MisanthropicBit/decipher.nvim (⭐38)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
-*   [philosofonusus/ecolog.nvim (⭐109)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
+*   [philosofonusus/ecolog.nvim (⭐114)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
 
 ### CSV Files
 
@@ -1540,7 +1540,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [jyscao/ventana.nvim (⭐19)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
 *   [mrjones2014/smart-splits.nvim (⭐1.1k)](https://github.com/mrjones2014/smart-splits.nvim) - Smart, seamless, directional navigation and resizing of splits.
 *   [altermo/nwm (⭐327)](https://github.com/altermo/nwm) - X11 window manager.
-*   [MisanthropicBit/winmove.nvim (⭐7)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
+*   [MisanthropicBit/winmove.nvim (⭐8)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
 *   [ycdzj/win-mover.nvim (⭐10)](https://github.com/ycdzj/win-mover.nvim) - Window mover that avoids moving side windows.
 
 ### Tmux

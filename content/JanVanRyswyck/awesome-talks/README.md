@@ -6,7 +6,7 @@ Awesome online talks and screencasts
 
 [ Daily / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
 
-## [Jan 28, 2025](/content/2025/01/28/README.md)
+## [Jan 29, 2025](/content/2025/01/29/README.md)
 
 ### Software Development
 

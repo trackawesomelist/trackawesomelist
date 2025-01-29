@@ -6,7 +6,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ Daily / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
-## [Jan 28, 2025](/content/2025/01/28/README.md)
+## [Jan 29, 2025](/content/2025/01/29/README.md)
 
 ### Artificial Intelligence
 
@@ -18,7 +18,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Logging
 
-*   [AutoLoggerMessage (⭐37)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐41)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ### Tools
 
@@ -1054,7 +1054,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Testing
 
-*   [ArchUnitNET (⭐976)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
+*   [ArchUnitNET (⭐977)](https://github.com/TNG/ArchUnitNET) - Simple library for checking the architecture of C# code with a fluent API.
 *   [Snapshooter (⭐307)](https://github.com/SwissLife-OSS/snapshooter) - A snapshot testing tool for .NET Core and .NET Framework
 
 ## [Oct 02, 2020](/content/2020/10/02/README.md)

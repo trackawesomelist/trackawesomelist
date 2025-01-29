@@ -149,20 +149,20 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [SvelteUI](https://svelteui.dev/) - all inclusive Svelte library - Components, Actions, Utilities, Animations.
 *   [Flowbite Svelte](https://flowbite-svelte.com/) - Open-source Svelte UI components built with Tailwind CSS and Flowbite.
 *   [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
-*   [Sveltestrap (⭐165)](https://github.com/sveltestrap/sveltestrap) - Bootstrap 4 & 5 components.
+*   [Sveltestrap (⭐164)](https://github.com/sveltestrap/sveltestrap) - Bootstrap 4 & 5 components.
 *   [carbon-components-svelte (⭐2.7k)](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the IBM Carbon Design System.
 *   [Svelte Material UI (⭐3.3k)](https://github.com/hperrin/svelte-material-ui) - Material UI Components.
 *   [Melt UI (⭐3.9k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
 *   [attractions (⭐1k)](https://github.com/illright/attractions) - A pretty cool and modern UI kit. *(pre-v5)*
 *   [ionic-svelte (⭐799)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 *   [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
-*   [Svelte UX (⭐872)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
+*   [Svelte UX (⭐874)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
 *   [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
 *   [M3 Svelte (⭐279)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 *   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 *   [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
 *   [Smelte (⭐1.5k)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. *(pre-v5)*
-*   [SVAR Core for Svelte (⭐76)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
+*   [SVAR Core for Svelte (⭐79)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
 *   [AgnosticUI (⭐730)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
 ## UI Components
@@ -186,7 +186,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [svelte-favicon-badge (⭐101)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 *   [@zerodevx/svelte-toast (⭐847)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 *   [svelte-french-toast (⭐905)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
-*   [svelte-sonner (⭐774)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
+*   [svelte-sonner (⭐775)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
 
 ### Grid
 
@@ -198,13 +198,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [unplugin-icons (⭐4.2k)](https://github.com/unplugin/unplugin-icons) - Access thousands of icons as components on-demand universally.
 *   [svelte-fa (⭐403)](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 and 6 component.
 *   [svelte-awesome (⭐495)](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component, built with Font Awesome icons.
-*   [steeze-ui/icons (⭐186)](https://github.com/steeze-ui/icons) - Effortless Icon Packs & Components for Svelte, React, Vue and more.
+*   [steeze-ui/icons (⭐187)](https://github.com/steeze-ui/icons) - Effortless Icon Packs & Components for Svelte, React, Vue and more.
 *   [svelte-icons (⭐293)](https://github.com/AnxiousDarkly/svelte-icons) - Icon components.
 *   [svelte-heroicons (⭐8)](https://github.com/krowten/svelte-heroicons) - Icons, crafted by the creators of Tailwind CSS.
 *   [svelte-icomoon (⭐5)](https://github.com/aykutkardas/svelte-icomoon) - It makes it very simple to use SVG icons in your Svelte projects.
 *   [svelte-unicons (⭐3)](https://github.com/devShamim/svelte-unicons) - Unicons svg icons for Svelte based on @iconscout/unicons.
 *   [lucide-svelte (⭐12k)](https://github.com/lucide-icons/lucide) - Implementation of the lucide icon library for svelte applications.
-*   [svelte-icons-pack (⭐61)](https://github.com/leshak/svelte-icons-pack) - Based on [https://github.com/react-icons/react-icons (⭐12k)](https://github.com/react-icons/react-icons).
+*   [svelte-icons-pack (⭐62)](https://github.com/leshak/svelte-icons-pack) - Based on [https://github.com/react-icons/react-icons (⭐12k)](https://github.com/react-icons/react-icons).
 *   [svesome (⭐2)](https://github.com/pouchlabs/svesome) - A fontawesome v6 icons wrapper for svelte its awesome.
 
 ### Calendar
@@ -228,7 +228,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *   [svelte-frappe-charts (⭐309)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 *   [Layer Cake (⭐1.5k)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
-*   [LayerChart (⭐725)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+*   [LayerChart (⭐726)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ### Graphs
 
@@ -318,7 +318,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [svelte-i18n (⭐1.3k)](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte.
 *   [VoerkaI18n](https://zhangfisher.github.io/voerka-i18n/) - Internationalization solution for `Javascript/Typescript/Vue/React/Solidjs/SvelteJs/ReactNative`
 *   [sveltekit-i18n (⭐521)](https://github.com/jarda-svoboda/sveltekit-i18n) - For integrating [i18n](https://www.npmjs.com/package/i18n) style localization in SvelteKit.
-*   [@tolgee/svelte (⭐234)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
+*   [@tolgee/svelte (⭐236)](https://github.com/tolgee/tolgee-js/tree/main/packages/svelte) - Web-based localization tool enabling users to translate directly in the Svelte app they develop.
 *   [@i18n-pro/svelte (⭐8)](https://github.com/i18n-pro/svelte) - Lightweight, simple, flexible, automatic translation internationalization tool for Svelte.
 *   [ParaglideJS](https://inlang.com/m/dxnzrydw/library-inlang-paraglideJsAdapterSvelteKit) - Tiny, typesafe i18n library with translated links out of the box.
 
@@ -352,7 +352,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *   [prettier-plugin-svelte (⭐754)](https://github.com/sveltejs/prettier-plugin-svelte) - Format your components using prettier.
 *   [svelte-check](https://www.npmjs.com/package/svelte-check) - Check your code.
-*   [eslint-plugin-svelte (⭐315)](https://github.com/sveltejs/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
+*   [eslint-plugin-svelte (⭐316)](https://github.com/sveltejs/eslint-plugin-svelte) - An ESLint plugin for Svelte using AST.
 
 ### Test
 

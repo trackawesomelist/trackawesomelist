@@ -8,8 +8,17 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
+### Software / Automation
+
+*   [ChannelTube (⭐155)](https://github.com/TheWicklowWolf/ChannelTube) `⚠` - Download video or audio from YouTube channels on a schedule via yt-dlp. `AGPL-3.0` `Docker`
+
+### Software / Feed Readers
+
+*   [Feeds Fun](https://feeds.fun/) - News reader with tags, scoring, and AI. ([Source Code (⭐59)](https://github.com/Tiendil/feeds.fun)) `BSD-3-Clause` `Python`
+
 ### Software / Task Management & To-do Lists
 
+*   [4ga Boards](https://4gaboards.com) - Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity. ([Demo](https://demo.4gaboards.com), [Source Code (⭐65)](https://github.com/RARgames/4gaBoards)) `MIT` `Nodejs/Docker/K8S`
 *   [Tegon](https://tegon.ai) `⚠` - Dev-first issue tracking tool (alternative to Jira, Linear). ([Source Code (⭐1.7k)](https://github.com/tegonhq/tegon)) `AGPL-3.0` `Docker`
 
 ### Software / Time Tracking
@@ -28,7 +37,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Content Management Systems (CMS)
 
-*   [Localess](https://localess.org/home) `⚠` - Powerful translation management and content management system. Manage and translate your website or app content into multiple languages, using AI to translate faster. ([Source Code (⭐45)](https://github.com/Lessify/localess)) `MIT` `Docker`
+*   [Localess](https://localess.org/home) `⚠` - Powerful translation management and content management system. Manage and translate your website or app content into multiple languages, using AI to translate faster. ([Source Code (⭐47)](https://github.com/Lessify/localess)) `MIT` `Docker`
 
 ### Software / Document Management
 
@@ -163,7 +172,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Analytics
 
-*   [Litlyx](https://litlyx.com) - All-in-one Analytics Solution. Setup in 30 seconds. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant. ([Source Code (⭐848)](https://github.com/Litlyx/litlyx)) `Apache-2.0` `Docker`
+*   [Litlyx](https://litlyx.com) - All-in-one Analytics Solution. Setup in 30 seconds. Display all your data on an AI-powered dashboard. Fully self-hostable and GDPR compliant. ([Source Code (⭐872)](https://github.com/Litlyx/litlyx)) `Apache-2.0` `Docker`
 
 ### Software / Automation
 
@@ -2398,10 +2407,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Miscellaneous
 
 *   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐1k)](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
-
-### Software / Pastebins
-
-*   [ExBin (⭐96)](https://github.com/m1dnight/exbin) - A pastebin with public/private snippets and netcat server. `MIT` `Docker`
 
 ### Software / Personal Dashboards
 

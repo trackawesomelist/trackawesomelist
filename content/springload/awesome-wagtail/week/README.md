@@ -2,15 +2,22 @@
 
 A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/springload/awesome-wagtail/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) · ⭐ 2K · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/springload/awesome-wagtail/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 springload/awesome-wagtail](https://github.com/springload/awesome-wagtail) · ⭐ 2.1K · 🏷️ Content Management Systems
 
 [ [Daily](/content/springload/awesome-wagtail/README.md) / Weekly / [Overview](/content/springload/awesome-wagtail/readme/README.md) ]
+
+## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
+
+### Resources / Podcasts
+
+*   [Django Chat: Dawn Wages](https://djangochat.com/episodes/wagtail-react-gatsby-dawn-wages-RaD8k37m) - An interview with Dawn Wages, a core Wagtail team member. Discussion about Wagtail, React and Gatsby.
+*   [Django Chat: Thibaud Colas](https://djangochat.com/episodes/thibaud-colas-2025-dsf-board-nominations) - An interview with a core team member of Wagtail, discussing the current status of Django, upcoming DSF Board elections, Wagtail roadmap & community opportunities.
 
 ## [Sep 23 - Sep 29, 2024](/content/2024/39/README.md)
 
 ### Apps / Rich text editor extensions
 
-*   [wagtailmdx (⭐0)](https://github.com/TheBestDestroyer/wagtailmdx) - A [MDXEditor (⭐1.9k)](https://github.com/mdx-editor/editor) integration for Wagtail as textfield widget.
+*   [wagtailmdx (⭐1)](https://github.com/TheBestDestroyer/wagtailmdx) - A [MDXEditor (⭐2.2k)](https://github.com/mdx-editor/editor) integration for Wagtail as textfield widget.
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
@@ -24,30 +31,30 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Content Management
 
-*   [Wagtail-FEdit (⭐9)](https://github.com/Nigel2392/wagtail_fedit) - Add frontend editing to your Wagtail site.
+*   [Wagtail-FEdit (⭐11)](https://github.com/Nigel2392/wagtail_fedit) - Add frontend editing to your Wagtail site.
 
 ### Tools / Templates (start command)
 
 *   [Wagtail tutorial template (⭐3)](https://github.com/thibaudcolas/wagtail-tutorial-template)
-*   [Wagtail news template (⭐4)](https://github.com/torchbox/wagtail-news-template)
+*   [Wagtail news template (⭐47)](https://github.com/torchbox/wagtail-news-template)
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
 ### Apps / Rich text editor extensions
 
-*   [Wagtail Terms (⭐2)](https://github.com/smark-1/wagtailterms) - A plugin to add a glossary terms entity to the Draftail editor.
+*   [Wagtail Terms (⭐6)](https://github.com/smark-1/wagtailterms) - A plugin to add a glossary terms entity to the Draftail editor.
 
 ## [Mar 25 - Mar 31, 2024](/content/2024/13/README.md)
 
 ### Apps / Rich text editor extensions
 
-*   [Wagtail EditorJS (⭐8)](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
+*   [Wagtail EditorJS (⭐11)](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
 ### Apps / Widgets
 
-*   [Wagtail Ace Editor (⭐2)](https://github.com/Nigel2392/wagtail_ace_editor) - An IDE-like code editor right in your Wagtail admin.
+*   [Wagtail Ace Editor (⭐4)](https://github.com/Nigel2392/wagtail_ace_editor) - An IDE-like code editor right in your Wagtail admin.
 
 ### Apps / Asynchronous (tasks)
 
@@ -55,38 +62,38 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Misc
 
-*   [Wagtail Word (⭐0)](https://github.com/Nigel2392/wagtail_word) - A way to upload your word (.docx, .doc) documents as pages to Wagtail.
+*   [Wagtail Word (⭐1)](https://github.com/Nigel2392/wagtail_word) - A way to upload your word (.docx, .doc) documents as pages to Wagtail.
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
 ### Tools / Templates & Starter Kits
 
-*   [State Design System (DSFR) starter (⭐36)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
+*   [State Design System (DSFR) starter (⭐40)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
 ### Tools / Templates & Starter Kits
 
-*   [cookiecutter-wagtail-vix (⭐33)](https://github.com/engineervix/cookiecutter-wagtail-vix) - A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
+*   [cookiecutter-wagtail-vix (⭐35)](https://github.com/engineervix/cookiecutter-wagtail-vix) - A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
 *   [Wagtail Quickstart with docker (⭐4)](https://github.com/saevarom/wagtail-start-docker) - A template repository to get started quickly with the latest Wagtail in docker.
 
 ## [Dec 18 - Dec 24, 2023](/content/2023/51/README.md)
 
 ### Apps / SEO and SMO
 
-*   [Wagtail SEO (⭐62)](https://github.com/coderedcorp/wagtail-seo) - Search engine and social media optimization for Wagtail.
+*   [Wagtail SEO (⭐67)](https://github.com/coderedcorp/wagtail-seo) - Search engine and social media optimization for Wagtail.
 
 ### Apps / Modeladmin
 
-*   [wagtail-treemodeladmin (⭐45)](https://github.com/cfpb/wagtail-treemodeladmin) - Page explorer-like navigation of Django model relationships using ModelAdmin.
+*   [wagtail-treemodeladmin (⭐49)](https://github.com/cfpb/wagtail-treemodeladmin) - Page explorer-like navigation of Django model relationships using ModelAdmin.
 
 ### Apps / Content Management
 
-*   [Wagtail Headless Preview (⭐119)](https://github.com/torchbox/wagtail-headless-preview) -  Previews for headless Wagtail setups
+*   [Wagtail Headless Preview (⭐125)](https://github.com/torchbox/wagtail-headless-preview) -  Previews for headless Wagtail setups
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Tailwind & Stimulus blog (⭐368)](https://github.com/AccordBox/wagtail-tailwind-blog) - A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments.
+*   [Wagtail Tailwind & Stimulus blog (⭐371)](https://github.com/AccordBox/wagtail-tailwind-blog) - A Wagtail blog based on Tailwind CSS, Stimulus, it supports Markdown, Latex and user comments.
 *   [Wagtail for Platform.sh (⭐5)](https://github.com/platformsh-templates/wagtail) - Wagtail template for Platform.sh.
 
 ### Resources / Articles
@@ -109,13 +116,13 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Open-source sites / Lists
 
-*   [guide (⭐30)](https://github.com/wagtail/guide) - A website to teach Wagtail to content editors, moderators and administrators.
+*   [guide (⭐32)](https://github.com/wagtail/guide) - A website to teach Wagtail to content editors, moderators and administrators.
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Apps / Modeladmin
 
-*   [wagtail-rangefilter (⭐12)](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
+*   [wagtail-rangefilter (⭐13)](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
 
 ### Tools / Templates & Starter Kits
 
@@ -125,13 +132,13 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Blogging/news
 
-*   [wagtail-live (⭐36)](https://github.com/wagtail/wagtail-live) - Build live blogs with Wagtail.
+*   [wagtail-live (⭐37)](https://github.com/wagtail/wagtail-live) - Build live blogs with Wagtail.
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
 ### Apps / Static site generation
 
-*   [Wagtail-Netlify (⭐83)](https://github.com/tomdyson/wagtail-netlify) - Easily publish your statically rendered Wagtail site to Netlify.
+*   [Wagtail-Netlify (⭐85)](https://github.com/tomdyson/wagtail-netlify) - Easily publish your statically rendered Wagtail site to Netlify.
 *   [wagtail-freezer (⭐13)](https://github.com/gasman/wagtail-freezer) - Generates static HTML sites from a Wagtail project.
 
 ### Apps / Media
@@ -189,7 +196,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Open-source sites / Lists
 
-*   [Outreachy website (⭐246)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
+*   [Outreachy website (⭐254)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
 
 ## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
 
@@ -216,7 +223,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Misc
 
-*   [Wagtail Grapple (⭐153)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
+*   [Wagtail Grapple (⭐158)](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
 
 ### Resources / Getting started
 
@@ -246,41 +253,41 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / E-commerce
 
-*   [django-salesman (⭐384)](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
+*   [django-salesman (⭐402)](https://github.com/dinoperovic/django-salesman) - Headless e-commerce framework for Django with Wagtail modeladmin integration.
 
 ### Apps / Media
 
-*   [Wagtail CLIP (⭐12)](https://github.com/MattSegal/wagtail-clip) - A module for searching the contents of Wagtail images with natural language queries.
+*   [Wagtail CLIP (⭐13)](https://github.com/MattSegal/wagtail-clip) - A module for searching the contents of Wagtail images with natural language queries.
 
 ### Apps / Translations
 
-*   [Wagtail Localize (⭐222)](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
+*   [Wagtail Localize (⭐228)](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
 
 ### Tools / Templates & Starter Kits
 
-*   [Wordpress to Wagtail migration kit (⭐40)](https://github.com/torchbox/wagtail-wordpress-import) - Import WordPress blog content from an XML file into Wagtail.
+*   [Wordpress to Wagtail migration kit (⭐47)](https://github.com/torchbox/wagtail-wordpress-import) - Import WordPress blog content from an XML file into Wagtail.
 
 ### Open-source sites / Lists
 
-*   [Consumer Financial Protection Bureau (⭐274)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
+*   [Consumer Financial Protection Bureau (⭐293)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
 
 ## [Apr 04 - Apr 10, 2022](/content/2022/14/README.md)
 
 ### Apps / Media
 
-*   [Rent Free Media (⭐77)](https://github.com/RentFreeMedia/rentfreemedia) - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
+*   [Rent Free Media (⭐79)](https://github.com/RentFreeMedia/rentfreemedia) - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
 ### Resources / Recipes
 
-*   [Consumer Financial Protection Bureau Wagtail development guide (⭐63)](https://github.com/cfpb/development/blob/main/guides/unittesting-django-wagtail.md) - Unit Testing Django and Wagtail
+*   [Consumer Financial Protection Bureau Wagtail development guide (⭐65)](https://github.com/cfpb/development/blob/main/guides/unittesting-django-wagtail.md) - Unit Testing Django and Wagtail
 
 ## [Jan 24 - Jan 30, 2022](/content/2022/4/README.md)
 
 ### Apps / StreamField
 
-*   [Wagtail UIKit Block (⭐17)](https://github.com/kpsaurus/wagtail-uikitblocks) - A collection of UIKit components that can be used as a Wagtail StreamField block.
+*   [Wagtail UIKit Block (⭐18)](https://github.com/kpsaurus/wagtail-uikitblocks) - A collection of UIKit components that can be used as a Wagtail StreamField block.
 
 ## [Aug 16 - Aug 22, 2021](/content/2021/33/README.md)
 
@@ -296,7 +303,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Misc
 
-*   [Wagtail PDF View (⭐23)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
+*   [Wagtail PDF View (⭐26)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
 
 ## [Apr 26 - May 02, 2021](/content/2021/17/README.md)
 
@@ -306,22 +313,22 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Content Management
 
-*   [Wagtail Transfer (⭐90)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
+*   [Wagtail Transfer (⭐91)](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
 
 ### Tools / Templates & Starter Kits
 
 *   [wagtail-webpack-dokku (⭐13)](https://github.com/helixsoftco/wagtail-webpack-dokku/) - A template with Wagtail, Webpack using django-webpack-loader, Bootstrap 5, production ready for Dokku.
-*   [CodeRed CMS (⭐685)](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g\&t=228s).
+*   [CodeRed CMS (⭐702)](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g\&t=228s).
 
 ### Open-source sites / Lists
 
-*   [WesternFriend (⭐55)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
+*   [WesternFriend (⭐59)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
 
 ## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
 
 ### Apps / SEO and SMO
 
-*   [Wagtail Yoast (⭐34)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
+*   [Wagtail Yoast (⭐35)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
 
 ### Apps / Media
 
@@ -337,13 +344,13 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Resources / Recipes
 
-*   [Serafeim's Wagtail FAQ (⭐41)](https://github.com/spapas/wagtail-faq) - Answers and recipes for Wagtail
+*   [Serafeim's Wagtail FAQ (⭐42)](https://github.com/spapas/wagtail-faq) - Answers and recipes for Wagtail
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
 ### Apps / Widgets
 
-*   [wagtail-generic-chooser (⭐116)](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.
+*   [wagtail-generic-chooser (⭐117)](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.
 
 ### Apps / Media
 
@@ -351,17 +358,17 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Content Management
 
-*   [Wagtail Content Import (⭐33)](https://github.com/torchbox/wagtail-content-import) - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
+*   [Wagtail Content Import (⭐34)](https://github.com/torchbox/wagtail-content-import) - Import content from Google Docs or Docx into StreamFields, using a customisable mapping system.
 
 ## [Aug 17 - Aug 23, 2020](/content/2020/33/README.md)
 
 ### Apps / Widgets
 
-*   [wagtail-color-panel (⭐50)](https://github.com/marteinn/wagtail-color-panel) - Introduces panels for selecting colors in Wagtail.
+*   [wagtail-color-panel (⭐53)](https://github.com/marteinn/wagtail-color-panel) - Introduces panels for selecting colors in Wagtail.
 
 ### Apps / SEO and SMO
 
-*   [wagtail-meta-preview (⭐32)](https://github.com/rinti/wagtail-meta-preview) - Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.
+*   [wagtail-meta-preview (⭐33)](https://github.com/rinti/wagtail-meta-preview) - Adds ability to get share previews for Facebook, Twitter and Google in the Wagtail admin.
 
 ### Resources / Articles
 
@@ -369,7 +376,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Open-source sites / Lists
 
-*   [Federal Election Commission (⭐93)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
+*   [Federal Election Commission (⭐99)](https://github.com/fecgov/fec-cms) – The content management system (CMS) for the new Federal Election Commission website.
 
 ## [Jul 06 - Jul 12, 2020](/content/2020/27/README.md)
 
@@ -395,7 +402,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Modeladmin
 
-*   [wagtail-admin-list-controls (⭐44)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
+*   [wagtail-admin-list-controls (⭐46)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 
 ## [Mar 16 - Mar 22, 2020](/content/2020/11/README.md)
 
@@ -411,31 +418,31 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Forms
 
-*   [wagtail-contact-reply (⭐26)](https://github.com/KalobTaulien/wagtail-contact-reply) - Reply directly to form submissions from the Wagtail admin
+*   [wagtail-contact-reply (⭐27)](https://github.com/KalobTaulien/wagtail-contact-reply) - Reply directly to form submissions from the Wagtail admin
 
 ## [Feb 17 - Feb 23, 2020](/content/2020/7/README.md)
 
 ### Tools / Templates & Starter Kits
 
-*   [Django Cookiecutter Wagtail (⭐71)](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
+*   [Django Cookiecutter Wagtail (⭐72)](https://github.com/Jean-Zombie/cookiecutter-django-wagtail) – A Django Cookiecutter template with Wagtail. Based on the original 'Django Cookiecutter'. Features: Docker support using `docker-compose` for development and production (using Traefik with LetsEncrypt support), customizable PostgreSQL version, Bootstrap 4, media storage using Amazon S3 or Google Cloud Storage and many more.
 
 ## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
 
 ### Apps / SEO and SMO
 
-*   [wagtail-opengraph-image-generator (⭐40)](https://github.com/candylabshq/wagtail-opengraph-image-generator) - Assists you in automatically creating Open Graph images for your Wagtail pages.
+*   [wagtail-opengraph-image-generator (⭐41)](https://github.com/candylabshq/wagtail-opengraph-image-generator) - Assists you in automatically creating Open Graph images for your Wagtail pages.
 
 ## [Jan 06 - Jan 12, 2020](/content/2020/1/README.md)
 
 ### Apps / Misc
 
-*   [Wagtail Resume (⭐91)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
+*   [Wagtail Resume (⭐93)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
 
 ### Apps / Widgets
 
-*   [wagtail-leaflet-widget (⭐22)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
+*   [wagtail-leaflet-widget (⭐23)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
 
 ## [Sep 23 - Sep 29, 2019](/content/2019/38/README.md)
 
@@ -467,7 +474,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Pipit (⭐238)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
+*   [Wagtail Pipit (⭐240)](https://github.com/Frojd/Wagtail-Boilerplate) – Pipit is a Wagtail boilerplate which aims to provide an easy and modern developer workflow with a React-rendered frontend.
 
 ## [Jul 01 - Jul 07, 2019](/content/2019/26/README.md)
 
@@ -495,13 +502,13 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### For editors / Lists
 
-*   [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github (⭐387)](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages)
+*   [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github (⭐386)](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages)
 
 ## [Apr 08 - Apr 14, 2019](/content/2019/14/README.md)
 
 ### Apps / StreamField
 
-*   [Wagtail Blocks (⭐76)](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
+*   [Wagtail Blocks (⭐79)](https://github.com/ibrahimawadhamid/wagtail_blocks) - A Collection of awesome Wagtail CMS stream-field blocks and Charts.
 
 ### Open-source sites / Lists
 
@@ -511,7 +518,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Media
 
-*   [Wagtail-Textract (⭐33)](https://github.com/fourdigits/wagtail_textract) - Make Wagtail search Documents contents (PDF, Excel and Word, etc.).
+*   [Wagtail-Textract (⭐34)](https://github.com/fourdigits/wagtail_textract) - Make Wagtail search Documents contents (PDF, Excel and Word, etc.).
 
 ### Resources / Presentations
 
@@ -524,7 +531,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) by Lisa Adams & Codie Roelf.
 *   [Slack2Wagtail – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=785) by Coen van der Kamp & Lucas Moeskops.
 *   [Wagtail and Oscar – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=1634) by Lars van de Kerkhof.
-*   [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code (⭐33)](https://github.com/fourdigits/wagtail_textract).
+*   [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code (⭐34)](https://github.com/fourdigits/wagtail_textract).
 *   [Django 2.2 compatibility – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3468) by Matt Wescott.
 *   [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) by Janneke Janssen. [Code (⭐22)](https://github.com/LUKKIEN/wagtail-marketing-addons).
 *   [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) by Arifin Ibne Matin.
@@ -551,7 +558,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Widgets
 
-*   [wagtail-autocomplete (⭐120)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
+*   [wagtail-autocomplete (⭐119)](https://github.com/wagtail/wagtail-autocomplete) - Autocompleting choosers for `ForeignKey`, `ParentalKey`, and `ManyToMany` fields.
 
 ### Apps / Testing
 
@@ -559,9 +566,9 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Misc
 
-*   [Wagtail Cache (⭐86)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
+*   [Wagtail Cache (⭐88)](https://github.com/coderedcorp/wagtail-cache) - A simple page cache for Wagtail using the Django cache middleware.
 *   [Wagtail GraphQL (⭐38)](https://github.com/tr11/wagtail-graphql) - App to automatically add GraphQL support to a Wagtail website.
-*   [Wagtail Orderable (⭐65)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
+*   [Wagtail Orderable (⭐66)](https://github.com/elton2048/wagtail-orderable) - Mixin support for drag-and-drop ordering in admin panel.
 
 ### Resources / Getting started
 
@@ -613,7 +620,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Content Management
 
-*   [Wagtail Tag Manager (⭐75)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
+*   [Wagtail Tag Manager (⭐77)](https://github.com/jberghoef/wagtail-tag-manager) - A Wagtail addon that allows for easier and GDPR compliant administration of scripts and tags.
 
 ### Open-source sites / Lists
 
@@ -631,7 +638,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 *   [Wagtail FontAwesome](https://gitlab.com/alexgleason/wagtailfontawesome) - Add FontAwesome icons to StreamField.
 *   [UWKM Streamfields (⭐33)](https://github.com/UWKM/uwkm_streamfields) – A basic set of Wagtail StreamField blocks for fun and profit.
-*   [Wagtail Code Block (⭐153)](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
+*   [Wagtail Code Block (⭐160)](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
 
 ### Apps / Misc
 
@@ -678,7 +685,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Misc
 
-*   [Wagtail App Pages (⭐30)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
+*   [Wagtail App Pages (⭐31)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
 
 ## [Apr 30 - May 06, 2018](/content/2018/18/README.md)
 
@@ -724,13 +731,13 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Misc
 
-*   [Joyous (⭐74)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
+*   [Joyous (⭐76)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
 
 ## [Mar 19 - Mar 25, 2018](/content/2018/12/README.md)
 
 ### Apps / Security
 
-*   [wagtail-2fa (⭐85)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
+*   [wagtail-2fa (⭐86)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
 
 ### Resources / Articles
 
@@ -746,11 +753,11 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / E-commerce
 
-*   [django-oscar-wagtail (⭐103)](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
+*   [django-oscar-wagtail (⭐104)](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?).
 
 ### Apps / Forms
 
-*   [wagtailstreamforms (⭐3)](https://github.com/AccentDesign/wagtailstreamforms) - Build forms in Wagtail's admin for use in streamfields.
+*   [wagtailstreamforms (⭐4)](https://github.com/AccentDesign/wagtailstreamforms) - Build forms in Wagtail's admin for use in streamfields.
 
 ### Resources / Videos
 
@@ -760,7 +767,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Rich text editor extensions
 
-*   [WagtailDraftail (⭐24)](https://github.com/springload/wagtaildraftail) – Draft.js editor for Wagtail, built upon [Draftail (⭐613)](https://github.com/springload/draftail) and [draftjs\_exporter (⭐81)](https://github.com/springload/draftjs_exporter).
+*   [WagtailDraftail (⭐24)](https://github.com/springload/wagtaildraftail) – Draft.js editor for Wagtail, built upon [Draftail (⭐619)](https://github.com/springload/draftail) and [draftjs\_exporter (⭐84)](https://github.com/springload/draftjs_exporter).
 
 ### Resources / Lists
 
@@ -768,14 +775,14 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Open-source sites / Lists
 
-*   [bakerydemo (⭐952)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
+*   [bakerydemo (⭐984)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
 *   [wagtaildemo (⭐285)](https://github.com/wagtail/wagtaildemo) – An example site implemented with Wagtail.
 
 ## [Sep 25 - Oct 01, 2017](/content/2017/39/README.md)
 
 ### Apps / StreamField
 
-*   [wagtail-inventory (⭐59)](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
+*   [wagtail-inventory (⭐61)](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
 
 ## [Sep 11 - Sep 17, 2017](/content/2017/37/README.md)
 
@@ -787,7 +794,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Customer experience
 
-*   [Wagtail Personalisation (⭐120)](https://github.com/LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
+*   [Wagtail Personalisation (⭐124)](https://github.com/LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
 
 ## [May 22 - May 28, 2017](/content/2017/21/README.md)
 
@@ -799,7 +806,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Static site generation
 
-*   [Wagtail-bakery (⭐179)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
+*   [Wagtail-bakery (⭐184)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
 
 ## [May 01 - May 07, 2017](/content/2017/18/README.md)
 
@@ -817,7 +824,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Open-source sites / Lists
 
-*   [Secure the News (⭐100)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
+*   [Secure the News (⭐102)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
 *   [HackSoft](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
 *   [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 
@@ -829,7 +836,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐394)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐397)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ### Apps / Misc
 
@@ -844,36 +851,36 @@ A curated list of awesome packages, articles, and other cool resources from the 
 ### Apps / Widgets
 
 *   [wagtailgmaps (⭐83)](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields.
-*   [wagtail-markdown (⭐193)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
+*   [wagtail-markdown (⭐198)](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
 
 ### Apps / SEO and SMO
 
-*   [wagtail-metadata (⭐116)](https://github.com/takeflight/wagtail-metadata) - A tool to assist with metadata for social media and search engines.
+*   [wagtail-metadata (⭐117)](https://github.com/takeflight/wagtail-metadata) - A tool to assist with metadata for social media and search engines.
 *   [wagtail-metadata-mixin (⭐47)](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
 *   [wagtail-schema.org (⭐70)](https://github.com/takeflight/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
 
 ### Apps / Analytics
 
-*   [Wagtail Analytics (⭐217)](https://github.com/tomdyson/wagalytics) - A Google Analytics dashboard in your Wagtail admin.
+*   [Wagtail Analytics (⭐220)](https://github.com/tomdyson/wagalytics) - A Google Analytics dashboard in your Wagtail admin.
 
 ### Apps / Customer experience
 
-*   [Wagtail Experiments (⭐106)](https://github.com/torchbox/wagtail-experiments) – A/B testing for Wagtail.
+*   [Wagtail Experiments (⭐108)](https://github.com/torchbox/wagtail-experiments) – A/B testing for Wagtail.
 
 ### Apps / Testing
 
-*   [Wagtail Accessibility (⭐32)](https://github.com/takeflight/wagtail-accessibility) – A plugin to assist with accessibility when developing in Wagtail.
+*   [Wagtail Accessibility (⭐33)](https://github.com/takeflight/wagtail-accessibility) – A plugin to assist with accessibility when developing in Wagtail.
 *   [Wagtail Factories (⭐102)](https://github.com/mvantellingen/wagtail-factories) - Factory boy classes for Wagtail.
 
 ## [Feb 27 - Mar 05, 2017](/content/2017/9/README.md)
 
 ### Apps / Settings management
 
-*   [Wagtail-Flags (⭐83)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
+*   [Wagtail-Flags (⭐84)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
 
 ### Apps / Content Management
 
-*   [Wagtail Sharing (⭐53)](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
+*   [Wagtail Sharing (⭐54)](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
 
 ### Resources / Articles
 
@@ -884,7 +891,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Media
 
-*   [Wagtail Alt Generator (⭐83)](https://github.com/marteinn/wagtail-alt-generator) - A module for generating image description and tags based on computer vision.
+*   [Wagtail Alt Generator (⭐84)](https://github.com/marteinn/wagtail-alt-generator) - A module for generating image description and tags based on computer vision.
 
 ## [Jan 23 - Jan 29, 2017](/content/2017/4/README.md)
 
@@ -895,7 +902,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 ### Open-source sites / Lists
 
 *   [Torchbox (⭐124)](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
-*   [Made with Wagtail (⭐85)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
+*   [Made with Wagtail (⭐86)](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
 *   [OpenCanada.org (⭐14)](https://github.com/OpenCanada/website) – The opencanada.org website source.
 *   [Table Tennis Wellington Business Class (⭐5)](https://github.com/jordij/bctt.nz) – Website for the table tennis business league in Wellington NZ.
 *   [Jordi Joan’s blog (⭐20)](https://github.com/jordij/jordijoan.me) – Personal blog site using Wagtail CMS.
@@ -909,7 +916,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Widgets
 
-*   [Wagtail-Geo-Widget (⭐138)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
+*   [Wagtail-Geo-Widget (⭐137)](https://github.com/Frojd/wagtail-geo-widget) - Google Maps widget for the GeoDjango PointField field in Wagtail.
 
 ## [Dec 12 - Dec 18, 2016](/content/2016/50/README.md)
 
@@ -921,7 +928,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Blogging/news
 
-*   [wagtailnews (⭐74)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
+*   [wagtailnews (⭐75)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
 
 ## [Sep 26 - Oct 02, 2016](/content/2016/39/README.md)
 
@@ -960,7 +967,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Media
 
-*   [wagtailmedia (⭐232)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
+*   [wagtailmedia (⭐233)](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
 
 ### Apps / Translations
 
@@ -972,11 +979,11 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Content Management
 
-*   [Wagtail Themes (⭐103)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
+*   [Wagtail Themes (⭐106)](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
 
 ### Tools / Templates & Starter Kits
 
-*   [Wagtail Cookiecutter Foundation (⭐166)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
+*   [Wagtail Cookiecutter Foundation (⭐164)](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 
 ## [Aug 29 - Sep 04, 2016](/content/2016/35/README.md)
 
@@ -999,15 +1006,15 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Apps / Security
 
-*   [wagtailenforcer (⭐45)](https://github.com/springload/wagtailenforcer) - If you need to enforce security protocols on your Wagtail site you've come to the right place.
+*   [wagtailenforcer (⭐47)](https://github.com/springload/wagtailenforcer) - If you need to enforce security protocols on your Wagtail site you've come to the right place.
 
 ### Apps / Forms
 
-*   [Wagtail ReCaptcha (⭐56)](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha (⭐991)](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
+*   [Wagtail ReCaptcha (⭐56)](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha (⭐1k)](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
 
 ### Apps / Misc
 
-*   [wagtailmenus (⭐397)](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
+*   [wagtailmenus (⭐404)](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
 
 ### Resources / Presentations
 
@@ -1016,4 +1023,4 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Resources / Showcases
 
-*   [Contributed apps and website code (⭐18k)](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps.
+*   [Contributed apps and website code (⭐19k)](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps.

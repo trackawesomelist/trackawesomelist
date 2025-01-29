@@ -6,11 +6,11 @@
 
 [ Daily / [Weekly](/content/veggiemonk/awesome-docker/week/README.md) / [Overview](/content/veggiemonk/awesome-docker/readme/README.md) ]
 
-## [Jan 28, 2025](/content/2025/01/28/README.md)
+## [Jan 29, 2025](/content/2025/01/29/README.md)
 
 ### Terminal / Terminal UI
 
-*   [lazyjournal (⭐284)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.5k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
+*   [lazyjournal (⭐285)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.5k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
@@ -89,7 +89,7 @@
 
 ### API Client / Other
 
-*   [docker-controller-bot (⭐161)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
+*   [docker-controller-bot (⭐162)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
 
 ## [Apr 08, 2024](/content/2024/04/08/README.md)
 
@@ -254,7 +254,7 @@
 
 ### Testing / Other
 
-*   [Kurtosis (⭐406)](https://github.com/kurtosis-tech/kurtosis) - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/)
+*   [Kurtosis (⭐408)](https://github.com/kurtosis-tech/kurtosis) - A composable build system for multi-container test environments that provides developers with: a powerful Python-like SDK for environment configuration, a compile-time validator to verify environment behavior & setup, and a runtime for environment execution, monitoring, & debugging capabilities. By [Kurtosis](https://www.kurtosis.com/)
 
 ## [Mar 23, 2023](/content/2023/03/23/README.md)
 
@@ -446,7 +446,7 @@
 *   [Dockerana (⭐205)](https://github.com/dockerana/dockerana) :skull: - packaged version of Graphite and Grafana, specifically targeted at metrics from Docker.
 *   [DockProc](https://gitlab.com/n0r1sk/dockproc) - I/O monitoring for containers on processlevel.
 *   [dockprom (⭐6.1k)](https://github.com/stefanprodan/dockprom) - Docker hosts and containers monitoring with Prometheus, Grafana, cAdvisor, NodeExporter and AlertManager by [@stefanprodan](https://github.com/stefanprodan)
-*   [Doku (⭐324)](https://github.com/amerkurev/doku) - Doku is a simple web-based application that allows you to monitor Docker disk usage. [@amerkurev](https://github.com/amerkurev)
+*   [Doku (⭐325)](https://github.com/amerkurev/doku) - Doku is a simple web-based application that allows you to monitor Docker disk usage. [@amerkurev](https://github.com/amerkurev)
 *   [Dozzle (⭐7.5k)](https://github.com/amir20/dozzle) - Monitor container logs in real-time with a browser or mobile device. [@amir20](https://github.com/amir20)
 *   [Dynatrace](https://www.dynatrace.com/solutions/container-monitoring/) :heavy\_dollar\_sign: - Monitor containerized applications without installing agents or modifying your Run commands
 *   [Glances (⭐27k)](https://github.com/nicolargo/glances) - A cross-platform curses-based system monitoring tool written in Python by [@nicolargo](https://github.com/nicolargo)
@@ -675,7 +675,7 @@
 
 ### Builder / Other
 
-*   [ansible-bender (⭐678)](https://github.com/ansible-community/ansible-bender) - A tool utilising `ansible` and `buildah` by [@TomasTomecek](https://github.com/TomasTomecek)
+*   [ansible-bender (⭐679)](https://github.com/ansible-community/ansible-bender) - A tool utilising `ansible` and `buildah` by [@TomasTomecek](https://github.com/TomasTomecek)
 *   [buildah (⭐7.6k)](https://github.com/containers/buildah) - A tool that facilitates building OCI images by [@containers](https://github.com/containers)
 *   [BuildKit (⭐8.4k)](https://github.com/moby/buildkit) - Concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit by [@moby project](https://github.com/moby)
 *   [cekit (⭐106)](https://github.com/cekit/cekit) - A tool used by openshift to build base images using different build engines by [@cekit](https://github.com/cekit).
@@ -761,7 +761,7 @@
 *   [ahab (⭐136)](https://github.com/instacart/ahab) - Docker event handling with Python by [@instacart](https://github.com/instacart)
 *   [clj-docker-client (⭐176)](https://github.com/into-docker/clj-docker-client) :skull: - Idiomatic Clojure client for the Docker remote API. By [@lispyclouds](https://github.com/lispyclouds)
 *   [contajners (⭐136)](https://github.com/lispyclouds/contajners) - An idiomatic, data-driven, REPL friendly Clojure client for OCI container engines. By [@lispyclouds](https://github.com/lispyclouds)
-*   [Docker Client for JVM (⭐114)](https://github.com/gesellix/docker-client) - A Docker remote api client library for the JVM, written in Groovy by [@gesellix](https://github.com/gesellix)
+*   [Docker Client for JVM (⭐115)](https://github.com/gesellix/docker-client) - A Docker remote api client library for the JVM, written in Groovy by [@gesellix](https://github.com/gesellix)
 *   [Docker Client TypeScript](https://gitlab.com/masaeedu/docker-client) - Docker API client for JavaScript, automatically generated from Swagger API definition from moby repository. By [@masaeedu](https://github.com/masaeedu)
 *   [docker-client (⭐1.4k)](https://github.com/spotify/docker-client) :skull: - Java client for the Docker remote API. By [@spotify](https://github.com/spotify)
 *   [docker-it-scala (⭐431)](https://github.com/whisklabs/docker-it-scala) - Docker integration testing kit with Scala by [@whisklabs](https://github.com/whisklabs)
@@ -836,7 +836,7 @@
 *   [Docker Clean (⭐1.3k)](https://github.com/ZZROTDesign/docker-clean) - A script that cleans Docker containers, images and volumes by [@zzrotdesign](https://github.com/ZZROTDesign)
 *   [docker\_gc (⭐104)](https://github.com/pdacity/docker_gc) - Image for automatic removing unused Docker Swarm objects. Also works just as Docker Service by [@pdacity](https://github.com/pdacity)
 *   [Docker-cleanup (⭐587)](https://github.com/meltwater/docker-cleanup) :skull: - Automatic Docker image, container and volume cleanup by [@meltwater](https://github.com/meltwater)
-*   [docker-custodian (⭐372)](https://github.com/Yelp/docker-custodian) - Keep docker hosts tidy. By [@Yelp](https://github.com/Yelp)
+*   [docker-custodian (⭐373)](https://github.com/Yelp/docker-custodian) - Keep docker hosts tidy. By [@Yelp](https://github.com/Yelp)
 *   [docker-garby (⭐37)](https://github.com/konstruktoid/docker-garby) - Docker garbage collection script by [@konstruktoid](https://github.com/konstruktoid).
 *   [docker-gc (⭐5k)](https://github.com/spotify/docker-gc) :skull: - A cron job that will delete old stopped containers and unused images by [@spotify](https://github.com/spotify)
 *   [sherdock (⭐109)](https://github.com/rancher/sherdock) :skull: - Automatic GC of images based on regexp by [@rancher](https://github.com/rancher)

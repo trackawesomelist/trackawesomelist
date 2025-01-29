@@ -6,7 +6,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
-## [Jan 28, 2025](/content/2025/01/28/README.md)
+## [Jan 29, 2025](/content/2025/01/29/README.md)
 
 ### Networking
 
@@ -989,7 +989,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [chromedp (⭐11k)](https://github.com/knq/chromedp) - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
 *   [ggr (⭐314)](https://github.com/aerokube/ggr) - a lightweight server that routes and proxies Selenium WebDriver requests to multiple Selenium hubs.
 *   [playwright-go (⭐2.4k)](https://github.com/mxschmitt/playwright-go) - browser automation library to control Chromium, Firefox and WebKit with a single API.
-*   [rod (⭐5.6k)](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy.
+*   [rod (⭐5.7k)](https://github.com/go-rod/rod) - A Devtools driver to make web automation and scraping easy.
 *   [selenoid (⭐2.6k)](https://github.com/aerokube/selenoid) - alternative Selenium hub server that launches browsers within containers.
 
 ### Third-party APIs

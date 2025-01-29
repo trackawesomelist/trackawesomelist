@@ -472,11 +472,11 @@
 *   [Skeleton Vue+TypeScript (⭐25)](https://github.com/SierraSoftworks/vue-template) - TypeScript, VueJS, ElementUI, Vue Router, Vuex, Material Icons, BrowserSync, Dockerfile
 *   [Vue Design System (⭐2.2k)](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
 *   [Vuejs Examples](https://vuejsexamples.com/)
-*   [Laravel + Nuxt.js boilerplate (⭐679)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐680)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 *   [vue-stack-cesium (⭐20)](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
 *   [vuemoji-picker (⭐70)](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
 *   [Maxim Web Chat (⭐14)](https://github.com/maxim-top/maxim-web) - A chat demo using [MaximTop](https://www.maximtop.com)'s IM SDK (floo), 使用美信拓扑 IM SDK 实现的聊天 App 示例.
-*   [umo editor (⭐436)](https://github.com/umodoc/editor) - Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Visit [Playground](https://demo.umodoc.com/editor?lang=en-US) for a fast experience.
+*   [umo editor (⭐438)](https://github.com/umodoc/editor) - Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Visit [Playground](https://demo.umodoc.com/editor?lang=en-US) for a fast experience.
 *   [Vitesse Starter (⭐9k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
 *   [Vitesse-lite Starter (⭐1.2k)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
 *   [Vue Tic Tac Toe | Cerito Cruz (⭐0)](https://github.com/EduardoProfe666/cerito-cruz-vue) by [@EduardoProfe666](https://github.com/EduardoProfe666): Popular Tic-Tac-Toe-Game with extra features using Vue 3, Vite, TypeScript, Tailwind, Gsap, Howler, Headless UI and Vue Use
@@ -913,7 +913,7 @@
 *   [Stellar UI (⭐39)](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
 *   [Shadcn UI (⭐5.9k)](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui (⭐80k)](https://github.com/shadcn-ui/ui) (re-usable components built with [Radix Vue (⭐4.1k)](https://github.com/radix-vue/radix-vue) and [Tailwind CSS (⭐85k)](https://github.com/tailwindlabs/tailwindcss)).
 *   [Inspira UI](https://inspira-ui.com/) - Open Source components to build stunning animated interfaces effortlessly using Vue, Nuxt and Tailwind CSS.
-*   [flowbite-vue (⭐804)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
+*   [flowbite-vue (⭐803)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 
 #### Mobile
 
@@ -1481,7 +1481,7 @@ Tooltips / popovers
 #### SVG
 
 *   [vue-svgicon (⭐921)](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x).
-*   [vue-inline-svg (⭐178)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
+*   [vue-inline-svg (⭐179)](https://github.com/shrpne/vue-inline-svg) - Vue component loads an SVG source dynamically and inline `<svg>` so you can manipulate the style of it with CSS or JS. (vue 2.x, vue 3.x)
 
 #### Miscellaneous
 
@@ -1538,7 +1538,7 @@ Tooltips / popovers
 *   [v-google-translate (⭐302)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
 *   [fluent-vue (⭐254)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 *   [vue-next-i18n (⭐17)](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3.
-*   [tolgee/vue (⭐234)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐236)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 *   [intlify/vue-i18n-next (⭐2.3k)](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3.
 
 #### Custom Events
@@ -1637,7 +1637,7 @@ Payment utilities.
 *   [vuefire (⭐4)](https://github.com/nigeltiany/vuefire) - Firebase for VueJS and Vuex
 *   [vue-postgrest (⭐80)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 *   [vue-tweet (⭐36)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
-*   [vue-tg (⭐220)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+*   [vue-tg (⭐221)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
 #### Vue CLI Plugins
 
