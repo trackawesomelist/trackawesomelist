@@ -26,8 +26,8 @@
 
 ### Templates / Vanilla
 
-*   [template-vite (⭐88)](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
-*   [template-vite-ts (⭐119)](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
+*   [template-vite (⭐89)](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
+*   [template-vite-ts (⭐122)](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
 
 ### Tauri / F# and Fable
 
@@ -39,7 +39,7 @@
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [@responsive-image/vite-plugin (⭐123)](https://github.com/simonihmig/responsive-image) - Transform and generate optimized responsive images (WebP, AVIF) and LQIP placeholders for use with image components.
+*   [@responsive-image/vite-plugin (⭐131)](https://github.com/simonihmig/responsive-image) - Transform and generate optimized responsive images (WebP, AVIF) and LQIP placeholders for use with image components.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -47,7 +47,7 @@
 
 ### Framework-agnostic Plugins / Security
 
-*   [vite-plugin-csp (⭐0)](https://github.com/maccuaa/vite-plugin-csp) - Content Security Policy (CSP) for SPA. Automatically calculates asset hashes (SRI), detects Google Fonts. Support `Bun` and `Node.js` runtimes.
+*   [vite-plugin-csp (⭐1)](https://github.com/maccuaa/vite-plugin-csp) - Content Security Policy (CSP) for SPA. Automatically calculates asset hashes (SRI), detects Google Fonts. Support `Bun` and `Node.js` runtimes.
 
 ## [Jan 09, 2025](/content/2025/01/09/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Tauri / Electron
 
-*   [HuLa (⭐988)](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
+*   [HuLa (⭐990)](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -108,7 +108,7 @@
 
 ### Templates / Vanilla
 
-*   [create-domco (⭐44)](https://github.com/rossrobino/domco/tree/main/packages/create-domco) - Starter template for domco.
+*   [create-domco (⭐45)](https://github.com/rossrobino/domco/tree/main/packages/create-domco) - Starter template for domco.
 
 ### Templates / React
 
@@ -124,7 +124,7 @@
 
 ### Libraries / Community
 
-*   [domco (⭐44)](https://github.com/rossrobino/domco) - Minimal full-stack JavaScript. Turns a Vite app into a full-stack application with minimal dependencies.
+*   [domco (⭐45)](https://github.com/rossrobino/domco) - Minimal full-stack JavaScript. Turns a Vite app into a full-stack application with minimal dependencies.
 
 ### Open Source / Community
 
@@ -358,7 +358,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [remix-development-tools (⭐799)](https://github.com/forge42dev/Remix-Dev-Tools) - Plugin for Remix.run development tools.
+*   [remix-development-tools (⭐801)](https://github.com/forge42dev/Remix-Dev-Tools) - Plugin for Remix.run development tools.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -637,7 +637,7 @@
 
 ### React / Community
 
-*   [Viject (⭐153)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
+*   [Viject (⭐154)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
 
 ## [Nov 15, 2023](/content/2023/11/15/README.md)
 
@@ -757,7 +757,7 @@
 
 ### Get Started
 
-*   [bati (⭐350)](https://github.com/batijs/bati) - Scaffolding a Vike project.
+*   [bati (⭐351)](https://github.com/batijs/bati) - Scaffolding a Vike project.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -799,7 +799,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-injection (⭐26)](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
+*   [vite-plugin-html-injection (⭐29)](https://github.com/altrusl/vite-plugin-html-injection) - Inject HTML, JavaScript and CSS code snippets into the `index.html`.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -829,7 +829,7 @@
 
 ### Libraries / Community
 
-*   [vite-ssr-boost (⭐91)](https://github.com/Lomray-Software/vite-ssr-boost) - Server side rendering library for create awesome app based on `react-router`. ![react](https://img.shields.io/badge/-React-4ab2cf)
+*   [vite-ssr-boost (⭐92)](https://github.com/Lomray-Software/vite-ssr-boost) - Server side rendering library for create awesome app based on `react-router`. ![react](https://img.shields.io/badge/-React-4ab2cf)
 
 ## [Aug 30, 2023](/content/2023/08/30/README.md)
 
@@ -871,7 +871,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-turbo-console (⭐577)](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
+*   [vite-plugin-turbo-console (⭐578)](https://github.com/yuyinws/vite-plugin-turbo-console) - Enhance the readability of `console.log()`.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -966,8 +966,8 @@
 
 ### React / Official
 
-*   [@vitejs/plugin-react (⭐647)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
-*   [@vitejs/plugin-react-swc (⭐908)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
+*   [@vitejs/plugin-react (⭐648)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
+*   [@vitejs/plugin-react-swc (⭐909)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
 
 ## [May 31, 2023](/content/2023/05/31/README.md)
 
@@ -1398,7 +1398,7 @@
 
 ### Shopify / Community
 
-*   [vite-plugin-shopify (⭐310)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
+*   [vite-plugin-shopify (⭐311)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
 
 ## [Jul 20, 2022](/content/2022/07/20/README.md)
 
@@ -1486,7 +1486,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐8k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐8.1k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [Jun 15, 2022](/content/2022/06/15/README.md)
 
@@ -2009,7 +2009,7 @@
 
 ### Templates / Vue 3
 
-*   [fast-crud (⭐967)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
+*   [fast-crud (⭐968)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 
 ### Rollup Plugins / Compatible with Vite
 
@@ -2025,7 +2025,7 @@
 
 ### Apps/Websites / Community
 
-*   [vue3-realworld-example-app (⭐975)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
+*   [vue3-realworld-example-app (⭐976)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 
 ## [May 12, 2021](/content/2021/05/12/README.md)
 
@@ -2141,7 +2141,7 @@
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [vite-imagetools (⭐977)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
+*   [vite-imagetools (⭐978)](https://github.com/JonasKruckenberg/vite-imagetools) - Load and transform images using url query parameters.
 
 ### React / Framework
 

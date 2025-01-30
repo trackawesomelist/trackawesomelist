@@ -10,7 +10,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Artificial Intelligence
 
-*   [LlmTornado (⭐46)](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
+*   [LlmTornado (⭐47)](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
 
 ### Desktop
 
@@ -18,7 +18,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Logging
 
-*   [AutoLoggerMessage (⭐45)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐47)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ### Tools
 

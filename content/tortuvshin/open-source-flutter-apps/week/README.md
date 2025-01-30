@@ -124,7 +124,7 @@
 
 ### Contents / Personalization
 
-*   [Spooky (⭐266)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
+*   [Spooky (⭐268)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
@@ -172,7 +172,7 @@
 
 ### Contents / Health and Fitness
 
-*   [WorkoutTracker (⭐93)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
+*   [WorkoutTracker (⭐94)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
 
 ### Contents / Media
 
@@ -194,7 +194,7 @@
 
 ### Contents / Entertainment
 
-*   [Tachidesk-Sorayomi (⭐949)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
+*   [Tachidesk-Sorayomi (⭐950)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
 
 ### Contents / Media
 
@@ -438,7 +438,7 @@
 
 ### Contents / Shopping
 
-*   [E-Commerce App (⭐773)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
+*   [E-Commerce App (⭐774)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
 
 ## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
 
@@ -474,7 +474,7 @@
 
 ### Contents / Games
 
-*   [Math Matrix (⭐395)](https://github.com/jaysavsani07/math-metrix) -Brain training games composition [Mehul Makwana](https://github.com/mehulmk).
+*   [Math Matrix (⭐396)](https://github.com/jaysavsani07/math-metrix) -Brain training games composition [Mehul Makwana](https://github.com/mehulmk).
 
 ## [Jan 27 - Feb 02, 2020](/content/2020/4/README.md)
 

@@ -472,7 +472,7 @@
 *   [Skeleton Vue+TypeScript (⭐25)](https://github.com/SierraSoftworks/vue-template) - TypeScript, VueJS, ElementUI, Vue Router, Vuex, Material Icons, BrowserSync, Dockerfile
 *   [Vue Design System (⭐2.2k)](https://github.com/viljamis/vue-design-system) - An open source boilerplate for building UI Design Systems with Vue.js.
 *   [Vuejs Examples](https://vuejsexamples.com/)
-*   [Laravel + Nuxt.js boilerplate (⭐681)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐680)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 *   [vue-stack-cesium (⭐20)](https://github.com/meschg/vue-stack-cesium) - A minimal sample configuration project with [CesiumJS](https://cesium.com/cesiumjs/) and all the awesome vue features. The project contains many examples how to combine and use certain packages to get started.
 *   [vuemoji-picker (⭐70)](https://github.com/wobsoriano/vuemoji-picker) - Vue 2 and 3 lightweight emoji picker.
 *   [Maxim Web Chat (⭐14)](https://github.com/maxim-top/maxim-web) - A chat demo using [MaximTop](https://www.maximtop.com)'s IM SDK (floo), 使用美信拓扑 IM SDK 实现的聊天 App 示例.
@@ -601,7 +601,7 @@
 *   [LeagueStats (⭐437)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 *   [Savycart (⭐51)](https://github.com/itsalb3rt/savycart-app) - PWA to track personal purchases, No more paper and pencil to go to the supermarket 🏬 Vue and Vuetify
 *   [Afterman (⭐49)](https://github.com/itsalb3rt/afterman) - 🌕 Create beautiful docs in markdown and HTML from postman collection. Using Quasar Framework
-*   [LogChimp (⭐759)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
+*   [LogChimp (⭐758)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
 *   [Yacht (⭐3.6k)](https://github.com/Selfhostedpro/Yacht) - A Docker container management webui using Vuetify for a hassle free way of managing docker containers and projects.
 *   [Antares SQL (⭐2k)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 *   [Bagisto (⭐16k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
@@ -644,7 +644,7 @@
 *   [NxShell (⭐1.1k)](https://github.com/nxshell/nxshell) - An easy to use new terminal for SSH, which based on Electron and VueJS.
 *   [Materio Vuetify VueJS Admin Template](https://themeselection.com/products/materio-vuetify-vuejs-admin-template/) - Most Powerful, Developer Friendly, Production ready & Comprehensive Vuetify VueJS Admin Template.
 *   [NocoDB (⭐51k)](https://github.com/nocodb/nocodb) - An opensource Airtable alternative.
-*   [KodaDot (⭐652)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
+*   [KodaDot (⭐653)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 *   [He3](https://he3.app) - Free and Modern Developer Utilities Toolbox.
 *   [RunJS](https://runjs.app) - JavaScript playground that evaluates your code as you type and gives instant feedback. Ideal for prototyping ideas or trying out new libraries.
 *   [Sneat Vuetify VueJS Admin Template](https://themeselection.com/item/sneat-vuetify-vuejs-admin-template/) - The Ultimate VueJS Admin Template for responsive web apps.
@@ -963,7 +963,7 @@
 *   [Admin One Vue 3 Tailwind dashboard (⭐2.2k)](https://github.com/justboil/admin-one-vue-tailwind) - Vue.js 3 Tailwind CSS admin template with dark mode.
 *   [Mosaic - Vue Admin TailwindCSS template (⭐268)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 *   [vue-admin-box (⭐1.8k)](https://github.com/cmdparkour/vue-admin-box) - The admin template based on vue3 and element-plus. [Live demo](https://cmdparkour.github.io/vue-admin-box/dist/)
-*   [argon-dashboard-vue3 (⭐160)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
+*   [argon-dashboard-vue3 (⭐161)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
 *   [Vitify Admin (⭐152)](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
 *   [Dolphin Admin (⭐67)](https://github.com/bit-ocean-studio/dolphin-admin-vue) - An open source, free, lightweight, out-of-the-box, internationalized admin template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS. [Live demo](https://dolphin-admin-vue.bit-ocean.studio/)
 *   [vue-vben-admin (⭐27k)](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
@@ -1083,7 +1083,7 @@ Tooltips / popovers
 *   [v-dialogs (⭐132)](https://github.com/TerryZ/v-dialogs) - A simple and powerful dialog, including Modal, Alert, Mask and Toast modes, based on Vue2.x
 *   [vue-sweetalert2 (⭐659)](https://github.com/avil13/vue-sweetalert2) - wrapper for sweatlaert2 with support for TypeScript, Nuxt and SSR
 *   [@kouts/vue-modal (⭐127)](https://github.com/kouts/vue-modal) - A customizable, stackable and lightweight modal component that adheres to the guidelines set in WAI-ARIA Dialog (Modal) section of W3C.
-*   [vue-final-modal (⭐951)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
+*   [vue-final-modal (⭐952)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 *   [vue-it-bigger (⭐190)](https://github.com/haiafara/vue-it-bigger) - A simple image / (YouTube) video lightbox component for Vue.js.
 *   [vuejs-confirm-dialog (⭐59)](https://github.com/harmyderoman/vuejs-confirm-dialog) - :speech\_balloon: a simple way to create, reuse, promisify and build chains of modal dialogs in Vue.js.
 *   [@kolirt/vue-modal (⭐15)](https://github.com/kolirt/vue-modal) - ⚡️ Simple Vue3 modal package
@@ -1100,7 +1100,7 @@ Tooltips / popovers
 
 #### Marquee
 
-*   [vue3-marquee (⭐677)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐678)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 #### Menu
 
@@ -1194,7 +1194,7 @@ Tooltips / popovers
 #### Graph
 
 *   [vnodes (⭐123)](https://github.com/txlabs/vnodes) - General purpose components to create svg interactive graphs, diagrams or node based visual tools.
-*   [v-network-graph (⭐537)](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
+*   [v-network-graph (⭐538)](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
 *   [coya (⭐67)](https://github.com/AlexanderMykulych/coya) - Diagram drawing library (vue3 only)
 *   [vue-skia (⭐308)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue3 rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [vue-flow (⭐4.4k)](https://github.com/bcakmakoglu/vue-flow) - Interactive, customizeabe, graph & flowchart editor for Vue3
@@ -1283,7 +1283,7 @@ Tooltips / popovers
 *   [vue-cool-select (⭐244)](https://github.com/iliyaZelenko/vue-cool-select) - Bootstrap / Material Design theme, support slots, autocomplete, events, validation and more.
 *   [vue-select-sides (⭐70)](https://github.com/juliorosseti/vue-select-sides) - A component for Vue.js to select double-sided data (2-sides).
 *   [@vueform/multiselect (⭐812)](https://github.com/vueform/multiselect) - Vue 3 multiselect component with single select, multiselect and tagging options.
-*   [vue3-select-component (⭐66)](https://github.com/TotomInc/vue3-select-component) - Vue 3 Select Component, single & multi-select, best-in-class DX support with TypeScript end-to-end typesafe, easy styling, slots and more \~4.4KB
+*   [vue3-select-component (⭐67)](https://github.com/TotomInc/vue3-select-component) - Vue 3 Select Component, single & multi-select, best-in-class DX support with TypeScript end-to-end typesafe, easy styling, slots and more \~4.4KB
 
 ##### Drag and Drop
 
@@ -1292,7 +1292,7 @@ Tooltips / popovers
 *   [vue-smooth-dnd (⭐1.8k)](https://github.com/kutlugsahin/vue-smooth-dnd) - Vue wrappers of smooth-dnd library. drag and drop, sortable library covering for many cases.
 *   [vue3-dnd (⭐662)](https://github.com/hcg1023/vue3-dnd) - React DnD in Composition API implementation, Use the Composition API for sortable and free draggable, Supported Vue2, Vue3.
 *   [sortablejs-vue3 (⭐387)](https://github.com/MaxLeiter/sortablejs-vue3) - A Vue 3 component acting as a thin wrapper around SortableJS
-*   [vue-fluid-dnd (⭐268)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
+*   [vue-fluid-dnd (⭐269)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
 
 ##### Type Select
 
@@ -1492,7 +1492,7 @@ Tooltips / popovers
 *   [VueGL (⭐680)](https://github.com/vue-gl/vue-gl) - Vue.js components rendering 3D graphics reactively via three.js
 *   [vue-displacement-slideshow (⭐213)](https://github.com/AlbanCrepel/vue-displacement-slideshow) - A Vue.js component that makes Webgl image displacement transitions easier.
 *   [TresJs (⭐2.4k)](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
-*   [Cientos (⭐307)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
+*   [Cientos (⭐308)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
 *   [trois (⭐4.3k)](https://github.com/troisjs/trois) - ✨ ThreeJS + VueJS 3 + ViteJS ⚡
 
 #### Fullscreen
@@ -1558,7 +1558,7 @@ Tooltips / popovers
 *   [v-bucket (⭐43)](https://github.com/mediv0/v-bucket) - 📦 Fast, Simple, and Lightweight State Management for Vue 3.0 built with composition API, inspired by Vuex.
 *   [vue-datatable-url-sync (⭐32)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 *   [harlem (⭐517)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
-*   [exome (⭐245)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐246)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ##### Mobx
 
@@ -1637,7 +1637,7 @@ Payment utilities.
 *   [vuefire (⭐4)](https://github.com/nigeltiany/vuefire) - Firebase for VueJS and Vuex
 *   [vue-postgrest (⭐80)](https://github.com/technowledgy/vue-postgrest) - Vue.js integration for postgREST: flexible, powerful and easy to use.
 *   [vue-tweet (⭐36)](https://github.com/DannyFeliz/vue-tweet) - Vue 3 component that let you embed tweets in your App by only giving the tweet id
-*   [vue-tg (⭐221)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+*   [vue-tg (⭐222)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
 #### Vue CLI Plugins
 

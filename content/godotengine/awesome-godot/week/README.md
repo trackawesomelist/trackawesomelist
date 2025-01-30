@@ -20,14 +20,14 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Engine themes / Godot version unknown
 
-*   [Catppuccin Theme (⭐116)](https://github.com/catppuccin/godot) - A soothing pastel theme offered in four different flavors.
+*   [Catppuccin Theme (⭐117)](https://github.com/catppuccin/godot) - A soothing pastel theme offered in four different flavors.
 *   [Godot Minimal Theme (⭐2.1k)](https://github.com/passivestar/godot-minimal-theme) - A theme that aims to correct odd spacing and formatting in the default Godot theme without changing the overall look and feel.
 
 ## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
 
 ### Plugins and scripts / Godot 4
 
-*   [NobodyWho (⭐173)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
+*   [NobodyWho (⭐177)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
@@ -70,7 +70,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Godot 4
 
-*   [Shaker (⭐295)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
+*   [Shaker (⭐296)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
 
 ## [Aug 19 - Aug 25, 2024](/content/2024/34/README.md)
 
@@ -141,11 +141,11 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Templates / Godot 4
 
-*   [Maaack's Game Template (⭐609)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
+*   [Maaack's Game Template (⭐610)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 
 ### Plugins and scripts / Godot 4
 
-*   [Maaack's Game Template Plugin (⭐609)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
+*   [Maaack's Game Template Plugin (⭐610)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 *   [Maaack's Menus Template (⭐167)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 *   [Maaack's Scene Loader (⭐32)](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
 
@@ -178,7 +178,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Godot 4
 
-*   [GdUnit4 (⭐633)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
+*   [GdUnit4 (⭐632)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
 
 ## [Feb 12 - Feb 18, 2024](/content/2024/7/README.md)
 
@@ -230,7 +230,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Plugins and scripts / Godot 4
 
-*   [SignalVisualizer (⭐441)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock.
+*   [SignalVisualizer (⭐442)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock.
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
@@ -516,7 +516,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Templates / Godot 3
 
-*   [Crystal Bit Godot Game Template (⭐665)](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
+*   [Crystal Bit Godot Game Template (⭐666)](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
 
 ### Plugins and scripts / Godot 3
 
@@ -607,7 +607,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Plugins and scripts / Godot 3
 
 *   [2D Destructible Objects (⭐399)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥.
-*   [CRT Shader (⭐306)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters.
+*   [CRT Shader (⭐307)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters.
 *   [Kehom's Godot Addon Pack (⭐192)](https://github.com/Kehom/GodotAddonPack) - A collection of addons for debugging, networking, UI, and more.
 
 ### Other / Godot version unknown
@@ -773,7 +773,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 *   [Delaunator GDScript (⭐83)](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points.
 *   [Dialogic (⭐5)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
 *   [FMOD GDNative (⭐516)](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript.
-*   [GDGIFExporter (⭐126)](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
+*   [GDGIFExporter (⭐127)](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
 *   [gdstats (⭐36)](https://github.com/droxpopuli/gdstats) - A library of pseudorandom number generators for common statistical distributions.
 *   [GitHub integration (⭐233)](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
 *   [godotccd (⭐64)](https://github.com/TheSHEEEP/godotccd) - Fast 3D collision checks in Godot using libccd.
@@ -874,7 +874,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 ### Syntax themes / Godot version unknown
 
-*   [base16-godot (⭐35)](https://github.com/Calinou/base16-godot) - All [base16 (⭐728)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐35)](https://github.com/Calinou/base16-godot) - All [base16 (⭐729)](https://github.com/chriskempson/base16) themes.
 
 ## [Feb 04 - Feb 10, 2019](/content/2019/5/README.md)
 

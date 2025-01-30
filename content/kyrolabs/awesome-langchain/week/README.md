@@ -139,7 +139,7 @@
 
 *   [Agentlabs (⭐445)](https://github.com/agentlabs-inc/agentlabs): Universal AI Agent Frontend. Build your backend we handle the rest. ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social)
 *   [axflow (⭐1.1k)](https://github.com/axflow/axflow): The TypeScript framework for AI development ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social)
-*   [bondai (⭐197)](https://github.com/krohling/bondai): AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social)
+*   [bondai (⭐198)](https://github.com/krohling/bondai): AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social)
 *   [Chidori (⭐1.3k)](https://github.com/ThousandBirdsInc/chidori): A reactive runtime for building durable AI agents ![GitHub Repo stars](https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=social)
 *   [Langroid (⭐3k)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
 *   [Langstream (⭐414)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)
@@ -201,7 +201,7 @@
 
 ### Learn / Notebooks
 
-*   [Large Language Models Course (⭐1.4k)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
+*   [Large Language Models Course (⭐1.5k)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
@@ -244,7 +244,7 @@
 
 ### Tools / Services
 
-*   [Llama2 Embedding Server (⭐990)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
+*   [Llama2 Embedding Server (⭐991)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
 
 ### Open Source Projects / Knowledge Management
 
@@ -469,7 +469,7 @@
 *   [LangCorn (⭐914)](https://github.com/msoedov/langcorn): Serving LangChain apps automagically with FastApi ![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/langcorn?style=social)
 *   [Langchain Service (⭐31)](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/langchain-service?style=social)
 *   [Lanarky (⭐985)](https://github.com/ajndkr/lanarky): 🚢 Ship production-ready LLM projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social)
-*   [Dify (⭐60k)](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
+*   [Dify (⭐61k)](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
 
 ### Open Source Projects / Knowledge Management
 

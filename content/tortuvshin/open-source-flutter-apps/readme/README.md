@@ -75,7 +75,7 @@
 *   [TV Randshow (⭐226)](https://github.com/deandreamatias/tv-randshow) - App to choose a random TV show episode by [deandreamatias](https://deandreamatias.com)
 *   [AnimSearch (⭐84)](https://github.com/ArizArmeidi/AnimSearch) - Anime and Manga search app. created using Flutter and Jikan API. by [Ariz Armeidi](https://github.com/ArizArmeidi).
 *   [Doddle- (become an artist in a minute) (⭐209)](https://github.com/NaserElziadna/doddle) - 💚Amazing magical doodle drawing app/game provide a creative doodle world for you 🖌💛🌸💚 [Naser Elziadna](https://github.com/NaserElziadna)
-*   [Tachidesk-Sorayomi (⭐949)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
+*   [Tachidesk-Sorayomi (⭐950)](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Frontend for [Tachidesk-server](https://github.com/tortuvshin/open-source-flutter-apps/blob/master/README.md/github.com/Suwayomi/Tachidesk-server/), based on Tachiyomi to read manga in desktop by [DattatreyaReddy](https://github.com/DattatreyaReddy).
 *   [Aniflix (⭐29)](https://github.com/sumittiware/Aniflix-Flutter) - Netflix clone to browse Anime, created using Flutter and Jikan API & Aniapi API(older version of app). by [Sumit Tiware](https://github.com/sumittiware).
 *   [FlutterLeague (⭐23)](https://github.com/csuka1219/Flutter_League) - Companion app for League of Legends players that allows them to search for summoners, view their stats and match history, and check currently ongoing games. by [csuka1219](https://github.com/csuka1219).
 *   [Get Games (⭐13)](https://github.com/regenin/get_games) - Flutter app showing free and discounted games, find the cheapest store by [regenin](https://github.com/regenin).
@@ -110,7 +110,7 @@
 *   [Watermaniac (⭐177)](https://github.com/artrmz/watermaniac) — an app that will help you track the amount of water you drink by [Artur Rymarz](https://github.com/artrmz)
 *   [wger (⭐608)](https://github.com/wger-project/flutter) - Flutter fitness/workout app for wger by the [wger project](https://github.com/wger-project).
 *   [QuitSmoke (⭐83)](https://github.com/trizin/Quit-Smoke-App) - A Flutter app to help you quit smoking by [trizin](https://github.com/trizin).
-*   [WorkoutTracker (⭐93)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
+*   [WorkoutTracker (⭐94)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
 *   [Meditation App (⭐28)](https://github.com/Re4ch-Jay/Meditation_App) - An app that makes you calm, relief, relax, and focus 🧘 by [Phat Panhareach](https://github.com/Re4ch-Jay/).
 *   [Calm Attack (⭐7)](https://github.com/FatoomRe/Calm-Attack) - An app that help to manage panic attacks. Provides a range of exercises and techniques to help users calm their mind and body during anxiety moments. by [FatoomRe](https://github.com/FatoomRe).
 
@@ -126,7 +126,7 @@
 *   [Crush (⭐588)](https://github.com/boeledi/flutter_crush) - How to build a Math-3 game, like Candy Crush, Bejeweled by [Didier Boelens](https://didierboelens.com).
 *   [Slide Puzzle (⭐179)](https://github.com/kevmoo/slide_puzzle) - Classic slide (15) puzzle by [Kevin Moore](https://github.com/kevmoo).
 *   [Solitaire (⭐245)](https://github.com/deven98/FlutterSolitaire) -A Solitaire clone made by [Deven Joshi](https://github.com/deven98/).
-*   [Math Matrix (⭐395)](https://github.com/jaysavsani07/math-metrix) -Brain training games composition [Mehul Makwana](https://github.com/mehulmk).
+*   [Math Matrix (⭐396)](https://github.com/jaysavsani07/math-metrix) -Brain training games composition [Mehul Makwana](https://github.com/mehulmk).
 *   [Impossiblocks (⭐112)](https://github.com/javipacheco/impossiblocks) -Brain training game made by [Javi Pacheco](https://github.com/javipacheco).
 *   [Truth or Dare (⭐49)](https://github.com/ITCraftship/truth-or-dare) - a Truth or Dare party game build with [Codemagic](https://codemagic.io/) and [Fastlane](https://fastlane.tools/) by [ITCraftship](https://github.com/ITCraftship).
 *   [FlutterDex (⭐64)](https://github.com/ArizArmeidi/FlutterDex) - a Simple Pokedex app built with API from [PokeAPI](https://pokeapi.co/) by [Ariz Armeidi](https://github.com/ArizArmeidi).
@@ -164,7 +164,7 @@
 
 *   [Furniture (⭐324)](https://github.com/rajayogan/flutterui-furnitureapp) - Code for Furniture app dashboard created by [Raja Yogan](https://github.com/rajayogan/).
 *   [Dashboard (⭐928)](https://github.com/Ivaskuu/dashboard) - Dashboard concept made by [Ivascu Adrian](https://github.com/Ivaskuu/).
-*   [Spooky (⭐266)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
+*   [Spooky (⭐268)](https://github.com/juniorise/spooky-mb) - First diary with Material 3 design by [Juniorise](https://github.com/juniorise).
 *   [Tailor made (⭐328)](https://github.com/jogboms/tailor_made) - Managing a Fashion designer's daily routine by [Jeremiah Ogbomo](https://github.com/jogboms).
 *   [Wallbay (⭐113)](https://github.com/tsvillain/Wallbay) - Wallpaper App developed in Flutter using Pexels API by [Tekeshwar Singh](https://github.com/tsvillain).
 *   [BUWA (Black Unicorn Wallpapers)](https://github.com/iamtheblackunicorn/Buwa), the best wallpaper app for Android that features aesthetically-pleasing and sexy wallpapers and gets new wallpapers every other week by [The Black Unicorn](https://github.com/iamtheblackunicorn).
@@ -208,7 +208,7 @@
 ### Shopping
 
 *   [Yumniastic Food Shop App (⭐35)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
-*   [E-Commerce App (⭐773)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
+*   [E-Commerce App (⭐774)](https://github.com/Tarikul711/flutter-ecommerce) - Ecommerce app UI and API integration by [Md Tarikul Islam](https://github.com/Tarikul711/).
 *   [Grocery-App (⭐1.1k)](https://github.com/Widle-Studio/Grocery-App) - Flutter Grocery Shopping App by [Widle](https://github.com/Widle-Studio)
 *   [Flutter Games (⭐291)](https://github.com/searchy2/FlutterGames) - Flutter app for purchasing and renting games by [Ray Li](https://github.com/searchy2)
 *   [Plantly (⭐168)](https://github.com/Ivaskuu/plantly) - App concept where you can purchase and get info of plants by [Ivascu Adrian](https://github.com/Ivaskuu/).

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03 - Feb 09, 2025
 
-34 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,6 +17,7 @@
 *   [Tutorials about Polars](https://sparkbyexamples.com/category/polars/) - A list of blog posts on Polars topics by [@sparkbyexamples](https://github.com/sparkbyexamples).
 *   [How to Deal With Missing Data in Polars](https://realpython.com/polars-missing-data/) - A post that covers practical techniques for managing missing data with Polars by [Ian Eyre](https://realpython.com/team/ieyre/).
 *   [Polars intro](https://rparkr.github.io/polars-intro/) A short demo that introduces the Polars dataframe library through a marimo notebook by [@rparkr](https://github.com/rparkr).
+*   [Build a Decision Tree in Polars from Scratch](https://towardsdatascience.com/build-a-decision-tree-in-polars-from-scratch-d48892926ecf) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here (⭐1)](https://github.com/tocab/efficient-trees).
 
 ## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
@@ -87,7 +88,7 @@
 
 ### LispWorks / Third-party APIs
 
-*   [lw-plugins (⭐17)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
+*   [lw-plugins (⭐21)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
     *   terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
 
 ## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
@@ -171,7 +172,7 @@
 
 ### Artificial Intelligence
 
-*   [LlmTornado (⭐46)](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
+*   [LlmTornado (⭐47)](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
 
 ### Desktop
 
@@ -179,7 +180,7 @@
 
 ### Logging
 
-*   [AutoLoggerMessage (⭐45)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐47)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ### Tools
 
@@ -207,7 +208,7 @@
 
 ### Tools & Software / Search & Discovery
 
-*   [hyphe (⭐334)](https://github.com/medialab/hyphe) - A webcrawler built for research uses with a graphical user interface in order to build web corpuses made of lists of web actors and maps of links between them. *(Stable)*
+*   [hyphe (⭐335)](https://github.com/medialab/hyphe) - A webcrawler built for research uses with a graphical user interface in order to build web corpuses made of lists of web actors and maps of links between them. *(Stable)*
 *   [PANDORÆ (⭐7)](https://github.com/Guillaume-Levrier/PANDORAE) - A desktop research software to be plugged on a Solr endpoint to query, retrieve, normalize and visually explore web archives. *(Stable)*
 
 ### Tools & Software / Utilities
@@ -228,7 +229,7 @@
 
 ### Software / Automation
 
-*   [ChannelTube (⭐156)](https://github.com/TheWicklowWolf/ChannelTube) `⚠` - Download video or audio from YouTube channels on a schedule via yt-dlp. `AGPL-3.0` `Docker`
+*   [ChannelTube (⭐157)](https://github.com/TheWicklowWolf/ChannelTube) `⚠` - Download video or audio from YouTube channels on a schedule via yt-dlp. `AGPL-3.0` `Docker`
 
 ### Software / Feed Readers
 
@@ -236,7 +237,7 @@
 
 ### Software / Task Management & To-do Lists
 
-*   [4ga Boards](https://4gaboards.com) - Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity. ([Demo](https://demo.4gaboards.com), [Source Code (⭐66)](https://github.com/RARgames/4gaBoards)) `MIT` `Nodejs/Docker/K8S`
+*   [4ga Boards](https://4gaboards.com) - Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity. ([Demo](https://demo.4gaboards.com), [Source Code (⭐67)](https://github.com/RARgames/4gaBoards)) `MIT` `Nodejs/Docker/K8S`
 *   [Tegon](https://tegon.ai) `⚠` - Dev-first issue tracking tool (alternative to Jira, Linear). ([Source Code (⭐1.7k)](https://github.com/tegonhq/tegon)) `AGPL-3.0` `Docker`
 
 ### Software / Time Tracking
@@ -345,6 +346,7 @@
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
+*   [esbuild Bundle Size Analyzer](https://esbuild.github.io/analyze/) - Visualize the contents of your esbuild bundle.
 *   [ngx-dev-toolbar (⭐6)](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
 *   [ngx-rename (⭐2)](https://github.com/Khumozin/ngx-rename) - This repository contains PowerShell and Bash scripts to rename an Angular project folder and update relevant files, such as angular.json, package.json, tsconfig.json, and other configuration files.
 
@@ -401,7 +403,7 @@
 
 ### Schema / Diagrams
 
-*   [Liam ERD (⭐331)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
+*   [Liam ERD (⭐334)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
 
 ## [32. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -416,11 +418,17 @@
 
 *   [Bucket](https://bucket.co) - Purpose-built feature flagging for B2B SaaS products.
 
-## [34. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [34. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+
+### DevTools / Other external resources
+
+*   [Liam ERD](https://liambx.com/) - Generate Beautiful ER-Diagrams from your schema.rb. Using ruby/prism WASM with Node.js.
+
+## [35. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Terminal / Terminal UI
 
-*   [lazyjournal (⭐285)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.5k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
+*   [lazyjournal (⭐287)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.5k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
 
 ---
 

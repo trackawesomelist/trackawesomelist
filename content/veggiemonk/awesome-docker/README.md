@@ -10,7 +10,7 @@
 
 ### Terminal / Terminal UI
 
-*   [lazyjournal (⭐285)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.5k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
+*   [lazyjournal (⭐287)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.5k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Builder / Other
 
-*   [docker-repack (⭐132)](https://github.com/orf/docker-repack) - Repacks a Docker image into a smaller, more efficient version that makes it significantly faster to pull. By [orf](https://github.com/orf)
+*   [docker-repack (⭐131)](https://github.com/orf/docker-repack) - Repacks a Docker image into a smaller, more efficient version that makes it significantly faster to pull. By [orf](https://github.com/orf)
 
 ### Registry / Other
 
@@ -711,7 +711,7 @@
 *   [chaperone-docker (⭐64)](https://github.com/garywiz/chaperone-docker) - A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.
 *   [Dockerfile Generator (⭐174)](https://github.com/ozankasikci/dockerfile-generator) `dfg` is both a Go library and an executable that produces valid Dockerfiles using various input channels.
 *   [Dockerfile Project](https://dockerfile.github.io/) - Trusted Automated Docker Builds. Dockerfile Project maintains a central repository of Dockerfile for various popular open source software services runnable on a Docker container.
-*   [dockerfilegraph (⭐166)](https://github.com/patrickhoefler/dockerfilegraph) - Visualize your multi-stage Dockerfiles. By [@PatrickHoefler](https://github.com/patrickhoefler)
+*   [dockerfilegraph (⭐167)](https://github.com/patrickhoefler/dockerfilegraph) - Visualize your multi-stage Dockerfiles. By [@PatrickHoefler](https://github.com/patrickhoefler)
 *   [Dockershelf (⭐87)](https://github.com/Dockershelf/dockershelf) - A repository that serves as a collector for docker recipes that are universal, efficient and slim. Images are updated, tested and published daily via a Travis cron job. Maintained by [@CollageLabs](https://github.com/CollageLabs).
 *   [dockmoor (⭐19)](https://github.com/MeneDev/dockmoor) :construction: - Manage docker image references and help to create reproducible builds with Docker. By [@MeneDev](https://github.com/MeneDev)
 *   [Vektorcloud](https://github.com/vektorcloud) - A collection of minimal, Alpine-based Docker images
@@ -790,7 +790,7 @@
 *   [Drone (⭐32k)](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
 *   [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) - GitLab has integrated CI to test, build and deploy your code with the use of GitLab runners.
 *   [GOCD-Docker (⭐94)](https://github.com/gocd/gocd-docker) :skull: - Go Server and Agent in docker containers to provision.
-*   [Kraken CI (⭐143)](https://github.com/Kraken-CI/kraken) - Modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing. One of its executors is Docker. Developed by [@Kraken-CI](https://github.com/Kraken-CI).
+*   [Kraken CI (⭐144)](https://github.com/Kraken-CI/kraken) - Modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing. One of its executors is Docker. Developed by [@Kraken-CI](https://github.com/Kraken-CI).
 *   [Microservices Continuous Deployment (⭐142)](https://github.com/francescou/docker-continuous-deployment) - Continuous deployment of a microservices application.
 *   [mu (⭐972)](https://github.com/stelligent/mu) - Tool to configure CI/CD of your container applications via AWS CodePipeline, CodeBuild and ECS [@Stelligent](https://github.com/stelligent)
 *   [Ouroboros (⭐1.6k)](https://github.com/pyouroboros/ouroboros) :skull: - Automatically update running Docker containers with notifications

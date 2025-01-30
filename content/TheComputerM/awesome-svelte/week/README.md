@@ -36,7 +36,7 @@
 
 ### Scaffold
 
-*   [svelte-docs-starter (⭐21)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
+*   [svelte-docs-starter (⭐22)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
@@ -157,18 +157,18 @@
 
 ### UI Libraries
 
-*   [Svelte UX (⭐874)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
+*   [Svelte UX (⭐875)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
 *   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 
 ### Charts
 
-*   [LayerChart (⭐728)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+*   [LayerChart (⭐729)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
 ### State Libraries
 
-*   [exome (⭐245)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐246)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ### UI Libraries
 
@@ -229,7 +229,7 @@
 
 ### Notification
 
-*   [svelte-sonner (⭐775)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
+*   [svelte-sonner (⭐776)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
 
 ### Internationalization / Form Components
 
@@ -351,7 +351,7 @@
 
 ### UI Libraries
 
-*   [AgnosticUI (⭐730)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
+*   [AgnosticUI (⭐731)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
@@ -436,7 +436,7 @@
 
 *   [svelte-router-spa (⭐530)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 *   [svelte-routing (⭐2k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
-*   [tinro (⭐679)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
+*   [tinro (⭐680)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
 *   [svelte-spa-router (⭐1.6k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
 *   [svelte-client-router (⭐17)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
 

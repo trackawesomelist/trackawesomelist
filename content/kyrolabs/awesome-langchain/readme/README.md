@@ -93,7 +93,7 @@ List of non-official ports of LangChain to other languages.
 *   [LangCorn (⭐914)](https://github.com/msoedov/langcorn): Serving LangChain apps automagically with FastApi ![GitHub Repo stars](https://img.shields.io/github/stars/msoedov/langcorn?style=social)
 *   [Langchain Service (⭐31)](https://github.com/kyrolabs/langchain-service): Opinionated Langchain setup with Qdrant vector store and Kong gateway ![GitHub Repo stars](https://img.shields.io/github/stars/kyrolabs/langchain-service?style=social)
 *   [Lanarky (⭐985)](https://github.com/ajndkr/lanarky): 🚢 Ship production-ready LLM projects with FastAPI ![GitHub Repo stars](https://img.shields.io/github/stars/ajndkr/lanarky?style=social)
-*   [Dify (⭐60k)](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
+*   [Dify (⭐61k)](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langgenius/dify?style=social)
 *   [LangchainJS Worker (⭐64)](https://github.com/rickyrobinett/langchainjs-workers): LangchainJS worker on cloudflare ![GitHub Repo stars](https://img.shields.io/github/stars/rickyrobinett/langchainjs-workers?style=social)
 *   [Chainlit (⭐8.4k)](https://github.com/Chainlit/chainlit): Build Python LLM apps in minutes ⚡️ ![GitHub Repo stars](https://img.shields.io/github/stars/Chainlit/chainlit?style=social)
 *   [Psychic (⭐2.3k)](https://github.com/psychic-api/psychic): Universal APIs for unstructured data. Sync documents from SaaS tools to a SQL or vector database, where they can be easily queried by AI applications like ChatGPT. ![GitHub Repo stars](https://img.shields.io/github/stars/psychic-api/psychic?style=social)
@@ -101,7 +101,7 @@ List of non-official ports of LangChain to other languages.
 *   [Langchain Decorators (⭐231)](https://github.com/ju-bezdek/langchain-decorators): a layer on the top of LangChain that provides syntactic sugar 🍭 for writing custom langchain prompts and chains ![GitHub Repo stars](https://img.shields.io/github/stars/ju-bezdek/langchain-decorators?style=social)
 *   [FastAPI + Chroma (⭐48)](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma): An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
 *   [AilingBot (⭐59)](https://github.com/ericzhang-cn/ailingbot): Quickly integrate applications built on Langchain into IM such as Slack, WeChat Work, Feishu, DingTalk.
-*   [Llama2 Embedding Server (⭐990)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
+*   [Llama2 Embedding Server (⭐991)](https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service): Llama2 Embeddings FastAPI Service using LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/Dicklesworthstone/llama_embeddings_fastapi_service?style=social)
 *   [ChatAbstractions (⭐79)](https://github.com/andrewnguonly/ChatAbstractions): LangChain chat model abstractions for dynamic failover, load balancing, chaos engineering, and more! ![GitHub Repo stars](https://img.shields.io/github/stars/andrewnguonly/ChatAbstractions?style=social)
 *   [MindSQL (⭐267)](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.![GitHub Repo stars](https://img.shields.io/github/stars/mindinventory/mindsql?style=social)
 *   [Pluto (⭐90)](https://github.com/pluto-lang/pluto): Simplify deploying LangChain applications on AWS by allowing you to define and utilize necessary cloud resources directly in your application code, automatically creating the required infrastructure. ![GitHub Repo stars](https://img.shields.io/github/stars/pluto-lang/pluto?style=social)
@@ -244,7 +244,7 @@ List of non-official ports of LangChain to other languages.
 *   [TextWorld ReAct Agent](https://colab.research.google.com/drive/19WTIWC3prw5LDMHmRMvqNV2loD9FHls6?usp=sharing)
 *   [LangChain <> Wolfram Alpha](https://colab.research.google.com/drive/1AAyEdTz-Z6ShKvewbt1ZHUICqak0MiwR?usp=sharing)
 *   [BYO Knowledge Graph (⭐202)](https://github.com/prof-frink-lab/slangchain/blob/main/docs/modules/knowledge_graph/examples/byo_knowledge_graph.ipynb)
-*   [Large Language Models Course (⭐1.4k)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
+*   [Large Language Models Course (⭐1.5k)](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) ![GitHub Repo stars](https://img.shields.io/github/stars/peremartra/Large-Language-Model-Notebooks-Course?style=social)
 
 ### Videos Playlists
 
@@ -308,7 +308,7 @@ List of non-official ports of LangChain to other languages.
 *   [MemGPT (⭐14k)](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context ![GitHub Repo stars](https://img.shields.io/github/stars/cpacker/MemGPT?style=social)
 *   [Agentlabs (⭐445)](https://github.com/agentlabs-inc/agentlabs): Universal AI Agent Frontend. Build your backend we handle the rest. ![GitHub Repo stars](https://img.shields.io/github/stars/agentlabs-inc/agentlabs?style=social)
 *   [axflow (⭐1.1k)](https://github.com/axflow/axflow): The TypeScript framework for AI development ![GitHub Repo stars](https://img.shields.io/github/stars/axflow/axflow?style=social)
-*   [bondai (⭐197)](https://github.com/krohling/bondai): AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social)
+*   [bondai (⭐198)](https://github.com/krohling/bondai): AI-powered assistant with a lightweight, versatile API for seamless integration into your own applications ![GitHub Repo stars](https://img.shields.io/github/stars/krohling/bondai?style=social)
 *   [Chidori (⭐1.3k)](https://github.com/ThousandBirdsInc/chidori): A reactive runtime for building durable AI agents ![GitHub Repo stars](https://img.shields.io/github/stars/ThousandBirdsInc/chidori?style=social)
 *   [Langroid (⭐3k)](https://github.com/langroid/langroid): an intuitive, lightweight, extensible and principled Python framework to easily build LLM-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/langroid/langroid?style=social)
 *   [Langstream (⭐414)](https://github.com/rogeriochaves/langstream): Build robust LLM applications with true composability 🔗 ![GitHub Repo stars](https://img.shields.io/github/stars/rogeriochaves/langstream?style=social)

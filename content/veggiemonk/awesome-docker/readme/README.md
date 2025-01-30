@@ -400,7 +400,7 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 *   [dry (⭐3.1k)](https://github.com/moncho/dry) - An interactive CLI for Docker containers by [@moncho](https://github.com/moncho)
 *   [goManageDocker (⭐566)](https://github.com/ajayd-san/gomanagedocker) - TUI tool to view and manage your docker objects blazingly fast with sensible keybindings, also supports VIM navigation out of the box by [@ajay-dsan](https://github.com/ajayd-san)
 *   [lazydocker (⭐41k)](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker. A simple terminal UI for both docker and docker-compose, written in Go with the gocui library. By [@jesseduffield](https://github.com/jesseduffield)
-*   [lazyjournal (⭐285)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.5k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
+*   [lazyjournal (⭐287)](https://github.com/Lifailon/lazyjournal) - A interface for reading and filtering the logs output of Docker and Podman containers like [Dozzle (⭐7.5k)](https://github.com/amir20/dozzle) but for the terminal with support for fuzzy find, regex and output coloring
 *   [oxker (⭐778)](https://github.com/mrjackwills/oxker) - A simple tui to view & control docker containers. Written in [Rust](https://www.rust-lang.org/), making heavy use of [ratatui (⭐12k)](https://github.com/tui-rs-revival/ratatui) & [Bollard (⭐957)](https://github.com/fussybeaver/bollard), by [@mrjackwills](https://github.com/mrjackwills)
 *   [sen (⭐1k)](https://github.com/TomasTomecek/sen) - :skull: Terminal user interface for docker engine, by [@TomasTomecek][tomastomecek]
 
@@ -504,7 +504,7 @@ Applications designed to help or simplify building **new** images
 *   [docker-companion (⭐44)](https://github.com/mudler/docker-companion) - A command line tool written in Golang to squash and unpack docker images by [@mudler](https://github.com/mudler/)
 *   [docker-make (⭐98)](https://github.com/CtripCloud/docker-make) - Build, tag,and push a bunch of related docker images via a single command.
 *   [docker-replay (⭐203)](https://github.com/bcicen/docker-replay) - Generate `docker run`command and options from running containers. By [bcicen](https://github.com/bcicen)
-*   [docker-repack (⭐132)](https://github.com/orf/docker-repack) - Repacks a Docker image into a smaller, more efficient version that makes it significantly faster to pull. By [orf](https://github.com/orf)
+*   [docker-repack (⭐131)](https://github.com/orf/docker-repack) - Repacks a Docker image into a smaller, more efficient version that makes it significantly faster to pull. By [orf](https://github.com/orf)
 *   [DockerMake (⭐137)](https://github.com/avirshup/DockerMake) - A reproducible Docker image build system for complex software stacks. By [@avirshup](https://github.com/avirshup)
 *   [DockerSlim (⭐21k)](https://github.com/docker-slim/docker-slim) shrinks fat Docker images creating the smallest possible images.
 *   [Dockly (⭐226)](https://github.com/swipely/dockly) - Dockly is a gem made to ease the pain of packaging an application in Docker by [@swipely](https://github.com/swipely/)
@@ -530,7 +530,7 @@ Applications designed to help or simplify building **new** images
 *   [chaperone-docker (⭐64)](https://github.com/garywiz/chaperone-docker) - A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.
 *   [Dockerfile Generator (⭐174)](https://github.com/ozankasikci/dockerfile-generator) `dfg` is both a Go library and an executable that produces valid Dockerfiles using various input channels.
 *   [Dockerfile Project](https://dockerfile.github.io/) - Trusted Automated Docker Builds. Dockerfile Project maintains a central repository of Dockerfile for various popular open source software services runnable on a Docker container.
-*   [dockerfilegraph (⭐166)](https://github.com/patrickhoefler/dockerfilegraph) - Visualize your multi-stage Dockerfiles. By [@PatrickHoefler](https://github.com/patrickhoefler)
+*   [dockerfilegraph (⭐167)](https://github.com/patrickhoefler/dockerfilegraph) - Visualize your multi-stage Dockerfiles. By [@PatrickHoefler](https://github.com/patrickhoefler)
 *   [Dockershelf (⭐87)](https://github.com/Dockershelf/dockershelf) - A repository that serves as a collector for docker recipes that are universal, efficient and slim. Images are updated, tested and published daily via a Travis cron job. Maintained by [@CollageLabs](https://github.com/CollageLabs).
 *   [dockmoor (⭐19)](https://github.com/MeneDev/dockmoor) :construction: - Manage docker image references and help to create reproducible builds with Docker. By [@MeneDev](https://github.com/MeneDev)
 *   [Vektorcloud](https://github.com/vektorcloud) - A collection of minimal, Alpine-based Docker images
@@ -629,7 +629,7 @@ Services to securely store your Docker images.
 *   [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) - GitLab has integrated CI to test, build and deploy your code with the use of GitLab runners.
 *   [GOCD-Docker (⭐94)](https://github.com/gocd/gocd-docker) :skull: - Go Server and Agent in docker containers to provision.
 *   [Jaypore CI (⭐39)](https://github.com/theSage21/jaypore_ci) - Simple, very flexible, powerful CI / CD / automation system configured in Python. Offline and local first.
-*   [Kraken CI (⭐143)](https://github.com/Kraken-CI/kraken) - Modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing. One of its executors is Docker. Developed by [@Kraken-CI](https://github.com/Kraken-CI).
+*   [Kraken CI (⭐144)](https://github.com/Kraken-CI/kraken) - Modern CI/CD, open-source, on-premise system that is highly scalable and focused on testing. One of its executors is Docker. Developed by [@Kraken-CI](https://github.com/Kraken-CI).
 *   [Microservices Continuous Deployment (⭐142)](https://github.com/francescou/docker-continuous-deployment) - Continuous deployment of a microservices application.
 *   [mu (⭐972)](https://github.com/stelligent/mu) - Tool to configure CI/CD of your container applications via AWS CodePipeline, CodeBuild and ECS [@Stelligent](https://github.com/stelligent)
 *   [Ouroboros (⭐1.6k)](https://github.com/pyouroboros/ouroboros) :skull: - Automatically update running Docker containers with notifications

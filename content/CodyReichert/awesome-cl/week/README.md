@@ -10,7 +10,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### LispWorks / Third-party APIs
 
-*   [lw-plugins (⭐17)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
+*   [lw-plugins (⭐21)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
     *   terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)

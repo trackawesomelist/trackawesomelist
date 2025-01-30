@@ -138,7 +138,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## State Libraries
 
 *   [svelte-asyncable (⭐169)](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
-*   [exome (⭐245)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐246)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 *   [tanstack-store](https://tanstack.com/store/latest/docs/framework/svelte/quick-start) - Framework agnostic type-safe store w/ reactive framework adapters.
 *
 
@@ -156,14 +156,14 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [attractions (⭐1k)](https://github.com/illright/attractions) - A pretty cool and modern UI kit. *(pre-v5)*
 *   [ionic-svelte (⭐800)](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 *   [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
-*   [Svelte UX (⭐874)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
+*   [Svelte UX (⭐875)](https://github.com/techniq/svelte-ux) - Large collection of components, actions, stores, and utilities to build highly interactive applications
 *   [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
 *   [M3 Svelte (⭐279)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 *   [AgnosUI](https://amadeusitgroup.github.io/AgnosUI/latest/) - Highly configurable headless framework agnostic component library
 *   [daisyUI](https://daisyui.com/) - The most popular component library for Tailwind CSS - `daisyUI` adds component class names to Tailwind CSS so you can make beautiful websites faster than ever.
 *   [Smelte (⭐1.5k)](https://github.com/matyunya/smelte) - UI framework with material components built with Tailwind CSS. *(pre-v5)*
 *   [SVAR Core for Svelte (⭐79)](https://github.com/svar-widgets/core) - A collection of 20+ Svelte UI components for building fast-performing, interactive and responsive web apps.
-*   [AgnosticUI (⭐730)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
+*   [AgnosticUI (⭐731)](https://github.com/agnosticui/agnosticui) - Accessible Svelte Component Primitives (that also work with React, Vue 3, and Angular).
 
 ## UI Components
 
@@ -186,7 +186,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [svelte-favicon-badge (⭐101)](https://github.com/kevmodrome/svelte-favicon-badge) - A custom component that adds a favicon and a badge that you can use to show for example number of unread messages, etc.
 *   [@zerodevx/svelte-toast (⭐848)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 *   [svelte-french-toast (⭐906)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
-*   [svelte-sonner (⭐775)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
+*   [svelte-sonner (⭐776)](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
 
 ### Grid
 
@@ -228,7 +228,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *   [svelte-frappe-charts (⭐309)](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 *   [Layer Cake (⭐1.5k)](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
-*   [LayerChart (⭐728)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+*   [LayerChart (⭐729)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ### Graphs
 
@@ -254,7 +254,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [saasstarter (⭐1.6k)](https://github.com/CriticalMoments/CMSaasStarter) - A open source, fast, and free to host Svelte SaaS template.
 *   [svelte-pwa-template (⭐221)](https://github.com/tretapey/svelte-pwa) - A starter template for PWAs based in the official Template. *(pre-v5)*
 *   [vite-svelte-docker-template (⭐1)](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
-*   [svelte-docs-starter (⭐21)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
+*   [svelte-docs-starter (⭐22)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 *   [template-svelte (⭐53)](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
 
 ## Utilities
@@ -328,7 +328,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *   [svelte-router-spa (⭐530)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 *   [svelte-routing (⭐2k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
-*   [tinro (⭐679)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
+*   [tinro (⭐680)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
 *   [svelte-spa-router (⭐1.6k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
 *   [svelte-client-router (⭐17)](https://github.com/arthurgermano/svelte-client-router) - Svelte Client Router is everything you need and think when routing SPA's.
 *   [@danielsharkov/svelte-router (⭐13)](https://github.com/DanielSharkov/svelte-router) - A simple & easy to use SPA router, developed with page transitions in mind.

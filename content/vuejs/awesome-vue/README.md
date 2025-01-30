@@ -158,7 +158,7 @@
 *   [navpress (⭐1)](https://github.com/aaronlamz/navpress) - NavPress is a CLI tool for generating static navigation websites. It allows you to quickly build a navigation site through a configuration file.
 *   [vue-speedometer (⭐62)](https://github.com/palerdot/vue-speedometer) - Vue component for showing speedometer like gauge using d3.
 *   [Vue-Player (⭐3)](https://github.com/display-design-studio/vue-player) - Lightweight, customizable, and easy-to-implement vue video player.
-*   [vue3-select-component (⭐66)](https://github.com/TotomInc/vue3-select-component) - Vue 3 Select Component, single & multi-select, best-in-class DX support with TypeScript end-to-end typesafe, easy styling, slots and more \~4.4KB
+*   [vue3-select-component (⭐67)](https://github.com/TotomInc/vue3-select-component) - Vue 3 Select Component, single & multi-select, best-in-class DX support with TypeScript end-to-end typesafe, easy styling, slots and more \~4.4KB
 
 ### Components & Libraries / Scaffold
 
@@ -289,7 +289,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-fluid-dnd (⭐268)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
+*   [vue-fluid-dnd (⭐269)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
 
 ## [Apr 26, 2024](/content/2024/04/26/README.md)
 
@@ -381,7 +381,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [exome (⭐245)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐246)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ## [Oct 14, 2023](/content/2023/10/14/README.md)
 
@@ -415,7 +415,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue-tg (⭐221)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+*   [vue-tg (⭐222)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
 ## [Jul 28, 2023](/content/2023/07/28/README.md)
 
@@ -510,7 +510,7 @@
 *   [vueginate (⭐5)](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
 *   [blottie (⭐11)](https://github.com/Applelo/blottie) Lottie component for Vue 3
 *   [TresJs (⭐2.4k)](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
-*   [Cientos (⭐307)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
+*   [Cientos (⭐308)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
 
 ## [May 17, 2023](/content/2023/05/17/README.md)
 
@@ -760,7 +760,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [argon-dashboard-vue3 (⭐160)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
+*   [argon-dashboard-vue3 (⭐161)](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
 
 ## [Jun 28, 2022](/content/2022/06/28/README.md)
 
@@ -1040,7 +1040,7 @@
 
 ### Projects Using Vue.js / Commercial Products
 
-*   [KodaDot (⭐652)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
+*   [KodaDot (⭐653)](https://github.com/kodadot/nft-gallery) - NFT Marketplace on Polkadot funded as public good, written in Vue.js
 
 ## [Dec 06, 2021](/content/2021/12/06/README.md)
 
@@ -1139,7 +1139,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐677)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐678)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 ## [Oct 10, 2021](/content/2021/10/10/README.md)
 
@@ -1232,7 +1232,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-network-graph (⭐537)](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
+*   [v-network-graph (⭐538)](https://github.com/dash14/v-network-graph) - An interactive SVG based network-graph visualization component for Vue 3.
 
 ## [Aug 07, 2021](/content/2021/08/07/README.md)
 
@@ -1491,7 +1491,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LogChimp (⭐759)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
+*   [LogChimp (⭐758)](https://github.com/logchimp/logchimp) - Open-source software to track your customer's feedback to build better products.
 
 ## [Feb 06, 2021](/content/2021/02/06/README.md)
 
@@ -1949,7 +1949,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-final-modal (⭐951)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
+*   [vue-final-modal (⭐952)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 
 ## [Jun 28, 2020](/content/2020/06/28/README.md)
 
@@ -2785,7 +2785,7 @@
 
 ### Resources / Examples
 
-*   [Laravel + Nuxt.js boilerplate (⭐681)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
+*   [Laravel + Nuxt.js boilerplate (⭐680)](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz)
 
 ## [Apr 16, 2019](/content/2019/04/16/README.md)
 

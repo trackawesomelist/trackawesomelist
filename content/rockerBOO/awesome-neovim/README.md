@@ -187,7 +187,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [supermaven-inc/supermaven-nvim (⭐858)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+*   [supermaven-inc/supermaven-nvim (⭐859)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 
 ## [Dec 07, 2024](/content/2024/12/07/README.md)
 

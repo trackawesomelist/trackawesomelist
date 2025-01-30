@@ -10,7 +10,7 @@ Everything that makes working with databases easier
 
 ### Schema / Diagrams
 
-*   [Liam ERD (⭐331)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
+*   [Liam ERD (⭐334)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
 
 ## [Jan 20 - Jan 26, 2025](/content/2025/3/README.md)
 

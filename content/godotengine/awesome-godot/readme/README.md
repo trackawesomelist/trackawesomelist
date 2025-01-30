@@ -150,13 +150,13 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 #### Godot 4
 
 *   [Godot XR Template (⭐151)](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
-*   [Maaack's Game Template (⭐609)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
+*   [Maaack's Game Template (⭐610)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 *   [Takin Godot Template (⭐110)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
 #### Godot 3
 
 *   [bendn's Godot Template (⭐43)](https://github.com/bend-n/godot-template) - Game template using the [gpm (⭐13)](https://github.com/you-win/godot-package-manager), with itch.io pushing and builds automated. Starter CLI included.
-*   [Crystal Bit Godot Game Template (⭐665)](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
+*   [Crystal Bit Godot Game Template (⭐666)](https://github.com/crystal-bit/godot-game-template) - Opinionated game template. It includes continuous integration, scene loading with graphic transitions and game pause handling.
 *   [First Person Starter (⭐703)](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
 *   [Godot First Person Camera (⭐60)](https://github.com/tavurth/godot-simple-fps-camera) - A simple FPS starter with jumping, movement, flashlight and a player character with animations.
 *   [Godot FPS Template (⭐66)](https://github.com/MilkAndBanana01/godot-fps-template) - A free first person game template for the Godot Engine.
@@ -215,7 +215,7 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 *   [Dialogue Manager (⭐2.4k)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime. *(Godot 3 and 4)*
 *   [Fast Fourier Transform (FFT) (⭐42)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript.
 *   [Friflo.Engine.ECS (⭐167)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Godot, Unity, MonoGame, ... *(Godot 3 and 4)*
-*   [GdUnit4 (⭐633)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
+*   [GdUnit4 (⭐632)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
 *   [Godot Google Play Game Services (⭐168)](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
 *   [Godot Spin Button (⭐77)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options.
 *   [Godot XR Tools (⭐552)](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
@@ -223,17 +223,17 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 *   [Importality (⭐367)](https://github.com/nklbdev/godot-4-importality) - raster graphics and animations importers: Aseprite, Krita, Pencil2D, Piskel, Pixelorama and others.
 *   [Input Helper (⭐835)](https://github.com/nathanhoad/godot_input_helper) - A helper for detecting input devices and remapping controls. *(Godot 3 and 4)*
 *   [LimboAI (⭐1.4k)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
-*   [Maaack's Game Template Plugin (⭐609)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
+*   [Maaack's Game Template Plugin (⭐610)](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 *   [Maaack's Menus Template (⭐167)](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 *   [Maaack's Scene Loader (⭐32)](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
-*   [NobodyWho (⭐173)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
+*   [NobodyWho (⭐177)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 *   [Orchestrator (⭐1k)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games.
 *   [PixelPen (⭐112)](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
 *   [Quest Manager (⭐40)](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
 *   [QuestSystem (⭐312)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
 *   [Scene Manager (⭐392)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. *(Godot 3 and 4)*
-*   [Shaker (⭐295)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
-*   [SignalVisualizer (⭐441)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock.
+*   [Shaker (⭐296)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
+*   [SignalVisualizer (⭐442)](https://github.com/Ericdowney/SignalVisualizer) - Displays the current scene's signals and connections in a easy to read graph and tree dock.
 *   [Simplified Flight Simulation library (⭐203)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator. *(Godot 3 and 4)*
 *   [SmartShape2D (⭐1.4k)](https://github.com/SirRamEsq/SmartShape2D) - A 2D terrain tool. *(Godot 3 and 4)*
 *   [System Bar Color Changer (⭐19)](https://github.com/syntaxerror247/godot-android-system-bar-color-changer) - An Android plugin that enables you to dynamically change the colors of the status bar and navigation bar, and also supports enabling translucent system bars for a modern, immersive UI experience.
@@ -254,7 +254,7 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 *   [BoxCam2D (⭐18)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement.
 *   [Cartographer (⭐390)](https://github.com/awkwardpolygons/cartographer) - Heightmap-based 3D terrain editor.
 *   [Code Snapshot (⭐56)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
-*   [CRT Shader (⭐306)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters.
+*   [CRT Shader (⭐307)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters.
 *   [CSG Mesh Exporter (.OBJ) (⭐56)](https://github.com/mohammedzero43/CSGExport-Godot) - Export CSG nodes to OBJ meshes to improve editing performance.
 *   [Debanding Material Shader (⭐33)](https://github.com/fractilegames/godot-gles2-debanding-material) - Simple material shader with added debanding noise, for use with the GLES2 renderer as it doesn't support full-screen debanding.
 *   [Delaunator GDScript (⭐83)](https://github.com/hiulit/Delaunator-GDScript) - A GDScript library for Delaunay triangulation of 2D points.
@@ -265,7 +265,7 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 *   [Escoria (⭐799)](https://github.com/godotengine/escoria) - Point & click adventure game framework. *(Godot 2 and 3)*
 *   [FMOD GDNative (⭐516)](https://github.com/utopia-rise/fmod-gdnative) - Plugin to use the FMOD audio engine in GDScript.
 *   [Funexpected Flash Tools (⭐21)](https://github.com/funexpected/flash-tools) - Adobe Animate (Flash) plugin that allows you to export a project for a Godot Engine.
-*   [GDGIFExporter (⭐126)](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
+*   [GDGIFExporter (⭐127)](https://github.com/jegor377/godot-gdgifexporter) - GIF exporter made entirely in GDScript.
 *   [gdstats (⭐36)](https://github.com/droxpopuli/gdstats) - A library of pseudorandom number generators for common statistical distributions.
 *   [GdUnit3 (⭐312)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework.
 *   [GitHub integration (⭐233)](https://github.com/fenix-hub/godot-engine.github-integration) - Interact with GitHub without opening your browser.
@@ -410,14 +410,14 @@ See [Vivraan/godot-lang-support (⭐336)](https://github.com/Vivraan/godot-lang-
 
 *Alternative themes for the entire Godot engine editor.*
 
-*   [Catppuccin Theme (⭐116)](https://github.com/catppuccin/godot) - A soothing pastel theme offered in four different flavors.
+*   [Catppuccin Theme (⭐117)](https://github.com/catppuccin/godot) - A soothing pastel theme offered in four different flavors.
 *   [Godot Minimal Theme (⭐2.1k)](https://github.com/passivestar/godot-minimal-theme) - A theme that aims to correct odd spacing and formatting in the default Godot theme without changing the overall look and feel.
 
 ### Syntax themes
 
 *Alternative themes for the built-in script editor.*
 
-*   [base16-godot (⭐35)](https://github.com/Calinou/base16-godot) - All [base16 (⭐728)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐35)](https://github.com/Calinou/base16-godot) - All [base16 (⭐729)](https://github.com/chriskempson/base16) themes.
 *   [Godot syntax themes (⭐417)](https://github.com/godotengine/godot-syntax-themes) - 13 syntax themes including Ayu Mirage, Darcula, Gruvbox Dark, Monokai, One Dark, Solarized, and more.
 *   [Syntax themes by Geequlim (⭐55)](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google Code Light and Monokai.
 

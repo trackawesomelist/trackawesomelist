@@ -209,7 +209,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [SIML](https://simlbot.com/) - Synthetic Intelligence Markup Language, a next generation Chatbot & Digital Assistant Language.
 *   [Mpt-Instruct-DotNet-S (⭐18)](https://github.com/NethermindEth/Mpt-Instruct-DotNet-S) - LLM that can generate and explain C# code (and its C# wrapper to run on consumer CPU with 5GB ram+, contains Console and Blazor sample projects)
 *   [LLamaSharp (⭐2.8k)](https://github.com/SciSharp/LLamaSharp) - C#/.NET Binding of llama.cpp, run LLaMA/GPT model using C# without having to compile lama.cpp.
-*   [LlmTornado (⭐46)](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
+*   [LlmTornado (⭐47)](https://github.com/lofcz/LlmTornado) - One .NET library to consume OpenAI, Anthropic, Cohere, Google, Azure, Groq, and self-hosed APIs.
 
 ## Assembly Manipulation
 
@@ -803,7 +803,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [elmah.io](https://elmah.io) - Cloud logging for .NET web applications using ELMAH. Find bugs before you go live. Powerful search, API, integration with Slack, GitHub, Visual Studio and more. **\[[Free for OSS](https://elmah.io/sponsorship/opensource)]** **\[$]**
 *   [BugSnag](https://docs.bugsnag.com/platforms/dotnet/) - Logs errors. Includes useful diagnostic info like stack trace, session, release, etc. Has a free tier. **\[Free for OSS]\[$]**
 *   [ZeroLog (⭐413)](https://github.com/Abc-Arbitrage/ZeroLog) - ZeroLog is a zero-allocation .NET logging library. It provides basic logging capabilities to be used in latency-sensitive applications, where garbage collections are undesirable.
-*   [AutoLoggerMessage (⭐45)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐47)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ## Machine Learning and Data Science
 
