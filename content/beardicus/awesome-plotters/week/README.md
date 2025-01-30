@@ -652,7 +652,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [Makelangelo-firmware (⭐158)](https://github.com/MarginallyClever/Makelangelo-firmware) - Firmware for the Makelangelo polargraph robot.
 *   [RoboPaint (⭐127)](https://github.com/evil-mad/robopaint) - Software for the WaterColorBot.
 *   [AxiTurtle (⭐15)](https://github.com/ralphcrutzen/AxiTurtle) - Turtle graphics for AxiDraw in Processing.
-*   [GRBL-Plotter (⭐727)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
+*   [GRBL-Plotter (⭐728)](https://github.com/svenhb/GRBL-Plotter) - Plotter-optimized Windows GUI for grbl controller with SVG and DXF import, and flexible pen up/down control.
 *   [saxi (⭐479)](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 
 ### Software / Vector Creation
@@ -663,7 +663,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [ln (⭐3.3k)](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go.
 *   [autotrace (⭐556)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
 *   [stipplegen (⭐437)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
-*   [SquiggleDraw (⭐320)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
+*   [SquiggleDraw (⭐321)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
 *   [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.
 *   [maptrace (⭐124)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
 *   [Drawbot\_image\_to\_gcode\_v2 (⭐167)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.

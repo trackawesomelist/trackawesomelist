@@ -477,7 +477,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 *   [Project TIER (⭐13)](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 *   [SecureDrop (⭐40)](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
 *   [Consumer Financial Protection Bureau (⭐293)](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
-*   [WesternFriend (⭐59)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
+*   [WesternFriend (⭐58)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
 *   [WagtailParadise (⭐4)](https://github.com/abrahamrome/WagtailParadise) - demo Wagtail site showing common features and recipes
 *   [Outreachy website (⭐254)](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
 *   [guide (⭐32)](https://github.com/wagtail/guide) - A website to teach Wagtail to content editors, moderators and administrators.

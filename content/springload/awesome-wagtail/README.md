@@ -6,7 +6,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 [ Daily / [Weekly](/content/springload/awesome-wagtail/week/README.md) / [Overview](/content/springload/awesome-wagtail/readme/README.md) ]
 
-## [Jan 29, 2025](/content/2025/01/29/README.md)
+## [Jan 30, 2025](/content/2025/01/30/README.md)
 
 ### Resources / Podcasts
 
@@ -333,7 +333,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Open-source sites / Lists
 
-*   [WesternFriend (⭐59)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
+*   [WesternFriend (⭐58)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
 
 ## [Dec 09, 2020](/content/2020/12/09/README.md)
 

@@ -322,7 +322,7 @@ A curated list of awesome packages, articles, and other cool resources from the 
 
 ### Open-source sites / Lists
 
-*   [WesternFriend (⭐59)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
+*   [WesternFriend (⭐58)](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
 
 ## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
 

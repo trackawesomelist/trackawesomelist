@@ -479,7 +479,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Desktop
 
-*   [Sucrose Wallpaper Engine (⭐604)](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
+*   [Sucrose Wallpaper Engine (⭐605)](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
 ## Distributed Computing
 
@@ -803,7 +803,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 *   [elmah.io](https://elmah.io) - Cloud logging for .NET web applications using ELMAH. Find bugs before you go live. Powerful search, API, integration with Slack, GitHub, Visual Studio and more. **\[[Free for OSS](https://elmah.io/sponsorship/opensource)]** **\[$]**
 *   [BugSnag](https://docs.bugsnag.com/platforms/dotnet/) - Logs errors. Includes useful diagnostic info like stack trace, session, release, etc. Has a free tier. **\[Free for OSS]\[$]**
 *   [ZeroLog (⭐413)](https://github.com/Abc-Arbitrage/ZeroLog) - ZeroLog is a zero-allocation .NET logging library. It provides basic logging capabilities to be used in latency-sensitive applications, where garbage collections are undesirable.
-*   [AutoLoggerMessage (⭐43)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐45)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ## Machine Learning and Data Science
 

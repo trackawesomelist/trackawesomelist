@@ -76,7 +76,7 @@
 
 ### Tauri / Electron
 
-*   [HuLa (⭐986)](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
+*   [HuLa (⭐988)](https://github.com/HuLaSpark/HuLa) - is a desktop instant messaging app built on `Vite 5` + `Vue 3` + `TypeScript` + `Tauri` (not just instant messaging).
 
 ### Framework-agnostic Plugins / Integrations
 
@@ -303,7 +303,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-pagefind (⭐19)](https://github.com/Hugos68/vite-plugin-pagefind) - Integrate `pagefind` search.
+*   [vite-plugin-pagefind (⭐21)](https://github.com/Hugos68/vite-plugin-pagefind) - Integrate `pagefind` search.
 
 ### Open Source / Community
 
@@ -329,7 +329,7 @@
 
 ### PHP / Community
 
-*   [PHP-Vite (⭐35)](https://github.com/mindplay-dk/php-vite) - Integration for PHP, Composer package, no framework dependencies.
+*   [PHP-Vite (⭐37)](https://github.com/mindplay-dk/php-vite) - Integration for PHP, Composer package, no framework dependencies.
 
 ### Apps/Websites / Community
 
@@ -579,13 +579,13 @@
 
 ### React / Community
 
-*   [Viject (⭐152)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
+*   [Viject (⭐153)](https://github.com/bhbs/viject) - One-shot migration tool from Create React App.
 
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
 ### Templates / React
 
-*   [vite-react-flow-template (⭐50)](https://github.com/xyflow/vite-react-flow-template) - React Flow starter template.
+*   [vite-react-flow-template (⭐51)](https://github.com/xyflow/vite-react-flow-template) - React Flow starter template.
 
 ### Templates / Svelte
 
@@ -621,7 +621,7 @@
 
 ### Tauri / Others
 
-*   [vite-vue3-chrome-extension-v3 (⭐556)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
+*   [vite-vue3-chrome-extension-v3 (⭐557)](https://github.com/mubaidr/vite-vue3-chrome-extension-v3) - Web extension starter template for Chrome, Firefox and Edge.
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
@@ -663,7 +663,7 @@
 
 ### Templates / React
 
-*   [vite-react-ts-shadcn-starter (⭐77)](https://github.com/Quilljou/vite-react-ts-tailwind-starter) - Template for creating `React 18` SPA apps with `TypeScript`, `React Router`, `Tailwind CSS`, `Shadcn UI`, `React Query`, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `React-i18next`, `Transmart`.
+*   [vite-react-ts-shadcn-starter (⭐78)](https://github.com/Quilljou/vite-react-ts-tailwind-starter) - Template for creating `React 18` SPA apps with `TypeScript`, `React Router`, `Tailwind CSS`, `Shadcn UI`, `React Query`, `ESLint`, `Prettier`, `Stylelint`, `Husky`, `React-i18next`, `Transmart`.
 *   [template-tauri-vite-react-ts-tailwind (⭐13)](https://github.com/RoyRao2333/template-tauri-vite-react-ts-tailwind) - Template for Tauri + React + Typescript + TailwindCSS + Prettier + ESLint build-in.
 
 ### Framework-agnostic Plugins / Integrations
@@ -678,7 +678,7 @@
 
 ### Get Started
 
-*   [bati (⭐349)](https://github.com/batijs/bati) - Scaffolding a Vike project.
+*   [bati (⭐350)](https://github.com/batijs/bati) - Scaffolding a Vike project.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -699,7 +699,7 @@
 ### Framework-agnostic Plugins / Bundling
 
 *   [unplugin-zip-pack (⭐5)](https://github.com/iamspark1e/unplugin-zip-pack) - Zip your dist with filter function support.
-*   [vite-plugin-singlefile (⭐918)](https://github.com/richardtallent/vite-plugin-singlefile) - Inline all JavaScript and CSS resources directly into the final `dist/index.html` file.
+*   [vite-plugin-singlefile (⭐919)](https://github.com/richardtallent/vite-plugin-singlefile) - Inline all JavaScript and CSS resources directly into the final `dist/index.html` file.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -859,7 +859,7 @@
 
 ### React / Official
 
-*   [@vitejs/plugin-react (⭐646)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
+*   [@vitejs/plugin-react (⭐647)](https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react) - Official React support that uses Babel.
 *   [@vitejs/plugin-react-swc (⭐908)](https://github.com/vitejs/vite-plugin-react-swc) - Official React support that uses SWC.
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
@@ -959,7 +959,7 @@
 
 ### Node.js / Community
 
-*   [vite-express (⭐706)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
+*   [vite-express (⭐707)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
@@ -983,7 +983,7 @@
 
 ### Open Source / Community
 
-*   [Compiiile (⭐205)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
+*   [Compiiile (⭐206)](https://github.com/AlbanCrepel/compiiile) - Preview or host folders containing Markdown files with full-text search and presentation slides.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -1231,7 +1231,7 @@
 
 ### Shopify / Community
 
-*   [vite-plugin-shopify (⭐309)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
+*   [vite-plugin-shopify (⭐310)](https://github.com/barrel/barrel-shopify/tree/main/packages/vite-plugin-shopify) - Integration for Shopify themes.
 
 ## [Jul 18 - Jul 24, 2022](/content/2022/29/README.md)
 
@@ -1637,7 +1637,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-comlink (⭐186)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐12k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
+*   [vite-plugin-comlink (⭐187)](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink (⭐12k)](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
@@ -1705,7 +1705,7 @@
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-restart (⭐176)](https://github.com/antfu/vite-plugin-restart) - Restart the Vite server on file changes.
-*   [vite-plugin-full-reload (⭐155)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
+*   [vite-plugin-full-reload (⭐156)](https://github.com/ElMassimo/vite-plugin-full-reload) - Reload the browser on file changes.
 *   [vite-plugin-tips (⭐62)](https://github.com/yingpengsha/vite-plugin-tips) - Provide better development server status tips on the page.
 
 ## [Jul 05 - Jul 11, 2021](/content/2021/27/README.md)
@@ -1929,7 +1929,7 @@
 
 ### React / Loaders
 
-*   [vite-plugin-svgr (⭐591)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+*   [vite-plugin-svgr (⭐592)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
 
 ### Solid / Integrations
 

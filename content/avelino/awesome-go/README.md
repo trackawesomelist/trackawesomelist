@@ -6,11 +6,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
-## [Jan 29, 2025](/content/2025/01/29/README.md)
+## [Jan 30, 2025](/content/2025/01/30/README.md)
 
 ### Networking
 
-*   [GoProxy (⭐6.1k)](https://github.com/elazarl/goproxy) - A library to create a customized HTTP/HTTPS proxy server using Go.
+*   [GoProxy (⭐6.2k)](https://github.com/elazarl/goproxy) - A library to create a customized HTTP/HTTPS proxy server using Go.
 
 ### Resource Embedding
 

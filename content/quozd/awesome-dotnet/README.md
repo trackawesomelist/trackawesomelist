@@ -6,7 +6,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ Daily / [Weekly](/content/quozd/awesome-dotnet/week/README.md) / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
-## [Jan 29, 2025](/content/2025/01/29/README.md)
+## [Jan 30, 2025](/content/2025/01/30/README.md)
 
 ### Artificial Intelligence
 
@@ -14,11 +14,11 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Desktop
 
-*   [Sucrose Wallpaper Engine (⭐604)](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
+*   [Sucrose Wallpaper Engine (⭐605)](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
 
 ### Logging
 
-*   [AutoLoggerMessage (⭐43)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
+*   [AutoLoggerMessage (⭐45)](https://github.com/stbychkov/AutoLoggerMessage) - A source generator that automatically migrates all logging calls to high-performant `LoggerMessage` version.
 
 ### Tools
 

@@ -164,7 +164,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐31k
 
 ### Container Composition
 
-*   [bocker (⭐141)](https://github.com/icy/bocker) (2) :skull: - Write Dockerfile completely in Bash. Extensible and simple. --> Reusable by [@icy](https://github.com/icy)
+*   [bocker (⭐142)](https://github.com/icy/bocker) (2) :skull: - Write Dockerfile completely in Bash. Extensible and simple. --> Reusable by [@icy](https://github.com/icy)
 *   [bocker (⭐12k)](https://github.com/p8952/bocker) (1) :skull: - Docker implemented in 100 lines of bash by [p8952](https://github.com/p8952)
 *   [box (⭐239)](https://github.com/box-builder/box) :skull: - Build Dockerfile images with a mruby DSL, includes flattening and layer manipulation
 *   [Capitan (⭐28)](https://github.com/byrnedo/capitan) - Composable docker orchestration with added scripting support by [@byrnedo].
@@ -182,7 +182,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐31k
 *   [percheron (⭐158)](https://github.com/ashmckenzie/percheron) :skull: - Organise your Docker containers with muscle and intelligence by [@ashmckenzie](https://github.com/ashmckenzie)
 *   [plash (⭐380)](https://github.com/ihucos/plash) - A container run and build engine - runs inside docker.
 *   [podman-compose (⭐5.2k)](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman by [@containers][containers]
-*   [rocker-compose (⭐406)](https://github.com/grammarly/rocker-compose) :skull: - Docker composition tool with idempotency features for deploying apps composed of multiple containers. By[@grammarly].
+*   [rocker-compose (⭐407)](https://github.com/grammarly/rocker-compose) :skull: - Docker composition tool with idempotency features for deploying apps composed of multiple containers. By[@grammarly].
 *   [rocker (⭐1.3k)](https://github.com/grammarly/rocker) :skull: - Extended Dockerfile builder. Supports multiple FROMs, MOUNTS, templates, etc. by [@grammarly].
 *   [Smalte (⭐34)](https://github.com/roquie/smalte) – Dynamically configure applications that require static configuration in docker container. By [@roquie](https://github.com/roquie)
 *   [Stacker (⭐68)](https://github.com/stacker/stacker-cli) :skull: - Docker Compose Templates. Stacker provides an abstraction layer over Docker Compose and a better DX (developer experience).
@@ -289,7 +289,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐31k
 
 ### Reverse Proxy
 
-*   [bunkerized-nginx (⭐7.4k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default. By [@bunkerity](https://github.com/bunkerity)
+*   [bunkerized-nginx (⭐7.5k)](https://github.com/bunkerity/bunkerized-nginx) - Web app hosting and reverse proxy secure by default. By [@bunkerity](https://github.com/bunkerity)
 *   [caddy-docker-proxy (⭐3.2k)](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy-based reverse proxy, configured with service or container labels. By [@lucaslorentz](https://github.com/lucaslorentz)
 *   [caddy-docker-upstreams (⭐27)](https://github.com/invzhi/caddy-docker-upstreams) - Docker upstreams module for Caddy, configured with container labels. By [@invzhi](https://github.com/invzhi)
 *   [Docker Dnsmasq Updater (⭐34)](https://github.com/moonbuggy/docker-dnsmasq-updater) - Update a remote dnsmasq server with Docker container hostnames.
@@ -312,7 +312,7 @@ All the links are monitored and tested with a home baked [Node.js script (⭐31k
 *   [lxc (⭐4.8k)](https://github.com/lxc/lxc) - LXC - Linux Containers
 *   [podman (⭐25k)](https://github.com/containers/libpod) - libpod is a library used to create container pods. Home of Podman by [@containers][containers]
 *   [rlxc (⭐15)](https://github.com/brauner/rlxc) - LXC binary written in Rust by [@brauner](https://github.com/brauner)
-*   [runtime-tools (⭐439)](https://github.com/opencontainers/runtime-tools) - oci-runtime-tool is a collection of tools for working with the OCI runtime specification by [@opencontainers](https://github.com/opencontainers)
+*   [runtime-tools (⭐441)](https://github.com/opencontainers/runtime-tools) - oci-runtime-tool is a collection of tools for working with the OCI runtime specification by [@opencontainers](https://github.com/opencontainers)
 
 ### Security
 
@@ -383,7 +383,7 @@ Native desktop applications for managing and monitoring docker hosts and cluster
 *   [DockStation (⭐2.2k)](https://github.com/DockStation/dockstation) - A developer centric UI to configure, monitor, and manage services and containers [@dock\_station](https://twitter.com/dock_station)
 *   [Lifeboat (⭐186)](https://github.com/jplhomer/lifeboat) - An easy way to launch Docker projects with a graphical interface on your Mac. [@jplhomer](https://github.com/jplhomer)
 *   [Simple Docker UI (⭐600)](https://github.com/felixgborrego/simple-docker-ui) - built on Electron. By [@felixgborrego](https://github.com/felixgborrego/)
-*   [Stevedore (⭐311)](https://github.com/slonopotamus/stevedore) - Good Docker Desktop replacement for Windows. Both Linux and Windows Containers are supported. [@slonopotamus](https://github.com/slonopotamus)
+*   [Stevedore (⭐312)](https://github.com/slonopotamus/stevedore) - Good Docker Desktop replacement for Windows. Both Linux and Windows Containers are supported. [@slonopotamus](https://github.com/slonopotamus)
 
 #### Terminal
 
@@ -625,7 +625,7 @@ Services to securely store your Docker images.
 *   [dockcheck (⭐1.2k)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
 *   [Docker plugin for Jenkins (⭐491)](https://github.com/jenkinsci/docker-plugin/) - The aim of the docker plugin is to be able to use a docker host to dynamically provision a slave, run a single build, then tear-down that slave.
 *   [Drone (⭐32k)](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
-*   [Gantry (⭐50)](https://github.com/shizunge/gantry) - Automatically update selected Docker swarm services.
+*   [Gantry (⭐51)](https://github.com/shizunge/gantry) - Automatically update selected Docker swarm services.
 *   [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) - GitLab has integrated CI to test, build and deploy your code with the use of GitLab runners.
 *   [GOCD-Docker (⭐94)](https://github.com/gocd/gocd-docker) :skull: - Go Server and Agent in docker containers to provision.
 *   [Jaypore CI (⭐39)](https://github.com/theSage21/jaypore_ci) - Simple, very flexible, powerful CI / CD / automation system configured in Python. Offline and local first.

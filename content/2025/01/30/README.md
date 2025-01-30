@@ -1,12 +1,12 @@
-# Awesome List Updates on Feb 03 - Feb 09, 2025
+# Awesome List Updates on Jan 30, 2025
 
-34 awesome lists updated this week.
+34 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
@@ -18,25 +18,25 @@
 *   [How to Deal With Missing Data in Polars](https://realpython.com/polars-missing-data/) - A post that covers practical techniques for managing missing data with Polars by [Ian Eyre](https://realpython.com/team/ieyre/).
 *   [Polars intro](https://rparkr.github.io/polars-intro/) A short demo that introduces the Polars dataframe library through a marimo notebook by [@rparkr](https://github.com/rparkr).
 
-## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Tools / Services
 
 *   [LangFair (⭐147)](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
 
-## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Generative Model
 
 *   [Object Perception as Bayesian Inference](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.55.090902.142005) - ***Annual Review of Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=1611451804975333652)]. \[[Preprint](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf)]. We perceive the shapes and material properties of objects quickly and reliably despite the complexity and objective ambiguities of natural images. Typical images are highly complex because they consist of many objects embedded in background clutter. Moreover, the image features of an object are extremely variable and ambiguous owing to the effects of projection, occlusion, background clutter, and illumination. The very success of everyday vision implies neural mechanisms, yet to be understood, that discount irrelevant information and organize ambiguous or noisy local image features into objects and surfaces. Recent work in Bayesian theories of visual perception has shown how complexity may be managed and ambiguity resolved through the task-dependent, probabilistic integration of prior object knowledge with image features.
 
-## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### DNS / Steam
 
 *   [Columbus Project (⭐29)](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
-## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Software Development
 
@@ -46,13 +46,13 @@
 
 *   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** \[47:53]
 
-## [6. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Pastebin and Secret Sharing
 
 *   [crypt.fyi](https://crypt.fyi) - Ephemeral zero-knowledge sensitive data sharing platform with web, cli, and chrome-extension clients
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / Raspberry Pi Silicon
 
@@ -83,20 +83,20 @@
 
 *   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### LispWorks / Third-party APIs
 
 *   [lw-plugins (⭐17)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
     *   terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### HTTP
 
 *   [finch (⭐1.3k)](https://github.com/sneako/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
-## [10. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Networking
 
@@ -106,13 +106,13 @@
 
 *   [embed](https://pkg.go.dev/embed) - Package embed provides access to files embedded in the running Go program.
 
-## [11. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [11. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Resources / Podcasts
 
 *   [Django Brew](https://djangobrew.com/) - A fun, caffeine-powered podcast about the Django web framework by Adam Hill and Sangeeta Jadoonanan!
 
-## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [12. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -167,7 +167,7 @@
 
 *   [JSON Schema (⭐4k) (⭐4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Artificial Intelligence
 
@@ -185,25 +185,25 @@
 
 *   [STranslate (⭐2.8k)](https://github.com/ZGGSONG/STranslate) - STranslate is a ready-to-go translation ocr tool developed with WPF.
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Productivity
 
 *   [Launchy](https://apple.co/3PLI2AH) - An app launcher and switcher that utilizes a radial menu.
 
-## [15. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [15. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Analytics
 
 *   [Embrace](http://embrace.io) - Mobile observability, built on OpenTelemetry, to provide user-focused, reliable apps.
 
-## [16. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [16. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Productivity
 
 *   [Only Contacts (⭐1)](https://github.com/Ehtiram-Ullah/Contacts_app) - A contact management app by [Ehtiram Ullah](https://github.com/Ehtiram-Ullah).
 
-## [17. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [17. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Search & Discovery
 
@@ -214,7 +214,7 @@
 
 *   [httpreserve.info](https://httpreserve.info) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
 
-## [18. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [18. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Libraries / Rust
 
@@ -224,7 +224,7 @@
 
 *   [gtfs-rt](https://crates.io/crates/gtfs-rt) - Rust crate to read, write, and manipulate GTFS-Realtime data
 
-## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
@@ -243,13 +243,13 @@
 
 *   [Ever Gauzy](https://gauzy.co) - Open business management platform for collaborative, on-demand and sharing economies (ERP/CRM/HRM/ATS/PM). ([Demo](https://demo.gauzy.co), [Source Code (⭐2.4k)](https://github.com/ever-co/ever-gauzy)) `AGPL-3.0` `Docker/Nodejs`
 
-## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [20. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Authentication, Authorization, and User Management
 
 *   [Permit.io](https://permit.io) - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.
 
-## [21. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [21. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ### Mobile Development
 
@@ -265,25 +265,25 @@
 
 *   [University Degree Roadmap (⭐107)](https://github.com/IlIllII/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/IlIllII/collecobrary).
 
-## [22. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [22. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [HP-75 Plotter ROM External Reference Specification (1982) (PDF)](https://literature.hpcalc.org/community/hp75-plotter-ers.pdf)
 
-## [23. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [23. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Physics
 
 *   [slick (⭐17)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
 
-## [24. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [24. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Templates / Godot 4
 
 *   [Takin Godot Template (⭐110)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
-## [25. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [25. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### YouTube Channels
 
@@ -309,7 +309,7 @@
 
 *   [tanstack-svelte-query](https://tanstack.com/query/latest/docs/svelte/overview) - Framework agnostic type-safe query and mutation library for Svelte.
 
-## [26. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [26. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -333,7 +333,7 @@
 
 *   [tauri-plugin-pinia (⭐26)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri.
 
-## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [27. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -360,7 +360,7 @@
 
 *   [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
 
-## [28. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [28. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
@@ -370,7 +370,7 @@
 
 *   [vite-plugin-builder (⭐1)](https://github.com/yracnet/vite-plugin-builder) - Enable dual compilation for Server-Side Rendering (SSR) and Client-Side Rendering (CSR).
 
-## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Completion / Diagnostics
 
@@ -384,7 +384,7 @@
 
 *   [0xJohnnyboy/scretch.nvim (⭐30)](https://github.com/0xJohnnyboy/scretch.nvim) - Create and manage scratch files, scratch templates, with picker integrations.
 
-## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -397,26 +397,26 @@
 *   [jmtech (⭐1)](https://github.com/jmaaltech/jmtech-zsh-theme) - Customizable colors and symbols. Includes decorators for `git` status, exit status of last command run, `gpg` signing information and timestamps. Requires a [Nerd Font (⭐56k)](https://github.com/ryanoasis/nerd-fonts) for the `git` status icons.
 *   [sdt (⭐0)](https://github.com/sdlea/omz-theme-sdt) - Includes decorators for current directory and `git` status.
 
-## [31. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [31. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Diagrams
 
 *   [Liam ERD (⭐331)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
 
-## [32. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [32. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Resources / Podcasts
 
 *   [Django Chat: Dawn Wages](https://djangochat.com/episodes/wagtail-react-gatsby-dawn-wages-RaD8k37m) - An interview with Dawn Wages, a core Wagtail team member. Discussion about Wagtail, React and Gatsby.
 *   [Django Chat: Thibaud Colas](https://djangochat.com/episodes/thibaud-colas-2025-dsf-board-nominations) - An interview with a core team member of Wagtail, discussing the current status of Django, upcoming DSF Board elections, Wagtail roadmap & community opportunities.
 
-## [33. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [33. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Feature Flags
 
 *   [Bucket](https://bucket.co) - Purpose-built feature flagging for B2B SaaS products.
 
-## [34. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [34. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / Terminal UI
 
@@ -424,4 +424,4 @@
 
 ---
 
-- Next: [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
+- Next: [Jan 22, 2025](/content/2025/01/22/README.md)

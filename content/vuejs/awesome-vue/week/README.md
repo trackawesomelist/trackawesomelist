@@ -40,7 +40,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-carousel (⭐775)](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
+*   [vue3-carousel (⭐776)](https://github.com/ismail9k/vue3-carousel) - A highly customizable, lightweight Vue 3 carousel component for your next awesome project.
 
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
@@ -144,7 +144,7 @@
 
 ### Resources / Examples
 
-*   [umo editor (⭐438)](https://github.com/umodoc/editor) - Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Visit [Playground](https://demo.umodoc.com/editor?lang=en-US) for a fast experience.
+*   [umo editor (⭐440)](https://github.com/umodoc/editor) - Umo Editor is an open-source document editor, based on Vue3 and Tiptap. Visit [Playground](https://demo.umodoc.com/editor?lang=en-US) for a fast experience.
 
 ### Components & Libraries / UI Components
 
@@ -155,7 +155,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [mevn-boilerplate (⭐217)](https://github.com/mustafacagri/mevn-boilerplate) - ⭐️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
+*   [mevn-boilerplate (⭐219)](https://github.com/mustafacagri/mevn-boilerplate) - ⭐️ the most comprehensive mevn stack boilerplate. ⭐️ mongodb - express - vue 3 (admin dashboard) - nodejs - nuxt 3 (client) boilerplate (pinia, tiptap, slug, vuetify and vuexy and more...) 🎉
 
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
@@ -347,7 +347,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [exome (⭐243)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐245)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ## [Oct 09 - Oct 15, 2023](/content/2023/41/README.md)
 
@@ -396,7 +396,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-use-fixed-header (⭐61)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
-*   [@tato30/vue-pdf (⭐508)](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
+*   [@tato30/vue-pdf (⭐509)](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
 *   [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 
 ### Components & Libraries / UI Utilities
@@ -871,7 +871,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [pinia-orm (⭐473)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
+*   [pinia-orm (⭐474)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
@@ -1076,7 +1076,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [fluent-vue (⭐254)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
+*   [fluent-vue (⭐255)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 
 ## [Aug 02 - Aug 08, 2021](/content/2021/31/README.md)
 
@@ -1174,7 +1174,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-pdf-embed (⭐790)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
+*   [vue-pdf-embed (⭐791)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
 
 ### Components & Libraries / UI Utilities
 
@@ -1638,7 +1638,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-final-modal (⭐952)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
+*   [vue-final-modal (⭐951)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 
 ### Components & Libraries / Utilities
 

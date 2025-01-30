@@ -14,7 +14,7 @@ Collections of awesome neovim plugins.
 
 ### Color / Diagnostics
 
-*   [xzbdmw/colorful-menu.nvim (⭐207)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+*   [xzbdmw/colorful-menu.nvim (⭐208)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
 ### Utility / Diagnostics
 
@@ -46,7 +46,7 @@ Collections of awesome neovim plugins.
 
 ### Bars and Lines / Diagnostics
 
-*   [mawkler/hml.nvim (⭐19)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
+*   [mawkler/hml.nvim (⭐20)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
 
 ### Cursorline / Diagnostics
 
@@ -149,7 +149,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [supermaven-inc/supermaven-nvim (⭐856)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+*   [supermaven-inc/supermaven-nvim (⭐858)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 
 ### Programming Languages Support / Diagnostics
 
@@ -228,7 +228,7 @@ Collections of awesome neovim plugins.
 
 ### GitHub / Diagnostics
 
-*   [topaxi/pipeline.nvim (⭐150)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
+*   [topaxi/pipeline.nvim (⭐149)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 *   [2KAbhishek/octohub.nvim (⭐69)](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 
 ### Competitive Programming / Diagnostics

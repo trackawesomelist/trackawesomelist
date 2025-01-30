@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
+
+### Feature Flags
+
+*   [Bucket](https://bucket.co) - Purpose-built feature flagging for B2B SaaS products.
+
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### IDE

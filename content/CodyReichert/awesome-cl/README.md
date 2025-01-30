@@ -6,6 +6,13 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Jan 30, 2025](/content/2025/01/30/README.md)
+
+### LispWorks / Third-party APIs
+
+*   [lw-plugins (⭐17)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
+    *   terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
+
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
 ### Other DB wrappers
@@ -851,6 +858,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/): a graphical frontend.
     *   [Maxima on Android](https://play.google.com/store/apps/details?id=jp.yhonda), built with ECL.
     *   [Maxima on Jupyter (⭐192)](https://github.com/robert-dodier/maxima-jupyter)
+    *   \[new, POC] [Maxima in the browser on WASM](https://maxima-on-wasm.pages.dev/), [sources](https://gitlab.com/spaghettisalat/maxima/-/tree/emscripten-port-deployed)
     *   it can be used via [SageMath](https://www.sagemath.org/) and [KDE Cantor](https://apps.kde.org/cantor/). Of course, with Emacs: [maxima-mode](https://gitlab.com/sasanidas/maxima) ([screenshot](https://community.linuxmint.com/img/screenshots/maxima-emacs.png)) and [maxima-interface (⭐17)](https://github.com/jmbr/maxima-interface) to ease the interface between Maxima and Common Lisp.
     *   it can be used [from a Lisp REPL](https://mahmoodsheikh36.github.io/post/20230510181916-maxima_in_lisp/).
 

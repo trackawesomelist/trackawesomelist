@@ -10,7 +10,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Networking
 
-*   [GoProxy (⭐6.1k)](https://github.com/elazarl/goproxy) - A library to create a customized HTTP/HTTPS proxy server using Go.
+*   [GoProxy (⭐6.2k)](https://github.com/elazarl/goproxy) - A library to create a customized HTTP/HTTPS proxy server using Go.
 
 ### Resource Embedding
 

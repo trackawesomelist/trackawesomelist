@@ -20,7 +20,7 @@ A curated list of roadmaps.
 
 ### Miscellaneous
 
-*   [University Degree Roadmap (⭐106)](https://github.com/IlIllII/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/IlIllII/collecobrary).
+*   [University Degree Roadmap (⭐107)](https://github.com/IlIllII/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/IlIllII/collecobrary).
 
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 

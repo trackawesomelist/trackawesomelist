@@ -6,11 +6,11 @@ Everything that makes working with databases easier
 
 [ Daily / [Weekly](/content/mgramin/awesome-db-tools/week/README.md) / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
-## [Jan 29, 2025](/content/2025/01/29/README.md)
+## [Jan 30, 2025](/content/2025/01/30/README.md)
 
 ### Schema / Diagrams
 
-*   [Liam ERD (⭐326)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
+*   [Liam ERD (⭐331)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
 
 ## [Jan 18, 2025](/content/2025/01/18/README.md)
 

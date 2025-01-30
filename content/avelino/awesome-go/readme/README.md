@@ -2018,7 +2018,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [gobgp (⭐3.7k)](https://github.com/osrg/gobgp) - BGP implemented in the Go Programming Language.
 *   [gopacket (⭐6.4k)](https://github.com/google/gopacket) - Go library for packet processing with libpcap bindings.
 *   [gopcap (⭐490)](https://github.com/akrennmair/gopcap) - Go wrapper for libpcap.
-*   [GoProxy (⭐6.1k)](https://github.com/elazarl/goproxy) - A library to create a customized HTTP/HTTPS proxy server using Go.
+*   [GoProxy (⭐6.2k)](https://github.com/elazarl/goproxy) - A library to create a customized HTTP/HTTPS proxy server using Go.
 *   [goshark (⭐19)](https://github.com/sunwxg/goshark) - Package goshark use tshark to decode IP packet and create data struct to analyse packet.
 *   [gosnmp (⭐1.2k)](https://github.com/soniah/gosnmp) - Native Go library for performing SNMP actions.
 *   [gotcp (⭐512)](https://github.com/gansidui/gotcp) - Go package for quickly writing tcp applications.

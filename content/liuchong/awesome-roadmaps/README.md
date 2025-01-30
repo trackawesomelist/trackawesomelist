@@ -6,7 +6,7 @@ A curated list of roadmaps.
 
 [ Daily / [Weekly](/content/liuchong/awesome-roadmaps/week/README.md) / [Overview](/content/liuchong/awesome-roadmaps/readme/README.md) ]
 
-## [Jan 29, 2025](/content/2025/01/29/README.md)
+## [Jan 30, 2025](/content/2025/01/30/README.md)
 
 ### Mobile Development
 
@@ -20,7 +20,7 @@ A curated list of roadmaps.
 
 ### Miscellaneous
 
-*   [University Degree Roadmap (⭐106)](https://github.com/IlIllII/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/IlIllII/collecobrary).
+*   [University Degree Roadmap (⭐107)](https://github.com/IlIllII/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/IlIllII/collecobrary).
 
 ## [Jul 09, 2024](/content/2024/07/09/README.md)
 

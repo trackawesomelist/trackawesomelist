@@ -6,7 +6,7 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
-## [Jan 29, 2025](/content/2025/01/29/README.md)
+## [Jan 30, 2025](/content/2025/01/30/README.md)
 
 ### Utilities / Productivity
 
@@ -3176,7 +3176,6 @@
 *   [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons.
 *   [Mark Man](http://getmarkman.com/) - Measure & Spec Fast.
 *   [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive.
-*   [Sip](http://theolabrothers.com/) - The best way to collect, organize & share your colors.
 *   [Snagit](https://www.techsmith.com/snagit.html) - Simple, Powerful Screen Capture Software and Screen Recorder.
 
 ### Communication / Collaboration and Team Tools

@@ -6,7 +6,7 @@ A curated list of awesome iOS ecosystem, including Objective-C and Swift Project
 
 [ Daily / [Weekly](/content/vsouza/awesome-ios/week/README.md) / [Overview](/content/vsouza/awesome-ios/readme/README.md) ]
 
-## [Jan 29, 2025](/content/2025/01/29/README.md)
+## [Jan 30, 2025](/content/2025/01/30/README.md)
 
 ### Analytics
 

@@ -36,7 +36,7 @@
 
 ### Scaffold
 
-*   [svelte-docs-starter (⭐20)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
+*   [svelte-docs-starter (⭐21)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Routers / Form Components
 
-*   [svelte5-router (⭐98)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
+*   [svelte5-router (⭐99)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -162,13 +162,13 @@
 
 ### Charts
 
-*   [LayerChart (⭐727)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+*   [LayerChart (⭐728)](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
 ### State Libraries
 
-*   [exome (⭐243)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐245)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ### UI Libraries
 
@@ -327,7 +327,7 @@
 
 ### Notification
 
-*   [svelte-french-toast (⭐905)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
+*   [svelte-french-toast (⭐906)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
 
@@ -392,7 +392,7 @@
 
 ### Notification
 
-*   [@zerodevx/svelte-toast (⭐847)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
+*   [@zerodevx/svelte-toast (⭐848)](https://github.com/zerodevx/svelte-toast) - Simple elegant toast notifications.
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 

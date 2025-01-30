@@ -75,7 +75,7 @@ Please read [contribution guidelines](https://github.com/liuchong/awesome-roadma
 *   [Software Design and Architecture Roadmap (⭐3.3k)](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer [<img src="https://img.shields.io/badge/Roadmap-2019-yellow.svg">](https://github.com/stemmlerjs/software-design-and-architecture-roadmap).
 *   [System Design Roadmap (⭐394)](https://github.com/mohsenshafiei/system-design-master-plan) - Roadmap to learn system design and architecture [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/mohsenshafiei/system-design-master-plan).
 *   [UI/UX Designer Roadmap (⭐2.1k)](https://github.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017 [<img src="https://img.shields.io/badge/Roadmap-2017-yellow.svg">](https://github.com/togiberlin/ui-ux-designer-roadmap).
-*   [University Degree Roadmap (⭐106)](https://github.com/IlIllII/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/IlIllII/collecobrary).
+*   [University Degree Roadmap (⭐107)](https://github.com/IlIllII/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/IlIllII/collecobrary).
 
 ## Articles
 
