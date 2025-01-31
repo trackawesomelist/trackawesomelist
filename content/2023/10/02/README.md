@@ -342,7 +342,7 @@ Interactive UI and fuzzy-search for Git branches.
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [minima (⭐3)](https://github.com/Brolly0204/zsh-minima) - Includes `git`, `node`, `golang`, `yarn`, `php`, `docker` and `python` status decorations.
-*   [x](https://github.com/tharindu899/x-theme) - Includes customizable banners
+*   [x (⭐7)](https://github.com/tharindu899/x-theme) - Includes customizable banners
 
 ## [5. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

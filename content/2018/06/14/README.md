@@ -37,7 +37,7 @@
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Realtime / Ruby
+### GTFS Realtime / Rust
 
 *   [GTFS-realtime documentation (⭐646)](https://github.com/google/transit/tree/master/gtfs-realtime).
 
@@ -64,7 +64,7 @@
 
 ### Apps / StreamField
 
-*   [Wagtail Code Block (⭐153)](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
+*   [Wagtail Code Block (⭐160)](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
 
 ### Apps / Misc
 

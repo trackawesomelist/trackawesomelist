@@ -67,15 +67,15 @@
 
 ## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### GTFS Realtime Libraries & Demo Apps / Ruby
+### GTFS Realtime Libraries & Demo Apps / Rust
 
 *   [gtfs-realtime-bindings (⭐379)](https://github.com/google/gtfs-realtime-bindings) - The official bindings for Java, .NET, Node.js, Python, and Ruby generated from the official [GTFS-realtime protocol buffer specification (⭐646)](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto).
 
-### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
+### GTFS Realtime (and Other Real-time API) Archival Tools / Rust
 
 *   [gtfsrdb (⭐40)](https://github.com/CUTR-at-USF/gtfsrdb) - A Python tool that supports reading and archiving GTFS-realtime feeds into a database
 
-### SIRI / Ruby
+### SIRI / Rust
 
 *   [King County Metro Legacy AVL to SIRI (⭐2)](https://github.com/bdferris/onebusaway-king-county-metro/tree/master/onebusaway-king-county-metro-legacy-avl-to-siri) - Java-based tool to convert [King County Metro's](http://metro.kingcounty.gov/) Legacy AVL format to SIRI.
 *   [SIRI REST Client (⭐26)](https://github.com/CUTR-at-USF/SiriRestClient/wiki) - An open-source Android library for interacting with the RESTful SIRI interface for real-time transit data, such as that currently being used by the [MTA Bus Time API](http://bustime.mta.info/wiki/Developers/SIRIIntro).

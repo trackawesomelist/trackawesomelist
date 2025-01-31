@@ -60,7 +60,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-deadfile (⭐31)](https://github.com/stauren/vite-plugin-deadfile) - Find unused source files in the project.
+*   [vite-plugin-deadfile (⭐32)](https://github.com/stauren/vite-plugin-deadfile) - Find unused source files in the project.
 
 ## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

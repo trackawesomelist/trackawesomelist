@@ -155,7 +155,7 @@
 
 ## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Merge Tools / Ruby
+### GTFS Merge Tools / Rust
 
 *   [Transitfeed merge function (⭐682)](https://github.com/google/transitfeed/wiki/Merge) - A Python library with a function to merge two different GTFS feeds.
 

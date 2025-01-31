@@ -148,7 +148,6 @@
 
 ### Scripts / Ads
 
-*   [Anti-Adblock Killer](http://reek.github.io/anti-adblock-killer/) - Bypasses anti-adblock functionality in websites.
 *   [AdsBypasser](https://adsbypasser.github.io/) - Bypass Ads, Popups and count-down ads.
 
 ### Scripts / GitHub

@@ -10,15 +10,15 @@
 
 ### Software Development
 
-*   [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** \[1:04:34]
-*   [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** \[32:55]
-*   [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** \[39:32]
-*   [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger** \[33:46]
-*   [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by **James Mickens** \[27:35]
-*   [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** \[1:10:04]
-*   [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** \[1:01:26]
-*   [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash** \[1:10:54]
-*   [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** \[53:30]
+*   [The Computer Revolution hasn't happend yet](https://www.youtube.com/watch?v=oKg1hTOQXoY) by **Alan Kay** (OOPSLA 1997) \[1:04:34]
+*   [The Future of Programming](https://vimeo.com/71278954) by **Bret Victor** (Dropbox's DBX conference 2013) \[32:55]
+*   [Media for Thinking the Unthinkable](http://worrydream.com/MediaForThinkingTheUnthinkable/) by **Bret Victor** (MIT Media Lab 2013) \[39:32]
+*   [Finding a Way Out](http://www.infoq.com/presentations/reimagining-software) by **Chris Granger** (Strange Loop 2013) \[33:46]
+*   [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by **James Mickens** (Monitorama PDX 2014) \[27:35]
+*   [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** (JVM Languages Summit 2009) \[1:10:04]
+*   [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** (Strange Loop 2011) \[1:01:26]
+*   [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash** (Berkman Klein Center 2013) \[1:10:54]
+*   [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** (ACM OOPSLA 1998) \[53:30]
 
 ### Object-Oriented Programming
 

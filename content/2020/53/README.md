@@ -38,7 +38,7 @@
 
 ### Contents / Finance
 
-*   [Currency Alarm (⭐4)](https://github.com/shurygindv/currency-alarm) - Let you know when the rate (USD, EUR, RUB) completely achieves the set level by [Daniil Shurygin](https://github.com/shurygindv)
+*   [Currency Alarm (⭐5)](https://github.com/shurygindv/currency-alarm) - Let you know when the rate (USD, EUR, RUB) completely achieves the set level by [Daniil Shurygin](https://github.com/shurygindv)
 
 ## [5. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
@@ -514,7 +514,7 @@
 
 ### Other Awesomes / Patents
 
-*   [awesome-3d-engines-for-plotters (⭐80)](https://github.com/msurguy/awesome-3d-engines-for-plotters)
+*   [awesome-3d-engines-for-plotters (⭐85)](https://github.com/msurguy/awesome-3d-engines-for-plotters)
 
 ---
 

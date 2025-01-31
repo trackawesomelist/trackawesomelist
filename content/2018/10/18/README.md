@@ -170,7 +170,7 @@ Topics: Accessibility\
 
 ## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Analysis Tools / Ruby
+### GTFS Analysis Tools / Rust
 
 *   [Peartree (⭐203)](https://github.com/kuanb/peartree) - A Python library for converting transit data into a directed graph for network analysis.
 *   [transitr (⭐22)](https://github.com/tmelliott/transitr) - An R package for constructing and modelling a transit network in real time to obtain vehicle ETAs
@@ -179,7 +179,7 @@ Topics: Accessibility\
 
 ### Software Development
 
-*   [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** \[50:42]
+*   [We're Doing It All Wrong](https://www.youtube.com/watch?v=TS1lpKBMkgg) by **Paul Phillips** (Pacific Northwest Scala 2013) \[50:42]
 
 ### Test-Driven Development
 

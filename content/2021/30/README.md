@@ -38,7 +38,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail PDF View (⭐23)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
+*   [Wagtail PDF View (⭐26)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
 
 ## [6. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
@@ -400,7 +400,7 @@
 
 ### Django / Community
 
-*   [django-vite (⭐607)](https://github.com/MrBin99/django-vite) - Integration for Django applications.
+*   [django-vite (⭐621)](https://github.com/MrBin99/django-vite) - Integration for Django applications.
 
 ### Ruby on Rails / Community
 

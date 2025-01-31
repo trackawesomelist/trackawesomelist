@@ -38,7 +38,7 @@
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐333)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐24k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐333)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐25k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/week/README.md)
 
@@ -93,28 +93,25 @@
 
 ### Web Development
 
-*   [Laravel Developer Roadmap (⭐680)](https://github.com/Hasnayeen/laravel-developer-roadmap) - Roadmap to becoming an Laravel developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://github.com/Hasnayeen/laravel-developer-roadmap).
+*   [Laravel Developer Roadmap (⭐723)](https://github.com/Hasnayeen/laravel-developer-roadmap) - Roadmap to becoming an Laravel developer in 2024 [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/Hasnayeen/laravel-developer-roadmap).
 
 ### Mobile Development
 
-*   [Flutter Developer Roadmap (⭐5.3k)](https://github.com/olexale/flutter_roadmap) - Roadmap for creating hybrid apps using Google's Flutter SDK.
+*   [Flutter Developer Roadmap (⭐5.6k)](https://github.com/olexale/flutter_roadmap) - Roadmap for creating hybrid apps using Google's Flutter SDK [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/olexale/flutter_roadmap).
 
 ### Game Development
 
-*   [Game Programming Roadmap (⭐17k)](https://github.com/miloyip/game-programmer) - Roadmap to becoming a game programmer.
+*   [Game Programming Roadmap (⭐18k)](https://github.com/miloyip/game-programmer) - Roadmap to becoming a game programmer [<img src="https://img.shields.io/badge/Roadmap-2019-yellow.svg">](https://github.com/miloyip/game-programmer).
 
 ### AI / Machine Learning / Data Science
 
-*   [Deep Learning Reading Roadmap (⭐38k)](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap through seminal deep learning papers.
-*   [Deep Learning Roadmap (⭐4.6k)](https://github.com/machinelearningmindset/deep-learning-roadmap) - Roadmap to getting started with deep learning.
-*   [Data Scientist Roadmap (⭐615)](https://github.com/hasbrain/data-science-roadmap) - Roadmap to becoming a data scientist.
-*   [Data scientist Roadmap 2 (⭐6.9k)](https://github.com/MrMimic/data-scientist-roadmap) - Roadmap of tutorials for those interested in data science.
+*   [Deep Learning Reading Roadmap (⭐39k)](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap through seminal deep learning papers [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap).
 
 ### Miscellaneous
 
-*   [Hacker Roadmap (⭐13k)](https://github.com/Sundowndev/hacker-roadmap) - Roadmap for amateur pen testers and a collection of hacking tools, resources and references.
-*   [Software Architect Roadmap (⭐1k)](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
-*   [Software Design and Architecture Roadmap (⭐3.2k)](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
+*   [Hacker Roadmap (⭐14k)](https://github.com/Sundowndev/hacker-roadmap) - Roadmap for amateur pen testers and a collection of hacking tools, resources and references [<img src="https://img.shields.io/badge/Roadmap-2023-yellow.svg">](https://github.com/Sundowndev/hacker-roadmap)❗.
+*   [Software Architect Roadmap (⭐1.1k)](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect [<img src="https://img.shields.io/badge/Roadmap-2018-yellow.svg">](https://github.com/AlaaAttya/software-architect-roadmap).
+*   [Software Design and Architecture Roadmap (⭐3.3k)](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer [<img src="https://img.shields.io/badge/Roadmap-2019-yellow.svg">](https://github.com/stemmlerjs/software-design-and-architecture-roadmap).
 
 ## [12. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
@@ -351,7 +348,7 @@ Free (Open Source)
 
 ### Plugins and scripts / Godot 3
 
-*   [obs-websocket-gd (⭐90)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket.
+*   [obs-websocket-gd (⭐92)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket.
 
 ## [27. Awesome](/content/craftcms/awesome/week/README.md)
 
@@ -551,7 +548,7 @@ Free (Open Source)
 
 ### Contents / Tools
 
-*   [One Second Diary (⭐287)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
+*   [One Second Diary (⭐323)](https://github.com/KyleKun/one_second_diary) - Minimalist Video Diary app by [KyleKun](https://github.com/KyleKun).
 
 ## [49. Awesome Low Code](/content/zenitysec/awesome-low-code/week/README.md)
 
@@ -645,13 +642,13 @@ Free (Open Source)
 
 ### Templates / React
 
-*   [Vitamin (⭐565)](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
+*   [Vitamin (⭐567)](https://github.com/wtchnm/Vitamin) - React TypeScript, TailwindCSS, SPA + PWA, Cypress and CI.
 *   [vitejs-template-react-rescript (⭐127)](https://github.com/jihchi/vitejs-template-react-rescript) - React + ReScript.
 *   [vite-react-ts-tailwind-firebase-starter (⭐287)](https://github.com/TeXmeijin/vite-react-ts-tailwind-firebase-starter) - Starter using Vite + React + TypeScript + Tailwind CSS (daisyUI) + Firebase (v9) + Prettier + ESLint.
 
 ### Tauri / Elm
 
-*   [vite-elm-template (⭐132)](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
+*   [vite-elm-template (⭐133)](https://github.com/lindsaykwardell/vite-elm-template) - A default template for building Elm applications.
 
 ### Framework-agnostic Plugins / Loaders
 
@@ -659,23 +656,23 @@ Free (Open Source)
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [rollup-plugin-critical (⭐103)](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
+*   [rollup-plugin-critical (⭐104)](https://github.com/nystudio107/rollup-plugin-critical) - Generate critical CSS.
 
 ### Framework-agnostic Plugins / Transformers
 
 *   [vite-plugin-virtual-html (⭐74)](https://github.com/Windson1806/vite-plugin-virtual-html) - Make Vite MPA consistent with `@vue/cli`.
-*   [vite-plugin-global-style (⭐132)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - Deal with global styles for CSS, SASS, LESS and Stylus.
+*   [vite-plugin-global-style (⭐133)](https://github.com/originjs/origin.js/tree/main/packages/vite-plugin-global-style) - Deal with global styles for CSS, SASS, LESS and Stylus.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-mkcert (⭐621)](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates https dev server.
+*   [vite-plugin-mkcert (⭐626)](https://github.com/liuweiGL/vite-plugin-mkcert) - Provide certificates https dev server.
 *   [vitawind (⭐160)](https://github.com/huibizhang/vitawind) - Install and Setting Tailwind CSS automatically.
 *   [unplugin-auto-import (⭐3.4k)](https://github.com/antfu/unplugin-auto-import) - On-demand API auto-importing.
-*   [vite-plugin-inspect (⭐1.3k)](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins.
+*   [vite-plugin-inspect (⭐1.4k)](https://github.com/antfu/vite-plugin-inspect) - Inspect the intermediate state of Vite plugins.
 
 ### Vue / Integrations
 
-*   ![v2](https://img.shields.io/badge/-v2-42b883) [unplugin-vue2-script-setup (⭐604)](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
+*   ![v2](https://img.shields.io/badge/-v2-42b883) [unplugin-vue2-script-setup (⭐606)](https://github.com/antfu/unplugin-vue2-script-setup) - Enabling `<script setup>` syntax for Vue 2.
 
 ### Vue / Helpers
 
@@ -688,7 +685,7 @@ Free (Open Source)
 
 ## [53. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### GTFS Analysis Tools / Ruby
+### GTFS Analysis Tools / Rust
 
 *   [GTFS-to-Chart (⭐32)](https://github.com/BlinkTagInc/gtfs-to-chart) - Creates stringline charts showing all vehicles on a transit route from GTFS data.
 

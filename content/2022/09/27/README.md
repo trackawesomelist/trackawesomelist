@@ -63,7 +63,7 @@ Installs: 2000 | Stars: 352 | Last update: n/a
 
 ### Other Lists / Help
 
-*   [upb-lea/awesome-open-source-power-electronics (⭐208)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [upb-lea/awesome-open-source-power-electronics (⭐209)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
 ## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

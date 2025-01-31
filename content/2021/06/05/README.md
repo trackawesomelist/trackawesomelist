@@ -68,7 +68,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-pdf-embed (⭐771)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
+*   [vue-pdf-embed (⭐791)](https://github.com/hrynko/vue-pdf-embed) - PDF embed component for Vue 2 and Vue 3
 
 ## [10. Awesome Material](/content/sachin1092/awesome-material/README.md)
 

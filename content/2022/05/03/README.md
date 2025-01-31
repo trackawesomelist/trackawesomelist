@@ -29,7 +29,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-material-design-icons (⭐164)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
+*   [vue-material-design-icons (⭐166)](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
 
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -45,7 +45,7 @@
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Analysis Tools / Ruby
+### GTFS Analysis Tools / Rust
 
 *   [transit\_service\_analyst (⭐11)](https://github.com/psrc/transit_service_analyst) - A Python library to support transit service analysis.
 

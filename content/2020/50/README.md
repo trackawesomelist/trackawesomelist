@@ -385,7 +385,7 @@
 
 ## [18. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Blog posts / Ruby
+### Blog posts / Rust
 
 *   ["How to use GTFS data to track transit vehicles in realtime" by Tom Camp](https://www.ably.io/blog/gtfs-data-track-transit-vehicles-realtime) - Using GTFS and GTFS Realtime to provide continuous realtime updates.
 
@@ -504,7 +504,7 @@
 
 ### Apps / SEO and SMO
 
-*   [Wagtail Yoast (⭐34)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
+*   [Wagtail Yoast (⭐35)](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
 
 ### Apps / Media
 

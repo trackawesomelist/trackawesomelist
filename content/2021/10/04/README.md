@@ -8,7 +8,7 @@
 
 ## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Analysis Tools / Ruby
+### GTFS Analysis Tools / Rust
 
 *   [GTFS-to-Chart (⭐32)](https://github.com/BlinkTagInc/gtfs-to-chart) - Creates stringline charts showing all vehicles on a transit route from GTFS data.
 

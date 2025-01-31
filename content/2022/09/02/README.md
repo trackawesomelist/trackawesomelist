@@ -44,7 +44,7 @@
 
 ### Graphics Programming
 
-*   [Learn OpenGL RS (⭐982)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *(:construction: in process)*
+*   [Learn OpenGL RS (⭐987)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *(:construction: in process)*
 *   [WebGL Insights](http://webglinsights.com) - Patrick Cozzi, et al.
 
 ### Graphical User Interfaces
@@ -189,7 +189,7 @@
 
 ### Contents / Games
 
-*   [Arcade Plaza (⭐27)](https://github.com/aryamangodara/Arcade-Plaza) - Hub of online games built by [Aryaman Godara](https://medium.com/@aryamangodara/why-i-open-sourced-my-flutter-game-application-7d008cdd01c5).
+*   [Arcade Plaza (⭐30)](https://github.com/aryamangodara/Arcade-Plaza) - Hub of online games built by [Aryaman Godara](https://medium.com/@aryamangodara/why-i-open-sourced-my-flutter-game-application-7d008cdd01c5).
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

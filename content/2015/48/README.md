@@ -35,7 +35,7 @@
 
 ### Software Development
 
-*   [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** \[36:00]
+*   [Unconventional Programming with Chemical Computing](https://www.youtube.com/watch?v=cHoYNStQOEc) by **Carin Meier** (Strange Loop 2015) \[36:00]
 
 ## [6. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/week/README.md)
 

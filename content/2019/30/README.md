@@ -765,7 +765,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Laravel File Manager (⭐1.1k)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
+*   [Laravel File Manager (⭐1.2k)](https://github.com/alexusmai/laravel-file-manager) - Powerful file manager for Laravel
 
 ## [47. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 

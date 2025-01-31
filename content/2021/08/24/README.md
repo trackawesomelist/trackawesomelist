@@ -8,7 +8,7 @@
 
 ## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Data Collection and Maintenance Tools / Ruby
+### GTFS Data Collection and Maintenance Tools / Rust
 
 *   [TransitWand (⭐40)](https://github.com/conveyal/transit-wand) - An open source web and mobile application for collecting transit data. Use it to create GTFS feeds, capture passenger counts or generate GIS datasets.
 

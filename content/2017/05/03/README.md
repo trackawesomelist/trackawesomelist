@@ -72,7 +72,7 @@
 
 ### Character Controllers
 
-*   [CharacterController2D (⭐979)](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
+*   [CharacterController2D (⭐1.1k)](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
 
 ## [9. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

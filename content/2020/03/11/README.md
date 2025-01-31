@@ -56,7 +56,7 @@
 
 *   [National Transit Database (USA)](https://www.transit.dot.gov/ntd) - Information and statistics on the transit systems of the United States, run by the Federal Transit Administration.
 
-### GTFS Data Collection and Maintenance Tools / Ruby
+### GTFS Data Collection and Maintenance Tools / Rust
 
 *   [IBI Data Tools (⭐123)](https://github.com/ibi-group/datatools-ui) - A web application that handles GTFS editing, validating, quality checking, and deploying to OpenTripPlanner. (Combines and builds upon the functionality of the deprecated [Gtfs Data Manager (⭐24)](https://github.com/conveyal/gtfs-data-manager) and [GTFS Editor (⭐135)](https://github.com/conveyal/gtfs-editor).)
 

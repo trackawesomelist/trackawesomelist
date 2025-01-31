@@ -62,7 +62,7 @@
 
 ### Apps / Rich text editor extensions
 
-*   [Wagtail EditorJS (⭐8)](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
+*   [Wagtail EditorJS (⭐11)](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 
 ## [8. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 

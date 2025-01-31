@@ -103,8 +103,8 @@
 ### Stub packages
 
 *   [botostubs (⭐95)](https://github.com/jeshan/botostubs) - Gives you code assistance for any boto3 API in any IDE.
-*   [PyQt5-stubs (⭐68)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
-*   [sqlalchemy-stubs (⭐571)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐9.8k)](https://github.com/sqlalchemy/sqlalchemy).
+*   [PyQt5-stubs (⭐69)](https://github.com/stlehmann/PyQt5-stubs) - Stubs for [PyQt5](https://www.riverbankcomputing.com/software/pyqt/intro).
+*   [sqlalchemy-stubs (⭐572)](https://github.com/dropbox/sqlalchemy-stubs) - Stubs for [SQLAlchemy (⭐10k)](https://github.com/sqlalchemy/sqlalchemy).
 
 ### Backports and improvements
 
@@ -116,7 +116,7 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy (⭐249)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
+*   [pytest-mypy (⭐248)](https://github.com/dbader/pytest-mypy) - Mypy static type checker plugin for Pytest.
 
 ### Tools / Working with types
 
@@ -127,11 +127,11 @@
 
 *   [pytest-annotate (⭐109)](https://github.com/kensho-technologies/pytest-annotate) - Pyannotate plugin for pytest.
 *   [pytest-monkeytype (⭐43)](https://github.com/mariusvniekerk/pytest-monkeytype) - MonkeyType plugin for pytest.
-*   [typilus (⭐59)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐42)](https://github.com/typilus/typilus-action)
+*   [typilus (⭐60)](https://github.com/typilus/typilus) - A deep learning algorithm for predicting types in Python. Also available as a [GitHub action (⭐42)](https://github.com/typilus/typilus-action)
 
 ### Tools / Mypy plugins
 
-*   [loguru-mypy (⭐20)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐20k)](https://github.com/Delgan/loguru) support.
+*   [loguru-mypy (⭐19)](https://github.com/kornicameister/loguru-mypy) - Plugin for [loguru (⭐21k)](https://github.com/Delgan/loguru) support.
 *   [pynamodb-mypy (⭐4)](https://github.com/pynamodb/pynamodb-mypy) - Plugin for [PynamoDB (⭐2.5k)](https://github.com/pynamodb/PynamoDB) support.
 
 ### Integrations / Mypy plugins

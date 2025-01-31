@@ -95,7 +95,7 @@
 
 ### Other Awesomes / Patents
 
-*   [awesome-3d-engines-for-plotters (⭐80)](https://github.com/msurguy/awesome-3d-engines-for-plotters)
+*   [awesome-3d-engines-for-plotters (⭐85)](https://github.com/msurguy/awesome-3d-engines-for-plotters)
 
 ---
 

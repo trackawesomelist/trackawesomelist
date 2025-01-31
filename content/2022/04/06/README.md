@@ -10,7 +10,7 @@
 
 ### Apps / Media
 
-*   [Rent Free Media (⭐77)](https://github.com/RentFreeMedia/rentfreemedia) - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
+*   [Rent Free Media (⭐79)](https://github.com/RentFreeMedia/rentfreemedia) - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
 
 ## [2. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-electron (⭐718)](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
+*   [vite-plugin-electron (⭐720)](https://github.com/electron-vite/vite-plugin-electron) - Integrate Vite and Electron.
 
 ## [8. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

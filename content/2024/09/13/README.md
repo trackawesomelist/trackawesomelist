@@ -10,12 +10,12 @@
 
 ### Contents / Education
 
-*   [Neumorphic Calculator (⭐17)](https://github.com/mllrr96/Neumorphic-Calculator) -  Elegant and highly customizable calculator app with a beautiful neumorphic design by [Mohammed Ragheb](https://github.com/mllrr96)
-*   [Flutter animations (⭐4)](https://github.com/AyanDas-99/Flutter-animations) - A sample app to learn basic to advanced flutter animations by [Ayan Das](https://github.com/AyanDas-99).
+*   [Neumorphic Calculator (⭐26)](https://github.com/mllrr96/Neumorphic-Calculator) -  Elegant and highly customizable calculator app with a beautiful neumorphic design by [Mohammed Ragheb](https://github.com/mllrr96)
+*   [Flutter animations (⭐5)](https://github.com/AyanDas-99/Flutter-animations) - A sample app to learn basic to advanced flutter animations by [Ayan Das](https://github.com/AyanDas-99).
 
 ### Contents / Health and Fitness
 
-*   [Calm Attack (⭐1)](https://github.com/FatoomRe/Calm-Attack) - An app that help to manage panic attacks. Provides a range of exercises and techniques to help users calm their mind and body during anxiety moments. by [FatoomRe](https://github.com/FatoomRe).
+*   [Calm Attack (⭐7)](https://github.com/FatoomRe/Calm-Attack) - An app that help to manage panic attacks. Provides a range of exercises and techniques to help users calm their mind and body during anxiety moments. by [FatoomRe](https://github.com/FatoomRe).
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

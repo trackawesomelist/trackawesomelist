@@ -20,7 +20,7 @@
 
 ### Contents / Tools
 
-*   [NetworkArch (⭐26)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
+*   [NetworkArch (⭐29)](https://github.com/ivirtex/networkarch-flutter) - Network-oriented app that allows you to diagnose your wireless connections by [ivirtex](https://github.com/ivirtex)
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

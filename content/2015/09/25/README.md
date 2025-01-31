@@ -16,7 +16,7 @@
 
 ### 2D
 
-*   [Pixel Camera 2D (⭐469)](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
+*   [Pixel Camera 2D (⭐503)](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
 
 ## [3. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
 

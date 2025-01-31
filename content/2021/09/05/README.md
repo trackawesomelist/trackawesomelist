@@ -235,7 +235,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [element-pro-components (⭐282)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
+*   [element-pro-components (⭐285)](https://github.com/tolking/element-pro-components) A component library for Vue 3 base on element-plus
 
 ---
 

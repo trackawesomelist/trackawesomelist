@@ -43,7 +43,7 @@
 
 ### Contents / Productivity
 
-*   [Tasker (⭐146)](https://github.com/ErfanRht/Tasker) - A useful and modern To-Do List & Planner by [Erfan Rahmati](https://github.com/ErfanRht).
+*   [Tasker (⭐177)](https://github.com/ErfanRht/Tasker) - A useful and modern To-Do List & Planner by [Erfan Rahmati](https://github.com/ErfanRht).
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

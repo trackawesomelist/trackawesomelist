@@ -78,7 +78,7 @@
 
 ### Apps/Websites / Community
 
-*   [react-device-frameset (⭐79)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
+*   [react-device-frameset (⭐81)](https://github.com/zheeeng/react-device-frameset) - This is yet another device frameset component for React.
 
 ## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

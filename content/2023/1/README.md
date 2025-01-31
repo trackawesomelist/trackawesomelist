@@ -114,10 +114,6 @@
 
 ## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
-### Standard CLI
-
-*   [survey (⭐4.1k)](https://github.com/go-survey/survey) - Build interactive and accessible prompts with full support for windows and posix terminals.
-
 ### Goroutines
 
 *   [conc (⭐9.6k)](https://github.com/sourcegraph/conc) - `conc` is your toolbelt for structured concurrency in go, making common tasks easier and safer.
@@ -619,7 +615,7 @@
 
 ### 3D / Godot 3
 
-*   [Boom (⭐36)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
+*   [Boom (⭐37)](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 
 ## [50. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 

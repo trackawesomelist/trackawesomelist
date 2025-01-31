@@ -170,11 +170,11 @@
 
 ### Projects / Godot 3
 
-*   [vpuppr (⭐754)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
+*   [vpuppr (⭐761)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
 
 ### Modules / Godot 3
 
-*   [spout-gd (⭐42)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐784)](https://github.com/leadedge/Spout2).
+*   [spout-gd (⭐44)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐791)](https://github.com/leadedge/Spout2).
 
 ---
 

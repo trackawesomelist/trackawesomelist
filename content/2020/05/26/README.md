@@ -94,7 +94,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-toggles (⭐48)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
+*   [vue-toggles (⭐49)](https://github.com/juliandreas/vue-toggles) - A highly customizable and accessible toggle component
 
 ---
 

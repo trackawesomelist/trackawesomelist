@@ -70,7 +70,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-marquee (⭐667)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
+*   [vue3-marquee (⭐679)](https://github.com/megasanjay/vue3-marquee) - A simple and responsive marquee component for Vue 3 applications with 0 dependencies.
 
 ## [9. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 

@@ -72,7 +72,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [mdsf (⭐28)](https://github.com/hougesen/mdsf) — Format markdown code blocks using your favorite code formatters.
+*   [mdsf (⭐33)](https://github.com/hougesen/mdsf) — Format markdown code blocks using your favorite code formatters.
 
 ---
 

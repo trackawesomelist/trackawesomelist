@@ -372,7 +372,7 @@
 
 ## [28. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### GTFS Realtime Convertors / Ruby
+### GTFS Realtime Convertors / Rust
 
 *   [Transloc API to GTFS-realtime (⭐2)](https://github.com/jonathonwpowell/transloc-to-gtfs-real-time) - A Node.js based tool to convert the Transloc API to GTFS-realtime.
 
@@ -386,7 +386,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Vue Expenses (⭐235)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
+*   [Vue Expenses (⭐236)](https://github.com/simplyvinay/vue-expenses) - Expense tracking app made with Vue.js, Vuetify and ASP.NET Core
 
 ## [31. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 

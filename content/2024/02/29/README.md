@@ -32,7 +32,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [@tomjs/vite-plugin-electron (⭐5)](https://github.com/tomjs/vite-plugin-electron) - Easily develop `Electron` applications.
+*   [@tomjs/vite-plugin-electron (⭐6)](https://github.com/tomjs/vite-plugin-electron) - Easily develop `Electron` applications.
 
 ### Drupal / Community
 

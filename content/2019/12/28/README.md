@@ -216,7 +216,6 @@
 *   [stathat.com](https://www.stathat.com/) — Get started with ten stats for free, no expiration
 *   [statuscake.com](https://www.statuscake.com/) — Website monitoring, unlimited tests free with limitations
 *   [thousandeyes.com](https://www.thousandeyes.com/) — Network and user experience monitoring. 3 locations and 20 data feeds of major web services free
-*   [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
 
 ### Crash and Exception Handling
 

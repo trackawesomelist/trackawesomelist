@@ -60,7 +60,7 @@
 
 ### Tools / Templates & Starter Kits
 
-*   [State Design System (DSFR) starter (⭐36)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
+*   [State Design System (DSFR) starter (⭐40)](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
 
 ## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [Godot Spin Button (⭐76)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options.
+*   [Godot Spin Button (⭐77)](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options.
 
 ---
 

@@ -20,7 +20,7 @@
 
 ### Miscellaneous
 
-*   [svelte-copyright (⭐16)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
+*   [svelte-copyright (⭐17)](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
 
 ## [3. Public Apis](/content/public-apis/public-apis/README.md)
 

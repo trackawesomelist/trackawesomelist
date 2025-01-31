@@ -102,11 +102,11 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [QuestSystem (⭐307)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
+*   [QuestSystem (⭐313)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
 
 ### Modules / Godot 4
 
-*   [Keyring (⭐4)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
+*   [Keyring (⭐6)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

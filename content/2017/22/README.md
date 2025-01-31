@@ -237,7 +237,7 @@
 
 ### Apps / Customer experience
 
-*   [Wagtail Personalisation (⭐120)](https://github.com/LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
+*   [Wagtail Personalisation (⭐124)](https://github.com/LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
 
 ## [18. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -461,7 +461,7 @@
 
 ### Frameworks
 
-*   [Fungus (⭐1.2k)](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
+*   [Fungus (⭐1.7k)](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
 
 ## [26. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 

@@ -117,7 +117,7 @@
 
 ### Utilities
 
-*   [UniRx (⭐6.1k)](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
+*   [UniRx (⭐7.1k)](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
 
 ## [8. Github Cheat Sheet](/content/tiimgreen/github-cheat-sheet/week/README.md)
 

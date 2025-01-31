@@ -85,7 +85,7 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [Ridiculous Coding (⭐890)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous.
+*   [Ridiculous Coding (⭐894)](https://github.com/jotson/ridiculous_coding) - Makes your coding experience in Godot 1000× more ridiculous.
 
 ### Modules / Godot 3
 

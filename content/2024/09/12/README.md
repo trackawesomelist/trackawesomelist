@@ -10,7 +10,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-magic-preloader (⭐25)](https://github.com/cszhjh/vite-plugin-magic-preloader) - Generate `<link rel="prefetch" />` or `<link rel="preload" />` tags through magic comments and inject them into `index.html`.
+*   [vite-plugin-magic-preloader (⭐29)](https://github.com/cszhjh/vite-plugin-magic-preloader) - Generate `<link rel="prefetch" />` or `<link rel="preload" />` tags through magic comments and inject them into `index.html`.
 
 ### Framework-agnostic Plugins / Helpers
 

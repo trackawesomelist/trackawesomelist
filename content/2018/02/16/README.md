@@ -51,7 +51,7 @@
 ### Plugins and scripts / Godot version unknown
 
 *   [Easing Script (⭐52)](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
-*   [gdutils (⭐97)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
+*   [gdutils (⭐98)](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
 
 ### Syntax themes / Godot version unknown
 

@@ -67,7 +67,7 @@
 
 ### Tips and Tricks
 
-*   [Unity Labs' Super Science (⭐607)](https://github.com/Unity-Technologies/SuperScience) - Gems of Unity Labs for user education.
+*   [Unity Labs' Super Science (⭐722)](https://github.com/Unity-Technologies/SuperScience) - Gems of Unity Labs for user education.
 
 ## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 

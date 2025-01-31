@@ -58,7 +58,7 @@
 
 ### Utilities
 
-*   [Consolation (⭐710)](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
+*   [Consolation (⭐870)](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
 
 ## [7. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -351,11 +351,11 @@
 
 ### Apps / Settings management
 
-*   [Wagtail-Flags (⭐83)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
+*   [Wagtail-Flags (⭐84)](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
 
 ### Apps / Content Management
 
-*   [Wagtail Sharing (⭐53)](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
+*   [Wagtail Sharing (⭐54)](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
 
 ### Resources / Articles
 

@@ -232,7 +232,7 @@ git log --graph --decorate --oneline $(git rev-list --walk-reflogs --all)
 
 ## [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### GTFS Timetable Publishing Tools / Ruby
+### GTFS Timetable Publishing Tools / Rust
 
 *   [TimeTablePublisher (TTPUB) (⭐26)](https://github.com/OpenTransitTools/ttpub) - A web publishing system developed by TriMet that allows a transit agency to examine, modify, and transform raw scheduling data into easy-to-read timetables for customer information purposes
 

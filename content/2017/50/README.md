@@ -72,7 +72,7 @@
 
 ### Games
 
-*   [Nodulus (⭐346)](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
+*   [Nodulus (⭐549)](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
 
 ## [9. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 

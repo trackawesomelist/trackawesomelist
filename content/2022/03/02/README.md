@@ -10,7 +10,7 @@
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [autotyping (⭐244)](https://github.com/JelleZijlstra/autotyping) - Automatically add simple return type annotations for functions (bool, None, Optional).
+*   [autotyping (⭐251)](https://github.com/JelleZijlstra/autotyping) - Automatically add simple return type annotations for functions (bool, None, Optional).
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 

@@ -199,7 +199,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [Simplified Flight Simulation library (⭐200)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator. *(Godot 3 and 4)*
+*   [Simplified Flight Simulation library (⭐203)](https://github.com/fbcosentino/godot-simplified-flightsim) - A library that helps you create a simple airplane/helicopter/spaceship flight simulator. *(Godot 3 and 4)*
 
 ## [12. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

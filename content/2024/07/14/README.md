@@ -16,7 +16,7 @@
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [keen-slider (⭐4.7k)](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
+*   [keen-slider (⭐4.8k)](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
 
 ## [3. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

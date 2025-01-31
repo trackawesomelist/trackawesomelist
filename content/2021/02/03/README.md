@@ -155,8 +155,8 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [2D Destructible Objects (⭐397)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥.
-*   [CRT Shader (⭐305)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters.
+*   [2D Destructible Objects (⭐399)](https://github.com/hiulit/Godot-3-2D-Destructible-Objects) - A script that takes a sprite, divides it into blocks and makes them explode💥.
+*   [CRT Shader (⭐307)](https://github.com/hiulit/Godot-3-2D-CRT-Shader) - A Godot shader that simulates CRT Displays with many shader parameters.
 
 ### Other / Godot version unknown
 

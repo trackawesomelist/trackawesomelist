@@ -71,28 +71,25 @@
 
 ### Web Development
 
-*   [Laravel Developer Roadmap (⭐680)](https://github.com/Hasnayeen/laravel-developer-roadmap) - Roadmap to becoming an Laravel developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://github.com/Hasnayeen/laravel-developer-roadmap).
+*   [Laravel Developer Roadmap (⭐723)](https://github.com/Hasnayeen/laravel-developer-roadmap) - Roadmap to becoming an Laravel developer in 2024 [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/Hasnayeen/laravel-developer-roadmap).
 
 ### Mobile Development
 
-*   [Flutter Developer Roadmap (⭐5.3k)](https://github.com/olexale/flutter_roadmap) - Roadmap for creating hybrid apps using Google's Flutter SDK.
+*   [Flutter Developer Roadmap (⭐5.6k)](https://github.com/olexale/flutter_roadmap) - Roadmap for creating hybrid apps using Google's Flutter SDK [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/olexale/flutter_roadmap).
 
 ### Game Development
 
-*   [Game Programming Roadmap (⭐17k)](https://github.com/miloyip/game-programmer) - Roadmap to becoming a game programmer.
+*   [Game Programming Roadmap (⭐18k)](https://github.com/miloyip/game-programmer) - Roadmap to becoming a game programmer [<img src="https://img.shields.io/badge/Roadmap-2019-yellow.svg">](https://github.com/miloyip/game-programmer).
 
 ### AI / Machine Learning / Data Science
 
-*   [Deep Learning Reading Roadmap (⭐38k)](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap through seminal deep learning papers.
-*   [Deep Learning Roadmap (⭐4.6k)](https://github.com/machinelearningmindset/deep-learning-roadmap) - Roadmap to getting started with deep learning.
-*   [Data Scientist Roadmap (⭐615)](https://github.com/hasbrain/data-science-roadmap) - Roadmap to becoming a data scientist.
-*   [Data scientist Roadmap 2 (⭐6.9k)](https://github.com/MrMimic/data-scientist-roadmap) - Roadmap of tutorials for those interested in data science.
+*   [Deep Learning Reading Roadmap (⭐39k)](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) - Roadmap through seminal deep learning papers [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap).
 
 ### Miscellaneous
 
-*   [Hacker Roadmap (⭐13k)](https://github.com/Sundowndev/hacker-roadmap) - Roadmap for amateur pen testers and a collection of hacking tools, resources and references.
-*   [Software Architect Roadmap (⭐1k)](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect.
-*   [Software Design and Architecture Roadmap (⭐3.2k)](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer.
+*   [Hacker Roadmap (⭐14k)](https://github.com/Sundowndev/hacker-roadmap) - Roadmap for amateur pen testers and a collection of hacking tools, resources and references [<img src="https://img.shields.io/badge/Roadmap-2023-yellow.svg">](https://github.com/Sundowndev/hacker-roadmap)❗.
+*   [Software Architect Roadmap (⭐1.1k)](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect [<img src="https://img.shields.io/badge/Roadmap-2018-yellow.svg">](https://github.com/AlaaAttya/software-architect-roadmap).
+*   [Software Design and Architecture Roadmap (⭐3.3k)](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer [<img src="https://img.shields.io/badge/Roadmap-2019-yellow.svg">](https://github.com/stemmlerjs/software-design-and-architecture-roadmap).
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

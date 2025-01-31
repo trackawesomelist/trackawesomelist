@@ -41,7 +41,7 @@
 
 ### Static type checkers
 
-*   [basedpyright (⭐1.3k)](https://github.com/detachhead/basedpyright) - Pyright fork with improvements to VSCode support and various other fixes.
+*   [basedpyright (⭐1.5k)](https://github.com/detachhead/basedpyright) - Pyright fork with improvements to VSCode support and various other fixes.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
@@ -101,7 +101,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [LimboAI (⭐1.3k)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
+*   [LimboAI (⭐1.4k)](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 
 ## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
@@ -142,7 +142,7 @@
 
 ### Gems / Other external resources
 
-*   [rabarber (⭐101)](https://github.com/enjaku4/rabarber) - A gem to handle role-based authorization. [:red\_circle:](https://rubygems.org/gems/rabarber)
+*   [rabarber (⭐102)](https://github.com/enjaku4/rabarber) - A gem to handle role-based authorization. [:red\_circle:](https://rubygems.org/gems/rabarber)
 
 ---
 

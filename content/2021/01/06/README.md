@@ -95,7 +95,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [@vueform/toggle (⭐112)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
+*   [@vueform/toggle (⭐113)](https://github.com/vueform/toggle) - Vue 3 toggle component with labels, custom slots and styling options.
 
 ## [10. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

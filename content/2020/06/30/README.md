@@ -74,7 +74,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-final-modal (⭐947)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
+*   [vue-final-modal (⭐952)](https://github.com/hunterliu1003/vue-final-modal) Tailwind-friendly, highly customizable, stackable modal component.
 
 ## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 

@@ -51,8 +51,8 @@
 
 ### Templates / Vanilla
 
-*   [template-vite (⭐88)](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
-*   [template-vite-ts (⭐119)](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
+*   [template-vite (⭐89)](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
+*   [template-vite-ts (⭐122)](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
 *   [vite-ts-bulma-sass-template (⭐2)](https://github.com/naoki-00-ito/vite-ts-bulma-sass-template) - Starter template `TypeScript`, `Bulma`, `Sass`, `Stylelint`, `Biome`.
 
 ### Tauri / F# and Fable
@@ -61,11 +61,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [module-federation/vite (⭐360)](https://github.com/module-federation/vite) - Official Module Federation integration, enabling dynamic remote module loading.
+*   [module-federation/vite (⭐369)](https://github.com/module-federation/vite) - Official Module Federation integration, enabling dynamic remote module loading.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [@responsive-image/vite-plugin (⭐123)](https://github.com/simonihmig/responsive-image) - Transform and generate optimized responsive images (WebP, AVIF) and LQIP placeholders for use with image components.
+*   [@responsive-image/vite-plugin (⭐131)](https://github.com/simonihmig/responsive-image) - Transform and generate optimized responsive images (WebP, AVIF) and LQIP placeholders for use with image components.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -73,7 +73,7 @@
 
 ### Framework-agnostic Plugins / Security
 
-*   [vite-plugin-csp (⭐0)](https://github.com/maccuaa/vite-plugin-csp) - Content Security Policy (CSP) for SPA. Automatically calculates asset hashes (SRI), detects Google Fonts. Support `Bun` and `Node.js` runtimes.
+*   [vite-plugin-csp (⭐1)](https://github.com/maccuaa/vite-plugin-csp) - Content Security Policy (CSP) for SPA. Automatically calculates asset hashes (SRI), detects Google Fonts. Support `Bun` and `Node.js` runtimes.
 
 ## [6. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Search / Diagnostics
 
-*   [wurli/visimatch.nvim (⭐38)](https://github.com/wurli/visimatch.nvim) - Adds highlights to any text matching the current selection in visual mode.
+*   [wurli/visimatch.nvim (⭐42)](https://github.com/wurli/visimatch.nvim) - Adds highlights to any text matching the current selection in visual mode.
 
 ### Project / Diagnostics
 
@@ -104,7 +104,7 @@
 
 ### Bars and Lines / Diagnostics
 
-*   [mawkler/hml.nvim (⭐19)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
+*   [mawkler/hml.nvim (⭐20)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
 
 ### Cursorline / Diagnostics
 
@@ -116,7 +116,7 @@
 
 ### Utility / Diagnostics
 
-*   [philosofonusus/ecolog.nvim (⭐109)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
+*   [philosofonusus/ecolog.nvim (⭐114)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
 
 ### Terminal Integration / Diagnostics
 
@@ -124,13 +124,13 @@
 
 ### Editing Support / Diagnostics
 
-*   [wurli/split.nvim (⭐16)](https://github.com/wurli/split.nvim) - Provides a mapping to split text by delimiter, giving an inverse of the native J command.
+*   [wurli/split.nvim (⭐20)](https://github.com/wurli/split.nvim) - Provides a mapping to split text by delimiter, giving an inverse of the native J command.
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-segment-analytics (⭐21)](https://github.com/opendecide/ngx-segment-analytics) - Provides an API for [Segment (⭐421)](https://github.com/segmentio/analytics-next/).
+*   [ngx-segment-analytics (⭐21)](https://github.com/opendecide/ngx-segment-analytics) - Provides an API for [Segment (⭐425)](https://github.com/segmentio/analytics-next/).
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -142,7 +142,7 @@
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@rainerhahnekamp/angular-starter (⭐8)](https://github.com/rainerhahnekamp/angular-starter) - A starter project for a modern Angular 19 application.
+*   [@rainerhahnekamp/angular-starter (⭐39)](https://github.com/rainerhahnekamp/angular-starter) - A starter project for a modern Angular 19 application.
 *   [BoilerPlate-FirebaseAngular (⭐1)](https://github.com/Yewo-Devs/BoilerPlate-FirebaseAngular) - Starting point for apps built using .NET, Angular, and Firebase.
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -151,7 +151,7 @@
 
 ### Cookies / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-cookie-ssr (⭐1)](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
+*   [ngx-cookie-ssr (⭐2)](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

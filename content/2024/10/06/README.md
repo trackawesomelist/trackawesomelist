@@ -41,7 +41,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [Shaker (⭐284)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
+*   [Shaker (⭐296)](https://github.com/Eneskp3441/Shaker) - Plugin that adds shaking and emitters for cameras, nodes or any property in 2D and 3D.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [luacheck (⭐372)](https://github.com/lunarmodules/luacheck) — A tool for linting and static analysis of Lua code.
+*   [luacheck (⭐379)](https://github.com/lunarmodules/luacheck) — A tool for linting and static analysis of Lua code.
 
 ## [3. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 

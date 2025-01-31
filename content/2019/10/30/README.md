@@ -70,7 +70,7 @@
 
 ### Apps / Widgets
 
-*   [wagtail-leaflet-widget (⭐22)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
+*   [wagtail-leaflet-widget (⭐23)](https://github.com/icpac-igad/wagtail-leaflet-widget) - A Leaflet JS - OSM based wagtail geo-location widget.
 
 ## [10. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 

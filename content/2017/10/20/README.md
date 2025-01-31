@@ -35,7 +35,7 @@
 
 ### Apps / Rich text editor extensions
 
-*   [WagtailDraftail (⭐24)](https://github.com/springload/wagtaildraftail) – Draft.js editor for Wagtail, built upon [Draftail (⭐613)](https://github.com/springload/draftail) and [draftjs\_exporter (⭐81)](https://github.com/springload/draftjs_exporter).
+*   [WagtailDraftail (⭐24)](https://github.com/springload/wagtaildraftail) – Draft.js editor for Wagtail, built upon [Draftail (⭐619)](https://github.com/springload/draftail) and [draftjs\_exporter (⭐84)](https://github.com/springload/draftjs_exporter).
 
 ### Resources / Lists
 
@@ -43,7 +43,7 @@
 
 ### Open-source sites / Lists
 
-*   [bakerydemo (⭐952)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
+*   [bakerydemo (⭐985)](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
 *   [wagtaildemo (⭐285)](https://github.com/wagtail/wagtaildemo) – An example site implemented with Wagtail.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)

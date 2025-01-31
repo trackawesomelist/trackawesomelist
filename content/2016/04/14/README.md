@@ -72,7 +72,7 @@
 
 ### Input
 
-*   [TouchScript (⭐1.5k)](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
+*   [TouchScript (⭐1.7k)](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
 
 ## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

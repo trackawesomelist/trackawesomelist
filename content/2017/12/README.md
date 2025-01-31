@@ -170,7 +170,7 @@
 
 ### Apps / E-commerce
 
-*   [longclaw (⭐394)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
+*   [longclaw (⭐397)](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 
 ### Apps / Misc
 

@@ -103,7 +103,7 @@
 
 ## [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Converters / Ruby
+### GTFS Converters / Rust
 
 *   [gtfs2emis (⭐28)](https://github.com/ipeaGIT/gtfs2emis) - An R package to estimate the emission levels of public transport vehicles based on General Transit Feed Specification (GTFS) data.
 

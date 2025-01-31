@@ -76,10 +76,6 @@
 
 *   [dict (⭐45)](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go.
 
-### Miscellaneous Data Structures and Algorithms
-
-*   [slices (⭐17)](https://github.com/srfrog/slices) - Functions that operate on slices; like `package strings` but adapted to work with slices.
-
 ### Nullable Types
 
 *   [nan (⭐85)](https://github.com/kak-tus/nan) - Zero allocation Nullable structures in one library with handy conversion functions, marshallers and unmarshallers.

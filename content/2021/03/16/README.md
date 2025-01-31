@@ -21,7 +21,7 @@
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Analysis Tools / Ruby
+### GTFS Analysis Tools / Rust
 
 *   [ESRI ArcGIS Public Transit Tools (GTFS) (⭐175)](https://github.com/Esri/public-transit-tools) - Tools for working with public transit data in ArcGIS
 

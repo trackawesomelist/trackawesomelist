@@ -36,7 +36,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [FAE (⭐849)](https://github.com/wearefine/fae/) - A modern CMS developed by FINE (using Rails 5.2)
+*   [FAE (⭐850)](https://github.com/wearefine/fae/) - A modern CMS developed by FINE (using Rails 5.2)
 
 ## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

@@ -56,7 +56,7 @@
 
 ### Software Development
 
-*   [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** \[01:02:52]
+*   [Seven Ineffective Coding Habits of Many Programmers](https://vimeo.com/97329157) by **Kevlin Henney** (NDC 2014) \[01:02:52]
 
 ### Web Development
 

@@ -10,7 +10,7 @@
 
 ### Utilities
 
-*   [UnityToolbag (⭐1.6k)](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
+*   [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

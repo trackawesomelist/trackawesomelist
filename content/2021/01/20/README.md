@@ -26,17 +26,17 @@
 
 ### Modules / Godot 4
 
-*   [Entity Spell System (⭐157)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs. *(Godot 3 and 4)*
+*   [Entity Spell System (⭐161)](https://github.com/Relintai/entity_spell_system) - An entity and spell system for complex (optionally multiplayer) RPGs. *(Godot 3 and 4)*
 
 ### Modules / Godot 3
 
-*   [FMOD Integration (⭐177)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
+*   [FMOD Integration (⭐178)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
 *   [Gdnet for Godot 3 (⭐127)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 *   [godot-apple-id (⭐34)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
 *   [godotcord (⭐53)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
 *   [godot-python (⭐1.9k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
-*   [Godot-Slicer (⭐115)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.9k)](https://github.com/DavidArayan/ezy-slice) for Godot.
-*   [Goost (⭐487)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
+*   [Godot-Slicer (⭐116)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.9k)](https://github.com/DavidArayan/ezy-slice) for Godot.
+*   [Goost (⭐489)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 *   [PortAudio (⭐18)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 
 ### Modules / Godot version unknown
@@ -58,7 +58,7 @@
 
 ### Other / Godot version unknown
 
-*   [gd2cs.py (⭐92)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
+*   [gd2cs.py (⭐93)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 
 ## [4. Awesome Meteor](/content/Urigo/awesome-meteor/README.md)
 

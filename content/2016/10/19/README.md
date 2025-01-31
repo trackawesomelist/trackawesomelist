@@ -159,7 +159,7 @@
 
 ### Apps / Blogging/news
 
-*   [wagtailnews (⭐74)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
+*   [wagtailnews (⭐75)](https://github.com/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
 
 ## [18. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

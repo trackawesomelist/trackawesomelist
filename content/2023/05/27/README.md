@@ -10,7 +10,7 @@
 
 ### Tools / Services
 
-*   [Gorilla (⭐11k)](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
+*   [Gorilla (⭐12k)](https://github.com/ShishirPatil/gorilla): An API store for LLMs ![GitHub Repo stars](https://img.shields.io/github/stars/ShishirPatil/gorilla?style=social)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

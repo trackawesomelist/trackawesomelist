@@ -20,7 +20,7 @@
 
 ### Projects / Godot 4
 
-*   [Lorien (⭐5.6k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
+*   [Lorien (⭐5.7k)](https://github.com/mbrlabs/Lorien) - Infinite-canvas drawing/whiteboarding app for Windows, Linux and macOS. Supports drawing tablets and pressure sensitivity.
 
 ## [3. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 

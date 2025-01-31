@@ -33,7 +33,7 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [Godot Gif Getter (⭐40)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
+*   [Godot Gif Getter (⭐41)](https://github.com/you-win/godot-gif-getter) - An in-game utility for recording and saving GIFs (written in GDNative Rust).
 
 ## [4. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

@@ -32,7 +32,7 @@
 ### Community
 
 *   [Angular Discord Channel](https://discord.com/invite/angular)
-*   [angular-memes (⭐35)](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
+*   [angular-memes (⭐36)](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

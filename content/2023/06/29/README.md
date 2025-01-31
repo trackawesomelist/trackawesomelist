@@ -55,7 +55,7 @@
 
 ### Open Source Projects / Knowledge Management
 
-*   [ChatFiles (⭐3.2k)](https://github.com/guangzhengli/ChatFiles): Upload your document and then chat with it. Powered by GPT / Embedding / TS / NextJS. ![GitHub Repo stars](https://img.shields.io/github/stars/guangzhengli/ChatFiles?style=social)
+*   [ChatFiles (⭐3.3k)](https://github.com/guangzhengli/ChatFiles): Upload your document and then chat with it. Powered by GPT / Embedding / TS / NextJS. ![GitHub Repo stars](https://img.shields.io/github/stars/guangzhengli/ChatFiles?style=social)
 
 ## [8. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 

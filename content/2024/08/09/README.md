@@ -26,7 +26,7 @@
 
 ### Software Development
 
-*   [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** \[01:02:41]
+*   [Preventing the Collapse of Civilization](https://www.youtube.com/watch?v=ZSRHeXYDLko) by **Jonathan Blow** (DevGAMM 2019) \[01:02:41]
 
 ## [4. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

@@ -47,7 +47,7 @@
 ### Programming Languages / [Other](#other-1)
 
 *   [CodeDepends (⭐89)](https://github.com/duncantl/CodeDepends) :warning: — Static Code Analysis for R.
-*   [R Language Server (⭐599)](https://github.com/REditorSupport/languageserver/) — Provides code completion, refactoring, folding, diagnostics (with lintr), and more for R.
+*   [R Language Server (⭐599)](https://github.com/REditorSupport/languageserver/) :warning: — Provides code completion, refactoring, folding, diagnostics (with lintr), and more for R.
 
 ---
 

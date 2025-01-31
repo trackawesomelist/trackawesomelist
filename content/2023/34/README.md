@@ -505,7 +505,7 @@ Topics: Containers, Azure, Kubernetes, Rust, Wasm\
 ### Other LLM Frameworks / Videos Playlists
 
 *   [SimpleAIChat (⭐3.5k)](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity. ![GitHub Repo stars](https://img.shields.io/github/stars/minimaxir/simpleaichat?style=social)
-*   [LLMStack (⭐1.4k)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data. ![GitHub Repo stars](https://img.shields.io/github/stars/trypromptly/LLMStack?style=social)
+*   [LLMStack (⭐1.8k)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data. ![GitHub Repo stars](https://img.shields.io/github/stars/trypromptly/LLMStack?style=social)
 
 ## [31. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 

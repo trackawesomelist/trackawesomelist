@@ -127,8 +127,8 @@
 
 ### Software Development
 
-*   [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4\&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** \[45:49]
-*   [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** \[52:43]
+*   [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4\&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** (Strange Loop 2014) \[45:49]
+*   [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** (Clojure/Conf 2013) \[52:43]
 
 ### Methodologies
 

@@ -122,7 +122,7 @@
 
 ### Open Source / Community
 
-*   [Slidev (⭐34k)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
+*   [Slidev (⭐35k)](https://github.com/slidevjs/slidev) - Presentation Slides for Developers.
 
 ## [12. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
 

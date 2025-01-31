@@ -50,7 +50,7 @@
 
 ### Contents / Finance
 
-*   [Currency Alarm (⭐4)](https://github.com/shurygindv/currency-alarm) - Let you know when the rate (USD, EUR, RUB) completely achieves the set level by [Daniil Shurygin](https://github.com/shurygindv)
+*   [Currency Alarm (⭐5)](https://github.com/shurygindv/currency-alarm) - Let you know when the rate (USD, EUR, RUB) completely achieves the set level by [Daniil Shurygin](https://github.com/shurygindv)
 
 ---
 

@@ -350,7 +350,7 @@
 
 ### Utilities
 
-*   [Scene View Bookmarks (⭐65)](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views.
+*   [Scene View Bookmarks (⭐102)](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views.
 
 ## [40. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 

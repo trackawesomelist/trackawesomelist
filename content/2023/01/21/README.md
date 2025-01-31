@@ -140,11 +140,11 @@
 
 ### Miscellaneous
 
-*   [svelte-splitpanes (⭐398)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels.
+*   [svelte-splitpanes (⭐409)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels.
 
 ### Forms
 
-*   [svelte-form-builder (⭐70)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+*   [svelte-form-builder (⭐71)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
 
 ## [13. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

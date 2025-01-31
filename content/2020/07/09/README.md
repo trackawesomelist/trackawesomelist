@@ -68,7 +68,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-img-cutter (⭐502)](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
+*   [vue-img-cutter (⭐504)](https://github.com/acccccccb/vue-img-cutter) - A vue plugin for image cutting tool,it's very convenient to use.
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

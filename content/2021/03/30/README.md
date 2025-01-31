@@ -73,7 +73,7 @@
 
 ### Contents / Finance
 
-*   [BudgetBudy (⭐25)](https://github.com/Mufaddal5253110/BudgetBudy) - Budget Budy is the easiest and most user friendly expense manager app by [Mufaddal Shakir](https://github.com/Mufaddal5253110)
+*   [BudgetBudy (⭐33)](https://github.com/Mufaddal5253110/BudgetBudy) - Budget Budy is the easiest and most user friendly expense manager app by [Mufaddal Shakir](https://github.com/Mufaddal5253110)
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 

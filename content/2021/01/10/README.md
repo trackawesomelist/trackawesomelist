@@ -149,7 +149,7 @@
 
 ### Software Development
 
-*   [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=CnquVcxvAl0) by **Paolo Perrotta** \[36:35]
+*   [A short history of Software Engineering, and other ideas that didn't work](https://www.youtube.com/watch?v=CnquVcxvAl0) by **Paolo Perrotta** (Barcelona Ruby Conference 2020) \[36:35]
 
 ## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 

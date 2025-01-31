@@ -132,7 +132,7 @@ git push origin HEAD
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lazyload (⭐36)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
+*   [vue3-lazyload (⭐37)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
 
 ## [12. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 

@@ -452,7 +452,7 @@
 
 ### Open Source / Community
 
-*   [Astro (⭐48k)](https://github.com/withastro/astro) - Modern Static Site Builder.
+*   [Astro (⭐49k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 
 ## [14. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

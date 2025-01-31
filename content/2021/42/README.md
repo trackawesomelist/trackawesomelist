@@ -1961,7 +1961,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-icomoon (⭐28)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
+*   [vue-icomoon (⭐29)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
 *   [vue-mars3d (⭐57)](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 
 ## [53. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)

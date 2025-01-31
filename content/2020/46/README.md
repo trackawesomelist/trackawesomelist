@@ -999,7 +999,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [object-visualizer (⭐223)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
+*   [object-visualizer (⭐224)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
 
 ## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
@@ -1220,7 +1220,7 @@
 
 ### Resources / Recipes
 
-*   [Serafeim's Wagtail FAQ (⭐41)](https://github.com/spapas/wagtail-faq) - Answers and recipes for Wagtail
+*   [Serafeim's Wagtail FAQ (⭐42)](https://github.com/spapas/wagtail-faq) - Answers and recipes for Wagtail
 
 ## [40. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 

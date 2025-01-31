@@ -130,7 +130,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-stripe-js (⭐150)](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
+*   [vue-stripe-js (⭐153)](https://github.com/ectoflow/vue-stripe-js) - Vue 3 components for Stripe.js
 
 ---
 

@@ -63,7 +63,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [vuesion (⭐2.8k)](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
+*   [vuesion (⭐2.9k)](https://github.com/vuesion/vuesion) - Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.
 
 ## [8. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/README.md)
 

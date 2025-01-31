@@ -175,7 +175,7 @@
 
 ### Utilities
 
-*   [UnityToolbag (⭐1.6k)](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
+*   [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
 
 ## [8. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 

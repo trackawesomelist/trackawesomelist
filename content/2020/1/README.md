@@ -350,7 +350,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail Resume (⭐91)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
+*   [Wagtail Resume (⭐93)](https://github.com/adinhodovic/wagtail-resume) – A Wagtail project made to simplify creation of resumes for developers.
 
 ## [37. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 

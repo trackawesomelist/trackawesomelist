@@ -349,7 +349,7 @@
 
 ### Stub packages
 
-*   [scipy-stubs (⭐24)](https://github.com/jorenham/scipy-stubs) - Stubs for [SciPy (⭐13k)](https://github.com/scipy/scipy).
+*   [scipy-stubs (⭐33)](https://github.com/jorenham/scipy-stubs) - Stubs for [SciPy (⭐13k)](https://github.com/scipy/scipy).
 
 ## [21. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -554,12 +554,12 @@
 
 ### Contents / Education
 
-*   [Neumorphic Calculator (⭐17)](https://github.com/mllrr96/Neumorphic-Calculator) -  Elegant and highly customizable calculator app with a beautiful neumorphic design by [Mohammed Ragheb](https://github.com/mllrr96)
-*   [Flutter animations (⭐4)](https://github.com/AyanDas-99/Flutter-animations) - A sample app to learn basic to advanced flutter animations by [Ayan Das](https://github.com/AyanDas-99).
+*   [Neumorphic Calculator (⭐26)](https://github.com/mllrr96/Neumorphic-Calculator) -  Elegant and highly customizable calculator app with a beautiful neumorphic design by [Mohammed Ragheb](https://github.com/mllrr96)
+*   [Flutter animations (⭐5)](https://github.com/AyanDas-99/Flutter-animations) - A sample app to learn basic to advanced flutter animations by [Ayan Das](https://github.com/AyanDas-99).
 
 ### Contents / Health and Fitness
 
-*   [Calm Attack (⭐1)](https://github.com/FatoomRe/Calm-Attack) - An app that help to manage panic attacks. Provides a range of exercises and techniques to help users calm their mind and body during anxiety moments. by [FatoomRe](https://github.com/FatoomRe).
+*   [Calm Attack (⭐7)](https://github.com/FatoomRe/Calm-Attack) - An app that help to manage panic attacks. Provides a range of exercises and techniques to help users calm their mind and body during anxiety moments. by [FatoomRe](https://github.com/FatoomRe).
 
 ## [29. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -575,7 +575,7 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-magic-preloader (⭐25)](https://github.com/cszhjh/vite-plugin-magic-preloader) - Generate `<link rel="prefetch" />` or `<link rel="preload" />` tags through magic comments and inject them into `index.html`.
+*   [vite-plugin-magic-preloader (⭐29)](https://github.com/cszhjh/vite-plugin-magic-preloader) - Generate `<link rel="prefetch" />` or `<link rel="preload" />` tags through magic comments and inject them into `index.html`.
 
 ### Framework-agnostic Plugins / Helpers
 
@@ -693,12 +693,12 @@
 
 ### Tooltips / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-popovers (⭐12)](https://github.com/al-march/ngx-popovers) - An Angular library based on [Floating UI](https://floating-ui.com/) with already ready-made components to use.
+*   [ngx-popovers (⭐13)](https://github.com/al-march/ngx-popovers) - An Angular library based on [Floating UI](https://floating-ui.com/) with already ready-made components to use.
 
 ### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-exhaustive-check (⭐4)](https://github.com/soc221b/ngx-exhaustive-check) - Angular utility for ensuring exhaustive checks on TypeScript discriminated unions, enhancing type safety and reliability.
-*   [mutates (⭐17)](https://github.com/IKatsuba/mutates) - A powerful toolset for mutating the Abstract Syntax Tree (AST) of TypeScript files. It is a fork of [ng-morph (⭐156)](https://github.com/taiga-family/ng-morph), with a broader focus beyond Angular-specific transformations, allowing for extensive AST modifications in any TypeScript project.
+*   [mutates (⭐18)](https://github.com/IKatsuba/mutates) - A powerful toolset for mutating the Abstract Syntax Tree (AST) of TypeScript files. It is a fork of [ng-morph (⭐157)](https://github.com/taiga-family/ng-morph), with a broader focus beyond Angular-specific transformations, allowing for extensive AST modifications in any TypeScript project.
 
 ---
 

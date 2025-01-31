@@ -10,7 +10,7 @@
 
 ### Software / Vector Creation
 
-*   [cozyvec (⭐72)](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
+*   [cozyvec (⭐71)](https://github.com/brubsby/cozyvec) - Web/Standalone terminal environment for plotter art and tweet plots.
 
 ## [2. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

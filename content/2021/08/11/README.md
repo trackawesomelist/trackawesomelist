@@ -16,11 +16,11 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [GdUnit3 (⭐313)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework.
+*   [GdUnit3 (⭐312)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework.
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Validators / Ruby
+### GTFS Validators / Rust
 
 *   [gtfstidy (⭐124)](https://github.com/patrickbr/gtfstidy) - A Go-based tool to tidy and validate GTFS feeds.
 

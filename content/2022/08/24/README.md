@@ -65,7 +65,7 @@
 
 ### Templates / Vanilla
 
-*   [vite-tailwind-stimulus-starter (⭐13)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
+*   [vite-tailwind-stimulus-starter (⭐14)](https://github.com/jeremyfrank/vite-tailwind-stimulus-starter) - Starter template for Tailwind CSS and Stimulus controllers.
 
 ## [7. Awesome Mirth](/content/mga-mirth/awesome-mirth/README.md)
 

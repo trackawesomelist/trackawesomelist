@@ -2,7 +2,7 @@
 
 A curated list of awesome Unity assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RyanNielson/awesome-unity/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) · ⭐ 5.4K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RyanNielson/awesome-unity/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RyanNielson/awesome-unity](https://github.com/RyanNielson/awesome-unity) · ⭐ 6.7K · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/RyanNielson/awesome-unity/week/README.md) / [Overview](/content/RyanNielson/awesome-unity/readme/README.md) ]
 
@@ -35,7 +35,7 @@ A curated list of awesome Unity assets, resources, and more.
 
 ### Networking
 
-*   [Nakama](https://assetstore.unity.com/packages/tools/network/nakama-81338) - Build social and realtime games with an open-source [distributed server (⭐6.4k)](https://github.com/heroiclabs/nakama).
+*   [Nakama](https://assetstore.unity.com/packages/tools/network/nakama-81338) - Build social and realtime games with an open-source [distributed server (⭐9.3k)](https://github.com/heroiclabs/nakama).
 *   [Photon Bolt (Paid)](https://assetstore.unity.com/packages/tools/network/photon-bolt-free-127156) - Build networked games without having to know the details of networking or write any complex networking code.
 *   [Photon Unity Networking](https://assetstore.unity.com/packages/tools/network/photon-unity-networking-classic-free-1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
 
@@ -83,43 +83,43 @@ A curated list of awesome Unity assets, resources, and more.
 
 ### Tips and Tricks
 
-*   [Unity Labs' Super Science (⭐607)](https://github.com/Unity-Technologies/SuperScience) - Gems of Unity Labs for user education.
+*   [Unity Labs' Super Science (⭐722)](https://github.com/Unity-Technologies/SuperScience) - Gems of Unity Labs for user education.
 
 ## [Feb 21, 2019](/content/2019/02/21/README.md)
 
 ### Video
 
-*   [Vimeo Unity SDK (⭐192)](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.
+*   [Vimeo Unity SDK (⭐212)](https://github.com/vimeo/vimeo-unity-sdk) - Easily stream your Vimeo videos into Unity or record and publish out to Vimeo.
 
 ## [May 03, 2018](/content/2018/05/03/README.md)
 
 ### Tweening
 
-*   [GoKit (⭐574)](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple.
+*   [GoKit (⭐586)](https://github.com/prime31/GoKit) - An open source, lightweight tween library aimed at making tweening objects dead simple.
 
 ## [Apr 18, 2018](/content/2018/04/18/README.md)
 
 ### Augmented & Virtual Reality
 
-*   [Virtual Reality Toolkit (⭐3.6k)](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
+*   [Virtual Reality Toolkit (⭐3.7k)](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
 
 ## [Feb 11, 2018](/content/2018/02/11/README.md)
 
 ### AI
 
-*   [Crystal AI (⭐396)](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
+*   [Crystal AI (⭐466)](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
 
 ## [Jan 29, 2018](/content/2018/01/29/README.md)
 
 ### Utilities
 
-*   [Scene View Bookmarks (⭐65)](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views.
+*   [Scene View Bookmarks (⭐102)](https://github.com/mminer/scene-view-bookmarks) - Editor extension to bookmark and later recall scene views.
 
 ## [Dec 15, 2017](/content/2017/12/15/README.md)
 
 ### Games
 
-*   [Nodulus (⭐346)](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
+*   [Nodulus (⭐549)](https://github.com/Hyperparticle/nodulus) - A complete puzzle game with a clever twist. Play it online.
 
 ## [Sep 02, 2017](/content/2017/09/02/README.md)
 
@@ -141,7 +141,7 @@ A curated list of awesome Unity assets, resources, and more.
 
 ### Frameworks
 
-*   [Fungus (⭐1.2k)](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
+*   [Fungus (⭐1.7k)](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
 
 ## [May 03, 2017](/content/2017/05/03/README.md)
 
@@ -152,13 +152,13 @@ A curated list of awesome Unity assets, resources, and more.
 
 ### Character Controllers
 
-*   [CharacterController2D (⭐979)](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
+*   [CharacterController2D (⭐1.1k)](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
 
 ## [Mar 04, 2017](/content/2017/03/04/README.md)
 
 ### Utilities
 
-*   [Consolation (⭐710)](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
+*   [Consolation (⭐870)](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
 
 ## [Feb 11, 2017](/content/2017/02/11/README.md)
 
@@ -170,7 +170,7 @@ A curated list of awesome Unity assets, resources, and more.
 
 ### 2D
 
-*   [UnityTiled (⭐82)](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
+*   [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
 
 ## [Jun 07, 2016](/content/2016/06/07/README.md)
 
@@ -188,7 +188,7 @@ A curated list of awesome Unity assets, resources, and more.
 
 ### Input
 
-*   [TouchScript (⭐1.5k)](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
+*   [TouchScript (⭐1.7k)](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
 
 ## [Mar 28, 2016](/content/2016/03/28/README.md)
 
@@ -212,7 +212,7 @@ A curated list of awesome Unity assets, resources, and more.
 
 ### 2D
 
-*   [Pixel Camera 2D (⭐469)](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
+*   [Pixel Camera 2D (⭐503)](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
 
 ## [Jun 21, 2015](/content/2015/06/21/README.md)
 
@@ -224,7 +224,7 @@ A curated list of awesome Unity assets, resources, and more.
 
 ### Utilities
 
-*   [UniRx (⭐6.1k)](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
+*   [UniRx (⭐7.1k)](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
 
 ## [May 30, 2015](/content/2015/05/30/README.md)
 
@@ -238,21 +238,21 @@ A curated list of awesome Unity assets, resources, and more.
 
 ### Input
 
-*   [InControl (⭐683)](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
-*   [InputBinder (⭐73)](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
-*   [TouchKit (⭐880)](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
+*   [InControl (⭐694)](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
+*   [InputBinder (⭐76)](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
+*   [TouchKit (⭐907)](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
 
 ## [Mar 24, 2015](/content/2015/03/24/README.md)
 
 ### Utilities
 
-*   [UnityToolbag (⭐1.6k)](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
+*   [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
 
 ## [Mar 08, 2015](/content/2015/03/08/README.md)
 
 ### Tutorials
 
-*   [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/\~amitp/gameprog.html) - An great collection of general purpose game programming content.
+*   [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - An great collection of general purpose game programming content.
 
 ## [Nov 04, 2014](/content/2014/11/04/README.md)
 

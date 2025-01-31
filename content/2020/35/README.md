@@ -230,7 +230,7 @@
 ### GDScript/C# editor support / Godot version unknown
 
 *   [Emacs (⭐323)](https://github.com/godotengine/emacs-gdscript-mode) - Syntax highlighting, code folding, indentation and autocompletion.
-*   [Vim (⭐513)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
+*   [Vim (⭐516)](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 
 ## [13. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -548,7 +548,7 @@
 
 ### Contents / Finance
 
-*   [Bank Git (⭐34)](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
+*   [Bank Git (⭐36)](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
 
 ## [41. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
@@ -701,7 +701,7 @@
 
 ### Tips and Tricks
 
-*   [Unity Labs' Super Science (⭐607)](https://github.com/Unity-Technologies/SuperScience) - Gems of Unity Labs for user education.
+*   [Unity Labs' Super Science (⭐722)](https://github.com/Unity-Technologies/SuperScience) - Gems of Unity Labs for user education.
 
 ## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 

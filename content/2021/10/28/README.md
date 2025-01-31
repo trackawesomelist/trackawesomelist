@@ -23,7 +23,7 @@
 
 ### Blockchain
 
-*   [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML)
+*   [Grokking Bitcoin](https://rosenbaum.se/book/) - Kalle Rosenbaum (HTML) `(CC BY-NC-SA)`
 
 ## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 

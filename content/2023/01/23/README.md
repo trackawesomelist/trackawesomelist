@@ -120,7 +120,7 @@
 
 ### Node.js / Community
 
-*   [vite-express (⭐696)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
+*   [vite-express (⭐707)](https://github.com/szymmis/vite-express) - Integration for Express web apps.
 
 ## [10. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

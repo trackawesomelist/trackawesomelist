@@ -40,7 +40,7 @@
 
 ### Software Development
 
-*   [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** \[1:10:14]
+*   [Linus Torvalds on Git](https://www.youtube.com/watch?v=idLyobOhtO4) by **Linus Torvalds** (Google 2007) \[1:10:14]
 
 ## [4. Awesome D](/content/dlang-community/awesome-d/README.md)
 

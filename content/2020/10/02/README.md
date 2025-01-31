@@ -218,7 +218,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-image-zoomer (⭐110)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
+*   [vue-image-zoomer (⭐111)](https://github.com/samjonesigd/vue-image-zoomer) - image zoom component for Vue.js 2 & 3, that also works on touch devices.
 
 ## [13. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

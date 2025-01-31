@@ -70,7 +70,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [Scene Manager (⭐382)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. *(Godot 3 and 4)*
+*   [Scene Manager (⭐393)](https://github.com/glass-brick/Scene-Manager) - Make nice and customizable scene transitions in one line of code. *(Godot 3 and 4)*
 
 ## [7. Awesome Rest](/content/marmelab/awesome-rest/README.md)
 

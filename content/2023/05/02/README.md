@@ -10,7 +10,7 @@
 
 ### Ports to other languages
 
-*   [LangchainRb (⭐1.2k)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
+*   [LangchainRb (⭐1.6k)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

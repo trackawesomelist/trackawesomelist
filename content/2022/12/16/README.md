@@ -123,10 +123,6 @@
 
 *   [Awesome-ios](https://kandi.openweaver.com/swift/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem.
 
-### UI
-
-*   [Popovers (⭐2k)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
-
 ### Activity Indicator
 
 *   [ProgressIndicatorView (⭐275)](https://github.com/exyte/ProgressIndicatorView) - A number of preset progress indicators created with SwiftUI.

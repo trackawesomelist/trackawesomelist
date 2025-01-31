@@ -153,7 +153,7 @@
 
 ### Contents / Social Network
 
-*   [Skyfeed (⭐97)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
+*   [Skyfeed (⭐102)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
 
 ## [17. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

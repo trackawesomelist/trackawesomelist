@@ -132,7 +132,7 @@
 
 ### Contents / Games
 
-*   [Space Empires (⭐96)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
+*   [Space Empires (⭐100)](https://github.com/satyamx64/space_empires) - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
 
 ## [13. Awesome Elm](/content/sporto/awesome-elm/README.md)
 

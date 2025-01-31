@@ -89,7 +89,7 @@
 
 ### How to show your progress / Advanced math
 
-*   **[Contributors (⭐173k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐175k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 

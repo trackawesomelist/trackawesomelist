@@ -128,7 +128,7 @@ Free (Open Source)
 
 ### Plugins and scripts / Godot 3
 
-*   [obs-websocket-gd (⭐90)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket.
+*   [obs-websocket-gd (⭐92)](https://github.com/you-win/obs-websocket-gd) - Script and editor plugin to control Open Broadcaster Software from Godot via obs-websocket.
 
 ## [5. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

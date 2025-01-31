@@ -66,7 +66,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [object-visualizer (⭐223)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
+*   [object-visualizer (⭐224)](https://github.com/iendeavor/object-visualizer) - Vue 3 JSON inspector with Chrome-like theme.
 
 ## [10. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

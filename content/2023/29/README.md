@@ -40,7 +40,7 @@
 
 ### Official Resources
 
-*   [Changelog (⭐80k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
+*   [Changelog (⭐81k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
 
 ## [7. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
@@ -510,8 +510,8 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-use-fixed-header (⭐60)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
-*   [@tato30/vue-pdf (⭐500)](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
+*   [vue-use-fixed-header (⭐61)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
+*   [@tato30/vue-pdf (⭐510)](https://github.com/TaTo30/VuePDF) - A PDF viewer for Vue 3. [Demo](https://tato30.github.io/VuePDF/)
 *   [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 
 ### Components & Libraries / UI Utilities
@@ -538,7 +538,7 @@
 
 ### Software / Plotter Control
 
-*   [Inkcut (⭐328)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+*   [Inkcut (⭐339)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
 
 ## [44. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -548,7 +548,7 @@
 
 ### 3D / Godot 3
 
-*   [Ball2Box (⭐44)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
+*   [Ball2Box (⭐45)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
 
 ## [45. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -565,7 +565,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [docuseal (⭐6.5k)](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
+*   [docuseal (⭐8.3k)](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
 
 ## [47. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 

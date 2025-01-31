@@ -140,7 +140,7 @@
 
 ### Networking
 
-*   [Calico (⭐6k)](https://github.com/projectcalico/calico) - Calico is a pure layer 3 virtual network that allows containers over multiple docker-hosts to talk to each other.
+*   [Calico (⭐6.2k)](https://github.com/projectcalico/calico) - Calico is a pure layer 3 virtual network that allows containers over multiple docker-hosts to talk to each other.
 
 ## [16. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

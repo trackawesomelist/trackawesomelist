@@ -100,7 +100,7 @@
 
 ### Apps / Rich text editor extensions
 
-*   [Wagtail Terms (⭐2)](https://github.com/smark-1/wagtailterms) - A plugin to add a glossary terms entity to the Draftail editor.
+*   [Wagtail Terms (⭐6)](https://github.com/smark-1/wagtailterms) - A plugin to add a glossary terms entity to the Draftail editor.
 
 ---
 

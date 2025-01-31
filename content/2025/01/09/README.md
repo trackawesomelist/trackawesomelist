@@ -16,11 +16,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-llms (⭐0)](https://github.com/saschaseniuk/vite-plugin-llms) - Integration for the llms.txt specification supporting AI optimized content alongside application routes.
+*   [vite-plugin-llms (⭐1)](https://github.com/saschaseniuk/vite-plugin-llms) - Integration for the llms.txt specification supporting AI optimized content alongside application routes.
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-singlefile-compression (⭐0)](https://github.com/bddjr/vite-plugin-singlefile-compression) - Compress all assets and embeds them into `dist/index.html`, making it convenient to share as a single HTML file.
+*   [vite-plugin-singlefile-compression (⭐1)](https://github.com/bddjr/vite-plugin-singlefile-compression) - Compress all assets and embeds them into `dist/index.html`, making it convenient to share as a single HTML file.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -28,7 +28,7 @@
 
 ### Rust / Community
 
-*   [vite-rs (⭐57)](https://github.com/Wulf/vite-rs) - Embed assets in your Rust binary.
+*   [vite-rs (⭐58)](https://github.com/Wulf/vite-rs) - Embed assets in your Rust binary.
 
 ## [3. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

@@ -28,7 +28,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-fluid-dnd (⭐263)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
+*   [vue-fluid-dnd (⭐269)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
 
 ## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

@@ -220,7 +220,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [multiwoven (⭐1.5k)](https://github.com/Multiwoven/multiwoven)- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
+*   [multiwoven (⭐1.6k)](https://github.com/Multiwoven/multiwoven)- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
 
 ---
 

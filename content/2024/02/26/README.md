@@ -16,7 +16,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-minipic (⭐44)](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
+*   [vite-plugin-minipic (⭐45)](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

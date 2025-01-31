@@ -117,7 +117,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [Virtual Joystick (⭐765)](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options. *(Godot 3 and 4)*
+*   [Virtual Joystick (⭐770)](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options. *(Godot 3 and 4)*
 
 ## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

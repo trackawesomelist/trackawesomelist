@@ -105,7 +105,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-form-wizard (⭐32)](https://github.com/parsajiravand/vue3-form-wizard) - Vue3-form-wizard is a vue based component with no external depenendcies which simplifies tab wizard management.
+*   [vue3-form-wizard (⭐33)](https://github.com/parsajiravand/vue3-form-wizard) - Vue3-form-wizard is a vue based component with no external depenendcies which simplifies tab wizard management.
 
 ## [13. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 

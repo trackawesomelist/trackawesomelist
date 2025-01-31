@@ -41,7 +41,7 @@
 
 ### Projects / Godot 4
 
-*   [Clipboard Narrator (⭐50)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
+*   [Clipboard Narrator (⭐51)](https://github.com/lesleyrs/clipboard-narrator) - Turn any web page into an audiobook, works in the background on desktop!
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

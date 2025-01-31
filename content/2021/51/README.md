@@ -645,7 +645,7 @@
 
 ### Tools
 
-*   [kics (⭐2.1k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
+*   [kics (⭐2.2k)](https://github.com/Checkmarx/kics) - SAST Tool that scans your ansible infrastructure as code playbooks for security vulnerabilities, compliance issues and misconfigurations.
 
 ## [21. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
@@ -1002,19 +1002,6 @@
 ### HAL implementation crates / Texas Instruments
 
 *   [`tm4c123x-hal`](https://github.com/rust-embedded-community/tm4c-hal/)
-
-### Board support crates / Pimoroni
-
-*   [`pimoroni-pico-explorer`](https://github.com/rp-rs/rp-hal) - Board Support for the [Pimoroni Pico Explorer](https://shop.pimoroni.com/products/pico-explorer-base)
-*   [`pimoroni-pico-lipo-16mb`](https://github.com/rp-rs/rp-hal) - Board Support for the [Pimoroni Pico Lipo 16MB](https://shop.pimoroni.com/products/pimoroni-pico-lipo?variant=39335427080275)
-
-### Board support crates / Raspberry Pi
-
-*   [`rp-pico`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the RP2040-based Raspberry Pi Pico.
-
-### Board support crates / Sparkfun
-
-*   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 
 ## [48. Alternative Front Ends](/content/mendel5/alternative-front-ends/week/README.md)
 

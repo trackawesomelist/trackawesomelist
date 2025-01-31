@@ -53,9 +53,9 @@
 
 ### Input
 
-*   [InControl (⭐683)](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
-*   [InputBinder (⭐73)](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
-*   [TouchKit (⭐880)](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
+*   [InControl (⭐694)](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
+*   [InputBinder (⭐76)](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
+*   [TouchKit (⭐907)](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
 
 ## [6. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 

@@ -55,7 +55,7 @@
 
 ### Software / Software Development - Low Code
 
-*   [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code (⭐46k)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
+*   [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code (⭐47k)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
 
 ## [4. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 

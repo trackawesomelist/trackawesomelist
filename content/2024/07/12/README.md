@@ -28,7 +28,7 @@
 
 ### Backports and improvements
 
-*   [typing-extensions (⭐450)](https://github.com/python/typing_extensions) - Backported and experimental type hints.
+*   [typing-extensions (⭐465)](https://github.com/python/typing_extensions) - Backported and experimental type hints.
 
 ## [4. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 

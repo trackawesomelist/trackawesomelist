@@ -75,7 +75,7 @@
 
 ### Projects / Godot 3
 
-*   [Arrow (⭐923)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
+*   [Arrow (⭐935)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 
 ## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 

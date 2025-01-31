@@ -34,7 +34,7 @@
 
 ### Templates / React
 
-*   [vite-react-flow-template (⭐47)](https://github.com/xyflow/vite-react-flow-template) - React Flow starter template.
+*   [vite-react-flow-template (⭐51)](https://github.com/xyflow/vite-react-flow-template) - React Flow starter template.
 
 ### Templates / Svelte
 

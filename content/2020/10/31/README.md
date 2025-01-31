@@ -53,17 +53,17 @@
 *   Telegram [Flutter Italia Developers](https://t.me/flutteritdevs)
 *   Website [flutteritalia.dev](https://flutteritalia.dev)
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Document Management
-
-*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐1.7k)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java/Docker`
-
-## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Blog posts  (a-z↓)
 
 *   [Visual regression testing for Hugo with Github-CI and BackstopJS](https://jameskiefer.com/posts/visual-regression-testing-for-hugo-with-github-ci-and-backstopjs/) - How to automate regression testing for Hugo with BackstopJS
+
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Document Management
+
+*   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐1.7k)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java/Docker`
 
 ## [8. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

@@ -20,9 +20,9 @@
 
 ### Stub packages
 
-*   [django-stubs (⭐1.6k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐81k)](https://github.com/django/django).
-*   [djangorestframework-stubs (⭐459)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐29k)](https://github.com/encode/django-rest-framework).
-*   [grpc-stubs (⭐37)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐42k)](https://github.com/grpc/grpc).
+*   [django-stubs (⭐1.7k)](https://github.com/typeddjango/django-stubs) - Stubs for [Django (⭐82k)](https://github.com/django/django).
+*   [djangorestframework-stubs (⭐473)](https://github.com/typeddjango/djangorestframework-stubs) - Stubs for [DRF (⭐29k)](https://github.com/encode/django-rest-framework).
+*   [grpc-stubs (⭐38)](https://github.com/shabbyrobe/grpc-stubs) - Stubs for [grpc (⭐42k)](https://github.com/grpc/grpc).
 
 ### Tools / Linters
 
@@ -30,11 +30,11 @@
 
 ### Tools / Testing
 
-*   [pytest-mypy-plugins (⭐109)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
+*   [pytest-mypy-plugins (⭐110)](https://github.com/typeddjango/pytest-mypy-plugins) - Pytest plugin for testing mypy types, stubs, and plugins.
 
 ### Tools / Working with types
 
-*   [mypy-protobuf (⭐660)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
+*   [mypy-protobuf (⭐664)](https://github.com/dropbox/mypy-protobuf) - Tool to generate mypy stubs from protobufs.
 
 ### Tools / Mypy plugins
 
@@ -43,7 +43,7 @@
 
 ### Integrations / Mypy plugins
 
-*   [vim-mypy (⭐97)](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
+*   [vim-mypy (⭐98)](https://github.com/Integralist/vim-mypy) - Mypy integration for Vim.
 
 ### Articles / Third-party articles
 
@@ -56,8 +56,8 @@
 
 ### Related / Third-party articles
 
-*   [awesome-python (⭐227k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
-*   [python-typecheckers (⭐63)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
+*   [awesome-python (⭐232k)](https://github.com/vinta/awesome-python) - Curated list of awesome Python frameworks, libraries, software and resources.
+*   [python-typecheckers (⭐62)](https://github.com/ethanhs/python-typecheckers) - List of Python type checkers: static and runtime.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

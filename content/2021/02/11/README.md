@@ -68,7 +68,7 @@
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Godot Shaders (⭐3.2k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
+*   [Godot Shaders (⭐3.3k)](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 

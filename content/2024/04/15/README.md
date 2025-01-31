@@ -66,11 +66,11 @@
 
 *   [vue-default-page (⭐30)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
 *   [css-3d-progress (⭐2)](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
-*   [schedule-x (⭐1.4k)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
+*   [schedule-x (⭐1.5k)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 
 ### Components & Libraries / UI Utilities
 
-*   [tracked-instance (⭐3)](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
+*   [tracked-instance (⭐4)](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
 
 ### Components & Libraries / Dev Tools
 

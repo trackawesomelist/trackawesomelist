@@ -59,7 +59,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [3D Auto Collision Generator (⭐37)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click.
+*   [3D Auto Collision Generator (⭐42)](https://github.com/ThGnommy/godot_3d_auto_collision_generator) - Generate collision for multiple 3D objects in one click.
 
 ## [8. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

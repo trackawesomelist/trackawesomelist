@@ -575,7 +575,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ## [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### GTFS Data Collection and Maintenance Tools / Ruby
+### GTFS Data Collection and Maintenance Tools / Rust
 
 *   [bus-router (⭐38)](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM (⭐6.5k)](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 

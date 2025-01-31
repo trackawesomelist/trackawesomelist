@@ -101,7 +101,7 @@
 
 ### Contents / Finance
 
-*   [Bank Git (⭐34)](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
+*   [Bank Git (⭐36)](https://github.com/yash1200/bank_management) - An app to manage bank account by breaking it into branches by [Yash Johri](https://github.com/yash1200).
 
 ## [14. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 

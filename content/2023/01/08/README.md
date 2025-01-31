@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 08, 2023
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,13 +25,7 @@
 
 *   [Terrateam](https://terrateam.io) - Open-source alternative to Terraform Cloud/Enterprise, GitOps-first with native GitHub integration and designed for scale, security, and reliability.
 
-## [4. Awesome Go](/content/avelino/awesome-go/README.md)
-
-### Standard CLI
-
-*   [survey (⭐4.1k)](https://github.com/go-survey/survey) - Build interactive and accessible prompts with full support for windows and posix terminals.
-
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Database
 
@@ -54,13 +48,13 @@
 
 *   [rust-bakery/nom (⭐9.6k)](https://github.com/rust-bakery/nom) - parser combinator library
 
-## [6. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
+## [5. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Deployment / NLP
 
 *   [gradio (⭐33k)](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes.
 
-## [7. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [6. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Clearnet & Anonymous Networking / Anonymity
 
@@ -74,13 +68,13 @@
 
 *   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration.
 
-## [8. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
+## [7. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
 ### Testing / Misc
 
 *   [Mailsnag](https://mailsnag.com/) - Test email server for all of your SMTP needs - simulate delay and errors, preview and share emails, and more - all without sending emails to actual customers.
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

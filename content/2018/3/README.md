@@ -72,7 +72,7 @@
 
 ## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### GTFS Realtime (and Other Real-time API) Archival Tools / Ruby
+### GTFS Realtime (and Other Real-time API) Archival Tools / Rust
 
 *   [retro-gtfs (⭐54)](https://github.com/SAUSy-Lab/retro-gtfs) - A Python application that collects real-time data from the Nextbus API and archives it into the GTFS format (i.e., retrospective GTFS).
 

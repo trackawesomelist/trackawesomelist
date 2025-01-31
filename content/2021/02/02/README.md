@@ -104,7 +104,7 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Contents / Shopping
 
-*   [Yumniastic Food Shop App (⭐34)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
+*   [Yumniastic Food Shop App (⭐35)](https://github.com/1hanzla100/flutter-yumniastic) - Online food delivery service app and Django API by [1hanzla100](https://github.com/1hanzla100/).
 
 ## [7. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -145,7 +145,7 @@ Language: English, čeština, español, русский, Deutsch, 中文频道, N
 
 ### Components & Libraries / Utilities
 
-*   [vite-svg-loader (⭐613)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
+*   [vite-svg-loader (⭐616)](https://github.com/jpkleemans/vite-svg-loader) - Vite plugin to load SVG files as Vue components
 
 ## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

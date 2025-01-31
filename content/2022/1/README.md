@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 03 - Jan 09, 2022
 
-65 awesome lists updated this week.
+64 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -36,40 +36,38 @@
 
 ### Programming Language
 
-*   [Go Developer Roadmap (⭐18k)](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/Alikhll/golang-developer-roadmap).
-*   [Java Developer Roadmap (⭐3.8k)](https://github.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/s4kibs4mi/java-developer-roadmap).
-*   [Nodejs Developer Roadmap (⭐4.8k)](https://github.com/aliyr/Nodejs-Developer-Roadmap) - Roadmap to becoming a Node.js developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/aliyr/Nodejs-Developer-Roadmap).
-*   [PHP Developer roadmap (⭐3.5k)](https://github.com/thecodeholic/php-developer-roadmap) - Following this path will guarantee to Become a PHP Developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/thecodeholic/php-developer-roadmap) [<img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube">](https://github.com/thecodeholic/php-developer-roadmap).
-*   [Rust Web Developer Roadmap (⭐1.8k)](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/anshulrgoyal/rust-web-developer-roadmap).
+*   [Go Developer Roadmap (⭐18k)](https://github.com/Alikhll/golang-developer-roadmap) - Roadmap to becoming a Go developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-yellowgreen.svg">](https://github.com/Alikhll/golang-developer-roadmap).
+*   [Java Developer Roadmap (⭐4k)](https://github.com/s4kibs4mi/java-developer-roadmap) - Roadmap to becoming a Java developer in 2025 [<img src="https://img.shields.io/badge/Roadmap-2025-green.svg">](https://github.com/s4kibs4mi/java-developer-roadmap).
+*   [Nodejs Developer Roadmap (⭐4.8k)](https://github.com/aliyr/Nodejs-Developer-Roadmap) - Roadmap to becoming a Node.js developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-yellow2021-green.svg">](https://github.com/aliyr/Nodejs-Developer-Roadmap).
+*   [PHP Developer roadmap (⭐3.6k)](https://github.com/thecodeholic/php-developer-roadmap) - Following this path will guarantee to Become a PHP Developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/thecodeholic/php-developer-roadmap) [<img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube">](https://github.com/thecodeholic/php-developer-roadmap).
+*   [Rust Web Developer Roadmap (⭐1.8k)](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web developer in 2022 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/anshulrgoyal/rust-web-developer-roadmap).
 
 ### Web Development
 
-*   [Angular Developer Roadmap (⭐940)](https://github.com/sulco/angular-developer-roadmap) - Roadmap to becoming an Angular developer [<img src="https://img.shields.io/badge/Roadmap-2018-yellow.svg">](https://github.com/sulco/angular-developer-roadmap).
-*   [Angular Developer Roadmap 2 (⭐133)](https://github.com/saifaustcse/angular-developer-roadmap) - Roadmap to becoming an Angular developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/saifaustcse/angular-developer-roadmap).
-*   [ASP.Net Core Developer Roadmap (⭐18k)](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP .NET Core developer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap).
-*   [Developer Roadmap (⭐282k)](https://github.com/kamranahmedse/developer-roadmap) - Community driven roadmaps, articles and resources for developers [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/kamranahmedse/developer-roadmap).
-*   [Vue Developer Roadmap (⭐527)](https://github.com/flaviocopes/vue-developer-roadmap) - Roadmap to becoming a Vue.js developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://github.com/flaviocopes/vue-developer-roadmap).
+*   [Angular Developer Roadmap (⭐946)](https://github.com/sulco/angular-developer-roadmap) - Roadmap to becoming an Angular developer [<img src="https://img.shields.io/badge/Roadmap-2018-yellow.svg">](https://github.com/sulco/angular-developer-roadmap).
+*   [Angular Developer Roadmap 2 (⭐145)](https://github.com/saifaustcse/angular-developer-roadmap) - Roadmap to becoming an Angular developer in 2024 [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/saifaustcse/angular-developer-roadmap).
+*   [ASP.Net Core Developer Roadmap (⭐19k)](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP .NET Core developer in 2025 [<img src="https://img.shields.io/badge/Roadmap-2025-green.svg">](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap).
+*   [Developer Roadmap (⭐307k)](https://github.com/kamranahmedse/developer-roadmap) - Community driven roadmaps, articles and resources for developers [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/kamranahmedse/developer-roadmap).
+*   [Vue Developer Roadmap (⭐530)](https://github.com/flaviocopes/vue-developer-roadmap) - Roadmap to becoming a Vue.js developer in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://github.com/flaviocopes/vue-developer-roadmap).
 
 ### Mobile Development
 
-*   [Android Developer Roadmap (⭐146)](https://github.com/anacoimbrag/android-developer-roadmap) - Roadmap to becoming an Android developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://github.com/anacoimbrag/android-developer-roadmap).
-*   [iOS Developer Roadmap (⭐6.3k)](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - Roadmap to becoming an iOS developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://github.com/BohdanOrlov/iOS-Developer-Roadmap).
+*   [iOS Developer Roadmap (⭐6.4k)](https://github.com/BohdanOrlov/iOS-Developer-Roadmap) - Roadmap to becoming an iOS developer in 2020 [<img src="https://img.shields.io/badge/Roadmap-2020-yellowgreen.svg">](https://github.com/BohdanOrlov/iOS-Developer-Roadmap).
 
 ### Game Development
 
-*   [Game Developer Roadmap (⭐5.4k)](https://github.com/utilForever/game-developer-roadmap) - Roadmap to becoming a game developer in 2022 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/utilForever/game-developer-roadmap).
+*   [Game Developer Roadmap (⭐5.6k)](https://github.com/utilForever/game-developer-roadmap) - Roadmap to becoming a game developer in 2022 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/utilForever/game-developer-roadmap).
 
 ### AI / Machine Learning / Data Science
 
-*   [AI Expert Roadmap (⭐29k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/AMAI-GmbH/AI-Expert-Roadmap).
+*   [AI Expert Roadmap (⭐29k)](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/AMAI-GmbH/AI-Expert-Roadmap).
 *   [Data Engineer Roadmap (⭐12k)](https://github.com/datastacktv/data-engineer-roadmap) - Roadmap to becoming a data engineer in 2021 [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/datastacktv/data-engineer-roadmap).
 *   [NLP Roadmap (⭐3.2k)](https://github.com/graykode/nlp-roadmap) - Roadmap for Natural Language Processing learning in 2019 [<img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg">](https://github.com/graykode/nlp-roadmap).
 
 ### Miscellaneous
 
-*   [System Design Roadmap (⭐348)](https://github.com/mohsenshafiei/system-design-master-plan) - Roadmap to learn system design and architecture [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/mohsenshafiei/system-design-master-plan).
+*   [System Design Roadmap (⭐394)](https://github.com/mohsenshafiei/system-design-master-plan) - Roadmap to learn system design and architecture [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/mohsenshafiei/system-design-master-plan).
 *   [UI/UX Designer Roadmap (⭐2.1k)](https://github.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017 [<img src="https://img.shields.io/badge/Roadmap-2017-yellow.svg">](https://github.com/togiberlin/ui-ux-designer-roadmap).
-*   [University Degree Roadmap (⭐95)](https://github.com/nietsymerej/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/nietsymerej/collecobrary).
 
 ## [6. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -94,11 +92,6 @@
 ### Board support crates / Adafruit
 
 *   [`feather-f405`](https://crates.io/crates/feather-f405) - Board support for the [Feather STM32F405 Express](https://www.adafruit.com/product/4382). [![crates.io](https://img.shields.io/crates/v/feather-f405.svg)](https://crates.io/crates/feather-f405)
-*   [`adafruit-feather-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit Feather RP2040](https://www.adafruit.com/product/4884) [![crates.io](https://img.shields.io/crates/v/adafruit-feather-rp2040.svg)](https://crates.io/crates/adafruit-feather-rp2040)
-*   [`adafruit-itsy-bitsy-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit ItsyBitsy RP2040](https://www.adafruit.com/product/4888) [![crates.io](https://img.shields.io/crates/v/adafruit-itsy-bitsy-rp2040.svg)](https://crates.io/crates/adafruit-itsy-bitsy-rp2040)
-*   [`adafruit-kb2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit KB2040](https://www.adafruit.com/product/5302) [![crates.io](https://img.shields.io/crates/v/adafruit-kb2040.svg)](https://crates.io/crates/adafruit-kb2040)
-*   [`adafruit-macropad`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit Macropad](https://www.adafruit.com/product/5128) [![crates.io](https://img.shields.io/crates/v/adafruit-macropad.svg)](https://crates.io/crates/adafruit-macropad)
-*   [`adafruit-qt-py-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the [Adafruit QT Py RP2040](https://www.adafruit.com/product/4900) [![crates.io](https://img.shields.io/crates/v/adafruit-qt-py-rp2040.svg)](https://crates.io/crates/adafruit-qt-py-rp2040)
 
 ## [8. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
@@ -185,15 +178,10 @@
 
 ### Forms
 
+*   [vest (⭐2.6k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 *   [felte](https://felte.dev/) - Extensible form library, with built-in Yup, Zod, Vest, and Superstruct validation.
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
-
-### Components & Libraries / UI Utilities
-
-*   [vest (⭐2.6k)](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
-
-## [20. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+## [19. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
 ### Development Utilities
 
@@ -207,13 +195,13 @@
 
 *   [M.academy](https://m.academy/) - The simplest way to learn Magento 2 & Adobe Commerce, with video lessons & courses
 
-## [21. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [20. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Software Architecture
 
 *   [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans (CC BY)
 
-## [22. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
+## [21. Web Development Resources](/content/markodenic/web-development-resources/week/README.md)
 
 ### Angular UI libraries:
 
@@ -223,13 +211,13 @@
 
 
 
-## [23. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [22. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
 *   [Systems Performance: Enterprise and the Cloud](https://www.amazon.com/Systems-Performance-Enterprise-Brendan-Gregg/dp/0133390098/) \[Sample chapter titled [CPUs](http://ptgmedia.pearsoncmg.com/images/9780133390094/samplepages/0133390098.pdf)
 
-## [24. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Web
 
@@ -239,13 +227,13 @@
 
 *   [consoleau/kassava (⭐115)](https://github.com/consoleau/kassava) - This library provides some useful kotlin extension functions for implementing toString() and equals() without all of the boilerplate.
 
-## [25. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [24. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Overlays / Webinterface
 
 *   [nixpkgs-firefox-darwin (⭐55)](https://github.com/bandithedoge/nixpkgs-firefox-darwin) - Automatically updated Firefox binary packages for macOS.
 
-## [26. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
+## [25. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/week/README.md)
 
 ### Projects
 
@@ -307,7 +295,7 @@
 *   [Awesome Open Electronics (⭐482)](https://github.com/ajaymnk/open-electronics) - List with resources for Electronics Enthusiasts.
 *   [Awesome Open (⭐75)](https://github.com/paulhendricks/awesome-open) - A list of open companies and communities.
 
-## [27. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [26. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -319,25 +307,25 @@
 *   [We Work Remotely](https://weworkremotely.com/)
 *   [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
 
-## [28. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [27. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-remove-console (⭐165)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
+*   [vite-plugin-remove-console (⭐166)](https://github.com/xiaoxian521/vite-plugin-remove-console) - A vite plugin that deletes console.log in the production environment.
 
-## [29. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [28. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Analytics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Swetrix](https://swetrix.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/swetrix/swetrix-js) - Privacy-oriented highly customisable & selfhostable analytics service.
 
-## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Cloud Storage
 
 *   [Stowage (⭐172)](https://github.com/aloneguid/stowage) - Bloat-free zero dependency .NET cloud storage kit that supports at minimum THE major cloud providers.
 
-## [31. Inspire](/content/noahbuscher/inspire/week/README.md)
+## [30. Inspire](/content/noahbuscher/inspire/week/README.md)
 
 ### Concept / These sites are good to get a general idea of possible layouts and style paths to take.
 
@@ -413,37 +401,37 @@
 *   [Insert HTML](http://www.inserthtml.com) - A blog covering current and upcoming techniques and technologies for web developers.
 *   [Smashing Magazine](http://www.smashingmagazine.com) - A magazine for all things digital design.
 
-## [32. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [31. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Main National Search Engines
 
 *   [Najdi.si (Slovenia)](http://www.najdi.si/)
 
-## [33. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
+## [32. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
 ### YouTube / Uncategorized
 
 *   [R Programming 101](https://www.youtube.com/c/RProgramming101/featured) - This channel provides teaching videos on data analysis and statistical analysis using R programming. The teaching videos include subjects like data cleaning, data manipulation, data visualization, statistical analysis, and machine learning and AI (artificial intelligence).
 
-## [34. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [33. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Video Production
 
 *   [QPrompt Teleprompter App](https://qprompt.app) - Convergent teleprompter software that works with studio teleprompters, tablet teleprompters, webcams, and phones.
 
-## [35. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [34. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### See Also / Books
 
 *   [awesome-small-molecule-ml (⭐168)](https://github.com/benb111/awesome-small-molecule-ml) - A list of papers, data sets, and other resources for machine learning for small-molecule drug discovery.
 
-## [36. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [35. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Tools
 
-*   [Blink Comparison (⭐247)](https://github.com/proninyaroslav/blink-comparison) - Simplifies comparing photos of tamper-evident seals and patterns using your eyes by [Yaroslav Pronin](https://github.com/proninyaroslav)
+*   [Blink Comparison (⭐264)](https://github.com/proninyaroslav/blink-comparison) - Simplifies comparing photos of tamper-evident seals and patterns using your eyes by [Yaroslav Pronin](https://github.com/proninyaroslav)
 
-## [37. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [36. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Official
 
@@ -453,7 +441,7 @@
 
 *   [eosnetworkfoundation/mandel (⭐88)](https://github.com/eosnetworkfoundation/mandel) - Official GitHub.
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Chemistry
 
@@ -466,25 +454,25 @@
 
 *   [VLD](https://kinddragon.github.io/vld//) - Visual Leak Detector. A free, robust, open-source memory leak detection system for Visual C++.
 
-## [39. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
+## [38. Awesome Translations](/content/mbiesiad/awesome-translations/week/README.md)
 
 ### Tools / Automatic translation for end users
 
 *   [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents.
 
-## [40. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [39. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / WARC I/O Libraries
 
 *   [Unwarcit (⭐10)](https://github.com/emmadickson/unwarcit) - Command line interface to unzip WARC and WACZ files (Python).
 
-## [41. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [40. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
 *   [Automate.io](https://automate.io) - Connect your cloud apps.
 
-## [42. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
+## [41. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/week/README.md)
 
 ### Specific topics / Cryptanalysis
 
@@ -499,7 +487,7 @@
 
 *   [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - By Dan Boneh and Victor Shoup. A well-balanced introductory course into cryptography, a bit of cryptanalysis and cryptography-related security.
 
-## [43. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [42. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### 2FA
 
@@ -771,7 +759,7 @@
 
 *   [xBrowserSync](https://www.xbrowsersync.org/) - Browser syncing as it should be: secure, anonymous and free!
 
-## [44. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/week/README.md)
+## [43. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/week/README.md)
 
 ### Conversational UX
 
@@ -782,7 +770,7 @@
 
 *   [Chai](https://chai.ml/) - Open-source platform for developers to build chatbots using Python and deploy them to the Chai mobile app.
 
-## [45. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [44. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Proprietary (non-standard) vendor APIs
 
@@ -792,47 +780,47 @@
 
 *   [Citymapper SDK](https://citymapper.com/powers) - Allows you to add journey planning and turn-by-turn navigation for walking, cycling, scooting and transit into native iOS and Android apps.
 
-### GTFS Merge Tools / Ruby
+### GTFS Merge Tools / Rust
 
 *   [combine\_gtfs\_feeds (⭐7)](https://github.com/psrc/combine_gtfs_feeds) - A Python tool to combine multiple gtfs feeds into one feed/dataset.
 
-## [46. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [45. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Remote / Aggregator
 
 *   [TheRemoteWork](https://theremotework.co/)
 
-## [47. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
+## [46. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
 
 ### Responsive / Syntax Highlight
 
 *   [CoreUI for React (⭐654)](https://github.com/coreui/coreui-react) - [demo/docs](https://coreui.io/react) - Open Source UI components library.
 
-## [48. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [47. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Helpers
 
 *   [hump (⭐80)](https://github.com/HDictus/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras).
 
-## [49. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [48. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Really Simple Forms
 
 *   [HeyForm](https://heyform.net/) - Free, easy-to-use drag & drop form maker capable of crafting powerful online forms. Includes 40+ field types, integrations, analytics, and more.
 
-## [50. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [49. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Art
 
 *   [Obscura](https://obscura.world/) - Float around and explore a structure inspired by the architecture of Carlo Scarpa.
 
-## [51. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [50. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Secrets Management / Ansible
 
 *   [Keyscope (⭐381)](https://github.com/SpectralOps/keyscope) - *Spectral* - Keyscope is an open source key and secret workflow tool (validation, invalidation, etc.) built in Rust.
 
-## [52. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [51. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
@@ -842,7 +830,7 @@
 
 *   [tmux-mouse-swipe (⭐12)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 
-## [53. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [52. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Entertainment
 
@@ -888,11 +876,11 @@
 
 
 
-## [54. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [53. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Generative Model
 
-*   [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NeurIPS'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760\&hl=en\&as_sdt=0,5)].
+*   [Efficient Learning of Sparse Representations with an Energy-Based Model](https://proceedings.neurips.cc/paper/2006/file/87f4d79e36d68c3031ccf6c55e9bbd39-Paper.pdf) - ***NeurIPS'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2247668190782691760)].
 
 ### Problem Solving / Inverse Reinforcement Learning
 
@@ -902,13 +890,13 @@
 
 *   [Thoughts beyond words: When language overshadows insight](https://psycnet.apa.org/record/1993-36184-001) - ***Journal of Experimental Psychology***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=13773440938721955384\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
-## [55. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [54. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   📚 [Svelte Headless UI (⭐1.8k)](https://github.com/rgossiaux/svelte-headlessui) - Unofficial Svelte port of Headless UI.
 
-## [56. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [55. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Testing
 
@@ -941,7 +929,7 @@
     *   [quickcheck](https://crates.io/crates/quickcheck) - A Rust implementation of [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1)
     *   [rust-fuzz/afl.rs (⭐1.7k)](https://github.com/rust-fuzz/afl.rs) - A Rust fuzzer, using [AFL](https://lcamtuf.coredump.cx/afl/)
 
-## [57. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [56. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Official Resources
 
@@ -1055,7 +1043,7 @@
 *   [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
 *   [Aorist](https://aorist.art/) - NFT art gallery and marketplace.
 
-## [58. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [57. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Self-Hosted Bitcoin Payment Processors
 
@@ -1073,19 +1061,19 @@
 
 
 
-## [59. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
+## [58. Awesome Nodered](/content/naimo84/awesome-nodered/week/README.md)
 
 ### Installation
 
 *   [openHAB running on openHABian](https://www.openhab.org/docs/installation/openhabian.html#optional-components) - Install Node-RED using openhab-config from command line, choose it from "Optional Components".
 
-## [60. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+## [59. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
 
 ### Tutorials and Blog Posts / NumPyro
 
 *   [Introduction to JAX by Kevin Murphy](https://colab.research.google.com/github/probml/probml-notebooks/blob/main/notebooks/jax_intro.ipynb) - Colab that introduces various aspects of the language and applies them to simple ML problems.
 
-## [61. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [60. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Text-related Generative Tools / Multi-agents
 
@@ -1098,19 +1086,19 @@
 *   \[🔥] [Creep - YouTube](https://www.youtube.com/watch?v=c6LlG4g_9lk) by [Glenn Marshall Neural Art](https://www.youtube.com/channel/UCes-tiSj7VO6nNOsUB76lZw): how did they translated the images using VQGAN+CLIP? How did they seamlessly wander on the latent space?
 *   [Confluence](https://deviparikh.github.io/confluence/): a generative art project by Devi Parikh on BrainDrops.
 
-## [62. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
+## [61. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
 ### Logos
 
 *   [VectorLogoZone (⭐379)](https://github.com/VectorLogoZone/vectorlogozone#readme) - Consistently sized/formated SVG logos. ([Website](https://www.vectorlogo.zone/))
 
-## [63. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [62. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Editing Support / Diagnostics
 
 *   [booperlv/nvim-gomove (⭐200)](https://github.com/booperlv/nvim-gomove) - A complete plugin for moving and duplicating blocks and lines, with complete fold handling, reindenting, and undoing in one go.
 
-## [64. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [63. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Archive of Icons
 
@@ -1121,7 +1109,7 @@
 
 *   [VectorLogoZone](https://www.vectorlogo.zone/) - Over 3,500 consistently formatted SVG logos.
 
-## [65. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [64. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Data Visualization / Runner
 

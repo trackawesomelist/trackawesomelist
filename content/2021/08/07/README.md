@@ -51,7 +51,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-word-highlighter (⭐306)](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
+*   [vue-word-highlighter (⭐309)](https://github.com/kawamataryo/vue-word-highlighter) - The word highlighter library for Vue 2 and Vue 3.
 
 ---
 

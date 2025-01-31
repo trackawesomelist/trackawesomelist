@@ -16,7 +16,7 @@
 
 ### Contents / Health and Fitness
 
-*   [Open Food Facts (⭐784)](https://github.com/openfoodfacts/smooth-app) - The new mobile app of Open Food Facts, with other 2 million installs, that allows you to understand the health and environmental impact of your food, as well as to contribute new products to the Open Database [Open Food facts](https://github.com/openfoodfacts/)
+*   [Open Food Facts (⭐912)](https://github.com/openfoodfacts/smooth-app) - The new mobile app of Open Food Facts, with other 2 million installs, that allows you to understand the health and environmental impact of your food, as well as to contribute new products to the Open Database [Open Food facts](https://github.com/openfoodfacts/)
 
 ### Contents / Media
 
@@ -24,7 +24,7 @@
 
 ### Contents / Tools
 
-*   [EncrytX (⭐5)](https://github.com/musfique113/EncryptX) - Encrypt and protect your text with ease using advanced ciphers including Caesar, Affine, Playfair, and RSA encryption in this all-in-one Android app by [Musfique](https://github.com/musfique113)
+*   [EncrytX (⭐8)](https://github.com/musfique113/EncryptX) - Encrypt and protect your text with ease using advanced ciphers including Caesar, Affine, Playfair, and RSA encryption in this all-in-one Android app by [Musfique](https://github.com/musfique113)
 
 ## [3. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Tools / Agents
 
-*   [Voyager (⭐5.4k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
+*   [Voyager (⭐5.8k)](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models ![GitHub Repo stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social)
 
 ## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 

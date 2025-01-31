@@ -10,7 +10,7 @@
 
 ### 3D / Godot 4
 
-*   [LibreAim (⭐126)](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
+*   [LibreAim (⭐132)](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 
 ## [2. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 

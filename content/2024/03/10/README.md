@@ -40,7 +40,7 @@
 
 ### Frameworks / Form Components
 
-*   [svelte-document (⭐9)](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
+*   [svelte-document (⭐10)](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## [7. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

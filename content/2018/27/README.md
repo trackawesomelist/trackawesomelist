@@ -741,7 +741,7 @@
 
 ## [37. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### SIRI / Ruby
+### SIRI / Rust
 
 *   [SIRI 2.0 Autodoc](https://laidig.github.io/siri-20-java/doc/) - Automatically generated documentation from the (incredibly well) annotated SIRI 2.0 Schema Definition.
 

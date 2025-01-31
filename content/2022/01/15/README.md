@@ -14,7 +14,7 @@
 
 ### Email Alias Services (Anonymous Forwarding)
 
-*   [SimpleLogin (⭐5.3k)](https://github.com/simple-login/app)
+*   [SimpleLogin (⭐5.4k)](https://github.com/simple-login/app)
 *   [AnonAddy (⭐3.6k)](https://github.com/anonaddy/anonaddy)
 
 ## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)

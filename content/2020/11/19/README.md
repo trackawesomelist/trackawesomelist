@@ -10,7 +10,7 @@
 
 ### Software Development
 
-*   [Feature Branching Considered Evil](https://www.youtube.com/watch?v=h7LeD7VevyI) by **Thierry de Pauw** \[49:38]
+*   [Feature Branching Considered Evil](https://www.youtube.com/watch?v=h7LeD7VevyI) by **Thierry de Pauw** (DevTernity 2019) \[49:38]
 
 ## [2. Awesome Roslyn](/content/ironcev/awesome-roslyn/README.md)
 

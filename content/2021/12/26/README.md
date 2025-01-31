@@ -24,19 +24,6 @@
 
 *   [`tm4c123x-hal`](https://github.com/rust-embedded-community/tm4c-hal/)
 
-### Board support crates / Pimoroni
-
-*   [`pimoroni-pico-explorer`](https://github.com/rp-rs/rp-hal) - Board Support for the [Pimoroni Pico Explorer](https://shop.pimoroni.com/products/pico-explorer-base)
-*   [`pimoroni-pico-lipo-16mb`](https://github.com/rp-rs/rp-hal) - Board Support for the [Pimoroni Pico Lipo 16MB](https://shop.pimoroni.com/products/pimoroni-pico-lipo?variant=39335427080275)
-
-### Board support crates / Raspberry Pi
-
-*   [`rp-pico`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the RP2040-based Raspberry Pi Pico.
-
-### Board support crates / Sparkfun
-
-*   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
-
 ## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Tab / Barcode

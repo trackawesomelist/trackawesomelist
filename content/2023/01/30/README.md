@@ -29,7 +29,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [Fast Fourier Transform (FFT) (⭐41)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript.
+*   [Fast Fourier Transform (FFT) (⭐42)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript.
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 

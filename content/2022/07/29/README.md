@@ -71,7 +71,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-browser-sync (⭐70)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
+*   [vite-plugin-browser-sync (⭐72)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -104,7 +104,7 @@
 
 ### Contents / Tools
 
-*   [Airdash (⭐536)](https://github.com/simonbengtsson/airdash) - Share files to any device by [Simon Bengtsson](https://github.com/simonbengtsson)
+*   [Airdash (⭐581)](https://github.com/simonbengtsson/airdash) - Share files to any device by [Simon Bengtsson](https://github.com/simonbengtsson)
 
 ---
 

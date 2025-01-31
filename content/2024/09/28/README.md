@@ -82,7 +82,7 @@
 
 ### Apps / Rich text editor extensions
 
-*   [wagtailmdx (⭐0)](https://github.com/TheBestDestroyer/wagtailmdx) - A [MDXEditor (⭐1.9k)](https://github.com/mdx-editor/editor) integration for Wagtail as textfield widget.
+*   [wagtailmdx (⭐1)](https://github.com/TheBestDestroyer/wagtailmdx) - A [MDXEditor (⭐2.3k)](https://github.com/mdx-editor/editor) integration for Wagtail as textfield widget.
 
 ## [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

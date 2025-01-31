@@ -72,7 +72,7 @@
 
 ### Apps / Forms
 
-*   [wagtail-contact-reply (⭐26)](https://github.com/KalobTaulien/wagtail-contact-reply) - Reply directly to form submissions from the Wagtail admin
+*   [wagtail-contact-reply (⭐27)](https://github.com/KalobTaulien/wagtail-contact-reply) - Reply directly to form submissions from the Wagtail admin
 
 ## [8. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 

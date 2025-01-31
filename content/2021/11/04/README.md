@@ -173,7 +173,7 @@
 
 ### Software Development
 
-*   [Inventing on Principle](https://vimeo.com/38272912) by **Bret Victor** \[54:20]
+*   [Inventing on Principle](https://vimeo.com/38272912) by **Bret Victor** (CUSEC 2012) \[54:20]
 
 ## [8. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

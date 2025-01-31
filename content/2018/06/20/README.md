@@ -105,7 +105,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Minimal Notes (⭐134)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
+*   [Minimal Notes (⭐136)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

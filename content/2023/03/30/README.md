@@ -10,7 +10,7 @@
 
 ### Contents / Tools
 
-*   [Immich (⭐44k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
+*   [Immich (⭐57k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
 
 ## [2. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 

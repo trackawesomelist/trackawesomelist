@@ -33,7 +33,7 @@
 
 ### Terminal / CLI tools
 
-*   [dcp (⭐109)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
+*   [dcp (⭐110)](https://github.com/exdx/dcp) - A simple tool for copying files from container filesystems. By [@exdx](https://github.com/exdx)
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -55,7 +55,7 @@
 
 ### Additional types
 
-*   [optype (⭐25)](https://github.com/jorenham/optype) - Opinionated `collections.abc` and `operators` alternative: Flexible single-method protocols and typed operators with predictable names.
+*   [optype (⭐30)](https://github.com/jorenham/optype) - Opinionated `collections.abc` and `operators` alternative: Flexible single-method protocols and typed operators with predictable names.
 
 ## [8. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 

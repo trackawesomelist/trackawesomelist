@@ -107,7 +107,7 @@
 
 ### Articles
 
-*   [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - A collection of articles to provide a proper roadmap to become a better Android Developer.
+*   [A Roadmap To Become A Better Android Developer](https://medium.com/mindorks/a-roadmap-to-become-a-better-android-developer-3038cf7f8c8d) - A collection of articles to provide a proper roadmap to become a better Android Developer <img src="https://img.shields.io/badge/Medium-000000?logo=medium">.
 
 ## [14. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

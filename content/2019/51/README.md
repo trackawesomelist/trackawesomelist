@@ -277,7 +277,7 @@ Topics: Clojure, Rust, GraphQL, Apache Kafka\
 
 ### Dynamic type checkers
 
-*   [typical (⭐182)](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
+*   [typical (⭐181)](https://github.com/seandstewart/typical/) - Data parsing and automatic type-coercion using type hinting. Supports dataclasses, standard classes, function signatures, and more.
 
 ## [28. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 

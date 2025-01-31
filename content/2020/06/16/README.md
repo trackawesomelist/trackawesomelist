@@ -49,7 +49,7 @@
 
 ## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Pilot or development stage / Ruby
+### Pilot or development stage / Rust
 
 *   [OMX: The Open Matrix data file format (⭐52)](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
 

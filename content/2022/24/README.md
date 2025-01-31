@@ -35,11 +35,11 @@
 
 ### Contents / Health and Fitness
 
-*   [WorkoutTracker (⭐90)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
+*   [WorkoutTracker (⭐94)](https://github.com/jerichoi224/WorkoutTracker) - A Flutter app to help you keep track of workout sessions by [Daniel Choi](https://github.com/jerichoi224).
 
 ### Contents / Media
 
-*   [MovieLab (⭐413)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
+*   [MovieLab (⭐419)](https://github.com/ErfanRht/MovieLab) - A useful and modern movie database app by [Erfan Rahmati](https://github.com/ErfanRht).
 
 ## [6. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
@@ -87,13 +87,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-simple-calendar (⭐892)](https://github.com/richardtallent/vue-simple-calendar) - Flexbox-based Vue month calendar component; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
+*   [vue-simple-calendar (⭐894)](https://github.com/richardtallent/vue-simple-calendar) - Flexbox-based Vue month calendar component; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
 *   [vue-advanced-chat (⭐1.8k)](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
-*   [vue-input-facade (⭐184)](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous *vue-text-mask* but actively maintained and with lots of improvements after there.
+*   [vue-input-facade (⭐183)](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous *vue-text-mask* but actively maintained and with lots of improvements after there.
 
 ### Components & Libraries / Integrations
 
-*   [vue-cli-plugin-chrome-extension-cli (⭐303)](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin generate chrome extension template
+*   [vue-cli-plugin-chrome-extension-cli (⭐304)](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin generate chrome extension template
 
 ## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
@@ -214,11 +214,11 @@
 
 ### Programming Language
 
-*   [C++ Developer Roadmap (⭐2.7k)](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap focuses on general competencies and skills about C++ in 2022 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/salmer/CppDeveloperRoadmap).
+*   [C++ Developer Roadmap (⭐3k)](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap focuses on general competencies and skills about C++ in 2024 [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/salmer/CppDeveloperRoadmap).
 
 ### Miscellaneous
 
-*   [Awesome Quality Assurance Roadmap (⭐1.7k)](https://github.com/fityanos/awesome-quality-assurance-roadmap) - Roadmap for QA and software testing learning curve which you might need to start the journey [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/fityanos/awesome-quality-assurance-roadmap).
+*   [Awesome Quality Assurance Roadmap (⭐1.9k)](https://github.com/fityanos/awesome-quality-assurance-roadmap) - Roadmap for QA and software testing learning curve which you might need to start the journey [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/fityanos/awesome-quality-assurance-roadmap).
 
 ## [23. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/week/README.md)
 
@@ -404,7 +404,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐8k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐8.1k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [28. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -649,7 +649,7 @@
 
 ### API / Samples
 
-*   [Remult (⭐2.9k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
+*   [Remult (⭐3k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 
 ## [47. Awesome List](/content/sindresorhus/awesome/week/README.md)
 

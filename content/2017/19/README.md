@@ -312,7 +312,7 @@
 
 ### Apps / Static site generation
 
-*   [Wagtail-bakery (⭐179)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
+*   [Wagtail-bakery (⭐184)](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
 
 ## [22. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 

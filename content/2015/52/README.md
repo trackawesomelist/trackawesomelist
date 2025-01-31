@@ -304,7 +304,7 @@ git checkout <deleting_commit> -- <file_path>
 
 ### Software Development
 
-*   [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** \[23:07]
+*   [Simplify Challenging Software Problems with Rocket Science](https://www.youtube.com/watch?v=h1g1YyVO6j8) by **Bradley Grzesiak** (Rocky Mountain Ruby 2015) \[23:07]
 
 ## [20. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 

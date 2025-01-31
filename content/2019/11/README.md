@@ -298,7 +298,7 @@ Free
 
 ### Components & Libraries / UI Components
 
-*   [vue-currency-input (⭐658)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
+*   [vue-currency-input (⭐662)](https://github.com/dm4t2/vue-currency-input) - Easy input of currency formatted numbers for Vue.js.
 
 ## [19. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 

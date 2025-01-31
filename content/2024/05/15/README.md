@@ -22,7 +22,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Pipecat (⭐2.8k)](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
+*   [Pipecat (⭐4.5k)](https://github.com/pipecat-ai/pipecat): Open Source framework for voice and multimodal conversational AI. ![GitHub Repo stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social)
 
 ## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -209,7 +209,7 @@
 
 ### API Client / Other
 
-*   [docker-controller-bot (⭐150)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
+*   [docker-controller-bot (⭐162)](https://github.com/dgongut/docker-controller-bot) - Telegram bot to control docker containers. By [@dgongut](https://github.com/dgongut/)
 
 ## [18. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -233,7 +233,7 @@
 
 ### Software / Vector Creation
 
-*   [ThreadPlotter (⭐130)](https://github.com/LiciaHe/threadPlotter) - "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
+*   [ThreadPlotter (⭐134)](https://github.com/LiciaHe/threadPlotter) - "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
 
 ### Inspiration, Instruction, and Research / Fonts
 

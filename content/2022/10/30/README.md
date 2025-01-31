@@ -35,7 +35,7 @@
 
 ### Monitoring
 
-*   [HertzBeat (⭐5.8k)](https://github.com/dromara/hertzbeat) - An open-source real-time monitoring system with custom-monitor and agentless.
+*   [HertzBeat (⭐5.9k)](https://github.com/dromara/hertzbeat) - An open-source real-time monitoring system with custom-monitor and agentless.
 
 ## [4. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 

@@ -61,7 +61,7 @@ A list of awesome beginners-friendly projects.
 
 ### Rust
 
-*   [zoom-rs (⭐1.4k)](https://github.com/security-union/zoom-rs) *(label: good first issue)* <br> Teleconference system with a web based user interface written in Rust
+*   [zoom-rs (⭐1.5k)](https://github.com/security-union/zoom-rs) *(label: good first issue)* <br> Teleconference system with a web based user interface written in Rust
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
@@ -99,7 +99,7 @@ A list of awesome beginners-friendly projects.
 ### TypeScript
 
 *   [Oppia (⭐5.9k)](https://github.com/oppia/oppia) *(label: good first issue)* <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
-*   [Storybook JS (⭐85k)](https://github.com/storybookjs/storybook) *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
+*   [Storybook JS (⭐86k)](https://github.com/storybookjs/storybook) *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 *   [Vite (⭐70k)](https://github.com/vitejs/vite) *(label: good first issue)* <br> Next generation frontend tooling. It's fast! Alternative to Create React App
 *   [activist (⭐289)](https://github.com/activist-org/activist) *(label: good first issue)* <br> activist.org is a network for political action that allows people to coordinate and collaborate on the issues that matter most to them.
 *   [Impler.io (⭐219)](https://github.com/implerhq/impler.io) *(label: good first issue)* <br> 100% open source data import experience with readymade CSV & Excel import widget 🚀
@@ -256,7 +256,7 @@ A list of awesome beginners-friendly projects.
 *   [Vue Router (⭐19k)](https://github.com/vuejs/vue-router) *(label: good first issue)* <br> The official router for Vue.js.
 *   [Vue.js (⭐208k)](https://github.com/vuejs/vue) *(label: good first issue)* <br> The Progressive JavaScript Framework.
 *   [VuePress (⭐23k)](https://github.com/vuejs/vuepress) *(label: good first issue)* <br> Minimalistic Vue-powered static site generator
-*   [webdriver.io (⭐9.1k)](https://github.com/webdriverio/webdriverio) *(label: first-timers-only)* <br> Next-gen browser and mobile automation test framework for Node.js
+*   [webdriver.io (⭐9.2k)](https://github.com/webdriverio/webdriverio) *(label: first-timers-only)* <br> Next-gen browser and mobile automation test framework for Node.js
 
 ### C++
 
@@ -264,12 +264,8 @@ A list of awesome beginners-friendly projects.
 *   [MoveIt (⭐1.8k)](https://github.com/ros-planning/moveit) *(label: good first issue)* <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 *   [projectM (⭐3.5k)](https://github.com/projectM-visualizer/projectm) *(label: good first issue)* <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
 *   [Roc Toolkit (⭐1.1k)](https://github.com/roc-streaming/roc-toolkit) *(label: help-wanted)* <br> A toolkit for real-time audio streaming over the network.
-*   [tensorflow (⭐187k)](https://github.com/tensorflow/tensorflow) *(label: stat:contributions-welcome)* <br> Computation using data flow graphs for scalable machine learning
+*   [tensorflow (⭐188k)](https://github.com/tensorflow/tensorflow) *(label: stat:contributions-welcome)* <br> Computation using data flow graphs for scalable machine learning
 *   [Yugabyte DB (⭐9.2k)](https://github.com/yugabyte/yugabyte-db) *(label: good first issue)* <br> Distributed SQL database.
-
-### Clojure
-
-*   [Alda (⭐5.7k)](https://github.com/alda-lang/alda) *(label: low-hanging-fruit)* <br> A music programming language for musicians. 🎶
 
 ### Dart
 
@@ -283,6 +279,7 @@ A list of awesome beginners-friendly projects.
 
 ### Go
 
+*   [Alda (⭐5.7k)](https://github.com/alda-lang/alda) *(label: low-hanging-fruit)* <br> A music programming language for musicians. 🎶
 *   [containerd (⭐18k)](https://github.com/containerd/containerd) *(label: exp/beginner)* <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 *   [Docker/CLI (⭐5k)](https://github.com/docker/cli) *(label: exp/beginner)* <br> The Docker CLI
 *   [Helm (⭐27k)](https://github.com/kubernetes/helm) *(label: good first issue)* <br> The Kubernetes Package Manager
@@ -301,7 +298,6 @@ A list of awesome beginners-friendly projects.
 
 *   [Codename One (⭐1.7k)](https://github.com/codenameone/CodenameOne) *(label: good first issue)* <br> Cross-platform mobile app development framework for Java developers
 *   [elasticsearch (⭐71k)](https://github.com/elastic/elasticsearch) *(label: good first issue)* <br> Open Source, Distributed, RESTful Search Engine.
-*   [Images-to-PDF (⭐1.2k)](https://github.com/Swati4star/Images-to-PDF) *(label: good first issue)* <br> An android app to convert images to PDF file.
 *   [JabRef (⭐3.7k)](https://github.com/JabRef/jabref) *(label: good first issue)* <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 *   [Strongbox (⭐622)](https://github.com/strongbox/strongbox) *(label: good first issue)* <br> Strongbox is an artifact repository manager written in Java.
 *   [TEAMMATES (⭐1.7k)](https://github.com/TEAMMATES/teammates) *(label: good first issue)* <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
@@ -330,7 +326,7 @@ A list of awesome beginners-friendly projects.
 
 ### PHP
 
-*   [Appwrite (⭐46k)](https://github.com/appwrite/appwrite) *(label: good first issue)* <br> An End-to-end backend server for frontend and mobile developers. 🚀
+*   [Appwrite (⭐47k)](https://github.com/appwrite/appwrite) *(label: good first issue)* <br> An End-to-end backend server for frontend and mobile developers. 🚀
 *   [Deployer (⭐11k)](https://github.com/deployphp/deployer) *(label: good-for-beginner)* <br> A deployment tool written in PHP with support for popular frameworks out of the box.
 *   [Drupal](https://www.drupal.org/getting-involved-guide) *(label: n/a)* <br> Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.
 *   [Flarum (⭐6.5k)](https://github.com/flarum/core) *(label: Good-first-issue)* <br> Simple forum software for building great communities.
@@ -400,7 +396,7 @@ A list of awesome beginners-friendly projects.
 *   [dotenv-linter (⭐1.9k)](https://github.com/dotenv-linter/dotenv-linter) *(label: good first issue)* <br> Lightning-fast linter for .env files. Written in Rust
 *   [Hyper (⭐15k)](https://github.com/hyperium/hyper) *(label: E-easy)* <br> A fast, safe and correct low-level HTTP library for Rust.
 *   [Iron (⭐6.1k)](https://github.com/iron/iron) *(label: easy)* <br> An extensible, concurrent web framework for Rust
-*   [nushell (⭐33k)](https://github.com/nushell/nushell) *(label: good first issue)* <br> A modern shell for the GitHub era written in Rust.
+*   [nushell (⭐34k)](https://github.com/nushell/nushell) *(label: good first issue)* <br> A modern shell for the GitHub era written in Rust.
 *   [Ockam (⭐4.5k)](https://github.com/ockam-network/ockam) *(label: good first issue)* <br> End-to-end encryption and mutual authentication for distributed applications.
 *   [Rust-Clippy (⭐12k)](https://github.com/rust-lang/rust-clippy) *(label: good first issue)* <br> A bunch of lints to catch common mistakes and improve Rust code
 *   [Rustfmt (⭐6.1k)](https://github.com/rust-lang-nursery/rustfmt) *(label: good first issue)* <br> A tool for formatting Rust code according to style guidelines.

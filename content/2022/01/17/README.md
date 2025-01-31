@@ -10,7 +10,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lottie (⭐385)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+*   [vue3-lottie (⭐390)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
 ## [2. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

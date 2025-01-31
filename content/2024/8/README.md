@@ -1082,7 +1082,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [multiwoven (⭐1.5k)](https://github.com/Multiwoven/multiwoven)- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
+*   [multiwoven (⭐1.6k)](https://github.com/Multiwoven/multiwoven)- The open-source reverse ETL, data activation platform for modern data teams. (using Rails 7.1.1) - [🌍](https://www.multiwoven.com/)
 
 ## [51. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -1157,7 +1157,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [GdUnit4 (⭐625)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
+*   [GdUnit4 (⭐632)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
 
 ## [57. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 

@@ -99,8 +99,11 @@
 *   [ipfs-publish (⭐65)](https://github.com/auhau/ipfs-publish/) - Continuous Delivery tool for delivery of static websites from Git providers to IPFS.
 *   [ipfs-video-gateway (⭐46)](https://github.com/bneijt/ipfs-video-gateway) - Cloud-init your own IPFS gateway on a cloud provider and easily pin content through a simple web interface.
 *   [IPLD Explorer (⭐122)](https://github.com/ipfs-shipyard/ipld-explorer) - Explore the Merkle Forest from the comfort of your browser.
-*   [Public Gateway Checker (⭐1.9k)](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not.
 *   [youtube2ipfs (⭐21)](https://github.com/dokterbob/youtube2ipfs) - Download videos from YouTube (and similar video platforms) and add them to IPFS.
+
+### Debugging Tools & Learning
+
+*   [Public Gateway Checker (⭐1.9k)](https://github.com/ipfs/public-gateway-checker)
 
 ### Services & Platforms
 
@@ -110,7 +113,6 @@
 
 *   [Filebase](https://filebase.com/) - Pinning data to IPFS can be hard. Filebase removes that complexity.
 *   [NFT.Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS & Filecoin.
-*   [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application.
 *   [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)

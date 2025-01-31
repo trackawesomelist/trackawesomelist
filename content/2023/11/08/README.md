@@ -116,7 +116,7 @@
 
 ### Templates / React
 
-*   [vite-express-ssr-ts (⭐42)](https://github.com/gihanrangana/vite-express-ssr-ts) - React + Typescript + ExpressJS + Vite SSR template with inbuild api feature.
+*   [vite-express-ssr-ts (⭐43)](https://github.com/gihanrangana/vite-express-ssr-ts) - React + Typescript + ExpressJS + Vite SSR template with inbuild api feature.
 
 ## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

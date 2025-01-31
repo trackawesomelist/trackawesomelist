@@ -43,7 +43,7 @@
 
 ### Open-source sites / Lists
 
-*   [Secure the News (⭐100)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
+*   [Secure the News (⭐102)](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
 *   [HackSoft](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
 *   [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 
@@ -79,7 +79,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vodal (⭐381)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
+*   [vodal (⭐380)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
 
 ## [8. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 

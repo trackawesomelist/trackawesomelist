@@ -10,7 +10,7 @@
 
 ### Software Development
 
-*   [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** \[58:53]
+*   [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** (GOTO Copenhagen 2012) \[58:53]
 
 ## [2. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 

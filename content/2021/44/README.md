@@ -252,7 +252,7 @@
 
 ### Software Development
 
-*   [Inventing on Principle](https://vimeo.com/38272912) by **Bret Victor** \[54:20]
+*   [Inventing on Principle](https://vimeo.com/38272912) by **Bret Victor** (CUSEC 2012) \[54:20]
 
 ## [20. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
@@ -410,7 +410,7 @@
 
 ### Contents / Social Network
 
-*   [Skyfeed (⭐97)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
+*   [Skyfeed (⭐102)](https://github.com/redsolver/skyfeed) - Alternative to Twitter by [RedSolver](https://github.com/redsolver)
 
 ## [32. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
@@ -714,8 +714,8 @@
 
 ### Containers
 
-*   [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos (⭐86)](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
-*   [CI/CD with Docker and Kubernetes Book (⭐198)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
+*   [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos (⭐88)](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
+*   [CI/CD with Docker and Kubernetes Book (⭐200)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
 
 ## [52. Public Apis](/content/public-apis/public-apis/week/README.md)
 

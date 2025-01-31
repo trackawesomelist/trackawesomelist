@@ -10,7 +10,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [chronlife (⭐7)](https://github.com/maciejb2k/chronlife) - A social platform for people with chronic diseases (using Rails 7.0).
+*   [chronlife (⭐9)](https://github.com/maciejb2k/chronlife) - A social platform for people with chronic diseases (using Rails 7.0).
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [JET (⭐751)](https://github.com/aviatesk/JET.jl) — Static type inference system to detect bugs and type instabilities.
+*   [JET (⭐758)](https://github.com/aviatesk/JET.jl) — Static type inference system to detect bugs and type instabilities.
 *   [cargo-semver-checks](https://crates.io/crates/cargo-semver-checks) — Scan your Rust crate releases for semver violations. It can be used either directly via the CLI, as a GitHub Action in CI,  or via release managers like `release-plz`. It found semver violations in  [more than 1 in 6 of the top 1000 most-downloaded crates](https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/) on crates.io.
 
 ## [5. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/week/README.md)

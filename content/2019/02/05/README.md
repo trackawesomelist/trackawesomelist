@@ -17,7 +17,7 @@
 
 ### Syntax themes / Godot version unknown
 
-*   [base16-godot (⭐34)](https://github.com/Calinou/base16-godot) - All [base16 (⭐656)](https://github.com/chriskempson/base16) themes.
+*   [base16-godot (⭐35)](https://github.com/Calinou/base16-godot) - All [base16 (⭐730)](https://github.com/chriskempson/base16) themes.
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 

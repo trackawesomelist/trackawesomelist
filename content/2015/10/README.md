@@ -70,7 +70,7 @@
 
 ### Tutorials
 
-*   [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/\~amitp/gameprog.html) - An great collection of general purpose game programming content.
+*   [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - An great collection of general purpose game programming content.
 
 ## [3. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 

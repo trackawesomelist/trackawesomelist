@@ -106,7 +106,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [autoflake (⭐909)](https://github.com/PyCQA/autoflake) — Autoflake removes unused imports and unused variables from Python code.
+*   [autoflake (⭐914)](https://github.com/PyCQA/autoflake) — Autoflake removes unused imports and unused variables from Python code.
 
 ## [13. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

@@ -769,7 +769,7 @@
 
 ### Open Source / Community
 
-*   [Astro (⭐48k)](https://github.com/withastro/astro) - Modern Static Site Builder.
+*   [Astro (⭐49k)](https://github.com/withastro/astro) - Modern Static Site Builder.
 
 ## [44. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
@@ -966,7 +966,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lottie (⭐385)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+*   [vue3-lottie (⭐390)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
 ## [54. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 

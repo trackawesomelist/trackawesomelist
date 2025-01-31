@@ -49,7 +49,7 @@
 
 ### Templates / React
 
-*   [react-component-library-template (⭐2)](https://github.com/xxhls/react-component-library-template) - A library template for with `React`, `TypeScript`, `Vitest`, `React Testing Library`, `Storybook`, `Biome`, `Stylelint`.
+*   [react-component-library-template (⭐3)](https://github.com/xxhls/react-component-library-template) - A library template for with `React`, `TypeScript`, `Vitest`, `React Testing Library`, `Storybook`, `Biome`, `Stylelint`.
 
 ### Templates / Svelte
 

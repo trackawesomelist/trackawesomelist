@@ -49,7 +49,7 @@
 
 *   [gtfsio (⭐14)](https://github.com/r-transit/gtfsio) - Fast and flexible functions to read and write GTFS in R.
 
-### GTFS Analysis Tools / Ruby
+### GTFS Analysis Tools / Rust
 
 *   [gtfstools (⭐40)](https://github.com/ipeaGIT/gtfstools) - A set of convenient tools for editing and analysing transit feeds in GTFS format in R.
 

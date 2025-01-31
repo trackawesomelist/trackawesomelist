@@ -10,7 +10,7 @@
 
 ### Apps / StreamField
 
-*   [wagtail-inventory (⭐59)](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
+*   [wagtail-inventory (⭐61)](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
 
 ## [2. Awesome Json](/content/burningtree/awesome-json/README.md)
 

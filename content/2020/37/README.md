@@ -380,7 +380,7 @@
 
 ### Contents / Health and Fitness
 
-*   [Covid-Care (⭐10)](https://github.com/j-j-gajjar/covid-care) - Live Update With Change State country india by [J-J-GAJJAR](https://github.com/j-j-gajjar)
+*   [Covid-Care (⭐11)](https://github.com/j-j-gajjar/covid-care) - Live Update With Change State country india by [J-J-GAJJAR](https://github.com/j-j-gajjar)
 
 ### Contents / Personalization
 

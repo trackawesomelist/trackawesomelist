@@ -476,7 +476,7 @@
 
 ### Contents / Shopping
 
-*   [Rapidinho (⭐199)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
+*   [Rapidinho (⭐200)](https://github.com/gdgluanda/rapidinho) - Unofficial delivery app for Rapidinho made by [GDG Luanda
     ](https://github.com/gdgluanda).
 
 ## [46. Awesome Actions](/content/sdras/awesome-actions/week/README.md)

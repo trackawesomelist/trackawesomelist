@@ -67,7 +67,7 @@
 
 ## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Realtime Libraries & Demo Apps / Ruby
+### GTFS Realtime Libraries & Demo Apps / Rust
 
 *   [GTFS-realtime Vehicle Positions Consumer/Visualizer Demo (⭐60)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-visualizer) - A Java-based demo project for consuming a GTFS-realtime Vehicle Positions feed and displaying this info on a map.
 

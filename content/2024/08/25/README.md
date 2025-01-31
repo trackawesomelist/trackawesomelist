@@ -41,17 +41,17 @@
 
 ### XR / Godot 3
 
-*   [Beep Saber VR (⭐109)](https://github.com/NeoSpark314/BeepSaber) - Beat Saber clone in Godot.
+*   [Beep Saber VR (⭐110)](https://github.com/NeoSpark314/BeepSaber) - Beat Saber clone in Godot.
 *   [Friday Night Funkin\` (⭐43)](https://github.com/this-is-bennyk/Funkin-VR) - VR port of the popular rhythm game.
 
 ### Templates / Godot 4
 
-*   [Godot XR Template (⭐147)](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
+*   [Godot XR Template (⭐152)](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
 
 ### Plugins and scripts / Godot 4
 
-*   [Godot XR Tools (⭐544)](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
-*   [TerraBrush (⭐774)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
+*   [Godot XR Tools (⭐552)](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
+*   [TerraBrush (⭐793)](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 
 ---
 

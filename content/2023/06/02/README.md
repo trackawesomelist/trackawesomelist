@@ -66,7 +66,7 @@
 
 ### Tools & Software / Utilities
 
-*   [Go Get Crawl (⭐150)](https://github.com/karust/gogetcrawl) - Extract web archive data using [Wayback Machine](https://web.archive.org/) and [Common Crawl](https://commoncrawl.org/). *(Stable)*
+*   [Go Get Crawl (⭐150)](https://github.com/karust/gogetcrawl) - Extract web archive data using <!--lint ignore double-link-->[Wayback Machine](https://web.archive.org/) and [Common Crawl](https://commoncrawl.org/). *(Stable)*
 
 ## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

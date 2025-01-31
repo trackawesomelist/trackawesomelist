@@ -111,7 +111,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐435)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐437)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 

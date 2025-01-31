@@ -147,7 +147,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-icomoon (⭐28)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
+*   [vue-icomoon (⭐29)](https://github.com/aykutkardas/vue-icomoon) - With vue-icomoon you can easily use the icons you have selected or created in icomoon.
 
 ## [11. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

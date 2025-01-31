@@ -95,7 +95,7 @@
 
 ### Contents / Tools
 
-*   [Immich (⭐44k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
+*   [Immich (⭐57k)](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone by [Alex](https://github.com/alextran1502)
 
 ## [12. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
 
@@ -248,7 +248,7 @@
 
 ### Other / Godot version unknown
 
-*   [zfoo (⭐1.9k)](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
+*   [zfoo (⭐1.8k)](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
 
 ## [28. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/week/README.md)
 

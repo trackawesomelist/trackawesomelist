@@ -16,7 +16,7 @@
 
 ### Software Development
 
-*   [Effective Programs - 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU) by **Rich Hickey** \[1:14:51]
+*   [Effective Programs - 10 Years of Clojure](https://www.youtube.com/watch?v=2V1FtfBDsLU) by **Rich Hickey** (Clojure/Conf 2017) \[1:14:51]
 
 ## [3. Awesome R](/content/qinwf/awesome-R/README.md)
 

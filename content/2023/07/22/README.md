@@ -45,7 +45,7 @@
 
 ### Official Resources
 
-*   [Changelog (⭐80k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
+*   [Changelog (⭐81k)](https://github.com/sveltejs/svelte/blob/master/packages/svelte/CHANGELOG.md)
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

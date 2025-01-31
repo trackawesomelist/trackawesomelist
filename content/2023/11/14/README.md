@@ -14,7 +14,7 @@
 
 ### Additional types
 
-*   [useful-types (⭐119)](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
+*   [useful-types (⭐125)](https://github.com/hauntsaninja/useful_types) - Collection of useful protocols and type aliases.
 
 ## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

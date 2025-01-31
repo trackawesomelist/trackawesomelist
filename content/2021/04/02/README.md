@@ -109,7 +109,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-tabs-chrome (⭐102)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
+*   [vue3-tabs-chrome (⭐104)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
 
 ---
 

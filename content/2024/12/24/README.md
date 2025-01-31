@@ -134,7 +134,7 @@
 
 ### Tools / Helper tools to add annotations to existing code
 
-*   [RightTyper (⭐154)](https://github.com/RightTyper/RightTyper) - A tool that generates types for your function arguments and return values. RightTyper lets your code run at nearly full speed with almost no memory overhead.
+*   [RightTyper (⭐271)](https://github.com/RightTyper/RightTyper) - A tool that generates types for your function arguments and return values. RightTyper lets your code run at nearly full speed with almost no memory overhead.
 
 ## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 

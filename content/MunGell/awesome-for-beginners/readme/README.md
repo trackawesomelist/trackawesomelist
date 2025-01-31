@@ -82,12 +82,11 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [MoveIt (⭐1.8k)](https://github.com/ros-planning/moveit) *(label: good first issue)* <br> Easy-to-use open source robotics manipulation platform for developing commercial applications, prototyping designs, and benchmarking algorithms.
 *   [projectM (⭐3.5k)](https://github.com/projectM-visualizer/projectm) *(label: good first issue)* <br> A music visualizer library using OpenGL and GLSL. Has applications using Qt5, SDL, emscripten, iTunes, Kodi.
 *   [Roc Toolkit (⭐1.1k)](https://github.com/roc-streaming/roc-toolkit) *(label: help-wanted)* <br> A toolkit for real-time audio streaming over the network.
-*   [tensorflow (⭐187k)](https://github.com/tensorflow/tensorflow) *(label: stat:contributions-welcome)* <br> Computation using data flow graphs for scalable machine learning
+*   [tensorflow (⭐188k)](https://github.com/tensorflow/tensorflow) *(label: stat:contributions-welcome)* <br> Computation using data flow graphs for scalable machine learning
 *   [Yugabyte DB (⭐9.2k)](https://github.com/yugabyte/yugabyte-db) *(label: good first issue)* <br> Distributed SQL database.
 
 ## Clojure
 
-*   [Alda (⭐5.7k)](https://github.com/alda-lang/alda) *(label: low-hanging-fruit)* <br> A music programming language for musicians. 🎶
 *   [Metabase (⭐40k)](https://github.com/metabase/metabase) *(label: good first issue)* <br> Open source business intelligence and analytics platform
 
 ## Dart
@@ -107,6 +106,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Go
 
+*   [Alda (⭐5.7k)](https://github.com/alda-lang/alda) *(label: low-hanging-fruit)* <br> A music programming language for musicians. 🎶
 *   [containerd (⭐18k)](https://github.com/containerd/containerd) *(label: exp/beginner)* <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 *   [Docker/CLI (⭐5k)](https://github.com/docker/cli) *(label: exp/beginner)* <br> The Docker CLI
 *   [Dragonfly (⭐2.4k)](https://github.com/dragonflyoss/Dragonfly2) *(label: good first issue)* <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
@@ -137,7 +137,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Codename One (⭐1.7k)](https://github.com/codenameone/CodenameOne) *(label: good first issue)* <br> Cross-platform mobile app development framework for Java developers
 *   [DSA (⭐14)](https://github.com/abhishektripathi66/DSA) *(label: good first issue)* <br> DSA questions practising repo for Java developers
 *   [elasticsearch (⭐71k)](https://github.com/elastic/elasticsearch) *(label: good first issue)* <br> Open Source, Distributed, RESTful Search Engine.
-*   [Images-to-PDF (⭐1.2k)](https://github.com/Swati4star/Images-to-PDF) *(label: good first issue)* <br> An android app to convert images to PDF file.
 *   [JabRef (⭐3.7k)](https://github.com/JabRef/jabref) *(label: good first issue)* <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 *   [OpenMetadata (⭐5.9k)](https://github.com/open-metadata/OpenMetadata) *(label: good first issue)* <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 *   [QuestDB (⭐15k)](https://github.com/questdb/questdb) *(label: Good first issue)* <br> Questdb is a fast open source SQL time series database.
@@ -209,7 +208,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Semantic-UI-React (⭐13k)](https://github.com/Semantic-Org/Semantic-UI-React) *(label: good first issue)* <br> The official React integration for Semantic UI.
 *   [serverless (⭐47k)](https://github.com/serverless/serverless) *(label: good first issue)* <br> The Serverless Framework
 *   [SirixDB (⭐26)](https://github.com/sirixdb/sirix-svelte-front-end) *(label: good first issue)* <br> A Svelte/Sapper based web front-end for SirixDB, which is a versioned NoSQL document store (XML and JSON) written in Java.
-*   [Storybook JS (⭐85k)](https://github.com/storybookjs/storybook) *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
+*   [Storybook JS (⭐86k)](https://github.com/storybookjs/storybook) *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 *   [stryker (⭐2.6k)](https://github.com/stryker-mutator/stryker) *(label: 👶 Good first issue)* <br> The JavaScript mutation testing framework
 *   [Superalgos (⭐4.4k)](https://github.com/Superalgos/Superalgos) *(label: good first issue)* <br> A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
 *   [Svelte (⭐81k)](https://github.com/sveltejs/svelte) *(label: good first issue)* <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
@@ -223,7 +222,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Vue Router (⭐19k)](https://github.com/vuejs/vue-router) *(label: good first issue)* <br> The official router for Vue.js.
 *   [Vue.js (⭐208k)](https://github.com/vuejs/vue) *(label: good first issue)* <br> The Progressive JavaScript Framework.
 *   [VuePress (⭐23k)](https://github.com/vuejs/vuepress) *(label: good first issue)* <br> Minimalistic Vue-powered static site generator
-*   [webdriver.io (⭐9.1k)](https://github.com/webdriverio/webdriverio) *(label: first-timers-only)* <br> Next-gen browser and mobile automation test framework for Node.js
+*   [webdriver.io (⭐9.2k)](https://github.com/webdriverio/webdriverio) *(label: first-timers-only)* <br> Next-gen browser and mobile automation test framework for Node.js
 
 ## JSON
 
@@ -257,7 +256,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## PHP
 
-*   [Appwrite (⭐46k)](https://github.com/appwrite/appwrite) *(label: good first issue)* <br> An End-to-end backend server for frontend and mobile developers. 🚀
+*   [Appwrite (⭐47k)](https://github.com/appwrite/appwrite) *(label: good first issue)* <br> An End-to-end backend server for frontend and mobile developers. 🚀
 *   [Deployer (⭐11k)](https://github.com/deployphp/deployer) *(label: good-for-beginner)* <br> A deployment tool written in PHP with support for popular frameworks out of the box.
 *   [Drupal](https://www.drupal.org/getting-involved-guide) *(label: n/a)* <br> Leading open-source CMS for ambitious digital experiences that reach your audience across multiple channels.
 *   [Flarum (⭐6.5k)](https://github.com/flarum/core) *(label: Good-first-issue)* <br> Simple forum software for building great communities.
@@ -345,7 +344,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [dotenv-linter (⭐1.9k)](https://github.com/dotenv-linter/dotenv-linter) *(label: good first issue)* <br> Lightning-fast linter for .env files. Written in Rust
 *   [Hyper (⭐15k)](https://github.com/hyperium/hyper) *(label: E-easy)* <br> A fast, safe and correct low-level HTTP library for Rust.
 *   [Iron (⭐6.1k)](https://github.com/iron/iron) *(label: easy)* <br> An extensible, concurrent web framework for Rust
-*   [nushell (⭐33k)](https://github.com/nushell/nushell) *(label: good first issue)* <br> A modern shell for the GitHub era written in Rust.
+*   [nushell (⭐34k)](https://github.com/nushell/nushell) *(label: good first issue)* <br> A modern shell for the GitHub era written in Rust.
 *   [Ockam (⭐4.5k)](https://github.com/ockam-network/ockam) *(label: good first issue)* <br> End-to-end encryption and mutual authentication for distributed applications.
 *   [Readest (⭐2.2k)](https://github.com/readest/readest) *(label: good first issue)* <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
 *   [Rust-Clippy (⭐12k)](https://github.com/rust-lang/rust-clippy) *(label: good first issue)* <br> A bunch of lints to catch common mistakes and improve Rust code
@@ -355,7 +354,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [TensorZero (⭐2k)](https://github.com/tensorzero/tensorzero) *(label: good-first-issue)* <br> TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 *   [TiKV (⭐15k)](https://github.com/tikv/tikv) *(label: difficulty/easy)* <br> A distributed transactional key-value database
 *   [Veloren](https://gitlab.com/veloren/veloren) *(label: n/a)* <br> Veloren is a multiplayer voxel RPG written in Rust.
-*   [zoom-rs (⭐1.4k)](https://github.com/security-union/zoom-rs) *(label: good first issue)* <br> Teleconference system with a web based user interface written in Rust
+*   [zoom-rs (⭐1.5k)](https://github.com/security-union/zoom-rs) *(label: good first issue)* <br> Teleconference system with a web based user interface written in Rust
 
 ## Scala
 
@@ -389,7 +388,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Oppia (⭐5.9k)](https://github.com/oppia/oppia) *(label: good first issue)* <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 *   [Readest (⭐2.2k)](https://github.com/readest/readest) *(label: good first issue)* <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
 *   [reatom (⭐1.1k)](https://github.com/artalar/reatom) *(label: good first issue)* <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
-*   [Storybook JS (⭐85k)](https://github.com/storybookjs/storybook) *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
+*   [Storybook JS (⭐86k)](https://github.com/storybookjs/storybook) *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 *   [tinyhttp (⭐2.8k)](https://github.com/talentlessguy/tinyhttp) *(label: good first issue)* <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
 *   [TypeScript (⭐102k)](https://github.com/Microsoft/TypeScript) *(label: good first issue)* <br> A superset of JavaScript that compiles to clean JavaScript output.
 *   [typescript-eslint (⭐15k)](https://github.com/typescript-eslint/typescript-eslint) *(label: good first issue)* <br> Monorepo for all the tooling which enables ESLint to support TypeScript.

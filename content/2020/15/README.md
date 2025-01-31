@@ -715,7 +715,7 @@
 
 ### Apps / Modeladmin
 
-*   [wagtail-admin-list-controls (⭐44)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
+*   [wagtail-admin-list-controls (⭐46)](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 
 ## [38. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 

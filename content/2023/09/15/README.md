@@ -77,7 +77,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [Orchestrator (⭐1k)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games.
+*   [Orchestrator (⭐1.1k)](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games.
 
 ## [11. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 

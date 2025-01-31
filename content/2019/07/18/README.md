@@ -49,7 +49,7 @@ Run `brew install webpquicklook` or [download manually (⭐279)](https://github.
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### SIRI / Ruby
+### SIRI / Rust
 
 *   [Edwig (⭐17)](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
 

@@ -226,7 +226,7 @@
 
 ### Templates / React
 
-*   [template-vite-react-ts-tailwind (⭐59)](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
+*   [template-vite-react-ts-tailwind (⭐61)](https://github.com/RoyRao2333/template-vite-react-ts-tailwind) - React + TypeScript + Tailwind CSS + Eslint + Prettier.
 
 ## [22. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
@@ -1032,7 +1032,7 @@
 
 ### Papers / 2022
 
-*   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐30)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
+*   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐33)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
 
 ## [51. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
@@ -1162,11 +1162,11 @@
 
 ### 3D / Godot 4
 
-*   [Tanks of Freedom II (⭐269)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
+*   [Tanks of Freedom II (⭐275)](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
 
 ### Plugins and scripts / Godot 4
 
-*   [Fast Fourier Transform (FFT) (⭐41)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript.
+*   [Fast Fourier Transform (FFT) (⭐42)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript.
 
 ### Plugins and scripts / Godot 3
 

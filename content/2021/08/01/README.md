@@ -38,7 +38,7 @@
 
 ### Apps / Misc
 
-*   [Wagtail PDF View (⭐23)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
+*   [Wagtail PDF View (⭐26)](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
 
 ## [6. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 

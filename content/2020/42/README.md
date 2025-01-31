@@ -156,7 +156,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [uiv (⭐941)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
+*   [uiv (⭐942)](https://github.com/uiv-lib/uiv) - Bootstrap3 components implemented by Vue2.
 
 ## [13. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -1316,7 +1316,7 @@
 
 *   [Official Guide](https://svelte.dev/tutorial)
 *   [API Reference](https://svelte.dev/docs)
-*   [GitHub Repo (⭐80k)](https://github.com/sveltejs/svelte)
+*   [GitHub Repo (⭐81k)](https://github.com/sveltejs/svelte)
 
 ### Community
 
@@ -1349,7 +1349,7 @@
 
 ### Calendar
 
-*   [svelte-calendar (⭐544)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
+*   [svelte-calendar (⭐545)](https://github.com/6eDesign/svelte-calendar) - A lightweight datepicker with neat animations and a unique UX.
 
 ### Test / Form Components
 

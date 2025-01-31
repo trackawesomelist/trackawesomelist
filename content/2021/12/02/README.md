@@ -127,7 +127,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue3-emoji-picker (⭐198)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
+*   [vue3-emoji-picker (⭐200)](https://github.com/delowardev/vue3-emoji-picker) - Simple and Powerful Emoji Picker for Vue3.
 
 ## [7. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Svelte / Integrations
 
-*   [vite-plugin-svelte (⭐882)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
+*   [vite-plugin-svelte (⭐885)](https://github.com/sveltejs/vite-plugin-svelte) - Adds Svelte support. Official plugin of Svelte team.
 
 ## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -159,7 +159,7 @@
 
 ### Tools / Linters
 
-*   [flake8-type-checking (⭐116)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
+*   [flake8-type-checking (⭐115)](https://github.com/snok/flake8-type-checking) - Plugin to help you guard any type-annotation-only import correctly.
 
 ## [12. Tools](/content/lvwzhen/tools/README.md)
 

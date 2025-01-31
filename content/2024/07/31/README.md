@@ -166,7 +166,7 @@
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [berry-free-angular-admin-template (⭐12)](https://github.com/codedthemes/berry-free-angular-admin-template) - Berry is a free angular admin dashboard template built with Angular and latest Bootstrap 5. It is meant to provide the best possible User Experience with highly customizable feature-rich pages.
-*   [mantis-free-angular-admin-template (⭐13)](https://github.com/codedthemes/mantis-free-angular-admin-template)
+*   [mantis-free-angular-admin-template (⭐15)](https://github.com/codedthemes/mantis-free-angular-admin-template)
 *   [datta-able-free-angular-admin-template (⭐22)](https://github.com/codedthemes/datta-able-free-angular-admin-template)
 
 ### Loggers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

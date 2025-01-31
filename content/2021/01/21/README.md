@@ -28,7 +28,7 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [2D Day/Night Cycle (⭐346)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D.
+*   [2D Day/Night Cycle (⭐345)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D.
 
 ### Plugins and scripts / Godot version unknown
 

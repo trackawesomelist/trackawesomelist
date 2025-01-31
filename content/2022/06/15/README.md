@@ -216,7 +216,7 @@
 
 ### API / Samples
 
-*   [Remult (⭐2.9k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
+*   [Remult (⭐3k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 
 ## [10. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 

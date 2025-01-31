@@ -29,7 +29,7 @@
 
 ### Software Development
 
-*   [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** \[55:46]
+*   [Programming is Writing is Programming](https://www.youtube.com/watch?v=uO3a4HIBDU4) by **Felienne Hermans** (NDC Oslo 2017) \[55:46]
 
 ### Computer History
 

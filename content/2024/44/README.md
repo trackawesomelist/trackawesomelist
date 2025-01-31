@@ -67,11 +67,11 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [QuestSystem (⭐307)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
+*   [QuestSystem (⭐313)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
 
 ### Modules / Godot 4
 
-*   [Keyring (⭐4)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
+*   [Keyring (⭐6)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
 
 ## [8. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -161,7 +161,7 @@
 
 ### Routers / Form Components
 
-*   [svelte5-router (⭐79)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
+*   [svelte5-router (⭐100)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 
 ## [16. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 

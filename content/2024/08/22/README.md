@@ -42,7 +42,7 @@
 
 ### Networking
 
-*   [MyIP (⭐6.5k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more. By [@jason5ng32](https://github.com/jason5ng32)
+*   [MyIP (⭐7.1k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check all your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more. By [@jason5ng32](https://github.com/jason5ng32)
 
 ## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -86,12 +86,12 @@
 
 ### Apps / Content Management
 
-*   [Wagtail-FEdit (⭐9)](https://github.com/Nigel2392/wagtail_fedit) - Add frontend editing to your Wagtail site.
+*   [Wagtail-FEdit (⭐11)](https://github.com/Nigel2392/wagtail_fedit) - Add frontend editing to your Wagtail site.
 
 ### Tools / Templates (start command)
 
 *   [Wagtail tutorial template (⭐3)](https://github.com/thibaudcolas/wagtail-tutorial-template)
-*   [Wagtail news template (⭐4)](https://github.com/torchbox/wagtail-news-template)
+*   [Wagtail news template (⭐47)](https://github.com/torchbox/wagtail-news-template)
 
 ## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

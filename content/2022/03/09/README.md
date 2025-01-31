@@ -72,7 +72,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-live-reload (⭐88)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
+*   [vite-plugin-live-reload (⭐90)](https://github.com/arnoson/vite-plugin-live-reload) - Live reloading.
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 

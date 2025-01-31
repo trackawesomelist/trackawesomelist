@@ -86,7 +86,7 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐8k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐8.1k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
 ## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -102,11 +102,11 @@
 
 ### Programming Language
 
-*   [C++ Developer Roadmap (⭐2.7k)](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap focuses on general competencies and skills about C++ in 2022 [<img src="https://img.shields.io/badge/Roadmap-2022-green.svg">](https://github.com/salmer/CppDeveloperRoadmap).
+*   [C++ Developer Roadmap (⭐3k)](https://github.com/salmer/CppDeveloperRoadmap) - Roadmap focuses on general competencies and skills about C++ in 2024 [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/salmer/CppDeveloperRoadmap).
 
 ### Miscellaneous
 
-*   [Awesome Quality Assurance Roadmap (⭐1.7k)](https://github.com/fityanos/awesome-quality-assurance-roadmap) - Roadmap for QA and software testing learning curve which you might need to start the journey [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/fityanos/awesome-quality-assurance-roadmap).
+*   [Awesome Quality Assurance Roadmap (⭐1.9k)](https://github.com/fityanos/awesome-quality-assurance-roadmap) - Roadmap for QA and software testing learning curve which you might need to start the journey [<img src="https://img.shields.io/badge/Roadmap-2021-green.svg">](https://github.com/fityanos/awesome-quality-assurance-roadmap).
 
 ---
 

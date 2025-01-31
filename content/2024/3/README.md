@@ -18,52 +18,7 @@
 
 *   [Simple Prometheus queries for metrics inspection](https://mkaz.me/blog/2023/simple-prometheus-queries-for-metrics-inspection/) - Overview of PromQL queries that help to identify high cardinality metrics by Michal Kazmierczak.
 
-## [3. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
-
-### Software / Make your life easier
-
-*   [playwright-bdd (⭐348)](https://github.com/vitalets/playwright-bdd) - A module for running Behaviour-Driven Development (BDD) tests with Playwright runner.
-
-## [4. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
-
-### Themes for non-GTK apps / Skeumorphic Icons
-
-*   [Thunderbird GNOME Theme (⭐295)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
-
-## [5. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
-
-### Table of Contents / API
-
-*   [PackageGenerator (⭐430)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
-
-## [6. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
-
-### Tools
-
-*   [github-contributions (⭐12)](https://github.com/ferraridavide/scriptable/blob/main/github-contributions.js) - GitHub contributions heatmap on your lockscreen.
-
-    <img src="https://raw.githubusercontent.com/ferraridavide/scriptable/main/img/github.jpg" width="300"/>
-
-## [7. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
-
-### Web Archiving Service Providers / Self-hostable, Open Source
-
-*   [Conifer](https://conifer.rhizome.org/) - From [Rhizome](https://rhizome.org/), source available at <https://github.com/Rhizome-Conifer>.
-
-### Web Archiving Service Providers / Hosted, Closed Source
-
-*   [Archive-It](https://archive-it.org/) - From the Internet Archive.
-*   [Arkiwera](https://arkiwera.se/wp/websites/)
-*   [Hanzo](https://www.hanzo.co/chronicle)
-*   [MirrorWeb](https://www.mirrorweb.com/solutions/capabilities/website-archiving)
-*   [PageFreezer](https://www.pagefreezer.com/)
-*   [Smarsh](https://www.smarsh.com/platform/compliance-management/web-archive)
-
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
-
-### Software / Database Management
-
-*   [AdminerEvo](https://docs.adminerevo.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others (fork of Adminer). ([Source Code (⭐787)](https://github.com/adminerevo/adminerevo)) `Apache-2.0/GPL-2.0` `PHP`
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -81,6 +36,47 @@
 
 *   [ybFeed (⭐47)](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images. `MIT` `Go/Nodejs/Docker`
 
+## [4. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+
+### Software / Make your life easier
+
+*   [playwright-bdd (⭐348)](https://github.com/vitalets/playwright-bdd) - A module for running Behaviour-Driven Development (BDD) tests with Playwright runner.
+
+## [5. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
+
+### Themes for non-GTK apps / Skeumorphic Icons
+
+*   [Thunderbird GNOME Theme (⭐295)](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
+
+## [6. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+
+### Table of Contents / API
+
+*   [PackageGenerator (⭐430)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
+
+## [7. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+
+### Tools
+
+*   [github-contributions (⭐12)](https://github.com/ferraridavide/scriptable/blob/main/github-contributions.js) - GitHub contributions heatmap on your lockscreen.
+
+    <img src="https://raw.githubusercontent.com/ferraridavide/scriptable/main/img/github.jpg" width="300"/>
+
+## [8. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+
+### Web Archiving Service Providers / Self-hostable, Open Source
+
+*   [Conifer](https://conifer.rhizome.org/) - From [Rhizome](https://rhizome.org/), source available at <https://github.com/Rhizome-Conifer>.
+
+### Web Archiving Service Providers / Hosted, Closed Source
+
+*   [Archive-It](https://archive-it.org/) - From the Internet Archive.
+*   [Arkiwera](https://arkiwera.se/wp/websites/)
+*   [Hanzo](https://www.hanzo.co/chronicle)
+*   [MirrorWeb](https://www.mirrorweb.com/solutions/capabilities/website-archiving)
+*   [PageFreezer](https://www.pagefreezer.com/)
+*   [Smarsh](https://www.smarsh.com/platform/compliance-management/web-archive)
+
 ## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Users
@@ -95,7 +91,7 @@
 
 ### UI Libraries
 
-*   [Melt UI (⭐3.8k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
+*   [Melt UI (⭐3.9k)](https://github.com/melt-ui/melt-ui) - A collection of accessible, reusable, and composable headless component builders and utilities.
 
 ## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -530,7 +526,7 @@
 *   [The Rail Map](https://www.therailmap.com/) - An Interactive Map with Train lines in North America using data from OpenStreetMap.
 *   [JR pass](https://www.jrpass.com/map#) - Interactive Map of Mainline Rail in Japan.
 
-### GTFS Analysis Tools / Ruby
+### GTFS Analysis Tools / Rust
 
 *   [PTNA](https://wiki.openstreetmap.org/wiki/Public_Transport_Network_Analysis) - Public Transit Nework Analysis is a open source system for finding and aggregating information about public transportation lines mapped in OSM.
 
@@ -610,7 +606,7 @@
 
 ### Software / HPGL
 
-*   [Chiplotle3 (⭐7)](https://github.com/cyprienh/chiplotle3) - Chiplotle fork updated for Python 3.x compatibility.
+*   [Chiplotle3 (⭐9)](https://github.com/cyprienh/chiplotle3) - Chiplotle fork updated for Python 3.x compatibility.
 
 ## [39. Awesome Golem](/content/golemfactory/awesome-golem/week/README.md)
 
@@ -655,7 +651,7 @@
 
 ### CI/CD / Other
 
-*   [dockcheck (⭐1.1k)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
+*   [dockcheck (⭐1.2k)](https://github.com/mag37/dockcheck) - A script checking updates for docker images without pulling then auto-update selected/all containers. With notifications, pruning and more.
 
 ---
 

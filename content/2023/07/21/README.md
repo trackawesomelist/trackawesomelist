@@ -32,7 +32,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-use-fixed-header (⭐60)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
+*   [vue-use-fixed-header (⭐61)](https://github.com/smastrom/vue-use-fixed-header) - Turn your boring fixed header into a smart one.
 *   [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)

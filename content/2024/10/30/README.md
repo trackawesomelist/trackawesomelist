@@ -146,7 +146,7 @@
 
 ### Routers / Form Components
 
-*   [svelte5-router (⭐79)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
+*   [svelte5-router (⭐100)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 
 ## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

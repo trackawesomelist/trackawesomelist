@@ -10,7 +10,7 @@
 
 ### Frameworks
 
-*   [Fungus (⭐1.2k)](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
+*   [Fungus (⭐1.7k)](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
 
 ## [2. Awesome Android Ui](/content/wasabeef/awesome-android-ui/README.md)
 

@@ -16,7 +16,7 @@
 
 ### PWA / Form Components
 
-*   [SvelteKit-Adapter-Versioned-Worker (⭐12)](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
+*   [SvelteKit-Adapter-Versioned-Worker (⭐13)](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
 
 ## [3. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 

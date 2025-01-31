@@ -46,7 +46,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [flowbite-vue (⭐796)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
+*   [flowbite-vue (⭐803)](https://github.com/themesberg/flowbite-vue) - Vue component library based on Tailwind CSS
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

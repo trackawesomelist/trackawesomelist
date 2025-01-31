@@ -107,7 +107,7 @@
 
 ## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Merge Tools / Ruby
+### GTFS Merge Tools / Rust
 
 *   [gtfsmerge (⭐2)](https://github.com/now8-org/gtfsmerge) - A Python Script to merge GTFS ZIP archives into one.
 

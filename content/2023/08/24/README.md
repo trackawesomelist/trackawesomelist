@@ -40,7 +40,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLMStack (⭐1.4k)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data. ![GitHub Repo stars](https://img.shields.io/github/stars/trypromptly/LLMStack?style=social)
+*   [LLMStack (⭐1.8k)](https://github.com/trypromptly/LLMStack): No code platform for building LLM-powered applications with custom data. ![GitHub Repo stars](https://img.shields.io/github/stars/trypromptly/LLMStack?style=social)
 
 ## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 

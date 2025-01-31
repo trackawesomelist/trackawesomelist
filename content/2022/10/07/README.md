@@ -128,7 +128,7 @@ Installs: 4000 | Stars: 961 | Last update: n/a
 
 ### Templates / Electron
 
-*   [electron-vue-template (⭐620)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
+*   [electron-vue-template (⭐627)](https://github.com/Deluze/electron-vue-template) - Electron template with TypeScript, including Electron Builder.
 
 ## [15. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

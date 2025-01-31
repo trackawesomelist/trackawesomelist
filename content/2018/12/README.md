@@ -413,7 +413,7 @@ git rebase --onto <new_base> <old_base>
 
 ### Apps / Security
 
-*   [wagtail-2fa (⭐85)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
+*   [wagtail-2fa (⭐86)](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
 
 ### Resources / Articles
 

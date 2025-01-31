@@ -108,7 +108,6 @@
 *   [Iconjar](http://geticonjar.com/) - Icon management tool to organize or search your icons.
 *   [Mark Man](http://getmarkman.com/) - Measure & Spec Fast.
 *   [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive.
-*   [Sip](http://theolabrothers.com/) - The best way to collect, organize & share your colors.
 *   [Snagit](https://www.techsmith.com/snagit.html) - Simple, Powerful Screen Capture Software and Screen Recorder.
 
 ### Communication / Collaboration and Team Tools

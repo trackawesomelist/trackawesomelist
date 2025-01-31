@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 18, 2020
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,19 +18,13 @@
 
 *   [SheetyColors (⭐107)](https://github.com/chrs1885/SheetyColors) - An action sheet styled color picker for iOS.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Automation
-
-*   [YoutubeDL-Material (⭐2.7k)](https://github.com/Tzahi12345/YoutubeDL-Material) - Material Design inspired YouTube downloader, based on youtube-dl. Supports playlists, quality select, search, dark mode and much more, all with a clean and modern design. `MIT` `Nodejs/Docker`
-
-## [4. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+## [3. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ### Plugins & Libraries
 
 *   [bonfire (⭐1.3k)](https://github.com/RafaelBarbosatec/bonfire) - RPG maker. By [rafaelbarbosatec](https://github.com/RafaelBarbosatec)
 
-## [5. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
+## [4. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/README.md)
 
 ### IoT Applications
 
@@ -124,7 +118,7 @@ Language: English \ <br>
 Notable Channels: `#geek-speak`, `#java-help`, `#android-help`, `#framework-help`, `#c_cpp_help`, `#algorithms_help`, `#architecture-help`, `#code_review`, `#ui_ux_help`\
 Language: English
 
-## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [5. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
 
@@ -191,7 +185,7 @@ Language: English
 
 *   [Substats API](https://substats.spencerwoo.com/)
 
-## [7. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
+## [6. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
 ### What This Is, and Where It Comes From / Quotes That Capture the General Spirit of this List's Contents
 
@@ -210,7 +204,7 @@ Language: English
 *   Individual contributors (ICs) considering a move to management
 *   Managers looking to level-up a particular skill or attribute
 
-## [8. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
+## [7. Awesome Deep Learning Resources](/content/guillaume-chevalier/Awesome-Deep-Learning-Resources/README.md)
 
 ### Books
 
@@ -221,7 +215,7 @@ Language: English
 
 *   [Clean Machine Learning, a Coding Kata (⭐13)](https://github.com/Neuraxio/Kata-Clean-Machine-Learning-From-Dirty-Code) - Learn the good design patterns to use for doing Machine Learning the good way, by practicing.
 
-## [9. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
+## [8. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 
 ### Official Docs & Quickstarts
 
@@ -231,7 +225,7 @@ Language: English
 
 *   📖 [Firestore for C++ and Unity](https://firebase.google.com/docs/firestore) - C++ and Unity SDKs for C++ and Unity (with Firebase Unity SDKs available via Unity Package Manager).
 
-## [10. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [9. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Configuration
 
@@ -245,7 +239,7 @@ Language: English
 
 *   [tmux-cpu-info (⭐14)](https://github.com/jdxcode/tmux-cpu-info) CPU usage gauge to status bar
 
-## [11. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
+## [10. Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md)
 
 ### Lighting / Visualizers
 

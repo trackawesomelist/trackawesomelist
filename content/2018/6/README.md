@@ -94,7 +94,7 @@
 
 ### AI
 
-*   [Crystal AI (⭐396)](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
+*   [Crystal AI (⭐466)](https://github.com/igiagkiozis/CrystalAI) - Crystal is a fast, scalable and extensible utility based AI framework for C# and Unity.
 
 ## [8. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 

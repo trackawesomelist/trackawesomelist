@@ -26,7 +26,7 @@
 
 ### Utilities
 
-*   [Consolation (⭐710)](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
+*   [Consolation (⭐870)](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
 
 ## [4. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

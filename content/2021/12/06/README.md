@@ -149,7 +149,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vueuse (⭐20k)](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
+*   [vueuse (⭐21k)](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition API utils works for Vue 2.x and 3.x.
 
 ## [14. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 

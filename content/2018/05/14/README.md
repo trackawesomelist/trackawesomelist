@@ -91,7 +91,7 @@ Webpage: <https://aws.amazon.com/start-ups/loft/ny-loft/>
 
 ### Apps / Misc
 
-*   [Wagtail App Pages (⭐30)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
+*   [Wagtail App Pages (⭐31)](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
 
 ---
 

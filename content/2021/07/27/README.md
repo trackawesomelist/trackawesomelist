@@ -20,7 +20,7 @@
 
 ### Django / Community
 
-*   [django-vite (⭐607)](https://github.com/MrBin99/django-vite) - Integration for Django applications.
+*   [django-vite (⭐621)](https://github.com/MrBin99/django-vite) - Integration for Django applications.
 
 ### Ruby on Rails / Community
 

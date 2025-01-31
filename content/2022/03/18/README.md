@@ -38,7 +38,7 @@
 
 ### Open Source / Community
 
-*   [Hathora (⭐555)](https://github.com/hathora/hathora) - Multiplayer game framework.
+*   [Hathora (⭐557)](https://github.com/hathora/hathora) - Multiplayer game framework.
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 

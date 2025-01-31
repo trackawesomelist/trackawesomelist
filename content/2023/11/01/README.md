@@ -156,7 +156,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [exome (⭐243)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
+*   [exome (⭐249)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 
 ## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -166,7 +166,7 @@ Contributions are welcome and encouraged! Read the [contribution guidelines](htt
 
 ### Other / [Other](#other-1)
 
-*   [kani (⭐2.3k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.
+*   [kani (⭐2.4k)](https://github.com/model-checking/kani) — The Kani Rust Verifier is a bit-precise model checker for Rust.
     Kani is particularly useful for verifying unsafe code blocks in Rust,
     where the "unsafe superpowers" are unchecked by the compiler.
     Kani verifies:

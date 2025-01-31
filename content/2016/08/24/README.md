@@ -87,7 +87,7 @@
 
 ### Software Development
 
-*   [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) by **Thomas Figg** \[1:06:43]
+*   [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=AUYPnxv0yss) by **Thomas Figg** (EMF 2012) \[1:06:43]
 
 ### Object-Oriented Programming
 

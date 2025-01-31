@@ -107,10 +107,6 @@
 
 *   [openapi (⭐11)](https://github.com/neotoolkit/openapi) - OpenAPI 3.x parser.
 
-### Server Applications
-
-*   [dummy (⭐178)](https://github.com/neotoolkit/dummy) - Run mock server based off an API contract with one command.
-
 ## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
 ### Transport-layer defenses / Overlay and Virtual Private Networks (VPNs)

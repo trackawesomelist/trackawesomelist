@@ -54,7 +54,7 @@ Webpage: <https://london.hackspace.org.uk/>
 
 ### 2D
 
-*   [UnityTiled (⭐82)](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
+*   [UnityTiled](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
 
 ---
 

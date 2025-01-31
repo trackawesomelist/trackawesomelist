@@ -400,11 +400,11 @@
 
 ### Projects / Godot 3
 
-*   [vpuppr (⭐754)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
+*   [vpuppr (⭐761)](https://github.com/virtual-puppet-project/vpuppr) - A cross-platform VTuber application with mulitple tracking backends.
 
 ### Modules / Godot 3
 
-*   [spout-gd (⭐42)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐784)](https://github.com/leadedge/Spout2).
+*   [spout-gd (⭐44)](https://github.com/you-win/spout-gd) - Share OpenGL textures across Windows applications through your GPU using [Spout (⭐791)](https://github.com/leadedge/Spout2).
 
 ## [31. Awesome Web Monetization](/content/thomasbnt/awesome-web-monetization/week/README.md)
 
@@ -521,7 +521,7 @@
 
 ### Networking
 
-*   [Calico (⭐6k)](https://github.com/projectcalico/calico) - Calico is a pure layer 3 virtual network that allows containers over multiple docker-hosts to talk to each other.
+*   [Calico (⭐6.2k)](https://github.com/projectcalico/calico) - Calico is a pure layer 3 virtual network that allows containers over multiple docker-hosts to talk to each other.
 
 ## [43. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -655,7 +655,7 @@ Installs: 2000 | Stars: 352 | Last update: n/a
 
 ### Other Lists / Help
 
-*   [upb-lea/awesome-open-source-power-electronics (⭐208)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
+*   [upb-lea/awesome-open-source-power-electronics (⭐209)](https://github.com/upb-lea/awesome-open-source-power-electronics) - Open source software list specialized on power electronics.
 
 ## [52. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 

@@ -16,7 +16,7 @@
 
 ### Software / Plotter Control
 
-*   [Inkcut (⭐328)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+*   [Inkcut (⭐339)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -26,7 +26,7 @@
 
 ### 3D / Godot 3
 
-*   [Ball2Box (⭐44)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
+*   [Ball2Box (⭐45)](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -39,7 +39,7 @@
 
 ### Open Source Rails Apps / Other external resources
 
-*   [docuseal (⭐6.5k)](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
+*   [docuseal (⭐8.3k)](https://github.com/docusealco/docuseal) - A platform to fill and sign digital documents (using Rails 7.0). - [:earth\_africa:](https://www.docuseal.co/)
 
 ---
 

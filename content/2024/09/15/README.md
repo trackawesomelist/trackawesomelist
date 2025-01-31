@@ -349,7 +349,7 @@
 
 ### Stub packages
 
-*   [scipy-stubs (⭐24)](https://github.com/jorenham/scipy-stubs) - Stubs for [SciPy (⭐13k)](https://github.com/scipy/scipy).
+*   [scipy-stubs (⭐33)](https://github.com/jorenham/scipy-stubs) - Stubs for [SciPy (⭐13k)](https://github.com/scipy/scipy).
 
 ## [21. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 

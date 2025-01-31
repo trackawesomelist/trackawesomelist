@@ -10,11 +10,11 @@
 
 ### Git / Diagnostics
 
-*   [mrloop/telescope-git-branch.nvim (⭐6)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
+*   [mrloop/telescope-git-branch.nvim (⭐7)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
 
 ### Split and Window / Diagnostics
 
-*   [ycdzj/win-mover.nvim (⭐7)](https://github.com/ycdzj/win-mover.nvim) - Window mover that avoids moving side windows.
+*   [ycdzj/win-mover.nvim (⭐10)](https://github.com/ycdzj/win-mover.nvim) - Window mover that avoids moving side windows.
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Engine themes / Godot version unknown
 
-*   [Catppuccin Theme (⭐110)](https://github.com/catppuccin/godot) - A soothing pastel theme offered in four different flavors.
+*   [Catppuccin Theme (⭐117)](https://github.com/catppuccin/godot) - A soothing pastel theme offered in four different flavors.
 *   [Godot Minimal Theme (⭐2.1k)](https://github.com/passivestar/godot-minimal-theme) - A theme that aims to correct odd spacing and formatting in the default Godot theme without changing the overall look and feel.
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)

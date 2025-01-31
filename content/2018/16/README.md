@@ -758,7 +758,7 @@
 
 ### Augmented & Virtual Reality
 
-*   [Virtual Reality Toolkit (⭐3.6k)](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
+*   [Virtual Reality Toolkit (⭐3.7k)](http://github.com/thestonefox/vrtk) - Virtual Reality framework that allows for powerful interactions, locomotion, and visual effects.
 
 ## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 

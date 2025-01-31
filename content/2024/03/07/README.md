@@ -125,7 +125,7 @@
 
 ### Software / Fonts
 
-*   [hf2gcode (⭐49)](https://github.com/Andy1978/hf2gcode) - Generates G-code from text with a Hershey font.
+*   [hf2gcode (⭐50)](https://github.com/Andy1978/hf2gcode) - Generates G-code from text with a Hershey font.
 
 ---
 

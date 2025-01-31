@@ -600,7 +600,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ## [30. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### SIRI / Ruby
+### SIRI / Rust
 
 *   [pysiri2validator (⭐2)](https://github.com/laidig/pysiri2validator) - Simple validator for SIRI 2.0 written in Python 3.
 
@@ -608,7 +608,7 @@ Webpage: <https://www.facebook.com/BlossomCoffeeAndFood/>
 
 ### Apps / Misc
 
-*   [Joyous (⭐74)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
+*   [Joyous (⭐76)](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
 
 ## [32. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 

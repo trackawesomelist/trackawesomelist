@@ -459,7 +459,7 @@
 
 ### Stub packages
 
-*   [celery-types (⭐88)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐25k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐698)](https://github.com/celery/django-celery-results), [ampq (⭐309)](https://github.com/celery/py-amqp), [kombu (⭐2.9k)](https://github.com/celery/kombu), [billiard (⭐419)](https://github.com/celery/billiard), [vine (⭐123)](https://github.com/celery/vine) and [ephem (⭐787)](https://github.com/brandon-rhodes/pyephem).
+*   [celery-types (⭐90)](https://github.com/sbdchd/celery-types) - Type stubs for [Celery (⭐25k)](https://github.com/celery/celery) and its related packages [django-celery-results (⭐702)](https://github.com/celery/django-celery-results), [ampq (⭐310)](https://github.com/celery/py-amqp), [kombu (⭐2.9k)](https://github.com/celery/kombu), [billiard (⭐419)](https://github.com/celery/billiard), [vine (⭐124)](https://github.com/celery/vine) and [ephem (⭐799)](https://github.com/brandon-rhodes/pyephem).
 
 ### Articles / Third-party articles
 
@@ -500,7 +500,7 @@
 
 ### Apps / StreamField
 
-*   [Wagtail UIKit Block (⭐17)](https://github.com/kpsaurus/wagtail-uikitblocks) - A collection of UIKit components that can be used as a Wagtail StreamField block.
+*   [Wagtail UIKit Block (⭐18)](https://github.com/kpsaurus/wagtail-uikitblocks) - A collection of UIKit components that can be used as a Wagtail StreamField block.
 
 ## [43. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
@@ -513,14 +513,14 @@
 ### Framework-agnostic Plugins / Helpers
 
 *   [vite-plugin-dev-manifest (⭐22)](https://github.com/owlsdepartment/vite-plugin-dev-manifest) - Generates `manifest.dev.json` during dev server, for backend integration with any language/framework.
-*   [vite-plugin-watch-and-run (⭐411)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
+*   [vite-plugin-watch-and-run (⭐417)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-watch-and-run) - Watch some files (glob) and trigger a command. To enable any tool to have a watch mode.
 
 ## [45. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
 *   [Inkline (⭐1.4k)](https://github.com/inkline/inkline/) - Inkline is the intuitive UI Components library that gives you a developer-friendly foundation for building Vue.js 3 Design Systems.
-*   [Mosaic - Vue Admin TailwindCSS template (⭐266)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
+*   [Mosaic - Vue Admin TailwindCSS template (⭐268)](https://github.com/cruip/vuejs-admin-dashboard-template) - The All-in-one Tailwind CSS Admin Dashboard Template.
 
 ### Components & Libraries / UI Components
 

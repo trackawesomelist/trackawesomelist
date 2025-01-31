@@ -10,7 +10,7 @@
 
 ### Software Development
 
-*   [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** \[52:43]
+*   [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** (Clojure/Conf 2013) \[52:43]
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

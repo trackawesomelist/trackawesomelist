@@ -46,7 +46,7 @@
 
 ### Scaffold
 
-*   [svelte-docs-starter (⭐12)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
+*   [svelte-docs-starter (⭐22)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

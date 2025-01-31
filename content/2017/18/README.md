@@ -51,7 +51,7 @@
 
 ### Software Development
 
-*   [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** \[58:53]
+*   [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** (GOTO Copenhagen 2012) \[58:53]
 
 ## [4. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
@@ -512,7 +512,7 @@
 
 ### Character Controllers
 
-*   [CharacterController2D (⭐979)](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
+*   [CharacterController2D (⭐1.1k)](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
 
 ## [26. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 

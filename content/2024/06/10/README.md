@@ -10,7 +10,7 @@
 
 ### Open Source / Community
 
-*   [@lazarv/react-server (⭐153)](https://github.com/lazarv/react-server) - A React meta-framework.
+*   [@lazarv/react-server (⭐208)](https://github.com/lazarv/react-server) - A React meta-framework.
 
 ## [2. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 

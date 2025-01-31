@@ -39,7 +39,7 @@
 
 ### Playbooks, Roles and Collections / French
 
-*   [BlueBanquise (⭐117)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
+*   [BlueBanquise (⭐122)](https://github.com/bluebanquise/bluebanquise) - An ansible coherent roles collection to deploy clusters.
 
 ## [3. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
@@ -86,7 +86,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-qrcode (⭐153)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
+*   [vite-plugin-qrcode (⭐154)](https://github.com/svitejs/vite-plugin-qrcode) - Show QR code on server start.
 
 ## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 

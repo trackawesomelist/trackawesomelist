@@ -10,7 +10,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [Godot Google Play Game Services (⭐163)](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
+*   [Godot Google Play Game Services (⭐169)](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
 
 ### Plugins and scripts / Godot 3
 
