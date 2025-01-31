@@ -6,6 +6,17 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 [ Daily / [Weekly](/content/ipfs/awesome-ipfs/week/README.md) / [Overview](/content/ipfs/awesome-ipfs/readme/README.md) ]
 
+## [Jan 31, 2025](/content/2025/01/31/README.md)
+
+### Debugging Tools & Learning
+
+*   [IPFS Check](https://check.ipfs.network/)
+*   [Helia Identify](https://helia-identify.on.fleek.co/)
+*   [CID Inspector](https://cid.ipfs.tech/)
+*   [File to UnixFS DAG](https://dag.ipfs.tech/)
+*   [IPLD Explorer](https://explore.ipld.io)
+*   [IPNS Inspector (⭐3)](https://github.com/ipfs/ipns-inspector)
+
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
 ### Apps
@@ -25,12 +36,6 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 ### Apps
 
 *   [hyprspace (⭐108)](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks.
-
-## [Oct 27, 2024](/content/2024/10/27/README.md)
-
-### IPFS in browsers
-
-*   [Identify with Helia](https://helia-identify.on.fleek.co/)
 
 ## [Sep 17, 2024](/content/2024/09/17/README.md)
 
@@ -72,18 +77,6 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 *   [Quiet](https://tryquiet.org/) - Privacy focused, end-to-end encrypted chat app that runs a private IPFS network over Tor connections. Desktop and mobile iOS and Android apps available.
 
-## [Nov 09, 2023](/content/2023/11/09/README.md)
-
-### Pinning services
-
-*   [thirdweb](https://thirdweb.com/storage) - Easily upload and pin files to IPFS.
-
-## [Oct 24, 2023](/content/2023/10/24/README.md)
-
-### Pinning services
-
-*   [Scaleway](https://labs.scaleway.com/en/ipfs-pinning/) - A multi-region, multi-az redundant IPFS pinning service.
-
 ## [Oct 23, 2023](/content/2023/10/23/README.md)
 
 ### Tools
@@ -118,8 +111,6 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 ### Pinning services
 
 *   [4EVERLAND](https://www.4everland.org/) - 4EVERLAND is a pinning service that provides IPFS infrastructure and tooling making it easier and faster to host frontends, store data/NFT/file and fetch data with IPFS.
-*   [Kriptonio](https://kriptonio.com/) - Pinning service & Web3 Platform for building Web3 apps.
-*   [Spheron](https://spheron.network) - Spheron offers IPFS pinning service and dedicated gateways.
 
 ## [Sep 22, 2023](/content/2023/09/22/README.md)
 
@@ -144,8 +135,11 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 *   [ipfs-publish (⭐65)](https://github.com/auhau/ipfs-publish/) - Continuous Delivery tool for delivery of static websites from Git providers to IPFS.
 *   [ipfs-video-gateway (⭐46)](https://github.com/bneijt/ipfs-video-gateway) - Cloud-init your own IPFS gateway on a cloud provider and easily pin content through a simple web interface.
 *   [IPLD Explorer (⭐122)](https://github.com/ipfs-shipyard/ipld-explorer) - Explore the Merkle Forest from the comfort of your browser.
-*   [Public Gateway Checker (⭐1.9k)](https://github.com/ipfs/public-gateway-checker) - Checks which public gateways are online or not.
 *   [youtube2ipfs (⭐21)](https://github.com/dokterbob/youtube2ipfs) - Download videos from YouTube (and similar video platforms) and add them to IPFS.
+
+### Debugging Tools & Learning
+
+*   [Public Gateway Checker (⭐1.9k)](https://github.com/ipfs/public-gateway-checker)
 
 ### Services & Platforms
 
@@ -155,7 +149,6 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 *   [Filebase](https://filebase.com/) - Pinning data to IPFS can be hard. Filebase removes that complexity.
 *   [NFT.Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS & Filecoin.
-*   [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application.
 *   [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
 ## [Oct 04, 2022](/content/2022/10/04/README.md)

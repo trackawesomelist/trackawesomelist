@@ -10,7 +10,7 @@ Everything that makes working with databases easier
 
 ### Schema / Diagrams
 
-*   [Liam ERD (⭐334)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
+*   [Liam ERD (⭐337)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
 
 ## [Jan 20 - Jan 26, 2025](/content/2025/3/README.md)
 
@@ -238,7 +238,7 @@ Everything that makes working with databases easier
 
 ### Application platforms / Samples
 
-*   [Nhost (⭐8k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐8.1k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
@@ -262,7 +262,7 @@ Everything that makes working with databases easier
 
 ### API / Samples
 
-*   [Remult (⭐2.9k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
+*   [Remult (⭐3k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 

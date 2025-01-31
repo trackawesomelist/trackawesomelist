@@ -6,11 +6,11 @@ Everything that makes working with databases easier
 
 [ Daily / [Weekly](/content/mgramin/awesome-db-tools/week/README.md) / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
-## [Jan 30, 2025](/content/2025/01/30/README.md)
+## [Jan 31, 2025](/content/2025/01/31/README.md)
 
 ### Schema / Diagrams
 
-*   [Liam ERD (⭐334)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
+*   [Liam ERD (⭐337)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
 
 ## [Jan 18, 2025](/content/2025/01/18/README.md)
 
@@ -240,7 +240,7 @@ Everything that makes working with databases easier
 
 ### Application platforms / Samples
 
-*   [Nhost (⭐8k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐8.1k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 
 ## [Jun 30, 2022](/content/2022/06/30/README.md)
 
@@ -256,7 +256,7 @@ Everything that makes working with databases easier
 
 ### API / Samples
 
-*   [Remult (⭐2.9k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
+*   [Remult (⭐3k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 
 ## [Jun 13, 2022](/content/2022/06/13/README.md)
 

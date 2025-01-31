@@ -6,7 +6,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
-## [Jan 30, 2025](/content/2025/01/30/README.md)
+## [Jan 31, 2025](/content/2025/01/31/README.md)
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 
@@ -266,7 +266,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ### Software / Plotter Control
 
-*   [Inkcut (⭐338)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+*   [Inkcut (⭐339)](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
 
 ## [Apr 22, 2023](/content/2023/04/22/README.md)
 
@@ -414,7 +414,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ### Software / Vector Creation
 
-*   [linedraw (⭐783)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
+*   [linedraw (⭐784)](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 
@@ -705,7 +705,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [p5.js](https://p5js.org) - "JavaScript library that makes coding accessible for artists, designers, educators, and beginners".
 *   [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
 *   [ln (⭐3.3k)](https://github.com/fogleman/ln) - Vector-based 3D renderer written in Go.
-*   [autotrace (⭐556)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
+*   [autotrace (⭐557)](https://github.com/autotrace/autotrace) - Converts bitmap images to vector graphics.
 *   [stipplegen (⭐437)](https://github.com/evil-mad/stipplegen) - Creates interesting stippled drawings from bitmap images. ([blog post](https://www.evilmadscientist.com/2012/stipplegen2))
 *   [SquiggleDraw (⭐321)](https://github.com/gwygonik/SquiggleDraw/commits/master) - "SquiggleDraw will create a SVG file from an image, using the brightness to change the amplitude of sine waves".
 *   [svgurt](https://svgurt.com) - Web-based PNG to SVG creative noodler.

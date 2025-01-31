@@ -20,6 +20,7 @@ To submit your project, read the [Content Policy (⭐4.3k)](https://github.com/i
 *   [Apps](#apps)
 *   [Browsers](#browsers)
 *   [Tools](#tools)
+*   [Debugging Tools & Learning](#debugging-tools--learning)
 *   [Services & Platforms](#services--platforms)
 *   [Pinning Services](#pinning-services)
 *   [Stale Projects](#stale-projects)
@@ -70,10 +71,6 @@ A list of web browsers with IPFS integrations
 *   [galacteek (⭐169)](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
 *   [Opera](https://blogs.opera.com/tips-and-tricks/2021/02/opera-crypto-files-for-keeps-ipfs-unstoppable-domains/) - Opera browser added support for `ipfs://` in 2021
 
-## IPFS in browsers
-
-*   [Identify with Helia](https://helia-identify.on.fleek.co/)
-
 ## Tools
 
 *   [bifrost-gateway (⭐41)](https://github.com/ipfs/bifrost-gateway) - \[EXPERIMENTAL] A lightweight IPFS Gateway daemon backed by a remote data store.
@@ -119,6 +116,16 @@ A list of web browsers with IPFS integrations
 *   [wbipfs (⭐2)](https://github.com/wabarc/wbipfs) - A command-line tool and Go package interface for wayback webpage to IPFS.
 *   [youtube2ipfs (⭐21)](https://github.com/dokterbob/youtube2ipfs) - Download videos from YouTube (and similar video platforms) and add them to IPFS.
 
+## Debugging Tools & Learning
+
+*   [IPFS Check](https://check.ipfs.network/)
+*   [Helia Identify](https://helia-identify.on.fleek.co/)
+*   [CID Inspector](https://cid.ipfs.tech/)
+*   [File to UnixFS DAG](https://dag.ipfs.tech/)
+*   [IPLD Explorer](https://explore.ipld.io)
+*   [Public Gateway Checker (⭐1.9k)](https://github.com/ipfs/public-gateway-checker)
+*   [IPNS Inspector (⭐3)](https://github.com/ipfs/ipns-inspector)
+
 ## Services & Platforms
 
 *   [Apillon](http://apillon.io/) - a Web3 development platform, offering IPFS gateways, IPFS file-pinning via Crust network and IPFS powered hosting services for websites and apps.
@@ -138,12 +145,7 @@ A list of web browsers with IPFS integrations
 *   [lighthouse.storage](https://lighthouse.storage/) - A decentralized IPFS pinning service with privacy and encryption capabilities
 *   [NFT.Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS & Filecoin.
 *   [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
-*   [Infura](https://infura.io) - Scalable and distributed storage infrastructure for your application.
-*   [Kriptonio](https://kriptonio.com/) - Pinning service & Web3 Platform for building Web3 apps.
 *   [QuickNode](https://www.quicknode.com/ipfs) - IPFS gateways and pinning
-*   [Scaleway](https://labs.scaleway.com/en/ipfs-pinning/) - A multi-region, multi-az redundant IPFS pinning service.
-*   [Spheron](https://spheron.network) - Spheron offers IPFS pinning service and dedicated gateways.
-*   [thirdweb](https://thirdweb.com/storage) - Easily upload and pin files to IPFS.
 *   [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
 
 ## Stale Projects

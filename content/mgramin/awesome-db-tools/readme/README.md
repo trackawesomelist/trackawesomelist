@@ -196,7 +196,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 *   [DrawDB (⭐24k)](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 *   [ERAlchemy (⭐1.2k)](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 *   [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
-*   [Liam ERD (⭐334)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
+*   [Liam ERD (⭐337)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
 *   [QuickDBD](https://www.quickdatabasediagrams.com/) - Simple online tool to quickly draw database diagrams.
 
 ### Documentations
@@ -236,7 +236,7 @@ Building API for your Data
 *   [PostGraphile (⭐13k)](https://github.com/graphile/postgraphile) - Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database.
 *   [PostgREST (⭐24k)](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
 *   [prest (⭐4.3k)](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
-*   [Remult (⭐2.9k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
+*   [Remult (⭐3k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 *   [restSQL (⭐147)](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 *   [resquel (⭐128)](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 *   [sandman2 (⭐2k)](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
@@ -250,7 +250,7 @@ Low-code and no-code platforms for application building
 *   [Appsmith (⭐35k)](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
 *   [Budibase (⭐23k)](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
 *   [ILLA Cloud (⭐12k)](https://github.com/illacloud/illa-builder) - Low-code internal tool building platform.
-*   [Nhost (⭐8k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐8.1k)](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 *   [Saltcorn (⭐1.7k)](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 *   [SQLPage (⭐1.8k)](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.
 *   [Tooljet (⭐34k)](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
