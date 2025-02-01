@@ -190,7 +190,7 @@ If you want to contribute to this list (please do), send me a pull request.
 *   [svelte-apollo (⭐947)](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL.
 *   [ember-apollo-client (⭐281)](https://github.com/ember-graphql/ember-apollo-client) - An ember-cli addon for Apollo Client and GraphQL.
 *   [apollo-elements (⭐417)](https://github.com/apollo-elements/apollo-elements) - GraphQL web components that work in any frontend framework.
-*   [sveltekit-kitql (⭐411)](https://github.com/jycouet/kitql) - A set of tools, helping you building efficient apps in a fast way with SvelteKit and GraphQL.
+*   [sveltekit-kitql (⭐417)](https://github.com/jycouet/kitql) - A set of tools, helping you building efficient apps in a fast way with SvelteKit and GraphQL.
 
 ###### React
 
@@ -239,7 +239,7 @@ If you want to contribute to this list (please do), send me a pull request.
 *   [graphql-code-generator (⭐11k)](https://github.com/dotansimha/graphql-code-generator): GraphQL code generator with flexible support for custom plugins and templates like TypeScript (frontend and backend), React Hooks, resolvers signatures and more.
 *   [pothos (⭐2.4k)](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
 *   [garph (⭐1.3k)](https://github.com/stepci/garph) - Garph is full-stack framework for building type-safe GraphQL APIs in TypeScript.
-*   [gqloom (⭐13)](https://github.com/modevol-com/gqloom) - GQLoom is a GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using [Valibot (⭐6.8k)](https://github.com/fabian-hiller/valibot), [Zod (⭐35k)](https://github.com/colinhacks/zod), or [Yup (⭐23k)](https://github.com/jquense/yup).
+*   [gqloom (⭐13)](https://github.com/modevol-com/gqloom) - GQLoom is a GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using [Valibot (⭐6.9k)](https://github.com/fabian-hiller/valibot), [Zod (⭐35k)](https://github.com/colinhacks/zod), or [Yup (⭐23k)](https://github.com/jquense/yup).
 *   [fast-graphql (⭐5)](https://github.com/idurar/fast-graphql) - Graphql Tools to Structure, Combine Resolvers and Merge Schema Definitions for Node.js, Next.Js and Graphql Apollo server
 *   [graphql-to-type (⭐6)](https://github.com/lkster/graphql-to-type) - GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query
 *   [gql.tada (⭐2.7k)](https://github.com/0no-co/gql.tada) - GraphQL document authoring library, inferring the result and variables types of GraphQL queries and fragments in the TypeScript type system.
@@ -901,6 +901,7 @@ If you want to contribute to this list (please do), send me a pull request.
 *   [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
 *   [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
 *   [GraphQL at The Financial Times](https://www.slideshare.net/LondonReact/graph-ql)
+*   [Implementing GraphQL RBAC Authorization: A Practical Guide](https://www.permit.io/blog/implementing-graphql-authorization)
 *   [From REST to GraphQL](https://jacobwgillespie.com/2015-10-09-from-rest-to-graphql)
 *   [GraphQL: A data query language](https://graphql.org/blog/graphql-a-query-language/)
 *   [Subscriptions in GraphQL and Relay](https://graphql.org/blog/subscriptions-in-graphql-and-relay/)

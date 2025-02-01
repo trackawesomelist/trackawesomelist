@@ -6,6 +6,12 @@ Awesome list of GraphQL
 
 [ Daily / [Weekly](/content/chentsulin/awesome-graphql/week/README.md) / [Overview](/content/chentsulin/awesome-graphql/readme/README.md) ]
 
+## [Feb 01, 2025](/content/2025/02/01/README.md)
+
+### Posts / React
+
+*   [Implementing GraphQL RBAC Authorization: A Practical Guide](https://www.permit.io/blog/implementing-graphql-authorization)
+
 ## [Nov 17, 2024](/content/2024/11/17/README.md)
 
 ### Blogs - Security / React
@@ -27,7 +33,7 @@ Awesome list of GraphQL
 
 ### Type / React
 
-*   [gqloom (⭐13)](https://github.com/modevol-com/gqloom) - GQLoom is a GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using [Valibot (⭐6.8k)](https://github.com/fabian-hiller/valibot), [Zod (⭐35k)](https://github.com/colinhacks/zod), or [Yup (⭐23k)](https://github.com/jquense/yup).
+*   [gqloom (⭐13)](https://github.com/modevol-com/gqloom) - GQLoom is a GraphQL weaver for TypeScript/JavaScript that weaves GraphQL schema and resolvers using [Valibot (⭐6.9k)](https://github.com/fabian-hiller/valibot), [Zod (⭐35k)](https://github.com/colinhacks/zod), or [Yup (⭐23k)](https://github.com/jquense/yup).
 
 ## [Aug 12, 2024](/content/2024/08/12/README.md)
 
@@ -479,7 +485,7 @@ Awesome list of GraphQL
 
 ### Frontend Framework Integrations
 
-*   [sveltekit-kitql (⭐411)](https://github.com/jycouet/kitql) - A set of tools, helping you building efficient apps in a fast way with SvelteKit and GraphQL.
+*   [sveltekit-kitql (⭐417)](https://github.com/jycouet/kitql) - A set of tools, helping you building efficient apps in a fast way with SvelteKit and GraphQL.
 
 ## [Feb 07, 2022](/content/2022/02/07/README.md)
 
