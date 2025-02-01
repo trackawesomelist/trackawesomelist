@@ -364,14 +364,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [KOMIHASH (⭐207)](https://github.com/avaneev/komihash) - Very fast, high-quality hash function, discrete-incremental and streamed hashing-capable. \[MIT]
 
-#### [30. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
-
-##### LispWorks / Third-party APIs
-
-*   [lw-plugins (⭐22)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
-    *   terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
-
-#### [31. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Peripheral Access Crates / Raspberry Pi Silicon
 
@@ -402,13 +395,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 
-#### [32. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [31. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### Pastebin and Secret Sharing
 
 *   [crypt.fyi](https://crypt.fyi) - Ephemeral zero-knowledge sensitive data sharing platform with web, cli, and chrome-extension clients
 
-#### [33. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+#### [32. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ##### Software Development
 
@@ -418,19 +411,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** \[47:53]
 
-#### [34. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [33. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### DNS / Steam
 
 *   [Columbus Project (⭐29)](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
-#### [35. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+#### [34. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ##### Tools / Services
 
 *   [LangFair (⭐151)](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
 
-#### [36. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [35. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Libraries/Packages/Scripts / Polars plugins
 
@@ -443,7 +436,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Polars intro](https://rparkr.github.io/polars-intro/) A short demo that introduces the Polars dataframe library through a marimo notebook by [@rparkr](https://github.com/rparkr).
 *   [Build a Decision Tree in Polars from Scratch](https://towardsdatascience.com/build-a-decision-tree-in-polars-from-scratch-d48892926ecf) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here (⭐3)](https://github.com/tocab/efficient-trees).
 
-#### [37. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+#### [36. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ##### Utils / Other Tools
 
@@ -468,7 +461,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Google Cloud Functions](https://cloud.google.com/functions)
 
-#### [38. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [37. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -486,7 +479,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [torim (⭐0)](https://github.com/Aggrathon/torim) - Inspired by the [sorin (⭐7)](https://github.com/zimfw/sorin), [asciiship (⭐23)](https://github.com/zimfw/asciiship) and [mh (⭐176k)](https://github.com/ohmyzsh/ohmyzsh/wiki/themes#mh) themes. Includes decorators for user\@hostname (when accessed by `ssh`), truncated path to working directory, whether running as root, error code of last command run if it failed, current time, duration of long running commands, current virtual environment and `git` status.
 *   [vanan (⭐0)](https://github.com/avano/vanan.zsh-theme) - Enhances your terminal with detailed `git` information. Also includes decorators for `vi`-mode and status of the last command run.
 
-#### [39. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [38. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -522,17 +515,28 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
 
-#### [40. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+#### [39. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ##### Posts / React
 
 *   [Implementing GraphQL RBAC Authorization: A Practical Guide](https://www.permit.io/blog/implementing-graphql-authorization)
 
-#### [41. Awesome Java](/content/akullpp/awesome-java/README.md)
+#### [40. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ##### JVM and JDK / Text-Based User Interfaces
 
 *   [Which JDK](https://whichjdk.com/) - Overview of common JVMs with pros and cons.
+
+#### [41. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+##### LispWorks / Third-party APIs
+
+*   [lw-plugins (⭐22)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
+    *   terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
+
+##### Plotting / Third-party APIs
+
+*   [plotly-user (⭐8)](https://github.com/ajberkley/plotly-user) -  Use plotly in your browser to explore data from a Common Lisp REPL. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 #### [42. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -540,6 +544,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Object Perception as Bayesian Inference](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.55.090902.142005) - ***Annual Review of Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=1611451804975333652)]. \[[Preprint](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf)]. We perceive the shapes and material properties of objects quickly and reliably despite the complexity and objective ambiguities of natural images. Typical images are highly complex because they consist of many objects embedded in background clutter. Moreover, the image features of an object are extremely variable and ambiguous owing to the effects of projection, occlusion, background clutter, and illumination. The very success of everyday vision implies neural mechanisms, yet to be understood, that discount irrelevant information and organize ambiguous or noisy local image features into objects and surfaces. Recent work in Bayesian theories of visual perception has shown how complexity may be managed and ambiguity resolved through the task-dependent, probabilistic integration of prior object knowledge with image features.
 *   [Image segmentation by data-driven markov chain monte carlo](https://ieeexplore.ieee.org/abstract/document/1000239) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491)]. \[[Preprint](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf)]. This paper presents a computational paradigm called Data-Driven Markov Chain Monte Carlo (DDMCMC) for image segmentation in the Bayesian statistical framework. The paper contributes to image segmentation in four aspects. First, it designs efficient and well-balanced Markov Chain dynamics to explore the complex solution space and, thus, achieves a nearly global optimal solution independent of initial segmentations. Second, it presents a mathematical principle and a K-adventurers algorithm for computing multiple distinct solutions from the Markov chain sequence and, thus, it incorporates intrinsic ambiguities in image segmentation. Third, it utilizes data-driven (bottom-up) techniques, such as clustering and edge detection, to compute importance proposal probabilities, which drive the Markov chain dynamics and achieve tremendous speedup in comparison to the traditional jump-diffusion methods. Fourth, the DDMCMC paradigm provides a unifying framework in which the role of many existing segmentation algorithms, such as, edge detection, clustering, region growing, split-merge, snake/balloon, and region competition, are revealed as either realizing Markov chain dynamics or computing importance proposal probabilities. Thus, the DDMCMC paradigm combines and generalizes these segmentation methods in a principled way.
+*   [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.science.org/doi/full/10.1126/science.aag2612) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444)]. \[[Preprint](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf)]. Learning from a few examples and generalizing to markedly different situations are capabilities of human visual intelligence that are yet to be matched by leading machine learning models. By drawing inspiration from systems neuroscience, this work introduces a probabilistic generative model for vision in which message-passing–based inference handles recognition, segmentation, and reasoning in a unified way. The model demonstrates excellent generalization and occlusion-reasoning capabilities and outperforms deep neural networks on a challenging scene text recognition benchmark while being 300-fold more data efficient. In addition, the model fundamentally breaks the defense of modern text-based CAPTCHAs (Completely Automated Public Turing test to tell Computers and Humans Apart) by generatively segmenting characters without CAPTCHA-specific heuristics.
 
 ---
 
@@ -587,8 +592,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 38. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.7K 📝 01&#x2F;31 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
 39. [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 9.3K 📝 01&#x2F;22 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
 40. [Awesome Love2d](/content/love2d-community/awesome-love2d/README.md) - ([Source ⭐ 3.5K 📝 01&#x2F;31 ](https://github.com/love2d-community/awesome-love2d)) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-41. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source ⭐ 8.4K 📝 01&#x2F;20 ](https://github.com/davidsonfellipe/awesome-wpo)) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
-42. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K 📝 01&#x2F;31 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+41. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K 📝 02&#x2F;01 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+42. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source ⭐ 8.4K 📝 01&#x2F;20 ](https://github.com/davidsonfellipe/awesome-wpo)) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 43. [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 2.1K 📝 01&#x2F;31 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
 44. [Awesome Wagtail](/content/springload/awesome-wagtail/README.md) - ([Source ⭐ 2.1K 📝 01&#x2F;31 ](https://github.com/springload/awesome-wagtail)) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 45. [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source ⭐ 5K 📝 01&#x2F;22 ](https://github.com/AboutRSS/ALL-about-RSS)) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
@@ -1234,7 +1239,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Ava](/content/avajs/awesome-ava/README.md) - ([Source ⭐ 333, 📝 22&#x2F;09&#x2F;12 ](https://github.com/avajs/awesome-ava)) - Awesome AVA resources
 - [Awesome C](/content/inputsh/awesome-c/README.md) - ([Source ⭐ 3K, 📝 19&#x2F;10&#x2F;17 ](https://github.com/inputsh/awesome-c)) - Continuing the development of awesome-c list on GitHub
 - [Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md) - ([Source ⭐ 620, 📝 24&#x2F;08&#x2F;09 ](https://github.com/adafruit/awesome-circuitpython)) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
-- [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K, 📝 01&#x2F;31 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+- [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K, 📝 02&#x2F;01 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 - [Awesome Clojure](/content/razum2um/awesome-clojure/README.md) - ([Source ⭐ 2.6K, 📝 24&#x2F;04&#x2F;16 ](https://github.com/razum2um/awesome-clojure)) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md) - ([Source ⭐ 967, 📝 23&#x2F;02&#x2F;03 ](https://github.com/hantuzun/awesome-clojurescript)) - A community driven list of ClojureScript frameworks, libraries and wrappers.
 - [Awesome Cmake](/content/onqtam/awesome-cmake/README.md) - ([Source ⭐ 5K, 📝 24&#x2F;08&#x2F;31 ](https://github.com/onqtam/awesome-cmake)) - A curated list of awesome CMake resources, scripts, modules and examples.

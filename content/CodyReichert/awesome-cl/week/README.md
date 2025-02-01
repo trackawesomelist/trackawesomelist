@@ -13,6 +13,10 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [lw-plugins (⭐22)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
     *   terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
 
+### Plotting / Third-party APIs
+
+*   [plotly-user (⭐8)](https://github.com/ajberkley/plotly-user) -  Use plotly in your browser to explore data from a Common Lisp REPL. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Other DB wrappers

@@ -11,6 +11,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Bayesian Modeling / Generative Model
 
 *   [Image segmentation by data-driven markov chain monte carlo](https://ieeexplore.ieee.org/abstract/document/1000239) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491)]. \[[Preprint](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf)]. This paper presents a computational paradigm called Data-Driven Markov Chain Monte Carlo (DDMCMC) for image segmentation in the Bayesian statistical framework. The paper contributes to image segmentation in four aspects. First, it designs efficient and well-balanced Markov Chain dynamics to explore the complex solution space and, thus, achieves a nearly global optimal solution independent of initial segmentations. Second, it presents a mathematical principle and a K-adventurers algorithm for computing multiple distinct solutions from the Markov chain sequence and, thus, it incorporates intrinsic ambiguities in image segmentation. Third, it utilizes data-driven (bottom-up) techniques, such as clustering and edge detection, to compute importance proposal probabilities, which drive the Markov chain dynamics and achieve tremendous speedup in comparison to the traditional jump-diffusion methods. Fourth, the DDMCMC paradigm provides a unifying framework in which the role of many existing segmentation algorithms, such as, edge detection, clustering, region growing, split-merge, snake/balloon, and region competition, are revealed as either realizing Markov chain dynamics or computing importance proposal probabilities. Thus, the DDMCMC paradigm combines and generalizes these segmentation methods in a principled way.
+*   [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.science.org/doi/full/10.1126/science.aag2612) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444)]. \[[Preprint](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf)]. Learning from a few examples and generalizing to markedly different situations are capabilities of human visual intelligence that are yet to be matched by leading machine learning models. By drawing inspiration from systems neuroscience, this work introduces a probabilistic generative model for vision in which message-passing–based inference handles recognition, segmentation, and reasoning in a unified way. The model demonstrates excellent generalization and occlusion-reasoning capabilities and outperforms deep neural networks on a challenging scene text recognition benchmark while being 300-fold more data efficient. In addition, the model fundamentally breaks the defense of modern text-based CAPTCHAs (Completely Automated Public Turing test to tell Computers and Humans Apart) by generatively segmenting characters without CAPTCHA-specific heuristics.
 
 ## [Jan 31, 2025](/content/2025/01/31/README.md)
 
@@ -2414,12 +2415,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### NYU / Commonsense Knowledgebase
 
 *   [Ernest Davis](https://cs.nyu.edu/~davise/) - ***Department of Computer Science, Courant Institute of Mathematical Sciences, NYU***.
-
-## [Feb 12, 2022](/content/2022/02/12/README.md)
-
-### Bayesian Modeling / Generative Model
-
-*   [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444\&hl=en\&as_sdt=0,5)].
 
 ## [Feb 11, 2022](/content/2022/02/11/README.md)
 

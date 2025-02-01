@@ -74,11 +74,18 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Which JDK](https://whichjdk.com/) - Overview of common JVMs with pros and cons.
 
-#### [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+##### Plotting / Third-party APIs
+
+*   [plotly-user (⭐8)](https://github.com/ajberkley/plotly-user) -  Use plotly in your browser to explore data from a Common Lisp REPL. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+
+#### [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Bayesian Modeling / Generative Model
 
 *   [Image segmentation by data-driven markov chain monte carlo](https://ieeexplore.ieee.org/abstract/document/1000239) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491)]. \[[Preprint](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf)]. This paper presents a computational paradigm called Data-Driven Markov Chain Monte Carlo (DDMCMC) for image segmentation in the Bayesian statistical framework. The paper contributes to image segmentation in four aspects. First, it designs efficient and well-balanced Markov Chain dynamics to explore the complex solution space and, thus, achieves a nearly global optimal solution independent of initial segmentations. Second, it presents a mathematical principle and a K-adventurers algorithm for computing multiple distinct solutions from the Markov chain sequence and, thus, it incorporates intrinsic ambiguities in image segmentation. Third, it utilizes data-driven (bottom-up) techniques, such as clustering and edge detection, to compute importance proposal probabilities, which drive the Markov chain dynamics and achieve tremendous speedup in comparison to the traditional jump-diffusion methods. Fourth, the DDMCMC paradigm provides a unifying framework in which the role of many existing segmentation algorithms, such as, edge detection, clustering, region growing, split-merge, snake/balloon, and region competition, are revealed as either realizing Markov chain dynamics or computing importance proposal probabilities. Thus, the DDMCMC paradigm combines and generalizes these segmentation methods in a principled way.
+*   [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.science.org/doi/full/10.1126/science.aag2612) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444)]. \[[Preprint](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf)]. Learning from a few examples and generalizing to markedly different situations are capabilities of human visual intelligence that are yet to be matched by leading machine learning models. By drawing inspiration from systems neuroscience, this work introduces a probabilistic generative model for vision in which message-passing–based inference handles recognition, segmentation, and reasoning in a unified way. The model demonstrates excellent generalization and occlusion-reasoning capabilities and outperforms deep neural networks on a challenging scene text recognition benchmark while being 300-fold more data efficient. In addition, the model fundamentally breaks the defense of modern text-based CAPTCHAs (Completely Automated Public Turing test to tell Computers and Humans Apart) by generatively segmenting characters without CAPTCHA-specific heuristics.
 
 ### [Jan 31, 2025](/content/2025/01/31/README.md)
 
@@ -430,14 +437,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [KOMIHASH (⭐207)](https://github.com/avaneev/komihash) - Very fast, high-quality hash function, discrete-incremental and streamed hashing-capable. \[MIT]
 
-#### [30. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
-
-##### LispWorks / Third-party APIs
-
-*   [lw-plugins (⭐22)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
-    *   terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
-
-#### [31. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Peripheral Access Crates / Raspberry Pi Silicon
 
@@ -468,13 +468,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 
-#### [32. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [31. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### Pastebin and Secret Sharing
 
 *   [crypt.fyi](https://crypt.fyi) - Ephemeral zero-knowledge sensitive data sharing platform with web, cli, and chrome-extension clients
 
-#### [33. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+#### [32. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ##### Software Development
 
@@ -484,19 +484,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** \[47:53]
 
-#### [34. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [33. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### DNS / Steam
 
 *   [Columbus Project (⭐29)](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
-#### [35. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+#### [34. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ##### Tools / Services
 
 *   [LangFair (⭐151)](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
 
-#### [36. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [35. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Libraries/Packages/Scripts / Polars plugins
 
@@ -509,7 +509,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Polars intro](https://rparkr.github.io/polars-intro/) A short demo that introduces the Polars dataframe library through a marimo notebook by [@rparkr](https://github.com/rparkr).
 *   [Build a Decision Tree in Polars from Scratch](https://towardsdatascience.com/build-a-decision-tree-in-polars-from-scratch-d48892926ecf) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here (⭐3)](https://github.com/tocab/efficient-trees).
 
-#### [37. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -522,7 +522,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [jmtech (⭐1)](https://github.com/jmaaltech/jmtech-zsh-theme) - Customizable colors and symbols. Includes decorators for `git` status, exit status of last command run, `gpg` signing information and timestamps. Requires a [Nerd Font (⭐56k)](https://github.com/ryanoasis/nerd-fonts) for the `git` status icons.
 *   [sdt (⭐0)](https://github.com/sdlea/omz-theme-sdt) - Includes decorators for current directory and `git` status.
 
-#### [38. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [37. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -553,6 +553,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
+
+#### [38. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+##### LispWorks / Third-party APIs
+
+*   [lw-plugins (⭐22)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
+    *   terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
 
 #### [39. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -1576,7 +1583,88 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [AMD C++ Compiler](https://www.amd.com/en/developer/aocc.html) - Developed by AMD.
 
-#### [61. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [61. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+
+##### Books, blogs, and training materials / Free and public materials
+
+*   [impl Rust on ESP32 Book](https://esp32.implrust.com/) - A hands-on guide that uses the ESP32 DevKit V1 to demonstrate how to work with various modules and sensors. ([github source (⭐31)](https://github.com/ImplFerris/esp32-book))
+*   [Pico Pico Book](https://pico.implrust.com/) - A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. ([github source (⭐28)](https://github.com/ImplFerris/pico-pico))
+
+##### Peripheral Access Crates / NXP
+
+*   [`mcx-pac`](https://github.com/mcx-rs/mcx-pac) Peripheral Access Crate for NXP MCX Series MCUs - [![crates.io](https://img.shields.io/crates/v/mcx-pac.svg)](https://crates.io/crates/mcx-pac)
+
+#### [62. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+
+##### Full Featured Financial Management
+
+*   [Actual](https://actualbudget.org) - Super fast and privacy-focused app for managing your finances.
+*   [Firefly III](https://www.firefly-iii.org/) - A free and open source personal finance manager.
+*   [Maybe](https://maybefinance.com/) - Open Source and secure OS for your personal finances.
+
+##### Shared Expenses
+
+*   Tricount - App size is massive (\~200MB) and contains many trackers from Facebook, Google and Huawei.
+*   Splitwise - App contains trackers from Google and Amazon.
+*   [Spliit (⭐1.3k)](https://github.com/spliit-app/spliit#readme) - Share Expenses with Friends & Family. No ads. No account. Open Source. Forever Free.
+*   [PeerSplit (⭐18)](https://github.com/tanayvk/peersplit#readme) - [Website](https://github.com/pluja/awesome-privacy/blob/main/README.md/peersplit.app) - Track and split group expenses. 100% free, 100% private.
+*   [SplitPro (⭐456)](https://github.com/oss-apps/split-pro#readme) - [Website](https://splitpro.app) - Split Expenses with your friends for free. An open source alternative to SplitWise.
+
+##### Portfolio trackers
+
+*   [Ghostfolio (⭐5.2k)](https://github.com/ghostfolio/ghostfolio#readme) - open source wealth management software built with web technology.
+*   [PortfolioPerformance](https://www.portfolio-performance.info/en/) - An open source tool to calculate the overall performance of an investment portfolio-
+
+#### [63. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+
+##### Test-Driven Development
+
+*   [TDD: Theme & Variations](https://www.youtube.com/watch?v=C5IH0ABmyc0) by **Kent Beck** \[57:29]
+
+##### Methodologies
+
+*   [The Efficiency Paradox](https://www.youtube.com/watch?v=hGJpez7rvc0) by **Niklas Modig** \[18:48]
+
+#### [64. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+##### Image Analysis / Steam
+
+*   [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
+
+#### [65. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars-utils (⭐5)](https://github.com/junghoon-son/polars-utils) - Collection of utilities for data exploration and analysis with Polars DataFrames by [@junghoon-son](https://github.com/junghoon-son).
+*   [polars-st (⭐33)](https://github.com/Oreilles/polars-st) - Polars plugin that provides spatial operations on Polars DataFrames, Series and Expressions by [@Oreilles](https://github.com/Oreilles).
+*   [polars-pairing (⭐9)](https://github.com/apcamargo/polars-pairing) - Polars plugin that provides pairing functions that encode two natural numbers into a single natural number, by [@apcamargo](https://github.com/apcamargo).
+*   [polars-bio (⭐3)](https://github.com/biodatageeks/polars-bio) - Polars plugin for large-scale genomic analyses which is easy to use and considerable faster and more scalabe than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
+
+##### Resources / Tutorials & workshops
+
+*   [Polars DataFrame Operations and Optimization Guide](https://app.studyraid.com/en/courses/11455/polars-dataframe-operations-and-optimization-guide) Online free course that teaches the basics of data manipulation operations with Polars by [Studyraid](https://app.studyraid.com/en).
+
+#### [66. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+##### Table of contents
+
+*   **Legend** 🔑:
+    *   `ref`: external URL
+    *   `doc`: archived doc
+    *   `cite`: the source of comments
+    *   `cnt`: number of citations
+    *   `git`: GitHub link
+    *   `x-ref`: Cross reference
+    *   📺: youtube or video
+    *   💡or 🏆: recommendation
+
+#### [67. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-swipe-menu (⭐1)](https://github.com/charlesschaefer/ngx-swipe-menu) - A component to create "swipe left to 'action'" experiences.
+
+#### [68. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Other DB wrappers
 
@@ -1606,87 +1694,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [deoxybyte-gzip (⭐7)](https://github.com/keithj/deoxybyte-gzip) -  Common Lisp interface to zlib via CFFI. GPL3.
     *   This system provides gzip and gunzip functions and a Gray-streams implementation, both built on a set of lower-level zlib functions.
-
-#### [62. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
-
-##### Books, blogs, and training materials / Free and public materials
-
-*   [impl Rust on ESP32 Book](https://esp32.implrust.com/) - A hands-on guide that uses the ESP32 DevKit V1 to demonstrate how to work with various modules and sensors. ([github source (⭐31)](https://github.com/ImplFerris/esp32-book))
-*   [Pico Pico Book](https://pico.implrust.com/) - A hands-on guide that uses the Pico 2 (RP2350) to demonstrate how to work with various modules and sensors. ([github source (⭐28)](https://github.com/ImplFerris/pico-pico))
-
-##### Peripheral Access Crates / NXP
-
-*   [`mcx-pac`](https://github.com/mcx-rs/mcx-pac) Peripheral Access Crate for NXP MCX Series MCUs - [![crates.io](https://img.shields.io/crates/v/mcx-pac.svg)](https://crates.io/crates/mcx-pac)
-
-#### [63. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
-
-##### Full Featured Financial Management
-
-*   [Actual](https://actualbudget.org) - Super fast and privacy-focused app for managing your finances.
-*   [Firefly III](https://www.firefly-iii.org/) - A free and open source personal finance manager.
-*   [Maybe](https://maybefinance.com/) - Open Source and secure OS for your personal finances.
-
-##### Shared Expenses
-
-*   Tricount - App size is massive (\~200MB) and contains many trackers from Facebook, Google and Huawei.
-*   Splitwise - App contains trackers from Google and Amazon.
-*   [Spliit (⭐1.3k)](https://github.com/spliit-app/spliit#readme) - Share Expenses with Friends & Family. No ads. No account. Open Source. Forever Free.
-*   [PeerSplit (⭐18)](https://github.com/tanayvk/peersplit#readme) - [Website](https://github.com/pluja/awesome-privacy/blob/main/README.md/peersplit.app) - Track and split group expenses. 100% free, 100% private.
-*   [SplitPro (⭐456)](https://github.com/oss-apps/split-pro#readme) - [Website](https://splitpro.app) - Split Expenses with your friends for free. An open source alternative to SplitWise.
-
-##### Portfolio trackers
-
-*   [Ghostfolio (⭐5.2k)](https://github.com/ghostfolio/ghostfolio#readme) - open source wealth management software built with web technology.
-*   [PortfolioPerformance](https://www.portfolio-performance.info/en/) - An open source tool to calculate the overall performance of an investment portfolio-
-
-#### [64. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
-
-##### Test-Driven Development
-
-*   [TDD: Theme & Variations](https://www.youtube.com/watch?v=C5IH0ABmyc0) by **Kent Beck** \[57:29]
-
-##### Methodologies
-
-*   [The Efficiency Paradox](https://www.youtube.com/watch?v=hGJpez7rvc0) by **Niklas Modig** \[18:48]
-
-#### [65. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-##### Image Analysis / Steam
-
-*   [ProfileImageIntel](https://profileimageintel.com/) - Social media and WhatsApp profile image tool to find when a profile image was uploaded.
-
-#### [66. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Libraries/Packages/Scripts / Polars plugins
-
-*   [polars-utils (⭐5)](https://github.com/junghoon-son/polars-utils) - Collection of utilities for data exploration and analysis with Polars DataFrames by [@junghoon-son](https://github.com/junghoon-son).
-*   [polars-st (⭐33)](https://github.com/Oreilles/polars-st) - Polars plugin that provides spatial operations on Polars DataFrames, Series and Expressions by [@Oreilles](https://github.com/Oreilles).
-*   [polars-pairing (⭐9)](https://github.com/apcamargo/polars-pairing) - Polars plugin that provides pairing functions that encode two natural numbers into a single natural number, by [@apcamargo](https://github.com/apcamargo).
-*   [polars-bio (⭐3)](https://github.com/biodatageeks/polars-bio) - Polars plugin for large-scale genomic analyses which is easy to use and considerable faster and more scalabe than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
-
-##### Resources / Tutorials & workshops
-
-*   [Polars DataFrame Operations and Optimization Guide](https://app.studyraid.com/en/courses/11455/polars-dataframe-operations-and-optimization-guide) Online free course that teaches the basics of data manipulation operations with Polars by [Studyraid](https://app.studyraid.com/en).
-
-#### [67. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
-
-##### Table of contents
-
-*   **Legend** 🔑:
-    *   `ref`: external URL
-    *   `doc`: archived doc
-    *   `cite`: the source of comments
-    *   `cnt`: number of citations
-    *   `git`: GitHub link
-    *   `x-ref`: Cross reference
-    *   📺: youtube or video
-    *   💡or 🏆: recommendation
-
-#### [68. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-##### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-swipe-menu (⭐1)](https://github.com/charlesschaefer/ngx-swipe-menu) - A component to create "swipe left to 'action'" experiences.
 
 #### [69. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -1755,8 +1762,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 38. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.7K 📝 01&#x2F;31 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
 39. [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 9.3K 📝 01&#x2F;22 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
 40. [Awesome Love2d](/content/love2d-community/awesome-love2d/README.md) - ([Source ⭐ 3.5K 📝 01&#x2F;31 ](https://github.com/love2d-community/awesome-love2d)) - A curated list of amazingly awesome LÖVE libraries, resources and shiny things.
-41. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source ⭐ 8.4K 📝 01&#x2F;20 ](https://github.com/davidsonfellipe/awesome-wpo)) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
-42. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K 📝 01&#x2F;31 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+41. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K 📝 02&#x2F;01 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+42. [Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md) - ([Source ⭐ 8.4K 📝 01&#x2F;20 ](https://github.com/davidsonfellipe/awesome-wpo)) - :pencil: A curated list of Web Performance Optimization. Everyone can contribute here!
 43. [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 2.1K 📝 01&#x2F;31 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
 44. [Awesome Wagtail](/content/springload/awesome-wagtail/README.md) - ([Source ⭐ 2.1K 📝 01&#x2F;31 ](https://github.com/springload/awesome-wagtail)) - A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 45. [ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md) - ([Source ⭐ 5K 📝 01&#x2F;22 ](https://github.com/AboutRSS/ALL-about-RSS)) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
@@ -2402,7 +2409,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Ava](/content/avajs/awesome-ava/README.md) - ([Source ⭐ 333, 📝 22&#x2F;09&#x2F;12 ](https://github.com/avajs/awesome-ava)) - Awesome AVA resources
 - [Awesome C](/content/inputsh/awesome-c/README.md) - ([Source ⭐ 3K, 📝 19&#x2F;10&#x2F;17 ](https://github.com/inputsh/awesome-c)) - Continuing the development of awesome-c list on GitHub
 - [Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md) - ([Source ⭐ 620, 📝 24&#x2F;08&#x2F;09 ](https://github.com/adafruit/awesome-circuitpython)) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
-- [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K, 📝 01&#x2F;31 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+- [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K, 📝 02&#x2F;01 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
 - [Awesome Clojure](/content/razum2um/awesome-clojure/README.md) - ([Source ⭐ 2.6K, 📝 24&#x2F;04&#x2F;16 ](https://github.com/razum2um/awesome-clojure)) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md) - ([Source ⭐ 967, 📝 23&#x2F;02&#x2F;03 ](https://github.com/hantuzun/awesome-clojurescript)) - A community driven list of ClojureScript frameworks, libraries and wrappers.
 - [Awesome Cmake](/content/onqtam/awesome-cmake/README.md) - ([Source ⭐ 5K, 📝 24&#x2F;08&#x2F;31 ](https://github.com/onqtam/awesome-cmake)) - A curated list of awesome CMake resources, scripts, modules and examples.
