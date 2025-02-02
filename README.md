@@ -54,6 +54,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Oculante (⭐1.1k)](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) !\[star]
 
+#### [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Pastebins
+
+*   [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code (⭐4)](https://github.com/not-three/main)) `AGPL-3.0` `Nodejs/Docker`
+
 ### [Feb 01, 2025](/content/2025/02/01/README.md)
 
 
@@ -284,26 +290,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Permit.io](https://permit.io) - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.
 
-#### [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Automation
-
-*   [ChannelTube (⭐157)](https://github.com/TheWicklowWolf/ChannelTube) `⚠` - Download video or audio from YouTube channels on a schedule via yt-dlp. `AGPL-3.0` `Docker`
-
-##### Software / Feed Readers
-
-*   [Feeds Fun](https://feeds.fun/) - News reader with tags, scoring, and AI. ([Source Code (⭐60)](https://github.com/Tiendil/feeds.fun)) `BSD-3-Clause` `Python`
-
-##### Software / Task Management & To-do Lists
-
-*   [4ga Boards](https://4gaboards.com) - Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity. ([Demo](https://demo.4gaboards.com), [Source Code (⭐67)](https://github.com/RARgames/4gaBoards)) `MIT` `Nodejs/Docker/K8S`
-*   [Tegon](https://tegon.ai) `⚠` - Dev-first issue tracking tool (alternative to Jira, Linear). ([Source Code (⭐1.7k)](https://github.com/tegonhq/tegon)) `AGPL-3.0` `Docker`
-
-##### Software / Time Tracking
-
-*   [Ever Gauzy](https://gauzy.co) - Open business management platform for collaborative, on-demand and sharing economies (ERP/CRM/HRM/ATS/PM). ([Demo](https://demo.gauzy.co), [Source Code (⭐2.4k)](https://github.com/ever-co/ever-gauzy)) `AGPL-3.0` `Docker/Nodejs`
-
-#### [15. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+#### [14. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ##### GTFS Libraries / Rust
 
@@ -313,7 +300,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [gtfs-rt](https://crates.io/crates/gtfs-rt) - Rust crate to read, write, and manipulate GTFS-Realtime data
 
-#### [16. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+#### [15. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ##### Tools & Software / Search & Discovery
 
@@ -324,31 +311,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [httpreserve.info](https://httpreserve.info) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
 
-#### [17. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+#### [16. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ##### Books
 
 *   [The Tao of Ansible: Mastering Automation with Simplicity and Grace](https://www.amazon.co.uk/Tao-Ansible-Mastering-Automation-Simplicity/dp/B0DTTTM3XG) - A guide to Ansible that emphasizes simplicity, elegance, and the philosophy of automation without complexity.
 
-#### [18. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+#### [17. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ##### Contents / Productivity
 
 *   [Only Contacts (⭐1)](https://github.com/Ehtiram-Ullah/Contacts_app) - A contact management app by [Ehtiram Ullah](https://github.com/Ehtiram-Ullah).
 
-#### [19. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+#### [18. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ##### Analytics
 
 *   [Embrace](http://embrace.io) - Mobile observability, built on OpenTelemetry, to provide user-focused, reliable apps.
 
-#### [20. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [19. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Utilities / Productivity
 
 *   [Launchy](https://apple.co/3PLI2AH) - An app launcher and switcher that utilizes a radial menu.
 
-#### [21. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+#### [20. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ##### Debugging Tools & Learning
 
@@ -359,7 +346,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [IPLD Explorer](https://explore.ipld.io)
 *   [IPNS Inspector (⭐3)](https://github.com/ipfs/ipns-inspector)
 
-#### [22. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+#### [21. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ##### Artificial Intelligence
 
@@ -377,7 +364,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [STranslate (⭐2.8k)](https://github.com/ZGGSONG/STranslate) - STranslate is a ready-to-go translation ocr tool developed with WPF.
 
-#### [23. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [22. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -432,19 +419,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [JSON Schema (⭐4k) (⭐4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-#### [24. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+#### [23. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ##### Tools / Mypy plugins
 
 *   [pydantic](https://docs.pydantic.dev/latest/integrations/mypy/) - Plugin for additional [Pydantic](https://docs.pydantic.dev/latest/) support.
 
-#### [25. Awesome Django](/content/wsvincent/awesome-django/README.md)
+#### [24. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ##### Resources / Podcasts
 
 *   [Django Brew](https://djangobrew.com/) - A fun, caffeine-powered podcast about the Django web framework by Adam Hill and Sangeeta Jadoonanan!
 
-#### [26. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [25. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Networking
 
@@ -458,19 +445,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [How to Implement Role-Based Access Control (RBAC) Authorization in Golang](https://www.permit.io/blog/role-based-access-control-rbac-authorization-in-golang) - A guide to implementing Role-Based Access Control (RBAC) in Golang, including code examples, covering various methods to secure app endpoints with role-based authorization.
 
-#### [27. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+#### [26. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ##### HTTP
 
 *   [finch (⭐1.3k)](https://github.com/sneako/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
-#### [28. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [27. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Miscellaneous
 
 *   [KOMIHASH (⭐207)](https://github.com/avaneev/komihash) - Very fast, high-quality hash function, discrete-incremental and streamed hashing-capable. \[MIT]
 
-#### [29. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [28. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Peripheral Access Crates / Raspberry Pi Silicon
 
@@ -501,13 +488,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 
-#### [30. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [29. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### Pastebin and Secret Sharing
 
 *   [crypt.fyi](https://crypt.fyi) - Ephemeral zero-knowledge sensitive data sharing platform with web, cli, and chrome-extension clients
 
-#### [31. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+#### [30. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ##### Software Development
 
@@ -517,19 +504,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** \[47:53]
 
-#### [32. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [31. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### DNS / Steam
 
 *   [Columbus Project (⭐29)](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
-#### [33. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+#### [32. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ##### Tools / Services
 
 *   [LangFair (⭐151)](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
 
-#### [34. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [33. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Libraries/Packages/Scripts / Polars plugins
 
@@ -542,7 +529,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Polars intro](https://rparkr.github.io/polars-intro/) A short demo that introduces the Polars dataframe library through a marimo notebook by [@rparkr](https://github.com/rparkr).
 *   [Build a Decision Tree in Polars from Scratch](https://towardsdatascience.com/build-a-decision-tree-in-polars-from-scratch-d48892926ecf) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here (⭐3)](https://github.com/tocab/efficient-trees).
 
-#### [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -555,7 +542,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [jmtech (⭐1)](https://github.com/jmaaltech/jmtech-zsh-theme) - Customizable colors and symbols. Includes decorators for `git` status, exit status of last command run, `gpg` signing information and timestamps. Requires a [Nerd Font (⭐56k)](https://github.com/ryanoasis/nerd-fonts) for the `git` status icons.
 *   [sdt (⭐0)](https://github.com/sdlea/omz-theme-sdt) - Includes decorators for current directory and `git` status.
 
-#### [36. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [35. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -587,25 +574,44 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
 
-#### [37. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [36. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### LispWorks / Third-party APIs
 
 *   [lw-plugins (⭐22)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
     *   terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
 
-#### [38. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+#### [37. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ##### Templates / Godot 4
 
 *   [MechanicalFlower Godot Template (⭐29)](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
 *   [Takin Godot Template (⭐111)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
-#### [39. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [38. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Bayesian Modeling / Generative Model
 
 *   [Object Perception as Bayesian Inference](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.55.090902.142005) - ***Annual Review of Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=1611451804975333652)]. \[[Preprint](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf)]. We perceive the shapes and material properties of objects quickly and reliably despite the complexity and objective ambiguities of natural images. Typical images are highly complex because they consist of many objects embedded in background clutter. Moreover, the image features of an object are extremely variable and ambiguous owing to the effects of projection, occlusion, background clutter, and illumination. The very success of everyday vision implies neural mechanisms, yet to be understood, that discount irrelevant information and organize ambiguous or noisy local image features into objects and surfaces. Recent work in Bayesian theories of visual perception has shown how complexity may be managed and ambiguity resolved through the task-dependent, probabilistic integration of prior object knowledge with image features.
+
+#### [39. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Automation
+
+*   [ChannelTube (⭐157)](https://github.com/TheWicklowWolf/ChannelTube) `⚠` - Download video or audio from YouTube channels on a schedule via yt-dlp. `AGPL-3.0` `Docker`
+
+##### Software / Feed Readers
+
+*   [Feeds Fun](https://feeds.fun/) - News reader with tags, scoring, and AI. ([Source Code (⭐60)](https://github.com/Tiendil/feeds.fun)) `BSD-3-Clause` `Python`
+
+##### Software / Task Management & To-do Lists
+
+*   [4ga Boards](https://4gaboards.com) - Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity. ([Demo](https://demo.4gaboards.com), [Source Code (⭐67)](https://github.com/RARgames/4gaBoards)) `MIT` `Nodejs/Docker/K8S`
+*   [Tegon](https://tegon.ai) `⚠` - Dev-first issue tracking tool (alternative to Jira, Linear). ([Source Code (⭐1.7k)](https://github.com/tegonhq/tegon)) `AGPL-3.0` `Docker`
+
+##### Software / Time Tracking
+
+*   [Ever Gauzy](https://gauzy.co) - Open business management platform for collaborative, on-demand and sharing economies (ERP/CRM/HRM/ATS/PM). ([Demo](https://demo.gauzy.co), [Source Code (⭐2.4k)](https://github.com/ever-co/ever-gauzy)) `AGPL-3.0` `Docker/Nodejs`
 
 ---
 
@@ -613,7 +619,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ## Top 50 Awesome List
 
-1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 213K 📝 01&#x2F;31 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 213K 📝 02&#x2F;02 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 137K 📝 01&#x2F;31 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 92K 📝 01&#x2F;31 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 71K 📝 02&#x2F;02 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
@@ -1179,7 +1185,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1.3K, 📝 24&#x2F;12&#x2F;11 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 724, 📝 24&#x2F;07&#x2F;07 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 1.3K, 📝 01&#x2F;22 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 213K, 📝 01&#x2F;31 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 213K, 📝 02&#x2F;02 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 1.8K, 📝 23&#x2F;05&#x2F;03 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 481, 📝 24&#x2F;05&#x2F;12 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!

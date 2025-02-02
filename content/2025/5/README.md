@@ -337,6 +337,10 @@
 
 *   [Feeds Fun](https://feeds.fun/) - News reader with tags, scoring, and AI. ([Source Code (⭐60)](https://github.com/Tiendil/feeds.fun)) `BSD-3-Clause` `Python`
 
+### Software / Pastebins
+
+*   [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code (⭐4)](https://github.com/not-three/main)) `AGPL-3.0` `Nodejs/Docker`
+
 ### Software / Task Management & To-do Lists
 
 *   [4ga Boards](https://4gaboards.com) - Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity. ([Demo](https://demo.4gaboards.com), [Source Code (⭐67)](https://github.com/RARgames/4gaBoards)) `MIT` `Nodejs/Docker/K8S`

@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Feb 02, 2025](/content/2025/02/02/README.md)
+
+### Software / Pastebins
+
+*   [not-th.re](https://not-th.re) - Simple paste sharing platform, with client side encryption, featuring the monaco browser-based code editor. ([Demo](https://not-th.re), [Source Code (⭐4)](https://github.com/not-three/main)) `AGPL-3.0` `Nodejs/Docker`
+
 ## [Jan 31, 2025](/content/2025/01/31/README.md)
 
 ### Software / Automation
