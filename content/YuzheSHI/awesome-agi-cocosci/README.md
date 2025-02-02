@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Feb 02, 2025](/content/2025/02/02/README.md)
+
+### Science Logology / AI Assisted Research
+
+*   [PatCID: an open-access dataset of chemical structures in patent documents](https://www.nature.com/articles/s41467-024-50779-y) - ***Nature Communications***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=329287456191953845)]. The automatic analysis of patent publications has potential to accelerate research across various domains, including drug discovery and material science. Within patent documents, crucial information often resides in visual depictions of molecule structures. PatCID (Patent-extracted Chemical-structure Images database for Discovery) allows to access such information at scale. It enables users to search which molecules are displayed in which documents. PatCID contains 81M chemical-structure images and 14M unique chemical structures. This work compares PatCID with state-of-the-art chemical patent-databases. On a random set, PatCID retrieves 56.0% of molecules, which is higher than automatically-created databases, Google Patents (41.5%) and SureChEMBL (23.5%), as well as manually-created databases, Reaxys (53.5%) and SciFinder (49.5%). Leveraging state-of-the-art methods of document understanding, PatCID high-quality data outperforms currently available automatically-generated patent-databases. PatCID even competes with proprietary manually-created patent-databases. This enables promising applications for automatic literature review and learning-based molecular generation methods.
+
 ## [Feb 01, 2025](/content/2025/02/01/README.md)
 
 ### Bayesian Modeling / Generative Model

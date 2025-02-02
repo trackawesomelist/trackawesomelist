@@ -1,24 +1,46 @@
 # Awesome List Updates on Feb 03 - Feb 09, 2025
 
-42 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [1. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+
+### Graphics
+
+*   [Oculante (⭐1.1k)](https://github.com/woelper/oculante) - Lightweight, fast and simple image viewer written in rust. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) !\[star]
+
+## [2. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+
+### Python
+
+*   [PyMC (⭐8.8k)](https://github.com/pymc-devs/pymc) *(label: beginner friendly)* <br> A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
+
+## [3. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+
+### Leadership / Svelte
+
+*   [Leadership in Tech](https://leadershipintech.com/). A carefully curated weekly newsletter for CTOs, engineering managers and senior engineers to become better leaders.
+
+### Marketing / Svelte
+
+*   [The Marketing Newsletter](http://themarketingnewsletter.org) - Ideas to help marketers and creators grow faster and work smarter
+
+## [4. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### JVM and JDK / Text-Based User Interfaces
 
 *   [Which JDK](https://whichjdk.com/) - Overview of common JVMs with pros and cons.
 
-## [2. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [5. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Posts / React
 
 *   [Implementing GraphQL RBAC Authorization: A Practical Guide](https://www.permit.io/blog/implementing-graphql-authorization)
 
-## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
@@ -43,7 +65,7 @@
 
 *   [Google Cloud Functions](https://cloud.google.com/functions)
 
-## [4. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [7. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
@@ -56,13 +78,13 @@
 *   [Polars intro](https://rparkr.github.io/polars-intro/) A short demo that introduces the Polars dataframe library through a marimo notebook by [@rparkr](https://github.com/rparkr).
 *   [Build a Decision Tree in Polars from Scratch](https://towardsdatascience.com/build-a-decision-tree-in-polars-from-scratch-d48892926ecf) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here (⭐3)](https://github.com/tocab/efficient-trees).
 
-## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
 *   [LangFair (⭐151)](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
 
-## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Generative Model
 
@@ -70,13 +92,17 @@
 *   [Image segmentation by data-driven markov chain monte carlo](https://ieeexplore.ieee.org/abstract/document/1000239) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2002. \[[All Versions](https://scholar.google.com/scholar?cluster=3461400072144667491)]. \[[Preprint](http://www.stat.ucla.edu/~sczhu/papers/DDMCMC_reprint.pdf)]. This paper presents a computational paradigm called Data-Driven Markov Chain Monte Carlo (DDMCMC) for image segmentation in the Bayesian statistical framework. The paper contributes to image segmentation in four aspects. First, it designs efficient and well-balanced Markov Chain dynamics to explore the complex solution space and, thus, achieves a nearly global optimal solution independent of initial segmentations. Second, it presents a mathematical principle and a K-adventurers algorithm for computing multiple distinct solutions from the Markov chain sequence and, thus, it incorporates intrinsic ambiguities in image segmentation. Third, it utilizes data-driven (bottom-up) techniques, such as clustering and edge detection, to compute importance proposal probabilities, which drive the Markov chain dynamics and achieve tremendous speedup in comparison to the traditional jump-diffusion methods. Fourth, the DDMCMC paradigm provides a unifying framework in which the role of many existing segmentation algorithms, such as, edge detection, clustering, region growing, split-merge, snake/balloon, and region competition, are revealed as either realizing Markov chain dynamics or computing importance proposal probabilities. Thus, the DDMCMC paradigm combines and generalizes these segmentation methods in a principled way.
 *   [A generative vision model that trains with high data efficiency and breaks text-based CAPTCHAs](https://www.science.org/doi/full/10.1126/science.aag2612) - ***Science***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=1478382321633671444)]. \[[Preprint](https://www.cs.jhu.edu/~ayuille/JHUcourses/ProbabilisticModelsOfVisualCognition2020/Lec22/GeorgeCAPCHAS.pdf)]. Learning from a few examples and generalizing to markedly different situations are capabilities of human visual intelligence that are yet to be matched by leading machine learning models. By drawing inspiration from systems neuroscience, this work introduces a probabilistic generative model for vision in which message-passing–based inference handles recognition, segmentation, and reasoning in a unified way. The model demonstrates excellent generalization and occlusion-reasoning capabilities and outperforms deep neural networks on a challenging scene text recognition benchmark while being 300-fold more data efficient. In addition, the model fundamentally breaks the defense of modern text-based CAPTCHAs (Completely Automated Public Turing test to tell Computers and Humans Apart) by generatively segmenting characters without CAPTCHA-specific heuristics.
 
-## [7. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+### Science Logology / AI Assisted Research
+
+*   [PatCID: an open-access dataset of chemical structures in patent documents](https://www.nature.com/articles/s41467-024-50779-y) - ***Nature Communications***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=329287456191953845)]. The automatic analysis of patent publications has potential to accelerate research across various domains, including drug discovery and material science. Within patent documents, crucial information often resides in visual depictions of molecule structures. PatCID (Patent-extracted Chemical-structure Images database for Discovery) allows to access such information at scale. It enables users to search which molecules are displayed in which documents. PatCID contains 81M chemical-structure images and 14M unique chemical structures. This work compares PatCID with state-of-the-art chemical patent-databases. On a random set, PatCID retrieves 56.0% of molecules, which is higher than automatically-created databases, Google Patents (41.5%) and SureChEMBL (23.5%), as well as manually-created databases, Reaxys (53.5%) and SciFinder (49.5%). Leveraging state-of-the-art methods of document understanding, PatCID high-quality data outperforms currently available automatically-generated patent-databases. PatCID even competes with proprietary manually-created patent-databases. This enables promising applications for automatic literature review and learning-based molecular generation methods.
+
+## [10. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### DNS / Steam
 
 *   [Columbus Project (⭐29)](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
-## [8. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [11. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Development
 
@@ -86,13 +112,13 @@
 
 *   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** \[47:53]
 
-## [9. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [12. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Pastebin and Secret Sharing
 
 *   [crypt.fyi](https://crypt.fyi) - Ephemeral zero-knowledge sensitive data sharing platform with web, cli, and chrome-extension clients
 
-## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / Raspberry Pi Silicon
 
@@ -123,7 +149,7 @@
 
 *   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [14. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### LispWorks / Third-party APIs
 
@@ -134,19 +160,19 @@
 
 *   [plotly-user (⭐8)](https://github.com/ajberkley/plotly-user) -  Use plotly in your browser to explore data from a Common Lisp REPL. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
-## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [KOMIHASH (⭐207)](https://github.com/avaneev/komihash) - Very fast, high-quality hash function, discrete-incremental and streamed hashing-capable. \[MIT]
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [16. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### HTTP
 
 *   [finch (⭐1.3k)](https://github.com/sneako/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
-## [14. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Networking
 
@@ -160,19 +186,19 @@
 
 *   [How to Implement Role-Based Access Control (RBAC) Authorization in Golang](https://www.permit.io/blog/role-based-access-control-rbac-authorization-in-golang) - A guide to implementing Role-Based Access Control (RBAC) in Golang, including code examples, covering various methods to secure app endpoints with role-based authorization.
 
-## [15. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [18. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Django Brew](https://djangobrew.com/) - A fun, caffeine-powered podcast about the Django web framework by Adam Hill and Sangeeta Jadoonanan!
 
-## [16. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [19. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Tools / Mypy plugins
 
 *   [pydantic](https://docs.pydantic.dev/latest/integrations/mypy/) - Plugin for additional [Pydantic](https://docs.pydantic.dev/latest/) support.
 
-## [17. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [20. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -227,7 +253,7 @@
 
 *   [JSON Schema (⭐4k) (⭐4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [18. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [21. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Artificial Intelligence
 
@@ -245,7 +271,7 @@
 
 *   [STranslate (⭐2.8k)](https://github.com/ZGGSONG/STranslate) - STranslate is a ready-to-go translation ocr tool developed with WPF.
 
-## [19. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [22. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Debugging Tools & Learning
 
@@ -256,31 +282,31 @@
 *   [IPLD Explorer](https://explore.ipld.io)
 *   [IPNS Inspector (⭐3)](https://github.com/ipfs/ipns-inspector)
 
-## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Productivity
 
 *   [Launchy](https://apple.co/3PLI2AH) - An app launcher and switcher that utilizes a radial menu.
 
-## [21. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [24. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Analytics
 
 *   [Embrace](http://embrace.io) - Mobile observability, built on OpenTelemetry, to provide user-focused, reliable apps.
 
-## [22. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [25. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Productivity
 
 *   [Only Contacts (⭐1)](https://github.com/Ehtiram-Ullah/Contacts_app) - A contact management app by [Ehtiram Ullah](https://github.com/Ehtiram-Ullah).
 
-## [23. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [26. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Books
 
 *   [The Tao of Ansible: Mastering Automation with Simplicity and Grace](https://www.amazon.co.uk/Tao-Ansible-Mastering-Automation-Simplicity/dp/B0DTTTM3XG) - A guide to Ansible that emphasizes simplicity, elegance, and the philosophy of automation without complexity.
 
-## [24. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [27. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Search & Discovery
 
@@ -291,7 +317,7 @@
 
 *   [httpreserve.info](https://httpreserve.info) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
 
-## [25. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [28. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Libraries / Rust
 
@@ -301,7 +327,7 @@
 
 *   [gtfs-rt](https://crates.io/crates/gtfs-rt) - Rust crate to read, write, and manipulate GTFS-Realtime data
 
-## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [29. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -320,13 +346,13 @@
 
 *   [Ever Gauzy](https://gauzy.co) - Open business management platform for collaborative, on-demand and sharing economies (ERP/CRM/HRM/ATS/PM). ([Demo](https://demo.gauzy.co), [Source Code (⭐2.4k)](https://github.com/ever-co/ever-gauzy)) `AGPL-3.0` `Docker/Nodejs`
 
-## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Authentication, Authorization, and User Management
 
 *   [Permit.io](https://permit.io) - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.
 
-## [28. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [31. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Mobile Development
 
@@ -342,26 +368,32 @@
 
 *   [University Degree Roadmap (⭐107)](https://github.com/IlIllII/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/IlIllII/collecobrary).
 
-## [29. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [32. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [HP-75 Plotter ROM External Reference Specification (1982) (PDF)](https://literature.hpcalc.org/community/hp75-plotter-ers.pdf)
 
-## [30. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [33. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Physics
 
 *   [slick (⭐17)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
 
-## [31. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [34. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Templates / Godot 4
 
 *   [MechanicalFlower Godot Template (⭐29)](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
 *   [Takin Godot Template (⭐111)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
-## [32. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+### Plugins and scripts / Godot 4
+
+*   [Icon Explorer](https://kenyoni-software.github.io/godot-addons/addons/icon_explorer) - Browse and save icons from popular icon collections.
+*   [License Manager](https://kenyoni-software.github.io/godot-addons/addons/licenses) - Manage license and copyright for third party graphics, software or libraries. Group them into categories, add descriptions or web links.
+*   [QR Code](https://kenyoni-software.github.io/godot-addons/addons/qr_code) - QR Code generation either with the included QRCodeRect node or use the encoding result of the QRCode class.
+
+## [35. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### YouTube Channels
 
@@ -387,7 +419,7 @@
 
 *   [tanstack-svelte-query](https://tanstack.com/query/latest/docs/svelte/overview) - Framework agnostic type-safe query and mutation library for Svelte.
 
-## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [36. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Open Source
 
@@ -411,7 +443,7 @@
 
 *   [tauri-plugin-pinia (⭐26)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri.
 
-## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -447,7 +479,7 @@
 
 *   [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
 
-## [35. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [38. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / React
 
@@ -457,7 +489,7 @@
 
 *   [vite-plugin-builder (⭐1)](https://github.com/yracnet/vite-plugin-builder) - Enable dual compilation for Server-Side Rendering (SSR) and Client-Side Rendering (CSR).
 
-## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [39. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Completion / Diagnostics
 
@@ -485,7 +517,7 @@
 
 *   [igorlfs/nvim-dap-view (⭐199)](https://github.com/igorlfs/nvim-dap-view) - A modern, minimalistic UI for nvim-dap.
 
-## [37. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [40. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -503,32 +535,32 @@
 *   [torim (⭐0)](https://github.com/Aggrathon/torim) - Inspired by the [sorin (⭐7)](https://github.com/zimfw/sorin), [asciiship (⭐23)](https://github.com/zimfw/asciiship) and [mh (⭐176k)](https://github.com/ohmyzsh/ohmyzsh/wiki/themes#mh) themes. Includes decorators for user\@hostname (when accessed by `ssh`), truncated path to working directory, whether running as root, error code of last command run if it failed, current time, duration of long running commands, current virtual environment and `git` status.
 *   [vanan (⭐0)](https://github.com/avano/vanan.zsh-theme) - Enhances your terminal with detailed `git` information. Also includes decorators for `vi`-mode and status of the last command run.
 
-## [38. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [41. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Diagrams
 
 *   [Liam ERD (⭐337)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
 
-## [39. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [42. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Podcasts
 
 *   [Django Chat: Dawn Wages](https://djangochat.com/episodes/wagtail-react-gatsby-dawn-wages-RaD8k37m) - An interview with Dawn Wages, a core Wagtail team member. Discussion about Wagtail, React and Gatsby.
 *   [Django Chat: Thibaud Colas](https://djangochat.com/episodes/thibaud-colas-2025-dsf-board-nominations) - An interview with a core team member of Wagtail, discussing the current status of Django, upcoming DSF Board elections, Wagtail roadmap & community opportunities.
 
-## [40. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [43. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Feature Flags
 
 *   [Bucket](https://bucket.co) - Purpose-built feature flagging for B2B SaaS products.
 
-## [41. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [44. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### DevTools / Other external resources
 
 *   [Liam ERD](https://liambx.com/) - Generate Beautiful ER-Diagrams from your schema.rb. Using ruby/prism WASM with Node.js.
 
-## [42. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [45. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Terminal / Terminal UI
 

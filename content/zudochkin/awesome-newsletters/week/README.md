@@ -2,9 +2,19 @@
 
 A list of amazing Newsletters
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 3.9K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4K · 🏷️ Entertainment
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / Weekly / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
+
+## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
+
+### Leadership / Svelte
+
+*   [Leadership in Tech](https://leadershipintech.com/). A carefully curated weekly newsletter for CTOs, engineering managers and senior engineers to become better leaders.
+
+### Marketing / Svelte
+
+*   [The Marketing Newsletter](http://themarketingnewsletter.org) - Ideas to help marketers and creators grow faster and work smarter
 
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
@@ -444,7 +454,6 @@ A list of amazing Newsletters
 ### Leadership / Svelte
 
 *   [Software Lead Weekly](https://softwareleadweekly.com/). Insightful articles about company culture, leadership and building software in general.
-*   [Tech Lead Digest](https://techleaddigest.net/). A weekly newsletter with five interesting stories about building teams, leadership, and engineering culture.
 
 ### Marketing / Svelte
 
@@ -686,11 +695,11 @@ A list of amazing Newsletters
 
 ### General Section / Svelte
 
-*   [Programming Digest](https://programmingdigest.net/). A weekly newsletter for software engineers featuring top 5 links. [Archive](https://programmingdigest.net/digests).
+*   [Programming Digest](https://programmingdigest.net/). A carefully curated weekly newsletter for software engineers.
 
 ### C# / Svelte
 
-*   [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
+*   [C# Digest](https://csharpdigest.net/). A carefully curated weekly newsletter for .NET developers.
 
 ### Git / Svelte
 
@@ -804,7 +813,7 @@ A list of amazing Newsletters
 
 ### R / Svelte
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐711)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐737)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Svelte
 

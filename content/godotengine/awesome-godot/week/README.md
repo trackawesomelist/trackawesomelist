@@ -13,6 +13,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 *   [MechanicalFlower Godot Template (⭐29)](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
 *   [Takin Godot Template (⭐111)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
+### Plugins and scripts / Godot 4
+
+*   [Icon Explorer](https://kenyoni-software.github.io/godot-addons/addons/icon_explorer) - Browse and save icons from popular icon collections.
+*   [License Manager](https://kenyoni-software.github.io/godot-addons/addons/licenses) - Manage license and copyright for third party graphics, software or libraries. Group them into categories, add descriptions or web links.
+*   [QR Code](https://kenyoni-software.github.io/godot-addons/addons/qr_code) - QR Code generation either with the included QRCodeRect node or use the encoding result of the QRCode class.
+
 ## [Jan 13 - Jan 19, 2025](/content/2025/2/README.md)
 
 ### 3D / Godot 4

@@ -6,6 +6,12 @@ A list of awesome beginners-friendly projects.
 
 [ [Daily](/content/MunGell/awesome-for-beginners/README.md) / Weekly / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 
+## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
+
+### Python
+
+*   [PyMC (⭐8.8k)](https://github.com/pymc-devs/pymc) *(label: beginner friendly)* <br> A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
+
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Elm
