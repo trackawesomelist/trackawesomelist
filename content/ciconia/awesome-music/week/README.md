@@ -6,6 +6,12 @@ Awesome Music Projects
 
 [ [Daily](/content/ciconia/awesome-music/README.md) / Weekly / [Overview](/content/ciconia/awesome-music/readme/README.md) ]
 
+## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
+
+### Music Programming
+
+*   [Leiter (⭐3)](https://github.com/kad1kad/leiter) - TypeScript-based library designed to generate musical scales.
+
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Music Notation

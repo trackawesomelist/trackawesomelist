@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Feb 03, 2025](/content/2025/02/03/README.md)
+
+### Science Logology / AI Assisted Research
+
+*   [Virtual and augmented reality for biomedical applications](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(21\)00197-X) - ***Cell Reports Medicine***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14732259085495422063)]. 3D visualization technologies such as virtual reality (VR), augmented reality (AR), and mixed reality (MR) have gained popularity in the recent decade. Digital extended reality (XR) technologies have been adopted in various domains ranging from entertainment to education because of their accessibility and affordability. XR modalities create an immersive experience, enabling 3D visualization of the content without a conventional 2D display constraint. This paper provides a perspective on XR in current biomedical applications and demonstrate case studies using cell biology concepts, multiplexed proteomics images, surgical data for heart operations, and cardiac 3D models. Emerging challenges associated with XR technologies in the context of adverse health effects and a cost comparison of distinct platforms are discussed. The presented XR platforms will be useful for biomedical education, medical training, surgical guidance, and molecular data visualization to enhance trainees’ and students’ learning, medical operation accuracy, and the comprehensibility of complex biological systems.
+
 ## [Feb 02, 2025](/content/2025/02/02/README.md)
 
 ### Science Logology / AI Assisted Research
