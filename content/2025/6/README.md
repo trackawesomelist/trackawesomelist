@@ -40,6 +40,7 @@
 ### Science Logology / AI Assisted Research
 
 *   [Virtual and augmented reality for biomedical applications](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(21\)00197-X) - ***Cell Reports Medicine***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14732259085495422063)]. 3D visualization technologies such as virtual reality (VR), augmented reality (AR), and mixed reality (MR) have gained popularity in the recent decade. Digital extended reality (XR) technologies have been adopted in various domains ranging from entertainment to education because of their accessibility and affordability. XR modalities create an immersive experience, enabling 3D visualization of the content without a conventional 2D display constraint. This paper provides a perspective on XR in current biomedical applications and demonstrate case studies using cell biology concepts, multiplexed proteomics images, surgical data for heart operations, and cardiac 3D models. Emerging challenges associated with XR technologies in the context of adverse health effects and a cost comparison of distinct platforms are discussed. The presented XR platforms will be useful for biomedical education, medical training, surgical guidance, and molecular data visualization to enhance trainees’ and students’ learning, medical operation accuracy, and the comprehensibility of complex biological systems.
+*   [An augmented reality microscope with real-time artificial intelligence integration for cancer diagnosis](https://www.nature.com/articles/s41591-019-0539-7) - ***Nature Medicine***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=3280260879383275625)]. The microscopic assessment of tissue samples is instrumental for the diagnosis and staging of cancer, and thus guides therapy. However, these assessments demonstrate considerable variability and many regions of the world lack access to trained pathologists. Though artificial intelligence (AI) promises to improve the access and quality of healthcare, the costs of image digitization in pathology and difficulties in deploying AI solutions remain as barriers to real-world use. This work proposes a cost-effective solution: the augmented reality microscope (ARM). The ARM overlays AI-based information onto the current view of the sample in real time, enabling seamless integration of AI into routine workflows.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -122,6 +123,10 @@
 *   [Leiter (⭐3)](https://github.com/kad1kad/leiter) - TypeScript-based library designed to generate musical scales.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Search / Diagnostics
+
+*   [wsdjeg/flygrep.nvim (⭐8)](https://github.com/wsdjeg/flygrep.nvim) - Search text in a floating window asynchronously.
 
 ### Media / Diagnostics
 

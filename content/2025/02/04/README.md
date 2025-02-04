@@ -1,18 +1,30 @@
 # Awesome List Updates on Feb 04, 2025
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Science Logology / AI Assisted Research
+
+*   [An augmented reality microscope with real-time artificial intelligence integration for cancer diagnosis](https://www.nature.com/articles/s41591-019-0539-7) - ***Nature Medicine***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=3280260879383275625)]. The microscopic assessment of tissue samples is instrumental for the diagnosis and staging of cancer, and thus guides therapy. However, these assessments demonstrate considerable variability and many regions of the world lack access to trained pathologists. Though artificial intelligence (AI) promises to improve the access and quality of healthcare, the costs of image digitization in pathology and difficulties in deploying AI solutions remain as barriers to real-world use. This work proposes a cost-effective solution: the augmented reality microscope (ARM). The ARM overlays AI-based information onto the current view of the sample in real time, enabling seamless integration of AI into routine workflows.
+
+## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Search / Diagnostics
+
+*   [wsdjeg/flygrep.nvim (⭐8)](https://github.com/wsdjeg/flygrep.nvim) - Search text in a floating window asynchronously.
+
+## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
 *   [lcd\_parallel\_bus](https://crates.io/crates/lcd_parallel_bus) - GPIO - Async and blocking driver for LCDs based on HD44780 parallel bus - [![crates.io](https://img.shields.io/crates/v/lcd_parallel_bus)](https://crates.io/crates/lcd_parallel_bus)
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
@@ -23,7 +35,7 @@
     *   Example use: [Trial's CI (⭐1.1k)](https://github.com/Shirakumo/trial/blob/master/.github/workflows/examples.yml)
 *   another [GitHub CI example from cookiecutter-lisp-game (⭐29)](https://github.com/lockie/cookiecutter-lisp-game/blob/main/%7B%7Bcookiecutter.project_slug%7D%7D/.github/workflows/package.yml) to build binaries on the three platforms.
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Dependency Managers
 
@@ -96,19 +108,19 @@
 
 *   [ZamzamKit (⭐270)](https://github.com/basememara/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
-## [4. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+## [6. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### TypeScript
 
 *   [Devopness (⭐116)](https://github.com/devopness/devopness) *(label: good first issue)* <br> Devopness aims to drastically simplify the way we manage cloud applications and multi cloud infrastructure in a secure and productive way.
 
-## [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Video Production
 
 *   [vMix-EmberPlus (⭐3)](https://github.com/mattlamb99/vMix-EmberPlus) - vMix to EmberPlus gateway. Control vMix from any EmberPlus broadcast controller like Lawo's VSM or EVS's Cerebrum.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

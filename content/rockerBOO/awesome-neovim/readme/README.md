@@ -454,6 +454,7 @@ Collections of awesome neovim plugins.
 *   [polirritmico/telescope-lazy-plugins.nvim (⭐59)](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - A Telescope picker to quickly access plugins configurations from the lazy.nvim spec.
 *   [MagicDuck/grug-far.nvim (⭐1.1k)](https://github.com/MagicDuck/grug-far.nvim) - Buffer-based live search and replace with full power of `rg` flags. Grug like!
 *   [chrisgrieser/nvim-rip-substitute (⭐226)](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for Vim's `:substitute` using `ripgrep`.
+*   [wsdjeg/flygrep.nvim (⭐8)](https://github.com/wsdjeg/flygrep.nvim) - Search text in a floating window asynchronously.
 
 <!--lint disable double-link -->
 

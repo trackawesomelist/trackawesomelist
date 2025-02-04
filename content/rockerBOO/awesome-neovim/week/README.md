@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
+### Search / Diagnostics
+
+*   [wsdjeg/flygrep.nvim (⭐8)](https://github.com/wsdjeg/flygrep.nvim) - Search text in a floating window asynchronously.
+
 ### Media / Diagnostics
 
 *   [vyfor/cord.nvim (⭐251)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.

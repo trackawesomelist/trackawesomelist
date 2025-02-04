@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 04, 2025](/content/2025/02/04/README.md)
+
+### Search / Diagnostics
+
+*   [wsdjeg/flygrep.nvim (⭐8)](https://github.com/wsdjeg/flygrep.nvim) - Search text in a floating window asynchronously.
+
 ## [Feb 03, 2025](/content/2025/02/03/README.md)
 
 ### Media / Diagnostics

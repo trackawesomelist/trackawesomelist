@@ -30,25 +30,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ristretto (⭐5.8k)](https://github.com/dgraph-io/ristretto) -  A high performance memory-bound Go cache.
 
-#### [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Media / Diagnostics
-
-*   [vyfor/cord.nvim (⭐251)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
-
-#### [4. Awesome Music](/content/ciconia/awesome-music/README.md)
+#### [3. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ##### Music Programming
 
 *   [Leiter (⭐3)](https://github.com/kad1kad/leiter) - TypeScript-based library designed to generate musical scales.
 
-#### [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Science Logology / AI Assisted Research
-
-*   [Virtual and augmented reality for biomedical applications](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(21\)00197-X) - ***Cell Reports Medicine***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14732259085495422063)]. 3D visualization technologies such as virtual reality (VR), augmented reality (AR), and mixed reality (MR) have gained popularity in the recent decade. Digital extended reality (XR) technologies have been adopted in various domains ranging from entertainment to education because of their accessibility and affordability. XR modalities create an immersive experience, enabling 3D visualization of the content without a conventional 2D display constraint. This paper provides a perspective on XR in current biomedical applications and demonstrate case studies using cell biology concepts, multiplexed proteomics images, surgical data for heart operations, and cardiac 3D models. Emerging challenges associated with XR technologies in the context of adverse health effects and a cost comparison of distinct platforms are discussed. The presented XR platforms will be useful for biomedical education, medical training, surgical guidance, and molecular data visualization to enhance trainees’ and students’ learning, medical operation accuracy, and the comprehensibility of complex biological systems.
-
-#### [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -62,19 +50,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [angular-yandex-maps (⭐61)](https://github.com/ddubrava/angular-yandex-maps) - Yandex.Maps Angular components that implement the Yandex.Maps JavaScript API.
 
-#### [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+#### [5. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ##### Video Production
 
 *   [vMix-EmberPlus (⭐3)](https://github.com/mattlamb99/vMix-EmberPlus) - vMix to EmberPlus gateway. Control vMix from any EmberPlus broadcast controller like Lawo's VSM or EVS's Cerebrum.
 
-#### [8. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+#### [6. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ##### TypeScript
 
 *   [Devopness (⭐116)](https://github.com/devopness/devopness) *(label: good first issue)* <br> Devopness aims to drastically simplify the way we manage cloud applications and multi cloud infrastructure in a secure and productive way.
 
-#### [9. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+#### [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ##### Dependency Managers
 
@@ -148,7 +136,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ZamzamKit (⭐270)](https://github.com/basememara/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
-#### [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Tools
 
@@ -159,11 +147,28 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   Example use: [Trial's CI (⭐1.1k)](https://github.com/Shirakumo/trial/blob/master/.github/workflows/examples.yml)
 *   another [GitHub CI example from cookiecutter-lisp-game (⭐29)](https://github.com/lockie/cookiecutter-lisp-game/blob/main/%7B%7Bcookiecutter.project_slug%7D%7D/.github/workflows/package.yml) to build binaries on the three platforms.
 
-#### [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Driver crates / Other
 
 *   [lcd\_parallel\_bus](https://crates.io/crates/lcd_parallel_bus) - GPIO - Async and blocking driver for LCDs based on HD44780 parallel bus - [![crates.io](https://img.shields.io/crates/v/lcd_parallel_bus)](https://crates.io/crates/lcd_parallel_bus)
+
+#### [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Search / Diagnostics
+
+*   [wsdjeg/flygrep.nvim (⭐8)](https://github.com/wsdjeg/flygrep.nvim) - Search text in a floating window asynchronously.
+
+##### Media / Diagnostics
+
+*   [vyfor/cord.nvim (⭐251)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
+
+#### [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Science Logology / AI Assisted Research
+
+*   [Virtual and augmented reality for biomedical applications](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(21\)00197-X) - ***Cell Reports Medicine***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14732259085495422063)]. 3D visualization technologies such as virtual reality (VR), augmented reality (AR), and mixed reality (MR) have gained popularity in the recent decade. Digital extended reality (XR) technologies have been adopted in various domains ranging from entertainment to education because of their accessibility and affordability. XR modalities create an immersive experience, enabling 3D visualization of the content without a conventional 2D display constraint. This paper provides a perspective on XR in current biomedical applications and demonstrate case studies using cell biology concepts, multiplexed proteomics images, surgical data for heart operations, and cardiac 3D models. Emerging challenges associated with XR technologies in the context of adverse health effects and a cost comparison of distinct platforms are discussed. The presented XR platforms will be useful for biomedical education, medical training, surgical guidance, and molecular data visualization to enhance trainees’ and students’ learning, medical operation accuracy, and the comprehensibility of complex biological systems.
+*   [An augmented reality microscope with real-time artificial intelligence integration for cancer diagnosis](https://www.nature.com/articles/s41591-019-0539-7) - ***Nature Medicine***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=3280260879383275625)]. The microscopic assessment of tissue samples is instrumental for the diagnosis and staging of cancer, and thus guides therapy. However, these assessments demonstrate considerable variability and many regions of the world lack access to trained pathologists. Though artificial intelligence (AI) promises to improve the access and quality of healthcare, the costs of image digitization in pathology and difficulties in deploying AI solutions remain as barriers to real-world use. This work proposes a cost-effective solution: the augmented reality microscope (ARM). The ARM overlays AI-based information onto the current view of the sample in real time, enabling seamless integration of AI into routine workflows.
 
 ---
 
@@ -183,7 +188,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 10. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 25K 📝 02&#x2F;04 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 11. [Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/README.md) - ([Source ⭐ 88K 📝 01&#x2F;22 ](https://github.com/Hack-with-Github/Awesome-Hacking)) - A collection of various awesome lists for hackers, pentesters and security researchers
 12. [Awesome Docker](/content/veggiemonk/awesome-docker/README.md) - ([Source ⭐ 31K 📝 01&#x2F;31 ](https://github.com/veggiemonk/awesome-docker)) - :whale: A curated list of Docker resources and projects
-13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K 📝 02&#x2F;03 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K 📝 02&#x2F;04 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 14. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 20K 📝 01&#x2F;31 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
 15. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 20K 📝 01&#x2F;31 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
 16. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 48K 📝 01&#x2F;22 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
@@ -427,7 +432,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K, 📝 02&#x2F;03 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K, 📝 02&#x2F;04 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 23&#x2F;08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 1K, 📝 24&#x2F;01&#x2F;16 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -967,7 +972,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 302, 📝 02&#x2F;03 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 302, 📝 02&#x2F;04 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 21K, 📝 24&#x2F;11&#x2F;16 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K, 📝 01&#x2F;22 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 97, 📝 01&#x2F;22 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
