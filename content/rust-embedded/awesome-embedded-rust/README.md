@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Feb 04, 2025](/content/2025/02/04/README.md)
+
+### Driver crates / Other
+
+*   [lcd\_parallel\_bus](https://crates.io/crates/lcd_parallel_bus) - GPIO - Async and blocking driver for LCDs based on HD44780 parallel bus - [![crates.io](https://img.shields.io/crates/v/lcd_parallel_bus)](https://crates.io/crates/lcd_parallel_bus)
+
 ## [Jan 31, 2025](/content/2025/01/31/README.md)
 
 ### Peripheral Access Crates / Raspberry Pi Silicon

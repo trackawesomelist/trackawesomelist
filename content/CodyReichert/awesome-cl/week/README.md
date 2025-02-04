@@ -6,6 +6,17 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
+
+### Tools
+
+*   [40ants/setup-lisp (⭐28)](https://github.com/40ants/setup-lisp) -  GitHub Action to Setup Common Lisp tools.
+    *   updates ASDF, installs Qlot, installs Roswell
+    *   for multiple implementations
+    *   for Ubuntu, OSX and Windows.
+    *   Example use: [Trial's CI (⭐1.1k)](https://github.com/Shirakumo/trial/blob/master/.github/workflows/examples.yml)
+*   another [GitHub CI example from cookiecutter-lisp-game (⭐29)](https://github.com/lockie/cookiecutter-lisp-game/blob/main/%7B%7Bcookiecutter.project_slug%7D%7D/.github/workflows/package.yml) to build binaries on the three platforms.
+
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
 ### LispWorks / Third-party APIs

@@ -18,7 +18,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 |                                                                           Awesome                                                                           |   Linux   | Projects |      Updated      |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------: | :------: | :---------------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1075   | February 03, 2025 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: |   1077   | February 03, 2025 |
 
 In parternship with:
 
@@ -278,6 +278,7 @@ In parternship with:
 *   [CocoaPods (⭐15k)](https://github.com/CocoaPods/CocoaPods) - The most used dependency manager.
 *   [Mint (⭐2.3k)](https://github.com/yonaskolb/Mint) - A package manager that installs and runs Swift command line tools.
 *   [swift-package-manager (⭐9.8k)](https://github.com/swiftlang/swift-package-manager) - SPM is the Package Manager for the Swift Programming Language.
+*   [Swiftly (⭐549)](https://github.com/swiftlang/swiftly) - Swift CLI toolchain installer to install different versions of Swift.
 
 ## Patterns
 
@@ -301,6 +302,7 @@ In parternship with:
 *   [Beak (⭐582)](https://github.com/yonaskolb/Beak) - A command line interface for your Swift scripts.
 *   [BetterCodable (⭐1.7k)](https://github.com/marksands/BetterCodable) - Level up your `Codable` structs through property wrappers. The goal of these property wrappers is to avoid implementing a custom `init(from decoder: Decoder)` throws and suffer through boilerplate.
 *   [CodableWrappers (⭐674)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+*   [Forked (⭐408)](https://github.com/drewmccormack/Forked) - Generalized approach to managing shared data in Swift applications to support Local-first apps.
 *   [Fugen (⭐82)](https://github.com/almazrafi/Fugen) - A command line tool for exporting resources and generating code from your Figma files.
 *   [MemberwiseInit (⭐136)](https://github.com/gohanlon/swift-memberwise-init-macro) - `@MemberwiseInit` is a Swift Macro that can more often provide your intended `init`, while following the same safe-by-default semantics of Swift’s memberwise initializers.
 *   [Model2App (⭐137)](https://github.com/Q-Mobile/Model2App) - Turn your data model into a working CRUD app.
@@ -432,7 +434,7 @@ In parternship with:
 *   [FDWaveformView (⭐1.3k)](https://github.com/fulldecent/FDWaveformView) - An easy way to display an audio waveform in your app.
 *   [ModernAVPlayer (⭐284)](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
 *   [MusicKit (⭐617)](https://github.com/0thernet/MusicKit) - A framework for composing and transforming music.
-*   [Soundable (⭐93)](https://github.com/ThXou/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
+*   [Soundable (⭐93)](https://github.com/lcardevnas/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
 *   [SwiftAudioPlayer (⭐572)](https://github.com/tanhakabir/SwiftAudioPlayer) - Simple audio player for iOS that streams and performs realtime audio manipulations with AVAudioEngine.
 *   [SwiftySound (⭐1.3k)](https://github.com/adamcichy/SwiftySound) - Simple library that lets you play sounds with a single line of code.
 *   [voice-overlay-ios (⭐547)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
@@ -671,7 +673,7 @@ In parternship with:
 
 *   [Realm (⭐16k)](https://github.com/realm/realm-swift) - Realm is a mobile database: a replacement for Core Data & SQLite.
 *   [RealmWrapper (⭐72)](https://github.com/k-lpmg/RealmWrapper) - Safe and easy wrappers for RealmSwift.
-*   [Unrealm (⭐538)](https://github.com/arturdev/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
+*   [Unrealm (⭐538)](https://github.com/matghazaryan/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
 
 #### SQL drivers
 
@@ -703,7 +705,7 @@ In parternship with:
 *   [CheatyXML (⭐24)](https://github.com/lobodart/CheatyXML) - A powerful framework designed to manage XML easily.
 *   [SwiftyXML (⭐103)](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 *   [SWXMLHash (⭐1.4k)](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing.
-*   [XMLCoder (⭐813)](https://github.com/MaxDesiatov/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
+*   [XMLCoder (⭐813)](https://github.com/CoreOffice/XMLCoder) - XMLEncoder & XMLDecoder based on Codable protocols from the standard library.
 *   [XMLMapper (⭐111)](https://github.com/gcharita/XMLMapper) - A simple way to map XML to Objects.
 
 #### YAML
@@ -899,6 +901,7 @@ In parternship with:
 *   [FDTake (⭐319)](https://github.com/fulldecent/FDTake) - Easily take a photo or video or choose from library.
 *   [Fusuma (⭐2.5k)](https://github.com/ytakzk/Fusuma) - Instagram-like photo browser and a camera feature.
 *   [MediaPicker (⭐349)](https://github.com/exyte/mediapicker) - SwiftUI customizable media picker - supports camera and gallery with albums
+*   [MijickCamera (⭐300)](https://github.com/Mijick/Camera) - Camera made simple. Fully customizable camera library that significantly reduces implementation time and effort.
 *   [NextLevel (⭐2.2k)](https://github.com/NextLevel/NextLevel) - Rad Media Capture.
 
 ##### Barcode
@@ -935,7 +938,7 @@ In parternship with:
 *   [ATGMediaBrowser (⭐218)](https://github.com/altayer-digital/ATGMediaBrowser) - Image slide-show viewer with multiple predefined transition styles, and with ability to create new transitions with ease.
 *   [AXPhotoViewer (⭐651)](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos.
 *   [BlockiesSwift (⭐64)](https://github.com/Boilertalk/BlockiesSwift) - Unique blocky identicons/profile picture generator.
-*   [Brightroom (⭐3.4k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
+*   [Brightroom (⭐3.4k)](https://github.com/FluidGroup/Brightroom) - An image editor and engine using CoreImage.
 *   [CTPanoramaView (⭐1k)](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
 *   [DTPhotoViewerController (⭐281)](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController to display single photo or collection of photos, inspired by Facebook photo viewer.
 *   [FacebookImagePicker (⭐236)](https://github.com/floriangbh/FacebookImagePicker) - Facebook album photo picker.
@@ -958,7 +961,7 @@ In parternship with:
 *   [LetterAvatarKit (⭐217)](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars.
 *   [Lightbox (⭐1.7k)](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app.
 *   [MapleBacon (⭐341)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
-*   [MCScratchImageView (⭐357)](https://github.com/Minecodecraft/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
+*   [MCScratchImageView (⭐357)](https://github.com/JaylenCoding/MCScratchImageView) - A custom ImageView that is used to cover the surface of other view like a scratch card, user can swipe the mulch to see the view below.
 *   [Moa (⭐333)](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 *   [Nuke (⭐8.2k)](https://github.com/kean/Nuke) - Advanced framework for loading, caching, processing, displaying and preheating images.
 *   [PassportScanner (⭐465)](https://github.com/evermeer/PassportScanner) - Scan the MRZ code of a passport and extract the first name, last name, passport number, nationality, date of birth, expiration date and personal number.
@@ -1218,7 +1221,7 @@ In parternship with:
 
 [back to top](#readme)
 
-*   [AnyLint (⭐116)](https://github.com/Flinesoft/AnyLint) :penguin: - Lint anything by combining the power of Swift & regular expressions.
+*   [AnyLint (⭐116)](https://github.com/FlineDev/AnyLint) :penguin: - Lint anything by combining the power of Swift & regular expressions.
 *   [IBLinter (⭐948)](https://github.com/IBDecodable/IBLinter) - A linter tool for Interface Builder.
 *   [L10nLint (⭐42)](https://github.com/s2mr/L10nLint) - A linter tool for Localizable.strings.
 *   [swift-mod (⭐108)](https://github.com/ra1028/swift-mod) - A tool for Swift code modification intermediating between code generation and formatting.
@@ -1296,7 +1299,7 @@ In parternship with:
 [back to top](#readme)
 
 *   [BlueSignals (⭐95)](https://github.com/Kitura/BlueSignals) - IBM's Cross Platform OS signal handling library.
-*   [LaunchAtLogin (⭐1.6k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
+*   [LaunchAtLogin (⭐1.6k)](https://github.com/sindresorhus/LaunchAtLogin-Legacy) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
 *   [SystemKit (⭐354)](https://github.com/beltex/SystemKit/) - OS X system library.
 
 ### Testing
@@ -1317,7 +1320,7 @@ In parternship with:
 *   [swift-testing-expectation (⭐31)](https://github.com/dfed/swift-testing-expectation) - Create an asynchronous expectation in Swift Testing.
 *   [SwiftCheck (⭐1.4k)](https://github.com/typelift/SwiftCheck) - A testing library that automatically generates random data for testing program properties.
 *   [UI Testing Cheat Sheet (⭐2.2k)](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet) - Answers to common "How do I test this with UI Testing?" questions with a working example app.
-*   [XCTest (⭐1.2k)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
+*   [XCTest (⭐1.2k)](https://github.com/swiftlang/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
 
 #### Mock
 
@@ -1388,7 +1391,7 @@ In parternship with:
 *   [BetterSafariView (⭐598)](https://github.com/stleamist/BetterSafariView) - A better way to present a SFSafariViewController or start a ASWebAuthenticationSession in SwiftUI.
 *   [BottomSheet (⭐317)](https://github.com/joomcode/BottomSheet) - Powerful Bottom Sheet component with content based size, interactive dismissal and navigation controller support.
 *   [BreakOutToRefresh (⭐2.5k)](https://github.com/dasdom/BreakOutToRefresh) - A playable pull to refresh view using SpriteKit.
-*   [BulletinBoard (⭐5.4k)](https://github.com/alexisakers/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
+*   [BulletinBoard (⭐5.4k)](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 *   [CapturePreventionKit (⭐27)](https://github.com/Jaesung-Jung/CapturePreventionKit) - Provides `Label` and `ImageView` for `screen capture prevention`.
 *   [CircularProgress (⭐577)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
 *   [ClassicKit (⭐2.2k)](https://github.com/Baddaboo/ClassicKit) - A collection of classic-style UI components.
@@ -1446,7 +1449,7 @@ In parternship with:
 *   [OverlayContainer (⭐1.2k)](https://github.com/applidium/OverlayContainer) - OverlayContainer makes it easier to develop overlay based interfaces, such as the one presented in the Apple Maps or Stocks apps.
 *   [Partition Kit (⭐239)](https://github.com/kieranb662/PartitionKit) - A SwiftUI Library for creating resizable partitions for View Content.
 *   [Popovers (⭐2k)](https://github.com/aheze/Popovers) - A library to present popovers. Simple, modern, and highly customizable. Not boring!
-*   [Preferences (⭐1.5k)](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
+*   [Preferences (⭐1.5k)](https://github.com/sindresorhus/Settings) - Add a preferences window to your macOS app in minutes.
 *   [ProgressIndicatorView (⭐275)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
 *   [PullToDismiss (⭐487)](https://github.com/sgr-ksmt/PullToDismiss) - You can dismiss modal viewcontroller by pulling scrollview or navigationbar.
 *   [RangeSeekSlider (⭐757)](https://github.com/WorldDownTown/RangeSeekSlider) - A customizable range slider like a UISlider for iOS.
@@ -1465,13 +1468,12 @@ In parternship with:
 *   [StarryStars (⭐173)](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 *   [StatefulViewController (⭐2.1k)](https://github.com/aschuch/StatefulViewController) - Placeholder views based on content, loading, error or empty states.
 *   [StepProgressView (⭐379)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
-*   [SweetCurtain (⭐115)](https://github.com/multimediasuite/SweetCurtain) - Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.
+*   [SweetCurtain (⭐115)](https://github.com/ihormalovanyi/SweetCurtain) - Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.
 *   [SwiftUISkia (⭐41)](https://github.com/rustq/swiftui-skia) - Skia based 2d graphics SwiftUI rendering library, based on Rust to implement software rasterization to perform rendering
 *   [SwiftyUI (⭐343)](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
 *   [TagListView (⭐2.7k)](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
 *   [Toaster (⭐1.8k)](https://github.com/devxoul/Toaster) - Notification toasts.
 *   [Twinkle (⭐615)](https://github.com/piemonte/Twinkle) - Easy way to make elements in your iOS app twinkle.
-*   [UIPheonix](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
 *   [UltraDrawerView (⭐238)](https://github.com/super-ultra/UltraDrawerView) - Lightweight, fast and customizable Drawer View implementation identical to Apple Maps, Stocks and etc.
 *   [URLEmbeddedView (⭐648)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 *   [Windless (⭐954)](https://github.com/ParkGwangBeom/Windless) - Windless makes it easy to implement invisible layout loading view.
@@ -1501,7 +1503,7 @@ In parternship with:
 *   [PopupView (⭐3.6k)](https://github.com/exyte/PopupView) - Toasts and popups library written with SwiftUI.
 *   [SCLAlertView (⭐5.3k)](https://github.com/vikmeup/SCLAlertView-Swift) - Animated Alert view.
 *   [Sheet (⭐339)](https://github.com/ParkGwangBeom/Sheet) - Actionsheet with navigation features such as the Flipboard App.
-*   [SPAlert (⭐2.5k)](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
+*   [SPAlert (⭐2.5k)](https://github.com/sparrowcode/AlertKit) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
 *   [StatusAlert (⭐845)](https://github.com/LowKostKustomz/StatusAlert) - Display Apple system-like self-hiding status alerts without interrupting user flow.
 *   [SweetAlert (⭐2.1k)](https://github.com/codestergit/SweetAlert-iOS) - Alert system.
 *   [Swift-Prompts (⭐734)](https://github.com/GabrielAlva/Swift-Prompts) - Design custom prompts with a great scope of options to choose from.
@@ -1646,7 +1648,7 @@ In parternship with:
 
 *   [AREK (⭐954)](https://github.com/ennioma/arek) - AREK is a clean and easy to use wrapper over any kind of iOS permission.
 *   [Permission (⭐2.9k)](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
-*   [SPPermission (⭐5.7k)](https://github.com/ivanvorobei/SPPermissions) - Simple request permission with native UI and interactive animation.
+*   [SPPermission (⭐5.7k)](https://github.com/sparrowcode/PermissionsKit) - Simple request permission with native UI and interactive animation.
 
 #### Scroll Bars
 
@@ -1724,7 +1726,7 @@ In parternship with:
 *   [ImageTransition (⭐220)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
 *   [Jelly (⭐2.5k)](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 *   [LiquidSwipe (⭐545)](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
-*   [MijickNavigattie (⭐289)](https://github.com/Mijick/Navigattie) - Easy navigation with SwiftUI.
+*   [MijickNavigattie (⭐289)](https://github.com/Mijick/NavigationView) - Easy navigation with SwiftUI.
 *   [MusicPlayerTransition (⭐640)](https://github.com/xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App.
 *   [NavigationTransitions (⭐881)](https://github.com/davdroman/swiftui-navigation-transitions) - Pure SwiftUI Navigation transitions.
 *   [PanSlip (⭐104)](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
@@ -1791,7 +1793,7 @@ In parternship with:
 *   [Shoyu (⭐278)](https://github.com/xai3/Shoyu) - Easier way to represent the structure of UITableView.
 *   [SwiftyComments (⭐225)](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
 *   [SwipeCellKit (⭐6.2k)](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
-*   [WLEmptyState (⭐318)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
+*   [WLEmptyState (⭐318)](https://github.com/WizelineLabs/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
 *   [YNExpandableCell (⭐453)](https://github.com/younatics/YNExpandableCell) - Awesome expandable, collapsible tableview cell for iOS.
 
 #### Walkthrough
@@ -1805,7 +1807,7 @@ In parternship with:
 *   [Instructions (⭐5.2k)](https://github.com/ephread/Instructions) - A library to create app walkthroughs and guided tours.
 *   [OnboardKit (⭐542)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 *   [PaperOnboarding (⭐3.3k)](https://github.com/Ramotion/paper-onboarding) - PaperOnboarding is a material design UI slider.
-*   [SuggestionsKit (⭐69)](https://github.com/huemae/SuggestionsKit) - Library for educating users about features in app.
+*   [SuggestionsKit (⭐69)](https://github.com/AlphanumericCharactersOrSingleHyphenz/SuggestionsKit) - Library for educating users about features in app.
 *   [SwiftyOnboard (⭐1.3k)](https://github.com/juanpablofernandez/SwiftyOnboard) - An iOS framework that allows developers to create beautiful onboarding experiences.
 *   [SwiftyWalkthrough (⭐371)](https://github.com/ruipfcosta/SwiftyWalkthrough) - The easiest way to create a great walkthrough experience in your apps.
 
@@ -1877,7 +1879,7 @@ In parternship with:
 *   [WhatsNew (⭐1.5k)](https://github.com/BalestraPatrick/WhatsNew) - Showcase new features after an app update similar to Pages, Numbers and Keynote.
 *   [WhatsNewKit (⭐4k)](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 *   [XestiMonitors (⭐272)](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework.
-*   [ZamzamKit (⭐270)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
+*   [ZamzamKit (⭐270)](https://github.com/basememara/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
 ### Validation
 

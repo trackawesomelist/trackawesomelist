@@ -374,6 +374,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [liveloveapp](https://liveloveapp.com/) - Workshops are available for Cypress, NgRx, RxJS, AG Grid and web performance.
 *   [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
 *   [lowgular](https://courses.lowgular.edu.pl/) - The best courses for your career path as an Angular Frontend Developer.
+*   [Angular UI](https://angular-ui.com/) - Get ready to build your next web application using Angular with interactive courses and exercises.
 
 ##### On-Site Training
 
@@ -717,7 +718,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-wagmi (⭐7)](https://github.com/thanhhoa214/ngx-wagmi) - An essential toolkit to connect your Angular app to the blockchain, bringing powerful wallet and contract interactions to your fingertips.
 *   [ngx-chessground (⭐6)](https://github.com/topce/ngx-chessground) - Angular wrapper for [chessground (⭐1.1k)](https://github.com/ornicar/chessground).
 *   [ngx-barcode6 (⭐34)](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode (⭐5.6k)](https://github.com/lindell/JsBarcode).
-*   [ngx-viz (⭐1)](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
+*   [ngx-viz (⭐2)](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
 *   [ngx-reactify (⭐3)](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
 
 #### Internationalization

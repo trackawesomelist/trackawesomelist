@@ -207,7 +207,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Reddit Enhancement Suite (⭐4.2k)](https://github.com/honestbleeps/Reddit-Enhancement-Suite) *(label: help-wanted)* <br> A browser extension to enhance the Reddit browsing experience.
 *   [Semantic-UI-React (⭐13k)](https://github.com/Semantic-Org/Semantic-UI-React) *(label: good first issue)* <br> The official React integration for Semantic UI.
 *   [serverless (⭐47k)](https://github.com/serverless/serverless) *(label: good first issue)* <br> The Serverless Framework
-*   [SirixDB (⭐26)](https://github.com/sirixdb/sirix-svelte-front-end) *(label: good first issue)* <br> A Svelte/Sapper based web front-end for SirixDB, which is a versioned NoSQL document store (XML and JSON) written in Java.
 *   [Storybook JS (⭐86k)](https://github.com/storybookjs/storybook) *(label: good first issue)* <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 *   [stryker (⭐2.6k)](https://github.com/stryker-mutator/stryker) *(label: 👶 Good first issue)* <br> The JavaScript mutation testing framework
 *   [Superalgos (⭐4.4k)](https://github.com/Superalgos/Superalgos) *(label: good first issue)* <br> A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
@@ -267,7 +266,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [NextCloud Server (⭐28k)](https://github.com/nextcloud/server) *(label: good first issue)* <br> Nextcloud server, a safe home for all your data.
 *   [OrgManager (⭐199)](https://github.com/orgmanager/orgmanager) *(label: beginners-only)* <br> Supercharge your GitHub organizations!
 *   [PHP Censor (⭐679)](https://github.com/php-censor/php-censor) *(label: good-for-beginner)* <br> Open source self-hosted continuous integration server for PHP projects.
-*   [phpMyAdmin (⭐7.3k)](https://github.com/phpmyadmin/phpmyadmin) *(label: newbie)* <br> Admin interface for MySQL written in PHP.
+*   [phpMyAdmin (⭐7.4k)](https://github.com/phpmyadmin/phpmyadmin) *(label: newbie)* <br> Admin interface for MySQL written in PHP.
 *   [PrestaShop (⭐8.3k)](https://github.com/PrestaShop/PrestaShop) *(label: good first issue)* <br> The open source ecommerce solution to start your online business and start selling online.
 *   [Symfony (⭐30k)](https://github.com/symfony/symfony) *(label: good first issue)* <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
 
@@ -376,6 +375,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Amplication (⭐15k)](https://github.com/amplication/amplication) *(label: good first issue)* <br> Amplication is an open-source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 *   [Berry - Active development trunk for Yarn (⭐7.5k)](https://github.com/yarnpkg/berry) *(label: good first issue)* <br> Fast, reliable, and secure dependency management.
 *   [Booster (⭐425)](https://github.com/boostercloud/booster) *(label: good first issue)* <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
+*   [Devopness (⭐116)](https://github.com/devopness/devopness) *(label: good first issue)* <br> Devopness aims to drastically simplify the way we manage cloud applications and multi cloud infrastructure in a secure and productive way.
 *   [Graphback (⭐409)](https://github.com/aerogear/graphback) *(label: good first issue)* <br> A CLI and runtime framework to generate a GraphQL API in seconds.
 *   [H2O Wave (⭐4k)](https://github.com/h2oai/wave) *(label: good first issue)* <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 *   [Hasura GraphQL Engine (⭐31k)](https://github.com/hasura/graphql-engine) *(label: good first issue)* <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.

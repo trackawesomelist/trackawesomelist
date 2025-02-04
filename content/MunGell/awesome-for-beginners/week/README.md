@@ -6,6 +6,12 @@ A list of awesome beginners-friendly projects.
 
 [ [Daily](/content/MunGell/awesome-for-beginners/README.md) / Weekly / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 
+## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
+
+### TypeScript
+
+*   [Devopness (⭐116)](https://github.com/devopness/devopness) *(label: good first issue)* <br> Devopness aims to drastically simplify the way we manage cloud applications and multi cloud infrastructure in a secure and productive way.
+
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
 ### Python
@@ -249,7 +255,6 @@ A list of awesome beginners-friendly projects.
 *   [Reddit Enhancement Suite (⭐4.2k)](https://github.com/honestbleeps/Reddit-Enhancement-Suite) *(label: help-wanted)* <br> A browser extension to enhance the Reddit browsing experience.
 *   [Semantic-UI-React (⭐13k)](https://github.com/Semantic-Org/Semantic-UI-React) *(label: good first issue)* <br> The official React integration for Semantic UI.
 *   [serverless (⭐47k)](https://github.com/serverless/serverless) *(label: good first issue)* <br> The Serverless Framework
-*   [SirixDB (⭐26)](https://github.com/sirixdb/sirix-svelte-front-end) *(label: good first issue)* <br> A Svelte/Sapper based web front-end for SirixDB, which is a versioned NoSQL document store (XML and JSON) written in Java.
 *   [stryker (⭐2.6k)](https://github.com/stryker-mutator/stryker) *(label: 👶 Good first issue)* <br> The JavaScript mutation testing framework
 *   [Superalgos (⭐4.4k)](https://github.com/Superalgos/Superalgos) *(label: good first issue)* <br> A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
 *   [Svelte (⭐81k)](https://github.com/sveltejs/svelte) *(label: good first issue)* <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
@@ -342,7 +347,7 @@ A list of awesome beginners-friendly projects.
 *   [NextCloud Server (⭐28k)](https://github.com/nextcloud/server) *(label: good first issue)* <br> Nextcloud server, a safe home for all your data.
 *   [OrgManager (⭐199)](https://github.com/orgmanager/orgmanager) *(label: beginners-only)* <br> Supercharge your GitHub organizations!
 *   [PHP Censor (⭐679)](https://github.com/php-censor/php-censor) *(label: good-for-beginner)* <br> Open source self-hosted continuous integration server for PHP projects.
-*   [phpMyAdmin (⭐7.3k)](https://github.com/phpmyadmin/phpmyadmin) *(label: newbie)* <br> Admin interface for MySQL written in PHP.
+*   [phpMyAdmin (⭐7.4k)](https://github.com/phpmyadmin/phpmyadmin) *(label: newbie)* <br> Admin interface for MySQL written in PHP.
 *   [PrestaShop (⭐8.3k)](https://github.com/PrestaShop/PrestaShop) *(label: good first issue)* <br> The open source ecommerce solution to start your online business and start selling online.
 *   [Symfony (⭐30k)](https://github.com/symfony/symfony) *(label: good first issue)* <br> Symfony is a PHP framework for web applications and a set of reusable PHP components.
 
