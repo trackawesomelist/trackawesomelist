@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Feb 05, 2025](/content/2025/02/05/README.md)
+
+### Components & Libraries / UI Components
+
+*   [vue-smooth-picker (⭐217)](https://github.com/hiyali/vue-smooth-picker) - A SmoothPicker for Vue 3 (like native datetime picker of iOS)
+
 ## [Jan 31, 2025](/content/2025/01/31/README.md)
 
 ### Projects Using Vue.js / Open Source

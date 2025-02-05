@@ -450,18 +450,22 @@ Please see [CONTRIBUTING (⭐48k)](https://github.com/vsouza/awesome-ios/blob/ma
 
 *Smart, beautiful and elegant tools to help you create command line applications.*
 
-*   [Swiftline (⭐1.2k)](https://github.com/nsomar/Swiftline) - Swiftline is a set of tools to help you create command line applications.
-*   [Commander (⭐1.5k)](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
+*   [Ashen (⭐103)](https://github.com/colinta/Ashen) - A framework for writing terminal applications in Swift.
+*   [Linenoise (⭐146)](https://github.com/andybest/linenoise-swift) - A pure Swift replacement for readline
 *   [ColorizeSwift (⭐306)](https://github.com/mtynior/ColorizeSwift) - Terminal string styling for Swift.
-*   [Guaka (⭐1.1k)](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) Command line framework for Swift.
-*   [Marathon (⭐1.9k)](https://github.com/JohnSundell/Marathon) - Marathon makes it easy to write, run and manage your Swift scripts.
 *   [CommandCougar (⭐54)](https://github.com/surfandneptune/CommandCougar) - An elegant pure Swift library for building command line applications.
-*   [Crayon (⭐59)](https://github.com/luoxiu/Crayon) - Terminal string styling with expressive api and 256/TrueColor support.
-*   [SwiftShell (⭐1k)](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting and running shell commands.
-*   [SourceDocs (⭐393)](https://github.com/eneko/SourceDocs) - Command Line Tool that generates Markdown documentation from inline source code comments.
+*   [Commander (⭐1.5k)](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
+*   [Crayon (⭐59)](https://github.com/luoxiu/Crayon) - Terminal string styling with expressive API and 256/TrueColor support.
+*   [Guaka (⭐1.1k)](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) command line framework for Swift.
 *   [ModuleInterface (⭐82)](https://github.com/minuscorp/ModuleInterface) - Command Line Tool that generates the Module's Interface from a Swift project.
-
-**[back to top](#contributing-and-collaborating)**
+*   [nef (⭐268)](https://github.com/bow-swift/nef) - Command line tool to ease the creation of documentation in the form of Swift Playgrounds.
+*   [Progress (⭐348)](https://github.com/jkandzi/Progress.swift) - Add beautiful progress bars to your loops.
+*   [SourceDocs (⭐393)](https://github.com/eneko/SourceDocs) - Command Line Tool that generates Markdown documentation from inline source code comments.
+*   [Swift Argument Parser (⭐3.4k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
+*   [SwiftCLI (⭐866)](https://github.com/jakeheis/SwiftCLI) - A powerful framework for developing CLIs in Swift
+*   [Swiftline (⭐1.2k)](https://github.com/nsomar/Swiftline) - Swiftline is a set of tools to help you create command line applications.
+*   [SwiftShell (⭐1k)](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting and running shell commands.
+*   [SwiftyTextTable (⭐321)](https://github.com/scottrhoyt/SwiftyTextTable) - A lightweight library for generating text tables.
 
 ## Concurrency
 
