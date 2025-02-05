@@ -2,9 +2,15 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 1.7K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 1.9K · 🏷️ Security
 
 [ [Daily](/content/brootware/awesome-cyber-security-university/README.md) / Weekly / [Overview](/content/brootware/awesome-cyber-security-university/readme/README.md) ]
+
+## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
+
+### Free Beginner Red Team Path / Level 5 - Reverse Engineering & Pwn
+
+*   [Windows x64 Assembly](https://tryhackme.com/r/room/win64assembly) - Introduction to x64 Assembly on Windows.
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
@@ -214,7 +220,6 @@
 
 ### Free Beginner Red Team Path / Level 5 - Reverse Engineering & Pwn
 
-*   [Intro to x86 64](https://tryhackme.com/room/introtox8664) - This room teaches the basics of x86-64 assembly language.
 *   [Reverse Engineering](https://tryhackme.com/room/reverseengineering) - This room focuses on teaching the basics of assembly through reverse engineering.
 *   [Reversing ELF](https://tryhackme.com/room/reverselfiles) - Room for beginner Reverse Engineering CTF players.
 *   [Dumping Router Firmware](https://tryhackme.com/room/rfirmware) - Reverse engineering router firmware.

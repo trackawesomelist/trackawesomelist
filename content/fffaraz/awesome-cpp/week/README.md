@@ -6,6 +6,20 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ [Daily](/content/fffaraz/awesome-cpp/README.md) / Weekly / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
+
+### Compiler
+
+*   [PCC (⭐95)](https://github.com/IanHarvey/pcc) - A very old C compiler. Supports C99.
+
+### Build Systems
+
+*   [Sconsolidator (⭐24)](https://github.com/IFS-HSR/SConsolidator) - Scons build system integration for Eclipse CDT.
+
+### Websites
+
+*   [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/c-plus-plus/)
+
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
 ### Miscellaneous
@@ -3585,11 +3599,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Debug
 
 *   [CUTE](http://cute-test.com) - C++ Unit Testing Easier. \[LGPL3]
-*   [Mockator](http://www.mockator.com) - Eclipse CDT plug-in for C++ Seams and Mock Objects.
-
-### Build Systems
-
-*   [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
 
 ### Static Code Analysis
 
@@ -3736,10 +3745,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Debugger
 
 *   [LLDB](http://lldb.llvm.org/) - The LLDB Debugger.
-
-### Websites
-
-*   [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/C-plus-plus-tutorials/)
 
 ### Weblogs
 
@@ -3940,10 +3945,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [Klib (⭐4.3k)](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. \[MIT]
 *   [libnih (⭐89)](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. \[GPL2.1]
-
-### Compiler
-
-*   [PCC](http://pcc.ludd.ltu.se/) - A very old C compiler. Supports C99.
 
 ## [Dec 15 - Dec 21, 2014](/content/2014/50/README.md)
 
@@ -4405,7 +4406,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Online Compiler
 
-*   [codepad](http://codepad.org/) - An online compiler/interpreter, and a simple collaboration tool.
 *   [Ideone](http://ideone.com/) - An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 
 ### Debugger

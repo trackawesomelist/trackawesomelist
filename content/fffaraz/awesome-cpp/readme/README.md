@@ -525,7 +525,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [libtap (⭐252)](https://github.com/zorgnax/libtap) - Write tests in C. \[GPL2]
 *   [microprofile (⭐1.5k)](https://github.com/jonasmr/microprofile) - Profiler with web-view for multiple platforms. \[Unlicense]
 *   [MinUnit (⭐586)](https://github.com/siu/minunit) - A minimal unit testing framework for C self-contained in a single header file. \[MIT]
-*   [Mockator](http://www.mockator.com) - Eclipse CDT plug-in for C++ Seams and Mock Objects.
 *   [nanobench (⭐1.5k)](https://github.com/martinus/nanobench) - Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20. \[MIT] [website](https://nanobench.ankerl.com)
 *   [Nanotimer (⭐139)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
 *   [Nonius (⭐361)](https://github.com/libnonius/nonius) - A C++ micro-benchmarking framework. \[CC]
@@ -1319,7 +1318,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [c (⭐2.1k)](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! \[MIT]
 *   [Clang](http://clang.llvm.org/) - A C compiler for LLVM. Supports C++11/14/1z C11. Developed by LLVM Team. \[NCSA]
 *   [GCC](https://gcc.gnu.org/) - GNU Compiler Collection. Supports C++11/14/1z C11 and OpenMP. \[GNU GPL3]
-*   [PCC](http://pcc.ludd.ltu.se/) - A very old C compiler. Supports C99.
+*   [PCC (⭐95)](https://github.com/IanHarvey/pcc) - A very old C compiler. Supports C99.
 *   [AMD C++ Compiler](https://www.amd.com/en/developer/aocc.html) - Developed by AMD.
 *   [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
 *   [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
@@ -1333,7 +1332,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *List of online C or C++ compilers*
 
 *   [codechef](https://www.codechef.com/ide) - A simple online compiler CodeChef.
-*   [codepad](http://codepad.org/) - An online compiler/interpreter, and a simple collaboration tool.
 *   [coliru](http://coliru.stacked-crooked.com/) - Online compiler/shell with support for various C++ compilers.
 *   [Compiler Explorer](http://gcc.godbolt.org/) - An interactive compiler with assembly output available.
 *   [CompileOnline](http://www.tutorialspoint.com/codingground.htm) - Compile and Execute C++ online on Linux.
@@ -1404,7 +1402,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Ninja](https://ninja-build.org/) - A small build system with a focus on speed.
 *   [Sccache (⭐6k)](https://github.com/mozilla/sccache) - A fast compiler cache for C/C++, with cross-platform support and cloud backed storage options.
 *   [Scons](http://www.scons.org/) - A software construction tool configured with a Python script.
-*   [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
+*   [Sconsolidator (⭐24)](https://github.com/IFS-HSR/SConsolidator) - Scons build system integration for Eclipse CDT.
 *   [Spack](https://spack.io/) - A flexible package manager that supports multiple versions, configurations, platforms, and compilers. \[Apache-2.0/MIT]
 *   [SW](https://software-network.org/) - Cross-platform C++ (and other langs) Build System and Package Manager with a lot of packages available. \[GPLv3]
 *   [tundra (⭐440)](https://github.com/deplinenoise/tundra) - High-performance code build system designed to give the best possible incremental build times even for very large software projects.
@@ -1549,7 +1547,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Guru of the Week](http://www.gotw.ca/gotw/) - A regular series of C++ programming problems created and written by Herb Sutter.
 *   [Meeting C++](http://meetingcpp.com/)
 *   [PVS-Studio’s challenge](https://quiz.pvs-studio.com) - PVS-Studio’s C++ quiz in which you're asked to find errors in code fragments of open source projects.
-*   [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/C-plus-plus-tutorials/)
+*   [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/c-plus-plus/)
 *   [C++ Hints](http://cpphints.com/) - Every business day hints about most often C++ mistakes and ways to solve them from PVS-Studio Team.
 *   [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - A user ranked online tutorial bank site displaying multiple courses to learn C++ from.
 *   [C++ Tutorial for Beginners](https://www.scaler.com/topics/cpp) - A comprenhensive tutorial on C++ curated by trained experts.
