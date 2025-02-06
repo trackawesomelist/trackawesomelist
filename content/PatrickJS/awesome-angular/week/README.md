@@ -8,6 +8,10 @@
 
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
+### Community
+
+*   [Angular: The Documentary | An origin story](https://www.youtube.com/watch?v=cRC9DlH45lA)
+
 ### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular UI](https://angular-ui.com/) - Get ready to build your next web application using Angular with interactive courses and exercises.

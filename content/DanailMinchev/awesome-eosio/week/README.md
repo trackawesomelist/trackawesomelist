@@ -2,9 +2,18 @@
 
 :sunglasses: A curated list of awesome EOSIO resources for users and developers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/DanailMinchev/awesome-eosio/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 DanailMinchev/awesome-eosio](https://github.com/DanailMinchev/awesome-eosio) · ⭐ 66 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/DanailMinchev/awesome-eosio/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 DanailMinchev/awesome-eosio](https://github.com/DanailMinchev/awesome-eosio) · ⭐ 78 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/DanailMinchev/awesome-eosio/README.md) / Weekly / [Overview](/content/DanailMinchev/awesome-eosio/readme/README.md) ]
+
+## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
+
+### Official
+
+*   [EOS Network Foundation](https://eosnetwork.com/)
+*   [GitHub (⭐12)](https://github.com/AntelopeIO/spring)
+*   [Blue Paper](https://eosnetwork.com/blog/category/eos-blue-papers/n)
+*   [YouTube](https://www.youtube.com/@EOSNetworkFoundation)
 
 ## [Jul 25 - Jul 31, 2022](/content/2022/30/README.md)
 
@@ -19,7 +28,7 @@
 
 ### Libraries and Frameworks / Authentication and Wallet Signing libraries
 
-*   [eosdac/ual-wax (⭐12)](https://github.com/eosdac/ual-wax) - UAL authenticator for Wax Cloud Wallet.
+*   [eosdac/ual-wax (⭐17)](https://github.com/eosdac/ual-wax) - UAL authenticator for Wax Cloud Wallet.
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
@@ -35,25 +44,25 @@
 
 ### Libraries and Frameworks / History
 
-*   [EOSIO/history-tools (⭐64)](https://github.com/EOSIO/history-tools) - Official EOSIO history API plugin.
-*   [Hyperion History API (⭐116)](https://github.com/eosrio/Hyperion-History-API) - Scalable Full History API Solution for EOSIO based blockchains.
-*   [EOSIO Light API (⭐49)](https://github.com/cc32d9/eosio_light_api) - Historic information about EOSIO blockchain accounts and token balances.
+*   [EOSIO/history-tools (⭐65)](https://github.com/EOSIO/history-tools) - Official EOSIO history API plugin.
+*   [Hyperion History API (⭐127)](https://github.com/eosrio/Hyperion-History-API) - Scalable Full History API Solution for EOSIO based blockchains.
+*   [EOSIO Light API (⭐55)](https://github.com/cc32d9/eosio_light_api) - Historic information about EOSIO blockchain accounts and token balances.
 
 ### Libraries and Frameworks / Testing
 
-*   [EOSIO/eosio.contracts (⭐314)](https://github.com/EOSIO/eosio.contracts/tree/master/tests) - Official C++ system contract test suite (notoriously difficult to use).
+*   [EOSIO/eosio.contracts (⭐324)](https://github.com/EOSIO/eosio.contracts/tree/master/tests) - Official C++ system contract test suite (notoriously difficult to use).
 *   [Hydra](https://docs.klevoya.com/hydra/about/getting-started/) - JavaScript framework for testing EOSIO smart contracts.
-*   [haderech/vert (⭐6)](https://github.com/haderech/vert) - JavaScript EOS-VM emulation RunTime for WASM-based blockchain contracts. Run and test smart contracts.
+*   [haderech/vert (⭐7)](https://github.com/haderech/vert) - JavaScript EOS-VM emulation RunTime for WASM-based blockchain contracts. Run and test smart contracts.
 
 ### Libraries and Frameworks / Services
 
 *   [Liquid Apps](https://docs.liquidapps.io) - Smart contract services vRAM, oracles, cron, IPFS and ICB.
-*   [DelphiOracle (⭐38)](https://github.com/eostitan/delphioracle) - A multi-party source of truth, designed to provide the near-realtime price of the asset pairs to other smart contracts or to external users.
+*   [DelphiOracle (⭐41)](https://github.com/eostitan/delphioracle) - A multi-party source of truth, designed to provide the near-realtime price of the asset pairs to other smart contracts or to external users.
 
 ### Developer Tools / Services
 
-*   [Blanc (⭐18)](https://github.com/haderech/blanc) - A toolchain for building WebAssembly-based blockchain contracts. Currently, Blanc supports EOSIO and CosmWasm (experimental).
-*   [manh-vv/eosjs-name (⭐9)](https://github.com/manh-vv/eosjs-name) - Convert an Eosio name to uint64 and back.
+*   [Blanc (⭐19)](https://github.com/haderech/blanc) - A toolchain for building WebAssembly-based blockchain contracts. Currently, Blanc supports EOSIO and CosmWasm (experimental).
+*   [manh-vv/eosjs-name (⭐10)](https://github.com/manh-vv/eosjs-name) - Convert an Eosio name to uint64 and back.
 *   [blockchain-etl/eos-etl (⭐9)](https://github.com/blockchain-etl/eos-etl) - Connector for Google's BigQuery Public Datasets.
 
 ### EOSIO Ecosystem / Services
@@ -65,10 +74,6 @@
 *   [kesar/decentwitter (⭐37)](https://github.com/kesar/decentwitter) - Decentralized Twitter on EOS.
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
-
-### Mandel
-
-*   [gofractally](https://github.com/gofractally) - Eden team repository with new Mandel resources and tools.
 
 ### Courses, workshops, webinars, videos and others
 
@@ -84,11 +89,11 @@
 
 ### Libraries and Frameworks / API libraries
 
-*   [SwiftyEOS (⭐95)](https://github.com/ProChain/SwiftyEOS) - Framework for interacting with EOS, written in Swift.
+*   [SwiftyEOS (⭐91)](https://github.com/ProChain/SwiftyEOS) - Framework for interacting with EOS, written in Swift.
 
 ### Libraries and Frameworks / Services
 
-*   [Demux (⭐303)](https://github.com/EOSIO/demux-js) - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
+*   [Demux (⭐306)](https://github.com/EOSIO/demux-js) - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
 *   [Introducing Demux — Deterministic Databases Off-Chain Verified by the EOSIO Blockchain](https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017) - Article.
 *   [WAX Random Number Generator](https://developer.wax.io/es/tutorials/wax-rng)
 
@@ -102,11 +107,11 @@
 
 ### Block Producer tools / Services
 
-*   [eosdetroit/nodesuite (⭐14)](https://github.com/eosdetroit/nodesuite) - Nodesuite is a tool to simplify the management and configuration of eosio nodes through the use of Ansible playbooks.
+*   [eosdetroit/nodesuite (⭐16)](https://github.com/eosdetroit/nodesuite) - Nodesuite is a tool to simplify the management and configuration of eosio nodes through the use of Ansible playbooks.
 
 ### Other in Developers / Services
 
-*   [clsdk (⭐50)](https://github.com/gofractally/Eden/releases?q=clsdk\&expanded=true) - EOSIO smart contract C++ testing framework including in-contract debugging during wasm execution with VS code.
+*   [clsdk (⭐52)](https://github.com/gofractally/Eden/releases?q=clsdk\&expanded=true) - EOSIO smart contract C++ testing framework including in-contract debugging during wasm execution with VS code.
 
 ### Blogs / Services
 
@@ -135,16 +140,6 @@
 *   [EOS Nation](https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g) - EOS Hot Sauce, ENF, tech, and community content.
 *   [Helios](https://www.youtube.com/c/HeliosEOSIO) - Dedicated to growing EOS, interviews and spotlights.
 
-## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
-
-### Official
-
-*   [EOS Network Foundation](https://www.eosn.foundation/)
-
-### Mandel
-
-*   [eosnetworkfoundation/mandel (⭐88)](https://github.com/eosnetworkfoundation/mandel) - Official GitHub.
-
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
 ### Block Producer tools / Services
@@ -156,7 +151,7 @@
 ### Websites
 
 *   [EOSIO Developer Portal](https://developers.eos.io/) - A great place to begin your EOSIO blockchain journey.
-*   [EOS Smart Contract Development Security Best Practices (⭐389)](https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md)
+*   [EOS Smart Contract Development Security Best Practices (⭐400)](https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md)
 *   [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 
 ### Books
@@ -184,15 +179,6 @@
 
 ## [May 24 - May 30, 2021](/content/2021/21/README.md)
 
-### Official
-
-*   [GitHub](https://github.com/EOSIO)
-
-### EdenOS
-
-*   [eoscommunity](https://github.com/eoscommunity) - Official GitHub.
-*   [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) - Book by Daniel Larimer.
-
 ### Courses, workshops, webinars, videos and others
 
 *   [EOSIO Training & Certification](https://training.eos.io/) - Official EOSIO Training & Certification.
@@ -205,7 +191,7 @@
 ### Environment / Mobile
 
 *   [EOS Studio](https://www.eosstudio.io/) - Graphic IDE for EOSIO Development.
-*   [EOSIO Web IDE (⭐140)](https://github.com/EOSIO/eosio-web-ide) - The Web IDE provides developers with a personal single-node EOSIO blockchain for development and testing purposes, running in the [Gitpod.io](https://www.gitpod.io/) cloud – and accessible from your web browser.
+*   [EOSIO Web IDE (⭐156)](https://github.com/EOSIO/eosio-web-ide) - The Web IDE provides developers with a personal single-node EOSIO blockchain for development and testing purposes, running in the [Gitpod.io](https://www.gitpod.io/) cloud – and accessible from your web browser.
 *   [Helm charts for EOSIO (⭐6)](https://github.com/EOSIO/eosio.helm) - EOSIO Nodeos Helm Charts.
 
 ### Testnets / Mobile
@@ -217,38 +203,34 @@
 ### Libraries and Frameworks / Core
 
 *   [EOSIO/eos (⭐11k)](https://github.com/EOSIO/eos) - Official EOSIO GitHub repository.
-*   [EOSIO/eos-vm (⭐185)](https://github.com/EOSIO/eos-vm) - A Low-Latency, High Performance and Extensible WebAssembly Backend Library.
+*   [EOSIO/eos-vm (⭐197)](https://github.com/EOSIO/eos-vm) - A Low-Latency, High Performance and Extensible WebAssembly Backend Library.
 
 ### Libraries and Frameworks / API libraries
 
-*   [greymass/eosio (⭐29)](https://github.com/greymass/eosio-core/) - Strongly typed JavaScript library.
-*   [greymass/swift-eosio (⭐12)](https://github.com/greymass/swift-eosio) - Swift SDK with ESR support.
+*   [greymass/eosio (⭐44)](https://github.com/greymass/eosio-core/) - Strongly typed JavaScript library.
+*   [greymass/swift-eosio (⭐16)](https://github.com/greymass/swift-eosio) - Swift SDK with ESR support.
 
 ### Libraries and Frameworks / Authentication and Wallet Signing libraries
 
-*   [greymass/ual-anchor (⭐18)](https://github.com/greymass/ual-anchor) - Authenticator meant to be used with Anchor and Universal Authenticator Library.
-*   [greymass/anchor-link (⭐42)](https://github.com/greymass/anchor-link) - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).
-*   [greymass/eosio-signing-request (⭐28)](https://github.com/greymass/eosio-signing-request) - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
+*   [greymass/ual-anchor (⭐23)](https://github.com/greymass/ual-anchor) - Authenticator meant to be used with Anchor and Universal Authenticator Library.
+*   [greymass/anchor-link (⭐53)](https://github.com/greymass/anchor-link) - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).
+*   [greymass/eosio-signing-request (⭐33)](https://github.com/greymass/eosio-signing-request) - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
 *   [greymass/eosio-signing-request-java (⭐2)](https://github.com/greymass/eosio-signing-request-java) - Java wrapper for the EOSIO Signing Request protocol.
 
 ### Developer Tools / Services
 
-*   [greymass/eosio-resources (⭐7)](https://github.com/greymass/eosio-resources) - Tool to assist in network resource calculations.
+*   [greymass/eosio-resources (⭐9)](https://github.com/greymass/eosio-resources) - Tool to assist in network resource calculations.
 *   [greymass/abi2core (⭐1)](https://github.com/greymass/abi2core) - Command line utility to convert ABI definitions to greymass/eosio type definitions.
 
 ### Code examples / Services
 
-*   [EOSIO/eosio.contracts (⭐314)](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
-*   [greymass/anchor-link-demo (⭐0)](https://github.com/greymass/anchor-link-demo) - Example VueJS application integrating greymass/anchor-link.
-*   [greymass/anchor-link-demo-multipass (⭐7)](https://github.com/greymass/anchor-link-demo-multipass) - Example ReactJS application integrating greymass/anchor-link.
-*   [greymass/ual-anchor-demo (⭐2)](https://github.com/greymass/ual-anchor-demo) - Example ReactJS application integrating greymass/ual-anchor.
-*   [greymass/eosio-signing-request-demo (⭐4)](https://github.com/greymass/eosio-signing-request-demo) - Example generating transactions using greymass/eosio-signing-request.
+*   [EOSIO/eosio.contracts (⭐324)](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
+*   [greymass/anchor-link-demo (⭐2)](https://github.com/greymass/anchor-link-demo) - Example VueJS application integrating greymass/anchor-link.
+*   [greymass/anchor-link-demo-multipass (⭐10)](https://github.com/greymass/anchor-link-demo-multipass) - Example ReactJS application integrating greymass/anchor-link.
+*   [greymass/ual-anchor-demo (⭐4)](https://github.com/greymass/ual-anchor-demo) - Example ReactJS application integrating greymass/ual-anchor.
+*   [greymass/eosio-signing-request-demo (⭐5)](https://github.com/greymass/eosio-signing-request-demo) - Example generating transactions using greymass/eosio-signing-request.
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
-
-### EdenOS
-
-*   [Website](http://edeneos.org/) - Official Website.
 
 ### Websites
 
@@ -262,9 +244,9 @@
 ### Wallets and Toolkits / Desktop
 
 *   [Anchor Wallet](https://greymass.com/en/anchor/)
-    *   [greymass/anchor (⭐498)](https://github.com/greymass/anchor) - Official GitHub.
+    *   [greymass/anchor (⭐577)](https://github.com/greymass/anchor) - Official GitHub.
 *   [EOS Authority Web Wallet](https://eosauthority.com/dashboard)
-*   [eoscanada/eosc (⭐131)](https://github.com/eoscanada/eosc)
+*   [eoscanada/eosc (⭐134)](https://github.com/eoscanada/eosc)
 
 ### Account services / Mobile
 
@@ -277,21 +259,21 @@
 
 ### Libraries and Frameworks / API libraries
 
-*   [EOSRPC API Wrapper for Elixir (⭐18)](https://github.com/cambiatus/eosrpc-elixir-wrapper) - Elixir library.
+*   [EOSRPC API Wrapper for Elixir (⭐20)](https://github.com/cambiatus/eosrpc-elixir-wrapper) - Elixir library.
 
 ### Libraries and Frameworks / Testing
 
-*   [tokenika/eosfactory (⭐244)](https://github.com/tokenika/eosfactory) - Python-based EOSIO smart-contract development & unit testing framework.
+*   [tokenika/eosfactory (⭐243)](https://github.com/tokenika/eosfactory) - Python-based EOSIO smart-contract development & unit testing framework.
 
 ### Developer Tools / Services
 
-*   [Octopus (⭐390)](https://github.com/pventuzelo/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
+*   [Octopus (⭐483)](https://github.com/pventuzelo/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
 
 ### Code examples / Services
 
-*   [Eosfinex Custody Smart Contract (⭐19)](https://github.com/bitfinexcom/eosfinex-custody-contract) - Eosfinex exchange smart contract.
+*   [Eosfinex Custody Smart Contract (⭐18)](https://github.com/bitfinexcom/eosfinex-custody-contract) - Eosfinex exchange smart contract.
     *   [Bitfinex blog post about eosfinex](https://www.bitfinex.com/posts/616) - Article.
-*   [eosnewyork/erp (⭐48)](https://github.com/eosnewyork/erp) - EOS Resource Planner.
+*   [eosnewyork/erp (⭐45)](https://github.com/eosnewyork/erp) - EOS Resource Planner.
 
 ### Block Producer tools / Services
 
@@ -308,25 +290,19 @@
 ### Games / Services
 
 *   [MonsterEOS](https://monstereos.io/)
-    *   [MonsterEOS/monstereos (⭐180)](https://github.com/MonsterEOS/monstereos) - Official GitHub.
-
-## [May 03 - May 09, 2021](/content/2021/18/README.md)
-
-### Official
-
-*   [EOS Community](https://eoscommunity.org/)
+    *   [MonsterEOS/monstereos (⭐185)](https://github.com/MonsterEOS/monstereos) - Official GitHub.
 
 ## [Jun 29 - Jul 05, 2020](/content/2020/26/README.md)
 
 ### Developer Tools / Services
 
-*   [EOSIO Ethereum Virtual Machine (EVM) (⭐87)](https://github.com/jafri/eosio.evm) - Ethereum Virtual Machine on EOSIO.
+*   [EOSIO Ethereum Virtual Machine (EVM) (⭐93)](https://github.com/jafri/eosio.evm) - Ethereum Virtual Machine on EOSIO.
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 
 ### Libraries and Frameworks / Testing
 
-*   [EOSLIME (⭐39)](https://github.com/LimeChain/eoslime) - Truffle like framework for development, deployment and testing on EOS blockchains.
+*   [EOSLIME (⭐36)](https://github.com/LimeChain/eoslime) - Truffle like framework for development, deployment and testing on EOS blockchains.
 
 ## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
 
@@ -338,47 +314,47 @@
 
 ### Wallets and Toolkits / Mobile
 
-*   [OracleChain/PocketEOS-Android (⭐159)](https://github.com/OracleChain/PocketEOS-Android)
-*   [OracleChain/PocketEOS-IOS (⭐112)](https://github.com/OracleChain/PocketEOS-IOS)
-*   [Android client for EOS.IO (⭐215)](https://github.com/playerone-id/EosCommander)
+*   [OracleChain/PocketEOS-Android (⭐158)](https://github.com/OracleChain/PocketEOS-Android)
+*   [OracleChain/PocketEOS-IOS (⭐111)](https://github.com/OracleChain/PocketEOS-IOS)
+*   [Android client for EOS.IO (⭐212)](https://github.com/playerone-id/EosCommander)
 
 ### Libraries and Frameworks / API libraries
 
-*   [EOSIO/eosio-java (⭐123)](https://github.com/EOSIO/eosio-java) - Official Java SDK.
+*   [EOSIO/eosio-java (⭐127)](https://github.com/EOSIO/eosio-java) - Official Java SDK.
     *   [eosiojava API](https://eosio.github.io/eosio-java/) - API documentation.
     *   [EOSIO™ Software Release: Native SDKs for Swift and Java](https://eos.io/news/eosio-software-release-native-sdks-for-swift-and-java/) - Article.
-*   [EOSIO/eosio-swift (⭐63)](https://github.com/EOSIO/eosio-swift) - Official Swift SDK.
+*   [EOSIO/eosio-swift (⭐61)](https://github.com/EOSIO/eosio-swift) - Official Swift SDK.
     *   [EOSIO SDK for Swift](https://eosio.github.io/eosio-swift/) - API documentation.
-*   [memtrip/eosreach-android (⭐37)](https://github.com/memtrip/eosreach-android) - Kotlin / Android library.
+*   [memtrip/eosreach-android (⭐38)](https://github.com/memtrip/eosreach-android) - Kotlin / Android library.
 
 ### Libraries and Frameworks / Authentication and Wallet Signing libraries
 
-*   [EOSIO/universal-authenticator-library (⭐127)](https://github.com/EOSIO/universal-authenticator-library) - A library for allowing apps to easily use different auth providers.
+*   [EOSIO/universal-authenticator-library (⭐128)](https://github.com/EOSIO/universal-authenticator-library) - A library for allowing apps to easily use different auth providers.
     *   [EOSIO Labs™ Release: The Universal Authenticator Library (UAL) — Increasing the Accessibility of Blockchain Applications](https://eos.io/news/eosio-labs-release-the-universal-authenticator-library-ual%e2%80%8a-%e2%80%8aincreasing-the-accessibility-of-blockchain-applications/) - Article.
-*   [EOSIO/eosio-webauthn-example-app (⭐35)](https://github.com/EOSIO/eosio-webauthn-example-app) - Example web app demonstrating EOSIO signing via WebAuthn.
+*   [EOSIO/eosio-webauthn-example-app (⭐38)](https://github.com/EOSIO/eosio-webauthn-example-app) - Example web app demonstrating EOSIO signing via WebAuthn.
     *   [EOSIO Labs™ Release: WebAuthn Example Web App for EOSIO YubiKey Support](https://eos.io/news/eosio-labs-release-webauthn-example-web-app-for-eosio-yubikey-support/) - Article.
-*   [EOSIO/eosio-reference-chrome-extension-authenticator-app (⭐26)](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app) - Chrome extension reference app demonstrating how users could sign transactions using various EOSIO Labs tools.
+*   [EOSIO/eosio-reference-chrome-extension-authenticator-app (⭐25)](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app) - Chrome extension reference app demonstrating how users could sign transactions using various EOSIO Labs tools.
     *   [EOSIO Labs™ Release: iOS and Chrome Extension Authenticator Reference Applications](https://eos.io/news/eosio-labs-release-ios-and-chrome-extension-authenticator-reference-applications/) - Article.
-*   [EOSIO/eosio-reference-ios-authenticator-app (⭐68)](https://github.com/EOSIO/eosio-reference-ios-authenticator-app) - iOS reference app demonstrating inter-application transaction signing for EOSIO blockchain apps.
+*   [EOSIO/eosio-reference-ios-authenticator-app (⭐66)](https://github.com/EOSIO/eosio-reference-ios-authenticator-app) - iOS reference app demonstrating inter-application transaction signing for EOSIO blockchain apps.
 *   [EOSIO/ual-scatter (⭐14)](https://github.com/EOSIO/ual-scatter) - Authenticator meant to be used with Scatter and Universal Authenticator Library.
 
 ### Developer Tools / Services
 
-*   [EOSIO/eosio.cdt (⭐514)](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
-*   [EOSIO/ricardian-template-toolkit (⭐37)](https://github.com/EOSIO/ricardian-template-toolkit) - Renderer for the Ricardian Contract specification.
+*   [EOSIO/eosio.cdt (⭐513)](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
+*   [EOSIO/ricardian-template-toolkit (⭐45)](https://github.com/EOSIO/ricardian-template-toolkit) - Renderer for the Ricardian Contract specification.
 
 ### Code examples / Services
 
-*   [EOSIO/eosio-java-android-example-app (⭐32)](https://github.com/EOSIO/eosio-java-android-example-app) - Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java.
+*   [EOSIO/eosio-java-android-example-app (⭐31)](https://github.com/EOSIO/eosio-java-android-example-app) - Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java.
 
 ### Block Producer tools / Services
 
-*   [eosdetroit/bp-playbook (⭐6)](https://github.com/eosdetroit/bp-playbook) - A set of playbooks to make managing EOS.IO nodes easier.
+*   [eosdetroit/bp-playbook (⭐8)](https://github.com/eosdetroit/bp-playbook) - A set of playbooks to make managing EOS.IO nodes easier.
 *   [eoseoul/eos-ramcost (⭐6)](https://github.com/eoseoul/eos-ramcost) - Adjusting supply of a token and connector balance of bancor during final phase of boot.
 
 ### Other in Developers / Services
 
-*   [OracleChain/EOSBenchTool (⭐34)](https://github.com/OracleChain/EOSBenchTool) - A client side tool for EOS performance testing.
+*   [OracleChain/EOSBenchTool (⭐36)](https://github.com/OracleChain/EOSBenchTool) - A client side tool for EOS performance testing.
 *   [breakstring/savemyeosram (⭐5)](https://github.com/breakstring/savemyeosram) - Saving RAM on EOS.
 
 ### Other in DApps / Services
@@ -401,14 +377,14 @@
 ### Libraries and Frameworks / API libraries
 
 *   [Transit API for EOS](https://www.eostransit.com/) - Connecting signature providers and dApps through an open-source, modular, and simple standard for EOSIO-based blockchains.
-    *   [eosnewyork/eos-transit (⭐89)](https://github.com/eosnewyork/eos-transit) - Official GitHub.
+    *   [eosnewyork/eos-transit (⭐87)](https://github.com/eosnewyork/eos-transit) - Official GitHub.
     *   [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - Article.
 
 ### Code examples / Services
 
-*   [poorman.token (⭐46)](https://github.com/generEOS/poorman.token) - EOSIO Token with burning and signup (for making the token RAM cheap).
+*   [poorman.token (⭐45)](https://github.com/generEOS/poorman.token) - EOSIO Token with burning and signup (for making the token RAM cheap).
 *   [EOSEssentials/Scatter-Demos (⭐81)](https://github.com/EOSEssentials/Scatter-Demos) - A set of integration demos using eosjs and Scatter.
-*   [ping-eos (⭐87)](https://github.com/eosasia/ping-eos) - Implementing ping between EOSIO / React.js.
+*   [ping-eos (⭐85)](https://github.com/eosasia/ping-eos) - Implementing ping between EOSIO / React.js.
 *   [ipfs-eos-demo (⭐42)](https://github.com/wpuricz/ipfs-eos-demo) - Demo saving text and images to ipfs and storing the hash on the EOSIO blockchain.
 
 ### YouTube Channels / Services
@@ -421,11 +397,7 @@
 
 ### Official
 
-*   [Technical White Paper (⭐2.1k)](https://github.com/EOSIO/Documentation)
-*   [Bug Bounty Program](https://hackerone.com/eosio)
-*   [Blog](https://medium.com/eosio)
 *   [StackExchange for Q\&A](https://eosio.stackexchange.com/)
-*   [YouTube](https://www.youtube.com/c/eosio)
 
 ### Libraries and Frameworks / API libraries
 
@@ -459,7 +431,7 @@
 ### Wallets and Toolkits / Desktop
 
 *   [Scatter](https://get-scatter.com/)
-    *   [GetScatter/ScatterDesktop (⭐498)](https://github.com/GetScatter/ScatterDesktop) - Official GitHub.
+    *   [GetScatter/ScatterDesktop (⭐499)](https://github.com/GetScatter/ScatterDesktop) - Official GitHub.
 
 ## [Aug 27 - Sep 02, 2018](/content/2018/35/README.md)
 
@@ -474,9 +446,9 @@
 *   [cleos](https://developers.eos.io/eosio-cleos/docs)
     *   [EOSIO/eos (⭐11k)](https://github.com/EOSIO/eos/tree/master/programs/cleos) - Official GitHub (part of EOSIO).
 *   [EOS Toolkit](https://eostoolkit.io/)
-    *   [eostoolkit/eostoolkit (⭐93)](https://github.com/eostoolkit/eostoolkit) - Official GitHub.
+    *   [eostoolkit/eostoolkit (⭐92)](https://github.com/eostoolkit/eostoolkit) - Official GitHub.
 *   [SimplEOS](https://eosrio.io/simpleos/)
-    *   [eosrio/simpleos (⭐165)](https://github.com/eosrio/simpleos) - Official GitHub.
+    *   [eosrio/simpleos (⭐164)](https://github.com/eosrio/simpleos) - Official GitHub.
 
 ### Block explorers, Voting portals / Mobile
 
@@ -489,15 +461,15 @@
 
 ### Libraries and Frameworks / API libraries
 
-*   [EOS.IO Go API library (⭐565)](https://github.com/eoscanada/eos-go) - Go library.
-*   [EOS Java API Wrapper (⭐163)](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - Java library.
+*   [EOS.IO Go API library (⭐559)](https://github.com/eoscanada/eos-go) - Go library.
+*   [EOS Java API Wrapper (⭐162)](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - Java library.
 *   [eosnet (⭐11)](https://github.com/SNIKO/eosnet) - .NET library.
 
 ### Developer Tools / Services
 
-*   [Elliptic curve cryptography functions (ECC) (⭐279)](https://github.com/EOSIO/eosjs-ecc) - Private Key, Public Key, Signature, AES, Encryption / Decryption.
+*   [Elliptic curve cryptography functions (ECC) (⭐289)](https://github.com/EOSIO/eosjs-ecc) - Private Key, Public Key, Signature, AES, Encryption / Decryption.
     *   [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
-*   [EOSEssentials/EOSDrops (⭐56)](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOSIO blockchain.
+*   [EOSEssentials/EOSDrops (⭐57)](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOSIO blockchain.
 
 ### Block Producer tools / Services
 
@@ -506,7 +478,7 @@
 
 ### Other in Developers / Services
 
-*   [cleos-auto-completion (⭐31)](https://github.com/hexlant/cleos-auto-completion) - Command auto-completion for EOSIO cleos.
+*   [cleos-auto-completion (⭐30)](https://github.com/hexlant/cleos-auto-completion) - Command auto-completion for EOSIO cleos.
 *   [EOS-Sync](https://github.com/EOSpace/eos-sync) - Syncing the EOSIO blockchain data to mongodb database.
 
 ### Games / Services
@@ -518,7 +490,7 @@
 
 ### Other in DApps / Services
 
-*   [eosfilestore (⭐45)](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
+*   [eosfilestore (⭐46)](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 
 ## [Jul 30 - Aug 05, 2018](/content/2018/31/README.md)
 
@@ -527,10 +499,6 @@
 *   [EOSindex](https://eosindex.io/)
 
 ## [Jul 16 - Jul 22, 2018](/content/2018/29/README.md)
-
-### Official
-
-*   [Block.one](https://block.one/)
 
 ### Block Producers / Mobile
 

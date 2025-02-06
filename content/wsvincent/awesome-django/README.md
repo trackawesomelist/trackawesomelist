@@ -6,6 +6,12 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Feb 06, 2025](/content/2025/02/06/README.md)
+
+### Projects / Open Source Projects
+
+*   [linkding (⭐7.3k)](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+
 ## [Jan 31, 2025](/content/2025/01/31/README.md)
 
 ### Resources / Podcasts

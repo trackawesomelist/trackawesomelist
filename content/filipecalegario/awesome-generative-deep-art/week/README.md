@@ -6,6 +6,30 @@ A curated list of Generative AI tools, works, models, and references
 
 [ [Daily](/content/filipecalegario/awesome-generative-deep-art/README.md) / Weekly / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
+
+### Generative AI history, timelines, maps, and definitions
+
+*   [Agents Marketplace](https://marketplace.agen.cy/agents)
+
+### Large Language Models (LLMs)
+
+*   [oumi-ai/oumi (⭐5.8k)](https://github.com/oumi-ai/oumi): open universal machine intelligence, open-source platform that streamlines the entire lifecycle of foundation models - from data preparation and training to evaluation and deployment
+
+### Autonomous LLM Agents / Prompt Engineering for Text-to-image
+
+*   \[🔥] [Building effective agents by Anthropic](https://www.anthropic.com/research/building-effective-agents): this article introduces basic concepts related to agents and didactically presents agent architectures.
+*   [Complete Guide to LLM Agents (2025)](https://botpress.com/blog/llm-agents): summarization of terms related to LLM agents
+
+### Attacks on LLMs / Multi-agents
+
+*   [Constitutional Classifiers](https://arxiv.org/abs/2501.18837): Defending against Universal Jailbreaks across Thousands of Hours of Red Teaming
+*   [briland/LLM-security-and-privacy (⭐45)](https://github.com/briland/LLM-security-and-privacy): LLM security and privacy
+
+### Image Synthesis / Multi-agents
+
+*   [TokenVerse](https://token-verse.github.io/): Versatile Multi-concept Personalization in Token Modulation Space
+
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Generative AI history, timelines, maps, and definitions

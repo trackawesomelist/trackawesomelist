@@ -2,7 +2,7 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 35K · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 37K · 🏷️ Work
 
 [ [Daily](/content/lukasz-madon/awesome-remote-job/README.md) / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / Overview ]
 
@@ -156,53 +156,54 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 11. [Diversify Tech](https://www.diversifytech.com/job-board) - Companies are transparent about their Diversity & Inclusion efforts
 12. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
 13. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
-14. [freelancermap](https://www.freelancermap.com/projects/remote.html) - Freelance & contract jobs for IT experts (mostly German projects)
-15. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
-16. [Guru](https://www.guru.com/) - (has MANY different categories outside software)
-17. [HackerX](https://hackerx.org/jobs/)
-18. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
-19. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
-20. [HN hiring](https://www.hnhiring.me/) – Filter REMOTE.
-21. [JOBBOX.io](https://landing.jobs/jobs) – Filter -> Remote only.
-22. [JobsCollider](https://jobscollider.com/remote-jobs) - \* Tens of thousands of remote jobs from over 10,000 companies and startups worldwide. \*
-23. [Jobspresso](https://jobspresso.co/) \* High-quality remote positions that are open and legitimate \*
-24. [JustRemote](https://justremote.co)
-25. [Larajobs](https://larajobs.com/?location=\&remote=1) – The artisan employment connection
-26. [No Fluff Jobs](https://nofluffjobs.com/pl/#criteria=remote) – Filter -> “*remote*”
-27. [NODESK](https://nodesk.co/remote-jobs/)
-28. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
-29. [Remote AI Jobs](https://www.moaijobs.com/remote-ai-jobs) - Remote AI jobs in Machine Learning, Engineering, Data Science, Research, etc
-30. [Remote Backend Jobs](https://www.remotebackendjobs.com/) - Find exclusively remote backend jobs aggregated from the top 22 job boards in the world.
-31. [Remote Frontend Jobs](https://www.remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
-32. [PyJobs.com](https://www.pyjobs.com/?remoteLevel\[0]=1\&remoteLevel\[1]=2) - Jobs for Python developers
-33. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
-34. [remote-es/remotes (⭐2.3k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
-35. [thatmlopsguy/remote-pt (⭐1)](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
-36. [remote-jobs (⭐30k)](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
-37. [Remotees](https://weworkremotely.com/?utm_source=Remotees\&utm_medium=Redirect\&utm_campaign=Remotees)
-38. [Remote.co Jobs](https://remote.co/remote-jobs/)
-39. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
-40. [Remotive Jobs](https://remotive.com/)
-41. [Remote People](https://remotepeople.io/)
-42. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
-43. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
-44. [Skip the Drive](https://www.skipthedrive.com/)
-45. [Slasify](https://slasify.com/en) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
-46. [Stream Native Jobs](https://streamnative.io/careers) - Scroll down to `Join Us`
-47. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
-48. [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) - Remote jobs for UI, UX & UXR Designers
-49. [Upwork](https://www.upwork.com) - Find remote jobs in any category
-50. [Virtual Vocations](https://www.virtualvocations.com/)
-51. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
-52. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
-53. [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
-54. [We Work Remotely](https://weworkremotely.com/)
-55. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
-56. [Working Nomads](https://www.workingnomads.com/jobs)
-57. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
-58. [Dataaxy](https://dataaxy.com) Job board and reverse job board specialized in Data and AI in North America
-59. [Freel](https://freel.ca) Freelancers job board in Canada
-60. [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
+14. [Findjobit](https://findjobit.com/jobs) - Remote jobs for LATAM IT professionals.
+15. [freelancermap](https://www.freelancermap.com/projects/remote.html) - Freelance & contract jobs for IT experts (mostly German projects)
+16. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
+17. [Guru](https://www.guru.com/) - (has MANY different categories outside software)
+18. [HackerX](https://hackerx.org/jobs/)
+19. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
+20. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
+21. [HN hiring](https://www.hnhiring.me/) – Filter REMOTE.
+22. [JOBBOX.io](https://landing.jobs/jobs) – Filter -> Remote only.
+23. [JobsCollider](https://jobscollider.com/remote-jobs) - \* Tens of thousands of remote jobs from over 10,000 companies and startups worldwide. \*
+24. [Jobspresso](https://jobspresso.co/) \* High-quality remote positions that are open and legitimate \*
+25. [JustRemote](https://justremote.co)
+26. [Larajobs](https://larajobs.com/?location=\&remote=1) – The artisan employment connection
+27. [No Fluff Jobs](https://nofluffjobs.com/pl/#criteria=remote) – Filter -> “*remote*”
+28. [NODESK](https://nodesk.co/remote-jobs/)
+29. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
+30. [Remote AI Jobs](https://www.moaijobs.com/remote-ai-jobs) - Remote AI jobs in Machine Learning, Engineering, Data Science, Research, etc
+31. [Remote Backend Jobs](https://www.remotebackendjobs.com/) - Find exclusively remote backend jobs aggregated from the top 22 job boards in the world.
+32. [Remote Frontend Jobs](https://www.remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
+33. [PyJobs.com](https://www.pyjobs.com/?remoteLevel\[0]=1\&remoteLevel\[1]=2) - Jobs for Python developers
+34. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
+35. [remote-es/remotes (⭐2.4k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+36. [thatmlopsguy/remote-pt (⭐1)](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
+37. [remote-jobs (⭐31k)](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+38. [Remotees](https://weworkremotely.com/?utm_source=Remotees\&utm_medium=Redirect\&utm_campaign=Remotees)
+39. [Remote.co Jobs](https://remote.co/remote-jobs/)
+40. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
+41. [Remotive Jobs](https://remotive.com/)
+42. [Remote People](https://remotepeople.io/)
+43. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
+44. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
+45. [Skip the Drive](https://www.skipthedrive.com/)
+46. [Slasify](https://slasify.com/en) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
+47. [Stream Native Jobs](https://streamnative.io/careers) - Scroll down to `Join Us`
+48. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
+49. [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) - Remote jobs for UI, UX & UXR Designers
+50. [Upwork](https://www.upwork.com) - Find remote jobs in any category
+51. [Virtual Vocations](https://www.virtualvocations.com/)
+52. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
+53. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
+54. [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
+55. [We Work Remotely](https://weworkremotely.com/)
+56. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+57. [Working Nomads](https://www.workingnomads.com/jobs)
+58. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
+59. [Dataaxy](https://dataaxy.com) Job board and reverse job board specialized in Data and AI in North America
+60. [Freel](https://freel.ca) Freelancers job board in Canada
+61. [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
 
 ## Job boards aggregators
 
@@ -250,7 +251,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Interviewing
 
 1.  [andreis/interview (⭐18k)](https://github.com/Olshansk/interview) - Everything you need to kick ass on your coding interview
-2.  [awesome-interviews (⭐72k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
+2.  [awesome-interviews (⭐73k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
 3.  [adaface.com/pair-pro](https://www.adaface.com/online-assessment-platform) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
 4.  [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
 5.  [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
@@ -558,7 +559,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 4.  [Gather](https://www.gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
 5.  [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
 6.  [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
-7.  [Matrix (⭐904)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+7.  [Matrix (⭐902)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 8.  [Mumble](https://www.mumble.info/documentation/) Mumble is an open source voice chat software
 9.  [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
 10. [PukkaTeam](https://pukkateam.com/) - Real team presence through regular automated selfies and one-click video calling
@@ -609,16 +610,16 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Others
 
-1.  [awesome-digital-nomads (⭐908)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
-2.  [Established Remote (⭐7.8k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+1.  [awesome-digital-nomads (⭐922)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+2.  [Established Remote (⭐8k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 3.  [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
 4.  [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
 5.  [Nomad List](https://nomads.com/) - Compare cost and quality of living in different cities.
 6.  [Regus USA](https://www.regus.com/en-gb) - Executive suites, virtual offices & conference room space.
 7.  [Remote Companies on Careers SO](https://stackoverflow.com/jobs/companies?q=\&l=\&r=true)
-8.  [Remote Working (⭐10k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+8.  [Remote Working (⭐11k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
 9.  [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
-10. [Websoft9 (⭐2.2k)](https://github.com/Websoft9/websoft9) - Open source software self-hosting platform, one-click to install 200+ application includes remote tools like Jiti Meet, Rocket.chat, GitLab, Mattermost.
+10. [Websoft9 (⭐1.6k)](https://github.com/Websoft9/websoft9) - Open source software self-hosting platform, one-click to install 200+ application includes remote tools like Jiti Meet, Rocket.chat, GitLab, Mattermost.
 
 ## License
 

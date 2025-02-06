@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Feb 06, 2025](/content/2025/02/06/README.md)
+
+### Community
+
+*   [Angular: The Documentary | An origin story](https://www.youtube.com/watch?v=cRC9DlH45lA)
+
 ## [Feb 05, 2025](/content/2025/02/05/README.md)
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
