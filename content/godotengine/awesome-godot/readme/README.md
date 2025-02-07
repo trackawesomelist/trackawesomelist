@@ -450,6 +450,7 @@ See [Vivraan/godot-lang-support (⭐337)](https://github.com/Vivraan/godot-lang-
 
 *Other stuff.*
 
+*   [asdf-godot (⭐1)](https://github.com/mkungla/asdf-godot) - Godot plugin for the [asdf version manager](https://asdf-vm.com).
 *   [codetranslator (⭐50)](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 *   [gd2cs.py (⭐93)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 *   [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.

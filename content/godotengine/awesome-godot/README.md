@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Feb 07, 2025](/content/2025/02/07/README.md)
+
+### Other / Godot version unknown
+
+*   [asdf-godot (⭐1)](https://github.com/mkungla/asdf-godot) - Godot plugin for the [asdf version manager](https://asdf-vm.com).
+
 ## [Feb 02, 2025](/content/2025/02/02/README.md)
 
 ### Plugins and scripts / Godot 4
