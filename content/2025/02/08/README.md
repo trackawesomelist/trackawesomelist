@@ -1,12 +1,61 @@
 # Awesome List Updates on Feb 08, 2025
 
-2 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+### Productivity
+
+*   [STranslate (⭐2.8k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Bayesian Modeling / Generative Model
+
+*   [Analysis of Langevin Monte Carlo via Convex Optimization](https://www.jmlr.org/papers/v20/18-173.html) - ***Journal of Machine Learning Research***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=5305860199396047317)]. This paper provides new insights on the Unadjusted Langevin Algorithm. The authors show that this method can be formulated as the first order optimization algorithm for an objective functional defined on the Wasserstein space of order $2$. Using this interpretation and techniques borrowed from convex optimization, the authors give a non-asymptotic analysis of this method to sample from log-concave smooth target distribution on $\mathbb{R}^d$. Based on this interpretation, the authors propose two new methods for sampling from a non-smooth target distribution. These new algorithms are natural extensions of the Stochastic Gradient Langevin Dynamics (SGLD) algorithm, which is a popular extension of the Unadjusted Langevin Algorithm for largescale Bayesian inference. Using the optimization perspective, the authors provide non-asymptotic convergence analysis for the newly proposed methods.
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Analytics
+
+*   [ghstats (⭐134)](https://github.com/vladkens/ghstats) `⚠` - Dashboard for tracking GitHub repos traffic history longer than 14 days. `MIT` `Docker`
+
+### Software / Automation
+
+*   [BookBounty (⭐156)](https://github.com/TheWicklowWolf/BookBounty) `⚠` - Retrieve missing Readarr books from Library Genesis. `MPL-2.0` `Docker`
+*   [Lidify (⭐190)](https://github.com/TheWicklowWolf/Lidify) `⚠` - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM. `MIT` `Docker`
+
+### Software / Communication - Custom Communication Systems
+
+*   [SAMA](https://samacloud.io) - Next-Gen self-hosted chat server and clients. ([Demo](https://app.samacloud.io/demo), [Source Code (⭐115)](https://github.com/SAMA-Communications/sama-server), [Clients (⭐32)](https://github.com/SAMA-Communications/sama-client)) `GPL-3.0` `Nodejs/Docker`
+
+### Software / Maps and Global Positioning System (GPS)
+
+*   [AirTrail](https://airtrail.johan.ohly.dk) - A personal flight tracking system. ([Source Code (⭐388)](https://github.com/johanohly/AirTrail)) `GPL-3.0` `Docker/Nodejs`
+
+### Software / Miscellaneous
+
+*   [Wakupator (⭐134)](https://github.com/Gibus21250/Wakupator) - Wake On LAN Machine Manager based on network traffic. `MIT` `C`
+
+### Software / Status / Uptime pages
+
+*   [kener](https://kener.ing/) - Status page with incident management, easy to use and customize. ([Demo](https://kener.ing/), [Source Code (⭐3k)](https://github.com/rajnandan1/kener)) `MIT` `Nodejs/Docker`
+
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-reactive-form-class-validator (⭐24)](https://github.com/abarghoud/ngx-reactive-form-class-validator) - A lightweight library for dynamically validate Angular reactive forms using [class-validator (⭐11k)](https://github.com/typestack/class-validator) library.
+
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-compile (⭐91)](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
+
+## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Unit Test, Testing / Apache License
 
@@ -20,7 +69,7 @@
 
 *   [ada-lisp-embedded (⭐3)](https://github.com/BrentSeidel/Ada-Lisp-Embedded) - Embeddable Lisp interpreter.
 
-## [2. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+## [6. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### TypeScript
 

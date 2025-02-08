@@ -20,6 +20,10 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [PDFGear](https://www.pdfgear.com/) - Full-featured and free PDF editor, which provides read, edit, annotation, page management, and print PDF documents.
 
+### Productivity
+
+*   [STranslate (⭐2.8k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
 ### Graphics

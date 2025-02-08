@@ -34,6 +34,10 @@
 
 *   [PDFGear](https://www.pdfgear.com/) - Full-featured and free PDF editor, which provides read, edit, annotation, page management, and print PDF documents.
 
+### Productivity
+
+*   [STranslate (⭐2.8k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+
 ## [3. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTML/XML Parsing
@@ -119,9 +123,34 @@
 
 ## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
+### Software / Analytics
+
+*   [ghstats (⭐134)](https://github.com/vladkens/ghstats) `⚠` - Dashboard for tracking GitHub repos traffic history longer than 14 days. `MIT` `Docker`
+
+### Software / Automation
+
+*   [BookBounty (⭐156)](https://github.com/TheWicklowWolf/BookBounty) `⚠` - Retrieve missing Readarr books from Library Genesis. `MPL-2.0` `Docker`
+*   [Lidify (⭐190)](https://github.com/TheWicklowWolf/Lidify) `⚠` - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM. `MIT` `Docker`
+
+### Software / Communication - Custom Communication Systems
+
+*   [SAMA](https://samacloud.io) - Next-Gen self-hosted chat server and clients. ([Demo](https://app.samacloud.io/demo), [Source Code (⭐115)](https://github.com/SAMA-Communications/sama-server), [Clients (⭐32)](https://github.com/SAMA-Communications/sama-client)) `GPL-3.0` `Nodejs/Docker`
+
+### Software / Maps and Global Positioning System (GPS)
+
+*   [AirTrail](https://airtrail.johan.ohly.dk) - A personal flight tracking system. ([Source Code (⭐388)](https://github.com/johanohly/AirTrail)) `GPL-3.0` `Docker/Nodejs`
+
+### Software / Miscellaneous
+
+*   [Wakupator (⭐134)](https://github.com/Gibus21250/Wakupator) - Wake On LAN Machine Manager based on network traffic. `MIT` `C`
+
 ### Software / Note-taking & Editors
 
 *   [HedgeDoc](https://hedgedoc.org/) - Realtime collaborative markdown notes on all platforms, formerly known as CodiMD and HackMD CE. ([Demo](https://demo.hedgedoc.org/), [Source Code (⭐5.4k)](https://github.com/hedgedoc/hedgedoc)) `AGPL-3.0` `Docker/Nodejs`
+
+### Software / Status / Uptime pages
+
+*   [kener](https://kener.ing/) - Status page with incident management, easy to use and customize. ([Demo](https://kener.ing/), [Source Code (⭐3k)](https://github.com/rajnandan1/kener)) `MIT` `Nodejs/Docker`
 
 ## [12. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
@@ -318,6 +347,7 @@
 ### Bayesian Modeling / Generative Model
 
 *   [Cooperative Training of Descriptor and Generator Networks](https://ieeexplore.ieee.org/abstract/document/8519332) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=18202808849093155435)]. This paper studies the cooperative training of two generative models for image modeling and synthesis. Both models are parametrized by convolutional neural networks (ConvNets). The first model is a deep energy-based model, whose energy function is defined by a bottom-up ConvNet, which maps the observed image to the energy. We call it the descriptor network. The second model is a generator network, which is a non-linear version of factor analysis. It is defined by a top-down ConvNet, which maps the latent factors to the observed image. The maximum likelihood learning algorithms of both models involve MCMC sampling such as Langevin dynamics. This work observes that the two learning algorithms can be seamlessly interwoven into a cooperative learning algorithm that can train both models simultaneously. Specifically, within each iteration of the cooperative learning algorithm, the generator model generates initial synthesized examples to initialize a finite-step MCMC that samples and trains the energy-based descriptor model. After that, the generator model learns from how the MCMC changes its synthesized examples. That is, the descriptor model teaches the generator model by MCMC, so that the generator model accumulates the MCMC transitions and reproduces them by direct ancestral sampling.
+*   [Analysis of Langevin Monte Carlo via Convex Optimization](https://www.jmlr.org/papers/v20/18-173.html) - ***Journal of Machine Learning Research***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=5305860199396047317)]. This paper provides new insights on the Unadjusted Langevin Algorithm. The authors show that this method can be formulated as the first order optimization algorithm for an objective functional defined on the Wasserstein space of order $2$. Using this interpretation and techniques borrowed from convex optimization, the authors give a non-asymptotic analysis of this method to sample from log-concave smooth target distribution on $\mathbb{R}^d$. Based on this interpretation, the authors propose two new methods for sampling from a non-smooth target distribution. These new algorithms are natural extensions of the Stochastic Gradient Langevin Dynamics (SGLD) algorithm, which is a popular extension of the Unadjusted Langevin Algorithm for largescale Bayesian inference. Using the optimization perspective, the authors provide non-asymptotic convergence analysis for the newly proposed methods.
 
 ### Science Logology / AI Assisted Research
 
@@ -455,6 +485,7 @@
 ### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-validators (⭐2)](https://github.com/marcellodotgg/ngx-validators) - A library that provides additional Angular Validators, including the ones Angular provides.
+*   [ngx-reactive-form-class-validator (⭐24)](https://github.com/abarghoud/ngx-reactive-form-class-validator) - A lightweight library for dynamically validate Angular reactive forms using [class-validator (⭐11k)](https://github.com/typestack/class-validator) library.
 
 ### Maps / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -471,6 +502,10 @@
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-verse (⭐18)](https://github.com/lukonik/ng-verse) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://www.ng-verse.dev/) for more.
+
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-compile (⭐91)](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
 
 ---
 

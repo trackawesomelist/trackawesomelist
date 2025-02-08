@@ -315,6 +315,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 *   [MultiCommander](https://multicommander.com/) - Professional file manager.
 *   [Ninite](https://ninite.com/) - Streamlined software installation utility.
 *   [Simplenote](https://simplenote.com/) - Cross-platform note taking app with cloud sync.
+*   [STranslate (⭐2.8k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star]
 *   [Taskade](https://taskade.com/) - Collaborative task management with real-time sync.
 *   [Timelens](https://timlens.wireway.ch) - Cross-platform time tracking software. [![Open-Source Software][oss]](https://github.com/0pandadev/timelens)
 *   [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList)
