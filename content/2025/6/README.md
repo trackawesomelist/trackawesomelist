@@ -1,12 +1,56 @@
 # Awesome List Updates on Feb 10 - Feb 16, 2025
 
-35 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [1. Awesome Magento2](/content/run-as-root/awesome-magento2/week/README.md)
+
+### Events: Meet the community
+
+*   [Meet Commerce](https://www.meetcommerce.com/) - A global series of conferences focused on commerce and innovation.
+
+### Meet Magento
+
+*   [Meet Magento Brazil](https://meetmagentobrasil.org/)
+*   [Meet Magento Florida](https://meetmagentofl.com/)
+*   [Meet Magento India](https://www.meetmagento.in/)
+*   [Meet Magento Malaysia](https://www.meetmagento.asia/)
+*   [Meet Magento Netherlands](https://nl.meet-magento.com/)
+*   [Meet Magento New York City](https://meetmagentonyc.com/)
+*   [Meet Magento Poland](https://meetmagento.pl/)
+*   [Meet Magento Romania](https://ro.meet-magento.com/)
+*   [Meet Magento Singapore](https://meetmagento.sg/)
+*   [Meet Magento UK](https://meet-magento.co.uk/)
+
+### Tools
+
+*   [Tablerates Generator](https://www.tableratesgenerator.com/) - Generate Tablerates with an online Tool.
+*   [Warden (⭐425)](https://github.com/wardenenv/warden) - A CLI utility for working with docker-compose environments
+    by [David Alger](https://davidalger.com/)
+
+### Development Utilities
+
+*   [Scope Hints (⭐162)](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration
+    by Andreas von Studnitz.
+*   [Magewire PHP](https://github.com/magewirephp) - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
+*   [Yireo LokiComponents (⭐1)](https://github.com/yireo/Yireo_LokiComponents) - A library for building AJAX-driven form components with ease. Used by the Yireo Loki Checkout.
+
+### Adminhtml / Backend
+
+*   [Product Links Navigator (⭐15)](https://github.com/elninotech/ElNino_ProductLinksNavigator) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and "Parent Products" tab.
+
+### Security
+
+*   [Magento Quality Patches](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html) - Every Magento / Adobe Commerce patch you need all in one place
+
+### Personal Blogs / Progressive Web Application
+
+*   [Jigar Karangiya](https://jigarkarangiya.com/)
+
+## [2. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Unit Test, Testing / Apache License
 
@@ -20,7 +64,7 @@
 
 *   [ada-lisp-embedded (⭐3)](https://github.com/BrentSeidel/Ada-Lisp-Embedded) - Embeddable Lisp interpreter.
 
-## [2. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [3. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Customization
 
@@ -38,19 +82,19 @@
 
 *   [STranslate (⭐2.8k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
-## [3. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [4. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTML/XML Parsing
 
 *   [lexbor (⭐100)](https://github.com/kostya/lexbor) - Fast HTML5 Parser that includes CSS selectors
 
-## [4. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### HA/Failover/Sharding / Zabbix
 
 *   [autobase (⭐2.1k)](https://github.com/vitabaks/autobase) - Autobase for PostgreSQL® is an open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
 
-## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
+## [6. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Functional Programming
 
@@ -70,7 +114,7 @@
 
 *   [The Death of Agile](https://www.youtube.com/watch?v=YpGGRAhes2k) by **Dave Thomas** (Rethink 2014) \[47:47]
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Terminal Apps / Databases
 
@@ -79,25 +123,25 @@
 *   [Warp](https://www.warp.dev) - Warp is a blazingly fast, rust-based terminal reimagined from the ground up to work like a modern app.
 *   [WezTerm](https://wezfurlong.org/wezterm/) - A GPU-accelerated cross-platform terminal emulator and multiplexer implemented in Rust. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/wez/wezterm)
 
-## [7. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [8. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Other / Godot version unknown
 
 *   [asdf-godot (⭐1)](https://github.com/mkungla/asdf-godot) - Godot plugin for the [asdf version manager](https://asdf-vm.com).
 
-## [8. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [9. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [Findjobit](https://findjobit.com/jobs) - Remote jobs for LATAM IT professionals.
 
-## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [10. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Projects / Open Source Projects
 
 *   [linkding (⭐7.3k)](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 
-## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
 
@@ -121,7 +165,7 @@
 
 *   [TokenVerse](https://token-verse.github.io/): Versatile Multi-concept Personalization in Token Modulation Space
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
@@ -152,13 +196,13 @@
 
 *   [kener](https://kener.ing/) - Status page with incident management, easy to use and customize. ([Demo](https://kener.ing/), [Source Code (⭐3k)](https://github.com/rajnandan1/kener)) `MIT` `Nodejs/Docker`
 
-## [12. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [13. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
 *   [mynav (⭐13)](https://github.com/GianlucaP106/mynav) Workspace and session management TUI built on tmux
 
-## [13. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [14. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Official
 
@@ -167,19 +211,19 @@
 *   [Blue Paper](https://eosnetwork.com/blog/category/eos-blue-papers/n)
 *   [YouTube](https://www.youtube.com/@EOSNetworkFoundation)
 
-## [14. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [15. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Guides
 
 *   [Testing 3D applications with Playwright on GPU](https://blog.promaton.com/testing-3d-applications-with-playwright-on-gpu-1e9cfc8b54a9) - Recipe to enable hardware acceleration for Playwright tests on CI.
 
-## [15. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
+## [16. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
 ### Free Beginner Red Team Path / Level 5 - Reverse Engineering & Pwn
 
 *   [Windows x64 Assembly](https://tryhackme.com/r/room/win64assembly) - Introduction to x64 Assembly on Windows.
 
-## [16. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Data visualization
 
@@ -197,19 +241,27 @@
 
 *   [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/c-plus-plus/)
 
-## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications
+
+*   [wezterm (⭐19k)](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
 
 ### Applications / Vulnerability Research
 
 *   [0xdea/haruspex (⭐10)](https://github.com/0xdea/haruspex) \[[haruspex](https://crates.io/crates/haruspex)] - Vulnerability research assistant that extracts pseudo-code from the IDA Hex-Rays decompiler [![build](https://github.com/0xdea/haruspex/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/haruspex/actions/workflows/build.yml)
 
-## [18. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+### Libraries / Data processing
+
+*   [mjovanc/numru (⭐66)](https://github.com/mjovanc/numru) - A high-performance scientific computation library.
+
+## [19. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### SaaS
 
 *   [Requestly](https://requestly.com/student-program) \[FREE] – Requestly is an open-source tool that simplifies API development, testing, mocking, and integration for developers and QAs. Through the Requestly Student Program, students get full access to all its powerful tools completely free.
 
-## [19. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [20. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -273,7 +325,7 @@
 *   [NDJSON (⭐704) (⭐701)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐365) (⭐359)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [20. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [21. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Command Line
 
@@ -283,25 +335,25 @@
 *   [Swift Argument Parser (⭐3.4k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift
 *   [SwiftCLI (⭐866)](https://github.com/jakeheis/SwiftCLI) - A powerful framework for developing CLIs in Swift
 
-## [21. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [22. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Farm Management Systems and Record Keeping
 
 *   [LiteFarm (⭐134)](https://github.com/LiteFarmOrg/LiteFarm) - LiteFarm is the world’s first community-led, not-for-profit, Farm management system
 
-## [22. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [23. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Forms
 
 *   [Form.taxi](https://form.taxi) - An endpoint for HTML forms to handle submissions with ease. It offers a rich feature set with email notifications, file uploads, submissions archive, GDPR-compliant data processing and a lot more.
 
-## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vue-smooth-picker (⭐217)](https://github.com/hiyali/vue-smooth-picker) - A SmoothPicker for Vue 3 (like native datetime picker of iOS)
 
-## [24. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [25. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### JavaScript / Wicket
 
@@ -312,13 +364,13 @@
 *   [Introduction to Zig](https://pedropark99.github.io/zig-book) - Pedro Duarte Faria (HTML)
 *   [Zig Language Reference](https://ziglang.org/documentation/master) (HTML)
 
-## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [lcd\_parallel\_bus](https://crates.io/crates/lcd_parallel_bus) - GPIO - Async and blocking driver for LCDs based on HD44780 parallel bus - [![crates.io](https://img.shields.io/crates/v/lcd_parallel_bus)](https://crates.io/crates/lcd_parallel_bus)
 
-## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [27. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Tools
 
@@ -329,32 +381,33 @@
     *   Example use: [Trial's CI (⭐1.1k)](https://github.com/Shirakumo/trial/blob/master/.github/workflows/examples.yml)
 *   [docker-lisp-gamedev](https://gitlab.com/lockie/docker-lisp-gamedev) - A Docker image containing tools necessary for Common Lisp game development and deployment. Comes in Linux and Windows variety. Thoroughly tested via CI.
 
-## [27. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [28. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### TypeScript
 
 *   [Devopness (⭐116)](https://github.com/devopness/devopness) *(label: good first issue)* <br> Devopness aims to drastically simplify the way we manage cloud applications and multi cloud infrastructure in a secure and productive way.
 *   [IterTools TS (⭐55)](https://github.com/Smoren/itertools-ts) *(label: good first issue)* <br> Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
-## [28. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [29. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Video Production
 
 *   [vMix-EmberPlus (⭐3)](https://github.com/mattlamb99/vMix-EmberPlus) - vMix to EmberPlus gateway. Control vMix from any EmberPlus broadcast controller like Lawo's VSM or EVS's Cerebrum.
 
-## [29. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [30. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Generative Model
 
 *   [Cooperative Training of Descriptor and Generator Networks](https://ieeexplore.ieee.org/abstract/document/8519332) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=18202808849093155435)]. This paper studies the cooperative training of two generative models for image modeling and synthesis. Both models are parametrized by convolutional neural networks (ConvNets). The first model is a deep energy-based model, whose energy function is defined by a bottom-up ConvNet, which maps the observed image to the energy. We call it the descriptor network. The second model is a generator network, which is a non-linear version of factor analysis. It is defined by a top-down ConvNet, which maps the latent factors to the observed image. The maximum likelihood learning algorithms of both models involve MCMC sampling such as Langevin dynamics. This work observes that the two learning algorithms can be seamlessly interwoven into a cooperative learning algorithm that can train both models simultaneously. Specifically, within each iteration of the cooperative learning algorithm, the generator model generates initial synthesized examples to initialize a finite-step MCMC that samples and trains the energy-based descriptor model. After that, the generator model learns from how the MCMC changes its synthesized examples. That is, the descriptor model teaches the generator model by MCMC, so that the generator model accumulates the MCMC transitions and reproduces them by direct ancestral sampling.
 *   [Analysis of Langevin Monte Carlo via Convex Optimization](https://www.jmlr.org/papers/v20/18-173.html) - ***Journal of Machine Learning Research***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=5305860199396047317)]. This paper provides new insights on the Unadjusted Langevin Algorithm. The authors show that this method can be formulated as the first order optimization algorithm for an objective functional defined on the Wasserstein space of order $2$. Using this interpretation and techniques borrowed from convex optimization, the authors give a non-asymptotic analysis of this method to sample from log-concave smooth target distribution on $\mathbb{R}^d$. Based on this interpretation, the authors propose two new methods for sampling from a non-smooth target distribution. These new algorithms are natural extensions of the Stochastic Gradient Langevin Dynamics (SGLD) algorithm, which is a popular extension of the Unadjusted Langevin Algorithm for largescale Bayesian inference. Using the optimization perspective, the authors provide non-asymptotic convergence analysis for the newly proposed methods.
+*   [Where do hypotheses come from?](https://www.sciencedirect.com/science/article/pii/S0010028516302766) - ***Cognitive Psychology***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=17480320046655923235)]. \[[Preprint](https://gershmanlab.com/pubs/Dasgupta17.pdf)]. Why are human inferences sometimes remarkably close to the Bayesian ideal and other times systematically biased? In particular, why do humans make near-rational inferences in some natural domains where the candidate hypotheses are explicitly available, whereas tasks in similar domains requiring the self-generation of hypotheses produce systematic deviations from rational inference. This work proposes that these deviations arise from algorithmic processes approximating Bayes’ rule. Specifically in our account, hypotheses are generated stochastically from a sampling process, such that the sampled hypotheses form a Monte Carlo approximation of the posterior.
 
 ### Science Logology / AI Assisted Research
 
 *   [Virtual and augmented reality for biomedical applications](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791\(21\)00197-X) - ***Cell Reports Medicine***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=14732259085495422063)]. 3D visualization technologies such as virtual reality (VR), augmented reality (AR), and mixed reality (MR) have gained popularity in the recent decade. Digital extended reality (XR) technologies have been adopted in various domains ranging from entertainment to education because of their accessibility and affordability. XR modalities create an immersive experience, enabling 3D visualization of the content without a conventional 2D display constraint. This paper provides a perspective on XR in current biomedical applications and demonstrate case studies using cell biology concepts, multiplexed proteomics images, surgical data for heart operations, and cardiac 3D models. Emerging challenges associated with XR technologies in the context of adverse health effects and a cost comparison of distinct platforms are discussed. The presented XR platforms will be useful for biomedical education, medical training, surgical guidance, and molecular data visualization to enhance trainees’ and students’ learning, medical operation accuracy, and the comprehensibility of complex biological systems.
 *   [An augmented reality microscope with real-time artificial intelligence integration for cancer diagnosis](https://www.nature.com/articles/s41591-019-0539-7) - ***Nature Medicine***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=3280260879383275625)]. The microscopic assessment of tissue samples is instrumental for the diagnosis and staging of cancer, and thus guides therapy. However, these assessments demonstrate considerable variability and many regions of the world lack access to trained pathologists. Though artificial intelligence (AI) promises to improve the access and quality of healthcare, the costs of image digitization in pathology and difficulties in deploying AI solutions remain as barriers to real-world use. This work proposes a cost-effective solution: the augmented reality microscope (ARM). The ARM overlays AI-based information onto the current view of the sample in real time, enabling seamless integration of AI into routine workflows.
 
-## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Dependency Managers
 
@@ -428,13 +481,13 @@
 
 *   [ZamzamKit (⭐270)](https://github.com/basememara/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
-## [31. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [32. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Programming
 
 *   [Leiter (⭐3)](https://github.com/kad1kad/leiter) - TypeScript-based library designed to generate musical scales.
 
-## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
@@ -452,7 +505,7 @@
 
 *   [vyfor/cord.nvim (⭐251)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
 
-## [33. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [34. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Caches
 
@@ -462,13 +515,13 @@
 
 *   [catboost-cgo (⭐13)](https://github.com/mirecl/catboost-cgo) - Fast, scalable, high performance Gradient Boosting on Decision Trees library. Golang using Cgo for blazing fast inference CatBoost Model.
 
-## [34. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [35. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Ancient Wonders](https://www.drivethrurpg.com/en/product/505365/ancient-wonders?affiliate_id=844973) - Explore the galaxy with new mechanics and generators for solar systems, planets, alien megastructure and more
 
-## [35. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [36. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
@@ -481,6 +534,11 @@
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [solidgate (⭐1)](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
+
+### JSON Forms / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [jsonforms-angular-seed (⭐37)](https://github.com/eclipsesource/jsonforms-angular-seed) - Angular-based JSON Forms seed app.
+*   [ng-formworks (⭐2)](https://github.com/zahmo/ng-formworks) - An Angular [JSON Schema](https://json-schema.org/) Form builder, similar to, and mostly API compatible with, [Angular Schema Form](http://schemaform.io/examples/bootstrap-example.html), [React JSON Schema Form](https://rjsf-team.github.io/react-jsonschema-form/), and [JSON Form](https://ulion.github.io/jsonform/playground/).
 
 ### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
