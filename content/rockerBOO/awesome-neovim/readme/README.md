@@ -503,6 +503,7 @@ Collections of awesome neovim plugins.
 *   [kiran94/s3edit.nvim (⭐45)](https://github.com/kiran94/s3edit.nvim) - Edit files from Amazon S3 directly from Neovim.
 *   [stevearc/oil.nvim (⭐4.6k)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 *   [kelly-lin/ranger.nvim (⭐159)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐16k)](https://github.com/ranger/ranger) integration for Neovim.
+*   [mikavilpas/yazi.nvim (⭐761)](https://github.com/mikavilpas/yazi.nvim) - Integration with the Yazi terminal file manager.
 *   [simonmclean/triptych.nvim (⭐215)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
 *   [echasnovski/mini.nvim#mini.files (⭐6.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md) - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
 *   [prichrd/netrw.nvim (⭐230)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
@@ -982,6 +983,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [MisanthropicBit/decipher.nvim (⭐38)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
 *   [philosofonusus/ecolog.nvim (⭐114)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
 *   [theKnightsOfRohan/hexer.nvim (⭐1)](https://github.com/theKnightsOfRohan/hexer.nvim) - Easily convert between binary representations without a conversion table.
+*   [rachartier/tiny-glimmer.nvim (⭐137)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
 
 ### CSV Files
 
@@ -1231,6 +1233,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [isak102/telescope-git-file-history.nvim (⭐77)](https://github.com/isak102/telescope-git-file-history.nvim) - Open/preview contents of the current file at a specific commit, without using git checkout.
 *   [moyiz/git-dev.nvim (⭐91)](https://github.com/moyiz/git-dev.nvim) - Open remote Git repositories in the comfort of Neovim.
 *   [SuperBo/fugit2.nvim (⭐428)](https://github.com/SuperBo/fugit2.nvim) - Git GUI powered by [libgit2](https://libgit2.org).
+*   [Yu-Leo/blame-column.nvim (⭐6)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
 
 ### GitHub
 

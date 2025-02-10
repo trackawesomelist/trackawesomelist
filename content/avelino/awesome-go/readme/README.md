@@ -2381,6 +2381,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 *Libraries and tools for stream processing and reactive programming.*
 
+*   [go-etl (⭐130)](https://github.com/Breeze0806/go-etl) - A lightweight toolkit for data source extraction, transformation, and loading (ETL).
 *   [go-streams (⭐2k)](https://github.com/reugn/go-streams) - Go stream processing library.
 *   [goio (⭐83)](https://github.com/primetalk/goio) - An implementation of IO, Stream, Fiber for Golang, inspired by awesome Scala libraries cats and fs2.
 *   [machine (⭐160)](https://github.com/whitaker-io/machine) - Go library for writing and generating stream workers with built in metrics and traceability.
@@ -2661,7 +2662,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [go-atlassian (⭐140)](https://github.com/ctreminiom/go-atlassian) - Go library for accessing the [Atlassian Cloud](https://www.atlassian.com/enterprise/cloud) services (Jira, Jira Service Management, Jira Agile, Confluence, Admin Cloud)
 *   [go-aws-news (⭐17)](https://github.com/circa10a/go-aws-news) - Go application and library to fetch what's new from AWS.
 *   [go-chronos (⭐8)](https://github.com/axelspringer/go-chronos) - Go library for interacting with the [Chronos](https://mesos.github.io/chronos/) Job Scheduler
-*   [go-gerrit (⭐98)](https://github.com/andygrunwald/go-gerrit) - Go cient library for [Gerrit Code Review](https://www.gerritcodereview.com/).
+*   [go-gerrit (⭐98)](https://github.com/andygrunwald/go-gerrit) - Go client library for [Gerrit Code Review](https://www.gerritcodereview.com/).
 *   [go-hacknews (⭐17)](https://github.com/PaulRosset/go-hacknews) - Tiny Go client for HackerNews API.
 *   [go-here (⭐13)](https://github.com/abdullahselek/go-here) - Go client library around the HERE location based APIs.
 *   [go-hibp (⭐8)](https://github.com/wneessen/go-hibp) - Simple Go binding to the "Have I Been Pwned" APIs.
@@ -3684,7 +3685,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Learn Go Programming](https://blog.learngoprogramming.com) - Learn Go concepts with illustrations.
 *   [Made with Golang](https://madewithgolang.com/?ref=awesome-go)
 *   [pkg.go.dev](https://pkg.go.dev/) - Documentation for open source Go packages.
-*   [r/Golang](https://www.reddit.com/r/golang) - News about Go.
 *   [studygolang](https://studygolang.com) - The community of studygolang in China.
 *   [Trending Go repositories on GitHub today](https://github.com/trending?l=go) - Good place to find new Go libraries.
 *   [TutorialEdge - Golang](https://tutorialedge.net/course/golang/)

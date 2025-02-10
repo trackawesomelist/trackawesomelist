@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
+
+### Stream Processing
+
+*   [go-etl (⭐130)](https://github.com/Breeze0806/go-etl) - A lightweight toolkit for data source extraction, transformation, and loading (ETL).
+
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
 ### Caches
@@ -289,7 +295,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Third-party APIs
 
-*   [go-gerrit (⭐98)](https://github.com/andygrunwald/go-gerrit) - Go cient library for [Gerrit Code Review](https://www.gerritcodereview.com/).
+*   [go-gerrit (⭐98)](https://github.com/andygrunwald/go-gerrit) - Go client library for [Gerrit Code Review](https://www.gerritcodereview.com/).
 
 ### Web Frameworks
 
@@ -5033,7 +5039,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [json2go](https://m-zajac.github.io/json2go) - Advanced JSON to Go struct conversion - online tool.
 *   [Learn Go Programming](https://blog.learngoprogramming.com) - Learn Go concepts with illustrations.
 *   [Made with Golang](https://madewithgolang.com/?ref=awesome-go)
-*   [r/Golang](https://www.reddit.com/r/golang) - News about Go.
 *   [studygolang](https://studygolang.com) - The community of studygolang in China.
 *   [Trending Go repositories on GitHub today](https://github.com/trending?l=go) - Good place to find new Go libraries.
 *   [TutorialEdge - Golang](https://tutorialedge.net/course/golang/)

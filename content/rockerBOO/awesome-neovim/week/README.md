@@ -6,6 +6,20 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
+
+### File Explorer / Diagnostics
+
+*   [mikavilpas/yazi.nvim (⭐761)](https://github.com/mikavilpas/yazi.nvim) - Integration with the Yazi terminal file manager.
+
+### Utility / Diagnostics
+
+*   [rachartier/tiny-glimmer.nvim (⭐137)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
+
+### Git / Diagnostics
+
+*   [Yu-Leo/blame-column.nvim (⭐6)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
+
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
 ### Markdown and LaTeX / Diagnostics

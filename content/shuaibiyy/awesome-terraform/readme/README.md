@@ -299,16 +299,17 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ### Community providers
 
 *   [terraform-provider-docker (⭐654)](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider.
-*   [terraform-provider-terracurl (⭐134)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
-*   [terraform-provider-value (⭐15)](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
-*   [terraform-provider-uname (⭐4)](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
+*   [terraform-provider-minio (⭐259)](https://github.com/aminueza/terraform-provider-minio) - Terraform provider for managing MinIO S3 buckets and IAM Users.
 *   [terraform-provider-proxmox (⭐2.3k)](https://github.com/Telmate/terraform-provider-proxmox) - Terraform Proxmox provider.
+*   [terraform-provider-terracurl (⭐134)](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
+*   [terraform-provider-uname (⭐4)](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
+*   [terraform-provider-value (⭐15)](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
 
 ## Testing
 
-*   [clarity (⭐140)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
-*   [kitchen-terraform (⭐1.1k)](https://github.com/newcontext-oss/kitchen-terraform) - Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls.
-*   [rspec-terraform (⭐92)](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules.
+*   [clarity (⭐140)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing. :skull:
+*   [kitchen-terraform (⭐1.1k)](https://github.com/newcontext-oss/kitchen-terraform) - Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls. :skull:
+*   [rspec-terraform (⭐92)](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules. :skull:
 *   [terraform\_validate (⭐257)](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform. :skull:
 *   [terraform-compliance (⭐1.4k)](https://github.com/terraform-compliance/cli) - BDD Testing for Terraform Files.
 *   [terratest (⭐7.6k)](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
@@ -340,9 +341,12 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [fuzzy-terraform-rm (⭐38)](https://github.com/paololazzari/fuzzy-terraform-rm) - A fuzzy-finder command-line tool for removing resources from terraform state.
 *   [gaia (⭐1k)](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻. :skull:
 *   [hatchet (⭐156)](https://github.com/hatchet-dev/hatchet-v1-archived) - An all-in-one Terraform management tool. :skull:
+*   [hcl2json (⭐396)](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json.
 *   [hcldump (⭐8)](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
+*   [hcledit (⭐53)](https://github.com/mercari/hcledit) - Go package to edit HCL configuration
 *   [hcledit (⭐477)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 *   [hclgrep (⭐93)](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
+*   [hq (⭐3)](https://github.com/miller-time/hq) - command-line HCL processor
 *   [iam-policy-json-to-terraform (⭐783)](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws\_iam\_policy\_document
 *   [Infracost (⭐11k)](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
 *   [inframap (⭐1.8k)](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
@@ -433,6 +437,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [tfgen (⭐83)](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY.
 *   [tfgpt (⭐71)](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
 *   [tfjson (⭐180)](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
+*   [tfk8s (⭐997)](https://github.com/jrhouston/tfk8s) - A tool for converting Kubernetes YAML manifests to Terraform HCL
 *   [tflint (⭐5.1k)](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
 *   [tfmake (⭐23)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
 *   [tfmask (⭐204)](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
@@ -456,11 +461,13 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [tfvaultenv (⭐47)](https://github.com/oulman/tfvaultenv) - tfvaultenv reads secrets from HashiCorp Vault and outputs environment variables for various Terraform providers with those secrets.
 *   [tfwrapper (⭐8)](https://github.com/manheim/tfwrapper) - Rubygem providing rake tasks for running Hashicorp Terraform sanely.
 *   [tgf (⭐104)](https://github.com/coveooss/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
+*   [threatcl (⭐413)](https://github.com/threatcl/threatcl) - Documenting your Threat Models with HCL
 *   [tofuenv (⭐177)](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
 *   [tpm (⭐79)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 *   [travelgrunt (⭐69)](https://github.com/ivanilves/travelgrunt) - cd inside \[mono]repos without fatigue!
 *   [validIaC (⭐227)](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
 *   [xterrafile (⭐66)](https://github.com/devopsmakers/xterrafile) Systematically manage external modules from the module registry, git, or local directories for use in Terraform (written in Go). :skull:
+*   [yj (⭐985)](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 *   [yor (⭐853)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ### CI
@@ -474,10 +481,13 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Libraries
 
+*   [hcl-rs (⭐139)](https://github.com/martinohmann/hcl-rs) - HCL parsing and encoding libraries for rust with serde support
+*   [hcl4j (⭐69)](https://github.com/bertramdev/hcl4j) - HCL parser in Java
 *   [nu\_plugin\_hcl (⭐7)](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell (⭐34k)](https://github.com/nushell/nushell)
 *   [pyhcl (⭐337)](https://github.com/virtuald/pyhcl) - HCL parser in Python
 *   [python-hcl2 (⭐263)](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 *   [rhcl (⭐15)](https://github.com/winebarrel/rhcl) - Pure Ruby HCL parser :skull:
+*   [tree-sitter-hcl (⭐103)](https://github.com/tree-sitter-grammars/tree-sitter-hcl) - HCL grammar for tree-sitter
 
 ## Boilerplates
 
@@ -541,8 +551,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 *   [Intellij](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
 *   [Terraform-ls (⭐1k)](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 *   [Terraform-lsp (⭐585)](https://github.com/juliosueiras/terraform-lsp) (Language Server Protocol for Terraform)
-*   [Vim-Terraform (⭐1.1k)](https://github.com/hashivim/vim-terraform)
+*   [vim-hcl (⭐136)](https://github.com/jvirtanen/vim-hcl) - Syntax highlighting for HCL
 *   [Vim-Terraform-Completion (⭐338)](https://github.com/juliosueiras/vim-terraform-completion)
+*   [Vim-Terraform (⭐1.1k)](https://github.com/hashivim/vim-terraform)
 *   [VS Code](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
 
 ## License

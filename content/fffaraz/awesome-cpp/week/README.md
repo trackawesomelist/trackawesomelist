@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ [Daily](/content/fffaraz/awesome-cpp/README.md) / Weekly / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
+
+### Online Compiler
+
+*   [OneCompiler](https://onecompiler.com/) - An online compiler supporting over 70 programming languages and database systems.
+
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
 ### Data visualization

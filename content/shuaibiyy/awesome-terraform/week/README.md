@@ -8,9 +8,29 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
+### Providers / Community providers
+
+*   [terraform-provider-minio (⭐259)](https://github.com/aminueza/terraform-provider-minio) - Terraform provider for managing MinIO S3 buckets and IAM Users.
+
 ### Tools / Community providers
 
+*   [hcl2json (⭐396)](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json.
+*   [hcledit (⭐53)](https://github.com/mercari/hcledit) - Go package to edit HCL configuration
+*   [hq (⭐3)](https://github.com/miller-time/hq) - command-line HCL processor
 *   [pipeform (⭐271)](https://github.com/magodo/pipeform) - Terraform runtime TUI
+*   [tfk8s (⭐997)](https://github.com/jrhouston/tfk8s) - A tool for converting Kubernetes YAML manifests to Terraform HCL
+*   [threatcl (⭐413)](https://github.com/threatcl/threatcl) - Documenting your Threat Models with HCL
+*   [yj (⭐985)](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
+
+### Libraries / IDE
+
+*   [hcl-rs (⭐139)](https://github.com/martinohmann/hcl-rs) - HCL parsing and encoding libraries for rust with serde support
+*   [hcl4j (⭐69)](https://github.com/bertramdev/hcl4j) - HCL parser in Java
+*   [tree-sitter-hcl (⭐103)](https://github.com/tree-sitter-grammars/tree-sitter-hcl) - HCL grammar for tree-sitter
+
+### Editor Plugins / IDE
+
+*   [vim-hcl (⭐136)](https://github.com/jvirtanen/vim-hcl) - Syntax highlighting for HCL
 
 ## [Jan 13 - Jan 19, 2025](/content/2025/2/README.md)
 
@@ -868,7 +888,7 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ### Testing / Community providers
 
-*   [clarity (⭐140)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
+*   [clarity (⭐140)](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing. :skull:
 
 ### Tools / Community providers
 
@@ -1041,8 +1061,8 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 ### Testing / Community providers
 
-*   [kitchen-terraform (⭐1.1k)](https://github.com/newcontext-oss/kitchen-terraform) - Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls.
-*   [rspec-terraform (⭐92)](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules.
+*   [kitchen-terraform (⭐1.1k)](https://github.com/newcontext-oss/kitchen-terraform) - Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls. :skull:
+*   [rspec-terraform (⭐92)](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules. :skull:
 *   [terraform\_validate (⭐257)](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform. :skull:
 *   [terratest (⭐7.6k)](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 
@@ -1105,5 +1125,5 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 ### Editor Plugins / IDE
 
 *   [Terraform-lsp (⭐585)](https://github.com/juliosueiras/terraform-lsp) (Language Server Protocol for Terraform)
-*   [Vim-Terraform (⭐1.1k)](https://github.com/hashivim/vim-terraform)
 *   [Vim-Terraform-Completion (⭐338)](https://github.com/juliosueiras/vim-terraform-completion)
+*   [Vim-Terraform (⭐1.1k)](https://github.com/hashivim/vim-terraform)
