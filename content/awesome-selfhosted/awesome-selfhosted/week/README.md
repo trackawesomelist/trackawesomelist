@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
+
+### Software / Status / Uptime pages
+
+*   [Uptime Kuma](https://uptime.kuma.pet/) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet), [Source Code (⭐64k)](https://github.com/louislam/uptime-kuma)) `MIT` `Docker/Nodejs`
+
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
 ### Software / Analytics
@@ -2225,10 +2231,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [bin (⭐480)](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
 *   [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code (⭐553)](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Django`
 *   [Wastebin (⭐392)](https://github.com/matze/wastebin) - Lightweight, minimal and fast pastebin with an SQLite backend. ([Demo](https://bin.bloerg.net)) `MIT` `Rust/Docker`
-
-### Software / Status / Uptime pages
-
-*   [Uptime Kuma (⭐64k)](https://github.com/louislam/uptime-kuma) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet)) `MIT` `Docker/Nodejs`
 
 ### Software / URL Shorteners
 

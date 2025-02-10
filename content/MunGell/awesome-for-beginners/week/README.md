@@ -6,6 +6,12 @@ A list of awesome beginners-friendly projects.
 
 [ [Daily](/content/MunGell/awesome-for-beginners/README.md) / Weekly / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 
+## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
+
+### JavaScript
+
+*   [ImprovedTube (⭐3.6k)](https://github.com/code-charity/youtube) *(label: good first issue)* <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
+
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
 ### TypeScript

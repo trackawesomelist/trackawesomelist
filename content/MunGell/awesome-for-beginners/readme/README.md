@@ -32,7 +32,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 | ---- | ------------------------------------------------------------------------ |
 | Misc | [.NET](#net)                                                             |
 | A    | [Angular](#angular), [Ansible](#ansible)                                 |
-| C    | [C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure)                    |
+| C    | [C](#c), [C#](#c-1), [C++](#c-2), [Clojure](#clojure), [CSS](#css)       |
 | D    | [Dart](#dart)                                                            |
 | E    | [Elixir](#elixir), [Elm](#elm)                                           |
 | G    | [Go](#go)                                                                |
@@ -87,6 +87,10 @@ If you would like to be guided through how to contribute to a repository on GitH
 ## Clojure
 
 *   [Metabase (⭐40k)](https://github.com/metabase/metabase) *(label: good first issue)* <br> Open source business intelligence and analytics platform
+
+## CSS
+
+*   [ImprovedTube (⭐3.6k)](https://github.com/code-charity/youtube) *(label: good first issue)* <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 
 ## Dart
 
@@ -175,6 +179,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 *   [Hoppscotch (⭐67k)](https://github.com/hoppscotch/hoppscotch) *(label: good first issue)* <br> A free, fast and beautiful API request builder.
 *   [HueHive (⭐63)](https://github.com/croma-app/croma) *(label: good first issue)* <br> A open source react native app iOS and android for color palette management
 *   [iD (⭐3.4k)](https://github.com/openstreetmap/iD) *(label: good first issue)* <br> The easy-to-use OpenStreetMap editor in JavaScript.
+*   [ImprovedTube (⭐3.6k)](https://github.com/code-charity/youtube) *(label: good first issue)* <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 *   [Jasmine (⭐16k)](https://github.com/jasmine/jasmine) *(label: good first issue)* <br> Simple JavaScript testing framework for browsers and node.js.
 *   [Jest (⭐44k)](https://github.com/facebook/jest) *(label: good first issue)* <br> A complete and easy to set up JavaScript testing solution.
 *   [json-editor (⭐4.6k)](https://github.com/json-editor/json-editor) *(label: good first issue)* <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).

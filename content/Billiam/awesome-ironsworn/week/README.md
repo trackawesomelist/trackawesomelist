@@ -6,6 +6,12 @@ An awesome list of awesome Ironsworn projects
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / Weekly / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
 
+## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Time Traveler](https://lemunde.itch.io/ironsworn-starforged-time-traveler) - Tools for working with time travel for Starforged
+
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
 ### Hacks and homebrew / Ironsworn
