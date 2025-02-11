@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Feb 11, 2025](/content/2025/02/11/README.md)
+
+### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [primitives (⭐147)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+
 ## [Feb 10, 2025](/content/2025/02/10/README.md)
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -2065,7 +2071,7 @@
 
 ### Certification / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
+*   [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. **[Free Weekend Feb 22-23](https://certificates.dev/angular/free-weekend)** UNLIMITED ACCESS TO ANGULAR MID-LEVEL CERTIFICATION TRAINING. Includes all theory, coding challenges, quizzes, and even a mock exam!
 *   [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
 *   [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 *   [Edureka](https://www.edureka.co/angular-training) - Angular Certification Course Online.

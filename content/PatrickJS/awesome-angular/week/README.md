@@ -16,6 +16,10 @@
 
 *   [ngx-scroll-top (⭐2)](https://github.com/ProAngular/ngx-scroll-top) - Configurable, lightweight back to top button for Angular projects.
 
+### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [primitives (⭐147)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-gist (⭐2)](https://github.com/ProAngular/ngx-gist) - An Angular Material and highlightjs styled display box for GitHub gist and local code snippets.
@@ -1696,7 +1700,7 @@
 
 ### Certification / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
+*   [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. **[Free Weekend Feb 22-23](https://certificates.dev/angular/free-weekend)** UNLIMITED ACCESS TO ANGULAR MID-LEVEL CERTIFICATION TRAINING. Includes all theory, coding challenges, quizzes, and even a mock exam!
 *   [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
 *   [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 *   [Edureka](https://www.edureka.co/angular-training) - Angular Certification Course Online.

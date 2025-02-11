@@ -331,7 +331,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ##### Certification
 
-*   [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
+*   [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. **[Free Weekend Feb 22-23](https://certificates.dev/angular/free-weekend)** UNLIMITED ACCESS TO ANGULAR MID-LEVEL CERTIFICATION TRAINING. Includes all theory, coding challenges, quizzes, and even a mock exam!
 *   [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
 *   [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 *   [Edureka](https://www.edureka.co/angular-training) - Angular Certification Course Online.
@@ -1703,6 +1703,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-nighthawk (⭐7)](https://github.com/evenuxjs/ngx-nighthawk) - It offers a comprehensive set of components that are highly configurable and user-friendly. This package integrates the best open-source tools, such as Bootstrip — a streamlined version of Bootstrap that focuses solely on Grid and Utility features.
 *   [tableau-ui-angular (⭐1)](https://github.com/serionist/tableau-ui-angular) -  A third-party component library that brings Tableau-style components to Angular.
 *   [ng-verse (⭐18)](https://github.com/lukonik/ng-verse) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://www.ng-verse.dev/) for more.
+*   [primitives (⭐147)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 
 ##### Material Based
 
