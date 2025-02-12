@@ -12,6 +12,10 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 *   [A Bayesian Analysis of Some Non-parametric Problems](https://www.jstor.org/stable/2958008?seq=1) - ***The Annals of Statistics***, 1973. \[[All Versions](https://scholar.google.com/scholar?cluster=3969163427460060902)]. \[[Preprint](https://people.stat.sc.edu/hansont/stat740/Ferguson1973.pdf)]. A classic review on non-parametric problems.
 
+### Problem Solving / Intrinsic Motivation
+
+*   [JARVIS-1: Open-World Multi-Task Agents With Memory-Augmented Multimodal Language Models](https://ieeexplore.ieee.org/abstract/document/10778628) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***. \[[All Versions](https://scholar.google.com/scholar?cluster=12845806504666245406)]. Achieving human-like planning and control with multimodal observations in an open world is a key milestone for more functional generalist agents. Existing approaches can handle certain long-horizon tasks in an open world. However, they still struggle when the number of open-world tasks could potentially be infinite and lack the capability to progressively enhance task completion as game time progresses. This work introduces JARVIS-1, an open-world agent that can perceive multimodal input (visual observations and human instructions), generate sophisticated plans, and perform embodied control, all within the popular yet challenging open-world Minecraft universe. Specifically, the authors develop JARVIS-1 on top of pre-trained multimodal language models, which map visual observations and textual instructions to plans. The plans will be ultimately dispatched to the goal-conditioned controllers. JARVIS-1 is outfitted with a multimodal memory, which facilitates planning using both pre-trained knowledge and its actual game survival experiences. JARVIS-1 is the existing most general agent in Minecraft, capable of completing over 200 different tasks using control and observation space similar to humans.
+
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
 ### Bayesian Modeling / Generative Model

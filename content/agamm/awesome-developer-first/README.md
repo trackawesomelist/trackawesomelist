@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Feb 12, 2025](/content/2025/02/12/README.md)
+
+### IDE
+
+*   [OneCompiler](https://onecompiler.com/) - A versatile, AI-powered Online IDE supporting over 70+ programming languages, designed for developers to write, compile, and execute code seamlessly.
+
 ## [Jan 31, 2025](/content/2025/01/31/README.md)
 
 ### Feature Flags

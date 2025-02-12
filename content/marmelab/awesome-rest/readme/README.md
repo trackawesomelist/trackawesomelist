@@ -60,11 +60,11 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 *   [Adidas REST API Guidelines (⭐383)](https://github.com/adidas/api-guidelines/blob/master/rest-api-guidelines/rest.md) - Adidas REST API Guidelines define standards and guidelines for building REST APIs at adidas.
 *   [Atlassian REST API design guidelines version 1](https://developer.atlassian.com/server/framework/atlassian-sdk/atlassian-rest-api-design-guidelines-version-1/) - This document provides guidelines to Atlassian developers who are designing REST APIs for Atlassian applications.
-*   [Cisco REST API Guide (⭐111)](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco.
+*   [Cisco REST API Guide (⭐113)](https://github.com/CiscoDevNet/api-design-guide) - Guidelines for designing REST APIs at Cisco.
 *   [Google Cloud API design guide](https://cloud.google.com/apis/design/) - Guidelines Google follows when designing Cloud APIs and other Google APIs (REST APIs and gRPC APIs).
-*   [Haufe API Style Guide (⭐239)](https://github.com/Haufe-Lexware/api-style-guide) - Guidelines created by Haufe-Lexware CTO team.
+*   [Haufe API Style Guide (⭐240)](https://github.com/Haufe-Lexware/api-style-guide) - Guidelines created by Haufe-Lexware CTO team.
 *   [Microsoft REST API Guidelines (⭐23k)](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) - The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface.
-*   [Restful API Guidelines by Zalando (⭐2.7k)](https://github.com/zalando/restful-api-guidelines) - Developing Restful APIs: A Comprehensive Set of Guidelines.
+*   [Restful API Guidelines by Zalando (⭐2.8k)](https://github.com/zalando/restful-api-guidelines) - Developing Restful APIs: A Comprehensive Set of Guidelines.
 
 ## Standards
 
@@ -96,7 +96,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 ### Node.js Clients
 
 *   [restler (⭐2k)](https://github.com/danwrong/restler) - REST client library for node.js.
-*   [unirest for Node.js (⭐954)](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
+*   [unirest for Node.js (⭐955)](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
 
 ### Ruby Clients
 
@@ -109,7 +109,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Go Clients
 
-*   [gopencils (⭐452)](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
+*   [gopencils (⭐453)](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
 *   [resty (⭐10k)](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
 ### .NET Clients
@@ -118,9 +118,9 @@ A collaborative list of great resources about RESTful API architecture, developm
 *   [Refit (⭐8.8k)](https://github.com/reactiveui/refit) - The automatic type-safe REST library for Xamarin and .NET
 *   [Flurl](https://flurl.dev) - Fluent, portable, testable REST/HTTP client library
 *   [RestEase (⭐1.1k)](https://github.com/canton7/RestEase) - Easy-to-use typesafe REST API client library, which is simple and customisable. Heavily inspired by Refit
-*   [Tiny.RestClient (⭐210)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
+*   [Tiny.RestClient (⭐209)](https://github.com/jgiacomini/Tiny.RestClient) - Simpliest Fluent REST client for .NET.
 *   [RestLess (⭐111)](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
-*   [Apizr (⭐146)](https://github.com/Respawnsive/Apizr) - Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
+*   [Apizr (⭐147)](https://github.com/Respawnsive/Apizr) - Refit-based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
 
 ### Generators
 
@@ -130,7 +130,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Directly On Top Of A RMDB
 
-*   [postgrest (⭐24k)](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database.
+*   [postgrest (⭐25k)](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database.
 *   [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) - Simple REST-like / CRUD server for any MySQL database.
 *   [pREST (⭐4.3k)](https://github.com/prest/prest) - A fully RESTful API from any existing PostgreSQL database written in Go.
 
@@ -164,7 +164,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 *   [FOSRestBundle (⭐2.8k)](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
 *   [stanlemon/rest-bundle (⭐122)](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
 *   [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
-*   [BazingaHateoasBundle (⭐296)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
+*   [BazingaHateoasBundle (⭐295)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
 *   [Symfony REST Edition (⭐632)](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
 *   [NgAdminGeneratorBundle (⭐75)](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
 *   [DunglasApiBundle (⭐2.5k)](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
@@ -173,7 +173,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### PowerShell
 
-*   [Pode (⭐893)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
+*   [Pode (⭐899)](https://github.com/Badgerati/Pode) - Pode is an cross-platform, open-source, community-supported web server and REST API framework for PowerShell developers
 
 ### Python
 
@@ -188,7 +188,8 @@ A collaborative list of great resources about RESTful API architecture, developm
 *   [Flask-Potion (⭐489)](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 *   [apistar (⭐5.6k)](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
 *   [Falcon (⭐9.6k)](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
-*   [FastAPI (⭐80k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+*   [FastAPI (⭐81k)](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. With automatic API documentation using Swagger UI and ReDoc, based on OpenAPI and JSON Schema.
+*   [Zato](https://zato.io) - Platform for building server-side integrations, automations and API backends in Python.
 
 ### Ruby
 
@@ -225,14 +226,14 @@ A collaborative list of great resources about RESTful API architecture, developm
 
 ### Querying
 
-*   [httpie (⭐34k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
-*   [resty (⭐2.7k)](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
+*   [httpie (⭐35k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
+*   [resty (⭐2.6k)](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 *   [jq (⭐31k)](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 *   [HttpMaster](https://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
 *   [Http-console (⭐1.4k)](https://github.com/cloudhead/http-console) - Command line interface for HTTP that let you *speak HTTP like a local*
 *   [HTTP Prompt (⭐9k)](https://github.com/eliangcs/http-prompt) - HTTP Prompt is an interactive command-line HTTP client featuring autocomplete and syntax highlighting, built on HTTPie and prompt\_toolkit.
 *   [rest-assured (⭐6.9k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
-*   [Insomnia (⭐35k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
+*   [Insomnia (⭐36k)](https://github.com/getinsomnia/insomnia) - Cross-platform HTTP and GraphQL Client
 *   [ExtendsClass](https://extendsclass.com/rest-client-online.html) - Make HTTP requests with a simple web-based HTTP client.
 *   [TestMace](https://testmace.com) - Cross-platform simple but powerful IDE for API automation testing.
 *   [Milkman (⭐1.2k)](https://github.com/warmuuh/milkman) - Extensible cross-platform request/response workbench, not only for http calls.
@@ -245,10 +246,10 @@ A collaborative list of great resources about RESTful API architecture, developm
 *   [RequestBin](https://requestbin.com/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
 *   [httpbin](https://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
 *   [FakeRest (⭐443)](https://github.com/marmelab/FakeRest) - Redirect fetch() calls to a client-side fake REST API.
-*   [json-server (⭐73k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
+*   [json-server (⭐74k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 *   [Mocky.io](https://www.mocky.io/) - Free online service to create fake HTTP responses.
 *   [MockServer](https://www.mock-server.com/) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-*   [Request Baskets (⭐362)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐367)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 *   [DuckRails (⭐1.7k)](https://github.com/iridakos/duckrails) - Mock quickly & dynamically API endpoints.
 *   [Mockoon](https://mockoon.com) - Easily create mock APIs locally. No remote deployment, no account required, open source.
 *   [Mockintosh](https://mockintosh.io/) - A mock server generator that's capable to generate RESTful APIs and communicate with the message queues to mimick asynchronous tasks.
@@ -260,7 +261,7 @@ A collaborative list of great resources about RESTful API architecture, developm
 ### Public REST APIs To Use In Tests
 
 *   [Deck of Cards API](https://deckofcardsapi.com) - Open API for simulating a deck of cards.
-*   [Public APIS (⭐325k)](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
+*   [Public APIS (⭐327k)](https://github.com/public-apis/public-apis) - Explore The Largest API Directory In The Galaxy.
 *   [Marvel Comics API](https://developer.marvel.com/) - Query characters, stories, events about Marvel superheroes.
 *   [JSON Placeholder](https://jsonplaceholder.typicode.com/) - Free online REST service that you can use whenever you need some fake data.
 *   [APIs.guru](https://APIs.guru) - Wikipedia for Web APIs, each API has OpenAPI/Swagger description.
@@ -279,16 +280,16 @@ A collaborative list of great resources about RESTful API architecture, developm
 ## API Gateway
 
 *   [Kong (⭐40k)](https://github.com/Kong/kong) - Scalable, distributed, and plugin oriented API gateway backed by Nginx.
-*   [Tyk API Gateway (⭐9.8k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
+*   [Tyk API Gateway (⭐9.9k)](https://github.com/TykTechnologies/tyk) - Lightweight API gateway with analytics logging, written in Go.
 *   [API Umbrella (⭐2k)](https://github.com/NREL/api-umbrella) - API management platform for exposing web services, with web interface and analytics, written in Lua.
 *   [WSO2 API Management (⭐873)](https://github.com/wso2/product-apim) - API management tool with lightweight gateway and API lifecycle management, written in Java.
 *   [Express Gateway (⭐3k)](https://github.com/ExpressGateway/express-gateway) - Microservices API Gateway built on top of ExpressJS (Node.js).
-*   [KrakenD (⭐6.4k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐6.5k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 *   [AWS API Gateway](https://aws.amazon.com/api-gateway/) - Fully managed service that helps developers to create, publish, maintain, monitor, and secure APIs at any scale.
 
 ## SaaS Tools
 
-*   [Nango (⭐4.9k)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
+*   [Nango (⭐5k)](https://github.com/NangoHQ/nango) - Native integrations framework to consume REST APIs (open-source).
 *   [Runscope](https://www.runscope.com/) - Automated API Monitoring & Testing.
 *   [Ping-API](https://ping-api.com/) - Automated API Monitoring & Testing.
 *   [Apiary](https://apiary.io/) - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
