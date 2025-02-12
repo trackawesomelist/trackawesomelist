@@ -8,6 +8,10 @@
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
+### Design and Product / Design Tools
+
+*   [Nugget (⭐239)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yo-op/sketchcachecleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Utilities / Productivity
 
 *   [Raycast](https://raycast.com?via=ae02) - Raycast lets you control your tools and apps with shortcuts, download extensions from the store, and use AI models like ChatGPT, DeepSeek, Gemini, Claude, etc. You can also create snippets and use Raycast Notes to maximize your productivity.
@@ -2102,7 +2106,6 @@
 
 ### Developer Tools / Databases
 
-*   [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - Cross-platform database tool for Microsoft data platforms. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
 
 ## [Jun 17 - Jun 23, 2019](/content/2019/24/README.md)

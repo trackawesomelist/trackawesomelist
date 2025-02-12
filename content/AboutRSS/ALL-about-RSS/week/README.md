@@ -8,6 +8,14 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
+### Apps / Outline Processor Markup Language
+
+*   [Reeder Classic](https://reederapp.com/classic/) <sup>[22](https://t.me/s/aboutrss/22), [68](https://t.me/s/aboutrss/68), [294](https://t.me/s/aboutrss/294), [333](https://t.me/s/aboutrss/333), [393](https://t.me/s/aboutrss/393), [587](https://t.me/s/aboutrss/587), [819](https://t.me/s/aboutrss/819), [844](https://t.me/s/aboutrss/844), [845](https://t.me/s/aboutrss/845), [846](https://t.me/s/aboutrss/846), [850](https://t.me/s/aboutrss/850), [890](https://t.me/s/aboutrss/890)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/id1529445840)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://apps.apple.com/app/id1529448980)
+    *   [the new Reeder](https://reederapp.com/) <sup>[1480](https://t.me/s/aboutrss/1480)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/id6475002485)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://apps.apple.com/app/id6475002485)
+*   [Quick RSS](https://wangchujiang.com/quick-rss/) <sup>[1485](https://t.me/s/aboutrss/1485)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/regex-mate/6670696072?platform=iphone)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://apps.apple.com/app/quick-rss/6670696072)
+*   [inRead](https://inread.top/) <sup>[1494](https://t.me/s/aboutrss/1494)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/inread-read-later/id6499581607?platform=iphone)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://apps.apple.com/app/inread-read-later/id6499581607)
+*   [Tapestry](https://usetapestry.com/) <sup>[1424](https://t.me/s/aboutrss/1424), [1498](https://t.me/s/aboutrss/1498)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/tapestry-by-iconfactory/id6448078074)
+
 ### 🔖 Microblogging Platforms / 酷Q Plugin
 
 *   [Social Reader (⭐10)](https://github.com/hyphacoop/reader.distributed.press)
@@ -15,6 +23,46 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
 *   [feed.nvim - Neovim Web Feed Reader (⭐84)](https://github.com/neo451/feed.nvim) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/neo451/feed.nvim)
+
+### RSSHub / Outline Processor Markup Language
+
+*   [Third-party instances within the Follow app](https://app.follow.is/rsshub)
+
+### Miniflux / Outline Processor Markup Language
+
+*   [Reactflux (⭐259)](https://github.com/electh/ReactFlux) <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/electh/ReactFlux)
+*   [Nextflux (⭐184)](https://github.com/electh/nextflux) <sup>[1497](https://t.me/s/aboutrss/1497)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/electh/nextflux)
+
+### universally from / webpage/html
+
+*   [RSSWebAll](https://rssweball.top/) <sup>[1488](https://t.me/s/aboutrss/1488)</sup>
+*   [AI RSS](https://airss.ft07.com) <sup>[1499](https://t.me/s/aboutrss/1499)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://airss.ft07.com)[![Chrome](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Google_Chrome.png)](https://chromewebstore.google.com/detail/airss/hhconojkeohomnfbpbioamldompinckh)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+
+### RSS2Nostr / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [atomstr](https://git.sr.ht/~psic4t/atomstr) <sup>[1491](https://t.me/s/aboutrss/1491)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://git.sr.ht/~psic4t/atomstr)
+*   [nostrss (⭐32)](https://github.com/Asone/nostrss) <sup>[1491](https://t.me/s/aboutrss/1491)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/Asone/nostrss)
+*   [rsslay (⭐42)](https://github.com/piraces/rsslay) <sup>[1491](https://t.me/s/aboutrss/1491)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/piraces/rsslay)
+
+### Landing page for RSS Feed / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [RSS.Beauty](https://rss.beauty) <sup>[1495](https://t.me/s/aboutrss/1495)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/ccbikai/RSS.Beauty)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+### 🏗️ Tools for parsing / decoding RSS / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [RSS Gen](https://doc.rssgen.co/): A comprehensive Rust library for generating, parsing, serializing, and deserializing RSS feeds across various RSS versions <sup>[1483](https://t.me/s/aboutrss/1483)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/sebastienrousseau/rssgen)
+
+### ⏬ Utilize RSS to automate downloading / Broadcatching / Crypto or Blockchain relevant
+
+*   [AniVu (⭐897)](https://github.com/SkyD666/AniVu) <sup>[1484](https://t.me/s/aboutrss/1484)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/SkyD666/AniVu)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://f-droid.org/packages/com.skyd.anivu)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
+
+### Aggregators of Podcasts / Podcast Navigation / Crypto or Blockchain relevant
+
+*   [中文播客数据分析 · 公众版](https://wav.pub/analysis/)
+
+### 💖 Acknowledgement / Crypto or Blockchain relevant
+
+*   [BroadcastChannel (⭐1.5k)](https://github.com/ccbikai/BroadcastChannel): Turn your Telegram Channel to a MicroBlog
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
@@ -28,9 +76,9 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
-### Apps / Outline Processor Markup Language
+### Hosted Readers / Outline Processor Markup Language
 
-*   [Follow](https://follow.is/) [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://app.follow.is/)[![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://follow.is/download)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://follow.is/download)[![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)](https://follow.is/download)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
+*   [Follow](https://follow.is/) <sup>[1478](https://t.me/s/aboutrss/1478), [1489](https://t.me/s/aboutrss/1489)</sup> [![Online](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-web-design-16.png)](https://app.follow.is/)[![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://follow.is/download)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://follow.is/download)[![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)](https://follow.is/download)![AI](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-ai-16.png)
 
 ### Terminal-based / programmable RSS readers / Outline Processor Markup Language
 
@@ -41,7 +89,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### Telegram / Telegram RSS bots
 
-*   [News Keeper](https://t.me/newskeeperbot)
+*   [News Keeper](https://t.me/newskeeperbot) <sup>[1482](https://t.me/s/aboutrss/1482)</sup>
 
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
@@ -196,8 +244,8 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### 🏗️ Tools for parsing / decoding RSS / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
-*   [SyndiKit (⭐61)](https://github.com/brightdigit/SyndiKit): Swift Package for Decoding RSS Feeds [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/brightdigit/SyndiKit)
-*   [SimplePie](https://simplepie.org/): A simple Atom/RSS parsing library for PHP [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/simplepie/simplepie/)
+*   [SyndiKit (⭐61)](https://github.com/brightdigit/SyndiKit): Swift Package for Decoding RSS Feeds <sup>[1426](https://t.me/s/aboutrss/1426)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/brightdigit/SyndiKit)
+*   [SimplePie](https://simplepie.org/): A simple Atom/RSS parsing library for PHP <sup>[1426](https://t.me/s/aboutrss/1426)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/simplepie/simplepie/)
 
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
@@ -685,7 +733,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### Figures / Developers / Crypto or Blockchain relevant
 
-*   Aaron Swartz <sup>[1292](https://t.me/s/aboutrss/1292)</sup>
+*   Aaron Swartz <sup>[1292](https://t.me/s/aboutrss/1292), [1500](https://t.me/s/aboutrss/1500)</sup> ![Video](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-circled-play-16.png)
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
@@ -810,6 +858,8 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
     *   [Reading for RSS](https://apps.apple.com/app/reading-for-rss/id1611939852) <sup>[1219](https://t.me/s/aboutrss/1219)</sup> [![](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/app/reading-for-rss/id1611939852)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
     *   [Inoreader to Miniflux/v2 GitHub Gist](https://gist.github.com/douo/3e37bc863c5af9cbf393fe8724be6bb4) <sup>[1323](https://t.me/s/aboutrss/1323)</sup>
     *   [Reactflux (⭐259)](https://github.com/electh/ReactFlux) <sup>[1425](https://t.me/s/aboutrss/1425)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/electh/ReactFlux)
+    *   [Miniflutt (⭐120)](https://github.com/DocMarty84/miniflutt) <sup>[1486](https://t.me/s/aboutrss/1486)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/DocMarty84/miniflutt)[![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=be.martinelli.miniflutt)
+    *   [Nextflux (⭐184)](https://github.com/electh/nextflux) <sup>[1497](https://t.me/s/aboutrss/1497)</sup> [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/electh/nextflux)
 
 ### RSS Reader in Email System / Outline Processor Markup Language
 
@@ -818,6 +868,10 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### 😎 Services that support RSS / Outline Processor Markup Language
 
 *   [RSS3 - The Feed of Web3](https://twitter.com/rss3_/status/1539749435835662336) <sup>[1223](https://t.me/s/aboutrss/1223)</sup>
+
+### 💖 Acknowledgement / Crypto or Blockchain relevant
+
+*   [RSS指南](https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d) <sup>[1224](https://t.me/s/aboutrss/1224)</sup>
 
 ### RSSHub / Outline Processor Markup Language
 
@@ -878,7 +932,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### Multi-subject / Crypto or Blockchain relevant
 
 *   My Telegram channel sharing RSS feeds collected by others
-    *   [1](https://t.me/s/aboutrss/1071) [2](https://t.me/s/aboutrss/1099) [3](https://t.me/s/aboutrss/1143) [4](https://t.me/s/aboutrss/1195) [5](https://t.me/s/aboutrss/1210) [6](https://t.me/s/aboutrss/1273) [7](https://t.me/s/aboutrss/1296) [8](https://t.me/s/aboutrss/1320) [9](https://t.me/aboutrss/s/1349) [10](https://t.me/s/aboutrss/1371) [11](https://t.me/s/aboutrss/1395) [12](https://t.me/s/aboutrss/1414) [13](https://t.me/s/aboutrss/1442) [14](https://t.me/s/aboutrss/1459)
+    *   [1](https://t.me/s/aboutrss/1071) [2](https://t.me/s/aboutrss/1099) [3](https://t.me/s/aboutrss/1143) [4](https://t.me/s/aboutrss/1195) [5](https://t.me/s/aboutrss/1210) [6](https://t.me/s/aboutrss/1273) [7](https://t.me/s/aboutrss/1296) [8](https://t.me/s/aboutrss/1320) [9](https://t.me/aboutrss/s/1349) [10](https://t.me/s/aboutrss/1371) [11](https://t.me/s/aboutrss/1395) [12](https://t.me/s/aboutrss/1414) [13](https://t.me/s/aboutrss/1442) [14](https://t.me/s/aboutrss/1459) [15](https://t.me/s/aboutrss/1487)
 *   [Single Feed Sharing on Twitter](https://twitter.com/aboutRSS/timelines/1527857429467172864) <sup>[1221](https://t.me/s/aboutrss/1221)</sup>
 *   [RSS Feed Bundles Sharing on Twitter](https://twitter.com/aboutRSS/timelines/1527674304921362432) <sup>[1230](https://t.me/s/aboutrss/1230)</sup>
 
@@ -889,12 +943,12 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### Views / Discussions / Experiences / Crypto or Blockchain relevant
 
 *   Collections shared in the Telegram Channel
-    *   [28](https://t.me/s/aboutrss/1111), [29](https://t.me/s/aboutrss/1119), [30](https://t.me/s/aboutrss/1125), [31](https://t.me/s/aboutrss/1140), [32](https://t.me/s/aboutrss/1148),  [33](https://t.me/s/aboutrss/1154),  [34](https://t.me/s/aboutrss/1161),  [35](https://t.me/s/aboutrss/1173), [36](https://t.me/s/aboutrss/1185),  [37](https://t.me/s/aboutrss/1192), [38](https://t.me/s/aboutrss/1200), [39](https://t.me/s/aboutrss/1207), [40](https://t.me/s/aboutrss/1214), [41](https://t.me/s/aboutrss/1234), [42](https://t.me/s/aboutrss/1246), [43](https://t.me/s/aboutrss/1260), , [44](https://t.me/s/aboutrss/1268), [45](https://t.me/s/aboutrss/1278), [46](https://t.me/s/aboutrss/1284), [47](https://t.me/s/aboutrss/1290), [48](https://t.me/s/aboutrss/1295), [49](https://t.me/s/aboutrss/1302), [50](https://t.me/s/aboutrss/1307), [51](https://t.me/s/aboutrss/1316), [52](https://t.me/s/aboutrss/1328), [53](https://t.me/s/aboutrss/1339), [54](https://t.me/s/aboutrss/1347), [55](https://t.me/s/aboutrss/1357), [56](https://t.me/s/aboutrss/1369), [57](https://t.me/s/aboutrss/1380), [58](https://t.me/s/aboutrss/1393), [59](https://t.me/s/aboutrss/1401), [60](https://t.me/s/aboutrss/1410), [61](https://t.me/s/aboutrss/1416), [62](https://t.me/s/aboutrss/1430) , [63](https://t.me/s/aboutrss/1446) , [64](https://t.me/s/aboutrss/1453), [65](https://t.me/s/aboutrss/1466)
+    *   [28](https://t.me/s/aboutrss/1111), [29](https://t.me/s/aboutrss/1119), [30](https://t.me/s/aboutrss/1125), [31](https://t.me/s/aboutrss/1140), [32](https://t.me/s/aboutrss/1148),  [33](https://t.me/s/aboutrss/1154),  [34](https://t.me/s/aboutrss/1161),  [35](https://t.me/s/aboutrss/1173), [36](https://t.me/s/aboutrss/1185),  [37](https://t.me/s/aboutrss/1192), [38](https://t.me/s/aboutrss/1200), [39](https://t.me/s/aboutrss/1207), [40](https://t.me/s/aboutrss/1214), [41](https://t.me/s/aboutrss/1234), [42](https://t.me/s/aboutrss/1246), [43](https://t.me/s/aboutrss/1260), , [44](https://t.me/s/aboutrss/1268), [45](https://t.me/s/aboutrss/1278), [46](https://t.me/s/aboutrss/1284), [47](https://t.me/s/aboutrss/1290), [48](https://t.me/s/aboutrss/1295), [49](https://t.me/s/aboutrss/1302), [50](https://t.me/s/aboutrss/1307), [51](https://t.me/s/aboutrss/1316), [52](https://t.me/s/aboutrss/1328), [53](https://t.me/s/aboutrss/1339), [54](https://t.me/s/aboutrss/1347), [55](https://t.me/s/aboutrss/1357), [56](https://t.me/s/aboutrss/1369), [57](https://t.me/s/aboutrss/1380), [58](https://t.me/s/aboutrss/1393), [59](https://t.me/s/aboutrss/1401), [60](https://t.me/s/aboutrss/1410), [61](https://t.me/s/aboutrss/1416), [62](https://t.me/s/aboutrss/1430) , [63](https://t.me/s/aboutrss/1446) , [64](https://t.me/s/aboutrss/1453), [65](https://t.me/s/aboutrss/1466), [66](https://t.me/s/aboutrss/1481), [67](https://t.me/s/aboutrss/1489), [68](https://t.me/s/aboutrss/1496)
 
 ### Tutorials when knowing how to run code / Crypto or Blockchain relevant
 
 *   Collections shared in the Telegram channel
-    *   [1](https://t.me/s/aboutrss/1048), [2](https://t.me/s/aboutrss/1101), [3](https://t.me/s/aboutrss/1122), [4](https://t.me/s/aboutrss/1130), [5](https://t.me/s/aboutrss/1058), [6](https://t.me/s/aboutrss/1067), [7](https://t.me/s/aboutrss/1082), [8](https://t.me/s/aboutrss/1088), [9](https://t.me/s/aboutrss/1097), [10](https://t.me/s/aboutrss/1205), [11](https://t.me/s/aboutrss/1212), [12](https://t.me/s/aboutrss/1217), [13](https://t.me/s/aboutrss/1243), [14](https://t.me/s/aboutrss/1249), [15](https://t.me/s/aboutrss/1263), [16](https://t.me/s/aboutrss/1276), [17](https://t.me/s/aboutrss/1280), [18](https://t.me/s/aboutrss/1286), [19](https://t.me/s/aboutrss/1293), [20](https://t.me/s/aboutrss/1300), [21](https://t.me/s/aboutrss/1304), [22](https://t.me/s/aboutrss/1311), [23](https://t.me/s/aboutrss/1323), [24](https://t.me/s/aboutrss/1336), [25](https://t.me/aboutrss/s/1343), [26](https://t.me/s/aboutrss/1353), [27](https://t.me/s/aboutrss/1366), [28](https://t.me/s/aboutrss/1377), [29](https://t.me/s/aboutrss/1385), [30](https://t.me/s/aboutrss/1398), [31](https://t.me/s/aboutrss/1408), [32](https://t.me/s/aboutrss/1426), [33](https://t.me/s/aboutrss/1438), [34](https://t.me/s/aboutrss/1449), [35](https://t.me/s/aboutrss/1456), [36](https://t.me/s/aboutrss/1471)
+    *   [1](https://t.me/s/aboutrss/1048), [2](https://t.me/s/aboutrss/1101), [3](https://t.me/s/aboutrss/1122), [4](https://t.me/s/aboutrss/1130), [5](https://t.me/s/aboutrss/1058), [6](https://t.me/s/aboutrss/1067), [7](https://t.me/s/aboutrss/1082), [8](https://t.me/s/aboutrss/1088), [9](https://t.me/s/aboutrss/1097), [10](https://t.me/s/aboutrss/1205), [11](https://t.me/s/aboutrss/1212), [12](https://t.me/s/aboutrss/1217), [13](https://t.me/s/aboutrss/1243), [14](https://t.me/s/aboutrss/1249), [15](https://t.me/s/aboutrss/1263), [16](https://t.me/s/aboutrss/1276), [17](https://t.me/s/aboutrss/1280), [18](https://t.me/s/aboutrss/1286), [19](https://t.me/s/aboutrss/1293), [20](https://t.me/s/aboutrss/1300), [21](https://t.me/s/aboutrss/1304), [22](https://t.me/s/aboutrss/1311), [23](https://t.me/s/aboutrss/1323), [24](https://t.me/s/aboutrss/1336), [25](https://t.me/aboutrss/s/1343), [26](https://t.me/s/aboutrss/1353), [27](https://t.me/s/aboutrss/1366), [28](https://t.me/s/aboutrss/1377), [29](https://t.me/s/aboutrss/1385), [30](https://t.me/s/aboutrss/1398), [31](https://t.me/s/aboutrss/1408), [32](https://t.me/s/aboutrss/1426), [33](https://t.me/s/aboutrss/1438), [34](https://t.me/s/aboutrss/1449), [35](https://t.me/s/aboutrss/1456), [36](https://t.me/s/aboutrss/1471), [37](https://t.me/s/aboutrss/1483), [38](https://t.me/s/aboutrss/1492)
 
 ### Podcast apps that will work with your custom RSS link / Crypto or Blockchain relevant
 
@@ -905,10 +959,6 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 ### Aggregators of Podcasts / Podcast Navigation / Crypto or Blockchain relevant
 
 *   [中文播客榜](https://xyzrank.com/) <sup>[1236](https://t.me/s/aboutrss/1236)</sup>
-
-### 💖 Acknowledgement / Crypto or Blockchain relevant
-
-*   [RSS指南](https://efficiencyfollow.notion.site/RSS-01f580f05df2412993c5ad0f68f0a95d) <sup>[1224](https://t.me/s/aboutrss/1224)</sup>
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
@@ -1764,7 +1814,6 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### Apps / Outline Processor Markup Language
 
-*   [Reeder](https://reederapp.com/) <sup>[22](https://t.me/s/aboutrss/22), [68](https://t.me/s/aboutrss/68), [294](https://t.me/s/aboutrss/294), [333](https://t.me/s/aboutrss/333), [393](https://t.me/s/aboutrss/393), [587](https://t.me/s/aboutrss/587), [819](https://t.me/s/aboutrss/819), [844](https://t.me/s/aboutrss/844), [845](https://t.me/s/aboutrss/845), [846](https://t.me/s/aboutrss/846), [850](https://t.me/s/aboutrss/850), [890](https://t.me/s/aboutrss/890)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/us/app/reeder-4/id1449412357?ls=1\&mt=8)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/us/app/reeder-4/id1449412482?ls=1\&mt=12)
 *   [RSS Tracker (Former name: RSS Stalker)](https://blog.richasy.cn/document/rss/) <sup>[52](https://t.me/s/aboutrss/52), [69](https://t.me/s/aboutrss/69), [745](https://t.me/s/aboutrss/745), [760](https://t.me/s/aboutrss/760), [771](https://t.me/s/aboutrss/771), [896](https://t.me/s/aboutrss/896)</sup> [![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)](https://www.microsoft.com/store/apps/9N85PV1RJD6V)
 *   [Raven Reader](https://ravenreader.app/) <sup>[503](https://t.me/s/aboutrss/503), [924](https://t.me/s/aboutrss/924)</sup> ![Windows](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-windows-10-16.png)![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/hello-efficiency-inc/raven-reader)
 *   FocusReader : use Feedly/Inoreader as backend service. <sup>[862](https://t.me/s/aboutrss/862), [912](https://t.me/s/aboutrss/912)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://play.google.com/store/apps/details?id=allen.town.focus.reader)
@@ -2494,7 +2543,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 ### Telegram Groups / Channels / Crypto or Blockchain relevant
 
-*   About RSS ([Channel](https://t.me/s/aboutrss) / [Group](https://t.me/allaboutrss))
+*   About RSS ([Channel](https://t.me/s/aboutrss) / [Group](https://t.me/allaboutrss) / [Blog](https://blog.rss.tips/)<sup>[1477](https://t.me/s/aboutrss/1477)</sup>)
 *   RSSHub ([Channel](https://t.me/s/awesomeRSSHub) / [Group](https://t.me/rsshub)) <sup>[229](https://t.me/s/aboutrss/229)</sup>
 
 ### Turn YouTube into Podcast / Crypto or Blockchain relevant
@@ -3051,7 +3100,7 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 *   [GNOME Feeds](https://gabmus.gitlab.io/gnome-feeds/) <sup>[337](https://t.me/s/aboutrss/337)</sup> [![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)](https://flathub.org/apps/details/org.gabmus.gfeeds)[![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://gitlab.com/gabmus/gnome-feeds)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [Akregator](https://kde.org/applications/internet/org.kde.akregator) <sup>[340](https://t.me/s/aboutrss/340)</sup> ![Linux](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/Linux.png)![Freeware](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-one-free-16.png)
 *   [厚墨 deepink](https://www.deepink.cn/) <sup>[404](https://t.me/s/aboutrss/404)</sup> [![Android](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/android.png)](https://www.coolapk.com/apk/cn.deepink.reader)
-*   [News Explorer](https://betamagic.nl/products/newsexplorer.html) <sup>[466](https://t.me/s/aboutrss/466)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/news-explorer/id1032668306?mt=8\&ign-mpt=uo%3D4)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](macappstore://geo.itunes.apple.com/us/app/news-explorer/id1032670789?ls=1\&mt=12\&at=1000lqMt\&ct=product-newsexplorer-macos)
+*   [News Explorer](https://betamagic.nl/products/newsexplorer.html) <sup>[466](https://t.me/s/aboutrss/466), [1493](https://t.me/s/aboutrss/1493)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/news-explorer/id1032668306?mt=8\&ign-mpt=uo%3D4)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](macappstore://geo.itunes.apple.com/us/app/news-explorer/id1032670789?ls=1\&mt=12\&at=1000lqMt\&ct=product-newsexplorer-macos)
 *   [Leaf for Mac](https://rockysandstudio.com/) <sup>[466](https://t.me/s/aboutrss/466)</sup> [![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://itunes.apple.com/app/id576338668?mt=12)
 *   [Cappuccino](https://cappuccinoapp.com/) <sup>[466](https://t.me/s/aboutrss/466)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://itunes.apple.com/us/app/cappuccino/id1293733688?mt=8\&at=10l4Lz\&ct=cappuiosbadge\&uo=8\&at=10l4Lz)[![Mac](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-mac-client-16.png)](https://geo.itunes.apple.com/us/app/cappuccino-news-reader/id1286725949?mt=12\&app=apps\&at=10l4Lz\&ct=cappumacbadge\&uo=8\&at=10l4Lz)
 *   [RSS Reader Prime](http://orzer.zhangzichuan.cn/2019/03/26/ReaderPrime/) <sup>[487](https://t.me/s/aboutrss/487)</sup> [![iOS](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/icons8-iphone-16.png)](https://apps.apple.com/us/app/rss-reader-prime/id1454638098)

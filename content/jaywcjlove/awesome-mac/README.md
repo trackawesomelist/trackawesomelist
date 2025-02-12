@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Feb 12, 2025](/content/2025/02/12/README.md)
+
+### Design and Product / Design Tools
+
+*   [Nugget (⭐239)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yo-op/sketchcachecleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Feb 11, 2025](/content/2025/02/11/README.md)
 
 ### Third Party App Markets / System Related Tools
@@ -2342,12 +2348,6 @@
 ### Developer Tools / Databases
 
 *   [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
-
-## [Jun 21, 2019](/content/2019/06/21/README.md)
-
-### Developer Tools / Databases
-
-*   [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - Cross-platform database tool for Microsoft data platforms. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Jun 15, 2019](/content/2019/06/15/README.md)
 
