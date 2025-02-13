@@ -8,6 +8,10 @@ Awesome Ansible List
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
+### Tools
+
+*   [Ansible Template Playground](https://tech-playground.com/playgrounds/ansible-template/) - Online playground for running, testing and sharing Ansible templates.
+
 ### Blog posts and opinions
 
 *   [Enhancing Ansible Development with SOLID Principles (⭐1)](https://github.com/kksat/SOLID-Ansible) - Discover how the fundamental principles of SOLID—Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion—can significantly elevate your Ansible role and playbook development.

@@ -76,7 +76,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
     *   [Updating](#updating)
 *   [Third Party Components](#third-party-components)
     *   [Animations](#animations)
-    *   [Breadcrumbs](#breadcrumbs)
     *   [Calendars](#calendars)
     *   [Captcha](#captcha)
     *   [Carousels](#carousels)
@@ -107,6 +106,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
     *   [Notifications](#notifications)
     *   [Printing](#printing)
     *   [QR Codes](#qr-codes)
+    *   [Router](#router)
+        *   [Breadcrumbs](#breadcrumbs)
+        *   [Routing](#routing)
     *   [Scroll](#scroll)
     *   [State Management](#state-management)
         *   [NgRx](#ngrx)
@@ -594,7 +596,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-schematics-utilities (⭐7)](https://github.com/DSI-HUG/ngx-schematics-utilities) - Useful utilities for Angular Schematics.
 *   [angular-library-template (⭐0)](https://github.com/lazycuh/angular-library-template) - A template for creating Angular libraries.
 *   [detective (⭐105)](https://github.com/angular-architects/detective) - Detective leverages forensic code analysis at the architectural level to uncover hidden patterns in your codebase.
-*   [storybook-addon-angular-router (⭐11)](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
 *   [esbuild Bundle Size Analyzer](https://esbuild.github.io/analyze/) - Visualize the contents of your esbuild bundle.
 *   [hawkeye (⭐14)](https://github.com/angular-experts-io/hawkeye) - A powerful tool designed to help developers visualize and optimize their JavaScript bundles. With our intuitive interface, you can gain deep insights into your project’s bundle structure, identifying large modules, dependencies, and assets that may be impacting performance.
 *   [ngx-script-optimizer (⭐1)](https://github.com/Mohid123/ngx-script-optimizer) - A lightweight Angular library designed to supercharge your third-party script handling.
@@ -609,7 +610,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-doc (⭐258)](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects.
 *   [docgeni (⭐198)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 *   [trakk.js (⭐3)](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
-*   [ng-component-hierarchy-visualizer (⭐3)](https://github.com/timonkrebs/ng-component-hierarchy-visualizer) - A non invasive tool to generate Mermaid representations of your Angular component hierarchy representation based on the route configurations
+*   [ng-component-hierarchy-visualizer (⭐3)](https://github.com/timonkrebs/ng-component-hierarchy-visualizer) - A non invasive tool to generate Mermaid representations of your Angular component hierarchy representation based on the route configurations.
 
 #### Generators
 
@@ -743,11 +744,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-translate-multi-http-loader (⭐78)](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
 *   [angular-ecmascript-intl (⭐15)](https://github.com/json-derulo/angular-ecmascript-intl) - Contains pipes to transform internationalization data using Intl.\* browser APIs.
 *   [i18n-ally (⭐4.2k)](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
-*   [ngx-translate-router (⭐133)](https://github.com/gilsdav/ngx-translate-router) - Translate routes using `ngx-translate`.
 *   [intl-tel-input-ng (⭐18)](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input (⭐7.8k)](https://github.com/jackocnr/intl-tel-input).
 *   [ng-intl (⭐9)](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
 *   [ngx-easy-i18n-js (⭐2)](https://github.com/gabrie-allaigre/ngx-easy-i18n-js) - The easy internationalization (i18n) library for Angular.
-*   [ngx-translate-routes (⭐4)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 *   [ngx-translate-lint (⭐34)](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
 *   [translate (⭐23)](https://github.com/ngstack/translate) - Translation library for Angular and Ionic applications.
 *   [ngx-merge-json-translations (⭐1)](https://github.com/jonnomk/ngx-merge-json-translations) - This builder helps merge the `messages.json` file, after running extract-i18n, into target files using specified locales taking care to delete removed keys and add new ones.
@@ -757,6 +756,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngs-plural (⭐1)](https://github.com/andrei-shpileuski/ngs-plural) - A lightweight Angular library for handling pluralization in different languages using a pipe and a service. It simplifies the process of generating grammatically correct plural forms based on a numeric count and supports custom language rules.
 *   [ngx-translate-messageformat-compiler (⭐97)](https://github.com/lephyrus/ngx-translate-messageformat-compiler) - Compiler for `ngx-translate` that uses [messageformat.js (⭐1.7k)](https://github.com/messageformat/messageformat) to compile translations using ICU syntax for handling pluralization and gender.
 *   [ngx-g11n (⭐1)](https://github.com/DSI-HUG/ngx-g11n) - Angular helpers for internationalizing and localizing your application.
+*   [ngx-translate-router (⭐133)](https://github.com/gilsdav/ngx-translate-router) - Translate routes using `ngx-translate`.
+*   [ngx-translate-routes (⭐4)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 
 #### Module Federation
 
@@ -993,15 +994,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-animated-counter (⭐6)](https://github.com/BugSplat-Git/ngx-animated-counter) - BugSplat's library provides simple count up and count down number animations.
 *   [ngx-dom-confetti (⭐2)](https://github.com/damingerdai/ngx-dom-confetti) - Celebrate success with dom confetti on Angular projects!
 
-#### Breadcrumbs
-
-*   [xng-breadcrumb (⭐242)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
-*   [olt-ngx-breadcrumbs (⭐1)](https://github.com/OuterlimitsTech/olt-ngx-breadcrumbs) - Angular Library for generating breadcrumbs based on the routing state.
-*   [ngx-breadcrumpy (⭐6)](https://github.com/dirkluijk/ngx-breadcrumpy) - An awesome library to easily add breadcrumbs to your Angular application.
-*   [ngx-crumbs (⭐7)](https://github.com/henczi/ngx-crumbs) - An ultimate breadcrumbs service for Angular.
-*   [breadcrumbs (⭐1)](https://github.com/ez-ng/breadcrumbs) - An angular component that automatically lists breadcrumbs based on the currently routed components.
-*   [ngx-breadcrumb (⭐2)](https://github.com/code-workers-io/ngx-breadcrumb) - A highly customizable and flexible breadcrumb component for Angular.
-
 #### Calendars
 
 *   [angular-calendar (⭐2.7k)](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
@@ -1163,10 +1155,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-app-version (⭐3)](https://github.com/Celtian/ngx-app-version) - Angular directive for writing version into DOM.
 *   [ngx-repeat (⭐3)](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
 *   [ngx-fixed-footer (⭐3)](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds fixed footer without overlap.
-*   [ngx-href (⭐2)](https://github.com/rbalet/ngx-href) - A directive that allows href to understand Angular's router while retaining its default functionality.
 *   [ng-dompurify (⭐9)](https://github.com/taiga-family/ng-dompurify) - This library implements [DOMPurify (⭐14k)](https://github.com/cure53/DOMPurify) as Angular Sanitizer or Pipe. It delegates sanitizing to DOMPurify and supports the same configuration.
 *   [ngx-windows (⭐1)](https://github.com/mateuszbilicz/ngx-windows) - Angular Windows Components and Services.
-*   [ngx-quicklink (⭐758)](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
 *   [ngx-speculative-link (⭐8)](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink (⭐11k)](https://github.com/GoogleChromeLabs/quicklink) and ngx-quicklink.
 
 #### Drag and Drop
@@ -1418,7 +1408,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-lazy-directive (⭐2)](https://github.com/tuphan-27/ngx-lazy-directive) - Provides an easy way to lazy load components combined with the `*ngIf` directive, thereby reducing the First Contentful Paint time when a module is large.
 *   [ngx-fastboot (⭐8)](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
 *   [nx-svg-loaders (⭐3)](https://github.com/ngeenx/nx-svg-loaders) - Angular, React, Svelte, Vue SVG loader/spinner collection.
-*   [ngx-hover-preload (⭐171)](https://github.com/mgechev/ngx-hover-preload) - Preload Angular lazy-loaded routes on mouse over.
 *   [skeletonizer (⭐5)](https://github.com/lukaVarga/skeletonizer) - A lightweight package that provides a simple way to create skeletonized views for your application. It has adapters for Vue and Angular and is highly customizable and easy to use.
 *   [dz-ngx-element (⭐2)](https://github.com/zdigambar/dz-ngx-element) - [NgxElement](https://www.npmjs.com/package/@zdigambar/ngx-element) enables to lazy load Angular components in non-angular applications. The library will register a custom element to which you can pass an attribute to specify what component you want to load.
 *   [ngx-loading-overlay (⭐1)](https://github.com/shaman-apprentice/ngx-loading-overlay) - An Angular directive adding a loading overlay to your HTML.
@@ -1554,6 +1543,28 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-kjua (⭐89)](https://github.com/werthdavid/ngx-kjua) - Angular QR-Code generator component using [kjua (⭐270)](https://github.com/lrsjng/kjua).
 *   [ngx-qrcode (⭐1)](https://github.com/GNURub/ngx-qrcode) - A simple Angular 18+ component to generate QR codes. Based on [react-native-qrcode-skia (⭐238)](https://github.com/enzomanuelmangano/react-native-qrcode-skia) library.
 *   [ngx-scan-detect (⭐12)](https://github.com/sezmars/ngx-scan-detect) - Detects barcode or QR code scanning on document and emits the scanned code.
+
+#### Router
+
+##### Breadcrumbs
+
+*   [xng-breadcrumb (⭐242)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+*   [olt-ngx-breadcrumbs (⭐1)](https://github.com/OuterlimitsTech/olt-ngx-breadcrumbs) - Angular Library for generating breadcrumbs based on the routing state.
+*   [ngx-breadcrumpy (⭐6)](https://github.com/dirkluijk/ngx-breadcrumpy) - An awesome library to easily add breadcrumbs to your Angular application.
+*   [ngx-crumbs (⭐7)](https://github.com/henczi/ngx-crumbs) - An ultimate breadcrumbs service for Angular.
+*   [breadcrumbs (⭐1)](https://github.com/ez-ng/breadcrumbs) - An angular component that automatically lists breadcrumbs based on the currently routed components.
+*   [ngx-breadcrumb (⭐2)](https://github.com/code-workers-io/ngx-breadcrumb) - A highly customizable and flexible breadcrumb component for Angular.
+
+##### Routing
+
+*   [@ui-router/angular (⭐353)](https://github.com/ui-router/angular) - [UI-Router](https://ui-router.github.io) for Angular: State-based routing for Angular.
+*   [ngx-quicklink (⭐758)](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
+*   [ngx-hover-preload (⭐171)](https://github.com/mgechev/ngx-hover-preload) - Preload Angular lazy-loaded routes on mouse over.
+*   [ngx-href (⭐2)](https://github.com/rbalet/ngx-href) - A directive that allows href to understand Angular's router while retaining its default functionality.
+*   [ngx-route-manager (⭐2)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
+*   [ngx-back-button (⭐1)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
+*   [ngx-navigate-back (⭐2)](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
+*   [storybook-addon-angular-router (⭐11)](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
 
 #### Scroll
 
@@ -1797,7 +1808,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-polymorpheus (⭐394)](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
 *   [gui (⭐105)](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
 *   [ng2csv (⭐6)](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
-*   [@ui-router/angular (⭐353)](https://github.com/ui-router/angular) - [UI-Router](https://ui-router.github.io) for Angular: State-based routing for Angular.
 *   [ngx-csv-parser (⭐25)](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
 *   [angular-tag-cloud-module (⭐42)](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
 *   [ngx-lipsum (⭐5)](https://github.com/d-koppenhagen/ngx-lipsum) - Easily use lorem-ipsum dummy texts in your angular app as directive, component or by using a service.
@@ -1821,8 +1831,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-globe (⭐1)](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
 *   [ngx-copypaste (⭐28)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
 *   [ngx-morse (⭐7)](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
-*   [ngx-back-button (⭐1)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
-*   [ngx-route-manager (⭐2)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
 *   [ng-whiteboard (⭐53)](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 *   [ngs-json-utils (⭐2)](https://github.com/andrei-shpileuski/ngs-json-utils) - A lightweight utility library for Angular applications that provides easy-to-use functions for working with JSON objects. It includes methods for deep cloning, serialization, and deserialization of JSON data, designed specifically for Angular projects with TypeScript support.
 *   [lbx-change-sets (⭐2)](https://github.com/Service-Soft/lbx-change-sets) - This package helps you to track changes made on your entities automatically using a base repository class to extend from.

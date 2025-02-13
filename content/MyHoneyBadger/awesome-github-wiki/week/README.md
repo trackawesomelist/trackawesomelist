@@ -10,7 +10,7 @@
 
 ### Examples
 
-*   [JustArchiNET/ArchiSteamFarm/ (⭐12k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
+*   [JustArchiNET/ArchiSteamFarm (⭐12k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 
 ## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
 

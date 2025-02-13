@@ -168,14 +168,14 @@ Here's a quick overview of the categories covered in this collection:
 ## Bundle Analyzer
 
 *   [Bundlesize (⭐4.5k)](https://github.com/siddharthkp/bundlesize) - Keep your bundle size in check.
-*   [source-map-explorer (⭐3.8k)](https://github.com/danvk/source-map-explorer) - Analyze and debug bundle space usage through source maps.
+*   [source-map-explorer (⭐3.9k)](https://github.com/danvk/source-map-explorer) - Analyze and debug bundle space usage through source maps.
 *   [Bundlephobia](https://bundlephobia.com/) - Helps you find the performance impact of adding an npm package to your frontend bundle.
 *   [Webpack bundle analyzer (⭐13k)](https://github.com/webpack-contrib/webpack-bundle-analyzer) - webpack plugin and CLI utility that represents bundle content as a convenient interactive zoomable treemap.
 *   [Disc](http://hughsk.io/disc/) - Visualise the module tree of browserify project bundles and track down bloat.
 *   [Lasso-analyzer (⭐4)](https://github.com/ajay2507/lasso-analyzer) - analyze and Visualise project bundles created by Lasso.
 *   [Packtracker.io](https://packtracker.io) - Check your webpack bundle stats on every pull request, and track them over time.
 *   [Compression webpack plugin (⭐1.4k)](https://github.com/webpack-contrib/compression-webpack-plugin) - Prepare compressed versions of assets to serve them with Content-Encoding.
-*   [BundleStats (⭐593)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
+*   [BundleStats (⭐605)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
 
 ## Benchmark - CSS
 
@@ -188,7 +188,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [JSPerf](http://jsperf.com/) - jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks. `Temporarily out, follow this issue for updates: https://github.com/jsperf/jsperf.com/issues/537`
 *   [Benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 *   [JSlitmus (⭐166)](https://github.com/broofa/jslitmus) - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.
-*   [Matcha (⭐563)](https://github.com/logicalparadox/matcha) - Matcha allows you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
+*   [Matcha (⭐562)](https://github.com/logicalparadox/matcha) - Matcha allows you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
 *   [Timing.js (⭐1.5k)](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet, or bookmarklet.
 *   [Stats.js (⭐8.8k)](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance.
 *   [PerfTests (⭐1)](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
@@ -213,7 +213,7 @@ Here's a quick overview of the categories covered in this collection:
 
 *   [Cloudflare CDN](https://www.cloudflare.com/cdn/) - A content delivery network that uses next-gen tech to deliver fast, reliable, CDN services
 *   [PageCDN](https://pagecdn.com/lib) - A state-of-the-art opensource CDN with aggressive content optimization using brotli-11 compression, HTTP/2 server push, better HTTP/2 multiplexing, and more. Supports 100s of libraries and 2000+ WordPress themes already. Easy to use, easy to link, and very fast.
-*   [jsDelivr (⭐5.7k)](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open-source CDN that allows developers to host their own projects and anyone to link to our hosted files on their sites.
+*   [jsDelivr (⭐5.8k)](https://github.com/jsdelivr/jsdelivr) - Similar to Google Hosted Libraries, jsDelivr is an open-source CDN that allows developers to host their own projects and anyone to link to our hosted files on their sites.
 *   [Google Hosted Libraries](https://developers.google.com/speed/libraries/) - Google Hosted Libraries is a content distribution network for the most popular, open-source JavaScript libraries.
 *   [CDNjs](https://cdnjs.com/) - An open-source CDN for JavaScript and CSS sponsored by CloudFlare that hosts everything from jQuery and Modernizr to Bootstrap.
 *   [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network by Amazon that integrates nicely with other Amazon services or can be used standalone.
@@ -245,13 +245,13 @@ Here's a quick overview of the categories covered in this collection:
 *   [Grunt-sprite-css-replace](https://www.npmjs.com/package/grunt-sprite-css-replace) - Grunt task that generates a sprite from images referenced in a style sheet and then updates the references with the new sprite image and positions.
 *   [Grunt-svg-sprite](https://www.npmjs.com/package/grunt-svg-sprite) - SVG sprites & stacks galore — Grunt plugin wrapping around svg-sprite that reads in a bunch of SVG files, optimizes them and creates SVG sprites and CSS resources in various flavors.
 *   [Gulp-sprite (⭐15)](https://github.com/aslansky/gulp-sprite) - gulp task for creating an image sprite and the corresponding style sheets for Gulp.
-*   [Gulp-svg-sprites (⭐334)](https://github.com/shakyShane/gulp-svg-sprites) - gulp task for creating SVG sprites.
+*   [Gulp-svg-sprites (⭐335)](https://github.com/shakyShane/gulp-svg-sprites) - gulp task for creating SVG sprites.
 *   [SvgToCSS (⭐2)](https://github.com/kajyr/SvgToCSS) - Optimizes and renders SVG files in CSS / Sass sprites.
 *   [Assetgraph-sprite (⭐36)](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto-generating sprites based on the CSS dependency graph.
 *   [Sprite Cow](http://www.spritecow.com/) - Sprite Cow helps you get the background-position, width, and height of sprites within a spritesheet as a nice bit of copyable CSS.
 *   [ZeroSprites](http://zerosprites.com/) - ZeroSprites is a CSS sprites generator aimed at area minimization using algorithms used in the field of VLSI floorplanning.
 *   [CSS Sprite Generator](http://css.spritegen.com/) - CSS sprites allow you to combine multiple images into a single file.
-*   [Sprity (⭐481)](https://github.com/sprity/sprity) - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...
+*   [Sprity (⭐480)](https://github.com/sprity/sprity) - A modular image sprite generator with a lot of features: supports retina sprites, supports different output formats, generates sprites and proper style files out of a directory of images, etc...
 *   [Sprite Factory (⭐621)](https://github.com/jakesgordon/sprite-factory) - The sprite factory is a ruby library that can be used to generate CSS sprites. It combines individual image files from a directory into a single unified sprite image and creates an appropriate CSS style sheet for use in your web application.
 
 ## Image Optimizers
@@ -284,11 +284,11 @@ Here's a quick overview of the categories covered in this collection:
 *   [Jpegoptim (⭐1.6k)](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
 *   [ZopfliPNG (⭐3.5k)](https://github.com/google/zopfli) - A command-line program to optimize PNG images.
 *   [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress PNG files to get the smallest possible size.
-*   [Leanify (⭐838)](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
+*   [Leanify (⭐840)](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 *   [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 *   [ImageEngine](https://imageengine.io) - Cloud service for optimizing, resizing and caching images on the fly with great mobile support.
 *   [ImageKit.io](https://imagekit.io) - Intelligent real-time image optimizations, image transformations with a global delivery network and storage.
-*   [Optimizt (⭐942)](https://github.com/funbox/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless and create WebP versions for raster images.
+*   [Optimizt (⭐102)](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
 *   [ResponsiveImage](https://responsive-image.dev/) - Generate optimized images (WebP, AVIF) and LQIP placeholders using Vite or webpack plugins and render responsive image markup with an image component for multiple frameworks.
 
 ## Lazyloaders
@@ -303,7 +303,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [Labjs](http://labjs.com/) - is an open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
 *   [Defer.js (⭐69)](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel.
 *   [InstantClick (⭐5.5k)](https://github.com/dieulot/instantclick) - InstantClick makes the following links in your site instant.
-*   [JIT (⭐509)](https://github.com/shootaroo/jit-grunt) - A JIT (Just In Time) plugin loader for Grunt. The load time of Grunt does not slow down even if there are many plugins.
+*   [JIT (⭐511)](https://github.com/shootaroo/jit-grunt) - A JIT (Just In Time) plugin loader for Grunt. The load time of Grunt does not slow down even if there are many plugins.
 
 ## Metrics Monitor
 
@@ -335,7 +335,7 @@ Here's a quick overview of the categories covered in this collection:
 ## Minifiers - HTML
 
 *   [HTMLCompressor](https://code.google.com/archive/p/htmlcompressor/) - HtmlCompressor is a small, fast, and very easy to use Java library that minifies given HTML or XML source by removing extra whitespaces, comments, and other unneeded characters without breaking the content structure. As a result page become smaller in size and load faster. A command-line version of the compressor is also available.
-*   [Django-htmlmin (⭐542)](https://github.com/cobrateam/django-htmlmin) - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command-line tool that can be used for static sites or deployment scripts.
+*   [Django-htmlmin (⭐543)](https://github.com/cobrateam/django-htmlmin) - django-html in an HTML minifier for Python with full support for HTML 5. It supports Django, Flask and any other Python web framework. It also provides a command-line tool that can be used for static sites or deployment scripts.
 *   [HTMLMinifier (⭐5k)](https://github.com/kangax/html-minifier) - HTMLMinifier is a highly configurable, well-tested, Javascript-based HTML minifier, with lint-like capabilities.
 *   [Grunt-contrib-htmlmin (⭐424)](https://github.com/gruntjs/grunt-contrib-htmlmin) - A grunt plugin to minify HTML that uses HTMLMinifier.
 *   [Gulp-htmlmin (⭐725)](https://github.com/jonschlinkert/gulp-htmlmin) - A gulp plugin to minify HTML that uses HTMLMinifier.
@@ -344,7 +344,7 @@ Here's a quick overview of the categories covered in this collection:
 *   [HTML\_press (⭐35)](https://github.com/stereobooster/html_press) - Ruby gem for compressing html, that removes all whitespace junk, and leaves only HTML.
 *   [Koa HTML Minifier (⭐32)](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
 *   [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator).
-*   [Minimize (⭐160)](https://github.com/Swaagie/minimize) - Minimize is an HTML minifier based on the node-htmlparser,currently, HTML minifier is only usable server-side. Client-side minification will be added in a future release.
+*   [Minimize (⭐161)](https://github.com/Swaagie/minimize) - Minimize is an HTML minifier based on the node-htmlparser,currently, HTML minifier is only usable server-side. Client-side minification will be added in a future release.
 *   [Html-minifier (⭐132)](https://github.com/deanhume/html-minifier) - A simple Windows command-line tool to minify your HTML, Razor views & Web Forms views
 
 ## Minifiers - JS & CSS
@@ -353,12 +353,12 @@ Here's a quick overview of the categories covered in this collection:
 *   [UglifyJS2 (⭐13k)](https://github.com/mishoo/UglifyJS2) - UglifyJS is a JavaScript parser, minifier, compressor or beautifier toolkit, written in JavaScript.
 *   [CSSO (⭐3.8k)](https://github.com/css/csso) - CSS minimizer unlike others. In addition to usual minification techniques, it can perform structural optimization of CSS files, resulting in smaller file size compared to other minifiers.
 *   [CSSmin.js (⭐76)](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) - cssmin.js is a JavaScript port of YUICompressor's CSS minifier.
-*   [Grunt-contrib-concat (⭐812)](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
+*   [Grunt-contrib-concat (⭐811)](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 *   [Grunt-contrib-uglify (⭐1.5k)](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify JavaScript files.
 *   [Clean-css (⭐4.2k)](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well-tested CSS minifier for node.js.
 *   [Django-compressor (⭐2.8k)](https://github.com/django-compressor/django-compressor) - Compresses linked and inline JavaScript or CSS into a single cached file.
 *   [Django-pipeline (⭐1.5k)](https://github.com/cyberdelia/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
-*   [JShrink (⭐752)](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies JavaScript so that it can be delivered to the client quicker.
+*   [JShrink (⭐753)](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies JavaScript so that it can be delivered to the client quicker.
 *   [JSCompress](http://jscompress.com/) - The most minimalistic online JS Compress tool.
 *   [CSSshrink (⭐1.1k)](https://github.com/stoyan/cssshrink) - Because CSS is ospon the critical path to rendering pages. It must be small! Or else!
 *   [Grunt-cssshrink (⭐28)](https://github.com/JohnCashmore/grunt-cssshrink) - This is just a grunt wrapper for CSS Shrink.
@@ -395,7 +395,7 @@ Here's a quick overview of the categories covered in this collection:
 
 ## Web server Benchmarks
 
-*   [HTTPerf (⭐993)](https://github.com/httperf/httperf) - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
+*   [HTTPerf (⭐994)](https://github.com/httperf/httperf) - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
 *   [Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - Open source load testing tool: It is a Java platform application.
 *   [Locust](http://locust.io) - An open-source load testing tool. Define user behaviour with Python code, and swarm your system with millions of simultaneous users.
 *   [Autoperf (⭐178)](https://github.com/igrigorik/autoperf) - Autoperf is a ruby driver for httperf, designed to help you automate load and performance testing of any web application - for a single endpoint, or through log replay.
@@ -433,8 +433,8 @@ Here's a quick overview of the categories covered in this collection:
 
 *   [iamakulov/awesome-webpack-perf (⭐959)](https://github.com/iamakulov/awesome-webpack-perf) - A curated list of webpack tools for web performance
 *   [bayandin/awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness).
-*   [sindresorhus/awesome (⭐342k)](https://github.com/sindresorhus/awesome).
-*   [imteekay/web-performance-research (⭐828)](https://github.com/imteekay/web-performance-research) - Research in Web Performance
+*   [sindresorhus/awesome (⭐345k)](https://github.com/sindresorhus/awesome).
+*   [imteekay/web-performance-research (⭐866)](https://github.com/imteekay/web-performance-research) - Research in Web Performance
 
 # Contributing
 

@@ -6,6 +6,12 @@ Awesome Ansible List
 
 [ Daily / [Weekly](/content/ansible-community/awesome-ansible/week/README.md) / [Overview](/content/ansible-community/awesome-ansible/readme/README.md) ]
 
+## [Feb 13, 2025](/content/2025/02/13/README.md)
+
+### Tools
+
+*   [Ansible Template Playground](https://tech-playground.com/playgrounds/ansible-template/) - Online playground for running, testing and sharing Ansible templates.
+
 ## [Feb 12, 2025](/content/2025/02/12/README.md)
 
 ### Blog posts and opinions

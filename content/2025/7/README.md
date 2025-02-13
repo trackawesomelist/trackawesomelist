@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 17 - Feb 23, 2025
 
-29 awesome lists updated this week.
+31 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,15 +10,28 @@
 
 ### Examples
 
-*   [JustArchiNET/ArchiSteamFarm/ (⭐12k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
+*   [JustArchiNET/ArchiSteamFarm (⭐12k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 
-## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [2. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+
+### Software Engineering
+
+*   [Falsehoods about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/) - Null pointers are even more cursed than pointers in general, and provenance already makes pointers quite complicated.
+*   [Falsehoods about Digital Object Identifiers (DOIs)](https://pardalotus.tech/posts/2024-10-02-falsehoods-programmers-believe-about-dois/) - False conceptions about the identifiers that are used to identify and link research outputs (and a lot of other things).
+
+## [3. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/week/README.md)
+
+### Image Optimizers / Meetups
+
+*   [Optimizt (⭐102)](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
+
+## [4. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars-config-meta (⭐1)](https://github.com/lmmx/polars-config-meta) - Polars plugin for persistent DataFrame-level metadata by [@lmmx](https://github.com/lmmx).
 
-## [3. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [5. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Retro
 
@@ -40,19 +53,19 @@ Free (Open Source)
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen)
 
-## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [6. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
 *   💼 [tailwindcss-px-to-viewport (⭐1)](https://github.com/the-lemonboy/tailwindcss-px-to-viewport) - Adds utilities to automatically convert px to vw / vh.
 
-## [5. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [7. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 📁 Recipes / 🌱 Third Party
 
 *   [paundraP/golang-starter-template (⭐1)](https://github.com/paundraP/Go-Starter-Template) - Golang REST API with authentication, authorization, and integrated payment gateway support.
 
-## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -111,26 +124,26 @@ Free (Open Source)
 *   [NDJSON (⭐706) (⭐706)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐366) (⭐366)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [7. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [9. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
 *   [Community Archive](https://www.community-archive.org/) - Open Twitter Database and API with tools and resources for building on archived Twitter data.
 
-## [8. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [10. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Python / Symfony2
 
 *   [Zato](https://zato.io) - Platform for building server-side integrations, automations and API backends in Python.
 
-## [9. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [11. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [AI in Data Science: Uses, Roles, and Tools](https://www.scaler.com/blog/ai-in-data-science/)
 *   [Top 13 Data Science Programming Languages](https://www.appliedaicourse.com/blog/data-science-programming-languages/)
 
-## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Nonparametric Model
 
@@ -140,7 +153,7 @@ Free (Open Source)
 
 *   [JARVIS-1: Open-World Multi-Task Agents With Memory-Augmented Multimodal Language Models](https://ieeexplore.ieee.org/abstract/document/10778628) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***. \[[All Versions](https://scholar.google.com/scholar?cluster=12845806504666245406)]. Achieving human-like planning and control with multimodal observations in an open world is a key milestone for more functional generalist agents. Existing approaches can handle certain long-horizon tasks in an open world. However, they still struggle when the number of open-world tasks could potentially be infinite and lack the capability to progressively enhance task completion as game time progresses. This work introduces JARVIS-1, an open-world agent that can perceive multimodal input (visual observations and human instructions), generate sophisticated plans, and perform embodied control, all within the popular yet challenging open-world Minecraft universe. Specifically, the authors develop JARVIS-1 on top of pre-trained multimodal language models, which map visual observations and textual instructions to plans. The plans will be ultimately dispatched to the goal-conditioned controllers. JARVIS-1 is outfitted with a multimodal memory, which facilitates planning using both pre-trained knowledge and its actual game survival experiences. JARVIS-1 is the existing most general agent in Minecraft, capable of completing over 200 different tasks using control and observation space similar to humans.
 
-## [11. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [13. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### IO / Joystick
 
@@ -150,13 +163,13 @@ Free (Open Source)
 
 *   [micropg\_superlite (⭐0)](https://github.com/TimonW-Dev/micropg_superlite) - The lightest PostgreSQL database driver for micropython based on micropg\_lite/micropg, but has even stronger restrictions in functionality and focuses only on the absolutely necessary functions.
 
-## [12. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [14. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Python
 
 *   [pathpy](https://www.pathpy.net/) - Analysis of time series data on networks using higher-order and multi-order graphical models.
 
-## [13. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [15. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Hosted Bitcoin Payment Processors / Non-Custodial
 
@@ -242,7 +255,7 @@ Free (Open Source)
 
 
 
-## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [16. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -300,7 +313,11 @@ Free (Open Source)
 
 *   [BroadcastChannel (⭐1.5k)](https://github.com/ccbikai/BroadcastChannel): Turn your Telegram Channel to a MicroBlog
 
-## [15. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [17. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+
+### Tools
+
+*   [Ansible Template Playground](https://tech-playground.com/playgrounds/ansible-template/) - Online playground for running, testing and sharing Ansible templates.
 
 ### Blog posts and opinions
 
@@ -310,7 +327,7 @@ Free (Open Source)
 
 *   [Ansible Lockdown](https://github.com/ansible-lockdown) - Ansible content to assist in both auditing and remediating against [CIS](https://www.cisecurity.org/#/) or [STIG](https://public.cyber.mil/stigs/) baseline compliance for OS's and Applications.
 
-## [16. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [18. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Starbucks Style Guide](https://creative.starbucks.com)
 
@@ -324,25 +341,25 @@ Free (Open Source)
 
 
 
-## [17. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [19. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### PHP / React
 
 *   [jerowork/graphql-schema-builder (⭐1)](https://github.com/jerowork/graphql-attribute-schema) - Easily build your GraphQL schema for webonyx/graphql-php using PHP attributes instead of large configuration arrays.
 
-## [18. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [20. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Blockchain Explorers
 
 *   [AlgoSurf](https://algo.surf/) - Algorand Network Explorer (supports LocalNet in `localhost`).
 
-## [19. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Stream Processing
 
 *   [go-etl (⭐130)](https://github.com/Breeze0806/go-etl) - A lightweight toolkit for data source extraction, transformation, and loading (ETL).
 
-## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [22. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Design Tools
 
@@ -356,7 +373,7 @@ Free (Open Source)
 
 *   [Setapp](https://setapp.sjv.io/c/6018600/343321/5114) - The best free and paid apps (like CleanShot, Bartender, Paste, TablePlus, etc.) in one suite for only 10$/month!
 
-## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [23. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### File Explorer / Diagnostics
 
@@ -370,19 +387,19 @@ Free (Open Source)
 
 *   [Yu-Leo/blame-column.nvim (⭐6)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
 
-## [22. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [24. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Talks / Golang - Community
 
 *   [Accelerating Generative AI App Development with Flutter & Firebase Genkit](https://speakerdeck.com/coborinai/accelerating-generative-ai-app-development-with-flutter-and-firebase-genkit) - Slides from a presentation at FlutterGakkai, a Flutter conference in Japan, showcasing how to integrate Firebase Genkit with Flutter for rapid generative AI app development.
 
-## [23. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [25. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### JavaScript
 
 *   [ImprovedTube (⭐3.6k)](https://github.com/code-charity/youtube) *(label: good first issue)* <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 
-## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Self-hosting Solutions
 
@@ -396,7 +413,7 @@ Free (Open Source)
 
 *   [Uptime Kuma](https://uptime.kuma.pet/) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet), [Source Code (⭐64k)](https://github.com/louislam/uptime-kuma)) `MIT` `Docker/Nodejs`
 
-## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### IDE and Code Editing
 
@@ -406,13 +423,13 @@ Free (Open Source)
 
 *   [Django-tutorial.dev](https://django-tutorial.dev) - Free online guides for learning Django as their first framework & gives free dofollow backlink to articles written by users.
 
-## [26. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [28. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Time Traveler](https://lemunde.itch.io/ironsworn-starforged-time-traveler) - Tools for working with time travel for Starforged
 
-## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -443,6 +460,10 @@ Free (Open Source)
 
 *   [ng-fast-toast (⭐2)](https://github.com/rperezll/ng-fast-toast) - A fast and lightweight library for Angular 18+, also compatible with Ionic projects (based on Angular), that makes handling alerts and notifications effortless. Styled with Tailwind, but built for production with a fully agnostic approach using Shadow DOM.
 
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-navigate-back (⭐2)](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
+
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-scroll-top (⭐2)](https://github.com/ProAngular/ngx-scroll-top) - Configurable, lightweight back to top button for Angular projects.
@@ -464,7 +485,7 @@ Free (Open Source)
 
 *   [type-fest (⭐15k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
 
-## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -482,7 +503,7 @@ Free (Open Source)
 *   [ohelm (⭐0)](https://github.com/devopsguy/ohelm-zsh-theme) - Includes decorators for current directory, `git` status, exitatus of last command and `kubectl` context.
 *   [ohh IP (⭐0)](https://github.com/Ohh-Raven/ohh_IP) - A theme designed for CTFs. Includes decorators for ip address and `git` status.
 
-## [29. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [31. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Community providers
 

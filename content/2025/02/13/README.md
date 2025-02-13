@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 13, 2025
 
-6 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,15 +10,34 @@
 
 ### Examples
 
-*   [JustArchiNET/ArchiSteamFarm/ (⭐12k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
+*   [JustArchiNET/ArchiSteamFarm (⭐12k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 
-## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [2. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+
+### Tools
+
+*   [Ansible Template Playground](https://tech-playground.com/playgrounds/ansible-template/) - Online playground for running, testing and sharing Ansible templates.
+
+## [3. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+
+### Software Engineering
+
+*   [Falsehoods about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/) - Null pointers are even more cursed than pointers in general, and provenance already makes pointers quite complicated.
+*   [Falsehoods about Digital Object Identifiers (DOIs)](https://pardalotus.tech/posts/2024-10-02-falsehoods-programmers-believe-about-dois/) - False conceptions about the identifiers that are used to identify and link research outputs (and a lot of other things).
+
+## [4. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+
+### Image Optimizers / Meetups
+
+*   [Optimizt (⭐102)](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
+
+## [5. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars-config-meta (⭐1)](https://github.com/lmmx/polars-config-meta) - Polars plugin for persistent DataFrame-level metadata by [@lmmx](https://github.com/lmmx).
 
-## [3. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
+## [6. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
 
 ### Hosted Bitcoin Payment Processors / Custodial
 
@@ -62,7 +81,7 @@
 
 
 
-## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Self-hosting Solutions
 
@@ -72,7 +91,7 @@
 
 *   [WebHook Tester (⭐207)](https://github.com/tarampampam/webhook-tester) - Powerful tool for testing WebHooks and more. `MIT` `Docker/Go/deb/K8S`
 
-## [5. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
+## [8. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
 ### Retro
 
@@ -94,7 +113,7 @@ Free (Open Source)
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen)
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -107,6 +126,10 @@ Free (Open Source)
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [lucide (⭐12k)](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an official [package](https://lucide.dev/guide/packages/lucide-angular).
+
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-navigate-back (⭐2)](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

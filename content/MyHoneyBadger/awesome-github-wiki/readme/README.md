@@ -36,7 +36,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 *   [FortAwesome/Font-Awesome (⭐75k)](https://github.com/FortAwesome/Font-Awesome/wiki)
 *   [uber/NullAway (⭐3.7k)](https://github.com/uber/NullAway/wiki)
 *   [internetarchive/openlibrary (⭐5.4k)](https://github.com/internetarchive/openlibrary/wiki)
-*   [JustArchiNET/ArchiSteamFarm/ (⭐12k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
+*   [JustArchiNET/ArchiSteamFarm (⭐12k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 
 ## Useful links with tips & tricks
 

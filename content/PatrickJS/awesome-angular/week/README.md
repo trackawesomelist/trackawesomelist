@@ -37,6 +37,10 @@
 
 *   [ng-fast-toast (⭐2)](https://github.com/rperezll/ng-fast-toast) - A fast and lightweight library for Angular 18+, also compatible with Ionic projects (based on Angular), that makes handling alerts and notifications effortless. Styled with Tailwind, but built for production with a fully agnostic approach using Shadow DOM.
 
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-navigate-back (⭐2)](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
+
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-scroll-top (⭐2)](https://github.com/ProAngular/ngx-scroll-top) - Configurable, lightweight back to top button for Angular projects.
@@ -275,13 +279,9 @@
 
 *   [lbx-jwt (⭐3)](https://github.com/Service-Soft/lbx-jwt) - Provides JWT authentication for loopback applications. Includes storing roles inside tokens and handling refreshing. Built-in reuse detection.
 
-### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [storybook-addon-angular-router (⭐11)](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
-
 ### Documentation tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-component-hierarchy-visualizer (⭐3)](https://github.com/timonkrebs/ng-component-hierarchy-visualizer) - A non invasive tool to generate Mermaid representations of your Angular component hierarchy representation based on the route configurations
+*   [ng-component-hierarchy-visualizer (⭐3)](https://github.com/timonkrebs/ng-component-hierarchy-visualizer) - A non invasive tool to generate Mermaid representations of your Angular component hierarchy representation based on the route configurations.
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -329,6 +329,10 @@
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-qrcode (⭐1)](https://github.com/GNURub/ngx-qrcode) - A simple Angular 18+ component to generate QR codes. Based on [react-native-qrcode-skia (⭐238)](https://github.com/enzomanuelmangano/react-native-qrcode-skia) library.
+
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [storybook-addon-angular-router (⭐11)](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
 
 ### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -597,10 +601,6 @@
 
 *   [ngx-tinymce (⭐80)](https://github.com/cipchk/ngx-tinymce) - [Tinymce](https://www.tiny.cloud/) components built with Angular.
 
-### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-hover-preload (⭐171)](https://github.com/mgechev/ngx-hover-preload) - Preload Angular lazy-loaded routes on mouse over.
-
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-kit (⭐3)](https://github.com/js-smart/ng-kit) - Reusable Angular components built with Angular Material and Bootstrap 5.x, Utility classes/functions for Date, Form and String operations.
@@ -618,13 +618,14 @@
 
 *   [ngx-scanner-qrcode (⭐57)](https://github.com/id1945/ngx-scanner-qrcode) - This library is built to provide a solution scanner QR code. This library takes in raw images and will locate, extract, and parse any QR code found within.
 
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-hover-preload (⭐171)](https://github.com/mgechev/ngx-hover-preload) - Preload Angular lazy-loaded routes on mouse over.
+*   [ngx-route-manager (⭐2)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
+
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [SmartNgRX (⭐10)](https://github.com/DaveMBush/SmartNgRX) - A library that hides most of NgRx from the developer for CRUD operations while still using NgRx under the hood and allowing you to use it with existing NgRx code.
-
-### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-route-manager (⭐2)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
 
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
@@ -692,6 +693,10 @@
 
 *   [ssv.ngx (⭐1)](https://github.com/sketch7/ssv.ngx) - Mono-repo of libraries from [sketch7](https://github.com/sketch7). [ngx.command (⭐1)](https://github.com/sketch7/ssv.ngx/tree/master/libs/ngx.command#readme) is a command pattern implementation for Angular. [ngx.ux (⭐1)](https://github.com/sketch7/ssv.ngx/blob/master/libs/ngx.ux/README.md) provides UX essentials and utilities for building apps.
 
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-back-button (⭐1)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
+
 ### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-crud (⭐21)](https://github.com/henryruhs/ngx-crud) - CRUD services in Angular with effortless aborting, caching and observing.
@@ -700,10 +705,6 @@
 ### UX Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-onboarding (⭐52)](https://github.com/rosen-group/ngx-onboarding) - This onboarding library enables you to integrate a tutorial seamlessly into your Angular application. This helps users to quickly and easily learn how to navigate and use your app, reducing the learning curve.
-
-### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-back-button (⭐1)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
@@ -773,7 +774,6 @@
 *   [ngx-app-version (⭐3)](https://github.com/Celtian/ngx-app-version) - Angular directive for writing version into DOM.
 *   [ngx-repeat (⭐3)](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
 *   [ngx-fixed-footer (⭐3)](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds fixed footer without overlap.
-*   [ngx-href (⭐2)](https://github.com/rbalet/ngx-href) - A directive that allows href to understand Angular's router while retaining its default functionality.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -810,6 +810,10 @@
 
 *   [up-window-angular (⭐4)](https://github.com/criar-art/up-window-angular) - An Angular library designed to create dynamic, customizable modals and window-based components for web applications.
 
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-href (⭐2)](https://github.com/rbalet/ngx-href) - A directive that allows href to understand Angular's router while retaining its default functionality.
+
 ### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng (⭐5)](https://github.com/bitfiber/ng) - An Angular-specific extension of [@bitfiber/rx (⭐3)](https://github.com/bitfiber/rx) built on top of RxJS, designed to manage reactive state, asynchronous workflows, and events in Angular applications. It provides a structured approach to handling complex data flows using emitters, states, groups, and stores, allowing seamless integration of various reactive sources like emitters, states, and observables.
@@ -834,8 +838,8 @@
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-translate-routes (⭐4)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 *   [ngx-translate-lint (⭐34)](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
+*   [ngx-translate-routes (⭐4)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 
 ### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -884,14 +888,6 @@
 
 *   [docker-ng-cli-karma (⭐59)](https://github.com/trion-development/docker-ng-cli-karma) - Angular docker image capable of running Karma with Chrome.
 
-### Breadcrumbs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [olt-ngx-breadcrumbs (⭐1)](https://github.com/OuterlimitsTech/olt-ngx-breadcrumbs) - Angular Library for generating breadcrumbs based on the routing state.
-*   [ngx-breadcrumpy (⭐6)](https://github.com/dirkluijk/ngx-breadcrumpy) - An awesome library to easily add breadcrumbs to your Angular application.
-*   [ngx-crumbs (⭐7)](https://github.com/henczi/ngx-crumbs) - An ultimate breadcrumbs service for Angular.
-*   [breadcrumbs (⭐1)](https://github.com/ez-ng/breadcrumbs) - An angular component that automatically lists breadcrumbs based on the currently routed components.
-*   [ngx-breadcrumb (⭐2)](https://github.com/code-workers-io/ngx-breadcrumb) - A highly customizable and flexible breadcrumb component for Angular.
-
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-graph (⭐952)](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular.
@@ -926,6 +922,14 @@
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-french-toast (⭐4)](https://github.com/thiagopg84/ngx-french-toast) - A lightweight and customizable toast library for your Angular 14+ applications. Show informative toast messages to enhance user experience and provide important feedback or collect data with dynamically imported components.
+
+### Breadcrumbs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [olt-ngx-breadcrumbs (⭐1)](https://github.com/OuterlimitsTech/olt-ngx-breadcrumbs) - Angular Library for generating breadcrumbs based on the routing state.
+*   [ngx-breadcrumpy (⭐6)](https://github.com/dirkluijk/ngx-breadcrumpy) - An awesome library to easily add breadcrumbs to your Angular application.
+*   [ngx-crumbs (⭐7)](https://github.com/henczi/ngx-crumbs) - An ultimate breadcrumbs service for Angular.
+*   [breadcrumbs (⭐1)](https://github.com/ez-ng/breadcrumbs) - An angular component that automatically lists breadcrumbs based on the currently routed components.
+*   [ngx-breadcrumb (⭐2)](https://github.com/code-workers-io/ngx-breadcrumb) - A highly customizable and flexible breadcrumb component for Angular.
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2323,6 +2327,10 @@
 
 *   [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - With [onesignal-ngx (⭐5)](https://github.com/OneSignal/onesignal-ngx), you can integrate OneSignal, world's leader for Mobile Push Notifications, Web Push, and In-App Messaging, into your Angular app.
 
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@ui-router/angular (⭐353)](https://github.com/ui-router/angular) - [UI-Router](https://ui-router.github.io) for Angular: State-based routing for Angular.
+
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-scrollbar (⭐629)](https://github.com/MurhafSousli/ngx-scrollbar) - Custom overlay-scrollbars with native scrolling mechanism.
@@ -2334,7 +2342,6 @@
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng2csv (⭐6)](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
-*   [@ui-router/angular (⭐353)](https://github.com/ui-router/angular) - [UI-Router](https://ui-router.github.io) for Angular: State-based routing for Angular.
 *   [ngx-csv-parser (⭐25)](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
 
 ## [May 20 - May 26, 2024](/content/2024/21/README.md)
@@ -2419,7 +2426,6 @@
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngxd (⭐322)](https://github.com/Indigosoft/ngxd) - NgComponentOutlet + Data-Binding + Full Lifecycle = NgxComponentOutlet for Angular 7+.
-*   [ngx-quicklink (⭐758)](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2489,6 +2495,10 @@
 *   [ts-cacheable (⭐342)](https://github.com/angelnikolov/ts-cacheable) - A popular platform-agnostic caching library.
 *   [ngxtension-platform (⭐649)](https://github.com/ngxtension/ngxtension-platform) - Utilities for Angular.
 *   [spartan (⭐1.6k)](https://github.com/goetzrobin/spartan) - Cutting-edge tools powering Angular full-stack development.
+
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-quicklink (⭐758)](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -3503,10 +3513,6 @@
 
 *   [angular2-jwt (⭐2.6k)](https://github.com/auth0/angular2-jwt) - Library for sending authenticated HTTP requests and decoding JWTs.
 
-### Breadcrumbs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [xng-breadcrumb (⭐242)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
-
 ### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-calendar (⭐2.7k)](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for angular 6.0+ that can display events on a month, week or day view.
@@ -3570,6 +3576,10 @@
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-toastr (⭐2.5k)](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr.
+
+### Breadcrumbs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [xng-breadcrumb (⭐242)](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
