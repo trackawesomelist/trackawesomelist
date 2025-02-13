@@ -1,24 +1,58 @@
 # Awesome List Updates on Feb 17 - Feb 23, 2025
 
-26 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [1. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+
+### Examples
+
+*   [JustArchiNET/ArchiSteamFarm/ (⭐12k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars-config-meta (⭐1)](https://github.com/lmmx/polars-config-meta) - Polars plugin for persistent DataFrame-level metadata by [@lmmx](https://github.com/lmmx).
+
+## [3. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+
+### Retro
+
+### SwiftBubble
+
+> Recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble)
+
+Free (Open Source)
+
+### Graphics
+
+### octoscreen
+
+> An OS X screensaver with octicons
+
+Free (Open Source)
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen)
+
+## [4. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Plugins
 
 *   💼 [tailwindcss-px-to-viewport (⭐1)](https://github.com/the-lemonboy/tailwindcss-px-to-viewport) - Adds utilities to automatically convert px to vw / vh.
 
-## [2. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [5. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 📁 Recipes / 🌱 Third Party
 
 *   [paundraP/golang-starter-template (⭐1)](https://github.com/paundraP/Go-Starter-Template) - Golang REST API with authentication, authorization, and integrated payment gateway support.
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -77,26 +111,26 @@
 *   [NDJSON (⭐706) (⭐706)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐366) (⭐366)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [7. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
 *   [Community Archive](https://www.community-archive.org/) - Open Twitter Database and API with tools and resources for building on archived Twitter data.
 
-## [5. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [8. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Python / Symfony2
 
 *   [Zato](https://zato.io) - Platform for building server-side integrations, automations and API backends in Python.
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [9. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [AI in Data Science: Uses, Roles, and Tools](https://www.scaler.com/blog/ai-in-data-science/)
 *   [Top 13 Data Science Programming Languages](https://www.appliedaicourse.com/blog/data-science-programming-languages/)
 
-## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Nonparametric Model
 
@@ -106,7 +140,7 @@
 
 *   [JARVIS-1: Open-World Multi-Task Agents With Memory-Augmented Multimodal Language Models](https://ieeexplore.ieee.org/abstract/document/10778628) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***. \[[All Versions](https://scholar.google.com/scholar?cluster=12845806504666245406)]. Achieving human-like planning and control with multimodal observations in an open world is a key milestone for more functional generalist agents. Existing approaches can handle certain long-horizon tasks in an open world. However, they still struggle when the number of open-world tasks could potentially be infinite and lack the capability to progressively enhance task completion as game time progresses. This work introduces JARVIS-1, an open-world agent that can perceive multimodal input (visual observations and human instructions), generate sophisticated plans, and perform embodied control, all within the popular yet challenging open-world Minecraft universe. Specifically, the authors develop JARVIS-1 on top of pre-trained multimodal language models, which map visual observations and textual instructions to plans. The plans will be ultimately dispatched to the goal-conditioned controllers. JARVIS-1 is outfitted with a multimodal memory, which facilitates planning using both pre-trained knowledge and its actual game survival experiences. JARVIS-1 is the existing most general agent in Minecraft, capable of completing over 200 different tasks using control and observation space similar to humans.
 
-## [8. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [11. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### IO / Joystick
 
@@ -116,13 +150,13 @@
 
 *   [micropg\_superlite (⭐0)](https://github.com/TimonW-Dev/micropg_superlite) - The lightest PostgreSQL database driver for micropython based on micropg\_lite/micropg, but has even stronger restrictions in functionality and focuses only on the absolutely necessary functions.
 
-## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [12. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Python
 
 *   [pathpy](https://www.pathpy.net/) - Analysis of time series data on networks using higher-order and multi-order graphical models.
 
-## [10. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
+## [13. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md)
 
 ### Hosted Bitcoin Payment Processors / Non-Custodial
 
@@ -168,8 +202,47 @@
   Requirements: Requires [basic business info, documents, identity verifications of owners and operators](https://strike.me/faq/how-do-i-sign-up-for-a-strike-business-account/).
 
 
+- Processor: [Sheepy](https://www.sheepy.com/)
 
-## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+  Fees: 1% + $0.25
+
+  Lightning: No
+
+  Directly to Your Wallet: No
+
+  Conversion to Fiat: Yes
+
+  Requirements: Requires [KYB documents](https://www.sheepy.com/faq/what-documents-are-required-to-verify-my-merchant-account)
+
+
+- Processor: [ALFAcoins](https://www.alfacoins.com/)
+
+  Fees: 0.99%
+
+  Lightning: No
+
+  Directly to Your Wallet: No
+
+  Conversion to Fiat: No
+
+  Requirements: Requires KYB documents
+
+
+- Processor: [Apirone](https://apirone.com/)
+
+  Fees: 1%
+
+  Lightning: No
+
+  Directly to Your Wallet: No
+
+  Conversion to Fiat: No
+
+  Requirements: No
+
+
+
+## [14. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### Apps / Outline Processor Markup Language
 
@@ -227,7 +300,7 @@
 
 *   [BroadcastChannel (⭐1.5k)](https://github.com/ccbikai/BroadcastChannel): Turn your Telegram Channel to a MicroBlog
 
-## [12. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
+## [15. Awesome Ansible](/content/ansible-community/awesome-ansible/week/README.md)
 
 ### Blog posts and opinions
 
@@ -237,7 +310,7 @@
 
 *   [Ansible Lockdown](https://github.com/ansible-lockdown) - Ansible content to assist in both auditing and remediating against [CIS](https://www.cisecurity.org/#/) or [STIG](https://public.cyber.mil/stigs/) baseline compliance for OS's and Applications.
 
-## [13. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [16. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Starbucks Style Guide](https://creative.starbucks.com)
 
@@ -251,25 +324,25 @@
 
 
 
-## [14. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [17. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### PHP / React
 
 *   [jerowork/graphql-schema-builder (⭐1)](https://github.com/jerowork/graphql-attribute-schema) - Easily build your GraphQL schema for webonyx/graphql-php using PHP attributes instead of large configuration arrays.
 
-## [15. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [18. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Blockchain Explorers
 
 *   [AlgoSurf](https://algo.surf/) - Algorand Network Explorer (supports LocalNet in `localhost`).
 
-## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [19. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Stream Processing
 
 *   [go-etl (⭐130)](https://github.com/Breeze0806/go-etl) - A lightweight toolkit for data source extraction, transformation, and loading (ETL).
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Design and Product / Design Tools
 
@@ -283,7 +356,7 @@
 
 *   [Setapp](https://setapp.sjv.io/c/6018600/343321/5114) - The best free and paid apps (like CleanShot, Bartender, Paste, TablePlus, etc.) in one suite for only 10$/month!
 
-## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### File Explorer / Diagnostics
 
@@ -297,25 +370,33 @@
 
 *   [Yu-Leo/blame-column.nvim (⭐6)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
 
-## [19. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [22. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Talks / Golang - Community
 
 *   [Accelerating Generative AI App Development with Flutter & Firebase Genkit](https://speakerdeck.com/coborinai/accelerating-generative-ai-app-development-with-flutter-and-firebase-genkit) - Slides from a presentation at FlutterGakkai, a Flutter conference in Japan, showcasing how to integrate Firebase Genkit with Flutter for rapid generative AI app development.
 
-## [20. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [23. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### JavaScript
 
 *   [ImprovedTube (⭐3.6k)](https://github.com/code-charity/youtube) *(label: good first issue)* <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 
-## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Self-hosting Solutions
+
+*   [Dropserver](https://dropserver.org) - An application platform for your personal web services. ([Source Code (⭐54)](https://github.com/teleclimber/Dropserver/)) `Apache-2.0` `Go/Deno`
+
+### Software / Software Development - Testing
+
+*   [WebHook Tester (⭐207)](https://github.com/tarampampam/webhook-tester) - Powerful tool for testing WebHooks and more. `MIT` `Docker/Go/deb/K8S`
 
 ### Software / Status / Uptime pages
 
 *   [Uptime Kuma](https://uptime.kuma.pet/) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet), [Source Code (⭐64k)](https://github.com/louislam/uptime-kuma)) `MIT` `Docker/Nodejs`
 
-## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### IDE and Code Editing
 
@@ -325,17 +406,25 @@
 
 *   [Django-tutorial.dev](https://django-tutorial.dev) - Free online guides for learning Django as their first framework & gives free dofollow backlink to articles written by users.
 
-## [23. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [26. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Time Traveler](https://lemunde.itch.io/ironsworn-starforged-time-traveler) - Tools for working with time travel for Starforged
 
-## [24. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Logto](https://logto.io/) - An open-source Auth0 alternative for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML open standards for authentication and authorization. This [quickstart](https://docs.logto.io/quick-starts/angular#prerequisites) can help you use Logto with Angular.
+
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [madge (⭐9.2k)](https://github.com/pahen/madge) - A developer tool for generating a visual graph of your module dependencies, finding circular dependencies, and giving you other useful info.
+
+### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-g11n (⭐1)](https://github.com/DSI-HUG/ngx-g11n) - Angular helpers for internationalizing and localizing your application.
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -345,6 +434,10 @@
 
 *   [pro-form (⭐2)](https://github.com/ProAngular/pro-form) - A predefined set of reactive and reusable form input components based on Angular Material.
 *   [ngx-forms (⭐6)](https://github.com/nncl/ngx-forms) - Collection of Angular form functions, that will help you build your applications.
+
+### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [lucide (⭐12k)](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an official [package](https://lucide.dev/guide/packages/lucide-angular).
 
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -363,7 +456,15 @@
 
 *   [ngx-gist (⭐2)](https://github.com/ProAngular/ngx-gist) - An Angular Material and highlightjs styled display box for GitHub gist and local code snippets.
 
-## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [eslint-plugin-rxjs-x (⭐21)](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) - A fork of [eslint-plugin-rxjs (⭐312)](https://github.com/cartant/eslint-plugin-rxjs) initially started to support the new ESLint flat config format that has since had numerous breaking changes and further improvements.
+
+### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [type-fest (⭐15k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
+
+## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -381,7 +482,7 @@
 *   [ohelm (⭐0)](https://github.com/devopsguy/ohelm-zsh-theme) - Includes decorators for current directory, `git` status, exitatus of last command and `kubectl` context.
 *   [ohh IP (⭐0)](https://github.com/Ohh-Raven/ohh_IP) - A theme designed for CTFs. Includes decorators for ip address and `git` status.
 
-## [26. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [29. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Community providers
 

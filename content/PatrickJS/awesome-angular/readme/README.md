@@ -600,6 +600,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-script-optimizer (⭐1)](https://github.com/Mohid123/ngx-script-optimizer) - A lightweight Angular library designed to supercharge your third-party script handling.
 *   [ngx-dev-toolbar (⭐6)](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
 *   [ngx-rename (⭐2)](https://github.com/Khumozin/ngx-rename) - This repository contains PowerShell and Bash scripts to rename an Angular project folder and update relevant files, such as angular.json, package.json, tsconfig.json, and other configuration files.
+*   [madge (⭐9.2k)](https://github.com/pahen/madge) - A developer tool for generating a visual graph of your module dependencies, finding circular dependencies, and giving you other useful info.
 
 #### Documentation tools
 
@@ -755,6 +756,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-signal-translate (⭐2)](https://github.com/adamcsk1/ngx-signal-translate) - A signal-driven translation service.
 *   [ngs-plural (⭐1)](https://github.com/andrei-shpileuski/ngs-plural) - A lightweight Angular library for handling pluralization in different languages using a pipe and a service. It simplifies the process of generating grammatically correct plural forms based on a numeric count and supports custom language rules.
 *   [ngx-translate-messageformat-compiler (⭐97)](https://github.com/lephyrus/ngx-translate-messageformat-compiler) - Compiler for `ngx-translate` that uses [messageformat.js (⭐1.7k)](https://github.com/messageformat/messageformat) to compile translations using ICU syntax for handling pluralization and gender.
+*   [ngx-g11n (⭐1)](https://github.com/DSI-HUG/ngx-g11n) - Angular helpers for internationalizing and localizing your application.
 
 #### Module Federation
 
@@ -1343,6 +1345,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [boringer-avatars (⭐137)](https://github.com/cmgriffing/boringer-avatars) - A fork from [boring-avatars (⭐5.8k)](https://github.com/boringdesigners/boring-avatars). This rewrites the base as Mitosis components and exports into multiple framework flavors including [Angular (⭐137)](https://github.com/cmgriffing/boringer-avatars/tree/main/packages/lib-angular).
 *   [Semantic icons (⭐2)](https://github.com/khalilou88/semantic-icons) - A collection of free and open source icons ready for use in your angular projects using the component attribute selector and the svg tag.
 *   [coolshapes (⭐5)](https://github.com/ngxpert/coolshapes) -  An Angular library aiming at allowing developers to use cool-looking abstract shapes with little grainy gradients from [coolshapes](https://coolshap.es/).
+*   [lucide (⭐12k)](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an official [package](https://lucide.dev/guide/packages/lucide-angular).
 
 #### Images
 
@@ -1873,6 +1876,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [rxjs-collection (⭐5)](https://github.com/henryruhs/rxjs-collection) - RxJS enhanced Array, Map, WeakMap, Set and WeakSet.
 *   [ng-rxjs-safe-subscribe (⭐3)](https://github.com/piotrekn/ng-rxjs-safe-subscribe) - Implementation of Angular's repeatable OnDestroy pattern.
 *   [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
+*   [eslint-plugin-rxjs-x (⭐21)](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) - A fork of [eslint-plugin-rxjs (⭐312)](https://github.com/cartant/eslint-plugin-rxjs) initially started to support the new ESLint flat config format that has since had numerous breaking changes and further improvements.
 
 #### TypeScript
 
@@ -1896,6 +1900,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [valibot (⭐6.9k)](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
 *   [ngx-exhaustive-check (⭐4)](https://github.com/soc221b/ngx-exhaustive-check) - Angular utility for ensuring exhaustive checks on TypeScript discriminated unions, enhancing type safety and reliability.
 *   [mutates (⭐18)](https://github.com/IKatsuba/mutates) - A powerful toolset for mutating the Abstract Syntax Tree (AST) of TypeScript files. It is a fork of [ng-morph (⭐157)](https://github.com/taiga-family/ng-morph), with a broader focus beyond Angular-specific transformations, allowing for extensive AST modifications in any TypeScript project.
+*   [type-fest (⭐15k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
 
 #### Other Lists
 

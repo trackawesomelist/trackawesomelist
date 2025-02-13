@@ -2,9 +2,31 @@
 
 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 4.1K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/agarrharr/awesome-macos-screensavers/week/README.md) / [Overview](/content/agarrharr/awesome-macos-screensavers/readme/README.md) ]
+
+## [Feb 13, 2025](/content/2025/02/13/README.md)
+
+### Retro
+
+### SwiftBubble
+
+> Recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble)
+
+Free (Open Source)
+
+### Graphics
+
+### octoscreen
+
+> An OS X screensaver with octicons
+
+Free (Open Source)
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen)
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
@@ -101,7 +123,7 @@ Free (Open Source)
 
 ## [May 13, 2020](/content/2020/05/13/README.md)
 
-### Retro
+### MusaicFM
 
 ### Fruit
 
@@ -289,7 +311,7 @@ Free
 
 ## [Jan 23, 2017](/content/2017/01/23/README.md)
 
-### Graphics
+### Developer
 
 ### Windows Kernel Panic
 

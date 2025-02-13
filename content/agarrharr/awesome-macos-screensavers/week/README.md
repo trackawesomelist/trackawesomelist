@@ -2,9 +2,31 @@
 
 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 4.1K · 🏷️ Miscellaneous
 
 [ [Daily](/content/agarrharr/awesome-macos-screensavers/README.md) / Weekly / [Overview](/content/agarrharr/awesome-macos-screensavers/readme/README.md) ]
+
+## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
+
+### Retro
+
+### SwiftBubble
+
+> Recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble)
+
+Free (Open Source)
+
+### Graphics
+
+### octoscreen
+
+> An OS X screensaver with octicons
+
+Free (Open Source)
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen)
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
@@ -101,7 +123,7 @@ Free (Open Source)
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
-### Retro
+### MusaicFM
 
 ### Fruit
 
@@ -285,7 +307,7 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-8-screen-saver/)
 
-### Graphics
+### Developer
 
 ### Windows Kernel Panic
 

@@ -16,12 +16,6 @@
 
 A curated list of awesome Bitcoin payment processors enabling merchants, businesses and nonprofits to accept Bitcoin payments.
 
-Why are they awesome?
-
-1.  They are either immune to financial censorship or they don't practice it.
-2.  They accept Bitcoin via native Bitcoin addresses and don't require wallets to use the [controversial payment protocol](https://blog.samouraiwallet.com/post/169222582782/bitpay-qr-codes-are-no-longer-valid-important).
-3.  They don't [block payments by IPs/locations](https://twitter.com/alex_kaul/status/1090211252331208705).
-
 ## Contents
 
 *   [Self-Hosted Bitcoin Payment Processors](#self-hosted-bitcoin-payment-processors)
@@ -34,22 +28,24 @@ Why are they awesome?
 
 Self-Hosted payment processors run on your server and provide you with a full control over the entire payment process and funds. There's no third-party involvement - that significantly increases the censorship-resistance, privacy, and security for you and your customers.
 
-| Processor                                                              |        Fees        | Lightning | Directly to Your Wallet |                                                                           Conversion to Fiat                                                                           | Requirements                                                 |
-| ---------------------------------------------------------------------- | :----------------: | :-------: | :---------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------ |
-| [BTCPay Server](https://btcpayserver.org/)                             |       No fees      |    Yes    |           Yes           | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/) | 2 GB RAM, 80 GB Storage, Docker                              |
-| [One Time Address (⭐77)](https://github.com/alexk111/One-Time-Address) |       No fees      |     No    |           Yes           |                                                                                   No                                                                                   | NodeJS                                                       |
-| [CryptoWoo](https://www.cryptowoo.com/)                                | $34 - $99 per year |     No    |           Yes           |                                                                                   No                                                                                   | PHP 5.6+, Wordpress 4.3+, WooCommerce 3.0+                   |
-| [BitcartCC](https://bitcartcc.com)                                     |       No fees      |    Yes    |           Yes           |                                                                                   No                                                                                   | 1 GB RAM, 10 GB Storage, Docker                              |
-| [LnMe (⭐170)](https://github.com/bumi/lnme)                            |       No fees      |    Yes    |           Yes           |                                                                                   No                                                                                   | LND node                                                     |
-| [SatSale (⭐242)](https://github.com/SatSale/SatSale)                   |       No fees      |    Yes    |           Yes           |          Weakhands: [swap to USDT on Liquid (⭐242)](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml#L101), no-KYC         | Python. Bitcoin node, Lightning node & WooCommerce optional. |
-| [Keagate (⭐171)](https://github.com/dilan-dio4/Keagate)                |       No fees      |     No    |           Yes           |                                                                                   No                                                                                   | 1 GB RAM, Unix                                               |
-| [LNURL Daemon (⭐18)](https://github.com/yanascz/lnurld)                |       No fees      |    Yes    |           Yes           |                                                                                   No                                                                                   | LND node                                                     |
+| Processor                                                              |        Fees        | Lightning | Directly to Your Wallet |                                                                          Conversion to Fiat                                                                          | Requirements                                                 |
+| ---------------------------------------------------------------------- | :----------------: | :-------: | :---------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------ |
+| [BTCPay Server](https://btcpayserver.org/)                             |       No fees      |    Yes    |           Yes           | Via [Strike plugin (⭐12)](https://github.com/Marfusios/strike-btcpayserver-plugin) or [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/) | 2 GB RAM, 80 GB Storage, Docker                              |
+| [One Time Address (⭐77)](https://github.com/alexk111/One-Time-Address) |       No fees      |     No    |           Yes           |                                                                                  No                                                                                  | NodeJS                                                       |
+| [CryptoWoo](https://www.cryptowoo.com/)                                | $34 - $99 per year |     No    |           Yes           |                                                                                  No                                                                                  | PHP 5.6+, Wordpress 4.3+, WooCommerce 3.0+                   |
+| [BitcartCC](https://bitcartcc.com)                                     |       No fees      |    Yes    |           Yes           |                                                                                  No                                                                                  | 1 GB RAM, 10 GB Storage, Docker                              |
+| [LnMe (⭐170)](https://github.com/bumi/lnme)                            |       No fees      |    Yes    |           Yes           |                                                                                  No                                                                                  | LND node                                                     |
+| [SatSale (⭐242)](https://github.com/SatSale/SatSale)                   |       No fees      |    Yes    |           Yes           |         Weakhands: [swap to USDT on Liquid (⭐242)](https://github.com/SatSale/SatSale/blob/471c8c03bbc269df1f322f6484b6e7a7364e5b34/config.toml#L101), no-KYC        | Python. Bitcoin node, Lightning node & WooCommerce optional. |
+| [Keagate (⭐171)](https://github.com/dilan-dio4/Keagate)                |       No fees      |     No    |           Yes           |                                                                                  No                                                                                  | 1 GB RAM, Unix                                               |
+| [LNURL Daemon (⭐18)](https://github.com/yanascz/lnurld)                |       No fees      |    Yes    |           Yes           |                                                                                  No                                                                                  | LND node                                                     |
 
 ## Hosted Bitcoin Payment Processors
 
 Hosted payment processors run on someone else's server. This simplifies the initial setup process, but reduces the amount of control you have over the payment process.
 
 ### Non-Custodial
+
+These processors use your wallets for receiving payments.
 
 | Processor                                             |      Fees     | Lightning | Directly to Your Wallet |                                  Conversion to Fiat                                 | Requirements |
 | ----------------------------------------------------- | :-----------: | :-------: | :---------------------: | :---------------------------------------------------------------------------------: | ------------ |
@@ -61,7 +57,13 @@ Hosted payment processors run on someone else's server. This simplifies the init
 
 ### Custodial
 
-⚠ The following processors use their own wallets for receiving payments. They not only collect data about payments, they have full control over the funds.
+The following processors use their own wallets, not yours, for receiving payments.
+
+⚠ They not only collect data about payments, they have full control over the funds. There are many risks associated with custodians, which might end up with lost/locked funds.
+
+⚠ Most of them have KYB/KYC/AML requirements, which poses a serious threat to your and your customers' privacy.
+
+⚠ They have country-based restrictions for merchants and merchants' customers.
 
 | Processor                                     |                                                               Fees                                                               | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements                                                                                                                                                      |
 | --------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------: | :-------: | :---------------------: | :----------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,6 +77,9 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [NOWPayments](https://nowpayments.io/)        |                                                               ≤0.5%                                                              |     No    |            No           |         No         | KYC/AML procedure applied to certain clients, wallet addresses and select assets.                                                                                 |
 | [ElenPAY](https://elenpay.tech)               |                                                                ≤1%                                                               |    Yes    |           Yes           |      No (Soon)     | Low KYC                                                                                                                                                           |
 | [Speed](https://tryspeed.com/)                |                                                                1%                                                                |    Yes    |            No           |         No         | No                                                                                                                                                                |
+| [Sheepy](https://www.sheepy.com/)             |                                                            1% + $0.25                                                            |     No    |            No           |         Yes        | Requires [KYB documents](https://www.sheepy.com/faq/what-documents-are-required-to-verify-my-merchant-account)                                                    |
+| [ALFAcoins](https://www.alfacoins.com/)       |                                                               0.99%                                                              |     No    |            No           |         No         | Requires KYB documents                                                                                                                                            |
+| [Apirone](https://apirone.com/)               |                                                                1%                                                                |     No    |            No           |         No         | No                                                                                                                                                                |
 
 ## Backers 💝
 

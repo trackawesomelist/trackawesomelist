@@ -52,6 +52,45 @@
   Requirements: Requires [basic business info, documents, identity verifications of owners and operators](https://strike.me/faq/how-do-i-sign-up-for-a-strike-business-account/).
 
 
+- Processor: [Sheepy](https://www.sheepy.com/)
+
+  Fees: 1% + $0.25
+
+  Lightning: No
+
+  Directly to Your Wallet: No
+
+  Conversion to Fiat: Yes
+
+  Requirements: Requires [KYB documents](https://www.sheepy.com/faq/what-documents-are-required-to-verify-my-merchant-account)
+
+
+- Processor: [ALFAcoins](https://www.alfacoins.com/)
+
+  Fees: 0.99%
+
+  Lightning: No
+
+  Directly to Your Wallet: No
+
+  Conversion to Fiat: No
+
+  Requirements: Requires KYB documents
+
+
+- Processor: [Apirone](https://apirone.com/)
+
+  Fees: 1%
+
+  Lightning: No
+
+  Directly to Your Wallet: No
+
+  Conversion to Fiat: No
+
+  Requirements: No
+
+
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
@@ -313,7 +352,7 @@
 
   Directly to Your Wallet: Yes
 
-  Conversion to Fiat: Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/)
+  Conversion to Fiat: Via [Strike plugin (⭐12)](https://github.com/Marfusios/strike-btcpayserver-plugin) or [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/)
 
   Requirements: 2 GB RAM, 80 GB Storage, Docker
 

@@ -6,6 +6,50 @@
 
 [ Daily / [Weekly](/content/alexk111/awesome-bitcoin-payment-processors/week/README.md) / [Overview](/content/alexk111/awesome-bitcoin-payment-processors/readme/README.md) ]
 
+## [Feb 13, 2025](/content/2025/02/13/README.md)
+
+### Hosted Bitcoin Payment Processors / Custodial
+
+- Processor: [Sheepy](https://www.sheepy.com/)
+
+  Fees: 1% + $0.25
+
+  Lightning: No
+
+  Directly to Your Wallet: No
+
+  Conversion to Fiat: Yes
+
+  Requirements: Requires [KYB documents](https://www.sheepy.com/faq/what-documents-are-required-to-verify-my-merchant-account)
+
+
+- Processor: [ALFAcoins](https://www.alfacoins.com/)
+
+  Fees: 0.99%
+
+  Lightning: No
+
+  Directly to Your Wallet: No
+
+  Conversion to Fiat: No
+
+  Requirements: Requires KYB documents
+
+
+- Processor: [Apirone](https://apirone.com/)
+
+  Fees: 1%
+
+  Lightning: No
+
+  Directly to Your Wallet: No
+
+  Conversion to Fiat: No
+
+  Requirements: No
+
+
+
 ## [Feb 11, 2025](/content/2025/02/11/README.md)
 
 ### Hosted Bitcoin Payment Processors / Non-Custodial
@@ -315,7 +359,7 @@
 
   Directly to Your Wallet: Yes
 
-  Conversion to Fiat: Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/)
+  Conversion to Fiat: Via [Strike plugin (⭐12)](https://github.com/Marfusios/strike-btcpayserver-plugin) or [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/)
 
   Requirements: 2 GB RAM, 80 GB Storage, Docker
 

@@ -8,6 +8,14 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
+### Software / Self-hosting Solutions
+
+*   [Dropserver](https://dropserver.org) - An application platform for your personal web services. ([Source Code (⭐54)](https://github.com/teleclimber/Dropserver/)) `Apache-2.0` `Go/Deno`
+
+### Software / Software Development - Testing
+
+*   [WebHook Tester (⭐207)](https://github.com/tarampampam/webhook-tester) - Powerful tool for testing WebHooks and more. `MIT` `Docker/Go/deb/K8S`
+
 ### Software / Status / Uptime pages
 
 *   [Uptime Kuma](https://uptime.kuma.pet/) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet), [Source Code (⭐64k)](https://github.com/louislam/uptime-kuma)) `MIT` `Docker/Nodejs`
@@ -1415,7 +1423,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Money, Budgeting & Management
 
-*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It supports synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐3.4k)](https://github.com/actualbudget/actual-server)) `MIT` `Nodejs/Docker`
+*   [Actual](https://actualbudget.github.io/docs/) - Actual is a local-first personal finance tool based on zero-sum budgeting. It supports synchronization across devices, custom rules, manual transaction importing (from QIF, OFX, and QFX files), and optional automatic synchronization with many banks. ([Source Code (⭐17k)](https://github.com/actualbudget/actual)) `MIT` `Nodejs/Docker`
 
 ## [Mar 27 - Apr 02, 2023](/content/2023/13/README.md)
 

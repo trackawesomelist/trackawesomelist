@@ -2,9 +2,15 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 292 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 307 · 🏷️ Miscellaneous
 
 [ [Daily](/content/MyHoneyBadger/awesome-github-wiki/README.md) / Weekly / [Overview](/content/MyHoneyBadger/awesome-github-wiki/readme/README.md) ]
+
+## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
+
+### Examples
+
+*   [JustArchiNET/ArchiSteamFarm/ (⭐12k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 
 ## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
 
@@ -52,7 +58,7 @@
 
 ### Examples
 
-*   [internetarchive/openlibrary (⭐5.3k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐5.4k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## [Sep 25 - Oct 01, 2023](/content/2023/39/README.md)
 
@@ -64,7 +70,7 @@
 
 ### Examples
 
-*   [hyperledger/cacti (⭐348)](https://github.com/hyperledger/cacti/wiki)
+*   [hyperledger/cacti (⭐355)](https://github.com/hyperledger/cacti/wiki)
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
@@ -152,7 +158,7 @@
 
 ### Examples
 
-*   [aws/aws-parallelcluster (⭐849)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [aws/aws-parallelcluster (⭐853)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
@@ -181,7 +187,7 @@
 
 ### Examples
 
-*   [FortAwesome/Font-Awesome (⭐74k)](https://github.com/FortAwesome/Font-Awesome/wiki)
+*   [FortAwesome/Font-Awesome (⭐75k)](https://github.com/FortAwesome/Font-Awesome/wiki)
 
 ### Useful links with tips & tricks
 
@@ -191,7 +197,7 @@
 
 ### Examples
 
-*   [guard/guard (⭐6.2k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
+*   [guard/guard (⭐6.3k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 *   [google/guava (⭐50k)](https://github.com/google/guava/wiki)
 *   [facebook/react-native (⭐120k)](https://github.com/facebook/react-native/wiki)
 
