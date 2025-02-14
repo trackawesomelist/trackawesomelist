@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 14, 2025](/content/2025/02/14/README.md)
+
+### Applications / Utilities
+
+*   [Tail Tales (⭐3)](https://github.com/davidmoreno/tailtales) - A TUI log viewer with logfmt support. [![Crate](https://img.shields.io/crates/v/tailtales.svg?logo=rust)](https://crates.io/crates/tailtales)
+
+### Development tools / Static analysis
+
+*   [MIRAI (⭐116)](https://github.com/endorlabs/mirai) - an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/endorlabs/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/endorlabs/mirai/actions/workflows/rust.yml)
+
 ## [Feb 09, 2025](/content/2025/02/09/README.md)
 
 ### Applications
@@ -1509,10 +1519,6 @@ A curated list of Rust code and resources.
 
 ## [Mar 27, 2023](/content/2023/03/27/README.md)
 
-### Applications / Blockchain
-
-*   [madara (⭐537)](https://github.com/keep-starknet-strange/madara) - Kaioshin is a ⚡ blazing fast ⚡ Starknet sequencer, based on substrate. [![GitHub Workflow Status](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml/badge.svg)](https://github.com/keep-starknet-strange/madara/actions/workflows/test.yml)
-
 ### Applications / System tools
 
 *   [nushell/nushell (⭐34k)](https://github.com/nushell/nushell) - A new type of shell
@@ -2018,11 +2024,9 @@ A curated list of Rust code and resources.
 ### Applications / Blockchain
 
 *   [ethabi (⭐521)](https://github.com/rust-ethereum/ethabi) - Encode and decode smart contract invocations.
-*   [ethers-rs (⭐2.5k)](https://github.com/gakonst/ethers-rs) - Complete Ethereum & Celo library and wallet implementation. ![Build Status](https://github.com/gakonst/ethers-rs/workflows/Tests/badge.svg)
 *   [etk (⭐361)](https://github.com/quilt/etk) - etk is a collection of tools for writing, reading, and analyzing EVM bytecode.
 *   [Foundry (⭐8.6k)](https://github.com/foundry-rs/foundry) - Foundry is a blazing fast, portable and modular toolkit for Ethereum application development. ![Build Status](https://img.shields.io/github/workflow/status/foundry-rs/foundry/test?style=flat-square)
 *   [Lighthouse (⭐3.1k)](https://github.com/sigp/lighthouse) - Ethereum Consensus Layer (CL) Client [![Build Status](https://github.com/sigp/lighthouse/workflows/test-suite/badge.svg?branch=master)](https://github.com/sigp/lighthouse/actions)
-*   [mev-inspect-rs (⭐553)](https://github.com/flashbots/mev-inspect-rs) - Ethereum MEV Inspector.
 *   [opensea-rs (⭐242)](https://github.com/gakonst/opensea-rs) - Bindings & CLI to the Opensea API and Contracts.
 *   [revm (⭐1.8k)](https://github.com/bluealloy/revm) - Revolutionary Machine (revm) is a fast Ethereum virtual machine.
 
@@ -2465,9 +2469,6 @@ A curated list of Rust code and resources.
 
 *   bracket-lib (previously RLTK)
     *   [bracket-lib (⭐1.6k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK). [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
-*   Tcod-rs
-    *   [tomassedovic/tcod-rs (⭐228)](https://github.com/tomassedovic/tcod-rs) - Libtcod bindings.
-    *   Warning: Not maintained anymore
 
 ## [Nov 04, 2021](/content/2021/11/04/README.md)
 
@@ -2661,10 +2662,6 @@ A curated list of Rust code and resources.
 
 *   [bottom (⭐11k)](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor. [![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ClementTsang/bottom/ci/master)](https://github.com/ClementTsang/bottom/actions?query=branch%3Amaster)
 
-### Applications / Task scheduling
-
-*   [delicate (⭐729)](https://github.com/BinChengZhao/delicate) - A lightweight and distributed task scheduling platform. [![Build Status](https://github.com/BinChengZhao/delicate/workflows/CI/badge.svg)](https://github.com/BinChengZhao/delicate/actions)
-
 ### Libraries / GUI
 
 *   [emoon/rust\_minifb (⭐1.1k)](https://github.com/emoon/rust_minifb) - minifb is a cross-platform window setup with optional bitmap rendering. It also comes with easy mouse and keyboard input. Primarily designed for prototyping
@@ -2713,10 +2710,6 @@ A curated list of Rust code and resources.
 ### Development tools / Profiling
 
 *   [Bytehound (⭐4.6k)](https://github.com/koute/bytehound) - A memory profiler for Linux
-
-### Development tools / Static analysis
-
-*   [facebookexperimental/MIRAI (⭐1k)](https://github.com/facebookexperimental/mirai) - an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml)
 
 ### Libraries / Artificial Intelligence
 
@@ -3185,12 +3178,6 @@ A curated list of Rust code and resources.
 ### Resources / Web programming
 
 *   [RustViz (⭐2.7k)](https://github.com/rustviz/rustviz) - generates visualizations from simple Rust programs to assist users in better understanding the Rust Lifetime and Borrowing mechanism.
-
-## [Jul 02, 2021](/content/2021/07/02/README.md)
-
-### Applications / Blockchain
-
-*   [Solana (⭐14k)](https://github.com/solana-labs/solana) - Incredibly fast, highly scalable blockchain using Proof-of-History.
 
 ## [Jun 23, 2021](/content/2021/06/23/README.md)
 
@@ -3800,7 +3787,6 @@ A curated list of Rust code and resources.
     *   [branca](https://crates.io/crates/branca) - Implementation of Branca for Authenticated and Encrypted API tokens.
     *   [c410-f3r/wtx (⭐251)](https://github.com/c410-f3r/wtx) - Low and high level HTTP/2 server
     *   [carllerche/tower-web (⭐981)](https://github.com/carllerche/tower-web) \[[tower-web](https://crates.io/crates/tower-web)] - A fast, boilerplate free, web framework
-    *   [danclive/sincere (⭐98)](https://github.com/danclive/sincere) - A micro web framework based on hyper and multithreading.
     *   [GildedHonour/frank\_jwt (⭐252)](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation.
     *   [Gotham (⭐2.3k)](https://github.com/gotham-rs/gotham) - A flexible web framework that does not sacrifice safety, security or speed.
     *   [Graphul (⭐450)](https://github.com/graphul-rs/graphul) - An Express-inspired web framework. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/graphul)
@@ -3906,6 +3892,7 @@ A curated list of Rust code and resources.
 
 *   [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.6k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
+    *   [cargo.nvim (⭐66)](https://github.com/nwiizo/cargo.nvim) - A Neovim plugin for seamless integration with Cargo commands.
     *   [crates.nvim (⭐911)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust.vim (⭐4k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐633)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
@@ -4009,10 +3996,6 @@ A curated list of Rust code and resources.
 ### Applications / Database
 
 *   [Lucid (⭐380)](https://github.com/lucid-kv/lucid) - High performance and distributed KV store accessible through a HTTP API. [![Build Status](https://github.com/lucid-kv/lucid/workflows/Lucid/badge.svg?branch=master)](https://github.com/lucid-kv/lucid/actions?workflow=Lucid)
-
-### Applications / Web Servers
-
-*   [wyhaya/see (⭐212)](https://github.com/wyhaya/see) - Static HTTP file server
 
 ### Libraries / Logging
 

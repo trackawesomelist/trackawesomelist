@@ -12,6 +12,10 @@
 
 *   [Accelerating Generative AI App Development with Flutter & Firebase Genkit](https://speakerdeck.com/coborinai/accelerating-generative-ai-app-development-with-flutter-and-firebase-genkit) - Slides from a presentation at FlutterGakkai, a Flutter conference in Japan, showcasing how to integrate Firebase Genkit with Flutter for rapid generative AI app development.
 
+### Videos / Golang - Community
+
+*   [Getting started with Genkit/JS 1.0](https://www.youtube.com/watch?v=3p1P5grjXIQ) - Learn how to get started with Genkit/JS 1.0.
+
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Articles / Golang - Community
@@ -80,6 +84,7 @@
     *   [`@genkit-ai/google-cloud`](https://www.npmjs.com/package/@genkit-ai/google-cloud) - The Google Cloud plugin exports Firebase Genkit's telemetry and logging data to Google Cloud's operation suite.
 *   Other Plugins
     *   [`@genkit-ai/firebase`](https://firebase.google.com/docs/genkit/plugins/firebase) - Firebase plugin provides several integrations with Firebase services: Indexers and retrievers using Cloud Firestore vector store, Trace storage using Cloud Firestore, Flow deployment using Cloud Functions, Authorization policies for Firebase Authentication users.
+    *   [`@genkit-ai/express`](https://www.npmjs.com/package/@genkit-ai/express) - Express plugin provides an Express middleware for Genkit.
 
 ### Plugins / JavaScript - Community
 
@@ -92,6 +97,7 @@
     *   [`genkitx-openai`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/openai) - Plugin for OpenAI APIs.
     *   [`genkitx-azure-openai`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/azure-openai) - Plugin for Azure OpenAI APIs.
     *   [`genkitx-aws-bedrock`](https://github.com/xavidop/genkitx-aws-bedrock) - Plugin for AWS Bedrock APIs.
+    *   [`genkitx-deepseek`](https://github.com/oddbit/genkitx-deepseek) - Plugin for Deepseek Cloud APIs.
 *   Vector Store Plugins
     *   [`genkitx-convex`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/convex) - Plugin for Convex Vector Stores.
     *   [`genkitx-hnsw`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/hnsw) - Plugin for HNSW Vector Stores.
