@@ -1,18 +1,39 @@
 # Awesome List Updates on Feb 14, 2025
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
+## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Web Hosting
+
+*   [Sevalla](https://sevalla.com/) - Hosting platform designed to simplify the deployment and management of applications, databases, and static websites - 1GB site limit, 100GB free bandwidth, 600 free build minutes, 100 sites per account.
+
+## [2. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+
+### SQL-like processing
+
+*   [Iceberg](https://iceberg.apache.org/) - an open table format for huge analytic datasets. Iceberg adds tables to Trino and Spark that use a high-performance format that works just like a SQL table.
+
+### Applications
+
+*   [Comet](https://www.comet.com/site/) - Comet provides an end-to-end model evaluation platform for AI developers, with best in class LLM evaluations, experiment tracking, and production monitoring.
+*   [Opik](https://www.comet.com/site/products/opik/) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
+
+### Business Intelligence
+
+*   [Lightdash (⭐4.4k)](https://github.com/lightdash/lightdash) - The open source Looker alternative built on dbt
+
+## [3. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
 
 ### Videos / Golang - Community
 
 *   [Getting started with Genkit/JS 1.0](https://www.youtube.com/watch?v=3p1P5grjXIQ) - Learn how to get started with Genkit/JS 1.0.
 
-## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Encoding and Compression
 
@@ -27,7 +48,7 @@
 *   [once\_more (⭐5)](https://github.com/vegris/once_more) - Simple retries with composable backoff strategies.
 *   [pachka](https://github.com/vegris/pachka) - Message batching library for Elixir applications.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Utilities
 
@@ -37,19 +58,19 @@
 
 *   [MIRAI (⭐116)](https://github.com/endorlabs/mirai) - an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/endorlabs/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/endorlabs/mirai/actions/workflows/rust.yml)
 
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### RegExp / Runner
 
 *   [Regulex](https://jex.im/regulex/) - JavaScript Regular Expression Parser & Visualizer.
 
-## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [7. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Tools
 
 *   [Blumen (⭐12)](https://github.com/StauroDEV/blumen) - Blumen is a CLI to deploy apps on the decentralized web using IPFS and Ethereum
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -66,7 +87,7 @@
 
 *   [ngx-virtual-select-field (⭐6)](https://github.com/Vizer/ngx-virtual-select-field) - This package replicates the Angular Material Select component with virtual scroll capabilities with help of cdk-virtual-scroll.
 
-## [7. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+## [9. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
@@ -76,7 +97,7 @@
 
 *   [Cryptosphere ☠️](https://cryptosphere.io): Open-source P2P web application platform for decentralized, privacy-preserving software which keeps users in control of their own content.
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [10. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Julia / General-Purpose Machine Learning
 
