@@ -100,6 +100,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Frappe HR](https://frappe.io/hr) - Complete HRMS solution with over 13 different modules right from employee management, onboarding, leaves, to payroll, taxation, and more. ([Source Code (⭐1.6k)](https://github.com/frappe/hrms)) `GPL-3.0` `Docker/Python/Nodejs`
 *   [MintHCM](https://minthcm.org/) - Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM. ([Source Code (⭐156)](https://github.com/minthcm/minthcm)) `AGPL-3.0` `PHP`
 
+#### [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Developer Tools / Databases
+
+*   [TrailBase](https://trailbase.io) - Open, sub-millisecond, single-executable FireBase alternative with type-safe APIs, notifications, builtin JS/TS runtime, auth & admin UI built on SQLite, Rust & V8. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/trailbaseio/trailbase)
+
 ### [Feb 14, 2025](/content/2025/02/14/README.md)
 
 
@@ -365,7 +371,7 @@ Free (Open Source)
 2. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 349K 📝 02&#x2F;06 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 92K 📝 02&#x2F;15 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 138K 📝 02&#x2F;10 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 79K 📝 02&#x2F;12 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 79K 📝 02&#x2F;15 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 6. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 67K 📝 02&#x2F;14 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
 7. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K 📝 02&#x2F;14 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 8. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 71K 📝 02&#x2F;10 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
@@ -1017,7 +1023,7 @@ Free (Open Source)
 - [Awesome Linux](/content/inputsh/awesome-linux/README.md) - ([Source ⭐ 3.5K, 📝 19&#x2F;01&#x2F;16 ](https://github.com/inputsh/awesome-linux)) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md) - ([Source ⭐ 1.6K, 📝 23&#x2F;06&#x2F;11 ](https://github.com/Friz-zy/awesome-linux-containers)) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [Awesome Low Code](/content/zenitysec/awesome-low-code/README.md) - ([Source ⭐ 295, 📝 24&#x2F;05&#x2F;19 ](https://github.com/zenitysec/awesome-low-code)) - Awesome Low Code platforms, vendors, tools and resources
-- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 79K, 📝 02&#x2F;12 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 79K, 📝 02&#x2F;15 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 3.6K, 📝 01&#x2F;22 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 59K, 📝 24&#x2F;12&#x2F;18 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
 - [Awesome Nodered](/content/naimo84/awesome-nodered/README.md) - ([Source ⭐ 351, 📝 23&#x2F;02&#x2F;23 ](https://github.com/naimo84/awesome-nodered)) - A collection of interesting nodes and resources for Node-RED

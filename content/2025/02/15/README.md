@@ -1,31 +1,37 @@
 # Awesome List Updates on Feb 15, 2025
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Developer Tools / Databases
+
+*   [TrailBase](https://trailbase.io) - Open, sub-millisecond, single-executable FireBase alternative with type-safe APIs, notifications, builtin JS/TS runtime, auth & admin UI built on SQLite, Rust & V8. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/trailbaseio/trailbase)
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Human Resources Management (HRM)
 
 *   [Frappe HR](https://frappe.io/hr) - Complete HRMS solution with over 13 different modules right from employee management, onboarding, leaves, to payroll, taxation, and more. ([Source Code (⭐1.6k)](https://github.com/frappe/hrms)) `GPL-3.0` `Docker/Python/Nodejs`
 *   [MintHCM](https://minthcm.org/) - Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM. ([Source Code (⭐156)](https://github.com/minthcm/minthcm)) `AGPL-3.0` `PHP`
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Other Free Resources
 
 *   [It tools](https://github.com/ripienaar/free-for-dev/blob/master/README.md/it-tools.tech) - Useful tools for developer and people working in IT.
 
-## [3. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+## [4. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### editors & viewers
 
 *   [geojson.io-for-vscode](https://marketplace.visualstudio.com/items?itemName=swallow.geojson-io-for-vscode): create, edit, and preview GeoJSON data in VSCode, just like [geojson.io](http://geojson.io/)
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -65,13 +71,13 @@
 
 *   [ts-serializer (⭐8)](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed Typescript classes.
 
-## [5. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 
 *   [The Five-Minute Geek Show](https://fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

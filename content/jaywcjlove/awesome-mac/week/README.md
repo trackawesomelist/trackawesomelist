@@ -8,6 +8,10 @@
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
+### Developer Tools / Databases
+
+*   [TrailBase](https://trailbase.io) - Open, sub-millisecond, single-executable FireBase alternative with type-safe APIs, notifications, builtin JS/TS runtime, auth & admin UI built on SQLite, Rust & V8. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/trailbaseio/trailbase)
+
 ### Design and Product / Design Tools
 
 *   [Nugget (⭐239)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yo-op/sketchcachecleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -793,7 +797,7 @@
 
 ### Utilities / Productivity
 
-*   [Velja](https://sindresorhus.com/velja) - Browser picker that lets you open links in a specific browser or a desktop app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1607635845)
+*   [Velja](https://sindresorhus.com/velja) - Browser picker that lets you open links in a specific browser or a desktop app.  [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1607635845)
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 

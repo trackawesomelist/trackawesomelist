@@ -391,30 +391,20 @@ Free (Open Source)
 
 
 
-#### [21. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Bayesian Modeling / Nonparametric Model
-
-*   [A Bayesian Analysis of Some Non-parametric Problems](https://www.jstor.org/stable/2958008?seq=1) - ***The Annals of Statistics***, 1973. \[[All Versions](https://scholar.google.com/scholar?cluster=3969163427460060902)]. \[[Preprint](https://people.stat.sc.edu/hansont/stat740/Ferguson1973.pdf)]. A classic review on non-parametric problems.
-
-##### Problem Solving / Intrinsic Motivation
-
-*   [JARVIS-1: Open-World Multi-Task Agents With Memory-Augmented Multimodal Language Models](https://ieeexplore.ieee.org/abstract/document/10778628) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***. \[[All Versions](https://scholar.google.com/scholar?cluster=12845806504666245406)]. Achieving human-like planning and control with multimodal observations in an open world is a key milestone for more functional generalist agents. Existing approaches can handle certain long-horizon tasks in an open world. However, they still struggle when the number of open-world tasks could potentially be infinite and lack the capability to progressively enhance task completion as game time progresses. This work introduces JARVIS-1, an open-world agent that can perceive multimodal input (visual observations and human instructions), generate sophisticated plans, and perform embodied control, all within the popular yet challenging open-world Minecraft universe. Specifically, the authors develop JARVIS-1 on top of pre-trained multimodal language models, which map visual observations and textual instructions to plans. The plans will be ultimately dispatched to the goal-conditioned controllers. JARVIS-1 is outfitted with a multimodal memory, which facilitates planning using both pre-trained knowledge and its actual game survival experiences. JARVIS-1 is the existing most general agent in Minecraft, capable of completing over 200 different tasks using control and observation space similar to humans.
-
-#### [22. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
+#### [21. Awesome Wpo](/content/davidsonfellipe/awesome-wpo/README.md)
 
 ##### Image Optimizers / Meetups
 
 *   [Optimizt (⭐102)](https://github.com/343dev/optimizt) - CLI image optimization tool. It can compress PNG, JPEG, GIF and SVG lossy and lossless, and also create AVIF and WebP versions for raster images.
 
-#### [23. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+#### [22. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ##### Software Engineering
 
 *   [Falsehoods about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/) - Null pointers are even more cursed than pointers in general, and provenance already makes pointers quite complicated.
 *   [Falsehoods about Digital Object Identifiers (DOIs)](https://pardalotus.tech/posts/2024-10-02-falsehoods-programmers-believe-about-dois/) - False conceptions about the identifiers that are used to identify and link research outputs (and a lot of other things).
 
-#### [24. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+#### [23. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ##### Tools
 
@@ -428,27 +418,13 @@ Free (Open Source)
 
 *   [Ansible Lockdown](https://github.com/ansible-lockdown) - Ansible content to assist in both auditing and remediating against [CIS](https://www.cisecurity.org/#/) or [STIG](https://public.cyber.mil/stigs/) baseline compliance for OS's and Applications.
 
-#### [25. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-##### Design and Product / Design Tools
-
-*   [Nugget (⭐239)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yo-op/sketchcachecleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-##### Utilities / Productivity
-
-*   [Raycast](https://raycast.com?via=ae02) - Raycast lets you control your tools and apps with shortcuts, download extensions from the store, and use AI models like ChatGPT, DeepSeek, Gemini, Claude, etc. You can also create snippets and use Raycast Notes to maximize your productivity.
-
-##### Third Party App Markets / System Related Tools
-
-*   [Setapp](https://setapp.sjv.io/c/6018600/343321/5114) - The best free and paid apps (like CleanShot, Bartender, Paste, TablePlus, etc.) in one suite for only 10$/month!
-
-#### [26. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
+#### [24. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/README.md)
 
 ##### Examples
 
 *   [JustArchiNET/ArchiSteamFarm (⭐12k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 
-#### [27. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+#### [25. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ##### Julia / General-Purpose Machine Learning
 
@@ -471,7 +447,7 @@ Free (Open Source)
 
 *   [clugenr (⭐5)](https://github.com/clugen/clugenr/) - Multidimensional cluster generation in R.
 
-#### [28. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+#### [26. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ##### Applications
 
@@ -481,19 +457,19 @@ Free (Open Source)
 
 *   [Cryptosphere ☠️](https://cryptosphere.io): Open-source P2P web application platform for decentralized, privacy-preserving software which keeps users in control of their own content.
 
-#### [29. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+#### [27. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ##### Tools
 
 *   [Blumen (⭐12)](https://github.com/StauroDEV/blumen) - Blumen is a CLI to deploy apps on the decentralized web using IPFS and Ethereum
 
-#### [30. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+#### [28. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ##### RegExp / Runner
 
 *   [Regulex](https://jex.im/regulex/) - JavaScript Regular Expression Parser & Visualizer.
 
-#### [31. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [29. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Utilities
 
@@ -503,7 +479,7 @@ Free (Open Source)
 
 *   [MIRAI (⭐116)](https://github.com/endorlabs/mirai) - an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/endorlabs/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/endorlabs/mirai/actions/workflows/rust.yml)
 
-#### [32. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+#### [30. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ##### Encoding and Compression
 
@@ -518,7 +494,7 @@ Free (Open Source)
 *   [once\_more (⭐5)](https://github.com/vegris/once_more) - Simple retries with composable backoff strategies.
 *   [pachka](https://github.com/vegris/pachka) - Message batching library for Elixir applications.
 
-#### [33. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
+#### [31. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
 
 ##### Talks / Golang - Community
 
@@ -528,7 +504,7 @@ Free (Open Source)
 
 *   [Getting started with Genkit/JS 1.0](https://www.youtube.com/watch?v=3p1P5grjXIQ) - Learn how to get started with Genkit/JS 1.0.
 
-#### [34. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+#### [32. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ##### SQL-like processing
 
@@ -543,13 +519,13 @@ Free (Open Source)
 
 *   [Lightdash (⭐4.4k)](https://github.com/lightdash/lightdash) - The open source Looker alternative built on dbt
 
-#### [35. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [33. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars-config-meta (⭐1)](https://github.com/lmmx/polars-config-meta) - Polars plugin for persistent DataFrame-level metadata by [@lmmx](https://github.com/lmmx).
 
-#### [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -573,13 +549,13 @@ Free (Open Source)
 *   [transient (⭐7)](https://github.com/olets/zsh-transient-prompt) - Add a transient prompt to your zsh command line — that is, make your current command line's prompt different from past command lines' prompts. For example, past prompts might not need to show as much contextual information. Or you might want to put past commands on their own line, instead of prefixed by a prompt, for easier selecting and copying. More details at [zsh-transient-prompt.olets.dev](https://zsh-transient-prompt.olets.dev/).
 *   [yellow peach (⭐0)](https://github.com/tomorrowbye/yellow-peach-theme) - Clean minimalist design. Includes decorators for `user@hostname`, `git` status, current directory and the current time.
 
-#### [37. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+#### [35. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ##### In English
 
 *   [The Five-Minute Geek Show](https://fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
 
-#### [38. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [36. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -670,13 +646,13 @@ Free (Open Source)
 *   [type-fest (⭐15k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
 *   [ts-serializer (⭐8)](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed Typescript classes.
 
-#### [39. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+#### [37. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ##### editors & viewers
 
 *   [geojson.io-for-vscode](https://marketplace.visualstudio.com/items?itemName=swallow.geojson-io-for-vscode): create, edit, and preview GeoJSON data in VSCode, just like [geojson.io](http://geojson.io/)
 
-#### [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [38. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Human Resources Management (HRM)
 
@@ -695,6 +671,34 @@ Free (Open Source)
 
 *   [Uptime Kuma](https://uptime.kuma.pet/) - Self-hosted website monitoring tool like "Uptime Robot". ([Demo](https://demo.kuma.pet), [Source Code (⭐64k)](https://github.com/louislam/uptime-kuma)) `MIT` `Docker/Nodejs`
 
+#### [39. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Developer Tools / Databases
+
+*   [TrailBase](https://trailbase.io) - Open, sub-millisecond, single-executable FireBase alternative with type-safe APIs, notifications, builtin JS/TS runtime, auth & admin UI built on SQLite, Rust & V8. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/trailbaseio/trailbase)
+
+##### Design and Product / Design Tools
+
+*   [Nugget (⭐239)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yo-op/sketchcachecleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+##### Utilities / Productivity
+
+*   [Raycast](https://raycast.com?via=ae02) - Raycast lets you control your tools and apps with shortcuts, download extensions from the store, and use AI models like ChatGPT, DeepSeek, Gemini, Claude, etc. You can also create snippets and use Raycast Notes to maximize your productivity.
+
+##### Third Party App Markets / System Related Tools
+
+*   [Setapp](https://setapp.sjv.io/c/6018600/343321/5114) - The best free and paid apps (like CleanShot, Bartender, Paste, TablePlus, etc.) in one suite for only 10$/month!
+
+#### [40. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Bayesian Modeling / Nonparametric Model
+
+*   [A Bayesian Analysis of Some Non-parametric Problems](https://www.jstor.org/stable/2958008?seq=1) - ***The Annals of Statistics***, 1973. \[[All Versions](https://scholar.google.com/scholar?cluster=3969163427460060902)]. \[[Preprint](https://people.stat.sc.edu/hansont/stat740/Ferguson1973.pdf)]. A classic review on non-parametric problems.
+
+##### Problem Solving / Intrinsic Motivation
+
+*   [JARVIS-1: Open-World Multi-Task Agents With Memory-Augmented Multimodal Language Models](https://ieeexplore.ieee.org/abstract/document/10778628) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***. \[[All Versions](https://scholar.google.com/scholar?cluster=12845806504666245406)]. Achieving human-like planning and control with multimodal observations in an open world is a key milestone for more functional generalist agents. Existing approaches can handle certain long-horizon tasks in an open world. However, they still struggle when the number of open-world tasks could potentially be infinite and lack the capability to progressively enhance task completion as game time progresses. This work introduces JARVIS-1, an open-world agent that can perceive multimodal input (visual observations and human instructions), generate sophisticated plans, and perform embodied control, all within the popular yet challenging open-world Minecraft universe. Specifically, the authors develop JARVIS-1 on top of pre-trained multimodal language models, which map visual observations and textual instructions to plans. The plans will be ultimately dispatched to the goal-conditioned controllers. JARVIS-1 is outfitted with a multimodal memory, which facilitates planning using both pre-trained knowledge and its actual game survival experiences. JARVIS-1 is the existing most general agent in Minecraft, capable of completing over 200 different tasks using control and observation space similar to humans.
+
 ---
 
 - Next: [Feb 10 - Feb 16, 2025](&#x2F;content&#x2F;2025&#x2F;6&#x2F;README.md)
@@ -705,7 +709,7 @@ Free (Open Source)
 2. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 349K 📝 02&#x2F;06 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 92K 📝 02&#x2F;15 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 138K 📝 02&#x2F;10 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 79K 📝 02&#x2F;12 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 79K 📝 02&#x2F;15 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 6. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 67K 📝 02&#x2F;14 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
 7. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K 📝 02&#x2F;14 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 8. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 71K 📝 02&#x2F;10 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
@@ -1357,7 +1361,7 @@ Free (Open Source)
 - [Awesome Linux](/content/inputsh/awesome-linux/README.md) - ([Source ⭐ 3.5K, 📝 19&#x2F;01&#x2F;16 ](https://github.com/inputsh/awesome-linux)) - :penguin: A list of awesome projects and resources that make Linux even more awesome. :penguin:
 - [Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md) - ([Source ⭐ 1.6K, 📝 23&#x2F;06&#x2F;11 ](https://github.com/Friz-zy/awesome-linux-containers)) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [Awesome Low Code](/content/zenitysec/awesome-low-code/README.md) - ([Source ⭐ 295, 📝 24&#x2F;05&#x2F;19 ](https://github.com/zenitysec/awesome-low-code)) - Awesome Low Code platforms, vendors, tools and resources
-- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 79K, 📝 02&#x2F;12 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 79K, 📝 02&#x2F;15 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 3.6K, 📝 01&#x2F;22 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 59K, 📝 24&#x2F;12&#x2F;18 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
 - [Awesome Nodered](/content/naimo84/awesome-nodered/README.md) - ([Source ⭐ 351, 📝 23&#x2F;02&#x2F;23 ](https://github.com/naimo84/awesome-nodered)) - A collection of interesting nodes and resources for Node-RED

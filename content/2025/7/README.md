@@ -458,6 +458,10 @@ Free (Open Source)
 
 ## [31. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
+### Developer Tools / Databases
+
+*   [TrailBase](https://trailbase.io) - Open, sub-millisecond, single-executable FireBase alternative with type-safe APIs, notifications, builtin JS/TS runtime, auth & admin UI built on SQLite, Rust & V8. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/trailbaseio/trailbase)
+
 ### Design and Product / Design Tools
 
 *   [Nugget (⭐239)](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yo-op/sketchcachecleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")

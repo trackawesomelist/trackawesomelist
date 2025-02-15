@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Feb 15, 2025](/content/2025/02/15/README.md)
+
+### Developer Tools / Databases
+
+*   [TrailBase](https://trailbase.io) - Open, sub-millisecond, single-executable FireBase alternative with type-safe APIs, notifications, builtin JS/TS runtime, auth & admin UI built on SQLite, Rust & V8. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/trailbaseio/trailbase)
+
 ## [Feb 12, 2025](/content/2025/02/12/README.md)
 
 ### Design and Product / Design Tools
@@ -901,7 +907,7 @@
 
 ### Utilities / Productivity
 
-*   [Velja](https://sindresorhus.com/velja) - Browser picker that lets you open links in a specific browser or a desktop app. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1607635845)
+*   [Velja](https://sindresorhus.com/velja) - Browser picker that lets you open links in a specific browser or a desktop app.  [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1607635845)
 
 ## [Apr 28, 2023](/content/2023/04/28/README.md)
 
