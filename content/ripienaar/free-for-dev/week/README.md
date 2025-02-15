@@ -20,6 +20,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [OneCompiler](https://onecompiler.com/) - Free online compiler supporting 70+ languages including Java, Python, C++, JavaScript.
 
+### Other Free Resources
+
+*   [It tools](https://github.com/ripienaar/free-for-dev/blob/master/README.md/it-tools.tech) - Useful tools for developer and people working in IT.
+
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
 ### Authentication, Authorization, and User Management

@@ -8,6 +8,11 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
+### Software / Human Resources Management (HRM)
+
+*   [Frappe HR](https://frappe.io/hr) - Complete HRMS solution with over 13 different modules right from employee management, onboarding, leaves, to payroll, taxation, and more. ([Source Code (⭐1.6k)](https://github.com/frappe/hrms)) `GPL-3.0` `Docker/Python/Nodejs`
+*   [MintHCM](https://minthcm.org/) - Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM. ([Source Code (⭐156)](https://github.com/minthcm/minthcm)) `AGPL-3.0` `PHP`
+
 ### Software / Self-hosting Solutions
 
 *   [Dropserver](https://dropserver.org) - An application platform for your personal web services. ([Source Code (⭐54)](https://github.com/teleclimber/Dropserver/)) `Apache-2.0` `Go/Deno`

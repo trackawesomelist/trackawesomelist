@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Feb 15, 2025](/content/2025/02/15/README.md)
+
+### Other Free Resources
+
+*   [It tools](https://github.com/ripienaar/free-for-dev/blob/master/README.md/it-tools.tech) - Useful tools for developer and people working in IT.
+
 ## [Feb 14, 2025](/content/2025/02/14/README.md)
 
 ### Web Hosting

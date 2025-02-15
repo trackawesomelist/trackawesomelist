@@ -2,7 +2,7 @@
 
 A curated list of podcasts we like to listen to. 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 543 · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ayr-ton/awesome-geek-podcasts/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ayr-ton/awesome-geek-podcasts](https://github.com/ayr-ton/awesome-geek-podcasts) · ⭐ 567 · 🏷️ Entertainment
 
 [ [Daily](/content/ayr-ton/awesome-geek-podcasts/README.md) / [Weekly](/content/ayr-ton/awesome-geek-podcasts/week/README.md) / Overview ]
 
@@ -224,7 +224,7 @@ A curated list of podcasts we like to listen to.
 *   [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the podcast from the Cognitect family.
 *   [The CyberWire Daily](https://thecyberwire.com/podcasts/daily-podcast) - The daily cybersecurity news and analysis industry leaders depend on. Published each weekday, the program also included interviews with a wide spectrum of experts from industry, academia, and research organizations all over the world.
 *   [The Cybrary Podcast](https://www.cybrary.it/info/cybrary-podcast/) -  It discusses about industry leaders and professionals from all aspects on the cybersecurity and IT fields give insight into how they got where they are today and what new and emerging technology we should be taking notice of.
-*   [The Five-Minute Geek Show](http://www.fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
+*   [The Five-Minute Geek Show](https://fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
 *   [The Food Fight Show](http://foodfightshow.org/) - The Podcast where DevOps chefs do battle
 *   [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - The HackerSploit podcast is aimed at educating anyone interested in Infosec, Hacking or Cybersecurity.
 *   [The Hanselminutes podcast](https://hanselminutes.com/) - Fresh Air for Developers.
