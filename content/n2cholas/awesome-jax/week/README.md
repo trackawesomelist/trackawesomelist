@@ -2,9 +2,31 @@
 
 JAX - A curated list of resources https://github.com/google/jax
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/n2cholas/awesome-jax/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax) · ⭐ 1.3K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/n2cholas/awesome-jax/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax) · ⭐ 1.7K · 🏷️ Computer Science
 
 [ [Daily](/content/n2cholas/awesome-jax/README.md) / Weekly / [Overview](/content/n2cholas/awesome-jax/readme/README.md) ]
+
+## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
+
+### Libraries / New Libraries
+
+*   Nonlinear Optimization
+    *   [Optimistix](https://github.com/patrick-kidger/optimistix) - Root finding, minimisation, fixed points, and least squares. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
+    *   [JAXopt](https://github.com/google/jaxopt) - Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
+*   [flowjax](https://github.com/danielward27/flowjax) - Distributions and normalizing flows built as equinox modules. <img src="https://img.shields.io/github/stars/danielward27/flowjax?style=social" align="center">
+*   [foragax](https://github.com/i-m-iron-man/Foragax) - Agent-Based modelling framework in JAX.  <img src="https://img.shields.io/github/stars/i-m-iron-man/Foragax?style=social" align="center">
+*   [tmmax](https://github.com/bahremsd/tmmax) - Vectorized calculation of optical properties in thin-film structures using JAX. Swiss Army knife tool for thin-film optics research <img src="https://img.shields.io/github/stars/bahremsd/tmmax" align="center">
+*   [Coreax](https://github.com/gchq/coreax) - Algorithms for finding coresets to compress large datasets while retaining their statistical properties. <img src="https://img.shields.io/github/stars/gchq/coreax?style=social" align="center">
+*   [NAVIX](https://github.com/epignatelli/navix) - A reimplementation of MiniGrid, a Reinforcement Learning environment, in JAX <img src="https://img.shields.io/github/stars/epignatelli/navix?style=social" align="center">
+
+### Models and Projects / Flax
+
+*   [JaxNeuS](https://github.com/huangjuite/jaxneus) - Implementation of [*NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction*](https://lingjie0206.github.io/papers/NeuS/)
+*   [DETR (⭐2)](https://github.com/MasterSkepticista/detr) - Flax implementation of [*DETR: End-to-end Object Detection with Transformers*](https://github.com/facebookresearch/detr) using Sinkhorn solver and parallel bipartite matching.
+
+### Tutorials and Blog Posts / NumPyro
+
+*   [Simple PDE solver + Constrained Optimization with JAX by Philip Mocz](https://levelup.gitconnected.com/create-your-own-automatically-differentiable-simulation-with-python-jax-46951e120fbb?sk=e8b9213dd2c6a5895926b2695d28e4aa) - A simple example of solving the advection-diffusion equations with JAX and using it in a constrained optimization problem to find initial conditions that yield desired result.
 
 ## [Apr 29 - May 05, 2024](/content/2024/18/README.md)
 
@@ -73,7 +95,12 @@ JAX - A curated list of resources https://github.com/google/jax
 *   [purejaxrl](https://github.com/luchris429/purejaxrl) - Vectorisable, end-to-end RL algorithms in JAX. <img src="https://img.shields.io/github/stars/luchris429/purejaxrl?style=social" align="center">
 *   [Lorax](https://github.com/davisyoshida/lorax) - Automatically apply LoRA to JAX models (Flax, Haiku, etc.)
 *   [SCICO](https://github.com/lanl/scico) - Scientific computational imaging in JAX. <img src="https://img.shields.io/github/stars/lanl/scico?style=social" align="center">
-*   [BrainPy](https://github.com/brainpy/BrainPy) - Brain Dynamics Programming in Python. <img src="https://img.shields.io/github/stars/brainpy/BrainPy?style=social" align="center">
+*   Brain Dynamics Programming Ecosystem
+    *   [BrainPy](https://github.com/brainpy/BrainPy) - Brain Dynamics Programming in Python. <img src="https://img.shields.io/github/stars/brainpy/BrainPy?style=social" align="center">
+    *   [brainunit](https://github.com/chaobrain/brainunit) - Physical units and unit-aware mathematical system in JAX. <img src="https://img.shields.io/github/stars/chaobrain/brainunit?style=social" align="center">
+    *   [dendritex](https://github.com/chaobrain/dendritex) - Dendritic Modeling in JAX. <img src="https://img.shields.io/github/stars/chaobrain/dendritex?style=social" align="center">
+    *   [brainstate](https://github.com/chaobrain/brainstate) - State-based Transformation System for Program Compilation and Augmentation. <img src="https://img.shields.io/github/stars/chaobrain/brainstate?style=social" align="center">
+    *   [braintaichi](https://github.com/chaobrain/braintaichi) - Leveraging Taichi Lang to customize brain dynamics operators. <img src="https://img.shields.io/github/stars/chaobrain/braintaichi?style=social" align="center">
 *   [OTT-JAX](https://github.com/ott-jax/ott) - Optimal transport tools in JAX. <img src="https://img.shields.io/github/stars/ott-jax/ott?style=social" align="center">
 
 ### Tutorials and Blog Posts / NumPyro
@@ -102,7 +129,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Models and Projects / Flax
 
-*   [GNNs for Solving Combinatorial Optimization Problems (⭐38)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
+*   [GNNs for Solving Combinatorial Optimization Problems (⭐48)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
@@ -126,7 +153,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Models and Projects / NumPyro
 
-*   [lqg (⭐23)](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [*Putting perception into action with inverse optimal control for continuous psychophysics*](https://elifesciences.org/articles/76635)
+*   [lqg (⭐27)](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [*Putting perception into action with inverse optimal control for continuous psychophysics*](https://elifesciences.org/articles/76635)
 
 ## [Sep 05 - Sep 11, 2022](/content/2022/36/README.md)
 
@@ -196,19 +223,19 @@ JAX - A curated list of resources https://github.com/google/jax
 
 *   [mip-NeRF](https://github.com/google/mipnerf) - Official implementation of [*Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields*](https://jonbarron.info/mipnerf).
 *   [RegNeRF](https://github.com/google-research/google-research/tree/master/regnerf) - Official implementation of [*RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs*](https://m-niemeyer.github.io/regnerf/).
-*   [ARDM (⭐33k)](https://github.com/google-research/google-research/tree/master/autoregressive_diffusion) - Official implementation of [*Autoregressive Diffusion Models*](https://arxiv.org/abs/2110.02037).
-*   [D3PM (⭐33k)](https://github.com/google-research/google-research/tree/master/d3pm) - Official implementation of [*Structured Denoising Diffusion Models in Discrete State-Spaces*](https://arxiv.org/abs/2107.03006).
-*   [Gumbel-max Causal Mechanisms (⭐33k)](https://github.com/google-research/google-research/tree/master/gumbel_max_causal_gadgets) - Code for [*Learning Generalized Gumbel-max Causal Mechanisms*](https://arxiv.org/abs/2111.06888), with extra code in [GuyLor/gumbel\_max\_causal\_gadgets\_part2 (⭐2)](https://github.com/GuyLor/gumbel_max_causal_gadgets_part2).
-*   [Latent Programmer (⭐33k)](https://github.com/google-research/google-research/tree/master/latent_programmer) - Code for the ICML 2021 paper [*Latent Programmer: Discrete Latent Codes for Program Synthesis*](https://arxiv.org/abs/2012.00377).
-*   [SNeRG (⭐33k)](https://github.com/google-research/google-research/tree/master/snerg) - Official implementation of [*Baking Neural Radiance Fields for Real-Time View Synthesis*](https://phog.github.io/snerg).
-*   [Spin-weighted Spherical CNNs (⭐33k)](https://github.com/google-research/google-research/tree/master/spin_spherical_cnns) - Adaptation of [*Spin-Weighted Spherical CNNs*](https://arxiv.org/abs/2006.10731).
-*   [VDVAE (⭐33k)](https://github.com/google-research/google-research/tree/master/vdvae_flax) - Adaptation of [*Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images*](https://arxiv.org/abs/2011.10650), original code at [openai/vdvae (⭐427)](https://github.com/openai/vdvae).
-*   [MUSIQ (⭐33k)](https://github.com/google-research/google-research/tree/master/musiq) - Checkpoints and model inference code for the ICCV 2021 paper [*MUSIQ: Multi-scale Image Quality Transformer*](https://arxiv.org/abs/2108.05997)
-*   [AQuaDem (⭐33k)](https://github.com/google-research/google-research/tree/master/aquadem) - Official implementation of [*Continuous Control with Action Quantization from Demonstrations*](https://arxiv.org/abs/2110.10149).
-*   [Combiner (⭐33k)](https://github.com/google-research/google-research/tree/master/combiner) - Official implementation of [*Combiner: Full Attention Transformer with Sparse Computation Cost*](https://arxiv.org/abs/2107.05768).
-*   [Dreamfields (⭐33k)](https://github.com/google-research/google-research/tree/master/dreamfields) - Official implementation of the ICLR 2022 paper [*Progressive Distillation for Fast Sampling of Diffusion Models*](https://ajayj.com/dreamfields).
-*   [GIFT (⭐33k)](https://github.com/google-research/google-research/tree/master/gift) - Official implementation of [*Gradual Domain Adaptation in the Wild:When Intermediate Distributions are Absent*](https://arxiv.org/abs/2106.06080).
-*   [Light Field Neural Rendering (⭐33k)](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering) - Official implementation of [*Light Field Neural Rendering*](https://arxiv.org/abs/2112.09687).
+*   [ARDM (⭐35k)](https://github.com/google-research/google-research/tree/master/autoregressive_diffusion) - Official implementation of [*Autoregressive Diffusion Models*](https://arxiv.org/abs/2110.02037).
+*   [D3PM (⭐35k)](https://github.com/google-research/google-research/tree/master/d3pm) - Official implementation of [*Structured Denoising Diffusion Models in Discrete State-Spaces*](https://arxiv.org/abs/2107.03006).
+*   [Gumbel-max Causal Mechanisms (⭐35k)](https://github.com/google-research/google-research/tree/master/gumbel_max_causal_gadgets) - Code for [*Learning Generalized Gumbel-max Causal Mechanisms*](https://arxiv.org/abs/2111.06888), with extra code in [GuyLor/gumbel\_max\_causal\_gadgets\_part2 (⭐2)](https://github.com/GuyLor/gumbel_max_causal_gadgets_part2).
+*   [Latent Programmer (⭐35k)](https://github.com/google-research/google-research/tree/master/latent_programmer) - Code for the ICML 2021 paper [*Latent Programmer: Discrete Latent Codes for Program Synthesis*](https://arxiv.org/abs/2012.00377).
+*   [SNeRG (⭐35k)](https://github.com/google-research/google-research/tree/master/snerg) - Official implementation of [*Baking Neural Radiance Fields for Real-Time View Synthesis*](https://phog.github.io/snerg).
+*   [Spin-weighted Spherical CNNs (⭐35k)](https://github.com/google-research/google-research/tree/master/spin_spherical_cnns) - Adaptation of [*Spin-Weighted Spherical CNNs*](https://arxiv.org/abs/2006.10731).
+*   [VDVAE (⭐35k)](https://github.com/google-research/google-research/tree/master/vdvae_flax) - Adaptation of [*Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images*](https://arxiv.org/abs/2011.10650), original code at [openai/vdvae (⭐434)](https://github.com/openai/vdvae).
+*   [MUSIQ (⭐35k)](https://github.com/google-research/google-research/tree/master/musiq) - Checkpoints and model inference code for the ICCV 2021 paper [*MUSIQ: Multi-scale Image Quality Transformer*](https://arxiv.org/abs/2108.05997)
+*   [AQuaDem (⭐35k)](https://github.com/google-research/google-research/tree/master/aquadem) - Official implementation of [*Continuous Control with Action Quantization from Demonstrations*](https://arxiv.org/abs/2110.10149).
+*   [Combiner (⭐35k)](https://github.com/google-research/google-research/tree/master/combiner) - Official implementation of [*Combiner: Full Attention Transformer with Sparse Computation Cost*](https://arxiv.org/abs/2107.05768).
+*   [Dreamfields (⭐35k)](https://github.com/google-research/google-research/tree/master/dreamfields) - Official implementation of the ICLR 2022 paper [*Progressive Distillation for Fast Sampling of Diffusion Models*](https://ajayj.com/dreamfields).
+*   [GIFT (⭐35k)](https://github.com/google-research/google-research/tree/master/gift) - Official implementation of [*Gradual Domain Adaptation in the Wild:When Intermediate Distributions are Absent*](https://arxiv.org/abs/2106.06080).
+*   [Light Field Neural Rendering (⭐35k)](https://github.com/google-research/google-research/tree/master/light_field_neural_rendering) - Official implementation of [*Light Field Neural Rendering*](https://arxiv.org/abs/2112.09687).
 
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
@@ -242,7 +269,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Tutorials and Blog Posts / NumPyro
 
-*   [Get started with JAX by Aleksa Gordić (⭐559)](https://github.com/gordicaleksa/get-started-with-JAX) - A series of notebooks and videos going from zero JAX knowledge to building neural networks in Haiku.
+*   [Get started with JAX by Aleksa Gordić (⭐688)](https://github.com/gordicaleksa/get-started-with-JAX) - A series of notebooks and videos going from zero JAX knowledge to building neural networks in Haiku.
 
 ## [Jan 24 - Jan 30, 2022](/content/2022/4/README.md)
 
@@ -281,15 +308,17 @@ JAX - A curated list of resources https://github.com/google/jax
 
 *   Neural Network Libraries
     *   [Flax](https://github.com/google/flax) - Centered on flexibility and clarity. <img src="https://img.shields.io/github/stars/google/flax?style=social" align="center">
+    *   [Flax NNX](https://github.com/google/flax/tree/main/flax/nnx) - An evolution on Flax by the same team <img src="https://img.shields.io/github/stars/google/flax?style=social" align="center">
     *   [Haiku](https://github.com/deepmind/dm-haiku) - Focused on simplicity, created by the authors of Sonnet at DeepMind. <img src="https://img.shields.io/github/stars/deepmind/dm-haiku?style=social" align="center">
     *   [Objax](https://github.com/google/objax) - Has an object oriented design similar to PyTorch. <img src="https://img.shields.io/github/stars/google/objax?style=social" align="center">
     *   [Elegy](https://poets-ai.github.io/elegy/) - A High Level API for Deep Learning in JAX. Supports Flax, Haiku, and Optax. <img src="https://img.shields.io/github/stars/poets-ai/elegy?style=social" align="center">
     *   [Trax](https://github.com/google/trax) - "Batteries included" deep learning library focused on providing solutions for common workloads. <img src="https://img.shields.io/github/stars/google/trax?style=social" align="center">
     *   [Jraph](https://github.com/deepmind/jraph) - Lightweight graph neural network library. <img src="https://img.shields.io/github/stars/deepmind/jraph?style=social" align="center">
     *   [Neural Tangents](https://github.com/google/neural-tangents) - High-level API for specifying neural networks of both finite and *infinite* width. <img src="https://img.shields.io/github/stars/google/neural-tangents?style=social" align="center">
-    *   [HuggingFace](https://github.com/huggingface/transformers) - Ecosystem of pretrained Transformers for a wide range of natural language tasks (Flax). <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
+    *   [HuggingFace Transformers (⭐139k)](https://github.com/huggingface/transformers) - Ecosystem of pretrained Transformers for a wide range of natural language tasks (Flax). <img src="https://img.shields.io/github/stars/huggingface/transformers?style=social" align="center">
     *   [Equinox](https://github.com/patrick-kidger/equinox) - Callable PyTrees and filtered JIT/grad transformations => neural networks in JAX. <img src="https://img.shields.io/github/stars/patrick-kidger/equinox?style=social" align="center">
     *   [Scenic](https://github.com/google-research/scenic) - A Jax Library for Computer Vision Research and Beyond.  <img src="https://img.shields.io/github/stars/google-research/scenic?style=social" align="center">
+    *   [Penzai](https://github.com/google-deepmind/penzai) - Prioritizes legibility, visualization, and easy editing of neural network models with composable tools and a simple mental model.  <img src="https://img.shields.io/github/stars/google-deepmind/penzai?style=social" align="center">
 
 ## [Jul 26 - Aug 01, 2021](/content/2021/30/README.md)
 
@@ -309,21 +338,21 @@ JAX - A curated list of resources https://github.com/google/jax
 *   [JAX RL](https://github.com/ikostrikov/jax-rl) - Implementations of reinforcement learning algorithms.
 *   [gMLP](https://github.com/SauravMaheshkar/gMLP) - Implementation of [*Pay Attention to MLPs*](https://arxiv.org/abs/2105.08050).
 *   [MLP Mixer](https://github.com/SauravMaheshkar/MLP-Mixer) - Minimal implementation of [*MLP-Mixer: An all-MLP Architecture for Vision*](https://arxiv.org/abs/2105.01601).
-*   [Distributed Shampoo](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - Implementation of [*Second Order Optimization Made Practical*](https://arxiv.org/abs/2002.09018).
-*   [NesT](https://github.com/google-research/nested-transformer) - Official implementation of [*Aggregating Nested Transformers*](https://arxiv.org/abs/2105.12723).
-*   [XMC-GAN](https://github.com/google-research/xmcgan_image_generation) - Official implementation of [*Cross-Modal Contrastive Learning for Text-to-Image Generation*](https://arxiv.org/abs/2101.04702).
-*   [FNet](https://github.com/google-research/google-research/tree/master/f_net) - Official implementation of [*FNet: Mixing Tokens with Fourier Transforms*](https://arxiv.org/abs/2105.03824).
-*   [GFSA](https://github.com/google-research/google-research/tree/master/gfsa) - Official implementation of [*Learning Graph Structure With A Finite-State Automaton Layer*](https://arxiv.org/abs/2007.04929).
-*   [IPA-GNN](https://github.com/google-research/google-research/tree/master/ipagnn) - Official implementation of [*Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks*](https://arxiv.org/abs/2010.12621).
-*   [Flax Models (⭐33k)](https://github.com/google-research/google-research/tree/master/flax_models) - Collection of models and methods implemented in Flax.
-*   [Protein LM (⭐33k)](https://github.com/google-research/google-research/tree/master/protein_lm) - Implements BERT and autoregressive models for proteins, as described in [*Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences*](https://www.biorxiv.org/content/10.1101/622803v1.full) and [*ProGen: Language Modeling for Protein Generation*](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2).
-*   [Slot Attention (⭐33k)](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection) - Reference implementation for [*Differentiable Patch Selection for Image Recognition*](https://arxiv.org/abs/2104.03059).
-*   [Vision Transformer (⭐9.3k)](https://github.com/google-research/vision_transformer) - Official implementation of [*An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*](https://arxiv.org/abs/2010.11929).
-*   [FID computation (⭐21)](https://github.com/matthias-wright/jax-fid) - Port of [mseitzer/pytorch-fid (⭐3.1k)](https://github.com/mseitzer/pytorch-fid) to Flax.
+*   [Distributed Shampoo (⭐35k)](https://github.com/google-research/google-research/tree/master/scalable_shampoo) - Implementation of [*Second Order Optimization Made Practical*](https://arxiv.org/abs/2002.09018).
+*   [NesT (⭐195)](https://github.com/google-research/nested-transformer) - Official implementation of [*Aggregating Nested Transformers*](https://arxiv.org/abs/2105.12723).
+*   [XMC-GAN (⭐98)](https://github.com/google-research/xmcgan_image_generation) - Official implementation of [*Cross-Modal Contrastive Learning for Text-to-Image Generation*](https://arxiv.org/abs/2101.04702).
+*   [FNet (⭐35k)](https://github.com/google-research/google-research/tree/master/f_net) - Official implementation of [*FNet: Mixing Tokens with Fourier Transforms*](https://arxiv.org/abs/2105.03824).
+*   [GFSA (⭐35k)](https://github.com/google-research/google-research/tree/master/gfsa) - Official implementation of [*Learning Graph Structure With A Finite-State Automaton Layer*](https://arxiv.org/abs/2007.04929).
+*   [IPA-GNN (⭐35k)](https://github.com/google-research/google-research/tree/master/ipagnn) - Official implementation of [*Learning to Execute Programs with Instruction Pointer Attention Graph Neural Networks*](https://arxiv.org/abs/2010.12621).
+*   [Flax Models (⭐35k)](https://github.com/google-research/google-research/tree/master/flax_models) - Collection of models and methods implemented in Flax.
+*   [Protein LM (⭐35k)](https://github.com/google-research/google-research/tree/master/protein_lm) - Implements BERT and autoregressive models for proteins, as described in [*Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences*](https://www.biorxiv.org/content/10.1101/622803v1.full) and [*ProGen: Language Modeling for Protein Generation*](https://www.biorxiv.org/content/10.1101/2020.03.07.982272v2).
+*   [Slot Attention (⭐35k)](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection) - Reference implementation for [*Differentiable Patch Selection for Image Recognition*](https://arxiv.org/abs/2104.03059).
+*   [Vision Transformer (⭐11k)](https://github.com/google-research/vision_transformer) - Official implementation of [*An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale*](https://arxiv.org/abs/2010.11929).
+*   [FID computation (⭐26)](https://github.com/matthias-wright/jax-fid) - Port of [mseitzer/pytorch-fid (⭐3.5k)](https://github.com/mseitzer/pytorch-fid) to Flax.
 
 ### Models and Projects / Haiku
 
-*   [AlphaFold (⭐12k)](https://github.com/deepmind/alphafold) - Implementation of the inference pipeline of AlphaFold v2.0, presented in [*Highly accurate protein structure prediction with AlphaFold*](https://www.nature.com/articles/s41586-021-03819-2).
+*   [AlphaFold (⭐13k)](https://github.com/deepmind/alphafold) - Implementation of the inference pipeline of AlphaFold v2.0, presented in [*Highly accurate protein structure prediction with AlphaFold*](https://www.nature.com/articles/s41586-021-03819-2).
 *   [Adversarial Robustness (⭐13k)](https://github.com/deepmind/deepmind-research/tree/master/adversarial_robustness) - Reference code for [*Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples*](https://arxiv.org/abs/2010.03593) and [*Fixing Data Augmentation to Improve Adversarial Robustness*](https://arxiv.org/abs/2103.01946).
 *   [Bootstrap Your Own Latent (⭐13k)](https://github.com/deepmind/deepmind-research/tree/master/byol) - Implementation for the paper [*Bootstrap your own latent: A new approach to self-supervised Learning*](https://arxiv.org/abs/2006.07733).
 *   [Gated Linear Networks (⭐13k)](https://github.com/deepmind/deepmind-research/tree/master/gated_linear_networks) - GLNs are a family of backpropagation-free neural networks.
@@ -333,22 +362,21 @@ JAX - A curated list of resources https://github.com/google/jax
 *   [NuX (⭐82)](https://github.com/Information-Fusion-Lab-Umass/NuX) - Normalizing flows with JAX.
 *   [OGB-LSC (⭐13k)](https://github.com/deepmind/deepmind-research/tree/master/ogb_lsc) - This repository contains DeepMind's entry to the [PCQM4M-LSC](https://ogb.stanford.edu/kddcup2021/pcqm4m/) (quantum chemistry) and [MAG240M-LSC](https://ogb.stanford.edu/kddcup2021/mag240m/) (academic graph)
     tracks of the [OGB Large-Scale Challenge](https://ogb.stanford.edu/kddcup2021/) (OGB-LSC).
-*   [Persistent Evolution Strategies (⭐33k)](https://github.com/google-research/google-research/tree/master/persistent_es) - Code used for the paper [*Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies*](http://proceedings.mlr.press/v139/vicol21a.html).
+*   [Persistent Evolution Strategies (⭐35k)](https://github.com/google-research/google-research/tree/master/persistent_es) - Code used for the paper [*Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies*](http://proceedings.mlr.press/v139/vicol21a.html).
 *   [WikiGraphs (⭐13k)](https://github.com/deepmind/deepmind-research/tree/master/wikigraphs) - Baseline code to reproduce results in [*WikiGraphs: A Wikipedia Text - Knowledge Graph Paired Datase*](https://aclanthology.org/2021.textgraphs-1.7).
 
 ### Models and Projects / Trax
 
-*   [Reformer (⭐8k)](https://github.com/google/trax/tree/master/trax/models/reformer) - Implementation of the Reformer (efficient transformer) architecture.
+*   [Reformer (⭐8.2k)](https://github.com/google/trax/tree/master/trax/models/reformer) - Implementation of the Reformer (efficient transformer) architecture.
 
 ### Videos / NumPyro
 
-*   [JAX, Flax & Transformers 🤗 (⭐125k)](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) - 3 days of talks around JAX / Flax, Transformers, large-scale language modeling and other great topics.
+*   [JAX, Flax & Transformers 🤗 (⭐139k)](https://github.com/huggingface/transformers/blob/9160d81c98854df44b1d543ce5d65a6aa28444a2/examples/research_projects/jax-projects/README.md#talks) - 3 days of talks around JAX / Flax, Transformers, large-scale language modeling and other great topics.
 
 ## [Jul 19 - Jul 25, 2021](/content/2021/29/README.md)
 
 ### Libraries / New Libraries
 
-*   [JAXopt](https://github.com/google/jaxopt) - Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
 *   [PIX](https://github.com/deepmind/dm_pix) - PIX is an image processing library in JAX, for JAX. <img src="https://img.shields.io/github/stars/deepmind/dm_pix?style=social" align="center">
 
 ## [Jul 12 - Jul 18, 2021](/content/2021/28/README.md)
@@ -440,7 +468,7 @@ JAX - A curated list of resources https://github.com/google/jax
 ### Tutorials and Blog Posts / NumPyro
 
 *   [Out of distribution (OOD) detection by Mat Kelcey](http://matpalm.com/blog/ood_using_focal_loss) - Implements different methods for OOD detection.
-*   [Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey (⭐353)](https://github.com/dfm/extending-jax) - Tutorial demonstrating the infrastructure required to provide custom ops in JAX.
+*   [Extending JAX with custom C++ and CUDA code by Dan Foreman-Mackey (⭐385)](https://github.com/dfm/extending-jax) - Tutorial demonstrating the infrastructure required to provide custom ops in JAX.
 *   [Evolving Neural Networks in JAX by Robert Tjarko Lange](https://roberttlange.github.io/posts/2021/02/cma-es-jax/) - Explores how JAX can power the next generation of scalable neuroevolution algorithms.
 
 ## [Jan 25 - Jan 31, 2021](/content/2021/4/README.md)
@@ -492,7 +520,7 @@ JAX - A curated list of resources https://github.com/google/jax
 
 *   [Using JAX to accelerate our research by David Budden and Matteo Hessel](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research) - Describes the state of JAX and the JAX ecosystem at DeepMind.
 *   [Getting started with JAX (MLPs, CNNs & RNNs) by Robert Lange](https://roberttlange.github.io/posts/2020/03/blog-post-10/) - Neural network building blocks from scratch with the basic JAX operators.
-*   [Tutorial: image classification with JAX and Flax Linen by 8bitmp3 (⭐22)](https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen) - Learn how to create a simple convolutional network with the Linen API by Flax and train it to recognize handwritten digits.
+*   [Tutorial: image classification with JAX and Flax Linen by 8bitmp3 (⭐24)](https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen) - Learn how to create a simple convolutional network with the Linen API by Flax and train it to recognize handwritten digits.
 *   [Meta-Learning in 50 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/02/maml-jax.html) - Introduction to both JAX and Meta-Learning.
 *   [Normalizing Flows in 100 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/07/nf-jax.html) - Concise implementation of [RealNVP](https://arxiv.org/abs/1605.08803).
 *   [Differentiable Path Tracing on the GPU/TPU by Eric Jang](https://blog.evjang.com/2019/11/jaxpt.html) - Tutorial on implementing path tracing.
@@ -529,5 +557,5 @@ JAX - A curated list of resources https://github.com/google/jax
 
 ### Community / NumPyro
 
-*   [JAX GitHub Discussions (⭐28k)](https://github.com/google/jax/discussions)
+*   [JAX GitHub Discussions (⭐31k)](https://github.com/google/jax/discussions)
 *   [Reddit](https://www.reddit.com/r/JAX/)

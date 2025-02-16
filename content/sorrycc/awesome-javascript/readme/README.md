@@ -182,6 +182,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [Sinon.JS (⭐9.7k)](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
 *   [expect.js (⭐2.1k)](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 *   [proxyquire (⭐2.7k)](https://github.com/thlorenz/proxyquire) - Stub nodejs's require.
+*   [Supertest (⭐14k)](https://github.com/visionmedia/supertest) - A popular HTTP assertion library for testing REST APIs, often used with other testing frameworks like Mocha or Jest
 
 ### Coverage
 
@@ -364,7 +365,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [Frappe Gantt (⭐5k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
 *   [G2 (⭐12k)](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
 *   [G2Plot (⭐2.6k)](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
-*   [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
+*   [Cytoscape.js (⭐10k)](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
 *   [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
 *   [jointjs (⭐4.8k)](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 *   [vizzu (⭐1.9k)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
@@ -409,7 +410,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [raptor-editor (⭐530)](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 *   [popline (⭐1.1k)](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
 *   [Summernote (⭐12k)](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
-*   [Everright-formEditor (⭐465)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐467)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ## Documentation
 
@@ -432,11 +433,11 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 *Libraries for working with files.*
 
-*   [Papa Parse](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
+*   [Papa Parse (⭐13k)](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
 *   [jBinary (⭐544)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 *   [diff2html (⭐3k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 *   [jsPDF (⭐30k)](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
-*   [PDF.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+*   [PDF.js (⭐50k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
 ## Functional Programming
 
@@ -460,7 +461,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 *   [RxJS (⭐31k)](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript.
 *   [Bacon (⭐6.5k)](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for JavaScript.
-*   [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
+*   [Kefir (⭐8)](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 *   [Highland](https://caolan.github.io/highland/) - Re-thinking the JavaScript utility belt, Highland manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 *   [Most.js (⭐3.5k)](https://github.com/cujojs/most) - high performance FRP library.
 *   [MobX (⭐28k)](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
@@ -472,7 +473,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *Data structure libraries to build a more sophisticated application.*
 
 *   [immutable-js (⭐33k)](https://github.com/facebook/immutable-js) - Immutable Data Collections including Sequence, Range, Repeat, Map, OrderedMap, Set and a sparse Vector.
-*   [mori](https://github.com/swannodette/mori) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
+*   [mori (⭐3.4k)](https://github.com/swannodette/mori) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 *   [buckets (⭐1.3k)](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 *   [hashmap (⭐382)](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 *   [ngraph.graph (⭐542)](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
@@ -490,7 +491,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [ms.js (⭐5.2k)](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 *   [countdown.js (⭐410)](https://github.com/gumroad/countdown.js) - Super simple countdowns.
 *   [timeago.js (⭐5.3k)](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
-*   [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (\~2KB). Meant to replace parsing and formatting functionality of moment.js.
+*   [fecha (⭐2.1k)](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (\~2KB). Meant to replace parsing and formatting functionality of moment.js.
 *   [date-fns (⭐35k)](https://github.com/date-fns/date-fns) - Modern JavaScript date utility library.
 *   [map-countdown (⭐5)](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
 *   [dayjs (⭐47k)](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
@@ -501,7 +502,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 *String Libraries.*
 
-*   [voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
+*   [voca (⭐3.6k)](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 *   [selecting (⭐93)](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user.
 *   [underscore.string (⭐3.4k)](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js JavaScript library.
 *   [string.js (⭐1.8k)](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
@@ -595,7 +596,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Security
 
-*   [DOMPurify (⭐14k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
+*   [DOMPurify (⭐15k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
 *   [js-xss (⭐5.3k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 *   [xss-filters (⭐1.1k)](https://github.com/yahoo/xss-filters) - Secure XSS Filters by Yahoo.
 *   [sanitize-html (⭐3.9k)](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
@@ -807,7 +808,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [Date Range Picker (⭐11k)](https://github.com/dangrossman/daterangepicker) - creates a dropdown menu from which a user can select a range of dates.
 *   [Duet Date Picker (⭐1.7k)](https://github.com/duetds/date-picker) - open source version of Duet Design System’s accessible date picker, WCAG 2.1 accessibility complaint
 *   [tui.calendar (⭐12k)](https://github.com/nhn/tui.calendar) - A JavaScript schedule calendar that is full featured. Now your service just got the customizable calendar.
-*   [Schedule-X (⭐1.5k)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
+*   [Schedule-X (⭐1.6k)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
 
 ### Select
 
@@ -1092,7 +1093,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [sotayamashita/awesome-css (⭐5.2k)](https://github.com/sotayamashita/awesome-css)
 *   [emijrp/awesome-awesome (⭐2.9k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐345k)](https://github.com/sindresorhus/awesome)
+*   [sindresorhus/awesome (⭐347k)](https://github.com/sindresorhus/awesome)
 *   [jnv/list (⭐10k)](https://github.com/jnv/lists)
 *   [gianarb/angularjs (⭐2.4k)](https://github.com/gianarb/awesome-angularjs)
 *   [peterkokot/awesome-dojo (⭐90)](https://github.com/peterkokot/awesome-dojo)

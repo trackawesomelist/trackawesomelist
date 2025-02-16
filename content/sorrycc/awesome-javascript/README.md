@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Feb 16, 2025](/content/2025/02/16/README.md)
+
+### Testing Frameworks / Assertion
+
+*   [Supertest (⭐14k)](https://github.com/visionmedia/supertest) - A popular HTTP assertion library for testing REST APIs, often used with other testing frameworks like Mocha or Jest
+
 ## [Feb 14, 2025](/content/2025/02/14/README.md)
 
 ### RegExp / Runner
@@ -70,7 +76,7 @@
 
 ### Form Widgets / Calendar
 
-*   [Schedule-X (⭐1.5k)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
+*   [Schedule-X (⭐1.6k)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
 
 ## [Nov 03, 2023](/content/2023/11/03/README.md)
 
@@ -104,7 +110,7 @@
 
 ### Editors / Runner
 
-*   [Everright-formEditor (⭐465)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐467)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ## [Apr 30, 2023](/content/2023/04/30/README.md)
 
@@ -384,7 +390,7 @@
 
 *   [metrics-graphics (⭐7.4k)](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
 *   [visjs](https://github.com/visjs) - Multiple Libraries for dynamic, browser-based data visualization.
-*   [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
+*   [Cytoscape.js (⭐10k)](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
 *   [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
 *   [jointjs (⭐4.8k)](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 
@@ -888,7 +894,7 @@
 
 ### Files / Runner
 
-*   [PDF.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+*   [PDF.js (⭐50k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
 ## [Jul 23, 2019](/content/2019/07/23/README.md)
 
@@ -1251,7 +1257,7 @@
 
 ### String / Runner
 
-*   [voca](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
+*   [voca (⭐3.6k)](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 
 ## [Jul 25, 2017](/content/2017/07/25/README.md)
 
@@ -1328,7 +1334,7 @@
 
 ### Date / Runner
 
-*   [fecha](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (\~2KB). Meant to replace parsing and formatting functionality of moment.js.
+*   [fecha (⭐2.1k)](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (\~2KB). Meant to replace parsing and formatting functionality of moment.js.
 
 ## [Aug 15, 2016](/content/2016/08/15/README.md)
 
@@ -2072,7 +2078,7 @@
 
 ### Data Structure / Runner
 
-*   [mori](https://github.com/swannodette/mori) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
+*   [mori (⭐3.4k)](https://github.com/swannodette/mori) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 
 ## [Nov 02, 2014](/content/2014/11/02/README.md)
 
@@ -2169,7 +2175,7 @@
 
 ### Reactive Programming / Runner
 
-*   [Kefir](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
+*   [Kefir (⭐8)](https://github.com/pozadi/kefir) - FRP library for JavaScript inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 
 ## [Aug 07, 2014](/content/2014/08/07/README.md)
 
@@ -2293,7 +2299,7 @@
 
 ### Files / Runner
 
-*   [Papa Parse](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
+*   [Papa Parse (⭐13k)](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
 
 ### Scroll / Other
 
@@ -2321,7 +2327,7 @@
 
 ### Security / Runner
 
-*   [DOMPurify (⭐14k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
+*   [DOMPurify (⭐15k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
 *   [js-xss (⭐5.3k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 
 ### Loading Status / Runner
@@ -2347,7 +2353,7 @@
 
 *   [emijrp/awesome-awesome (⭐2.9k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐345k)](https://github.com/sindresorhus/awesome)
+*   [sindresorhus/awesome (⭐347k)](https://github.com/sindresorhus/awesome)
 *   [jnv/list (⭐10k)](https://github.com/jnv/lists)
 
 ## [Jul 13, 2014](/content/2014/07/13/README.md)
