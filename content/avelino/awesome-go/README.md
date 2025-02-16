@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Feb 16, 2025](/content/2025/02/16/README.md)
+
+### Meetups / Libraries for creating HTTP middlewares
+
+*   [Go Ireland - Dublin](https://www.meetup.com/goireland/)
+
 ## [Feb 10, 2025](/content/2025/02/10/README.md)
 
 ### Stream Processing
@@ -290,7 +296,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Validation
 
-*   [Zog (⭐373)](https://github.com/Oudwins/zog) - A [Zod (⭐35k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
+*   [Zog (⭐373)](https://github.com/Oudwins/zog) - A [Zod (⭐36k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
     **[⬆ back to top](#contents)**
 
 ### Workflow Frameworks / Libraries for creating HTTP middlewares
@@ -3227,7 +3233,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Standard CLI
 
-*   [carapace (⭐498)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace (⭐517)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
 *   [carapace-bin (⭐1.1k)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 
 ### Uncategorized
@@ -4601,7 +4607,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Selenium and browser control tools
 
-*   [cdp (⭐739)](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.
+*   [cdp (⭐741)](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.
 
 ### Fail injection
 

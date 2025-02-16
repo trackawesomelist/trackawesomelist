@@ -1,12 +1,37 @@
 # Awesome List Updates on Feb 16, 2025
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### Java
+
+*   [open-ldk (⭐188)](https://github.com/atgreen/openldk) - A Java JIT Compiler and Runtime in Common Lisp. [GPL3.0](https://directory.fsf.org/wiki/License:Apache2.0). (Work In Progress)
+    *   "bridges the gap between Java and Common Lisp by incrementally translating Java bytecode into Lisp, which is then compiled into native machine code for execution. This unique approach allows Java classes to be seamlessly mapped to Common Lisp Object System (CLOS) classes, enabling effortless integration between Java and Common Lisp codebases."
+    *   "provides a practical solution for integrating Java libraries into a Lisp-based workflow without the need for an out-of-process Java runtime environment."
+
+### Mobile
+
+*   [JOSE (⭐34)](https://github.com/fukamachi/jose) - A JSON Object Signing and Encryption (JOSE) implementation for Common Lisp. BSD\_2Clause.
+
+### Iteration
+
+*   [cl-transducers (⭐121)](https://github.com/fosskers/cl-transducers/) - Ergonomic, efficient data processing. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+    *   "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source” means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
+    *   "It is, in general, the most complete implementation of the Transducer pattern."
+    *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
+
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Meetups / Libraries for creating HTTP middlewares
+
+*   [Go Ireland - Dublin](https://www.meetup.com/goireland/)
+
+## [3. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
 ### Text / Writing assistants
 
@@ -48,25 +73,29 @@
 
 *   [Awesome AI-Powered Developer Tools (⭐2.5k)](https://github.com/jamesmurdza/awesome-ai-devtools) - Curated list of AI-powered developer tools.
 
-## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+
+### Type Checkers
+
+*   [Zod (⭐36k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with built-in static type inference.
 
 ### Testing Frameworks / Assertion
 
 *   [Supertest (⭐14k)](https://github.com/visionmedia/supertest) - A popular HTTP assertion library for testing REST APIs, often used with other testing frameworks like Mocha or Jest
 
-## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [Health, HitBoxes, HurtBoxes, and HitScans (⭐14)](https://github.com/cluttered-code/godot-health-hitbox-hurtbox) - 2D and 3D Components to manage health, damage, and healing.
 
-## [4. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
+## [6. Awesome Webgl](/content/sjfricke/awesome-webgl/README.md)
 
 ### Maps and Visualizations / Particles
 
 *   [xeokit](https://xeokit.io/) - Web Graphics SDK for AEC/BIM applications with 3D-tiles, real-world coordinates and double precision.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -84,7 +113,7 @@
 
 *   [ngx-simple-material-table (⭐1)](https://github.com/holographic-blockchain/ngx-simple-material-table) - Angular library to simplify usage of the Angular Material table component.
 
-## [6. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries / New Libraries
 

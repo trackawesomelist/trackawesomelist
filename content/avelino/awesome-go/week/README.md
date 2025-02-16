@@ -12,6 +12,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [go-etl (⭐130)](https://github.com/Breeze0806/go-etl) - A lightweight toolkit for data source extraction, transformation, and loading (ETL).
 
+### Meetups / Libraries for creating HTTP middlewares
+
+*   [Go Ireland - Dublin](https://www.meetup.com/goireland/)
+
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
 ### Caches
@@ -266,7 +270,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Validation
 
-*   [Zog (⭐373)](https://github.com/Oudwins/zog) - A [Zod (⭐35k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
+*   [Zog (⭐373)](https://github.com/Oudwins/zog) - A [Zod (⭐36k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
     **[⬆ back to top](#contents)**
 
 ### Workflow Frameworks / Libraries for creating HTTP middlewares
@@ -3012,7 +3016,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [argparse (⭐621)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐41)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [carapace (⭐498)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace (⭐517)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
 *   [carapace-bin (⭐1.1k)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [climax (⭐217)](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
 *   [clîr (⭐187)](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free.
@@ -4273,7 +4277,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Selenium and browser control tools
 
-*   [cdp (⭐739)](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.
+*   [cdp (⭐741)](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.
 
 ### Fail injection
 

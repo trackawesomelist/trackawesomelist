@@ -8,6 +8,10 @@
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
+### Type Checkers
+
+*   [Zod (⭐36k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with built-in static type inference.
+
 ### Testing Frameworks / Assertion
 
 *   [Supertest (⭐14k)](https://github.com/visionmedia/supertest) - A popular HTTP assertion library for testing REST APIs, often used with other testing frameworks like Mocha or Jest

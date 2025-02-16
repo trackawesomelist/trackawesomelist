@@ -53,7 +53,7 @@ We use the *[Golang Bridge (⭐404)](https://github.com/gobridge/about-us/blob/m
 
 **Awesome Go has no monthly fee***, but we have employees who **work hard** to keep it running. With money raised, we can repay the effort of each person involved! You can see how we calculate our billing and distribution as it is open to the entire community. Want to be a supporter of the project click [here](https://github.com/avelino/awesome-go/blob/main/README.md/mailto:avelinorun+oss@gmail.com?subject=awesome-go%3A%20project%20support).*
 
-> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐232k)](https://github.com/vinta/awesome-python).
+> A curated list of awesome Go frameworks, libraries, and software. Inspired by [awesome-python (⭐234k)](https://github.com/vinta/awesome-python).
 
 **Contributing:**
 
@@ -417,7 +417,7 @@ Please take a quick gander at the [contribution guidelines (⭐138k)](https://gi
 *   [acmd (⭐120)](https://github.com/cristalhq/acmd) - Simple, useful, and opinionated CLI package in Go.
 *   [argparse (⭐621)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐41)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [carapace (⭐498)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace (⭐517)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
 *   [carapace-bin (⭐1.1k)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [carapace-spec (⭐20)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 *   [climax (⭐217)](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
@@ -2515,7 +2515,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 
 ### Selenium and browser control tools
 
-*   [cdp (⭐739)](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.
+*   [cdp (⭐741)](https://github.com/mafredri/cdp) - Type-safe bindings for the Chrome Debugging Protocol that can be used with browsers or other debug targets that implement it.
 *   [chromedp (⭐11k)](https://github.com/knq/chromedp) - a way to drive/test Chrome, Safari, Edge, Android Webviews, and other browsers supporting the Chrome Debugging Protocol.
 *   [ggr (⭐314)](https://github.com/aerokube/ggr) - a lightweight server that routes and proxies Selenium WebDriver requests to multiple Selenium hubs.
 *   [playwright-go (⭐2.4k)](https://github.com/mxschmitt/playwright-go) - browser automation library to control Chromium, Firefox and WebKit with a single API.
@@ -2957,7 +2957,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [validator (⭐17k)](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
 *   [Validator (⭐7)](https://github.com/go-the-way/validator) - A lightweight model validator written in Go.Contains VFs:Min, Max, MinLength, MaxLength, Length, Enum, Regex.
 *   [valix (⭐29)](https://github.com/marrow16/valix) Go package for validating requests
-*   [Zog (⭐373)](https://github.com/Oudwins/zog) - A [Zod (⭐35k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
+*   [Zog (⭐373)](https://github.com/Oudwins/zog) - A [Zod (⭐36k)](https://github.com/colinhacks/zod) inspired schema builder for runtime value parsing and validation.
     **[⬆ back to top](#contents)**
 
 ## Version Control
@@ -3558,6 +3558,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [Berlin Golang](https://www.meetup.com/golang-users-berlin/)
 *   [Brisbane Gophers](https://www.meetup.com/Brisbane-Golang-Meetup/)
 *   [Bärner Go Meetup - Berne, Switzerland](https://www.meetup.com/berner-go-meetup/)
+*   [Go Ireland - Dublin](https://www.meetup.com/goireland/)
 *   [Go Language NYC](https://www.meetup.com/golanguagenewyork/)
 *   [Go London User Group](https://www.meetup.com/Go-London-User-Group/)
 *   [Go Remote Meetup](https://www.meetup.com/Go-Remote-Meetup/)
