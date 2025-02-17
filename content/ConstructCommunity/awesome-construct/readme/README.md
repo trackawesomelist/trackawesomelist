@@ -66,6 +66,12 @@ This list includes all the best tools, tutorials and examples related to the awe
 *   [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow.
 *   [FrameworkJS for Construct2](https://c2.frameworkjs.eth.limo/) - Use Construct 2 to develop apps \[in development]
 
+### Develop
+
+*   [\[Fábio Smuu\] SDK Plugins Construct 2 (⭐4)](https://github.com/FabioSmuu/SDK_PluginC2)
+*   [\[Scirra\] SDK Plugins Construct 3 - Official (⭐14)](https://github.com/Scirra/Construct-Addon-SDK)
+*   [\[ConstructFund\] C3IDE2-cli (⭐0)](https://github.com/ConstructFund/c3ide2-cli)
+
 ## Export
 
 *   [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW\.js.
@@ -78,6 +84,10 @@ This list includes all the best tools, tutorials and examples related to the awe
 *   [\[Kyatric\] WebGL Effects List](https://www.construct.net/forum/extending-construct-2/effects-31/webgl-effects-list-51897) - Complete list of Effects available on the forums.
 
 ## Tutorials
+
+### Fórum
+
+*   [\[Rafael Trigo\] Construct 3 Tutorials](https://www.construct.net/en/tutorials/construct-tutorials-2525) - list of all my tutorials in Construct 3 by Rafael Trigo
 
 ### YouTube
 
@@ -101,7 +111,15 @@ This list includes all the best tools, tutorials and examples related to the awe
 *   [\[TodaysTuts\] Construct 2 - Behaviors](https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK) - Tutorials about Behaviours.
 *   Let's Make Games: [\[PONG\]](https://www.youtube.com/watch?v=cvItNHEMB80) [\[ASTEROIDS\]](https://www.youtube.com/watch?v=nYULTk2BpKY) [\[Flappy Bird\]](https://www.youtube.com/watch?v=eBccn1qMB_U) - Tutorials on how to make specifi games.
 *   [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB) - Learn how to create a Brakeout game.
-*   [Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
+*   [\[Marcos Game Dev\] Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
+*   [\[Marcos Game Dev\] Super Mario Bros. no Construct 2 e 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBou7QX1vZa7dFt6n3mTbnYAD) - Learn how to create Super Mario Bros. mechanics in Construct 2 or 3, faithfully recreated from the NES classic!
+*   [\[Marcos Game Dev\] Curso Metroidvania 1.0](https://www.youtube.com/playlist?list=PLuDpKE2ECBou-kcov-1DdbnNHLjxGiwDp) - The version 1.0 of the Metroidvania Course, recorded in 2018, is now free! Follow the lessons to create your own metroidvania in Construct 2 or 3!
+*   [\[Marcos Game Dev\] Plataforma Gostosinho - Técnicas de Polimento para Construct 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBovsRiINMYss6iOHJYCN8MNe) - It all started with one question: 'Can you polish a game without adding new art?' The 'Plataforma Gostosinho' series answers this by transforming a basic platformer into a game that’s fun to play in Construct 3!
+*   [\[Marcos Game Dev\] Recriando Megaman X no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovmH0TG_ye_Wrg9CATAiB1p) - Learn to create Megaman X mechanics like the iconic X-buster, intense boss battles, and special powers in Construct 2 or 3! Detailed, intermediate-level videos (with some advanced content).
+*   [\[Marcos Game Dev\] Curso Beat'em Up no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovMW6iHOWwa0zy5_g_7KL2l) - Create an amazing beat'em up with combos, local 4-player multiplayer, multiple enemies, and more in Construct 2 or 3! Not recommended for beginners.
+*   [\[Marcos Game Dev\] Criando Roguelike no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6) - Learn to create a roguelike with RANDOM LEVEL GENERATION, multiple enemies, and a complete platformer character! NOT recommended for beginners.
+*   [\[Marcos Game Dev\] Criando Menu Principal no Construct 2](https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U) - Learn to create a main menu that works for almost any game (focus on desktop). Includes fullscreen/window mode, control mapping, language switch, audio settings, and more.
+*   [Marcos Game Dev](https://www.youtube.com/@MarcosGameDev/videos) - Tutorials & more.
 
 ### Other Sources
 

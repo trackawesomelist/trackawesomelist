@@ -6,11 +6,31 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 [ Daily / [Weekly](/content/ConstructCommunity/awesome-construct/week/README.md) / [Overview](/content/ConstructCommunity/awesome-construct/readme/README.md) ]
 
-## [Oct 20, 2024](/content/2024/10/20/README.md)
+## [Feb 17, 2025](/content/2025/02/17/README.md)
+
+### Tools / Develop
+
+*   [\[Fábio Smuu\] SDK Plugins Construct 2 (⭐4)](https://github.com/FabioSmuu/SDK_PluginC2)
+*   [\[Scirra\] SDK Plugins Construct 3 - Official (⭐14)](https://github.com/Scirra/Construct-Addon-SDK)
+*   [\[ConstructFund\] C3IDE2-cli (⭐0)](https://github.com/ConstructFund/c3ide2-cli)
+
+### Tutorials / Fórum
+
+*   [\[Rafael Trigo\] Construct 3 Tutorials](https://www.construct.net/en/tutorials/construct-tutorials-2525) - list of all my tutorials in Construct 3 by Rafael Trigo
 
 ### Tutorials / YouTube
 
-*   [Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
+*   [\[Marcos Game Dev\] Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
+*   [\[Marcos Game Dev\] Super Mario Bros. no Construct 2 e 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBou7QX1vZa7dFt6n3mTbnYAD) - Learn how to create Super Mario Bros. mechanics in Construct 2 or 3, faithfully recreated from the NES classic!
+*   [\[Marcos Game Dev\] Curso Metroidvania 1.0](https://www.youtube.com/playlist?list=PLuDpKE2ECBou-kcov-1DdbnNHLjxGiwDp) - The version 1.0 of the Metroidvania Course, recorded in 2018, is now free! Follow the lessons to create your own metroidvania in Construct 2 or 3!
+*   [\[Marcos Game Dev\] Plataforma Gostosinho - Técnicas de Polimento para Construct 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBovsRiINMYss6iOHJYCN8MNe) - It all started with one question: 'Can you polish a game without adding new art?' The 'Plataforma Gostosinho' series answers this by transforming a basic platformer into a game that’s fun to play in Construct 3!
+*   [\[Marcos Game Dev\] Recriando Megaman X no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovmH0TG_ye_Wrg9CATAiB1p) - Learn to create Megaman X mechanics like the iconic X-buster, intense boss battles, and special powers in Construct 2 or 3! Detailed, intermediate-level videos (with some advanced content).
+*   [\[Marcos Game Dev\] Curso Beat'em Up no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovMW6iHOWwa0zy5_g_7KL2l) - Create an amazing beat'em up with combos, local 4-player multiplayer, multiple enemies, and more in Construct 2 or 3! Not recommended for beginners.
+*   [\[Marcos Game Dev\] Criando Roguelike no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6) - Learn to create a roguelike with RANDOM LEVEL GENERATION, multiple enemies, and a complete platformer character! NOT recommended for beginners.
+*   [\[Marcos Game Dev\] Criando Menu Principal no Construct 2](https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U) - Learn to create a main menu that works for almost any game (focus on desktop). Includes fullscreen/window mode, control mapping, language switch, audio settings, and more.
+*   [Marcos Game Dev](https://www.youtube.com/@MarcosGameDev/videos) - Tutorials & more.
+
+## [Oct 20, 2024](/content/2024/10/20/README.md)
 
 ### Tutorials / Other Sources
 
@@ -18,7 +38,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 ## [Aug 29, 2023](/content/2023/08/29/README.md)
 
-### Export
+### Export / Develop
 
 *   [AppPlayer-Electron (⭐3)](https://github.com/Floflis/AppPlayer-Electron) - Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux
 
@@ -40,7 +60,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 *   [FrameworkJS for Construct2](https://c2.frameworkjs.eth.limo/) - Use Construct 2 to develop apps \[in development]
 
-### Export
+### Export / Develop
 
 *   [Chowdren](https://mp2.dk/chowdren/) - Blazingly fast runtime for Clickteam Fusion and Scirra Construct.
 
@@ -52,7 +72,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 ## [Feb 11, 2019](/content/2019/02/11/README.md)
 
-### Export
+### Export / Develop
 
 *   [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW\.js.
 
@@ -82,7 +102,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 *   [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow.
 
-### Plugins/Behaviors/Effects
+### Plugins/Behaviors/Effects / Develop
 
 *   [\[Kyatric\] C2 Plugins and Behaviors List](https://www.construct.net/forum/extending-construct-2/addons-29/c2-plugins-and-behaviors-list-42712) - Complete list of Plugins and Behaviours available on the forums.
 *   [\[Kyatric\] WebGL Effects List](https://www.construct.net/forum/extending-construct-2/effects-31/webgl-effects-list-51897) - Complete list of Effects available on the forums.
