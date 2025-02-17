@@ -6,6 +6,23 @@
 
 [ [Daily](/content/sorrycc/awesome-javascript/README.md) / Weekly / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
+
+### Generators / Other
+
+*   [Astro (⭐49k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
+
+### ORM / Other
+
+*   [Prisma (⭐41k)](https://github.com/prisma/prisma) Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
+*   [Sequelize (⭐30k)](https://github.com/sequelize/sequelize) Feature-rich ORM for modern Node.js and TypeScript | PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB...
+*   [Mongoose (⭐27k)](https://github.com/Automattic/mongoose) MongoDB object modeling designed to work in an asynchronous environment.
+*   [TypeORM (⭐35k)](https://github.com/typeorm/typeorm) ORM for TypeScript and JavaScript, Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+*   [Drizzle ORM (⭐26k)](https://github.com/drizzle-team/drizzle-orm) Headless TypeScript ORM with a head. Runs on Node, Bun and Deno.
+*   [Kysely (⭐11k)](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder.
+*   [Knex (⭐20k)](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+*   [MikroORM (⭐8k)](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
+
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
 ### Type Checkers

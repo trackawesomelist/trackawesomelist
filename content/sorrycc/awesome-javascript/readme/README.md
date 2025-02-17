@@ -85,6 +85,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
     *   [Generators](#generators)
     *   [Full Text Search](#full-text-search)
     *   [SDK](#sdk)
+    *   [ORM](#orm)
     *   [Misc](#misc)
 *   [Worth Reading](#worth-reading)
 *   [Other Awesome Lists](#other-awesome-lists)
@@ -1034,6 +1035,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [Docusaurus (⭐58k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
 *   [Next.js (⭐129k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 *   [Lume (⭐2k)](https://github.com/lumeland/lume) - Static site generator for Deno.
+*   [Astro (⭐49k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
 
 ## SDK
 
@@ -1046,6 +1048,17 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [lunr (⭐9k)](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
 *   [flexsearch (⭐13k)](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
 *   [Elasticlunr (⭐2k)](https://github.com/weixsong/elasticlunr.js) - This library is based on lunr.js, but more flexible and customized.
+
+## ORM
+
+*   [Prisma (⭐41k)](https://github.com/prisma/prisma) Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
+*   [Sequelize (⭐30k)](https://github.com/sequelize/sequelize) Feature-rich ORM for modern Node.js and TypeScript | PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB...
+*   [Mongoose (⭐27k)](https://github.com/Automattic/mongoose) MongoDB object modeling designed to work in an asynchronous environment.
+*   [TypeORM (⭐35k)](https://github.com/typeorm/typeorm) ORM for TypeScript and JavaScript, Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+*   [Drizzle ORM (⭐26k)](https://github.com/drizzle-team/drizzle-orm) Headless TypeScript ORM with a head. Runs on Node, Bun and Deno.
+*   [Kysely (⭐11k)](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder.
+*   [Knex (⭐20k)](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+*   [MikroORM (⭐8k)](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
 
 ## Misc
 

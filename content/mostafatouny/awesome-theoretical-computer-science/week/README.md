@@ -2,9 +2,15 @@
 
 The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 761 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 810 · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / Weekly / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
+
+## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
+
+### Cheat Sheets / Lecture Videos Playlist
+
+*   [Useful Inequalities Cheat Sheet](http://www.lkozma.net/inequalities_cheat_sheet/)
 
 ## [Dec 02 - Dec 08, 2024](/content/2024/49/README.md)
 
@@ -86,7 +92,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Books / Monograph
 
-*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐930)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley for self-study](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf), and [Berkeley 2024](https://cs61a.org/) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
+*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐938)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley for self-study](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf), and [Berkeley 2024](https://cs61a.org/) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
 *   [Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap) - A book introducing both machine-checked proof with Coq Proof Assistant and approaches to formal reasoning about program correctness.
 *   [Lean Proof Assistant](https://lean-lang.org/documentation/) - Lean Proof Assistant.
 *   [Bengt. Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/book.pdf) - This book describes different type theories (theories of types, polymorphic and monomorphic sets, and subsets) from a computing science perspective.
@@ -243,8 +249,8 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Cheat Sheets / Lecture Videos Playlist
 
-*   [Mathematics (⭐9k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
-*   [Math (⭐4.6k)](https://github.com/ossu/math) and [CS (⭐173k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
+*   [Mathematics (⭐9.3k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
+*   [Math (⭐6.9k)](https://github.com/ossu/math) and [CS (⭐175k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -569,6 +575,6 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 ### Cheat Sheets / Lecture Videos Playlist
 
 *   [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
-*   [Algorithms (⭐21k)](https://github.com/tayllan/awesome-algorithms).
-*   [Cryptography (⭐6k)](https://github.com/sobolevn/awesome-cryptography).
-*   [Quantum Computing (⭐2.6k)](https://github.com/desireevl/awesome-quantum-computing).
+*   [Algorithms (⭐22k)](https://github.com/tayllan/awesome-algorithms).
+*   [Cryptography (⭐6.1k)](https://github.com/sobolevn/awesome-cryptography).
+*   [Quantum Computing (⭐2.7k)](https://github.com/desireevl/awesome-quantum-computing).

@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Feb 17, 2025](/content/2025/02/17/README.md)
+
+### Exercises / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-debug-quest (⭐21)](https://github.com/angular-courses-lab/angular-debug-quest) - Sharpen your skills at fixing bugs in Angular applications for a better understanding of the framework.
+
+### Updating / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Angular Caniuse](https://www.angular.courses/caniuse) - Track Angular features from preview to stable stages.
+
 ## [Feb 16, 2025](/content/2025/02/16/README.md)
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

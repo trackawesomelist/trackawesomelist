@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Feb 17, 2025](/content/2025/02/17/README.md)
+
+### APIs, Data, and ML
+
+*   [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
+
 ## [Feb 15, 2025](/content/2025/02/15/README.md)
 
 ### Other Free Resources
@@ -5562,6 +5568,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [AccessLint](https://github.com/marketplace/accesslint) — AccessLint brings automated web accessibility testing into your development workflow. It's free for open source and education purposes.
 *   [appveyor.com](https://www.appveyor.com/) — CD service for Windows, free for Open Source
+    *   [LocalOps](https://localops.co/) - Deploy your app on AWS/GCP/Azure in under 30 minutes. Setup standardised app environments on any cloud, which come with in-built continuous deployment automation and advanced observability. The free plan allows 1 user and 1 app environment.
 *   [bitrise.io](https://www.bitrise.io/) — A CI/CD for mobile apps, native or hybrid. With 200 free builds/month 10 min build time and two team members. OSS projects get 45 min build time, +1 concurrency and unlimited team size.
 *   [buddy.works](https://buddy.works/) — A CI/CD with five free projects and one concurrent run (120 executions/month)
 *   [deployhq.com](https://www.deployhq.com/) — 1 project with ten daily deployments (30 build minutes/month)
