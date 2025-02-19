@@ -6,148 +6,154 @@ A curated list of testing resources
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
+
+### Software / Service Virtualization
+
+*   [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
+*   [WireMock (⭐6.5k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
+
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
-### Software / Make your life easier
+### Software / UI & End-to-End Testing
 
-*   [Hercules (⭐237)](https://github.com/test-zeus-ai/testzeus-hercules) - World's first open source end to end testing agent.
-*   [Hyperbrowser](https://hyperbrowser.ai) - A platform for running and scaling headless browsers with built-in features for session recording, CAPTCHA solving, proxies, etc to easily run tests at scale.
-*   [MixedVoices](https://mixedvoices.xyz) - An Open Source tool for analyzing and evaluating AI Voice agents
+*   [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
+*   [Hercules (⭐376)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
 
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
-### Software / Make your life easier
+### Software / Visual Testing
 
-*   [TestingBot](https://testingbot.com) - Run automated, manual and visual tests on a wide range of browsers and devices.
+*   [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
-### Software / Make your life easier
+### Software / UI & End-to-End Testing
 
-*   [LambdaTest](https://www.lambdatest.com) - An AI-powered unified enterprise test execution cloud platform that helps businesses drastically reduce time to market through faster test execution, ensuring quality releases and accelerated digital transformation
+*   [LambdaTest](https://www.lambdatest.com) - Unified enterprise test execution cloud platform for browser and mobile testing.
 
-### Newsletters / Other
+### Newsletters / Mind Mapping & Documentation
 
 *   [Coding Jag](https://www.lambdatest.com/newsletter) - Your weekly dose of the latest in Testing, Development, CI/CD, and Automation—keeping you ahead of the curve."
 
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
-### Software / Make your life easier
+### Software / API Testing
 
 *   [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
 
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
-### Software / Make your life easier
+### Software / API Testing
 
-*   [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in pure English. No programming needed. Implemented and extendable in Python.
+*   [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in plain English with extendable Python implementation.
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
-### Software / Make your life easier
+### Software / Visual Testing
 
-*   [GoodLooks (⭐41)](https://github.com/dashcamio/goodlooks) - Visually validate Playwright tests using AI vision instead of flaky selectors.
+*   [GoodLooks (⭐40)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
 
 ## [Jan 15 - Jan 21, 2024](/content/2024/3/README.md)
 
-### Software / Make your life easier
+### Software / UI & End-to-End Testing
 
-*   [playwright-bdd (⭐348)](https://github.com/vitalets/playwright-bdd) - A module for running Behaviour-Driven Development (BDD) tests with Playwright runner.
+*   [playwright-bdd (⭐370)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
-### Software / Make your life easier
+### Software / UI & End-to-End Testing
 
-*   [Ferrum (⭐1.8k)](https://github.com/rubycdp/ferrum) - very simple and easy to get started with frontend/UI testing in small Ruby scripts, high-level API to control Chrome with the CDP - Chrome DevTools Protocol (NO Selenium dependency)
+*   [Ferrum (⭐1.8k)](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
 
 ## [Nov 06 - Nov 12, 2023](/content/2023/45/README.md)
 
-### Software / Make your life easier
+### Software / Test Management
 
-*   [Testomatio](https://testomat.io/) Modern TCMS allows sync of manual and automated tests in one place. Allure, TestRail, Xray alternative. FREE subscription forever is available.
+*   [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
 ## [Aug 21 - Aug 27, 2023](/content/2023/34/README.md)
 
-### Software / Make your life easier
+### Software / UI & End-to-End Testing
 
-*   [Octomind](https://github.com/OctoMind-dev) - auto-generated, run and maintained Playwright tests with AI-powered test case discovery.
+*   [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
-### Software / Web3 and Blockchain
+### Software / Web3 & Blockchain Testing
 
-*   [Cannon](https://usecannon.com/) - Continuous configuration automation & development cli multi-tool. Like Terraform, Docker and NPM for Ethereum.
+*   [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
-### Software / Make your life easier
+### Software / Visual Testing
 
-*   [wopee.io](https://wopee.io/) - Autonomous testing platform providing bot for autonomous visual regression testing.
+*   [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.
 
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
-### Software / Make your life easier
+### Software / Web3 & Blockchain Testing
 
-*   [Robot Framework](https://robotframework.org/) - Generic open source automation framework. It can be used for testing and robotic process automation (RPA).
+*   [Dapp.tools](https://dapp.tools/) - Command-line tools and smart contract libraries for Ethereum.
+*   [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain for running tests.
+*   [Foundry (⭐8.6k)](https://github.com/foundry-rs/foundry) - Fast, modular toolkit for Ethereum development.
+*   [Hardhat](https://hardhat.org/) - Ethereum development and testing environment.
+*   [Truffle Suite](https://trufflesuite.com/) - Comprehensive smart contract development suite.
+*   [Robot Framework Solidity Testing Toolkit (⭐11)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - Robot Framework integration for Solidity testing.
 
-### Software / Web3 and Blockchain
+### Software / Test Automation Frameworks
 
-*   [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
-*   [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
-*   [Foundry (⭐8.5k)](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-*   [Hardhat](https://hardhat.org/) - Multichain Ethereum development environment.
-*   [Robot Framework Solidity Testing Toolkit (⭐11)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework.
-*   [Truffle Suite](https://trufflesuite.com/) - Comprehensive suite of tools for smart contract development.
+*   [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
-### Software / Make your life easier
+### Software / API Testing
 
-*   [RestQA (⭐88)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
+*   [RestQA (⭐88)](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
 
-### Training (Includes developer training for automation testers) / Other
+### Training (Includes developer training for automation testers) / Mind Mapping & Documentation
 
 *   [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
-### Software / Make your life easier
+### Software / Screen Recording & Session Replays
 
-*   [Replayable](https://replayable.io) - Desktop dashcam that helps you capture unexpected bugs during manual testing.
+*   [Replayable](https://replayable.io) - Desktop dashcam for capturing manual testing sessions.
 
 ## [Jul 18 - Jul 24, 2022](/content/2022/29/README.md)
 
-### Software / Make your life easier
+### Software / Test Data Management
 
-*   [test-each (⭐114)](https://github.com/ehmicky/test-each) - Repeats tests using different inputs (Data-Driven Testing).
+*   [test-each (⭐114)](https://github.com/ehmicky/test-each) - Data-driven testing framework.
 
 ## [Jun 20 - Jun 26, 2022](/content/2022/25/README.md)
 
-### Software / Make your life easier
+### Software / Test Data Management
 
-*   [Touca (⭐501)](https://github.com/trytouca/trytouca) - Open source continuous regression testing to compare the behavior and performance of software against a previous baseline version.
+*   [Touca (⭐502)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
-### Software / Make your life easier
+### Software / UI & End-to-End Testing
 
-*   [BugBug](https://bugbug.io) - Lightweight test automation tool for web applications. Easy to learn and doesn't require coding. It's free, with unlimited tests. For an additional monthly fee, you also get cloud monitoring and CI/CD integration.
+*   [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
-### Software / Make your life easier
+### Software / API Testing
 
-*   [Keploy (⭐5.3k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks(test data) from API calls.
+*   [Keploy (⭐5.3k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
 
-### Books / Other
+### Books / Mind Mapping & Documentation
 
 *   [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - A hands-on guide for developers on how to create high quality tests in a systematic and effective way.
 
 ## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
 
-### Books / Other
+### Books / Mind Mapping & Documentation
 
 *   [Chaos Engineering](https://www.manning.com/books/chaos-engineering) - A book that teaches you to design and execute controlled experiments that uncover hidden problems.
 *   [The Art of Unit Testing, Third Edition](https://www.manning.com/books/the-art-of-unit-testing-third-edition) - A book that guides you step by step from your first simple unit tests to building complete test sets that are maintainable, readable, and trustworthy.
@@ -155,25 +161,25 @@ A curated list of testing resources
 
 ## [Aug 23 - Aug 29, 2021](/content/2021/34/README.md)
 
-### Software / Make your life easier
+### Software / Service Virtualization
 
-*   [DeepfakeHTTP (⭐515)](https://github.com/xnbox/DeepfakeHTTP) - DeepfakeHTTP is a web server that uses HTTP dumps as a source for responses. This tool allows you to test clients against REST, GraphQL, and other APIs.
+*   [DeepfakeHTTP (⭐515)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 
 ## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
 
-### Software / Make your life easier
+### Software / Browser Extensions & Utilities
 
-*   [Requestly](https://requestly.io/) - A lightweight proxy as a browser extension & desktop app to intercept & modify network requests. You can Modify Headers, Redirect Url, Mock API response, Delay/Throttle requests, etc.
+*   [Requestly](https://requestly.io/) - A lightweight proxy to intercept and modify network requests.
 
 ## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
 
-### Software / Make your life easier
+### Software / Test Data Management
 
-*   [Synth (⭐1.4k)](https://github.com/getsynth/synth) - Open Source test data generator.
+*   [Synth (⭐1.4k)](https://github.com/getsynth/synth) - Open-source test data generator.
 
 ## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
 
-### Blogs / Other
+### Blogs / Mind Mapping & Documentation
 
 *   [Automation Panda](https://automationpanda.com/)
 
@@ -185,25 +191,25 @@ A curated list of testing resources
 
 ## [Dec 07 - Dec 13, 2020](/content/2020/49/README.md)
 
-### Newsletters / Other
+### Newsletters / Mind Mapping & Documentation
 
 *   [Software Testing Weekly](https://softwaretestingweekly.com/) - A curated round-up of the best software testing news and tools published every Friday.
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 
-### Blogs / Other
+### Blogs / Mind Mapping & Documentation
 
 *   [Softwaretester Blog](https://www.softwaretester.blog/)
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
 
-### Books / Other
+### Books / Mind Mapping & Documentation
 
 *   [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A book about JavaScript testing tools and techniques for developers.
 
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)
 
-### Books / Other
+### Books / Mind Mapping & Documentation
 
 *   [Chaos Engineering: Crash test your applications](https://www.manning.com/books/chaos-engineering) - A book on how to design and execute controlled software failure experiments.
 
@@ -215,15 +221,21 @@ A curated list of testing resources
 
 ## [Dec 30 - Jan 05, 2019](/content/2019/52/README.md)
 
-### Software / Make your life easier
+### Software / UI & End-to-End Testing
 
-*   [Kiwi TCMS (⭐1k)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
-*   [Captura (⭐10k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
-*   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
+*   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
+
+### Software / Test Management
+
+*   [Kiwi TCMS (⭐1k)](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
+
+### Software / Screen Recording & Session Replays
+
+*   [Captura (⭐10k)](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
 
 ## [Nov 25 - Dec 01, 2019](/content/2019/47/README.md)
 
-### Blogs / Other
+### Blogs / Mind Mapping & Documentation
 
 *   [Nikita Sobolev](https://sobolevn.me/)
 
@@ -235,16 +247,19 @@ A curated list of testing resources
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
-### Software / Make your life easier
+### Software / UI & End-to-End Testing
 
-*   [Courgette](https://courgette-testing.com) - Beautifully simple UI testing. Proper declarative BDD scenarios using Gherkin, Gherkin templates and composable YAML-style page and component objects.
+*   [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
 
 ## [Jul 15 - Jul 21, 2019](/content/2019/28/README.md)
 
-### Software / Make your life easier
+### Software / Visual Testing
 
-*   [Check All](https://chrispederick.com/work/web-developer/) - "Select All" is often not available. Why not bring your own?
-*   [recheck-web (⭐265)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
+*   [recheck-web (⭐265)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
+
+### Software / Browser Extensions & Utilities
+
+*   [Check All](https://chrispederick.com/work/web-developer/) - Provides a "Select All" function where missing.
 
 ## [Apr 15 - Apr 21, 2019](/content/2019/15/README.md)
 
@@ -254,9 +269,9 @@ A curated list of testing resources
 
 ## [Jan 21 - Jan 27, 2019](/content/2019/3/README.md)
 
-### Software / Make your life easier
+### Software / Visual Testing
 
-*   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
+*   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
 
 ## [Jan 14 - Jan 20, 2019](/content/2019/2/README.md)
 
@@ -266,11 +281,11 @@ A curated list of testing resources
 
 ## [Jul 30 - Aug 05, 2018](/content/2018/31/README.md)
 
-### Software / Make your life easier
+### Software / Test Management
 
-*   [TestLink (⭐1.4k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
+*   [TestLink (⭐1.4k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 
-### Books / Other
+### Books / Mind Mapping & Documentation
 
 *   [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
 *   [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7) - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!
@@ -284,7 +299,7 @@ A curated list of testing resources
 
 ## [Jun 04 - Jun 10, 2018](/content/2018/23/README.md)
 
-### Blogs / Other
+### Blogs / Mind Mapping & Documentation
 
 *   [James Bach](http://www.satisfice.com/blog/)
 *   [Michael Bolton](http://www.developsense.com/blog/)
@@ -292,9 +307,9 @@ A curated list of testing resources
 
 ## [Jan 08 - Jan 14, 2018](/content/2018/2/README.md)
 
-### Software / Make your life easier
+### Software / Mind Mapping & Documentation
 
-*   [Xmind](http://www.xmind.net/) - The best (free) Mindmapping tool for documenting your tests.
+*   [Xmind](http://www.xmind.net/) - Mind mapping tool for documenting test cases and strategies.
 
 ## [Nov 27 - Dec 03, 2017](/content/2017/48/README.md)
 
@@ -316,48 +331,50 @@ A curated list of testing resources
 
 ## [Jan 23 - Jan 29, 2017](/content/2017/4/README.md)
 
-### Software / Make your life easier
+### Software / Browser Extensions & Utilities
 
-*   [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Suggests values based on the field type.
+*   [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Field-based value suggestions for form testing.
 
 ### Suggested Awesome Lists / Must Read
 
 *   [Falsehoods (⭐25k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐47k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐920)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐923)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐342k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [The Original (⭐347k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 *   [Application Security (⭐6.4k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐13k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 
 ## [Jan 02 - Jan 08, 2017](/content/2017/1/README.md)
 
-### Software / Security
+### Software / Security Testing
 
-*   [BeEF](http://beefproject.com/) - Manipulate the browser exploiting any XSS vulns you find.
+*   [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
 
 ## [Dec 19 - Dec 25, 2016](/content/2016/51/README.md)
 
-### Software / Security
+### Software / Security Testing
 
-*   [OWASP ZAP (⭐13k)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
+*   [OWASP ZAP (⭐13k)](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 
-### Software / Make your life easier
+### Software / Browser Extensions & Utilities
 
-*   [BareTail](https://www.baremetalsoft.com/baretail/) - Brings the tail linux command to Windows, coloured lines and REGEX search and loads of other features.
-*   [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - We all have to mess with proxies, this makes it a lot easier when using Test/Prod/localhost proxies.
-*   [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - For when PrintScreen isn't big enough.
-*   [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Large forms can be really irritating to fill out each time, speed it up with dummy data.
+*   [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture full-page screenshots.
+*   [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
+*   [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - Easy proxy switching for test/prod environments.
 
-### Software / Other
+### Software / Accessibility & Usability Testing
 
-*   [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
-*   [Yslow](http://yslow.org/) - Analyse why web pages are slow based on Yahoo!'s rules for performance.
+*   [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
 
-### Training (Includes developer training for automation testers) / Other
+### Software / Performance & Load Testing
+
+*   [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
+
+### Training (Includes developer training for automation testers) / Mind Mapping & Documentation
 
 *   [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 *   [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
