@@ -11,6 +11,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Bayesian Modeling / Nonparametric Model
 
 *   [Nonparametric Bayesian Logic](https://dl.acm.org/doi/abs/10.5555/3020336.3020347) - ***UAI'05***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095)]. \[[Preprint](https://www.cs.ubc.ca/~nando/papers/npblog.pdf)]. The Bayesian Logic (BLOG) language was recently developed for defining first-order probability models over worlds with unknown numbers of objects. It handles important problems in AI, including data association and population estimation. This paper extends BLOG by adopting generative processes over function spaces — known as nonparametrics in the Bayesian literature. This work introduces syntax for reasoning about arbitrary collections of objects, and their properties, in an intuitive manner. By exploiting exchangeability, distributions over unknown objects and their attributes are cast as Dirichlet processes, which resolve difficulties in model selection and inference caused by varying numbers of objects.
+*   [Infinite Hidden Relational Models](https://dl.acm.org/doi/abs/10.5555/3020419.3020485) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141)]. \[[Preprint](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf)]. Relational learning analyzes the probabilistic constraints between the attributes of entities and relationships. This work extends the expressiveness of relational models by introducing for each entity (or object) an infinite-dimensional latent variable as part of a Dirichlet process (DP) mixture model. This work discusses inference in the model, which is based on a DP Gibbs sampler, i.e., the Chinese restaurant process. The authors extended the Chinese restaurant process to be applicable to relational modeling.
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
@@ -2071,10 +2072,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Word, thought, and deed: the role of object categories in children's inductive inferences and exploratory play](https://psycnet.apa.org/record/2008-12114-008) - ***Developmental Psychology***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=13947689064550390312\&hl=en\&as_sdt=0,5)].
 
 ## [Dec 20 - Dec 26, 2021](/content/2021/51/README.md)
-
-### Bayesian Modeling / Nonparametric Model
-
-*   [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
 ### Meta-Level Considerations / Gestalt
 

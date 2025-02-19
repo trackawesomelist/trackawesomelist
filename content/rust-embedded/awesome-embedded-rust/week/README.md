@@ -11,6 +11,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### Driver crates / Other
 
 *   [adafruit-seesaw](https://crates.io/crates/adafruit-seesaw) - I2C - Driver for devices running the [Adafruit Seesaw](https://learn.adafruit.com/adafruit-seesaw-atsamd09-breakout/overview) firmware - [![crates.io](https://img.shields.io/crates/v/adafruit-seesaw.svg)](https://crates.io/crates/adafruit-seesaw)
+*   [IS31FL3728](https://crates.io/crates/is31fl3728-rs) - I2C -  LED dot matrix display mode (8×8, 5x11, 6x10,7x9) - [github (⭐0)](https://github.com/leonidv/is31fl3728-rs) -[![crates.io](https://img.shields.io/crates/v/is31fl3728-rs)](https://crates.io/crates/is31fl3728-rs)
 
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 

@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Feb 19, 2025](/content/2025/02/19/README.md)
+
+### Driver crates / Other
+
+*   [IS31FL3728](https://crates.io/crates/is31fl3728-rs) - I2C -  LED dot matrix display mode (8×8, 5x11, 6x10,7x9) - [github (⭐0)](https://github.com/leonidv/is31fl3728-rs) -[![crates.io](https://img.shields.io/crates/v/is31fl3728-rs)](https://crates.io/crates/is31fl3728-rs)
+
 ## [Feb 18, 2025](/content/2025/02/18/README.md)
 
 ### Driver crates / Other

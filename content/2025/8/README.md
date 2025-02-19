@@ -1,19 +1,25 @@
 # Awesome List Updates on Feb 24 - Mar 02, 2025
 
-16 awesome lists updated this week.
+17 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+
+### Open Source Projects / Knowledge Management
+
+*   [Minima (⭐500)](https://github.com/dmayboroda/minima): Chat with local documents, connect local environment to ChatGPT or Claude ![GitHub Repo stars](https://img.shields.io/github/stars/dmayboroda/minima?style=social)
+
+## [2. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / Service Virtualization
 
 *   [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
 *   [WireMock (⭐6.5k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [3. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -73,19 +79,20 @@
 
 *   [YAML (⭐367) (⭐366)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [3. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Corgea](https://corgea.com/) :copyright: — Corgea is an AI-powered SAST scanner that helps developers find and fix insecure code.  It finds business logic flaws, broken authentication, API vulnerabilities, and more with little false positives. Additionally, it automatically writes security fixes for them to approve.  Corgea integrates with GitHub, GitLab, Azure DevOps, IDEs and CLI. It is free to try it.
 
-## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [5. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [adafruit-seesaw](https://crates.io/crates/adafruit-seesaw) - I2C - Driver for devices running the [Adafruit Seesaw](https://learn.adafruit.com/adafruit-seesaw-atsamd09-breakout/overview) firmware - [![crates.io](https://img.shields.io/crates/v/adafruit-seesaw.svg)](https://crates.io/crates/adafruit-seesaw)
+*   [IS31FL3728](https://crates.io/crates/is31fl3728-rs) - I2C -  LED dot matrix display mode (8×8, 5x11, 6x10,7x9) - [github (⭐0)](https://github.com/leonidv/is31fl3728-rs) -[![crates.io](https://img.shields.io/crates/v/is31fl3728-rs)](https://crates.io/crates/is31fl3728-rs)
 
-## [5. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [6. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Official news
 
@@ -95,13 +102,13 @@
 
 *   [Build a Decision Tree in Polars from Scratch](https://towardsdatascience.com/build-a-decision-tree-in-polars-from-scratch/) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here (⭐5)](https://github.com/tocab/efficient-trees).
 
-## [6. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [7. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
 *   [fdup (⭐2)](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 
-## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Large Language Models (LLMs)
 
@@ -111,19 +118,19 @@
 
 *   [Lunary](https://lunary.ai): Open-source platform for LLM chatbots and agents: observability, prompt management, testing & more
 
-## [8. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [9. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Related lists
 
 *   [Awesome Music Programming (⭐1)](https://github.com/zoejane/awesome-music-programming) - A curated collection of music programming languages, libraries, frameworks and tools.
 
-## [9. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [10. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Ingestion
 
 *   [CsvPath Framework](https://www.csvpath.org/) - A delimited data preboarding framework that fills the gap between MFT and the data lake.
 
-## [10. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [11. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Tools / Develop
 
@@ -147,7 +154,7 @@
 *   [\[Marcos Game Dev\] Criando Menu Principal no Construct 2](https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U) - Learn to create a main menu that works for almost any game (focus on desktop). Includes fullscreen/window mode, control mapping, language switch, audio settings, and more.
 *   [Marcos Game Dev](https://www.youtube.com/@MarcosGameDev/videos) - Tutorials & more.
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [12. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### File Explorer / Diagnostics
 
@@ -157,13 +164,14 @@
 
 *   [neanvo/buben.nvim (⭐1)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [13. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Nonparametric Model
 
 *   [Nonparametric Bayesian Logic](https://dl.acm.org/doi/abs/10.5555/3020336.3020347) - ***UAI'05***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095)]. \[[Preprint](https://www.cs.ubc.ca/~nando/papers/npblog.pdf)]. The Bayesian Logic (BLOG) language was recently developed for defining first-order probability models over worlds with unknown numbers of objects. It handles important problems in AI, including data association and population estimation. This paper extends BLOG by adopting generative processes over function spaces — known as nonparametrics in the Bayesian literature. This work introduces syntax for reasoning about arbitrary collections of objects, and their properties, in an intuitive manner. By exploiting exchangeability, distributions over unknown objects and their attributes are cast as Dirichlet processes, which resolve difficulties in model selection and inference caused by varying numbers of objects.
+*   [Infinite Hidden Relational Models](https://dl.acm.org/doi/abs/10.5555/3020419.3020485) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141)]. \[[Preprint](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf)]. Relational learning analyzes the probabilistic constraints between the attributes of entities and relationships. This work extends the expressiveness of relational models by introducing for each entity (or object) an infinite-dimensional latent variable as part of a Dirichlet process (DP) mixture model. This work discusses inference in the model, which is based on a DP Gibbs sampler, i.e., the Chinese restaurant process. The authors extended the Chinese restaurant process to be applicable to relational modeling.
 
-## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Generators / Other
 
@@ -180,7 +188,7 @@
 *   [Knex (⭐20k)](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 *   [MikroORM (⭐8k)](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -190,7 +198,7 @@
 
 *   [LocalOps](https://localops.co/) - Deploy your app on AWS/GCP/Azure in under 30 minutes. Setup standardised app environments on any cloud, which come with in-built continuous deployment automation and advanced observability. The free plan allows 1 user and 1 app environment.
 
-## [15. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Exercises / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -212,7 +220,7 @@
 
 *   [ngx-card-wrapper (⭐1)](https://github.com/filip194/ngx-card-wrapper) - Angular >=16 wrapper for [card.js (⭐12k)](https://github.com/jessepollak/card), which provides a credit card form.
 
-## [16. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [17. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Cheat Sheets / Lecture Videos Playlist
 

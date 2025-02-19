@@ -1,19 +1,37 @@
 # Awesome List Updates on Feb 19, 2025
 
-4 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+### Open Source Projects / Knowledge Management
+
+*   [Minima (⭐500)](https://github.com/dmayboroda/minima): Chat with local documents, connect local environment to ChatGPT or Claude ![GitHub Repo stars](https://img.shields.io/github/stars/dmayboroda/minima?style=social)
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+### Bayesian Modeling / Nonparametric Model
+
+*   [Infinite Hidden Relational Models](https://dl.acm.org/doi/abs/10.5555/3020419.3020485) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141)]. \[[Preprint](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf)]. Relational learning analyzes the probabilistic constraints between the attributes of entities and relationships. This work extends the expressiveness of relational models by introducing for each entity (or object) an infinite-dimensional latent variable as part of a Dirichlet process (DP) mixture model. This work discusses inference in the model, which is based on a DP Gibbs sampler, i.e., the Chinese restaurant process. The authors extended the Chinese restaurant process to be applicable to relational modeling.
+
+## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+
+### Driver crates / Other
+
+*   [IS31FL3728](https://crates.io/crates/is31fl3728-rs) - I2C -  LED dot matrix display mode (8×8, 5x11, 6x10,7x9) - [github (⭐0)](https://github.com/leonidv/is31fl3728-rs) -[![crates.io](https://img.shields.io/crates/v/is31fl3728-rs)](https://crates.io/crates/is31fl3728-rs)
+
+## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / Service Virtualization
 
 *   [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
 *   [WireMock (⭐6.5k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -73,13 +91,13 @@
 
 *   [YAML (⭐367) (⭐366)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### GraphQL / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [takeshape](https://www.takeshape.io/) - It's easy to build a GraphQL API using TakeShape. Integrating with an Angular project is easy, and you can follow this [guide](https://app.takeshape.io/docs/get-started/client/angular).
 
-## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 

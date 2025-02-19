@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Feb 19, 2025](/content/2025/02/19/README.md)
+
+### Bayesian Modeling / Nonparametric Model
+
+*   [Infinite Hidden Relational Models](https://dl.acm.org/doi/abs/10.5555/3020419.3020485) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141)]. \[[Preprint](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf)]. Relational learning analyzes the probabilistic constraints between the attributes of entities and relationships. This work extends the expressiveness of relational models by introducing for each entity (or object) an infinite-dimensional latent variable as part of a Dirichlet process (DP) mixture model. This work discusses inference in the model, which is based on a DP Gibbs sampler, i.e., the Chinese restaurant process. The authors extended the Chinese restaurant process to be applicable to relational modeling.
+
 ## [Feb 17, 2025](/content/2025/02/17/README.md)
 
 ### Bayesian Modeling / Nonparametric Model
@@ -2563,12 +2569,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Bayesian Modeling / Nonparametric Model
 
 *   [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***Statistical Science***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995)]. This paper reviews the current state of nonparametric Bayesian inference. The discussion follows a list of important statistical inference problems, including density estimation, regression, survival analysis, hierarchical models and model validation. For each inference problem the authors review relevant nonparametric Bayesian models and approaches including Dirichlet process (DP) models and variations, Pólya trees, wavelet based models, neural network models, spline regression, CART, dependent DP models and model validation with DP and Pólya tree extensions of parametric models.
-
-## [Dec 26, 2021](/content/2021/12/26/README.md)
-
-### Bayesian Modeling / Nonparametric Model
-
-*   [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141\&hl=en\&as_sdt=2005\&sciodt=0,5)].
 
 ## [Dec 23, 2021](/content/2021/12/23/README.md)
 
