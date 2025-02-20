@@ -8,6 +8,10 @@
 
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
+### Templating Engines / Runner
+
+*   [hmpl](https://hmpl-lang.dev) - Server-oriented customizable templating for JavaScript.
+
 ### Generators / Other
 
 *   [Astro (⭐49k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
@@ -135,7 +139,7 @@
 
 ### Generators / Other
 
-*   [Next.js (⭐129k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
+*   [Next.js (⭐130k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
@@ -364,7 +368,7 @@
 
 ### Testing Frameworks / Runner
 
-*   [Playwright (⭐69k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐70k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [Nov 08 - Nov 14, 2021](/content/2021/45/README.md)
 

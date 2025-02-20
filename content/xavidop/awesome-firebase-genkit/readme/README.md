@@ -53,6 +53,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
     *   [JavaScript - Community](#javascript---community)
     *   [Golang - Official](#golang---official)
     *   [Golang - Community](#golang---community)
+*   [Solutions](#solutions)
 *   [Talks](#talks)
 *   [Videos](#videos)
 *   [Articles](#articles)
@@ -124,6 +125,10 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 1.  Model / Embedding Plugins
     *   [`openai`](https://pkg.go.dev/github.com/yukinagae/genkit-go-plugins/plugins/openai) - Plugin for OpenAI APIs.
+
+## Solutions
+
+*   [`internal AI`](https://github.com/tanabee/internal-ai) - An open-source Genkit-based internal AI chat application.
 
 ## Talks
 

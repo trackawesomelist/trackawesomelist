@@ -6,6 +6,12 @@
 
 [ [Daily](/content/xavidop/awesome-firebase-genkit/README.md) / Weekly / [Overview](/content/xavidop/awesome-firebase-genkit/readme/README.md) ]
 
+## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
+
+### Solutions / Golang - Community
+
+*   [`internal AI`](https://github.com/tanabee/internal-ai) - An open-source Genkit-based internal AI chat application.
+
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
 ### Talks / Golang - Community

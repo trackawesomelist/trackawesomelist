@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Feb 20, 2025](/content/2025/02/20/README.md)
+
+### Templating Engines / Runner
+
+*   [hmpl](https://hmpl-lang.dev) - Server-oriented customizable templating for JavaScript.
+
 ## [Feb 17, 2025](/content/2025/02/17/README.md)
 
 ### Generators / Other
@@ -141,7 +147,7 @@
 
 ### Generators / Other
 
-*   [Next.js (⭐129k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
+*   [Next.js (⭐130k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 
@@ -384,7 +390,7 @@
 
 ### Testing Frameworks / Runner
 
-*   [Playwright (⭐69k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐70k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [Nov 10, 2021](/content/2021/11/10/README.md)
 

@@ -205,7 +205,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [puppeteer (⭐90k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 *   [webdriverio (⭐9.2k)](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
 *   [taiko (⭐3.6k)](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
-*   [Playwright (⭐69k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐70k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## QA Tools
 
@@ -303,6 +303,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [xtemplate (⭐565)](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 *   [marko (⭐14k)](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 *   [swig (⭐3.1k)](https://github.com/paularmstrong/swig) - (Archived) A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
+*   [hmpl](https://hmpl-lang.dev) - Server-oriented customizable templating for JavaScript.
 
 ## Game Engines
 
@@ -1033,7 +1034,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [Gatsby.js (⭐56k)](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
 *   [Gridsome (⭐8.6k)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 *   [Docusaurus (⭐58k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
-*   [Next.js (⭐129k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
+*   [Next.js (⭐130k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 *   [Lume (⭐2k)](https://github.com/lumeland/lume) - Static site generator for Deno.
 *   [Astro (⭐49k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
 
