@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Feb 20, 2025](/content/2025/02/20/README.md)
+
+### Software / API Testing
+
+*   [CORS Tester](https://cors-error.dev/cors-tester/) - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.
+
 ## [Feb 19, 2025](/content/2025/02/19/README.md)
 
 ### Software / Service Virtualization

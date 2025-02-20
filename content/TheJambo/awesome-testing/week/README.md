@@ -8,6 +8,10 @@ A curated list of testing resources
 
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
+### Software / API Testing
+
+*   [CORS Tester](https://cors-error.dev/cors-tester/) - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.
+
 ### Software / Service Virtualization
 
 *   [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
