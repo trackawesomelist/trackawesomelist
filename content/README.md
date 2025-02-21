@@ -40,19 +40,45 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Huly](https://huly.io/) - All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) - unlimited users, 10GB storage per workspace, 10GB video(audio) traffic.
 
-#### [4. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### DevOps Tools / Libraries for creating HTTP middlewares
-
-*   [aptly (⭐2.6k)](https://github.com/aptly-dev/aptly) - aptly is a Debian repository management tool.
-
-#### [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+#### [4. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ##### Tools / Low-code
 
 *   [Flock (⭐222)](https://github.com/Onelevenvy/flock): Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)
 
-#### [6. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
+#### [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### AI / Diagnostics
+
+*   [claudius.nvim (⭐2)](https://github.com/StanAngeloff/claudius.nvim) - Text-based interface for chatting with Claude AI directly in your buffer.
+
+##### Utility / Diagnostics
+
+*   [josephburgess/nvumi (⭐20)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
+
+#### [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-meta-pixel (⭐0)](https://github.com/Szymonexis/ngx-meta-pixel) - This package enables you to setup [Meta Pixel](https://www.facebook.com/business/tools/meta-pixel) for your Angular application.
+
+##### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [square-progress (⭐3)](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
+
+#### [7. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [aptly (⭐2.6k)](https://github.com/aptly-dev/aptly) - aptly is a Debian repository management tool.
+
+#### [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Bayesian Modeling / Bayesian Optimization
+
+*   [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/7352306) - ***Proceedings of the IEEE***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437)]. \[[Preprint](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf)]. Big Data applications are typically associated with systems involving large numbers of users, massive complex software systems, and large-scale heterogeneous computing and storage architectures. The construction of such systems involves many distributed design choices. The end products (e.g., recommendation systems, medical analysis tools, real-time game engines, speech recognizers) thus involve many tunable configuration parameters. These parameters are often specified and hard-coded into the software by various developers or teams. If optimized jointly, these parameters can result in significant improvements. Bayesian optimization is a powerful tool for the joint optimization of design choices that is gaining great popularity in recent years. It promises greater automation so as to increase both product quality and human productivity. This review paper introduces Bayesian optimization, highlights some of its methodological aspects, and showcases a wide range of applications.
+
+#### [9. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
 
 ##### Videos / Golang - Community
 
@@ -63,6 +89,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Retrieval Augmented Generation (RAG) with Genkit (outdated)](https://youtu.be/p8ZlYAmbWHE) - Learn how to efficiently parse PDFs, convert their content into searchable vectors using Genkit's local vector store, and implement a re-ranker to pinpoint the most relevant documents for your queries.
 *   [Firebase After Hours #3 - Genkit: More than Meets the AI! (outdated)](https://youtu.be/VFPsp7aURWA?t=152s) - Hang out with Nohe and Peter to learn more about Firebase Genkit, Google's open source AI integration framework. With special guest Pavel Jbanov, lead engineer on the Genkit team.
 *   [Firebase After Hours #4 - Genkit: Tooltime (outdated)](https://youtu.be/01XOIhh2ibA) - Learn how to give LLMs superpowers by conneting the to the real world using tool calling.
+
+##### Articles / Golang - Community
+
+*   [Extracting structured data from PDFs using Gemini 2.0 and Genkit](https://firebase.blog/posts/2025/02/gemini-genkit-pdf-structured-data) - Learn how to extract structured data from PDFs using Gemini 2.0 and Genkit 1.0.
 
 ### [Feb 20, 2025](/content/2025/02/20/README.md)
 
@@ -92,24 +122,24 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [CORS Tester](https://cors-error.dev/cors-tester/) - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.
 
-#### [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-##### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [@transifex/angular (⭐44)](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [@transifex/angular](https://www.npmjs.com/package/@transifex/angular) library extension. This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
-*   [Crowdin](https://crowdin.com/) - Crowdin is AI-powered localization software for teams and businesses. Automate the translation of your content with 600+ apps and [integrations](https://store.crowdin.com/search?query=angular).
-
-#### [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+#### [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ##### Templating Engines / Runner
 
 *   [hmpl](https://hmpl-lang.dev) - Server-oriented customizable templating for JavaScript.
 
-#### [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Testing
 
 *   [CORS-Tester](https://cors-error.dev/cors-tester/) - A free tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps. Get actionable insights.
+
+#### [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@transifex/angular (⭐44)](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [@transifex/angular](https://www.npmjs.com/package/@transifex/angular) library extension. This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
+*   [Crowdin](https://crowdin.com/) - Crowdin is AI-powered localization software for teams and businesses. Automate the translation of your content with 600+ apps and [integrations](https://store.crowdin.com/search?query=angular).
 
 #### [8. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
 
@@ -200,23 +230,23 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
 *   [WireMock (⭐6.5k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 
-#### [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+##### Open Source Projects / Knowledge Management
+
+*   [Minima (⭐500)](https://github.com/dmayboroda/minima): Chat with local documents, connect local environment to ChatGPT or Claude ![GitHub Repo stars](https://img.shields.io/github/stars/dmayboroda/minima?style=social)
+
+#### [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### GraphQL / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [takeshape](https://www.takeshape.io/) - It's easy to build a GraphQL API using TakeShape. Integrating with an Angular project is easy, and you can follow this [guide](https://app.takeshape.io/docs/get-started/client/angular).
 
-#### [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Bayesian Modeling / Nonparametric Model
 
 *   [Infinite Hidden Relational Models](https://dl.acm.org/doi/abs/10.5555/3020419.3020485) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141)]. \[[Preprint](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf)]. Relational learning analyzes the probabilistic constraints between the attributes of entities and relationships. This work extends the expressiveness of relational models by introducing for each entity (or object) an infinite-dimensional latent variable as part of a Dirichlet process (DP) mixture model. This work discusses inference in the model, which is based on a DP Gibbs sampler, i.e., the Chinese restaurant process. The authors extended the Chinese restaurant process to be applicable to relational modeling.
-
-#### [7. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
-
-##### Open Source Projects / Knowledge Management
-
-*   [Minima (⭐500)](https://github.com/dmayboroda/minima): Chat with local documents, connect local environment to ChatGPT or Claude ![GitHub Repo stars](https://img.shields.io/github/stars/dmayboroda/minima?style=social)
 
 ---
 
@@ -234,13 +264,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K 📝 02&#x2F;14 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 9. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 71K 📝 02&#x2F;10 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
 10. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 62K 📝 02&#x2F;10 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-11. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 02&#x2F;05 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
-12. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 25K 📝 02&#x2F;13 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
-13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K 📝 02&#x2F;17 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+11. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K 📝 02&#x2F;21 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+12. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 02&#x2F;05 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
+13. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 25K 📝 02&#x2F;13 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
 14. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K 📝 02&#x2F;19 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 15. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 26K 📝 02&#x2F;12 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-16. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 48K 📝 02&#x2F;05 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-17. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.6K 📝 02&#x2F;20 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+16. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.6K 📝 02&#x2F;21 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+17. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 48K 📝 02&#x2F;05 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 18. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 16K 📝 02&#x2F;15 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 19. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 37K 📝 02&#x2F;06 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 20. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 8K 📝 02&#x2F;21 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
@@ -480,7 +510,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K, 📝 02&#x2F;17 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K, 📝 02&#x2F;21 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 23&#x2F;08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 1K, 📝 24&#x2F;01&#x2F;16 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -504,7 +534,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Front-End Development
 
-- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.6K, 📝 02&#x2F;20 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.6K, 📝 02&#x2F;21 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
 - [Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md) - ([Source ⭐ 3.2K, 📝 24&#x2F;11&#x2F;25 ](https://github.com/websemantics/awesome-ant-design)) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
 - [Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md) - ([Source ⭐ 306, 📝 19&#x2F;10&#x2F;20 ](https://github.com/aurelia-contrib/awesome-aurelia)) - A curated list of amazingly awesome Aurelia libraries.
 - [Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md) - ([Source ⭐ 403, 📝 16&#x2F;10&#x2F;31 ](https://github.com/sadcitizen/awesome-backbone)) - A list of resources for backbone.js
@@ -1020,7 +1050,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 303, 📝 02&#x2F;19 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 303, 📝 02&#x2F;21 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 21K, 📝 24&#x2F;11&#x2F;16 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K, 📝 01&#x2F;22 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 97, 📝 01&#x2F;22 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

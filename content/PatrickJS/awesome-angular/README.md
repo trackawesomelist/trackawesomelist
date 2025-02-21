@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Feb 21, 2025](/content/2025/02/21/README.md)
+
+### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-meta-pixel (⭐0)](https://github.com/Szymonexis/ngx-meta-pixel) - This package enables you to setup [Meta Pixel](https://www.facebook.com/business/tools/meta-pixel) for your Angular application.
+
+### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [square-progress (⭐3)](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
+
 ## [Feb 20, 2025](/content/2025/02/20/README.md)
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

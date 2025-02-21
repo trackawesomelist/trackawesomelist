@@ -24,17 +24,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Useful Inequalities Cheat Sheet](http://www.lkozma.net/inequalities_cheat_sheet/)
 
-#### [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### File Explorer / Diagnostics
-
-*   [Enigama/miss.nvim (⭐3)](https://github.com/Enigama/miss.nvim) - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
-
-##### Utility / Diagnostics
-
-*   [neanvo/buben.nvim (⭐1)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
-
-#### [3. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
+#### [2. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
 
 ##### Tools / Develop
 
@@ -58,19 +48,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [\[Marcos Game Dev\] Criando Menu Principal no Construct 2](https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U) - Learn to create a main menu that works for almost any game (focus on desktop). Includes fullscreen/window mode, control mapping, language switch, audio settings, and more.
 *   [Marcos Game Dev](https://www.youtube.com/@MarcosGameDev/videos) - Tutorials & more.
 
-#### [4. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+#### [3. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ##### Data Ingestion
 
 *   [CsvPath Framework](https://www.csvpath.org/) - A delimited data preboarding framework that fills the gap between MFT and the data lake.
 
-#### [5. Awesome Music](/content/ciconia/awesome-music/README.md)
+#### [4. Awesome Music](/content/ciconia/awesome-music/README.md)
 
 ##### Related lists
 
 *   [Awesome Music Programming (⭐1)](https://github.com/zoejane/awesome-music-programming) - A curated collection of music programming languages, libraries, frameworks and tools.
 
-#### [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Large Language Models (LLMs)
 
@@ -80,13 +70,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Lunary](https://lunary.ai): Open-source platform for LLM chatbots and agents: observability, prompt management, testing & more
 
-#### [7. Awesome V](/content/vlang/awesome-v/README.md)
+#### [6. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Command-line
 
 *   [fdup (⭐2)](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 
-#### [8. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [7. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Official news
 
@@ -96,13 +86,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Build a Decision Tree in Polars from Scratch](https://towardsdatascience.com/build-a-decision-tree-in-polars-from-scratch/) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here (⭐5)](https://github.com/tocab/efficient-trees).
 
-#### [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Multiple languages / [Other](#other-1)
 
 *   [Corgea](https://corgea.com/) :copyright: — Corgea is an AI-powered SAST scanner that helps developers find and fix insecure code.  It finds business logic flaws, broken authentication, API vulnerabilities, and more with little false positives. Additionally, it automatically writes security fixes for them to approve.  Corgea integrates with GitHub, GitLab, Azure DevOps, IDEs and CLI. It is free to try it.
 
-#### [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -162,32 +152,32 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [YAML (⭐367) (⭐366)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [11. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Driver crates / Other
 
 *   [adafruit-seesaw](https://crates.io/crates/adafruit-seesaw) - I2C - Driver for devices running the [Adafruit Seesaw](https://learn.adafruit.com/adafruit-seesaw-atsamd09-breakout/overview) firmware - [![crates.io](https://img.shields.io/crates/v/adafruit-seesaw.svg)](https://crates.io/crates/adafruit-seesaw)
 *   [IS31FL3728](https://crates.io/crates/is31fl3728-rs) - I2C -  LED dot matrix display mode (8×8, 5x11, 6x10,7x9) - [github (⭐0)](https://github.com/leonidv/is31fl3728-rs) -[![crates.io](https://img.shields.io/crates/v/is31fl3728-rs)](https://crates.io/crates/is31fl3728-rs)
 
-#### [12. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+#### [11. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ##### Tools / Desktop
 
 *   [Moon Modeler](https://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
 
-#### [13. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+#### [12. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ##### Public Data Resources / Equity and Environmental Justice
 
 *   [Screening Tools](https://screening-tools.com/) - Screening Tools is a project of Public Environmental Data Partners that is archiving and providing federal datasets related to environmental and social vulnerability screening. Datasets distributed and screening tools made available through this site include EJ Screen and CDC SVI for example.
 
-#### [14. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+#### [13. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ##### Connectivity Maps
 
 *   [Submarine Telecoms Forum](https://subtelforum.com/online-map/) - SubTelForum has an excellent interactive map and directory of undersea cables as well as an annual almanac.
 
-#### [15. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+#### [14. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ##### Software / API Testing
 
@@ -198,11 +188,95 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
 *   [WireMock (⭐6.5k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 
-#### [16. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [15. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+
+##### Templating Engines / Runner
+
+*   [hmpl](https://hmpl-lang.dev) - Server-oriented customizable templating for JavaScript.
+
+##### Generators / Other
+
+*   [Astro (⭐49k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
+
+##### ORM / Other
+
+*   [Prisma (⭐41k)](https://github.com/prisma/prisma) Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
+*   [Sequelize (⭐30k)](https://github.com/sequelize/sequelize) Feature-rich ORM for modern Node.js and TypeScript | PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB...
+*   [Mongoose (⭐27k)](https://github.com/Automattic/mongoose) MongoDB object modeling designed to work in an asynchronous environment.
+*   [TypeORM (⭐35k)](https://github.com/typeorm/typeorm) ORM for TypeScript and JavaScript, Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+*   [Drizzle ORM (⭐26k)](https://github.com/drizzle-team/drizzle-orm) Headless TypeScript ORM with a head. Runs on Node, Bun and Deno.
+*   [Kysely (⭐11k)](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder.
+*   [Knex (⭐20k)](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
+*   [MikroORM (⭐8k)](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
+
+#### [16. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+##### Cloud Data Warehousing / Playground
+
+*   [DynamoDB-Toolbox (⭐1.9k)](https://github.com/dynamodb-toolbox/dynamodb-toolbox) Light-weight and type-safe query builder for AWS DynamoDB
+
+##### Libraries / Chrome Extensions
+
+*   :octocat: [Onion.JS (⭐10)](https://github.com/ThomasAribart/onion.js) - Design and apply wrappers (i.e. high-order functions) without breaking types! Based on [HotScript (⭐3.6k)](https://github.com/gvergnaud/hotscript) high-order types.
+
+#### [17. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+
+##### IO Games
+
+*   [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
+
+#### [18. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
+
+##### Tools for Teams and Collaboration
+
+*   [Huly](https://huly.io/) - All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) - unlimited users, 10GB storage per workspace, 10GB video(audio) traffic.
+
+##### CI and CD
+
+*   [LocalOps](https://localops.co/) - Deploy your app on AWS/GCP/Azure in under 30 minutes. Setup standardised app environments on any cloud, which come with in-built continuous deployment automation and advanced observability. The free plan allows 1 user and 1 app environment.
+
+##### Testing
+
+*   [CORS-Tester](https://cors-error.dev/cors-tester/) - A free tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps. Get actionable insights.
+
+#### [19. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+##### Tools / Low-code
+
+*   [Flock (⭐222)](https://github.com/Onelevenvy/flock): Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)
+
+##### Open Source Projects / Knowledge Management
+
+*   [Minima (⭐500)](https://github.com/dmayboroda/minima): Chat with local documents, connect local environment to ChatGPT or Claude ![GitHub Repo stars](https://img.shields.io/github/stars/dmayboroda/minima?style=social)
+
+#### [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### AI / Diagnostics
+
+*   [claudius.nvim (⭐2)](https://github.com/StanAngeloff/claudius.nvim) - Text-based interface for chatting with Claude AI directly in your buffer.
+
+##### File Explorer / Diagnostics
+
+*   [Enigama/miss.nvim (⭐3)](https://github.com/Enigama/miss.nvim) - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
+
+##### Utility / Diagnostics
+
+*   [neanvo/buben.nvim (⭐1)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
+*   [josephburgess/nvumi (⭐20)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
+
+#### [21. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Exercises / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-debug-quest (⭐21)](https://github.com/angular-courses-lab/angular-debug-quest) - Sharpen your skills at fixing bugs in Angular applications for a better understanding of the framework.
+
+##### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-meta-pixel (⭐0)](https://github.com/Szymonexis/ngx-meta-pixel) - This package enables you to setup [Meta Pixel](https://www.facebook.com/business/tools/meta-pixel) for your Angular application.
 
 ##### GraphQL / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -225,67 +299,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ngx-card-wrapper (⭐1)](https://github.com/filip194/ngx-card-wrapper) - Angular >=16 wrapper for [card.js (⭐12k)](https://github.com/jessepollak/card), which provides a credit card form.
 
-#### [17. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+##### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-##### Templating Engines / Runner
-
-*   [hmpl](https://hmpl-lang.dev) - Server-oriented customizable templating for JavaScript.
-
-##### Generators / Other
-
-*   [Astro (⭐49k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
-
-##### ORM / Other
-
-*   [Prisma (⭐41k)](https://github.com/prisma/prisma) Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
-*   [Sequelize (⭐30k)](https://github.com/sequelize/sequelize) Feature-rich ORM for modern Node.js and TypeScript | PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB...
-*   [Mongoose (⭐27k)](https://github.com/Automattic/mongoose) MongoDB object modeling designed to work in an asynchronous environment.
-*   [TypeORM (⭐35k)](https://github.com/typeorm/typeorm) ORM for TypeScript and JavaScript, Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-*   [Drizzle ORM (⭐26k)](https://github.com/drizzle-team/drizzle-orm) Headless TypeScript ORM with a head. Runs on Node, Bun and Deno.
-*   [Kysely (⭐11k)](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder.
-*   [Knex (⭐20k)](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
-*   [MikroORM (⭐8k)](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
-
-#### [18. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Bayesian Modeling / Nonparametric Model
-
-*   [Nonparametric Bayesian Logic](https://dl.acm.org/doi/abs/10.5555/3020336.3020347) - ***UAI'05***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095)]. \[[Preprint](https://www.cs.ubc.ca/~nando/papers/npblog.pdf)]. The Bayesian Logic (BLOG) language was recently developed for defining first-order probability models over worlds with unknown numbers of objects. It handles important problems in AI, including data association and population estimation. This paper extends BLOG by adopting generative processes over function spaces — known as nonparametrics in the Bayesian literature. This work introduces syntax for reasoning about arbitrary collections of objects, and their properties, in an intuitive manner. By exploiting exchangeability, distributions over unknown objects and their attributes are cast as Dirichlet processes, which resolve difficulties in model selection and inference caused by varying numbers of objects.
-*   [Infinite Hidden Relational Models](https://dl.acm.org/doi/abs/10.5555/3020419.3020485) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141)]. \[[Preprint](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf)]. Relational learning analyzes the probabilistic constraints between the attributes of entities and relationships. This work extends the expressiveness of relational models by introducing for each entity (or object) an infinite-dimensional latent variable as part of a Dirichlet process (DP) mixture model. This work discusses inference in the model, which is based on a DP Gibbs sampler, i.e., the Chinese restaurant process. The authors extended the Chinese restaurant process to be applicable to relational modeling.
-
-#### [19. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
-
-##### Cloud Data Warehousing / Playground
-
-*   [DynamoDB-Toolbox (⭐1.9k)](https://github.com/dynamodb-toolbox/dynamodb-toolbox) Light-weight and type-safe query builder for AWS DynamoDB
-
-##### Libraries / Chrome Extensions
-
-*   :octocat: [Onion.JS (⭐10)](https://github.com/ThomasAribart/onion.js) - Design and apply wrappers (i.e. high-order functions) without breaking types! Based on [HotScript (⭐3.6k)](https://github.com/gvergnaud/hotscript) high-order types.
-
-#### [20. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
-
-##### IO Games
-
-*   [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
-
-#### [21. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data, and ML
-
-*   [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
-
-##### Tools for Teams and Collaboration
-
-*   [Huly](https://huly.io/) - All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) - unlimited users, 10GB storage per workspace, 10GB video(audio) traffic.
-
-##### CI and CD
-
-*   [LocalOps](https://localops.co/) - Deploy your app on AWS/GCP/Azure in under 30 minutes. Setup standardised app environments on any cloud, which come with in-built continuous deployment automation and advanced observability. The free plan allows 1 user and 1 app environment.
-
-##### Testing
-
-*   [CORS-Tester](https://cors-error.dev/cors-tester/) - A free tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps. Get actionable insights.
+*   [square-progress (⭐3)](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
 
 #### [22. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -293,15 +309,16 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [aptly (⭐2.6k)](https://github.com/aptly-dev/aptly) - aptly is a Debian repository management tool.
 
-#### [23. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+#### [23. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
-##### Tools / Low-code
+##### Bayesian Modeling / Nonparametric Model
 
-*   [Flock (⭐222)](https://github.com/Onelevenvy/flock): Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)
+*   [Nonparametric Bayesian Logic](https://dl.acm.org/doi/abs/10.5555/3020336.3020347) - ***UAI'05***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095)]. \[[Preprint](https://www.cs.ubc.ca/~nando/papers/npblog.pdf)]. The Bayesian Logic (BLOG) language was recently developed for defining first-order probability models over worlds with unknown numbers of objects. It handles important problems in AI, including data association and population estimation. This paper extends BLOG by adopting generative processes over function spaces — known as nonparametrics in the Bayesian literature. This work introduces syntax for reasoning about arbitrary collections of objects, and their properties, in an intuitive manner. By exploiting exchangeability, distributions over unknown objects and their attributes are cast as Dirichlet processes, which resolve difficulties in model selection and inference caused by varying numbers of objects.
+*   [Infinite Hidden Relational Models](https://dl.acm.org/doi/abs/10.5555/3020419.3020485) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141)]. \[[Preprint](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf)]. Relational learning analyzes the probabilistic constraints between the attributes of entities and relationships. This work extends the expressiveness of relational models by introducing for each entity (or object) an infinite-dimensional latent variable as part of a Dirichlet process (DP) mixture model. This work discusses inference in the model, which is based on a DP Gibbs sampler, i.e., the Chinese restaurant process. The authors extended the Chinese restaurant process to be applicable to relational modeling.
 
-##### Open Source Projects / Knowledge Management
+##### Bayesian Modeling / Bayesian Optimization
 
-*   [Minima (⭐500)](https://github.com/dmayboroda/minima): Chat with local documents, connect local environment to ChatGPT or Claude ![GitHub Repo stars](https://img.shields.io/github/stars/dmayboroda/minima?style=social)
+*   [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/7352306) - ***Proceedings of the IEEE***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437)]. \[[Preprint](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf)]. Big Data applications are typically associated with systems involving large numbers of users, massive complex software systems, and large-scale heterogeneous computing and storage architectures. The construction of such systems involves many distributed design choices. The end products (e.g., recommendation systems, medical analysis tools, real-time game engines, speech recognizers) thus involve many tunable configuration parameters. These parameters are often specified and hard-coded into the software by various developers or teams. If optimized jointly, these parameters can result in significant improvements. Bayesian optimization is a powerful tool for the joint optimization of design choices that is gaining great popularity in recent years. It promises greater automation so as to increase both product quality and human productivity. This review paper introduces Bayesian optimization, highlights some of its methodological aspects, and showcases a wide range of applications.
 
 #### [24. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
 
@@ -319,6 +336,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Firebase After Hours #3 - Genkit: More than Meets the AI! (outdated)](https://youtu.be/VFPsp7aURWA?t=152s) - Hang out with Nohe and Peter to learn more about Firebase Genkit, Google's open source AI integration framework. With special guest Pavel Jbanov, lead engineer on the Genkit team.
 *   [Firebase After Hours #4 - Genkit: Tooltime (outdated)](https://youtu.be/01XOIhh2ibA) - Learn how to give LLMs superpowers by conneting the to the real world using tool calling.
 
+##### Articles / Golang - Community
+
+*   [Extracting structured data from PDFs using Gemini 2.0 and Genkit](https://firebase.blog/posts/2025/02/gemini-genkit-pdf-structured-data) - Learn how to extract structured data from PDFs using Gemini 2.0 and Genkit 1.0.
+
 ---
 
 - Next: [Feb 17 - Feb 23, 2025](&#x2F;content&#x2F;2025&#x2F;7&#x2F;README.md)
@@ -335,13 +356,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K 📝 02&#x2F;14 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 9. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 71K 📝 02&#x2F;10 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
 10. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 62K 📝 02&#x2F;10 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-11. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 02&#x2F;05 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
-12. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 25K 📝 02&#x2F;13 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
-13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K 📝 02&#x2F;17 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+11. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K 📝 02&#x2F;21 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+12. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 02&#x2F;05 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
+13. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 25K 📝 02&#x2F;13 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
 14. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K 📝 02&#x2F;19 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 15. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 26K 📝 02&#x2F;12 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-16. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 48K 📝 02&#x2F;05 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-17. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.6K 📝 02&#x2F;20 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+16. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.6K 📝 02&#x2F;21 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+17. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 48K 📝 02&#x2F;05 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 18. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 16K 📝 02&#x2F;15 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 19. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 37K 📝 02&#x2F;06 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 20. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 8K 📝 02&#x2F;21 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
@@ -581,7 +602,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Editors
 
 - [Awesome Atom](/content/mehcode/awesome-atom/README.md) - ([Source ⭐ 1.9K, 📝 18&#x2F;12&#x2F;14 ](https://github.com/mehcode/awesome-atom)) - A curated list of delightful Atom packages and resources.
-- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K, 📝 02&#x2F;17 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+- [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K, 📝 02&#x2F;21 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 - [Awesome Vscode](/content/viatsko/awesome-vscode/README.md) - ([Source ⭐ 23K, 📝 23&#x2F;08&#x2F;03 ](https://github.com/viatsko/awesome-vscode)) - 🎨 A curated list of delightful VS Code packages and resources.
 - [Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md) - ([Source ⭐ 1K, 📝 24&#x2F;01&#x2F;16 ](https://github.com/dreikanter/sublime-bookmarks)) - Sublime Text essential plugins and resources
 - [Vim Galore](/content/mhinz/vim-galore/README.md) - ([Source ⭐ 15K, 📝 18&#x2F;10&#x2F;03 ](https://github.com/mhinz/vim-galore)) - :mortar_board: All things Vim!
@@ -605,7 +626,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Front-End Development
 
-- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.6K, 📝 02&#x2F;20 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
+- [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.6K, 📝 02&#x2F;21 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
 - [Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md) - ([Source ⭐ 3.2K, 📝 24&#x2F;11&#x2F;25 ](https://github.com/websemantics/awesome-ant-design)) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date
 - [Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md) - ([Source ⭐ 306, 📝 19&#x2F;10&#x2F;20 ](https://github.com/aurelia-contrib/awesome-aurelia)) - A curated list of amazingly awesome Aurelia libraries.
 - [Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md) - ([Source ⭐ 403, 📝 16&#x2F;10&#x2F;31 ](https://github.com/sadcitizen/awesome-backbone)) - A list of resources for backbone.js
@@ -1121,7 +1142,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 303, 📝 02&#x2F;19 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 303, 📝 02&#x2F;21 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 21K, 📝 24&#x2F;11&#x2F;16 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K, 📝 01&#x2F;22 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 97, 📝 01&#x2F;22 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

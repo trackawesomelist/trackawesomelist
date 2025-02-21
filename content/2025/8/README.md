@@ -44,6 +44,10 @@
 *   [Firebase After Hours #3 - Genkit: More than Meets the AI! (outdated)](https://youtu.be/VFPsp7aURWA?t=152s) - Hang out with Nohe and Peter to learn more about Firebase Genkit, Google's open source AI integration framework. With special guest Pavel Jbanov, lead engineer on the Genkit team.
 *   [Firebase After Hours #4 - Genkit: Tooltime (outdated)](https://youtu.be/01XOIhh2ibA) - Learn how to give LLMs superpowers by conneting the to the real world using tool calling.
 
+### Articles / Golang - Community
+
+*   [Extracting structured data from PDFs using Gemini 2.0 and Genkit](https://firebase.blog/posts/2025/02/gemini-genkit-pdf-structured-data) - Learn how to extract structured data from PDFs using Gemini 2.0 and Genkit 1.0.
+
 ## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Connectivity Maps
@@ -220,6 +224,10 @@
 
 ## [19. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
+### AI / Diagnostics
+
+*   [claudius.nvim (⭐2)](https://github.com/StanAngeloff/claudius.nvim) - Text-based interface for chatting with Claude AI directly in your buffer.
+
 ### File Explorer / Diagnostics
 
 *   [Enigama/miss.nvim (⭐3)](https://github.com/Enigama/miss.nvim) - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
@@ -227,6 +235,7 @@
 ### Utility / Diagnostics
 
 *   [neanvo/buben.nvim (⭐1)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
+*   [josephburgess/nvumi (⭐20)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
 
 ## [20. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
@@ -234,6 +243,10 @@
 
 *   [Nonparametric Bayesian Logic](https://dl.acm.org/doi/abs/10.5555/3020336.3020347) - ***UAI'05***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=18267211625980322095)]. \[[Preprint](https://www.cs.ubc.ca/~nando/papers/npblog.pdf)]. The Bayesian Logic (BLOG) language was recently developed for defining first-order probability models over worlds with unknown numbers of objects. It handles important problems in AI, including data association and population estimation. This paper extends BLOG by adopting generative processes over function spaces — known as nonparametrics in the Bayesian literature. This work introduces syntax for reasoning about arbitrary collections of objects, and their properties, in an intuitive manner. By exploiting exchangeability, distributions over unknown objects and their attributes are cast as Dirichlet processes, which resolve difficulties in model selection and inference caused by varying numbers of objects.
 *   [Infinite Hidden Relational Models](https://dl.acm.org/doi/abs/10.5555/3020419.3020485) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141)]. \[[Preprint](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf)]. Relational learning analyzes the probabilistic constraints between the attributes of entities and relationships. This work extends the expressiveness of relational models by introducing for each entity (or object) an infinite-dimensional latent variable as part of a Dirichlet process (DP) mixture model. This work discusses inference in the model, which is based on a DP Gibbs sampler, i.e., the Chinese restaurant process. The authors extended the Chinese restaurant process to be applicable to relational modeling.
+
+### Bayesian Modeling / Bayesian Optimization
+
+*   [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/7352306) - ***Proceedings of the IEEE***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437)]. \[[Preprint](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf)]. Big Data applications are typically associated with systems involving large numbers of users, massive complex software systems, and large-scale heterogeneous computing and storage architectures. The construction of such systems involves many distributed design choices. The end products (e.g., recommendation systems, medical analysis tools, real-time game engines, speech recognizers) thus involve many tunable configuration parameters. These parameters are often specified and hard-coded into the software by various developers or teams. If optimized jointly, these parameters can result in significant improvements. Bayesian optimization is a powerful tool for the joint optimization of design choices that is gaining great popularity in recent years. It promises greater automation so as to increase both product quality and human productivity. This review paper introduces Bayesian optimization, highlights some of its methodological aspects, and showcases a wide range of applications.
 
 ## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -280,6 +293,10 @@
 
 *   [angular-debug-quest (⭐21)](https://github.com/angular-courses-lab/angular-debug-quest) - Sharpen your skills at fixing bugs in Angular applications for a better understanding of the framework.
 
+### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-meta-pixel (⭐0)](https://github.com/Szymonexis/ngx-meta-pixel) - This package enables you to setup [Meta Pixel](https://www.facebook.com/business/tools/meta-pixel) for your Angular application.
+
 ### GraphQL / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [takeshape](https://www.takeshape.io/) - It's easy to build a GraphQL API using TakeShape. Integrating with an Angular project is easy, and you can follow this [guide](https://app.takeshape.io/docs/get-started/client/angular).
@@ -300,6 +317,10 @@
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-card-wrapper (⭐1)](https://github.com/filip194/ngx-card-wrapper) - Angular >=16 wrapper for [card.js (⭐12k)](https://github.com/jessepollak/card), which provides a credit card form.
+
+### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [square-progress (⭐3)](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
 
 ## [24. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 

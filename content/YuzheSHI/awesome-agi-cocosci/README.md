@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Feb 21, 2025](/content/2025/02/21/README.md)
+
+### Bayesian Modeling / Bayesian Optimization
+
+*   [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/7352306) - ***Proceedings of the IEEE***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437)]. \[[Preprint](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf)]. Big Data applications are typically associated with systems involving large numbers of users, massive complex software systems, and large-scale heterogeneous computing and storage architectures. The construction of such systems involves many distributed design choices. The end products (e.g., recommendation systems, medical analysis tools, real-time game engines, speech recognizers) thus involve many tunable configuration parameters. These parameters are often specified and hard-coded into the software by various developers or teams. If optimized jointly, these parameters can result in significant improvements. Bayesian optimization is a powerful tool for the joint optimization of design choices that is gaining great popularity in recent years. It promises greater automation so as to increase both product quality and human productivity. This review paper introduces Bayesian optimization, highlights some of its methodological aspects, and showcases a wide range of applications.
+
 ## [Feb 19, 2025](/content/2025/02/19/README.md)
 
 ### Bayesian Modeling / Nonparametric Model
@@ -1888,7 +1894,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Hierarchical topic models and the nested Chinese restaurant process](https://proceedings.neurips.cc/paper/2003/file/7b41bfa5085806dfa24b8c9de0ce567f-Paper.pdf) - ***NeurIPS'03***, 2003. \[[All Versions](https://scholar.google.com/scholar?cluster=15040818675282958700\&hl=en\&as_sdt=0,5)]. The original paper for nested Chinese restaurant process.
 *   [Infinite Latent Feature Models and the Indian Buffet Process](http://mlg.eng.cam.ac.uk/zoubin/papers/ibptr.pdf) - ***Gatsby Computational Neuroscience Unit Technical Report 2005-001***, 2005. \[[All Versions](https://scholar.google.com/scholar?cluster=13180738480564152907\&hl=en\&as_sdt=0,5)].
 *   [The Indian Buffet Process: An Introduction and Review](https://jmlr.org/papers/v12/griffiths11a.html) - ***Journal of Machine Learning Research***, 2011. \[[All Versions](https://scholar.google.com/scholar?cluster=6301314251995890943)]. The Indian buffet process is a stochastic process defining a probability distribution over equivalence classes of sparse binary matrices with a finite number of rows and an unbounded number of columns. This distribution is suitable for use as a prior in probabilistic models that represent objects using a potentially infinite array of features, or that involve bipartite graphs in which the size of at least one class of nodes is unknown. This work gives a detailed derivation of this distribution, and illustrate its use as a prior in an infinite latent feature model. The authors then review recent applications of the Indian buffet process in machine learning, discuss its extensions, and summarize its connections to other stochastic processes.
-*   [Statistical Predicate Invention](https://alchemy.cs.washington.edu/papers/kok07/kok07.pdf) - ***ICML'07***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=17009312281859401704\&hl=en\&as_sdt=2005\&sciodt=0,5)]. Treating predicate invention as a non-parametric problem, in the account of statistics.
+*   [Statistical Predicate Invention](https://alchemy.cs.washington.edu/papers/kok07/kok07.pdf) - ***ICML'07***, 2007. \[[All Versions](https://scholar.google.com/scholar?cluster=17009312281859401704)]. This work proposes statistical predicate invention as a key problem for statistical relational learning. SPI is the problem of discovering new concepts, properties and relations in structured data, and generalizes hidden variable discovery in statistical models and predicate invention in ILP. This work proposes an initial model for SPI based on second-order Markov logic, in which predicates as well as arguments can be variables, and the domain of discourse is not fully known in advance. The proposed approach iteratively refines clusters of symbols based on the clusters of symbols they appear in atoms with (e.g., it clusters relations by the clusters of the objects they relate).
 
 ### Bayesian Modeling / Bayesian Optimization
 
@@ -2545,12 +2551,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Meta-Level Considerations / Gestalt
 
 *   [Thoughts beyond words: When language overshadows insight](https://psycnet.apa.org/record/1993-36184-001) - ***Journal of Experimental Psychology***, 1993. \[[All Versions](https://scholar.google.com/scholar?cluster=13773440938721955384\&hl=en\&as_sdt=2005\&sciodt=0,5)].
-
-## [Jan 01, 2022](/content/2022/01/01/README.md)
-
-### Bayesian Modeling / Bayesian Optimization
-
-*   [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf) - ***Proceedings of the IEEE***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437\&hl=en\&as_sdt=0,5)].
 
 ## [Dec 31, 2021](/content/2021/12/31/README.md)
 

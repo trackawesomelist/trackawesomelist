@@ -496,6 +496,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-piwik-pro (⭐3)](https://github.com/PiwikPRO/ngx-piwik-pro) - Dedicated [Piwik PRO](https://piwik.pro/) library that helps with implementing Piwik PRO Tag Manager and the Piwik PRO tracking client in Angular 8+ applications.
 *   [ngx-material-tracking (⭐1)](https://github.com/Service-Soft/ngx-material-tracking) - Provides gdpr-compliant tracking functionality for Angular websites. Google Analytics and Meta Pixel are supported out of the box, but you are also able to build your own tracking.
 *   [ngx-segment-analytics (⭐21)](https://github.com/opendecide/ngx-segment-analytics) - Provides an API for [Segment (⭐425)](https://github.com/segmentio/analytics-next/).
+*   [ngx-meta-pixel (⭐0)](https://github.com/Szymonexis/ngx-meta-pixel) - This package enables you to setup [Meta Pixel](https://www.facebook.com/business/tools/meta-pixel) for your Angular application.
 
 #### Authentication
 
@@ -1443,6 +1444,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [skeletonizer (⭐5)](https://github.com/lukaVarga/skeletonizer) - A lightweight package that provides a simple way to create skeletonized views for your application. It has adapters for Vue and Angular and is highly customizable and easy to use.
 *   [dz-ngx-element (⭐2)](https://github.com/zdigambar/dz-ngx-element) - [NgxElement](https://www.npmjs.com/package/@zdigambar/ngx-element) enables to lazy load Angular components in non-angular applications. The library will register a custom element to which you can pass an attribute to specify what component you want to load.
 *   [ngx-loading-overlay (⭐1)](https://github.com/shaman-apprentice/ngx-loading-overlay) - An Angular directive adding a loading overlay to your HTML.
+*   [square-progress (⭐3)](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
 
 #### Loggers
 

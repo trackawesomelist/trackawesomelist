@@ -12,6 +12,10 @@
 
 *   [angular-debug-quest (⭐21)](https://github.com/angular-courses-lab/angular-debug-quest) - Sharpen your skills at fixing bugs in Angular applications for a better understanding of the framework.
 
+### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-meta-pixel (⭐0)](https://github.com/Szymonexis/ngx-meta-pixel) - This package enables you to setup [Meta Pixel](https://www.facebook.com/business/tools/meta-pixel) for your Angular application.
+
 ### GraphQL / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [takeshape](https://www.takeshape.io/) - It's easy to build a GraphQL API using TakeShape. Integrating with an Angular project is easy, and you can follow this [guide](https://app.takeshape.io/docs/get-started/client/angular).
@@ -32,6 +36,10 @@
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-card-wrapper (⭐1)](https://github.com/filip194/ngx-card-wrapper) - Angular >=16 wrapper for [card.js (⭐12k)](https://github.com/jessepollak/card), which provides a credit card form.
+
+### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [square-progress (⭐3)](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
