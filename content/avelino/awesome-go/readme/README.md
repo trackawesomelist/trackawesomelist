@@ -2436,7 +2436,6 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [endly (⭐264)](https://github.com/viant/endly) - Declarative end to end functional testing.
 *   [envite (⭐5)](https://github.com/PerimeterX/envite) - Dev and testing environment management framework.
 *   [fixenv (⭐30)](https://github.com/rekby/fixenv) - Fixture manage engine, inspired by pytest fixtures.
-*   [fluentassert (⭐47)](https://github.com/fluentassert/verify) - Extensible, type-safe, fluent assertion Go library.
 *   [flute (⭐21)](https://github.com/suzuki-shunsuke/flute) - HTTP client testing framework.
 *   [frisby (⭐278)](https://github.com/verdverm/frisby) - REST API testing framework.
 *   [gherkingen (⭐81)](https://github.com/hedhyw/gherkingen) - BDD boilerplate generator and framework.
@@ -3277,7 +3276,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 *   [abbreviate (⭐221)](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
 *   [alaz (⭐671)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
-*   [aptly (⭐13)](https://github.com/smira/aptly) - aptly is a Debian repository management tool.
+*   [aptly (⭐2.6k)](https://github.com/aptly-dev/aptly) - aptly is a Debian repository management tool.
 *   [aurora (⭐600)](https://github.com/xuri/aurora) - Cross-platform web-based Beanstalkd queue server console.
 *   [awsenv (⭐35)](https://github.com/soniah/awsenv) - Small binary that loads Amazon (AWS) environment variables for a profile.
 *   [Balerter (⭐302)](https://github.com/balerter/balerter) - A self-hosted script-based alerting manager.

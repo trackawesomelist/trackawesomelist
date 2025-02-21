@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
+
+### DevOps Tools / Libraries for creating HTTP middlewares
+
+*   [aptly (⭐2.6k)](https://github.com/aptly-dev/aptly) - aptly is a Debian repository management tool.
+
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
 ### Stream Processing
@@ -846,7 +852,6 @@ A curated list of awesome Go frameworks, libraries and software
 *   [embedded-postgres (⭐899)](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
 *   [endly (⭐264)](https://github.com/viant/endly) - Declarative end to end functional testing.
 *   [fixenv (⭐30)](https://github.com/rekby/fixenv) - Fixture manage engine, inspired by pytest fixtures.
-*   [fluentassert (⭐47)](https://github.com/fluentassert/verify) - Extensible, type-safe, fluent assertion Go library.
 *   [flute (⭐21)](https://github.com/suzuki-shunsuke/flute) - HTTP client testing framework.
 *   [frisby (⭐278)](https://github.com/verdverm/frisby) - REST API testing framework.
 *   [gherkingen (⭐81)](https://github.com/hedhyw/gherkingen) - BDD boilerplate generator and framework.
@@ -4738,7 +4743,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [aptly (⭐13)](https://github.com/smira/aptly) - aptly is a Debian repository management tool.
 *   [aurora (⭐600)](https://github.com/xuri/aurora) - Cross-platform web-based Beanstalkd queue server console.
 *   [awsenv (⭐35)](https://github.com/soniah/awsenv) - Small binary that loads Amazon (AWS) environment variables for a profile.
 *   [Balerter (⭐302)](https://github.com/balerter/balerter) - A self-hosted script-based alerting manager.
