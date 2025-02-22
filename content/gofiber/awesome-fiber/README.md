@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/gofiber/awesome-fiber/week/README.md) / [Overview](/content/gofiber/awesome-fiber/readme/README.md) ]
 
+## [Feb 22, 2025](/content/2025/02/22/README.md)
+
+### 🛠️ Tools / 🌱 Third Party
+
+*   [Alibaba/opentelemetry-go-auto-instrumentation (⭐470)](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) - A tool to monitor fiber application without changing any code with OpenTelemetry APIs.
+
 ## [Feb 12, 2025](/content/2025/02/12/README.md)
 
 ### 📁 Recipes / 🌱 Third Party
@@ -83,7 +89,7 @@
 
 ### 🛠️ Tools / 🌱 Third Party
 
-*   [deepmap/oapi-codegen (⭐6.6k)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
+*   [deepmap/oapi-codegen (⭐6.7k)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
 
 ## [Jun 25, 2023](/content/2023/06/25/README.md)
 

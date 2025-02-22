@@ -2,9 +2,15 @@
 
 A curated list of anything remotely related to linguistics
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/theimpossibleastronaut/awesome-linguistics/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 theimpossibleastronaut/awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) · ⭐ 380 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/theimpossibleastronaut/awesome-linguistics/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 theimpossibleastronaut/awesome-linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics) · ⭐ 390 · 🏷️ Computer Science
 
 [ [Daily](/content/theimpossibleastronaut/awesome-linguistics/README.md) / Weekly / [Overview](/content/theimpossibleastronaut/awesome-linguistics/readme/README.md) ]
+
+## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
+
+### Platforms and toolkits
+
+*   [tyo (⭐0)](https://github.com/mongsvo/tyo) - A utility for finding Typo-Bridges.
 
 ## [Dec 05 - Dec 11, 2022](/content/2022/49/README.md)
 
@@ -14,7 +20,7 @@ A curated list of anything remotely related to linguistics
 *   [CorpusExplorer](https://notes.jan-oliver-ruediger.de/software/corpusexplorer-overview/) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 50 interactive visualizations under a user-friendly interface.
 *   [Snowball](https://snowballstem.org/) - Snowball is a language in which stemming algorithms can be easily represented.
 *   [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via WebLicht
-*   [textblob-de (⭐105)](https://github.com/markuskiller/textblob-de) - Nice alternative for spacy (see above).
+*   [textblob-de (⭐103)](https://github.com/markuskiller/textblob-de) - Nice alternative for spacy (see above).
 
 ### Data sets
 
@@ -33,7 +39,7 @@ A curated list of anything remotely related to linguistics
 
 ### Deep learning models and transformers
 
-*   [dbmdz BERT models (⭐155)](https://github.com/dbmdz/berts)
+*   [dbmdz BERT models (⭐156)](https://github.com/dbmdz/berts)
 *   [Deepset German BERT model](https://deepset.ai/german-bert)
 *   [Evaluating German Transformer Language Models with Syntactic Agreement Tests (⭐7)](https://github.com/DFKI-NLP/gevalm)
 *   [German ELMo Model (⭐28)](https://github.com/t-systems-on-site-services-gmbh/german-elmo-model)
@@ -76,16 +82,16 @@ A curated list of anything remotely related to linguistics
 *   [NLP-progress (⭐23k)](https://github.com/sebastianruder/NLP-progress)
 *   [/r/LanguageTechnology/](https://www.reddit.com/r/LanguageTechnology/)
 *   [awesome-nlp (⭐17k)](https://github.com/keon/awesome-nlp)
-*   [Awesome Community-Curated NLP List (⭐197)](https://github.com/alvations/awesome-community-curated-nlp)
+*   [Awesome Community-Curated NLP List (⭐198)](https://github.com/alvations/awesome-community-curated-nlp)
 *   [awesome-chinese-nlp (⭐7.8k)](https://github.com/crownpku/Awesome-Chinese-NLP)
-*   [awesome-danish (⭐169)](https://github.com/fnielsen/awesome-danish)
-*   [awesome-hungarian-nlp (⭐229)](https://github.com/oroszgy/awesome-hungarian-nlp)
+*   [awesome-danish (⭐172)](https://github.com/fnielsen/awesome-danish)
+*   [awesome-hungarian-nlp (⭐234)](https://github.com/oroszgy/awesome-hungarian-nlp)
 *   [awesome Information Retrieval (⭐1.1k)](https://github.com/harpribot/awesome-information-retrieval)
 *   [Indonesian NLP (⭐279)](https://github.com/kmkurn/id-nlp-resource)
-*   [Norwegian NLP resources (⭐178)](https://github.com/web64/norwegian-nlp-resources)
-*   [German NLP resources (⭐454)](https://github.com/adbar/German-NLP/)
-*   [awesome-nlp-polish (⭐294)](https://github.com/ksopyla/awesome-nlp-polish)
-*   [awesome-spanish-nlp (⭐333)](https://github.com/dav009/awesome-spanish-nlp)
+*   [Norwegian NLP resources (⭐181)](https://github.com/web64/norwegian-nlp-resources)
+*   [German NLP resources (⭐465)](https://github.com/adbar/German-NLP/)
+*   [awesome-nlp-polish (⭐297)](https://github.com/ksopyla/awesome-nlp-polish)
+*   [awesome-spanish-nlp (⭐336)](https://github.com/dav009/awesome-spanish-nlp)
 *   [M. Weisser's list of NLP/Computational Linguistics Resources](https://martinweisser.org/corpora_site/comp_ling_resources.html)
 
 ## [Aug 08 - Aug 14, 2022](/content/2022/32/README.md)
@@ -122,7 +128,7 @@ A curated list of anything remotely related to linguistics
 
 ### Resources
 
-*   [Low Resource Languages (⭐395)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
+*   [Low Resource Languages (⭐405)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
 
@@ -145,13 +151,13 @@ A curated list of anything remotely related to linguistics
 
 ### Platforms and toolkits
 
-*   [UralicNLP (⭐72)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
+*   [UralicNLP (⭐74)](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
 
 ## [Mar 06 - Mar 12, 2017](/content/2017/10/README.md)
 
 ### Data sets
 
-*   [EuroRomCom Data (⭐20)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+*   [EuroRomCom Data (⭐22)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 
 ### On Youtube
 
