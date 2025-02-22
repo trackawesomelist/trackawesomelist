@@ -11,6 +11,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### APIs, Data, and ML
 
 *   [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
+*   [IPQuery](https://ipquery.io) — Unlimited IP API for developers, no ratelimits, or pricing.
 
 ### Tools for Teams and Collaboration
 

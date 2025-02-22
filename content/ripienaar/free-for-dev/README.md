@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Feb 22, 2025](/content/2025/02/22/README.md)
+
+### APIs, Data, and ML
+
+*   [IPQuery](https://ipquery.io) — Unlimited IP API for developers, no ratelimits, or pricing.
+
 ## [Feb 21, 2025](/content/2025/02/21/README.md)
 
 ### Tools for Teams and Collaboration
