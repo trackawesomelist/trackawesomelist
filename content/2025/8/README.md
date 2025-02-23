@@ -1,42 +1,93 @@
 # Awesome List Updates on Feb 24 - Mar 02, 2025
 
-27 awesome lists updated this week.
+29 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [1. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+
+### Developer Tools
+
+*   [puml2xml (⭐1)](https://github.com/khalidbelk/puml2xml) – A PlantUML (**.puml**) to XML (**.xmi**) converter.
+
+## [2. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+
+### Books
+
+### [Security Engineering - Third Edition](https://www.cl.cam.ac.uk/~rja14/book.html) (2020)
+
+**Released**: November 1, 2020
+
+### Websites
+
+### [SecDim](https://secdim.com)
+
+SecDim is an appsec edutainment platform, [Learn](https://learn.secdim.com) appsec with free git based labs. Think you got what it takes to build a secure app? [Challenge yourself](https://play.secdim.com) with appsec games! Fix bugs, get a score and your name on the leaderboards.
+
+### Books and ebooks
+
+### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/defensive-coding/programming-languages/Python/)
+
+Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
+
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
 *   [Txeo (⭐35)](https://github.com/rdabra/txeo) - A modern C++ wrapper for TensorFlow. \[Apache]
 
-## [2. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
+## [4. Awesome Linguistics](/content/theimpossibleastronaut/awesome-linguistics/week/README.md)
 
 ### Platforms and toolkits
 
 *   [tyo (⭐0)](https://github.com/mongsvo/tyo) - A utility for finding Typo-Bridges.
 
-## [3. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [5. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 🛠️ Tools / 🌱 Third Party
 
 *   [Alibaba/opentelemetry-go-auto-instrumentation (⭐470)](https://github.com/alibaba/opentelemetry-go-auto-instrumentation) - A tool to monitor fiber application without changing any code with OpenTelemetry APIs.
 
-## [4. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [6. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [aptly (⭐2.6k)](https://github.com/aptly-dev/aptly) - aptly is a Debian repository management tool.
 
-## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+
+### PlayCanvas Products
+
+*   [PlayCanvas Engine (⭐9.9k)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
+*   [PlayCanvas React (⭐115)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
+*   [PlayCanvas Web Components (⭐22)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
+*   [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
+*   [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
+*   [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
+*   [Texture Tool (⭐6)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
+*   [PCUI (⭐692)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
+
+### Community
+
+*   [LinkedIn](https://www.linkedin.com/company/playcanvas)
+*   [X](https://x.com/playcanvas)
+*   [YouTube](https://www.youtube.com/@playcanvas)
+
+### Documentation
+
+*   [API Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
+
+### Interactive Experiences
+
+*   [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 
 ### IO Games
 
 *   [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
 
-## [6. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [8. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Cloud Data Warehousing / Playground
 
@@ -46,7 +97,7 @@
 
 *   :octocat: [Onion.JS (⭐10)](https://github.com/ThomasAribart/onion.js) - Design and apply wrappers (i.e. high-order functions) without breaking types! Based on [HotScript (⭐3.6k)](https://github.com/gvergnaud/hotscript) high-order types.
 
-## [7. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [9. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Solutions / Golang - Community
 
@@ -66,25 +117,25 @@
 
 *   [Extracting structured data from PDFs using Gemini 2.0 and Genkit](https://firebase.blog/posts/2025/02/gemini-genkit-pdf-structured-data) - Learn how to extract structured data from PDFs using Gemini 2.0 and Genkit 1.0.
 
-## [8. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [10. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Connectivity Maps
 
 *   [Submarine Telecoms Forum](https://subtelforum.com/online-map/) - SubTelForum has an excellent interactive map and directory of undersea cables as well as an annual almanac.
 
-## [9. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [11. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
 *   [Screening Tools](https://screening-tools.com/) - Screening Tools is a project of Public Environmental Data Partners that is archiving and providing federal datasets related to environmental and social vulnerability screening. Datasets distributed and screening tools made available through this site include EJ Screen and CDC SVI for example.
 
-## [10. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [12. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Tools / Desktop
 
 *   [Moon Modeler](https://www.datensen.com/) - Data modeling tool for MongoDB and relational databases
 
-## [11. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [13. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Low-code
 
@@ -94,7 +145,7 @@
 
 *   [Minima (⭐500)](https://github.com/dmayboroda/minima): Chat with local documents, connect local environment to ChatGPT or Claude ![GitHub Repo stars](https://img.shields.io/github/stars/dmayboroda/minima?style=social)
 
-## [12. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [14. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / API Testing
 
@@ -105,7 +156,7 @@
 *   [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
 *   [WireMock (⭐6.5k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 
-## [13. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [15. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -165,20 +216,20 @@
 
 *   [YAML (⭐367) (⭐366)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [16. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [Corgea](https://corgea.com/) :copyright: — Corgea is an AI-powered SAST scanner that helps developers find and fix insecure code.  It finds business logic flaws, broken authentication, API vulnerabilities, and more with little false positives. Additionally, it automatically writes security fixes for them to approve.  Corgea integrates with GitHub, GitLab, Azure DevOps, IDEs and CLI. It is free to try it.
 
-## [15. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [17. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Driver crates / Other
 
 *   [adafruit-seesaw](https://crates.io/crates/adafruit-seesaw) - I2C - Driver for devices running the [Adafruit Seesaw](https://learn.adafruit.com/adafruit-seesaw-atsamd09-breakout/overview) firmware - [![crates.io](https://img.shields.io/crates/v/adafruit-seesaw.svg)](https://crates.io/crates/adafruit-seesaw)
 *   [IS31FL3728](https://crates.io/crates/is31fl3728-rs) - I2C -  LED dot matrix display mode (8×8, 5x11, 6x10,7x9) - [github (⭐0)](https://github.com/leonidv/is31fl3728-rs) -[![crates.io](https://img.shields.io/crates/v/is31fl3728-rs)](https://crates.io/crates/is31fl3728-rs)
 
-## [16. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [18. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Official news
 
@@ -188,13 +239,13 @@
 
 *   [Build a Decision Tree in Polars from Scratch](https://towardsdatascience.com/build-a-decision-tree-in-polars-from-scratch/) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here (⭐5)](https://github.com/tocab/efficient-trees).
 
-## [17. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [19. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
 *   [fdup (⭐2)](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 
-## [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Large Language Models (LLMs)
 
@@ -204,19 +255,19 @@
 
 *   [Lunary](https://lunary.ai): Open-source platform for LLM chatbots and agents: observability, prompt management, testing & more
 
-## [19. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [21. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Related lists
 
 *   [Awesome Music Programming (⭐1)](https://github.com/zoejane/awesome-music-programming) - A curated collection of music programming languages, libraries, frameworks and tools.
 
-## [20. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [22. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Ingestion
 
 *   [CsvPath Framework](https://www.csvpath.org/) - A delimited data preboarding framework that fills the gap between MFT and the data lake.
 
-## [21. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [23. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Tools / Develop
 
@@ -240,7 +291,7 @@
 *   [\[Marcos Game Dev\] Criando Menu Principal no Construct 2](https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U) - Learn to create a main menu that works for almost any game (focus on desktop). Includes fullscreen/window mode, control mapping, language switch, audio settings, and more.
 *   [Marcos Game Dev](https://www.youtube.com/@MarcosGameDev/videos) - Tutorials & more.
 
-## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -255,7 +306,7 @@
 *   [neanvo/buben.nvim (⭐1)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
 *   [josephburgess/nvumi (⭐20)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
 
-## [23. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Bayesian Modeling / Nonparametric Model
 
@@ -267,7 +318,7 @@
 *   [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://ieeexplore.ieee.org/abstract/document/7352306) - ***Proceedings of the IEEE***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437)]. \[[Preprint](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf)]. Big Data applications are typically associated with systems involving large numbers of users, massive complex software systems, and large-scale heterogeneous computing and storage architectures. The construction of such systems involves many distributed design choices. The end products (e.g., recommendation systems, medical analysis tools, real-time game engines, speech recognizers) thus involve many tunable configuration parameters. These parameters are often specified and hard-coded into the software by various developers or teams. If optimized jointly, these parameters can result in significant improvements. Bayesian optimization is a powerful tool for the joint optimization of design choices that is gaining great popularity in recent years. It promises greater automation so as to increase both product quality and human productivity. This review paper introduces Bayesian optimization, highlights some of its methodological aspects, and showcases a wide range of applications.
 *   [Practical Bayesian Optimization of Machine Learning Algorithms](https://proceedings.neurips.cc/paper/2012/hash/05311655a15b75fab86956663e1819cd-Abstract.html) - ***NeurIPS'12***, 2012. \[[All Versions](https://scholar.google.com/scholar?cluster=14442949298925775705)]. The use of machine learning algorithms frequently involves careful tuning of learning parameters and model hyperparameters. Unfortunately, this tuning is often a “black art” requiring expert experience, rules of thumb, or sometimes brute-force search. There is therefore great appeal for automatic approaches that can optimize the performance of any given learning algorithm to the problem at hand. This work considers this problem through the framework of Bayesian optimization, in which a learning algorithm’s generalization performance is modeled as a sample from a Gaussian process (GP). The authors show that certain choices for the nature of the GP, such as the type of kernel and the treatment of its hyperparameters, can play a crucial role in obtaining a good optimizer that can achieve expert-level performance. The authors describe new algorithms that take into account the variable cost (duration) of learning algorithm experiments and that can leverage the presence of multiple cores for parallel experimentation. These proposed algorithms improve on previous automatic procedures and can reach or surpass human expert-level optimization for many algorithms including Latent Dirichlet Allocation, Structured SVMs and convolutional neural networks.
 
-## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [26. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Templating Engines / Runner
 
@@ -288,7 +339,7 @@
 *   [Knex (⭐20k)](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 *   [MikroORM (⭐8k)](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
 
-## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -307,11 +358,19 @@
 
 *   [CORS-Tester](https://cors-error.dev/cors-tester/) - A free tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps. Get actionable insights.
 
-## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Exercises / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-debug-quest (⭐21)](https://github.com/angular-courses-lab/angular-debug-quest) - Sharpen your skills at fixing bugs in Angular applications for a better understanding of the framework.
+
+### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [learnbydo.ing](https://www.learnbydo.ing/) - Learn {Web} programming with Courses, Books & Exercises from [Fabio Biondi](https://www.fabiobiondi.dev/video-courses/). Content either in Italian or English.
+
+### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -339,6 +398,10 @@
 
 *   [Angular Caniuse](https://www.angular.courses/caniuse) - Track Angular features from preview to stable stages.
 
+### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-editorjs2 (⭐1)](https://github.com/Ba5ik7/ngx-editorjs2) - A highly extensible block-style editor inspired by [Editor.js](https://editorjs.io/). It allows users to create and manage rich text content using a variety of customizable blocks while leveraging Angular's reactive capabilities. [https://github.com/Ba5ik7/ngx-editor-js2-blocks (⭐1)](https://github.com/Ba5ik7/ngx-editor-js2-blocks) contain custom blocks that extend the editor with additional content types.
+
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-card-wrapper (⭐1)](https://github.com/filip194/ngx-card-wrapper) - Angular >=16 wrapper for [card.js (⭐12k)](https://github.com/jessepollak/card), which provides a credit card form.
@@ -351,7 +414,7 @@
 
 *   [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
 
-## [27. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [29. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Cheat Sheets / Lecture Videos Playlist
 

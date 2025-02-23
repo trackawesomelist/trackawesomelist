@@ -2,7 +2,7 @@
 
 A curated list of resources for learning about application security
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/paragonie/awesome-appsec/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) · ⭐ 5.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/paragonie/awesome-appsec/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) · ⭐ 6.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/paragonie/awesome-appsec/README.md) / [Weekly](/content/paragonie/awesome-appsec/week/README.md) / Overview ]
 
@@ -51,7 +51,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
         *   [Computation Structures (MIT Electrical Engineering and Computer Science)](#-computation-structures-mit-electrical-engineering-and-computer-science-1989) (1989) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
         *   [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](#-surreptitious-software-obfuscation-watermarking-and-tamperproofing-for-software-protection-2009) (2009) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
         *   [Secure Programming HOWTO](#secure-programming-howto-2015) (2015)
-        *   [Security Engineering - Second Edition](#security-engineering-second-edition-2008) (2008)
+        *   [Security Engineering - Third Edition](#security-engineering-third-edition-2020) (2020)
         *   [Bulletproof SSL and TLS](#-bulletproof-ssl-and-tls-2014) (2014) ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png)
         *   [Holistic Info-Sec for Web Developers (Fascicle 0)](#holistic-info-sec-for-web-developers-fascicle-0-2016) (2016)
         *   [Holistic Info-Sec for Web Developers (Fascicle 1)](#holistic-info-sec-for-web-developers-fascicle-1)
@@ -73,6 +73,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
         *   [OWASP NodeGoat](#owasp-nodegoat)
         *   [Securing The Stack](#securing-the-stack)
         *   [OWASP ServerlessGoat](#owasp-serverlessgoat)
+        *   [SecDim](#secdim)
         *   [Blogs](#blogs)
             *   [Crypto Fails](#crypto-fails)
             *   [NCC Group - Blog](#ncc-group-blog)
@@ -94,7 +95,7 @@ from reading [A Gentle Introduction to Application Security](https://paragonie.c
 *   [C](#c)
     *   [Books and ebooks](#books-and-ebooks-1)
         *   [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
-        *   [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2022) (2022)
+        *   [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2025) (2025)
 *   [C++](#c-1)
     *   [Books and ebooks](#books-and-ebooks-2)
         *   [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006-1) (2006)
@@ -274,9 +275,9 @@ Securing DevOps explores how the techniques of DevOps and Security should be app
 
 **Released**: March 1, 2015
 
-### [Security Engineering - Second Edition](https://www.cl.cam.ac.uk/\~rja14/book.html) (2008)
+### [Security Engineering - Third Edition](https://www.cl.cam.ac.uk/~rja14/book.html) (2020)
 
-**Released**: April 14, 2008
+**Released**: November 1, 2020
 
 ### ![nonfree](https://github.com/paragonie/awesome-appsec/raw/master/img/nonfree.png) [Bulletproof SSL and TLS](https://www.feistyduck.com/books/bulletproof-ssl-and-tls/) (2014)
 
@@ -294,13 +295,13 @@ The second part of a three part book series providing broad and in-depth coverag
 
 ## Classes
 
-### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/\~redwood/OffensiveComputerSecurity/)
+### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
 
 A vulnerability research and exploit development class by Owen Redwood of Florida State University.
 
-**Be sure to check out the [lectures](https://www.cs.fsu.edu/\~redwood/OffensiveComputerSecurity/lectures.html)!**
+**Be sure to check out the [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
 
-### [Hack Night (⭐1.1k)](https://github.com/isislab/Hack-Night)
+### [Hack Night (⭐1.2k)](https://github.com/isislab/Hack-Night)
 
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
@@ -350,9 +351,9 @@ An intentionally insecure Javascript Web Application.
 
 How to go on the offence before online attackers do.
 
-### [OWASP NodeGoat (⭐1.6k)](https://github.com/owasp/nodegoat)
+### [OWASP NodeGoat (⭐1.9k)](https://github.com/owasp/nodegoat)
 
-Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API (⭐1.6k)](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image (⭐1.6k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
+Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API (⭐1.9k)](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image (⭐1.9k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
 
 ### [Securing The Stack](https://securingthestack.com)
 
@@ -361,6 +362,10 @@ Bi-Weekly Appsec Tutorials
 ### [OWASP ServerlessGoat](https://www.owasp.org/index.php/OWASP_Serverless_Goat)
 
 OWASP ServerlessGoat is a deliberately insecure realistic AWS Lambda serverless application, maintained by OWASP and created by [PureSec](https://www.puresec.io/). You can install WebGoat, learn about the vulnerabilities, how to exploit them, and how to remediate each issue. The project also includes documentation explaining the issues and how they should be remediated with best-practices.
+
+### [SecDim](https://secdim.com)
+
+SecDim is an appsec edutainment platform, [Learn](https://learn.secdim.com) appsec with free git based labs. Think you got what it takes to build a secure app? [Challenge yourself](https://play.secdim.com) with appsec games! Fix bugs, get a score and your name on the leaderboards.
 
 ### Blogs
 
@@ -434,9 +439,9 @@ A community-maintained Wiki detailing secure coding standards for Android develo
 
 A community-maintained Wiki detailing secure coding standards for C programming.
 
-### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2022)
+### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2025)
 
-**Released**: May 23, 2022
+**Released**: February 22, 2025
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 
@@ -464,7 +469,7 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 ## Repositories
 
-### [Clojure OWASP (⭐19)](https://github.com/nubank/clj-owasp) (2020)
+### [Clojure OWASP (⭐33)](https://github.com/nubank/clj-owasp) (2020)
 
 **Released**: May 5, 2020
 
@@ -506,7 +511,7 @@ Secure Java programming guidelines straight from Oracle.
 
 Covers a lot of useful information for developing secure Node.js applications.
 
-### [Awesome Electron.js hacking & pentesting resources (⭐408)](https://github.com/doyensec/awesome-electronjs-hacking) (2020)
+### [Awesome Electron.js hacking & pentesting resources (⭐602)](https://github.com/doyensec/awesome-electronjs-hacking) (2020)
 
 **Released**: June 17, 2020
 
@@ -582,7 +587,7 @@ If you're confused about cryptography terms, start here.
 
 **Released**: August 2, 2015
 
-Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library (⭐3.5k)](https://github.com/defuse/php-encryption), or OpenSSL.
+Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library (⭐3.8k)](https://github.com/defuse/php-encryption), or OpenSSL.
 
 ### [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software) (2017)
 
@@ -602,23 +607,23 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ## Useful libraries
 
-### [defuse/php-encryption (⭐3.5k)](https://github.com/defuse/php-encryption)
+### [defuse/php-encryption (⭐3.8k)](https://github.com/defuse/php-encryption)
 
 Symmetric-key encryption library for PHP applications. (**Recommended** over rolling your own!)
 
-### [ircmaxell/password\_compat (⭐2.2k)](https://github.com/ircmaxell/password_compat)
+### [ircmaxell/password\_compat (⭐2.1k)](https://github.com/ircmaxell/password_compat)
 
 If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
 
-### [ircmaxell/RandomLib (⭐831)](https://github.com/ircmaxell/RandomLib)
+### [ircmaxell/RandomLib (⭐843)](https://github.com/ircmaxell/RandomLib)
 
 Useful for generating random strings or numbers
 
-### [thephpleague/oauth2-server (⭐6.2k)](https://github.com/thephpleague/oauth2-server)
+### [thephpleague/oauth2-server (⭐6.6k)](https://github.com/thephpleague/oauth2-server)
 
 A secure OAuth2 server implementation
 
-### [paragonie/random\_compat (⭐8k)](https://github.com/paragonie/random_compat)
+### [paragonie/random\_compat (⭐8.2k)](https://github.com/paragonie/random_compat)
 
 PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
 
@@ -670,7 +675,7 @@ A community-maintained Wiki detailing secure coding standards for Perl programmi
 
 ## Books and ebooks
 
-### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html)
+### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/defensive-coding/programming-languages/Python/)
 
 Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
 
@@ -684,7 +689,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ## Websites
 
-### [OWASP Python Security Wiki (⭐395)](https://github.com/ebranca/owasp-pysec/wiki) (2014)
+### [OWASP Python Security Wiki (⭐407)](https://github.com/ebranca/owasp-pysec/wiki) (2014)
 
 **Released**: June 21, 2014
 
@@ -698,5 +703,5 @@ A wiki maintained by the OWASP Python Security project.
 
 **Released**: March 10, 2014
 
-A guide to secure Ruby development by the Fedora Security Team. Also available on [Github (⭐8)](https://github.com/jrusnack/secure-ruby-development-guide).
+A guide to secure Ruby development by the Fedora Security Team. Also available on [Github (⭐10)](https://github.com/jrusnack/secure-ruby-development-guide).
 

@@ -8,6 +8,31 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
+### PlayCanvas Products
+
+*   [PlayCanvas Engine (⭐9.9k)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
+*   [PlayCanvas React (⭐115)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
+*   [PlayCanvas Web Components (⭐22)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
+*   [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
+*   [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
+*   [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
+*   [Texture Tool (⭐6)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
+*   [PCUI (⭐692)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
+
+### Community
+
+*   [LinkedIn](https://www.linkedin.com/company/playcanvas)
+*   [X](https://x.com/playcanvas)
+*   [YouTube](https://www.youtube.com/@playcanvas)
+
+### Documentation
+
+*   [API Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
+
+### Interactive Experiences
+
+*   [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
+
 ### IO Games
 
 *   [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
@@ -98,19 +123,14 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
-### PlayCanvas
-
-*   [SuperSplat](https://playcanvas.com/supersplat/editor) - 3D Gassuian Splat Editor.
-
 ### Extensions and Utilities
 
 *   [playcanvas-rest-api-tools (⭐24)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 
 ## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
 
-### PlayCanvas
+### Documentation
 
-*   [Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
 *   [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
@@ -125,12 +145,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150 year anniversary.
 *   [Jungle Friends](https://poki.com/en/g/jungle-friends) - Earn coins by helping your animal friends.
-
-## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
-
-### PlayCanvas
-
-*   [Texture Tool](https://playcanvas.com/texture-tool) - Tool for reprojecting textures.
 
 ## [Oct 23 - Oct 29, 2023](/content/2023/43/README.md)
 
@@ -381,10 +395,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## [Mar 08 - Mar 14, 2021](/content/2021/10/README.md)
 
-### Community
-
-*   [Openbase](https://openbase.com/js/playcanvas)
-
 ### Browser Games
 
 *   [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
@@ -402,12 +412,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Megopoly](https://playmegopoly.com/) - Free to play casual strategy board game where you invest in virtual property.
 
 ## [Jan 04 - Jan 10, 2021](/content/2021/1/README.md)
-
-### PlayCanvas
-
-*   [Engine (⭐9.9k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
-*   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
-*   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 
 ### Automotive
 
@@ -497,16 +501,10 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Community
 
-*   [Twitter](https://twitter.com/playcanvas)
 *   [Discord Server](https://discord.gg/RSaMRzg)
 *   [Facebook](https://www.facebook.com/playcanvas/)
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
-
-### PlayCanvas
-
-*   [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
-*   [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
 
 ### Tutorials
 
@@ -559,10 +557,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## [Oct 28 - Nov 03, 2019](/content/2019/43/README.md)
 
-### Community
-
-*   [HTML5GameDevs Forum](https://www.html5gamedevs.com/tags/playcanvas/)
-
 ### Extensions and Utilities
 
 *   [playcanvas-node (⭐6)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
@@ -579,4 +573,3 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Forum](https://forum.playcanvas.com/)
 *   [Reddit](https://www.reddit.com/r/PlayCanvas/)
-*   [Stack Overflow](https://stackoverflow.com/questions/tagged/playcanvas)

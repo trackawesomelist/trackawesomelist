@@ -2,9 +2,29 @@
 
 A curated list of resources for learning about application security
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/paragonie/awesome-appsec/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) · ⭐ 5.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/paragonie/awesome-appsec/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 paragonie/awesome-appsec](https://github.com/paragonie/awesome-appsec) · ⭐ 6.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/paragonie/awesome-appsec/README.md) / Weekly / [Overview](/content/paragonie/awesome-appsec/readme/README.md) ]
+
+## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
+
+### Books
+
+### [Security Engineering - Third Edition](https://www.cl.cam.ac.uk/~rja14/book.html) (2020)
+
+**Released**: November 1, 2020
+
+### Websites
+
+### [SecDim](https://secdim.com)
+
+SecDim is an appsec edutainment platform, [Learn](https://learn.secdim.com) appsec with free git based labs. Think you got what it takes to build a secure app? [Challenge yourself](https://play.secdim.com) with appsec games! Fix bugs, get a score and your name on the leaderboards.
+
+### Books and ebooks
+
+### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/defensive-coding/programming-languages/Python/)
+
+Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
@@ -42,7 +62,7 @@ Test and learn Clickjacking. Make clickjacking PoC, take screenshot and share li
 ### [PureSec FunctionShield](https://www.puresec.io/function-shield)
 
 FunctionShield is a 100% free AWS Lambda security and Google Cloud Functions security library that equips developers with the ability to easily enforce strict security controls on serverless runtimes.
-### [Awesome Electron.js hacking & pentesting resources (⭐408)](https://github.com/doyensec/awesome-electronjs-hacking) (2020)
+### [Awesome Electron.js hacking & pentesting resources (⭐602)](https://github.com/doyensec/awesome-electronjs-hacking) (2020)
 
 **Released**: June 17, 2020
 
@@ -50,7 +70,7 @@ A curated list of resources to secure Electron.js-based applications.
 
 ### Articles
 
-### [Clojure OWASP (⭐19)](https://github.com/nubank/clj-owasp) (2020)
+### [Clojure OWASP (⭐33)](https://github.com/nubank/clj-owasp) (2020)
 
 **Released**: May 5, 2020
 
@@ -103,9 +123,9 @@ The second part of a three part book series providing broad and in-depth coverag
 
 ### Websites
 
-### [OWASP NodeGoat (⭐1.6k)](https://github.com/owasp/nodegoat)
+### [OWASP NodeGoat (⭐1.9k)](https://github.com/owasp/nodegoat)
 
-Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API (⭐1.6k)](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image (⭐1.6k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
+Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API (⭐1.9k)](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image (⭐1.9k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
 
 ### Books and ebooks
 
@@ -190,14 +210,6 @@ Where hackers and security experts come to train.
 
 Covers a lot of useful information for developing secure Node.js applications.
 
-## [Oct 12 - Oct 18, 2015](/content/2015/41/README.md)
-
-### Books
-
-### [Security Engineering - Second Edition](https://www.cl.cam.ac.uk/\~rja14/book.html) (2008)
-
-**Released**: April 14, 2008
-
 ## [Sep 21 - Sep 27, 2015](/content/2015/38/README.md)
 
 ### Useful libraries
@@ -223,7 +235,7 @@ Investing more time and personnel to develop secure software is, for most compan
 
 **Released**: August 2, 2015
 
-Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library (⭐3.5k)](https://github.com/defuse/php-encryption), or OpenSSL.
+Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library (⭐3.8k)](https://github.com/defuse/php-encryption), or OpenSSL.
 
 ### Books and ebooks
 
@@ -245,7 +257,7 @@ A community-maintained Wiki detailing secure coding standards for Java programmi
 
 ### Useful libraries
 
-### [paragonie/random\_compat (⭐8k)](https://github.com/paragonie/random_compat)
+### [paragonie/random\_compat (⭐8.2k)](https://github.com/paragonie/random_compat)
 
 PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
 ### [psecio/gatekeeper (⭐365)](https://github.com/psecio/gatekeeper)
@@ -287,9 +299,9 @@ An intentionally insecure Javascript Web Application.
 
 ### Books and ebooks
 
-### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2022)
+### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2025)
 
-**Released**: May 23, 2022
+**Released**: February 22, 2025
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 ### [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637) (2006)
@@ -302,10 +314,7 @@ A community-maintained Wiki detailing secure coding standards for C++ programmin
 **Released**: January 10, 2011
 
 A community-maintained Wiki detailing secure coding standards for Perl programming.
-### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html)
-
-Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
-### [OWASP Python Security Wiki (⭐395)](https://github.com/ebranca/owasp-pysec/wiki) (2014)
+### [OWASP Python Security Wiki (⭐407)](https://github.com/ebranca/owasp-pysec/wiki) (2014)
 
 **Released**: June 21, 2014
 
@@ -314,7 +323,7 @@ A wiki maintained by the OWASP Python Security project.
 
 **Released**: March 10, 2014
 
-A guide to secure Ruby development by the Fedora Security Team. Also available on [Github (⭐8)](https://github.com/jrusnack/secure-ruby-development-guide).
+A guide to secure Ruby development by the Fedora Security Team. Also available on [Github (⭐10)](https://github.com/jrusnack/secure-ruby-development-guide).
 
 ### Articles
 
@@ -340,7 +349,7 @@ Learn from the team that spearheaded the [Node Security Project](https://nodesec
 
 ### Websites
 
-### [Hack Night (⭐1.1k)](https://github.com/isislab/Hack-Night)
+### [Hack Night (⭐1.2k)](https://github.com/isislab/Hack-Night)
 
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
@@ -425,11 +434,11 @@ Develops a sense of professional paranoia while presenting crypto design techniq
 
 ### Classes
 
-### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/\~redwood/OffensiveComputerSecurity/)
+### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
 
 A vulnerability research and exploit development class by Owen Redwood of Florida State University.
 
-**Be sure to check out the [lectures](https://www.cs.fsu.edu/\~redwood/OffensiveComputerSecurity/lectures.html)!**
+**Be sure to check out the [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
 
 ### Websites
 
@@ -482,7 +491,7 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 ### Useful libraries
 
-### [thephpleague/oauth2-server (⭐6.2k)](https://github.com/thephpleague/oauth2-server)
+### [thephpleague/oauth2-server (⭐6.6k)](https://github.com/thephpleague/oauth2-server)
 
 A secure OAuth2 server implementation
 
@@ -535,13 +544,13 @@ The top ten most common and critical security vulnerabilities found in web appli
 
 ### Useful libraries
 
-### [defuse/php-encryption (⭐3.5k)](https://github.com/defuse/php-encryption)
+### [defuse/php-encryption (⭐3.8k)](https://github.com/defuse/php-encryption)
 
 Symmetric-key encryption library for PHP applications. (**Recommended** over rolling your own!)
-### [ircmaxell/password\_compat (⭐2.2k)](https://github.com/ircmaxell/password_compat)
+### [ircmaxell/password\_compat (⭐2.1k)](https://github.com/ircmaxell/password_compat)
 
 If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
-### [ircmaxell/RandomLib (⭐831)](https://github.com/ircmaxell/RandomLib)
+### [ircmaxell/RandomLib (⭐843)](https://github.com/ircmaxell/RandomLib)
 
 Useful for generating random strings or numbers
 
