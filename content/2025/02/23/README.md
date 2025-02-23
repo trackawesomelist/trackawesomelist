@@ -1,18 +1,30 @@
 # Awesome List Updates on Feb 23, 2025
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [1. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [thesimonho/kanagawa-paper.nvim (⭐168)](https://github.com/thesimonho/kanagawa-paper.nvim) - Remixed light and dark Kanagawa colourschemes with muted colors.
+
+## [2. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+
+### Models and Projects / Flax
+
+*   [DeepSeek-R1-Flax-1.5B-Distill (⭐10)](https://github.com/J-Rosser-UK/Torch2Jax-DeepSeek-R1-Distill-Qwen-1.5B) - Flax implementation of DeepSeek-R1 1.5B distilled reasoning LLM.
+
+## [3. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Developer Tools
 
 *   [puml2xml (⭐1)](https://github.com/khalidbelk/puml2xml) – A PlantUML (**.puml**) to XML (**.xmi**) converter.
 
-## [2. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
+## [4. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Books
 
@@ -32,7 +44,7 @@ SecDim is an appsec edutainment platform, [Learn](https://learn.secdim.com) apps
 
 Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
 
-## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### PlayCanvas Products
 
@@ -59,7 +71,7 @@ Lists standard library features that should be avoided, and references sections 
 
 *   [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

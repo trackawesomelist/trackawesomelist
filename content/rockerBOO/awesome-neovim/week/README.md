@@ -16,6 +16,10 @@ Collections of awesome neovim plugins.
 
 *   [Enigama/miss.nvim (⭐3)](https://github.com/Enigama/miss.nvim) - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
 
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [thesimonho/kanagawa-paper.nvim (⭐168)](https://github.com/thesimonho/kanagawa-paper.nvim) - Remixed light and dark Kanagawa colourschemes with muted colors.
+
 ### Utility / Diagnostics
 
 *   [neanvo/buben.nvim (⭐1)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
@@ -39,7 +43,7 @@ Collections of awesome neovim plugins.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Thiago4532/mdmath.nvim (⭐105)](https://github.com/Thiago4532/mdmath.nvim) - A markdown equation previewer, using Kitty Graphics Protocol.
+*   [Thiago4532/mdmath.nvim (⭐120)](https://github.com/Thiago4532/mdmath.nvim) - A markdown equation previewer, using Kitty Graphics Protocol.
 
 ### Search / Diagnostics
 
@@ -47,7 +51,7 @@ Collections of awesome neovim plugins.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [neko-night/nvim (⭐30)](https://github.com/neko-night/nvim) - A buffet of colorschemes for every taste and mood.
+*   [neko-night/nvim (⭐39)](https://github.com/neko-night/nvim) - A buffet of colorschemes for every taste and mood.
 
 ### Media / Diagnostics
 
@@ -658,10 +662,6 @@ Collections of awesome neovim plugins.
 *   [karshPrime/tmux-compile.nvim (⭐17)](https://github.com/karshPrime/tmux-compile.nvim) - Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window.
 
 ## [Jun 10 - Jun 16, 2024](/content/2024/24/README.md)
-
-### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [sho-87/kanagawa-paper.nvim (⭐165)](https://github.com/sho-87/kanagawa-paper.nvim) - Remixed Kanagawa colourscheme with muted colors.
 
 ### Utility / Diagnostics
 

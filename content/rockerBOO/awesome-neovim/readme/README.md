@@ -332,7 +332,7 @@ Collections of awesome neovim plugins.
 *   [Kicamon/markdown-table-mode.nvim (⭐70)](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 *   [SCJangra/table-nvim (⭐38)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
 *   [nvim-telescope/telescope-bibtex.nvim (⭐122)](https://github.com/nvim-telescope/telescope-bibtex.nvim) - Telescope extension to search and paste BibTeX entries into your TeX files.
-*   [Thiago4532/mdmath.nvim (⭐105)](https://github.com/Thiago4532/mdmath.nvim) - A markdown equation previewer, using Kitty Graphics Protocol.
+*   [Thiago4532/mdmath.nvim (⭐120)](https://github.com/Thiago4532/mdmath.nvim) - A markdown equation previewer, using Kitty Graphics Protocol.
 
 ### PHP
 
@@ -645,7 +645,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [luisiacc/gruvbox-baby (⭐408)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full Tree-sitter support.
 *   [titanzero/zephyrium (⭐24)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with Tree-sitter support.
 *   [rebelot/kanagawa.nvim (⭐4.7k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
-*   [sho-87/kanagawa-paper.nvim (⭐165)](https://github.com/sho-87/kanagawa-paper.nvim) - Remixed Kanagawa colourscheme with muted colors.
+*   [thesimonho/kanagawa-paper.nvim (⭐168)](https://github.com/thesimonho/kanagawa-paper.nvim) - Remixed light and dark Kanagawa colourschemes with muted colors.
 *   [kevinm6/kurayami.nvim (⭐7)](https://github.com/kevinm6/kurayami.nvim) - Dark (only) theme.
 *   [tiagovla/tokyodark.nvim (⭐514)](https://github.com/tiagovla/tokyodark.nvim) - A clean dark theme written in Lua (Neovim >= 0.5) and above.
 *   [cpea2506/one\_monokai.nvim (⭐177)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
@@ -698,7 +698,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [bartekjaszczak/luma-nvim](https://gitlab.com/bartekjaszczak/luma-nvim) - A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
 *   [bartekjaszczak/finale-nvim](https://gitlab.com/bartekjaszczak/finale-nvim) - A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting.
 *   [m15a/nvim-srcerite (⭐5)](https://github.com/m15a/nvim-srcerite) - A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
-*   [neko-night/nvim (⭐30)](https://github.com/neko-night/nvim) - A buffet of colorschemes for every taste and mood.
+*   [neko-night/nvim (⭐39)](https://github.com/neko-night/nvim) - A buffet of colorschemes for every taste and mood.
 
 ### Lua Colorscheme
 

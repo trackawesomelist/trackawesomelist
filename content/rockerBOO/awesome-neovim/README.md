@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 23, 2025](/content/2025/02/23/README.md)
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [thesimonho/kanagawa-paper.nvim (⭐168)](https://github.com/thesimonho/kanagawa-paper.nvim) - Remixed light and dark Kanagawa colourschemes with muted colors.
+
 ## [Feb 21, 2025](/content/2025/02/21/README.md)
 
 ### AI / Diagnostics
@@ -44,11 +50,11 @@ Collections of awesome neovim plugins.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Thiago4532/mdmath.nvim (⭐105)](https://github.com/Thiago4532/mdmath.nvim) - A markdown equation previewer, using Kitty Graphics Protocol.
+*   [Thiago4532/mdmath.nvim (⭐120)](https://github.com/Thiago4532/mdmath.nvim) - A markdown equation previewer, using Kitty Graphics Protocol.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [neko-night/nvim (⭐30)](https://github.com/neko-night/nvim) - A buffet of colorschemes for every taste and mood.
+*   [neko-night/nvim (⭐39)](https://github.com/neko-night/nvim) - A buffet of colorschemes for every taste and mood.
 
 ## [Feb 04, 2025](/content/2025/02/04/README.md)
 
@@ -798,12 +804,6 @@ Collections of awesome neovim plugins.
 ### Code Runner / Diagnostics
 
 *   [niuiic/task.nvim (⭐8)](https://github.com/niuiic/task.nvim) - Another highly configurable task manager that enables seamless interaction with tasks.
-
-## [Jun 11, 2024](/content/2024/06/11/README.md)
-
-### Tree-sitter Supported Colorscheme / Diagnostics
-
-*   [sho-87/kanagawa-paper.nvim (⭐165)](https://github.com/sho-87/kanagawa-paper.nvim) - Remixed Kanagawa colourscheme with muted colors.
 
 ## [Jun 05, 2024](/content/2024/06/05/README.md)
 
