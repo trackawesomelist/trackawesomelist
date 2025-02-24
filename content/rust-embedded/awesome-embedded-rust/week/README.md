@@ -6,6 +6,17 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ [Daily](/content/rust-embedded/awesome-embedded-rust/README.md) / Weekly / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
+
+### Peripheral Access Crates / MSP430
+
+*   [`msp430g2553`](https://github.com/pftbest/msp430g2553) Peripheral access API for MSP430G2553 microcontrollers (generated using svd2rust)
+    *   [msp430 quickstart (⭐39)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
+
+### Peripheral Access Crates / Espressif
+
+*   [`esp8266`](https://github.com/esp-rs/esp8266) - [![crates.io](https://img.shields.io/crates/v/esp8266.svg)](https://crates.io/crates/esp8266) *note: esp8266 is archived, no further development planned*
+
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
 ### Driver crates / Other
@@ -118,7 +129,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [wtx (⭐251)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
+*   [wtx (⭐252)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 
@@ -570,7 +581,6 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [`esp32c3`](https://github.com/esp-rs/esp-pacs/tree/main/esp32c3) - [![crates.io](https://img.shields.io/crates/v/esp32c3.svg)](https://crates.io/crates/esp32c3)
 *   [`esp32s2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32s2) - [![crates.io](https://img.shields.io/crates/v/esp32s2.svg)](https://crates.io/crates/esp32s2)
 *   [`esp32s3`](https://github.com/esp-rs/esp-pacs/tree/main/esp32s3) - [![crates.io](https://img.shields.io/crates/v/esp32s3.svg)](https://crates.io/crates/esp32s3)
-*   [`esp8266`](https://github.com/esp-rs/esp-pacs/tree/main/esp8266) - [![crates.io](https://img.shields.io/crates/v/esp8266.svg)](https://crates.io/crates/esp8266)
 
 ### HAL implementation crates / Espressif
 
@@ -659,7 +669,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Board support crates / Sodaq
 
-*   [`sodaq_one`](https://crates.io/crates/sodaq_one) - Board support for the [Sodaq one board](https://shop.sodaq.com/sodaq-one-eu-rn2483-v3.html) in the [atsamd-rs (⭐593)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐593)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/sodaq_one.svg)](https://crates.io/crates/sodaq_one)
+*   [`sodaq_one`](https://crates.io/crates/sodaq_one) - Board support for the [Sodaq one board](https://support.sodaq.com/Boards/One/) in the [atsamd-rs (⭐593)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐593)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/sodaq_one.svg)](https://crates.io/crates/sodaq_one)
 *   [`sodaq_sara_aff`](https://crates.io/crates/sodaq_sara_aff) - Board support for the [Sodaq sara aff board](https://shop.sodaq.com/sodaq-sara-sff-r410m.html) in the [atsamd-rs (⭐593)](https://github.com/atsamd-rs/atsamd) repo. It is an [atsamd-rs tier 2 support (⭐593)](https://github.com/atsamd-rs/atsamd#how-to-use-a-bsp-ie-getting-started-writing-your-own-code) board. [![crates.io](https://img.shields.io/crates/v/sodaq_sara_aff.svg)](https://crates.io/crates/sodaq_sara_aff)
 
 ### Board support crates / Other
@@ -859,11 +869,6 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
 
-### Peripheral Access Crates / MSP430
-
-*   [`msp430g2553`](https://github.com/japaric/msp430g2553) Peripheral access API for MSP430G2553 microcontrollers (generated using svd2rust)
-    *   [msp430 quickstart (⭐39)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
-
 ### no-std crates / WIP
 
 *   [adskalman](https://crates.io/crates/adskalman): Kalman filter and Rauch-Tung-Striebel smoothing implementation. [![crates.io](https://img.shields.io/crates/v/adskalman.svg)](https://crates.io/crates/adskalman)
@@ -902,8 +907,8 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### Driver crates / Other
 
-*   [DRV8825](https://crates.io/crates/drv8825) - DRV8825 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/drv8825.svg)](https://crates.io/crates/drv8825)
-*   [STSPIN220](https://crates.io/crates/stspin220) - STSPIN220 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/stspin220.svg)](https://crates.io/crates/stspin220)
+*   [DRV8825](https://crates.io/crates/drv8825) - DRV8825 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](http://web.archive.org/web/20210129151911/https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/drv8825.svg)](https://crates.io/crates/drv8825)
+*   [STSPIN220](https://crates.io/crates/stspin220) - STSPIN220 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](http://web.archive.org/web/20210129151911/https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/stspin220.svg)](https://crates.io/crates/stspin220)
 
 ### no-std crates / WIP
 
@@ -1306,7 +1311,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [adafruit-alphanum4](https://crates.io/crates/adafruit-alphanum4) - I2C - Driver for [Adafruit 14-segment LED Alphanumeric Backpack](https://learn.adafruit.com/adafruit-led-backpack/0-54-alphanumeric) based on the ht16k33 chip - [![crates.io](https://img.shields.io/crates/v/adafruit-alphanum4.svg)](https://crates.io/crates/adafruit-alphanum4)
 *   [ADS1x1x](https://crates.io/crates/ads1x1x) - I2C - 12/16-bit ADCs like ADS1013, ADS1015, ADS1115, etc. - [Intro blog post](https://blog.eldruin.com/ads1x1x-analog-to-digital-converter-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/ads1x1x.svg)](https://crates.io/crates/ads1x1x)
 *   [ADXL343](https://crates.io/crates/adxl343) - I2C - 3-axis accelerometer - [![crates.io](https://img.shields.io/crates/v/adxl343.svg)](https://crates.io/crates/adxl343)
-*   [AT86RF212](https://crates.io/crates/radio-at86rf212) - SPI - Low power IEEE 802.15.4-2011 ISM RF Transceiver - [Intro blog post](https://ryan.kurte.nz/notes/2020-01-05-rust-radio) - [![crates.io](https://img.shields.io/crates/v/radio-at86rf212.svg)](https://crates.io/crates/radio-at86rf212)
+*   [AT86RF212](https://crates.io/crates/radio-at86rf212) - SPI - Low power IEEE 802.15.4-2011 ISM RF Transceiver - [Intro blog post](http://web.archive.org/web/20230328083333/https://ryan.kurte.nz/notes/2020-01-05-rust-radio) - [![crates.io](https://img.shields.io/crates/v/radio-at86rf212.svg)](https://crates.io/crates/radio-at86rf212)
 *   [BlueNRG](https://crates.io/crates/bluenrg) - SPI - driver for BlueNRG-MS Bluetooth module - [Intro post](https://www.219design.com/bluetooth-low-energy-with-rust/) [![crates.io](https://img.shields.io/crates/v/bluenrg.svg)](https://crates.io/crates/bluenrg)
 *   [BNO055](https://crates.io/crates/bno055) - I2C - Bosch Sensortec BNO055 9-axis IMU driver - [Intro post](https://www.reddit.com/r/rust/comments/ao4sqq/embeddedhal_bno055_9axis_imu_driver/) [![crates.io](https://img.shields.io/crates/v/bno055.svg)](https://crates.io/crates/bno055)
 *   [DS1307](https://crates.io/crates/ds1307) - I2C - Real-time clock driver - [Intro blog post](https://blog.eldruin.com/ds1307-real-time-clock-rtc-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/ds1307.svg)](https://crates.io/crates/ds1307)
@@ -1330,8 +1335,8 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 *   [shift-register-driver](https://crates.io/crates/shift-register-driver) - GPIO - Shift register - [Intro blog post](https://www.joshmcguigan.com/blog/shift-register-driver/) - [![crates.io](https://img.shields.io/crates/v/shift-register-driver.svg)](https://crates.io/crates/shift-register-driver)
 *   [Si4703](https://crates.io/crates/si4703) - I2C - FM radio turner (receiver) driver  - [Intro blog post](https://blog.eldruin.com/si4703-fm-radio-receiver-driver-in-rust/) - [![crates.io](https://img.shields.io/crates/v/si4703.svg)](https://crates.io/crates/si4703)
 *   [SSD1306](https://crates.io/crates/ssd1306) - I2C/SPI - OLED display controller - [Intro blog post](https://wapl.es/electronics/rust/2018/04/30/ssd1306-driver.html) - [![crates.io](https://img.shields.io/crates/v/ssd1306.svg)](https://crates.io/crates/ssd1306)
-*   [Sx127x](https://crates.io/crates/radio-sx127x) - SPI - Long Range Low Power Sub GHz (Gfsk, LoRa) RF Transceiver - [Intro blog post](https://ryan.kurte.nz/notes/2020-01-05-rust-radio) - [![crates.io](https://img.shields.io/crates/v/radio-sx127x.svg)](https://crates.io/crates/radio-sx127x)
-*   [Sx128x](https://crates.io/crates/radio-sx128x) - SPI - Long range, low power 2.4 GHz (Gfsk, Flrc, LoRa) RF Transceiver - [Intro blog post](https://ryan.kurte.nz/notes/2020-01-05-rust-radio) - [![crates.io](https://img.shields.io/crates/v/radio-sx128x.svg)](https://crates.io/crates/radio-sx128x)
+*   [Sx127x](https://crates.io/crates/radio-sx127x) - SPI - Long Range Low Power Sub GHz (Gfsk, LoRa) RF Transceiver - [Intro blog post](http://web.archive.org/web/20230328083333/https://ryan.kurte.nz/notes/2020-01-05-rust-radio) - [![crates.io](https://img.shields.io/crates/v/radio-sx127x.svg)](https://crates.io/crates/radio-sx127x)
+*   [Sx128x](https://crates.io/crates/radio-sx128x) - SPI - Long range, low power 2.4 GHz (Gfsk, Flrc, LoRa) RF Transceiver - [Intro blog post](http://web.archive.org/web/20230328083333/https://ryan.kurte.nz/notes/2020-01-05-rust-radio) - [![crates.io](https://img.shields.io/crates/v/radio-sx128x.svg)](https://crates.io/crates/radio-sx128x)
 *   [TMP006](https://crates.io/crates/tmp006) - I2C - Contact-less infrared (IR) thermopile temperature sensor driver - [Intro post](https://blog.eldruin.com/tmp006-contact-less-infrared-ir-thermopile-driver-in-rust/) [![crates.io](https://img.shields.io/crates/v/tmp006.svg)](https://crates.io/crates/tmp006)
 *   [TMP1x2](https://crates.io/crates/tmp1x2) - I2C - TMP102 and TMP112x temperature sensor driver - [Intro blog post](https://blog.eldruin.com/tmp1x2-temperature-sensor-driver-in-rust/) [![crates.io](https://img.shields.io/crates/v/tmp1x2.svg)](https://crates.io/crates/tmp1x2)
 *   [TSL256X](https://crates.io/crates/tsl256x) - I2C - Light Intensity Sensor - [Intro blog post](https://www.joshmcguigan.com/blog/tsl256x-light-intensity-sensor-driver/) - [![crates.io](https://img.shields.io/crates/v/tsl256x.svg)](https://crates.io/crates/tsl256x)
@@ -1666,9 +1671,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### HAL implementation crates / STMicroelectronics
 
 *   [`stm32f1xx-hal`](https://github.com/stm32-rs/stm32f1xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f1xx-hal.svg)](https://crates.io/crates/stm32f1xx-hal)
-    *   Can be run on boards like the \[Blue pill], \[Nucleo-F103RB], and similar boards
-        \[Blue pill]: <https://stm32duinoforum.com/forum/wiki_subdomain/index_title_Blue_Pill.html>
-        \[Nucleo-F103RB]: <http://www.st.com/en/evaluation-tools/nucleo-f103rb.html>
+    *   Can be run on boards like the [Blue-pill](http://web.archive.org/web/20230317010201/https://stm32duinoforum.com/forum/wiki_subdomain/index_title_Blue_Pill.html), [Nucleo-F103RB](http://www.st.com/en/evaluation-tools/nucleo-f103rb.html), and similar boards
 
 ## [Jan 28 - Feb 03, 2019](/content/2019/4/README.md)
 
@@ -1815,10 +1818,9 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 ### HAL implementation crates / STMicroelectronics
 
 *   [`stm32f0xx-hal`](https://crates.io/crates/stm32f0xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f0xx-hal.svg)](https://crates.io/crates/stm32f0xx-hal)
-    *   Has examples that can run on boards like the \[Nucleo-F042K6] and similar boards
-        \[Nucleo-F042K6]: <http://www.st.com/en/evaluation-tools/nucleo-f042k6.html>
+    *   Has examples that can run on boards like the [Nucleo-F042K6](http://www.st.com/en/evaluation-tools/nucleo-f042k6.html) and similar boards
 
 ### Board support crates / STMicroelectronics
 
-*   [`nucleo-f042k6`](https://github.com/therealprof/nucleo-f042k6.git) - \[Nucleo-F042K6]
-*   [`nucleo-f103rb`](https://github.com/therealprof/nucleo-f103rb.git) - \[Nucleo-F103RB]
+*   [`nucleo-f042k6`](https://github.com/therealprof/nucleo-f042k6.git) - [Nucleo-F042K6](http://www.st.com/en/evaluation-tools/nucleo-f042k6.html)
+*   [`nucleo-f103rb`](https://github.com/therealprof/nucleo-f103rb.git) - [Nucleo-F103RB](http://www.st.com/en/evaluation-tools/nucleo-f103rb.html)

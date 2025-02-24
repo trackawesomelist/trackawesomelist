@@ -354,7 +354,7 @@ The [`stm32-rs`](https://github.com/stm32-rs/stm32-rs) project has peripheral ac
 
 ### MSP430
 
-*   [`msp430g2553`](https://github.com/japaric/msp430g2553) Peripheral access API for MSP430G2553 microcontrollers (generated using svd2rust)
+*   [`msp430g2553`](https://github.com/pftbest/msp430g2553) Peripheral access API for MSP430G2553 microcontrollers (generated using svd2rust)
     *   [msp430 quickstart (⭐39)](https://github.com/rust-embedded/msp430-quickstart) some examples for msp430
 *   [`msp430fr2355`](https://crates.io/crates/msp430fr2355) Peripheral access API for MSP430FR2355 microcontrollers (generated using svd2rust)
 *   [`msp430fr6972`](https://crates.io/crates/msp430fr6972) - [![crates.io](https://img.shields.io/crates/v/msp430fr6972)](https://crates.io/crates/msp430fr6972)
@@ -368,7 +368,7 @@ The [`stm32-rs`](https://github.com/stm32-rs/stm32-rs) project has peripheral ac
 *   [`esp32h2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32h2) - [![crates.io](https://img.shields.io/crates/v/esp32h2.svg)](https://crates.io/crates/esp32h2)
 *   [`esp32s2`](https://github.com/esp-rs/esp-pacs/tree/main/esp32s2) - [![crates.io](https://img.shields.io/crates/v/esp32s2.svg)](https://crates.io/crates/esp32s2)
 *   [`esp32s3`](https://github.com/esp-rs/esp-pacs/tree/main/esp32s3) - [![crates.io](https://img.shields.io/crates/v/esp32s3.svg)](https://crates.io/crates/esp32s3)
-*   [`esp8266`](https://github.com/esp-rs/esp-pacs/tree/main/esp8266) - [![crates.io](https://img.shields.io/crates/v/esp8266.svg)](https://crates.io/crates/esp8266)
+*   [`esp8266`](https://github.com/esp-rs/esp8266) - [![crates.io](https://img.shields.io/crates/v/esp8266.svg)](https://crates.io/crates/esp8266) *note: esp8266 is archived, no further development planned*
 
 ### Ambiq Micro
 
@@ -498,12 +498,9 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 [stm-bsc]: #stmicroelectronics-2
 
 *   [`stm32f0xx-hal`](https://crates.io/crates/stm32f0xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f0xx-hal.svg)](https://crates.io/crates/stm32f0xx-hal)
-    *   Has examples that can run on boards like the \[Nucleo-F042K6] and similar boards
-        \[Nucleo-F042K6]: <http://www.st.com/en/evaluation-tools/nucleo-f042k6.html>
+    *   Has examples that can run on boards like the [Nucleo-F042K6] and similar boards
 *   [`stm32f1xx-hal`](https://github.com/stm32-rs/stm32f1xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f1xx-hal.svg)](https://crates.io/crates/stm32f1xx-hal)
-    *   Can be run on boards like the \[Blue pill], \[Nucleo-F103RB], and similar boards
-        \[Blue pill]: <https://stm32duinoforum.com/forum/wiki_subdomain/index_title_Blue_Pill.html>
-        \[Nucleo-F103RB]: <http://www.st.com/en/evaluation-tools/nucleo-f103rb.html>
+    *   Can be run on boards like the [Blue-pill], [Nucleo-F103RB], and similar boards
 *   [`stm32f3xx-hal`](https://crates.io/crates/stm32f3xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f3xx-hal.svg)](https://crates.io/crates/stm32f3xx-hal)
 *   [`stm32f4xx-hal`](https://crates.io/crates/stm32f4xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f4xx-hal.svg)](https://crates.io/crates/stm32f4xx-hal)
     *   Generic HAL implementation for all MCUs of the stm32f4 series
@@ -524,6 +521,12 @@ Also check the list of [STMicroelectronics board support crates][stm-bsc]!
 [Nucleo-L432KC]: https://www.st.com/content/st_com/en/products/evaluation-tools/product-evaluation-tools/mcu-eval-tools/stm32-mcu-eval-tools/stm32-mcu-nucleo/nucleo-l432kc.html
 
 [Solo]: https://solokeys.com/
+
+[Blue-pill]: http://web.archive.org/web/20230317010201/https://stm32duinoforum.com/forum/wiki_subdomain/index_title_Blue_Pill.html
+
+[Nucleo-F103RB]: http://www.st.com/en/evaluation-tools/nucleo-f103rb.html
+
+[Nucleo-F042K6]: http://www.st.com/en/evaluation-tools/nucleo-f042k6.html
 
 ### Texas Instruments
 
@@ -767,8 +770,8 @@ The same repository includes support for numerous other development boards which
 ### STMicroelectronics
 
 *   [`f3`](https://crates.io/crates/f3) Board Support Crate for the [STM32F3DISCOVERY] - [![crates.io](https://img.shields.io/crates/v/f3.svg)](https://crates.io/crates/f3)
-*   [`nucleo-f042k6`](https://github.com/therealprof/nucleo-f042k6.git) - \[Nucleo-F042K6]
-*   [`nucleo-f103rb`](https://github.com/therealprof/nucleo-f103rb.git) - \[Nucleo-F103RB]
+*   [`nucleo-f042k6`](https://github.com/therealprof/nucleo-f042k6.git) - [Nucleo-F042K6]
+*   [`nucleo-f103rb`](https://github.com/therealprof/nucleo-f103rb.git) - [Nucleo-F103RB]
 *   [`nucleo-f401re`](https://github.com/jkristell/nucleo-f401re.git) - [Nucleo-F401RE] [![crates.io](https://img.shields.io/crates/v/nucleo-f401re.svg)](https://crates.io/crates/nucleo-f401re)
 *   [`nucleo-h743zi`](https://github.com/astraw/nucleo-h743zi) Beginner-oriented support crate for the Nucleo H743ZI and Nucleo H743ZI2
 *   [`nucleo-h723zg`](https://github.com/jlogan03/nucleo-h723zg) Board support crate for the Nucleo H723ZG
@@ -800,7 +803,7 @@ The same repository includes support for numerous other development boards which
 
 ### Sodaq
 
-*   [`sodaq_one`](https://crates.io/crates/sodaq_one) - Board support for the [Sodaq one board](https://shop.sodaq.com/sodaq-one-eu-rn2483-v3.html) in the [atsamd-rs] repo. It is an [atsamd-rs tier 2 support] board. [![crates.io](https://img.shields.io/crates/v/sodaq_one.svg)](https://crates.io/crates/sodaq_one)
+*   [`sodaq_one`](https://crates.io/crates/sodaq_one) - Board support for the [Sodaq one board](https://support.sodaq.com/Boards/One/) in the [atsamd-rs] repo. It is an [atsamd-rs tier 2 support] board. [![crates.io](https://img.shields.io/crates/v/sodaq_one.svg)](https://crates.io/crates/sodaq_one)
 *   [`sodaq_sara_aff`](https://crates.io/crates/sodaq_sara_aff) - Board support for the [Sodaq sara aff board](https://shop.sodaq.com/sodaq-sara-sff-r410m.html) in the [atsamd-rs] repo. It is an [atsamd-rs tier 2 support] board. [![crates.io](https://img.shields.io/crates/v/sodaq_sara_aff.svg)](https://crates.io/crates/sodaq_sara_aff)
 
 ### Other
@@ -990,11 +993,11 @@ Otherwise, please add it to the [WIP section](#wip) below.
 
 [33]: https://blog.eldruin.com/veml6030-ambient-light-sensor-driver-in-rust/
 
-[34]: https://ryan.kurte.nz/notes/2020-01-05-rust-radio
+[34]: http://web.archive.org/web/20230328083333/https://ryan.kurte.nz/notes/2020-01-05-rust-radio
 
-[35]: https://ryan.kurte.nz/notes/2020-01-05-rust-radio
+[35]: http://web.archive.org/web/20230328083333/https://ryan.kurte.nz/notes/2020-01-05-rust-radio
 
-[36]: https://ryan.kurte.nz/notes/2020-01-05-rust-radio
+[36]: http://web.archive.org/web/20230328083333/https://ryan.kurte.nz/notes/2020-01-05-rust-radio
 
 [37]: https://github.com/mvirkkunen/usbd-serial
 
@@ -1026,7 +1029,7 @@ Otherwise, please add it to the [WIP section](#wip) below.
 
 [51]: https://blog.a1w.ca/p/rust-embedded-driver-microchip-23x-sram
 
-[52]: https://flott-motion.org/news/announcing-step-dir/
+[52]: http://web.archive.org/web/20210129151911/https://flott-motion.org/news/announcing-step-dir/
 
 [53]: https://github.com/barafael/hc12-at-rs
 
@@ -1640,7 +1643,7 @@ Work in progress drivers. Help the authors make these crates awesome!
 71. [usb-pd (⭐21)](https://github.com/fmckeogh/usb-pd-rs): USB-PD library, supports using the FUSB302B as a Sink driver, with Source functionality planned.
 72. [wyhash]: A fast, simple and portable hashing algorithm and random number generator. - [![crates.io](https://img.shields.io/crates/v/wyhash.svg)](https://crates.io/crates/wyhash)
 73. [adafruit-bluefruit-protocol]: A `no_std` parser for the [Adafruit Bluefruit LE Connect controller protocol]. - [![crates.io](https://img.shields.io/crates/v/adafruit-bluefruit-protocol)](https://crates.io/crates/adafruit-bluefruit-protocol)
-74. [wtx (⭐251)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
+74. [wtx (⭐252)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 
 [no-std-category]: https://crates.io/categories/no-std
 
