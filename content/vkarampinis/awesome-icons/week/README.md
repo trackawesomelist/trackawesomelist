@@ -2,15 +2,45 @@
 
 A curated list of awesome Web Font Icons
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vkarampinis/awesome-icons/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) · ⭐ 1.2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vkarampinis/awesome-icons/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) · ⭐ 1.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/vkarampinis/awesome-icons/README.md) / Weekly / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
 
-## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
+## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
+
+### Archive of Icons
+
+*   [iconmonstr](https://iconmonstr.com/) - Discover over 3000  free simple icons in varius collections.
 
 ### Generic
 
-*   [IconicFonts (⭐3)](https://github.com/iconicFonts/if) - Over **55,000** icons from **43** different sets, available as a single font or separate fonts per set.
+*   [Font Awesome](https://fontawesome.com/) - Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
+*   [Foundation Icon Fonts 2](https://zurb.com/playground/foundation-icons)
+*   [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3) - A custom collection of 283 icons.
+*   [Glyphicons](https://glyphicons.com/) - Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
+*   [Heroicons (⭐22k)](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+*   [Ionicons](https://ionic.io/ionicons) - The premium icon font for Ionic Framework.
+*   [uiw-icons](https://uiwjs.github.io/icons/) - The premium icon font for UIW Framework.
+*   [Eva Icons](https://akveo.github.io/eva-icons/) - Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
+
+### Map / Countries
+
+*   [flag-icon-css](https://flagicons.lipis.dev/) - A collection of all country flags in SVG — plus the CSS for easier integration.
+
+### Social
+
+*   [Social Share Kit](https://socialsharekit.com/) - Social network icons, share buttons, share count, floating/sticky button bar and popups.
+
+### Weather
+
+*   [Meteocons](https://demo.alessioatzeni.com/meteocons/) - 40+ icons available in PSD, CSH, EPS, SVG, Desktop font and Web font.
+*   [Weather 7 Icon Font Set](https://www.pixeden.com/icon-fonts/weather-7-icon-font-set) - A complete set of 60 weather icons inspired by iOS 7.
+
+### Tools
+
+*   [fontello](https://fontello.com/) - Icon fonts generator.
+*   [svg-icon](https://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
+*   [Orion icon library](https://www.orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
 
@@ -45,19 +75,19 @@ A curated list of awesome Web Font Icons
 
 ### Generic
 
-*   [Tabler Icons (⭐18k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [Tabler Icons (⭐19k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
 ### Generic
 
-*   [Akar Icons (⭐400)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
+*   [Akar Icons (⭐406)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
 ### Generic
 
-*   [Icons8 Line Awesome (⭐1.2k)](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
+*   [Icons8 Line Awesome (⭐1.3k)](https://github.com/icons8/line-awesome) - Swap Font Awesome for modern line icons in one line of code.
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
@@ -90,13 +120,13 @@ A curated list of awesome Web Font Icons
 
 ### Merchants
 
-*   [Bitcoin-Icons (⭐103)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+*   [Bitcoin-Icons (⭐109)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 
 ## [Oct 11 - Oct 17, 2021](/content/2021/41/README.md)
 
 ### Merchants
 
-*   [CMC Cryptocurrency Icons (⭐180)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
+*   [CMC Cryptocurrency Icons (⭐207)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 
@@ -121,7 +151,7 @@ A curated list of awesome Web Font Icons
 
 ### Generic
 
-*   [SuperTinyIcons (⭐14k)](https://github.com/edent/SuperTinyIcons) - Miniscule SVG versions of website and app logos, under 1KB each.
+*   [SuperTinyIcons (⭐15k)](https://github.com/edent/SuperTinyIcons) - Miniscule SVG versions of website and app logos, under 1KB each.
 *   [Pepicons](https://pepicons.com) - Pepicons is a completely original 80s themed set of hand-crafted icons, made in two retro variants: Pop! and Print ❏
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
@@ -129,7 +159,6 @@ A curated list of awesome Web Font Icons
 ### Generic
 
 *   [Boxicons](https://boxicons.com/) - Boxicons is a simple vector icons set carefully crafted for designers and developers to use in your next project.
-*   [Eva Icons](https://akveo.github.io/eva-icons) - Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
 *   [Jam Icons](https://jam-icons.com/) - Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in JavaScript, font & SVG versions.
 *   [Remix Icon](https://remixicon.com/) - Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 *   [Themify Icons](https://themify.me/themify-icons) - Themify Icons is a complete set of icons for use in web design and apps, consisting of 320+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
@@ -153,17 +182,6 @@ A curated list of awesome Web Font Icons
 
 *   [IconSweets2](https://www.designbombs.com/iconsweets2/) - Is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
 
-### Social
-
-*   [Social Media Icons Pack](https://www.fontfabric.com/fonts/social-media-icons-pack/) - Socialico is a package of 74 social media icons, combined within a single weight font.
-*   [Stackicons](http://stackicons.com/) - Over 60 icons for old social brands (last commit in [2014 (⭐963)](https://github.com/parkerbennett/stackicons), with multi-color option.
-
-## [Mar 02 - Mar 08, 2020](/content/2020/9/README.md)
-
-### Generic
-
-*   [Heroicons (⭐21k)](https://github.com/refactoringui/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
-
 ## [Jan 06 - Jan 12, 2020](/content/2020/1/README.md)
 
 ### Generic
@@ -176,19 +194,11 @@ A curated list of awesome Web Font Icons
 
 *   [Icofont](https://icofont.com/) - 2100+ free icons to spice up your creative designs.
 
-### Tools
-
-*   [Orion icon library](https://orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
-
 ## [Sep 23 - Sep 29, 2019](/content/2019/38/README.md)
 
-### Generic
-
-*   [uiw-icons](https://uiwjs.github.io/icons) - The premium icon font for UIW Framework.
-
 ### Tools
 
-*   [svgtofont (⭐514)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐631)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## [May 13 - May 19, 2019](/content/2019/19/README.md)
 
@@ -200,64 +210,36 @@ A curated list of awesome Web Font Icons
 
 ### Archive of Icons
 
-*   [iconmonstr](http://iconmonstr.com/) - Discover over 3000  free simple icons in varius collections.
 *   [TheNounProject](https://thenounproject.com/) - Search over 150,000 icons designed by creators from arround the world.
-*   [svg-icon (⭐1k)](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
+*   [svg-icon (⭐1.1k)](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
 *   [icons8](https://icons8.com/) - 63,900 Free Flat Icons.
 *   [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
 
 ### Generic
 
-*   [Font Awesome](http://fontawesome.io/) - Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
-*   [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - A custom collection of 283 icons.
-*   [Glyphicons](http://glyphicons.com/) - Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
 *   [Govicons](http://govicons.io/) - Gov Icons is a font and CSS toolkit with 115 government themed icons.
 *   [icoMoon](https://icomoon.io) - 490+ free Icons.
-*   [Iconic](https://useiconic.com/open/) - An open source icon set with 223 marks in SVG, webfont and raster formats.
-*   [Ionicons](http://ionicons.com/) - The premium icon font for Ionic Framework.
-*   [Marka](http://fian.my.id/marka/) - 36 Beautiful transformable icons.
 *   [Octicons](https://octicons.github.com/) - All GitHub's icons.
 *   [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) - A fantasy themed font and CSS toolkit.
-*   [pictonic](https://pictonic.co) - Over 260+ free icons.
 *   [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
 
 ### Map / Countries
 
 *   [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
-*   [flag-icon-css](http://lipis.github.io/flag-icon-css/) - A collection of all country flags in SVG — plus the CSS for easier integration.
 
 ### Social
 
-*   [Social Share Kit](http://socialsharekit.com/) - Social network icons, share buttons, share count, floating/sticky button bar and popups.
-*   [Zocial (⭐189)](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
+*   [Zocial (⭐188)](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
 
 ### Weather
 
-*   [Meteocons](http://www.alessioatzeni.com/meteocons/) - 40+ icons available in PSD, CSH, EPS, SVG, Desktop font and Web font.
-*   [Weather 7 Icon Font Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set) - A complete set of 60 weather icons inspired by iOS 7.
 *   [Weather Icons](https://erikflowers.github.io/weather-icons/) - 222 Weather Themed Icons and CSS.
 
 ### Merchants
 
-*   [Payment Webfont](http://www.orlandotm.com/payment-webfont/) - An SVG webfont full of icons of main payment systems.
 *   [PaymentFont](http://paymentfont.io/) - A sleek webfont containing 95 icons of all main payment operators and methods.
 
-### Tools
-
-*   [fontello](http://fontello.com/) - Icon fonts generator.
-*   [svg-icon](http://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
-
-## [Oct 30 - Nov 05, 2017](/content/2017/44/README.md)
-
-### Generic
-
-*   [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons)
-
 ## [Jan 25 - Jan 31, 2016](/content/2016/4/README.md)
-
-### Generic
-
-*   [Raphaël](http://icons.marekventur.com/)
 
 ### Social
 

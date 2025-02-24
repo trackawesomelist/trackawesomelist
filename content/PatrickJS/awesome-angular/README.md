@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Feb 24, 2025](/content/2025/02/24/README.md)
+
+### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [iconic (⭐6)](https://github.com/nginf/iconic) - Angular library to provide components of open-source icon libraries.
+
 ## [Feb 23, 2025](/content/2025/02/23/README.md)
 
 ### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -235,7 +241,7 @@
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-compile (⭐91)](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
+*   [angular-compile (⭐90)](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
 
 ## [Feb 07, 2025](/content/2025/02/07/README.md)
 
@@ -2268,7 +2274,7 @@
 
 ### Certification / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Certificates.dev](https://certificates.dev/angular) - **[UNLIMITED ACCESS TO ANGULAR MID-LEVEL CERTIFICATION TRAINING NOW LIVE](https://certificates.dev/angular/free-weekend)** Includes all theory, coding challenges, quizzes, and even a mock exam!
+*   [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer.
 *   [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
 *   [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
 *   [Edureka](https://www.edureka.co/angular-training) - Angular Certification Course Online.

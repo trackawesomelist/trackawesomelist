@@ -2,9 +2,15 @@
 
 🔍 A helpful checklist/collection of Search Engine Optimization (SEO) tips and techniques.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marcobiedermann/search-engine-optimization/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) · ⭐ 2.3K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marcobiedermann/search-engine-optimization/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marcobiedermann/search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization) · ⭐ 2.5K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/marcobiedermann/search-engine-optimization/week/README.md) / [Overview](/content/marcobiedermann/search-engine-optimization/readme/README.md) ]
+
+## [Feb 24, 2025](/content/2025/02/24/README.md)
+
+### Tools & Services / Optimization
+
+*   [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration.
 
 ## [Apr 19, 2024](/content/2024/04/19/README.md)
 
@@ -168,7 +174,7 @@
 *   [OpenLinkProfiler](http://www.openlinkprofiler.org/) - Get an in-depth analysis of the freshest live backlinks.
 *   [Search Engine Spider Simulator](http://tools.seochat.com/tools/search-spider-simulator) - This tool simulates a search engine by displaying the contents of a web page in exactly the way the search engine bot would see it when it crawls the page: See most prominent or inaccessible page elements.
 *   [Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/) - The Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites links, images, CSS, script and apps from an SEO perspective.
-*   [Linkbuilding Spider (⭐7)](https://github.com/fulldecent/linkbuilding-spider) - A PHP project to check if websites are linking to your website.
+*   [Linkbuilding Spider (⭐8)](https://github.com/fulldecent/linkbuilding-spider) - A PHP project to check if websites are linking to your website.
 
 ### Tools & Services / Structured Data
 
@@ -179,7 +185,7 @@
 
 ### Tools & Services / Bookmarklets
 
-*   [OuiSEO (⭐49)](https://github.com/carlsednaoui/seo-bookmarklet) - An open-source bookmarklet that shows you on-page SEO and social meta data information.
+*   [OuiSEO (⭐51)](https://github.com/carlsednaoui/seo-bookmarklet) - An open-source bookmarklet that shows you on-page SEO and social meta data information.
 *   [SEO Bookmarklet](https://twkm.ca/projects/seo-bookmarklet) - A One-Stop SEO Bookmarklet to Quickly Review On-Site SEO.
 
 ### Tools & Services / Browser Extensions
@@ -188,7 +194,7 @@
 
 ### Tools & Services / Jekyll Plugins
 
-*   [Jekyll SEO Tag (⭐1.6k)](https://github.com/jekyll/jekyll-seo-tag) - A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
+*   [Jekyll SEO Tag (⭐1.7k)](https://github.com/jekyll/jekyll-seo-tag) - A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
 
 ### Tools & Services / TYPO3 Extensions
 

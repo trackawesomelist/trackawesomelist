@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 24, 2025](/content/2025/02/24/README.md)
+
+### Marks / Diagnostics
+
+*   [francescarpi/buffon.nvim (⭐4)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
+
 ## [Feb 23, 2025](/content/2025/02/23/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics

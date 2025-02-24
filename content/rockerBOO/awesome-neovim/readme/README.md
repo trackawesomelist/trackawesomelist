@@ -430,6 +430,7 @@ Collections of awesome neovim plugins.
 *   [2KAbhishek/markit.nvim (⭐24)](https://github.com/2KAbhishek/markit.nvim) - Improved global marks and project wide bookmarks, to quickly navigate files.
 *   [you-n-g/navigate-note.nvim (⭐21)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
 *   [zongben/navimark.nvim (⭐14)](https://github.com/zongben/navimark.nvim) - An easy and powerful bookmark manager with telescope.
+*   [francescarpi/buffon.nvim (⭐4)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
 
 <!--lint disable double-link -->
 
