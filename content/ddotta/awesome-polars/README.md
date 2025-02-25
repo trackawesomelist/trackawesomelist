@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Feb 25, 2025](/content/2025/02/25/README.md)
+
+### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars-talib (⭐137)](https://github.com/Yvictor/polars_ta_extension) - Polars extension for Ta-Lib - support Ta-Lib functions in Polars expressions by [@Yvictor](https://github.com/Yvictor).
+
 ## [Feb 18, 2025](/content/2025/02/18/README.md)
 
 ### Official news

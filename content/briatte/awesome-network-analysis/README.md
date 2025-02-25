@@ -6,6 +6,12 @@ A curated list of awesome network analysis resources.
 
 [ Daily / [Weekly](/content/briatte/awesome-network-analysis/week/README.md) / [Overview](/content/briatte/awesome-network-analysis/readme/README.md) ]
 
+## [Feb 25, 2025](/content/2025/02/25/README.md)
+
+### Software / Social, Economic and Political Networks
+
+*   [Scikit-network (⭐616)](https://github.com/sknetwork-team/scikit-network) - Open-source library for machine learning on graphs.
+
 ## [Feb 11, 2025](/content/2025/02/11/README.md)
 
 ### Software / Python

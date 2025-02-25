@@ -10,9 +10,9 @@ A curated list of awesome network analysis resources.
 
 # Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7869481.svg)](https://doi.org/10.5281/zenodo.7869481)
 
-An [awesome list (⭐345k)](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
+An [awesome list (⭐347k)](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
 
-Inspired by [Awesome Deep Learning (⭐25k)](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math (⭐9.3k)](https://github.com/rossant/awesome-math) and others. Started in 2016, and irregularly updated since then.
+Inspired by [Awesome Deep Learning (⭐25k)](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math (⭐9.4k)](https://github.com/rossant/awesome-math) and others. Started in 2016, and irregularly updated since then.
 
 [![Adamic and Glance’s network of political blogs, 2004.](https://raw.githubusercontent.com/briatte/awesome-network-analysis/master/illustration.png)](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)
 
@@ -539,6 +539,7 @@ Inspired by [Awesome Deep Learning (⭐25k)](https://github.com/ChristosChristof
 *   [qgis-edge-bundling (⭐64)](https://github.com/ait-energy/qgis-edge-bundling) - Implementation of force-directed edge bundling for the QGIS Processing toolbox.
 *   [Radatools](https://deim.urv.cat/~sergio.gomez/radatools.php) - Set of tools intended for the analysis of complex networks, built on top of [Radalib](http://deim.urv.cat/~sergio.gomez/radalib.php), a library written in Ada.
 *   [Retina](https://ouestware.gitlab.io/retina) - Web application to share GEXF and GraphML network visualizations.
+*   [Scikit-network (⭐616)](https://github.com/sknetwork-team/scikit-network) - Open-source library for machine learning on graphs.
 *   [SageMath](https://www.sagemath.org/) - Free open-source mathematics software with extensive [graph capabilities](http://doc.sagemath.org/html/en/reference/graphs/index.html).
 *   [Segrada](https://www.segrada.org/) - Cross-platform tool to build and visualize semantic graph databases.
 *   [Siena](https://www.stats.ox.ac.uk/~snijders/siena/) - Simulation Investigation for Empirical Network Analysis. Formerly a Windows program, now developed as the RSiena R package.
@@ -658,7 +659,7 @@ Inspired by [Awesome Deep Learning (⭐25k)](https://github.com/ChristosChristof
 
 > Many items below are from [a Google spreadsheet](https://docs.google.com/spreadsheets/d/1vJILk2EW1JnR3YAwTSSqAV5mPkeXaezy45wOoafBpfU/edit#gid=0) by Michał Bojanowski and others.\
 > See also [Social Network Analysis with Python](https://www.youtube.com/watch?v=qgGqaBAEy3Q), a 3-hour tutorial by Maksim Tsvetovat and Alex Kouznetsov given at PyCon US 2012 ([code (⭐46)](https://github.com/maksim2042/PyCon2012)).\
-> For more awesome Python packages, see the [Awesome Python (⭐232k)](https://github.com/vinta/awesome-python) and [Awesome Python Books (⭐4k)](https://github.com/Junnplus/awesome-python-books) lists.
+> For more awesome Python packages, see the [Awesome Python (⭐234k)](https://github.com/vinta/awesome-python) and [Awesome Python Books (⭐4k)](https://github.com/Junnplus/awesome-python-books) lists.
 
 *   [bokeh](https://bokeh.org/) - Python library for interactive data visualization in the browser, with support for networks.
 *   [cdlib (⭐383)](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
@@ -697,7 +698,7 @@ Inspired by [Awesome Deep Learning (⭐25k)](https://github.com/ChristosChristof
 
 ### R
 
-> For more awesome R resources, see the [Awesome R (⭐6.1k)](https://github.com/qinwf/awesome-R) and [Awesome R Books (⭐245)](https://github.com/RomanTsegelskyi/rbooks) lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.\
+> For more awesome R resources, see the [Awesome R (⭐6.1k)](https://github.com/qinwf/awesome-R) and [Awesome R Books (⭐247)](https://github.com/RomanTsegelskyi/rbooks) lists. See also [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1CoFGtrW85D9FsVcAE5-bcXVl6QOTncwXjFBYp4u2WgE/edit?usp=sharing) by Ian McCulloh and others.\
 > To convert many different network model results into tidy data frames, see the [broom](https://CRAN.R-project.org/package=broom) package. To convert many different network model results into LaTeX or HTML tables, see the [texreg](https://CRAN.R-project.org/package=texreg) package.
 
 *   [amen](https://CRAN.R-project.org/package=amen) - Additive and multiplicative effects models for relational data.
@@ -1043,8 +1044,9 @@ Alden S. Klovdahl,
 [Eran Rivlis](https://github.com/erivlis),
 [Rohan Dandage](https://github.com/rraadd88),
 [Benjamin Smith](https://github.com/benyamindsmith),
-[Beth Duckles](https://github.com/bduckles) and
-[Lei Cao](https://github.com/cllei12) -
+[Beth Duckles](https://github.com/bduckles),
+[Lei Cao](https://github.com/cllei12) and
+[Simon Delarue](https://www.simondelarue.com/) -
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland),
