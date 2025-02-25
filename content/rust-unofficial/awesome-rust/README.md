@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Feb 25, 2025](/content/2025/02/25/README.md)
+
+### Libraries / Audio and Music
+
+*   [aschey/stream-download-rs (⭐50)](https://github.com/aschey/stream-download-rs) \[[stream-download](https://crates.io/crates/stream-download)] - A library for streaming audio, video, and other media content [![build badge](https://github.com/aschey/stream-download-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aschey/stream-download-rs/actions)
+
 ## [Feb 24, 2025](/content/2025/02/24/README.md)
 
 ### Libraries / Reverse engineering

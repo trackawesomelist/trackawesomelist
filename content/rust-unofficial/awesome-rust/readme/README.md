@@ -1013,6 +1013,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 \[[audio](https://crates.io/keywords/audio)]
 
+*   [aschey/stream-download-rs (⭐50)](https://github.com/aschey/stream-download-rs) \[[stream-download](https://crates.io/crates/stream-download)] - A library for streaming audio, video, and other media content [![build badge](https://github.com/aschey/stream-download-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aschey/stream-download-rs/actions)
 *   [hound](https://crates.io/crates/hound) - A WAV encoding and decoding library
 *   [insomnimus/nodi (⭐27)](https://github.com/insomnimus/nodi) \[[nodi](https://crates.io/crates/nodi)] - A library for playback and abstraction of MIDI files. [![build badge](https://github.com/insomnimus/nodi/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/insomnimus/nodi/actions)
 *   [jhasse/ears (⭐91)](https://github.com/jhasse/ears) - A simple library to play Sounds and Musics, on top of OpenAL and libsndfile

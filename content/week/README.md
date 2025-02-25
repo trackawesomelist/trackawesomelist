@@ -29,13 +29,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [pbsegments (⭐0)](https://github.com/pbarovsky/pbsegments) -A  minimal and visually appealing custom theme for [oh-my-zsh (⭐176k)](https://github.com/ohmyzsh/ohmyzsh). It features a clean, segment-based prompt, optimized for readability and usability. Includes decorators for `git` status, current directory and username.
 
-#### [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Libraries / Reverse engineering
-
-*   [objdiff (⭐150)](https://github.com/encounter/objdiff) - A local diffing tool for decompilation projects
-
-#### [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Peripheral Access Crates / MSP430
 
@@ -46,19 +40,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [`esp8266`](https://github.com/esp-rs/esp8266) - [![crates.io](https://img.shields.io/crates/v/esp8266.svg)](https://crates.io/crates/esp8266) *note: esp8266 is archived, no further development planned*
 
-#### [4. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
-
-##### File Management
-
-*   [TeraCopy](https://www.codesector.com/teracopy) - Faster than windows file transfers.
-
-#### [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Marks / Diagnostics
 
 *   [francescarpi/buffon.nvim (⭐4)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
 
-#### [6. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+#### [4. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ##### AI
 
@@ -72,7 +60,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [LÖVE Game Development & Automated Build System (⭐18)](https://github.com/Oval-Tutu/bootstrap-love2d-project) - Preconfigured VSCode/Codium. Build for Android, iOS, HTML5, Linux, macOS and Windows and automatically publish to Itch.io.
 
-#### [7. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+#### [5. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
 ##### Archive of Icons
 
@@ -108,13 +96,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [svg-icon](https://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
 *   [Orion icon library](https://www.orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 
-#### [8. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/README.md)
+#### [6. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/README.md)
 
 ##### Tools & Services / Optimization
 
 *   [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration.
 
-#### [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -125,41 +113,82 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [yoozsoft](https://www.yoozsoft.com/ys-ng/home) - Widgets built using Bootstrap 5, CSS, and NG Bootstrap 17 with APIs designed for the Angular ecosystem.
 
-#### [10. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
+#### [8. Game Datasets](/content/leomaurodesenv/game-datasets/README.md)
 
 ##### Miscellaneous / Related
 
 *   [Awesome Esports (⭐73)](https://github.com/strift/awesome-esports) - Competitiosn using video games.
 
-#### [11. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
-
-##### Tools
-
-*   [QSV (⭐2.6k)](https://github.com/dathere/qsv) - A fast CSV command-line toolkit written in Rust, (an update to xsv).
-
-#### [12. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+#### [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ##### Software / Social, Economic and Political Networks
 
 *   [Scikit-network (⭐616)](https://github.com/sknetwork-team/scikit-network) - Open-source library for machine learning on graphs.
 
-#### [13. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+#### [10. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ##### Tutorials / IRC
 
 *   [Creating and Using Composer Packages](https://www.packtpub.com/en-us/learning/how-to-tutorials/creating-and-using-composer-packages/)
 
-#### [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Domain Specific Language / Design Practises
 
 *   [Abstract Hardware Grounding Towards the Automated Design of Automation Systems](https://link.springer.com/chapter/10.1007/978-981-96-0780-8_9) - ***ICIRA'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=3331524500088540378)]. Crafting automation systems tailored for specific domains requires aligning the space of human experts’ semantics with the space of robot executable actions, and scheduling the required resources and system layout accordingly. Regrettably, there are three major gaps, fine-grained domain-specific knowledge injection, heterogeneity between human knowledge and robot instructions, and diversity of users’ preferences, resulting automation system design a case-by-case and labour-intensive effort, thus hindering the democratization of automation. This work refers to this challenging alignment as the abstract hardware grounding problem, where the authors firstly regard the procedural operations in humans’ semantics space as the abstraction of hardware requirements, then the authors ground such abstractions to instantiated hardware devices, subject to constraints and preferences in the real world—optimizing this problem is essentially standardizing and automating the design of automation systems. On this basis, this work develops an automated design framework in a hybrid data-driven and principle-derived fashion. Results on designing self-driving laboratories for enhancing experiment-driven scientific discovery suggest the proposed framework’s potential to produce compact systems that fully satisfy domain-specific and user-customized requirements with no redundancy.
 
-#### [15. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [12. AwesomeCSV](/content/secretGeek/AwesomeCSV/README.md)
+
+##### Tools
+
+*   [QSV (⭐2.6k)](https://github.com/dathere/qsv) - A fast CSV command-line toolkit written in Rust, (an update to xsv).
+*   [Data Wrangler (⭐476)](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
+
+##### Generate Data / CSV <-> JSON
+
+*   [Mockium](https://softwium.com/mockium/) - Test data generator for CSV / JSON / SQL / XML.
+
+##### Standards / CSV <-> JSON
+
+*   [CSVY (⭐62)](https://github.com/csvy/csvy.github.io/blob/master/index.md) - A standard for adding a YAML header to CSV files to describe their format
+
+#### [13. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Libraries / Audio and Music
+
+*   [aschey/stream-download-rs (⭐50)](https://github.com/aschey/stream-download-rs) \[[stream-download](https://crates.io/crates/stream-download)] - A library for streaming audio, video, and other media content [![build badge](https://github.com/aschey/stream-download-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aschey/stream-download-rs/actions)
+
+##### Libraries / Reverse engineering
+
+*   [objdiff (⭐150)](https://github.com/encounter/objdiff) - A local diffing tool for decompilation projects
+
+#### [14. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars-talib (⭐137)](https://github.com/Yvictor/polars_ta_extension) - Polars extension for Ta-Lib - support Ta-Lib functions in Polars expressions by [@Yvictor](https://github.com/Yvictor).
+
+#### [15. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+##### File Management
+
+*   [TeraCopy](https://www.codesector.com/teracopy) - Faster than windows file transfers.
+
+##### Game Stores
+
+*   [Playnite](https://playnite.link/) - Playnite is an open-source video game library manager that unifies game collections from various platforms. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/JosefNemec/Playnite/)
+
+##### Productivity
+
+*   [Joplin](https://joplinapp.org/) - Joplin is an open-source note-taking and task management application that allows users to organize their notes, to-do lists, and even sync them across devices. Key Features of Joplin Markdown Support – Allows notes to be formatted using Markdown, making them highly customizable and easy to organize. Cross-Device Syncing – Syncs notes across multiple devices, including desktop, mobile, and cloud storage services. End-to-End Encryption – Ensures your notes are securely encrypted, protecting sensitive information from unauthorized access.
+
+##### Screenshot
+
+*   [Greenshot](https://getgreenshot.org/) - Greenshot is a light-weight screenshot software tool for Windows. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/greenshot/greenshot)
+
+##### System Utilities
+
+*   [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source system cleaner designed to free up disk space. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/bleachbit/bleachbit)
 
 ---
 
@@ -171,8 +200,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 218K 📝 02&#x2F;15 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 92K 📝 02&#x2F;22 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 349K 📝 02&#x2F;06 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
-5. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 62K 📝 02&#x2F;22 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-6. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K 📝 02&#x2F;24 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+5. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K 📝 02&#x2F;25 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+6. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 62K 📝 02&#x2F;22 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 7. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 79K 📝 02&#x2F;15 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 8. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 67K 📝 02&#x2F;14 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
 9. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source ⭐ 34K 📝 02&#x2F;20 ](https://github.com/sorrycc/awesome-javascript)) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
@@ -835,7 +864,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md) - ([Source ⭐ 611, 📝 21&#x2F;10&#x2F;11 ](https://github.com/mailtoharshit/awesome-salesforce)) - A curated list of delightful Salesforce Platform Resources
 - [Awesome Smart Tv](/content/vitalets/awesome-smart-tv/README.md) - ([Source ⭐ 816, 📝 21&#x2F;02&#x2F;03 ](https://github.com/vitalets/awesome-smart-tv)) - :zap:A curated list of awesome resources for building Smart TV apps
 - [Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md) - ([Source ⭐ 1.3K, 📝 24&#x2F;07&#x2F;18 ](https://github.com/fregante/Awesome-WebExtensions)) - A curated list of awesome resources for WebExtensions development.
-- [Awesome Windows](/content/0pandadev/awesome-windows/README.md) - ([Source ⭐ 555, 📝 02&#x2F;24 ](https://github.com/0pandadev/awesome-windows)) - An awesome & curated list of tools and apps for Windows 10/11.
+- [Awesome Windows](/content/0pandadev/awesome-windows/README.md) - ([Source ⭐ 555, 📝 02&#x2F;25 ](https://github.com/0pandadev/awesome-windows)) - An awesome & curated list of tools and apps for Windows 10/11.
 - [Awesome Xamarin](/content/XamSome/awesome-xamarin/README.md) - ([Source ⭐ 1.9K, 📝 21&#x2F;11&#x2F;28 ](https://github.com/XamSome/awesome-xamarin)) - A collection of interesting libraries/tools for Xamarin mobile projects 
 - [Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/README.md) - ([Source ⭐ 36K, 📝 16&#x2F;08&#x2F;02 ](https://github.com/dypsilon/frontend-dev-bookmarks)) - Manually curated collection of resources for frontend web developers.
 - [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 41K, 📝 24&#x2F;10&#x2F;16 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -907,7 +936,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome R](/content/qinwf/awesome-R/README.md) - ([Source ⭐ 6K, 📝 24&#x2F;12&#x2F;06 ](https://github.com/qinwf/awesome-R)) - A curated list of awesome R packages, frameworks and software.
 - [Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md) - ([Source ⭐ 566, 📝 24&#x2F;12&#x2F;20 ](https://github.com/iamericfletcher/awesome-r-learning-resources)) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 - [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 14K, 📝 24&#x2F;12&#x2F;14 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K, 📝 02&#x2F;24 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K, 📝 02&#x2F;25 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 - [Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md) - ([Source ⭐ 283, 📝 16&#x2F;08&#x2F;30 ](https://github.com/eleventigers/awesome-rxjava)) - Useful resources for working with RxJava
 - [Awesome Scala](/content/lauris/awesome-scala/README.md) - ([Source ⭐ 9K, 📝 24&#x2F;09&#x2F;19 ](https://github.com/lauris/awesome-scala)) - A community driven list of useful Scala libraries, frameworks and software.
 - [Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md) - ([Source ⭐ 218, 📝 21&#x2F;10&#x2F;27 ](https://github.com/tindzk/awesome-scala-native)) -  Compilation of Scala Native resources and libraries 

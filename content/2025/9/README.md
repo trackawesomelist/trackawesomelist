@@ -35,6 +35,15 @@
 ### Tools
 
 *   [QSV (⭐2.6k)](https://github.com/dathere/qsv) - A fast CSV command-line toolkit written in Rust, (an update to xsv).
+*   [Data Wrangler (⭐476)](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
+
+### Generate Data / CSV <-> JSON
+
+*   [Mockium](https://softwium.com/mockium/) - Test data generator for CSV / JSON / SQL / XML.
+
+### Standards / CSV <-> JSON
+
+*   [CSVY (⭐62)](https://github.com/csvy/csvy.github.io/blob/master/index.md) - A standard for adding a YAML header to CSV files to describe their format
 
 ## [6. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
@@ -121,6 +130,22 @@
 
 *   [TeraCopy](https://www.codesector.com/teracopy) - Faster than windows file transfers.
 
+### Game Stores
+
+*   [Playnite](https://playnite.link/) - Playnite is an open-source video game library manager that unifies game collections from various platforms. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/JosefNemec/Playnite/)
+
+### Productivity
+
+*   [Joplin](https://joplinapp.org/) - Joplin is an open-source note-taking and task management application that allows users to organize their notes, to-do lists, and even sync them across devices. Key Features of Joplin Markdown Support – Allows notes to be formatted using Markdown, making them highly customizable and easy to organize. Cross-Device Syncing – Syncs notes across multiple devices, including desktop, mobile, and cloud storage services. End-to-End Encryption – Ensures your notes are securely encrypted, protecting sensitive information from unauthorized access.
+
+### Screenshot
+
+*   [Greenshot](https://getgreenshot.org/) - Greenshot is a light-weight screenshot software tool for Windows. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/greenshot/greenshot)
+
+### System Utilities
+
+*   [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source system cleaner designed to free up disk space. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/bleachbit/bleachbit)
+
 ## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Peripheral Access Crates / MSP430
@@ -133,6 +158,10 @@
 *   [`esp8266`](https://github.com/esp-rs/esp8266) - [![crates.io](https://img.shields.io/crates/v/esp8266.svg)](https://crates.io/crates/esp8266) *note: esp8266 is archived, no further development planned*
 
 ## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Libraries / Audio and Music
+
+*   [aschey/stream-download-rs (⭐50)](https://github.com/aschey/stream-download-rs) \[[stream-download](https://crates.io/crates/stream-download)] - A library for streaming audio, video, and other media content [![build badge](https://github.com/aschey/stream-download-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aschey/stream-download-rs/actions)
 
 ### Libraries / Reverse engineering
 
