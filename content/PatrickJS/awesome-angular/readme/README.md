@@ -533,6 +533,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Logto](https://logto.io/) - An open-source Auth0 alternative for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML open standards for authentication and authorization. This [quickstart](https://docs.logto.io/quick-starts/angular#prerequisites) can help you use Logto with Angular.
 *   [MojoAuth](https://mojoauth.com/) - The Simplest Way to [integrate](https://docs.mojoauth.com/guides/angular) passkeys.
 *   [SuperTokens](https://supertokens.com) - Configure your [Angular](https://supertokens.com/docs/quickstart/frontend-setup) application to use SuperTokens for authentication.
+*   [Agilicus](https://www.agilicus.com/) - Single sign-on for any user—first party, third party, joint venture, contractor, or vendor. Enforce multi-factor authentication everywhere.  These are various [samples of integrations (⭐1)](https://github.com/Agilicus/samples) to the Agilicus Platform.
 
 #### Builders
 
@@ -1192,6 +1193,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-dompurify (⭐9)](https://github.com/taiga-family/ng-dompurify) - This library implements [DOMPurify (⭐15k)](https://github.com/cure53/DOMPurify) as Angular Sanitizer or Pipe. It delegates sanitizing to DOMPurify and supports the same configuration.
 *   [ngx-windows (⭐1)](https://github.com/mateuszbilicz/ngx-windows) - Angular Windows Components and Services.
 *   [ngx-speculative-link (⭐9)](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink (⭐11k)](https://github.com/GoogleChromeLabs/quicklink) and ngx-quicklink.
+*   [ngx-signal-pipes (⭐6)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
 
 #### Drag and Drop
 
@@ -1764,7 +1766,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-nighthawk (⭐7)](https://github.com/evenuxjs/ngx-nighthawk) - It offers a comprehensive set of components that are highly configurable and user-friendly. This package integrates the best open-source tools, such as Bootstrip — a streamlined version of Bootstrap that focuses solely on Grid and Utility features.
 *   [tableau-ui-angular (⭐1)](https://github.com/serionist/tableau-ui-angular) -  A third-party component library that brings Tableau-style components to Angular.
 *   [ng-verse (⭐38)](https://github.com/lukonik/ng-verse) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://www.ng-verse.dev/) for more.
-*   [primitives (⭐147)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+*   [primitives (⭐155)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 *   [xUI (⭐8)](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
 *   [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
 

@@ -8,6 +8,14 @@
 
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 
+### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Agilicus](https://www.agilicus.com/) - Single sign-on for any user—first party, third party, joint venture, contractor, or vendor. Enforce multi-factor authentication everywhere.  These are various [samples of integrations (⭐1)](https://github.com/Agilicus/samples) to the Agilicus Platform.
+
+### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-signal-pipes (⭐6)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
+
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [iconic (⭐6)](https://github.com/nginf/iconic) - Angular library to provide components of open-source icon libraries.
@@ -160,7 +168,7 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [primitives (⭐147)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+*   [primitives (⭐155)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 *   [xUI (⭐8)](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
 
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

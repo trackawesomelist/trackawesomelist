@@ -6,6 +6,16 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ [Daily](/content/godotengine/awesome-godot/README.md) / Weekly / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
+
+### Demos / Godot 4
+
+*   [PlaneShooter (⭐1)](https://github.com/sarooptech/PlaneShooter) - A 2D demo game to learn Godot 4.
+
+### Plugins and scripts / Godot 4
+
+*   [Event Audio (⭐20)](https://github.com/bbbscarter/event-audio-godot) - A simple event-based "fire and forget" audio triggering system.
+
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
 ### Plugins and scripts / Godot 4

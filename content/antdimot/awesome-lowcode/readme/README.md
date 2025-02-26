@@ -2,7 +2,7 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 448 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 487 · 🏷️ Miscellaneous
 
 [ [Daily](/content/antdimot/awesome-lowcode/README.md) / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / Overview ]
 
@@ -36,7 +36,8 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Accern](https://accern.com) - Accelerate AI Workflows for Financial Services.
 *   [AI Builder](https://flow.microsoft.com/en-us/ai-builder/) - Bring intelligent automation to your business processes with AI that’s easy to train and configure in Power Automate.
 *   [Alteryx](https://www.alteryx.com/products/alteryx-platform/machine-learning) - Scale data science across your business with automated machine learning (AutoML).
-*   [AutoGen (⭐35k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐40k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [Cliprun](https://cliprun.com/) - Create and schedule AI-generated Python scripts with one click.
 *   [Dataiku](https://www.dataiku.com/product/key-capabilities/machine-learning) - Build advanced machine learning models using the latest techniques.
 *   [DataRobot](https://www.datarobot.com/platform/visual-ai/) - DataRobot Automated Machine Learning with Visual AI.
 *   [Gravity-AI](https://www.gravity-ai.com/) - The fastest & most secure way to solve business problems with A.I.
@@ -192,7 +193,7 @@ Everyone is welcome to submit their new Awesome low-code item.
 *   [Shopify](https://shopify.com/) - Build your business.
 *   [Simplescraper](https://simplescraper.io/) - Extract data from any website in seconds.
 *   [Stripe](https://stripe.com) - The new standard in online payments.
-*   [ToolJet (⭐33k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐35k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 *   [Vantiq](https://vantiq.com/) - The Only Low Code Platform for Real Time Systems.
 *   [Voiceflow](https://www.voiceflow.com/) - Design, prototype and build voice apps.
 *   [Zendesk](https://www.zendesk.com/) - Build the best customer experiences.

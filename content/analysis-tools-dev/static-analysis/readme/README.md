@@ -484,7 +484,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐974)](https://g
 
 *   [dogsled (⭐73)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
 
-*   [dupl (⭐347)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
+*   [dupl (⭐348)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 
 *   [errcheck (⭐2.4k)](https://github.com/kisielk/errcheck) — Check that error return values are used.
 
@@ -1179,7 +1179,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐974)](https://g
 
 *   [sleek (⭐192)](https://github.com/nrempel/sleek) — Sleek is a CLI tool for formatting SQL.  It helps you maintain a consistent style across your SQL code, enhancing readability and productivity. The heavy lifting is done by the sqlformat crate.
 
-*   [sqlcheck (⭐2.5k)](https://github.com/jarulraj/sqlcheck) — Automatically identify anti-patterns in SQL queries.
+*   [sqlcheck (⭐2.5k)](https://github.com/jarulraj/sqlcheck) :warning: — Automatically identify anti-patterns in SQL queries.
 
 *   [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
 
@@ -1187,7 +1187,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐974)](https://g
 
 *   [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
 
-*   [tsqllint (⭐214)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
+*   [tsqllint (⭐215)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
 
 *   [TSqlRules (⭐29)](https://github.com/ashleyglee/TSqlRules) :warning: — TSQL Static Code Analysis Rules for SQL Server.
 
@@ -1259,7 +1259,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐974)](https://g
 
 *   [TypeScript Call Graph (⭐251)](https://github.com/whyboris/TypeScript-Call-Graph) — CLI to generate an interactive graph of functions and calls from your TypeScript files
 
-*   [TypeScript ESLint (⭐15k)](https://github.com/typescript-eslint/typescript-eslint) — TypeScript language extension for eslint.
+*   [TypeScript ESLint (⭐16k)](https://github.com/typescript-eslint/typescript-eslint) — TypeScript language extension for eslint.
 
 *   [zod](https://zod.dev) — TypeScript-first schema validation with static type inference. The goal is to eliminate duplicative type declarations. With Zod, you declare a validator once and Zod will automatically infer the static TypeScript type. It is easy to compose simpler types into complex data structures.
 
@@ -1374,6 +1374,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐974)](https://g
 *   [DeepCode](https://snyk.io/platform/deepcode-ai/) :warning: :copyright: — DeepCode was acquired by Snyk is now Snyk Code.
 
 *   [DeepSource](https://deepsource.com) :copyright: — In-depth static analysis to find issues in verticals of bug risks, security, anti-patterns, performance, documentation and style. Native integrations with GitHub, GitLab and Bitbucket. Less than 5% false positives.
+
+*   [deleaker](https://www.deleaker.com/) :copyright: — Deleaker is a memory leak detection tool for C++, .NET, and Delphi, integrating with Visual Studio, Qt Creator, and RAD Studio or running as a standalone application. It helps developers find and fix memory, GDI, and handle leaks efficiently.
 
 *   [Depends (⭐212)](https://github.com/multilang-depends/depends) — Analyses the comprehensive dependencies of code elements for Java, C/C++, Ruby.
 

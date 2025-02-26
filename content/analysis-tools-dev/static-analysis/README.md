@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Feb 26, 2025](/content/2025/02/26/README.md)
+
+### Multiple languages / [Other](#other-1)
+
+*   [deleaker](https://www.deleaker.com/) :copyright: — Deleaker is a memory leak detection tool for C++, .NET, and Delphi, integrating with Visual Studio, Qt Creator, and RAD Studio or running as a standalone application. It helps developers find and fix memory, GDI, and handle leaks efficiently.
+
 ## [Feb 19, 2025](/content/2025/02/19/README.md)
 
 ### Multiple languages / [Other](#other-1)
@@ -627,7 +633,7 @@
 *   [effective\_dart](https://pub.dev/packages/effective_dart) — Linter rules corresponding to the guidelines in Effective Dart
 *   [elm-analyse](https://stil4m.github.io/elm-analyse) :warning: — A tool that allows you to analyse your Elm code, identify deficiencies and apply best practices.
 *   [dingo-hunter (⭐319)](https://github.com/nickng/dingo-hunter) :warning: — Static analyser for finding deadlocks in Go.
-*   [dupl (⭐347)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
+*   [dupl (⭐348)](https://github.com/mibk/dupl) :warning: — Reports potentially duplicated code.
 *   [lll (⭐65)](https://github.com/walle/lll) :warning: — Report long lines.
 *   [safesql (⭐564)](https://github.com/stripe/safesql) :warning: — Static analysis tool for Golang that protects against SQL injections.
 *   [aether](http://aetherjs.com) :warning: — Lint, analyze, normalize, transform, sandbox, run, step through, and visualize user JavaScript, in node or the browser.
@@ -976,11 +982,11 @@
 *   [RustViz (⭐2.7k)](https://github.com/rustviz/rustviz) — RustViz is a tool that generates visualizations  from simple Rust programs to assist users in better  understanding the Rust Lifetime and Borrowing mechanism. It generates SVG files with graphical indicators that integrate  with mdbook to render visualizations of data-flow in Rust programs.
 *   [warnalyzer (⭐96)](https://github.com/est31/warnalyzer) — Show unused code from multi-crate Rust projects
 *   [dbcritic (⭐172)](https://github.com/channable/dbcritic) — dbcritic finds problems in a database schema, such as a missing primary key constraint in a table.
-*   [sqlcheck (⭐2.5k)](https://github.com/jarulraj/sqlcheck) — Automatically identify anti-patterns in SQL queries.
+*   [sqlcheck (⭐2.5k)](https://github.com/jarulraj/sqlcheck) :warning: — Automatically identify anti-patterns in SQL queries.
 *   [SQLFluff](https://www.sqlfluff.com/) — Multiple dialect SQL linter and formatter.
 *   [sqlint (⭐422)](https://github.com/purcell/sqlint) — Simple SQL linter.
 *   [squawk](https://squawkhq.com) — Linter for PostgreSQL, focused on migrations. Prevents unexpected downtime caused by database migrations and encourages best practices around Postgres schemas and SQL.
-*   [tsqllint (⭐214)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
+*   [tsqllint (⭐215)](https://github.com/tsqllint/tsqllint) — T-SQL-specific linter.
 *   [Visual Expert](https://www.visual-expert.com) :copyright: — Code analysis for PowerBuilder, Oracle, and SQL Server Explores, analyzes, and documents Code
 *   [Scalastyle](http://www.scalastyle.org) — Scalastyle examines your Scala code and indicates potential problems with it.
 *   [scapegoat (⭐536)](https://github.com/sksamuel/scapegoat) — Scala compiler plugin for static code analysis.
@@ -1002,7 +1008,7 @@
 *   [tslint-clean-code](https://www.npmjs.com/package/tslint-clean-code) — A set of TSLint rules inspired by the Clean Code handbook.
 *   [tslint-microsoft-contrib (⭐701)](https://github.com/Microsoft/tslint-microsoft-contrib) :warning: — A set of tslint rules for static code analysis of TypeScript projects maintained by Microsoft.
 *   [TypeScript Call Graph (⭐251)](https://github.com/whyboris/TypeScript-Call-Graph) — CLI to generate an interactive graph of functions and calls from your TypeScript files
-*   [TypeScript ESLint (⭐15k)](https://github.com/typescript-eslint/typescript-eslint) — TypeScript language extension for eslint.
+*   [TypeScript ESLint (⭐16k)](https://github.com/typescript-eslint/typescript-eslint) — TypeScript language extension for eslint.
 *   [zod](https://zod.dev) — TypeScript-first schema validation with static type inference. The goal is to eliminate duplicative type declarations. With Zod, you declare a validator once and Zod will automatically infer the static TypeScript type. It is easy to compose simpler types into complex data structures.
 *   [Icarus Verilog (⭐3k)](https://github.com/steveicarus/iverilog) — A Verilog simulation and synthesis tool that operates by compiling source code written in IEEE-1364 Verilog into some target format
 *   [svls (⭐491)](https://github.com/dalance/svls) — A Language Server Protocol implementation for Verilog and SystemVerilog, including lint capabilities.

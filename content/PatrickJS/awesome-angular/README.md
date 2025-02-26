@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Feb 26, 2025](/content/2025/02/26/README.md)
+
+### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Agilicus](https://www.agilicus.com/) - Single sign-on for any user—first party, third party, joint venture, contractor, or vendor. Enforce multi-factor authentication everywhere.  These are various [samples of integrations (⭐1)](https://github.com/Agilicus/samples) to the Agilicus Platform.
+
+### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-signal-pipes (⭐6)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
+
 ## [Feb 25, 2025](/content/2025/02/25/README.md)
 
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -220,7 +230,7 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [primitives (⭐147)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+*   [primitives (⭐155)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 
 ## [Feb 10, 2025](/content/2025/02/10/README.md)
 

@@ -174,6 +174,7 @@ See [Vivraan/godot-lang-support (⭐346)](https://github.com/Vivraan/godot-lang-
 #### Godot 4
 
 *   [Kaleidoscope (⭐17)](https://github.com/Elesh-Norn/kaleidoscope) - A demo for interactive shaders in Godot.
+*   [PlaneShooter (⭐1)](https://github.com/sarooptech/PlaneShooter) - A 2D demo game to learn Godot 4.
 
 #### Godot 3
 
@@ -214,6 +215,7 @@ See [Vivraan/godot-lang-support (⭐346)](https://github.com/Vivraan/godot-lang-
 *   [Cyclops Level Builder (⭐1.2k)](https://github.com/blackears/cyclopsLevelBuilder) - A level builder for quick prototypes and proof-of-concepts.
 *   [Dialogue Engine (⭐173)](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
 *   [Dialogue Manager (⭐2.5k)](https://github.com/nathanhoad/godot_dialogue_manager) - A simple but powerful text based branching dialogue editor and runtime. *(Godot 3 and 4)*
+*   [Event Audio (⭐20)](https://github.com/bbbscarter/event-audio-godot) - A simple event-based "fire and forget" audio triggering system.
 *   [Fast Fourier Transform (FFT) (⭐44)](https://github.com/tavurth/godot-fft) - Fast Fourier Transform in GDScript.
 *   [Friflo.Engine.ECS (⭐168)](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Godot, Unity, MonoGame, ... *(Godot 3 and 4)*
 *   [GdUnit4 (⭐644)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
