@@ -214,6 +214,10 @@
 
 *   [ngx-signal-pipes (⭐6)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
 
+### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-image-upload (⭐1)](https://github.com/osmanabdelsalam/ngx-image-upload) - A lightweight, customizable library for image uploads with preview, validation, and smooth animations. Supports Reactive Forms and `ngTemplate` for full flexibility.
+
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [iconic (⭐6)](https://github.com/nginf/iconic) - Angular library to provide components of open-source icon libraries.
@@ -228,6 +232,10 @@
 ### Marks / Diagnostics
 
 *   [francescarpi/buffon.nvim (⭐4)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
+
+### Bars and Lines / Diagnostics
+
+*   [neur1n/noline.nvim (⭐0)](https://github.com/neur1n/noline.nvim) - Fully customizable bars and lines components with no presets or constraints. See [construction (⭐3)](https://github.com/neur1n/dotfiles/tree/master/neovim/lua/plugconf/noline) and [setup (⭐3)](https://github.com/neur1n/dotfiles/blob/master/neovim/lua/plugconf/noline.lua) examples.
 
 ## [21. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 

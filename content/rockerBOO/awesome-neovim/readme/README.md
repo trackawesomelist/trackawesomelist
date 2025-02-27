@@ -505,7 +505,7 @@ Collections of awesome neovim plugins.
 *   [kiran94/s3edit.nvim (⭐45)](https://github.com/kiran94/s3edit.nvim) - Edit files from Amazon S3 directly from Neovim.
 *   [stevearc/oil.nvim (⭐4.7k)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 *   [kelly-lin/ranger.nvim (⭐162)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐16k)](https://github.com/ranger/ranger) integration for Neovim.
-*   [mikavilpas/yazi.nvim (⭐761)](https://github.com/mikavilpas/yazi.nvim) - Integration with the Yazi terminal file manager.
+*   [mikavilpas/yazi.nvim (⭐822)](https://github.com/mikavilpas/yazi.nvim) - Integration with the Yazi terminal file manager.
 *   [simonmclean/triptych.nvim (⭐216)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
 *   [echasnovski/mini.nvim#mini.files (⭐6.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md) - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
 *   [prichrd/netrw.nvim (⭐234)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
@@ -749,6 +749,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [SmiteshP/nvim-navic (⭐1.5k)](https://github.com/SmiteshP/nvim-navic) - A simple statusline/winbar component that uses LSP to show your current code context.
 *   [luukvbaal/statuscol.nvim (⭐559)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
 *   [mawkler/hml.nvim (⭐20)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
+*   [neur1n/noline.nvim (⭐0)](https://github.com/neur1n/noline.nvim) - Fully customizable bars and lines components with no presets or constraints. See [construction (⭐3)](https://github.com/neur1n/dotfiles/tree/master/neovim/lua/plugconf/noline) and [setup (⭐3)](https://github.com/neur1n/dotfiles/blob/master/neovim/lua/plugconf/noline.lua) examples.
 
 ### Statusline
 
@@ -986,7 +987,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [MisanthropicBit/decipher.nvim (⭐39)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
 *   [philosofonusus/ecolog.nvim (⭐117)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
 *   [theKnightsOfRohan/hexer.nvim (⭐4)](https://github.com/theKnightsOfRohan/hexer.nvim) - Easily convert between binary representations without a conversion table.
-*   [rachartier/tiny-glimmer.nvim (⭐137)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
+*   [rachartier/tiny-glimmer.nvim (⭐227)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
 *   [neanvo/buben.nvim (⭐1)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
 *   [josephburgess/nvumi (⭐20)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
 
@@ -1238,7 +1239,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [isak102/telescope-git-file-history.nvim (⭐80)](https://github.com/isak102/telescope-git-file-history.nvim) - Open/preview contents of the current file at a specific commit, without using git checkout.
 *   [moyiz/git-dev.nvim (⭐93)](https://github.com/moyiz/git-dev.nvim) - Open remote Git repositories in the comfort of Neovim.
 *   [SuperBo/fugit2.nvim (⭐432)](https://github.com/SuperBo/fugit2.nvim) - Git GUI powered by [libgit2](https://libgit2.org).
-*   [Yu-Leo/blame-column.nvim (⭐6)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
+*   [Yu-Leo/blame-column.nvim (⭐15)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
 
 ### GitHub
 

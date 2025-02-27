@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Feb 27, 2025](/content/2025/02/27/README.md)
+
+### Bars and Lines / Diagnostics
+
+*   [neur1n/noline.nvim (⭐0)](https://github.com/neur1n/noline.nvim) - Fully customizable bars and lines components with no presets or constraints. See [construction (⭐3)](https://github.com/neur1n/dotfiles/tree/master/neovim/lua/plugconf/noline) and [setup (⭐3)](https://github.com/neur1n/dotfiles/blob/master/neovim/lua/plugconf/noline.lua) examples.
+
 ## [Feb 24, 2025](/content/2025/02/24/README.md)
 
 ### Marks / Diagnostics
@@ -42,15 +48,15 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Diagnostics
 
-*   [mikavilpas/yazi.nvim (⭐761)](https://github.com/mikavilpas/yazi.nvim) - Integration with the Yazi terminal file manager.
+*   [mikavilpas/yazi.nvim (⭐822)](https://github.com/mikavilpas/yazi.nvim) - Integration with the Yazi terminal file manager.
 
 ### Utility / Diagnostics
 
-*   [rachartier/tiny-glimmer.nvim (⭐137)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
+*   [rachartier/tiny-glimmer.nvim (⭐227)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
 
 ### Git / Diagnostics
 
-*   [Yu-Leo/blame-column.nvim (⭐6)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
+*   [Yu-Leo/blame-column.nvim (⭐15)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
 
 ## [Feb 07, 2025](/content/2025/02/07/README.md)
 
