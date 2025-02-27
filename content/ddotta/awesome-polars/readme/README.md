@@ -50,6 +50,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
         *   [Node.js](#nodejs)
         *   [Scala/Java](#scalajava)
         *   [Ruby](#ruby)
+    *   [Tools build with Polars](#tools-build-with-polars)
     *   [Resources](#resources)
         *   [Cheat Sheets](#cheat-sheets)
         *   [Tutorials & workshops](#tutorials--workshops)
@@ -156,6 +157,10 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 
 *   [polars for Ruby (⭐883)](https://github.com/ankane/polars-ruby) - [Ruby](https://www.ruby-lang.org/en/) `polars-df` gems to use Polars with Ruby.
 
+## Tools build with Polars
+
+*   [polars-explorer (⭐26)](https://github.com/brutusyhy/polars-explorer) - A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by [@brutusyhy](https://github.com/brutusyhy).
+
 ## Resources
 
 ### Cheat Sheets
@@ -184,7 +189,6 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 *   [Python-Polars-Tips-and-Tricks (⭐26)](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks) - Collection of source code demonstrating tips and tricks in Polars by [@StuffbyYuki](https://github.com/StuffbyYuki).
 *   [(Pretty) big data wrangling with DuckDB and Polars](https://grantmcdermott.com/duckdb-polars/) - Documentation that introduces the use of DuckDB and Polars with examples in R and Python by [@grantmcdermott](https://github.com/grantmcdermott).
 *   [Introduction course that introduces the concept of DataFrame](https://tlouf.github.io/Py4DataSci-course/dataframes/1-basics-sol.html#) with Polars and Python. It also proposes some corrected exercices by [@TLouf](https://github.com/TLouf).
-*   [Polars DataFrame Operations and Optimization Guide](https://app.studyraid.com/en/courses/11455/polars-dataframe-operations-and-optimization-guide) Online free course that teaches the basics of data manipulation operations with Polars by [Studyraid](https://app.studyraid.com/en).
 
 ### Blog posts
 

@@ -12,6 +12,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *   [polars-talib (⭐137)](https://github.com/Yvictor/polars_ta_extension) - Polars extension for Ta-Lib - support Ta-Lib functions in Polars expressions by [@Yvictor](https://github.com/Yvictor).
 
+### Tools build with Polars / Ruby
+
+*   [polars-explorer (⭐26)](https://github.com/brutusyhy/polars-explorer) - A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by [@brutusyhy](https://github.com/brutusyhy).
+
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
 ### Official news
@@ -48,10 +52,6 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 *   [polars-st (⭐49)](https://github.com/Oreilles/polars-st) - Polars plugin that provides spatial operations on Polars DataFrames, Series and Expressions by [@Oreilles](https://github.com/Oreilles).
 *   [polars-pairing (⭐9)](https://github.com/apcamargo/polars-pairing) - Polars plugin that provides pairing functions that encode two natural numbers into a single natural number, by [@apcamargo](https://github.com/apcamargo).
 *   [polars-bio (⭐6)](https://github.com/biodatageeks/polars-bio) - Polars plugin for large-scale genomic analyses which is easy to use and considerable faster and more scalabe than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
-
-### Resources / Tutorials & workshops
-
-*   [Polars DataFrame Operations and Optimization Guide](https://app.studyraid.com/en/courses/11455/polars-dataframe-operations-and-optimization-guide) Online free course that teaches the basics of data manipulation operations with Polars by [Studyraid](https://app.studyraid.com/en).
 
 ## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
 
