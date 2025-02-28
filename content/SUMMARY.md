@@ -4,9 +4,10 @@
 
 
 - [Top Repos](top/README.md)
+  - [Awesome List](/content/content/sindresorhus/awesome/README.md)
+  - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome Go](/content/content/avelino/awesome-go/README.md)
-  - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
   - [Awesome Cpp](/content/content/fffaraz/awesome-cpp/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Free Programming Books (English, By Programming Language)](/content/content/EbookFoundation/free-programming-books/README.md)
@@ -53,7 +54,6 @@
   - [Awesome Jax](/content/content/n2cholas/awesome-jax/README.md)
   - [ALL About RSS](/content/content/AboutRSS/ALL-about-RSS/README.md)
   - [Awesome Generative Deep Art](/content/content/filipecalegario/awesome-generative-deep-art/README.md)
-  - [Awesome Terraform](/content/content/shuaibiyy/awesome-terraform/README.md)
 - [All Tracked List](all-repos/README.md)
   - [Back-End Development](back-end-development/README.md)
     - [Awesome Flask](/content/mjhea0/awesome-flask/README.md)
