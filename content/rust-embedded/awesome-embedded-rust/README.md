@@ -6,6 +6,12 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ Daily / [Weekly](/content/rust-embedded/awesome-embedded-rust/week/README.md) / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Feb 28, 2025](/content/2025/02/28/README.md)
+
+### Real-time / Real-time Operating System (RTOS)
+
+*   [Zephyr](https://docs.zephyrproject.org/latest/develop/languages/rust/index.html) An embedded RTOS, written in C, with support for writing applications in Rust.
+
 ## [Feb 24, 2025](/content/2025/02/24/README.md)
 
 ### Peripheral Access Crates / MSP430

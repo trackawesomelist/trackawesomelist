@@ -8,6 +8,10 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 
+### Real-time / Real-time Operating System (RTOS)
+
+*   [Zephyr](https://docs.zephyrproject.org/latest/develop/languages/rust/index.html) An embedded RTOS, written in C, with support for writing applications in Rust.
+
 ### Peripheral Access Crates / MSP430
 
 *   [`msp430g2553`](https://github.com/pftbest/msp430g2553) Peripheral access API for MSP430G2553 microcontrollers (generated using svd2rust)

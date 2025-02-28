@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Feb 28, 2025](/content/2025/02/28/README.md)
+
+### Miscellaneous
+
+*   [minja.hpp (⭐123)](https://github.com/google/minja) - A minimalistic C++ Jinja templating engine for LLM chat templates. \[MIT]
+
 ## [Feb 26, 2025](/content/2025/02/26/README.md)
 
 ### Math

@@ -6,6 +6,34 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Feb 28, 2025](/content/2025/02/28/README.md)
+
+### Build Systems
+
+*   [vab (⭐326)](https://github.com/vlang/vab) - The official V tool to build and package applications for Android.
+*   [vab-sdl (⭐3)](https://github.com/larpon/vab-sdl) - Standalone and extra command for `vab` to build and package
+    SDL2 and SDL3 based applications importing `vlang/sdl`.
+
+### Audio
+
+*   [miniaudio (⭐51)](https://github.com/larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
+
+### Game development
+
+*   [chipmunk2d (⭐1)](https://github.com/larpon/chipmunk2d) - V wrapper of the Chipmunk2D physics library.
+*   [wren (⭐6)](https://github.com/larpon/wren) - V wrapper around the excellent Wren scripting language.
+
+### Graphics
+
+*   [sdl (⭐87)](https://github.com/vlang/sdl) - Official SDL2 & SDL3 bindings for V.
+*   [sgldraw (⭐10)](https://github.com/larpon/sgldraw) - An experimental real-time vector render V module based on `sokol.sgl`.
+*   [voronoi (⭐1)](https://github.com/larpon/voronoi) - V wrapper of [JCash/voronoi (⭐664)](https://github.com/JCash/voronoi).
+*   [vqoi (⭐12)](https://github.com/Le0Developer/vqoi) - V: QOI - The "Quite OK Image" format for fast, lossless image compression.
+
+### Interoperability
+
+*   [jni (⭐23)](https://github.com/larpon/jni) - V wrapper around the C Java Native Interface (Desktop + Android).
+
 ## [Feb 18, 2025](/content/2025/02/18/README.md)
 
 ### Command-line
@@ -498,7 +526,6 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Audio
 
-*   [miniaudio (⭐51)](https://github.com/Larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
 *   [vave (⭐40)](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
 *   [vspeech (⭐50)](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
 

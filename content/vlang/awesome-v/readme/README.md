@@ -43,6 +43,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
     *   [File handling](#file-handling)
     *   [Game development](#game-development)
     *   [Graphics](#graphics-1)
+    *   [Interoperability](#interoperability)
     *   [IRC](#irc)
     *   [Networking](#networking)
     *   [Operating system](#operating-system)
@@ -76,6 +77,9 @@ A curated list of awesome V frameworks, libraries, software and resources.
 ### Build Systems
 
 *   [clockwork (⭐17)](https://github.com/emmathemartian/clockwork) - A language-agnostic build tool wrote in V.
+*   [vab (⭐326)](https://github.com/vlang/vab) - The official V tool to build and package applications for Android.
+*   [vab-sdl (⭐3)](https://github.com/larpon/vab-sdl) - Standalone and extra command for `vab` to build and package
+    SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Command-line
 
@@ -185,7 +189,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Audio
 
-*   [miniaudio (⭐51)](https://github.com/Larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
+*   [miniaudio (⭐51)](https://github.com/larpon/miniaudio) - Bindings for the excellent miniaudio C audio library.
 *   [vave (⭐40)](https://github.com/thecodrr/vave) - A crazy simple library for reading/writing WAV files in V. 🌊
 *   [vspeech (⭐50)](https://github.com/thecodrr/vspeech) - Complete V bindings for Mozilla's DeepSpeech TensorFlow based Speech-to-Text library. 📢📜
 
@@ -233,15 +237,19 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Game development
 
+*   [chipmunk2d (⭐1)](https://github.com/larpon/chipmunk2d) - V wrapper of the Chipmunk2D physics library.
 *   [engine (⭐45)](https://github.com/LouisSchmieder/engine) - WIP Vulkan in V.
 *   [raylib.v (⭐71)](https://github.com/irishgreencitrus/raylib.v) - Updated V bindings for [raylib](https://www.raylib.com) with plans for complete cross-platform support.
 *   [shy (⭐57)](https://github.com/Larpon/shy) - A foundation that helps you being creative in V.
 *   [V\_ecs (⭐17)](https://github.com/mohamedLT/V_ecs) - ECS library made in V inspired by Bevy ECS.
 *   [vraylib (⭐6)](https://github.com/mohamedLT/vraylib) - A V wrapper for the awesome raylib library.
 *   [vraylib (⭐49)](https://github.com/MajorHard/vraylib) - V wrapper (bindings) for raylib, the C game development framework.
+*   [wren (⭐6)](https://github.com/larpon/wren) - V wrapper around the excellent Wren scripting language.
 
 ### Graphics
 
+*   [sdl (⭐87)](https://github.com/vlang/sdl) - Official SDL2 & SDL3 bindings for V.
+*   [sgldraw (⭐10)](https://github.com/larpon/sgldraw) - An experimental real-time vector render V module based on `sokol.sgl`.
 *   [V Earcut (⭐14)](https://github.com/Larpon/earcut) - fast (real-time) polygon triangulation library based on [mapbox/Earcut (⭐2.3k)](https://github.com/mapbox/earcut) to handle holes, twisted polygons, degeneracies and self-intersections.
 *   [V\_sokol\_gp (⭐4)](https://github.com/mohamedLT/V_sokol_gp) - A V wrapper for the sokol\_gp library for easy and fast 2d graphics.
 *   [viup (⭐46)](https://github.com/kjlaw89/viup) - V wrapper for the C-based cross-platform UI library, IUP.
@@ -249,6 +257,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 *   [vsdl2 (⭐46)](https://github.com/nsauzede/vsdl2) - A libSDL2 wrapper.
 *   [vsl.vcl (⭐366)](https://github.com/vlang/vsl/tree/master/vcl#readme) - VCL is a high level way of writing programs with OpenCL using V. These are highly opinionated OpenCL bindings for V. It tries to make GPU computing easy, with some sugar abstraction, V's concurrency and channels.
 *   [vbmp (⭐1)](https://github.com/dy-tea/vbmp) - Read and write bitmap files.
+*   [voronoi (⭐1)](https://github.com/larpon/voronoi) - V wrapper of [JCash/voronoi (⭐664)](https://github.com/JCash/voronoi).
+*   [vqoi (⭐12)](https://github.com/Le0Developer/vqoi) - V: QOI - The "Quite OK Image" format for fast, lossless image compression.
+
+### Interoperability
+
+*   [jni (⭐23)](https://github.com/larpon/jni) - V wrapper around the C Java Native Interface (Desktop + Android).
 
 ### IRC
 

@@ -12,6 +12,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [utl::random (⭐36)](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md) - A C++17 header-only library implementing fast random for Monte-Carlo simulations & gamedev. \[MIT]
 
+### Miscellaneous
+
+*   [minja.hpp (⭐123)](https://github.com/google/minja) - A minimalistic C++ Jinja templating engine for LLM chat templates. \[MIT]
+
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
 ### Artificial Intelligence
