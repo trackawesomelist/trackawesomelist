@@ -8,6 +8,10 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 
+### API Development
+
+*   [Yaak](https://yaak.app) - Modern lightweight tauri based API testing application. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mountain-loop/yaak) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+
 ### File Management
 
 *   [TeraCopy](https://www.codesector.com/teracopy) - Faster than windows file transfers.
@@ -371,7 +375,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### API Development
 
-*   [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/hoppscotch/hoppscotch) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/hoppscotch/hoppscotch)
 *   [HTTP Toolkit](https://httptoolkit.tech) - Intercepts and modifies HTTP traffic. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/httptoolkit)
 *   [Postman](https://www.getpostman.com/postman) - Tests APIs with automated test scripts and monitoring.
 

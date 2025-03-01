@@ -6,6 +6,14 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
+
+### Monitoring / Isomorphic web frameworks
+
+*   [lisp-sentry](https://gitlab.com/lockie/lisp-sentry) - A full-featured Common Lisp client library for Sentry application monitoring software. MIT.
+    *   light in dependencies, provides Sentry with source code in stack traces, supports  file attachments, event breadcrumbs, automatically populated execution contexts, threads and user reports, GPU information.
+    *   supports only SBCL
+
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
 ### Java
@@ -1217,7 +1225,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Community / Interfaces to other package managers
 
-*   [MGL (⭐605)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
+*   [MGL (⭐607)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
     *   some parts originally contributed by Ravenpack International.
     *   used by its [author](https://github.com/melisgl) to [win (⭐128)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
     *   more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
@@ -2010,6 +2018,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Monitoring / Isomorphic web frameworks
 
 *   [cl-sentry-client (⭐24)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
+    *   based on dexador for HTTP communication and swank for stack traces. It also features an async HTTP client via the simple-tasks library.
 
 ## [Feb 17 - Feb 23, 2020](/content/2020/7/README.md)
 
@@ -2325,7 +2334,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Miscellaneous
 
-*   [bodge-nuklear (⭐65)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9.6k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [bodge-nuklear (⭐65)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9.7k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / Third-party APIs
 

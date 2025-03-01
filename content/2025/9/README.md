@@ -1,12 +1,46 @@
 # Awesome List Updates on Mar 03 - Mar 09, 2025
 
-28 awesome lists updated this week.
+30 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [1. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### Monitoring / Isomorphic web frameworks
+
+*   [lisp-sentry](https://gitlab.com/lockie/lisp-sentry) - A full-featured Common Lisp client library for Sentry application monitoring software. MIT.
+    *   light in dependencies, provides Sentry with source code in stack traces, supports  file attachments, event breadcrumbs, automatically populated execution contexts, threads and user reports, GPU information.
+    *   supports only SBCL
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Analytics
+
+*   [Liwan](https://liwan.dev/) - Easy & privacy-first web analytics. ([Demo](https://demo.liwan.dev/p/liwan.dev), [Source Code (⭐15)](https://github.com/explodingcamera/liwan)) `AGPL-3.0` `Rust/Docker`
+
+### Software / Database Management
+
+*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code (⭐6.4k)](https://github.com/vrana/adminer)) `Apache-2.0/GPL-2.0` `PHP`
+
+### Software / Money, Budgeting & Management
+
+*   [Wallos](https://wallosapp.com) - Lightweight personal subscription tracker with statistics and optional notifications. ([Demo (⭐3.9k)](https://github.com/ellite/wallos?tab=readme-ov-file#demo), [Source Code (⭐3.9k)](https://github.com/ellite/wallos)) `GPL-3.0` `PHP/Docker`
+
+### Software / Recipe Management
+
+*   [ManageMeals](https://managemeals.com/) - Manage recipes, import recipes by URL and organize them without any ads or unnecessary text. ([Demo](https://demo.managemeals.com/), [Source Code (⭐42)](https://github.com/managemeals/manage-meals-web)) `GPL-3.0` `Docker`
+
+### Software / Self-hosting Solutions
+
+*   [Self Host Blocks (⭐240)](https://github.com/ibizaman/selfhostblocks) `⚠` - Modular server management based on NixOS modules and focused on best practices. `AGPL-3.0` `Nix`
+
+### Software / URL Shorteners
+
+*   [bit (⭐14)](https://github.com/sjdonado/bit) - Fast, lightweight, resource-efficient, compiled URL shortener powered by SQLite. `MIT` `Docker/Crystal`
+
+## [3. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Templates
 
@@ -37,19 +71,19 @@
 
 *   [BuiltOnBlazor](https://builtonblazor.net) - A showcase of sites running on Blazor
 
-## [2. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [4. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Articles / Golang - Community
 
 *   [Genkit in Node, Building a Weather Service with AI Integration](https://xavidop.me/firebase/gcp/2025-02-28-firebase-genkit-node-tool/) - Explore how to build a weather service using Genkit in Node.js using Express, GitHub Models and Tools.
 
-## [3. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [5. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Miscellaneous
 
 *   [Permacomputing (⭐174)](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 
-## [4. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [6. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Build Systems
 
@@ -77,19 +111,19 @@
 
 *   [jni (⭐23)](https://github.com/larpon/jni) - V wrapper around the C Java Native Interface (Desktop + Android).
 
-## [5. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [7. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Datasets / Book Deals (Affiliated)
 
 *   [250k+ Job Postings](https://aws.amazon.com/marketplace/pp/prodview-p2554p3tczbes) - An expanding dataset of historical job postings from Luxembourg from 2020 to today. Free with 250k+ job postings hosted on AWS Data Exchange.
 
-## [6. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [8. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Testing
 
 *   [Sherlo](https://sherlo.io) - Visual testing and review tool for React Native Storybook.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Math
 
@@ -99,7 +133,7 @@
 
 *   [minja.hpp (⭐123)](https://github.com/google/minja) - A minimalistic C++ Jinja templating engine for LLM chat templates. \[MIT]
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Audio Record and Process
 
@@ -109,7 +143,7 @@
 
 *   [SteerMouse](https://plentycom.jp/en/steermouse/) - SteerMouse is a utility that lets you freely customize buttons, wheels and cursor speed. Both USB and Bluetooth mice are supported.
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -146,13 +180,13 @@
 *   [NDJSON (⭐711) (⭐706)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐369) (⭐366)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [10. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [12. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
 *   [Cliprun](https://cliprun.com/) - Create and schedule AI-generated Python scripts with one click.
 
-## [11. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -170,7 +204,7 @@
 
 *   [PostPulse](https://PostPulseAI.com) - Boost your online presence, enhance your SEO and site ranking with monthly AI-crafted posts to SEO-optimized domains The free Plan allows you to manually publish one Post on our site every month.
 
-## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [14. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Demos / Godot 4
 
@@ -180,13 +214,13 @@
 
 *   [Event Audio (⭐20)](https://github.com/bbbscarter/event-audio-godot) - A simple event-based "fire and forget" audio triggering system.
 
-## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [15. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [deleaker](https://www.deleaker.com/) :copyright: — Deleaker is a memory leak detection tool for C++, .NET, and Delphi, integrating with Visual Studio, Qt Creator, and RAD Studio or running as a standalone application. It helps developers find and fix memory, GDI, and handle leaks efficiently.
 
-## [14. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [16. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
@@ -200,7 +234,7 @@
 
 *   [polars-explorer (⭐26)](https://github.com/brutusyhy/polars-explorer) - A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by [@brutusyhy](https://github.com/brutusyhy).
 
-## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [17. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Practises
 
@@ -210,19 +244,19 @@
 
 *   [Expert-level protocol translation for self-driving labs](https://proceedings.neurips.cc/paper_files/paper/2024/hash/54dd9e0cff6d9214e20d97eb2a3bae49-Abstract-Conference.html) - ***NeurIPS'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=13997597682274906943)]. \[[Project](https://autodsl.org/procedure/papers/neurips24shi.html)]. Recent development in Artificial Intelligence (AI) models has propelled their application in scientific discovery, but the validation and exploration of these discoveries require subsequent empirical experimentation. The concept of self-driving laboratories promises to automate and thus boost the experimental process following AI-driven discoveries. However, the transition of experimental protocols, originally crafted for human comprehension, into formats interpretable by machines presents significant challenges, which, within the context of specific expert domain, encompass the necessity for structured as opposed to natural language, the imperative for explicit rather than tacit knowledge, and the preservation of causality and consistency throughout protocol steps. Presently, the task of protocol translation predominantly requires the manual and labor-intensive involvement of domain experts and information technology specialists, rendering the process time-intensive. To address these issues, this work proposes a framework that automates the protocol translation process through a three-stage workflow, which incrementally constructs Protocol Dependence Graphs (PDGs) that approach structured on the syntax level, completed on the semantics level, and linked on the execution level. Quantitative and qualitative evaluations have demonstrated its performance at par with that of human experts, underscoring its potential to significantly expedite and democratize the process of scientific discovery by elevating the automation capabilities within self-driving laboratories.
 
-## [16. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
+## [18. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
 ### Tutorials / IRC
 
 *   [Creating and Using Composer Packages](https://www.packtpub.com/en-us/learning/how-to-tutorials/creating-and-using-composer-packages/)
 
-## [17. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [19. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Software / Social, Economic and Political Networks
 
 *   [Scikit-network (⭐616)](https://github.com/sknetwork-team/scikit-network) - Open-source library for machine learning on graphs.
 
-## [18. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [20. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
 ### Tools
 
@@ -237,19 +271,19 @@
 
 *   [CSVY (⭐62)](https://github.com/csvy/csvy.github.io/blob/master/index.md) - A standard for adding a YAML header to CSV files to describe their format
 
-## [19. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [21. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### Miscellaneous / Related
 
 *   [Awesome Esports (⭐73)](https://github.com/strift/awesome-esports) - Competitiosn using video games.
 
-## [20. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
+## [22. Search Engine Optimization](/content/marcobiedermann/search-engine-optimization/week/README.md)
 
 ### Tools & Services / Optimization
 
 *   [OptimalUX](https://optimalux.com/seo-patching) - Optimize your site with seamless SEO patching and an A/B testing tool built on top of Cloudflare for easy integration.
 
-## [21. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [23. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Archive of Icons
 
@@ -285,7 +319,7 @@
 *   [svg-icon](https://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
 *   [Orion icon library](https://www.orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 
-## [22. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [24. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### AI
 
@@ -299,7 +333,7 @@
 
 *   [LÖVE Game Development & Automated Build System (⭐18)](https://github.com/Oval-Tutu/bootstrap-love2d-project) - Preconfigured VSCode/Codium. Build for Android, iOS, HTML5, Linux, macOS and Windows and automatically publish to Itch.io.
 
-## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [25. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -348,7 +382,7 @@
 
 *   [tsconfig (⭐13)](https://github.com/smartrecruiters/tsconfig) - SmartRecruiters’ tsconfig contains all strict rules and improves your project type-safety.
 
-## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [26. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Marks / Diagnostics
 
@@ -358,7 +392,11 @@
 
 *   [neur1n/noline.nvim (⭐0)](https://github.com/neur1n/noline.nvim) - Fully customizable bars and lines components with no presets or constraints. See [construction (⭐3)](https://github.com/neur1n/dotfiles/tree/master/neovim/lua/plugconf/noline) and [setup (⭐3)](https://github.com/neur1n/dotfiles/blob/master/neovim/lua/plugconf/noline.lua) examples.
 
-## [25. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [27. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+
+### API Development
+
+*   [Yaak](https://yaak.app) - Modern lightweight tauri based API testing application. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mountain-loop/yaak) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ### File Management
 
@@ -380,7 +418,7 @@
 
 *   [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source system cleaner designed to free up disk space. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/bleachbit/bleachbit)
 
-## [26. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [28. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Real-time / Real-time Operating System (RTOS)
 
@@ -395,7 +433,7 @@
 
 *   [`esp8266`](https://github.com/esp-rs/esp8266) - [![crates.io](https://img.shields.io/crates/v/esp8266.svg)](https://crates.io/crates/esp8266) *note: esp8266 is archived, no further development planned*
 
-## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Audio and Music
 
@@ -405,7 +443,7 @@
 
 *   [objdiff (⭐150)](https://github.com/encounter/objdiff) - A local diffing tool for decompilation projects
 
-## [28. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [30. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

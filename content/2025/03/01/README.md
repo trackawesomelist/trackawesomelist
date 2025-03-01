@@ -1,12 +1,52 @@
 # Awesome List Updates on Mar 01, 2025
 
-3 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+### API Development
+
+*   [Yaak](https://yaak.app) - Modern lightweight tauri based API testing application. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mountain-loop/yaak) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+
+## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+
+### Monitoring / Isomorphic web frameworks
+
+*   [lisp-sentry](https://gitlab.com/lockie/lisp-sentry) - A full-featured Common Lisp client library for Sentry application monitoring software. MIT.
+    *   light in dependencies, provides Sentry with source code in stack traces, supports  file attachments, event breadcrumbs, automatically populated execution contexts, threads and user reports, GPU information.
+    *   supports only SBCL
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Analytics
+
+*   [Liwan](https://liwan.dev/) - Easy & privacy-first web analytics. ([Demo](https://demo.liwan.dev/p/liwan.dev), [Source Code (⭐15)](https://github.com/explodingcamera/liwan)) `AGPL-3.0` `Rust/Docker`
+
+### Software / Database Management
+
+*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file. Available for MySQL, MariaDB, PostgreSQL, SQLite, MS SQL, Oracle, Elasticsearch, MongoDB and others. ([Source Code (⭐6.4k)](https://github.com/vrana/adminer)) `Apache-2.0/GPL-2.0` `PHP`
+
+### Software / Money, Budgeting & Management
+
+*   [Wallos](https://wallosapp.com) - Lightweight personal subscription tracker with statistics and optional notifications. ([Demo (⭐3.9k)](https://github.com/ellite/wallos?tab=readme-ov-file#demo), [Source Code (⭐3.9k)](https://github.com/ellite/wallos)) `GPL-3.0` `PHP/Docker`
+
+### Software / Recipe Management
+
+*   [ManageMeals](https://managemeals.com/) - Manage recipes, import recipes by URL and organize them without any ads or unnecessary text. ([Demo](https://demo.managemeals.com/), [Source Code (⭐42)](https://github.com/managemeals/manage-meals-web)) `GPL-3.0` `Docker`
+
+### Software / Self-hosting Solutions
+
+*   [Self Host Blocks (⭐240)](https://github.com/ibizaman/selfhostblocks) `⚠` - Modular server management based on NixOS modules and focused on best practices. `AGPL-3.0` `Nix`
+
+### Software / URL Shorteners
+
+*   [bit (⭐14)](https://github.com/sjdonado/bit) - Fast, lightweight, resource-efficient, compiled URL shortener powered by SQLite. `MIT` `Docker/Crystal`
+
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -20,7 +60,7 @@
 
 *   [PostPulse](https://PostPulseAI.com) - Boost your online presence, enhance your SEO and site ranking with monthly AI-crafted posts to SEO-optimized domains The free Plan allows you to manually publish one Post on our site every month.
 
-## [2. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Templates
 
@@ -51,7 +91,7 @@
 
 *   [BuiltOnBlazor](https://builtonblazor.net) - A showcase of sites running on Blazor
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

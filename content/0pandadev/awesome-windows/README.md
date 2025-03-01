@@ -6,6 +6,12 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 [ Daily / [Weekly](/content/0pandadev/awesome-windows/week/README.md) / [Overview](/content/0pandadev/awesome-windows/readme/README.md) ]
 
+## [Mar 01, 2025](/content/2025/03/01/README.md)
+
+### API Development
+
+*   [Yaak](https://yaak.app) - Modern lightweight tauri based API testing application. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mountain-loop/yaak) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+
 ## [Feb 25, 2025](/content/2025/02/25/README.md)
 
 ### Game Stores
@@ -377,7 +383,7 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 ### API Development
 
-*   [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/hoppscotch/hoppscotch) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/hoppscotch/hoppscotch)
 *   [HTTP Toolkit](https://httptoolkit.tech) - Intercepts and modifies HTTP traffic. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/httptoolkit)
 *   [Postman](https://www.getpostman.com/postman) - Tests APIs with automated test scripts and monitoring.
 

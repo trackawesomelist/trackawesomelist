@@ -625,7 +625,7 @@ But that's not all.
 *   [ftw (⭐64)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT][200].
 *   [eql, eql5, eql5-android](https://gitlab.com/eql) - Embedded Qt4 and Qt5 Lisp, embedded in ECL, embeddable in Qt. Port of EQL5 to the Android platform. [MIT][200].
     *   [EQL5 on the Android store](https://play.google.com/store/apps/details?id=org.eql5.android.repl\&pcampaignid=web_share)
-*   [bodge-nuklear (⭐65)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9.6k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT][200].
+*   [bodge-nuklear (⭐65)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9.7k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT][200].
 *   [vk (⭐49)](https://github.com/JolifantoBambla/vk) -  Common Lisp/CFFI bindings for the Vulkan API. [MIT][200].
 
 Other utilities:
@@ -1024,7 +1024,7 @@ See also:
 
 # Machine Learning
 
-*   [MGL (⭐605)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT][200].
+*   [MGL (⭐607)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT][200].
     *   some parts originally contributed by Ravenpack International.
     *   used by its [author](https://github.com/melisgl) to [win (⭐128)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
     *   more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
@@ -1210,7 +1210,11 @@ See also:
 
 *   [prometheus.cl (⭐86)](https://github.com/deadtrickster/prometheus.cl) - Prometheus.io client. Grafana dashboard for SBCL and Hunchentoot metrics (memory, threads, requests per second,…). [MIT][200].
     *   [prometheus-g (⭐4)](https://github.com/40ants/prometheus-gc) - Extension for prometheus.cl which collects metrics about garbage collector state.
+*   [lisp-sentry](https://gitlab.com/lockie/lisp-sentry) - A full-featured Common Lisp client library for Sentry application monitoring software. MIT.
+    *   light in dependencies, provides Sentry with source code in stack traces, supports  file attachments, event breadcrumbs, automatically populated execution contexts, threads and user reports, GPU information.
+    *   supports only SBCL
 *   [cl-sentry-client (⭐24)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT][200].
+    *   based on dexador for HTTP communication and swank for stack traces. It also features an async HTTP client via the simple-tasks library.
 *   [rollbar.lisp (⭐3)](https://github.com/adventuring/rollbar.lisp) - interface to [Rollbar.com](https://rollbar.com/), an error tracking software.
 
 ## Websockets
@@ -1978,7 +1982,7 @@ See also the chart facilities of IUP and ltk-plotchart (GUI section).
 *   [cl-project-with-docs (⭐4)](https://github.com/40ants/cl-project-with-docs) - uses Sphinx and reStructured text to render nice and readable HTML documentation. [BSD][15].
 *   [cl-cookieproject (⭐77)](https://github.com/vindarel/cl-cookieproject) -  Generate a ready-to-use Common Lisp project. Not in Quicklisp. [BSD\_3Clause][15].
     *   test definitions, entry point to run from sources, build a binary, Roswell integration…
-*   [cookiecutter-lisp-game (⭐29)](https://github.com/lockie/cookiecutter-lisp-game) - An opinionated cookiecutter template for Common Lisp videogame projects. Allows to choose [backend middleware library](#graphics) between liballegro, raylib and SDL2. Contains CI scripts using [docker-lisp-gamedev](#docker-images) to automatically build binaries for Windows, MacOS and Linux.
+*   [cookiecutter-lisp-game (⭐31)](https://github.com/lockie/cookiecutter-lisp-game) - An opinionated cookiecutter template for Common Lisp videogame projects. Allows to choose [backend middleware library](#graphics) between liballegro, raylib and SDL2. Contains CI scripts using [docker-lisp-gamedev](#docker-images) to automatically build binaries for Windows, MacOS and Linux.
 
 ## Security
 
