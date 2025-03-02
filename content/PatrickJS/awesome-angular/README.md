@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Mar 02, 2025](/content/2025/03/02/README.md)
+
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [vitest](https://vitest.dev/) - A Vite-native testing framework.
+
+### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [afnaan-ngx-custom-cursor (⭐1)](https://github.com/afnaanulla/AfnaanNgx-cusotm-cursor) - A customizable animated cursor for Angular applications. Enhance user experience with a stylish and interactive cursor effect.
+
+### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [flexi-ui (⭐47)](https://github.com/TanerSaydam/flexi-ui) - [Flexi UI](https://flexi-ui.ecnorow.com/) provides a collection of reusable, visually appealing, and functional UI components to help you create modern and impressive front-end applications effortlessly. The library is fully customizable and open-source, making it accessible for everyone to use and contribute.
+
+### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [fork-join-settled (⭐2)](https://github.com/DKozachenko/fork-join-settled) - RxJS library which is analog of [Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled) method.
+
 ## [Mar 01, 2025](/content/2025/03/01/README.md)
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -155,7 +173,7 @@
 
 *   [angular-spotflow-checkout (⭐1)](https://github.com/Spotflow-One/angular-spotflow-checkout) - The [Spotflow](https://www.spotflow.one/) Angular SDK enables users to make payments with a streamlined checkout experience.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@jscutlery/playwright-ct-angular (⭐256)](https://github.com/jscutlery/devkit/tree/main/packages/playwright-ct-angular) - Playwright Angular component testing.
 
@@ -180,7 +198,7 @@
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@wlucha/angular-starter (⭐308)](https://github.com/wlucha/angular-starter) - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
+*   [@wlucha/angular-starter (⭐319)](https://github.com/wlucha/angular-starter) - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -188,11 +206,11 @@
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-country-select (⭐5)](https://github.com/wlucha/ng-country-select) - A smart, multilingual country search with flags and codes.
+*   [ng-country-select (⭐9)](https://github.com/wlucha/ng-country-select) - A smart, multilingual country search with flags and codes.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-nuts-and-bolts (⭐3)](https://github.com/infinum/ngx-nuts-and-bolts) - A collection of commonly used pieces of Angular-related code that are used by [Infinum](https://infinum.com/).
+*   [ngx-nuts-and-bolts (⭐4)](https://github.com/infinum/ngx-nuts-and-bolts) - A collection of commonly used pieces of Angular-related code that are used by [Infinum](https://infinum.com/).
 *   [ngx-common (⭐28)](https://github.com/paddls/ngx-common) - A collection of useful features to enhance your Angular apps.
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -679,7 +697,7 @@
 
 *   [ngx-chessground (⭐6)](https://github.com/topce/ngx-chessground) - Angular wrapper for [chessground (⭐1.1k)](https://github.com/ornicar/chessground).
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-page-object-model (⭐28)](https://github.com/FrancescoBorzi/ngx-page-object-model) - This library streamlines the process of writing unit tests for Angular UI Components by utilizing the Page Object Model (POM) design pattern. By adopting the POM design pattern, you can create an additional layer of abstraction, effectively separating your test logic from the DOM manipulation logic.
 
@@ -1141,9 +1159,9 @@
 
 ## [Nov 13, 2024](/content/2024/11/13/README.md)
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Early AI](https://www.startearly.ai/) - Save time, enhance code coverage, and ensure quality with Early's automatically generated, verified, and validated unit tests.
+*   [Early AI](https://www.startearly.ai/) - Save time, enhance code coverage, and ensure quality with Early's automatically generated, verified, and validated unit tests.  Works with Jest and Vitest.
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
@@ -1165,9 +1183,12 @@
 
 *   [LightNap (⭐70)](https://github.com/SharpLogic/LightNap) - LightNap (lightweight .NET Core/Angular/PrimeNG) is a full stack starter kit designed to provide a boost to Single Page Applications (SPA). It includes built-in support for ASP.NET Core Identity, JWT token management, and administrative features for managing identity, offering a solid foundation to be extended for any application scenario.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Meticulous AI](https://www.meticulous.ai/) - Cover the 1000s of edge cases of your application - without writing or maintaining a single test.
+
+### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
 *   [ngtx (⭐10)](https://github.com/Centigrade/ngtx) - `ngtx` stands for "A**ng**ular **T**esting E**x**tensions" and is a small set of functions aiming to make your life easier when testing Angular components.
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -1231,7 +1252,7 @@
 
 *   [angular-rsocket (⭐2)](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-playwright (⭐24)](https://github.com/bgotink/ngx-playwright) - Tools to run Playwright e2e tests in an Angular workspace.
 
@@ -1336,7 +1357,7 @@
 
 *   [ngx-easy-i18n-js (⭐2)](https://github.com/gabrie-allaigre/ngx-easy-i18n-js) - The easy internationalization (i18n) library for Angular.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [docker-ng-cli-karma (⭐59)](https://github.com/trion-development/docker-ng-cli-karma) - Angular docker image capable of running Karma with Chrome.
 
@@ -1466,7 +1487,7 @@
 
 ## [Oct 10, 2024](/content/2024/10/10/README.md)
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [playwright-ng-schematics (⭐12)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 
@@ -1663,7 +1684,7 @@
 
 *   [angular-library-template (⭐0)](https://github.com/lazycuh/angular-library-template) - A template for creating Angular libraries.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-testing-kit (⭐1)](https://github.com/lazycuh/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
 
@@ -1805,7 +1826,7 @@
 
 ## [Sep 11, 2024](/content/2024/09/11/README.md)
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-testing-tools (⭐2)](https://github.com/remscodes/ngx-testing-tools) - Provides high-level utilities and reduces boilerplate for testing Angular applications.
 
@@ -1966,10 +1987,13 @@
 
 *   [angular-templates (⭐13)](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based (⭐90k)](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
+
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [nightwatch-plugin-angular (⭐2)](https://github.com/nightwatchjs/nightwatch-plugin-angular) - Official [Nightwatch](https://nightwatchjs.org/) plugin which adds component testing support for Angular apps. It uses the Webpack DevServer under the hood. Requires Nightwatch 2.4+.
-*   [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based (⭐90k)](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2494,10 +2518,9 @@
 
 *   [i18n-ally (⭐4.2k)](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-mocks-sandbox (⭐5)](https://github.com/help-me-mom/ng-mocks-sandbox) - A repo with guides and examples for unit tests in Angular applications using ng-mocks.
-*   [angular-testing-kit (⭐1)](https://github.com/babybeet/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2572,10 +2595,6 @@
 ### Module Federation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-dynamic-mf (⭐9)](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
-
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngentest (⭐143)](https://github.com/allenhwkim/ngentest) - Angular6+ Unit Test Generator For Components, Directive, Services, and Pipes.
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2805,7 +2824,7 @@
 
 *   [anguhashblog](https://github.com/AnguHashBlog/anguhashblog) - Seamlessly connects your Angular or Analog application to the Hashnode GraphQL API, providing a template integration with a headless Hashnode setup.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-unit-test-helper (⭐6)](https://github.com/duluca/angular-unit-test-helper) - Helper functions to help write unit tests in Angular using mocks and spies.
 
@@ -3003,15 +3022,18 @@
 
 *   [ngx-jwt (⭐1)](https://github.com/rars/ngx-jwt) - Angular library for injecting JWT tokens to HTTP requests.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
+*   [ngx-speculoos (⭐75)](https://github.com/Ninja-Squad/ngx-speculoos) - Simpler, cleaner Angular unit tests.
 *   [karma-image-snapshot (⭐5)](https://github.com/maksimr/karma-image-snapshot) - Karma jasmine matcher that performs image comparisons based on [jest-image-snapshot (⭐3.9k)](https://github.com/americanexpress/jest-image-snapshot) for visual regression testing.
 *   [jest-marbles (⭐113)](https://github.com/just-jeb/jest-marbles) - Helpers library for marbles testing with Jest.
 *   [jest-codemods (⭐882)](https://github.com/skovhus/jest-codemods) - Codemods for migrating to Jest.
 *   [ts-jest (⭐7k)](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
+
+### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
 *   [stryker-js (⭐2.6k)](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
 *   [msw (⭐16k)](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
-*   [ngx-speculoos (⭐75)](https://github.com/Ninja-Squad/ngx-speculoos) - Simpler, cleaner Angular unit tests.
 *   [shallow-render (⭐272)](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
 
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -3665,9 +3687,12 @@
 
 *   [convoyr (⭐43)](https://github.com/jscutlery/convoyr) - Modular HTTP extensions for Angular.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [cypress-harness (⭐256)](https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness) - This library provides Cypress support to Component Test Harnesses.
+
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
 *   [swc-angular (⭐256)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
 *   [swc-angular-plugin (⭐256)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.
 
@@ -3945,25 +3970,34 @@
 *   [angular-ngrx-frontend (⭐12)](https://github.com/tarlepp/angular-ngrx-frontend) - Angular NgRx powered frontend template for Symfony (or similar) backend.
 *   [gradient-able-free-admin-template (⭐20)](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-mocks (⭐1.1k)](https://github.com/help-me-mom/ng-mocks) - Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup.
-*   [auto-spies (⭐181)](https://github.com/hirezio/auto-spies) - Create automatic spies from classes.
-*   [@angular/cdk/testing](https://material.angular.io/cdk/test-harnesses/overview) - `@angular/cdk/testing` provides infrastructure to help with testing Angular components.
 *   [cypress](https://www.cypress.io/) - End to End and Component Testing for Angular.
+*   [testcafe](https://testcafe.io/) - TestCafe is a user-friendly end-to-end testing solution. Free and open-source test runner. Powerful desktop app.
+*   [webdriverio (⭐9.2k)](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js.
+
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
 *   [jasmine](https://jasmine.github.io/) - Simple JavaScript testing.
 *   [jest](https://jestjs.io/) - Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
 *   [jest-preset-angular (⭐898)](https://github.com/thymikee/jest-preset-angular) - Jest configuration preset for Angular projects.
 *   [jest-preview (⭐2.4k)](https://github.com/nvh95/jest-preview) - Debug your Jest tests. Effortlessly.
-*   [spectacular (⭐37)](https://github.com/ngworker/ngworker/tree/main/packages/spectacular) - Spectacular offers test harnesses for Angular applications and libraries.
-*   [spectator (⭐2.1k)](https://github.com/ngneat/spectator) - A Powerful Tool to Simplify Your Angular Tests.
-*   [testcafe](https://testcafe.io/) - TestCafe is a user-friendly end-to-end testing solution. Free and open-source test runner. Powerful desktop app.
-*   [webdriverio (⭐9.2k)](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js.
+
+### Guides / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
 *   [angular-tour-of-heroes-jest-100-coverage (⭐3)](https://github.com/kristiyan-velkov/angular-tour-of-heroes-jest-100-coverage) - 100% unit testing coverage of the popular Angular demo app - Tour of Heroes.
 *   [how-do-i-test (⭐6)](https://github.com/rainerhahnekamp/how-do-i-test) - Repository representing different testing use cases for Angular and Spring.
 *   [YouTube](https://www.youtube.com/playlist?list=PLu062eICIOdGAJ4AgTzHI6EokHnB90bRJ) - How do I Test? playlist.
 *   [YouTube](https://www.youtube.com/watch?v=emnwsVy8wRs) - Angular Unit Testing Made Easy.
 *   [Tim Deschryver Blog](https://timdeschryver.dev/blog/testing-an-ngrx-project) - Testing an NgRx project.
+
+### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-mocks (⭐1.1k)](https://github.com/help-me-mom/ng-mocks) - Angular testing library for mocking components, directives, pipes, services and facilitating TestBed setup.
+*   [auto-spies (⭐181)](https://github.com/hirezio/auto-spies) - Create automatic spies from classes.
+*   [spectacular (⭐37)](https://github.com/ngworker/ngworker/tree/main/packages/spectacular) - Spectacular offers test harnesses for Angular applications and libraries.
+*   [@angular/cdk/testing](https://material.angular.io/cdk/test-harnesses/overview) - `@angular/cdk/testing` provides infrastructure to help with testing Angular components.
+*   [spectator (⭐2.1k)](https://github.com/ngneat/spectator) - A Powerful Tool to Simplify Your Angular Tests.
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -4151,7 +4185,7 @@
 
 ## [Apr 19, 2024](/content/2024/04/19/README.md)
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Testing Library](https://testing-library.com/docs/angular-testing-library/intro/) - Angular Testing Library builds on top of DOM Testing Library by adding APIs for working with Angular components.
 
@@ -4199,7 +4233,7 @@
 
 *   [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri) - Automate Angular unit test and boilerplate with this schematic.
 
@@ -4261,7 +4295,7 @@
 
 ## [May 18, 2021](/content/2021/05/18/README.md)
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Guides / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Testing Angular – A Guide to Robust Angular Applications](https://testing-angular.com) - A Guide to Robust Angular Applications. A free online book and e-book.
 
