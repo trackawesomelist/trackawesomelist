@@ -42,7 +42,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
         *   [Books](#logic_computational_complexity_books)
 *   [Programming Language Theory](#programming_language_theory)
     *   [Basics](#programming_language_theory_basics)
-        *   [Books](#programming_language_theory_basics_books)
+        *   [Lecture Notes](#programming_language_theory_basics_lecture_notes) | [Books](#programming_language_theory_basics_books)
     *   [Introductory](#programming_language_theory_introductory)
         *   [Books](#programming_language_theory_introductory_books)
     *   [Formal Verification](#programming_language_theory_formal_verification)
@@ -236,6 +236,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Programming Language Theory<a name=programming_language_theory></a>
 
 ## Basics<a name=programming_language_theory_basics></a>
+
+### Lecture Notes<a name=programming_language_theory_basics_lecture_notes></a>
+
+*   [Cambridge Foundations of CS](https://www.cl.cam.ac.uk/teaching/2425/FoundsCS/materials.html) - It teaches programming and presents some fundamental principles of computer science, especially algorithm design.
 
 ### Books<a name=programming_language_theory_basics_books></a>
 
@@ -663,7 +667,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 # Related Lists<a name=related_lists></a>
 
 *   [Algorithms (⭐22k)](https://github.com/tayllan/awesome-algorithms).
-*   [Mathematics (⭐9.3k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
+*   [Mathematics (⭐9.4k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
 *   [nLab](https://ncatlab.org/nlab/show/mathematics) & [Gratzer (⭐2.2k)](https://github.com/jozefg/learn-tt) - Logic, Math, Proof Assistants, and Type Theory.
 *   [Cryptography (⭐6.1k)](https://github.com/sobolevn/awesome-cryptography).
 *   [Quantum Computing (⭐2.7k)](https://github.com/desireevl/awesome-quantum-computing).

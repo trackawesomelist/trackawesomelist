@@ -6,6 +6,12 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / Weekly / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
 
+## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
+
+### Lecture Notes / Monograph
+
+*   [Cambridge Foundations of CS](https://www.cl.cam.ac.uk/teaching/2425/FoundsCS/materials.html) - It teaches programming and presents some fundamental principles of computer science, especially algorithm design.
+
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
 ### Cheat Sheets / Lecture Videos Playlist
@@ -249,7 +255,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Cheat Sheets / Lecture Videos Playlist
 
-*   [Mathematics (⭐9.3k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
+*   [Mathematics (⭐9.4k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
 *   [Math (⭐6.9k)](https://github.com/ossu/math) and [CS (⭐175k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
