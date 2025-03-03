@@ -106,6 +106,7 @@ Collections of awesome neovim plugins.
 *   [roobert/activate.nvim (⭐131)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
 *   [nvim-neorocks/rocks.nvim (⭐830)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
 *   [echasnovski/mini.nvim#mini.deps (⭐6.6k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
+*   [wsdjeg/nvim-plug (⭐8)](https://github.com/wsdjeg/nvim-plug) - Asynchronous Neovim plugin manager written in Lua.
 
 <!--lint disable double-link -->
 
@@ -285,6 +286,7 @@ Collections of awesome neovim plugins.
 *   [yanskun/gotests.nvim (⭐24)](https://github.com/yanskun/gotests.nvim) - Make Go tests easy with [gotests (⭐5k)](https://github.com/cweill/gotests).
 *   [maxandron/goplements.nvim (⭐62)](https://github.com/maxandron/goplements.nvim) - Visualize Go struct and interface implementations.
 *   [Snikimonkd/cmp-go-pkgs (⭐26)](https://github.com/Snikimonkd/cmp-go-pkgs) - Cmp source for Go packages names.
+*   [Yu-Leo/gosigns.nvim (⭐2)](https://github.com/Yu-Leo/gosigns.nvim) - Visualize some Go hints: struct, interface, and methods implementations; go comments.
 
 ### YAML
 
@@ -536,6 +538,7 @@ Collections of awesome neovim plugins.
 *   [LintaoAmons/cd-project.nvim (⭐117)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
 *   [LucasTavaresA/headers.nvim (⭐2)](https://github.com/LucasTavaresA/headers.nvim) - Zero-config header/footer warnings.
 *   [zongben/proot.nvim (⭐3)](https://github.com/zongben/proot.nvim) - Lightweight project navigator with telescope.
+*   [wsdjeg/rooter.nvim (⭐5)](https://github.com/wsdjeg/rooter.nvim) - Change working directory to project root.
 
 <!--lint disable double-link -->
 

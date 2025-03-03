@@ -6,6 +6,20 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 03, 2025](/content/2025/03/03/README.md)
+
+### Plugin Manager
+
+*   [wsdjeg/nvim-plug (⭐8)](https://github.com/wsdjeg/nvim-plug) - Asynchronous Neovim plugin manager written in Lua.
+
+### Golang / Diagnostics
+
+*   [Yu-Leo/gosigns.nvim (⭐2)](https://github.com/Yu-Leo/gosigns.nvim) - Visualize some Go hints: struct, interface, and methods implementations; go comments.
+
+### Project / Diagnostics
+
+*   [wsdjeg/rooter.nvim (⭐5)](https://github.com/wsdjeg/rooter.nvim) - Change working directory to project root.
+
 ## [Feb 27, 2025](/content/2025/02/27/README.md)
 
 ### Bars and Lines / Diagnostics

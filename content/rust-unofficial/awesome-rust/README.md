@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Mar 03, 2025](/content/2025/03/03/README.md)
+
+### Applications / System tools
+
+*   [gitui (⭐19k)](https://github.com/gitui-org/gitui) - Blazing fast terminal client for git. [![build](https://github.com/gitui-org/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/gitui-org/gitui/actions)
+
+### Libraries / Data streaming
+
+*   [iggy (⭐2.3k)](https://github.com/apache/iggy) \[[iggy](https://crates.io/crates/iggy)] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/apache/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/apache/iggy/actions/workflows/test.yml)
+
 ## [Feb 25, 2025](/content/2025/02/25/README.md)
 
 ### Libraries / Audio and Music
@@ -26,17 +36,13 @@ A curated list of Rust code and resources.
 
 ### Development tools / Static analysis
 
-*   [MIRAI (⭐116)](https://github.com/endorlabs/mirai) - an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/endorlabs/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/endorlabs/mirai/actions/workflows/rust.yml)
+*   [MIRAI (⭐123)](https://github.com/endorlabs/mirai) - an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/endorlabs/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/endorlabs/mirai/actions/workflows/rust.yml)
 
 ## [Feb 09, 2025](/content/2025/02/09/README.md)
 
 ### Applications
 
 *   [wezterm (⭐19k)](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
-
-### Libraries / Data processing
-
-*   [mjovanc/numru (⭐111)](https://github.com/mjovanc/numru) - A high-performance scientific computation library.
 
 ## [Feb 05, 2025](/content/2025/02/05/README.md)
 
@@ -959,12 +965,6 @@ A curated list of Rust code and resources.
 ### Libraries / Data structures
 
 *   [xfix/enum-map](https://codeberg.org/xfix/enum-map) \[[enum-map](https://crates.io/crates/enum-map)] - An optimized map implementation for enums using an array to store values.
-
-## [Jan 07, 2024](/content/2024/01/07/README.md)
-
-### Libraries / Data streaming
-
-*   [iggy-rs/iggy (⭐2.3k)](https://github.com/iggy-rs/iggy) \[[iggy](https://crates.io/crates/iggy)] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/iggy-rs/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/iggy-rs/iggy/actions/workflows/test.yml)
 
 ## [Jan 04, 2024](/content/2024/01/04/README.md)
 
@@ -3130,11 +3130,11 @@ A curated list of Rust code and resources.
 
 *   XML
     *   [Florob/RustyXML (⭐102)](https://github.com/Florob/RustyXML) - an XML parser
-    *   [media-io/yaserde (⭐187)](https://github.com/media-io/yaserde) - Yet Another Serializer/Deserializer specialized for XML
     *   [netvl/xml-rs (⭐462)](https://github.com/netvl/xml-rs) - A streaming XML library
     *   [shepmaster/sxd-document (⭐155)](https://github.com/shepmaster/sxd-document) - An XML library
     *   [shepmaster/sxd-xpath (⭐123)](https://github.com/shepmaster/sxd-xpath) - An XPath library
     *   [tafia/quick-xml (⭐1.3k)](https://github.com/tafia/quick-xml) - High performance XML pull reader/writer
+    *   [yaserde (⭐189)](https://github.com/luminvent/yaserde) - Yet Another Serializer/Deserializer specialized for XML
 
 ### Libraries / Graphics
 
@@ -3799,6 +3799,7 @@ A curated list of Rust code and resources.
     *   [branca](https://crates.io/crates/branca) - Implementation of Branca for Authenticated and Encrypted API tokens.
     *   [c410-f3r/wtx (⭐252)](https://github.com/c410-f3r/wtx) - Low and high level HTTP/2 server
     *   [carllerche/tower-web (⭐981)](https://github.com/carllerche/tower-web) \[[tower-web](https://crates.io/crates/tower-web)] - A fast, boilerplate free, web framework
+    *   [Cot (⭐565)](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers.
     *   [GildedHonour/frank\_jwt (⭐252)](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation.
     *   [Gotham (⭐2.3k)](https://github.com/gotham-rs/gotham) - A flexible web framework that does not sacrifice safety, security or speed.
     *   [Graphul (⭐449)](https://github.com/graphul-rs/graphul) - An Express-inspired web framework. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/graphul)
@@ -3855,10 +3856,6 @@ A curated list of Rust code and resources.
 
 ## [Jul 24, 2020](/content/2020/07/24/README.md)
 
-### Applications / System tools
-
-*   [gitui (⭐19k)](https://github.com/extrawurst/gitui) - Blazing fast terminal client for git. [![build](https://github.com/extrawurst/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/extrawurst/gitui/actions)
-
 ### Libraries / Macro
 
 *   [Linq-in-Rust (⭐132)](https://github.com/StardustDL/Linq-in-Rust) - Macro and methods for C#-LINQ-like expressions. [![CI](https://github.com/StardustDL/Linq-in-Rust/workflows/CI/badge.svg?branch=master)](https://github.com/StardustDL/Linq-in-Rust/actions?query=workflow%3ACI)
@@ -3904,7 +3901,7 @@ A curated list of Rust code and resources.
 
 *   [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.6k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [cargo.nvim (⭐66)](https://github.com/nwiizo/cargo.nvim) - A Neovim plugin for seamless integration with Cargo commands.
+    *   [cargo.nvim (⭐69)](https://github.com/nwiizo/cargo.nvim) - A Neovim plugin for seamless integration with Cargo commands.
     *   [crates.nvim (⭐939)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust.vim (⭐4k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐634)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
