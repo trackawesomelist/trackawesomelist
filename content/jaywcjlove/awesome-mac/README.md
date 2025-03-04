@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Mar 04, 2025](/content/2025/03/04/README.md)
+
+### Download Management Tools / Audio Record and Process
+
+*   [Swads](https://swads.app/) - Synology Download Station Client, modern, native, and intuitively redesign.
+
 ## [Mar 03, 2025](/content/2025/03/03/README.md)
 
 ### Developer Tools / API Development and Analysis

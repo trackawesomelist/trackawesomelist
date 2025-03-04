@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sindresorhus/awesome/week/README.md) / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Mar 04, 2025](/content/2025/03/04/README.md)
+
+### Testing
+
+*   [CodeRabbit (⭐25)](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
+
 ## [Feb 28, 2025](/content/2025/02/28/README.md)
 
 ### Miscellaneous
@@ -877,7 +883,7 @@
 
 ### Programming Languages
 
-*   [Python (⭐234k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+*   [Python (⭐236k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
     *   [Asyncio (⭐4.7k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.6k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
     *   [CircuitPython (⭐660)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
@@ -1614,7 +1620,7 @@
 *   [Clojure (⭐2.7k)](https://github.com/razum2um/awesome-clojure#readme)
 *   [ClojureScript (⭐1.1k)](https://github.com/hantuzun/awesome-clojurescript#readme)
 *   [Elixir (⭐13k)](https://github.com/h4cc/awesome-elixir#readme)
-*   [Erlang (⭐1.6k)](https://github.com/drobakowski/awesome-erlang#readme)
+*   [Erlang (⭐1.7k)](https://github.com/drobakowski/awesome-erlang#readme)
 *   [Lua (⭐4.1k)](https://github.com/LewisJEllis/awesome-lua#readme)
 *   [Perl (⭐687)](https://github.com/hachiojipm/awesome-perl#readme)
 *   [Groovy (⭐724)](https://github.com/kdabir/awesome-groovy#readme)
@@ -1712,7 +1718,7 @@
     *   [Papers (⭐26k)](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
     *   [Education (⭐1.7k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 *   [Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision#readme)
-*   [Open Source Society University (⭐175k)](https://github.com/ossu/computer-science#readme)
+*   [Open Source Society University (⭐176k)](https://github.com/ossu/computer-science#readme)
 *   [Functional Programming (⭐975)](https://github.com/lucasviola/awesome-functional-programming#readme)
 *   [Information Retrieval (⭐1.1k)](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 
@@ -1879,7 +1885,7 @@
     *   [Datasets (⭐3.4k)](https://github.com/jdorfman/awesome-json-datasets#readme)
 *   [Discounts for Student Developers (⭐3k)](https://github.com/AchoArnold/discount-for-student-dev#readme)
 *   [Radio (⭐263)](https://github.com/kyleterry/awesome-radio#readme)
-*   [Awesome (⭐347k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
+*   [Awesome (⭐350k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
 *   [REST (⭐3.7k)](https://github.com/marmelab/awesome-rest#readme)
 *   [Services Engineering (⭐3.6k)](https://github.com/mmcgrana/services-engineering#readme)
 *   [Free for Developers (⭐92k)](https://github.com/ripienaar/free-for-dev#readme)

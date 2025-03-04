@@ -12,6 +12,10 @@
 
 *   [Reqable](https://reqable.com) - Next-Gen API Development Tool, Advanced API Debugging Proxy and REST Client. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Download Management Tools / Audio Record and Process
+
+*   [Swads](https://swads.app/) - Synology Download Station Client, modern, native, and intuitively redesign.
+
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 
 ### Utilities / Audio Record and Process

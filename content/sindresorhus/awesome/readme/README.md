@@ -223,7 +223,7 @@
 *   [Swift (⭐25k)](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
     *   [Education (⭐5.7k)](https://github.com/hsavit1/Awesome-Swift-Education#readme)
     *   [Playgrounds (⭐4.3k)](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
-*   [Python (⭐234k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+*   [Python (⭐236k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
     *   [Asyncio (⭐4.7k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.6k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
     *   [CircuitPython (⭐660)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
@@ -242,7 +242,7 @@
 *   [ClojureScript (⭐1.1k)](https://github.com/hantuzun/awesome-clojurescript#readme)
 *   [Elixir (⭐13k)](https://github.com/h4cc/awesome-elixir#readme)
 *   [Elm (⭐3.6k)](https://github.com/sporto/awesome-elm#readme)
-*   [Erlang (⭐1.6k)](https://github.com/drobakowski/awesome-erlang#readme)
+*   [Erlang (⭐1.7k)](https://github.com/drobakowski/awesome-erlang#readme)
 *   [Julia (⭐1.5k)](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 *   [Lua (⭐4.1k)](https://github.com/LewisJEllis/awesome-lua#readme)
 *   [C (⭐3.5k)](https://github.com/inputsh/awesome-c#readme)
@@ -446,7 +446,7 @@
     *   [Papers (⭐26k)](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
     *   [Education (⭐1.7k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 *   [Deep Vision (⭐11k)](https://github.com/kjw0612/awesome-deep-vision#readme)
-*   [Open Source Society University (⭐175k)](https://github.com/ossu/computer-science#readme)
+*   [Open Source Society University (⭐176k)](https://github.com/ossu/computer-science#readme)
 *   [Functional Programming (⭐975)](https://github.com/lucasviola/awesome-functional-programming#readme)
 *   [Empirical Software Engineering (⭐430)](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
 *   [Static Analysis & Code Quality (⭐14k)](https://github.com/analysis-tools-dev/static-analysis#readme)
@@ -767,6 +767,7 @@
 *   [Playwright (⭐1k)](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 *   [Quality Assurance Roadmap (⭐1.9k)](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 *   [Gatling (⭐72)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+*   [CodeRabbit (⭐25)](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
 
 ## Miscellaneous
 
@@ -777,7 +778,7 @@
 *   [CSV (⭐791)](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 *   [Discounts for Student Developers (⭐3k)](https://github.com/AchoArnold/discount-for-student-dev#readme)
 *   [Radio (⭐263)](https://github.com/kyleterry/awesome-radio#readme)
-*   [Awesome (⭐347k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
+*   [Awesome (⭐350k)](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
 *   [Analytics (⭐4k)](https://github.com/0xnr/awesome-analytics#readme)
 *   [REST (⭐3.7k)](https://github.com/marmelab/awesome-rest#readme)
 *   [Continuous Integration and Continuous Delivery (⭐1.9k)](https://github.com/cicdops/awesome-ciandcd#readme)

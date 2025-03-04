@@ -8,6 +8,11 @@
 
 ## [Mar 04, 2025](/content/2025/03/04/README.md)
 
+### Community
+
+*   [/r/Angular Subreddit](https://www.reddit.com/r/Angular/)
+*   [Angular Buddies Slack Channel](https://angularbuddies.slack.com/)
+
 ### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Code Step By Step](https://www.youtube.com/@codestepbystep)
@@ -4367,10 +4372,6 @@
 
 ## [Sep 30, 2020](/content/2020/09/30/README.md)
 
-### Community
-
-*   [Angular Expo](https://angularexpo.com/) showcase.
-
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng2-adsense (⭐138)](https://github.com/scttcper/ng2-adsense) - Angular Adsense Component.
@@ -4532,12 +4533,6 @@
 
 *   [List of 100 Angular Interview questions and answers (⭐4.5k)](https://github.com/sudheerj/angular-interview-questions)
 
-## [Mar 25, 2018](/content/2018/03/25/README.md)
-
-### Community
-
-*   [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
-
 ## [Feb 15, 2018](/content/2018/02/15/README.md)
 
 ### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -4577,11 +4572,6 @@
 *   [Compodoc (⭐4k)](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application.
 
 ## [Nov 06, 2016](/content/2016/11/06/README.md)
-
-### Community
-
-*   [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
-*   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
 
 ### On-Site Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
