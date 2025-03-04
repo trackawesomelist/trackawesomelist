@@ -94,9 +94,14 @@
 
 ## [8. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
+### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Code Step By Step](https://www.youtube.com/@codestepbystep)
+
 ### Accessibility / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-accessible-ui (⭐1)](https://github.com/ShakeelKadri/ngx-accessible-ui) - Accessible Navigation & Menu Directives for Angular 9+. Directives comply with WCAG 2.1 Level AA and the European Accessibility Act 2025, ensuring a highly inclusive web experience.
+*   [easy (⭐3)](https://github.com/richpauly13/easy) - **E**asy **A**ngular **S**tyles with a11**Y**.
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -105,6 +110,10 @@
 ### JSON Forms / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [schema-forms (⭐3)](https://github.com/Jaspero/schema-forms) - A library for building forms through standard JSON schemas.
+
+### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@ngverse/icons (⭐9)](https://github.com/ngverse/icons) - Angular library that allows you to use popular open-source icons as regular components.
 
 ## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
