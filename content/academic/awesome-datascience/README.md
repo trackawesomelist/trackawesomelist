@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Mar 05, 2025](/content/2025/03/05/README.md)
+
+### Other Awesome Lists / Book Deals (Affiliated)
+
+*   [40+ Data Analytics Projects Ideas](https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/)
+
 ## [Feb 27, 2025](/content/2025/02/27/README.md)
 
 ### Datasets / Book Deals (Affiliated)
@@ -1257,7 +1263,7 @@
 *   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
 *   [Awesome Machine Learning (⭐67k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐10k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐234k)](https://github.com/vinta/awesome-python)
+*   [awesome-python (⭐236k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐28k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐6.1k)](https://github.com/qinwf/awesome-R)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐16k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)

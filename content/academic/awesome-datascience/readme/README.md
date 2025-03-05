@@ -1137,7 +1137,7 @@ Some data mining competition platforms
 *   [Awesome Machine Learning (⭐67k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐10k)](https://github.com/jnv/lists)
 *   [awesome-dataviz (⭐3.9k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-python (⭐234k)](https://github.com/vinta/awesome-python)
+*   [awesome-python (⭐236k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐28k)](https://github.com/donnemartin/data-science-ipython-notebooks)
 *   [awesome-r (⭐6.1k)](https://github.com/qinwf/awesome-R)
 *   [awesome-datasets (⭐62k)](https://github.com/awesomedata/awesome-public-datasets)
@@ -1171,6 +1171,7 @@ Some data mining competition platforms
 *   [Data Science and Machine Learning: What’s The Difference?](https://www.appliedaicourse.com/blog/data-science-and-machine-learning-whats-the-difference/)
 *   [AI in Data Science: Uses, Roles, and Tools](https://www.scaler.com/blog/ai-in-data-science/)
 *   [Top 13 Data Science Programming Languages](https://www.appliedaicourse.com/blog/data-science-programming-languages/)
+*   [40+ Data Analytics Projects Ideas](https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/)
 
 ### Hobby
 
