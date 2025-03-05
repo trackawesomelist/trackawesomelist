@@ -2,7 +2,7 @@
 
 A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 71 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 72 · 🏷️ Gaming
 
 [ [Daily](/content/ConstructCommunity/awesome-construct/README.md) / [Weekly](/content/ConstructCommunity/awesome-construct/week/README.md) / Overview ]
 
@@ -19,7 +19,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 This list includes all the best tools, tutorials and examples related to the awesome game development engines [Construct 2](https://www.scirra.com/construct2) and [Construct](https://www.construct.net).
 
-[How to contribute? (⭐71)](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
+[How to contribute? (⭐72)](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
 <p align="center">  
    :sparkles: <a href="https://github.com/WebCreationClub/awesome-construct/blob/master/c2vsc3.md">Compare Construct 2 and Construct 3</a>  :sparkles:
@@ -71,6 +71,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 *   [\[Fábio Smuu\] SDK Plugins Construct 2 (⭐4)](https://github.com/FabioSmuu/SDK_PluginC2)
 *   [\[Scirra\] SDK Plugins Construct 3 - Official (⭐14)](https://github.com/Scirra/Construct-Addon-SDK)
 *   [\[ConstructFund\] C3IDE2-cli (⭐0)](https://github.com/ConstructFund/c3ide2-cli)
+*   [C3 Framework](https://github.com/c3framework) - Automated addon development
 
 ## Export
 
@@ -82,6 +83,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 
 *   [\[Kyatric\] C2 Plugins and Behaviors List](https://www.construct.net/forum/extending-construct-2/addons-29/c2-plugins-and-behaviors-list-42712) - Complete list of Plugins and Behaviours available on the forums.
 *   [\[Kyatric\] WebGL Effects List](https://www.construct.net/forum/extending-construct-2/effects-31/webgl-effects-list-51897) - Complete list of Effects available on the forums.
+*   [Master Pose](https://itch.io/c/2390490/asset-store-) - Complete list of Plugins, Behaviors and Themes made by Master Pose.
 
 ## Tutorials
 
@@ -120,6 +122,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 *   [\[Marcos Game Dev\] Criando Roguelike no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6) - Learn to create a roguelike with RANDOM LEVEL GENERATION, multiple enemies, and a complete platformer character! NOT recommended for beginners.
 *   [\[Marcos Game Dev\] Criando Menu Principal no Construct 2](https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U) - Learn to create a main menu that works for almost any game (focus on desktop). Includes fullscreen/window mode, control mapping, language switch, audio settings, and more.
 *   [Marcos Game Dev](https://www.youtube.com/@MarcosGameDev/videos) - Tutorials & more.
+*   [Master Pose](https://www.youtube.com/@Masterpose/videos) - Spanish tutorials, top lists & news.
 
 ### Other Sources
 

@@ -11,6 +11,7 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Management
 
 *   [Gravitee.io API Management (⭐226) (⭐226)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
+*   [IBM webMethods API Management](https://www.ibm.com/products/webmethods-api-management) - A comprehensive API management solution that provides full lifecycle API management capabilities and enables you to manage APIs in both on-premises and cloud environments.
 
 ### Projects / API Design
 
@@ -38,13 +39,47 @@ A curated list of awesome system integration software and resources.
     *   [Schemathesis (⭐2.4k) (⭐2.4k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
     *   [Taurus (⭐2k) (⭐2k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
 
+### Projects / BRE
+
+*   [FICO Blaze Advisor](https://www.fico.com/en/products/fico-blaze-advisor) - A decision rules engine with a robust authoring interface for both technical and business users, allowing them to effectively create and manage business rules in a recognized world-class decision management solution.
+*   [IBM ODM](https://www.ibm.com/products/operational-decision-manager) - A scalable business rules management system that streamlines authoring, testing, and updating decision logic while maintaining compliance and operational agility.
+*   [Progress Corticon](https://www.progress.com/corticon) - A model-driven business rules management system enabling fast rule creation without coding while delivering high-performance automated decisions with guaranteed integrity.
+
 ### Projects / Data Mapping Solution
 
 *   [JSLT (⭐651) (⭐651)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
 
 ### Projects / ESB
 
+*   [IBM webMethods Integration](https://www.ibm.com/products/webmethods-integration) - An integration platform that enables faster integration of any application.
 *   [WSO2 Enterprise Integrator (⭐383) (⭐383)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
+
+### Projects / ETL
+
+*   [Airbyte (⭐17k)](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes.
+
+### Projects / iPaaS
+
+*   [Celigo Integration Platform](https://www.celigo.com/platform/) - A cloud iPaaS focused on ease of use and prebuilt solutions, especially popular for SaaS-to-SaaS integrations. Celigo (Integrator.io) offers an intuitive interface and a library of templates enabling quick connectivity between business apps.
+*   [IBM webMethods](https://www.ibm.com/products/webmethods) - An all-in-one integration platform that enables software engineers to integrate all their applications in a single platform. This platform simplifies integration processes and improves efficiency.
+*   [SAP Integration Suite](https://www.sap.com/products/technology-platform/integration-suite.html) - A cloud-native integration platform (formerly SAP Cloud Platform Integration) for connecting on-premise and cloud applications. It offers pre-built adapters, API management, and event brokering as part of SAP Business Technology Platform.
+*   [Tray.io](https://tray.ai/) - A low-code general automation platform that empowers citizen integrators to build integrations and workflows via a drag-and-drop interface. Tray.io emphasizes ease-of-use and scalability, enabling business teams to integrate cloud services and automate processes without heavy coding.
+
+### Projects / Managed File Transfer
+
+*   [GoAnywhere MFT](https://www.goanywhere.com/products/goanywhere-mft) - Enterprise MFT solution offering secure, centralized file transfers with multiple protocols, workflow automation, and comprehensive audit logging.
+*   [GlobalSCAPE EFT](https://www.globalscape.com/eft) - A secure, reliable file transfer server (now under Fortra) offering comprehensive features including automation, auditing, and encryption. This customizable, hardened platform helps organizations of all sizes exchange files safely while meeting compliance requirements.
+*   [IBM webMethods MFT](https://www.ibm.com/products/webmethods-mft) - Secure, reliable managed file transfer for mission-critical workloads with flexible hybrid cloud deployment options.
+*   [Progress MOVEit](https://www.progress.com/moveit) - Secure managed file transfer solution (Progress Software, formerly Ipswitch) providing guaranteed delivery, end-to-end encryption, automation, integrity verification, and compliance tools for mission-critical transfers in regulated industries.
+
+### Projects / Master Data Management
+
+*   [Reltio](https://www.reltio.com/products/multidomain-mdm) - A cloud-native multi-domain MDM platform delivered as a SaaS offering. Reltio combines master data management with built-in data quality, governance, and even graph technology for relationships, enabling a real-time, 360° view of business entities.
+
+### Projects / Self-Service Integration
+
+*   [Make (Integromat)](https://www.make.com) - A low-code automation platform that allows users to visually create complex workflows integrating hundreds of apps. Supports advanced data transformation, error handling, and modular workflow execution.
+*   [n8n (⭐64k) (⭐62k)](https://github.com/n8n-io/n8n) - A self-hostable, open-source workflow automation tool with 400 pre-built connectors. Unlike proprietary cloud automation tools, n8n allows full control over data and workflows, making it ideal for privacy-conscious businesses.
 
 ### Projects / Workflow engine
 
@@ -863,7 +898,6 @@ A curated list of awesome system integration software and resources.
 *   [ArcESB](https://www.arcesb.com/integration/) - A versatile integration platform that seamlessly synchronizes data across applications, integrates with partners, and provides data accessibility.
 *   [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - An integration platform that connects, virtualizes, and manages interactions between services and applications.
 *   [Oracle SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html) - A platform that enables system developers to set up and manage services and to orchestrate them into composite applications and business processes.
-*   [Software AG webMethods Integration Server](https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html) - An integration platform that enables faster integration of any application.
 *   [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - A platform that implements enterprise patterns for hybrid integrations.
 *   [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - An ESB that supports zero-copy proxying for extreme performance utilizing Direct Memory Access and Non-Blocking IO.
 
@@ -887,7 +921,6 @@ A curated list of awesome system integration software and resources.
 *   [OpenText Alloy](https://businessnetwork.opentext.com/enterprise-data-management/) - A powerful enterprise data management platform that empowers organizations to move beyond basic integration and turn data into insights and action. Software engineers can use this platform to manage data and improve business outcomes.
 *   [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/) - A robust platform that accelerates time to go live with pre-built connectivity to any SaaS or on-premises application. Software engineers can use this platform to simplify integration processes and streamline operations.
 *   [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform) - A comprehensive integration platform that connects various applications and data landscapes. Software engineers can use this platform to integrate data and applications quickly and efficiently.
-*   [Software AG webMethods Hybrid Integration Platform](https://www.softwareag.com/en_corporate/platform/integration-apis/application-integration.html) - An all-in-one integration platform that enables software engineers to integrate all their applications in a single platform. This platform simplifies integration processes and improves efficiency.
 *   [TIBCO Cloud Integration](https://www.tibco.com/products/cloud-integration) - A flexible platform that enables software engineers to integrate anything with API-led and event-driven integration. This platform empowers everyone to integrate anything, making integration processes faster and more efficient.
 *   [Workato](https://www.workato.com/) - A single platform for integration and workflow automation across your organization, providing software engineers with a powerful platform for simplifying integration processes and streamlining operations.
 
@@ -905,7 +938,6 @@ A curated list of awesome system integration software and resources.
 *   [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - Helps you adapt and respond to change faster and more effectively by centralizing and managing your master data.
 *   [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - Streamlines and improves the quality and consistency of your data by consolidating and centrally governing your master data lifecycle.
 *   [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - Provides a unified view of your corporate data, integrating information from various sources into one master record for greater accuracy and consistency.
-*   [Software AG OneData for MDM](https://www.softwareag.com/resources/Master-data-management) - Ensures that only reliable, accurate, and approved information flows through your systems, processes, and applications, providing "one version of the truth."
 *   [Teradata MDM](https://www.teradata.co.uk/Products/Applications/Master-Data-Management) - Establishes an accurate analytical data foundation by using consistent reference data, driving significant ROI.
 *   [TIBCO EBX](https://www.tibco.com/products/tibco-ebx-software) - A single solution to govern, manage, and consume all shared data assets, ensuring greater consistency and accuracy across your organization.
 
@@ -985,7 +1017,6 @@ A curated list of awesome system integration software and resources.
 *   [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - A cloud-native API management solution that simplifies the development of APIs and makes them more flexible.
 *   [Sensedia API Management](https://www.sensedia.com/api-management-platform) - A full lifecycle API management platform that provides comprehensive API management capabilities and helps you manage APIs throughout their lifecycle.
 *   [Tyk API Management](https://tyk.io/api-lifecycle-management/) - A powerful API management solution that allows you to connect, build, and control APIs with ease.
-*   [webMethods API](https://www.softwareag.cloud/site/product/webmethods-api.html) - A comprehensive API management solution from Software AG that provides full lifecycle API management capabilities and enables you to manage APIs in both on-premises and cloud environments.
 
 ### Projects / BPM
 

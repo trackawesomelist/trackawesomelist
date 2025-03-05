@@ -131,6 +131,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐974)](https://g
 *   [TypeScript](#typescript)
 *   [Verilog/SystemVerilog](#verilog)
 *   [Vim Script](#vim-script)
+*   [WebAssembly](#wasm)
 
 #### [Multiple Languages](#multiple-languages-1)
 
@@ -177,7 +178,6 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐974)](https://g
 *   [Terraform](#terraform)
 *   [Translation](#translation)
 *   [Vue.js](#vue)
-*   [Webassembly](#wasm)
 *   [Writing](#writing)
 *   [YAML](#yaml)
 *   [git](#git)
@@ -1281,6 +1281,13 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐974)](https://g
 
 *   [vint (⭐704)](https://github.com/Kuniwak/vint) :warning: — Fast and Highly Extensible Vim script Language Lint implemented by Python.
 
+<a name="wasm" />
+<h2>WebAssembly</h2>
+
+*   [Twiggy](https://rustwasm.github.io/twiggy) :warning: — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
+
+*   [wasm-language-tools (⭐20)](https://github.com/g-plane/wasm-language-tools) — WebAssembly Language Tools aims to provide and improve the editing experience of WebAssembly Text Format. It also provides an out-of-the-box formatter (a.k.a. pretty printer) for WebAssembly Text Format.
+
 ## Multiple languages
 
 *   [ale (⭐14k)](https://github.com/w0rp/ale) — Asynchronous Lint Engine for Vim and NeoVim with support for many languages.
@@ -2155,11 +2162,6 @@ but with the following improvements:
 *   [HTML-Validate](https://html-validate.org/) — Offline HTML5 validator.
 
 *   [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) :warning: — Vue tooling for VS Code, powered by vls (vue language server). Vetur has support for formatting embedded HTML, CSS, SCSS, JS, TypeScript, and more. Vetur only has a "whole document formatter" and cannot format arbitrary ranges.
-
-<a name="wasm" />
-<h2>Webassembly</h2>
-
-*   [Twiggy](https://rustwasm.github.io/twiggy) :warning: — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
 
 <a name="writing" />
 <h2>Writing</h2>

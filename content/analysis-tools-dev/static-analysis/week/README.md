@@ -6,6 +6,12 @@
 
 [ [Daily](/content/analysis-tools-dev/static-analysis/README.md) / Weekly / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [wasm-language-tools (⭐20)](https://github.com/g-plane/wasm-language-tools) — WebAssembly Language Tools aims to provide and improve the editing experience of WebAssembly Text Format. It also provides an out-of-the-box formatter (a.k.a. pretty printer) for WebAssembly Text Format.
+
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 
 ### Multiple languages / [Other](#other-1)
@@ -1167,9 +1173,9 @@
 
 *   [dawnscanner (⭐738)](https://github.com/thesp0nge/dawnscanner) — A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
 *   [Angular ESLint (⭐1.7k)](https://github.com/angular-eslint/angular-eslint#readme) — Linter for Angular projects
+*   [Twiggy](https://rustwasm.github.io/twiggy) :warning: — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
 *   [kics](https://kics.io/) — Find security vulnerabilities, compliance issues, and infrastructure misconfigurations in your infrastructure-as-code. Supports Terraform, Kubernetes, Docker, AWS CloudFormation and Ansible
 *   [AzSK](https://azsk.azurewebsites.net/) — Secure DevOps kit for Azure (AzSK) provides security IntelliSense, Security Verification Tests (SVTs), CICD scan vulnerabilities, compliance issues, and infrastructure misconfiguration in your infrastructure-as-code. Supports Azure via ARM.
-*   [Twiggy](https://rustwasm.github.io/twiggy) :warning: — Analyzes a binary's call graph to profile code size. The goal is to slim down wasm binary size.
 *   [checkmake (⭐1.1k)](https://github.com/mrtazz/checkmake) :warning: — Linter / Analyzer for Makefiles.
 *   [metadata-json-lint (⭐30)](https://github.com/voxpupuli/metadata-json-lint) — Tool to check the validity of Puppet metadata.json files.
 *   [deno\_lint (⭐1.6k)](https://github.com/denoland/deno_lint) — Official linter for Deno.

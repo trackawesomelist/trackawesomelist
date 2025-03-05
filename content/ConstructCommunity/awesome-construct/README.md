@@ -2,9 +2,23 @@
 
 A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 71 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 72 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/ConstructCommunity/awesome-construct/week/README.md) / [Overview](/content/ConstructCommunity/awesome-construct/readme/README.md) ]
+
+## [Mar 05, 2025](/content/2025/03/05/README.md)
+
+### Tools / Develop
+
+*   [C3 Framework](https://github.com/c3framework) - Automated addon development
+
+### Plugins/Behaviors/Effects / Develop
+
+*   [Master Pose](https://itch.io/c/2390490/asset-store-) - Complete list of Plugins, Behaviors and Themes made by Master Pose.
+
+### Tutorials / YouTube
+
+*   [Master Pose](https://www.youtube.com/@Masterpose/videos) - Spanish tutorials, top lists & news.
 
 ## [Feb 17, 2025](/content/2025/02/17/README.md)
 

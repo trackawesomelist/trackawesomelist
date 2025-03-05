@@ -71,12 +71,12 @@ System integration is the process of linking together different IT systems (com
 *   [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - A complete package from Torry Harris that helps you manage your APIs and turn them into tools that can drive your business forward.
 *   [Gravitee.io API Management (⭐226) (⭐226)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
 *   [IBM API Connect](https://www.ibm.com/cloud/api-connect) - A complete, intuitive, and scalable API platform that allows you to create, expose, manage, and monetize APIs across clouds.
+*   [IBM webMethods API Management](https://www.ibm.com/products/webmethods-api-management) - A comprehensive API management solution that provides full lifecycle API management capabilities and enables you to manage APIs in both on-premises and cloud environments.
 *   [Kong Enterprise](https://konghq.com/products/kong-enterprise) - A comprehensive service connectivity platform that provides a range of API management capabilities and allows you to manage APIs, microservices, and service meshes with ease.
 *   [Layer7 API Management](https://www.broadcom.com/products/software/api-management) - A continuous API management solution from Broadcom that provides comprehensive API management capabilities and helps you manage APIs throughout their lifecycle.
 *   [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - A cloud-native API management solution that simplifies the development of APIs and makes them more flexible.
 *   [Sensedia API Management](https://www.sensedia.com/api-management-platform) - A full lifecycle API management platform that provides comprehensive API management capabilities and helps you manage APIs throughout their lifecycle.
 *   [Tyk API Management](https://tyk.io/api-lifecycle-management/) - A powerful API management solution that allows you to connect, build, and control APIs with ease.
-*   [webMethods API](https://www.softwareag.cloud/site/product/webmethods-api.html) - A comprehensive API management solution from Software AG that provides full lifecycle API management capabilities and enables you to manage APIs in both on-premises and cloud environments.
 *   [WSO2 API Manager (⭐877) (⭐877)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
 *   [Zuplo API Management](https://zuplo.com) - Light-weight, fully-managed API Management platform, built for developers with unique features like GitOps, fast deployments to the edge, unlimited preview environments, full OpenAPI support, API monetization with Stripe, and more.
 
@@ -201,8 +201,11 @@ System integration is the process of linking together different IT systems (com
 
 *   [Drools (⭐5.9k) (⭐6k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
 *   [Easy Rules (⭐4.9k) (⭐5k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
+*   [FICO Blaze Advisor](https://www.fico.com/en/products/fico-blaze-advisor) - A decision rules engine with a robust authoring interface for both technical and business users, allowing them to effectively create and manage business rules in a recognized world-class decision management solution.
+*   [IBM ODM](https://www.ibm.com/products/operational-decision-manager) - A scalable business rules management system that streamlines authoring, testing, and updating decision logic while maintaining compliance and operational agility.
 *   [NxBRE (⭐131) (⭐131)](https://github.com/ddossot/NxBRE) - Open-source rule engine specifically designed for the .NET platform.
 *   [OpenL Tablets (⭐164) (⭐164)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
+*   [Progress Corticon](https://www.progress.com/corticon) - A model-driven business rules management system enabling fast rule creation without coding while delivering high-performance automated decisions with guaranteed integrity.
 
 <!--lint disable-->
 
@@ -252,11 +255,11 @@ System integration is the process of linking together different IT systems (com
 *   [Apache ServiceMix](https://servicemix.apache.org/) - An open-source integration container that combines the functionality of Apache ActiveMQ, Camel, CXF, and Karaf, providing a flexible solution.
 *   [ArcESB](https://www.arcesb.com/integration/) - A versatile integration platform that seamlessly synchronizes data across applications, integrates with partners, and provides data accessibility.
 *   [IBM App Connect](https://www.ibm.com/cloud/app-connect) - An integration platform that can connect applications, irrespective of the message formats or protocols they use, formerly known as IBM Integration Bus.
+*   [IBM webMethods Integration](https://www.ibm.com/products/webmethods-integration) - An integration platform that enables faster integration of any application.
 *   [NServiceBus (⭐2.1k) (⭐2.1k)](https://github.com/Particular/NServiceBus) - A .NET-based service bus that offers an intuitive developer-friendly environment.
 *   [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - An integration platform that connects, virtualizes, and manages interactions between services and applications.
 *   [Oracle SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html) - A platform that enables system developers to set up and manage services and to orchestrate them into composite applications and business processes.
 *   [Red Hat Fuse](https://developers.redhat.com/products/fuse/overview) - A cloud-native integration platform that supports distributed integration capabilities.
-*   [Software AG webMethods Integration Server](https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html) - An integration platform that enables faster integration of any application.
 *   [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - A platform that implements enterprise patterns for hybrid integrations.
 *   [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - An ESB that supports zero-copy proxying for extreme performance utilizing Direct Memory Access and Non-Blocking IO.
 *   [WSO2 Enterprise Integrator (⭐383) (⭐383)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
@@ -272,6 +275,7 @@ System integration is the process of linking together different IT systems (com
 *ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) are processes used to integrate and consolidate data from multiple sources. This section covers a range of open source and commercial tools for performing these tasks, including data ingestion, transformation, and loading into data warehouses or other data storage systems.*
 
 *   [Apache NiFi (⭐5.1k) (⭐5.1k)](https://github.com/apache/nifi) - An automated data integration platform that efficiently moves data between disparate systems.
+*   [Airbyte (⭐17k)](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes.
 *   [CloverETL](http://www.cloveretl.com/) - A comprehensive data integration software suite, ideal for data migration, warehousing, and feeding data into BI and reporting apps.
 *   [Hevo](https://hevodata.com/) - A fully automated, no-code data pipeline platform supporting 150+ integrations across databases, SaaS apps, cloud storage, SDKs, and streaming services.
 *   [IBM DataStage](https://www.ibm.com/products/datastage) - A powerful data integration platform that helps businesses understand, cleanse, transform, and deliver trusted information.
@@ -310,14 +314,17 @@ System integration is the process of linking together different IT systems (com
 
 *   [Anypoint Platform](https://www.mulesoft.com/platform/saas/cloudhub-ipaas-cloud-based-integration) - A powerful integration platform that combines API management and integration capabilities in a single platform, enabling software engineers to integrate various applications with ease.
 *   [Boomi AtomSphere](https://boomi.com/platform) - A cloud-native, unified, open, and intelligent platform that connects everything and everyone, allowing software engineers to create and manage integrations easily.
+*   [Celigo Integration Platform](https://www.celigo.com/platform/) - A cloud iPaaS focused on ease of use and prebuilt solutions, especially popular for SaaS-to-SaaS integrations. Celigo (Integrator.io) offers an intuitive interface and a library of templates enabling quick connectivity between business apps.
 *   [Jitterbit Harmony](https://www.jitterbit.com/platform/ipaas) - A comprehensive integration platform that provides pre-built templates and workflows to automate business processes. It integrates thousands of applications and simplifies integration for software engineers.
 *   [IBM Cloud Integration](https://www.ibm.com/cloud/integration) - A next-generation integration platform that uses AI to provide software engineers with an innovative approach to integration. This platform accelerates integration processes, making it faster and more scalable.
+*   [IBM webMethods](https://www.ibm.com/products/webmethods) - An all-in-one integration platform that enables software engineers to integrate all their applications in a single platform. This platform simplifies integration processes and improves efficiency.
 *   [Informatica Intelligent Cloud Services](https://www.informatica.com/products/cloud-integration.html) - A suite of cloud data management products designed to accelerate productivity and improve speed and scale. Software engineers can use this platform to manage data and integrate applications efficiently.
 *   [OpenText Alloy](https://businessnetwork.opentext.com/enterprise-data-management/) - A powerful enterprise data management platform that empowers organizations to move beyond basic integration and turn data into insights and action. Software engineers can use this platform to manage data and improve business outcomes.
 *   [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/) - A robust platform that accelerates time to go live with pre-built connectivity to any SaaS or on-premises application. Software engineers can use this platform to simplify integration processes and streamline operations.
+*   [SAP Integration Suite](https://www.sap.com/products/technology-platform/integration-suite.html) - A cloud-native integration platform (formerly SAP Cloud Platform Integration) for connecting on-premise and cloud applications. It offers pre-built adapters, API management, and event brokering as part of SAP Business Technology Platform.
 *   [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform) - A comprehensive integration platform that connects various applications and data landscapes. Software engineers can use this platform to integrate data and applications quickly and efficiently.
-*   [Software AG webMethods Hybrid Integration Platform](https://www.softwareag.com/en_corporate/platform/integration-apis/application-integration.html) - An all-in-one integration platform that enables software engineers to integrate all their applications in a single platform. This platform simplifies integration processes and improves efficiency.
 *   [TIBCO Cloud Integration](https://www.tibco.com/products/cloud-integration) - A flexible platform that enables software engineers to integrate anything with API-led and event-driven integration. This platform empowers everyone to integrate anything, making integration processes faster and more efficient.
+*   [Tray.io](https://tray.ai/) - A low-code general automation platform that empowers citizen integrators to build integrations and workflows via a drag-and-drop interface. Tray.io emphasizes ease-of-use and scalability, enabling business teams to integrate cloud services and automate processes without heavy coding.
 *   [Workato](https://www.workato.com/) - A single platform for integration and workflow automation across your organization, providing software engineers with a powerful platform for simplifying integration processes and streamlining operations.
 
 <!--lint disable-->
@@ -364,10 +371,14 @@ System integration is the process of linking together different IT systems (com
 
 *   [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - A comprehensive solution for enterprises seeking to streamline file transfer processes. Its user-friendly interface and powerful capabilities provide an all-in-one MFT solution that can efficiently handle file transfers.
 *   [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - Designed to simplify file transfer services for businesses, this MFT solution offers advanced features and security measures to ensure secure and reliable data transfer.
-*   [Titan MFT Server](https://southrivertech.com/titan-mft-server/) - An enterprise-level MFT server solution with high availability and failover capabilities, providing an efficient way to automate and manage large-scale file transfers.
+*   [GoAnywhere MFT](https://www.goanywhere.com/products/goanywhere-mft) - Enterprise MFT solution offering secure, centralized file transfers with multiple protocols, workflow automation, and comprehensive audit logging.
+*   [GlobalSCAPE EFT](https://www.globalscape.com/eft) - A secure, reliable file transfer server (now under Fortra) offering comprehensive features including automation, auditing, and encryption. This customizable, hardened platform helps organizations of all sizes exchange files safely while meeting compliance requirements.
 *   [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - A fast and scalable file transfer platform that offers advanced security features and flexible architecture. It is ideal for businesses that require a reliable and secure MFT platform.
+*   [IBM webMethods MFT](https://www.ibm.com/products/webmethods-mft) - Secure, reliable managed file transfer for mission-critical workloads with flexible hybrid cloud deployment options.
 *   [Oracle Managed File Transfer](https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html) - A comprehensive MFT solution that enables secure file exchange and management, providing a reliable and efficient way for businesses to transfer data with ease.
+*   [Progress MOVEit](https://www.progress.com/moveit) - Secure managed file transfer solution (Progress Software, formerly Ipswitch) providing guaranteed delivery, end-to-end encryption, automation, integrity verification, and compliance tools for mission-critical transfers in regulated industries.
 *   [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - A centrally managed MFT platform with powerful automation capabilities and advanced security features, capable of supporting all file transfer use cases. It is an ideal choice for businesses that require a comprehensive MFT solution.
+*   [Titan MFT Server](https://southrivertech.com/titan-mft-server/) - An enterprise-level MFT server solution with high availability and failover capabilities, providing an efficient way to automate and manage large-scale file transfers.
 
 <!--lint disable-->
 
@@ -382,9 +393,9 @@ System integration is the process of linking together different IT systems (com
 *   [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - A comprehensive solution for managing master data that provides a single source of truth across your organization.
 *   [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - An all-in-one solution that enables you to manage and govern all your master data domains in one place.
 *   [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - Helps you adapt and respond to change faster and more effectively by centralizing and managing your master data.
+*   [Reltio](https://www.reltio.com/products/multidomain-mdm) - A cloud-native multi-domain MDM platform delivered as a SaaS offering. Reltio combines master data management with built-in data quality, governance, and even graph technology for relationships, enabling a real-time, 360° view of business entities.
 *   [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - Streamlines and improves the quality and consistency of your data by consolidating and centrally governing your master data lifecycle.
 *   [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - Provides a unified view of your corporate data, integrating information from various sources into one master record for greater accuracy and consistency.
-*   [Software AG OneData for MDM](https://www.softwareag.com/resources/Master-data-management) - Ensures that only reliable, accurate, and approved information flows through your systems, processes, and applications, providing "one version of the truth."
 *   [Teradata MDM](https://www.teradata.co.uk/Products/Applications/Master-Data-Management) - Establishes an accurate analytical data foundation by using consistent reference data, driving significant ROI.
 *   [TIBCO EBX](https://www.tibco.com/products/tibco-ebx-software) - A single solution to govern, manage, and consume all shared data assets, ensuring greater consistency and accuracy across your organization.
 
@@ -443,7 +454,9 @@ System integration is the process of linking together different IT systems (com
 *Self-service and citizen integrator tools are designed to enable non-technical users to build integrations without the need for extensive programming knowledge. These tools typically feature drag-and-drop interfaces and pre-built connectors for popular applications and services.*
 
 *   [IFTTT](https://ifttt.com/) - A powerful self-service and citizen integrator tool that enables users to create custom workflows by connecting multiple web services with conditional statements, boosting productivity with ease.
+*   [Make (Integromat)](https://www.make.com) - A low-code automation platform that allows users to visually create complex workflows integrating hundreds of apps. Supports advanced data transformation, error handling, and modular workflow execution.
 *   [Microsoft Power Automate](https://powerautomate.microsoft.com) - This cloud-based service offers a user-friendly interface to create automated workflows seamlessly, integrating different applications and services with ease, simplifying complex tasks.
+*   [n8n (⭐64k) (⭐62k)](https://github.com/n8n-io/n8n) - A self-hostable, open-source workflow automation tool with 400 pre-built connectors. Unlike proprietary cloud automation tools, n8n allows full control over data and workflows, making it ideal for privacy-conscious businesses.
 *   [Oracle Self-Service Integration](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html) - Automate tasks between various cloud applications with ease using Oracle's Self-Service Integration tool, providing a seamless and efficient integration process.
 *   [Zapier](https://zapier.com/) - An intuitive automation tool that connects hundreds of web services to create automations between processes with ease, streamlining tasks, and enhancing overall productivity.
 
