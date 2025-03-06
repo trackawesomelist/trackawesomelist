@@ -1009,7 +1009,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Box2D (⭐8.6k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 *   [Bullet (⭐13k)](https://github.com/bulletphysics/bullet3) - A 3D physics engine for games. \[zlib] [website](http://bulletphysics.org)
 *   [Chipmunk (⭐2.3k)](https://github.com/slembcke/Chipmunk2D) - A fast and lightweight 2D game physics library. \[MIT] [website](https://chipmunk-physics.net/)
-*   [Jolt Physics (⭐7.3k)](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. \[MIT]
+*   [Jolt Physics (⭐7.5k)](https://github.com/jrouwe/JoltPhysics) - A multi core friendly rigid body physics and collision detection library. \[MIT]
 *   [Kratos (⭐1.1k)](https://github.com/KratosMultiphysics/Kratos) - framework for building parallel, multi-disciplinary simulation software, aiming at modularity, extensibility, and high performance. \[BSD] [website](http://www.cimne.com/kratos/)
 *   [LiquidFun (⭐4.8k)](https://github.com/google/liquidfun) - A 2D physics engine for games. \[BSD-like]
 *   [Newton Dynamics (⭐959)](https://github.com/MADEAPPS/newton-dynamics) - An integrated solution for real time simulation of physics environments. \[zlib]
@@ -1291,6 +1291,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [SDS (⭐5k)](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. \[BSD]
 *   [semver.c (⭐188)](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. \[MIT]
 *   [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. \[PublicDomain]
+*   [palacaze/sigslot (⭐755)](https://github.com/palacaze/sigslot) - A simple, header only, C++14 signal-slots implementation \[MIT]
 *   [simdzone (⭐126)](https://github.com/NLnetLabs/simdzone) - Fast and standards compliant DNS zone parser. \[BSD-3-Clause]
 *   [SimpleSignal (⭐166)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 *   [Stage (⭐407)](https://github.com/rtv/Stage) - Mobile robot simulator. \[GPL2]
@@ -1592,7 +1593,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [lists (⭐10k)](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 *   [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [awesome (⭐347k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [awesome (⭐350k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 *   [C++ links (⭐4.8k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 *   [Awesome C++](https://cpp.libhunt.com/) - LibHunt's mirror.
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1

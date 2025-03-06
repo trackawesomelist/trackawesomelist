@@ -1,37 +1,49 @@
 # Awesome List Updates on Mar 10 - Mar 16, 2025
 
-23 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+
+### Resources / Blog posts
+
+*   [Working With Python Polars](https://realpython.com/courses/working-with-python-polars/) - 7-lesson online video course that covers various topics related todata manipulation with Polars by [@cltrudeau](https://github.com/cltrudeau).
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Miscellaneous
+
+*   [palacaze/sigslot (⭐755)](https://github.com/palacaze/sigslot) - A simple, header only, C++14 signal-slots implementation \[MIT]
+
+## [3. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Resources / Books
 
 *   [Django for APIs, Fifth Edition](https://learndjango.com/courses/django-for-apis/)
 *   [Django for Beginners, Fifth Edition](https://learndjango.com/courses/django-for-beginners/)
 
-## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### Java / Spring Boot
 
 *   [Building modern Web Apps with Spring Boot and Vaadin](https://vaadin.com/docs/v14/flow/tutorial/overview) - Vaadin (HTML)
 
-## [3. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Eino (⭐1.7k)](https://github.com/cloudwego/eino): Eino provides a Golang AI application development framework with various component integrations and the ability to orchestrate Chains and Graphs similar to LangChain and LangGraph. ![GitHub Repo stars](https://img.shields.io/github/stars/cloudwego/eino?style=social)
 
-## [4. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [6. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
 *   [Raspberry Pi 500](https://www.raspberrypi.com/products/raspberry-pi-500/) (December 2024)
 
-## [5. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [7. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Tutorials / Hardware Offload
 
@@ -42,7 +54,7 @@
 
 *   [inspektor-gadget](https://inspektor-gadget.io) - A collection tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 
-## [6. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [8. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Tools / Develop
 
@@ -56,13 +68,13 @@
 
 *   [Master Pose](https://www.youtube.com/@Masterpose/videos) - Spanish tutorials, top lists & news.
 
-## [7. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [wasm-language-tools (⭐20)](https://github.com/g-plane/wasm-language-tools) — WebAssembly Language Tools aims to provide and improve the editing experience of WebAssembly Text Format. It also provides an out-of-the-box formatter (a.k.a. pretty printer) for WebAssembly Text Format.
 
-## [8. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -171,55 +183,55 @@
 *   [NDJSON (⭐715) (⭐715)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐375) (⭐374)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [11. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Online Tools and Applications
 
 *   [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input.
 
-## [10. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [12. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Internationalization
 
 *   [Falsehoods about Language](https://www.lexiconista.com/falsehoods-about-languages/) - Additional cases to complement the previous article.
 
-## [11. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [13. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Go / React
 
 *   [gql (⭐4)](https://github.com/kadirpekel/gql) - Code first graphql (graphql-go/graphql) schema builder.
 
-## [12. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [14. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [40+ Data Analytics Projects Ideas](https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/)
 
-## [13. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [15. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
 *   [veb (⭐36k)](https://github.com/vlang/v/tree/master/vlib/veb) - V's built-in web framework.
 
-## [14. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [16. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Testing
 
 *   [CodeRabbit (⭐25)](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
 
-## [15. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [17. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
 *   [Playwright CRX (⭐214)](https://github.com/ruifigueira/playwright-crx) - Playwright codegen as a chrome extension. Available in [Chrome Web Store](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd).
 
-## [16. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Go Compilers
 
 *   [go2hx (⭐107)](https://github.com/go2hx/go2hx) - Compiler from Go to Haxe to Javascript/C++/Java/C#.
 
-## [17. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [19. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / ESP-NOW
 
@@ -257,7 +269,7 @@
 
 *   [pye (⭐232)](https://github.com/robert-hh/Micropython-Editor) - On device editor.
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / API Development and Analysis
 
@@ -267,13 +279,13 @@
 
 *   [Swads](https://swads.app/) - Synology Download Station Client, modern, native, and intuitively redesign.
 
-## [19. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [21. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Lecture Notes / Monograph
 
 *   [Cambridge Foundations of CS](https://www.cl.cam.ac.uk/teaching/2425/FoundsCS/materials.html) - It teaches programming and presents some fundamental principles of computer science, especially algorithm design.
 
-## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / System tools
 
@@ -283,7 +295,7 @@
 
 *   [iggy (⭐2.3k)](https://github.com/apache/iggy) \[[iggy](https://crates.io/crates/iggy)] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/apache/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/apache/iggy/actions/workflows/test.yml)
 
-## [21. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [23. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Learning
 
@@ -297,7 +309,7 @@
 
 *   [nvd](https://git.sr.ht/~khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 
-## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [24. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
@@ -326,7 +338,7 @@
 
 *   [@ngverse/icons (⭐9)](https://github.com/ngverse/icons) - Angular library that allows you to use popular open-source icons as regular components.
 
-## [23. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 

@@ -1,19 +1,31 @@
 # Awesome List Updates on Mar 06, 2025
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Resources / Blog posts
+
+*   [Working With Python Polars](https://realpython.com/courses/working-with-python-polars/) - 7-lesson online video course that covers various topics related todata manipulation with Polars by [@cltrudeau](https://github.com/cltrudeau).
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Miscellaneous
+
+*   [palacaze/sigslot (⭐755)](https://github.com/palacaze/sigslot) - A simple, header only, C++14 signal-slots implementation \[MIT]
+
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Resources / Books
 
 *   [Django for APIs, Fifth Edition](https://learndjango.com/courses/django-for-apis/)
 *   [Django for Beginners, Fifth Edition](https://learndjango.com/courses/django-for-beginners/)
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Design
 
@@ -63,13 +75,13 @@
 
 *   [YAML (⭐375) (⭐374)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular Application UIs 50% faster with PureCode AI.
 
-## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
 ### Java / Spring Boot
 
