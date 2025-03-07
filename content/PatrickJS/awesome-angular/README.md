@@ -6,6 +6,17 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Mar 07, 2025](/content/2025/03/07/README.md)
+
+### Deployment / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [actions-angular-deploy (⭐1)](https://github.com/OrthoFi/actions-angular-deploy)
+*   [actions-angular-ci-cd (⭐1)](https://github.com/OrthoFi/actions-angular-ci-cd)
+
+### Feature Flags / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-unleash-proxy-client (⭐10)](https://github.com/Karelics/angular-unleash-proxy-client) - Angular wrapper for [unleash](https://www.getunleash.io/) and [unleash-proxy-client-js (⭐47)](https://github.com/Unleash/unleash-proxy-client-js).
+
 ## [Mar 06, 2025](/content/2025/03/06/README.md)
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

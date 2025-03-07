@@ -586,6 +586,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Genezio (⭐491)](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 *   [Cloudflare Pages](https://developers.cloudflare.com/pages/framework-guides/deploy-an-angular-site/#create-a-new-project-using-the-create-cloudflare-cli-c3)
 *   [Zerops](https://zerops.io/) - Zerops makes deploying and running Analog apps, both [server side rendered (⭐2)](https://github.com/zeropsio/recipe-analog-nodejs) and [static (⭐4)](https://github.com/zeropsio/recipe-analog-static), a breeze.
+*   [actions-angular-deploy (⭐1)](https://github.com/OrthoFi/actions-angular-deploy)
+*   [actions-angular-ci-cd (⭐1)](https://github.com/OrthoFi/actions-angular-ci-cd)
 
 #### Developer tools
 
@@ -635,6 +637,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-flagr (⭐10)](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
 *   [ngx-growthbook (⭐1)](https://github.com/carlcrede/ngx-growthbook-workspace/tree/master/projects/ngx-growthbook) - An Angular wrapper for [GrowthBook](https://www.growthbook.io/), providing feature flags and A/B testing capabilities with full TypeScript support.
 *   [Flagsmith](https://www.flagsmith.com/) - Ship Faster and Control Releases with Feature Flag Management.
+*   [angular-unleash-proxy-client (⭐10)](https://github.com/Karelics/angular-unleash-proxy-client) - Angular wrapper for [unleash](https://www.getunleash.io/) and [unleash-proxy-client-js (⭐47)](https://github.com/Unleash/unleash-proxy-client-js).
 
 #### Generators
 

@@ -384,14 +384,14 @@ Any comments, suggestions? [Let us know! (⭐80k)](https://github.com/jaywcjlove
 
 ### API Development and Analysis
 
+*   [bruno](https://www.usebruno.com/) - Bruno is a offline-only, fast and git-friendly opensource API client.![Freeware][Freeware Icon]
 *   [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Free, open-source, native Apple OS X app for testing HTTP/REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
+*   [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.![Freeware][Freeware Icon]
 *   [Insomnia](https://insomnia.rest/) - The most intuitive cross-platform REST API Client. [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
+*   [Katalon Studio](https://www.katalon.com) - Simplify API, Web, and Mobile Automation Tests. ![Freeware][Freeware Icon]
 *   [Paw](https://paw.cloud/) - Advanced HTTP client.
 *   [Postman](https://www.getpostman.com) - GUI platform for API development. ![Freeware][Freeware Icon]
 *   [Reqable](https://reqable.com) - Next-Gen API Development Tool, Advanced API Debugging Proxy and REST Client. ![Freeware][Freeware Icon]
-*   [Katalon Studio](https://www.katalon.com) - Simplify API, Web, and Mobile Automation Tests. ![Freeware][Freeware Icon]
-*   [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.![Freeware][Freeware Icon]
-*   [bruno](https://www.usebruno.com/) - Bruno is a offline-only, fast and git-friendly opensource API client.![Freeware][Freeware Icon]
 
 ### Network Analysis
 
@@ -438,6 +438,7 @@ Any comments, suggestions? [Let us know! (⭐80k)](https://github.com/jaywcjlove
 *   [SmartGit](http://www.syntevo.com/smartgit/) - Git client with support.
 *   [SourceTree](https://www.sourcetreeapp.com/) - Free Git & Mercurial client for Windows or Mac. ![Freeware][Freeware Icon]
 *   [Sublime Merge](https://www.sublimemerge.com/) -  Git client, from the makers of Sublime Text.
+*   [Tempo (⭐5)](https://github.com/maoyama/Tempo) - GUI Git client. Replace the Git CLI with a clear UI and AI assist. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/maoyama/Tempo)
 *   [Tower2](https://www.git-tower.com/) - The most powerful Git client for Mac and Windows.
 *   [Vershd](https://vershd.io/) - The free for personal use effortless Git GUI, for Windows, Mac, & Linux. ![Freeware][Freeware Icon]
 *   [Versions](https://www.versionsapp.com/) - Mac Subversion (SVN) Client.
@@ -1135,7 +1136,7 @@ Any comments, suggestions? [Let us know! (⭐80k)](https://github.com/jaywcjlove
 *   [Slate (⭐7.8k)](https://github.com/jigish/slate) - Window management application similar to Divvy and SizeUp (except better and free!). (**Needs config file**) [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jigish/slate)
 *   [Swift Shift](https://swiftshift.app) - Use your mouse with a keyboard shortcut to move and resize your windows quickly. It offers options to customize the draggable areas and mouse behavior. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/pablopunk/swiftshift)
 *   [Tiles](https://freemacsoft.net/tiles/) - Easily reorganize windows by either dragging them to the edges of the screen, using keyboard shortcuts, or the menu bar. ![Freeware][Freeware Icon]
-*   [Topit (⭐713)](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]\([https://github.com/lihaoyun6/Topit (⭐713)](https://github.com/lihaoyun6/Topit))
+*   [Topit (⭐713)](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/Topit) ![Freeware][Freeware Icon]
 *   [Total Spaces](http://totalspaces.binaryage.com/) - Provides window management much like ubuntu. Creates hotkeys for workspaces which allows you to easily move around.
 *   [yabai (⭐25k)](https://github.com/koekeishiya/yabai) - Tiling window manager for macOS. A rewrite of chunkwm, it provides a more seamless integration with the operating system. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/koekeishiya/yabai/wiki)
 

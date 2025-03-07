@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/academic/awesome-datascience/week/README.md) / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
 
+## [Mar 07, 2025](/content/2025/03/07/README.md)
+
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [PerpetualBooster (⭐402)](https://github.com/perpetual-ml/perpetual)
+
+### Other Awesome Lists / Book Deals (Affiliated)
+
+*   [Best Data Science Courses with Certificates](https://www.appliedaicourse.com/blog/best-data-science-courses/)
+
 ## [Mar 05, 2025](/content/2025/03/05/README.md)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
@@ -895,7 +905,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [Netron (⭐29k)](https://github.com/lutzroeder/netron)
+*   [Netron (⭐30k)](https://github.com/lutzroeder/netron)
 
 ## [Nov 23, 2021](/content/2021/11/23/README.md)
 

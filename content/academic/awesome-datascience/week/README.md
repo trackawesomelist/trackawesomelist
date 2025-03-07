@@ -8,9 +8,14 @@
 
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
 
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [PerpetualBooster (⭐402)](https://github.com/perpetual-ml/perpetual)
+
 ### Other Awesome Lists / Book Deals (Affiliated)
 
 *   [40+ Data Analytics Projects Ideas](https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/)
+*   [Best Data Science Courses with Certificates](https://www.appliedaicourse.com/blog/best-data-science-courses/)
 
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 
@@ -848,7 +853,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [Netron (⭐29k)](https://github.com/lutzroeder/netron)
+*   [Netron (⭐30k)](https://github.com/lutzroeder/netron)
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
 

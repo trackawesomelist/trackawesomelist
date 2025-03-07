@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Mar 07, 2025](/content/2025/03/07/README.md)
+
+### Developer Tools / Version Control
+
+*   [Tempo (⭐5)](https://github.com/maoyama/Tempo) - GUI Git client. Replace the Git CLI with a clear UI and AI assist. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/maoyama/Tempo)
+
 ## [Mar 04, 2025](/content/2025/03/04/README.md)
 
 ### Download Management Tools / Audio Record and Process
@@ -147,7 +153,7 @@
 
 ### Utilities / Window Management
 
-*   [Topit (⭐713)](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")([https://github.com/lihaoyun6/Topit (⭐713)](https://github.com/lihaoyun6/Topit))
+*   [Topit (⭐713)](https://github.com/lihaoyun6/Topit) - Pin any window to the top of your screen [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/lihaoyun6/Topit) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / System Related Tools
 

@@ -47,7 +47,6 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
     *   [Utilities](#utilities)
     *   [Video](#video)
     *   [Virtualization](#virtualization)
-    *   [Vulnerability Research](#vulnerability-research)
     *   [Web](#web)
     *   [Web Servers](#web-servers)
 *   [Development tools](#development-tools)
@@ -186,7 +185,7 @@ See also [Rust - Production](https://www.rust-lang.org/production) organizations
 *   [figsoda/mmtc (⭐99)](https://github.com/figsoda/mmtc) \[[mmtc](https://crates.io/crates/mmtc)] - Minimal mpd terminal client that aims to be simple yet highly configurable [![build-badge](https://github.com/figsoda/mmtc/actions/workflows/ci.yml/badge.svg)](https://github.com/figsoda/mmtc/actions/workflows/ci.yml)
 *   [Glicol (⭐2.5k)](https://github.com/chaosprint/glicol) - Graph-oriented live coding language, for collaborative musicking in browsers.
 *   [ncspot (⭐5.3k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/workflows/Build/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild)
-*   [Pinepods (⭐352)](https://github.com/madeofpendletonwool/PinePods) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! ![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)
+*   [Pinepods (⭐360)](https://github.com/madeofpendletonwool/PinePods) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! ![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)
 *   [Polaris (⭐2.1k)](https://github.com/agersant/polaris) - A music streaming application.
 *   [Spotify Player (⭐4.1k)](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity.
 *   [Spotifyd (⭐10k)](https://github.com/Spotifyd/spotifyd) - An open source Spotify client running as a UNIX daemon. ![Continuous Integration](https://github.com/Spotifyd/spotifyd/workflows/Continuous%20Integration/badge.svg?branch=master)
@@ -331,7 +330,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 *   [broot (⭐11k)](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 *   [joshuto (⭐3.5k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 *   [xplr (⭐4.3k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐22k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [yazi (⭐23k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ### Finance
 
@@ -377,7 +376,7 @@ See also [Games Made With Piston (⭐4.7k)](https://github.com/PistonDevelopers/
 *   [Limeth/euclider (⭐215)](https://github.com/Limeth/euclider) - A real-time 4D CPU ray tracer
 *   [linebender/resvg (⭐3k)](https://github.com/linebender/resvg) - An SVG rendering library.
 *   [rodrigorc/papercraft (⭐161)](https://github.com/rodrigorc/papercraft) - A tool to unwrap 3D models and create them in paper with scissors and glue.
-*   [rustq/vue-skia (⭐309)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐310)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [turnage/valora](https://crates.io/crates/valora) - A library for generative fine art ![Rust](https://github.com/turnage/valora/workflows/Rust/badge.svg?branch=master)
 *   [Twinklebear/tray\_rust (⭐522)](https://github.com/Twinklebear/tray_rust) - A ray tracer
 *   [wahn/rs\_pbrt (⭐818)](https://github.com/wahn/rs_pbrt) - Implements a counterpart to the PBRT book's (3rd edition) C++ code.
@@ -455,6 +454,8 @@ See also [A comparison of operating systems written in Rust (⭐734)](https://gi
 
 ### Security tools
 
+*   [0xdea/haruspex (⭐14)](https://github.com/0xdea/haruspex) \[[haruspex](https://crates.io/crates/haruspex)] - Vulnerability research assistant that extracts pseudo-code from the IDA Hex-Rays decompiler [![build](https://github.com/0xdea/haruspex/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/haruspex/actions/workflows/build.yml)
+*   [0xdea/rhabdomancer (⭐19)](https://github.com/0xdea/rhabdomancer) \[[rhabdomancer](https://crates.io/crates/rhabdomancer)] - Vulnerability research assistant that locates all calls to potentially insecure API functions in a binary file [![build](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml)
 *   [AdGuardian-Term (⭐1k)](https://github.com/Lissy93/AdGuardian-Term) \[[adguardian](https://crates.io/crates/adguardian)] - Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
 *   [AFLplusplus/LibAFL (⭐2.1k)](https://github.com/AFLplusplus/LibAFL) - Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no\_std, etc. [![build and test](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/AFLplusplus/LibAFL/actions/workflows/build_and_test.yml)
 *   [arp-scan-rs (⭐104)](https://github.com/kongbytes/arp-scan-rs) - A minimalistic ARP scan tool for fast local network scans
@@ -474,7 +475,7 @@ See also [A comparison of operating systems written in Rust (⭐734)](https://gi
 *   [observer\_ward (⭐1.3k)](https://github.com/emo-crab/observer_ward) - Web application and service fingerprint identification tool
 *   [Raspirus (⭐160)](https://github.com/Raspirus/Raspirus) - User- and resources-friendly rules-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml)
 *   [ripasso (⭐753)](https://github.com/cortex/ripasso/) - A password manager, filesystem compatible with pass
-*   [rustscan/rustscan (⭐16k)](https://github.com/RustScan/RustScan) - Make Nmap faster with this port scanning tool [![build badge](https://github.com/RustScan/RustScan/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/RustScan/RustScan/actions?query=workflow%3A%22Continuous+integration%22)
+*   [rustscan (⭐16k)](https://github.com/bee-san/RustScan) - Make Nmap faster with this port scanning tool [![build badge](https://github.com/bee-san/RustScan/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/bee-san/RustScan/actions?query=workflow%3A%22Continuous+integration%22)
 
 ### Social networks
 
@@ -502,6 +503,7 @@ See also [A comparison of operating systems written in Rust (⭐734)](https://gi
 *   [diskonaut (⭐2.6k)](https://github.com/imsnif/diskonaut) - Terminal visual disk space navigator
 *   [dust (⭐9.4k)](https://github.com/bootandy/dust) - A more intuitive version of du
 *   [eza-community/eza (⭐14k)](https://github.com/eza-community/eza) - A replacement for 'ls'
+*   [fish-shell/fish-shell (⭐29k)](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
 *   [fselect](https://crates.io/crates/fselect) - Find files with SQL-like queries
 *   [gitui (⭐19k)](https://github.com/gitui-org/gitui) - Blazing fast terminal client for git. [![build](https://github.com/gitui-org/gitui/workflows/CI/badge.svg?branch=master)](https://github.com/gitui-org/gitui/actions)
 *   [GQL (⭐3.4k)](https://github.com/amrdeveloper/gql) - A SQL like query language to run on .git files.
@@ -633,11 +635,6 @@ See also [A comparison of operating systems written in Rust (⭐734)](https://gi
 *   [kata-containers/kata-containers (⭐5.8k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 *   [tailhook/vagga (⭐1.9k)](https://github.com/tailhook/vagga) - A containerization tool without daemons
 *   [youki-dev/youki (⭐6.5k)](https://github.com/youki-dev/youki) - A container runtime [![build badge](https://github.com/youki-dev/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/youki-dev/youki/actions)
-
-### Vulnerability Research
-
-*   [0xdea/haruspex (⭐14)](https://github.com/0xdea/haruspex) \[[haruspex](https://crates.io/crates/haruspex)] - Vulnerability research assistant that extracts pseudo-code from the IDA Hex-Rays decompiler [![build](https://github.com/0xdea/haruspex/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/haruspex/actions/workflows/build.yml)
-*   [0xdea/rhabdomancer (⭐19)](https://github.com/0xdea/rhabdomancer) \[[rhabdomancer](https://crates.io/crates/rhabdomancer)] - Vulnerability research assistant that locates all calls to potentially insecure API functions in a binary file [![build](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml)
 
 ### Web
 
@@ -2047,7 +2044,6 @@ A registry allows you to publish your Rust libraries as crate packages, to share
     *   [Rustlings (⭐57k)](https://github.com/rust-lang/rustlings) - small exercises to get you used to reading and writing Rust code
     *   [Rusty CS (⭐922)](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum that helps practice the acquired academic knowledge in Rust
     *   [stdx (⭐2k)](https://github.com/brson/stdx) - Learn these crates first as an extension to std
-    *   [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Lay the foundation of knowledge you need to build fast and effective programs in Rust.
     *   [Tour of Rust](https://tourofrust.com) - This is meant to be an interactive step by step guide through the features of the Rust programming language.
 *   Podcasts
     *   [New Rustacean](https://newrustacean.com) - A podcast about learning Rust

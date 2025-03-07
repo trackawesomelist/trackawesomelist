@@ -392,6 +392,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [XGBoost (⭐27k)](https://github.com/dmlc/xgboost)
 *   [LightGBM (⭐17k)](https://github.com/microsoft/LightGBM)
 *   [CatBoost (⭐8.3k)](https://github.com/catboost/catboost)
+*   [PerpetualBooster (⭐402)](https://github.com/perpetual-ml/perpetual)
 *   [JAX (⭐31k)](https://github.com/google/jax)
 
 ### Deep Learning Packages
@@ -472,7 +473,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 *   [import.io](https://www.import.io/)
 *   [Matplotlib](https://matplotlib.org/)
 *   [nvd3](https://nvd3.org/)
-*   [Netron (⭐29k)](https://github.com/lutzroeder/netron)
+*   [Netron (⭐30k)](https://github.com/lutzroeder/netron)
 *   [Openrefine](https://openrefine.org/)
 *   [plot.ly](https://plot.ly/)
 *   [raw](https://rawgraphs.io)
@@ -1172,6 +1173,7 @@ Some data mining competition platforms
 *   [AI in Data Science: Uses, Roles, and Tools](https://www.scaler.com/blog/ai-in-data-science/)
 *   [Top 13 Data Science Programming Languages](https://www.appliedaicourse.com/blog/data-science-programming-languages/)
 *   [40+ Data Analytics Projects Ideas](https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/)
+*   [Best Data Science Courses with Certificates](https://www.appliedaicourse.com/blog/best-data-science-courses/)
 
 ### Hobby
 

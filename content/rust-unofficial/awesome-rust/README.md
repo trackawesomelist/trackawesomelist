@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Mar 07, 2025](/content/2025/03/07/README.md)
+
+### Applications / Security tools
+
+*   [rustscan (⭐16k)](https://github.com/bee-san/RustScan) - Make Nmap faster with this port scanning tool [![build badge](https://github.com/bee-san/RustScan/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/bee-san/RustScan/actions?query=workflow%3A%22Continuous+integration%22)
+
+### Applications / System tools
+
+*   [fish-shell/fish-shell (⭐29k)](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
+
 ## [Mar 03, 2025](/content/2025/03/03/README.md)
 
 ### Applications / System tools
@@ -46,7 +56,7 @@ A curated list of Rust code and resources.
 
 ## [Feb 05, 2025](/content/2025/02/05/README.md)
 
-### Applications / Vulnerability Research
+### Applications / Security tools
 
 *   [0xdea/haruspex (⭐14)](https://github.com/0xdea/haruspex) \[[haruspex](https://crates.io/crates/haruspex)] - Vulnerability research assistant that extracts pseudo-code from the IDA Hex-Rays decompiler [![build](https://github.com/0xdea/haruspex/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/haruspex/actions/workflows/build.yml)
 
@@ -75,6 +85,10 @@ A curated list of Rust code and resources.
 
 *   [aichat (⭐5.7k)](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 
+### Applications / Security tools
+
+*   [0xdea/rhabdomancer (⭐19)](https://github.com/0xdea/rhabdomancer) \[[rhabdomancer](https://crates.io/crates/rhabdomancer)] - Vulnerability research assistant that locates all calls to potentially insecure API functions in a binary file [![build](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml)
+
 ### Applications / System tools
 
 *   [nwiizo/tfocus (⭐55)](https://github.com/nwiizo/tfocus) - Interactive tool for selecting and executing Terraform plan/apply operations
@@ -82,10 +96,6 @@ A curated list of Rust code and resources.
 ### Applications / Utilities
 
 *   [television (⭐2.4k)](https://github.com/alexpasmantier/television) - A blazing fast general purpose fuzzy finder TUI ![GitHub branch check runs](https://img.shields.io/github/check-runs/alexpasmantier/television/main)
-
-### Applications / Vulnerability Research
-
-*   [0xdea/rhabdomancer (⭐19)](https://github.com/0xdea/rhabdomancer) \[[rhabdomancer](https://crates.io/crates/rhabdomancer)] - Vulnerability research assistant that locates all calls to potentially insecure API functions in a binary file [![build](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/rhabdomancer/actions/workflows/build.yml)
 
 ### Applications / Web Servers
 
@@ -427,7 +437,6 @@ A curated list of Rust code and resources.
     *   [Rustlings (⭐57k)](https://github.com/rust-lang/rustlings) - small exercises to get you used to reading and writing Rust code
     *   [Rusty CS (⭐922)](https://github.com/AbdesamedBendjeddou/Rusty-CS) - A Computer Science Curriculum that helps practice the acquired academic knowledge in Rust
     *   [stdx (⭐2k)](https://github.com/brson/stdx) - Learn these crates first as an extension to std
-    *   [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) - Lay the foundation of knowledge you need to build fast and effective programs in Rust.
     *   [Tour of Rust](https://tourofrust.com) - This is meant to be an interactive step by step guide through the features of the Rust programming language.
 
 ## [Sep 16, 2024](/content/2024/09/16/README.md)
@@ -665,7 +674,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Audio and Music
 
-*   [Pinepods (⭐352)](https://github.com/madeofpendletonwool/PinePods) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! ![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)
+*   [Pinepods (⭐360)](https://github.com/madeofpendletonwool/PinePods) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! ![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)
 
 ## [May 13, 2024](/content/2024/05/13/README.md)
 
@@ -994,7 +1003,7 @@ A curated list of Rust code and resources.
 
 *   [joshuto (⭐3.5k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 *   [xplr (⭐4.3k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐22k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [yazi (⭐23k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ## [Dec 30, 2023](/content/2023/12/30/README.md)
 
@@ -1329,7 +1338,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Graphics
 
-*   [rustq/vue-skia (⭐309)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐310)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 
 ### Libraries / Finance
 
@@ -3048,7 +3057,6 @@ A curated list of Rust code and resources.
 *   [kpcyrd/authoscope (⭐410)](https://github.com/kpcyrd/authoscope) - A scriptable network authentication cracker
 *   [kpcyrd/sniffglue (⭐1.2k)](https://github.com/kpcyrd/sniffglue) - A secure multithreaded packet sniffer
 *   [ripasso (⭐753)](https://github.com/cortex/ripasso/) - A password manager, filesystem compatible with pass
-*   [rustscan/rustscan (⭐16k)](https://github.com/RustScan/RustScan) - Make Nmap faster with this port scanning tool [![build badge](https://github.com/RustScan/RustScan/workflows/Continuous%20integration/badge.svg?branch=master)](https://github.com/RustScan/RustScan/actions?query=workflow%3A%22Continuous+integration%22)
 
 ### Applications / System tools
 
