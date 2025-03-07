@@ -8,6 +8,10 @@ A curated list of awesome things related to Django
 
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
 
+### Third-Party Packages / Admin
+
+*   [django-admin-inline-paginator-plus (⭐24)](https://github.com/DmytroLitvinov/django-admin-inline-paginator-plus) - A simple way to paginate your inline in Django admin
+
 ### Resources / Books
 
 *   [Django for APIs, Fifth Edition](https://learndjango.com/courses/django-for-apis/)

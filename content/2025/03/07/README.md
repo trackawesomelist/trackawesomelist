@@ -1,12 +1,48 @@
 # Awesome List Updates on Mar 07, 2025
 
-7 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Resources / Blog posts
+
+*   [Pandas vs Polars: is it time to change?](https://medium.com/data-reply-it-datatech/pandas-vs-polars-is-it-time-to-change-6a387a8d12dd) - A post that summarizes the main issues involved in the transition from Pandas to Polars by [Michelangelo Florio](https://medium.com/@mic.florio).
+
+## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-admin-inline-paginator-plus (⭐24)](https://github.com/DmytroLitvinov/django-admin-inline-paginator-plus) - A simple way to paginate your inline in Django admin
+
+## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+
+### RegExp / Runner
+
+*   [Regex-Vis](https://regex-vis.com/) - Regex visualizer & editor.
+
+## [4. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
+
+### Websites / Archives
+
+*   [MCModArchive](https://mcmodarchive.femtopedia.de/) - Archives old, lost and forgotten Minecraft mods and related software. Various other mods and stuff can be found on the [MCArchive Discord](https://discord.gg/WuexGpP).
+*   [Eimer Archive](https://eimerarchive.org/) - Archive with a focus on server software and plugins.
+*   [OmniArchive](https://omniarchive.uk/) - Archives most Minecraft jars.
+
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Golang / Diagnostics
+
+*   [Yu-Leo/cmp-go-pkgs (⭐1)](https://github.com/Yu-Leo/cmp-go-pkgs) - Cmp source providing the names of Go packages to import.
+
+### Utility / Diagnostics
+
+*   [redoxahmii/json-to-types.nvim (⭐30)](https://github.com/redoxahmii/json-to-types.nvim) - Convert JSON objects to type definitions for multiple languages.
+
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Security tools
 
@@ -16,13 +52,13 @@
 
 *   [fish-shell/fish-shell (⭐29k)](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [7. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / Version Control
 
 *   [Tempo (⭐5)](https://github.com/maoyama/Tempo) - GUI Git client. Replace the Git CLI with a clear UI and AI assist. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/maoyama/Tempo)
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - SIP
 
@@ -32,13 +68,13 @@
 
 *   [DSpace](http://www.dspace.org/) - Turnkey repository application providing durable access to digital resources. ([Source Code (⭐931)](https://github.com/DSpace/DSpace)) `BSD-3-Clause` `Java`
 
-## [4. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
+## [9. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Tools
 
 *   [p8-canvas (⭐3)](https://github.com/Siapran/p8-canvas) - A high performance infinite canvas/texture library.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Deployment / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -49,7 +85,7 @@
 
 *   [angular-unleash-proxy-client (⭐10)](https://github.com/Karelics/angular-unleash-proxy-client) - Angular wrapper for [unleash](https://www.getunleash.io/) and [unleash-proxy-client-js (⭐47)](https://github.com/Unleash/unleash-proxy-client-js).
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [11. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -60,7 +96,7 @@
 
 *   [imranic (⭐2)](https://github.com/alimranahmed/zsh-imranic-themes) - Minimalist theme with decorators for `git` status, python virtualenv, rvm ruby version, conda version, kube status,  and current directory.
 
-## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [12. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures
 

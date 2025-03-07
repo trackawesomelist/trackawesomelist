@@ -8,9 +8,13 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
 
-### Resources / Blog posts
+### Resources / Tutorials & workshops
 
 *   [Working With Python Polars](https://realpython.com/courses/working-with-python-polars/) - 7-lesson online video course that covers various topics related todata manipulation with Polars by [@cltrudeau](https://github.com/cltrudeau).
+
+### Resources / Blog posts
+
+*   [Pandas vs Polars: is it time to change?](https://medium.com/data-reply-it-datatech/pandas-vs-polars-is-it-time-to-change-6a387a8d12dd) - A post that summarizes the main issues involved in the transition from Pandas to Polars by [Michelangelo Florio](https://medium.com/@mic.florio).
 
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 

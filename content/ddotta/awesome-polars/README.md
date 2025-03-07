@@ -6,9 +6,15 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
-## [Mar 06, 2025](/content/2025/03/06/README.md)
+## [Mar 07, 2025](/content/2025/03/07/README.md)
 
 ### Resources / Blog posts
+
+*   [Pandas vs Polars: is it time to change?](https://medium.com/data-reply-it-datatech/pandas-vs-polars-is-it-time-to-change-6a387a8d12dd) - A post that summarizes the main issues involved in the transition from Pandas to Polars by [Michelangelo Florio](https://medium.com/@mic.florio).
+
+## [Mar 06, 2025](/content/2025/03/06/README.md)
+
+### Resources / Tutorials & workshops
 
 *   [Working With Python Polars](https://realpython.com/courses/working-with-python-polars/) - 7-lesson online video course that covers various topics related todata manipulation with Polars by [@cltrudeau](https://github.com/cltrudeau).
 
