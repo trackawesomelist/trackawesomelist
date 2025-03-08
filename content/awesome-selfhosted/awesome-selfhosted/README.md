@@ -6,6 +6,16 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Mar 08, 2025](/content/2025/03/08/README.md)
+
+### Software / Content Management Systems (CMS)
+
+*   [Pimcore](http://www.pimcore.com/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐3.5k)](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
+
+### Software / Money, Budgeting & Management
+
+*   [MyFin Budget](https://myfinbudget.com) - Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. ([Demo (⭐129)](https://github.com/afaneca/myfin?tab=readme-ov-file#demo-account---try-it-for-yourself), [Source Code (⭐129)](https://github.com/afaneca/myfin), [Clients (⭐15)](https://github.com/afaneca/myfin-api)) `AGPL-3.0` `Nodejs/Docker`
+
 ## [Mar 07, 2025](/content/2025/03/07/README.md)
 
 ### Software / Communication - SIP
@@ -170,7 +180,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [ezbookkeeping](https://ezbookkeeping.mayswind.net/) - A lightweight personal bookkeeping app hosted by yourself. ([Demo](https://ezbookkeeping-demo.mayswind.net/), [Source Code (⭐360)](https://github.com/mayswind/ezbookkeeping)) `MIT` `Go/Docker`
 *   [Mybucks.online](https://mybucks.online) - A secure, browser-based, password-only self-custodial cryptocurrency wallet. ([Demo](https://app.mybucks.online), [Source Code (⭐6)](https://github.com/mybucks-online/app)) `MIT` `Nodejs`
-*   [MyFin (⭐129)](https://github.com/afaneca/myfin) - Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. ([Demo (⭐129)](https://github.com/afaneca/myfin?tab=readme-ov-file#demo-account---try-it-for-yourself), [Clients (⭐32)](https://github.com/afaneca/myfin-android)) `AGPL-3.0` `Nodejs`
 
 ### Software / Pastebins
 
@@ -856,7 +865,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Wikis
 
-*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Demo](https://demo.wikidocs.it), [Source Code (⭐385)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
+*   [WikiDocs](http://wikidocs.it) - A databaseless markdown flat-file wiki engine. ([Source Code (⭐385)](https://github.com/Zavy86/WikiDocs)) `MIT` `PHP/Docker`
 
 ## [Jan 08, 2024](/content/2024/01/08/README.md)
 
@@ -2232,7 +2241,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Demo](https://l33t.codes/xibalba-bbs/), [Source Code (⭐558)](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
+*   [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs/) - Enigma 1/2 is a modern, multi-platform BBS engine with unlimited "callers" and legacy DOS door game support. ([Source Code (⭐558)](https://github.com/NuSkooler/enigma-bbs)) `BSD-2-Clause` `Shell/Docker/Nodejs`
 
 ## [Aug 11, 2022](/content/2022/08/11/README.md)
 
@@ -3400,10 +3409,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [AzuraCast](https://www.azuracast.com/) - A modern and accessible self-hosted web radio management suite. ([Source Code (⭐3.3k)](https://github.com/AzuraCast/AzuraCast)) `Apache-2.0` `Docker`
 
-### Software / Media Streaming - Video Streaming
-
-*   [Open Streaming Platform](https://openstreamingplatform.com) - Live and on-demand video streaming (alternative to Twitch and Youtube Live). ([Source Code](https://gitlab.com/Deamos/flask-nginx-rtmp-manager)) `MIT` `Python`
-
 ### Software / Miscellaneous
 
 *   [graph-vl (⭐61)](https://github.com/verifid/graph-vl) - Identity document verification using Machine Learning and GraphQL. `MIT` `Python/Docker/K8S`
@@ -4512,7 +4517,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Content Management Systems (CMS)
 
-*   [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐3.5k)](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
 *   [Wagtail](https://wagtail.io/) - Django content management system focused on flexibility and user experience. ([Source Code (⭐19k)](https://github.com/wagtail/wagtail)) `BSD-3-Clause` `Python`
 
 ### Software / Internet of Things (IoT)

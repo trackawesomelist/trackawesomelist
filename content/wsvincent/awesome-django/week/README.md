@@ -12,6 +12,10 @@ A curated list of awesome things related to Django
 
 *   [django-admin-inline-paginator-plus (⭐24)](https://github.com/DmytroLitvinov/django-admin-inline-paginator-plus) - A simple way to paginate your inline in Django admin
 
+### Third-Party Packages / General
+
+*   [iommi (⭐845)](https://github.com/iommirocks/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
+
 ### Resources / Books
 
 *   [Django for APIs, Fifth Edition](https://learndjango.com/courses/django-for-apis/)
@@ -507,12 +511,6 @@ A curated list of awesome things related to Django
 ### Third-Party Packages / Logging
 
 *   [DRF-API-Logger (⭐318)](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
-
-## [Oct 25 - Oct 31, 2021](/content/2021/43/README.md)
-
-### Third-Party Packages / Full-stack frameworks
-
-*   [iommi (⭐845)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 

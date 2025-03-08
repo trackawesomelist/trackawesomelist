@@ -756,6 +756,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-serializer (⭐4)](https://github.com/paddls/ngx-serializer) - Angular wrapper of @paddls/ts-serializer library.
 *   [ngx-pocketbase (⭐3)](https://github.com/BerniHC/ngx-pocketbase) - PocketBase Angular SDK for interacting with the [PocketBase API](https://pocketbase.io/docs). Based on the [PocketBase JavaScript SDK (⭐2.3k)](https://github.com/pocketbase/js-sdk).
 *   [fusio-sdk-javascript-angular (⭐3)](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK library provides a flexible way to build Angular apps using [Fusio](https://www.fusio-project.org/) as a backend. It is used by many Fusio related apps, i.e. the [backend (⭐11)](https://github.com/apioo/fusio-apps-backend) and [developer (⭐4)](https://github.com/apioo/fusio-apps-developer) app.
+*   [ng-storyblok (⭐3)](https://github.com/geometricpanda/ng-storyblok) - A simple way to integrate [Storyblok](https://www.storyblok.com/) into your Angular application.
 
 #### Internationalization
 
@@ -795,11 +796,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 #### Module Federation
 
-*   [@module-federation/core (⭐1.7k)](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications.
+*   [@module-federation/core (⭐1.8k)](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications.
 *   [ng-dynamic-mf (⭐9)](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
 *   [module-federation-plugin (⭐756)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
-*   [webpack-module-federation-with-angular (⭐24)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
-*   [vite-module-federation-angular-test (⭐1)](https://github.com/Seifenn/vite-module-federation-angular-test) - This repository tests the [@module-federation/vite (⭐396)](https://github.com/module-federation/vite) with Angular and AnalogJS, based on the work done in [brandonroberts/angular-vite (⭐9)](https://github.com/brandonroberts/angular-vite). It also tests a host with AnalogJS to test SSR. But now the module federation plugin is not compatible with SSR.
+*   [webpack-module-federation-with-angular (⭐25)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
+*   [vite-module-federation-angular-test (⭐1)](https://github.com/Seifenn/vite-module-federation-angular-test) - This repository tests the [@module-federation/vite (⭐407)](https://github.com/module-federation/vite) with Angular and AnalogJS, based on the work done in [brandonroberts/angular-vite (⭐10)](https://github.com/brandonroberts/angular-vite). It also tests a host with AnalogJS to test SSR. But now the module federation plugin is not compatible with SSR.
 *   [angular-microfrontend-demo (⭐2)](https://github.com/gioboa/angular-microfrontend-demo) - Module Federation Vite + Angular is now possible.
 *   [mfe-crossframework (⭐1)](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular Host, Cross-framework remotes and without Nx.
 *   [backbase-micro-frontends (⭐1)](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.
@@ -913,7 +914,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [keycloakify-starter-angular-vite (⭐4)](https://github.com/keycloakify/keycloakify-starter-angular-vite) - Angular + Vite Starter for [Keycloakify 11](https://www.keycloakify.dev/).
 *   [@rainerhahnekamp/angular-starter (⭐47)](https://github.com/rainerhahnekamp/angular-starter) - A starter project for a modern Angular 19 application.
 *   [BoilerPlate-FirebaseAngular (⭐1)](https://github.com/Yewo-Devs/BoilerPlate-FirebaseAngular) - Starting point for apps built using .NET, Angular, and Firebase.
-*   [extreme-angular (⭐102)](https://github.com/joematthews/extreme-angular) - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
+*   [extreme-angular (⭐103)](https://github.com/joematthews/extreme-angular) - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
 *   [ng-advance (⭐3)](https://github.com/ksunny-works/ng-advance) - A modern and fully-configured Angular starter template, empowering developers to quickly bootstrap their Angular projects with tools like Prettier, Jest, Husky, and ESLint.
 *   [@wlucha/angular-starter (⭐319)](https://github.com/wlucha/angular-starter) - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
 *   [angular-clean-architecture (⭐9)](https://github.com/carlossalasamper/angular-clean-architecture) - An Angular scaffold with a clean architecture that is easy to understand.
@@ -1258,7 +1259,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-ace-wrapper (⭐46)](https://github.com/zefoy/ngx-ace-wrapper) - Angular wrapper library for [Ace](http://ace.c9.io/).
 *   [ngx-quill-wrapper (⭐13)](https://github.com/zefoy/ngx-quill-wrapper) - Angular wrapper library for [Quill](http://quilljs.com/).
 *   [ngx-tinymce (⭐81)](https://github.com/cipchk/ngx-tinymce) - [Tinymce](https://www.tiny.cloud/) components built with Angular.
-*   [formly-editor (⭐9)](https://github.com/sesan07/formly-editor) - A configurable editor for [ngx-formly (⭐2.9k)](https://github.com/ngx-formly/ngx-formly) forms.
+*   [formly-editor (⭐10)](https://github.com/sesan07/formly-editor) - A configurable editor for [ngx-formly (⭐2.9k)](https://github.com/ngx-formly/ngx-formly) forms.
 *   [MagnetarQuill (⭐8)](https://github.com/scherenhaenden/MagnetarQuill) - A versatile, extensible, and powerful WYSIWYG editor built with Angular, designed to streamline content creation with rich text, media, tables, and more. MagnetarQuill stands out with its plugin architecture, cross-browser support, and stunning theming options.
 *   [ngx-editorjs2 (⭐1)](https://github.com/Ba5ik7/ngx-editorjs2) - A highly extensible block-style editor inspired by [Editor.js](https://editorjs.io/). It allows users to create and manage rich text content using a variety of customizable blocks while leveraging Angular's reactive capabilities. [https://github.com/Ba5ik7/ngx-editor-js2-blocks (⭐1)](https://github.com/Ba5ik7/ngx-editor-js2-blocks) contain custom blocks that extend the editor with additional content types.
 
@@ -1685,6 +1686,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [SmartNgRX (⭐11)](https://github.com/DaveMBush/SmartNgRX) - A library that hides most of NgRx from the developer for CRUD operations while still using NgRx under the hood and allowing you to use it with existing NgRx code.
 *   [ngrx-hateoas (⭐5)](https://github.com/angular-architects/ngrx-hateoas) - A library to bring hypermedia json into the NgRx Signal Store following the HATEOAS approach.
 *   [ngrx-http-tracking (⭐7)](https://github.com/acandylevey/ngrx-http-tracking) - This NgRx library is aimed at slotting into your pre-existing NgRx stores to reduce the amount of boilerplate code you need to write and make handling the loading, success, and error states of HTTP requests significantly easier.
+*   [ngrx-manager (⭐1)](https://github.com/smoosee/ngrx-manager) - Plug-N-Play State Manager for NgRx stores.
+*   [ngrx-set (⭐1)](https://github.com/parloti/ngrx-set) - This simplifies the creation of actions for asynchronous requests that can succeed, fail, or be aborted.
 
 ##### NGXS
 

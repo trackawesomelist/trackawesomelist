@@ -6,6 +6,12 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Mar 08, 2025](/content/2025/03/08/README.md)
+
+### Third-Party Packages / General
+
+*   [iommi (⭐845)](https://github.com/iommirocks/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
+
 ## [Mar 07, 2025](/content/2025/03/07/README.md)
 
 ### Third-Party Packages / Admin
@@ -523,12 +529,6 @@ A curated list of awesome things related to Django
 ### Third-Party Packages / Logging
 
 *   [DRF-API-Logger (⭐318)](https://github.com/vishalanandl177/DRF-API-Logger) - An API Logger for your Django Rest Framework project.
-
-## [Oct 25, 2021](/content/2021/10/25/README.md)
-
-### Third-Party Packages / Full-stack frameworks
-
-*   [iommi (⭐845)](https://github.com/TriOptima/iommi) - Toolkit for development of CRUD applications without writing HTML or JavaScript.
 
 ## [Sep 29, 2021](/content/2021/09/29/README.md)
 
