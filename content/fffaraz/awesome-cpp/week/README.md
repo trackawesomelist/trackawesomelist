@@ -8,6 +8,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
 
+### Data visualization
+
+*   [morphologica (⭐277)](https://github.com/ABRG-Models/morphologica) - C++ header-only graphing and data visualization with modern OpenGL. \[Apache-2.0] [website](https://abrg-models.github.io/morphologica/)
+
 ### Miscellaneous
 
 *   [palacaze/sigslot (⭐755)](https://github.com/palacaze/sigslot) - A simple, header only, C++14 signal-slots implementation \[MIT]
@@ -2342,7 +2346,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Artificial Intelligence
 
 *   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, JavaScript and more. [website](https://mxnet.apache.org)
-*   [PyTorch (⭐87k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [PyTorch (⭐88k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 
 ### Audio
 

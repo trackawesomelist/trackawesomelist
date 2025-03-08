@@ -723,7 +723,7 @@ additional ordered map implementations.
 *   [nscache (⭐11)](https://github.com/no-src/nscache) - A Go caching framework that supports multiple data source drivers.
 *   [otter (⭐1.8k)](https://github.com/maypok86/otter) - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
 *   [pocache (⭐219)](https://github.com/naughtygopher/pocache) - Pocache is a minimal cache package which focuses on a preemptive optimistic caching strategy.
-*   [ristretto (⭐5.8k)](https://github.com/dgraph-io/ristretto) -  A high performance memory-bound Go cache.
+*   [ristretto (⭐5.9k)](https://github.com/dgraph-io/ristretto) -  A high performance memory-bound Go cache.
 *   [sturdyc (⭐1.1k)](https://github.com/viccon/sturdyc) - A caching library with advanced concurrency features designed to make I/O heavy applications robust and highly performant.
 *   [theine (⭐287)](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
 *   [timedmap (⭐72)](https://github.com/zekroTJA/timedmap) - Map with expiring key-value pairs.
@@ -778,7 +778,7 @@ additional ordered map implementations.
 
 ### Database Schema Migration
 
-*   [atlas (⭐6.4k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
+*   [atlas (⭐6.5k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
 *   [avro (⭐47)](https://github.com/khezen/avro) - Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
 *   [bytebase (⭐12k)](https://github.com/bytebase/bytebase) - Safe database schema change and version control for DevOps teams.
 *   [darwin (⭐145)](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
@@ -814,7 +814,7 @@ additional ordered map implementations.
 *   [octillery (⭐193)](https://github.com/knocknote/octillery) - Go package for sharding databases ( Supports every ORM or raw SQL ).
 *   [onedump (⭐147)](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
 *   [pg\_timetable (⭐1.1k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL.
-*   [pgweb (⭐8.7k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
+*   [pgweb (⭐8.8k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
 *   [prep (⭐33)](https://github.com/hexdigest/prep) - Use prepared SQL statements without changing your code.
 *   [pREST (⭐4.3k)](https://github.com/prest/prest) - Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new.
 *   [rdb (⭐474)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
@@ -938,7 +938,7 @@ additional ordered map implementations.
 *Libraries for working with dates and times.*
 
 *   [approx (⭐13)](https://github.com/goschtalt/approx) - A Duration extension supporting parsing/printing durations in days, weeks and years.
-*   [carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime.
+*   [carbon (⭐0)](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime.
 *   [carbon (⭐781)](https://github.com/uniplaces/carbon) - Simple Time extension with a lot of util methods, ported from PHP Carbon library.
 *   [cronrange (⭐17)](https://github.com/1set/cronrange) - Parses Cron-style time range expressions, checks if the given time is within any ranges.
 *   [date (⭐136)](https://github.com/rickb777/date) - Augments Time for working with dates, date ranges, time spans, periods, and time-of-day.
@@ -1586,6 +1586,7 @@ additional ordered map implementations.
 *   [httpretty (⭐406)](https://github.com/henvic/httpretty) - Pretty-prints your regular HTTP requests on your terminal for debugging (similar to http.DumpRequest).
 *   [journald (⭐41)](https://github.com/ssgreg/journald) - Go implementation of systemd Journal's native API for logging.
 *   [kemba (⭐14)](https://github.com/clok/kemba) - A tiny debug logging tool inspired by [debug (⭐11k)](https://github.com/visionmedia/debug), great for CLI tools and applications.
+*   [lazyjournal (⭐381)](https://github.com/Lifailon/lazyjournal) - A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods.
 *   [log (⭐10)](https://github.com/aerogo/log) - An O(1) logging system that allows you to connect one log to multiple writers (e.g. stdout, a file and a TCP connection).
 *   [log (⭐1.4k)](https://github.com/apex/log) - Structured logging package for Go.
 *   [log (⭐293)](https://github.com/go-playground/log) - Simple, configurable and scalable Structured Logging for Go.
@@ -3223,7 +3224,6 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 *   [envdoc (⭐75)](https://github.com/g4s8/envdoc) -  generate documentation for environment variables from Go source files.
 *   [generic (⭐49)](https://github.com/usk81/generic) - flexible data type for Go.
-*   [genny (⭐1.7k)](https://github.com/cheekybits/genny) - Elegant generics for Go.
 *   [gocontracts (⭐113)](https://github.com/Parquery/gocontracts) - brings design-by-contract to Go by synchronizing the code with the documentation.
 *   [godal (⭐18)](https://github.com/mafulong/godal) - Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm.
 *   [gonerics (⭐114)](https://github.com/bouk/gonerics) - Idiomatic Generics in Go.

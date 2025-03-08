@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Mar 08, 2025](/content/2025/03/08/README.md)
+
+### Data visualization
+
+*   [morphologica (⭐277)](https://github.com/ABRG-Models/morphologica) - C++ header-only graphing and data visualization with modern OpenGL. \[Apache-2.0] [website](https://abrg-models.github.io/morphologica/)
+
 ## [Mar 06, 2025](/content/2025/03/06/README.md)
 
 ### Miscellaneous
@@ -2680,7 +2686,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### Artificial Intelligence
 
-*   [PyTorch (⭐87k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [PyTorch (⭐88k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 
 ### Audio
 

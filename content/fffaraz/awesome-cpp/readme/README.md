@@ -156,7 +156,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [frugally-deep (⭐1.1k)](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. \[MIT]
 *   [Genann (⭐2.1k)](https://github.com/codeplea/genann) - Simple neural network library in C. \[zlib]
 *   [MXNet (⭐21k)](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, JavaScript and more. [website](https://mxnet.apache.org)
-*   [PyTorch (⭐87k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
+*   [PyTorch (⭐88k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 *   [flashlight (⭐5.3k)](https://github.com/flashlight/flashlight) - Flashlight is a fast, flexible machine learning library written entirely in C++. \[BSD]
 *   [Recast/Detour (⭐6.8k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
 *   [TensorFlow (⭐188k)](https://github.com/tensorflow/tensorflow) - An open source software library for numerical computation using data flow graphs. \[Apache]
@@ -492,6 +492,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [gplot++ (⭐8)](https://github.com/ziotom78/gplotpp) - Cross-platform header-only C++ plotting library that interfaces with Gnuplot. \[MIT]
 *   [matplotplusplus (⭐4.4k)](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. \[MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
+*   [morphologica (⭐277)](https://github.com/ABRG-Models/morphologica) - C++ header-only graphing and data visualization with modern OpenGL. \[Apache-2.0] [website](https://abrg-models.github.io/morphologica/)
 
 ## Debug
 

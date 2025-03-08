@@ -1,12 +1,18 @@
 # Awesome List Updates on Mar 10 - Mar 16, 2025
 
-33 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Concepts / Human Concept Representation
+
+*   [Organizing conceptual knowledge in humans with a gridlike code](https://www.science.org/doi/full/10.1126/science.aaf0941) - ***Science***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=10995575332310321503)]. \[[Preprint](http://behavioralhealth2000.com/wp-content/uploads/2017/01/Organizing-conceptual-knowledge-in-humans-with-a-gridlike-code.pdf)]. It has been hypothesized that the brain organizes concepts into a mental map, allowing conceptual relationships to be navigated in a manner similar to that of space. Grid cells use a hexagonally symmetric code to organize spatial representations and are the likely source of a precise hexagonal symmetry in the functional magnetic resonance imaging signal. Humans navigating conceptual two-dimensional knowledge showed the same hexagonal signal in a set of brain regions markedly similar to those activated during spatial navigation. This gridlike signal is consistent across sessions acquired within an hour and more than a week apart. This work's findings suggest that global relational codes may be used to organize nonspatial conceptual representations and that these codes may have a hexagonal gridlike pattern when conceptual knowledge is laid out in two continuous dimensions.
+
+## [2. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Game Development / Text-Based User Interfaces
 
@@ -44,7 +50,7 @@
 *   [Lukas Eder](https://bsky.app/profile/lukaseder.bsky.social) - Java Champion, speaker, Founder and CEO Data Geekery (jOOQ).
 *   [Stephen Colebourne](https://bsky.app/profile/jodastephen.bsky.social) - Java Champion, speaker.
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [3. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Machine Learning
 
@@ -92,19 +98,19 @@
     *   for instance, by adding module definition options you can introduce mechanisms to tie modules together in functionality, hook into each other and so on.
     *   acts as a wrapper around `defpackage` and integrates into ASDF.
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [Tomorrow.io Weather API](https://www.tomorrow.io/weather-api/) - Offers free plan of weather API. Provides accurate and up-to-date weather forecasting with global coverage, historical data and weather monitoring solutions.
 
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### RegExp / Runner
 
 *   [Regex-Vis](https://regex-vis.com/) - Regex visualizer & editor.
 
-## [5. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [6. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Websites / Archives
 
@@ -112,7 +118,7 @@
 *   [Eimer Archive](https://eimerarchive.org/) - Archive with a focus on server software and plugins.
 *   [OmniArchive](https://omniarchive.uk/) - Archives most Minecraft jars.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - SIP
 
@@ -126,17 +132,37 @@
 
 *   [DSpace](http://www.dspace.org/) - Turnkey repository application providing durable access to digital resources. ([Source Code (⭐931)](https://github.com/DSpace/DSpace)) `BSD-3-Clause` `Java`
 
+### Software / Knowledge Management Tools
+
+*   [memEx](https://gitea.bubbletea.dev/shibao/memEx) - A structured personal knowledge base, inspired by zettlekasten and org-mode. `AGPL-3.0` `Docker`
+
+### Software / Miscellaneous
+
+*   [ClipCascade (⭐740)](https://github.com/Sathvik-Rao/ClipCascade) - Syncs your clipboard across multiple devices instantly, without any button press. Available on Windows, macOS, Linux, and Android, it provides seamless and secure clipboard sharing with end-to-end data encryption. `GPL-3.0` `Java/Docker`
+
 ### Software / Money, Budgeting & Management
 
 *   [MyFin Budget](https://myfinbudget.com) - Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. ([Demo (⭐129)](https://github.com/afaneca/myfin?tab=readme-ov-file#demo-account---try-it-for-yourself), [Source Code (⭐129)](https://github.com/afaneca/myfin), [Clients (⭐15)](https://github.com/afaneca/myfin-api)) `AGPL-3.0` `Nodejs/Docker`
 
-## [7. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+### Software / Self-hosting Solutions
+
+*   [Websoft9](https://www.websoft9.com) `⚠` - GitOps-driven, multi-application hosting for cloud servers and home servers, one-click deployment of 200+ open source apps. ([Demo](https://www.websoft9.com/demo), [Source Code (⭐1.6k)](https://github.com/websoft9/websoft9), [Clients](https://www.websoft9.com/apps)) `LGPL-3.0` `Shell/Python`
+
+### Software / Software Development - IDE & Tools
+
+*   [LiveCodes](https://livecodes.io/docs/features/self-hosting) `⚠` - A feature-rich client-side code playground for React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and 90+ other languages. ([Demo](https://livecodes.io), [Source Code (⭐895)](https://github.com/live-codes/livecodes)) `MIT` `Nodejs`
+
+### Software / Web Servers
+
+*   [go-doxy (⭐1.4k)](https://github.com/yusing/godoxy) - A lightweight, simple, and  performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. `MIT` `Docker/Go`
+
+## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tools
 
 *   [p8-canvas (⭐3)](https://github.com/Siapran/p8-canvas) - A high performance infinite canvas/texture library.
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -158,7 +184,7 @@
 *   [zen (TheCrazyGM) (⭐0)](https://github.com/TheCrazyGM/zen) - A clean, informative, and customizable theme for Oh-My-Zsh that provides essential information without cluttering your terminal. It was designed with Python developers in mind and includes smart features like SSH detection, detailed Git status information, and command execution time tracking.
 *   [zigbar (⭐6)](https://github.com/dbushell/zigbar) - Written in zig. Includes decorators for `git` status, current directory. Requires a [Nerd Font](https://www.nerdfonts.com/font-downloads).
 
-## [9. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [10. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Resources / Tutorials & workshops
 
@@ -168,13 +194,17 @@
 
 *   [Pandas vs Polars: is it time to change?](https://medium.com/data-reply-it-datatech/pandas-vs-polars-is-it-time-to-change-6a387a8d12dd) - A post that summarizes the main issues involved in the transition from Pandas to Polars by [Michelangelo Florio](https://medium.com/@mic.florio).
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### Data visualization
+
+*   [morphologica (⭐277)](https://github.com/ABRG-Models/morphologica) - C++ header-only graphing and data visualization with modern OpenGL. \[Apache-2.0] [website](https://abrg-models.github.io/morphologica/)
 
 ### Miscellaneous
 
 *   [palacaze/sigslot (⭐755)](https://github.com/palacaze/sigslot) - A simple, header only, C++14 signal-slots implementation \[MIT]
 
-## [11. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [12. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin
 
@@ -189,25 +219,25 @@
 *   [Django for APIs, Fifth Edition](https://learndjango.com/courses/django-for-apis/)
 *   [Django for Beginners, Fifth Edition](https://learndjango.com/courses/django-for-beginners/)
 
-## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
 
 ### Java / Spring Boot
 
 *   [Building modern Web Apps with Spring Boot and Vaadin](https://vaadin.com/docs/v14/flow/tutorial/overview) - Vaadin (HTML)
 
-## [13. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [14. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Eino (⭐1.7k)](https://github.com/cloudwego/eino): Eino provides a Golang AI application development framework with various component integrations and the ability to orchestrate Chains and Graphs similar to LangChain and LangGraph. ![GitHub Repo stars](https://img.shields.io/github/stars/cloudwego/eino?style=social)
 
-## [14. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [15. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
 *   [Raspberry Pi 500](https://www.raspberrypi.com/products/raspberry-pi-500/) (December 2024)
 
-## [15. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [16. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Tutorials / Hardware Offload
 
@@ -218,7 +248,7 @@
 
 *   [inspektor-gadget](https://inspektor-gadget.io) - A collection tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF.
 
-## [16. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [17. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Tools / Develop
 
@@ -232,13 +262,13 @@
 
 *   [Master Pose](https://www.youtube.com/@Masterpose/videos) - Spanish tutorials, top lists & news.
 
-## [17. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [18. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [wasm-language-tools (⭐20)](https://github.com/g-plane/wasm-language-tools) — WebAssembly Language Tools aims to provide and improve the editing experience of WebAssembly Text Format. It also provides an out-of-the-box formatter (a.k.a. pretty printer) for WebAssembly Text Format.
 
-## [18. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [19. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -347,25 +377,51 @@
 *   [NDJSON (⭐715) (⭐715)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐375) (⭐374)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [19. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Online Tools and Applications
 
 *   [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input.
 
-## [20. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+### Model Context Protocol
+
+*   [Introducing the Model Context Protocol \ Anthropic](https://www.anthropic.com/news/model-context-protocol)
+    *   an open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools.
+    *   developers can either expose their data through MCP servers or build AI applications (MCP clients) that connect to these servers.
+*   [Model Context Protocol](https://github.com/modelcontextprotocol): Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools.
+*   [Introduction - Model Context Protocol](https://modelcontextprotocol.io/introduction)
+    *   Think of MCP like a USB-C port for AI applications.
+    *   MCP helps you build agents and complex workflows on top of LLMs.
+*   Examples
+    *   [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
+    *   [abhiz123/todoist-mcp-server (⭐71)](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
+*   List of Servers
+    *   [modelcontextprotocol/servers: Model Context Protocol Servers (⭐14k)](https://github.com/modelcontextprotocol/servers)
+    *   [Awesome MCP Servers](https://mcpservers.org/)
+    *   [punkpeye/awesome-mcp-servers (⭐5.2k)](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
+    *   [Composio MCP Server](https://mcp.composio.dev/): Connect Cursor, Windsurf, and Claude to 100+ fully managed MCP Servers with built-in auth
+        *   These servers are built by the community and are hosted by Composio
+*   [Example Clients - Model Context Protocol](https://modelcontextprotocol.io/clients)
+*   [Building MCP with LLMs - Model Context Protocol](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
+*   [Add Supabase to Cursor via MCP](https://x.com/dshukertjr/status/1896531501514109056)
+*   [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic - YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg): AI Engineer Summit workshop
+*   [loopwork-ai/emcee (⭐118)](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
+*   [MCP Run](https://docs.mcp.run/): a registry of AI tools that can be developed by anyone and used inside any AI application
+*   [modelcontextprotocol/inspector (⭐538)](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
+
+## [21. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Internationalization
 
 *   [Falsehoods about Language](https://www.lexiconista.com/falsehoods-about-languages/) - Additional cases to complement the previous article.
 
-## [21. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [22. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Go / React
 
 *   [gql (⭐4)](https://github.com/kadirpekel/gql) - Code first graphql (graphql-go/graphql) schema builder.
 
-## [22. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [23. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures
 
@@ -376,31 +432,35 @@
 *   [40+ Data Analytics Projects Ideas](https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/)
 *   [Best Data Science Courses with Certificates](https://www.appliedaicourse.com/blog/best-data-science-courses/)
 
-## [23. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [24. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
 *   [veb (⭐36k)](https://github.com/vlang/v/tree/master/vlib/veb) - V's built-in web framework.
 
-## [24. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [25. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Testing
 
 *   [CodeRabbit (⭐25)](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
 
-## [25. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [26. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
 *   [Playwright CRX (⭐214)](https://github.com/ruifigueira/playwright-crx) - Playwright codegen as a chrome extension. Available in [Chrome Web Store](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd).
 
-## [26. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [27. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Go Compilers
 
 *   [go2hx (⭐107)](https://github.com/go2hx/go2hx) - Compiler from Go to Haxe to Javascript/C++/Java/C#.
 
-## [27. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+### Logging
+
+*   [lazyjournal (⭐381)](https://github.com/Lifailon/lazyjournal) - A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods.
+
+## [28. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### Communications / ESP-NOW
 
@@ -438,7 +498,7 @@
 
 *   [pye (⭐232)](https://github.com/robert-hh/Micropython-Editor) - On device editor.
 
-## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / API Development and Analysis
 
@@ -452,13 +512,13 @@
 
 *   [Swads](https://swads.app/) - Synology Download Station Client, modern, native, and intuitively redesign.
 
-## [29. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [30. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Lecture Notes / Monograph
 
 *   [Cambridge Foundations of CS](https://www.cl.cam.ac.uk/teaching/2425/FoundsCS/materials.html) - It teaches programming and presents some fundamental principles of computer science, especially algorithm design.
 
-## [30. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [31. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Security tools
 
@@ -473,7 +533,7 @@
 
 *   [iggy (⭐2.3k)](https://github.com/apache/iggy) \[[iggy](https://crates.io/crates/iggy)] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/apache/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/apache/iggy/actions/workflows/test.yml)
 
-## [31. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [32. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Learning
 
@@ -487,7 +547,7 @@
 
 *   [nvd](https://git.sr.ht/~khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 
-## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Community
 
@@ -534,7 +594,7 @@
 *   [ngrx-manager (⭐1)](https://github.com/smoosee/ngrx-manager) - Plug-N-Play State Manager for NgRx stores.
 *   [ngrx-set (⭐1)](https://github.com/parloti/ngrx-set) - This simplifies the creation of actions for asynchronous requests that can succeed, fail, or be aborted.
 
-## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 

@@ -20,9 +20,29 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [DSpace](http://www.dspace.org/) - Turnkey repository application providing durable access to digital resources. ([Source Code (⭐931)](https://github.com/DSpace/DSpace)) `BSD-3-Clause` `Java`
 
+### Software / Knowledge Management Tools
+
+*   [memEx](https://gitea.bubbletea.dev/shibao/memEx) - A structured personal knowledge base, inspired by zettlekasten and org-mode. `AGPL-3.0` `Docker`
+
+### Software / Miscellaneous
+
+*   [ClipCascade (⭐740)](https://github.com/Sathvik-Rao/ClipCascade) - Syncs your clipboard across multiple devices instantly, without any button press. Available on Windows, macOS, Linux, and Android, it provides seamless and secure clipboard sharing with end-to-end data encryption. `GPL-3.0` `Java/Docker`
+
 ### Software / Money, Budgeting & Management
 
 *   [MyFin Budget](https://myfinbudget.com) - Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. ([Demo (⭐129)](https://github.com/afaneca/myfin?tab=readme-ov-file#demo-account---try-it-for-yourself), [Source Code (⭐129)](https://github.com/afaneca/myfin), [Clients (⭐15)](https://github.com/afaneca/myfin-api)) `AGPL-3.0` `Nodejs/Docker`
+
+### Software / Self-hosting Solutions
+
+*   [Websoft9](https://www.websoft9.com) `⚠` - GitOps-driven, multi-application hosting for cloud servers and home servers, one-click deployment of 200+ open source apps. ([Demo](https://www.websoft9.com/demo), [Source Code (⭐1.6k)](https://github.com/websoft9/websoft9), [Clients](https://www.websoft9.com/apps)) `LGPL-3.0` `Shell/Python`
+
+### Software / Software Development - IDE & Tools
+
+*   [LiveCodes](https://livecodes.io/docs/features/self-hosting) `⚠` - A feature-rich client-side code playground for React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and 90+ other languages. ([Demo](https://livecodes.io), [Source Code (⭐895)](https://github.com/live-codes/livecodes)) `MIT` `Nodejs`
+
+### Software / Web Servers
+
+*   [go-doxy (⭐1.4k)](https://github.com/yusing/godoxy) - A lightweight, simple, and  performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. `MIT` `Docker/Go`
 
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 
@@ -3236,10 +3256,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Groupware
 
 *   [Tracim (⭐227)](https://github.com/tracim/tracim) - Collaborative Platform for team collaboration: file,threads,notes,agenda,etc. `AGPL-3.0/LGPL-3.0/MIT` `Python`
-
-### Software / Human Resources Management (HRM)
-
-*   [TimeOff.Management](https://timeoff.management) - Simple yet powerful absence management software for small and medium size business. ([Demo](https://app.timeoff.management), [Source Code (⭐982)](https://github.com/timeoff-management/timeoff-management-application)) `MIT` `Nodejs`
 
 ### Software / Internet of Things (IoT)
 

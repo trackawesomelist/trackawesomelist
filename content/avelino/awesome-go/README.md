@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 08, 2025](/content/2025/03/08/README.md)
+
+### Logging
+
+*   [lazyjournal (⭐381)](https://github.com/Lifailon/lazyjournal) - A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods.
+
 ## [Mar 03, 2025](/content/2025/03/03/README.md)
 
 ### Go Compilers
@@ -40,7 +46,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Caches
 
-*   [ristretto (⭐5.8k)](https://github.com/dgraph-io/ristretto) -  A high performance memory-bound Go cache.
+*   [ristretto (⭐5.9k)](https://github.com/dgraph-io/ristretto) -  A high performance memory-bound Go cache.
 
 ## [Jan 31, 2025](/content/2025/01/31/README.md)
 
@@ -3534,7 +3540,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Database Schema Migration
 
-*   [atlas (⭐6.4k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
+*   [atlas (⭐6.5k)](https://github.com/ariga/atlas) - A Database Toolkit. A CLI designed to help companies better work with their data.
 *   [avro (⭐47)](https://github.com/khezen/avro) - Discover SQL schemas and convert them to AVRO schemas. Query SQL records into AVRO bytes.
 *   [darwin (⭐145)](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
 *   [go-fixtures (⭐29)](https://github.com/RichardKnop/go-fixtures) - Django style fixtures for Golang's excellent built-in database/sql library.
@@ -3559,7 +3565,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-mysql (⭐4.7k)](https://github.com/siddontang/go-mysql) - Go toolset to handle MySQL protocol and replication.
 *   [octillery (⭐193)](https://github.com/knocknote/octillery) - Go package for sharding databases ( Supports every ORM or raw SQL ).
 *   [pg\_timetable (⭐1.1k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL.
-*   [pgweb (⭐8.7k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
+*   [pgweb (⭐8.8k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
 *   [prep (⭐33)](https://github.com/hexdigest/prep) - Use prepared SQL statements without changing your code.
 *   [pREST (⭐4.3k)](https://github.com/prest/prest) - Simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new.
 *   [rwdb (⭐20)](https://github.com/andizzle/rwdb) - rwdb provides read replica capability for multiple database servers setup.
@@ -3590,7 +3596,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Date and Time
 
-*   [carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime.
+*   [carbon (⭐0)](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime.
 *   [carbon (⭐781)](https://github.com/uniplaces/carbon) - Simple Time extension with a lot of util methods, ported from PHP Carbon library.
 *   [cronrange (⭐17)](https://github.com/1set/cronrange) - Parses Cron-style time range expressions, checks if the given time is within any ranges.
 *   [date (⭐136)](https://github.com/rickb777/date) - Augments Time for working with dates, date ranges, time spans, periods, and time-of-day.
@@ -5043,7 +5049,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Go Generate Tools / Libraries for creating HTTP middlewares
 
 *   [generic (⭐49)](https://github.com/usk81/generic) - flexible data type for Go.
-*   [genny (⭐1.7k)](https://github.com/cheekybits/genny) - Elegant generics for Go.
 *   [gocontracts (⭐113)](https://github.com/Parquery/gocontracts) - brings design-by-contract to Go by synchronizing the code with the documentation.
 *   [godal (⭐18)](https://github.com/mafulong/godal) - Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm.
 *   [gonerics (⭐114)](https://github.com/bouk/gonerics) - Idiomatic Generics in Go.

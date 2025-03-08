@@ -6,6 +6,34 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Mar 08, 2025](/content/2025/03/08/README.md)
+
+### Model Context Protocol
+
+*   [Introducing the Model Context Protocol \ Anthropic](https://www.anthropic.com/news/model-context-protocol)
+    *   an open standard that enables developers to build secure, two-way connections between their data sources and AI-powered tools.
+    *   developers can either expose their data through MCP servers or build AI applications (MCP clients) that connect to these servers.
+*   [Model Context Protocol](https://github.com/modelcontextprotocol): Model Context Protocol (MCP) is an open protocol that enables seamless integration between LLM applications and external data sources and tools.
+*   [Introduction - Model Context Protocol](https://modelcontextprotocol.io/introduction)
+    *   Think of MCP like a USB-C port for AI applications.
+    *   MCP helps you build agents and complex workflows on top of LLMs.
+*   Examples
+    *   [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
+    *   [abhiz123/todoist-mcp-server (⭐71)](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
+*   List of Servers
+    *   [modelcontextprotocol/servers: Model Context Protocol Servers (⭐14k)](https://github.com/modelcontextprotocol/servers)
+    *   [Awesome MCP Servers](https://mcpservers.org/)
+    *   [punkpeye/awesome-mcp-servers (⭐5.2k)](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
+    *   [Composio MCP Server](https://mcp.composio.dev/): Connect Cursor, Windsurf, and Claude to 100+ fully managed MCP Servers with built-in auth
+        *   These servers are built by the community and are hosted by Composio
+*   [Example Clients - Model Context Protocol](https://modelcontextprotocol.io/clients)
+*   [Building MCP with LLMs - Model Context Protocol](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
+*   [Add Supabase to Cursor via MCP](https://x.com/dshukertjr/status/1896531501514109056)
+*   [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic - YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg): AI Engineer Summit workshop
+*   [loopwork-ai/emcee (⭐118)](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
+*   [MCP Run](https://docs.mcp.run/): a registry of AI tools that can be developed by anyone and used inside any AI application
+*   [modelcontextprotocol/inspector (⭐538)](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
+
 ## [Mar 05, 2025](/content/2025/03/05/README.md)
 
 ### Online Tools and Applications
