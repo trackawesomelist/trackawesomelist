@@ -6,6 +6,20 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 10, 2025](/content/2025/03/10/README.md)
+
+### APIs, Data, and ML
+
+*   [Financial Data](https://financialdata.net/) - Stock market and financial data API. Free plan allows 300 requests per day.
+
+### Security and PKI
+
+*   [Project Gatekeeper](https://gatekeeper.binarybiology.top/) - An All-in-One SSL Toolkit Offering various features like Private Key & CSR Generator, SSL Certificate Decoder, Certificate Matcher and Order SSL Certificate. We offer the users to generate Free SSL Certificates from Let's Encrypt, Google Trust and BuyPass using CNAME Records rather than TXT Records.
+
+### Search
+
+*   [easysitesearch.com](https://easysitesearch.com/) — Search widget and API, with automated web-crawler based indexing. Unlimited searches for free, for up to 50 subpages.
+
 ## [Mar 08, 2025](/content/2025/03/08/README.md)
 
 ### APIs, Data, and ML
@@ -2798,12 +2812,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [CodeToImage](https://codetoimage.com/) - Create screenshots of code or text to share on social media.
 *   [OnlineExifViewer](https://onlineexifviewer.com/) — View EXIF data online instantly for a photo including GPS location and metadata.
 *   [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
-
-## [Jun 14, 2022](/content/2022/06/14/README.md)
-
-### Screenshot APIs
-
-*   [Httpic.com](https://httpic.com) — Turn any website into jpg, png or pdf. Capture full-page screenshots, adjust the viewport, and inject custom code. Free tier at 150 images/month.
 
 ## [Jun 12, 2022](/content/2022/06/12/README.md)
 
@@ -6072,7 +6080,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Major Cloud Providers
 
 *   [IBM Cloud](https://www.ibm.com/cloud/free/)
-    *   Object Storage - 25GB per month
     *   Cloudant database - 1 GB of data storage
     *   Db2 database - 100MB of data storage
     *   API Connect - 50,000 API calls per month
