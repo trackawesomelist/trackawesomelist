@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
+
+### Scraping
+
+*   [Corsfix](https://corsfix.com) - CORS Proxy to fetch any web resource and bypass CORS errors.
+
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 
 ### Testing
