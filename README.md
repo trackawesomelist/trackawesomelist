@@ -92,6 +92,22 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [v-vite starter (⭐0)](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
 *   [vite.v (⭐0)](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 
+#### [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Authentication, Authorization, and User Management
+
+*   [SSOJet](https://ssojet.com/) - Add Enterprise SSO Without Rebuilding Your Auth. The free plan includes unlimited monthly active users, unlimited organizations, 2 SSO & 2 SCIM connections.
+
+#### [8. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
+
+##### Integrations
+
+*   [Playwright Angular Schematic (⭐12)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
+
+##### Utils
+
+*   [@bgotink/playwright-coverage (⭐39)](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
+
 ### [Mar 11, 2025](/content/2025/03/11/README.md)
 
 
@@ -137,7 +153,33 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [pinia-plugin-unstorage (⭐1)](https://github.com/litingyes/pinia-plugin-unstorage) - The best persistence plugin with unjs/unstorage for pinia.
 
-#### [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Security tools
+
+*   [0xdea/augur (⭐9)](https://github.com/0xdea/augur) \[[augur](https://crates.io/crates/augur)] - Reverse engineering assistant that extracts strings and related pseudo-code from a binary file [![build](https://github.com/0xdea/augur/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/augur/actions/workflows/build.yml)
+
+##### Libraries / Data processing
+
+*   [cocoindex (⭐199)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
+
+#### [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Concepts / Human Concept Representation
+
+*   [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30250-3) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425)]. \[[Preprint](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf)]. Humans and animals use mental representations of the spatial structure of the world to navigate. The classical view is that these representations take the form of Euclidean cognitive maps, but alternative theories suggest that they are cognitive graphs consisting of locations connected by paths. The authors review evidence suggesting that both map-like and graph-like representations exist in the mind/brain that rely on partially overlapping neural systems. Maps and graphs can operate simultaneously or separately, and they may be applied to both spatial and nonspatial knowledge. By providing structural frameworks for complex information, cognitive maps and cognitive graphs may provide fundamental organizing schemata that allow us to navigate in physical, social, and conceptual spaces.
+
+#### [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-i18n-tools (⭐2)](https://github.com/Ascor8522/ngx-i18n-tools) - A collection of tools to help with the translation of Angular applications, including an Excel and XLIFF converter, [ngx-xlf-xlsx (⭐2)](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
+
+##### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@dytesdk/web-core](https://www.npmjs.com/package/@dytesdk/web-core) - This [quickstart](https://docs.dyte.io/guides/livestream/client-setup/angular) shows how to add Dyte's Livestream SDK to your Angular applications.
+
+#### [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data, and ML
 
@@ -150,32 +192,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Design and UI
 
 *   [Tailcolors](https://tailcolors.com/) -- A beautiful Tailwind CSS v4 color palette. Instantly preview & copy the perfect Tailwind CSS color class.
-
-#### [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications / Security tools
-
-*   [0xdea/augur (⭐9)](https://github.com/0xdea/augur) \[[augur](https://crates.io/crates/augur)] - Reverse engineering assistant that extracts strings and related pseudo-code from a binary file [![build](https://github.com/0xdea/augur/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/augur/actions/workflows/build.yml)
-
-##### Libraries / Data processing
-
-*   [cocoindex (⭐199)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
-
-#### [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Concepts / Human Concept Representation
-
-*   [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30250-3) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425)]. \[[Preprint](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf)]. Humans and animals use mental representations of the spatial structure of the world to navigate. The classical view is that these representations take the form of Euclidean cognitive maps, but alternative theories suggest that they are cognitive graphs consisting of locations connected by paths. The authors review evidence suggesting that both map-like and graph-like representations exist in the mind/brain that rely on partially overlapping neural systems. Maps and graphs can operate simultaneously or separately, and they may be applied to both spatial and nonspatial knowledge. By providing structural frameworks for complex information, cognitive maps and cognitive graphs may provide fundamental organizing schemata that allow us to navigate in physical, social, and conceptual spaces.
-
-#### [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-##### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-i18n-tools (⭐2)](https://github.com/Ascor8522/ngx-i18n-tools) - A collection of tools to help with the translation of Angular applications, including an Excel and XLIFF converter, [ngx-xlf-xlsx (⭐2)](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
-
-##### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [@dytesdk/web-core](https://www.npmjs.com/package/@dytesdk/web-core) - This [quickstart](https://docs.dyte.io/guides/livestream/client-setup/angular) shows how to add Dyte's Livestream SDK to your Angular applications.
 
 ### [Mar 10, 2025](/content/2025/03/10/README.md)
 
@@ -319,27 +335,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Vizard AI](https://vizard.ai/?via=the-marketing-newsletter) - Create social-ready videos with AI instantly
 
-#### [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data, and ML
-
-*   [Financial Data](https://financialdata.net/) - Stock market and financial data API. Free plan allows 300 requests per day.
-
-##### Security and PKI
-
-*   [Project Gatekeeper](https://gatekeeper.binarybiology.top/) - An All-in-One SSL Toolkit Offering various features like Private Key & CSR Generator, SSL Certificate Decoder, Certificate Matcher and Order SSL Certificate. We offer the users to generate Free SSL Certificates from Let's Encrypt, Google Trust and BuyPass using CNAME Records rather than TXT Records.
-
-##### Search
-
-*   [easysitesearch.com](https://easysitesearch.com/) — Search widget and API, with automated web-crawler based indexing. Unlimited searches for free, for up to 50 subpages.
-
-#### [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Concepts / Human Concept Representation
 
 *   [Navigating cognition: Spatial codes for human thinking](https://www.science.org/doi/full/10.1126/science.aat6766) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1407237757770081862)]. \[[Preprint](https://doellerlab.com/wp-content/uploads/2018/11/Bellmund_et_al_2018_Science_Navigating-cognition.pdf)]. The hippocampal formation has long been suggested to underlie both memory formation and spatial navigation. This work discusses how neural mechanisms identified in spatial navigation research operate across information domains to support a wide spectrum of cognitive functions. In the proposed framework, place and grid cell population codes provide a representational format to map variable dimensions of cognitive spaces. This highly dynamic mapping system enables rapid reorganization of codes through remapping between orthogonal representations across behavioral contexts, yielding a multitude of stable cognitive spaces at different resolutions and hierarchical levels. Action sequences result in trajectories through cognitive space, which can be simulated via sequential coding in the hippocampus. In this way, the spatial representational format of the hippocampal formation has the capacity to support flexible cognition and behavior.
 
-#### [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -353,7 +355,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ionic-header-parallax (⭐38)](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
 
-#### [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Design
 
@@ -375,6 +377,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [YAML (⭐376) (⭐374)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
+#### [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [Financial Data](https://financialdata.net/) - Stock market and financial data API. Free plan allows 300 requests per day.
+
+##### Security and PKI
+
+*   [Project Gatekeeper](https://gatekeeper.binarybiology.top/) - An All-in-One SSL Toolkit Offering various features like Private Key & CSR Generator, SSL Certificate Decoder, Certificate Matcher and Order SSL Certificate. We offer the users to generate Free SSL Certificates from Let's Encrypt, Google Trust and BuyPass using CNAME Records rather than TXT Records.
+
+##### Search
+
+*   [easysitesearch.com](https://easysitesearch.com/) — Search widget and API, with automated web-crawler based indexing. Unlimited searches for free, for up to 50 subpages.
+
 ---
 
 - Next: [Mar 09, 2025](&#x2F;content&#x2F;2025&#x2F;03&#x2F;09&#x2F;README.md)
@@ -385,7 +401,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 220K 📝 03&#x2F;12 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 349K 📝 03&#x2F;04 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 139K 📝 03&#x2F;08 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 92K 📝 03&#x2F;11 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 92K 📝 03&#x2F;12 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 6. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 03&#x2F;11 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 7. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 80K 📝 03&#x2F;07 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 8. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K 📝 03&#x2F;11 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
@@ -427,10 +443,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 44. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 37K 📝 02&#x2F;06 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 45. [Awesome Appsec](/content/paragonie/awesome-appsec/README.md) - ([Source ⭐ 6.4K 📝 02&#x2F;23 ](https://github.com/paragonie/awesome-appsec)) - A curated list of resources for learning about application security
 46. [Awesome Developer First](/content/agamm/awesome-developer-first/README.md) - ([Source ⭐ 1.2K 📝 03&#x2F;11 ](https://github.com/agamm/awesome-developer-first)) - A curated list of awesome developer-first tools products.
-47. [Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md) - ([Source ⭐ 13K 📝 02&#x2F;14 ](https://github.com/oxnr/awesome-bigdata)) - A curated list of awesome big data frameworks, ressources and other awesomeness.
-48. [Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md) - ([Source ⭐ 18K 📝 02&#x2F;11 ](https://github.com/alexpate/awesome-design-systems)) - 💅🏻 ⚒ A collection of awesome design systems
-49. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 13K 📝 02&#x2F;14 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
-50. [Awesome Billing](/content/kdeldycke/awesome-billing/README.md) - ([Source ⭐ 1K 📝 03&#x2F;11 ](https://github.com/kdeldycke/awesome-billing)) - 💰 Billing & Payments knowledge for cloud platforms
+47. [Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md) - ([Source ⭐ 1K 📝 03&#x2F;12 ](https://github.com/mxschmitt/awesome-playwright)) - A curated list of awesome tools, utils and projects using Playwright
+48. [Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md) - ([Source ⭐ 13K 📝 02&#x2F;14 ](https://github.com/oxnr/awesome-bigdata)) - A curated list of awesome big data frameworks, ressources and other awesomeness.
+49. [Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md) - ([Source ⭐ 18K 📝 02&#x2F;11 ](https://github.com/alexpate/awesome-design-systems)) - 💅🏻 ⚒ A collection of awesome design systems
+50. [Awesome Elixir](/content/h4cc/awesome-elixir/README.md) - ([Source ⭐ 13K 📝 02&#x2F;14 ](https://github.com/h4cc/awesome-elixir)) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 
 ## All Tracked List
 
@@ -980,7 +996,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.1K, 📝 24&#x2F;12&#x2F;17 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.9K, 📝 02&#x2F;05 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 92K, 📝 03&#x2F;11 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 92K, 📝 03&#x2F;12 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.2K, 📝 24&#x2F;09&#x2F;12 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 12K, 📝 24&#x2F;10&#x2F;03 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 4K, 📝 01&#x2F;31 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
@@ -1169,7 +1185,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md) - ([Source ⭐ 72, 📝 24&#x2F;10&#x2F;07 ](https://github.com/aliesbelik/awesome-gatling)) - A collection of resources covering different aspects of Gatling load testing tool usage.
 - [Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md) - ([Source ⭐ 732, 📝 24&#x2F;11&#x2F;12 ](https://github.com/aliesbelik/awesome-jmeter)) - A collection of resources covering different aspects of JMeter usage.
 - [Awesome K6](/content/grafana/awesome-k6/README.md) - ([Source ⭐ 588, 📝 24&#x2F;08&#x2F;27 ](https://github.com/grafana/awesome-k6)) - A curated list of awesome tools, content and projects using k6
-- [Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md) - ([Source ⭐ 1K, 📝 03&#x2F;03 ](https://github.com/mxschmitt/awesome-playwright)) - A curated list of awesome tools, utils and projects using Playwright
+- [Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md) - ([Source ⭐ 1K, 📝 03&#x2F;12 ](https://github.com/mxschmitt/awesome-playwright)) - A curated list of awesome tools, utils and projects using Playwright
 - [Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md) - ([Source ⭐ 2.2K, 📝 01&#x2F;22 ](https://github.com/mojoaxel/awesome-regression-testing)) - 🕶️ A curated list of resources around the topic: visual regression testing
 - [Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md) - ([Source ⭐ 1K, 📝 01&#x2F;22 ](https://github.com/christian-bromann/awesome-selenium)) - A curated list of delightful Selenium resources.
 - [Awesome Tap](/content/sindresorhus/awesome-tap/README.md) - ([Source ⭐ 587, 📝 23&#x2F;01&#x2F;05 ](https://github.com/sindresorhus/awesome-tap)) - Useful resources for the Test Anything Protocol

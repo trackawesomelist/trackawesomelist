@@ -6,6 +6,16 @@ A curated list of awesome tools, utils and projects using Playwright
 
 [ [Daily](/content/mxschmitt/awesome-playwright/README.md) / Weekly / [Overview](/content/mxschmitt/awesome-playwright/readme/README.md) ]
 
+## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
+
+### Integrations
+
+*   [Playwright Angular Schematic (⭐12)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
+
+### Utils
+
+*   [@bgotink/playwright-coverage (⭐39)](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
+
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
 
 ### Integrations
@@ -127,7 +137,7 @@ A curated list of awesome tools, utils and projects using Playwright
 
 ### Integrations
 
-*   [playwright-bdd (⭐370)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
+*   [playwright-bdd (⭐389)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 
 ## [May 29 - Jun 04, 2023](/content/2023/22/README.md)
 
@@ -288,7 +298,7 @@ A curated list of awesome tools, utils and projects using Playwright
 ### Showcases
 
 *   [playwright-jest-examples (⭐104)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐168k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [VS Code (⭐169k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 *   [TypeScript (⭐102k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
 *   [Elastic APM JS agent (⭐284)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
 *   [Blockstack (⭐320)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.

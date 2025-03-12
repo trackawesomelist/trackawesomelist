@@ -30,6 +30,7 @@ A curated list of awesome tools, utils and projects using Playwright
 *   [CodeceptJS (⭐4.1k)](https://github.com/Codeception/CodeceptJS) - Supercharged End 2 End Testing Framework for Node.js.
 *   [Chromium for Serverless platforms (⭐1.2k)](https://github.com/Sparticuz/chromium?tab=readme-ov-file#usage-with-playwright) - Chromium for Serverless platforms.
 *   [playwright-chrome-recorder (⭐24)](https://github.com/AndrewUsher/playwright-chrome-recorder) - Export Playwright tests from Google Chrome DevTools' recordings programmatically.
+*   [Playwright Angular Schematic (⭐12)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 *   [Playwright Chrome Recorder Extension (⭐11)](https://github.com/AndrewUsher/playwright-recorder-extension) - Export DevTools Recordings as Playwright Tests directly from the DevTools Recorder Panel.
 *   [Playwright CRX (⭐214)](https://github.com/ruifigueira/playwright-crx) - Playwright codegen as a chrome extension. Available in [Chrome Web Store](https://chromewebstore.google.com/detail/playwright-crx/jambeljnbnfbkcpnoiaedcabbgmnnlcd).
 *   [playwright-github-action (⭐343)](https://github.com/microsoft/playwright-github-action) - GitHub Action to install all the required dependencies.
@@ -40,7 +41,7 @@ A curated list of awesome tools, utils and projects using Playwright
 *   [expect-axe-playwright (⭐24)](https://github.com/Widen/expect-axe-playwright) - Expect matchers to perform Axe accessibility tests in your Playwright tests.
 *   [cucumber-playwright (⭐407)](https://github.com/Tallyb/cucumber-playwright) - A starter repo for writing E2E tests based on Cucumber with Playwright using Typescript.
 *   [artillery-engine-playwright (⭐8.3k)](https://github.com/artilleryio/artillery/tree/main/packages/artillery-engine-playwright) - Load testing with Playwright.
-*   [playwright-bdd (⭐370)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
+*   [playwright-bdd (⭐389)](https://github.com/vitalets/playwright-bdd) - BDD testing with Playwright runner and CucumberJS.
 *   [Serenity/JS](https://serenity-js.org) - Acceptance testing, reporting, and test integration framework for Playwright, implementing the [Screenplay Pattern](https://serenity-js.org/handbook/design/screenplay-pattern/).
 *   [@guidepup/playwright (⭐63)](https://github.com/guidepup/guidepup-playwright) - VoiceOver and NVDA screen reader driver integration for Playwright.
 *   [@appetize/playwright](https://docs.appetize.io/testing) - Mobile tests for web or native apps on [Appetize](https://www.appetize.io)'s virtual devices using Playwright Test Runner.
@@ -68,6 +69,7 @@ A curated list of awesome tools, utils and projects using Playwright
 *   [expect-playwright (⭐149)](https://github.com/playwright-community/expect-playwright) - Expect utility matcher functions to simplify expect statements for the usage with Playwright Test or Jest Playwright.
 *   [eslint-plugin-playwright (⭐304)](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for your Playwright testing needs.
 *   [Moon (⭐232)](https://github.com/aerokube/moon) - Tools for executing Playwright tests in parallel in a Kubernetes cluster.
+*   [@bgotink/playwright-coverage (⭐39)](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
 *   [playwright-test-coverage (⭐88)](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
 *   [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Official Playwright test extension for VS Code.
 *   [Maestro for IntelliJ](https://plugins.jetbrains.com/plugin/18100-maestro) - Playwright plugin for IntelliJ.
@@ -99,7 +101,7 @@ A curated list of awesome tools, utils and projects using Playwright
 
 *   [Demo.Playwright (⭐275)](https://github.com/MarcusFelling/Demo.Playwright) - Various testing scenarios with Playwright, using the official test-runner and scripts authored in TypeScript.
 *   [playwright-jest-examples (⭐104)](https://github.com/playwright-community/playwright-jest-examples) - Examples of the Jest Playwright tools in combination to test popular sites.
-*   [VS Code (⭐168k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
+*   [VS Code (⭐169k)](https://github.com/microsoft/vscode) - Playwright is used to run cross-browser tests on their web builds.
 *   [TypeScript (⭐102k)](https://github.com/microsoft/TypeScript) - Playwright is used test typescript.js across browsers.
 *   [Elastic APM JS agent (⭐284)](https://github.com/elastic/apm-agent-rum-js) - Playwright is used to run benchmark tests across browsers.
 *   [Blockstack (⭐320)](https://github.com/blockstack/ux) - Playwright is used to run cross-browser UI tests.
