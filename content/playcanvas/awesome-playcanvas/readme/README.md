@@ -2,7 +2,7 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 270 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 276 · 🏷️ Gaming
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / Overview ]
 
@@ -27,25 +27,27 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Extensions and Utilities](#extensions-and-utilities)
 *   [Technical Demos](#technical-demos)
 *   [Interactive Experiences](#interactive-experiences)
-*   [Browser Games](#browser-games)
-*   [IO Games](#io-games)
-*   [Messenger Games](#messenger-games)
-*   [YouTube Playables](#youtube-playables)
+*   [Games](#games)
+    *   [Browser Games](#browser-games)
+    *   [IO Games](#io-games)
+    *   [Messenger Games](#messenger-games)
+    *   [YouTube Playables](#youtube-playables)
 *   [Automotive](#automotive)
 *   [Product Configurators](#product-configurators)
 *   [AR/VR/XR](#arvrxr)
+*   [Generative AI](#generative-ai)
 *   [Blockchain/Crypto/NFT](#blockchaincryptonft)
 
 ## PlayCanvas Products
 
-*   [PlayCanvas Engine (⭐9.9k)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
-*   [PlayCanvas React (⭐115)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
-*   [PlayCanvas Web Components (⭐22)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
+*   [PlayCanvas Engine (⭐10k)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
+*   [PlayCanvas React (⭐174)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
+*   [PlayCanvas Web Components (⭐25)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
 *   [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 *   [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 *   [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
-*   [Texture Tool (⭐6)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
-*   [PCUI (⭐692)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
+*   [Texture Tool (⭐7)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
+*   [PCUI (⭐698)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
 
 ## Community
 
@@ -77,12 +79,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ## Extensions and Utilities
 
 *   [8th Wall](https://www.8thwall.com/docs/api/playcanvas/getting-started/) - Markerless AR runtime.
-*   [playcanvas-ar (⭐240)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
-*   [playcanvas-node (⭐6)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
-*   [playcanvas-p2.js (⭐24)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
-*   [playcanvas-rest-api-tools (⭐24)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
+*   [playcanvas-ar (⭐241)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
+*   [playcanvas-node (⭐5)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
+*   [playcanvas-p2.js (⭐23)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
+*   [playcanvas-rest-api-tools (⭐25)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 *   [playcanvas-spine (⭐49)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
-*   [playcanvas-tween (⭐60)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
+*   [playcanvas-tween (⭐61)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 *   [playcanvas-vue (⭐42)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
 *   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐6.8k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
 *   [tween.js (⭐9.9k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
@@ -120,7 +122,9 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Virtual Statues](https://playcanv.as/e/p/cLkf99ZV/) - A digital museum built with 3D Gaussian Splatting.
 *   [Wild Rift](https://unlock.wildrift.leagueoflegends.com/) - Solve the puzzle to unlock a League of Legends: Wild Rift character.
 
-## Browser Games
+## Games
+
+### Browser Games
 
 *   [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) - Outdoor adventures in this game from the BBC.
 *   [Bubble Tower 3D](https://play.famobi.com/bubble-tower-3d) - Old school bubbleshooter game.
@@ -133,6 +137,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D pong game.
 *   [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learn programming fundamentals with Disney's Moana.
 *   [Euro Penalty Cup 2021](https://play.famobi.com/euro-penalty-cup-2021) - Try to hit the goal and outsmart the goalkeeper.
+*   [Fishing League](https://poki.com/en/g/fishing-league) - Climb the ranks and become the ultimate angler.
 *   [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - Guide the bird through as many pipes as possible.
 *   [Free Kick Football](https://gamesnacks.com/games/freekickfootball) - Curve the ball to score goals.
 *   [Full Speed Racing](https://gamesnacks.com/games/fullspeedracing) - Drive as far as you can before the time runs out.
@@ -161,7 +166,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Town Star](https://gala.games) - Online farming game built by the Creative Director of Farmville 2.
 *   [Virtual Voodoo](https://playcanv.as/p/tRUfwVg1/) - Voodoo doll simulator.
 
-## IO Games
+### IO Games
 
 *   [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
 *   [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
@@ -180,11 +185,11 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Warbands](https://www.warbands.io/) - 3D Multiplayer FPS shooter.
 *   [Wheat Farming](https://poki.com/en/g/wheat-farming) - Multiplayer farming game.
 
-## Messenger Games
+### Messenger Games
 
 *   [GameWave](https://apps.apple.com/us/app/gamewave-games-for-imessage/id1506797690) - Multiplayer games for iMessage.
 
-## YouTube Playables
+### YouTube Playables
 
 *   [Cannon Balls 3D](https://www.youtube.com/playables/UgkxtJBl0ZoeInS-4l5yzLRPqToF7zHv4dhr) - Use the cannon to destroy the various structures in this physics-based game.
 *   [Color Burst 3D](https://www.youtube.com/playables/UgkxcobZM_stIxOBW-bQwKcrUiYbg11g4x55) - Hit the colored wall matching the ball color.
@@ -237,6 +242,11 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Viverse](https://www.viverse.com/) - Open platform for virtual worlds and environments developed by HTC.
 *   [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
 
+## Generative AI
+
+*   [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
+*   [Ideate](https://ideate.xyz/) - AI-powered 3D art suite on the web.
+
 ## Blockchain/Crypto/NFT
 
 *   [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
@@ -247,5 +257,5 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## Contributing
 
-Please see [CONTRIBUTING (⭐270)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING (⭐276)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
 

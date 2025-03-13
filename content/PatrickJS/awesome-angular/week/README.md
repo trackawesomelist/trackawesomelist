@@ -8,9 +8,14 @@
 
 ## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
 
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Playful Programming](https://playfulprogramming.com/)
+
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-react-bridge (⭐2)](https://github.com/john310897/ng-react-bridge) - A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.
+*   [zag-angular (⭐1)](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag (⭐4.3k)](https://github.com/chakra-ui/zag).
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -33,12 +38,17 @@
 
 *   [activereportsjs/angular-reporting-tool](https://developer.mescius.com/activereportsjs/angular-reporting-tool) - A set of Angular components used for data consolidation and visualization. [ActiveReportsJS](https://developer.mescius.com/activereportsjs) is a solution used by Angular developers to embed reporting within web applications.
 
+### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [mdbook-angular (⭐2)](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns angular code samples into running Angular applications.
+
 ### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@dytesdk/web-core](https://www.npmjs.com/package/@dytesdk/web-core) - This [quickstart](https://docs.dyte.io/guides/livestream/client-setup/angular) shows how to add Dyte's Livestream SDK to your Angular applications.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
+*   [@ng-verse/ui (⭐37)](https://github.com/ngverse/ui) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://ui.ngverse.dev/) for more.
 *   [@koobiq/angular-components (⭐24)](https://github.com/koobiq/angular-components) - An open-source design system for designers and developers, focused on designing products related to information security. Gives you access to a broad range of UI patterns, UI components, design tools, resources, and content guidelines to accelerate collaboration.
 
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -151,7 +161,7 @@
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-signal-pipes (⭐6)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
+*   [ngx-signal-pipes (⭐10)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
 *   [ng-gd (⭐1)](https://github.com/luisalejandrofigueredo/ng-gd) - An easy way to manage a canvas element with support for mouse or tablet events.
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -322,7 +332,7 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [primitives (⭐155)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+*   [primitives (⭐162)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 *   [xUI (⭐9)](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
 
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -374,10 +384,6 @@
 ### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [dexie (⭐13k)](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB.
-
-### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ng-verse (⭐38)](https://github.com/lukonik/ng-verse) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://www.ng-verse.dev/) for more.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

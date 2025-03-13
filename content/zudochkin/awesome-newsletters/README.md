@@ -6,6 +6,12 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Mar 13, 2025](/content/2025/03/13/README.md)
+
+### General Section / Svelte
+
+*   [The Coder Cafe](https://thecoder.cafe). One concept for coders, every day.
+
 ## [Feb 02, 2025](/content/2025/02/02/README.md)
 
 ### Leadership / Svelte
@@ -851,7 +857,7 @@ A list of amazing Newsletters
 
 ### R / Svelte
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐737)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐745)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Svelte
 

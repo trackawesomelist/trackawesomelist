@@ -1,12 +1,83 @@
 # Awesome List Updates on Mar 17 - Mar 23, 2025
 
-23 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [1. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+
+### 3D
+
+*   [Wonder Dynamics](https://wonderdynamics.com/) -  Specializes in AI-driven tools for creating 3D visual effects and character animation, enabling users to integrate 3D characters into live-action footage​. `#paid`
+
+### Developer
+
+*   [Bubble](https://bubble.io/) - Bubble is a no-code platform that allows users to build web applications with ease, integrating AI functionalities like chatbots and content generation. `#freemium`
+*   [Glide](https://www.glideapps.com/) - no-code platform that allows users to create AI-powered applications quickly and easily using their business data, with customer support chatbots. `#freemium`
+
+### Education
+
+*   [Quizb](https://quizb.ai) - Generate engaging quiz questions effortlessly with QuizB.ai. Harness the power of AI to create customized quizzes for education, training, and fun. `#freemium`
+
+### Email Assistant
+
+*   [Superhuman](https://superhuman.com/) -Email client designed for Gmail, focusing on speed and productivity with features like AI email prioritization and instant actions `#paid`
+
+### Fashion
+
+*   [Intelistyle](https://www.intelistyle.com/) -  offers personalized styling and virtual try-on features for a better online shopping experience. `#paid`
+*   [Zyler](https://business.zyler.com/) - Enables customers to virtually try on clothes, offering a personalized shopping experience. `#paid`
+
+### Gift Ideas
+
+*   [myGiftAgent](https://www.mygiftagent.com/) - Your AI-powered gift recommendation assistant, helping you find the perfect presents for your loved ones. `#free`
+
+### Image Generator
+
+*   [ID Photo API AI](https://idphoto.ai/) - Passport Photo API to convert regular photo to passport photo. `freemium`
+
+### Productivity
+
+*   [Multi Gen](https://multi-gen-ai.vercel.app/) - Multi-Gen: All-in-one AI platform for content and productivity solutions. `#free`
+
+### Spreadsheets
+
+*   [Airtable](https://www.airtable.com/) -A user-friendly platform that blends spreadsheet features with database functionality for organizing projects, managing content, and tracking inventories`#freemium`
+*   [Excelmatic](https://excelmatica.com) - Chat with Excel, effortlessly process(analyze) Excel data using natural language with Excelmatic `#freemium`
+
+## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Ethics, Philosophical questions and Discussions about Generative AI
+
+*   [🔭 The Einstein AI model](https://thomwolf.io/blog/scientific-ai.html)
+
+### Vibe Coding
+
+*   [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383): "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
+*   [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
+*   [Bolt.new](https://bolt.new/): Prompt, run, edit, and deploy full-stack web and mobile apps.
+*   [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
+
+## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+
+### Games / Browser Games
+
+*   [Fishing League](https://poki.com/en/g/fishing-league) - Climb the ranks and become the ultimate angler.
+
+### Generative AI / YouTube Playables
+
+*   [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
+*   [Ideate](https://ideate.xyz/) - AI-powered 3D art suite on the web.
+
+## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+
+### General Section / Svelte
+
+*   [The Coder Cafe](https://thecoder.cafe). One concept for coders, every day.
+
+## [5. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -16,33 +87,33 @@
 
 *   [@bgotink/playwright-coverage (⭐39)](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
 
-## [2. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [6. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
 *   [v-vite starter (⭐0)](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
 *   [vite.v (⭐0)](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - SIP
 
 *   [Flexisip](https://www.linphone.org/en/flexisip-sip-server/) - A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ([Source Code (⭐160)](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`
 
-## [4. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [8. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Programming fonts / Programming fonts with ligatures
 
 *   [JetBrains Maple Mono (⭐533)](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - The free and open-source font fused with JetBrains Mono & Maple Mono
 
-## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [capsule (⭐3)](https://github.com/42LM/capsule) - A simple single file terminal prompt that is completely customizable. Display is divided into capsules (`TIMER` > `DIR` > `GIT` > `GIT ACTION`).
 *   [git-venv-prompt (⭐0)](https://github.com/walkingshamrock/zsh-git-venv-prompt) - Enhances your Zsh prompt with information about the current Python virtual environment and the Git status (asynchronously). It uses zsh-async to provide async updates for Git status and displays the virtual environment in the second line of the prompt.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Security tools
 
@@ -52,26 +123,26 @@
 
 *   [cocoindex (⭐199)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [pinia-plugin-unstorage (⭐1)](https://github.com/litingyes/pinia-plugin-unstorage) - The best persistence plugin with unjs/unstorage for pinia.
 
-## [8. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [12. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
 *   [tmux-current-pane-hostname (⭐2)](https://github.com/tony-sol/tmux-current-pane-hostname) Show current user and hostname in ssh sessions
 *   [tmux-kubectx (⭐4)](https://github.com/tony-sol/tmux-kubectx) Show kubernetes context in statusbar
 
-## [9. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [13. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Connectors
 
 *   [wtx (⭐256)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
-## [10. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [14. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing / Usage-based Pricing
 
@@ -81,32 +152,33 @@
 
 *   [£sd computing](https://en.wikipedia.org/wiki/£sd#Computing) - The IBM 1401 mainframe (1959) optionally supported pounds/shillings/pence (£sd) currency arithmetics in hardware.
 
-## [11. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [15. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Scraping
 
 *   [Corsfix](https://corsfix.com) - CORS Proxy to fetch any web resource and bypass CORS errors.
 
-## [12. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [16. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [tfmcp (⭐40)](https://github.com/nwiizo/tfmcp) - A CLI tool that helps you interact with Terraform via the Model Context Protocol (MCP), allowing AI assistants like Claude to manage and operate Terraform environments.
 
-## [13. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [17. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Editor's Choice
 
 *   [Vizard AI](https://vizard.ai/?via=the-marketing-newsletter) - Create social-ready videos with AI instantly
 
-## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [18. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
 *   [Navigating cognition: Spatial codes for human thinking](https://www.science.org/doi/full/10.1126/science.aat6766) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1407237757770081862)]. \[[Preprint](https://doellerlab.com/wp-content/uploads/2018/11/Bellmund_et_al_2018_Science_Navigating-cognition.pdf)]. The hippocampal formation has long been suggested to underlie both memory formation and spatial navigation. This work discusses how neural mechanisms identified in spatial navigation research operate across information domains to support a wide spectrum of cognitive functions. In the proposed framework, place and grid cell population codes provide a representational format to map variable dimensions of cognitive spaces. This highly dynamic mapping system enables rapid reorganization of codes through remapping between orthogonal representations across behavioral contexts, yielding a multitude of stable cognitive spaces at different resolutions and hierarchical levels. Action sequences result in trajectories through cognitive space, which can be simulated via sequential coding in the hippocampus. In this way, the spatial representational format of the hippocampal formation has the capacity to support flexible cognition and behavior.
 *   [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30250-3) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425)]. \[[Preprint](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf)]. Humans and animals use mental representations of the spatial structure of the world to navigate. The classical view is that these representations take the form of Euclidean cognitive maps, but alternative theories suggest that they are cognitive graphs consisting of locations connected by paths. The authors review evidence suggesting that both map-like and graph-like representations exist in the mind/brain that rely on partially overlapping neural systems. Maps and graphs can operate simultaneously or separately, and they may be applied to both spatial and nonspatial knowledge. By providing structural frameworks for complex information, cognitive maps and cognitive graphs may provide fundamental organizing schemata that allow us to navigate in physical, social, and conceptual spaces.
+*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188)]. \[[Preprint](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf)]. \[[Code & Tutorial (⭐32)](https://github.com/HuthLab/speechmodeltutorial)]. The meaning of language is represented in regions of the cerebral cortex collectively known as the ‘semantic system’. However, little of the semantic system has been mapped comprehensively, and the semantic selectivity of most regions is unknown. This work systematically maps semantic selectivity across the cortex using voxel-wise modelling of functional MRI (fMRI) data collected while subjects listened to hours of narrative stories. This work shows that the semantic system is organized into intricate patterns that seem to be consistent across individuals. The authors then use a novel generative model to create a detailed semantic atlas. The results suggest that most areas within the semantic system represent information about specific semantic domains, or groups of related concepts, and the atlas shows which domains are represented in each area. This study demonstrates that data-driven methods---commonplace in studies of human neuroanatomy and functional connectivity---provide a powerful and efficient means for mapping functional representations in the brain.
 
-## [15. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [19. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Scirra
 
@@ -196,7 +268,7 @@
 *   [Level Up - The Educator's Edition](https://www.construct.net/en/make-games/education/resources/ebook) - The ideal companion for anyone using Construct in the classroom.
 *   [Construct 3 Starter Curriculum](https://www.construct.net/en/make-games/education/resources/curriculum) - Free starter curriculum for Construct aimed at teaching students the basics of Computer Science.
 
-## [16. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [20. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Adventure starters and scenarios / Ironsworn
 
@@ -210,7 +282,7 @@
 *   [The Ferrum Mysteries](https://croakerrpgs.itch.io/the-ferrum-mysteries) - Explore the mystery behind the iron pillars
 *   [Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) - Find out what happened to the settlement Shiningstar
 
-## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [21. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
@@ -220,13 +292,13 @@
 
 *   [y3owk1n/nvs (⭐3)](https://github.com/y3owk1n/nvs) - Another Neovim version manager with config switcher.
 
-## [18. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [22. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Portfolio Management
 
 *   [skfolio (⭐1.4k)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn.
 
-## [19. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [23. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
@@ -259,7 +331,7 @@
 *   [NDJSON (⭐717) (⭐715)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐376) (⭐374)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -286,11 +358,16 @@
 
 *   [Tailcolors](https://tailcolors.com/) -- A beautiful Tailwind CSS v4 color palette. Instantly preview & copy the perfect Tailwind CSS color class.
 
-## [21. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [25. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Playful Programming](https://playfulprogramming.com/)
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-react-bridge (⭐2)](https://github.com/john310897/ng-react-bridge) - A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.
+*   [zag-angular (⭐1)](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag (⭐4.3k)](https://github.com/chakra-ui/zag).
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -313,12 +390,17 @@
 
 *   [activereportsjs/angular-reporting-tool](https://developer.mescius.com/activereportsjs/angular-reporting-tool) - A set of Angular components used for data consolidation and visualization. [ActiveReportsJS](https://developer.mescius.com/activereportsjs) is a solution used by Angular developers to embed reporting within web applications.
 
+### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [mdbook-angular (⭐2)](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns angular code samples into running Angular applications.
+
 ### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@dytesdk/web-core](https://www.npmjs.com/package/@dytesdk/web-core) - This [quickstart](https://docs.dyte.io/guides/livestream/client-setup/angular) shows how to add Dyte's Livestream SDK to your Angular applications.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
+*   [@ng-verse/ui (⭐37)](https://github.com/ngverse/ui) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://ui.ngverse.dev/) for more.
 *   [@koobiq/angular-components (⭐24)](https://github.com/koobiq/angular-components) - An open-source design system for designers and developers, focused on designing products related to information security. Gives you access to a broad range of UI patterns, UI components, design tools, resources, and content guidelines to accelerate collaboration.
 
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -329,13 +411,13 @@
 
 *   [ionic-header-parallax (⭐38)](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
 
-## [22. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [26. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
 *   [Txeo (⭐46)](https://github.com/rdabra/txeo) - A modern C++ wrapper for TensorFlow.
 
-## [23. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [27. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 

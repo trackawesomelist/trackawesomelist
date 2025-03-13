@@ -6,6 +6,19 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Mar 13, 2025](/content/2025/03/13/README.md)
+
+### Ethics, Philosophical questions and Discussions about Generative AI
+
+*   [🔭 The Einstein AI model](https://thomwolf.io/blog/scientific-ai.html)
+
+### Vibe Coding
+
+*   [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383): "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
+*   [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
+*   [Bolt.new](https://bolt.new/): Prompt, run, edit, and deploy full-stack web and mobile apps.
+*   [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
+
 ## [Mar 08, 2025](/content/2025/03/08/README.md)
 
 ### Model Context Protocol
@@ -109,7 +122,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Large Language Models (LLMs)
 
-*   [comet-ml/opik (⭐5.1k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
+*   [comet-ml/opik (⭐5.3k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 
 ### AI Engineering / Multi-agents
 
@@ -132,16 +145,16 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Dec 05, 2024](/content/2024/12/05/README.md)
 
+### Vibe Coding
+
+*   [Lovable](https://lovable.dev/): "Idea to app in seconds. Lovable is your superhuman full stack engineer."
+*   [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
+*   [Cursor](https://www.cursor.com/): The AI Code Editor, "the best way to code with AI"
+
 ### Autonomous LLM Agents / Multi-agents
 
 *   [\[2411.00114\] Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/abs/2411.00114)
 *   [joonspk-research/generative\_agents (⭐19k)](https://github.com/joonspk-research/generative_agents): implementation of the paper Generative Agents: Interactive Simulacra of Human Behavior
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [Lovable](https://lovable.dev/): "Idea to app in seconds. Lovable is your superhuman full stack engineer."
-*   [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
-*   [Cursor](https://www.cursor.com/): The AI Code Editor
 
 ## [Dec 04, 2024](/content/2024/12/04/README.md)
 
@@ -209,6 +222,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Oct 28, 2024](/content/2024/10/28/README.md)
 
+### Online Tools and Applications
+
+*   [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q\&A, Testing, Debugging and System Design or create your own purpose-built agents.
+
 ### Attacks on LLMs / Multi-agents
 
 *   [ZombAIs](https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/): From Prompt Injection to C2 with Claude Computer Use
@@ -217,11 +234,11 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Melies](https://melies.co/): All-in-one AI filmmaking software
 
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q\&A, Testing, Debugging and System Design or create your own purpose-built agents.
-
 ## [Oct 20, 2024](/content/2024/10/20/README.md)
+
+### Online Tools and Applications
+
+*   [batchai (⭐58)](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
@@ -235,10 +252,6 @@ A curated list of Generative AI tools, works, models, and references
 *   [LMExamQA](https://lmexam.com): a leaderboard that benchmarks foundation models with Language-Model-as-an-Examiner.
 *   [The Pile](https://pile.eleuther.ai): a leaderboard of The Pile benchmark.
 
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [batchai (⭐58)](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
-
 ## [Oct 16, 2024](/content/2024/10/16/README.md)
 
 ### Autonomous LLM Agents / Multi-agents
@@ -249,7 +262,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Large Language Models (LLMs)
 
-*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐8.8k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐9.3k)](https://github.com/langfuse/langfuse)
 
 ### Image Segmentation / Deforum
 
@@ -424,7 +437,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jul 20, 2024](/content/2024/07/20/README.md)
 
-### Speech-to-text (STT) and spoken content analysis / Deforum
+### Online Tools and Applications
 
 *   [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
 
@@ -516,6 +529,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [COUNT](https://getcount.com): AI-powered accounting for small businesses
 *   [Tune AI](https://chat.tune.app/): AI chat app powered by open source models
 *   [GPT Mobile (⭐700)](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
+*   [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
 
 ### AI Tools for Research / Multi-agents
 
@@ -552,7 +566,6 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Speech-to-text (STT) and spoken content analysis / Deforum
 
-*   [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
 *   [\[2406.09403\] Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](https://arxiv.org/abs/2406.09403)
 *   [BradyFU/Awesome-Multimodal-Large-Language-Models (⭐14k)](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models): Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
 
@@ -707,6 +720,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [VocalReplica](https://vocalreplica.com/): AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks
 *   [Voicesphere](https://www.voicesphere.co/): Chat with your documents to get intelligent, context specific answers.
+*   [Co-Developer GPT engine (⭐14)](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
 
 ### Autonomous LLM Agents / Multi-agents
 
@@ -715,10 +729,6 @@ A curated list of Generative AI tools, works, models, and references
 ### Text-related Generative Tools / Multi-agents
 
 *   [Composum AI (⭐4)](https://github.com/ist-dresden/composum-AI) Plugin for CMS Adobe Experience Manager (AEM) or Composum Pages helping the editor to create / edit / translate texts
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [Co-Developer GPT engine (⭐14)](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
 
 ## [Apr 03, 2024](/content/2024/04/03/README.md)
 
@@ -831,6 +841,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [WebscrapeAI](https://webscrapeai.com/): Scrape any website without code using AI
 *   [Architecture Helper](https://architecturehelper.com): Analyze any building architecture, and generate your own custom styles, in seconds.
 *   [Yona.ai](https://yona.ai): Create deeply personalized AI chatbots from your own conversations, your stories, your data. You can harness the power of your chat history to build an AI companion for a nostalgic trip down memory lane, whimsical fantasies, or any other unique purpose.
+*   [New study on coding behavior raises questions about impact of AI on software development – GeekWire](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/)
 
 ### Large Language Models (LLMs)
 
@@ -839,10 +850,6 @@ A curated list of Generative AI tools, works, models, and references
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
 *   [Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997)
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [New study on coding behavior raises questions about impact of AI on software development – GeekWire](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/)
 
 ## [Feb 17, 2024](/content/2024/02/17/README.md)
 
@@ -994,6 +1001,11 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Introduction to Generative AI | SqillPlan](https://sqillplan.com/course?hash=-4862018582618510846): introduction to Generative AI, including models such as GANs, Variational Autoencoders, Autoregressive Models, and their applications, evaluation, ethics, and challenges
 
+### Online Tools and Applications
+
+*   [CostGPT: Software Development Cost Calculator](https://costgpt.ai/): "find the cost, time and the best tech stack for any kind of software, tools that you want to build using the power of AI"
+*   [codefuse-ai/Awesome-Code-LLM (⭐2.2k)](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
+
 ### Prompt Engineering
 
 *   [Prompt engineering - OpenAI API](https://platform.openai.com/docs/guides/prompt-engineering): OpenAI's document with strategies and tactics for getting better results from large language models
@@ -1065,8 +1077,6 @@ A curated list of Generative AI tools, works, models, and references
 ### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [shashikg/WhisperS2T (⭐363)](https://github.com/shashikg/WhisperS2T): An Optimized Speech-to-Text Pipeline for the Whisper Model
-*   [CostGPT: Software Development Cost Calculator](https://costgpt.ai/): "find the cost, time and the best tech stack for any kind of software, tools that you want to build using the power of AI"
-*   [codefuse-ai/Awesome-Code-LLM (⭐2.2k)](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
 
 ### Multimodal Embedding Space / Deforum
 
@@ -1249,6 +1259,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Nov 15, 2023](/content/2023/11/15/README.md)
 
+### Online Tools and Applications
+
+*   [tldraw/draw-a-ui (⭐5.3k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
+
 ### Large Language Models (LLMs)
 
 *   [\[2311.01555\] Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers](https://arxiv.org/abs/2311.01555)
@@ -1270,10 +1284,6 @@ A curated list of Generative AI tools, works, models, and references
 ### LLM Evaluation / Multi-agents
 
 *   [vectara/hallucination-leaderboard (⭐1.7k)](https://github.com/vectara/hallucination-leaderboard): "leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents"
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [tldraw/draw-a-ui (⭐5.3k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 
 ## [Nov 14, 2023](/content/2023/11/14/README.md)
 
@@ -1303,6 +1313,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Emerging Trends in Generative AI Research: A Selection of Recent Papers](https://txt.cohere.com/top-nlp-papers-september-2023/)
 
+### Online Tools and Applications
+
+*   [deepseek-ai/DeepSeek-Coder (⭐21k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
+
 ### Large Language Models (LLMs)
 
 *   \[🔥🔥] [State of LLM Apps 2023 · Streamlit](https://state-of-llm.streamlit.app/)
@@ -1319,7 +1333,6 @@ A curated list of Generative AI tools, works, models, and references
 ### Speech-to-text (STT) and spoken content analysis / Deforum
 
 *   [Vaibhavs10/insanely-fast-whisper (⭐8.1k)](https://github.com/Vaibhavs10/insanely-fast-whisper): accelerates transcription with the combination of OpenAI's Whisper Large v2, HF Transformers, Optimum, and flash attention
-*   [deepseek-ai/DeepSeek-Coder (⭐21k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
 *   [NExT-Chat: An LMM for Chat, Detection and Segmentation](https://huggingface.co/papers/2311.04498)
 *   [roboflow/awesome-openai-vision-api-experiments (⭐1.7k)](https://github.com/roboflow/awesome-openai-vision-api-experiments): Examples showing how to use the OpenAI vision API to run inference on images, video files and webcam streams
 
@@ -1621,13 +1634,13 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [It’s Not Intelligent If It Always Halts: A Critical Perspective on Current Approaches to AGI | Life Is Computation](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/)
 
-### Speech-to-text (STT) and spoken content analysis / Deforum
+### Online Tools and Applications
 
 *   [Cody](https://about.sourcegraph.com/cody): AI coding assistant
 
 ## [Aug 24, 2023](/content/2023/08/24/README.md)
 
-### Speech-to-text (STT) and spoken content analysis / Deforum
+### Online Tools and Applications
 
 *   [Kombai](https://kombai.com/): generate UI code per component from Figma
 
@@ -1698,13 +1711,13 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Google Cloud Skills Boost: Generative AI learning path](https://www.cloudskillsboost.google/journeys/118): curated content on Generative AI "from the fundamentals of Large Language Models to how to create and deploy generative AI solutions on Google Cloud"
 
+### Autonomous LLM Agents / Prompt Engineering for Text-to-image
+
+*   [geekan/MetaGPT (⭐49k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
+
 ### Large Language Models (LLMs)
 
 *   [The TextFX project](https://textfx.withgoogle.com/): "AI-powered tools for rappers, writers and wordsmiths" (partnership between Lupe Fiasco and Google)
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [geekan/MetaGPT (⭐49k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
 
 ### Inbox: Stable Diffusion / Stable Diffusion Deployed Web Tools
 
@@ -1728,7 +1741,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jul 28, 2023](/content/2023/07/28/README.md)
 
-### Speech-to-text (STT) and spoken content analysis / Deforum
+### Online Tools and Applications
 
 *   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 
@@ -1770,6 +1783,11 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 
+### Online Tools and Applications
+
+*   [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
+*   [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
+
 ### Large Language Models (LLMs)
 
 *   [microsoft/semantic-kernel (⭐23k)](https://github.com/microsoft/semantic-kernel): integrate cutting-edge LLM technology quickly and easily into your apps
@@ -1778,11 +1796,6 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Multi-agent Simulation by Jim Fan on Twitter](https://twitter.com/DrJimFan/status/1682086586593443841): "The next frontier of emergent intelligence will be multi-agent simulation: a crowd of AI characters carry out their daily lives through complex social interactions"
 *   [Introducing AACP | SuperAGI](https://superagi.com/introducing-aacp-agent-to-agent-communication-protocol/): agent to agent communication protocol
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
-*   [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
 
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
@@ -1833,13 +1846,13 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jul 15, 2023](/content/2023/07/15/README.md)
 
+### Online Tools and Applications
+
+*   [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/): generates a webapp from a title, description, and other simple parameters
+
 ### Image Segmentation / Deforum
 
 *   [Ultimate Vocal Remover](https://ultimatevocalremover.com/): vocal removal using AI
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/): generates a webapp from a title, description, and other simple parameters
 
 ## [Jul 08, 2023](/content/2023/07/08/README.md)
 
@@ -1859,6 +1872,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [AI and the automation of work — Benedict Evans](https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai)
 
+### Online Tools and Applications
+
+*   [wolfia-app/gpt-code-search (⭐204)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
+
 ### Hypertechniques / ControlNet
 
 *   [A Beginner's Guide to Line Detection and Image Transformation with ControlNet](https://notes.aimodels.fyi/a-dive-into-line-detection-image-transformation-and-much-more-with/)
@@ -1869,10 +1886,6 @@ A curated list of Generative AI tools, works, models, and references
 *   [Topaz Labs: AI Image Quality Software](\[https://www.topazlabs.com/]\(https://flight.beehiiv.net/v2/clicks/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJodHRwczovL3RvcGF6bGFicy5jb20vcmVmLzIwODIvP3V0bV9zb3VyY2U9bmVqY3N1c2VjLmJlZWhpaXYuY29tJnV0bV9tZWRpdW09cmVmZXJyYWwmdXRtX2NhbXBhaWduPXdoeS15b3Utc2hvdWxkLXVwc2NhbGUteW91ci1pbWFnZXMiLCJwb3N0X2lkIjoiZWI2OWY3OTItMTNmZC00ZmViLWFjZTYtYWQ5M2YyM2Y2ZDRmIiwicHVibGljYXRpb25faWQiOiI2NDU2OWQyOC1jYzhjLTQ1N2YtOGZlNy03Y2JiYjdiOWExZWEiLCJ2aXNpdF90b2tlbiI6ImE3YjE1NzNmLTljNzMtNDFlNy1hNzUyLWQ3ODQ2NWQ3ZWQ4OCIsImlhdCI6MTY4ODM5Nzg2NS44NzksImlzcyI6Im9yY2hpZCJ9.oISexuNHzvMdv2CGWolS6doN8qRFGTjuICBq8z908Yc\)): "professional grade workflow, with many features" (this is an affiliate link by nejcsusec.beehiiv.com).
 *   [AI Image Upscaler - Upscale Photo, Cartoons in Batch Free](https://www.imgupscaler.com/): "free, browser-based, with five credits per day" reference by nejcsusec.beehiiv.com
 *   [Why you should upscale your images](https://nejcsusec.beehiiv.com/p/upscale-images): comparing different tools
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [wolfia-app/gpt-code-search (⭐204)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
 
 ## [Jul 03, 2023](/content/2023/07/03/README.md)
 
@@ -1949,13 +1962,13 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Jun 17, 2023](/content/2023/06/17/README.md)
 
+### Online Tools and Applications
+
+*   [Dedicated File for Inbox for GenAI + Dev (⭐2.7k)](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references
+
 ### Creative Uses of Generative AI Image Synthesis Tools / Deforum
 
 *   [Wilco Sierra](https://trywilco.com/sierra): A platform that generates engineering challenges for software engineers using GPT.
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [Dedicated File for Inbox for GenAI + Dev (⭐2.7k)](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references
 
 ## [Jun 15, 2023](/content/2023/06/15/README.md)
 
@@ -2042,6 +2055,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [May 19, 2023](/content/2023/05/19/README.md)
 
+### Online Tools and Applications
+
+*   [e2b-dev/e2b (⭐7.6k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
+
 ### Large Language Models (LLMs)
 
 *   [togethercomputer/OpenChatKit (⭐9k)](https://github.com/togethercomputer/OpenChatKit): provides an open-source base to create both specialized and general purpose chatbots for various applications
@@ -2059,10 +2076,6 @@ A curated list of Generative AI tools, works, models, and references
 ### Image Segmentation / Deforum
 
 *   [Nathan Lands on Twitter: "AI video has started to produce mindblowing results and could eventually disrupt Hollywood / Twitter](https://twitter.com/NathanLands/status/1659195191591596033): Twitter thread with examples of Generative AI tools for video
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [e2b-dev/e2b (⭐7.6k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
 
 ## [May 18, 2023](/content/2023/05/18/README.md)
 
@@ -2091,6 +2104,10 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Paper Digest - ChatGPT](https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/): Recent Papers on ChatGPT
 
+### Online Tools and Applications
+
+*   [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
+
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
 *   [Fine-Tuner.ai](https://fine-tuner.ai/): no code approach to build AI agents
@@ -2111,10 +2128,6 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Stable Animation SDK](https://stability.ai/blog/stable-animation-sdk): a text-to-animation tool for developers by Stability AI [\[dev platform\]](https://platform.stability.ai/docs/features/animation)
 *   [Twelve Labs](https://twelvelabs.io/): multimodal, contextual understanding for video search
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
 
 ## [May 11, 2023](/content/2023/05/11/README.md)
 
@@ -2147,9 +2160,6 @@ A curated list of Generative AI tools, works, models, and references
 ### Online Tools and Applications
 
 *   [Nekton.ai](https://nekton.ai/): automate your workflows with AI
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
 *   [gventuri/pandas-ai (⭐17k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
 
 ## [Apr 29, 2023](/content/2023/04/29/README.md)
@@ -2168,15 +2178,15 @@ A curated list of Generative AI tools, works, models, and references
 
 *   \[🔥🔥🔥] [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that provide best practices for prompt engineering
 
+### Online Tools and Applications
+
+*   [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
+
 ### Large Language Models (LLMs)
 
 *   \[🔥🔥🔥] [Mooler0410/LLMsPracticalGuide (⭐9.8k)](https://github.com/Mooler0410/LLMsPracticalGuide): list of practical guide resources of LLMs based on the paper [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/abs/2304.13712)
 *   [hpcaitech/ColossalAI (⭐41k)](https://github.com/hpcaitech/ColossalAI): Making large AI models cheaper, faster and more accessible
 *   [microsoft/LoRA (⭐11k)](https://github.com/microsoft/LoRA): Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"s
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
 
 ## [Apr 27, 2023](/content/2023/04/27/README.md)
 
@@ -2238,7 +2248,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The Generative AI Landscape](https://ai-collection.org/): "a collection of awesome generative AI applications"
 
-### Speech-to-text (STT) and spoken content analysis / Deforum
+### Online Tools and Applications
 
 *   [pgosar/ChatGDB (⭐905)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 
@@ -2264,6 +2274,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Apr 04, 2023](/content/2023/04/04/README.md)
 
+### Online Tools and Applications
+
+*   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
+
 ### Large Language Models (LLMs)
 
 *   [Haystack (⭐20k)](https://github.com/deepset-ai/haystack): framework for building applications with LLMs and Transformers (e.g. agents, semantic search, question-answering)
@@ -2271,10 +2285,6 @@ A curated list of Generative AI tools, works, models, and references
 ### Text-related Generative Tools / Multi-agents
 
 *   [Taskade](https://taskade.com/): Taskade is an AI outliner and mind map generator for teams with built-in AI chat
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
 
 ## [Mar 30, 2023](/content/2023/03/30/README.md)
 
@@ -2349,7 +2359,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Embeddings and Semantic Search / Prompt Engineering for Text-to-image
 
-*   [facebookresearch/faiss (⭐33k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
+*   [facebookresearch/faiss (⭐34k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
 
 ### Speech-to-text (STT) and spoken content analysis / Deforum
 
@@ -2496,7 +2506,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [What ChatGPT and generative AI mean for science | Nature](https://www.nature.com/articles/d41586-023-00340-6)
 
-### Speech-to-text (STT) and spoken content analysis / Deforum
+### Online Tools and Applications
 
 *   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
 
@@ -2556,6 +2566,7 @@ A curated list of Generative AI tools, works, models, and references
 ### Online Tools and Applications
 
 *   [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
+*   [openai/openai-cookbook (⭐62k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
 ### Prompt Engineering
 
@@ -2572,10 +2583,6 @@ A curated list of Generative AI tools, works, models, and references
 ### Image Upscaling / Deforum
 
 *   [Upscale to huge sizes and add detail with SD Upscale : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xkjjf9/upscale_to_huge_sizes_and_add_detail_with_sd/): tutorial on Reddit
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [openai/openai-cookbook (⭐62k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
 ### Auxiliary tools and concepts / Deforum
 
@@ -3308,7 +3315,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Animation with Dall-e + AE | Reddit](https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/): Patent drawing of an electronic device that ...
 *   [You Describe & AI Photoshops Faces For You \[StyleCLIP\] - YouTube](https://youtu.be/d1OET63Ulwc)
 *   [Experimental Films + Machine Learning Week 7 Part 1 (Aphantasia with OpenAI CLIP) - YouTube](https://youtu.be/-FrIui8Mp-8)
-*   [GitHub - Sanster/lama-cleaner (⭐20k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
+*   [GitHub - Sanster/lama-cleaner (⭐21k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
 
 ### Multimodal Embedding Space / Deforum
 

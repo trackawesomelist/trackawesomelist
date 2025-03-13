@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Mar 13, 2025](/content/2025/03/13/README.md)
+
+### Concepts / Human Concept Representation
+
+*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188)]. \[[Preprint](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf)]. \[[Code & Tutorial (⭐32)](https://github.com/HuthLab/speechmodeltutorial)]. The meaning of language is represented in regions of the cerebral cortex collectively known as the ‘semantic system’. However, little of the semantic system has been mapped comprehensively, and the semantic selectivity of most regions is unknown. This work systematically maps semantic selectivity across the cortex using voxel-wise modelling of functional MRI (fMRI) data collected while subjects listened to hours of narrative stories. This work shows that the semantic system is organized into intricate patterns that seem to be consistent across individuals. The authors then use a novel generative model to create a detailed semantic atlas. The results suggest that most areas within the semantic system represent information about specific semantic domains, or groups of related concepts, and the atlas shows which domains are represented in each area. This study demonstrates that data-driven methods---commonplace in studies of human neuroanatomy and functional connectivity---provide a powerful and efficient means for mapping functional representations in the brain.
+
 ## [Mar 11, 2025](/content/2025/03/11/README.md)
 
 ### Concepts / Human Concept Representation
@@ -1112,7 +1118,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Concepts / Human Concept Representation
 
-*   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188\&hl=en\&as_sdt=0,5)]. \[[Code & Tutorial (⭐32)](https://github.com/HuthLab/speechmodeltutorial)]. Systematically mapping semantic selectivity across the cortex using voxel-wise modelling of functional MRI data collected while subjects listened to hours of narrative stories, showing that the semantic system is organized into intricate patterns that seem to be consistent across individuals.
 *   [Using a high-dimensional graph of semantic space to model relationships among words](https://www.frontiersin.org/articles/10.3389/fpsyg.2014.00385/full) - ***Frontiers in Psychology***, 2014. \[[All Versions](https://scholar.google.com/scholar?cluster=472523411548302295\&hl=en\&as_sdt=0,5)]. First-order similarity and second-order relation metrics for word embedding.
 
 ### Domain Specific Language / Declarative DSL Applications

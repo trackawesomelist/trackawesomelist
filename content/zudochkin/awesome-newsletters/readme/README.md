@@ -190,6 +190,7 @@ Thanks to all [contributors (⭐4k)](https://github.com/zudochkin/awesome-newsle
 
 ### General Section
 
+*   [The Coder Cafe](https://thecoder.cafe). One concept for coders, every day.
 *   [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html). Receive weekly Programming news and insights from industry insiders.
 *   [Programming Digest](https://programmingdigest.net/). A carefully curated weekly newsletter for software engineers.
 *   [Weekly Dev Tips](https://ardalis.com/tips). A weekly email each Wednesday with a new software development tip. Topics range from git to career to web development to personal development and teamwork.
@@ -247,7 +248,7 @@ Thanks to all [contributors (⭐4k)](https://github.com/zudochkin/awesome-newsle
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐737)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐745)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 

@@ -22,6 +22,8 @@ A curated list of Generative AI tools, works, models, and references
     *   [Human-AI Interaction](#human-ai-interaction)
     *   [Papers Collection](#papers-collection)
     *   [Online Tools and Applications](#online-tools-and-applications)
+*   [Code and Programming](#code-and-programming)
+    *   [Vibe Coding](#vibe-coding)
 *   [Text](#text)
     *   [Small Language Models](#small-language-models)
     *   [Large Language Models (LLMs)](#large-language-models-llms)
@@ -71,7 +73,6 @@ A curated list of Generative AI tools, works, models, and references
         *   [Podcast generators](#podcast-generators)
     *   [Speech-to-text (STT) and spoken content analysis](#speech-to-text-stt-and-spoken-content-analysis)
 *   [Games](#games)
-*   [Code and Programming](#code-and-programming)
 *   [Multimodal](#multimodal)
     *   [Multimodal Embedding Space](#multimodal-embedding-space)
 *   [Datasets](#datasets)
@@ -182,6 +183,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Ethics, Philosophical questions and Discussions about Generative AI
 
+*   [🔭 The Einstein AI model](https://thomwolf.io/blog/scientific-ai.html)
 *   [Machines of Loving Grace - How AI Could Transform the World for the Better by Dario Amodei](https://darioamodei.com/machines-of-loving-grace)
 *   [The Five Stages Of AI Grief - NOEMA](https://www.noemamag.com/the-five-stages-of-ai-grief/)
 *   [Generative AI Ethics: 8 Biggest Concerns and Risks](https://www.techtarget.com/searchenterpriseai/tip/Generative-AI-ethics-8-biggest-concerns)
@@ -487,6 +489,46 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [PageGen](https://pagegen.ai) - An AI Page Generator with Claude AI, React and Shadcn UI. Generate web pages from text, screenshot and templates with one click.
 *   [PerchanceStory](https://perchancestory.com/): PerchanceStory is an AI-based interactive story generator, which generates ever-changing story endings with endless possibilities based on simple user-provided input.
 
+# Code and Programming
+
+*   [batchai (⭐58)](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
+*   [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
+*   [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
+*   [New study on coding behavior raises questions about impact of AI on software development – GeekWire](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/)
+*   [CostGPT: Software Development Cost Calculator](https://costgpt.ai/): "find the cost, time and the best tech stack for any kind of software, tools that you want to build using the power of AI"
+*   [codefuse-ai/Awesome-Code-LLM (⭐2.2k)](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
+*   [tldraw/draw-a-ui (⭐5.3k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
+*   [deepseek-ai/DeepSeek-Coder (⭐21k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
+*   [Cody](https://about.sourcegraph.com/cody): AI coding assistant
+*   [Kombai](https://kombai.com/): generate UI code per component from Figma
+*   [geekan/MetaGPT (⭐49k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
+*   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
+*   [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
+*   [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
+*   [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/): generates a webapp from a title, description, and other simple parameters
+*   [wolfia-app/gpt-code-search (⭐204)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
+*   [Dedicated File for Inbox for GenAI + Dev (⭐2.7k)](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references
+*   [e2b-dev/e2b (⭐7.6k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
+*   [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
+*   [gventuri/pandas-ai (⭐17k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
+*   [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
+*   [pgosar/ChatGDB (⭐905)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
+*   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
+*   [openai/openai-cookbook (⭐62k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
+*   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
+*   [Co-Developer GPT engine (⭐14)](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
+*   [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q\&A, Testing, Debugging and System Design or create your own purpose-built agents.
+
+## Vibe Coding
+
+*   [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383): "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
+*   [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
+*   [Bolt.new](https://bolt.new/): Prompt, run, edit, and deploy full-stack web and mobile apps.
+*   [Lovable](https://lovable.dev/): "Idea to app in seconds. Lovable is your superhuman full stack engineer."
+*   [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
+*   [Cursor](https://www.cursor.com/): The AI Code Editor, "the best way to code with AI"
+*   [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
+
 # Text
 
 ## Small Language Models
@@ -500,7 +542,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [lunary-ai/abso (⭐23)](https://github.com/lunary-ai/abso): TypeScript SDK to easily call 100+ LLMs using OpenAI's format
 *   [oumi-ai/oumi (⭐7.6k)](https://github.com/oumi-ai/oumi): open universal machine intelligence, open-source platform that streamlines the entire lifecycle of foundation models - from data preparation and training to evaluation and deployment
 *   \[🔥] [Transformer Explainer](https://poloclub.github.io/transformer-explainer/): LLM Transformer Model Visually Explained [YouTube Video](https://www.youtube.com/watch?v=ECR4oAwocjs)
-*   [comet-ml/opik (⭐5.1k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
+*   [comet-ml/opik (⭐5.3k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 *   [mendableai/firecrawl (⭐28k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 *   [QuivrHQ/MegaParse (⭐5.8k)](https://github.com/quivrhq/megaparse): File Parser optimised for LLM Ingestion with no loss. Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 *   [LiteLLM](https://www.litellm.ai/): a proxy server to manage auth, loadbalancing, and spend tracking across 100+ LLMs, all in the OpenAI format
@@ -509,7 +551,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [microsoft/LMOps (⭐3.9k)](https://github.com/microsoft/LMOps): General technology for enabling AI capabilities w/ LLMs and MLLMs
 *   [F\*\*\* You, Show Me The Prompt](https://hamel.dev/blog/posts/prompt/): quickly understand inscrutable LLM frameworks by intercepting API calls
 *   [danielmiessler/fabric (⭐30k)](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐8.8k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐9.3k)](https://github.com/langfuse/langfuse)
 *   [naklecha/llama3-from-scratch (⭐14k)](https://github.com/naklecha/llama3-from-scratch): llama3 implementation one matrix multiplication at a time
 *   [\[2405.03825\] Organizing a Society of Language Models: Structures and Mechanisms for Enhanced Collective Intelligence](https://arxiv.org/abs/2405.03825)
 *   [Open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
@@ -739,7 +781,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [Getting creative with embeddings by Amelia Wattenberger](https://wattenberger.com/thoughts/yay-embeddings-math)
 *   [The Hidden Life of Embeddings: Linus Lee - YouTube](https://www.youtube.com/watch?v=YvobVu1l7GI)
 *   [neuml/txtai (⭐10k)](https://github.com/neuml/txtai): semantic search and workflows powered by language models
-*   [facebookresearch/faiss (⭐33k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
+*   [facebookresearch/faiss (⭐34k)](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors
 *   [Optimize Your Chatbot’s Conversational Intelligence Using GPT-3 | by Amogh Agastya | Better Programming](https://betterprogramming.pub/how-to-give-your-chatbot-the-power-of-neural-search-with-openai-ebcff5194170): tutorial presenting semantic search concepts
 *   \[🔥] [whitead/paper-qa](https://github.com/whitead/paper-qa): "LLM Chain for answering questions from documents with citations", [demo](https://twitter.com/andrewwhite01/status/1629346569756483584?s=20)
 *   [What is Semantic Search?](https://txt.cohere.ai/what-is-semantic-search/)
@@ -1161,7 +1203,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [Animation with Dall-e + AE | Reddit](https://www.reddit.com/r/MediaSynthesis/comments/xgeehe/animation_with_dalle_ae_patent_drawing_of_an/): Patent drawing of an electronic device that ...
 *   [You Describe & AI Photoshops Faces For You \[StyleCLIP\] - YouTube](https://youtu.be/d1OET63Ulwc)
 *   [Experimental Films + Machine Learning Week 7 Part 1 (Aphantasia with OpenAI CLIP) - YouTube](https://youtu.be/-FrIui8Mp-8)
-*   [GitHub - Sanster/lama-cleaner (⭐20k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
+*   [GitHub - Sanster/lama-cleaner (⭐21k)](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model
 *   [AgaMiko/pixel\_character\_generator (⭐123)](https://github.com/AgaMiko/pixel_character_generator): Generating retro pixel game characters with Generative Adversarial Networks. Dataset "TinyHero" included.
 *   [Wilco Sierra](https://trywilco.com/sierra): A platform that generates engineering challenges for software engineers using GPT.
 
@@ -1286,39 +1328,6 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 *   [The Generative AI Revolution in Games | Andreessen Horowitz](https://a16z.com/2022/11/17/the-generative-ai-revolution-in-games/): this article presents a list of use cases of generative AI in games
 *   [AI for Game Development](https://huggingface.co/blog/ml-for-games-1): Creating a Farming Game in 5 Days. Part 1
-
-# Code and Programming
-
-*   [Lovable](https://lovable.dev/): "Idea to app in seconds. Lovable is your superhuman full stack engineer."
-*   [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
-*   [Cursor](https://www.cursor.com/): The AI Code Editor
-*   [batchai (⭐58)](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
-*   [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
-*   [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
-*   [New study on coding behavior raises questions about impact of AI on software development – GeekWire](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/)
-*   [CostGPT: Software Development Cost Calculator](https://costgpt.ai/): "find the cost, time and the best tech stack for any kind of software, tools that you want to build using the power of AI"
-*   [codefuse-ai/Awesome-Code-LLM (⭐2.2k)](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
-*   [tldraw/draw-a-ui (⭐5.3k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
-*   [deepseek-ai/DeepSeek-Coder (⭐21k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
-*   [Cody](https://about.sourcegraph.com/cody): AI coding assistant
-*   [Kombai](https://kombai.com/): generate UI code per component from Figma
-*   [geekan/MetaGPT (⭐49k)](https://github.com/geekan/MetaGPT): the multi-agent framework that, give one line requirement, return PRD, design, tasks, repo
-*   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
-*   [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
-*   [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
-*   [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/): generates a webapp from a title, description, and other simple parameters
-*   [wolfia-app/gpt-code-search (⭐204)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
-*   [Dedicated File for Inbox for GenAI + Dev (⭐2.7k)](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references
-*   [e2b-dev/e2b (⭐7.6k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
-*   [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
-*   [gventuri/pandas-ai (⭐17k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
-*   [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
-*   [pgosar/ChatGDB (⭐905)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
-*   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
-*   [openai/openai-cookbook (⭐62k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
-*   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
-*   [Co-Developer GPT engine (⭐14)](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
-*   [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q\&A, Testing, Debugging and System Design or create your own purpose-built agents.
 
 # Multimodal
 

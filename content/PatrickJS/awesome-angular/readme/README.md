@@ -313,6 +313,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Amadou Sall](https://www.amadousall.com/)
 *   [Angular Philosophies (⭐6)](https://github.com/tomavic/angular-philosophies)
 *   [Maksim Dolgikh](https://medium.com/@maks-dolgikh)
+*   [Playful Programming](https://playfulprogramming.com/)
 
 ##### Books
 
@@ -758,6 +759,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [fusio-sdk-javascript-angular (⭐3)](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK library provides a flexible way to build Angular apps using [Fusio](https://www.fusio-project.org/) as a backend. It is used by many Fusio related apps, i.e. the [backend (⭐11)](https://github.com/apioo/fusio-apps-backend) and [developer (⭐4)](https://github.com/apioo/fusio-apps-developer) app.
 *   [ng-storyblok (⭐3)](https://github.com/geometricpanda/ng-storyblok) - A simple way to integrate [Storyblok](https://www.storyblok.com/) into your Angular application.
 *   [ng-react-bridge (⭐2)](https://github.com/john310897/ng-react-bridge) - A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.
+*   [zag-angular (⭐1)](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag (⭐4.3k)](https://github.com/chakra-ui/zag).
 
 #### Internationalization
 
@@ -1229,7 +1231,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-dompurify (⭐9)](https://github.com/taiga-family/ng-dompurify) - This library implements [DOMPurify (⭐15k)](https://github.com/cure53/DOMPurify) as Angular Sanitizer or Pipe. It delegates sanitizing to DOMPurify and supports the same configuration.
 *   [ngx-windows (⭐1)](https://github.com/mateuszbilicz/ngx-windows) - Angular Windows Components and Services.
 *   [ngx-speculative-link (⭐9)](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink (⭐11k)](https://github.com/GoogleChromeLabs/quicklink) and ngx-quicklink.
-*   [ngx-signal-pipes (⭐6)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
+*   [ngx-signal-pipes (⭐10)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
 *   [ng-gd (⭐1)](https://github.com/luisalejandrofigueredo/ng-gd) - An easy way to manage a canvas element with support for mouse or tablet events.
 *   [ngx-annotate-text (⭐15)](https://github.com/philenius/ngx-annotate-text) - This Angular component library is perfect for tasks like visualizing named entity recognition, part of speech tagging, or annotating text datasets. It allows for interactively highlighting and annotating parts of text.
 
@@ -1531,6 +1533,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-markdoc (⭐3)](https://github.com/notiz-dev/ngx-markdoc) - [Markdoc](https://markdoc.dev) component for Angular applications.
 *   [ngx-md (⭐266)](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
 *   [ngx-textile (⭐1)](https://github.com/vincent/ngx-textile) - Use the Textile markup language in your Angular project using [textile-js (⭐212)](https://github.com/borgar/textile-js).
+*   [mdbook-angular (⭐2)](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns angular code samples into running Angular applications.
 
 #### Media
 
@@ -1809,8 +1812,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [pastanaga-angular (⭐10)](https://github.com/plone/pastanaga-angular) - An Angular implementation of Pastanaga design system offering a set of re-usable UI components which are covering typical needs of any web application. It is maintained by [Plone](http://plone.org/) and [Guillotina](http://guillotina.io/) communities.
 *   [ngx-nighthawk (⭐7)](https://github.com/evenuxjs/ngx-nighthawk) - It offers a comprehensive set of components that are highly configurable and user-friendly. This package integrates the best open-source tools, such as Bootstrip — a streamlined version of Bootstrap that focuses solely on Grid and Utility features.
 *   [tableau-ui-angular (⭐1)](https://github.com/serionist/tableau-ui-angular) -  A third-party component library that brings Tableau-style components to Angular.
-*   [ng-verse (⭐38)](https://github.com/lukonik/ng-verse) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://www.ng-verse.dev/) for more.
-*   [primitives (⭐155)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+*   [@ng-verse/ui (⭐37)](https://github.com/ngverse/ui) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://ui.ngverse.dev/) for more.
+*   [primitives (⭐162)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 *   [xUI (⭐9)](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
 *   [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
 *   [flexi-ui (⭐47)](https://github.com/TanerSaydam/flexi-ui) - [Flexi UI](https://flexi-ui.ecnorow.com/) provides a collection of reusable, visually appealing, and functional UI components to help you create modern and impressive front-end applications effortlessly. The library is fully customizable and open-source, making it accessible for everyone to use and contribute.

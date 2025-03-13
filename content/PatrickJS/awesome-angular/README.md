@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Mar 13, 2025](/content/2025/03/13/README.md)
+
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Playful Programming](https://playfulprogramming.com/)
+
+### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [zag-angular (⭐1)](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag (⭐4.3k)](https://github.com/chakra-ui/zag).
+
+### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [mdbook-angular (⭐2)](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns angular code samples into running Angular applications.
+
+### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@ng-verse/ui (⭐37)](https://github.com/ngverse/ui) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://ui.ngverse.dev/) for more.
+
 ## [Mar 12, 2025](/content/2025/03/12/README.md)
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -206,7 +224,7 @@
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-signal-pipes (⭐6)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
+*   [ngx-signal-pipes (⭐10)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
 
 ## [Feb 25, 2025](/content/2025/02/25/README.md)
 
@@ -416,7 +434,7 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [primitives (⭐155)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+*   [primitives (⭐162)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 
 ## [Feb 10, 2025](/content/2025/02/10/README.md)
 
@@ -468,12 +486,6 @@
 ### Community
 
 *   [Angular: The Documentary | An origin story](https://www.youtube.com/watch?v=cRC9DlH45lA)
-
-## [Feb 05, 2025](/content/2025/02/05/README.md)
-
-### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ng-verse (⭐38)](https://github.com/lukonik/ng-verse) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://www.ng-verse.dev/) for more.
 
 ## [Feb 04, 2025](/content/2025/02/04/README.md)
 

@@ -2,7 +2,7 @@
 
 Explore a curated selection of AI tools and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 101 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 113 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/ai-collective-tools/README.md) / [Weekly](/content/Hyraze/ai-collective-tools/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@ Explore a curated selection of AI tools and resources
 
 > Explore a curated selection of AI tools and resources.
 
-We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐101)](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐101)](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
+We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐113)](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐113)](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools)
@@ -39,6 +39,7 @@ Use these hashtags in search to filter out the tools
 # Table of Contents
 
 *   [3D](#3d)
+*   [App Builder](#app-builder)
 *   [Agriculture](#agriculture)
 *   [Art](#art)
 *   [Audio Editing](#audio-editing)
@@ -122,9 +123,13 @@ Use these hashtags in search to filter out the tools
 *   [Heroify](https://www.heroify.lol/) - Generate high-quality 3D graphics for landing pages. `#paid`
 *   [Tafi Avatar](https://www.maketafi.com/ai) - Text-to-3D Character Engine. `#paid`
 *   [Unity](https://unity.com/ai) - Craft interactive, dynamic 3D content for AR, VR, mobile, desktop, and web platforms. `#paid`
-*
+*   [Wonder Dynamics](https://wonderdynamics.com/) -  Specializes in AI-driven tools for creating 3D visual effects and character animation, enabling users to integrate 3D characters into live-action footage​. `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
+
+## App Builder
+
+-[Lovable](https://lovable.dev/) - Idea to app in seconds,Lovable is your superhuman full stack engineer.`#free`
 
 ## Agriculture
 
@@ -173,7 +178,7 @@ Use these hashtags in search to filter out the tools
 *   [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way. `#freemium`
 *   [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF. `#free`
 *   [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation. `#freemium`
-*   [Earkick](https://earkick.com/chat) - a virtual mental health trained chatbot
+*   [Earkick](https://earkick.com/chat) - a virtual mental health trained chatbot `#freemium`
 *   [MediSearch](https://medisearch.io) - This tool is a medical AI chatbot which gives you direct science-based answers to medical questions `#free`
 *   [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
 *   [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
@@ -264,8 +269,10 @@ Use these hashtags in search to filter out the tools
 
 ## Developer
 
+*   [Bubble](https://bubble.io/) - Bubble is a no-code platform that allows users to build web applications with ease, integrating AI functionalities like chatbots and content generation. `#freemium`
+*   [Glide](https://www.glideapps.com/) - no-code platform that allows users to create AI-powered applications quickly and easily using their business data, with customer support chatbots. `#freemium`
 *   [Mintlify](https://mintlify.com/) - Mintlify: Streamline code documentation with one-click automation for developers, enhancing code clarity and saving time. `#freemium`
-*   [Floom (⭐35)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
+*   [Floom (⭐41)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -288,6 +295,7 @@ Use these hashtags in search to filter out the tools
 *   [Huxli.ai](https://huxli.ai/) - Elevate Your Writing, Supercharge Your Productivity `#freemium`
 *   [PagePundit](https://pagepundit.com/) - Discover Tailored Book Suggestions Effortlessly `#free`
 *   [QuillBot](https://quillbot.com/) - AI-powered paraphrasing tool. `#freemium`
+*   [Quizb](https://quizb.ai) - Generate engaging quiz questions effortlessly with QuizB.ai. Harness the power of AI to create customized quizzes for education, training, and fun. `#freemium`
 *   [SlidesAI.io](https://www.slidesai.io/) - powerful AI tool that can help teachers create visually appealing and engaging presentations for their classroom teaching instantly. `#freemium`
 *   [Sibyl AI](https://sibyls.ai/) - Provide guidance, insights, and support for individuals at different levels of spiritual exploration, from neophytes to adepts and holistic practitioners. `#paid`
 *   [SocratiQ](https://socratiq.ai/) - The Future of Education, Integrated `#paid`
@@ -301,6 +309,7 @@ Use these hashtags in search to filter out the tools
 ## Email Assistant
 
 *   [Rytr](https://rytr.me/) - AI writing assistant for fast, affordable, high-quality content. `#freemium`
+*   [Superhuman](https://superhuman.com/) -Email client designed for Gmail, focusing on speed and productivity with features like AI email prioritization and instant actions `#paid`
 *   [Zapier](https://zapier.com/blog/best-ai-email-assistant/) - Discover the top AI email assistants that streamline your inbox and supercharge your productivity. `#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -315,6 +324,8 @@ Use these hashtags in search to filter out the tools
 
 *   [Artificial Printer](https://artificialprinter.com/) - Print personalized t-shirts. `#free`
 *   [Dressrious](https://www.dressrious.com/) - Offers personalized daily outfit recommendations based on users' wardrobe items, weather conditions, occasions, and color preferences. `#free`
+*   [Intelistyle](https://www.intelistyle.com/) -  offers personalized styling and virtual try-on features for a better online shopping experience. `#paid`
+*   [Zyler](https://business.zyler.com/) - Enables customers to virtually try on clothes, offering a personalized shopping experience. `#paid`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -388,6 +399,7 @@ Use these hashtags in search to filter out the tools
 *   [Intelli Gift](https://intelli.gift/) - Gift smarter with intelli.gift - The AI-powered gift advisor `#free`
 *   [Lazy Cards](https://lazy.cards/) - Lazy Cards is a convenient and thoughtful service that offers AI-written greeting cards for various occasions `#free`
 *   [Magic Type AI](https://www.magictype.ai/) - Write greetings, poetry and rap lyrics using AI. `#free`
+*   [myGiftAgent](https://www.mygiftagent.com/) - Your AI-powered gift recommendation assistant, helping you find the perfect presents for your loved ones. `#free`
 *   [Outdone](https://www.outdone.io/) - Outdone is a gift recommender that simplifies the process of shopping for special occasions `#free`
 *   [Perfectgift](https://perfectgift.ai/) - PerfectGift.AI is an AI-powered tool that generates personalized gift ideas for any occasion by utilizing advanced Artificial Intelligence algorithms. `#free`
 *   [Santa AI](https://www.santa.artflow.ai/) - Create your own unique Santa video greeting `#free`
@@ -420,6 +432,7 @@ Use these hashtags in search to filter out the tools
 ## Image Classification
 
 *   [AI or NOT](https://www.aiornot.com) - Determine whether an image has been generated by artificial intelligence or a human `#free`
+    -[Google Cloud Vision](https://cloud.google.com/vision) - AI service that allows developers to incorporate advanced image analysis features, such as object detection, face recognition, and label detection, into their applications.`#freemium`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -437,6 +450,7 @@ Use these hashtags in search to filter out the tools
 *   [Bing Image Creator](https://www.bing.com/images/create) - Image Creator from Microsoft Designer allows you to generate captivating images based on your words using AI. `freemium`
 *   [GenPictures](https://www.getconverse.com/pics) - Create stunning AI art, images, and pictures in seconds for free with GenPictures. Turn your text into visual masterpieces effortlessly. `freemium`
 *   [Ideaogram](https://ideogram.ai/t/trending) - This tool helps us to generate text in an image `#free`
+*   [ID Photo API AI](https://idphoto.ai/) - Passport Photo API to convert regular photo to passport photo. `freemium`
 *   [ImageCreator](https://imagecreator.alkaidvision.com/) - A Professional PS plug-in powered by AI `#free`
 *   [Imagine](https://www.imagine.art) - Text to image with AI Art Generator `#freemium`
 *   [Ipic.ai](https://www.ipic.ai/) - Ipic.ai is a free AI image generator that can effortlessly create unique AI art. `#free`
@@ -502,7 +516,7 @@ Use these hashtags in search to filter out the tools
 *   [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
 *   [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. `#freemium`
 *   [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
-*   [Qwen (⭐14k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐17k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 *   [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
@@ -545,6 +559,7 @@ Use these hashtags in search to filter out the tools
 *   [Glimpse](https://glimpse.surf/) - Seamless browsing experience with conversation, writing, and editing assistance `#free`
 *   [Happy Copy](https://www.hoppycopy.co/) - Use AI to create powerful content for hundreds of different email campaigns, drips, newsletters and more—in seconds
 *   [Message AI](https://apps.apple.com/us/app/message-ai-gpt-tts/id6448740961) - Transform Text to Speech with Natural Accuracy `#paid`
+*   [Multi Gen](https://multi-gen-ai.vercel.app/) - Multi-Gen: All-in-one AI platform for content and productivity solutions. `#free`
 *   [Notion](https://www.notion.so/product/ai/) - Access the limitless power of AI, right inside Notion. Work faster. Write better. Think bigger. `#paid`
 *   [Posylanki](https://www.posylanki.live/) - Streamline Web Content Management & Enhance Browsing Experience `#free`
 *   [Releases Notes](https://www.releasesnotes.dev/) - Effortless Release Notes with Automation. `#free`
@@ -647,11 +662,13 @@ Use these hashtags in search to filter out the tools
 ## Spreadsheets
 
 *   [AI Excel Bot](https://aiexcelbot.com) - Write Excel and Google Sheets Formulas Faster With AI `#freemium`
+*   [Airtable](https://www.airtable.com/) -A user-friendly platform that blends spreadsheet features with database functionality for organizing projects, managing content, and tracking inventories`#freemium`
 *   [Arcwise AI](https://arcwise.app/ai) - AI Copilot for Spreadsheets `#free`
 *   [CSV-GPT](https://www.csv-gpt.com/) - Enables users to ask natural language questions about their data and receive instant analysis and insights. `#free`
 *   [DataDistillr](https://datadistillr.com/) - Integrating your data has never been easier. `#paid`
 *   [Dataspot](https://dataspot.ai/) - Understand any data instantly using AI `#freemium`
 *   [Excel Formula Bot](https://excelformulabot.com/) - Create Excel formulas in seconds with AI-powered formula generators. `#freemium`
+*   [Excelmatic](https://excelmatica.com) - Chat with Excel, effortlessly process(analyze) Excel data using natural language with Excelmatic `#freemium`
 *   [GPTExcel](https://gptexcel.uk/) - Effortlessly create and understand formulas in Excel and Google Sheets! `#paid`
 *   [Parseur](https://parseur.com/) - Parseur is a powerful data entry software that automates text extraction from emails, PDFs, and other documents, enhancing productivity by eliminating manual data entry. `#freemium`
 *   [SheetAI.app](https://sheetai.app/) - AI-powered tool to quickly generate formulas for Google Sheets. `#freemium`

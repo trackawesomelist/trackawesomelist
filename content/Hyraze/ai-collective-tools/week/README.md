@@ -2,9 +2,50 @@
 
 Explore a curated selection of AI tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 101 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 113 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/ai-collective-tools/README.md) / Weekly / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
+
+## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
+
+### 3D
+
+*   [Wonder Dynamics](https://wonderdynamics.com/) -  Specializes in AI-driven tools for creating 3D visual effects and character animation, enabling users to integrate 3D characters into live-action footage​. `#paid`
+
+### Developer
+
+*   [Bubble](https://bubble.io/) - Bubble is a no-code platform that allows users to build web applications with ease, integrating AI functionalities like chatbots and content generation. `#freemium`
+*   [Glide](https://www.glideapps.com/) - no-code platform that allows users to create AI-powered applications quickly and easily using their business data, with customer support chatbots. `#freemium`
+
+### Education
+
+*   [Quizb](https://quizb.ai) - Generate engaging quiz questions effortlessly with QuizB.ai. Harness the power of AI to create customized quizzes for education, training, and fun. `#freemium`
+
+### Email Assistant
+
+*   [Superhuman](https://superhuman.com/) -Email client designed for Gmail, focusing on speed and productivity with features like AI email prioritization and instant actions `#paid`
+
+### Fashion
+
+*   [Intelistyle](https://www.intelistyle.com/) -  offers personalized styling and virtual try-on features for a better online shopping experience. `#paid`
+*   [Zyler](https://business.zyler.com/) - Enables customers to virtually try on clothes, offering a personalized shopping experience. `#paid`
+
+### Gift Ideas
+
+*   [myGiftAgent](https://www.mygiftagent.com/) - Your AI-powered gift recommendation assistant, helping you find the perfect presents for your loved ones. `#free`
+
+### Image Generator
+
+*   [ID Photo API AI](https://idphoto.ai/) - Passport Photo API to convert regular photo to passport photo. `freemium`
+
+### Productivity
+
+*   [Multi Gen](https://multi-gen-ai.vercel.app/) - Multi-Gen: All-in-one AI platform for content and productivity solutions. `#free`
+
+### Spreadsheets
+
+*   [Airtable](https://www.airtable.com/) -A user-friendly platform that blends spreadsheet features with database functionality for organizing projects, managing content, and tracking inventories`#freemium`
+*   [Excelmatic](https://excelmatica.com) - Chat with Excel, effortlessly process(analyze) Excel data using natural language with Excelmatic `#freemium`
 
 ## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
 
@@ -47,7 +88,7 @@ Explore a curated selection of AI tools and resources
 
 ### Chatbots
 
-*   [Earkick](https://earkick.com/chat) - a virtual mental health trained chatbot
+*   [Earkick](https://earkick.com/chat) - a virtual mental health trained chatbot `#freemium`
 
 ### Design Generator
 
@@ -55,7 +96,7 @@ Explore a curated selection of AI tools and resources
 
 ### Developer
 
-*   [Floom (⭐35)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
+*   [Floom (⭐41)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
 
 ### Models
 
@@ -308,7 +349,6 @@ Explore a curated selection of AI tools and resources
 *   [Heroify](https://www.heroify.lol/) - Generate high-quality 3D graphics for landing pages. `#paid`
 *   [Tafi Avatar](https://www.maketafi.com/ai) - Text-to-3D Character Engine. `#paid`
 *   [Unity](https://unity.com/ai) - Craft interactive, dynamic 3D content for AR, VR, mobile, desktop, and web platforms. `#paid`
-*
 
 ### Art
 
@@ -348,7 +388,7 @@ Explore a curated selection of AI tools and resources
 *   [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. `#opensource` `#free`
 *   [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
 *   [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
-*   [Qwen (⭐14k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐17k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 
 ### Productivity
 
@@ -581,6 +621,7 @@ Explore a curated selection of AI tools and resources
 ### Image Classification
 
 *   [AI or NOT](https://www.aiornot.com) - Determine whether an image has been generated by artificial intelligence or a human `#free`
+    -[Google Cloud Vision](https://cloud.google.com/vision) - AI service that allows developers to incorporate advanced image analysis features, such as object detection, face recognition, and label detection, into their applications.`#freemium`
 
 ### Image Editing
 
