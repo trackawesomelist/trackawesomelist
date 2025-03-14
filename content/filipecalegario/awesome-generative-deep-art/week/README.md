@@ -14,10 +14,21 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Vibe Coding
 
+*   [filipecalegario/awesome-vibe-coding (⭐4)](https://github.com/filipecalegario/awesome-vibe-coding): A curated list of vibe coding references, colaborating with AI to write code.
 *   [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383): "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
 *   [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
 *   [Bolt.new](https://bolt.new/): Prompt, run, edit, and deploy full-stack web and mobile apps.
 *   [Replit](https://replit.com/): "Simply describe your idea above and let the Agent build it for you"
+
+### Everything to Markdown to LLMs
+
+*   [microsoft/markitdown (⭐40k)](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
+*   [docling-project/docling (⭐24k)](https://github.com/docling-project/docling): get your documents ready for gen AI
+*   [Firecrawl](https://www.firecrawl.dev/): Turn websites into LLM-ready data
+*   [CatchTheTornado/text-extract-api (⭐2.5k)](https://github.com/CatchTheTornado/text-extract-api): document (PDF, Word, PPTX ...) extraction and parse API using OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown
+*   [R Jina](https://r.jina.ai/): convert websites into Markdown by placing the URL in the search bar
+*   [Gitingest](https://gitingest.com/): turn any Git repository into a simple text digest of its codebase.
+*   [uithub](https://uithub.com/): convert GitHub repositories into Markdown by placing the URL in the search bar
 
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
 
@@ -205,7 +216,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q\&A, Testing, Debugging and System Design or create your own purpose-built agents.
 
@@ -219,7 +230,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [batchai (⭐58)](https://github.com/qiangyt/batchai): A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 
@@ -408,7 +419,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [udlbook/udlbook (⭐7.2k)](https://github.com/udlbook/udlbook): Understanding Deep Learning by Professor Simon J.D. Prince
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [Archie](https://archie.8base.com/): AI-Driven Product Architect that Designs and Plans Software Applications
 
@@ -466,6 +477,9 @@ A curated list of Generative AI tools, works, models, and references
 *   [COUNT](https://getcount.com): AI-powered accounting for small businesses
 *   [Tune AI](https://chat.tune.app/): AI chat app powered by open source models
 *   [GPT Mobile (⭐700)](https://github.com/Taewan-P/gpt_mobile) GPT Mobile is an Android app that can chat with multiple LLMs at once! Currently supports ChatGPT, Anthropic Claude, and Google Gemini.
+
+### AI-Powered Code Generation
+
 *   [DhiWise](https://dhiwise.com): DhiWise is an app development platform that automates coding tasks, letting developers focus on core functionalities.
 
 ### AI Tools for Research / Multi-agents
@@ -644,6 +658,9 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [VocalReplica](https://vocalreplica.com/): AI-Powered Vocal and Instrumental Isolation for Your Favorite Tracks
 *   [Voicesphere](https://www.voicesphere.co/): Chat with your documents to get intelligent, context specific answers.
+
+### AI-Powered Code Generation
+
 *   [Co-Developer GPT engine (⭐14)](https://github.com/stoerr/CoDeveloperGPTengine) - local r/w file access and execute actions from an OpenAI GPT
 
 ### Autonomous LLM Agents / Multi-agents
@@ -736,6 +753,9 @@ A curated list of Generative AI tools, works, models, and references
 *   [WebscrapeAI](https://webscrapeai.com/): Scrape any website without code using AI
 *   [Architecture Helper](https://architecturehelper.com): Analyze any building architecture, and generate your own custom styles, in seconds.
 *   [Yona.ai](https://yona.ai): Create deeply personalized AI chatbots from your own conversations, your stories, your data. You can harness the power of your chat history to build an AI companion for a nostalgic trip down memory lane, whimsical fantasies, or any other unique purpose.
+
+### AI-Powered Code Generation
+
 *   [New study on coding behavior raises questions about impact of AI on software development – GeekWire](https://www.geekwire.com/2024/new-study-on-coding-behavior-raises-questions-about-impact-of-ai-on-software-development/)
 
 ### Large Language Models (LLMs)
@@ -877,7 +897,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Introduction to Generative AI | SqillPlan](https://sqillplan.com/course?hash=-4862018582618510846): introduction to Generative AI, including models such as GANs, Variational Autoencoders, Autoregressive Models, and their applications, evaluation, ethics, and challenges
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [CostGPT: Software Development Cost Calculator](https://costgpt.ai/): "find the cost, time and the best tech stack for any kind of software, tools that you want to build using the power of AI"
 *   [codefuse-ai/Awesome-Code-LLM (⭐2.2k)](https://github.com/codefuse-ai/Awesome-Code-LLM): a curated list of language modeling researches for code and related datasets.
@@ -1076,7 +1096,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Book: Understanding Deep Learning](https://udlbook.github.io/udlbook/): website with the book draft and Google Colabs of the book by Simon J.D. Prince
 *   [List of Generative AI Learning resources from AWS and Google](https://www.linkedin.com/posts/aagarwal29_generativeai-learn-aws-activity-7081761811129118720-i128/): list organized as a LinkedIn post by Ankit Agarwal
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [tldraw/draw-a-ui (⭐5.3k)](https://github.com/tldraw/draw-a-ui): draw a mockup and generate HTML for it
 
@@ -1136,7 +1156,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [We must stop AI replicating the problems of surveillance capitalism](https://www.ft.com/content/d9063c16-a4d2-4580-b8f6-a4872083d0fa)
 *   [Artificial Intelligence at the Service of Collective Intelligence](https://intlekt.io/2023/10/29/artificial-intelligence-at-the-service-of-collective-intelligence/)
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [deepseek-ai/DeepSeek-Coder (⭐21k)](https://github.com/deepseek-ai/DeepSeek-Coder): a tool that experiments the motto "let the code write itself"
 
@@ -1387,7 +1407,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [It’s Not Intelligent If It Always Halts: A Critical Perspective on Current Approaches to AGI | Life Is Computation](https://www.lifeiscomputation.com/it-is-not-intelligent-if-it-always-halts/)
 *   [The human costs of the AI boom | TechCrunch](https://techcrunch.com/2023/08/21/the-human-costs-of-the-ai-boom/)
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [Cody](https://about.sourcegraph.com/cody): AI coding assistant
 *   [Kombai](https://kombai.com/): generate UI code per component from Figma
@@ -1464,7 +1484,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [The ChatGPT revolution is another tech fantasy](https://www.disconnect.blog/p/the-chatgpt-revolution-is-another)
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 
@@ -1505,7 +1525,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Why AI Will Save the World | Andreessen Horowitz](https://a16z.com/2023/06/06/ai-will-save-the-world/)
 *   [Hollywood studios proposed AI contract that would give them likeness rights ‘for the rest of eternity’ - The Verge](https://www.theverge.com/2023/7/13/23794224/sag-aftra-actors-strike-ai-image-rights)
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [Rapidpages](https://www.rapidpages.io/): create React & Tailwind landing pages using AI
 *   [Teaching Programming in the Age of ChatGPT – O’Reilly](https://www.oreilly.com/radar/teaching-programming-in-the-age-of-chatgpt/)
@@ -1548,7 +1568,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [The shady world of Brave selling copyrighted data for AI training](https://stackdiary.com/brave-selling-copyrighted-data-for-ai-training/)
 *   [Inside the AI Factory: the humans that make tech seem human - The Verge](https://www.theverge.com/features/23764584/ai-artificial-intelligence-data-notation-labor-scale-surge-remotasks-openai-chatbots?s=08)
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [GPT Web App Generator](https://magic-app-generator.wasp-lang.dev/): generates a webapp from a title, description, and other simple parameters
 
@@ -1571,7 +1591,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [Technologies in LabLab](https://lablab.ai/tech): list of AI tools suggested by [lablab.ai](https://lablab.ai) for their hackathons
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [wolfia-app/gpt-code-search (⭐204)](https://github.com/wolfia-app/gpt-code-search/): search a codebase with natural language using AI
 
@@ -1640,7 +1660,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Yuval Noah Harari argues that AI has hacked the operating system of human civilisation](https://www.economist.com/by-invitation/2023/04/28/yuval-noah-harari-argues-that-ai-has-hacked-the-operating-system-of-human-civilisation)
 *   [Generative AI Takes Stereotypes and Bias From Bad to Worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [Dedicated File for Inbox for GenAI + Dev (⭐2.7k)](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references
 
@@ -1705,7 +1725,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [AI for Industrial Design](https://industrialdesign.ai/): "students at the National University of Singapore explore AI’s capability for design in a semester course and share what they learned. Directed by Donn Koh at the Division of Industrial Design, NUS."
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [e2b-dev/e2b (⭐7.6k)](https://github.com/e2b-dev/e2b): "Open-source platform for building AI-powered virtual software developers"
 
@@ -1753,6 +1773,9 @@ A curated list of Generative AI tools, works, models, and references
 ### Online Tools and Applications
 
 *   [Nekton.ai](https://nekton.ai/): automate your workflows with AI
+
+### AI-Powered Code Generation
+
 *   [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
 *   [gventuri/pandas-ai (⭐17k)](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates LLMs capabilities into Pandas, making dataframes conversational
 
@@ -1789,7 +1812,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   \[🔥🔥🔥] [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/): short course taught by Isa Fulford (OpenAI) and Andrew Ng (DeepLearning.AI) that provide best practices for prompt engineering
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [A Systematic Evaluation of Large Language Models of Code](https://arxiv.org/abs/2202.13169): arxiv paper
 
@@ -1858,7 +1881,7 @@ A curated list of Generative AI tools, works, models, and references
 *   [Practical Deep Learning for Coders 2023 - Part II](https://www.youtube.com/watch?v=_7rMfsA24Ls\&list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP): continuation of the course focusing on the implementation of Stable Diffusion from scratch.
 *   [Practical Deep Learning for Coders 2022 - Part I](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU): "free course designed for people with some coding experience who want to learn how to apply deep learning and machine learning to practical problems" by Jeremy Howard
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [pgosar/ChatGDB (⭐905)](https://github.com/pgosar/ChatGDB): "Harness the power of ChatGPT inside the GDB debugger"
 *   [Reduce costs when prompting using GPT](https://www.codium.ai/blog/reduce-your-costs-by-30-when-using-gpt-3-for-python-code/)
@@ -2040,7 +2063,7 @@ A curated list of Generative AI tools, works, models, and references
 
 *   [What ChatGPT and generative AI mean for science | Nature](https://www.nature.com/articles/d41586-023-00340-6)
 
-### Online Tools and Applications
+### AI-Powered Code Generation
 
 *   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
 
@@ -2090,6 +2113,9 @@ A curated list of Generative AI tools, works, models, and references
 ### Online Tools and Applications
 
 *   [Paint by Text](https://paintbytext.chat/): Edit your photos using written instructions, with the help of an AI.
+
+### AI-Powered Code Generation
+
 *   [openai/openai-cookbook (⭐62k)](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 
 ### Large Language Models (LLMs)

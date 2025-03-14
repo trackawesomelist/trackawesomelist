@@ -2,7 +2,7 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 206 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 248 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / Overview ]
 
@@ -61,9 +61,13 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [Archives Portal Europe](https://www.archivesportaleurope.net/) - European archives search engine.
 *   [Encyclopédie d'histoire numérique](https://ehne.fr/) - European History through renewed historiographic objects and major contemporary challenges.
 *   [Europeana](https://www.europeana.eu/) - Search engine for European textual and non-textual archival sources.
+*   [handrit.is](https://www.handrit.is/) - Catalogue of more than 15'000 manuscripts (12th–20th century) in Icelandic, Old Norse, Danish and Latin (plus a few other languages) with more than 4'000 manuscripts digitally available.
+*   [islandskort.is](https://www.islandskort.is/) - Digitized maps of Iceland, Greenland and the Arctic region (1545–1949).
+*   [ÍSMÚS](https://www.ismus.is/) - Icelandic musical heritage collection (including recordings and sheet music), legends and fairytales.
 *   [Mapire](https://mapire.eu/) - Interactive historical maps.
 *   [Monasterium](https://www.monasterium.net/mom/home) - Deeds from all over Europe.
 *   [Project Gutenberg](https://www.gutenberg.org/) - A library of over 60,000 free eBooks.
+*   [tímarit.is](https://www.timarit.is/) - Digitized newspapers and magazines from Iceland, Greenland and the Faroe Islands.
 *   [Visual Archive Southeastern Europe](http://gams.uni-graz.at/context:vase) - Historical and contemporary visual materials from Southeastern Europe.
 
 ### France
@@ -168,6 +172,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [MEMOBASE](http://www.memobase.ch/) - Provides access to audiovisual documents from Swiss memory institutions.
 *   [Sammlung Schweizerischer Rechtsquellen online](https://www.ssrq-sds-fds.ch/projekte/ssrq-online/) - Retrodigitalisierte und digitale Editionseinheiten der Schweizerischen Rechtsquellen. Ediert wird rechtshistorisches Quellenmaterial vom Mittelalter bis in die Frühe Neuzeit (1798).
 *   [Schweizerisches Wirtschaftsarchiv](https://ub.unibas.ch/de/historische-bestaende/wirtschaftsarchive/) - This collection comprises over 500 business archives from the period 1750 to the present day, with a focus on the Basel region.
+*   [SKKG Digital Collection](https://digital.skkg.ch/) - The Foundation for Art, Culture, and History (SKKG) provides online access to its collection of approximately 100,000 objects, ranging from artworks to historical artifacts spanning from the Stone Age to the present.
 *   [Sources Online](https://sources-online.org/index.html) - A platform for digital scholarly text editions, integrating TEI Publisher and IIIF in Switzerland.
 *   [swisscollections](https://swisscollections.ch/) - Meta search engine for historical and modern collections in Swiss libraries and archives.
 *   [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - The Federal Council reports to parliament on income and expenditure for the past years.
@@ -193,14 +198,14 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ## More Awesome
 
-*   [Computer History (⭐2.5k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐3.5k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+*   [Computer History (⭐2.8k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
+*   [Data Visualization (⭐3.9k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
-*   [Research Tools (⭐1.9k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐668)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
+*   [Research Tools (⭐2.3k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
+*   [Scientific Writing (⭐788)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
 *   [Tempopedia](https://tempopedia.org/) - Digital History Directory.
 
 ## Contribute
 
-Contributions welcome! Read the [CONTRIBUTING.md (⭐206)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first.
+Contributions welcome! Read the [CONTRIBUTING.md (⭐246)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first.
 

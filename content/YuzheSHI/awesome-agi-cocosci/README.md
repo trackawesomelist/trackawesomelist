@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Mar 14, 2025](/content/2025/03/14/README.md)
+
+### Concepts / Human Concept Representation
+
+*   [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](https://journals.sagepub.com/doi/full/10.1177/09567976211003877) - ***Psychological Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308)]. \[[All Versions](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf)]. Humans primarily rely on language to communicate, on the basis of a shared understanding of the basic building blocks of communication: words. Do we mean the same things when we use the same words? Although cognitive neural research on semantics has revealed the common principles of word-meaning representation, the factors underlying the potential individual variations in word meanings are unknown. This work empirically characterized the intersubject consistency of 90 words across 20 adult subjects (10 female) using both behavioral measures (rating-based semantic-relationship patterns) and neuroimaging measures (word-evoked brain activity patterns). Across both the behavioral and neuroimaging experiments, this work showed that the magnitude of individual disagreements on word meanings could be modeled on the basis of how much language or sensory experience is associated with a word and that this variation increases with word abstractness. Uncovering the cognitive and neural origins of word-meaning disagreements across individuals has implications for potential mechanisms to modulate such disagreements.
+
 ## [Mar 13, 2025](/content/2025/03/13/README.md)
 
 ### Concepts / Human Concept Representation
@@ -1416,10 +1422,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***Proceedings of the National Academy of Sciences***, 2021. \[[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487\&hl=zh-CN\&as_sdt=0,5)]. An analysis of why too many papers published each year in a field can lead to stagnation rather than advance.
 
 ## [Sep 24, 2022](/content/2022/09/24/README.md)
-
-### Concepts / Human Concept Representation
-
-*   [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf) - ***Psychological Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308\&hl=en\&as_sdt=0,5)]. Uncovering the cognitive and neural origins of word-meaning disagreements across individuals.
 
 ### Methodologies for Experiments / Association Test
 

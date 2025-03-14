@@ -6,6 +6,20 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Mar 14, 2025](/content/2025/03/14/README.md)
+
+### Software / Money, Budgeting & Management
+
+*   [SHKeeper](https://shkeeper.io/) - Cryptocurrency payment processor with the unique combination of gateway and merchant allowing you to accept payments in multiple cryptocurrencies without fees and intermediaries. ([Demo (⭐329)](https://github.com/vsys-host/shkeeper.io?tab=readme-ov-file#11-demo), [Source Code (⭐329)](https://github.com/vsys-host/shkeeper.io)) `GPL-3.0` `Python`
+
+### Software / Pastebins
+
+*   [pacebin](https://git.swurl.xyz/swirl/pacebin.git/about/) - A super-minimal pastebin and file upload service written in pure C, focusing on small executable size, portability, and ease of configuration. ([Demo](https://paste.swurl.xyz), [Source Code](https://git.swurl.xyz/swirl/pacebin.git)) `AGPL-3.0` `C`
+
+### Software / URL Shorteners
+
+*   [Flink](https://gitlab.com/rtraceio/web/flink) - Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata. ([Demo](https://flink.is)) `MIT` `Docker`
+
 ## [Mar 12, 2025](/content/2025/03/12/README.md)
 
 ### Software / Communication - SIP
@@ -2434,10 +2448,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [kiwix-serve](https://www.kiwix.org/en/downloads/kiwix-serve/) - HTTP daemon for serving wikis from ZIM files. ([Source Code (⭐535)](https://github.com/kiwix/kiwix-tools)) `GPL-3.0` `C++`
 
-### Software / Software Development - Testing
-
-*   [Touca](https://touca.io) - Continuous regression testing for engineering teams. Get feedback when you write code that could break your software. ([Source Code (⭐504)](https://github.com/trytouca/trytouca)) `Apache-2.0` `Docker/Nodejs`
-
 ## [Jul 25, 2022](/content/2022/07/25/README.md)
 
 ### Software / E-commerce
@@ -3347,7 +3357,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Software Development - Project Management
 
 *   [GitLab](https://about.gitlab.com) - Self Hosted Git repository management, code reviews, issue tracking, activity feeds and wikis. ([Demo](https://gitlab.com/), [Source Code](https://gitlab.com/gitlab-org/gitlab-foss)) `MIT` `Ruby/deb/Docker/K8S`
-*   [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features. ([Source Code](https://github.com/sitaramc/gitolite)) `GPL-2.0` `Perl`
+*   [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features. ([Source Code (⭐8.4k)](https://github.com/sitaramc/gitolite)) `GPL-2.0` `Perl`
 *   [Redmine](https://www.redmine.org/) - Redmine is a flexible project management web application. ([Source Code](https://svn.redmine.org/redmine/)) `GPL-2.0` `Ruby`
 *   [Trac](https://trac.edgewall.org/) - Trac is an enhanced wiki and issue tracking system for software development projects. `BSD-3-Clause` `Python/deb`
 *   [ZenTao](https://www.zentao.pm/) - An agile(scrum) project management system/tool. ([Source Code (⭐1.4k)](https://github.com/easysoft/zentaopms)) `AGPL-3.0` `PHP`
@@ -4580,10 +4590,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐632)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 
-### Software / Pastebins
-
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐201)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python/deb`
-
 ## [Oct 19, 2018](/content/2018/10/19/README.md)
 
 ### Software / Content Management Systems (CMS)
@@ -4925,10 +4931,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Miscellaneous
 
 *   [Monica](https://monicahq.com/) - Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ([Source Code (⭐22k)](https://github.com/monicahq/monica)) `AGPL-3.0` `PHP/Docker`
-
-### Software / Note-taking & Editors
-
-*   [Meemo](https://meemo.minimal-space.de/) - Personal notes stream with Markdown support. ([Source Code (⭐370)](https://github.com/cloudron-io/meemo)) `MIT` `Nodejs`
 
 ### Software / Pastebins
 
