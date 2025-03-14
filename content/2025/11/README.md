@@ -1,18 +1,180 @@
 # Awesome List Updates on Mar 17 - Mar 23, 2025
 
-31 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [1. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+
+### Video Players & Playback Libraries / Smart TV Players
+
+*   [Samsung/HbbPlayer (⭐60)](https://github.com/Samsung/HbbPlayer)  - HbbPlayer is HbbTV application which can playback media by using url of media as parameter. It conforms to W3C and HbbTV specification. - Samsung/HbbPlayer
+*   [bbc/tal (⭐561)](https://github.com/bbc/tal)  - TV Application Layer.
+
+### Video Players & Playback Libraries / Web Players
+
+*   [Akamai Players](https://players.akamai.com/players)  - Akamai provides a suite of media players optimized for high-quality streaming across various devices.
+
+### Video Encoding, Transcoding & Packaging Tools / Cloud-Based Encoding Solutions
+
+*   [video-dev/video-transcoding-api (⭐633)](https://github.com/video-dev/video-transcoding-api)  - Agnostic API to transcode media assets across different cloud services. - video-dev/video-transcoding-api
+
+### Video Encoding, Transcoding & Packaging Tools / Containerization & Packaging Tools
+
+*   [GPAC MP4Box (⭐2.9k)](https://github.com/gpac/gpac/wiki/mp4box)  - MP4Box is a multimedia packager from the GPAC framework, used for encoding and packaging media files.
+*   [OpenVisualCloud/CDN-Transcode-Sample (⭐120)](https://github.com/OpenVisualCloud/CDN-Transcode-Sample)  - Media transcoding is a key function for live video broadcasting, streaming, and video on demand use cases in a CDN network. The CDN Transcode sample (not a finished product) provides a reference pi...
+*   [cpitkin/openfaas-transcode (⭐9)](https://github.com/cpitkin/openfaas-transcode)  - OpenFaaS transcode pipeline.
+*   [matvp91/mixwave (⭐1.2k)](https://github.com/matvp91/mixwave)  - Self hostable platform that aims to simplify the complexities of video delivery. Transcode and package your media for online streaming with simple API calls and sane defaults, or craft dynamic HLS playlists on the fly with bumpers, ads and filters.
+*   [njh/ts2mpa (⭐5)](https://github.com/njh/ts2mpa)  - ts2mpa is a simple tool to extract MPEG Audio from a MPEG-2 Transport Stream. - njh/ts2mpa
+
+### Video Encoding, Transcoding & Packaging Tools / Multi-format Packaging Tools
+
+*   [Eyevinn/hls-to-dash (⭐40)](https://github.com/Eyevinn/hls-to-dash)  - Open source packager and tools to rewrap live HLS to live MPEG DASH - Eyevinn/hls-to-dash
+*   [aminyazdanpanah/python-ffmpeg-video-streaming (⭐846)](https://github.com/aminyazdanpanah/python-ffmpeg-video-streaming)  - 📼 Package media content for online streaming(DASH and HLS) using FFmpeg - aminyazdanpanah/python-ffmpeg-video-streaming
+
+### Video Encoding, Transcoding & Packaging Tools / Scripting & Automation Tools
+
+*   [Scalable, Parallel Video Transcoding on Ubuntu](https://blog.dustinkirkland.com/2014/07/scalable-parallel-video-transcoding-on.html)  - Transcoding video is a very resource intensive process. It can take many minutes to process a small, 30-second clip, or even hours to p...
+
+### Video Streaming & Distribution Solutions / CDN Integration & Distribution
+
+*   [This is How I Reduced My CloudFront Bills by 80%](https://medium.com/faun/this-is-how-i-reduced-my-cloudfront-bills-by-80-a7b0dfb24128)  - If you are using S3 and CloudFront to host your content and noticed that your bills are increasing, read this!
+
+### Video Streaming & Distribution Solutions / Live Streaming Servers
+
+*   [jaskie/PlayoutAutomation (⭐188)](https://github.com/jaskie/PlayoutAutomation)  - Television broadcast automation system.
+
+### Video Streaming & Distribution Solutions / RTMP/RTSP/HTTP Protocol Servers
+
+*   [DVBlast - Open Source fast DVB/ASI network streamer! - VideoLAN](http://www.videolan.org/projects/dvblast.html)  - DVBlast - Open Source fast DVB/ASI network streamer!
+*   [ebu/dtt2ip (⭐27)](https://github.com/ebu/dtt2ip)  - Broadcast to IP conversion for Wifi indoor coverage - ebu/dtt2ip
+*   [njh/dvbshout (⭐10)](https://github.com/njh/dvbshout)  - dvbshout takes an MPEG transport stream from a DVB card, extracts audio channels from stream, and sends the audio to an Icecast / Shoutcast server and/or a RTP multicast packet stream. - njh/dvbshout
+
+### Video Streaming & Distribution Solutions / Streaming Analytics & Monitoring
+
+*   [Akamai Stream Validator](https://players.akamai.com/stream-validator)  - Akamai's Stream Validator is a tool designed to verify the integrity and compliance of streaming media, ensuring optimal playback across devices.
+*   [Eyevinn Stream Corruptor (⭐539)](https://github.com/Eyevinn/streaming-onboarding/blob/master/Stream-Corruptor.md)  - Eyevinn's Stream Corruptor is a tool designed to intentionally corrupt streaming media, useful for testing error resilience in players.
+*   [ThreeFive SCTE35 (⭐142)](https://github.com/futzu/scte-35_threefive)  - An SCTE-35 parser and decoder for analyzing ad markers in MPEG-TS streams, designed for broadcast workflows.
+
+### Video Streaming & Distribution Solutions / VOD Streaming Servers
+
+*   [Unified Streaming Demos](https://demo.unified-streaming.com/)  - A showcase of Unified Streaming's capabilities, including adaptive streaming formats and DRM-protected playback.
+*   [Unified Streaming Features Page](https://demo.unified-streaming.com/k8s/features/stable/#!/mpd)  - A demonstration of Unified Streaming's feature set, including on-the-fly packaging and multi-format support.
+
+### Adaptive Streaming & Manifest Tools / DASH Tools
+
+*   [Dash Sequences GPAC Wiki (⭐2.9k)](https://github.com/gpac/gpac/wiki/dash-sequences)  - The GPAC Wiki provides DASH sequences for conformance testing and validation.
+*   [MPEG DASH Sample Content Bento4](http://www.bento4.com/developers/dash/dash-sample-content/)  - Bento4 offers MPEG-DASH sample content for developers to test and validate their DASH implementations.
+*   [dash-mpd-cli (⭐370)](https://github.com/emarsden/dash-mpd-cli)  - Commandline application for downloading media content from a DASH MPD manifest.
+
+### Adaptive Streaming & Manifest Tools / HLS Manifest Parsers & Generators
+
+*   [Middleman SCTE35 104 Parser](https://tools.middleman.tv/scte35-parser)  - A web-based tool to parse and decode SCTE-35 markers for ad insertion and broadcast signaling analysis.
+
+### Adaptive Streaming & Manifest Tools / HLS Tools
+
+*   [Apple HLS Tools](https://developer.apple.com/documentation/http-live-streaming/using-apple-s-http-live-streaming-hls-tools)  - Apple's HLS Tools assist developers in creating and validating HTTP Live Streaming (HLS) content for Apple devices.
+*   [Mux HLS Streams](https://test-streams.mux.dev/)  - Mux offers a set of test HLS streams, primarily used by hls.js and hosted by Mux, for testing and development.
+*   [gkozlenko/node-video-lib (⭐359)](https://github.com/gkozlenko/node-video-lib)  - Node.js Video Library / MP4 & FLV parser / MP4 builder / HLS muxer - gkozlenko/node-video-lib
+*   [majamee/auto-dash-hls (⭐11)](https://github.com/majamee/auto-dash-hls)  - Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder - majamee/auto-dash-hls
+
+### Media Analysis, Quality Metrics & AI Tools / Metadata Extraction & Management
+
+*   [M2amedia SCTE35 Dump for MPEGTS (⭐34)](https://github.com/m2amedia/scte35dump)  - M2A Media's tool for extracting SCTE-35 markers from MPEG-TS streams.
+
+### Media Analysis, Quality Metrics & AI Tools / Quality Analysis & Metrics
+
+*   [Dolby Stream Validator](https://ott.dolby.com/OnDel_tools/validator/Start_Here.html)  - Dolby's Stream Validator assesses streaming content for Dolby audio and video standards, ensuring high-quality media delivery.
+*   [Unified Streaming Validator](https://validator.unified-streaming.com/)  - Unified Streaming's Validator checks the compliance and quality of streaming content, supporting various streaming protocols.
+
+### Media Analysis, Quality Metrics & AI Tools / Video Analytics & Benchmarking
+
+*   [DVB Inspector](https://sourceforge.net/projects/dvbinspector/)  - Download DVB Inspector for free. DVB transport stream analyzer written in java. DVB Inspector is a java program to analyze captured DVB-streams. It is not a real time tool that can interact with PC-TV DVB hardware directly.
+
+### Build Tools, Deployment & Utility Libraries / Logging & Debugging Tools
+
+*   [Chrome Media Internals](https://developer.chrome.com/docs/devtools/media-panel/)  - A built-in Chrome tool that provides detailed logs and diagnostics for media playback and streaming issues.
+*   [Man in the Middle Proxy (⭐38k)](https://github.com/mitmproxy/mitmproxy)  - An interactive HTTPS proxy that allows inspection, modification, and debugging of network traffic, useful for video streaming analysis.
+
+### Standards, Specifications & Industry Resources / Adaptive Streaming Standards
+
+*   [Apple HLS - IETF RFC8216](https://datatracker.ietf.org/doc/html/draft-pantos-hls-rfc8216bis)  - Defines both the metadata structure and some client/server requirements
+*   [DASH-IF-IOP-v3.2-diff-3.1.pdf](https://dashif.org/docs/DASH-IF-IOP-v3.2-diff-3.1.pdf)  -
+*   [Dashif Conformance](https://conformance.dashif.org/)  - The DASH Industry Forum provides a conformance tool to validate MPEG-DASH content against the DASH standard.
+*   [ISO - ISO/IEC 23009-1:2019 - Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats](https://www.iso.org/standard/79329.html)  - Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats
+*   [ISO/IEC 23009-1:2019](https://www.iso.org/standard/75485.html)  - Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats
+*   [MPEG Common media application format (CMAF) for segmented media - ISO/IEC 23000-19](https://www.iso.org/standard/85623.html)  - Defines the file format and structure
+*   [MPEG DASH - ISO/IEC 23009-01](https://www.iso.org/standard/83314.html)  - Defines both the metadata structure and associated media format(s)
+
+### Standards, Specifications & Industry Resources / Closed Captioning & Subtitling Standards
+
+*   [TTML/WebVTT Coding of audio-visual objects - ISO/IEC 14496-30](https://www.iso.org/standard/75394.html)  - Defines formatting for text tracks webvtt or ttml
+
+### Standards, Specifications & Industry Resources / DRM & Content Protection Standards
+
+*   [Common Encryption - ISO/IEC 23001-7](https://iso.org/standard/84637.html)  - Defines encryption of media supported for receiving devices
+*   [Dashif Content Protection List](https://dashif.org/identifiers/content_protection/)  - A list of content protection schemes recognized by the DASH Industry Forum for securing DASH streaming content.
+
+### Standards, Specifications & Industry Resources / Industry Forums & Standards Bodies
+
+*   [ebu/awesome-broadcasting (⭐1.5k)](https://github.com/ebu/awesome-broadcasting)  - A curated list of amazingly awesome open source resources related to broadcast technologies - ebu/awesome-broadcasting
+
+### Standards, Specifications & Industry Resources / Video Codec Specifications
+
+*   [AAC Audio Coding Standard - ISO/IEC 14496-3](https://www.iso.org/standard/76383.html)  - Defines the compressed audio format AAC
+*   [AVC/HEVC in ISOBMFF - ISO/IEC 14496-15](https://www.iso.org/standard/83336.html)  - Defines the carriage of AVC/HEVC in ISOBMFF
+*   [AVC/h264 Video Coding Standard - ISO/IEC 14496-10](https://www.iso.org/standard/83529.html)  - Defines the compressed video format for AVC/h264
+*   [HEVC/h265 Video Coding Standard - ISO/IEC 23008-2](https://www.iso.org/standard/85457.html)  - Defines the compressed video format HEVC/h265
+*   [MPEG Event message track format for the ISO base media file format - ISO/IEC 23001-18](https://www.iso.org/standard/82529.html)  - Defines the file format and structure
+*   [MPEG ISOBMFF 'MP4' - ISO/IEC 14496-12](https://www.iso.org/standard/83102.html)  - Defines the file format and structure
+*   [MPEG-H Audio a Next Generation Audio (NGA) codec - ISO/IEC 23008-3](https://www.iso.org/standard/83525.html)  - Defines the compressed audio format MPEG-H Audio a Next Generation Audio (NGA) codec
+
+### Learning, Tutorials & Documentation / Encoding & Transcoding Guides
+
+*   [Introduction to H.264: (1) NAL Unit | Yumi Chan's Blog](https://yumichan.net/video-processing/video-compression/introduction-to-h264-nal-unit/)  - This article is to introduce H.264 and provide a overview of NAL Unit. It also explains NALU header byte which contains the basic information of a NALU.
+*   [leandromoreira/ffmpeg-libav-tutorial (⭐10k)](https://github.com/leandromoreira/ffmpeg-libav-tutorial)  - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more - leandromoreira/ffmpeg-libav-tutorial
+
+### Learning, Tutorials & Documentation / Webinars & Conference Talks
+
+*   [Advances in HTTP Live Streaming - WWDC 2017 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2017/504/)  - HTTP Live Streaming allows you to stream live and on-demand content to global audiences. Learn about great new features and enhancements...
+
+### DRM, Security & Content Protection / DRM Solutions & Implementations
+
+*   [Axinom DRM Decoders](https://tools.axinom.com/)  - Axinom offers DRM tools for encoding and decoding, ensuring secure streaming media delivery.
+
+### Miscellaneous, Experimental & Niche Tools / Test Content & Sample Streams
+
+*   [Apple Reference Streams](https://developer.apple.com/streaming/examples/)  - Apple provides example streams demonstrating the features of HTTP Live Streaming (HLS) for testing and development purposes.
+*   [BBC R\&D Adaptive Bitrate Test Media](http://rdmedia.bbc.co.uk/)  - The BBC Research & Development department offers MPEG-DASH test media for developers and researchers.
+*   [Bitmovin Test Stream](https://bitmovin.com/demos/stream-test)  - Bitmovin's Test Player allows users to experience their HTML5 video player demo, showcasing adaptive streaming capabilities.
+*   [Dash IF Test Assets Database](https://testassets.dashif.org/#testvector/list)  - A database of test assets provided by the DASH Industry Forum for validating DASH implementations.
+*   [Eyevinn Streaming Samples (⭐13)](https://github.com/eyevinn/http-streaming-samples)  - A collection of HTTP streaming samples curated by Eyevinn, available for testing and development.
+
+## [2. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+
+### Plugins and scripts / Godot 4
+
+*   [Godot NDI (⭐23)](https://github.com/unvermuthet/godot-ndi) - Integrates the NDI® SDK with Godot.
+
+## [3. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+
+### Stream Processing
+
+*   [CocoIndex (⭐199)](https://github.com/cocoindex-io/cocoindex) - An open source ETL framework to build fresh index for AI.
+
+### Testing / Data Profiler
+
+*   [RunSQL](https://runsql.com/) - Free online SQL playground for MySQL, PostgreSQL, and SQL Server. Create database structures, run queries, and share results instantly.
+
+## [4. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Color Palettes / Web App
 
 *   [Magic Gradient](https://magicgradient.com) - Generate gradients from any keyword with AI.
 
-## [2. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [5. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -25,14 +187,14 @@
 
 *   [SKKG Digital Collection](https://digital.skkg.ch/) - The Foundation for Art, Culture, and History (SKKG) provides online access to its collection of approximately 100,000 objects, ranging from artworks to historical artifacts spanning from the Stone Age to the present.
 
-## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [6. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
 *   [Implementing RBAC Authorization in Next.js - Step-by-Step Guide](https://www.permit.io/blog/how-to-add-rbac-in-nextjs)
 *   [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
 
-## [4. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -50,7 +212,7 @@
 
 *   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-style-in-template (⭐3)](https://github.com/peterroe/vite-plugin-vue-style-in-template) - Extract the style tags in template.
 
-## [5. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [8. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### 3D
 
@@ -91,7 +253,7 @@
 *   [Airtable](https://www.airtable.com/) -A user-friendly platform that blends spreadsheet features with database functionality for organizing projects, managing content, and tracking inventories`#freemium`
 *   [Excelmatic](https://excelmatica.com) - Chat with Excel, effortlessly process(analyze) Excel data using natural language with Excelmatic `#freemium`
 
-## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -115,7 +277,7 @@
 *   [Gitingest](https://gitingest.com/): turn any Git repository into a simple text digest of its codebase.
 *   [uithub](https://uithub.com/): convert GitHub repositories into Markdown by placing the URL in the search bar
 
-## [7. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Games / Browser Games
 
@@ -126,13 +288,13 @@
 *   [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
 *   [Ideate](https://ideate.xyz/) - AI-powered 3D art suite on the web.
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [11. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Section / Svelte
 
 *   [The Coder Cafe](https://thecoder.cafe). One concept for coders, every day.
 
-## [9. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [12. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -142,14 +304,14 @@
 
 *   [@bgotink/playwright-coverage (⭐39)](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
 
-## [10. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [13. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
 *   [v-vite starter (⭐0)](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
 *   [vite.v (⭐0)](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 
-## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - SIP
 
@@ -167,20 +329,20 @@
 
 *   [Flink](https://gitlab.com/rtraceio/web/flink) - Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata. ([Demo](https://flink.is)) `MIT` `Docker`
 
-## [12. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [15. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Programming fonts / Programming fonts with ligatures
 
 *   [JetBrains Maple Mono (⭐533)](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - The free and open-source font fused with JetBrains Mono & Maple Mono
 
-## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [capsule (⭐3)](https://github.com/42LM/capsule) - A simple single file terminal prompt that is completely customizable. Display is divided into capsules (`TIMER` > `DIR` > `GIT` > `GIT ACTION`).
 *   [git-venv-prompt (⭐0)](https://github.com/walkingshamrock/zsh-git-venv-prompt) - Enhances your Zsh prompt with information about the current Python virtual environment and the Git status (asynchronously). It uses zsh-async to provide async updates for Git status and displays the virtual environment in the second line of the prompt.
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [17. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Security tools
 
@@ -194,26 +356,26 @@
 
 *   [cocoindex (⭐199)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
 
-## [15. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [pinia-plugin-unstorage (⭐1)](https://github.com/litingyes/pinia-plugin-unstorage) - The best persistence plugin with unjs/unstorage for pinia.
 
-## [16. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [19. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
 *   [tmux-current-pane-hostname (⭐2)](https://github.com/tony-sol/tmux-current-pane-hostname) Show current user and hostname in ssh sessions
 *   [tmux-kubectx (⭐4)](https://github.com/tony-sol/tmux-kubectx) Show kubernetes context in statusbar
 
-## [17. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [20. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Connectors
 
 *   [wtx (⭐256)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
-## [18. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [21. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing / Usage-based Pricing
 
@@ -223,25 +385,25 @@
 
 *   [£sd computing](https://en.wikipedia.org/wiki/£sd#Computing) - The IBM 1401 mainframe (1959) optionally supported pounds/shillings/pence (£sd) currency arithmetics in hardware.
 
-## [19. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [22. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Scraping
 
 *   [Corsfix](https://corsfix.com) - CORS Proxy to fetch any web resource and bypass CORS errors.
 
-## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [23. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [tfmcp (⭐40)](https://github.com/nwiizo/tfmcp) - A CLI tool that helps you interact with Terraform via the Model Context Protocol (MCP), allowing AI assistants like Claude to manage and operate Terraform environments.
 
-## [21. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [24. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Editor's Choice
 
 *   [Vizard AI](https://vizard.ai/?via=the-marketing-newsletter) - Create social-ready videos with AI instantly
 
-## [22. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
@@ -250,7 +412,7 @@
 *   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188)]. \[[Preprint](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf)]. \[[Code & Tutorial (⭐32)](https://github.com/HuthLab/speechmodeltutorial)]. The meaning of language is represented in regions of the cerebral cortex collectively known as the ‘semantic system’. However, little of the semantic system has been mapped comprehensively, and the semantic selectivity of most regions is unknown. This work systematically maps semantic selectivity across the cortex using voxel-wise modelling of functional MRI (fMRI) data collected while subjects listened to hours of narrative stories. This work shows that the semantic system is organized into intricate patterns that seem to be consistent across individuals. The authors then use a novel generative model to create a detailed semantic atlas. The results suggest that most areas within the semantic system represent information about specific semantic domains, or groups of related concepts, and the atlas shows which domains are represented in each area. This study demonstrates that data-driven methods---commonplace in studies of human neuroanatomy and functional connectivity---provide a powerful and efficient means for mapping functional representations in the brain.
 *   [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](https://journals.sagepub.com/doi/full/10.1177/09567976211003877) - ***Psychological Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308)]. \[[All Versions](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf)]. Humans primarily rely on language to communicate, on the basis of a shared understanding of the basic building blocks of communication: words. Do we mean the same things when we use the same words? Although cognitive neural research on semantics has revealed the common principles of word-meaning representation, the factors underlying the potential individual variations in word meanings are unknown. This work empirically characterized the intersubject consistency of 90 words across 20 adult subjects (10 female) using both behavioral measures (rating-based semantic-relationship patterns) and neuroimaging measures (word-evoked brain activity patterns). Across both the behavioral and neuroimaging experiments, this work showed that the magnitude of individual disagreements on word meanings could be modeled on the basis of how much language or sensory experience is associated with a word and that this variation increases with word abstractness. Uncovering the cognitive and neural origins of word-meaning disagreements across individuals has implications for potential mechanisms to modulate such disagreements.
 
-## [23. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [26. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Scirra
 
@@ -340,7 +502,7 @@
 *   [Level Up - The Educator's Edition](https://www.construct.net/en/make-games/education/resources/ebook) - The ideal companion for anyone using Construct in the classroom.
 *   [Construct 3 Starter Curriculum](https://www.construct.net/en/make-games/education/resources/curriculum) - Free starter curriculum for Construct aimed at teaching students the basics of Computer Science.
 
-## [24. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [27. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Adventure starters and scenarios / Ironsworn
 
@@ -354,7 +516,7 @@
 *   [The Ferrum Mysteries](https://croakerrpgs.itch.io/the-ferrum-mysteries) - Explore the mystery behind the iron pillars
 *   [Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) - Find out what happened to the settlement Shiningstar
 
-## [25. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [28. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
@@ -364,13 +526,13 @@
 
 *   [y3owk1n/nvs (⭐3)](https://github.com/y3owk1n/nvs) - Another Neovim version manager with config switcher.
 
-## [26. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [29. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Portfolio Management
 
 *   [skfolio (⭐1.4k)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn.
 
-## [27. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [30. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
@@ -403,7 +565,7 @@
 *   [NDJSON (⭐717) (⭐715)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐376) (⭐374)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [28. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [31. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -422,15 +584,20 @@
 
 *   [easysitesearch.com](https://easysitesearch.com/) — Search widget and API, with automated web-crawler based indexing. Unlimited searches for free, for up to 50 subpages.
 
+### Forms
+
+*   [Vidhook](https://vidhook.io/) - Collect feedback using delightful surveys with high response rates. Free plan includes 1 active survey, 25 responses per survey and customizable templates.
+
 ### Generative AI
 
+*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐1.2k)](https://github.com/langwatch/langwatch)
 *   [OpenRouter](https://openrouter.ai/models?q=free) - Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.
 
 ### Design and UI
 
 *   [Tailcolors](https://tailcolors.com/) -- A beautiful Tailwind CSS v4 color palette. Instantly preview & copy the perfect Tailwind CSS color class.
 
-## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [32. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -515,13 +682,13 @@
 *   [ts-react-directives (⭐1)](https://github.com/skycodr/ts-react-directives) - A small React/Typescript library designed to mimic Angular directives.
 *   [vyuha (⭐5)](https://github.com/RamanSharma100/vyuha) - A Nodejs Template Engine Inspired by EJS, Angular, and Laravel Blade.
 
-## [30. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [33. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
 *   [Txeo (⭐46)](https://github.com/rdabra/txeo) - A modern C++ wrapper for TensorFlow.
 
-## [31. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [34. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 

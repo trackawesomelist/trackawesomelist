@@ -277,34 +277,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
 *   [Ideate](https://ideate.xyz/) - AI-powered 3D art suite on the web.
 
-#### [21. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data, and ML
-
-*   [Financial Data](https://financialdata.net/) - Stock market and financial data API. Free plan allows 300 requests per day.
-*   [Amazon SageMaker](https://studiolab.sagemaker.aws/) — A cloud-based ML platform with JupyterLab and terminal access. The free tier includes 8 hours of CPU (max 4 hours per session) or 4 hours of GPU per day.
-
-##### Security and PKI
-
-*   [Project Gatekeeper](https://gatekeeper.binarybiology.top/) - An All-in-One SSL Toolkit Offering various features like Private Key & CSR Generator, SSL Certificate Decoder, Certificate Matcher and Order SSL Certificate. We offer the users to generate Free SSL Certificates from Let's Encrypt, Google Trust and BuyPass using CNAME Records rather than TXT Records.
-
-##### Authentication, Authorization, and User Management
-
-*   [SSOJet](https://ssojet.com/) - Add Enterprise SSO Without Rebuilding Your Auth. The free plan includes unlimited monthly active users, unlimited organizations, 2 SSO & 2 SCIM connections.
-
-##### Search
-
-*   [easysitesearch.com](https://easysitesearch.com/) — Search widget and API, with automated web-crawler based indexing. Unlimited searches for free, for up to 50 subpages.
-
-##### Generative AI
-
-*   [OpenRouter](https://openrouter.ai/models?q=free) - Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.
-
-##### Design and UI
-
-*   [Tailcolors](https://tailcolors.com/) -- A beautiful Tailwind CSS v4 color palette. Instantly preview & copy the perfect Tailwind CSS color class.
-
-#### [22. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+#### [21. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ##### 3D
 
@@ -345,7 +318,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Airtable](https://www.airtable.com/) -A user-friendly platform that blends spreadsheet features with database functionality for organizing projects, managing content, and tracking inventories`#freemium`
 *   [Excelmatic](https://excelmatica.com) - Chat with Excel, effortlessly process(analyze) Excel data using natural language with Excelmatic `#freemium`
 
-#### [23. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+#### [22. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ##### Templates / Vue 3
 
@@ -363,7 +336,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-style-in-template (⭐3)](https://github.com/peterroe/vite-plugin-vue-style-in-template) - Extract the style tags in template.
 
-#### [24. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [23. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Security tools
 
@@ -377,7 +350,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [cocoindex (⭐199)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
 
-#### [25. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [24. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -462,14 +435,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [ts-react-directives (⭐1)](https://github.com/skycodr/ts-react-directives) - A small React/Typescript library designed to mimic Angular directives.
 *   [vyuha (⭐5)](https://github.com/RamanSharma100/vyuha) - A Nodejs Template Engine Inspired by EJS, Angular, and Laravel Blade.
 
-#### [26. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+#### [25. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ##### Articles
 
 *   [Implementing RBAC Authorization in Next.js - Step-by-Step Guide](https://www.permit.io/blog/how-to-add-rbac-in-nextjs)
 *   [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
 
-#### [27. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+#### [26. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ##### Archives and primary sources / Europe
 
@@ -482,7 +455,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [SKKG Digital Collection](https://digital.skkg.ch/) - The Foundation for Art, Culture, and History (SKKG) provides online access to its collection of approximately 100,000 objects, ranging from artworks to historical artifacts spanning from the Stone Age to the present.
 
-#### [28. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Communication - SIP
 
@@ -500,13 +473,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Flink](https://gitlab.com/rtraceio/web/flink) - Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata. ([Demo](https://flink.is)) `MIT` `Docker`
 
-#### [29. Colorful](/content/Siddharth11/Colorful/README.md)
+#### [28. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ##### Color Palettes / Web App
 
 *   [Magic Gradient](https://magicgradient.com) - Generate gradients from any keyword with AI.
 
-#### [30. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [29. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -530,7 +503,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Gitingest](https://gitingest.com/): turn any Git repository into a simple text digest of its codebase.
 *   [uithub](https://uithub.com/): convert GitHub repositories into Markdown by placing the URL in the search bar
 
-#### [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [30. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Concepts / Human Concept Representation
 
@@ -538,6 +511,200 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Structuring Knowledge with Cognitive Maps and Cognitive Graphs](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613\(20\)30250-3) - ***Trends in Cognitive Sciences***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=7196012353183004425)]. \[[Preprint](https://www.sas.upenn.edu/psych/epsteinlab/pdfs/Peer%20Brunec%20Newcombe%20Epstein%20TiCS%202020%20Cog%20maps%20and%20cog%20graphs.pdf)]. Humans and animals use mental representations of the spatial structure of the world to navigate. The classical view is that these representations take the form of Euclidean cognitive maps, but alternative theories suggest that they are cognitive graphs consisting of locations connected by paths. The authors review evidence suggesting that both map-like and graph-like representations exist in the mind/brain that rely on partially overlapping neural systems. Maps and graphs can operate simultaneously or separately, and they may be applied to both spatial and nonspatial knowledge. By providing structural frameworks for complex information, cognitive maps and cognitive graphs may provide fundamental organizing schemata that allow us to navigate in physical, social, and conceptual spaces.
 *   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188)]. \[[Preprint](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf)]. \[[Code & Tutorial (⭐32)](https://github.com/HuthLab/speechmodeltutorial)]. The meaning of language is represented in regions of the cerebral cortex collectively known as the ‘semantic system’. However, little of the semantic system has been mapped comprehensively, and the semantic selectivity of most regions is unknown. This work systematically maps semantic selectivity across the cortex using voxel-wise modelling of functional MRI (fMRI) data collected while subjects listened to hours of narrative stories. This work shows that the semantic system is organized into intricate patterns that seem to be consistent across individuals. The authors then use a novel generative model to create a detailed semantic atlas. The results suggest that most areas within the semantic system represent information about specific semantic domains, or groups of related concepts, and the atlas shows which domains are represented in each area. This study demonstrates that data-driven methods---commonplace in studies of human neuroanatomy and functional connectivity---provide a powerful and efficient means for mapping functional representations in the brain.
 *   [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](https://journals.sagepub.com/doi/full/10.1177/09567976211003877) - ***Psychological Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308)]. \[[All Versions](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf)]. Humans primarily rely on language to communicate, on the basis of a shared understanding of the basic building blocks of communication: words. Do we mean the same things when we use the same words? Although cognitive neural research on semantics has revealed the common principles of word-meaning representation, the factors underlying the potential individual variations in word meanings are unknown. This work empirically characterized the intersubject consistency of 90 words across 20 adult subjects (10 female) using both behavioral measures (rating-based semantic-relationship patterns) and neuroimaging measures (word-evoked brain activity patterns). Across both the behavioral and neuroimaging experiments, this work showed that the magnitude of individual disagreements on word meanings could be modeled on the basis of how much language or sensory experience is associated with a word and that this variation increases with word abstractness. Uncovering the cognitive and neural origins of word-meaning disagreements across individuals has implications for potential mechanisms to modulate such disagreements.
+
+#### [31. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+
+##### Stream Processing
+
+*   [CocoIndex (⭐199)](https://github.com/cocoindex-io/cocoindex) - An open source ETL framework to build fresh index for AI.
+
+##### Testing / Data Profiler
+
+*   [RunSQL](https://runsql.com/) - Free online SQL playground for MySQL, PostgreSQL, and SQL Server. Create database structures, run queries, and share results instantly.
+
+#### [32. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+
+##### Plugins and scripts / Godot 4
+
+*   [Godot NDI (⭐23)](https://github.com/unvermuthet/godot-ndi) - Integrates the NDI® SDK with Godot.
+
+#### [33. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [Financial Data](https://financialdata.net/) - Stock market and financial data API. Free plan allows 300 requests per day.
+*   [Amazon SageMaker](https://studiolab.sagemaker.aws/) — A cloud-based ML platform with JupyterLab and terminal access. The free tier includes 8 hours of CPU (max 4 hours per session) or 4 hours of GPU per day.
+
+##### Security and PKI
+
+*   [Project Gatekeeper](https://gatekeeper.binarybiology.top/) - An All-in-One SSL Toolkit Offering various features like Private Key & CSR Generator, SSL Certificate Decoder, Certificate Matcher and Order SSL Certificate. We offer the users to generate Free SSL Certificates from Let's Encrypt, Google Trust and BuyPass using CNAME Records rather than TXT Records.
+
+##### Authentication, Authorization, and User Management
+
+*   [SSOJet](https://ssojet.com/) - Add Enterprise SSO Without Rebuilding Your Auth. The free plan includes unlimited monthly active users, unlimited organizations, 2 SSO & 2 SCIM connections.
+
+##### Search
+
+*   [easysitesearch.com](https://easysitesearch.com/) — Search widget and API, with automated web-crawler based indexing. Unlimited searches for free, for up to 50 subpages.
+
+##### Forms
+
+*   [Vidhook](https://vidhook.io/) - Collect feedback using delightful surveys with high response rates. Free plan includes 1 active survey, 25 responses per survey and customizable templates.
+
+##### Generative AI
+
+*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐1.2k)](https://github.com/langwatch/langwatch)
+*   [OpenRouter](https://openrouter.ai/models?q=free) - Provides various free AI models including DeepSeek R1, V3, Llama, and Moonshot AI. These models excel in natural language processing and are suitable for diverse development needs. Note that while these models are free to use, they are subject to rate limits. Additionally, OpenRouter offers paid models for more advanced requirements, for instance Claude, OpenAI, Grok, Gemini, and Nova.
+
+##### Design and UI
+
+*   [Tailcolors](https://tailcolors.com/) -- A beautiful Tailwind CSS v4 color palette. Instantly preview & copy the perfect Tailwind CSS color class.
+
+#### [34. Awesome Video](/content/krzemienski/awesome-video/README.md)
+
+##### Video Players & Playback Libraries / Smart TV Players
+
+*   [Samsung/HbbPlayer (⭐60)](https://github.com/Samsung/HbbPlayer)  - HbbPlayer is HbbTV application which can playback media by using url of media as parameter. It conforms to W3C and HbbTV specification. - Samsung/HbbPlayer
+*   [bbc/tal (⭐561)](https://github.com/bbc/tal)  - TV Application Layer.
+
+##### Video Players & Playback Libraries / Web Players
+
+*   [Akamai Players](https://players.akamai.com/players)  - Akamai provides a suite of media players optimized for high-quality streaming across various devices.
+
+##### Video Encoding, Transcoding & Packaging Tools / Cloud-Based Encoding Solutions
+
+*   [video-dev/video-transcoding-api (⭐633)](https://github.com/video-dev/video-transcoding-api)  - Agnostic API to transcode media assets across different cloud services. - video-dev/video-transcoding-api
+
+##### Video Encoding, Transcoding & Packaging Tools / Containerization & Packaging Tools
+
+*   [GPAC MP4Box (⭐2.9k)](https://github.com/gpac/gpac/wiki/mp4box)  - MP4Box is a multimedia packager from the GPAC framework, used for encoding and packaging media files.
+*   [OpenVisualCloud/CDN-Transcode-Sample (⭐120)](https://github.com/OpenVisualCloud/CDN-Transcode-Sample)  - Media transcoding is a key function for live video broadcasting, streaming, and video on demand use cases in a CDN network. The CDN Transcode sample (not a finished product) provides a reference pi...
+*   [cpitkin/openfaas-transcode (⭐9)](https://github.com/cpitkin/openfaas-transcode)  - OpenFaaS transcode pipeline.
+*   [matvp91/mixwave (⭐1.2k)](https://github.com/matvp91/mixwave)  - Self hostable platform that aims to simplify the complexities of video delivery. Transcode and package your media for online streaming with simple API calls and sane defaults, or craft dynamic HLS playlists on the fly with bumpers, ads and filters.
+*   [njh/ts2mpa (⭐5)](https://github.com/njh/ts2mpa)  - ts2mpa is a simple tool to extract MPEG Audio from a MPEG-2 Transport Stream. - njh/ts2mpa
+
+##### Video Encoding, Transcoding & Packaging Tools / Multi-format Packaging Tools
+
+*   [Eyevinn/hls-to-dash (⭐40)](https://github.com/Eyevinn/hls-to-dash)  - Open source packager and tools to rewrap live HLS to live MPEG DASH - Eyevinn/hls-to-dash
+*   [aminyazdanpanah/python-ffmpeg-video-streaming (⭐846)](https://github.com/aminyazdanpanah/python-ffmpeg-video-streaming)  - 📼 Package media content for online streaming(DASH and HLS) using FFmpeg - aminyazdanpanah/python-ffmpeg-video-streaming
+
+##### Video Encoding, Transcoding & Packaging Tools / Scripting & Automation Tools
+
+*   [Scalable, Parallel Video Transcoding on Ubuntu](https://blog.dustinkirkland.com/2014/07/scalable-parallel-video-transcoding-on.html)  - Transcoding video is a very resource intensive process. It can take many minutes to process a small, 30-second clip, or even hours to p...
+
+##### Video Streaming & Distribution Solutions / CDN Integration & Distribution
+
+*   [This is How I Reduced My CloudFront Bills by 80%](https://medium.com/faun/this-is-how-i-reduced-my-cloudfront-bills-by-80-a7b0dfb24128)  - If you are using S3 and CloudFront to host your content and noticed that your bills are increasing, read this!
+
+##### Video Streaming & Distribution Solutions / Live Streaming Servers
+
+*   [jaskie/PlayoutAutomation (⭐188)](https://github.com/jaskie/PlayoutAutomation)  - Television broadcast automation system.
+
+##### Video Streaming & Distribution Solutions / RTMP/RTSP/HTTP Protocol Servers
+
+*   [DVBlast - Open Source fast DVB/ASI network streamer! - VideoLAN](http://www.videolan.org/projects/dvblast.html)  - DVBlast - Open Source fast DVB/ASI network streamer!
+*   [ebu/dtt2ip (⭐27)](https://github.com/ebu/dtt2ip)  - Broadcast to IP conversion for Wifi indoor coverage - ebu/dtt2ip
+*   [njh/dvbshout (⭐10)](https://github.com/njh/dvbshout)  - dvbshout takes an MPEG transport stream from a DVB card, extracts audio channels from stream, and sends the audio to an Icecast / Shoutcast server and/or a RTP multicast packet stream. - njh/dvbshout
+
+##### Video Streaming & Distribution Solutions / Streaming Analytics & Monitoring
+
+*   [Akamai Stream Validator](https://players.akamai.com/stream-validator)  - Akamai's Stream Validator is a tool designed to verify the integrity and compliance of streaming media, ensuring optimal playback across devices.
+*   [Eyevinn Stream Corruptor (⭐539)](https://github.com/Eyevinn/streaming-onboarding/blob/master/Stream-Corruptor.md)  - Eyevinn's Stream Corruptor is a tool designed to intentionally corrupt streaming media, useful for testing error resilience in players.
+*   [ThreeFive SCTE35 (⭐142)](https://github.com/futzu/scte-35_threefive)  - An SCTE-35 parser and decoder for analyzing ad markers in MPEG-TS streams, designed for broadcast workflows.
+
+##### Video Streaming & Distribution Solutions / VOD Streaming Servers
+
+*   [Unified Streaming Demos](https://demo.unified-streaming.com/)  - A showcase of Unified Streaming's capabilities, including adaptive streaming formats and DRM-protected playback.
+*   [Unified Streaming Features Page](https://demo.unified-streaming.com/k8s/features/stable/#!/mpd)  - A demonstration of Unified Streaming's feature set, including on-the-fly packaging and multi-format support.
+
+##### Adaptive Streaming & Manifest Tools / DASH Tools
+
+*   [Dash Sequences GPAC Wiki (⭐2.9k)](https://github.com/gpac/gpac/wiki/dash-sequences)  - The GPAC Wiki provides DASH sequences for conformance testing and validation.
+*   [MPEG DASH Sample Content Bento4](http://www.bento4.com/developers/dash/dash-sample-content/)  - Bento4 offers MPEG-DASH sample content for developers to test and validate their DASH implementations.
+*   [dash-mpd-cli (⭐370)](https://github.com/emarsden/dash-mpd-cli)  - Commandline application for downloading media content from a DASH MPD manifest.
+
+##### Adaptive Streaming & Manifest Tools / HLS Manifest Parsers & Generators
+
+*   [Middleman SCTE35 104 Parser](https://tools.middleman.tv/scte35-parser)  - A web-based tool to parse and decode SCTE-35 markers for ad insertion and broadcast signaling analysis.
+
+##### Adaptive Streaming & Manifest Tools / HLS Tools
+
+*   [Apple HLS Tools](https://developer.apple.com/documentation/http-live-streaming/using-apple-s-http-live-streaming-hls-tools)  - Apple's HLS Tools assist developers in creating and validating HTTP Live Streaming (HLS) content for Apple devices.
+*   [Mux HLS Streams](https://test-streams.mux.dev/)  - Mux offers a set of test HLS streams, primarily used by hls.js and hosted by Mux, for testing and development.
+*   [gkozlenko/node-video-lib (⭐359)](https://github.com/gkozlenko/node-video-lib)  - Node.js Video Library / MP4 & FLV parser / MP4 builder / HLS muxer - gkozlenko/node-video-lib
+*   [majamee/auto-dash-hls (⭐11)](https://github.com/majamee/auto-dash-hls)  - Automated toolchain for generating DASH/ HLS compatible files from all videos inside a root folder - majamee/auto-dash-hls
+
+##### Media Analysis, Quality Metrics & AI Tools / Metadata Extraction & Management
+
+*   [M2amedia SCTE35 Dump for MPEGTS (⭐34)](https://github.com/m2amedia/scte35dump)  - M2A Media's tool for extracting SCTE-35 markers from MPEG-TS streams.
+
+##### Media Analysis, Quality Metrics & AI Tools / Quality Analysis & Metrics
+
+*   [Dolby Stream Validator](https://ott.dolby.com/OnDel_tools/validator/Start_Here.html)  - Dolby's Stream Validator assesses streaming content for Dolby audio and video standards, ensuring high-quality media delivery.
+*   [Unified Streaming Validator](https://validator.unified-streaming.com/)  - Unified Streaming's Validator checks the compliance and quality of streaming content, supporting various streaming protocols.
+
+##### Media Analysis, Quality Metrics & AI Tools / Video Analytics & Benchmarking
+
+*   [DVB Inspector](https://sourceforge.net/projects/dvbinspector/)  - Download DVB Inspector for free. DVB transport stream analyzer written in java. DVB Inspector is a java program to analyze captured DVB-streams. It is not a real time tool that can interact with PC-TV DVB hardware directly.
+
+##### Build Tools, Deployment & Utility Libraries / Logging & Debugging Tools
+
+*   [Chrome Media Internals](https://developer.chrome.com/docs/devtools/media-panel/)  - A built-in Chrome tool that provides detailed logs and diagnostics for media playback and streaming issues.
+*   [Man in the Middle Proxy (⭐38k)](https://github.com/mitmproxy/mitmproxy)  - An interactive HTTPS proxy that allows inspection, modification, and debugging of network traffic, useful for video streaming analysis.
+
+##### Standards, Specifications & Industry Resources / Adaptive Streaming Standards
+
+*   [Apple HLS - IETF RFC8216](https://datatracker.ietf.org/doc/html/draft-pantos-hls-rfc8216bis)  - Defines both the metadata structure and some client/server requirements
+*   [DASH-IF-IOP-v3.2-diff-3.1.pdf](https://dashif.org/docs/DASH-IF-IOP-v3.2-diff-3.1.pdf)  -
+*   [Dashif Conformance](https://conformance.dashif.org/)  - The DASH Industry Forum provides a conformance tool to validate MPEG-DASH content against the DASH standard.
+*   [ISO - ISO/IEC 23009-1:2019 - Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats](https://www.iso.org/standard/79329.html)  - Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats
+*   [ISO/IEC 23009-1:2019](https://www.iso.org/standard/75485.html)  - Information technology — Dynamic adaptive streaming over HTTP (DASH) — Part 1: Media presentation description and segment formats
+*   [MPEG Common media application format (CMAF) for segmented media - ISO/IEC 23000-19](https://www.iso.org/standard/85623.html)  - Defines the file format and structure
+*   [MPEG DASH - ISO/IEC 23009-01](https://www.iso.org/standard/83314.html)  - Defines both the metadata structure and associated media format(s)
+
+##### Standards, Specifications & Industry Resources / Closed Captioning & Subtitling Standards
+
+*   [TTML/WebVTT Coding of audio-visual objects - ISO/IEC 14496-30](https://www.iso.org/standard/75394.html)  - Defines formatting for text tracks webvtt or ttml
+
+##### Standards, Specifications & Industry Resources / DRM & Content Protection Standards
+
+*   [Common Encryption - ISO/IEC 23001-7](https://iso.org/standard/84637.html)  - Defines encryption of media supported for receiving devices
+*   [Dashif Content Protection List](https://dashif.org/identifiers/content_protection/)  - A list of content protection schemes recognized by the DASH Industry Forum for securing DASH streaming content.
+
+##### Standards, Specifications & Industry Resources / Industry Forums & Standards Bodies
+
+*   [ebu/awesome-broadcasting (⭐1.5k)](https://github.com/ebu/awesome-broadcasting)  - A curated list of amazingly awesome open source resources related to broadcast technologies - ebu/awesome-broadcasting
+
+##### Standards, Specifications & Industry Resources / Video Codec Specifications
+
+*   [AAC Audio Coding Standard - ISO/IEC 14496-3](https://www.iso.org/standard/76383.html)  - Defines the compressed audio format AAC
+*   [AVC/HEVC in ISOBMFF - ISO/IEC 14496-15](https://www.iso.org/standard/83336.html)  - Defines the carriage of AVC/HEVC in ISOBMFF
+*   [AVC/h264 Video Coding Standard - ISO/IEC 14496-10](https://www.iso.org/standard/83529.html)  - Defines the compressed video format for AVC/h264
+*   [HEVC/h265 Video Coding Standard - ISO/IEC 23008-2](https://www.iso.org/standard/85457.html)  - Defines the compressed video format HEVC/h265
+*   [MPEG Event message track format for the ISO base media file format - ISO/IEC 23001-18](https://www.iso.org/standard/82529.html)  - Defines the file format and structure
+*   [MPEG ISOBMFF 'MP4' - ISO/IEC 14496-12](https://www.iso.org/standard/83102.html)  - Defines the file format and structure
+*   [MPEG-H Audio a Next Generation Audio (NGA) codec - ISO/IEC 23008-3](https://www.iso.org/standard/83525.html)  - Defines the compressed audio format MPEG-H Audio a Next Generation Audio (NGA) codec
+
+##### Learning, Tutorials & Documentation / Encoding & Transcoding Guides
+
+*   [Introduction to H.264: (1) NAL Unit | Yumi Chan's Blog](https://yumichan.net/video-processing/video-compression/introduction-to-h264-nal-unit/)  - This article is to introduce H.264 and provide a overview of NAL Unit. It also explains NALU header byte which contains the basic information of a NALU.
+*   [leandromoreira/ffmpeg-libav-tutorial (⭐10k)](https://github.com/leandromoreira/ffmpeg-libav-tutorial)  - FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more - leandromoreira/ffmpeg-libav-tutorial
+
+##### Learning, Tutorials & Documentation / Webinars & Conference Talks
+
+*   [Advances in HTTP Live Streaming - WWDC 2017 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2017/504/)  - HTTP Live Streaming allows you to stream live and on-demand content to global audiences. Learn about great new features and enhancements...
+
+##### DRM, Security & Content Protection / DRM Solutions & Implementations
+
+*   [Axinom DRM Decoders](https://tools.axinom.com/)  - Axinom offers DRM tools for encoding and decoding, ensuring secure streaming media delivery.
+
+##### Miscellaneous, Experimental & Niche Tools / Test Content & Sample Streams
+
+*   [Apple Reference Streams](https://developer.apple.com/streaming/examples/)  - Apple provides example streams demonstrating the features of HTTP Live Streaming (HLS) for testing and development purposes.
+*   [BBC R\&D Adaptive Bitrate Test Media](http://rdmedia.bbc.co.uk/)  - The BBC Research & Development department offers MPEG-DASH test media for developers and researchers.
+*   [Bitmovin Test Stream](https://bitmovin.com/demos/stream-test)  - Bitmovin's Test Player allows users to experience their HTML5 video player demo, showcasing adaptive streaming capabilities.
+*   [Dash IF Test Assets Database](https://testassets.dashif.org/#testvector/list)  - A database of test assets provided by the DASH Industry Forum for validating DASH implementations.
+*   [Eyevinn Streaming Samples (⭐13)](https://github.com/eyevinn/http-streaming-samples)  - A collection of HTTP streaming samples curated by Eyevinn, available for testing and development.
 
 ---
 
@@ -548,8 +715,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 220K 📝 03&#x2F;14 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 2. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 352K 📝 03&#x2F;09 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
 3. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 349K 📝 03&#x2F;04 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
-4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 139K 📝 03&#x2F;08 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 93K 📝 03&#x2F;12 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 93K 📝 03&#x2F;14 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+5. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 139K 📝 03&#x2F;08 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 6. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 03&#x2F;11 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 7. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K 📝 03&#x2F;13 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 8. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 80K 📝 03&#x2F;07 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -565,36 +732,36 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 18. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 11K 📝 03&#x2F;14 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
 19. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 25K 📝 03&#x2F;05 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
 20. [Awesome Angular](/content/PatrickJS/awesome-angular/README.md) - ([Source ⭐ 9.6K 📝 03&#x2F;14 ](https://github.com/PatrickJS/awesome-angular)) - :page_facing_up: A curated list of awesome Angular resources
-21. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 8.2K 📝 03&#x2F;11 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
-22. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 14K 📝 03&#x2F;05 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
-23. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 15K 📝 03&#x2F;05 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
-24. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K 📝 03&#x2F;05 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-25. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 10K 📝 03&#x2F;08 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
-26. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 5.7K 📝 03&#x2F;11 ](https://github.com/shuaibiyy/awesome-tf)) - Curated list of resources on HashiCorp's Terraform and OpenTofu
-27. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 67K 📝 02&#x2F;14 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
-28. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 4K 📝 03&#x2F;13 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
-29. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 8K 📝 03&#x2F;05 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-30. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 72K 📝 02&#x2F;10 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
-31. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.7K 📝 03&#x2F;14 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
-32. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 3.8K 📝 03&#x2F;10 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
-33. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.8K 📝 03&#x2F;10 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
-34. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 9K 📝 03&#x2F;01 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
-35. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 4.5K 📝 03&#x2F;05 ](https://github.com/zoidyzoidzoid/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
-36. [Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md) - ([Source ⭐ 2.4K 📝 03&#x2F;11 ](https://github.com/shlomi-noach/awesome-mysql)) - A curated list of awesome MySQL software, libraries, tools and resources
-37. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 6.6K 📝 02&#x2F;28 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-38. [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 1.9K 📝 03&#x2F;12 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
-39. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 7.4K 📝 02&#x2F;26 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
-40. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K 📝 03&#x2F;08 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
-41. [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 2K 📝 03&#x2F;10 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
-42. [Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md) - ([Source ⭐ 2.7K 📝 03&#x2F;07 ](https://github.com/pico-8/awesome-PICO-8)) - A curated list of awesome PICO-8 resources, carts, tools and more
-43. [Awesome Fonts](/content/brabadu/awesome-fonts/README.md) - ([Source ⭐ 1.6K 📝 03&#x2F;12 ](https://github.com/brabadu/awesome-fonts)) - Curated list of fonts and everything
-44. [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 3.7K 📝 03&#x2F;03 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
-45. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 48K 📝 02&#x2F;05 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
-46. [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.2K 📝 03&#x2F;14 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
-47. [Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md) - ([Source ⭐ 1.7K 📝 03&#x2F;09 ](https://github.com/TheComputerM/awesome-svelte)) - ⚡ A curated list of awesome Svelte resources
-48. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 37K 📝 02&#x2F;06 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-49. [Awesome Appsec](/content/paragonie/awesome-appsec/README.md) - ([Source ⭐ 6.4K 📝 02&#x2F;23 ](https://github.com/paragonie/awesome-appsec)) - A curated list of resources for learning about application security
-50. [Awesome Developer First](/content/agamm/awesome-developer-first/README.md) - ([Source ⭐ 1.2K 📝 03&#x2F;11 ](https://github.com/agamm/awesome-developer-first)) - A curated list of awesome developer-first tools products.
+21. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 7.6K 📝 03&#x2F;14 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
+22. [Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md) - ([Source ⭐ 7.2K 📝 03&#x2F;14 ](https://github.com/igorbarinov/awesome-data-engineering)) - A curated list of data engineering tools for software developers
+23. [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 8.2K 📝 03&#x2F;11 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
+24. [Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md) - ([Source ⭐ 14K 📝 03&#x2F;05 ](https://github.com/thibmaek/awesome-raspberry-pi)) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+25. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 15K 📝 03&#x2F;05 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
+26. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K 📝 03&#x2F;05 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+27. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 10K 📝 03&#x2F;08 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
+28. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 5.7K 📝 03&#x2F;11 ](https://github.com/shuaibiyy/awesome-tf)) - Curated list of resources on HashiCorp's Terraform and OpenTofu
+29. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 67K 📝 02&#x2F;14 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
+30. [Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md) - ([Source ⭐ 4K 📝 03&#x2F;13 ](https://github.com/zudochkin/awesome-newsletters)) - A list of amazing Newsletters
+31. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 8K 📝 03&#x2F;05 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+32. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 72K 📝 02&#x2F;10 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
+33. [Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md) - ([Source ⭐ 2.7K 📝 03&#x2F;14 ](https://github.com/filipecalegario/awesome-generative-ai)) - A curated list of Generative AI tools, works, models, and references
+34. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 3.8K 📝 03&#x2F;10 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+35. [Awesome Rails](/content/gramantin/awesome-rails/README.md) - ([Source ⭐ 3.8K 📝 03&#x2F;10 ](https://github.com/gramantin/awesome-rails)) - A curated list of awesome things related to Ruby on Rails
+36. [Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md) - ([Source ⭐ 9K 📝 03&#x2F;01 ](https://github.com/AdrienTorris/awesome-blazor)) - Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+37. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 4.5K 📝 03&#x2F;05 ](https://github.com/zoidyzoidzoid/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
+38. [Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md) - ([Source ⭐ 2.4K 📝 03&#x2F;11 ](https://github.com/shlomi-noach/awesome-mysql)) - A curated list of awesome MySQL software, libraries, tools and resources
+39. [Awesome Video](/content/krzemienski/awesome-video/README.md) - ([Source ⭐ 1.6K 📝 03&#x2F;14 ](https://github.com/krzemienski/awesome-video)) -  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
+40. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 6.6K 📝 02&#x2F;28 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+41. [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 1.9K 📝 03&#x2F;12 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
+42. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K 📝 03&#x2F;08 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+43. [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 2K 📝 03&#x2F;10 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
+44. [Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md) - ([Source ⭐ 2.7K 📝 03&#x2F;07 ](https://github.com/pico-8/awesome-PICO-8)) - A curated list of awesome PICO-8 resources, carts, tools and more
+45. [Awesome Fonts](/content/brabadu/awesome-fonts/README.md) - ([Source ⭐ 1.6K 📝 03&#x2F;12 ](https://github.com/brabadu/awesome-fonts)) - Curated list of fonts and everything
+46. [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 3.7K 📝 03&#x2F;03 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
+47. [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 48K 📝 02&#x2F;05 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
+48. [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.2K 📝 03&#x2F;14 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
+49. [Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md) - ([Source ⭐ 1.7K 📝 03&#x2F;09 ](https://github.com/TheComputerM/awesome-svelte)) - ⚡ A curated list of awesome Svelte resources
+50. [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 37K 📝 02&#x2F;06 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
 ## All Tracked List
 
@@ -634,7 +801,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### Big Data
 
 - [Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md) - ([Source ⭐ 13K, 📝 02&#x2F;14 ](https://github.com/newTendermint/awesome-bigdata)) - A curated list of awesome big data frameworks, ressources and other awesomeness.
-- [Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md) - ([Source ⭐ 7.1K, 📝 02&#x2F;18 ](https://github.com/igorbarinov/awesome-data-engineering)) - A curated list of data engineering tools for software developers
+- [Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md) - ([Source ⭐ 7.2K, 📝 03&#x2F;14 ](https://github.com/igorbarinov/awesome-data-engineering)) - A curated list of data engineering tools for software developers
 - [Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md) - ([Source ⭐ 1K, 📝 22&#x2F;01&#x2F;24 ](https://github.com/youngwookim/awesome-hadoop)) - A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources
 - [Awesome Qlik](/content/ambster-public/awesome-qlik/README.md) - ([Source ⭐ 30, 📝 19&#x2F;11&#x2F;15 ](https://github.com/ambster-public/awesome-qlik)) - A curated list of awesome Qlik extensions and resources for Qlik Sense and QlikView
 - [Awesome Spark](/content/awesome-spark/awesome-spark/README.md) - ([Source ⭐ 1.7K, 📝 24&#x2F;10&#x2F;24 ](https://github.com/awesome-spark/awesome-spark)) - A curated list of awesome Apache Spark packages and resources.
@@ -922,7 +1089,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md) - ([Source ⭐ 919, 📝 16&#x2F;07&#x2F;07 ](https://github.com/hzoo/awesome-gametalks)) - :speech_balloon: A curated list of gaming talks (development, design, etc)
 - [Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md) - ([Source ⭐ 4K, 📝 24&#x2F;12&#x2F;24 ](https://github.com/gbdev/awesome-gbdev)) - A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
 - [Awesome Gideros](/content/stetso/awesome-gideros/README.md) - ([Source ⭐ 23, 📝 19&#x2F;10&#x2F;07 ](https://github.com/stetso/awesome-gideros)) - A curated list of awesome Gideros resources, classes and tips.
-- [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 7.4K, 📝 02&#x2F;26 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
+- [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 7.6K, 📝 03&#x2F;14 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md) - ([Source ⭐ 355, 📝 23&#x2F;11&#x2F;18 ](https://github.com/Dvergar/awesome-haxe-gamedev)) - Resources for game development on haxe
 - [Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md) - ([Source ⭐ 134, 📝 03&#x2F;10 ](https://github.com/Billiam/awesome-ironsworn)) - An awesome list of awesome Ironsworn projects
 - [Awesome Libgdx](/content/rafaskb/awesome-libgdx/README.md) - ([Source ⭐ 1K, 📝 24&#x2F;12&#x2F;04 ](https://github.com/rafaskb/awesome-libgdx)) - 🎮 📝 A curated list of libGDX resources to help developers make awesome games.
@@ -1127,7 +1294,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Unicode](/content/jagracey/Awesome-Unicode/README.md) - ([Source ⭐ 809, 📝 16&#x2F;07&#x2F;05 ](https://github.com/jagracey/Awesome-Unicode)) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
 - [Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md) - ([Source ⭐ 2.1K, 📝 24&#x2F;08&#x2F;02 ](https://github.com/bvolpato/awesome-userscripts)) - 📖  A curated list of Awesome Userscripts.
 - [Awesome Veganism](/content/sdassow/awesome-veganism/README.md) - ([Source ⭐ 56, 📝 23&#x2F;09&#x2F;15 ](https://github.com/sdassow/awesome-veganism)) - curated list of awesome resources, pointers, and tips related to veganism
-- [Awesome Video](/content/krzemienski/awesome-video/README.md) - ([Source ⭐ 1.6K, 📝 24&#x2F;12&#x2F;02 ](https://github.com/krzemienski/awesome-video)) -  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
+- [Awesome Video](/content/krzemienski/awesome-video/README.md) - ([Source ⭐ 1.6K, 📝 03&#x2F;14 ](https://github.com/krzemienski/awesome-video)) -  A curated list of awesome streaming video tools, frameworks, libraries, and learning resources.
 - [Awesome Vorpal](/content/vorpaljs/awesome-vorpal/README.md) - ([Source ⭐ 134, 📝 16&#x2F;12&#x2F;11 ](https://github.com/vorpaljs/awesome-vorpal)) - A curated list of delightful Vorpal extensions.
 - [Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md) - ([Source ⭐ 3.2K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/vinjn/awesome-vulkan)) - Awesome Vulkan ecosystem
 - [Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md) - ([Source ⭐ 2.1K, 📝 02&#x2F;12 ](https://github.com/iipc/awesome-web-archiving)) - An Awesome List for getting started with web archiving
@@ -1144,7 +1311,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.2K, 📝 03&#x2F;14 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.9K, 📝 02&#x2F;05 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 93K, 📝 03&#x2F;12 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 93K, 📝 03&#x2F;14 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.2K, 📝 24&#x2F;09&#x2F;12 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 12K, 📝 24&#x2F;10&#x2F;03 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 4K, 📝 01&#x2F;31 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
