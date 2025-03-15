@@ -6,6 +6,17 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Mar 15, 2025](/content/2025/03/15/README.md)
+
+### Libraries / Template engine
+
+*   HTML
+    *   [askama (⭐332)](https://github.com/askama-rs/askama) - template rendering engine based on Jinja
+    *   [kaj/ructe (⭐456)](https://github.com/kaj/ructe) - HTML template system
+    *   [Keats/tera (⭐3.7k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
+    *   [lambda-fairy/maud (⭐2.3k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
+    *   [Stebalien/horrorshow-rs (⭐327)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
+
 ## [Mar 13, 2025](/content/2025/03/13/README.md)
 
 ### Applications / System tools
@@ -181,15 +192,6 @@ A curated list of Rust code and resources.
 ### Applications / Operating systems
 
 *   [vinc/moros (⭐957)](https://github.com/vinc/moros) - A text-based hobby operating system targeting computers with a x86-64 architecture and a BIOS.
-
-### Libraries / Template engine
-
-*   HTML
-    *   [kaj/ructe (⭐456)](https://github.com/kaj/ructe) - HTML template system
-    *   [Keats/tera (⭐3.7k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
-    *   [lambda-fairy/maud (⭐2.3k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
-    *   [rinja-rs/askama (⭐3.7k)](https://github.com/rinja-rs/askama) - template rendering engine based on Jinja
-    *   [Stebalien/horrorshow-rs (⭐327)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
 
 ## [Dec 12, 2024](/content/2024/12/12/README.md)
 

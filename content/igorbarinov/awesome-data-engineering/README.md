@@ -6,6 +6,16 @@ A curated list of data engineering tools for software developers
 
 [ Daily / [Weekly](/content/igorbarinov/awesome-data-engineering/week/README.md) / [Overview](/content/igorbarinov/awesome-data-engineering/readme/README.md) ]
 
+## [Mar 15, 2025](/content/2025/03/15/README.md)
+
+### Batch Processing
+
+*   [Substation (⭐350)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+
+### Community / Books
+
+*   [Snowflake Data Engineering](https://www.manning.com/books/snowflake-data-engineering) - A practical introduction to data engineering on the Snowflake cloud data platform.
+
 ## [Mar 14, 2025](/content/2025/03/14/README.md)
 
 ### Stream Processing

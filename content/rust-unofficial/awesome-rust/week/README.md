@@ -20,6 +20,15 @@ A curated list of Rust code and resources.
 
 *   [cocoindex (⭐199)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
 
+### Libraries / Template engine
+
+*   HTML
+    *   [askama (⭐332)](https://github.com/askama-rs/askama) - template rendering engine based on Jinja
+    *   [kaj/ructe (⭐456)](https://github.com/kaj/ructe) - HTML template system
+    *   [Keats/tera (⭐3.7k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
+    *   [lambda-fairy/maud (⭐2.3k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
+    *   [Stebalien/horrorshow-rs (⭐327)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
+
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
 
 ### Applications / Security tools
@@ -166,15 +175,6 @@ A curated list of Rust code and resources.
 ### Libraries / Macro
 
 *   [elastio/bon (⭐1.5k)](https://github.com/elastio/bon) \[[bon](https://crates.io/crates/bon)] - generate compile-time-checked builders for structs and functions, provides partial application, optional and named parameters for functions and methods. [![build status](https://github.com/elastio/bon/actions/workflows/ci.yml/badge.svg)](https://github.com/elastio/bon/actions)
-
-### Libraries / Template engine
-
-*   HTML
-    *   [kaj/ructe (⭐456)](https://github.com/kaj/ructe) - HTML template system
-    *   [Keats/tera (⭐3.7k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
-    *   [lambda-fairy/maud (⭐2.3k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
-    *   [rinja-rs/askama (⭐3.7k)](https://github.com/rinja-rs/askama) - template rendering engine based on Jinja
-    *   [Stebalien/horrorshow-rs (⭐327)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
 
 ## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
 

@@ -12,9 +12,17 @@ A curated list of data engineering tools for software developers
 
 *   [CocoIndex (⭐199)](https://github.com/cocoindex-io/cocoindex) - An open source ETL framework to build fresh index for AI.
 
+### Batch Processing
+
+*   [Substation (⭐350)](https://github.com/brexhq/substation) - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+
 ### Testing / Data Profiler
 
 *   [RunSQL](https://runsql.com/) - Free online SQL playground for MySQL, PostgreSQL, and SQL Server. Create database structures, run queries, and share results instantly.
+
+### Community / Books
+
+*   [Snowflake Data Engineering](https://www.manning.com/books/snowflake-data-engineering) - A practical introduction to data engineering on the Snowflake cloud data platform.
 
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
