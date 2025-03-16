@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Mar 16, 2025](/content/2025/03/16/README.md)
+
+### Product Configurators / YouTube Playables
+
+*   [Watch Configurator](https://watch.vz777.com/) - Technical demo from Visionaries777.
+
 ## [Mar 13, 2025](/content/2025/03/13/README.md)
 
 ### Games / Browser Games

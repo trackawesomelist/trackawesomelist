@@ -12,6 +12,10 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [Fishing League](https://poki.com/en/g/fishing-league) - Climb the ranks and become the ultimate angler.
 
+### Product Configurators / YouTube Playables
+
+*   [Watch Configurator](https://watch.vz777.com/) - Technical demo from Visionaries777.
+
 ### Generative AI / YouTube Playables
 
 *   [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
