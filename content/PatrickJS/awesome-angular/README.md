@@ -6,6 +6,25 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Mar 16, 2025](/content/2025/03/16/README.md)
+
+### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-d3 (⭐1)](https://github.com/simonegosetto/ngx-d3) - A [D3](https://d3js.org/) wrapper service for Angular applications inspired by [d3-ng2-service (⭐206)](https://github.com/tomwanzek/d3-ng2-service).
+
+### JSON Forms / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [DynamicAngularForm (⭐1)](https://github.com/Brrake/DynamicAngularForm) - Create dynamic form by passing a JSON with associated values.
+*   [dynamic-forms (⭐21)](https://github.com/dynamic-forms/dynamic-forms) - Angular project for dynamic forms based on JSON.
+
+### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [notifyx (⭐1)](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
+
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-simple-state-management (⭐3)](https://github.com/LionMarc/ng-simple-state-management) - Simple state management implementation for Angular applications. This project provides several libraries for additional functionality.
+
 ## [Mar 15, 2025](/content/2025/03/15/README.md)
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -241,7 +260,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [fusio-sdk-javascript-angular (⭐3)](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK library provides a flexible way to build Angular apps using [Fusio](https://www.fusio-project.org/) as a backend. It is used by many Fusio related apps, i.e. the [backend (⭐11)](https://github.com/apioo/fusio-apps-backend) and [developer (⭐4)](https://github.com/apioo/fusio-apps-developer) app.
+*   [fusio-sdk-javascript-angular (⭐5)](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK library provides a flexible way to build Angular apps using [Fusio](https://www.fusio-project.org/) as a backend. It is used by many Fusio related apps, i.e. the [backend (⭐11)](https://github.com/apioo/fusio-apps-backend) and [developer (⭐4)](https://github.com/apioo/fusio-apps-developer) app.
 
 ## [Feb 28, 2025](/content/2025/02/28/README.md)
 
@@ -457,7 +476,7 @@
 
 ### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-navigate-back (⭐4)](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
+*   [ngx-navigate-back (⭐5)](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

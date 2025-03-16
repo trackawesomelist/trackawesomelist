@@ -1,8 +1,34 @@
 # Track Awesome Job Boards Updates Weekly
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.3K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.4K · 🏷️ Work
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / Weekly / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
+
+### Artificial Intelligence (AI)
+
+*   [AI Jobster](https://aijobster.work/) - Jobs from leading AI companies, across all group.
+
+### Design
+
+*   [UI/UX Jobs Board](https://uiuxjobsboard.com/)
+
+### Programming / Aggregator
+
+*   [Mecruit Job Board](https://www.mecruit.com/)
+
+### Remote / TypeScript
+
+*   [Better Remote Jobs](https://betterremotejobs.com/) - Remote Jobs without any paywall or account signup
+
+### Tech / Africa
+
+*   [Hired Jobs](https://www.hired.co.ke) - Jobs in all available job categories. Both remote and onsite jobs.
+
+### Tech / Latin America
+
+*   [Findjobit](https://findjobit.com/jobs)
 
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
@@ -43,7 +69,6 @@
 
 ### Artificial Intelligence (AI)
 
-*   [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
 *   [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
 
 ### Big Data
@@ -109,10 +134,6 @@
 ### Remote / TypeScript
 
 *   [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people
-
-### Remote / Aggregator
-
-*   [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
@@ -309,10 +330,6 @@
 
 ## [Jul 06 - Jul 12, 2020](/content/2020/27/README.md)
 
-### Big Data
-
-*   [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
-
 ### Blockchain
 
 *   [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
@@ -325,10 +342,6 @@
 
 *   [Authentic Jobs](https://authenticjobs.com/) - The leading job board for designers, hackers, and creative pros
 
-### Growth Hacking
-
-*   [GrowthHackers](https://jobs.growthhackers.com/)
-
 ### Programming / JavaScript
 
 *   [Jobs In JS](https://jobsinjs.com/)
@@ -340,10 +353,6 @@
 ### Startups / Aggregator
 
 *   [BerlinStartupJobs](https://berlinstartupjobs.com/) - The hottest jobs at Berlin's finest startups and scaleups since 2011
-
-### Tech / Aggregator
-
-*   [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 

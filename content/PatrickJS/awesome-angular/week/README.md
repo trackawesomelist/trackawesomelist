@@ -27,6 +27,7 @@
 *   [seatsio-angular (⭐6)](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
 *   [ngx-kel-agent (⭐1)](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent (⭐9)](https://github.com/k0swe/kel-agent).
 *   [foblex2D (⭐3)](https://github.com/siarheihuzarevich/foblex2D) - An Angular library for 2D geometric computations, providing classes and utilities for manipulating points, lines, vectors, rectangles, arcs, and transformations. Used in [Foblex Flow](https://flow.foblex.com/) for 2D geometric operations.
+*   [ngx-d3 (⭐1)](https://github.com/simonegosetto/ngx-d3) - A [D3](https://d3js.org/) wrapper service for Angular applications inspired by [d3-ng2-service (⭐206)](https://github.com/tomwanzek/d3-ng2-service).
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -51,6 +52,11 @@
 
 *   [activereportsjs/angular-reporting-tool](https://developer.mescius.com/activereportsjs/angular-reporting-tool) - A set of Angular components used for data consolidation and visualization. [ActiveReportsJS](https://developer.mescius.com/activereportsjs) is a solution used by Angular developers to embed reporting within web applications.
 
+### JSON Forms / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [DynamicAngularForm (⭐1)](https://github.com/Brrake/DynamicAngularForm) - Create dynamic form by passing a JSON with associated values.
+*   [dynamic-forms (⭐21)](https://github.com/dynamic-forms/dynamic-forms) - Angular project for dynamic forms based on JSON.
+
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [mdbook-angular (⭐2)](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns angular code samples into running Angular applications.
@@ -60,10 +66,18 @@
 *   [@dytesdk/web-core](https://www.npmjs.com/package/@dytesdk/web-core) - This [quickstart](https://docs.dyte.io/guides/livestream/client-setup/angular) shows how to add Dyte's Livestream SDK to your Angular applications.
 *   [cometchat-uikit-angular (⭐27)](https://github.com/cometchat/cometchat-uikit-angular) - [CometChat](https://www.cometchat.com/) Angular UI Kit provides pre-built user interface kit that developers can use to quickly integrate a reliable & fully featured chat experience into an existing or a new app.
 
+### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [notifyx (⭐1)](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
+
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-virtual-scroller (⭐53)](https://github.com/iharbeck/ngx-virtual-scroller) - Displays a virtual, "infinite" list. Supports horizontal/vertical, variable heights, and multi-column.
 *   [ng-inf-scroll (⭐2)](https://github.com/lukonik/ng-inf-scroll) - A lightweight library for adding infinite scrolling to Angular apps.
+
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-simple-state-management (⭐3)](https://github.com/LionMarc/ng-simple-state-management) - Simple state management implementation for Angular applications. This project provides several libraries for additional functionality.
 
 ### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -177,7 +191,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [fusio-sdk-javascript-angular (⭐3)](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK library provides a flexible way to build Angular apps using [Fusio](https://www.fusio-project.org/) as a backend. It is used by many Fusio related apps, i.e. the [backend (⭐11)](https://github.com/apioo/fusio-apps-backend) and [developer (⭐4)](https://github.com/apioo/fusio-apps-developer) app.
+*   [fusio-sdk-javascript-angular (⭐5)](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK library provides a flexible way to build Angular apps using [Fusio](https://www.fusio-project.org/) as a backend. It is used by many Fusio related apps, i.e. the [backend (⭐11)](https://github.com/apioo/fusio-apps-backend) and [developer (⭐4)](https://github.com/apioo/fusio-apps-developer) app.
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -364,7 +378,7 @@
 
 ### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-navigate-back (⭐4)](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
+*   [ngx-navigate-back (⭐5)](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

@@ -2,7 +2,7 @@
 
 null
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.3K · 🏷️ Work
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.4K · 🏷️ Work
 
 [ [Daily](/content/tramcar/awesome-job-boards/README.md) / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / Overview ]
 
@@ -34,15 +34,14 @@ A curated list of awesome niche job boards.
 ## Artificial Intelligence (AI)
 
 *   [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
-*   [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
 *   [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
 *   [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 *   [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
+*   [AI Jobster](https://aijobster.work/) - Jobs from leading AI companies, across all group.
 
 ## Big Data
 
 *   [DataJobs.com](https://datajobs.com/)
-*   [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
 *   [Deep Learning Jobs](https://www.deeplearningjobs.com/) - Jobs in Deep Learning
 *   [Wait, What Do You Do?](https://waitwhatdoyoudo.com/) - Jobs in data science, analytics, and engineering where you know what you'll really be doing
 *   [Data Science Jobs Canada](https://www.datasciencejobscanada.com/) - Jobs in Data Science, Data Engineering, Data Analysis, AI, and Machine Learning
@@ -79,6 +78,7 @@ A curated list of awesome niche job boards.
 *   [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 *   [UX Jobs Board](https://www.uxjobsboard.com)
 *   [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
+*   [UI/UX Jobs Board](https://uiuxjobsboard.com/)
 
 ## DevOps
 
@@ -96,10 +96,6 @@ A curated list of awesome niche job boards.
 
 *   [Work With Indies](https://www.workwithindies.com) - A single place find all the cool jobs in indie games
 
-## Growth Hacking
-
-*   [GrowthHackers](https://jobs.growthhackers.com/)
-
 ## InfoSec
 
 *   [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
@@ -111,6 +107,7 @@ A curated list of awesome niche job boards.
 
 *   [findwork.dev](https://findwork.dev/)
 *   [Levels.fyi](https://www.levels.fyi/jobs)
+*   [Mecruit Job Board](https://www.mecruit.com/)
 
 ### Clojure
 
@@ -179,6 +176,7 @@ A curated list of awesome niche job boards.
 ## Remote
 
 *   [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
+*   [Better Remote Jobs](https://betterremotejobs.com/) - Remote Jobs without any paywall or account signup
 *   [We Work Remotely](https://weworkremotely.com/)
 *   [DailyRemote](https://dailyremote.com/)
 *   [Werkington](https://www.werkington.com/)
@@ -195,7 +193,6 @@ A curated list of awesome niche job boards.
 *   [whoishiring.io](https://whoishiring.io/)
 *   [remote4me.com](https://remote4me.com/)
 *   [TheRemoteWork](https://theremotework.co/)
-*   [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
 *   [OkJob](https://okjob.io/) - 4 day week job board
 
 ## Startups
@@ -208,8 +205,11 @@ A curated list of awesome niche job boards.
 ## Tech
 
 *   [Relocate.me](https://relocate.me/) - Verified relocation packages
-*   [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 *   [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
+
+### Africa
+
+*   [Hired Jobs](https://www.hired.co.ke) - Jobs in all available job categories. Both remote and onsite jobs.
 
 ### Canada
 
@@ -223,6 +223,10 @@ A curated list of awesome niche job boards.
 *   [DanishTech.co](https://danishtech.co/?utm_source=github\&utm_medium=referral\&utm_campaign=tramcar-awesome-job-boards) - Dedicated Tech Job Board for Denmark 🇩🇰
 *   [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github\&utm_medium=referral\&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
 *   [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
+
+### Latin America
+
+*   [Findjobit](https://findjobit.com/jobs)
 
 ### United Kingdom
 

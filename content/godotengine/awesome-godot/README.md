@@ -6,6 +6,13 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Mar 16, 2025](/content/2025/03/16/README.md)
+
+### Plugins and scripts / Godot 4
+
+*   [GodotSx (⭐73)](https://github.com/TheWalruzz/godot-sx) - Rx-like extensions for Godot's built-in signals.
+*   [Questify (⭐164)](https://github.com/TheWalruzz/godot-questify) - A graph-based quest editor and manager.
+
 ## [Mar 14, 2025](/content/2025/03/14/README.md)
 
 ### Plugins and scripts / Godot 4

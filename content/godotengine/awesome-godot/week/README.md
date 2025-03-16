@@ -11,6 +11,8 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 ### Plugins and scripts / Godot 4
 
 *   [Godot NDI (⭐23)](https://github.com/unvermuthet/godot-ndi) - Integrates the NDI® SDK with Godot.
+*   [GodotSx (⭐73)](https://github.com/TheWalruzz/godot-sx) - Rx-like extensions for Godot's built-in signals.
+*   [Questify (⭐164)](https://github.com/TheWalruzz/godot-questify) - A graph-based quest editor and manager.
 
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 

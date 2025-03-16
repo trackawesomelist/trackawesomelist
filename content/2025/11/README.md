@@ -1,18 +1,136 @@
 # Awesome List Updates on Mar 17 - Mar 23, 2025
 
-35 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [1. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+
+### Artificial Intelligence (AI)
+
+*   [AI Jobster](https://aijobster.work/) - Jobs from leading AI companies, across all group.
+
+### Design
+
+*   [UI/UX Jobs Board](https://uiuxjobsboard.com/)
+
+### Programming / Aggregator
+
+*   [Mecruit Job Board](https://www.mecruit.com/)
+
+### Remote / TypeScript
+
+*   [Better Remote Jobs](https://betterremotejobs.com/) - Remote Jobs without any paywall or account signup
+
+### Tech / Africa
+
+*   [Hired Jobs](https://www.hired.co.ke) - Jobs in all available job categories. Both remote and onsite jobs.
+
+### Tech / Latin America
+
+*   [Findjobit](https://findjobit.com/jobs)
+
+## [2. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+
+### Third-Party Packages / Admin
+
+*   [django-hijack (⭐1.6k)](https://github.com/django-hijack/django-hijack) - Admins can log in and work on behalf of other users without having to know their credentials.
+
+### Third-Party Packages / Admin Themes
+
+*   [django-jet-reboot (⭐445)](https://github.com/assem-ch/django-jet-reboot) - Django Jet is modern template for Django admin interface with improved functionality.
+
+### Third-Party Packages / APIs
+
+*   [dj-rest-auth (⭐1.7k)](https://github.com/iMerica/dj-rest-auth) - Authentication for Django Rest Framework.
+*   [django-rest-knox (⭐1.2k)](https://github.com/jazzband/django-rest-knox) - Authentication Module for django-rest-auth.
+*   [django-rest-framework-simplejwt (⭐4.1k)](https://github.com/jazzband/djangorestframework-simplejwt) - JSON web tokens for DRF.
+*   [django-webpack-loader (⭐2.5k)](https://github.com/django-webpack/django-webpack-loader) - Transparently use webpack with Django.
+
+### Third-Party Packages / Commands
+
+*   [django-click (⭐258)](https://github.com/django-commons/django-click) - Write Django management commands using the [click CLI library](https://click.palletsprojects.com).
+*   [django-dbbackup (⭐1k)](https://github.com/jazzband/django-dbbackup) - Management commands to help backup and restore your project database and media files.
+*   [django-typer (⭐136)](https://github.com/django-commons/django-typer) - Write Django management commands using the [Typer CLI library](https://typer.tiangolo.com).
+
+### Third-Party Packages / Configuration
+
+*   [django-split-settings (⭐1.1k)](https://github.com/wemake-services/django-split-settings) - Organize multiple settings files.
+
+### Third-Party Packages / Content Management Systems
+
+*   [django-cms (⭐10k)](https://github.com/django-cms/django-cms) - CMS for Django.
+
+### Third-Party Packages / ECommerce
+
+*   [saleor (⭐21k)](https://github.com/saleor/saleor) - GraphQL-based Django E-Commerce Platform.
+
+### Third-Party Packages / Editors
+
+*   [django-markdownx (⭐881)](https://github.com/neutronX/django-markdownx) - Comprehensive Markdown plugin built for Django.
+*   [django-summernote (⭐1.1k)](https://github.com/lqez/django-summernote) - Summernote is a simple WYSIWYG editor.
+
+### Third-Party Packages / General
+
+*   [django-sql-explorer (⭐2.8k)](https://github.com/explorerhq/sql-explorer) - Share data via SQL queries.
+
+### Third-Party Packages / Logging
+
+*   [django-guid (⭐461)](https://github.com/snok/django-guid) - Inject a GUID (Correlation-ID) into every log message in a Django request.
+
+### Third-Party Packages / Models
+
+*   [django-polymorphic (⭐1.7k)](https://github.com/jazzband/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
+*   [django-recurrence (⭐506)](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
+
+### Third-Party Packages / Security
+
+*   [django-feature-policy (⭐101)](https://github.com/adamchainz/django-permissions-policy) - Set the draft security HTTP header `Feature-Policy` on a Django app.
+
+### Third-Party Packages / Task Queues
+
+*   [django-redis (⭐2.9k)](https://github.com/jazzband/django-redis) - Full-featured Redis cache backend for Django.
+
+### Third-Party Packages / Templates
+
+*   [django-components (⭐1.3k)](https://github.com/django-components/django-components/) - A way to create simple reusable template components in Django.
+
+### Third-Party Packages / Testing
+
+*   [django-debug-toolbar (⭐8.2k)](https://github.com/django-commons/django-debug-toolbar/) - Configurable panels to debug requests/responses.
+*   [django-waffle (⭐1.2k)](https://github.com/jazzband/django-waffle) - A feature flipper for Django.
+
+### Third-Party Packages / URLs
+
+*   [dj-database-url (⭐1.5k)](https://github.com/jazzband/dj-database-url) - Database URLs.
+
+### Third-Party Packages / Users
+
+*   [django-improved-user (⭐150)](https://github.com/jambonrose/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
+
+### Third-Party Packages / Views
+
+*   [django-vanilla-views (⭐986)](https://github.com/encode/django-vanilla-views) - Simpler class-based views in Django.
+
+### Python Packages / Views
+
+*   [python-decouple (⭐2.9k)](https://github.com/HBNetwork/python-decouple) - Strict separation of settings from code.
+
+### Projects / Boilerplate
+
+*   [cookiecutter-django (⭐13k)](https://github.com/cookiecutter/cookiecutter-django/) - A full-bodied starter project, highly customizable.
+*   [djangox (⭐2.3k)](https://github.com/wsvincent/lithium/) - Batteries included starter project for Pip, Pipenv, or Docker.
+*   [Falco (⭐386)](https://github.com/falcopackages/falco-cli) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
+
+## [3. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
 *   [CocoIndex (⭐199)](https://github.com/cocoindex-io/cocoindex) \[Rust/Python] - ETL framework to build fresh index for AI, with realtime incremental updates.
 
-## [2. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
+## [4. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
 ### Video Players & Playback Libraries / Smart TV Players
 
@@ -158,13 +276,15 @@
 *   [Dash IF Test Assets Database](https://testassets.dashif.org/#testvector/list)  - A database of test assets provided by the DASH Industry Forum for validating DASH implementations.
 *   [Eyevinn Streaming Samples (⭐13)](https://github.com/eyevinn/http-streaming-samples)  - A collection of HTTP streaming samples curated by Eyevinn, available for testing and development.
 
-## [3. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [5. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [Godot NDI (⭐23)](https://github.com/unvermuthet/godot-ndi) - Integrates the NDI® SDK with Godot.
+*   [GodotSx (⭐73)](https://github.com/TheWalruzz/godot-sx) - Rx-like extensions for Godot's built-in signals.
+*   [Questify (⭐164)](https://github.com/TheWalruzz/godot-questify) - A graph-based quest editor and manager.
 
-## [4. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [6. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Batch Processing
 
@@ -178,13 +298,13 @@
 
 *   [Snowflake Data Engineering](https://www.manning.com/books/snowflake-data-engineering) - A practical introduction to data engineering on the Snowflake cloud data platform.
 
-## [5. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [7. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Color Palettes / Web App
 
 *   [Magic Gradient](https://magicgradient.com) - Generate gradients from any keyword with AI.
 
-## [6. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [8. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -197,14 +317,14 @@
 
 *   [SKKG Digital Collection](https://digital.skkg.ch/) - The Foundation for Art, Culture, and History (SKKG) provides online access to its collection of approximately 100,000 objects, ranging from artworks to historical artifacts spanning from the Stone Age to the present.
 
-## [7. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [9. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Articles
 
 *   [Implementing RBAC Authorization in Next.js - Step-by-Step Guide](https://www.permit.io/blog/how-to-add-rbac-in-nextjs)
 *   [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
 
-## [8. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [10. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vue 3
 
@@ -222,7 +342,7 @@
 
 *   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-style-in-template (⭐3)](https://github.com/peterroe/vite-plugin-vue-style-in-template) - Extract the style tags in template.
 
-## [9. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [11. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### 3D
 
@@ -263,7 +383,7 @@
 *   [Airtable](https://www.airtable.com/) -A user-friendly platform that blends spreadsheet features with database functionality for organizing projects, managing content, and tracking inventories`#freemium`
 *   [Excelmatic](https://excelmatica.com) - Chat with Excel, effortlessly process(analyze) Excel data using natural language with Excelmatic `#freemium`
 
-## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -287,7 +407,7 @@
 *   [Gitingest](https://gitingest.com/): turn any Git repository into a simple text digest of its codebase.
 *   [uithub](https://uithub.com/): convert GitHub repositories into Markdown by placing the URL in the search bar
 
-## [11. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [13. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Games / Browser Games
 
@@ -298,13 +418,13 @@
 *   [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
 *   [Ideate](https://ideate.xyz/) - AI-powered 3D art suite on the web.
 
-## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [14. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Section / Svelte
 
 *   [The Coder Cafe](https://thecoder.cafe). One concept for coders, every day.
 
-## [13. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [15. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -314,14 +434,14 @@
 
 *   [@bgotink/playwright-coverage (⭐39)](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
 
-## [14. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [16. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
 *   [v-vite starter (⭐0)](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
 *   [vite.v (⭐0)](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 
-## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - SIP
 
@@ -339,20 +459,20 @@
 
 *   [Flink](https://gitlab.com/rtraceio/web/flink) - Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata. ([Demo](https://flink.is)) `MIT` `Docker`
 
-## [16. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [18. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Programming fonts / Programming fonts with ligatures
 
 *   [JetBrains Maple Mono (⭐533)](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - The free and open-source font fused with JetBrains Mono & Maple Mono
 
-## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [19. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [capsule (⭐3)](https://github.com/42LM/capsule) - A simple single file terminal prompt that is completely customizable. Display is divided into capsules (`TIMER` > `DIR` > `GIT` > `GIT ACTION`).
 *   [git-venv-prompt (⭐0)](https://github.com/walkingshamrock/zsh-git-venv-prompt) - Enhances your Zsh prompt with information about the current Python virtual environment and the Git status (asynchronously). It uses zsh-async to provide async updates for Git status and displays the virtual environment in the second line of the prompt.
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Security tools
 
@@ -380,26 +500,26 @@
     *   [lambda-fairy/maud (⭐2.3k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
     *   [Stebalien/horrorshow-rs (⭐327)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [pinia-plugin-unstorage (⭐1)](https://github.com/litingyes/pinia-plugin-unstorage) - The best persistence plugin with unjs/unstorage for pinia.
 
-## [20. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [22. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
 *   [tmux-current-pane-hostname (⭐2)](https://github.com/tony-sol/tmux-current-pane-hostname) Show current user and hostname in ssh sessions
 *   [tmux-kubectx (⭐4)](https://github.com/tony-sol/tmux-kubectx) Show kubernetes context in statusbar
 
-## [21. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [23. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Connectors
 
 *   [wtx (⭐256)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
-## [22. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [24. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing / Usage-based Pricing
 
@@ -409,25 +529,25 @@
 
 *   [£sd computing](https://en.wikipedia.org/wiki/£sd#Computing) - The IBM 1401 mainframe (1959) optionally supported pounds/shillings/pence (£sd) currency arithmetics in hardware.
 
-## [23. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [25. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Scraping
 
 *   [Corsfix](https://corsfix.com) - CORS Proxy to fetch any web resource and bypass CORS errors.
 
-## [24. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [26. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [tfmcp (⭐40)](https://github.com/nwiizo/tfmcp) - A CLI tool that helps you interact with Terraform via the Model Context Protocol (MCP), allowing AI assistants like Claude to manage and operate Terraform environments.
 
-## [25. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [27. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Editor's Choice
 
 *   [Vizard AI](https://vizard.ai/?via=the-marketing-newsletter) - Create social-ready videos with AI instantly
 
-## [26. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [28. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
@@ -436,7 +556,7 @@
 *   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188)]. \[[Preprint](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf)]. \[[Code & Tutorial (⭐32)](https://github.com/HuthLab/speechmodeltutorial)]. The meaning of language is represented in regions of the cerebral cortex collectively known as the ‘semantic system’. However, little of the semantic system has been mapped comprehensively, and the semantic selectivity of most regions is unknown. This work systematically maps semantic selectivity across the cortex using voxel-wise modelling of functional MRI (fMRI) data collected while subjects listened to hours of narrative stories. This work shows that the semantic system is organized into intricate patterns that seem to be consistent across individuals. The authors then use a novel generative model to create a detailed semantic atlas. The results suggest that most areas within the semantic system represent information about specific semantic domains, or groups of related concepts, and the atlas shows which domains are represented in each area. This study demonstrates that data-driven methods---commonplace in studies of human neuroanatomy and functional connectivity---provide a powerful and efficient means for mapping functional representations in the brain.
 *   [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](https://journals.sagepub.com/doi/full/10.1177/09567976211003877) - ***Psychological Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308)]. \[[All Versions](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf)]. Humans primarily rely on language to communicate, on the basis of a shared understanding of the basic building blocks of communication: words. Do we mean the same things when we use the same words? Although cognitive neural research on semantics has revealed the common principles of word-meaning representation, the factors underlying the potential individual variations in word meanings are unknown. This work empirically characterized the intersubject consistency of 90 words across 20 adult subjects (10 female) using both behavioral measures (rating-based semantic-relationship patterns) and neuroimaging measures (word-evoked brain activity patterns). Across both the behavioral and neuroimaging experiments, this work showed that the magnitude of individual disagreements on word meanings could be modeled on the basis of how much language or sensory experience is associated with a word and that this variation increases with word abstractness. Uncovering the cognitive and neural origins of word-meaning disagreements across individuals has implications for potential mechanisms to modulate such disagreements.
 
-## [27. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [29. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Scirra
 
@@ -526,7 +646,7 @@
 *   [Level Up - The Educator's Edition](https://www.construct.net/en/make-games/education/resources/ebook) - The ideal companion for anyone using Construct in the classroom.
 *   [Construct 3 Starter Curriculum](https://www.construct.net/en/make-games/education/resources/curriculum) - Free starter curriculum for Construct aimed at teaching students the basics of Computer Science.
 
-## [28. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [30. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Adventure starters and scenarios / Ironsworn
 
@@ -540,7 +660,7 @@
 *   [The Ferrum Mysteries](https://croakerrpgs.itch.io/the-ferrum-mysteries) - Explore the mystery behind the iron pillars
 *   [Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) - Find out what happened to the settlement Shiningstar
 
-## [29. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
@@ -550,13 +670,13 @@
 
 *   [y3owk1n/nvs (⭐3)](https://github.com/y3owk1n/nvs) - Another Neovim version manager with config switcher.
 
-## [30. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [32. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Portfolio Management
 
 *   [skfolio (⭐1.4k)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn.
 
-## [31. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [33. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
@@ -589,7 +709,7 @@
 *   [NDJSON (⭐717) (⭐715)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐376) (⭐374)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -621,7 +741,7 @@
 
 *   [Tailcolors](https://tailcolors.com/) -- A beautiful Tailwind CSS v4 color palette. Instantly preview & copy the perfect Tailwind CSS color class.
 
-## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [35. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -642,6 +762,7 @@
 *   [seatsio-angular (⭐6)](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
 *   [ngx-kel-agent (⭐1)](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent (⭐9)](https://github.com/k0swe/kel-agent).
 *   [foblex2D (⭐3)](https://github.com/siarheihuzarevich/foblex2D) - An Angular library for 2D geometric computations, providing classes and utilities for manipulating points, lines, vectors, rectangles, arcs, and transformations. Used in [Foblex Flow](https://flow.foblex.com/) for 2D geometric operations.
+*   [ngx-d3 (⭐1)](https://github.com/simonegosetto/ngx-d3) - A [D3](https://d3js.org/) wrapper service for Angular applications inspired by [d3-ng2-service (⭐206)](https://github.com/tomwanzek/d3-ng2-service).
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -666,6 +787,11 @@
 
 *   [activereportsjs/angular-reporting-tool](https://developer.mescius.com/activereportsjs/angular-reporting-tool) - A set of Angular components used for data consolidation and visualization. [ActiveReportsJS](https://developer.mescius.com/activereportsjs) is a solution used by Angular developers to embed reporting within web applications.
 
+### JSON Forms / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [DynamicAngularForm (⭐1)](https://github.com/Brrake/DynamicAngularForm) - Create dynamic form by passing a JSON with associated values.
+*   [dynamic-forms (⭐21)](https://github.com/dynamic-forms/dynamic-forms) - Angular project for dynamic forms based on JSON.
+
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [mdbook-angular (⭐2)](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns angular code samples into running Angular applications.
@@ -675,10 +801,18 @@
 *   [@dytesdk/web-core](https://www.npmjs.com/package/@dytesdk/web-core) - This [quickstart](https://docs.dyte.io/guides/livestream/client-setup/angular) shows how to add Dyte's Livestream SDK to your Angular applications.
 *   [cometchat-uikit-angular (⭐27)](https://github.com/cometchat/cometchat-uikit-angular) - [CometChat](https://www.cometchat.com/) Angular UI Kit provides pre-built user interface kit that developers can use to quickly integrate a reliable & fully featured chat experience into an existing or a new app.
 
+### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [notifyx (⭐1)](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
+
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-virtual-scroller (⭐53)](https://github.com/iharbeck/ngx-virtual-scroller) - Displays a virtual, "infinite" list. Supports horizontal/vertical, variable heights, and multi-column.
 *   [ng-inf-scroll (⭐2)](https://github.com/lukonik/ng-inf-scroll) - A lightweight library for adding infinite scrolling to Angular apps.
+
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-simple-state-management (⭐3)](https://github.com/LionMarc/ng-simple-state-management) - Simple state management implementation for Angular applications. This project provides several libraries for additional functionality.
 
 ### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -714,13 +848,13 @@
 *   [ts-react-directives (⭐1)](https://github.com/skycodr/ts-react-directives) - A small React/Typescript library designed to mimic Angular directives.
 *   [vyuha (⭐5)](https://github.com/RamanSharma100/vyuha) - A Nodejs Template Engine Inspired by EJS, Angular, and Laravel Blade.
 
-## [34. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [36. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
 *   [Txeo (⭐46)](https://github.com/rdabra/txeo) - A modern C++ wrapper for TensorFlow.
 
-## [35. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [37. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 

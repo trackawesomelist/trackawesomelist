@@ -759,13 +759,14 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Otter (⭐52)](https://github.com/AmadeusITGroup/otter) - A highly modular framework whose goal is to provide a common platform to accelerate and facilitate the development on Angular web applications. It is split into several units to cover different aspects of these applications (localization, testing, customization, etc.). Also, to customize an application, metadata can be extracted from the application source code and injected into a CMS to manage dynamic configuration.
 *   [ngx-serializer (⭐4)](https://github.com/paddls/ngx-serializer) - Angular wrapper of @paddls/ts-serializer library.
 *   [ngx-pocketbase (⭐3)](https://github.com/BerniHC/ngx-pocketbase) - PocketBase Angular SDK for interacting with the [PocketBase API](https://pocketbase.io/docs). Based on the [PocketBase JavaScript SDK (⭐2.3k)](https://github.com/pocketbase/js-sdk).
-*   [fusio-sdk-javascript-angular (⭐3)](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK library provides a flexible way to build Angular apps using [Fusio](https://www.fusio-project.org/) as a backend. It is used by many Fusio related apps, i.e. the [backend (⭐11)](https://github.com/apioo/fusio-apps-backend) and [developer (⭐4)](https://github.com/apioo/fusio-apps-developer) app.
+*   [fusio-sdk-javascript-angular (⭐5)](https://github.com/apioo/fusio-sdk-javascript-angular) - This SDK library provides a flexible way to build Angular apps using [Fusio](https://www.fusio-project.org/) as a backend. It is used by many Fusio related apps, i.e. the [backend (⭐11)](https://github.com/apioo/fusio-apps-backend) and [developer (⭐4)](https://github.com/apioo/fusio-apps-developer) app.
 *   [ng-storyblok (⭐3)](https://github.com/geometricpanda/ng-storyblok) - A simple way to integrate [Storyblok](https://www.storyblok.com/) into your Angular application.
 *   [ng-react-bridge (⭐2)](https://github.com/john310897/ng-react-bridge) - A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.
 *   [zag-angular (⭐1)](https://github.com/makuko/zag-angular) - An Angular wrapper for [zag (⭐4.3k)](https://github.com/chakra-ui/zag).
 *   [seatsio-angular (⭐6)](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
 *   [ngx-kel-agent (⭐1)](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent (⭐9)](https://github.com/k0swe/kel-agent).
 *   [foblex2D (⭐3)](https://github.com/siarheihuzarevich/foblex2D) - An Angular library for 2D geometric computations, providing classes and utilities for manipulating points, lines, vectors, rectangles, arcs, and transformations. Used in [Foblex Flow](https://flow.foblex.com/) for 2D geometric operations.
+*   [ngx-d3 (⭐1)](https://github.com/simonegosetto/ngx-d3) - A [D3](https://d3js.org/) wrapper service for Angular applications inspired by [d3-ng2-service (⭐206)](https://github.com/tomwanzek/d3-ng2-service).
 
 #### Internationalization
 
@@ -1379,6 +1380,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [jsonforms-angular-seed (⭐37)](https://github.com/eclipsesource/jsonforms-angular-seed) - Angular-based JSON Forms seed app.
 *   [ng-formworks (⭐3)](https://github.com/zahmo/ng-formworks) - An Angular [JSON Schema](https://json-schema.org/) Form builder, similar to, and mostly API compatible with, [Angular Schema Form](http://schemaform.io/examples/bootstrap-example.html), [React JSON Schema Form](https://rjsf-team.github.io/react-jsonschema-form/), and [JSON Form](https://ulion.github.io/jsonform/playground/).
 *   [schema-forms (⭐3)](https://github.com/Jaspero/schema-forms) - A library for building forms through standard JSON schemas.
+*   [DynamicAngularForm (⭐1)](https://github.com/Brrake/DynamicAngularForm) - Create dynamic form by passing a JSON with associated values.
+*   [dynamic-forms (⭐21)](https://github.com/dynamic-forms/dynamic-forms) - Angular project for dynamic forms based on JSON.
 
 ##### Validation
 
@@ -1620,6 +1623,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-toastr-message (⭐3)](https://github.com/One-Zero-Code/ngx-toastr-message) - A lightweight, customizable Angular library for displaying toast notifications.
 *   [ngx-french-toast (⭐4)](https://github.com/thiagopg84/ngx-french-toast) - A lightweight and customizable toast library for your Angular 14+ applications. Show informative toast messages to enhance user experience and provide important feedback or collect data with dynamically imported components.
 *   [ng-fast-toast (⭐2)](https://github.com/rperezll/ng-fast-toast) - A fast and lightweight library for Angular 18+, also compatible with Ionic projects (based on Angular), that makes handling alerts and notifications effortless. Styled with Tailwind, but built for production with a fully agnostic approach using Shadow DOM.
+*   [notifyx (⭐1)](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
 
 #### Printing
 
@@ -1661,7 +1665,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-href (⭐2)](https://github.com/rbalet/ngx-href) - A directive that allows href to understand Angular's router while retaining its default functionality.
 *   [ngx-route-manager (⭐2)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
 *   [ngx-back-button (⭐1)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
-*   [ngx-navigate-back (⭐4)](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
+*   [ngx-navigate-back (⭐5)](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
 *   [storybook-addon-angular-router (⭐11)](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
 
 #### Scroll
@@ -1749,6 +1753,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-simple-state-manager (⭐1)](https://github.com/notnikola1/ngx-simple-state-manager) - Component-bound simple to handle state managment that is accessible application wide with type support and an observer to handle any reactive state changes if and when needed.
 *   [ngx-state-machine (⭐2)](https://github.com/state-management/ngx-state-machine) -  An Angular wrapper for the [simple-state-machine](https://www.npmjs.com/package/@state-management/simple-state-machine) library. It integrates the state machine into Angular applications by making the `StateMachine` injectable as a service.
 *   [@ng-state/store (⭐14)](https://github.com/ng-state/store) - RxJS and Immer (or ImmutableJs) powered nested state management for Angular applications inspired by NgRx. It is simple, fast, reliable with no boilerplate. Supports signals and injectable actions.
+*   [ng-simple-state-management (⭐3)](https://github.com/LionMarc/ng-simple-state-management) - Simple state management implementation for Angular applications. This project provides several libraries for additional functionality.
 
 #### Storage
 
