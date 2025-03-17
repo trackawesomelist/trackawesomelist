@@ -26,7 +26,7 @@
 
 ### Profiler and Optimization
 
-*   [Rbkit (⭐357)](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
+*   [Rbkit (⭐356)](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
 
 ## [3. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 

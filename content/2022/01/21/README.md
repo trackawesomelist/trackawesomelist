@@ -81,7 +81,7 @@
 
 ### Motion / Diagnostics
 
-*   [rlane/pounce.nvim (⭐349)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
+*   [rlane/pounce.nvim (⭐351)](https://github.com/rlane/pounce.nvim) - An EasyMotion-like plugin for quick cursor movement using fuzzy search.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -103,7 +103,7 @@
 
 *   CHIP-8
     *   [ColinEberhardt/wasm-rust-chip8 (⭐260)](https://github.com/ColinEberhardt/wasm-rust-chip8) - A WebAssembly CHIP-8 emulator.
-    *   [starrhorne/chip8-rust (⭐144)](https://github.com/starrhorne/chip8-rust) - chip8 emulator
+    *   [starrhorne/chip8-rust (⭐146)](https://github.com/starrhorne/chip8-rust) - chip8 emulator
 
 ### Development tools / IDEs
 

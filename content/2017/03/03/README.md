@@ -8,7 +8,7 @@
 
 ## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Native Apps (closed source)
+### Native Apps (closed source) / Rust
 
 *   [Transit Display](http://transitdisplay.com/) - Multimodal and real-time transit display software.
 

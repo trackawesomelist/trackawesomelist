@@ -16,7 +16,7 @@
 
 ### Projects
 
-*   [TelePi (⭐14)](https://github.com/besoeasy/telepi) - Telepi allows you to monitor and control your Raspberry Pi via Telegram featuring file downloads, system monitoring, network insights, speed tests, and the ability to open web tunnels.
+*   [TelePi (⭐20)](https://github.com/besoeasy/telepi) - Telepi allows you to monitor and control your Raspberry Pi via Telegram featuring file downloads, system monitoring, network insights, speed tests, and the ability to open web tunnels.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Lua Colorscheme / Diagnostics
 
-*   [calind/selenized.nvim (⭐19)](https://github.com/calind/selenized.nvim) - Lua port of Selenized theme with support for Tree-sitter, nvim-cmp, GitSigns and some more.
+*   [calind/selenized.nvim (⭐20)](https://github.com/calind/selenized.nvim) - Lua port of Selenized theme with support for Tree-sitter, nvim-cmp, GitSigns and some more.
 
 ## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Programming Languages / [Other](#other-1)
 
-*   [SonarDelphi (⭐112)](https://github.com/integrated-application-development/sonar-delphi) — Delphi static analyzer for the SonarQube code quality platform.
+*   [SonarDelphi (⭐115)](https://github.com/integrated-application-development/sonar-delphi) — Delphi static analyzer for the SonarQube code quality platform.
 
 ## [13. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Date and Time / Text-Based User Interfaces
 
-*   [Jollyday (⭐191)](https://github.com/svendiedrichsen/jollyday) - Determines the holidays for a given year, country/name and eventually state/region.
+*   [Jollyday (⭐189)](https://github.com/svendiedrichsen/jollyday) - Determines the holidays for a given year, country/name and eventually state/region.
 
 ## [2. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 

@@ -72,14 +72,14 @@
 ### Libraries and Frameworks / API libraries
 
 *   [Transit API for EOS](https://www.eostransit.com/) - Connecting signature providers and dApps through an open-source, modular, and simple standard for EOSIO-based blockchains.
-    *   [eosnewyork/eos-transit (⭐89)](https://github.com/eosnewyork/eos-transit) - Official GitHub.
+    *   [eosnewyork/eos-transit (⭐87)](https://github.com/eosnewyork/eos-transit) - Official GitHub.
     *   [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - Article.
 
 ### Code examples / Services
 
-*   [poorman.token (⭐46)](https://github.com/generEOS/poorman.token) - EOSIO Token with burning and signup (for making the token RAM cheap).
+*   [poorman.token (⭐45)](https://github.com/generEOS/poorman.token) - EOSIO Token with burning and signup (for making the token RAM cheap).
 *   [EOSEssentials/Scatter-Demos (⭐81)](https://github.com/EOSEssentials/Scatter-Demos) - A set of integration demos using eosjs and Scatter.
-*   [ping-eos (⭐87)](https://github.com/eosasia/ping-eos) - Implementing ping between EOSIO / React.js.
+*   [ping-eos (⭐85)](https://github.com/eosasia/ping-eos) - Implementing ping between EOSIO / React.js.
 *   [ipfs-eos-demo (⭐42)](https://github.com/wpuricz/ipfs-eos-demo) - Demo saving text and images to ipfs and storing the hash on the EOSIO blockchain.
 
 ### YouTube Channels / Services
@@ -98,16 +98,16 @@
 
 ### Machine Learning / Preferences
 
-*   [MLKit (⭐391)](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
+*   [MLKit (⭐389)](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
 
 ### Vision / Preferences
 
 *   [ML Vision Camera Stream (⭐278)](https://github.com/santetis/flutter_camera_ml_vision) <!--stargazers:santetis/flutter_camera_ml_vision--> - ML vision recognitions (QRcode, face, ...) with live camera stream by [Aumard Jimmy](https://github.com/jaumard) and [Santetis](https://github.com/santetis).
-*   [Google Mobile Vision (⭐454)](https://github.com/edufolly/flutter_mobile_vision) <!--stargazers:edufolly/flutter_mobile_vision--> - Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
+*   [Google Mobile Vision (⭐455)](https://github.com/edufolly/flutter_mobile_vision) <!--stargazers:edufolly/flutter_mobile_vision--> - Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
 
 ### Vision / Augmented Reality
 
-*   [ARKit Plugin (⭐803)](https://github.com/olexale/arkit_flutter_plugin) <!--stargazers:olexale/arkit_flutter_plugin--> - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
+*   [ARKit Plugin (⭐814)](https://github.com/olexale/arkit_flutter_plugin) <!--stargazers:olexale/arkit_flutter_plugin--> - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
 
 ## [10. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -253,8 +253,10 @@
 *   [We Love Icon Fonts](http://weloveiconfonts.com/)
 *   [IconStore](https://iconstore.co/) Free icons by first-class designers.
 *   [Google Material Icons](https://design.google.com/icons/) Material icons are delightful, beautifully crafted symbols for common actions and items. 🌟
+*   [Font Awesome](http://fontawesome.io/) Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit. 🌟
 *   [IconMoon](https://icomoon.io/) Pixel perfect icon solutions.
 *   [ICONO](http://saeedalipoor.github.io/icono/) pure css icons, with only one element.
+*   [svg-icon](http://leungwensen.github.io/svg-icon/) is an ultimate SVG icons collection done right.
 *   [Iconfont+](http://www.iconfont.cn/) 阿里妈妈 MUX 倾力打造的矢量图标管理、交流平台。
 
 ### Typography
@@ -661,9 +663,9 @@
 ### Table of Contents / Streaming Engine
 
 *   [Apache Apex (⭐349)](https://github.com/apache/apex-core) \[Java] - unified platform for big data stream and batch processing.
-*   [Apache Flink (⭐24k)](https://github.com/apache/flink) \[Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
-*   [Apache Samza (⭐819)](https://github.com/apache/samza) \[Scala/Java] - distributed stream processing framework that build on Kafka(messaging, storage) and YARN(fault tolerance, processor isolation, security and resource management).
-*   [Apache Spark Streaming (⭐40k)](https://github.com/apache/spark) \[Scala] - makes it easy to build scalable fault-tolerant streaming applications.
+*   [Apache Flink (⭐25k)](https://github.com/apache/flink) \[Java] - system for high-throughput, low-latency data stream processing that supports stateful computation, data-driven windowing semantics and iterative stream processing.
+*   [Apache Samza (⭐823)](https://github.com/apache/samza) \[Scala/Java] - distributed stream processing framework that build on Kafka(messaging, storage) and YARN(fault tolerance, processor isolation, security and resource management).
+*   [Apache Spark Streaming (⭐41k)](https://github.com/apache/spark) \[Scala] - makes it easy to build scalable fault-tolerant streaming applications.
 *   [Apache Storm (⭐6.6k)](https://github.com/apache/storm) \[Clojure/Java] - distributed real-time computation system. Storm is to stream processing what Hadoop is to batch processing.
 *   [AthenaX (⭐1.2k)](https://github.com/uber/AthenaX) \[Java] - Uber's Stream Analytics Framework used in production
 *   [Faust (⭐6.8k)](https://github.com/robinhood/faust) \[Python] - stream processing library, porting the ideas from Kafka Streams to Python
@@ -671,7 +673,7 @@
 *   [hailstorm (⭐90)](https://github.com/hailstorm-hs/hailstorm) \[Haskell] - distributed stream processing with exactly-once semantics based on Storm.
 *   [mupd8(muppet) (⭐126)](https://github.com/walmartlabs/mupd8) \[Scala/Java] - mapReduce-style framework for processing fast/streaming data.
 *   [Onyx (⭐2k)](https://github.com/onyx-platform/onyx) \[Clojure] - Distributed, masterless, high performance, fault tolerant data processing.
-*   [s4 (⭐43)](https://github.com/apache/incubator-s4) \[Java] - general-purpose, distributed, scalable, fault-tolerant, pluggable platform that allows programmers to easily develop applications for processing continuous unbounded streams of data.
+*   [s4 (⭐42)](https://github.com/apache/incubator-s4) \[Java] - general-purpose, distributed, scalable, fault-tolerant, pluggable platform that allows programmers to easily develop applications for processing continuous unbounded streams of data.
 *   [SABER (⭐38)](https://github.com/lsds/Saber) \[Java/C] - Window-Based Hybrid CPU/GPU Stream Processing Engine.
 *   [SPQR (⭐29)](https://github.com/ottogroup/SPQR) \[Java] - dynamic framework for processing high volumn data streams through pipelines.
 *   [tigon (⭐284)](https://github.com/caskdata/tigon) \[C++/Java] - high throughput real-time streaming processing framework built on Hadoop and HBase.
@@ -680,37 +682,37 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Apache Kafka Streams (⭐29k)](https://github.com/apache/kafka) \[Java] - lightweight stream processing library included in Apache Kafka (since 0.10 version).
-*   [Benthos (⭐8.2k)](https://github.com/Jeffail/benthos) \[Go] - Benthos is a high performance and resilient message streaming service, able to connect various sources and sinks and perform arbitrary actions, transformations and filters on payloads
+*   [Apache Kafka Streams (⭐30k)](https://github.com/apache/kafka) \[Java] - lightweight stream processing library included in Apache Kafka (since 0.10 version).
+*   [Benthos (⭐8.3k)](https://github.com/Jeffail/benthos) \[Go] - Benthos is a high performance and resilient message streaming service, able to connect various sources and sinks and perform arbitrary actions, transformations and filters on payloads
 *   [FS2(prev. 'Scalaz-Stream') (⭐2.4k)](https://github.com/functional-streams-for-scala/fs2) \[Scala] - Compositional, streaming I/O library for Scala.
 *   [monix (⭐1.9k)](https://github.com/monix/monix) \[Scala] - high-performance Scala / Scala.js library for composing asynchronous and event-based programs.
-*   [Streamline (⭐165)](https://github.com/hortonworks/streamline) \[Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
+*   [Streamline (⭐164)](https://github.com/hortonworks/streamline) \[Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
 *   [StreamAlert (⭐2.9k)](https://github.com/airbnb/streamalert) \[Python] - Airbnb's Real-time Data Analysis and Alerting.
 *   [Swave (⭐171)](https://github.com/sirthias/swave) \[Scala] - A lightweight Reactive Streams Infrastructure Toolkit for Scala.
 
 ### Table of Contents / Streaming Application
 
 *   [straw (⭐103)](https://github.com/rwalk/straw) \[Python/Java] - A platform for real-time streaming search.
-*   [storm-crawler (⭐895)](https://github.com/DigitalPebble/storm-crawler) \[Java] - Web crawler SDK based on Apache Storm.
+*   [storm-crawler (⭐902)](https://github.com/DigitalPebble/storm-crawler) \[Java] - Web crawler SDK based on Apache Storm.
 
 ### Table of Contents / IoT
 
 *   [sensorbee (⭐231)](https://github.com/sensorbee/sensorbee) \[Go] - lightweight stream processing engine for IoT.
-*   [Apache Edgent (⭐218)](https://github.com/apache/incubator-edgent) \[Java] - a programming model and runtime that enables continuous streaming analytics on gateways and edge devices which can work with centralized systems to provide efficient and timely analytics across the whole IoT ecosystem: from the center to the edge, opens sourced by IBM.
+*   [Apache Edgent (⭐216)](https://github.com/apache/incubator-edgent) \[Java] - a programming model and runtime that enables continuous streaming analytics on gateways and edge devices which can work with centralized systems to provide efficient and timely analytics across the whole IoT ecosystem: from the center to the edge, opens sourced by IBM.
 
 ### Table of Contents / DSL
 
 *   [coast (⭐60)](https://github.com/bkirwi/coast) \[Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
-*   [Esper (⭐843)](https://github.com/espertechinc/esper) \[Java] - component for complex event processing (CEP) and event series analysis.
+*   [Esper (⭐848)](https://github.com/espertechinc/esper) \[Java] - component for complex event processing (CEP) and event series analysis.
 *   [Streamparse (⭐1.5k)](https://github.com/Parsely/streamparse) \[Python] - lets you run Python code against real-time streams of data via Apache Storm.
 *   [summingbird (⭐2.1k)](https://github.com/twitter/summingbird) \[Scala] - library that lets you write MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms, including Storm and Scalding.
 
 ### Table of Contents / Data Pipeline
 
-*   [Apache Kafka (⭐29k)](https://github.com/apache/kafka) \[Scala/Java] - distributed, partitioned, replicated commit log service, which provides the functionality of a messaging system, but with a unique design.
+*   [Apache Kafka (⭐30k)](https://github.com/apache/kafka) \[Scala/Java] - distributed, partitioned, replicated commit log service, which provides the functionality of a messaging system, but with a unique design.
 *   [Apache Pulsar (⭐14k)](https://github.com/apache/incubator-pulsar) \[Java] - distributed pub-sub messaging platform with a very flexible messaging model and an intuitive client API.
-*   [camus (⭐878)](https://github.com/linkedin/camus) \[Java] - Linkedin's Kafka -> HDFS pipeline.
-*   [databus (⭐3.6k)](https://github.com/linkedin/databus) \[Java] - Linkedin's source-agnostic distributed change data capture system.
+*   [camus (⭐876)](https://github.com/linkedin/camus) \[Java] - Linkedin's Kafka -> HDFS pipeline.
+*   [databus (⭐3.7k)](https://github.com/linkedin/databus) \[Java] - Linkedin's source-agnostic distributed change data capture system.
 *   [flume (⭐2.5k)](https://github.com/apache/flume) \[Java] - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 *   [metaq (⭐1.3k)](https://github.com/killme2008/Metamorphosis) \[Java] - Taobao's high available, high performance distributed messaging system
 *   [NATS streaming (⭐2.5k)](https://github.com/nats-io/nats-streaming-server) \[Go] - fast disk-backed messaging solution
@@ -720,28 +722,28 @@
 ### Table of Contents / Online Machine Learning
 
 *   [Apache Samoa (⭐248)](https://github.com/apache/incubator-samoa) \[Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
-*   [DataSketches (⭐900)](https://github.com/DataSketches/sketches-core) \[Java] - sketches library from Yahoo!.
+*   [DataSketches (⭐905)](https://github.com/DataSketches/sketches-core) \[Java] - sketches library from Yahoo!.
 *   [StreamingBandit (⭐80)](https://github.com/Nth-iteration-labs/streamingbandit) \[Python] - Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (cMAB) problems.
 
 ### Table of Contents / Streaming SQL
 
 *   [pipelinedb (⭐2.6k)](https://github.com/pipelinedb/pipelinedb) \[C] - An open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables.
-*   [squall (⭐270)](https://github.com/epfldata/squall) \[Java] - Squall executes SQL queries on top of Storm for doing online processing.
+*   [squall (⭐271)](https://github.com/epfldata/squall) \[Java] - Squall executes SQL queries on top of Storm for doing online processing.
 
 ### Table of Contents / Benchmark
 
 *   [storm-perf-test (⭐74)](https://github.com/yahoo/storm-perf-test) \[Java] - a simple storm performance/stress test.
-*   [streaming-benchmarks (⭐635)](https://github.com/yahoo/streaming-benchmarks) \[Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
+*   [streaming-benchmarks (⭐637)](https://github.com/yahoo/streaming-benchmarks) \[Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
 *   [flotilla (⭐234)](https://github.com/tylertreat/Flotilla) \[Go] - Automated message queue orchestration for scaled-up benchmarking.
 
 ### Table of Contents / Toolkit
 
 *   [akka (⭐13k)](https://github.com/akka/akka) \[Scala] - toolkit and runtime for building highly concurrent, distributed, and resilient message-driven application on the JVM.
 *   [pulsar (⭐1.9k)](https://github.com/quantmind/pulsar/) \[Python] - Actor based event driven concurrent framework for Python.
-*   [aeron (⭐7.5k)](https://github.com/real-logic/Aeron) \[Java/C++] - efficient reliable unicast and multicast message transport.
+*   [aeron (⭐7.6k)](https://github.com/real-logic/Aeron) \[Java/C++] - efficient reliable unicast and multicast message transport.
 *   [StreamFlow (⭐253)](https://github.com/lmco/streamflow) \[Java] - stream processing tool designed to help build and monitor processing workflows.
 *   [samza-luwak (⭐99)](https://github.com/romseygeek/samza-luwak) \[Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
-*   [Turbine (⭐835)](https://github.com/Netflix/Turbine) \[Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.
+*   [Turbine (⭐834)](https://github.com/Netflix/Turbine) \[Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.
 
 ## [28. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -809,53 +811,35 @@
 
 ## [33. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
-### Generic
-
-*   [Font Awesome](http://fontawesome.io/) - Scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
-*   [Foundation Icon Fonts 3](http://zurb.com/playground/foundation-icon-fonts-3) - A custom collection of 283 icons.
-*   [Glyphicons](http://glyphicons.com/) - Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
-*   [Govicons](http://govicons.io/) - Gov Icons is a font and CSS toolkit with 115 government themed icons.
-*   [icoMoon](https://icomoon.io) - 490+ free Icons.
-*   [Iconic](https://useiconic.com/open/) - An open source icon set with 223 marks in SVG, webfont and raster formats.
-*   [Ionicons](http://ionicons.com/) - The premium icon font for Ionic Framework.
-*   [Marka](http://fian.my.id/marka/) - 36 Beautiful transformable icons.
-*   [Octicons](https://octicons.github.com/) - All GitHub's icons.
-*   [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) - A fantasy themed font and CSS toolkit.
-*   [pictonic](https://pictonic.co) - Over 260+ free icons.
-*   [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
-
-### Tools
-
-*   [svg-icon](http://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
-*   [fontello](http://fontello.com/) - Icon fonts generator.
-
 ### Archive of Icons
 
-*   [iconmonstr](http://iconmonstr.com/) - Discover over 3000  free simple icons in varius collections.
 *   [TheNounProject](https://thenounproject.com/) - Search over 150,000 icons designed by creators from arround the world.
-*   [svg-icon (⭐1k)](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
+*   [svg-icon (⭐1.1k)](https://github.com/leungwensen/svg-icon) - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
 *   [icons8](https://icons8.com/) - 63,900 Free Flat Icons.
 *   [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
+
+### Generic
+
+*   [Govicons](http://govicons.io/) - Gov Icons is a font and CSS toolkit with 115 government themed icons.
+*   [icoMoon](https://icomoon.io) - 490+ free Icons.
+*   [Octicons](https://octicons.github.com/) - All GitHub's icons.
+*   [RPG-Awesome](https://nagoshiashumari.github.io/Rpg-Awesome/) - A fantasy themed font and CSS toolkit.
+*   [zondicons](http://www.zondicons.com/) - A set of free premium SVG icons for you to use on your digital products.
 
 ### Map / Countries
 
 *   [StateFace](http://propublica.github.io/stateface/) - All 50 states plus D.C. and a wee continental U.S. map.
-*   [flag-icon-css](http://lipis.github.io/flag-icon-css/) - A collection of all country flags in SVG — plus the CSS for easier integration.
 
 ### Social
 
-*   [Social Share Kit](http://socialsharekit.com/) - Social network icons, share buttons, share count, floating/sticky button bar and popups.
-*   [Zocial (⭐189)](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
+*   [Zocial (⭐188)](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
 
 ### Weather
 
-*   [Meteocons](http://www.alessioatzeni.com/meteocons/) - 40+ icons available in PSD, CSH, EPS, SVG, Desktop font and Web font.
-*   [Weather 7 Icon Font Set](http://www.pixeden.com/icon-fonts/weather-7-icon-font-set) - A complete set of 60 weather icons inspired by iOS 7.
 *   [Weather Icons](https://erikflowers.github.io/weather-icons/) - 222 Weather Themed Icons and CSS.
 
 ### Merchants
 
-*   [Payment Webfont](http://www.orlandotm.com/payment-webfont/) - An SVG webfont full of icons of main payment systems.
 *   [PaymentFont](http://paymentfont.io/) - A sleek webfont containing 95 icons of all main payment operators and methods.
 
 ## [34. Awesome Stacks](/content/stackshareio/awesome-stacks/week/README.md)
@@ -1014,11 +998,11 @@
 ### Applications
 
 *   [Pijul](https://pijul.org) - A patch-based distributed version control system
-*   [Servo (⭐29k)](https://github.com/servo/servo) - A prototype web browser engine
+*   [Servo (⭐30k)](https://github.com/servo/servo) - A prototype web browser engine
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐936)](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐951)](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
@@ -1026,7 +1010,7 @@
 
 ### Applications / Web Servers
 
-*   [TheWaWaR/simple-http-server (⭐2.8k)](https://github.com/TheWaWaR/simple-http-server) - simple static http server
+*   [TheWaWaR/simple-http-server (⭐3k)](https://github.com/TheWaWaR/simple-http-server) - simple static http server
 
 ### Development tools / Debugging
 
@@ -1036,7 +1020,7 @@
 ### Development tools / Deployment
 
 *   Heroku
-    *   [emk/heroku-buildpack-rust (⭐525)](https://github.com/emk/heroku-buildpack-rust) - A buildpack for Rust applications on Heroku
+    *   [emk/heroku-buildpack-rust (⭐526)](https://github.com/emk/heroku-buildpack-rust) - A buildpack for Rust applications on Heroku
 
 ### Development tools / Services
 
@@ -1048,20 +1032,20 @@
 
 ### Libraries / Configuration
 
-*   [Kixunil/configure\_me (⭐65)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] - library for processing application configuration easily
+*   [Kixunil/configure\_me (⭐67)](https://github.com/Kixunil/configure_me) \[[configure\_me](https://crates.io/crates/configure_me)] - library for processing application configuration easily
 
 ### Libraries / GUI
 
 *   [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
-    *   [Kiss-ui (⭐342)](https://github.com/KISS-UI/kiss-ui) - A simple UI framework built on IUP
+    *   [Kiss-ui (⭐343)](https://github.com/KISS-UI/kiss-ui) - A simple UI framework built on IUP
 
 ### Libraries / Network programming
 
 *   Low level
-    *   [actix/actix (⭐8.7k)](https://github.com/actix/actix) - Actor library
-    *   [dylanmckay/protocol (⭐189)](https://github.com/dylanmckay/protocol) - Custom TCP/UDP protocol definitions
+    *   [actix/actix (⭐8.8k)](https://github.com/actix/actix) - Actor library
+    *   [dylanmckay/protocol (⭐191)](https://github.com/dylanmckay/protocol) - Custom TCP/UDP protocol definitions
     *   [libpnet/libpnet (⭐2.4k)](https://github.com/libpnet/libpnet) - A cross-platform, low level networking
-    *   [smoltcp-rs/smoltcp (⭐3.9k)](https://github.com/smoltcp-rs/smoltcp) - A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
+    *   [smoltcp-rs/smoltcp (⭐4k)](https://github.com/smoltcp-rs/smoltcp) - A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems
 
 ### Libraries / Parsing
 
@@ -1071,11 +1055,11 @@
 
 *   Client-side / WASM
     *   [cargo-web](https://crates.io/crates/cargo-web) - A Cargo subcommand for the client-side Web
-    *   [leptos (⭐17k)](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
+    *   [leptos (⭐18k)](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
     *   [sauron (⭐2k)](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
     *   [seed (⭐3.8k)](https://github.com/seed-rs/seed) - A framework for creating web apps
     *   [stdweb](https://crates.io/crates/stdweb) - A standard library for the client-side Web
-    *   [tinyweb (⭐58)](https://github.com/LiveDuo/tinyweb) - A minimal Rust web framework for wasm in 800 lines of code
+    *   [tinyweb (⭐64)](https://github.com/LiveDuo/tinyweb) - A minimal Rust web framework for wasm in 800 lines of code
     *   [yew](https://crates.io/crates/yew) - A framework for making client web apps
 
 ### Resources / Web programming
@@ -1086,11 +1070,11 @@
 
 ### Debug
 
-*   [Unity (⭐4.2k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
+*   [Unity (⭐4.3k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
 
 ### Game Engine
 
-*   [Spring (⭐3.6k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
+*   [Spring (⭐3.7k)](https://github.com/spring/spring) - A powerful free cross-platform RTS game engine. \[GPLv2/GPLv3] [website](https://springrts.com/)
 
 ### Graphics
 
@@ -1098,11 +1082,11 @@
 
 ### Math
 
-*   [universal (⭐427)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
+*   [universal (⭐430)](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. \[MIT license]
 
 ### Reflection
 
-*   [Magic Enum (⭐5.1k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
+*   [Magic Enum (⭐5.2k)](https://github.com/Neargye/magic_enum) - Header-only C++17 library provides static reflection for enums (to string, from string, iteration), work with any enum type without any macro or boilerplate code. \[MIT]
 
 ## [39. Awesome Cross Platform Nodejs](/content/bcoe/awesome-cross-platform-nodejs/week/README.md)
 
@@ -1272,14 +1256,14 @@
 
 ### Binlog-Replication
 
-*   [Kingbus (⭐888)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
-*   [mysql-ripple (⭐373)](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
+*   [Kingbus (⭐889)](https://github.com/flike/kingbus) - A distributed MySQL binlog storage system built on Raft
+*   [mysql-ripple (⭐374)](https://github.com/google/mysql-ripple) (archived) - Ripple, a server that can serve as a middleman in MySQL replication
 
 ## [49. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Node.js (⭐59k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+*   [Node.js (⭐60k)](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
     *   [Cross-Platform (⭐1.2k)](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 
 ## [50. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
@@ -1298,7 +1282,7 @@
 
 ### Atom, Pulsar / Third-party APIs
 
-*   [SLIMA (⭐62)](https://github.com/neil-lindquist/slima) allows you to
+*   [SLIMA (⭐63)](https://github.com/neil-lindquist/slima) allows you to
     interactively develop Common Lisp code, turning Atom (or now Pulsar) into a
     pretty good, and actively developped, Lisp IDE. [MIT](https://opensource.org/licenses/MIT).
 

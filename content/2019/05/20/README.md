@@ -30,7 +30,7 @@
 
 ### Platforms
 
-*   [Adafruit IO (⭐63)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
+*   [Adafruit IO (⭐69)](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 
 ## [4. Awesome Maintainers](/content/nayafia/awesome-maintainers/README.md)
 

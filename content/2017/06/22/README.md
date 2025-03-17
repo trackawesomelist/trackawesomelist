@@ -58,7 +58,7 @@
 
 ### Images / Barcode
 
-*   [FlexibleImage (⭐825)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+*   [FlexibleImage (⭐826)](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 
 ### Text / Barcode
 
@@ -70,11 +70,11 @@
 
 ### Template / Barcode
 
-*   [SwiftCssParser (⭐280)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
+*   [SwiftCssParser (⭐279)](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 
 ### TextField / Barcode
 
-*   [CBPinEntryView (⭐190)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
+*   [CBPinEntryView (⭐189)](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
 
 ## [7. Awesome Math](/content/rossant/awesome-math/README.md)
 
@@ -92,20 +92,20 @@ If you want to disable right-click, you can do it for an entire page...
 
 ```javascript
 $(document).ready(function () {
-  $(document).bind('contextmenu', function (e) {
+  $(document).bind("contextmenu", function (e) {
     return false;
-  })
-})
+  });
+});
 ```
 
 ...and you can also do the same for a specific element:
 
 ```javascript
 $(document).ready(function () {
-  $('#submit').bind('contextmenu', function (e) {
+  $("#submit").bind("contextmenu", function (e) {
     return false;
-  })
-})
+  });
+});
 ```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -114,15 +114,15 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
-*   [български (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/bg-BG)
-*   [Español (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/es-ES)
-*   [Français (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/fr-FR)
-*   [Magyar (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/hu-HU)
-*   [한국어 (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ko-KR)
-*   [Português do Europe (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT)
-*   [Pусский (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
-*   [简体中文 (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)
-*   [繁體中文 (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)
+*   [български (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/bg-BG)
+*   [Español (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/es-ES)
+*   [Français (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/fr-FR)
+*   [Magyar (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/hu-HU)
+*   [한국어 (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ko-KR)
+*   [Português do Europe (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT)
+*   [Pусский (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
+*   [简体中文 (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)
+*   [繁體中文 (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 

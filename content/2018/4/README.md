@@ -113,7 +113,7 @@
 
 ### Job processing / Third-party APIs
 
-*   [psychiq (⭐54)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [psychiq (⭐53)](https://github.com/fukamachi/psychiq) - redis-based background job processing for Common Lisp applications. Inspired by Ruby's Sidekiq and compatible with its web UI. [LLGPL](http://opensource.franz.com/preamble.html).
 
 ### Logging / Third-party APIs
 
@@ -223,7 +223,7 @@
 
 ### Email
 
-*   [burnex (⭐73)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
+*   [burnex (⭐75)](https://github.com/Betree/burnex) - Burner email (temporary address) detector.
 
 ## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -314,7 +314,7 @@
 
 ### App Store
 
-*   [InAppPurchase (⭐289)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
+*   [InAppPurchase (⭐290)](https://github.com/jinSasaki/InAppPurchase) - A Simple, Lightweight and Safe framework for In App Purchase.
 
 ### JSON
 
@@ -330,7 +330,7 @@
 
 ### HUD / Barcode
 
-*   [GradientLoadingBar (⭐889)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+*   [GradientLoadingBar (⭐888)](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 
 ## [36. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -390,7 +390,7 @@
 
 ### Boilerplates
 
-*   [Next Redux Starter](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
+*   [Next Redux Starter (⭐375)](https://github.com/CodementorIO/nextjs-redux-starter) - Next.js starter with Express, Redux, and PostCSS.
 *   [Staart (⭐313)](https://github.com/nmaro/staart) - 😎 Actively maintained Next.js components library *and* minimal boilerplate to rapidly get staarted with app with working user accounts based on Ooth.
 
 ---

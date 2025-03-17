@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 20, 2025
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,31 +25,45 @@
 *   [@transifex/angular (⭐44)](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [@transifex/angular](https://www.npmjs.com/package/@transifex/angular) library extension. This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
 *   [Crowdin](https://crowdin.com/) - Crowdin is AI-powered localization software for teams and businesses. Automate the translation of your content with 600+ apps and [integrations](https://store.crowdin.com/search?query=angular).
 
-## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+## [4. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+
+### Index / Cloud
+
+*   [copyparty (⭐1.1k)](https://github.com/9001/copyparty) 🇳🇴 - Self-hosted file-sharing and file-transfer server.
+
+### Index / Communication Tools
+
+*   [SKRED](https://www.skred.app/) 🇫🇷 - Secure communication app.
+
+### Index / Gaming Projects
+
+*   [GOG](https://www.gog.com/) 🇵🇱 - Digital game shop with DRM-free games only.
+
+## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ### Software / API Testing
 
 *   [CORS Tester](https://cors-error.dev/cors-tester/) - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.
 
-## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [6. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Connectivity Maps
 
 *   [Submarine Telecoms Forum](https://subtelforum.com/online-map/) - SubTelForum has an excellent interactive map and directory of undersea cables as well as an annual almanac.
 
-## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [7. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Equity and Environmental Justice
 
 *   [Screening Tools](https://screening-tools.com/) - Screening Tools is a project of Public Environmental Data Partners that is archiving and providing federal datasets related to environmental and social vulnerability screening. Datasets distributed and screening tools made available through this site include EJ Screen and CDC SVI for example.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Testing
 
 *   [CORS-Tester](https://cors-error.dev/cors-tester/) - A free tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps. Get actionable insights.
 
-## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [9. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Tools / Desktop
 
@@ -57,4 +71,5 @@
 
 ---
 
+- Prev: [Feb 21, 2025](/content/2025/02/21/README.md)
 - Next: [Feb 19, 2025](/content/2025/02/19/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 08, 2024
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -60,18 +60,18 @@
 
 ### Tools / Services
 
-*   [MindSQL (⭐267)](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.![GitHub Repo stars](https://img.shields.io/github/stars/mindinventory/mindsql?style=social)
+*   [MindSQL (⭐275)](https://github.com/Mindinventory/MindSQL) - A python package for Txt-to-SQL with self hosting functionalities and RESTful APIs compatible with proprietary as well as open source LLM.![GitHub Repo stars](https://img.shields.io/github/stars/mindinventory/mindsql?style=social)
 
 ## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### State Libraries
 
-*   [exome (⭐249)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐266)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ### UI Libraries
 
 *   [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
-*   [M3 Svelte (⭐280)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
+*   [M3 Svelte (⭐293)](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 
 ## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -81,15 +81,9 @@
 
 ### Domain Specific Language / Design Practises
 
-*   [How Domain Experts Use an Embedded DSL](https://dl.acm.org/doi/abs/10.1145/3622851) - ***OOPSLA'23***, 2023. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. Programming tools are increasingly integral to research and analysis in myriad domains, including specialized areas with no formal relation to computer science. Embedded domain-specific languages (eDSLs) have the potential to serve these programmers while placing relatively light implementation burdens on language designers. However, barriers to eDSL use reduce their practical value and adoption. This work aims to deepen the understanding of how programmers use eDSLs and identify user needs to inform future eDSL designs. The authors performed a contextual inquiry (9 participants) with domain experts using Mimi, an eDSL for climate change economics modeling. A thematic analysis identified five key themes, including: the interaction between the eDSL and the host language has significant and sometimes unexpected impacts on eDSL user experience, and users preferentially engage with domain-specific communities and code templates rather than host language resources.
+*   [How Domain Experts Use an Embedded DSL](https://dl.acm.org/doi/abs/10.1145/3622851) - ***OOPSLA'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8416124186663074528)]. Programming tools are increasingly integral to research and analysis in myriad domains, including specialized areas with no formal relation to computer science. Embedded domain-specific languages (eDSLs) have the potential to serve these programmers while placing relatively light implementation burdens on language designers. However, barriers to eDSL use reduce their practical value and adoption. This work aims to deepen the understanding of how programmers use eDSLs and identify user needs to inform future eDSL designs. The authors performed a contextual inquiry (9 participants) with domain experts using Mimi, an eDSL for climate change economics modeling. A thematic analysis identified five key themes, including: the interaction between the eDSL and the host language has significant and sometimes unexpected impacts on eDSL user experience, and users preferentially engage with domain-specific communities and code templates rather than host language resources.
 
-## [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
-
-### Third-Party Packages / Commands
-
-*   [django-typer (⭐105)](https://github.com/bckohan/django-typer) - Write Django management commands using the [Typer CLI library](https://typer.tiangolo.com).
-
-## [7. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
+## [6. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 
 ### Graphweaver - GraphQL API Over Multiple Datasources [↗](https://awesomestacks.dev/graphweaver-graphql-api-over-multiple-datasources) / Resources
 
@@ -97,17 +91,17 @@
 *   [AWS Cognito](https://aws.amazon.com/cognito) - Pre-built integration with AWS Cognito.
 *   [Connect to a datasource](https://graphweaver.com/docs/connect-to-a-data-source)
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
 *   [LukasPietzschmann/boo.nvim (⭐36)](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up some LSP-powered information of the thing your cursor is on.
 
-## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [ai-commands (⭐29)](https://github.com/muePatrick/zsh-ai-commands) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
+*   [ai-commands (⭐31)](https://github.com/muePatrick/zsh-ai-commands) - Asks GPT (gpt-4-turbo-preview) for CLI commands that achieve the described target action.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

@@ -10,8 +10,8 @@
 
 ### Software / Community-Supported Agriculture (CSA)
 
-*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐331)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Docker/Ruby`
-*   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐47)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
+*   [Foodsoft](https://foodcoops.net/) - Web-based software to manage a non-profit food coop (product catalog, ordering, accounting, job scheduling). ([Source Code (⭐332)](https://github.com/foodcoops/foodsoft)) `AGPL-3.0` `Docker/Ruby`
+*   [juntagrico](https://juntagrico.org/) - Management platform for community gardens and vegetable cooperatives. ([Source Code (⭐48)](https://github.com/juntagrico/juntagrico)) `LGPL-3.0` `Python`
 
 ## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-rancher2 (⭐266)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
+*   [terraform-provider-rancher2 (⭐271)](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -79,7 +79,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [sainnhe/everforest (⭐3.1k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
+*   [sainnhe/everforest (⭐3.2k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -126,7 +126,7 @@
 
 ### Softwares / Libraries
 
-*   [go-mcproto (⭐43)](https://github.com/BRA1L0R/go-mcproto) - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
+*   [go-mcproto (⭐47)](https://github.com/BRA1L0R/go-mcproto) - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
 
 ---
 

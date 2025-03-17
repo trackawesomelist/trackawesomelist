@@ -90,7 +90,7 @@
 
 ### Front-End Development
 
-*   [Material-UI (⭐234)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+*   [Material-UI (⭐239)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 
 ## [11. Awesome Ssh](/content/moul/awesome-ssh/README.md)
 

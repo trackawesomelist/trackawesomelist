@@ -25,7 +25,7 @@
 
 ### Data Visualization
 
-*   [Echarts (⭐55k)](https://github.com/ecomfe/echarts) - Baidus enterprise charts.
+*   [Echarts (⭐62k)](https://github.com/ecomfe/echarts) - Baidus enterprise charts.
 
 ## [3. Awesome Marionette](/content/sadcitizen/awesome-marionette/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Cryptography
 
-*   [retter (⭐101)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
+*   [retter (⭐102)](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 
 ## [6. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

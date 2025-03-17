@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30 - May 06, 2018
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,7 +48,7 @@
 
 ### Applications
 
-*   [NewNode (⭐447)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
+*   [NewNode (⭐459)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
 
 ## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -438,11 +438,11 @@
 
 ### Packages / Web frameworks
 
-*   [Nest (⭐68k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐70k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 ### Packages / Text
 
-*   [i18next (⭐7.8k)](https://github.com/i18next/i18next) - Internationalization framework.
+*   [i18next (⭐7.9k)](https://github.com/i18next/i18next) - Internationalization framework.
 
 ### Packages / Math
 
@@ -450,15 +450,15 @@
 
 ### Packages / Parsing
 
-*   [fast-xml-parser (⭐2.6k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
+*   [fast-xml-parser (⭐2.7k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
 
 ### Packages / Network
 
-*   [netcat (⭐419)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+*   [netcat (⭐424)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
 
 ### Packages / Authorization
 
-*   [CASL (⭐6.1k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+*   [CASL (⭐6.3k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
 
 ### Packages / Job queues
 
@@ -467,7 +467,7 @@
 ### Packages / Serialization
 
 *   [snappy (⭐481)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
-*   [compactr (⭐101)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
+*   [compactr (⭐102)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
 ### Packages / Miscellaneous
 
@@ -578,13 +578,13 @@
 
 ## [23. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Agency Tools
-
-*   [RidePilot (⭐25)](https://github.com/camsys/ridepilot) - An open-source Computer Aided Scheduling and Dispatch (CASD) software system to meet the needs of small scale human service transportation agencies.
-
 ### GTFS Realtime Convertors / Rust
 
 *   [OrbCAD SQL Server to GTFS-realtime (⭐16)](https://github.com/CUTR-at-USF/HART-GTFS-realtimeGenerator/) - A Java-based command-line utility that extracts vehicle positions and trip updates information from an OrbCAD SQL Server and exports them to the GTFS-realtime TripUpdates and VehiclePositions formats.
+
+### Agency Tools / General GIS Applications for making transit visualizations
+
+*   [RidePilot (⭐25)](https://github.com/camsys/ridepilot) - An open-source Computer Aided Scheduling and Dispatch (CASD) software system to meet the needs of small scale human service transportation agencies.
 
 ## [24. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
@@ -608,14 +608,76 @@
 
 *   [anne-key (⭐568)](https://github.com/ah-/anne-key): Alternate keyboard firmware for the Obins ANNE Pro
 
-## [27. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [27. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Android
+
+*   [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) (email address *requested*, not required)
+
+### C++ / Non-X86
+
+*   [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) (email address *requested*, not required)
+
+### F Sharp / Phoenix
+
+*   [F# Succinctly, SyncFusion](https://www.syncfusion.com/resources/techportal/ebooks/fsharp) (PDF, Kindle) (email address *requested*, not required)
+
+### iOS / Bootstrap
+
+*   [iOS Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) (email address *requested*, not required)
+
+### JavaScript / jQuery
+
+*   [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) (PDF, Kindle) (email address *requested*, not required)
+
+### JavaScript / Node.js
+
+*   [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
+
+### Linux / TeX
+
+*   [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) (email address *requested*, not required)
+
+### MATLAB / PicoLisp
+
+*   [MATLAB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/matlab) (PDF, Kindle) (email address *requested*, not required)
+
+### Objective-C / PicoLisp
+
+*   [Objective-C Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/objective-c) (PDF, Kindle) (email address *requested*, not required)
+
+### PostgreSQL / Zend
+
+*   [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) (email address *requested*, not required)
+
+### PowerShell / Zend
+
+*   [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) (email address *requested*, not required)
+
+### R / Tornado
+
+*   [R Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) (email address *requested*, not required)
+
+### Scala / Sinatra
+
+*   [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
+
+### Scala / Play Scala
+
+*   [Essential Play](http://underscore.io/books/essential-play/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
+
+### TypeScript / Vapor
+
+*   [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
+
+## [28. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Apps / Third-party APIs
 
 *   [wiki-lang-detect (⭐31)](https://github.com/vseloved/wiki-lang-detect) -
     Text language identification using Wikipedia data. No license specified.
 
-## [28. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [29. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### SDKs/Tools
 
@@ -709,25 +771,25 @@
 
 *   [Alexa Easter Eggs](https://github.com/miguelmota/awesome-amazon-alexa/blob/master/README.md/EASTER_EGGS.md) - A list of Alexa easter eggs.
 
-## [29. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [30. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Kubernetes examples (⭐6.3k)](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
 
-## [30. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [31. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Database
 
 *   [uxss-db (⭐634)](https://github.com/Metnew/uxss-db) - Collection of UXSS CVEs with PoCs by [@Metnew](https://github.com/Metnew).
 
-## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [32. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Utilities
 
 *   [Eloquent Filter (⭐1.5k)](https://github.com/Tucker-Eric/EloquentFilter) - Filter models and their Relationships
 
-## [32. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [33. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Introduction / First Steps
 
@@ -738,13 +800,13 @@
 *   [Tutorials](https://eta-lang.org/docs/tutorials) - Eta tutorials.
 *   [Eta Cheatsheets](https://eta-lang.org/docs/cheatsheets) - Eta reference.
 
-## [33. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
+## [34. Awesome Frege](/content/sfischer13/awesome-frege/week/README.md)
 
 ### Community / Social Media
 
 *   [reddit](https://www.reddit.com/r/frege/) - Frege subreddit.
 
-## [34. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [35. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / General-Purpose Machine Learning
 
@@ -754,19 +816,19 @@
 
 *   [RusticSOM (⭐34)](https://github.com/avinashshenoy97/RusticSOM) - A Rust library for Self Organising Maps (SOM).
 
-## [35. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [36. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Varia / Tutorials
 
 *   [The Small World of Psychopathology](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0027407) - Paper on how psychiatric symptoms connec to each other ([code, data and graphs](https://sites.google.com/site/dsmgraphs/Home/files)).
 
-## [36. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [37. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tutorials
 
 *   [Understanding the basics of Linux Binary Exploitation (⭐1.2k)](https://github.com/r0hi7/BinExp)
 
-## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [38. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Games
 
@@ -774,14 +836,14 @@
 
 ### Applications / Operating systems
 
-*   [tock/tock (⭐5.6k)](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers
+*   [tock/tock (⭐5.7k)](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers
 
 ### Applications / System tools
 
-*   [mmstick/concurr (⭐109)](https://github.com/mmstick/concurr) - Alternative to GNU Parallel w/ a client-server architecture
-*   [mmstick/fontfinder (⭐275)](https://github.com/mmstick/fontfinder) - GTK3 application for previewing and installing Google's fonts
+*   [mmstick/concurr (⭐110)](https://github.com/mmstick/concurr) - Alternative to GNU Parallel w/ a client-server architecture
+*   [mmstick/fontfinder (⭐276)](https://github.com/mmstick/fontfinder) - GTK3 application for previewing and installing Google's fonts
 
-## [38. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [39. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
@@ -792,14 +854,14 @@
 
 *   [clib (⭐4.9k)](https://github.com/clibs/clib) - Package manager for the C programming language. \[MIT]
 
-## [39. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [40. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
-### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/PwoOQGB)
 
-*   [简体中文 (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
-*   [正體中文 (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
+*   [简体中文 (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+*   [正體中文 (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
 
-## [40. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [41. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Games / Web
 
@@ -813,7 +875,7 @@
 *   [PABI Logical (⭐3)](https://github.com/bichlepa/PABI-Logical/releases) - Remake of the amiga game Logical. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=33267), GitHub: [link (⭐3)](https://github.com/bichlepa/PABI-Logical)
 *   [Sudoku](https://autohotkey.com/boards/codeboxplus/download/77645-1) - Sudoku game and solver. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=15291)
 
-## [41. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [42. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
@@ -840,7 +902,7 @@
 
 *   ['Libre' Software: Turning Fads into Institutions?](https://www.sciencedirect.com/science/article/pii/S0048733302000033) - Academic article presenting an economic analysis of libre software and its sustainability.
 
-## [42. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [43. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -850,25 +912,25 @@
 
 *   [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
 
-## [43. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [44. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Libraries / JavaScript
 
 *   [mmarkdown (⭐75)](https://github.com/albinotonnina/mmarkdown) - Interpret mmd fenced code blocks in a markdown file and generate a cooler version of it.
 
-## [44. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [45. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Threat Intelligence / Forensics
 
 *   [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/) - MISP threat sharing platform is a free and open source software helping information sharing of threat intelligence including cyber security indicators.  A threat intelligence platform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information. The MISP project includes software, common libraries ([taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)), an extensive data model to share new information using [objects](https://www.misp-project.org/objects.html) and default [feeds](https://www.misp-project.org/feeds/).
 
-## [45. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [46. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [atvjs (⭐311)](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
+*   [atvjs (⭐310)](https://github.com/emadalam/atvjs) - Blazing fast Apple TV application development using pure JavaScript.
 
-## [46. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [47. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Data binding
 
@@ -896,13 +958,13 @@
 *   [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) - Wraps app screenshots in real device artwork.
 *   [Pencil Project](https://pencil.evolus.vn/) - An open source prototyping software.
 
-## [47. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [48. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Miscellaneous
 
 *   [Slack Typing (⭐1.9k)](https://github.com/will/slacktyping) - A very good program that makes it so it says I'm typing when anyone else is typing.
 
-## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Snippets
 

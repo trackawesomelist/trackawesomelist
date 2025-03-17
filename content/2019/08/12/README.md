@@ -44,7 +44,7 @@
 
 ### Extensions
 
-*   [next-session (⭐354)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
+*   [next-session (⭐356)](https://github.com/hoangvvo/next-session) - Session middleware for Next.js
 
 ## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Tools
 
-*   [HealthyPi (⭐196)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
+*   [HealthyPi (⭐200)](https://github.com/Protocentral/protocentral-healthypi-v3) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-2+.png)
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

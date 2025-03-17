@@ -79,15 +79,15 @@
 
 ### Programming fonts / Fonts
 
-*   [agave (⭐760)](https://github.com/blobject/agave) - Fixed-width outline typeface, designed and produced by type agaric
+*   [agave (⭐828)](https://github.com/blobject/agave) - Fixed-width outline typeface, designed and produced by type agaric
 
 ### Programming fonts / Programming fonts with ligatures
 
-*   [Lilex (⭐796)](https://github.com/mishamyrt/Lilex) - Modern programming font containing a set of ligatures for common programming multi-character combinations
+*   [Lilex (⭐857)](https://github.com/mishamyrt/Lilex) - Modern programming font containing a set of ligatures for common programming multi-character combinations
 
 ### Other / Event listeners for fonts loading on a web page
 
-*   [fnt (⭐486)](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
+*   [fnt (⭐505)](https://github.com/alexmyczko/fnt) - Apt for fonts, the missing font manager for macOS/linux
 
 ## [10. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

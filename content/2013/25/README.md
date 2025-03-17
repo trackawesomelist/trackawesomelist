@@ -10,7 +10,7 @@
 
 ### Table of Contents / Streams
 
-*   [Streamer (⭐267)](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
+*   [Streamer (⭐264)](https://github.com/fzaninotto/Streamer) - A simple object-orientated stream wrapper library.
 
 ### Table of Contents / E-commerce
 

@@ -23,11 +23,11 @@
 
 ### Frameworks
 
-*   [MiLi (⭐37)](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. \[Boost]
+*   [MiLi (⭐38)](https://github.com/MariadeAnton/MiLi) - Minimal headers-only C++ Library. \[Boost]
 
 ### Chemistry
 
-*   [gromacs (⭐737)](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. \[GPL] [website](http://www.gromacs.org)
+*   [gromacs (⭐743)](https://github.com/gromacs/gromacs) - A message-passing parallel molecular dynamics implementation. \[GPL] [website](http://www.gromacs.org)
 
 ### Image Processing
 
@@ -48,7 +48,7 @@
 
 ### Miscellaneous
 
-*   [libsigc++ (⭐391)](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. \[LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
+*   [libsigc++ (⭐394)](https://github.com/libsigcplusplus/libsigcplusplus) - A typesafe callback system for standard C++. \[LGPL] [website](https://libsigcplusplus.github.io/libsigcplusplus)
 
 ### Compiler
 
@@ -58,13 +58,13 @@
 
 ### Contents / Tools
 
-*   [yap8b (⭐0)](https://github.com/Enerccio/yap8b) - Build tool for creating pico carts from multiple source files.
+*   [yap8b (⭐1)](https://github.com/Enerccio/yap8b) - Build tool for creating pico carts from multiple source files.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Configuration / Development Environment
 
-*   [Docker PHP Extension Installer (⭐4.4k)](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
+*   [Docker PHP Extension Installer (⭐4.5k)](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

@@ -10,14 +10,14 @@
 
 ### General
 
-*   [slacko (⭐81)](https://github.com/Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
+*   [slacko (⭐82)](https://github.com/Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### API / Runner
 
-*   [amygdala (⭐393)](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
-*   [jquery.rest (⭐614)](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
+*   [amygdala (⭐391)](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
+*   [jquery.rest (⭐615)](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
 
 ## [3. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

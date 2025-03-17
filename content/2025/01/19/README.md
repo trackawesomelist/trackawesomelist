@@ -10,15 +10,15 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [nvim-telescope/telescope-bibtex.nvim (⭐121)](https://github.com/nvim-telescope/telescope-bibtex.nvim) - Telescope extension to search and paste BibTeX entries into your TeX files.
+*   [nvim-telescope/telescope-bibtex.nvim (⭐123)](https://github.com/nvim-telescope/telescope-bibtex.nvim) - Telescope extension to search and paste BibTeX entries into your TeX files.
 
 ### Cursorline / Diagnostics
 
-*   [ya2s/nvim-cursorline (⭐420)](https://github.com/ya2s/nvim-cursorline) - A plugin that highlights cursor words and lines.
+*   [ya2s/nvim-cursorline (⭐429)](https://github.com/ya2s/nvim-cursorline) - A plugin that highlights cursor words and lines.
 
 ### Icon / Diagnostics
 
-*   [ya2s/nvim-nonicons (⭐332)](https://github.com/ya2s/nvim-nonicons) - Collection of configurations for nvim-web-devicons.
+*   [ya2s/nvim-nonicons (⭐335)](https://github.com/ya2s/nvim-nonicons) - Collection of configurations for nvim-web-devicons.
 
 ## [2. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-viz (⭐1)](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
+*   [ngx-viz (⭐2)](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
 
 ---
 

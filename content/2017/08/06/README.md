@@ -1,18 +1,12 @@
 # Awesome List Updates on Aug 06, 2017
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### UI / Barcode
-
-*   [UIPheonix (⭐29)](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
-
-## [2. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [1. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Presentations
 
@@ -49,7 +43,7 @@
 *   [General Motors](https://hackerone.com/gm) on HackerOne - Coordinated disclosure submissions accepted
 *   [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
 
-## [3. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)
+## [2. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/README.md)
 
 ### What is Data Science?
 
@@ -64,7 +58,7 @@
 *   [Scikit-learn complete user guide](http://scikit-learn.org/stable/user_guide.html)
 *   [Model ensemble: Implementation in Python](http://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/)
 
-## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [3. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### GUI
 

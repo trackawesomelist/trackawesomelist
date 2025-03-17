@@ -22,14 +22,14 @@
 ### Libraries and Frameworks / API libraries
 
 *   [Transit API for EOS](https://www.eostransit.com/) - Connecting signature providers and dApps through an open-source, modular, and simple standard for EOSIO-based blockchains.
-    *   [eosnewyork/eos-transit (⭐89)](https://github.com/eosnewyork/eos-transit) - Official GitHub.
+    *   [eosnewyork/eos-transit (⭐87)](https://github.com/eosnewyork/eos-transit) - Official GitHub.
     *   [The Transit API: Connecting dApps & Signature Providers](https://medium.com/eos-new-york/the-transit-api-connecting-dapps-signature-providers-5d816c056f7f) - Article.
 
 ### Code examples / Services
 
-*   [poorman.token (⭐46)](https://github.com/generEOS/poorman.token) - EOSIO Token with burning and signup (for making the token RAM cheap).
+*   [poorman.token (⭐45)](https://github.com/generEOS/poorman.token) - EOSIO Token with burning and signup (for making the token RAM cheap).
 *   [EOSEssentials/Scatter-Demos (⭐81)](https://github.com/EOSEssentials/Scatter-Demos) - A set of integration demos using eosjs and Scatter.
-*   [ping-eos (⭐87)](https://github.com/eosasia/ping-eos) - Implementing ping between EOSIO / React.js.
+*   [ping-eos (⭐85)](https://github.com/eosasia/ping-eos) - Implementing ping between EOSIO / React.js.
 *   [ipfs-eos-demo (⭐42)](https://github.com/wpuricz/ipfs-eos-demo) - Demo saving text and images to ipfs and storing the hash on the EOSIO blockchain.
 
 ### YouTube Channels / Services
@@ -48,16 +48,16 @@
 
 ### Machine Learning / Preferences
 
-*   [MLKit (⭐391)](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
+*   [MLKit (⭐389)](https://github.com/azihsoyn/flutter_mlkit) <!--stargazers:azihsoyn/flutter_mlkit--> - Firebase Machine Learning Kit by [Naoya Yoshizawa](https://github.com/azihsoyn)
 
 ### Vision / Preferences
 
 *   [ML Vision Camera Stream (⭐278)](https://github.com/santetis/flutter_camera_ml_vision) <!--stargazers:santetis/flutter_camera_ml_vision--> - ML vision recognitions (QRcode, face, ...) with live camera stream by [Aumard Jimmy](https://github.com/jaumard) and [Santetis](https://github.com/santetis).
-*   [Google Mobile Vision (⭐454)](https://github.com/edufolly/flutter_mobile_vision) <!--stargazers:edufolly/flutter_mobile_vision--> - Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
+*   [Google Mobile Vision (⭐455)](https://github.com/edufolly/flutter_mobile_vision) <!--stargazers:edufolly/flutter_mobile_vision--> - Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
 
 ### Vision / Augmented Reality
 
-*   [ARKit Plugin (⭐803)](https://github.com/olexale/arkit_flutter_plugin) <!--stargazers:olexale/arkit_flutter_plugin--> - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
+*   [ARKit Plugin (⭐814)](https://github.com/olexale/arkit_flutter_plugin) <!--stargazers:olexale/arkit_flutter_plugin--> - Wrapper for ARKit - Apple's augmented reality platform for iOS by [Olexandr Leuschenko](https://github.com/olexale).
 
 ## [5. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Debug
 
-*   [Unity (⭐4.2k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
+*   [Unity (⭐4.3k)](https://github.com/ThrowTheSwitch/Unity) - Simple Unit Testing for C. \[MIT]
 
 ## [7. Awesome Stacks](/content/stackshareio/awesome-stacks/README.md)
 

@@ -28,11 +28,11 @@
 
 ### Applications / System tools
 
-*   [skim (⭐5.4k)](https://github.com/skim-rs/skim) - A fuzzy finder
+*   [skim (⭐5.5k)](https://github.com/skim-rs/skim) - A fuzzy finder
 
 ### Libraries / Reverse engineering
 
-*   [binarly-io/idalib (⭐96)](https://github.com/binarly-io/idalib) \[[idalib](https://crates.io/crates/idalib)] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0’s idalib
+*   [binarly-io/idalib (⭐137)](https://github.com/binarly-io/idalib) \[[idalib](https://crates.io/crates/idalib)] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0’s idalib
 
 ## [5. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [Quest Manager (⭐40)](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
+*   [Quest Manager (⭐56)](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

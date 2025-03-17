@@ -62,7 +62,7 @@
 
 ### Tools / Playground
 
-*   [type-config (⭐19)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
+*   [type-config (⭐20)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 
 ## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

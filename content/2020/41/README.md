@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12 - Oct 18, 2020
 
-76 awesome lists updated this week.
+77 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,20 +21,20 @@
     *   [Bookshelf (⭐6.4k)](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
     *   [Mongoose (⭐27k)](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling.
     *   [Waterline (⭐5.4k)](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
-    *   [OpenRecord (⭐486)](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
+    *   [OpenRecord (⭐485)](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
     *   [pg-promise (⭐3.5k)](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
-    *   [slonik (⭐4.6k)](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
+    *   [slonik (⭐4.7k)](https://github.com/gajus/slonik) - PostgreSQL client with strict types, detailed logging and assertions.
     *   [Objection.js (⭐7.3k)](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
     *   [TypeORM (⭐35k)](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
-    *   [MikroORM (⭐7.9k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
-    *   [Prisma (⭐40k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
-    *   [Drizzle ORM (⭐25k)](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that supports various databases such as PostgreSQL.
+    *   [MikroORM (⭐8.1k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+    *   [Prisma (⭐41k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
+    *   [Drizzle ORM (⭐27k)](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that supports various databases such as PostgreSQL.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Storage / Runner
 
-*   [awesome-web-storage (⭐442)](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
+*   [awesome-web-storage (⭐447)](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
 
 ## [4. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -302,7 +302,39 @@
 
 
 
-## [15. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C# / Non-X86
+
+*   [C# Smorgasbord](https://www.filipekberg.se) - Filip Ekberg (HTML) [(PDF, EPUB, MOBI)](https://www.filipekberg.se/2018/04/02/csharp-smorgasbord-free/) (2018)
+*   [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
+
+### Elixir / Phoenix
+
+*   [Phoenix Framework Guide](https://hexdocs.pm/phoenix/overview.html) (HTML)
+
+### Erlang / Phoenix
+
+*   [BEAM Wisdoms](http://beam-wisdoms.clau.se/en/latest/) (HTML)
+
+### Linux / TeX
+
+*   [Linux Fundamentals](http://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)
+
+### PowerShell / Zend
+
+*   [Learn PowerShell in Y Minutes](https://learnxinyminutes.com/docs/powershell/)
+
+### R / Tornado
+
+*   [Efficient R programming](https://csgillespie.github.io/efficientR/) - Colin Gillespie, Robin Lovelace
+*   [Learning Statistics with R](https://learningstatisticswithr.com/book/) - Danielle Navarro
+
+### TypeScript / Vapor
+
+*   [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/)
+
+## [16. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/week/README.md)
 
 ### Fiction / Horror
 
@@ -316,13 +348,13 @@
 
 
 
-## [16. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [17. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
 *   [netsniff-ng (⭐1.2k)](https://github.com/netsniff-ng/netsniff-ng) - Swiss army knife for network sniffing.
 
-## [17. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
+## [18. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/week/README.md)
 
 ### Blog posts and opinions
 
@@ -332,40 +364,40 @@
 
 *   [Grafana](https://prometheus.io/docs/visualization/grafana/) - Grafana is an open-source metric analytics & visualization suite *tutorial by Prometheus*.
 
-## [18. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [19. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### API Gateway / Symfony2
 
 *   [WSO2 API Management (⭐873)](https://github.com/wso2/product-apim) - API management tool with lightweight gateway and API lifecycle management, written in Java.
 
-## [19. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
+## [20. Awesome WSL](/content/sirredbeard/Awesome-WSL/week/README.md)
 
 ### Books / Miscellaneous Tools
 
 *   [Learn Windows Subsystem for Linux](https://www.apress.com/gp/book/9781484260371) - A Practical Guide for Developers and IT Professionals
 
-## [20. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [21. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Twitter
 
 *   [MyTweetAlerts](https://www.mytweetalerts.com/) - A tool to create custom email alerts based on Twitter search.
 
-## [21. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [cloudflare/boringtun (⭐6.2k)](https://github.com/cloudflare/boringtun) - A Userspace WireGuard VPN Implementation [![build badge](https://img.shields.io/badge/crates.io-v0.2.0-orange.svg)](https://crates.io/crates/boringtun)
+*   [cloudflare/boringtun (⭐6.3k)](https://github.com/cloudflare/boringtun) - A Userspace WireGuard VPN Implementation [![build badge](https://img.shields.io/badge/crates.io-v0.2.0-orange.svg)](https://crates.io/crates/boringtun)
 *   [fcsonline/drill (⭐2.1k)](https://github.com/fcsonline/drill) - A HTTP load testing application inspired by Ansible syntax
-*   [nicohman/eidolon (⭐126)](https://github.com/nicohman/eidolon) - A steam and drm-free game registry and launcher for linux and macosx
-*   [Weld (⭐307)](https://github.com/serayuzgur/weld) - Full fake REST API generator
+*   [nicohman/eidolon (⭐127)](https://github.com/nicohman/eidolon) - A steam and drm-free game registry and launcher for linux and macosx
+*   [Weld (⭐311)](https://github.com/serayuzgur/weld) - Full fake REST API generator
 
 ### Applications / Audio and Music
 
-*   [Polaris (⭐1.5k)](https://github.com/agersant/polaris) - A music streaming application.
+*   [Polaris (⭐2.1k)](https://github.com/agersant/polaris) - A music streaming application.
 
 ### Applications / Blockchain
 
-*   [coinbase-pro-rs (⭐147)](https://github.com/inv2004/coinbase-pro-rs) - Coinbase pro client, supports sync/async/websocket
+*   [coinbase-pro-rs (⭐148)](https://github.com/inv2004/coinbase-pro-rs) - Coinbase pro client, supports sync/async/websocket
 *   [ethaddrgen (⭐177)](https://github.com/Limeth/ethaddrgen) - Custom Ethereum vanity address generator
 
 ### Applications / Database
@@ -376,14 +408,14 @@
 ### Applications / Emulators
 
 *   Commodore 64
-    *   [kondrak/rust64 (⭐263)](https://github.com/kondrak/rust64) - Commodore 64 emulator
+    *   [kondrak/rust64 (⭐265)](https://github.com/kondrak/rust64) - Commodore 64 emulator
 *   Gameboy
-    *   [Gekkio/mooneye-gb (⭐909)](https://github.com/Gekkio/mooneye-gb) - A Game Boy research project and emulator
-    *   [joamag/boytacean (⭐629)](https://github.com/joamag/boytacean) - GameBoy Color emulator that runs on the Web using WebAssembly.
+    *   [Gekkio/mooneye-gb (⭐921)](https://github.com/Gekkio/mooneye-gb) - A Game Boy research project and emulator
+    *   [joamag/boytacean (⭐635)](https://github.com/joamag/boytacean) - GameBoy Color emulator that runs on the Web using WebAssembly.
     *   [mohanson/gameboy (⭐1.4k)](https://github.com/mohanson/gameboy) - Full featured Cross-platform GameBoy emulator. Forever boys!.
-    *   [mvdnes/rboy (⭐615)](https://github.com/mvdnes/rboy) - A Gameboy Emulator
+    *   [mvdnes/rboy (⭐616)](https://github.com/mvdnes/rboy) - A Gameboy Emulator
 *   Gameboy Advance
-    *   [michelhe/rustboyadvance-ng (⭐608)](https://github.com/michelhe/rustboyadvance-ng) - RustboyAdvance-ng is a Gameboy Advance emulator with desktop, android and [WebAssembly](https://michelhe.github.io/rustboyadvance-ng/) support. [![build badge](https://github.com/michelhe/rustboyadvance-ng/workflows/Deploy/badge.svg?branch=master)](https://github.com/michelhe/rustboyadvance-ng/actions?query=workflow%3ADeploy)
+    *   [michelhe/rustboyadvance-ng (⭐613)](https://github.com/michelhe/rustboyadvance-ng) - RustboyAdvance-ng is a Gameboy Advance emulator with desktop, android and [WebAssembly](https://michelhe.github.io/rustboyadvance-ng/) support. [![build badge](https://github.com/michelhe/rustboyadvance-ng/workflows/Deploy/badge.svg?branch=master)](https://github.com/michelhe/rustboyadvance-ng/actions?query=workflow%3ADeploy)
 
 ### Applications / Games
 
@@ -391,29 +423,29 @@
 
 ### Applications / Graphics
 
-*   [Limeth/euclider (⭐215)](https://github.com/Limeth/euclider) - A real-time 4D CPU ray tracer
+*   [Limeth/euclider (⭐216)](https://github.com/Limeth/euclider) - A real-time 4D CPU ray tracer
 
 ### Applications / Operating systems
 
 *   [redox-os/redox](https://gitlab.redox-os.org/redox-os/redox) - A Unix-like general-purpose microkernel-based operating system with a focus on security, stability, performance, correctness, simplicity and pragmatism that aims to be a complete alternative for Linux and BSD.
-*   [thepowersgang/rust\_os (⭐760)](https://github.com/thepowersgang/rust_os) - An OS kernel written in rust. Non POSIX
+*   [thepowersgang/rust\_os (⭐772)](https://github.com/thepowersgang/rust_os) - An OS kernel written in rust. Non POSIX
 
 ### Applications / Security tools
 
-*   [kpcyrd/rshijack (⭐491)](https://github.com/kpcyrd/rshijack) - A TCP connection hijacker; rewrite of shijack
-*   [kpcyrd/sn0int (⭐2.1k)](https://github.com/kpcyrd/sn0int) - A semi-automatic OSINT framework and package manager
+*   [kpcyrd/rshijack (⭐498)](https://github.com/kpcyrd/rshijack) - A TCP connection hijacker; rewrite of shijack
+*   [kpcyrd/sn0int (⭐2.2k)](https://github.com/kpcyrd/sn0int) - A semi-automatic OSINT framework and package manager
 
 ### Applications / System tools
 
-*   [brocode/fblog (⭐474)](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
-*   [ddh (⭐457)](https://github.com/darakian/ddh) - Fast duplicate file finder
+*   [brocode/fblog (⭐487)](https://github.com/brocode/fblog) - Small command-line JSON Log viewer
+*   [ddh (⭐459)](https://github.com/darakian/ddh) - Fast duplicate file finder
 *   [fselect](https://crates.io/crates/fselect) - Find files with SQL-like queries
-*   [lotabout/rargs (⭐512)](https://github.com/lotabout/rargs) \[[rargs](https://crates.io/crates/rargs)] - xargs + awk with pattern matching support
-*   [mitnk/cicada (⭐984)](https://github.com/mitnk/cicada) - A bash-like Unix shell
-*   [mmstick/tv-renamer (⭐148)](https://github.com/mmstick/tv-renamer) - A tv series renaming application with an optional GTK3 frontend.
+*   [lotabout/rargs (⭐521)](https://github.com/lotabout/rargs) \[[rargs](https://crates.io/crates/rargs)] - xargs + awk with pattern matching support
+*   [mitnk/cicada (⭐988)](https://github.com/mitnk/cicada) - A bash-like Unix shell
+*   [mmstick/tv-renamer (⭐150)](https://github.com/mmstick/tv-renamer) - A tv series renaming application with an optional GTK3 frontend.
 *   [redox-os/ion (⭐1.5k)](https://github.com/redox-os/ion) - Next-generation system shell
-*   [sitkevij/hex (⭐535)](https://github.com/sitkevij/hex) - A colorized hexdump terminal utility.
-*   [watchexec (⭐5.6k)](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+*   [sitkevij/hex (⭐539)](https://github.com/sitkevij/hex) - A colorized hexdump terminal utility.
+*   [watchexec (⭐5.7k)](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
 *   [XAMPPRocky/tokei (⭐12k)](https://github.com/XAMPPRocky/tokei) - counts the lines of code
 
 ### Applications / Text editors
@@ -424,7 +456,7 @@
 ### Applications / Text processing
 
 *   [grex (⭐7.4k)](https://github.com/pemistahl/grex) - A command-line tool and library for generating regular expressions from user-provided test cases
-*   [vishaltelangre/ff (⭐336)](https://github.com/vishaltelangre/ff) - Find files (ff) by name!
+*   [vishaltelangre/ff (⭐338)](https://github.com/vishaltelangre/ff) - Find files (ff) by name!
 *   [xsv](https://crates.io/crates/xsv) - A fast CSV command line tool (slicing, indexing, selecting, searching, sampling, etc.)
 
 ### Applications / Video
@@ -441,21 +473,21 @@
 
 ### Applications / Web Servers
 
-*   [svenstaro/miniserve (⭐6.3k)](https://github.com/svenstaro/miniserve) - A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [![build badge](https://github.com/svenstaro/miniserve/workflows/CI/badge.svg?branch=master)](https://github.com/svenstaro/miniserve/actions)
+*   [svenstaro/miniserve (⭐6.4k)](https://github.com/svenstaro/miniserve) - A small, self-contained cross-platform CLI tool that allows you to just grab the binary and serve some file(s) via HTTP [![build badge](https://github.com/svenstaro/miniserve/workflows/CI/badge.svg?branch=master)](https://github.com/svenstaro/miniserve/actions)
 
 ### Development tools / Web Servers
 
 *   [clippy](https://crates.io/crates/clippy) - Rust lints
-*   [clog-tool/clog-cli (⭐865)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
+*   [clog-tool/clog-cli (⭐873)](https://github.com/clog-tool/clog-cli) - generates a changelog from git metadata ([conventional changelog](https://blog.thoughtram.io/announcements/tools/2014/09/18/announcing-clog-a-conventional-changelog-generator-for-the-rest-of-us.html))
 *   [dotenv-linter (⭐1.9k)](https://github.com/dotenv-linter/dotenv-linter) - Linter for `.env` files [![build badge](https://github.com/dotenv-linter/dotenv-linter/workflows/CI/badge.svg?branch=master)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
-*   [git-journal (⭐616)](https://github.com/saschagrunert/git-journal/) - The Git Commit Message and Changelog Generation Framework
-*   [just (⭐23k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
+*   [git-journal (⭐620)](https://github.com/saschagrunert/git-journal/) - The Git Commit Message and Changelog Generation Framework
+*   [just (⭐24k)](https://github.com/casey/just) - A handy command runner for project-specific tasks
 *   [Racer (⭐3.4k)](https://github.com/racer-rust/racer) - code completion for Rust
 
 ### Development tools / Build system
 
 *   CMake
-    *   [Devolutions/CMakeRust (⭐170)](https://github.com/Devolutions/CMakeRust) - useful for integrating a Rust library into a CMake project
+    *   [Devolutions/CMakeRust (⭐169)](https://github.com/Devolutions/CMakeRust) - useful for integrating a Rust library into a CMake project
     *   [SiegeLord/RustCMake (⭐109)](https://github.com/SiegeLord/RustCMake) - an example project showing usage of CMake with Rust
 
 ### Development tools / Debugging
@@ -472,20 +504,20 @@
 ### Development tools / FFI
 
 *   Erlang
-    *   [rusterlium/rustler (⭐4.4k)](https://github.com/rusterlium/rustler) - safe Rust bridge for creating Erlang NIF functions
+    *   [rusterlium/rustler (⭐4.5k)](https://github.com/rusterlium/rustler) - safe Rust bridge for creating Erlang NIF functions
 *   Java
     *   [bennettanderson/rjni (⭐74)](https://github.com/benanders/rjni) - use Java from Rust
-    *   [drrb/java-rust-example (⭐341)](https://github.com/drrb/java-rust-example) - use Rust from Java
+    *   [drrb/java-rust-example (⭐340)](https://github.com/drrb/java-rust-example) - use Rust from Java
     *   [j4rs](https://crates.io/crates/j4rs) - use Java from Rust
     *   [jni](https://crates.io/crates/jni) - use Rust from Java
     *   [jni-sys](https://crates.io/crates/jni-sys) - Rust definitions corresponding to jni.h
     *   [rucaja](https://crates.io/crates/rucaja) - use Java from Rust
 *   Lua
-    *   [jcmoyer/rust-lua53 (⭐158)](https://github.com/jcmoyer/rust-lua53) - Lua 5.3 bindings for Rust
-    *   [lilyball/rust-lua (⭐127)](https://github.com/lilyball/rust-lua) - Safe Rust bindings to Lua 5.1
-    *   [mlua-rs/mlua (⭐1.9k)](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support [![build badge](https://github.com/mlua-rs/mlua/workflows/CI/badge.svg)](https://github.com/mlua-rs/mlua/actions)
-    *   [tickbh/td\_rlua (⭐53)](https://github.com/tickbh/td_rlua) \[[td\_rlua](https://crates.io/crates/td_rlua)] - Zero-cost high-level lua 5.3 wrapper for Rust
-    *   [tomaka/hlua (⭐508)](https://github.com/tomaka/hlua) - Rust library to interface with Lua
+    *   [jcmoyer/rust-lua53 (⭐157)](https://github.com/jcmoyer/rust-lua53) - Lua 5.3 bindings for Rust
+    *   [lilyball/rust-lua (⭐128)](https://github.com/lilyball/rust-lua) - Safe Rust bindings to Lua 5.1
+    *   [mlua-rs/mlua (⭐2k)](https://github.com/mlua-rs/mlua) - High level Lua 5.4/5.3/5.2/5.1 (including LuaJIT) and Roblox Luau bindings to Rust with async/await support [![build badge](https://github.com/mlua-rs/mlua/workflows/CI/badge.svg)](https://github.com/mlua-rs/mlua/actions)
+    *   [tickbh/td\_rlua (⭐52)](https://github.com/tickbh/td_rlua) \[[td\_rlua](https://crates.io/crates/td_rlua)] - Zero-cost high-level lua 5.3 wrapper for Rust
+    *   [tomaka/hlua (⭐510)](https://github.com/tomaka/hlua) - Rust library to interface with Lua
 *   mruby
     *   [anima-engine/mrusty (⭐205)](https://github.com/anima-engine/mrusty) - mruby safe bindings for Rust
 *   Python
@@ -518,12 +550,12 @@
 
 ### Libraries / Automotive
 
-*   [marcelbuesing/can-dbc (⭐68)](https://github.com/marcelbuesing/can-dbc) \[[can-dbc](https://crates.io/crates/can-dbc)] - A parser for the DBC format
+*   [marcelbuesing/can-dbc (⭐73)](https://github.com/marcelbuesing/can-dbc) \[[can-dbc](https://crates.io/crates/can-dbc)] - A parser for the DBC format
 *   [marcelbuesing/tokio-socketcan-bcm (⭐8)](https://github.com/marcelbuesing/tokio-socketcan-bcm) \[[tokio-socketcan-bcm](https://crates.io/crates/tokio-socketcan-bcm)] - Linux SocketCAN BCM support for tokio
 
 ### Libraries / Caching
 
-*   [aisk/rust-memcache (⭐137)](https://github.com/aisk/rust-memcache) - Memcached client library
+*   [aisk/rust-memcache (⭐140)](https://github.com/aisk/rust-memcache) - Memcached client library
 
 ### Libraries / Cloud
 
@@ -540,23 +572,23 @@
 ### Libraries / Compression
 
 *   miniz
-    *   [rust-lang/flate2-rs (⭐950)](https://github.com/rust-lang/flate2-rs) - [miniz](https://code.google.com/archive/p/miniz) bindings [![build badge](https://github.com/rust-lang/flate2-rs/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/flate2-rs/actions)
+    *   [rust-lang/flate2-rs (⭐975)](https://github.com/rust-lang/flate2-rs) - [miniz](https://code.google.com/archive/p/miniz) bindings [![build badge](https://github.com/rust-lang/flate2-rs/workflows/CI/badge.svg?branch=master)](https://github.com/rust-lang/flate2-rs/actions)
 *   tar
-    *   [alexcrichton/tar-rs (⭐639)](https://github.com/alexcrichton/tar-rs) - tar archive reading/writing
+    *   [alexcrichton/tar-rs (⭐650)](https://github.com/alexcrichton/tar-rs) - tar archive reading/writing
 
 ### Libraries / Computation
 
-*   [argmin-rs/argmin (⭐1k)](https://github.com/argmin-rs/argmin) \[[argmin](https://crates.io/crates/argmin)] - Optimization library
+*   [argmin-rs/argmin (⭐1.1k)](https://github.com/argmin-rs/argmin) \[[argmin](https://crates.io/crates/argmin)] - Optimization library
 *   [LAPACK](https://en.wikipedia.org/wiki/LAPACK)
-    *   [stainless-steel/lapack (⭐83)](https://github.com/blas-lapack-rs/lapack) - LAPACK bindings
+    *   [stainless-steel/lapack (⭐84)](https://github.com/blas-lapack-rs/lapack) - LAPACK bindings
 
 ### Libraries / Cryptography
 
-*   [briansmith/ring (⭐3.8k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
+*   [briansmith/ring (⭐3.9k)](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust and BoringSSL's cryptography primitives.
 *   [briansmith/webpki (⭐469)](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation.
 *   [DaGenix/rust-crypto (⭐1.4k)](https://github.com/DaGenix/rust-crypto) - cryptographic algorithms
 *   [exonum/exonum (⭐1.2k)](https://github.com/exonum/exonum) \[[exonum](https://crates.io/crates/exonum)] - extensible framework for blockchain projects
-*   [libOctavo/octavo (⭐143)](https://github.com/libOctavo/octavo) - Modular hash and crypto library
+*   [libOctavo/octavo (⭐142)](https://github.com/libOctavo/octavo) - Modular hash and crypto library
 *   [sfackler/rust-openssl (⭐1.4k)](https://github.com/sfackler/rust-openssl) - [OpenSSL](https://www.openssl.org/) bindings
 
 ### Libraries / Database
@@ -565,54 +597,54 @@
     *   Generic
         *   [launchbadge/sqlx (⭐14k)](https://github.com/launchbadge/sqlx) - async PostgreSQL/MySQL/SQLite connection pool with strong typing support [![build badge](https://img.shields.io/github/workflow/status/launchbadge/sqlx/Rust/master?style=flat-square)](https://github.com/launchbadge/sqlx)
         *   [SeaQL/sea-query (⭐1.3k)](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite [![crate](https://img.shields.io/crates/v/sea-query.svg)](https://crates.io/crates/sea-query) [![docs](https://img.shields.io/docsrs/sea-query/latest)](https://docs.rs/sea-query) [![build status](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-query/actions/workflows/rust.yml)
-        *   [SeaQL/sea-schema (⭐197)](https://github.com/SeaQL/sea-schema) - 🌿 SQL schema definition and discovery [![crate](https://img.shields.io/crates/v/sea-schema.svg)](https://crates.io/crates/sea-schema) [![docs](https://img.shields.io/docsrs/sea-schema/latest)](https://docs.rs/sea-schema) [![build status](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml)
+        *   [SeaQL/sea-schema (⭐199)](https://github.com/SeaQL/sea-schema) - 🌿 SQL schema definition and discovery [![crate](https://img.shields.io/crates/v/sea-schema.svg)](https://crates.io/crates/sea-schema) [![docs](https://img.shields.io/docsrs/sea-schema/latest)](https://docs.rs/sea-schema) [![build status](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-schema/actions/workflows/rust.yml)
     *   Microsoft SQL
-        *   [prisma/tiberius (⭐338)](https://github.com/prisma/tiberius) - [![Cargo tests](https://github.com/prisma/tiberius/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/prisma/tiberius/actions/workflows/test.yml)
+        *   [prisma/tiberius (⭐342)](https://github.com/prisma/tiberius) - [![Cargo tests](https://github.com/prisma/tiberius/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/prisma/tiberius/actions/workflows/test.yml)
     *   MySql \[[mysql](https://crates.io/keywords/mysql)]
-        *   [AgilData/mysql-proxy-rs (⭐195)](https://github.com/AgilData/mysql-proxy-rs) - A MySQL Proxy [![CircleCI](https://circleci.com/gh/AgilData/mysql-proxy-rs/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/AgilData/mysql-proxy-rs?branch=master)
-        *   [blackbeam/mysql\_async (⭐381)](https://github.com/blackbeam/mysql_async) \[[mysql\_async](https://crates.io/crates/mysql_async)] - asynchronous Mysql driver based on Tokio. [![CircleCI](https://circleci.com/gh/blackbeam/mysql_async/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/blackbeam/mysql_async?branch=master)
-        *   [blackbeam/rust-mysql-simple (⭐673)](https://github.com/blackbeam/rust-mysql-simple) \[[mysql](https://crates.io/crates/mysql)] - A native MySql client
+        *   [AgilData/mysql-proxy-rs (⭐196)](https://github.com/AgilData/mysql-proxy-rs) - A MySQL Proxy [![CircleCI](https://circleci.com/gh/AgilData/mysql-proxy-rs/tree/master.svg?style=svg)](https://app.circleci.com/pipelines/github/AgilData/mysql-proxy-rs?branch=master)
+        *   [blackbeam/mysql\_async (⭐384)](https://github.com/blackbeam/mysql_async) \[[mysql\_async](https://crates.io/crates/mysql_async)] - asynchronous Mysql driver based on Tokio. [![CircleCI](https://circleci.com/gh/blackbeam/mysql_async/tree/master.svg?style=shield)](https://app.circleci.com/pipelines/github/blackbeam/mysql_async?branch=master)
+        *   [blackbeam/rust-mysql-simple (⭐680)](https://github.com/blackbeam/rust-mysql-simple) \[[mysql](https://crates.io/crates/mysql)] - A native MySql client
     *   Oracle
-        *   [kubo/rust-oracle (⭐195)](https://github.com/kubo/rust-oracle) \[[oracle](https://crates.io/crates/oracle)] - Oracle driver [![build badge](https://github.com/kubo/rust-oracle/actions/workflows/run-tests.yml/badge.svg?branch=master)](https://github.com/kubo/rust-oracle/actions/workflows/run-tests.yml)
+        *   [kubo/rust-oracle (⭐199)](https://github.com/kubo/rust-oracle) \[[oracle](https://crates.io/crates/oracle)] - Oracle driver [![build badge](https://github.com/kubo/rust-oracle/actions/workflows/run-tests.yml/badge.svg?branch=master)](https://github.com/kubo/rust-oracle/actions/workflows/run-tests.yml)
     *   PostgreSql \[[postgres](https://crates.io/keywords/postgres), [postgresql](https://crates.io/keywords/postgresql)]
-        *   [c410-f3r/wtx (⭐247)](https://github.com/c410-f3r/wtx) - Fast implementation with a low set of external dependencies.
+        *   [c410-f3r/wtx (⭐256)](https://github.com/c410-f3r/wtx) - Fast implementation with a low set of external dependencies.
         *   [sfackler/rust-postgres (⭐3.6k)](https://github.com/sfackler/rust-postgres) \[[postgres](https://crates.io/crates/postgres)] - A native [PostgreSQL](https://www.postgresql.org/) client
     *   Sqlite \[[sqlite](https://crates.io/keywords/sqlite)]
-        *   [rusqlite (⭐3.4k)](https://github.com/rusqlite/rusqlite) - [Sqlite3](https://www.sqlite.org/index.html) bindings
+        *   [rusqlite (⭐3.5k)](https://github.com/rusqlite/rusqlite) - [Sqlite3](https://www.sqlite.org/index.html) bindings
 
 ### Libraries / Date and time
 
-*   [chronotope/chrono (⭐3.4k)](https://github.com/chronotope/chrono) - Date and time library
-*   [Mnwa/ms (⭐37)](https://github.com/Mnwa/ms) \[[ms-converter](https://crates.io/crates/ms-converter)] - it's a library for converting human-like times to milliseconds [![build badge](https://github.com/Mnwa/ms/workflows/build/badge.svg?branch=master)](https://github.com/Mnwa/ms/actions?query=workflow%3Abuild)
+*   [chronotope/chrono (⭐3.5k)](https://github.com/chronotope/chrono) - Date and time library
+*   [Mnwa/ms (⭐35)](https://github.com/Mnwa/ms) \[[ms-converter](https://crates.io/crates/ms-converter)] - it's a library for converting human-like times to milliseconds [![build badge](https://github.com/Mnwa/ms/workflows/build/badge.svg?branch=master)](https://github.com/Mnwa/ms/actions?query=workflow%3Abuild)
 
 ### Libraries / Distributed systems
 
 *   Antimony
-    *   [antimonyproject/antimony (⭐65)](https://github.com/antimonyproject/antimony) \[[antimony](https://crates.io/crates/antimony)] - stream processing / distributed computation platform
+    *   [antimonyproject/antimony (⭐64)](https://github.com/antimonyproject/antimony) \[[antimony](https://crates.io/crates/antimony)] - stream processing / distributed computation platform
 
 ### Libraries / Email
 
-*   [gsquire/sendgrid-rs (⭐110)](https://github.com/gsquire/sendgrid-rs) - Library for SendGrid API
+*   [gsquire/sendgrid-rs (⭐111)](https://github.com/gsquire/sendgrid-rs) - Library for SendGrid API
 
 ### Libraries / Encoding
 
 *   ASN.1
-    *   [alex/rust-asn1 (⭐105)](https://github.com/alex/rust-asn1) - ASN.1 (DER) serializer
+    *   [alex/rust-asn1 (⭐104)](https://github.com/alex/rust-asn1) - ASN.1 (DER) serializer
 *   Binary
-    *   [bincode-org/bincode (⭐2.8k)](https://github.com/bincode-org/bincode) - A binary encoder/decoder [![CI](https://github.com/bincode-org/bincode/actions/workflows/rust.yml/badge.svg?branch=trunk)](https://github.com/bincode-org/bincode/actions/workflows/rust.yml)
+    *   [bincode-org/bincode (⭐2.9k)](https://github.com/bincode-org/bincode) - A binary encoder/decoder [![CI](https://github.com/bincode-org/bincode/actions/workflows/rust.yml/badge.svg?branch=trunk)](https://github.com/bincode-org/bincode/actions/workflows/rust.yml)
     *   [jamesmunns/postcard (⭐1k)](https://github.com/jamesmunns/postcard) \[[postcard](https://crates.io/crates/postcard)] - Postcard is a #!\[no\_std] focused serializer and deserializer for Serde.
-    *   [m4b/goblin (⭐1.2k)](https://github.com/m4b/goblin) \[[goblin](https://crates.io/crates/goblin)] - cross-platform, zero-copy, and endian-aware binary parsing
+    *   [m4b/goblin (⭐1.3k)](https://github.com/m4b/goblin) \[[goblin](https://crates.io/crates/goblin)] - cross-platform, zero-copy, and endian-aware binary parsing
 *   Byte swapping
-    *   [BurntSushi/byteorder (⭐995)](https://github.com/BurntSushi/byteorder) - Supports big-endian, little-endian and native byte orders
+    *   [BurntSushi/byteorder (⭐1k)](https://github.com/BurntSushi/byteorder) - Supports big-endian, little-endian and native byte orders
 *   Cap'n Proto
-    *   [capnproto/capnproto-rust (⭐2.1k)](https://github.com/capnproto/capnproto-rust) - Cap'n Proto is a type system for distributed systems
+    *   [capnproto/capnproto-rust (⭐2.2k)](https://github.com/capnproto/capnproto-rust) - Cap'n Proto is a type system for distributed systems
 *   CBOR
     *   [serde\_cbor](https://crates.io/crates/serde_cbor) - CBOR support for serde
 *   Character Encoding
-    *   [hsivonen/encoding\_rs (⭐395)](https://github.com/hsivonen/encoding_rs) \[[encoding\_rs](https://crates.io/crates/encoding_rs)] - A Gecko-oriented implementation of the Encoding Standard
+    *   [hsivonen/encoding\_rs (⭐403)](https://github.com/hsivonen/encoding_rs) \[[encoding\_rs](https://crates.io/crates/encoding_rs)] - A Gecko-oriented implementation of the Encoding Standard
     *   [lifthrasiir/rust-encoding (⭐285)](https://github.com/lifthrasiir/rust-encoding) - Character encoding support for Rust. (also known as rust-encoding) It is based on WHATWG Encoding Standard, and also provides an advanced interface for error detection and recovery.
 *   CRC
-    *   [mrhooray/crc-rs (⭐194)](https://github.com/mrhooray/crc-rs) - Rust implementation of CRC(16, 32, 64) with support of various standards
+    *   [mrhooray/crc-rs (⭐197)](https://github.com/mrhooray/crc-rs) - Rust implementation of CRC(16, 32, 64) with support of various standards
 *   CSV
     *   [BurntSushi/rust-csv (⭐1.8k)](https://github.com/BurntSushi/rust-csv) - A fast and flexible CSV reader and writer, with support for Serde
 *   HTML
@@ -620,14 +652,14 @@
 *   MsgPack
     *   [3Hren/msgpack-rust (⭐1.2k)](https://github.com/3Hren/msgpack-rust) - Low/high level MessagePack implementation
 *   PEM
-    *   [jcreekmore/pem-rs (⭐56)](https://github.com/jcreekmore/pem-rs) \[[pem](https://crates.io/crates/pem)] - Parse and encode PEM-encoded data
+    *   [jcreekmore/pem-rs (⭐55)](https://github.com/jcreekmore/pem-rs) \[[pem](https://crates.io/crates/pem)] - Parse and encode PEM-encoded data
 *   RON (Rusty Object Notation)
-    *   [https://github.com/ron-rs/ron (⭐3.4k)](https://github.com/ron-rs/ron) - Rusty Object Notation
+    *   [https://github.com/ron-rs/ron (⭐3.5k)](https://github.com/ron-rs/ron) - Rusty Object Notation
 
 ### Libraries / Filesystem
 
 *   Temporary Files
-    *   [Stebalien/tempfile (⭐1.2k)](https://github.com/Stebalien/tempfile) - temporary file library
+    *   [Stebalien/tempfile (⭐1.3k)](https://github.com/Stebalien/tempfile) - temporary file library
     *   [Stebalien/xattr (⭐63)](https://github.com/Stebalien/xattr) \[[xattr](https://crates.io/crates/xattr)] - list and manipulate unix extended file attributes
     *   [zboxfs/zbox (⭐1.5k)](https://github.com/zboxfs/zbox) \[[zbox](https://crates.io/crates/zbox)] - Zero-details, privacy-focused embeddable file system.
 
@@ -637,86 +669,86 @@
     *   [SiegeLord/RustAllegro (⭐93)](https://github.com/SiegeLord/RustAllegro) - [Allegro 5](https://liballeg.org/) bindings
 *   Entity-Component Systems (ECS)
     *   [amethyst/specs (⭐2.5k)](https://github.com/amethyst/specs) - Specs Parallel ECS
-    *   [legion (⭐1.6k)](https://github.com/amethyst/legion) - A feature rich high performance ECS library with minimal boilerplate [![build badge](https://github.com/amethyst/legion/workflows/CI/badge.svg?branch=master)](https://github.com/amethyst/legion/actions)
+    *   [legion (⭐1.7k)](https://github.com/amethyst/legion) - A feature rich high performance ECS library with minimal boilerplate [![build badge](https://github.com/amethyst/legion/workflows/CI/badge.svg?branch=master)](https://github.com/amethyst/legion/actions)
 *   [SDL](http://www.libsdl.org/) \[[sdl](https://crates.io/keywords/sdl)]
     *   [brson/rust-sdl (⭐179)](https://github.com/brson/rust-sdl) - SDL1 bindings
     *   [Rust-SDL2/rust-sdl2 (⭐2.8k)](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings
 *   Victorem
-    *   [VictoremWinbringer/Victorem (⭐32)](https://github.com/VictoremWinbringer/Victorem) \[[Victorem](https://crates.io/crates/Victorem)] - Easy UDP Game Server and UDP Client framework for creating simple 2D and 3D online game prototype
+    *   [VictoremWinbringer/Victorem (⭐31)](https://github.com/VictoremWinbringer/Victorem) \[[Victorem](https://crates.io/crates/Victorem)] - Easy UDP Game Server and UDP Client framework for creating simple 2D and 3D online game prototype
 
 ### Libraries / Geospatial
 
-*   [DaveKram/coord\_transforms (⭐34)](https://github.com/DaveKram/coord_transforms) \[[coord\_transforms](https://crates.io/crates/coord_transforms)] - coordinate transformations (2-d, 3-d, and geospatial)
-*   [vlopes11/geomorph (⭐14)](https://github.com/vlopes11/geomorph) \[[geomorph](https://crates.io/crates/geomorph)] - conversion between UTM, LatLon and MGRS coordinates
+*   [DaveKram/coord\_transforms (⭐33)](https://github.com/DaveKram/coord_transforms) \[[coord\_transforms](https://crates.io/crates/coord_transforms)] - coordinate transformations (2-d, 3-d, and geospatial)
+*   [vlopes11/geomorph (⭐13)](https://github.com/vlopes11/geomorph) \[[geomorph](https://crates.io/crates/geomorph)] - conversion between UTM, LatLon and MGRS coordinates
 
 ### Libraries / Graphics
 
 *   OpenGL \[[opengl](https://crates.io/keywords/opengl)]
-    *   [brendanzab/gl-rs (⭐687)](https://github.com/brendanzab/gl-rs) - An OpenGL function pointer loader
-    *   [glium/glium (⭐3.5k)](https://github.com/glium/glium) - safe OpenGL wrapper.
+    *   [brendanzab/gl-rs (⭐694)](https://github.com/brendanzab/gl-rs) - An OpenGL function pointer loader
+    *   [glium/glium (⭐3.6k)](https://github.com/glium/glium) - safe OpenGL wrapper.
     *   [glutin](https://crates.io/crates/glutin) - Alternative to [GLFW](https://www.glfw.org/)
     *   [Kiss3d](http://kiss3d.org) - draw simple geometric figures and play with them with one-liners
-    *   [PistonDevelopers/glfw-rs (⭐654)](https://github.com/PistonDevelopers/glfw-rs) - GLFW3 bindings and idiomatic wrapper
+    *   [PistonDevelopers/glfw-rs (⭐655)](https://github.com/PistonDevelopers/glfw-rs) - GLFW3 bindings and idiomatic wrapper
 *   [Vulkan](https://www.vulkan.org/) \[[vulkan](https://crates.io/keywords/vulkan)]
     *   [erupt](https://gitlab.com/Friz64/erupt) \[[erupt](https://crates.io/crates/erupt)] - [![build badge](https://gitlab.com/Friz64/erupt/badges/main/pipeline.svg)](https://gitlab.com/Friz64/erupt/-/pipelines)
-    *   [vulkano (⭐4.6k)](https://github.com/vulkano-rs/vulkano) \[[vulkano](https://crates.io/crates/vulkano)] - Safe and rich Rust wrapper around the Vulkan API
+    *   [vulkano (⭐4.7k)](https://github.com/vulkano-rs/vulkano) \[[vulkano](https://crates.io/crates/vulkano)] - Safe and rich Rust wrapper around the Vulkan API
 
 ### Libraries / GUI
 
 *   Cocoa
-    *   [servo/core-foundation-rs (⭐1k)](https://github.com/servo/core-foundation-rs) - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS
+    *   [servo/core-foundation-rs (⭐1.1k)](https://github.com/servo/core-foundation-rs) - Rust bindings to Core Foundation and other low level libraries on Mac OS X and iOS
 *   [GTK+](https://www.gtk.org/) \[[gtk](https://crates.io/keywords/gtk)]
     *   [gtk-rs/gtk4-rs (⭐2k)](https://github.com/gtk-rs/gtk4-rs) - GTK4 binding ![CI](https://github.com/gtk-rs/gtk4-rs/workflows/CI/badge.svg)
     *   [relm (⭐2.4k)](https://github.com/antoyo/relm) - Asynchronous, GTK+-based, GUI library, inspired by Elm
 *   [libui (⭐11k)](https://github.com/andlabs/libui)
-    *   [rust-native-ui/libui-rs (⭐934)](https://github.com/rust-native-ui/libui-rs) - libui bindings.
+    *   [rust-native-ui/libui-rs (⭐931)](https://github.com/rust-native-ui/libui-rs) - libui bindings.
 *   [Sciter](https://sciter.com/)
-    *   [sciter-sdk/rust-sciter (⭐816)](https://github.com/sciter-sdk/rust-sciter) - Sciter bindings [![build badge](https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true)](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
+    *   [sciter-sdk/rust-sciter (⭐817)](https://github.com/sciter-sdk/rust-sciter) - Sciter bindings [![build badge](https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true)](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
 
 ### Libraries / Image processing
 
-*   [image-rs/image (⭐5.1k)](https://github.com/image-rs/image) - Basic imaging processing functions and methods for converting to and from image formats
-*   [teovoinea/steganography (⭐98)](https://github.com/teovoinea/steganography) \[[steganography](https://crates.io/crates/steganography)] - A simple steganography library
+*   [image-rs/image (⭐5.2k)](https://github.com/image-rs/image) - Basic imaging processing functions and methods for converting to and from image formats
+*   [teovoinea/steganography (⭐97)](https://github.com/teovoinea/steganography) \[[steganography](https://crates.io/crates/steganography)] - A simple steganography library
 
 ### Libraries / Language specification
 
-*   [shnewto/bnf (⭐264)](https://github.com/shnewto/bnf) - A library for parsing Backus–Naur form context-free grammars.
+*   [shnewto/bnf (⭐266)](https://github.com/shnewto/bnf) - A library for parsing Backus–Naur form context-free grammars.
 
 ### Libraries / Mobile
 
 *   iOS
-    *   [TimNN/cargo-lipo (⭐541)](https://github.com/TimNN/cargo-lipo) - A cargo lipo subcommand which automatically creates a universal library for use with your iOS application.
+    *   [TimNN/cargo-lipo (⭐547)](https://github.com/TimNN/cargo-lipo) - A cargo lipo subcommand which automatically creates a universal library for use with your iOS application.
 
 ### Libraries / Network programming
 
 *   FTP
-    *   [mattnenterprise/rust-ftp (⭐181)](https://github.com/mattnenterprise/rust-ftp) - an [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) client
+    *   [mattnenterprise/rust-ftp (⭐184)](https://github.com/mattnenterprise/rust-ftp) - an [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol) client
 *   NanoMsg
-    *   [thehydroimpulse/nanomsg.rs (⭐393)](https://github.com/thehydroimpulse/nanomsg.rs) - [nanomsg](https://nanomsg.org/) bindings
+    *   [thehydroimpulse/nanomsg.rs (⭐394)](https://github.com/thehydroimpulse/nanomsg.rs) - [nanomsg](https://nanomsg.org/) bindings
 *   Stomp
     *   [zslayton/stomp-rs (⭐89)](https://github.com/zslayton/stomp-rs) - A [STOMP 1.2](http://stomp.github.io/stomp-specification-1.2.html) client implementation
 *   ZeroMQ
-    *   [erickt/rust-zmq (⭐912)](https://github.com/erickt/rust-zmq) - [ZeroMQ](https://zeromq.org/) bindings
+    *   [erickt/rust-zmq (⭐921)](https://github.com/erickt/rust-zmq) - [ZeroMQ](https://zeromq.org/) bindings
 
 ### Libraries / Parsing
 
-*   [m4rw3r/chomp (⭐244)](https://github.com/m4rw3r/chomp) - A fast monadic-style parser combinator
+*   [m4rw3r/chomp (⭐243)](https://github.com/m4rw3r/chomp) - A fast monadic-style parser combinator
 *   [Marwes/combine (⭐1.3k)](https://github.com/Marwes/combine) - parser combinator library
 
 ### Libraries / Scripting
 
-*   [mun (⭐1.9k)](https://github.com/mun-lang/mun) - A compiled, statically-typed scripting language with first class hot reloading support
+*   [mun (⭐2k)](https://github.com/mun-lang/mun) - A compiled, statically-typed scripting language with first class hot reloading support
 
 ### Libraries / Template engine
 
 *   Mustache
-    *   [rustache/rustache (⭐212)](https://github.com/rustache/rustache) - a Rust implementation of the Mustache spec
+    *   [rustache/rustache (⭐213)](https://github.com/rustache/rustache) - a Rust implementation of the Mustache spec
 
 ### Libraries / Text processing
 
-*   [BurntSushi/suffix (⭐264)](https://github.com/BurntSushi/suffix) - Linear time suffix array construction (with Unicode support)
-*   [BurntSushi/tabwriter (⭐256)](https://github.com/BurntSushi/tabwriter) - Elastic tab stops (i.e., text column alignment)
-*   [mgeisler/textwrap (⭐473)](https://github.com/mgeisler/textwrap) \[[textwrap](https://crates.io/crates/textwrap)] - Word wrap text (with support for hyphenation)
+*   [BurntSushi/suffix (⭐267)](https://github.com/BurntSushi/suffix) - Linear time suffix array construction (with Unicode support)
+*   [BurntSushi/tabwriter (⭐258)](https://github.com/BurntSushi/tabwriter) - Elastic tab stops (i.e., text column alignment)
+*   [mgeisler/textwrap (⭐481)](https://github.com/mgeisler/textwrap) \[[textwrap](https://crates.io/crates/textwrap)] - Word wrap text (with support for hyphenation)
 *   [ps1dr3x/easy\_reader (⭐87)](https://github.com/ps1dr3x/easy_reader) - A reader that allows forwards, backwards and random navigations through the lines of huge files without consuming iterators
 *   [rust-lang/regex (⭐3.6k)](https://github.com/rust-lang/regex) - Regular expressions (RE2 style)
 *   [strsim-rs](https://crates.io/crates/strsim) - String similarity metrics
@@ -727,86 +759,86 @@
 
 ### Libraries / Virtualization
 
-*   [beneills/quantum (⭐274)](https://github.com/beneills/quantum) - Advanced quantum computer simulator
+*   [beneills/quantum (⭐276)](https://github.com/beneills/quantum) - Advanced quantum computer simulator
 
 ### Libraries / Web programming
 
 *   HTTP Client
     *   [alexcrichton/curl-rust (⭐1k)](https://github.com/alexcrichton/curl-rust) - [libcurl](https://curl.se/libcurl/) bindings
     *   [async-graphql (⭐3.4k)](https://github.com/async-graphql/async-graphql) - A GraphQL server library [![Build Status](https://dev.azure.com/graphql-rust/GraphQL%20Rust/_apis/build/status/graphql-rust.juniper)](https://dev.azure.com/graphql-rust/GraphQL%20Rust/_build/latest?definitionId=1)
-    *   [c410-f3r/wtx (⭐247)](https://github.com/c410-f3r/wtx) - HTTP/2 client framework
+    *   [c410-f3r/wtx (⭐256)](https://github.com/c410-f3r/wtx) - HTTP/2 client framework
     *   [DoumanAsh/yukikaze](https://gitlab.com/Douman/yukikaze) \[[yukikaze](https://crates.io/crates/yukikaze)] - Beautiful and elegant Yukikaze is little HTTP client library based on hyper. [![build badge](https://gitlab.com/Douman/yukikaze/badges/master/pipeline.svg)](https://gitlab.com/Douman/yukikaze)
-    *   [ducaale/xh (⭐5.8k)](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/xh) [![GitHub actions Status](https://github.com/ducaale/xh/workflows/CI/badge.svg?branch=master)](https://github.com/ducaale/xh/actions)
+    *   [ducaale/xh (⭐6.2k)](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/xh) [![GitHub actions Status](https://github.com/ducaale/xh/workflows/CI/badge.svg?branch=master)](https://github.com/ducaale/xh/actions)
     *   [graphql-client (⭐1.2k)](https://github.com/graphql-rust/graphql-client) - Typed, correct GraphQL requests and responses. [![GitHub actions Status](https://github.com/graphql-rust/graphql-client/workflows/CI/badge.svg?branch=master)](https://github.com/graphql-rust/graphql-client/actions)
     *   [hyperium/hyper (⭐15k)](https://github.com/hyperium/hyper) - an HTTP implementation [![CI](https://github.com/hyperium/hyper/workflows/CI/badge.svg?branch=master)](https://github.com/hyperium/hyper/actions?query=workflow%3ACI)
-    *   [plabayo/rama (⭐250)](https://github.com/plabayo/rama) - A modular service framework to move and transform your network packets, can be used among other things, to build clients with TLS, JA3/JA4, H2 and QUIC/H3 fingerprint impersonation
-    *   [rquest (⭐150)](https://github.com/0x676e67/rquest) \[[rquest](https://crates.io/crates/rquest)] - a fast Rust HTTP client with TLS, JA3/JA4, and HTTP2 fingerprint impersonation.
+    *   [plabayo/rama (⭐309)](https://github.com/plabayo/rama) - A modular service framework to move and transform your network packets, can be used among other things, to build clients with TLS, JA3/JA4, H2 and QUIC/H3 fingerprint impersonation
+    *   [rquest (⭐242)](https://github.com/0x676e67/rquest) \[[rquest](https://crates.io/crates/rquest)] - a fast Rust HTTP client with TLS, JA3/JA4, and HTTP2 fingerprint impersonation.
     *   [seanmonstar/reqwest (⭐10k)](https://github.com/seanmonstar/reqwest) - an ergonomic HTTP Client.
 *   HTTP Server
-    *   [actix/actix-web (⭐22k)](https://github.com/actix/actix-web) - A lightweight async web framework with websocket support
+    *   [actix/actix-web (⭐23k)](https://github.com/actix/actix-web) - A lightweight async web framework with websocket support
     *   [Anansi (⭐112)](https://github.com/saru-tora/anansi) - A simple full-stack web framework
     *   [branca](https://crates.io/crates/branca) - Implementation of Branca for Authenticated and Encrypted API tokens.
-    *   [c410-f3r/wtx (⭐247)](https://github.com/c410-f3r/wtx) - Low and high level HTTP/2 server
-    *   [carllerche/tower-web (⭐981)](https://github.com/carllerche/tower-web) \[[tower-web](https://crates.io/crates/tower-web)] - A fast, boilerplate free, web framework
-    *   [danclive/sincere (⭐98)](https://github.com/danclive/sincere) - A micro web framework based on hyper and multithreading.
-    *   [GildedHonour/frank\_jwt (⭐251)](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation.
-    *   [Gotham (⭐2.2k)](https://github.com/gotham-rs/gotham) - A flexible web framework that does not sacrifice safety, security or speed.
+    *   [c410-f3r/wtx (⭐256)](https://github.com/c410-f3r/wtx) - Low and high level HTTP/2 server
+    *   [carllerche/tower-web (⭐980)](https://github.com/carllerche/tower-web) \[[tower-web](https://crates.io/crates/tower-web)] - A fast, boilerplate free, web framework
+    *   [Cot (⭐619)](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers.
+    *   [GildedHonour/frank\_jwt (⭐252)](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation.
+    *   [Gotham (⭐2.3k)](https://github.com/gotham-rs/gotham) - A flexible web framework that does not sacrifice safety, security or speed.
     *   [Graphul (⭐449)](https://github.com/graphul-rs/graphul) - An Express-inspired web framework. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/graphul)
     *   [handlebars-rust (⭐1.3k)](https://github.com/sunng87/handlebars-rust) - an Iron web framework middleware.
     *   [hyperium/hyper (⭐15k)](https://github.com/hyperium/hyper) - an HTTP implementation [![CI](https://github.com/hyperium/hyper/workflows/CI/badge.svg?branch=master)](https://github.com/hyperium/hyper/actions?query=workflow%3ACI)
     *   [Iron (⭐6.1k)](https://github.com/iron/iron) - A middleware-based server framework
-    *   [Juniper (⭐5.7k)](https://github.com/graphql-rust/juniper) - GraphQL server library
-    *   [miketang84/sapper (⭐618)](https://github.com/miketang84/sapper) - A lightweight web framework built on async hyper.
-    *   [Nickel (⭐3k)](https://github.com/nickel-org/nickel.rs/) - inspired by [Express](http://expressjs.com/)
-    *   [plabayo/rama (⭐250)](https://github.com/plabayo/rama) - A modular service framework to move and transform your network packets, can also be used to fingerprint incoming clients
-    *   [poem-web/poem (⭐3.7k)](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework. [![CI](https://github.com/poem-web/poem/actions/workflows/ci.yml/badge.svg)](https://github.com/poem-web/poem/actions/workflows/ci.yml)
+    *   [Juniper (⭐5.8k)](https://github.com/graphql-rust/juniper) - GraphQL server library
+    *   [miketang84/sapper (⭐615)](https://github.com/miketang84/sapper) - A lightweight web framework built on async hyper.
+    *   [Nickel (⭐3k)](https://github.com/nickel-org/nickel.rs/) - inspired by [Express](https://expressjs.com/)
+    *   [plabayo/rama (⭐309)](https://github.com/plabayo/rama) - A modular service framework to move and transform your network packets, can also be used to fingerprint incoming clients
+    *   [poem-web/poem (⭐3.8k)](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework. [![CI](https://github.com/poem-web/poem/actions/workflows/ci.yml/badge.svg)](https://github.com/poem-web/poem/actions/workflows/ci.yml)
     *   [Rocket (⭐25k)](https://github.com/rwf2/Rocket) - Rocket is a web framework with a focus on ease-of-use, expressability, and speed
     *   [Rustless (⭐618)](https://github.com/rustless/rustless) - A REST-like API micro-framework inspired by [Grape (⭐9.9k)](https://github.com/ruby-grape/grape) and [Hyper (⭐15k)](https://github.com/hyperium/hyper)
     *   [Salvo (⭐3.6k)](https://github.com/salvo-rs/salvo) - an easy to use webframework base on hyper and tokio. [![build build](https://github.com/salvo-rs/salvo/workflows/CI%20\(Linux\)/badge.svg?branch=master\&event=push)](https://github.com/salvo-rs/salvo/actions)
     *   [Saphir (⭐92)](https://github.com/richerarc/saphir) - A progressive web framework with low-level control, without the pain.
-    *   [seanmonstar/warp (⭐9.7k)](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/warp)
-    *   [spring-rs (⭐573)](https://github.com/spring-rs/spring-rs) - spring-rs is a application framework written in rust inspired by java's spring-boot.
-    *   [tiny-http (⭐1k)](https://github.com/tiny-http/tiny-http) - Low level HTTP server library
-    *   [tokio/axum (⭐20k)](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper [![Build badge](https://github.com/tokio-rs/axum/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/tokio-rs/axum/actions/workflows/CI.yml)
-    *   [tomaka/rouille (⭐1.1k)](https://github.com/tomaka/rouille) - Web framework
-    *   [Zino (⭐872)](https://github.com/zino-rs/zino) - Next-generation framework for composable applications
+    *   [seanmonstar/warp (⭐9.8k)](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/warp)
+    *   [spring-rs (⭐616)](https://github.com/spring-rs/spring-rs) - spring-rs is a application framework written in rust inspired by java's spring-boot.
+    *   [tiny-http (⭐1.1k)](https://github.com/tiny-http/tiny-http) - Low level HTTP server library
+    *   [tokio/axum (⭐21k)](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper [![Build badge](https://github.com/tokio-rs/axum/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/tokio-rs/axum/actions/workflows/CI.yml)
+    *   [tomaka/rouille (⭐1.2k)](https://github.com/tomaka/rouille) - Web framework
+    *   [Zino (⭐895)](https://github.com/zino-rs/zino) - Next-generation framework for composable applications
 *   Static Site Generators
     *   [cobalt-org/cobalt.rs (⭐1.4k)](https://github.com/cobalt-org/cobalt.rs) - Static site generator [![Build Status](https://dev.azure.com/cobalt-org/cobalt-org/_apis/build/status/cobalt.rs?branchName=master)](https://dev.azure.com/cobalt-org/cobalt-org/_build?definitionId=2)
     *   [FuGangqiang/mdblog.rs (⭐59)](https://github.com/FuGangqiang/mdblog.rs) \[[mdblog](https://crates.io/crates/mdblog)] - Static site generator from markdown files.
     *   [getzola/zola (⭐15k)](https://github.com/getzola/zola) \[[zola](https://www.getzola.org/)] - An opinionated static site generator with everything built-in. [![Build Status](https://dev.azure.com/getzola/zola/_apis/build/status/getzola.zola?branchName=master)](https://dev.azure.com/getzola/zola/_build)
-    *   [grego/blades (⭐336)](https://github.com/grego/blades) \[[blades](https://www.getblades.org/)] - Blazing fast dead simple static site generator.
+    *   [grego/blades (⭐341)](https://github.com/grego/blades) \[[blades](https://www.getblades.org/)] - Blazing fast dead simple static site generator.
     *   [leven-the-blog/leven (⭐57)](https://github.com/leven-the-blog/leven) \[[leven](https://crates.io/crates/leven)] - A simple, parallelized blog generator.
-    *   [rochacbruno/marmite (⭐517)](https://github.com/rochacbruno/marmite/) \[[Marmite](https://rochacbruno.github.io/marmite/)] - Zero config blog generator
+    *   [rochacbruno/marmite (⭐589)](https://github.com/rochacbruno/marmite/) \[[Marmite](https://rochacbruno.github.io/marmite/)] - Zero config blog generator
 
-## [22. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
+## [23. Awesome Spark](/content/awesome-spark/awesome-spark/week/README.md)
 
 ### Packages / Interfaces
 
 *   [Koalas (⭐3.3k)](https://github.com/databricks/koalas) <img src="https://img.shields.io/github/last-commit/databricks/koalas.svg"> - Pandas DataFrame API on top of Apache Spark.
 
-## [23. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [24. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Books / Not specific to indie founders:
 
 *   **[Zero to Sold](http://zerotosoldbook.com/)** \[$] by [Arvid Kahl](https://thebootstrappedfounder.com/about-me/). How Arvid and his partner Danielle started, ran, and sold the bootstrapped EdTech SaaS FeedbackPanda, with everything that worked, should have worked, and didn't work.
 
-## [24. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [25. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Infrastructure as Code Analysis / Containers
 
 *   [Trivy (⭐22k)](https://github.com/aquasecurity/trivy) - *Aqua Security* - Simple and comprehensive vulnerability scanner for containers.
 
-## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [MeTube (⭐7.6k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
+*   [MeTube (⭐8.2k)](https://github.com/alexta69/metube) - Web GUI for youtube-dl, with playlist support. Allows downloading videos from dozens of websites. `AGPL-3.0` `Python/Nodejs/Docker`
 
 ### Software / Communication - Email - Mailing Lists and Newsletters
 
 *   [Postorius](https://docs.mailman3.org/projects/postorius/en/latest/) - Web user interface to access GNU Mailman. ([Source Code](https://gitlab.com/mailman/postorius/)) `GPL-3.0` `Python`
 
-## [26. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [27. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Customization / Directory Navigation
 
@@ -831,7 +863,7 @@
 *   [The Linux Documentation Project: Bash Programming - Intro/How-to](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 *   [The Linux Documentation Project: Advanced Bash Scripting Guide](https://tldp.org/LDP/abs/html/)
 
-## [27. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
+## [28. Awesome Design Systems](/content/klaufel/awesome-design-systems/week/README.md)
 
 ### Accessibility (a11y)
 
@@ -845,7 +877,7 @@
 
 *   [Theo (⭐2k)](https://github.com/salesforce-ux/theo) - Theo is an abstraction for transforming and formatting Design Tokens.
 
-## [28. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
+## [29. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/week/README.md)
 
 ### Official Websites
 
@@ -925,7 +957,7 @@
 *   [Scotchbox](https://box.scotch.io) - Popular LAMP/LEMP stack for local development.
 *   [Zauberfisch Vagrant Boxes (⭐6)](https://github.com/Zauberfisch/vagrant-boxes) -  Preconfigured Vagrant boxes for SS3 and SS4.
 
-## [29. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
+## [30. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/week/README.md)
 
 ### Images
 
@@ -935,25 +967,25 @@
 
 *   [Wikipedia: PD software](https://en.wikipedia.org/wiki/Category:Public-domain_software_with_source_code) - List of PD software on Wikipedia.
 
-## [30. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+## [31. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
 
 ### Python / Financial Instruments and Pricing
 
 *   [gs-quant (⭐8.2k)](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 
-## [31. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [32. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / GitHub
 
 *   [GitHub collapse markdown (⭐1.8k)](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
 
-## [32. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [33. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Clojure / Git
 
 *   [secrets.clj (⭐93)](https://github.com/lk-geimfari/secrets.clj) - A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
 
-## [33. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
+## [34. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
 ### Quantification / Clustering
 
@@ -964,7 +996,7 @@
 
 *   **[bcftools (⭐686)](https://github.com/samtools/bcftools)** - Set of tools for manipulating VCF files. \[ [paper-2016](https://pubmed.ncbi.nlm.nih.gov/26826718) | [paper-2017](https://pubmed.ncbi.nlm.nih.gov/28205675) | [web](http://samtools.github.io/bcftools) ]
 
-## [34. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/week/README.md)
+## [35. Awesome Algorithms Education](/content/gaerae/awesome-algorithms-education/week/README.md)
 
 ### Competitions / Advanced
 
@@ -972,31 +1004,31 @@
 *   [Google Kick Start](https://codingcompetitions.withgoogle.com/kickstart) - University students looking to develop their coding skills and potentially pursue a Google career.
 *   [Google Hash Code](https://codingcompetitions.withgoogle.com/hashcode) - Students in Africa, Europe, and the Middle East looking to work as a team on real Google problems.
 
-## [35. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [36. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Provisioning
 
 *   [All available build in provisioning providers](https://www.vagrantup.com/docs/provisioning) - official doc.
 
-## [36. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
+## [37. Awesome Gif](/content/davisonio/awesome-gif/week/README.md)
 
 ### Libraries / Swift
 
 *   [SwiftyGif (⭐1.7k)](https://github.com/kirualex/SwiftyGif) - High performance & easy to use Gif engine.
 
-## [37. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 
 *   [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
 
-## [38. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [39. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Volunteering
 
 *   [World Cleanup Day](https://www.worldcleanupday.org/) - World Cleanup Day is a civic movement, uniting 180 countries and millions of people across the world to clean up the planet. In one day. Volunteers and partners worldwide come together to rid our planet of trash – cleaning up litter and mismanaged waste from our beaches, rivers, forests, and streets.
 
-## [39. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [40. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### Useful Links
 
@@ -1006,7 +1038,7 @@
 
 *   🎨🌍🔧 [Hypercolor](https://hypercolor.dev/) - Collection of pre-configured Tailwind CSS gradients with directional options.
 
-## [40. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [41. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Communication / Collaboration and Team Tools
 
@@ -1020,19 +1052,19 @@
 
 *   [Shareful](https://sindresorhus.com/shareful) - Supercharge the system share menu with copy, save, and open actions. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/id1522267256)
 
-## [41. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [42. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
 *   [jo (⭐4.6k)](https://github.com/jpmens/jo) - A small utility to create JSON objects
 
-## [42. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [43. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### UI
 
-*   [YALG (⭐10)](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
+*   [YALG (⭐11)](https://github.com/sasszem/yalg) - A very simple, cross-platform, reactive UI for last minute UIs.
 
-## [43. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [44. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Links / Resources
 
@@ -1056,19 +1088,19 @@
 
 *   [Kotlin/dukat (⭐559)](https://github.com/Kotlin/dukat) - Converter of <any kind of declarations> to Kotlin external declarations
 
-## [44. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [45. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/) - Fully-managed database service that makes it easy to set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform.
 
-## [45. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
+## [46. Awesome Cdk](/content/kalaiser/awesome-cdk/week/README.md)
 
 ### High-Level Frameworks / Multi-accounts setup
 
 *   [cdk-stepfunctions-patterns (⭐46)](https://github.com/kolomied/cdk-stepfunctions-patterns) - A set of Step Functions high-level resiliency patterns.
 
-## [46. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
+## [47. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
 ### GitHub Tools and Management / Docker Container Actions
 
@@ -1078,7 +1110,7 @@
 
 *   [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
 
-## [47. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
+## [48. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
 ### Papers / USENIX Security
 
@@ -1093,7 +1125,7 @@
 *   [Montage: A Neural Network Language Model-Guided JavaScript Engine Fuzzer, 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/lee-suyoung)
 *   [GREYONE: Data Flow Sensitive Fuzzing, 2020](https://www.usenix.org/conference/usenixsecurity20/presentation/gan)
 
-## [48. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [49. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Online Books
 
@@ -1105,7 +1137,7 @@
 
 ### Text Modes / Apache License
 
-*   [vim-ada-bundle (⭐7)](https://github.com/thindil/Ada-Bundle) - Maintained Ada Bundle : Complete Ada-Mode for Vim/NeoVim.
+*   [vim-ada-bundle (⭐8)](https://github.com/thindil/Ada-Bundle) - Maintained Ada Bundle : Complete Ada-Mode for Vim/NeoVim.
 
 ### VSCode Extensions / Apache License
 
@@ -1145,7 +1177,7 @@
 
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters / Apache License
 
-*   [libadalang (⭐148)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
+*   [libadalang (⭐149)](https://github.com/AdaCore/libadalang/) - Libadalang is a library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 
 ### Networking and Communication Middleware / Apache License
 
@@ -1162,9 +1194,8 @@
 
 ### Graphics and Multimedia / Apache License
 
-*   [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
-*   [adagl (⭐10)](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
-*   [sdlada (⭐118)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
+*   [adagl (⭐11)](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
+*   [sdlada (⭐119)](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
 *   [ada-nanovg (⭐1)](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 *   [free-type-ada (⭐1)](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
 
@@ -1198,12 +1229,12 @@
 *   [florist](https://www.cs.fsu.edu/~baker/florist.html) - POSIX Ada binding, IEEE Standards 1003.5(b,c).
 *   [wposix (⭐4)](https://github.com/AdaCore/wposix) - Ada Windows POSIX binding.
 *   [ada-v4l2 (⭐0)](https://github.com/frett27/AdaV4L2) - Ada Posix Binding to Video 4 Linux, used for RPI.
-*   [inotify-ada (⭐8)](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.
+*   [inotify-ada (⭐9)](https://github.com/onox/inotify-ada) - An Ada 2012 library for monitoring filesystem events using Linux' inotify API.
 *   [dl-ada (⭐1)](https://github.com/mosteo/dl-ada) - Minimal binding to libdl.
 
 ### Windows and .NET / Apache License
 
-*   [win32ada (⭐17)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
+*   [win32ada (⭐18)](https://github.com/AdaCore/win32ada) - Ada API to the Windows library.
 *   [ada-net-framework (⭐5)](https://github.com/Alex-Gamper/Ada-NetFramework) - Ada bindings to the Microsoft NetFramework Api.
 *   [ada-winrt (⭐12)](https://github.com/Alex-Gamper/Ada-WinRT) - Ada bindings for the Microsft WinRT Api.
 *   [ada-win32 (⭐3)](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
@@ -1224,31 +1255,31 @@
 
 *   [ada-magic](https://www.mapusoft.com/ada-to-c-changer/) - SofCheck AdaMagic is ACATS validated and certified Ada compiler targeting C and/or C++ (4 command line switches for fine tuning). ObjectAda and several other commercial compilers share engine with AdaMagic. MapuSoft distributes AdaMagic as integral component of AppCOE.
 
-## [49. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
+## [50. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
 ### Libraries / Data Structures & Data Types
 
 *   [United (⭐11)](https://github.com/lcallarec/united) - A library for unit manipulation (like kilograms, meters, etc).
 
-## [50. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [51. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks (a-z↓)
 
 *   [Karma](http://karma-runner.github.io/latest/index.html) - A test runner by the AngularJS team, that fits all our needs.
 
-## [51. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
+## [52. Awesome Frc](/content/andrewda/awesome-frc/week/README.md)
 
 ### Repositories / Python
 
 *   [pynetworktables (⭐57)](https://github.com/robotpy/pynetworktables) - Port to allow access of NetworkTables in Python.
 
-## [52. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
+## [53. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/week/README.md)
 
 ### eCommerce & CRM / Deployment
 
 *   [Vendr\*](https://vendr.net/) - eCommerce built on top of Umbraco.
 
-## [53. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
+## [54. Awesome Competitive Programming](/content/lnishan/awesome-competitive-programming/week/README.md)
 
 ### Tutorial Websites
 
@@ -1270,7 +1301,7 @@
 
 
 
-## [54. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [55. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Libraries
 
@@ -1282,7 +1313,7 @@
 
 *   [GraphQL (⭐797)](https://github.com/dotansimha/graphql-eslint) - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
 
-## [55. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [56. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### No-Code Platforms
 
@@ -1292,7 +1323,7 @@
 
 *   [Commerce.js](https://commercejs.com/) - API-first eCommerce platform for developers.
 
-## [56. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [57. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -1306,15 +1337,15 @@
 | ------: | -------: | ---: |
 |   2 - 4 |        8 |  90m |
 
-## [57. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [58. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Examples and funny stuff
 
-*   [phoenix-ecto-encryption-example (⭐277)](https://github.com/dwyl/phoenix-ecto-encryption-example) - A comprehensive example/tutorial showing people how to use Ecto Types to transparently encrypt/decrypt data in a Phoenix 1.4 app.
+*   [phoenix-ecto-encryption-example (⭐280)](https://github.com/dwyl/phoenix-ecto-encryption-example) - A comprehensive example/tutorial showing people how to use Ecto Types to transparently encrypt/decrypt data in a Phoenix 1.4 app.
 
 ### ORM and Datamapping
 
-*   [ecto\_psql\_extras (⭐373)](https://github.com/pawurb/ecto_psql_extras) - Ecto PostgreSQL database performance insights.
+*   [ecto\_psql\_extras (⭐383)](https://github.com/pawurb/ecto_psql_extras) - Ecto PostgreSQL database performance insights.
 
 ### Testing
 
@@ -1328,7 +1359,7 @@
 
 *   [uef-lib (⭐15)](https://github.com/DOBRO/uef-lib) - Useful Erlang Functions Library that provides modules for manipulating lists, binaries, maps, numbers, date and time. It  contains some functions optimized for performance in specific cases (e.g. for file I/O operations or binary transformations).
 
-## [58. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [59. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / Java
 
@@ -1338,7 +1369,7 @@
 
 *   [DeriveJS (⭐4)](https://github.com/yuval-a/derivejs) - Reactive ODM that uses Javascript Proxies to enable transparent DB persistence
 
-## [59. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [60. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Online database creator apps
 
@@ -1348,20 +1379,20 @@
 
 *   [Outsystems](https://www.outsystems.com/) - Build Applications Fast, Right, and for the Future.
 
-## [60. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [61. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Programming languages
 
 *   [MicroPython](https://docs.micropython.org/) - a lean and efficient Python implementation for microcontrollers and constrained systems
 *   [PharoThings (⭐88)](https://github.com/pharo-iot/PharoThings) - Live programming platform for IoT projects based on [Pharo](https://pharo.org/) (a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback).
 
-## [61. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [62. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Dashboards / Custom Cards
 
 *   [Restriction Card (⭐161)](https://github.com/iantrich/restriction-card) - A card to provide restrictions on Lovelace cards defined within.
 
-## [62. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [63. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Version Control System / Online Git Service
 
@@ -1373,7 +1404,7 @@
 
 *   [Graphviz](https://www.graphviz.org/)(`Linux,Win,Max,Solaris,FreeBSD`): Open source graph visualization software.
 
-## [63. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [64. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -1429,13 +1460,13 @@
 *   [cTAKES](https://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
 *   [Snow Owl (⭐250)](https://github.com/b2ihealthcare/snow-owl) - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features.
 
-## [64. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [65. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Inclusion / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [IETF Inclusive Language](https://tools.ietf.org/html/draft-knodel-terminology-04) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ietf/terminology) - Terminology for inclusive language conventions (latest version on github).
 
-## [65. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [66. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -1458,13 +1489,13 @@
 *   [Reactflow.com](https://www.reactflow.com/) — Per site: 1,000 pages views/day, three heatmaps, three widgets, free bug tracking
 *   [howuku.com](https://howuku.com) — Track user interaction, engagement, and event. Free for up to 5,000 visits/month
 
-## [66. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [67. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Tooling / Frameworks
 
 *   [Trunk (⭐3.6k)](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust Wasm application to the web.
 
-## [67. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [68. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Files and Directories / File Sync/Sharing
 
@@ -1474,13 +1505,13 @@
 
 *   [git-all-branches (⭐7)](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 
-## [68. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
+## [69. Awesome Waves](/content/msmolyakov/awesome-waves/week/README.md)
 
 ### Portuguese / Swift
 
 *   [Telegram - Waves Portugal](https://t.me/WavesPortugal) - Chat da Comunidade Portuguesa da Waves.
 
-## [69. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
+## [70. Awesome Embedded and Iot Security](/content/fkie-cad/awesome-embedded-and-iot-security/week/README.md)
 
 ### Software Tools / Analysis Tools
 
@@ -1496,7 +1527,7 @@
     *   EU, The Hague, September.
     *   USA, Santa Clara, June.
 
-## [70. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [71. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Fonts
 
@@ -1504,9 +1535,9 @@
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [Fontsource (⭐5k)](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
+*   [Fontsource (⭐5.2k)](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
 
-## [71. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [72. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### General analytics
 
@@ -1553,21 +1584,21 @@
 *   [Superset](http://superset.apache.org/) - Modern, enterprise-ready business intelligence web application. ([Source Code (⭐49k)](https://github.com/apache/incubator-superset)) `Apache-2.0` `Python`
 *   [Socioboard](https://socioboard.org/) - `⚠` Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. ([Source Code (⭐705)](https://github.com/socioboard/Socioboard-4.0)) `GPL-3.0` `C#/JavaScript`
 
-## [72. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [73. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### C, C++
 
-*   [with-c-syntax (⭐144)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
+*   [with-c-syntax (⭐149)](https://github.com/y2q-actionman/with-c-syntax) - a fun package which introduces the C language syntax into Common Lisp. (Yes, this package is not for practical coding, I think.) WTFPL Licence.
 
 ### Function extensions
 
 *   [cl-advice (⭐1)](https://github.com/lisp-mirror/budden-tools/blob/213ab2b52a1b0c0b496efd30c3b5143f5c8e1ff2/cl-advice/README.md) - an attempt of portable layer advice library for SBCL, CCL, LispWorks and Allegro. Not in Quicklisp.
 
-### HTTP Servers / Interfaces to other package managers
+### HTTP Servers
 
 *   👍[Clack (⭐1.1k)](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL](http://opensource.franz.com/preamble.html).  Provides a unified interface to a webserver of choice (default is Hunchentoot). With more [getting started guide](https://jasom.github.io/clack-tutorial/posts/getting-started-with-clack/).
 
-## [73. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [74. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -1575,7 +1606,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [BalmUI (⭐509)](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
+*   [BalmUI (⭐510)](https://github.com/balmjs/balm-ui) - A modular and customizable UI library based on Material Design and Vue 3.0
 *   [Framework7-Vue (⭐18k)](https://github.com/framework7io/framework7) - Build full-featured iOS & Android apps using Framework7 & Vue.
 *   [Essential JS 2 for Vue](https://www.syncfusion.com/products/vue) - Full-featured 45+ Vue.js components which includes Data Grid, Chart, Scheduler and Diagram components etc.
 
@@ -1591,13 +1622,13 @@
 
 *   [Vue.js/Nuxt.js full-featured boilerplate (⭐127)](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) - professional agency frontend template for building fast, robust, and adaptable web apps or sites by vuejs/nuxtjs.
 
-## [74. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [75. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Sensor Processing / Machine Learning
 
 *   [cnn-explainer (⭐6.5k)](https://github.com/poloclub/cnn-explainer) - Learning Convolutional Neural Networks with Interactive Visualization.
 
-## [75. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [76. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Crypto
 
@@ -1607,7 +1638,7 @@
 
 *   [Nuclei (⭐10k)](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use by [@projectdiscovery](https://github.com/projectdiscovery).
 
-## [76. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [77. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin Themes
 
@@ -1616,11 +1647,7 @@
 ### Third-Party Packages / Caching
 
 *   [django-cachalot (⭐1.3k)](https://github.com/noripyt/django-cachalot) - Caches your Django ORM queries and automatically invalidates them.
-*   [django-cacheops (⭐2.1k)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
-
-### Third-Party Packages / Editors
-
-*   [django-summernote (⭐1.1k)](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor.
+*   [django-cacheops (⭐2.2k)](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 
 ### Third-Party Packages / Forms
 

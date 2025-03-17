@@ -21,7 +21,7 @@
 ### Emojis / Fonts
 
 *   [emojify.js (⭐1.8k)](https://github.com/emojione/emojify.js) - A Javascript module to convert Emoji keywords to images
-*   [emojione (⭐4.5k)](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
+*   [emojione (⭐4.4k)](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
 
 ### Iconic fonts / Fonts
 
@@ -47,11 +47,11 @@
 
 ### Images / Barcode
 
-*   [MapleBacon (⭐340)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
+*   [MapleBacon (⭐341)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
 
 ### Text / Barcode
 
-*   [MarkyMark (⭐301)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
+*   [MarkyMark (⭐304)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
 
 ### UICollectionView / Barcode
 
@@ -87,11 +87,11 @@ Wifi pw: `fermento`
 
 ### HTTP
 
-*   [neuron (⭐331)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐330)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
-*   [expat (⭐177)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
+*   [expat (⭐176)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 
 ### Natural Language Processing (NLP)
 

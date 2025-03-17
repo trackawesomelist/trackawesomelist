@@ -10,7 +10,7 @@
 
 ### Table of Contents / Testing
 
-*   [PHPUnit Polyfills (⭐176)](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
+*   [PHPUnit Polyfills (⭐178)](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
 
 ### Table of Contents / Documentation
 
@@ -24,13 +24,13 @@
 
 ### Time Series / Others
 
-*   [skforecast (⭐1.1k)](https://github.com/JoaquinAmatRodrigo/skforecast) - Time series forecasting with machine learning models
+*   [skforecast (⭐1.3k)](https://github.com/JoaquinAmatRodrigo/skforecast) - Time series forecasting with machine learning models
 
 ## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### (requires Neovim 0.5)
 
-*   [mawkler/refjump.nvim (⭐49)](https://github.com/mawkler/refjump.nvim) - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
+*   [mawkler/refjump.nvim (⭐50)](https://github.com/mawkler/refjump.nvim) - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
 
 ## [4. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 

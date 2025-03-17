@@ -42,7 +42,7 @@
 
 ### Other Tools / Steam
 
-*   [sn0int (⭐2.1k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
+*   [sn0int (⭐2.2k)](https://github.com/kpcyrd/sn0int) - Semi-automatic OSINT framework and package manager.
 
 ## [6. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -59,7 +59,7 @@
 ### Messaging / Text-Based User Interfaces
 
 *   [Apache Qpid](https://qpid.apache.org) - Apache Qpid makes messaging tools that speak AMQP and support many languages and platforms.
-*   [RabbitMQ Java client (⭐1.2k)](https://github.com/rabbitmq/rabbitmq-java-client) - RabbitMQ client.
+*   [RabbitMQ Java client (⭐1.3k)](https://github.com/rabbitmq/rabbitmq-java-client) - RabbitMQ client.
 
 ### Miscellaneous / Text-Based User Interfaces
 
@@ -67,13 +67,13 @@
 
 ### Monitoring / Text-Based User Interfaces
 
-*   [Jaeger client (⭐491)](https://github.com/jaegertracing/jaeger-client-java) - Jaeger client.
+*   [Jaeger client (⭐490)](https://github.com/jaegertracing/jaeger-client-java) - Jaeger client.
 
 ### Security / Other
 
-*   [Kalium (⭐208)](https://github.com/abstractj/kalium) - Binding for the Networking and Cryptography (NaCl) library.
+*   [Kalium (⭐209)](https://github.com/abstractj/kalium) - Binding for the Networking and Cryptography (NaCl) library.
 
-### Websites / Other
+### Websites / Socials
 
 *   [Baeldung](https://www.baeldung.com)
 *   [Dzone](https://dzone.com)

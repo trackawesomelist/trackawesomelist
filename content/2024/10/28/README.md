@@ -19,11 +19,10 @@
 *   [AI for Google Slides](https://www.aiforgoogleslides.com/) - AI presentation maker for Google Slides
 *   [FARSITE](https://far.site/) - AI-powered Compliance Software for U.S. Government Contractors
 *   [GOSH](https://gosh.app) - Free AI Price Tracker - Track any price of any product at any store using AI
-*   \[Pomodoro Timer Tools] - Minimal AI-Driven Pomodoro Timer App
 
 ### Text / Developer tools
 
-*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐7.9k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐8.8k)](https://github.com/langfuse/langfuse)
 *   [CodeRabbit](https://coderabbit.ai/) - An AI-powered code review tool that helps developers improve code quality and productivity.
 *   [Pagerly](https://www.pagerly.io) - Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.
 *   [Hexabot](https://hexabot.ai) - A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions)
@@ -62,7 +61,7 @@
 *   [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
 *   [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
 *   [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
-*   [Harbor (⭐1k)](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
+*   [Harbor (⭐1.4k)](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
 
 ### Learn AI free / Machine Learning
 
@@ -96,10 +95,14 @@
 
 ### CLI
 
-*   [Ctrl+C (⭐24)](https://github.com/evgenykislov/ctrl-c) - Crossplatform C++11 library to handle Ctrl+C event in custom functions. \[MIT]
-*   [tuibox (⭐145)](https://github.com/Cubified/tuibox) - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. \[MIT]
+*   [Ctrl+C (⭐25)](https://github.com/evgenykislov/ctrl-c) - Crossplatform C++11 library to handle Ctrl+C event in custom functions. \[MIT]
+*   [tuibox (⭐158)](https://github.com/Cubified/tuibox) - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. \[MIT]
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+
+### AI-Powered Code Generation
+
+*   [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q\&A, Testing, Debugging and System Design or create your own purpose-built agents.
 
 ### Attacks on LLMs / Multi-agents
 
@@ -108,10 +111,6 @@
 ### Image Segmentation / Deforum
 
 *   [Melies](https://melies.co/): All-in-one AI filmmaking software
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q\&A, Testing, Debugging and System Design or create your own purpose-built agents.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

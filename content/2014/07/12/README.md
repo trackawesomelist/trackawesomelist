@@ -16,9 +16,9 @@
 ### Packages / Text
 
 *   [iconv-lite (⭐3.1k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐584)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
-*   [indent-string (⭐112)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
-*   [strip-indent (⭐135)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+*   [escape-string-regexp (⭐586)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [indent-string (⭐113)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
+*   [strip-indent (⭐136)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
 
@@ -30,11 +30,11 @@
 
 ### Packages / Network
 
-*   [get-port (⭐880)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐890)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Weird
 
-*   [superb (⭐393)](https://github.com/sindresorhus/superb) - Get superb like words.
+*   [superb (⭐392)](https://github.com/sindresorhus/superb) - Get superb like words.
 *   [cool-ascii-faces (⭐1.8k)](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
@@ -55,7 +55,7 @@
 
 ### Key-value Data Model
 
-*   [Riak (⭐3.8k)](https://github.com/basho/riak) - a decentralized datastore.
+*   [Riak (⭐4k)](https://github.com/basho/riak) - a decentralized datastore.
 
 ### Applications
 
@@ -63,11 +63,11 @@
 
 ### Data Visualization
 
-*   [Arbor (⭐2.6k)](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
+*   [Arbor (⭐2.7k)](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
 *   [Cubism (⭐4.9k)](https://github.com/square/cubism) - JavaScript library for time series visualization.
 *   [Envisionjs (⭐1.6k)](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
-*   [Matplotlib (⭐17k)](https://github.com/matplotlib/matplotlib) - plotting with Python.
-*   [Recline (⭐2.1k)](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
+*   [Matplotlib (⭐21k)](https://github.com/matplotlib/matplotlib) - plotting with Python.
+*   [Recline (⭐2.2k)](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
 *   [Sigma.js (⭐11k)](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 
 ## [5. Awesome Html5](/content/diegocard/awesome-html5/README.md)

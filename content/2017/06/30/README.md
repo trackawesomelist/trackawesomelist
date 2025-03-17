@@ -52,14 +52,14 @@
 
 ### Monitoring & Quality Control
 
-*   [BeaqleJS (⭐86)](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
+*   [BeaqleJS (⭐87)](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
 *   [MediaInfo](https://mediaarea.net/en/MediaInfo) - A convenient unified display of the most relevant technical and tag data for video and audio files.
 *   [Photon (⭐239)](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard.
-*   [QCTools (⭐319)](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
-*   [Rotter (⭐50)](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
-*   [silan (⭐39)](https://github.com/x42/silan) -  Audiofile silence analyzer.
-*   [VMAF (⭐4.7k)](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
-*   [Wisual (⭐19)](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
+*   [QCTools (⭐322)](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
+*   [Rotter (⭐51)](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
+*   [silan (⭐38)](https://github.com/x42/silan) -  Audiofile silence analyzer.
+*   [VMAF (⭐4.8k)](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
+*   [Wisual (⭐20)](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
 
 ### Radio Production
 

@@ -67,13 +67,19 @@
 
 *   [is-empty-object (⭐11)](https://github.com/gummesson/is-empty-object) - Check if an object is empty.
 
-## [4. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
+## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+
+### Third Party APIs
+
+*   [stripity\_stripe (⭐1k)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+
+## [5. Awesome Influxdb](/content/mark-rushakoff/awesome-influxdb/README.md)
 
 ### Projects / Non-dedicated
 
 *   [Riemann (⭐4.1k)](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure
 
-## [5. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [6. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Libraries
 
@@ -83,28 +89,18 @@
 
 *   [angular-schema-form (⭐2.5k)](https://github.com/json-schema-form/angular-schema-form) - Generate forms. (AngularJS)
 
-## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [7. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
 *   [k (⭐1.8k)](https://github.com/supercrabtree/k) - k is a Zsh script to make directory listings more readable, adding Git status, fileweight colors and rotting dates
 
-## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [8. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Samples
 
 *   [vkcube (⭐115)](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
     drm/kms.
-
-## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
-
-### Examples and funny stuff
-
-*   [kaisuu (⭐66)](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
-
-### Third Party APIs
-
-*   [stripity\_stripe (⭐996)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

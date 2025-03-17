@@ -29,7 +29,7 @@
 
 ### Animations / Other
 
-*   [GreenSock-JS (⭐19k)](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
+*   [GreenSock-JS (⭐20k)](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
 
 ## [5. Awesome Play1](/content/PerfectCarl/awesome-play1/README.md)
 
@@ -147,7 +147,7 @@
 
 ### Java / Data Analysis / Data Visualization
 
-*   [Spark (⭐40k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
+*   [Spark (⭐41k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -156,8 +156,8 @@
 
 ### Julia / General-Purpose Machine Learning
 
-*   [PGM (⭐52)](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
-*   [Clustering (⭐356)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
+*   [PGM (⭐54)](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
+*   [Clustering (⭐360)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
 
 ### Julia / Data Analysis / Data Visualization
 
@@ -183,7 +183,7 @@
     *   filter-bank visualization
     *   saliency-networks
 *   [Training a Convnet for the Galaxy-Zoo Kaggle challenge(CUDA demo) (⭐35)](https://github.com/soumith/galaxyzoo)
-*   [torch-datasets (⭐37)](https://github.com/rosejn/torch-datasets) - Scripts to load several popular datasets including:
+*   [torch-datasets (⭐36)](https://github.com/rosejn/torch-datasets) - Scripts to load several popular datasets including:
     *   BSR 500
     *   CIFAR-10
     *   COIL
@@ -198,7 +198,7 @@
 
 ### .NET / Natural Language Processing
 
-*   [Stanford.NLP for .NET (⭐598)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
+*   [Stanford.NLP for .NET (⭐603)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
 
 ### Python / Computer Vision
 
@@ -212,7 +212,7 @@
 
 *   [MLlib in Apache Spark](http://spark.apache.org/docs/latest/mllib-guide.html) - Distributed machine learning library in Spark
 *   [BigML](https://bigml.com) - A library that contacts external servers.
-*   [Restricted Boltzmann Machines (⭐953)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
+*   [Restricted Boltzmann Machines (⭐960)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
@@ -229,7 +229,7 @@
 
 ### Ruby / Data Analysis / Data Visualization
 
-*   [Bioruby (⭐378)](https://github.com/bioruby/bioruby)
+*   [Bioruby (⭐379)](https://github.com/bioruby/bioruby)
 
 ### Ruby / Misc
 
@@ -242,7 +242,7 @@
 ### Scala / General-Purpose Machine Learning
 
 *   [adam (⭐1k)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
-*   [bioscala (⭐109)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
+*   [bioscala (⭐110)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 *   [BIDMach (⭐915)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
 
 ---

@@ -32,14 +32,14 @@
 
 ### Notebooks / Third-party APIs
 
-*   [Darkmatter (⭐356)](https://github.com/tamamu/darkmatter) - A
+*   [Darkmatter (⭐358)](https://github.com/tamamu/darkmatter) - A
     notebook-style Common Lisp environment. [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [vuejs-extension-pack vscode (⭐37)](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
+*   [vuejs-extension-pack vscode (⭐38)](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

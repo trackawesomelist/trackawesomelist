@@ -365,7 +365,7 @@
 *   [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 *   [algorithms (⭐5.3k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 *   [c-algorithms (⭐3.4k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
-*   [papers-we-love (⭐90k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [papers-we-love (⭐91k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ### Concurrency
 
@@ -743,7 +743,7 @@
 
 ### Java / Data Analysis / Data Visualization
 
-*   [Spark (⭐40k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
+*   [Spark (⭐41k)](https://github.com/apache/spark) - Spark is a fast and general engine for large-scale data processing.
 
 ### JavaScript / Data Analysis / Data Visualization
 
@@ -752,8 +752,8 @@
 
 ### Julia / General-Purpose Machine Learning
 
-*   [PGM (⭐52)](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
-*   [Clustering (⭐356)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
+*   [PGM (⭐54)](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
+*   [Clustering (⭐360)](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
 
 ### Julia / Data Analysis / Data Visualization
 
@@ -761,7 +761,7 @@
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DSP (⭐388)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
+*   [DSP (⭐392)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 
 ### Lua / General-Purpose Machine Learning
 
@@ -783,7 +783,7 @@
     *   filter-bank visualization
     *   saliency-networks
 *   [Training a Convnet for the Galaxy-Zoo Kaggle challenge(CUDA demo) (⭐35)](https://github.com/soumith/galaxyzoo)
-*   [torch-datasets (⭐37)](https://github.com/rosejn/torch-datasets) - Scripts to load several popular datasets including:
+*   [torch-datasets (⭐36)](https://github.com/rosejn/torch-datasets) - Scripts to load several popular datasets including:
     *   BSR 500
     *   CIFAR-10
     *   COIL
@@ -798,7 +798,7 @@
 
 ### .NET / Natural Language Processing
 
-*   [Stanford.NLP for .NET (⭐598)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
+*   [Stanford.NLP for .NET (⭐603)](https://github.com/sergey-tihon/Stanford.NLP.NET/) - A full port of Stanford NLP packages to .NET and also available precompiled as a NuGet package.
 
 ### Python / Computer Vision
 
@@ -817,7 +817,7 @@
 *   [NuPIC (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing.
 *   [PyBrain (⭐2.9k)](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 *   [python-recsys (⭐1.5k)](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
-*   [Restricted Boltzmann Machines (⭐953)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
+*   [Restricted Boltzmann Machines (⭐960)](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. \[DEEP LEARNING]
 
 ### Python / Data Analysis / Data Visualization
 
@@ -834,11 +834,11 @@
 *   [thinking stats 2 (⭐8)](https://github.com/Wavelets/ThinkStats2)
 *   [hyperopt (⭐1.6k)](https://github.com/hyperopt/hyperopt-sklearn)
 *   [numpic (⭐6.3k)](https://github.com/numenta/nupic)
-*   [ipython-notebooks (⭐566)](https://github.com/ogrisel/notebooks)
+*   [ipython-notebooks (⭐567)](https://github.com/ogrisel/notebooks)
 *   [decision-weights (⭐33)](https://github.com/CamDavidsonPilon/decision-weights)
 *   [Sarah Palin LDA (⭐9)](https://github.com/Wavelets/sarah-palin-lda) - Topic Modelling the Sarah Palin emails.
 *   [sentiment-analyzer (⭐52)](https://github.com/madhusudancs/sentiment-analyzer) - Tweets Sentiment Analyzer
-*   [sentiment\_classifier (⭐172)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
+*   [sentiment\_classifier (⭐171)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
 *   [jProcessing (⭐148)](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
 
 ### Python / Kaggle Competition Source Code
@@ -852,7 +852,7 @@
 ### Ruby / Data Analysis / Data Visualization
 
 *   [SciRuby](http://sciruby.com/)
-*   [Bioruby (⭐378)](https://github.com/bioruby/bioruby)
+*   [Bioruby (⭐379)](https://github.com/bioruby/bioruby)
 
 ### Ruby / Misc
 
@@ -861,8 +861,8 @@
 ### Scala / Natural Language Processing
 
 *   [ScalaNLP](http://www.scalanlp.org/) - ScalaNLP is a suite of machine learning and numerical computing libraries.
-*   [Breeze (⭐3.4k)](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
-*   [FACTORIE (⭐552)](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modelling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
+*   [Breeze (⭐3.5k)](https://github.com/scalanlp/breeze) - Breeze is a numerical processing library for Scala.
+*   [FACTORIE (⭐551)](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modelling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
 
 ### Scala / Data Analysis / Data Visualization
 
@@ -871,19 +871,19 @@
 ### Scala / General-Purpose Machine Learning
 
 *   [adam (⭐1k)](https://github.com/bigdatagenomics/adam) - A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet. Apache 2 licensed.
-*   [bioscala (⭐109)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
+*   [bioscala (⭐110)](https://github.com/bioscala/bioscala) - Bioinformatics for the Scala programming language
 *   [BIDMach (⭐915)](https://github.com/BIDData/BIDMach) - CPU and GPU-accelerated Machine Learning Library.
-*   [Figaro (⭐757)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
+*   [Figaro (⭐756)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 
 ### Credits / Misc
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐227k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐232k)](https://github.com/vinta/awesome-python)
 
 ## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Strings
 
-*   [ANSI to HTML5 (⭐239)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
+*   [ANSI to HTML5 (⭐242)](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 
 ## [20. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -1028,18 +1028,18 @@
 
 ### Misc / Other
 
-*   [emijrp/awesome-awesome (⭐2.8k)](https://github.com/emijrp/awesome-awesome)
-*   [sindresorhus/awesome (⭐320k)](https://github.com/sindresorhus/awesome)
+*   [emijrp/awesome-awesome (⭐2.9k)](https://github.com/emijrp/awesome-awesome)
+*   [sindresorhus/awesome (⭐350k)](https://github.com/sindresorhus/awesome)
 *   [bayandin/awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
-*   [jnv/list (⭐9.8k)](https://github.com/jnv/lists)
+*   [jnv/list (⭐10k)](https://github.com/jnv/lists)
 
 ### Data Visualization / Runner
 
-*   [three.js (⭐101k)](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+*   [three.js (⭐105k)](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 
 ### Files / Runner
 
-*   [Papa Parse (⭐12k)](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
+*   [Papa Parse (⭐13k)](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
 
 ### Color / Runner
 
@@ -1047,25 +1047,25 @@
 
 ### Security / Runner
 
-*   [DOMPurify (⭐14k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
-*   [js-xss (⭐5.2k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+*   [DOMPurify (⭐15k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
+*   [js-xss (⭐5.3k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 
 ### Log / Runner
 
-*   [console.log-wrapper (⭐406)](https://github.com/patik/console.log-wrapper) - Log to the console in any browser with clarity.
-*   [loglevel (⭐2.6k)](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
+*   [console.log-wrapper (⭐407)](https://github.com/patik/console.log-wrapper) - Log to the console in any browser with clarity.
+*   [loglevel (⭐2.7k)](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
 
 ### Loading Status / Runner
 
 *   [SpinKit (⭐19k)](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
-*   [Ladda (⭐7.9k)](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
+*   [Ladda (⭐7.8k)](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 
 ### Scroll / Other
 
 *   [headroom (⭐11k)](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it.
 *   [onepage-scroll (⭐9.5k)](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin.
 *   [skrollr (⭐19k)](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery.
-*   [parallax (⭐16k)](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device.
+*   [parallax (⭐17k)](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device.
 *   [stellar.js (⭐4.6k)](https://github.com/markdalgleish/stellar.js) - Parallax scrolling made easy.
 *   [plax (⭐2.3k)](https://github.com/cameronmcefee/plax) - jQuery powered parallaxing.
 *   [jparallax (⭐1.1k)](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect.
@@ -1078,7 +1078,7 @@
 
 *   [velocity (⭐17k)](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 *   [jquery.transit (⭐7.3k)](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
-*   [GreenSock-JS (⭐19k)](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
+*   [GreenSock-JS (⭐20k)](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
 
 ---
 

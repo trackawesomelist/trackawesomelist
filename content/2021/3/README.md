@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 18 - Jan 24, 2021
 
-52 awesome lists updated this week.
+53 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Command Line
 
-*   [Swift Argument Parser (⭐3.3k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
+*   [Swift Argument Parser (⭐3.4k)](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
 
 ### Cards / Barcode
 
@@ -145,12 +145,12 @@
 
 ### Applications / System tools
 
-*   [cristianoliveira/funzzy (⭐262)](https://github.com/cristianoliveira/funzzy) - A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
+*   [cristianoliveira/funzzy (⭐271)](https://github.com/cristianoliveira/funzzy) - A configurable filesystem watcher inspired by [entr](http://eradman.com/entrproject/)
 
 ### Libraries / GUI
 
-*   [ImGui (⭐63k)](https://github.com/ocornut/imgui)
-    *   [imgui-rs (⭐2.7k)](https://github.com/imgui-rs/imgui-rs) - Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
+*   [ImGui (⭐64k)](https://github.com/ocornut/imgui)
+    *   [imgui-rs (⭐2.8k)](https://github.com/imgui-rs/imgui-rs) - Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
 ## [5. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -162,7 +162,7 @@
 
 ### Models and Projects / JAX
 
-*   [Fourier Feature Networks](https://github.com/tancik/fourier-feature-networks) - Official implementation of [*Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains*](https://people.eecs.berkeley.edu/~bmild/fourfeat).
+*   [Fourier Feature Networks (⭐1.3k)](https://github.com/tancik/fourier-feature-networks) - Official implementation of [*Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains*](https://people.eecs.berkeley.edu/~bmild/fourfeat).
 
 ### Videos / NumPyro
 
@@ -181,7 +181,7 @@
 
 *   [Using JAX to accelerate our research by David Budden and Matteo Hessel](https://deepmind.com/blog/article/using-jax-to-accelerate-our-research) - Describes the state of JAX and the JAX ecosystem at DeepMind.
 *   [Getting started with JAX (MLPs, CNNs & RNNs) by Robert Lange](https://roberttlange.github.io/posts/2020/03/blog-post-10/) - Neural network building blocks from scratch with the basic JAX operators.
-*   [Tutorial: image classification with JAX and Flax Linen by 8bitmp3 (⭐22)](https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen) - Learn how to create a simple convolutional network with the Linen API by Flax and train it to recognize handwritten digits.
+*   [Tutorial: image classification with JAX and Flax Linen by 8bitmp3 (⭐24)](https://github.com/8bitmp3/JAX-Flax-Tutorial-Image-Classification-with-Linen) - Learn how to create a simple convolutional network with the Linen API by Flax and train it to recognize handwritten digits.
 *   [Meta-Learning in 50 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/02/maml-jax.html) - Introduction to both JAX and Meta-Learning.
 *   [Normalizing Flows in 100 Lines of JAX by Eric Jang](https://blog.evjang.com/2019/07/nf-jax.html) - Concise implementation of [RealNVP](https://arxiv.org/abs/1605.08803).
 *   [Differentiable Path Tracing on the GPU/TPU by Eric Jang](https://blog.evjang.com/2019/11/jaxpt.html) - Tutorial on implementing path tracing.
@@ -193,7 +193,7 @@
 
 ### Projects / Boilerplate
 
-*   [launchr (⭐234)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
+*   [launchr (⭐235)](https://github.com/jayfk/launchr) - Launchr is a specialized Django starter template for SaaS web apps.
 
 ## [8. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/week/README.md)
 
@@ -229,7 +229,7 @@
 
 ### Packages / Node.js management
 
-*   [fnm (⭐19k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+*   [fnm (⭐20k)](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
 ## [12. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
@@ -512,7 +512,7 @@
 
 ### Software / DNS
 
-*   [blocky (⭐5k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
+*   [blocky (⭐5.1k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
 
 ## [21. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -544,11 +544,11 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [2D Day/Night Cycle (⭐345)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D.
+*   [2D Day/Night Cycle (⭐347)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D.
 
 ### Plugins and scripts / Godot version unknown
 
-*   [GDSerCommPlugin (⭐87)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
+*   [GDSerCommPlugin (⭐94)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
 
 ### Modules / Godot 4
 
@@ -557,24 +557,24 @@
 ### Modules / Godot 3
 
 *   [FMOD Integration (⭐178)](https://github.com/alexfonseka/godot-fmod-integration) - Module to integrate the FMOD audio engine in Godot.
-*   [Gdnet for Godot 3 (⭐127)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
+*   [Gdnet for Godot 3 (⭐126)](https://github.com/PerduGames/gdnet3) - An ENet wrapper for Godot 3.
 *   [godot-apple-id (⭐34)](https://github.com/Wild-Pluto/godot-apple-id) - Module for sign in with Apple in Godot.
-*   [godotcord (⭐53)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
-*   [godot-python (⭐1.9k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
-*   [Godot-Slicer (⭐116)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐1.9k)](https://github.com/DavidArayan/ezy-slice) for Godot.
-*   [godot-voxel (⭐2.8k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds.
-*   [Goost (⭐489)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
+*   [godotcord (⭐55)](https://github.com/drachenfrucht1/godotcord) - A wrapper for the [Discord Game SDK](https://discord.com/developers/docs/game-sdk/sdk-starter-guide).
+*   [godot-python (⭐2k)](https://github.com/touilleMan/godot-python) - Python support for Godot 3.
+*   [Godot-Slicer (⭐118)](https://github.com/cj-dimaggio/godot-slicer) - A port of [Ezy-Slicer (⭐2k)](https://github.com/DavidArayan/ezy-slice) for Godot.
+*   [godot-voxel (⭐2.9k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds.
+*   [Goost (⭐490)](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable extension.
 *   [PortAudio (⭐18)](https://github.com/sebastian-heinz/portaudio) - Wrapper methods and Godot-friendly types to use [PortAudio](http://www.portaudio.com).
 
 ### Modules / Godot version unknown
 
-*   [godot-anl (⭐110)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐81)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
-*   [godot-enet-better (⭐93)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
+*   [godot-anl (⭐110)](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library (⭐80)](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+*   [godot-enet-better (⭐94)](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
 *   [Head tracking using OpenCV (⭐48)](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 *   [Open Adaptive Music Library (⭐58)](https://github.com/oamldev/oamlGodotModule)
 *   [NativeDialogs (⭐22)](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
 *   [RawPacker (⭐23)](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
-*   [spine (⭐133)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
+*   [spine (⭐134)](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
 *   [WaterSplash 2D node (⭐41)](https://github.com/laverneth/water)
 
 ### Bash scripts / Godot version unknown
@@ -585,7 +585,7 @@
 
 ### Other / Godot version unknown
 
-*   [gd2cs.py (⭐93)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
+*   [gd2cs.py (⭐96)](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
 
 ## [25. Awesome Meteor](/content/Urigo/awesome-meteor/week/README.md)
 
@@ -605,10 +605,6 @@
 
 ## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
-### Authentication
-
-*   [phx\_gen\_auth (⭐772)](https://github.com/aaronrenner/phx_gen_auth) - An authentication system generator for Phoenix 1.5 applications.
-
 ### Security
 
 *   [Ockam (⭐4.5k)](https://github.com/ockam-network/ockam) - A suite of tools, programming libraries and infrastructure that make it easy to build devices that communicate securely, privately and trustfully with cloud services and other devices. [Docs](https://www.ockam.io/learn/concepts/) .
@@ -627,9 +623,9 @@
 
 ### Tools and session management
 
-*   [libtmux (⭐1k)](https://github.com/tmux-python/libtmux) Python API for tmux
+*   [libtmux (⭐1.1k)](https://github.com/tmux-python/libtmux) Python API for tmux
 *   [teamocil (⭐2.4k)](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
-*   [tmuxp (⭐4.1k)](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
+*   [tmuxp (⭐4.2k)](https://github.com/tmux-python/tmuxp) :computer: tmux session manager and python library
 
 ### Books / Development and testing
 
@@ -658,7 +654,7 @@
 
 ### CRM
 
-*   [Hitobito (⭐385)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
+*   [Hitobito (⭐403)](https://github.com/hitobito/hitobito) - An open source Ruby on Rails based community management solution.
 
 ## [33. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
@@ -882,7 +878,21 @@
 *   [Second Career Devs](https://secondcareerdevs.com/) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
 *   [The Hackersploit Podcast](https://www.listennotes.com/podcasts/the-hackersploit-podcast-alexis-rwTafnO1K9c/) - The HackerSploit podcast is aimed at educating anyone interested in Infosec, Hacking or Cybersecurity.
 
-## [51. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
+## [51. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### BETA / Non-X86
+
+*   [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
+
+### JavaScript / React
+
+*   [React Book, your beginner guide to React (⭐1.3k)](https://github.com/softchris/react-book/) - Chris Noring
+
+### JavaScript / Vue.js
+
+*   [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
+
+## [52. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
 ### Frameworks and Stacks
 
@@ -900,7 +910,7 @@
 
 *   [PyQtGraph (⭐3.2k)](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications.
 
-## [52. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [53. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Gaming
 

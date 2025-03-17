@@ -25,7 +25,7 @@
 
 ### Other
 
-*   [synp (⭐757)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
+*   [synp (⭐767)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
 
 ## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -43,7 +43,7 @@
 
 ### ORM/ODM Extensions
 
-*   [clear (⭐272)](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
+*   [clear (⭐273)](https://github.com/anykeyh/clear) - ORM specialized to PostgreSQL only but with advanced features
 
 ## [6. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -56,12 +56,12 @@
 ### Frameworks
 
 *   [GLib](https://wiki.gnome.org/Projects/GLib) - GLib provides the core application building blocks for libraries and applications written in C. \[LGPL]
-*   [tbox (⭐4.9k)](https://github.com/tboox/tbox) - A glib-like multi-platform c library. \[Apache2] [website](http://tboox.org/)
+*   [tbox (⭐5k)](https://github.com/tboox/tbox) - A glib-like multi-platform c library. \[Apache2] [website](http://tboox.org/)
 
 ### Concurrency
 
 *   [concurrentqueue (⭐11k)](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. \[BSD,Boost]
-*   [readerwriterqueue (⭐3.9k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
+*   [readerwriterqueue (⭐4k)](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. \[BSD]
 
 ### GUI
 
@@ -82,7 +82,7 @@
 
 ### Static Code Analysis
 
-*   [cpp-dependencies (⭐750)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
+*   [cpp-dependencies (⭐751)](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). \[Apache]
 
 ---
 

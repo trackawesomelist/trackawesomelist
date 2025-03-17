@@ -10,11 +10,11 @@
 
 ### Tutorials
 
-*   [TensorFlow Examples (⭐43k)](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
+*   [TensorFlow Examples (⭐44k)](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
 
 ### Models/Projects
 
-*   [TensorFlow White Paper Notes (⭐439)](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
+*   [TensorFlow White Paper Notes (⭐434)](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -26,7 +26,7 @@
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐7.6k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐7.7k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 

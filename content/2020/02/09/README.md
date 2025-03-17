@@ -48,7 +48,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Snapcast (⭐6.4k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++/deb`
+*   [Snapcast (⭐6.5k)](https://github.com/badaix/snapcast) - Synchronous multiroom audio server. `GPL-3.0` `C++/deb`
 
 ## [6. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
@@ -62,22 +62,37 @@
 
 ## [7. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
-### Subtitles and Captions / Web
+### Video Editing & Processing Tools / Color Grading & Correction Tools
 
-*   [glut23/webvtt-py (⭐194)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
-*   [opencoconut/webvtt-ruby (⭐70)](https://github.com/opencoconut/webvtt-ruby)  - WebVTT Ruby parser and segmenter.
-*   [osk/node-webvtt (⭐97)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
+*   [bbc/qtff-parameter-editor (⭐141)](https://github.com/bbc/qtff-parameter-editor)  - QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics.
 
-### HDR10, HLG, Dolby Vision / Slack Groups
+### Video Editing & Processing Tools / Subtitle & Caption Tools
+
+*   [glut23/webvtt-py (⭐204)](https://github.com/glut23/webvtt-py)  - Read, write and segment WebVTT caption files in Python.
+*   [opencoconut/webvtt-ruby (⭐71)](https://github.com/opencoconut/webvtt-ruby)  - WebVTT Ruby parser and segmenter.
+
+### Video Encoding, Transcoding & Packaging Tools / FFmpeg-Based Tools
 
 *   [Encode HDR with VP9](https://developers.google.com/media/vp9/hdr-encoding)  - Hands on tutorial of using ffmpeg to do hdr encoding
+*   [Use of Look-Up Tables (LUTs) in FFmpeg](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_Use_of_LUTs_FFmpeg.pdf)  - How to use luts with ffmpeg for converting between differnt hdr encodes
+*   [id3as/ffmpeg-libvpx-HDR-static (⭐16)](https://github.com/id3as/ffmpeg-libvpx-HDR-static)  - A script to build a static binary of FFmpeg optimised for libvpx (HDR 10bit) encoding.
+
+### Adaptive Streaming & Manifest Tools / HLS Manifest Parsers & Generators
+
+*   [osk/node-webvtt (⭐99)](https://github.com/osk/node-webvtt)  - Parse WebVTT files, segments and generates HLS playlists for them.
+
+### Standards, Specifications & Industry Resources / Best Practices & Guidelines
+
 *   [Frequently Asked Questions on High Dynamic Range and Hybrid Log-Gamma](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_FAQ.pdf)  - FAQ regarding HDR by BBC R\&D
 *   [HLG vs PQ Systems for HDR Television](https://www.displaydaily.com/article/display-daily/hlg-vs-pq-systems-for-hdr-television)  - Article explaining hlg vs pq in depth.
-*   [High Dynamic Range Television and Hybrid Log-Gamma - BBC R\&D](https://www.bbc.co.uk/rd/projects/high-dynamic-range)  - BBC R\&D HDR project page.
-*   [Use of Look-Up Tables (LUTs) in FFmpeg](https://downloads.bbc.co.uk/rd/pubs/papers/HDR/BBC_HDRTV_Use_of_LUTs_FFmpeg.pdf)  - How to use luts with ffmpeg for converting between differnt hdr encodes
+
+### Learning, Tutorials & Documentation / Webinars & Conference Talks
+
 *   [Vittorio Giovara - Color Me Intrigued: A Jaunt Through Color Technology in Video](https://www.youtube.com/watch?v=XMnvY7a4-As\&feature=share)  - This talk aims to shed light on colorspaces - what they are, how and why they work, why we should care about handling edge cases properly. Starting with hist...
-*   [bbc/qtff-parameter-editor (⭐137)](https://github.com/bbc/qtff-parameter-editor)  - QuickTime file parameter editor for modifying transfer function, colour primary and matrix characteristics.
-*   [id3as/ffmpeg-libvpx-HDR-static (⭐16)](https://github.com/id3as/ffmpeg-libvpx-HDR-static)  - A script to build a static binary of FFmpeg optimised for libvpx (HDR 10bit) encoding.
+
+### Miscellaneous, Experimental & Niche Tools / Research Projects & Academic Resources
+
+*   [High Dynamic Range Television and Hybrid Log-Gamma - BBC R\&D](https://www.bbc.co.uk/rd/projects/high-dynamic-range)  - BBC R\&D HDR project page.
 
 ## [8. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 

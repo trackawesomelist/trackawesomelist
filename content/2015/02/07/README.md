@@ -10,7 +10,7 @@
 
 ### Framework Components
 
-*   [scrivener (⭐554)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
+*   [scrivener (⭐555)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -24,7 +24,7 @@
 
 ### Machine Learning
 
-*   [OpenCV (⭐80k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
+*   [OpenCV (⭐81k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 
 ### Networking
 
@@ -42,12 +42,12 @@
 
 ### Table of Contents / Routers
 
-*   [Fast Route (⭐5.1k)](https://github.com/nikic/FastRoute) - A fast routing library.
+*   [Fast Route (⭐5.2k)](https://github.com/nikic/FastRoute) - A fast routing library.
 *   [Pux (⭐1.3k)](https://github.com/c9s/Pux) - Another fast routing library.
 
 ### Table of Contents / Dependency Injection
 
-*   [Container (⭐850)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
+*   [Container (⭐852)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 
 ### Table of Contents / Imagery
 
@@ -59,7 +59,7 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [OAuth 1.0 Client (⭐977)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
+*   [OAuth 1.0 Client (⭐981)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 *   [OAuth 2.0 Client (⭐3.7k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
 
 ---

@@ -8,10 +8,6 @@
 
 ## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
-### Algorithms and Data structures
-
-*   [exkad](https://github.com/rozap/exkad) - A [kademlia](https://en.wikipedia.org/wiki/Kademlia) implementation in Elixir.
-
 ### Macros
 
 *   [pattern\_tap (⭐58)](https://github.com/mgwidmann/elixir-pattern_tap) - Macro for tapping into a pattern match while using the pipe operator.
@@ -22,7 +18,7 @@
 
 ### Security
 
-*   [safetybox (⭐21)](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
+*   [safetybox](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
 
 ### Text and Numbers
 
@@ -31,10 +27,7 @@
 ### Third Party APIs
 
 *   [exgenius (⭐1)](https://github.com/jeffweiss/exgenius) - Elixir library for the (undocumented) Rap Genius API.
-*   [exlingr](https://github.com/mtwtkman/exlingr) - A Lingr client module.
 *   [keenex (⭐28)](https://github.com/bryanjos/keenex) - A Keen.io API Client.
-*   [qiita\_ex (⭐7)](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
-*   [stripe](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
 
 ---
 

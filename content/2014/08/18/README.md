@@ -10,7 +10,7 @@
 
 ### Vision Detection / Runner
 
-*   [tracking.js (⭐9.4k)](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
+*   [tracking.js (⭐9.5k)](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 
 ## [2. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 

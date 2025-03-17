@@ -110,7 +110,7 @@
 
 ### Registry
 
-*   [npm-cli-login (⭐114)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
+*   [npm-cli-login (⭐116)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
 
 ## [13. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 

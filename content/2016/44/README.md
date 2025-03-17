@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 31 - Nov 06, 2016
 
-53 awesome lists updated this week.
+54 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -25,11 +25,6 @@
 *   [redux-ship (⭐615)](https://github.com/clarus/redux-ship) - Composable, testable and typable side effects.
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
-
-### Community
-
-*   [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
-*   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
 
 ### On-Site Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -106,7 +101,7 @@
 *   [Neural Style (⭐3.1k)](https://github.com/cysmith/neural-style-tf) Implementation of Neural Style
 *   [Pretty Tensor (⭐1.2k)](https://github.com/google/prettytensor) - Pretty Tensor provides a high level builder API
 *   [Neural Style (⭐5.5k)](https://github.com/anishathalye/neural-style) - An implementation of neural style
-*   [NeuralArt (⭐496)](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
+*   [NeuralArt (⭐494)](https://github.com/ckmarkoh/neuralart_tensorflow) - Implementation of A Neural Algorithm of Artistic Style
 
 ### Libraries
 
@@ -164,11 +159,11 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 ### Other
 
-*   [redrun (⭐122)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+*   [redrun (⭐124)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 
 ### Clients
 
-*   [yarn (⭐41k)](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
+*   [yarn (⭐42k)](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 
 ## [17. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
@@ -208,25 +203,31 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 *   [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
 *   [Vim-ionic2 (⭐2)](https://github.com/akz92/vim-ionic2)
 
-## [20. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [20. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Jenkins / Vue.js
+
+*   [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF) (CC BY-NC-ND)
+
+## [21. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
 *   [The Irreproducibility Of Bugs In Large-Scale Production Systems](http://www.susanjfowler.com/blog/2016/11/2/the-irreproducibility-of-bugs-in-large-scale-production-systems)
 
-## [21. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [22. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### System
 
 *   [SSH (⭐109)](https://github.com/isometry/alfred-ssh/) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
 
-## [22. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
+## [23. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
 ### Guides / General screencasts
 
 *   [Switch to Sketch](https://www.switchtosketchapp.com/)
 
-## [23. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
+## [24. Awesome Browserify](/content/browserify/awesome-browserify/week/README.md)
 
 ### Tutorials
 
@@ -254,13 +255,13 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 *   [crypto-browserify (⭐579)](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser.
 
-## [24. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [25. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
 *   [TestCafe (⭐9.8k)](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 
-## [25. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
+## [26. Awesome Chatops](/content/exAspArk/awesome-chatops/week/README.md)
 
 ### Videos
 
@@ -270,19 +271,19 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 *   [ChatOps with Jason Hand](http://softwareengineeringdaily.com/2016/11/02/chatops-with-jason-hand/) - An episode about ChatOps in general.
 
-## [26. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [27. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Web Frameworks / Bare metal / kernel development
 
 *   [Hprose (⭐26)](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now.
 
-## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [28. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications
 
-*   [Fractalide (⭐879)](https://github.com/fractalide/fractalide) - Simple microservices
+*   [Fractalide (⭐882)](https://github.com/fractalide/fractalide) - Simple microservices
 
-## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [29. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Media Consumption
 
@@ -293,14 +294,14 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 *   [23andMe](https://www.23andme.com/) - Genetic testing and analysis.
 
-## [29. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [30. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### ImageNet Classification
 
 *   VGG-Net [\[Web\]](http://www.robots.ox.ac.uk/\~vgg/research/very_deep/) [\[Paper\]](http://arxiv.org/pdf/1409.1556)
     *   Karen Simonyan and Andrew Zisserman, Very Deep Convolutional Networks for Large-Scale Visual Recognition, ICLR, 2015.
 
-## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 
@@ -323,7 +324,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 *   [menubar (⭐6.6k)](https://github.com/maxogden/menubar) - Menubar app framework.
 
-## [31. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
+## [32. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
 
 ### Datasets / Standard IR Collections
 
@@ -339,13 +340,13 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 *   [Stanford List](http://nlp.stanford.edu/IR-book/html/htmledition/standard-test-collections-1.html)
 *   [University of Tennesse Knoxville](http://web.eecs.utk.edu/research/lsi/corpa.html)
 
-## [32. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
+## [33. Awesome Dtrace](/content/xen0l/awesome-dtrace/week/README.md)
 
 ### Ruby and DTrace
 
 *   [Using DTrace to measure mutex contention in Ruby](https://vaneyckt.io/posts/using_dtrace_to_measure_mutex_contention_in_ruby/) - Mutex contention measuring in Ruby.
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### API
 
@@ -355,12 +356,12 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 *   [CoreStore (⭐4k)](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
 *   [DataKernel (⭐18)](https://github.com/mrdekk/DataKernel) - DataKernel is a minimalistic wrapper around Core Data stack to ease persistence operations. No external dependencies.
-*   [Graph (⭐873)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
+*   [Graph (⭐874)](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
 *   [QueryKit (⭐1.5k)](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
 
 ### Gesture
 
-*   [SwipyCell (⭐256)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
+*   [SwipyCell (⭐259)](https://github.com/moritzsternemann/SwipyCell) - UITableViewCell implementing swiping to trigger actions (known from the Mailbox App).
 
 ### UI / Barcode
 
@@ -370,19 +371,19 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 *   [SkyFloatingLabelTextField (⭐4.1k)](https://github.com/Skyscanner/SkyFloatingLabelTextField) - A beautiful and flexible text field control implementation of "Float Label Pattern".
 
-## [34. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [35. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Other / Custom Dialog
 
 *   [Calligraphy (⭐8.6k)](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android an OK way.
 
-## [35. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [36. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Database
 
 *   [Postgres (⭐130)](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
 
-## [36. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [37. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
@@ -392,25 +393,25 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 *   [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - A series by Mattias Petter Johansson, from the youtube channel FunFunFunction, that is specifically about popularization of functional programming in JavaScript.
 
-## [37. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [38. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Medium like Image Loading with Vue.js](https://www.theodo.fr/blog/2016/10/medium-like-image-loading-with-vue-js/)
 
-## [38. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [39. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Professional services
 
 *   [EPX Labs](http://www.epxlabs.com) - Consultancy.
 
-## [39. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [40. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### General / Other
 
 *   [Rookit Arsenal](https://amzn.com/144962636X) - OS RE and rootkit development
 
-## [40. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [41. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Computer Vision
 
@@ -418,20 +419,20 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 *   [Computer Vision](http://www.vision.rwth-aachen.de/course/11/) - Bastian Leibe (RWTH Aachen University)
 *   [Computer Vision 2](http://www.vision.rwth-aachen.de/course/9/) - Bastian Leibe (RWTH Aachen University)
 
-## [41. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [42. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [Suricata](https://suricata-ids.org): Suricata is a free and open source, mature, fast and robust network threat detection engine.  The Suricata engine is capable of real time intrusion detection (IDS), inline intrusion prevention (IPS), network security monitoring (NSM) and offline pcap processing.
 *   [Tcptrace (⭐75)](https://github.com/blitz/tcptrace): A tool written by Shawn Ostermann at Ohio University, for analysis of TCP dump files. It can take as input the files produced by several popular packet- capture programs, including tcpdump, snoop, etherpeek, HP Net Metrix, and WinDump. tcptrace can produce several different types of output containing information on each connection seen, such as elapsed time, bytes and segments sent and received, retransmissions, round trip times, window advertisements, throughput, and more. It can also produce a number of graphs for further analysis.
 
-## [42. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
+## [43. Awesome Powershell](/content/janikvonrotz/awesome-powershell/week/README.md)
 
 ### Build Tools
 
 *   [YDeliver (⭐43)](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
 
-## [43. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [44. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / High-Availability
 
@@ -445,7 +446,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 *   [pgcmp (⭐42)](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 
-## [44. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [45. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Topic-specific
 
@@ -455,7 +456,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 *   [Center for Applied Network Analysis (CANA)](https://usccana.github.io/) - Research group based at the University of Southern California School of Medicine.
 
-## [45. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
+## [46. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
 ### Presentations
 
@@ -470,20 +471,20 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 *   [This Blog Post Was Written Using Draft.js](https://dev.to/ben/this-blog-post-was-written-using-draftjs)
 
-## [46. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [47. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Editors / Markdown
 
 *   [Hackmd.io](https://hackmd.io) (`Cloud`): Basically ships with everything you expect from the most complete online markdown editor.
 
-## [47. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [48. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Blogs
 
 *   [Android setup Linux](https://www.smashingmagazine.com/2016/04/from-zero-to-appium-guide-configuring-appium-android/) - From Zero To Appium: A How-To Guide For Configuring Appium With Android
 *   \[Useful Appium Series] (<http://bitbar.com/tag/appium/>) - Appium Tip Series
 
-## [48. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [49. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / Biology and Chemistry
 
@@ -504,7 +505,7 @@ Run `brew install quicklookase` or [download manually (⭐35)](https://github.co
 
 *   [Biocanvas](http://biocanvas.net/) - A collection of biological images as art.
 
-## [49. Tips](/content/git-tips/tips/week/README.md)
+## [50. Tips](/content/git-tips/tips/week/README.md)
 
 ## Edit \[local/global] git config
 
@@ -517,11 +518,11 @@ git config [--global] --edit
 git blame -L <start>,<end>
 ```
 
-## [50. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [51. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Errors and Exception Handling
 
-*   [sentry-elixir (⭐632)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
+*   [sentry-elixir (⭐633)](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for [Sentry](https://sentry.io/).
 
 ### Instrumenting / Monitoring
 
@@ -529,13 +530,13 @@ git blame -L <start>,<end>
 
 ### Miscellaneous
 
-*   [elixir-browser (⭐102)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
+*   [elixir-browser (⭐104)](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
 
 ### Third Party APIs
 
 *   [sift\_ex (⭐13)](https://github.com/C404/sift_ex) - A Siftscience API Library for Elixir.
 
-## [51. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [52. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -572,13 +573,13 @@ git blame -L <start>,<end>
 
 *   [dotnet-win32-service (⭐451)](https://github.com/dasMulli/dotnet-win32-service) - Set up and run as Windows Service directly from .NET Core.
 
-## [52. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [53. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Libraries
 
 *   [Backbone.History.Polyfill (⭐4)](https://github.com/FidelityInternational/BackboneHistoryPolyfill)
 
-## [53. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [54. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Starter Packs
 

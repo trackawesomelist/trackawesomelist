@@ -55,7 +55,7 @@
 
 ### Miscellaneous / Related
 
-*   [Awesome Gamedev (⭐2.4k)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
+*   [Awesome Gamedev (⭐2.5k)](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
 
 ---
 

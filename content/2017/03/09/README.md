@@ -16,8 +16,8 @@
 
 ### serialization
 
-*   [geojson-jackson (⭐262)](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
-*   [mapbox-java (⭐410)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson (⭐23k)](https://github.com/google/gson))
+*   [geojson-jackson (⭐267)](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
+*   [mapbox-java (⭐427)](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson (⭐24k)](https://github.com/google/gson))
 
 ### resources
 
@@ -54,7 +54,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [fuku-ml (⭐281)](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
+*   [fuku-ml (⭐282)](https://github.com/fukuball/fuku-ml) - Simple machine learning library, including Perceptron, Regression, Support Vector Machine, Decision Tree and more, it's easy to use and easy to learn for beginners.
 
 ## [7. Awesome Deep Learning Papers](/content/terryum/awesome-deep-learning-papers/README.md)
 

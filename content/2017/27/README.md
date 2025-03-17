@@ -130,7 +130,7 @@
 
 ### Monitoring & Quality Control
 
-*   [Jack Meter (⭐44)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
+*   [Jack Meter (⭐46)](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 
 ## [17. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
@@ -189,7 +189,7 @@
 
 ### Graph Data Model
 
-*   [GCHQ Gaffer (⭐1.7k)](https://github.com/gchq/Gaffer) - Gaffer by GCHQ is a framework that makes it easy to store large-scale graphs in which the nodes and edges have statistics.
+*   [GCHQ Gaffer (⭐1.8k)](https://github.com/gchq/Gaffer) - Gaffer by GCHQ is a framework that makes it easy to store large-scale graphs in which the nodes and edges have statistics.
 *   [Google Cayley (⭐15k)](https://github.com/cayleygraph/cayley) - open-source graph database.
 *   [Twitter FlockDB (⭐3.3k)](https://github.com/twitter-archive/flockdb) - distributed graph database.
 
@@ -233,7 +233,7 @@
 ### Machine Learning
 
 *   [MonkeyLearn](https://monkeylearn.com/) - Text mining made easy. Extract and classify data from text.
-*   [PredictionIO](http://predictionio.incubator.apache.org/index.html) - machine learning server buit on Hadoop, Mahout and Cascading.
+*   [PredictionIO](http://predictionio.incubator.apache.org/index.html) - machine learning server built on Hadoop, Mahout and Cascading.
 
 ### Security
 
@@ -248,7 +248,7 @@
 ### Applications
 
 *   [Apache Metron](http://metron.apache.org/) - a platform that integrates a variety of open source big data technologies in order to offer a centralized tool for security monitoring and analysis.
-*   [Argus (⭐497)](https://github.com/salesforce/Argus) - Time series monitoring and alerting platform.
+*   [Argus (⭐506)](https://github.com/salesforce/Argus) - Time series monitoring and alerting platform.
 *   [Hunk](https://www.splunk.com/en_us/download/hunk.html) - Splunk analytics for Hadoop.
 *   [MADlib](http://madlib.incubator.apache.org/community/) - data-processing library of an RDBMS to analyze data.
 *   [Splunk](https://www.splunk.com/) - analyzer for machine-generated data.
@@ -297,8 +297,8 @@
 *   [Graphite](http://graphiteapp.org/) - scalable Realtime Graphing.
 *   [Highcharts](https://www.highcharts.com/) - simple and flexible charting API.
 *   [Metricsgraphic.js](https://metricsgraphicsjs.org/) - a library built on top of D3 that is optimized for time-series data
-*   [Superset (⭐52k)](https://github.com/apache/incubator-superset) - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
-*   [Zeppelin (⭐413)](https://github.com/ZEPL/zeppelin) - a notebook-style collaborative data analysis.
+*   [Superset (⭐64k)](https://github.com/apache/incubator-superset) - a data exploration platform designed to be visual, intuitive and interactive, making it easy to slice, dice and visualize data and perform analytics at the speed of thought.
+*   [Zeppelin (⭐411)](https://github.com/ZEPL/zeppelin) - a notebook-style collaborative data analysis.
 *   [Zing Charts](https://www.zingchart.com/) - JavaScript charting library for big data.
 
 ### Internet of things and sensor data
@@ -322,7 +322,7 @@
 
 ### 2001 - 2010
 
-*   [2010](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36726.pdf) - **Google** - Large-scale Incremental Processing Using Distributed Transactions and Notiﬁcations base of Percolator and Caffeine.
+*   [2010](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36726.pdf) - **Google** - Large-scale Incremental Processing Using Distributed Transactions and notifications base of Percolator and Caffeine.
 *   [2010](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf) - **Google** - Dremel: Interactive Analysis of Web-Scale Datasets.
 *   [2006](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) - **Google** - The Chubby lock service for loosely-coupled distributed systems.
 *   [2004](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) - **Google** - MapReduce: Simplied Data Processing on Large Clusters.
@@ -457,7 +457,7 @@
 ### Emojis / Fonts
 
 *   [emojify.js (⭐1.8k)](https://github.com/emojione/emojify.js) - A Javascript module to convert Emoji keywords to images
-*   [emojione (⭐4.5k)](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
+*   [emojione (⭐4.4k)](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
 *   [node-emoji (⭐1.3k)](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
 
 ### Iconic fonts / Fonts
@@ -484,7 +484,7 @@
 
 ### ZIP
 
-*   [Zip Foundation (⭐2.3k)](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
+*   [Zip Foundation (⭐2.4k)](https://github.com/weichsel/ZIPFoundation) - A library to create, read and modify ZIP archive files.
 
 ### Bluetooth
 
@@ -492,15 +492,15 @@
 
 ### Images / Barcode
 
-*   [MapleBacon (⭐340)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
+*   [MapleBacon (⭐341)](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
 
 ### Maps / Barcode
 
-*   [GEOSwift (⭐1.4k)](https://github.com/GEOSwift/GEOSwift) - Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
+*   [GEOSwift (⭐1.5k)](https://github.com/GEOSwift/GEOSwift) - Make it easier to work with geographic models and calculate intersections, overlapping, projections etc.
 
 ### Text / Barcode
 
-*   [MarkyMark (⭐301)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
+*   [MarkyMark (⭐304)](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
 
 ### UICollectionView / Barcode
 
@@ -536,11 +536,11 @@ Wifi pw: `fermento`
 
 ### HTTP
 
-*   [neuron (⭐331)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
+*   [neuron (⭐330)](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 
 ### Macros
 
-*   [expat (⭐177)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
+*   [expat (⭐176)](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 
 ### Natural Language Processing (NLP)
 
@@ -653,7 +653,7 @@ Wifi pw: `fermento`
 
 ### Plotting / Third-party APIs
 
-*   [vgplot (⭐51)](https://github.com/volkers/vgplot) - an interface to the
+*   [vgplot (⭐52)](https://github.com/volkers/vgplot) - an interface to the
     gnuplot plotting utility with the intention to resemble some of
     the plot commands of octave or matlab. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 

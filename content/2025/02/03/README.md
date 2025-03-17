@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 03, 2025
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,21 +28,59 @@
 
 ### Media / Diagnostics
 
-*   [vyfor/cord.nvim (⭐251)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
+*   [vyfor/cord.nvim (⭐289)](https://github.com/vyfor/cord.nvim) - Highly extensible Rich Presence for Discord.
 
-## [5. Awesome Go](/content/avelino/awesome-go/README.md)
+## [5. Awesome Cern](/content/CERN/awesome-cern/README.md)
+
+### Open Science / Digital repositories
+
+*   [InvenioILS](https://inveniosoftware.org/products/ils/): a modern and user-friendly integrated library system, written in Python and React.
+*   [Open Data Portal](https://github.com/cernopendata): highly curated repository of high energy physics (UI and server), written in Python.
+*   [Zenodo (⭐86)](https://github.com/zenodo/zenodo-rdm): Research. Shared. An open dependable home for the long-tail of science.
+
+### Open Science / Event Management
+
+*   [Indico](https://getindico.io): feature-rich general event management system written in Python.
+*   [newdle (⭐94)](https://github.com/indico/newdle): a lightweight collaborative enterprise meeting scheduling tool
+
+### Physics/mathematics analysis/simulation / Event Management
+
+*   [ACTS (⭐111)](https://github.com/acts-project/acts): Experiment-independent toolkit for (charged) particle track reconstruction in high energy an nuclear physics experiments
+*   [BioDynaMo](https://www.biodynamo.org/home-page): create, run, and visualise multidimensional agent-based simulations in various domains.
+*   [Geant4](https://geant4.web.cern.ch/): Toolkit for the simulation of the passage of particles through matter.
+*   [ROOT](https://root.cern/): an open-source data analysis framework used by high energy physics and others.
+
+### Storage and Data / Data management
+
+*   [FTS](https://fts.web.cern.ch/fts/): software written in C++/Python to orchestrate reliable and large-scale data transfers.
+*   [Rucio](https://rucio.cern.ch): software written in Python to manage large volumes of data spread across data centres.
+*   [Davix](https://davix.web.cern.ch/): toolkit for file operations over HTTP and Cloud protocols (written in C++).
+
+### Storage and Data / Storage systems
+
+*   [EOS](https://eos-web.web.cern.ch/eos-web/): distributed storage system written in C++ for the exabyte era (biggest installation 1.1 Exabytes).
+*   [CTA](https://eoscta.docs.cern.ch/latest/): distributed storage system written in C++ for archival of data on tape media (biggest installation 1 exabyte).
+*   [CVMFS](https://cernvm.cern.ch/filesystem/): a scalable, reliable and low-maintenance software distribution service.
+*   [QuarkDB](https://quarkdb.web.cern.ch/quarkdb/docs/master/): high-performance C++ key-value datastore built with: RocksDB + Raft + Redis wire protocol (RESP2).
+*   [Reva (⭐186)](https://github.com/cs3org/reva): WebDAV/gRPC server to connect end-users to storage system (EOS, CephFS). Written in Go.
+
+### Libraries / UI
+
+*   [react-overridable (⭐8)](https://github.com/indico/react-overridable): Overridable React components.
+
+## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Caches
 
-*   [ristretto (⭐5.8k)](https://github.com/dgraph-io/ristretto) -  A high performance memory-bound Go cache.
+*   [ristretto (⭐5.9k)](https://github.com/dgraph-io/ristretto) -  A high performance memory-bound Go cache.
 
-## [6. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [7. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Hacks and homebrew / Ironsworn
 
 *   [Ancient Wonders](https://www.drivethrurpg.com/en/product/505365/ancient-wonders?affiliate_id=844973) - Explore the galaxy with new mechanics and generators for solar systems, planets, alien megastructure and more
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -50,8 +88,9 @@
 
 ### Maps / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-yandex-maps (⭐61)](https://github.com/ddubrava/angular-yandex-maps) - Yandex.Maps Angular components that implement the Yandex.Maps JavaScript API.
+*   [angular-yandex-maps (⭐62)](https://github.com/ddubrava/angular-yandex-maps) - Yandex.Maps Angular components that implement the Yandex.Maps JavaScript API.
 
 ---
 
+- Prev: [Feb 04, 2025](/content/2025/02/04/README.md)
 - Next: [Feb 02, 2025](/content/2025/02/02/README.md)

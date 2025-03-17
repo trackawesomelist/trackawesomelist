@@ -22,11 +22,11 @@
 ### Network & Storage Testing
 
 *   [Wireshark dissector for TSL UMD protocol V3.1, V4 (⭐5)](https://github.com/roddypratt/tslumd-wireshark) - Analyzers for TSL UMD (under-monitor display) protocol V3.1 and V4.
-*   [Wireshark dissectors for Video Routers (⭐11)](https://github.com/roddypratt/router_dissectors) - Analyzers for various video router/matrix protocols.
+*   [Wireshark dissectors for Video Routers (⭐14)](https://github.com/roddypratt/router_dissectors) - Analyzers for various video router/matrix protocols.
 
 ### NMOS
 
-*   [NVIDIA NMOS Library (⭐9)](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
+*   [NVIDIA NMOS Library (⭐11)](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
 
 ## [3. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
@@ -66,21 +66,21 @@
 
 ### Database Tools
 
-*   [gatewayd (⭐233)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
+*   [gatewayd (⭐235)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 
 ### Machine Learning
 
-*   [GoMLX (⭐627)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
+*   [GoMLX (⭐682)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Spreadsheet / Runner
 
-*   [RevoGrid (⭐2.7k)](https://github.com/revolist/revogrid) - RevoGrid is a fast, responsive excel like data grid library for modern web applications.
+*   [RevoGrid (⭐2.9k)](https://github.com/revolist/revogrid) - RevoGrid is a fast, responsive excel like data grid library for modern web applications.
 
 ### Machine Learning / Runner
 
-*   [JS-PyTorch (⭐1k)](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
+*   [JS-PyTorch (⭐1.1k)](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
 
 ## [8. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -108,11 +108,11 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [po-angular (⭐925)](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
+*   [po-angular (⭐928)](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-angular-query-builder (⭐32)](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder (⭐300)](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
+*   [ngx-angular-query-builder (⭐32)](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder (⭐301)](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
 
 ---
 

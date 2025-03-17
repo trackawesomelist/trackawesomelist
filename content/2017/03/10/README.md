@@ -101,7 +101,7 @@
 ### Framework Components
 
 *   [plug\_and\_play (⭐15)](https://github.com/henrik/plug_and_play) - Set up a Plug application with less boilerplate.
-*   [rummage\_phoenix (⭐151)](https://github.com/Excipients/rummage_phoenix) - A support framework for searching, sorting and paginating models in Phoenix, with HTML support.
+*   [rummage\_phoenix (⭐150)](https://github.com/Excipients/rummage_phoenix) - A support framework for searching, sorting and paginating models in Phoenix, with HTML support.
 
 ### HTTP
 
@@ -146,7 +146,7 @@
 
 ### Data sets
 
-*   [EuroRomCom Data (⭐20)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+*   [EuroRomCom Data (⭐22)](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 
 ### On Youtube
 

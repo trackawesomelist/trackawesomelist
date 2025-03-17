@@ -10,7 +10,7 @@
 
 ### Tools - Security / React
 
-*   [GraphCrawler - The all-in-one GraphQL Security toolkit (⭐309)](https://github.com/gsmith257-cyber/GraphCrawler) - The all-in-one automated penetration tester toolkit for GraphQL, written in Python
+*   [GraphCrawler - The all-in-one GraphQL Security toolkit (⭐312)](https://github.com/gsmith257-cyber/GraphCrawler) - The all-in-one automated penetration tester toolkit for GraphQL, written in Python
 
 ## [2. Awesome Browser Extensions for Github](/content/stefanbuck/awesome-browser-extensions-for-github/README.md)
 
@@ -39,7 +39,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Reading and Writing Tools / Markdown Tools
+### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 *   [Obsidian](https://obsidian.md) - A second brain, for you, forever.
 
@@ -71,7 +71,7 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Debugging / Diagnostics
 
-*   [Weissle/persistent-breakpoints.nvim (⭐205)](https://github.com/Weissle/persistent-breakpoints.nvim) - Persistent breakpoints for nvim-dap.
+*   [Weissle/persistent-breakpoints.nvim (⭐210)](https://github.com/Weissle/persistent-breakpoints.nvim) - Persistent breakpoints for nvim-dap.
 
 ## [11. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -89,8 +89,8 @@ Installs: 136 | Stars: 22 | Last update: n/a
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-multi-pages (⭐30)](https://github.com/Miofly/vite-plugin-multi-pages) - Multi Pages Support，can build src/pages anyPage，can set prefixName.
-*   [vite-plugin-html-template-mpa (⭐25)](https://github.com/Miofly/vite-plugin-html-template-mpa) - Multi Pages Common template support.
+*   [vite-plugin-multi-pages (⭐32)](https://github.com/Miofly/vite-plugin-multi-pages) - Multi Pages Support，can build src/pages anyPage，can set prefixName.
+*   [vite-plugin-html-template-mpa (⭐26)](https://github.com/Miofly/vite-plugin-html-template-mpa) - Multi Pages Common template support.
 *   [vite-plugin-vconsole-mpa (⭐5)](https://github.com/Miofly/vite-plugin-vconsole-mpa) - Multi Pages Vconsole supports，simple config.
 
 ---

@@ -16,12 +16,12 @@
 
 ### Applications / System tools
 
-*   [qarmin/czkawka (⭐21k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
+*   [qarmin/czkawka (⭐22k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 
 ### Libraries / Markup language
 
 *   CommonMark
-    *   [pulldown-cmark/pulldown-cmark (⭐2.1k)](https://github.com/pulldown-cmark/pulldown-cmark) - [CommonMark](https://commonmark.org/) parser
+    *   [pulldown-cmark/pulldown-cmark (⭐2.2k)](https://github.com/pulldown-cmark/pulldown-cmark) - [CommonMark](https://commonmark.org/) parser
 
 ## [3. Awesome Cropsteering](/content/Intergalactic-XYZ/awesome-cropsteering/README.md)
 
@@ -45,7 +45,7 @@
 
 ### 2D / Godot 4
 
-*   [Poder Solar (⭐66)](https://github.com/antimundo/poder-solar) - Simple resource management game.
+*   [Poder Solar (⭐74)](https://github.com/antimundo/poder-solar) - Simple resource management game.
 
 ## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
@@ -65,7 +65,7 @@
 
 ### Email Search / Email Check / Steam
 
-*   [Gitrecon (⭐21)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
+*   [Gitrecon (⭐24)](https://github.com/atiilla/gitrecon) - Node.js tool to scan GitHub repositories for exposed email addresses and names.
 
 ### Domain and IP Research / Steam
 
@@ -73,7 +73,7 @@
 
 ### Image Search / Steam
 
-*   [GeoSpyer (⭐218)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
+*   [GeoSpyer (⭐318)](https://github.com/atiilla/geospy "Original service: https://geospy.web.app/") - Python tool using Graylark's AI-powered geo-location service to uncover the location where photos were taken.
 
 ### Image Analysis / Steam
 
@@ -82,7 +82,7 @@
 ### Web Monitoring / Steam
 
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐21k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐22k)](https://github.com/dgtlmoon/changedetection.io)
 
 ### Other Tools / Steam
 
@@ -94,7 +94,7 @@
 ### Configuration / Development Environment
 
 *   [DDEV (⭐2.9k)](https://github.com/ddev/ddev) - a local web development environment system for PHP.
-*   [Docksal (⭐694)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
+*   [Docksal (⭐696)](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
 
 ## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
@@ -124,7 +124,6 @@
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [classic (⭐1)](https://github.com/freakinu/classic-zsh-theme) - A classic unix theme with decorators for username, host, current directory and `git` status.
-*   [frontcube (⭐0)](https://github.com/ronitkrshah/frontcube/) - Requires a nerd font. Based on the official [Frontcube (⭐4)](https://github.com/ornicar/oh-my-zsh/blob/master/themes/frontcube.zsh-theme) theme. Includes decorators for `git` status and current directory.
 
 ---
 

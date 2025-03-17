@@ -16,13 +16,13 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [CWood-sdf/banana.nvim (⭐152)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
+*   [CWood-sdf/banana.nvim (⭐153)](https://github.com/CWood-sdf/banana.nvim) - HTML renderer for plugin UIs.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Networking
 
-*   [FTP client for C++ (⭐214)](https://github.com/embeddedmz/ftpclient-cpp) - C++ client for making FTP requests. \[MIT]
+*   [FTP client for C++ (⭐216)](https://github.com/embeddedmz/ftpclient-cpp) - C++ client for making FTP requests. \[MIT]
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

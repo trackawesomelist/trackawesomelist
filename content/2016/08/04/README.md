@@ -33,7 +33,7 @@ Webpage: <http://www.pavementcoffeehouse.com/content/44-gainsborough>
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Keo (⭐227)](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
+*   [Keo (⭐226)](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 
 ## [4. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

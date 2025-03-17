@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26 - Nov 01, 2015
 
-34 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -51,7 +51,7 @@
 
 ### Functional Programming
 
-*   [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by **Philip Wadler** \[42:42]
+*   [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by **Philip Wadler** (Strange Loop 2015) \[42:42]
 
 ## [3. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
@@ -257,7 +257,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### Video/Audio / Other
 
-*   [SoundJS (⭐4.4k)](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
+*   [SoundJS (⭐4.5k)](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
 
 ## [20. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
@@ -303,7 +303,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### UI / Barcode
 
-*   [FlagKit (⭐3k)](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
+*   [FlagKit (⭐3.1k)](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
 
 ## [25. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
@@ -331,7 +331,7 @@ Beginning with taking you through essential data mining and management tasks suc
 
 ### JSON
 
-*   [jose (⭐314)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
+*   [jose (⭐316)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 
 ### Natural Language Processing (NLP)
 
@@ -466,6 +466,20 @@ Beginning with taking you through essential data mining and management tasks suc
 ### Images, Maps and Charts / Paid Books
 
 *   [Cropper (⭐7.8k)](https://github.com/fengyuanchen/cropper) - A simple image cropping plugin.
+
+## [35. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C# / Non-X86
+
+*   [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
+
+### Prolog / Zend
+
+*   [Coding Guidelines for Prolog](http://arxiv.org/abs/0911.2899) - Michael A. Covington, Roberto Bagnara, Richard A. O'Keefe, Jan Wielemaker, Simon Price
+
+### TypeScript / Vapor
+
+*   [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 
 ---
 

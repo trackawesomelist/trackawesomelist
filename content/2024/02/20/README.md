@@ -10,7 +10,7 @@
 
 ### Register / Diagnostics
 
-*   [kr40/nvim-macros (⭐59)](https://github.com/kr40/nvim-macros) - Easy way to save and load Macros, with backup and formatting options.
+*   [kr40/nvim-macros (⭐58)](https://github.com/kr40/nvim-macros) - Easy way to save and load Macros, with backup and formatting options.
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -26,9 +26,9 @@
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [zeiss/fiber-goth (⭐5)](https://github.com/ZEISS/fiber-goth) -  Simple middleware to integrate authentication to your Fiber applications.
-*   [zeiss/fiber-authz (⭐6)](https://github.com/ZEISS/fiber-authz) - A middleware to secure routes in Fiber with a defined RBAC model.
-*   [zeiss/fiber-htmx (⭐57)](https://github.com/ZEISS/fiber-htmx) - A middleware for using HTMX in Fiber.
+*   [zeiss/fiber-goth (⭐5)](https://github.com/ZEISS/fiber-goth) - Simple middleware to integrate authentication to your Fiber applications.
+*   [zeiss/fiber-authz (⭐7)](https://github.com/ZEISS/fiber-authz) - A middleware to secure routes in Fiber with a defined RBAC model.
+*   [zeiss/fiber-htmx (⭐58)](https://github.com/ZEISS/fiber-htmx) - A middleware for using HTMX in Fiber.
 
 ## [4. Awesome Glp1](/content/glp1guide/awesome-glp1/README.md)
 

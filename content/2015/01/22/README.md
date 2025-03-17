@@ -10,7 +10,7 @@
 
 ### Test-Driven Development
 
-*   [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by **Robert C. Martin** \[53:43]
+*   [The Transformation Priority Premise](https://www.youtube.com/watch?v=B93QezwTQpI) by **Robert C. Martin** (NDC 2011) \[53:43]
 
 ## [2. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

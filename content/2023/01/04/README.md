@@ -40,7 +40,7 @@
 
 ### Editor plugins / VS Code
 
-*   [vscode-vlang (⭐388)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
+*   [vscode-vlang (⭐391)](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
 
 ### Online IDEs with V / Vim
 
@@ -49,7 +49,7 @@
 
 ### Programming contests / Vim
 
-*   [Advent of Code 2022 (⭐43)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
+*   [Advent of Code 2022 (⭐44)](https://github.com/vlang/adventofcode) - Solution of Advent of Code 2022 in V.
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
@@ -69,7 +69,7 @@
 
 ### Shells / On Host
 
-*   [mpbridge (⭐52)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
+*   [mpbridge (⭐53)](https://github.com/AmirHmZz/mpbridge) - A file system bridge to synchronize and manage files on a device running MicroPython.
 
 ## [7. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -105,7 +105,7 @@
 
 ### Note Taking / Diagnostics
 
-*   [RutaTang/quicknote.nvim (⭐129)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
+*   [RutaTang/quicknote.nvim (⭐132)](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
 
 ### Terminal Integration / Diagnostics
 
@@ -113,7 +113,7 @@
 
 ### Code Runner / Diagnostics
 
-*   [idanarye/nvim-moonicipal (⭐18)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
+*   [idanarye/nvim-moonicipal (⭐19)](https://github.com/idanarye/nvim-moonicipal) - Task runner with focus on rapidly changing personal tasks.
 
 ## [11. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

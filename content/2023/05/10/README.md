@@ -10,7 +10,7 @@
 
 ### Plugins
 
-*   💼 [Claymorphism (⭐20)](https://github.com/dulltackle/tailwindcss-claymorphism) - Adds `clay` utilities for creating claymorphism style.
+*   💼 [Claymorphism (⭐21)](https://github.com/dulltackle/tailwindcss-claymorphism) - Adds `clay` utilities for creating claymorphism style.
 
 ## [2. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
@@ -83,7 +83,7 @@
 
 ### Table of Contents / Streaming Library
 
-*   [Substation (⭐333)](https://github.com/brexhq/substation) \[Go] - Substation is a cloud native data pipeline and transformation toolkit written in Go.
+*   [Substation (⭐350)](https://github.com/brexhq/substation) \[Go] - Substation is a cloud native data pipeline and transformation toolkit written in Go.
 
 ---
 

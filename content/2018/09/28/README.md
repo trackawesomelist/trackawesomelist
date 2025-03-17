@@ -52,7 +52,7 @@
 
 ### Plugins / IRC
 
-*   [Narrowspark-Automatic (⭐12)](https://github.com/narrowspark/automatic) - Automates the most common tasks of applications, boost package downloads, adds a composer security audit and more.
+*   [Narrowspark-Automatic (⭐13)](https://github.com/narrowspark/automatic) - Automates the most common tasks of applications, boost package downloads, adds a composer security audit and more.
 
 ## [4. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
@@ -92,7 +92,7 @@
 
 ### UI
 
-*   [Stepper Touch (⭐322)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
+*   [Stepper Touch (⭐329)](https://github.com/Rahiche/stepper_touch) <!--stargazers:Rahiche/stepper_touch--> - Lateral value stepper nicely animated by [Raouf Rahiche](https://github.com/Rahiche).
 
 ## [8. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 

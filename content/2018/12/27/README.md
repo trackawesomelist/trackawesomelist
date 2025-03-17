@@ -60,7 +60,7 @@ Topics: Standards, Web Assembly\
 
 ### Bug Reporting
 
-*   [Khronos Github Issue Page (⭐2.5k)](https://github.com/KhronosGroup/WebGL/issues) - Spec or Conformance related bugs
+*   [Khronos Github Issue Page (⭐2.7k)](https://github.com/KhronosGroup/WebGL/issues) - Spec or Conformance related bugs
 
 ### Tools/Debugging
 

@@ -94,7 +94,7 @@
 
 ### Other
 
-*   [lockfile-lint (⭐783)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
+*   [lockfile-lint (⭐790)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 
 ## [8. Awesome Tap](/content/sindresorhus/awesome-tap/README.md)
 

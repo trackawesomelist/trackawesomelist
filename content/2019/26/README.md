@@ -58,11 +58,11 @@
 
 ### Packages / Image
 
-*   [qrcode (⭐7.6k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
+*   [qrcode (⭐7.7k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 
 ### Packages / Job queues
 
-*   [better-queue (⭐518)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐526)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 
@@ -88,7 +88,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Sorbet (⭐3.6k)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
+*   [Sorbet (⭐3.7k)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
 
 ## [12. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -161,7 +161,7 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐492)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐495)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 

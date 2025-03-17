@@ -11,39 +11,39 @@
 ### Packages / Command-line apps
 
 *   [speed-test (⭐3.9k)](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
-*   [David (⭐967)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
+*   [David (⭐968)](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 *   [normit (⭐241)](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 
 ### Packages / Command-line utilities
 
 *   [log-update (⭐1.1k)](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
-*   [ansi-escapes (⭐498)](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
-*   [log-symbols (⭐745)](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
-*   [figures (⭐596)](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
-*   [string-width (⭐482)](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
-*   [yn (⭐268)](https://github.com/sindresorhus/yn) - Parse yes/no like values.
-*   [cli-cursor (⭐105)](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
+*   [ansi-escapes (⭐508)](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
+*   [log-symbols (⭐752)](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
+*   [figures (⭐599)](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
+*   [string-width (⭐487)](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
+*   [yn (⭐267)](https://github.com/sindresorhus/yn) - Parse yes/no like values.
+*   [cli-cursor (⭐107)](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
 
 ### Packages / Filesystem
 
-*   [filenamify (⭐489)](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
+*   [filenamify (⭐495)](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
 *   [fs-extra (⭐9.5k)](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
 
 ### Packages / Streams
 
-*   [into-stream (⭐207)](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
-*   [byline (⭐325)](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
-*   [first-chunk-stream (⭐27)](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
+*   [into-stream (⭐206)](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
+*   [byline (⭐324)](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
+*   [first-chunk-stream (⭐26)](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 *   [pad-stream (⭐11)](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
 
 ### Packages / Text
 
-*   [string-length (⭐163)](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
+*   [string-length (⭐165)](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 *   [splice-string (⭐23)](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 
 ### Packages / Number
 
-*   [random-int (⭐87)](https://github.com/sindresorhus/random-int) - Generate a random integer.
+*   [random-int (⭐88)](https://github.com/sindresorhus/random-int) - Generate a random integer.
 *   [random-float (⭐36)](https://github.com/sindresorhus/random-float) - Generate a random float.
 *   [unique-random (⭐116)](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
 *   [round-to (⭐155)](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
@@ -59,15 +59,15 @@
 ### Packages / Parsing
 
 *   [parse5 (⭐3.7k)](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
-*   [strip-json-comments (⭐600)](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
-*   [strip-css-comments (⭐121)](https://github.com/sindresorhus/strip-css-comments) - Strip comments from CSS.
+*   [strip-json-comments (⭐602)](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
+*   [strip-css-comments (⭐124)](https://github.com/sindresorhus/strip-css-comments) - Strip comments from CSS.
 *   [neat-csv (⭐321)](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
 *   [binary-extract (⭐154)](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
-*   [js-yaml (⭐6.3k)](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
+*   [js-yaml (⭐6.4k)](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 
 ### Packages / Compression
 
-*   [pako (⭐5.6k)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
+*   [pako (⭐5.7k)](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
 
 ### Packages / Testing
 
@@ -79,17 +79,17 @@
 
 ### Packages / Miscellaneous
 
-*   [hasha (⭐959)](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
-*   [dot-prop (⭐820)](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
+*   [hasha (⭐955)](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
+*   [dot-prop (⭐825)](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 *   [onetime (⭐162)](https://github.com/sindresorhus/onetime) - Only run a function once.
-*   [os-locale (⭐225)](https://github.com/sindresorhus/os-locale) - Get the system locale.
-*   [file-type (⭐3.7k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
+*   [os-locale (⭐226)](https://github.com/sindresorhus/os-locale) - Get the system locale.
+*   [file-type (⭐3.9k)](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
-*   [semver.c (⭐186)](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. \[MIT]
+*   [semver.c (⭐188)](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. \[MIT]
 
 ## [3. Rbooks](/content/RomanTsegelskyi/rbooks/README.md)
 

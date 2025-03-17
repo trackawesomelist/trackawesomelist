@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Hermes (⭐755)](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
+*   [Hermes (⭐819)](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
 
 ## [2. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -241,7 +241,7 @@
 
 ### Datasets / Realtime
 
-*   [Eventsim (⭐501)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
+*   [Eventsim (⭐518)](https://github.com/Interana/eventsim) - Event data simulator. Generates a stream of pseudo-random events from a set of users, designed to simulate web traffic.
 
 ## [5. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -325,7 +325,7 @@ This is a great introduction to several aspects of R programming. Loading data i
 
 ### Debug
 
-*   [UnitTest++ (⭐559)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
+*   [UnitTest++ (⭐563)](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. \[MIT/X Consortium license]
 
 ## [10. Tips](/content/git-tips/tips/week/README.md)
 
@@ -567,7 +567,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Documentation
 
-*   [rspec\_api\_documentation (⭐1.4k)](https://github.com/zipmark/rspec_api_documentation) - Automatically generate API documentation from RSpec.
+*   [rspec\_api\_documentation (⭐1.5k)](https://github.com/zipmark/rspec_api_documentation) - Automatically generate API documentation from RSpec.
 
 ### PDF
 
@@ -882,7 +882,7 @@ git subtree pull --prefix=<directory_name>/<project_name> --squash git@github.co
 
 ### Text and Numbers
 
-*   [money (⭐834)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐836)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
 ## [28. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 

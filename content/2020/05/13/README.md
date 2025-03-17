@@ -76,7 +76,7 @@
 
 ## [8. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
-### Retro
+### MusaicFM
 
 ### Fruit
 
@@ -172,7 +172,7 @@ Free
 
 ### Demonstrations
 
-*   [Official Gallery (⭐6.4k)](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team
+*   [Official Gallery (⭐6.5k)](https://github.com/flutter/gallery) - Demo for the material design widgets provided by Flutter Team
 
 ### 🇲🇾 Malaysia / Misc
 
@@ -180,7 +180,7 @@ Free
 
 ## [19. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Books / Other
+### Books / Mind Mapping & Documentation
 
 *   [Testing JavaScript Applications](https://www.manning.com/books/testing-javascript-applications) - A book about JavaScript testing tools and techniques for developers.
 
@@ -188,30 +188,30 @@ Free
 
 ### Front-End Development
 
-*   [Preact (⭐905)](https://github.com/preactjs/awesome-preact#readme) - App framework.
-*   [Web Performance Budget (⭐113)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+*   [Preact (⭐916)](https://github.com/preactjs/awesome-preact#readme) - App framework.
+*   [Web Performance Budget (⭐118)](https://github.com/pajaydev/awesome-web-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 
 ### Computer Science
 
-*   [Static Analysis & Code Quality (⭐13k)](https://github.com/analysis-tools-dev/static-analysis#readme)
+*   [Static Analysis & Code Quality (⭐14k)](https://github.com/analysis-tools-dev/static-analysis#readme)
 
 ### Learn
 
-*   [Educational Games (⭐899)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
+*   [Educational Games (⭐928)](https://github.com/yrgo/awesome-educational-games#readme) - Learn while playing.
 
 ### Hardware
 
-*   [Bluetooth Beacons (⭐904)](https://github.com/rabschi/awesome-beacon#readme)
+*   [Bluetooth Beacons (⭐912)](https://github.com/rabschi/awesome-beacon#readme)
 
 ### Decentralized Systems
 
-*   [Ethereum (⭐317)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+*   [Ethereum (⭐325)](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 
 ### Miscellaneous
 
 *   [Continuous Integration and Continuous Delivery (⭐1.9k)](https://github.com/cicdops/awesome-ciandcd#readme)
-*   [Self Hosted (⭐205k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
-*   [Homematic (⭐195)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
+*   [Self Hosted (⭐220k)](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+*   [Homematic (⭐198)](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 
 ## [21. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

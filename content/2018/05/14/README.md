@@ -8,10 +8,10 @@
 
 ## [1. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
-### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/PwoOQGB)
 
-*   [한국어 (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
-*   [Português do Europe (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
+*   [한국어 (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ko-KR)
+*   [Português do Europe (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-PT)
 
 ## [2. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

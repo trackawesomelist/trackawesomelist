@@ -8,7 +8,7 @@
 
 ## [1. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
-### Learning / Talks Presentations Podcasts
+### Learning, Tutorials & Documentation / Webinars & Conference Talks
 
 *   [Demuxed 2022](https://www.youtube.com/playlist?list=PLkyaYNWEKcOf98lZxnCcL6y7ZIVU3oSYO)  - 2022 Demuxed talks & presentations
 

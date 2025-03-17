@@ -90,7 +90,7 @@
 
 ### UICollectionView / Barcode
 
-*   [CardsLayout (⭐855)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+*   [CardsLayout (⭐858)](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
 
 ---
 

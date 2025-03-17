@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 13 - Jun 19, 2022
 
-51 awesome lists updated this week.
+52 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -87,13 +87,13 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-simple-calendar (⭐894)](https://github.com/richardtallent/vue-simple-calendar) - Flexbox-based Vue month calendar component; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
+*   [vue-simple-calendar (⭐895)](https://github.com/richardtallent/vue-simple-calendar) - Flexbox-based Vue month calendar component; supports multi-day events, localization, holiday emoji, drag/drop. No dependencies.
 *   [vue-advanced-chat (⭐1.8k)](https://github.com/antoine92190/vue-advanced-chat) - Feature-rich and fully customizable chat rooms component. Support files, images, videos, audio, emojis, customised actions, etc.
 *   [vue-input-facade (⭐183)](https://github.com/RonaldJerez/vue-input-facade) - A lightweight and dependency free input masking library created specific for Vue, originally a fork of the famous *vue-text-mask* but actively maintained and with lots of improvements after there.
 
 ### Components & Libraries / Integrations
 
-*   [vue-cli-plugin-chrome-extension-cli (⭐304)](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin generate chrome extension template
+*   [vue-cli-plugin-chrome-extension-cli (⭐307)](https://github.com/sanyu1225/vue-cli-plugin-chrome-extension-cli) - Vue CLI Plugin generate chrome extension template
 
 ## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
@@ -105,7 +105,7 @@
 
 ### HTTP Servers / Clack plugins
 
-*   [tiny-routes (⭐16)](https://github.com/jeko2000/tiny-routes) -  A tiny routing library for Common Lisp targeting Clack. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [tiny-routes (⭐17)](https://github.com/jeko2000/tiny-routes) -  A tiny routing library for Common Lisp targeting Clack. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Utility / Diagnostics
 
-*   [m-demare/attempt.nvim (⭐88)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
+*   [m-demare/attempt.nvim (⭐89)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 
 ## [15. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
@@ -172,10 +172,10 @@
 
 ### Security
 
-*   [Fingerprinter (⭐256)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
-*   [haiti (⭐810)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
-*   [Pipal (⭐634)](https://github.com/digininja/pipal) - Password analyser and statistics generator
-*   [WhatWeb (⭐5.6k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
+*   [Fingerprinter (⭐257)](https://github.com/erwanlr/Fingerprinter) - CMS/LMS/Library etc versions fingerprinter.
+*   [haiti (⭐843)](https://github.com/noraj/haiti) - Hash type identifier (CLI & lib).
+*   [Pipal (⭐638)](https://github.com/digininja/pipal) - Password analyser and statistics generator
+*   [WhatWeb (⭐5.7k)](https://github.com/urbanadventurer/WhatWeb) - Website Fingerprinter.
 *   [WPscan](http://wpscan.org/) - WordPress vulnerability scanner.
 
 ## [18. Awesome React Components](/content/brillout/awesome-react-components/week/README.md)
@@ -188,7 +188,7 @@
 
 ### Examples
 
-*   [httpie/httpie (⭐34k)](https://github.com/httpie/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
+*   [httpie/httpie (⭐35k)](https://github.com/httpie/httpie#readme) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
 
 ### Articles
 
@@ -202,7 +202,7 @@
 
 ### Clojure / General-Purpose Machine Learning
 
-*   [scicloj.ml (⭐220)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
+*   [scicloj.ml (⭐221)](https://github.com/scicloj/scicloj.ml) -  A idiomatic Clojure machine learning library based on tech.ml.dataset with a unique approach for immutable data processing pipelines.
 
 ## [21. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
@@ -240,7 +240,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐76)](https://github.com/laboratoriobridge/bold)
+  Source code \*: [:octocat: (⭐77)](https://github.com/laboratoriobridge/bold)
 
 
 - : [Bolt Design System](https://boltdesignsystem.com/)
@@ -251,7 +251,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐292)](https://github.com/boltdesignsystem/bolt)
+  Source code \*: [:octocat: (⭐291)](https://github.com/boltdesignsystem/bolt)
 
 
 - : [Brighte Spark Design System](https://spark.brighte.com.au/)
@@ -273,7 +273,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐135)](https://github.com/buzzfeed/solid)
+  Source code \*: [:octocat: (⭐134)](https://github.com/buzzfeed/solid)
 
 
 - : [Cloudflare](https://cloudflare.github.io/cf-ui/)
@@ -295,7 +295,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐180)](https://github.com/eBay/skin)
+  Source code \*: [:octocat: (⭐181)](https://github.com/eBay/skin)
 
 
 - : [Elastic UI Framework](https://elastic.github.io/eui/)
@@ -382,13 +382,43 @@
 
 *   [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
 
-## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Lua / PicoLisp
+
+*   [Learning Lua ebook](https://riptutorial.com/Download/lua.pdf) - Compiled from StackOverflow Documentation (PDF)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Modeling Creativity: Case Studies in Python](https://arxiv.org/pdf/1410.0281.pdf) - Tom D. De Smedt (PDF)
+
+## [27. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### APIs, Data, and ML
+
+*   [Stoplight](https://stoplight.io/) - Saas for collaboratively designing and documenting for APIs. The free plan offers free design, mocking, and documentation tools.
+
+### Tools for Teams and Collaboration
+
+*   [Dyte](https://dyte.io) - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement. The free tier includes monthly 10,000 minutes of live video/audio usage.
+
+### Design and UI
+
+*   [ColorKit](https://colorkit.co/) - Create color palettes online or get inspiration from top palettes.
+
+### Miscellaneous
+
+*   [CodeToImage](https://codetoimage.com/) - Create screenshots of code or text to share on social media.
+*   [OnlineExifViewer](https://onlineexifviewer.com/) — View EXIF data online instantly for a photo including GPS location and metadata.
+*   [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
+
+## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Images / Barcode
 
-*   [Harbeth (⭐512)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
+*   [Harbeth (⭐538)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
 
-## [27. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [29. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Tauri / Elm
 
@@ -396,7 +426,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-optimizer (⭐36)](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
+*   [vite-plugin-optimizer (⭐37)](https://github.com/vite-plugin/vite-plugin-optimizer) - Manually Pre-Bundling.
 
 ### Frameworks / Community
 
@@ -404,25 +434,25 @@
 
 ### Open Source / Community
 
-*   [Nhost (⭐8.1k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
+*   [Nhost (⭐8.2k)](https://github.com/nhost/nhost) - Nhost is an Open Source Firebase Alternative with GraphQL.
 
-## [28. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [30. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### IO / ADC
 
 *   [micropython-pcf8591](https://gitlab.com/cediddi/micropython-pcf8591) - MicroPython driver for PCF8591 ADC/DAC, I2C interface.
 
-## [29. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [31. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Apps
 
 *   [Who's That Pokémon? (⭐3)](https://github.com/serena2341/whos-that-pokemon) - Guess Pokémon from their silhouette.
 
-## [30. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [32. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Email
 
-*   [go-email-normalizer (⭐65)](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address.
+*   [go-email-normalizer (⭐66)](https://github.com/dimuska139/go-email-normalizer) - Golang library for providing a canonical representation of email address.
 
 ### Utilities
 
@@ -432,7 +462,7 @@
 
 *   [gotemplate.io](https://gotemplate.io/) - Online tool to preview `text/template` templates live.
 
-## [31. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
+## [33. Awesome Esp](/content/agucova/awesome-esp/week/README.md)
 
 ### Firmware
 
@@ -485,72 +515,48 @@
 *   [HomeSpan (⭐627)](https://github.com/HomeSpan/HomeSpan) - A robust and extremely easy-to-use Arduino library for creating your own ESP32-based HomeKit devices.
 *   [LedFx (⭐706)](https://github.com/LedFx/LedFx) - A library for using audio input to create realtime light shows. LedFx can control multiple devices and works great with cheap ESP8266 nodes.
 
-## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [git-sync (⭐46)](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
-*   [smartcache (⭐34)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
+*   [smartcache (⭐36)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [paxton (⭐0)](https://github.com/p1xt4n/ohmyzsh-theme-paxton) - Inspired by powerline. Includes segments for `git` branch, time, last command exit status and current directory. Requires a powerline-compatible font.
 *   [yellow-sea-diamonds (⭐0)](https://github.com/jimratliff/yellow-sea-diamonds-zsh-theme) - Includes decorations for `git` status, current directory, active python virtual environment, and the exit status of the last command run.
 
-## [33. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [35. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Related / Awesome Lists
 
 *   [Awesome Locust (⭐89)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
-## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [36. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐248)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems](https://ferrous-systems.com) to corporate customers.
+*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐249)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems](https://ferrous-systems.com) to corporate customers.
 
 ### no-std crates / WIP
 
 *   [drogue-device (⭐191)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
-*   [ector (⭐51)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
-*   [embedded-update (⭐22)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
-*   [embedded-tls (⭐177)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
+*   [ector (⭐52)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
+*   [embedded-update (⭐25)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
+*   [embedded-tls (⭐181)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
 
 ### Old books, blogs, and training materials / WIP
 
 *   [Ferrous Systems' Embedded Training Courses: 2019 edition (⭐116)](https://github.com/ferrous-systems/embedded-trainings/) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52 and Decawave's DWM1001-DEV hardware. This training was given at Oxidize Conferences and by Ferrous Systems to corporate customers.
 
-## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data, and ML
-
-*   [Stoplight](https://stoplight.io/) - Saas for collaboratively designing and documenting for APIs. The free plan offers free design, mocking, and documentation tools.
-
-### Tools for Teams and Collaboration
-
-*   [Dyte](https://dyte.io) - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement. The free tier includes monthly 10,000 minutes of live video/audio usage.
-
-### Design and UI
-
-*   [ColorKit](https://colorkit.co/) - Create color palettes online or get inspiration from top palettes.
-
-### Screenshot APIs
-
-*   [Httpic.com](https://httpic.com) — Turn any website into jpg, png or pdf. Capture full-page screenshots, adjust the viewport, and inject custom code. Free tier at 150 images/month.
-
-### Miscellaneous
-
-*   [CodeToImage](https://codetoimage.com/) - Create screenshots of code or text to share on social media.
-*   [OnlineExifViewer](https://onlineexifviewer.com/) — View EXIF data online instantly for a photo including GPS location and metadata.
-*   [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
-
-## [36. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [37. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Security (art. 32)
 
 *   [Anonymisation, pseudonymisation and privacy enhancing technologies guidance](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)
 
-## [37. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [38. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Database
 
@@ -561,13 +567,13 @@
 *   [maxminddb (⭐8)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
 *   [redis (⭐453)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 
-## [38. Awesome K6](/content/grafana/awesome-k6/week/README.md)
+## [39. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
 ### Tools
 
 *   [k6 Testkube executor](https://kubeshop.github.io/testkube/executor-k6/)
 
-## [39. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [40. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Videos / Others
 
@@ -582,19 +588,19 @@
 *   [A Full-Stack Web App Using Blazor WebAssembly and GraphQL: Part 3](https://www.syncfusion.com/blogs/post/a-full-stack-web-app-using-blazor-webassembly-and-graphql-part-3.aspx) - June 8, 2022 - A Full-Stack Web App Using Blazor WebAssembly and GraphQL: Part 3. [Part 1](https://www.syncfusion.com/blogs/post/a-full-stack-web-app-using-blazor-webassembly-and-graphql-part-1.aspx).
 *   [A Full-Stack Web App Using Blazor WebAssembly and GraphQL: Part 1](https://www.syncfusion.com/blogs/post/a-full-stack-web-app-using-blazor-webassembly-and-graphql-part-1.aspx) - February 17, 2022 - This article shows how to create a full-stack web application using Blazor WebAssembly and GraphQL with SQL Server as our database.
 
-## [40. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [41. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Scanning / Pentesting
 
 *   [Cyclops (⭐98)](https://github.com/v8blink/Chromium-based-XSS-Taint-Tracking) - The Cyclops is a web browser with XSS detection feature, it is chromium-based xss detection that used to find the flows from a source to a sink.
 
-## [41. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [42. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Services / Cloud robotics
 
 *   [robolaunch](https://www.robolaunch.io/)
 
-## [42. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [43. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Reading
 
@@ -602,20 +608,20 @@
 
     <img src="https://raw.githubusercontent.com/brianseidman/scriptable-pocket-widget/72495ad9cc488b9790bb2ee6eac8dcedcf36dd96/Resources/scriptable-pocket-widget-image.png" width="400">
 
-## [43. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [44. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Related / Other
 
 *   [How They Load Test (⭐109)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
 *   [Load Testing Toolkit (⭐179)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
-## [44. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [45. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Engines and Frameworks / Voxel Editors
 
 *   :tada: [Screen 13 (⭐275)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan rendering engine. Provides a render graph for Rust.
 
-## [45. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [46. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Libraries
 
@@ -633,7 +639,7 @@
     *   [Vulkan-WSIWindow (⭐106)](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. \[Apache License 2.0]
     *   [Screen 13 (⭐243)](https://github.com/attackgoat/screen-13) - An easy-to-use Vulkan render graph for Rust. \[MIT]
 
-## [46. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [47. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### IDE
 
@@ -641,7 +647,7 @@
 
 ### GUI
 
-*   [DB Lens (⭐256)](https://github.com/dblens/app) - Open Source Postgres GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
+*   [DB Lens (⭐258)](https://github.com/dblens/app) - Open Source Postgres GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
 
 ### Schema / Design
 
@@ -651,31 +657,31 @@
 
 *   [Remult (⭐3k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 
-## [47. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [48. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Networking
 
-*   [SNMP (⭐127)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+*   [SNMP (⭐134)](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 
-## [48. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [49. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [diod (⭐139)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
+*   :octocat: [diod (⭐140)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
 
-## [49. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
+## [50. Awesome Love2d](/content/love2d-community/awesome-love2d/week/README.md)
 
 ### Camera
 
 *   [cam11](https://notabug.org/pgimeno/cam11) - Camera library that leverages the Transform object introduced in love2d 11.0+.
 
-## [50. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [51. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Debug
 
 *   [Touca (⭐501)](https://github.com/trytouca/trytouca) - Open-source regression testing system that you can self-host. \[Apache2] [website](https://touca.io/)
 
-## [51. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
+## [52. Awesome Home Assistant](/content/frenck/awesome-home-assistant/week/README.md)
 
 ### Installing
 

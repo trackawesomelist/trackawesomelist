@@ -14,7 +14,7 @@
 
 ### Developer Tools / Services
 
-*   [EOSEssentials/EOSDrops (⭐56)](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOSIO blockchain.
+*   [EOSEssentials/EOSDrops (⭐57)](https://github.com/EOSEssentials/EOSDrops) - Airdropping tool for the EOSIO blockchain.
 
 ### Block Producer tools / Services
 
@@ -22,19 +22,19 @@
 
 ### Other in Developers / Services
 
-*   [cleos-auto-completion (⭐31)](https://github.com/hexlant/cleos-auto-completion) - Command auto-completion for EOSIO cleos.
+*   [cleos-auto-completion (⭐30)](https://github.com/hexlant/cleos-auto-completion) - Command auto-completion for EOSIO cleos.
 *   [EOS-Sync](https://github.com/EOSpace/eos-sync) - Syncing the EOSIO blockchain data to mongodb database.
 
 ### Other in DApps / Services
 
-*   [eosfilestore (⭐45)](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
+*   [eosfilestore (⭐46)](https://github.com/grigio/eosfilestore) - Immutable, censorship resistant, cheap, file storage on EOSIO blockchain.
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Computer Science
 
-*   [Cryptography (⭐5.9k)](https://github.com/sobolevn/awesome-cryptography#readme)
-    *   [Papers (⭐1.8k)](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
+*   [Cryptography (⭐6.1k)](https://github.com/sobolevn/awesome-cryptography#readme)
+    *   [Papers (⭐1.9k)](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -88,7 +88,7 @@
 
 ## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Reading and Writing Tools / Markdown Tools
+### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 *   [Marked 2](http://marked2app.com/) - This is the Markdown preview with an elegant and powerful set of tools for all writers.
 

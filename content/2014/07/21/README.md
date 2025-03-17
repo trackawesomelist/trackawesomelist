@@ -22,7 +22,7 @@
 
 ### Files / Runner
 
-*   [jBinary (⭐540)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+*   [jBinary (⭐544)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 
 ## [4. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 

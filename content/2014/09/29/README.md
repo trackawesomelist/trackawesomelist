@@ -8,13 +8,9 @@
 
 ## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
-### Build Tools
-
-*   [ExMake (⭐17)](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
-
 ### Caching
 
-*   [con\_cache (⭐910)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+*   [con\_cache (⭐917)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
 ### Code Analysis
 
@@ -38,12 +34,12 @@
 
 ### Geolocation
 
-*   [geo (⭐647)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+*   [geo (⭐649)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
 ### Miscellaneous
 
 *   [exquisite (⭐78)](https://github.com/meh/exquisite) - LINQ-like match\_spec generation for Elixir.
-*   [porcelain (⭐946)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
+*   [porcelain (⭐947)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 *   [reprise (⭐43)](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 *   [spawndir (⭐4)](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
@@ -56,10 +52,6 @@
 ### Package Management
 
 *   [Hex](https://hex.pm/) - A package manager for the Erlang ecosystem.
-
-### Release Management
-
-*   [exrm (⭐921)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
 
 ### Static Page Generation
 

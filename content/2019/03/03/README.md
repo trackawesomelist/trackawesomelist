@@ -10,7 +10,7 @@
 
 ### Tools
 
-*   [Rainbow CSV plugins (⭐559)](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim (⭐559)](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
+*   [Rainbow CSV plugins (⭐644)](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim (⭐644)](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
 
 ## [2. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
@@ -22,7 +22,7 @@
 
 ### conversion
 
-*   [togeojson (⭐401)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
+*   [togeojson (⭐420)](https://github.com/tmcw/togeojson): convert GPX & KML to geojson
 
 ## [4. Awesome Diversity](/content/folkswhocode/awesome-diversity/README.md)
 
@@ -85,16 +85,16 @@
 
 ### Platforms
 
-*   [Robot Operating System 2.0 (⭐1.7k)](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
+*   [Robot Operating System 2.0 (⭐1.8k)](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
 
 ### Decentralized Systems
 
-*   [EOSIO (⭐76)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
+*   [EOSIO (⭐79)](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
 
 ### Miscellaneous
 
-*   [Scientific Computing (⭐1.3k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-*   [Amazon Sellers (⭐320)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+*   [Scientific Computing (⭐1.4k)](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
+*   [Amazon Sellers (⭐335)](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 ## [9. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -117,7 +117,7 @@
 
 ### UI / Calendar
 
-*   [Table Calendar (⭐1.8k)](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
+*   [Table Calendar (⭐1.9k)](https://github.com/aleksanderwozniak/table_calendar) <!--stargazers:aleksanderwozniak/table_calendar--> - Calendar organized neatly into a Table, with vertical autosizing by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 
 ## [11. Awesome Python](/content/vinta/awesome-python/README.md)
 

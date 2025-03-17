@@ -18,7 +18,7 @@
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Agency Tools
+### Agency Tools / General GIS Applications for making transit visualizations
 
 *   Route Trends ([webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub (⭐15)](https://github.com/metrotransit/route-trends)) - An R Shiny app to ingest ridership time series, and return seasonal, trend, and residual components according to [STL methodology](https://otexts.com/fpp2/stl.html) and forecasts including uncertainty based on those components.  Sponsored by [Metro Transit](https://www.metrotransit.org/) (Minneapolis-St. Paul).
 

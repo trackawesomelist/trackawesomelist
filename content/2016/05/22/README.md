@@ -42,7 +42,7 @@
 
 ### Native Implemented Functions
 
-*   [hsnif (⭐26)](https://github.com/urbanserj/hsnif) - Tool that allows to write Erlang NIF libraries in Haskell.
+*   [hsnif (⭐25)](https://github.com/urbanserj/hsnif) - Tool that allows to write Erlang NIF libraries in Haskell.
 
 ---
 

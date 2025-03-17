@@ -22,7 +22,7 @@
 
 ### Websites
 
-*   [EOS Smart Contract Development Security Best Practices (⭐389)](https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md)
+*   [EOS Smart Contract Development Security Best Practices (⭐400)](https://github.com/slowmist/eos-smart-contract-security-best-practices/blob/master/README_EN.md)
 *   [ESC - EOS Study Center](https://eosvenezuela.io/esc.html)
 
 ## [4. Awesome D](/content/dlang-community/awesome-d/README.md)
@@ -55,12 +55,12 @@
 
 ### Portal / Form Components
 
-*   [svelte-portal (⭐448)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
+*   [svelte-portal (⭐450)](https://github.com/romkor/svelte-portal) - Component for rendering outside the DOM of parent component.
 *   [svelte-teleport (⭐25)](https://github.com/nasso/svelte-teleport) - A component to teleport elements across the DOM.
 
 ### Routers / Form Components
 
-*   [svelte-router-spa (⭐530)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
+*   [svelte-router-spa (⭐531)](https://github.com/jorgegorka/svelte-router) - Router adds routing to your Single Page Applications (SPA). Includes localisation, guards and nested layouts.
 *   [svelte-routing (⭐2k)](https://github.com/EmilTholin/svelte-routing) - A declarative Svelte routing library with SSR support.
 *   [tinro (⭐681)](https://github.com/AlexxNB/tinro) - A tiny, dependency free and highly declarative router.
 *   [svelte-spa-router (⭐1.6k)](https://github.com/ItalyPaleAle/svelte-spa-router) - Optimized for Single Page Applications (SPA) with hash based routing and support for parameters.
@@ -167,8 +167,8 @@
 
 ### Libraries / New Libraries
 
-*   [jaxlie](https://github.com/brentyi/jaxlie) - Lie theory library for rigid body transformations and optimization. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
-*   [BRAX](https://github.com/google/brax) - Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
+*   [jaxlie (⭐241)](https://github.com/brentyi/jaxlie) - Lie theory library for rigid body transformations and optimization. <img src="https://img.shields.io/github/stars/brentyi/jaxlie?style=social" align="center">
+*   [BRAX (⭐2.5k)](https://github.com/google/brax) - Differentiable physics engine to simulate environments along with learning algorithms to train agents for these environments. <img src="https://img.shields.io/github/stars/google/brax?style=social" align="center">
 
 ## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

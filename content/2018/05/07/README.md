@@ -44,7 +44,7 @@
 
 ### Template / Barcode
 
-*   [Stencil (⭐2.3k)](https://github.com/stencilproject/Stencil) - Simple and powerful template language.
+*   [Stencil (⭐2.4k)](https://github.com/stencilproject/Stencil) - Simple and powerful template language.
 
 ## [7. Awesome Css Learning](/content/micromata/awesome-css-learning/README.md)
 

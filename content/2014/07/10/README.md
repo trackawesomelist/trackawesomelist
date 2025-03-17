@@ -123,7 +123,7 @@
 
 ### Key-value Data Model
 
-*   [Tarantool (⭐3.2k)](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
+*   [Tarantool (⭐3.5k)](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -140,7 +140,7 @@
 
 *   [phantomjs (⭐29k)](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 *   [slimerjs (⭐3k)](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
-*   [zombie (⭐5.7k)](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
+*   [zombie (⭐5.6k)](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 *   [totoro (⭐564)](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 *   [karma (⭐12k)](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
 

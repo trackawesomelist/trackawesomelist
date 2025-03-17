@@ -56,11 +56,11 @@
 
 *   [crytic (⭐66)](https://github.com/hanneskaeufler/crytic) - Mutation testing framework
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [8. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
-### C++ / General-Purpose Machine Learning
+### Machine Learning
 
-*   [Feast (⭐5.7k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
+*   [Feast (⭐5.8k)](https://github.com/gojek/feast) - A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving.
 
 ---
 

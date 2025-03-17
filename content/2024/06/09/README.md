@@ -10,7 +10,7 @@
 
 ### Tools / Playground
 
-*   [pg (⭐355)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
+*   [pg (⭐360)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 
 ## [2. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Configuration
 
-*   [tmux-keybtest (⭐2)](https://github.com/jaclu/tmux-keybtest) Check what keys tmux can detect from the terminal being used.
+*   [tmux-keybtest (⭐3)](https://github.com/jaclu/tmux-keybtest) Check what keys tmux can detect from the terminal being used.
 
 ---
 

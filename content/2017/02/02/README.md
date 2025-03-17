@@ -71,7 +71,7 @@
 
 ### Service Programming
 
-*   [Hydrosphere Mist (⭐323)](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.
+*   [Hydrosphere Mist (⭐325)](https://github.com/Hydrospheredata/mist) - a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services.
 
 ## [6. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

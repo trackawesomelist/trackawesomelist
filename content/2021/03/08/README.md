@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 08, 2021
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -39,27 +39,21 @@
 
 *   [Learning Tensorflow.js: Powerful Machine Learning in JavaScript](https://amzn.to/3dR3vpY) - In this guide, author [Gant Laborde](https://github.com/gantman) provides a hands-on, end-to-end approach to TensorFlow\.js fundamentals for a broad technical audience that includes data scientists, engineers, web developers, students, and researchers.
 
-## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
-
-### Community
-
-*   [Openbase](https://openbase.com/js/playcanvas)
-
-## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [3. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Analytics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [Kindmetrics](https://kindmetrics.io) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/kindmetrics/kindmetrics) - Privacy focused website analytics made in Crystal - Hosted in the EU.
 *   [Counter](https://counter.dev/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/logo/github.svg?sanitize=true" width="16"/>](https://github.com/ihucos/counter.dev) - Web Analytics made simple and therefore privacy friendly.
 
-## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Utilities / Apache License
 
 *   [macos-sdks-vs-gcc (⭐1)](https://github.com/simonjwright/macos-sdks-vs-gcc) - Provides GCC 'specs' files to cope with SDK policy changes.
 *   [ux-strings (⭐11)](https://github.com/Blady-Com/UXStrings) - Unicode extended strings.
 
-## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+## [5. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ### Books
 
@@ -69,13 +63,13 @@
 
 *   [Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) - Powerful automation app (iOS).
 
-## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [6. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Adobe CC / Third Party Hosts
 
 *   [Adobe CC 2019/2020 AIO Patcher](https://cracked.to/Thread-Cracked-CRACK-ADOBE-CC-2019-2020-GENP-V2-7) Latest Working All-In-One Patcher for all Adobe Creative Cloud 2019/2020 Applications (Windows)
 
-## [8. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [7. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Network and Middleware / Real-Time Kernel
 
@@ -85,13 +79,13 @@
 
 *   [awesome CAN (⭐987)](https://github.com/iDoka/awesome-canbus) -  A curated list of awesome CAN bus tools, hardware and resources.
 
-## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### 2D/3D Rendering engines / Others
 
 *   [BlazorTypewriter (⭐21)](https://github.com/ormesam/blazor-typewriter) - ![last commit](https://img.shields.io/github/last-commit/ormesam/blazor-typewriter?style=flat-square\&cacheSeconds=86400) A typewriter effect for Blazor.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Security and PKI
 
@@ -101,19 +95,19 @@
 
 *   [Mendix](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited accessible sandbox environments supporting total users, 0.5 GB storage and 1 GB RAM per app. Also, Studio and Studio Pro IDEs are allowed in the free tier.
 
-## [11. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [10. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [yew-train-ticket (⭐4)](https://github.com/anthhub/yew-train-ticket) - A Rust WebAssembly [Webapp](http://118.190.37.169:8002) example basing Yew newest hooks and functional API, the code style is extremely like React Function Component.
 
-## [12. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [11. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSSHub / Outline Processor Markup Language
 
 *   <https://rsshub.wkfg.me/> by [@三丰](https://t.me/junbaor) ![Website](https://img.shields.io/website?down_message=down\&up_message=up\&url=https%3A%2F%2Frsshub.wkfg.me%2F)
 
-## [13. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [12. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Infinite Scroll
 
@@ -130,7 +124,7 @@
 
 *   [react-helmet-async (⭐2k)](https://github.com/staylor/react-helmet-async#readme) - Thread-safe Helmet for React 16+ and friends
 
-## [14. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [13. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### Frontend
 

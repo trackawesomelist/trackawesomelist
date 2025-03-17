@@ -10,7 +10,7 @@
 
 ### Loaders
 
-*   [ESL (⭐842)](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
+*   [ESL (⭐844)](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -23,13 +23,13 @@
 
 ### Natural Language Processing
 
-*   [Pragmatic Segmenter (⭐559)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
+*   [Pragmatic Segmenter (⭐562)](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 
 ## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Functional Programming
 
-*   [Extreme Cleverness: Functional Data Structures in Scala](https://www.youtube.com/watch?v=pNhBQJN44YQ) by **Daniel Spiewak** \[39:24]
+*   [Extreme Cleverness: Functional Data Structures in Scala](https://www.youtube.com/watch?v=pNhBQJN44YQ) by **Daniel Spiewak** (Clojure/Conj 2013) \[39:24]
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

@@ -41,17 +41,17 @@
 
 ### Showcases
 
-*   [Todo App with Playwright (⭐12)](https://github.com/burakkantarci/playwright-todo-app) - Comprehensive Todo app with APIs, E2E tests with GitHub Actions enabled.
+*   [Todo App with Playwright (⭐13)](https://github.com/burakkantarci/playwright-todo-app) - Comprehensive Todo app with APIs, E2E tests with GitHub Actions enabled.
 
 ## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Money, Budgeting & Management
 
-*   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐97)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
+*   [DePay](https://depay.com) - Accept Web3 Payments directly into your wallet. Peer-to-peer, free, self-hosted & open-source. ([Demo](https://depay.com/products/payments), [Source Code (⭐98)](https://github.com/depayfi/widgets)) `MIT` `Nodejs`
 
 ### Software / Software Development - IDE & Tools
 
-*   [code-server (⭐69k)](https://github.com/coder/code-server) - VS Code in the browser, hosted on a remote server. `MIT` `Nodejs/Docker`
+*   [code-server (⭐70k)](https://github.com/coder/code-server) - VS Code in the browser, hosted on a remote server. `MIT` `Nodejs/Docker`
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -69,7 +69,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Whatsup (⭐146)](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
+*   [Whatsup (⭐148)](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 
 ### Functional Programming / Runner
 
@@ -81,12 +81,12 @@
 
 ### API / Runner
 
-*   [SWRV (⭐2.1k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
+*   [SWRV (⭐2.2k)](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
 *   [Vue Query (⭐1.1k)](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
 
 ### Misc / Other
 
-*   [apvarun/awesome-bun (⭐2.7k)](https://github.com/apvarun/awesome-bun)
+*   [apvarun/awesome-bun (⭐2.9k)](https://github.com/apvarun/awesome-bun)
 
 ## [11. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 
@@ -115,7 +115,7 @@
 
 ### Caches
 
-*   [cachego (⭐369)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
+*   [cachego (⭐371)](https://github.com/faabiosr/cachego) - Golang Cache component for multiple drivers.
 
 ### Middlewares / Actual middlewares
 
@@ -135,7 +135,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-jspm (⭐63)](https://github.com/jspm/vite-plugin-jspm) - Resolves dependencies independently from CDN providers using import maps and es-module-shims.
+*   [vite-plugin-jspm (⭐66)](https://github.com/jspm/vite-plugin-jspm) - Resolves dependencies independently from CDN providers using import maps and es-module-shims.
 
 ## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

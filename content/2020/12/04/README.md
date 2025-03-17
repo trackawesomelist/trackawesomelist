@@ -20,7 +20,7 @@
 
 ## [3. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Newsletters / Other
+### Newsletters / Mind Mapping & Documentation
 
 *   [Software Testing Weekly](https://softwaretestingweekly.com/) - A curated round-up of the best software testing news and tools published every Friday.
 

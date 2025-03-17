@@ -128,7 +128,7 @@
 
 ### Tools / Community providers
 
-*   [tfreveal (⭐35)](https://github.com/breml/tfreveal) - A Terraform utility to show Terraform plans with all the secret (sensitive) values revealed.
+*   [tfreveal (⭐38)](https://github.com/breml/tfreveal) - A Terraform utility to show Terraform plans with all the secret (sensitive) values revealed.
 
 ## [5. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
@@ -271,13 +271,11 @@
 
 ### Video Utilities
 
-*   [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Complete video production suite with color grading, VFX, and audio tools.
+*   [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Complete video production suite with color grading, VFX, and audio tools. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 *   [Olive Video Editor](https://www.olivevideoeditor.org/) - Node-based video editor with real-time effects. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/olive-editor/olive)
 *   [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/NickeManarin/ScreenToGif/)
 *   [Shotcut](https://www.shotcut.org/download/) - Video editor with native timeline filtering. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mltframework/shotcut)
 *   [Shutter Encoder](https://www.shutterencoder.com/) - Converts between hundreds of media formats with processing options.
-*   [SMPlayer](https://sourceforge.net/projects/smplayer/) - Remembers settings per video file. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://sourceforge.net/p/smplayer/code/HEAD/tree/)
-*   [SRTEd](https://download.cnet.com/srted-srt-subtitles-editor/3000-13631_4-75884617.html) - Creates and edits SRT subtitle files.
 *   [VLC](https://www.videolan.org/vlc/index.html) - Plays damaged/incomplete media files and network streams. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/videolan/vlc)
 
 ### Virtualization
@@ -301,7 +299,7 @@
 
 ### Networking
 
-*   [tun2socks (⭐3.6k)](https://github.com/xjasonlyu/tun2socks) - A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack.
+*   [tun2socks (⭐3.7k)](https://github.com/xjasonlyu/tun2socks) - A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack.
 
 ### Meetups / Libraries for creating HTTP middlewares
 
@@ -329,7 +327,7 @@
 
 ### Standalone apps / Playground
 
-*   :octocat: [Nostream (⭐756)](https://github.com/cameri/nostream) - A Nostr Relay written in TypeScript
+*   :octocat: [Nostream (⭐771)](https://github.com/cameri/nostream) - A Nostr Relay written in TypeScript
 
 ## [11. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

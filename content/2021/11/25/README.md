@@ -15,7 +15,7 @@
 
 ## [2. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Books / Other
+### Books / Mind Mapping & Documentation
 
 *   [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - A hands-on guide for developers on how to create high quality tests in a systematic and effective way.
 

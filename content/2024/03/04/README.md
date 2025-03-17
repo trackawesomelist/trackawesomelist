@@ -39,14 +39,14 @@
 ### Table of Contents / Security
 
 *   [OWASP](https://owasp.org/) - Explore the world of cyber security.
-*   [Roave Security Advisories (⭐2.7k)](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
+*   [Roave Security Advisories (⭐2.8k)](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
 *   [Zap (⭐13k)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Frameworks
 
-*   [SaneCppLibraries (⭐546)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
+*   [SaneCppLibraries (⭐549)](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. \[MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Utilities
 
-*   [go-lambda-cleanup (⭐91)](https://github.com/karl-cardenas-coding/go-lambda-cleanup) - A CLI for removing unused or previous versions of AWS Lambdas.
+*   [go-lambda-cleanup (⭐92)](https://github.com/karl-cardenas-coding/go-lambda-cleanup) - A CLI for removing unused or previous versions of AWS Lambdas.
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

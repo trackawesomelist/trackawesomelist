@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 14 - Jul 20, 2014
 
-19 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -316,16 +316,38 @@
 *   [Spock (⭐3.5k)](https://github.com/spockframework/spock) - The Enterprise-ready testing and specification framework.
 *   [Geb (⭐1.1k)](https://github.com/geb/geb) - Very Groovy Browser Automation
 
-## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Ada
+
+*   [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
+
+### Alef
+
+*   [Alef Language Reference Manual](http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
+
+### Chapel / Non-X86
+
+*   [Chapel Tutorial](http://faculty.knox.edu/dbunde/teaching/chapel/)
+
+### Limbo / TeX
+
+*   [Inferno Programming With Limbo](http://doc.cat-v.org/inferno/books/inferno_programming_with_limbo/)
+
+### OpenMP / PicoLisp
+
+*   [OpenMP Application Programming Interface Standard Version 4.0](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf) (PDF)
+
+## [9. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line apps
 
-*   [cpy (⭐425)](https://github.com/sindresorhus/cpy) - Copy files.
+*   [cpy (⭐428)](https://github.com/sindresorhus/cpy) - Copy files.
 
 ### Packages / Filesystem
 
 *   [del (⭐1.3k)](https://github.com/sindresorhus/del) - Delete files/folders using globs.
-*   [globby (⭐2.5k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
+*   [globby (⭐2.6k)](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
 
 ### Packages / Real-time
 
@@ -333,16 +355,16 @@
 
 ### Packages / Image
 
-*   [sharp (⭐29k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
+*   [sharp (⭐30k)](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
 *   [image-type (⭐373)](https://github.com/sindresorhus/image-type) - Detect the type of an image.
 *   [gm (⭐7k)](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 
 ### Packages / Text
 
 *   [iconv-lite (⭐3.1k)](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
-*   [escape-string-regexp (⭐584)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
-*   [indent-string (⭐112)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
-*   [strip-indent (⭐135)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+*   [escape-string-regexp (⭐586)](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+*   [indent-string (⭐113)](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
+*   [strip-indent (⭐136)](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 
 ### Packages / Parsing
 
@@ -356,7 +378,7 @@
 
 ### Packages / Network
 
-*   [get-port (⭐880)](https://github.com/sindresorhus/get-port) - Get an available port.
+*   [get-port (⭐890)](https://github.com/sindresorhus/get-port) - Get an available port.
 
 ### Packages / Node.js management
 
@@ -364,7 +386,7 @@
 
 ### Packages / Weird
 
-*   [superb (⭐393)](https://github.com/sindresorhus/superb) - Get superb like words.
+*   [superb (⭐392)](https://github.com/sindresorhus/superb) - Get superb like words.
 *   [cool-ascii-faces (⭐1.8k)](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 
 ### Packages / Miscellaneous
@@ -379,7 +401,7 @@
 
 *   [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 
-## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management
 
@@ -397,7 +419,7 @@
 
 *   [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A book about common security terms and practices for PHP by Chris Cornutt.
 
-## [10. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [11. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Release Management
 
@@ -464,7 +486,7 @@
 
 *   [Learn You Some Erlang](http://learnyousomeerlang.com/) - Learn you some Erlang - for great good! A very thorough resource covering everything from beginning Erlang programming to large-scale development and deployment.
 
-## [11. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
+## [12. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
 ### Admins
 
@@ -551,11 +573,7 @@
 *   [watchman (⭐11k)](https://github.com/facebook/watchman) - Facebook's better
     `watch` - note it works as a service.
 
-## [12. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
-
-### Science and Data Analysis
-
-*   [Cascalog](http://cascalog.org/)
+## [13. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Build Automation and Package management
 
@@ -641,7 +659,7 @@
 
 *   [oss\_clj](https://twitter.com/oss_clj)
 
-## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [14. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
@@ -656,28 +674,28 @@
 
 *   [phantomjs (⭐29k)](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 *   [slimerjs (⭐3k)](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
-*   [zombie (⭐5.7k)](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
+*   [zombie (⭐5.6k)](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 *   [totoro (⭐564)](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 *   [karma (⭐12k)](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [ember.js (⭐22k)](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
+*   [ember.js (⭐23k)](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
 *   [knockout (⭐10k)](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
 *   [spine (⭐3.7k)](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
 
 ### Data Visualization / Runner
 
-*   [paper.js (⭐14k)](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
+*   [paper.js (⭐15k)](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 
 ### Editors / Runner
 
 *   [ace (⭐27k)](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
-*   [esprima (⭐408)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
-*   [quill (⭐43k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
+*   [esprima (⭐410)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+*   [quill (⭐45k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
 *   [pen (⭐4.8k)](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 *   [jquery-notebook (⭐1.7k)](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
-*   [ckeditor-releases (⭐519)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
+*   [ckeditor-releases (⭐522)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
 *   [editor (⭐2.8k)](https://github.com/lepture/editor) - A markdown editor. still on development.
 *   [EpicEditor (⭐4.2k)](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 *   [jsoneditor (⭐12k)](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.
@@ -705,7 +723,7 @@
 
 *   [pathjs (⭐1.1k)](https://github.com/mtrpcic/pathjs) - Simple, lightweight routing for web browsers.
 *   [crossroads (⭐1.4k)](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes.
-*   [davis.js (⭐532)](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
+*   [davis.js (⭐529)](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
 
 ### Validation / Runner
 
@@ -729,7 +747,7 @@
 ### Notifications / Runner
 
 *   [noty (⭐6.7k)](https://github.com/needim/noty) - jQuery notification plugin.
-*   [pnotify (⭐3.7k)](https://github.com/sciactive/pnotify) - JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft.
+*   [pnotify (⭐3.6k)](https://github.com/sciactive/pnotify) - JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft.
 *   [humane-js (⭐2.1k)](https://github.com/wavded/humane-js) - A simple, modern, browser notification system.
 
 ### Sliders / Runner
@@ -742,7 +760,7 @@
 ### Form Widgets / Input
 
 *   [tag-it (⭐2.5k)](https://github.com/aehlke/tag-it) - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
-*   [Placeholders.js (⭐950)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
+*   [Placeholders.js (⭐947)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
 *   [fancyInput (⭐1.9k)](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
 *   [jQuery-Tags-Input (⭐2.3k)](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 
@@ -773,7 +791,7 @@
 *   [tipsy (⭐2k)](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
 *   [qTip2 (⭐2k)](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 *   [tooltipster (⭐2.8k)](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
-*   [simptip (⭐648)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
+*   [simptip (⭐650)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
 
 ### Modals and Popups / Other
 
@@ -786,18 +804,18 @@
 
 ### Maps / Other
 
-*   [Leaflet (⭐41k)](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
+*   [Leaflet (⭐42k)](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
 *   [gmaps (⭐7k)](https://github.com/HPNeo/gmaps) - The easiest way to use Google Maps.
 *   [polymaps (⭐1.6k)](https://github.com/simplegeo/polymaps) - A free JavaScript library for making dynamic, interactive maps in modern web browsers.
 *   [kartograph.js (⭐1.5k)](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps.
 *   [mapbox.js (⭐1.9k)](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin.
 *   [jqvmap (⭐1.8k)](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 
-## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [15. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
 
-*   [Haeinsa (⭐157)](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
+*   [Haeinsa (⭐158)](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
 *   [Amazon RedShift](http://aws.amazon.com/redshift/) - data warehouse service, based on PostgreSQL.
 *   [H-Store](http://hstore.cs.brown.edu/) - is an experimental main-memory, parallel database management system that is optimized for on-line transaction processing (OLTP) applications.
 *   [InfiniSQL](http://www.infinisql.org/) - infinity scalable RDBMS.
@@ -812,6 +830,7 @@
 
 ### Distributed Programming
 
+*   [Cascalog](http://cascalog.org/) - data processing and querying library.
 *   [AMPLab SIMR](http://databricks.github.io/simr/) - run Spark on Hadoop MapReduce v1.
 *   [Apache Crunch](http://crunch.apache.org/) - a simple Java API for tasks like joining and data aggregation that are tedious to implement on plain MapReduce.
 *   [Apache Gora](http://gora.apache.org/) - framework for in-memory data model and persistence.
@@ -820,7 +839,7 @@
 *   [Apache Twill](https://incubator.apache.org/projects/twill.html) - abstraction over YARN that reduces the complexity of developing distributed applications.
 *   [Cheetah](http://vldbarc.org/pvldb/vldb2010/pvldb_vol3/I08.pdf) - High Performance, Custom Data Warehouse on Top of MapReduce.
 *   [Concurrent Cascading](http://www.cascading.org/) - framework for data management/analytics on Hadoop.
-*   [Damballa Parkour (⭐258)](https://github.com/damballa/parkour) - MapReduce library for Clojure.
+*   [Damballa Parkour (⭐257)](https://github.com/damballa/parkour) - MapReduce library for Clojure.
 *   [Datasalt Pangool (⭐57)](https://github.com/datasalt/pangool) - alternative MapReduce paradigm.
 *   [Facebook Corona](https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920) - Hadoop enhancement which removes single point of failure.
 *   [Facebook Peregrine](http://peregrine_mapreduce.bitbucket.org/) - Map Reduce framework.
@@ -829,7 +848,7 @@
 *   [Kite](http://kitesdk.org/docs/current/) - is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
 *   [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
 *   [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
-*   [Twitter Scalding (⭐3.4k)](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
+*   [Twitter Scalding (⭐3.5k)](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
 *   [Twitter Summingbird (⭐2.1k)](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm, by Twitter.
 
 ### Distributed Filesystem
@@ -846,12 +865,12 @@
 
 ### Key-value Data Model
 
-*   [ElephantDB (⭐553)](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
+*   [ElephantDB (⭐558)](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 *   [LinkedIn Krati (⭐26)](https://github.com/linkedin-sna/sna-page/tree/master/krati) - is a simple persistent data store with very low latency and high throughput.
 *   [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) - distributed key/value storage system.
-*   [Riak (⭐3.8k)](https://github.com/basho/riak) - a decentralized datastore.
-*   [Storehaus (⭐466)](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
-*   [Tarantool (⭐3.2k)](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
+*   [Riak (⭐4k)](https://github.com/basho/riak) - a decentralized datastore.
+*   [Storehaus (⭐465)](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
+*   [Tarantool (⭐3.5k)](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 
 ### Graph Data Model
 
@@ -860,60 +879,60 @@
 *   [Google Pregel](http://kowshik.github.io/JPregel/pregel_paper.pdf) - graph processing framework.
 *   [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) - resilient Distributed Graph System on Spark.
 *   [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
-*   [Phoebus (⭐382)](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
+*   [Phoebus (⭐384)](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
 *   [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
 
 ### SQL-like processing
 
 *   [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
 *   [Datasalt Splout SQL](http://www.datasalt.com/products/splout-sql/) - full SQL query engine for big datasets.
-*   [Spark Catalyst (⭐36k)](https://github.com/apache/spark/tree/master/sql) - is a Query Optimization Framework for Spark and Shark.
+*   [Spark Catalyst (⭐41k)](https://github.com/apache/spark/tree/master/sql) - is a Query Optimization Framework for Spark and Shark.
 
 ### Data Ingestion
 
 *   [Apache Flume](http://flume.apache.org/) - service to manage large amount of log data.
 *   [Apache Kafka](http://kafka.apache.org/) - distributed publish-subscribe messaging system.
 *   [Apache Sqoop](http://sqoop.apache.org/) - tool to transfer data between Hadoop and a structured datastore.
-*   [HIHO (⭐90)](https://github.com/sonalgoyal/hiho) - framework for connecting disparate data sources with Hadoop.
+*   [HIHO (⭐91)](https://github.com/sonalgoyal/hiho) - framework for connecting disparate data sources with Hadoop.
 *   [LinkedIn Kamikaze (⭐22)](https://github.com/linkedin/kamikaze) - utility package for compressing sorted integer arrays.
-*   [Netflix Suro (⭐777)](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
+*   [Netflix Suro (⭐795)](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
 *   [Pinterest Secor (⭐1.8k)](https://github.com/pinterest/secor) - is a service implementing Kafka log persistance.
 
 ### Service Programming
 
 *   [Akka Toolkit](http://akka.io/) - runtime for distributed, and fault tolerant event-driven applications on the JVM.
 *   [Apache Avro](http://avro.apache.org/) - data serialization system.
-*   [Apache Curator](http://curator.apache.org/) - Java libaries for Apache ZooKeeper.
+*   [Apache Curator](http://curator.apache.org/) - Java libraries for Apache ZooKeeper.
 *   [Apache Karaf](http://karaf.apache.org/) - OSGi runtime that runs on top of any OSGi framework.
 *   [Apache Thrift](http://thrift.apache.org//) - framework to build binary protocols.
 *   [Apache Zookeeper](http://zookeeper.apache.org/) - centralized service for process management.
-*   [Spring XD (⭐479)](https://github.com/spring-projects/spring-xd) - distributed and extensible system for data ingestion, real time analytics, batch processing, and data export.
+*   [Spring XD (⭐475)](https://github.com/spring-projects/spring-xd) - distributed and extensible system for data ingestion, real time analytics, batch processing, and data export.
 *   [Twitter Finagle](https://twitter.github.io/finagle/) - asynchronous network stack for the JVM.
 
 ### Scheduling
 
-*   [Sparrow (⭐314)](https://github.com/radlab/sparrow) - scheduling platform.
+*   [Sparrow (⭐319)](https://github.com/radlab/sparrow) - scheduling platform.
 
 ### Machine Learning
 
 *   [brain (⭐8k)](https://github.com/harthur/brain) - Neural networks in JavaScript.
 *   [convnetjs (⭐11k)](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
-*   [Decider (⭐386)](https://github.com/danielsdeleo/Decider) - Flexible and Extensible Machine Learning in Ruby.
+*   [Decider (⭐384)](https://github.com/danielsdeleo/Decider) - Flexible and Extensible Machine Learning in Ruby.
 *   [etcML](http://www.etcml.com/) - text classification with machine learning.
-*   [Etsy Conjecture (⭐358)](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
+*   [Etsy Conjecture (⭐360)](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
 *   [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
-*   [MLPNeuralNet (⭐895)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
+*   [MLPNeuralNet (⭐900)](https://github.com/nikolaypavlov/MLPNeuralNet) - Fast multilayer perceptron neural network library for iOS and Mac OS X.
 *   [nupic (⭐6.3k)](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.
-*   [scikit-learn (⭐54k)](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
+*   [scikit-learn (⭐61k)](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python.
 *   [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
-*   [Vowpal Wabbit (⭐8.2k)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
+*   [Vowpal Wabbit (⭐8.5k)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
 *   [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
 
 ### Benchmarking
 
 *   [Apache Hadoop Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-3561) - micro-benchmarks for testing Hadoop performances.
-*   [Berkeley SWIM Benchmark (⭐126)](https://github.com/SWIMProjectUCB/SWIM/wiki) - real-world big data workload benchmark.
-*   [Intel HiBench (⭐1.4k)](https://github.com/intel-hadoop/HiBench) - a Hadoop benchmark suite.
+*   [Berkeley SWIM Benchmark (⭐129)](https://github.com/SWIMProjectUCB/SWIM/wiki) - real-world big data workload benchmark.
+*   [Intel HiBench (⭐1.5k)](https://github.com/intel-hadoop/HiBench) - a Hadoop benchmark suite.
 
 ### Security
 
@@ -921,7 +940,7 @@
 
 ### System Deployment
 
-*   [Apache Ambari](http://ambari.apache.org/) - operational framework for Hadoop mangement.
+*   [Apache Ambari](http://ambari.apache.org/) - operational framework for Hadoop management.
 *   [Apache Bigtop](http://bigtop.apache.org//) - system deployment framework for the Hadoop ecosystem.
 *   [Apache Helix](http://helix.apache.org/) - cluster management framework.
 *   [Apache Mesos](http://mesos.apache.org/) - cluster manager.
@@ -938,7 +957,7 @@
 *   [Apache Tika](https://tika.apache.org/) - content analysis toolkit.
 *   [Eclipse BIRT](http://www.eclipse.org/birt/) - Eclipse-based reporting system.
 *   [Eventhub (⭐1.3k)](https://github.com/Codecademy/EventHub) - open source event analytics platform.
-*   [Snowplow (⭐6.5k)](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
+*   [Snowplow (⭐6.9k)](https://github.com/snowplow/snowplow) - enterprise-strength web and event analytics, powered by Hadoop, Kinesis, Redshift and Postgres.
 *   [SparkR](http://amplab-extras.github.io/SparkR-pkg/) - R frontend for Spark.
 
 ### Search engine and framework
@@ -946,14 +965,14 @@
 *   [Apache Lucene](http://lucene.apache.org/) - Search engine library.
 *   [Apache Solr](http://lucene.apache.org/solr/) - Search platform for Apache Lucene.
 *   [LinkedIn Bobo](http://senseidb.github.io/bobo/) - is a Faceted Search implementation written purely in Java, an extension to Apache Lucene.
-*   [LinkedIn Cleo (⭐558)](https://github.com/linkedin/cleo) - is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search.
-*   [LinkedIn Zoie (⭐362)](https://github.com/senseidb/zoie) - is a realtime search/indexing system written in Java.
+*   [LinkedIn Cleo (⭐564)](https://github.com/linkedin/cleo) - is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search.
+*   [LinkedIn Zoie (⭐369)](https://github.com/senseidb/zoie) - is a realtime search/indexing system written in Java.
 
 ### MySQL forks and evolutions
 
 *   [Drizzle](http://www.drizzle.org/) - evolution of MySQL 6.0.
 *   [MariaDB](https://mariadb.org/) - enhanced, drop-in replacement for MySQL.
-*   [ProxySQL (⭐24)](https://github.com/renecannao/proxysql) - High Performance Proxy for MySQL.
+*   [ProxySQL (⭐25)](https://github.com/renecannao/proxysql) - High Performance Proxy for MySQL.
 *   [WebScaleSQL](http://webscalesql.org/) - is a collaboration among engineers from several companies that face similar challenges in running MySQL at scale.
 
 ### Memcached forks and evolutions
@@ -965,7 +984,7 @@
 
 ### Embedded Databases
 
-*   [HanoiDB (⭐298)](https://github.com/krestenkrab/hanoidb) - Erlang LSM BTree Storage.
+*   [HanoiDB (⭐307)](https://github.com/krestenkrab/hanoidb) - Erlang LSM BTree Storage.
 *   [RocksDB](http://rocksdb.org/) - embeddable persistent key-value store for fast storage based on LevelDB.
 
 ### Business Intelligence
@@ -976,13 +995,13 @@
 
 ### Data Visualization
 
-*   [Arbor (⭐2.6k)](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
+*   [Arbor (⭐2.7k)](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
 *   [Chart.js](http://www.chartjs.org/) - open source HTML5 Charts visualizations.
 *   [Cubism (⭐4.9k)](https://github.com/square/cubism) - JavaScript library for time series visualization.
 *   [Envisionjs (⭐1.6k)](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
-*   [Matplotlib (⭐17k)](https://github.com/matplotlib/matplotlib) - plotting with Python.
+*   [Matplotlib (⭐21k)](https://github.com/matplotlib/matplotlib) - plotting with Python.
 *   [NVD3](http://nvd3.org/) - chart components for d3.js.
-*   [Recline (⭐2.1k)](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
+*   [Recline (⭐2.2k)](https://github.com/okfn/recline) - simple but powerful library for building data applications in pure Javascript and HTML.
 *   [Sigma.js (⭐11k)](https://github.com/jacomyal/sigma.js) - JavaScript library dedicated to graph drawing.
 
 ### 2013 - 2014
@@ -1018,7 +1037,7 @@
 *   [2007](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) - **Amazon** - Dynamo: Amazon’s Highly Available Key-value Store.
 *   [2006](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - **Google** - Bigtable: A Distributed Storage System for Structured Data.
 
-## [15. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [16. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Lexers, Parsers, Parser Generators / Bare metal / kernel development
 
@@ -1034,7 +1053,7 @@
 *   [scriptlike (⭐93)](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
 *   [todod (⭐15)](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise (⭐3.7k)](https://github.com/antirez/linenoise).
 
-## [16. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [17. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Hadoop
 
@@ -1089,7 +1108,7 @@
 
 *   [Hadoop Weekly](http://www.hadoopweekly.com/)
 
-## [17. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [18. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Customization / Directory Navigation
 
@@ -1105,13 +1124,13 @@
 
 *   [bash2048 (⭐885)](https://github.com/mydzor/bash2048) - Bash implementation of 2048 game
 
-## [18. Tools](/content/lvwzhen/tools/week/README.md)
+## [19. Tools](/content/lvwzhen/tools/week/README.md)
 
 ### Placeholder
 
 *   [placekitten](http://placekitten.com/)
 
-## [19. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [20. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### HTML Manipulation
 

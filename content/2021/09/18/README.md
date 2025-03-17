@@ -16,7 +16,7 @@
 
 ### Test-Driven Development
 
-*   [TDD For Those Who Don't Need It](https://www.youtube.com/watch?v=a6oP24CSdUg) by **Chew Choon Keat** \[13:42]
+*   [TDD For Those Who Don't Need It](https://www.youtube.com/watch?v=a6oP24CSdUg) by **Chew Choon Keat** (GopherCon SG 2017) \[13:42]
 
 ## [3. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 

@@ -32,7 +32,7 @@
 ### Books / Software-specific
 
 *   *[Introduction to Social Network Methods](http://faculty.ucr.edu/~hanneman/nettext/)* (using mostly UCINET), by Robert A. Hanneman and Mark Riddle - Full book online (2001).
-*   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐242)](https://github.com/maksim2042/SNABook); 2011).
+*   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐243)](https://github.com/maksim2042/SNABook); 2011).
 
 ### Books / Topic-specific
 

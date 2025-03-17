@@ -17,13 +17,13 @@
 
 ### Motion / Diagnostics
 
-*   [sphamba/smear-cursor.nvim (⭐663)](https://github.com/sphamba/smear-cursor.nvim) - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
+*   [sphamba/smear-cursor.nvim (⭐824)](https://github.com/sphamba/smear-cursor.nvim) - Animate the cursor with a smear effect in all terminals. Inspired by Neovide's animated cursor.
 
 ## [3. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### LLMs
 
-*   🌟🌟 [MarS (⭐142)](https://github.com/microsoft/MarS) - A Financial Market Simulation Engine Powered by Generative Foundation Model.
+*   🌟🌟 [MarS (⭐1.3k)](https://github.com/microsoft/MarS) - A Financial Market Simulation Engine Powered by Generative Foundation Model.
 
 ## [4. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
 
@@ -39,9 +39,9 @@
 
 ## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / Visual Testing
 
-*   [TestingBot](https://testingbot.com) - Run automated, manual and visual tests on a wide range of browsers and devices.
+*   [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
 
 ## [7. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
@@ -79,7 +79,7 @@
 ### IDE
 
 *   [dbForge Edge](https://www.devart.com/dbforge/edge/) - Multidatabase solution for DB development, design, management, and administration of MySQL, MariaDB, SQL Server, Oracle, PostgreSQL databases, and various cloud services.
-*   [Kangaroo (⭐385)](https://github.com/dbkangaroo/kangaroo) - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
+*   [Kangaroo (⭐388)](https://github.com/dbkangaroo/kangaroo) - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
 
 ### SQL / Formatters
 

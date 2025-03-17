@@ -16,12 +16,12 @@
 
 ### Calculators
 
-*   [farm-calculators (⭐15)](https://github.com/brycejohnston/farm-calculators) - WordPress plugin for calculating various farming and crop related information.
+*   [farm-calculators (⭐18)](https://github.com/brycejohnston/farm-calculators) - WordPress plugin for calculating various farming and crop related information.
 
 ### Climate, Environment and Weather
 
-*   [agroclimatology (⭐16)](https://github.com/brycejohnston/agroclimatology) - Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource.
-*   [evapotranspiration (⭐13)](https://github.com/brycejohnston/evapotranspiration) - Ruby library for calculating reference crop evapotranspiration (ETo).
+*   [agroclimatology (⭐18)](https://github.com/brycejohnston/agroclimatology) - Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource.
+*   [evapotranspiration (⭐14)](https://github.com/brycejohnston/evapotranspiration) - Ruby library for calculating reference crop evapotranspiration (ETo).
 
 ### Data Standardization, Interoperability and APIs
 
@@ -98,7 +98,7 @@
 
 ### Software / Web Servers
 
-*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐24k)](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
+*   [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code (⭐25k)](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
 
 ## [12. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -110,7 +110,7 @@
 
 ### Containers
 
-*   [PGM-index (⭐796)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
+*   [PGM-index (⭐798)](https://github.com/gvinciguerra/PGM-index) - A data structure that enables fast lookup, predecessor, range searches and updates in arrays of billions of items using orders of magnitude less space than traditional indexes. \[Apache2] [website](https://pgm.di.unipi.it)
 
 ## [14. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

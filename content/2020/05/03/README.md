@@ -11,7 +11,7 @@
 ### Tools / Libraries
 
 *   [granim.js (⭐5.3k)](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations.
-*   [tinygradient (⭐196)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
+*   [tinygradient (⭐230)](https://github.com/mistic100/tinygradient) - Fast and small gradients manipulation.
 *   [TinyColor (⭐5.1k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ## [2. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
@@ -36,7 +36,7 @@
 
 ### Database Drivers
 
-*   [ruby-pg (⭐803)](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
+*   [ruby-pg (⭐814)](https://github.com/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
 
 ### Robotics
 
@@ -99,12 +99,10 @@
 ### PaaS / Other Tools
 
 *   [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
-*   [Google App Engine](https://cloud.google.com/appengine/)
 
 ### IaaS / Other Tools
 
 *   [AWS EC2](https://aws.amazon.com/ec2/)
-*   [Google Compute Engine](https://cloud.google.com/compute/)
 *   [Digital Ocean](https://www.digitalocean.com/)
 *   [Linode](https://www.linode.com/)
 
@@ -112,12 +110,11 @@
 
 *   [Chalice (⭐11k)](https://github.com/aws/chalice)
 *   [AWS Lambda](https://aws.amazon.com/lambda/) ([example (⭐132)](https://github.com/iwpnd/fastapi-aws-lambda-example))
-*   [Google Cloud Functions](https://cloud.google.com/functions/)
 
 ### Open Source Projects / Other Tools
 
 *   FastAPI CRUD Example:
-    *   [Async flavor (⭐444)](https://github.com/testdrivenio/fastapi-crud-async)
+    *   [Async flavor (⭐449)](https://github.com/testdrivenio/fastapi-crud-async)
     *   [Sync Flavor (⭐79)](https://github.com/testdrivenio/fastapi-crud-sync)
 
 ## [9. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)

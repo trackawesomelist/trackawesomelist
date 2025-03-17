@@ -202,7 +202,7 @@ git log --show-notes='*'
 
 ### Other
 
-*   [shrinkpack (⭐793)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
+*   [shrinkpack (⭐798)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 
 ## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -371,10 +371,6 @@ git log --show-notes='*'
 
 ## [35. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Native Apps (closed source)
-
-*   [Transit](http://transitapp.com/)
-
 ### GTFS Libraries / JavaScript
 
 *   [gtfs-sequelize (⭐19)](https://github.com/evansiroky/gtfs-sequelize) - Node.js library modeling the static GTFS using sequelize.js.
@@ -382,6 +378,10 @@ git log --show-notes='*'
 ### GTFS Libraries / Python
 
 *   [gtfslib-python (⭐44)](https://github.com/afimb/gtfslib-python) -  An open source library in python for reading GTFS files and computing various stats and indicators about Public Transport networks.
+
+### Native Apps (closed source) / Rust
+
+*   [Transit](http://transitapp.com/)
 
 ## [36. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -393,7 +393,7 @@ git log --show-notes='*'
 
 ### Packages / Parsing
 
-*   [ref (⭐457)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
+*   [ref (⭐458)](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 ## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -407,12 +407,12 @@ git log --show-notes='*'
 
 ### ORM and Datamapping
 
-*   [paper\_trail (⭐571)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
+*   [paper\_trail (⭐574)](https://github.com/izelnakri/paper_trail) - Ecto plugin for tracking and recording all the changes in your database.
 
 ### Testing
 
 *   [exkorpion (⭐30)](https://github.com/wesovilabs/exkorpion) - A BDD library for Elixir developers.
-*   [ignorant (⭐14)](https://github.com/campezzi/ignorant) - Partial `Map` comparison that ensures fields are present while ignoring their values.
+*   [ignorant](https://github.com/campezzi/ignorant) - Partial `Map` comparison that ensures fields are present while ignoring their values.
 
 ### Text and Numbers
 

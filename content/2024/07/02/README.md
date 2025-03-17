@@ -16,7 +16,7 @@
 
 ### Startup / Diagnostics
 
-*   [mong8se/actually.nvim (⭐56)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
+*   [mong8se/actually.nvim (⭐58)](https://github.com/mong8se/actually.nvim) - Load the file you actually meant to load.
 
 ### Utility / Diagnostics
 

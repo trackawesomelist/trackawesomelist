@@ -32,13 +32,13 @@
 
 ### Resources / Talks and videos
 
-*   [Polars-Cookbook in Python (⭐313)](https://github.com/PacktPublishing/Polars-Cookbook) - Polars cookbook with organized by Python notebooks and chapter by [@StuffbyYuki](https://github.com/StuffbyYuki).
+*   [Polars-Cookbook in Python (⭐316)](https://github.com/PacktPublishing/Polars-Cookbook) - Polars cookbook with organized by Python notebooks and chapter by [@StuffbyYuki](https://github.com/StuffbyYuki).
 
 ## [3. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Reddit
 
-*   [Redlib (⭐1.6k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit.
+*   [Redlib (⭐1.7k)](https://github.com/redlib-org/redlib) - An alternative private front-end to Reddit, with its origins in Libreddit.
 
 ## [4. Awesome Orgs](/content/beansource/awesome-orgs/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Applications
 
-*   [kftray (⭐904)](https://github.com/hcavarsan/kftray) - A cross-platform system tray app for managing and sharing multiple kubectl port-forward configurations. [![Build Status](https://github.com/hcavarsan/kftray/workflows/Release/badge.svg)](https://github.com/hcavarsan/kftray/actions)
+*   [kftray (⭐943)](https://github.com/hcavarsan/kftray) - A cross-platform system tray app for managing and sharing multiple kubectl port-forward configurations. [![Build Status](https://github.com/hcavarsan/kftray/workflows/Release/badge.svg)](https://github.com/hcavarsan/kftray/actions)
 
 ## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Deployment Tools / Discovery
 
-*   [comin (⭐523)](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
+*   [comin (⭐549)](https://github.com/nlewo/comin) - A deployment tool to continuously pull from Git repositories.
 
 ### Development / Discovery
 

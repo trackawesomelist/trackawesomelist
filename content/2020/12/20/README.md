@@ -16,7 +16,7 @@
 
 ### Community / NumPyro
 
-*   [JAX GitHub Discussions (⭐28k)](https://github.com/google/jax/discussions)
+*   [JAX GitHub Discussions (⭐31k)](https://github.com/google/jax/discussions)
 *   [Reddit](https://www.reddit.com/r/JAX/)
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
@@ -111,7 +111,7 @@
 
 ### Streaming
 
-*   [Owncast (⭐9.6k)](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (<https://owncast.online/>)
+*   [Owncast (⭐9.7k)](https://github.com/owncast/owncast) - Selfhosted video streaming plattform (<https://owncast.online/>)
 
 ## [7. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md)
 
@@ -201,7 +201,7 @@
 
 ### Work
 
-*   [Creative Technology (⭐452)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+*   [Creative Technology (⭐493)](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 
 ---
 

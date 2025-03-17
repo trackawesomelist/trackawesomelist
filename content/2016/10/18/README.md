@@ -55,7 +55,7 @@
 
 ### Packages / Testing
 
-*   [Jest (⭐44k)](https://github.com/facebook/jest) - Painless JavaScript testing.
+*   [Jest (⭐45k)](https://github.com/facebook/jest) - Painless JavaScript testing.
 
 ## [4. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/README.md)
 

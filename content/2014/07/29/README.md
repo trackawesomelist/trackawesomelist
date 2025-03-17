@@ -10,13 +10,13 @@
 
 ### Data Visualization
 
-*   [Freeboard (⭐6.4k)](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
+*   [Freeboard (⭐6.5k)](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
 
 ## [2. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### General
 
-*   [camlPDF (⭐201)](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
+*   [camlPDF (⭐204)](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
 
 ## [3. Awesome Haskell](/content/krispo/awesome-haskell/README.md)
 
@@ -42,11 +42,11 @@
 ### Voice Command / Runner
 
 *   [annyang (⭐6.6k)](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
-*   [voix.js (⭐567)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+*   [voix.js (⭐593)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 ### API / Runner
 
-*   [bottleneck (⭐1.8k)](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
+*   [bottleneck (⭐1.9k)](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 *   [oauth-signature-js (⭐232)](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 
 ## [5. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)

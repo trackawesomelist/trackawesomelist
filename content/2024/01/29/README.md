@@ -17,7 +17,7 @@
 
 ### AI / Diagnostics
 
-*   [kiddos/gemini.nvim (⭐38)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
+*   [kiddos/gemini.nvim (⭐62)](https://github.com/kiddos/gemini.nvim) - Bindings to Google Gemini API.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

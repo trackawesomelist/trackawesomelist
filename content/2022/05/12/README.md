@@ -54,7 +54,7 @@
 
 ### File Management and Sharing
 
-*   [Blindsend (⭐178)](https://github.com/blindnet-io/blindsend) - Open source tool for private, end-to-end encrypted file exchange.
+*   [Blindsend (⭐179)](https://github.com/blindnet-io/blindsend) - Open source tool for private, end-to-end encrypted file exchange.
 
 ## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -70,7 +70,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [nvim-treesitter/nvim-treesitter-context (⭐2.6k)](https://github.com/nvim-treesitter/nvim-treesitter-context) - Shows floating hover with the current function/block context.
+*   [nvim-treesitter/nvim-treesitter-context (⭐2.7k)](https://github.com/nvim-treesitter/nvim-treesitter-context) - Shows floating hover with the current function/block context.
 
 ## [10. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 

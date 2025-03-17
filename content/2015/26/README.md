@@ -144,7 +144,7 @@
 
 ### Database Drivers/Clients
 
-*   [crystal-pg (⭐462)](https://github.com/will/crystal-pg) - A Postgres driver
+*   [crystal-pg (⭐463)](https://github.com/will/crystal-pg) - A Postgres driver
 
 ### HTTP
 
@@ -177,7 +177,7 @@
 *   [blocking\_queue (⭐54)](https://github.com/joekain/BlockingQueue) - BlockingQueue is a simple queue implemented as a GenServer. It has a fixed maximum length established when it is created.
 *   [count\_buffer (⭐2)](https://github.com/camshaft/count_buffer) - Buffer a large set of counters and flush periodically.
 *   [exfsm (⭐11)](https://github.com/awetzel/exfsm) - Simple elixir library to define a static FSM.
-*   [fuse (⭐505)](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
+*   [fuse (⭐507)](https://github.com/jlouis/fuse) - This application implements a so-called circuit-breaker for Erlang.
 
 ### Behaviours and Interfaces
 
@@ -188,10 +188,6 @@
 *   [pc (⭐65)](https://github.com/blt/port_compiler) - A rebar3 port compiler.
 *   [rebar3\_eqc (⭐13)](https://github.com/kellymclaughlin/rebar3-eqc-plugin) - A rebar3 plugin to enable the execution of Erlang QuickCheck properties.
 *   [relx (⭐694)](https://github.com/erlware/relx) - A release assembler for Erlang.
-
-### Encoding and Compression
-
-*   [huffman](https://github.com/SenecaSystems/huffman) - Huffman encoding and decoding in Elixir.
 
 ### Framework Components
 
@@ -211,7 +207,7 @@
 
 ### Logging
 
-*   [logger\_logstash\_backend (⭐73)](https://github.com/marcelog/logger_logstash_backend) - A backend for the Elixir Logger that will send logs to the Logstash UDP input.
+*   [logger\_logstash\_backend (⭐72)](https://github.com/marcelog/logger_logstash_backend) - A backend for the Elixir Logger that will send logs to the Logstash UDP input.
 
 ### Macros
 
@@ -219,12 +215,11 @@
 
 ### Native Implemented Functions
 
-*   [nifty (⭐28)](https://github.com/rossjones/nifty) - Helper script for setting up the boilerplate required when writing a NIF.
+*   [nifty (⭐29)](https://github.com/rossjones/nifty) - Helper script for setting up the boilerplate required when writing a NIF.
 
 ### ORM and Datamapping
 
 *   [erlastic\_search (⭐163)](https://github.com/tsloughter/erlastic_search) - An Erlang app for communicating with Elastic Search's rest interface.
-*   [red (⭐15)](https://github.com/rodrigues/red) - Persist relationships between objects in Redis, in a graph-like way.
 *   [timex\_ecto (⭐162)](https://github.com/bitwalker/timex_ecto) - An adapter for using Timex DateTimes with Ecto.
 
 ### Protocols
@@ -267,7 +262,7 @@
 
 ### Reading
 
-*   [The Little Schemer in Elixir (⭐349)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
+*   [The Little Schemer in Elixir (⭐350)](https://github.com/jwhiteman/a-little-elixir-goes-a-long-way) - Exercises and algorithms from the Little Schemer book, ported to Elixir.
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
@@ -277,7 +272,7 @@
 
 ### Testing Frameworks / Assertion
 
-*   [chai (⭐8.1k)](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
+*   [chai (⭐8.2k)](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 
 ### MVC Frameworks and Libraries / Runner
 
@@ -287,7 +282,7 @@
 
 ### Templating Engines / Runner
 
-*   [mustache.js (⭐16k)](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript.
+*   [mustache.js (⭐17k)](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript.
 *   [hogan.js (⭐5.1k)](https://github.com/twitter/hogan.js) - A compiler for the Mustache templating language.
 
 ### Functional Programming / Runner
@@ -308,9 +303,9 @@
 ### String / Runner
 
 *   [string.js (⭐1.8k)](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
-*   [he (⭐3.4k)](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
+*   [he (⭐3.5k)](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 *   [multiline (⭐1.4k)](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
-*   [query-string (⭐6.7k)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
+*   [query-string (⭐6.8k)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
 
 ### Number / Runner
 
@@ -325,7 +320,7 @@
 
 *   [randomColor (⭐6.1k)](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
 *   [chroma.js (⭐10k)](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
-*   [TinyColor (⭐5k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+*   [TinyColor (⭐5.1k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ### Control Flow / Runner
 
@@ -345,7 +340,7 @@
 
 *   [Spin.js (⭐9.3k)](https://github.com/fgnass/spin.js) - A spinning activity indicator.
 *   [pace (⭐16k)](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
-*   [topbar (⭐435)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
+*   [topbar (⭐451)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
 *   [nanobar (⭐2.8k)](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery.
 
 ### Keyboard Wrappers / Runner
@@ -364,8 +359,8 @@
 
 ### Sliders / Runner
 
-*   [Swiper (⭐39k)](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
-*   [slick (⭐28k)](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
+*   [Swiper (⭐41k)](https://github.com/nolimits4web/Swiper) - Mobile touch slider and framework with hardware accelerated transitions.
+*   [slick (⭐29k)](https://github.com/kenwheeler/slick) - The last carousel you'll ever need.
 
 ### Form Widgets / Input
 
@@ -476,7 +471,7 @@
 
 ### Caching
 
-*   [Second Level Cache (⭐398)](https://github.com/hooopo/second_level_cache) - Write-Through and Read-Through caching library for ActiveRecord 4.
+*   [Second Level Cache (⭐395)](https://github.com/hooopo/second_level_cache) - Write-Through and Read-Through caching library for ActiveRecord 4.
 
 ### Data Processing and ETL
 

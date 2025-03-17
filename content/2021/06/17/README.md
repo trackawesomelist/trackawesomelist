@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 17, 2021
 
-17 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ## [2. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
-### Blockchain/Crypto/NFT
+### Blockchain/Crypto/NFT / YouTube Playables
 
 *   [RareRooms](https://www.rarerooms.io/) - 3D virtual rooms for NFT collections.
 
@@ -28,7 +28,7 @@
 
 ### Software / Resource Planning
 
-*   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐23k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
+*   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐24k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
 
 ## [5. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -83,13 +83,19 @@
 
 *   [Awesome Security Talks & Videos (⭐4k)](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
 
-## [11. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
+## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Django
+
+*   [Test-Driven Development With Python And Django](http://www.obeythetestinggoat.com/pages/book.html) (1.11)
+
+## [12. Awesome Earth](/content/philsturgeon/awesome-earth/README.md)
 
 ### Footprint Calculators
 
 *   [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) - An open source tool that provides visibility and tooling to measure, monitor and reduce public cloud carbon emissions. It supports multiple cloud providers including AWS, Google Cloud, and Microsoft Azure, and displays energy and carbon emission metrics in a dashabord, command line interface or exportable to CSV.
 
-## [12. Public Apis](/content/public-apis/public-apis/README.md)
+## [13. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -105,31 +111,31 @@
 
 
 
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [14. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [dracula/vim (⭐1.3k)](https://github.com/dracula/vim) - Famous beautiful dark powered theme.
+*   [dracula/vim (⭐1.4k)](https://github.com/dracula/vim) - Famous beautiful dark powered theme.
 
-## [14. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [15. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
 *   [Composer Unused (⭐1.5k)](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
 
-## [15. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
+## [16. Awesome Vlc](/content/mfkl/awesome-vlc/README.md)
 
 ### Bindings
 
 *   [WebChimera.js (⭐666)](https://github.com/RSATom/WebChimera.js) - Electron bindings for libvlc.
 
-## [16. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [17. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Russian / Game Engine resources
 
 *   [Flutter Dev Podcast](https://open.spotify.com/show/5qc1VFD4pkJlUYZBVTOFCI?si=OWn7VCELRO2QV03Gi2u8nA\&nd=1) - by [Eugene Saturov](https://twitter.com/saturovv).
 
-## [17. Awesome Math](/content/rossant/awesome-math/README.md)
+## [18. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ### Geometry and Topology / Differential Geometry
 

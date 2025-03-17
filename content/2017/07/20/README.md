@@ -23,9 +23,9 @@
 ### Messaging
 
 *   [onanomsg (⭐38)](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
-*   [Kafka (⭐63)](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
+*   [Kafka (⭐64)](https://github.com/didier-wenzek/ocaml-kafka) – OCaml bindings for Apache Kafka.
 *   [AMQP (⭐62)](https://github.com/andersfugmann/amqp-client) – AMQP client library for Async and Lwt.
-*   [MPI (⭐24)](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
+*   [MPI (⭐26)](https://github.com/xavierleroy/ocamlmpi) – Message Passing Interface bindings for OCaml.
 *   [MQTT (⭐19)](https://github.com/j0sh/ocaml-mqtt) – OCaml implementation of the MQTT pubsub protocol.
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)

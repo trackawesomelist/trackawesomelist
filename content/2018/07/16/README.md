@@ -52,7 +52,7 @@
 
 ### Network / Barcode
 
-*   [Wormholy (⭐2.3k)](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard 🧙‍.
+*   [Wormholy (⭐2.4k)](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard 🧙‍.
 
 ## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

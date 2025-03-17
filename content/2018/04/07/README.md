@@ -44,7 +44,7 @@
 
 ### Email
 
-*   [carbon (⭐84)](https://github.com/luckyframework/carbon) - Fun, testable, and adapter-based email library
+*   [carbon (⭐85)](https://github.com/luckyframework/carbon) - Fun, testable, and adapter-based email library
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

@@ -24,9 +24,9 @@
 
 ## [3. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
-### DASH / Talks Presentations Podcasts
+### Adaptive Streaming & Manifest Tools / DASH Manifest Tools
 
-*   [dash-mpd-rs (⭐75)](https://github.com/emarsden/dash-mpd-rs)  - Rust library for parsing, serializing and downloading media content from a DASH MPD file.
+*   [dash-mpd-rs (⭐85)](https://github.com/emarsden/dash-mpd-rs)  - Rust library for parsing, serializing and downloading media content from a DASH MPD file.
 
 ## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -44,7 +44,7 @@
 
 ## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
-### IO Games
+### Games / IO Games
 
 *   [Wheat Farming](https://poki.com/en/g/wheat-farming) - Multiplayer farming game.
 

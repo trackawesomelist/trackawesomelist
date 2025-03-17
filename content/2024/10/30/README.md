@@ -10,13 +10,13 @@
 
 ### CLI
 
-*   [barkeep (⭐158)](https://github.com/oir/barkeep) - Small C++ header to display async animations, counters, and progress bars. \[Apache-2.0] [website](https://oir.github.io/barkeep/)
+*   [barkeep (⭐164)](https://github.com/oir/barkeep) - Small C++ header to display async animations, counters, and progress bars. \[Apache-2.0] [website](https://oir.github.io/barkeep/)
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Distributed Systems
 
-*   [NATS (⭐16k)](https://github.com/nats-io/nats-server) - NATS is a simple, secure, and
+*   [NATS (⭐17k)](https://github.com/nats-io/nats-server) - NATS is a simple, secure, and
     performant communications system for digital systems, services, and devices.
 
 ### Messaging
@@ -26,7 +26,7 @@
 
 ### Third-party APIs
 
-*   [go-gerrit (⭐97)](https://github.com/andygrunwald/go-gerrit) - Go cient library for [Gerrit Code Review](https://www.gerritcodereview.com/).
+*   [go-gerrit (⭐98)](https://github.com/andygrunwald/go-gerrit) - Go client library for [Gerrit Code Review](https://www.gerritcodereview.com/).
 
 ## [3. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
@@ -65,7 +65,7 @@
 
 *   [angular-rsocket (⭐2)](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-playwright (⭐24)](https://github.com/bgotink/ngx-playwright) - Tools to run Playwright e2e tests in an Angular workspace.
 
@@ -99,17 +99,13 @@
 
 ## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / BRE
-
-*   [Easy Rules (⭐4.9k) (⭐5k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
-
 ### Projects / Messaging
 
-*   [EMQX (⭐14k) (⭐14k)](https://github.com/emqx/emqx) - A high-performance, scalable, and reliable open-source MQTT broker for IoT, IIoT, and connected vehicles.
+*   [EMQX (⭐14k) (⭐15k)](https://github.com/emqx/emqx) - High-performance MQTT broker built for IoT and industrial applications, ensuring scalable message delivery.
 
 ### Projects / Workflow engine
 
-*   [Argo Workflows (⭐15k) (⭐15k)](https://github.com/argoproj/argo-workflows) - An open-source, container-native workflow engine designed to orchestrate parallel jobs on Kubernetes, making it easier to manage and automate complex workflows in a cloud-native environment.
+*   [Argo Workflows (⭐15k) (⭐15k)](https://github.com/argoproj/argo-workflows) - Container-native workflow engine designed for orchestrating parallel jobs in Kubernetes-based, cloud-native environments.
 
 ## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -121,11 +117,11 @@
 
 ### Dart
 
-*   [OpenFoodFacts (⭐912)](https://github.com/openfoodfacts/smooth-app) *(label: good first issue)* <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
+*   [OpenFoodFacts (⭐952)](https://github.com/openfoodfacts/smooth-app) *(label: good first issue)* <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
 ### Kotlin
 
-*   [OpenCalc (⭐901)](https://github.com/Darkempire78/OpenCalc) *(label: good first issue)* <br> A simple and beautiful calculator for Android.
+*   [OpenCalc (⭐942)](https://github.com/Darkempire78/OpenCalc) *(label: good first issue)* <br> A simple and beautiful calculator for Android.
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -146,7 +142,7 @@
 
 ### Routers / Form Components
 
-*   [svelte5-router (⭐100)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
+*   [svelte5-router (⭐132)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 
 ## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -158,7 +154,7 @@
 
 ### Traditional Market / Crypto Currencies
 
-*   🌟🌟🌟 [OpenBB (⭐34k)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
+*   🌟🌟🌟 [OpenBB (⭐37k)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
 
 ---
 

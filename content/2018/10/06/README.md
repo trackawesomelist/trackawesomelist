@@ -22,7 +22,7 @@
 
 ### Gem Generators
 
-*   [Gemsmith (⭐465)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
+*   [Gemsmith (⭐466)](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
 
 ## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -68,7 +68,7 @@
 
 ### Schema / Code generation
 
-*   [ddl-generator (⭐273)](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
+*   [ddl-generator (⭐275)](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
 
 ## [9. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Applications / System tools
 
-*   [pop-os/popsicle (⭐666)](https://github.com/pop-os/popsicle) - GTK3 & CLI utility for flashing multiple USB devices in parallel
+*   [pop-os/popsicle (⭐678)](https://github.com/pop-os/popsicle) - GTK3 & CLI utility for flashing multiple USB devices in parallel
 
 ## [14. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

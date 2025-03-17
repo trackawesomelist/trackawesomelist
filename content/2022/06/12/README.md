@@ -61,8 +61,8 @@
 
 ### Cheat Sheets / Lecture Videos Playlist
 
-*   [Mathematics (⭐9k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
-*   [Math (⭐4.6k)](https://github.com/ossu/math) and [CS (⭐173k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
+*   [Mathematics (⭐9.4k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
+*   [Math (⭐6.9k)](https://github.com/ossu/math) and [CS (⭐175k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -75,7 +75,7 @@
 ### Development tools / Embedded
 
 *   nRF
-    *   [nrf-rs/nrf-hal (⭐518)](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices
+    *   [nrf-rs/nrf-hal (⭐529)](https://github.com/nrf-rs/nrf-hal) - A Rust HAL for the nRF family of devices
 
 ---
 

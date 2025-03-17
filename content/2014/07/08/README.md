@@ -10,7 +10,7 @@
 
 ### NewSQL Databases
 
-*   [Haeinsa (⭐157)](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
+*   [Haeinsa (⭐158)](https://github.com/VCNC/haeinsa) - linearly scalable multi-row, multi-table transaction library for HBase based on Percolator.
 *   [Amazon RedShift](http://aws.amazon.com/redshift/) - data warehouse service, based on PostgreSQL.
 *   [H-Store](http://hstore.cs.brown.edu/) - is an experimental main-memory, parallel database management system that is optimized for on-line transaction processing (OLTP) applications.
 *   [InfiniSQL](http://www.infinisql.org/) - infinity scalable RDBMS.
@@ -30,7 +30,7 @@
 *   [Cascalog](http://cascalog.org/) - data processing and querying library.
 *   [Cheetah](http://vldbarc.org/pvldb/vldb2010/pvldb_vol3/I08.pdf) - High Performance, Custom Data Warehouse on Top of MapReduce.
 *   [Concurrent Cascading](http://www.cascading.org/) - framework for data management/analytics on Hadoop.
-*   [Damballa Parkour (⭐258)](https://github.com/damballa/parkour) - MapReduce library for Clojure.
+*   [Damballa Parkour (⭐257)](https://github.com/damballa/parkour) - MapReduce library for Clojure.
 *   [Datasalt Pangool (⭐57)](https://github.com/datasalt/pangool) - alternative MapReduce paradigm.
 *   [Facebook Corona](https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920) - Hadoop enhancement which removes single point of failure.
 *   [Facebook Peregrine](http://peregrine_mapreduce.bitbucket.org/) - Map Reduce framework.
@@ -39,7 +39,7 @@
 *   [Kite](http://kitesdk.org/docs/current/) - is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem.
 *   [Nokia Disco](http://discoproject.org/) - MapReduce framework developed by Nokia.
 *   [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
-*   [Twitter Scalding (⭐3.4k)](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
+*   [Twitter Scalding (⭐3.5k)](https://github.com/twitter/scalding) - Scala library for Map Reduce jobs, built on Cascading.
 *   [Twitter Summingbird (⭐2.1k)](https://github.com/twitter/summingbird) - Streaming MapReduce with Scalding and Storm, by Twitter.
 
 ### Distributed Filesystem
@@ -56,10 +56,10 @@
 
 ### Key-value Data Model
 
-*   [ElephantDB (⭐553)](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
+*   [ElephantDB (⭐558)](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 *   [LinkedIn Krati (⭐26)](https://github.com/linkedin-sna/sna-page/tree/master/krati) - is a simple persistent data store with very low latency and high throughput.
 *   [Linkedin Voldemort](http://www.project-voldemort.com/voldemort/) - distributed key/value storage system.
-*   [Storehaus (⭐466)](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
+*   [Storehaus (⭐465)](https://github.com/twitter/storehaus) - library to work with asynchronous key value stores, by Twitter.
 
 ### Graph Data Model
 
@@ -68,7 +68,7 @@
 *   [Google Pregel](http://kowshik.github.io/JPregel/pregel_paper.pdf) - graph processing framework.
 *   [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) - resilient Distributed Graph System on Spark.
 *   [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
-*   [Phoebus (⭐382)](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
+*   [Phoebus (⭐384)](https://github.com/xslogic/phoebus) - framework for large scale graph processing.
 *   [Titan](http://thinkaurelius.github.io/titan/) - distributed graph database, built over Cassandra.
 
 ## [2. Awesome D](/content/dlang-community/awesome-d/README.md)

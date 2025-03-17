@@ -128,7 +128,7 @@
 
 ### Software / Automation
 
-*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code (⭐11k)](https://github.com/activepieces/activepieces)) `MIT` `Docker`
+*   [Activepieces](https://www.activepieces.com) - No-code business automation tool like Zapier or Tray. For example, you can send a Slack notification for each new Trello card. ([Source Code (⭐12k)](https://github.com/activepieces/activepieces)) `MIT` `Docker`
 
 ## [11. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -140,11 +140,11 @@
 
 ### Miscellaneous
 
-*   [svelte-splitpanes (⭐409)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels.
+*   [svelte-splitpanes (⭐416)](https://github.com/orefalo/svelte-splitpanes) - Full featured resizeable views panels.
 
 ### Forms
 
-*   [svelte-form-builder (⭐71)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
+*   [svelte-form-builder (⭐73)](https://github.com/pragmatic-engineering/svelte-form-builder-community) - A No-code Drag n Drop Form Builder built for Svelte
 
 ## [13. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

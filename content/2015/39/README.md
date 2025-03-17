@@ -285,7 +285,7 @@
 
 ### Table of Contents / Framework Extras
 
-*   [CakePHP CRUD (⭐375)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
+*   [CakePHP CRUD (⭐374)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 
 ## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -511,7 +511,7 @@
 
 ### XML
 
-*   [sweet\_xml (⭐363)](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
+*   [sweet\_xml](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 
 ## [26. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 

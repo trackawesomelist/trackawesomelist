@@ -16,11 +16,11 @@
 
 ### Audio
 
-*   [Amplitude Audio SDK (⭐41)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
+*   [Amplitude Audio SDK (⭐43)](https://github.com/SparkyStudios/AmplitudeAudioSDK) - A cross-platform audio engine designed with the needs of games in mind. \[Apache-2.0] [website](https://amplitudeaudiosdk.com)
 
 ### Font
 
-*   [libschrift (⭐492)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
+*   [libschrift (⭐495)](https://github.com/tomolt/libschrift) - A lightweight TrueType font rendering library. \[ISC]
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -36,9 +36,9 @@
 
 ## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / Test Management
 
-*   [Testomatio](https://testomat.io/) Modern TCMS allows sync of manual and automated tests in one place. Allure, TestRail, Xray alternative. FREE subscription forever is available.
+*   [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
 ## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Template Engines
 
-*   [templ (⭐8.7k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
+*   [templ (⭐8.9k)](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
 
 ## [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Svelte / Helpers
 
-*   [vite-plugin-kit-routes (⭐417)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
+*   [vite-plugin-kit-routes (⭐423)](https://github.com/jycouet/kitql/tree/main/packages/vite-plugin-kit-routes) - Generates a file with all the routes, params, actions of your SvelteKit App.
 
 ---
 

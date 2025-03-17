@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 07, 2023
 
-14 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -41,7 +41,7 @@
 
 ### Audio Editing
 
-*   [Stargate DAW (⭐697)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
+*   [Stargate DAW (⭐701)](https://github.com/stargatedaw/stargate/) - A cross-platform, all-in-one digital audio workstation and plugin suite, optimized for EDM production.
 
 ## [5. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
@@ -49,38 +49,31 @@
 
 *   📚 [Built At Lightspeed](https://www.builtatlightspeed.com/) - Massive directory of 500+ Tailwind templates, starters and UI kits.
 
-## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-### Statusline / Diagnostics
-
-*   [freddiehaddad/feline.nvim (⭐330)](https://github.com/freddiehaddad/feline.nvim) - A minimal, stylish and customizable statusline written in Lua.
-
-## [7. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### Books / Visualization Tools
 
 *   [Software Engineering for Data Scientists](https://www.manning.com/books/software-engineering-for-data-scientists) - Early Access
 
-## [8. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [7. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### LangChain Framework
 
 *   [Concepts](https://docs.langchain.com/docs/): Langchain concepts doc
 *   [Twitter account](https://twitter.com/LangChainAI): follow to get fresh updates
-*   [Discord](https://discord.gg/6adMQxSpJS): discussion
 
 ### Learn / Videos Playlists
 
 *   [LangChain Tutorials Playlist](https://www.youtube.com/playlist?list=PL611FKPtL866MnlDPHvI3KwVGqCB-QJAx)
 *   [LangChain James Briggs' Playlist](https://www.youtube.com/watch?v=nE2skSRWTTs\&list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F)
 
-## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Code Analysis and Linter
 
 *   [splint (⭐85)](https://github.com/NoahTheDuke/splint)
 
-## [10. Awesome Go](/content/avelino/awesome-go/README.md)
+## [9. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Twitter / Libraries for creating HTTP middlewares
 
@@ -90,7 +83,7 @@
 
 *   [Golang Weekly](https://discu.eu/weekly/golang/) - Each monday projects, tutorials and articles about Go.
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Operating systems
 
@@ -99,22 +92,22 @@
 ### Libraries / Encoding
 
 *   [FlatBuffers](https://flatbuffers.dev/)
-    *   [frol/flatc-rust (⭐112)](https://github.com/frol/flatc-rust) - FlatBuffers compiler (flatc) integration for Cargo build scripts
+    *   [frol/flatc-rust (⭐113)](https://github.com/frol/flatc-rust) - FlatBuffers compiler (flatc) integration for Cargo build scripts
 
-## [12. BEM Resources](/content/sturobson/BEM-resources/README.md)
+## [11. BEM Resources](/content/sturobson/BEM-resources/README.md)
 
 ### Articles
 
 *   [CSS Architecture: BEMCSS — Block, Element & Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)
 *   [BEM by example](https://sparkbox.com/foundry/bem_by_example)
 
-## [13. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
+## [12. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
 ### Software / Log Management
 
 *   [rsyslog](https://www.rsyslog.com/) - Rocket-fast system for log processing. ([Source Code (⭐2k)](https://github.com/rsyslog/rsyslog)) `GPL-3.0` `C`
 
-## [14. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
+## [13. Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md)
 
 ### Fellowships / Articles
 

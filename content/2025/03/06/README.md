@@ -8,7 +8,7 @@
 
 ## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
-### Resources / Blog posts
+### Resources / Tutorials & workshops
 
 *   [Working With Python Polars](https://realpython.com/courses/working-with-python-polars/) - 7-lesson online video course that covers various topics related todata manipulation with Polars by [@cltrudeau](https://github.com/cltrudeau).
 
@@ -27,53 +27,41 @@
 
 ## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐882) (⭐882)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-
 ### Projects / API Testing
 
 *   Mocking tools
-    *   [Hoverfly (⭐2.3k) (⭐2.4k)](https://github.com/SpectoLabs/hoverfly) - An open‑source API simulation tool that lets you mock and virtualize HTTP(S) services for testing purposes.
-    *   [Imposter (⭐382) (⭐382)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
-    *   [Microcks (⭐1.5k) (⭐1.6k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockbin (⭐103) (⭐103)](https://github.com/zuplo/mockbin) - Easily generate custom endpoints to test HTTP requests, and view the request logs from that API for free.
-    *   [Mockoon (⭐6.9k) (⭐6.9k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.6k) (⭐4.7k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐4.4k) (⭐4.5k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐6.5k) (⭐6.5k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
+    *   [Hoverfly (⭐2.3k) (⭐2.4k)](https://github.com/SpectoLabs/hoverfly) - A lightweight API simulation tool that enables rapid HTTP(S) service virtualization for efficient testing.
+    *   [Imposter (⭐382) (⭐382)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
+    *   [Microcks (⭐1.5k) (⭐1.6k)](https://github.com/microcks/microcks) - A Kubernetes-native tool for API mocking and testing that supports AsyncAPI, OpenAPI, and Postman Collections.
+    *   [Mockable](https://www.mockable.io/) - An easy-to-configure service for creating custom HTTP responses, ideal for rapid prototyping and testing.
+    *   [Mockbin (⭐104) (⭐103)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
+    *   [Mockoon (⭐6.9k) (⭐6.9k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
+    *   [MockServer (⭐4.6k) (⭐4.7k)](https://github.com/mock-server/mockserver) - A powerful solution for mocking any HTTP/HTTPS-based service, streamlining integration testing.
+    *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - A free online service that generates custom HTTP responses for testing API endpoints.
+    *   [Prism (⭐4.4k) (⭐4.5k)](https://github.com/stoplightio/prism) - An open-source HTTP mock server that replicates API behavior for early testing and validation.
+    *   [WireMock (⭐6.6k) (⭐6.5k)](https://github.com/tomakehurst/wiremock) - A robust and flexible API mocking tool delivering reliable, real-time simulation for comprehensive testing.
 
 ### Projects / BRE
 
-*   [Red Hat Decision Manager](https://access.redhat.com/products/red-hat-decision-manager) - Formerly known as JBoss BRMS, it builds on the Drools rule engine. Offers advanced rule authoring with Decision Model and Notation (DMN) support, business-friendly UIs, and enterprise-grade features for high availability, making it suitable for large-scale decision automation.
+*   [Red Hat Decision Manager](https://access.redhat.com/products/red-hat-decision-manager) - Enterprise-class decision platform built on Drools, offering advanced DMN support, intuitive UIs, and high availability for large-scale automation.
 
 ### Projects / ETL
 
-*   [Airbyte (⭐17k) (⭐17k)](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes.
-*   [CloverDX](https://www.cloverdx.com/) - Commercial ETL suite (originally open-source) for designing data transformations and orchestrating data workflows at scale​.
-*   [Pentaho Data Integration (⭐7.9k) (⭐7.9k)](https://github.com/pentaho/pentaho-kettle) - A user-friendly platform that enables users to ingest, blend, cleanse, and prepare diverse data from any source with visual tools, eliminating the need for coding and complexity.
+*   [Airbyte (⭐17k) (⭐17k)](https://github.com/airbytehq/airbyte) - Flexible, open-source data integration platform that builds ELT pipelines to move data from diverse sources to modern destinations.
+*   [CloverDX](https://www.cloverdx.com/) - Enterprise ETL suite offering robust data transformation and workflow orchestration for scalable integration.
+*   [Pentaho Data Integration (⭐7.9k) (⭐7.9k)](https://github.com/pentaho/pentaho-kettle) - Intuitive, visual ETL tool that simplifies data ingestion, blending, and cleansing across multiple sources without heavy coding.
 
 ### Projects / MaaS
 
-*   [Confluent Cloud](https://www.confluent.io/confluent-cloud/) - A fully managed Apache Kafka service by Confluent. Provides enterprise enhancements like schema registry, connectors, and governance tools, with SLA-backed performance and security.
+*   [Confluent Cloud](https://www.confluent.io/confluent-cloud/) - Fully managed Kafka service offering enterprise features like schema registry, connectors, and governance.
 
 ### Projects / Master Data Management
 
-*   [Stibo MDM](https://www.stibosystems.com/platform) - An established multi-domain MDM solution included in multiple analyst reports. Focuses on data transparency and governance with flexible data models for product, customer, supplier, and other domains, enabling a unified single source of truth.
+*   [Stibo MDM](https://www.stibosystems.com/platform) - Proven multi-domain MDM solution focusing on data transparency and governance to provide a single source of truth.
 
 ### Projects / RPA
 
-*   [Tungsten RPA](https://www.tungstenautomation.com/products/rpa) - Automates repetitive tasks with AI and no-code tools, enhancing efficiency, accuracy, and compliance across systems.
-
-### Projects / Workflow engine
-
-*   [Prefect (⭐18k)](https://github.com/PrefectHQ/prefect) - A modern, open‑source workflow orchestration tool optimized for data pipelines, offering a more developer‑friendly alternative to traditional schedulers.
-
-### Resources / Data Formats
-
-*   [YAML (⭐375) (⭐374)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+*   [Tungsten RPA](https://www.tungstenautomation.com/products/rpa) - AI-powered, no-code automation solution that enhances accuracy, efficiency, and compliance across workflows.
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -89,4 +77,5 @@
 
 ---
 
+- Prev: [Mar 07, 2025](/content/2025/03/07/README.md)
 - Next: [Mar 05, 2025](/content/2025/03/05/README.md)

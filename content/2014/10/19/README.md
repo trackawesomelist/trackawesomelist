@@ -33,7 +33,7 @@
 
 ### Packages / Command-line apps
 
-*   [pjs (⭐420)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
+*   [pjs (⭐419)](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
 *   [license-checker (⭐1.6k)](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 
 ---

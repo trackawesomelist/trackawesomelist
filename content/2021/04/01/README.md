@@ -10,7 +10,7 @@
 
 ### Development / Discovery
 
-*   [pre-commit-hooks.nix (⭐566)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
+*   [pre-commit-hooks.nix (⭐598)](https://github.com/cachix/pre-commit-hooks.nix) - Run linters/formatters at commit time and on your CI.
 
 ## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -44,29 +44,17 @@
 
 ## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
-### Images / Barcode
-
-*   [Brightroom (⭐3.4k)](https://github.com/muukii/Brightroom) - An image editor and engine using CoreImage.
-
 ### Network / Barcode
 
 *   [CodyFire (⭐256)](https://github.com/CodyFlame/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
-
-### Alert / Barcode
-
-*   [SPAlert (⭐2.4k)](https://github.com/ivanvorobei/SPAlert) - Native popup from Apple Music & Feedback in AppStore. Contains Done & Heart presets.
 
 ### Button / Barcode
 
 *   [IGStoryButtonKit (⭐36)](https://github.com/KaoruMuta/IGStoryButtonKit) - Easy-to-use button with rich animation inspired by instagram stories.
 
-### Permissions / Barcode
-
-*   [SPPermission (⭐5.7k)](https://github.com/ivanvorobei/SPPermissions) - Simple request permission with native UI and interactive animation.
-
 ### Transition / Barcode
 
-*   [SPLarkController (⭐988)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
+*   [SPLarkController (⭐984)](https://github.com/ivanvorobei/SPLarkController) - Custom transition between two controller. Translate to top.
 *   [SPStorkController (⭐2.7k)](https://github.com/ivanvorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 
 ## [4. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
@@ -139,7 +127,7 @@
 
 ### Table of Contents / Streaming SQL
 
-*   [ksqlDB (⭐140)](https://github.com/confluentinc/ksql) \[Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
+*   [ksqlDB (⭐170)](https://github.com/confluentinc/ksql) \[Java] - A cloud-native, source-available [database](https://ksqldb.io/) purpose-built for stream processing applications
 *   [Materialize](https://materialize.com) \[Rust] - A source-available streaming SQL engine for maintaining materialized views on data from message brokers and databases.
 
 ---

@@ -28,7 +28,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Data Science Projects (⭐1.8k)](https://github.com/veb-101/Data-Science-Projects)
+*   [Data Science Projects (⭐1.9k)](https://github.com/veb-101/Data-Science-Projects)
 
 ---
 

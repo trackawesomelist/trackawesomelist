@@ -45,7 +45,7 @@
 
 ### Web Frameworks
 
-*   [FastAPI (⭐53k)](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
+*   [FastAPI (⭐82k)](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
 
 ## [4. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 

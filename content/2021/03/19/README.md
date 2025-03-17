@@ -1,24 +1,18 @@
 # Awesome List Updates on Mar 19, 2021
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Django](/content/wsvincent/awesome-django/README.md)
-
-### Third-Party Packages / Models
-
-*   [django-recurrence (⭐498)](https://github.com/django-recurrence/django-recurrence) - Utility for working with recurring dates in Django.
-
-## [2. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
+## [1. Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md)
 
 ### Books / Uncategorized
 
 *   [Mastering Shiny](https://mastering-shiny.org/) - This is the online version of Mastering Shiny, a book currently under early development and intended for a late 2020 release. This book complements the [Shiny online documentation](https://shiny.rstudio.com/) and is intended to help app authors develop a deeper understanding of Shiny. Author: Hadley Wickham. [Mastering Shiny Exercise solutions](https://mastering-shiny-solutions.org/index.html)
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [2. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -59,49 +53,49 @@
 
 
 
-## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Courses / Other Tools
 
 *   [Full Web Apps with FastAPI Course](https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi) - You'll learn to build full web apps with FastAPI, equivalent to what you can do with Flask or Django.
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### BaaS
 
 *   [Salesforce Developer Program](https://developer.salesforce.com/signup) — Build apps Lightning fast with drag-and-drop tools. Customize your data model with clicks. Go further with Apex code. Integrate with anything using powerful APIs. Stay protected with enterprise-grade security. Customize UI with clicks or any leading-edge web framework. Free Developer Program gives access to the full Lightning Platform.
 
-## [6. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [5. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Projects / Godot 3
 
-*   [Arrow (⭐935)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
+*   [Arrow (⭐958)](https://github.com/mhgolkar/Arrow) - A tool to design game narratives with nodes.
 
-## [7. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
+## [6. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
 ### JSS
 
 *   [JSS with Vue.js](https://github.com/KayeeNL/sitecore-jss-getting-started-vuejs) - A starting template for JSS using Vue.js framework.
 
-## [8. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [7. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### ARKit
 
 *   [*Apple Augmented Reality by Tutorials* by Chris Language](https://www.raywenderlich.com/books/apple-augmented-reality-by-tutorials/v1.0)
 
-## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [KICS (⭐2.1k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
+*   [KICS (⭐2.2k)](https://github.com/Checkmarx/kics) - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 
-## [10. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
+## [9. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/README.md)
 
 ### Support Tables
 
 *   [Accessibility Support](https://a11ysupport.io/) - Compare accessibility support of HTML elements and ARIA roles across browsers & assistive technologies.
 
-## [11. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
+## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
 ### Learning
 

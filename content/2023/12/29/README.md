@@ -48,7 +48,7 @@
 
 ### Keybinding / Diagnostics
 
-*   [tris203/hawtkeys.nvim (⭐225)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
+*   [tris203/hawtkeys.nvim (⭐226)](https://github.com/tris203/hawtkeys.nvim) - Suggest new easy-to-hit keymaps and find issues with your current keymap configurations.
 
 ---
 

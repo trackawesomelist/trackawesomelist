@@ -58,7 +58,7 @@
 
 ### Plugins / IRC
 
-*   [Composer-Warmup (⭐180)](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
+*   [Composer-Warmup (⭐181)](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
 
 ## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

@@ -10,12 +10,12 @@
 
 ### Regular Expressions
 
-*   [Re (⭐232)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).
-*   [ocaml-pcre (⭐31)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
+*   [Re (⭐235)](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str, etc.).
+*   [ocaml-pcre (⭐33)](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
 
 ### Serialization
 
-*   [sexplib (⭐146)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
+*   [sexplib (⭐151)](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -25,11 +25,11 @@
 
 ### Image Processing
 
-*   [Phasion (⭐704)](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
+*   [Phasion (⭐703)](https://github.com/westonplatter/phashion) - Ruby wrapper around pHash, the perceptual hash library for detecting duplicate multimedia files.
 
 ### Security
 
-*   [Metasploit (⭐34k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
+*   [Metasploit (⭐35k)](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 
 ---
 

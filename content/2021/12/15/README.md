@@ -100,7 +100,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [iter-ops (⭐140)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
+*   :octocat: [iter-ops (⭐141)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
 
 ---
 

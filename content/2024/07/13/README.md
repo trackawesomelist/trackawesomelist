@@ -31,9 +31,9 @@
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Feature Flags / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-flagr (⭐9)](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
+*   [ngx-flagr (⭐10)](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
 
 ## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

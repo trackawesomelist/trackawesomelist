@@ -10,7 +10,7 @@
 
 ### Command line interface (CLI) / Terminal / Shell
 
-*   [bartender (⭐52)](https://github.com/tobealive/bartender) - Customizable progress indicators for V terminal applications.
+*   [bartender (⭐55)](https://github.com/tobealive/bartender) - Customizable progress indicators for V terminal applications.
 
 ## [2. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -67,11 +67,11 @@
 
 ### Utility / Diagnostics
 
-*   [cpea2506/relative-toggle.nvim (⭐31)](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable.
+*   [cpea2506/relative-toggle.nvim (⭐32)](https://github.com/cpea2506/relative-toggle.nvim) - Toggles smoothly between number and relative numbers, supporting various number combinations, highly customizable.
 
 ### Motion / Diagnostics
 
-*   [chrisgrieser/nvim-spider (⭐684)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
+*   [chrisgrieser/nvim-spider (⭐704)](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
 
 ---
 

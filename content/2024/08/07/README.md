@@ -10,15 +10,15 @@
 
 ### Data Visualization
 
-*   [plox (⭐80)](https://github.com/gridpoint-com/plox) - Server-side rendered SVG graphing components for Phoenix and LiveView.
+*   [plox (⭐84)](https://github.com/gridpoint-com/plox) - Server-side rendered SVG graphing components for Phoenix and LiveView.
 
 ### Macros
 
-*   [typed\_structor (⭐13)](https://github.com/elixir-typed-structor/typed_structor) - A library for defining structs with types effortlessly.
+*   [typed\_structor (⭐14)](https://github.com/elixir-typed-structor/typed_structor) - A library for defining structs with types effortlessly.
 
 ### ORM and Datamapping
 
-*   [ecto\_watch (⭐215)](https://github.com/cheerfulstoic/ecto_watch) - Allows you to easily get notifications about database changes directly from PostgreSQL.
+*   [ecto\_watch (⭐220)](https://github.com/cheerfulstoic/ecto_watch) - Allows you to easily get notifications about database changes directly from PostgreSQL.
 
 ## [2. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
 
@@ -30,11 +30,11 @@
 
 ### Quickfix / Diagnostics
 
-*   [stevearc/quicker.nvim (⭐496)](https://github.com/stevearc/quicker.nvim) - Improved quickfix UI and editable quickfix buffer.
+*   [stevearc/quicker.nvim (⭐598)](https://github.com/stevearc/quicker.nvim) - Improved quickfix UI and editable quickfix buffer.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [dam9000/kickstart-modular.nvim (⭐566)](https://github.com/dam9000/kickstart-modular.nvim) - This is a fork of nvim-lua/kickstart.nvim that moves from a single file to a multi file configuration.
+*   [dam9000/kickstart-modular.nvim (⭐613)](https://github.com/dam9000/kickstart-modular.nvim) - This is a fork of nvim-lua/kickstart.nvim that moves from a single file to a multi file configuration.
 
 ## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -52,11 +52,11 @@
 
 ### Development / Discovery
 
-*   [compose2nix (⭐464)](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
+*   [compose2nix (⭐502)](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 
 ### NixOS Modules / Zig
 
-*   [nix-mineral (⭐197)](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
+*   [nix-mineral (⭐223)](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 
 ## [7. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

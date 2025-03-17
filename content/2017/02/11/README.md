@@ -16,7 +16,7 @@
 
 ### services
 
-*   [featureserver (⭐101)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
+*   [featureserver (⭐106)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
 
 ## [3. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐158)](https://github.com/saurvs/nfd-rs) - [nativefiledialog (⭐1.8k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐156)](https://github.com/saurvs/nfd-rs) - [nativefiledialog (⭐1.8k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [7. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

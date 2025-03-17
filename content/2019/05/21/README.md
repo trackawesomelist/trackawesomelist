@@ -10,7 +10,7 @@
 
 ### Related Awesome Lists / Mocking
 
-*   [Awesome Annotation Processing (⭐481)](https://github.com/gunnarmorling/awesome-annotation-processing)
+*   [Awesome Annotation Processing (⭐500)](https://github.com/gunnarmorling/awesome-annotation-processing)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Front-End Development
 
-*   [Storybook (⭐379)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
+*   [Storybook (⭐386)](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
 
 ## [7. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -96,7 +96,7 @@
 
 ### CSV
 
-*   [Vince's CSV Parser (⭐939)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
+*   [Vince's CSV Parser (⭐943)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
 
 ### Web Application Framework
 

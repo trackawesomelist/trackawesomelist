@@ -20,8 +20,8 @@
 
 ### API Builder and Discovery
 
-*   [Version Cake (⭐654)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
-*   [versionist (⭐971)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
+*   [Version Cake (⭐656)](https://github.com/bwillis/versioncake) - An unobtrusive way to version APIs in your Rails app.
+*   [versionist (⭐968)](https://github.com/bploetz/versionist) - A plugin for versioning Rails based RESTful APIs.
 
 ### Authorization
 
@@ -51,7 +51,7 @@
 
 ### Internationalization
 
-*   [FastGettext (⭐404)](https://github.com/grosser/fast_gettext) - Ruby internationalization tool with less memory, simple, clean namespace and threadsafe.
+*   [FastGettext (⭐405)](https://github.com/grosser/fast_gettext) - Ruby internationalization tool with less memory, simple, clean namespace and threadsafe.
 *   [Globalize (⭐2.2k)](https://github.com/globalize/globalize) - Globalize builds on the I18n API in Ruby on Rails to add model translations to ActiveRecord models.
 
 ### Security
@@ -72,7 +72,7 @@
 
 *   [Password Compat (⭐2.1k)](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
 *   [Password Policy (⭐78)](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
-*   [Password Validator (⭐144)](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
+*   [Password Validator (⭐143)](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
 
 ### Table of Contents / Debugging and Profiling
 
@@ -80,7 +80,7 @@
 
 ### Table of Contents / Numbers
 
-*   [ByteUnits (⭐162)](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
+*   [ByteUnits (⭐164)](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 
 ---
 

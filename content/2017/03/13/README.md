@@ -27,7 +27,7 @@
 
 ### Others / Others
 
-*   [Remote Working (⭐10k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+*   [Remote Working (⭐11k)](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

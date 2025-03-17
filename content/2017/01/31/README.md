@@ -76,7 +76,7 @@
 
 ### Testing
 
-*   [aiomock (⭐23)](https://github.com/nhumrich/aiomock/) - A python mock library that supports async methods.
+*   [aiomock (⭐27)](https://github.com/nhumrich/aiomock/) - A python mock library that supports async methods.
 
 ## [7. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Design patterns / Chrome Extensions
 
-*   :octocat: [Design Patterns implementation (⭐5.2k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
+*   :octocat: [Design Patterns implementation (⭐5.3k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Python / Reinforcement Learning
 
-*   [DeepMind Lab (⭐7.1k)](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
+*   [DeepMind Lab (⭐7.2k)](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
 *   [ViZDoom (⭐1.8k)](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
 
 ## [3. Awesome Indie](/content/mezod/awesome-indie/README.md)
@@ -149,7 +149,7 @@
 
 ### Tutorials / Firefox Specific Tools/Debugger
 
-*   [WebGL 2 Examples (⭐487)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
+*   [WebGL 2 Examples (⭐545)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 
 ## [5. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/README.md)
 

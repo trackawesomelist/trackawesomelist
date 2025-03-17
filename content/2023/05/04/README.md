@@ -20,16 +20,16 @@
 
 ### Search / Diagnostics
 
-*   [AckslD/muren.nvim (⭐360)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
+*   [AckslD/muren.nvim (⭐362)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
 
 ### Indent / Diagnostics
 
-*   [nvimdev/indentmini.nvim (⭐220)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide API.
+*   [nvimdev/indentmini.nvim (⭐226)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide API.
 
 ### Workflow / Diagnostics
 
 *   [m4xshen/hardtime.nvim (⭐1.7k)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
-*   [antonk52/bad-practices.nvim (⭐106)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
+*   [antonk52/bad-practices.nvim (⭐107)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
 
 ## [3. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
 

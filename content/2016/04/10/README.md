@@ -10,7 +10,7 @@
 
 ### Software Design
 
-*   [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** \[50:28]
+*   [The Programming Language Wars](https://www.youtube.com/watch?v=mDZ-QSLQIB8) by **Andreas Stefik** (CodeMesh 2014) \[50:28]
 
 ## [2. Awesome Fuse](/content/fuse-compound/awesome-fuse/README.md)
 

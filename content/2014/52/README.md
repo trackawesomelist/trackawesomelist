@@ -23,13 +23,7 @@
 *   [Bookmarkr (⭐17)](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
 *   [Query Examples (⭐56)](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
 
-## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
-
-### Methodologies
-
-*   [The Death of Agile](http://www.thoughtworks.com/talks/the-death-of-agile) by **Dave Thomas** \[47:47]
-
-## [4. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [3. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### Architecture
 
@@ -44,7 +38,7 @@
 *   [NGINX Conference 2014 Videos](https://www.youtube.com/playlist?list=PLGz_X9w9raXewvc6tjIGGFZ6DBKHEld3k)
 *   [NGINX User Summit 2014 - Lightning talks](https://www.youtube.com/playlist?list=PLGz_X9w9raXfTnRnI6Xl0LMhAKoTVVZv8)
 
-## [5. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
+## [4. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
 ### Resources / Books
 
@@ -55,13 +49,13 @@
 
 *   [31 days of canvas](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/)
 
-## [6. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [5. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Tutorials and articles
 
 *   Backbone.js organizational patterns by Ben Eddy - [Part 1](http://www.foraker.com/backbone-js-organizational-patterns/), [Part 2](http://www.foraker.com/backbone-js-organizational-patterns-part-ii/)
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -78,7 +72,7 @@
 ### Debug
 
 *   [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. \[LGPL2]
-*   [libtap (⭐252)](https://github.com/zorgnax/libtap) - Write tests in C. \[GPL2]
+*   [libtap (⭐255)](https://github.com/zorgnax/libtap) - Write tests in C. \[GPL2]
 
 ### Game Engine
 
@@ -99,8 +93,8 @@
 
 ### JSON
 
-*   [frozen (⭐715)](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. \[GPL & GPL2]
-*   [QJson (⭐289)](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. \[LGPL2]
+*   [frozen (⭐718)](https://github.com/cesanta/frozen) - JSON parser and generator for C/C++. \[GPL & GPL2]
+*   [QJson (⭐288)](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. \[LGPL2]
 
 ### Math
 
@@ -111,7 +105,7 @@
 
 *   [Mongoose (⭐11k)](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. \[GPL2]
 *   [Onion (⭐2k)](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use. \[Apache2/GPL2]
-*   [Tufão (⭐592)](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. \[LGPL2]
+*   [Tufão (⭐593)](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. \[LGPL2]
 
 ### Scripting
 
@@ -129,10 +123,10 @@
 
 *   [Better String](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. \[BSD, GPL2]
 *   [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. \[GPL2/Proprietary]
-*   [Stage (⭐406)](https://github.com/rtv/Stage) - Mobile robot simulator. \[GPL2]
+*   [Stage (⭐407)](https://github.com/rtv/Stage) - Mobile robot simulator. \[GPL2]
 *   [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. \[LGPL2]
 
-## [8. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authentication and OAuth
 
@@ -142,7 +136,7 @@
 
 *   [Slanger (⭐1.7k)](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.
 
-## [9. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [8. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -164,7 +158,7 @@
 
 
 
-## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### ES6 / Other
 
@@ -174,7 +168,13 @@
 ### Misc / Other
 
 *   [addyosmani/es6-tools (⭐4k)](https://github.com/addyosmani/es6-tools)
-*   [ericdouglas/ES6-Learning (⭐4.6k)](https://github.com/ericdouglas/ES6-Learning)
+*   [ericdouglas/ES6-Learning (⭐4.5k)](https://github.com/ericdouglas/ES6-Learning)
+
+## [10. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Ruby / Tornado
+
+*   [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 
 ## [11. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
@@ -199,7 +199,6 @@
 ### Text and Numbers
 
 *   [base58 (⭐15)](https://github.com/jrdnull/base58) - Base58 encoding/decoding for Elixir.
-*   [faust](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
 *   [kitsune (⭐11)](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
 
 ## [13. Typography](/content/deanhume/typography/week/README.md)

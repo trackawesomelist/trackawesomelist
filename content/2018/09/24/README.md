@@ -124,7 +124,7 @@
 
 ### Dependency Injection
 
-*   [DITranquillity (⭐422)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
+*   [DITranquillity (⭐425)](https://github.com/ivlevAstef/DITranquillity/) - Dependency injection framework with tranquility.
 
 ### Pagination / Barcode
 

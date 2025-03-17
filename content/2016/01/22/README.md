@@ -73,12 +73,12 @@
 *   [latest-version (⭐53)](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
 *   [npm-user (⭐57)](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
 *   [npm-email (⭐32)](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
-*   [npm-user-packages (⭐3)](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
+*   [npm-user-packages (⭐5)](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
 *   [npm-stats (⭐51)](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
 
 ### Other
 
-*   [generator-nm (⭐743)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
+*   [generator-nm (⭐741)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
 *   [npm-issues (⭐48)](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 
 ## [9. Awesome Rest](/content/marmelab/awesome-rest/README.md)

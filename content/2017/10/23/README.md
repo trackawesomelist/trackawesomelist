@@ -73,7 +73,7 @@
 
 ### Time-Series Databases
 
-*   [SiriDB (⭐480)](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
+*   [SiriDB (⭐506)](https://github.com/transceptor-technology/siridb-server) Highly-scalable, robust and fast, open source time series database with cluster functionality.
 
 ## [11. Awesome Open Source Supporters](/content/zachflower/awesome-open-source-supporters/README.md)
 

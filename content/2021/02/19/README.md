@@ -31,11 +31,11 @@
 
 *   [yew-feather (⭐19)](https://github.com/pedrodesu/yew-feather) - Feather Icons components for Yew.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### UI / Barcode
+### Python / Constraint Logic Programming (extended Prolog)
 
-*   [BulletinBoard (⭐5.4k)](https://github.com/alexisakers/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
+*   [Programming for Non-Programmers, Release 2.6.2](https://web.archive.org/web/20180921063136/http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf) - Steven F. Lott (PDF) (2.6) *(:card\_file\_box: archived)*
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

@@ -34,7 +34,7 @@
 
 ### Miscellaneous / React
 
-*   [GraphQL Constraint Directive (⭐569)](https://github.com/confuser/graphql-constraint-directive) - Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI
+*   [GraphQL Constraint Directive (⭐571)](https://github.com/confuser/graphql-constraint-directive) - Allows using @constraint as a directive to validate input data. Inspired by Constraints Directives RFC and OpenAPI
 *   [Validator.js Wrapper Directive (⭐4)](https://github.com/ktutnik/graphql-directive/tree/master/packages/validator) - A comprehensive list of validator directive wraps Validator.js functionalities
 
 ## [6. Awesome Godot](/content/godotengine/awesome-godot/README.md)
@@ -48,7 +48,7 @@
 ### Game / Diagnostics
 
 *   [alanfortlink/blackjack.nvim (⭐61)](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
-*   [jim-fx/sudoku.nvim (⭐73)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
+*   [jim-fx/sudoku.nvim (⭐74)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
 
 ## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

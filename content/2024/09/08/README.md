@@ -22,7 +22,7 @@
 
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngxtw (⭐5)](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
+*   [ngxtw (⭐11)](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
 
 ## [4. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
@@ -34,7 +34,7 @@
 
 ### GUI
 
-*   [Clidey WhoDB (⭐2.4k)](https://github.com/clidey/whodb) - A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.
+*   [Clidey WhoDB (⭐2.7k)](https://github.com/clidey/whodb) - A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.
 
 ## [6. Awesome Laravel Filament](/content/lightszentip/awesome-laravel-filament/README.md)
 

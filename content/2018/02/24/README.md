@@ -16,7 +16,7 @@
 
 ### Test-Driven Development
 
-*   [How To Stop Hating Your Tests](https://vimeo.com/145917204) by **Justin Searls** \[43:39]
+*   [How To Stop Hating Your Tests](https://vimeo.com/145917204) by **Justin Searls** (RubyConf 2015) \[43:39]
 
 ## [3. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

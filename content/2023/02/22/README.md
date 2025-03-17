@@ -53,7 +53,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [bennypowers/splitjoin.nvim (⭐79)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
+*   [bennypowers/splitjoin.nvim (⭐80)](https://github.com/bennypowers/splitjoin.nvim) - Split and join various syntax structures.
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

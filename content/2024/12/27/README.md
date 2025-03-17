@@ -11,7 +11,7 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [mycli (⭐1)](https://github.com/remino/omz-plugin-mycli-alias) - Add alias for [`mycli`](https://www.mycli.net) with login path.
-*   [pgconnect (⭐1)](https://github.com/ruslan-korneev/pgconnect-zsh) - Provides an easy way to manage and connect to PostgreSQL databases using `pgcli` and [fzf (⭐67k)](https://github.com/junegunn/fzf) for a seamless command-line experience.
+*   [pgconnect (⭐2)](https://github.com/ruslan-korneev/pgconnect-zsh) - Provides an easy way to manage and connect to PostgreSQL databases using `pgcli` and [fzf (⭐68k)](https://github.com/junegunn/fzf) for a seamless command-line experience.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -22,7 +22,7 @@
 
 ### Yaml
 
-*   [LibYAML (⭐992)](https://github.com/yaml/libyaml) - A C library for parsing and emitting YAML. \[MIT] [website](https://pyyaml.org/wiki/LibYAML)
+*   [LibYAML (⭐1k)](https://github.com/yaml/libyaml) - A C library for parsing and emitting YAML. \[MIT] [website](https://pyyaml.org/wiki/LibYAML)
 
 ## [3. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Applications / Embedded
 
-*   [rmk (⭐716)](https://github.com/haobogu/rmk) - A feature-rich keyboard firmware.
+*   [rmk (⭐801)](https://github.com/haobogu/rmk) - A feature-rich keyboard firmware.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Scaffold
 
-*   [svelte-docs-starter (⭐22)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
+*   [svelte-docs-starter (⭐28)](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

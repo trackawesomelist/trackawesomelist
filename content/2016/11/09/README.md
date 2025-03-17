@@ -59,7 +59,7 @@
 
 ### Other / Event listeners for fonts loading on a web page
 
-*   [Command line font-manager (⭐17)](https://github.com/alyssais/font)
+*   [Command line font-manager (⭐18)](https://github.com/alyssais/font)
 
 ---
 

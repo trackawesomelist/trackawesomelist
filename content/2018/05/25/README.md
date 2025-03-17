@@ -1,6 +1,6 @@
 # Awesome List Updates on May 25, 2018
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,25 +12,32 @@
 
 *   [An Introduction to MQTT: Why HTTP isn't the King of the Internet of Things](https://www.youtube.com/watch?v=LKz1jYngpcU) - Shinji Kim, Robert Bird - Akamai, Samsung Developer Conference 2017.
 
-## [2. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Math for programmers (using python)](https://akuli.github.io/math-tutorial/)
+*   [Python 3 Tutorial (⭐1.4k)](https://github.com/Akuli/python-tutorial)
+
+## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Date
 
 *   [NVDate (⭐174)](https://github.com/novalagung/nvdate) - Date extension library.
 
-## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Example Projects
 
 *   [Securing Spring Boot Admin & Actuator Endpoints with Keycloak (⭐59)](https://github.com/thomasdarimont/spring-boot-admin-keycloak-example)
 
-## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Runtime Application Self-Protection
 
 *   [OpenRASP (⭐2.7k)](https://github.com/baidu/openrasp) - An open source RASP solution actively maintained by Baidu Inc. With context-aware detection algorithm the project achieved nearly no false positives. And less than 3% performance reduction is observed under heavy server load.
 
-## [5. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Web Programming • Libraries
 

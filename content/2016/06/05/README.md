@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 05, 2016
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -76,28 +76,34 @@
 
 ### Methodologies
 
-*   [Implementing Programmer Anarchy](https://vimeo.com/79866978) by **Fred George** \[54:55]
+*   [Implementing Programmer Anarchy](https://vimeo.com/79866978) by **Fred George** (Øredev 2013) \[54:55]
 
-## [6. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [MaintainableCSS](http://maintainablecss.com)
+
+## [7. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
 ### Operating Systems:
 
 *   [Tails](https://tails.boum.org/) - A live media, Linux-based operating system that is designed to allow the use of a computer without leaving a digital footprint.
 
-## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Other / Other Resources
 
 *   [Industrial Control System Security (⭐1.6k)](https://github.com/hslatman/awesome-industrial-control-system-security)
 *   [Threat Intelligence (⭐7.6k)](https://github.com/hslatman/awesome-threat-intelligence)
 
-## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [9. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / P companies
 
 *   Panorama Education <http://engineering.panoramaed.com/>
 
-## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [10. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Vector Graphics / Unspecified License
 

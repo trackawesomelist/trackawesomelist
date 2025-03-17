@@ -60,8 +60,8 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [lets-cli (⭐2)](https://github.com/lets-cli/lets-zsh-plugin) - Add autocompletion for [lets (⭐76)](https://github.com/lets-cli/lets) cli task runner.
-*   [ssh (sunlei) (⭐154)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
+*   [lets-cli (⭐2)](https://github.com/lets-cli/lets-zsh-plugin) - Add autocompletion for [lets (⭐77)](https://github.com/lets-cli/lets) cli task runner.
+*   [ssh (sunlei) (⭐159)](https://github.com/sunlei/zsh-ssh) - Better host completion for `ssh`.
 *   [ssh (zpm-zsh) (⭐18)](https://github.com/zpm-zsh/ssh) - Add host completion for `ssh`.
 
 ## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
@@ -94,7 +94,7 @@
 
 ### Authentication and OAuth
 
-*   [Sorcery (⭐1.4k)](https://github.com/Sorcery/sorcery) - A stripped-down, bare-bones authentication library for Rails.
+*   [Sorcery (⭐1.5k)](https://github.com/Sorcery/sorcery) - A stripped-down, bare-bones authentication library for Rails.
 
 ## [11. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
@@ -110,11 +110,11 @@
 *   [yew-d3-example (⭐24)](https://github.com/ivanschuetz/yew-d3-example) - Showing a d3 chart with Yew.
 *   [zzhack (⭐322)](https://github.com/zzhack-stack/zzhack) - A personal blog, based on Rust & Yew, [Live Demo](https://www.zzhack.fun/).
 
-## [13. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Compiler Design
+### C / Non-X86
 
-*   [Compiler Design in C (1990)](https://holub.com/goodies/compiler/compilerDesignInC.pdf) - Allen Holub, Prentice Hall (PDF)
+*   [Let us C](https://archive.org/download/let-us-c/LET%20US%20C.pdf) - Yashavant Kanetkar (PDF)
 
 ---
 

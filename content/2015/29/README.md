@@ -60,7 +60,7 @@
 
 ### HTTP Clients and tools
 
-*   [Http-2 (⭐899)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
+*   [Http-2 (⭐898)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 
 ## [7. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -175,8 +175,8 @@
 
 ### Monitoring / Prometheus
 
-*   [Prometheus.io (⭐55k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
-*   [HAProxy Exporter (⭐617)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
+*   [Prometheus.io (⭐58k)](https://github.com/prometheus/prometheus) - An open-source service monitoring system and time series database.
+*   [HAProxy Exporter (⭐620)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
 
 ## [16. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -351,11 +351,11 @@ git config --global core.autocrlf false
 
 ### Game Engine
 
-*   [Panda3D (⭐4.6k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
+*   [Panda3D (⭐4.7k)](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. \[Modified BSD] [website](https://www.panda3d.org/)
 
 ### Networking
 
-*   [cpr (⭐6.7k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
+*   [cpr (⭐6.8k)](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. \[MIT] [website](https://docs.libcpr.org)
 
 ## [20. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -406,8 +406,8 @@ git config --global core.autocrlf false
 
 ### Misc / Other
 
-*   [willianjusten/awesome-svg (⭐4.5k)](https://github.com/willianjusten/awesome-svg)
-*   [davidsonfellipe/awesome-wpo (⭐8.3k)](https://github.com/davidsonfellipe/awesome-wpo)
+*   [willianjusten/awesome-svg (⭐4.6k)](https://github.com/willianjusten/awesome-svg)
+*   [davidsonfellipe/awesome-wpo (⭐8.5k)](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 

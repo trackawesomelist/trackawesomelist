@@ -39,7 +39,7 @@
 
 ### Plugins / IRC
 
-*   [Symfony-Flex (⭐4.1k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐953)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
+*   [Symfony-Flex (⭐4.2k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐990)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 
 ## [6. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

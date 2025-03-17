@@ -16,7 +16,7 @@
 
 ### Functional Programming
 
-*   [Types are like the Weather, Type Systems are like Weathermen](https://www.youtube.com/watch?v=XTl7Jn_kmio) by **Matthias Felleisen** \[1:15:18]
+*   [Types are like the Weather, Type Systems are like Weathermen](https://www.youtube.com/watch?v=XTl7Jn_kmio) by **Matthias Felleisen** (Clojure/West 2016) \[1:15:18]
 
 ## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -131,7 +131,7 @@
 
 ### Switch / Barcode
 
-*   [Switch (⭐145)](https://github.com/T-Pham/Switch) - A switch control with full Interface Builder support.
+*   [Switch (⭐146)](https://github.com/T-Pham/Switch) - A switch control with full Interface Builder support.
 
 ## [15. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -465,7 +465,7 @@ Webpage: <http://www.deysbreeker.nl/>
 *   [edeliver (⭐2k)](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 *   [exdm (⭐12)](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
 *   [gatling (⭐496)](https://github.com/hashrocket/gatling) - Collection of mix tasks to automatically create a exrm release from git and launch/upgrade it on your server.
-*   [heroku-buildpack-elixir (⭐815)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
+*   [heroku-buildpack-elixir (⭐814)](https://github.com/HashNuke/heroku-buildpack-elixir) - Heroku buildpack to deploy Elixir apps to Heroku.
 
 ### Video
 

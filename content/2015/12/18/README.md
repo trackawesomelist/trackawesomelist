@@ -44,7 +44,7 @@
 
 ### Cloud
 
-*   [browse-everything (⭐114)](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
+*   [browse-everything (⭐115)](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
 
 ## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 

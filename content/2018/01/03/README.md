@@ -10,9 +10,9 @@
 
 ### Rendering / Particles
 
-*   [GLBoost (⭐105)](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks.
+*   [GLBoost (⭐106)](https://github.com/emadurandal/GLBoost) - Rendering library for 3D graphic geeks.
 *   [GrimoireGL](https://grimoire.gl/) - Bridge between Web engineers and CG engineers.
-*   [Hilo3d (⭐612)](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
+*   [Hilo3d (⭐653)](https://github.com/hiloteam/Hilo3d) - WebGL rendering engine for 3D games.
 
 ## [2. Toolsforactivism](/content/drewrwilson/toolsforactivism/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Web Application Framework
 
-*   [Cutelyst (⭐926)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[BSD-3-Clause] [website](https://cutelyst.org/)
+*   [Cutelyst (⭐932)](https://github.com/cutelyst/cutelyst) - A C++ Web Framework built on top of Qt, using the simple approach of Catalyst (Perl) framework. \[BSD-3-Clause] [website](https://cutelyst.org/)
 
 ## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 
@@ -65,7 +65,7 @@
 
 ## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### Community / Interfaces to other package managers
+### Interfaces to other package managers
 
 *   [qldeb (⭐5)](https://github.com/ralt/qldeb) -  Quicklisp systems to debian packages, along with [deb-packager (⭐4)](https://github.com/ralt/deb-packager) (simply create a debian package by defining an s-expression) and an introductory [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html). Both [MIT](https://opensource.org/licenses/MIT).
 *   [ql-to-deb (⭐23)](https://github.com/dimitri/ql-to-deb) -  Update cl-\* debian packages from Quicklisp releases. WTFPL.

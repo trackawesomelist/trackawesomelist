@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 22, 2018
 
-3 awesome lists updated today.
+2 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,7 @@
 
 *   [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/) \[2018]
 
-## [2. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
-
-### Official
-
-*   [Block.one](https://block.one/)
-
-## [3. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [2. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Talks
 

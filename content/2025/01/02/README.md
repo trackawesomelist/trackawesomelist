@@ -16,19 +16,19 @@
 
 ### Marks / Diagnostics
 
-*   [zongben/navimark.nvim (⭐10)](https://github.com/zongben/navimark.nvim) - An easy and powerful bookmark manager with telescope.
+*   [zongben/navimark.nvim (⭐14)](https://github.com/zongben/navimark.nvim) - An easy and powerful bookmark manager with telescope.
 
 ### Color / Diagnostics
 
-*   [catgoose/nvim-colorizer.lua (⭐819)](https://github.com/catgoose/nvim-colorizer.lua) - A high-performance color highlighter which has no external dependencies.
+*   [catgoose/nvim-colorizer.lua (⭐846)](https://github.com/catgoose/nvim-colorizer.lua) - A high-performance color highlighter which has no external dependencies.
 
 ### Note Taking / Diagnostics
 
-*   [athar-qadri/scratchpad.nvim (⭐5)](https://github.com/athar-qadri/scratchpad.nvim) - Effortlessly manage scratchpads within your favorite editor.
+*   [athar-qadri/scratchpad.nvim (⭐8)](https://github.com/athar-qadri/scratchpad.nvim) - Effortlessly manage scratchpads within your favorite editor.
 
 ### Terminal Integration / Diagnostics
 
-*   [isak102/ghostty.nvim (⭐26)](https://github.com/isak102/ghostty.nvim) - Automatically validate your Ghostty configuration on save.
+*   [isak102/ghostty.nvim (⭐36)](https://github.com/isak102/ghostty.nvim) - Automatically validate your Ghostty configuration on save.
 
 ### Editing Support / Diagnostics
 
@@ -38,7 +38,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [task (⭐0)](https://github.com/targendaz2/taskfile) - Tab completions for [Task](https://taskfile.dev/).
+*   [task (⭐1)](https://github.com/targendaz2/taskfile) - Tab completions for [Task](https://taskfile.dev/).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

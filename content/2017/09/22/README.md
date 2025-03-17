@@ -43,7 +43,7 @@
 
 ### Markdown/Text Processors
 
-*   [markd (⭐110)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
+*   [markd (⭐111)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
 
 ## [6. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -100,7 +100,7 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐941)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐943)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

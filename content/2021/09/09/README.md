@@ -98,7 +98,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [EdenEast/nightfox.nvim (⭐3.3k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for LSP, Tree-sitter and a variety of plugins.
+*   [EdenEast/nightfox.nvim (⭐3.4k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for LSP, Tree-sitter and a variety of plugins.
 
 ## [13. Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md)
 

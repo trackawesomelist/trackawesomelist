@@ -44,7 +44,7 @@
 
 ### Database
 
-*   [LMDB++ (⭐274)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
+*   [LMDB++ (⭐275)](https://github.com/bendiken/lmdbxx) - C++11 wrapper for the LMDB embedded database library. \[PublicDomain]
 
 ## [6. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 

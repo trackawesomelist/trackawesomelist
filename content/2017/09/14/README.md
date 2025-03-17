@@ -42,7 +42,7 @@
 
 ### operations
 
-*   [CoGran (⭐108)](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
+*   [CoGran (⭐111)](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
 
 ## [7. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

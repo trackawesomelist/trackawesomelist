@@ -24,23 +24,25 @@
 
 ## [3. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Security
+### Software / Security Testing
 
-*   [OWASP ZAP (⭐13k)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
+*   [OWASP ZAP (⭐13k)](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 
-### Software / Make your life easier
+### Software / Browser Extensions & Utilities
 
-*   [BareTail](https://www.baremetalsoft.com/baretail/) - Brings the tail linux command to Windows, coloured lines and REGEX search and loads of other features.
-*   [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - We all have to mess with proxies, this makes it a lot easier when using Test/Prod/localhost proxies.
-*   [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - For when PrintScreen isn't big enough.
-*   [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Large forms can be really irritating to fill out each time, speed it up with dummy data.
+*   [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture full-page screenshots.
+*   [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
+*   [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - Easy proxy switching for test/prod environments.
 
-### Software / Other
+### Software / Accessibility & Usability Testing
 
-*   [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
-*   [Yslow](http://yslow.org/) - Analyse why web pages are slow based on Yahoo!'s rules for performance.
+*   [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
 
-### Training (Includes developer training for automation testers) / Other
+### Software / Performance & Load Testing
+
+*   [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
+
+### Training (Includes developer training for automation testers) / Mind Mapping & Documentation
 
 *   [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 *   [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.

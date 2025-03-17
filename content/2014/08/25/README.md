@@ -10,7 +10,7 @@
 
 ### Table of Contents / Imagery
 
-*   [Image Optimizer (⭐909)](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
+*   [Image Optimizer (⭐910)](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

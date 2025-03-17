@@ -10,7 +10,7 @@
 
 ### Natural Language Processing
 
-*   [Words Counted (⭐159)](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
+*   [Words Counted (⭐162)](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
 
 ## [2. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 

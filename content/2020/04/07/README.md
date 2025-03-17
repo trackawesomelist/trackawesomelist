@@ -169,7 +169,7 @@
 
 ### Hypermedia Types / Text-Based User Interfaces
 
-*   [hate (⭐22)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
+*   [hate (⭐23)](https://github.com/blackdoor/hate) - Builds hypermedia-friendly objects according to HAL specification.
 
 ## [12. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 

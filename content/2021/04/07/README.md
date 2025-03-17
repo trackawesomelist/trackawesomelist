@@ -67,7 +67,7 @@
 
 ## [7. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Blogs / Other
+### Blogs / Mind Mapping & Documentation
 
 *   [Automation Panda](https://automationpanda.com/)
 
@@ -87,7 +87,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-tree (⭐797)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
+*   [nix-tree (⭐818)](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 
 ## [11. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Plugins
 
-*   🎨🧩 [CSS Variables (⭐232)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables.
+*   🎨🧩 [CSS Variables (⭐233)](https://github.com/mertasan/tailwindcss-variables) - Exports custom CSS variables.
 
 ### Learning
 

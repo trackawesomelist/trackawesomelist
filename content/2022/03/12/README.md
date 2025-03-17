@@ -47,7 +47,7 @@
 
 ### Tools - Miscellaneous / React
 
-*   [Typetta (⭐112)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
+*   [Typetta (⭐114)](https://github.com/twinlogix/typetta) - Node.js ORM written in TypeScript for type lovers. Typetta is the perfect ORM for the GraphQL + NodeJS + Typescript stack.
 
 ## [7. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 

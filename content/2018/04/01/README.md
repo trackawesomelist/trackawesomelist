@@ -11,13 +11,12 @@
 ### HAL implementation crates / STMicroelectronics
 
 *   [`stm32f0xx-hal`](https://crates.io/crates/stm32f0xx-hal) - [![crates.io](https://img.shields.io/crates/v/stm32f0xx-hal.svg)](https://crates.io/crates/stm32f0xx-hal)
-    *   Has examples that can run on boards like the \[Nucleo-F042K6] and similar boards
-        \[Nucleo-F042K6]: <http://www.st.com/en/evaluation-tools/nucleo-f042k6.html>
+    *   Has examples that can run on boards like the [Nucleo-F042K6](http://www.st.com/en/evaluation-tools/nucleo-f042k6.html) and similar boards
 
 ### Board support crates / STMicroelectronics
 
-*   [`nucleo-f042k6`](https://github.com/therealprof/nucleo-f042k6.git) - \[Nucleo-F042K6]
-*   [`nucleo-f103rb`](https://github.com/therealprof/nucleo-f103rb.git) - \[Nucleo-F103RB]
+*   [`nucleo-f042k6`](https://github.com/therealprof/nucleo-f042k6.git) - [Nucleo-F042K6](http://www.st.com/en/evaluation-tools/nucleo-f042k6.html)
+*   [`nucleo-f103rb`](https://github.com/therealprof/nucleo-f103rb.git) - [Nucleo-F103RB](http://www.st.com/en/evaluation-tools/nucleo-f103rb.html)
 
 ## [2. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

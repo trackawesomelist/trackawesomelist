@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 17 - Mar 23, 2025
 
-39 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -354,7 +354,29 @@
 
 *   ![v3](https://img.shields.io/badge/-v3-35495e) [vite-plugin-vue-style-in-template (⭐3)](https://github.com/peterroe/vite-plugin-vue-style-in-template) - Extract the style tags in template.
 
-## [13. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [13. Awesome Sql Playground](/content/holistics/awesome-sql-playground/week/README.md)
+
+### Top SQL Playgrounds
+
+*   **[RunSQL.com](https://runsql.com)**\
+    Powerful, fast, and user-friendly online SQL compiler and playground supporting multiple databases, including MySQL, PostgreSQL, SQLite, and SQL Server. Offers real-time results, collaborative features, and interactive query sharing.
+*   [DB Fiddle](https://www.db-fiddle.com/)\
+    Supports PostgreSQL, MySQL, SQLite, and SQL Server. Great for quick query tests and schema sharing.
+*   [SQLize Online](https://sqlize.online/)\
+    Simple and effective online SQL compiler for PostgreSQL, MySQL, SQLite, and Oracle databases. Ideal for quick syntax checking.
+*   [SQL Fiddle](http://sqlfiddle.com/)\
+    A versatile SQL playground supporting PostgreSQL, MySQL, SQL Server, Oracle, and SQLite with intuitive schema setup.
+*   [SQLite Online](https://sqliteonline.com/)\
+    Browser-based SQLite playground. Perfect for rapid prototyping and lightweight SQL queries.
+
+### Features to Consider
+
+*   Database Support (MySQL, PostgreSQL, SQLite, Oracle, SQL Server)
+*   Collaborative Editing and Query Sharing
+*   Instant Compilation and Results
+*   User Interface and Ease-of-Use
+
+## [14. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### 3D
 
@@ -395,7 +417,7 @@
 *   [Airtable](https://www.airtable.com/) -A user-friendly platform that blends spreadsheet features with database functionality for organizing projects, managing content, and tracking inventories`#freemium`
 *   [Excelmatic](https://excelmatica.com) - Chat with Excel, effortlessly process(analyze) Excel data using natural language with Excelmatic `#freemium`
 
-## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [15. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Ethics, Philosophical questions and Discussions about Generative AI
 
@@ -419,7 +441,7 @@
 *   [Gitingest](https://gitingest.com/): turn any Git repository into a simple text digest of its codebase.
 *   [uithub](https://uithub.com/): convert GitHub repositories into Markdown by placing the URL in the search bar
 
-## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [16. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Games / Browser Games
 
@@ -434,13 +456,13 @@
 *   [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
 *   [Ideate](https://ideate.xyz/) - AI-powered 3D art suite on the web.
 
-## [16. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [17. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### General Section / Svelte
 
 *   [The Coder Cafe](https://thecoder.cafe). One concept for coders, every day.
 
-## [17. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [18. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -450,14 +472,14 @@
 
 *   [@bgotink/playwright-coverage (⭐39)](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
 
-## [18. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [19. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Web
 
 *   [v-vite starter (⭐0)](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
 *   [vite.v (⭐0)](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 
-## [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - SIP
 
@@ -475,20 +497,20 @@
 
 *   [Flink](https://gitlab.com/rtraceio/web/flink) - Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata. ([Demo](https://flink.is)) `MIT` `Docker`
 
-## [20. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [21. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Programming fonts / Programming fonts with ligatures
 
 *   [JetBrains Maple Mono (⭐533)](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - The free and open-source font fused with JetBrains Mono & Maple Mono
 
-## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [22. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [capsule (⭐3)](https://github.com/42LM/capsule) - A simple single file terminal prompt that is completely customizable. Display is divided into capsules (`TIMER` > `DIR` > `GIT` > `GIT ACTION`).
 *   [git-venv-prompt (⭐0)](https://github.com/walkingshamrock/zsh-git-venv-prompt) - Enhances your Zsh prompt with information about the current Python virtual environment and the Git status (asynchronously). It uses zsh-async to provide async updates for Git status and displays the virtual environment in the second line of the prompt.
 
-## [22. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Security tools
 
@@ -516,26 +538,26 @@
     *   [lambda-fairy/maud (⭐2.3k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
     *   [Stebalien/horrorshow-rs (⭐327)](https://github.com/Stebalien/horrorshow-rs) - compile-time HTML templates
 
-## [23. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [24. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Utilities
 
 *   [pinia-plugin-unstorage (⭐1)](https://github.com/litingyes/pinia-plugin-unstorage) - The best persistence plugin with unjs/unstorage for pinia.
 
-## [24. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [25. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Status Bar
 
 *   [tmux-current-pane-hostname (⭐2)](https://github.com/tony-sol/tmux-current-pane-hostname) Show current user and hostname in ssh sessions
 *   [tmux-kubectx (⭐4)](https://github.com/tony-sol/tmux-kubectx) Show kubernetes context in statusbar
 
-## [25. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [26. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Connectors
 
 *   [wtx (⭐256)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
-## [26. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
+## [27. Awesome Billing](/content/kdeldycke/awesome-billing/week/README.md)
 
 ### Pricing / Usage-based Pricing
 
@@ -545,25 +567,25 @@
 
 *   [£sd computing](https://en.wikipedia.org/wiki/£sd#Computing) - The IBM 1401 mainframe (1959) optionally supported pounds/shillings/pence (£sd) currency arithmetics in hardware.
 
-## [27. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [28. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Scraping
 
 *   [Corsfix](https://corsfix.com) - CORS Proxy to fetch any web resource and bypass CORS errors.
 
-## [28. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [29. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [tfmcp (⭐40)](https://github.com/nwiizo/tfmcp) - A CLI tool that helps you interact with Terraform via the Model Context Protocol (MCP), allowing AI assistants like Claude to manage and operate Terraform environments.
 
-## [29. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [30. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Editor's Choice
 
 *   [Vizard AI](https://vizard.ai/?via=the-marketing-newsletter) - Create social-ready videos with AI instantly
 
-## [30. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
@@ -572,7 +594,7 @@
 *   [Natural speech reveals the semantic maps that tile human cerebral cortex](https://www.nature.com/articles/nature17637) - ***Nature***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=14997953800741854188)]. \[[Preprint](https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/H/Huth_et_al._2016.pdf)]. \[[Code & Tutorial (⭐32)](https://github.com/HuthLab/speechmodeltutorial)]. The meaning of language is represented in regions of the cerebral cortex collectively known as the ‘semantic system’. However, little of the semantic system has been mapped comprehensively, and the semantic selectivity of most regions is unknown. This work systematically maps semantic selectivity across the cortex using voxel-wise modelling of functional MRI (fMRI) data collected while subjects listened to hours of narrative stories. This work shows that the semantic system is organized into intricate patterns that seem to be consistent across individuals. The authors then use a novel generative model to create a detailed semantic atlas. The results suggest that most areas within the semantic system represent information about specific semantic domains, or groups of related concepts, and the atlas shows which domains are represented in each area. This study demonstrates that data-driven methods---commonplace in studies of human neuroanatomy and functional connectivity---provide a powerful and efficient means for mapping functional representations in the brain.
 *   [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](https://journals.sagepub.com/doi/full/10.1177/09567976211003877) - ***Psychological Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308)]. \[[All Versions](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf)]. Humans primarily rely on language to communicate, on the basis of a shared understanding of the basic building blocks of communication: words. Do we mean the same things when we use the same words? Although cognitive neural research on semantics has revealed the common principles of word-meaning representation, the factors underlying the potential individual variations in word meanings are unknown. This work empirically characterized the intersubject consistency of 90 words across 20 adult subjects (10 female) using both behavioral measures (rating-based semantic-relationship patterns) and neuroimaging measures (word-evoked brain activity patterns). Across both the behavioral and neuroimaging experiments, this work showed that the magnitude of individual disagreements on word meanings could be modeled on the basis of how much language or sensory experience is associated with a word and that this variation increases with word abstractness. Uncovering the cognitive and neural origins of word-meaning disagreements across individuals has implications for potential mechanisms to modulate such disagreements.
 
-## [31. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [32. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Scirra
 
@@ -662,7 +684,7 @@
 *   [Level Up - The Educator's Edition](https://www.construct.net/en/make-games/education/resources/ebook) - The ideal companion for anyone using Construct in the classroom.
 *   [Construct 3 Starter Curriculum](https://www.construct.net/en/make-games/education/resources/curriculum) - Free starter curriculum for Construct aimed at teaching students the basics of Computer Science.
 
-## [32. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [33. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Adventure starters and scenarios / Ironsworn
 
@@ -676,7 +698,7 @@
 *   [The Ferrum Mysteries](https://croakerrpgs.itch.io/the-ferrum-mysteries) - Explore the mystery behind the iron pillars
 *   [Rise & Shiningstar](https://www.gatling.xyz/rise-and-shiningstar/) - Find out what happened to the settlement Shiningstar
 
-## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Diagnostics
 
@@ -686,13 +708,61 @@
 
 *   [y3owk1n/nvs (⭐3)](https://github.com/y3owk1n/nvs) - Another Neovim version manager with config switcher.
 
-## [34. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [35. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Portfolio Management
 
 *   [skfolio (⭐1.4k)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn.
 
-## [35. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [36. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
+
+### Index / Customer Relationship Management (CRM)
+
+*   [Atomic CRM](https://marmelab.com/atomic-crm/) 🇫🇷 - Open-source CRM
+
+### Index / Marketing Tools
+
+*   [Brevo](https://www.brevo.com/) 🇫🇷 - Email marketing software and CRM.
+
+### Index / Design and Creative Tools
+
+*   [VectorStyler](https://www.vectorstyler.com/) 🇫🇮 - vector graphics editor.
+
+### Index / Domain name registrars
+
+*   [Mrdomain](https://mrdomain.com) 🇪🇸
+
+### Index / E-commerce Platforms
+
+*   [Shopware](https://www.shopware.com/) 🇩🇪 - Modern e-commerce solutions for businesses.
+*   [Sylius](https://sylius.com/) 🇵🇱 - e-commerce framework for creating shopping experiences.
+
+### Index / Password manager services
+
+*   [uniqkey](https://www.uniqkey.eu/) 🇩🇰
+
+### Index / Productivity Tools
+
+*   [Bunnyshell](https://www.bunnyshell.com/) 🇷🇴 - Environments as a Service platform for Kubernetes.
+
+### Index / Translation services
+
+*   [Loco](https://localise.biz/) 🇬🇧 - Loco helps you manage and integrate translations into your software.
+*   [Weblate](https://github.com/uscneps/Awesome-European-Tech/blob/main/README.md/) 🇬🇧 - Web-based continuous localization.
+
+### Index / VPS
+
+*   [Cloudify](https://cloudify.ro) 🇷🇴
+*   [Clouding.io](https://clouding.io) 🇪🇸
+*   [Suble.io](https://suble.io/en/vps) 🇩🇰
+*   [Veesp](https://veesp.com/products/vps/) 🇱🇻
+
+### Index / Web Analytics
+
+*   [Publytics](https://publytics.net) 🇮🇹 - SEO and performance monitoring analytics.
+*   [Vantevo](https://vantevo.io) 🇮🇹 - Analytics with real-time insights.
+
+## [37. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Design
 
@@ -725,7 +795,7 @@
 *   [NDJSON (⭐717) (⭐715)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐376) (⭐374)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [38. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -757,7 +827,7 @@
 
 *   [Tailcolors](https://tailcolors.com/) -- A beautiful Tailwind CSS v4 color palette. Instantly preview & copy the perfect Tailwind CSS color class.
 
-## [37. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [39. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -873,13 +943,13 @@
 *   [ts-react-directives (⭐1)](https://github.com/skycodr/ts-react-directives) - A small React/Typescript library designed to mimic Angular directives.
 *   [vyuha (⭐5)](https://github.com/RamanSharma100/vyuha) - A Nodejs Template Engine Inspired by EJS, Angular, and Laravel Blade.
 
-## [38. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [40. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
 *   [Txeo (⭐46)](https://github.com/rdabra/txeo) - A modern C++ wrapper for TensorFlow.
 
-## [39. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [41. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
@@ -887,4 +957,5 @@
 
 ---
 
+- Prev: [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 - Next: [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)

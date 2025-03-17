@@ -37,7 +37,7 @@
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Based Visualizations
+### GTFS Based Visualizations / Rust
 
 *   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐383)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
 
@@ -51,7 +51,7 @@
 
 ### Cognitive Development
 
-*   [A Lecture on Creativity](https://www.youtube.com/watch?v=Pb5oIIPO62g) by **John Cleese** \[36:59]
+*   [A Lecture on Creativity](https://www.youtube.com/watch?v=Pb5oIIPO62g) by **John Cleese** (London 1991) \[36:59]
 
 ## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

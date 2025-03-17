@@ -1,12 +1,32 @@
 # Awesome List Updates on Mar 14, 2025
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Video](/content/krzemienski/awesome-video/README.md)
+## [1. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+
+### Index / E-commerce Platforms
+
+*   [Shopware](https://www.shopware.com/) 🇩🇪 - Modern e-commerce solutions for businesses.
+*   [Sylius](https://sylius.com/) 🇵🇱 - e-commerce framework for creating shopping experiences.
+
+### Index / Productivity Tools
+
+*   [Bunnyshell](https://www.bunnyshell.com/) 🇷🇴 - Environments as a Service platform for Kubernetes.
+
+### Index / Translation services
+
+*   [Loco](https://localise.biz/) 🇬🇧 - Loco helps you manage and integrate translations into your software.
+*   [Weblate](https://github.com/uscneps/Awesome-European-Tech/blob/main/README.md/) 🇬🇧 - Web-based continuous localization.
+
+### Index / VPS
+
+*   [Cloudify](https://cloudify.ro) 🇷🇴
+
+## [2. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
 ### Video Players & Playback Libraries / Smart TV Players
 
@@ -152,7 +172,7 @@
 *   [Dash IF Test Assets Database](https://testassets.dashif.org/#testvector/list)  - A database of test assets provided by the DASH Industry Forum for validating DASH implementations.
 *   [Eyevinn Streaming Samples (⭐13)](https://github.com/eyevinn/http-streaming-samples)  - A collection of HTTP streaming samples curated by Eyevinn, available for testing and development.
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Forms
 
@@ -162,13 +182,13 @@
 
 *   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐1.2k)](https://github.com/langwatch/langwatch)
 
-## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [4. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [Godot NDI (⭐23)](https://github.com/unvermuthet/godot-ndi) - Integrates the NDI® SDK with Godot.
 
-## [4. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [5. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Stream Processing
 
@@ -178,13 +198,13 @@
 
 *   [RunSQL](https://runsql.com/) - Free online SQL playground for MySQL, PostgreSQL, and SQL Server. Create database structures, run queries, and share results instantly.
 
-## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Concepts / Human Concept Representation
 
 *   [Idiosyncratic Tower of Babel: Individual differences in word-meaning representation increase as word abstractness increases](https://journals.sagepub.com/doi/full/10.1177/09567976211003877) - ***Psychological Science***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=18214600097352809308)]. \[[All Versions](http://bilab.bnu.edu.cn/paper/2021/Wang_2021_Psychology%20Science.pdf)]. Humans primarily rely on language to communicate, on the basis of a shared understanding of the basic building blocks of communication: words. Do we mean the same things when we use the same words? Although cognitive neural research on semantics has revealed the common principles of word-meaning representation, the factors underlying the potential individual variations in word meanings are unknown. This work empirically characterized the intersubject consistency of 90 words across 20 adult subjects (10 female) using both behavioral measures (rating-based semantic-relationship patterns) and neuroimaging measures (word-evoked brain activity patterns). Across both the behavioral and neuroimaging experiments, this work showed that the magnitude of individual disagreements on word meanings could be modeled on the basis of how much language or sensory experience is associated with a word and that this variation increases with word abstractness. Uncovering the cognitive and neural origins of word-meaning disagreements across individuals has implications for potential mechanisms to modulate such disagreements.
 
-## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Vibe Coding
 
@@ -200,13 +220,13 @@
 *   [Gitingest](https://gitingest.com/): turn any Git repository into a simple text digest of its codebase.
 *   [uithub](https://uithub.com/): convert GitHub repositories into Markdown by placing the URL in the search bar
 
-## [7. Colorful](/content/Siddharth11/Colorful/README.md)
+## [8. Colorful](/content/Siddharth11/Colorful/README.md)
 
 ### Color Palettes / Web App
 
 *   [Magic Gradient](https://magicgradient.com) - Generate gradients from any keyword with AI.
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Money, Budgeting & Management
 
@@ -220,7 +240,7 @@
 
 *   [Flink](https://gitlab.com/rtraceio/web/flink) - Create QR Codes, embeddable link previews for your website and crawls/scrapes metadata. ([Demo](https://flink.is)) `MIT` `Docker`
 
-## [9. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+## [10. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ### Archives and primary sources / Europe
 
@@ -233,14 +253,14 @@
 
 *   [SKKG Digital Collection](https://digital.skkg.ch/) - The Foundation for Art, Culture, and History (SKKG) provides online access to its collection of approximately 100,000 objects, ranging from artworks to historical artifacts spanning from the Stone Age to the present.
 
-## [10. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [11. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
 *   [Implementing RBAC Authorization in Next.js - Step-by-Step Guide](https://www.permit.io/blog/how-to-add-rbac-in-nextjs)
 *   [A Guide to Performance Optimization with Next.js](https://www.debugbear.com/blog/nextjs-performance)
 
-## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -265,4 +285,5 @@
 
 ---
 
+- Prev: [Mar 15, 2025](/content/2025/03/15/README.md)
 - Next: [Mar 13, 2025](/content/2025/03/13/README.md)

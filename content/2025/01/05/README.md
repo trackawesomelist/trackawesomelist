@@ -10,7 +10,7 @@
 
 ### Lighting
 
-*   [bitumbra (⭐4)](https://github.com/a13X-B/bitumbra) - GPU accelerated many lights 2D shadows.
+*   [bitumbra (⭐7)](https://github.com/a13X-B/bitumbra) - GPU accelerated many lights 2D shadows.
 
 ### Math
 
@@ -20,7 +20,7 @@
 
 ### Session / Diagnostics
 
-*   [folke/persistence.nvim (⭐725)](https://github.com/folke/persistence.nvim) - Simple automated session management.
+*   [folke/persistence.nvim (⭐751)](https://github.com/folke/persistence.nvim) - Simple automated session management.
 
 ## [3. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
@@ -40,14 +40,14 @@
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-relationship-visualiser (⭐2)](https://github.com/Rudgey84/ngx-relationship-visualiser) - A D3 force-directed-graph, implemented in Typescript for Angular, generates a visualisation graph with customisable link lengths and multiple labels between nodes. The graph can handle new data that will update lines, nodes, links, and path labels.
+*   [ngx-relationship-visualiser (⭐3)](https://github.com/Rudgey84/ngx-relationship-visualiser) - A D3 force-directed-graph, implemented in Typescript for Angular, generates a visualisation graph with customisable link lengths and multiple labels between nodes. The graph can handle new data that will update lines, nodes, links, and path labels.
 
 ## [5. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [CodeDepends (⭐89)](https://github.com/duncantl/CodeDepends) :warning: — Static Code Analysis for R.
-*   [R Language Server (⭐599)](https://github.com/REditorSupport/languageserver/) :warning: — Provides code completion, refactoring, folding, diagnostics (with lintr), and more for R.
+*   [R Language Server (⭐607)](https://github.com/REditorSupport/languageserver/) :warning: — Provides code completion, refactoring, folding, diagnostics (with lintr), and more for R.
 
 ---
 

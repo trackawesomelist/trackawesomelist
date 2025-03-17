@@ -16,7 +16,7 @@
 
 ### JetBrains / Third-party APIs
 
-*   [SLT (⭐201)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
+*   [SLT (⭐202)](https://github.com/Enerccio/SLT) -  an IDE Plugin for Itellij/Jetbrains IDE lineup implementing support for Common Lisp via SBCL and Slime/Swank.
     *   🎉 NEW! Released in Jan, 2023.
 
 ## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
@@ -35,7 +35,7 @@
 
 ### Static Page Generation
 
-*   [NimblePublisher (⭐485)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
+*   [NimblePublisher (⭐486)](https://github.com/dashbitco/nimble_publisher) - Minimal filesystem-based publisher with markdown and syntax highlighting.
 
 ### Third Party APIs
 
@@ -82,7 +82,7 @@
 
 ### operations
 
-*   [geojson-indoor-tools (⭐6)](https://github.com/armanjr/geojson-indoor-tools): Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
+*   [geojson-indoor-tools (⭐8)](https://github.com/armanjr/geojson-indoor-tools): Python tools for editing indoor GeoJSON features: adding room heights, building walls and creating doors
 
 ## [10. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 

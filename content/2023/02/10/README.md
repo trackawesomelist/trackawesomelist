@@ -33,7 +33,7 @@
 
 ### Miscellaneous Data Structures and Algorithms
 
-*   [gogu (⭐101)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
+*   [gogu (⭐102)](https://github.com/esimov/gogu) - A comprehensive, reusable and efficient concurrent-safe generics utility functions and data structures library.
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

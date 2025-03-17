@@ -19,11 +19,11 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Sequence Animation (⭐392)](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
+*   [Sequence Animation (⭐393)](https://github.com/Norbert515/flutter_sequence_animation) <!--stargazers:Norbert515/flutter_sequence_animation--> - Composite staggered animations by [Norbert Kozsir](https://twitter.com/norbertkozsir)
 
 ### Top / Game Engine resources
 
-*   [Meme Chat (⭐541)](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
+*   [Meme Chat (⭐540)](https://github.com/efortuna/memechat) <!--stargazers:efortuna/memechat--> - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers.
 
 ## [3. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
@@ -33,22 +33,18 @@
 
 ### Computer History
 
-*   [1968](https://www.youtube.com/watch?v=KjgvffBlWAg) by **Kevlin Henney** \[56:44]
+*   [1968](https://www.youtube.com/watch?v=KjgvffBlWAg) by **Kevlin Henney** (Beauty in Code 2018) \[56:44]
 
 ## [4. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
-*   [Composer-Git-Hooks (⭐1k)](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
+*   [Composer-Git-Hooks (⭐1.1k)](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
 
 ### Scripts / IRC
 
 *   [Composer-Travis-Lint (⭐6)](https://github.com/raphaelstolt/composer-travis-lint) - Allows you to lint the Travis CI configuration file (`.travis.yml`).
 *   [Composer-Multitest (⭐5)](https://github.com/raphaelstolt/composer-multitest) - Enables you to run a Composer script against multiple, locally installed PHP versions, which are managed by PHPBrew or phpenv.
-
-### Tutorials / IRC
-
-*   [Creating and Using Composer Packages](https://hub.packtpub.com/creating-and-using-composer-packages/)
 
 ### Setup a Packagist Mirror / IRC
 

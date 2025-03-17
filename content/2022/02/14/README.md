@@ -40,14 +40,14 @@
 
 ### Plugins
 
-*   [tmux-browser (⭐92)](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
+*   [tmux-browser (⭐99)](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
 
 ## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Date and Time Processing
 
-*   [montrose (⭐846)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
-*   [stamp (⭐965)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
+*   [montrose (⭐851)](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
+*   [stamp (⭐963)](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
 
 ## [4. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
@@ -105,17 +105,17 @@
 ### Back-End Development
 
 *   [Laravel (⭐13k)](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
-    *   [Education (⭐391)](https://github.com/fukuball/Awesome-Laravel-Education#readme)
-    *   [TALL Stack (⭐931)](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
+    *   [Education (⭐390)](https://github.com/fukuball/Awesome-Laravel-Education#readme)
+    *   [TALL Stack (⭐943)](https://github.com/livewire/awesome-tall-stack#readme) - Full-stack development solution featuring libraries built by the Laravel community.
 *   [Vapor (⭐1.2k)](https://github.com/vapor-community/awesome-vapor#readme) - Server-side development in Swift.
 
 ### Computer Science
 
 *   [Speech and Natural Language Processing (⭐2.2k)](https://github.com/edobashira/speech-language-processing#readme)
-    *   [Spanish (⭐331)](https://github.com/dav009/awesome-spanish-nlp#readme)
-    *   [NLP with Ruby (⭐1k)](https://github.com/arbox/nlp-with-ruby#readme)
-    *   [Question Answering (⭐756)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
-    *   [Natural Language Generation (⭐457)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data to text, conversational agents, and narrative generation applications.
+    *   [Spanish (⭐337)](https://github.com/dav009/awesome-spanish-nlp#readme)
+    *   [NLP with Ruby (⭐1.1k)](https://github.com/arbox/nlp-with-ruby#readme)
+    *   [Question Answering (⭐757)](https://github.com/seriousran/awesome-qa#readme) - The science of asking and answering in natural language with a machine.
+    *   [Natural Language Generation (⭐461)](https://github.com/accelerated-text/awesome-nlg#readme) - Generation of text used in data-to-text, conversational agents, and narrative generation applications.
 
 ### Big Data
 
@@ -123,18 +123,18 @@
 
 ### Gaming
 
-*   [Construct 2 (⭐71)](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
+*   [Construct 2 (⭐72)](https://github.com/ConstructCommunity/awesome-construct#readme) - Game engine.
 
 ### Testing
 
-*   [k6 (⭐595)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [k6 (⭐627)](https://github.com/grafana/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ### Miscellaneous
 
 *   [Analytics (⭐4k)](https://github.com/0xnr/awesome-analytics#readme)
-*   [Data Visualization (⭐3.8k)](https://github.com/javierluraschi/awesome-dataviz#readme)
+*   [Data Visualization (⭐3.9k)](https://github.com/javierluraschi/awesome-dataviz#readme)
 *   [Product Design (⭐2.3k)](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
-*   [QR Code (⭐105)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
+*   [QR Code (⭐117)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 
 ### Related
 
@@ -167,16 +167,16 @@
 
 ### eBPF Workflow: Tools and Utilities / eBPF on Other Platforms
 
-*   [eBPF for Windows (⭐3k)](https://github.com/microsoft/ebpf-for-windows) - This project is a work-in-progress that allows using existing eBPF toolchains and APIs familiar in the Linux ecosystem to be used on top of Windows.
+*   [eBPF for Windows (⭐3.1k)](https://github.com/microsoft/ebpf-for-windows) - This project is a work-in-progress that allows using existing eBPF toolchains and APIs familiar in the Linux ecosystem to be used on top of Windows.
 
 ### Projects Related to eBPF / Security
 
 *   [Falco](https://falco.org/) - A cloud-native runtime security project used as a Kubernetes threat detection engine.
-*   [Sysmon for Linux (⭐1.8k)](https://github.com/Sysinternals/SysmonForLinux) - A security monitoring tool. It depends on [SysinternalsEBPF (⭐253)](https://github.com/Sysinternals/SysinternalsEBPF).
+*   [Sysmon for Linux (⭐1.8k)](https://github.com/Sysinternals/SysmonForLinux) - A security monitoring tool. It depends on [SysinternalsEBPF (⭐255)](https://github.com/Sysinternals/SysinternalsEBPF).
 *   [Red Canary Linux Agent](https://redcanary.com/blog/ebpf-for-security) - Red Canary has started to incorporate eBPF to their Linux security sensor.
-*   [Tracee (⭐3.7k)](https://github.com/aquasecurity/tracee) - A runtime security and forensics tool for Linux which uses eBPF technology to trace the system and applications at runtime, and analyze collected events to detect suspicious behavioral patterns.
+*   [Tracee (⭐3.8k)](https://github.com/aquasecurity/tracee) - A runtime security and forensics tool for Linux which uses eBPF technology to trace the system and applications at runtime, and analyze collected events to detect suspicious behavioral patterns.
 *   [redcanary-ebpf-sensor (⭐101)](https://github.com/redcanaryco/redcanary-ebpf-sensor) - A set of BPF programs that gather security relevant event data from the Linux kernel. The BPF programs are combined into a single ELF file from which individual probes can be selectively loaded, depending on the running operating system and kernel version.
-*   [bpflock - Lock Linux machines (⭐140)](https://github.com/linux-lock/bpflock) - An eBPF driven security tool for locking and auditing Linux machines.
+*   [bpflock - Lock Linux machines (⭐145)](https://github.com/linux-lock/bpflock) - An eBPF driven security tool for locking and auditing Linux machines.
 
 ### Projects Related to eBPF / Tools
 
@@ -185,9 +185,9 @@
 *   [Embrace The Red: Offensive BPF!](https://embracethered.com/blog/tags/ebpf) - A series of posts around the introduction into BPF with a focus to an offensive setting, and also how its misuse can be detected. Posts include discussions on the rootkit capabilities of eBPF, or on which tracing type is needed for different use cases.
 *   [eBPF: Block Linux Fileless Payload "Malware" Execution with BPF LSM](https://djalal.opendz.org/post/ebpf-block-linux-fileless-payload-execution-with-bpf-lsm/) - Blog post about how BPF can help detection and blocking fileless malware.
 *   [Blackhat 2021: With Friends Like eBPF, Who Needs Enemies?](https://www.blackhat.com/us-21/briefings/schedule/#with-friends-like-ebpf-who-needs-enemies-23619) - Talk about an eBPF rootkit and how the capabilities of eBPF could be abused. The rootkit was also the object of a talk at Defcon, [eBPF, I thought we were friends !](https://defcon.org/html/defcon-29/dc-29-speakers.html#fournier).
-*   [ebpfkit (⭐774)](https://github.com/Gui774ume/ebpfkit) - A rootkit that leverages multiple eBPF features to implement offensive security techniques.
-*   [ebpfkit-monitor (⭐125)](https://github.com/Gui774ume/ebpfkit-monitor) - An utility to statically analyze eBPF bytecode or monitor suspicious eBPF activity at runtime. It was specifically designed to detect ebpfkit.
-*   [Bad BPF (⭐570)](https://github.com/pathtofile/bad-bpf) - A collection of malicious eBPF programs that make use of eBPF's ability to read and write user data in between the usermode program and the kernel.
+*   [ebpfkit (⭐780)](https://github.com/Gui774ume/ebpfkit) - A rootkit that leverages multiple eBPF features to implement offensive security techniques.
+*   [ebpfkit-monitor (⭐127)](https://github.com/Gui774ume/ebpfkit-monitor) - An utility to statically analyze eBPF bytecode or monitor suspicious eBPF activity at runtime. It was specifically designed to detect ebpfkit.
+*   [Bad BPF (⭐582)](https://github.com/pathtofile/bad-bpf) - A collection of malicious eBPF programs that make use of eBPF's ability to read and write user data in between the usermode program and the kernel.
 
 ## [10. Awesome Snmp](/content/eozer/awesome-snmp/README.md)
 

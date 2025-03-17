@@ -71,7 +71,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [LightSaber (⭐70)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
+*   [LightSaber (⭐71)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
 
 ## [9. Amas](/content/sindresorhus/amas/README.md)
 

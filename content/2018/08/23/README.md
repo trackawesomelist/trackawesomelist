@@ -49,8 +49,8 @@
 
 ### Message Queues
 
-*   [asyncio-nats (⭐608)](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
-*   [aiokafka (⭐820)](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
+*   [asyncio-nats (⭐966)](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
+*   [aiokafka (⭐1.2k)](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

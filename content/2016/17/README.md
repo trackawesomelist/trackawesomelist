@@ -67,10 +67,10 @@
 
 ## [3. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
-### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/PwoOQGB)
 
-*   [Español (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
-*   [Français (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
+*   [Español (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
+*   [Français (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
 
 ## [4. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
@@ -301,11 +301,11 @@ git show <branch_name>:<file_name>
 
 ### Frameworks
 
-*   [EASTL (⭐8.4k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
+*   [EASTL (⭐8.5k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
 
 ### Machine Learning
 
-*   [Fido (⭐446)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
+*   [Fido (⭐447)](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. \[MIT] [website](http://fidoproject.github.io/)
 
 ## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
@@ -413,7 +413,7 @@ git show <branch_name>:<file_name>
 ### Applications
 
 *   [Consolex (⭐120)](https://github.com/sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
-*   [Phoenix Battleship (⭐527)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
+*   [Phoenix Battleship (⭐528)](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
 
 ### Behaviours and Interfaces
 
@@ -452,7 +452,7 @@ git show <branch_name>:<file_name>
 
 ### Reading
 
-*   [Elixir Functional Programming (⭐363)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
+*   [Elixir Functional Programming (⭐362)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
 
 ## [31. Rbooks](/content/RomanTsegelskyi/rbooks/week/README.md)
 

@@ -14,7 +14,7 @@
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Agency Tools
+### Agency Tools / General GIS Applications for making transit visualizations
 
 *   [AC Transit RestroomFinder (⭐1)](https://github.com/actransitorg/ACTransit.RestroomFinder) - Pinpoints the nearest authorized restroom for bus operator and field staff, using GPS and on-screen map.
 *   [AC Transit Training and Education Department (TED) application (⭐8)](https://github.com/actransitorg/ACTransit.Training) - This application supports the District's training operations for transportation and maintenance employees, primarily in the positions of Bus Operators and Heavy Duty Coach Mechanics (Apprentice and Journey), although the system supports new courses and apprenticeship programs.
@@ -79,7 +79,7 @@
 
 *   [geojson-id-streaming (⭐2)](https://github.com/andrewharvey/geojson-id-streaming): Add a unique id to each Feature
 *   [geojson-mesh (⭐12)](https://github.com/andrewharvey/geojson-mesh): extract shared borders of Polygons in a GeoJSON
-*   [geojson-polygon-labels (⭐80)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
+*   [geojson-polygon-labels (⭐85)](https://github.com/andrewharvey/geojson-polygon-labels): generate point labels from GeoJSON polygons
 
 ## [10. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Monitoring / Prometheus
 
-*   [HAProxy Exporter (⭐617)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
+*   [HAProxy Exporter (⭐620)](https://github.com/prometheus/haproxy_exporter) - Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption.
 
 ## [3. Amas](/content/sindresorhus/amas/README.md)
 
@@ -34,7 +34,7 @@
 
 ### HTTP Clients and tools
 
-*   [Http-2 (⭐899)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
+*   [Http-2 (⭐898)](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 
 ## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

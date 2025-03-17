@@ -63,7 +63,7 @@
 
 ### Testing Frameworks / Runner
 
-*   [puppeteer (⭐88k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
+*   [puppeteer (⭐90k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 
 ## [4. Bots](/content/hackerkid/bots/README.md)
 

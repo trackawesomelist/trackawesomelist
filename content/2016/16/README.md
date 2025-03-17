@@ -117,13 +117,13 @@ By the end of this book, you will have learned about text manipulation using str
 
 ### Other
 
-*   [npm-upgrade (⭐341)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
+*   [npm-upgrade (⭐340)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 
 ## [11. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### WebSocket
 
-*   [Firehose (⭐726)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
+*   [Firehose (⭐729)](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
 
 ## [12. Awesome Sketch](/content/diessica/awesome-sketch/week/README.md)
 
@@ -204,7 +204,7 @@ By the end of this book, you will have learned about text manipulation using str
 ### Miscellaneous
 
 *   [exldap (⭐59)](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
-*   [phone (⭐105)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
+*   [phone (⭐106)](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 
 ### Testing
 

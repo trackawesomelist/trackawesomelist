@@ -59,7 +59,7 @@
 
 ### Plugin Manager
 
-*   [savq/paq-nvim (⭐668)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
+*   [savq/paq-nvim (⭐676)](https://github.com/savq/paq-nvim) - Neovim package manager written in Lua.
 
 ### Git / Diagnostics
 
@@ -123,12 +123,12 @@
 ### MVC Frameworks and Libraries / Runner
 
 *   [angular.js (⭐59k)](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
-*   [angular (⭐96k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
-*   [Lucia (⭐737)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
+*   [angular (⭐97k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
+*   [Lucia (⭐745)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
 
 ### Date / Runner
 
-*   [luxon (⭐15k)](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
+*   [luxon (⭐16k)](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
 
 ## [12. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/README.md)
 

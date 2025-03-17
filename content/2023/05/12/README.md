@@ -23,6 +23,10 @@
 
 *   [Paper Digest - ChatGPT](https://www.paperdigest.org/2023/01/recent-papers-on-chatgpt/): Recent Papers on ChatGPT
 
+### AI-Powered Code Generation
+
+*   [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
+
 ### Autonomous LLM Agents / Prompt Engineering for Text-to-image
 
 *   [Fine-Tuner.ai](https://fine-tuner.ai/): no code approach to build AI agents
@@ -43,10 +47,6 @@
 
 *   [Stable Animation SDK](https://stability.ai/blog/stable-animation-sdk): a text-to-animation tool for developers by Stability AI [\[dev platform\]](https://platform.stability.ai/docs/features/animation)
 *   [Twelve Labs](https://twelvelabs.io/): multimodal, contextual understanding for video search
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [Metabob](https://metabob.com/): Generative AI to improve and automate code reviews
 
 ## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

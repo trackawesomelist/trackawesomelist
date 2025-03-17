@@ -16,7 +16,7 @@
 
 ### Sliders / Runner
 
-*   [reveal.js (⭐67k)](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
+*   [reveal.js (⭐68k)](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 
 ---
 

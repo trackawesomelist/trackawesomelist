@@ -82,15 +82,11 @@
 
 ### Algorithms and Data structures
 
-*   [array (⭐36)](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
-
-### Build Tools
-
-*   [ExMake (⭐17)](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
+*   [array (⭐37)](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
 
 ### Caching
 
-*   [con\_cache (⭐910)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
+*   [con\_cache (⭐917)](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
 
 ### Code Analysis
 
@@ -100,13 +96,11 @@
 ### Configuration
 
 *   [conform (⭐376)](https://github.com/bitwalker/conform) - Easy release configuration for Elixir apps.
-*   [ex\_conf (⭐35)](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 
 ### CSV
 
 *   [cesso (⭐26)](https://github.com/meh/cesso) - CSV handling library for Elixir.
 *   [csvlixir (⭐33)](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
-*   [ex\_csv (⭐46)](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 
 ### Date and Time
 
@@ -125,7 +119,7 @@
 
 ### Geolocation
 
-*   [geo (⭐647)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+*   [geo (⭐649)](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 
 ### Hardware
 
@@ -134,18 +128,17 @@
 ### JSON
 
 *   [jazz (⭐60)](https://github.com/meh/jazz) - Yet another library to handle JSON in Elixir.
-*   [joken (⭐783)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
-*   [jsxn (⭐26)](https://github.com/talentdeficit/jsxn) - jsx but with maps.
+*   [joken (⭐785)](https://github.com/bryanjos/joken) - Encodes and decodes JSON Web Tokens.
 
 ### Markdown
 
 *   [discount (⭐21)](https://github.com/asaaki/discount.ex) - Elixir NIF for discount, a Markdown parser.
-*   [earmark (⭐878)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
+*   [earmark (⭐881)](https://github.com/pragdave/earmark) - Markdown parser for Elixir.
 
 ### Miscellaneous
 
 *   [exquisite (⭐78)](https://github.com/meh/exquisite) - LINQ-like match\_spec generation for Elixir.
-*   [porcelain (⭐946)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
+*   [porcelain (⭐947)](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
 *   [reprise (⭐43)](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 *   [spawndir (⭐4)](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 
@@ -164,13 +157,9 @@
 
 *   [Hex](https://hex.pm/) - A package manager for the Erlang ecosystem.
 
-### Release Management
-
-*   [exrm (⭐921)](https://github.com/bitwalker/exrm) - Automatically generate a release for your Elixir project.
-
 ### REST and API
 
-*   [signaturex (⭐26)](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
+*   [signaturex (⭐27)](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
 *   [urna (⭐94)](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
 
 ### Static Page Generation
@@ -190,7 +179,7 @@
 ### XML
 
 *   [quinn (⭐49)](https://github.com/nhu313/Quinn) - XML parser for Elixir.
-*   [xml\_builder (⭐176)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
+*   [xml\_builder (⭐177)](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 
 ### Other Awesome Lists
 

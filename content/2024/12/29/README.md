@@ -14,7 +14,7 @@
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-rxjs-safe-subscribe (⭐3)](https://github.com/piotrekn/ng-rxjs-safe-subscribe) - Implementation of Angular's repeatable OnDestroy pattern.
+*   [ng-rxjs-safe-subscribe (⭐4)](https://github.com/piotrekn/ng-rxjs-safe-subscribe) - Implementation of Angular's repeatable OnDestroy pattern.
 
 ## [2. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 

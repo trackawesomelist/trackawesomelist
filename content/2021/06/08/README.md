@@ -16,7 +16,7 @@
 
 ### Git / Diagnostics
 
-*   [sindrets/diffview.nvim (⭐4.2k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev.
+*   [sindrets/diffview.nvim (⭐4.4k)](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any Git rev.
 
 ## [3. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

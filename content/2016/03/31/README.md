@@ -191,17 +191,17 @@
 
 ### Registry
 
-*   [nrm (⭐2.8k)](https://github.com/Pana/nrm) - Registry manager.
+*   [nrm (⭐2.9k)](https://github.com/Pana/nrm) - Registry manager.
 
 ### Other
 
-*   [ntl (⭐932)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
+*   [ntl (⭐941)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
 
 ## [8. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Tools
 
-*   [p8 responsive webplayer transform (⭐14)](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
+*   [p8 responsive webplayer transform (⭐16)](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
 
 ## [9. Awesome Elm](/content/sporto/awesome-elm/README.md)
 

@@ -8,15 +8,18 @@
 
 ## [1. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
-### Specs and Standards / MPEG
+### Standards, Specifications & Industry Resources / Industry Forums & Standards Bodies
 
-*   [ISO Base Media File Format Reference Software (⭐134)](https://github.com/MPEGGroup/isobmff)  -
-*   [MPEG About](https://www.mpegstandards.org/about-mpeg/)  -
-*   [MPEG High Efficiency Image File Format (HEIF)](https://nokiatech.github.io/heif/)  -
-*   [MPEG Meetings](https://www.mpegstandards.org/meetings/)  -
-*   [MPEG home page](https://www.mpegstandards.org)  -
-*   [MPEG point cloud compression](https://mpeg-pcc.org)  -
-*   [Official Registration Authority for the ISOBMFF family of standards](http://mp4ra.org/)  -
+*   [MPEG About](https://www.mpegstandards.org/about-mpeg/)  - A tool or resource for industry-forums-standards-bodies.
+*   [MPEG Meetings](https://www.mpegstandards.org/meetings/)  - A tool or resource for industry-forums-standards-bodies.
+*   [MPEG home page](https://www.mpegstandards.org)  - A tool or resource for industry-forums-standards-bodies.
+*   [Official Registration Authority for the ISOBMFF family of standards](http://mp4ra.org/)  - A tool or resource for industry-forums-standards-bodies.
+
+### Standards, Specifications & Industry Resources / Video Codec Specifications
+
+*   [ISO Base Media File Format Reference Software (⭐139)](https://github.com/MPEGGroup/isobmff)  - A tool or resource for video-codec-specifications.
+*   [MPEG High Efficiency Image File Format (HEIF)](https://nokiatech.github.io/heif/)  - A tool or resource for video-codec-specifications.
+*   [MPEG point cloud compression](https://mpeg-pcc.org)  - A tool or resource for video-codec-specifications.
 
 ## [2. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -74,7 +77,7 @@
 
 ### Performance Monitoring
 
-*   [RoRvsWild (⭐339)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
+*   [RoRvsWild (⭐344)](https://github.com/BaseSecrete/rorvswild) - Performances and exceptions monitoring for Rails developers.
 
 ---
 

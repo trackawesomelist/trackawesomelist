@@ -22,17 +22,15 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Evidently (⭐5.5k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐5.7k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [4. Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md)
 
 ### Websites / Archives
 
-*   [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft mods. Various other mods and stuff can be found on their Discord.
 *   [Minecraft Archive Project](http://map.crummy.com/) - Huge archive containing Minecraft mods, worlds, resource packs and many other resources (even forum posts!).
-*   [MCVersions](https://mcversions.net/) - Archives most Minecraft jars.
-*   [MCPC+ Archive](https://iruril.tistory.com/category/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%28Minecraft%29/Server) - Archive with some MCPC+ versions.
 *   [CraftBukkit Archive](https://drive.google.com/drive/u/0/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M) - Archives many CraftBukkit versions.
+*   [MCVersions](https://mcversions.net/) - Archives various Minecraft jars.
 
 ### Mod Loaders / Archives
 
@@ -80,7 +78,7 @@
 *   [Tabula](https://www.curseforge.com/minecraft/mc-mods/tabula-minecraft-modeler) - Minecraft Mod that faciliates creating 3D Models.
 *   [Mod Coder Pack](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack) - Tool for properly decompiling Minecraft.
 *   [BON 2 (⭐182)](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
-*   [Bearded Octo Nemesis (⭐128)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
+*   [Bearded Octo Nemesis (⭐130)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

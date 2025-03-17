@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 08, 2018
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -65,7 +65,7 @@
 *   [json-mop (⭐63)](https://github.com/gschjetne/json-mop) - A metaclass for bridging CLOS and JSON objects. [MIT](https://opensource.org/licenses/MIT).
     *   depends on YASON
     *   for JSON libraries that don't do it natively (jzon, shasht and cl-json are able to *encode* CLOS objects to JSON out of the box, and cl-json has the ability to *decode* JSON objects into a "fluid-class" CLOS object.)
-*   [arrow-macros (⭐127)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
+*   [arrow-macros (⭐132)](https://github.com/hipeta/arrow-macros) - Clojure-like threading macros. [MIT](https://opensource.org/licenses/MIT).
 
 ## [5. Awesome Foss Apps](/content/DataDaoDe/awesome-foss-apps/README.md)
 
@@ -73,19 +73,25 @@
 
 *   GNU General Public License
 
-## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Lisp / TeX
+
+*   [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
+
+## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Cache
 
 *   [Carlos (⭐644)](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 
-## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [8. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Client/Server Communication
 
 *   [cljs-ajax (⭐653)](https://github.com/JulianBirch/cljs-ajax) – A simple Ajax client for ClojureScript and Clojure.
 
-## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Game Disassemblies / Syntax highlighting packages
 
@@ -97,19 +103,19 @@
 *   [FX Hammer (⭐9)](https://github.com/DevEd2/FXHammer-Disasm)
 *   [Harvest Moon 3 (⭐19)](https://github.com/sanqui/hm3)
 
-## [9. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [10. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Examples / Templates
 
 *   [cmake\_snippets (⭐52)](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
-## [10. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [11. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [FluentQuery (⭐145)](https://github.com/MihaelIsaev/FluentQuery) – Build complex raw SQL queries while still using Swift keypaths.
 
-## [11. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [12. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### XSS - Cross-Site Scripting
 

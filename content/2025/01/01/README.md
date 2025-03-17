@@ -48,14 +48,14 @@
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-signal-plus (⭐4)](https://github.com/milad-hub/ngx-signal-plus) - A comprehensive utility library for Angular Signals that provides enhanced functionality, operators, and utilities.
+*   [ngx-signal-plus (⭐22)](https://github.com/milad-hub/ngx-signal-plus) - A comprehensive utility library for Angular Signals that provides enhanced functionality, operators, and utilities.
 
 ### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@angular-material-extensions/google-maps-autocomplete (⭐171)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design.
-*   [@angular-material-extensions/select-country (⭐126)](https://github.com/angular-material-extensions/select-country)
+*   [@angular-material-extensions/google-maps-autocomplete (⭐170)](https://github.com/angular-material-extensions/google-maps-autocomplete) - **Autocomplete** input component and directive for google-maps built with angular material design.
+*   [@angular-material-extensions/select-country (⭐127)](https://github.com/angular-material-extensions/select-country)
 *   [@angular-material-extensions/password-strength (⭐283)](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
-*   [@ng-matero/extensions (⭐462)](https://github.com/ng-matero/extensions) - Angular Material Extensions Library.
+*   [@ng-matero/extensions (⭐465)](https://github.com/ng-matero/extensions) - Angular Material Extensions Library.
 *   [ngx-material-auth (⭐4)](https://github.com/Service-Soft/ngx-material-auth) - A library for Angular which provides functionality around the frontend part of authentication and authorization.
 *   [ngx-material-navigation (⭐3)](https://github.com/Service-Soft/ngx-material-navigation) - Builds material navigation elements like a combined navbar and sidenav or footers based on the supplied configuration data. Will automatically move elements from the navbar to the sidenav at the provided breakpoints.
 *   [ngx-material-entity (⭐2)](https://github.com/Service-Soft/ngx-material-entity) - With `NgxMaterialEntity` you can create entities and define how to display them directly on their properties. It can even generate complete and highly customizable CRUD-Tables.
@@ -72,7 +72,7 @@
 
 ### Plugins
 
-*   [tmux-floating-plugin (⭐0)](https://github.com/lloydbond/tmux-floating-terminal) - A popup floating terminal window in tmux.
+*   [tmux-floating-plugin (⭐1)](https://github.com/lloydbond/tmux-floating-terminal) - A popup floating terminal window in tmux.
 
 ## [4. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 

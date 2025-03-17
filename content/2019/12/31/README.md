@@ -32,7 +32,7 @@
 
 ### Related / `pre` and `post` scripts
 
-*   [awesome-nodejs (⭐58k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐60k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [5. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -48,7 +48,7 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐364)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐374)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 

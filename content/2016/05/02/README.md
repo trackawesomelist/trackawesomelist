@@ -14,9 +14,9 @@ By using the `animate` and `scrollTop` methods in jQuery you don't need a plugin
 
 ```javascript
 // Back to top
-$('.container').on('click', '.back-to-top', function (e) {
+$(".container").on("click", ".back-to-top", function (e) {
   e.preventDefault();
-  $('html, body').animate({scrollTop: 0}, 800);
+  $("html, body").animate({ scrollTop: 0 }, 800);
 });
 ```
 
@@ -30,7 +30,7 @@ $('.container').on('click', '.back-to-top', function (e) {
 Changing the `scrollTop` value changes where you wants the scrollbar to land. All you're really doing is animating the body of the document throughout the course of 800 milliseconds until it scrolls to the top of the document.
 
 > \[!NOTE]
-> Watch for some [buggy behavior (⭐317)](https://github.com/jquery/api.jquery.com/issues/417) with `scrollTop`.
+> Watch for some [buggy behavior (⭐320)](https://github.com/jquery/api.jquery.com/issues/417) with `scrollTop`.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 ### Make Two Divs the Same Height
@@ -38,13 +38,13 @@ Changing the `scrollTop` value changes where you wants the scrollbar to land. Al
 Sometimes you'll want two divs to have the same height no matter what content they have in them:
 
 ```javascript
-$('.div').css('min-height', $('.main-div').height());
+$(".div").css("min-height", $(".main-div").height());
 ```
 
 This example sets the `min-height` which means that it can be bigger than the main div but never smaller. However, a more flexible method would be to loop over a set of elements and set `height` to the height of the tallest element:
 
 ```javascript
-var $columns = $('.column');
+var $columns = $(".column");
 var height = 0;
 $columns.each(function () {
   if ($(this).height() > height) {
@@ -57,9 +57,9 @@ $columns.height(height);
 If you want *all* columns to have the same height:
 
 ```javascript
-var $rows = $('.same-height-columns');
+var $rows = $(".same-height-columns");
 $rows.each(function () {
-  $(this).find('.column').height($(this).height());
+  $(this).find(".column").height($(this).height());
 });
 ```
 
@@ -72,26 +72,23 @@ $rows.each(function () {
 jQuery allows for the "chaining" of plugin method calls to mitigate the process of repeatedly querying the DOM and creating multiple jQuery objects. Let's say the following snippet represents your plugin method calls:
 
 ```javascript
-$('#elem').show();
-$('#elem').html('bla');
-$('#elem').otherStuff();
+$("#elem").show();
+$("#elem").html("bla");
+$("#elem").otherStuff();
 ```
 
 This could be vastly improved by using chaining:
 
 ```javascript
-$('#elem')
-  .show()
-  .html('bla')
-  .otherStuff();
+$("#elem").show().html("bla").otherStuff();
 ```
 
 An alternative is to cache the element in a variable (prefixed with `$`):
 
 ```javascript
-var $elem = $('#elem');
+var $elem = $("#elem");
 $elem.hide();
-$elem.html('bla');
+$elem.html("bla");
 $elem.otherStuff();
 ```
 
@@ -120,7 +117,7 @@ Both chaining and [caching](#cache-jquery-selectors) methods in jQuery are best 
 
 ### StackView / Barcode
 
-*   [StackViewController (⭐868)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
+*   [StackViewController (⭐866)](https://github.com/seedco/StackViewController) - Simplify the use of UIStackView.
 *   [TZStackView (⭐1.2k)](https://github.com/tomvanzummeren/TZStackView) - An iOS9 UIStackView layout component re-implemented for iOS 7 and 8.
 
 ## [5. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)

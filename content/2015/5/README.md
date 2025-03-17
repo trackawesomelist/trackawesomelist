@@ -10,11 +10,11 @@
 
 ### Functional Programming
 
-*   [Domain modelling with the F# type system](http://vimeo.com/97507575) by **Scott Wlaschin** \[1:03:40]
+*   [Domain modelling with the F# type system](http://vimeo.com/97507575) by **Scott Wlaschin** (NDC 2014) \[1:03:40]
 
 ### Software Design
 
-*   [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** \[26.25]
+*   [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** (GOTO 2014) \[26.25]
 
 ## [2. Awesome Projects Boilerplates](/content/melvin0008/awesome-projects-boilerplates/week/README.md)
 
@@ -90,11 +90,7 @@
 
 ### Code Analysis
 
-*   [exprof (⭐179)](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
-
-### Command Line Applications
-
-*   [anubis (⭐130)](https://github.com/bennyhallett/anubis) - Command-Line application framework for Elixir.
+*   [exprof (⭐180)](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
 
 ### Date and Time
 
@@ -111,7 +107,6 @@
 
 ### Files and Directories
 
-*   [cassius](https://github.com/jquadrin/cassius) - Monitor Linux file system events.
 *   [Radpath (⭐22)](https://github.com/lowks/Radpath) - Path library for Elixir, inspired by Python's Enhpath.
 
 ### Framework Components
@@ -122,7 +117,7 @@
 
 ### HTTP
 
-*   [exvcr (⭐733)](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
+*   [exvcr (⭐735)](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
 
 ### Images
 
@@ -130,13 +125,13 @@
 
 ### JSON
 
-*   [jsx (⭐693)](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
+*   [jsx (⭐694)](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
 
 ### Miscellaneous
 
-*   [Countries (⭐150)](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
+*   [Countries (⭐152)](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
 *   [dynamic\_compile (⭐1)](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
-*   [exsync (⭐164)](https://github.com/falood/exsync) - Yet another Elixir reloader.
+*   [exsync (⭐167)](https://github.com/falood/exsync) - Yet another Elixir reloader.
 *   [url\_unroller (⭐5)](https://github.com/semanticart/url_unroller) - Simple URL unroller (un-shortener) in Elixir.
 
 ### ORM and Datamapping
@@ -146,12 +141,11 @@
 ### Protocols
 
 *   [exprotobuf (⭐485)](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir, made easy.
-*   [msgpax (⭐290)](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
+*   [msgpax (⭐289)](https://github.com/lexmag/msgpax) - MessagePack (de)serializer implementation for Elixir.
 
 ### Release Management
 
-*   [changex (⭐47)](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
-*   [exrm\_rpm (⭐39)](https://github.com/smpallen99/exrm-rpm) - Create a RPM for your Elixir release with ease.
+*   [changex (⭐48)](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
 
 ### Templating
 
@@ -159,16 +153,16 @@
 
 ### Testing
 
-*   [faker (⭐1.1k)](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
+*   [faker](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
 *   [mix\_eunit (⭐17)](https://github.com/dantswain/mix_eunit) - A Mix task to execute eunit tests.
 *   [mixunit (⭐2)](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
-*   [mock (⭐663)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
+*   [mock (⭐665)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 
 ### Text and Numbers
 
 *   [bencoder (⭐4)](https://github.com/alehander42/bencoder) - bencode in Elixir.
-*   [exmoji (⭐95)](https://github.com/mroth/exmoji) - Emoji encoding Swiss Army knife for Elixir/Erlang.
-*   [pinyin (⭐23)](https://github.com/lidashuang/pinyin) - Chinese Pinyin lib for Elixir.
+*   [exmoji (⭐96)](https://github.com/mroth/exmoji) - Emoji encoding Swiss Army knife for Elixir/Erlang.
+*   [pinyin (⭐24)](https://github.com/lidashuang/pinyin) - Chinese Pinyin lib for Elixir.
 *   [tomlex (⭐32)](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
 
 ### Third Party APIs
@@ -176,7 +170,7 @@
 *   [balanced (⭐4)](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
 *   [commerce\_billing (⭐179)](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
 *   [exgravatar (⭐24)](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.
-*   [extwitter (⭐408)](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
+*   [extwitter (⭐409)](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
 
 ### Other Awesome Lists
 
@@ -489,7 +483,7 @@ ErrorDocument 404 /errors/halflife3.html
 
 ### Database Drivers
 
-*   [SQL Server (⭐973)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
+*   [SQL Server (⭐977)](https://github.com/rails-sqlserver/activerecord-sqlserver-adapter) - The SQL Server adapter for ActiveRecord.
 
 ### Database Tools
 
@@ -501,7 +495,7 @@ ErrorDocument 404 /errors/halflife3.html
 
 ### Profiler and Optimization
 
-*   [Rbkit (⭐357)](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
+*   [Rbkit (⭐356)](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
 
 ## [12. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 

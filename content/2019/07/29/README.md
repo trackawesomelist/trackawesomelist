@@ -72,7 +72,7 @@
 
 ### Tools / IRC
 
-*   [Bramus/Composer-Autocomplete (⭐94)](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
+*   [Bramus/Composer-Autocomplete (⭐96)](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
 *   [Composer/Xdebug-Handler (⭐2.5k)](https://github.com/composer/xdebug-handler) - Helps you to restart a CLI process without loading the xdebug extension.
 
 ## [12. Awesome Irc](/content/davisonio/awesome-irc/README.md)

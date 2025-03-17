@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 10 - Sep 16, 2018
 
-40 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,7 +17,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [ee-ts (⭐127)](https://github.com/aleclarson/ee-ts) - Typed event emitters
+*   :octocat: [ee-ts (⭐125)](https://github.com/aleclarson/ee-ts) - Typed event emitters
 
 ## [3. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -25,19 +25,13 @@
 
 *   [d3-dag (⭐1.3k)](https://github.com/erikbrinkman/d3-dag) - Layout algorithms for visualizing directed acylic graphs
 
-## [4. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
-
-### HTML/XML Parsing
-
-*   [myhtml (⭐154)](https://github.com/kostya/myhtml) - Fast HTML5 Parser that includes CSS selectors
-
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Miscellaneous
 
 *   [SimpleSignal (⭐166)](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. \[PublicDomain]
 
-## [6. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [5. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Templates / Preferences
 
@@ -47,13 +41,13 @@
 
 *   [Tourism (⭐304)](https://github.com/bluemix/tourism-demo) <!--stargazers:bluemix/tourism-demo--> - Tourism app based on redux w/ animations & i18n by [blueMix (⭐304)](https://github.com/bluemix/tourism-demo)
 
-## [7. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Simulating Hardware Keys And Key Events On Android](https://appiumpro.com/editions/34)
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Source Code Repos
 
@@ -82,19 +76,19 @@
 
 *   [Moesif](https://www.moesif.com) — API analytics for REST and GraphQL. (Free up to 500,000 API calls/mo)
 
-## [9. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [8. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Opening Hours Kata (⭐8)](https://github.com/christian-fei/opening-hours-kata)
 
-## [10. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [9. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Broker
 
 *   [Mystique (⭐20)](https://github.com/TheThingsIndustries/mystique) - An extendable MQTT broker written in Go, with HTTP capabilities for observability. Implements MQTT v3.1.1.
 
-## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Developer Tools
 
@@ -108,19 +102,19 @@
 
 *   [Lada Cache (⭐499)](https://github.com/spiritix/lada-cache) - A Redis based, fully automated and scalable database cache layer
 
-## [12. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
+## [11. BEM Resources](/content/sturobson/BEM-resources/week/README.md)
 
 ### Articles
 
 *   [7 Reasons To Use BEM CSS](https://medium.com/soliddigital/7-reasons-to-use-bem-css-a7c8475318fe)
 
-## [13. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [12. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Misc Articles
 
 *   [What Team Structure is Right for DevOps to Flourish?](http://web.devopstopologies.com/)
 
-## [14. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [13. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
@@ -135,7 +129,7 @@
 *   [How to improve your tests? - Paweł Kuwik](https://www.youtube.com/watch?v=rs71sx5IZ-U\&t=0s\&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
 *   [Optional & upcoming features - Michał Staśkiewicz](https://www.youtube.com/watch?v=4XokzPT4rgg\&t=0s\&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
 
-## [15. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [14. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Open Source Apps / Navigation Demos
 
@@ -149,25 +143,25 @@
 *   [Upgrading Versions](https://facebook.github.io/react-native/docs/upgrading.html)
 *   [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 
-## [16. Awesome](/content/craftcms/awesome/week/README.md)
+## [15. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Podcasts / Tutorials
 
 *   [Commerce Minded](https://www.fostercommerce.com/podcast) - A Craft Commerce-centric podcast that goes behind the scenes to chat with ecommerce merchants, developers, and vendors.
 
-## [17. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [16. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Graphics
 
 *   [AHKv2-GDIP (⭐80)](https://github.com/mmikeww/AHKv2-Gdip) - Update of the above GDI+ library compatiable with both AHK v1.1 and AHK v2 - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=6517).
 
-## [18. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [17. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Database
 
 *   [SPLOITUS](https://sploitus.com/) - Exploits & Tools Search Engine by [@i\_bo0om](https://twitter.com/i_bo0om).
 
-## [19. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [18. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks (a-z↓)
 
@@ -186,25 +180,25 @@
 
 *   [PhantomJS (⭐29k)](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit. No longer maintained since 2 June 2018.
 
-## [20. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [19. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Projects
 
 *   [Next serverless (⭐82)](https://github.com/cyrilwanner/next-serverless) - Deploys your next.js application to AWS Lambda.
 
-## [21. Awesome C](/content/inputsh/awesome-c/week/README.md)
+## [20. Awesome C](/content/inputsh/awesome-c/week/README.md)
 
 ### RTOS
 
 *   [RIOT OS](https://www.riot-os.org/) - Real-time multi-threading operating system that supports a range of devices that are typically found in the Internet of Things. [`LGPL-2.1`](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
 
-## [22. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [21. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Vert.x Event Bus Clients
 
 *   [Java (⭐10)](https://github.com/danielstieger/javaxbus) - Simple Java Event Bus Client using plain TCP socket I/O.
 
-## [23. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [22. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Community
 
@@ -218,8 +212,8 @@
 
 ### Benchmarking
 
-*   [core\_bench (⭐49)](https://github.com/janestreet/core_bench) – Micro-benchmarking library for OCaml by Jane Street.
-      - [Getting Started with Core\_bench (⭐49)](https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench)
+*   [core\_bench (⭐50)](https://github.com/janestreet/core_bench) – Micro-benchmarking library for OCaml by Jane Street.
+      - [Getting Started with Core\_bench (⭐50)](https://github.com/janestreet/core_bench/wiki/Getting-Started-with-Core_bench)
 *   [benchmark (⭐28)](https://github.com/Chris00/ocaml-benchmark) – Benchmarking functions for measuring the run-time of functions using latency or throughput.
 
 ### Blogs
@@ -251,7 +245,7 @@
 
     *   [Neko Programming Language](https://nekovm.org/) - Originally the compiler was written in OCaml.
 
-    *   [Mazeppa (⭐377)](https://github.com/mazeppa-dev/mazeppa) - A modern supercompiler for call-by-value functional languages.
+    *   [Mazeppa (⭐403)](https://github.com/mazeppa-dev/mazeppa) - A modern supercompiler for call-by-value functional languages.
 
     *   [Mezzo Programming Language](https://protz.github.io/mezzo/) - Mezzo is a programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory.
 
@@ -259,11 +253,11 @@
 
     *   [Opa Programming Language](http://opalang.org/)
 
-    *   [Rhine (⭐631)](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
+    *   [Rhine (⭐630)](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
 
     *   [Rust Programming Language](https://www.rust-lang.org/) - Originally written in OCaml before bootstrapping.
 
-    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐150)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
+    *   [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo (⭐157)](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
 
     *   [tis-interpreter](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
 
@@ -271,7 +265,7 @@
 
     *   [RaML](http://raml.co/index.html) - Resource Aware ML (RaML) is a tool that automatically and statically computes resource-use bounds for OCaml programs.
 
-    *   [Liquid ML (⭐42)](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid Templating language for OCaml.
+    *   [Liquid ML (⭐45)](https://github.com/benfaerber/liquid-ml) - Shopify's Liquid Templating language for OCaml.
 
 ### Datetime
 
@@ -283,7 +277,7 @@
 
 ### Exercises and Short Examples
 
-*   [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% of the solutions are [here (⭐49)](https://github.com/MassD/99).
+*   [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% of the solutions are [here (⭐54)](https://github.com/MassD/99).
 
 ### Formal Software Verification
 
@@ -295,7 +289,7 @@
 
 ### User Interface
 
-*   [Lambda-Term (⭐209)](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, and colors, as well as a set of widgets to write curses-like applications.
+*   [Lambda-Term (⭐213)](https://github.com/ocaml-community/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, and colors, as well as a set of widgets to write curses-like applications.
 
 ### Language-related
 
@@ -304,7 +298,7 @@
 
 ### Messaging
 
-*   [capnp-ocaml (⭐98)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
+*   [capnp-ocaml (⭐99)](https://github.com/capnproto/capnp-ocaml) – OCaml code generator plugin for the Cap'n Proto serialization framework.
 
 ### Metaprogramming
 
@@ -316,16 +310,16 @@
 
 ### Metrics
 
-*   [prometheus (⭐49)](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
+*   [prometheus (⭐52)](https://github.com/mirage/prometheus) – OCaml client library for Prometheus monitoring.
 
 ### Package Management
 
 *   **Build Tools**:
-    *   [dune (⭐1.6k)](https://github.com/ocaml/dune) – A composable and opinionated build system for OCaml (former jbuilder)
+    *   [dune (⭐1.7k)](https://github.com/ocaml/dune) – A composable and opinionated build system for OCaml (former jbuilder)
     *   [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
         *   [oasis2opam (⭐27)](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
     *   [obuild (⭐55)](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
-    *   [ocaml-makefile (⭐74)](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
+    *   [ocaml-makefile (⭐77)](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
     *   [topkg (⭐68)](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
     *   [Bazel (⭐37)](https://github.com/jin/rules_ocaml) - OCaml rules for [Bazel](https://bazel.build/), Google's multi-language and platform build tool.
 
@@ -333,9 +327,9 @@
 
 *   **Articles**:
     *   [What is the state of OCaml's parallelization abilities?](https://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
-    *   [Parallel programming in multicore OCaml (⭐283)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
+    *   [Parallel programming in multicore OCaml (⭐288)](https://github.com/ocaml-multicore/parallel-programming-in-multicore-ocaml)
     *   [Parallelism programming](https://v2.ocaml.org/releases/5.0/htmlman/parallelism.html) from the officiel OCaml manual
-    *   [Awesome multicore OCaml (⭐147)](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
+    *   [Awesome multicore OCaml (⭐149)](https://github.com/ocaml-multicore/awesome-multicore-ocaml). A compilation of resources
 
 ### Questions
 
@@ -346,19 +340,19 @@
 
 *   [Kaputt](http://kaputt.x9c.fr/) —  comprehensive testing framework.
 
-## [24. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+## [23. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
 
 ### Articles / Plugins
 
 *   [Using LSTMs to Turn Feelings Into Trades](https://www.quantopian.com/posts/watch-our-webinar-buying-happiness-using-lstms-to-turn-feelings-into-trades-now?utm_source=forum\&utm_medium=twitter\&utm_campaign=sentiment-analysis)
 
-## [25. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [24. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
 *   [CoRecursive Interviews](https://corecursive.com/) - In-Depth interviews with software development experts.  Focusing on functional programming and languages like scala / haskell / F# / erlang / idris / kotlin.
 
-## [26. Awesome Json](/content/burningtree/awesome-json/week/README.md)
+## [25. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
 ### Command-line tools
 
@@ -368,13 +362,13 @@
 
 *   [Awesome jq (⭐736)](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 
-## [27. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [26. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Papers / ROSCon 2015
 
 *   [Towards a distributed and real-time framework for robots: Evaluation of ROS 2.0 communications for real-time robotic applications](https://arxiv.org/pdf/1809.02595.pdf)
 
-## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [27. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Builder
 
@@ -384,7 +378,7 @@
 
 *   [did\_you\_mean (⭐1.9k)](https://github.com/yuki24/did_you_mean) - Adds class, method & attribute suggestions to error messages.
 
-## [29. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [28. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### SDKs and Samples / Android SDK
 
@@ -398,31 +392,31 @@
 
 *   [service-discovery-ecs-consul :fire: (⭐108)](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS.
 
-## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [29. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs, and training materials / Free and public materials
 
 *   [Physical Computing With Rust](https://rahul-thakoor.github.io/physical-computing-rust/) A (WIP) guide to physical computing with Rust on the Raspberry Pi.
 
-## [31. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [30. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Python / Data Analysis / Data Visualization
 
 *   [PyCM (⭐1.5k)](https://github.com/sepandhaghighi/pycm) - PyCM is a multi-class confusion matrix library written in Python that supports both input data vectors and direct matrix, and a proper tool for post-classification model evaluation that supports most classes and overall statistics parameters
 
-## [32. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [31. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Routing
 
 *   [Preact Route Async (⭐35)](https://github.com/mjanssen/preact-route-async) - A (440b gzip) route component that enables async loading of page-components.
 
-## [33. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [32. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Clients
 
-*   [npm (⭐8.4k)](https://github.com/npm/cli) - The official client.
+*   [npm (⭐8.7k)](https://github.com/npm/cli) - The official client.
 
-## [34. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [33. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
@@ -450,26 +444,26 @@
 
 *   [Raspberry Pi Beginners](https://medium.com/@anshul.ahu/how-to-setup-raspberry-pi-for-beginners-aeedc2cb994a) - Guide to setup the Raspberry Pi for beginners.
 
-## [35. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [34. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Third-party remote control libraries
 
 *   [samsung-remote-models-2014-and-newer (⭐48)](https://github.com/tdudek/samsung-remote-models-2014-and-newer) - Encrypted communication with the internal web service of Samsung TV models 2014+.
 *   [SmartCrypto (⭐8)](https://github.com/sectroyer/SmartCrypto) - SmartView2 encrypted handshake API implementation in C/Python.
 
-## [36. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / CMS
 
 *   [CoreWiki (⭐415)](https://github.com/csharpfritz/CoreWiki) - Simple ASP.NET Core wiki that we are working on during live coding streams.
 
-## [37. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [36. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Components / Themes
 
 *   [antd-table-infinity (⭐285)](https://github.com/Leonard-Li777/antd-table-infinity) - An infinite scroll component based on antd table that supports virtual scrolling & high-performance
 
-## [38. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+## [37. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Tools and session management
 
@@ -483,13 +477,13 @@
 
 *   [sublime-tmux (⭐9)](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
 
-## [39. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [38. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### SaaS Tools / Symfony2
 
 *   [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
 
-## [40. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [39. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Animals
 

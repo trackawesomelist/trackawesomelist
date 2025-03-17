@@ -98,7 +98,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Wiki.js (⭐25k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+*   [Wiki.js (⭐26k)](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
 
 ---
 

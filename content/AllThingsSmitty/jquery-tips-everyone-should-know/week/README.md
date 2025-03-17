@@ -2,7 +2,7 @@
 
 A collection of tips to help up your jQuery game 🎮
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AllThingsSmitty/jquery-tips-everyone-should-know/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) · ⭐ 4.2K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AllThingsSmitty/jquery-tips-everyone-should-know/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AllThingsSmitty/jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) · ⭐ 4.3K · 🏷️ Front-End Development
 
 [ [Daily](/content/AllThingsSmitty/jquery-tips-everyone-should-know/README.md) / Weekly / [Overview](/content/AllThingsSmitty/jquery-tips-everyone-should-know/readme/README.md) ]
 
@@ -14,20 +14,20 @@ If you want to disable right-click, you can do it for an entire page...
 
 ```javascript
 $(document).ready(function () {
-  $(document).bind('contextmenu', function (e) {
+  $(document).bind("contextmenu", function (e) {
     return false;
-  })
-})
+  });
+});
 ```
 
 ...and you can also do the same for a specific element:
 
 ```javascript
 $(document).ready(function () {
-  $('#submit').bind('contextmenu', function (e) {
+  $("#submit").bind("contextmenu", function (e) {
     return false;
-  })
-})
+  });
+});
 ```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
@@ -36,15 +36,15 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
-*   [български (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/bg-BG)
-*   [Español (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/es-ES)
-*   [Français (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/fr-FR)
-*   [Magyar (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/hu-HU)
-*   [한국어 (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ko-KR)
-*   [Português do Europe (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT)
-*   [Pусский (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
-*   [简体中文 (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)
-*   [繁體中文 (⭐4.2k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)
+*   [български (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/bg-BG)
+*   [Español (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/es-ES)
+*   [Français (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/fr-FR)
+*   [Magyar (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/hu-HU)
+*   [한국어 (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ko-KR)
+*   [Português do Europe (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/pt-PT)
+*   [Pусский (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
+*   [简体中文 (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)
+*   [繁體中文 (⭐4.3k)](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -56,9 +56,9 @@ By using the `animate` and `scrollTop` methods in jQuery you don't need a plugin
 
 ```javascript
 // Back to top
-$('.container').on('click', '.back-to-top', function (e) {
+$(".container").on("click", ".back-to-top", function (e) {
   e.preventDefault();
-  $('html, body').animate({scrollTop: 0}, 800);
+  $("html, body").animate({ scrollTop: 0 }, 800);
 });
 ```
 
@@ -72,7 +72,7 @@ $('.container').on('click', '.back-to-top', function (e) {
 Changing the `scrollTop` value changes where you wants the scrollbar to land. All you're really doing is animating the body of the document throughout the course of 800 milliseconds until it scrolls to the top of the document.
 
 > \[!NOTE]
-> Watch for some [buggy behavior (⭐317)](https://github.com/jquery/api.jquery.com/issues/417) with `scrollTop`.
+> Watch for some [buggy behavior (⭐320)](https://github.com/jquery/api.jquery.com/issues/417) with `scrollTop`.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 ### Make Two Divs the Same Height
@@ -80,13 +80,13 @@ Changing the `scrollTop` value changes where you wants the scrollbar to land. Al
 Sometimes you'll want two divs to have the same height no matter what content they have in them:
 
 ```javascript
-$('.div').css('min-height', $('.main-div').height());
+$(".div").css("min-height", $(".main-div").height());
 ```
 
 This example sets the `min-height` which means that it can be bigger than the main div but never smaller. However, a more flexible method would be to loop over a set of elements and set `height` to the height of the tallest element:
 
 ```javascript
-var $columns = $('.column');
+var $columns = $(".column");
 var height = 0;
 $columns.each(function () {
   if ($(this).height() > height) {
@@ -99,9 +99,9 @@ $columns.height(height);
 If you want *all* columns to have the same height:
 
 ```javascript
-var $rows = $('.same-height-columns');
+var $rows = $(".same-height-columns");
 $rows.each(function () {
-  $(this).find('.column').height($(this).height());
+  $(this).find(".column").height($(this).height());
 });
 ```
 
@@ -114,26 +114,23 @@ $rows.each(function () {
 jQuery allows for the "chaining" of plugin method calls to mitigate the process of repeatedly querying the DOM and creating multiple jQuery objects. Let's say the following snippet represents your plugin method calls:
 
 ```javascript
-$('#elem').show();
-$('#elem').html('bla');
-$('#elem').otherStuff();
+$("#elem").show();
+$("#elem").html("bla");
+$("#elem").otherStuff();
 ```
 
 This could be vastly improved by using chaining:
 
 ```javascript
-$('#elem')
-  .show()
-  .html('bla')
-  .otherStuff();
+$("#elem").show().html("bla").otherStuff();
 ```
 
 An alternative is to cache the element in a variable (prefixed with `$`):
 
 ```javascript
-var $elem = $('#elem');
+var $elem = $("#elem");
 $elem.hide();
-$elem.html('bla');
+$elem.html("bla");
 $elem.otherStuff();
 ```
 

@@ -10,19 +10,19 @@
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-distance (⭐59)](https://github.com/ion-elgreco/polars-distance) - Polars plugin for pairwise distance functions by [@ion-elgreco](https://github.com/ion-elgreco).
+*   [polars-distance (⭐62)](https://github.com/ion-elgreco/polars-distance) - Polars plugin for pairwise distance functions by [@ion-elgreco](https://github.com/ion-elgreco).
 
 ### Libraries/Packages/Scripts / Python
 
-*   [PDS(polars-ds) (⭐421)](https://github.com/abstractqqq/polars_ds_extension) - A modern take on data science and traditional tabular machine learning with Polars. It provides Python modules that help with EDA tasks for Polars dataframes, machine learning pipelines that are native to Polars (cleaner and faster than Sklearn). In addition, it contains Polars plugin functions that turns many common numerical, statistical functions, least squares, KNN queries, and many other ML metrics into expressions that are executable inside a Polars dataframe.[@abstractqqq](https://github.com/abstractqqq).
+*   [PDS(polars-ds) (⭐459)](https://github.com/abstractqqq/polars_ds_extension) - A modern take on data science and traditional tabular machine learning with Polars. It provides Python modules that help with EDA tasks for Polars dataframes, machine learning pipelines that are native to Polars (cleaner and faster than Sklearn). In addition, it contains Polars plugin functions that turns many common numerical, statistical functions, least squares, KNN queries, and many other ML metrics into expressions that are executable inside a Polars dataframe.[@abstractqqq](https://github.com/abstractqqq).
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Actor Model
 
 *   [Ergo (⭐3.8k)](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang.
-*   [Goakt (⭐213)](https://github.com/Tochemey/goakt) - Fast and Distributed Actor framework using protocol buffers as message for Golang.
-*   [Hollywood (⭐1.6k)](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang.
+*   [Goakt (⭐219)](https://github.com/Tochemey/goakt) - Fast and Distributed Actor framework using protocol buffers as message for Golang.
+*   [Hollywood (⭐1.7k)](https://github.com/anthdm/hollywood) - Blazingly fast and light-weight Actor engine written in Golang.
 *   [ProtoActor (⭐5.1k)](https://github.com/asynkron/protoactor-go) - Proto Actor - Ultra fast distributed actors for Go, C# and Java/Kotlin.
 
 ### Artificial Intelligence
@@ -33,7 +33,7 @@
 
 ### Applications / Utilities
 
-*   [dcapal (⭐60)](https://github.com/dcapal/dcapal) - DcaPal is a free, no registration, online tool to help you keep your portfolio balanced with dollar cost averaging investments.
+*   [dcapal (⭐69)](https://github.com/dcapal/dcapal) - DcaPal is a free, no registration, online tool to help you keep your portfolio balanced with dollar cost averaging investments.
 
 ## [4. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -52,19 +52,19 @@
 *   [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter) - Accessibility linting for HTML, Angular, React, Markdown, Vue, and React Native.
 *   [Angular Material CDK - a11y](https://material.angular.io/cdk/a11y/overview) - The a11y package provides a number of tools to improve accessibility.
 *   [PrimeNG](https://primeng.org/guides/accessibility) - PrimeNG accessibility guide.
-*   [astral-accessibility (⭐20)](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
+*   [astral-accessibility (⭐21)](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
 
 ## [6. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
 ### Analysis
 
-*   [Dolphie (⭐685)](https://github.com/charles-001/dolphie) - a modern terminal tool for real-time analytics into MySQL/MariaDB & ProxySQL
+*   [Dolphie (⭐741)](https://github.com/charles-001/dolphie) - a modern terminal tool for real-time analytics into MySQL/MariaDB & ProxySQL
 
 ## [7. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md)
 
 ### Code / Developer tools
 
-*   [AI Kernel Explorer (⭐15)](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
+*   [AI Kernel Explorer (⭐17)](https://github.com/mathiscode/ai-kernel-explorer) - Explore the Linux kernel source code with AI-generated summaries.
 
 ### Audio / AI Music Generators
 
@@ -80,7 +80,7 @@
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Reading and Writing Tools / Markdown Tools
+### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 *   [Archimedes](https://furnacecreek.org/archimedes/) - Native macOS Markdown editor geared toward mathematical writing with inline LaTeX support.
 

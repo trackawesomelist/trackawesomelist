@@ -40,13 +40,13 @@
 
 *   [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories.
 *   [Private Packagist Enterprise](https://packagist.com) - On-premise self-hosted version of Private Packagist.
-*   [Private Packagist API Client (⭐32)](https://github.com/packagist/private-packagist-api-client) - A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.
+*   [Private Packagist API Client (⭐33)](https://github.com/packagist/private-packagist-api-client) - A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### JVM and JDK / Text-Based User Interfaces
 
-*   [OpenJ9 (⭐3.3k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
+*   [OpenJ9 (⭐3.4k)](https://github.com/eclipse/openj9) - High performance, enterprise-calibre, flexibly licensed, openly-governed cross-platform JVM extending and augmenting the runtime technology components from the Eclipse OMR and OpenJDK project.
 
 ## [6. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

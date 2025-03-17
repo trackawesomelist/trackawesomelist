@@ -35,7 +35,7 @@
 
 ### PDF / Text-Based User Interfaces
 
-*   [Open HTML to PDF (⭐1.9k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
+*   [Open HTML to PDF (⭐2k)](https://github.com/danfickle/openhtmltopdf) - Properly supports modern PDF standards based on flyingsaucer and Apache PDFBox.
 
 ## [6. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

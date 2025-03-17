@@ -23,7 +23,7 @@
 ### Ruby / Ruby on Rails
 
 *   [Rails Girls Guides](http://guides.railsgirls.com)
-*   [Upgrading to Rails 4 (⭐449)](https://github.com/alindeman/upgradingtorails4)
+*   [Upgrading to Rails 4 (⭐450)](https://github.com/alindeman/upgradingtorails4)
 
 ---
 

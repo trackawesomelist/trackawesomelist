@@ -57,7 +57,7 @@
 
 ### CLI Builders
 
-*   [Cling (⭐26)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
+*   [Cling (⭐25)](https://github.com/devnote-dev/cling) - A modular, non-macro-based command line interface library
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -78,7 +78,7 @@
 
 ### API Builder and Discovery
 
-*   [Alba (⭐953)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
+*   [Alba (⭐993)](https://github.com/okuramasafumi/alba) - A JSON serializer for Ruby, JRuby and TruffleRuby.
 
 ### CMS
 
@@ -86,7 +86,7 @@
 
 ### Third-party APIs
 
-*   [Notion Ruby Client (⭐123)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
+*   [Notion Ruby Client (⭐125)](https://github.com/orbit-love/notion-ruby-client) - A Ruby wrapper for the Notion API.
 
 ## [8. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Software / Photo Galleries
 
-*   [SPIS (⭐141)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
+*   [SPIS (⭐149)](https://github.com/gbbirkisson/spis) - A simple, lightweight and fast media server with decent mobile support. `GPL-3.0` `Docker/Rust`
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

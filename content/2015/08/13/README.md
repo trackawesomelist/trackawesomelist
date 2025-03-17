@@ -51,11 +51,11 @@
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Software for Creating APIs
+### Software for Creating APIs / Rust
 
 *   [OneBusAway](http://onebusaway.org/) - A Java app that consumes GTFS and GTFS-Realtime (along with [other formats (⭐217)](https://github.com/OneBusAway/onebusaway-application-modules/wiki/Real-Time-Data-Configuration-Guide)) and turns them into an easy to use REST API.
 
-### Web Apps (open source)
+### Web Apps (open source) / Rust
 
 *   [Instabus](http://instabus.org) - Realtime map of Austin's (CapMetro) public transit. Has no server/backend dependency at all and runs completely on GitHub pages.
 

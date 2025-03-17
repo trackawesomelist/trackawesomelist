@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 20 - Mar 26, 2017
 
-49 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -143,7 +143,7 @@
 
 ### Multimedia content processing
 
-*   [Codem-isoboxer (⭐116)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
+*   [Codem-isoboxer (⭐117)](https://github.com/madebyhiro/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 
 ## [14. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
@@ -322,7 +322,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 ### Errors and Exception Handling
 
-*   [OK (⭐604)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
+*   [OK (⭐603)](https://github.com/CrowdHailer/OK) - Elegant error handling with result monads, featuring a simple & powerful `with` construct and a happy path pipe operator.
 
 ## [34. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
@@ -420,19 +420,13 @@ Webpage: <http://www.lerdevagar.com/>
 *   [HaskellCast](http://www.haskellcast.com/) — A podcast for Haskell developers working in industry.
 *   [Hello Internet](http://www.hellointernet.fm/) - Science youtubers CGP Grey and Brady Haran discuss everything from flag design to Star Wars.
 
-## [40. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
-
-### GTFS / General GIS Applications for making transit visualizations
-
-*   [GTFS Best Practices](http://gtfs.org/best-practices/) - Best practices for producers of a GTFS feed.
-
-## [41. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [40. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
 *   [NNFlow (⭐7)](https://github.com/welschma/NNFlow) - Simple framework allowing to read-in ROOT NTuples by converting them to a Numpy array and then use them in Google Tensorflow.
 
-## [42. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [41. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / P companies
 
@@ -446,7 +440,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   React Native <http://facebook.github.io/react-native/blog/>
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### HTTP
 
@@ -460,7 +454,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   [sam (⭐95)](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
-## [44. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [43. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -470,7 +464,7 @@ Webpage: <http://www.lerdevagar.com/>
     *   [Homeworks](http://www.ece.cmu.edu/\~ece447/s15/doku.php?id=homeworks) 7 HWs with answer set as well
     *   [Readings](http://www.ece.cmu.edu/\~ece447/s15/doku.php?id=readings)
 
-## [45. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
+## [44. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/week/README.md)
 
 ### Awesome ClojureScript / Canvas
 
@@ -524,7 +518,7 @@ Webpage: <http://www.lerdevagar.com/>
 *   [electron-template (⭐113)](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 *   [WebFUI (⭐236)](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
 
-## [46. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [45. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### Android
 
@@ -545,7 +539,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   [Fuck off as a Service (⭐2.9k)](https://github.com/tomdionysus/foaas) - Provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 
-## [47. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [46. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### React Native
 
@@ -557,7 +551,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 
 
-## [48. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
+## [47. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
 ### Tools / Third-Party Tools
 
@@ -571,7 +565,7 @@ Webpage: <http://www.lerdevagar.com/>
 
 *   [Qt5 C++ GUI Programming Cookbook](https://www.packtpub.com/application-development/qt5-c-gui-programming-cookbook), by [Lee Zhi Eng](https://www.zhieng.com) [:octocat: (⭐94)](https://github.com/PacktPublishing/Qt5-C-GUI-Programming-Cookbook) - Overview of advanced GUI programming techniques for those familiar (but not satisfied) with the basics.  The source code used in the book is available for free.
 
-## [49. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [48. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Resources / Custom Dialog
 

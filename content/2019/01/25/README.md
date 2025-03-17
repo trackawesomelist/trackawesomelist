@@ -32,7 +32,7 @@
 
 ### Generators / Other
 
-*   [Gatsby.js (⭐55k)](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
+*   [Gatsby.js (⭐56k)](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -47,9 +47,9 @@
 *   [vkQuake2 (⭐890)](https://github.com/kondrak/vkQuake2) - id Software's Quake 2 v3.21 with Vulkan support (Windows and Linux). \[GPL]
 *   [q2vkpt (⭐948)](https://github.com/cschied/q2vkpt/) - Real-time path tracer VKPT integrated into q2pro Quake 2 client. \[gpl]
 
-## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
-### C++ / General-Purpose Machine Learning
+### Frameworks
 
 *   [Polyaxon (⭐3.6k)](https://github.com/polyaxon/polyaxon) - A platform for reproducible and scalable machine learning and deep learning.
 

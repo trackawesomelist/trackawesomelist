@@ -40,7 +40,7 @@
 ### Distributed Programming
 
 *   [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/) - platform for distributed processing and real-time analytics.  Provides toolkits for advanced analytics like geospatial, time series, etc. out of the box.
-*   [streamsx.topology (⭐27)](https://github.com/IBMStreams/streamsx.topology) - Libraries to enable building IBM Streams application in Java, Python or Scala.
+*   [streamsx.topology (⭐29)](https://github.com/IBMStreams/streamsx.topology) - Libraries to enable building IBM Streams application in Java, Python or Scala.
 
 ### Internet of things and sensor data
 

@@ -16,7 +16,7 @@
 
 ### Applications
 
-*   [NewNode (⭐447)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
+*   [NewNode (⭐459)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
 
 ## [3. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

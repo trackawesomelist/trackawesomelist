@@ -20,7 +20,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [GdUnit4 (⭐632)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
+*   [GdUnit4 (⭐670)](https://github.com/MikeSchulze/gdUnit4) - Godot Unit Testing Framework.
 
 ## [3. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 

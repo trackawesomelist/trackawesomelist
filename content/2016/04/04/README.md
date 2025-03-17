@@ -89,7 +89,7 @@
 
 *   [Example tmux config (⭐1.8k)](https://github.com/tony/tmux-config) :green\_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar
 *   [practical tmux](https://mutelight.org/practical-tmux)
-*   [tmux-extra (⭐119)](https://github.com/brandur/tmux-extra) Configuration and scripts for sane Tmux default behavior
+*   [tmux-extra (⭐118)](https://github.com/brandur/tmux-extra) Configuration and scripts for sane Tmux default behavior
 
 ### Tools and session management
 
@@ -99,20 +99,20 @@
 
 ### Plugins
 
-*   [tmux2html (⭐722)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
+*   [tmux2html (⭐723)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 *   [tmux-plugins](https://github.com/tmux-plugins) Official tmux plugins
     *   [tmux-continuum (⭐3.4k)](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
     *   [tmux-copycat (⭐1.1k)](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
-    *   [tmux-fpp (⭐313)](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
+    *   [tmux-fpp (⭐316)](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
     *   [tmux-logging (⭐1.1k)](https://github.com/tmux-plugins/tmux-logging) Easy logging and screen capturing for Tmux.
-    *   [tmux-open (⭐647)](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
-    *   [tmux-pain-control (⭐769)](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
-    *   [tmux-resurrect (⭐11k)](https://github.com/tmux-plugins/tmux-resurrect) Persists tmux environment across system restarts.
-    *   [tmux-sessionist (⭐417)](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
-    *   [tmux-sidebar (⭐545)](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
-    *   [tmux-tpm (⭐12k)](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
-    *   [tmux-urlview (⭐270)](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
-    *   [tmux-yank (⭐2.7k)](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+    *   [tmux-open (⭐655)](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
+    *   [tmux-pain-control (⭐779)](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
+    *   [tmux-resurrect (⭐12k)](https://github.com/tmux-plugins/tmux-resurrect) Persists tmux environment across system restarts.
+    *   [tmux-sessionist (⭐424)](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
+    *   [tmux-sidebar (⭐558)](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
+    *   [tmux-tpm (⭐13k)](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
+    *   [tmux-urlview (⭐274)](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
+    *   [tmux-yank (⭐2.8k)](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 
 ### Plugins / Development and testing
 
@@ -122,7 +122,7 @@
 ### Miscellaneous / Development and testing
 
 *   [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
-*   [vim-tmux (⭐334)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
+*   [vim-tmux (⭐335)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
 
 ## [8. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -134,7 +134,7 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composed (⭐53)](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
+*   [Composed (⭐52)](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
 *   [Satis (⭐3.2k)](https://github.com/composer/satis) - A static Composer repository generator.
 *   [Toran Proxy](https://toranproxy.com) - A Composer proxy for speed and reliability. (:warning: Toran Proxy is being phased out.)
 
@@ -158,12 +158,12 @@
 
 ### Table of Contents / URL
 
-*   [Purl (⭐906)](https://github.com/jwage/purl) - A URL manipulation library.
+*   [Purl (⭐905)](https://github.com/jwage/purl) - A URL manipulation library.
 *   [Uri (⭐1.1k)](https://github.com/thephpleague/uri) - Another URL manipulation library.
 
 ### Table of Contents / Email
 
-*   [Email Reply Parser (⭐639)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
+*   [Email Reply Parser (⭐637)](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 *   [Fetch (⭐504)](https://github.com/tedious/Fetch) - An IMAP library.
 *   [PHPMailer (⭐21k)](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 
@@ -175,7 +175,7 @@
 ### Table of Contents / Imagery
 
 *   [Intervention Image (⭐14k)](https://github.com/Intervention/image) - Another image manipulation library.
-*   [PHP Image Workshop (⭐859)](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
+*   [PHP Image Workshop (⭐857)](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.
 
 ### Table of Contents / Testing
 
@@ -186,14 +186,14 @@
 
 ### Table of Contents / Security
 
-*   [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium (⭐12k)](https://github.com/jedisct1/libsodium).
+*   [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium (⭐13k)](https://github.com/jedisct1/libsodium).
 *   [Optimus (⭐1.3k)](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 *   [PHP Encryption (⭐3.8k)](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
 
 ### Table of Contents / Passwords
 
 *   [GenPhrase (⭐116)](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
-*   [PHP Password Lib (⭐373)](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
+*   [PHP Password Lib (⭐375)](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 
 ### Table of Contents / Code Analysis
 
@@ -201,15 +201,15 @@
 *   [PHP Parser (⭐17k)](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 *   [PHPLOC (⭐2.3k)](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 *   [PHPQA (⭐565)](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
-*   [UBench (⭐567)](https://github.com/devster/ubench) - A simple micro-benchmark library.
+*   [UBench (⭐565)](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
 ### Table of Contents / Architectural
 
-*   [RulerZ (⭐872)](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
+*   [RulerZ (⭐873)](https://github.com/K-Phoen/rulerz) - A powerful rule engine and implementation of the Specification pattern.
 
 ### Table of Contents / Debugging and Profiling
 
-*   [PHP Console (⭐529)](https://github.com/Seldaek/php-console) - A web debugging console.
+*   [PHP Console (⭐528)](https://github.com/Seldaek/php-console) - A web debugging console.
 *   [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
 *   [xDebug (⭐3.2k)](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 *   [XHProf (⭐2.6k)](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
@@ -220,7 +220,7 @@
 
 ### Table of Contents / Date and Time
 
-*   [Moment.php (⭐970)](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
+*   [Moment.php (⭐969)](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 
 ### Table of Contents / Event
 
@@ -246,13 +246,13 @@
 ### Table of Contents / Migrations
 
 *   [Migrations (⭐40)](https://github.com/icomefromthenet/Migrations) - A migration management library.
-*   [PHPMig (⭐568)](https://github.com/davedevelopment/phpmig) - Another migration management library.
+*   [PHPMig (⭐569)](https://github.com/davedevelopment/phpmig) - Another migration management library.
 
 ### Table of Contents / Queue
 
-*   [BunnyPHP (⭐716)](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
+*   [BunnyPHP (⭐718)](https://github.com/jakubkulhan/bunny) - A performant pure-PHP AMQP (RabbitMQ) sync and also async (ReactPHP) library.
 *   [Tarantool Queue (⭐64)](https://github.com/tarantool-php/queue) - PHP bindings for Tarantool Queue.
-*   [Thumper (⭐276)](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
+*   [Thumper (⭐277)](https://github.com/php-amqplib/Thumper) - A RabbitMQ pattern library.
 
 ### Table of Contents / Search
 
@@ -260,13 +260,13 @@
 
 ### Table of Contents / Command Line
 
-*   [Cilex (⭐621)](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
+*   [Cilex (⭐620)](https://github.com/Cilex/Cilex) - A micro framework for building command line tools.
 *   [CLI Menu (⭐1.9k)](https://github.com/php-school/cli-menu) - A library for building CLI menus.
-*   [CLIFramework (⭐440)](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
+*   [CLIFramework (⭐441)](https://github.com/c9s/CLIFramework) - A command-line framework supports zsh/bash completion generation, subcommands and option constraints. It also powers phpbrew.
 *   [CLImate (⭐1.9k)](https://github.com/thephpleague/climate) - A library for outputting colors and special formatting.
 *   [GetOptionKit (⭐150)](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
 *   [PsySH (⭐9.8k)](https://github.com/bobthecow/psysh) - Another PHP REPL.
-*   [ShellWrap (⭐746)](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
+*   [ShellWrap (⭐742)](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 
 ### Table of Contents / Authentication and Authorization
 
@@ -286,7 +286,7 @@
 *   [Agent (⭐4.6k)](https://github.com/jenssegers/agent) - A PHP desktop/mobile user agent parser, based on Mobiledetect.
 *   [Mobile-Detect (⭐11k)](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 *   [Patchwork UTF-8 (⭐79)](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
-*   [URLify (⭐677)](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
+*   [URLify (⭐675)](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 *   [UUID (⭐13k)](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 
 ### Table of Contents / Numbers
@@ -296,8 +296,8 @@
 
 ### Table of Contents / Filtering, Sanitizing and Validation
 
-*   [Filterus (⭐453)](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
-*   [MetaYaml (⭐104)](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
+*   [Filterus (⭐452)](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
+*   [MetaYaml (⭐103)](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 *   [Respect Validation (⭐5.8k)](https://github.com/Respect/Validation) - A simple validation library.
 *   [Upload (⭐1.7k)](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
 *   [Valitron (⭐1.6k)](https://github.com/vlucas/valitron) - Another validation library.
@@ -315,8 +315,8 @@
 
 ### Table of Contents / Data Structure and Storage
 
-*   [PINQ (⭐461)](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
-*   [YaLinqo (⭐444)](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
+*   [PINQ (⭐462)](https://github.com/TimeToogo/Pinq) - A PHP library based on .NET's LINQ (Language Integrated Query).
+*   [YaLinqo (⭐446)](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 
 ### Table of Contents / Notifications
 
@@ -336,7 +336,7 @@
 
 ### Configuration / Miscellaneous
 
-*   [ClassPreloader (⭐371)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
+*   [ClassPreloader (⭐372)](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
 *   [Pagerfanta (⭐1.6k)](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 
 ### Configuration / PHP Installation

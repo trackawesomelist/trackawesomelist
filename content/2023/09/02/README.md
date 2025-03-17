@@ -34,7 +34,7 @@
 
 ### Components & Libraries / Integrations
 
-*   [vue-tg (⭐223)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
+*   [vue-tg (⭐233)](https://github.com/deptyped/vue-telegram) - Telegram Web Apps integration for Vue 3.
 
 ## [4. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 

@@ -124,7 +124,7 @@
 
 ### Data Visualization / Runner
 
-*   [three.js (⭐101k)](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+*   [three.js (⭐105k)](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 
 ### Color / Runner
 
@@ -132,13 +132,13 @@
 
 ### Security / Runner
 
-*   [DOMPurify (⭐14k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
-*   [js-xss (⭐5.2k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
+*   [DOMPurify (⭐15k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
+*   [js-xss (⭐5.3k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 
 ### Loading Status / Runner
 
 *   [SpinKit (⭐19k)](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS.
-*   [Ladda (⭐7.9k)](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
+*   [Ladda (⭐7.8k)](https://github.com/hakimel/Ladda) - Buttons with built-in loading indicators.
 
 ### Scroll / Other
 
@@ -156,10 +156,10 @@
 
 ### Misc / Other
 
-*   [emijrp/awesome-awesome (⭐2.8k)](https://github.com/emijrp/awesome-awesome)
+*   [emijrp/awesome-awesome (⭐2.9k)](https://github.com/emijrp/awesome-awesome)
 *   [bayandin/awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐320k)](https://github.com/sindresorhus/awesome)
-*   [jnv/list (⭐9.8k)](https://github.com/jnv/lists)
+*   [sindresorhus/awesome (⭐350k)](https://github.com/sindresorhus/awesome)
+*   [jnv/list (⭐10k)](https://github.com/jnv/lists)
 
 ---
 

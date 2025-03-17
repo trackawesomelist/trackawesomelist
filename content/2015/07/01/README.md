@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 01, 2015
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -43,19 +43,26 @@
 *   [Polycasts](https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN)
 *   [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk)
 
-## [4. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Django
+
+*   [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
+*   [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
+
+## [5. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
 ### Learn / Documentation
 
 *   [cycle.js.org](http://cycle.js.org/) - Cycle.js official tutorial and documentation.
 
-## [5. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
+## [6. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 
 ### Data Ingestion and Integration
 
 *   [Gobblin from LinkedIn (⭐2.1k)](https://github.com/linkedin/gobblin) - Universal data ingestion framework for Hadoop
 
-## [6. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
+## [7. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Websites
 
@@ -65,9 +72,9 @@ An intentionally insecure Javascript Web Application.
 
 ### Books and ebooks
 
-### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2022)
+### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2025)
 
-**Released**: May 23, 2022
+**Released**: February 22, 2025
 
 Provides guidelines for improving software security through secure coding. Covers common programming languages and libraries, and focuses on concrete recommendations.
 ### [SEI CERT C++ Coding Standard](https://www.securecoding.cert.org/confluence/pages/viewpage.action?pageId=637) (2006)
@@ -80,10 +87,7 @@ A community-maintained Wiki detailing secure coding standards for C++ programmin
 **Released**: January 10, 2011
 
 A community-maintained Wiki detailing secure coding standards for Perl programming.
-### [Python chapter of Fedora Defensive Coding Guide](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/chap-Defensive_Coding-Python.html)
-
-Lists standard library features that should be avoided, and references sections of other chapters that are Python-specific.
-### [OWASP Python Security Wiki (⭐395)](https://github.com/ebranca/owasp-pysec/wiki) (2014)
+### [OWASP Python Security Wiki (⭐407)](https://github.com/ebranca/owasp-pysec/wiki) (2014)
 
 **Released**: June 21, 2014
 
@@ -92,7 +96,7 @@ A wiki maintained by the OWASP Python Security project.
 
 **Released**: March 10, 2014
 
-A guide to secure Ruby development by the Fedora Security Team. Also available on [Github (⭐8)](https://github.com/jrusnack/secure-ruby-development-guide).
+A guide to secure Ruby development by the Fedora Security Team. Also available on [Github (⭐10)](https://github.com/jrusnack/secure-ruby-development-guide).
 
 ### Articles
 

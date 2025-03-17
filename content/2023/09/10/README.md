@@ -127,7 +127,7 @@
 
 ### Plugin Manager
 
-*   [roobert/activate.nvim (⭐125)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
+*   [roobert/activate.nvim (⭐132)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
 
 ---
 

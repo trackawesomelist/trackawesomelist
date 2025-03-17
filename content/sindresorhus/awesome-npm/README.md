@@ -6,19 +6,13 @@ Awesome npm resources and tips
 
 [ Daily / [Weekly](/content/sindresorhus/awesome-npm/week/README.md) / [Overview](/content/sindresorhus/awesome-npm/readme/README.md) ]
 
-## [Oct 23, 2024](/content/2024/10/23/README.md)
-
-### Web
-
-*   [npm-compare](https://npm-compare.com) - Easily search and compare packages.
-
 ## [Nov 06, 2023](/content/2023/11/06/README.md)
 
 ### Other
 
-*   [package-up (⭐159)](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
-*   [read-package-up (⭐258)](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
-*   [package-config (⭐120)](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
+*   [package-up (⭐162)](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
+*   [read-package-up (⭐266)](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
+*   [package-config (⭐121)](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
 
 ## [Feb 14, 2021](/content/2021/02/14/README.md)
 
@@ -54,19 +48,19 @@ Awesome npm resources and tips
 
 ### Related / `pre` and `post` scripts
 
-*   [awesome-nodejs (⭐58k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐60k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [Nov 13, 2019](/content/2019/11/13/README.md)
 
 ### Other
 
-*   [lockfile-lint (⭐783)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
+*   [lockfile-lint (⭐790)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 
 ## [Oct 08, 2019](/content/2019/10/08/README.md)
 
 ### CLI
 
-*   [npkill (⭐8.3k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐8.5k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [Jun 12, 2019](/content/2019/06/12/README.md)
 
@@ -79,7 +73,7 @@ Awesome npm resources and tips
 
 ### Publishing
 
-*   [release-it (⭐8k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+*   [release-it (⭐8.3k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 
 ## [Apr 27, 2019](/content/2019/04/27/README.md)
 
@@ -102,7 +96,7 @@ Awesome npm resources and tips
 
 ### Clients
 
-*   [npm (⭐8.4k)](https://github.com/npm/cli) - The official client.
+*   [npm (⭐8.7k)](https://github.com/npm/cli) - The official client.
 
 ## [Sep 07, 2018](/content/2018/09/07/README.md)
 
@@ -131,21 +125,21 @@ Awesome npm resources and tips
 
 ### Other
 
-*   [npm-run-all (⭐5.7k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
-*   [onchange (⭐816)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
-*   [cli-error-notifier (⭐72)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
+*   [npm-run-all (⭐5.8k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
+*   [onchange (⭐821)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
+*   [cli-error-notifier (⭐71)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 
 ## [Dec 14, 2017](/content/2017/12/14/README.md)
 
 ### Clients
 
-*   [pnpm (⭐30k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
+*   [pnpm (⭐31k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
 
 ## [Dec 04, 2017](/content/2017/12/04/README.md)
 
 ### Other
 
-*   [synp (⭐757)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
+*   [synp (⭐767)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
 
 ## [Oct 15, 2017](/content/2017/10/15/README.md)
 
@@ -157,41 +151,41 @@ Awesome npm resources and tips
 
 ### Registry
 
-*   [verdaccio (⭐16k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+*   [verdaccio (⭐17k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
 
 ## [Apr 05, 2017](/content/2017/04/05/README.md)
 
 ### Other
 
-*   [package-size (⭐424)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+*   [package-size (⭐422)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 
 ## [Nov 04, 2016](/content/2016/11/04/README.md)
 
 ### Other
 
-*   [redrun (⭐122)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+*   [redrun (⭐124)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 
 ### Clients
 
-*   [yarn (⭐41k)](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
+*   [yarn (⭐42k)](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 
 ## [Sep 22, 2016](/content/2016/09/22/README.md)
 
 ### Other
 
-*   [shrinkpack (⭐793)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
+*   [shrinkpack (⭐798)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 
 ## [Jul 30, 2016](/content/2016/07/30/README.md)
 
 ### Registry
 
-*   [npm-register (⭐482)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
+*   [npm-register (⭐485)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
 
 ## [Jul 22, 2016](/content/2016/07/22/README.md)
 
 ### CLI
 
-*   [zsh-better-npm-completion (⭐466)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
+*   [zsh-better-npm-completion (⭐479)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 
 ## [Jul 15, 2016](/content/2016/07/15/README.md)
 
@@ -203,7 +197,7 @@ Awesome npm resources and tips
 
 ### Other
 
-*   [npm-upgrade (⭐341)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
+*   [npm-upgrade (⭐340)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 
 ## [Apr 21, 2016](/content/2016/04/21/README.md)
 
@@ -215,17 +209,17 @@ Awesome npm resources and tips
 
 ### Registry
 
-*   [nrm (⭐2.8k)](https://github.com/Pana/nrm) - Registry manager.
+*   [nrm (⭐2.9k)](https://github.com/Pana/nrm) - Registry manager.
 
 ### Other
 
-*   [ntl (⭐932)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
+*   [ntl (⭐941)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
 
 ## [Mar 07, 2016](/content/2016/03/07/README.md)
 
 ### Registry
 
-*   [npm-cli-login (⭐114)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
+*   [npm-cli-login (⭐116)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
 
 ## [Feb 08, 2016](/content/2016/02/08/README.md)
 
@@ -251,12 +245,12 @@ Awesome npm resources and tips
 *   [latest-version (⭐53)](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
 *   [npm-user (⭐57)](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
 *   [npm-email (⭐32)](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
-*   [npm-user-packages (⭐3)](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
+*   [npm-user-packages (⭐5)](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
 *   [npm-stats (⭐51)](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
 
 ### Other
 
-*   [generator-nm (⭐743)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
+*   [generator-nm (⭐741)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
 *   [npm-issues (⭐48)](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 
 ## [Jan 21, 2016](/content/2016/01/21/README.md)
@@ -275,7 +269,7 @@ Awesome npm resources and tips
 
 ### Articles
 
-*   [Small focused modules (⭐143)](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
+*   [Small focused modules (⭐141)](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
 *   [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) *(Must read!)*
 *   [Semver: Tilde and Caret](https://nodesource.com/blog/semver-tilde-and-caret/)
 *   [Offline installation of npm packages](https://addyosmani.com/blog/using-npm-offline/)
@@ -300,13 +294,13 @@ Awesome npm resources and tips
 *   [np (⭐7.6k)](https://github.com/sindresorhus/np) - A better `npm publish`.
 *   [publish-please (⭐737)](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 *   [npm-release (⭐102)](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
-*   [pkgfiles (⭐84)](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
-*   [semantic-release (⭐21k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
+*   [pkgfiles (⭐85)](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
+*   [semantic-release (⭐22k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
 
 ### Registry
 
-*   [npm-name (⭐284)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-*   [package-json (⭐236)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
+*   [npm-name (⭐287)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+*   [package-json (⭐240)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
 *   [npm-keyword (⭐52)](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
 *   [dpn (⭐27)](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
 
@@ -316,12 +310,12 @@ Awesome npm resources and tips
 *   [gh-home (⭐191)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
 *   [david (⭐968)](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
 *   [npm-check (⭐6.6k)](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
-*   [npm-shrinkwrap (⭐773)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
+*   [npm-shrinkwrap (⭐771)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 *   [npm-windows-upgrade (⭐2.5k)](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-*   [normalize-package-data (⭐196)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
+*   [normalize-package-data (⭐199)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
 *   [npm-run-path (⭐104)](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
 *   [local-npm (⭐1.2k)](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
-*   [npe (⭐92)](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
+*   [npe (⭐93)](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
 *   [engine-deps (⭐20)](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
 
 ### Command aliases

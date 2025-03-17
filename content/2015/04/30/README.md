@@ -23,7 +23,7 @@
 
 ### Table of Contents / Migrations
 
-*   [Ruckusing (⭐506)](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
+*   [Ruckusing (⭐507)](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
 
 ---
 

@@ -60,7 +60,7 @@
 
 ### Image Processing
 
-*   [ImageProcessing (⭐872)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
+*   [ImageProcessing (⭐892)](https://github.com/janko/image_processing) - High-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
 
 ## [5. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 

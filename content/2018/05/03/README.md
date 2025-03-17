@@ -100,11 +100,11 @@
 
 ### Packages / Web frameworks
 
-*   [Nest (⭐68k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+*   [Nest (⭐70k)](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 ### Packages / Text
 
-*   [i18next (⭐7.8k)](https://github.com/i18next/i18next) - Internationalization framework.
+*   [i18next (⭐7.9k)](https://github.com/i18next/i18next) - Internationalization framework.
 
 ### Packages / Math
 
@@ -112,15 +112,15 @@
 
 ### Packages / Parsing
 
-*   [fast-xml-parser (⭐2.6k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
+*   [fast-xml-parser (⭐2.7k)](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
 
 ### Packages / Network
 
-*   [netcat (⭐419)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+*   [netcat (⭐424)](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
 
 ### Packages / Authorization
 
-*   [CASL (⭐6.1k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+*   [CASL (⭐6.3k)](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
 
 ### Packages / Job queues
 
@@ -129,7 +129,7 @@
 ### Packages / Serialization
 
 *   [snappy (⭐481)](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
-*   [compactr (⭐101)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
+*   [compactr (⭐102)](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
 ### Packages / Miscellaneous
 

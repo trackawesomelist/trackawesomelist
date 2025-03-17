@@ -134,17 +134,17 @@
 
 ### Tutorials
 
-*   [TensorFlow Examples (⭐43k)](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
+*   [TensorFlow Examples (⭐44k)](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow tutorials and code examples for beginners
 
 ### Models/Projects
 
-*   [TensorFlow White Paper Notes (⭐439)](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
+*   [TensorFlow White Paper Notes (⭐434)](https://github.com/samjabrahams/tensorflow-white-paper-notes) - Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation
 
 ## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐7.6k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐7.7k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [10. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -375,7 +375,7 @@ git log Branch1 ^Branch2
 
 ### Data Ingestion
 
-*   [Skizze (⭐775)](https://github.com/skizzehq/skizze) - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
+*   [Skizze (⭐771)](https://github.com/skizzehq/skizze) - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
 
 ### Data Visualization
 
@@ -401,12 +401,12 @@ git log Branch1 ^Branch2
 
 ### Packages / Command-line utilities
 
-*   [boxen (⭐1.5k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
+*   [boxen (⭐1.6k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
 *   [shelljs (⭐14k)](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 
 ### Packages / Text
 
-*   [matcher (⭐539)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐537)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 
@@ -518,7 +518,7 @@ Violent Python shows you how to move from a theoretical understanding of offensi
 
 ### Implementations/Compilers
 
-*   [crisp (⭐44)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+*   [crisp (⭐45)](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
 
 ## [43. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 

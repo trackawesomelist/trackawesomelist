@@ -10,7 +10,7 @@
 
 ### Utilities
 
-*   [go-pattern-match (⭐93)](https://github.com/PhakornKiong/go-pattern-match) - A Pattern matching library inspired by ts-pattern.
+*   [go-pattern-match (⭐92)](https://github.com/PhakornKiong/go-pattern-match) - A Pattern matching library inspired by ts-pattern.
 
 ---
 

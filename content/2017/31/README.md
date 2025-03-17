@@ -166,7 +166,7 @@
 
 ### Scheduling
 
-*   [Apache Airflow (⭐30k)](https://github.com/apache/incubator-airflow) - a platform to programmatically author, schedule and monitor workflows.
+*   [Apache Airflow (⭐39k)](https://github.com/apache/incubator-airflow) - a platform to programmatically author, schedule and monitor workflows.
 *   [Azure Data Factory](https://docs.microsoft.com/en-us/azure/data-factory/data-factory-introduction) - cloud-based pipeline orchestration for on-prem, cloud and HDInsight
 
 ## [13. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
@@ -364,8 +364,7 @@
 
 ### UI / Barcode
 
-*   [ShadowView (⭐412)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
-*   [UIPheonix (⭐29)](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
+*   [ShadowView (⭐413)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
 
 ### Button / Barcode
 

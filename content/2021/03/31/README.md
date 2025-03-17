@@ -60,7 +60,7 @@
 
 ### Bundle Analyzer / Meetups
 
-*   [BundleStats (⭐593)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
+*   [BundleStats (⭐605)](https://github.com/relative-ci/bundle-stats) - Generate bundle report(bundle size, assets, modules, packages) and compare the results between different builds
 
 ## [9. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

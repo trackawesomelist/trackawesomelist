@@ -1,12 +1,18 @@
 # Awesome List Updates on Mar 02 - Mar 08, 2015
 
-18 awesome lists updated this week.
+19 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Unix / Deno
+
+*   [An Introduction to Unix](http://www.oliverelliott.org/article/computing/tut_unix/)
+
+## [2. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
 ### Intermediate
 
@@ -15,31 +21,31 @@
 **Free** code challenges - compare your solution with those of others\
 *(JavaScript, CoffeeScript, Ruby, Python, Clojure, Haskell, Java)*
 
-## [2. Julia.jl](/content/svaksha/Julia.jl/week/README.md)
+## [3. Julia.jl](/content/svaksha/Julia.jl/week/README.md)
 
 ### §2.2. Mirrors
 
 *   [Bitbucket](https://bitbucket.org/svaksha/Julia.jl) :: git clone [git@bitbucket.org](https://github.com/svaksha/Julia.jl/blob/master/README.md/mailto:git@bitbucket.org):svaksha/Julia.jl.git
 
-## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
 *   [DalekJS (⭐695)](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript
 
-## [4. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [5. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Programming
 
 *   [Metamarkets Druid](http://druid.io/) - framework for real-time analysis of large datasets.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Network / Barcode
 
 *   [SwiftHTTP (⭐1.9k)](https://github.com/daltoniam/SwiftHTTP) - NSURLSession wrapper.
 
-## [6. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [7. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Integrated Development Environment / Web
 
@@ -49,19 +55,19 @@
 
 *   [Syntax Highlighter (⭐9)](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
 
-## [7. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
+## [8. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/week/README.md)
 
 ### Fun stuff / Monospace Fonts
 
 *   [Input](http://input.fontbureau.com) from Font Bureau
 
-## [8. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
+## [9. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
 ### Resources / Implementations, Interpreters, and Bindings
 
 *   [GopherLua (⭐5.1k)](https://github.com/yuin/gopher-lua) - Lua 5.1 VM and compiler implemented in Go with Go APIs.
 
-## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [10. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -80,7 +86,6 @@
 ### Examples and funny stuff
 
 *   [phoenix-flux-react (⭐160)](https://github.com/fxg42/phoenix-flux-react) - An experiment with Phoenix Channels, GenEvents, React and Flux.
-*   [portal (⭐47)](https://github.com/josevalim/portal) - A shooting fault-tolerant doors for distributed portal data-transfer application in Elixir.
 
 ### Macros
 
@@ -102,7 +107,7 @@
 *   [everex (⭐10)](https://github.com/jwarlander/everex) - Evernote API client for Elixir.
 *   [pusher (⭐26)](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
 
-## [10. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/week/README.md)
+## [11. Awesome Workshopper](/content/therebelrobot/awesome-workshopper/week/README.md)
 
 ### Raw Builders
 
@@ -361,7 +366,7 @@
 
 
 
-## [11. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [12. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Introduction to CS
 
@@ -381,7 +386,7 @@
     *   As far as prerequisites are concerned - basic computer, programming and probability theory background is required.
     *   The course site contains links to the lecture videos, reading material and assignments.
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -427,13 +432,13 @@
 
 *   [CodeContracts (⭐884)](https://github.com/Microsoft/CodeContracts) - Source code for the CodeContracts tools for .NET
 
-## [13. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [14. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Miscellaneous
 
 *   [Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps (⭐598)](https://github.com/idio/wiki2vec)
 
-## [14. Htaccess](/content/phanan/htaccess/week/README.md)
+## [15. Htaccess](/content/phanan/htaccess/week/README.md)
 
 ### Security / Block Visitors by Referrer
 
@@ -492,19 +497,19 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 [Source (⭐198)](https://github.com/vincentorback/WebP-images-with-htaccess)
 
-## [15. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
+## [16. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
 ### Hybrid Mobile / Resources-websites-projects
 
 *   [Ionic](http://ionicframework.com/)
 
-## [16. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
+## [17. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 
 ### Themes / Dojo 2
 
 *   [Flat Dojo Theme](http://yiweima.github.io/flatdojo/) - Esri Flat Dijit Design
 
-## [17. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [18. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### ORM and Datamapping
 
@@ -514,7 +519,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 
 *   [jiffy (⭐827)](https://github.com/davisp/jiffy) - JSON NIFs for Erlang.
 
-## [18. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [19. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### OpenCV Programming
 

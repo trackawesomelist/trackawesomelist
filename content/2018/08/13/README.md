@@ -13,9 +13,9 @@
 *   [cleos](https://developers.eos.io/eosio-cleos/docs)
     *   [EOSIO/eos (⭐11k)](https://github.com/EOSIO/eos/tree/master/programs/cleos) - Official GitHub (part of EOSIO).
 *   [EOS Toolkit](https://eostoolkit.io/)
-    *   [eostoolkit/eostoolkit (⭐93)](https://github.com/eostoolkit/eostoolkit) - Official GitHub.
+    *   [eostoolkit/eostoolkit (⭐92)](https://github.com/eostoolkit/eostoolkit) - Official GitHub.
 *   [SimplEOS](https://eosrio.io/simpleos/)
-    *   [eosrio/simpleos (⭐165)](https://github.com/eosrio/simpleos) - Official GitHub.
+    *   [eosrio/simpleos (⭐164)](https://github.com/eosrio/simpleos) - Official GitHub.
 
 ### Block explorers, Voting portals / Mobile
 
@@ -27,13 +27,13 @@
 
 ### Libraries and Frameworks / API libraries
 
-*   [EOS.IO Go API library (⭐565)](https://github.com/eoscanada/eos-go) - Go library.
-*   [EOS Java API Wrapper (⭐163)](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - Java library.
+*   [EOS.IO Go API library (⭐559)](https://github.com/eoscanada/eos-go) - Go library.
+*   [EOS Java API Wrapper (⭐162)](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - Java library.
 *   [eosnet (⭐11)](https://github.com/SNIKO/eosnet) - .NET library.
 
 ### Developer Tools / Services
 
-*   [Elliptic curve cryptography functions (ECC) (⭐279)](https://github.com/EOSIO/eosjs-ecc) - Private Key, Public Key, Signature, AES, Encryption / Decryption.
+*   [Elliptic curve cryptography functions (ECC) (⭐289)](https://github.com/EOSIO/eosjs-ecc) - Private Key, Public Key, Signature, AES, Encryption / Decryption.
     *   [Securely Generating an EOS Key Pair Using Official EOS.IO Code](https://www.youtube.com/watch?v=G1GUpjc5hkw) - YouTube.
 
 ### Block Producer tools / Services

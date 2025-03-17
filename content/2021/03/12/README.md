@@ -35,7 +35,7 @@
 
 ### Text & Rich Content / Image Picker
 
-*   [Code Field (⭐232)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
+*   [Code Field (⭐237)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
 
 ## [5. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

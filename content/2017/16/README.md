@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 17 - Apr 23, 2017
 
-38 awesome lists updated this week.
+39 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Official Documentation Translations
 
-*   [crystal-dash-docset (⭐17)](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
+*   [crystal-dash-docset (⭐18)](https://github.com/Sija/crystal-dash-docset) - [Dash](https://kapeli.com/dash) docset generator
 
 ## [2. Awesome Esolangs](/content/angrykoala/awesome-esolangs/week/README.md)
 
@@ -39,7 +39,13 @@
 
 *   [The Story of Getting SSH Port 22](https://www.ssh.com/ssh/port) (1995)
 
-## [4. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
+
+## [5. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Open-source sites / Lists
 
@@ -47,7 +53,7 @@
 *   [HackSoft](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
 *   [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 
-## [5. Vim Galore](/content/mhinz/vim-galore/week/README.md)
+## [6. Vim Galore](/content/mhinz/vim-galore/week/README.md)
 
 ### Backup files
 
@@ -60,7 +66,7 @@
     2.  The content of the Vim buffer gets written to a new file with the name of
         the original file.
 
-## [6. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [7. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Other Useful Repositories
 
@@ -75,13 +81,13 @@
 
 
 
-## [7. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
 *   [vodal (⭐380)](https://github.com/chenjiahan/vodal) - A vue modal with animations.
 
-## [8. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
+## [9. Awesome Homematic](/content/homematic-community/awesome-homematic/week/README.md)
 
 ### Community Ressources (mostly german language)
 
@@ -91,7 +97,7 @@
 
 *   [OpenHAB](https://www.openhab.org/)
 
-## [9. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [10. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Composer Repositories
 
@@ -103,7 +109,7 @@
 
 *   [Composer](https://getcomposer.org/) - A package and dependency manager.
 
-## [10. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [11. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Boilerplates
 
@@ -128,7 +134,7 @@
 *   [Preact HN (⭐297)](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
 *   [TodoMVC (⭐105)](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
 
-## [11. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
+## [12. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
 ### Articles, Posts, Talks, and Presentations / Constituency Parsing
 
@@ -137,38 +143,38 @@
         [write-up](http://blog.nicksieger.com/articles/2006/10/22/rubyconf-natural-language-generation-and-processing-in-ruby/) |
         [write-up](http://juixe.com/papers/RubyConf2006.pdf)]</sup>
 
-## [12. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [13. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Lighting / Firmwares for ESP based Devices
 
 *   [h801/mqtt (⭐36)](https://github.com/open-homeautomation/h801/tree/master/mqtt) - Alternative firmware for the H801 LED dimmer that uses MQTT as a control channel.
 
-## [13. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [14. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### C / Syntax highlighting packages
 
 *   [GBDK Configuring and Programming Tutorial](https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/) - Configuring GBDK, Using Tiles, Colliding Sprites, GBTD, GBMB, Memory Management and ROM Banking.
 
-## [14. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/week/README.md)
+## [15. Awesome Netherlands Events](/content/awkward/awesome-netherlands-events/week/README.md)
 
 ### Other
 
 *   [Lanyrd](http://lanyrd.com/places/netherlands/) - Directory of conferences and events.
 *   [Meetup](https://www.meetup.com/find/?allMeetups=false\&keywords=tech\&radius=100\&userFreeform=netherlands\&gcResults=Netherlands%3ANL%3Anull%3Anull%3Anull%3Anull%3Anull%3A52.132633%3A5.2912659999999505\&change=yes\&sort=member_count) - Directory of meetups.
 
-## [15. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [16. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Blogs
 
 *   [Serverless City](http://www.serverless.city/) - News, products, opinions, howtos, and everything you need to know to be a Serverless Citizen.
 
-## [16. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [17. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Others / Web
 
 *   [AEI (⭐11)](https://github.com/joedf/AEI.ahk) - by joedf - Displays AutoHotkey Environment Information and AHK support relevant System Information with a fancy update checker that auto-downloads with a progress bar. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6\&t=5825).
 
-## [17. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
+## [18. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/week/README.md)
 
 ### Articles, Posts, Talks, and Presentations / Vector search
 
@@ -203,7 +209,7 @@
 *   [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
     Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
 
-## [18. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
+## [19. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 
 ### JavaScript
 
@@ -223,7 +229,7 @@
 
 *   [Filefile (⭐75)](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/README.md/Filefile).
 
-## [19. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [20. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Developer Tools
 
@@ -247,13 +253,13 @@
 
 *   [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - A utility for configuring encryption protocols, cyphers, hashing methods, and key exchanges for Windows components (eg TLS/AES/SHA for Remote Desktop)
 
-## [20. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [21. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Package Management / Build Systems
 
 *   [cppan](https://cppan.org/) - C++ Archive Network - C++ Package Manager based on CMake, implemented in C++14. [`[APACHE2]`](http://www.apache.org/licenses/LICENSE-2.0)
 
-## [21. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
+## [22. Awesome Healthcare](/content/kakoni/awesome-healthcare/week/README.md)
 
 ### Contents / EHR
 
@@ -279,7 +285,7 @@
 *   [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
 *   [Synthea Patient Generator (⭐2k)](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
-## [22. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [23. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Software / Publishing , Collaboration and Organization
 
@@ -289,7 +295,7 @@
 
 *   [From the March for Science to an Abolitionist Science](https://www.fromthesquare.org/march-science-abolitionist-science/#.WPpQv2nyuUl) - An article that offers several historical and current critiques of science that propose alternative ways of doing scientific work.
 
-## [23. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
@@ -299,7 +305,7 @@
 
 *   [redux.NET (⭐711)](https://github.com/GuillaumeSalles/redux.NET) - Predictable state container for .NET apps. Inspired by [https://github.com/reactjs/redux (⭐61k)](https://github.com/reactjs/redux).
 
-## [24. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [25. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Node.js
 
@@ -309,13 +315,13 @@
 
 *   [Assertible](https://assertible.com) - Continuously test and monitor your APIs after deployments and across environments.
 
-## [25. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [26. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Tutorials
 
 *   [Single Image Random Dot Stereograms (⭐6)](https://github.com/Mazecreator/TensorFlow-SIRDS) - SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.
 
-## [26. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [27. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Command Line Applications
 
@@ -342,17 +348,13 @@
 
 *   [task\_bunny (⭐202)](https://github.com/shinyscorpion/task_bunny) - background processing application written in Elixir and uses RabbitMQ as a messaging backend.
 
-### Release Management
-
-*   [mix\_docker (⭐333)](https://github.com/Recruitee/mix_docker) - Put your Elixir app production release inside minimal docker image.
-
-## [27. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [28. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Development Environment
 
 *   [Docker (⭐31)](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.
 
-## [28. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [29. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### DVB & WiFi
 
@@ -360,21 +362,21 @@
 
 ### Hybrid Radio
 
-*   [RadioVIS Demo (⭐27)](https://github.com/bbc/RadioVisDemo) - RadioVIS client application in Python.
+*   [RadioVIS Demo (⭐28)](https://github.com/bbc/RadioVisDemo) - RadioVIS client application in Python.
 
-## [29. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [30. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Analysis/Inspection
 
 *   [WireEdit](https://wireedit.com/): WireEdit is a free desktop WYSIWYG editor for network packets. It allows editing any stack layer as "rich text" without having any knowledge of packets syntax and encoding rules. The input and output file format is Pcap.
 
-## [30. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [31. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Probability Theory
 
 *   📝 [Probability and Statistics Cookbook (⭐2.3k)](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) - Matthias Vallentin (UC Berkeley)
 
-## [31. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [32. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Single Action Controller
 
@@ -396,7 +398,7 @@
 *   [Some Symfony 2 practices](https://emanueleminotto.github.io/blog/some-symfony-2-practices)
 *   [Výhody a nevýhody Symfony v bodech](https://devel.cz/otazka/nette-vs-symfony#answer-17973) \[2014] \[česky] - by [@spicimedved](https://twitter.com/spicimedved)
 
-## [32. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [33. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online Books
 
@@ -437,19 +439,19 @@
 
 *   [CreativeAi.net](http://www.creativeai.net/) - Space to share creative Ai projects.
 
-## [33. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [34. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Learning Guides / Outdated Tutorials and books (Elm 0.18 or earlier)
 
 *   [Elm FAQ](http://faq.elm-community.org/) - Elm FAQ from [Elm Community](http://elm-community.org/).
 
-## [34. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [35. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Language bindings
 
 *   .Net/.Net Core: [Npgsql (⭐3.3k)](https://github.com/npgsql/npgsql)
 
-## [35. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [36. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -481,19 +483,19 @@
 
 *   [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [37. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Web Application Framework
 
 *   [lwan (⭐5.9k)](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. \[GPL2]
 
-## [37. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Localization
 
 *   [Linguist (⭐189)](https://github.com/keevitaja/linguist) - i18n localization support for Laravel
 
-## [38. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [39. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Open Source / Other
 

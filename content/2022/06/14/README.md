@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 14, 2022
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,25 +21,19 @@
 
 ### Books, blogs, and training materials / Free and public materials
 
-*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐248)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems](https://ferrous-systems.com) to corporate customers.
+*   [Ferrous Systems' Embedded Training Courses: 2020-current edition (⭐249)](https://github.com/ferrous-systems/embedded-trainings-2020) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52840 hardware. This training was given at Oxidize Conferences and by [Ferrous Systems](https://ferrous-systems.com) to corporate customers.
 
 ### Old books, blogs, and training materials / WIP
 
 *   [Ferrous Systems' Embedded Training Courses: 2019 edition (⭐116)](https://github.com/ferrous-systems/embedded-trainings/) A hands-on training course for beginner and advanced learners of Embedded Rust, based on Nordic Semiconductor's nRF52 and Decawave's DWM1001-DEV hardware. This training was given at Oxidize Conferences and by Ferrous Systems to corporate customers.
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Screenshot APIs
-
-*   [Httpic.com](https://httpic.com) — Turn any website into jpg, png or pdf. Capture full-page screenshots, adjust the viewport, and inject custom code. Free tier at 150 images/month.
-
-## [4. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [3. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Security (art. 32)
 
 *   [Anonymisation, pseudonymisation and privacy enhancing technologies guidance](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)
 
-## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Database
 
@@ -50,13 +44,13 @@
 *   [maxminddb (⭐8)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
 *   [redis (⭐453)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 
-## [6. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [5. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Tools
 
 *   [k6 Testkube executor](https://kubeshop.github.io/testkube/executor-k6/)
 
-## [7. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [6. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### Add-ons / Third Party Add-ons
 
@@ -74,14 +68,14 @@
 
 *   [WebRTC Camera (⭐684)](https://github.com/AlexxIT/WebRTC) - View RTSP streams from IP Cameras in real-time through WebRTC or MSE with Pan/Zoom controls.
 
-## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Articles / Others
 
 *   [A Full-Stack Web App Using Blazor WebAssembly and GraphQL: Part 3](https://www.syncfusion.com/blogs/post/a-full-stack-web-app-using-blazor-webassembly-and-graphql-part-3.aspx) - June 8, 2022 - A Full-Stack Web App Using Blazor WebAssembly and GraphQL: Part 3. [Part 1](https://www.syncfusion.com/blogs/post/a-full-stack-web-app-using-blazor-webassembly-and-graphql-part-1.aspx).
 *   [A Full-Stack Web App Using Blazor WebAssembly and GraphQL: Part 1](https://www.syncfusion.com/blogs/post/a-full-stack-web-app-using-blazor-webassembly-and-graphql-part-1.aspx) - February 17, 2022 - This article shows how to create a full-stack web application using Blazor WebAssembly and GraphQL with SQL Server as our database.
 
-## [9. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [8. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Web / Scanning / Pentesting
 

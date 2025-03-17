@@ -42,9 +42,9 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ## [5. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
-### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/PwoOQGB)
 
-*   [Português do Brasil (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
+*   [Português do Brasil (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
 
 ## [6. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
@@ -602,7 +602,7 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Data Visualization
 
-*   [Bloomery (⭐16)](https://github.com/ufukomer/bloomery) - Web UI for Impala.
+*   [Bloomery (⭐17)](https://github.com/ufukomer/bloomery) - Web UI for Impala.
 
 ## [37. Frontend Dev Bookmarks](/content/dypsilon/frontend-dev-bookmarks/week/README.md)
 
@@ -624,13 +624,13 @@ Webpage: <http://www-bsg.univ-paris1.fr>
 
 ### Documentation
 
-*   [Hanna (⭐39)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
+*   [Hanna (⭐42)](https://github.com/rdoc/hanna-nouveau) - An RDoc formatter built with simplicity, beauty and ease of browsing in mind.
 
 ## [39. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Multimedia content processing
 
-*   [Bento4 (⭐2k)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
+*   [Bento4 (⭐2.1k)](https://github.com/axiomatic-systems/Bento4) - Full-featured MP4 format and MPEG DASH C++ class library and tools.
 
 ## [40. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

@@ -131,13 +131,13 @@
 
 ### Reactive Programming / Runner
 
-*   [MobX (⭐27k)](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
+*   [MobX (⭐28k)](https://github.com/mobxjs/mobx) - TFRP library for simple, scalable state management.
 
 ## [14. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Text
 
-*   [babelfish (⭐255)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+*   [babelfish (⭐259)](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 
 ### Packages / Math
 
@@ -147,15 +147,15 @@
 
 ### Authorization
 
-*   [AccessGranted (⭐776)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
+*   [AccessGranted (⭐778)](https://github.com/chaps-io/access-granted) - Multi-role and whitelist based authorization gem for Rails.
 
 ### Caching
 
-*   [Readthis (⭐504)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
+*   [Readthis (⭐503)](https://github.com/sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
 
 ### CLI Builder
 
-*   [Clamp (⭐422)](https://github.com/mdub/clamp) - A command-line application framework.
+*   [Clamp (⭐423)](https://github.com/mdub/clamp) - A command-line application framework.
 
 ### Geolocation
 
@@ -167,7 +167,7 @@
 
 ### Queues and Messaging
 
-*   [Gush (⭐1k)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
+*   [Gush (⭐1.1k)](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
 
 ## [16. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -375,8 +375,8 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 *   *[Introduction to Social Network Methods](http://faculty.ucr.edu/~hanneman/nettext/)* (using mostly UCINET), by Robert A. Hanneman and Mark Riddle - Full book online (2001).
 *   *Network Analysis with R/igraph*, by Gabor Csárdi, Thomas Nepusz and Eduardo M. Airoldi (in preparation).
 *   *Network Analysis with Python/igraph*, by Thomas Nepusz, Gabor Csárdi and Eduardo M. Airoldi (in preparation).
-*   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐242)](https://github.com/maksim2042/SNABook); 2011).
-*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐294)](https://github.com/kolaczyk/sand); 2014).
+*   *[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)* (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code (⭐243)](https://github.com/maksim2042/SNABook); 2011).
+*   *[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)*, by Eric D. Kolaczyk and Gabor Csárdi ([R package (⭐296)](https://github.com/kolaczyk/sand); 2014).
 
 ### Books / Topic-specific
 
@@ -406,7 +406,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 
 *   [Bayesian Network Repository](http://www.bnlearn.com/bnrepository/).
 *   [Enron Email Dataset](https://www.cs.cmu.edu/~enron/).
-*   [Gephi Datasets (⭐5.9k)](https://github.com/gephi/gephi/wiki/Datasets).
+*   [Gephi Datasets (⭐6k)](https://github.com/gephi/gephi/wiki/Datasets).
 *   [International Currencies 1890-1910](http://eh.net/database/international-currencies-1890-1910/) - Historical data on the international connections between 45 currencies.
 *   [Pajek Datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/).
 *   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
@@ -467,7 +467,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 ### Software / Algorithms
 
 *   [ForceAtlas2](https://gephi.wordpress.com/2011/06/06/forceatlas2-the-new-version-of-our-home-brew-layout/) - Force-directed layout included in Gephi ([paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679)).
-*   [weighted-modularity-LPAwbPLUS (⭐28)](https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS) - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
+*   [weighted-modularity-LPAwbPLUS (⭐29)](https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS) - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
 
 ### Software / C / C++
 
@@ -497,7 +497,7 @@ A collaborative book about R on the wikibooks website. Anyone can improve it.
 *   [networkdiffusion (⭐7)](https://github.com/chengjun/networkdiffusion) - Simulate and visualize basic epidemic diffusion in networks.
 *   [Rgraphviz](https://bioconductor.org/packages/release/bioc/html/Rgraphviz.html) - Support for using the Graphviz library and its DOT graph drawing language from within R.
 *   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
-*   [visNetwork (⭐545)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
+*   [visNetwork (⭐549)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 
 ### Software / Stata
 

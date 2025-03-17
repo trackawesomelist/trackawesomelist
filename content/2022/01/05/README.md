@@ -1,61 +1,51 @@
 # Awesome List Updates on Jan 05, 2022
 
-8 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
-
-### Official
-
-*   [EOS Network Foundation](https://www.eosn.foundation/)
-
-### Mandel
-
-*   [eosnetworkfoundation/mandel (⭐88)](https://github.com/eosnetworkfoundation/mandel) - Official GitHub.
-
-## [2. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
+## [1. Awesome Conversational Ai](/content/jyguyomarch/awesome-conversational-ai/README.md)
 
 ### Conversational UX
 
 *   [Creating AI Conversations Panel Series](https://www.youtube.com/playlist?list=PL_kEIZJfQ6lIALEhtaFYuIsPtzeKtJ4_h) - Creating AI Conversations is a series of panel discussions that delve into the thinking, research, and process around crafting the personalities, conversations, and interactions of AI entities with people. Organized by Stanford MediaX.
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Chemistry
 
-*   [MADNESS (⭐186)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐186)](https://github.com/m-a-d-n-e-s-s/madness)
+*   [MADNESS (⭐190)](https://github.com/m-a-d-n-e-s-s/madness) - Multiresolution Adaptive Numerical Environment for Scientific Simulation. \[GPL] [website (⭐190)](https://github.com/m-a-d-n-e-s-s/madness)
 *   [MPQC (⭐68)](https://github.com/ValeevGroup/mpqc) - The Massively Parallel Quantum Chemistry program, MPQC, computes properties of atoms and molecules from first principles using the time independent Schrödinger equation. \[GPL] [website](https://mpqc.org/)
 *   [ORCA](https://en.wikipedia.org/wiki/ORCA_\(quantum_chemistry_program\)) - An ab initio quantum chemistry program package that contains modern electronic structure methods. \[Academic] [website](https://orcaforum.kofo.mpg.de/)
 *   [Psi (⭐1k)](https://github.com/psi4/psi4) - An ab initio computational chemistry package. \[GPL] [website](https://psicode.org/)
 
-## [4. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
+## [3. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### IDEs / VSCode
 
 *   [Obsidian Labs/vscode-algorand (⭐12)](https://github.com/ObsidianLabs/vscode-algorand) - Algorand VS Code Extension.
 
-## [5. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+## [4. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ### Tools / Automatic translation for end users
 
 *   [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents.
 
-## [6. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [5. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / WARC I/O Libraries
 
 *   [Unwarcit (⭐10)](https://github.com/emmadickson/unwarcit) - Command line interface to unzip WARC and WACZ files (Python).
 
-## [7. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+## [6. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ### Automation
 
 *   [Automate.io](https://automate.io) - Connect your cloud apps.
 
-## [8. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
+## [7. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 
 ### Specific topics / Cryptanalysis
 

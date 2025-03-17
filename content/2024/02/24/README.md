@@ -16,7 +16,7 @@
 
 ### Utility / Mocking
 
-*   [JKScope (⭐13)](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin.
+*   [JKScope (⭐15)](https://github.com/evpl/jkscope) - Java scope functions inspired by Kotlin.
 
 ## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

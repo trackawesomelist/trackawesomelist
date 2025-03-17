@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 10 - Jul 16, 2017
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -27,8 +27,8 @@
 
 ### Other Awesome Projects
 
-*   [awesome (⭐345k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
-*   [nothings/single\_file\_libs (⭐9.1k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
+*   [awesome (⭐350k)](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+*   [nothings/single\_file\_libs (⭐9.2k)](https://github.com/nothings/single_file_libs) :zap: - List of single-file C/C++ libraries.
 
 ## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
@@ -100,7 +100,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [LDA.js (⭐292)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
+*   [LDA.js (⭐293)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
 *   [Node-SVM (⭐297)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 
 ### JavaScript / Misc
@@ -109,7 +109,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning Module (⭐465)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
+*   [Machine Learning Module (⭐468)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
 ## [10. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
@@ -212,7 +212,7 @@
 
 ### NewSQL Databases
 
-*   [Comdb2 (⭐1.2k)](https://github.com/bloomberg/comdb2) - a clustered RDBMS built on optimistic concurrency control techniques.
+*   [Comdb2 (⭐1.4k)](https://github.com/bloomberg/comdb2) - a clustered RDBMS built on optimistic concurrency control techniques.
 
 ## [17. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
@@ -220,7 +220,13 @@
 
 *   [Avoiding Entities in Forms](https://stovepipe.systems/post/avoiding-entities-in-forms) \[2016]
 
-## [18. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
+## [18. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### JavaScript / Node.js
+
+*   [Node Documentation](https://nodejs.org/en/docs/) (PDF)
+
+## [19. Awesome Learn Datascience](/content/siboehm/awesome-learn-datascience/week/README.md)
 
 ### Common Algorithms and Procedures
 
@@ -258,13 +264,13 @@
 *   [Data Science Python (⭐5.1k)](https://github.com/ujjwalkarn/DataSciencePython)
 *   [Machine Learning Tutorials (⭐15k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
-## [19. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [20. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Samples
 
 *   [GL\_vs\_VK (⭐82)](https://github.com/RippeR37/GL_vs_VK) - Comparison of OpenGL and Vulkan API in terms of performance. \[MIT]
 
-## [20. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [21. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Standalone / Hash functions
 
@@ -278,7 +284,7 @@
 
 *   [libsodium-laravel (⭐22)](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
 
-## [21. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [22. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Network Tools / Protocol Analyzers and Sniffers
 
@@ -292,7 +298,7 @@
 
 *   [Medusa (⭐1k)](https://github.com/wisk/medusa) - Open source, cross-platform interactive disassembler.
 
-## [22. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [23. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Converters
 
@@ -314,7 +320,7 @@
 
 *   [Crystal \[ANN\]](https://crystal-ann.com) - Announce new project, blog post, version update or any other Crystal work
 
-## [23. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Data Pipeline
 
@@ -324,13 +330,13 @@
 
 *   [jubos/fake-s3 :fire::fire::fire::fire::fire: (⭐2.9k)](https://github.com/jubos/fake-s3) - Lightweight S3 clone that simulates most commands.
 
-## [24. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [25. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Drivers
 
 *   [confluent-kafka-dotnet (⭐27)](https://github.com/confluentinc/confluent-kafka-dotnet) - Confluent's Apache Kafka .NET client.
 
-## [25. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
+## [26. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
 ### Syntax
 
@@ -338,13 +344,13 @@
 *   [Markdown](https://atom.io/packages/language-markdown)
 *   [Pug](https://atom.io/packages/language-pug)
 
-## [26. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [27. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Free Content / Commerical Tools
 
 *   [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - This course provides a broad introduction to machine learning and statistical pattern recognition.
 
-## [27. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [28. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### Animation
 
@@ -356,19 +362,19 @@
 
 
 
-## [28. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
+## [29. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
 ### Sample Applications / Miscellaneous
 
 *   [eta-2048 (⭐28)](https://github.com/rahulmutt/eta-2048) - The 2048 game written in Eta.
 
-## [29. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [30. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Software
 
 *   [Spin up PySpark and PySparkling on AWS (⭐8)](https://github.com/kcrandall/EMR_Spark_Automation)
 
-## [30. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [31. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Books
 
@@ -379,7 +385,7 @@
 
 *   [LearnPhoenix.tv](https://www.learnphoenix.tv/) - Learn how to build fast, dependable web apps with Phoenix.
 
-## [31. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
+## [32. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/week/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
@@ -387,7 +393,7 @@
 *   [Giving Feedback, Praise, and Advice](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/Giving-Feedback-Praise-and-Advice.md)
 *   [Motivation and “Retention”](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Motivation-Retention.md)
 
-## [32. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
+## [33. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
 ### Contents / Toolkits
 
@@ -397,7 +403,7 @@
 
 *   [Preact Render Spy (⭐178)](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 
-## [33. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Chart
 
@@ -405,24 +411,24 @@
 
 ### UI / Barcode
 
-*   [StepProgressView (⭐377)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
+*   [StepProgressView (⭐379)](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
 
 ### Button / Barcode
 
-*   [MultiToggleButton (⭐83)](https://github.com/yonat/MultiToggleButton) - A UIButton subclass that implements tap-to-toggle button text (like the camera flash and timer buttons).
+*   [MultiToggleButton (⭐84)](https://github.com/yonat/MultiToggleButton) - A UIButton subclass that implements tap-to-toggle button text (like the camera flash and timer buttons).
 
 ### Validation / Barcode
 
 *   [SwiftValidator (⭐1.4k)](https://github.com/SwiftValidatorCommunity/SwiftValidator) - A rule-based validation library.
 
-## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [35. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [Web development with Vue.js 2 (Video)](https://www.packtpub.com/web-development/web-development-vuejs-2-video) by Olga Filipova, Packt. (June 2017)
 *   [Build a realtime chart with VueJS and Pusher](https://blog.pusher.com/build-realtime-chart-with-vuejs-pusher/)
 
-## [35. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
+## [36. Awesome Design Principles](/content/robinstickel/awesome-design-principles/week/README.md)
 
 ### Principles within bigger Design Systems
 
@@ -432,13 +438,13 @@
 *   [Shopify Polaris Principles](https://polaris.shopify.com/principles/principles#app)
 *   [U.S. Web Design Principles](https://standards.usa.gov/design-principles/)
 
-## [36. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
+## [37. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
 
 ### Community Resources
 
 *   [Advanced Topics in Event Sourcing / CQRS / DDD (⭐107)](https://github.com/sebastianharko/adv-es-cqrs-ddd) - Advanced Topics in Event Sourcing / CQRS / DDD list compiled and maintaned by @[sebastianharko](https://github.com/sebastianharko).
 
-## [37. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [38. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -470,13 +476,13 @@
 
 
 
-## [38. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [39. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
 
 *   [GTFS.html](https://gtfs.pleasantprogrammer.com) - An entirely browser-based tool to view GTFS feeds. Use it to view routes, stops, timetables, etc.
 
-## [39. Guides](/content/NARKOZ/guides/week/README.md)
+## [40. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / API
 

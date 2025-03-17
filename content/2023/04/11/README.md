@@ -18,7 +18,7 @@
 
 ### Projects / Self-Service Integration
 
-*   [Microsoft Power Automate](https://powerautomate.microsoft.com) - This cloud-based service offers a user-friendly interface to create automated workflows seamlessly, integrating different applications and services with ease, simplifying complex tasks.
+*   [Microsoft Power Automate](https://powerautomate.microsoft.com) - Cloud-based service with an intuitive interface for creating automated workflows that seamlessly integrate diverse apps.
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

@@ -11,18 +11,18 @@
 ### Other LLM Frameworks / Videos Playlists
 
 *   [SuperAGI (⭐16k)](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social)
-*   [e2b (⭐7.4k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
+*   [e2b (⭐7.6k)](https://github.com/e2b-dev/e2b): Open-source platform for building & deploying virtual developers’ agents
 *   [SmartGPT (⭐1.8k)](https://github.com/Cormanz/smartgpt): A program that provides LLMs with the ability to complete complex tasks using plugins. ![GitHub Repo stars](https://img.shields.io/github/stars/Cormanz/smartgpt?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
-*   [TutorGPT (⭐775)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
+*   [TutorGPT (⭐783)](https://github.com/plastic-labs/tutor-gpt): Dynamic few-shot metaprompting for the task of tutoring. ![GitHub Repo stars](https://img.shields.io/github/stars/plastic-labs/tutor-gpt?style=social)
 
 ## [2. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Database / Text-Based User Interfaces
 
-*   [CosId (⭐482)](https://github.com/Ahoo-Wang/CosId) - Universal, flexible, high-performance distributed ID generator.
+*   [CosId (⭐530)](https://github.com/Ahoo-Wang/CosId) - Universal, flexible, high-performance distributed ID generator.
 
 ## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
@@ -72,10 +72,10 @@
 ### Components & Libraries / UI Utilities
 
 *   [vrf (⭐9)](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
-*   [vueginate (⭐5)](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
-*   [blottie (⭐11)](https://github.com/Applelo/blottie) Lottie component for Vue 3
-*   [TresJs (⭐2.4k)](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
-*   [Cientos (⭐308)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
+*   [vueginate (⭐7)](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
+*   [blottie (⭐13)](https://github.com/Applelo/blottie) Lottie component for Vue 3
+*   [TresJs (⭐2.7k)](https://github.com/tresjs/tres) - Declarative ThreeJS using Vue Components
+*   [Cientos (⭐324)](https://github.com/Tresjs/cientos) - Collection of useful helpers and fully functional, ready-made abstractions for TresJs
 
 ---
 

@@ -20,7 +20,7 @@
 
 ### Generic ZSH
 
-*   [zephyr (⭐139)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
+*   [zephyr (⭐150)](https://github.com/mattmc3/zephyr) - Zephyr uses built-in Zsh features to set up better default options, completions, keybindings, history, and much more.
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -44,14 +44,20 @@
 *   [Crossing The Chasm](https://www.barnesandnoble.com/w/crossing-the-chasm-3rd-edition-geoffrey-a-moore/1116092388?ean=9780062292988) - By Geoffrey A. Moore.
 *   [EMPOWERED: Ordinary People, Extraordinary Products](https://www.barnesandnoble.com/w/empowered-marty-cagan/1137059391?ean=9781119691297) - By Marty Cagan, Chris Jones.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### Communication / Collaboration and Team Tools
+
+*   [Wavebox](https://wavebox.io) - A revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
+
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Network programming
 
 *   Socket.io
-    *   [1c3t3a/rust-socketio (⭐437)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] - an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
+    *   [1c3t3a/rust-socketio (⭐441)](https://github.com/1c3t3a/rust-socketio) \[[rust\_socketio](https://crates.io/crates/rust_socketio)] - an implementation of a [socket.io](https://socket.io) client written in Rust. [![build badge](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml/badge.svg)](https://github.com/1c3t3a/rust-socketio/actions/workflows/build.yml)
 
-## [6. Awesome Plone](/content/collective/awesome-plone/README.md)
+## [7. Awesome Plone](/content/collective/awesome-plone/README.md)
 
 ### Layout
 
@@ -71,27 +77,17 @@
 *   [Plone 6 Documentation](https://6.dev-docs.plone.org/) - Official documentation for the upcoming Plone 6 (work on progress).
 *   [plone.api](https://6.dev-docs.plone.org/plone.api/index.html) - Documentation for plone.api.
 
-## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [8. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Podcasts / Others
 
 *   [ASP.NET, Blogging, Kuberetes, and more](https://unhandledexceptionpodcast.com/posts/0036-andrewlock/) - May 10, 2022 - The Unhandled Exception Podcast with Andrew Lock (andrewlock.net). He’s the author of the Manning ebook, ASP.NET Core in Action, Second Edition. This episode covers a lot - from the different flavours of ASP.NET, to Kubernetes, Blazor, gRPC, testing, Minimal API, MediatR and more.
 
-## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [thefuck (⭐89k)](https://github.com/nvbn/thefuck) - A interesting software that corrects errors in previous console commands. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nvbn/thefuck)
-
-### Communication / Collaboration and Team Tools
-
-*   [Wavebox](https://wavebox.io) - A revolutionary and feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
-
 ## [9. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [@modyfi/vite-plugin-yaml (⭐78)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
+*   [@modyfi/vite-plugin-yaml (⭐81)](https://github.com/Modyfi/vite-plugin-yaml) - Transform YAML files to ESM with schema validation and error reporting.
 
 ---
 

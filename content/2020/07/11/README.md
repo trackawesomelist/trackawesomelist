@@ -16,7 +16,7 @@
 
 ### Libraries / Authentication
 
-*   [oauth2 (⭐967)](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed OAuth2 client library
+*   [oauth2 (⭐987)](https://github.com/ramosbugs/oauth2-rs) - Extensible, strongly-typed OAuth2 client library
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-lumino (⭐86)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
+*   [vue-lumino (⭐85)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

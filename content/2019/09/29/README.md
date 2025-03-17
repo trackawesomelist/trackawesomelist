@@ -69,7 +69,7 @@
 
 ## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### Community / Interfaces to other package managers
+### Interfaces to other package managers
 
 *   [dh-quicklisp-buildapp (⭐7)](https://github.com/ralt/dh-quicklisp-buildapp) - debhelper utility to let you compile your quicklisp-based Common Lisp code into a buildapp binary in a .deb with almost no effort. [MIT](https://opensource.org/licenses/MIT).
 

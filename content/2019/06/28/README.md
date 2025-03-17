@@ -10,7 +10,7 @@
 
 ### Code Analysis and Metrics
 
-*   [Sorbet (⭐3.6k)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
+*   [Sorbet (⭐3.7k)](https://github.com/sorbet/sorbet) - A static type checker for Ruby.
 
 ## [2. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 
@@ -97,7 +97,7 @@
 
 ### UI / Barcode
 
-*   [MultiSlider (⭐492)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+*   [MultiSlider (⭐495)](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
 
 ### Button / Barcode
 

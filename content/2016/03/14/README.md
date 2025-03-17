@@ -69,7 +69,7 @@
 
 ### Table of Contents / Dependency Injection
 
-*   [Auryn (⭐725)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
+*   [Auryn (⭐723)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 
 ## [9. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 

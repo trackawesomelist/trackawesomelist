@@ -37,9 +37,9 @@
 
 ## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / Test Data Management
 
-*   [Synth (⭐1.4k)](https://github.com/getsynth/synth) - Open Source test data generator.
+*   [Synth (⭐1.4k)](https://github.com/getsynth/synth) - Open-source test data generator.
 
 ## [6. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -77,7 +77,7 @@
 
 ### Snippet / Diagnostics
 
-*   [L3MON4D3/LuaSnip (⭐3.6k)](https://github.com/L3MON4D3/LuaSnip) - A snippet engine written in Lua.
+*   [L3MON4D3/LuaSnip (⭐3.7k)](https://github.com/L3MON4D3/LuaSnip) - A snippet engine written in Lua.
 
 ### Color / Diagnostics
 
@@ -89,7 +89,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [nacro90/numb.nvim (⭐674)](https://github.com/nacro90/numb.nvim) - Peek lines in a non-obtrusive way.
+*   [nacro90/numb.nvim (⭐716)](https://github.com/nacro90/numb.nvim) - Peek lines in a non-obtrusive way.
 
 ### Formatting / Diagnostics
 

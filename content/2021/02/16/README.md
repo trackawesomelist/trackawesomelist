@@ -10,7 +10,7 @@
 
 ### Types / Playground
 
-*   [typetype (⭐418)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
+*   [typetype (⭐419)](https://github.com/mistlog/typetype) - A programming language designed for typescript type generation
 
 ## [2. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
@@ -51,7 +51,7 @@
 
 ### Templating
 
-*   [temple (⭐487)](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
+*   [temple](https://github.com/mhanberg/temple) - An HTML DSL for Elixir and Phoenix.
 
 ### Text and Numbers
 
@@ -76,7 +76,7 @@
 
 ### Applications / Audio and Music
 
-*   [ncspot (⭐5.2k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/workflows/Build/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild)
+*   [ncspot (⭐5.3k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/actions/workflows/ci.yml/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild)
 
 ## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

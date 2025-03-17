@@ -16,7 +16,7 @@
 
 ### 2D / Godot 3
 
-*   [Everplast (⭐74)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
+*   [Everplast (⭐75)](https://github.com/WraithWinterly/Everplast) - Unique 2D platforming experience filled with rage, rush, speed, and spray.
 
 ## [3. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Examples
 
-*   [amplication/amplication (⭐15k)](https://github.com/amplication/amplication#readme) - Clear project logo. Brief explanation. All features explained. Clean documentation. Useful links (website, docs, discord). List of contributors with their pictures and usernames.
+*   [amplication/amplication (⭐16k)](https://github.com/amplication/amplication#readme) - Clear project logo. Brief explanation. All features explained. Clean documentation. Useful links (website, docs, discord). List of contributors with their pictures and usernames.
 
 ## [5. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 

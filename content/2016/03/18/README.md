@@ -8,7 +8,7 @@
 
 ## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Hardware
+### Hardware / Rust
 
 *   [Bus Tracking GPS (⭐31)](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
 

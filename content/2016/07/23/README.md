@@ -32,7 +32,6 @@
 
 ### Third Party APIs
 
-*   [airbax (⭐5)](https://github.com/adjust/airbax) - Exception tracking from Elixir to Airbrake.
 *   [diplomat (⭐94)](https://github.com/peburrows/diplomat) - A [Google Cloud Datastore](https://cloud.google.com/datastore/) client.
 
 ## [3. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)

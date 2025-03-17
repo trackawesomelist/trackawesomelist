@@ -62,7 +62,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Neuraxle (⭐610)](https://github.com/Neuraxio/Neuraxle): A framework providing the right abstractions to ease research, development, and deployment of your ML pipelines.
+*   [Neuraxle (⭐609)](https://github.com/Neuraxio/Neuraxle): A framework providing the right abstractions to ease research, development, and deployment of your ML pipelines.
 
 ---
 

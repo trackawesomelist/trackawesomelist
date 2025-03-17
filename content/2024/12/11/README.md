@@ -20,7 +20,7 @@
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@TanStack/form (⭐4k)](https://github.com/TanStack/form) - Designed with first-class TypeScript support, headless UI components, and a framework-agnostic design, it streamlines form handling and ensures a seamless experience across various front-end frameworks.
+*   [@TanStack/form (⭐4.1k)](https://github.com/TanStack/form) - Designed with first-class TypeScript support, headless UI components, and a framework-agnostic design, it streamlines form handling and ensures a seamless experience across various front-end frameworks.
 
 ### Images / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -30,7 +30,7 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [nvim-java/nvim-java (⭐1k)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
+*   [nvim-java/nvim-java (⭐1.1k)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
 
 ## [4. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-h3 (⭐42)](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
+*   [polars-h3 (⭐52)](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
 
 ## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -54,30 +54,19 @@
 
 ### Tools
 
-*   [rope (⭐6)](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
-
-### Iteration
-
-*   [cl-transducers](https://codeberg.org/fosskers/cl-transducers) - Ergonomic, efficient data processing. [LGPL3](https://www.gnu.org/licenses/lgpl-3.0.en.html). ([GitHub mirror (⭐117)](https://github.com/fosskers/cl-transducers))
-    *   "Transducers are an ergonomic and extremely memory-efficient way to process a data source. Here “data source” means simple collections like Lists or Vectors, but also potentially large files or generators of infinite data."
-    *   "It is, in general, the most complete implementation of the Transducer pattern."
-    *   a "modern" API with `map`, `filter`, `take`, `repeat`, `cycle`, `fold`…
+*   [rope (⭐7)](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Date and time
 
-*   [burntSushi/jiff (⭐1.9k)](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. [![Build status](https://github.com/BurntSushi/jiff/workflows/ci/badge.svg)](https://github.com/BurntSushi/jiff/actions)
+*   [burntSushi/jiff (⭐2.1k)](https://github.com/BurntSushi/jiff) - A date-time library for Rust that encourages you to jump into the pit of success. [![Build status](https://github.com/BurntSushi/jiff/workflows/ci/badge.svg)](https://github.com/BurntSushi/jiff/actions)
 
 ## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
-### Projects / Integration Frameworks
-
-*   [Apache Camel (⭐5.6k) (⭐5.7k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
-
 ### Projects / Messaging
 
-*   [Apache Kafka (⭐29k) (⭐29k)](https://github.com/apache/kafka) - A distributed messaging system designed for high-throughput and fault-tolerance. Enables real-time data processing and stream processing applications with its distributed architecture and efficient data storage.
+*   [Apache Kafka (⭐29k) (⭐30k)](https://github.com/apache/kafka) - Distributed, high-throughput system designed for real-time data streaming and fault-tolerant processing.
 
 ## [10. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -90,7 +79,7 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [NobodyWho (⭐180)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
+*   [NobodyWho (⭐260)](https://github.com/nobodywho-ooo/nobodywho) - Local large language models (LLMs) for "AI-powered" NPC dialogue.
 
 ## [12. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 

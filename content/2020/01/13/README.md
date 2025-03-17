@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 13, 2020
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,13 +12,19 @@
 
 *   [hosts-blocklists (⭐2k)](https://github.com/notracking/hosts-blocklists) - A host and domainname based blocklist specifically designed for use with dnsmasq.
 
-## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Spring Data
+
+*   [Spring Data Reference](https://docs.spring.io/spring-data/jpa/docs/current/reference/html) - Oliver Gierke, Thomas Darimont, Christoph Strobl, Mark Paluch, Jay Bryant
+
+## [3. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Testing
 
 *   [FluentAssertions (⭐3.7k)](https://github.com/fluentassertions/fluentassertions) - Set of .NET extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style test.
 
-## [3. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+## [4. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ### Frameworks
 
@@ -36,7 +42,7 @@
 *   Create a pull request on the official repo.
 *   Once accepted, repeat by merging from the official repo to your fork's master, and re-branch.
 
-## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Broker
 
@@ -59,7 +65,7 @@
 *   [Sonoff-Tasmota (⭐19k)](https://github.com/arendst/Tasmota) - Firmware for ESP8266 devices with web-based configuration. ≈500 devices supported (not only Sonoffs).
 *   [WiFi-IoT](https://wifi-iot.com/p/wiki/) - ESP8266/ESP32 firmware builder. Partly in Russian. Free features are limited.
 
-## [5. Awesome V](/content/vlang/awesome-v/README.md)
+## [6. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Command line interface (CLI) / Terminal / Shell
 
@@ -71,10 +77,10 @@
 
 ### User Interface toolkits
 
-*   [vig (⭐55)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐63k)](https://github.com/ocornut/imgui) GUI toolkit.
-*   [vnk (⭐50)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
+*   [vig (⭐55)](https://github.com/nsauzede/vig) - Bindings for [Dear ImGui (⭐64k)](https://github.com/ocornut/imgui) GUI toolkit.
+*   [vnk (⭐53)](https://github.com/nsauzede/vnk) - Bindings for [Nuklear (⭐14k)](https://github.com/vurtun/nuklear) GUI toolkit.
 
-## [6. Awesome Python](/content/vinta/awesome-python/README.md)
+## [7. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Email
 
@@ -101,21 +107,21 @@
 
 *   [requests-html (⭐14k)](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans.
 
-## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [8. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### Documentaries / Third Party Hosts
 
 *   [Documentary Addict](https://documentaryaddict.com/) A website which scrapes Youtube for documentaries
 *   [iHaveNoTv](https://ihavenotv.com/) Community managed documentary collection
 
-## [8. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+## [9. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ### Books / Utilities
 
 *   [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) - By Sai Matam and Jagdeep Jain ([Leanpub](https://leanpub.com/jmeterbyexample)); a simple, practical, step-by-step tutorial to measure the performance of websites.
 *   [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) - By Penny Curich ([Leanpub](https://leanpub.com/advanced_jmeter_testing)), guide to write custom components for Apache JMeter 5.0.
 
-## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [10. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Reading
 
@@ -140,17 +146,17 @@
 
 *   [Mapping Practice Papers](https://leadingedgeforum.com/research/?term=mapping\&type=Position+Paper) - A series of position papers published by the Leading Edge Forum. Jun 13, 2018 - Jan 28, 2019.
 
-## [10. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [11. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### System Deployment
 
-*   [Linkis (⭐3.1k)](https://github.com/WeBankFinTech/Linkis) - Linkis helps easily connect to various back-end computation/storage engines.
+*   [Linkis (⭐3.3k)](https://github.com/WeBankFinTech/Linkis) - Linkis helps easily connect to various back-end computation/storage engines.
 
 ### Data Visualization
 
-*   [DataSphere Studio (⭐2.6k)](https://github.com/WeBankFinTech/DataSphereStudio) - one-stop data application development management portal.
+*   [DataSphere Studio (⭐3.1k)](https://github.com/WeBankFinTech/DataSphereStudio) - one-stop data application development management portal.
 
-## [11. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [12. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Open source / GPL (no linking exception)
 
@@ -160,7 +166,7 @@
 
 *   [havk (⭐26)](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
 
-## [12. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [13. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Utility / Semantic Versioning
 
@@ -171,7 +177,7 @@
 *   [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR (⭐274)](https://github.com/wemake-services/dotenv-linter)
 *   [Run dotenv-linter, with reviewdog output on the PR (⭐15)](https://github.com/mgrachev/action-dotenv-linter)
 
-## [13. Awesome Coq](/content/coq-community/awesome-coq/README.md)
+## [14. Awesome Coq](/content/coq-community/awesome-coq/README.md)
 
 ### Projects / Libraries
 
@@ -207,20 +213,20 @@
 *   [Lemma Overloading (⭐27)](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
 *   [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
 
-## [14. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
+## [15. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 
 ### USA / San Francisco
 
 *   [CODAME ART+TECH Festival](http://codame.com/events/art-tech-festival-2019-space) - Explores the manifold dimensions of SPACE with an incredible lineup schedule, including nightlife installations and performances, a variety of workshops, and community gathering art+tech salon to close off the Festival. **(October)**
 
-## [15. Awesome Elm](/content/sporto/awesome-elm/README.md)
+## [16. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
 ### Libraries / Individual Podcast episodes
 
 *   [Elm packages](https://package.elm-lang.org/) - The official registry
 *   [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
 
-## [16. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
+## [17. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md)
 
 ### Browser Features
 

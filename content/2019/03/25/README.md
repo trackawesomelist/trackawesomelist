@@ -118,11 +118,11 @@
 
 ### General Section / Svelte
 
-*   [Programming Digest](https://programmingdigest.net/). A weekly newsletter for software engineers featuring top 5 links. [Archive](https://programmingdigest.net/digests).
+*   [Programming Digest](https://programmingdigest.net/). A carefully curated weekly newsletter for software engineers.
 
 ### C# / Svelte
 
-*   [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
+*   [C# Digest](https://csharpdigest.net/). A carefully curated weekly newsletter for .NET developers.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Money
 
-*   [Monetize (⭐433)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
+*   [Monetize (⭐435)](https://github.com/RubyMoney/monetize) - A library for converting various objects into Money objects.
 
 ## [2. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 

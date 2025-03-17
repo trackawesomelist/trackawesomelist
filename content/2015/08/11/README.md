@@ -10,7 +10,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [react-native (⭐118k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
+*   [react-native (⭐121k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
 
 ## [2. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -77,7 +77,7 @@ Investing more time and personnel to develop secure software is, for most compan
 
 **Released**: August 2, 2015
 
-Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library (⭐3.5k)](https://github.com/defuse/php-encryption), or OpenSSL.
+Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library (⭐3.8k)](https://github.com/defuse/php-encryption), or OpenSSL.
 
 ### Books and ebooks
 
@@ -99,7 +99,7 @@ A community-maintained Wiki detailing secure coding standards for Java programmi
 
 ### Useful libraries
 
-### [paragonie/random\_compat (⭐8k)](https://github.com/paragonie/random_compat)
+### [paragonie/random\_compat (⭐8.2k)](https://github.com/paragonie/random_compat)
 
 PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
 ### [psecio/gatekeeper (⭐365)](https://github.com/psecio/gatekeeper)

@@ -424,7 +424,7 @@
 
 ### Querying / Symfony2
 
-*   [httpie (⭐34k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
+*   [httpie (⭐35k)](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
 
 ## [15. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

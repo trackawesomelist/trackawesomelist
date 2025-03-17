@@ -22,50 +22,49 @@
 
 ### Object-Oriented Programming
 
-*   [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** \[27:29]
+*   [Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes) by **Jack Diederich** (PyCon US 2012) \[27:29]
 
 ### Functional Programming
 
-*   [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** \[51:13]
-*   [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** \[50:34]
-*   [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) by **Gilad Bracha** \[48:33]
-*   [Living in a Post-Functional World](http://www.infoq.com/presentations/post-functional-scala-clojure-haskell) by **Daniel Spiewak** \[45:46]
-*   [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) by **Conal Elliott** \[56:24]
-*   [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) by **Phillip Wadler** \[1:06:53]
+*   [Functional Principles for Object-Oriented Developers](http://www.youtube.com/watch?v=pMGY9ViIGNU) by **Jessica Kerr** (JDD Conference 2013) \[51:13]
+*   [Adventures in Functional Programming](https://vimeo.com/45140590) by **Jim Weirich** (ScotlandJS 2012) \[50:34]
+*   [Deconstructing Functional Programming](http://www.infoq.com/presentations/functional-pros-cons) by **Gilad Bracha** (QCon 2013) \[48:33]
+*   [Living in a Post-Functional World](http://www.infoq.com/presentations/post-functional-scala-clojure-haskell) by **Daniel Spiewak** (Lambda Jam 2013) \[45:46]
+*   [Tangible Functional Programming](https://www.youtube.com/watch?v=faJ8N0giqzw) by **Conal Elliott** (Google TechTalks 2007) \[56:24]
+*   [Faith, Evolution, and Programming Languages](https://www.youtube.com/watch?v=8frGknO8rIg) by **Phillip Wadler** (Google TechTalks 2007) \[1:06:53]
 
 ### Software Design
 
-*   [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** \[58:48]
-*   [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans** \[54:40]
-*   [Reliability, Availability, and Scalability](https://vimeo.com/6222577) by **Udi Dahan** \[1:11:09]
-*   [Implementing Micro Service Architectures](https://vimeo.com/79866979) by **Fred George** \[54:40]
-*   [Immutability Changes Everything](http://vimeo.com/52831373) by **Pat Helland** \[45:19]
-*   [Crafting Wicked Domain Models](https://vimeo.com/43598193) by **Jimmy Bogard** \[1:03:03]
-*   [The Actor Model](http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask) by **Hewitt, Meijer and Szyperski** \[42:34]
-*   [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch** \[1:00:18]
-*   [The Joys and Pains of a Long Lived Codebase](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller) by **Jeremy D Miller** \[1:02:30]
+*   [DDD: putting the model to work](http://www.infoq.com/presentations/model-to-work-evans) by **Eric Evans** (JAOO 2007) \[58:48]
+*   [Strategic Design](http://www.infoq.com/presentations/strategic-design-evans) by **Eric Evans** (JAOO 2007) \[54:40]
+*   [Reliability, Availability, and Scalability](https://vimeo.com/6222577) by **Udi Dahan** (IASA 2008) \[1:11:09]
+*   [Implementing Micro Service Architectures](https://vimeo.com/79866979) by **Fred George** (Øredev 2013) \[54:40]
+*   [Immutability Changes Everything](http://vimeo.com/52831373) by **Pat Helland** (RICON 2012) \[45:19]
+*   [Crafting Wicked Domain Models](https://vimeo.com/43598193) by **Jimmy Bogard** (NDC 2012) \[1:03:03]
+*   [How To Design A Good API and Why it Matters](http://www.youtube.com/watch?v=aAb7hSCtvGw) by **Josh Bloch** (Google TechTalks 2007) \[1:00:18]
+*   [The Joys and Pains of a Long Lived Codebase](http://www.infoq.com/presentations/Lessons-Learned-Jeremy-Miller) by **Jeremy D Miller** (QCon 2009) \[1:02:30]
 
 ### Web Development
 
-*   [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** \[49:06]
-*   [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** \[4:17]
-*   [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt** \[29:22]
-*   [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf** \[36:30]
-*   [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams** \[21:39]
-*   [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams** \[27:25]
-*   [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** \[41:42]
+*   [Go To There and Back Again](http://vimeo.com/78893726) by **Douglas Crockford** (Øredev 2013) \[49:06]
+*   [WAT](https://www.destroyallsoftware.com/talks/wat) by **Gary Bernhardt** (CodeMash 2012) \[4:17]
+*   [The Birth & Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt** (PyCon 2014) \[29:22]
+*   [Hey Underscore, You're Doing It Wrong!](http://www.youtube.com/watch?v=m3svKOdZijA) by **Brian Lonsdorf** (HTML5 Dev Conf 2015) \[36:30]
+*   [Community.js](https://www.youtube.com/watch?v=23Yxji-tEfc) by **Chris Williams** (JSConfEU 2010) \[21:39]
+*   [An End to Negativity](https://www.youtube.com/watch?v=17rkSdkc5TI) by **Chris Williams** (JSConfEU 2011) \[27:25]
+*   [Is Node.js Better](https://www.youtube.com/watch?v=C5fa1LZYodQ) by **Brian Ford** (JSConf 2012) \[41:42]
 
 ### Test-Driven Development
 
-*   [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper** \[1:00:37]
-*   [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard** \[1:00:33]
-*   [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** \[33:44]
+*   [TDD, where did it all go wrong](http://vimeo.com/68375232) by **Ian Cooper** (NDC 2013) \[1:00:37]
+*   [Holistic testing](http://vimeo.com/68390508) by **Jimmy Bogard** (NDC 2013) \[1:00:33]
+*   [Boundaries](https://www.destroyallsoftware.com/talks/boundaries) by **Gary Bernhardt** (SCNA 2012) \[33:44]
 
 ### Methodologies
 
-*   [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin** \[45:41]
-*   [Spotify Engineering Culture - Part 1](https://vimeo.com/85490944) by **Spotify Training & Development** \[13:12]
-*   [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble** \[47:22]
+*   [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) by **Robert C. Martin** (NDC 2011) \[45:41]
+*   [Spotify Engineering Culture - Part 1](https://vimeo.com/85490944) by **Spotify Training & Development** (Spotify 2014) \[13:12]
+*   [Adopting Continuous Delivery](http://vimeo.com/68320415) by **Jez Humble** (NDC 2013) \[47:22]
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 

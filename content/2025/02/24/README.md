@@ -62,17 +62,26 @@
 
 *   [LÖVE Game Development & Automated Build System (⭐18)](https://github.com/Oval-Tutu/bootstrap-love2d-project) - Preconfigured VSCode/Codium. Build for Android, iOS, HTML5, Linux, macOS and Windows and automatically publish to Itch.io.
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [iconic (⭐6)](https://github.com/nginf/iconic) - Angular library to provide components of open-source icon libraries.
-
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Marks / Diagnostics
 
 *   [francescarpi/buffon.nvim (⭐4)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
+
+## [5. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+
+### Index / AI
+
+*   [Hopsworks](https://hopsworks.ai) 🇸🇪 - AI Lakehouse and MLOps Platform. To Develop, Monitor and Maintain AI Systems.
+
+### Index / Cybersecurity
+
+*   [ESET](https://www.eset.com/) 🇸🇰 - Cybersecurity and antivirus software company.
+
+### Index / FinTech
+
+*   [Monzo](https://monzo.com/) 🇬🇧 - Digital bank.
+*   [Scalable Capital](https://scalable.capital/) 🇩🇪 - Fintech company specializing in digital wealth management and brokerage services.
 
 ## [6. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
@@ -95,19 +104,20 @@
 
 ### Libraries / Reverse engineering
 
-*   [objdiff (⭐150)](https://github.com/encounter/objdiff) - A local diffing tool for decompilation projects
+*   [objdiff (⭐157)](https://github.com/encounter/objdiff) - A local diffing tool for decompilation projects
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [histree (⭐1)](https://github.com/fuba/histree-zsh) - Integrates with [histree-core (⭐3)](https://github.com/fuba/histree-core) to provide enhanced command history logging with directory awareness.
-*   [smart-files (⭐2)](https://github.com/vxfemboy/zsh-smart-files) - Enhances CLI by providing visual feedback for file paths and automatically creating directories when needed. It highlights paths in different colors based on their status (existing, new, or permission-denied) and handles directory creation automatically.
+*   [histree (⭐4)](https://github.com/fuba/histree-zsh) - Integrates with [histree-core (⭐9)](https://github.com/fuba/histree-core) to provide enhanced command history logging with directory awareness.
+*   [smart-files (⭐3)](https://github.com/vxfemboy/zsh-smart-files) - Enhances CLI by providing visual feedback for file paths and automatically creating directories when needed. It highlights paths in different colors based on their status (existing, new, or permission-denied) and handles directory creation automatically.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [pbsegments (⭐0)](https://github.com/pbarovsky/pbsegments) -A  minimal and visually appealing custom theme for [oh-my-zsh (⭐176k)](https://github.com/ohmyzsh/ohmyzsh). It features a clean, segment-based prompt, optimized for readability and usability. Includes decorators for `git` status, current directory and username.
+*   [pbsegments (⭐0)](https://github.com/pbarovsky/pbsegments) -A  minimal and visually appealing custom theme for [oh-my-zsh (⭐177k)](https://github.com/ohmyzsh/ohmyzsh). It features a clean, segment-based prompt, optimized for readability and usability. Includes decorators for `git` status, current directory and username.
 
 ---
 
+- Prev: [Feb 25, 2025](/content/2025/02/25/README.md)
 - Next: [Feb 23, 2025](/content/2025/02/23/README.md)

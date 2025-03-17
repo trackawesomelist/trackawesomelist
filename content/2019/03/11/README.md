@@ -47,7 +47,7 @@
 
 ### Utilities / Game Engine resources
 
-*   [FVM (⭐4.7k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+*   [FVM (⭐4.9k)](https://github.com/leoafarias/fvm) <!--stargazers:leoafarias/fvm--> - Flutter Version Management: A simple cli to manage Flutter SDK versions.
 
 ## [8. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -57,7 +57,7 @@
 
 ## [9. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### People / Twitter
+### People / Socials
 
 *   [Sander Mak](https://twitter.com/Sander_Mak) - Java Champion, author.
 
@@ -65,11 +65,11 @@
 
 ### Animation, Graphics & Video Playout
 
-*   [Sofie - TV Automation (⭐331)](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
+*   [Sofie - TV Automation (⭐336)](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
 
 ### Monitoring & Quality Control
 
-*   [Pi Audio Monitor (⭐147)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
+*   [Pi Audio Monitor (⭐153)](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
 
 ## [11. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

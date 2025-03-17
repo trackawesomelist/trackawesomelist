@@ -22,8 +22,8 @@
 
 ### Misc / Other
 
-*   [willianjusten/awesome-svg (⭐4.5k)](https://github.com/willianjusten/awesome-svg)
-*   [davidsonfellipe/awesome-wpo (⭐8.3k)](https://github.com/davidsonfellipe/awesome-wpo)
+*   [willianjusten/awesome-svg (⭐4.6k)](https://github.com/willianjusten/awesome-svg)
+*   [davidsonfellipe/awesome-wpo (⭐8.5k)](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

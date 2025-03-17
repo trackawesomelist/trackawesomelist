@@ -32,7 +32,7 @@
 
 ### UI / Barcode
 
-*   [Family (⭐250)](https://github.com/zenangst/Family) - A child view controller framework that makes setting up your parent controllers as easy as pie.
+*   [Family (⭐249)](https://github.com/zenangst/Family) - A child view controller framework that makes setting up your parent controllers as easy as pie.
 
 ### Utility / Barcode
 
@@ -66,7 +66,7 @@
 
 ## [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Blogs / Other
+### Blogs / Mind Mapping & Documentation
 
 *   [James Bach](http://www.satisfice.com/blog/)
 *   [Michael Bolton](http://www.developsense.com/blog/)

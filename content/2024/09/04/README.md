@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 04, 2024
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,11 +42,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [qaptoR-nvim/chocolatier.nvim (⭐14)](https://github.com/qaptoR-nvim/chocolatier.nvim) - An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.
+*   [qaptoR-nvim/chocolatier.nvim (⭐17)](https://github.com/qaptoR-nvim/chocolatier.nvim) - An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [OXY2DEV/helpview.nvim (⭐228)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
+*   [OXY2DEV/helpview.nvim (⭐321)](https://github.com/OXY2DEV/helpview.nvim) - A hackable & fancy `vimdoc/help` file viewer.
 
 ## [6. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Table of Contents / Files
 
-*   [Parquet (⭐29)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
+*   [Parquet (⭐31)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -84,7 +84,7 @@
 
 *   Zenoh
     *   [eclipse-zenoh-flow/zenoh-flow (⭐96)](https://github.com/eclipse-zenoh-flow/zenoh-flow) - A declarative framework for computations that span from the *Cloud* to the *Thing*
-    *   [eclipse-zenoh/zenoh (⭐1.6k)](https://github.com/eclipse-zenoh/zenoh) - Zero Overhead Network Protocol
+    *   [eclipse-zenoh/zenoh (⭐1.7k)](https://github.com/eclipse-zenoh/zenoh) - Zero Overhead Network Protocol
 
 ## [10. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -96,7 +96,7 @@
 
 ### Network & Storage Testing
 
-*   [Examples of SMPTE ST 2110 pcap files (⭐19)](https://github.com/NEOAdvancedTechnology/ST2110_pcap_zoo)
+*   [Examples of SMPTE ST 2110 pcap files (⭐22)](https://github.com/NEOAdvancedTechnology/ST2110_pcap_zoo)
 
 ## [12. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -131,7 +131,13 @@
 *   Use concurrency to design efficient software
 *   Use Go tools to simplify development and improve your code
 
-## [15. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### PHP / Drupal
+
+*   [Drupal at your Fingertips](https://selwynpolit.github.io/d9book/) - Selwyn Polit, Drupal Community Contributors
+
+## [16. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Data Ingestion
 

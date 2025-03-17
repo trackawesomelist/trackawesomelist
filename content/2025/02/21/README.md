@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 21, 2025
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,7 +16,7 @@
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-meta-pixel (⭐0)](https://github.com/Szymonexis/ngx-meta-pixel) - This package enables you to setup [Meta Pixel](https://www.facebook.com/business/tools/meta-pixel) for your Angular application.
+*   [ngx-meta-pixel (⭐2)](https://github.com/Szymonexis/ngx-meta-pixel) - This package enables you to setup [Meta Pixel](https://www.facebook.com/business/tools/meta-pixel) for your Angular application.
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -26,13 +26,23 @@
 
 ### AI / Diagnostics
 
-*   [claudius.nvim (⭐2)](https://github.com/StanAngeloff/claudius.nvim) - Text-based interface for chatting with Claude AI directly in your buffer.
+*   [claudius.nvim (⭐9)](https://github.com/StanAngeloff/claudius.nvim) - Text-based interface for chatting with Claude AI directly in your buffer.
 
 ### Utility / Diagnostics
 
-*   [josephburgess/nvumi (⭐20)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
+*   [josephburgess/nvumi (⭐39)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
 
-## [4. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
+## [4. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+
+### Index / AI
+
+*   [ZenML](https://zenml.io/) 🇩🇪 - Production-Grade MLOps Systems, handling evaluation, monitoring, and deployment at scale.
+
+### Index / Gaming Projects
+
+*   [Ubisoft](https://store.ubisoft.com/) 🇫🇷 - Official digital store for Ubisoft games.
+
+## [5. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
 
 ### Videos / Golang - Community
 
@@ -48,31 +58,31 @@
 
 *   [Extracting structured data from PDFs using Gemini 2.0 and Genkit](https://firebase.blog/posts/2025/02/gemini-genkit-pdf-structured-data) - Learn how to extract structured data from PDFs using Gemini 2.0 and Genkit 1.0.
 
-## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Tools / Low-code
 
 *   [Flock (⭐222)](https://github.com/Onelevenvy/flock): Flock is a workflow-based low-code platform for rapidly building chatbots, RAG, and coordinating multi-agent teams![GitHub Repo stars](https://img.shields.io/github/stars/Onelevenvy/flock?style=social)
 
-## [6. Awesome Go](/content/avelino/awesome-go/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [aptly (⭐2.6k)](https://github.com/aptly-dev/aptly) - aptly is a Debian repository management tool.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Tools for Teams and Collaboration
 
 *   [Huly](https://huly.io/) - All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) - unlimited users, 10GB storage per workspace, 10GB video(audio) traffic.
 
-## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+## [9. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
-### IO Games
+### Games / IO Games
 
 *   [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
 
-## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Cloud Data Warehousing / Playground
 
@@ -84,4 +94,5 @@
 
 ---
 
+- Prev: [Feb 22, 2025](/content/2025/02/22/README.md)
 - Next: [Feb 20, 2025](/content/2025/02/20/README.md)

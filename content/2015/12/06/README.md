@@ -23,7 +23,7 @@
 
 ### Computer History
 
-*   [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** \[48:36]
+*   [The Charming Genius of the Apollo Guidance Computer](https://www.youtube.com/watch?v=xY45YE7ggng) by **Brian Troutwine** (Code Mesh 2015) \[48:36]
 
 ## [4. Guides](/content/NARKOZ/guides/README.md)
 

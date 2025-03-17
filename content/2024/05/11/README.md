@@ -10,7 +10,7 @@
 
 ### Configuration
 
-*   [bcl (⭐20)](https://github.com/wkhere/bcl) - BCL is a configuration language similar to HCL.
+*   [bcl (⭐22)](https://github.com/wkhere/bcl) - BCL is a configuration language similar to HCL.
 
 ### Continuous Integration
 
@@ -18,17 +18,17 @@
 
 ### Video
 
-*   [go-astiav (⭐427)](https://github.com/asticode/go-astiav) - Better C bindings for ffmpeg in GO.
+*   [go-astiav (⭐448)](https://github.com/asticode/go-astiav) - Better C bindings for ffmpeg in GO.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [go-size-analyzer (⭐1.4k)](https://github.com/Zxilly/go-size-analyzer) - Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build.
+*   [go-size-analyzer (⭐1.5k)](https://github.com/Zxilly/go-size-analyzer) - Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build.
 
 ## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [EasyTier (⭐2.5k)](https://github.com/EasyTier/EasyTier) - A simple, full-featured and decentralized mesh VPN with WireGuard support. [![crates.io](https://img.shields.io/crates/v/easytier)](https://crates.io/crates/easytier) [![GitHub actions](https://github.com/EasyTier/EasyTier/actions/workflows/core.yml/badge.svg)](https://github.com/EasyTier/EasyTier/actions/)[![GitHub actions](https://github.com/EasyTier/EasyTier/actions/workflows/gui.yml/badge.svg)](https://github.com/EasyTier/EasyTier/actions/)
+*   [EasyTier (⭐3k)](https://github.com/EasyTier/EasyTier) - A simple, full-featured and decentralized mesh VPN with WireGuard support. [![crates.io](https://img.shields.io/crates/v/easytier)](https://crates.io/crates/easytier) [![GitHub actions](https://github.com/EasyTier/EasyTier/actions/workflows/core.yml/badge.svg)](https://github.com/EasyTier/EasyTier/actions/)[![GitHub actions](https://github.com/EasyTier/EasyTier/actions/workflows/gui.yml/badge.svg)](https://github.com/EasyTier/EasyTier/actions/)
 
 ## [3. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 

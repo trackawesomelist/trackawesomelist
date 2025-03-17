@@ -10,7 +10,7 @@
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-reverse-geocode (⭐14)](https://github.com/MarcoGorelli/polars-reverse-geocode) - This plugin is an offline reverse geocoder for finding the closest city to a given (latitude, longitude) pair by [@MarcoGorelli](https://github.com/MarcoGorelli).
+*   [polars-reverse-geocode (⭐15)](https://github.com/MarcoGorelli/polars-reverse-geocode) - This plugin is an offline reverse geocoder for finding the closest city to a given (latitude, longitude) pair by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -32,11 +32,11 @@
 
 ### AI / Diagnostics
 
-*   [yetone/avante.nvim (⭐8.9k)](https://github.com/yetone/avante.nvim) - Chat with your code as if you are in Cursor AI IDE.
+*   [yetone/avante.nvim (⭐11k)](https://github.com/yetone/avante.nvim) - Chat with your code as if you are in Cursor AI IDE.
 
 ### Keybinding / Diagnostics
 
-*   [debugloop/layers.nvim (⭐45)](https://github.com/debugloop/layers.nvim) - Craft temporary keymap overlays and layered modes with ease.
+*   [debugloop/layers.nvim (⭐49)](https://github.com/debugloop/layers.nvim) - Craft temporary keymap overlays and layered modes with ease.
 
 ## [5. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Database Drivers
 
-*   [Trilogy (⭐714)](https://github.com/trilogy-libraries/trilogy) - A performance-oriented C library for MySQL-compatible databases.
+*   [Trilogy (⭐726)](https://github.com/trilogy-libraries/trilogy) - A performance-oriented C library for MySQL-compatible databases.
 
 ## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Prompt Engineering
 
-*   [Anthropic's Prompt Engineering Interactive Tutorial (⭐8.7k)](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
+*   [Anthropic's Prompt Engineering Interactive Tutorial (⭐9.5k)](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial)
 
 ## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

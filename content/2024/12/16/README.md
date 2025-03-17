@@ -10,7 +10,7 @@
 
 ### Sensors / Barometer - Air and Water Pressure
 
-*   [MicroPython-BMPxxx (⭐1)](https://github.com/bradcar/MicroPython_BMPxxx) - Driver for BMP585, BMP581, BMP390, BMP280 Bosch temperature/pressure sensors.
+*   [MicroPython-BMPxxx (⭐3)](https://github.com/bradcar/MicroPython_BMPxxx) - Driver for BMP585, BMP581, BMP390, BMP280 Bosch temperature/pressure sensors.
 
 ## [2. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -77,13 +77,13 @@
 
 ### Framework Components
 
-*   [phoenix\_storybook (⭐744)](https://github.com/phenixdigital/phoenix_storybook) - A pluggable storybook for your Phoenix components.
+*   [phoenix\_storybook (⭐752)](https://github.com/phenixdigital/phoenix_storybook) - A pluggable storybook for your Phoenix components.
 
 ## [5. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### Kotlin
 
-*   [Scribe-Android (⭐45)](https://github.com/scribe-org/Scribe-Android) *(label: good first issue)* <br> Android keyboards for language learners with translation, verb conjugation and more!
+*   [Scribe-Android (⭐53)](https://github.com/scribe-org/Scribe-Android) *(label: good first issue)* <br> Android keyboards for language learners with translation, verb conjugation and more!
 
 ## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

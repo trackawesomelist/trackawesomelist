@@ -10,7 +10,7 @@
 
 ### Data Ingestion
 
-*   [Skizze (⭐775)](https://github.com/skizzehq/skizze) - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
+*   [Skizze (⭐771)](https://github.com/skizzehq/skizze) - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.
 
 ## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

@@ -42,7 +42,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Audioserve (⭐741)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
+*   [Audioserve (⭐753)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
 
 ## [6. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
@@ -82,12 +82,12 @@
 ### Applications / Emulators
 
 *   NES
-    *   [koute/pinky (⭐783)](https://github.com/koute/pinky) - A NES emulator
-    *   [pcwalton/sprocketnes (⭐750)](https://github.com/pcwalton/sprocketnes) - A NES emulator
+    *   [koute/pinky (⭐786)](https://github.com/koute/pinky) - A NES emulator
+    *   [pcwalton/sprocketnes (⭐749)](https://github.com/pcwalton/sprocketnes) - A NES emulator
 
 ### Applications / Text editors
 
-*   [mathall/rim (⭐611)](https://github.com/mathall/rim) - Vim-like text editor.
+*   [mathall/rim (⭐616)](https://github.com/mathall/rim) - Vim-like text editor.
 
 ### Applications / Text processing
 
@@ -96,14 +96,14 @@
 ### Libraries / Computation
 
 *   Parallel
-    *   [arrayfire/arrayfire-rust (⭐818)](https://github.com/arrayfire/arrayfire-rust) - [Arrayfire](https://github.com/arrayfire) bindings
-    *   [autumnai/collenchyma (⭐477)](https://github.com/autumnai/collenchyma) - An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
-    *   [luqmana/rust-opencl (⭐170)](https://github.com/luqmana/rust-opencl) - [OpenCL](https://www.khronos.org/opencl/) bindings
+    *   [arrayfire/arrayfire-rust (⭐824)](https://github.com/arrayfire/arrayfire-rust) - [Arrayfire](https://github.com/arrayfire) bindings
+    *   [autumnai/collenchyma (⭐478)](https://github.com/autumnai/collenchyma) - An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
+    *   [luqmana/rust-opencl (⭐171)](https://github.com/luqmana/rust-opencl) - [OpenCL](https://www.khronos.org/opencl/) bindings
 
 ### Libraries / GUI
 
-*   [Nuklear (⭐9.6k)](https://github.com/Immediate-Mode-UI/Nuklear)
-    *   [nuklear-rust (⭐366)](https://github.com/snuk182/nuklear-rust) - Bindings for Nuklear
+*   [Nuklear (⭐9.7k)](https://github.com/Immediate-Mode-UI/Nuklear)
+    *   [nuklear-rust (⭐365)](https://github.com/snuk182/nuklear-rust) - Bindings for Nuklear
 
 ### Libraries / Logging
 
@@ -163,20 +163,20 @@ And run this to remove the attributes:
 
 ### Programming Languages
 
-*   [Common Lisp (⭐2.6k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
-    *   [Learning (⭐202)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
+*   [Common Lisp (⭐2.7k)](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
+    *   [Learning (⭐211)](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 
 ### Front-End Development
 
-*   [Web Animation (⭐1.3k)](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
+*   [Web Animation (⭐1.4k)](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
 
 ### Decentralized Systems
 
-*   [Corda (⭐69)](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
+*   [Corda (⭐70)](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
 
 ### Events
 
-*   [Creative Tech Events (⭐166)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
+*   [Creative Tech Events (⭐168)](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 
 ## [17. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 

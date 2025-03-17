@@ -10,7 +10,7 @@
 
 ### Neovim Lua Development / Diagnostics
 
-*   [folke/lazydev.nvim (⭐892)](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup.
+*   [folke/lazydev.nvim (⭐966)](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup.
 
 ## [2. Awesome Games of Coding](/content/michelpereira/awesome-games-of-coding/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-vibe (⭐9)](https://github.com/boris-jenicek/ng-vibe) - Designed for Angular 17+, these tools (drawer, dialog, toastify,timer, service-locator) are here to enhance your development process with dynamic and efficient solutions.
+*   [ng-vibe (⭐11)](https://github.com/boris-jenicek/ng-vibe) - Designed for Angular 17+, these tools (drawer, dialog, toastify,timer, service-locator) are here to enhance your development process with dynamic and efficient solutions.
 
 ## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

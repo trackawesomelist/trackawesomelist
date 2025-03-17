@@ -32,7 +32,7 @@
 
 ### Others / Third-party APIs
 
-*   [Petalisp (⭐488)](https://github.com/marcoheisig/Petalisp) - an attempt to
+*   [Petalisp (⭐489)](https://github.com/marcoheisig/Petalisp) - an attempt to
     generate high performance code for parallel computers by
     JIT-compiling array definitions. It works on a more
     fundamental level than NumPy, by providing even more powerful
@@ -41,11 +41,11 @@
 
 ### Matrix libraries / Third-party APIs
 
-*   [clem (⭐37)](https://github.com/slyrus/clem) - a matrix library. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
+*   [clem (⭐38)](https://github.com/slyrus/clem) - a matrix library. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
 ### REPLs / Third-party APIs
 
-*   [magic-ed (⭐24)](https://github.com/sanel/magic-ed) - a tiny editing facility, where you can directly load, edit, manipulate and evaluate file or file content from the REPL, when going to a full IDE is too much. [MIT](https://opensource.org/licenses/MIT).
+*   [magic-ed (⭐25)](https://github.com/sanel/magic-ed) - a tiny editing facility, where you can directly load, edit, manipulate and evaluate file or file content from the REPL, when going to a full IDE is too much. [MIT](https://opensource.org/licenses/MIT).
 
 ### Developer utilities / Third-party APIs
 
@@ -57,7 +57,7 @@
 
 ## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Web Apps (open source)
+### Web Apps (open source) / Rust
 
 *   [OpenTripPlanner.js (⭐19)](https://github.com/conveyal/otp.js) - A Javascript-based client for OpenTripPlanner (no longer under development)
 *   [OTP-UI React Component Library (⭐57)](https://github.com/opentripplanner/otp-ui) - React Javascript component library, which can be used to build trip planner webapps. See the [Storybook](http://www.opentripplanner.org/otp-ui) for a demo.
@@ -130,12 +130,21 @@
 
 ## [16. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
-### Tools / Dolby
+### Media Analysis, Quality Metrics & AI Tools / Quality Analysis & Metrics
 
-*   [slhck/ffmpeg-bitrate-stats (⭐133)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
 *   [slhck/ffmpeg-debug-qp (⭐75)](https://github.com/slhck/ffmpeg-debug-qp)  - FFmpeg Debug Script for QP Values
-*   [slhck/ffmpeg-quality-metrics (⭐409)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
-*   [slhck/scenecut-extractor (⭐76)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
+
+### Media Analysis, Quality Metrics & AI Tools / Scene Detection & Segmentation
+
+*   [slhck/scenecut-extractor (⭐82)](https://github.com/slhck/scenecut-extractor)  - Extract scenecuts from video files using ffmpeg
+
+### Media Analysis, Quality Metrics & AI Tools / Video Analytics & Benchmarking
+
+*   [slhck/ffmpeg-bitrate-stats (⭐138)](https://github.com/slhck/ffmpeg-bitrate-stats)  - Calculate bitrate statistics using FFmpeg
+
+### Media Analysis, Quality Metrics & AI Tools / VMAF, PSNR, SSIM Tools
+
+*   [slhck/ffmpeg-quality-metrics (⭐439)](https://github.com/slhck/ffmpeg-quality-metrics)  - Calculate quality metrics with FFmpeg (SSIM, PSNR, VMAF)
 
 ## [17. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/README.md)
 
@@ -147,7 +156,7 @@
 
 ### Related
 
-*   [StumbleUponAwesome (⭐380)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
+*   [StumbleUponAwesome (⭐402)](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 
 ## [19. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -159,7 +168,7 @@
 
 ### Math
 
-*   [Klein (⭐763)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
+*   [Klein (⭐766)](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. \[MIT] [website](https://jeremyong.com/klein)
 
 ---
 

@@ -55,7 +55,7 @@
 
 ### Key-value Data Model
 
-*   [GridDB (⭐2.1k)](https://github.com/griddb/griddb_nosql) - suitable for sensor data stored in a timeseries.
+*   [GridDB (⭐2.4k)](https://github.com/griddb/griddb_nosql) - suitable for sensor data stored in a timeseries.
 
 ## [9. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -73,11 +73,11 @@
 
 ### Libraries / JavaScript
 
-*   [Camo (⭐558)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
+*   [Camo (⭐559)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
 
 ### Libraries / Scala
 
-*   [Spark-MongoDB (⭐307)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
+*   [Spark-MongoDB (⭐308)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ---
 

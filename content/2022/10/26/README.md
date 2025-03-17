@@ -6,17 +6,21 @@
 
 
 
-## [1. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Data Science
+### Haskell / Spock Framework
 
-*   [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, Ravindran Kannan (PDF)
+*   [Haskell Tutorial and Cookbook](https://markwatson.com/books/haskell-cookbook-site/) - Mark Watson
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Introduction to Scientific Programming with Python](https://library.oapen.org/bitstream/id/56d27e73-e92a-4398-8198-239be7aacc93/2020_Book_IntroductionToScientificProgra.pdf) - Joakim Sundnes (PDF) (CC BY)
 
 ## [2. Awesome Playwright](/content/mxschmitt/awesome-playwright/README.md)
 
 ### Language Support
 
-*   [playwright-go (⭐2.1k)](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
+*   [playwright-go (⭐2.4k)](https://github.com/playwright-community/playwright-go) - Playwright port for Golang.
 
 ## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 

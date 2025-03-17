@@ -10,7 +10,7 @@
 
 ### Data Visualization
 
-*   [Banana (⭐672)](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
+*   [Banana (⭐669)](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
 
 ## [2. Typography](/content/deanhume/typography/README.md)
 

@@ -35,7 +35,7 @@
 
 ### Platforms
 
-*   [Fuse (⭐337)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+*   [Fuse (⭐345)](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [List of 100 Angular Interview questions and answers (⭐4.4k)](https://github.com/sudheerj/angular-interview-questions)
+*   [List of 100 Angular Interview questions and answers (⭐4.5k)](https://github.com/sudheerj/angular-interview-questions)
 
 ## [9. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

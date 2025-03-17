@@ -49,7 +49,7 @@
 
 ### Color Palettes / Web App
 
-*   [Color Name List (⭐2.4k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Color Name List (⭐2.5k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
 ## [8. Awesome Preact](/content/preactjs/awesome-preact/week/README.md)
 
@@ -111,7 +111,7 @@
 
 ### DevTools / Other external resources
 
-*   [rails-dashboard (⭐150)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
+*   [rails-dashboard (⭐151)](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
 ## [15. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -212,7 +212,7 @@
 
 ### CLI
 
-*   [Argh! (⭐1.3k)](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. \[BSD]
+*   [Argh! (⭐1.4k)](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. \[BSD]
 
 ## [26. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -238,7 +238,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vuejs-dialog (⭐351)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
+*   [vuejs-dialog (⭐350)](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 
 ## [29. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 

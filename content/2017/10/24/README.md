@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 24, 2017
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,13 +42,23 @@
 *   [Hide Files on GitHub (⭐320)](https://github.com/sindresorhus/hide-files-on-github)
 *   [mdn/webextension-examples (⭐4k)](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
 
-## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C / Non-X86
+
+*   [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
+
+### Verilog / Deno
+
+*   [Verilog Quick Reference Guide - Sutherland HDL](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf) (PDF)
+
+## [4. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Service Level Agreement
 
 *   [Building good SLOs - CRE life lessons](https://cloudplatform.googleblog.com/2017/10/building-good-SLOs-CRE-life-lessons.html)
 
-## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [5. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Community Resources
 
@@ -90,7 +100,7 @@
 
 *   [homely (⭐15)](https://github.com/baol/homely) - Collection of Go daemons for connecting Domoticz and other stuff.
 
-## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
+## [6. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 
 ### Courses / Machine Learning
 
@@ -100,19 +110,19 @@
     *   [Practicals](http://uvadlc.github.io/#practicals)
     *   [Readings](http://uvadlc.github.io/#other-links)
 
-## [6. Awesome Framer](/content/podo/awesome-framer/README.md)
+## [7. Awesome Framer](/content/podo/awesome-framer/README.md)
 
 ### Modules
 
 *   [FramerAudio (⭐47)](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 
-## [7. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [httpclient-interception (⭐348)](https://github.com/justeat/httpclient-interception) - .NET Standard library for intercepting server-side HTTP dependencies.
 
-## [8. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
+## [9. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
 ### UX Libraries for Salesforce / Open Source Projects Repositories from Salesforce
 
@@ -122,13 +132,13 @@
 
 *   [Awesome Lightning (⭐80)](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Productivity
 
 *   [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
 
-## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Official Resources
 
@@ -139,7 +149,7 @@
 *   [Deploy Vue.js — SSR(Vuetify) on Production with Pm2 and Nginx](https://medium.com/@kamerk22/deploy-vue-js-ssr-vuetify-on-production-with-pm2-and-nginx-ec7b5c0748a3)
 *   [Testing Vue Components](http://testingvue.com) on [laracast](https://laracasts.com/series/testing-vue)
 
-## [11. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
+## [12. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
 ### Featured Projects / Slides and Notes
 

@@ -42,7 +42,7 @@
 
 ### Tools / Community providers
 
-*   [tftui (⭐1k)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
+*   [tftui (⭐1.1k)](https://github.com/idoavrah/terraform-tui) - A textual user interface for Terraform state.
 
 ---
 

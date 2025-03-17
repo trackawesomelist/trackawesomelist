@@ -126,11 +126,11 @@
 
 ### Programming Languages
 
-*   [Pascal (⭐1.8k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
+*   [Pascal (⭐1.9k)](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 
 ### Security
 
-*   [Fuzzing (⭐847)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+*   [Fuzzing (⭐872)](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Web Development
 
-*   [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** \[46:17]
+*   [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** (EuroClojure 2015) \[46:17]
 
 ## [2. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
@@ -80,7 +80,7 @@
 
 ### Packages / Filesystem
 
-*   [fs-jetpack (⭐778)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+*   [fs-jetpack (⭐776)](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 ## [9. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
@@ -119,13 +119,13 @@
 
 ### conversion
 
-*   [esri2open (⭐254)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
+*   [esri2open (⭐258)](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 
 ## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Misc / Other
 
-*   [enaqx/awesome-react (⭐64k)](https://github.com/enaqx/awesome-react)
+*   [enaqx/awesome-react (⭐67k)](https://github.com/enaqx/awesome-react)
 
 ## [13. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
@@ -247,11 +247,11 @@ git branch --contains <commit-ish>
 ### Node.js Clients
 
 *   [restler (⭐2k)](https://github.com/danwrong/restler) - REST client library for node.js.
-*   [unirest for Node.js (⭐954)](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
+*   [unirest for Node.js (⭐955)](https://github.com/Mashape/unirest-nodejs) - Simplified, lightweight HTTP client library.
 
 ### Directly On Top Of A RMDB
 
-*   [postgrest (⭐24k)](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database.
+*   [postgrest (⭐25k)](https://github.com/begriffs/postgrest) - Serve a fully RESTful API directly from an existing PostgreSQL database.
 *   [MySQL HTTP plugin](http://blog.ulf-wendel.de/2014/mysql-5-7-http-plugin-mysql/) - Simple REST-like / CRUD server for any MySQL database.
 
 ### Node.js
@@ -275,7 +275,7 @@ git branch --contains <commit-ish>
 *   [FOSRestBundle (⭐2.8k)](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
 *   [stanlemon/rest-bundle (⭐122)](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
 *   [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
-*   [BazingaHateoasBundle (⭐296)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
+*   [BazingaHateoasBundle (⭐295)](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas (⭐1k)](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
 *   [Symfony REST Edition (⭐632)](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
 *   [NgAdminGeneratorBundle (⭐75)](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
 *   [DunglasApiBundle (⭐2.5k)](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
@@ -300,13 +300,13 @@ git branch --contains <commit-ish>
 
 ### Querying / Symfony2
 
-*   [resty (⭐2.7k)](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
+*   [resty (⭐2.6k)](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
 *   [jq (⭐31k)](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 
 ### Mocking / Symfony2
 
 *   [FakeRest (⭐443)](https://github.com/marmelab/FakeRest) - Redirect fetch() calls to a client-side fake REST API.
-*   [json-server (⭐73k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
+*   [json-server (⭐74k)](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 
 ### SaaS Tools / Symfony2
 

@@ -50,7 +50,7 @@
     *   [IIPC and DPC Training materials: module for beginners (8 sessions)](https://netpreserve.org/web-archiving/training-materials/)
     *   [UNT Web Archiving Course (⭐20)](https://github.com/vphill/web-archiving-course)
     *   [Continuing Education to Advance Web Archiving (CEDWARC)](https://cedwarc.github.io/)
-    *   [A Whirlwind Tour of Common Crawl's Datasets using Python (⭐15)](https://github.com/commoncrawl/whirlwind-python/)
+    *   [A Whirlwind Tour of Common Crawl's Datasets using Python (⭐16)](https://github.com/commoncrawl/whirlwind-python/)
 
 ## [6. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -69,13 +69,13 @@
 
 ### Geospatial Research and Mapping Tools / Steam
 
-*   [SatIntel (⭐723)](https://github.com/ANG13T/SatIntel)
+*   [SatIntel (⭐728)](https://github.com/ANG13T/SatIntel)
 
 ## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Web Application Framework
 
-*   [C++ wfrest (⭐906)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
+*   [C++ wfrest (⭐915)](https://github.com/wfrest/wfrest) - C++ Web Framework REST API. \[Apache2]
 
 ## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -85,7 +85,7 @@
 
 ### Errors and Exception Handling
 
-*   [elixir\_error\_message (⭐33)](https://github.com/MikaAK/elixir_error_message) - Simple error helpers to make errors in your system predictable and easy to render to JSON or in logs.
+*   [elixir\_error\_message (⭐34)](https://github.com/MikaAK/elixir_error_message) - Simple error helpers to make errors in your system predictable and easy to render to JSON or in logs.
 
 ## [11. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 

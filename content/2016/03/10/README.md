@@ -45,7 +45,7 @@
 
 ### Music Notation
 
-*   [Lilypond cook book (⭐3)](https://github.com/noteflakes/lilypond-cookbook/wiki/) - tips & tricks for getting the most out of lilypond.
+*   [Lilypond cook book (⭐4)](https://github.com/noteflakes/lilypond-cookbook/wiki/) - tips & tricks for getting the most out of lilypond.
 
 ### Music Programming
 

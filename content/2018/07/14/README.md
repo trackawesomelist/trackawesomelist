@@ -10,7 +10,7 @@
 
 ### Compute (GPGPU) / Particles
 
-*   [Phenomenon (⭐1.7k)](https://github.com/vaneenige/phenomenon) - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
+*   [Phenomenon (⭐1.8k)](https://github.com/vaneenige/phenomenon) - Very small, low-level WebGL library that provides the essentials to deliver a high performance experience.
 
 ## [2. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [MikroORM (⭐7.9k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+*   :octocat: [MikroORM (⭐8k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 
 ## [2. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 
@@ -75,23 +75,23 @@
 
 *   [ML Workspace](hhttps://github.com/ml-tooling/ml-workspace) - All-in-one web-based development environment for machine learning and data science.
 
-## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [7. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+
+### Tools/Utilities
+
+*   [ML Workspace (⭐3.5k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
+
+## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Connection pools
 
 *   [metabase/connection-pool (⭐14)](https://github.com/metabase/connection-pool)
 
-## [8. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
-
-### Tools / Misc
-
-*   [ML Workspace (⭐3.4k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
-
 ## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
 ### Quantum Computing / Synthetic Data
 
-*   [PennyLane (⭐2.3k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
+*   [PennyLane (⭐2.5k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
 ## [10. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

@@ -29,13 +29,13 @@
 
 ### Plugins
 
-*   🎨🧬 [Themer (⭐306)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
+*   🎨🧬 [Themer (⭐308)](https://github.com/RyanClementsHax/tailwindcss-themer) - Adds theming support for Tailwind CSS with CSS variables and variants.
 
 ## [5. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / General-Purpose Machine Learning
 
-*   [Deepchecks (⭐3.6k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
+*   [Deepchecks (⭐3.7k)](https://github.com/deepchecks/deepchecks): Validation & testing of machine learning models and data during model development, deployment, and production. This includes checks and suites related to various types of issues, such as model performance, data integrity, distribution mismatches, and more.
 
 ## [6. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
@@ -47,7 +47,7 @@
 
 ### UI / Barcode
 
-*   [ProgressIndicatorView (⭐264)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
+*   [ProgressIndicatorView (⭐275)](https://github.com/exyte/ProgressIndicatorView) - A progress indicator view library written in SwiftUI.
 
 ## [8. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [titanzero/zephyrium (⭐24)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with Tree-sitter support.
+*   [titanzero/zephyrium (⭐25)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with Tree-sitter support.
 
 ## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -87,7 +87,7 @@
 
 ### Command-Line Tools / Discovery
 
-*   [nix-alien (⭐566)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
+*   [nix-alien (⭐599)](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS easily.
 
 ## [12. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 

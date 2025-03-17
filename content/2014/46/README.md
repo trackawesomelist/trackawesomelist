@@ -24,7 +24,7 @@
 
 ### Web Development
 
-*   [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** \[32:07]
+*   [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** (Øredev 2014) \[32:07]
 
 ## [3. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Resources / Tutorials
 
-*   [module-best-practices (⭐1.5k)](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
+*   [module-best-practices (⭐1.6k)](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
 
 ## [7. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Table of Contents / Email
 
-*   [Email Validator (⭐162)](https://github.com/nojacko/email-validator) - A small email address validation library.
+*   [Email Validator (⭐161)](https://github.com/nojacko/email-validator) - A small email address validation library.
 
 ### Table of Contents / Testing
 

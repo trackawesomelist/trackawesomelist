@@ -45,8 +45,8 @@
 
 ### Third-Party Packages / Admin Themes
 
-*   [django-semantic-admin (⭐157)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
-*   [django-baton (⭐925)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
+*   [django-semantic-admin (⭐158)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
+*   [django-baton (⭐929)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

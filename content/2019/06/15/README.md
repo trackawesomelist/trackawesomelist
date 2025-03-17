@@ -17,47 +17,47 @@
 
 ### Wallets and Toolkits / Mobile
 
-*   [OracleChain/PocketEOS-Android (⭐159)](https://github.com/OracleChain/PocketEOS-Android)
-*   [OracleChain/PocketEOS-IOS (⭐112)](https://github.com/OracleChain/PocketEOS-IOS)
-*   [Android client for EOS.IO (⭐215)](https://github.com/playerone-id/EosCommander)
+*   [OracleChain/PocketEOS-Android (⭐158)](https://github.com/OracleChain/PocketEOS-Android)
+*   [OracleChain/PocketEOS-IOS (⭐111)](https://github.com/OracleChain/PocketEOS-IOS)
+*   [Android client for EOS.IO (⭐212)](https://github.com/playerone-id/EosCommander)
 
 ### Libraries and Frameworks / API libraries
 
-*   [EOSIO/eosio-java (⭐123)](https://github.com/EOSIO/eosio-java) - Official Java SDK.
+*   [EOSIO/eosio-java (⭐127)](https://github.com/EOSIO/eosio-java) - Official Java SDK.
     *   [eosiojava API](https://eosio.github.io/eosio-java/) - API documentation.
     *   [EOSIO™ Software Release: Native SDKs for Swift and Java](https://eos.io/news/eosio-software-release-native-sdks-for-swift-and-java/) - Article.
-*   [EOSIO/eosio-swift (⭐63)](https://github.com/EOSIO/eosio-swift) - Official Swift SDK.
+*   [EOSIO/eosio-swift (⭐61)](https://github.com/EOSIO/eosio-swift) - Official Swift SDK.
     *   [EOSIO SDK for Swift](https://eosio.github.io/eosio-swift/) - API documentation.
-*   [memtrip/eosreach-android (⭐37)](https://github.com/memtrip/eosreach-android) - Kotlin / Android library.
+*   [memtrip/eosreach-android (⭐38)](https://github.com/memtrip/eosreach-android) - Kotlin / Android library.
 
 ### Libraries and Frameworks / Authentication and Wallet Signing libraries
 
-*   [EOSIO/universal-authenticator-library (⭐127)](https://github.com/EOSIO/universal-authenticator-library) - A library for allowing apps to easily use different auth providers.
+*   [EOSIO/universal-authenticator-library (⭐128)](https://github.com/EOSIO/universal-authenticator-library) - A library for allowing apps to easily use different auth providers.
     *   [EOSIO Labs™ Release: The Universal Authenticator Library (UAL) — Increasing the Accessibility of Blockchain Applications](https://eos.io/news/eosio-labs-release-the-universal-authenticator-library-ual%e2%80%8a-%e2%80%8aincreasing-the-accessibility-of-blockchain-applications/) - Article.
-*   [EOSIO/eosio-webauthn-example-app (⭐35)](https://github.com/EOSIO/eosio-webauthn-example-app) - Example web app demonstrating EOSIO signing via WebAuthn.
+*   [EOSIO/eosio-webauthn-example-app (⭐38)](https://github.com/EOSIO/eosio-webauthn-example-app) - Example web app demonstrating EOSIO signing via WebAuthn.
     *   [EOSIO Labs™ Release: WebAuthn Example Web App for EOSIO YubiKey Support](https://eos.io/news/eosio-labs-release-webauthn-example-web-app-for-eosio-yubikey-support/) - Article.
-*   [EOSIO/eosio-reference-chrome-extension-authenticator-app (⭐26)](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app) - Chrome extension reference app demonstrating how users could sign transactions using various EOSIO Labs tools.
+*   [EOSIO/eosio-reference-chrome-extension-authenticator-app (⭐25)](https://github.com/EOSIO/eosio-reference-chrome-extension-authenticator-app) - Chrome extension reference app demonstrating how users could sign transactions using various EOSIO Labs tools.
     *   [EOSIO Labs™ Release: iOS and Chrome Extension Authenticator Reference Applications](https://eos.io/news/eosio-labs-release-ios-and-chrome-extension-authenticator-reference-applications/) - Article.
-*   [EOSIO/eosio-reference-ios-authenticator-app (⭐68)](https://github.com/EOSIO/eosio-reference-ios-authenticator-app) - iOS reference app demonstrating inter-application transaction signing for EOSIO blockchain apps.
+*   [EOSIO/eosio-reference-ios-authenticator-app (⭐66)](https://github.com/EOSIO/eosio-reference-ios-authenticator-app) - iOS reference app demonstrating inter-application transaction signing for EOSIO blockchain apps.
 *   [EOSIO/ual-scatter (⭐14)](https://github.com/EOSIO/ual-scatter) - Authenticator meant to be used with Scatter and Universal Authenticator Library.
 
 ### Developer Tools / Services
 
-*   [EOSIO/eosio.cdt (⭐514)](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
-*   [EOSIO/ricardian-template-toolkit (⭐37)](https://github.com/EOSIO/ricardian-template-toolkit) - Renderer for the Ricardian Contract specification.
+*   [EOSIO/eosio.cdt (⭐513)](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts.
+*   [EOSIO/ricardian-template-toolkit (⭐45)](https://github.com/EOSIO/ricardian-template-toolkit) - Renderer for the Ricardian Contract specification.
 
 ### Code examples / Services
 
-*   [EOSIO/eosio-java-android-example-app (⭐32)](https://github.com/EOSIO/eosio-java-android-example-app) - Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java.
+*   [EOSIO/eosio-java-android-example-app (⭐31)](https://github.com/EOSIO/eosio-java-android-example-app) - Application demonstrating integration with EOSIO-based blockchains using EOSIO SDK for Java.
 
 ### Block Producer tools / Services
 
-*   [eosdetroit/bp-playbook (⭐6)](https://github.com/eosdetroit/bp-playbook) - A set of playbooks to make managing EOS.IO nodes easier.
+*   [eosdetroit/bp-playbook (⭐8)](https://github.com/eosdetroit/bp-playbook) - A set of playbooks to make managing EOS.IO nodes easier.
 *   [eoseoul/eos-ramcost (⭐6)](https://github.com/eoseoul/eos-ramcost) - Adjusting supply of a token and connector balance of bancor during final phase of boot.
 
 ### Other in Developers / Services
 
-*   [OracleChain/EOSBenchTool (⭐34)](https://github.com/OracleChain/EOSBenchTool) - A client side tool for EOS performance testing.
+*   [OracleChain/EOSBenchTool (⭐36)](https://github.com/OracleChain/EOSBenchTool) - A client side tool for EOS performance testing.
 *   [breakstring/savemyeosram (⭐5)](https://github.com/breakstring/savemyeosram) - Saving RAM on EOS.
 
 ### Other in DApps / Services
@@ -154,12 +154,12 @@
 
 ### Theory
 
-*   [Algorithms (⭐21k)](https://github.com/tayllan/awesome-algorithms#readme)
-    *   [Education (⭐827)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+*   [Algorithms (⭐22k)](https://github.com/tayllan/awesome-algorithms#readme)
+    *   [Education (⭐833)](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 
 ### Gaming
 
-*   [Game Datasets (⭐750)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+*   [Game Datasets (⭐802)](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 
 ## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

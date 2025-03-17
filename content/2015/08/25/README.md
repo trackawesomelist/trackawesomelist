@@ -442,10 +442,6 @@ To the extent possible under law, [Steve Mao](https://github.com/stevemao) has w
 
 *   [Apache C++ Standard Library](http://stdcxx.apache.org/) - STDCXX, A collection of algorithms, containers, iterators, and other fundamental components. \[retired] \[Apache2]
 
-### Build Systems
-
-*   [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
-
 ## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Framework Components

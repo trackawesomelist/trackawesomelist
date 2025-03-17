@@ -96,15 +96,15 @@
 
 ### Visualization / Interactive plots
 
-*   [Bokeh (⭐19k)](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
+*   [Bokeh (⭐20k)](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 *   [Altair](https://altair-viz.github.io/) - Declarative statistical visualization library for Python. Can easily do many data transformation within the code to create graph
 *   [bqplot (⭐3.6k)](https://github.com/bqplot/bqplot) - Plotting library for IPython/Jupyter notebooks
 
 ### Visualization / Automatic Plotting
 
-*   [HoloViews (⭐2.7k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
-*   [AutoViz (⭐1.7k)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
-*   [SweetViz (⭐2.9k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
+*   [HoloViews (⭐2.8k)](https://github.com/ioam/holoviews) - Stop plotting your data - annotate your data and let it visualize itself.
+*   [AutoViz (⭐1.8k)](https://github.com/AutoViML/AutoViz): Visualize data automatically with 1 line of code (ideal for machine learning)
+*   [SweetViz (⭐3k)](https://github.com/fbdesignpro/sweetviz): Visualize and compare datasets, target values and associations, with one line of code.
 
 ### Visualization / NLP
 
@@ -112,7 +112,7 @@
 
 ### Data Manipulation / Data Frames
 
-*   [pandas\_profiling (⭐12k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+*   [pandas\_profiling (⭐13k)](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 
 ### Web Scraping / Synthetic Data
 

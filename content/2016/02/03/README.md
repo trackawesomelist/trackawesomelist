@@ -25,7 +25,7 @@
 
 ### Third Party APIs
 
-*   [xe (⭐22)](https://github.com/paulodiniz/xe) - Real time conversion for currencies.
+*   [xe](https://github.com/paulodiniz/xe) - Real time conversion for currencies.
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

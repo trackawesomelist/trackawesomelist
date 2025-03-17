@@ -22,13 +22,13 @@
 
 ### Tools / Community providers
 
-*   [Shisho (⭐369)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
+*   [Shisho (⭐373)](https://github.com/flatt-security/shisho) - Lightweight static analyzer for Terraform.
 
 ## [4. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Financial / Text-Based User Interfaces
 
-*   [Cassandre (⭐581)](https://github.com/cassandre-tech/cassandre-trading-bot) - Trading bot framework.
+*   [Cassandre (⭐602)](https://github.com/cassandre-tech/cassandre-trading-bot) - Trading bot framework.
 
 ### Machine Learning / Text-Based User Interfaces
 
@@ -40,7 +40,7 @@
 
 ### Workflow Orchestration Engines / Mocking
 
-*   [flowable (⭐8k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
+*   [flowable (⭐8.2k)](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
 
 ## [5. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 

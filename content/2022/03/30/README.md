@@ -99,7 +99,7 @@
 
 ### Blocklists / Hostnames and Subdomains
 
-*   Subdomain denylists: [#1](https://gist.github.com/artgon/5366868), [#2 (⭐42)](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [#3 (⭐166)](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
+*   Subdomain denylists: [#1](https://gist.github.com/artgon/5366868), [#2 (⭐44)](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [#3 (⭐166)](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
 
 ## [7. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
@@ -159,7 +159,7 @@
 
 ### Phone Numbers
 
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐776)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.5k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐548)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.8k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐807)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.6k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐549)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.8k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ### Software Engineering
 
@@ -279,10 +279,10 @@
 
 ### Machine Learning and AI / Shapefiles
 
-*   [agridat (⭐96)](https://github.com/kwstat/agridat) - R package providing an extensive collection of datasets from agricultural experiments.
-*   [Crop Yield Prediction (⭐305)](https://github.com/JiaxuanYou/crop_yield_prediction) - Deep gaussian process for crop yield prediction based on remote sensing data.
-*   [Deep Learning for Biologists with Keras (⭐97)](https://github.com/totti0223/deep_learning_for_biologists_with_keras) - Tutorials for deep learning based analysis (mainly) on biological relavent themes.
-*   [PlantCV (⭐548)](https://github.com/danforthcenter/plantcv) - Plant phenotyping software using computer vision.
+*   [agridat (⭐123)](https://github.com/kwstat/agridat) - R package providing an extensive collection of datasets from agricultural experiments.
+*   [Crop Yield Prediction (⭐385)](https://github.com/JiaxuanYou/crop_yield_prediction) - Deep gaussian process for crop yield prediction based on remote sensing data.
+*   [Deep Learning for Biologists with Keras (⭐105)](https://github.com/totti0223/deep_learning_for_biologists_with_keras) - Tutorials for deep learning based analysis (mainly) on biological relavent themes.
+*   [PlantCV (⭐688)](https://github.com/danforthcenter/plantcv) - Plant phenotyping software using computer vision.
 
 ## [15. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -294,7 +294,7 @@
 
 ### Database Tools
 
-*   [rdb (⭐443)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
+*   [rdb (⭐474)](https://github.com/HDT3213/rdb) - Redis RDB file parser for secondary development and memory analysis.
 
 ### HTTP Clients
 

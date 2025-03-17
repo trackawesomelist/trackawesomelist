@@ -10,22 +10,22 @@
 
 ### Concurrency
 
-*   [libdill (⭐1.8k)](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. \[MIT]
+*   [libdill (⭐1.9k)](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. \[MIT]
 *   [libmill (⭐3k)](https://github.com/sustrik/libmill/) - Introduces Go-style concurrency in C. \[MIT]
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### CLI Utilities
 
-*   [colorls (⭐4.9k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
+*   [colorls (⭐5k)](https://github.com/athityakumar/colorls) - Beautifies the `ls` command, with color and font-awesome icons.
 
 ### Configuration
 
-*   [Chamber (⭐200)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
+*   [Chamber (⭐201)](https://github.com/thekompanee/chamber) - Surprisingly customizable convention-based approach to managing your app's configuration.
 
 ### Third-party APIs
 
-*   [Restforce (⭐816)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
+*   [Restforce (⭐822)](https://github.com/ejholmes/restforce) - A Ruby client for the Salesforce REST api.
 
 ## [3. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 
@@ -102,7 +102,7 @@
 
 ### Models/Projects
 
-*   [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow (⭐1.8k)](https://github.com/astorfi/lip-reading-deeplearning) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
+*   [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow (⭐1.9k)](https://github.com/astorfi/lip-reading-deeplearning) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
 
 ---
 

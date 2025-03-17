@@ -40,7 +40,7 @@
 
 ### Applications / Virtualization
 
-*   [kata-containers/kata-containers (⭐5.8k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
+*   [kata-containers/kata-containers (⭐5.9k)](https://github.com/kata-containers/kata-containers) - A implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.
 
 ## [7. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

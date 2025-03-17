@@ -43,7 +43,7 @@
 
 ### Software Design
 
-*   [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** \[40:35]
+*   [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** (Strange Loop 2015) \[40:35]
 
 ## [6. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
@@ -61,7 +61,7 @@
 
 ### Database Drivers
 
-*   [asyncpg (⭐5.8k)](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.
+*   [asyncpg (⭐7.2k)](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.
 *   [aioes (⭐97)](https://github.com/aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
 
 ## [9. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
@@ -184,11 +184,11 @@
 
 *   [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
 *   [cost-of-modules (⭐2.8k)](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
-*   [localtunnel (⭐19k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+*   [localtunnel (⭐20k)](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
 
 ### Packages / Text
 
-*   [unhomoglyph (⭐40)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
+*   [unhomoglyph (⭐41)](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 
 ## [17. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -413,7 +413,7 @@ git var -l | <variable>
 
 ### Subtitling
 
-*   [imscJS (⭐84)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
+*   [imscJS (⭐85)](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 
 ## [43. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 

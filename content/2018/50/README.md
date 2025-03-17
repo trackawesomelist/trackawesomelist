@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 10 - Dec 16, 2018
 
-46 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -50,7 +50,7 @@
 
 ### Types / Playground
 
-*   [ts-essentials (⭐3.8k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
+*   [ts-essentials (⭐3.9k)](https://github.com/krzkaczor/ts-essentials) - All essential TypeScript types in one place
 
 ## [8. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -58,31 +58,25 @@
 
 *   [Hamza Baig (⭐1)](https://github.com/hamxabaig/ama) - Full-stack JavaScript engineer. Passionate about Artificial Intelligence.
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [spaceship (⭐20k)](https://github.com/denysdovhan/spaceship-prompt) - A Zsh prompt for Astronauts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/denysdovhan/spaceship-prompt) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-## [10. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [9. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
 *   [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - Worked examples on quantum algorithm problems.
 
-## [11. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [10. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [PhotoPea](https://www.photopea.com/) - Image editor that looks like Photoshop and has most of its features.
 
-## [12. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [11. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
-*   [Flutter (⭐54k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+*   [Flutter (⭐55k)](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 
-## [13. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
+## [12. Awesome Firebase](/content/jthegedus/awesome-firebase/week/README.md)
 
 ### Mobile
 
@@ -91,13 +85,13 @@
 *   💡 [Flutter Calendar App (⭐76)](https://github.com/mattgraham1/FlutterCalendar) -
     New Flutter application implementing a simple mobile calendar app for storing basic events into Firebase cloud database.
 
-## [14. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
+## [13. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
 ### Miscellaneous / Third Party
 
 *   [treeviz (⭐131)](https://github.com/PierreCapo/treeviz) - Create customizable trees from json data
 
-## [15. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
+## [14. Awesome Atom](/content/mehcode/awesome-atom/week/README.md)
 
 ### Lint
 
@@ -107,13 +101,13 @@
     *   [linter-gcc](https://atom.io/packages/linter-gcc) - on-the-fly linting!
     *   [linter-cpplint](https://atom.io/packages/linter-cpplint) - checks against google style guide
 
-## [16. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
+## [15. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 
 ### Ethics / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 
 *   [The Critical Engineering Manifesto](https://criticalengineering.org/) - A manifesto of critical thinking concepts applied to engineering attitude.
 
-## [17. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [16. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Best Practices
 
@@ -125,49 +119,49 @@
 
 *   [Omi (⭐13k)](https://github.com/Tencent/omi) - Next generation web framework in 4kb JavaScript (Web Components + JSX + Proxy + Store + Path Updating).
 
-## [18. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
+## [17. Awesome Amazon Alexa](/content/miguelmota/awesome-amazon-alexa/week/README.md)
 
 ### Books
 
 *   [Voice Applications for Alexa and Google Assistant](https://www.manning.com/books/voice-applications-for-alexa-and-google-assistant) - This book teaches you how to design, build, and share voice apps.
     [Voice-First Development](https://www.manning.com/books/voice-first-development) - In this insightful guide, you’ll get a solid foundation in modern voice technologies.
 
-## [19. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [18. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Utility / ORM
 
 *   [TimeIt (⭐35)](https://github.com/yashovardhan99/timeit) - A stopwatch library for android which makes it easy to start, pause, display and maintain multiple stopwatches in an app.
 
-## [20. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [19. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Tools / Graphics utilities
 
 *   [Game Boy Tile Data Generator (⭐89)](https://github.com/chrisantonellis/gbtdg) - HTML5 / JS web application that will convert bitmap images to hexadecimal data appropriate for use in tile based graphical applications, specifically GB.
 
-## [21. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [20. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Templates / Preferences
 
-*   [DrawApp (⭐239)](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
+*   [DrawApp (⭐240)](https://github.com/SnakeyHips/drawapp) <!--stargazers:SnakeyHips/drawapp--> - Sample Drawing App to demonstrate how to allow user to draw onto canvas with color picker and brush thickness slider by [Jake Gough](https://github.com/SnakeyHips)
 
 ### Top / Game Engine resources
 
-*   [Deer (⭐447)](https://github.com/aleksanderwozniak/deer) <!--stargazers:aleksanderwozniak/deer--> - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
+*   [Deer (⭐453)](https://github.com/aleksanderwozniak/deer) <!--stargazers:aleksanderwozniak/deer--> - Minimalist Todo Planner built using BLoC pattern by [Aleksander Woźniak](https://github.com/aleksanderwozniak)
 
-## [22. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
+## [21. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
 ### Crack / General
 
 *   [dessant/buster (⭐6.4k)](https://github.com/dessant/buster) - Captcha solver extension for humans and monsters.
 
-## [23. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
+## [22. Awesome Hbase](/content/rayokota/awesome-hbase/week/README.md)
 
 ### Integrations / Transactions
 
 *   [Camel](http://camel.apache.org/hbase.html) - Camel HBase component.
 *   [Zeppelin](https://zeppelin.apache.org/docs/0.6.2/interpreter/hbase.html) - HBase shell interpreter for Apache Zeppelin.
 
-## [24. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [23. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Data Structures and Algorithms
 
@@ -176,7 +170,7 @@
 *   [LibCrypt (⭐51)](https://github.com/ahkscript/LibCrypt.ahk) - by different authors - A collection of crypting and encoding functions.
 *   [Type\_Checking (⭐5)](https://github.com/Shambles-Dev/AutoHotkey-Type_Checking) - by Shambles - Type Checking for AutoHotkey - Forum thread: [link](https://www.autohotkey.com/boards/viewtopic.php?f=6\&t=59857)
 
-## [25. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [24. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -194,25 +188,25 @@
 
 *   [Github-Gist (⭐9)](https://github.com/Arjun-sna/react-native-githubgist-client) - React native mobile application for github gist
 
-## [26. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [25. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Vim & Neovim / Third-party APIs
 
 *   [Slimv\_box (⭐13)](https://github.com/justin2004/slimv_box) - slimv in a Docker container.
 
-## [27. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
+## [26. Alternative Internet](/content/redecentralize/alternative-internet/week/README.md)
 
 ### Dead
 
 *   [Project Byzantium](http://project-byzantium.org/) - Ad-hoc wireless mesh networking for the zombie apocalypse. The goal of Project Byzantium is to develop a communication system by which users can connect to each other and share information in the absence of convenient access to the Internet.  This is done by setting up an ad-hoc wireless mesh network that offers services which replace popular websites often used for this purpose, such as Twitter and IRC.
 
-## [28. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [27. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Web Frameworks
 
 *   [Hyperstack](https://hyperstack.org/) - A Complete Isomorphic Ruby Framework using React and Opal.
 
-## [29. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [28. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
@@ -233,32 +227,32 @@
 *   [ranger (⭐16k)](https://github.com/ranger/ranger) - A console file manager with VI key bindings.
 *   [midnight-commander (⭐2.6k)](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
 
-## [30. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [29. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Running Appium From Source (Or The Latest Beta)](https://appiumpro.com/editions/47)
 
-## [31. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [30. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
 *   [MyController (⭐148)](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
 
-## [32. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [31. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Third-party remote control libraries
 
 *   [homebridge-samsungtv2016 (⭐55)](https://github.com/kyleaa/homebridge-samsungtv2016) - A plugin for [Homebridge (⭐21k)](https://github.com/nfarina/homebridge) that allows you to control your 2016 Samsung TV with HomeKit and Siri (JavaScript).
 *   [homebridge-samsung-tizen (⭐538)](https://github.com/tavicu/homebridge-samsung-tizen) - A plugin for [Homebridge (⭐21k)](https://github.com/nfarina/homebridge) that allows you to control your Samsung Tizen TV with HomeKit and Siri (JavaScript).
 
-## [33. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [32. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Periodic Global Connectivity Reports
 
 *   ITU Measuring the Information Society - ([2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
 
-## [34. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [33. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Online / Apache License
 
@@ -273,13 +267,13 @@
 
 *   [gnatcoll-json (⭐7)](https://github.com/persan/gnatcoll-json) - This is a set of helpers for writing JSON-intefaces it contains JSON parses for most of the Ada runtime components.
 
-## [35. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [34. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Apps
 
 *   [pokecry (⭐10)](https://github.com/fent/pokecry) - Guess Pokémon from their cry.
 
-## [36. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Graphics
 
@@ -299,13 +293,13 @@
 
 ### Miscellaneous
 
-*   [DynaMix (⭐675)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
+*   [DynaMix (⭐676)](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. \[MIT]
 
 ### Build Systems
 
 *   [Cget (⭐455)](https://github.com/pfultz2/cget) - Cmake package retrieval. \[Boost] [website](http://cget.readthedocs.io)
 
-## [37. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [36. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### Clojure / General-Purpose Machine Learning
 
@@ -321,9 +315,9 @@
 
 ### Tools / Misc
 
-*   [Notebooks (⭐32)](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
+*   [Notebooks (⭐33)](https://github.com/rlan/notebooks) - A starter kit for Jupyter notebooks and machine learning. Companion docker images consist of all combinations of python versions, machine learning frameworks (Keras, PyTorch and Tensorflow) and CPU/CUDA versions.
 
-## [38. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
+## [37. Awesome Perl](/content/hachiojipm/awesome-perl/week/README.md)
 
 ### Commercial WebServices / DSP
 
@@ -337,7 +331,7 @@
 
 *   [BSON](https://metacpan.org/pod/BSON) - Binary JSON format
 
-## [39. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [38. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -347,7 +341,7 @@
 
 *   [Software Performance Analysis Guided By SLOs](https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca)
 
-## [40. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [39. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Asia / Indonesia 🇮🇩
 
@@ -521,13 +515,13 @@ Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 Topics: React, JavaScript, jQuery\
 <https://twitter.com/raphamorims>
 
-## [41. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [40. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles
 
 *   [Components patterns in Ember.js](https://medium.com/macsour/components-patterns-in-ember-js-5e6fc6eea28f)
 
-## [42. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [41. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Visualization
 
@@ -538,7 +532,7 @@ Topics: React, JavaScript, jQuery\
 *   [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/)
 *   [Journal of Chemical Information and Modeling (ACS Publications)](https://pubs.acs.org/journal/jcisd8)
 
-## [43. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [42. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Database Tools and Utilities
 
@@ -556,7 +550,7 @@ Topics: React, JavaScript, jQuery\
 
 *   [aspnetcore-security-headers (⭐264)](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
 
-## [44. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
+## [43. Awesome Piracy](/content/Igglybuff/awesome-piracy/week/README.md)
 
 ### VPN Guides and Tutorials
 
@@ -743,7 +737,7 @@ Topics: React, JavaScript, jQuery\
 *   [scenerules](https://scenerules.org/) NFOs with rules and guidelines for scene releasing standards.
 *   [SceneLinkList](https://www.scenelinklist.com/) SceneLinkList is a project initiated to display and share as many scene and warez links as possible.
 
-## [45. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [44. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Online
 
@@ -754,7 +748,7 @@ Topics: React, JavaScript, jQuery\
 
 *   [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo\&t=387s) - Inspiring talk by Zach Lieberman.
 
-## [46. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [45. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 

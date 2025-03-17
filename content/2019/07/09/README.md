@@ -35,10 +35,13 @@
 
 ## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / Visual Testing
 
-*   [Check All](https://chrispederick.com/work/web-developer/) - "Select All" is often not available. Why not bring your own?
-*   [recheck-web (⭐265)](https://github.com/retest/recheck-web) - Open Source change comparison tool with local Golden Masters, git-like ignore syntax and "unbreakable selenium" tests.
+*   [recheck-web (⭐265)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
+
+### Software / Browser Extensions & Utilities
+
+*   [Check All](https://chrispederick.com/work/web-developer/) - Provides a "Select All" function where missing.
 
 ## [5. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 

@@ -34,7 +34,7 @@
 
 ### Algorithms and Data structures
 
-*   [hash\_ring\_ex (⭐24)](https://github.com/reset/hash-ring-ex) - A consistent hash-ring implementation for Elixir.
+*   [hash\_ring\_ex (⭐25)](https://github.com/reset/hash-ring-ex) - A consistent hash-ring implementation for Elixir.
 *   [mmath (⭐4)](https://github.com/dalmatinerdb/mmath) - A library for performing math on number 'arrays' in binaries.
 *   [zipper\_tree (⭐19)](https://github.com/Dkendal/zipper_tree) - Variadic arity tree with a zipper for Elixir.
 
@@ -44,7 +44,7 @@
 
 ### Authorization
 
-*   [bodyguard (⭐758)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
+*   [bodyguard (⭐762)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
 
 ### Caching
 
@@ -60,7 +60,7 @@
 
 ### ORM and Datamapping
 
-*   [arbor (⭐242)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
+*   [arbor (⭐241)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
 *   [ex\_sider (⭐6)](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
 
 ### Statistics
@@ -70,7 +70,6 @@
 ### Testing
 
 *   [apocryphal (⭐17)](https://github.com/coryodaniel/apocryphal) - Swagger based document driven development for ExUnit.
-*   [ex\_parameterized (⭐29)](https://github.com/KazuCocoa/ex_parameterized) - Simple macro for parameterized testing.
 
 ### Text and Numbers
 

@@ -67,7 +67,7 @@
 ### Blog Series
 
 *   [WebGL Best Practices](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/WebGL_best_practices) - Mozilla's offical set of best practices.
-*   [WebGL Month (⭐212)](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
+*   [WebGL Month (⭐224)](https://github.com/lesnitsky/webgl-month) – Daily WebGL tutorial for a month.
 
 ## [8. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 

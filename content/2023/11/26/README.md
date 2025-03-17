@@ -34,7 +34,7 @@
 
 ### Formatting / Diagnostics
 
-*   [nvimdev/guard.nvim (⭐463)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
+*   [nvimdev/guard.nvim (⭐471)](https://github.com/nvimdev/guard.nvim) - Minimalist async formatting and linting plugin.
 
 ---
 

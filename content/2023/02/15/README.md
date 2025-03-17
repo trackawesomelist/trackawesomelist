@@ -48,19 +48,15 @@
 
 ### Utility
 
-*   [VInstall (⭐37)](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
+*   [VInstall (⭐38)](https://github.com/malisipi/VInstall) - A cross-platform installer creator.
 
 ## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### AI
 
-*   [OpenAI (⭐2.1k)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
+*   [OpenAI (⭐2.2k)](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
 ## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
-
-### Code Analysis and Metrics
-
-*   [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ### Blazor
 
@@ -83,6 +79,10 @@
 *   [Jobs and talents in AI/ML, Data Science and Big Data | ai-jobs.net](https://ai-jobs.net/)
 
 ## [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Testing
+
+*   [Bencher](https://bencher.dev/) - A continuous benchmarking tool suite to catch CI performance regressions. Free for all public projects.
 
 ### Forms
 

@@ -40,9 +40,9 @@
 
 ## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Security
+### Software / Security Testing
 
-*   [BeEF](http://beefproject.com/) - Manipulate the browser exploiting any XSS vulns you find.
+*   [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
 
 ## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

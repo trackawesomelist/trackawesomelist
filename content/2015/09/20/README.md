@@ -19,7 +19,7 @@
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Agency Tools
+### Agency Tools / General GIS Applications for making transit visualizations
 
 *   [Remix](http://getremix.com/) - A webapp that lets transit agencies easily plan routes.
 

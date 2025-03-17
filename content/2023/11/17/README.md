@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 17, 2023
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -49,19 +49,13 @@
 
 ### LangChain / Multi-agents
 
-*   [LangChain Template: Research Assistant (⭐99k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
+*   [LangChain Template: Research Assistant (⭐102k)](https://github.com/langchain-ai/langchain/tree/master/templates/research-assistant)
 
 ### Image Segmentation / Deforum
 
 *   [An early look our AI Music experiment - YouTube Blog](https://blog.youtube/inside-youtube/ai-and-music-experiment/)
 
-## [5. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
-
-### PlayCanvas
-
-*   [Texture Tool](https://playcanvas.com/texture-tool) - Tool for reprojecting textures.
-
-## [6. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+## [5. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
 
 ### Component Libraries
 
@@ -75,7 +69,7 @@
 
 *   [@web-types/lit](https://www.npmjs.com/package/@web-types/lit) - Attribute completion for HTML inside of tagged template literals.
 
-## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Components
 
@@ -85,23 +79,23 @@
 
 *   [LDRS (⭐1.3k)](https://github.com/GriffinJohnston/ldrs) - Lightweight, customizable loading animations/spinners.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Split and Window / Diagnostics
 
 *   [jyscao/ventana.nvim (⭐19)](https://github.com/jyscao/ventana.nvim) - Convenient flips & shifts for your windows layout.
 
-## [9. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [8. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / R
 
-*   [polarssql (⭐25)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
+*   [polarssql (⭐26)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 
 ### Resources / Talks and videos
 
 *   [Library of the week 13 : Polars with Python](https://www.youtube.com/watch?v=kv7rqHgX20w) ⏳ 15 min - A video that presents Polars with Python by [@enarroied](https://github.com/enarroied). Article supplied with the video [in this page](https://python.plainenglish.io/library-of-the-week-13-polars-fd1398a8841b).
 
-## [10. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Algorithms and Data Structures
 
@@ -117,15 +111,15 @@
 
 ### Serialization
 
-*   [atdgen (⭐316)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
+*   [atdgen (⭐321)](https://github.com/ahrefs/atd) — A serialization compiler for multiple languages (OCaml, Java, Python, Scala, Typescript) with a Binou or JSON format
 
-## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [10. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Graph databases
 
 *   [restagraph](https://codeberg.org/Equill/restagraph) - an app that dynamically generates REST APIs for a Neo4j database, using a schema defined within the database. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [12. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [11. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Strategy
 

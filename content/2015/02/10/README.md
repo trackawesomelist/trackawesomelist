@@ -243,7 +243,7 @@ Sometimes you want to force the browser to display some content instead of downl
 
 ### Python / Natural Language Processing
 
-*   [PyStanfordDependencies (⭐69)](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
+*   [PyStanfordDependencies (⭐70)](https://github.com/dmcc/PyStanfordDependencies) - Python interface for converting Penn Treebank trees to Stanford Dependencies.
 
 ---
 

@@ -1,12 +1,18 @@
 # Awesome List Updates on Oct 26, 2020
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Django
+
+*   [Django Web Framework (Python)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - MDN contributors
+
+## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### Command-Line Productivity
 
@@ -16,13 +22,13 @@
 
 *   [shellspec (⭐1k)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells
 
-## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### System Modeling / Apache License
 
 *   [radalib (⭐11)](https://github.com/sergio-gomez/Radalib) - Ada library and tools for the analysis of Complex Networks and more.
 
-## [3. Public Apis](/content/public-apis/public-apis/README.md)
+## [4. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -38,19 +44,19 @@
 
 
 
-## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [5. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Overlay
 
 *   [reoverlay (⭐148)](https://github.com/hiradary/reoverlay) - [demo](https://hiradary.github.io/reoverlay/) - The missing solution for managing modals.
 
-## [5. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
+## [6. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
 *   [Awesome FastAPI Projects (⭐1.4k)](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 
-## [6. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / CI/CD
 
@@ -104,43 +110,43 @@
 
 *   [Ember.js tutorial for beginners in 2020](https://www.youtube.com/watch?v=eQUvN9Ujs1s\&list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo) - A 10 part series by Shawn Chen
 
-## [7. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [8. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Projects
 
 *   [ASCII-Hangman (⭐7)](https://github.com/getreu/ascii-hangman) - Configurable Hangman game for children with ASCII-art rewarding.
 
-## [8. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [9. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
-*   [CycloneDX-PHP-Composer (⭐46)](https://github.com/CycloneDX/cyclonedx-php-composer) - Creates a [CycloneDX](https://cyclonedx.org/) "Software Bill-of-Materials" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by [OWASP DependencyTrack](https://dependencytrack.org/).
+*   [CycloneDX-PHP-Composer (⭐58)](https://github.com/CycloneDX/cyclonedx-php-composer) - Creates a [CycloneDX](https://cyclonedx.org/) "Software Bill-of-Materials" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by [OWASP DependencyTrack](https://dependencytrack.org/).
 
-## [9. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
+## [10. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 
 ### Tutorial
 
 *   [Vulkan Guide](https://vkguide.dev). \[MIT]
 
-## [10. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
+## [11. Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md)
 
 ### Proxies / Miscellaneous
 
 *   [exporter\_proxy (⭐6)](https://github.com/mrichar1/exporter_proxy) - A tiny, simple pure-python reverse-proxy for Prometheus exporters, with TLS support.
 
-## [11. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
+## [12. Awesome Gpt3](/content/elyase/awesome-gpt3/README.md)
 
 ### Demos / Program generation and analysis
 
 *   [Extracting information from documents, powered by GPT-3](https://twitter.com/theaievangelist/status/1300862719969681411)
 
-## [12. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+## [13. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ### Programs
 
 *   [fractals (⭐7)](https://github.com/Rusty-Bike/fractals) - A self-similar fractal generator with basic animation support.
 
-## [13. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [14. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
@@ -151,9 +157,9 @@
 
 *   [f-underscore](https://gitlab.common-lisp.net/bpm/f-underscore) - a tiny library of functional programming utils. `(f_ (+ _ _)) -> (lambda (_) (+ _ _))`. Public domain.
 
-### HTTP clients / Interfaces to other package managers
+### HTTP clients
 
-*   👍 [Dexador (⭐385)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
+*   👍 [Dexador (⭐388)](https://github.com/fukamachi/dexador) - An HTTP client, that aims at replacing Drakma. [MIT](https://opensource.org/licenses/MIT).
 
 ### Units / Third-party APIs
 
@@ -165,7 +171,7 @@
 
 ### Apps / Third-party APIs
 
-*   [parseq (⭐29)](https://github.com/mrossini-ethz/parseq) - a library for parsing sequences such as strings and lists using Parsing Expression Grammars (PEGs). Inspired by Esrap. GPL2.
+*   [parseq (⭐30)](https://github.com/mrossini-ethz/parseq) - a library for parsing sequences such as strings and lists using Parsing Expression Grammars (PEGs). Inspired by Esrap. GPL2.
 
 ### Compression / decompression / Third-party APIs
 
@@ -175,13 +181,13 @@
 
 *   [cl-pslib](https://notabug.org/cage/cl-pslib) - a (thin) wrapper around the [pslib](http://pslib.sourceforge.net/) library for generating PostScript files. Also [cl-pslib-barcode](https://notabug.org/cage/cl-pslib-barcode). [LLGPL](http://opensource.franz.com/preamble.html).
 
-## [14. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [15. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### Articles
 
 *   [How To Keep Your Mental Health In Check When You Work From Home](https://weworkremotely.com/how-to-keep-your-mental-health-in-check-when-you-work-from-home) - By WeWorkRemotely.
 
-## [15. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [16. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Autobiographies and Biographies
 
@@ -225,11 +231,11 @@
 
 
 
-## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [17. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Browsers
 
-*   [Agregore (⭐771)](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
+*   [Agregore (⭐780)](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
 
 ---
 

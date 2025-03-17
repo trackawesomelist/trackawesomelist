@@ -64,7 +64,7 @@
 
 ### Database Drivers/Clients
 
-*   [cryomongo (⭐71)](https://github.com/elbywan/cryomongo) - MongoDB driver
+*   [cryomongo (⭐72)](https://github.com/elbywan/cryomongo) - MongoDB driver
 
 ---
 

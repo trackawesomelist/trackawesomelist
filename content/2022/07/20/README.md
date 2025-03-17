@@ -53,7 +53,7 @@
 
 ### Security
 
-*   [Cyber Security University (⭐1.8k)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
+*   [Cyber Security University (⭐2k)](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
 *   [Hacking Spots (⭐1.1k)](https://github.com/daviddias/awesome-hacking-locations#readme)
 
 ## [9. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
@@ -78,11 +78,11 @@
 
 ### Utility / Diagnostics
 
-*   [anuvyklack/fold-preview (⭐136)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
+*   [anuvyklack/fold-preview (⭐134)](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
 
 ### Fennel / Diagnostics
 
-*   [Olical/conjure (⭐1.8k)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
+*   [Olical/conjure (⭐1.9k)](https://github.com/Olical/conjure) - Interactive evaluation (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile).
 
 ### Editing Support / Diagnostics
 
@@ -96,11 +96,11 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-html-inject (⭐64)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
+*   [vite-plugin-html-inject (⭐68)](https://github.com/donnikitos/vite-plugin-html-inject) - Split the `index.html` into smaller reusable pieces.
 
 ### Symfony / Community
 
-*   [Vite Bundle (⭐245)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
+*   [Vite Bundle (⭐252)](https://github.com/lhapaipai/vite-bundle) - Integration for Symfony.
 
 ## [14. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

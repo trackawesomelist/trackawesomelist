@@ -91,7 +91,7 @@
 
 ### Object-Oriented Programming
 
-*   [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** \[54:17]
+*   [Functional is cool, but do you know OO](https://www.youtube.com/watch?v=oiFYPAel-KY) by **Sandro Mancuso** (Devoxx UK 2013) \[54:17]
 
 ## [9. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 

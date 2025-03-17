@@ -96,7 +96,7 @@
 
 ### Other
 
-*   [DataToken (⭐19)](https://github.com/ownership-labs/DataToken): A decentralized access control system for off-chain data sharing and monetization. Its vision is to make the data flows more transparent, by returning data ownership to its owners while maintaining the computability of data.
+*   [DataToken (⭐20)](https://github.com/ownership-labs/DataToken): A decentralized access control system for off-chain data sharing and monetization. Its vision is to make the data flows more transparent, by returning data ownership to its owners while maintaining the computability of data.
 
 ## [7. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [EffekseerForGodot3 (⭐133)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects.
+*   [EffekseerForGodot3 (⭐134)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects.
 
 ## [9. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -179,11 +179,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-cesium (⭐237)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+*   [vite-plugin-cesium (⭐247)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-aliases (⭐215)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+*   [vite-aliases (⭐218)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 ## [18. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -271,8 +271,8 @@
 
 ### Driver crates / Other
 
-*   [DRV8825](https://crates.io/crates/drv8825) - DRV8825 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/drv8825.svg)](https://crates.io/crates/drv8825)
-*   [STSPIN220](https://crates.io/crates/stspin220) - STSPIN220 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/stspin220.svg)](https://crates.io/crates/stspin220)
+*   [DRV8825](https://crates.io/crates/drv8825) - DRV8825 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](http://web.archive.org/web/20210129151911/https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/drv8825.svg)](https://crates.io/crates/drv8825)
+*   [STSPIN220](https://crates.io/crates/stspin220) - STSPIN220 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](http://web.archive.org/web/20210129151911/https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/stspin220.svg)](https://crates.io/crates/stspin220)
 
 ### no-std crates / WIP
 
@@ -315,21 +315,27 @@
 
 *   [Dekart](https://dekart.xyz/) - Large scale geospatial analytics for Google BigQuery based on Kepler.gl.
 
-## [24. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [24. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+
+### Games / Browser Games
+
+*   [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
+
+## [25. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI
 
-*   [Timeline Tile (⭐758)](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - Tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+*   [Timeline Tile (⭐767)](https://github.com/JHBitencourt/timeline_tile) <!--stargazers:JHBitencourt/timeline_tile--> - Tile to help build beautiful and customisable timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
 ### Text & Rich Content / Image Picker
 
-*   [Code Field (⭐232)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
+*   [Code Field (⭐237)](https://github.com/BertrandBev/code_field) - Customizable code field widget supporting syntax highlighting by [Bertrand Bevillard](https://github.com/BertrandBev)
 
 ### Templates / Preferences
 
-*   [Beautiful Timelines (⭐328)](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
+*   [Beautiful Timelines (⭐329)](https://github.com/JHBitencourt/beautiful_timelines) <!--stargazers:JHBitencourt/beautiful_timelines--> - A set of beautiful timelines by [Julio Bitencourt](https://github.com/JHBitencourt).
 
-## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -337,25 +343,25 @@
 
 ### Software / Inventory Management
 
-*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐4.6k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
+*   [Inventree](https://inventree.readthedocs.io/en/latest/) - InvenTree is an open-source inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐4.8k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 
 ### Software / Note-taking & Editors
 
-*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐47k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
+*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐48k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 
-## [26. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [27. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
-*   🧩 [Litepie Date picker (⭐374)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
+*   🧩 [Litepie Date picker (⭐375)](https://github.com/kenhyuwa/litepie-datepicker) - A date range picker component for Vue.js and Tailwind CSS.
 
-## [27. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [28. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### People
 
 *   [Átila Neves](https://atilaoncode.blog/) - [Deputy Leader of D](https://dlang.org/blog/2019/10/15/my-vision-of-ds-future/).
 
-## [28. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [29. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### Swift
 
@@ -377,7 +383,7 @@
 
 *   [*Нативная разработка мобильных приложений. Перекрестный справочник для iOS и Android* - Льюис Шон, Данн Майк](https://www.ozon.ru/product/nativnaya-razrabotka-mobilnyh-prilozheniy-perekrestnyy-spravochnik-dlya-ios-i-android-lyuis-shon-174626896/#section-description--offset-80)
 
-## [29. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [30. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Learning Platforms
 
@@ -392,19 +398,19 @@
 *   📝 [Elementary Number Theory](http://math.utoledo.edu/~codenth/Spring_13/3200/ENT-books/Elementary_Number_Theory-Clark.pdf) - W. Edwin Clark (University of South Florida)
 *   📝 [Number Theory: A Contemporary Introduction](http://alpha.math.uga.edu/~pete/4400FULL.pdf) - Pete L. Clark
 
-## [30. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
+## [31. AwesomeCSV](/content/secretGeek/AwesomeCSV/week/README.md)
 
-### Data / CSV <-> JSON
+### Generate Data / CSV <-> JSON
 
 *   [Fake Name Generator](https://www.fakenamegenerator.com/order.php) - Generate fake names with other identity data in bulk for testing.
 
-## [31. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [32. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Components / Themes
 
 *   [antd-group-slider (⭐3)](https://github.com/huyennbl/antd-group-slider) - A group of sliders that help input data with multiple ranges & description. Have data sync between sliders to improve UX, avoid accidental missing range during inputing range data.
 
-## [32. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
+## [33. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/week/README.md)
 
 ### Demo
 
@@ -420,13 +426,13 @@
 
 *   [Integration Blueprints (⭐1)](https://github.com/Sitecore/Integration-Blueprints) - Sample code showing how to integrate Sitecore products with each other, and also with 3rd party systems.
 
-## [33. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
+## [34. Awesome Roslyn](/content/ironcev/awesome-roslyn/week/README.md)
 
 ### Open Source Analyzers, Code Fixes, and Refactorings
 
 *   [Nullable.Extended (⭐20)](https://github.com/tom-englert/Nullable.Extended) - Roslyn tools and analyzers to improve the experience when coding with nullable reference types.
 
-## [34. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [35. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Standalone apps / Playground
 
@@ -437,13 +443,13 @@
 
 *   :octocat: [tRPC](https://www.trpc.io/) - TypeScript toolkit for building end-to-end type-safe APIs
 
-## [35. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
+## [36. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/week/README.md)
 
 ### Libraries for driving the protocol (or a layer above)
 
 *   Kotlin: [chrome-devtools-kotlin (⭐47)](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
 
-## [36. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
+## [37. Awesome Scala](/content/lauris/awesome-scala/week/README.md)
 
 ### Books / Devops
 
@@ -464,26 +470,26 @@
 
 *   <https://alvinalexander.com>
 
-## [37. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
+## [38. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/week/README.md)
 
 ### AppImage developer tools / Libraries
 
 *   [QAppImageUpdate (⭐28)](https://github.com/antony-jr/QAppImageUpdate) - Qt5 library and plugin for updating AppImages, can be embedded into applications.
 
-## [38. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [39. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Programming Languages
 
 *   [C (⭐3.5k)](https://github.com/inputsh/awesome-c#readme)
-*   [D (⭐665)](https://github.com/dlang-community/awesome-d#readme)
+*   [D (⭐676)](https://github.com/dlang-community/awesome-d#readme)
 
 ### Front-End Development
 
-*   [PageSpeed Metrics (⭐677)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+*   [PageSpeed Metrics (⭐679)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
 
 ### Development Environment
 
-*   [Fish (⭐4.2k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+*   [Fish (⭐4.4k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
 *   [Alfred Workflows (⭐3.1k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 
 ### Media
@@ -492,11 +498,11 @@
 
 ### Business
 
-*   [Developer-First Products (⭐1.1k)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐1.2k)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ### Work
 
-*   [Programming Interviews (⭐72k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+*   [Programming Interviews (⭐73k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 
 ### Testing
 
@@ -504,17 +510,17 @@
 
 ### Miscellaneous
 
-*   [Userscripts (⭐2k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
-*   [Agriculture (⭐1.3k)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
-*   [Translations (⭐149)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+*   [Userscripts (⭐2.2k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
+*   [Agriculture (⭐1.4k)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
+*   [Translations (⭐157)](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 
-## [39. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [40. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### CMS
 
 *   [Agility CMS](https://agilitycms.com) - The best of both worlds for developers and content editors.
 
-## [40. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
+## [41. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
 ### C++ / General-Purpose Machine Learning
 
@@ -526,21 +532,21 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [River (⭐5.1k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
+*   [River (⭐5.2k)](https://github.com/online-ml/river): A framework for general purpose online machine learning.
 
-## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Files and directories / Third-party APIs
 
 *   [fof](https://gitlab.com/ambrevar/fof) - File-object finder Common Lisp library. Enable rapid file search, inspection and manipulation. [GPL3](http://www.gnu.org/copyleft/gpl.html).
 
-## [42. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [43. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### App Routing
 
 *   [Composable Navigator (⭐583)](https://github.com/Bahn-X/swift-composable-navigator) - An open source library for building deep-linkable SwiftUI applications with composition, testing and ergonomics in mind
 
-## [43. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [44. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Culture
 
@@ -554,7 +560,7 @@
 
 *   [Writing Your First Postmortem](https://sharpend.io/writing-your-first-postmortem/)
 
-## [44. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [45. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Events/Meetups / PHP
 
@@ -668,7 +674,7 @@
     Given the still small number of women speaking at events (especially technology) here in Brazil, a spreadsheet was created to give these women visibility and to encourage others to start.
     Mulheres Palestrantes is a project that keeps a list of women who talk about themes related to programming, design, entrepreneurship and technology in general, this project was born from trying to organize the data of the worksheet in a more visual, facilitating access, reducing duplication and facilitating research.
 
-## [45. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [46. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Libraries
 
@@ -695,21 +701,11 @@
 
 *   [VK² (⭐125)](https://github.com/kotlin-graphics/vkk), Kotlin Wrapper for Vulkan: code expressiveness and safety meet graphic power \[Apache License 2.0]
 
-## [46. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/week/README.md)
+## [47. Awesome Tensorflow Js](/content/aaronhma/awesome-tensorflow-js/week/README.md)
 
 ### Learn / Books
 
 *   [Learning Tensorflow.js: Powerful Machine Learning in JavaScript](https://amzn.to/3dR3vpY) - In this guide, author [Gant Laborde](https://github.com/gantman) provides a hands-on, end-to-end approach to TensorFlow\.js fundamentals for a broad technical audience that includes data scientists, engineers, web developers, students, and researchers.
-
-## [47. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
-
-### Community
-
-*   [Openbase](https://openbase.com/js/playcanvas)
-
-### Browser Games
-
-*   [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
 
 ## [48. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/week/README.md)
 

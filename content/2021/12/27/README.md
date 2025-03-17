@@ -169,7 +169,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [luisiacc/gruvbox-baby (⭐407)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full Tree-sitter support.
+*   [luisiacc/gruvbox-baby (⭐408)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full Tree-sitter support.
 
 ## [10. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
@@ -194,7 +194,7 @@
 
 ### Bayesian Modeling / Nonparametric Model
 
-*   [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***Statistical Science***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995\&hl=en\&as_sdt=0,5)].
+*   [Nonparametric Bayesian Data Analysis](https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/Nonparametric-Bayesian-Data-Analysis/10.1214/088342304000000017.full) - ***Statistical Science***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=13476170780072319995)]. This paper reviews the current state of nonparametric Bayesian inference. The discussion follows a list of important statistical inference problems, including density estimation, regression, survival analysis, hierarchical models and model validation. For each inference problem the authors review relevant nonparametric Bayesian models and approaches including Dirichlet process (DP) models and variations, Pólya trees, wavelet based models, neural network models, spline regression, CART, dependent DP models and model validation with DP and Pólya tree extensions of parametric models.
 
 ---
 

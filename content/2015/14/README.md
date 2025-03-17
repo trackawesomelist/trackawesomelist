@@ -150,7 +150,7 @@
 
 ### UI / Barcode
 
-*   [KMPlaceholderTextView (⭐805)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
+*   [KMPlaceholderTextView (⭐804)](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
 
 ## [10. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
@@ -226,7 +226,7 @@
 
 ### Queues and Messaging
 
-*   [Sneakers (⭐2.3k)](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ.
+*   [Sneakers (⭐2.2k)](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ.
 
 ## [14. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -237,7 +237,7 @@
 ### Files and Directories
 
 *   [librex (⭐36)](https://github.com/ricn/librex) - Elixir library to convert office documents to other formats using LibreOffice.
-*   [zarex (⭐28)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
+*   [zarex (⭐29)](https://github.com/ricn/zarex) - Filename sanitization for Elixir.
 
 ### Framework Components
 
@@ -251,17 +251,17 @@
 
 ### Packages / Filesystem
 
-*   [istextorbinary (⭐148)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+*   [istextorbinary (⭐150)](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 
 ### Packages / Network
 
-*   [getmac (⭐358)](https://github.com/bevry/getmac) - Get the computer MAC address.
+*   [getmac (⭐359)](https://github.com/bevry/getmac) - Get the computer MAC address.
 
 ## [16. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Frameworks
 
-*   [Tigon (⭐279)](https://github.com/caskdata/tigon) - High Throughput Real-time Stream Processing Framework.
+*   [Tigon (⭐284)](https://github.com/caskdata/tigon) - High Throughput Real-time Stream Processing Framework.
 
 ## [17. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 

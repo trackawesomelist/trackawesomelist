@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 13, 2024
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Autonomous LLM Agents / Multi-agents
 
-*   [microsoft/TinyTroupe (⭐5.3k)](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights
+*   [microsoft/TinyTroupe (⭐6k)](https://github.com/microsoft/TinyTroupe): LLM-powered multiagent persona simulation for imagination enhancement and business insights
 
 ## [4. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/README.md)
 
@@ -32,25 +32,19 @@
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Early AI](https://www.startearly.ai/) - Save time, enhance code coverage, and ensure quality with Early's automatically generated, verified, and validated unit tests.
+*   [Early AI](https://www.startearly.ai/) - Save time, enhance code coverage, and ensure quality with Early's automatically generated, verified, and validated unit tests.  Works with Jest and Vitest.
 
-## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Software Architecture
-
-*   [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR) - Derek M. Jones (PDF) (CC BY-SA)
-
-## [7. Awesome Java](/content/akullpp/awesome-java/README.md)
+## [6. Awesome Java](/content/akullpp/awesome-java/README.md)
 
 ### Architecture
 
-*   [jMolecules (⭐1.2k)](https://github.com/xmolecules/jmolecules) - Annotations and interfaces to express design and architecture concepts in code.
+*   [jMolecules (⭐1.3k)](https://github.com/xmolecules/jmolecules) - Annotations and interfaces to express design and architecture concepts in code.
 
 ### Build
 
-*   [Buck2 (⭐3.6k)](https://github.com/facebook/buck2) - Encourages the creation of small, reusable modules consisting of code and resources.
+*   [Buck2 (⭐3.7k)](https://github.com/facebook/buck2) - Encourages the creation of small, reusable modules consisting of code and resources.
 
 ### Dependency Injection / Text-Based User Interfaces
 
@@ -60,7 +54,7 @@
 
 *   [Flogger](https://google.github.io/flogger/) - Flogger is a fluent logging API for Java. It supports a wide variety of features, and has many benefits over existing logging APIs.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### HTTP Servers / Clack plugins
 
@@ -69,24 +63,19 @@
 
 ### HTML generators and templates / Isomorphic web frameworks
 
-*   [hsx (⭐21)](https://github.com/skyizwhite/hsx/) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT](https://opensource.org/licenses/MIT).
+*   [hsx (⭐25)](https://github.com/skyizwhite/hsx/) - An easily composable HTML5 generation library with the most simplistic syntax. [MIT](https://opensource.org/licenses/MIT).
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Documentation
 
-*   [RapiDoc (⭐1.7k) (⭐1.7k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
-*   [Stoplight Elements (⭐1.8k) (⭐1.9k)](https://github.com/stoplightio/elements) - Beautiful API documentation powered by OpenAPI and Markdown. Use these UI components to create API reference documentation, or more complete documentation with Markdown articles covering tutorials, how-to guides, etc.
-
-### Projects / API Gateway
-
-*   [KrakenD API Gateway (⭐2k) (⭐2.1k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
+*   [RapiDoc (⭐1.7k) (⭐1.8k)](https://github.com/rapi-doc/RapiDoc) - Produces highly customizable, interactive API documentation with responsive design and rich configuration options.
 
 ### Resources / API Specification
 
 *   [OpenAPI (ex.Swagger) (⭐29k) (⭐29k)](https://github.com/OAI/OpenAPI-Specification) - A language-agnostic specification for creating RESTful APIs that enables both humans and machines to understand the capabilities of a service without the need for source code or documentation.
 
-## [10. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+## [9. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
 
 ### Templates
 
@@ -119,7 +108,7 @@
 
 *   [Free e-book Foundation](https://ebookfoundation.github.io/) - Free ebooks to help your journey!
 
-## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [10. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### C / Syntax highlighting packages
 

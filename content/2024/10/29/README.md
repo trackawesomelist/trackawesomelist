@@ -16,7 +16,7 @@
 
 ### Image Processing
 
-*   \[Jpegli]\[[https://github.com/google/jpegli (⭐163)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
+*   \[Jpegli]\[[https://github.com/google/jpegli (⭐178)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
 
 ## [3. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
@@ -38,16 +38,16 @@
 
 ### Native / Text-Based User Interfaces
 
-*   [native-lib-loader (⭐184)](https://github.com/scijava/native-lib-loader) - Native library loader for extracting and loading native libraries from Java.
+*   [native-lib-loader (⭐200)](https://github.com/scijava/native-lib-loader) - Native library loader for extracting and loading native libraries from Java.
 
 ### Testing / Frameworks
 
-*   [cdi-test (⭐26)](https://github.com/guhilling/cdi-test) - JUnit extension for easy and efficient testing of CDI components.
-*   [weld-testing (⭐101)](https://github.com/weld/weld-testing) - Set of test framework extensions (JUnit 4, JUnit 5, Spock) to enhance the testing of CDI components via Weld. Supports Weld 5.
+*   [cdi-test (⭐27)](https://github.com/guhilling/cdi-test) - JUnit extension for easy and efficient testing of CDI components.
+*   [weld-testing (⭐105)](https://github.com/weld/weld-testing) - Set of test framework extensions (JUnit 4, JUnit 5, Spock) to enhance the testing of CDI components via Weld. Supports Weld 5.
 
 ### Testing / Miscellaneous
 
-*   [Testcontainers (⭐8k)](https://github.com/testcontainers/testcontainers-java) - Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+*   [Testcontainers (⭐8.2k)](https://github.com/testcontainers/testcontainers-java) - Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
@@ -63,21 +63,15 @@
 
 ### Documentation
 
-*   [fitting (⭐60)](https://github.com/tuwilof/fitting) - Library add improve test log for RSpec and WebMock, validate its according to API Blueprint and Open API, show the documentation coverage with log.
+*   [fitting (⭐61)](https://github.com/tuwilof/fitting) - Library add improve test log for RSpec and WebMock, validate its according to API Blueprint and Open API, show the documentation coverage with log.
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Web Frameworks
 
-*   [WebGo (⭐304)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
+*   [WebGo (⭐303)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [zellij](https://zellij.dev) - A terminal workspace with batteries included (modern replacement for tmux and more).[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zellij-org/zellij) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-## [10. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+## [9. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ### Global Connectivity Indexes
 
@@ -99,34 +93,34 @@
 
 *   [Continent of Africa: High Resolution Population Density Maps](https://data.humdata.org/dataset/highresolutionpopulationdensitymaps) by Meta - HRSL datasets offering unprecedented accuracy in population mapping.
 
-## [11. Awesome List](/content/sindresorhus/awesome/README.md)
+## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Theory
 
-*   [VLM Architectures (⭐492)](https://github.com/gokayfem/awesome-vlm-architectures#readme) - Vision Language Model architectures.
+*   [VLM Architectures (⭐671)](https://github.com/gokayfem/awesome-vlm-architectures#readme) - Vision Language Model architectures.
 
 ### Gaming
 
-*   [Babylon.js (⭐253)](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
+*   [Babylon.js (⭐265)](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
 
 ### Health and Social Science
 
-*   [Lucid Dreams (⭐53)](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
+*   [Lucid Dreams (⭐70)](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 
-## [12. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [11. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### Security
 
 *   [Shodan](https://help.shodan.io/the-basics/academic-upgrade) \[FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
 *   [Malwarebytes](https://www.malwarebytes.com/student-discount) \[Discount] - Get 50% off device security by entering your information into ProxID to get verified as a student.
 
-## [13. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
+## [12. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md)
 
 ### Tools
 
 *   🎨🌍🔧 [InclusiveColors](https://www.inclusivecolors.com/) - Create fine-tuned WCAG accessible Tailwind CSS color palettes.
 
-## [14. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [13. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -134,12 +128,18 @@
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-translate-routes (⭐4)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 *   [ngx-translate-lint (⭐34)](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
+*   [ngx-translate-routes (⭐6)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 
 ### QR Codes / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-qrcode-generator (⭐2)](https://github.com/mustafaer/ngx-qrcode-generator) - An Angular component that generates QR codes using the [QRious (⭐1.6k)](https://github.com/neocotic/qrious) library.
+
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Bootstrap
+
+*   [Learn Java for FTC (⭐144)](https://github.com/alan412/LearnJavaForFTC) - Alan Smith (PDF)
 
 ---
 

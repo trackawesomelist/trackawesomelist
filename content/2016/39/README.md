@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 26 - Oct 02, 2016
 
-44 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,13 +20,44 @@
 
 *   [rustls (⭐5.9k)](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
 
-## [2. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Chapel / Non-X86
+
+*   [Chapel Tutorial for Programmers](http://web.archive.org/web/20150310075109/http://cs.colby.edu/kgburke/?resource=chapelTutorial) *(:card\_file\_box: archived)*
+
+### COBOL / Non-X86
+
+*   [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
+
+### F Sharp / Phoenix
+
+*   [F# for fun and profit](https://www.gitbook.com/book/swlaschin/fsharpforfunandprofit/details) (ePub)
+
+### Haxe / Spock Framework
+
+*   [Kha Handbook (⭐1.5k)](https://github.com/KTXSoftware/Kha/wiki/Tutorials)
+
+### Lisp / TeX
+
+*   [Google's Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+*   [Learning to Program](http://www.alan-g.me.uk)
+
+### Standard ML / Play Scala
+
+*   [Programming in Standard ML, DRAFT](http://www.cs.cmu.edu/~rwh/isml/book.pdf) - Robert Harper (PDF)
+
+## [3. Awesome Deep Vision](/content/kjw0612/awesome-deep-vision/week/README.md)
 
 ### Blogs / Question Answering
 
 *   [Implementing Neural networks](http://peterroelants.github.io/)
 
-## [3. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Models/Projects
 
@@ -36,13 +67,13 @@
 
 *   [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do) – by Aurélien Geron, former lead of the YouTube video classification team. Covers ML fundamentals, training and deploying deep nets across multiple servers and GPUs using TensorFlow, the latest CNN, RNN and Autoencoder architectures, and Reinforcement Learning (Deep Q).
 
-## [4. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
+## [5. Awesome Json Datasets](/content/jdorfman/awesome-json-datasets/week/README.md)
 
 ### GitHub API
 
 *   [Meta](https://api.github.com/meta)
 
-## [5. Bots](/content/hackerkid/bots/week/README.md)
+## [6. Bots](/content/hackerkid/bots/week/README.md)
 
 ### Tools For Building Bots
 
@@ -54,7 +85,7 @@
 
 *   [Go (⭐3k)](https://github.com/tucnak/telebot)
 
-## [6. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### Portugal 🇵🇹 / Braga
 
@@ -70,7 +101,7 @@ Webpage: N/A
 
 ![](http://www.speedtest.net/result/5678886940.png)
 
-## [7. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [8. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Style Guide Generators :slot_machine: / Editor's Draft :black_nib:
 
@@ -81,13 +112,13 @@ Webpage: N/A
 
 *   [CSS Architecture with SMACSS](https://www.youtube.com/watch?v=6co781JgoqQ) :watch: `30:15` - Caleb Meredith @ DevTips channel.
 
-## [8. Amas](/content/sindresorhus/amas/week/README.md)
+## [9. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Kundan Singh (⭐0)](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
 
-## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [10. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / Custom License / Usage
 
@@ -97,25 +128,25 @@ Webpage: N/A
 
 *   [AMCharts - Free SVG Maps](https://www.amcharts.com/svg-maps/) - [:copyright:](https://creativecommons.org/licenses/by-nc/4.0/) A directory of free non-commercial, attribution licensed SVG maps in two level of details: High and low.
 
-## [10. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
+## [11. Awesome Wagtail](/content/springload/awesome-wagtail/week/README.md)
 
 ### Resources / Presentations
 
 *   [DjangoCon US 2015 - Wagtail - Yet Another Django CMS](https://www.youtube.com/watch?v=6j0NVq6g4FE) by Tom Dyson - Tom will explain why his agency decided to build a new CMS, share some lessons learned in running a growing open source project, and outline Wagtail's roadmap to version 2 and beyond. [Slide deck](https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015).
 
-## [11. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [12. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Community / Videos
 
 *   [Laravel.io Forum](http://laravel.io/forum)
 
-## [12. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [13. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Behaviors
 
 *   [Polymer-Apollo (⭐79)](https://github.com/aruntk/polymer-apollo) Polymer Apollo GraphQL Integration.
 
-## [13. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [14. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### Pomodoro / Enterprise Git Service
 
@@ -126,13 +157,13 @@ Webpage: N/A
 
 *   [Todoist](https://todoist.com/) (`Cloud`,`Mac`,`Win`,`Android`,`iOS`): Todoist invented the karma system which keeps track of the tasks done.
 
-## [14. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [15. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Typography
 
 *   [Fontpair](http://fontpair.co): Beautiful Google Font combinations and pairs.
 
-## [15. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [16. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Systems
 
@@ -150,7 +181,7 @@ Webpage: N/A
     *   [Lectures](http://people.seas.harvard.edu/\~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
     *   [Assignments](http://people.seas.harvard.edu/\~minilek/cs229r/fall15/hmwk.html)
 
-## [16. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
+## [17. Awesome Sass](/content/Famolus/awesome-sass/week/README.md)
 
 ### Articles / Miscellaneous
 
@@ -161,45 +192,45 @@ Webpage: N/A
 *   [Inverse trigonometric functions with Sass](http://thesassway.com/advanced/inverse-trigonometric-functions-with-sass)
 *   [Stop Arguing So Much with Your Mixins](http://sassbreak.com/stop-arguing-with-your-mixins)
 
-## [17. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [18. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Audio
 
-*   [AudioPlayerSwift (⭐278)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
+*   [AudioPlayerSwift (⭐279)](https://github.com/tbaranes/AudioPlayerSwift) - AudioPlayer is a simple class for playing audio (basic and advanced usage) in iOS, OS X and tvOS apps.
 
-## [18. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [19. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Database Drivers/Clients
 
 *   [crystal-mysql (⭐106)](https://github.com/crystal-lang/crystal-mysql) - MySQL connector for Crystal
-*   [crystal-sqlite3 (⭐141)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
+*   [crystal-sqlite3 (⭐143)](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
 
-## [19. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [20. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Time-Series Databases
 
-*   [Druid (⭐13k)](https://github.com/druid-io/druid/) Column oriented distributed data store ideal for powering interactive applications
+*   [Druid (⭐14k)](https://github.com/druid-io/druid/) Column oriented distributed data store ideal for powering interactive applications
 *   [Riak-TS](http://basho.com/products/riak-ts/) Riak TS is the only enterprise-grade NoSQL time series database optimized specifically for IoT and Time Series data.
-*   [Akumuli (⭐818)](https://github.com/akumuli/Akumuli) Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
+*   [Akumuli (⭐836)](https://github.com/akumuli/Akumuli) Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
 *   [Rhombus](https://github.com/Pardot/Rhombus) A time-series object store for Cassandra that handles all the complexity of building wide row indexes.
-*   [Dalmatiner DB (⭐699)](https://github.com/dalmatinerdb/dalmatinerdb) Fast distributed metrics database
-*   [Blueflood (⭐591)](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
-*   [Timely (⭐367)](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
+*   [Dalmatiner DB (⭐693)](https://github.com/dalmatinerdb/dalmatinerdb) Fast distributed metrics database
+*   [Blueflood (⭐596)](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
+*   [Timely (⭐381)](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
 
-## [20. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [21. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Malware Collection / Malware Corpora
 
 *   [Ragpicker (⭐91)](https://github.com/robbyFux/Ragpicker) - Plugin based malware
     crawler with pre-analysis and reporting functionalities
 
-## [21. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [22. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Functional Programming / Runner
 
-*   [preludejs (⭐99)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
+*   [preludejs (⭐100)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 
-## [22. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [23. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Books
 
@@ -216,7 +247,7 @@ How to go on the offence before online attackers do.
 
 A portable public domain password hashing framework for use in PHP applications.
 
-## [23. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
+## [24. Awesome Ctf](/content/apsdehal/awesome-ctf/week/README.md)
 
 ### Networking
 
@@ -231,7 +262,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 *   [W3af (⭐4k)](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 
-## [24. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [25. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Applications
 
@@ -239,7 +270,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Authorization
 
-*   [authorize (⭐99)](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
+*   [authorize (⭐100)](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
 
 ### Cloud Infrastructure and Management
 
@@ -253,7 +284,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 *   [prometheus.ex (⭐413)](https://github.com/deadtrickster/prometheus.ex) - Elixir-friendly [Prometheus.io](https://prometheus.io) monitoring system and time series database client.
 
-## [25. Tips](/content/git-tips/tips/week/README.md)
+## [26. Tips](/content/git-tips/tips/week/README.md)
 
 ## Apply commit from another repository
 
@@ -266,13 +297,13 @@ git --git-dir=<source-dir>/.git format-patch -k -1 --stdout <SHA1> | git am -3 -
 git merge-base <branch-name> <other-branch-name>
 ```
 
-## [26. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [27. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Open Source
 
 *   [Infinite Scroll](https://bitbucket.org/uzeidurs/fuse-infinite-scroll/) - An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.
 
-## [27. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [28. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Data Manipulation
 
@@ -282,25 +313,25 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [sparklyr](http://spark.rstudio.com/) - R interface for Apache Spark from RStudio.
 
-## [28. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [29. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Featured Projects / Slides and Notes
 
 *   [Reflexbox (⭐1.4k)](https://github.com/jxnblk/reflexbox) - Responsive React flexbox grid system higher order component.
 
-## [29. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
+## [30. Awesome Redux](/content/brillout/awesome-redux/week/README.md)
 
 ### Utilities
 
 *   [redux-transducers (⭐130)](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux.
 
-## [30. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+## [31. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
 
 ### CSS
 
 *   [mui (⭐4.5k)](https://github.com/muicss/mui) — A lightweight CSS framework that follows Material Design guidelines.
 
-## [31. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
+## [32. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/week/README.md)
 
 ### Development Projects / Apps
 
@@ -311,14 +342,14 @@ git merge-base <branch-name> <other-branch-name>
 *   [Pokemon Go Bot (⭐23)](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
 *   [PokeBot (⭐17)](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine.
 
-## [32. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [33. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Low-level Vision / Change Detection
 
 *   [Labeled and Annotated Sequences for Integral Evaluation of SegmenTation Algorithms](http://www.gti.ssr.upm.es/data/LASIESTA)
 *   [ChangeDetection.net](http://www.changedetection.net/)
 
-## [33. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [34. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -328,32 +359,32 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [DreamFactory](http://www.dreamfactory.com) - DreamFactory is a free open source REST API Platform for mobile, web and IoT Applications.
 
-## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [35. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Web Frameworks
 
 *   [Syro (⭐138)](https://github.com/soveran/syro/) - Simple router for web applications.
 
-## [35. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
+## [36. Awesome](/content/Awesome-Windows/Awesome/week/README.md)
 
 ### Security
 
 *   [GlassWire](https://www.glasswire.com/) - Network security monitoring tool and analyzer that visualizes your network activity.
 
-## [36. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [37. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In Spanish
 
 *   [Fallo de sistema](http://www.rtve.es/alacarta/audios/fallo-de-sistema/) - Programa de divulgación científica, ciencia ficción y vídeo juegos.
 *   [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 
-## [37. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
+## [38. Progressive Enhancement Resources](/content/jbmoelker/progressive-enhancement-resources/week/README.md)
 
 ### Testing Methods
 
 *   [Device emulators and simulators](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/testing-other-browsers?hl=en#device-emulators-and-simulators)
 
-## [38. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [39. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### GUI
 
@@ -371,13 +402,13 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [Android Tips & Tricks (⭐4.6k)](https://github.com/nisrulz/android-tips-tricks) - Cheatsheet about tips and tricks for Android Development.
 
-## [39. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [40. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
 *   [VueJS 2 French tutorial](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0) Français par Grafikart
 
-## [40. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
+## [41. Awesome Npm Scripts](/content/RyanZim/awesome-npm-scripts/week/README.md)
 
 ### Miscellaneous / Utility Packs
 
@@ -388,7 +419,7 @@ git merge-base <branch-name> <other-branch-name>
 *   You can pass arguments to your scripts by passing `--` to `npm run`, followed by the arguments. Example: Given the script `"mocha": "mocha"`, you can run `npm run mocha -- --reporter xunit`. This effectively runs `mocha --reporter xunit`.
 *   You can run `npm run <script> -s` to silence the default npm output (useful for calling a script within another script).
 
-## [41. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Code Analysis and Metrics
 
@@ -414,7 +445,7 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [CefSharp (⭐9.9k)](https://github.com/cefsharp/CefSharp/) - HTML5, CSS3 and JS web browser powered by Chromium, for WinForms and WPF
 
-## [42. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [43. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Reliability
 
@@ -424,7 +455,7 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [Book Review: Site Reliability Engineering - How Google Runs Production Systems](https://www.infoq.com/articles/site-reliability-engineering)
 
-## [43. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [44. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Elastic Compute Cloud
 
@@ -438,7 +469,7 @@ git merge-base <branch-name> <other-branch-name>
 
 *   [s3tools/s3cmd :fire::fire::fire::fire::fire: (⭐4.2k)](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
 
-## [44. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [45. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Tools and Equipment / Biology and Chemistry
 

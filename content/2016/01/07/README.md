@@ -62,7 +62,7 @@
 
 ### Command Line Applications
 
-*   [table\_rex (⭐249)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
+*   [table\_rex (⭐253)](https://github.com/djm/table_rex) - Generate configurable ASCII style tables for display.
 
 ### Files and Directories
 

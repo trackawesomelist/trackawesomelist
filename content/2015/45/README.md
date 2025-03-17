@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 09 - Nov 15, 2015
 
-26 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -33,7 +33,7 @@
 
 ### Cognitive Development
 
-*   [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** \[15:04]
+*   [Steve Jobs' 2005 Stanford Commencement Address](https://www.youtube.com/watch?v=UF8uR6Z6KLc) by **Steve Jobs** (Stanford 2005) \[15:04]
 
 ## [5. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
@@ -118,11 +118,11 @@
 
 ### CLI Utilities
 
-*   [Pastel (⭐639)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
+*   [Pastel (⭐643)](https://github.com/peter-murach/pastel) - Terminal output styling with intuitive and clean API.
 
 ### Code Analysis and Metrics
 
-*   [Pippi (⭐287)](https://github.com/tcopeland/pippi) - A utility for finding suboptimal Ruby class API usage, focused on runtime analysis.
+*   [Pippi (⭐286)](https://github.com/tcopeland/pippi) - A utility for finding suboptimal Ruby class API usage, focused on runtime analysis.
 
 ### Database Tools
 
@@ -131,7 +131,7 @@
 ### Natural Language Processing
 
 *   [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
-*   [Treetop (⭐306)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
+*   [Treetop (⭐309)](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
 
 ### Queues and Messaging
 
@@ -184,7 +184,7 @@
 
 ### Contents / Tools
 
-*   [picotool (⭐357)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
+*   [picotool (⭐372)](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 
 ## [17. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -202,10 +202,6 @@
 ### Embedded Systems
 
 *   [nerves](http://nerves-project.org) - A framework for writing embedded software in Elixir.
-
-### Queue
-
-*   [toniq (⭐337)](https://github.com/joakimk/toniq) - Simple and reliable background job library for Elixir.
 
 ## [19. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -274,12 +270,12 @@ git describe --tags --abbrev=0
 
 ### Packages / Command-line apps
 
-*   [Jsome (⭐244)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
+*   [Jsome (⭐246)](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
 
 ### Packages / Command-line utilities
 
 *   [chalk (⭐22k)](https://github.com/chalk/chalk) - Terminal string styling done right.
-*   [multispinner (⭐296)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
+*   [multispinner (⭐295)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
 
 ### Packages / Streams
 
@@ -287,7 +283,7 @@ git describe --tags --abbrev=0
 
 ### Packages / Real-time
 
-*   [SocketCluster (⭐6.1k)](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
+*   [SocketCluster (⭐6.2k)](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 
 ### Packages / Math
 
@@ -295,11 +291,11 @@ git describe --tags --abbrev=0
 
 ### Packages / Parsing
 
-*   [PEG.js (⭐4.8k)](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
+*   [PEG.js (⭐4.9k)](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
 
 ### Packages / Compression
 
-*   [Archiver (⭐2.8k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
+*   [Archiver (⭐2.9k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 
 ### Packages / Testing
 
@@ -307,7 +303,7 @@ git describe --tags --abbrev=0
 
 ### Packages / Minifiers
 
-*   [minimize (⭐162)](https://github.com/Swaagie/minimize) - HTML minifier.
+*   [minimize (⭐161)](https://github.com/Swaagie/minimize) - HTML minifier.
 *   [imagemin (⭐5.6k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management
@@ -334,10 +330,24 @@ git describe --tags --abbrev=0
 
 ### UI / Barcode
 
-*   [GMStepper (⭐925)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
-*   [StarryStars (⭐174)](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
+*   [GMStepper (⭐924)](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
+*   [StarryStars (⭐173)](https://github.com/peterprokop/StarryStars) - Display & edit ratings, fully customizable from interface builder.
 
-## [25. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
+## [25. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Agda
+
+*   [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
+
+### Groovy / Spock Framework
+
+*   [Spock Framework Reference Documentation](https://spockframework.github.io/spock/docs/current/index.html) - Peter Niederwieser
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [A Guide to Python's Magic Methods (⭐1.7k)](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
+
+## [26. Awesome Functional Programming](/content/lucasviola/awesome-functional-programming/week/README.md)
 
 ### Table of Contents / Blog posts
 
@@ -377,7 +387,7 @@ git describe --tags --abbrev=0
 *   [Erik Meijer](https://www.linkedin.com/pub/erik-meijer/0/5ba/924) - Former software architect for Microsoft, Functional Programming researcher, gives lectures on	FP, Software Design and Reactive programming.
 *   [Brian Beckman](https://www.linkedin.com/in/brianbeckman) - Former Microsoft Researcher, actual Software Engineer at Amazon. Contributed to implementing FP features to inumerous Microsoft technologies such as C#, LINQ and F#
 
-## [26. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
+## [27. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/week/README.md)
 
 ### Programming Languages / JavaScript
 

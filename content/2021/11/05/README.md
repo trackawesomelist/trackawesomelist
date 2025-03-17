@@ -8,7 +8,7 @@
 
 ## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Local and regional groups
+### Local and regional groups / General GIS Applications for making transit visualizations
 
 *   [German Open Transport Meetup (⭐44)](https://github.com/transportkollektiv/meetup/wiki) - [Biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
 

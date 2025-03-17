@@ -10,7 +10,7 @@
 
 ### Table of Contents / Email
 
-*   [Email Validator (⭐162)](https://github.com/nojacko/email-validator) - A small email address validation library.
+*   [Email Validator (⭐161)](https://github.com/nojacko/email-validator) - A small email address validation library.
 
 ## [2. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
@@ -20,7 +20,7 @@
 
 ### Resources / Tutorials
 
-*   [module-best-practices (⭐1.5k)](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
+*   [module-best-practices (⭐1.6k)](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
 
 ## [3. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

@@ -246,7 +246,7 @@
 
 ### Packages / Logging
 
-*   [pino (⭐14k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
+*   [pino (⭐15k)](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
 
 ## [21. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -270,13 +270,13 @@
 
 ### Other Awesome Projects
 
-*   [C++ links (⭐4.7k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+*   [C++ links (⭐4.8k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 
 ## [23. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
 
 ### Plugins
 
-*   [tmux-better-mouse-mode (⭐922)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
+*   [tmux-better-mouse-mode (⭐930)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 
 ## [24. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -341,7 +341,7 @@ git log --perl-regexp --author='^((?!excluded-author-regex).*)
 
 ### Web Frameworks
 
-*   [Camping (⭐926)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
+*   [Camping (⭐945)](https://github.com/camping/camping) - A web microframework which consistently stays at less than 4kB of code.
 
 ## [29. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 

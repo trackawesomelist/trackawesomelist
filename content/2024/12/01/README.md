@@ -10,11 +10,11 @@
 
 ### Search and Analytic Databases
 
-*   [zoekt (⭐803)](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
+*   [zoekt (⭐846)](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
 
 ### Game Development
 
-*   [Pixel (⭐273)](https://github.com/gopxl/pixel) - Hand-crafted 2D game library in Go.
+*   [Pixel (⭐288)](https://github.com/gopxl/pixel) - Hand-crafted 2D game library in Go.
 
 ### Security
 
@@ -42,7 +42,7 @@
 
 *   [ngx-printify (⭐1)](https://github.com/aesopo1213/ngx-printify) - Angular utility library that simplifies the process of printing content in your Angular applications. It provides a directive for easy integration into your components and a service for programmatic printing.
 
-### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-route-manager (⭐2)](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
 

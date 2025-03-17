@@ -10,17 +10,17 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [LLMFlow (⭐680)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
+*   [LLMFlow (⭐683)](https://github.com/stoyan-stoyanov/llmflows): Simple, Explicit and Transparent LLM Apps ![GitHub Repo stars](https://img.shields.io/github/stars/stoyan-stoyanov/llmflows?style=social)
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Advanced Console UIs
 
-*   [bubble-table (⭐466)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
+*   [bubble-table (⭐473)](https://github.com/Evertras/bubble-table) - An interactive table component for bubbletea.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
-*   [GoNB (⭐758)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
+*   [GoNB (⭐783)](https://github.com/janpfeifer/gonb) - Interactive Go programming with Jupyter Notebooks (also works in VSCode, Binder and Google's Colab).
 
 ## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Tools / Playground
 
-*   [sqlx-ts (⭐187)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
+*   [sqlx-ts (⭐198)](https://github.com/JasonShin/sqlx-ts) - SQLx-ts is a CLI application featuring compile-time checked queries without a DSL and generates types against SQLs to keep your code type-safe
 
 ## [7. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

@@ -75,7 +75,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-live (⭐259)](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
+*   [vue-live (⭐261)](https://github.com/vue-styleguidist/vue-live) - A component to demo components, inspired by react-live.
 
 ## [7. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 

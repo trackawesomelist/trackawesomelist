@@ -11,7 +11,7 @@
 ### Applications / Database
 
 *   [Skytable (⭐2.5k)](https://github.com/skytable/skytable) - A multi-model NoSQL database ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/skytable/skytable/Tests?style=flat-square)
-*   [TerminusDB (⭐370)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
+*   [TerminusDB (⭐376)](https://github.com/terminusdb/terminusdb-store) - open source graph database and document store [![Build Status](https://github.com/terminusdb/terminusdb-store/workflows/Build/badge.svg?branch=master)](https://github.com/terminusdb/terminusdb-store/actions)
 
 ### Applications / System tools
 
@@ -20,14 +20,14 @@
 ### Libraries / Distributed systems
 
 *   Apache Kafka
-    *   [fede1024/rust-rdkafka (⭐1.7k)](https://github.com/fede1024/rust-rdkafka) \[[rdkafka](https://crates.io/crates/rdkafka)] - [librdkafka (⭐368)](https://github.com/confluentinc/librdkafka) bindings
+    *   [fede1024/rust-rdkafka (⭐1.7k)](https://github.com/fede1024/rust-rdkafka) \[[rdkafka](https://crates.io/crates/rdkafka)] - [librdkafka (⭐508)](https://github.com/confluentinc/librdkafka) bindings
     *   [gklijs/schema\_registry\_converter (⭐106)](https://github.com/gklijs/schema_registry_converter) \[[schema\_registry\_converter](https://crates.io/crates/schema_registry_converter)] - to integrate with [confluent schema registry](https://www.confluent.io/product/confluent-platform/data-compatibility/)
     *   [kafka-rust/kafka-rust (⭐1.3k)](https://github.com/kafka-rust/kafka-rust) - Rust client for Apache Kafka
 
 ### Libraries / Email
 
-*   [jdrouet/catapulte (⭐145)](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐375)](https://github.com/jdrouet/mrml) templates.
-*   [jdrouet/jolimail (⭐138)](https://github.com/jdrouet/jolimail) - A web application to build [MRML (⭐375)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/catapulte (⭐144)](https://github.com/jdrouet/catapulte) - A microservice to send emails using [MRML (⭐381)](https://github.com/jdrouet/mrml) templates.
+*   [jdrouet/jolimail (⭐136)](https://github.com/jdrouet/jolimail) - A web application to build [MRML (⭐381)](https://github.com/jdrouet/mrml) templates.
 
 ### Libraries / GUI
 

@@ -10,7 +10,7 @@
 
 ### Examples
 
-*   [hyperledger/cacti (⭐348)](https://github.com/hyperledger/cacti/wiki)
+*   [hyperledger/cacti (⭐355)](https://github.com/hyperledger/cacti/wiki)
 
 ## [2. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
@@ -30,20 +30,20 @@
 
 ### Machine Learning / Gradient Boosting
 
-*   [NGBoost (⭐1.6k)](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
-*   [TensorFlow Decision Forests (⭐658)](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
+*   [NGBoost (⭐1.7k)](https://github.com/stanfordmlgroup/ngboost) - Natural Gradient Boosting for Probabilistic Prediction.
+*   [TensorFlow Decision Forests (⭐673)](https://github.com/tensorflow/decision-forests) - A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="keras"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="TensorFlow">
 
 ### Deep Learning / Others
 
-*   [transformers (⭐133k)](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
+*   [transformers (⭐139k)](https://github.com/huggingface/transformers) - State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible"> <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 
 ### Automated Machine Learning / Others
 
-*   [AutoKeras (⭐9.1k)](https://github.com/keras-team/autokeras) - AutoML library for deep learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [AutoKeras (⭐9.2k)](https://github.com/keras-team/autokeras) - AutoML library for deep learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 
 ### Natural Language Processing / Others
 
-*   [KerasNLP (⭐766)](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras based/compatible">
+*   [KerasNLP (⭐844)](https://github.com/keras-team/keras-nlp) - Modular Natural Language Processing workflows with Keras. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras based/compatible">
 
 ### Computer Vision / Others
 
@@ -51,7 +51,7 @@
 
 ### Feature Engineering / General
 
-*   [OpenFE (⭐775)](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
+*   [OpenFE (⭐764)](https://github.com/IIIS-Li-Group/OpenFE) - Automated feature generation with expert-level performance.
 
 ## [4. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -125,25 +125,25 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [BoxCam2D (⭐18)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement.
+*   [BoxCam2D (⭐19)](https://github.com/sarooptech/BoxCam2D) - Simplest way to implement grid-based 2D camera movement.
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [cryptomilk/nightcity.nvim (⭐60)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
+*   [cryptomilk/nightcity.nvim (⭐62)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
 
 ### Tabline / Diagnostics
 
-*   [willothy/nvim-cokeline (⭐573)](https://github.com/willothy/nvim-cokeline) - A bufferline for people with addictive personalities.
+*   [willothy/nvim-cokeline (⭐579)](https://github.com/willothy/nvim-cokeline) - A bufferline for people with addictive personalities.
 
 ### Terminal Integration / Diagnostics
 
-*   [mikesmithgh/kitty-scrollback.nvim (⭐540)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
+*   [mikesmithgh/kitty-scrollback.nvim (⭐569)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
 
 ### Git / Diagnostics
 
-*   [chrisgrieser/nvim-tinygit (⭐175)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble Git client.
+*   [chrisgrieser/nvim-tinygit (⭐178)](https://github.com/chrisgrieser/nvim-tinygit) - Lightweight and nimble Git client.
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Functional Programming
 
-*   [All I needed for FP I learned in High School Algebra](https://www.youtube.com/watch?v=epT1xgxSpFU) by **Eric Normand** \[33:05]
+*   [All I needed for FP I learned in High School Algebra](https://www.youtube.com/watch?v=epT1xgxSpFU) by **Eric Normand** (Clojure/Conj 2017) \[33:05]
 
 ## [2. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 

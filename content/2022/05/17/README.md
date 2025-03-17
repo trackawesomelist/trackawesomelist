@@ -10,7 +10,7 @@
 
 ### Providers / Vendor supported providers
 
-*   [terraform-provider-env0 (⭐39)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
+*   [terraform-provider-env0 (⭐41)](https://github.com/env0/terraform-provider-env0) - Provider for [env0](https://www.env0.com/)
 *   [terraform-provider-scalr (⭐19)](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://www.scalr.com/)
 
 ## [2. Awesome Substrate](/content/substrate-developer-hub/awesome-substrate/README.md)
@@ -97,7 +97,7 @@
 
 ### Open Source Projects / Other Tools
 
-*   [Bali (⭐265)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
+*   [Bali (⭐268)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 
 ## [13. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
 

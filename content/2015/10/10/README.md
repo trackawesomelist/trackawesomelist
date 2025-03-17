@@ -10,7 +10,7 @@
 
 ### Image Processing / Other
 
-*   [cropper (⭐7.8k)](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
+*   [cropper (⭐7.7k)](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
 
 ## [2. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

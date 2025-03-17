@@ -8,10 +8,10 @@
 
 ## [1. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
-### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/PwoOQGB)
 
-*   [Español (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
-*   [Français (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
+*   [Español (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
+*   [Français (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

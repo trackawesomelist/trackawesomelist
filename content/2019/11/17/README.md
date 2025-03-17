@@ -16,7 +16,7 @@
 
 ### UI / Bottom bars
 
-*   [Titled Navigation Bar (⭐369)](https://github.com/pedromassango/titled_navigation_bar) <!--stargazers:pedromassango/titled_navigation_bar--> - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango)
+*   [Titled Navigation Bar (⭐370)](https://github.com/pedromassango/titled_navigation_bar) <!--stargazers:pedromassango/titled_navigation_bar--> - Animated bottom navigation bar that switch between icon and title by [Pedro Massango](http://github.com/pedromassango)
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

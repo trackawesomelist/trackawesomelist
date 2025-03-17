@@ -120,8 +120,8 @@
 
 ### References
 
-*   [Google Project ANGLE (⭐3k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
-*   [WebGL Source Code (⭐2.5k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
+*   [Google Project ANGLE (⭐3.6k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+*   [WebGL Source Code (⭐2.7k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
 
 ### Tools/Debugging
 

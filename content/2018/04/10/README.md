@@ -36,7 +36,7 @@
 
 ### Contents / Tools
 
-*   [p8 (⭐44)](https://github.com/jozanza/p8) - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
+*   [p8 (⭐47)](https://github.com/jozanza/p8) - A dependency manager and build tool. Lets you share code/sprites, `require()` dependencies, and auto-reload carts on save. Works with any external code editor and supports [MoonScript](https://moonscript.org/).
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 

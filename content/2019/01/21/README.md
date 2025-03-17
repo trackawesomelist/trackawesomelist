@@ -10,7 +10,7 @@
 
 ### Tools / Neural Networks
 
-*   [layer (⭐558)](https://github.com/cloudkj/layer) - Neural network inference from the command line
+*   [layer (⭐559)](https://github.com/cloudkj/layer) - Neural network inference from the command line
 
 ## [2. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -20,19 +20,19 @@
 
 ### Programming Languages
 
-*   [OCaml (⭐2.8k)](https://github.com/ocaml-community/awesome-ocaml#readme)
+*   [OCaml (⭐2.9k)](https://github.com/ocaml-community/awesome-ocaml#readme)
 
 ### Front-End Development
 
-*   [Aurelia (⭐309)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
+*   [Aurelia (⭐310)](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 
 ### Entertainment
 
-*   [Email Newsletters (⭐3.9k)](https://github.com/zudochkin/awesome-newsletters#readme)
+*   [Email Newsletters (⭐4k)](https://github.com/zudochkin/awesome-newsletters#readme)
 
 ### Hardware
 
-*   [Electronics (⭐6k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+*   [Electronics (⭐6.2k)](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 
 ## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
@@ -71,7 +71,7 @@
 
 ### Boilerplates
 
-*   [iOS project template (⭐399)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
+*   [iOS project template (⭐406)](https://github.com/messeb/ios-project-template) - iOS project template with fastlane lanes, Travis CI jobs and GitHub integrations of Codecov, HoundCI for SwiftLint and Danger.
 
 ### Events
 

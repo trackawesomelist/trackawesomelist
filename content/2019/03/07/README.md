@@ -80,7 +80,7 @@
 
 ### Libraries / Go
 
-*   [Bongo (⭐489)](https://github.com/go-bongo/bongo) - ODM based on mgo
+*   [Bongo (⭐487)](https://github.com/go-bongo/bongo) - ODM based on mgo
 *   [mgo (⭐2k)](https://github.com/globalsign/mgo) - Community Go driver
 *   [minquery (⭐62)](https://github.com/icza/minquery) - MongoDB cursor that paginates
 *   [mongo-go-driver (⭐8.2k)](https://github.com/mongodb/mongo-go-driver) - Official Go driver

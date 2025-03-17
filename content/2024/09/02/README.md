@@ -27,13 +27,13 @@
 
 ### Utilities
 
-*   [PubSubx (⭐2)](https://github.com/sonic182/pub_subx) - A simple publish-subscribe system built on Elixir's GenServer and Registry, allowing for dynamic topics, process monitoring, and automatic subscription management.
+*   [PubSubx](https://github.com/sonic182/pub_subx) - A simple publish-subscribe system built on Elixir's GenServer and Registry, allowing for dynamic topics, process monitoring, and automatic subscription management.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [alaz (⭐668)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
+*   [alaz (⭐673)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -51,11 +51,11 @@
 
 ### AI / Diagnostics
 
-*   [Kurama622/llm.nvim (⭐92)](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
+*   [Kurama622/llm.nvim (⭐228)](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [SCJangra/table-nvim (⭐36)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
+*   [SCJangra/table-nvim (⭐40)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
 
 ## [8. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-three (⭐227)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js (⭐104k)](https://github.com/mrdoob/three.js).
+*   [angular-three (⭐233)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js (⭐105k)](https://github.com/mrdoob/three.js).
 
 ### Security / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -97,7 +97,7 @@
 
 ### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [revogrid (⭐2.8k)](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
+*   [revogrid (⭐2.9k)](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
 
 ### Dates / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

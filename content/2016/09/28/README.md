@@ -10,7 +10,7 @@
 
 ### Functional Programming / Runner
 
-*   [preludejs (⭐99)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
+*   [preludejs (⭐100)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 
 ## [2. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
@@ -44,7 +44,7 @@ A portable public domain password hashing framework for use in PHP applications.
 
 ### Authorization
 
-*   [authorize (⭐99)](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
+*   [authorize (⭐100)](https://github.com/jfrolich/authorize) - Rule based authorization, for advanced authorization rules.
 
 ### Cloud Infrastructure and Management
 

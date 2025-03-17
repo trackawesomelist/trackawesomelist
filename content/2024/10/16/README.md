@@ -25,7 +25,7 @@
 
 ### Financial
 
-*   [udecimal (⭐123)](https://github.com/quagmt/udecimal) - High performance, high precision, zero allocation fixed-point decimal library for financial applications.
+*   [udecimal (⭐129)](https://github.com/quagmt/udecimal) - High performance, high precision, zero allocation fixed-point decimal library for financial applications.
 
 ## [4. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
@@ -40,71 +40,71 @@
 
 ### Media / Diagnostics
 
-*   [neo451/feed.nvim (⭐80)](https://github.com/neo451/feed.nvim) - Web feed reader written in Lua (RSS, atom, json feed).
+*   [neo451/feed.nvim (⭐124)](https://github.com/neo451/feed.nvim) - Web feed reader written in Lua (RSS, atom, json feed).
 
-## [6. Topics](/content/selvaklnc/topics/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Lisp / Emacs Lisp
+
+*   [Elisp Programming](https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Programming.html)
+
+## [7. Topics](/content/selvaklnc/topics/README.md)
 
 ### Others
 
 *   [Important pages of Selvaklnc](http://www.geocities.ws/ourmaster/important-user-pages-selvaklnc.html) in Ourmaster Geocity.
 
-## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Documentation
 
-*   [SpectaQL (⭐1.1k) (⭐1.1k)](https://github.com/anvilco/spectaql) - A Node.js library that generates static documentation for a GraphQL schema from various sources, including live endpoint, query result, and SDL files.
+*   [SpectaQL (⭐1.1k) (⭐1.1k)](https://github.com/anvilco/spectaql) - Generates static, customizable documentation for GraphQL schemas, making complex API structures easy to understand.
 
 ### Projects / Messaging
 
-*   [Apache ActiveMQ (⭐2.3k) (⭐2.3k)](https://github.com/apache/activemq) - An open-source message broker that implements Java Message Service (JMS) and allows for synchronous to asynchronous communication conversion. Offers reliable messaging and supports multiple protocols and messaging styles.
+*   [Apache ActiveMQ (⭐2.3k) (⭐2.3k)](https://github.com/apache/activemq) - Open-source broker that implements JMS, enabling seamless conversion between synchronous and asynchronous messaging.
 
-## [8. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [9. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Utilities / Text
 
 *   [Wireshark (⭐7.2k)](https://github.com/wireshark/wireshark) - Wireshark is the world’s foremost and widely-used network protocol analyzer. It lets you see what’s happening on your network at a microscopic level and is the de facto (and often de jure) standard across many commercial and non-profit enterprises, government agencies, and educational institutions.  ![cpp\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/cpp-16.png "C++ language.")
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Autonomous LLM Agents / Multi-agents
 
-*   [openai/swarm (⭐18k)](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+*   [openai/swarm (⭐19k)](https://github.com/openai/swarm): Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 
-## [10. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
 
 *   [AddTransit](https://addtransit.com/gtfs-transit-file.php) - SaaS (Software as a Service) platform to create, edit and publish schedules in GTFS format.
 
-## [11. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [12. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Decorators / Chrome Extensions
 
-*   :octocat: [Performance Decorators (⭐38)](https://github.com/RyanMyrvold/Performance-Decorators) - A collection of TypeScript decorators for performance optimization, including execution time logging, memory usage monitoring, and more.
+*   :octocat: [Performance Decorators (⭐42)](https://github.com/RyanMyrvold/Performance-Decorators) - A collection of TypeScript decorators for performance optimization, including execution time logging, memory usage monitoring, and more.
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [13. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [Griffe](https://mkdocstrings.github.io/griffe/) — Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API.
 
-## [13. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
+## [14. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
 ### Courses / Hash functions
 
 *   [Cryptography 101: Building Blocks](https://cryptography101.ca/crypto101-building-blocks/) - This introductory course (Fall 2024) by Alfred Menezes covers the fundamental cryptographic primitives: symmetric-key encryption, hash functions, MACs, authenticated encryption, public-key encryption, signatures, key agreement, RSA, elliptic curve cryptography.
 
-## [14. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [15. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Code Quality
 
 *   [CodeRabbit AI](https://coderabbit.ai/) - AI-powered code review and automated pull request management.
-
-## [15. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Software Architecture
-
-*   [Web Browser Engineering](https://browser.engineering/index.html) - Pavel Panchekha, Chris Harrelson
 
 ---
 

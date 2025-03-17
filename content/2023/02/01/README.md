@@ -84,7 +84,7 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [kubectl (chrishrb) (⭐3)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐2.9k)](https://github.com/kubernetes/kubectl).
+*   [kubectl (chrishrb) (⭐3)](https://github.com/chrishrb/zsh-kubectl) - Automatically loads completions for [kubectl (⭐3k)](https://github.com/kubernetes/kubectl).
 
 ## [13. Awesome Golem](/content/golemfactory/awesome-golem/README.md)
 

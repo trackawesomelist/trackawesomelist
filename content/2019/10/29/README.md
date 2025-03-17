@@ -64,7 +64,7 @@
 
 ### Misc
 
-*   [CodableWrappers (⭐648)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+*   [CodableWrappers (⭐674)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
 
 ## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 
@@ -86,11 +86,11 @@
 
 ### Table of Contents / Navigation
 
-*   [Menu (⭐743)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
+*   [Menu (⭐745)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
 
 ### Table of Contents / Strings
 
-*   [Portable UTF-8 (⭐511)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
+*   [Portable UTF-8 (⭐515)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 
 ## [9. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Optimization / Others
 
-*   [scikit-opt (⭐5.2k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
+*   [scikit-opt (⭐5.4k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
 
 ## [11. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 

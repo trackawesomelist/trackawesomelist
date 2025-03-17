@@ -117,13 +117,13 @@
 ### Loaders
 
 *   [SeaJS (⭐8.3k)](https://github.com/seajs/seajs) - A Module Loader for the Web.
-*   [HeadJS (⭐4.2k)](https://github.com/headjs/headjs) - The only script in your HEAD.
+*   [HeadJS (⭐4.1k)](https://github.com/headjs/headjs) - The only script in your HEAD.
 *   [lazyload (⭐1.4k)](https://github.com/rgrove/lazyload/) - Tiny, dependency-free async JavaScript and CSS loader.
 
 ### Date / Runner
 
-*   [moment-timezone (⭐3.8k)](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
-*   [timezone-js (⭐825)](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
+*   [moment-timezone (⭐3.9k)](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
+*   [timezone-js (⭐822)](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
 
 ### String / Runner
 

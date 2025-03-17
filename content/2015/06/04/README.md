@@ -10,11 +10,7 @@
 
 ### Miscellaneous
 
-*   [ub-canaries (⭐176)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
-
-### Websites
-
-*   [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/C-plus-plus-tutorials/)
+*   [ub-canaries (⭐179)](https://github.com/regehr/ub-canaries) - A collection of C/C++ programs that try to get compilers to exploit undefined behavior.
 
 ### Weblogs
 

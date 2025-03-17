@@ -32,7 +32,7 @@
 
 ### Scripting
 
-*   [ChakraCore (⭐9.1k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
+*   [ChakraCore (⭐9.2k)](https://github.com/Microsoft/ChakraCore) -A JavaScript engine by Microsoft that can be embedded into nodejs. \[MIT]
 
 ### Compiler
 
@@ -140,7 +140,7 @@
 
 ### Programming fonts / Fonts
 
-*   [Fantasque Sans Mono (⭐7k)](https://github.com/belluzj/fantasque-sans)
+*   [Fantasque Sans Mono (⭐7.1k)](https://github.com/belluzj/fantasque-sans)
 
 ### Programming fonts / Programming fonts with ligatures
 
@@ -149,7 +149,7 @@
 ### JavaScript libs / Event listeners for fonts loading on a web page
 
 *   [Font Face Observer (⭐4.3k)](https://github.com/bramstein/fontfaceobserver)
-*   [Web Font Loader (⭐9.2k)](https://github.com/typekit/webfontloader)
+*   [Web Font Loader (⭐9.3k)](https://github.com/typekit/webfontloader)
 
 ## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
@@ -202,7 +202,7 @@
 
 ## [18. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Software for Creating APIs
+### Software for Creating APIs / Rust
 
 *   [OpenTripPlanner](http://www.opentripplanner.org/) - An open source platform for multi-modal and multi-agency journey planning, as well as returning information about a multi-modal graph (using data sources such as GTFS and [OpenStreetMap](http://www.openstreetmap.org/)).
 
@@ -354,15 +354,11 @@
 
 ### Authentication
 
-*   [goth (⭐295)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
-
-### Examples and funny stuff
-
-*   [kaisuu (⭐66)](https://github.com/SebastianSzturo/kaisuu) - Watch Japan's Kanji Usage on Twitter in Realtime.
+*   [goth (⭐301)](https://github.com/peburrows/goth) - OAuth 2.0 library for server to server applications via Google Cloud APIs.
 
 ### Third Party APIs
 
-*   [stripity\_stripe (⭐996)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
+*   [stripity\_stripe (⭐1k)](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 
 ### Editors
 

@@ -435,7 +435,7 @@ git cherry -v
 
 ### UI / Barcode
 
-*   [TagListView (⭐2.6k)](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
+*   [TagListView (⭐2.7k)](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
 
 ## [31. Magictools](/content/ellisonleao/magictools/week/README.md)
 

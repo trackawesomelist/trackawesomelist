@@ -10,7 +10,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [rachartier/tiny-inline-diagnostic.nvim (⭐771)](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
+*   [rachartier/tiny-inline-diagnostic.nvim (⭐838)](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
 
 ## [2. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 

@@ -52,13 +52,13 @@
 
 ### Tools
 
-*   [Atlas toolkit (⭐253)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
+*   [Atlas toolkit (⭐262)](https://github.com/epeios-q37/atlas-python) - Very lightweight and easy to install toolkit to write in Python single-page web applications to pilot your RPi, without having to install a web server.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Private repositories / IRC
 
-*   [fxpio/tug (⭐39)](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages, which are hosted on GitHub or GitLab services.
+*   [fxpio/tug (⭐40)](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages, which are hosted on GitHub or GitLab services.
 
 ### Packagist-compatible repositories / IRC
 

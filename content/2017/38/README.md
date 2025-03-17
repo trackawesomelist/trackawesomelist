@@ -28,7 +28,7 @@
 
 ### Security
 
-*   [BDA (⭐103)](https://github.com/kotobukki/BDA/) - The vulnerability detector for Hadoop and Spark
+*   [BDA (⭐104)](https://github.com/kotobukki/BDA/) - The vulnerability detector for Hadoop and Spark
 
 ## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
@@ -92,7 +92,7 @@
 
 ### Markdown/Text Processors
 
-*   [markd (⭐110)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
+*   [markd (⭐111)](https://github.com/icyleaf/markd) - Yet another markdown parser built for speed, Compliant to CommonMark specification
 
 ## [12. Awesome Coins](/content/Zheaoli/awesome-coins/week/README.md)
 
@@ -149,7 +149,7 @@
 
 ### Packages / Testing
 
-*   [abstruse (⭐941)](https://github.com/bleenco/abstruse) - Continuous Integration server.
+*   [abstruse (⭐943)](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 ## [14. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
@@ -411,19 +411,19 @@
 
 ### Application Libraries
 
-*   [Core (⭐1.1k)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐217)](https://github.com/janestreet/core_kernel).
-*   [Minicli (⭐30)](https://github.com/UnixJunkie/minicli) – Minimalist library for command-line parsing.
+*   [Core (⭐1.1k)](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core\_kernel (⭐216)](https://github.com/janestreet/core_kernel).
+*   [Minicli (⭐31)](https://github.com/UnixJunkie/minicli) – Minimalist library for command-line parsing.
 
 ### User Interface
 
-*   [lablqml (⭐159)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
+*   [lablqml (⭐160)](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
 *   [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
 *   [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
-*   [Notty (⭐351)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
+*   [Notty (⭐355)](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around the notion of composable images.
 
 ### Security and Cryptography
 
-*   [cryptokit (⭐96)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
+*   [cryptokit (⭐100)](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 
 ## [29. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/week/README.md)
 

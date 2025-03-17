@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2015
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -45,7 +45,7 @@
 
 ### Geolocation
 
-*   [geocalc (⭐150)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
+*   [geocalc (⭐153)](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
 
 ## [7. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
@@ -66,14 +66,6 @@
 ### MOOCs / Book/monograph Lists and Reviews
 
 *   [Explore Statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0) - Covers introduction, data handling and statistical analysis in R.
-
-## [9. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
-
-### Books
-
-### [Security Engineering - Second Edition](https://www.cl.cam.ac.uk/\~rja14/book.html) (2008)
-
-**Released**: April 14, 2008
 
 ---
 

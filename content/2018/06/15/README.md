@@ -16,7 +16,7 @@
 
 ### UITableView / Barcode
 
-*   [QuickTableViewController (⭐556)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
+*   [QuickTableViewController (⭐557)](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings.
 
 ## [3. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -30,7 +30,7 @@
 
 ### Configuration / Infrastructure
 
-*   [appserver.io (⭐966)](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
+*   [appserver.io (⭐967)](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Web Development
 
-*   [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** \[32:07]
+*   [Life is Terrible: Let's Talk About the Web](http://vimeo.com/111122950) by **James Mickens** (Øredev 2014) \[32:07]
 
 ---
 

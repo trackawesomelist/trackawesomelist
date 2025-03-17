@@ -65,7 +65,7 @@
 
 ### Libraries / Parsing
 
-*   [lalrpop/lalrpop (⭐3.1k)](https://github.com/lalrpop/lalrpop) - LR(1) parser generator
+*   [lalrpop/lalrpop (⭐3.2k)](https://github.com/lalrpop/lalrpop) - LR(1) parser generator
 
 ## [7. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

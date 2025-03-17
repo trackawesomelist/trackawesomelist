@@ -84,7 +84,7 @@
 
 ### Front-End Development
 
-*   [Material-UI (⭐234)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+*   [Material-UI (⭐239)](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 
 ## [10. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
@@ -201,7 +201,7 @@
 
 ### Validation / Runner
 
-*   [Funval (⭐365)](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
+*   [Funval (⭐362)](https://github.com/neuledge/funval) - Data validation using functions interfaces (support TypeScript).
 
 ### Misc / Other
 
@@ -252,7 +252,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [LightSaber (⭐70)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
+*   [LightSaber (⭐71)](https://github.com/lsds/LightSaber) \[C++] - Multi-core Window-Based Stream Processing Engine. LightSaber uses code generation for efficient window aggregation.
 
 ## [31. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -422,7 +422,7 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### Utils
 
-*   [playwright-fluent (⭐170)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
+*   [playwright-fluent (⭐174)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 
 ## [41. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
@@ -438,15 +438,15 @@ Food: Vending Machine + Cafés and Diners + Convenience stores
 
 ### JavaScript / Misc
 
-*   [Pipcook (⭐2.5k)](https://github.com/alibaba/pipcook) - A JavaScript application framework for machine learning and its engineering.
+*   [Pipcook (⭐2.6k)](https://github.com/alibaba/pipcook) - A JavaScript application framework for machine learning and its engineering.
 
 ### Python / Computer Vision
 
-*   [neural-dream (⭐133)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
+*   [neural-dream (⭐136)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
 
 ### Python / General-Purpose Machine Learning
 
-*   [Lightwood (⭐453)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
+*   [Lightwood (⭐459)](https://github.com/mindsdb/lightwood) - A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with objective to build predictive models with one line of code.
 
 ## [43. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 

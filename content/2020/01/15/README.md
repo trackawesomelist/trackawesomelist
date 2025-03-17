@@ -29,8 +29,8 @@
 ### Development tools / Build system
 
 *   GitHub actions
-    *   [icepuma/rust-action (⭐79)](https://github.com/icepuma/rust-action) - rust github action
-    *   [peaceiris/actions-mdbook (⭐304)](https://github.com/peaceiris/actions-mdbook) - GitHub Actions for mdBook
+    *   [icepuma/rust-action (⭐78)](https://github.com/icepuma/rust-action) - rust github action
+    *   [peaceiris/actions-mdbook (⭐307)](https://github.com/peaceiris/actions-mdbook) - GitHub Actions for mdBook
 
 ### Libraries / Text search
 

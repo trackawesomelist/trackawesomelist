@@ -128,7 +128,7 @@
 
 ### CLI
 
-*   [Lyra (⭐497)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
+*   [Lyra (⭐502)](https://github.com/bfgroup/Lyra) - A simple to use, composable, command line parser for C++ 11 and beyond. \[Boost]
 
 ## [13. Awesome Creative Tech Events](/content/danvoyce/awesome-creative-tech-events/README.md)
 

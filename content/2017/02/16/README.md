@@ -68,7 +68,7 @@ Webpage: <http://www.novaarcada.pt/>
 
 ### Tools / IRC
 
-*   [ComposerRequireChecker (⭐871)](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
+*   [ComposerRequireChecker (⭐930)](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
 
 ## [9. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 

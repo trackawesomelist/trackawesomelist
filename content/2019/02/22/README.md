@@ -78,22 +78,6 @@
 
 
 
-### Hosted Bitcoin Payment Processors / Custodial
-
-- Processor: [Strike](https://strike.acinq.co/)
-
-  Fees: 1%
-
-  Lightning: Only
-
-  Directly to Your Wallet: No
-
-  Conversion to Fiat: No
-
-  Requirements: For companies, the name of a company and a physical address.
-
-
-
 ## [8. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
 ### Crack / General
@@ -133,20 +117,20 @@
 
 ### Platforms
 
-*   [IBM Cloud (⭐100)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-*   [Firebase (⭐725)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud.
+*   [IBM Cloud (⭐103)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
+*   [Firebase (⭐739)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud.
 
 ### Programming Languages
 
-*   [Ada/SPARK (⭐654)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+*   [Ada/SPARK (⭐683)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 
 ### Decentralized Systems
 
-*   [Blockchain AI (⭐948)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
+*   [Blockchain AI (⭐994)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 
 ### Miscellaneous
 
-*   [Bitcoin Payment Processors (⭐438)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+*   [Bitcoin Payment Processors (⭐473)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
 
 ---
 

@@ -20,13 +20,13 @@
 
 ### Utilities
 
-*   [go-events (⭐2)](https://github.com/deatil/go-events) - A go event and event'subscribe package, like wordpress hook functions.
+*   [go-events (⭐5)](https://github.com/deatil/go-events) - A go event and event'subscribe package, like wordpress hook functions.
 
 ## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
 ### Extensions and Utilities
 
-*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐6.5k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
+*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐6.8k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
 
 ## [4. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
@@ -65,11 +65,11 @@
 
 *   [Multi-Exit IP Address Checker](https://ip.alstra.ca/) —  A free and simple tool to check your exit IP address across multiple nodes and understand how your IP appears to different global regions and services. Useful for testing rule-based DNS splitting tools such as Control D.
 
-## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
 
-### Blockchain
+### JavaScript / React
 
-*   [Build a Blockchain from Scratch in Go with gRPC (⭐322)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
+*   [Quick Start](https://react.dev/learn)
 
 ---
 

@@ -10,7 +10,7 @@
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars\_ols (⭐129)](https://github.com/azmyrajab/polars_ols) - Polars plugin that enables fast linear model Polar expressions by [@azmyrajab](https://github.com/azmyrajab).
+*   [polars\_ols (⭐136)](https://github.com/azmyrajab/polars_ols) - Polars plugin that enables fast linear model Polar expressions by [@azmyrajab](https://github.com/azmyrajab).
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -24,11 +24,11 @@
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [goapp (⭐934)](https://github.com/naughtygopher/goapp) - An opinionated guideline to structure & develop a Go web application/service.
+*   [goapp (⭐940)](https://github.com/naughtygopher/goapp) - An opinionated guideline to structure & develop a Go web application/service.
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [playwright-ng-schematics (⭐12)](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
 
@@ -40,7 +40,7 @@
 
 ## [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / API Testing
 
 *   [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
 
@@ -48,7 +48,7 @@
 
 ### Generative AI
 
-*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐7.9k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. Free forever plan includes 50k observations per month and all platform features. [#opensource (⭐9.3k)](https://github.com/langfuse/langfuse)
 
 ## [7. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 

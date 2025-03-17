@@ -93,7 +93,7 @@
 
 ### Go / Natural Language Processing
 
-*   [sentences (⭐441)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
+*   [sentences (⭐443)](https://github.com/neurosnap/sentences) - Golang implementation of Punkt sentence tokenizer.
 
 ## [5. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 

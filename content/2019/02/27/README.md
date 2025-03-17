@@ -166,7 +166,7 @@
 
 ### Chat
 
-*   [Real-time Chat with Firebase (⭐768)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+*   [Real-time Chat with Firebase (⭐776)](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### UI / Barcode
 
@@ -174,7 +174,7 @@
 
 ### UITableView / Barcode
 
-*   [CollapsibleTableSectionViewController (⭐353)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
+*   [CollapsibleTableSectionViewController (⭐354)](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A library to support collapsible sections in a table view.
 
 ## [7. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
@@ -283,12 +283,12 @@
 
 ### Front-End Development
 
-*   [CSS (⭐5.1k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+*   [CSS (⭐5.2k)](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
     *   [Critical-Path Tools (⭐1.2k)](https://github.com/addyosmani/critical-path-css-tools#readme)
     *   [Scalability (⭐1.5k)](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-    *   [Must-Watch Talks (⭐4.7k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
-    *   [Protips (⭐28k)](https://github.com/AllThingsSmitty/css-protips#readme)
-    *   [Frameworks (⭐8.1k)](https://github.com/troxler/awesome-css-frameworks#readme)
+    *   [Must-Watch Talks (⭐4.8k)](https://github.com/AllThingsSmitty/must-watch-css#readme)
+    *   [Protips (⭐29k)](https://github.com/AllThingsSmitty/css-protips#readme)
+    *   [Frameworks (⭐8.4k)](https://github.com/troxler/awesome-css-frameworks#readme)
 
 ### Gaming
 

@@ -10,7 +10,7 @@
 
 ### Get Started
 
-*   [create-electron-vite (⭐195)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
+*   [create-electron-vite (⭐202)](https://github.com/electron-vite/create-electron-vite) - Scaffolding Your Electron + Vite Project.
 
 ## [2. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Modules / Godot 4
 
-*   [GodotHook (⭐50)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine. *(Godot 3 and 4)*
+*   [GodotHook (⭐52)](https://github.com/Mestima/GodotHook) - A lite custom event system for Godot Engine. *(Godot 3 and 4)*
 
 ## [8. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 

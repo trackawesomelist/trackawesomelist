@@ -59,7 +59,7 @@
 
 ### JavaScript / General-Purpose Machine Learning
 
-*   [LDA.js (⭐292)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
+*   [LDA.js (⭐293)](https://github.com/primaryobjects/lda) - LDA topic modelling for Node.js
 *   [Node-SVM (⭐297)](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 
 ### JavaScript / Misc
@@ -68,7 +68,7 @@
 
 ### Matlab / General-Purpose Machine Learning
 
-*   [Machine Learning Module (⭐465)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
+*   [Machine Learning Module (⭐468)](https://github.com/josephmisiti/machine-learning-module) - Class on machine w/ PDF, lectures, code
 
 ## [7. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 

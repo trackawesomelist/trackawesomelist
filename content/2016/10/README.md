@@ -486,7 +486,7 @@ git diff --name-only | uniq | xargs $EDITOR
 
 ### Music Notation
 
-*   [Lilypond cook book (⭐3)](https://github.com/noteflakes/lilypond-cookbook/wiki/) - tips & tricks for getting the most out of lilypond.
+*   [Lilypond cook book (⭐4)](https://github.com/noteflakes/lilypond-cookbook/wiki/) - tips & tricks for getting the most out of lilypond.
 *   [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 
 ### Music Programming
@@ -528,7 +528,7 @@ git diff --name-only | uniq | xargs $EDITOR
 
 ### Registry
 
-*   [npm-cli-login (⭐114)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
+*   [npm-cli-login (⭐116)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
 
 ## [38. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 

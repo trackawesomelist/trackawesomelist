@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02 - Jan 08, 2017
 
-37 awesome lists updated this week.
+38 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -70,7 +70,7 @@ git rev-parse --show-toplevel
 
 ### Build Systems / Playground
 
-*   [Zwitterion (⭐581)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
+*   [Zwitterion (⭐583)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
 
 ## [9. Awesome Draft Js](/content/nikgraf/awesome-draft-js/week/README.md)
 
@@ -180,7 +180,7 @@ git rev-parse --show-toplevel
 
 ### Third-party APIs
 
-*   [terjira (⭐885)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
+*   [terjira (⭐894)](https://github.com/keepcosmos/terjira) - A command-line power tool for Jira.
 
 ## [17. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
@@ -229,9 +229,9 @@ git rev-parse --show-toplevel
 
 ## [21. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
-### Software / Security
+### Software / Security Testing
 
-*   [BeEF](http://beefproject.com/) - Manipulate the browser exploiting any XSS vulns you find.
+*   [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
 
 ## [22. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -298,13 +298,24 @@ git rev-parse --show-toplevel
 *   [DCMTK](http://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
 *   [tesseract-ocr](https://github.com/tesseract-ocr) - An OCR engine. \[Apache2]
 
-## [30. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [30. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C / Non-X86
+
+*   [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/)
+
+### LaTeX / TeX / LaTeX
+
+*   [Arbitrary LaTex Reference](http://latex.knobs-dials.com)
+*   [Begin Latex in minutes (⭐3.3k)](https://github.com/VoLuong/Begin-Latex-in-minutes)
+
+## [31. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Learn / Videos
 
 *   [User Interfaces as Pure Functions of Time](https://www.youtube.com/watch?v=9BG0Y3C6WqM) - Lightning talk by [Thomas Belin](http://twitter.com/atomrc) at [dotjs 2016](http://dotjs.io/)
 
-## [31. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+## [32. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
 
 ### Libraries
 
@@ -314,7 +325,7 @@ git rev-parse --show-toplevel
 
 *   [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow) – by Rodolfo Bonnin. This book covers various projects in TensorFlow that expose what can be done with TensorFlow in different scenarios. The book provides projects on training models, machine learning, deep learning, and working with various neural networks. Each project is an engaging and insightful exercise that will teach you how to use TensorFlow and show you how layers of data can be explored by working with Tensors.
 
-## [32. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [33. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Articles
 
@@ -324,7 +335,7 @@ git rev-parse --show-toplevel
 
 *   [WC-Loader (⭐100)](https://github.com/aruntk/wc-loader). Webcomponents webpack loader
 
-## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 
@@ -338,7 +349,7 @@ git rev-parse --show-toplevel
 
 *   [Jil (⭐2.1k)](https://github.com/kevin-montrose/Jil) - Fast .NET JSON (De)Serializer, Built On Sigil.
 
-## [34. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [35. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Docker Images for Penetration Testing & Security
 
@@ -355,13 +366,13 @@ git rev-parse --show-toplevel
 *   `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
 *   `docker pull bkimminich/juice-shop` - [OWASP Juice Shop (⭐9k)](https://github.com/bkimminich/juice-shop#docker-container--)
 
-## [35. Colorful](/content/Siddharth11/Colorful/week/README.md)
+## [36. Colorful](/content/Siddharth11/Colorful/week/README.md)
 
 ### Tools / Web App
 
 *   [ColorFavs](http://www.colorfavs.com/) - Create and Discover Beautiful Color Palettes and Colors.
 
-## [36. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [37. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Classics
 
@@ -391,7 +402,7 @@ git rev-parse --show-toplevel
 *   [RCy3](https://bioconductor.org/packages/3.3/bioc/html/RCy3.html) - Interface between R and recent versions of Cytoscape.
 *   [RCyjs](https://bioconductor.org/packages/release/bioc/html/RCyjs.html) - Interface between R and Cytoscape.js.
 
-## [37. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [38. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Static Site Generators
 

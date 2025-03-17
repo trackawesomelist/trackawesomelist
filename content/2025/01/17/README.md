@@ -10,11 +10,11 @@
 
 ### Project / Diagnostics
 
-*   [zongben/proot.nvim (⭐2)](https://github.com/zongben/proot.nvim) - Lightweight project navigator with telescope.
+*   [zongben/proot.nvim (⭐3)](https://github.com/zongben/proot.nvim) - Lightweight project navigator with telescope.
 
 ### Terminal Integration / Diagnostics
 
-*   [laktak/tome (⭐70)](https://github.com/laktak/tome) - Interactive Script playbooks for your terminal (optionally with Tmux).
+*   [laktak/tome (⭐90)](https://github.com/laktak/tome) - Interactive Script playbooks for your terminal (optionally with Tmux).
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -35,9 +35,9 @@
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [scad (⭐2)](https://github.com/MicahElliott/scad) - Shell Colorized Aliases for Docker/Podman (SCAD). Defines [docker](https://www.docker.com/) / [podman](https://podman.io) aliases and functions. These aliases adhere to the newer style of organizing and invoking `docker` with management commands rather than the notoriously confusing “random solo commands”. Requires [GRC (⭐1.9k)](https://github.com/garabik/grc) and [jq (⭐31k)](https://github.com/jqlang/jq).
-*   [uv-env (⭐0)](https://github.com/matthiasha/zsh-uv-env) - Automatically uses [uv (⭐36k)](https://github.com/astral-sh/uv) to activate a virtual environment based on the current directory.
+*   [uv-env (⭐0)](https://github.com/matthiasha/zsh-uv-env) - Automatically uses [uv (⭐42k)](https://github.com/astral-sh/uv) to activate a virtual environment based on the current directory.
 *   [xxh (ninagrosse) (⭐0)](https://github.com/ninagrosse/xxh-plugin-zsh-ohmyzsh) - Plugin for [xxh (⭐5.5k)](https://github.com/xxh/xxh) that requires [xxh-plugin-prerun-cli-tools (⭐0)](https://github.com/ninagrosse/xxh-plugin-prerun-cli-tools).
-*   [xxh (roman-geraskin) (⭐5)](https://github.com/roman-geraskin/xxh-plugin-zsh-zshrc) - plugin for [xxh-shell-zsh (⭐36)](https://github.com/xxh/xxh-shell-zsh) that copies your `~/.zshrc` to a remote host and sources it with [xxh-shell-zsh (⭐36)](https://github.com/xxh/xxh-shell-zsh).
+*   [xxh (roman-geraskin) (⭐5)](https://github.com/roman-geraskin/xxh-plugin-zsh-zshrc) - plugin for [xxh-shell-zsh (⭐37)](https://github.com/xxh/xxh-shell-zsh) that copies your `~/.zshrc` to a remote host and sources it with [xxh-shell-zsh (⭐37)](https://github.com/xxh/xxh-shell-zsh).
 
 ### ZSH Tools / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

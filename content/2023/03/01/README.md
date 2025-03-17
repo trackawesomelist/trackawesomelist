@@ -10,7 +10,7 @@
 
 ### Android App Store
 
-*   [Obtainium (⭐9.2k)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
+*   [Obtainium (⭐9.7k)](https://github.com/ImranR98/Obtainium) - Get app updates directly from the source.
 
 ## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Database Schema Migration
 
-*   [dbmate (⭐5.6k)](https://github.com/amacneil/dbmate) - A lightweight, framework-agnostic database migration tool.
+*   [dbmate (⭐5.7k)](https://github.com/amacneil/dbmate) - A lightweight, framework-agnostic database migration tool.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

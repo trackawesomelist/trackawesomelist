@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 26, 2021
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,15 +28,9 @@
 
 ### Tab / Barcode
 
-*   [CardTabBar (⭐230)](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
+*   [CardTabBar (⭐234)](https://github.com/yusadogru/CardTabBar) - Adding animation to iOS tabbar items.
 
-## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-### Bayesian Modeling / Nonparametric Model
-
-*   [Infinite Hidden Relational Models](https://www.dbs.ifi.lmu.de/~yu_k/uai06_relation.pdf) - ***UAI'06***, 2006. \[[All Versions](https://scholar.google.com/scholar?cluster=2143172296528388141\&hl=en\&as_sdt=2005\&sciodt=0,5)].
-
-## [4. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
+## [3. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md)
 
 ### Browser-Based / Boardgame
 

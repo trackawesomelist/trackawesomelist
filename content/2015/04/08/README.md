@@ -26,7 +26,7 @@
 
 ### Math
 
-*   [QuantLib (⭐5.6k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
+*   [QuantLib (⭐5.7k)](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. \[Modified BSD] [website](http://quantlib.org/)
 
 ## [4. Awesome Answers](/content/cyberglot/awesome-answers/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Performance Monitoring
 
-*   [Instrumental (⭐58)](https://github.com/expectedbehavior/instrumental_agent) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
+*   [Instrumental (⭐59)](https://github.com/expectedbehavior/instrumental_agent) - Measure your application in real time with [Instrumental](http://instrumentalapp.com).
 
 ### Third-party APIs
 

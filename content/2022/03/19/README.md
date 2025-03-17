@@ -66,7 +66,7 @@
 
 ### YouTube
 
-*   [Piped (⭐8.6k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+*   [Piped (⭐8.8k)](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 
 ## [10. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

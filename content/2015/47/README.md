@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 23 - Nov 29, 2015
 
-35 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -20,13 +20,13 @@
     *   [Dbm](https://forge.ocamlcore.org/projects/camldbm/) — A binding to the NDBM/GDBM Unix "databases".
     *   [Mongo.ml](https://massd.github.io/mongo/) – An OCaml driver for Mongodb
     *   [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — A type-safe interface to PostgreSQL in pure OCaml.
-        *   [ppx\_pgsql (⭐52)](https://github.com/tizoc/ppx_pgsql) – A syntax extension for embedded SQL queries using PG'OCaml.
+        *   [ppx\_pgsql (⭐54)](https://github.com/tizoc/ppx_pgsql) – A syntax extension for embedded SQL queries using PG'OCaml.
     *   [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — An interface to PostgreSQL through the C API (`libpq`).
-    *   [SQLite3 (⭐114)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
+    *   [SQLite3 (⭐116)](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
     *   [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
-    *   [ocaml-redis (⭐74)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
+    *   [ocaml-redis (⭐76)](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
     *   [mysql](http://ygrek.org.ua/p/ocaml-mysql/) – Bindings to libmysqlclient for interacting with MySQL databases.
-    *   [pgx (⭐122)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library.
+    *   [pgx (⭐123)](https://github.com/arenadotio/pgx) – A pure OCaml PostgreSQL client library.
     *   [mysql\_protocol (⭐14)](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
 
 ## [3. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
@@ -44,7 +44,7 @@
 
 ### Logging / Barcode
 
-*   [XCGLogger (⭐3.9k)](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
+*   [XCGLogger (⭐4k)](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
 
 ## [5. Guides](/content/NARKOZ/guides/week/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Software Design
 
-*   [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** \[41:42]
+*   [Evidence-Oriented Programming](https://www.youtube.com/watch?v=uEFrE6cgVNY) by **Andreas Stefik** (Strange Loop 2015) \[41:42]
 
 ## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
@@ -170,8 +170,8 @@
 
 ### Contents / Tools
 
-*   [pico2png (⭐23)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
-*   [Pico8Utils (⭐51)](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
+*   [pico2png (⭐26)](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
+*   [Pico8Utils (⭐52)](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
 
 ## [15. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
@@ -271,7 +271,7 @@ Where hackers and security experts come to train.
 
 ### Data Visualization
 
-*   [Plotly.js (⭐16k)](https://github.com/plotly/plotly.js) The open source javascript graphing library that powers plotly.
+*   [Plotly.js (⭐17k)](https://github.com/plotly/plotly.js) The open source javascript graphing library that powers plotly.
 
 ## [22. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
@@ -324,20 +324,47 @@ Where hackers and security experts come to train.
 git help -g
 ```
 
-## [25. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [25. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Cool / Non-X86
+
+*   [CoolAid: The Cool 2013 Reference Manual](https://www.eecis.udel.edu/~cavazos/cisc672/docs/cool-manual.pdf) (PDF)
+
+### Haxe / Spock Framework
+
+*   [Haxe and JavaScript](https://matthijskamstra.github.io/haxejs/) - Matthijs Kamstra (wikibook)
+
+### Sage / Sinatra
+
+*   [Sage for Power Users](http://wstein.org/books/sagebook/sagebook.pdf) - William Stein (PDF)
+
+### Scala / Sinatra
+
+*   [Pro Scala: Monadic Design Patterns for the Web (⭐92)](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
+*   [Xtrace (⭐92)](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
+
+### Scala / Lift
+
+*   [Lift (⭐161)](https://github.com/tjweir/liftbook)
+
+### VHDL / Deno
+
+*   [Free Range VHDL (⭐274)](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
+
+## [26. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Community
 
 *   [Forums](https://www.fusetools.com/community/forums) - The official Fuse forums.
 *   [Twitter](https://twitter.com/fusetools) - The official Fuse Twitter account.
 
-## [26. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
+## [27. Toolsforactivism](/content/drewrwilson/toolsforactivism/week/README.md)
 
 ### Software as a service:
 
 *   [Change.org](https://www.change.org/) Petition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
 
-## [27. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [28. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -393,7 +420,7 @@ git help -g
 
 *   [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
 
-## [28. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [29. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / B companies
 
@@ -440,7 +467,7 @@ git help -g
 
 *   Real Python <https://realpython.com/blog/>
 
-## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
+## [30. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
 ### Websites / OpenOffice
 
@@ -450,13 +477,13 @@ git help -g
 
 *   [Crayon Syntax Highlighter](https://wordpress.org/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
 
-## [30. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### For Electron / Other
 
 *   [debug-menu (⭐135)](https://github.com/parro-it/debug-menu) - Chrome-like "inspect element" context-menu.
 
-## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [32. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Payments
 
@@ -482,29 +509,29 @@ git help -g
 
 *   [Laravel China](https://phphub.org/)
 
-## [32. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
+## [33. Awesome Github](/content/phillipadsmith/awesome-github/week/README.md)
 
 ### Tips, tricks, tools, and add-ons for GitHub power users
 
 *   [Problem Child (⭐48)](https://github.com/benbalter/problem_child) - Allows authenticated or anonymous users to fill out a standard web form to create GitHub issues (and pull requests).
 
-## [33. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [34. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### REST API / Other
 
 *   [neo4j-elasticsearch (⭐200)](https://github.com/neo4j-contrib/neo4j-elasticsearch) - Neo4j ElasticSearch Integration.
 
-## [34. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [35. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### CLI Utilities
 
-*   [Paint (⭐375)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
+*   [Paint (⭐379)](https://github.com/janlelis/paint) - Simple and fast way to set ANSI terminal colors.
 
 ### Third-party APIs
 
 *   [Slack Notifier (⭐1.5k)](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack channels.
 
-## [35. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
+## [36. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 
 ### HTTP
 

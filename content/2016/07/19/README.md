@@ -16,12 +16,12 @@
 
 ### Authentication
 
-*   [ueberauth\_cas (⭐16)](https://github.com/marceldegraaf/ueberauth_cas) - Central Authentication Service strategy for Überauth.
+*   [ueberauth\_cas (⭐17)](https://github.com/marceldegraaf/ueberauth_cas) - Central Authentication Service strategy for Überauth.
 *   [ueberauth\_line (⭐4)](https://github.com/alexfilatov/ueberauth_line) - LINE Strategy for Überauth.
 
 ### Cloud Infrastructure and Management
 
-*   [nomad (⭐84)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
+*   [nomad (⭐85)](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere.
 
 ### HTTP
 
@@ -59,9 +59,9 @@
 
 ## [6. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
-### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/PwoOQGB)
 
-*   [日本語 (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
+*   [日本語 (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ja-JP)
 
 ## [7. Awesome Php](/content/ziadoz/awesome-php/README.md)
 

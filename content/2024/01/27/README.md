@@ -52,13 +52,13 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [Resseract Lite (⭐4)](https://github.com/abistarun/resseract-lite)
+*   [Resseract Lite (⭐5)](https://github.com/abistarun/resseract-lite)
 
 ## [8. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Gems / Other external resources
 
-*   [solid\_queue (⭐2k)](https://github.com/basecamp/solid_queue) - A gem to Database-backed Active Job backend [:red\_circle:](https://rubygems.org/gems/solid_queue)
+*   [solid\_queue (⭐2.1k)](https://github.com/basecamp/solid_queue) - A gem to Database-backed Active Job backend [:red\_circle:](https://rubygems.org/gems/solid_queue)
 
 ---
 

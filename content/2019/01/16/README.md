@@ -10,7 +10,7 @@
 
 ### Domain and IP Research / Steam
 
-*   [Squatm3gator (⭐31)](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
+*   [Squatm3gator (⭐30)](https://github.com/david3107/squatm3gator) - Enumerate available domains generated modifying the original domain name through different cybersquatting techniques
 
 ## [2. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

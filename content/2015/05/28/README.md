@@ -34,16 +34,16 @@
 ### operations
 
 *   [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
-*   [geojson-rewind (⭐122)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
+*   [geojson-rewind (⭐129)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 
 ### validation
 
-*   [geojsonhint (⭐257)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
+*   [geojsonhint (⭐260)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
 
 ### serialization
 
-*   [python-geojson (⭐898)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
-*   [rust-geojson (⭐263)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+*   [python-geojson (⭐936)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+*   [rust-geojson (⭐293)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
 ## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 

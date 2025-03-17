@@ -34,13 +34,13 @@
 
 ### Contents / Clones
 
-*   [PicoLove (⭐713)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
+*   [PicoLove (⭐784)](https://github.com/picolove/picolove) - Pico-8 Reimplementation in LÖVE.
 
 ## [6. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [ipfs-chat (⭐131)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
+*   [ipfs-chat (⭐140)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 
 ## [7. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -99,7 +99,7 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [Aseprite Wizard (⭐925)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames.
+*   [Aseprite Wizard (⭐961)](https://github.com/viniciusgerevini/godot-aseprite-wizard) - Plugin for importing animations from Aseprite as SpriteFrames.
 
 ---
 

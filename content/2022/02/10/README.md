@@ -233,9 +233,9 @@
 ### Cheat Sheets / Lecture Videos Playlist
 
 *   [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
-*   [Algorithms (⭐21k)](https://github.com/tayllan/awesome-algorithms).
-*   [Cryptography (⭐6k)](https://github.com/sobolevn/awesome-cryptography).
-*   [Quantum Computing (⭐2.6k)](https://github.com/desireevl/awesome-quantum-computing).
+*   [Algorithms (⭐22k)](https://github.com/tayllan/awesome-algorithms).
+*   [Cryptography (⭐6.1k)](https://github.com/sobolevn/awesome-cryptography).
+*   [Quantum Computing (⭐2.7k)](https://github.com/desireevl/awesome-quantum-computing).
 
 ## [6. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
@@ -264,7 +264,7 @@
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-dynamic-base (⭐71)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
+*   [vite-plugin-dynamic-base (⭐72)](https://github.com/chenxch/vite-plugin-dynamic-base) - Resolve all resource files dynamic publicPath.
 
 ## [10. Awesome Go](/content/avelino/awesome-go/README.md)
 

@@ -22,7 +22,7 @@
 
 ### Remote Development / Diagnostics
 
-*   [nosduco/remote-sshfs.nvim (⭐233)](https://github.com/nosduco/remote-sshfs.nvim) - Explore, edit, and develop on a remote machine via SSHFS.
+*   [nosduco/remote-sshfs.nvim (⭐259)](https://github.com/nosduco/remote-sshfs.nvim) - Explore, edit, and develop on a remote machine via SSHFS.
 
 ## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
 
-*   [ragapp/ragapp (⭐4k)](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
+*   [ragapp/ragapp (⭐4.1k)](https://github.com/ragapp/ragapp): an alternative to use Agentic RAG in enterprises
 
 ## [6. Awesome Healthcare](/content/kakoni/awesome-healthcare/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Color Palettes / Web App
 
-*   [Color Name List (⭐2.4k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
+*   [Color Name List (⭐2.5k)](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 
 ## [2. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 

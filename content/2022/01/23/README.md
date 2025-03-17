@@ -41,7 +41,7 @@
 
 ### Software / Groupware
 
-*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐203)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
+*   [Group Office](https://www.group-office.com) - Group-Office is an enterprise CRM and groupware tool. Share projects, calendars, files and e-mail online with co-workers and clients. ([Source Code (⭐210)](https://github.com/Intermesh/groupoffice/)) `AGPL-3.0` `PHP`
 
 ## [4. Magictools](/content/ellisonleao/magictools/README.md)
 
@@ -107,7 +107,7 @@
 ### Competitive Programming / Diagnostics
 
 *   [p00f/cphelper.nvim (⭐138)](https://github.com/p00f/cphelper.nvim) - Neovim helper for competitive programming written in Lua.
-*   [xeluxee/competitest.nvim (⭐455)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
+*   [xeluxee/competitest.nvim (⭐465)](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
 
 ## [10. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
@@ -131,11 +131,11 @@
 
 ### Gaming
 
-*   [Esports (⭐72)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
+*   [Esports (⭐77)](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 
 ### Testing
 
-*   [Gatling (⭐71)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+*   [Gatling (⭐72)](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
 ## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -147,19 +147,19 @@
 
 ### Packages / HTTP
 
-*   [undici (⭐6.4k)](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
+*   [undici (⭐6.6k)](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
 *   [ky-universal (⭐672)](https://github.com/sindresorhus/ky-universal) - Universal HTTP client based on Fetch.
-*   [purest (⭐555)](https://github.com/simov/purest) - REST client.
+*   [purest (⭐556)](https://github.com/simov/purest) - REST client.
 
 ### Packages / Debugging / Profiling
 
-*   [dats (⭐103)](https://github.com/immobiliare/dats) - Minimalistic and zero-dependencies [StatsD (⭐18k)](https://github.com/statsd/statsd) client.
+*   [dats (⭐102)](https://github.com/immobiliare/dats) - Minimalistic and zero-dependencies [StatsD (⭐18k)](https://github.com/statsd/statsd) client.
 
 ### Packages / Web frameworks
 
 *   [Fastify (⭐33k)](https://github.com/fastify/fastify) - Fast and low overhead web framework.
-*   [Nuxt.js (⭐55k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
-*   [AdonisJs (⭐17k)](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
+*   [Nuxt.js (⭐56k)](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
+*   [AdonisJs (⭐18k)](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 *   [Moleculer (⭐6.2k)](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
 
 ### Packages / Streams
@@ -168,7 +168,7 @@
 
 ### Packages / Parsing
 
-*   [@parcel/css (⭐6.6k)](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
+*   [@parcel/css (⭐6.9k)](https://github.com/parcel-bundler/parcel-css) - A CSS parser, transformer, and minifier written in Rust.
 
 ### Packages / Minifiers
 
@@ -178,7 +178,7 @@
 
 ### Tools & Software / Acquisition
 
-*   [Waybackpy (⭐498)](https://github.com/akamhy/waybackpy) -  Wayback Machine Save, CDX and availability API interface in Python and a command-line tool  *(Stable)*
+*   [Waybackpy (⭐503)](https://github.com/akamhy/waybackpy) -  Wayback Machine Save, CDX and availability API interface in Python and a command-line tool  *(Stable)*
 
 ## [15. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

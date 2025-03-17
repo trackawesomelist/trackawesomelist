@@ -41,7 +41,7 @@
 
 ### Web Frameworks
 
-*   [iWF (⭐524)](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
+*   [iWF (⭐538)](https://github.com/indeedeng/iwf) - iWF is an all-in-one platform for developing long-running business processes. It offers a convenient abstraction for utilizing databases, ElasticSearch, message queues, durable timers, and more, with a clean, simple, and user-friendly interface.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -61,16 +61,16 @@
 
 ### Animation, Graphics & Video Playout
 
-*   [Bridge (⭐32)](https://github.com/svt/bridge) - Next generation graphics control software, with extension support.
+*   [Bridge (⭐35)](https://github.com/svt/bridge) - Next generation graphics control software, with extension support.
 
 ### Podcasting
 
-*   [AntennaPod (⭐6.5k)](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android ([antennapod.org](https://antennapod.org/)).
-*   [Anytime Podcast Player (⭐446)](https://github.com/amugofjava/anytime_podcast_player) - Free and easy to use podcast player for Android and iOS ([anytimeplayer.app](https://anytimeplayer.app/)).
-*   [Castopod (⭐652)](https://github.com/ad-aures/castopod) - Podcast Hosting and Broadcasting ([castopod.org](https://castopod.org/)).
+*   [AntennaPod (⭐6.7k)](https://github.com/AntennaPod/AntennaPod) - A podcast manager for Android ([antennapod.org](https://antennapod.org/)).
+*   [Anytime Podcast Player (⭐472)](https://github.com/amugofjava/anytime_podcast_player) - Free and easy to use podcast player for Android and iOS ([anytimeplayer.app](https://anytimeplayer.app/)).
+*   [Castopod (⭐672)](https://github.com/ad-aures/castopod) - Podcast Hosting and Broadcasting ([castopod.org](https://castopod.org/)).
 *   [gPodder (⭐1.3k)](https://github.com/gpodder/gpodder) - Media aggregator and podcast client ([gpodder.org](https://gpodder.org/)).
-*   [Podlove Publisher (⭐299)](https://github.com/podlove/podlove-publisher) - Podcast Publisher for WordPress ([podlove.org](https://podlove.org/podlove-podcast-publisher)).
-*   [Podlove Web Player (⭐84)](https://github.com/podlove/podlove-ui) - Podcast-optimized, HTML5-based video and audio player ([podlove.org](https://podlove.org/podlove-web-player)).
+*   [Podlove Publisher (⭐301)](https://github.com/podlove/podlove-publisher) - Podcast Publisher for WordPress ([podlove.org](https://podlove.org/podlove-podcast-publisher)).
+*   [Podlove Web Player (⭐85)](https://github.com/podlove/podlove-ui) - Podcast-optimized, HTML5-based video and audio player ([podlove.org](https://podlove.org/podlove-web-player)).
 
 ### Streaming
 
@@ -95,8 +95,8 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [bakageddy/alduin.nvim (⭐8)](https://github.com/bakageddy/alduin.nvim) - A port of [alduin (⭐458)](https://github.com/AlessandroYorba/alduin) theme to Lua with Tree-sitter and semantic highlights support.
-*   [diegoulloao/neofusion.nvim (⭐206)](https://github.com/diegoulloao/neofusion.nvim) - A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
+*   [bakageddy/alduin.nvim (⭐11)](https://github.com/bakageddy/alduin.nvim) - A port of [alduin (⭐458)](https://github.com/AlessandroYorba/alduin) theme to Lua with Tree-sitter and semantic highlights support.
+*   [diegoulloao/neofusion.nvim (⭐212)](https://github.com/diegoulloao/neofusion.nvim) - A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
 
 ## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -108,7 +108,7 @@
 
 ### Gems / Other external resources
 
-*   [bemi-rails (⭐86)](https://github.com/BemiHQ/bemi-rails) - A robust data change tracking and audit trail for Rails. [:red\_circle:](https://rubygems.org/gems/bemi-rails)
+*   [bemi-rails (⭐89)](https://github.com/BemiHQ/bemi-rails) - A robust data change tracking and audit trail for Rails. [:red\_circle:](https://rubygems.org/gems/bemi-rails)
 
 ## [9. Topics](/content/selvaklnc/topics/README.md)
 
@@ -136,7 +136,7 @@
 
 ### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-rspack-build (⭐75)](https://github.com/Coly010/ng-rspack-build) - [Rspack (⭐11k)](https://github.com/web-infra-dev/rspack) plugin and loaders to build Angular applications.
+*   [ng-rspack-build (⭐109)](https://github.com/Coly010/ng-rspack-build) - [Rspack (⭐11k)](https://github.com/web-infra-dev/rspack) plugin and loaders to build Angular applications.
 
 ## [13. Awesome Crypto Papers](/content/pFarb/awesome-crypto-papers/README.md)
 

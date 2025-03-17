@@ -157,7 +157,7 @@
 
 ### Libraries
 
-*   [TensorFrames (⭐749)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
+*   [TensorFrames (⭐748)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
 
 ---
 

@@ -73,7 +73,7 @@
 
 ### Open Source Projects / Other Tools
 
-*   [OPAL (Open Policy Administration Layer) (⭐13)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
+*   [OPAL (Open Policy Administration Layer) (⭐15)](https://github.com/authorizon/opal) - Real-time authorization updates on top of Open-Policy; built with FastAPI, Typer, and FastAPI WebSocket pub/sub.
 
 ## [4. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 

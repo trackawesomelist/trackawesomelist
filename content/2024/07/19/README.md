@@ -22,7 +22,7 @@
 
 ### Utils
 
-*   [playwright-magic-steps (⭐24)](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
+*   [playwright-magic-steps (⭐36)](https://github.com/vitalets/playwright-magic-steps) - Auto-transform JavaScript comments into Playwright steps.
 
 ## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Project Layout
 
-*   [go-blueprint (⭐6.6k)](https://github.com/Melkeydev/go-blueprint) - Allows users to spin up a quick Go project using a popular framework.
+*   [go-blueprint (⭐6.9k)](https://github.com/Melkeydev/go-blueprint) - Allows users to spin up a quick Go project using a popular framework.
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -48,7 +48,7 @@
 ### Utilities
 
 *   [bar128-love (⭐1)](https://github.com/Nawias/bar128-love) - Barcode rendering library for LÖVE.
-*   [love-qrcode (⭐1)](https://github.com/Nawias/love-qrcode) - QR Code rendering library for LÖVE.
+*   [love-qrcode (⭐2)](https://github.com/Nawias/love-qrcode) - QR Code rendering library for LÖVE.
 
 ### IDEs
 

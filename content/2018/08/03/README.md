@@ -27,7 +27,7 @@
 
 ### Video / Barcode
 
-*   [Cabbage (⭐1.5k)](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation.
+*   [Cabbage (⭐1.6k)](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation.
 
 ## [4. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
@@ -106,8 +106,8 @@
 
 ### Softwares / Launchers
 
-*   [MultiMC (⭐4.2k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
-*   [HMCL (⭐6.7k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
+*   [MultiMC (⭐4.4k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+*   [HMCL (⭐7.3k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 
 ## [10. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 

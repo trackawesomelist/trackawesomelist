@@ -10,7 +10,7 @@
 
 ### Free fonts / Fonts
 
-*   [SansBullshitSans (⭐304)](https://github.com/RoelN/SansBullshitSans)
+*   [SansBullshitSans (⭐306)](https://github.com/RoelN/SansBullshitSans)
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

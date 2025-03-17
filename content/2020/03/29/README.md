@@ -63,7 +63,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [LeagueStats (⭐437)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
+*   [LeagueStats (⭐444)](https://github.com/vkaelin/LeagueStats) - Statistics website for players of the online game League of Legends.
 
 ---
 

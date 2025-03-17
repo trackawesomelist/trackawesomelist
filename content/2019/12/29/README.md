@@ -18,11 +18,17 @@
 
 ## [2. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / UI & End-to-End Testing
 
-*   [Kiwi TCMS (⭐1k)](https://github.com/kiwitcms/Kiwi) - Open Source test case management system.
-*   [Captura (⭐10k)](https://github.com/MathewSachin/Captura) - Open Source video recording tool.
-*   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Open Source Node.js library for creating browser tests 10x faster.
+*   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
+
+### Software / Test Management
+
+*   [Kiwi TCMS (⭐1k)](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
+
+### Software / Screen Recording & Session Replays
+
+*   [Captura (⭐10k)](https://github.com/MathewSachin/Captura) - Open-source video recording tool.
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -84,7 +90,7 @@
 
 ### REST Frameworks / Other
 
-*   [springdoc-openapi (⭐3.3k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
+*   [springdoc-openapi (⭐3.4k)](https://github.com/springdoc/springdoc-openapi) - Automates the generation of API documentation using Spring Boot projects.
 
 ---
 

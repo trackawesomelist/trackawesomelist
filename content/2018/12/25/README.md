@@ -816,15 +816,15 @@
 
 *   [Anemometer (⭐1.4k)](https://github.com/box/Anemometer) - Box SQL slow query monitor.
 *   [innodb-ruby (⭐1.7k)](https://github.com/jeremycole/innodb_ruby) - A parser for InnoDB file formats, in Ruby.
-*   [innotop (⭐763)](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
+*   [innotop (⭐783)](https://github.com/innotop/innotop) - a 'top' clone for MySQL with many features and flexibility.
 *   [MySQL Explain Analyzer (⭐93)](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
-*   [mysql-statsd (⭐99)](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
-*   [pstop (⭐206)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
+*   [mysql-statsd (⭐100)](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
+*   [pstop (⭐207)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
 
 ### Benchmarking
 
 *   [iibench-mysql (⭐46)](https://github.com/tmcallaghan/iibench-mysql) - Java based version of the Index Insertion Benchmark for MySQL/Percona/MariaDB.
-*   [Sysbench (⭐6.2k)](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
+*   [Sysbench (⭐6.3k)](https://github.com/akopytov/sysbench) - a modular, cross-platform and multi-threaded benchmark tool.
 
 ### ChatOps
 
@@ -847,17 +847,17 @@
 
 ### Development
 
-*   [Shift (⭐735)](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
+*   [Shift (⭐738)](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
 
 ### GUI
 
-*   [mycli (⭐11k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+*   [mycli (⭐12k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 *   [Ocelot GUI (⭐62)](https://github.com/ocelot-inc/ocelotgui) - GUI client for MySQL or MariaDB, including debugger.
-*   [pspg (⭐2.5k)](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
+*   [pspg (⭐2.6k)](https://github.com/okbob/pspg) - provides a pager with enhanced visualization and navigation for tabular data. Originally implemented for PostgreSQL, but also supports MySQL.
 
 ### HA
 
-*   [replication-manager (⭐660)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
+*   [replication-manager (⭐677)](https://github.com/signal18/replication-manager) - a high availability solution to manage MariaDB 10.x and MySQL & Percona Server 5.7 GTID replication topologies.
 
 ### Proxy
 
@@ -865,8 +865,8 @@
 
 ### Schema
 
-*   [common\_schema (⭐130)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
-*   [sys (⭐828)](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
+*   [common\_schema (⭐128)](https://github.com/shlomi-noach/common_schema) - DBA's framework for MySQL, providing a function library, views library and QueryScript interpreter.
+*   [sys (⭐830)](https://github.com/mysql/mysql-sys) - A collection of views, functions and procedures to help MySQL administrators get insight in to MySQL Database usage.
 
 ### Security
 
@@ -874,13 +874,13 @@
 
 ### Server
 
-*   [MariaDB (⭐5.7k)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
+*   [MariaDB (⭐5.9k)](https://github.com/MariaDB/server) - Community developed fork of MySQL server.
 *   [MySQL Server & MySQL Cluster (⭐11k)](https://github.com/mysql/mysql-server) - Official Oracle's MySQL server & MySQL Cluster distribution.
-*   [TiDB (⭐37k)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
+*   [TiDB (⭐38k)](https://github.com/pingcap/tidb) - A distributed HTAP database compatible with the MySQL protocol.
 
 ### Toolkits
 
-*   [gh-ost (⭐12k)](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
+*   [gh-ost (⭐13k)](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
 
 ### e-books
 

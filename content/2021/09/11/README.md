@@ -31,12 +31,12 @@
 *   [Tortoise ORM](https://tortoise.github.io) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
     *   [FastAPI Example](https://tortoise.github.io/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
     *   [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
-    *   [Aerich (⭐862)](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
+    *   [Aerich (⭐873)](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
 *   [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel (which is powered by Pydantic and SQLAlchemy) is a library for interacting with SQL databases from Python code, with Python objects.
 
 ### Open Source Projects / Other Tools
 
-*   [Universities (⭐62)](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
+*   [Universities (⭐63)](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -60,7 +60,7 @@
 
 ### Creating a new Plugin
 
-*   Read the [creating plugins guide (⭐22k)](https://github.com/asdf-vm/asdf/blob/master/docs/plugins/create.md)
+*   Read the [creating plugins guide (⭐23k)](https://github.com/asdf-vm/asdf/blob/master/docs/plugins/create.md)
 
 ## [9. Public Apis](/content/public-apis/public-apis/README.md)
 

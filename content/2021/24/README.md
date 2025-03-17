@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 14 - Jun 20, 2021
 
-54 awesome lists updated this week.
+55 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -133,17 +133,15 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Evidently (⭐5.5k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
+*   [Evidently (⭐5.7k)](https://github.com/evidentlyai/evidently): Interactive reports to analyze machine learning models during validation or production monitoring.
 
 ## [10. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Websites / Archives
 
-*   [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft mods. Various other mods and stuff can be found on their Discord.
 *   [Minecraft Archive Project](http://map.crummy.com/) - Huge archive containing Minecraft mods, worlds, resource packs and many other resources (even forum posts!).
-*   [MCVersions](https://mcversions.net/) - Archives most Minecraft jars.
-*   [MCPC+ Archive](https://iruril.tistory.com/category/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%28Minecraft%29/Server) - Archive with some MCPC+ versions.
 *   [CraftBukkit Archive](https://drive.google.com/drive/u/0/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M) - Archives many CraftBukkit versions.
+*   [MCVersions](https://mcversions.net/) - Archives various Minecraft jars.
 
 ### Mod Loaders / Archives
 
@@ -191,7 +189,7 @@
 *   [Tabula](https://www.curseforge.com/minecraft/mc-mods/tabula-minecraft-modeler) - Minecraft Mod that faciliates creating 3D Models.
 *   [Mod Coder Pack](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack) - Tool for properly decompiling Minecraft.
 *   [BON 2 (⭐182)](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
-*   [Bearded Octo Nemesis (⭐128)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
+*   [Bearded Octo Nemesis (⭐130)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
 
 ## [11. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
@@ -201,7 +199,7 @@
 
 ## [12. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
-### Blockchain/Crypto/NFT
+### Blockchain/Crypto/NFT / YouTube Playables
 
 *   [RareRooms](https://www.rarerooms.io/) - 3D virtual rooms for NFT collections.
 
@@ -215,11 +213,11 @@
 
 ### Software / Groupware
 
-*   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐2k)](https://github.com/espocrm/espocrm)) `AGPL-3.0` `PHP`
+*   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐2.1k)](https://github.com/espocrm/espocrm)) `AGPL-3.0` `PHP`
 
 ### Software / Resource Planning
 
-*   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐23k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
+*   [ERPNext](https://erpnext.com) - Free open source ERP system. ([Source Code (⭐24k)](https://github.com/frappe/erpnext)) `GPL-3.0` `Python/Docker`
 
 ## [15. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
@@ -283,31 +281,37 @@
 
 *   [Awesome Security Talks & Videos (⭐4k)](https://github.com/PaulSec/awesome-sec-talks) - A curated list of awesome security talks, organized by year and then conference.
 
-## [21. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [21. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Python / Django
+
+*   [Test-Driven Development With Python And Django](http://www.obeythetestinggoat.com/pages/book.html) (1.11)
+
+## [22. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Footprint Calculators
 
 *   [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) - An open source tool that provides visibility and tooling to measure, monitor and reduce public cloud carbon emissions. It supports multiple cloud providers including AWS, Google Cloud, and Microsoft Azure, and displays energy and carbon emission metrics in a dashabord, command line interface or exportable to CSV.
 
-## [22. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [23. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### Bindings
 
 *   [WebChimera.js (⭐666)](https://github.com/RSATom/WebChimera.js) - Electron bindings for libvlc.
 
-## [23. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [24. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Russian / Game Engine resources
 
 *   [Flutter Dev Podcast](https://open.spotify.com/show/5qc1VFD4pkJlUYZBVTOFCI?si=OWn7VCELRO2QV03Gi2u8nA\&nd=1) - by [Eugene Saturov](https://twitter.com/saturovv).
 
-## [24. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [25. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Geometry and Topology / Differential Geometry
 
 *   📝 [Discrete Differential Geometry](http://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf) - Keenan Crane
 
-## [25. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Management Extras
 
@@ -317,25 +321,25 @@
 
 *   [CaptainHook (⭐1k)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
 
-## [26. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+## [27. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Deep Learning Packages / Visualization Tools
 
 *   [altair](https://altair-viz.github.io/)
 
-## [27. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
+## [28. Awesome Kubernetes](/content/ramitsurana/awesome-kubernetes/week/README.md)
 
 ### Featured On
 
 *   [How to Deploy a REST API in Kubernetes](https://www.loginradius.com/blog/async/rest-api-kubernetes/)
 
-## [28. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [29. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Automation / DSL
 
 *   [jmeter-as-code (⭐35)](https://github.com/anasoid/jmeter-as-code) - Simple wrapper for JMeter to write and execute JMeter tests with Java.
 
-## [29. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [30. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Databases / ORMs
 
@@ -346,14 +350,14 @@
 
 *   [openapi-python-client (⭐1.4k)](https://github.com/openapi-generators/openapi-python-client) - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
 
-## [30. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [31. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Admin Themes
 
-*   [django-semantic-admin (⭐157)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
-*   [django-baton (⭐925)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
+*   [django-semantic-admin (⭐158)](https://github.com/globophobe/django-semantic-admin) - Django Semantic UI admin theme.
+*   [django-baton (⭐929)](https://github.com/otto-torino/django-baton) - A cool, modern and responsive django admin application based on bootstrap 5.
 
-## [31. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [32. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -365,7 +369,7 @@
 
 
 
-## [32. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [33. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Artifact Repos
 
@@ -384,7 +388,7 @@
 
 *   [Flutter Flow](https://flutterflow.io) — Build your Flutter App UI without writing a single line of code. Also has a Firebase integration. The free plan includes full access to UI Builder and Free templates.
 
-## [33. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
+## [34. Awesome Incident Response](/content/meirwah/awesome-incident-response/week/README.md)
 
 ### IR Tools Collection / All-In-One Tools
 
@@ -436,7 +440,7 @@
 
 *   [Hoarder (⭐186)](https://github.com/muteb/Hoarder) - Collecting the most valuable artifacts for forensics or incident response investigations.
 
-## [34. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [35. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Bindings
 
@@ -446,7 +450,7 @@
 
 *   [VKtracer](https://www.vktracer.com) - universal and easy-to-use profiler for Vulkan.
 
-## [35. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [36. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Books
 
@@ -467,32 +471,32 @@
 *   [Pentest-Report Keycloak 8.0 Audit & Pentest 11.2019 by Cure53](https://cure53.de/pentest-report_keycloak.pdf)
 *   [Keycloak - CNCF Security SIG - Self Assesment](https://docs.google.com/document/d/14IIGliP3BWjdS-0wfOk3l_1AU8kyoSiLUzpPImsz4R0/edit#)
 
-## [36. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [37. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 
 *   [Form2Channel](https://form2channel.com/) - Post your HTML form to Form2Channel to store submissions in Google Sheets and receive them via email, Slack or Telegram. No signups, no costs, no limits.
 *   [reCAPTCHAme](https://recaptchame.com/) - reCAPTCHA and hCAPTCHA token verification service. Post your form to reCAPTCHAme to avoid getting spammed. Made for static websites, no server-side coding required.
 
-## [37. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [38. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Visual programming
 
 *   [Super](https://super.so) - Build websites with the simplicity of Notion.
 
-## [38. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [39. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### Static Site Generators
 
 *   [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 
-## [39. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
+## [40. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/week/README.md)
 
 ### Libraries / Machine Learning
 
 *   [Summit (⭐106)](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
 
-## [40. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
+## [41. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/week/README.md)
 
 ### Apps / Stacks Web Applications
 
@@ -545,21 +549,21 @@
 *   [Official Stacks Forum](https://forum.stacks.org/) - Stacks community forum.
 *   [r/stacks](https://www.reddit.com/r/stacks) - Stacks subreddit.
 
-## [41. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
+## [42. Awesome Devsecops](/content/TaptuIT/awesome-devsecops/week/README.md)
 
 ### Secrets Scanning / Ansible
 
 *   [Detect Secrets (⭐3.6k)](https://github.com/Yelp/detect-secrets) - *Yelp* - An aptly named module for (surprise, surprise) detecting secrets within a code base.
 
-## [42. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [43. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Programming Languages / PHP
 
-*   [composer2nix (⭐88)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
+*   [composer2nix (⭐89)](https://github.com/svanderburg/composer2nix) - Generate Nix expressions to build composer packages.
 *   [composition-c4 (⭐11)](https://github.com/fossar/composition-c4) - Support for building composer packages from a `composer.lock` (using IFD).
-*   [nix-phps (⭐66)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
+*   [nix-phps (⭐69)](https://github.com/fossar/nix-phps) - Flake containing old and unmaintained PHP versions (intended for CI use).
 
-## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [44. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -585,11 +589,11 @@
 
 ### ORM/ODM Extensions
 
-*   [avram (⭐166)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
+*   [avram (⭐167)](https://github.com/luckyframework/avram) - A database wrapper for reading, writing, and migrating Postgres databases
 
 ### Queues and Messaging
 
-*   [mosquito (⭐229)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
+*   [mosquito (⭐230)](https://github.com/mosquito-cr/mosquito/) - Redis backed periodic and ad hoc job processing
 
 ### Serverless Computing
 
@@ -602,21 +606,21 @@
 
 ### LSP Language Server Protocol Implementations
 
-*   [crystalline (⭐453)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
+*   [crystalline (⭐454)](https://github.com/elbywan/crystalline) - Crystalline is an implementation of the Language Server Protocol written in and for the Crystal Language
 
-## [44. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
+## [45. Awesome Gatling](/content/aliesbelik/awesome-gatling/week/README.md)
 
 ### Official Resources
 
 *   [Homepage](https://gatling.io/)
 
-## [45. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [46. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Crowdsourced transit data
+### Crowdsourced transit data / Rust
 
 *   [GTFS-Hub (⭐30)](https://github.com/mfdz/gtfs-hub) - Community tested, probably quality/content enhanced, partially merged or filtered GTFS-feeds of (currently German) transport agencies. Maintained by [MITFAHR|DE|ZENTRALE](https://github.com/mfdz).
 
-## [46. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [47. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
@@ -626,11 +630,7 @@
 
 *   [Vectornator: Design Software](https://www.vectornator.io/) - The Most Intuitive and Precise Illustration Software in the Galaxy. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/vectornator-design-software/id1219074514)
 
-### Utilities / Productivity
-
-*   [Raycast](https://raycast.com) - Raycast lets you control your tools with a few keystrokes. It’s designed to keep you focused.
-
-## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [48. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Development
 
@@ -660,26 +660,26 @@
 
 
 
-## [48. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
+## [49. Awesome Lidar](/content/szenergy/awesome-lidar/week/README.md)
 
 ### Libraries
 
 *   [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐44)](https://github.com/virtual-vehicle/pointcloudset)
 
-## [49. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [50. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Graphics / TikZ
 
 *   [TikZBlog](https://latexdraw.com) - Step-by-Step Tutorials about How to Draw Illustrations in LaTeX.
 
-## [50. Amas](/content/sindresorhus/amas/week/README.md)
+## [51. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [TheTechRobo](https://github.com/thetechrobo/ama) - Hobbyist Python 3.x developer who corrects grammar so much he loses friends.
 
-## [51. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [52. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### (requires Neovim 0.5)
 
@@ -691,7 +691,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [dracula/vim (⭐1.3k)](https://github.com/dracula/vim) - Famous beautiful dark powered theme.
+*   [dracula/vim (⭐1.4k)](https://github.com/dracula/vim) - Famous beautiful dark powered theme.
 
 ### Utility / Diagnostics
 
@@ -699,9 +699,9 @@
 
 ### Git / Diagnostics
 
-*   [kdheepak/lazygit.nvim (⭐1.7k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
+*   [kdheepak/lazygit.nvim (⭐1.8k)](https://github.com/kdheepak/lazygit.nvim) - Plugin for calling lazygit.
 
-## [52. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
+## [53. Awesome Python Scientific Audio](/content/faroit/awesome-python-scientific-audio/week/README.md)
 
 ### Audio Related Packages / Feature extraction
 
@@ -711,7 +711,7 @@
 
 *   [pydiogment (⭐76)](https://github.com/SuperKogito/pydiogment) [:octocat: (⭐76)](https://github.com/SuperKogito/pydiogment) [:package:](https://pypi.org/project/pydiogment/) -  Audio Data Augmentation.
 
-## [53. Awesome Design](/content/gztchan/awesome-design/week/README.md)
+## [54. Awesome Design](/content/gztchan/awesome-design/week/README.md)
 
 ### Stock
 
@@ -754,7 +754,7 @@
 *   [Uber](https://medium.com/uber-design)
 *   [Audi](https://www.audi.com/ci/en/renewed-brand.html) Audi Corporate Identity Portal
 
-## [54. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [55. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Xamarin.Forms
 

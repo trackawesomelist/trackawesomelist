@@ -16,13 +16,13 @@
 
 ### Applications / Blockchain
 
-*   [beerus (⭐256)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/test.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/test.yml)
+*   [beerus (⭐259)](https://github.com/eigerco/beerus) - Beerus is a trustless StarkNet Light Client, ⚡blazing fast ⚡ [![GitHub Workflow Status](https://github.com/eigerco/beerus/actions/workflows/check.yml/badge.svg)](https://github.com/eigerco/beerus/actions/workflows/check.yml)
 
 ## [3. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / UI & End-to-End Testing
 
-*   [playwright-bdd (⭐348)](https://github.com/vitalets/playwright-bdd) - A module for running Behaviour-Driven Development (BDD) tests with Playwright runner.
+*   [playwright-bdd (⭐370)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

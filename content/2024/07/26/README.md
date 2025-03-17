@@ -22,7 +22,7 @@
 
 ### Resource / Diagnostics
 
-*   [Nvim-training (⭐62)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
+*   [Nvim-training (⭐77)](https://github.com/Weyaaron/nvim-training) - A beginner-friendly tool for training your 'muscle memory' using small, repeatable tasks.
 
 ## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 

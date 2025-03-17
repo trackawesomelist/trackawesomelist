@@ -43,11 +43,11 @@
 
 ### Events
 
-*   [Observable (⭐373)](https://github.com/roberthein/Observable) - The easiest way to observe values.
+*   [Observable (⭐374)](https://github.com/roberthein/Observable) - The easiest way to observe values.
 
 ### Images / Barcode
 
-*   [ZImageCropper (⭐233)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
+*   [ZImageCropper (⭐235)](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ## [7. Awesome Coins](/content/Zheaoli/awesome-coins/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Email
 
-*   [Maily (⭐707)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
+*   [Maily (⭐706)](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 
 ### Form Builder
 

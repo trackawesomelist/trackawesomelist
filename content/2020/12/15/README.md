@@ -55,7 +55,7 @@
 
 ### Emojis / Fonts
 
-*   [Crypto Puzzles (⭐29)](https://github.com/2d4d/crypto_puzzles) - Includes e
+*   [Crypto Puzzles (⭐34)](https://github.com/2d4d/crypto_puzzles) - Includes e
     moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     𝔬 🎏     ᵺ €     モ Ⓜ️ 🍩 🃛 ï     ℉ 𝔬 ♑ 𝔱  (Online demo: <http://rupp.de/crypto_puzzles/crypto_puzzles_web.py>)
 
 ### Iconic fonts / Fonts
@@ -106,7 +106,7 @@
 
 ### Starters & Themes
 
-*   🚀 [Starter Dashboard Layout (⭐213)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
+*   🚀 [Starter Dashboard Layout (⭐214)](https://github.com/Kamona-WD/starter-dashboard-layout) - Dashboard layout using Tailwind CSS and Alpine JS.
 
 ## [11. FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md)
 
@@ -197,7 +197,7 @@
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐612)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
+*   [Firefox Account Server](https://mozilla-services.readthedocs.io/en/latest/howtos/run-fxa.html) - This allows you to host your own Firefox accounts server. ([Source Code (⭐624)](https://github.com/mozilla/fxa)) `MPL-2.0` `Nodejs/Java`
 
 ---
 

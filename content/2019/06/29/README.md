@@ -28,11 +28,11 @@
 
 ### Packages / Image
 
-*   [qrcode (⭐7.6k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
+*   [qrcode (⭐7.7k)](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 
 ### Packages / Job queues
 
-*   [better-queue (⭐518)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
+*   [better-queue (⭐526)](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 
 ### Packages / Node.js management
 

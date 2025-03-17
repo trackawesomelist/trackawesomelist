@@ -41,7 +41,7 @@
 
 ### Time-Series Databases
 
-*   [TDengine (⭐21k)](https://github.com/taosdata/TDengine/) - a time series database in C utilizing unique features of IoT to improve read/write throughput and reduce space needed to store data
+*   [TDengine (⭐24k)](https://github.com/taosdata/TDengine/) - a time series database in C utilizing unique features of IoT to improve read/write throughput and reduce space needed to store data
 
 ### Business Intelligence
 

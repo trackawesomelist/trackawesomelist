@@ -40,7 +40,7 @@
 
 ### Tools / Paid and commercially available materials
 
-*   [svd2rust (⭐736)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
+*   [svd2rust (⭐746)](https://github.com/japaric/svd2rust) Generate Rust structs with register mappings from SVD files.
 *   [cortex-m semihosting (⭐0)](https://github.com/japaric/cortex-m-semihosting) Semihosting for ARM Cortex-M processors
 
 ## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
@@ -211,9 +211,9 @@
 
 ## [11. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
-### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/PwoOQGB)
 
-*   [Polskie (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
+*   [Polskie (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pl-PL)
 
 ## [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -224,7 +224,7 @@
 
 ### Debug
 
-*   [Nanotimer (⭐139)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
+*   [Nanotimer (⭐140)](https://github.com/mattreecebentley/plf_nanotimer) - A simple low-overhead cross-platform timer class for benchmarking. \[zLib] [website](http://www.plflib.org/nanotimer.htm)
 
 ### Sorting
 

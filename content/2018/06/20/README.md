@@ -10,7 +10,7 @@
 
 ### Testing / Zabbix
 
-*   [DbFit (⭐233)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
+*   [DbFit (⭐234)](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
 
 ## [2. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
@@ -55,7 +55,7 @@
 
 ## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Based Visualizations
+### GTFS Based Visualizations / Rust
 
 *   [gtfspy-webviz (⭐55)](https://github.com/CxAalto/gtfspy-webviz) - Web application for animation and visualization of GTFS data using [gtfspy (⭐160)](https://github.com/CxAalto/gtfspy).
 
@@ -105,7 +105,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Minimal Notes (⭐136)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
+*   [Minimal Notes (⭐135)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
 
 ## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

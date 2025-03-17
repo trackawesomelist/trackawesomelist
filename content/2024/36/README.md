@@ -22,7 +22,7 @@
 
 ### GUI
 
-*   [Clidey WhoDB (⭐2.4k)](https://github.com/clidey/whodb) - A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.
+*   [Clidey WhoDB (⭐2.7k)](https://github.com/clidey/whodb) - A lightweight database explorer with next-gen UX for all SQL, NoSQL, Caches, and Queues.
 
 ## [4. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
@@ -34,46 +34,40 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [nvm-deferred (⭐0)](https://github.com/davidparsson/zsh-nvm-deferred) - Defers loading of the `nvm` oh-my-zsh plugin using [zsh-defer (⭐363)](https://github.com/romkatv/zsh-defer) to speed up shell startup.
+*   [nvm-deferred (⭐0)](https://github.com/davidparsson/zsh-nvm-deferred) - Defers loading of the `nvm` oh-my-zsh plugin using [zsh-defer (⭐377)](https://github.com/romkatv/zsh-defer) to speed up shell startup.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [cryptic (⭐0)](https://github.com/thederpykrafter/cryptic.zsh-theme) - Based on [aphrodite-terminal-theme (⭐151)](https://github.com/win0err/aphrodite-terminal-theme). Includes decorators for current directory, `git` status, time, username, hostname and virtual environment.
+*   [cryptic (⭐0)](https://github.com/thederpykrafter/cryptic.zsh-theme) - Based on [aphrodite-terminal-theme (⭐153)](https://github.com/win0err/aphrodite-terminal-theme). Includes decorators for current directory, `git` status, time, username, hostname and virtual environment.
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Communication - Email - Complete Solutions
 
-*   [Mox](https://www.xmox.nl/) - Complete e-mail solution with IMAP4, SMTP, SPF, DKIM, DMARC, MTA-STS, DANE and DNSSEC, reputation-based and content-based junk filtering, Internationalization (IDNA), automatic TLS with ACME and Let's Encrypt, account autoconfiguration, and webmail. ([Source Code (⭐3.8k)](https://github.com/mjl-/mox)) `MIT` `Go`
+*   [Mox](https://www.xmox.nl/) - Complete e-mail solution with IMAP4, SMTP, SPF, DKIM, DMARC, MTA-STS, DANE and DNSSEC, reputation-based and content-based junk filtering, Internationalization (IDNA), automatic TLS with ACME and Let's Encrypt, account autoconfiguration, and webmail. ([Source Code (⭐4.5k)](https://github.com/mjl-/mox)) `MIT` `Go`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [auto-mcs](https://www.auto-mcs.com) - Cross-platform Minecraft server manager. ([Source Code (⭐193)](https://github.com/macarooni-man/auto-mcs)) `AGPL-3.0` `Python`
+*   [auto-mcs](https://www.auto-mcs.com) - Cross-platform Minecraft server manager. ([Source Code (⭐219)](https://github.com/macarooni-man/auto-mcs)) `AGPL-3.0` `Python`
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [PodFetch](https://samtv12345.github.io/PodFetch) - A sleek and efficient podcast downloader. ([Source Code (⭐372)](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
+*   [PodFetch](https://samtv12345.github.io/PodFetch) - A sleek and efficient podcast downloader. ([Source Code (⭐397)](https://github.com/SamTV12345/PodFetch)) `Apache-2.0` `Docker/Rust`
 
 ### Software / Miscellaneous
 
 *   [asciinema](https://asciinema.org/) - Web app for hosting asciicasts. ([Demo](https://asciinema.org/explore), [Source Code (⭐2.3k)](https://github.com/asciinema/asciinema-server)) `Apache-2.0` `Elixir/Docker`
-*   [LubeLogger](https://lubelogger.com) - A web-based vehicle maintenance and fuel mileage tracker. ([Demo (⭐1.3k)](https://github.com/hargata/lubelog?tab=readme-ov-file#demo), [Source Code (⭐1.3k)](https://github.com/hargata/lubelog)) `MIT` `Docker/K8S/C#`
+*   [LubeLogger](https://lubelogger.com) - A web-based vehicle maintenance and fuel mileage tracker. ([Demo (⭐1.4k)](https://github.com/hargata/lubelog?tab=readme-ov-file#demo), [Source Code (⭐1.4k)](https://github.com/hargata/lubelog)) `MIT` `Docker/K8S/C#`
 
 ### Software / Photo Galleries
 
-*   [Photofield (⭐472)](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer. `MIT` `Docker/Go`
+*   [Photofield (⭐477)](https://github.com/SmilyOrg/photofield) - Experimental fast photo viewer. `MIT` `Docker/Go`
 
 ### Software / Recipe Management
 
-*   [Recipya](https://recipes.musicavis.ca) - A clean, simple and powerful recipe manager your whole family will enjoy. ([Demo](https://recipes.musicavis.ca/guide/login), [Source Code (⭐256)](https://github.com/reaper47/recipya)) `GPL-3.0` `Docker/Go`
+*   [Recipya](https://recipes.musicavis.ca) - A clean, simple and powerful recipe manager your whole family will enjoy. ([Demo](https://recipes.musicavis.ca/guide/login), [Source Code (⭐308)](https://github.com/reaper47/recipya)) `GPL-3.0` `Docker/Go`
 
-## [7. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Misc
-
-*   [The Web Development Glossary (⭐4)](https://github.com/frontenddogma/web-development-glossary) – Jens Oliver Meiert
-
-## [8. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [7. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Applications and Platforms / Data Collection
 
@@ -90,13 +84,12 @@
 
 ### Open Source Projects / Wealth
 
-*   [HumanProgrammingInrerface (⭐1.5k)](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
 *   [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
-*   [Chronicle (⭐138)](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
+*   [Chronicle (⭐158)](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
 *   [QS-Schema (⭐1)](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
-*   [Datasette (⭐9.2k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+*   [Datasette (⭐9.9k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [8. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Critical Views about Generative AI
 
@@ -114,13 +107,13 @@
 
 *   [DecorAI](https://decorai.io): Generate Interior and Exterior Ideas in Seconds
 
-## [10. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [9. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### IDE Extensions
 
-*   [Editor support for VS2022 (⭐98)](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
+*   [Editor support for VS2022 (⭐105)](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
 
-## [11. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [10. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
@@ -130,20 +123,20 @@
 
 *   ["Build a Better README"](https://www.youtube.com/watch?v=vfZuFo1gTB8\&list=PLA9_Hq3zhoFw6patag2gZcDjpugDLBStL\&index=31) - *Jason A. Crome* at *The Perl and Raku Conference* in 2024 in Las Vegas, Nevada, USA.
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [fantomas](https://fsprojects.github.io/fantomas/) — F# source code formatter.
 *   [ionide-analyzers](https://ionide.io/ionide-analyzers/) — A collection of F# analyzers, built with the FSharp.Analyzers.SDK.
 
-## [13. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [12. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2024
 
 *   [LLMs hallucinate graphs too: a structural perspective](https://arxiv.org/abs/2409.00159) - (complex networks) *Queries LLMs for known graphs and studies topological hallucinations. Proposes a structural hallucination rank.*
 
-## [14. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
+## [13. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -153,7 +146,7 @@
 
 *   [php-vitelinker (⭐1)](https://github.com/Osteoporosis/php-vitelinker) - A CLI tool that generates includable PHP files after building bundles.
 
-## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Web Servers
 
@@ -163,9 +156,9 @@
 
 *   Zenoh
     *   [eclipse-zenoh-flow/zenoh-flow (⭐96)](https://github.com/eclipse-zenoh-flow/zenoh-flow) - A declarative framework for computations that span from the *Cloud* to the *Thing*
-    *   [eclipse-zenoh/zenoh (⭐1.6k)](https://github.com/eclipse-zenoh/zenoh) - Zero Overhead Network Protocol
+    *   [eclipse-zenoh/zenoh (⭐1.7k)](https://github.com/eclipse-zenoh/zenoh) - Zero Overhead Network Protocol
 
-## [16. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [15. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Customization
 
@@ -175,7 +168,7 @@
 
 *   [lobash (⭐364)](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
 
-## [17. GoBooks](/content/dariubs/GoBooks/week/README.md)
+## [16. GoBooks](/content/dariubs/GoBooks/week/README.md)
 
 ### 2024 - [Go Programming - From Beginner to Professional, 2nd Edition](https://www.packtpub.com/en-us/product/go-programming-from-beginner-to-professional-9781803243054?srsltid=AfmBOoqCt1m9nZQ7G3qYpWVl6dqm6S2drbpiDD-Gjn84CeDsb4IxCUKF) / Why does this book look so different?
 
@@ -187,6 +180,18 @@
 *   Create an HTTP client and server and work with a RESTful web API
 *   Use concurrency to design efficient software
 *   Use Go tools to simplify development and improve your code
+
+## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [CSS Optimization Basics (⭐57)](https://github.com/frontenddogma/css-optimization-basics) – Jens Oliver Meiert
+*   [Rote Learning HTML & CSS](https://meiert.com/en/blog/rote-learning-html-and-css/) – Jens Oliver Meiert
+*   [Upgrade Your HTML (⭐8)](https://github.com/frontenddogma/upgrade-your-html) – Jens Oliver Meiert
+
+### PHP / Drupal
+
+*   [Drupal at your Fingertips](https://selwynpolit.github.io/d9book/) - Selwyn Polit, Drupal Community Contributors
 
 ## [18. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
@@ -203,12 +208,12 @@
 ### Network & Storage Testing
 
 *   [Wireshark dissector for TSL UMD protocol V3.1, V4 (⭐5)](https://github.com/roddypratt/tslumd-wireshark) - Analyzers for TSL UMD (under-monitor display) protocol V3.1 and V4.
-*   [Wireshark dissectors for Video Routers (⭐11)](https://github.com/roddypratt/router_dissectors) - Analyzers for various video router/matrix protocols.
-*   [Examples of SMPTE ST 2110 pcap files (⭐19)](https://github.com/NEOAdvancedTechnology/ST2110_pcap_zoo)
+*   [Wireshark dissectors for Video Routers (⭐14)](https://github.com/roddypratt/router_dissectors) - Analyzers for various video router/matrix protocols.
+*   [Examples of SMPTE ST 2110 pcap files (⭐22)](https://github.com/NEOAdvancedTechnology/ST2110_pcap_zoo)
 
 ### NMOS
 
-*   [NVIDIA NMOS Library (⭐9)](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
+*   [NVIDIA NMOS Library (⭐11)](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.
 
 ## [20. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
@@ -234,7 +239,7 @@
 
 ### Spreadsheet / Runner
 
-*   [RevoGrid (⭐2.7k)](https://github.com/revolist/revogrid) - RevoGrid is a fast, responsive excel like data grid library for modern web applications.
+*   [RevoGrid (⭐2.9k)](https://github.com/revolist/revogrid) - RevoGrid is a fast, responsive excel like data grid library for modern web applications.
 
 ### Log / Runner
 
@@ -242,7 +247,7 @@
 
 ### Machine Learning / Runner
 
-*   [JS-PyTorch (⭐1k)](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
+*   [JS-PyTorch (⭐1.1k)](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
 
 ## [23. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
@@ -285,13 +290,13 @@
 
 ### Utilities
 
-*   [PubSubx (⭐2)](https://github.com/sonic182/pub_subx) - A simple publish-subscribe system built on Elixir's GenServer and Registry, allowing for dynamic topics, process monitoring, and automatic subscription management.
+*   [PubSubx](https://github.com/sonic182/pub_subx) - A simple publish-subscribe system built on Elixir's GenServer and Registry, allowing for dynamic topics, process monitoring, and automatic subscription management.
 
 ## [27. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Database Tools
 
-*   [gatewayd (⭐233)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
+*   [gatewayd (⭐235)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 
 ### Error Handling
 
@@ -303,11 +308,11 @@
 
 ### Machine Learning
 
-*   [GoMLX (⭐627)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
+*   [GoMLX (⭐682)](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [alaz (⭐668)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
+*   [alaz (⭐673)](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
@@ -333,19 +338,19 @@
 
 ### AI / Diagnostics
 
-*   [Kurama622/llm.nvim (⭐92)](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
+*   [Kurama622/llm.nvim (⭐228)](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [SCJangra/table-nvim (⭐36)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
+*   [SCJangra/table-nvim (⭐40)](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [qaptoR-nvim/chocolatier.nvim (⭐14)](https://github.com/qaptoR-nvim/chocolatier.nvim) - An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.
+*   [qaptoR-nvim/chocolatier.nvim (⭐17)](https://github.com/qaptoR-nvim/chocolatier.nvim) - An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.
 
 ### Neovim Lua Development / Diagnostics
 
-*   [OXY2DEV/helpview.nvim (⭐228)](https://github.com/OXY2DEV/helpview.nvim) - Decorations for `vimdoc/help` files.
+*   [OXY2DEV/helpview.nvim (⭐321)](https://github.com/OXY2DEV/helpview.nvim) - A hackable & fancy `vimdoc/help` file viewer.
 
 ### Preconfigured Configuration / Diagnostics
 
@@ -359,7 +364,7 @@
 
 ### Table of Contents / Files
 
-*   [Parquet (⭐29)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
+*   [Parquet (⭐31)](https://github.com/flow-php/parquet) - PHP implementation of Parquet file format
 
 ### Table of Contents / E-commerce
 
@@ -428,7 +433,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-three (⭐227)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js (⭐104k)](https://github.com/mrdoob/three.js).
+*   [angular-three (⭐233)](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js (⭐105k)](https://github.com/mrdoob/three.js).
 
 ### Security / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -441,11 +446,11 @@
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [zingchart-angular (⭐2)](https://github.com/zingchart/zingchart-angular) - [ZingChart](https://www.zingchart.com/) is a declarative, efficient, and simple JavaScript library for building responsive charts.
-*   [unovis (⭐2.3k)](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
+*   [unovis (⭐2.4k)](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 
 ### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [revogrid (⭐2.8k)](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
+*   [revogrid (⭐2.9k)](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
 *   [ZingGrid](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) - [ZingGrid (⭐89)](https://github.com/ZingGrid/zinggrid) is a JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can also be used in popular frameworks such as React, Angular, Vue, jQuery, and many more!
 *   [ngx-panemu-table (⭐10)](https://github.com/panemu/ngx-panemu-table) - An Angular table component. It is designed to be easy to use. Most work will be in TypeScript file, while the HTML file only needs to have a very simple `panemu-table` tag.
 
@@ -480,20 +485,20 @@
 
 ### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [signaldb (⭐364)](https://github.com/maxnowack/signaldb) - A local JavaScript database with a MongoDB-like interface and TypeScript support, enabling optimistic UI with signal-based reactivity. It integrates easily with Angular, Solid.js, Preact, and Vue, simplifying data management with schema-less design, in-memory storage, and fast queries.
+*   [signaldb (⭐393)](https://github.com/maxnowack/signaldb) - A local JavaScript database with a MongoDB-like interface and TypeScript support, enabling optimistic UI with signal-based reactivity. It integrates easily with Angular, Solid.js, Preact, and Vue, simplifying data management with schema-less design, in-memory storage, and fast queries.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [po-angular (⭐925)](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
+*   [po-angular (⭐928)](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
 
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline (⭐5.1k)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
-*   [ngxtw (⭐5)](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
+*   [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline (⭐5.2k)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+*   [ngxtw (⭐11)](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-angular-query-builder (⭐32)](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder (⭐300)](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
+*   [ngx-angular-query-builder (⭐32)](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder (⭐301)](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
 
 ## [34. Awesome Actions](/content/sdras/awesome-actions/week/README.md)
 
@@ -526,7 +531,7 @@
 
 ### API Development
 
-*   [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/hoppscotch/hoppscotch) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/hoppscotch/hoppscotch)
 *   [HTTP Toolkit](https://httptoolkit.tech) - Intercepts and modifies HTTP traffic. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/httptoolkit)
 *   [Postman](https://www.getpostman.com/postman) - Tests APIs with automated test scripts and monitoring.
 
@@ -588,7 +593,7 @@
 
 ### Video Utilities
 
-*   [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mpv-player/mpv)
+*   [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mpv-player/mpv) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ---
 

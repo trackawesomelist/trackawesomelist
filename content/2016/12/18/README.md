@@ -56,7 +56,7 @@
 
 ### Software Design
 
-*   [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** \[40:35]
+*   [Hopelessness and Confidence in Distributed Systems Design](https://www.youtube.com/watch?v=TlU1opuCXB0) by **Camille Fournier** (Strange Loop 2015) \[40:35]
 
 ## [8. Awesome Appium](/content/SrinivasanTarget/awesome-appium/README.md)
 

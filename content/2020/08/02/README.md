@@ -37,9 +37,9 @@
 
 ## [3. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
-### HLS / Talks Presentations Podcasts
+### Adaptive Streaming & Manifest Tools / HLS Manifest Parsers & Generators
 
-*   [carlanton/m3u8-parser (⭐186)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
+*   [carlanton/m3u8-parser (⭐191)](https://github.com/carlanton/m3u8-parser)  - HLS compliant m3u8 parser for Java.
 
 ## [4. Awesome Python](/content/vinta/awesome-python/README.md)
 
@@ -145,7 +145,7 @@
 
 ### Animations / Other
 
-*   [particles-bg (⭐646)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
+*   [particles-bg (⭐657)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 
 ---
 

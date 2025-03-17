@@ -194,7 +194,7 @@
 
 ### Contents / Tools
 
-*   [MIDI to PICO-8 (⭐61)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
+*   [MIDI to PICO-8 (⭐62)](https://github.com/andmatand/midi-to-pico8) - A tool to convert MIDI files to PICO-8 music.
 
 ## [9. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 

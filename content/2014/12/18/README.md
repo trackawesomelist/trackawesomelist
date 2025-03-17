@@ -43,10 +43,6 @@
 *   [Klib (⭐4.3k)](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. \[MIT]
 *   [libnih (⭐89)](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. \[GPL2.1]
 
-### Compiler
-
-*   [PCC](http://pcc.ludd.ltu.se/) - A very old C compiler. Supports C99.
-
 ---
 
 - Prev: [Dec 19, 2014](/content/2014/12/19/README.md)

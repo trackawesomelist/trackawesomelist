@@ -12,10 +12,6 @@
 
 *   [Tot](https://tot.rocks/) - Tot is an elegant, simple way to collect & edit text. It’s your tiny text companion! ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/tot/id1491071483)
 
-### Developer Tools / Command Line Tools
-
-*   [cmatrix (⭐4.2k)](https://github.com/abishekvashok/cmatrix/) - Terminal screensaver inspired by "The Matrix" movie. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/abishekvashok/cmatrix/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
 ## [2. Awesome Irc](/content/davisonio/awesome-irc/README.md)
 
 ### Clients
@@ -75,7 +71,7 @@
 
 ### Third-party APIs
 
-*   [go-openai (⭐9.5k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
+*   [go-openai (⭐9.7k)](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, DALL·E, Whisper API library for Go.
 
 ## [8. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -135,7 +131,7 @@
 
 ### Solid / Integrations
 
-*   [vite-plugin-solid-svg (⭐81)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
+*   [vite-plugin-solid-svg (⭐84)](https://github.com/jfgodoy/vite-plugin-solid-svg) - Import SVG files as Solid.js Components.
 
 ## [12. Awesome Stacks Chain](/content/friedger/awesome-stacks-chain/README.md)
 

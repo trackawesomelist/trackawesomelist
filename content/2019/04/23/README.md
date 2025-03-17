@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 23, 2019
 
-7 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -63,12 +63,6 @@
 ### Staying up to date
 
 *   [Grails Diary](https://grydeske.dk/news/index) - Particulary useful for Grails developers
-
-## [7. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### UITableView / Barcode
-
-*   [WLEmptyState (⭐318)](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
 
 ---
 

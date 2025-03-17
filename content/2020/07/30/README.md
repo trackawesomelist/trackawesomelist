@@ -34,7 +34,7 @@
 
 ### Benchmarking
 
-*   [go-tpc (⭐183)](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
+*   [go-tpc (⭐187)](https://github.com/pingcap/go-tpc) - A golang port of [TPCC](http://www.tpc.org/tpcc/) and [TPCH](http://www.tpc.org/tpch/) benchmark for MySQL.
 
 ## [6. Awesome Seml](/content/SE-ML/awesome-seml/README.md)
 

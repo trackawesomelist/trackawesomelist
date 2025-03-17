@@ -35,7 +35,7 @@
 
 ### UI / List
 
-*   [Snaplist (⭐454)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
+*   [Snaplist (⭐455)](https://github.com/ariedov/flutter_snaplist) <!--stargazers:ariedov/flutter_snaplist--> - Create snappable list views by [David Leibovych](https://github.com/ariedov)
 
 ## [4. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
@@ -235,7 +235,7 @@ RewriteRule ^robots.txt - [L]
 
 ### Utilities / Productivity
 
-*   [Z (⭐16k)](https://github.com/rupa/z) - Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director.
+*   [Z (⭐17k)](https://github.com/rupa/z) - Powerful way to navigate easily by typing only a string of directory name in terminal instead of typing exact location of director.
 
 ## [18. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/week/README.md)
 
@@ -320,7 +320,7 @@ RewriteRule ^robots.txt - [L]
 
 ### Free fonts / Fonts
 
-*   [Libre Franklin (⭐381)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
+*   [Libre Franklin (⭐387)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
 
 ## [26. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
@@ -419,13 +419,31 @@ RewriteRule ^robots.txt - [L]
 
 *   [Keyboard Visibility Event (⭐15)](https://github.com/viniciusmo/keyboard-visibility-event-android/) - A DSL to handle soft keyboard visibility change event.
 
-## [30. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [30. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Eiffel / Non-X86
+
+*   [A Functional Pattern System for Object-Oriented Design](http://homepages.mcs.vuw.ac.nz/~tk/fps/fps-sans-escher.pdf) - Thomas Kuhne (PDF)
+
+### Java / Bootstrap
+
+*   [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Tiny Python 3.6 Notebook (⭐1.3k)](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
+
+### Standard ML / Play Scala
+
+*   [The Definition of Standard ML (Revised)](http://sml-family.org/sml97-defn.pdf) - SMLFamily GitHub project (PDF)
+
+## [31. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Misc / Firmwares for ESP based Devices
 
 *   [snowboy2mqtt (⭐6)](https://github.com/hobbyquaker/snowboy2mqtt) - Publish MQTT Messages on Snowboy Hotword Detection.
 
-## [31. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [32. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Communities / Other
 
@@ -437,13 +455,13 @@ RewriteRule ^robots.txt - [L]
 
     A podcast hosted by [Guy Raz](https://twitter.com/guyraz) where startup founders tell their story.
 
-## [32. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [33. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Libraries / Drivers
 
 *   [mrpierrot/cycle-net ★0 (⭐2)](https://github.com/mrpierrot/cycle-net) - A Cycle.js driver for Node.js HTTP(S)/WS(S)/Socket.io server
 
-## [33. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [34. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Online services (a-z↓)
 
@@ -453,13 +471,13 @@ RewriteRule ^robots.txt - [L]
 
 *   [dpxdt (⭐1.4k)](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 
-## [34. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [35. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [How To Test On Real iOS Devices With Appium, Part 1](https://appiumpro.com/editions/40)
 
-## [35. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [36. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -477,11 +495,11 @@ RewriteRule ^robots.txt - [L]
 *   [Developer Muslim](https://devmuslim.id/) - Jurnal seorang developer muslim
 *   [Teman Macet](http://temanmacet.com/) - Tentang programming dan industri informatika.
 
-## [36. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [37. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Web / Apache License
 
-*   [aws (⭐133)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
+*   [aws (⭐134)](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
 
 ### Algorithms, Containers and Protocols / Apache License
 
@@ -491,19 +509,19 @@ RewriteRule ^robots.txt - [L]
 
 *   [anet](https://www.codelabs.ch/anet/) - Anet is a networking library for the Ada programming language.
 
-## [37. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
+## [38. Awesome Ethereum](/content/ttumiel/Awesome-Ethereum/week/README.md)
 
 ### Learning and MOOCs
 
 *   [Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network](https://www.cs.bu.edu/\~goldbe/projects/eclipseEth.pdf)
 
-## [38. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
+## [39. Awesome Markdown](/content/BubuAnabelas/awesome-markdown/week/README.md)
 
 ### Tools / Presentations
 
 *   [gitpitch (⭐5.5k)](https://github.com/gitpitch/gitpitch/) - Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs. ![Globe](https://img.icons8.com/color/24/globe.png "Globe")
 
-## [39. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [40. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Visual Programming Languages
 
@@ -521,17 +539,17 @@ RewriteRule ^robots.txt - [L]
 
 *   [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (also known as mix/lerp).
 
-## [40. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [41. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Articles about Data
 
 *   [Creating a Default Record When a belongsTo Request Errors](https://shipshape.io/blog/ember-data-belongs-to-find-or-create/)
 
-## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [42. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Non-deterministic, logic programming
 
-*   [Screamer (⭐237)](https://github.com/nikodemus/screamer) - augment Common
+*   [Screamer (⭐239)](https://github.com/nikodemus/screamer) - augment Common
     Lisp with practically all of the functionality of both Prolog and
     constraint logic programming
     languages. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
@@ -540,9 +558,9 @@ RewriteRule ^robots.txt - [L]
 
 ### Data validation / Third-party APIs
 
-*   [clavier (⭐25)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [clavier (⭐23)](https://github.com/mmontone/clavier) - General purpose validation library for Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
-## [42. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [43. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Tutorials
 
@@ -553,7 +571,7 @@ RewriteRule ^robots.txt - [L]
 
 *   [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
-## [43. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
+## [44. Awesome Speakers](/content/karlhorky/awesome-speakers/week/README.md)
 
 ### Europe / Ukraine 🇺🇦
 
@@ -613,31 +631,31 @@ Topics: Maps, Algorithms\
 Topics: HTML, CSS, JavaScript, WebGL\
 <https://twitter.com/akella>
 
-## [44. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [45. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Boxes
 
 *   [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Vagrant repositories (and many others).
 
-## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [46. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Regular Expression
 
-*   [CTRE (⭐3.4k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
+*   [CTRE (⭐3.5k)](https://github.com/hanickadot/compile-time-regular-expressions) - A Compile time PCRE (almost) compatible regular expression matcher. \[MIT]
 
-## [46. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [47. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### Ruby / Scala
 
 *   [Grape (⭐9.9k)](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs
 
-## [47. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [48. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Extensions
 
 *   [next-mdx-blog (⭐74)](https://github.com/hipstersmoothie/next-mdx-blog) - Easily add a blog to any next.js based project
 
-## [48. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [49. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### CLI
 
@@ -651,19 +669,19 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [RazorLight (⭐1.5k)](https://github.com/toddams/RazorLight) - Open source template engine based on Microsoft's Razor parsing engine supporting .NET Standard 2.0
 
-## [49. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [50. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Misc
 
-*   [ruia (⭐1.6k)](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
+*   [ruia (⭐1.8k)](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
 
-## [50. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
+## [51. Awesome Serverless](/content/pmuens/awesome-serverless/week/README.md)
 
 ### Related projects
 
 *   [Mutton (⭐16)](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda handlers.
 
-## [51. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [52. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Articles
 
@@ -679,7 +697,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 *   [GitHub](https://github.com) Git hosting and pioneer of the "Pull Request".
 *   [Sider](https://sider.review/) Automated code review service for GitHub.
 
-## [52. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [53. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Frameworks
 
@@ -694,7 +712,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 *   [Realizing the Potential of the Internet of Things](https://www.tiaonline.org/wp-content/uploads/2018/05/Realizing_the_Potential_of_the_Internet_of_Things_-_Recommendations_to_Policymakers.pdf) - A white paper from the Telecommunications Industry Association (TIA) written in the form of a set of recommendations to policy maker on leveraging and realizing the potential of the Internet of Things market.
 
-## [53. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
+## [54. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
 ### Media
 
@@ -703,12 +721,6 @@ Topics: HTML, CSS, JavaScript, WebGL\
 ### Xamarin.Forms
 
 *   [Sharpnado.Presentation.Forms ★28 (⭐598)](https://github.com/roubachof/Sharpnado.Presentation.Forms) - HorizontalListView, TaskViewLoader, and Paginator.
-
-## [54. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
-
-### Table of Contents / Security
-
-*   [Symfony Security Monitoring](https://security.symfony.com/) - A web tool to check your Composer dependencies for security advisories, previously known as "SensioLabs Security Check".
 
 ## [55. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -736,15 +748,11 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐613)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
-
-### Software / Pastebins
-
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐197)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python/deb`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐632)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 
 ### Software / Video Surveillance
 
-*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐5.3k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
+*   [Zoneminder](https://www.zoneminder.com/) - Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. ([Source Code (⭐5.4k)](https://github.com/ZoneMinder/ZoneMinder)) `GPL-2.0` `PHP/deb`
 
 ## [59. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -756,7 +764,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Patterns
 
-*   [Reactant (⭐373)](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
+*   [Reactant (⭐374)](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
 
 ### JSON
 
@@ -764,36 +772,30 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Multi Database
 
-*   [PersistenceKit (⭐155)](https://github.com/Teknasyon-Teknoloji/PersistenceKit) - Store and retrieve Codable objects to various persistence layers, in a couple lines of code!
+*   [PersistenceKit (⭐154)](https://github.com/Teknasyon-Teknoloji/PersistenceKit) - Store and retrieve Codable objects to various persistence layers, in a couple lines of code!
 
 ### Images / Barcode
 
-*   [Rough (⭐99)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
-
-### System / Barcode
-
-*   [LaunchAtLogin (⭐1.6k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
+*   [Rough (⭐100)](https://github.com/bakhtiyork/Rough) - Rough lets you draw in a sketchy, hand-drawn-like, style.
 
 ### Testing / Barcode
 
 *   [SnapshotTest (⭐41)](https://github.com/parski/SnapshotTest) - Snapshot testing tool for iOS and tvOS.
-*   [XCTest (⭐1.2k)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
 
 ### UI / Barcode
 
-*   [CircularProgress (⭐574)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
+*   [CircularProgress (⭐577)](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
 *   [DockProgress (⭐1.3k)](https://github.com/sindresorhus/DockProgress) - Show progress in your macOS app's Dock icon.
-*   [Preferences (⭐1.4k)](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
 
 ### Walkthrough / Barcode
 
-*   [OnboardKit (⭐539)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
+*   [OnboardKit (⭐542)](https://github.com/NikolaKirev/OnboardKit) - Customisable user onboarding for your iOS app.
 
 ## [61. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Assets
 
-*   [Sprockets (⭐958)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐959)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 
@@ -813,12 +815,12 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Implementations/Compilers
 
-*   [TruffleRuby (⭐3k)](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
+*   [TruffleRuby (⭐3.1k)](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
 
 ### Measurements
 
-*   [Measured (⭐364)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
-*   [Ruby Units (⭐531)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
+*   [Measured (⭐369)](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
+*   [Ruby Units (⭐535)](https://github.com/olbrich/ruby-units) - Provides classes and methods to perform unit math and conversions.
 
 ### Music and Sound
 
@@ -1031,7 +1033,7 @@ Topics: HTML, CSS, JavaScript, WebGL\
 
 ### Bytecode Manipulation
 
-*   [Mixin (⭐1.4k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
+*   [Mixin (⭐1.5k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 
 ## [68. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 

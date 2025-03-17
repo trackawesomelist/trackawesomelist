@@ -16,7 +16,7 @@
 
 ### Data Visualization / Runner
 
-*   [chartist-js (⭐70)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
+*   [chartist-js (⭐79)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 
 ### I18n And L10n / Runner
 
@@ -27,11 +27,11 @@
 ### Packages / Mad science
 
 *   [peerflix (⭐6.2k)](https://github.com/mafintosh/peerflix) - Streaming torrent client.
-*   [peerwiki (⭐317)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+*   [peerwiki (⭐316)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 
 ### Packages / Command-line apps
 
-*   [is-up (⭐388)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+*   [is-up (⭐386)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
 *   [bcat (⭐341)](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 ### Packages / Debugging / Profiling

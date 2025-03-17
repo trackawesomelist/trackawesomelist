@@ -16,7 +16,7 @@
 
 ### data
 
-*   [99boundaries (⭐10)](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
+*   [99boundaries (⭐11)](https://github.com/TimMcCauley/nintynine-boundaries): Generate any maritime & land boundary in GeoJSON and other file formats or [download directly from the web](https://99boundaries.com)
 
 ## [3. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -26,7 +26,7 @@
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Web Apps (open source)
+### Web Apps (open source) / Rust
 
 *   [Bustime](https://busti.me) - Public transport real-time monitoring with WebSocket updates. Open-source [on GitHub (⭐84)](https://github.com/norn/bustime).
 
@@ -34,17 +34,13 @@
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐851)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐2.3k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐110)](https://github.com/andrewgregory/pacutils).
+*   [vorpal (⭐1)](https://github.com/VorpalBlade/vorpal-zsh-completions) - Adds completions for some projects whose upstream appears dead, including [duperemove (⭐868)](https://github.com/markfasheh/duperemove), [optimus-manager (⭐2.3k)](https://github.com/Askannz/optimus-manager) and [pacutils (⭐112)](https://github.com/andrewgregory/pacutils).
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [FileShelter (⭐503)](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. `GPL-3.0` `C++/deb`
-
 ### Software / Games
 
-*   [Word Mastermind (⭐168)](https://github.com/clupasq/word-mastermind) - Wordle clone. A Mastermind-like game, but instead of colors you need to guess words. ([Demo](https://word-mastermind.glitch.me/)) `MIT` `Nodejs`
+*   [Word Mastermind (⭐185)](https://github.com/clupasq/word-mastermind) - Wordle clone. A Mastermind-like game, but instead of colors you need to guess words. ([Demo](https://word-mastermind.glitch.me/)) `MIT` `Nodejs`
 
 ### Software / Maps and Global Positioning System (GPS)
 
@@ -64,7 +60,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Fenrus (⭐605)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `.NET/Docker`
+*   [Fenrus (⭐627)](https://github.com/revenz/fenrus) - A self hosted personal home page that allows for multiple users, guest access and multiple dashboards for each user. It also has "Smart Apps" which display live data for those apps. `GPL-3.0` `.NET/Docker`
 
 ## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -76,7 +72,7 @@
 
 ### Audio
 
-*   [rnnoise (⭐4.3k)](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction. \[BSD-3-Clause]
+*   [rnnoise (⭐4.4k)](https://github.com/xiph/rnnoise) - Recurrent neural network for audio noise reduction. \[BSD-3-Clause]
 
 ### Debug
 
@@ -90,25 +86,25 @@
 
 ### Libraries and Frameworks / History
 
-*   [EOSIO/history-tools (⭐64)](https://github.com/EOSIO/history-tools) - Official EOSIO history API plugin.
-*   [Hyperion History API (⭐116)](https://github.com/eosrio/Hyperion-History-API) - Scalable Full History API Solution for EOSIO based blockchains.
-*   [EOSIO Light API (⭐49)](https://github.com/cc32d9/eosio_light_api) - Historic information about EOSIO blockchain accounts and token balances.
+*   [EOSIO/history-tools (⭐65)](https://github.com/EOSIO/history-tools) - Official EOSIO history API plugin.
+*   [Hyperion History API (⭐127)](https://github.com/eosrio/Hyperion-History-API) - Scalable Full History API Solution for EOSIO based blockchains.
+*   [EOSIO Light API (⭐55)](https://github.com/cc32d9/eosio_light_api) - Historic information about EOSIO blockchain accounts and token balances.
 
 ### Libraries and Frameworks / Testing
 
-*   [EOSIO/eosio.contracts (⭐314)](https://github.com/EOSIO/eosio.contracts/tree/master/tests) - Official C++ system contract test suite (notoriously difficult to use).
+*   [EOSIO/eosio.contracts (⭐324)](https://github.com/EOSIO/eosio.contracts/tree/master/tests) - Official C++ system contract test suite (notoriously difficult to use).
 *   [Hydra](https://docs.klevoya.com/hydra/about/getting-started/) - JavaScript framework for testing EOSIO smart contracts.
-*   [haderech/vert (⭐6)](https://github.com/haderech/vert) - JavaScript EOS-VM emulation RunTime for WASM-based blockchain contracts. Run and test smart contracts.
+*   [haderech/vert (⭐7)](https://github.com/haderech/vert) - JavaScript EOS-VM emulation RunTime for WASM-based blockchain contracts. Run and test smart contracts.
 
 ### Libraries and Frameworks / Services
 
 *   [Liquid Apps](https://docs.liquidapps.io) - Smart contract services vRAM, oracles, cron, IPFS and ICB.
-*   [DelphiOracle (⭐38)](https://github.com/eostitan/delphioracle) - A multi-party source of truth, designed to provide the near-realtime price of the asset pairs to other smart contracts or to external users.
+*   [DelphiOracle (⭐41)](https://github.com/eostitan/delphioracle) - A multi-party source of truth, designed to provide the near-realtime price of the asset pairs to other smart contracts or to external users.
 
 ### Developer Tools / Services
 
-*   [Blanc (⭐18)](https://github.com/haderech/blanc) - A toolchain for building WebAssembly-based blockchain contracts. Currently, Blanc supports EOSIO and CosmWasm (experimental).
-*   [manh-vv/eosjs-name (⭐9)](https://github.com/manh-vv/eosjs-name) - Convert an Eosio name to uint64 and back.
+*   [Blanc (⭐19)](https://github.com/haderech/blanc) - A toolchain for building WebAssembly-based blockchain contracts. Currently, Blanc supports EOSIO and CosmWasm (experimental).
+*   [manh-vv/eosjs-name (⭐10)](https://github.com/manh-vv/eosjs-name) - Convert an Eosio name to uint64 and back.
 *   [blockchain-etl/eos-etl (⭐9)](https://github.com/blockchain-etl/eos-etl) - Connector for Google's BigQuery Public Datasets.
 
 ### EOSIO Ecosystem / Services

@@ -87,7 +87,7 @@
 
 ### Scripts / IRC
 
-*   [ScriptsDev (⭐68)](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
+*   [ScriptsDev (⭐69)](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
 
 ## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 

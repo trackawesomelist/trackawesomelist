@@ -174,7 +174,7 @@
 
 ### Plugins / IRC
 
-*   [Composer-Bin-Plugin (⭐453)](https://github.com/bamarni/composer-bin-plugin) - Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies.
+*   [Composer-Bin-Plugin (⭐490)](https://github.com/bamarni/composer-bin-plugin) - Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies.
 *   [Composer-Inheritance-Plugin (⭐28)](https://github.com/theofidry/composer-inheritance-plugin) - Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin.
 
 ## [5. Awesome Information Retrieval](/content/harpribot/awesome-information-retrieval/week/README.md)
@@ -477,7 +477,7 @@ Run `brew install quicklookapk` or [download manually (⭐137)](https://github.c
 
 ### Timeline / Runner
 
-*   [TimelineJS v3 (⭐2.9k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
+*   [TimelineJS v3 (⭐3k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
 *   [timesheet.js (⭐7k)](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
 ### Notifications / Runner

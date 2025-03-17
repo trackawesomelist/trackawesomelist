@@ -45,11 +45,11 @@
 ### Tools
 
 *   [PhpInsights (⭐5.4k)](https://github.com/nunomaduro/phpinsights) - PHP quality checks (with Magento2 presets)
-*   [Tango (⭐109)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
+*   [Tango (⭐110)](https://github.com/roma-glushko/tango) - CLI for analyzing access logs
 
 ### Deployment
 
-*   [Github Actions for Magento2 (⭐137)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
+*   [Github Actions for Magento2 (⭐138)](https://github.com/extdn/github-actions-m2) - GitHub Actions for Magento 2 Extensions
 
 ### Infrastructure
 
@@ -67,13 +67,9 @@
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
-### UI / Barcode
-
-*   [SweetCurtain (⭐115)](https://github.com/multimediasuite/SweetCurtain) - Really sweet and easy bottom pullable sheet implementation. You can find a similar implementation in applications like Apple Maps, Find My, Stocks, etc.
-
 ### Button / Barcode
 
-*   [FloatingButton (⭐1.1k)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
+*   [FloatingButton (⭐1.2k)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
 ### Walkthrough / Barcode
 
@@ -104,7 +100,7 @@
 
 ### Networking
 
-*   [httpx (⭐9.8k)](https://github.com/encode/httpx) - asynchronous HTTP client for Python 3 with [requests (⭐49k)](https://github.com/psf/requests) compatible API.
+*   [httpx (⭐14k)](https://github.com/encode/httpx) - asynchronous HTTP client for Python 3 with [requests (⭐53k)](https://github.com/psf/requests) compatible API.
 
 ## [12. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -116,7 +112,7 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [yGuard (⭐376)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
+*   [yGuard (⭐395)](https://github.com/yWorks/yGuard) - Obfuscation via renaming and shrinking.
 
 ## [14. Awesome Python](/content/vinta/awesome-python/README.md)
 

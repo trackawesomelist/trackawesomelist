@@ -35,10 +35,6 @@
 
 *   [metrix (⭐52)](https://github.com/rwdaigle/metrix) - Log custom app metrics to stdout for use by Librato and other downstream processors.
 
-### Third Party APIs
-
-*   [exstagram (⭐13)](https://github.com/arthurcolle/exstagram) - Elixir library for Instagram v1 API.
-
 ## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / A companies

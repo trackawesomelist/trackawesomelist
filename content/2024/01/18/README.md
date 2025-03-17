@@ -18,10 +18,6 @@
 
 *   [django-guest-user (⭐75)](https://github.com/julianwachholz/django-guest-user) - Allow visitors to use your site like a regular user and register later.
 
-### Projects / Boilerplate
-
-*   [Falco (⭐379)](https://github.com/tobi-de/falco) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer.
-
 ## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### UI Libraries

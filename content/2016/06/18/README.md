@@ -25,8 +25,8 @@ git log --all --grep='<given-text>'
 ### Tools / Libraries
 
 *   [Color Thief (⭐13k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-*   [Colorify.js (⭐806)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-*   [Colofilter.css (⭐620)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
+*   [Colorify.js (⭐808)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+*   [Colofilter.css (⭐621)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 ### Tools / Web App
 

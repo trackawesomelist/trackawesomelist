@@ -27,7 +27,7 @@
 
 ### Video Utilities
 
-*   [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mpv-player/mpv)
+*   [mpv](https://mpv.io/) - Script-based media player with extensive keyboard controls. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mpv-player/mpv) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ## [2. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline (⭐5.1k)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
+*   [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline (⭐5.2k)](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 
 ## [5. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 

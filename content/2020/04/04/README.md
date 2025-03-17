@@ -75,7 +75,7 @@
 
 ### Applications / System tools
 
-*   [orhun/kmon (⭐2.6k)](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
+*   [orhun/kmon (⭐2.7k)](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor ![https://github.com/orhun/kmon/actions](https://img.shields.io/github/actions/workflow/status/orhun/kmon/ci.yml?branch=master\&label=build)
 
 ## [5. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 

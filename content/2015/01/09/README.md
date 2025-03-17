@@ -38,17 +38,13 @@
 
 ### Framework Components
 
-*   [plug\_rails\_cookie\_session\_store (⭐95)](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
+*   [plug\_rails\_cookie\_session\_store (⭐96)](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
 *   [plugs (⭐19)](https://github.com/sugar-framework/plugs) - Collection of Plug middleware for web applications.
 *   [plugsnag (⭐66)](https://github.com/jarednorman/plugsnag) - Bugsnag notifier for Elixir's plug.
 
 ### Miscellaneous
 
-*   [pact (⭐76)](https://github.com/BlakeWilliams/pact) - Better dependency injection in Elixir for cleaner code and testing.
-
-### ORM and Datamapping
-
-*   [craterl (⭐8)](https://github.com/crate/craterl) - Erlang client for crate.
+*   [pact (⭐77)](https://github.com/BlakeWilliams/pact) - Better dependency injection in Elixir for cleaner code and testing.
 
 ### Templating
 

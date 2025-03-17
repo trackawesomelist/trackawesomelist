@@ -40,8 +40,8 @@
 
 ### Sliders / Runner
 
-*   [basic-jquery-slider (⭐542)](https://github.com/jcobb/basic-jquery-slider) - Simple to use, simple to theme, simple to customise.
-*   [jQuery.adaptive-slider (⭐54)](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
+*   [basic-jquery-slider (⭐543)](https://github.com/jcobb/basic-jquery-slider) - Simple to use, simple to theme, simple to customise.
+*   [jQuery.adaptive-slider (⭐55)](https://github.com/creative-punch/jQuery.adaptive-slider/) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 *   [slidr (⭐1.6k)](https://github.com/bchanx/slidr) - add some slide effects.
 
 ### Video/Audio / Other
@@ -68,7 +68,7 @@
 
 ### Cognitive Development
 
-*   [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** \[1:16:26]
+*   [The Last Lecture: Achieving Your Childhood Dreams](https://www.youtube.com/watch?v=ji5_MqicxSo) by **Randy Pausch** (Carnegie Mellon 2007) \[1:16:26]
 
 ## [8. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

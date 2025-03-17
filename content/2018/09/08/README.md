@@ -16,7 +16,7 @@
 
 ### Security
 
-*   [Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) by **James Mickens** \[51:21]
+*   [Why Do Keynote Speakers Keep Suggesting That Improving Security Is Possible?](https://www.youtube.com/watch?v=ajGX7odA87k) by **James Mickens** (USENIX Security '18-Q) \[51:21]
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 

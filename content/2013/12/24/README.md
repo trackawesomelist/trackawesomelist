@@ -10,7 +10,7 @@
 
 ### Mathematica / PicoLisp
 
-*   [Vector Math for 3d Computer Graphics](http://chortle.ccsu.edu/VectorLessons/index.html)
+*   [Vector Math for 3d Computer Graphics](http://chortle.ccsu.edu/VectorLessons/index.html) (CC BY-NC)
 
 ---
 

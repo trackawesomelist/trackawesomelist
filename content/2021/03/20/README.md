@@ -72,7 +72,7 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [GodotOnReady (⭐123)](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
+*   [GodotOnReady (⭐125)](https://github.com/31/GodotOnReady) - A C# (Mono) alternative to the GDScript-only `onready` keyword, without reflection.
 
 ## [4. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [pytorch\_tabular (⭐1.4k)](https://github.com/manujosephv/pytorch_tabular)
+*   [pytorch\_tabular (⭐1.5k)](https://github.com/manujosephv/pytorch_tabular)
 
 ---
 

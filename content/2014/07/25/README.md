@@ -31,21 +31,21 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [SKLL (⭐552)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
+*   [SKLL (⭐553)](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.
 
 ## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Package Managers
 
-*   [spm (⭐902)](https://github.com/spmjs/spm) - Brand new static package manager.
+*   [spm (⭐903)](https://github.com/spmjs/spm) - Brand new static package manager.
 
 ### Editors / Runner
 
-*   [bootstrap-wysiwyg (⭐5.6k)](https://github.com/mindmup/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor.
+*   [bootstrap-wysiwyg (⭐5.5k)](https://github.com/mindmup/bootstrap-wysiwyg) - Tiny bootstrap-compatible WYSIWYG rich text editor.
 
 ### Control Flow / Runner
 
-*   [contra (⭐774)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
+*   [contra (⭐778)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
 
 ## [5. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -63,7 +63,7 @@
 
 ### Application Libraries
 
-*   [Batteries Included (⭐519)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
+*   [Batteries Included (⭐524)](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
 
 ### Developer Tools
 
@@ -84,7 +84,7 @@
 
 ### Testing
 
-*   [QCheck (⭐347)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
+*   [QCheck (⭐363)](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 
 ---
 

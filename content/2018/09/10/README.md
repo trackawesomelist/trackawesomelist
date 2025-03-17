@@ -50,7 +50,7 @@
 
 ### Clients
 
-*   [npm (⭐8.4k)](https://github.com/npm/cli) - The official client.
+*   [npm (⭐8.7k)](https://github.com/npm/cli) - The official client.
 
 ## [8. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 

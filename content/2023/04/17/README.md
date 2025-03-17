@@ -171,7 +171,7 @@
 
 ### Programming Languages / OCaml
 
-*   [opam2nix (⭐92)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
+*   [opam2nix (⭐94)](https://github.com/timbertson/opam2nix) - Generate Nix expressions from opam packages.
 
 ## [11. Awesome Computational Biology](/content/inoue0426/awesome-computational-biology/README.md)
 

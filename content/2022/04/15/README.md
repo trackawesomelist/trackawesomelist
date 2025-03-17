@@ -43,7 +43,7 @@
 
 ### Templates / React
 
-*   [vite-react-proste (⭐19)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
+*   [vite-react-proste (⭐18)](https://github.com/xyhxx/vite-react-proste) - React + TypeScript + `react-router-dom` + Recoil + SASS + Testing Library + `react-query` + ESLint + Stylelint + Prettier.
 
 ## [6. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

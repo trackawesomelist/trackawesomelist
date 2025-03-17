@@ -10,20 +10,20 @@
 
 ### Templates / Vanilla
 
-*   [template-vite (⭐89)](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
-*   [template-vite-ts (⭐122)](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
+*   [template-vite (⭐90)](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
+*   [template-vite-ts (⭐128)](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
 
 ### Tauri / F# and Fable
 
-*   [vite-plugin-fable (⭐32)](https://github.com/nojaf/vite-plugin-fable) - Template with `.fs` and `.fsproj` files and the F# compiler.
+*   [vite-plugin-fable (⭐33)](https://github.com/nojaf/vite-plugin-fable) - Template with `.fs` and `.fsproj` files and the F# compiler.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [module-federation/vite (⭐369)](https://github.com/module-federation/vite) - Official Module Federation integration, enabling dynamic remote module loading.
+*   [module-federation/vite (⭐407)](https://github.com/module-federation/vite) - Official Module Federation integration, enabling dynamic remote module loading.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [@responsive-image/vite-plugin (⭐131)](https://github.com/simonihmig/responsive-image) - Transform and generate optimized responsive images (WebP, AVIF) and LQIP placeholders for use with image components.
+*   [@responsive-image/vite-plugin (⭐148)](https://github.com/simonihmig/responsive-image) - Transform and generate optimized responsive images (WebP, AVIF) and LQIP placeholders for use with image components.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -31,17 +31,17 @@
 
 ### Framework-agnostic Plugins / Security
 
-*   [vite-plugin-csp (⭐1)](https://github.com/maccuaa/vite-plugin-csp) - Content Security Policy (CSP) for SPA. Automatically calculates asset hashes (SRI), detects Google Fonts. Support `Bun` and `Node.js` runtimes.
+*   [vite-plugin-csp (⭐4)](https://github.com/maccuaa/vite-plugin-csp) - Content Security Policy (CSP) for SPA. Automatically calculates asset hashes (SRI), detects Google Fonts. Support `Bun` and `Node.js` runtimes.
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@rainerhahnekamp/angular-starter (⭐39)](https://github.com/rainerhahnekamp/angular-starter) - A starter project for a modern Angular 19 application.
+*   [@rainerhahnekamp/angular-starter (⭐47)](https://github.com/rainerhahnekamp/angular-starter) - A starter project for a modern Angular 19 application.
 
 ### Cookies / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-cookie-ssr (⭐2)](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
+*   [ngx-cookie-ssr (⭐3)](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
 
 ---
 

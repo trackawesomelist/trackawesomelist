@@ -77,7 +77,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐5.6k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
+*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐5.7k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
@@ -349,11 +349,11 @@
 
 ### Awesome lists / Event listeners for fonts loading on a web page
 
-*   [Awesome Icons (⭐1.3k)](https://github.com/vkarampinis/awesome-icons)
+*   [Awesome Icons (⭐1.4k)](https://github.com/vkarampinis/awesome-icons)
 
 ### Other / Event listeners for fonts loading on a web page
 
-*   [TruFont (⭐485)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
+*   [TruFont (⭐492)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
 ## [25. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
@@ -377,7 +377,7 @@
 
 ### Events
 
-*   [Tempura (⭐719)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
+*   [Tempura (⭐720)](https://github.com/BendingSpoons/tempura-swift) - A holistic approach to iOS development, inspired by Redux and MVVM.
 
 ### Network / Barcode
 
@@ -507,13 +507,13 @@
 
 ### Animation, Graphics & Video Playout
 
-*   [Open Playout Automation (⭐178)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
+*   [Open Playout Automation (⭐185)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 
 ## [37. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization / Graph Based approach
 
-*   Public Datasets [awesome-public-datasets (⭐54k)](https://github.com/awesomedata/awesome-public-datasets).
+*   Public Datasets [awesome-public-datasets (⭐62k)](https://github.com/awesomedata/awesome-public-datasets).
 
 ## [38. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/week/README.md)
 

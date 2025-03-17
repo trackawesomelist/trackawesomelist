@@ -173,7 +173,7 @@
 
 ### Java / General-Purpose Machine Learning
 
-*   [liblinear-java (⭐306)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
+*   [liblinear-java (⭐305)](https://github.com/bwaldvogel/liblinear-java) - Java version of liblinear.
 
 ## [6. Alternative Internet](/content/redecentralize/alternative-internet/README.md)
 
@@ -238,17 +238,17 @@
 
 ### Libraries / Ruby
 
-*   [awesome\_explain (⭐16)](https://github.com/sandboxws/awesome_explain) - A simple global method to explain Mongoid queries
+*   [awesome\_explain (⭐15)](https://github.com/sandboxws/awesome_explain) - A simple global method to explain Mongoid queries
 
 ## [15. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Audio
 
-*   [voice-overlay-ios (⭐545)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
+*   [voice-overlay-ios (⭐547)](https://github.com/algolia/voice-overlay-ios) - An overlay that gets your user’s voice permission and input as text in a customizable UI.
 
 ### Alert / Barcode
 
-*   [Sheet (⭐337)](https://github.com/ParkGwangBeom/Sheet) - Actionsheet with navigation features such as the Flipboard App.
+*   [Sheet (⭐339)](https://github.com/ParkGwangBeom/Sheet) - Actionsheet with navigation features such as the Flipboard App.
 
 ## [16. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

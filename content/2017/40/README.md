@@ -43,34 +43,44 @@
 
 *   [OKRs do not cascade](http://felipecastro.com/en/okr/okrs-not-cascade/)
 
-## [4. Awesome](/content/craftcms/awesome/week/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Lua / PicoLisp
+
+*   [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
+
+### Scala / Sinatra
+
+*   [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - Sam Halliday
+
+## [5. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Community
 
 *   [Craft Cookbook](https://craftcookbook.net/) - Quick solutions to common Craft CMS problems.
 
-## [5. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
-*   [Kaldi (⭐14k)](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. \[Apache]
+*   [Kaldi (⭐15k)](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. \[Apache]
 
 ### Debug
 
-*   [fff (⭐801)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
+*   [fff (⭐810)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
 
 ### Articles
 
 *   [CppCon 2017 Presentation Materials (⭐1.8k)](https://github.com/CppCon/CppCon2017) - CppCon 2017 Presentation Materials.
 
-## [6. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [7. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Other Lists
 
 *   [Ctwise Alfred Workflows (⭐476)](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise".
 *   [Vítor Galvão’s Alfred Workflows (⭐2.4k)](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the Github user "vitorgalvao".
 
-## [7. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [8. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Documentation / Build system (ROS2)
 
@@ -78,7 +88,7 @@
 *   [ROS 2 Docs (Overview)](http://docs.ros2.org/beta2/index.html#) - Details about ROS 2 internal design and organisation.
 *   [ROS 2 Wiki (⭐2.7k)](https://github.com/ros2/ros2/wiki) - Entry point to find all kind of information about ROS 2.
 
-## [8. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
+## [9. Awesome Css](/content/awesome-css-group/awesome-css/week/README.md)
 
 ### Videos :tv: / 2016
 
@@ -90,13 +100,13 @@
 
 *   [CSS Workflow from the Ground Up](https://www.youtube.com/watch?v=ZVk3GQHfkbU) :watch: `46:06` - Jonathan Snook @ Generate conf 2015.
 
-## [9. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [10. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Database Management
 
 *   [RMariaDB (⭐132)](https://github.com/rstats-db/RMariaDB) - An R interface to MariaDB (a replacement for the old RMySQL package)
 
-## [10. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [11. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 
@@ -105,13 +115,13 @@
 *   [DECAF (Dynamic Executable Code Analysis Framework) (⭐794)](https://github.com/sycurelab/DECAF)
     - A binary analysis platform based   on QEMU. DroidScope is now an extension to DECAF.
 
-## [11. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Validators / Rust
 
 *   [GTFS Data Package Specification (⭐18)](https://github.com/Stephen-Gates/GTFS) - A Data Package specification with validation accomplished with Good Tables. Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
 
-## [12. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [13. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Memory and concurrency
 
@@ -129,7 +139,7 @@
 *   [Fast and safe production monitoring of JVM with BPF tools](http://s.sashag.net/velny17-jvm) - Sasha Goldshtein.
 *   [The Future of the Linux Page Cache](https://www.youtube.com/watch?time_continue=1\&v=xxWaa-lPR-8) - Matthew Wilcox.
 
-## [13. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
+## [14. Awesome Idris](/content/joaomilho/awesome-idris/week/README.md)
 
 ### Contents / Official resources
 
@@ -142,19 +152,19 @@
 *   IRC: #idris on [freenode.net](https://webchat.freenode.net/)
 *   [Community Standards](https://www.idris-lang.org/documentation/community-standards/)
 
-## [14. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
+## [15. Awesome Polymer](/content/Granze/awesome-polymer/week/README.md)
 
 ### Tutorials/Guides
 
 *   [Polymer 3.0 Preview — Building a mini card game](https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6)
 
-## [15. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [16. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Business and Finance
 
 *   [ICOStats.com](https://icostats.com/) - Track & compare performance of ICOs. Displays detailed stats like ROI since ICO, ROI vs ETH since ICO, and charts for comparing the historical performance of ICOs.
 
-## [16. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
+## [17. Awesome Hacking](/content/Hack-with-Github/Awesome-Hacking/week/README.md)
 
 ### Awesome Repositories
 
@@ -164,31 +174,31 @@
 
 
 
-## [17. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
 ### Closed Source / Other
 
 *   [Mockoon](https://mockoon.com) - Mock servers in seconds.
 
-## [18. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
+## [19. Awesome Web Design](/content/nicolesaidy/awesome-web-design/week/README.md)
 
 ### Blog & News
 
 *   [Medium](https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
 
-## [19. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
+## [20. Awesome Ssh](/content/moul/awesome-ssh/week/README.md)
 
 ### Apps / Tools
 
 *   [SSHPry v2 (⭐365)](https://github.com/nopernik/SSHPry2.0) [![stars](https://img.shields.io/github/stars/nopernik/SSHPry2.0.svg?style=social\&label=stars)](https://github.com/nopernik/SSHPry2.0) - Spy & Control os SSH Connected client's TTY
 
-## [20. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [21. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / J individuals
 
 *   Jake Trent <https://jaketrent.com>
 
-## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [22. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Application Hosting / Third-party Service Integration
 
@@ -198,7 +208,7 @@
 
 *   [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
 
-## [22. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
+## [23. Awesome Material](/content/sachin1092/awesome-material/week/README.md)
 
 ### Icons, Fonts and Colors
 
@@ -208,13 +218,13 @@
 
 *   [MaterialDesignInXamlToolkit (⭐13k)](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit) — Google's Material Design in XAML & WPF, for C# & VB.Net.
 
-## [23. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [24. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Forms / Normal Forms
 
 *   [Pageclip](https://pageclip.co) - A flexible server / backend for HTML forms. View your data in the realtime web interface, or use the API to get CSV and JSON output.
 
-## [24. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
+## [25. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
 ### Tutorials
 
@@ -259,7 +269,7 @@
 
 *   [Stack Overflow](https://stackoverflow.com/tags/jquery) - Support on Stack Overflow.
 
-## [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [26. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Other
 
@@ -273,13 +283,13 @@
 
 *   [Teachable Machine (⭐3.9k)](https://github.com/googlecreativelab/teachable-machine) - Explore how machine learning works, live in the browser.
 
-## [26. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [27. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### HTML Manipulation
 
 *   [selmer (⭐957)](https://github.com/yogthos/Selmer)
 
-## [27. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
+## [28. Awesome Indie](/content/mezod/awesome-indie/week/README.md)
 
 ### Communities
 
@@ -312,14 +322,14 @@
 
 *   **[Founders at Work](https://www.amazon.com/Founders-Work-Stories-Startups-Early-ebook/dp/B009IXMK4O/ref=sr_1_1?s=digital-text\&ie=UTF8\&qid=1493985002\&sr=1-1\&keywords=founders+at+work)** \[$] by [Jessica Livingston](https://twitter.com/jesslivingston).
 
-## [28. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
+## [29. Awesome Linux](/content/inputsh/awesome-linux/week/README.md)
 
 ### Bash Learning Resources / [Linux Alternatives to Windows Applications](https://www.udemy.com/linux-alternatives-for-windows-applications/?dtcode=nEiIHId38AHS)   \[Free]
 
 *   [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/)
 *   [Advanced Bash-Scripting Guide](https://linux.die.net/abs-guide/)
 
-## [29. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [30. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### GUI
 
@@ -532,13 +542,13 @@
 
 *   [NetGain (⭐929)](https://github.com/StackExchange/NetGain) - A high performance WebSocket server library powering Stack Overflow.
 
-## [30. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [31. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Open Source Projects
 
 *   [Ionic aiEyes - Azure Computer Vision API (⭐27)](https://github.com/brenopolanski/aiEyes)
 
-## [31. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [32. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### Laravel
 
@@ -560,7 +570,7 @@
 
 
 
-## [32. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [33. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -571,7 +581,7 @@
 
 *   [Humidifier (⭐46)](https://github.com/jakejscott/Humidifier) - Write and maintain AWS Cloudformation templates using C#.
 
-## [33. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [34. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / Tutorials
 
@@ -580,9 +590,9 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [vuejs-extension-pack vscode (⭐37)](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
+*   [vuejs-extension-pack vscode (⭐38)](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
 
-## [34. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [35. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
@@ -593,13 +603,13 @@
 
 *   [Web Audio Perf](https://padenot.github.io/web-audio-perf/) - Performance of various AudioNodes and strategies for efficient resource usage (from WAC2016).
 
-## [35. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
+## [36. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
 ### Programming Languages/Frameworks/Platforms / JavaScript
 
 *   [10 JavaScript Concepts You Need to Know for Interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
 
-## [36. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [37. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -612,27 +622,21 @@
 
 *   [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 
-## [37. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [38. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### GLSL Editors
 
-*   [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify (⭐2.1k)](https://github.com/glslify/glslify).
+*   [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify (⭐2.2k)](https://github.com/glslify/glslify).
 *   [ShaderFrog](https://shaderfrog.com/) - WebGL Shader Editor and Composer.
 
 ### 2D / Firefox Specific Tools/Debugger
 
-*   [Planck.js (⭐4.6k)](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
-*   [Stage.js (⭐2.3k)](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
+*   [Planck.js (⭐5k)](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
+*   [Stage.js (⭐2.5k)](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
 
 ### Maps and Visualizations / Particles
 
 *   [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
-
-## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [Mac-CLI (⭐8.9k)](https://github.com/guarinogabriel/Mac-CLI) - The ultimate tool to manage your Mac. Automatize the usage of your OS X system. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/guarinogabriel/Mac-CLI) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [39. Bots](/content/hackerkid/bots/week/README.md)
 
@@ -2786,7 +2790,7 @@
 
 ### Readline, ncurses and other graphical helpers / Third-party APIs
 
-*   [cl-readline (⭐40)](https://github.com/vindarel/cl-readline) - a set of
+*   [cl-readline (⭐41)](https://github.com/vindarel/cl-readline) - a set of
     functions to edit lines as they are typed in, to maintain a list of
     previously-entered command lines, to recall and reedit them and
     perform csh-like history expansion.  Emacs and vi editing
@@ -2794,7 +2798,7 @@
 
 ### Notebooks / Third-party APIs
 
-*   [Darkmatter (⭐356)](https://github.com/tamamu/darkmatter) - A
+*   [Darkmatter (⭐358)](https://github.com/tamamu/darkmatter) - A
     notebook-style Common Lisp environment. [MIT](https://opensource.org/licenses/MIT).
 
 ### Apps / Third-party APIs
@@ -2829,20 +2833,20 @@
 ### Documentation
 
 *   [Gollum (⭐14k)](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
-*   [RDoc (⭐846)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
+*   [RDoc (⭐853)](https://github.com/ruby/rdoc) - RDoc produces HTML and command-line documentation for Ruby projects.
 
 ### Networking
 
-*   [RubyDNS (⭐717)](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+*   [RubyDNS (⭐722)](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
 
 ### State Machines
 
-*   [MicroMachine (⭐525)](https://github.com/soveran/micromachine) - A minimal finite state machine implementation in less than 50 lines of code.
+*   [MicroMachine (⭐526)](https://github.com/soveran/micromachine) - A minimal finite state machine implementation in less than 50 lines of code.
 
 ### View helpers
 
 *   [Bh (⭐833)](https://github.com/fullscreen/bh) - Bootstrap Helpers for Ruby.
-*   [gon (⭐3k)](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
+*   [gon (⭐3.1k)](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
 *   [PluggableJs (⭐53)](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
 
 ## [51. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
@@ -2912,7 +2916,7 @@
 ### Free fonts / Collections
 
 *   [Indestructible Type](https://github.com/indestructible-type) - An open-source font foundry
-*   [Zilla Slab (⭐419)](https://github.com/mozilla/zilla-slab) - Mozilla font
+*   [Zilla Slab (⭐430)](https://github.com/mozilla/zilla-slab) - Mozilla font
 
 ### Programming fonts / Fonts
 
@@ -2922,7 +2926,7 @@
 
 ### Augmented Reality
 
-*   [ARKit-Navigation (⭐324)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
+*   [ARKit-Navigation (⭐325)](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 
 ### Date
 
@@ -2930,7 +2934,7 @@
 
 ### Keyboard / Barcode
 
-*   [IQKeyboardManager (⭐16k)](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
+*   [IQKeyboardManager (⭐17k)](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
 
 ### Testing / Barcode
 

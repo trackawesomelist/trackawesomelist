@@ -55,7 +55,6 @@
 ### Other
 
 *   [Blockstack](https://blockstack.org): The new decentralized internet. Platform for application development with built in decentralized DNS.
-*   [Cryptosphere](https://cryptosphere.io): Open-source P2P web application platform for decentralized, privacy-preserving software which keeps users in control of their own content.
 *   [okTurtles](https://okturtles.com): DNSChain = Secure Blockchain Access and BlockchainID = decentralized web login.
 
 ## [5. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)

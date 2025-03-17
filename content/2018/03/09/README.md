@@ -10,7 +10,7 @@
 
 ### Contents / Tools
 
-*   [pico8Grunt (⭐12)](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs.
+*   [pico8Grunt (⭐14)](https://github.com/TeamNoComplyGames/pico8Grunt) - A build system for pico8 games, using gruntjs.
 
 ## [2. Awesome Chrome Devtools](/content/ChromeDevTools/awesome-chrome-devtools/README.md)
 

@@ -46,16 +46,16 @@
 
 ### Packages / Debugging / Profiling
 
-*   [NiM (⭐197)](https://github.com/june07/nim) - Manages DevTools debugging workflow.
+*   [NiM (⭐195)](https://github.com/june07/nim) - Manages DevTools debugging workflow.
 
 ### Packages / Testing
 
-*   [Playwright (⭐68k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
+*   [Playwright (⭐70k)](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 
 ### Packages / Miscellaneous
 
-*   [basic-ftp (⭐678)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
-*   [cashify (⭐404)](https://github.com/xxczaki/cashify) - Currency conversion.
+*   [basic-ftp (⭐684)](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
+*   [cashify (⭐405)](https://github.com/xxczaki/cashify) - Currency conversion.
 *   [genepi (⭐81)](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)

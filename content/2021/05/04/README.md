@@ -83,7 +83,7 @@
 
 ### Sensors / Soil Moisture
 
-*   [MicroPython-MiFlora (⭐6)](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
+*   [MicroPython-MiFlora (⭐7)](https://github.com/matthias-bs/MicroPython-MiFlora) - Xiaomi Mi Flora (aka flower care) BLE plant sensors (soil moisture/conductivity/light intensity/temperature).
 
 ## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -132,7 +132,7 @@ git push origin HEAD
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lazyload (⭐37)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
+*   [vue3-lazyload (⭐38)](https://github.com/jambonn/vue-lazyload) - Vue module for lazy-loading images in your vue 3 applications.
 
 ## [12. Awesome Design Systems](/content/klaufel/awesome-design-systems/README.md)
 

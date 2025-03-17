@@ -83,7 +83,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [chaplin (⭐2.9k)](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
+*   [chaplin (⭐2.8k)](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
 *   [marionette (⭐7.1k)](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.
 
 ---

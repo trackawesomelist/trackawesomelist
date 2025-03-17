@@ -14,7 +14,7 @@
 
 ### Packages / Command-line apps
 
-*   [is-up (⭐388)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+*   [is-up (⭐386)](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
 
 ## [2. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

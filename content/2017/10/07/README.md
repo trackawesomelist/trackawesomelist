@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 07, 2017
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,34 +18,40 @@
 
 
 
-## [2. Awesome](/content/craftcms/awesome/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Scala / Sinatra
+
+*   [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - Sam Halliday
+
+## [3. Awesome](/content/craftcms/awesome/README.md)
 
 ### Community
 
 *   [Craft Cookbook](https://craftcookbook.net/) - Quick solutions to common Craft CMS problems.
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Artificial Intelligence
 
-*   [Kaldi (⭐14k)](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. \[Apache]
+*   [Kaldi (⭐15k)](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. \[Apache]
 
 ### Debug
 
-*   [fff (⭐801)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
+*   [fff (⭐810)](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. \[MIT]
 
 ### Articles
 
 *   [CppCon 2017 Presentation Materials (⭐1.8k)](https://github.com/CppCon/CppCon2017) - CppCon 2017 Presentation Materials.
 
-## [4. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
+## [5. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/README.md)
 
 ### Other Lists
 
 *   [Ctwise Alfred Workflows (⭐476)](https://github.com/ctwise/alfred-workflows) - Workflows from the Github user "ctwise".
 *   [Vítor Galvão’s Alfred Workflows (⭐2.4k)](https://github.com/vitorgalvao/alfred-workflows/) - Workflows from the Github user "vitorgalvao".
 
-## [5. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Web Frameworks
 
@@ -250,7 +256,7 @@
 
 *   [NetGain (⭐929)](https://github.com/StackExchange/NetGain) - A high performance WebSocket server library powering Stack Overflow.
 
-## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
+## [7. Awesome Android](/content/JStumpp/awesome-android/README.md)
 
 ### Debugging Tools / ORM
 
@@ -261,7 +267,7 @@
 *   [Permission Dispatcher (⭐11k)](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
 *   [RxPermissions (⭐10k)](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava.
 
-## [7. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
+## [8. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
 ### Documentation / Build system (ROS2)
 
@@ -269,7 +275,7 @@
 *   [ROS 2 Docs (Overview)](http://docs.ros2.org/beta2/index.html#) - Details about ROS 2 internal design and organisation.
 *   [ROS 2 Wiki (⭐2.7k)](https://github.com/ros2/ros2/wiki) - Entry point to find all kind of information about ROS 2.
 
-## [8. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
+## [9. Awesome Css](/content/awesome-css-group/awesome-css/README.md)
 
 ### Videos :tv: / 2016
 
@@ -281,13 +287,13 @@
 
 *   [CSS Workflow from the Ground Up](https://www.youtube.com/watch?v=ZVk3GQHfkbU) :watch: `46:06` - Jonathan Snook @ Generate conf 2015.
 
-## [9. Awesome R](/content/qinwf/awesome-R/README.md)
+## [10. Awesome R](/content/qinwf/awesome-R/README.md)
 
 ### Database Management
 
 *   [RMariaDB (⭐132)](https://github.com/rstats-db/RMariaDB) - An R interface to MariaDB (a replacement for the old RMySQL package)
 
-## [10. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
+## [11. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
 
 ### Articles
 
@@ -322,7 +328,7 @@
 
 *   [CANard (⭐508)](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications.
 
-## [11. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [12. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 
@@ -331,7 +337,7 @@
 *   [DECAF (Dynamic Executable Code Analysis Framework) (⭐794)](https://github.com/sycurelab/DECAF)
     - A binary analysis platform based   on QEMU. DroidScope is now an extension to DECAF.
 
-## [12. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [13. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### General / UX
 

@@ -99,7 +99,7 @@
 
 ### Web Development
 
-*   [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** \[10:14:37]
+*   [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) by **Douglas Crockford** (Yahoo Theater 2011) \[10:14:37]
 
 ## [5. Awesome Slack](/content/matiassingers/awesome-slack/README.md)
 

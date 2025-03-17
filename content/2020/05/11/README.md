@@ -21,16 +21,16 @@
 ### Table of Contents / Micro Frameworks
 
 *   [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-*   [Silly (⭐923)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
+*   [Silly (⭐925)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 
 ### Table of Contents / HTTP
 
 *   [Nyholm PSR-7 (⭐1.2k)](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
-*   [Laminas Diactoros (⭐496)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
+*   [Laminas Diactoros (⭐498)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
 ### Table of Contents / Middlewares
 
-*   [PSR-7 Middlewares (⭐668)](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
+*   [PSR-7 Middlewares (⭐666)](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
 *   [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
 *   [Laminas Stratigility (⭐55)](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
 
@@ -52,7 +52,7 @@
 
 ### Table of Contents / Documentation
 
-*   [daux.io (⭐802)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
+*   [daux.io (⭐804)](https://github.com/dauxio/daux.io) - A documentation generator that uses Markdown files.
 
 ### Table of Contents / Event
 
@@ -78,13 +78,13 @@
 
 ### Table of Contents / Caching and Locking
 
-*   [CakePHP Cache (⭐52)](https://github.com/cakephp/cache) - A caching library.
-*   [Laminas Cache (⭐102)](https://github.com/laminas/laminas-cache) - Another caching library.
+*   [CakePHP Cache (⭐51)](https://github.com/cakephp/cache) - A caching library.
+*   [Laminas Cache (⭐104)](https://github.com/laminas/laminas-cache) - Another caching library.
 
 ### Table of Contents / Data Structure and Storage
 
-*   [CakePHP Collection (⭐88)](https://github.com/cakephp/collection) - A simple collections library.
-*   [Laminas Serializer (⭐33)](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
+*   [CakePHP Collection (⭐89)](https://github.com/cakephp/collection) - A simple collections library.
+*   [Laminas Serializer (⭐34)](https://github.com/laminas/laminas-serializer) - Another library for serialising and de-serialising data.
 
 ### Table of Contents / Internationalisation and Localisation
 

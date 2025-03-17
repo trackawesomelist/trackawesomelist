@@ -33,7 +33,7 @@
 
 ### Tools and session management
 
-*   [smug (⭐719)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
+*   [smug (⭐728)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 
 ## [4. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
@@ -49,7 +49,7 @@
 
 ## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
-### Automotive
+### Automotive / YouTube Playables
 
 *   [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - Explore Kia's latest line of cars.
 
@@ -57,11 +57,11 @@
 
 ### Image / Image Picker
 
-*   [WeChat Assets Picker (⭐1.5k)](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
+*   [WeChat Assets Picker (⭐1.6k)](https://github.com/fluttercandies/flutter_wechat_assets_picker) <!--stargazers:fluttercandies/flutter_wechat_assets_picker--> - Assets picker in WeChat style, support multi assets by [Alex Li](https://github.com/AlexV525).
 
 ### Desktop / Game Engine resources
 
-*   [Raspberry Pi Embedder (⭐1.6k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
+*   [Raspberry Pi Embedder (⭐1.7k)](https://github.com/ardera/flutter-pi) <!--stargazers:ardera/flutter-pi--> - Light-weight Embedder for Raspberry Pi by [Hannes Winkler](https://github.com/ardera)
 
 ## [8. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 

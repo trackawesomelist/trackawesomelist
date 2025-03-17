@@ -37,7 +37,7 @@
 
 ### Time-Series Databases
 
-*   [Thanos (⭐12k)](https://github.com/improbable-eng/thanos) - Thanos is a set of components to create a highly available metric system with unlimited storage capacity using multiple (existing) Prometheus deployments.
+*   [Thanos (⭐13k)](https://github.com/improbable-eng/thanos) - Thanos is a set of components to create a highly available metric system with unlimited storage capacity using multiple (existing) Prometheus deployments.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

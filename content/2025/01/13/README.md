@@ -16,7 +16,7 @@
 
 ### Utility / Diagnostics
 
-*   [philosofonusus/ecolog.nvim (⭐114)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
+*   [philosofonusus/ecolog.nvim (⭐116)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

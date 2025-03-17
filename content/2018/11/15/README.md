@@ -20,7 +20,7 @@
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Based Visualizations
+### Agency Tools / General GIS Applications for making transit visualizations
 
 *   [TNExT (⭐16)](https://github.com/ODOT-PTS/TNExT) - Transit Network Explorer Tool (TNExT) is a web-based software tool developed for the visualization, analysis, and reporting of regional and statewide transit networks in the state of Oregon.
 
@@ -28,7 +28,7 @@
 
 ### Transition / Barcode
 
-*   [ImageTransition (⭐219)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
+*   [ImageTransition (⭐220)](https://github.com/shtnkgm/ImageTransition) - ImageTransition is a library for smooth animation of images during transitions.
 
 ### Utility / Barcode
 

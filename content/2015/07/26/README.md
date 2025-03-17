@@ -10,7 +10,7 @@
 
 ### Web Development
 
-*   [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** \[46:17]
+*   [Om Next](https://www.youtube.com/watch?v=ByNs9TG30E8) by **David Nolen** (EuroClojure 2015) \[46:17]
 
 ## [2. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

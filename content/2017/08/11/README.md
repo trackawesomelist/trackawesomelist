@@ -33,7 +33,7 @@
 
 ### Misc
 
-*   [aiodebug (⭐56)](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
+*   [aiodebug (⭐62)](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
 
 ## [5. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 

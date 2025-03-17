@@ -27,14 +27,14 @@
 
 ### Backend / Redux / ELM / Dependency Injection
 
-*   [Nitric (⭐1.3k)](https://github.com/nitrictech/nitric) <!--stargazers:nitrictech/nitric--> - Open source framework with pluggable deployment by [Nitric](https://nitric.io/).
+*   [Nitric (⭐1.6k)](https://github.com/nitrictech/nitric) <!--stargazers:nitrictech/nitric--> - Open source framework with pluggable deployment by [Nitric](https://nitric.io/).
 
 ## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Motion / Diagnostics
 
-*   [DanilaMihailov/beacon.nvim (⭐416)](https://github.com/DanilaMihailov/beacon.nvim) - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
-*   [Aaronik/Treewalker.nvim (⭐329)](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
+*   [DanilaMihailov/beacon.nvim (⭐459)](https://github.com/DanilaMihailov/beacon.nvim) - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
+*   [Aaronik/Treewalker.nvim (⭐377)](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
 
 ### Game / Diagnostics
 
@@ -50,7 +50,7 @@
 
 ### Libraries / Scripting
 
-*   [facebook/starlark-rust (⭐748)](https://github.com/facebook/starlark-rust) - A small, deterministic, thread-safe language with Python syntax
+*   [facebook/starlark-rust (⭐768)](https://github.com/facebook/starlark-rust) - A small, deterministic, thread-safe language with Python syntax
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

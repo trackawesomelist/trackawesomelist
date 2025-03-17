@@ -28,9 +28,9 @@ Installs: 2000 | Stars: 352 | Last update: n/a
 
 ## [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / Screen Recording & Session Replays
 
-*   [Replayable](https://replayable.io) - Desktop dashcam that helps you capture unexpected bugs during manual testing.
+*   [Replayable](https://replayable.io) - Desktop dashcam for capturing manual testing sessions.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -57,7 +57,7 @@ Installs: 2000 | Stars: 352 | Last update: n/a
 
 ### Self-Hosted
 
-*   [Mailcow: dockerized (⭐9.5k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
+*   [Mailcow: dockerized (⭐9.7k)](https://github.com/mailcow/mailcow-dockerized) - The mailserver suite with the 'moo'.
 
 ## [8. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -69,19 +69,19 @@ Installs: 2000 | Stars: 352 | Last update: n/a
 
 ### Tools / Misc
 
-*   [txtai (⭐9.7k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
+*   [txtai (⭐10k)](https://github.com/neuml/txtai) - Build semantic search applications and workflows.
 
 ## [10. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Open Source Games (⭐1.7k)](https://github.com/michelpereira/awesome-open-source-games#readme)
+*   [Open Source Games (⭐1.8k)](https://github.com/michelpereira/awesome-open-source-games#readme)
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Code Runner / Diagnostics
 
-*   [desdic/greyjoy.nvim (⭐29)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
+*   [desdic/greyjoy.nvim (⭐30)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
 
 ---
 

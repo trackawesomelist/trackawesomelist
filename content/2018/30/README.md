@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 23 - Jul 29, 2018
 
-44 awesome lists updated this week.
+45 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -140,17 +140,17 @@
 
 ### Platforms
 
-*   [Amazon Alexa (⭐593)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
+*   [Amazon Alexa (⭐595)](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 
 ### Work
 
-*   [Code Review (⭐4.4k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+*   [Code Review (⭐4.5k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 ### Miscellaneous
 
 *   [Open Source Maintainers (⭐1.1k)](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
-*   [Calculators (⭐187)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
-*   [Captcha (⭐1.2k)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
+*   [Calculators (⭐194)](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
+*   [Captcha (⭐1.3k)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 ## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
@@ -184,13 +184,20 @@
 *   [Datahike (⭐1.6k)](https://github.com/replikativ/datahike)
 *   [Datascript (⭐5.3k)](https://github.com/tonsky/datascript)
 
-## [14. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Java / Codename One
+
+*   [Codename One Developer Guide](https://www.codenameone.com/files/developer-guide.pdf) (PDF)
+*   [Create an Uber Clone in 7 Days (first 2 chapters)](http://uber.cn1.co) - Shai Almog (PDF)
+
+## [15. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/week/README.md)
 
 ### Tools and frameworks (a-z↓)
 
 *   [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing using Node.js.
 
-## [15. Guides](/content/NARKOZ/guides/week/README.md)
+## [16. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Programming Languages / Scala
 
@@ -222,13 +229,13 @@
 
 *   [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
-## [16. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [17. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Books / Hash functions
 
 *   [Serious Cryptography](https://nostarch.com/seriouscrypto) - A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson.
 
-## [17. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [18. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Using Cassandra / Cassandra as a Service / Managed Cassandra Based on Proprietary Technology
 
@@ -248,7 +255,7 @@
 *   [Quora: Cassandra](https://www.quora.com/topic/Cassandra-database)
 *   [Meetups: Cassandra](https://www.meetup.com/topics/cassandra/?_cookie-check=mHgLvBy3N6Cke1RU)
 
-## [18. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [19. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / UI components
 
@@ -258,7 +265,7 @@
 
 *   [Tips for improving build time of large apps](https://discuss.emberjs.com/t/tips-for-improving-build-time-of-large-apps/15008)
 
-## [19. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [20. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Tools
 
@@ -269,25 +276,25 @@
 
 *   [React Grid (⭐10)](https://github.com/kagawagao/react-grid) **\[Deprecated]** - Grid React UI Component based on Ant Design.
 
-## [20. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [21. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Reading
 
 *   [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/)
 
-## [21. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
+## [22. Awesome Hacking](/content/carpedm20/awesome-hacking/week/README.md)
 
 ### Tools / Other
 
 *   [Amass (⭐11k)](https://github.com/OWASP/Amass) - In-depth subdomain enumeration tool that performs scraping, recursive brute forcing, crawling of web archives, name altering and reverse DNS sweeping
 
-## [22. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [23. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
 *   [Making Your Appium Tests Fast and Reliable, Part 9: When Things Go Wrong](https://appiumpro.com/editions/27)
 
-## [23. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [24. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Plotter Art For Sale / Patents
 
@@ -298,7 +305,7 @@
 *   [awesome-generative-art (⭐1.7k)](https://github.com/kosmos/awesome-generative-art)
 *   [awesome-creative-coding (⭐13k)](https://github.com/terkelg/awesome-creative-coding)
 
-## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [25. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### CLI Utils
 
@@ -308,7 +315,7 @@
 
 *   [base62.cr (⭐11)](https://github.com/Sija/base62.cr) - Base62 encoder/decoder, well suited for url-shortening
 
-## [25. Tips](/content/git-tips/tips/week/README.md)
+## [26. Tips](/content/git-tips/tips/week/README.md)
 
 ## Use SSH instead of HTTPs for remotes
 
@@ -316,7 +323,7 @@
 git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 ```
 
-## [26. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [27. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Programming Editors and IDEs / Others
 
@@ -326,7 +333,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [Edubirdie](https://edubirdie.com/plagiarism-checker) - An online plagiarism checker which gives percentage of similarity comparing our content with online resources.
 
-## [27. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [28. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -342,19 +349,19 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [Quantum Weekly](https://quantumweekly.com/) - A weekly correlation of all things quantum - computing, cryptography, entanglement.
 
-## [28. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
+## [29. Awesome Audio Visualization](/content/willianjusten/awesome-audio-visualization/week/README.md)
 
 ### Downloads
 
 *   [Soundwhich](http://soundwhich.com/)
 
-## [29. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [30. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Resources / Articles
 
 *   [Anonymous Recursion in JavaScript](https://dev.to/simov/anonymous-recursion-in-javascript) - Short and easy to understand article about implementing anonymous recursion in JavaScript.
 
-## [30. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
+## [31. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
 ### In English
 
@@ -364,7 +371,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [DevDrops](https://anchor.fm/devdrops) - O seu podcast sobre desenvolvimento de software.
 
-## [31. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [32. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -374,7 +381,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [Baremetrics](https://baremetrics.com/about) - Analytics and insights for Stripe, Braintree, Recurly and Chargify.
 
-## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / M companies
 
@@ -388,25 +395,25 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   Edward Faulkner <https://eaf4.com/>
 
-## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Services / Bluetooth / NFC / Beacon
 
-*   [Dialogflow (⭐215)](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
+*   [Dialogflow (⭐213)](https://github.com/VictorRancesCode/flutter_dialogflow) <!--stargazers:VictorRancesCode/flutter_dialogflow--> - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/)
 
-## [34. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [35. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Books, blogs, and training materials / Free and public materials
 
 *   [MicroRust](https://droogmic.github.io/microrust/) Introductory book for embedded development in Rust on the micro:bit.
 
-## [35. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [36. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Web Frameworks
 
 *   [Vert.x Vaadin (⭐44)](https://github.com/mcollovati/vertx-vaadin) - Run Vaadin applications on Vert.x.
 
-## [36. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [37. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Network perimeter defenses / Evidence collection
 
@@ -428,13 +435,13 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 *   [GRASSMARLIN (⭐911)](https://github.com/nsacyber/GRASSMARLIN) - Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.
 *   [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT\&CK framework.
 
-## [37. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
+## [38. Awesome H2o](/content/h2oai/awesome-h2o/week/README.md)
 
 ### Blog Posts & Tutorials
 
 *   [Using machine learning with LIME to understand employee churn](http://www.business-science.io/business/2018/06/25/lime-local-feature-interpretation.html) June 25, 2018
 
-## [38. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [39. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / IDEs
 
@@ -442,21 +449,21 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 ### Utilities / General Tools
 
-*   [Mac Cache Cleaner (⭐234)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Mac Cache Cleaner (⭐235)](https://github.com/kaunteya/MacCacheCleaner) - Cache cleaner for Mac [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/kaunteya/MacCacheCleaner) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [39. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
+## [40. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
 ### Deployment
 
 *   `article` [Six Tips for Mastering your Procfile](https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779) — improvements for how you run your Heroku processes.
 
-## [40. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [41. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Cryptography / Barcode
 
 *   [Themis (⭐1.9k)](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 
-## [41. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [42. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Backups
 
@@ -467,7 +474,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 *   [pg\_chameleon (⭐377)](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
 *   [pg\_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL.
 
-## [42. Awesome](/content/craftcms/awesome/week/README.md)
+## [43. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Community
 
@@ -477,7 +484,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 
 *   [Language switcher for Craft 3](https://www.thebasement.be/language-switcher-for-craft-3/) by Jan D'Hollander - `25 July 2018`
 
-## [43. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
+## [44. Awesome Code Review](/content/joho/awesome-code-review/week/README.md)
 
 ### Academic Papers
 
@@ -508,7 +515,7 @@ git config --global url.'git@github.com:'.insteadOf 'https://github.com/'
 *   [Code Reviews: Honesty, Kindness, Inspiration: Pick Three - Jacob Stoebel RubyConf 2017](http://confreaks.tv/videos/rubyconf2017-code-reviews-honesty-kindness-inspiration-pick-three) How to do effective code review while remaining kind to the original author.
 *   [Implementing a Strong Code-Review Culture - Derek Prior Railsconf 2015](https://www.youtube.com/watch?v=PJjmw9TRB7s) How to instill a healthy code review culture in a team.
 
-## [44. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / API
 

@@ -34,11 +34,7 @@
 
 ### Logging
 
-*   [logster (⭐206)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
-
-### Release Management
-
-*   [exrm\_deb (⭐76)](https://github.com/johnhamelink/exrm_deb) - Create a deb for your Elixir release with ease.
+*   [logster (⭐205)](https://github.com/navinpeiris/logster) - Easily parsable, one-line logging for Phoenix and Plug applications, inspired by Lograge.
 
 ## [6. Awesome Selenium](/content/christian-bromann/awesome-selenium/README.md)
 

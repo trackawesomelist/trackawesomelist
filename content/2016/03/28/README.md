@@ -10,7 +10,7 @@
 
 ### Table of Contents / Task Runners
 
-*   [Jobby (⭐1k)](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
+*   [Jobby (⭐1.1k)](https://github.com/jobbyphp/jobby) - A PHP cron job manager without modifying crontab.
 
 ## [2. Awesome Opengl](/content/eug/awesome-opengl/README.md)
 

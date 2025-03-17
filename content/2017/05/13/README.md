@@ -72,7 +72,7 @@
 
 ### Functional Programming
 
-*   [Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0) by **Mark Seemann** \[1:00:09]
+*   [Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0) by **Mark Seemann** (NDC Sydney 2016) \[1:00:09]
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

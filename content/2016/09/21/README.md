@@ -137,7 +137,7 @@
 
 ## [13. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Native Apps (closed source)
+### Native Apps (closed source) / Rust
 
 *   [Transit](http://transitapp.com/)
 

@@ -22,7 +22,7 @@
 
 ### Software / Calendar & Contacts
 
-*   [Xandikos (⭐442)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python/deb`
+*   [Xandikos (⭐457)](https://github.com/jelmer/xandikos) - Open source CardDAV and CalDAV server with minimal administrative overhead, backed by a Git repository. `GPL-3.0` `Python/deb`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -86,7 +86,7 @@
 
 ### Utility / Diagnostics
 
-*   [xiyaowong/link-visitor.nvim (⭐47)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
+*   [xiyaowong/link-visitor.nvim (⭐46)](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
 
 ---
 

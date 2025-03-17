@@ -22,7 +22,7 @@
 
 ### Dataset / Web
 
-*   [The Quick, Draw! Dataset (⭐6.2k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
+*   [The Quick, Draw! Dataset (⭐6.3k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
 
 ## [4. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/README.md)
 

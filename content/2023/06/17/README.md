@@ -16,7 +16,7 @@
 
 ### Libraries / Email
 
-*   [mailtutan/mailtutan (⭐177)](https://github.com/mailtutan/mailtutan) - An SMTP server for test and development environment.
+*   [mailtutan/mailtutan (⭐178)](https://github.com/mailtutan/mailtutan) - An SMTP server for test and development environment.
 
 ## [3. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
@@ -32,19 +32,19 @@
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
+### AI-Powered Code Generation
+
+*   [Dedicated File for Inbox for GenAI + Dev (⭐2.7k)](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references
+
 ### Creative Uses of Generative AI Image Synthesis Tools / Deforum
 
 *   [Wilco Sierra](https://trywilco.com/sierra): A platform that generates engineering challenges for software engineers using GPT.
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [Dedicated File for Inbox for GenAI + Dev (⭐2.7k)](https://github.com/filipecalegario/awesome-generative-ai/blob/main/inbox-gen-ai-dev.md): a list for further analysis and organization of GenAI + dev references
 
 ## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [YoutubeDL-Server (⭐249)](https://github.com/nbr23/youtube-dl-server) - Web and REST interface for downloading videos onto a server. `MIT` `Python/Docker`
+*   [YoutubeDL-Server (⭐259)](https://github.com/nbr23/youtube-dl-server) - Web and REST interface for downloading videos onto a server. `MIT` `Python/Docker`
 
 ### Software / Bookmarks and Link Sharing
 
@@ -52,13 +52,13 @@
 
 ### Software / Database Management
 
-*   [Limbas](https://www.limbas.com/en/) - Limbas is a database framework for creating database-driven business applications. As a graphical database frontend, it enables the efficient processing of data stocks and the flexible development of comfortable database applications. ([Source Code (⭐50)](https://github.com/limbas/limbas)) `GPL-2.0` `PHP`
+*   [Limbas](https://www.limbas.com/en/) - Limbas is a database framework for creating database-driven business applications. As a graphical database frontend, it enables the efficient processing of data stocks and the flexible development of comfortable database applications. ([Source Code (⭐53)](https://github.com/limbas/limbas)) `GPL-2.0` `PHP`
 
 ## [7. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Libraries / IDE
 
-*   [nu\_plugin\_hcl (⭐7)](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell (⭐33k)](https://github.com/nushell/nushell)
+*   [nu\_plugin\_hcl (⭐7)](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell (⭐34k)](https://github.com/nushell/nushell)
 
 ---
 

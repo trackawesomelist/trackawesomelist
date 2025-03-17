@@ -86,10 +86,6 @@ git rebase --interactive HEAD~2
 
 ## [7. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
-### Algorithms and Data structures
-
-*   [monad](https://github.com/rmies/monad) - Haskell inspired monads in Elixir stylish syntax.
-
 ### Geolocation
 
 *   [ipgeobase (⭐7)](https://github.com/sergey-chechaev/elixir_ipgeobase) - Find Russian and Ukraine city by IP address and find country for other country.

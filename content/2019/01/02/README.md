@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 02, 2019
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -23,14 +23,20 @@
 
 *   [Brave](https://brave.com) - Web browser with built-in ad blocker and crypto-token micro-payments.
 
-## [3. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ruby / Tornado
+
+*   [The Definitive Ruby Tutorial For Complete Beginners](https://www.rubyguides.com/ruby-tutorial/) - Jesus Castello
+
+## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Debugging and Reverse Engineering / Other Resources
 
 *   [IDR (⭐916)](https://github.com/crypto2011/IDR) - Interactive Delphi Reconstructor
     is a decompiler of Delphi executable files and dynamic libraries.
 
-## [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Terminal User Interface / Apache License
 
@@ -40,7 +46,7 @@
 
 *   [abf-io (⭐0)](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
 
-## [5. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+## [6. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
 ### North America / United States of America 🇺🇸
 
@@ -64,7 +70,7 @@ Topics: Accessibility\
 Topics: CSS Grids, React, Redux, Firebase, Flexbox\
 <https://twitter.com/tiffhaxell>
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Examples
 
@@ -72,25 +78,25 @@ Topics: CSS Grids, React, Redux, Firebase, Flexbox\
 *   [**easy-vue**](https://github.com/TIGERB/easy-vue) a easy example using the vue to implement easy web with vue 2.0, vuex 2.0, vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
 *   [Vue.js with Sails.js example project (⭐294)](https://github.com/ndabAP/vue-sails-example) - This project is for those who are new to single-page applications and want to learn through a real example.
 *   [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager)
-*   [vue-feathers-chat (⭐50)](https://github.com/ErickPetru/vue-feathers-chat) A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication
+*   [vue-feathers-chat (⭐49)](https://github.com/ErickPetru/vue-feathers-chat) A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication
 *   [vue-xplan (⭐313)](https://github.com/JackGit/xplan/) A rotating earth demo page created with Vue and three.js
 *   [**vueSocketChatRoom**](https://github.com/Chanran/vueSocketChatroom) A socket chat room using vue2.x,vuex2.x,vue-router2.x,vux2.x,socket.io
 *   [vue-tetris (Use Vue, Vuex, Immutable to code Tetris)](http://binaryify.github.io/vue-tetris/) by [@Binaryify](https://github.com/Binaryify): Use Vue, Vuex, Immutable to code Tetris.
 *   [route-planner-vue](https://kasheftin.github.io/route-planner-vue/) by [@Kasheftin](https://github.com/Kasheftin): The tool for planning routes with multiple sortable layers, draggable directions, markers and shapes on google map.
-*   [Vue Weather Notifier (⭐198)](https://github.com/sdras/vue-weather-notifier) A small sample animation app with SVG and Vuex
+*   [Vue Weather Notifier (⭐197)](https://github.com/sdras/vue-weather-notifier) A small sample animation app with SVG and Vuex
 *   [koa-vue-notes-web (⭐199)](https://github.com/johndatserakis/koa-vue-notes-web) - A fleshed-out SPA using Koa 2.3 on the backend and Vue 2.4 on the frontend. Includes fully featured user-authentication components, CRUD actions for the user's notes, and Vuex store modules.
 *   [vue-vuex-todomvc (⭐47)](https://github.com/bahmutov/vue-vuex-todomvc) - Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using [Cypress.io](https://www.cypress.io/) test runner.
 
 ### Projects Using Vue.js / Open Source
 
-*   [npmcharts.com (⭐159)](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
+*   [npmcharts.com (⭐160)](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
 *   [Koel (⭐16k)](https://github.com/phanan/koel) - A personal music streaming server that works.
 *   [astralapp (⭐3.3k)](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease.
 *   [PJ Blog (⭐2.9k)](https://github.com/jcc/blog) - Open source blog built with Laravel and Vue.js.
 *   [OpenAPI 3 viewer (⭐92)](https://github.com/koumoul-dev/openapi-viewer) - Browse and test a REST API described with the OpenAPI 3.0 Specification
 *   [nativescript-vue (⭐5.4k)](https://github.com/rigor789/nativescript-vue) - A Vue.js implementation of the NativeScript renderer.
 
-## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [8. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### Brazil 🇧🇷 / Rio de Janeiro
 
@@ -119,13 +125,13 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 
 ![](http://www.speedtest.net/result/7911413495.png)
 
-## [8. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/README.md)
+## [9. Awesome React Hooks](/content/glauberfc/awesome-react-hooks/README.md)
 
 ### Extensions/Libraries
 
 *   [react-hooks-screen-type (⭐15)](https://github.com/pankod/react-hooks-screen-type) - Determining screen size type for Bootstrap 4 grid.
 
-## [9. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
+## [10. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
 ### IPTV and DVR / Third Party Hosts
 
@@ -145,25 +151,25 @@ Webpage: <https://www.facebook.com/Nordicocoffeeshop/>
 *   [Academy Awards 2019 Screeners Megathread](https://www.reddit.com/r/Piracy/comments/aaqc0b/academy_awards_2019_screeners_megathread/) Post by /u/idoideas listing all available DVDSCR releases for 2019
 *   [castnow (⭐3.8k)](https://github.com/xat/castnow) Castnow is a command-line utility that can be used to play back media files on your Chromecast device.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Photo Galleries
 
-*   [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Demo](https://demo.photoprism.app/library/browse), [Source Code (⭐36k)](https://github.com/photoprism/photoprism)) `AGPL-3.0` `Go/Docker`
+*   [PhotoPrism](https://photoprism.org) - Personal photo management powered by Go and Google TensorFlow.  Browse, organize, and share your personal photo collection, using the latest technologies to automatically tag and find pictures. ([Demo](https://demo.photoprism.app/library/browse), [Source Code (⭐37k)](https://github.com/photoprism/photoprism)) `AGPL-3.0` `Go/Docker`
 
-## [11. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
+## [12. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### Widgets / Redux / ELM / Dependency Injection
 
-*   [Functional widget (⭐599)](https://github.com/rrousselGit/functional_widget) <!--stargazers:rrousselGit/functional_widget--> - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
+*   [Functional widget (⭐605)](https://github.com/rrousselGit/functional_widget) <!--stargazers:rrousselGit/functional_widget--> - Code generator writing widgets as functions with annotations by [Remi Rousselet](https://github.com/rrousselGit)
 
-## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [13. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### WPF
 
 *   [WPF (⭐7.2k)](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
 
-## [13. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [14. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Modules / Utils
 

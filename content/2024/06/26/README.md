@@ -24,11 +24,11 @@
 
 ### Data Ingestion
 
-*   [Google Sheets ETL (⭐18)](https://github.com/fulldecent/google-sheets-etl) - Live import all your Google Sheets to your data warehouse.
+*   [Google Sheets ETL (⭐20)](https://github.com/fulldecent/google-sheets-etl) - Live import all your Google Sheets to your data warehouse.
 
 ### Workflow
 
-*   [Kestra (⭐9.9k)](https://github.com/kestra-io/kestra) - A versatile open source orchestrator and scheduler built on Java, designed to handle a broad range of workflows with a language-agnostic, API-first architecture.
+*   [Kestra (⭐16k)](https://github.com/kestra-io/kestra) - A versatile open source orchestrator and scheduler built on Java, designed to handle a broad range of workflows with a language-agnostic, API-first architecture.
 
 ---
 

@@ -72,8 +72,8 @@
 ### Tools / Libraries
 
 *   [Color Thief (⭐13k)](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-*   [Colorify.js (⭐806)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-*   [Colofilter.css (⭐620)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
+*   [Colorify.js (⭐808)](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+*   [Colofilter.css (⭐621)](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 
 ### Tools / Web App
 
@@ -242,7 +242,7 @@
 
 ### Blur / Barcode
 
-*   [VisualEffectView (⭐1.1k)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
+*   [VisualEffectView (⭐1.2k)](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color.
 
 ## [18. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 

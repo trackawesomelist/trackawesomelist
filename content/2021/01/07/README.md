@@ -16,8 +16,8 @@
 
 ### Utils / Other Tools
 
-*   [FastAPI MQTT (⭐271)](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
-*   [Starlette Context (⭐461)](https://github.com/tomwojcik/starlette-context) - Allows you to store and access the request data anywhere in your project, useful for logging.
+*   [FastAPI MQTT (⭐272)](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
+*   [Starlette Context (⭐464)](https://github.com/tomwojcik/starlette-context) - Allows you to store and access the request data anywhere in your project, useful for logging.
 *   [Starlette OpenTracing (⭐65)](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
 *   [Starlette Prometheus (⭐282)](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 
@@ -55,7 +55,7 @@
 
 ### Official Resources
 
-*   [Release Notes (⭐70k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
+*   [Release Notes (⭐71k)](https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md)
 
 ### Open Source / Community
 

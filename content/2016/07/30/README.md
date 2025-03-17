@@ -27,13 +27,13 @@
 
 ### Registry
 
-*   [npm-register (⭐482)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
+*   [npm-register (⭐485)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
 
 ## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Models/Projects
 
-*   [End-To-End Memory Networks (⭐342)](https://github.com/domluna/memn2n) - Implementation of [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
+*   [End-To-End Memory Networks (⭐341)](https://github.com/domluna/memn2n) - Implementation of [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
 
 ## [5. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

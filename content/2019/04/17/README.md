@@ -56,7 +56,7 @@
 
 ### Dataset / Web
 
-*   [StarData (⭐569)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
+*   [StarData (⭐574)](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 
 ## [9. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -72,7 +72,7 @@
 
 ### Networking
 
-*   [ZeroMQ (⭐9.9k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
+*   [ZeroMQ (⭐10k)](https://github.com/zeromq/libzmq) - High-speed, modular asynchronous communication library. \[LGPL3/MPL2] [website](http://zeromq.org/)
 
 ## [11. Awesome Electron](/content/sindresorhus/awesome-electron/README.md)
 

@@ -10,13 +10,13 @@
 
 ### Plugins
 
-*   [muxile (⭐112)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
+*   [muxile (⭐120)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 
 ## [2. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Plugins and scripts / Godot 3
 
-*   [GdUnit3 (⭐312)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework.
+*   [GdUnit3 (⭐313)](https://github.com/MikeSchulze/gdUnit3) - Godot Unit Testing Framework.
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Game / Open source games
 
-*   [Space Empires (⭐99)](https://github.com/satyamx64/space_empires) <!--stargazers:satyamx64/space_empires--> - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
+*   [Space Empires (⭐100)](https://github.com/satyamx64/space_empires) <!--stargazers:satyamx64/space_empires--> - A 4X Space themed strategy game by [Satyam Sharma](https://github.com/satyamx64)
 
 ### Top / Game Engine resources
 

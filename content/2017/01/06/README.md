@@ -10,7 +10,7 @@
 
 ### Build Systems / Playground
 
-*   [Zwitterion (⭐581)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
+*   [Zwitterion (⭐583)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
 
 ## [2. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 

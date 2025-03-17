@@ -10,7 +10,7 @@
 
 ### Cognitive Development
 
-*   [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** \[59:12]
+*   [Becoming an Outlier: Career Reboot for the Developer Mind](https://vimeo.com/97415346) by **Cory House** (NDC 2014) \[59:12]
 
 ---
 

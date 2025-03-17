@@ -28,7 +28,7 @@ git cherry -v master <branch-to-be-merged>
 
 ### Physics
 
-*   [Box2D (⭐8.5k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
+*   [Box2D (⭐8.6k)](https://github.com/erincatto/Box2D) - A 2D physics engine for games. \[BSD-like]
 
 ## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -180,7 +180,7 @@ git cherry -v master <branch-to-be-merged>
 
 ### Offline / Other (Plugins || Cross-platform || OSS || Free)
 
-*   :octocat: [Typescript addin for (⭐29)](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
+*   :octocat: [Typescript addin for (⭐30)](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
 
 ### :dollar: Paid Courses / Chrome Extensions
 

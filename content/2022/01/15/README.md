@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15, 2022
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -17,13 +17,19 @@
 *   [SimpleLogin (⭐5.4k)](https://github.com/simple-login/app)
 *   [AnonAddy (⭐3.6k)](https://github.com/anonaddy/anonaddy)
 
-## [2. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Lisp / TeX
+
+*   [ANSI Common Lisp Standard (draft version 15.17R, X3J13/94-101R)](https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf) (PDF)
+
+## [3. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/README.md)
 
 ### Libraries/Frameworks / Functional Programming
 
 *   [fork-handles/result4k (⭐226)](https://github.com/fork-handles/forkhandles/blob/trunk/result4k) - Result monad for type safe error handling in Kotlin
 
-## [3. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
+## [4. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
 ### Installation
 
@@ -35,13 +41,13 @@
 
 *   [iglass](https://www.npmjs.com/package/iglass-nodes) - Interaction with [iGlass Automation](https://iglass.international) blocks.
 
-## [4. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
+## [5. Awesome Decentralized](/content/croqaz/awesome-decentralized/README.md)
 
 ### Applications
 
-*   [ipfs-pinner (⭐56)](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
+*   [ipfs-pinner (⭐57)](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
 
-## [5. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Table of Contents / Courses
 
@@ -53,13 +59,13 @@
 *   [VOLO: Vision Outlooker for Visual Recognition](https://arxiv.org/pdf/2106.13112.pdf)
 *   [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf)
 
-## [6. Awesome Json](/content/burningtree/awesome-json/README.md)
+## [7. Awesome Json](/content/burningtree/awesome-json/README.md)
 
 ### Command-line tools
 
 *   [dsq (⭐3.6k)](https://github.com/multiprocessio/dsq) - Tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 
-## [7. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
+## [8. Dive Into Machine Learning](/content/dive-into-machine-learning/dive-into-machine-learning/README.md)
 
 ### Deep Learning / Easier sharing of deep learning models and demos
 

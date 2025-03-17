@@ -1,42 +1,49 @@
 # Awesome List Updates on May 17, 2020
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ada
+
+*   [Introduction To Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
+*   [Introduction To SPARK](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html)
+
+## [2. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Software Development
 
 *   [Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM) by **Glenn Vanderburg** (Software Art Thou 2018) \[1:07:57]
 
-## [2. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
+## [3. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 
 ### Libraries / Others
 
 *   [eiR (⭐3)](https://github.com/girke-lab/eiR) - Accelerated similarity searching of small molecules
 
-## [3. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Scheduling
 
 *   [que-scheduler (⭐115)](https://github.com/hlascelles/que-scheduler) - A lightweight cron scheduler for the async job worker Que.
 
-## [4. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [5. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### Architecture
 
 *   [*The Clean Swift Handbook* by Raymond Law](https://clean-swift.com/handbook)
 
-## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
+## [6. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
 ### Configuration & Discovery / Scala
 
 *   [Microconfig](https://microconfig.io) - Modern and simple way of microservice configuration management.
 
-## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [7. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Use Cases
 
@@ -50,41 +57,41 @@
 *   [Why we use Web Components](https://viljamis.com/2019/why-we-use-web-components/) by [@viljamis](https://twitter.com/viljamis)
 *   [Why we use Web Components](https://dev.to/ionic/why-we-use-web-components-2c1i) by [@maxlynch](https://twitter.com/maxlynch)
 
-## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [8. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 
 ### Online services (a-z↓)
 
 *   [Visual Regression Tracker (⭐612)](https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker) - Open Source selfhosted service for visual regression testing
 
-## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [9. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Bundlers
 
-*   [Microbundle (⭐8k)](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
+*   [Microbundle (⭐8.1k)](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
 
 ### Misc / Other
 
-*   [denolib/awesome-deno (⭐4.2k)](https://github.com/denolib/awesome-deno)
+*   [denolib/awesome-deno (⭐4.3k)](https://github.com/denolib/awesome-deno)
 
-## [9. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
+## [10. Sublime Bookmarks](/content/dreikanter/sublime-bookmarks/README.md)
 
 ### Extensions / General Purpose
 
 *   [LSP](https://packagecontrol.io/packages/LSP) — Language Server Protocol support for Sublime Text 3 that gives you IDE features.
 
-## [10. Awesome List](/content/sindresorhus/awesome/README.md)
+## [11. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
-*   [Python (⭐226k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+*   [Python (⭐236k)](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
     *   [Asyncio (⭐4.7k)](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
     *   [Scientific Audio (⭐1.6k)](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
-    *   [CircuitPython (⭐649)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
-    *   [Data Science (⭐2.6k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
-    *   [Typing (⭐1.7k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
-    *   [MicroPython (⭐1.4k)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+    *   [CircuitPython (⭐660)](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
+    *   [Data Science (⭐2.7k)](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
+    *   [Typing (⭐1.8k)](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
+    *   [MicroPython (⭐1.5k)](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 
-## [11. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
+## [12. Awesome Captcha](/content/ZYSzys/awesome-captcha/README.md)
 
 ### Generation
 
@@ -98,7 +105,7 @@
 
 *   [Hashcash for PHP/JavaScript forms (⭐46)](https://github.com/007/hashcash-js) - An alternative to captcha to fight spam, based on proof-of-work.
 
-## [12. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [13. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### Communications / GPS
 
@@ -120,7 +127,7 @@
 
 *   [Advanced Programming in MicroPython By Example](https://www.amazon.com/Advanced-Programming-MicroPython-Example-Magda/dp/1090900937) - By Yury Magda. ISBN 9781090900937.
 
-## [13. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [14. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 

@@ -37,7 +37,7 @@
 
 ### Plugins / IRC
 
-*   [Private-Composer-Installer (⭐224)](https://github.com/ffraenz/private-composer-installer) - Install helper outsourcing sensitive keys from the package URL into environment variables.
+*   [Private-Composer-Installer (⭐228)](https://github.com/ffraenz/private-composer-installer) - Install helper outsourcing sensitive keys from the package URL into environment variables.
 
 ## [6. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
@@ -106,7 +106,7 @@
 ### Projects
 
 *   [PiAware](https://uk.flightaware.com/adsb/piaware/install) - Live flight tracking using a Raspberry Pi.
-*   [PiFmRds (⭐1.4k)](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using a Raspberry Pi.
+*   [PiFmRds (⭐1.5k)](https://github.com/ChristopheJacquet/PiFmRds) - FM-RDS transmitter using a Raspberry Pi.
 
 ## [9. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
@@ -229,7 +229,7 @@
 
 *   [tmux-network-bandwidth (⭐78)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
-*   [tmux-weather (⭐70)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+*   [tmux-weather (⭐74)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## [20. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

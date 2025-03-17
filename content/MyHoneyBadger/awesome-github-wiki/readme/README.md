@@ -8,7 +8,7 @@
 
 ---
 
-# Awesome GitHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Lint](https://github.com/MyHoneyBadger/awesome-github-wiki/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/MyHoneyBadger/awesome-github-wiki/actions/workflows/action.yml?query=branch%3Amain) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/)
+# Awesome GitHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/)
 
 > A curated list of awesome GitHub Wikis
 
@@ -30,9 +30,9 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 *   [thinkaurelius/titan (⭐5.2k)](https://github.com/thinkaurelius/titan/wiki)
 *   [guard/guard (⭐6.3k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 *   [apple/foundationdb (⭐15k)](https://github.com/apple/foundationdb/wiki)
-*   [google/guava (⭐50k)](https://github.com/google/guava/wiki)
+*   [google/guava (⭐51k)](https://github.com/google/guava/wiki)
 *   [hyperledger/cacti (⭐355)](https://github.com/hyperledger/cacti/wiki)
-*   [facebook/react-native (⭐120k)](https://github.com/facebook/react-native/wiki)
+*   [facebook/react-native (⭐121k)](https://github.com/facebook/react-native/wiki)
 *   [FortAwesome/Font-Awesome (⭐75k)](https://github.com/FortAwesome/Font-Awesome/wiki)
 *   [uber/NullAway (⭐3.7k)](https://github.com/uber/NullAway/wiki)
 *   [internetarchive/openlibrary (⭐5.4k)](https://github.com/internetarchive/openlibrary/wiki)

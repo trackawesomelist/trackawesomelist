@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 06 - Jan 12, 2020
 
-47 awesome lists updated this week.
+48 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -187,7 +187,7 @@
 
 ### Software / Automation
 
-*   [Huginn (⭐44k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
+*   [Huginn (⭐45k)](https://github.com/huginn/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
 
 ### Software / Groupware
 
@@ -291,7 +291,7 @@
 
 ### Related / `pre` and `post` scripts
 
-*   [awesome-nodejs (⭐58k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐60k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [31. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -311,7 +311,7 @@
 
 ### Packages / HTTP
 
-*   [global-agent (⭐364)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+*   [global-agent (⭐374)](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 
 ### Packages / Security
 
@@ -356,7 +356,7 @@
 
 ### Table of Contents / IoT
 
-*   [Apache StreamPipes (⭐617)](https://github.com/apache/incubator-streampipes) \[Java] - a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
+*   [Apache StreamPipes (⭐634)](https://github.com/apache/incubator-streampipes) \[Java] - a self-service (Industrial) IoT toolbox to enable non-technical users to connect, analyze and explore IoT data streams.
 
 ## [38. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -370,7 +370,18 @@
 
 *   [fs-extra (⭐8.7k)](https://github.com/jprichardson/node-fs-extra) - Combines `graceful-fs` with better JSON file reading and promises.
 
-## [40. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [40. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Java / Bootstrap
+
+*   [Java Projects, Second Edition](https://www.packtpub.com/free-ebooks/java-projects-second-edition) - Peter Verhas (Packt account *required*)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
+*   [Python Machine Learning By Example](https://www.packtpub.com/free-ebooks/python-machine-learning-example) - Yuxi (Hayden) Liu (Packt account *required*)
+
+## [41. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### Prototype Pollution
 
@@ -389,7 +400,7 @@
 *   [The world of Site Isolation and compromised renderer](https://speakerdeck.com/shhnjk/the-world-of-site-isolation-and-compromised-renderer) - Written by [@shhnjk](https://twitter.com/shhnjk).
 *   [The Cookie Monster in Your Browsers](https://speakerdeck.com/filedescriptor/the-cookie-monster-in-your-browsers) - Written by [@filedescriptor](https://twitter.com/filedescriptor).
 
-## [41. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [42. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Debugging
 
@@ -408,7 +419,7 @@
 
 *   [Feed plugin (⭐13)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
 
-## [42. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [43. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -423,13 +434,13 @@
 
 *   [CrSignals (⭐10)](https://github.com/firejox/CrSignals) - Signals/slots notification library
 
-## [43. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [44. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Generic
 
 *   [CoreUI Icons](https://coreui.io/icons/free/) - Premium designed free icon set with marks in SVG, Webfont and raster formats.
 
-## [44. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
+## [45. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
 ### Tooling / Frameworks
 
@@ -448,7 +459,7 @@
 *   [Seed (⭐3.8k)](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
 *   [Smithy (⭐350)](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 
-## [45. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [46. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Graphics
 
@@ -458,7 +469,7 @@
 
 *   [FloatingButton (⭐1.2k)](https://github.com/exyte/FloatingButton) - Easily customizable floating button menu created with SwiftUI.
 
-## [46. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [47. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 ### Music
 
@@ -488,7 +499,7 @@
 
 
 
-## [47. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
+## [48. Awesome Ponyfills](/content/Richienb/awesome-ponyfills/week/README.md)
 
 ### Main
 

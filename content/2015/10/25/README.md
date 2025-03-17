@@ -55,7 +55,7 @@
 
 ### JSON
 
-*   [jose (⭐314)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
+*   [jose (⭐316)](https://github.com/potatosalad/erlang-jose) - JSON Object Signing and Encryption (JOSE) for Erlang and Elixir.
 
 ## [3. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -84,7 +84,7 @@
 
 ### Functional Programming
 
-*   [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by **Philip Wadler** \[42:42]
+*   [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by **Philip Wadler** (Strange Loop 2015) \[42:42]
 
 ## [7. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

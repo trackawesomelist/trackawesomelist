@@ -81,7 +81,7 @@
 
 ### JSON
 
-*   [SwiftyJSONAccelerator (⭐945)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
+*   [SwiftyJSONAccelerator (⭐947)](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 models for JSON (with Codeable).
 
 ## [10. Awesome Actions on Google](/content/ravirupareliya/awesome-actions-on-google/README.md)
 

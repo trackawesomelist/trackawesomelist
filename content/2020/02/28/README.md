@@ -17,7 +17,7 @@
 
 ### Tools
 
-*   [ipfs-action (⭐178)](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
+*   [ipfs-action (⭐180)](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
 
 ## [3. Awesome Ros2](/content/fkromer/awesome-ros2/README.md)
 
@@ -30,7 +30,7 @@
 
 ### ORM / Text-Based User Interfaces
 
-*   [Permazen (⭐403)](https://github.com/permazen/permazen) - Language-natural persistence layer.
+*   [Permazen (⭐410)](https://github.com/permazen/permazen) - Language-natural persistence layer.
 
 ## [5. Awesome Pinned Gists](/content/matchai/awesome-pinned-gists/README.md)
 
@@ -121,7 +121,7 @@
 
 ### Web / Playground
 
-*   :octocat: [Tridactyl (⭐5.4k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
+*   :octocat: [Tridactyl (⭐5.5k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 
 ## [16. Awesome Engineering Team Management](/content/kdeldycke/awesome-engineering-team-management/README.md)
 

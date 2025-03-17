@@ -54,13 +54,13 @@
 
 ### Components & Libraries / UI Layout
 
-*   [vue-virtual-waterfall (⭐151)](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
+*   [vue-virtual-waterfall (⭐159)](https://github.com/lhlyu/vue-virtual-waterfall) - A virtual waterfall component for Vue 3.x.
 
 ## [8. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### CLI and REPL
 
-*   [Taze (⭐2.9k)](https://github.com/antfu/taze) A modern cli tool that keeps your dependencies fresh
+*   [Taze (⭐3k)](https://github.com/antfu/taze) A modern cli tool that keeps your dependencies fresh
 
 ---
 

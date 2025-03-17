@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 11, 2025
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -42,7 +42,13 @@
 
 *   [pinia-plugin-unstorage (⭐1)](https://github.com/litingyes/pinia-plugin-unstorage) - The best persistence plugin with unjs/unstorage for pinia.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [5. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+
+### Index / Marketing Tools
+
+*   [Brevo](https://www.brevo.com/) 🇫🇷 - Email marketing software and CRM.
+
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -52,20 +58,20 @@
 
 *   [@dytesdk/web-core](https://www.npmjs.com/package/@dytesdk/web-core) - This [quickstart](https://docs.dyte.io/guides/livestream/client-setup/angular) shows how to add Dyte's Livestream SDK to your Angular applications.
 
-## [6. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [7. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Status Bar
 
 *   [tmux-current-pane-hostname (⭐2)](https://github.com/tony-sol/tmux-current-pane-hostname) Show current user and hostname in ssh sessions
 *   [tmux-kubectx (⭐4)](https://github.com/tony-sol/tmux-kubectx) Show kubernetes context in statusbar
 
-## [7. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+## [8. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
 
 ### Connectors
 
 *   [wtx (⭐256)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
-## [8. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
+## [9. Awesome Billing](/content/kdeldycke/awesome-billing/README.md)
 
 ### Pricing / Usage-based Pricing
 
@@ -75,13 +81,13 @@
 
 *   [£sd computing](https://en.wikipedia.org/wiki/£sd#Computing) - The IBM 1401 mainframe (1959) optionally supported pounds/shillings/pence (£sd) currency arithmetics in hardware.
 
-## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [10. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Scraping
 
 *   [Corsfix](https://corsfix.com) - CORS Proxy to fetch any web resource and bypass CORS errors.
 
-## [10. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
+## [11. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
@@ -89,4 +95,5 @@
 
 ---
 
+- Prev: [Mar 12, 2025](/content/2025/03/12/README.md)
 - Next: [Mar 10, 2025](/content/2025/03/10/README.md)

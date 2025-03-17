@@ -1,6 +1,6 @@
 # Awesome List Updates on May 16, 2019
 
-13 awesome lists updated today.
+14 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,7 +28,7 @@
 
 ### Miscellaneous
 
-*   [bodge-nuklear (⭐63)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9.6k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [bodge-nuklear (⭐65)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9.7k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / Third-party APIs
 
@@ -48,7 +48,13 @@
 
 *   [A helper for CircuitPython development with Atom (⭐3)](https://github.com/s-light/CircuitPython_Atom_helper) - A helper for the [Atom editor](https://atom.io/).
 
-## [6. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### F Sharp / Phoenix
+
+*   [Functional Programming Textbook](https://www.overleaf.com/read/hcwwdfxvftfp) - Yusuf M Motara (PDF)
+
+## [7. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/README.md)
 
 ### Clocks
 
@@ -76,37 +82,37 @@ Free
 
 Free
 
-## [7. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
+## [8. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 
 ### Tutorials
 
 *   [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/): A 12,000-words-long comprehensive guide for XD beginners and current users.
 
-## [8. Awesome Html5](/content/diegocard/awesome-html5/README.md)
+## [9. Awesome Html5](/content/diegocard/awesome-html5/README.md)
 
 ### Books / WebRTC
 
 *   [Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground)
 
-## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [10. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### NixOS Modules / Zig
 
-*   [nix-darwin (⭐3.5k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
+*   [nix-darwin (⭐3.7k)](https://github.com/LnL7/nix-darwin) - Manage macOS configuration just like on NixOS.
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [11. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Other Awesome Projects
 
 *   [Awesome Modern C++ (⭐12k)](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++.
 
-## [11. Awesome Sre](/content/dastergon/awesome-sre/README.md)
+## [12. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
 ### Service Level Agreement
 
 *   [Earning Our Wings: Stories and Findings From Operating a Large-scale Concourse Deployment](https://medium.com/concourse-ci/earning-our-wings-a0c307fa73e6)
 
-## [12. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [13. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Graphic
 
@@ -117,7 +123,7 @@ Free
 *   [VCL Styles Utils (⭐291)](https://github.com/rruz/vcl-styles-utils). `[Delphi]` Collection of classes and style hooks, which extend, fix QC reports and add new features to the VCL Styles.
     // *Collection of patches/enhancements that promote stock VCL style engine to a new level. Styling for Inno Setup and NSIS also available.*
 
-## [13. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [14. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Static Site Generators
 

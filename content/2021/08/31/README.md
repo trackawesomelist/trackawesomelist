@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 31, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -62,7 +62,17 @@
 
 *   [Lens (⭐16)](https://github.com/syeopite/lens) - A multiformat internationalization (i18n) shard for Crystal. Supports Gettext, Ruby YAML, etc.
 
-## [8. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
+## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Arduino
+
+*   [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) (:card\_file\_box: *archived at unglue.it*)
+
+### Linux / TeX
+
+*   [Ubuntu Server Guide](https://help.ubuntu.com/20.04/serverguide/serverguide.pdf) (PDF)
+
+## [9. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md)
 
 ### APIs and SDKs
 
@@ -213,7 +223,7 @@
 *   [generator-esri-appbuilder-js (⭐181)](https://github.com/Esri/generator-esri-appbuilder-js) - Yeoman generator to help customize Esri's Web AppBuilder.
 *   [koop-cli (⭐11)](https://github.com/koopjs/koop-cli) - Tool to scaffold Koop applications and plugins.
 
-## [9. Awesome Shell](/content/alebcay/awesome-shell/README.md)
+## [10. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 
 ### For Developers / Directory Navigation
 

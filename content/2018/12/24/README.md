@@ -46,7 +46,7 @@
 
 ### Database Drivers
 
-*   [Tortoise ORM (⭐3.3k)](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
+*   [Tortoise ORM (⭐4.9k)](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
 
 ## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

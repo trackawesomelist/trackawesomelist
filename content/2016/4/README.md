@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 25 - Jan 31, 2016
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -582,7 +582,7 @@ git config --global help.autocorrect 1
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐752)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐753)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
@@ -611,41 +611,37 @@ git config --global help.autocorrect 1
 ### Configuration / Web Applications
 
 *   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-*   [phpMyAdmin (⭐7.3k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
+*   [phpMyAdmin (⭐7.4k)](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 
-## [11. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [11. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+
+### Social
+
+*   [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
+
+## [12. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Aggregated Content / Icons Packages and Collections
 
 *   [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
 
-## [12. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
+## [13. Awesome Phalcon](/content/phalcon/awesome-phalcon/week/README.md)
 
 ### ORM
 
 *   [phalcon-boundmodels (⭐4)](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
 
-## [13. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
+## [14. Awesome Backbone](/content/sadcitizen/awesome-backbone/week/README.md)
 
 ### Books
 
 *   [Mastering Backbone.js](http://www.amazon.com/dp/1783288493) by Abiee Echamea
 
-## [14. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [15. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### serialization
 
-*   [rgeo-geojson (⭐184)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
-
-## [15. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
-
-### Generic
-
-*   [Raphaël](http://icons.marekventur.com/)
-
-### Social
-
-*   [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
+*   [rgeo-geojson (⭐190)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
 ## [16. Awesome Jquery](/content/petk/awesome-jquery/week/README.md)
 
@@ -839,7 +835,7 @@ git config --global help.autocorrect 1
 
 *   [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
 *   [Ronn (⭐1.4k)](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
-*   [jsdox (⭐212)](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
+*   [jsdox (⭐211)](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
 *   [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 
 ### Benchmark / Runner
@@ -867,7 +863,21 @@ git config --global help.autocorrect 1
 
 *   [RxJava's repeatWhen and retryWhen, explained](http://blog.danlew.net/2016/01/25/rxjavas-repeatwhen-and-retrywhen-explained/) - `repeatWhen` and `retryWhen` are fairly baffling at first glance. Dan Lew explains the operators in depth.
 
-## [30. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [30. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
+
+### Objective-C / PicoLisp
+
+*   [Object-Oriented Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005149)
+
+### Swift / Play Scala
+
+*   [Hacking with Swift](https://www.hackingwithswift.com)
+
+## [31. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Events
 
@@ -886,7 +896,7 @@ git config --global help.autocorrect 1
 
 *   [SwiftyFORM (⭐1.1k)](https://github.com/neoneye/SwiftyFORM) - Forms that can be validated.
 
-## [31. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [32. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Community
 
@@ -919,17 +929,17 @@ git config --global help.autocorrect 1
 *   [log (⭐11)](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 *   [set-or-print (⭐4)](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
 
-## [32. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [33. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
-*   [pkg-dir (⭐237)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+*   [pkg-dir (⭐240)](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 ### Packages / Date
 
 *   [tz-format (⭐10)](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 
-## [33. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [34. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
@@ -940,7 +950,7 @@ git config --global help.autocorrect 1
 *   [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 *   [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
 
-## [34. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [35. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -952,13 +962,13 @@ git config --global help.autocorrect 1
 *   [hn-cli (⭐459)](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 *   [whereami (⭐162)](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI
 
-## [35. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [36. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Probability and Statistics / Statistics
 
 *   📝 [Glossary of Data Modeling](https://web.archive.org/web/20130523134625/http://www.aiaccess.net/e_gm.htm) - AI Access
 
-## [36. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
+## [37. Motion Ui Design](/content/fliptheweb/motion-ui-design/week/README.md)
 
 ### Guidelines / SVG
 
@@ -966,7 +976,7 @@ git config --global help.autocorrect 1
     *   [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
     *   [Microsoft web framework: Motion](http://getmwf.com/styles/motion.html)
 
-## [37. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [38. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
@@ -974,7 +984,7 @@ git config --global help.autocorrect 1
 *   [wysihtml](http://wysihtml.com/) - Made by Voog
 *   [TinyMCE](http://www.tinymce.com/) - Used by much of the wordpress and drupal community
 
-## [38. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [39. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -988,7 +998,7 @@ git config --global help.autocorrect 1
 
 ### Framework Components
 
-*   [params (⭐365)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
+*   [params (⭐366)](https://github.com/vic/params) - Use Ecto to enforce/validate parameters structure, akin to Rails' strong parameters.
 *   [revision\_plate\_ex (⭐4)](https://github.com/KazuCocoa/revision_plate_ex) - Plug application and middleware that serves endpoint returns application's REVISION.
 
 ### Queue
@@ -1005,9 +1015,9 @@ git config --global help.autocorrect 1
 
 ### Translations and Internationalizations
 
-*   [exromaji (⭐8)](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
+*   [exromaji](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
 
-## [39. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [40. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Coding Style Guides
 
@@ -1015,11 +1025,11 @@ git config --global help.autocorrect 1
 
 ### Core Extensions
 
-*   [Hanami::Utils (⭐172)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
+*   [Hanami::Utils (⭐173)](https://github.com/hanami/utils) - Lightweight, non-monkey-patch class utilities for Hanami and Ruby app.
 
 ### ORM/ODM
 
-*   [Hanami::Model (⭐441)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
+*   [Hanami::Model (⭐442)](https://github.com/hanami/model) - A lean Repository-pattern based ORM framework for Hanami and modern Ruby applications.
 
 ### SEO
 
@@ -1029,7 +1039,7 @@ git config --global help.autocorrect 1
 
 *   [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
 
-## [40. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [41. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Other
 

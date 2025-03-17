@@ -45,7 +45,7 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 ### Regular Expressions
 
-*   [Humane-re (⭐25)](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs. Courtesy of ocaml-re.
+*   [Humane-re (⭐26)](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs. Courtesy of ocaml-re.
 
 ## [4. Awesome Ripple](/content/vhpoet/awesome-ripple/README.md)
 
@@ -82,7 +82,7 @@ Though this article is a few years old, much of its advice is still relevant as 
 
 ### Go Clients
 
-*   [gopencils (⭐452)](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
+*   [gopencils (⭐453)](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
 
 ### Python / Symfony2
 

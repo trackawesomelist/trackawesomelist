@@ -22,7 +22,7 @@
 
 ### Images / Barcode
 
-*   [UIImageColors (⭐3.2k)](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
+*   [UIImageColors (⭐3.3k)](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
 
 ## [4. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

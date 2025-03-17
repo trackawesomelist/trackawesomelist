@@ -44,7 +44,7 @@
 
 ### Database Drivers
 
-*   [aioinflux (⭐159)](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
+*   [aioinflux (⭐160)](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
 
 ## [7. Awesome Vulkan](/content/vinjn/awesome-vulkan/README.md)
 

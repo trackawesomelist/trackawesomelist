@@ -10,7 +10,7 @@
 
 ### Components & Libraries / UI Utilities
 
-*   [vue3-lottie (⭐390)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
+*   [vue3-lottie (⭐398)](https://github.com/megasanjay/vue3-lottie) A component for importing and displaying Lottie animations in Vue 3
 
 ## [2. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Platforms
 
-*   [Node-RED (⭐462)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
+*   [Node-RED (⭐476)](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 
 ## [7. Awesome Nodered](/content/naimo84/awesome-nodered/README.md)
 
@@ -113,11 +113,11 @@
 
 ### Templates / Godot 3
 
-*   [Godot Game Of Life (⭐34)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
+*   [Godot Game Of Life (⭐35)](https://github.com/tavurth/godot-game-of-life) - Conway's *Game of life* using shaders.
 
 ### Plugins and scripts / Godot version unknown
 
-*   [Godot Radial Menu (⭐271)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
+*   [Godot Radial Menu (⭐273)](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 
 ## [14. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 

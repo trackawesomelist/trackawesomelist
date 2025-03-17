@@ -60,7 +60,7 @@
 
 ### Extensions
 
-*   [Next Plugin Graphql (⭐57)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
+*   [Next Plugin Graphql (⭐58)](https://github.com/lfades/next-plugin-graphql) - Next.js plugin for .graphql and .gql files using graphql-tag
 *   [Next With Apollo (⭐765)](https://github.com/lfades/next-with-apollo) - Apollo Graphql integration for Next.js
 
 ---

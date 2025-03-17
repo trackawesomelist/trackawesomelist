@@ -64,7 +64,7 @@
 
 ### Service Programming
 
-*   [Mara (⭐2k)](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
+*   [Mara (⭐2.1k)](https://github.com/mara/data-integration) - A lightweight opinionated ETL framework, halfway between plain scripts and Apache Airflow
 
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

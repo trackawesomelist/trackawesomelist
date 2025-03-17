@@ -39,7 +39,7 @@
 
 ### Programming Languages
 
-*   [C/C++ (⭐60k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+*   [C/C++ (⭐62k)](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 
 ### Back-End Development
 
@@ -49,7 +49,7 @@
 
 ### Distributed Programming
 
-*   [Ray (⭐26k)](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications.
+*   [Ray (⭐35k)](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications.
 
 ---
 

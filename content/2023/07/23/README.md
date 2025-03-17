@@ -22,7 +22,7 @@
 
 ### User Interface toolkits
 
-*   [iUI (⭐110)](https://github.com/isaiahpatton/ui) - Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.
+*   [iUI (⭐112)](https://github.com/isaiahpatton/ui) - Isaiah's cross-platform GUI library for V. Inspired by the syntax of Java's Swing.
 
 ## [4. Awesome Frc](/content/andrewda/awesome-frc/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [richardbizik/nvim-toc (⭐39)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
+*   [richardbizik/nvim-toc (⭐40)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for markdown files.
 
 ### Quickfix / Diagnostics
 

@@ -46,7 +46,7 @@
 
 ### Chat
 
-*   [MessageKit (⭐6k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
+*   [MessageKit (⭐6.1k)](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 
 ### UI / Barcode
 
@@ -56,7 +56,7 @@
 
 ### QA Tools / Runner
 
-*   [prettier (⭐49k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+*   [prettier (⭐50k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## [6. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

@@ -14,9 +14,8 @@
 
 ## [2. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
-### PlayCanvas
+### Documentation
 
-*   [Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
 *   [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
 
 ## [3. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
@@ -29,7 +28,7 @@
 
 ### Marks / Diagnostics
 
-*   [LintaoAmons/bookmarks.nvim (⭐208)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
+*   [LintaoAmons/bookmarks.nvim (⭐223)](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful.
 
 ## [5. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -47,7 +46,7 @@
 
 ### Profiling / Data Profiler
 
-*   [Data Profiler (⭐1.4k)](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
+*   [Data Profiler (⭐1.5k)](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
 
 ## [8. Awesome Ai4lam](/content/AI4LAM/awesome-ai4lam/README.md)
 

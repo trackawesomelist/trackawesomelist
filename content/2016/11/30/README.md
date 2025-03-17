@@ -634,7 +634,7 @@
 
 *   [CashedPages](http://www.cachedpages.com)
 *   [CachedView](http://cachedview.com)
-*   [Wayback Machine Archiver (⭐2.9k)](https://github.com/jsvine/waybackpack)
+*   [Wayback Machine Archiver (⭐3k)](https://github.com/jsvine/waybackpack)
 
 ### Image Search / Steam
 
@@ -814,7 +814,7 @@
 *   [Textures.js](https://riccardoscalco.github.io/textures)
 *   [Tik-tok](https://datanews.github.io/tik-tok)
 *   [Tiki-toki](http://www.tiki-toki.com)
-*   [Timeflow (⭐451)](https://github.com/FlowingMedia/TimeFlow/wiki)
+*   [Timeflow (⭐454)](https://github.com/FlowingMedia/TimeFlow/wiki)
 *   [Timeline](http://timeline.knightlab.com)
 *   [Timeline](http://www.simile-widgets.org/timeline)
 *   [Timetoast](http://www.timetoast.com)
@@ -909,7 +909,7 @@
 ### Offline Browsing / Steam
 
 *   [Cyotek WebCopy](http://www.cyotek.com/cyotek-webcopy) - is a free tool for automatically downloading the content of a website onto your local device.
-*   [gmapcatcher (⭐219)](https://github.com/heldersepu/gmapcatcher)
+*   [gmapcatcher (⭐220)](https://github.com/heldersepu/gmapcatcher)
 *   [Hooey webprint](http://www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/download.html)
 *   [Offliberty](http://offliberty.com) -  is a website that lets you access any online content without a permanent Internet connection.
 *   [Resolver](https://metaproductsrevolver.com)

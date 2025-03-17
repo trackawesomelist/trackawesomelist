@@ -10,7 +10,7 @@
 
 ### Libraries / New Libraries
 
-*   [gymnax](https://github.com/RobertTLange/gymnax) - Reinforcement Learning Environments with the well-known gym API. <img src="https://img.shields.io/github/stars/RobertTLange/gymnax?style=social" align="center">
+*   [gymnax (⭐697)](https://github.com/RobertTLange/gymnax) - Reinforcement Learning Environments with the well-known gym API. <img src="https://img.shields.io/github/stars/RobertTLange/gymnax?style=social" align="center">
 
 ## [2. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
@@ -40,11 +40,11 @@
 
 *   [gorilla-devs/ferium (⭐1.2k)](https://github.com/gorilla-devs/ferium) - Ferium is a fast and feature rich CLI program for downloading and updating Minecraft mods from Modrinth, CurseForge, and GitHub Releases, and modpacks from Modrinth and CurseForge ![ferium build](https://github.com/gorilla-devs/ferium/actions/workflows/build.yml/badge.svg?branch=main)
 
-## [6. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
+## [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Tools and frameworks (a-z↓)
+### Software / Test Data Management
 
-*   [Touca (⭐501)](https://github.com/trytouca/trytouca) - Open source continuous regression testing without the hassle of managing snapshot files.
+*   [Touca (⭐502)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 
 ## [7. Awesome Elm](/content/sporto/awesome-elm/README.md)
 
@@ -56,7 +56,7 @@
 
 ### Notification
 
-*   [svelte-french-toast (⭐909)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
+*   [svelte-french-toast (⭐930)](https://github.com/kbrgl/svelte-french-toast) - Buttery smooth toast notifications for Svelte, inspired by React Hot Toast. Lightweight, customizable, and beautiful by default.
 
 ---
 

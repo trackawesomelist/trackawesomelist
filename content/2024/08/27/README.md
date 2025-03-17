@@ -10,7 +10,7 @@
 
 ### Libraries/Packages/Scripts / R
 
-*   [r-polars-dashboard (⭐3)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
+*   [r-polars-dashboard (⭐2)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
 
 ## [2. Awesome K6](/content/grafana/awesome-k6/README.md)
 
@@ -67,26 +67,26 @@
 
 ### Miscellaneous
 
-*   [imago (⭐52)](https://github.com/tokenrove/imago) -  image manipulation library for Common Lisp.
+*   [imago (⭐54)](https://github.com/tokenrove/imago) -  image manipulation library for Common Lisp.
     *   supports images in png, pcx, portable bitmap (.pnm), Truevision TGA (.tga) and jpeg formats
     *   allows for: resizing, rotation, emboss effect, inverting colors, adjusting contrast, manipulating color elements, composing pictures, drawing simple primitives…
     *   is integrated with common-lisp-jupyter.
 
 ### Date and time / Third-party APIs
 
-*   [calendar-times (⭐10)](https://github.com/copyleft/calendar-times) - a calendar time library implemented on top of the LOCAL-TIME library. It features zoned calendar times and calculations.
+*   [calendar-times (⭐11)](https://github.com/copyleft/calendar-times) - a calendar time library implemented on top of the LOCAL-TIME library. It features zoned calendar times and calculations.
     *   see also: [calendar-date (⭐8)](https://github.com/takagi/calendar-date) - a Gregorian calendar date library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Security / Third-party APIs
 
 *   [secret-values (⭐11)](https://github.com/rotatef/secret-values) -  A Common Lisp library to reduce the risk of accidentally revealing secret values such as passwords.
-    *   [privacy-output-stream (⭐4)](https://github.com/atgreen/privacy-output-stream) - an output stream that masks secret strings with `****`, based on secret-values. MIT.
+    *   [privacy-output-stream (⭐5)](https://github.com/atgreen/privacy-output-stream) - an output stream that masks secret strings with `****`, based on secret-values. MIT.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Artificial Intelligence
 
-*   [OllamaFarm (⭐50)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas
+*   [OllamaFarm (⭐64)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas
 
 ## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [killitar/obscure.nvim (⭐59)](https://github.com/killitar/obscure.nvim) - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
+*   [killitar/obscure.nvim (⭐62)](https://github.com/killitar/obscure.nvim) - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
 
 ### Terminal Integration / Diagnostics
 
@@ -111,7 +111,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [OXY2DEV/foldtext.nvim (⭐66)](https://github.com/OXY2DEV/foldtext.nvim) - Dynamic & stylized foldtext.
+*   [OXY2DEV/foldtext.nvim (⭐75)](https://github.com/OXY2DEV/foldtext.nvim) - Dynamic & stylized foldtext.
 
 ## [7. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 

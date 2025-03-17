@@ -20,7 +20,7 @@
 
 ### Firmware projects / WIP
 
-*   [μLA (⭐800)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
+*   [μLA (⭐817)](https://github.com/dotcypress/ula): Micro Logic Analyzer for RP2040
 
 ## [3. Awesome Directus](/content/directus-community/awesome-directus/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Tools / Community providers
 
-*   [terraform-repl (⭐124)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
+*   [terraform-repl (⭐128)](https://github.com/paololazzari/terraform-repl) - A terraform console wrapper for a better interactive console experience.
 
 ## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Planning Data Specifications / Transportation
 
-*   [OpenSidewalks (⭐50)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
+*   [OpenSidewalks (⭐51)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
 
 ## [7. Awesome React](/content/enaqx/awesome-react/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Back-end API / Playground
 
-*   :octocat: [Actio (⭐265)](https://github.com/crufters/actio/) - The Node.js framework for monoliths and microservices.
+*   :octocat: [Actio (⭐264)](https://github.com/crufters/actio/) - The Node.js framework for monoliths and microservices.
 
 ## [9. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 

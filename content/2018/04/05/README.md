@@ -1,58 +1,49 @@
 # Awesome List Updates on Apr 05, 2018
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [ack](https://beyondgrep.com) - A tool like grep, optimized for programmers. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [archey-osx](http://obihann.github.io/archey-osx/) - An archey script for OS X. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/obihann/archey-osx) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [autojump (⭐16k)](https://github.com/wting/autojump/wiki) - Replace `cd` with intelligent autojump. [![OSS](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/wting/autojump) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [ccat (⭐3.2k)](https://github.com/jingweno/ccat) - The colorizing cat which works similar to cat but displays content with syntax highlighting. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/jingweno/ccat) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-## [2. Awesome Python](/content/vinta/awesome-python/README.md)
+## [1. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ### Interactive Interpreter
 
 *   [Jupyter Notebook (IPython)](https://jupyter.org) - A rich toolkit to help you make the most out of using Python interactively.
     *   [awesome-jupyter (⭐3.9k)](https://github.com/markusschanta/awesome-jupyter)
 
-## [3. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
+## [2. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md)
 
 ### JavaScript
 
 *   [fluent-ffmpeg (⭐6.6k)](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one.
 
-## [4. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+## [3. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ### Libraries / Python
 
 *   [Motor (⭐2.5k)](https://github.com/mongodb/motor) - Official non-blocking Python driver for Tornado or asyncio
 
-## [5. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [4. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Tools / Others
 
 *   [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - Listen to the sound of Wikipedia's recent changes feed.
 
-## [6. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
+## [5. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/README.md)
 
 ### Miscellaneous
 
 *   [EightPointsGuzzleBundle (⭐419)](https://github.com/8p/EightPointsGuzzleBundle) - Integrates Guzzle 6.x, a PHP HTTP Client, into Symfony 2-4 and provides plugins to extend basic functionality.
 
-## [7. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
+## [6. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 
 ### Videos / Single Topics
 
 *   [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - Educational plus entertaining YouTube show covering language features as well as architectural topics amongst others.
 
-## [8. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [7. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Articles
 
@@ -68,13 +59,13 @@
 *   [Ember Watch](https://twitter.com/EmberWatch)
 *   [Erik Bryn](https://twitter.com/ebryn)
 
-## [9. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+## [8. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ### Tutorials / TikZ
 
 *   [LaTeX introductions in languages other than English](https://tex.stackexchange.com/questions/84384/latex-introductions-in-languages-other-than-english/84385) - Collection of introductions in many languages.
 
-## [10. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
+## [9. Awesome Chatops](/content/exAspArk/awesome-chatops/README.md)
 
 ### Videos
 
@@ -84,7 +75,7 @@
 
 *   [PoshBot (⭐492)](https://github.com/poshbotio/PoshBot) (PowerShell)
 
-## [11. Awesome Purescript](/content/passy/awesome-purescript/README.md)
+## [10. Awesome Purescript](/content/passy/awesome-purescript/README.md)
 
 ### Build Tooling
 

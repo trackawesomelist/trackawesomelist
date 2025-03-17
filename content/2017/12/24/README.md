@@ -28,7 +28,7 @@
 
 ### Test-Driven Development
 
-*   [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) by **Sandi Metz** \[32:22]
+*   [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) by **Sandi Metz** (Rails Conf 2013) \[32:22]
 
 ## [5. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

@@ -27,7 +27,7 @@
 
 ### State Machines
 
-*   [state\_machines (⭐822)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
+*   [state\_machines (⭐823)](https://github.com/state-machines/state_machines) - Adds support for creating state machines for attributes on any Ruby class.
 
 ## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -106,7 +106,7 @@
 
 ### Tools/Debugging / Chrome Specific Tools/Debugger
 
-*   [GLSL Shader Editor Extension (⭐604)](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
+*   [GLSL Shader Editor Extension (⭐620)](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
 
 ### Tools/Debugging / Firefox Specific Tools/Debugger
 
@@ -138,11 +138,11 @@
 
 ### Related lists / Particles
 
-*   [awesome (⭐264k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-*   [awesome-opengl (⭐1.9k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
-*   [awesome-vulkan (⭐2.9k)](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
-*   [gamedev (⭐12k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
-*   [graphics-resources (⭐1.7k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
+*   [awesome (⭐347k)](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*   [awesome-opengl (⭐2.2k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+*   [awesome-vulkan (⭐3.4k)](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
+*   [gamedev (⭐14k)](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+*   [graphics-resources (⭐1.8k)](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 
 ## [12. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 

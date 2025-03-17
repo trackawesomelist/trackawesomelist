@@ -20,7 +20,7 @@
 
 ### Feeds
 
-*   [atomex (⭐60)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
+*   [atomex (⭐63)](https://github.com/Betree/atomex) - ATOM feed builder with a focus on standards compliance, security and extensibility.
 
 ### Validations
 
@@ -30,11 +30,11 @@
 
 ### 2D / Firefox Specific Tools/Debugger
 
-*   [p2.js (⭐2.6k)](https://github.com/schteppe/p2.js) - 2D rigid body physics engine written in JavaScript.
+*   [p2.js (⭐2.7k)](https://github.com/schteppe/p2.js) - 2D rigid body physics engine written in JavaScript.
 
 ### Physics / Particles
 
-*   [Ammo.js (⭐3.7k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+*   [Ammo.js (⭐4.3k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 *   [Cannon.js](http://schteppe.github.io/cannon.js/) - Lightweight and simple 3D physics engine for the web.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)

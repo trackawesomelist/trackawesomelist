@@ -6,39 +6,28 @@
 
 
 
-## [1. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
+## [1. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
 
-### Tools / Develop
+### Index / Crowdfunding Platforms
 
-*   [\[Fábio Smuu\] SDK Plugins Construct 2 (⭐4)](https://github.com/FabioSmuu/SDK_PluginC2)
-*   [\[Scirra\] SDK Plugins Construct 3 - Official (⭐14)](https://github.com/Scirra/Construct-Addon-SDK)
-*   [\[ConstructFund\] C3IDE2-cli (⭐0)](https://github.com/ConstructFund/c3ide2-cli)
-
-### Tutorials / Fórum
-
-*   [\[Rafael Trigo\] Construct 3 Tutorials](https://www.construct.net/en/tutorials/construct-tutorials-2525) - list of all my tutorials in Construct 3 by Rafael Trigo
-
-### Tutorials / YouTube
-
-*   [\[Marcos Game Dev\] Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
-*   [\[Marcos Game Dev\] Super Mario Bros. no Construct 2 e 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBou7QX1vZa7dFt6n3mTbnYAD) - Learn how to create Super Mario Bros. mechanics in Construct 2 or 3, faithfully recreated from the NES classic!
-*   [\[Marcos Game Dev\] Curso Metroidvania 1.0](https://www.youtube.com/playlist?list=PLuDpKE2ECBou-kcov-1DdbnNHLjxGiwDp) - The version 1.0 of the Metroidvania Course, recorded in 2018, is now free! Follow the lessons to create your own metroidvania in Construct 2 or 3!
-*   [\[Marcos Game Dev\] Plataforma Gostosinho - Técnicas de Polimento para Construct 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBovsRiINMYss6iOHJYCN8MNe) - It all started with one question: 'Can you polish a game without adding new art?' The 'Plataforma Gostosinho' series answers this by transforming a basic platformer into a game that’s fun to play in Construct 3!
-*   [\[Marcos Game Dev\] Recriando Megaman X no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovmH0TG_ye_Wrg9CATAiB1p) - Learn to create Megaman X mechanics like the iconic X-buster, intense boss battles, and special powers in Construct 2 or 3! Detailed, intermediate-level videos (with some advanced content).
-*   [\[Marcos Game Dev\] Curso Beat'em Up no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovMW6iHOWwa0zy5_g_7KL2l) - Create an amazing beat'em up with combos, local 4-player multiplayer, multiple enemies, and more in Construct 2 or 3! Not recommended for beginners.
-*   [\[Marcos Game Dev\] Criando Roguelike no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6) - Learn to create a roguelike with RANDOM LEVEL GENERATION, multiple enemies, and a complete platformer character! NOT recommended for beginners.
-*   [\[Marcos Game Dev\] Criando Menu Principal no Construct 2](https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U) - Learn to create a main menu that works for almost any game (focus on desktop). Includes fullscreen/window mode, control mapping, language switch, audio settings, and more.
-*   [Marcos Game Dev](https://www.youtube.com/@MarcosGameDev/videos) - Tutorials & more.
+*   [WhyDonate](https://whydonate.com) 🇳🇱 - Raise Money for Charity and Individuals for free.
+*   [JustGiving](https://www.justgiving.com) 🇬🇧 - The worlds leading online fundraising platform, helping charities to make more with GiftAid.
+*   [Goteo](https://www.goteo.org) 🇪🇸 - Open network for crowdfunding, collaborations and training, leader in social innovation.
+*   [Boomerang](https://boomerang.dk) 🇩🇰 - Reward, investment and loan-based crowdfunding platform, 100% Danish-owned.
+*   [Ulule](https://www.ulule.com) 🇫🇷 - Crowdfunding, certified training courses and a store of sustainable brands, to help develop creative, sustainable projects.
+*   [betterplace.org](https://www.betterplace.org) 🇩🇪 - Germany's largest donation platform: non-profit and non-profit-oriented.
+*   [Give\&Fund](https://www.giveandfund.com) 🇬🇷 - Easy-to-use and safe crowdfunding platform that offers you a better way to raise money online.
+*   [RaiseNow](https://www.raisenow.com) 🇨🇭 - Powerful donation platform for nonprofits of all sizes.
 
 ## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### File Explorer / Diagnostics
 
-*   [Enigama/miss.nvim (⭐3)](https://github.com/Enigama/miss.nvim) - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
+*   [Enigama/miss.nvim (⭐7)](https://github.com/Enigama/miss.nvim) - Simple popup with changed `unsaved` files, allowing you to save and open them. Helps to avoid forgetting to add something to GitHub or similar.
 
 ### Utility / Diagnostics
 
-*   [neanvo/buben.nvim (⭐1)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
+*   [neanvo/buben.nvim (⭐5)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
 
 ## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -50,7 +39,7 @@
 
 ### Generators / Other
 
-*   [Astro (⭐49k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
+*   [Astro (⭐50k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
 
 ### ORM / Other
 
@@ -58,10 +47,10 @@
 *   [Sequelize (⭐30k)](https://github.com/sequelize/sequelize) Feature-rich ORM for modern Node.js and TypeScript | PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB...
 *   [Mongoose (⭐27k)](https://github.com/Automattic/mongoose) MongoDB object modeling designed to work in an asynchronous environment.
 *   [TypeORM (⭐35k)](https://github.com/typeorm/typeorm) ORM for TypeScript and JavaScript, Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-*   [Drizzle ORM (⭐26k)](https://github.com/drizzle-team/drizzle-orm) Headless TypeScript ORM with a head. Runs on Node, Bun and Deno.
+*   [Drizzle ORM (⭐27k)](https://github.com/drizzle-team/drizzle-orm) Headless TypeScript ORM with a head. Runs on Node, Bun and Deno.
 *   [Kysely (⭐11k)](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder.
 *   [Knex (⭐20k)](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
-*   [MikroORM (⭐8k)](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
+*   [MikroORM (⭐8.1k)](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
 
 ## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -77,7 +66,7 @@
 
 ### Exercises / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-debug-quest (⭐21)](https://github.com/angular-courses-lab/angular-debug-quest) - Sharpen your skills at fixing bugs in Angular applications for a better understanding of the framework.
+*   [angular-debug-quest (⭐32)](https://github.com/angular-courses-lab/angular-debug-quest) - Sharpen your skills at fixing bugs in Angular applications for a better understanding of the framework.
 
 ### Updating / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -91,4 +80,5 @@
 
 ---
 
+- Prev: [Feb 18, 2025](/content/2025/02/18/README.md)
 - Next: [Feb 16, 2025](/content/2025/02/16/README.md)

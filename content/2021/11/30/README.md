@@ -49,7 +49,7 @@
 
 ### Multimedia content processing
 
-*   [SVT Encore (⭐273)](https://github.com/svt/encore) - Selfhosted video transcoding plattform, built around FFmpeg.
+*   [SVT Encore (⭐274)](https://github.com/svt/encore) - Selfhosted video transcoding plattform, built around FFmpeg.
 
 ## [7. Awesome WebExtensions](/content/fregante/Awesome-WebExtensions/README.md)
 

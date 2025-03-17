@@ -161,7 +161,7 @@
 
 ### Design patterns / Chrome Extensions
 
-*   :octocat: [Design Patterns implementation (⭐5.2k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
+*   :octocat: [Design Patterns implementation (⭐5.3k)](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
 
 ## [14. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 
@@ -171,7 +171,7 @@
 
 ### Python / Reinforcement Learning
 
-*   [DeepMind Lab (⭐7.1k)](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
+*   [DeepMind Lab (⭐7.2k)](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
 *   [ViZDoom (⭐1.8k)](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
 
 ## [15. Guides](/content/NARKOZ/guides/week/README.md)
@@ -587,7 +587,7 @@
 
 ### Plugins / IRC
 
-*   [Symfony-Flex (⭐4.1k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐953)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
+*   [Symfony-Flex (⭐4.2k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐990)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 
 ## [32. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 
@@ -657,8 +657,8 @@
 
 ### References
 
-*   [Google Project ANGLE (⭐3k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
-*   [WebGL Source Code (⭐2.5k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
+*   [Google Project ANGLE (⭐3.6k)](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+*   [WebGL Source Code (⭐2.7k)](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
 
 ### Tools/Debugging
 
@@ -674,7 +674,7 @@
 *   [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217) - Tutorials from the author of *WebGL Up and Running*.
 *   [WebGL Academy](http://www.webglacademy.com/) - Simplified online IDE with automatic indentation, syntax highlighting for HTML, Javascript, GLSL and Python. You can run your code and download your projects.
 *   [WebGL Fundamentals](https://webglfundamentals.org/) - Series of online tutorials with code samples and live demonstrations.
-*   [WebGL 2 Examples (⭐487)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
+*   [WebGL 2 Examples (⭐545)](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 
 ### WebGL 2 / Particles
 

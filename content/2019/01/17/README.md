@@ -8,13 +8,13 @@
 
 ## [1. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / Visual Testing
 
-*   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons and regressions.
+*   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
 
 ## [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Native Apps (open source)
+### Native Apps (open source) / Rust
 
 *   [Offi Directions](https://gitlab.com/oeffi/oeffi) - An Android app that provides trip planning, schedules, live departure times, and disruption information for transport authorities in Europe and beyond.
 
@@ -61,7 +61,7 @@
 
 ### Payment / Barcode
 
-*   [MFCard (⭐365)](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
+*   [MFCard (⭐364)](https://github.com/MobileFirstInc/MFCard) - Easily integrate Credit Card payments in iOS App.
 
 ## [8. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 

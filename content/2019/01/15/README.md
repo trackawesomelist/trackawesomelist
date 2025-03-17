@@ -118,7 +118,7 @@
 
 ### Content Management Systems
 
-*   [Umbraco (⭐209)](https://github.com/umbraco-community/awesome-umbraco#readme)
+*   [Umbraco (⭐216)](https://github.com/umbraco-community/awesome-umbraco#readme)
 
 ## [9. Awesome Umbraco](/content/umbraco-community/awesome-umbraco/README.md)
 

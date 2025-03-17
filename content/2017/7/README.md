@@ -73,7 +73,7 @@
 
 ### conversion
 
-*   [supercluster (⭐2k)](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
+*   [supercluster (⭐2.1k)](https://github.com/mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
 
 ## [10. Awesome Dropwizard](/content/stve/awesome-dropwizard/week/README.md)
 
@@ -202,17 +202,17 @@ git checkout @{-1}
 
 ### Plugins / IRC
 
-*   [Composer-Patches (⭐1.5k)](https://github.com/cweagans/composer-patches) - The plugin applies a patch from a local or remote file to any required package.
+*   [Composer-Patches (⭐1.6k)](https://github.com/cweagans/composer-patches) - The plugin applies a patch from a local or remote file to any required package.
 
 ### Tools / IRC
 
-*   [ComposerRequireChecker (⭐871)](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
+*   [ComposerRequireChecker (⭐930)](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
 
 ## [26. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Presentation Programs
 
-*   [Slide Show (S9) (⭐187)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
+*   [Slide Show (S9) (⭐186)](https://github.com/slideshow-s9/slideshow) - Write your slides / talks / presentations in plain text with markdown formatting conventions and generate (static) web pages; template packs incl. deck.js, impress.js, reveal.js, shower, s6, s5 and more.
 
 ## [27. Nlp with Ruby](/content/arbox/nlp-with-ruby/week/README.md)
 
@@ -360,7 +360,7 @@ Webpage: <http://www.denizlihs.org/>
 
 ### REST and API
 
-*   [plug\_rest (⭐54)](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
+*   [plug\_rest (⭐55)](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
 
 ### Validations
 
@@ -682,11 +682,11 @@ Webpage: <http://www.denizlihs.org/>
 ### C++ / Natural Language Processing
 
 *   [frog (⭐75)](https://github.com/LanguageMachines/frog) - Memory-based NLP suite developed for Dutch: PoS tagger, lemmatiser, dependency parser, NER, shallow parser, morphological analyzer.
-*   [ucto (⭐65)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
+*   [ucto (⭐67)](https://github.com/LanguageMachines/ucto) - Unicode-aware regular-expression based tokenizer for various languages. Tool and C++ library. Supports FoLiA format.
 
 ### C++ / Speech Recognition
 
-*   [Kaldi (⭐14k)](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
+*   [Kaldi (⭐15k)](https://github.com/kaldi-asr/kaldi) - Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers.
 
 ### Java / General-Purpose Machine Learning
 
@@ -741,8 +741,8 @@ Webpage: <http://www.denizlihs.org/>
 
 ### SAS / Demos and Scripts
 
-*   [ML\_Tables (⭐127)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
-*   [enlighten-apply (⭐127)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
+*   [ML\_Tables (⭐129)](https://github.com/sassoftware/enlighten-apply/tree/master/ML_tables) - Concise cheat sheets containing machine learning best practices.
+*   [enlighten-apply (⭐129)](https://github.com/sassoftware/enlighten-apply) - Example code and materials that illustrate applications of SAS machine learning techniques.
 *   [enlighten-integration (⭐60)](https://github.com/sassoftware/enlighten-integration) - Example code and materials that illustrate techniques for integrating SAS with other analytics technologies in Java, PMML, Python and R.
 *   [enlighten-deep (⭐19)](https://github.com/sassoftware/enlighten-deep) - Example code and materials that illustrate using neural networks with several hidden layers in SAS.
 *   [dm-flow (⭐58)](https://github.com/sassoftware/dm-flow) - Library of SAS Enterprise Miner process flow diagrams to help you learn by example about specific data mining topics.

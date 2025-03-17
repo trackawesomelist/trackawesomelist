@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Cabal (⭐836)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
+*   [Cabal (⭐858)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 
 ### Related Lists
 
@@ -72,7 +72,7 @@
 
 ### Plugins
 
-*   [tmux-jump (⭐389)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
+*   [tmux-jump (⭐395)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 
 ## [8. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

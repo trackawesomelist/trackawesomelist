@@ -64,8 +64,7 @@ Webpage: <http://coffeecollective.dk/>
 
 ### Logging
 
-*   [exsentry](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
-*   [honeybadger (⭐181)](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
+*   [honeybadger (⭐182)](https://github.com/honeybadger-io/honeybadger-elixir) - Send logs and custom events to [Honeybadger](https://www.honeybadger.io/).
 
 ### Queue
 

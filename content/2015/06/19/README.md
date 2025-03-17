@@ -22,7 +22,7 @@
 
 ### Scroll / Other
 
-*   [ScrollMenu (⭐201)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
+*   [ScrollMenu (⭐202)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 
 ## [4. Awesome Shell](/content/alebcay/awesome-shell/README.md)
 

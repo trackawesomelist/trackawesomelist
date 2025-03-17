@@ -38,7 +38,7 @@
 
 ## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
-### IO Games
+### Games / IO Games
 
 *   [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 *   [TANX](https://tanx.io) - Online multiplayer tank battle game.

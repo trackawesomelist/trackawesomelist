@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 23, 2024
 
-15 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -21,7 +21,7 @@
 
 ### Code Generation / SRAM
 
-*   [wasm2mpy (⭐124)](https://github.com/vshymanskyy/wasm2mpy) - Compile WebAssembly to native MicroPython `.mpy` files. Allows writing code in various statically compiled languages, and translating them to C for near-native performance.
+*   [wasm2mpy (⭐127)](https://github.com/vshymanskyy/wasm2mpy) - Compile WebAssembly to native MicroPython `.mpy` files. Allows writing code in various statically compiled languages, and translating them to C for near-native performance.
 
 ### IDEs / SRAM
 
@@ -43,13 +43,13 @@
 
 ### Examples
 
-*   [GTruf/Driver-Drowsiness-Detector (⭐3)](https://github.com/GTruf/Driver-Drowsiness-Detector#readme) - Beautiful project logo. Concise and clear project description. Exhaustive TOC. Feature list. Project screenshots and video snippets. Comprehensive informative sections. Useful links. Clear instructions for setting up and building the project. Presence of prepared releases.
+*   [GTruf/Driver-Drowsiness-Detector (⭐4)](https://github.com/GTruf/Driver-Drowsiness-Detector#readme) - Beautiful project logo. Concise and clear project description. Exhaustive TOC. Feature list. Project screenshots and video snippets. Comprehensive informative sections. Useful links. Clear instructions for setting up and building the project. Presence of prepared releases.
 
 ## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
-*   [react-component-library-template (⭐3)](https://github.com/xxhls/react-component-library-template) - A library template for with `React`, `TypeScript`, `Vitest`, `React Testing Library`, `Storybook`, `Biome`, `Stylelint`.
+*   [react-component-library-template (⭐2)](https://github.com/xxhls/react-component-library-template) - A library template for with `React`, `TypeScript`, `Vitest`, `React Testing Library`, `Storybook`, `Biome`, `Stylelint`.
 
 ### Templates / Svelte
 
@@ -61,11 +61,11 @@
 
 ## [7. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / UI & End-to-End Testing
 
-*   [LambdaTest](https://www.lambdatest.com) - An AI-powered unified enterprise test execution cloud platform that helps businesses drastically reduce time to market through faster test execution, ensuring quality releases and accelerated digital transformation
+*   [LambdaTest](https://www.lambdatest.com) - Unified enterprise test execution cloud platform for browser and mobile testing.
 
-### Newsletters / Other
+### Newsletters / Mind Mapping & Documentation
 
 *   [Coding Jag](https://www.lambdatest.com/newsletter) - Your weekly dose of the latest in Testing, Development, CI/CD, and Automation—keeping you ahead of the curve."
 
@@ -73,47 +73,25 @@
 
 ### Database
 
-*   [CrossDB (⭐200)](https://github.com/crossdb-org/crossdb) - Ultra High-performance Lightweight Embedded and Server OLTP RDBMS. \[MPL-2.0] [website](https://crossdb.org/)
+*   [CrossDB (⭐203)](https://github.com/crossdb-org/crossdb) - Ultra High-performance Lightweight Embedded and Server OLTP RDBMS. \[MPL-2.0] [website](https://crossdb.org/)
 
 ### GUI
 
-*   [Saucer (⭐326)](https://github.com/saucer/saucer) - A modern, cross-platform C++ webview library. \[MIT]
+*   [Saucer (⭐347)](https://github.com/saucer/saucer) - A modern, cross-platform C++ webview library. \[MIT]
 
-## [9. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
-
-### Web
-
-*   [npm-compare](https://npm-compare.com) - Easily search and compare packages.
-
-## [10. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
-
-### Projects / API Design
-
-*   [Spectral (⭐2.5k) (⭐2.6k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
-
-### Projects / Integration Frameworks
-
-*   [Ballerina (⭐3.6k) (⭐3.7k)](https://github.com/ballerina-platform/ballerina-lang) - An open-source programming language that simplifies the creation, usage, and combination of network services.
-
-## [11. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
-
-### Resources / Discovery
-
-*   [npm-compare.com](https://npm-compare.com) - Compare and discover npm packages.
-
-## [12. Awesome List](/content/sindresorhus/awesome/README.md)
+## [9. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Regex (⭐259)](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
+*   [Regex (⭐276)](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 
-## [13. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
+## [10. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 
 ### SaaS
 
 *   [Craft](https://www.craft.do/education) \[FREE] - craft.do is an app for taking notes, writing to-do lists, organizing important documents, organizing them.
 
-## [14. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -139,11 +117,17 @@
 
 *   [ngx-french-toast (⭐4)](https://github.com/thiagopg84/ngx-french-toast) - A lightweight and customizable toast library for your Angular 14+ applications. Show informative toast messages to enhance user experience and provide important feedback or collect data with dynamically imported components.
 
-## [15. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [12. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### API / Samples
 
 *   [soul (⭐1.6k)](https://github.com/thevahidal/soul) - Automatic SQLite RESTful and realtime API server.
+
+## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Geographic Data Science with Python](https://geographicdata.science/book/intro.html) - Sergio Rey, Dani Arribas-Bel, Levi John Wolf (HTML)
 
 ---
 

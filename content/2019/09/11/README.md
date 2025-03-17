@@ -34,7 +34,7 @@
 
 ### Self-Hosted Bitcoin Payment Processors
 
-- Processor: [One Time Address (⭐63)](https://github.com/alexk111/One-Time-Address)
+- Processor: [One Time Address (⭐77)](https://github.com/alexk111/One-Time-Address)
 
   Fees: No fees
 

@@ -1,43 +1,240 @@
 # Awesome List Updates on Jan 31, 2025
 
-39 awesome lists updated today.
+40 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+## [1. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+
+### Index / AI
+
+*   [Cradle.bio](https://www.cradle.bio/) 🇳🇱 - AI-driven protein engineering for synthetic biology.
+*   [Gcore](https://gcore.com/) 🇱🇺 - Edge AI, cloud, and content delivery solutions.
+*   [Leya](https://www.leya.law/) 🇸🇪 - AI-powered legal research and contract analysis platform.
+*   [Mistral AI](https://mistral.ai/) 🇫🇷 - Open-source AI models for developers and enterprises.
+*   [Suse](https://www.suse.com/solutions/ai/) 🇩🇪 - Enterprise-grade AI/ML solutions for open-source environments.
+
+### Index / Browsers
+
+*   [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
+*   [Mullvad](https://mullvad.net/en/download/browser/linux) 🇸🇪 - Privacy-focused browser
+*   [Otter Browser](https://otter-browser.org/) 🇵🇱
+
+### Index / CDN
+
+*   [KeyCDN](https://www.keycdn.com) 🇨🇭
+*   [Leaseweb CDN](https://www.leaseweb.com/cdn) 🇳🇱
+*   [Myra CDN](https://www.myra-security.com/en/cdn) 🇩🇪
+*   [OVHcloud CDN](https://www.ovhcloud.com/en/cdn/) 🇫🇷
+
+### Index / Cloud
+
+*   [Aruba](https://www.aruba.it) 🇮🇹 - Cloud hosting and data center services.
+*   [Cozy](https://www.cozy.io) 🇫🇷 - Privacy-first personal cloud for data management.
+*   [datacrunch](https://datacrunch.io/) 🇫🇮 - GPU cloud computing for AI/ML workloads.
+*   [Elastx](https://www.elastx.se) 🇸🇪 - Managed cloud hosting with a focus on sustainability.
+*   [Exoscale](https://www.exoscale.com) 🇨🇭 - Scalable cloud infrastructure for developers.
+*   [Filen](https://www.filen.io) 🇩🇪 - End-to-end encrypted cloud storage.
+*   [Fuga Cloud](https://www.fuga.cloud) 🇳🇱 - OpenStack-based public cloud platform.
+*   [gridscale](https://www.gridscale.io) 🇩🇪 - Flexible IaaS and PaaS solutions.
+*   [Infomaniak kDrive](https://www.infomaniak.com/en/kdrive) 🇨🇭 - Cloud storage with collaboration tools.
+*   [Internxt](https://www.internxt.com) 🇪🇸 - Decentralized cloud storage prioritizing privacy.
+*   [IONOS](https://www.ionos.com) 🇩🇪 - Comprehensive cloud and web hosting services.
+*   [Jottacloud](https://www.jottacloud.com) 🇳🇴 - Cloud backup and file storage.
+*   [Koofr](https://www.koofr.eu) 🇸🇮 - Secure cloud storage with multi-provider integration.
+*   [Nextcloud](https://nextcloud.com/) 🇩🇪 - Self-hosted collaboration and file-sharing platform.
+*   [Open Telekom Cloud](https://open-telekom-cloud.com) 🇩🇪 - Enterprise cloud services by Deutsche Telekom.
+*   [OVHcloud](https://www.ovhcloud.com) 🇫🇷 - Global cloud provider with bare-metal servers.
+*   [pCloud](https://www.pcloud.com/) 🇨🇭 - Lifetime encrypted cloud storage plans.
+*   [Seeweb](https://www.seeweb.it) 🇮🇹 - High-performance Italian cloud hosting.
+*   [STACKIT](https://www.stackit.de) 🇩🇪 - Cloud platform for businesses.
+*   [Tresorit](https://tresorit.com/) 🇨🇭 - End-to-end encrypted file sharing for enterprises.
+*   [UpCloud](https://www.upcloud.com) 🇫🇮 - High-speed cloud infrastructure with maxIOPS.
+
+### Index / Communication Tools
+
+*   [Element (Matrix)](https://element.io/) 🇬🇧 - Secure messaging via the Matrix protocol.
+*   [Jitsi](https://jitsi.org/) 🇫🇷 - Open-source video conferencing and chat.
+*   [Wire](https://wire.com/) 🇨🇭 - Secure enterprise communication platform.
+
+### Index / DNS
+
+*   [ClouDNS](https://www.cloudns.net) 🇧🇬
+*   [deSEC](https://www.desec.io) 🇩🇪
+*   [EuroDNS DNS](https://www.eurodns.com) 🇱🇺
+*   [Exoscale DNS](https://www.exoscale.com/dns) 🇨🇭
+*   [RcodeZero](https://www.rcodezero.at) 🇦🇹
+*   [Scaleway DNS](https://www.scaleway.com/dns) 🇫🇷
+
+### Index / Domain name registrars
+
+*   [Aruba Domains](https://www.aruba.it) 🇮🇹
+*   [Combell Domains](https://www.combell.com) 🇧🇪
+*   [Gandi](https://www.gandi.net) 🇫🇷
+*   [Hostinger Domain](https://www.hostinger.com) 🇱🇹
+*   [Hostpoint Domains](https://www.hostpoint.ch) 🇨🇭
+*   [Infomaniak Domains](https://www.infomaniak.com/en/domains) 🇨🇭
+*   [inwx](https://www.inwx.com) 🇩🇪
+*   [IONOS domains](https://www.ionos.com) 🇩🇪
+*   [netim](https://www.netim.com) 🇫🇷
+*   [Openprovider](https://www.openprovider.com) 🇳🇱
+*   [OVHcloud Domains](https://www.ovhcloud.com) 🇫🇷
+*   [United Domains](https://www.uniteddomains.com) 🇩🇪
+
+### Index / E-commerce Platforms
+
+*   [Mollie](https://www.mollie.com/) 🇳🇱 - Payment gateway for seamless online transactions.
+*   [PrestaShop](https://www.prestashop.com/) 🇫🇷 - Open-source e-commerce platform.
+
+### Index / FinTech
+
+*   [Adyen](https://www.adyen.com/) 🇳🇱 - Global payment processing for businesses.
+*   [Klarna](https://www.klarna.com/) 🇸🇪 - Buy now, pay later shopping solutions.
+*   [N26](https://n26.com/) 🇩🇪 - Mobile-first banking with no hidden fees.
+*   [Revolut](https://www.revolut.com/) 🇬🇧 - Digital banking and currency exchange app.
+*   [Wise (ex TransferWise)](https://wise.com/) 🇬🇧 - Low-cost international money transfers.
+
+### Index / IDEs
+
+*   [BlueJ](https://www.bluej.org/) 🇬🇧 - Java IDE for education and beginners.
+*   [Geany](https://www.geany.org/) 🇩🇪 - Lightweight IDE for multiple programming languages.
+*   [JetBrains](https://www.jetbrains.com/) 🇨🇿 - Developer tools and IDEs for efficient coding.
+
+### Index / Mail Providers
+
+*   [Disroot](https://disroot.org/en/services/email) 🇳🇱 - Privacy-focused email with open-source tools.
+*   [Mailbox.org](https://mailbox.org/) 🇩🇪 - Secure email with ad-free productivity suites.
+*   [Mailfence](https://www.mailfence.com/) 🇧🇪 - Encrypted email and document collaboration.
+*   [Posteo](https://posteo.de/) 🇩🇪 - Eco-friendly email with strong privacy.
+*   [ProtonMail](https://proton.me/mail) 🇨🇭 - Secure email with end-to-end encryption.
+*   [Runbox](https://runbox.com/) 🇳🇴 - Email provider with privacy focus.
+*   [Tutanota](https://tutanota.com/) 🇩🇪 - Encrypted email and calendar service.
+
+### Index / Navigation apps
+
+*   [HERE WeGo Maps & Navigation](https://wego.here.com) 🇳🇱
+*   [komoot](https://www.komoot.com) 🇩🇪
+*   [Magic Earth](https://www.magicearth.com) 🇭🇺
+*   [Mapy.cz](https://www.mapy.cz) 🇨🇿
+*   [OsmAnd](https://osmand.net) 🇨🇿
+*   [Sygic GPS Navigation](https://www.sygic.com) 🇸🇰
+*   [TomTom GO Navigation](https://www.tomtom.com) 🇳🇱
+
+### Index / Operating Systems (OS)
+
+*   [Canonical (Ubuntu)](https://canonical.com/) 🇬🇧 - Ubuntu Linux distribution and services.
+*   [KDE (Plasma Desktop)](https://kde.org/) 🇩🇪 - Customizable desktop environment for Linux.
+*   [SUSE](https://www.suse.com/) 🇩🇪 - Enterprise-grade Linux distribution.
+*   [UBports (Ubuntu Touch)](https://ubports.com/) 🇩🇪 - Mobile OS based on Ubuntu.
+
+### Index / Password manager services
+
+*   [heylogin](https://www.heylogin.com) 🇩🇪
+*   [Hypervault](https://www.hypervault.com) 🇧🇪
+*   [Padloc](https://padloc.app) 🇩🇪
+*   [Passbolt](https://www.passbolt.com) 🇫🇷
+*   [Password Depot](https://www.password-depot.com) 🇩🇪
+*   [pCloud Pass](https://www.pcloud.com/pass) 🇨🇭
+*   [Proton Pass](https://proton.me/pass) 🇨🇭
+
+### Index / Productivity Tools
+
+*   [CryptPad](https://cryptpad.fr/) 🇫🇷 - End-to-end encrypted collaboration suite.
+*   [Formbricks](https://formbricks.com/) 🇩🇪 - Open-source survey and feedback tool.
+*   [Joplin](https://joplinapp.org/) 🇫🇷 - Note-taking app with sync and encryption.
+*   [LibreOffice](https://www.libreoffice.org/) 🇩🇪 - Free and open-source office suite.
+*   [OnlyOffice](https://www.onlyoffice.com/) 🇱🇻 - Collaborative office suite for teams.
+
+### Index / Search engine
+
+*   [Ecosia](https://www.ecosia.org) 🇩🇪 - Carbon-neutral search engine planting trees.
+*   [Qwant](https://www.qwant.com) 🇫🇷 - Privacy-respecting search engine from France.
+*   [Startpage](https://www.startpage.com) 🇳🇱 - Private search with Google results.
+*   [Swisscows](https://www.swisscows.com) 🇨🇭 - Family-friendly search engine with no tracking.
+
+### Index / Translation services
+
+*   [DeepL](https://www.deepl.com) 🇩🇪 - AI-powered translation with high accuracy.
+*   [eTranslation](https://ec.europa.eu/cefdigital/wiki/display/ETRANSLATION/eTranslation) 🇧🇪
+*   [ModernMT](https://www.modernmt.com) 🇮🇹 - Adaptive machine translation for enterprises.
+*   [Reverso](https://www.reverso.net) 🇫🇷 - Context-aware translation and language tools.
+
+### Index / VPS
+
+*   [AlphaVPS](https://www.alphavps.com) 🇧🇬
+*   [Aruba Cloud](https://www.arubacloud.com) 🇮🇹
+*   [cloudscale](https://www.cloudscale.ch) 🇨🇭
+*   [Combell Cloud](https://www.combell.com/en/cloud) 🇧🇪
+*   [Contabo](https://www.contabo.com) 🇩🇪
+*   [Hetzner](https://www.hetzner.com) 🇩🇪
+*   [netcup](https://www.netcup.eu) 🇩🇪
+*   [Tilaa](https://www.tilaa.com) 🇳🇱
+*   [V.PS](https://www.v.ps) 🇳🇱
+*   [Virtua.Cloud](https://www.virtua.cloud) 🇫🇷
+
+### Index / VPN
+
+*   [AirVPN](https://www.airvpn.org) 🇮🇹 - Privacy-focused VPN with open-source ethos.
+*   [F‑Secure FREEDOME VPN](https://www.f-secure.com) 🇫🇮 - VPN with malware blocking.
+*   [Mullvad VPN](https://www.mullvad.net) 🇸🇪 - No-logs VPN with anonymous accounts.
+*   [OctoVPN](https://www.octovpn.com) 🇩🇰 - High-performance gaming VPN with DDoS protection.
+*   [Xeovo](https://www.xeovo.com) 🇫🇮 - Privacy-focused VPN with anonymous payments.
+
+### Index / Web Analytics
+
+*   [Alceris](https://www.alceris.com) 🇫🇷 - AI-driven analytics for web performance and SEO.
+*   [Analyzati](https://analyzati.com) 🇪🇸 - Privacy-friendly web analytics for businesses.
+*   [digistats](https://digistats.io) 🇩🇪 - Analytics with real-time tracking.
+*   [Dreamdata](https://www.dreamdata.io) 🇩🇰 - B2B revenue attribution and data platform.
+*   [etracker](https://www.etracker.com) 🇩🇪 - Visitor analytics and heatmaps.
+*   [fusedeck](https://fusedeck.com) 🇨🇭 - Swiss real-time tracking and analytics.
+*   [Friendly Analytics](https://friendlyanalytics.com) 🇨🇭 - Open-source and privacy-focused analytics.
+*   [Insights](https://insights.ai) 🇳🇱 - AI-driven data analytics and reporting.
+*   [Matomo by Stackhero](https://www.stackhero.io) 🇫🇷 - Managed Matomo analytics hosting.
+*   [Mouseflow](https://www.mouseflow.com) 🇩🇰 - Session replay and heatmaps for UX analysis.
+*   [nilly](https://nilly.com) 🇧🇪 - Privacy-first analytics with simple dashboards.
+*   [Offen](https://offen.dev) 🇩🇪 - Self-hosted web analytics with user-first privacy.
+*   [Pirsch](https://pirsch.io) 🇩🇪 - Simple, cookie-free, and GDPR-compliant analytics.
+*   [SEAL Metrics](https://sealmetrics.com) 🇪🇸 - Cookieless web analytics for GDPR compliance.
+*   [Sitesights](https://sitesights.com) 🇩🇪 - privacy-friendly analytics.
+*   [Stormly](https://stormly.com) 🇳🇱 - AI-powered business intelligence platform.
+*   [Swetrix](https://swetrix.com) 🇺🇦 - Lightweight analytics with real-time tracking.
+*   [TelemetryDeck](https://telemetrydeck.com) 🇩🇪 - Privacy-first telemetry for apps.
+*   [Visitor Analytics](https://www.visitor-analytics.io) 🇷🇴 - Website analytics and behavior tracking.
+
+## [2. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-ts (⭐21)](https://github.com/drumtorben/polars-ts/tree/main) - Polars Time Series Extension that offers a wide range of metrics, feature extractors, and various tools for time series forecasting by [@drumtorben](https://github.com/drumtorben).
+*   [polars-ts (⭐24)](https://github.com/drumtorben/polars-ts/tree/main) - Polars Time Series Extension that offers a wide range of metrics, feature extractors, and various tools for time series forecasting by [@drumtorben](https://github.com/drumtorben).
 
 ### Resources / Blog posts
 
 *   [Tutorials about Polars](https://sparkbyexamples.com/category/polars/) - A list of blog posts on Polars topics by [@sparkbyexamples](https://github.com/sparkbyexamples).
 *   [How to Deal With Missing Data in Polars](https://realpython.com/polars-missing-data/) - A post that covers practical techniques for managing missing data with Polars by [Ian Eyre](https://realpython.com/team/ieyre/).
 *   [Polars intro](https://rparkr.github.io/polars-intro/) A short demo that introduces the Polars dataframe library through a marimo notebook by [@rparkr](https://github.com/rparkr).
-*   [Build a Decision Tree in Polars from Scratch](https://towardsdatascience.com/build-a-decision-tree-in-polars-from-scratch-d48892926ecf) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here (⭐3)](https://github.com/tocab/efficient-trees).
 
-## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [3. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Tools / Services
 
-*   [LangFair (⭐151)](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
+*   [LangFair (⭐174)](https://github.com/cvs-health/langfair): LangFair is a Python library for conducting use-case-specific LLM bias and fairness assessments ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/langfair?style=social)
 
-## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Bayesian Modeling / Generative Model
 
 *   [Object Perception as Bayesian Inference](https://www.annualreviews.org/content/journals/10.1146/annurev.psych.55.090902.142005) - ***Annual Review of Psychology***, 2004. \[[All Versions](https://scholar.google.com/scholar?cluster=1611451804975333652)]. \[[Preprint](https://www.cs.jhu.edu/~ayuille/pubs/ucla/A189_dkersten_ARP2004.pdf)]. We perceive the shapes and material properties of objects quickly and reliably despite the complexity and objective ambiguities of natural images. Typical images are highly complex because they consist of many objects embedded in background clutter. Moreover, the image features of an object are extremely variable and ambiguous owing to the effects of projection, occlusion, background clutter, and illumination. The very success of everyday vision implies neural mechanisms, yet to be understood, that discount irrelevant information and organize ambiguous or noisy local image features into objects and surfaces. Recent work in Bayesian theories of visual perception has shown how complexity may be managed and ambiguity resolved through the task-dependent, probabilistic integration of prior object knowledge with image features.
 
-## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### DNS / Steam
 
-*   [Columbus Project (⭐29)](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
+*   [Columbus Project (⭐31)](https://github.com/elmasy-com/columbus) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
 
-## [5. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+## [6. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ### Software Development
 
@@ -45,15 +242,15 @@
 
 ### Methodologies
 
-*   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** \[47:53]
+*   [Extreme Product Development](https://www.youtube.com/watch?v=U6TA7atF4Y0) by **Peter Hilton** (Devoxx UK 2024) \[47:53]
 
-## [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+## [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Pastebin and Secret Sharing
 
 *   [crypt.fyi](https://crypt.fyi) - Ephemeral zero-knowledge sensitive data sharing platform with web, cli, and chrome-extension clients
 
-## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Peripheral Access Crates / Raspberry Pi Silicon
 
@@ -84,26 +281,26 @@
 
 *   [`sparkfun-pro-micro-rp2040`](https://github.com/rp-rs/rp-hal-boards) - Board Support Crate for the RP2040 based Sparkfun Pro Micro.
 
-## [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### LispWorks / Third-party APIs
 
-*   [lw-plugins (⭐22)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
+*   [lw-plugins (⭐26)](https://github.com/apr3vau/lw-plugins) -  LispWorks Plugins by April & May. OBSD.
     *   terminal integration, code folding, side tree, markdown highlighting, Nerd Fonts, fuzzy-matching, enhanced directory mode, expand region, pair editing, SVG rendering…
 
-## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
-*   [KOMIHASH (⭐207)](https://github.com/avaneev/komihash) - Very fast, high-quality hash function, discrete-incremental and streamed hashing-capable. \[MIT]
+*   [KOMIHASH (⭐209)](https://github.com/avaneev/komihash) - Very fast, high-quality hash function, discrete-incremental and streamed hashing-capable. \[MIT]
 
-## [10. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [11. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### HTTP
 
 *   [finch (⭐1.3k)](https://github.com/sneako/finch) - An HTTP client with a focus on performance, built on top of Mint and NimblePool.
 
-## [11. Awesome Go](/content/avelino/awesome-go/README.md)
+## [12. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Networking
 
@@ -117,74 +314,29 @@
 
 *   [How to Implement Role-Based Access Control (RBAC) Authorization in Golang](https://www.permit.io/blog/role-based-access-control-rbac-authorization-in-golang) - A guide to implementing Role-Based Access Control (RBAC) in Golang, including code examples, covering various methods to secure app endpoints with role-based authorization.
 
-## [12. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [13. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Resources / Podcasts
 
 *   [Django Brew](https://djangobrew.com/) - A fun, caffeine-powered podcast about the Django web framework by Adam Hill and Sangeeta Jadoonanan!
 
-## [13. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
+## [14. Awesome Python Typing](/content/typeddjango/awesome-python-typing/README.md)
 
 ### Tools / Mypy plugins
 
 *   [pydantic](https://docs.pydantic.dev/latest/integrations/mypy/) - Plugin for additional [Pydantic](https://docs.pydantic.dev/latest/) support.
 
-## [14. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [15. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
-*   [Boomi Cloud API Management](https://developer.mashery.com/) - A cloud-native API platform that enables you to deploy APIs anywhere and manage them from everywhere.
-*   [Gravitee.io API Management (⭐215) (⭐212)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [WSO2 API Manager (⭐875) (⭐873)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+*   [Boomi Cloud API Management](https://developer.mashery.com/) - A cloud-native platform enabling seamless API deployment and centralized management with strong integration capabilities.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐858) (⭐855)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐214) (⭐214)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 *   [Swagger Editor (⭐9k) (⭐9k)](https://github.com/swagger-api/swagger-editor) - Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.
 
-### Projects / API Documentation
-
-*   [DapperDox (⭐413) (⭐412)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-*   [OpenAPI Explorer (⭐320) (⭐318)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
-*   [Zudoku (⭐131) (⭐128)](https://github.com/zuplo/zudoku) - An open-source, OpenAPI powered, highly customizable API documentation framework for building quality developer experiences.
-
-### Projects / API Gateway
-
-*   [Gloo Edge (⭐49) (⭐39)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
-
-### Projects / API Testing
-
-*   Mocking tools
-    *   [Imposter (⭐379) (⭐377)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
-    *   [Microcks (⭐1.4k) (⭐1.5k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
-    *   [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
-    *   [Mockbin (⭐102) (⭐100)](https://github.com/zuplo/mockbin) - Easily generate custom endpoints to test HTTP requests, and view the request logs from that API for free.
-    *   [Mockoon (⭐6.7k) (⭐6.8k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
-    *   [MockServer (⭐4.6k) (⭐4.7k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
-    *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
-    *   [Prism (⭐4.4k) (⭐4.4k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
-    *   [WireMock (⭐6.4k) (⭐6.4k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
-
-### Projects / Data Mapping Solution
-
-*   [AltasMap (⭐200) (⭐199)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
-
-### Projects / Messaging
-
-*   [Apache Qpid (⭐56) (⭐57)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
-*   [Redpanda (⭐9.9k) (⭐9.9k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
-
-### Resources / Data Formats
-
-*   [NDJSON (⭐702) (⭐701)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐362) (⭐359)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
-### Resources / Structure and Validation
-
-*   [JSON Schema (⭐4k) (⭐4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
-
-## [15. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Artificial Intelligence
 
@@ -202,7 +354,7 @@
 
 *   [STranslate (⭐2.8k)](https://github.com/ZGGSONG/STranslate) - STranslate is a ready-to-go translation ocr tool developed with WPF.
 
-## [16. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [17. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Debugging Tools & Learning
 
@@ -213,31 +365,31 @@
 *   [IPLD Explorer](https://explore.ipld.io)
 *   [IPNS Inspector (⭐3)](https://github.com/ipfs/ipns-inspector)
 
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Productivity
 
 *   [Launchy](https://apple.co/3PLI2AH) - An app launcher and switcher that utilizes a radial menu.
 
-## [18. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [19. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
 ### Analytics
 
 *   [Embrace](http://embrace.io) - Mobile observability, built on OpenTelemetry, to provide user-focused, reliable apps.
 
-## [19. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [20. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Productivity
 
 *   [Only Contacts (⭐1)](https://github.com/Ehtiram-Ullah/Contacts_app) - A contact management app by [Ehtiram Ullah](https://github.com/Ehtiram-Ullah).
 
-## [20. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+## [21. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ### Books
 
 *   [The Tao of Ansible: Mastering Automation with Simplicity and Grace](https://www.amazon.co.uk/Tao-Ansible-Mastering-Automation-Simplicity/dp/B0DTTTM3XG) - A guide to Ansible that emphasizes simplicity, elegance, and the philosophy of automation without complexity.
 
-## [21. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [22. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Search & Discovery
 
@@ -248,7 +400,7 @@
 
 *   [httpreserve.info](https://httpreserve.info) - Service to return the status of a web page or save it to the Internet Archive. HTTPreserve includes disambiguation of well-known short link services. It returns JSON via the browser or command line via CURL using GET. Describes web sites using earliest and latest dates in the Internet Archive and demonstrates the construction of Robust Links in its output using that range. (Golang). *(Stable)*
 
-## [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [23. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Libraries / Rust
 
@@ -258,32 +410,32 @@
 
 *   [gtfs-rt](https://crates.io/crates/gtfs-rt) - Rust crate to read, write, and manipulate GTFS-Realtime data
 
-## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [24. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Automation
 
-*   [ChannelTube (⭐157)](https://github.com/TheWicklowWolf/ChannelTube) `⚠` - Download video or audio from YouTube channels on a schedule via yt-dlp. `AGPL-3.0` `Docker`
+*   [ChannelTube (⭐188)](https://github.com/TheWicklowWolf/ChannelTube) `⚠` - Download video or audio from YouTube channels on a schedule via yt-dlp. `AGPL-3.0` `Docker`
 
 ### Software / Feed Readers
 
-*   [Feeds Fun](https://feeds.fun/) - News reader with tags, scoring, and AI. ([Source Code (⭐60)](https://github.com/Tiendil/feeds.fun)) `BSD-3-Clause` `Python`
+*   [Feeds Fun](https://feeds.fun/) - News reader with tags, scoring, and AI. ([Source Code (⭐84)](https://github.com/Tiendil/feeds.fun)) `BSD-3-Clause` `Python`
 
 ### Software / Task Management & To-do Lists
 
-*   [4ga Boards](https://4gaboards.com) - Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity. ([Demo](https://demo.4gaboards.com), [Source Code (⭐67)](https://github.com/RARgames/4gaBoards)) `MIT` `Nodejs/Docker/K8S`
+*   [4ga Boards](https://4gaboards.com) - Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity. ([Demo](https://demo.4gaboards.com), [Source Code (⭐95)](https://github.com/RARgames/4gaBoards)) `MIT` `Nodejs/Docker/K8S`
 *   [Tegon](https://tegon.ai) `⚠` - Dev-first issue tracking tool (alternative to Jira, Linear). ([Source Code (⭐1.7k)](https://github.com/tegonhq/tegon)) `AGPL-3.0` `Docker`
 
 ### Software / Time Tracking
 
-*   [Ever Gauzy](https://gauzy.co) - Open business management platform for collaborative, on-demand and sharing economies (ERP/CRM/HRM/ATS/PM). ([Demo](https://demo.gauzy.co), [Source Code (⭐2.4k)](https://github.com/ever-co/ever-gauzy)) `AGPL-3.0` `Docker/Nodejs`
+*   [Ever Gauzy](https://gauzy.co) - Open business management platform for collaborative, on-demand and sharing economies (ERP/CRM/HRM/ATS/PM). ([Demo](https://demo.gauzy.co), [Source Code (⭐2.5k)](https://github.com/ever-co/ever-gauzy)) `AGPL-3.0` `Docker/Nodejs`
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [25. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Authentication, Authorization, and User Management
 
 *   [Permit.io](https://permit.io) - Auhtorization-as-a-service provider platform enabling RBAC, ABAC, and ReBAC for scalable microservices with real-time updates and a no-code policy UI. A 1000 Monthly Active User free tier.
 
-## [25. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+## [26. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ### Mobile Development
 
@@ -299,26 +451,26 @@
 
 *   [University Degree Roadmap (⭐107)](https://github.com/IlIllII/collecobrary) - Roadmap for taking online university courses in various degree subjects [<img src="https://img.shields.io/badge/Roadmap-2024-green.svg">](https://github.com/IlIllII/collecobrary).
 
-## [26. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [27. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [HP-75 Plotter ROM External Reference Specification (1982) (PDF)](https://literature.hpcalc.org/community/hp75-plotter-ers.pdf)
 
-## [27. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [28. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Physics
 
-*   [slick (⭐17)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
+*   [slick (⭐19)](https://github.com/erinmaus/slick/) - A simple to use polygon collision library inspired by bump.lua.
 
-## [28. Awesome Godot](/content/godotengine/awesome-godot/README.md)
+## [29. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
 ### Templates / Godot 4
 
-*   [MechanicalFlower Godot Template (⭐29)](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
-*   [Takin Godot Template (⭐111)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
+*   [MechanicalFlower Godot Template (⭐35)](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
+*   [Takin Godot Template (⭐171)](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
-## [29. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [30. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### YouTube Channels
 
@@ -338,37 +490,37 @@
 
 ### Scaffold
 
-*   [template-svelte (⭐54)](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
+*   [template-svelte (⭐59)](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
 
 ### HTTP Requests / Form Components
 
 *   [tanstack-svelte-query](https://tanstack.com/query/latest/docs/svelte/overview) - Framework agnostic type-safe query and mutation library for Svelte.
 
-## [30. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [31. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Projects Using Vue.js / Open Source
 
-*   [MyIP (⭐7.1k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
-*   [fylepad (⭐95)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
+*   [MyIP (⭐7.7k)](https://github.com/jason5ng32/MyIP) - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more.
+*   [fylepad (⭐142)](https://github.com/imrofayel/fylepad) - a notepad with powerful rich-text editing, built with Vue.
 
 ### Components & Libraries / UI Components
 
-*   [hy-vue-gantt (⭐4)](https://github.com/Xeyos88/HyVueGantt) - A powerful and flexible Gantt chart component for Vue 3 applications.
-*   [vue3-social-sharing (⭐12)](https://github.com/hedint/vue3-social-sharing) - Style agnostic Vue 3 plugin for social sharing your links on major social networks.
+*   [hy-vue-gantt (⭐7)](https://github.com/Xeyos88/HyVueGantt) - A powerful and flexible Gantt chart component for Vue 3 applications.
+*   [vue3-social-sharing (⭐14)](https://github.com/hedint/vue3-social-sharing) - Style agnostic Vue 3 plugin for social sharing your links on major social networks.
 *   [vue-progress-circle (⭐3)](https://github.com/keiwen/vue-progress-circle) - Circle progress bar component for vue3
 *   [vue-roller-picker (⭐0)](https://github.com/keiwen/vue-roller-picker) - Roll-designed selector component for vue3
-*   [vue-enhanced-check (⭐17)](https://github.com/keiwen/vue-enhancedCheck) - Enhanced checkboxes / radio input + toggle, components for vue 3
+*   [vue-enhanced-check (⭐16)](https://github.com/keiwen/vue-enhancedCheck) - Enhanced checkboxes / radio input + toggle, components for vue 3
 *   [vue-integer-plusminus (⭐18)](https://github.com/keiwen/vue-integer-plusminus) - Integer input component for vue3 with increment and decrement buttons, fitting as spinbutton, allowing keyboard functionalities
 
 ### Components & Libraries / UI Utilities
 
-*   [vue-to-counter (⭐0)](https://github.com/siaikin/vue-to-counter) Scroll strings, numbers, dates like a slot machine.
+*   [vue-to-counter (⭐1)](https://github.com/siaikin/vue-to-counter) Scroll strings, numbers, dates like a slot machine.
 
 ### Components & Libraries / Utilities
 
-*   [tauri-plugin-pinia (⭐26)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri.
+*   [tauri-plugin-pinia (⭐36)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri.
 
-## [31. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [32. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -381,12 +533,12 @@
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [esbuild Bundle Size Analyzer](https://esbuild.github.io/analyze/) - Visualize the contents of your esbuild bundle.
-*   [ngx-dev-toolbar (⭐6)](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
+*   [ngx-dev-toolbar (⭐7)](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
 *   [ngx-rename (⭐2)](https://github.com/Khumozin/ngx-rename) - This repository contains PowerShell and Bash scripts to rename an Angular project folder and update relevant files, such as angular.json, package.json, tsconfig.json, and other configuration files.
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-reactify (⭐3)](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
+*   [ngx-reactify (⭐4)](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -400,7 +552,7 @@
 
 *   [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
 
-## [32. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [33. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Templates / React
 
@@ -410,73 +562,73 @@
 
 *   [vite-plugin-builder (⭐1)](https://github.com/yracnet/vite-plugin-builder) - Enable dual compilation for Server-Side Rendering (SSR) and Client-Side Rendering (CSR).
 
-## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Completion / Diagnostics
 
-*   [Saghen/blink.cmp (⭐3.2k)](https://github.com/Saghen/blink.cmp) - Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
+*   [Saghen/blink.cmp (⭐3.5k)](https://github.com/Saghen/blink.cmp) - Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
 
 ### AI / Diagnostics
 
-*   [Davidyz/VectorCode (⭐59)](https://github.com/davidyz/vectorcode) - Supercharge your LLM experience with repository-level RAG.
-*   [dlants/magenta.nvim (⭐139)](https://github.com/dlants/magenta.nvim) - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
+*   [Davidyz/VectorCode (⭐128)](https://github.com/davidyz/vectorcode) - Supercharge your LLM experience with repository-level RAG.
+*   [dlants/magenta.nvim (⭐170)](https://github.com/dlants/magenta.nvim) - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
 
 ### Color / Diagnostics
 
-*   [xzbdmw/colorful-menu.nvim (⭐210)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+*   [xzbdmw/colorful-menu.nvim (⭐262)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
 ### Note Taking / Diagnostics
 
-*   [lfilho/note2cal.nvim (⭐14)](https://github.com/lfilho/note2cal.nvim) - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
+*   [lfilho/note2cal.nvim (⭐16)](https://github.com/lfilho/note2cal.nvim) - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
 
 ### Utility / Diagnostics
 
 *   [0xJohnnyboy/scretch.nvim (⭐31)](https://github.com/0xJohnnyboy/scretch.nvim) - Create and manage scratch files, scratch templates, with picker integrations.
-*   [theKnightsOfRohan/hexer.nvim (⭐1)](https://github.com/theKnightsOfRohan/hexer.nvim) - Easily convert between binary representations without a conversion table.
+*   [theKnightsOfRohan/hexer.nvim (⭐4)](https://github.com/theKnightsOfRohan/hexer.nvim) - Easily convert between binary representations without a conversion table.
 
 ### Debugging / Diagnostics
 
-*   [igorlfs/nvim-dap-view (⭐199)](https://github.com/igorlfs/nvim-dap-view) - A modern, minimalistic UI for nvim-dap.
+*   [igorlfs/nvim-dap-view (⭐272)](https://github.com/igorlfs/nvim-dap-view) - A modern, minimalistic UI for nvim-dap.
 
-## [34. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [arc-search (⭐0)](https://github.com/michaelsousajr/zsh-arc-search) - Enables quick searches using Arc browser directly from your terminal. Features URL encoding for search terms.
+*   [arc-search (⭐1)](https://github.com/michaelsousajr/zsh-arc-search) - Enables quick searches using Arc browser directly from your terminal. Features URL encoding for search terms.
 *   [gitignore (valerius21) (⭐0)](https://github.com/valerius21/omz-gitignore) - [oh-my-zsh](https://ohmyz.sh)'s gitignore plugin extracted to be standalone
-*   [gitignore (voronkovich) (⭐52)](https://github.com/voronkovich/gitignore.plugin.zsh) - Plugin for creating `.gitignore` files.
+*   [gitignore (voronkovich) (⭐53)](https://github.com/voronkovich/gitignore.plugin.zsh) - Plugin for creating `.gitignore` files.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [jmtech (⭐1)](https://github.com/jmaaltech/jmtech-zsh-theme) - Customizable colors and symbols. Includes decorators for `git` status, exit status of last command run, `gpg` signing information and timestamps. Requires a [Nerd Font (⭐56k)](https://github.com/ryanoasis/nerd-fonts) for the `git` status icons.
+*   [jmtech (⭐1)](https://github.com/jmaaltech/jmtech-zsh-theme) - Customizable colors and symbols. Includes decorators for `git` status, exit status of last command run, `gpg` signing information and timestamps. Requires a [Nerd Font (⭐57k)](https://github.com/ryanoasis/nerd-fonts) for the `git` status icons.
 *   [sdt (⭐0)](https://github.com/sdlea/omz-theme-sdt) - Includes decorators for current directory and `git` status.
 
-## [35. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [36. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Schema / Diagrams
 
 *   [Liam ERD (⭐337)](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
 
-## [36. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
+## [37. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
 ### Resources / Podcasts
 
 *   [Django Chat: Dawn Wages](https://djangochat.com/episodes/wagtail-react-gatsby-dawn-wages-RaD8k37m) - An interview with Dawn Wages, a core Wagtail team member. Discussion about Wagtail, React and Gatsby.
 *   [Django Chat: Thibaud Colas](https://djangochat.com/episodes/thibaud-colas-2025-dsf-board-nominations) - An interview with a core team member of Wagtail, discussing the current status of Django, upcoming DSF Board elections, Wagtail roadmap & community opportunities.
 
-## [37. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [38. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Feature Flags
 
 *   [Bucket](https://bucket.co) - Purpose-built feature flagging for B2B SaaS products.
 
-## [38. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [39. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### DevTools / Other external resources
 
 *   [Liam ERD](https://liambx.com/) - Generate Beautiful ER-Diagrams from your schema.rb. Using ruby/prism WASM with Node.js.
 
-## [39. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
+## [40. Awesome Docker](/content/veggiemonk/awesome-docker/README.md)
 
 ### Terminal / Terminal UI
 
@@ -484,4 +636,5 @@
 
 ---
 
-- Next: [Jan 22, 2025](/content/2025/01/22/README.md)
+- Prev: [Feb 01, 2025](/content/2025/02/01/README.md)
+- Next: [Jan 25, 2025](/content/2025/01/25/README.md)

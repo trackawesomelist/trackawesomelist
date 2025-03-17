@@ -10,13 +10,13 @@
 
 ### Software Development
 
-*   [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** (Clojure/Conf 2013) \[52:43]
+*   [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** (Clojure/Conj 2013) \[52:43]
 
 ## [2. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Validation / Runner
 
-*   [validatr (⭐278)](https://github.com/jaymorrow/validatr/) - Cross Browser HTML5 Form Validation.
+*   [validatr (⭐279)](https://github.com/jaymorrow/validatr/) - Cross Browser HTML5 Form Validation.
 
 ---
 

@@ -52,32 +52,32 @@
 
 ### Deep Learning / PyTorch
 
-*   [ChemicalX (⭐708)](https://github.com/AstraZeneca/chemicalx) - A PyTorch-based deep learning library for drug pair scoring. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
+*   [ChemicalX (⭐727)](https://github.com/AstraZeneca/chemicalx) - A PyTorch-based deep learning library for drug pair scoring. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/pytorch_big2.png" alt="PyTorch based/compatible">
 
 ### Time Series / Others
 
-*   [darts (⭐8k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
-*   [statsforecast (⭐3.9k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
-*   [mlforecast (⭐858)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
-*   [neuralforecast (⭐3k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
+*   [darts (⭐8.3k)](https://github.com/unit8co/darts) - A python library for easy manipulation and forecasting of time series.
+*   [statsforecast (⭐4.1k)](https://github.com/Nixtla/statsforecast) - Lightning fast forecasting with statistical and econometric models.
+*   [mlforecast (⭐961)](https://github.com/Nixtla/mlforecast) - Scalable machine learning-based time series forecasting.
+*   [neuralforecast (⭐3.3k)](https://github.com/Nixtla/neuralforecast) - Scalable machine learning-based time series forecasting.
 *   [greykite (⭐1.8k)](https://github.com/linkedin/greykite) - A flexible, intuitive, and fast forecasting library next.
-*   [Chaos Genius (⭐728)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
+*   [Chaos Genius (⭐749)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis
 
 ### Experimentation / Synthetic Data
 
-*   [envd (⭐2k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
+*   [envd (⭐2.1k)](https://github.com/tensorchord/envd) - 🏕️ machine learning development environment for data science and AI/ML engineering teams.
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-browser-sync (⭐72)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
+*   [vite-plugin-browser-sync (⭐75)](https://github.com/Applelo/vite-plugin-browser-sync) - BrowserSync.
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### JSON
 
-*   [marshmallow (⭐377)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshalling for flexible use cases.
+*   [marshmallow (⭐378)](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshalling for flexible use cases.
 
 ## [9. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
@@ -93,12 +93,11 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [django-redis (⭐2.9k)](https://github.com/niwinz/django-redis) - Full-featured Redis cache backend for Django.
-*   [django-dramatiq (⭐356)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
+*   [django-dramatiq (⭐358)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
 
 ### Projects / Open Source Projects
 
-*   [Flagsmith (⭐5.3k)](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
+*   [Flagsmith (⭐5.4k)](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
 
 ## [11. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 

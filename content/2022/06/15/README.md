@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 15, 2022
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐76)](https://github.com/laboratoriobridge/bold)
+  Source code \*: [:octocat: (⭐77)](https://github.com/laboratoriobridge/bold)
 
 
 - : [Bolt Design System](https://boltdesignsystem.com/)
@@ -37,7 +37,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐292)](https://github.com/boltdesignsystem/bolt)
+  Source code \*: [:octocat: (⭐291)](https://github.com/boltdesignsystem/bolt)
 
 
 - : [Brighte Spark Design System](https://spark.brighte.com.au/)
@@ -59,7 +59,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐135)](https://github.com/buzzfeed/solid)
+  Source code \*: [:octocat: (⭐134)](https://github.com/buzzfeed/solid)
 
 
 - : [Cloudflare](https://cloudflare.github.io/cf-ui/)
@@ -81,7 +81,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐180)](https://github.com/eBay/skin)
+  Source code \*: [:octocat: (⭐181)](https://github.com/eBay/skin)
 
 
 - : [Elastic UI Framework](https://elastic.github.io/eui/)
@@ -168,7 +168,13 @@
 
 *   [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Modeling Creativity: Case Studies in Python](https://arxiv.org/pdf/1410.0281.pdf) - Tom D. De Smedt (PDF)
+
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Design and UI
 
@@ -180,13 +186,13 @@
 *   [OnlineExifViewer](https://onlineexifviewer.com/) — View EXIF data online instantly for a photo including GPS location and metadata.
 *   [Sunrise and Sunset](https://sunrisesunset.io/api/) - Get sunrise and sunset times for a given longitude and latitude.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Images / Barcode
 
-*   [Harbeth (⭐512)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
+*   [Harbeth (⭐538)](https://github.com/yangKJ/Harbeth) - Metal API for GPU accelerated Graphics and Video and Camera filter framework.
 
-## [6. Awesome Vite](/content/vitejs/awesome-vite/README.md)
+## [7. Awesome Vite](/content/vitejs/awesome-vite/README.md)
 
 ### Tauri / Elm
 
@@ -196,19 +202,19 @@
 
 *   [Rakkas (⭐1.1k)](https://github.com/rakkasjs/rakkasjs) - React framework inspired by Next.js and SvelteKit. ![react](https://img.shields.io/badge/-React-4ab2cf)
 
-## [7. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [8. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### IO / ADC
 
 *   [micropython-pcf8591](https://gitlab.com/cediddi/micropython-pcf8591) - MicroPython driver for PCF8591 ADC/DAC, I2C interface.
 
-## [8. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [9. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Development Projects / Apps
 
 *   [Who's That Pokémon? (⭐3)](https://github.com/serena2341/whos-that-pokemon) - Guess Pokémon from their silhouette.
 
-## [9. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
+## [10. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### IDE
 
@@ -218,7 +224,7 @@
 
 *   [Remult (⭐3k)](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 
-## [10. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
+## [11. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
 ### In case you need help / Other Communities
 
@@ -228,7 +234,7 @@
 
 *   [CrowdSec (⭐18)](https://github.com/crowdsecurity/home-assistant-addons) - A next-gen collaborative IPS/IDS to protect you from intrusion.
 
-## [11. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
+## [12. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
 ### Videos / Others
 
@@ -241,33 +247,33 @@
 
 *   [What’s new in the Microsoft Fluent UI library for Blazor versions 1.3 and 1.4](https://medium.com/fast-design/whats-new-in-the-microsoft-fluent-ui-library-for-blazor-versions-1-3-and-1-4-4c3ea55a4b56) - June 9, 2022 - The FAST team and friends have been hard at work not only on Microsoft’s core Web Components platform, but also on Fluent UI integrations for Blazor. This post will give you an overview of what’s new and changed in versions 1.3 and 1.4 of the [Microsoft Fluent UI Blazor library](https://www.nuget.org/packages/Microsoft.Fast.Components.FluentUI/).
 
-## [12. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
 *   [drogue-device (⭐191)](https://github.com/drogue-iot/drogue-device): A distribution of tools and examples for building embedded applications in Rust.
-*   [ector (⭐51)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
-*   [embedded-update (⭐22)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
-*   [embedded-tls (⭐177)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
+*   [ector (⭐52)](https://github.com/drogue-iot/ector): An async actor framework for embedded, based on embassy.
+*   [embedded-update (⭐25)](https://github.com/drogue-iot/embedded-update): Pluggable firmware update protocol for embedded devices.
+*   [embedded-tls (⭐181)](https://github.com/drogue-iot/embedded-tls): A TLS 1.3 implementation that runs in a no-std environment.
 
-## [13. Awesome Go](/content/avelino/awesome-go/README.md)
+## [14. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Utilities
 
 *   [EaseProbe (⭐2.2k)](https://github.com/megaease/easeprobe) - A simple, standalone, and lightWeight tool that can do health/status checking daemon, support HTTP/TCP/SSH/Shell/Client/... probes, and Slack/Discord/Telegram/SMS... notification.
 
-## [14. Awesome Esp](/content/agucova/awesome-esp/README.md)
+## [15. Awesome Esp](/content/agucova/awesome-esp/README.md)
 
 ### Libraries / Others
 
 *   [LedFx (⭐706)](https://github.com/LedFx/LedFx) - A library for using audio input to create realtime light shows. LedFx can control multiple devices and works great with cheap ESP8266 nodes.
 
-## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [16. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [git-sync (⭐46)](https://github.com/caarlos0-graveyard/zsh-git-sync) - A ZSH plugin to sync `git` repositories and clean them up.
-*   [smartcache (⭐34)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
+*   [smartcache (⭐36)](https://github.com/QuarticCat/zsh-smartcache) - Caches command output to speed up shell startup time.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

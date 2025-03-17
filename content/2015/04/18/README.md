@@ -57,7 +57,7 @@
 ### Validations
 
 *   [uk\_postcode (⭐10)](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
-*   [vex (⭐598)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
+*   [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 
 ---
 

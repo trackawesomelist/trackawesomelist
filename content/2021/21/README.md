@@ -10,7 +10,7 @@
 
 ### Libraries / New Libraries
 
-*   [delta PV](https://github.com/romanodev/deltapv) - A photovoltaic simulator with automatic differentation. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
+*   [delta PV (⭐60)](https://github.com/romanodev/deltapv) - A photovoltaic simulator with automatic differentation. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
 
 ## [2. Awesome Xamarin](/content/XamSome/awesome-xamarin/week/README.md)
 
@@ -34,7 +34,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [v-viewer (⭐2.5k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐7.9k)](https://github.com/fengyuanchen/viewerjs)
+*   [v-viewer (⭐2.5k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐8k)](https://github.com/fengyuanchen/viewerjs)
 
 ## [4. Awesome Bioinformatics](/content/danielecook/Awesome-Bioinformatics/week/README.md)
 
@@ -175,8 +175,8 @@
 ### Tools & Software / Acquisition
 
 *   [ArchiveBox (⭐23k)](https://github.com/pirate/ArchiveBox) - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
-*   [Browsertrix Crawler (⭐690)](https://github.com/webrecorder/browsertrix-crawler) - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. *(Stable)*
-*   [Brozzler (⭐683)](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
+*   [Browsertrix Crawler (⭐706)](https://github.com/webrecorder/browsertrix-crawler) - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. *(Stable)*
+*   [Brozzler (⭐684)](https://github.com/internetarchive/brozzler) - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
 
 ## [10. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
@@ -189,16 +189,16 @@
 ### Applications
 
 *   [Aether (⭐1.2k)](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
-*   [Airshare (⭐639)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
+*   [Airshare (⭐648)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
 *   [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 *   [Friends ☠️ (⭐3.2k)](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
-*   [Hyperpad (⭐197)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
-*   [instant.io (⭐3.4k)](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
+*   [Hyperpad (⭐203)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
+*   [instant.io (⭐3.5k)](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
 *   [IPFS bin ☠️ (⭐133)](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
-*   [IPFS Desktop (⭐5.9k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
-*   [iWant ☠️ (⭐291)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
+*   [IPFS Desktop (⭐6.1k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
+*   [iWant ☠️ (⭐294)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 *   [ORC ☠️](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
-*   [Peertransfer ☠️ (⭐312)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
+*   [Peertransfer ☠️ (⭐325)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 *   [YaCy](https://yacy.net/): Free distributed search engine, built on principles of P2P networks.
 
 ## [12. Awesome Mdbootstrap](/content/mdbootstrap/awesome-mdbootstrap/week/README.md)
@@ -285,15 +285,6 @@
 
 ## [18. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
-### Official
-
-*   [GitHub](https://github.com/EOSIO)
-
-### EdenOS
-
-*   [eoscommunity](https://github.com/eoscommunity) - Official GitHub.
-*   [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) - Book by Daniel Larimer.
-
 ### Courses, workshops, webinars, videos and others
 
 *   [EOSIO Training & Certification](https://training.eos.io/) - Official EOSIO Training & Certification.
@@ -306,7 +297,7 @@
 ### Environment / Mobile
 
 *   [EOS Studio](https://www.eosstudio.io/) - Graphic IDE for EOSIO Development.
-*   [EOSIO Web IDE (⭐140)](https://github.com/EOSIO/eosio-web-ide) - The Web IDE provides developers with a personal single-node EOSIO blockchain for development and testing purposes, running in the [Gitpod.io](https://www.gitpod.io/) cloud – and accessible from your web browser.
+*   [EOSIO Web IDE (⭐156)](https://github.com/EOSIO/eosio-web-ide) - The Web IDE provides developers with a personal single-node EOSIO blockchain for development and testing purposes, running in the [Gitpod.io](https://www.gitpod.io/) cloud – and accessible from your web browser.
 *   [Helm charts for EOSIO (⭐6)](https://github.com/EOSIO/eosio.helm) - EOSIO Nodeos Helm Charts.
 
 ### Testnets / Mobile
@@ -318,38 +309,38 @@
 ### Libraries and Frameworks / Core
 
 *   [EOSIO/eos (⭐11k)](https://github.com/EOSIO/eos) - Official EOSIO GitHub repository.
-*   [EOSIO/eos-vm (⭐185)](https://github.com/EOSIO/eos-vm) - A Low-Latency, High Performance and Extensible WebAssembly Backend Library.
+*   [EOSIO/eos-vm (⭐197)](https://github.com/EOSIO/eos-vm) - A Low-Latency, High Performance and Extensible WebAssembly Backend Library.
 
 ### Libraries and Frameworks / API libraries
 
-*   [greymass/eosio (⭐29)](https://github.com/greymass/eosio-core/) - Strongly typed JavaScript library.
-*   [greymass/swift-eosio (⭐12)](https://github.com/greymass/swift-eosio) - Swift SDK with ESR support.
+*   [greymass/eosio (⭐44)](https://github.com/greymass/eosio-core/) - Strongly typed JavaScript library.
+*   [greymass/swift-eosio (⭐16)](https://github.com/greymass/swift-eosio) - Swift SDK with ESR support.
 
 ### Libraries and Frameworks / Authentication and Wallet Signing libraries
 
-*   [greymass/ual-anchor (⭐18)](https://github.com/greymass/ual-anchor) - Authenticator meant to be used with Anchor and Universal Authenticator Library.
-*   [greymass/anchor-link (⭐42)](https://github.com/greymass/anchor-link) - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).
-*   [greymass/eosio-signing-request (⭐28)](https://github.com/greymass/eosio-signing-request) - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
+*   [greymass/ual-anchor (⭐23)](https://github.com/greymass/ual-anchor) - Authenticator meant to be used with Anchor and Universal Authenticator Library.
+*   [greymass/anchor-link (⭐53)](https://github.com/greymass/anchor-link) - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).
+*   [greymass/eosio-signing-request (⭐33)](https://github.com/greymass/eosio-signing-request) - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
 *   [greymass/eosio-signing-request-java (⭐2)](https://github.com/greymass/eosio-signing-request-java) - Java wrapper for the EOSIO Signing Request protocol.
 
 ### Developer Tools / Services
 
-*   [greymass/eosio-resources (⭐7)](https://github.com/greymass/eosio-resources) - Tool to assist in network resource calculations.
+*   [greymass/eosio-resources (⭐9)](https://github.com/greymass/eosio-resources) - Tool to assist in network resource calculations.
 *   [greymass/abi2core (⭐1)](https://github.com/greymass/abi2core) - Command line utility to convert ABI definitions to greymass/eosio type definitions.
 
 ### Code examples / Services
 
-*   [EOSIO/eosio.contracts (⭐314)](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
-*   [greymass/anchor-link-demo (⭐0)](https://github.com/greymass/anchor-link-demo) - Example VueJS application integrating greymass/anchor-link.
-*   [greymass/anchor-link-demo-multipass (⭐7)](https://github.com/greymass/anchor-link-demo-multipass) - Example ReactJS application integrating greymass/anchor-link.
-*   [greymass/ual-anchor-demo (⭐2)](https://github.com/greymass/ual-anchor-demo) - Example ReactJS application integrating greymass/ual-anchor.
-*   [greymass/eosio-signing-request-demo (⭐4)](https://github.com/greymass/eosio-signing-request-demo) - Example generating transactions using greymass/eosio-signing-request.
+*   [EOSIO/eosio.contracts (⭐324)](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
+*   [greymass/anchor-link-demo (⭐2)](https://github.com/greymass/anchor-link-demo) - Example VueJS application integrating greymass/anchor-link.
+*   [greymass/anchor-link-demo-multipass (⭐10)](https://github.com/greymass/anchor-link-demo-multipass) - Example ReactJS application integrating greymass/anchor-link.
+*   [greymass/ual-anchor-demo (⭐4)](https://github.com/greymass/ual-anchor-demo) - Example ReactJS application integrating greymass/ual-anchor.
+*   [greymass/eosio-signing-request-demo (⭐5)](https://github.com/greymass/eosio-signing-request-demo) - Example generating transactions using greymass/eosio-signing-request.
 
 ## [19. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
-*   [yor (⭐838)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
+*   [yor (⭐863)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ## [20. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
@@ -374,7 +365,7 @@
 
 ### Display / LCD TFT
 
-*   [micropython-ili9341 (⭐2)](https://github.com/mcauser/deshipu-micropython-ili9341) - Collection of drivers for TFT displays, ILI9341, SH1106, SSD1606, ST7735.
+*   [micropython-ili9341 (⭐3)](https://github.com/mcauser/deshipu-micropython-ili9341) - Collection of drivers for TFT displays, ILI9341, SH1106, SSD1606, ST7735.
 *   [SSD1963-TFT-Library-for-PyBoard-and-RP2040 (⭐29)](https://github.com/robert-hh/SSD1963-TFT-Library-for-PyBoard-and-RP2040) - SSD1963 TFT Library for Pyboard and Raspberry Pi Pico.
 
 ### Display / LED Segment
@@ -391,11 +382,11 @@
 
 ### IO / DAC
 
-*   [mcp4728 (⭐3)](https://github.com/openfablab/mcp4728) - Helper library for the Microchip MCP4728 I2C 12-bit Quad DAC.
+*   [mcp4728 (⭐4)](https://github.com/openfablab/mcp4728) - Helper library for the Microchip MCP4728 I2C 12-bit Quad DAC.
 
 ### IO / Rotary Encoder
 
-*   [encodermenu (⭐112)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
+*   [encodermenu (⭐113)](https://github.com/sgall17a/encodermenu) - Simple GUI menu for MicroPython using a rotary encoder and basic display.
 
 ### Motion / Servo
 
@@ -452,23 +443,23 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tanvirtin/monokai.nvim (⭐355)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
+*   [tanvirtin/monokai.nvim (⭐364)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 
 ### Git / Diagnostics
 
-*   [tanvirtin/vgit.nvim (⭐603)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your Git experience.
+*   [tanvirtin/vgit.nvim (⭐724)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your Git experience.
 
 ## [27. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Monitoring & Quality Control
 
-*   [MXF Inspect (⭐39)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
+*   [MXF Inspect (⭐41)](https://github.com/Myriadbits/MXFInspect) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 
 ## [28. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Payment / Barcode
 
-*   [TPInAppReceipt (⭐637)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
+*   [TPInAppReceipt (⭐657)](https://github.com/tikhop/TPInAppReceipt) - A lightweight, pure-Swift library for reading and validating Apple In App Purchase Receipt locally.
 
 ## [29. Awesome Irc](/content/davisonio/awesome-irc/week/README.md)
 
@@ -680,7 +671,7 @@
 ### Programming Languages / Haskell
 
 *   [nix-haskell-mode (⭐28)](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
-*   [nixkell (⭐99)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
+*   [nixkell (⭐105)](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
 
 ### Community / Webinterface
 
@@ -697,7 +688,7 @@
 
 ### Starters/Boilerplates / Other external resources
 
-*   [rails\_api\_base (⭐515)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
+*   [rails\_api\_base (⭐530)](https://github.com/rootstrap/rails_api_base) - Rails 6 boilerplate project for JSON RESTful APIs.
 *   [rails\_hotwire\_base (⭐76)](https://github.com/rootstrap/rails_hotwire_base) - Rails 6 boilerplate project with Hotwire for full-stack applications with a modern SPA-like experience.
 
 ## [37. Awesome Ddd](/content/heynickc/awesome-ddd/week/README.md)
@@ -733,11 +724,11 @@
 
 ### Templates / Vue 3
 
-*   [fast-crud (⭐968)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
+*   [fast-crud (⭐986)](https://github.com/fast-crud/fast-crud) - Options-oriented crud framework, developing crud as fast as lightning.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-plugin-vconsole (⭐78)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
+*   [vite-plugin-vconsole (⭐79)](https://github.com/vadxq/vite-plugin-vconsole) - Help developers use vconsole to facilitate mobile development and debugging.
 
 ### Rollup Plugins / Compatible with Vite
 
@@ -753,7 +744,7 @@
 
 ### Apps/Websites / Community
 
-*   [vue3-realworld-example-app (⭐976)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
+*   [vue3-realworld-example-app (⭐989)](https://github.com/mutoe/vue3-realworld-example-app) - Realworld app implementation using Vue 3 + TypeScript + Composition API.
 
 ## [40. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/week/README.md)
 
@@ -774,11 +765,11 @@
 
 ### Networking / Text-Based User Interfaces
 
-*   [Commons-networking (⭐16)](https://github.com/CiscoSE/commons-networking) - Client for server-sent events (SSE).
+*   [Commons-networking (⭐17)](https://github.com/CiscoSE/commons-networking) - Client for server-sent events (SSE).
 
 ### Template Engine / Other
 
-*   [StringTemplate (⭐950)](https://github.com/antlr/stringtemplate4) - Template engine for generating source code, web pages, emails, or any other formatted text output.
+*   [StringTemplate (⭐971)](https://github.com/antlr/stringtemplate4) - Template engine for generating source code, web pages, emails, or any other formatted text output.
 
 ### Workflow Orchestration Engines / Mocking
 
@@ -832,7 +823,7 @@
 
 ### Audio
 
-*   [dzr (⭐206)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+*   [dzr (⭐209)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
 
 ### Payments
 
@@ -840,7 +831,7 @@
 
 ### Budget Management
 
-*   [My Expenses (⭐874)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
+*   [My Expenses (⭐890)](https://github.com/mtotschnig/MyExpenses) - Featureful GPL licenced Android Expense Tracking App.
 
 ## [46. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
 

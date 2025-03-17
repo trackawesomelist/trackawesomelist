@@ -24,7 +24,7 @@ Installs: 10000 | Stars: 3486 | Last update: n/a
 
 ### Scrollbar / Diagnostics
 
-*   [gorbit99/codewindow.nvim (⭐444)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with Tree-sitter and the builtin LSP to display more information to the user.
+*   [gorbit99/codewindow.nvim (⭐452)](https://github.com/gorbit99/codewindow.nvim) - Minimap plugin, that is closely integrated with Tree-sitter and the builtin LSP to display more information to the user.
 
 ## [4. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/README.md)
 

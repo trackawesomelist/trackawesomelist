@@ -10,7 +10,7 @@
 
 ### Models/Projects
 
-*   [MusicGenreClassification (⭐561)](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
+*   [MusicGenreClassification (⭐575)](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
 
 ## [2. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -227,7 +227,7 @@ Naver Map: <http://naver.me/FjThMRso>
 ### Projects Using Vue.js / Open Source
 
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
-*   [Socialhome (⭐365)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐366)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ### Components & Libraries / UI Components
 
@@ -281,7 +281,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ## [24. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### GTFS Based Visualizations
+### GTFS Based Visualizations / Rust
 
 *   [Mapnificent](https://www.mapnificent.net/) - Shows areas you can reach with public transport in a given time. Open-source [on GitHub (⭐383)](https://github.com/mapnificent/mapnificent), live at <https://www.mapnificent.net/>.
 
@@ -289,7 +289,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Cognitive Development
 
-*   [A Lecture on Creativity](https://www.youtube.com/watch?v=Pb5oIIPO62g) by **John Cleese** \[36:59]
+*   [A Lecture on Creativity](https://www.youtube.com/watch?v=Pb5oIIPO62g) by **John Cleese** (London 1991) \[36:59]
 
 ## [26. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
@@ -388,7 +388,7 @@ Naver Map: <http://naver.me/FjThMRso>
 
 ### Game Engine
 
-*   [EnTT (⭐10k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
+*   [EnTT (⭐11k)](https://github.com/skypjack/entt) - Gaming meets modern C++. \[MIT]
 
 ### Machine Learning
 

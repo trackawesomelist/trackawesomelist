@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 09, 2015
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -16,13 +16,19 @@
 
     [![](http://imgs.xkcd.com/comics/rtl.png)](https://xkcd.com/1137/)
 
-## [2. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Erlang / Phoenix
+
+*   [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf) (PDF)
+
+## [3. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
 ### Functional Programming / Scala
 
 *   [Coding for Types: The Universe Patern in Idris](https://www.youtube.com/watch?v=AWeT_G04a0A) By David Christiansen
 
-## [3. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### CMS
 
@@ -33,7 +39,7 @@
 
 *   [BDDfy (⭐422)](https://github.com/TestStack/TestStack.BDDfy) - BDDfy is the simplest BDD framework EVER!
 
-## [4. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
+## [5. Awesome Clojurescript](/content/hantuzun/awesome-clojurescript/README.md)
 
 ### Awesome ClojureScript / Miscellaneous
 
@@ -43,19 +49,19 @@
 
 *   [Bidi (⭐974)](https://github.com/juxt/bidi) – A Clojure(script) data driven routing library.
 
-## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
+## [6. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
 ### Table of Contents / Event
 
 *   [Amp (⭐4.3k)](https://github.com/amphp/amp) - An event driven non-blocking I/O library.
 
-## [6. Amas](/content/sindresorhus/amas/README.md)
+## [7. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these organizations anything!
 
 *   [DevOps Taiwan (⭐42)](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions.
 
-## [7. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [8. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Javascript / Bare metal / kernel development
 

@@ -43,7 +43,7 @@
 
 ### Files and Directories
 
-*   [waffle (⭐756)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
+*   [waffle (⭐763)](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir.
 
 ## [5. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Developer Tools / Services
 
-*   [EOSIO Ethereum Virtual Machine (EVM) (⭐87)](https://github.com/jafri/eosio.evm) - Ethereum Virtual Machine on EOSIO.
+*   [EOSIO Ethereum Virtual Machine (EVM) (⭐93)](https://github.com/jafri/eosio.evm) - Ethereum Virtual Machine on EOSIO.
 
 ## [8. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/README.md)
 

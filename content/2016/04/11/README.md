@@ -56,7 +56,7 @@
 
 ### Datasets / Topic-specific
 
-*   [Gephi Datasets (⭐5.9k)](https://github.com/gephi/gephi/wiki/Datasets).
+*   [Gephi Datasets (⭐6k)](https://github.com/gephi/gephi/wiki/Datasets).
 *   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
 *   [UCI Network Data Repository](http://networkdata.ics.uci.edu/).
 
@@ -79,7 +79,7 @@
 
 ### Software / Algorithms
 
-*   [weighted-modularity-LPAwbPLUS (⭐28)](https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS) - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
+*   [weighted-modularity-LPAwbPLUS (⭐29)](https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS) - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
 
 ### Software / C / C++
 
@@ -98,7 +98,7 @@
 ### Software / R
 
 *   [RSiena](http://r-forge.r-project.org/R/?group_id=461) - Simulation Investigation for Empirical Network Analysis; fits models to longitudinal network data.
-*   [visNetwork (⭐545)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
+*   [visNetwork (⭐549)](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 
 ## [6. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

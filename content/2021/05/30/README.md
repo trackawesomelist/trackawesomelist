@@ -10,7 +10,7 @@
 
 ### Libraries / New Libraries
 
-*   [delta PV](https://github.com/romanodev/deltapv) - A photovoltaic simulator with automatic differentation. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
+*   [delta PV (⭐60)](https://github.com/romanodev/deltapv) - A photovoltaic simulator with automatic differentation. <img src="https://img.shields.io/github/stars/romanodev/deltapv?style=social" align="center">
 
 ## [2. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
@@ -38,24 +38,20 @@
 
 ## [4. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
-### EdenOS
-
-*   [eoscommunity](https://github.com/eoscommunity) - Official GitHub.
-
 ### Libraries and Frameworks / Core
 
 *   [EOSIO/eos (⭐11k)](https://github.com/EOSIO/eos) - Official EOSIO GitHub repository.
-*   [EOSIO/eos-vm (⭐185)](https://github.com/EOSIO/eos-vm) - A Low-Latency, High Performance and Extensible WebAssembly Backend Library.
+*   [EOSIO/eos-vm (⭐197)](https://github.com/EOSIO/eos-vm) - A Low-Latency, High Performance and Extensible WebAssembly Backend Library.
 
 ### Code examples / Services
 
-*   [EOSIO/eosio.contracts (⭐314)](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
+*   [EOSIO/eosio.contracts (⭐324)](https://github.com/EOSIO/eosio.contracts) - Smart contracts that provide some of the basic functions of the EOSIO blockchain.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
-*   [v-viewer (⭐2.5k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐7.9k)](https://github.com/fengyuanchen/viewerjs)
+*   [v-viewer (⭐2.5k)](https://github.com/mirari/v-viewer) - Image viewer component for vue2 and vue3, supports rotation, scale, zoom and so on, based on [viewer.js (⭐8k)](https://github.com/fengyuanchen/viewerjs)
 
 ## [6. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 

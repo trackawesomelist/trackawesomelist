@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐733)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐746)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -276,7 +276,7 @@
 
 ### Tools / Libraries
 
-*   [pigment (⭐11)](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
+*   [pigment (⭐12)](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
 
 ### Tools / Web App
 

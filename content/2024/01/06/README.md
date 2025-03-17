@@ -16,7 +16,7 @@
 
 ### Security
 
-*   [go-peer (⭐279)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
+*   [go-peer (⭐283)](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 
 ## [3. Awesome Electronics](/content/kitspace/awesome-electronics/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Table of Contents / NoSQL
 
-*   [MongoDB (⭐892)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
+*   [MongoDB (⭐895)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -99,9 +99,9 @@
 
 ### Modules / Godot 4
 
-*   [godot-box2d (⭐328)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐8.5k)](https://github.com/erincatto/box2d) physics server for Godot.
-*   [godot-jolt (⭐2.3k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐7.2k)](https://github.com/jrouwe/JoltPhysics).
-*   [godot-rapier-2d (⭐484)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐4.3k)](https://github.com/dimforge/rapier) physics server for Godot.
+*   [godot-box2d (⭐329)](https://github.com/appsinacup/godot-box2d) - A [Box2D (⭐8.7k)](https://github.com/erincatto/box2d) physics server for Godot.
+*   [godot-jolt (⭐2.4k)](https://github.com/godot-jolt/godot-jolt) - Allows you to use the [Jolt Physics Engine (⭐7.5k)](https://github.com/jrouwe/JoltPhysics).
+*   [godot-rapier-2d (⭐515)](https://github.com/appsinacup/godot-rapier-2d) - A 2D [Rapier (⭐4.4k)](https://github.com/dimforge/rapier) physics server for Godot.
 
 ## [8. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 

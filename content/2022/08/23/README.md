@@ -78,7 +78,7 @@ Installs: 2000 | Stars: 281 | Last update: n/a
 
 ### Templates / React
 
-*   [react-vite-ts-boilerplate (⭐110)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
+*   [react-vite-ts-boilerplate (⭐114)](https://github.com/choisohyun/react-vite-ts-boilerplate) - React 18, TypeScript, SCSS, ESLint, Prettier, Vitest.
 
 ## [11. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -90,7 +90,7 @@ Installs: 2000 | Stars: 281 | Last update: n/a
 
 ### Editing Support / Diagnostics
 
-*   [m4xshen/autoclose.nvim (⭐538)](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin written in Lua.
+*   [m4xshen/autoclose.nvim (⭐551)](https://github.com/m4xshen/autoclose.nvim) - A minimalist autoclose plugin written in Lua.
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

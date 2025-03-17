@@ -27,11 +27,11 @@
 
 ### Cryptocurrencies and Blockchains
 
-*   [Peatio (⭐49)](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
+*   [Peatio (⭐52)](https://github.com/rubykube/peatio) - Most Advanced Cryptocurrency open-source assets exchange.
 
 ### HTTP Clients and tools
 
-*   [Sniffer (⭐575)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
+*   [Sniffer (⭐579)](https://github.com/aderyabin/sniffer) – Tool to log and debug outgoing HTTP requests across multiple ruby libraries.
 
 ### Social Networking
 
@@ -47,7 +47,7 @@
 
 ### Plugins
 
-*   [extrakto (⭐910)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
+*   [extrakto (⭐940)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 
 ## [6. Awesome Free Software](/content/johnjago/awesome-free-software/README.md)
 
@@ -69,7 +69,7 @@
 
 ### UI / List
 
-*   [Reorderables (⭐741)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
+*   [Reorderables (⭐747)](https://github.com/hanshengchiu/reorderables) <!--stargazers:hanshengchiu/reorderables--> - Drag\&Drop Table, Row, Column, Wrap(Grid) and SliverList elements by [Hansheng Chiu](https://github.com/hanshengchiu).
 
 ## [8. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

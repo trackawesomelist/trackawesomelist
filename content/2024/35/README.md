@@ -174,7 +174,7 @@
 
 ### Standalone apps / Playground
 
-*   :octocat: [Nostream (⭐756)](https://github.com/cameri/nostream) - A Nostr Relay written in TypeScript
+*   :octocat: [Nostream (⭐771)](https://github.com/cameri/nostream) - A Nostr Relay written in TypeScript
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/week/README.md)
 
@@ -397,17 +397,13 @@
 
 ### Video Utilities
 
-*   [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Complete video production suite with color grading, VFX, and audio tools.
+*   [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) - Complete video production suite with color grading, VFX, and audio tools. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 *   [HandBrake](https://handbrake.fr/) - Converts videos between formats with compression options. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/HandBrake/HandBrake)
-*   [K-Lite Codecs](https://www.codecguide.com/download_kl.htm) - Adds support for playing most video and audio formats.
 *   [Olive Video Editor](https://www.olivevideoeditor.org/) - Node-based video editor with real-time effects. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/olive-editor/olive)
 *   [PotPlayer](https://potplayer.daum.net/) - Media player with hardware acceleration and streaming capabilities.
 *   [ScreenToGif](https://www.screentogif.com/) - Records screen areas and saves as GIF or video. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/NickeManarin/ScreenToGif/)
 *   [Shotcut](https://www.shotcut.org/download/) - Video editor with native timeline filtering. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/mltframework/shotcut)
 *   [Shutter Encoder](https://www.shutterencoder.com/) - Converts between hundreds of media formats with processing options.
-*   [SMPlayer](https://sourceforge.net/projects/smplayer/) - Remembers settings per video file. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://sourceforge.net/p/smplayer/code/HEAD/tree/)
-*   [SRTEd](https://download.cnet.com/srted-srt-subtitles-editor/3000-13631_4-75884617.html) - Creates and edits SRT subtitle files.
-*   [Videotape](https://usuaia.com/videotape) - Plays videos with minimal interface and controls.
 *   [VLC](https://www.videolan.org/vlc/index.html) - Plays damaged/incomplete media files and network streams. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/videolan/vlc)
 
 ### Virtualization
@@ -440,28 +436,28 @@
 
 ### Helpers
 
-*   [SceneMan (⭐0)](https://github.com/KINGTUT10101/SceneMan) - A simple, but powerful scene/gamestate manager that uses a stack, allowing you to run multiple scenes at once.
+*   [SceneMan (⭐2)](https://github.com/KINGTUT10101/SceneMan) - A simple, but powerful scene/gamestate manager that uses a stack, allowing you to run multiple scenes at once.
 
 ### UI
 
-*   [TuxRedux (⭐2)](https://github.com/KINGTUT10101/TuxRedux) - An immediate-mode UI system for LOVE2D inspired by SUIT.
+*   [TuxRedux (⭐3)](https://github.com/KINGTUT10101/TuxRedux) - An immediate-mode UI system for LOVE2D inspired by SUIT.
 
 ### Utilities
 
-*   [andromeda (⭐2)](https://github.com/itzKiwiSky/Andromeda) - Asset database and loader for love.
+*   [andromeda (⭐3)](https://github.com/itzKiwiSky/Andromeda) - Asset database and loader for love.
 *   [KeyedArray (⭐0)](https://github.com/KINGTUT10101/KeyedArray) - A special data structure where items can be found by their position or key. Similar to an ordered dictionary.
 *   [LuaRequireExtended (⭐1)](https://github.com/KINGTUT10101/LuaRequireExtended) - A Lua module that lets you require files with input parameters and multiple output values.
 
 ### Distribution
 
-*   [lovesfx (⭐7)](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
-*   [love-build (⭐30)](https://github.com/ellraiser/love-build) - Downloadable application (made in LÖVE!) that can build games for Windows, macOS, and Linux regardless of your own OS.
+*   [lovesfx (⭐9)](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
+*   [love-build (⭐33)](https://github.com/ellraiser/love-build) - Downloadable application (made in LÖVE!) that can build games for Windows, macOS, and Linux regardless of your own OS.
 
 ## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐175k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
+*   [fzf-plugin (⭐1)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐177k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -474,7 +470,7 @@
 
 ### Table of Contents / Testing
 
-*   [PHPUnit Polyfills (⭐176)](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
+*   [PHPUnit Polyfills (⭐178)](https://github.com/Yoast/PHPUnit-Polyfills/) - Simplifies running PHPUnit tests on multiple PHPUnit versions.
 
 ### Table of Contents / Documentation
 
@@ -488,7 +484,7 @@
 
 ### Time Series / Others
 
-*   [skforecast (⭐1.1k)](https://github.com/JoaquinAmatRodrigo/skforecast) - Time series forecasting with machine learning models
+*   [skforecast (⭐1.3k)](https://github.com/JoaquinAmatRodrigo/skforecast) - Time series forecasting with machine learning models
 
 ## [16. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -506,23 +502,23 @@
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome Marketing (⭐83)](https://github.com/marketingtoolslist/awesome-marketing)
+*   [Awesome Marketing (⭐104)](https://github.com/marketingtoolslist/awesome-marketing)
 
 ## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Logging
 
-*   [donnie4w/tklog (⭐99)](https://github.com/donnie4w/tklog "donnie4w/tklog") - lightweight and efficient rust structured log library with support for log levels, file segmentation, compressed archiving.
+*   [donnie4w/tklog (⭐103)](https://github.com/donnie4w/tklog "donnie4w/tklog") - lightweight and efficient rust structured log library with support for log levels, file segmentation, compressed archiving.
 
 ## [20. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Providers / Community providers
 
-*   [terraform-provider-proxmox (⭐2.3k)](https://github.com/Telmate/terraform-provider-proxmox) - Terraform Proxmox provider.
+*   [terraform-provider-proxmox (⭐2.4k)](https://github.com/Telmate/terraform-provider-proxmox) - Terraform Proxmox provider.
 
 ### Tools / Community providers
 
-*   [tfreveal (⭐35)](https://github.com/breml/tfreveal) - A Terraform utility to show Terraform plans with all the secret (sensitive) values revealed.
+*   [tfreveal (⭐38)](https://github.com/breml/tfreveal) - A Terraform utility to show Terraform plans with all the secret (sensitive) values revealed.
 
 ## [21. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/week/README.md)
 
@@ -852,7 +848,7 @@
 
 ### Domain Specific Language / Design Automation
 
-*   [AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints](https://aclanthology.org/2024.acl-long.659/) - ***ACL'24***, 2024. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Preprint](https://arxiv.org/abs/2406.12324)]. \[[Project](https://autodsl.org/procedure/papers/acl24shi.html)]. The original paper on the automated design of DSLs, referred to as AutoDSL. Accurate representation of procedures in restricted scenarios, such as non-standardized scientific experiments, requires precise depiction of constraints. Unfortunately, Domain-Specific Language (DSL), as an effective tool to express constraints structurally, often requires case-by-case hand-crafting, necessitating customized, labor-intensive efforts. To overcome this challenge, this paper introduces the AutoDSL framework to automate DSL-based constraint design across various domains. Utilizing domain specified experimental protocol corpora, AutoDSL optimizes syntactic constraints and abstracts semantic constraints. Quantitative and qualitative analyses of the DSLs designed by AutoDSL across five distinct domains highlight its potential as an auxiliary module for language models, aiming to improve procedural planning and execution.
+*   [AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints](https://aclanthology.org/2024.acl-long.659/) - ***ACL'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=588082932830954126)]. \[[Preprint](https://arxiv.org/abs/2406.12324)]. \[[Project](https://autodsl.org/procedure/papers/acl24shi.html)]. The original paper on the automated design of DSLs, referred to as AutoDSL. Accurate representation of procedures in restricted scenarios, such as non-standardized scientific experiments, requires precise depiction of constraints. Unfortunately, Domain-Specific Language (DSL), as an effective tool to express constraints structurally, often requires case-by-case hand-crafting, necessitating customized, labor-intensive efforts. To overcome this challenge, this paper introduces the AutoDSL framework to automate DSL-based constraint design across various domains. Utilizing domain specified experimental protocol corpora, AutoDSL optimizes syntactic constraints and abstracts semantic constraints. Quantitative and qualitative analyses of the DSLs designed by AutoDSL across five distinct domains highlight its potential as an auxiliary module for language models, aiming to improve procedural planning and execution.
 
 ## [23. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
 
@@ -870,7 +866,7 @@
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [Django-Bridge (⭐154)](https://github.com/django-bridge/django-bridge) - The simple way to build React frontends for Django applications.
+*   [Django-Bridge (⭐176)](https://github.com/django-bridge/django-bridge) - The simple way to build React frontends for Django applications.
 
 ## [26. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
@@ -880,16 +876,16 @@
 
 ### Projects / API Documentation
 
-*   [Slate (⭐36k) (⭐36k)](https://github.com/slatedocs/slate) - A powerful tool that creates static API documentation from markdown, with API reference docs and code samples.
+*   [Slate (⭐36k) (⭐36k)](https://github.com/slatedocs/slate) - Converts markdown into stylish, static API documentation with intuitive navigation and clear code examples.
 
 ### Projects / BRE
 
-*   [NxBRE (⭐131) (⭐131)](https://github.com/ddossot/NxBRE) - Open-source rule engine specifically designed for the .NET platform.
+*   [NxBRE (⭐131) (⭐131)](https://github.com/ddossot/NxBRE) - Specialized .NET open-source rule engine offering efficient rule processing tailored for Microsoft environments.
 
 ### Projects / Messaging
 
-*   [Apache RocketMQ (⭐21k) (⭐21k)](https://github.com/apache/rocketmq) - A fast and reliable distributed messaging platform designed for high volume and low latency messaging scenarios. Offers efficient message storage and retrieval and supports various messaging patterns.
-*   [RabbitMQ (⭐12k) (⭐12k)](https://github.com/rabbitmq/rabbitmq-server) - An open-source message broker that implements AMQP and supports multiple messaging protocols and patterns. Offers reliable and efficient message delivery and supports clustering and high availability.
+*   [Apache RocketMQ (⭐21k) (⭐22k)](https://github.com/apache/rocketmq) - High-performance distributed messaging platform engineered for low latency and high throughput.
+*   [RabbitMQ (⭐12k) (⭐13k)](https://github.com/rabbitmq/rabbitmq-server) - Popular open-source broker implementing AMQP, known for reliability, clustering, and ease-of-use.
 
 ## [27. Awesome Gnome](/content/Kazhnuz/awesome-gnome/week/README.md)
 
@@ -907,8 +903,8 @@
 
 ### Libraries/Packages/Scripts / R
 
-*   [r-polars-dashboard (⭐3)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
-*   [neo-r-polars (⭐31)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
+*   [r-polars-dashboard (⭐2)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
+*   [neo-r-polars (⭐37)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
 
 ## [30. Awesome K6](/content/grafana/awesome-k6/week/README.md)
 
@@ -965,26 +961,26 @@
 
 ### Miscellaneous
 
-*   [imago (⭐52)](https://github.com/tokenrove/imago) -  image manipulation library for Common Lisp.
+*   [imago (⭐54)](https://github.com/tokenrove/imago) -  image manipulation library for Common Lisp.
     *   supports images in png, pcx, portable bitmap (.pnm), Truevision TGA (.tga) and jpeg formats
     *   allows for: resizing, rotation, emboss effect, inverting colors, adjusting contrast, manipulating color elements, composing pictures, drawing simple primitives…
     *   is integrated with common-lisp-jupyter.
 
 ### Date and time / Third-party APIs
 
-*   [calendar-times (⭐10)](https://github.com/copyleft/calendar-times) - a calendar time library implemented on top of the LOCAL-TIME library. It features zoned calendar times and calculations.
+*   [calendar-times (⭐11)](https://github.com/copyleft/calendar-times) - a calendar time library implemented on top of the LOCAL-TIME library. It features zoned calendar times and calculations.
     *   see also: [calendar-date (⭐8)](https://github.com/takagi/calendar-date) - a Gregorian calendar date library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Security / Third-party APIs
 
 *   [secret-values (⭐11)](https://github.com/rotatef/secret-values) -  A Common Lisp library to reduce the risk of accidentally revealing secret values such as passwords.
-    *   [privacy-output-stream (⭐4)](https://github.com/atgreen/privacy-output-stream) - an output stream that masks secret strings with `****`, based on secret-values. MIT.
+    *   [privacy-output-stream (⭐5)](https://github.com/atgreen/privacy-output-stream) - an output stream that masks secret strings with `****`, based on secret-values. MIT.
 
 ## [32. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Artificial Intelligence
 
-*   [OllamaFarm (⭐50)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas
+*   [OllamaFarm (⭐64)](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas
 
 ### Authentication and OAuth
 
@@ -997,15 +993,15 @@
 ### Standard CLI
 
 *   [mkideal/cli (⭐732)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
-*   [teris-io/cli (⭐130)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
+*   [teris-io/cli (⭐131)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 
 ### Images
 
-*   [imagor (⭐3.5k)](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
+*   [imagor (⭐3.6k)](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
 
 ### Networking
 
-*   [tun2socks (⭐3.6k)](https://github.com/xjasonlyu/tun2socks) - A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack.
+*   [tun2socks (⭐3.7k)](https://github.com/xjasonlyu/tun2socks) - A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack.
 
 ### Meetups / Libraries for creating HTTP middlewares
 
@@ -1021,8 +1017,8 @@
 
 ### (requires Neovim 0.5)
 
-*   [mawkler/refjump.nvim (⭐49)](https://github.com/mawkler/refjump.nvim) - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
-*   [alexpasmantier/pymple.nvim (⭐97)](https://github.com/alexpasmantier/pymple.nvim) - Refactor Python imports on file move/rename.
+*   [mawkler/refjump.nvim (⭐50)](https://github.com/mawkler/refjump.nvim) - Jump to next/previous LSP reference for item under cursor with `]r`/`[r`.
+*   [alexpasmantier/pymple.nvim (⭐106)](https://github.com/alexpasmantier/pymple.nvim) - Refactor Python imports on file move/rename.
 
 ### AI / Diagnostics
 
@@ -1035,11 +1031,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [killitar/obscure.nvim (⭐59)](https://github.com/killitar/obscure.nvim) - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
+*   [killitar/obscure.nvim (⭐62)](https://github.com/killitar/obscure.nvim) - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
 
 ### Utility / Diagnostics
 
-*   [ptdewey/pendulum-nvim (⭐71)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
+*   [ptdewey/pendulum-nvim (⭐73)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
 
 ### Terminal Integration / Diagnostics
 
@@ -1047,7 +1043,7 @@
 
 ### Editing Support / Diagnostics
 
-*   [OXY2DEV/foldtext.nvim (⭐66)](https://github.com/OXY2DEV/foldtext.nvim) - Dynamic & stylized foldtext.
+*   [OXY2DEV/foldtext.nvim (⭐75)](https://github.com/OXY2DEV/foldtext.nvim) - Dynamic & stylized foldtext.
 
 ## [35. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
@@ -1098,7 +1094,7 @@
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [litlyx (⭐874)](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
+*   [litlyx (⭐1.1k)](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1106,12 +1102,15 @@
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-templates (⭐12)](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
+*   [angular-templates (⭐13)](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based (⭐90k)](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
+
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [nightwatch-plugin-angular (⭐2)](https://github.com/nightwatchjs/nightwatch-plugin-angular) - Official [Nightwatch](https://nightwatchjs.org/) plugin which adds component testing support for Angular apps. It uses the Webpack DevServer under the hood. Requires Nightwatch 2.4+.
-*   [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based (⭐90k)](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1139,7 +1138,7 @@
 
 ### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ionic-angular-library (⭐5)](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
+*   [ionic-angular-library (⭐7)](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
 *   [IDEA-Ionic8-extra (⭐2)](https://github.com/iter-idea/IDEA-Ionic8-extra) - [IDEA's](https://www.iter-idea.com/) extra components and services built on Ionic 8, and distributed with different NPM packages.
 
 ## [40. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
@@ -1150,7 +1149,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-bundle-obfuscator (⭐94)](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
+*   [vite-plugin-bundle-obfuscator (⭐120)](https://github.com/z0ffy/vite-plugin-bundle-obfuscator) - JavaScript obfuscator.
 
 ## [41. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
@@ -1160,7 +1159,7 @@
 
 ### Authorization / ReBAC frameworks
 
-*   [Permify (⭐4.8k)](https://github.com/Permify/permify) - Another open-source authorization as a service inspired by Google Zanzibar, and see [how it compares to other Zanzibar-inspired tools](https://permify.notion.site/Differentiation-Between-Zanzibar-Products-ad4732da62e64655bc82d3abe25f48b6).
+*   [Permify (⭐5.3k)](https://github.com/Permify/permify) - Another open-source authorization as a service inspired by Google Zanzibar, and see [how it compares to other Zanzibar-inspired tools](https://permify.notion.site/Differentiation-Between-Zanzibar-Products-ad4732da62e64655bc82d3abe25f48b6).
 
 ### Authorization / AWS policy tools
 
@@ -1168,12 +1167,12 @@
 
 ### Authorization / Other tools
 
-*   [Gubernator (⭐94)](https://github.com/gubernator-io/gubernator) - High performance rate-limiting micro-service and library.
+*   [Gubernator (⭐121)](https://github.com/gubernator-io/gubernator) - High performance rate-limiting micro-service and library.
 
 ### OAuth2 & OpenID / Other tools
 
 *   [How to Implement a Secure Central Authentication Service in Six Steps](https://shopify.engineering/implement-secure-central-authentication-service-six-steps) - Got multiple legacy systems to merge with their own login methods and accounts? Here is how to merge all that mess by the way of OIDC.
-*   [Authgear (⭐81)](https://github.com/authgear/authgear-server) - Open-source authentication-as-a-service solution. It includes the code for the server, AuthUI, the Portal, and Admin API.
+*   [Authgear (⭐89)](https://github.com/authgear/authgear-server) - Open-source authentication-as-a-service solution. It includes the code for the server, AuthUI, the Portal, and Admin API.
 
 ### Trust & Safety / User Identity
 
@@ -1209,15 +1208,15 @@
 
 ### Software / Analytics
 
-*   [Prisme Analytics](https://www.prismeanalytics.com) - A privacy-focused and progressive analytics service based on Grafana. ([Demo](https://app.prismeanalytics.com/grafana), [Source Code (⭐83)](https://github.com/prismelabs/analytics)) `AGPL-3.0/MIT` `Docker`
+*   [Prisme Analytics](https://www.prismeanalytics.com) - A privacy-focused and progressive analytics service based on Grafana. ([Demo](https://app.prismeanalytics.com/grafana), [Source Code (⭐88)](https://github.com/prismelabs/analytics)) `AGPL-3.0/MIT` `Docker`
 
 ### Software / Games - Administrative Utilities & Control Panels
 
-*   [Kubek](https://kubek.seeeroy.ru) - Web management panel for Minecraft servers. ([Source Code (⭐98)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
+*   [Kubek](https://kubek.seeeroy.ru) - Web management panel for Minecraft servers. ([Source Code (⭐104)](https://github.com/seeroy/kubek-minecraft-dashboard)) `GPL-3.0` `Nodejs`
 
 ### Software / Miscellaneous
 
-*   [MyIP](https://ipcheck.ing) `⚠` - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more. ([Demo](https://ipcheck.ing), [Source Code (⭐7.1k)](https://github.com/jason5ng32/MyIP)) `MIT` `Nodejs/Docker`
+*   [MyIP](https://ipcheck.ing) `⚠` - All in one IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability and more. ([Demo](https://ipcheck.ing), [Source Code (⭐7.7k)](https://github.com/jason5ng32/MyIP)) `MIT` `Nodejs/Docker`
 
 ---
 

@@ -56,11 +56,17 @@
 
 ## [3. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
-### Introduction
+### Learning, Tutorials & Documentation / Encoding & Transcoding Guides
+
+*   [leandromoreira/digital\_video\_introduction (⭐16k)](https://github.com/leandromoreira/digital_video_introduction)  - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). - leandromoreira/digital\_video\_introduction
+
+### Learning, Tutorials & Documentation / Video Streaming Tutorials
+
+*   [Eyevinn/streaming-onboarding (⭐539)](https://github.com/Eyevinn/streaming-onboarding)  - New to streaming and don't know where to start? This is the place for you! - Eyevinn/streaming-onboarding
+
+### Learning, Tutorials & Documentation / Webinars & Conference Talks
 
 *   [A short history of video coding](https://www.slideshare.net/vcodex/a-short-history-of-video-coding?from_m_app=ios)  - Video coding is an essential component of video streaming, digital TV, video chat and many other technologies. This presentation, an invited lecture to the US …
-*   [Eyevinn/streaming-onboarding (⭐533)](https://github.com/Eyevinn/streaming-onboarding)  - New to streaming and don't know where to start? This is the place for you! - Eyevinn/streaming-onboarding
-*   [leandromoreira/digital\_video\_introduction (⭐16k)](https://github.com/leandromoreira/digital_video_introduction)  - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). - leandromoreira/digital\_video\_introduction
 
 ## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
@@ -90,7 +96,7 @@
 
 ### Examples
 
-*   [MananTank/radioactive-state (⭐313)](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
+*   [MananTank/radioactive-state (⭐314)](https://github.com/MananTank/radioactive-state#readme) - Badges (version, downloads, coverage, size), Twitter Intent, Project Logo, Feature list, Motivation, Installation, Example with GIFs, Emojis, Collapsible Sections, Live Demos, API detailed usage, FAQs, Chat link.
 
 ---
 

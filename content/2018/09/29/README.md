@@ -11,9 +11,9 @@
 ### Platforms
 
 *   macOS - Operating system for Apple's Mac computers.
-    *   [Screensavers (⭐4k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-    *   [Apps (⭐77k)](https://github.com/jaywcjlove/awesome-mac#readme)
-    *   [Open Source Apps (⭐42k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+    *   [Screensavers (⭐4.1k)](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+    *   [Apps (⭐81k)](https://github.com/jaywcjlove/awesome-mac#readme)
+    *   [Open Source Apps (⭐43k)](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 
 ## [2. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/README.md)
 
@@ -54,7 +54,7 @@ Rename Index.txt to Index.html
 
 ### Misc
 
-*   [aioserial (⭐109)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐2.8k)](https://github.com/pyserial/pyserial).
+*   [aioserial (⭐136)](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial (⭐3.3k)](https://github.com/pyserial/pyserial).
 
 ## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
@@ -86,7 +86,7 @@ Rename Index.txt to Index.html
 
 ### Device / Scanner
 
-*   [QR Code Reader (⭐233)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
+*   [QR Code Reader (⭐232)](https://github.com/villela/flutter_qrcode_reader) <!--stargazers:villela/flutter_qrcode_reader--> - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
 *   [Fast QR Reader View (⭐294)](https://github.com/facundomedica/fast_qr_reader_view) <!--stargazers:facundomedica/fast_qr_reader_view--> - Live multicode reader by [Facundo Medica](https://github.com/facundomedica)
 
 ### Device / Bluetooth / NFC / Beacon

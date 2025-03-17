@@ -28,7 +28,7 @@
 
 ## [3. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
-### Websites / Other
+### Websites / Socials
 
 *   [OverOps Blog](https://blog.overops.com)
 
@@ -54,10 +54,10 @@
 
 ### Alternatives to asyncio
 
-*   [curio (⭐3.9k)](https://github.com/dabeaz/curio) - The coroutine concurrency library.
-    *   [Curio-Asyncio Bridge (⭐3.9k)](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge.
-*   [trio (⭐5k)](https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.
-    *   [trio-asyncio (⭐163)](https://github.com/python-trio/trio-asyncio) - re-implementation of the asyncio mainloop on top of Trio.
+*   [curio (⭐4.1k)](https://github.com/dabeaz/curio) - The coroutine concurrency library.
+    *   [Curio-Asyncio Bridge (⭐4.1k)](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge.
+*   [trio (⭐6.4k)](https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.
+    *   [trio-asyncio (⭐191)](https://github.com/python-trio/trio-asyncio) - re-implementation of the asyncio mainloop on top of Trio.
 
 ## [7. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
@@ -182,22 +182,6 @@
 
 
 
-### Hosted Bitcoin Payment Processors / Custodial
-
-- Processor: [Strike](https://strike.acinq.co/)
-
-  Fees: 1%
-
-  Lightning: Only
-
-  Directly to Your Wallet: No
-
-  Conversion to Fiat: No
-
-  Requirements: For companies, the name of a company and a physical address.
-
-
-
 ## [18. Awesome Captcha](/content/ZYSzys/awesome-captcha/week/README.md)
 
 ### Crack / General
@@ -277,27 +261,27 @@
 
 ### Platforms
 
-*   [IBM Cloud (⭐100)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-*   [Firebase (⭐725)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud.
+*   [IBM Cloud (⭐103)](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
+*   [Firebase (⭐739)](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud.
 
 ### Programming Languages
 
-*   [Ada/SPARK (⭐654)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
+*   [Ada/SPARK (⭐683)](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 
 ### Decentralized Systems
 
-*   [Blockchain AI (⭐948)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
+*   [Blockchain AI (⭐994)](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 
 ### Miscellaneous
 
-*   [Food (⭐187)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
-*   [Bitcoin Payment Processors (⭐438)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+*   [Food (⭐194)](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
+*   [Bitcoin Payment Processors (⭐473)](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
 
 ## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Bookmarks and Link Sharing
 
-*   [Espial (⭐807)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
+*   [Espial (⭐824)](https://github.com/jonschoning/espial) - An open-source, web-based bookmarking server. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Social Networks and Forums
 
@@ -314,7 +298,7 @@
 
 ### C bindings
 
-*   [ssh2.cr (⭐45)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
+*   [ssh2.cr (⭐46)](https://github.com/spider-gazelle/ssh2.cr) - Bindings for libssh2 library
 
 ### HTTP
 
@@ -353,10 +337,6 @@
 *   [ember-ref-modifier (⭐44)](https://github.com/lifeart/ember-ref-modifier) - An implementation of the `{{ref}}` element modifier.
 
 ## [32. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [VisiData](https://visidata.org) - Terminal spreadsheet multitool for discovering and arranging data. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/saulpw/visidata) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / To-Do Lists
 
@@ -484,7 +464,7 @@
 
 ### Algorithms and Data Structures
 
-*   [Decompress (⭐115)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
+*   [Decompress (⭐116)](https://github.com/mirage/decompress) - A pure OCaml implementation of Zlib.
 *   [Ke (⭐51)](https://github.com/mirage/ke) - Fast implementation of queue (FIFO) in OCaml.
 *   [Duff (⭐20)](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
@@ -502,7 +482,7 @@
 
 ### API
 
-*   [SwiftyInsta (⭐224)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
+*   [SwiftyInsta (⭐226)](https://github.com/TheM4hd1/SwiftyInsta) - Private and Tokenless Instagram RESTful API.
 
 ### Form / Barcode
 

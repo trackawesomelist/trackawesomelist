@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 10, 2020
 
-18 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -29,7 +29,7 @@
 
 ### Templates / Preferences
 
-*   [Smart Washing Machine (⭐882)](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
+*   [Smart Washing Machine (⭐886)](https://github.com/pawlik92/flutter_whirlpool) <!--stargazers:pawlik92/flutter_whirlpool--> - Smart washing machine UI challenge app with Box2D physic engine by [Tomasz Pawlikowski](https://github.com/pawlik92)
 
 ## [5. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -49,19 +49,13 @@
 
 *   [d3-upset (⭐14)](https://github.com/chuntul/d3-upset) - Functions for plotting an UpSet plot \[upset, bar, intersections, venn, relationships]
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-### Applications
-
-*   [wezterm (⭐19k)](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer
-
-## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Reference Documentation / Kernel Documentation
 
 *   [linux/Documentation/networking/filter.rst](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/networking/filter.rst) - eBPF specification (somewhat outdated; information should still be valid, but not exhaustive).
 
-## [10. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [9. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### RSS Extensions / Outline Processor Markup Language
 
@@ -89,7 +83,7 @@
 
 *   [Mapnews.io](https://mapnews.io/) <sup>[657](https://t.me/s/aboutrss/657)</sup> : Today's News on a Map [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/TristanMenzinger/Mapnews)
 
-## [11. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Dependency Injection
 
@@ -101,22 +95,22 @@
 
 ### Web Frameworks
 
-*   [Athena (⭐213)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
+*   [Athena (⭐215)](https://github.com/athena-framework/athena) - A web framework comprised of reusable, independent components
 
-## [12. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
+## [11. Awesome Jamstack](/content/automata/awesome-jamstack/README.md)
 
 ### Tutorials / Articles / Automation
 
 *   [Jamify Tutorials — Publish flaring fast blogs with Gatsby and Ghost](https://www.jamify.org)
 
-## [13. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [12. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Books
 
 *   [Programming Elixir 1.6](https://pragprog.com/titles/elixir16/) - The book provides introduction to functional and concurrent programming with Elixir by Dave Thomas (2014).
 *   [Programming Phoenix 1.4](https://pragprog.com/titles/phoenix14/) - Definitive guide to build web applications with the Phoenix framework by Chris McCord, José Valim and Bruce Tate (2015).
 
-## [14. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [13. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Documentation and Presentation
 
@@ -261,19 +255,19 @@
 
 *   [dataset-api (⭐455)](https://github.com/ApolloScapeAuto/dataset-api) - This is a repo of toolkit for ApolloScape Dataset, CVPR 2019 Workshop on Autonomous Driving Challenge and ECCV 2018 challenge.
 
-## [15. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
+## [14. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 
 ### 🇷🇺 Russian books
 
 *   [*Swift. Основы разработки приложений под iOS, iPadOS и macOS* - Усов Василий](https://www.ozon.ru/context/detail/id/159759961/)
 
-## [16. Awesome React Components](/content/brillout/awesome-react-components/README.md)
+## [15. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
 ### Menu
 
 *   [hamburger-react (⭐938)](https://github.com/luukdv/hamburger-react) - [demo/docs](https://hamburger-react.netlify.app/) - Animated hamburger menu icons for React.
 
-## [17. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
+## [16. Awesome Fuzzing](/content/cpuu/awesome-fuzzing/README.md)
 
 ### Papers / IEEE Symposium on Security and Privacy (IEEE S&P)
 
@@ -283,7 +277,7 @@
 *   [Pangolin:Incremental Hybrid Fuzzing with Polyhedral Path Abstraction, 2020](https://qingkaishi.github.io/public_pdfs/SP2020.pdf)
 *   [RetroWrite: Statically Instrumenting COTS Binaries for Fuzzing and Sanitization, 2020](https://www.semanticscholar.org/paper/RetroWrite%3A-Statically-Instrumenting-COTS-Binaries-Dinesh-Burow/845cafb153b0e4b9943c6d9b6a7e42c14845a0d6)
 
-## [18. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
+## [17. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md)
 
 ### Websites
 

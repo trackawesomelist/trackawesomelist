@@ -32,11 +32,6 @@
 
 ## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
-### Community
-
-*   [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
-*   [`#ng-2 Slack Channel`](https://angularbuddies.slack.com/messages/ng-2/) on AngularBuddies.
-
 ### On-Site Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Boot Camp](https://angularbootcamp.com)

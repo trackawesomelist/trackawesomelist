@@ -22,7 +22,7 @@
 
 ### Table of Contents / Command Line
 
-*   [Commando (⭐799)](https://github.com/nategood/commando) - Another simple command line opt parser.
+*   [Commando (⭐798)](https://github.com/nategood/commando) - Another simple command line opt parser.
 *   [Cron Expression (⭐4.9k)](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 
 ### Table of Contents / Filtering, Sanitizing and Validation

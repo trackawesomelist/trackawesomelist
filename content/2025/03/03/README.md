@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 03, 2025
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -68,7 +68,40 @@
 
 *   [Cambridge Foundations of CS](https://www.cl.cam.ac.uk/teaching/2425/FoundsCS/materials.html) - It teaches programming and presents some fundamental principles of computer science, especially algorithm design.
 
-## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+
+### Index / Design and Creative Tools
+
+*   [Flowbite](https://flowbite.com) 🇷🇴 - Open-source UI library for web developers and designers.
+
+### Index / Domain name registrars
+
+*   [Netsite](https://www.netsite.dk) 🇩🇰
+
+### Index / File Sharing
+
+*   [Transfer.zip](https://transfer.zip/) 🇸🇪 - Open-source end-to-end encrypted file transfers, hosted in the EU.
+*   [FileMail](https://filemail.com/) 🇳🇴 - Send large files up to 5GB for free.
+*   [WeTransfer](https://wetransfer.com/) 🇳🇱 - Send large files fast.
+*   [Sprend](https://sprend.com/) 🇸🇪 - Send large files for free online.
+
+### Index / IDEs
+
+*   [Luna Park](https://luna-park.app/) 🇫🇷 - Visual scripting IDE for web development.
+
+### Index / Password manager services
+
+*   [Dashlane](https://www.dashlane.com) 🇫🇷
+
+### Index / Productivity Tools
+
+*   [ReadWorks](https://www.readworks.app) 🇩🇪 - Free and open-source eDiscovery solution
+
+### Index / Sustainability and Recycling
+
+*   [CALMS](https://calms.com) 🇸🇮 - Company working in Industry 4.0, IIOT and AI to reduce energy usage and optimize optimization of factories using advanced software and hardware solution.
+
+## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / System tools
 
@@ -78,7 +111,7 @@
 
 *   [iggy (⭐2.3k)](https://github.com/apache/iggy) \[[iggy](https://crates.io/crates/iggy)] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/apache/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/apache/iggy/actions/workflows/test.yml)
 
-## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [8. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Resources / Learning
 
@@ -92,7 +125,7 @@
 
 *   [nvd](https://git.sr.ht/~khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Accessibility / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -106,7 +139,7 @@
 
 *   [schema-forms (⭐3)](https://github.com/Jaspero/schema-forms) - A library for building forms through standard JSON schemas.
 
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Plugin Manager
 
@@ -122,4 +155,5 @@
 
 ---
 
+- Prev: [Mar 04, 2025](/content/2025/03/04/README.md)
 - Next: [Mar 02, 2025](/content/2025/03/02/README.md)

@@ -169,7 +169,7 @@
 
 ### Core Data
 
-*   [JSQCoreDataKit (⭐616)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
+*   [JSQCoreDataKit (⭐615)](https://github.com/jessesquires/JSQCoreDataKit) - A swifter Core Data stack.
 
 ## [7. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -225,7 +225,7 @@
 
 ### JSON
 
-*   [json-voorhees (⭐129)](https://github.com/tgockel/json-voorhees) - JSON library for C++. Support for C++11. No dependencies, fast and dev-friendly. \[Apache2]
+*   [json-voorhees (⭐130)](https://github.com/tgockel/json-voorhees) - JSON library for C++. Support for C++11. No dependencies, fast and dev-friendly. \[Apache2]
 
 ## [10. Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/week/README.md)
 
@@ -304,13 +304,13 @@
 
 ### Database Drivers
 
-*   [Neography (⭐602)](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
+*   [Neography (⭐606)](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
 
 ### Implementations/Compilers
 
 *   [JRuby (⭐3.8k)](https://github.com/jruby/jruby) - A Java implementation of the Ruby language.
 *   [MRuby (⭐5.3k)](https://github.com/mruby/mruby) - Lightweight Ruby. Can be linked and embedded in your application.
-*   [Opal (⭐4.8k)](https://github.com/opal/opal) - Ruby to Javascript compiler.
+*   [Opal (⭐4.9k)](https://github.com/opal/opal) - Ruby to Javascript compiler.
 *   [Rubinius (⭐3.1k)](https://github.com/rubinius/rubinius) - An implementation of the Ruby programming language. Rubinius includes a bytecode virtual machine, Ruby syntax parser, bytecode compiler, generational garbage collector, just-in-time (JIT) native machine code compiler, and Ruby Core and Standard libraries.
 
 ### ORM/ODM

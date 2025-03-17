@@ -16,19 +16,19 @@
 
 ### Extensions
 
-*   [Next-Sitemap (⭐3.4k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
+*   [Next-Sitemap (⭐3.5k)](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for Next.js
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Self-hosted Terraform Platforms / IDE
 
-*   [OTF (⭐506)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration. :skull:
+*   [OTF (⭐521)](https://github.com/leg100/otf) - Open Terraforming Framework, an open source alternative to Terraform Enterprise with full Terraform CLI integration. :skull:
 
 ## [4. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ### Find My Device
 
-*   [GPSlogger (⭐2k)](https://github.com/mendhak/gpslogger) - Lightweight GPS Logging Application For Android. No servers, no internet. Saved to a simple file to local storage.
+*   [GPSlogger (⭐2.1k)](https://github.com/mendhak/gpslogger) - Lightweight GPS Logging Application For Android. No servers, no internet. Saved to a simple file to local storage.
 
 ## [5. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 

@@ -33,7 +33,7 @@
 
 ### Generators / Other
 
-*   [Next.js (⭐125k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
+*   [Next.js (⭐130k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 
 ## [5. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Music Programming
 
-*   [tuneflow-py (⭐811)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
+*   [tuneflow-py (⭐817)](https://github.com/tuneflow/tuneflow-py/) - python plugin SDK for the next-gen DAW, that allows you to program your music algorithms & AI models into all stages of music production
 
 ---
 

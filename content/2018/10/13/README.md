@@ -129,8 +129,8 @@
 
 ### Packages / Command-line apps
 
-*   [cash-cli (⭐236)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
-*   [discharge (⭐643)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+*   [cash-cli (⭐240)](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+*   [discharge (⭐649)](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 ### Packages / Debugging / Profiling
 
@@ -138,11 +138,11 @@
 
 ### Packages / Command-line utilities
 
-*   [Cliffy (⭐359)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+*   [Cliffy (⭐362)](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 
 ### Packages / Real-time
 
-*   [rpc-websockets (⭐594)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+*   [rpc-websockets (⭐601)](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 
 ### Packages / Security
 
@@ -150,7 +150,7 @@
 
 ### Packages / Authorization
 
-*   [node-casbin (⭐2.6k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
+*   [node-casbin (⭐2.7k)](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
 
 ## [11. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

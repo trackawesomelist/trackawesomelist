@@ -78,13 +78,13 @@ The top ten most common and critical security vulnerabilities found in web appli
 
 ### Useful libraries
 
-### [defuse/php-encryption (⭐3.5k)](https://github.com/defuse/php-encryption)
+### [defuse/php-encryption (⭐3.8k)](https://github.com/defuse/php-encryption)
 
 Symmetric-key encryption library for PHP applications. (**Recommended** over rolling your own!)
-### [ircmaxell/password\_compat (⭐2.2k)](https://github.com/ircmaxell/password_compat)
+### [ircmaxell/password\_compat (⭐2.1k)](https://github.com/ircmaxell/password_compat)
 
 If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
-### [ircmaxell/RandomLib (⭐831)](https://github.com/ircmaxell/RandomLib)
+### [ircmaxell/RandomLib (⭐843)](https://github.com/ircmaxell/RandomLib)
 
 Useful for generating random strings or numbers
 

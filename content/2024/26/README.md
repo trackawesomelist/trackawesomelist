@@ -1,6 +1,6 @@
 # Awesome List Updates on Jun 24 - Jun 30, 2024
 
-13 awesome lists updated this week.
+14 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -39,8 +39,8 @@
 
 ### Other Lists / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [awesome-utils-dev/angular (⭐171)](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here.
-*   [awesome-angular (⭐92)](https://github.com/DaanDeSmedt/awesome-angular)
+*   [awesome-utils-dev/angular (⭐179)](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here.
+*   [awesome-angular (⭐93)](https://github.com/DaanDeSmedt/awesome-angular)
 *   [angular enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
 
 ## [5. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
@@ -80,11 +80,11 @@
 
 ### Data Ingestion
 
-*   [Google Sheets ETL (⭐18)](https://github.com/fulldecent/google-sheets-etl) - Live import all your Google Sheets to your data warehouse.
+*   [Google Sheets ETL (⭐20)](https://github.com/fulldecent/google-sheets-etl) - Live import all your Google Sheets to your data warehouse.
 
 ### Workflow
 
-*   [Kestra (⭐9.9k)](https://github.com/kestra-io/kestra) - A versatile open source orchestrator and scheduler built on Java, designed to handle a broad range of workflows with a language-agnostic, API-first architecture.
+*   [Kestra (⭐16k)](https://github.com/kestra-io/kestra) - A versatile open source orchestrator and scheduler built on Java, designed to handle a broad range of workflows with a language-agnostic, API-first architecture.
 
 ## [10. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
@@ -112,15 +112,22 @@
 
 ### (requires Neovim 0.5)
 
-*   [rachartier/tiny-inline-diagnostic.nvim (⭐771)](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
+*   [rachartier/tiny-inline-diagnostic.nvim (⭐838)](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - Display prettier diagnostic messages. Display one line diagnostic messages where the cursor is, with icons and colors.
 
 ### Web Development / Diagnostics
 
-*   [cjodo/convert.nvim (⭐49)](https://github.com/cjodo/convert.nvim) - A tool for CSS unit conversions.
+*   [cjodo/convert.nvim (⭐50)](https://github.com/cjodo/convert.nvim) - A tool for CSS unit conversions.
 
 ### Search / Diagnostics
 
-*   [chrisgrieser/nvim-rip-substitute (⭐222)](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for Vim's `:substitute` using `ripgrep`.
+*   [chrisgrieser/nvim-rip-substitute (⭐234)](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for Vim's `:substitute` using `ripgrep`.
+
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Rust / Sinatra
+
+*   [Effective Rust](https://www.lurklurk.org/effective-rust) - David Drysdale (HTML, PDF)
+*   [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 
 ---
 

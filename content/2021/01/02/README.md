@@ -8,7 +8,7 @@
 
 ## [1. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
-### IO Games
+### Games / IO Games
 
 *   [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
 
@@ -27,7 +27,7 @@
 
 ### Actors
 
-*   [bpe (⭐265)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
+*   [bpe (⭐266)](https://github.com/spawnproc/bpe) - Business Process Engine in Erlang. ([Doc](https://bpe.n2o.dev)).
 
 ### Applications
 
@@ -49,7 +49,7 @@
 
 ### Security
 
-*   [ca (⭐17)](https://github.com/synrc/ca) - Certificate Authority.
+*   [ca (⭐18)](https://github.com/synrc/ca) - Certificate Authority.
 
 ### Validations
 

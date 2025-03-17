@@ -22,13 +22,13 @@
 
 ### 2D / Godot 3
 
-*   [ROTA (⭐231)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
+*   [ROTA (⭐238)](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Reflection
 
-*   [go-deepcopy (⭐38)](https://github.com/tiendc/go-deepcopy) - Fast deep copy library.
+*   [go-deepcopy (⭐44)](https://github.com/tiendc/go-deepcopy) - Fast deep copy library.
 
 ## [5. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
@@ -59,11 +59,11 @@
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-stories (⭐18)](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
+*   [ngx-stories (⭐19)](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
 
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-md (⭐267)](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
+*   [ngx-md (⭐266)](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -71,7 +71,7 @@
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-copypaste (⭐28)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
+*   [ngx-copypaste (⭐29)](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
 
 ## [10. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

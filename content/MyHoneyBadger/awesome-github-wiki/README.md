@@ -199,14 +199,14 @@
 
 ### Examples
 
-*   [facebook/react-native (⭐120k)](https://github.com/facebook/react-native/wiki)
+*   [facebook/react-native (⭐121k)](https://github.com/facebook/react-native/wiki)
 
 ## [Sep 24, 2022](/content/2022/09/24/README.md)
 
 ### Examples
 
 *   [guard/guard (⭐6.3k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
-*   [google/guava (⭐50k)](https://github.com/google/guava/wiki)
+*   [google/guava (⭐51k)](https://github.com/google/guava/wiki)
 
 ### Useful links with tips & tricks
 

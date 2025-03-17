@@ -1,6 +1,6 @@
 # Awesome List Updates on Dec 03, 2024
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Physics
 
-*   [QuarkPhysics (⭐221)](https://github.com/erayzesen/QuarkPhysics) - A 2D Soft Body and Rigid Body Physics Engine. \[MIT]
+*   [QuarkPhysics (⭐235)](https://github.com/erayzesen/QuarkPhysics) - A 2D Soft Body and Rigid Body Physics Engine. \[MIT]
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -730,12 +730,6 @@
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |   2 - 5 |      10+ | 45-60m |
-
-## [10. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Professional Development
-
-*   [Succeed In Software: A Comprehensive Guide To Software Career Excellence (⭐1)](https://github.com/succeedinsoftware/book) - Sean Cannon (PDF, ePUB) (CC BY-NC-ND)
 
 ---
 

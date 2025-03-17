@@ -16,7 +16,7 @@
 
 ### Cognitive Development
 
-*   [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** \[21:22]
+*   [Ideology](https://www.destroyallsoftware.com/talks/ideology) by **Gary Bernhardt** (Strange Loop 2015) \[21:22]
 
 ## [3. Awesome Math](/content/rossant/awesome-math/README.md)
 

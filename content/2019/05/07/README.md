@@ -58,7 +58,7 @@
 
 ## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
-### Reading and Writing Tools / Markdown Tools
+### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 *   [Marp](https://marp.app) - Markdown presentation writer with cross-platform support. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/yhatt/marp) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 

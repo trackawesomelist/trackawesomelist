@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 30, 2021
 
-9 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -59,7 +59,13 @@
 
 *   [nnAudio (⭐867)](https://github.com/KinWaiCheuk/nnAudio) [:octocat: (⭐867)](https://github.com/KinWaiCheuk/nnAudio) [:package:](https://pypi.org/project/nnAudio/) - Accelerated audio processing using 1D convolution networks in PyTorch.
 
-## [8. Public Apis](/content/public-apis/public-apis/README.md)
+## [8. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Bash / Non-X86
+
+*   [GNU Bash manual](https://www.gnu.org/software/bash/manual/bash.pdf) (PDF)
+
+## [9. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Development
 
@@ -103,7 +109,7 @@
 
 
 
-## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

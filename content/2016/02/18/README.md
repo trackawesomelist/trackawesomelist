@@ -45,7 +45,7 @@
 
 ### Programming fonts / Fonts
 
-*   [Fantasque Sans Mono (⭐7k)](https://github.com/belluzj/fantasque-sans)
+*   [Fantasque Sans Mono (⭐7.1k)](https://github.com/belluzj/fantasque-sans)
 
 ### Programming fonts / Programming fonts with ligatures
 
@@ -54,7 +54,7 @@
 ### JavaScript libs / Event listeners for fonts loading on a web page
 
 *   [Font Face Observer (⭐4.3k)](https://github.com/bramstein/fontfaceobserver)
-*   [Web Font Loader (⭐9.2k)](https://github.com/typekit/webfontloader)
+*   [Web Font Loader (⭐9.3k)](https://github.com/typekit/webfontloader)
 
 ## [6. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 

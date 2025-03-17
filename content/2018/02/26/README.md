@@ -96,13 +96,13 @@
 
 ### Animation, Graphics & Video Playout
 
-*   [Open Playout Automation (⭐178)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
+*   [Open Playout Automation (⭐185)](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 
 ## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Data Visualization / Graph Based approach
 
-*   Public Datasets [awesome-public-datasets (⭐54k)](https://github.com/awesomedata/awesome-public-datasets).
+*   Public Datasets [awesome-public-datasets (⭐62k)](https://github.com/awesomedata/awesome-public-datasets).
 
 ## [7. Awesome Javascript Learning](/content/micromata/awesome-javascript-learning/README.md)
 

@@ -11,7 +11,7 @@
 ### Table of Contents / Micro Framework Extras
 
 *   [Slim Twig View (⭐305)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-*   [Slim PHP View (⭐266)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+*   [Slim PHP View (⭐267)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Event
 
@@ -31,7 +31,7 @@
 
 ### Tours And Guides / Runner
 
-*   [driver.js (⭐22k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
+*   [driver.js (⭐24k)](https://github.com/kamranahmedse/driver.js) - Powerful yet light-weight, vanilla JavaScript engine to drive the user's focus across the page
 
 ## [4. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 

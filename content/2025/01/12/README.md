@@ -10,7 +10,7 @@
 
 ### Git / Diagnostics
 
-*   [mrloop/telescope-git-branch.nvim (⭐7)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
+*   [mrloop/telescope-git-branch.nvim (⭐8)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
 
 ### Split and Window / Diagnostics
 
@@ -24,8 +24,8 @@
 
 ### Engine themes / Godot version unknown
 
-*   [Catppuccin Theme (⭐117)](https://github.com/catppuccin/godot) - A soothing pastel theme offered in four different flavors.
-*   [Godot Minimal Theme (⭐2.1k)](https://github.com/passivestar/godot-minimal-theme) - A theme that aims to correct odd spacing and formatting in the default Godot theme without changing the overall look and feel.
+*   [Catppuccin Theme (⭐130)](https://github.com/catppuccin/godot) - A soothing pastel theme offered in four different flavors.
+*   [Godot Minimal Theme (⭐2.3k)](https://github.com/passivestar/godot-minimal-theme) - A theme that aims to correct odd spacing and formatting in the default Godot theme without changing the overall look and feel.
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [aish (⭐24)](https://github.com/chr15m/aish) - Instant shell script solutions from OpenAI right in your prompt.
+*   [aish (⭐27)](https://github.com/chr15m/aish) - Instant shell script solutions from OpenAI right in your prompt.
 *   [life-progress (⭐0)](https://github.com/bGZo/life-progress) - Shows your life progress in days, weeks, months, and age.
 *   [vivi (⭐0)](https://github.com/rufevean/vivi) - Integrates Google's [Gemini](https://gemini.google.com) language model (LLM) capabilities directly into your terminal. It allows you to send queries to the language model and receive AI-generated solutions, all within your terminal. The plugin supports session context and can dynamically execute received commands.
 

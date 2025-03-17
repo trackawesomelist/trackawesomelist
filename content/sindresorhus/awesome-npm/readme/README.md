@@ -31,7 +31,7 @@ Awesome npm resources and tips
 
 ## Articles
 
-*   [Small focused modules (⭐143)](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
+*   [Small focused modules (⭐141)](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
 *   [Unix philosophy and Node.js](http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs) - Write programs that do one thing and do it well.
 *   [Writing small modules](https://web.archive.org/web/20180302125059/https://substack.net/how_I_write_modules)
 *   [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/) *(Must read!)*
@@ -54,7 +54,6 @@ Awesome npm resources and tips
 *   [npm-stat](http://npm-stat.com) - Statistics charts for packages.
 *   [npmgraph](http://npm.anvaka.com) - Visualization of dependencies.
 *   [npm trends](http://www.npmtrends.com) - Compare package download counts over time.
-*   [npm-compare](https://npm-compare.com) - Easily search and compare packages.
 *   [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) - npm users by downloads.
 *   [npm semver calculator](http://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 *   [ghub.io](https://ghub.io) - Redirects to the GitHub repo of an npm package.
@@ -69,8 +68,8 @@ Awesome npm resources and tips
 
 ### CLI
 
-*   [zsh-better-npm-completion (⭐466)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
-*   [npkill (⭐8.3k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [zsh-better-npm-completion (⭐479)](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
+*   [npkill (⭐8.5k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## Packages
 
@@ -79,25 +78,25 @@ Awesome npm resources and tips
 *   [np (⭐7.6k)](https://github.com/sindresorhus/np) - A better `npm publish`.
 *   [publish-please (⭐737)](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 *   [npm-release (⭐102)](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
-*   [pkgfiles (⭐84)](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
-*   [release-it (⭐8k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
-*   [semantic-release (⭐21k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
+*   [pkgfiles (⭐85)](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
+*   [release-it (⭐8.3k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
+*   [semantic-release (⭐22k)](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
 
 ### Registry
 
-*   [npm-name (⭐284)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-*   [package-json (⭐236)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
+*   [npm-name (⭐287)](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+*   [package-json (⭐240)](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
 *   [latest-version (⭐53)](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
 *   [npm-keyword (⭐52)](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
 *   [npm-user (⭐57)](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
 *   [npm-email (⭐32)](https://github.com/sindresorhus/npm-email) - Get the email of an npm user.
-*   [npm-user-packages (⭐3)](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
+*   [npm-user-packages (⭐5)](https://github.com/kevva/npm-user-packages-cli) - Get packages by an npm user.
 *   [dpn (⭐27)](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
 *   [npm-stats (⭐51)](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
-*   [npm-cli-login (⭐114)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
-*   [nrm (⭐2.8k)](https://github.com/Pana/nrm) - Registry manager.
-*   [npm-register (⭐482)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
-*   [verdaccio (⭐16k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+*   [npm-cli-login (⭐116)](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
+*   [nrm (⭐2.9k)](https://github.com/Pana/nrm) - Registry manager.
+*   [npm-register (⭐485)](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
+*   [verdaccio (⭐17k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
 *   [cloudsmith](https://cloudsmith.io/l/npm-registry/) - A fully managed package management SaaS with support for public and private npm registries (and many others).
 
 ### Other
@@ -106,39 +105,39 @@ Awesome npm resources and tips
 *   [gh-home (⭐191)](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
 *   [david (⭐968)](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
 *   [npm-check (⭐6.6k)](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
-*   [npm-upgrade (⭐341)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
-*   [npm-shrinkwrap (⭐773)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
+*   [npm-upgrade (⭐340)](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
+*   [npm-shrinkwrap (⭐771)](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 *   [npm-windows-upgrade (⭐2.5k)](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-*   [generator-nm (⭐743)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
-*   [package-up (⭐159)](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
-*   [read-package-up (⭐258)](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
-*   [normalize-package-data (⭐196)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
-*   [package-config (⭐120)](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
+*   [generator-nm (⭐741)](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
+*   [package-up (⭐162)](https://github.com/sindresorhus/package-up) - Find the closest package.json file.
+*   [read-package-up (⭐266)](https://github.com/sindresorhus/read-package-up) - Read the closest package.json file.
+*   [normalize-package-data (⭐199)](https://github.com/npm/normalize-package-data) - Normalize package metadata.
+*   [package-config (⭐121)](https://github.com/sindresorhus/package-config) - Get namespaced config from the closest package.json.
 *   [npm-run-path (⭐104)](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
 *   [local-npm (⭐1.2k)](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
-*   [npe (⭐92)](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
+*   [npe (⭐93)](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
 *   [engine-deps (⭐20)](https://github.com/samccone/engine-deps) - Manage Node.js version specific dependencies with ease.
 *   [enpeem-search (⭐4)](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search.
 *   [npm-issues (⭐48)](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 *   [john (⭐42)](https://github.com/davej/john) - Make npm3's flat dependencies easier to find and sort.
-*   [ntl (⭐932)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
+*   [ntl (⭐941)](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
 *   [decheck (⭐9)](https://github.com/egoist/decheck) - Explore dependencies of npm packages in the command-line.
-*   [shrinkpack (⭐793)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
-*   [redrun (⭐122)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
-*   [package-size (⭐424)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
-*   [synp (⭐757)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
-*   [npm-run-all (⭐5.7k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
-*   [onchange (⭐816)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
-*   [cli-error-notifier (⭐72)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
+*   [shrinkpack (⭐798)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
+*   [redrun (⭐124)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+*   [package-size (⭐422)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+*   [synp (⭐767)](https://github.com/imsnif/synp) - Convert yarn.lock to package-lock.json and vice versa.
+*   [npm-run-all (⭐5.8k)](https://github.com/mysticatea/npm-run-all) - CLI tool to run multiple npm-scripts in parallel or serial.
+*   [onchange (⭐821)](https://github.com/Qard/onchange) - Watch files and folders and run a command when something changed.
+*   [cli-error-notifier (⭐71)](https://github.com/micromata/cli-error-notifier) - Sends native desktop notifications when npm scripts fail.
 *   [luna (⭐1k)](https://github.com/rvpanoz/luna) - App to manage npm dependencies.
 *   [emma-cli (⭐1.2k)](https://github.com/maticzav/emma-cli) - Interactive CLI package search utility.
-*   [lockfile-lint (⭐783)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
+*   [lockfile-lint (⭐790)](https://github.com/lirantal/lockfile-lint) - Lint lockfiles for improved security and trust policies to mitigate malicious package injection and insecure lockfile resources.
 
 ## Clients
 
-*   [yarn (⭐41k)](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
-*   [npm (⭐8.4k)](https://github.com/npm/cli) - The official client.
-*   [pnpm (⭐30k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
+*   [yarn (⭐42k)](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
+*   [npm (⭐8.7k)](https://github.com/npm/cli) - The official client.
+*   [pnpm (⭐31k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
 
 ## Tips
 
@@ -443,5 +442,5 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 
 ## Related
 
-*   [awesome-nodejs (⭐58k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐60k)](https://github.com/sindresorhus/awesome-nodejs)
 

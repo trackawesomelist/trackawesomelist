@@ -78,7 +78,7 @@
 
 ### Fonts
 
-*   [SYSymbol (⭐193)](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
+*   [SYSymbol (⭐201)](https://github.com/Nirma/SFSymbol) - All the SFSymbols at your fingertips.
 
 ### Localization / Barcode
 

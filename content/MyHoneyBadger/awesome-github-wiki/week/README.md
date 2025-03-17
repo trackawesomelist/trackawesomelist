@@ -198,8 +198,8 @@
 ### Examples
 
 *   [guard/guard (⭐6.3k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
-*   [google/guava (⭐50k)](https://github.com/google/guava/wiki)
-*   [facebook/react-native (⭐120k)](https://github.com/facebook/react-native/wiki)
+*   [google/guava (⭐51k)](https://github.com/google/guava/wiki)
+*   [facebook/react-native (⭐121k)](https://github.com/facebook/react-native/wiki)
 
 ### Useful links with tips & tricks
 

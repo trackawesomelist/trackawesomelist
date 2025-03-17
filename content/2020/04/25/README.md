@@ -10,9 +10,9 @@
 
 ### Test-Driven Development
 
-*   [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI) by **JB Rainsberger and Sandro Mancuso** \[01:28:50]
-*   [Integrated Tests Are a Scam](https://vimeo.com/80533536) by **JB Rainsberger** \[01:04:35]
-*   [Structure and Interpretation of Test Cases](https://vimeo.com/289852238) by **Kevlin Henney** \[01:04:23]
+*   [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI) by **JB Rainsberger and Sandro Mancuso** (YouTube/Carlos Blé 2008) \[01:28:50]
+*   [Integrated Tests Are a Scam](https://vimeo.com/80533536) by **JB Rainsberger** (DevConFu 2013) \[01:04:35]
+*   [Structure and Interpretation of Test Cases](https://vimeo.com/289852238) by **Kevlin Henney** (JavaZone 2018) \[01:04:23]
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -59,7 +59,7 @@ Language: English
 
 ### Beginner
 
-*   [Roadmap to Flutter Development (⭐5.5k)](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
+*   [Roadmap to Flutter Development (⭐5.6k)](https://github.com/olexale/flutter_roadmap) <!--stargazers:olexale/flutter_roadmap--> - Visual roadmap with principles, patterns, and frameworks for Flutter newbies by [Olexandr Leuschenko](https://github.com/olexale).
 
 ## [8. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -177,7 +177,7 @@ Language: English
 
 ### Frameworks / Other
 
-*   [EHTML (⭐225)](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
+*   [EHTML (⭐245)](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
 
 ---
 

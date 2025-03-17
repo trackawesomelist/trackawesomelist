@@ -81,7 +81,7 @@
 
 ### Artificial Intelligence
 
-*   [Wargus (⭐360)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
+*   [Wargus (⭐373)](https://github.com/Wargus/wargus) - Real-time strategy game. [Website](https://wargus.github.io/).
 
 ---
 

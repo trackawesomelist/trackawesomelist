@@ -10,7 +10,7 @@
 
 ### Tools / Playground
 
-*   [pg (⭐355)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
+*   [pg (⭐360)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 
 ## [2. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Configuration
 
-*   [tmux-keybtest (⭐2)](https://github.com/jaclu/tmux-keybtest) Check what keys tmux can detect from the terminal being used.
+*   [tmux-keybtest (⭐3)](https://github.com/jaclu/tmux-keybtest) Check what keys tmux can detect from the terminal being used.
 
 ## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
@@ -98,7 +98,7 @@
 
 ### Community
 
-*   [made with angular (⭐93)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.
+*   [made with angular (⭐97)](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.
 *   [angular space](https://www.angularspace.com/) - Your Hub for Learning and Growing as an Angular Developer.
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -107,7 +107,7 @@
 
 ### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Angular Design Patterns and Best Practices (⭐62)](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
+*   [Angular Design Patterns and Best Practices (⭐63)](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
 
 ### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -143,25 +143,25 @@
 *   [NobleUI](https://nobleui.com/angular/)
 *   [ThemesBrand](https://themesbrand.com/judia/angular.html)
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-unit-test-helper (⭐6)](https://github.com/duluca/angular-unit-test-helper) - Helper functions to help write unit tests in Angular using mocks and spies.
 
 ### Updating / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-morph (⭐157)](https://github.com/taiga-family/ng-morph) - Code mutations in your project or schematics were never easier than now.
-*   [ngx-libs (⭐77)](https://github.com/eneajaho/ngx-libs) - Angular Libraries Support lists community libs support for each Angular version.
+*   [ngx-libs (⭐78)](https://github.com/eneajaho/ngx-libs) - Angular Libraries Support lists community libs support for each Angular version.
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-auto-animate (⭐11)](https://github.com/ajitzero/ng-auto-animate) - Angular Directive (library) for FormKit's [Auto Animate](https://auto-animate.formkit.com).
-*   [layout-projection (⭐14)](https://github.com/Char2sGu/layout-projection) - Beautify the Web with awesome layout animations.
+*   [layout-projection (⭐15)](https://github.com/Char2sGu/layout-projection) - Beautify the Web with awesome layout animations.
 *   [ngx-easy-view-transitions (⭐5)](https://github.com/DerStimmler/ngx-easy-view-transitions) - Angular library for easier use of the View Transitions API.
 
 ### Charts / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-echarts (⭐1.1k)](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts (⭐62k)](https://github.com/apache/incubator-echarts).
-*   [angular-fusioncharts (⭐55)](https://github.com/fusioncharts/angular-fusioncharts) - Angular Component for [FusionCharts](https://www.fusioncharts.com) JavaScript Charting Library.
+*   [angular-fusioncharts (⭐54)](https://github.com/fusioncharts/angular-fusioncharts) - Angular Component for [FusionCharts](https://www.fusioncharts.com) JavaScript Charting Library.
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -173,7 +173,7 @@
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [acrodata/code-editor (⭐31)](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
+*   [acrodata/code-editor (⭐32)](https://github.com/acrodata/code-editor) - CodeMirror 6 wrapper for Angular.
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -190,7 +190,7 @@
 
 ### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng2-tree (⭐349)](https://github.com/valor-software/ng2-tree) - Angular tree component.
+*   [ng2-tree (⭐350)](https://github.com/valor-software/ng2-tree) - Angular tree component.
 
 ### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -207,11 +207,11 @@
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngify (⭐128)](https://github.com/ngify/ngify) - Use Angular features outside of Angular.
+*   [ngify (⭐141)](https://github.com/ngify/ngify) - Use Angular features outside of Angular.
 
 ### Tooltips / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-confirmation-popover (⭐203)](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 15.0+ bootstrap confirmation popover.
+*   [angular-confirmation-popover (⭐204)](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 15.0+ bootstrap confirmation popover.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -219,8 +219,8 @@
 
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [infinite-viewer (⭐306)](https://github.com/daybrush/infinite-viewer) - Infinite Viewer is a document viewer component with infinite scrolling.
-*   [ngx-doc-viewer (⭐53)](https://github.com/Marcelh1983/document-viewer/tree/main/packages/ngx-doc-viewer) - This component can be used to show several different document types in an Angular app.
+*   [infinite-viewer (⭐309)](https://github.com/daybrush/infinite-viewer) - Infinite Viewer is a document viewer component with infinite scrolling.
+*   [ngx-doc-viewer (⭐54)](https://github.com/Marcelh1983/document-viewer/tree/main/packages/ngx-doc-viewer) - This component can be used to show several different document types in an Angular app.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -233,7 +233,7 @@
 
 ### Templates / React
 
-*   [Reactive (⭐6)](https://github.com/ws-rush/reactive) - `React` starter template with `Remix` file-based routing convention for `react-router`, `UnoCSS`, `LinguiJs`, `zustand`, and ton of features.
+*   [Reactive (⭐8)](https://github.com/ws-rush/reactive) - `React` starter template with `Remix` file-based routing convention for `react-router`, `UnoCSS`, `LinguiJs`, `zustand`, and ton of features.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -247,52 +247,52 @@
 
 ### Analysis
 
-*   [Prometheus (⭐56k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.2k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
+*   [Prometheus (⭐57k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.2k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
 
 ### Connectors
 
 *   [DBD::MariaDB (⭐33)](https://github.com/perl5-dbi/DBD-MariaDB) - MariaDB and MySQL driver for the Perl5 Database Interface.
 *   [DBD::mysql (⭐63)](https://github.com/perl5-dbi/DBD-mysql) - MySQL driver for the Perl5 Database Interface.
-*   [MariaDB Connector/J (⭐340)](https://github.com/mariadb-corporation/mariadb-connector-j) - LGPL-licensed MariaDB Client Library for Java Applications.
+*   [MariaDB Connector/J (⭐343)](https://github.com/mariadb-corporation/mariadb-connector-j) - LGPL-licensed MariaDB Client Library for Java Applications.
 *   [MySQL C API](https://dev.mysql.com/downloads/c-api/) - Official C driver for MySQL.
-*   [MySQL Connector/C++ (⭐638)](https://github.com/mysql/mysql-connector-cpp) - Official C/C++ driver for MySQL.
-*   [MySQL Connector/J (⭐923)](https://github.com/mysql/mysql-connector-j) - a standardized database driver for the Java platforms and development.
-*   [MySQL Connector/NET (⭐295)](https://github.com/mysql/mysql-connector-net) - a standardized database driver for .Net platforms and development.
-*   [MySQL Connector/Node.js (⭐156)](https://github.com/mysql/mysql-connector-nodejs) - Official Node.js driver for MySQL.
-*   [MySQL Connector/Python (⭐881)](https://github.com/mysql/mysql-connector-python) - a standardized database driver for Python platforms and development.
+*   [MySQL Connector/C++ (⭐648)](https://github.com/mysql/mysql-connector-cpp) - Official C/C++ driver for MySQL.
+*   [MySQL Connector/J (⭐942)](https://github.com/mysql/mysql-connector-j) - a standardized database driver for the Java platforms and development.
+*   [MySQL Connector/NET (⭐304)](https://github.com/mysql/mysql-connector-net) - a standardized database driver for .Net platforms and development.
+*   [MySQL Connector/Node.js (⭐158)](https://github.com/mysql/mysql-connector-nodejs) - Official Node.js driver for MySQL.
+*   [MySQL Connector/Python (⭐893)](https://github.com/mysql/mysql-connector-python) - a standardized database driver for Python platforms and development.
 *   [PHP mysqlnd](https://www.php.net/manual/en/book.mysqlnd.php) - MySQL native driver for PHP.
 
 ### Deployment
 
-*   [dbdeployer (⭐707)](https://github.com/datacharmer/dbdeployer) (archived) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
+*   [dbdeployer (⭐709)](https://github.com/datacharmer/dbdeployer) (archived) - A tool that installs one or more MySQL servers within seconds, easily, securely, and with full control.
 
 ### Development
 
-*   [Flywaydb (⭐8.3k)](https://github.com/flyway/flyway) - Database migrations; Evolve your database schema easily and reliably across all your instances
-*   [Liquibase (⭐4.8k)](https://github.com/liquibase/liquibase) - Source control for your database
+*   [Flywaydb (⭐8.6k)](https://github.com/flyway/flyway) - Database migrations; Evolve your database schema easily and reliably across all your instances
+*   [Liquibase (⭐4.9k)](https://github.com/liquibase/liquibase) - Source control for your database
 *   [Skeema (⭐1.3k)](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools
-*   [SQLE (⭐1.5k)](https://github.com/actiontech/sqle/blob/main/README_en.md) - SQLE is a SQL audit platform for DBA or developer
+*   [SQLE (⭐1.4k)](https://github.com/actiontech/sqle/blob/main/README_en.md) - SQLE is a SQL audit platform for DBA or developer
 
 ### GUI
 
-*   [Adminer (⭐6.3k)](https://github.com/vrana/adminer/) - Database management in a single PHP file.
-*   [DBeaver (⭐41k)](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
-*   [HeidiSQL (⭐4.9k)](https://github.com/HeidiSQL/HeidiSQL) - MySQL GUI frontend for Windows.
-*   [MySQL Shell (⭐195)](https://github.com/mysql/mysql-shell/) - Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (AdminAPI) with an interactive JavaScript, Python, or SQL interface.
-*   [MySQL Workbench (⭐906)](https://github.com/mysql/mysql-workbench) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
+*   [Adminer (⭐6.4k)](https://github.com/vrana/adminer/) - Database management in a single PHP file.
+*   [DBeaver (⭐42k)](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
+*   [HeidiSQL (⭐5k)](https://github.com/HeidiSQL/HeidiSQL) - MySQL GUI frontend for Windows.
+*   [MySQL Shell (⭐203)](https://github.com/mysql/mysql-shell/) - Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (AdminAPI) with an interactive JavaScript, Python, or SQL interface.
+*   [MySQL Workbench (⭐927)](https://github.com/mysql/mysql-workbench) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
 *   [OmniDB: Web tool for database management (⭐3.2k)](https://github.com/OmniDB/OmniDB)
-*   [Percona Monitoring and Management (⭐687)](https://github.com/percona/pmm) - An open-source platform for managing and monitoring MySQL performance.
-*   [phpMyAdmin (⭐7.3k)](https://github.com/phpmyadmin/phpmyadmin) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
+*   [Percona Monitoring and Management (⭐735)](https://github.com/percona/pmm) - An open-source platform for managing and monitoring MySQL performance.
+*   [phpMyAdmin (⭐7.4k)](https://github.com/phpmyadmin/phpmyadmin) - a free software tool written in PHP, intended to handle the administration of MySQL over the Web.
 
 ### HA
 
-*   [Galera Cluster (⭐452)](https://github.com/codership/galera) - a true Multimaster Cluster based on synchronous replication.
+*   [Galera Cluster (⭐459)](https://github.com/codership/galera) - a true Multimaster Cluster based on synchronous replication.
 *   [mha4mysql-node (⭐405)](https://github.com/yoshinorim/mha4mysql-node) and [mha4mysql-manager (⭐1.5k)](https://github.com/yoshinorim/mha4mysql-manager) (both unmaintained) - Master High Availability Manager and tools for MySQL.
-*   [Orchestrator (⭐5.6k)](https://github.com/openark/orchestrator) - MySQL replication topology management and High Availability solution.
+*   [Orchestrator (⭐5.7k)](https://github.com/openark/orchestrator) - MySQL replication topology management and High Availability solution.
 
 ### Proxy
 
-*   [MySQL Proxy (⭐421)](https://github.com/mysql/mysql-proxy) (deprecated) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
+*   [MySQL Proxy (⭐424)](https://github.com/mysql/mysql-proxy) (deprecated) - A simple program that sits between your client and MySQL server(s) that can monitor, analyze or transform their communication.
 
 ### Server
 
@@ -305,7 +305,7 @@
 
 ### Toolkits
 
-*   [MySQL Utilities (⭐269)](https://github.com/mysql/mysql-utilities) (deprecated) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
+*   [MySQL Utilities (⭐272)](https://github.com/mysql/mysql-utilities) (deprecated) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
 *   [Percona Toolkit (⭐1.2k)](https://github.com/percona/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
 
 ## [17. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
@@ -338,13 +338,13 @@
 
 ### Git / Diagnostics
 
-*   [SuperBo/fugit2.nvim (⭐428)](https://github.com/SuperBo/fugit2.nvim) - Git GUI powered by [libgit2](https://libgit2.org).
+*   [SuperBo/fugit2.nvim (⭐434)](https://github.com/SuperBo/fugit2.nvim) - Git GUI powered by [libgit2](https://libgit2.org).
 
 ## [19. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
 ### Comparison / Three kinds of Machine Learning Systems
 
-*   [datacompy (⭐494)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
+*   [datacompy (⭐526)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
 
 ---
 

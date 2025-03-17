@@ -31,7 +31,7 @@
 ### Table of Contents / Database
 
 *   [Atlas.Orm (⭐427)](https://github.com/atlasphp/Atlas.Orm) - A data mapper implementation for your persistence model in PHP.
-*   [Aura.SqlQuery (⭐451)](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
+*   [Aura.SqlQuery (⭐452)](https://github.com/auraphp/Aura.SqlQuery) - Independent query builders for MySQL, PostgreSQL, SQLite, and Microsoft SQL Server.
 
 ### Configuration / Text Editors and IDEs
 
@@ -54,7 +54,7 @@
 
 ### Clients
 
-*   [pnpm (⭐30k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
+*   [pnpm (⭐31k)](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager.
 
 ## [6. Inspire](/content/noahbuscher/inspire/README.md)
 

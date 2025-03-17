@@ -50,7 +50,7 @@
 
 ### Core Data
 
-*   [CloudCore (⭐157)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
+*   [CloudCore (⭐158)](https://github.com/deeje/CloudCore/) - Robust CloudKit synchronization: offline editing, relationships, shared and public databases, and more.
 
 ## [4. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
@@ -120,11 +120,11 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [goro (⭐373)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
+*   [goro (⭐374)](https://github.com/aunum/goro) - A high-level machine learning library in the vein of Keras.
 
 ### Go / Reinforcement learning
 
-*   [gold (⭐345)](https://github.com/aunum/gold) - A reinforcement learning library.
+*   [gold (⭐347)](https://github.com/aunum/gold) - A reinforcement learning library.
 
 ---
 

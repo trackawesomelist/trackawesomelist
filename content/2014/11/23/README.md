@@ -10,7 +10,7 @@
 
 ### Cognitive Development
 
-*   [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** \[18:54]
+*   [The Meaning of Life](https://www.youtube.com/watch?v=zzcCWEb-tyk) by **Derek Sivers** (YouTube/Derek Sivers 2014) \[18:54]
 
 ## [2. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
@@ -28,5 +28,5 @@
 
 ---
 
-- Prev: [Nov 25, 2014](/content/2014/11/25/README.md)
+- Prev: [Nov 24, 2014](/content/2014/11/24/README.md)
 - Next: [Nov 22, 2014](/content/2014/11/22/README.md)

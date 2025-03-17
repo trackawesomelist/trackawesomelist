@@ -10,27 +10,27 @@
 
 ### Applications / Database
 
-*   [oxigraph/oxigraph (⭐1.1k)](https://github.com/oxigraph/oxigraph) \[[oxigraph](https://crates.io/crates/oxigraph)] - graph database implementing the [SPARQL](https://www.w3.org/TR/sparql11-overview/) standard ![Crates.io Version](https://img.shields.io/crates/v/oxigraph?logo=Rust)
+*   [oxigraph/oxigraph (⭐1.2k)](https://github.com/oxigraph/oxigraph) \[[oxigraph](https://crates.io/crates/oxigraph)] - graph database implementing the [SPARQL](https://www.w3.org/TR/sparql11-overview/) standard ![Crates.io Version](https://img.shields.io/crates/v/oxigraph?logo=Rust)
 
 ### Applications / Graphics
 
-*   [linebender/resvg (⭐2.9k)](https://github.com/linebender/resvg) - An SVG rendering library.
+*   [linebender/resvg (⭐3k)](https://github.com/linebender/resvg) - An SVG rendering library.
 
 ### Applications / Virtualization
 
-*   [youki-dev/youki (⭐6.4k)](https://github.com/youki-dev/youki) - A container runtime [![build badge](https://github.com/youki-dev/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/youki-dev/youki/actions)
+*   [youki-dev/youki (⭐6.5k)](https://github.com/youki-dev/youki) - A container runtime [![build badge](https://github.com/youki-dev/youki/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/youki-dev/youki/actions)
 
 ### Libraries / Configuration
 
-*   [rust-cli/config-rs (⭐2.7k)](https://github.com/rust-cli/config-rs) \[[config](https://crates.io/crates/config)] - Layered configuration system (with strong support for 12-factor applications).
+*   [rust-cli/config-rs (⭐2.8k)](https://github.com/rust-cli/config-rs) \[[config](https://crates.io/crates/config)] - Layered configuration system (with strong support for 12-factor applications).
 
 ## [2. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Projects
 
 *   [CocktailTDI (⭐2)](https://github.com/SimonWaldherr/CocktailTDI) - Another cocktail machine (powered by Raspberry Pi 4, Golang, a pneumatic pump and valves).
-*   [DIY Arcade Machine (⭐3)](https://github.com/SimonWaldherr/DIY-Arcade-Machine) - A retro style arcade machine, based on a Raspberry Pi Pico, a Hub75 LED matrix and some other stuff (Wii Nunchucks, 3D printed parts, ...)
-*   [RGB-LED-Matrix (⭐2)](https://github.com/SimonWaldherr/RGB-LED-Matrix) - A 128x128 Pixel RGB LED Matrix to display images, animations, conways game of life and other stuff.
+*   [DIY Arcade Machine (⭐8)](https://github.com/SimonWaldherr/DIY-Arcade-Machine) - A retro style arcade machine, based on a Raspberry Pi Pico, a Hub75 LED matrix and some other stuff (Wii Nunchucks, 3D printed parts, ...)
+*   [RGB-LED-Matrix (⭐3)](https://github.com/SimonWaldherr/RGB-LED-Matrix) - A 128x128 Pixel RGB LED Matrix to display images, animations, conways game of life and other stuff.
 
 ## [3. Awesome Snmp](/content/eozer/awesome-snmp/week/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Email Search / Email Check / Steam
 
-*   [OSINTEye (⭐12)](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
+*   [OSINTEye (⭐14)](https://github.com/atiilla/OsintEye) - OSINT Eye: A WPF Desktop Application for GitHub Intelligence, Social Media Reconnaissance, and Subdomain Discovery
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -67,11 +67,11 @@
 
 ### Plugins and scripts / Godot 4
 
-*   [QuestSystem (⭐313)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
+*   [QuestSystem (⭐336)](https://github.com/shomykohai/quest-system) - A simple and extensible quest manager and creator.
 
 ### Modules / Godot 4
 
-*   [Keyring (⭐6)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
+*   [Keyring (⭐7)](https://github.com/shomykohai/godot-keyring) - Utility to interact with the OS keyring to store credentials.
 
 ## [8. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
@@ -129,17 +129,13 @@
 
 ## [12. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
-### Projects / BRE
-
-*   [Easy Rules (⭐4.9k) (⭐5k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
-
 ### Projects / Messaging
 
-*   [EMQX (⭐14k) (⭐14k)](https://github.com/emqx/emqx) - A high-performance, scalable, and reliable open-source MQTT broker for IoT, IIoT, and connected vehicles.
+*   [EMQX (⭐14k) (⭐15k)](https://github.com/emqx/emqx) - High-performance MQTT broker built for IoT and industrial applications, ensuring scalable message delivery.
 
 ### Projects / Workflow engine
 
-*   [Argo Workflows (⭐15k) (⭐15k)](https://github.com/argoproj/argo-workflows) - An open-source, container-native workflow engine designed to orchestrate parallel jobs on Kubernetes, making it easier to manage and automate complex workflows in a cloud-native environment.
+*   [Argo Workflows (⭐15k) (⭐15k)](https://github.com/argoproj/argo-workflows) - Container-native workflow engine designed for orchestrating parallel jobs in Kubernetes-based, cloud-native environments.
 
 ## [13. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/week/README.md)
 
@@ -151,17 +147,17 @@
 
 ### Dart
 
-*   [OpenFoodFacts (⭐912)](https://github.com/openfoodfacts/smooth-app) *(label: good first issue)* <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
+*   [OpenFoodFacts (⭐952)](https://github.com/openfoodfacts/smooth-app) *(label: good first issue)* <br> Collaborative, free and open database of food products from around the world. Scan barcode to get info or add a product
 
 ### Kotlin
 
-*   [OpenCalc (⭐901)](https://github.com/Darkempire78/OpenCalc) *(label: good first issue)* <br> A simple and beautiful calculator for Android.
+*   [OpenCalc (⭐942)](https://github.com/Darkempire78/OpenCalc) *(label: good first issue)* <br> A simple and beautiful calculator for Android.
 
 ## [15. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Routers / Form Components
 
-*   [svelte5-router (⭐100)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
+*   [svelte5-router (⭐132)](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 
 ## [16. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
@@ -173,7 +169,7 @@
 
 ### Traditional Market / Crypto Currencies
 
-*   🌟🌟🌟 [OpenBB (⭐34k)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
+*   🌟🌟🌟 [OpenBB (⭐37k)](https://github.com/OpenBB-finance/OpenBB) - AI-powered opensource research and analytics workspace.
 
 ## [18. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -195,16 +191,16 @@
 
 ### Native / Text-Based User Interfaces
 
-*   [native-lib-loader (⭐184)](https://github.com/scijava/native-lib-loader) - Native library loader for extracting and loading native libraries from Java.
+*   [native-lib-loader (⭐200)](https://github.com/scijava/native-lib-loader) - Native library loader for extracting and loading native libraries from Java.
 
 ### Testing / Frameworks
 
-*   [cdi-test (⭐26)](https://github.com/guhilling/cdi-test) - JUnit extension for easy and efficient testing of CDI components.
-*   [weld-testing (⭐101)](https://github.com/weld/weld-testing) - Set of test framework extensions (JUnit 4, JUnit 5, Spock) to enhance the testing of CDI components via Weld. Supports Weld 5.
+*   [cdi-test (⭐27)](https://github.com/guhilling/cdi-test) - JUnit extension for easy and efficient testing of CDI components.
+*   [weld-testing (⭐105)](https://github.com/weld/weld-testing) - Set of test framework extensions (JUnit 4, JUnit 5, Spock) to enhance the testing of CDI components via Weld. Supports Weld 5.
 
 ### Testing / Miscellaneous
 
-*   [Testcontainers (⭐8k)](https://github.com/testcontainers/testcontainers-java) - Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+*   [Testcontainers (⭐8.2k)](https://github.com/testcontainers/testcontainers-java) - Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 ## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
@@ -225,13 +221,13 @@
 
 ### Documentation
 
-*   [fitting (⭐60)](https://github.com/tuwilof/fitting) - Library add improve test log for RSpec and WebMock, validate its according to API Blueprint and Open API, show the documentation coverage with log.
+*   [fitting (⭐61)](https://github.com/tuwilof/fitting) - Library add improve test log for RSpec and WebMock, validate its according to API Blueprint and Open API, show the documentation coverage with log.
 
 ## [23. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Distributed Systems
 
-*   [NATS (⭐16k)](https://github.com/nats-io/nats-server) - NATS is a simple, secure, and
+*   [NATS (⭐17k)](https://github.com/nats-io/nats-server) - NATS is a simple, secure, and
     performant communications system for digital systems, services, and devices.
 
 ### Messaging
@@ -241,27 +237,21 @@
 
 ### Parsers/Encoders/Decoders
 
-*   [vdf (⭐45)](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go.
+*   [vdf (⭐47)](https://github.com/andygrunwald/vdf) - A Lexer and Parser for Valves Data Format (known as vdf) written in Go.
 
 ### Third-party APIs
 
-*   [go-gerrit (⭐97)](https://github.com/andygrunwald/go-gerrit) - Go cient library for [Gerrit Code Review](https://www.gerritcodereview.com/).
+*   [go-gerrit (⭐98)](https://github.com/andygrunwald/go-gerrit) - Go client library for [Gerrit Code Review](https://www.gerritcodereview.com/).
 
 ### Web Frameworks
 
-*   [WebGo (⭐304)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
+*   [WebGo (⭐303)](https://github.com/naughtygopher/webgo) - A micro-framework to build web apps with handler chaining, middleware, and context injection. With standard library-compliant HTTP handlers (i.e., `http.HandlerFunc`)..
 
 ### Code Analysis / Libraries for creating HTTP middlewares
 
-*   [fatcontext (⭐20)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
+*   [fatcontext (⭐26)](https://github.com/Crocmagnon/fatcontext) - Fatcontext detects nested contexts in loops or function literals.
 
-## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [zellij](https://zellij.dev) - A terminal workspace with batteries included (modern replacement for tmux and more).[![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/zellij-org/zellij) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-## [25. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [24. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Global Connectivity Indexes
 
@@ -283,21 +273,21 @@
 
 *   [Continent of Africa: High Resolution Population Density Maps](https://data.humdata.org/dataset/highresolutionpopulationdensitymaps) by Meta - HRSL datasets offering unprecedented accuracy in population mapping.
 
-## [26. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [25. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Theory
 
-*   [VLM Architectures (⭐492)](https://github.com/gokayfem/awesome-vlm-architectures#readme) - Vision Language Model architectures.
+*   [VLM Architectures (⭐671)](https://github.com/gokayfem/awesome-vlm-architectures#readme) - Vision Language Model architectures.
 
 ### Gaming
 
-*   [Babylon.js (⭐253)](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
+*   [Babylon.js (⭐265)](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
 
 ### Health and Social Science
 
-*   [Lucid Dreams (⭐53)](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
+*   [Lucid Dreams (⭐70)](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 
-## [27. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
+## [26. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/week/README.md)
 
 ### SaaS
 
@@ -311,13 +301,7 @@
 *   [Shodan](https://help.shodan.io/the-basics/academic-upgrade) \[FREE / CREDIT] - Free upgrade (normally 49$) to gain full access to everything shodan has to offer + 100 Export credits. Simply use your academic email address when you signup.
 *   [Malwarebytes](https://www.malwarebytes.com/student-discount) \[Discount] - Get 50% off device security by entering your information into ProxID to get verified as a student.
 
-## [28. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
-
-### Tools
-
-*   🎨🌍🔧 [InclusiveColors](https://www.inclusivecolors.com/) - Create fine-tuned WCAG accessible Tailwind CSS color palettes.
-
-## [29. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -329,10 +313,10 @@
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-translate-routes (⭐4)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 *   [ngx-translate-lint (⭐34)](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
+*   [ngx-translate-routes (⭐6)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-playwright (⭐24)](https://github.com/bgotink/ngx-playwright) - Tools to run Playwright e2e tests in an Angular workspace.
 
@@ -352,7 +336,13 @@
 
 *   [rxjs-collection (⭐5)](https://github.com/henryruhs/rxjs-collection) - RxJS enhanced Array, Map, WeakMap, Set and WeakSet.
 
-## [30. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [28. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Java / Bootstrap
+
+*   [Learn Java for FTC (⭐144)](https://github.com/alan412/LearnJavaForFTC) - Alan Smith (PDF)
+
+## [29. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Writing assistants
 
@@ -365,11 +355,10 @@
 *   [AI for Google Slides](https://www.aiforgoogleslides.com/) - AI presentation maker for Google Slides
 *   [FARSITE](https://far.site/) - AI-powered Compliance Software for U.S. Government Contractors
 *   [GOSH](https://gosh.app) - Free AI Price Tracker - Track any price of any product at any store using AI
-*   \[Pomodoro Timer Tools] - Minimal AI-Driven Pomodoro Timer App
 
 ### Text / Developer tools
 
-*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐7.9k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/) - Open-source LLM engineering platform that helps teams collaboratively debug, analyze, and iterate on their LLM applications. [#opensource (⭐8.8k)](https://github.com/langfuse/langfuse)
 *   [CodeRabbit](https://coderabbit.ai/) - An AI-powered code review tool that helps developers improve code quality and productivity.
 *   [Pagerly](https://www.pagerly.io) - Your Operations Co-pilot on Slack/Teams. It assists and prompts oncall with relevant information to debug issues.
 *   [Hexabot](https://hexabot.ai) - A Open-source No-Code tool to build your AI Chatbot / Agent (multi-lingual, multi-channel, LLM, NLU, + ability to develop custom extensions)
@@ -408,17 +397,23 @@
 *   [Exam Samurai](https://www.examsamur.ai/) - AI Exam Generator
 *   [AI Watermark Remover](https://aiwatermarkremover.io/) - Remove watermarks from images and videos.
 *   [AISaver](https://aisaver.io) - Collection of AI Powered Video and Photo Tools
-*   [Harbor (⭐1k)](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
+*   [Harbor (⭐1.4k)](https://github.com/av/harbor) - run LLM backends, APIs, frontends, and services with one command
 
 ### Learn AI free / Machine Learning
 
 *   [How To Learn Artificial Intelligence (AI)?](https://www.appliedaicourse.com/blog/how-to-learn-artificial-intelligence-ai/) - provides a step-by-step guide for beginners to understand and develop AI skills. It covers foundational topics like programming (Python), mathematics, and machine learning, progressing to advanced concepts such as deep learning and neural networks.
 
-## [31. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [30. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Other
 
 *   [Cookie licking](https://devblogs.microsoft.com/oldnewthing/20091201-00/?p=15843) - E.g. claiming a GitHub issue, then not working on it.
+
+## [31. Colorful](/content/Siddharth11/Colorful/week/README.md)
+
+### Color Palettes / Web App
+
+*   [InclusiveColors](https://www.inclusivecolors.com/) - Create custom accessible Tailwind-style color palettes, with WCAG/APCA contrast checks and live previews on a mockup.
 
 ## [32. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
@@ -435,25 +430,29 @@
 
 ### Concepts / Human Concept Representation
 
-*   [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://www.nature.com/articles/s41562-022-01316-8) - ***Nature Human Behavior***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654)]. \[[Preprint](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf)]. This work proposes a domain-general method to extract context-dependent relationships from word embeddings: ‘semantic projection’ of word-vectors onto lines that represent multiple dimensions of features, which recovers human judgements across various object categories and properties. Thus, the geometry of word embeddings explicitly represents a wealth of context-dependent world knowledge.
+*   [Semantic projection recovers rich human knowledge of multiple object features from word embeddings](https://www.nature.com/articles/s41562-022-01316-8) - ***Nature Human Behavior***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=2499199921371106654)]. \[[Preprint](https://cap.csail.mit.edu/sites/default/files/research-pdfs/Semantic%20projection%20recovers%20rich%20human%20knowledge%20of%20multiple%20object%20features%20from%20word%20embeddings.pdf)]. How is knowledge about word meaning represented in the mental lexicon? Current computational models infer word meanings from lexical co-occurrence patterns. They learn to represent words as vectors in a multidimensional space, wherein words that are used in more similar linguistic contexts—that is, are more semantically related—are located closer together. However, whereas inter-word proximity captures only overall relatedness, human judgements are highly context dependent. For example, dolphins and alligators are similar in size but differ in dangerousness. This work proposes a domain-general method to extract context-dependent relationships from word embeddings: ‘semantic projection’ of word-vectors onto lines that represent features such as size (the line connecting the words ‘small’ and ‘big’) or danger (‘safe’ to ‘dangerous’), analogous to ‘mental scales’. This method recovers human judgements across various object categories and properties. Thus, the geometry of word embeddings explicitly represents a wealth of context-dependent world knowledge.
 
 ## [34. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
-*   [barkeep (⭐158)](https://github.com/oir/barkeep) - Small C++ header to display async animations, counters, and progress bars. \[Apache-2.0] [website](https://oir.github.io/barkeep/)
-*   [Ctrl+C (⭐24)](https://github.com/evgenykislov/ctrl-c) - Crossplatform C++11 library to handle Ctrl+C event in custom functions. \[MIT]
-*   [tuibox (⭐145)](https://github.com/Cubified/tuibox) - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. \[MIT]
+*   [barkeep (⭐164)](https://github.com/oir/barkeep) - Small C++ header to display async animations, counters, and progress bars. \[Apache-2.0] [website](https://oir.github.io/barkeep/)
+*   [Ctrl+C (⭐25)](https://github.com/evgenykislov/ctrl-c) - Crossplatform C++11 library to handle Ctrl+C event in custom functions. \[MIT]
+*   [tuibox (⭐158)](https://github.com/Cubified/tuibox) - A single-header terminal UI (TUI) library, capable of creating mouse-driven, interactive applications on the command line. \[MIT]
 
 ### Image Processing
 
-*   \[Jpegli]\[[https://github.com/google/jpegli (⭐163)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
+*   \[Jpegli]\[[https://github.com/google/jpegli (⭐178)](https://github.com/google/jpegli)] - an improved JPEG encoder and decoder implementation. \[BSD-3-Clause]
 
 ### Miscellaneous
 
-*   [Pipes (⭐812)](https://github.com/joboccara/pipes) - Pipelines for expressive code on collections in C++. \[MIT]
+*   [Pipes (⭐814)](https://github.com/joboccara/pipes) - Pipelines for expressive code on collections in C++. \[MIT]
 
 ## [35. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### AI-Powered Code Generation
+
+*   [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q\&A, Testing, Debugging and System Design or create your own purpose-built agents.
 
 ### Attacks on LLMs / Multi-agents
 
@@ -463,10 +462,6 @@
 
 *   [Melies](https://melies.co/): All-in-one AI filmmaking software
 
-### Speech-to-text (STT) and spoken content analysis / Deforum
-
-*   [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q\&A, Testing, Debugging and System Design or create your own purpose-built agents.
-
 ## [36. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Artifact Repos
@@ -475,7 +470,7 @@
 
 ### Generative AI
 
-*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐489)](https://github.com/pollinations/pollinations)
+*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐1.1k)](https://github.com/pollinations/pollinations)
 
 ### IDE and Code Editing
 

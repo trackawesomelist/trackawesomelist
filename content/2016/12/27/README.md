@@ -22,7 +22,7 @@
 
 ### Music Notation
 
-*   [Lyp (⭐73)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
+*   [Lyp (⭐75)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 
 ## [4. Awesome R](/content/qinwf/awesome-R/README.md)
 

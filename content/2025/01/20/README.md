@@ -36,8 +36,8 @@
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
-*   [goravel/fiber (⭐9)](https://github.com/goravel/fiber) - Laravel similar boilerplate with support for Fiber.
-*   [go-rat/fiber-skeleton (⭐1)](https://github.com/go-rat/fiber-skeleton) - Fiber skeleton to powers web projects, support wire-based dependency injection.
+*   [goravel/fiber (⭐10)](https://github.com/goravel/fiber) - Laravel similar boilerplate with support for Fiber.
+*   [go-rat/fiber-skeleton (⭐3)](https://github.com/go-rat/fiber-skeleton) - Fiber skeleton to powers web projects, support wire-based dependency injection.
 
 ---
 

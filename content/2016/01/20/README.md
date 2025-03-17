@@ -137,13 +137,13 @@
 
 ## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Native Apps (closed source)
-
-*   [CityMapper](https://citymapper.com/)
-
 ### GTFS Realtime Utilities / Rust
 
 *   [GTFS-realtime Nagio Plugin (⭐1)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-nagios-plugin) - Provides a [Nagios](https://www.nagios.org/) plugin for monitoring a GTFS-realtime feed
+
+### Native Apps (closed source) / Rust
+
+*   [CityMapper](https://citymapper.com/)
 
 ## [8. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 
@@ -206,7 +206,7 @@
 
 ### Distributed Programming
 
-*   [Tuktu (⭐58)](https://github.com/UnderstandLingBV/Tuktu) - Easy-to-use platform for batch and streaming computation, built using Scala, Akka and Play!
+*   [Tuktu (⭐60)](https://github.com/UnderstandLingBV/Tuktu) - Easy-to-use platform for batch and streaming computation, built using Scala, Akka and Play!
 
 ### Document Data Model
 
@@ -223,7 +223,7 @@
 
 ### Data Visualization
 
-*   [Redash (⭐23k)](https://github.com/getredash/redash) - open-source platform to query and visualize data.
+*   [Redash (⭐27k)](https://github.com/getredash/redash) - open-source platform to query and visualize data.
 
 ## [13. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md)
 
@@ -397,7 +397,7 @@
 
 ### Packages / Command-line utilities
 
-*   [cross-env (⭐6.3k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+*   [cross-env (⭐6.4k)](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 
 ## [27. Awesome Courses](/content/prakhar1989/awesome-courses/README.md)
 

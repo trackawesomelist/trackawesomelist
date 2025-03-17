@@ -10,7 +10,7 @@
 
 ### Plugins / IRC
 
-*   [Composer-Downloads-Plugin (⭐6)](https://github.com/civicrm/composer-downloads-plugin) - Lightweight mechanism to download external resources (ZIP/TAR files) with only a `url` and `path`.
+*   [Composer-Downloads-Plugin (⭐7)](https://github.com/civicrm/composer-downloads-plugin) - Lightweight mechanism to download external resources (ZIP/TAR files) with only a `url` and `path`.
 
 ## [2. Awesome Bioie](/content/caufieldjh/awesome-bioie/README.md)
 

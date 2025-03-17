@@ -161,7 +161,7 @@
 
 ### Open Source Projects / Wealth
 
-*   [Me API (⭐822)](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
+*   [Me API (⭐827)](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
 *   [Memacs (⭐1k)](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -179,7 +179,7 @@
 
 ### Plugins
 
-*   💼🧬🧩 [Fluid (⭐1.4k)](https://github.com/barvian/fluid-tailwind) - Adds fluid `clamp()` versions of every built-in utility.
+*   💼🧬🧩 [Fluid (⭐1.5k)](https://github.com/barvian/fluid-tailwind) - Adds fluid `clamp()` versions of every built-in utility.
 
 ## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
@@ -191,11 +191,11 @@
 
 ### Note Taking / Diagnostics
 
-*   [2KAbhishek/tdo.nvim (⭐58)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
+*   [2KAbhishek/tdo.nvim (⭐65)](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
 
 ### Terminal Integration / Diagnostics
 
-*   [2KAbhishek/termim.nvim (⭐72)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
+*   [2KAbhishek/termim.nvim (⭐76)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
 
 ## [10. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md)
 
@@ -214,7 +214,7 @@
 
 ### Workflow
 
-*   [Multiwoven (⭐1.1k)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform for modern data teams.
+*   [Multiwoven (⭐1.6k)](https://github.com/Multiwoven/multiwoven) - The open-source reverse ETL, data activation platform for modern data teams.
 
 ## [13. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 

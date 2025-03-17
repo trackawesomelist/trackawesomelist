@@ -22,7 +22,7 @@
 
 ### Utility / Diagnostics
 
-*   [m-demare/attempt.nvim (⭐88)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
+*   [m-demare/attempt.nvim (⭐89)](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 
 ## [3. Awesome Cheminformatics](/content/hsiaoyi0504/awesome-cheminformatics/README.md)
 

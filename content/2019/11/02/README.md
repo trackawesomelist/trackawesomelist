@@ -95,7 +95,7 @@
 
 ### Plugins / IRC
 
-*   [Composer-Vendor-Cleaner (⭐22)](https://github.com/liborm85/composer-vendor-cleaner) - Plugin removes unnecessary development files and directories from `vendor` directory by glob pattern syntax.
+*   [Composer-Vendor-Cleaner (⭐31)](https://github.com/liborm85/composer-vendor-cleaner) - Plugin removes unnecessary development files and directories from `vendor` directory by glob pattern syntax.
 
 ### Blogs / IRC
 

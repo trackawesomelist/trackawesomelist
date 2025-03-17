@@ -14,10 +14,10 @@
 
 ### Software / Julia
 
-*   [EcologicalNetwork.jl (⭐68)](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
+*   [EcologicalNetwork.jl (⭐69)](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
 *   [MatrixNetworks.jl (⭐109)](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
 *   [NetworkFlows.jl (⭐3)](https://github.com/Azzaare/NetworkFlows.jl) - Package of network flows algorithms.
-*   [PhyloNetworks.jl (⭐158)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
+*   [PhyloNetworks.jl (⭐159)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
 
 ## [2. Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Database Drivers
 
-*   [peewee-async (⭐667)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.7k)](https://github.com/coleifer/peewee) and aiopg.
+*   [peewee-async (⭐744)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐11k)](https://github.com/coleifer/peewee) and aiopg.
 
 ## [7. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

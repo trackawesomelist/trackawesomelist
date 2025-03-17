@@ -8,7 +8,7 @@
 
 ## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Agency Tools
+### Agency Tools / General GIS Applications for making transit visualizations
 
 *   [Remix](http://getremix.com/) - A webapp that lets transit agencies easily plan routes.
 
@@ -221,8 +221,8 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Packages / URL
 
-*   [url-unshort (⭐117)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
-*   [embedza (⭐64)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
+*   [url-unshort (⭐118)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+*   [embedza (⭐65)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [14. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
@@ -449,7 +449,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### Natural Language Processing
 
-*   [Words Counted (⭐159)](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
+*   [Words Counted (⭐162)](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
 
 ## [21. Awesome Emails](/content/jonathandion/awesome-emails/week/README.md)
 
@@ -480,7 +480,7 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ### ORM and Datamapping
 
-*   [ecto\_enum (⭐563)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
+*   [ecto\_enum (⭐564)](https://github.com/gjaldon/ecto_enum) - Ecto extension to support enums in models.
 
 ### Third Party APIs
 

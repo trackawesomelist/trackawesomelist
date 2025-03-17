@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 27, 2016
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -26,7 +26,7 @@
 
 ### Credits
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐222k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐236k)](https://github.com/vinta/awesome-python)
 *   The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
 ## [4. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
@@ -39,27 +39,34 @@
 
 ### Packages / Command-line utilities
 
-*   [cli-columns (⭐34)](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
+*   [cli-columns (⭐36)](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
 
-## [6. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+## [6. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Julia / Vue.js
+
+*   [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
+*   [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson (CC BY-SA)
+
+## [7. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### operations
 
-*   [winnow (⭐90)](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
+*   [winnow (⭐89)](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
 
-## [7. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [8. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Free fonts / Fonts
 
 *   [Open Baskerville](http://klepas.org/openbaskerville/)
 
-## [8. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
+## [9. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md)
 
 ### Free Content / Commerical Tools
 
 *   [Society of Mind](http://aurellem.org/society-of-mind/index.html) - Marvin Minsky's seminal work on how our mind works. Lot of Symbolic AI concepts have been derived from this basis.
 
-## [9. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
+## [10. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md)
 
 ### Modules / Object
 
@@ -70,7 +77,7 @@
 
 *   [dom-element-value (⭐6)](https://github.com/crysalead-js/dom-element-value) - DOM element value getter/setter.
 
-## [10. Es6 Tools](/content/addyosmani/es6-tools/README.md)
+## [11. Es6 Tools](/content/addyosmani/es6-tools/README.md)
 
 ### Editors / Brunch Plugins
 

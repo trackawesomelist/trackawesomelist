@@ -69,7 +69,7 @@
 
 ### Front-End Development
 
-*   [WordPress-Gatsby (⭐265)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
+*   [WordPress-Gatsby (⭐268)](https://github.com/henrikwirth/awesome-wordpress-gatsby#readme) - Web development technology stack with WordPress as a back end and Gatsby as a front end.
 
 ## [10. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

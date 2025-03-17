@@ -40,8 +40,8 @@
 ### Self-hosted
 
 *   [Nextcloud](https://nextcloud.com/) - The open source self-hosted productivity platform that keeps you in control. It has a [*Photos*](https://github.com/nextcloud/photos) plugin to help you organize and visualize your photos.
-*   [Immich (WIP) (⭐57k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
-*   [LibrePhotos (⭐7.1k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.8k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
+*   [Immich (WIP) (⭐59k)](https://github.com/alextran1502/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+*   [LibrePhotos (⭐7.2k)](https://github.com/LibrePhotos/librephotos) - Active [OwnPhotos (⭐2.8k)](https://github.com/hooram/ownphotos) fork. Self hosted alternative to Google Photos.
 
 ## [6. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
@@ -79,7 +79,7 @@ Test and learn Clickjacking. Make clickjacking PoC, take screenshot and share li
 ### [PureSec FunctionShield](https://www.puresec.io/function-shield)
 
 FunctionShield is a 100% free AWS Lambda security and Google Cloud Functions security library that equips developers with the ability to easily enforce strict security controls on serverless runtimes.
-### [Awesome Electron.js hacking & pentesting resources (⭐408)](https://github.com/doyensec/awesome-electronjs-hacking) (2020)
+### [Awesome Electron.js hacking & pentesting resources (⭐602)](https://github.com/doyensec/awesome-electronjs-hacking) (2020)
 
 **Released**: June 17, 2020
 
@@ -87,7 +87,7 @@ A curated list of resources to secure Electron.js-based applications.
 
 ### Articles
 
-### [Clojure OWASP (⭐19)](https://github.com/nubank/clj-owasp) (2020)
+### [Clojure OWASP (⭐33)](https://github.com/nubank/clj-owasp) (2020)
 
 **Released**: May 5, 2020
 

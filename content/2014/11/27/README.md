@@ -10,7 +10,7 @@
 
 ### Algorithms and Data structures
 
-*   [loom (⭐223)](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
+*   [loom (⭐224)](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
 
 ### Debugging
 

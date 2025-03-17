@@ -17,7 +17,7 @@
 ### Scientific
 
 *   Classifiers
-    *   [classifier-reborn (⭐554)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
+    *   [classifier-reborn (⭐556)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
 
 ---
 

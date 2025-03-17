@@ -32,7 +32,7 @@
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [Fontsource (⭐5k)](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
+*   [Fontsource (⭐5.2k)](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages
 
 ## [5. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 
@@ -83,7 +83,7 @@
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### HTTP Servers / Interfaces to other package managers
+### HTTP Servers
 
 *   👍[Clack (⭐1.1k)](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL](http://opensource.franz.com/preamble.html).  Provides a unified interface to a webserver of choice (default is Hunchentoot). With more [getting started guide](https://jasom.github.io/clack-tutorial/posts/getting-started-with-clack/).
 

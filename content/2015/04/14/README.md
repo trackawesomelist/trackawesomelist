@@ -23,7 +23,7 @@
 
 ### Data Ingestion
 
-*   [Linkedin Gobblin (⭐2.1k)](https://github.com/linkedin/gobblin) - linkedin's universal data ingestion framework.
+*   [Linkedin Gobblin (⭐2.2k)](https://github.com/linkedin/gobblin) - linkedin's universal data ingestion framework.
 
 ---
 

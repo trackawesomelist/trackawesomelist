@@ -14,7 +14,7 @@
 
 ### Alert / Barcode
 
-*   [SwiftEntryKit (⭐6.6k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
+*   [SwiftEntryKit (⭐6.7k)](https://github.com/huri000/SwiftEntryKit) - A simple and versatile pop-up presenter.
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

@@ -16,13 +16,13 @@
 
 ### Packages / Content management systems
 
-*   [Graphweaver (⭐494)](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
+*   [Graphweaver (⭐505)](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
 
 ## [3. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Boilerplates
 
-*   [Start UI \[web\] (⭐1.4k)](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
+*   [Start UI \[web\] (⭐1.5k)](https://github.com/BearStudio/start-ui-web) - 🚀 opinionated UI starter with TypeScript, React, NextJS, Chakra UI, tRPC, Prisma, TanStack Query, Storybook, Playwright, Formiz
 
 ## [4. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
@@ -59,7 +59,7 @@
 
 ### Image Processing
 
-*   [OpenJPEG (⭐994)](https://github.com/uclouvain/openjpeg) - an open-source JPEG 2000 codec written in C language.  \[BSD-2-Clause]
+*   [OpenJPEG (⭐999)](https://github.com/uclouvain/openjpeg) - an open-source JPEG 2000 codec written in C language.  \[BSD-2-Clause]
 
 ## [8. Awesome Go](/content/avelino/awesome-go/README.md)
 
@@ -97,7 +97,7 @@
 
 ### Applications
 
-*   [Hidden Lake (⭐210)](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake): Anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
+*   [Hidden Lake (⭐279)](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake): Anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
 
 ## [13. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 

@@ -37,11 +37,11 @@
 
 ### Other
 
-*   [redrun (⭐122)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+*   [redrun (⭐124)](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 
 ### Clients
 
-*   [yarn (⭐41k)](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
+*   [yarn (⭐42k)](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
 
 ## [6. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 

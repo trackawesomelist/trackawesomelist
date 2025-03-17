@@ -41,7 +41,7 @@
 
 ### Machine Learning
 
-*   [MeTA (⭐702)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
+*   [MeTA (⭐701)](https://github.com/meta-toolkit/meta) - A modern C++ data sciences toolkit. \[MIT] [website](https://meta-toolkit.org/)
 
 ## [7. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlxtend (⭐4.9k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
+*   [mlxtend (⭐5k)](https://github.com/rasbt/mlxtend) - A library consisting of useful tools for data science and machine learning tasks.
 
 ## [9. Awesome Json](/content/burningtree/awesome-json/week/README.md)
 
@@ -120,13 +120,13 @@ The top ten most common and critical security vulnerabilities found in web appli
 
 ### Useful libraries
 
-### [defuse/php-encryption (⭐3.5k)](https://github.com/defuse/php-encryption)
+### [defuse/php-encryption (⭐3.8k)](https://github.com/defuse/php-encryption)
 
 Symmetric-key encryption library for PHP applications. (**Recommended** over rolling your own!)
-### [ircmaxell/password\_compat (⭐2.2k)](https://github.com/ircmaxell/password_compat)
+### [ircmaxell/password\_compat (⭐2.1k)](https://github.com/ircmaxell/password_compat)
 
 If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
-### [ircmaxell/RandomLib (⭐831)](https://github.com/ircmaxell/RandomLib)
+### [ircmaxell/RandomLib (⭐843)](https://github.com/ircmaxell/RandomLib)
 
 Useful for generating random strings or numbers
 
@@ -154,7 +154,7 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Table of Contents / Migrations
 
-*   [Ruckusing (⭐506)](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
+*   [Ruckusing (⭐507)](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
 
 ### Table of Contents / NoSQL
 
@@ -219,7 +219,7 @@ A weekly newsletter about PHP, security, and the community.
 
 ### Queue
 
-*   [amqp (⭐685)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
+*   [amqp (⭐686)](https://github.com/pma/amqp) - Simple Elixir wrapper for the Erlang RabbitMQ client, based on Langohr.
 
 ### XML
 

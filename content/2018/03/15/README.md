@@ -10,7 +10,7 @@
 
 ### Free fonts / Fonts
 
-*   [Barlow (⭐733)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
+*   [Barlow (⭐756)](https://github.com/jpt/barlow) - A grotesk variable font superfamily
 
 ### JavaScript libs / Programming fonts with ligatures
 
@@ -44,7 +44,7 @@
 
 ### Audio
 
-*   [SoLoud (⭐1.8k)](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. \[zlib]
+*   [SoLoud (⭐1.9k)](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. \[zlib]
 
 ### Graphics
 

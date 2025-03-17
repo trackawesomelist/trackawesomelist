@@ -57,7 +57,7 @@
 
 ### Related lists / Particles
 
-*   [glTF (⭐6.6k)](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.
+*   [glTF (⭐7.3k)](https://github.com/KhronosGroup/glTF) - Runtime 3D Asset Delivery designed for the web.
 
 ## [7. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 

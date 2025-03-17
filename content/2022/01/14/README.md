@@ -244,7 +244,7 @@
 
 ### Articles and Presentations / Hardware Offload
 
-*   [OpenCSD eBPF SSD offloading (⭐58)](https://github.com/Dantali0n/qemu-csd) - Computational Storage simulation (QEMU) platform with FUSE LFS filesystem for Zoned Namespaces NVMe SSDs using uBPF for compute kernel offloading, all in userspace.
+*   [OpenCSD eBPF SSD offloading (⭐59)](https://github.com/Dantali0n/qemu-csd) - Computational Storage simulation (QEMU) platform with FUSE LFS filesystem for Zoned Namespaces NVMe SSDs using uBPF for compute kernel offloading, all in userspace.
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -262,7 +262,7 @@
 
 ### Modules / Godot 4
 
-*   [FMOD GD4 (⭐55)](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
+*   [FMOD GD4 (⭐59)](https://github.com/summertimejordi/fmod_gd4) - FMOD Studio API integration.
 
 ## [12. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

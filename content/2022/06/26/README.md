@@ -17,8 +17,8 @@
 
 ### Front-End Development
 
-*   [React (⭐66k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
-    *   [Relay (⭐276)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
+*   [React (⭐67k)](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
+    *   [Relay (⭐277)](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
     *   [React Hooks (⭐1.2k)](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
 
 ## [3. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
@@ -92,7 +92,7 @@
 
 ### Logging
 
-*   [phuslu/log (⭐711)](https://github.com/phuslu/log) - High performance structured logging.
+*   [phuslu/log (⭐727)](https://github.com/phuslu/log) - High performance structured logging.
 
 ---
 

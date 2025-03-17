@@ -20,7 +20,7 @@
 
 ### Top / Game Engine resources
 
-*   [Chillify (⭐746)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
+*   [Chillify (⭐749)](https://github.com/KarimElghamry/chillify) - Fancy music app made with Provider and Bloc pattern by [Karim Elghamry](https://github.com/KarimElghamry)
 
 ## [3. Awesome Actions](/content/sdras/awesome-actions/README.md)
 

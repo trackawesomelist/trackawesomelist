@@ -139,7 +139,7 @@
 
 ### Python / Neural Networks
 
-*   [nn\_builder (⭐166)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
+*   [nn\_builder (⭐167)](https://github.com/p-christ/nn_builder) - nn\_builder is a python package that lets you build neural networks in 1 line
 
 ## [11. Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md)
 
@@ -152,7 +152,7 @@
 
 ### Projects
 
-*   [Ceil (⭐46)](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
+*   [Ceil (⭐48)](https://github.com/helmuthva/ceil) - Auto-provisioned RPi cluster running K8S on bare-metal. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/raw/main/media/badges/rpi-3.png)
 
 ## [13. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 

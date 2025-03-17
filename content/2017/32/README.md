@@ -100,7 +100,7 @@
 
 ### Misc
 
-*   [aiodebug (⭐56)](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
+*   [aiodebug (⭐62)](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
 
 ## [8. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
@@ -324,7 +324,7 @@ Webpage: <http://www.26grados.com/>
 
 ### Python / General-Purpose Machine Learning
 
-*   [PyTorch (⭐85k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+*   [PyTorch (⭐86k)](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 
 ## [26. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
@@ -374,11 +374,11 @@ git push -u origin <branch_name>
 
 ### Device
 
-*   [UIDeviceComplete (⭐418)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
+*   [UIDeviceComplete (⭐419)](https://github.com/Nirma/UIDeviceComplete) - UIDevice extensions that fill in the missing pieces.
 
 ### Tab / Barcode
 
-*   [HHTabBarView (⭐154)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
+*   [HHTabBarView (⭐155)](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 
 ## [32. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 

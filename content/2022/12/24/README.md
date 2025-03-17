@@ -20,11 +20,11 @@
 
 ## [3. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / API Testing
 
-*   [RestQA (⭐88)](https://github.com/restqa/restqa) - A REST API testing Framework based on ghekin to manage microservice local testing using the best in class Developer experience.
+*   [RestQA (⭐88)](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
 
-### Training (Includes developer training for automation testers) / Other
+### Training (Includes developer training for automation testers) / Mind Mapping & Documentation
 
 *   [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
 
@@ -81,7 +81,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐181)](https://github.com/public-ui/kolibri/)
+  Source code \*: [:octocat: (⭐186)](https://github.com/public-ui/kolibri/)
 
 
 - : [Materialize CSS](https://materializecss.com/)
@@ -160,7 +160,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐215)](https://github.com/siemens/ix)
+  Source code \*: [:octocat: (⭐220)](https://github.com/siemens/ix)
 
 
 
@@ -178,7 +178,7 @@
 
 ### Laravel / Community
 
-*   [Laravel Vite Plugin (⭐820)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
+*   [Laravel Vite Plugin (⭐832)](https://github.com/laravel/vite-plugin) - Laravel official plugin for Vite.
 
 ## [8. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 

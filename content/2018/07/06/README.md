@@ -24,7 +24,7 @@
 
 ### UICollectionView / Barcode
 
-*   [SimpleSource (⭐99)](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views.
+*   [SimpleSource (⭐100)](https://github.com/Squarespace/simple-source) - Easy and type-safe iOS table and collection views.
 
 ## [3. Awesome Network Js](/content/Kikobeats/awesome-network-js/README.md)
 
@@ -50,7 +50,7 @@
 ### Python / Reinforcement Learning
 
 *   [Roboschool (⭐2.1k)](https://github.com/openai/roboschool) - Open-source software for robot simulation, integrated with OpenAI Gym.
-*   [Retro (⭐3.4k)](https://github.com/openai/retro) - Retro Games in Gym
+*   [Retro (⭐3.5k)](https://github.com/openai/retro) - Retro Games in Gym
 *   [SLM Lab (⭐1.3k)](https://github.com/kengz/SLM-Lab) - Modular Deep Reinforcement Learning framework in PyTorch.
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)

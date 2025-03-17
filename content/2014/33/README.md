@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 18 - Aug 24, 2014
 
-11 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -218,14 +218,40 @@
 
 *   [Mathias Bynens: **JavaScript ♥ Unicode**](https://vimeo.com/76597193) \[26:12]
 
-## [7. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [7. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C / Non-X86
+
+*   [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
+
+### Coq / Non-X86
+
+*   [Software Foundations](http://www.cis.upenn.edu/~bcpierce/sf/)
+
+### Groovy / Gradle
+
+*   [Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
+
+### Perl / PicoLisp
+
+*   [Template Toolkit Documentation](http://template-toolkit.org/docs/index.html)
+
+### Ruby / Ruby on Rails
+
+*   [Ruby on Rails Guides](http://guides.rubyonrails.org)
+
+### SQL Server / Play Scala
+
+*   [Introducing Microsoft SQL Server 2014](http://blogs.msdn.com/b/microsoft_press/archive/2014/04/02/free-ebook-introducing-microsoft-sql-server-2014.aspx)
+
+## [8. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Database Drivers
 
 *   PostgreSQL - [awesome-postgres (⭐9.7k)](https://github.com/dhamaniasad/awesome-postgres)
     *   [psycopg (⭐1.6k)](https://github.com/psycopg/psycopg) - The most popular PostgreSQL adapter for Python.
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [9. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Standard Libraries
 
@@ -234,9 +260,9 @@
 ### Frameworks
 
 *   [ASL](http://stlab.adobe.com/) - Adobe Source Libraries provides peer-reviewed and portable C++ source libraries. \[MIT]
-*   [ffead-cpp (⭐711)](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. \[Apache2]
+*   [ffead-cpp (⭐722)](https://github.com/sumeetchhetri/ffead-cpp) - Framework for Enterprise Application Development. \[Apache2]
 *   [Folly (⭐29k)](https://github.com/facebook/folly) - An open-source C++ library developed and used at Facebook. \[Apache2]
-*   [JUCE (⭐6.8k)](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. \[Core-Module: ISC, Rest: GPL2/GPL3/Proprietary] [website](http://www.juce.com/)
+*   [JUCE (⭐6.9k)](https://github.com/julianstorer/JUCE) - An all-encompassing C++ class library for developing cross-platform software. \[Core-Module: ISC, Rest: GPL2/GPL3/Proprietary] [website](http://www.juce.com/)
 *   [libPhenom (⭐1.7k)](https://github.com/facebook/libphenom) - libPhenom is an eventing framework for building high performance and high scalability systems in C. \[Apache2]
 *   [LibSourcey (⭐1.3k)](https://github.com/sourcey/libsourcey) - C++11 evented IO for real-time video streaming and high performance networking applications. \[LGPL]
 *   [LibU (⭐442)](https://github.com/koanlogic/libu) - A multiplatform utility library written in C. \[BSD]
@@ -247,7 +273,7 @@
 
 ### Artificial Intelligence
 
-*   [btsk (⭐459)](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. \[zlib]
+*   [btsk (⭐463)](https://github.com/aigamedev/btsk) - Game Behavior Tree Starter Kit. \[zlib]
 *   [Evolving Objects](http://eodev.sourceforge.net/) - A template-based, ANSI-C++ evolutionary computation library which helps you to write your own stochastic optimization algorithms insanely fast. \[LGPL]
 
 ### Asynchronous Event Loop
@@ -262,7 +288,7 @@
 *   [OpenAL](http://www.openal.org/) - Open Audio Library - A crossplatform audio API. \[BSD/LGPL/Proprietary]
 *   [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. \[BSD]
 *   [Speex](http://www.speex.org/) - A free codec for free speech. Obsoleted by Opus. \[BSD]
-*   [Tonic (⭐530)](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. \[Unlicense]
+*   [Tonic (⭐532)](https://github.com/TonicAudio/Tonic) - Easy and efficient audio synthesis in C++. \[Unlicense]
 *   [Vorbis](http://xiph.org/vorbis/) - Ogg Vorbis is a fully open, non-proprietary, patent-and-royalty-free, general-purpose compressed audio format. \[BSD]
 
 ### Compression
@@ -281,7 +307,7 @@
 
 ### Cryptography
 
-*   [libsodium (⭐12k)](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. \[ISC]
+*   [libsodium (⭐13k)](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. \[ISC]
 
 ### Math
 
@@ -298,7 +324,7 @@
 
 ### Video
 
-*   [libde265 (⭐1.7k)](https://github.com/strukturag/libde265) - Open h.265 video codec implementation. \[LGPL] [website](http://www.libde265.org/)
+*   [libde265 (⭐1.8k)](https://github.com/strukturag/libde265) - Open h.265 video codec implementation. \[LGPL] [website](http://www.libde265.org/)
 *   [OpenH264 (⭐5.6k)](https://github.com/cisco/openh264) - Open Source H.264 Codec. \[BSD] [website](http://www.openh264.org/)
 
 ### Web Application Framework
@@ -306,10 +332,10 @@
 *   [CppCMS](http://cppcms.com/) - A Free High Performance Web Development Framework (not a CMS). \[LGPLv3]
 *   [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. \[ISC]
 *   [libOnion](http://www.coralbits.com/libonion/) - lightweight library to help you create webservers in C programming language. \[LGPLv3]
-*   [QDjango (⭐271)](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. \[LGPL]
+*   [QDjango (⭐275)](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. \[LGPL]
 *   [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. \[GPL/Proprietary]
 
-## [9. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [10. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Testing & Debugging
 
@@ -331,7 +357,7 @@
 
 *   [Envoy (⭐1.5k)](https://github.com/laravel/envoy) - SSH Task Runner
 
-## [10. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [11. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Geolocation
 
@@ -339,7 +365,7 @@
 *   [GeoCouch (⭐513)](https://github.com/couchbase/geocouch) - A spatial extension for Couchbase and Apache CouchDB.
 *   [Teles (⭐15)](https://github.com/armon/teles) - An Erlang network service for manipulating geographic data.
 
-## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Runner
 

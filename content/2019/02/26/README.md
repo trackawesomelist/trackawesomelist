@@ -10,11 +10,7 @@
 
 ### Official
 
-*   [Technical White Paper (⭐2.1k)](https://github.com/EOSIO/Documentation)
-*   [Bug Bounty Program](https://hackerone.com/eosio)
-*   [Blog](https://medium.com/eosio)
 *   [StackExchange for Q\&A](https://eosio.stackexchange.com/)
-*   [YouTube](https://www.youtube.com/c/eosio)
 
 ### Blogs / Services
 
@@ -100,12 +96,12 @@
 
 ### Climate, Environment and Weather
 
-*   [frostline (⭐126)](https://github.com/waldoj/frostline) - A dataset, API, and python parser for USDA plant hardiness zones.
-*   [GSODR (⭐82)](https://github.com/ropensci/GSODR) - Global summary daily weather data in R.
-*   [iem (⭐124)](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run.
-*   [PyETo (⭐130)](https://github.com/woodcrafty/PyETo) - Python package for calculating reference/potential evapotranspiration (ETo).
-*   [pyTSEB (⭐115)](https://github.com/hectornieto/pyTSEB) - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
-*   [soilDB (⭐67)](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases.
+*   [frostline (⭐153)](https://github.com/waldoj/frostline) - A dataset, API, and python parser for USDA plant hardiness zones.
+*   [GSODR (⭐92)](https://github.com/ropensci/GSODR) - Global summary daily weather data in R.
+*   [iem (⭐147)](https://github.com/akrherz/iem) - Code that makes the Iowa Environmental Mesonet run.
+*   [PyETo (⭐155)](https://github.com/woodcrafty/PyETo) - Python package for calculating reference/potential evapotranspiration (ETo).
+*   [pyTSEB (⭐139)](https://github.com/hectornieto/pyTSEB) - A python two source energy balance model for estimation of evapotranspiration with remote sensing data.
+*   [soilDB (⭐85)](https://github.com/ncss-tech/soilDB) - R library for simplified access to NCSS soil databases.
 
 ### Crop Modeling, Phenotyping, and Pathology
 
@@ -115,20 +111,19 @@
 
 *   [AgGateway’s ADAPT Toolkit](https://adaptframework.org) - Open Source project providing tools to simplify communication between growers, their machines, and their partners.
 *   [API-Code-Samples (⭐9)](https://github.com/aWhereAPI/API-Code-Samples) - Contains aWhere's API platform code samples.
-*   [ClearAg-API-Examples (⭐0)](https://github.com/IterisClearAg/ClearAg-API-Examples) - A collection of code examples using the ClearAg APIs.
+*   [ClearAg-API-Examples (⭐1)](https://github.com/IterisClearAg/ClearAg-API-Examples) - A collection of code examples using the ClearAg APIs.
 *   [Open Ag Data Alliance](https://github.com/oada) - OADA is an open project designed to bring interoperability, security, and privacy to agricultural data.
-*   [SampleData (⭐26)](https://github.com/JohnDeere/SampleData) - Sample datacards, shapefiles, and other files you can use for testing.
+*   [SampleData (⭐29)](https://github.com/JohnDeere/SampleData) - Sample datacards, shapefiles, and other files you can use for testing.
 
 ### Farm Management Systems and Record Keeping
 
-*   [AgroSense](https://bitbucket.org/corizon/agrosense) - Free and open source farm management suite built with Java.
-*   [farmOS (⭐632)](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
-*   [Ekylibre (⭐315)](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
-*   [Tania (⭐653)](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js.
+*   [farmOS (⭐1k)](https://github.com/farmOS/farmOS) - Web-based farm record keeping application built with Drupal and PHP.
+*   [Ekylibre (⭐428)](https://github.com/ekylibre/ekylibre) - Farm management information system for farmers and small enterprises built with Ruby on Rails and PostgreSQL/PostGIS.
+*   [Tania (⭐777)](https://github.com/Tanibox/tania-core) - Free and open source farming management system for everyone built with Go and Vue.js.
 
 ### Geospatial and GIS / GIS Resources
 
-*   [Awesome GIS (⭐3.6k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a list collecting abundant GIS related sources.
+*   [Awesome GIS (⭐4.6k)](https://github.com/sshuair/awesome-gis) - Awesome GIS is a list collecting abundant GIS related sources.
 
 ### Geospatial and GIS / GIS Platforms
 
@@ -136,25 +131,25 @@
 
 ### Geospatial and GIS / Shapefiles
 
-*   [pyshp (⭐1k)](https://github.com/GeospatialPython/pyshp) - Reads and writes ESRI Shapefiles in pure Python.
-*   [rgeo-shapefile (⭐95)](https://github.com/rgeo/rgeo-shapefile) - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.
+*   [pyshp (⭐1.1k)](https://github.com/GeospatialPython/pyshp) - Reads and writes ESRI Shapefiles in pure Python.
+*   [rgeo-shapefile (⭐97)](https://github.com/rgeo/rgeo-shapefile) - RGeo Shapefile is an optional module for RGeo for reading geospatial data from ESRI shapefiles in Ruby.
 
 ### IoT, Hardware / Shapefiles
 
-*   [AgOpenGPS (⭐450)](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software.
-*   [DRO-Matic (⭐215)](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing.
-*   [OpenMinder (⭐30)](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
+*   [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software.
+*   [DRO-Matic (⭐315)](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing.
+*   [OpenMinder (⭐40)](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
 
 ### Knowledgebases and Learning Resources / Shapefiles
 
-*   [Harvest Helper (⭐77)](https://github.com/damwhit/harvest_helper) -  Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API.
-*   [OpenFarm (⭐942)](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge built with Ruby on Rails.
+*   [Harvest Helper (⭐86)](https://github.com/damwhit/harvest_helper) -  Provides growing, harvesting and recipe information for the 45 plants in the database as well as a JSON API.
+*   [OpenFarm (⭐1.6k)](https://github.com/openfarmcc/OpenFarm) - A free and open database for farming and gardening knowledge built with Ruby on Rails.
 
 ### Remote Sensing and Imagery / Shapefiles
 
-*   [Awesome Sentinel (⭐492)](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
-*   [Raster Vision (⭐1.9k)](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery.
-*   [Sen2Agri (⭐110)](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
+*   [Awesome Sentinel (⭐549)](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
+*   [Raster Vision (⭐2.1k)](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery.
+*   [Sen2Agri (⭐116)](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
 
 ## [7. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
@@ -245,9 +240,9 @@
 
 ## [10. Css Protips](/content/AllThingsSmitty/css-protips/README.md)
 
-### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/PwoOQGB)
 
-*   [Deutsch (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
+*   [Deutsch (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
 
 ## [11. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
@@ -474,23 +469,23 @@
 
 ### Programming Languages
 
-*   [Q# (⭐163)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+*   [Q# (⭐166)](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 
 ### Gaming
 
-*   [Minecraft (⭐465)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
+*   [Minecraft (⭐483)](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 
 ### Databases
 
-*   [NoSQL Guides (⭐262)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+*   [NoSQL Guides (⭐290)](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
 ### Learn
 
-*   [CSS Learning (⭐3.5k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
+*   [CSS Learning (⭐3.6k)](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 
 ### Miscellaneous
 
-*   [Board Games (⭐313)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+*   [Board Games (⭐324)](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 
 ## [21. Awesome Mobile Web Development](/content/myshov/awesome-mobile-web-development/README.md)
 

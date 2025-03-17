@@ -10,7 +10,7 @@
 
 ### Data Visualization
 
-*   [Bloomery (⭐16)](https://github.com/ufukomer/bloomery) - Web UI for Impala.
+*   [Bloomery (⭐17)](https://github.com/ufukomer/bloomery) - Web UI for Impala.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

@@ -31,7 +31,7 @@
 
 ### General-Purpose Machine Learning / Data Analysis / Data Visualization
 
-*   [PredictionBuilder (⭐111)](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
+*   [PredictionBuilder (⭐112)](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 
 ## [5. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/README.md)
 

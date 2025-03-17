@@ -22,7 +22,7 @@
 
 ### Tools & Software
 
-*   [Comparison of web archiving software (⭐95)](https://github.com/archivers-space/research/tree/master/web_archiving)
+*   [Comparison of web archiving software (⭐96)](https://github.com/archivers-space/research/tree/master/web_archiving)
 *   [Awesome Website Change Monitoring (⭐500)](https://github.com/edgi-govdata-archiving/awesome-website-change-monitoring)
 
 ## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)

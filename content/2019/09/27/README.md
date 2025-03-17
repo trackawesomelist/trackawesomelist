@@ -12,7 +12,6 @@
 
 *   [Forum](https://forum.playcanvas.com/)
 *   [Reddit](https://www.reddit.com/r/PlayCanvas/)
-*   [Stack Overflow](https://stackoverflow.com/questions/tagged/playcanvas)
 
 ## [2. Awesome Json](/content/burningtree/awesome-json/README.md)
 

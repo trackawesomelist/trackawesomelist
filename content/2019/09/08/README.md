@@ -16,19 +16,19 @@
 
 ### Testing / Fixtures
 
-*   [jFairy (⭐741)](https://github.com/Devskiller/jfairy) - Fake data generator.
+*   [jFairy (⭐739)](https://github.com/Devskiller/jfairy) - Fake data generator.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Generators / Other
 
-*   [Gridsome (⭐8.5k)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
+*   [Gridsome (⭐8.6k)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 
 ## [4. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [Stream Ops (⭐48)](https://github.com/nanosai/stream-ops-java) \[Java] - A fully embeddable data streaming engine and stream processing API for Java.
+*   [Stream Ops (⭐49)](https://github.com/nanosai/stream-ops-java) \[Java] - A fully embeddable data streaming engine and stream processing API for Java.
 
 ---
 

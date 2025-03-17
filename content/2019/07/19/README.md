@@ -114,7 +114,7 @@
 
 ### Style Guides
 
-*   [Airbnb (⭐2.4k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
+*   [Airbnb (⭐2.5k)](https://github.com/airbnb/swift) - Airbnb's Official Style Guide.
 
 ### Mock / Barcode
 

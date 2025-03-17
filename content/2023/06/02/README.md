@@ -45,7 +45,7 @@
 
 ### Audio
 
-*   [umidiparser (⭐32)](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
+*   [umidiparser (⭐35)](https://github.com/bixb922/umidiparser) - MIDI file parser for MicroPython, CircuitPython and Python.
 
 ## [7. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
@@ -88,7 +88,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [vod2pod-rss (⭐248)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
+*   [vod2pod-rss (⭐267)](https://github.com/madiele/vod2pod-rss) `⚠` - Convert YouTube and Twitch channels to podcasts, no storage required. Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast clients. `MIT` `Docker`
 
 ## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 

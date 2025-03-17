@@ -16,7 +16,7 @@
 
 ### UI / Bottom bars
 
-*   [Fancy Bottom Navigation (⭐776)](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
+*   [Fancy Bottom Navigation (⭐782)](https://github.com/tunitowen/fancy_bottom_navigation) <!--stargazers:tunitowen/fancy_bottom_navigation--> - Animated bottom navigation by [Tony Owen](https://github.com/tunitowen).
 
 ## [3. Awesome Homematic](/content/homematic-community/awesome-homematic/README.md)
 

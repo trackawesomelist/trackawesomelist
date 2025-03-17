@@ -115,7 +115,7 @@
 
 ### Scripts / IRC
 
-*   [ScriptsDev (⭐68)](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
+*   [ScriptsDev (⭐69)](https://github.com/neronmoon/scriptsdev) - Enables you to use a `scripts-dev` section, which triggers scripts only in dev mode.
 
 ## [9. Awesome Devenv](/content/jondot/awesome-devenv/week/README.md)
 
@@ -136,7 +136,7 @@
 ### Development tools / Profiling
 
 *   FlameGraphs
-    *   [llogiq/flame (⭐709)](https://github.com/llogiq/flame) - An intrusive flamegraph profiling tool for rust
+    *   [llogiq/flame (⭐712)](https://github.com/llogiq/flame) - An intrusive flamegraph profiling tool for rust
     *   [mrhooray/torch (⭐132)](https://github.com/mrhooray/torch) - generates FlameGraphs based on DWARF Debug Info
 
 ### Libraries / Computation
@@ -182,7 +182,7 @@
 
 ### Online / Playground
 
-*   [TypeScript playground-on-ace (⭐91)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
+*   [TypeScript playground-on-ace (⭐90)](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 (⭐56)](https://github.com/basarat/TypeScriptEditor)
 *   [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
 *   [JS Bin](http://jsbin.com/?js) (Select TypeScript)
 *   [Codepen](http://codepen.io/) (Select TypeScript)
@@ -191,7 +191,7 @@
 
 ## [15. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Community
+### Community / General GIS Applications for making transit visualizations
 
 *   [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
 
@@ -308,7 +308,7 @@
 
 ### Configuration / Miscellaneous
 
-*   [noCAPTCHA (⭐361)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
+*   [noCAPTCHA (⭐364)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
 ## [19. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -831,10 +831,6 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ## [37. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
-### Algorithms and Data structures
-
-*   [monad](https://github.com/rmies/monad) - Haskell inspired monads in Elixir stylish syntax.
-
 ### Geolocation
 
 *   [ipgeobase (⭐7)](https://github.com/sergey-chechaev/elixir_ipgeobase) - Find Russian and Ukraine city by IP address and find country for other country.
@@ -853,7 +849,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Native Implemented Functions
 
-*   [hsnif (⭐26)](https://github.com/urbanserj/hsnif) - Tool that allows to write Erlang NIF libraries in Haskell.
+*   [hsnif (⭐25)](https://github.com/urbanserj/hsnif) - Tool that allows to write Erlang NIF libraries in Haskell.
 
 ### ORM and Datamapping
 
@@ -879,12 +875,12 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Awesome Lists
 
-*   [open-source-ios-apps (⭐43k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
+*   [open-source-ios-apps (⭐44k)](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ### API
 
 *   [PXGoogleDirections (⭐268)](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
-*   [reddift (⭐242)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
+*   [reddift (⭐243)](https://github.com/sonsongithub/reddift) - reddit API wrapper.
 
 ### Key Value Store
 
@@ -892,7 +888,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Other Data
 
-*   [EVCloudKitDao (⭐645)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
+*   [EVCloudKitDao (⭐646)](https://github.com/evermeer/EVCloudKitDao) - Simplified access to CloudKit with support for subscriptions and local caching.
 
 ### Auto Layout / Barcode
 
@@ -1037,7 +1033,7 @@ The book pragmatically introduces both the quantitative finance concepts and the
 
 ### Libraries
 
-*   [TensorFrames (⭐749)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
+*   [TensorFrames (⭐748)](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
 
 ### Books
 

@@ -10,7 +10,7 @@
 
 ### Libraries / Email
 
-*   [tweedegolf/mailcrab (⭐835)](https://github.com/tweedegolf/mailcrab) - Email test server for development.
+*   [tweedegolf/mailcrab (⭐844)](https://github.com/tweedegolf/mailcrab) - Email test server for development.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Projects / Managed File Transfer
 
-*   [Titan MFT Server](https://southrivertech.com/titan-mft-server/) - An enterprise-level MFT server solution with high availability and failover capabilities, providing an efficient way to automate and manage large-scale file transfers.
+*   [Titan MFT Server](https://southrivertech.com/titan-mft-server/) - Enterprise-level MFT server offering high availability, failover capabilities, and efficient large-scale file automation.
 
 ### Resources / API Specification
 

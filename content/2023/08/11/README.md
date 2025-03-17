@@ -10,7 +10,7 @@
 
 ### Tools / Low-code
 
-*   [Flowise (⭐34k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
+*   [Flowise (⭐35k)](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow using LangchainJS ![GitHub Repo stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social)
 
 ### Other LLM Frameworks / Videos Playlists
 
@@ -26,7 +26,7 @@
 
 ### Applications / Web Servers
 
-*   [mu-arch/skyfolder (⭐137)](https://github.com/mu-arch/skyfolder) - 🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast
+*   [mu-arch/skyfolder (⭐140)](https://github.com/mu-arch/skyfolder) - 🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast
 
 ## [4. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 

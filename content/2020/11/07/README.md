@@ -16,7 +16,7 @@
 
 ### Internationalization / Image Picker
 
-*   [attranslate (⭐336)](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
+*   [attranslate (⭐344)](https://github.com/fkirc/attranslate) - Semi-automated translation of ARB or JSON files by [fkirc](https://github.com/fkirc)
 
 ## [3. Awesome Music](/content/ciconia/awesome-music/README.md)
 
@@ -43,22 +43,6 @@
 *   [Mojolicious](https://mojolicious.org/) - Next generation web framework for Perl.
 
 ## [6. Awesome Bitcoin Payment Processors](/content/alexk111/awesome-bitcoin-payment-processors/README.md)
-
-### Hosted Bitcoin Payment Processors / Non-Custodial
-
-- Processor: [Bittery.io](https://bittery.io/)
-
-  Fees: No fees
-
-  Lightning: Yes
-
-  Directly to Your Wallet: Yes
-
-  Conversion to Fiat: Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/)
-
-  Requirements: No
-
-
 
 ### Hosted Bitcoin Payment Processors / Custodial
 

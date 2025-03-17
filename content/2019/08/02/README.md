@@ -16,7 +16,7 @@
 
 ### Software / File Transfer - Web-based File Managers
 
-*   [Gossa (⭐940)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
+*   [Gossa (⭐960)](https://github.com/pldubouilh/gossa) - Gossa is a light and simple webserver for your files. `MIT` `Go`
 
 ## [3. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 

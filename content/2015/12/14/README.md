@@ -40,7 +40,7 @@
 
 ### Data Visualization
 
-*   [D3.compose (⭐698)](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
+*   [D3.compose (⭐697)](https://github.com/CSNW/d3.compose) - Compose complex, data-driven visualizations from reusable charts and components.
 
 ## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 

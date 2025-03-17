@@ -82,20 +82,20 @@
 
 ### Tools / Libraries
 
-*   [color2k (⭐616)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
+*   [color2k (⭐620)](https://github.com/ricokahler/color2k) - A color parsing and manipulation lib.
 
 ## [8. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [RealWorld Example App - mongo (⭐442)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
+*   [RealWorld Example App - mongo (⭐443)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 *   [RealWorld Example App - postgres (⭐2.8k)](https://github.com/nsidnev/fastapi-realworld-example-app)
 
-## [9. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [9. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/README.md)
 
-### Python / General-Purpose Machine Learning
+### Graph Machine Learning / Others
 
-*   [Little Ball of Fur (⭐707)](https://github.com/benedekrozemberczki/littleballoffur) -> A graph sampling extension library for NetworkX with a Scikit-Learn like API.
+*   [Little Ball of Fur (⭐707)](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 
 ## [10. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -107,7 +107,7 @@
 
 ### Software / Python
 
-*   [littleballoffur (⭐702)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
+*   [littleballoffur (⭐707)](https://github.com/benedekrozemberczki/littleballoffur) - Python package for sampling from graph structured data with a scikit-learn like API.
 
 ## [12. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 

@@ -22,18 +22,18 @@
 
 ### Test-Driven Development
 
-*   [TDD in Tatters](https://vimeo.com/97537026) by **Scott Bellware** \[01:07:53]
+*   [TDD in Tatters](https://vimeo.com/97537026) by **Scott Bellware** (NDC 2014) \[01:07:53]
 
 ### Methodologies
 
-*   [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** \[53:03]
+*   [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** (Agile Lietuva 2012) \[53:03]
 
 ## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Algorithms and Data structures
 
 *   [lz4 (⭐65)](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
-*   [monadex (⭐309)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
+*   [monadex (⭐310)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
 *   [parex (⭐63)](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
 
 ### ORM and Datamapping

@@ -17,7 +17,7 @@
 
 ### Science and Data Analysis
 
-*   [Poly (⭐687)](https://github.com/bebop/poly) - A Go package for engineering organisms.
+*   [Poly (⭐690)](https://github.com/bebop/poly) - A Go package for engineering organisms.
 
 ## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -79,13 +79,13 @@
 
 ### Components & Libraries / Dev Tools
 
-*   [Vue Mess Detector (⭐281)](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
+*   [Vue Mess Detector (⭐293)](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [westchange (⭐0)](https://github.com/TomiVidal99/westchange) - Allows you to quickly change between directories. Requires [fzf (⭐67k)](https://github.com/junegunn/fzf).
+*   [westchange (⭐0)](https://github.com/TomiVidal99/westchange) - Allows you to quickly change between directories. Requires [fzf (⭐68k)](https://github.com/junegunn/fzf).
 
 ---
 

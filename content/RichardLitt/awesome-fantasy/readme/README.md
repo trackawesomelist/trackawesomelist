@@ -2,7 +2,7 @@
 
 :european_castle: Fantasy literature worth reading
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RichardLitt/awesome-fantasy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) · ⭐ 1.2K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/RichardLitt/awesome-fantasy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) · ⭐ 1.3K · 🏷️ Entertainment
 
 [ [Daily](/content/RichardLitt/awesome-fantasy/README.md) / [Weekly](/content/RichardLitt/awesome-fantasy/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@
 
 > Fantasy literature worth reading
 
-*Inspired by the [awesome (⭐285k)](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi (⭐4k)](https://github.com/sindresorhus/awesome-scifi).*
+*Inspired by the [awesome (⭐345k)](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi (⭐4.4k)](https://github.com/sindresorhus/awesome-scifi).*
 
 *Please read the [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/README.md/contributing.md) before contributing.*
 
@@ -1020,6 +1020,16 @@ Fell in love with this book when I first read it in 4th grade. I had always like
 The original story that inspired Miyazaki's film adaptation. Has a colorful, fun, and whimsical tone, but has an interesting twist. - [@konpyuta](https://github.com/konpyuta)
 
 > Sophie has the great misfortune of being the eldest of three daughters, destined to fail miserably should she ever leave home to seek her fate. But when she unwittingly attracts the ire of the Witch of the Waste, Sophie finds herself under a horrid spell that transforms her into an old lady. Her only chance at breaking it lies in the ever-moving castle in the hills: the Wizard Howl's castle. To untangle the enchantment, Sophie must handle the heartless Howl, strike a bargain with a fire demon, and meet the Witch of the Waste head-on. Along the way, she discovers that there's far more to Howl—and herself—than first meets the eye.
+
+#### [The Neverending Story](https://www.goodreads.com/book/show/27712.The_Neverending_Story) *by [Michael Ende](https://en.wikipedia.org/wiki/Michael_Ende)* \[4.18] :fire:
+
+The story is a beautifully layered tale that blurs reality and fiction, filled with vivid characters and profound reflections that linger long after reading. - [@benya2bfh](https://github.com/benya2bfh)
+
+> This epic work of the imagination has captured the hearts of millions of readers worldwide since it was first published. Its special story within a story is an irresistible invitation for readers to become part of the book itself.
+
+> The story begins with a lonely boy named Bastian and the strange book that draws him into the beautiful but doomed world of Fantastica. Only a human can save this enchanted place by giving its ruler, the Childlike Empress, a new name. But the journey to her tower leads through lands of dragons, giants, monsters, and magic, and once Bastian begins his quest, he may never return. As he is drawn deeper into Fantastica, he must find the courage to face unspeakable foes and the mysteries of his own heart.
+
+> Readers, too, can travel to the wondrous, unforgettable world of Fantastica if they will just turn the page...
 
 #### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) \_by [Terry Jones](https://en.wikipedia.org/wiki/Terry_Jones), [Michael Foreman](https://en.wikipedia.org/wiki/Michael_Foreman_\(author/illustrator\))\_ \[3.94]
 

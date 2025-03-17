@@ -220,7 +220,7 @@
 
 ### Packages / Templating
 
-*   [EJS (⭐7.8k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
+*   [EJS (⭐7.9k)](https://github.com/mde/ejs) - Simple unopinionated templating language.
 
 ### Packages / Parsing
 

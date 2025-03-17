@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 07, 2016
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -12,14 +12,24 @@
 
 *   \[2016] [Overwatch - The Elusive Goal: Play by Sound](https://www.youtube.com/watch?v=zF_jcrTCMsA): Scott Lawlor, Tomas Neumann (Blizzard)
 
-## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [2. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Java / Java Reporting
+
+*   [The JasperReports Ultimate Guide, Third Edition](http://jasperreports.sourceforge.net/JasperReports-Ultimate-Guide-3.pdf) (PDF)
+
+### PostgreSQL / Zend
+
+*   [Practical PostgreSQL](http://www.faqs.org/docs/ppbook/book1.htm)
+
+## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Memory and concurrency
 
 *   [Chronicle-Map (⭐2.5k)](https://github.com/OpenHFT/Chronicle-Map) - In-memory key-value store designed for low-latency and/or multi-process applications.
 *   [lwjgl3 (⭐4k)](https://github.com/LWJGL/lwjgl3) - Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.
 
-## [3. Tips](/content/git-tips/tips/README.md)
+## [4. Tips](/content/git-tips/tips/README.md)
 
 ## Show changes using common diff tools.
 
@@ -27,13 +37,13 @@
 git difftool [-t <tool>] <commit1> <commit2> <path>
 ```
 
-## [4. Awesome Security](/content/sbilly/awesome-security/README.md)
+## [5. Awesome Security](/content/sbilly/awesome-security/README.md)
 
 ### Network / IDS / IPS / Host IDS / Host IPS
 
 *   [AIEngine](https://bitbucket.org/camp0/aiengine) - AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.
 
-## [5. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
+## [6. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
 
 ### Learning Resources
 
@@ -64,7 +74,7 @@ git difftool [-t <tool>] <commit1> <commit2> <path>
 
 *   [UpUp](http://upup.rocks/) - A popular service worker library providing complete offline functionality for your site in 1 line of code.
 
-## [6. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
+## [7. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/README.md)
 
 ### Researchers / Datasets
 

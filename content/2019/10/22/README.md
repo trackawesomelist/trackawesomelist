@@ -22,7 +22,7 @@
 
 ### Testing
 
-*   [Acceptance Testing For Continuous Delivery](https://www.youtube.com/watch?v=s1Y454DTRtg) by **Dave Farley** \[01:02:34]
+*   [Acceptance Testing For Continuous Delivery](https://www.youtube.com/watch?v=s1Y454DTRtg) by **Dave Farley** (PIPELINE Conference 2015) \[01:02:34]
 
 ## [4. Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Software / Video Surveillance
 
-*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐222)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
+*   [Bluecherry](https://www.bluecherrydvr.com/) - Closed-circuit television (CCTV) software application which supports IP and Analog cameras. ([Source Code (⭐229)](https://github.com/bluecherrydvr/bluecherry-apps)) `GPL-2.0` `PHP`
 
 ## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -107,7 +107,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Plugins / IRC
 
-*   [Drupal Vendor Hardening Composer Plugin (⭐14)](https://github.com/drupal/core-vendor-hardening) - Removes extraneous directories from the project's vendor directory & adds .htaccess and web.config files to the root of the project's vendor directory.
+*   [Drupal Vendor Hardening Composer Plugin (⭐15)](https://github.com/drupal/core-vendor-hardening) - Removes extraneous directories from the project's vendor directory & adds .htaccess and web.config files to the root of the project's vendor directory.
 
 ## [15. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/README.md)
 
@@ -140,7 +140,7 @@ Webpage: <https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/>
 
 ### Table of Contents / Event
 
-*   [PHP Defer (⭐301)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
+*   [PHP Defer (⭐302)](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
 
 ## [19. Awesome Web Performance Budget](/content/pajaydev/awesome-web-performance-budget/README.md)
 

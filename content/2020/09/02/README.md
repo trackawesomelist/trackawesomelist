@@ -10,7 +10,7 @@
 
 ### Boilerplates
 
-*   [Nextjs Starter Peacock (⭐129)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
+*   [Nextjs Starter Peacock (⭐130)](https://github.com/vickOnRails/next-starter-peacock) - 🦚 Beautiful Nextjs portfolio starter for software engineers and designers to show work they're so proud of.
 
 ## [2. Awesome Veganism](/content/sdassow/awesome-veganism/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Error Handling
 
-*   [Rollbar (⭐448)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
+*   [Rollbar (⭐459)](https://github.com/rollbar/rollbar-gem) - Easy and powerful exception and error tracking for your applications.
 
 ### Mobile Development
 
@@ -91,13 +91,13 @@
 
 ### Authentication
 
-*   [Quiz manager secured by Auth0 (⭐41)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
+*   [Quiz manager secured by Auth0 (⭐44)](https://github.com/auth0-blog/secure-blazor-wasm-quiz-manager) - ![last commit](https://img.shields.io/github/last-commit/auth0-blog/secure-blazor-wasm-quiz-manager?style=flat-square\&cacheSeconds=86400) This repository contains a Blazor WebAssembly application implementing a simple Quiz manager secured by [Auth0](https://auth0.com/). The implementation details are described in the following article: [Securing Blazor WebAssembly Apps](https://auth0.com/blog/securing-blazor-webassembly-apps/).
 
 ## [12. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Gaming
 
-*   [Discord Communities (⭐2.9k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
+*   [Discord Communities (⭐3k)](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 
 ## [13. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
@@ -122,7 +122,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [evostra (⭐271)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
+*   [evostra (⭐273)](https://github.com/alirezamika/evostra) - A fast Evolution Strategy implementation in Python.
 
 ### Tools / Misc
 
@@ -132,8 +132,8 @@
 
 ### Projects
 
-*   [Internet Chronometer (⭐111)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
-*   [Pi-KVM (⭐8.2k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
+*   [Internet Chronometer (⭐115)](https://github.com/rothman857/chronometer) - Turn your Raspberry Pi in to an Internet Chronometer.
+*   [Pi-KVM (⭐8.7k)](https://github.com/pikvm/pikvm) - DIY KVM over IP to manage remote computers via Web UI or VNC with FullHD video, mouse, virtual drive, IPMI, Wake-on-LAN and many other things.
 
 ## [18. Awesome Npm](/content/sindresorhus/awesome-npm/README.md)
 

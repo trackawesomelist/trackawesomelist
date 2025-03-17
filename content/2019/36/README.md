@@ -16,19 +16,19 @@
 
 ### Testing / Fixtures
 
-*   [jFairy (⭐741)](https://github.com/Devskiller/jfairy) - Fake data generator.
+*   [jFairy (⭐739)](https://github.com/Devskiller/jfairy) - Fake data generator.
 
 ## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Generators / Other
 
-*   [Gridsome (⭐8.5k)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
+*   [Gridsome (⭐8.6k)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 
 ## [4. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Library
 
-*   [Stream Ops (⭐48)](https://github.com/nanosai/stream-ops-java) \[Java] - A fully embeddable data streaming engine and stream processing API for Java.
+*   [Stream Ops (⭐49)](https://github.com/nanosai/stream-ops-java) \[Java] - A fully embeddable data streaming engine and stream processing API for Java.
 
 ## [5. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [MikroORM (⭐7.9k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+*   :octocat: [MikroORM (⭐8k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 
 ## [14. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
@@ -156,17 +156,17 @@
 
 *   [ML Workspace](hhttps://github.com/ml-tooling/ml-workspace) - All-in-one web-based development environment for machine learning and data science.
 
-## [19. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [19. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/week/README.md)
+
+### Tools/Utilities
+
+*   [ML Workspace (⭐3.5k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web IDE for machine learning and data science. Combines Tensorflow, Jupyter, VS Code, Tensorboard, and many other tools/libraries into one Docker image.
+
+## [20. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Connection pools
 
 *   [metabase/connection-pool (⭐14)](https://github.com/metabase/connection-pool)
-
-## [20. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/week/README.md)
-
-### Tools / Misc
-
-*   [ML Workspace (⭐3.4k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code).
 
 ## [21. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
@@ -189,7 +189,7 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [Flutter-animation-set (⭐282)](https://github.com/efoxTeam/flutter-animation-set) <!--stargazers:efoxTeam/flutter-animation-set--> - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam)
+*   [Flutter-animation-set (⭐283)](https://github.com/efoxTeam/flutter-animation-set) <!--stargazers:efoxTeam/flutter-animation-set--> - Easy to build an animation set by [efoxTeam](https://github.com/efoxTeam)
 *   [Staggered Animations (⭐1.6k)](https://github.com/mobiten/flutter_staggered_animations) <!--stargazers:mobiten/flutter_staggered_animations--> - Easily add staggered animations to your ListView, GridView, Column and Row by [mobiten](https://mobiten.com/)
 
 ## [24. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
@@ -385,7 +385,7 @@
 
 ### Applications / Games
 
-*   [swatteau/sokoban-rs (⭐153)](https://github.com/swatteau/sokoban-rs) - A Sokoban implementation
+*   [swatteau/sokoban-rs (⭐155)](https://github.com/swatteau/sokoban-rs) - A Sokoban implementation
 
 ## [37. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
@@ -529,7 +529,7 @@
 *   [keras-contrib (⭐1.6k)](https://github.com/keras-team/keras-contrib) - Keras community contributions. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Hyperas (⭐2.2k)](https://github.com/maxpumperla/hyperas) - Keras + Hyperopt: A straightforward wrapper for a convenient hyperparameter. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas) - Distributed Deep learning with Keras & Spark. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
-*   [qkeras (⭐532)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
+*   [qkeras (⭐551)](https://github.com/google/qkeras) - A quantization deep learning library. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/keras_big.png" alt="Keras compatible">
 
 ### Reinforcement Learning / Others
 
@@ -546,36 +546,36 @@
 
 ### Visualization / General Purposes
 
-*   [chartify (⭐3.5k)](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
-*   [physt (⭐131)](https://github.com/janpipek/physt) - Improved histograms.
+*   [chartify (⭐3.6k)](https://github.com/spotify/chartify/) - Python library that makes it easy for data scientists to create charts.
+*   [physt (⭐133)](https://github.com/janpipek/physt) - Improved histograms.
 
 ### Visualization / Interactive plots
 
-*   [animatplot (⭐410)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
+*   [animatplot (⭐413)](https://github.com/t-makaro/animatplot) - A python package for animating plots built on matplotlib.
 
 ### Distributed Computing / Synthetic Data
 
 *   [Horovod (⭐14k)](https://github.com/uber/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/tf_big2.png" alt="sklearn">
 *   [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html) - Exposes the Spark programming model to Python. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/spark_big.png" alt="Apache Spark based">
-*   [Veles (⭐906)](https://github.com/Samsung/veles) - Distributed machine learning platform.
-*   [Jubatus (⭐705)](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
+*   [Veles (⭐907)](https://github.com/Samsung/veles) - Distributed machine learning platform.
+*   [Jubatus (⭐709)](https://github.com/jubatus/jubatus) - Framework and Library for Distributed Online Machine Learning.
 *   [DMTK (⭐2.7k)](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
-*   [dask-ml (⭐894)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
+*   [dask-ml (⭐916)](https://github.com/dask/dask-ml) - Distributed and parallel machine learning. <img height="20" src="https://github.com/krzjoa/awesome-python-data-science/raw/master/img/sklearn_big.png" alt="sklearn">
 *   [Distributed (⭐1.6k)](https://github.com/dask/distributed) - Distributed computation in Python.
 
 ### Quantum Computing / Synthetic Data
 
-*   [PennyLane (⭐2.3k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
+*   [PennyLane (⭐2.5k)](https://github.com/XanaduAI/pennylane) - Quantum machine learning, automatic differentiation, and optimization of hybrid quantum-classical computations.
 
 ## [45. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Audio
 
-*   [Verovio (⭐694)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
+*   [Verovio (⭐702)](https://github.com/rism-ch/verovio) - Verovio is a fast and lightweight music notation engraving library. \[LGPL] [website](https://www.verovio.org)
 
 ### Compression
 
-*   [bit7z (⭐678)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
+*   [bit7z (⭐686)](https://github.com/rikyoz/bit7z) - A C++ static library offering a clean and simple interface to the 7-zip shared libraries. \[MPL2]
 
 ### Integrated Development Environment
 

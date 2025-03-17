@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 20, 2018
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -259,25 +259,19 @@
 *   [lmn-gulp-tasks (⭐22)](https://github.com/Lostmyname/lmn-gulp-tasks) - Example of gulp tasks unit testing.
 *   [gulp-chef](http://gulp-cookery.github.io/gulp-chef/) - An elegant, intuitive way to reuse gulp tasks.
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [Zsh](https://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://sourceforge.net/projects/zsh/) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/unixorn/awesome-zsh-plugins#readme)
-
-## [3. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
+## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
 ### Job boards aggregators
 
 *   [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
 
-## [4. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries
 
 *   [Rambda (⭐1.7k)](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
 
-## [5. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
+## [4. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 
 ### Packages / Broccoli
 
@@ -291,19 +285,19 @@
 
 *   [Understanding Ember's resolver](https://dockyard.com/blog/2016/09/14/understanding-ember-s-resolver)
 
-## [6. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+## [5. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ### Apps
 
 *   [IPFS Desktop (⭐6.1k)](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
 
-## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Logging
 
 *   [P7Baical](http://baical.net/p7.html) - An open source and cross-platform library for high-speed sending telemetry & trace data  with minimal usage of CPU and memory. \[LGPL]
 
-## [8. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [7. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### ReactJS
 
@@ -315,14 +309,14 @@
 
 
 
-## [9. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [8. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Misc
 
 *   [AspNetCore Extension Library (⭐162)](https://github.com/sgjsakura/AspNetCore) - ASP.NET Core Extension Library.
 *   [Eighty (⭐39)](https://github.com/benjamin-hodgson/Eighty) - A simple HTML generation library
 
-## [10. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Lambda
 

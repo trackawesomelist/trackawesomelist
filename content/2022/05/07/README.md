@@ -55,13 +55,13 @@
 
 ### Command-Line Tools / Discovery
 
-*   [alejandra (⭐960)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
+*   [alejandra (⭐1k)](https://github.com/kamadorueda/alejandra) - An opinionated Nix code formatter optimized for speed and consistency.
 
 ## [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Email
 
-*   [go-mail (⭐820)](https://github.com/wneessen/go-mail) - A simple Go library for sending mails in Go.
+*   [go-mail (⭐879)](https://github.com/wneessen/go-mail) - A simple Go library for sending mails in Go.
 
 ## [7. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 

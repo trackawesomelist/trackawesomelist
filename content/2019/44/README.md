@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 04 - Nov 10, 2019
 
-69 awesome lists updated this week.
+70 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -54,7 +54,7 @@
 
 ### CLOS extensions
 
-*   [filtered-functions (⭐43)](https://github.com/pcostanza/filtered-functions) - enable the use of arbitrary predicates for selecting and applying methods. [MIT](https://opensource.org/licenses/MIT).
+*   [filtered-functions (⭐45)](https://github.com/pcostanza/filtered-functions) - enable the use of arbitrary predicates for selecting and applying methods. [MIT](https://opensource.org/licenses/MIT).
 
 ## [8. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
@@ -91,7 +91,7 @@
 
 ### Plugins / IRC
 
-*   [Composer-Vendor-Cleaner (⭐22)](https://github.com/liborm85/composer-vendor-cleaner) - Plugin removes unnecessary development files and directories from `vendor` directory by glob pattern syntax.
+*   [Composer-Vendor-Cleaner (⭐31)](https://github.com/liborm85/composer-vendor-cleaner) - Plugin removes unnecessary development files and directories from `vendor` directory by glob pattern syntax.
 
 ### Blogs / IRC
 
@@ -204,7 +204,7 @@
 
 ### Go / General-Purpose Machine Learning
 
-*   [gorse (⭐8.6k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
+*   [gorse (⭐8.7k)](https://github.com/zhenghaoz/gorse) - An offline recommender system backend based on collaborative filtering written in Go.
 
 ### Python / General-Purpose Machine Learning
 
@@ -563,11 +563,11 @@
 
 ### Table of Contents / Navigation
 
-*   [Menu (⭐743)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
+*   [Menu (⭐745)](https://github.com/spatie/menu) - A flexible menu library with a fluent interface.
 
 ### Table of Contents / Strings
 
-*   [Portable UTF-8 (⭐511)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
+*   [Portable UTF-8 (⭐515)](https://github.com/voku/portable-utf8) - A string manipulation library with UTF-8 safe replacement methods.
 
 ## [48. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
@@ -1003,15 +1003,123 @@
 
 ### Command Line
 
-*   [Swiftline (⭐1.2k)](https://github.com/nsomar/Swiftline) - Swiftline is a set of tools to help you create command line applications.
-*   [Commander (⭐1.5k)](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
 *   [ColorizeSwift (⭐306)](https://github.com/mtynior/ColorizeSwift) - Terminal string styling for Swift.
-*   [Guaka (⭐1.1k)](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) Command line framework for Swift.
-*   [Marathon (⭐1.9k)](https://github.com/JohnSundell/Marathon) - Marathon makes it easy to write, run and manage your Swift scripts.
 *   [CommandCougar (⭐54)](https://github.com/surfandneptune/CommandCougar) - An elegant pure Swift library for building command line applications.
-*   [Crayon (⭐59)](https://github.com/luoxiu/Crayon) - Terminal string styling with expressive api and 256/TrueColor support.
-*   [SwiftShell (⭐1k)](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting and running shell commands.
+*   [Commander (⭐1.5k)](https://github.com/kylef/Commander) - Compose beautiful command line interfaces in Swift.
+*   [Crayon (⭐59)](https://github.com/luoxiu/Crayon) - Terminal string styling with expressive API and 256/TrueColor support.
+*   [Guaka (⭐1.1k)](https://github.com/nsomar/Guaka) - The smartest and most beautiful (POSIX compliant) command line framework for Swift.
 *   [SourceDocs (⭐393)](https://github.com/eneko/SourceDocs) - Command Line Tool that generates Markdown documentation from inline source code comments.
+*   [Swiftline (⭐1.2k)](https://github.com/nsomar/Swiftline) - Swiftline is a set of tools to help you create command line applications.
+*   [SwiftShell (⭐1k)](https://github.com/kareman/SwiftShell) - A Swift framework for shell scripting and running shell commands.
+
+### Tools / Collection View Layout
+
+*   [nef (⭐268)](https://github.com/bow-swift/nef) - A set of command line tools for Xcode Playground: lets you have compile-time verification of your documentation written as Xcode Playgrounds, generates markdown files, integration with Jekyll for building microsites and Carbon to export code snippets.
+*   [Shark (⭐382)](https://github.com/kaandedeoglu/Shark) - Swift Script that transforms the .xcassets folder into a type safe enum.
+*   [SBConstants (⭐311)](https://github.com/paulsamuels/SBConstants) - Generate a constants file by grabbing identifiers from storyboards in a project.
+*   [R.swift (⭐9.5k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues in your Swift project.
+*   [SwiftGen (⭐9.3k)](https://github.com/SwiftGen/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings and UIColors).
+*   [Blade (⭐816)](https://github.com/jondot/blade) - Generate Xcode image catalogs for iOS / macOS app icons, universal images, and more.
+*   [Retini (⭐202)](https://github.com/terwanerik/Retini) - A super simple retina (2x, 3x) image converter.
+*   [Jazzy (⭐7.4k)](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C.
+*   [appledoc (⭐4.2k)](https://github.com/tomaz/appledoc) - ObjectiveC code Apple style documentation set generator.
+*   [Laurine (⭐1.3k)](https://github.com/JiriTrecak/Laurine) - Laurine - Localization code generator written in Swift. Sweet!
+*   [StoryboardMerge (⭐237)](https://github.com/marcinolawski/StoryboardMerge) - Xcode storyboards diff and merge tool.
+*   [ai2app (⭐76)](https://github.com/metasmile/ai2appiconset) - Creating AppIcon sets from Adobe Illustrator (all supported formats).
+*   [ViewMonitor (⭐728)](https://github.com/daisuke0131/ViewMonitor) - ViewMonitor can measure view positions with accuracy.
+*   [abandoned-strings (⭐376)](https://github.com/ijoshsmith/abandoned-strings) - Command line program that detects unused resource strings in an iOS or macOS application.
+*   [swiftenv (⭐2k)](https://github.com/kylef/swiftenv) - swiftenv allows you to easily install, and switch between multiple versions of Swift.
+*   [Misen (⭐123)](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
+*   [git-xcp (⭐13)](https://github.com/metasmile/git-xcp) - A Git plugin for versioning workflow of real-world Xcode project. fastlane's best friend.
+*   [WatchdogInspector (⭐517)](https://github.com/tapwork/WatchdogInspector) - Shows your current framerate (fps) in the status bar of your iOS app.
+*   [Cichlid (⭐241)](https://github.com/dealforest/Cichlid) - automatically delete the current project's DerivedData directories.
+*   [Delta (⭐245)](https://github.com/thoughtbot/Delta) - Managing state is hard. Delta aims to make it simple.
+*   [SwiftLintXcode (⭐354)](https://github.com/ypresto/SwiftLintXcode) - An Xcode plug-in to format your code using SwiftLint.
+*   [XCSwiftr (⭐344)](https://github.com/dzenbot/XCSwiftr) - An Xcode Plugin to convert Objective-C to Swift.
+*   [SwiftKitten (⭐139)](https://github.com/johncsnyder/SwiftKitten) - Swift autocompleter for Sublime Text, via the adorable SourceKitten framework.
+*   [Kin (⭐1k)](https://github.com/Karumi/Kin) - Have you ever found yourself undoing a merge due to a broken Xcode build? Then Kin is your tool. It will parse your project configuration file and detect errors.
+*   [AVXCAssets-Generator (⭐344)](https://github.com/angelvasa/AVXCAssets-Generator) - AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click.
+*   [Peek (⭐2.6k)](https://github.com/shaps80/Peek) - Take a Peek at your application.
+*   [SourceKitten (⭐2.3k)](https://github.com/jpsim/SourceKitten) - An adorable little framework and command line tool for interacting with SourceKit.
+*   [xcbuild (⭐2k)](https://github.com/facebook/xcbuild) - Xcode-compatible build tool.
+*   [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - An executable that can be placed in a Run Script Build Phase that marks comments like // TODO: or // SERIOUS: as warnings or errors so they display in the Xcode Issue Navigator.
+*   [SwiftCompilationPerformanceReporter (⭐146)](https://github.com/TumblrArchive/SwiftCompilationPerformanceReporter) - Generate automated reports for slow Swift compilation paths in specific targets.
+*   [BuildTimeAnalyzer (⭐4.3k)](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - Build Time Analyzer for Swift.
+*   [Duration (⭐325)](https://github.com/SwiftStudies/Duration) - A simple Swift package for measuring and reporting the time taken for operations.
+*   [Benchmark (⭐86)](https://github.com/WorldDownTown/Benchmark) - The Benchmark module provides methods to measure and report the time used to execute Swift code.
+*   [MBAssetsImporter (⭐71)](https://github.com/MatiBot/MBAssetsImporter) - Import assets from Panoramio or from your macOS file system with their metadata to your iOS simulator (Swift 2.0).
+*   [Realm Browser (⭐503)](https://github.com/realm/realm-browser-osx) - Realm Browser is a macOS utility to open and modify realm database files.
+*   [SuperDelegate (⭐454)](https://github.com/square/SuperDelegate) – SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.
+*   [fastlane-plugin-appicon (⭐339)](https://github.com/fastlane-community/fastlane-plugin-appicon) - Generate required icon sizes and iconset from a master application icon.
+*   [infer (⭐15k)](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C.
+*   [PlayNow (⭐92)](https://github.com/marcboquet/PlayNow) - Small app that creates empty Swift playground files and opens them with Xcode.
+*   [Xtrace (⭐1.8k)](https://github.com/johnno1962/Xtrace) - Trace Objective-C method calls by class or instance.
+*   [xcenv (⭐249)](https://github.com/xcenv/xcenv) - Groom your Xcode environment.
+*   [playgroundbook (⭐259)](https://github.com/playgroundbooks/playgroundbook) - Tool for Swift Playground books.
+*   [Ecno (⭐102)](https://github.com/xmartlabs/Ecno) - Ecno is a task state manager built on top of UserDefaults in pure Swift 3.
+*   [ipanema (⭐10)](https://github.com/toshi0383/ipanema) - ipanema analyzes and prints useful information from `.ipa` file.
+*   [pxctest (⭐797)](https://github.com/plu/pxctest) - Parallel XCTest - Execute XCTest suites in parallel on multiple iOS Simulators.
+*   [IBM Swift Sandbox](https://swift.sandbox.bluemix.net) - The IBM Swift Sandbox is an interactive website that lets you write Swift code and execute it in a server environment – on top of Linux!
+*   [FBSimulatorControl (⭐4.6k)](https://github.com/facebook/idb) - A macOS library for managing and manipulating iOS Simulators
+*   [Nomad](https://nomad-cli.com) - Suite of command line utilities & libraries for sending APNs, create & distribute `.ipa`, verify In-App-Purchase receipt and more.
+*   [Cookiecutter (⭐527)](https://github.com/RahulKatariya/SwiftFrameworkTemplate) - A template for new Swift iOS / tvOS / watchOS / macOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file.
+*   [Sourcery (⭐7.8k)](https://github.com/krzysztofzablocki/Sourcery) - A tool that brings meta-programming to Swift, allowing you to code generate Swift code.
+*   [AssetChecker 👮 (⭐218)](https://github.com/freshOS/AssetChecker) - Keeps your Assets.xcassets files clean and emits warnings when something is suspicious.
+*   [PlayAlways (⭐551)](https://github.com/insidegui/PlayAlways) - Create Xcode playgrounds from your menu bar
+*   [GDPerformanceView-Swift (⭐2.3k)](https://github.com/dani-gavrilov/GDPerformanceView-Swift) - Shows FPS, CPU usage, app and iOS versions above the status bar and report FPS and CPU usage via delegate.
+*   [Traits (⭐904)](https://github.com/krzysztofzablocki/Traits) - Library for a real-time design and behavior modification of native iOS apps without recompiling (code and interface builder changes are supported).
+*   [Struct](https://www.get-struct.tools) - A tool for iOS and Mac developers to automate the creation and management of Xcode projects.
+*   [Nori (⭐294)](https://github.com/yukiasai/Nori) - Easier to apply code based style guide to storyboard.
+*   [Attabench (⭐1.3k)](https://github.com/attaswift/Attabench) - Microbenchmarking app for Swift with nice log-log plots.
+*   [Gluten (⭐7)](https://github.com/wilbertliu/Gluten) - Nano library to unify XIB and it's code.
+*   [LicensePlist (⭐2.4k)](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications.
+*   [AppDevKit (⭐1.4k)](https://github.com/yahoo/AppDevKit) - AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
+*   [Tweaks (⭐4.7k)](https://github.com/facebook/Tweaks) - An easy way to fine-tune, and adjust parameters for iOS apps in development.
+*   [FengNiao (⭐3.4k)](https://github.com/onevcat/FengNiao) - A command line tool for cleaning unused resources in Xcode.
+*   [LifetimeTracker (⭐3.2k)](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner.
+*   [Plank (⭐468)](https://github.com/pinterest/plank) - A tool for generating immutable model objects.
+*   [Lona (⭐7.5k)](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
+*   [XcodeGen (⭐7.2k)](https://github.com/yonaskolb/XcodeGen) - Command line tool that generates your Xcode project from a spec file and your folder structure.
+*   [iSimulator (⭐1.2k)](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
+*   [Natalie (⭐1.2k)](https://github.com/krzyzanowskim/Natalie) - Storyboard Code Generator.
+*   [Transformer (⭐281)](https://github.com/andresinaka/transformer) - Easy Online Attributed String Creator. This tool lets you format a string directly in the browser and then copy/paste the attributed string code into your app.
+*   [ProvisionQL (⭐2.4k)](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for apps and provisioning profile files.
+*   [xib2Storyboard (⭐133)](https://github.com/novemberfiveco/xib2Storyboard) - A tool to convert Xcode .xib to .storyboard files.
+*   [Zolang (⭐150)](https://github.com/Zolang/Zolang) - A programming language for sharing logic between iOS, Android and Tools.
+*   [xavtool (⭐35)](https://github.com/gabrielrobert/xavtool) - Command-line utility to automatically increase iOS / Android applications version.
+*   [Cutter](https://cutter.albemala.me/) - A tool to generate iOS Launch Images (Splash Screens) for all screen sizes starting from a single template.
+
+### Logging
+
+*   [SwiftyTextTable (⭐321)](https://github.com/scottrhoyt/SwiftyTextTable) - A lightweight tool for generating text tables.
+*   [CleanroomLogger (⭐1.3k)](https://github.com/emaloney/CleanroomLogger) - A configurable and extensible Swift-based logging API that is simple, lightweight and performant.
+*   [CocoaLumberjack (⭐13k)](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS.
+*   [NSLogger (⭐5k)](https://github.com/fpillet/NSLogger) - a high performance logging utility which displays traces emitted by client applications running on macOS, iOS and Android.
+*   [QorumLogs (⭐786)](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
+*   [Log (⭐831)](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
+*   [Rainbow (⭐1.9k)](https://github.com/onevcat/Rainbow) - Delightful console output for Swift developers.
+*   [SwiftyBeaver (⭐6k)](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development and release.
+*   [Watchdog (⭐1.9k)](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread.
+*   [XCGLogger (⭐4k)](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
+*   [Colors (⭐28)](https://github.com/icodeforlove/Colors) - A pure Swift library for using ANSI codes. Basically makes command-line coloring and styling very easy!
+*   [AELog (⭐32)](https://github.com/tadija/AELog) - Simple, lightweight and flexible debug logging framework written in Swift.
+*   [ReflectedStringConvertible (⭐65)](https://github.com/mattcomi/ReflectedStringConvertible) - A protocol that allows any class to be printed as if it were a struct.
+*   [SwiftTrace (⭐718)](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations.
+*   [Willow (⭐1.4k)](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library written in Swift.
+*   [Bugfender (⭐77)](https://github.com/bugfender/BugfenderSDK-iOS) - Cloud storage for your app logs. Track user behaviour to find problems in your mobile apps.
+*   [LxDBAnything (⭐427)](https://github.com/DeveloperLx/LxDBAnything) - Automate box any value! Print log without any format control symbol! Change debug habit thoroughly!
+*   [XLTestLog (⭐56)](https://github.com/xareelee/XLTestLog) - Styling and coloring your XCTest logs on Xcode Console.
+*   [XLFacility (⭐318)](https://github.com/swisspol/XLFacility) - Elegant and extensive logging facility for macOS & iOS (includes database, Telnet and HTTP servers).
+*   [Atlantis (⭐198)](https://github.com/DrewKiino/Atlantis) - A powerful input-agnostic swift logging framework made to speed up development with maximum readability.
+*   [StoryTeller (⭐10)](https://github.com/drekka/StoryTeller) - Taking a completely different approach to logging, Story Teller replacing fixed logging levels in It then uses dynamic expressions to control the logging so you only see what is important.
+*   [LumberMill (⭐2)](https://github.com/ubclaunchpad/LumberMill) - Stupidly simple logging.
+*   [TinyConsole (⭐1.9k)](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app.
+*   [Lighty (⭐52)](https://github.com/abdullahselek/Lighty) - Easy to use and lightweight logger for iOS, macOS, tvOS, watchOS and Linux.
+*   [JustLog (⭐521)](https://github.com/justeat/JustLog) - Console, file and remote Logstash logging via TCP socket.
+*   [Twitter Logging Service (⭐300)](https://github.com/twitter/ios-twitter-logging-service) - Twitter Logging Service is a robust and performant logging framework for iOS clients.
+*   [Reqres (⭐90)](https://github.com/AckeeCZ/Reqres) - Network request and response body logger with Alamofire support.
+*   [TraceLog (⭐54)](https://github.com/tonystone/tracelog) - Dead Simple: logging the way it's meant to be! Runs on ios, osx, and Linux.
+*   [OkLog (⭐18)](https://github.com/diegotl/OkLog-Swift) - A network logger for iOS and macOS projects.
 
 ### Concurrency
 
@@ -1482,38 +1590,6 @@
 *   [nslocalizer (⭐157)](https://github.com/samdmarshall/nslocalizer) - A tool for finding missing and unused NSLocalizedStrings.
 *   [L10n-swift (⭐317)](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
 *   [Localize (⭐293)](https://github.com/andresilvagomez/Localize) - Easy tool to localize apps using JSON or Strings and of course IBDesignables with extensions for UI components.
-
-### Logging
-
-*   [CleanroomLogger (⭐1.3k)](https://github.com/emaloney/CleanroomLogger) - A configurable and extensible Swift-based logging API that is simple, lightweight and performant.
-*   [CocoaLumberjack (⭐13k)](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS.
-*   [NSLogger (⭐5k)](https://github.com/fpillet/NSLogger) - a high performance logging utility which displays traces emitted by client applications running on macOS, iOS and Android.
-*   [QorumLogs (⭐786)](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
-*   [Log (⭐831)](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
-*   [Rainbow (⭐1.9k)](https://github.com/onevcat/Rainbow) - Delightful console output for Swift developers.
-*   [SwiftyBeaver (⭐6k)](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development and release.
-*   [SwiftyTextTable (⭐321)](https://github.com/scottrhoyt/SwiftyTextTable) - A lightweight tool for generating text tables.
-*   [Watchdog (⭐1.9k)](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread.
-*   [XCGLogger (⭐4k)](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
-*   [Colors (⭐28)](https://github.com/icodeforlove/Colors) - A pure Swift library for using ANSI codes. Basically makes command-line coloring and styling very easy!
-*   [AELog (⭐32)](https://github.com/tadija/AELog) - Simple, lightweight and flexible debug logging framework written in Swift.
-*   [ReflectedStringConvertible (⭐65)](https://github.com/mattcomi/ReflectedStringConvertible) - A protocol that allows any class to be printed as if it were a struct.
-*   [SwiftTrace (⭐718)](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations.
-*   [Willow (⭐1.4k)](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library written in Swift.
-*   [Bugfender (⭐77)](https://github.com/bugfender/BugfenderSDK-iOS) - Cloud storage for your app logs. Track user behaviour to find problems in your mobile apps.
-*   [LxDBAnything (⭐427)](https://github.com/DeveloperLx/LxDBAnything) - Automate box any value! Print log without any format control symbol! Change debug habit thoroughly!
-*   [XLTestLog (⭐56)](https://github.com/xareelee/XLTestLog) - Styling and coloring your XCTest logs on Xcode Console.
-*   [XLFacility (⭐318)](https://github.com/swisspol/XLFacility) - Elegant and extensive logging facility for macOS & iOS (includes database, Telnet and HTTP servers).
-*   [Atlantis (⭐198)](https://github.com/DrewKiino/Atlantis) - A powerful input-agnostic swift logging framework made to speed up development with maximum readability.
-*   [StoryTeller (⭐10)](https://github.com/drekka/StoryTeller) - Taking a completely different approach to logging, Story Teller replacing fixed logging levels in It then uses dynamic expressions to control the logging so you only see what is important.
-*   [LumberMill (⭐2)](https://github.com/ubclaunchpad/LumberMill) - Stupidly simple logging.
-*   [TinyConsole (⭐1.9k)](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app.
-*   [Lighty (⭐52)](https://github.com/abdullahselek/Lighty) - Easy to use and lightweight logger for iOS, macOS, tvOS, watchOS and Linux.
-*   [JustLog (⭐521)](https://github.com/justeat/JustLog) - Console, file and remote Logstash logging via TCP socket.
-*   [Twitter Logging Service (⭐300)](https://github.com/twitter/ios-twitter-logging-service) - Twitter Logging Service is a robust and performant logging framework for iOS clients.
-*   [Reqres (⭐90)](https://github.com/AckeeCZ/Reqres) - Network request and response body logger with Alamofire support.
-*   [TraceLog (⭐54)](https://github.com/tonystone/tracelog) - Dead Simple: logging the way it's meant to be! Runs on ios, osx, and Linux.
-*   [OkLog (⭐18)](https://github.com/diegotl/OkLog-Swift) - A network logger for iOS and macOS projects.
 
 ### Machine Learning
 
@@ -3417,83 +3493,6 @@
 *   [Swift-ActionCableClient (⭐166)](https://github.com/danielrhodes/Swift-ActionCableClient) - ActionCable is a new WebSocket server being released with Rails 5 which makes it easy to add real-time features to your app.
 *   [DNWebSocket (⭐36)](https://github.com/GlebRadchenko/DNWebSocket) - Object-Oriented, Swift-style WebSocket Library (RFC 6455) for Swift-compatible Platforms.
 
-### Tools / Collection View Layout
-
-*   [Shark (⭐382)](https://github.com/kaandedeoglu/Shark) - Swift Script that transforms the .xcassets folder into a type safe enum.
-*   [SBConstants (⭐311)](https://github.com/paulsamuels/SBConstants) - Generate a constants file by grabbing identifiers from storyboards in a project.
-*   [R.swift (⭐9.5k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues in your Swift project.
-*   [SwiftGen (⭐9.3k)](https://github.com/SwiftGen/SwiftGen) - A collection of Swift tools to generate Swift code (enums for your assets, storyboards, Localizable.strings and UIColors).
-*   [Blade (⭐816)](https://github.com/jondot/blade) - Generate Xcode image catalogs for iOS / macOS app icons, universal images, and more.
-*   [Retini (⭐202)](https://github.com/terwanerik/Retini) - A super simple retina (2x, 3x) image converter.
-*   [Jazzy (⭐7.4k)](https://github.com/realm/jazzy) - Soulful docs for Swift & Objective-C.
-*   [appledoc (⭐4.2k)](https://github.com/tomaz/appledoc) - ObjectiveC code Apple style documentation set generator.
-*   [Laurine (⭐1.3k)](https://github.com/JiriTrecak/Laurine) - Laurine - Localization code generator written in Swift. Sweet!
-*   [StoryboardMerge (⭐237)](https://github.com/marcinolawski/StoryboardMerge) - Xcode storyboards diff and merge tool.
-*   [ai2app (⭐76)](https://github.com/metasmile/ai2appiconset) - Creating AppIcon sets from Adobe Illustrator (all supported formats).
-*   [ViewMonitor (⭐728)](https://github.com/daisuke0131/ViewMonitor) - ViewMonitor can measure view positions with accuracy.
-*   [abandoned-strings (⭐376)](https://github.com/ijoshsmith/abandoned-strings) - Command line program that detects unused resource strings in an iOS or macOS application.
-*   [swiftenv (⭐2k)](https://github.com/kylef/swiftenv) - swiftenv allows you to easily install, and switch between multiple versions of Swift.
-*   [Misen (⭐123)](https://github.com/tasanobu/Misen) - Script to support easily using Xcode Asset Catalog in Swift.
-*   [git-xcp (⭐13)](https://github.com/metasmile/git-xcp) - A Git plugin for versioning workflow of real-world Xcode project. fastlane's best friend.
-*   [WatchdogInspector (⭐517)](https://github.com/tapwork/WatchdogInspector) - Shows your current framerate (fps) in the status bar of your iOS app.
-*   [Cichlid (⭐241)](https://github.com/dealforest/Cichlid) - automatically delete the current project's DerivedData directories.
-*   [Delta (⭐245)](https://github.com/thoughtbot/Delta) - Managing state is hard. Delta aims to make it simple.
-*   [SwiftLintXcode (⭐354)](https://github.com/ypresto/SwiftLintXcode) - An Xcode plug-in to format your code using SwiftLint.
-*   [XCSwiftr (⭐344)](https://github.com/dzenbot/XCSwiftr) - An Xcode Plugin to convert Objective-C to Swift.
-*   [SwiftKitten (⭐139)](https://github.com/johncsnyder/SwiftKitten) - Swift autocompleter for Sublime Text, via the adorable SourceKitten framework.
-*   [Kin (⭐1k)](https://github.com/Karumi/Kin) - Have you ever found yourself undoing a merge due to a broken Xcode build? Then Kin is your tool. It will parse your project configuration file and detect errors.
-*   [AVXCAssets-Generator (⭐344)](https://github.com/angelvasa/AVXCAssets-Generator) - AVXCAssets Generator takes path for your assets images and creates appiconset and imageset for you in just one click.
-*   [Peek (⭐2.6k)](https://github.com/shaps80/Peek) - Take a Peek at your application.
-*   [SourceKitten (⭐2.3k)](https://github.com/jpsim/SourceKitten) - An adorable little framework and command line tool for interacting with SourceKit.
-*   [xcbuild (⭐2k)](https://github.com/facebook/xcbuild) - Xcode-compatible build tool.
-*   [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - An executable that can be placed in a Run Script Build Phase that marks comments like // TODO: or // SERIOUS: as warnings or errors so they display in the Xcode Issue Navigator.
-*   [SwiftCompilationPerformanceReporter (⭐146)](https://github.com/TumblrArchive/SwiftCompilationPerformanceReporter) - Generate automated reports for slow Swift compilation paths in specific targets.
-*   [BuildTimeAnalyzer (⭐4.3k)](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - Build Time Analyzer for Swift.
-*   [Duration (⭐325)](https://github.com/SwiftStudies/Duration) - A simple Swift package for measuring and reporting the time taken for operations.
-*   [Benchmark (⭐86)](https://github.com/WorldDownTown/Benchmark) - The Benchmark module provides methods to measure and report the time used to execute Swift code.
-*   [MBAssetsImporter (⭐71)](https://github.com/MatiBot/MBAssetsImporter) - Import assets from Panoramio or from your macOS file system with their metadata to your iOS simulator (Swift 2.0).
-*   [Realm Browser (⭐503)](https://github.com/realm/realm-browser-osx) - Realm Browser is a macOS utility to open and modify realm database files.
-*   [SuperDelegate (⭐454)](https://github.com/square/SuperDelegate) – SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.
-*   [fastlane-plugin-appicon (⭐339)](https://github.com/fastlane-community/fastlane-plugin-appicon) - Generate required icon sizes and iconset from a master application icon.
-*   [infer (⭐15k)](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C.
-*   [PlayNow (⭐92)](https://github.com/marcboquet/PlayNow) - Small app that creates empty Swift playground files and opens them with Xcode.
-*   [Xtrace (⭐1.8k)](https://github.com/johnno1962/Xtrace) - Trace Objective-C method calls by class or instance.
-*   [xcenv (⭐249)](https://github.com/xcenv/xcenv) - Groom your Xcode environment.
-*   [playgroundbook (⭐259)](https://github.com/playgroundbooks/playgroundbook) - Tool for Swift Playground books.
-*   [Ecno (⭐102)](https://github.com/xmartlabs/Ecno) - Ecno is a task state manager built on top of UserDefaults in pure Swift 3.
-*   [ipanema (⭐10)](https://github.com/toshi0383/ipanema) - ipanema analyzes and prints useful information from `.ipa` file.
-*   [pxctest (⭐797)](https://github.com/plu/pxctest) - Parallel XCTest - Execute XCTest suites in parallel on multiple iOS Simulators.
-*   [IBM Swift Sandbox](https://swift.sandbox.bluemix.net) - The IBM Swift Sandbox is an interactive website that lets you write Swift code and execute it in a server environment – on top of Linux!
-*   [FBSimulatorControl (⭐4.6k)](https://github.com/facebook/idb) - A macOS library for managing and manipulating iOS Simulators
-*   [Nomad](https://nomad-cli.com) - Suite of command line utilities & libraries for sending APNs, create & distribute `.ipa`, verify In-App-Purchase receipt and more.
-*   [Cookiecutter (⭐527)](https://github.com/RahulKatariya/SwiftFrameworkTemplate) - A template for new Swift iOS / tvOS / watchOS / macOS Framework project ready with travis-ci, cocoapods, Carthage, SwiftPM and a Readme file.
-*   [Sourcery (⭐7.8k)](https://github.com/krzysztofzablocki/Sourcery) - A tool that brings meta-programming to Swift, allowing you to code generate Swift code.
-*   [AssetChecker 👮 (⭐218)](https://github.com/freshOS/AssetChecker) - Keeps your Assets.xcassets files clean and emits warnings when something is suspicious.
-*   [PlayAlways (⭐551)](https://github.com/insidegui/PlayAlways) - Create Xcode playgrounds from your menu bar
-*   [GDPerformanceView-Swift (⭐2.3k)](https://github.com/dani-gavrilov/GDPerformanceView-Swift) - Shows FPS, CPU usage, app and iOS versions above the status bar and report FPS and CPU usage via delegate.
-*   [Traits (⭐904)](https://github.com/krzysztofzablocki/Traits) - Library for a real-time design and behavior modification of native iOS apps without recompiling (code and interface builder changes are supported).
-*   [Struct](https://www.get-struct.tools) - A tool for iOS and Mac developers to automate the creation and management of Xcode projects.
-*   [Nori (⭐294)](https://github.com/yukiasai/Nori) - Easier to apply code based style guide to storyboard.
-*   [Attabench (⭐1.3k)](https://github.com/attaswift/Attabench) - Microbenchmarking app for Swift with nice log-log plots.
-*   [Gluten (⭐7)](https://github.com/wilbertliu/Gluten) - Nano library to unify XIB and it's code.
-*   [LicensePlist (⭐2.4k)](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications.
-*   [AppDevKit (⭐1.4k)](https://github.com/yahoo/AppDevKit) - AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
-*   [Tweaks (⭐4.7k)](https://github.com/facebook/Tweaks) - An easy way to fine-tune, and adjust parameters for iOS apps in development.
-*   [FengNiao (⭐3.4k)](https://github.com/onevcat/FengNiao) - A command line tool for cleaning unused resources in Xcode.
-*   [LifetimeTracker (⭐3.2k)](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner.
-*   [Plank (⭐468)](https://github.com/pinterest/plank) - A tool for generating immutable model objects.
-*   [Lona (⭐7.5k)](https://github.com/airbnb/Lona) - A tool for defining design systems and using them to generate cross-platform UI code, Sketch files, images, and other artifacts.
-*   [XcodeGen (⭐7.2k)](https://github.com/yonaskolb/XcodeGen) - Command line tool that generates your Xcode project from a spec file and your folder structure.
-*   [iSimulator (⭐1.2k)](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
-*   [Natalie (⭐1.2k)](https://github.com/krzyzanowskim/Natalie) - Storyboard Code Generator.
-*   [Transformer (⭐281)](https://github.com/andresinaka/transformer) - Easy Online Attributed String Creator. This tool lets you format a string directly in the browser and then copy/paste the attributed string code into your app.
-*   [ProvisionQL (⭐2.4k)](https://github.com/ealeksandrov/ProvisionQL) - Quick Look plugin for apps and provisioning profile files.
-*   [xib2Storyboard (⭐133)](https://github.com/novemberfiveco/xib2Storyboard) - A tool to convert Xcode .xib to .storyboard files.
-*   [Zolang (⭐150)](https://github.com/Zolang/Zolang) - A programming language for sharing logic between iOS, Android and Tools.
-*   [xavtool (⭐35)](https://github.com/gabrielrobert/xavtool) - Command-line utility to automatically increase iOS / Android applications version.
-*   [Cutter](https://cutter.albemala.me/) - A tool to generate iOS Launch Images (Splash Screens) for all screen sizes starting from a single template.
-*   [nef (⭐268)](https://github.com/bow-swift/nef) - A set of command line tools for Xcode Playground: lets you have compile-time verification of your documentation written as Xcode Playgrounds, generates markdown files, integration with Jekyll for building microsites and Carbon to export code snippets.
-
 ### Tutorials and Keynotes / Collection View Layout
 
 *   [AppCoda](https://www.appcoda.com/)
@@ -3556,11 +3555,6 @@
 
 ## [60. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
-### PlayCanvas
-
-*   [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
-*   [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
-
 ### Tutorials
 
 *   [Create a Bowling Game](https://www.gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx) - Create a physics-based bowling game.
@@ -3570,10 +3564,10 @@
 
 ### Extensions and Utilities
 
-*   [playcanvas-ar (⭐239)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
-*   [playcanvas-p2.js (⭐22)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
-*   [playcanvas-spine (⭐48)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
-*   [playcanvas-tween (⭐59)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
+*   [playcanvas-ar (⭐241)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
+*   [playcanvas-p2.js (⭐23)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
+*   [playcanvas-spine (⭐49)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
+*   [playcanvas-tween (⭐61)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 *   [Sublime Completions (⭐4)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 
 ### Technical Demos
@@ -3586,7 +3580,7 @@
 *   [Star-Lord](https://playcanv.as/p/SA7hVBLt/) - First ever PBR demo from PlayCanvas.
 *   [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - Physically rendered slots machine.
 
-### Browser Games
+### Games / Browser Games
 
 *   [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) - Outdoor adventures in this game from the BBC.
 *   [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learn programming fundamentals with Disney's Moana.
@@ -3596,14 +3590,14 @@
 *   [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 *   [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
 
-### Automotive
+### Automotive / YouTube Playables
 
 *   [BMW i8](http://car.playcanvas.com) - Car visualizer.
 *   [DAB Motors](https://dabmotors.com/configurator/) - Motorcycle configurator.
 *   [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
 *   [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) - Off-road vehicle configurator.
 
-### Product Configurators
+### Product Configurators / YouTube Playables
 
 *   [Elfa Closets](http://elfa.com/sv-se/planner) - Closet configurator.
 *   [iPhone 6](http://phone.playcanvas.com) - iPhone visualizer.
@@ -3633,49 +3627,64 @@
 
 *   [Google Home Theme (⭐105)](https://github.com/liri/lovelace-themes) - Two themes (light and dark) matching the design of Google Home Hub.
 
-## [64. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
+## [64. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### ABAP
+
+*   [SAP Code Style Guides - Clean ABAP (⭐1.7k)](https://github.com/SAP/styleguides/blob/master/clean-abap/CleanABAP.md)
+
+### C / Non-X86
+
+*   [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
+*   [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
+
+### F Sharp / Phoenix
+
+*   [Programming Language Concepts for Software Developers](https://archive.org/details/B-001-003-622)
+
+## [65. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/week/README.md)
 
 ### Articles
 
 *   [Car Hacking in 30 Minutes or Less](https://brysonpayne.com/2018/10/20/start-car-hacking-in-30-minutes-or-less/) - Using VirtualBox and Kali Linux, you can start car hacking using completely free open-source software and tools, including can-utils, ICSim, ScanTool, Wireshark, and tcpdump
 
-## [65. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [66. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Misc
 
-*   [CodableWrappers (⭐648)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
+*   [CodableWrappers (⭐674)](https://github.com/GottaGetSwifty/CodableWrappers) - A Collection of PropertyWrappers to make custom Serialization of Codable Types easy.
 
 ### Mock / Barcode
 
 *   [MockSwift (⭐90)](https://github.com/leoture/MockSwift) - Mock Framework that uses the power of property wrappers.
 
-## [66. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
+## [67. Awesome Blazor](/content/AdrienTorris/awesome-blazor/week/README.md)
 
 ### Other Languages / Others
 
 *   [Insights from the oracle](http://blog.ppedv.de/?tag=Blazor) - \[German] Blog about Blazor.
 
-## [67. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [68. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Text processing
 
-*   [phiresky/ripgrep-all (⭐8.5k)](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+*   [phiresky/ripgrep-all (⭐8.6k)](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 
 ### Development tools / Web Servers
 
-*   [scriptisto (⭐989)](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
+*   [scriptisto (⭐1k)](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
 
-## [68. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [69. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Optimization / Others
 
-*   [scikit-opt (⭐5.2k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
+*   [scikit-opt (⭐5.4k)](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
 
 ### Data Manipulation / Data Frames
 
-*   [pandas-log (⭐214)](https://github.com/eyaltrabelsi/pandas-log) - A package that allows providing feedback about basic pandas operations and finds both business logic and performance issues.
+*   [pandas-log (⭐215)](https://github.com/eyaltrabelsi/pandas-log) - A package that allows providing feedback about basic pandas operations and finds both business logic and performance issues.
 
-## [69. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [70. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Monitoring
 

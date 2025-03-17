@@ -10,7 +10,7 @@
 
 ### Third party Guides
 
-*   [Conferences.digital (⭐761)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
+*   [Conferences.digital (⭐762)](https://github.com/zagahr/Conferences.digital) - Watch conference videos in a native macOS app.
 
 ### UI / Barcode
 
@@ -51,7 +51,7 @@
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [Beacon broadcast (⭐81)](https://github.com/pszklarska/beacon_broadcast) <!--stargazers:pszklarska/beacon_broadcast--> - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/)
+*   [Beacon broadcast (⭐82)](https://github.com/pszklarska/beacon_broadcast) <!--stargazers:pszklarska/beacon_broadcast--> - Library for turning your phone into a beacon by [Paulina Szklarska](https://github.com/pszklarska/)
 
 ## [5. Bots](/content/hackerkid/bots/README.md)
 

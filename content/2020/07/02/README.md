@@ -38,7 +38,7 @@
 
 ### OS and Kernels / Apache License
 
-*   [cubit (⭐78)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
+*   [cubit (⭐79)](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 
 ## [6. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 

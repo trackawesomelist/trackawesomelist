@@ -37,7 +37,7 @@
 
 ### Documentation
 
-*   [rspec\_api\_documentation (⭐1.4k)](https://github.com/zipmark/rspec_api_documentation) - Automatically generate API documentation from RSpec.
+*   [rspec\_api\_documentation (⭐1.5k)](https://github.com/zipmark/rspec_api_documentation) - Automatically generate API documentation from RSpec.
 
 ### PDF
 
@@ -178,7 +178,7 @@
 
 ### Text and Numbers
 
-*   [money (⭐834)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
+*   [money (⭐836)](https://github.com/liuggio/money) - Working with Money safer, easier, and fun, interpretation of the Fowler's Money pattern.
 
 ## [10. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md)
 

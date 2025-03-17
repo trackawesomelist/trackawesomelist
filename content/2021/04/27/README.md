@@ -28,7 +28,7 @@
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-beat (⭐1.7k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
+*   [django-celery-beat (⭐1.8k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 
 ## [5. Awesome Ios](/content/vsouza/awesome-ios/README.md)
 
@@ -125,7 +125,7 @@
 
 ### Repman / IRC
 
-*   [repman-io/composer-plugin (⭐9)](https://github.com/repman-io/composer-plugin) - This plugin enables downloading via Repman by adding a distribution mirror URL for all your dependencies (without need to update the `composer.lock` file).
+*   [repman-io/composer-plugin (⭐11)](https://github.com/repman-io/composer-plugin) - This plugin enables downloading via Repman by adding a distribution mirror URL for all your dependencies (without need to update the `composer.lock` file).
 
 ---
 

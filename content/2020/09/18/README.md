@@ -53,7 +53,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [skorch (⭐5.9k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
+*   [skorch (⭐6k)](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch.
 
 ## [9. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -123,7 +123,7 @@
 
 ### Tools & Software / Replay
 
-*   [OpenWayback (⭐490)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
+*   [OpenWayback (⭐491)](https://github.com/iipc/openwayback/) - The open source project aimed to develop Wayback Machine, the key software used by web archives worldwide to play back archived websites in the user's browser. *(Stable)*
 
 ## [11. Awesome Firebase](/content/jthegedus/awesome-firebase/README.md)
 

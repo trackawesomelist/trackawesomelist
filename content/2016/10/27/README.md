@@ -22,7 +22,7 @@
 
 ### Functional Programming
 
-*   [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle) by **Philip Wadler** \[42:17]
+*   [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle) by **Philip Wadler** (Joy of Code 2016) \[42:17]
 
 ## [4. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
@@ -34,11 +34,11 @@
 
 ### Sliders / Runner
 
-*   [Glide.js (⭐7.3k)](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
+*   [Glide.js (⭐7.5k)](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 
 ### Video/Audio / Other
 
-*   [clappr (⭐7.1k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
+*   [clappr (⭐7.2k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
 
 ## [6. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 

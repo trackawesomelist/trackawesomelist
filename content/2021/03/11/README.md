@@ -16,11 +16,11 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-cesium (⭐237)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
+*   [vite-plugin-cesium (⭐247)](https://github.com/nshen/vite-plugin-cesium) - Integration with Cesium library.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-aliases (⭐215)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
+*   [vite-aliases (⭐218)](https://github.com/subwaytime/vite-aliases) - Alias auto-generation based on project structure.
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -62,7 +62,7 @@
 
 ### Software / Note-taking & Editors
 
-*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐47k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
+*   [Joplin](https://joplinapp.org/) - Joplin is a note taking application with Markdown editor and encryption support for mobile and desktop platforms. Runs client-side and syncs through self hosted Nextcloud or similar (alternative to Evernote). ([Source Code (⭐48k)](https://github.com/laurent22/joplin)) `MIT` `Nodejs`
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -84,8 +84,8 @@
 
 ### Driver crates / Other
 
-*   [DRV8825](https://crates.io/crates/drv8825) - DRV8825 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/drv8825.svg)](https://crates.io/crates/drv8825)
-*   [STSPIN220](https://crates.io/crates/stspin220) - STSPIN220 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/stspin220.svg)](https://crates.io/crates/stspin220)
+*   [DRV8825](https://crates.io/crates/drv8825) - DRV8825 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](http://web.archive.org/web/20210129151911/https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/drv8825.svg)](https://crates.io/crates/drv8825)
+*   [STSPIN220](https://crates.io/crates/stspin220) - STSPIN220 Stepper Motor Driver (based on [Stepper](https://crates.io/crates/stepper)) - [Intro blog post](http://web.archive.org/web/20210129151911/https://flott-motion.org/news/announcing-step-dir/) - [![crates.io](https://img.shields.io/crates/v/stspin220.svg)](https://crates.io/crates/stspin220)
 
 ### no-std crates / WIP
 
@@ -119,15 +119,15 @@
 ### Programming Languages
 
 *   [C (⭐3.5k)](https://github.com/inputsh/awesome-c#readme)
-*   [D (⭐665)](https://github.com/dlang-community/awesome-d#readme)
+*   [D (⭐676)](https://github.com/dlang-community/awesome-d#readme)
 
 ### Front-End Development
 
-*   [PageSpeed Metrics (⭐677)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
+*   [PageSpeed Metrics (⭐679)](https://github.com/csabapalfi/awesome-pagespeed-metrics#readme) - Metrics to help understand page speed and user experience.
 
 ### Development Environment
 
-*   [Fish (⭐4.2k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
+*   [Fish (⭐4.4k)](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
 *   [Alfred Workflows (⭐3.1k)](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 
 ### Media
@@ -136,16 +136,16 @@
 
 ### Business
 
-*   [Developer-First Products (⭐1.1k)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+*   [Developer-First Products (⭐1.2k)](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 
 ### Work
 
-*   [Programming Interviews (⭐72k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
+*   [Programming Interviews (⭐73k)](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 
 ### Miscellaneous
 
-*   [Userscripts (⭐2k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
-*   [Agriculture (⭐1.3k)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
+*   [Userscripts (⭐2.2k)](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
+*   [Agriculture (⭐1.4k)](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
 
 ## [10. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/README.md)
 

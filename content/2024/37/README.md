@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 09 - Sep 15, 2024
 
-42 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -168,7 +168,7 @@
 
 ### Code / Developer tools
 
-*   [WhoDB (⭐2.4k)](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
+*   [WhoDB (⭐2.9k)](https://github.com/clidey/whodb) - SQL/NoSQL/Graph/Cache/Object data explorer with AI-powered chat + other useful features
 
 ### Audio / Marketing AI Tools
 
@@ -230,19 +230,19 @@
 
 ### Utils
 
-*   [playwright-network-cache (⭐8)](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
+*   [playwright-network-cache (⭐42)](https://github.com/vitalets/playwright-network-cache) - Speed up Playwright tests by caching network requests on the filesystem.
 
 ## [11. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Tracking
 
-*   [Dawarich (⭐3.6k)](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History.
+*   [Dawarich (⭐4.1k)](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History.
 
 ## [12. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Paid and commercially available materials
 
-*   [probe-rs (⭐1.9k)](https://github.com/probe-rs/probe-rs): a modern, embedded debugging toolkit, written in Rust
+*   [probe-rs (⭐2k)](https://github.com/probe-rs/probe-rs): a modern, embedded debugging toolkit, written in Rust
 
 ## [13. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
@@ -260,35 +260,35 @@
 
 ### Monitoring / Text-Based User Interfaces
 
-*   [OpenTelemetry (⭐2k)](https://github.com/open-telemetry/opentelemetry-java) - Instrument, generate, collect, and export telemetry data to help you analyze your software’s performance and behavior.
+*   [OpenTelemetry (⭐2.1k)](https://github.com/open-telemetry/opentelemetry-java) - Instrument, generate, collect, and export telemetry data to help you analyze your software’s performance and behavior.
 
 ## [16. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Running scripts / Third-party APIs
 
-*   [CIEL (⭐360)](https://github.com/ciel-lang/CIEL/) - CIEL Is an Extended Lisp is a collection of dozens of libraries useful for mundane tasks (HTTP, JSON, regexps…). \[unclear licence]
+*   [CIEL (⭐374)](https://github.com/ciel-lang/CIEL/) - CIEL Is an Extended Lisp is a collection of dozens of libraries useful for mundane tasks (HTTP, JSON, regexps…). \[unclear licence]
     *   It also comes as a binary that is able to run scripts from sources. Scripts that use the built-in libraries start fast without a compilation step.
     *   *in beta as of 2024*
-*   NEW in 2024 [kiln (⭐46)](https://github.com/ruricolist/kiln) - an infrastructure (managing a hidden multicall binary) to make Lisp scripting efficient and ergonomic. [MIT](https://opensource.org/licenses/MIT).
+*   NEW in 2024 [kiln (⭐53)](https://github.com/ruricolist/kiln) - an infrastructure (managing a hidden multicall binary) to make Lisp scripting efficient and ergonomic. [MIT](https://opensource.org/licenses/MIT).
     *   Kiln makes it practical to write very small scripts. Kiln scripts are fast and cheap to the point where it makes sense to expose even small pieces of Lisp functionality to the shell.
 
 ### Other scripting utilities / Third-party APIs
 
-*   [lqn (⭐39)](https://github.com/inconvergent/lqn) -  query language and terminal utility for querying and transforming Lisp, JSON and other text files. written in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+*   [lqn (⭐40)](https://github.com/inconvergent/lqn) -  query language and terminal utility for querying and transforming Lisp, JSON and other text files. written in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Blockchain
 
-*   [gno (⭐917)](https://github.com/gnolang/gno) - A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains.
+*   [gno (⭐933)](https://github.com/gnolang/gno) - A comprehensive smart contract suite built with Golang and Gnolang, a deterministic, purpose-built Go variant for blockchains.
 
 ### Bot Building
 
-*   [slacker (⭐45)](https://github.com/slack-io/slacker) - Easy to use framework to create Slack bots.
+*   [slacker (⭐48)](https://github.com/slack-io/slacker) - Easy to use framework to create Slack bots.
 
 ### Continuous Integration
 
-*   [muffet (⭐2.5k)](https://github.com/raviqqe/muffet) - Fast website link checker in Go, see [alternatives (⭐2.4k)](https://github.com/lycheeverse/lychee#features).
+*   [muffet (⭐2.5k)](https://github.com/raviqqe/muffet) - Fast website link checker in Go, see [alternatives (⭐2.5k)](https://github.com/lycheeverse/lychee#features).
 
 ### Search and Analytic Databases
 
@@ -296,11 +296,11 @@
 
 ### Distributed Systems
 
-*   [K8gb (⭐923)](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer.
+*   [K8gb (⭐942)](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer.
 
 ### Email
 
-*   [mox (⭐3.8k)](https://github.com/mjl-/mox) - Modern full-featured secure mail server for low-maintenance, self-hosted email.
+*   [mox (⭐3.9k)](https://github.com/mjl-/mox) - Modern full-featured secure mail server for low-maintenance, self-hosted email.
 
 ### Dependency Injection
 
@@ -309,12 +309,12 @@
 
 ### Networking
 
-*   [psql-wire (⭐116)](https://github.com/jeroenrinzema/psql-wire) - PostgreSQL server wire protocol. Build your own server and start serving connections..
+*   [psql-wire (⭐126)](https://github.com/jeroenrinzema/psql-wire) - PostgreSQL server wire protocol. Build your own server and start serving connections..
 
 ### Testing Frameworks
 
 *   [envite (⭐5)](https://github.com/PerimeterX/envite) - Dev and testing environment management framework.
-*   [keploy (⭐5.3k)](https://github.com/keploy/keploy) - Generate Testcase and Data Mocks from API calls automatically.
+*   [keploy (⭐6k)](https://github.com/keploy/keploy) - Generate Testcase and Data Mocks from API calls automatically.
 
 ### Third-party APIs
 
@@ -323,7 +323,7 @@
 ### Code Analysis / Libraries for creating HTTP middlewares
 
 *   [goreturns (⭐531)](https://github.com/sqs/goreturns) - Adds zero-value return statements to match the func return types.
-*   [wrapcheck (⭐314)](https://github.com/tomarrell/wrapcheck) - A linter to check that errors from external packages are wrapped.
+*   [wrapcheck (⭐321)](https://github.com/tomarrell/wrapcheck) - A linter to check that errors from external packages are wrapped.
 
 ### Websites / Libraries for creating HTTP middlewares
 
@@ -337,7 +337,7 @@
 
 ### Libraries / Asynchronous
 
-*   [tqwewe/kameo (⭐703)](https://github.com/tqwewe/kameo) - Fault-tolerant Async Actors Built on Tokio
+*   [tqwewe/kameo (⭐792)](https://github.com/tqwewe/kameo) - Fault-tolerant Async Actors Built on Tokio
 
 ## [19. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
@@ -355,7 +355,7 @@
 
 ### Installation Media / Discovery
 
-*   [nixos-anywhere (⭐1.9k)](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH.
+*   [nixos-anywhere (⭐2k)](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH.
 
 ### DevOps / Discovery
 
@@ -384,6 +384,7 @@
     *   [`@genkit-ai/google-cloud`](https://www.npmjs.com/package/@genkit-ai/google-cloud) - The Google Cloud plugin exports Firebase Genkit's telemetry and logging data to Google Cloud's operation suite.
 *   Other Plugins
     *   [`@genkit-ai/firebase`](https://firebase.google.com/docs/genkit/plugins/firebase) - Firebase plugin provides several integrations with Firebase services: Indexers and retrievers using Cloud Firestore vector store, Trace storage using Cloud Firestore, Flow deployment using Cloud Functions, Authorization policies for Firebase Authentication users.
+    *   [`@genkit-ai/express`](https://www.npmjs.com/package/@genkit-ai/express) - Express plugin provides an Express middleware for Genkit.
 
 ### Plugins / JavaScript - Community
 
@@ -396,6 +397,7 @@
     *   [`genkitx-openai`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/openai) - Plugin for OpenAI APIs.
     *   [`genkitx-azure-openai`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/azure-openai) - Plugin for Azure OpenAI APIs.
     *   [`genkitx-aws-bedrock`](https://github.com/xavidop/genkitx-aws-bedrock) - Plugin for AWS Bedrock APIs.
+    *   [`genkitx-deepseek`](https://github.com/oddbit/genkitx-deepseek) - Plugin for Deepseek Cloud APIs.
 *   Vector Store Plugins
     *   [`genkitx-convex`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/convex) - Plugin for Convex Vector Stores.
     *   [`genkitx-hnsw`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/hnsw) - Plugin for HNSW Vector Stores.
@@ -431,16 +433,6 @@
 
 *   [Supercharge your app with Firebase Genkit](https://www.youtube.com/watch?v=eVud8llb_W0) - A talk on how to supercharge your app with Firebase Genkit.
 
-### Videos / Golang - Community
-
-*   [Getting started with Genkit](https://www.youtube.com/watch?v=M8rfDySBBvM) - A video tutorial on how to get started with Genkit.
-*   [What are Genkit flows? - YouTube](https://youtu.be/ONR38NZK5FE) - Flows are a key concept in Genkit. Learn what makes them special, and how to use them.
-*   [Build an Angular app with Genkit and deploy to Firebase](https://youtu.be/TGHua_RtUjs) - Join Pavel as he builds an Angular app and deploys it to Firebase.
-*   [DeepDive #1 - Genkit's reflection API and how it powers Genkit's developer UI](https://youtu.be/CGVBR8quZac) - Learn how the Genkit developer UI communicates with Genkit through the reflection API.
-*   [Retrieval Augmented Generation (RAG) with Genkit](https://youtu.be/p8ZlYAmbWHE) - Learn how to efficiently parse PDFs, convert their content into searchable vectors using Genkit's local vector store, and implement a re-ranker to pinpoint the most relevant documents for your queries.
-*   [Firebase After Hours #3 - Genkit: More than Meets the AI!](https://youtu.be/VFPsp7aURWA?t=152s) - Hang out with Nohe and Peter to learn more about Firebase Genkit, Google's open source AI integration framework. With special guest Pavel Jbanov, lead engineer on the Genkit team.
-*   [Firebase After Hours #4 - Genkit: Tooltime](https://youtu.be/01XOIhh2ibA) - Learn how to give LLMs superpowers by conneting the to the real world using tool calling.
-
 ### Tutorials / Golang - Community
 
 *   [Slack Bot App](https://medium.com/firebase-developers/build-a-slack-bot-app-with-firebase-genkit-in-just-100-lines-71d4e49c9e08) - A tutorial on how to build a Slack Bot App with Firebase Genkit.
@@ -449,7 +441,7 @@
 
 *   [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 *   [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
-*   [Genkit GitHub (⭐980)](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
+*   [Genkit GitHub (⭐1.1k)](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
 *   [The Fire Company](https://github.com/TheFireCo) - The Fire Company GitHub organization.
 
 ## [24. Awesome Icons](/content/notlmn/awesome-icons/week/README.md)
@@ -462,7 +454,7 @@
 
 ### UI
 
-*   [lovr-ui2d (⭐41)](https://github.com/immortalx74/lovr-ui2d) - An immediate mode GUI library for LÖVR and LÖVE.
+*   [lovr-ui2d (⭐45)](https://github.com/immortalx74/lovr-ui2d) - An immediate mode GUI library for LÖVR and LÖVE.
 
 ## [26. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
@@ -475,8 +467,8 @@
 
 *   [abzt (⭐0)](https://github.com/stentibbing/abzt-zsh-theme) - No nonsense theme with decorators for `git` status and directory information. Requires a nerdfont.
 *   [integral (⭐0)](https://github.com/Readf0x/integral-prompt) - Math-inspired, includes decorators for time, current directory and `git` status.
-*   [luckycoding (⭐1)](https://github.com/ZitherPeng/oh-my-zsh-luckycoding-theme) - Based on the [robbyrussell (⭐175k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme) theme, includes `git` decorations and the last command's exit code.
-*   [steef (zelongguo) (⭐0)](https://github.com/ZelongGuo/steeef) - Based on the [zimfw steef theme (⭐5)](https://github.com/zimfw/steeef). Includes decorators for username\@hostname, python venv, `git` status and current directory. Requires [git-info (⭐8)](https://github.com/zimfw/git-info).
+*   [luckycoding (⭐1)](https://github.com/ZitherPeng/oh-my-zsh-luckycoding-theme) - Based on the [robbyrussell (⭐177k)](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme) theme, includes `git` decorations and the last command's exit code.
+*   [steef (zelongguo) (⭐0)](https://github.com/ZelongGuo/steeef) - Based on the [zimfw steef theme (⭐5)](https://github.com/zimfw/steeef). Includes decorators for username\@hostname, python venv, `git` status and current directory. Requires [git-info (⭐9)](https://github.com/zimfw/git-info).
 
 ## [27. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
@@ -536,7 +528,7 @@
 
 ### System Utilities
 
-*   [LightBulb (⭐2.3k)](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
+*   [LightBulb (⭐2.4k)](https://github.com/Tyrrrz/LightBulb) - Adaptive screen brightness utility.
 
 ### Terminal
 
@@ -565,7 +557,7 @@
 
 ### Design patterns / Chrome Extensions
 
-*   :octocat: [Real World Design Patterns (⭐122)](https://github.com/vahidvdn/realworld-design-patterns) - Real World Design Patterns with Tests
+*   :octocat: [Real World Design Patterns (⭐127)](https://github.com/vahidvdn/realworld-design-patterns) - Real World Design Patterns with Tests
 
 ### Libraries / Chrome Extensions
 
@@ -575,11 +567,11 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-magic-preloader (⭐29)](https://github.com/cszhjh/vite-plugin-magic-preloader) - Generate `<link rel="prefetch" />` or `<link rel="preload" />` tags through magic comments and inject them into `index.html`.
+*   [vite-plugin-magic-preloader (⭐31)](https://github.com/cszhjh/vite-plugin-magic-preloader) - Generate `<link rel="prefetch" />` or `<link rel="preload" />` tags through magic comments and inject them into `index.html`.
 
 ### Framework-agnostic Plugins / Helpers
 
-*   [vite-preload (⭐21)](https://github.com/wille/vite-preload) - Preloads lazy loaded modules and stylesheets that were rendered by the server using 103 Early Hints, Link headers or link tags.
+*   [vite-preload (⭐27)](https://github.com/wille/vite-preload) - Preloads lazy loaded modules and stylesheets that were rendered by the server using 103 Early Hints, Link headers or link tags.
 
 ## [31. Guides](/content/NARKOZ/guides/week/README.md)
 
@@ -587,25 +579,19 @@
 
 *   [Even Better Specs | Guidelines for Maintainable Tests](https://evenbetterspecs.github.io/)
 
-## [32. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
-
-### Mathematics
-
-*   [Calculus](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/) - Gilbert Strang (PDF)
-
-## [33. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [32. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [hatchet (⭐156)](https://github.com/hatchet-dev/hatchet-v1-archived) - An all-in-one Terraform management tool. :skull:
 
-## [34. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
+## [33. Awesome Kotlin](/content/KotlinBy/awesome-kotlin/week/README.md)
 
 ### Libraries/Frameworks / Parsers
 
 *   [fleeksoft/ksoup (⭐338)](https://github.com/fleeksoft/ksoup) - Kotlin Multiplatform library for working with HTML and XML. It's a port of the renowned Java library Jsoup.
 
-## [35. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [34. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Tools for Teams and Collaboration
 
@@ -624,54 +610,54 @@
 
 *   [Mossaik](https://mossaik.app) - Free SVG image generator with different tools like waves, blogs and patterns.
 
-## [36. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [35. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Standalone Components
 
 *   [`<lit-image-cropper>`](https://github.com/andy-austin/lit-image-cropper) - Fast and lightweight image cropper component.
 
-## [37. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [36. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Colorscheme Switchers / Diagnostics
 
-*   [LmanTW/themify.nvim (⭐39)](https://github.com/LmanTW/themify.nvim/tree/main) - A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim.
+*   [LmanTW/themify.nvim (⭐42)](https://github.com/LmanTW/themify.nvim/tree/main) - A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim.
 
 ### Utility / Diagnostics
 
-*   [QuentinGruber/pomodoro.nvim (⭐35)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
-*   [rlychrisg/truncateline.nvim (⭐20)](https://github.com/rlychrisg/truncateline.nvim) - Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.
+*   [QuentinGruber/pomodoro.nvim (⭐37)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
+*   [rlychrisg/truncateline.nvim (⭐21)](https://github.com/rlychrisg/truncateline.nvim) - Truncate long lines to keep track of where you are when the start gets lost off the left side of the screen.
 
-## [38. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [37. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Schema / Diagrams
 
-*   [ChartDB (⭐12k)](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
+*   [ChartDB (⭐13k)](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
 
-## [39. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [38. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Articles
 
 *   [Going reactive with Eclipse Vert.x and RX Java](https://blogs.oracle.com/javamagazine/post/going-reactive-with-eclipse-vertx-and-rxjava)
 
-## [40. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [39. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Public Data Resources / Resilience and Natural Hazards
 
 *   [Extreme Heat Data Pathfinder](https://www.earthdata.nasa.gov/learn/pathfinders/disasters/extreme-heat-data-pathfinder) - A central repository hosting multiple datasets guiding users to relevant near-real-time data for extreme heat analysis and visualization based on NASA's remotely sensed data.
 
-## [41. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [40. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Note-taking & Editors
 
-*   [SilverBullet](https://silverbullet.md/) - Note-taking application optimized for people with a hacker mindset. ([Demo](https://play.silverbullet.md/), [Source Code (⭐2.9k)](https://github.com/silverbulletmd/silverbullet), [Clients](https://silverbullet.md/Libraries)) `MIT` `Docker/Deno`
+*   [SilverBullet](https://silverbullet.md/) - Note-taking application optimized for people with a hacker mindset. ([Demo](https://play.silverbullet.md/), [Source Code (⭐3.1k)](https://github.com/silverbulletmd/silverbullet), [Clients](https://silverbullet.md/Libraries)) `MIT` `Docker/Deno`
 
-## [42. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [41. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Deployment / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Zerops](https://zerops.io/) - Zerops makes deploying and running Analog apps, both [server side rendered (⭐2)](https://github.com/zeropsio/recipe-analog-nodejs) and [static (⭐4)](https://github.com/zeropsio/recipe-analog-static), a breeze.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-testing-tools (⭐2)](https://github.com/remscodes/ngx-testing-tools) - Provides high-level utilities and reduces boilerplate for testing Angular applications.
 
@@ -698,7 +684,7 @@
 ### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-exhaustive-check (⭐4)](https://github.com/soc221b/ngx-exhaustive-check) - Angular utility for ensuring exhaustive checks on TypeScript discriminated unions, enhancing type safety and reliability.
-*   [mutates (⭐18)](https://github.com/IKatsuba/mutates) - A powerful toolset for mutating the Abstract Syntax Tree (AST) of TypeScript files. It is a fork of [ng-morph (⭐157)](https://github.com/taiga-family/ng-morph), with a broader focus beyond Angular-specific transformations, allowing for extensive AST modifications in any TypeScript project.
+*   [mutates (⭐17)](https://github.com/IKatsuba/mutates) - A powerful toolset for mutating the Abstract Syntax Tree (AST) of TypeScript files. It is a fork of [ng-morph (⭐157)](https://github.com/taiga-family/ng-morph), with a broader focus beyond Angular-specific transformations, allowing for extensive AST modifications in any TypeScript project.
 
 ---
 

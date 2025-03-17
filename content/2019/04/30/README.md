@@ -22,7 +22,7 @@
 
 ### Tools
 
-*   [IPDR (⭐540)](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.
+*   [IPDR (⭐542)](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.
 *   [mahuta (⭐240)](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 
 ## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)

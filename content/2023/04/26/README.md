@@ -10,12 +10,7 @@
 
 ### Tools / Low-code
 
-*   [Langflow (⭐44k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
-
-### Unmaintained / Videos Playlists
-
-*   [LangchainUI (⭐888)](https://github.com/homanp/langchain-ui): The open source chat-ai toolkit ![GitHub Repo stars](https://img.shields.io/github/stars/homanp/langchain-ui?style=social)
-*   [Yeager.ai (⭐586)](https://github.com/yeagerai/yeagerai-agent): Yeager.ai Agent is the first Langchain Agent creator designed to help you build, prototype, and deploy AI-powered agents with ease ![GitHub Repo stars](https://img.shields.io/github/stars/yeagerai/yeagerai-agent?style=social)
+*   [Langflow (⭐50k)](https://github.com/logspace-ai/langflow): LangFlow is a UI for LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -65,7 +60,7 @@
 
 ### Resources / Examples
 
-*   [Vitesse Starter (⭐9k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
+*   [Vitesse Starter (⭐9.1k)](https://github.com/antfu/vitesse) ⛺️ Vue 3 starter inclode ( Layouts | i18n | UnoCSS | pinia | Markdown | Dark Mode | PWA | SSG | Component Auto-Importing | File-Based Router | Composition API | TypeScript)
 *   [Vitesse-lite Starter (⭐1.2k)](https://github.com/antfu/vitesse-lite) ⛺️ Lightweight version of Vitesse (Vue 3 Starter)
 
 ## [7. Awesome React](/content/enaqx/awesome-react/README.md)
@@ -79,7 +74,7 @@
 
 ### Tools and session management
 
-*   [disconnected (⭐15)](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
+*   [disconnected (⭐16)](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
 
 ## [9. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 

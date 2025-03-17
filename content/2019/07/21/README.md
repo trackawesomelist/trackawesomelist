@@ -10,7 +10,7 @@
 
 ### Data Visualization / Runner
 
-*   [mxGraph (⭐6.8k)](https://github.com/jgraph/mxgraph) - Diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
+*   [mxGraph (⭐6.9k)](https://github.com/jgraph/mxgraph) - Diagramming library that enables interactive graph and charting applications to be quickly created that run natively in any major browser that is supported by its vendor.
 
 ## [2. Awesome Ant Design](/content/websemantics/awesome-ant-design/README.md)
 

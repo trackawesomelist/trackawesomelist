@@ -10,7 +10,7 @@
 
 ### Packages / Command-line utilities
 
-*   [multispinner (⭐296)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
+*   [multispinner (⭐295)](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
 
 ## [2. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

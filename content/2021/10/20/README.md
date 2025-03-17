@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 20, 2021
 
-15 awesome lists updated today.
+16 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,7 +28,7 @@
 
 ### validation
 
-*   [check-geojson (⭐65)](https://github.com/placemark/check-geojson): alternative to geojsonhint
+*   [check-geojson (⭐72)](https://github.com/placemark/check-geojson): alternative to geojsonhint
 
 ## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -106,7 +106,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐343)](https://github.com/aragon/ui)
+  Source code \*: [:octocat: (⭐342)](https://github.com/aragon/ui)
 
 
 - : [Artsy Palette](https://palette.artsy.net/)
@@ -326,7 +326,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐28)](https://github.com/rei/rei-cedar)
+  Source code \*: [:octocat: (⭐29)](https://github.com/rei/rei-cedar)
 
 
 - : [censhare Zen](https://design.censhare.com/)
@@ -359,7 +359,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐334)](https://github.com/contentful/forma-36)
+  Source code \*: [:octocat: (⭐338)](https://github.com/contentful/forma-36)
 
 
 - : [Decathlon Design System - Vitamin](https://decathlon.design/)
@@ -370,7 +370,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐283)](https://github.com/decathlon/vitamin-web)
+  Source code \*: [:octocat: (⭐284)](https://github.com/decathlon/vitamin-web)
 
 
 - : [Decentraland UI](https://ui.decentraland.org/)
@@ -447,7 +447,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐37)](https://github.com/lessmess-dev/figma-ui-components)
+  Source code \*: [:octocat: (⭐38)](https://github.com/lessmess-dev/figma-ui-components)
 
 
 - : [Financial Times Origami](https://origami.ft.com/)
@@ -458,7 +458,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐61)](https://github.com/Financial-Times/origami)
+  Source code \*: [:octocat: (⭐62)](https://github.com/Financial-Times/origami)
 
 
 - : [Finastra Design System](https://design.fusionfabric.cloud/)
@@ -469,7 +469,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐125)](https://github.com/fusionfabric/finastra-design-system)
+  Source code \*: [:octocat:](https://github.com/fusionfabric/finastra-design-system)
 
 
 - : [Finland Toolbox](https://toolbox.finland.fi/)
@@ -491,7 +491,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐275)](https://github.com/FirefoxUX/photon)
+  Source code \*: [:octocat: (⭐274)](https://github.com/FirefoxUX/photon)
 
 
 - : [Fish Tank Design System](https://fishtank.bna.com/)
@@ -579,7 +579,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐527)](https://github.com/alphagov/govuk-design-system)
+  Source code \*: [:octocat: (⭐537)](https://github.com/alphagov/govuk-design-system)
 
 
 - : [Gympass Yoga](https://gympass.github.io/yoga/)
@@ -590,7 +590,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐227)](https://github.com/gympass/yoga)
+  Source code \*: [:octocat: (⭐230)](https://github.com/gympass/yoga)
 
 
 - : [Halstack](https://developer.dxc.com/design/guidelines/principles/overview)
@@ -634,7 +634,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐8.3k)](https://github.com/grommet/grommet)
+  Source code \*: [:octocat: (⭐8.4k)](https://github.com/grommet/grommet)
 
 
 - : [HubSpot Canvas](https://canvas.hubspot.com/)
@@ -667,7 +667,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐7.9k)](https://github.com/ibm/carbon-components)
+  Source code \*: [:octocat: (⭐8k)](https://github.com/ibm/carbon-components)
 
 
 - : [IBM Design Language](https://www.ibm.com/design/language/)
@@ -744,7 +744,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐259)](https://github.com/skbkontur/retail-ui/)
+  Source code \*: [:octocat: (⭐261)](https://github.com/skbkontur/retail-ui/)
 
 
 - : [Latitude](https://www.flexport.com/design)
@@ -810,7 +810,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐27k)](https://github.com/mantinedev/mantine)
+  Source code \*: [:octocat: (⭐28k)](https://github.com/mantinedev/mantine)
 
 
 - : [Marvel Styleguide](https://marvelapp.com/styleguide)
@@ -876,7 +876,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐36)](https://github.com/mongodb/design)
+  Source code \*: [:octocat: (⭐37)](https://github.com/mongodb/design)
 
 
 - : [Monzo Tone of Voice](https://monzo.com/tone-of-voice/)
@@ -909,7 +909,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐115)](https://github.com/nasa/nasawds)
+  Source code \*: [:octocat: (⭐117)](https://github.com/nasa/nasawds)
 
 
 - : [NationBuilder Radius](https://www.nationbuilder.design/)
@@ -942,7 +942,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐106)](https://github.com/okta/odyssey)
+  Source code \*: [:octocat: (⭐107)](https://github.com/okta/odyssey)
 
 
 - : [Opattern](https://ux.opower.com/opattern)
@@ -1008,7 +1008,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐638)](https://github.com/pivotal-cf/pivotal-ui)
+  Source code \*: [:octocat: (⭐639)](https://github.com/pivotal-cf/pivotal-ui)
 
 
 - : [Pluralsight Design System](https://design-system.pluralsight.com/)
@@ -1162,7 +1162,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐147)](https://github.com/semrush/intergalactic)
+  Source code \*: [:octocat: (⭐150)](https://github.com/semrush/intergalactic)
 
 
 - : [Shopify Polaris](https://polaris.shopify.com)
@@ -1173,7 +1173,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐5.8k)](https://github.com/Shopify/polaris)
+  Source code \*: [:octocat: (⭐5.9k)](https://github.com/Shopify/polaris)
 
 
 - : [Stacks – Stack Overflow](https://stackoverflow.design/)
@@ -1184,18 +1184,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐617)](https://github.com/StackExchange/Stacks)
-
-
-- : [Starbucks Style Guide](https://www.starbucks.com/static/reference/styleguide/)
-
-  Components: 👍
-
-  Voice & Tone: 
-
-  Designers Kit: 
-
-  Source code \*: 
+  Source code \*: [:octocat: (⭐623)](https://github.com/StackExchange/Stacks)
 
 
 - : [Teambition Clarity Design](https://design.teambition.com/)
@@ -1217,7 +1206,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐24)](https://github.com/Telefonica/mistica)
+  Source code \*: [:octocat: (⭐26)](https://github.com/Telefonica/mistica)
 
 
 - : [Thumbprint](https://thumbprint.design/)
@@ -1250,7 +1239,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐453)](https://github.com/twilio-labs/paste)
+  Source code \*: [:octocat: (⭐457)](https://github.com/twilio-labs/paste)
 
 
 - : [Uber's Base Web](https://baseweb.design/)
@@ -1272,7 +1261,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐868)](https://github.com/canonical-web-and-design/vanilla-framework)
+  Source code \*: [:octocat: (⭐882)](https://github.com/canonical-web-and-design/vanilla-framework)
 
 
 - : [USPTO UI Design Library](https://uspto.github.io/designpatterns/index.html)
@@ -1305,7 +1294,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐6.8k)](https://github.com/uswds/uswds)
+  Source code \*: [:octocat: (⭐6.9k)](https://github.com/uswds/uswds)
 
 
 - : [U.S. CMS.gov Design System](https://design.cms.gov/)
@@ -1360,7 +1349,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐630)](https://github.com/WTTJ/welcome-ui)
+  Source code \*: [:octocat: (⭐634)](https://github.com/WTTJ/welcome-ui)
 
 
 - : [West Midlands Network Design System](https://designsystem.wmnetwork.co.uk/)
@@ -1382,7 +1371,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐303)](https://github.com/Workday/canvas-kit)
+  Source code \*: [:octocat: (⭐305)](https://github.com/Workday/canvas-kit)
 
 
 - : [Yelp Styleguide](https://www.yelp.com/styleguide)
@@ -1554,11 +1543,29 @@
 
 
 
-## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Assembly Language / Blazor
+
+*   [Assembly Language Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage) - Christopher Rose, Syncfusion Inc. (HTML, PDF, EPUB, Kindle)
+
+### C / Non-X86
+
+*   [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (PDF)
+
+### Flutter / Phoenix
+
+*   [Flutter UI Succinctly, Syncfusion](https://www.syncfusion.com/succinctly-free-ebooks/flutter-ui-succinctly) - Ed Freitas
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [The Python Handbook](https://flaviocopes.com/page/python-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+
+## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [olimorris/onedarkpro.nvim (⭐861)](https://github.com/olimorris/onedarkpro.nvim) - Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants.
+*   [olimorris/onedarkpro.nvim (⭐896)](https://github.com/olimorris/onedarkpro.nvim) - Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants.
 
 ---
 

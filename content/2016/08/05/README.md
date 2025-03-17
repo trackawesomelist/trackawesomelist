@@ -73,13 +73,13 @@
 
 ### Packages / Weird
 
-*   [nerds (⭐109)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
+*   [nerds (⭐111)](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
 
 ## [4. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Libraries
 
-*   [tensorflow.rb (⭐828)](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
+*   [tensorflow.rb (⭐829)](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
 
 ## [5. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -119,7 +119,7 @@
 
 ### Elixir / Natural Language Processing
 
-*   [Stemmer (⭐150)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
+*   [Stemmer (⭐152)](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
 
 ## [11. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 

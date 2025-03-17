@@ -23,11 +23,10 @@
 
 ### Open Source Projects / Wealth
 
-*   [HumanProgrammingInrerface (⭐1.5k)](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
 *   [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
-*   [Chronicle (⭐138)](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
+*   [Chronicle (⭐158)](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
 *   [QS-Schema (⭐1)](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
-*   [Datasette (⭐9.2k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
+*   [Datasette (⭐9.9k)](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 
 ## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
@@ -39,7 +38,7 @@
 
 ### API Development
 
-*   [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/hoppscotch/hoppscotch) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [Hoppscotch](https://hoppscotch.com/) - Tests APIs with real-time collaboration features. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/hoppscotch/hoppscotch)
 *   [HTTP Toolkit](https://httptoolkit.tech) - Intercepts and modifies HTTP traffic. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/httptoolkit)
 *   [Postman](https://www.getpostman.com/postman) - Tests APIs with automated test scripts and monitoring.
 
@@ -96,7 +95,7 @@
 
 ### IDE Extensions
 
-*   [Editor support for VS2022 (⭐98)](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
+*   [Editor support for VS2022 (⭐105)](https://github.com/theron-wang/VS2022-Editor-Support-for-Tailwind-CSS) - IntelliSense, linting, sorting, and more in Visual Studio 2022.
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

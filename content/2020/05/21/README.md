@@ -28,7 +28,7 @@
 
 ## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### GTFS Data Collection and Maintenance Tools / Rust
+### Web Apps (open source) / Rust
 
 *   [GTFS Builder](http://nationalrtap.org/Web-Apps/GTFS-Builder) - A free web-based application to help you create GTFS files. Maintained by the National Rural Transit Assistance Program (RTAP).
 
@@ -87,7 +87,7 @@
 
 ### UI / Bottom Sheets
 
-*   [Rubber Bottom Sheet (⭐562)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
+*   [Rubber Bottom Sheet (⭐564)](https://github.com/mcrovero/rubber) <!--stargazers:mcrovero/rubber--> - Elastic material bottom sheet by [Mattia Crovero](https://github.com/mcrovero).
 *   [Modal Bottom Sheet (⭐1.9k)](https://github.com/jamesblasco/modal_bottom_sheet) <!--stargazers:jamesblasco/modal_bottom_sheet--> - Modal bottom sheet with Material, Cupertino iOS13 or custom appareance by [Jaime Blasco](https://github.com/jamesblasco).
 
 ## [11. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)

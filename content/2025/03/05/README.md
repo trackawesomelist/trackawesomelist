@@ -31,17 +31,9 @@
 
 ## [4. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
 
-### Tools / Develop
+### Construct 3
 
-*   [C3 Framework](https://github.com/c3framework) - Automated addon development
-
-### Plugins/Behaviors/Effects / Develop
-
-*   [Master Pose](https://itch.io/c/2390490/asset-store-) - Complete list of Plugins, Behaviors and Themes made by Master Pose.
-
-### Tutorials / YouTube
-
-*   [Master Pose](https://www.youtube.com/@Masterpose/videos) - Spanish tutorials, top lists & news.
+*   [C3 Framework](https://github.com/c3framework) - Automated addon development.
 
 ## [5. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
@@ -53,86 +45,64 @@
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐226) (⭐226)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
-*   [IBM webMethods API Management](https://www.ibm.com/products/webmethods-api-management) - A comprehensive API management solution that provides full lifecycle API management capabilities and enables you to manage APIs in both on-premises and cloud environments.
-
-### Projects / API Design
-
-*   [OpenAPI Diff (⭐881) (⭐882)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [IBM webMethods API Management](https://www.ibm.com/products/webmethods-api-management) - Offers a comprehensive suite for API lifecycle management that seamlessly integrates on-premises and cloud systems.
 
 ### Projects / API Documentation
 
-*   [DapperDox (⭐414) (⭐414)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-*   [Swagger UI (⭐27k) (⭐27k)](https://github.com/swagger-api/swagger-ui) - An intuitive tool for exploring and interacting with APIs, with API specification visualization, endpoint exploration, and built-in interactive console.
-*   [Zudoku (⭐143) (⭐143)](https://github.com/zuplo/zudoku) - An open-source, OpenAPI powered, highly customizable API documentation framework for building quality developer experiences.
+*   [DapperDox (⭐414) (⭐414)](https://github.com/DapperDox/dapperdox) - Generates elegant, interactive API documentation from OpenAPI/Swagger specs with easy customization and automated updates.
+*   [Swagger UI (⭐27k) (⭐27k)](https://github.com/swagger-api/swagger-ui) - Offers an interactive, in-browser tool for visualizing and testing APIs directly from OpenAPI specifications.
 
 ### Projects / API Gateway
 
-*   [Gloo Edge (⭐66) (⭐66)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
-*   [Spring Cloud Gateway (⭐4.6k) (⭐4.6k)](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
+*   [Spring Cloud Gateway (⭐4.6k) (⭐4.6k)](https://github.com/spring-cloud/spring-cloud-gateway) - Leverages the Spring ecosystem to deliver robust routing, filtering, and security for microservices.
 
 ### Projects / API Testing
 
 *   Testing tools and frameworks
-    *   [Apache JMeter (⭐8.6k) (⭐8.6k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
-    *   [Gatling (⭐6.5k) (⭐6.6k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
-    *   [Karate (⭐8.4k) (⭐8.5k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
-    *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - Python-based REST testing and API microbenchmarking tool that uses YAML or JSON for test.
-    *   [REST Assured (⭐6.9k) (⭐6.9k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
-    *   [Schemathesis (⭐2.4k) (⭐2.4k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
-    *   [Taurus (⭐2k) (⭐2k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
+    *   [Apache JMeter (⭐8.6k) (⭐8.6k)](https://github.com/apache/jmeter) - A feature-rich tool for load testing and performance analysis across diverse web applications and services.
+    *   [Gatling (⭐6.5k) (⭐6.6k)](https://github.com/gatling/gatling) - A powerful load testing framework with a developer-friendly DSL that delivers detailed performance metrics.
+    *   [Karate (⭐8.4k) (⭐8.5k)](https://github.com/karatelabs/karate) - A unified testing framework that merges API automation, mocking, and performance testing with simple, expressive syntax.
+    *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - A Python-based testing tool offering easy YAML/JSON-driven REST API testing and microbenchmarking.
+    *   [REST Assured (⭐6.9k) (⭐6.9k)](https://github.com/rest-assured/rest-assured) - A Java DSL that simplifies REST API testing with intuitive syntax and seamless integration into CI pipelines.
+    *   [Schemathesis (⭐2.4k) (⭐2.4k)](https://github.com/schemathesis/schemathesis) - A Python library for property-based testing of API schemas, ensuring reliability through robust edge-case detection.
+    *   [Taurus (⭐2k) (⭐2k)](https://github.com/Blazemeter/taurus) - An open-source automation framework that simplifies continuous testing with intuitive configuration and integration support.
 
 ### Projects / BRE
 
-*   [FICO Blaze Advisor](https://www.fico.com/en/products/fico-blaze-advisor) - A decision rules engine with a robust authoring interface for both technical and business users, allowing them to effectively create and manage business rules in a recognized world-class decision management solution.
-*   [IBM ODM](https://www.ibm.com/products/operational-decision-manager) - A scalable business rules management system that streamlines authoring, testing, and updating decision logic while maintaining compliance and operational agility.
-*   [Progress Corticon](https://www.progress.com/corticon) - A model-driven business rules management system enabling fast rule creation without coding while delivering high-performance automated decisions with guaranteed integrity.
-
-### Projects / Data Mapping Solution
-
-*   [JSLT (⭐651) (⭐651)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
+*   [FICO Blaze Advisor](https://www.fico.com/en/products/fico-blaze-advisor) - Enterprise-grade decision engine that empowers both business and technical users with an intuitive interface for fast rule creation and management.
+*   [IBM ODM](https://www.ibm.com/products/operational-decision-manager) - Scalable decision management system that streamlines rule authoring, testing, and updates while ensuring compliance and agility.
+*   [Progress Corticon](https://www.progress.com/corticon) - Model-driven BRMS enabling rapid, no-code rule creation that delivers high-performance automated decisions with guaranteed integrity.
 
 ### Projects / ESB
 
-*   [IBM webMethods Integration](https://www.ibm.com/products/webmethods-integration) - An integration platform that enables faster integration of any application.
-*   [WSO2 Enterprise Integrator (⭐383) (⭐383)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
-
-### Projects / ETL
-
-*   [Airbyte (⭐17k)](https://github.com/airbytehq/airbyte) - Data integration platform for ELT pipelines from APIs, databases & files to databases, warehouses & lakes.
+*   [IBM webMethods Integration](https://www.ibm.com/products/webmethods-integration) - Comprehensive platform that accelerates application integration and simplifies connectivity across heterogeneous systems.
+*   [WSO2 Enterprise Integrator (⭐383) (⭐383)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
 
 ### Projects / iPaaS
 
-*   [Celigo Integration Platform](https://www.celigo.com/platform/) - A cloud iPaaS focused on ease of use and prebuilt solutions, especially popular for SaaS-to-SaaS integrations. Celigo (Integrator.io) offers an intuitive interface and a library of templates enabling quick connectivity between business apps.
-*   [IBM webMethods](https://www.ibm.com/products/webmethods) - An all-in-one integration platform that enables software engineers to integrate all their applications in a single platform. This platform simplifies integration processes and improves efficiency.
-*   [SAP Integration Suite](https://www.sap.com/products/technology-platform/integration-suite.html) - A cloud-native integration platform (formerly SAP Cloud Platform Integration) for connecting on-premise and cloud applications. It offers pre-built adapters, API management, and event brokering as part of SAP Business Technology Platform.
-*   [Tray.io](https://tray.ai/) - A low-code general automation platform that empowers citizen integrators to build integrations and workflows via a drag-and-drop interface. Tray.io emphasizes ease-of-use and scalability, enabling business teams to integrate cloud services and automate processes without heavy coding.
+*   [Celigo Integration Platform](https://www.celigo.com/platform/) - User-friendly iPaaS with prebuilt templates for rapid SaaS-to-SaaS integrations and intuitive drag-and-drop design.
+*   [IBM webMethods](https://www.ibm.com/products/webmethods) - All-in-one integration platform that unifies applications, simplifies processes, and boosts overall efficiency.
+*   [SAP Integration Suite](https://www.sap.com/products/technology-platform/integration-suite.html) - Cloud-native solution offering prebuilt adapters, API management, and event brokering for end-to-end connectivity.
+*   [Tray.io](https://tray.ai/) - Low-code automation platform with a drag-and-drop interface, making it simple to build scalable integrations and workflows.
 
 ### Projects / Managed File Transfer
 
-*   [GoAnywhere MFT](https://www.goanywhere.com/products/goanywhere-mft) - Enterprise MFT solution offering secure, centralized file transfers with multiple protocols, workflow automation, and comprehensive audit logging.
-*   [GlobalSCAPE EFT](https://www.globalscape.com/eft) - A secure, reliable file transfer server (now under Fortra) offering comprehensive features including automation, auditing, and encryption. This customizable, hardened platform helps organizations of all sizes exchange files safely while meeting compliance requirements.
-*   [IBM webMethods MFT](https://www.ibm.com/products/webmethods-mft) - Secure, reliable managed file transfer for mission-critical workloads with flexible hybrid cloud deployment options.
-*   [Progress MOVEit](https://www.progress.com/moveit) - Secure managed file transfer solution (Progress Software, formerly Ipswitch) providing guaranteed delivery, end-to-end encryption, automation, integrity verification, and compliance tools for mission-critical transfers in regulated industries.
+*   [GoAnywhere MFT](https://www.goanywhere.com/products/goanywhere-mft) - Comprehensive solution delivering centralized, secure file transfers with automation and complete audit logging.
+*   [GlobalSCAPE EFT](https://www.globalscape.com/eft) - Hardened file transfer server that ensures end-to-end encryption, automation, and compliance for mission-critical data.
+*   [IBM webMethods MFT](https://www.ibm.com/products/webmethods-mft) - Integrated managed file transfer solution that supports flexible deployment across hybrid environments.
+*   [Progress MOVEit](https://www.progress.com/moveit) - Secure, automated file transfer solution with guaranteed delivery, encryption, and compliance tools for regulated industries.
 
 ### Projects / Master Data Management
 
-*   [Reltio](https://www.reltio.com/products/multidomain-mdm) - A cloud-native multi-domain MDM platform delivered as a SaaS offering. Reltio combines master data management with built-in data quality, governance, and even graph technology for relationships, enabling a real-time, 360° view of business entities.
+*   [Reltio](https://www.reltio.com/products/multidomain-mdm) - Cloud-native, multi-domain MDM platform combining data quality, governance, and real-time analytics for a 360° view.
 
 ### Projects / Self-Service Integration
 
-*   [Make (Integromat)](https://www.make.com) - A low-code automation platform that allows users to visually create complex workflows integrating hundreds of apps. Supports advanced data transformation, error handling, and modular workflow execution.
-*   [n8n (⭐64k) (⭐62k)](https://github.com/n8n-io/n8n) - A self-hostable, open-source workflow automation tool with 400 pre-built connectors. Unlike proprietary cloud automation tools, n8n allows full control over data and workflows, making it ideal for privacy-conscious businesses.
+*   [Make (Integromat)](https://www.make.com) - Low-code automation tool with a visual interface, advanced data transformation, and modular workflow execution.
 
 ### Projects / Workflow engine
 
-*   [Apache Airflow (⭐39k) (⭐39k)](https://github.com/apache/airflow) - A platform that allows you to create, schedule, and monitor workflows programmatically, making it easier to manage and automate complex data pipelines.
-*   [Bonita (⭐163) (⭐163)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-
-### Resources / Data Formats
-
-*   [NDJSON (⭐715) (⭐715)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐374) (⭐374)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+*   [Apache Airflow (⭐39k) (⭐39k)](https://github.com/apache/airflow) - Platform for programmatically creating, scheduling, and monitoring workflows, ideal for managing complex data pipelines.
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
@@ -160,4 +130,5 @@
 
 ---
 
+- Prev: [Mar 06, 2025](/content/2025/03/06/README.md)
 - Next: [Mar 04, 2025](/content/2025/03/04/README.md)

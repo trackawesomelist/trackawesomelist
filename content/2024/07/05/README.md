@@ -14,23 +14,23 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-native (⭐16)](https://github.com/vite-plugin/vite-plugin-native) - Supports Node/Electron C/C++ native addons.
+*   [vite-plugin-native (⭐17)](https://github.com/vite-plugin/vite-plugin-native) - Supports Node/Electron C/C++ native addons.
 
 ### React / Routing
 
-*   [unplugin-remix-router (⭐12)](https://github.com/ws-rush/unplugin-remix-router) - Generates a React Router file, that depends on Remix v2 file-based router convention.
+*   [unplugin-remix-router (⭐11)](https://github.com/ws-rush/unplugin-remix-router) - Generates a React Router file, that depends on Remix v2 file-based router convention.
 
 ### Frameworks / Community
 
-*   [vite-vlugin-vercel-skew-protection (⭐4)](https://github.com/bitttttten/vite-vlugin-vercel-skew-protection) - Helps configure Vercel Skew Protection.
+*   [vite-vlugin-vercel-skew-protection (⭐5)](https://github.com/bitttttten/vite-vlugin-vercel-skew-protection) - Helps configure Vercel Skew Protection.
 
 ### Go / Community
 
-*   [vite (⭐46)](https://github.com/olivere/vite) - Integration with Go.
+*   [vite (⭐51)](https://github.com/olivere/vite) - Integration with Go.
 
 ### PHP / Community
 
-*   [PHP-Vite Starter Repo (⭐28)](https://github.com/nititech/php-vite-starter) - Starter repository, with TypeScript/JavaScript, Tailwind CSS, SASS/SCSS, EJS, SVG and image support.
+*   [PHP-Vite Starter Repo (⭐33)](https://github.com/nititech/php-vite-starter) - Starter repository, with TypeScript/JavaScript, Tailwind CSS, SASS/SCSS, EJS, SVG and image support.
 
 ## [2. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
@@ -42,7 +42,7 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-primitives (⭐262)](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
+*   [ng-primitives (⭐277)](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
 
 ---
 

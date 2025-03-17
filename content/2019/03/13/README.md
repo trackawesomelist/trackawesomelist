@@ -86,7 +86,7 @@
 
 ### Artificial Intelligence
 
-*   [Dungeon and Cave Generation (⭐15)](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels.
+*   [Dungeon and Cave Generation (⭐16)](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels.
 *   [irrlamb](https://github.com/jazztickets/irrlamb) - Puzzle game with physics effects in 3D.
 *   [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.
 
@@ -111,7 +111,7 @@
 ### Tools / Paid and commercially available materials
 
 *   [xargo (⭐1.1k)](https://github.com/japaric/xargo) Rust package manager with support for non-default std libraries — build Rust runtime for your embedded system.
-    *   xargo is great, but since it's in maintenance mode, [cargo-xbuild (⭐259)](https://github.com/rust-osdev/cargo-xbuild) is catching up as its intended replacement.
+    *   xargo is great, but since it's in maintenance mode, [cargo-xbuild (⭐260)](https://github.com/rust-osdev/cargo-xbuild) is catching up as its intended replacement.
 
 ---
 

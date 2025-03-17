@@ -16,7 +16,7 @@
 
 ### Python / React
 
-*   [turms (⭐63)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
+*   [turms (⭐64)](https://github.com/jhnnsrs/turms) - A pythonic graphql codegenerator built around graphql-core and pydantic
 *   [rath (⭐10)](https://github.com/jhnnsrs/rath) - An apollo like graphql client with async and sync interface
 
 ## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
@@ -31,7 +31,7 @@
 
 - Processor: [Confirmo](https://confirmo.net/)
 
-  Fees: 0.8%
+  Fees: 1.3% (0.8% invoicing + 0.5% payouts)
 
   Lightning: Yes
 
@@ -53,7 +53,7 @@
 
 ### Third-Party Packages / General
 
-*   [django-data-browser (⭐357)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
+*   [django-data-browser (⭐362)](https://github.com/tolomea/django-data-browser) - Interactive, user-friendly database explorer.
 
 ### Resources / Books
 
@@ -82,13 +82,13 @@
 ### Libraries / Network programming
 
 *   Bluetooth
-    *   [bluez/bluer (⭐333)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] - Official BlueZ bindings. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
+    *   [bluez/bluer (⭐345)](https://github.com/bluez/bluer) \[[bluer](https://crates.io/crates/bluer)] - Official BlueZ bindings. [![build badge](https://github.com/bluez/bluer/actions/workflows/rust.yml/badge.svg?branch=master)](https://github.com/bluez/bluer/actions/workflows/rust.yml)
 
 ## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Data Pipeline
 
-*   [Apache RocketMQ (⭐21k)](https://github.com/apache/rocketmq) \[Java] - distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
+*   [Apache RocketMQ (⭐22k)](https://github.com/apache/rocketmq) \[Java] - distributed messaging and streaming platform with low latency, high performance and reliability, trillion-level capacity and flexible scalability.
 
 ## [12. Public Apis](/content/public-apis/public-apis/README.md)
 

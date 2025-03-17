@@ -67,6 +67,7 @@ List of Golang books
         *   [2024 - Build an Orchestrator in Go](#2024---build-an-orchestrator-in-go)
         *   [2024 - Explore Go: Cryptography](#2024---explore-go-cryptography)
         *   [2024 - Practical guide for building a blockchain from scratch in Go with gRPC](#2024---practical-guide-for-building-a-blockchain-from-scratch-in-go-with-grpc-free)
+        *   [2025 - Pro Go Patterns: Advanced Function Design, Concurrency Models, and Clean Code](#2025---pro-go-patterns-advanced-function-design-concurrency-models-and-clean-code)
         *   [Go with the Domain: Building Modern Business Software in Go *Free*](#go-with-the-domain-building-modern-business-software-in-go-free)
         *   [Spaceship Go *Free*](#spaceship-go-free)
         *   [Ultimate Go Notebook](#ultimate-go-notebook)
@@ -112,7 +113,7 @@ List of Golang books
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
-The [markdown source is available on Github (⭐547)](https://github.com/miekg/learninggo).
+The [markdown source is available on Github (⭐550)](https://github.com/miekg/learninggo).
 
 ### 2018 - [Get Programming with Go](https://bit.ly/getprogrammingwithgo)
 
@@ -544,12 +545,18 @@ Orchestration systems like Kubernetes coordinate other software subsystems and s
 
 Much of the modern world is built on cryptography, and this book introduces readers to the fundamental principles of ciphers, keys, and hashing. It traces the development of increasingly sophisticated cryptographic schemes from the Caesar cipher to SHA-256 and AES-GCM, including dozens of example Go programs and coding challenges. The book concludes with a review of best practices for handling encryption and authentication in Go applications.
 
-### 2024 - [Practical guide for building a blockchain from scratch in Go with gRPC (⭐224)](https://github.com/volodymyrprokopyuk/go-blockchain) *Free*
+### 2024 - [Practical guide for building a blockchain from scratch in Go with gRPC (⭐330)](https://github.com/volodymyrprokopyuk/go-blockchain) *Free*
 
 A foundational and practical guide for effectively learning the fundamental blockchain concepts and
 progressively building a blockchain from scratch in Go with gRPC. An interesting and challenging
 adventure that takes you from the foundational concepts and purpose through the technical design and
 implementation to the practical testing and usage of the proposed blockchain. Simple, yet non-trivial. Concise, yet detailed. Practical, yet well-grounded.
+
+### 2025 - [Pro Go Patterns: Advanced Function Design, Concurrency Models, and Clean Code](https://www.amazon.com/dp/B0DW9JNCVV?ref_=ast_author_mpb)
+
+<a href="https://www.amazon.com/dp/B0DW9JNCVV?ref_=ast_author_mpb"><img src="https://m.media-amazon.com/images/I/61JkL-4aXsL._SL1500_.jpg" width="120x"></a>
+
+Pro Go Patterns is your comprehensive guide to writing scalable, maintainable, and efficient Go code. Moving beyond the basics, this book dives deep into advanced patterns and practices used in real-world applications.
 
 ### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*
 
@@ -558,7 +565,7 @@ implementation to the practical testing and usage of the proposed blockchain. Si
 *Go with the Domain* is a book on building Go applications that solve complex problems in an idiomatic way.
 It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
 
-The book is based on a [real open source project (⭐5.3k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
+The book is based on a [real open source project (⭐5.5k)](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example).
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
 ### [Spaceship Go](https://blasrodri.github.io/spaceship-go-gh-pages/) *Free*
@@ -635,7 +642,7 @@ Take your Go skills to the next level by learning how to design, develop, and de
 
 <img src="https://raw.githubusercontent.com/juanmanuel-tirado/savetheworldwithgo/master/img/buildsystems.png" width="120px"/>
 
-The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub (⭐140)](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
+The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub (⭐145)](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
 
 ### 2023 - [Let's Go!](https://lets-go.alexedwards.net/)
 
@@ -698,7 +705,7 @@ Another awesome book for learning Web Development in Golang.
 
 ### [Go Fundamentals Video Training](https://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 
-### [More Books on the Go Wiki (⭐124k)](https://github.com/golang/go/wiki/Books)
+### [More Books on the Go Wiki (⭐126k)](https://github.com/golang/go/wiki/Books)
 
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 
@@ -712,7 +719,7 @@ Another awesome book for learning Web Development in Golang.
 
 ### [Golangbot.com Articles](https://golangbot.com/)
 
-### [Tuxerrante repo on go exercises (⭐9)](https://github.com/tuxerrante/go_exercises)
+### [Tuxerrante repo on go exercises (⭐10)](https://github.com/tuxerrante/go_exercises)
 
 # Contributing
 

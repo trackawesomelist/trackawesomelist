@@ -8,12 +8,12 @@
 
 ## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Native Apps (open source)
+### Native Apps (open source) / Rust
 
 *   [OpenTripPlanner Android (⭐129)](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - An Android app for [OpenTripPlanner](http://www.opentripplanner.org/)
 *   [OpenTripPlanner iOS (⭐68)](https://github.com/opentripplanner/OpenTripPlanner-iOS) - An iOS app for [OpenTripPlanner](http://www.opentripplanner.org/)
 
-### Native Apps (closed source)
+### Native Apps (closed source) / Rust
 
 *   [Moovit](http://moovitapp.com/)
 

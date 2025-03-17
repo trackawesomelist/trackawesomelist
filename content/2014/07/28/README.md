@@ -26,7 +26,7 @@
 
 ### Packages / Compression
 
-*   [tar-stream (⭐416)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐351)](https://github.com/mafintosh/tar-fs).
+*   [tar-stream (⭐420)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐354)](https://github.com/mafintosh/tar-fs).
 
 ## [4. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 

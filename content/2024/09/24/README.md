@@ -28,17 +28,17 @@
 
 ### Logging
 
-*   [BqLog (⭐273)](https://github.com/Tencent/BqLog) -  A lightweight, high-performance logging system used in projects such as "Honor of Kings". \[Apache-2.0]
+*   [BqLog (⭐289)](https://github.com/Tencent/BqLog) -  A lightweight, high-performance logging system used in projects such as "Honor of Kings". \[Apache-2.0]
 
 ### Reflection
 
-*   [REFLECT (⭐356)](https://github.com/qlibs/reflect) - C++20 Static Reflection library. \[MIT]
+*   [REFLECT (⭐365)](https://github.com/qlibs/reflect) - C++20 Static Reflection library. \[MIT]
 
 ## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Maps
 
-*   [go-shelve (⭐8)](https://github.com/lucmq/go-shelve) - A persistent, map-like object for the Go programming language. Supports multiple embedded key-value stores.
+*   [go-shelve (⭐9)](https://github.com/lucmq/go-shelve) - A persistent, map-like object for the Go programming language. Supports multiple embedded key-value stores.
 
 ### Science and Data Analysis
 

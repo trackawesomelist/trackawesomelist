@@ -23,7 +23,6 @@
 
 ### Online Compiler
 
-*   [codepad](http://codepad.org/) - An online compiler/interpreter, and a simple collaboration tool.
 *   [Ideone](http://ideone.com/) - An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 
 ### Debugger
@@ -82,7 +81,7 @@
 
 ### Packages / Math
 
-*   [mathjs (⭐14k)](https://github.com/josdejong/mathjs) - An extensive math library.
+*   [mathjs (⭐15k)](https://github.com/josdejong/mathjs) - An extensive math library.
 
 ---
 

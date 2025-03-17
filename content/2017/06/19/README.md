@@ -16,7 +16,7 @@
 
 ### Key-value Data Model
 
-*   [BTDB (⭐126)](https://github.com/Bobris/BTDB) - Key Value Database in .Net with Object DB Layer, RPC, dynamic IL and much more
+*   [BTDB (⭐139)](https://github.com/Bobris/BTDB) - Key Value Database in .Net with Object DB Layer, RPC, dynamic IL and much more
 
 ## [3. Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Date
 
-*   [Datify (⭐43)](https://github.com/hemangshah/Datify) - Easypeasy date functions.
+*   [Datify (⭐44)](https://github.com/hemangshah/Datify) - Easypeasy date functions.
 
 ### Auto Layout / Barcode
 
@@ -48,7 +48,7 @@
 
 ### Calendar / Barcode
 
-*   [Workaholic (⭐121)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
+*   [Workaholic (⭐122)](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
 
 ## [5. Awesome Uncopyright](/content/johnjago/awesome-uncopyright/README.md)
 

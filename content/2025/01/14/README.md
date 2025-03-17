@@ -10,7 +10,7 @@
 
 ### Bars and Lines / Diagnostics
 
-*   [mawkler/hml.nvim (⭐20)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
+*   [mawkler/hml.nvim (⭐21)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
 
 ## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 

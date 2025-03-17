@@ -8,7 +8,7 @@
 
 ## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Sample GTFS and GTFS Realtime datasets used for software testing
+### Sample GTFS and GTFS Realtime datasets used for software testing / Rust
 
 *   [Transitland GTFS and GTFS Realtime unit tests (⭐36)](https://github.com/interline-io/transitland-lib) - For testing the [transitland-lib (⭐36)](https://github.com/interline-io/transitland-lib) library that handles GTFS and GTFS Realtime parsing and validation for Transitland:
     *   [GTFS - "bad entities" at the single row level (⭐36)](https://github.com/interline-io/transitland-lib/tree/master/test/data/bad-entities)
@@ -49,7 +49,7 @@
 
 ### Projects
 
-*   [USB Proxy (⭐160)](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
+*   [USB Proxy (⭐180)](https://github.com/AristoChen/usb-proxy) - A USB man-in-the-middle project that allow users to monitor and modify USB packets flow between host and device.
 
 ## [7. Awesome Go](/content/avelino/awesome-go/README.md)
 

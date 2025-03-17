@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 01, 2018
 
-20 awesome lists updated today.
+21 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,7 +18,13 @@
 
 *   [SysmonSearch (⭐408)](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
 
-## [3. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Lua / PicoLisp
+
+*   [Lua 5.3 Reference Manual](http://www.lua.org/manual/5.3/)
+
+## [4. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/README.md)
 
 ### Podcasts / Misc
 
@@ -28,7 +34,7 @@
 
 *   [Mara Averick](https://twitter.com/dataandme)
 
-## [4. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
+## [5. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
 ### Popular Packages / Media & Document Management
 
@@ -38,7 +44,7 @@
 
 *   [CodePier](https://codepier.io?ref=awesome-laravel)
 
-## [5. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [6. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Libraries
 
@@ -49,7 +55,7 @@
 
 *   [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637.pdf)
 
-## [6. Awesome](/content/craftcms/awesome/README.md)
+## [7. Awesome](/content/craftcms/awesome/README.md)
 
 ### Presentations / Tutorials
 
@@ -78,13 +84,13 @@
 *   [Nissin Foods](http://nissinfoods.com/)
 *   [Reddit Inc.](https://www.redditinc.com/)
 
-## [7. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [8. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Algebraic Data Types
 
 *   [MojiScript (⭐149)](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
 
-## [8. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
+## [9. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 
 ### Asia / India 🇮🇳
 
@@ -554,19 +560,19 @@ Topics: Developer Tools\
 Topics: ReasonML, React, Software Philosophy\
 <https://twitter.com/_chenglou>
 
-## [9. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
+## [10. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
 ### Testing
 
 *   [kaocha (⭐778)](https://github.com/lambdaisland/kaocha)
 
-## [10. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+## [11. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Videos / IRC
 
 *   [Wonderful World of Composer](https://symfonycasts.com/screencast/composer)
 
-## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [12. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Emulator Development / Misc
 
@@ -576,47 +582,47 @@ Topics: ReasonML, React, Software Philosophy\
 
 *   [mGBA (⭐5.8k)](https://github.com/mgba-emu/mgba) - Modern cross platform GBA emulator which also runs GB/GBC games.
 
-## [12. Awesome List](/content/sindresorhus/awesome/README.md)
+## [13. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Miscellaneous
 
-*   [Speakers (⭐761)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
+*   [Speakers (⭐760)](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
 
-## [13. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
+## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### Graph Data Model
 
-*   [Microsoft Graph Engine (⭐2.1k)](https://github.com/Microsoft/GraphEngine) - a distributed in-memory data processing engine, underpinned by a strongly-typed in-memory key-value store and a general distributed computation engine.
+*   [Microsoft Graph Engine (⭐2.2k)](https://github.com/Microsoft/GraphEngine) - a distributed in-memory data processing engine, underpinned by a strongly-typed in-memory key-value store and a general distributed computation engine.
 
 ### Data Ingestion
 
 *   [Amazon Web Services Glue](https://aws.amazon.com/glue/) -  serverless fully managed extract, transform, and load (ETL) service
 
-## [14. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / TypeScript
 
 *   [Typescript Interview Questions](https://www.onlineinterviewquestions.com/typescript-interview-questions)
 
-## [15. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [16. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Awesome lists / Event listeners for fonts loading on a web page
 
 *   [Awesome Typography (⭐1.4k)](https://github.com/Jolg42/awesome-typography)
 
-## [16. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
+## [17. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md)
 
 ### Articles
 
 *   [Next.js 7](https://nextjs.org/blog/next-7)
 
-## [17. Amas](/content/sindresorhus/amas/README.md)
+## [18. Amas](/content/sindresorhus/amas/README.md)
 
 ### Ask these people anything!
 
 *   [Omar Bahareth (⭐4)](https://github.com/obahareth/ama) - Head of Software Engineering at Tam, mentor, full-stack developer, currently heavily into Ruby and Elixir, and slowly getting into Go and Rust. Located in Saudi Arabia.
 
-## [18. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
+## [19. Awesome H2o](/content/h2oai/awesome-h2o/README.md)
 
 ### Courses
 
@@ -625,13 +631,13 @@ Topics: ReasonML, React, Software Philosophy\
 *   [University of Cape Town: Analytics Module](http://www.stats.uct.ac.za/stats/study/postgrad/honours) - Postgraduate Honors Program in Statistical Sciences.
 *   [Coursera: How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science) - Advanced Machine Learning Specialization.
 
-## [19. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
+## [20. Awesome Cmake](/content/onqtam/awesome-cmake/README.md)
 
 ### Other
 
 *   [cmake\_check (⭐20)](https://github.com/DaelDe/cmake_check) - Static analysis (linter) for the CMake language (e.g. to enforce modern CMake rules). [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [20. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
+## [21. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 
 ### Open Source Repos / Miscellaneous Repos
 

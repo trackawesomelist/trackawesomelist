@@ -42,7 +42,7 @@
 
 ### Libraries / Virtualization
 
-*   [saurvs/hypervisor-rs (⭐64)](https://github.com/saurvs/hypervisor-rs) - Hardware-accelerated virtualization on OS X
+*   [saurvs/hypervisor-rs (⭐65)](https://github.com/saurvs/hypervisor-rs) - Hardware-accelerated virtualization on OS X
 
 ## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -54,7 +54,7 @@
 
 ### Bundlers
 
-*   [Rollup (⭐25k)](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
+*   [Rollup (⭐26k)](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
 
 ## [8. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 

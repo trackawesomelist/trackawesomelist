@@ -104,7 +104,7 @@
 
 ### Range Sliders / Runner
 
-*   [Ion.RangeSlider (⭐2.5k)](https://github.com/IonDen/ion.rangeSlider) - Powerful and easily customizable range slider with many options and skin support.
+*   [Ion.RangeSlider (⭐2.6k)](https://github.com/IonDen/ion.rangeSlider) - Powerful and easily customizable range slider with many options and skin support.
 *   [noUiSlider (⭐5.7k)](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
 
 ---

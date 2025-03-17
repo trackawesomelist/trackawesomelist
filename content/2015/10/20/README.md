@@ -62,7 +62,7 @@
 
 ### UI / Barcode
 
-*   [FlagKit (⭐3k)](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
+*   [FlagKit (⭐3.1k)](https://github.com/madebybowtie/FlagKit) - Beautiful flag icons for usage in apps and on the web.
 
 ## [10. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 

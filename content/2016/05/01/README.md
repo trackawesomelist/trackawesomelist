@@ -10,7 +10,7 @@
 
 ### Frameworks
 
-*   [EASTL (⭐8.4k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
+*   [EASTL (⭐8.5k)](https://github.com/electronicarts/EASTL) - Electronic Arts Standard Template Library. \[BSD]
 
 ## [2. Awesome Book Authoring](/content/TalAter/awesome-book-authoring/README.md)
 
@@ -81,7 +81,7 @@
 
 ### Reading
 
-*   [Elixir Functional Programming (⭐363)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
+*   [Elixir Functional Programming (⭐362)](https://github.com/kblake/functional-programming) - Material to introduce functional programming using the Elixir language.
 
 ---
 

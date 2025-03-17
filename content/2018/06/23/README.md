@@ -23,7 +23,7 @@
 
 ### Test-Driven Development
 
-*   [Why You Don't Get Mock Objects](https://www.youtube.com/watch?v=R9FOchgTtLM) by **Gregory Moeck** \[44:42]
+*   [Why You Don't Get Mock Objects](https://www.youtube.com/watch?v=R9FOchgTtLM) by **Gregory Moeck** (RubyConf 2011) \[44:42]
 
 ## [4. Awesome Draft Js](/content/nikgraf/awesome-draft-js/README.md)
 

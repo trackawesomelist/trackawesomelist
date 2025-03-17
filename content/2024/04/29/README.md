@@ -28,7 +28,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [vue-fluid-dnd (⭐269)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
+*   [vue-fluid-dnd (⭐280)](https://github.com/carlosjorger/vue-fluid-dnd) - A Vue 3 drag and drop, sortable, dependency-free library with cool animations, a easy to use api using vue composables.
 
 ## [3. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
@@ -40,13 +40,13 @@
 
 ### Miscellaneous
 
-*   [happly (⭐333)](https://github.com/nmwsharp/happly) - A C++ header-only parser for the PLY file format. Parse .ply happily! \[MIT]
+*   [happly (⭐336)](https://github.com/nmwsharp/happly) - A C++ header-only parser for the PLY file format. Parse .ply happily! \[MIT]
 
 ## [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Mailing
 
-*   [django-pony-express (⭐63)](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
+*   [django-pony-express (⭐62)](https://github.com/ambient-innovation/django-pony-express) - Class-based emails including a test suite for Django.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

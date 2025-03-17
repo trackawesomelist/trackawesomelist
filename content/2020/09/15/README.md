@@ -48,7 +48,7 @@
 
 ### Database
 
-*   [UnQLite (⭐2.1k)](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. \[BSD-2-Clause] [website](https://unqlite.org/)
+*   [UnQLite (⭐2.2k)](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. \[BSD-2-Clause] [website](https://unqlite.org/)
 
 ## [7. Awesome Waves](/content/msmolyakov/awesome-waves/README.md)
 

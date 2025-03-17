@@ -16,19 +16,19 @@
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome Marketing (⭐83)](https://github.com/marketingtoolslist/awesome-marketing)
+*   [Awesome Marketing (⭐104)](https://github.com/marketingtoolslist/awesome-marketing)
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Logging
 
-*   [donnie4w/tklog (⭐99)](https://github.com/donnie4w/tklog "donnie4w/tklog") - lightweight and efficient rust structured log library with support for log levels, file segmentation, compressed archiving.
+*   [donnie4w/tklog (⭐103)](https://github.com/donnie4w/tklog "donnie4w/tklog") - lightweight and efficient rust structured log library with support for log levels, file segmentation, compressed archiving.
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Providers / Community providers
 
-*   [terraform-provider-proxmox (⭐2.3k)](https://github.com/Telmate/terraform-provider-proxmox) - Terraform Proxmox provider.
+*   [terraform-provider-proxmox (⭐2.4k)](https://github.com/Telmate/terraform-provider-proxmox) - Terraform Proxmox provider.
 
 ## [5. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
 
@@ -354,13 +354,13 @@
 
 ### Libraries/Packages/Scripts / R
 
-*   [neo-r-polars (⭐31)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
+*   [neo-r-polars (⭐37)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
 
 ## [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Domain Specific Language / Design Automation
 
-*   [AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints](https://aclanthology.org/2024.acl-long.659/) - ***ACL'24***, 2024. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Preprint](https://arxiv.org/abs/2406.12324)]. \[[Project](https://autodsl.org/procedure/papers/acl24shi.html)]. The original paper on the automated design of DSLs, referred to as AutoDSL. Accurate representation of procedures in restricted scenarios, such as non-standardized scientific experiments, requires precise depiction of constraints. Unfortunately, Domain-Specific Language (DSL), as an effective tool to express constraints structurally, often requires case-by-case hand-crafting, necessitating customized, labor-intensive efforts. To overcome this challenge, this paper introduces the AutoDSL framework to automate DSL-based constraint design across various domains. Utilizing domain specified experimental protocol corpora, AutoDSL optimizes syntactic constraints and abstracts semantic constraints. Quantitative and qualitative analyses of the DSLs designed by AutoDSL across five distinct domains highlight its potential as an auxiliary module for language models, aiming to improve procedural planning and execution.
+*   [AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints](https://aclanthology.org/2024.acl-long.659/) - ***ACL'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=588082932830954126)]. \[[Preprint](https://arxiv.org/abs/2406.12324)]. \[[Project](https://autodsl.org/procedure/papers/acl24shi.html)]. The original paper on the automated design of DSLs, referred to as AutoDSL. Accurate representation of procedures in restricted scenarios, such as non-standardized scientific experiments, requires precise depiction of constraints. Unfortunately, Domain-Specific Language (DSL), as an effective tool to express constraints structurally, often requires case-by-case hand-crafting, necessitating customized, labor-intensive efforts. To overcome this challenge, this paper introduces the AutoDSL framework to automate DSL-based constraint design across various domains. Utilizing domain specified experimental protocol corpora, AutoDSL optimizes syntactic constraints and abstracts semantic constraints. Quantitative and qualitative analyses of the DSLs designed by AutoDSL across five distinct domains highlight its potential as an auxiliary module for language models, aiming to improve procedural planning and execution.
 
 ## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 
@@ -376,7 +376,7 @@
 
 ### Utility / Diagnostics
 
-*   [ptdewey/pendulum-nvim (⭐71)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
+*   [ptdewey/pendulum-nvim (⭐73)](https://github.com/ptdewey/pendulum-nvim) - Track time spent coding and glean insights through on-demand time reports.
 
 ## [10. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
@@ -393,13 +393,13 @@
 ### Standard CLI
 
 *   [mkideal/cli (⭐732)](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
-*   [teris-io/cli (⭐130)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
+*   [teris-io/cli (⭐131)](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
 
 ## [12. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Full-stack frameworks
 
-*   [Django-Bridge (⭐154)](https://github.com/django-bridge/django-bridge) - The simple way to build React frontends for Django applications.
+*   [Django-Bridge (⭐176)](https://github.com/django-bridge/django-bridge) - The simple way to build React frontends for Django applications.
 
 ## [13. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
@@ -409,16 +409,16 @@
 
 ### Projects / API Documentation
 
-*   [Slate (⭐36k) (⭐36k)](https://github.com/slatedocs/slate) - A powerful tool that creates static API documentation from markdown, with API reference docs and code samples.
+*   [Slate (⭐36k) (⭐36k)](https://github.com/slatedocs/slate) - Converts markdown into stylish, static API documentation with intuitive navigation and clear code examples.
 
 ### Projects / BRE
 
-*   [NxBRE (⭐131) (⭐131)](https://github.com/ddossot/NxBRE) - Open-source rule engine specifically designed for the .NET platform.
+*   [NxBRE (⭐131) (⭐131)](https://github.com/ddossot/NxBRE) - Specialized .NET open-source rule engine offering efficient rule processing tailored for Microsoft environments.
 
 ### Projects / Messaging
 
-*   [Apache RocketMQ (⭐21k) (⭐21k)](https://github.com/apache/rocketmq) - A fast and reliable distributed messaging platform designed for high volume and low latency messaging scenarios. Offers efficient message storage and retrieval and supports various messaging patterns.
-*   [RabbitMQ (⭐12k) (⭐12k)](https://github.com/rabbitmq/rabbitmq-server) - An open-source message broker that implements AMQP and supports multiple messaging protocols and patterns. Offers reliable and efficient message delivery and supports clustering and high availability.
+*   [Apache RocketMQ (⭐21k) (⭐22k)](https://github.com/apache/rocketmq) - High-performance distributed messaging platform engineered for low latency and high throughput.
+*   [RabbitMQ (⭐12k) (⭐13k)](https://github.com/rabbitmq/rabbitmq-server) - Popular open-source broker implementing AMQP, known for reliability, clustering, and ease-of-use.
 
 ## [14. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 

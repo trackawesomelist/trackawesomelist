@@ -16,7 +16,7 @@
 
 ### Dataset / Web
 
-*   [The Quick, Draw! Dataset (⭐6.2k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
+*   [The Quick, Draw! Dataset (⭐6.3k)](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
 
 ## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -135,7 +135,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐9.6k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
+*   [Homer (⭐9.8k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
 
 ## [15. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/week/README.md)
 
@@ -204,7 +204,6 @@
 ### Standards / CSV <-> JSON
 
 *   [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - A [Data Resource](http://frictionlessdata.io/specs/data-resource/) specialized for describing tabular data like CSV files or spreadsheets
-*   [CSVY](https://csvy.org/) - A standard for adding a YAML header to CSV files to describe their format
 
 ## [19. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
@@ -322,7 +321,7 @@
 
 ### Table of Contents / DSL
 
-*   [Apache Beam (⭐7.9k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
+*   [Apache Beam (⭐8k)](https://github.com/apache/beam) \[Java, Python, SQL, Scala, Go] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 
 ### Table of Contents / Closed Source
 
@@ -801,13 +800,13 @@
 
 ### Testing / Matchers
 
-*   [XMLUnit (⭐299)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
+*   [XMLUnit (⭐304)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
 ## [51. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### API Gateway / Symfony2
 
-*   [KrakenD (⭐6.4k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐6.5k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 
 ## [52. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
@@ -827,7 +826,7 @@
 
 ### E-Books / Others
 
-*   [Archives (⭐8.9k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐8.9k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐9k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐9k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ### Courses / Others
 
@@ -862,13 +861,13 @@
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐8.4k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐8.5k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [58. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### NewSQL Databases
 
-*   [KarelDB (⭐383)](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
+*   [KarelDB (⭐390)](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
 
 ## [59. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
@@ -960,7 +959,7 @@
 
 ## [67. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Agency Tools
+### Agency Tools / General GIS Applications for making transit visualizations
 
 *   [TBEST](https://tbest.org/) - TBEST (Transit Boardings Estimation and Simulation Tool) is an effort to develop a multi-faceted GIS-based modeling, planning and analysis tool which integrates socio-economic, land use, and transit network data into a platform for scenario-based transit ridership estimation and analysis. Funded by the Florida Department of Transportation. Free to use but not open-source.
 
@@ -972,7 +971,7 @@
 
 ### Tools
 
-*   [Orangetool (⭐107)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
+*   [Orangetool (⭐109)](https://github.com/Moduland/Orangetool) - Control functions for Single-Board computers in Python.
 
 ### Projects
 
@@ -1072,7 +1071,7 @@
 
 ## [71. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
-### Reading and Writing Tools / Markdown Tools
+### Reading and Writing Tools / Markdown Tools [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
 *   [MWeb](http://www.mweb.im/) - Pro Markdown writing, and static blog generator App.
 

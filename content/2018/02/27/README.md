@@ -10,7 +10,7 @@
 
 ### Other / Event listeners for fonts loading on a web page
 
-*   [TruFont (⭐485)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
+*   [TruFont (⭐492)](https://github.com/trufont/trufont) - a streamlined and hackable font editor
 
 ## [2. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 

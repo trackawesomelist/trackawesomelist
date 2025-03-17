@@ -22,8 +22,8 @@
 
 ### Contents / Tools
 
-*   [p8dl - Carts Downloader - Python (⭐9)](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt).
-*   [Pico-8 Carts Downloader - Bash  (⭐17)](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
+*   [p8dl - Carts Downloader - Python (⭐11)](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (looks at your config.txt).
+*   [Pico-8 Carts Downloader - Bash  (⭐20)](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -35,7 +35,7 @@
 
 ### Cryptography
 
-*   [OpenSSL (⭐26k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
+*   [OpenSSL (⭐27k)](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. \[Apache] [website](http://www.openssl.org/)
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

@@ -38,12 +38,12 @@
 
 ### Distributed Filesystem
 
-*   [Ambry (⭐1.6k)](https://github.com/linkedin/ambry) - a distributed object store that supports storage of trillion of small immutable objects as well as billions of large objects.
+*   [Ambry (⭐1.7k)](https://github.com/linkedin/ambry) - a distributed object store that supports storage of trillion of small immutable objects as well as billions of large objects.
 
 ### Key-value Data Model
 
 *   [Bolt (⭐14k)](https://github.com/boltdb/bolt) - an embedded key-value database for Go.
-*   [BuntDB (⭐4.1k)](https://github.com/tidwall/buntdb) - a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
+*   [BuntDB (⭐4.6k)](https://github.com/tidwall/buntdb) - a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
 *   [HyperDex (⭐1.4k)](https://github.com/rescrv/HyperDex) - a scalable, next generation key-value and document store with a wide array of features, including consistency, fault tolerance and high performance.
 
 ### Columnar Databases
@@ -53,8 +53,8 @@
 
 ### Applications
 
-*   [ElastAert (⭐7.9k)](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in ElasticSearch.
-*   [Kapacitor (⭐2.2k)](https://github.com/influxdata/kapacitor) - an open source framework for processing, monitoring, and alerting on time series data.
+*   [ElastAert (⭐8k)](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in ElasticSearch.
+*   [Kapacitor (⭐2.3k)](https://github.com/influxdata/kapacitor) - an open source framework for processing, monitoring, and alerting on time series data.
 
 ## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
@@ -64,8 +64,8 @@
 
 ### UI / Barcode
 
-*   [CustomSegue (⭐122)](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
-*   [URLEmbeddedView (⭐650)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
+*   [CustomSegue (⭐121)](https://github.com/phimage/CustomSegue) - Custom segue for OSX Storyboards with slide and cross fade effects.
+*   [URLEmbeddedView (⭐648)](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 
 ## [7. Colorful](/content/Siddharth11/Colorful/README.md)
 

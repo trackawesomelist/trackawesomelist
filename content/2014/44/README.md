@@ -43,15 +43,15 @@
 
 ### QA Tools / Runner
 
-*   [ESLint (⭐25k)](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
+*   [ESLint (⭐26k)](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 
 ### Validation / Runner
 
-*   [validatr (⭐278)](https://github.com/jaymorrow/validatr/) - Cross Browser HTML5 Form Validation.
+*   [validatr (⭐279)](https://github.com/jaymorrow/validatr/) - Cross Browser HTML5 Form Validation.
 
 ### Misc / Other
 
-*   [peterkokot/awesome-dojo (⭐84)](https://github.com/peterkokot/awesome-dojo)
+*   [peterkokot/awesome-dojo (⭐90)](https://github.com/peterkokot/awesome-dojo)
 
 ## [6. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
@@ -83,11 +83,11 @@
 
 ### Data Visualization
 
-*   [Ruby/GraphViz (⭐610)](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
+*   [Ruby/GraphViz (⭐615)](https://github.com/glejeune/Ruby-Graphviz) - Ruby interface to the GraphViz graphing tool.
 
 ### Database Drivers
 
-*   [SQLite3 (⭐781)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
+*   [SQLite3 (⭐795)](https://github.com/sparklemotion/sqlite3-ruby) - Ruby bindings for the SQLite3 embedded database.
 
 ### Date and Time Processing
 
@@ -99,40 +99,40 @@
 
 ### ORM/ODM
 
-*   [ActiveRecord (⭐56k)](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
+*   [ActiveRecord (⭐57k)](https://github.com/rails/rails/tree/master/activerecord) - Object-relational mapping in Rails.
 
 ### Scientific
 
 *   Numerical arrays
-    *   [NMatrix (⭐470)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
-    *   [Numo::NArray (⭐418)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
+    *   [NMatrix (⭐472)](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
+    *   [Numo::NArray (⭐421)](https://github.com/ruby-numo/numo-narray) - N-dimensional Numerical Array for Ruby.
     *   [mdarray (⭐36)](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
-*   [SciRuby (⭐996)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
-    *   [IRuby (⭐902)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
-    *   [statsample (⭐95)](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
+*   [SciRuby (⭐1k)](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
+    *   [IRuby (⭐910)](https://github.com/SciRuby/iruby) - A Ruby kernel for Jupyter.
+    *   [statsample (⭐98)](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
     *   [statsample-timeseries (⭐13)](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
     *   [statsample-glm (⭐23)](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample.
     *   [distribution (⭐50)](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
     *   [minimization (⭐16)](https://github.com/sciruby/minimization) - Minimization algorithms on pure Ruby.
 *   Specific
-    *   [BioRuby (⭐378)](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software.
-    *   [bloomfilter-rb (⭐473)](https://github.com/igrigorik/bloomfilter-rb) - BloomFilter(s) in Ruby: Native counting filter + Redis counting/non-counting filters.
+    *   [BioRuby (⭐379)](https://github.com/bioruby/bioruby) - Library for developing bioinformatics software.
+    *   [bloomfilter-rb (⭐474)](https://github.com/igrigorik/bloomfilter-rb) - BloomFilter(s) in Ruby: Native counting filter + Redis counting/non-counting filters.
     *   [decisiontree (⭐1.4k)](https://github.com/igrigorik/decisiontree) - A ruby library which implements ID3 (information gain) algorithm for decision tree learning.
 
 ### Video
 
-*   [Streamio FFMPEG (⭐1.6k)](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful wrapper around the ffmpeg command for reading metadata and transcoding movies.
+*   [Streamio FFMPEG (⭐1.7k)](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful wrapper around the ffmpeg command for reading metadata and transcoding movies.
 
 ## [9. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
 
 ### Software Development
 
 *   [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4\&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** (Strange Loop 2014) \[45:49]
-*   [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** (Clojure/Conf 2013) \[52:43]
+*   [To the Moon!](https://www.youtube.com/watch?v=4Sso4HtvJsw) by **Russ Olsen** (Clojure/Conj 2013) \[52:43]
 
 ### Methodologies
 
-*   [Spotify Engineering Culture - Part 2](http://vimeo.com/94950270) by **Spotify Training & Development** \[13:27]
+*   [Spotify Engineering Culture - Part 2](http://vimeo.com/94950270) by **Spotify Training & Development** (Spotify 2014) \[13:27]
 
 ## [10. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
 

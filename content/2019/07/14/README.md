@@ -10,9 +10,9 @@
 
 ### Applications
 
-*   [croc (⭐27k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
+*   [croc (⭐29k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
 *   [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
-*   [twtxt (⭐43)](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
+*   [twtxt (⭐45)](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
 
 ## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Data Visualization / Graph Based approach
 
-*   Graph Classification [awesome-graph-classification (⭐4.6k)](https://github.com/benedekrozemberczki/awesome-graph-classification).
+*   Graph Classification [awesome-graph-classification (⭐4.8k)](https://github.com/benedekrozemberczki/awesome-graph-classification).
 
 ## [4. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 

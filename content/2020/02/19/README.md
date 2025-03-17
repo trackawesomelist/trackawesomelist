@@ -118,6 +118,7 @@
 ### Monitoring / Isomorphic web frameworks
 
 *   [cl-sentry-client (⭐24)](https://github.com/mmontone/cl-sentry-client) - a Sentry client for Common Lisp, the cloud-based error monitoring system. [MIT](https://opensource.org/licenses/MIT).
+    *   based on dexador for HTTP communication and swank for stack traces. It also features an async HTTP client via the simple-tasks library.
 
 ## [11. Awesome Katas](/content/gamontal/awesome-katas/README.md)
 

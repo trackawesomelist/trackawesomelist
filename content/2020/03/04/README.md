@@ -10,7 +10,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [DataFormsJS (⭐191)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐192)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 
 ## [2. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
 
@@ -53,7 +53,7 @@
 
 ### Functional Programming
 
-*   [Solving Problems The Clojure Way](https://www.youtube.com/watch?v=vK1DazRK_a0) by **Rafal Dittwald** \[01:02:25]
+*   [Solving Problems The Clojure Way](https://www.youtube.com/watch?v=vK1DazRK_a0) by **Rafal Dittwald** (Clojure/North 2019)  \[01:02:25]
 
 ## [8. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/README.md)
 
@@ -84,11 +84,11 @@
 
 ### Asynchronous Event Loop
 
-*   [libhv (⭐6.9k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
+*   [libhv (⭐7k)](https://github.com/ithewei/libhv) - Cross-platform event loop library. \[BSD]
 
 ### Logging
 
-*   [Quill (⭐1.9k)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
+*   [Quill (⭐2k)](https://github.com/odygrd/quill) - Asynchronous cross platform low latency logging library. \[MIT]
 
 ## [12. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

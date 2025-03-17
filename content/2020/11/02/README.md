@@ -280,7 +280,7 @@
 *   [OpenLinkProfiler](http://www.openlinkprofiler.org/) - Get an in-depth analysis of the freshest live backlinks.
 *   [Search Engine Spider Simulator](http://tools.seochat.com/tools/search-spider-simulator) - This tool simulates a search engine by displaying the contents of a web page in exactly the way the search engine bot would see it when it crawls the page: See most prominent or inaccessible page elements.
 *   [Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/) - The Screaming Frog SEO Spider is a small desktop program (PC or Mac) which crawls websites links, images, CSS, script and apps from an SEO perspective.
-*   [Linkbuilding Spider (⭐7)](https://github.com/fulldecent/linkbuilding-spider) - A PHP project to check if websites are linking to your website.
+*   [Linkbuilding Spider (⭐8)](https://github.com/fulldecent/linkbuilding-spider) - A PHP project to check if websites are linking to your website.
 
 ### Tools & Services / Structured Data
 
@@ -291,7 +291,7 @@
 
 ### Tools & Services / Bookmarklets
 
-*   [OuiSEO (⭐49)](https://github.com/carlsednaoui/seo-bookmarklet) - An open-source bookmarklet that shows you on-page SEO and social meta data information.
+*   [OuiSEO (⭐51)](https://github.com/carlsednaoui/seo-bookmarklet) - An open-source bookmarklet that shows you on-page SEO and social meta data information.
 *   [SEO Bookmarklet](https://twkm.ca/projects/seo-bookmarklet) - A One-Stop SEO Bookmarklet to Quickly Review On-Site SEO.
 
 ### Tools & Services / Browser Extensions
@@ -300,7 +300,7 @@
 
 ### Tools & Services / Jekyll Plugins
 
-*   [Jekyll SEO Tag (⭐1.6k)](https://github.com/jekyll/jekyll-seo-tag) - A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
+*   [Jekyll SEO Tag (⭐1.7k)](https://github.com/jekyll/jekyll-seo-tag) - A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
 
 ### Tools & Services / TYPO3 Extensions
 
@@ -398,7 +398,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [sktime (⭐8k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
+*   [sktime (⭐8.2k)](https://github.com/alan-turing-institute/sktime) - A unified framework for machine learning with time series
 
 ## [19. Awesome Silverstripe Cms](/content/wernerkrauss/awesome-silverstripe-cms/README.md)
 

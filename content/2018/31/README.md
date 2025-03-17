@@ -1,6 +1,6 @@
 # Awesome List Updates on Jul 30 - Aug 05, 2018
 
-64 awesome lists updated this week.
+65 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -197,8 +197,8 @@
 
 ### Softwares / Launchers
 
-*   [MultiMC (⭐4.2k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
-*   [HMCL (⭐6.7k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
+*   [MultiMC (⭐4.4k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
+*   [HMCL (⭐7.3k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 
 ## [13. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
@@ -304,11 +304,11 @@
 
 ## [20. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
-### Software / Make your life easier
+### Software / Test Management
 
-*   [TestLink (⭐1.4k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
+*   [TestLink (⭐1.4k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 
-### Books / Other
+### Books / Mind Mapping & Documentation
 
 *   [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
 *   [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7) - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!
@@ -345,7 +345,13 @@
 *   [inconvergent](http://buy.inconvergent.net)
 *   [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 
-## [24. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
+## [24. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Scratch / Play Scala
+
+*   [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html) (HTML)
+
+## [25. Awesome Vapor](/content/vapor-community/awesome-vapor/week/README.md)
 
 ### Libraries
 
@@ -353,19 +359,19 @@
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [MailCore (⭐80)](https://github.com/LiveUI/MailCore) – Sending e-mails via SMTP, MailGun and SendGrid.
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [XMLCoding (⭐8)](https://github.com/LiveUI/XMLCoding) – XML encoder and decoder.
 
-## [25. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
+## [26. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/week/README.md)
 
 ### Libraries / Utilities
 
 *   [shfrmn/cycle-lot (⭐2)](https://github.com/shfrmn/cycle-lot) - Handle dynamic lists of Cycle.js components with ease (full typesript support)
 
-## [26. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [27. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### Tools / [Gradle Tasks](https://marketplace.visualstudio.com/items?itemName=richardwillis.vscode-gradle)
 
 *   [Azure Tools for Visual Studio Code (⭐29)](https://github.com/bradygaster-zz/azure-tools-vscode) - This extension for Visual Studio Code gives Azure developers some convenient commands for creating or accessing resources directly in the editor.
 
-## [27. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
+## [28. Awesome Appium](/content/SrinivasanTarget/awesome-appium/week/README.md)
 
 ### Become an Appium Pro
 
@@ -375,13 +381,13 @@
 
 *   [Appium-Native-Crawler (⭐48)](https://github.com/isonic1/Appium-Native-Crawler) - Appium Native Crawler CLI - Features include: Screenshots, Performance, Accessibility Detection, Google Translate, Applitools, Monkey Tester.
 
-## [28. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [29. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Board support crates / Special Purpose
 
 *   [`betafpv-f3`](https://github.com/JoshMcguigan/betafpv-f3) - For the BetaFPV F3 drone flight controller
 
-## [29. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
+## [30. Awesome Cassandra](/content/Anant/awesome-cassandra/week/README.md)
 
 ### Cassandra Distributions / Cassandra Compliant Databases on C++
 
@@ -418,13 +424,13 @@
 *   [cqlmigrate (⭐45)](https://github.com/sky-uk/cqlmigrate) -  Cassandra CQL migration tool. cqlmigrate is a library for performing schema migrations on a cassandra cluster.
 *   [CassanddraRestfulAPI (⭐12)](https://github.com/rohitsakala/CassandraRestfulAPI) - CassandraRestfulAPI project exposes the cassandra data tables with the help of Restful API.
 
-## [30. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [31. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Video
 
 *   [Kodi](https://kodi.tv/) - Home Theater software and entertainment hub. ([GNU GPLv2 (⭐16k)](https://github.com/xbmc/xbmc/blob/master/README.md))
 
-## [31. Awesome](/content/craftcms/awesome/week/README.md)
+## [32. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Articles / Getting Started
 
@@ -435,7 +441,7 @@
 *   [How to check for undefined variables](https://cruftlesscraft.com/how-to-check-for-undefined-variables) by Ben Rogerson - `24 July 2018`
 *   [Passing data from Twig to JavaScript](https://cruftlesscraft.com/passing-data-from-twig-to-javascript) by Ben Rogerson - `1 Aug 2018`
 
-## [32. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [33. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Network Protocols
 
@@ -445,20 +451,20 @@
 
 *   [await\_async (⭐85)](https://github.com/anykeyh/await_async) - Add keywords await & async in Crystal Lang
 
-## [33. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
+## [34. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
 ### Related Lists
 
 *   [awesome-pcaptools (⭐3k)](https://github.com/caesar0301/awesome-pcaptools) - Useful in network traffic analysis.
 *   [awesome-malware-analysis (⭐11k)](https://github.com/rshipp/awesome-malware-analysis) - Some overlap here for artifact analysis.
 
-## [34. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
+## [35. PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/week/README.md)
 
 ### Websites
 
 *   Starter Story - <https://starterstory.com/>
 
-## [35. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [36. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Podcasts / Other Tools
 
@@ -469,13 +475,13 @@
 
 *   [lit-ntml (⭐83)](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 
-## [36. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [37. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Books
 
 *   [The Site Reliability Workbook: Practical Ways to Implement SRE](https://landing.google.com/sre/book.html)
 
-## [37. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
+## [38. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/week/README.md)
 
 ### Automation and Convention / Code libraries and bindings
 
@@ -518,7 +524,7 @@
 *   [NotRuler (⭐91)](https://github.com/sensepost/notruler) - Detect both client-side rules and VBScript enabled forms used by the [Ruler (⭐2.1k)](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
 *   [WMI Monitor (⭐122)](https://github.com/realparisi/WMI_Monitor) - Log newly created WMI consumers and processes to the Windows Application event log.
 
-## [38. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [39. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### GUI
 
@@ -536,7 +542,7 @@
 
 *   Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/mgramin/awesome-db-tools/blob/master/README.md/contributing.md) first.
 
-## [39. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+## [40. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### General Architecture
 
@@ -572,7 +578,7 @@
 *   [user Interface](http://ui-patterns.com) - User Interface Design patterns.
 *   [oocss-acss-bem-smacss](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use) - OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?
 
-## [40. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [41. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### Advanced
 
@@ -584,22 +590,18 @@
 
 ### UI / Material Design
 
-*   [Slidable (⭐2.7k)](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
+*   [Slidable (⭐2.8k)](https://github.com/letsar/flutter_slidable) <!--stargazers:letsar/flutter_slidable--> - Slidable list item with left and right slide actions by [Romain Rastel](https://github.com/letsar)
 
 ### Device / Augmented Reality
 
 *   [WebView (⭐1.5k)](https://github.com/dart-flitter/flutter_webview_plugin) <!--stargazers:dart-flitter/flutter_webview_plugin--> - Render web content by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 
-## [41. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [42. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
 *   [jumper (⭐12)](https://github.com/whitfin/jumper) - Jump consistent hash implementation in Elixir (without NIFs).
-*   [matrex (⭐481)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
-
-### Chatting
-
-*   [hipchat\_elixir (⭐5)](https://github.com/ymtszw/hipchat_elixir) - HipChat client library for Elixir, based on httpc.
+*   [matrex (⭐482)](https://github.com/versilov/matrex) - A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.
 
 ### Files and Directories
 
@@ -624,13 +626,13 @@
 
 ### Translations and Internationalizations
 
-*   [gettext (⭐478)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
+*   [gettext (⭐479)](https://github.com/elixir-lang/gettext) - Internationalization and localization support for Elixir.
 
 ### Validations
 
 *   [is (⭐20)](https://github.com/bydooweedoo/is) - Fast, extensible and easy to use data structure validation for elixir with nested structures support.
 
-## [42. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [43. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### Howtos
 
@@ -651,7 +653,7 @@
 *   [React Native In Action](https://www.manning.com/books/react-native-in-action) - Learn how to build applications using React Native from the ground up.
 *   [React Native - Building Mobile Apps with JavaScript](https://www.packtpub.com/application-development/react-native-building-mobile-apps-javascript) - Your go-to guide to creating truly native iOS and Android mobile applications using React and JavaScript.
 
-## [43. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [44. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
@@ -659,14 +661,14 @@
 
 ### Video / Barcode
 
-*   [Cabbage (⭐1.5k)](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation.
+*   [Cabbage (⭐1.6k)](https://github.com/VideoFlint/Cabbage) - A video composition framework build on top of AVFoundation.
 
-## [44. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [45. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Apps
 
 *   [Hardbin (⭐253)](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
-*   [InterPlanetary Wayback (⭐618)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
+*   [InterPlanetary Wayback (⭐619)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 *   [Interplanetary Wiki (⭐101)](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 *   [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
 *   [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
@@ -679,13 +681,13 @@
 *   [http2ipfs (⭐44)](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
 *   [ipfs-add-from-encrypted (⭐53)](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS.
 *   [ipfs-companion (⭐2.1k)](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
-*   [ipfs-mount (⭐147)](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows.
+*   [ipfs-mount (⭐148)](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows.
 *   [ipfs-paste (⭐32)](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS.
 *   [ipfs-screencap (⭐49)](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
-*   [ipget (⭐400)](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
+*   [ipget (⭐402)](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
 *   [IPRedirect (⭐8)](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn't had an extension written for it yet and has support for userscripts.
 
-## [45. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [46. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
@@ -704,20 +706,20 @@
 
 *   [CakeMail.RestClient (⭐9)](https://github.com/Jericho/CakeMail.RestClient) - Client for CakeMail's API. Allows you to send transactional emails, bulk emails, manage lists and contacts, etc.
 
-## [46. Guides](/content/NARKOZ/guides/week/README.md)
+## [47. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / Machine Learning
 
 *   [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 
-## [47. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
+## [48. Awesome Diversity](/content/folkswhocode/awesome-diversity/week/README.md)
 
 ### Posts
 
 *   [On Toxic Jobs, Low Self-Esteem, & Interviewing](https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a) - By Rachel Thomas.
 *   [Recruiting For Privilege](https://techburst.io/recruiting-for-privilege-5f019741fac3) - By Tobbe Gyllebring.
 
-## [48. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
+## [49. Vertx Awesome](/content/vert-x3/vertx-awesome/week/README.md)
 
 ### Microservices
 
@@ -727,7 +729,7 @@
 
 *   [Nannoq-Tools](https://noriginmedia.github.io/nannoq-tools/) - Nannoq-Tools is a toolkit for constructing robust, scalable and distributed applications leveraging Vert.x including modules for authentication, cluster management, Firebase Cloud Messaging, DynamoDB, fully generic queries, REST, and more.
 
-## [49. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
+## [50. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
 
 ### Mobile
 
@@ -737,13 +739,13 @@
 
 *   [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
 
-## [50. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
+## [51. Awesome Ant Design](/content/websemantics/awesome-ant-design/week/README.md)
 
 ### Boilerplates / Themes
 
 *   [Typescript React With Mobx Starter (⭐362)](https://github.com/YDJ-FE/ts-react-webpack) - a starter-template with typescript, react, mobx, antd and webpack).
 
-## [51. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [52. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -774,7 +776,7 @@
 
 *   [Catel](https://www.catelproject.com/) - Catel is an application development platform with the focus on MVVM (WPF, Silverlight, Windows Phone and WinRT) and MVC (ASP.NET MVC). The core of Catel contains an IoC container, models, validation, memento, message mediator, argument checking, etc.
 
-## [52. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [53. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / F companies
 
@@ -789,13 +791,13 @@
 
 *   Timescale <https://blog.timescale.com/>
 
-## [53. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
+## [54. Awesome Dash](/content/ucg8j/awesome-dash/week/README.md)
 
 ### Contributors
 
 *   [Sergey Pikhovkin](https://github.com/pikhovkin)
 
-## [54. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
+## [55. Awesome Appsec](/content/paragonie/awesome-appsec/week/README.md)
 
 ### Websites
 
@@ -819,7 +821,7 @@ Learn about security and performance.
 
 Blog of cryptographic company that makes open-source libraries and tools, and describes practical data security approaches for applications and infrastructures.
 
-## [55. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
+## [56. Awesome Quantum Computing](/content/desireevl/awesome-quantum-computing/week/README.md)
 
 ### Learning
 
@@ -829,7 +831,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 *   [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
 
-## [56. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [57. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Courses / Build system (ROS2)
 
@@ -853,7 +855,7 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 *   Node.js Client & Web Bridge Ready for ROS 2.0
 *   RCLAda: the Ada client library for ROS2
 
-## [57. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [58. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Concurrency
 
@@ -863,13 +865,13 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 
 *   [Geometric Tools](https://www.geometrictools.com) - C++ library for computing in the fields of mathematics, graphics, image analysis and physics. \[Boost] [website](https://www.geometrictools.com)
 
-## [58. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [59. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Other Awesome Lists / Other Security Awesome Lists
 
 *   [Awesome Crypto Papers (⭐1.7k)](https://github.com/pFarb/awesome-crypto-papers) - A curated list of cryptography papers, articles, tutorials and howtos.
 
-## [59. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [60. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### CSP
 
@@ -881,31 +883,31 @@ Blog of cryptographic company that makes open-source libraries and tools, and de
 *   [DOMPurify (⭐9.8k)](https://github.com/cure53/DOMPurify) - DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG by [Cure53](https://cure53.de/).
 *   [Acra (⭐1.1k)](https://github.com/cossacklabs/acra) - Client-side encryption engine for SQL databases, with strong selective encryption, SQL injections prevention and intrusion detection by [@cossacklabs](https://www.cossacklabs.com/).
 
-## [60. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [61. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Security / Other
 
 *   [Themis (⭐1.9k)](https://github.com/cossacklabs/themis) - Multi-platform high-level cryptographic library provides easy-to-use encryption for protecting sensitive data: secure messaging with forward secrecy, secure data storage (AES256GCM); suits for building end-to-end encrypted applications.
 
-## [61. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [62. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### Other lists / Hash functions
 
 *   [Awesome crypto-papers (⭐1.8k)](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
 
-## [62. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [63. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Video Production
 
 *   [MOS-connection (⭐22)](https://github.com/nrkno/tv-automation-mos-connection) - A JavaScript library for connection and MOS messaging either as MOS device or NRCS.
 
-## [63. Typography](/content/deanhume/typography/week/README.md)
+## [64. Typography](/content/deanhume/typography/week/README.md)
 
 ### Web Fonts & Web Performance
 
 *   [Tips for balancing web fonts & page load](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)
 
-## [64. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
+## [65. Awesome Qa](/content/seriousran/awesome-qa/week/README.md)
 
 ### Types of QA
 

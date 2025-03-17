@@ -39,7 +39,7 @@
 ### Development tools / FFI
 
 *   C#
-    *   [csbindgen (⭐717)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
+    *   [csbindgen (⭐732)](https://github.com/Cysharp/csbindgen) - generates C# bindings for Rust source files
 
 ## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
@@ -55,7 +55,7 @@
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
-### IO Games
+### Games / IO Games
 
 *   [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza-delivery) - Multiplayer restaurant game.
 

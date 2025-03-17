@@ -50,7 +50,7 @@
 
 ### Applications / Database
 
-*   [Hiqlite (⭐75)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
+*   [Hiqlite (⭐131)](https://github.com/sebadob/hiqlite) - highly-available, embeddable, raft-based SQLite + cache
 
 ## [7. Awesome Design Systems](/content/alexpate/awesome-design-systems/README.md)
 
@@ -73,7 +73,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐254)](https://github.com/GouvernementFR/dsfr)
+  Source code \*: [:octocat: (⭐267)](https://github.com/GouvernementFR/dsfr)
 
 
 - : [Just Eat Takeaway.com PIE Design System](https://pie.design/)
@@ -95,7 +95,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐20)](https://github.com/Kajabi/sage-lib)
+  Source code \*: [:octocat: (⭐21)](https://github.com/Kajabi/sage-lib)
 
 
 - : [Vercel](https://vercel.com/geist)
@@ -114,7 +114,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-page-html (⭐6)](https://github.com/Marinerer/vite-plugins/tree/main/packages/page-html) - Multi-page generic template plugin, support `ejs` template syntax. Similar to `vue-cli` pages configuration.
+*   [vite-plugin-page-html (⭐7)](https://github.com/Marinerer/vite-plugins/tree/main/packages/page-html) - Multi-page generic template plugin, support `ejs` template syntax. Similar to `vue-cli` pages configuration.
 
 ## [9. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
@@ -130,12 +130,12 @@
 
 ### Third-Party Packages / Admin Themes
 
-*   [django-daisy (⭐134)](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
+*   [django-daisy (⭐151)](https://github.com/hypy13/django-daisy) - A modern django dashboard fully responsive built with daisyui.
 *   [django-admin-dracula (⭐51)](https://github.com/sjbitcode/django-admin-dracula) - 🦇 Dracula themes for the Django admin.
 
 ### Third-Party Packages / Performance
 
-*   [django-zeal (⭐122)](https://github.com/taobojlen/django-zeal) - Detect N+1 queries with user-friendly error messages
+*   [django-zeal (⭐128)](https://github.com/taobojlen/django-zeal) - Detect N+1 queries with user-friendly error messages
 
 ### Third-Party Packages / Templates
 
@@ -145,7 +145,7 @@
 
 ### Large Language Models (LLMs)
 
-*   [mendableai/firecrawl (⭐22k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+*   [mendableai/firecrawl (⭐28k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 
 ## [12. Awesome Yew](/content/jetli/awesome-yew/README.md)
 

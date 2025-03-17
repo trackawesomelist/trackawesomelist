@@ -10,7 +10,7 @@
 
 ### Auth
 
-*   [FastAPI Cloud Auth (⭐339)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
+*   [FastAPI Cloud Auth (⭐342)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -57,7 +57,7 @@
 
 ### Applications
 
-*   [Hardbin (⭐251)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
+*   [Hardbin (⭐253)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 
 ### Other
 

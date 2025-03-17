@@ -10,7 +10,7 @@
 
 ### RSS
 
-*   [feedparser (⭐164)](https://github.com/feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
+*   [feedparser (⭐166)](https://github.com/feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
 
 ## [2. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 

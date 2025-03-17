@@ -36,7 +36,7 @@
 
 ### Resources
 
-*   [Low Resource Languages (⭐395)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
+*   [Low Resource Languages (⭐405)](https://github.com/RIchardLitt/low-resource-languages) - A list of resources for conservation, development, and documentation of low resource (human) languages.
 
 ## [6. Awesome List](/content/sindresorhus/awesome/README.md)
 
@@ -46,7 +46,7 @@
 
 ### Gaming
 
-*   [PlayCanvas (⭐261)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
+*   [PlayCanvas (⭐276)](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 ## [7. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

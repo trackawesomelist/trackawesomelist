@@ -30,7 +30,7 @@
 
 ### UI / Barcode
 
-*   [ShadowView (⭐412)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
+*   [ShadowView (⭐413)](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
 
 ## [5. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

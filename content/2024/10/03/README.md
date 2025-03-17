@@ -18,7 +18,7 @@
 
 ### Applications / Database
 
-*   [valentinus (⭐11)](https://github.com/kn0sys/valentinus) - Next generation vector database built with LMDB bindings [![Crates.io Version](https://img.shields.io/crates/v/valentinus)](https://crates.io/crates/valentinus)
+*   [valentinus (⭐12)](https://github.com/kn0sys/valentinus) - Next generation vector database built with LMDB bindings [![Crates.io Version](https://img.shields.io/crates/v/valentinus)](https://crates.io/crates/valentinus)
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -46,37 +46,31 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Libraries / PHP
 
 *   [laravel-mongodb (⭐7k)](https://github.com/mongodb/laravel-mongodb) - Official Eloquent model and query builder for Laravel
-*   [Doctrine MongoDB ODM (⭐1.1k)](https://github.com/doctrine/mongodb-odm) and [MongoDB ODM Bundle for Symfony (⭐383)](https://github.com/doctrine/DoctrineMongoDBBundle) - Fully featured ORM with Symfony integration
+*   [Doctrine MongoDB ODM (⭐1.1k)](https://github.com/doctrine/mongodb-odm) and [MongoDB ODM Bundle for Symfony (⭐385)](https://github.com/doctrine/DoctrineMongoDBBundle) - Fully featured ORM with Symfony integration
 *   [MongoDB Bundle (⭐37)](https://github.com/facile-it/mongodb-bundle) - Integration of the official library with Symfony, without ORM
-*   [yii-mongodb (⭐328)](https://github.com/yiisoft/yii2-mongodb) - Yii 2 MongoDB extension
+*   [yii-mongodb (⭐327)](https://github.com/yiisoft/yii2-mongodb) - Yii 2 MongoDB extension
 *   [opentelemetry php auto-mongodb (⭐1)](https://github.com/opentelemetry-php/contrib-auto-mongodb) - Automatic monitoring of MongoDB commands with OpenTelemetry
 
-## [6. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Mathematics
-
-*   [Course Of Linear Algebra And Multidimensional Geometry](https://arxiv.org/pdf/math/0405323) - Ruslan Sharipov(PDF)
-
-## [7. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
+## [6. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
 ### Packages / Language Bindings
 
 *   [spark-connect-rs (⭐85)](https://github.com/sjrusso8/spark-connect-rs) <img src="https://img.shields.io/github/last-commit/sjrusso8/spark-connect-rs.svg"> - Rust bindings.
 *   [spark-connect-go (⭐155)](https://github.com/apache/spark-connect-go) <img src="https://img.shields.io/github/last-commit/apache/spark-connect-go.svg"> - Golang bindings.
 
-## [8. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [7. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Models
 
-*   [django-auto-prefetch (⭐361)](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
+*   [django-auto-prefetch (⭐368)](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
 
-## [9. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ### Projects Related to eBPF / Security
 
-*   [harpoon (⭐132)](https://github.com/alegrey91/harpoon) - Trace syscalls from user-space functions, by using eBPF.
+*   [harpoon (⭐149)](https://github.com/alegrey91/harpoon) - Trace syscalls from user-space functions, by using eBPF.
 
-## [10. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
+## [9. Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md)
 
 ### Fiction / Fantasy
 
@@ -90,17 +84,17 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 
 
 
-## [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [vike-angular (⭐9)](https://github.com/vikejs/vike-angular) - Angular integration for [Vike (⭐4.6k)](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
+*   [vike-angular (⭐9)](https://github.com/vikejs/vike-angular) - Angular integration for [Vike (⭐4.7k)](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-otp-input (⭐26)](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
+*   [ngx-otp-input (⭐27)](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
 
-## [12. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [11. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Analytics
 
@@ -113,6 +107,16 @@ In lieu of a formal style guide, take care to maintain the existing style of thi
 ### Mail
 
 *   [Heybounce](https://www.heybounce.io/) - Email verification API.
+
+## [12. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Bash / Non-X86
+
+*   [The Shell Scripting Tutorial](https://www.shellscript.sh) - Steve Parker (HTML)
+
+### Java / Bootstrap
+
+*   [Java 23 - Key Concepts in Brief](https://petrucci.dev/java23.html) - Sergio Petrucci (PDF)
 
 ---
 

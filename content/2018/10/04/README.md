@@ -73,7 +73,7 @@
 
 ### Device / Bluetooth / NFC / Beacon
 
-*   [NFC Reader (⭐406)](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
+*   [NFC Reader (⭐418)](https://github.com/matteocrippa/flutter-nfc-reader) <!--stargazers:matteocrippa/flutter-nfc-reader--> - NFC reader plugin for iOS and Android by [Matteo Crippa](https://github.com/matteocrippa)
 
 ## [6. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
@@ -157,12 +157,12 @@
 
 ### Helpers
 
-*   [cartographer (⭐73)](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
-*   [lovely-windows (⭐16)](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
+*   [cartographer (⭐74)](https://github.com/tesselode/cartographer) - Small Tiled map loader and drawer.
+*   [lovely-windows (⭐17)](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 
 ### OO
 
-*   [knife.base (⭐459)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
+*   [knife.base (⭐462)](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 
 ### Physics
 
@@ -170,11 +170,11 @@
 
 ### Shaders
 
-*   [Moonshine (⭐588)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
+*   [Moonshine (⭐603)](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
 ### Tweening
 
-*   [knife.timer (⭐459)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
+*   [knife.timer (⭐462)](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
 
 ### UI
 

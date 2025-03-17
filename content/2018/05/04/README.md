@@ -24,7 +24,7 @@
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Agency Tools
+### Agency Tools / General GIS Applications for making transit visualizations
 
 *   [RidePilot (⭐25)](https://github.com/camsys/ridepilot) - An open-source Computer Aided Scheduling and Dispatch (CASD) software system to meet the needs of small scale human service transportation agencies.
 
@@ -318,7 +318,7 @@
 
 ### Applications / Operating systems
 
-*   [tock/tock (⭐5.6k)](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers
+*   [tock/tock (⭐5.7k)](https://github.com/tock/tock) - A secure embedded operating system for Cortex-M based microcontrollers
 
 ## [9. Awesome Ember](/content/ember-community-russia/awesome-ember/README.md)
 

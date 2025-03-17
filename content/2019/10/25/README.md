@@ -32,11 +32,11 @@
 
 ### QA Tools / Runner
 
-*   [Pre-evaluate code at buildtime (⭐127)](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
+*   [Pre-evaluate code at buildtime (⭐126)](https://github.com/kentcdodds/preval.macro) - Pre-evaluate your front end javascript code at build-time
 
 ### API / Runner
 
-*   [wretch (⭐4.7k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
+*   [wretch (⭐4.9k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 
 ## [5. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -103,7 +103,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Pychat (⭐236)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
+*   [Pychat (⭐239)](https://github.com/akoidan/pychat) - Self-hosted webrtc video chat (an alternative to Slack)
 
 ## [11. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 

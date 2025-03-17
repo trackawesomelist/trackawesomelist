@@ -10,7 +10,7 @@
 
 ### C, C++
 
-*   [endatabas (⭐278)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0).
+*   [endatabas (⭐277)](https://github.com/endatabas/endb) - Schemaless SQL document database with full history. [AGPL-3.0](https://directory.fsf.org/wiki/License:Apache2.0).
     *   built in Common Lisp and Rust.
     *   in development, alpha product scheduled for Q2 of 2024. [roadmap](https://docs.endatabas.com/appendix/roadmap.html).
 
@@ -41,7 +41,7 @@
 
 ### Photoshop / Illustrator
 
-*   [Excalidraw (⭐90k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
+*   [Excalidraw (⭐93k)](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams.
 
 ## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -59,7 +59,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐120)](https://github.com/buildo/bento-design-system)
+  Source code \*: [:octocat: (⭐121)](https://github.com/buildo/bento-design-system)
 
 
 - : [Buzzvil Design System](https://design.buzzvil.com/)
@@ -81,7 +81,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐8.1k)](https://github.com/themesberg/flowbite)
+  Source code \*: [:octocat: (⭐8.2k)](https://github.com/themesberg/flowbite)
 
 
 - : [GoodBarber Design System](https://www.goodbarber.com/uxdesign/)
@@ -103,7 +103,7 @@
 
   Designers Kit: 👍
 
-  Source code \*: [:octocat: (⭐449)](https://github.com/hashicorp/design-system)
+  Source code \*: [:octocat: (⭐450)](https://github.com/hashicorp/design-system)
 
 
 - : [Jobber](https://atlantis.getjobber.com) (🔱 Atlantis)
@@ -114,7 +114,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐28)](https://github.com/GetJobber/atlantis)
+  Source code \*: [:octocat: (⭐29)](https://github.com/GetJobber/atlantis)
 
 
 - : [JotaDS](https://jota.meiuca.co/)

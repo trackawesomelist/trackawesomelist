@@ -16,7 +16,7 @@
 
 ### Misc
 
-*   [aiorun (⭐349)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
+*   [aiorun (⭐453)](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
 
 ## [3. Awesome D](/content/dlang-community/awesome-d/README.md)
 
@@ -42,7 +42,7 @@
 
 ### OS Images
 
-*   [DietPi (⭐9)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
+*   [DietPi (⭐11)](https://github.com/Fourdee/DietPi) - Minimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 
 ## [7. Awesome](/content/Awesome-Windows/Awesome/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 10, 2022
 
-14 awesome lists updated today.
+15 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -50,7 +50,7 @@
 
 ### DevOps / Discovery
 
-*   [Standard (⭐413)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
+*   [Standard (⭐423)](https://github.com/divnix/std) - An opinionated Nix Flakes framework to keep Nix code in large projects organized, accompanied by a friendly CLI/TUI optized for DevOps scenarios.
 
 ## [8. Awesome Jupyter](/content/markusschanta/awesome-jupyter/README.md)
 
@@ -80,31 +80,37 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [Julian/lean.nvim (⭐307)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
+*   [Julian/lean.nvim (⭐328)](https://github.com/Julian/lean.nvim) - Neovim support for the [Lean Theorem Prover](https://leanprover.github.io/).
 
 ### Golang / Diagnostics
 
-*   [ray-x/go.nvim (⭐2.2k)](https://github.com/ray-x/go.nvim) - Golang plugin based on LSP and Tree-sitter.
+*   [ray-x/go.nvim (⭐2.3k)](https://github.com/ray-x/go.nvim) - Golang plugin based on LSP and Tree-sitter.
 
 ### Bars and Lines / Diagnostics
 
-*   [utilyre/barbecue.nvim (⭐863)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
+*   [utilyre/barbecue.nvim (⭐870)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
 
 ## [13. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [bat (⭐26)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐51k)](https://github.com/sharkdp/bat) users.
+*   [bat (⭐32)](https://github.com/fdellwing/zsh-bat) - Adds some helper aliases for [bat (⭐51k)](https://github.com/sharkdp/bat) users.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [funkydrac (⭐2)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐175k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐18k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐18k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
+*   [funkydrac (⭐2)](https://github.com/warshanks/funkydrac) - Multiple Dracula-themed omz themes based on [funky (⭐177k)](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/funky.zsh-theme) and an [oh-my-posh (⭐18k)](https://github.com/JanDeDobbeleer/oh-my-posh) theme based on [alien (⭐18k)](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/aliens.omp.json)
 
 ## [14. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### CI/CD
 
 *   [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
+
+## [15. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Learn Python 3 (⭐345)](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
 
 ---
 

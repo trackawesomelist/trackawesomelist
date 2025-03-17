@@ -1,18 +1,24 @@
 # Awesome List Updates on Jan 17, 2016
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
+## [1. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Ruby / Tornado
+
+*   [Why's (Poignant) Guide to Ruby](http://poignant.guide)
+
+## [2. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 
 ### Learn / Videos
 
 *   [Cycle.js and functional reactive user interfaces](https://www.youtube.com/watch?v=uNZnftSksYg) - Presentation at ReactiveConf 2015 by [Andre Staltz](http://twitter.com/andrestaltz)
 
-## [2. Tips](/content/git-tips/tips/README.md)
+## [3. Tips](/content/git-tips/tips/README.md)
 
 ## Amend author.
 
@@ -25,7 +31,7 @@ git commit --amend --author='Author Name <email@address.com>'
 git commit --amend --reset-author --no-edit
 ```
 
-## [3. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Community Resources
 
@@ -72,13 +78,13 @@ git commit --amend --reset-author --no-edit
 
 *   [mqtt-smarthome (⭐405)](https://github.com/mqtt-smarthome/mqtt-smarthome) - Smart home automation with MQTT as the central message bus - Architectural proposal.
 
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ### Games
 
 *   [entice (⭐121)](https://github.com/entice/entice) - A distributed Entity-Component-System framework, providing its own example MMORPG server.
 
-## [5. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [6. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Slides
 
@@ -88,13 +94,13 @@ git commit --amend --reset-author --no-edit
 
 *   [15five](http://www.15five.com/)
 
-## [6. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
+## [7. Awesome Promises](/content/wbinnssmith/awesome-promises/README.md)
 
 ### Resources, Blogs, and Books / For beginners
 
 *   [ES6 Promises in Depth](https://ponyfoo.com/articles/es6-promises-in-depth)
 
-## [7. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
+## [8. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md)
 
 ### United States 🇺🇸 / California <a id="california"></a>
 
@@ -113,7 +119,7 @@ git commit --amend --reset-author --no-edit
 | ---- | ----- | ------ | -------------------------------------------------------------------- | ------------------------------------------------------ |
 | ask  | ✔     | ✔      | [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfDBakM2) | Mon-Thu 7:30-22:00, Fri-Sat 8:00-00:00, Sun 8:00-21:00 |
 
-## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
+## [9. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 
 ### Miscellaneous Plugins / Paid Books
 

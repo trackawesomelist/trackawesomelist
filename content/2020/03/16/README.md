@@ -20,7 +20,7 @@
 
 ### Utils
 
-*   [playwright-fluent (⭐170)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
+*   [playwright-fluent (⭐174)](https://github.com/hdorgeval/playwright-fluent) - Fluent API Wrapper around Playwright.
 
 ## [3. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Python / Computer Vision
 
-*   [neural-dream (⭐133)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
+*   [neural-dream (⭐136)](https://github.com/ProGamerGov/neural-dream) - A PyTorch implementation of DeepDream.
 
 ## [5. Awesome Cybersecurity Blueteam](/content/fabacab/awesome-cybersecurity-blueteam/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Audio
 
-*   [AudioPlayer (⭐731)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
+*   [AudioPlayer (⭐736)](https://github.com/delannoyk/AudioPlayer) - A wrapper around AVPlayer with some cool features.
 
 ## [2. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/README.md)
 
@@ -30,7 +30,7 @@
 
 ### CLI Builder
 
-*   [Commander (⭐824)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
+*   [Commander (⭐821)](https://github.com/commander-rb/commander) - The complete solution for Ruby command-line executables.
 
 ## [4. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
@@ -285,11 +285,11 @@
 
 ### Classes
 
-### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/\~redwood/OffensiveComputerSecurity/)
+### [Offensive Computer Security (CIS 4930) FSU](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/)
 
 A vulnerability research and exploit development class by Owen Redwood of Florida State University.
 
-**Be sure to check out the [lectures](https://www.cs.fsu.edu/\~redwood/OffensiveComputerSecurity/lectures.html)!**
+**Be sure to check out the [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
 
 ---
 

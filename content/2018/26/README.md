@@ -176,22 +176,16 @@
 
 *   [sip2mqtt (⭐33)](https://github.com/MartyTremblay/sip2mqtt) - A SIP monitoring script that publishes incoming calls with CallerID to MQTT.
 
-## [7. Awesome Talks](/content/JanVanRyswyck/awesome-talks/week/README.md)
-
-### Software Design
-
-*   [The Art of Destroying Software](https://vimeo.com/108441214) by **Greg Young** \[42:30]
-
-## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [7. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Databases
 
 *   **Overlays**
-    *   [Sequoia (⭐123)](https://github.com/andrenth/sequoia) - Sequoia is a type-safe query builder for MySQL/MariaDB and PostgreSQL
+    *   [Sequoia (⭐125)](https://github.com/andrenth/sequoia) - Sequoia is a type-safe query builder for MySQL/MariaDB and PostgreSQL
     *   [Macaque (⭐38)](https://github.com/ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
     *   [ORM (⭐60)](https://github.com/mirage/orm) — ORM for SQLite.
-    *   [Caqti (⭐309)](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
-    *   [Caqti setence preparation, ppx\_rapper (⭐138)](https://github.com/roddyyaga/ppx_rapper)
+    *   [Caqti (⭐313)](https://github.com/paurkedal/ocaml-caqti) - Cooperative-threaded access to relational data
+    *   [Caqti setence preparation, ppx\_rapper (⭐142)](https://github.com/roddyyaga/ppx_rapper)
 *   **Articles**:
     *   [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](https://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
     *   [Interfacing OCaml and PostgreSQL with Caqti](https://medium.com/@bobbypriambodo/interfacing-ocaml-and-postgresql-with-caqti-a92515bdaa11)
@@ -200,9 +194,9 @@
 
 ### Testing
 
-*   [Alcotest (⭐455)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
+*   [Alcotest (⭐468)](https://github.com/mirage/alcotest) – A lightweight and colourful test framework.
 
-## [9. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
+## [8. Awesome Eosio](/content/DanailMinchev/awesome-eosio/week/README.md)
 
 ### Account services / Mobile
 
@@ -213,7 +207,7 @@
 *   [EOS - Reddit](https://www.reddit.com/r/eos/)
 *   [EOSDev - Reddit](https://www.reddit.com/r/EOSDev/)
 
-## [10. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [9. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### EBooks / Online resources
 
@@ -222,13 +216,13 @@
 *   [How to Hack Like a Legend](https://amzn.to/2uWh1Up) - A hacker’s tale breaking into a secretive offshore company, Sparc Flow, 2018
 *   [How to Investigate Like a Rockstar](https://books2read.com/u/4jDWoZ) - Live a real crisis to master the secrets of forensic analysis, Sparc Flow, 2017
 
-## [11. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [10. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Node.js
 
 *   [rest-hapi (⭐1.2k)](https://github.com/JKHeadley/rest-hapi) - Generate RESTful API based on mongoose models that supports relational data.
 
-## [12. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
+## [11. Awesome Microservices](/content/mfornos/awesome-microservices/week/README.md)
 
 ### CSharp
 
@@ -238,19 +232,19 @@
 
 *   [Symfony](https://symfony.com/) - Micro-framework based on the Symfony components.
 
-## [13. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
+## [12. Awesome Cryptography](/content/sobolevn/awesome-cryptography/week/README.md)
 
 ### C-sharp / Git
 
 *   [Microsoft .NET Framework Cryptography Model](https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model) - The .NET Framework implementations of many standard cryptographic algorithms.
 
-## [14. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
+## [13. Awesome Ros2](/content/fkromer/awesome-ros2/week/README.md)
 
 ### Podcasts / ROSCon 2015
 
 *   [ROS 2 and DDS for IoT devices with HaoChih Lin (from 5th minute onwards)](http://www.theconstructsim.com/rdp-017-ros-2-dds-iot-haochih/)
 
-## [15. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
+## [14. Awesome Design Patterns](/content/DovAmir/awesome-design-patterns/week/README.md)
 
 ### General Architecture
 
@@ -265,17 +259,17 @@
 
 *   [kubernetes (⭐2k)](https://github.com/gravitational/workshop/blob/master/k8sprod.md) - Kubernetes Production Patterns.
 
-## [16. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [15. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### API / Runner
 
-*   [axios (⭐105k)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
+*   [axios (⭐106k)](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 
 ### Animations / Other
 
 *   [particles.js (⭐29k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 
-## [17. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [16. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Broccoli read
 
@@ -310,7 +304,7 @@
 
 *   [Ember-cli In-Repo Addons with Jacob Bixby](https://www.youtube.com/watch?v=VYrMs1Zzpqs)
 
-## [18. Guides](/content/NARKOZ/guides/week/README.md)
+## [17. Guides](/content/NARKOZ/guides/week/README.md)
 
 ### Other / API
 
@@ -320,7 +314,7 @@
 
 *   [Node.js Style Guide (⭐5k)](https://github.com/felixge/node-style-guide#readme)
 
-## [19. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
+## [18. Awesome4girls](/content/cristianoliveira/awesome4girls/week/README.md)
 
 ### Initiatives/Programs / Academy/Camp
 
@@ -328,13 +322,13 @@
 
     BlackHoodie is a free, women only reverse engineering workshop. The motivation behind this workshop is to give female engineers the prospect of a comfortable learning environment. Mostly the topic is complex and comes with a steep learning curve which often demotivates students in the beginning. Thus the idea to host events which would support one of infosec’s minorities, the ladies.
 
-## [20. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [19. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Developer Utilities
 
 *   [Sweet.apex (⭐43)](https://github.com/Click-to-Cloud/Sweet.apex/) - Sweet.apex is the next generation of Apex development, transpiling Sweet Apex(a feature-rich Apex-like code) to Apex classes.
 
-## [21. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
+## [20. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
 ### Community / Particles
 
@@ -344,7 +338,7 @@
     *   [London, United Kingdom](https://www.meetup.com/WebGL-Workshop-London/)
     *   [New York, NY](https://www.meetup.com/NYC-WebGL-Developers/)
 
-## [22. Awesome](/content/craftcms/awesome/week/README.md)
+## [21. Awesome](/content/craftcms/awesome/week/README.md)
 
 ### Articles / Performance and Testing
 
@@ -354,19 +348,19 @@
 
 *   [SVG Sprites and Twig Macros in Craft CMS](https://caffeinecreations.ca/blog/svg-sprites-and-twig-macros-in-craft-cms/) by Sean Smith/Caffeine Creations - `29 June 2018`
 
-## [23. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [22. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Bots
 
-*   [Telegrammer (⭐289)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
+*   [Telegrammer (⭐290)](https://github.com/givip/Telegrammer) :penguin: - Open-source framework for Telegram Bots developers. It was built on top of Apple/SwiftNIO which help to demonstrate excellent performance.
 
-## [24. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
+## [23. Awesome Web Security](/content/qazbnm456/awesome-web-security/week/README.md)
 
 ### ReactJS
 
 *   [XSS via a spoofed React element](http://danlec.com/blog/xss-via-a-spoofed-react-element) - Written by [Daniel LeCheminant](http://danlec.com/).
 
-## [25. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [24. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Framework Components
 
@@ -376,25 +370,25 @@
 
 *   [mass-spec (⭐8)](https://github.com/c910335/mass-spec) - Web API testing library
 
-## [26. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [25. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Text and Numbers
 
 *   [ejsv](https://github.com/patternmatched/ejsv) - Erlang JSON schema validator.
 
-## [27. Awesome Standard](/content/standard/awesome-standard/week/README.md)
+## [26. Awesome Standard](/content/standard/awesome-standard/week/README.md)
 
 ### forks
 
 *   **[standa](https://www.npmjs.com/package/standa)** standard without JSX rules.
 
-## [28. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
+## [27. Awesome Research](/content/emptymalei/awesome-research/week/README.md)
 
 ### GTD-Task Manager / Enterprise Git Service
 
 *   [Taskade](https://taskade.com/) (`Cloud`,`Mac`,`Win`,`Chrome OS`,`Firefox`,`Android`,`iOS`): Taskade is a collaborative task list and outliner for team projects.
 
-## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Utilities / Password Management
 
@@ -404,38 +398,38 @@
 
 *   [Mac Power Users](https://www.relay.fm/mpu) - Learn about getting the most from your Apple technology with focused topics and workflow guests. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://itunes.apple.com/podcast/mac-power-users/id458066753)
 
-## [30. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
+## [29. Awesome Theravada](/content/johnjago/awesome-theravada/week/README.md)
 
 ### Blogs
 
 *   [Cattāri Brahmavihārā](https://cattaribrahmavihara.com/) - Father of three in NYC who maintains a daily practice.
 *   [Dhamma Reflections](https://dhammareflections.wordpress.com/) - Lay disciple's insights in practicing the early Buddhist teachings.
 
-## [31. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [30. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Libraries / JavaScript
 
 *   [CASL Mongoose (⭐6.2k)](https://github.com/stalniy/casl/tree/master/packages/casl-mongoose) - Permissions management library integrated with Mongoose
 
-## [32. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [31. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses / Commerical Tools
 
 *   [Deep RL Bootcamp Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) - Deep Reinforcement Bootcamp Lectures - August 2017
 
-## [33. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [32. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Domain and IP Research / Steam
 
 *   [Pulsedive](https://pulsedive.com)
 
-## [34. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [33. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Online Judges / Randomized Algorithms
 
 *   [AtCoder](https://atcoder.jp/) - Japanese programming contest website.
 
-## [35. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [34. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Mail
 
@@ -449,11 +443,17 @@
 
 *   [nhibernate-core (⭐2.1k)](https://github.com/nhibernate/nhibernate-core) - NHibernate Object Relational Mapper.
 
+## [35. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C++ / Non-X86
+
+*   [C++ Language](http://www.cplusplus.com/doc/tutorial/) (HTML)
+
 ## [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
-*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐3.8k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`
+*   [Lidarr](https://lidarr.audio/) - Lidarr is a music collection manager for Usenet and BitTorrent users. ([Source Code (⭐3.9k)](https://github.com/Lidarr/Lidarr)) `GPL-3.0` `C#/Docker`
 
 ## [37. Awesome Biological Visualizations](/content/keller-mark/awesome-biological-visualizations/week/README.md)
 
@@ -506,7 +506,7 @@
 
 ### Templates / Preferences
 
-*   [Mates (⭐592)](https://github.com/CodemateLtd/FlutterMates) <!--stargazers:CodemateLtd/FlutterMates--> - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
+*   [Mates (⭐594)](https://github.com/CodemateLtd/FlutterMates) <!--stargazers:CodemateLtd/FlutterMates--> - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 *   [UI Kit (⭐6.2k)](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
 
 ### Device / Augmented Reality
@@ -519,11 +519,11 @@
 
 ### Animation / Redux / ELM / Dependency Injection
 
-*   [SpinKit (⭐3k)](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
+*   [SpinKit (⭐3.1k)](https://github.com/jogboms/flutter_spinkit) <!--stargazers:jogboms/flutter_spinkit--> - Animated loading indicators by [Jeremiah Ogbomo](https://twitter.com/jogboms)
 
 ### Top / Game Engine resources
 
-*   [Planets (⭐754)](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
+*   [Planets (⭐755)](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 
 ### Utilities / Game Engine resources
 
@@ -566,7 +566,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐849)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐847)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
 ## [46. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -600,7 +600,7 @@
 
 ### Packages / Mad science
 
-*   [Brain.js (⭐14k)](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+*   [Brain.js (⭐15k)](https://github.com/BrainJS/brain.js) - Machine-learning framework.
 
 ### Packages / AST
 

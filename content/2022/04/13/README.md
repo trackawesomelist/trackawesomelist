@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 13, 2022
 
-12 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -132,39 +132,33 @@
 *   [12ft.io / 12ft Ladder](https://12ft.io): 12ft Ladder is a free service for reading news articles. Prepend 12ft.io/ to the URL of any paywalled page, and we'll try our best to remove the paywall and get you access to the article. It is similar to Outline.com which is not available anymore.
     *   Note: The source code of 12ft Ladder is not available under a free/open-source license.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [Fish](https://fishshell.com/) - Smart and user-friendly shell, which is similar with zsh. [![Awesome List](https://jaywcjlove.github.io/sb/ico/min-awesome.svg "Awesome List")](https://github.com/fisherman/awesome-fish-shell#readme)
-
-## [5. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-### Proprietary (non-standard) vendor APIs
-
-*   [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isochrones and lot more on US and EU. [Navitia (⭐436)](https://github.com/hove-io/navitia) is the opensource engine behind the live API.
-
-### Software for Creating APIs
-
-*   [Navitia (⭐436)](https://github.com/hove-io/navitia) is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
+## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Converters / Rust
 
 *   [transit\_model (⭐58)](https://github.com/hove-io/transit_model) - A Rust library to convert to/from the following formats: GTFS, NTFS (for Navitia, see [Software for Creating APIs](#software-for-creating-apis)), TransXChange (UK specification), KV1 (NL specification), NeTEx (EU specification).
 
-## [6. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+### Software for Creating APIs / Rust
+
+*   [Navitia (⭐436)](https://github.com/hove-io/navitia) is the opensource engine behind the [Navitia.io](http://www.navitia.io/) live API.
+
+### Proprietary (non-standard) vendor APIs / Rust
+
+*   [Navitia.io](http://www.navitia.io/) - REST API for journey planning, stop schedules, isochrones and lot more on US and EU. [Navitia (⭐436)](https://github.com/hove-io/navitia) is the opensource engine behind the live API.
+
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / External Resources
 
 *   [Notes on Vue](https://notes-on-vue.ackzell.dev/) - A personal guide to Vue development.
 
-## [7. Awesome Yew](/content/jetli/awesome-yew/README.md)
+## [6. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
 ### Templates
 
 *   [rust-yew-axum-tauri-desktop (⭐138)](https://github.com/jetli/rust-yew-axum-tauri-desktop) - Rust + Yew + Axum + Tauri, full-stack Rust development for Desktop apps.
 
-## [8. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+## [7. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ### Changeset Tools / Web Services
 
@@ -183,7 +177,7 @@
 
 *   [osm-livechanges](http://live.openstreetmap.fr/) - Near-real-time display of edits in the OpenStreetMap database. ([Source Code (⭐28)](https://github.com/cstenac/osm-livechanges))
 
-## [9. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
+## [8. Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md)
 
 ### Resources & Others / Communities
 
@@ -195,19 +189,19 @@
 *   [Pokémon GO Calender](https://pokemoncalendar.com/) - Pokémon GO calender events with Google Calendar and timezones support.
 *   [Poke Genie](http://www.pokegenie.net/) - A free raid hosting and joining app for [iOS](https://apps.apple.com/us/app/poke-genie-remote-raid-iv-pvp/id1143920524) & [Android](https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard) with PVP functionalities.
 
-## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Analytics, Events and Statistics
 
 *   [Uptrace](https://uptrace.dev) - Distributed Tracing Tool that helps developers pinpoint failures and find performance bottlenecks. Has a free plan, offers a complimentary Personal subscription for open-source projects, and has an open-source version.
 
-## [11. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
+## [10. Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md)
 
 ### IR Tools Collection / Evidence Collection
 
 *   [UAC (⭐590)](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
 
-## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Methodologies for Experiments / Scaling Up Behavioral Studies
 

@@ -45,12 +45,12 @@
 ### Server Plugins / Building
 
 *   [LuckPerms](https://luckperms.net/) - Manage permissions.
-*   [CoreProtect (⭐609)](https://github.com/PlayPro/CoreProtect) - Log everything your players do. Literally 1984.
+*   [CoreProtect (⭐746)](https://github.com/PlayPro/CoreProtect) - Log everything your players do. Literally 1984.
 
 ### Softwares / Utilities
 
-*   [Amulet (⭐1.7k)](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
-*   [NBTEditor (⭐69)](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
+*   [Amulet (⭐1.9k)](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
+*   [NBTEditor (⭐70)](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
 
 ## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 
@@ -63,13 +63,13 @@
 
 ### Programming Languages Support / Diagnostics
 
-*   [simaxme/java.nvim (⭐24)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
+*   [simaxme/java.nvim (⭐25)](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
 
 ## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [zsh-expand (⭐35)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, `=command expansion`, history expansion and `$parameters` are also expanded by default but can be turned off.
+*   [zsh-expand (⭐33)](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, `=command expansion`, history expansion and `$parameters` are also expanded by default but can be turned off.
 
 ## [10. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 

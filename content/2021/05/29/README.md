@@ -8,14 +8,6 @@
 
 ## [1. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
-### Official
-
-*   [GitHub](https://github.com/EOSIO)
-
-### EdenOS
-
-*   [More Equal Animals Book](https://moreequalanimals.com/posts/book-launch) - Book by Daniel Larimer.
-
 ### Courses, workshops, webinars, videos and others
 
 *   [EOSIO Training & Certification](https://training.eos.io/) - Official EOSIO Training & Certification.
@@ -28,7 +20,7 @@
 ### Environment / Mobile
 
 *   [EOS Studio](https://www.eosstudio.io/) - Graphic IDE for EOSIO Development.
-*   [EOSIO Web IDE (⭐140)](https://github.com/EOSIO/eosio-web-ide) - The Web IDE provides developers with a personal single-node EOSIO blockchain for development and testing purposes, running in the [Gitpod.io](https://www.gitpod.io/) cloud – and accessible from your web browser.
+*   [EOSIO Web IDE (⭐156)](https://github.com/EOSIO/eosio-web-ide) - The Web IDE provides developers with a personal single-node EOSIO blockchain for development and testing purposes, running in the [Gitpod.io](https://www.gitpod.io/) cloud – and accessible from your web browser.
 *   [Helm charts for EOSIO (⭐6)](https://github.com/EOSIO/eosio.helm) - EOSIO Nodeos Helm Charts.
 
 ### Testnets / Mobile
@@ -177,7 +169,7 @@
 
 ### Audio
 
-*   [dzr (⭐206)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
+*   [dzr (⭐209)](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
 
 ## [8. Awesome V](/content/vlang/awesome-v/README.md)
 

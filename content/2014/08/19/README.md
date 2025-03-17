@@ -11,7 +11,7 @@
 ### Key-value Data Model
 
 *   [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies."
-*   [TreodeDB (⭐178)](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
+*   [TreodeDB (⭐176)](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
 
 ## [2. Awesome Lua](/content/LewisJEllis/awesome-lua/README.md)
 
@@ -27,11 +27,11 @@
 
 ### Packages / Streams
 
-*   [multistream (⭐288)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
+*   [multistream (⭐293)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 
 ### Packages / Network
 
-*   [ipify (⭐273)](https://github.com/sindresorhus/ipify) - Get your public IP address.
+*   [ipify (⭐277)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 ---
 

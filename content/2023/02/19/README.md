@@ -14,18 +14,18 @@
 
 ## [2. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / Web3 & Blockchain Testing
 
-*   [Robot Framework](https://robotframework.org/) - Generic open source automation framework. It can be used for testing and robotic process automation (RPA).
+*   [Dapp.tools](https://dapp.tools/) - Command-line tools and smart contract libraries for Ethereum.
+*   [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain for running tests.
+*   [Foundry (⭐8.6k)](https://github.com/foundry-rs/foundry) - Fast, modular toolkit for Ethereum development.
+*   [Hardhat](https://hardhat.org/) - Ethereum development and testing environment.
+*   [Truffle Suite](https://trufflesuite.com/) - Comprehensive smart contract development suite.
+*   [Robot Framework Solidity Testing Toolkit (⭐11)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - Robot Framework integration for Solidity testing.
 
-### Software / Web3 and Blockchain
+### Software / Test Automation Frameworks
 
-*   [Dapp.tools](https://dapp.tools/) - Command line tools and smart contract libraries for Ethereum smart contract development.
-*   [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
-*   [Foundry (⭐8.5k)](https://github.com/foundry-rs/foundry) - Blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-*   [Hardhat](https://hardhat.org/) - Multichain Ethereum development environment.
-*   [Robot Framework Solidity Testing Toolkit (⭐11)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - This combines popular smart contract testing and deployment libraries with Robot Framework.
-*   [Truffle Suite](https://trufflesuite.com/) - Comprehensive suite of tools for smart contract development.
+*   [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
 
 ## [3. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
@@ -76,7 +76,7 @@
 
 ### Libraries / Email
 
-*   [stalwartlabs/mail-auth (⭐90)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
+*   [stalwartlabs/mail-auth (⭐93)](https://github.com/stalwartlabs/mail-auth) \[[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 
 ## [10. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
@@ -96,7 +96,7 @@
 
 *   [What ChatGPT and generative AI mean for science | Nature](https://www.nature.com/articles/d41586-023-00340-6)
 
-### Speech-to-text (STT) and spoken content analysis / Deforum
+### AI-Powered Code Generation
 
 *   [The Impact of AI on Developer Productivity: Evidence from GitHub Copilot | arxiv](https://arxiv.org/abs/2302.06590)
 
@@ -104,7 +104,7 @@
 
 ### Software / Automation
 
-*   [Matchering (⭐1.9k)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). `GPL-3.0` `Docker`
+*   [Matchering (⭐2k)](https://github.com/sergree/matchering) - A containerized web app for automated music mastering (alternative to LANDR, eMastered, and MajorDecibel). `GPL-3.0` `Docker`
 
 ## [14. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -142,7 +142,7 @@
 
 ### Remote Development / Diagnostics
 
-*   [miversen33/netman.nvim (⭐343)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
+*   [miversen33/netman.nvim (⭐348)](https://github.com/miversen33/netman.nvim) - Lua powered Network Resource Manager.
 
 ## [19. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 

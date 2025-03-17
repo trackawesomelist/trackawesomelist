@@ -37,7 +37,7 @@
 
 ### Models/Projects
 
-*   [AlexNet3D (⭐43)](https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).
+*   [AlexNet3D (⭐42)](https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Tools/Debugging / Chrome Specific Tools/Debugger
 
-*   [Webgl Insight (⭐907)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
+*   [Webgl Insight (⭐913)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
 
 ---
 

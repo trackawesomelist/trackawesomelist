@@ -21,7 +21,7 @@
 
 ### Pastebin and Secret Sharing
 
-*   [NoPaste (⭐385)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
+*   [NoPaste (⭐392)](https://github.com/bokub/nopaste) - Open Source pastebin alternative that works with no database, and no back-end code. Instead, the data is compressed and stored entirely in the link that you share, nowhere else.
 
 ## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -33,7 +33,7 @@
 
 ### Database clients
 
-*   [mongodb (⭐47)](https://github.com/vlang/mongo) - MongoDB driver for V.
+*   [mongodb (⭐50)](https://github.com/vlang/mongo) - MongoDB driver for V.
 
 ## [5. Awesome Php](/content/ziadoz/awesome-php/README.md)
 
@@ -43,7 +43,7 @@
 
 ### Table of Contents / Event
 
-*   [Elephant.io (⭐115)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+*   [Elephant.io (⭐118)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 
 ### Configuration / Text Editors and IDEs
 
@@ -59,7 +59,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-oxlint (⭐25)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
+*   [vite-plugin-oxlint (⭐27)](https://github.com/52-entertainment/vite-plugin-oxlint) - Oxlint linter.
 
 ## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 

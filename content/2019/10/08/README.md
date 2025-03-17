@@ -21,7 +21,7 @@
 
 ### Testing / Matchers
 
-*   [XMLUnit (⭐299)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
+*   [XMLUnit (⭐304)](https://github.com/xmlunit/xmlunit) - Simplifies testing for XML output.
 
 ## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
@@ -71,7 +71,7 @@
 
 ### API Gateway / Symfony2
 
-*   [KrakenD (⭐6.4k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
+*   [KrakenD (⭐6.5k)](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middleware. Written in Go.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
@@ -87,7 +87,7 @@
 
 ### E-Books / Others
 
-*   [Archives (⭐8.9k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐8.9k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
+*   [Archives (⭐9k)](https://github.com/AdrienTorris/awesome-blazor/tree/master/Archives) - [2018 (⭐9k)](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2018.md#e-books).
 
 ## [9. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md)
 
@@ -167,13 +167,13 @@
 
 ### Packages / Command-line apps
 
-*   [npkill (⭐8.4k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
+*   [npkill (⭐8.5k)](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node\_modules folders.
 
 ## [14. Awesome Bigdata](/content/newTendermint/awesome-bigdata/README.md)
 
 ### NewSQL Databases
 
-*   [KarelDB (⭐383)](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
+*   [KarelDB (⭐390)](https://github.com/rayokota/kareldb) - a relational database backed by Apache Kafka.
 
 ## [15. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
 

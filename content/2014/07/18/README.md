@@ -16,7 +16,7 @@
 
 ### Scala / General-Purpose Machine Learning
 
-*   [Figaro (⭐757)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
+*   [Figaro (⭐756)](https://github.com/p2t2/figaro) - a Scala library for constructing probabilistic models.
 
 ## [3. Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md)
 

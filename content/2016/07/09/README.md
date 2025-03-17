@@ -20,7 +20,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Lasagne (⭐3.8k)](https://github.com/Lasagne/Lasagne) - Lightweight library to build and train neural networks in Theano.
+*   [Lasagne (⭐3.9k)](https://github.com/Lasagne/Lasagne) - Lightweight library to build and train neural networks in Theano.
 
 ## [3. Awesome Service Workers](/content/TalAter/awesome-service-workers/README.md)
 

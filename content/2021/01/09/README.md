@@ -14,13 +14,7 @@
 
 ## [2. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
-### PlayCanvas
-
-*   [Engine (⭐9.7k)](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
-*   [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
-*   [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
-
-### Automotive
+### Automotive / YouTube Playables
 
 *   [Infiniti Experience](https://beijing.infiniti-experience.com/) - Explore the 2020 Infiniti range (Chinese).
 
@@ -28,7 +22,7 @@
 
 ### Learn
 
-*   [YouTubers (⭐6k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+*   [YouTubers (⭐6.3k)](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 
 ## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
@@ -52,7 +46,7 @@
 
 ### React / Loaders
 
-*   [vite-plugin-svgr (⭐592)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
+*   [vite-plugin-svgr (⭐611)](https://github.com/pd4d10/vite-plugin-svgr) - Transform SVGs into React components.
 
 ## [8. Awesome Design Principles](/content/robinstickel/awesome-design-principles/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Software Design
 
-*   [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** \[1:03:30]
+*   [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** (Clojure/Conj 2014) \[1:03:30]
 
 ## [2. Awesome Canvas](/content/raphamorim/awesome-canvas/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Machine Learning
 
-*   [ML Workspace (⭐3k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
+*   [ML Workspace (⭐3.5k)](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE specialized for machine learning and data science.
 
 ## [2. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

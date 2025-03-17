@@ -95,25 +95,31 @@
     *   [Lectures and Videos](http://crcv.ucf.edu/videos/Lecture_Videos/)
     *   [Assignments](http://crcv.ucf.edu/courses/CAP5415/Fall2014/index.php)
 
-## [6. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [6. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+
+### Text and Numbers
+
+*   [chinese\_translation (⭐90)](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
+
+## [7. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Data Visualization
 
 *   [Airpal (⭐2.8k)](https://github.com/airbnb/airpal) - Web UI for PrestoDB.
 
-## [7. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
+## [8. Awesome Dart](/content/yissachar/awesome-dart/week/README.md)
 
 ### Utilities
 
 *   [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
 
-## [8. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [9. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Researchers / Frameworks
 
 *   [MGL](http://melisgl.github.io/mgl-pax-world/mgl-manual.html)
 
-## [9. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [10. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Testing
 
@@ -123,7 +129,7 @@
 
 *   [Stuff Goes Bad - ERLANG IN ANGER](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war.
 
-## [10. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
+## [11. Js Must Watch](/content/bolshchikov/js-must-watch/week/README.md)
 
 ### 2013
 
@@ -133,7 +139,7 @@
 
 *   [David Nolen: **Immutability: Putting The Dream Machine To Work**](https://www.youtube.com/watch?v=SiFwRtCnxv4) \[22:05]
 
-## [11. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
+## [12. Learn to Program](/content/karlhorky/learn-to-program/week/README.md)
 
 ### Advanced
 
@@ -141,16 +147,6 @@
 
 **Free** programming challenges and contests\
 *(artificial intelligence, algorithms, functional programming, machine learning)*
-
-## [12. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
-
-### HTTP
-
-*   [bolt](https://github.com/SebastianSzturo/bolt) - Simple and fast http proxy.
-
-### Text and Numbers
-
-*   [chinese\_translation (⭐90)](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
 
 ## [13. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
@@ -169,7 +165,7 @@
 
 ### Utility / Barcode
 
-*   [SpriteKit+Spring (⭐249)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
+*   [SpriteKit+Spring (⭐250)](https://github.com/ataugeron/SpriteKit-Spring) - SpriteKit API reproducing UIView's spring animations with SKAction.
 
 ## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 

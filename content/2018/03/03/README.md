@@ -16,7 +16,7 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐5.6k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
+*   [GraphHopper](https://graphhopper.com/) - Fast routing library and server using OpenStreetMap. ([Source Code (⭐5.7k)](https://github.com/graphhopper/graphhopper)) `Apache-2.0` `Java`
 
 ## [3. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

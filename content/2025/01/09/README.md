@@ -16,7 +16,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-llms (⭐1)](https://github.com/saschaseniuk/vite-plugin-llms) - Integration for the llms.txt specification supporting AI optimized content alongside application routes.
+*   [vite-plugin-llms (⭐3)](https://github.com/saschaseniuk/vite-plugin-llms) - Integration for the llms.txt specification supporting AI optimized content alongside application routes.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -24,11 +24,11 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-material-symbols (⭐0)](https://github.com/RobinTail/vite-plugin-material-symbols) - Selective loading of Material Symbols font icons based on source code analysis.
+*   [vite-plugin-material-symbols (⭐1)](https://github.com/RobinTail/vite-plugin-material-symbols) - Selective loading of Material Symbols font icons based on source code analysis.
 
 ### Rust / Community
 
-*   [vite-rs (⭐58)](https://github.com/Wulf/vite-rs) - Embed assets in your Rust binary.
+*   [vite-rs (⭐59)](https://github.com/Wulf/vite-rs) - Embed assets in your Rust binary.
 
 ## [3. Awesome Yew](/content/jetli/awesome-yew/README.md)
 
@@ -66,7 +66,7 @@
 
 ### Utils / Other Tools
 
-*   [Apitally (⭐52)](https://github.com/apitally/apitally-py) - API analytics, monitoring, and request logging for FastAPI.
+*   [Apitally (⭐57)](https://github.com/apitally/apitally-py) - API analytics, monitoring, and request logging for FastAPI.
 *   [FastAPI Utilities (⭐2k)](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
 
 ### Boilerplate / Other Tools
@@ -75,7 +75,7 @@
 
 ### Open Source Projects / Other Tools
 
-*   [Polar (⭐3.4k)](https://github.com/polarsource/polar) - A funding and monetization platform for developers, built with FastAPI, SQLAlchemy, Alembic, and Arq.
+*   [Polar (⭐4.2k)](https://github.com/polarsource/polar) - A funding and monetization platform for developers, built with FastAPI, SQLAlchemy, Alembic, and Arq.
 
 ## [8. Awesome Flask](/content/mjhea0/awesome-flask/README.md)
 

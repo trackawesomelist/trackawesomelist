@@ -64,7 +64,7 @@ git ls-files --others
 
 ### Mobile / Playground
 
-*   :octocat: [NativeScript (⭐24k)](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
+*   :octocat: [NativeScript (⭐25k)](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
 
 ## [4. Awesome Hadoop](/content/youngwookim/awesome-hadoop/README.md)
 

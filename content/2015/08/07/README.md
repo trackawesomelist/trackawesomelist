@@ -33,7 +33,6 @@
 *   [That Podcast](https://thatpodcast.io/) - Beau and Dave talking about life as dads, programmers, and entrepreneurs.
 *   [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
 *   [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the podcast from the Cognitect family.
-*   [The Five-Minute Geek Show](http://www.fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
 *   [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
 *   [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
 *   [This Developer's Life](http://thisdeveloperslife.com/) - A podcast about developers and their lives.
@@ -54,7 +53,7 @@
 
 ### Loaders
 
-*   [modulejs (⭐126)](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
+*   [modulejs (⭐128)](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
 
 ## [6. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/README.md)
 

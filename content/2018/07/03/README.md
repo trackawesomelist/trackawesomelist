@@ -58,7 +58,7 @@
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [musikcube](https://musikcube.com/) - Streaming audio server with Linux/macOS/Windows/Android clients. ([Source Code (⭐4.3k)](https://github.com/clangen/musikcube)) `BSD-3-Clause` `C++/deb`
+*   [musikcube](https://musikcube.com/) - Streaming audio server with Linux/macOS/Windows/Android clients. ([Source Code (⭐4.4k)](https://github.com/clangen/musikcube)) `BSD-3-Clause` `C++/deb`
 
 ---
 

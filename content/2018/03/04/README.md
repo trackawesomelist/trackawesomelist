@@ -168,7 +168,7 @@
 
 ### Awesome lists / Event listeners for fonts loading on a web page
 
-*   [Awesome Icons (⭐1.3k)](https://github.com/vkarampinis/awesome-icons)
+*   [Awesome Icons (⭐1.4k)](https://github.com/vkarampinis/awesome-icons)
 
 ## [9. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

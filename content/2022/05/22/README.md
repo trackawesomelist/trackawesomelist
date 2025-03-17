@@ -28,13 +28,13 @@
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Soketi](https://soketi.app/) - Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). ([Source Code (⭐5k)](https://github.com/soketi/soketi)) `MIT` `Nodejs/Docker/K8S`
+*   [Soketi](https://soketi.app/) - Simple, fast, and resilient open-source WebSockets server (drop-in alternative to Pusher). ([Source Code (⭐5.1k)](https://github.com/soketi/soketi)) `MIT` `Nodejs/Docker/K8S`
 
 ## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Matrix libraries / Third-party APIs
 
-*   [magicl (⭐240)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
+*   [magicl (⭐243)](https://github.com/quil-lang/magicl) - Matrix Algebra proGrams In Common Lisp based on BLAS/LAPACK and Expokit, by Rigetti Computing. [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
 ## [5. Awesome Open Hardware](/content/delftopenhardware/awesome-open-hardware/README.md)
 
@@ -58,7 +58,7 @@
 
 ### Standard CLI
 
-*   [carapace-spec (⭐20)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
+*   [carapace-spec (⭐21)](https://github.com/rsteube/carapace-spec) - Define simple completions using a spec file.
 
 ### Functional
 
@@ -111,7 +111,6 @@
 
 ### Free Beginner Red Team Path / Level 5 - Reverse Engineering & Pwn
 
-*   [Intro to x86 64](https://tryhackme.com/room/introtox8664) - This room teaches the basics of x86-64 assembly language.
 *   [Reverse Engineering](https://tryhackme.com/room/reverseengineering) - This room focuses on teaching the basics of assembly through reverse engineering.
 *   [Reversing ELF](https://tryhackme.com/room/reverselfiles) - Room for beginner Reverse Engineering CTF players.
 *   [Dumping Router Firmware](https://tryhackme.com/room/rfirmware) - Reverse engineering router firmware.

@@ -10,7 +10,7 @@
 
 ### QA Tools / Runner
 
-*   [JS-Beautifier (⭐8.6k)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
+*   [JS-Beautifier (⭐8.7k)](https://github.com/beautify-web/js-beautify) - Npm cli and library to format JS code.
 
 ## [2. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Programming Languages
 
-*   [Julia (⭐1.4k)](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
+*   [Julia (⭐1.5k)](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 
 ## [8. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

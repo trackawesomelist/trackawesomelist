@@ -88,47 +88,47 @@
 
 *   [Apache Hive](http://hive.apache.org/) - SQL-like data warehouse system for Hadoop.
 *   [Datasalt Splout SQL](http://www.datasalt.com/products/splout-sql/) - full SQL query engine for big datasets.
-*   [Spark Catalyst (⭐36k)](https://github.com/apache/spark/tree/master/sql) - is a Query Optimization Framework for Spark and Shark.
+*   [Spark Catalyst (⭐41k)](https://github.com/apache/spark/tree/master/sql) - is a Query Optimization Framework for Spark and Shark.
 
 ### Data Ingestion
 
 *   [Apache Flume](http://flume.apache.org/) - service to manage large amount of log data.
 *   [Apache Kafka](http://kafka.apache.org/) - distributed publish-subscribe messaging system.
 *   [Apache Sqoop](http://sqoop.apache.org/) - tool to transfer data between Hadoop and a structured datastore.
-*   [HIHO (⭐90)](https://github.com/sonalgoyal/hiho) - framework for connecting disparate data sources with Hadoop.
+*   [HIHO (⭐91)](https://github.com/sonalgoyal/hiho) - framework for connecting disparate data sources with Hadoop.
 *   [LinkedIn Kamikaze (⭐22)](https://github.com/linkedin/kamikaze) - utility package for compressing sorted integer arrays.
-*   [Netflix Suro (⭐777)](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
+*   [Netflix Suro (⭐795)](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
 *   [Pinterest Secor (⭐1.8k)](https://github.com/pinterest/secor) - is a service implementing Kafka log persistance.
 
 ### Service Programming
 
 *   [Akka Toolkit](http://akka.io/) - runtime for distributed, and fault tolerant event-driven applications on the JVM.
 *   [Apache Avro](http://avro.apache.org/) - data serialization system.
-*   [Apache Curator](http://curator.apache.org/) - Java libaries for Apache ZooKeeper.
+*   [Apache Curator](http://curator.apache.org/) - Java libraries for Apache ZooKeeper.
 *   [Apache Karaf](http://karaf.apache.org/) - OSGi runtime that runs on top of any OSGi framework.
 *   [Apache Thrift](http://thrift.apache.org//) - framework to build binary protocols.
 *   [Apache Zookeeper](http://zookeeper.apache.org/) - centralized service for process management.
-*   [Spring XD (⭐479)](https://github.com/spring-projects/spring-xd) - distributed and extensible system for data ingestion, real time analytics, batch processing, and data export.
+*   [Spring XD (⭐475)](https://github.com/spring-projects/spring-xd) - distributed and extensible system for data ingestion, real time analytics, batch processing, and data export.
 *   [Twitter Finagle](https://twitter.github.io/finagle/) - asynchronous network stack for the JVM.
 
 ### Scheduling
 
-*   [Sparrow (⭐314)](https://github.com/radlab/sparrow) - scheduling platform.
+*   [Sparrow (⭐319)](https://github.com/radlab/sparrow) - scheduling platform.
 
 ### Machine Learning
 
 *   [etcML](http://www.etcml.com/) - text classification with machine learning.
-*   [Etsy Conjecture (⭐358)](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
+*   [Etsy Conjecture (⭐360)](https://github.com/etsy/Conjecture) - scalable Machine Learning in Scalding.
 *   [MLbase](http://www.mlbase.org/) - distributed machine learning libraries for the BDAS stack.
 *   [Spark MLlib](http://spark.apache.org/docs/0.9.0/mllib-guide.html) - a Spark implementation of some common machine learning (ML) functionality.
-*   [Vowpal Wabbit (⭐8.2k)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
+*   [Vowpal Wabbit (⭐8.5k)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - learning system sponsored by Microsoft and Yahoo!.
 *   [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
 
 ### Benchmarking
 
 *   [Apache Hadoop Benchmarking](https://issues.apache.org/jira/browse/MAPREDUCE-3561) - micro-benchmarks for testing Hadoop performances.
-*   [Berkeley SWIM Benchmark (⭐126)](https://github.com/SWIMProjectUCB/SWIM/wiki) - real-world big data workload benchmark.
-*   [Intel HiBench (⭐1.4k)](https://github.com/intel-hadoop/HiBench) - a Hadoop benchmark suite.
+*   [Berkeley SWIM Benchmark (⭐129)](https://github.com/SWIMProjectUCB/SWIM/wiki) - real-world big data workload benchmark.
+*   [Intel HiBench (⭐1.5k)](https://github.com/intel-hadoop/HiBench) - a Hadoop benchmark suite.
 
 ### Security
 
@@ -136,7 +136,7 @@
 
 ### System Deployment
 
-*   [Apache Ambari](http://ambari.apache.org/) - operational framework for Hadoop mangement.
+*   [Apache Ambari](http://ambari.apache.org/) - operational framework for Hadoop management.
 *   [Apache Bigtop](http://bigtop.apache.org//) - system deployment framework for the Hadoop ecosystem.
 *   [Apache Helix](http://helix.apache.org/) - cluster management framework.
 *   [Apache Mesos](http://mesos.apache.org/) - cluster manager.
@@ -159,14 +159,14 @@
 *   [Apache Lucene](http://lucene.apache.org/) - Search engine library.
 *   [Apache Solr](http://lucene.apache.org/solr/) - Search platform for Apache Lucene.
 *   [LinkedIn Bobo](http://senseidb.github.io/bobo/) - is a Faceted Search implementation written purely in Java, an extension to Apache Lucene.
-*   [LinkedIn Cleo (⭐558)](https://github.com/linkedin/cleo) - is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search.
-*   [LinkedIn Zoie (⭐362)](https://github.com/senseidb/zoie) - is a realtime search/indexing system written in Java.
+*   [LinkedIn Cleo (⭐564)](https://github.com/linkedin/cleo) - is a flexible software library for enabling rapid development of partial, out-of-order and real-time typeahead search.
+*   [LinkedIn Zoie (⭐369)](https://github.com/senseidb/zoie) - is a realtime search/indexing system written in Java.
 
 ### MySQL forks and evolutions
 
 *   [Drizzle](http://www.drizzle.org/) - evolution of MySQL 6.0.
 *   [MariaDB](https://mariadb.org/) - enhanced, drop-in replacement for MySQL.
-*   [ProxySQL (⭐24)](https://github.com/renecannao/proxysql) - High Performance Proxy for MySQL.
+*   [ProxySQL (⭐25)](https://github.com/renecannao/proxysql) - High Performance Proxy for MySQL.
 *   [WebScaleSQL](http://webscalesql.org/) - is a collaboration among engineers from several companies that face similar challenges in running MySQL at scale.
 
 ### Memcached forks and evolutions
@@ -178,7 +178,7 @@
 
 ### Embedded Databases
 
-*   [HanoiDB (⭐298)](https://github.com/krestenkrab/hanoidb) - Erlang LSM BTree Storage.
+*   [HanoiDB (⭐307)](https://github.com/krestenkrab/hanoidb) - Erlang LSM BTree Storage.
 *   [RocksDB](http://rocksdb.org/) - embeddable persistent key-value store for fast storage based on LevelDB.
 
 ### Business Intelligence
@@ -252,11 +252,11 @@
 ### Editors / Runner
 
 *   [ace (⭐27k)](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
-*   [esprima (⭐408)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
-*   [quill (⭐43k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
+*   [esprima (⭐410)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+*   [quill (⭐45k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
 *   [pen (⭐4.8k)](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 *   [jquery-notebook (⭐1.7k)](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
-*   [ckeditor-releases (⭐519)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
+*   [ckeditor-releases (⭐522)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
 *   [editor (⭐2.8k)](https://github.com/lepture/editor) - A markdown editor. still on development.
 *   [EpicEditor (⭐4.2k)](https://github.com/OscarGodson/EpicEditor) - An embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more.
 *   [jsoneditor (⭐12k)](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit and format JSON.

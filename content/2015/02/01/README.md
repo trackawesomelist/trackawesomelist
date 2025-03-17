@@ -10,11 +10,11 @@
 
 ### Functional Programming
 
-*   [Domain modelling with the F# type system](http://vimeo.com/97507575) by **Scott Wlaschin** \[1:03:40]
+*   [Domain modelling with the F# type system](http://vimeo.com/97507575) by **Scott Wlaschin** (NDC 2014) \[1:03:40]
 
 ### Software Design
 
-*   [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** \[26.25]
+*   [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) by **Martin Fowler** (GOTO 2014) \[26.25]
 
 ## [2. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 
@@ -32,7 +32,7 @@
 
 ### Miscellaneous
 
-*   [Countries (⭐150)](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
+*   [Countries (⭐152)](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
 
 ---
 

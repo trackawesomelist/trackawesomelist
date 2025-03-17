@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 04, 2025
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,13 +18,34 @@
 
 *   [wsdjeg/flygrep.nvim (⭐8)](https://github.com/wsdjeg/flygrep.nvim) - Search text in a floating window asynchronously.
 
-## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [3. Awesome Cern](/content/CERN/awesome-cern/README.md)
+
+### Physics/mathematics analysis/simulation / Event Management
+
+*   [CAiMIRA (⭐17)](https://github.com/CERN/CAiMIRA/): CERN Airborne Model for Indoor Risk Assessment, a tool developed to assess and model the concentration of airborne viruses in enclosed spaces, specifically focusing on the SARS-CoV-2 virus. Documentation available [here](https://caimira.docs.cern.ch/).
+
+### Security / Event Management
+
+*   [pam\_2fa (⭐38)](https://github.com/CERN-CERT/pam_2fa): PAM 2FA module provides a second factor authentication, to be combined with the standard PAM-based password.
+
+### Libraries / Flask
+
+*   [flask-multipass (⭐62)](https://github.com/indico/flask-multipass): multi-backend authentication system for Flask
+*   [flask-pluginEngine (⭐24)](https://github.com/indico/flask-pluginengine/): a simple plugin system for Flask applications
+*   [js-flask-urls (⭐23)](https://github.com/indico/js-flask-urls): get Flask blueprint URLs in your JS apps, the clean way
+
+### Libraries / UI
+
+*   [react-jsx-i18N (⭐2)](https://github.com/indico/react-jsx-i18n): Gettext-enhanced React components
+*   [React-SearchKit (⭐82)](https://github.com/inveniosoftware/react-searchkit): React components library to build search interfaces.
+
+## [4. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Driver crates / Other
 
 *   [lcd\_parallel\_bus](https://crates.io/crates/lcd_parallel_bus) - GPIO - Async and blocking driver for LCDs based on HD44780 parallel bus - [![crates.io](https://img.shields.io/crates/v/lcd_parallel_bus)](https://crates.io/crates/lcd_parallel_bus)
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Tools
 
@@ -33,9 +54,8 @@
     *   for multiple implementations
     *   for Ubuntu, OSX and Windows.
     *   Example use: [Trial's CI (⭐1.1k)](https://github.com/Shirakumo/trial/blob/master/.github/workflows/examples.yml)
-*   another [GitHub CI example from cookiecutter-lisp-game (⭐29)](https://github.com/lockie/cookiecutter-lisp-game/blob/main/%7B%7Bcookiecutter.project_slug%7D%7D/.github/workflows/package.yml) to build binaries on the three platforms.
 
-## [5. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
+## [6. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
 
 ### Dependency Managers
 
@@ -108,19 +128,19 @@
 
 *   [ZamzamKit (⭐270)](https://github.com/basememara/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
 
-## [6. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+## [7. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### TypeScript
 
-*   [Devopness (⭐116)](https://github.com/devopness/devopness) *(label: good first issue)* <br> Devopness aims to drastically simplify the way we manage cloud applications and multi cloud infrastructure in a secure and productive way.
+*   [Devopness (⭐122)](https://github.com/devopness/devopness) *(label: good first issue)* <br> Devopness aims to drastically simplify the way we manage cloud applications and multi cloud infrastructure in a secure and productive way.
 
-## [7. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+## [8. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ### Video Production
 
 *   [vMix-EmberPlus (⭐3)](https://github.com/mattlamb99/vMix-EmberPlus) - vMix to EmberPlus gateway. Control vMix from any EmberPlus broadcast controller like Lawo's VSM or EVS's Cerebrum.
 
-## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -128,4 +148,5 @@
 
 ---
 
+- Prev: [Feb 05, 2025](/content/2025/02/05/README.md)
 - Next: [Feb 03, 2025](/content/2025/02/03/README.md)

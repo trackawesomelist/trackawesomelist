@@ -35,34 +35,21 @@
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐227) (⭐226)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
+*   [Gravitee.io API Management (⭐227) (⭐226)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐883) (⭐882)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 *   [OpenAPI Generator (⭐23k) (⭐23k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
 *   [OpenAPI Style Validator (⭐213) (⭐214)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 
-### Projects / API Documentation
-
-*   [Zudoku (⭐144) (⭐143)](https://github.com/zuplo/zudoku) - An open-source, OpenAPI powered, highly customizable API documentation framework for building quality developer experiences.
-
 ### Projects / BRE
 
-*   [Easy Rules (⭐5k) (⭐5k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
-
-### Projects / Integration Frameworks
-
-*   [Frank!Framework (⭐137) (⭐136)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
-
-### Projects / Self-Service Integration
-
-*   [n8n (⭐65k) (⭐65k)](https://github.com/n8n-io/n8n) - A self-hostable, open-source workflow automation tool with 400 pre-built connectors. Unlike proprietary cloud automation tools, n8n allows full control over data and workflows, making it ideal for privacy-conscious businesses.
+*   [Easy Rules (⭐5k) (⭐5k)](https://github.com/j-easy/easy-rules) - Lightweight Java-based rules engine designed for straightforward rule processing and rapid decision automation.
 
 ### Projects / Workflow engine
 
-*   [Bonita (⭐164) (⭐163)](https://github.com/bonitasoft/bonita-engine) - An open-source BPMN engine that comes with a designer and optional development environment, making it easier to build and automate complex business processes.
-*   [Prefect (⭐18k) (⭐18k)](https://github.com/PrefectHQ/prefect) - A modern, open‑source workflow orchestration tool optimized for data pipelines, offering a more developer‑friendly alternative to traditional schedulers.
+*   [Bonita (⭐164) (⭐163)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
+*   [Prefect (⭐18k) (⭐18k)](https://github.com/PrefectHQ/prefect) - Modern, developer-friendly orchestration tool optimized for data pipelines and complex workflows.
 
 ### Resources / API Specification
 
@@ -101,4 +88,5 @@
 
 ---
 
+- Prev: [Mar 10, 2025](/content/2025/03/10/README.md)
 - Next: [Mar 08, 2025](/content/2025/03/08/README.md)

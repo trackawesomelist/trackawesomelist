@@ -24,7 +24,6 @@
 ### Debug
 
 *   [CUTE](http://cute-test.com) - C++ Unit Testing Easier. \[LGPL3]
-*   [Mockator](http://www.mockator.com) - Eclipse CDT plug-in for C++ Seams and Mock Objects.
 
 ### Static Code Analysis
 

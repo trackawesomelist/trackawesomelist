@@ -20,7 +20,7 @@
 
 ### Models/Projects
 
-*   [MusicGenreClassification (⭐561)](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
+*   [MusicGenreClassification (⭐575)](https://github.com/mlachmish/MusicGenreClassification) - Classify music genre from a 10 second sound stream using a Neural Network.
 
 ## [3. Awesome Wagtail](/content/springload/awesome-wagtail/README.md)
 
@@ -45,7 +45,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Socialhome (⭐365)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐366)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ---
 

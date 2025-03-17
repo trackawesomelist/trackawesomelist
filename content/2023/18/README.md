@@ -44,11 +44,11 @@ Installs: 9 | Stars: 24 | Last update: 2 Jun 2024
 
 ### Software / Document Management
 
-*   [Stirling-PDF (⭐49k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
+*   [Stirling-PDF (⭐54k)](https://github.com/Frooodle/Stirling-PDF) - Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR. `Apache-2.0` `Docker/Java`
 
 ### Software / Note-taking & Editors
 
-*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐36k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
+*   [Memos](https://usememos.com/) - An open source, self-hosted knowledge base that works with a SQLite db file. ([Source Code (⭐38k)](https://github.com/usememos/memos)) `MIT` `Docker/Go`
 
 ### Software / Software Development - IDE & Tools
 
@@ -58,7 +58,7 @@ Installs: 9 | Stars: 24 | Last update: 2 Jun 2024
 
 ### Status Bar
 
-*   [tmux-transient-status (⭐16)](https://github.com/TheSast/tmux-transient-status) Automatically make your tmux status bar vanish when unneded.
+*   [tmux-transient-status (⭐17)](https://github.com/TheSast/tmux-transient-status) Automatically make your tmux status bar vanish when unneded.
 
 ## [7. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
@@ -131,13 +131,13 @@ Installs: 9 | Stars: 24 | Last update: 2 Jun 2024
 
 ## [13. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
-### DASH / Talks Presentations Podcasts
+### Adaptive Streaming & Manifest Tools / DASH Manifest Tools
 
-*   [dash-mpd-rs (⭐75)](https://github.com/emarsden/dash-mpd-rs)  - Rust library for parsing, serializing and downloading media content from a DASH MPD file.
+*   [dash-mpd-rs (⭐85)](https://github.com/emarsden/dash-mpd-rs)  - Rust library for parsing, serializing and downloading media content from a DASH MPD file.
 
 ## [14. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
-### IO Games
+### Games / IO Games
 
 *   [Wheat Farming](https://poki.com/en/g/wheat-farming) - Multiplayer farming game.
 
@@ -205,7 +205,7 @@ git checkout -- <file_name>
 
 ### Tools / Community providers
 
-*   [tpm (⭐79)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
+*   [tpm (⭐80)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 
 ## [22. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
@@ -215,7 +215,7 @@ git checkout -- <file_name>
 
 ### Ports to other languages
 
-*   [Langchain Go (⭐5.4k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
+*   [Langchain Go (⭐5.8k)](https://github.com/tmc/langchaingo): Golang Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/tmc/langchaingo?style=social)
 *   [LangchainRb (⭐1.6k)](https://github.com/andreibondarev/langchainrb): Ruby Langchain ![GitHub Repo stars](https://img.shields.io/github/stars/andreibondarev/langchainrb?style=social)
 
 ### Tools / Services
@@ -224,7 +224,7 @@ git checkout -- <file_name>
 
 ### Tools / Agents
 
-*   [SkyAGI (⭐771)](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
+*   [SkyAGI (⭐774)](https://github.com/litanlitudan/skyagi): Emerging human-behavior simulation capability in LLM agents ![GitHub Repo stars](https://img.shields.io/github/stars/litanlitudan/skyagi?style=social)
 
 ### Open Source Projects / Other / Chatbots
 
@@ -285,11 +285,11 @@ git checkout -- <file_name>
 
 ### Search / Diagnostics
 
-*   [AckslD/muren.nvim (⭐360)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
+*   [AckslD/muren.nvim (⭐362)](https://github.com/AckslD/muren.nvim/) - Multiple replacements through interactive UI.
 
 ### File Explorer / Diagnostics
 
-*   [kelly-lin/ranger.nvim (⭐157)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐16k)](https://github.com/ranger/ranger) integration for Neovim.
+*   [kelly-lin/ranger.nvim (⭐165)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐16k)](https://github.com/ranger/ranger) integration for Neovim.
 
 ### Comment / Diagnostics
 
@@ -297,34 +297,34 @@ git checkout -- <file_name>
 
 ### Indent / Diagnostics
 
-*   [nvimdev/indentmini.nvim (⭐220)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide API.
+*   [nvimdev/indentmini.nvim (⭐226)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using nvim\_set\_decoration\_provide API.
 
 ### Workflow / Diagnostics
 
 *   [m4xshen/hardtime.nvim (⭐1.7k)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
-*   [antonk52/bad-practices.nvim (⭐106)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
+*   [antonk52/bad-practices.nvim (⭐107)](https://github.com/antonk52/bad-practices.nvim) - Helping you give up bad practices in Vim.
 
 ### Starter Templates / Diagnostics
 
-*   [tokiory/neovim-boilerplate (⭐98)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
-*   [frans-johansson/lazy-nvim-starter (⭐90)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
+*   [tokiory/neovim-boilerplate (⭐103)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
+*   [frans-johansson/lazy-nvim-starter (⭐91)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
 
 ## [27. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-packagemanager (⭐1)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐67k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
+*   [fzf-packagemanager (⭐1)](https://github.com/goarano/zsh-fzf-packagemanager) - Adds commands for installing tools via various package managers using [fzf (⭐68k)](https://github.com/junegunn/fzf). Supports `apt`, `brew` & `dnf`.
 *   [lazy-load (⭐3)](https://github.com/goarano/zsh-lazy-load) - Lazy load tab completions only when you actually need them.
 *   [oh-my-tmux-manager](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/omt-manager) - Lets you easily manage your tmux configurations.
 *   [pipe (⭐0)](https://github.com/pipe-felipe/zsh-pipe-plugin) - Includes `docker` and package-related scripts.
 *   [ssh-quickconnect (⭐1)](https://github.com/breda/zsh-ssh-quickconnect) - Simple utility to quickly connect to hosts from your `ssh` config & `known_hosts` file.
-*   [zgenom-ext-eval (⭐4)](https://github.com/jandamm/zgenom-ext-eval/) - [zgenom (⭐374)](https://github.com/jandamm/zgenom) extension for creating plugins inline.
+*   [zgenom-ext-eval (⭐4)](https://github.com/jandamm/zgenom-ext-eval/) - [zgenom (⭐381)](https://github.com/jandamm/zgenom) extension for creating plugins inline.
 
 ## [28. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
-*   [samber/slog-fiber (⭐68)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
+*   [samber/slog-fiber (⭐70)](https://github.com/samber/slog-fiber) - A logger middleware that uses Go slog library.
 
 ## [29. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 

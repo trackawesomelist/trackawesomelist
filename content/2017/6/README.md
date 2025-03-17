@@ -26,7 +26,7 @@
 
 ### Computer History
 
-*   [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by **Robert C. Martin** \[01:18:20]
+*   [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by **Robert C. Martin** (X/UP 2016) \[01:18:20]
 
 ## [4. Awesome Eta](/content/sfischer13/awesome-eta/week/README.md)
 
@@ -38,7 +38,7 @@
 
 ### services
 
-*   [featureserver (⭐101)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
+*   [featureserver (⭐106)](https://github.com/featureserver/featureserver): An open source Esri-Style Feature Server
 
 ## [6. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
@@ -74,7 +74,7 @@
 
 ### Libraries / GUI
 
-*   [saurvs/nfd-rs (⭐158)](https://github.com/saurvs/nfd-rs) - [nativefiledialog (⭐1.8k)](https://github.com/mlabbe/nativefiledialog) bindings
+*   [saurvs/nfd-rs (⭐156)](https://github.com/saurvs/nfd-rs) - [nativefiledialog (⭐1.8k)](https://github.com/mlabbe/nativefiledialog) bindings
 
 ## [10. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/week/README.md)
 
@@ -157,7 +157,7 @@
 
 ### Models/Projects
 
-*   [AlexNet3D (⭐43)](https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).
+*   [AlexNet3D (⭐42)](https://github.com/denti/AlexNet3D) - An implementations of AlexNet3D. Simple AlexNet model but with 3D convolutional layers (conv3d).
 
 ## [20. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
@@ -167,7 +167,7 @@
 
 ### Tools/Debugging / Chrome Specific Tools/Debugger
 
-*   [Webgl Insight (⭐907)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
+*   [Webgl Insight (⭐913)](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
 
 ### References / Firefox Specific Tools/Debugger
 
@@ -238,7 +238,7 @@
 
 ### Mocking / Symfony2
 
-*   [Request Baskets (⭐362)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
+*   [Request Baskets (⭐367)](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ## [29. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
 
@@ -324,7 +324,7 @@
 
 ### Templating
 
-*   [exgen (⭐35)](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
+*   [exgen](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
 
 ### Third Party APIs
 
@@ -457,7 +457,7 @@
 
 ### Machine Learning
 
-*   [mlpack (⭐5.2k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
+*   [mlpack (⭐5.3k)](https://github.com/mlpack/mlpack) - A scalable c++ machine learning library. \[LGPLv3] [website](http://www.mlpack.org/)
 
 ---
 

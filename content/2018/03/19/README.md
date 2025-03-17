@@ -40,7 +40,7 @@
 
 ### Development tools / Web Servers
 
-*   [ptags (⭐127)](https://github.com/dalance/ptags) - A parallel universal-ctags wrapper for git repository
+*   [ptags (⭐130)](https://github.com/dalance/ptags) - A parallel universal-ctags wrapper for git repository
 
 ## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Models/Projects
 
-*   [Kubeflow (⭐14k)](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
+*   [Kubeflow (⭐15k)](https://github.com/kubeflow/kubeflow) - Framework for easily using Tensorflow with Kubernetes.
 
 ## [9. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
@@ -96,7 +96,7 @@
 
 ### CMS
 
-*   [Fae (⭐849)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+*   [Fae (⭐851)](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 
 ---
 

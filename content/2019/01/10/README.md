@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 10, 2019
 
-5 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -56,13 +56,7 @@
 *   [Jackie Luo: From React to Ember: A Modern Comparison](https://www.youtube.com/watch?v=7yxr4iBrZsw)
 *   [The Future of Ember js](https://www.youtube.com/watch?v=4b9VbB2bnfw) - Summary of upcoming changes to Ember.js based on presentations from EmberConf 2018.
 
-## [4. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Utility / Barcode
-
-*   [ZamzamKit (⭐270)](https://github.com/ZamzamInc/ZamzamKit) - A collection of micro utilities and extensions for Standard Library, Foundation and UIKit.
-
-## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
+## [4. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ### Resources in Other Languages / Japanese
 

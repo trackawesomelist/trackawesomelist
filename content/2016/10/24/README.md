@@ -58,14 +58,14 @@ Webpage: (duasdeletra.pt)\[<http://duasdeletra.pt/>]
 
 ### Tutorials
 
-*   [Classification on time series (⭐3.3k)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
+*   [Classification on time series (⭐3.4k)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - Recurrent Neural Network classification in TensorFlow with LSTM on cellphone sensor data
 
 ### Models/Projects
 
 *   [DQN-tensorflow (⭐2.5k)](https://github.com/devsisters/DQN-tensorflow) - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
-*   [Highway Network (⭐57)](https://github.com/fomorians/highway-cnn) - TensorFlow implementation of ["Training Very Deep Networks"](http://arxiv.org/abs/1507.06228) with a [blog post](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27)
-*   [Sentence Classification with CNN (⭐5.6k)](https://github.com/dennybritz/cnn-text-classification-tf) - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
-*   [Character-Aware Neural Language Models (⭐761)](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
+*   [Highway Network (⭐56)](https://github.com/fomorians/highway-cnn) - TensorFlow implementation of ["Training Very Deep Networks"](http://arxiv.org/abs/1507.06228) with a [blog post](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27)
+*   [Sentence Classification with CNN (⭐5.7k)](https://github.com/dennybritz/cnn-text-classification-tf) - TensorFlow implementation of ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) with a [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
+*   [Character-Aware Neural Language Models (⭐768)](https://github.com/carpedm20/lstm-char-cnn-tensorflow) - TensorFlow implementation of [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
 *   [YOLO TensorFlow ++ (⭐6.1k)](https://github.com/thtrieu/yolotf) - TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices.
 
 ## [7. Awesome Vehicle Security](/content/jaredthecoder/awesome-vehicle-security/README.md)
@@ -107,7 +107,7 @@ git diff --ignore-all-space | git apply --cached
 
 ### Distributed Filesystem
 
-*   [Baidu File System (⭐2.8k)](https://github.com/baidu/bfs) - distributed filesystem.
+*   [Baidu File System (⭐2.9k)](https://github.com/baidu/bfs) - distributed filesystem.
 
 ## [10. Vertx Awesome](/content/vert-x3/vertx-awesome/README.md)
 

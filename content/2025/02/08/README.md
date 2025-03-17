@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 08, 2025
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,7 +10,7 @@
 
 ### Productivity
 
-*   [STranslate (⭐2.8k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+*   [STranslate (⭐3.2k)](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed with WPF ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg) ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -22,12 +22,12 @@
 
 ### Software / Analytics
 
-*   [ghstats (⭐134)](https://github.com/vladkens/ghstats) `⚠` - Dashboard for tracking GitHub repos traffic history longer than 14 days. `MIT` `Docker`
+*   [ghstats (⭐142)](https://github.com/vladkens/ghstats) `⚠` - Dashboard for tracking GitHub repos traffic history longer than 14 days. `MIT` `Docker`
 
 ### Software / Automation
 
-*   [BookBounty (⭐156)](https://github.com/TheWicklowWolf/BookBounty) `⚠` - Retrieve missing Readarr books from Library Genesis. `MPL-2.0` `Docker`
-*   [Lidify (⭐190)](https://github.com/TheWicklowWolf/Lidify) `⚠` - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM. `MIT` `Docker`
+*   [BookBounty (⭐184)](https://github.com/TheWicklowWolf/BookBounty) `⚠` - Retrieve missing Readarr books from Library Genesis. `MPL-2.0` `Docker`
+*   [Lidify (⭐256)](https://github.com/TheWicklowWolf/Lidify) `⚠` - Music discovery tool that provides recommendations based on selected Lidarr artists, using Spotify or LastFM. `MIT` `Docker`
 
 ### Software / Communication - Custom Communication Systems
 
@@ -35,15 +35,15 @@
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [AirTrail](https://airtrail.johan.ohly.dk) - A personal flight tracking system. ([Source Code (⭐388)](https://github.com/johanohly/AirTrail)) `GPL-3.0` `Docker/Nodejs`
+*   [AirTrail](https://airtrail.johan.ohly.dk) - A personal flight tracking system. ([Source Code (⭐426)](https://github.com/johanohly/AirTrail)) `GPL-3.0` `Docker/Nodejs`
 
 ### Software / Miscellaneous
 
-*   [Wakupator (⭐134)](https://github.com/Gibus21250/Wakupator) - Wake On LAN Machine Manager based on network traffic. `MIT` `C`
+*   [Wakupator (⭐137)](https://github.com/Gibus21250/Wakupator) - Wake On LAN Machine Manager based on network traffic. `MIT` `C`
 
 ### Software / Status / Uptime pages
 
-*   [kener](https://kener.ing/) - Status page with incident management, easy to use and customize. ([Demo](https://kener.ing/), [Source Code (⭐3k)](https://github.com/rajnandan1/kener)) `MIT` `Nodejs/Docker`
+*   [kener](https://kener.ing/) - Status page with incident management, easy to use and customize. ([Demo](https://kener.ing/), [Source Code (⭐3.5k)](https://github.com/rajnandan1/kener)) `MIT` `Nodejs/Docker`
 
 ## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
@@ -53,9 +53,27 @@
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-compile (⭐91)](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
+*   [angular-compile (⭐90)](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
 
-## [5. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [5. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+
+### Index / AI
+
+*   [Timefold](https://timefold.ai/) 🇧🇪 - Planning AI / constraint solver for optimization problems
+
+### Index / VPS
+
+*   [Scaleway](https://www.scaleway.com) 🇫🇷
+
+### Index / DNS
+
+*   [Quad9](https://quad9.net/) 🇨🇭
+
+### Index / Sustainability and Recycling
+
+*   [Orbisk](https://orbisk.com/) 🇳🇱 - AI-powered tools to reduce food waste.
+
+## [6. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### Unit Test, Testing / Apache License
 
@@ -69,12 +87,13 @@
 
 *   [ada-lisp-embedded (⭐3)](https://github.com/BrentSeidel/Ada-Lisp-Embedded) - Embeddable Lisp interpreter.
 
-## [6. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+## [7. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### TypeScript
 
-*   [IterTools TS (⭐55)](https://github.com/Smoren/itertools-ts) *(label: good first issue)* <br> Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+*   [IterTools TS (⭐57)](https://github.com/Smoren/itertools-ts) *(label: good first issue)* <br> Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
 ---
 
+- Prev: [Feb 09, 2025](/content/2025/02/09/README.md)
 - Next: [Feb 07, 2025](/content/2025/02/07/README.md)

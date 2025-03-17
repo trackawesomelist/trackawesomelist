@@ -561,11 +561,11 @@
 
 ### Functional Programming
 
-*   [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by **Dr. Brian Beckman** \[1:07:10]
+*   [Don't fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) by **Dr. Brian Beckman** (Channel 9 2012) \[1:07:10]
 
 ### Computer History
 
-*   [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** \[46:00]
+*   [A Brief History of Graphics](https://www.youtube.com/playlist?list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f) by **Stuart Brown** (YouTube/Ahoy 2014) \[46:00]
 
 ## [7. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 

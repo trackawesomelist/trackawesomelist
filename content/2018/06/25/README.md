@@ -35,7 +35,7 @@
 
 ### Templates / Preferences
 
-*   [Mates (⭐592)](https://github.com/CodemateLtd/FlutterMates) <!--stargazers:CodemateLtd/FlutterMates--> - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
+*   [Mates (⭐594)](https://github.com/CodemateLtd/FlutterMates) <!--stargazers:CodemateLtd/FlutterMates--> - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
 *   [UI Kit (⭐6.2k)](https://github.com/iampawan/Flutter-UI-Kit) <!--stargazers:iampawan/Flutter-UI-Kit--> - Collection of useful UIs in a UIKit by [Pawan Kumar](https://github.com/iampawan)
 
 ### Device / Augmented Reality
@@ -48,7 +48,7 @@
 
 ### Top / Game Engine resources
 
-*   [Planets (⭐754)](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
+*   [Planets (⭐755)](https://github.com/sergiandreplace/flutter_planets_tutorial) <!--stargazers:sergiandreplace/flutter_planets_tutorial--> - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 
 ### Utilities / Game Engine resources
 
@@ -82,7 +82,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [mlens (⭐849)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
+*   [mlens (⭐847)](https://github.com/flennerhag/mlens) - A high performance, memory efficient, maximally parallelized ensemble learning, integrated with scikit-learn.
 
 ## [8. Awesome Aurelia](/content/aurelia-contrib/awesome-aurelia/README.md)
 
@@ -114,7 +114,7 @@
 
 ### Packages / Mad science
 
-*   [Brain.js (⭐14k)](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+*   [Brain.js (⭐15k)](https://github.com/BrainJS/brain.js) - Machine-learning framework.
 
 ## [13. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

@@ -59,7 +59,7 @@
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [embla-carousel-angular (⭐25)](https://github.com/donaldxdonald/embla-carousel-angular) - Angular wrapper for [Embla Carousel (⭐6.6k)](https://github.com/davidjerleke/embla-carousel).
+*   [embla-carousel-angular (⭐26)](https://github.com/donaldxdonald/embla-carousel-angular) - Angular wrapper for [Embla Carousel (⭐6.7k)](https://github.com/davidjerleke/embla-carousel).
 
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

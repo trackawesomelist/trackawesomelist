@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 16, 2018
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,13 @@
 
 *   [kern (⭐235)](https://github.com/blancas/kern)
 
-## [3. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Raspberry Pi / Tornado
+
+*   [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read) - Malcolm Maclean (HTML)
+
+## [4. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 
 ### Network
 
@@ -34,26 +40,26 @@
 
 *   [micrometer (⭐3.6k)](https://github.com/micrometer-metrics/micrometer) - An application metrics facade for the most popular monitoring tools.
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Others / Email
 
 *   [Postmaster (⭐11)](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
-## [5. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
+## [6. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md)
 
 ### Containers
 
 *   [plash (⭐367)](https://github.com/ihucos/plash/)\
     Lightweight, rootless containers.
 
-## [6. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [7. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### Others
 
 *   [Stored XSS, and SSRF in Google using the Dataset Publishing Language](https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html) - Written by [@signalchaos](https://twitter.com/signalchaos).
 
-## [7. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
+## [8. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md)
 
 ### Malware Collection / Honeypots
 

@@ -16,7 +16,7 @@
 
 ### (requires Neovim 0.5)
 
-*   [alexpasmantier/pymple.nvim (⭐97)](https://github.com/alexpasmantier/pymple.nvim) - Refactor Python imports on file move/rename.
+*   [alexpasmantier/pymple.nvim (⭐106)](https://github.com/alexpasmantier/pymple.nvim) - Refactor Python imports on file move/rename.
 
 ## [3. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
@@ -137,9 +137,7 @@
 ### Video Utilities
 
 *   [HandBrake](https://handbrake.fr/) - Converts videos between formats with compression options. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/HandBrake/HandBrake)
-*   [K-Lite Codecs](https://www.codecguide.com/download_kl.htm) - Adds support for playing most video and audio formats.
 *   [PotPlayer](https://potplayer.daum.net/) - Media player with hardware acceleration and streaming capabilities.
-*   [Videotape](https://usuaia.com/videotape) - Plays videos with minimal interface and controls.
 
 ### Virtualization
 
@@ -153,7 +151,7 @@
 
 ### Images
 
-*   [imagor (⭐3.5k)](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
+*   [imagor (⭐3.6k)](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
 
 ## [5. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
@@ -180,38 +178,38 @@
 
 ### Helpers
 
-*   [SceneMan (⭐0)](https://github.com/KINGTUT10101/SceneMan) - A simple, but powerful scene/gamestate manager that uses a stack, allowing you to run multiple scenes at once.
+*   [SceneMan (⭐2)](https://github.com/KINGTUT10101/SceneMan) - A simple, but powerful scene/gamestate manager that uses a stack, allowing you to run multiple scenes at once.
 
 ### UI
 
-*   [TuxRedux (⭐2)](https://github.com/KINGTUT10101/TuxRedux) - An immediate-mode UI system for LOVE2D inspired by SUIT.
+*   [TuxRedux (⭐3)](https://github.com/KINGTUT10101/TuxRedux) - An immediate-mode UI system for LOVE2D inspired by SUIT.
 
 ### Utilities
 
-*   [andromeda (⭐2)](https://github.com/itzKiwiSky/Andromeda) - Asset database and loader for love.
+*   [andromeda (⭐3)](https://github.com/itzKiwiSky/Andromeda) - Asset database and loader for love.
 *   [KeyedArray (⭐0)](https://github.com/KINGTUT10101/KeyedArray) - A special data structure where items can be found by their position or key. Similar to an ordered dictionary.
 *   [LuaRequireExtended (⭐1)](https://github.com/KINGTUT10101/LuaRequireExtended) - A Lua module that lets you require files with input parameters and multiple output values.
 
 ### Distribution
 
-*   [lovesfx (⭐7)](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
-*   [love-build (⭐30)](https://github.com/ellraiser/love-build) - Downloadable application (made in LÖVE!) that can build games for Windows, macOS, and Linux regardless of your own OS.
+*   [lovesfx (⭐9)](https://github.com/tpimh/lovesfx) - Packs love games in a single file for windows.
+*   [love-build (⭐33)](https://github.com/ellraiser/love-build) - Downloadable application (made in LÖVE!) that can build games for Windows, macOS, and Linux regardless of your own OS.
 
 ## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [litlyx (⭐874)](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
+*   [litlyx (⭐1.1k)](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
 
 ### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ionic-angular-library (⭐5)](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
+*   [ionic-angular-library (⭐7)](https://github.com/rdlabo-team/ionic-angular-library) - A collection of components and services that are useful for developing Ionic Angular applications.
 
 ## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [fzf-plugin (⭐0)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐175k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
+*   [fzf-plugin (⭐1)](https://github.com/Atlas34/fzf-plugin) - [oh-my-zsh (⭐177k)](https://github.com/ohmyzsh/ohmyzsh)'s `fzf` plugin extracted so it can be used easily with other plugin managers.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

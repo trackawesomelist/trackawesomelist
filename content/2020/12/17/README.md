@@ -36,7 +36,7 @@
 
 ### Debugging
 
-*   [extrace (⭐58)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
+*   [extrace (⭐59)](https://github.com/redink/extrace) - Elixir wrapper for Recon Trace.
 
 ## [6. Awesome Cryptography](/content/sobolevn/awesome-cryptography/README.md)
 
@@ -46,7 +46,7 @@
 
 ## [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
-### Community / Interfaces to other package managers
+### Interfaces to other package managers
 
 *   [flatpack-common-lisp](https://gitlab.com/ralph-schleicher/flatpak-common-lisp) - A BuildStream project for building Flatpak based runtime environments for Common Lisp applications.
 
@@ -58,7 +58,7 @@
 ### Apps / Third-party APIs
 
 *   [cl-phonetic (⭐25)](https://github.com/bgutter/cl-phonetic) - Phonetic pattern matching library for Common Lisp (intended to replace the Sylvia library for Python). [MIT](https://opensource.org/licenses/MIT).
-*   [cl-string-generator (⭐24)](https://github.com/pokepay/cl-string-generator) -  Generate string from regular expression. [MIT](https://opensource.org/licenses/MIT).
+*   [cl-string-generator (⭐23)](https://github.com/pokepay/cl-string-generator) -  Generate string from regular expression. [MIT](https://opensource.org/licenses/MIT).
 
 ### Plotting / Third-party APIs
 
@@ -135,7 +135,7 @@ To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has 
 
 ### Back-end API / Playground
 
-*   :octocat: [ZenTS (⭐36)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications
+*   :octocat: [ZenTS (⭐34)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications
 
 ## [12. Awesome Codepoints](/content/Codepoints/awesome-codepoints/README.md)
 

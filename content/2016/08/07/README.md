@@ -43,7 +43,7 @@
 
 ### Files / Runner
 
-*   [jsPDF (⭐29k)](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
+*   [jsPDF (⭐30k)](https://github.com/MrRio/jsPDF) - JavaScript PDF generation.
 
 ### Boilerplates / Other
 

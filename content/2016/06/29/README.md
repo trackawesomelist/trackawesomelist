@@ -40,7 +40,7 @@
 
 ### Packages / Command-line apps
 
-*   [jscpd (⭐4.7k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+*   [jscpd (⭐4.8k)](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 
 ## [7. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 

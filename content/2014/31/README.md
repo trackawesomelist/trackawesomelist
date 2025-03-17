@@ -42,8 +42,8 @@
 
 *   [Allen Downey’s Data Science Course (⭐44)](https://github.com/AllenDowney/DataScience) - Code for Data Science at Olin College, Spring 2014.
 *   [Allen Downey’s Think Bayes Code (⭐1.7k)](https://github.com/AllenDowney/ThinkBayes) - Code repository for Think Bayes.
-*   [Allen Downey’s Think Complexity Code (⭐101)](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
-*   [Allen Downey’s Think OS Code (⭐555)](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
+*   [Allen Downey’s Think Complexity Code (⭐104)](https://github.com/AllenDowney/ThinkComplexity) - Code for Allen Downey's book Think Complexity.
+*   [Allen Downey’s Think OS Code (⭐556)](https://github.com/AllenDowney/ThinkOS) - Text and supporting code for Think OS: A Brief Introduction to Operating Systems.
 
 ## [3. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/week/README.md)
 
@@ -295,7 +295,6 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Online Compiler
 
-*   [codepad](http://codepad.org/) - An online compiler/interpreter, and a simple collaboration tool.
 *   [Ideone](http://ideone.com/) - An online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 
 ### Debugger
@@ -336,7 +335,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### MVC Frameworks and Libraries / Runner
 
 *   [thorax (⭐1.3k)](https://github.com/walmartlabs/thorax) - Strengthening your Backbone.
-*   [chaplin (⭐2.9k)](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
+*   [chaplin (⭐2.8k)](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
 *   [marionette (⭐7.1k)](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.
 
 ### Functional Programming / Runner
@@ -350,11 +349,11 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### Voice Command / Runner
 
 *   [annyang (⭐6.6k)](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
-*   [voix.js (⭐567)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+*   [voix.js (⭐593)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 ### API / Runner
 
-*   [bottleneck (⭐1.8k)](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
+*   [bottleneck (⭐1.9k)](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 *   [oauth-signature-js (⭐232)](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 
 ## [21. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
@@ -365,7 +364,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Distributed Programming
 
-*   [AddThis Hydra (⭐438)](https://github.com/addthis/hydra) - distributed data processing and storage system originally developed at AddThis.
+*   [AddThis Hydra (⭐434)](https://github.com/addthis/hydra) - distributed data processing and storage system originally developed at AddThis.
 *   [Apache DataFu](http://incubator.apache.org/projects/datafu.html) - collection of user-defined functions for Hadoop and Pig developed by LinkedIn.
 *   [DataTorrent StrAM](https://www.datatorrent.com/) - real-time engine is designed to enable distributed, asynchronous, real time in-memory big-data computations in as unblocked a way as possible, with minimal overhead and impact on performance.
 
@@ -385,7 +384,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### NewSQL Databases
 
 *   [Actian Ingres](http://www.actian.com/products/operational-databases/) - commercially supported, open-source SQL relational database management system.
-*   [Cockroach (⭐27k)](https://github.com/cockroachdb/cockroach) - Scalable, Geo-Replicated, Transactional Datastore.
+*   [Cockroach (⭐30k)](https://github.com/cockroachdb/cockroach) - Scalable, Geo-Replicated, Transactional Datastore.
 *   [Datomic](http://www.datomic.com/) - distributed database designed to enable scalable, flexible and intelligent applications.
 *   [FoundationDB](https://foundationdb.com/) - distributed database, inspired by F1.
 *   [Oracle TimesTen in-Memory Database](http://www.oracle.com/technetwork/database/database-technologies/timesten/overview/index.html) - in-memory, relational database management system with persistence and recoverability.
@@ -402,11 +401,11 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### Data Ingestion
 
 *   [Heka (⭐3.4k)](https://github.com/mozilla-services/heka) - open source stream processing software system.
-*   [LinkedIn White Elephant (⭐190)](https://github.com/linkedin/white-elephant) - log aggregator and dashboard.
+*   [LinkedIn White Elephant (⭐191)](https://github.com/linkedin/white-elephant) - log aggregator and dashboard.
 
 ### Service Programming
 
-*   [Spotify Luigi (⭐17k)](https://github.com/spotify/luigi) - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
+*   [Spotify Luigi (⭐18k)](https://github.com/spotify/luigi) - a Python package for building complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 
 ### Scheduling
 
@@ -452,7 +451,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### Data Visualization
 
 *   [Cytoscape](http://cytoscape.github.io/) - JavaScript library for visualizing complex networks.
-*   [Freeboard (⭐6.4k)](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
+*   [Freeboard (⭐6.5k)](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
 *   [Google Charts](https://developers.google.com/chart/) - simple charting API.
 *   [Peity (⭐4.2k)](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
 
@@ -469,11 +468,11 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 
 ### Packages / Math
 
-*   [mathjs (⭐14k)](https://github.com/josdejong/mathjs) - An extensive math library.
+*   [mathjs (⭐15k)](https://github.com/josdejong/mathjs) - An extensive math library.
 
 ### Packages / Compression
 
-*   [tar-stream (⭐416)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐351)](https://github.com/mafintosh/tar-fs).
+*   [tar-stream (⭐420)](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs (⭐354)](https://github.com/mafintosh/tar-fs).
 
 ## [23. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
@@ -489,7 +488,7 @@ Run `brew install provisionql` or [download manually (⭐2.1k)](https://github.c
 ### General
 
 *   [(Functional) Alternatives to inheritance](http://ocamltutorials.blogspot.se/2013/06/alternatives-to-subtyping.html)
-*   [camlPDF (⭐201)](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
+*   [camlPDF (⭐204)](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
 
 ## [24. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 

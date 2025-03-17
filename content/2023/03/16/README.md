@@ -16,7 +16,7 @@
 
 ### Video
 
-*   [VideoInfo (⭐430)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
+*   [VideoInfo (⭐433)](https://github.com/thibaudgg/video_info) - Get video info from Dailymotion, Vimeo, Wistia, and YouTube URLs.
 
 ## [3. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
@@ -61,10 +61,6 @@
 
 *   [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people
 
-### Remote / Aggregator
-
-*   [MarketRemotely](https://marketremotely.com/) - Remote marketing jobs from all over the internet
-
 ## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Audio
@@ -87,13 +83,13 @@
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [kali-like (⭐28)](https://github.com/clamy54/kali-like-zsh-theme) - Inspired by the Kali Linux default ZSH theme. Includes decorators for user\@host, current directory and `git` information.
+*   [kali-like (⭐32)](https://github.com/clamy54/kali-like-zsh-theme) - Inspired by the Kali Linux default ZSH theme. Includes decorators for user\@host, current directory and `git` information.
 
 ## [12. Awesome Algorand](/content/aorumbayev/awesome-algorand/README.md)
 
 ### Languages / Go
 
-*   [conduit (⭐38)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
+*   [conduit (⭐39)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
 
 ---
 

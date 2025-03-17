@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 02, 2018
 
-16 awesome lists updated today.
+17 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -76,11 +76,11 @@
 
 ## [9. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / Test Management
 
-*   [TestLink (⭐1.4k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open Source test case management system
+*   [TestLink (⭐1.4k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 
-### Books / Other
+### Books / Mind Mapping & Documentation
 
 *   [The Scrum Field Guide, Agile advice for your first year and beyond](https://amzn.to/2OERKEm) - Why you might want to move your company to Agile and great practical advice on how to do it.
 *   [Fifty quick ideas to improve your Tests](https://amzn.to/2AzMUF7) - Great illustrative examples on how to improve tests and why you should do them. Great as evidence for winning arguments!
@@ -127,7 +127,13 @@
 *   [inconvergent](http://buy.inconvergent.net)
 *   [Michael Fogleman](https://www.michaelfogleman.com/plotter)
 
-## [14. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
+## [14. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Scratch / Play Scala
+
+*   [An Introductory Computing Curriculum Using Scratch](http://scratched.gse.harvard.edu/guide/download.html) (HTML)
+
+## [15. Awesome Vapor](/content/vapor-community/awesome-vapor/README.md)
 
 ### Libraries
 
@@ -135,13 +141,13 @@
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [MailCore (⭐80)](https://github.com/LiveUI/MailCore) – Sending e-mails via SMTP, MailGun and SendGrid.
 *   ![v3](https://github.com/vapor-community/awesome-vapor/raw/main/img/vapor-3.png) [XMLCoding (⭐8)](https://github.com/LiveUI/XMLCoding) – XML encoder and decoder.
 
-## [15. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
+## [16. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
 ### Companies / F companies
 
 *   Feedzai <https://medium.com/feedzaitech>
 
-## [16. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
+## [17. Awesome Cassandra](/content/Anant/awesome-cassandra/README.md)
 
 ### Tools / Custom Time Series
 

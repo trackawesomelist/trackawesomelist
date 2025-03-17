@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 25 - Oct 01, 2017
 
-45 awesome lists updated this week.
+46 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -303,10 +303,6 @@
 
 ## [27. Awesome Webgl](/content/sjfricke/awesome-webgl/week/README.md)
 
-### Maps and Visualizations / Particles
-
-*   [xeogl](http://xeogl.org/) - Data-driven 3D visualization engine on WebGL.
-
 ### Others / Particles
 
 *   [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
@@ -322,7 +318,7 @@
 
 ### Models/Projects
 
-*   [Unsupervised Object Counting (⭐82)](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
+*   [Unsupervised Object Counting (⭐81)](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
 
 ## [30. Awesome Composer](/content/jakoch/awesome-composer/week/README.md)
 
@@ -363,7 +359,7 @@
 
 ### Infrastructure
 
-*   [Fastly Extension (⭐150)](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
+*   [Fastly Extension (⭐151)](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
 
 ### List of trustworthy Extension Developers / Progressive Web Application
 
@@ -465,7 +461,25 @@
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/hbase)
 *   [Twitter](https://twitter.com/HBase)
 
-## [42. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [42. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### C# / Non-X86
+
+*   [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) - Bruno Preiss *(:card\_file\_box: archived)*
+
+### Go / Phoenix
+
+*   [Let's learn Go!](http://go-book.readthedocs.io/en/latest/) (CC BY-NC-SA)
+
+### TrueOS / PicoLisp
+
+*   [TrueOS® Users Handbook](https://www.trueos.org/handbook/trueos.html)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
+
+## [43. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
@@ -473,21 +487,21 @@
 
 ### CLI Utilities
 
-*   [TablePrint (⭐903)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
+*   [TablePrint (⭐904)](https://github.com/arches/table_print) - Slice your data from multiple DB tables into a single CLI view.
 
-## [43. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
+## [44. Awesome No Login Web Apps](/content/aviaryan/awesome-no-login-web-apps/week/README.md)
 
 ### Graphics, Image and Design / Others
 
 *   [Flaming Text](http://flamingtext.com/) - An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.
 
-## [44. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
+## [45. Awesome Speaking](/content/matteofigus/awesome-speaking/week/README.md)
 
 ### Videos
 
 *   [Bringing Your Full Voice to Life](https://www.youtube.com/watch?v=Ze763kgrWGg) -  by **Barbara McAfee** \[19:07]
 
-## [45. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [46. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Open Source Threat Intelligence / Tools
 

@@ -30,9 +30,6 @@
 
 *   bracket-lib (previously RLTK)
     *   [bracket-lib (⭐1.6k)](https://github.com/amethyst/bracket-lib) \[[bracket-lib](https://crates.io/crates/bracket-lib)] - The Roguelike Toolkit (RLTK). [![Rust](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml/badge.svg)](https://github.com/amethyst/bracket-lib/actions/workflows/rust.yml)
-*   Tcod-rs
-    *   [tomassedovic/tcod-rs (⭐229)](https://github.com/tomassedovic/tcod-rs) - Libtcod bindings.
-    *   Warning: Not maintained anymore
 
 ## [5. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -60,7 +57,7 @@
 
   Designers Kit: 
 
-  Source code \*: [:octocat: (⭐559)](https://github.com/mineral-ui/mineral-ui)
+  Source code \*: [:octocat: (⭐560)](https://github.com/mineral-ui/mineral-ui)
 
 
 - : [City of Boston Fleet](https://patterns.boston.gov/)
@@ -90,7 +87,7 @@
 
 ### Software / Document Management - E-books
 
-*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://www.kavitareader.com/#demo), [Source Code (⭐7k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
+*   [Kavita](https://www.kavitareader.com/) - Cross-platform e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. ([Demo](https://www.kavitareader.com/#demo), [Source Code (⭐7.3k)](https://github.com/Kareadita/Kavita)) `GPL-3.0` `.NET/Docker`
 
 ## [8. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 

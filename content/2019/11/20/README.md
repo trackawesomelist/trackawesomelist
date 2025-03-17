@@ -73,7 +73,7 @@
 
 ### Software / Archiving and Digital Preservation (DP)
 
-*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐4.5k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
+*   [CKAN](https://ckan.org) - CKAN is a tool for making open data websites. ([Source Code (⭐4.6k)](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 
 ## [9. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

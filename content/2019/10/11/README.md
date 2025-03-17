@@ -38,7 +38,7 @@
 
 ### Software / Personal Dashboards
 
-*   [Homer (⭐9.6k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
+*   [Homer (⭐9.8k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
 
 ## [5. Awesome Hacking](/content/carpedm20/awesome-hacking/README.md)
 
@@ -87,7 +87,6 @@
 ### Standards / CSV <-> JSON
 
 *   [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - A [Data Resource](http://frictionlessdata.io/specs/data-resource/) specialized for describing tabular data like CSV files or spreadsheets
-*   [CSVY](https://csvy.org/) - A standard for adding a YAML header to CSV files to describe their format
 
 ## [10. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 

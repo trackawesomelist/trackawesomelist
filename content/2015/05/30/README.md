@@ -32,13 +32,9 @@
 
 ### Web Development
 
-*   [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) by **Ilya Grigorik** \[41:10]
+*   [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) by **Ilya Grigorik** (Fluent 2013) \[41:10]
 
 ## [5. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
-
-### Caching
-
-*   [locker (⭐152)](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 
 ### Command Line Applications
 
@@ -51,7 +47,7 @@
 
 ### Frameworks
 
-*   [trot (⭐420)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+*   [trot (⭐419)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 
 ### ORM and Datamapping
 
@@ -68,7 +64,7 @@
 
 *   [reddhl (⭐4)](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 *   [telephonist (⭐41)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
-*   [tentacat (⭐448)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
+*   [tentacat (⭐449)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 
 ### Utilities
 
@@ -76,7 +72,7 @@
 
 ### YAML
 
-*   [yomel (⭐6)](https://github.com/Joe-noh/yomel) - libyaml interface for Elixir.
+*   [yomel](https://github.com/Joe-noh/yomel) - libyaml interface for Elixir.
 
 ## [6. Awesome Polymer](/content/Granze/awesome-polymer/README.md)
 

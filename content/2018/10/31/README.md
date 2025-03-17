@@ -89,7 +89,7 @@
 
 ### How to show your progress / Advanced math
 
-*   **[Contributors (⭐175k)](https://github.com/ossu/computer-science/graphs/contributors)**
+*   **[Contributors (⭐176k)](https://github.com/ossu/computer-science/graphs/contributors)**
 
 ## [7. Awesome Piracy](/content/Igglybuff/awesome-piracy/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Web Frameworks
 
-*   [uvicorn (⭐6k)](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
+*   [uvicorn (⭐9k)](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
 
 ## [12. Awesome Observables](/content/sindresorhus/awesome-observables/README.md)
 

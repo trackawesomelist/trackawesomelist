@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14 - Mar 20, 2016
 
-40 awesome lists updated this week.
+41 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -48,7 +48,7 @@
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Hardware
+### Hardware / Rust
 
 *   [Bus Tracking GPS (⭐31)](https://github.com/herrdragon/busTrackingGps) - Code for Miami prototype of a cheap open-source solution to track transit buses.
 
@@ -128,13 +128,19 @@
 
 *   [MarionetteJS CLI package for atom](https://atom.io/packages/atom-marionettejs-cli)
 
-## [17. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [17. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Scheme / Play Scala
+
+*   [A Pamphlet Against R. Computational Intelligence in Guile Scheme](https://panicz.github.io/pamphlet/)
+
+## [18. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Logging
 
-*   [storyboard (⭐755)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
+*   [storyboard (⭐757)](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 
-## [18. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
+## [19. Awesome Heroku](/content/ianstormtaylor/awesome-heroku/week/README.md)
 
 ### Analytics
 
@@ -195,20 +201,20 @@
 
 *   `tool` [dokku](http://dokku.viewdocs.io/dokku/) — a self-hosted, docker-based, Heroku-compliant platform.
 
-## [19. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
+## [20. Awesome Pyramid](/content/uralbash/awesome-pyramid/week/README.md)
 
 ### Books
 
 *   [Python Web Frameworks](http://www.oreilly.com/web-platform/free/python-web-frameworks.csp) - Dive into details on the top
     six Python frameworks—Django, Flask, Tornado, Bottle, Pyramid, and CherryPy.
 
-## [20. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [21. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### MVVM
 
 *   [Prism (⭐6.4k)](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
 
-## [21. Typography](/content/deanhume/typography/week/README.md)
+## [22. Typography](/content/deanhume/typography/week/README.md)
 
 ### Articles
 
@@ -220,7 +226,7 @@
 
 *   [Controlling Font Performance with font-display](https://developers.google.com/web/updates/2016/02/font-display)
 
-## [22. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
+## [23. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/week/README.md)
 
 ### Filesystem / Web
 
@@ -235,13 +241,13 @@
 *   [LibLua](https://autohotkey.com/board/topic/40690-ahk-lua-interop-stdlib-proof-of-concept/) - *Note: lua.ahk and lua\_ahkfunctions.ahk can be found [here](https://code.google.com/archive/p/wow-vending-machine/source)*.
 *   [PAHK](https://code.google.com/archive/p/pahk) - Forum thread: [link](https://autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
 
-## [23. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
+## [24. Awesome Jvm](/content/deephacks/awesome-jvm/week/README.md)
 
 ### Native
 
 *   [JavaCPP (⭐3.9k)](https://github.com/bytedeco/javacpp) - JavaCPP provides efficient access to native C++ inside Java.
 
-## [24. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
+## [25. Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/week/README.md)
 
 ### Domain Analysis / Other Resources
 
@@ -250,7 +256,7 @@
 *   [TekDefense Automater](http://www.tekdefense.com/automater/) - OSINT tool
     for gathering information about URLs, IPs, or hashes.
 
-## [25. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [26. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Clocks
 
@@ -260,19 +266,19 @@
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/fractalClock.png)](http://www.dqd.com/~mayoff/programs/FractalClock/)
 
-## [26. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [27. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Apps
 
 *   [GFXBench 5](https://kishonti.net/news_single.jsp?id=31133884) - by Kishonti.
 
-## [27. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
+## [28. Awesome Clojure](/content/razum2um/awesome-clojure/week/README.md)
 
 ### Science and Data Analysis
 
 *   [Neanderthal (⭐1k)](https://github.com/uncomplicate/neanderthal)
 
-## [28. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [29. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
@@ -282,7 +288,7 @@
 
 *   [storyboard](http://guigrpa.github.io/storyboard/) - Universal logging library + Chrome extension; it lets you see all client and server tasks triggered by a user action in a single place.
 
-## [29. Awesome Relay](/content/expede/awesome-relay/week/README.md)
+## [30. Awesome Relay](/content/expede/awesome-relay/week/README.md)
 
 ### Ruby / Rails
 
@@ -292,7 +298,7 @@
 
 *   [Relay Fullstack (⭐993)](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit integrated with Relay, Express, Webpack, Babel, Material Design Lite, and PostCSS.
 
-## [30. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
+## [31. Awesome Symfony](/content/sitepoint-editors/awesome-symfony/week/README.md)
 
 ### Administration
 
@@ -574,13 +580,13 @@
 *   [SerializedResponseBundle (⭐5)](https://github.com/Pulpmedia/SerializedResponseBundle) - A simple bundle to provide an easy way to send out json/xml/yaml responses of serialized objects with annotations.
 *   [SRIORestUploadBundle (⭐46)](https://github.com/sroze/SRIORestUploadBundle) - A symfony bundle to handle multiple upload ways on your REST API.
 
-## [31. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [32. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Promise
 
 *   [pify (⭐1.5k)](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
 
-## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / B individuals
 
@@ -598,7 +604,7 @@
 
 *   Matt Aimonetti <https://matt.aimonetti.net/>
 
-## [33. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [34. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Cross Browser / Articles
 
@@ -608,7 +614,7 @@
 
 *   Sara Soueidan [@SaraSoueidan](https://twitter.com/SaraSoueidan)
 
-## [34. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
+## [35. Awesome Service Workers](/content/TalAter/awesome-service-workers/week/README.md)
 
 ### Learning Resources
 
@@ -618,13 +624,13 @@
 
 *   [Background Sync Spec](https://wicg.github.io/BackgroundSync/spec/) - The WIP spec for Background Sync.
 
-## [35. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
+## [36. Awesome Rxjava](/content/eleventigers/awesome-rxjava/week/README.md)
 
 ### Tools
 
 *   [RxMarbles](http://rxmarbles.com/) - Interactive diagrams of Rx Observables.
 
-## [36. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [37. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries / Algebraic Data Types
 
@@ -635,7 +641,7 @@
 *   [lucasviola/Awesome Functional Programming (⭐963)](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
 *   [xgrommx/Awesome Functional Programming (⭐3.5k)](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
 
-## [37. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [38. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Plugins for Salesforce
 
@@ -653,23 +659,23 @@
 *   [Salesforce Lightning Design System - Office UI library based on Lightning Experience Design Language](http://www.lightningdesignsystem.com/) - With the Lightning Design System you can build custom applications with a look and feel that is consistent with Salesforce core features — without reverse engineering our styles! Simply download our platform-agnostic CSS framework and get started today.
     to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesforce
 
-## [38. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [39. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Dependency Injection
 
-*   [Auryn (⭐725)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
+*   [Auryn (⭐723)](https://github.com/rdlowrey/Auryn) - A recursive dependency injector.
 
 ### Table of Contents / Imagery
 
 *   [Image Hash (⭐2k)](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
 
-## [39. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [40. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Distributed Filesystem
 
 *   [Alluxio](http://www.alluxio.org/) - reliable file sharing at memory speed across cluster frameworks.
 
-## [40. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
+## [41. Awesome Ionic](/content/candelibas/awesome-ionic/week/README.md)
 
 ### Official Resources
 

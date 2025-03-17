@@ -48,7 +48,7 @@
 
 ### Documentation
 
-*   [phoenix\_swagger (⭐699)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
+*   [phoenix\_swagger (⭐700)](https://github.com/xerions/phoenix_swagger) - Provides swagger integration to the Phoenix framework.
 
 ### Images
 
@@ -119,7 +119,7 @@ git log --author='_Your_Name_Here_' --pretty=tformat: --numstat | awk '{ add += 
 
 ### JavaScript libs / Programming fonts with ligatures
 
-*   [Typeset.js (⭐2.6k)](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
+*   [Typeset.js (⭐2.7k)](https://github.com/davidmerfield/typeset) - HTML pre-processor for web typography
 
 ### GitHub Showcases / Event listeners for fonts loading on a web page
 

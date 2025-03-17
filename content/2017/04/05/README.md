@@ -10,7 +10,7 @@
 
 ### Database Drivers
 
-*   [asyncpgsa (⭐404)](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
+*   [asyncpgsa (⭐416)](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
 
 ## [2. Awesome Sass](/content/Famolus/awesome-sass/README.md)
 
@@ -36,7 +36,7 @@
 
 ### Table of Contents / Routers
 
-*   [Aura.Router (⭐494)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+*   [Aura.Router (⭐495)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 
 ### Table of Contents / Dependency Injection
 
@@ -44,8 +44,8 @@
 
 ### Table of Contents / Database
 
-*   [Aura.Sql (⭐556)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
-*   [Spot2 (⭐601)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
+*   [Aura.Sql (⭐554)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
+*   [Spot2 (⭐600)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ### Table of Contents / Command Line
 
@@ -141,7 +141,7 @@
 
 ### Other
 
-*   [package-size (⭐424)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+*   [package-size (⭐422)](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 
 ## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 

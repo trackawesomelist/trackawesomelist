@@ -91,7 +91,7 @@
 
 ### Free fonts / Fonts
 
-*   [Libre Franklin (⭐381)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
+*   [Libre Franklin (⭐387)](https://github.com/impallari/Libre-Franklin) - An interpretation and expansion based on Morris Fuller Benton’s 1912 classic.
 
 ## [10. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 

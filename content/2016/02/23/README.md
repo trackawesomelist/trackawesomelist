@@ -33,7 +33,7 @@
 
 ### Testing
 
-*   [efrisby (⭐18)](https://github.com/FabioBatSilva/efrisby) - A REST API testing framework for erlang.
+*   [efrisby](https://github.com/FabioBatSilva/efrisby) - A REST API testing framework for erlang.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
 
@@ -67,7 +67,7 @@
 ### Multimedia content processing
 
 *   [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
-*   [MP4Box.js (⭐2k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
+*   [MP4Box.js (⭐2.1k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
 
 ## [9. Awesome D](/content/dlang-community/awesome-d/README.md)
 

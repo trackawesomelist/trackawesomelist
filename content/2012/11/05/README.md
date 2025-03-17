@@ -10,7 +10,7 @@
 
 ### Table of Contents / Templating
 
-*   [MtHaml (⭐360)](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
+*   [MtHaml (⭐358)](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 
 ---
 

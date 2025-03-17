@@ -50,7 +50,7 @@
 
 ### Other
 
-*   [shrinkpack (⭐793)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
+*   [shrinkpack (⭐798)](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
 
 ## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 

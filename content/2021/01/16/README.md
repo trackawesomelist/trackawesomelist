@@ -16,8 +16,8 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [Code Snapshot (⭐56)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
-*   [Dialogic (⭐5)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
+*   [Code Snapshot (⭐57)](https://github.com/fenix-hub/godot-engine.code-snapshot) - A plugin which lets you take beautified screenshots of your code within the editor.
+*   [Dialogic (⭐14)](https://github.com/coppolaemilio/dialogic) - Create dialogs, characters and scenes to display conversations.
 *   [Scatter (⭐2.3k)](https://github.com/HungryProton/scatter) - Randomly fill an area with props or other scenes.
 
 ## [3. Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md)

@@ -61,7 +61,7 @@
 
 ### Registry
 
-*   [verdaccio (⭐16k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+*   [verdaccio (⭐17k)](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

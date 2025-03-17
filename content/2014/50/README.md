@@ -10,7 +10,7 @@
 
 ### Packages / Image
 
-*   [pica (⭐3.8k)](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
+*   [pica (⭐3.9k)](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
 
 ## [2. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
@@ -117,7 +117,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [deap (⭐5.9k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
+*   [deap (⭐6k)](https://github.com/deap/deap) - Evolutionary algorithm framework.
 
 ## [12. Awesome R](/content/qinwf/awesome-R/week/README.md)
 

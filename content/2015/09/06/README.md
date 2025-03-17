@@ -36,7 +36,7 @@
 
 ### Applications
 
-*   [Hermes (⭐755)](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
+*   [Hermes (⭐819)](https://github.com/allegro/hermes) - asynchronous message broker built on top of Kafka.
 
 ## [3. Awesome Research](/content/emptymalei/awesome-research/README.md)
 

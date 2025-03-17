@@ -61,7 +61,7 @@
 
 ### Packages / Parsing
 
-*   [Chevrotain (⭐2.5k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
+*   [Chevrotain (⭐2.6k)](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
 
 ## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
@@ -150,7 +150,7 @@
 
 ### Libraries / GUI
 
-*   [tauri-apps/wry (⭐3.9k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
+*   [tauri-apps/wry (⭐4k)](https://github.com/tauri-apps/wry) - Webview Rendering librarY.
 
 ---
 

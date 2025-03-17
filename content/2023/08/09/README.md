@@ -8,10 +8,6 @@
 
 ## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
-### Tools / Platforms
-
-*   [Mona (⭐93)](https://github.com/monalabs/mona-openai): Live monitoring for your OpenAI usage
-
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Ax (⭐1.1k)](https://github.com/axilla-io/ax): A comprehensive AI framework for TypeScript ![GitHub Repo stars](https://img.shields.io/github/stars/axilla-io/ax?style=social)
@@ -38,13 +34,13 @@
 
 ### CMS / Playground
 
-*   [Graphweaver (⭐499)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
+*   [Graphweaver (⭐503)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
 
 ## [6. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### AI
 
-*   [emlearn-micropython (⭐107)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
+*   [emlearn-micropython (⭐113)](https://github.com/emlearn/emlearn-micropython) - Efficient Machine Learning engine for MicroPython.
 
 ## [7. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 

@@ -11,7 +11,7 @@
 ### Clocks & Studio Screens
 
 *   [OnAirScreen (⭐97)](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
-*   [PiClock (⭐26)](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
+*   [PiClock (⭐27)](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 *   [PiRSClock-Full (⭐20)](https://github.com/jdgwarren/pirsclockfull) - Radio Studio Clock with studio indicators for mics, telephones etc.
 
 ## [2. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
@@ -48,11 +48,11 @@
 
 *   [ShellSpec (⭐807)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for POSIX shells.
 
-## [7. Awesome Ios](/content/vsouza/awesome-ios/README.md)
+## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
-### Newsletters
+### Mobile / Svelte
 
-*   [Mobile Developers Cafe](https://mobiledeveloperscafe.com) - A weekly newsletter for Mobile developers with loads of iOS content.
+*   [Mobile Developers Cafe](https://mobiledeveloperscafe.com). A weekly newsletter for Mobile Developers - iOS, Android, Flutter & React Native.
 
 ## [8. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 

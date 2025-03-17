@@ -10,8 +10,8 @@
 
 ### Data Visualization / Graph Based approach
 
-*   Network Embedding [awesome-network-embedding (⭐2.5k)](https://github.com/chihming/awesome-network-embedding).
-*   Community Detection [awesome-community-detection (⭐2.1k)](https://github.com/benedekrozemberczki/awesome-community-detection).
+*   Network Embedding [awesome-network-embedding (⭐2.6k)](https://github.com/chihming/awesome-network-embedding).
+*   Community Detection [awesome-community-detection (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-community-detection).
 
 ## [2. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
@@ -52,7 +52,7 @@
 
 ### Miscellaneous
 
-*   [Parasite (⭐38)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
+*   [Parasite (⭐43)](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
 
 ## [6. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
@@ -64,7 +64,7 @@
 
 ### Community
 
-*   [Embedded WG (⭐1.9k)](https://github.com/rust-embedded/wg/), including newsletters with progress updates.
+*   [Embedded WG (⭐2k)](https://github.com/rust-embedded/wg/), including newsletters with progress updates.
 
 ---
 

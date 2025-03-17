@@ -40,10 +40,6 @@
 
 *   [named\_args (⭐28)](https://github.com/mgwidmann/named_args) - Allows named arg style arguments in Elixir.
 
-### Release Management
-
-*   [exrm\_heroku (⭐45)](https://github.com/epsanchezma/exrm-heroku) - Publish your Elixir releases to Heroku with ease.
-
 ### Third Party APIs
 
 *   [pocketex (⭐7)](https://github.com/essenciary/pocketex) - Pocketex is an Elixir client for the Pocket read later service [getpocket.com](https://getpocket.com/).

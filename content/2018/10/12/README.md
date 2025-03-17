@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 12, 2018
 
-19 awesome lists updated today.
+18 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -181,43 +181,37 @@
 
 *   [A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions (Ahmad Awais)](https://ahmadawais.com/wordpress-mongodb-atlas-microsoft-azure-serverless-functions/)
 
-## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [trash (⭐2.6k)](https://github.com/sindresorhus/trash) - Move files and directories to the trash. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")
-
-## [11. Awesome Food](/content/jzarca01/awesome-food/README.md)
+## [10. Awesome Food](/content/jzarca01/awesome-food/README.md)
 
 ### Food-related projects
 
 *   [fetch-my-whopper (⭐9)](https://github.com/jzarca01/fetch-my-whopper) - Node app to claim your free whopper at Burger King.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Books
 
 *   [Vue.js: Construa aplicações incríveis](https://www.casadocodigo.com.br/products/livro-vue) by Caio Incau, Casa do Código. (September 2017)
 
-## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [12. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### JavaScript / General-Purpose Machine Learning
 
 *   [Netron (⭐29k)](https://github.com/lutzroeder/netron) - Visualizer for machine learning models.
 
-## [14. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
+## [13. Awesome Serverless](/content/pmuens/awesome-serverless/README.md)
 
 ### Talks
 
 *   [ServerlessConf SF 2018 videos](https://acloud.guru/series/serverlessconf-sf-2018) - Talks from the ServerlessConf SF 2018.
 
-## [15. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [14. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Build Automation
 
 *   [Dockerize.NET (⭐176)](https://github.com/brthor/Dockerize.NET) - .NET Cli Tool to package your .NET Core Application into a docker image: 'dotnet dockerize'
 
-## [16. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
+## [15. Awesome Web Security](/content/qazbnm456/awesome-web-security/README.md)
 
 ### AWS
 
@@ -236,13 +230,13 @@
 
 *   [SSRF to ROOT Access](https://hackerone.com/reports/341876) - A $25k bounty for SSRF leading to ROOT Access in all instances by [0xacb](https://hackerone.com/0xacb).
 
-## [17. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [16. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### IoC
 
 *   [Lamar](https://jasperfx.github.io/lamar/) - A fast IoC container heavily optimized for usage within ASP.NET Core and other .NET server side applications.
 
-## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Compression
 
@@ -256,7 +250,7 @@
 
 *   [cpplint (⭐1.6k)](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
 
-## [19. Public Apis](/content/public-apis/public-apis/README.md)
+## [18. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Security
 

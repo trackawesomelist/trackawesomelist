@@ -57,7 +57,7 @@
 
 ### Languages / JavaScript & TypeScript
 
-*   [defly-connect (⭐7)](https://github.com/blockshake-io/defly-connect) - JavaScript SDK for integrating Defly Wallet to web applications.
+*   [defly-connect (⭐9)](https://github.com/blockshake-io/defly-connect) - JavaScript SDK for integrating Defly Wallet to web applications.
 
 ## [6. Awesome Blockchain Ai](/content/steven2358/awesome-blockchain-ai/README.md)
 

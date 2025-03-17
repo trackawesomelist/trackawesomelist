@@ -10,7 +10,7 @@
 
 ### Platforms
 
-*   [WebExtensions (⭐1.3k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
+*   [WebExtensions (⭐1.4k)](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
 
 ### Programming Languages
 
@@ -18,11 +18,11 @@
 
 ### Front-End Development
 
-*   [Angular (⭐9.5k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
+*   [Angular (⭐9.6k)](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 
 ### Back-End Development
 
-*   [Dash (⭐2.1k)](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
+*   [Dash (⭐2.2k)](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
 
 ### Business
 
@@ -30,7 +30,7 @@
 
 ### Miscellaneous
 
-*   [FOSS Production Apps (⭐319)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
+*   [FOSS Production Apps (⭐333)](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 *   [Crypto Currency Tools & Algorithms (⭐3.9k)](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 
 ## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 14, 2024
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,7 +22,7 @@
 
 ### Examples
 
-*   [Owloops/updo (⭐226)](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
+*   [Owloops/updo (⭐229)](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
 
 ## [4. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
@@ -46,27 +46,21 @@
 
 ### Related Awesome Lists / Deep Learning
 
-*   [Awesome Workflow Automation (⭐308)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
+*   [Awesome Workflow Automation (⭐350)](https://github.com/dariubs/awesome-workflow-automation) - Curated List of Workflow Automation Apps And Tools
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-### Generative AI
-
-*   [ReportGPT](https://report-gpt.io) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
-
-## [9. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [8. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Plotter Art For Sale / Patents
 
 *   [Adam Fuhrer](https://adamfuhrer.bigcartel.com)
 
-## [10. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
+## [9. awsm.fish](/content/jorgebucaran/awsm.fish/README.md)
 
 ### Prompts
 
 *   [Pure (⭐1.2k)](https://github.com/pure-fish/pure/) - [*That*](https://github.com/sindresorhus/pure) ZSH prompt, now in Fish flavor
 
-## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Multiple languages / [Other](#other-1)
 

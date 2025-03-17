@@ -14,8 +14,8 @@
 
 ### Engine themes / Godot version unknown
 
-*   [Catppuccin Theme (⭐117)](https://github.com/catppuccin/godot) - A soothing pastel theme offered in four different flavors.
-*   [Godot Minimal Theme (⭐2.1k)](https://github.com/passivestar/godot-minimal-theme) - A theme that aims to correct odd spacing and formatting in the default Godot theme without changing the overall look and feel.
+*   [Catppuccin Theme (⭐130)](https://github.com/catppuccin/godot) - A soothing pastel theme offered in four different flavors.
+*   [Godot Minimal Theme (⭐2.3k)](https://github.com/passivestar/godot-minimal-theme) - A theme that aims to correct odd spacing and formatting in the default Godot theme without changing the overall look and feel.
 
 ## [2. Awesome Seed Rs](/content/seed-rs/awesome-seed-rs/week/README.md)
 
@@ -49,7 +49,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-llms (⭐1)](https://github.com/saschaseniuk/vite-plugin-llms) - Integration for the llms.txt specification supporting AI optimized content alongside application routes.
+*   [vite-plugin-llms (⭐3)](https://github.com/saschaseniuk/vite-plugin-llms) - Integration for the llms.txt specification supporting AI optimized content alongside application routes.
 
 ### Framework-agnostic Plugins / Bundling
 
@@ -57,11 +57,11 @@
 
 ### Framework-agnostic Plugins / Transformers
 
-*   [vite-plugin-material-symbols (⭐0)](https://github.com/RobinTail/vite-plugin-material-symbols) - Selective loading of Material Symbols font icons based on source code analysis.
+*   [vite-plugin-material-symbols (⭐1)](https://github.com/RobinTail/vite-plugin-material-symbols) - Selective loading of Material Symbols font icons based on source code analysis.
 
 ### Rust / Community
 
-*   [vite-rs (⭐58)](https://github.com/Wulf/vite-rs) - Embed assets in your Rust binary.
+*   [vite-rs (⭐59)](https://github.com/Wulf/vite-rs) - Embed assets in your Rust binary.
 
 ## [7. Awesome Yew](/content/jetli/awesome-yew/week/README.md)
 
@@ -89,7 +89,7 @@
 
 ### Utils / Other Tools
 
-*   [Apitally (⭐52)](https://github.com/apitally/apitally-py) - API analytics, monitoring, and request logging for FastAPI.
+*   [Apitally (⭐57)](https://github.com/apitally/apitally-py) - API analytics, monitoring, and request logging for FastAPI.
 *   [FastAPI Utilities (⭐2k)](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
 
 ### Boilerplate / Other Tools
@@ -98,7 +98,7 @@
 
 ### Open Source Projects / Other Tools
 
-*   [Polar (⭐3.4k)](https://github.com/polarsource/polar) - A funding and monetization platform for developers, built with FastAPI, SQLAlchemy, Alembic, and Arq.
+*   [Polar (⭐4.2k)](https://github.com/polarsource/polar) - A funding and monetization platform for developers, built with FastAPI, SQLAlchemy, Alembic, and Arq.
 
 ## [11. Awesome Flask](/content/mjhea0/awesome-flask/week/README.md)
 
@@ -174,14 +174,14 @@
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [aish (⭐24)](https://github.com/chr15m/aish) - Instant shell script solutions from OpenAI right in your prompt.
+*   [aish (⭐27)](https://github.com/chr15m/aish) - Instant shell script solutions from OpenAI right in your prompt.
 *   [ensure-kube-context (⭐0)](https://github.com/do-i-need-a-username/ensure-kube-context) - Ensures that the `--context` flag is passed to various Kubernetes commands like `kubectl`, `cilium`, `stern`, and more.
 *   [life-progress (⭐0)](https://github.com/bGZo/life-progress) - Shows your life progress in days, weeks, months, and age.
 *   [vivi (⭐0)](https://github.com/rufevean/vivi) - Integrates Google's [Gemini](https://gemini.google.com) language model (LLM) capabilities directly into your terminal. It allows you to send queries to the language model and receive AI-generated solutions, all within your terminal. The plugin supports session context and can dynamically execute received commands.
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
-*   [archmocha (⭐1)](https://github.com/mikkurogue/archmocha/) - Some of [catpucchin (⭐2)](https://github.com/JannoTjarks/catppuccin-zsh)'s mocha theming with an Arch Linux twist. Includes decorators for user\@hostname, current directory and `git` status.
+*   [archmocha (⭐1)](https://github.com/mikkurogue/archmocha/) - Some of [catpucchin (⭐4)](https://github.com/JannoTjarks/catppuccin-zsh)'s mocha theming with an Arch Linux twist. Includes decorators for user\@hostname, current directory and `git` status.
 *   [gitprompt.sh (⭐1)](https://github.com/danieldietrich/gitprompt.sh) - Works with both `bash` and `git`. 256 color support. Includes decorators for `git` status and current directory.
 
 ## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
@@ -192,7 +192,7 @@
 
 ### Git / Diagnostics
 
-*   [mrloop/telescope-git-branch.nvim (⭐7)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
+*   [mrloop/telescope-git-branch.nvim (⭐8)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
 
 ### Split and Window / Diagnostics
 
@@ -204,7 +204,7 @@
 
 *   [mlint](https://www.mathworks.com/help/matlab/ref/mlint.html) :copyright: — Check MATLAB code files for possible problems.
 *   [PHP Insights (⭐5.4k)](https://github.com/nunomaduro/phpinsights) — Instant PHP quality checks from your console. Analysis of code quality and coding style as well as overview of code architecture and its complexity.
-*   [flowR (⭐38)](https://github.com/flowr-analysis/flowr) — A [program slicer (⭐38)](https://github.com/flowr-analysis/flowr/wiki/Terminology#program-slice) and [dataflow analyzer](https://en.wikipedia.org/wiki/Data-flow_analysis) for the [R](https://www.r-project.org/) programming language. Its slicer allows you to reduce a complicated program just to the parts related for a specific task (e.g., the generation of a single or collection of plots, a significance test, ...). The dataflow analysis provides you with a detailed view on the semantics of the R code which can greatly improve other analyses. To use *flowR*, check out the [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=code-inspect.vscode-flowr), the [RStudio Addin (⭐2)](https://github.com/flowr-analysis/rstudio-addin-flowr), the [Docker image](https://hub.docker.com/r/eagleoutice/flowr), or the [R package (⭐3)](https://github.com/flowr-analysis/flowr-r-adapter).
+*   [flowR (⭐45)](https://github.com/flowr-analysis/flowr) — A [program slicer (⭐45)](https://github.com/flowr-analysis/flowr/wiki/Terminology#program-slice) and [dataflow analyzer](https://en.wikipedia.org/wiki/Data-flow_analysis) for the [R](https://www.r-project.org/) programming language. Its slicer allows you to reduce a complicated program just to the parts related for a specific task (e.g., the generation of a single or collection of plots, a significance test, ...). The dataflow analysis provides you with a detailed view on the semantics of the R code which can greatly improve other analyses. To use *flowR*, check out the [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=code-inspect.vscode-flowr), the [RStudio Addin (⭐3)](https://github.com/flowr-analysis/rstudio-addin-flowr), the [Docker image](https://hub.docker.com/r/eagleoutice/flowr), or the [R package (⭐3)](https://github.com/flowr-analysis/flowr-r-adapter).
 *   [goodpractice](https://docs.ropensci.org/goodpractice/) — Analyses the source code for R packages and provides best-practice recommendations.
 *   [rco](https://jcrodriguez1989.github.io/rco/) — Performance optimizer for R code (with GUI).
 *   [ruby-lint](https://gitlab.com/yorickpeterse/ruby-lint) :warning: — Static code analysis for Ruby.
@@ -217,7 +217,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [packj (⭐660)](https://github.com/ossillate-inc/packj) — Packj (pronounced package) is a command line (CLI) tool to vet open-source software packages for "risky" attributes that make them vulnerable to supply chain attacks. This is the tool behind our large-scale security analysis platform Packj.dev that continuously vets packages and provides free reports.
+*   [packj (⭐661)](https://github.com/ossillate-inc/packj) — Packj (pronounced package) is a command line (CLI) tool to vet open-source software packages for "risky" attributes that make them vulnerable to supply chain attacks. This is the tool behind our large-scale security analysis platform Packj.dev that continuously vets packages and provides free reports.
 *   [Android Lint](https://developer.android.com/studio/write/lint) — Run static analysis on Android projects.
 *   [LunaSec](https://github.com/marketplace/lunatrace-by-lunasec/) — Open Source AppSec platform that automatically notifies you the next time vulnerabilities like Log4Shell or node-ipc happen. Track your dependencies and builds in a centralized service.
 
@@ -229,7 +229,7 @@
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [hawkeye (⭐13)](https://github.com/angular-experts-io/hawkeye) - A powerful tool designed to help developers visualize and optimize their JavaScript bundles. With our intuitive interface, you can gain deep insights into your project’s bundle structure, identifying large modules, dependencies, and assets that may be impacting performance.
+*   [hawkeye (⭐16)](https://github.com/angular-experts-io/hawkeye) - A powerful tool designed to help developers visualize and optimize their JavaScript bundles. With our intuitive interface, you can gain deep insights into your project’s bundle structure, identifying large modules, dependencies, and assets that may be impacting performance.
 *   [ngx-script-optimizer (⭐1)](https://github.com/Mohid123/ngx-script-optimizer) - A lightweight Angular library designed to supercharge your third-party script handling.
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -238,7 +238,7 @@
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [keycloakify-starter-angular-vite (⭐1)](https://github.com/keycloakify/keycloakify-starter-angular-vite) - Angular + Vite Starter for [Keycloakify 11](https://www.keycloakify.dev/).
+*   [keycloakify-starter-angular-vite (⭐4)](https://github.com/keycloakify/keycloakify-starter-angular-vite) - Angular + Vite Starter for [Keycloakify 11](https://www.keycloakify.dev/).
 
 ### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -246,7 +246,7 @@
 
 ### Carousels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [embla-carousel-angular (⭐25)](https://github.com/donaldxdonald/embla-carousel-angular) - Angular wrapper for [Embla Carousel (⭐6.6k)](https://github.com/davidjerleke/embla-carousel).
+*   [embla-carousel-angular (⭐26)](https://github.com/donaldxdonald/embla-carousel-angular) - Angular wrapper for [Embla Carousel (⭐6.7k)](https://github.com/davidjerleke/embla-carousel).
 
 ### Cookies / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -293,7 +293,7 @@
 
 ### Plugins
 
-*   [tmux-click-copy (⭐4)](https://github.com/aless3/tmux-click-copy) word/line copy on double/triple click without fixed timeout and without remaining stuck in copy mode
+*   [tmux-click-copy (⭐3)](https://github.com/aless3/tmux-click-copy) word/line copy on double/triple click without fixed timeout and without remaining stuck in copy mode
 *   [tmux-fzf-open-files-nvim (⭐5)](https://github.com/Peter-McKinney/tmux-fzf-open-files-nvim) - A plugin that parses pane text for files for selection in fzf to open in neovim.
 
 ---

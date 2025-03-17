@@ -10,7 +10,7 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Arroyo (⭐3.9k)](https://github.com/ArroyoSystems/arroyo) \[Rust] - a distributed stream processing engine. Supports SQL and Rust pipelines. Scales up to millions of events per second. Supports stateful operations like windows and joins, state checkpointing for fault-tolerance and recovery of pipelines. Uses the Timely Dataflow model.
+*   [Arroyo (⭐4.1k)](https://github.com/ArroyoSystems/arroyo) \[Rust] - a distributed stream processing engine. Supports SQL and Rust pipelines. Scales up to millions of events per second. Supports stateful operations like windows and joins, state checkpointing for fault-tolerance and recovery of pipelines. Uses the Timely Dataflow model.
 
 ## [2. Awesome Dash](/content/ucg8j/awesome-dash/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 07, 2018
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -18,19 +18,25 @@
 
 *   [xiaomi2mqtt (⭐26)](https://github.com/svrooij/node-xiaomi2mqtt) - bridge between the Xiaomi Smart Home Gateway Aquara and a MQTT server.
 
-## [3. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [3. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### HTML and CSS / Spock Framework
+
+*   [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
+
+## [4. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
 *   [Omgrofl](https://esolangs.org/wiki/Omgrofl) - Syntax resembling Internet slang.
 
-## [4. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
+## [5. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/README.md)
 
 ### Frameworks, Libraries and Tools / Exceptions
 
 *   [GlobalExceptionHandlerDotNet (⭐272)](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) - GlobalExceptionHandlerDotNet allows you to configure exception handling as a convention with your ASP.NET Core application pipeline as opposed to explicitly handling them within each controller action.
 
-## [5. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
+## [6. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 
 ### ReactJS
 
@@ -42,7 +48,7 @@
 
 
 
-## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [7. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Optimization
 

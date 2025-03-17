@@ -29,9 +29,9 @@ The second part of a three part book series providing broad and in-depth coverag
 
 ### Websites
 
-### [OWASP NodeGoat (⭐1.6k)](https://github.com/owasp/nodegoat)
+### [OWASP NodeGoat (⭐1.9k)](https://github.com/owasp/nodegoat)
 
-Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API (⭐1.6k)](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image (⭐1.6k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
+Purposly vulnerable to the OWASP Top 10 Node.JS web application, with [tutorials](https://nodegoat.herokuapp.com/tutorial), [security regression testing with the OWASP Zap API (⭐1.9k)](https://github.com/OWASP/NodeGoat/wiki/NodeGoat-Security-Regression-tests-with-ZAP-API), [docker image (⭐1.9k)](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker). With several options to get up and running fast.
 
 ### Books and ebooks
 

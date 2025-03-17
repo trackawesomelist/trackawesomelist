@@ -1,6 +1,6 @@
 # Awesome List Updates on Aug 10 - Aug 16, 2015
 
-35 awesome lists updated this week.
+36 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -145,7 +145,6 @@ An introduction to developing secure applications targeting version 4.5 of the .
 *   [That Podcast](https://thatpodcast.io/) - Beau and Dave talking about life as dads, programmers, and entrepreneurs.
 *   [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
 *   [The Cognicast](http://blog.cognitect.com/cognicast) - The Cognicast previously ThinkRelevance: The Podcast is the podcast from the Cognitect family.
-*   [The Five-Minute Geek Show](http://www.fiveminutegeekshow.com) - Matt Stauffer, unabashedly geeky, 5 minutes, twice a week. Frontend dev, backend dev, audio, design, podcasts--all fair game.
 *   [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
 *   [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
 *   [This Developer's Life](http://thisdeveloperslife.com/) - A podcast about developers and their lives.
@@ -173,7 +172,7 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 ### Loaders
 
-*   [modulejs (⭐126)](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
+*   [modulejs (⭐128)](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
 
 ### Form Widgets / Other
 
@@ -181,7 +180,7 @@ An introduction to developing secure applications targeting version 4.5 of the .
 
 ### Modals and Popups / Other
 
-*   [jquery-popup-overlay (⭐508)](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
+*   [jquery-popup-overlay (⭐511)](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
 
 ### Misc / Other
 
@@ -226,8 +225,8 @@ git stash push --include-untracked
 
 ### BitTorrent
 
-*   [jech/dht (⭐699)](https://github.com/jech/dht) - BitTorrent DHT library in C. \[MIT]
-*   [libtorrent (⭐5.3k)](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. \[BSD]
+*   [jech/dht (⭐697)](https://github.com/jech/dht) - BitTorrent DHT library in C. \[MIT]
+*   [libtorrent (⭐5.4k)](https://github.com/arvidn/libtorrent) (a.k.a. libtorrent-rasterbar) - An efficient feature complete C++ bittorrent implementation. \[BSD]
 *   [LibTorrent (⭐900)](https://github.com/rakshasa/libtorrent) (a.k.a. libtorrent-rakshasa) - BitTorrent library. \[GPL]
 *   [libutp (⭐1.1k)](https://github.com/bittorrent/libutp) - uTorrent Transport Protocol library. \[MIT]
 
@@ -237,16 +236,16 @@ git stash push --include-untracked
 
 ### Image Processing
 
-*   [GD (⭐910)](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
+*   [GD (⭐913)](https://github.com/libgd/libgd) - GD Graphics Library, famously used in PHP for image loading/manipulation & thumbnail generation. \[custom permissive license, requires mention in user docs] [website](http://libgd.github.io/)
 
 ### Logging
 
-*   [G3log (⭐911)](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. \[PublicDomain]
-*   [reckless (⭐491)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
+*   [G3log (⭐914)](https://github.com/KjellKod/g3log) - Asynchronous logger with Dynamic Sinks. \[PublicDomain]
+*   [reckless (⭐492)](https://github.com/mattiasflodin/reckless) - Low-latency, high-throughput, asynchronous logging library for C++. \[MIT]
 
 ### Math
 
-*   [LibTomMath (⭐668)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
+*   [LibTomMath (⭐676)](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. \[PublicDomain & WTFPL] [website](http://www.libtom.net/)
 
 ### Coding Style Tools
 
@@ -280,20 +279,26 @@ git stash push --include-untracked
 
 *   [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/)
 
-## [19. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
+## [19. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Python / Constraint Logic Programming (extended Prolog)
+
+*   [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
+
+## [20. Awesome Answers](/content/cyberglot/awesome-answers/week/README.md)
 
 ### Programming Languages / Haskell
 
 *   [foldl is tail recursive, so how come foldr runs faster than foldl?](http://stackoverflow.com/a/3429693)
 *   [Does Haskell have tail-recursive optimization?](http://stackoverflow.com/a/13052612)
 
-## [20. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
+## [21. Awesome Honeypots](/content/paralax/awesome-honeypots/week/README.md)
 
 ### Guides
 
 *   [Honeypot (Dionaea and kippo) setup script (⭐81)](https://github.com/andrewmichaelsmith/honeypot-setup-script/)
 
-## [21. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [22. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Social / Chrome Extensions
 
@@ -301,7 +306,7 @@ git stash push --include-untracked
 *   [@angularjs](https://twitter.com/angularjs) - Official Angularjs Twitter using Typescript Since 2.0
 *   [@jntrnr](https://twitter.com/jntrnr) - Typescript Program Manager at Microsoft
 
-## [22. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
+## [23. Awesome Deep Learning](/content/ChristosChristofidis/awesome-deep-learning/week/README.md)
 
 ### Table of Contents / Books
 
@@ -408,7 +413,7 @@ git stash push --include-untracked
 
 *   [A recurrent neural network designed to generate classical music. (⭐1.9k)](https://github.com/hexahedria/biaxial-rnn-music-composition)
 
-## [23. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [24. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Computer Vision
 
@@ -440,7 +445,7 @@ git stash push --include-untracked
 
 *   [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/\~cjlin/libsvm/)
 
-## [24. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
+## [25. Awesome Android Ui](/content/wasabeef/awesome-android-ui/week/README.md)
 
 ### List / Grid
 
@@ -462,13 +467,13 @@ git stash push --include-untracked
 
 
 
-## [25. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [26. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Utility / Barcode
 
 *   [R.swift (⭐9.5k)](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 
-## [26. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [27. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Applications / Directory Navigation
 
@@ -479,13 +484,13 @@ git stash push --include-untracked
 
 *   [assert.sh (⭐479)](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
 
-## [27. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [28. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Image Processing
 
 *   [MetadataExtractor (⭐965)](https://github.com/drewnoakes/metadata-extractor-dotnet) - Extracts Exif, IPTC, XMP, ICC and other metadata from image files.
 
-## [28. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [29. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Game Bindings / XML
 
@@ -514,13 +519,13 @@ git stash push --include-untracked
 
 *   [DSFML (⭐95)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 
-## [29. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
+## [30. Awesome Slack](/content/filipelinhares/awesome-slack/week/README.md)
 
 ### Regional
 
 *   [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
 
-## [30. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [31. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Popular Packages / Search
 
@@ -528,7 +533,7 @@ git stash push --include-untracked
 *   [Laravel Search (⭐353)](https://github.com/mmanos/laravel-search) - Unified API for Elasticsearch, Algolia, and ZendSearch
 *   [SearchIndex (⭐441)](https://github.com/spatie/searchindex) - Store and retrieve objects from Algolia or Elasticsearch
 
-## [31. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [32. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Passwords
 
@@ -536,9 +541,9 @@ git stash push --include-untracked
 
 ### Table of Contents / Architectural
 
-*   [Pipeline (⭐971)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+*   [Pipeline (⭐976)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 
-## [32. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [33. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Companies / D companies
 
@@ -552,13 +557,13 @@ git stash push --include-untracked
 
 *   Stefan Parker <http://codebeforethehorse.tumblr.com/>
 
-## [33. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Libraries / Parsing
 
 *   [kevinmehall/rust-peg (⭐1.5k)](https://github.com/kevinmehall/rust-peg) - Parsing Expression Grammar (PEG) parser generator
 
-## [34. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
+## [35. Awesome Salesforce](/content/mailtoharshit/awesome-salesforce/week/README.md)
 
 ### Table of Contents / Salesforce Developer Free Edition Signup
 
@@ -569,7 +574,7 @@ git stash push --include-untracked
 *   Add your link as per the top-level Category page within the topic sub-section(s), in *alphabetical order*, with notes (if any) in the markdown files.
 *   For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
 
-## [35. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [36. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### JSON
 

@@ -20,7 +20,7 @@
 
 ### Modals and Popups / Other
 
-*   [lightGallery (⭐6.4k)](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
+*   [lightGallery (⭐6.7k)](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
 
 ### Menu / Other
 
@@ -30,7 +30,7 @@
 
 ### Python / General-Purpose Machine Learning
 
-*   [Couler (⭐919)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
+*   [Couler (⭐927)](https://github.com/couler-proj/couler) - Unified interface for constructing and managing machine learning workflows on different workflow engines, such as Argo Workflows, Tekton Pipelines, and Apache Airflow.
 
 ## [4. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
@@ -44,7 +44,7 @@
 
 ### Projects / Open Source Projects
 
-*   [PostHog (⭐23k)](https://github.com/PostHog/posthog) - Open-source product analytics.
+*   [PostHog (⭐25k)](https://github.com/PostHog/posthog) - Open-source product analytics.
 
 ## [5. Awesome Storybook](/content/lauthieb/awesome-storybook/README.md)
 

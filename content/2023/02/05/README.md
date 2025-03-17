@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 05, 2023
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,7 +34,7 @@
 ### Applications / Emulators
 
 *   iPod
-    *   [clicky (⭐172)](https://github.com/daniel5151/clicky) - A clickwheel iPod emulator (WIP)
+    *   [clicky (⭐175)](https://github.com/daniel5151/clicky) - A clickwheel iPod emulator (WIP)
 
 ## [5. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 
@@ -42,13 +42,7 @@
 
 *   [Pastewin (⭐11)](https://github.com/beucismis/pastewin): Free alternative Pastebin front-end
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Communication - SIP
-
-*   [Flexisip](https://www.linphone.org/technical-corner/flexisip/) - A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ([Source Code (⭐155)](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`
-
-## [7. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 
@@ -56,7 +50,7 @@
 *   [Gerber Signmaker IVB User's Manual (1983) (manualslib)](https://www.manualslib.com/manual/464167/Gerber-Signmaker-Ivb.html)
 *   [Roland DXY-1350A -1150A User's Manual (1997) (manualslib)](https://www.manualslib.com/manual/884553/Roland-Dxy_1350.html)
 
-## [8. Web Development Resources](/content/markodenic/web-development-resources/README.md)
+## [7. Web Development Resources](/content/markodenic/web-development-resources/README.md)
 
 ### Hosting:
 
@@ -195,7 +189,7 @@
 
 
 
-## [9. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
+## [8. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/README.md)
 
 ### Papers / Lecture Videos Playlist
 
@@ -205,7 +199,7 @@
 
 *   [Ausiello. The Making of a New Science: A Personal Journey Through the Early Years of Theoretical Computer Science](https://link.springer.com/book/10.1007/978-3-319-62680-2) - A story about people, pioneers with diverse backgrounds and characters who established a new field.
 
-## [10. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+## [9. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ### Debugging
 

@@ -10,7 +10,7 @@
 
 ### JSON
 
-*   [jsoncons (⭐733)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
+*   [jsoncons (⭐746)](https://github.com/danielaparker/jsoncons) - A C++ header-only library for JSON and JSON-like binary formats with JSONPointer, JSONPatch, JSONPath and JMESPath. \[Boost]
 
 ## [2. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
@@ -238,7 +238,7 @@
 
 ### Tools / Libraries
 
-*   [pigment (⭐11)](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
+*   [pigment (⭐12)](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
 
 ### Tools / Web App
 
@@ -303,7 +303,7 @@
 
 ### Tools / Community providers
 
-*   [hcledit (⭐470)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
+*   [hcledit (⭐486)](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 
 ## [11. Tools](/content/lvwzhen/tools/week/README.md)
 
@@ -328,19 +328,19 @@
 
 ### Traditional Market / Crypto Currencies
 
-*   [lean (⭐10k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
+*   [lean (⭐11k)](https://github.com/QuantConnect/Lean) - Algorithmic trading engine built for easy strategy research, backtesting and live trading.
 
 ## [15. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Official Resources
 
-*   [GitHub Repo (⭐70k)](https://github.com/vitejs/vite)
+*   [GitHub Repo (⭐71k)](https://github.com/vitejs/vite)
 *   [Awesome Vue (⭐73k)](https://github.com/vuejs/awesome-vue)
 
 ### Apps/Websites / Community
 
-*   [Icônes (⭐6.1k)](https://github.com/antfu/icones) - Icon explorer with instant search.
-*   [Awesome CN Café (⭐105)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
+*   [Icônes (⭐6.2k)](https://github.com/antfu/icones) - Icon explorer with instant search.
+*   [Awesome CN Café (⭐106)](https://github.com/antfu/awesome-cn-cafe-web) - Web application for Awesome CN Café.
 *   [Todo Example (⭐45)](https://github.com/beary/vite-example) - Todo app with routing and state management.
 
 ## [16. Awesome Clean Tech](/content/nglgzz/awesome-clean-tech/week/README.md)
@@ -744,7 +744,7 @@
 
 ### Software / Software Development - IDE & Tools
 
-*   [HttPlaceholder (⭐117)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
+*   [HttPlaceholder (⭐119)](https://github.com/dukeofharen/httplaceholder) - Quickly mock away any webservice using HttPlaceholder. HttPlaceholder lets you specify what the request should look like and what response needs to be returned. `MIT` `C#`
 
 ## [30. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
@@ -833,7 +833,7 @@
 
 ### Boilerplates
 
-*   [Next.js and Netlify Blogging Template (⭐455)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
+*   [Next.js and Netlify Blogging Template (⭐461)](https://github.com/wutali/nextjs-netlify-blog-template) - A perfect boilerplate for building a blog website on Netlify stacks with standard features like tagging, CMS, and shortcodes.
 
 ## [40. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
@@ -854,9 +854,9 @@
 
 ## [42. Awesome Video](/content/krzemienski/awesome-video/week/README.md)
 
-### Tools / Dolby
+### Media Analysis, Quality Metrics & AI Tools / Color Science & Histogram Analysis
 
-*   [IENT/YUView (⭐1.9k)](https://github.com/IENT/YUView)  - YUView is a QT based, cross-platform YUV player with an advanced analytic toolset.
+*   [IENT/YUView (⭐2k)](https://github.com/IENT/YUView)  - YUView is a QT based, cross-platform YUV player with an advanced analytic toolset.
 
 ## [43. Awesome Storybook](/content/lauthieb/awesome-storybook/week/README.md)
 
@@ -874,10 +874,10 @@
 
 ### Python / Computer Vision
 
-*   [Scikit-Opt (⭐5.3k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
+*   [Scikit-Opt (⭐5.4k)](https://github.com/guofei9987/scikit-opt) - Swarm Intelligence in Python (Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Algorithm, Immune Algorithm, Artificial Fish Swarm Algorithm in Python)
 *   [Deep High-Resolution-Net (⭐4.4k)](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch) - A PyTorch implementation of CVPR2019 paper "Deep High-Resolution Representation Learning for Human Pose Estimation"
 *   [dream-creator (⭐64)](https://github.com/ProGamerGov/dream-creator) - A PyTorch implementation of DeepDream. Allows individuals to quickly and easily train their own custom GoogleNet models with custom datasets for DeepDream.
-*   [Lucent (⭐610)](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
+*   [Lucent (⭐617)](https://github.com/greentfrapp/lucent) - Tensorflow and OpenAI Clarity's Lucid adapted for PyTorch.
 
 ### Python / Reinforcement Learning
 
@@ -897,7 +897,7 @@
 
 ### UI
 
-*   [Dough (⭐716)](https://github.com/HatFeather/flutter_dough) <!--stargazers:HatFeather/flutter_dough--> - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
+*   [Dough (⭐721)](https://github.com/HatFeather/flutter_dough) <!--stargazers:HatFeather/flutter_dough--> - Widgets for a squishy user interface by [Josiah Saunders](https://github.com/HatFeather).
 
 ## [48. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
@@ -1042,11 +1042,11 @@
 
 ### API Builder and Discovery
 
-*   [Blueprinter (⭐1.1k)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
+*   [Blueprinter (⭐1.2k)](https://github.com/procore/blueprinter) - Simple, Fast, and Declarative Serialization Library for Ruby.
 
 ### GUI
 
-*   [Glimmer (⭐573)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
+*   [Glimmer (⭐748)](https://github.com/AndyObtiva/glimmer) - Ruby DSL for SWT
 
 ### Web Crawling
 

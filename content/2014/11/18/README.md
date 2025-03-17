@@ -31,7 +31,7 @@
 
 ### Testing
 
-*   [katt (⭐119)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
+*   [katt (⭐120)](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
 *   [kovacs (⭐4)](https://github.com/antp/kovacs) - A simple ExUnit test runner.
 
 ### Text and Numbers

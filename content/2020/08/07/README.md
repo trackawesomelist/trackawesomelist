@@ -28,7 +28,7 @@
 
 ### SQL-like processing
 
-*   [Materialize (⭐5.1k)](https://github.com/materializeinc/materialize) - is a streaming database for real-time applications using SQL for queries and supporting a large fraction of PostgreSQL.
+*   [Materialize (⭐5.9k)](https://github.com/materializeinc/materialize) - is a streaming database for real-time applications using SQL for queries and supporting a large fraction of PostgreSQL.
 
 ## [4. Awesome Emails](/content/jonathandion/awesome-emails/README.md)
 
@@ -60,8 +60,8 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Prisma (⭐40k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
-    *   :octocat: [prisma-markdown (⭐467)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
+*   :octocat: [Prisma (⭐41k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
+    *   :octocat: [prisma-markdown (⭐479)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
 
 ## [8. Awesome Icons](/content/notlmn/awesome-icons/README.md)
 

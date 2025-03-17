@@ -51,7 +51,7 @@
 
 ### Network & Storage Testing
 
-*   [Fio (⭐5.3k)](https://github.com/axboe/fio) - Flexible I/O Tester
+*   [Fio (⭐5.4k)](https://github.com/axboe/fio) - Flexible I/O Tester
 *   [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 
 ## [5. Amas](/content/sindresorhus/amas/README.md)
@@ -88,7 +88,7 @@
 
 ### Tools / Libraries
 
-*   [Palettable (⭐780)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+*   [Palettable (⭐787)](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 
 ### Color Palettes / Web App
 

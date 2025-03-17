@@ -208,11 +208,7 @@
 
 ### Third-Party Packages / Views
 
-*   [django-easy-audit (⭐766)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
-
-### Projects / Boilerplate
-
-*   [djangox (⭐2.2k)](https://github.com/wsvincent/djangox/) - Batteries included starter project for Pip, Pipenv, or Docker.
+*   [django-easy-audit (⭐773)](https://github.com/soynatan/django-easy-audit) - Keep track of user actions.
 
 ## [12. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
@@ -236,7 +232,7 @@
 
 ### Key-value Data Model
 
-*   [Graviton (⭐411)](https://github.com/deroproject/graviton) - a simple, fast, versioned, authenticated, embeddable key-value store database in pure Go(lang).
+*   [Graviton (⭐420)](https://github.com/deroproject/graviton) - a simple, fast, versioned, authenticated, embeddable key-value store database in pure Go(lang).
 
 ## [16. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -266,7 +262,7 @@
 
 ## [18. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
-### Product Configurators
+### Product Configurators / YouTube Playables
 
 *   [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.
 
@@ -348,7 +344,7 @@
 
 ### Number / Runner
 
-*   [Quaternion.js (⭐139)](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
+*   [Quaternion.js (⭐171)](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
 
 ---
 

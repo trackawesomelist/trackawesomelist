@@ -62,7 +62,7 @@
 
 ## [8. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
-### Product Configurators
+### Product Configurators / YouTube Playables
 
 *   [3D Plans](https://3dplans.com) - Virtual tours and interactive maps for the property market.
 

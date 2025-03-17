@@ -10,7 +10,7 @@
 
 ### Applications
 
-*   [Sprint Poker (⭐176)](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
+*   [Sprint Poker (⭐177)](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
 
 ## [2. Creative Commons Media](/content/shime/creative-commons-media/README.md)
 
@@ -22,7 +22,7 @@
 
 ### Testing Frameworks / Frameworks
 
-*   [Protractor (⭐8.8k)](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
+*   [Protractor (⭐8.7k)](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
 
 ## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 

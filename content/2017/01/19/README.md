@@ -152,7 +152,7 @@
 
 ### Other Awesome Projects
 
-*   [C++ links (⭐4.7k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
+*   [C++ links (⭐4.8k)](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 
 ---
 

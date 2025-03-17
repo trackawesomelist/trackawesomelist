@@ -10,7 +10,7 @@
 
 ### Templating Engines / Runner
 
-*   [EJS (⭐7.7k)](https://github.com/mde/ejs) - Effective JavaScript templating.
+*   [EJS (⭐7.9k)](https://github.com/mde/ejs) - Effective JavaScript templating.
 
 ### Validation / Runner
 
@@ -18,13 +18,13 @@
 
 ### Misc / Other
 
-*   [obetomuniz/awesome-webcomponents (⭐631)](https://github.com/obetomuniz/awesome-webcomponents)
+*   [obetomuniz/awesome-webcomponents (⭐640)](https://github.com/obetomuniz/awesome-webcomponents)
 
 ## [2. Awesome Appsec](/content/paragonie/awesome-appsec/README.md)
 
 ### Websites
 
-### [Hack Night (⭐1.1k)](https://github.com/isislab/Hack-Night)
+### [Hack Night (⭐1.2k)](https://github.com/isislab/Hack-Night)
 
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 

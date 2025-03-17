@@ -32,13 +32,13 @@
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Merge Plugin (⭐943)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
-*   [Composer Require Checker (⭐916)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
+*   [Composer Merge Plugin (⭐945)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
+*   [Composer Require Checker (⭐930)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 *   [Tooly (⭐101)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
 
 ### Table of Contents / Scraping
 
-*   [Chrome PHP (⭐2.3k)](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
+*   [Chrome PHP (⭐2.4k)](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
 
 ### Table of Contents / Debugging and Profiling
 
@@ -54,7 +54,7 @@
 
 ### Table of Contents / Event
 
-*   [Pawl (⭐589)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
+*   [Pawl (⭐592)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 
 ### Table of Contents / Database
 
@@ -66,9 +66,9 @@
 
 ### Table of Contents / Markup and CSS
 
-*   [Essence (⭐768)](https://github.com/essence/essence) - A library for extracting web media.
-*   [Embera (⭐341)](https://github.com/mpratt/Embera) - An Oembed consumer library.
-*   [Shiki PHP (⭐286)](https://github.com/spatie/shiki-php) - A [Shiki (⭐11k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [Essence (⭐769)](https://github.com/essence/essence) - A library for extracting web media.
+*   [Embera (⭐347)](https://github.com/mpratt/Embera) - An Oembed consumer library.
+*   [Shiki PHP (⭐289)](https://github.com/spatie/shiki-php) - A [Shiki (⭐11k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
 *   [VObject (⭐573)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### Table of Contents / JSON
@@ -82,7 +82,7 @@
 
 ### Table of Contents / Caching and Locking
 
-*   [Lock (⭐936)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
+*   [Lock (⭐937)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Configuration / Miscellaneous
 

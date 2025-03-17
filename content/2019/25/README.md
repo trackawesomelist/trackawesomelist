@@ -1,30 +1,29 @@
 # Awesome List Updates on Jun 24 - Jun 30, 2019
 
-39 awesome lists updated this week.
+40 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [1. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Developer Tools / Databases
+
+*   [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
+
+## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Memory Allocation
 
 *   [mimalloc (⭐11k)](https://github.com/microsoft/mimalloc) - A compact general purpose allocator with excellent performance. \[MIT]
 
-## [2. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
+## [3. Awesome Vscode](/content/viatsko/awesome-vscode/week/README.md)
 
 ### C#, ASP .NET and .NET Core / More
 
 *   [VSCode Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
 *   [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
-
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Developer Tools / Databases
-
-*   [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - Cross-platform database tool for Microsoft data platforms. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
 
 ## [4. Awesome D3](/content/wbkd/awesome-d3/week/README.md)
 
@@ -118,7 +117,7 @@
 
 ### Miscellaneous
 
-*   [Stacks (⭐3.5k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
+*   [Stacks (⭐3.6k)](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
 
 ## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
@@ -144,7 +143,7 @@
 
 ### Business Intelligence
 
-*   [Blazer (⭐3.6k)](https://github.com/ankane/blazer) - business intelligence made simple.
+*   [Blazer (⭐4.6k)](https://github.com/ankane/blazer) - business intelligence made simple.
 
 ### Books / Streaming
 
@@ -152,7 +151,7 @@
 
 ### Data Visualization / Graph Based approach
 
-*   Kafka [awesome-kafka (⭐168)](https://github.com/monksy/awesome-kafka).
+*   Kafka [awesome-kafka (⭐210)](https://github.com/monksy/awesome-kafka).
 
 ## [22. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
@@ -174,21 +173,21 @@
 
 ## [24. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
+### Natural Language Processing
+
+*   [babel2 (⭐7)](https://github.com/lucas8/Babel2/) - A Fluid Construction Grammar implementation, computational framework, and unification-based grammar formalism [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
+
 ### .Net Core
 
-*   [Bike (⭐145)](https://github.com/Lovesan/bike) - a cross-platform .Net Core interface. [MIT](https://opensource.org/licenses/MIT).
+*   [Bike (⭐146)](https://github.com/Lovesan/bike) - a cross-platform .Net Core interface. [MIT](https://opensource.org/licenses/MIT).
 
 ### Miscellaneous
 
 *   [Foil](http://foil.sourceforge.net/) - A foreign object interface; works with the JVM and CLI. Not available on Quicklisp. [CPL 1.0](https://directory.fsf.org/wiki/License:CPLv1.0).
 
-### Community / Interfaces to other package managers
-
-*   [babel2 (⭐7)](https://github.com/lucas8/Babel2/) - A Fluid Construction Grammar implementation, computational framework, and unification-based grammar formalism [Apache2.0](https://directory.fsf.org/wiki/License:Apache2.0).
-
 ### Other scripting utilities / Third-party APIs
 
-*   [WCL (⭐78)](https://github.com/wadehennessey/wcl) \[stalled] - allow hundreds of Lisp
+*   [WCL (⭐79)](https://github.com/wadehennessey/wcl) \[stalled] - allow hundreds of Lisp
     applications to be realistically available at once, while allowing
     several of them to run concurrently.  WCL accomplishes this by
     providing Common Lisp as a Unix shared library that can be linked with
@@ -230,7 +229,7 @@
 
 ### Office
 
-*   [elixlsx (⭐297)](https://github.com/xou/elixlsx) - A writer for XLSX files.
+*   [elixlsx (⭐298)](https://github.com/xou/elixlsx) - A writer for XLSX files.
 
 ### Security
 
@@ -253,13 +252,19 @@
 
 *   [ex\_nric (⭐2)](https://github.com/falti/ex_nric) - Validation for Singapore National Registration Identity Card numbers (NRIC).
 
-## [26. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
+## [26. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### TEI / Vapor
+
+*   [What is the Text Encoding Initiative?](https://books.openedition.org/oep/426) - Lou Bernard
+
+## [27. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
 ### Open Source Repos / Security
 
 *   [Netflix/bless :fire::fire::fire::fire::fire: (⭐2.7k)](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
 
-## [27. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
+## [28. Awesome Sre](/content/dastergon/awesome-sre/week/README.md)
 
 ### Hiring
 
@@ -277,7 +282,7 @@
 
 *   [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
-## [28. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [29. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Books
 
@@ -289,20 +294,20 @@
 
 *   [Podcast Tracker](http://www.podcasttracker.com/) -  Lets you log, aggregate and export your podcast listening history (Web).
 
-## [29. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
+## [30. Awesome Dotnet Core](/content/thangchung/awesome-dotnet-core/week/README.md)
 
 ### Frameworks, Libraries and Tools / Application Frameworks
 
 *   [Abp vNext (⭐13k)](https://github.com/abpframework/abp) - Abp vNext is the next generation of the open source [ASP.NET Boilerplate (⭐12k)](https://github.com/aspnetboilerplate/aspnetboilerplate) framework. It's a complete architecture and strong infrastructure to create modern web applications!
     Follows best practices and conventions to provide you a SOLID development experience.
 
-## [30. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
+## [31. Awesome Ember](/content/ember-community-russia/awesome-ember/week/README.md)
 
 ### Packages / Examples
 
 *   [Rust Package Registry (⭐2.9k)](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
 
-## [31. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
+## [32. Awesome React Native](/content/jondot/awesome-react-native/week/README.md)
 
 ### UI
 
@@ -313,27 +318,27 @@
 *   [react-native-google-pay ★2 (⭐84)](https://github.com/busfor/react-native-google-pay) - Accept Payments with Google Pay for React Native apps.
 *   [react-native-apay ★2 (⭐50)](https://github.com/busfor/react-native-apay) - React Native bridge for Apple Pay
 
-## [32. Awesome Security](/content/sbilly/awesome-security/week/README.md)
+## [33. Awesome Security](/content/sbilly/awesome-security/week/README.md)
 
 ### Web / Development
 
 *   [API Security in Action](https://www.manning.com/books/api-security-in-action) - Book covering API security including secure development, token-based authentication, JSON Web Tokens, OAuth 2, and Macaroons. (early access, published continuously, final release summer 2020)
 
-## [33. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [34. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / UI Helpers
 
-*   [In View Notifier List (⭐678)](https://github.com/rvamsikrishna/inview_notifier_list) <!--stargazers:rvamsikrishna/flutter_offline--> - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/inview_notifier_list).
+*   [In View Notifier List (⭐679)](https://github.com/rvamsikrishna/inview_notifier_list) <!--stargazers:rvamsikrishna/flutter_offline--> - ListView that notify when widgets are on screen within a provided area by [Vamsi Krishna](https://github.com/inview_notifier_list).
 
 ### Charts / Image Picker
 
-*   [Bezier Chart (⭐449)](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
+*   [Bezier Chart (⭐450)](https://github.com/aeyrium/bezier-chart) <!--stargazers:aeyrium/bezier-chart--> - Beautiful bezier line chart widget for flutter that is highly interactive and configurable by [Diego Velasquez](https://twitter.com/diegoveloper)
 
 ### Hardware / Game Engine resources
 
 *   [Matrix2 (⭐22)](https://github.com/bus710/matrix2) - Sense Hat's LED matrix control game by [bus710](https://github.com/bus710)
 
-## [34. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [35. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Dependency Injection
 
@@ -345,14 +350,14 @@
 
 ### Text / Barcode
 
-*   [Tagging (⭐121)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
+*   [Tagging (⭐122)](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
 
 ### Transition / Barcode
 
 *   [PanSlip (⭐104)](https://github.com/k-lpmg/PanSlip) - Use PanGesture to dismiss view on UIViewController and UIView.
-*   [SamuraiTransition (⭐279)](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
+*   [SamuraiTransition (⭐280)](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
 
-## [35. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [36. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### United States 🇺🇸 / Seattle, WA <a id="seattle-wa"></a>
 
@@ -366,7 +371,7 @@ Webpage: <http://zeitgeistcoffee.com/>
 | ---- | ----- | ------ | ----------------------------------------------------------------------- | -------------------------------------------------- |
 | open | ✔     | ✔      | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBzQwwPcdQ62) | Mon-Fri 6:00-19:00, Sat 7:00-19:00, Sun 8:00-20:00 |
 
-## [36. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [37. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
@@ -374,19 +379,19 @@ Webpage: <http://zeitgeistcoffee.com/>
 *   [Grin (⭐5.1k)](https://github.com/mimblewimble/grin/) - Evolution of the MimbleWimble protocol
 *   [Nervos CKB (⭐1.2k)](https://github.com/nervosnetwork/ckb) - Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.
 
-## [37. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [38. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Sliders / Runner
 
-*   [Embla Carousel (⭐5.8k)](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
+*   [Embla Carousel (⭐6.7k)](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
 
-## [38. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [39. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards aggregators
 
 *   [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
 
-## [39. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [40. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Misc
 

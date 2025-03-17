@@ -28,8 +28,8 @@
 
 ### Starter Templates / Diagnostics
 
-*   [tokiory/neovim-boilerplate (⭐98)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
-*   [frans-johansson/lazy-nvim-starter (⭐90)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
+*   [tokiory/neovim-boilerplate (⭐103)](https://github.com/tokiory/neovim-boilerplate) - Starter boilerplate for making new configurations.
+*   [frans-johansson/lazy-nvim-starter (⭐91)](https://github.com/frans-johansson/lazy-nvim-starter) - Starter boilerplate with lazy plugin manager.
 
 ## [5. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
@@ -47,7 +47,7 @@
 
 ### Tools / Community providers
 
-*   [tpm (⭐79)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
+*   [tpm (⭐80)](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 
 ---
 

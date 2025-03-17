@@ -40,27 +40,27 @@
 
 ### Libraries and Frameworks / API libraries
 
-*   [greymass/eosio (⭐29)](https://github.com/greymass/eosio-core/) - Strongly typed JavaScript library.
-*   [greymass/swift-eosio (⭐12)](https://github.com/greymass/swift-eosio) - Swift SDK with ESR support.
+*   [greymass/eosio (⭐44)](https://github.com/greymass/eosio-core/) - Strongly typed JavaScript library.
+*   [greymass/swift-eosio (⭐16)](https://github.com/greymass/swift-eosio) - Swift SDK with ESR support.
 
 ### Libraries and Frameworks / Authentication and Wallet Signing libraries
 
-*   [greymass/ual-anchor (⭐18)](https://github.com/greymass/ual-anchor) - Authenticator meant to be used with Anchor and Universal Authenticator Library.
-*   [greymass/anchor-link (⭐42)](https://github.com/greymass/anchor-link) - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).
-*   [greymass/eosio-signing-request (⭐28)](https://github.com/greymass/eosio-signing-request) - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
+*   [greymass/ual-anchor (⭐23)](https://github.com/greymass/ual-anchor) - Authenticator meant to be used with Anchor and Universal Authenticator Library.
+*   [greymass/anchor-link (⭐53)](https://github.com/greymass/anchor-link) - Persistent, fast and secure signature provider for EOSIO chains built on top of EOSIO Signing Requests (EEP-7).
+*   [greymass/eosio-signing-request (⭐33)](https://github.com/greymass/eosio-signing-request) - Library to assist in creating and digesting EOSIO Signing Requests (ESR).
 *   [greymass/eosio-signing-request-java (⭐2)](https://github.com/greymass/eosio-signing-request-java) - Java wrapper for the EOSIO Signing Request protocol.
 
 ### Developer Tools / Services
 
-*   [greymass/eosio-resources (⭐7)](https://github.com/greymass/eosio-resources) - Tool to assist in network resource calculations.
+*   [greymass/eosio-resources (⭐9)](https://github.com/greymass/eosio-resources) - Tool to assist in network resource calculations.
 *   [greymass/abi2core (⭐1)](https://github.com/greymass/abi2core) - Command line utility to convert ABI definitions to greymass/eosio type definitions.
 
 ### Code examples / Services
 
-*   [greymass/anchor-link-demo (⭐0)](https://github.com/greymass/anchor-link-demo) - Example VueJS application integrating greymass/anchor-link.
-*   [greymass/anchor-link-demo-multipass (⭐7)](https://github.com/greymass/anchor-link-demo-multipass) - Example ReactJS application integrating greymass/anchor-link.
-*   [greymass/ual-anchor-demo (⭐2)](https://github.com/greymass/ual-anchor-demo) - Example ReactJS application integrating greymass/ual-anchor.
-*   [greymass/eosio-signing-request-demo (⭐4)](https://github.com/greymass/eosio-signing-request-demo) - Example generating transactions using greymass/eosio-signing-request.
+*   [greymass/anchor-link-demo (⭐2)](https://github.com/greymass/anchor-link-demo) - Example VueJS application integrating greymass/anchor-link.
+*   [greymass/anchor-link-demo-multipass (⭐10)](https://github.com/greymass/anchor-link-demo-multipass) - Example ReactJS application integrating greymass/anchor-link.
+*   [greymass/ual-anchor-demo (⭐4)](https://github.com/greymass/ual-anchor-demo) - Example ReactJS application integrating greymass/ual-anchor.
+*   [greymass/eosio-signing-request-demo (⭐5)](https://github.com/greymass/eosio-signing-request-demo) - Example generating transactions using greymass/eosio-signing-request.
 
 ## [6. Public Apis](/content/public-apis/public-apis/README.md)
 
@@ -88,7 +88,7 @@
 
 ### Tools / Community providers
 
-*   [yor (⭐838)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
+*   [yor (⭐863)](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -213,7 +213,7 @@
 
 ### IO / DAC
 
-*   [mcp4728 (⭐3)](https://github.com/openfablab/mcp4728) - Helper library for the Microchip MCP4728 I2C 12-bit Quad DAC.
+*   [mcp4728 (⭐4)](https://github.com/openfablab/mcp4728) - Helper library for the Microchip MCP4728 I2C 12-bit Quad DAC.
 
 ## [15. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
@@ -262,11 +262,11 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [tanvirtin/monokai.nvim (⭐355)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
+*   [tanvirtin/monokai.nvim (⭐364)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 
 ### Git / Diagnostics
 
-*   [tanvirtin/vgit.nvim (⭐603)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your Git experience.
+*   [tanvirtin/vgit.nvim (⭐724)](https://github.com/tanvirtin/vgit.nvim) - Visual Git Plugin to enhance your Git experience.
 
 ---
 

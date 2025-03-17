@@ -80,7 +80,7 @@
 
 *   [Nitter (⭐10k)](https://github.com/zedeus/nitter/wiki/Instances) - Nitter is a free and open source alternative Twitter front-end focused on privacy.
     *   [Fritter (⭐1.4k)](https://github.com/jonjomckay/fritter/) - A free, open-source Nitter client for Android (feed no longer available).
-        *   *   [Squawker (⭐1k)](https://github.com/j-fbriere/squawker) - An active fork of Fritter that fixes the feed.
+        *   *   [Squawker (⭐1.1k)](https://github.com/j-fbriere/squawker) - An active fork of Fritter that fixes the feed.
 
 ## [10. Alternative Front Ends](/content/mendel5/alternative-front-ends/README.md)
 

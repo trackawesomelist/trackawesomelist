@@ -10,7 +10,7 @@
 
 ### Table of Contents / Testing
 
-*   [PHP-Mock (⭐360)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
+*   [PHP-Mock (⭐361)](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 
 ### Table of Contents / Task Runners
 

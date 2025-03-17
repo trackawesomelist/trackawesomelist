@@ -90,7 +90,7 @@
 ### Format Readers, Writers and Checkers / Apache License
 
 *   [protobuf-ada (⭐18)](https://github.com/persan/protobuf-ada) - Experimental Ada code generation support for Google Protocol Buffers.
-*   [protobuf (⭐33)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐7)](https://github.com/godunko/matreshka).
+*   [protobuf (⭐36)](https://github.com/reznikmm/protobuf) - A Google Protocol Buffers implementation in Ada, using [matreshka (⭐7)](https://github.com/godunko/matreshka).
 *   [ada-toml (⭐32)](https://github.com/pmderodat/ada-toml) - TOML parser for Ada.
 
 ### Web / Apache License

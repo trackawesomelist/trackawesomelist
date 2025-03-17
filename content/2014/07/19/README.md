@@ -461,8 +461,8 @@
 
 ### Log / Runner
 
-*   [console.log-wrapper (⭐406)](https://github.com/patik/console.log-wrapper) - Log to the console in any browser with clarity.
-*   [loglevel (⭐2.6k)](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
+*   [console.log-wrapper (⭐407)](https://github.com/patik/console.log-wrapper) - Log to the console in any browser with clarity.
+*   [loglevel (⭐2.7k)](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.
 
 ## [13. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 

@@ -347,39 +347,39 @@
 
 ### Web Frameworks
 
-*   [aiohttp (⭐13k)](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (PEP-3156).
-*   [sanic (⭐17k)](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
-*   [autobahn (⭐2.4k)](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
+*   [aiohttp (⭐15k)](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (PEP-3156).
+*   [sanic (⭐18k)](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
+*   [autobahn (⭐2.5k)](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
 
 ### Message Queues
 
-*   [aioamqp (⭐268)](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio.
+*   [aioamqp (⭐280)](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio.
 *   [crossbar (⭐2k)](https://github.com/crossbario/crossbar) - Crossbar.io is a networking platform for distributed and microservice applications.
 
 ### Database Drivers
 
-*   [aiopg (⭐1.3k)](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
-*   [aiomysql (⭐1.5k)](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
-*   [aioodbc (⭐253)](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
-*   [motor (⭐2.1k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
+*   [aiopg (⭐1.4k)](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
+*   [aiomysql (⭐1.8k)](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
+*   [aioodbc (⭐311)](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
+*   [motor (⭐2.5k)](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
 *   [aiocouchdb (⭐53)](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 
 ### Networking
 
-*   [AsyncSSH (⭐1.3k)](https://github.com/ronf/asyncssh) - Provides an asynchronous client and server implementation of the SSHv2 protocol.
+*   [AsyncSSH (⭐1.6k)](https://github.com/ronf/asyncssh) - Provides an asynchronous client and server implementation of the SSHv2 protocol.
 
 ### Testing
 
-*   [asynctest (⭐301)](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
-*   [pytest-asyncio (⭐1.1k)](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
+*   [asynctest (⭐309)](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
+*   [pytest-asyncio (⭐1.5k)](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 
 ### Alternative Loops
 
-*   [uvloop (⭐9.1k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
+*   [uvloop (⭐11k)](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 
 ### Misc
 
-*   [aiofiles (⭐2.1k)](https://github.com/Tinche/aiofiles/) - File support for asyncio.
+*   [aiofiles (⭐3k)](https://github.com/Tinche/aiofiles/) - File support for asyncio.
 
 ### Writings
 
@@ -491,7 +491,7 @@
 
 ### Other / Event listeners for fonts loading on a web page
 
-*   [Command line font-manager (⭐17)](https://github.com/alyssais/font)
+*   [Command line font-manager (⭐18)](https://github.com/alyssais/font)
 
 ## [23. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
@@ -632,7 +632,7 @@
 
 ### Text / Barcode
 
-*   [Notepad (⭐879)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
+*   [Notepad (⭐883)](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 
 ### Calendar / Barcode
 
@@ -656,7 +656,7 @@
 
 ### Algorithms and Data structures
 
-*   [hash\_ring\_ex (⭐24)](https://github.com/reset/hash-ring-ex) - A consistent hash-ring implementation for Elixir.
+*   [hash\_ring\_ex (⭐25)](https://github.com/reset/hash-ring-ex) - A consistent hash-ring implementation for Elixir.
 *   [mmath (⭐4)](https://github.com/dalmatinerdb/mmath) - A library for performing math on number 'arrays' in binaries.
 *   [zipper\_tree (⭐19)](https://github.com/Dkendal/zipper_tree) - Variadic arity tree with a zipper for Elixir.
 
@@ -666,7 +666,7 @@
 
 ### Authorization
 
-*   [bodyguard (⭐758)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
+*   [bodyguard (⭐762)](https://github.com/schrockwell/bodyguard) - A flexible authorization library for Phoenix applications.
 
 ### Caching
 
@@ -686,7 +686,7 @@
 
 ### ORM and Datamapping
 
-*   [arbor (⭐242)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
+*   [arbor (⭐241)](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
 *   [ex\_sider (⭐6)](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
 
 ### Statistics
@@ -696,7 +696,6 @@
 ### Testing
 
 *   [apocryphal (⭐17)](https://github.com/coryodaniel/apocryphal) - Swagger based document driven development for ExUnit.
-*   [ex\_parameterized (⭐29)](https://github.com/KazuCocoa/ex_parameterized) - Simple macro for parameterized testing.
 
 ### Text and Numbers
 

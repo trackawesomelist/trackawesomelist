@@ -20,7 +20,7 @@
 
 ### Embeddable Scripting Languages
 
-*   [Wa/凹语言 (⭐1.3k)](https://github.com/wa-lang/wa) - The Wa Programming Language embedded in Go.
+*   [Wa/凹语言 (⭐1.4k)](https://github.com/wa-lang/wa) - The Wa Programming Language embedded in Go.
 
 ### Security
 
@@ -30,11 +30,11 @@
 
 ### Applications / Database
 
-*   [lancedb (⭐5.3k)](https://github.com/lancedb/lancedb) \[[vectordb](https://crates.io/crates/vectordb)] - A serverless, low-latency vector database for AI applications
+*   [lancedb (⭐5.8k)](https://github.com/lancedb/lancedb) \[[vectordb](https://crates.io/crates/vectordb)] - A serverless, low-latency vector database for AI applications
 
 ### Libraries / Artificial Intelligence
 
-*   [guillaume-be/rust-bert (⭐2.7k)](https://github.com/guillaume-be/rust-bert) \[[rust\_bert](https://crates.io/crates/rust_bert)] - Ready-to-use NLP pipelines and language models
+*   [guillaume-be/rust-bert (⭐2.8k)](https://github.com/guillaume-be/rust-bert) \[[rust\_bert](https://crates.io/crates/rust_bert)] - Ready-to-use NLP pipelines and language models
 
 ## [4. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 

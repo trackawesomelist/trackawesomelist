@@ -10,7 +10,7 @@
 
 ### Plugins / IRC
 
-*   [Composer-Asset-Plugin (⭐893)](https://github.com/fxpio/composer-asset-plugin) - A npm/Bower Dependencies Manager for Composer.
+*   [Composer-Asset-Plugin (⭐890)](https://github.com/fxpio/composer-asset-plugin) - A npm/Bower Dependencies Manager for Composer.
 
 ## [2. Awesome Jvm](/content/deephacks/awesome-jvm/README.md)
 

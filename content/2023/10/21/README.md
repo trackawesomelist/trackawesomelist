@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 21, 2023
 
-10 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -28,19 +28,13 @@
 
 ### (requires Neovim 0.5)
 
-*   [vxpm/ferris.nvim (⭐97)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
+*   [vxpm/ferris.nvim (⭐99)](https://github.com/vxpm/ferris.nvim) - Interact with Rust-Analyzer's LSP extensions.
 
 ### Terminal Integration / Diagnostics
 
 *   [niuiic/terminal.nvim (⭐21)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
 
-## [5. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/README.md)
-
-### Algorithms & Data Structures
-
-*   [Learning Algorithm](https://riptutorial.com/Download/algorithm.pdf) - Compiled from StackOverflow documentation (PDF)
-
-## [6. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+## [5. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ### Logo Generator
 
@@ -50,7 +44,7 @@
 
 *   [Pictory AI](https://pictory.ai/) - Pictory AI is a video creation tool that makes it effortless to produce short videos from your long-form content like scripts, posts `#paid`
 
-## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [6. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Party
 
@@ -112,13 +106,13 @@
 | ------: | -------: | ---: |
 |   2 - 5 |       13 |  90m |
 
-## [8. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Money, Budgeting & Management
 
 *   [Galette](https://galette.eu/) - Galette is a membership management web application towards non profit organizations. ([Source Code](https://git.tuxfamily.org/galette/galette.git/)) `GPL-3.0` `PHP`
 
-## [9. Magictools](/content/ellisonleao/magictools/README.md)
+## [8. Magictools](/content/ellisonleao/magictools/README.md)
 
 ### Communities / Voxel Editors
 
@@ -129,13 +123,13 @@
 *   [Brackeys Forum](https://forum.brackeys.com/)
 *   [GameDev.tv](https://community.gamedev.tv/)
 
-## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Scuri Code](https://marketplace.visualstudio.com/items?itemName=gparlakov.scuri-code) - A VS Code extention that will generate and maintain seeds for your unit tests.
 
-### Testing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Auto-create and -update tests tool](https://www.npmjs.com/package/scuri) - Automate Angular unit test and boilerplate with this schematic.
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 08, 2024
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -10,13 +10,13 @@
 
 ### Libraries/Packages/Scripts / Polars plugins
 
-*   [polars-strsim (⭐9)](https://github.com/foxcroftjn/polars-strsim) - Polars plugin that computes string similarity measures directly on a Polars dataframe by [@foxcroftjn](https://github.com/foxcroftjn).
+*   [polars-strsim (⭐11)](https://github.com/foxcroftjn/polars-strsim) - Polars plugin that computes string similarity measures directly on a Polars dataframe by [@foxcroftjn](https://github.com/foxcroftjn).
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Artificial Intelligence
 
-*   [chromem-go (⭐389)](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
+*   [chromem-go (⭐425)](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 
 ## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -28,7 +28,7 @@
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-multiple-assets (⭐22)](https://github.com/nguyenbatranvan/vite-multiple-assets) - Add support for multiple public asset directories.
+*   [vite-multiple-assets (⭐24)](https://github.com/nguyenbatranvan/vite-multiple-assets) - Add support for multiple public asset directories.
 
 ## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
@@ -68,7 +68,17 @@
 
 ### Tools and session management
 
-*   [moxide (⭐4)](https://github.com/dlurak/moxide) A tmux session manager with a modular config
+*   [moxide (⭐6)](https://github.com/dlurak/moxide) A tmux session manager with a modular config
+
+## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### HTML and CSS / Bootstrap
+
+*   [Bootstrap 4 Quick Start Book](https://bootstrapclasses.com/shop/bootstrap-quick-start) - Jacob Lett (PDF, EPUB, MOBI)
+
+### JavaScript / Meteor
+
+*   [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](https://web.archive.org/web/20230815173101/http://meteortips.com/first-meteor-tutorial/) (HTML) *(:card\_file\_box: archived)*
 
 ---
 

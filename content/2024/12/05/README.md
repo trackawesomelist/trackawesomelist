@@ -22,11 +22,11 @@
 
 ### Programming Languages / Lean
 
-*   [lean4-nix (⭐22)](https://github.com/lenianiva/lean4-nix) -  Nix flake build for Lean 4, and `lake2nix`.
+*   [lean4-nix (⭐33)](https://github.com/lenianiva/lean4-nix) -  Nix flake build for Lean 4, and `lake2nix`.
 
 ### NixOS Modules / Zig
 
-*   [NixOS-WSL (⭐2k)](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
+*   [NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - Modules for running NixOS on the Windows Subsystem for Linux.
 
 ## [4. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
@@ -36,16 +36,16 @@
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Autonomous LLM Agents / Multi-agents
-
-*   [\[2411.00114\] Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/abs/2411.00114)
-*   [joonspk-research/generative\_agents (⭐18k)](https://github.com/joonspk-research/generative_agents): implementation of the paper Generative Agents: Interactive Simulacra of Human Behavior
-
-### Speech-to-text (STT) and spoken content analysis / Deforum
+### Vibe Coding
 
 *   [Lovable](https://lovable.dev/): "Idea to app in seconds. Lovable is your superhuman full stack engineer."
 *   [v0 by Vercel](https://v0.dev/chat): assistant to build NextJS frontend
-*   [Cursor](https://www.cursor.com/): The AI Code Editor
+*   [Cursor](https://www.cursor.com/): The AI Code Editor, "the best way to code with AI"
+
+### Autonomous LLM Agents / Multi-agents
+
+*   [\[2411.00114\] Project Sid: Many-agent simulations toward AI civilization](https://arxiv.org/abs/2411.00114)
+*   [joonspk-research/generative\_agents (⭐19k)](https://github.com/joonspk-research/generative_agents): implementation of the paper Generative Agents: Interactive Simulacra of Human Behavior
 
 ## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

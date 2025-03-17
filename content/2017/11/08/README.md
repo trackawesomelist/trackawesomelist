@@ -28,7 +28,7 @@
 
 ### URI and IP handling / Isomorphic web frameworks
 
-*   [quri (⭐114)](https://github.com/fukamachi/quri) - Another URI library for
+*   [quri (⭐113)](https://github.com/fukamachi/quri) - Another URI library for
     Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
     utilities,… [BSD\_3Clause](https://directory.fsf.org/wiki/License:BSD_3Clause).
 
@@ -82,7 +82,7 @@
 
 ### Web Frameworks
 
-*   [websockets (⭐4.3k)](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
+*   [websockets (⭐5.3k)](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
 
 ## [11. Awesome Speakers](/content/karlhorky/awesome-speakers/README.md)
 

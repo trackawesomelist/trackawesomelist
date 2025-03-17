@@ -10,11 +10,11 @@
 
 ### DevOps / Discovery
 
-*   [nixidy (⭐122)](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
+*   [nixidy (⭐132)](https://github.com/arnarg/nixidy) - Kubernetes GitOps with Nix and Argo CD.
 
 ### Programming Languages / Gleam
 
-*   [nix-gleam (⭐18)](https://github.com/arnarg/nix-gleam) - Generic Nix builder for Gleam applications.
+*   [nix-gleam (⭐22)](https://github.com/arnarg/nix-gleam) - Generic Nix builder for Gleam applications.
 
 ## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
@@ -31,15 +31,11 @@
 
 *   [Seline](https://seline.so) - Seline is a simple & private website and product analytics. Cookieless, lightweight, independent. Free plan includes 3,000 events per month and provides access to all our features, such as the dashboard, user journeys, funnels, and more.
 
-### Other Free Resources
-
-*   [PostPulse](https://post-pulse.io) - Boost your online presence, enhance your SEO and site ranking with monthly AI-crafted posts to SEO-optimized domains The free Plan allows you to manually publish one Post on our site every month.
-
 ## [3. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Databases
 
-*   [Neon (⭐11)](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
+*   [Neon (⭐12)](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
 
 ## [4. Awesome Blazor](/content/AdrienTorris/awesome-blazor/README.md)
 
@@ -56,7 +52,7 @@
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
-*   [0xstepit/flow.nvim (⭐265)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
+*   [0xstepit/flow.nvim (⭐269)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
 
 ## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
@@ -66,19 +62,19 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Remult (⭐2.8k)](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
+*   [Remult (⭐3k)](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
 
 ### Date / Runner
 
-*   [tempo (⭐2.3k)](https://github.com/formkit/tempo) - Parsing, formatting, and timezones — Tempo is a small tree-shakable library for native Date objects.
+*   [tempo (⭐2.5k)](https://github.com/formkit/tempo) - Parsing, formatting, and timezones — Tempo is a small tree-shakable library for native Date objects.
 
 ### Benchmark / Runner
 
-*   [bencher (⭐489)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [bencher (⭐635)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ### Generators / Other
 
-*   [Lume (⭐1.8k)](https://github.com/lumeland/lume) - Static site generator for Deno.
+*   [Lume (⭐2k)](https://github.com/lumeland/lume) - Static site generator for Deno.
 
 ### Misc / Other
 
@@ -94,7 +90,7 @@
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Angular-18-boilerplate (⭐53)](https://github.com/Gentleman-Programming/Angular-18-boilerplate)
+*   [Angular-18-boilerplate (⭐54)](https://github.com/Gentleman-Programming/Angular-18-boilerplate)
 
 ### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -102,13 +98,13 @@
 
 ### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [valibot (⭐6.9k)](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
+*   [valibot (⭐7k)](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data.
 
 ## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Standalone apps / Playground
 
-*   :octocat: [MemFree (⭐1.2k)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
+*   :octocat: [MemFree (⭐1.3k)](https://github.com/memfreeme/memfree) - Open Source Hybrid AI Search Engine, Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs. Support One-Click Deployment.
 
 ---
 

@@ -14,22 +14,25 @@
 
 ## [2. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
-### Transport / RIST
-
-*   [RIST Forum](https://www.rist.tv/)  - The RIST forum manage the Reliable Internet Stream Transport (RIST), for transporting live video over unmanaged networks.
-*   [librist](https://code.videolan.org/rist/librist)  - A library that can be used to easily add the RIST protocol to your application.
-
-### Transport / RTMP
+### Video Streaming & Distribution Solutions / RTMP/RTSP/HTTP Protocol Servers
 
 *   [Create your own video streaming server with Linux](https://opensource.com/article/19/1/basic-live-video-streaming-server)  - Using Nginx to create a streaming server using RTMP and nginx
-*   [The Real-Time Messaging Protocol Explained](https://www.wowza.com/blog/rtmp-streaming-real-time-messaging-protocol)  -
+*   [SRT Open Source project (⭐3.2k)](https://github.com/Haivision/srt)  - A tool or resource for rtmprtsphttp-protocol-servers.
+*   [Streaming With SRT Protocol in OBS](https://obsproject.com/wiki/Streaming-With-SRT-Protocol)  - A tool or resource for rtmprtsphttp-protocol-servers.
+*   [librist](https://code.videolan.org/rist/librist)  - A library that can be used to easily add the RIST protocol to your application.
 
-### Transport / SRT
+### Standards, Specifications & Industry Resources / Adaptive Streaming Standards
 
-*   [SRT Alliance](https://www.srtalliance.org/)  - Home page for the SRT protocol
+*   [The Real-Time Messaging Protocol Explained](https://www.wowza.com/blog/rtmp-streaming-real-time-messaging-protocol)  - A tool or resource for adaptive-streaming-standards.
+
+### Standards, Specifications & Industry Resources / Best Practices & Guidelines
+
 *   [SRT Cookbook](https://srtlab.github.io/srt-cookbook/)  - More in-depth technical documentaion on the SRT protocol and library.
-*   [SRT Open Source project (⭐3.1k)](https://github.com/Haivision/srt)  -
-*   [Streaming With SRT Protocol in OBS](https://obsproject.com/wiki/Streaming-With-SRT-Protocol)  -
+
+### Standards, Specifications & Industry Resources / Industry Forums & Standards Bodies
+
+*   [RIST Forum](https://www.rist.tv/)  - The RIST forum manage the Reliable Internet Stream Transport (RIST), for transporting live video over unmanaged networks.
+*   [SRT Alliance](https://www.srtalliance.org/)  - Home page for the SRT protocol
 
 ## [3. Awesome Sre](/content/dastergon/awesome-sre/README.md)
 
@@ -49,7 +52,7 @@
 
 ### Serialization
 
-*   [vproto (⭐53)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
+*   [vproto (⭐55)](https://github.com/emily33901/vproto) - Protobuf compiler and runtime in V.
 
 ## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
@@ -89,11 +92,6 @@
 *   [xonsh (⭐8.2k)](https://github.com/xonsh/xonsh/) - A Python-powered, cross-platform, Unix-gazing shell language and command prompt.
 
 ## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
-
-### Developer Tools / Command Line Tools
-
-*   [xonsh](https://xon.sh/contents.html) - Python-powered, cross-platform, Unix-gazing shell language and command prompt. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xonsh/xonsh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [xxh (⭐5.5k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through the SSH. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/xxh/xxh) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Email Clients
 

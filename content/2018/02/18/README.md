@@ -55,7 +55,7 @@
 
 ### C bindings
 
-*   [pledge.cr (⭐8)](https://github.com/chris-huxtable/pledge.cr) - Bindings for OpenBSD's `pledge(2)`
+*   [pledge.cr (⭐9)](https://github.com/chris-huxtable/pledge.cr) - Bindings for OpenBSD's `pledge(2)`
 
 ## [7. Awesome Web Design](/content/nicolesaidy/awesome-web-design/README.md)
 

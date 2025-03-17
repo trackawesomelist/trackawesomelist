@@ -16,7 +16,7 @@
 
 ### Data Visualization
 
-*   [Chartist.js (⭐43)](https://github.com/gionkunz/chartist-js) - another open source HTML5 Charts visualization.
+*   [Chartist.js (⭐78)](https://github.com/gionkunz/chartist-js) - another open source HTML5 Charts visualization.
 
 ---
 

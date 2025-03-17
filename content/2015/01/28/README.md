@@ -32,11 +32,7 @@
 
 ### Code Analysis
 
-*   [exprof (⭐179)](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
-
-### Command Line Applications
-
-*   [anubis (⭐130)](https://github.com/bennyhallett/anubis) - Command-Line application framework for Elixir.
+*   [exprof (⭐180)](https://github.com/parroty/exprof) - A simple code profiler for Elixir, using eprof.
 
 ### Date and Time
 
@@ -53,7 +49,6 @@
 
 ### Files and Directories
 
-*   [cassius](https://github.com/jquadrin/cassius) - Monitor Linux file system events.
 *   [Radpath (⭐22)](https://github.com/lowks/Radpath) - Path library for Elixir, inspired by Python's Enhpath.
 
 ### Framework Components
@@ -64,7 +59,7 @@
 
 ### HTTP
 
-*   [exvcr (⭐733)](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
+*   [exvcr (⭐735)](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
 
 ### Images
 
@@ -72,12 +67,12 @@
 
 ### JSON
 
-*   [jsx (⭐693)](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
+*   [jsx (⭐694)](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
 
 ### Miscellaneous
 
 *   [dynamic\_compile (⭐1)](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
-*   [exsync (⭐164)](https://github.com/falood/exsync) - Yet another Elixir reloader.
+*   [exsync (⭐167)](https://github.com/falood/exsync) - Yet another Elixir reloader.
 *   [url\_unroller (⭐5)](https://github.com/semanticart/url_unroller) - Simple URL unroller (un-shortener) in Elixir.
 
 ### ORM and Datamapping
@@ -90,8 +85,7 @@
 
 ### Release Management
 
-*   [changex (⭐47)](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
-*   [exrm\_rpm (⭐39)](https://github.com/smpallen99/exrm-rpm) - Create a RPM for your Elixir release with ease.
+*   [changex (⭐48)](https://github.com/Gazler/changex) - Automated changelog generation from GIT logs.
 
 ### Templating
 
@@ -99,16 +93,16 @@
 
 ### Testing
 
-*   [faker (⭐1.1k)](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
+*   [faker](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
 *   [mix\_eunit (⭐17)](https://github.com/dantswain/mix_eunit) - A Mix task to execute eunit tests.
 *   [mixunit (⭐2)](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
-*   [mock (⭐663)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
+*   [mock (⭐665)](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 
 ### Text and Numbers
 
 *   [bencoder (⭐4)](https://github.com/alehander42/bencoder) - bencode in Elixir.
-*   [exmoji (⭐95)](https://github.com/mroth/exmoji) - Emoji encoding Swiss Army knife for Elixir/Erlang.
-*   [pinyin (⭐23)](https://github.com/lidashuang/pinyin) - Chinese Pinyin lib for Elixir.
+*   [exmoji (⭐96)](https://github.com/mroth/exmoji) - Emoji encoding Swiss Army knife for Elixir/Erlang.
+*   [pinyin (⭐24)](https://github.com/lidashuang/pinyin) - Chinese Pinyin lib for Elixir.
 *   [tomlex (⭐32)](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
 
 ### Third Party APIs
@@ -116,7 +110,7 @@
 *   [balanced (⭐4)](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
 *   [commerce\_billing (⭐179)](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
 *   [exgravatar (⭐24)](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.
-*   [extwitter (⭐408)](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
+*   [extwitter (⭐409)](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
 
 ### Other Awesome Lists
 

@@ -86,7 +86,7 @@
 
 ### Internet of things and sensor data
 
-*   [NetLytics (⭐10)](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
+*   [NetLytics (⭐9)](https://github.com/marty90/netlytics/) - Analytics platform to process network data on Spark.
 
 ## [4. Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md)
 

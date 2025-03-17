@@ -10,7 +10,7 @@
 
 ### Remote Sensing and Imagery / Shapefiles
 
-*   [Awesome Vegetation Index (⭐44)](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
+*   [Awesome Vegetation Index (⭐68)](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
 
 ## [2. Awesome Spark](/content/awesome-spark/awesome-spark/README.md)
 
@@ -26,9 +26,9 @@
 
 ## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
-### Players / MPEG
+### Video Players & Playback Libraries / Frameworks & UI Components
 
-*   [adrg/libvlc-go (⭐436)](https://github.com/adrg/libvlc-go)  - Go bindings for libVLC and high-level media player interface.
+*   [adrg/libvlc-go (⭐457)](https://github.com/adrg/libvlc-go)  - Go bindings for libVLC and high-level media player interface.
 
 ## [5. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 
@@ -49,7 +49,7 @@
 
   Directly to Your Wallet: Yes
 
-  Conversion to Fiat: Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/)
+  Conversion to Fiat: Via [Strike plugin (⭐12)](https://github.com/Marfusios/strike-btcpayserver-plugin) or [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/)
 
   Requirements: 2 GB RAM, 80 GB Storage, Docker
 
@@ -91,7 +91,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [tsParticles (⭐8k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
+*   [tsParticles (⭐8.1k)](https://github.com/matteobruni/tsparticles) - A lightweight Javascript library to easily create highly configurable and interactive particle animations
 
 ## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Other LLM Frameworks / Videos Playlists
 
-*   [Embedbase (⭐502)](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
+*   [Embedbase (⭐504)](https://github.com/different-ai/embedbase): The native Software 3.0 stack for building AI-powered applications. ![GitHub Repo stars](https://img.shields.io/github/stars/different-ai/embedbase?style=social)
 
 ## [2. Awesome Security](/content/sbilly/awesome-security/README.md)
 
@@ -34,7 +34,7 @@
 
 ### ORM
 
-*   [go-dbw (⭐15)](https://github.com/hashicorp/go-dbw) - A simple package that encapsulates database operations.
+*   [go-dbw (⭐16)](https://github.com/hashicorp/go-dbw) - A simple package that encapsulates database operations.
 
 ## [4. Awesome Nlg](/content/accelerated-text/awesome-nlg/README.md)
 

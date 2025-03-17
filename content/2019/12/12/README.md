@@ -10,7 +10,7 @@
 
 ### Packages / Testing
 
-*   [nve (⭐694)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
+*   [nve (⭐699)](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 
 ## [2. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md)
 
@@ -22,33 +22,35 @@
 
 ### Front-End Development
 
-*   [Seed (⭐214)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
+*   [Seed (⭐219)](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 
 ## [4. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
-### Learning
+### Video Encoding, Transcoding & Packaging Tools / Containerization & Packaging Tools
 
-*   [Back to Basics: Encoding Definition and Adaptive Bitrate](https://bitmovin.com/encoding-definition-bitrates/?utm_campaign=Newsletter\&utm_medium=email&_hsenc=p2ANqtz-8MPFxhR7snQrxPYM7Bl3UTEMgOh5ZXoDQCHjLl9lkskqE0IfBhEuz3us39Br-lvA_CnyNmQl6L5wqO6iKOfAJ8HznenQ&_hsmi=79678208\&utm_content=79677632\&utm_source=hs_email\&hsCtaTracking=b8eb0e0a-f292-435e-8b99-719b75d81412%7C367afa65-d810-4c2e-aa2c-c87e897a8942)  -
-*   [Creating a Master Playlist | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/creating_a_master_playlist#overview)  -
-*   [HLS Authoring Specification for Apple Devices | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/hls_authoring_specification_for_apple_devices)  -
-*   [Understanding the HTTP Live Streaming Architecture | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/understanding_the_http_live_streaming_architecture)  -
+*   [Bento4 | Fast, Modern Tools and C++ Class Library for all your MP4 and DASH media format needs](https://www.bento4.com/)  - A tool or resource for containerization-packaging-tools.
 
-### HLS / Talks Presentations Podcasts
+### Adaptive Streaming & Manifest Tools / DASH Tools
 
-*   [HLS | Bento4](https://www.bento4.com/developers/hls/)  -
-*   [Protocol Extension for Low-Latency HLS (Preliminary Specification) | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/protocol_extension_for_low-latency_hls_preliminary_specification#3291001)  -
+*   [mp4dash | Bento4](https://www.bento4.com/documentation/mp4dash/)  - A tool or resource for dash-tools.
 
-### DASH / Talks Presentations Podcasts
+### Adaptive Streaming & Manifest Tools / HLS Tools
 
-*   [mp4dash | Bento4](https://www.bento4.com/documentation/mp4dash/)  -
+*   [Creating a Master Playlist | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming/creating_a_master_playlist#overview)  - A tool or resource for hls-tools.
+*   [HLS | Bento4](https://www.bento4.com/developers/hls/)  - A tool or resource for hls-tools.
+*   [Protocol Extension for Low-Latency HLS (Preliminary Specification) | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/protocol_extension_for_low-latency_hls_preliminary_specification#3291001)  - A tool or resource for hls-tools.
 
-### Encoding / Talks Presentations Podcasts
+### Standards, Specifications & Industry Resources / Adaptive Streaming Standards
 
-*   [Bento4 | Fast, Modern Tools and C++ Class Library for all your MP4 and DASH media format needs](https://www.bento4.com/)  -
+*   [HLS Authoring Specification for Apple Devices | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/hls_authoring_specification_for_apple_devices)  - A tool or resource for adaptive-streaming-standards.
 
-### Testing / Dolby
+### Learning, Tutorials & Documentation / Encoding & Transcoding Guides
 
-*   [HTTP Live Streaming (HLS) - Artillery.io Docs](https://artillery.io/docs/plugin-hls/)  -
+*   [Back to Basics: Encoding Definition and Adaptive Bitrate](https://bitmovin.com/encoding-definition-bitrates/?utm_campaign=Newsletter\&utm_medium=email&_hsenc=p2ANqtz-8MPFxhR7snQrxPYM7Bl3UTEMgOh5ZXoDQCHjLl9lkskqE0IfBhEuz3us39Br-lvA_CnyNmQl6L5wqO6iKOfAJ8HznenQ&_hsmi=79678208\&utm_content=79677632\&utm_source=hs_email\&hsCtaTracking=b8eb0e0a-f292-435e-8b99-719b75d81412%7C367afa65-d810-4c2e-aa2c-c87e897a8942)  - A tool or resource for encoding-transcoding-guides.
+
+### Learning, Tutorials & Documentation / Video Streaming Tutorials
+
+*   [Understanding the HTTP Live Streaming Architecture | Apple Developer Documentation](https://developer.apple.com/documentation/http_live_streaming/understanding_the_http_live_streaming_architecture)  - A tool or resource for video-streaming-tutorials.
 
 ## [5. Js Must Watch](/content/bolshchikov/js-must-watch/README.md)
 

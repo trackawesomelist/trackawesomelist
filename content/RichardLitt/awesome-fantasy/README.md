@@ -2,7 +2,7 @@
 
 :european_castle: Fantasy literature worth reading
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RichardLitt/awesome-fantasy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) · ⭐ 1.2K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/RichardLitt/awesome-fantasy/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 RichardLitt/awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) · ⭐ 1.3K · 🏷️ Entertainment
 
 [ Daily / [Weekly](/content/RichardLitt/awesome-fantasy/week/README.md) / [Overview](/content/RichardLitt/awesome-fantasy/readme/README.md) ]
 

@@ -45,27 +45,27 @@
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [@diy0r/nestjs-rabbitmq (⭐11)](https://github.com/DIY0R/nestjs-rabbitmq) - Library for building NestJS microservices with RabbitMQ.
+*   :octocat: [@diy0r/nestjs-rabbitmq (⭐14)](https://github.com/DIY0R/nestjs-rabbitmq) - Library for building NestJS microservices with RabbitMQ.
 
 ## [5. Awesome Vite](/content/vitejs/awesome-vite/week/README.md)
 
 ### Templates / Vanilla
 
-*   [template-vite (⭐89)](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
-*   [template-vite-ts (⭐122)](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
-*   [vite-ts-bulma-sass-template (⭐2)](https://github.com/naoki-00-ito/vite-ts-bulma-sass-template) - Starter template `TypeScript`, `Bulma`, `Sass`, `Stylelint`, `Biome`.
+*   [template-vite (⭐90)](https://github.com/phaserjs/template-vite) - An official quickstart template with Phaser.
+*   [template-vite-ts (⭐128)](https://github.com/phaserjs/template-vite-ts) - An official quickstart template with Phaser and TypeScript.
+*   [vite-ts-bulma-sass-template (⭐3)](https://github.com/naoki-00-ito/vite-ts-bulma-sass-template) - Starter template `TypeScript`, `Bulma`, `Sass`, `Stylelint`, `Biome`.
 
 ### Tauri / F# and Fable
 
-*   [vite-plugin-fable (⭐32)](https://github.com/nojaf/vite-plugin-fable) - Template with `.fs` and `.fsproj` files and the F# compiler.
+*   [vite-plugin-fable (⭐33)](https://github.com/nojaf/vite-plugin-fable) - Template with `.fs` and `.fsproj` files and the F# compiler.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [module-federation/vite (⭐369)](https://github.com/module-federation/vite) - Official Module Federation integration, enabling dynamic remote module loading.
+*   [module-federation/vite (⭐407)](https://github.com/module-federation/vite) - Official Module Federation integration, enabling dynamic remote module loading.
 
 ### Framework-agnostic Plugins / Loaders
 
-*   [@responsive-image/vite-plugin (⭐131)](https://github.com/simonihmig/responsive-image) - Transform and generate optimized responsive images (WebP, AVIF) and LQIP placeholders for use with image components.
+*   [@responsive-image/vite-plugin (⭐148)](https://github.com/simonihmig/responsive-image) - Transform and generate optimized responsive images (WebP, AVIF) and LQIP placeholders for use with image components.
 
 ### Framework-agnostic Plugins / Transformers
 
@@ -73,7 +73,7 @@
 
 ### Framework-agnostic Plugins / Security
 
-*   [vite-plugin-csp (⭐1)](https://github.com/maccuaa/vite-plugin-csp) - Content Security Policy (CSP) for SPA. Automatically calculates asset hashes (SRI), detects Google Fonts. Support `Bun` and `Node.js` runtimes.
+*   [vite-plugin-csp (⭐4)](https://github.com/maccuaa/vite-plugin-csp) - Content Security Policy (CSP) for SPA. Automatically calculates asset hashes (SRI), detects Google Fonts. Support `Bun` and `Node.js` runtimes.
 
 ## [6. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
 
@@ -92,39 +92,39 @@
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [nvim-telescope/telescope-bibtex.nvim (⭐121)](https://github.com/nvim-telescope/telescope-bibtex.nvim) - Telescope extension to search and paste BibTeX entries into your TeX files.
+*   [nvim-telescope/telescope-bibtex.nvim (⭐123)](https://github.com/nvim-telescope/telescope-bibtex.nvim) - Telescope extension to search and paste BibTeX entries into your TeX files.
 
 ### Search / Diagnostics
 
-*   [wurli/visimatch.nvim (⭐42)](https://github.com/wurli/visimatch.nvim) - Adds highlights to any text matching the current selection in visual mode.
+*   [wurli/visimatch.nvim (⭐48)](https://github.com/wurli/visimatch.nvim) - Adds highlights to any text matching the current selection in visual mode.
 
 ### Project / Diagnostics
 
-*   [zongben/proot.nvim (⭐2)](https://github.com/zongben/proot.nvim) - Lightweight project navigator with telescope.
+*   [zongben/proot.nvim (⭐3)](https://github.com/zongben/proot.nvim) - Lightweight project navigator with telescope.
 
 ### Bars and Lines / Diagnostics
 
-*   [mawkler/hml.nvim (⭐20)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
+*   [mawkler/hml.nvim (⭐21)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
 
 ### Cursorline / Diagnostics
 
-*   [ya2s/nvim-cursorline (⭐420)](https://github.com/ya2s/nvim-cursorline) - A plugin that highlights cursor words and lines.
+*   [ya2s/nvim-cursorline (⭐429)](https://github.com/ya2s/nvim-cursorline) - A plugin that highlights cursor words and lines.
 
 ### Icon / Diagnostics
 
-*   [ya2s/nvim-nonicons (⭐332)](https://github.com/ya2s/nvim-nonicons) - Collection of configurations for nvim-web-devicons.
+*   [ya2s/nvim-nonicons (⭐335)](https://github.com/ya2s/nvim-nonicons) - Collection of configurations for nvim-web-devicons.
 
 ### Utility / Diagnostics
 
-*   [philosofonusus/ecolog.nvim (⭐114)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
+*   [philosofonusus/ecolog.nvim (⭐116)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
 
 ### Terminal Integration / Diagnostics
 
-*   [laktak/tome (⭐70)](https://github.com/laktak/tome) - Interactive Script playbooks for your terminal (optionally with Tmux).
+*   [laktak/tome (⭐90)](https://github.com/laktak/tome) - Interactive Script playbooks for your terminal (optionally with Tmux).
 
 ### Editing Support / Diagnostics
 
-*   [wurli/split.nvim (⭐20)](https://github.com/wurli/split.nvim) - Provides a mapping to split text by delimiter, giving an inverse of the native J command.
+*   [wurli/split.nvim (⭐26)](https://github.com/wurli/split.nvim) - Provides a mapping to split text by delimiter, giving an inverse of the native J command.
 
 ## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
@@ -138,11 +138,11 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-viz (⭐1)](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
+*   [ngx-viz (⭐2)](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@rainerhahnekamp/angular-starter (⭐39)](https://github.com/rainerhahnekamp/angular-starter) - A starter project for a modern Angular 19 application.
+*   [@rainerhahnekamp/angular-starter (⭐47)](https://github.com/rainerhahnekamp/angular-starter) - A starter project for a modern Angular 19 application.
 *   [BoilerPlate-FirebaseAngular (⭐1)](https://github.com/Yewo-Devs/BoilerPlate-FirebaseAngular) - Starting point for apps built using .NET, Angular, and Firebase.
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -151,7 +151,7 @@
 
 ### Cookies / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-cookie-ssr (⭐2)](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
+*   [ngx-cookie-ssr (⭐3)](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -176,9 +176,9 @@
 
 *   [brew-install (⭐0)](https://github.com/marceloclp/zsh-brew-install) - Installs and loads [brew](https://brew.sh) on WSL.
 *   [scad (⭐2)](https://github.com/MicahElliott/scad) - Shell Colorized Aliases for Docker/Podman (SCAD). Defines [docker](https://www.docker.com/) / [podman](https://podman.io) aliases and functions. These aliases adhere to the newer style of organizing and invoking `docker` with management commands rather than the notoriously confusing “random solo commands”. Requires [GRC (⭐1.9k)](https://github.com/garabik/grc) and [jq (⭐31k)](https://github.com/jqlang/jq).
-*   [uv-env (⭐0)](https://github.com/matthiasha/zsh-uv-env) - Automatically uses [uv (⭐36k)](https://github.com/astral-sh/uv) to activate a virtual environment based on the current directory.
+*   [uv-env (⭐0)](https://github.com/matthiasha/zsh-uv-env) - Automatically uses [uv (⭐42k)](https://github.com/astral-sh/uv) to activate a virtual environment based on the current directory.
 *   [xxh (ninagrosse) (⭐0)](https://github.com/ninagrosse/xxh-plugin-zsh-ohmyzsh) - Plugin for [xxh (⭐5.5k)](https://github.com/xxh/xxh) that requires [xxh-plugin-prerun-cli-tools (⭐0)](https://github.com/ninagrosse/xxh-plugin-prerun-cli-tools).
-*   [xxh (roman-geraskin) (⭐5)](https://github.com/roman-geraskin/xxh-plugin-zsh-zshrc) - plugin for [xxh-shell-zsh (⭐36)](https://github.com/xxh/xxh-shell-zsh) that copies your `~/.zshrc` to a remote host and sources it with [xxh-shell-zsh (⭐36)](https://github.com/xxh/xxh-shell-zsh).
+*   [xxh (roman-geraskin) (⭐5)](https://github.com/roman-geraskin/xxh-plugin-zsh-zshrc) - plugin for [xxh-shell-zsh (⭐37)](https://github.com/xxh/xxh-shell-zsh) that copies your `~/.zshrc` to a remote host and sources it with [xxh-shell-zsh (⭐37)](https://github.com/xxh/xxh-shell-zsh).
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

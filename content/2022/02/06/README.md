@@ -87,7 +87,7 @@
 
 ### Development tools / Web Servers
 
-*   [dan-t/rusty-tags (⭐412)](https://github.com/dan-t/rusty-tags) - create ctags/etags for a cargo project and all of its dependencies
+*   [dan-t/rusty-tags (⭐414)](https://github.com/dan-t/rusty-tags) - create ctags/etags for a cargo project and all of its dependencies
 
 ---
 

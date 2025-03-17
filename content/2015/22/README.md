@@ -31,15 +31,15 @@
 
 ### Web Development
 
-*   [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) by **Ilya Grigorik** \[41:10]
+*   [Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k) by **Ilya Grigorik** (Fluent 2013) \[41:10]
 
 ### Test-Driven Development
 
-*   [TDD in Tatters](https://vimeo.com/97537026) by **Scott Bellware** \[01:07:53]
+*   [TDD in Tatters](https://vimeo.com/97537026) by **Scott Bellware** (NDC 2014) \[01:07:53]
 
 ### Methodologies
 
-*   [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** \[53:03]
+*   [Why Agile Works](https://www.youtube.com/watch?v=BdSiBlLafNY) by **Alistair Cockburn** (Agile Lietuva 2012) \[53:03]
 
 ## [5. Awesome Unity](/content/RyanNielson/awesome-unity/week/README.md)
 
@@ -75,12 +75,8 @@
 ### Algorithms and Data structures
 
 *   [lz4 (⭐65)](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
-*   [monadex (⭐309)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
+*   [monadex (⭐310)](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
 *   [parex (⭐63)](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
-
-### Caching
-
-*   [locker (⭐152)](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 
 ### Command Line Applications
 
@@ -93,7 +89,7 @@
 
 ### Frameworks
 
-*   [trot (⭐420)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
+*   [trot (⭐419)](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 
 ### ORM and Datamapping
 
@@ -119,7 +115,7 @@
 
 *   [reddhl (⭐4)](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 *   [telephonist (⭐41)](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
-*   [tentacat (⭐448)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
+*   [tentacat (⭐449)](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 
 ### Utilities
 
@@ -128,7 +124,7 @@
 
 ### YAML
 
-*   [yomel (⭐6)](https://github.com/Joe-noh/yomel) - libyaml interface for Elixir.
+*   [yomel](https://github.com/Joe-noh/yomel) - libyaml interface for Elixir.
 
 ### Community
 
@@ -148,17 +144,17 @@
 *   [geojson-coords (⭐31)](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
 *   [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
 *   [geojson-js-utils (⭐403)](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
-*   [geojson-merge (⭐231)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
-*   [geojson-normalize (⭐32)](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
+*   [geojson-merge (⭐234)](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
+*   [geojson-normalize (⭐33)](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
 *   [geojson-pick](https://www.npmjs.com/package/geojson-pick): remove all but specified properties from features in a geojson featurecollection
-*   [geojson-rewind (⭐122)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
+*   [geojson-rewind (⭐129)](https://github.com/mapbox/geojson-rewind): enforce ring winding order
 *   [geojson-summary (⭐34)](https://github.com/mapbox/geojson-summary): get a plain-english summary of what's in a geojson file
 *   [point-grouper](https://github.com/substack/point-grouper): group geojson points into containing polygons
-*   [simplify-geojson (⭐176)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
+*   [simplify-geojson (⭐178)](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
 
 ### validation
 
-*   [geojsonhint (⭐257)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
+*   [geojsonhint (⭐260)](https://github.com/mapbox/geojsonhint): find errors in your geojson files
 
 ### services
 
@@ -167,11 +163,11 @@
 
 ### conversion
 
-*   [geojson-mapnikify (⭐38)](https://github.com/mapbox/geojson-mapnikify): Transform GeoJSON objects into Mapnik XML stylesheets with embedded GeoJSON data and simplestyle-spec-derived styles.
-*   [geojson-vt (⭐1.8k)](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
+*   [geojson-mapnikify (⭐40)](https://github.com/mapbox/geojson-mapnikify): Transform GeoJSON objects into Mapnik XML stylesheets with embedded GeoJSON data and simplestyle-spec-derived styles.
+*   [geojson-vt (⭐1.9k)](https://github.com/mapbox/geojson-vt): Slice GeoJSON into vector tiles on the fly in the browser
 *   [geojson2rtree (⭐9)](https://github.com/maxogden/geojson2rtree): generate a static rtree (using terraformer) from a set of geojson features
 *   [ogr2ogr](http://www.gdal.org/ogr2ogr.html): convert anything to anything
-    *   [fiona (⭐1.1k)](https://github.com/toblerity/fiona): nice python interface on top of ogr
+    *   [fiona (⭐1.2k)](https://github.com/toblerity/fiona): nice python interface on top of ogr
 *   [shp2json](https://github.com/substack/shp2json): convert shapefile zip archives to streaming GeoJSON
 
 ### data
@@ -186,8 +182,8 @@
 
 ### serialization
 
-*   [python-geojson (⭐898)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
-*   [rust-geojson (⭐263)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
+*   [python-geojson (⭐936)](https://github.com/frewsxcv/python-geojson): serialize geojson to/from python datatypes
+*   [rust-geojson (⭐293)](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 
 ## [10. Awesome Groovy](/content/kdabir/awesome-groovy/week/README.md)
 

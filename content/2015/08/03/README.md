@@ -57,7 +57,7 @@
 
 ### Table of Contents / Architectural
 
-*   [Pipeline (⭐971)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+*   [Pipeline (⭐976)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 

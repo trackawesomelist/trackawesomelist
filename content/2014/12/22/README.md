@@ -23,7 +23,6 @@
 ### Text and Numbers
 
 *   [base58 (⭐15)](https://github.com/jrdnull/base58) - Base58 encoding/decoding for Elixir.
-*   [faust](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
 *   [kitsune (⭐11)](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
 
 ## [2. Typography](/content/deanhume/typography/README.md)

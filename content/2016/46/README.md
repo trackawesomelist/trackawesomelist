@@ -115,7 +115,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [somoclu (⭐268)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
+*   [somoclu (⭐270)](https://github.com/peterwittek/somoclu) Massively parallel self-organizing maps: accelerate training on multicore CPUs, GPUs, and clusters, has python API.
 
 ## [6. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
@@ -523,7 +523,7 @@
 
 ### Applications
 
-*   [Rakam (⭐796)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
+*   [Rakam (⭐798)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
 
 ## [37. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 

@@ -16,11 +16,11 @@
 
 ### Test-Driven Development
 
-*   [Test-Driven Development - Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by **Evan Dorn** \[30:54]
+*   [Test-Driven Development - Write better code in less time](https://www.youtube.com/watch?v=HhwElTL-mdI) by **Evan Dorn** (LA Ruby 2012) \[30:54]
 
 ### Cognitive Development
 
-*   [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** \[39:48]
+*   [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by **Rich Hickey** (Clojure/Conj 2010) \[39:48]
 
 ## [3. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -28,7 +28,7 @@
 
 *   Atom: [language-pico8](https://atom.io/packages/language-pico8)
 *   Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
-*   Vim: [vim-pico8-syntax (⭐60)](https://github.com/justinj/vim-pico8-syntax)
+*   Vim: [vim-pico8-syntax (⭐63)](https://github.com/justinj/vim-pico8-syntax)
 
 ## [4. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

@@ -10,7 +10,7 @@
 
 ### YouTube
 
-*   [Youtube-Local (⭐559)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
+*   [Youtube-Local (⭐567)](https://github.com/user234683/youtube-local) - browser-based client for watching Youtube anonymously and with greater page performance.
 
 ## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Pricing / Usage-based Pricing
 
-*   [Lago (⭐7k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing.
+*   [Lago (⭐7.4k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing in Ruby.
 
 ### Pricing / Subscription Plans
 
@@ -57,7 +57,7 @@
 
 ### Accounting / Software design and implementation
 
-*   [TigerBeetle (⭐11k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
+*   [TigerBeetle (⭐12k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
 
 ### Invoice / Structure
 
@@ -89,7 +89,7 @@
 
 ### Third-Party Packages / Performance
 
-*   [pyinstrument (⭐6.8k)](https://github.com/joerick/pyinstrument) - Call stack profiler for Python, Django, Flask, FastAPI.
+*   [pyinstrument (⭐6.9k)](https://github.com/joerick/pyinstrument) - Call stack profiler for Python, Django, Flask, FastAPI.
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 

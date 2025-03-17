@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 14, 2020
 
-4 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -44,7 +44,15 @@
 
 *   [Site Reliability Engineering India](https://www.meetup.com/site-reliability-enggineering/) - SRE Meetup India
 
-## [4. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+## [4. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Wicket
+
+*   [Single page apps in depth](http://singlepageappbook.com) - Mixu (HTML)
+*   [Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - Ecma International (HTML,PDF)
+*   [The JavaScript Way (⭐7.9k)](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
+
+## [5. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ### IDEs / SRAM
 

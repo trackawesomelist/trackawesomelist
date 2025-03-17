@@ -59,13 +59,9 @@
 
 ## [8. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
 
-### Generic
-
-*   [uiw-icons](https://uiwjs.github.io/icons) - The premium icon font for UIW Framework.
-
 ### Tools
 
-*   [svgtofont (⭐514)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐631)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## [9. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 

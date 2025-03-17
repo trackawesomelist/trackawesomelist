@@ -28,15 +28,15 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [2D Day/Night Cycle (⭐345)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D.
+*   [2D Day/Night Cycle (⭐347)](https://github.com/hiulit/Godot-3-2D-Day-Night-Cycle) - A ☀️ Day / 🌔 Night cycle for 2D.
 
 ### Plugins and scripts / Godot version unknown
 
-*   [GDSerCommPlugin (⭐87)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
+*   [GDSerCommPlugin (⭐94)](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
 
 ### Modules / Godot 3
 
-*   [godot-voxel (⭐2.8k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds.
+*   [godot-voxel (⭐2.9k)](https://github.com/Zylann/godot_voxel) - Module for creating volumetric worlds.
 
 ## [5. Awesome Sitecore](/content/MartinMiles/awesome-sitecore/README.md)
 
@@ -279,7 +279,7 @@
 
 ### Software / DNS
 
-*   [blocky (⭐5k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
+*   [blocky (⭐5.1k)](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy (like Pi-hole) as ad-blocker for local network with many features. `Apache-2.0` `Go/Docker`
 
 ## [10. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 

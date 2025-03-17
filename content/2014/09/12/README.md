@@ -10,7 +10,7 @@
 
 ### Packages / Mad science
 
-*   [peerwiki (⭐317)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+*   [peerwiki (⭐316)](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 
 ### Packages / Command-line apps
 
@@ -35,7 +35,7 @@
 
 ### Data Visualization / Runner
 
-*   [chartist-js (⭐70)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
+*   [chartist-js (⭐79)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 
 ---
 

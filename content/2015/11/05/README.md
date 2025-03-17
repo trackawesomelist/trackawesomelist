@@ -60,7 +60,7 @@
 
 ### Packages / Real-time
 
-*   [SocketCluster (⭐6.1k)](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
+*   [SocketCluster (⭐6.2k)](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 
 ### Packages / Math
 
@@ -68,11 +68,11 @@
 
 ### Packages / Parsing
 
-*   [PEG.js (⭐4.8k)](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
+*   [PEG.js (⭐4.9k)](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
 
 ### Packages / Compression
 
-*   [Archiver (⭐2.8k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
+*   [Archiver (⭐2.9k)](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 
 ### Packages / Testing
 
@@ -80,7 +80,7 @@
 
 ### Packages / Minifiers
 
-*   [minimize (⭐162)](https://github.com/Swaagie/minimize) - HTML minifier.
+*   [minimize (⭐161)](https://github.com/Swaagie/minimize) - HTML minifier.
 *   [imagemin (⭐5.6k)](https://github.com/imagemin/imagemin) - Image minifier.
 
 ### Packages / Node.js management

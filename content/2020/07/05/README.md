@@ -17,7 +17,7 @@
 
 ### Boilerplates
 
-*   [Devii (⭐499)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
+*   [Devii (⭐497)](https://github.com/vriad/devii) - A Medium-inspired dev blog starter built with Next.js, React, and TypeScript, with Markdown rendering, syntax highlighting, SEO/meta tags, and RSS feed generation out of the box.
 
 ## [3. Awesome Calculators](/content/xxczaki/awesome-calculators/README.md)
 
@@ -29,7 +29,7 @@
 
 ### Packages / Text
 
-*   [StegCloak (⭐3.3k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
+*   [StegCloak (⭐3.5k)](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
 
 ## [5. Awesome Microservices](/content/mfornos/awesome-microservices/README.md)
 
@@ -38,10 +38,6 @@
 *   [Kuma](https://kuma.io/) - Platform agnostic open source control plane for service mesh and microservices.
 
 ## [6. Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md)
-
-### Big Data
-
-*   [Data Yoshi](https://www.datayoshi.com/) - Jobs in Data Science, Analytics, AI and Machine Learning
 
 ### Blockchain
 
@@ -55,10 +51,6 @@
 
 *   [Authentic Jobs](https://authenticjobs.com/) - The leading job board for designers, hackers, and creative pros
 
-### Growth Hacking
-
-*   [GrowthHackers](https://jobs.growthhackers.com/)
-
 ### Programming / JavaScript
 
 *   [Jobs In JS](https://jobsinjs.com/)
@@ -70,10 +62,6 @@
 ### Startups / Aggregator
 
 *   [BerlinStartupJobs](https://berlinstartupjobs.com/) - The hottest jobs at Berlin's finest startups and scaleups since 2011
-
-### Tech / Aggregator
-
-*   [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
 
 ## [7. Awesome Regression Testing](/content/mojoaxel/awesome-regression-testing/README.md)
 

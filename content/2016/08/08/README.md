@@ -27,7 +27,7 @@
 
 ### Geolocation
 
-*   [proj (⭐8)](https://github.com/CandyGumdrop/proj) - Elixir coordinate conversion library using OSGeo's PROJ.4.
+*   [proj (⭐9)](https://github.com/CandyGumdrop/proj) - Elixir coordinate conversion library using OSGeo's PROJ.4.
 
 ### Security
 

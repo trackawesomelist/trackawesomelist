@@ -24,7 +24,7 @@
 
 ### Machine Learning
 
-*   [OpenCV (⭐80k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
+*   [OpenCV (⭐81k)](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. \[BSD] [website](http://opencv.org/)
 
 ### Networking
 
@@ -42,12 +42,12 @@
 
 ### Table of Contents / Routers
 
-*   [Fast Route (⭐5.1k)](https://github.com/nikic/FastRoute) - A fast routing library.
+*   [Fast Route (⭐5.2k)](https://github.com/nikic/FastRoute) - A fast routing library.
 *   [Pux (⭐1.3k)](https://github.com/c9s/Pux) - Another fast routing library.
 
 ### Table of Contents / Dependency Injection
 
-*   [Container (⭐850)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
+*   [Container (⭐852)](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 
 ### Table of Contents / Imagery
 
@@ -59,7 +59,7 @@
 
 ### Table of Contents / Authentication and Authorization
 
-*   [OAuth 1.0 Client (⭐977)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
+*   [OAuth 1.0 Client (⭐981)](https://github.com/thephpleague/oauth1-client) - An OAuth 1.0 client library.
 *   [OAuth 2.0 Client (⭐3.7k)](https://github.com/thephpleague/oauth2-client) - An OAuth 2.0 client library.
 
 ## [4. Awesome Dojo](/content/petk/awesome-dojo/week/README.md)
@@ -72,7 +72,7 @@
 
 ### Software Design
 
-*   [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** \[1:03:30]
+*   [Stewardship: The Sobering Parts](https://www.youtube.com/watch?v=2y5Pv4yN0b0) by **Brian Goetz** (Clojure/Conj 2014) \[1:03:30]
 
 ## [6. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 
@@ -174,7 +174,7 @@
 ### Database Tools
 
 *   [Foreigner (⭐1.3k)](https://github.com/matthuhiggins/foreigner) - Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb.
-*   [Upsert (⭐651)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
+*   [Upsert (⭐650)](https://github.com/seamusabshere/upsert) - Upsert on MySQL, PostgreSQL, and SQLite3. Transparently creates functions (UDF) for MySQL and PostgreSQL; on SQLite3, uses INSERT OR IGNORE.
 
 ### Profiler and Optimization
 
@@ -187,7 +187,7 @@
 ### Scientific
 
 *   Classifiers
-    *   [classifier-reborn (⭐554)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
+    *   [classifier-reborn (⭐556)](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
 
 ## [10. Awesome Canvas](/content/raphamorim/awesome-canvas/week/README.md)
 
@@ -218,7 +218,7 @@
 
 ### Email
 
-*   [gen\_smtp (⭐686)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
+*   [gen\_smtp (⭐689)](https://github.com/Vagabond/gen_smtp) - A generic Erlang SMTP server and client that can be extended via callback modules.
 
 ### Examples and funny stuff
 
@@ -230,13 +230,13 @@
 
 ### Framework Components
 
-*   [addict (⭐645)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
+*   [addict (⭐643)](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
 *   [plug\_heartbeat (⭐36)](https://github.com/whatyouhide/plug_heartbeat) - A plug for responding to heartbeat requests.
-*   [scrivener (⭐554)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
+*   [scrivener (⭐555)](https://github.com/drewolson/scrivener) - Paginate your Ecto queries.
 
 ### Geolocation
 
-*   [geolix (⭐190)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
+*   [geolix (⭐191)](https://github.com/mneudert/geolix) - MaxMind GeoIP2 database reader/decoder.
 
 ### Networking
 
@@ -244,8 +244,7 @@
 
 ### ORM and Datamapping
 
-*   [esqlite (⭐131)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
-*   [sqlitex (⭐120)](https://github.com/mmmries/sqlitex) - An Elixir wrapper around esqlite. Allows access to sqlite3 databases.
+*   [esqlite (⭐132)](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 *   [tds (⭐116)](https://github.com/livehelpnow/tds) - MSSQL / TDS Database driver for Elixir.
 *   [yar (⭐8)](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
@@ -256,7 +255,7 @@
 ### Text and Numbers
 
 *   [secure\_random (⭐96)](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.
-*   [slugger (⭐161)](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
+*   [slugger (⭐160)](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
 
 ### Third Party APIs
 
@@ -268,7 +267,7 @@
 
 ### YAML
 
-*   [yamerl (⭐205)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
+*   [yamerl (⭐207)](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
 
 ### Books
 

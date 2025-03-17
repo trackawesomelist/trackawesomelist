@@ -19,7 +19,7 @@
 
 ### Libraries / Kotlin
 
-*   [kmongo (⭐781)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
+*   [kmongo (⭐780)](https://github.com/Litote/kmongo) - Kotlin toolkit based on the Java driver
 
 ## [2. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -37,7 +37,7 @@
 
 ### Gaming
 
-*   [Learn Gamedev (⭐2.7k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+*   [Learn Gamedev (⭐2.8k)](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
 
 ## [5. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 

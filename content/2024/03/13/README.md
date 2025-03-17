@@ -20,18 +20,18 @@
 
 ### Containers
 
-*   [fixed-containers (⭐398)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
+*   [fixed-containers (⭐403)](https://github.com/teslamotors/fixed-containers) - Header-only C++20 library that provides fixed capacity constexpr containers. \[MIT]
 
 ## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
-*   [defguard (⭐1.7k)](https://github.com/defguard/defguard) - Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
+*   [defguard (⭐1.8k)](https://github.com/defguard/defguard) - Enterprise Open Source SSO & WireGuard VPN with real 2FA/MFA
 
 ### Applications / Emulators
 
 *   iOS
-    *   [touchHLE (⭐2.8k)](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps
+    *   [touchHLE (⭐2.9k)](https://github.com/touchHLE/touchHLE) - High-level emulator for iPhone OS apps
 
 ### Applications / Utilities
 
@@ -47,7 +47,7 @@
 
 ### AI / Diagnostics
 
-*   [olimorris/codecompanion.nvim (⭐1.8k)](https://github.com/olimorris/codecompanion.nvim) - Copilot Chat like experience, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI.
+*   [olimorris/codecompanion.nvim (⭐2.7k)](https://github.com/olimorris/codecompanion.nvim) - Copilot Chat like experience, complete with inline assistant. Supports Anthropic, Gemini, Ollama and OpenAI.
 
 ## [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
@@ -63,9 +63,9 @@
 
 ## [8. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
-### Software / Make your life easier
+### Software / Visual Testing
 
-*   [GoodLooks (⭐41)](https://github.com/dashcamio/goodlooks) - Visually validate Playwright tests using AI vision instead of flaky selectors.
+*   [GoodLooks (⭐40)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
 
 ## [9. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 

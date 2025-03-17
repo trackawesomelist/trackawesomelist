@@ -10,7 +10,7 @@
 
 ### Software Design
 
-*   [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) by **Robert C. Martin** \[1:06:38]
+*   [Architecture the Lost Years](https://www.youtube.com/watch?v=WpkDN78P884) by **Robert C. Martin** (Ruby Midwest 2011) \[1:06:38]
 
 ## [2. Awesome Ads](/content/cenoura/awesome-ads/README.md)
 

@@ -65,18 +65,18 @@
 *   [algorithms (⭐5.3k)](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
 *   [c-algorithms (⭐3.4k)](https://github.com/fragglet/c-algorithms) - C algorithms library.
 *   [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-*   [papers-we-love (⭐90k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [papers-we-love (⭐91k)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 
 ## [7. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Files / Runner
 
-*   [Papa Parse (⭐12k)](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
+*   [Papa Parse (⭐13k)](https://github.com/mholt/PapaParse) - A powerful CSV library that supports parsing CSV files/strings and also exporting to CSV.
 
 ### Scroll / Other
 
 *   [skrollr (⭐19k)](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery.
-*   [parallax (⭐16k)](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device.
+*   [parallax (⭐17k)](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device.
 *   [stellar.js (⭐4.6k)](https://github.com/markdalgleish/stellar.js) - Parallax scrolling made easy.
 *   [plax (⭐2.3k)](https://github.com/cameronmcefee/plax) - jQuery powered parallaxing.
 *   [jparallax (⭐1.1k)](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect.
@@ -85,11 +85,11 @@
 
 ### Julia / Misc Stuff / Presentations
 
-*   [DSP (⭐388)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
+*   [DSP (⭐392)](https://github.com/JuliaDSP/DSP.jl) - Digital Signal Processing (filtering, periodograms, spectrograms, window functions).
 
 ### Python / Misc Scripts / iPython Notebooks / Codebases
 
-*   [sentiment\_classifier (⭐172)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
+*   [sentiment\_classifier (⭐171)](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
 *   [jProcessing (⭐148)](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
 
 ## [9. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)

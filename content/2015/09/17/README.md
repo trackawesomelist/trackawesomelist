@@ -82,8 +82,8 @@
 
 ### Packages / URL
 
-*   [url-unshort (⭐117)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
-*   [embedza (⭐64)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
+*   [url-unshort (⭐118)](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+*   [embedza (⭐65)](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
 
 ## [6. Awesome Mad Science](/content/feross/awesome-mad-science/README.md)
 

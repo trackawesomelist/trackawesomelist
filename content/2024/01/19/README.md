@@ -31,7 +31,7 @@
 
 ### Table of Contents / API
 
-*   [PackageGenerator (⭐430)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
+*   [PackageGenerator (⭐431)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
 
 ## [4. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md)
 

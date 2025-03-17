@@ -198,8 +198,8 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Search engine and framework
 
-*   [Facebook Faiss (⭐22k)](https://github.com/facebookresearch/faiss) - is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy.
-*   [Annoy (⭐11k)](https://github.com/spotify/annoy) - is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data.
+*   [Facebook Faiss (⭐33k)](https://github.com/facebookresearch/faiss) - is a library for efficient similarity search and clustering of dense vectors. It contains algorithms that search in sets of vectors of any size, up to ones that possibly do not fit in RAM. It also contains supporting code for evaluation and parameter tuning. Faiss is written in C++ with complete wrappers for Python/numpy.
+*   [Annoy (⭐13k)](https://github.com/spotify/annoy) - is a C++ library with Python bindings to search for points in space that are close to a given query point. It also creates large read-only file-based data structures that are mmapped into memory so that many processes may share the same data.
 
 ## [11. Awesome Java](/content/akullpp/awesome-java/README.md)
 
@@ -209,7 +209,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Security / Other
 
-*   [Tink (⭐13k)](https://github.com/google/tink) - Provides a simple and misuse-proof API for common cryptographic tasks.
+*   [Tink (⭐14k)](https://github.com/google/tink) - Provides a simple and misuse-proof API for common cryptographic tasks.
 
 ## [12. Awesome React Native](/content/jondot/awesome-react-native/README.md)
 
@@ -234,7 +234,7 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 
 ### Boilerplates
 
-*   [nextjs-mongodb-app (⭐1.5k)](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
+*   [nextjs-mongodb-app (⭐1.6k)](https://github.com/hoangvvo/nextjs-mongodb-app) - Full-fledged app made with Next.JS and MongoDB, with authentication and much more (Next.js 9, MongoDB)
 
 ## [16. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/README.md)
 

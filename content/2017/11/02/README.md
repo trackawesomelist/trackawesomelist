@@ -1,6 +1,6 @@
 # Awesome List Updates on Nov 02, 2017
 
-11 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -64,13 +64,7 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 
 *   [Linux tracing workshop (⭐1.1k)](https://github.com/goldshtn/linux-tracing-workshop) - JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.
 
-## [6. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
-
-### Generic
-
-*   [Foundation Icon Fonts 2](http://zurb.com/playground/foundation-icons)
-
-## [7. Bots](/content/hackerkid/bots/README.md)
+## [6. Bots](/content/hackerkid/bots/README.md)
 
 ### Tutorials / Go
 
@@ -82,19 +76,19 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 *   [ChatbotTest](http://chatbottest.com/) - Chatbottest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
 *   [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
 
-## [8. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
+## [7. Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md)
 
 ### Software
 
 *   [Zugata](http://www.zugata.com/)
 
-## [9. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
+## [8. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/README.md)
 
 ### Questions
 
 *   [obandit](http://freux.fr/oss/obandit.html) - OCaml library for multi-armed bandits.
 
-## [10. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
+## [9. Awesome4girls](/content/cristianoliveira/awesome4girls/README.md)
 
 ### General / UX
 
@@ -200,7 +194,7 @@ Topics: Browser Technologies, Web Audio, Web MIDI\
 
     List of initiatives and information about women in tech as well as the industry's gender gap.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [10. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Resources / Tutorials
 

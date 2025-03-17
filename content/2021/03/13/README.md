@@ -50,7 +50,7 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [EffekseerForGodot3 (⭐133)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects.
+*   [EffekseerForGodot3 (⭐134)](https://github.com/effekseer/EffekseerForGodot3) - Import [Effekseer](https://effekseer.github.io/en/) particle effects.
 
 ## [5. Awesome Deno](/content/denolib/awesome-deno/README.md)
 

@@ -1,6 +1,6 @@
 # Awesome List Updates on Feb 22 - Feb 28, 2016
 
-48 awesome lists updated this week.
+49 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -65,41 +65,48 @@
 
 ### Credits
 
-*   Some of the python libraries were cut-and-pasted from [vinta (⭐222k)](https://github.com/vinta/awesome-python)
+*   Some of the python libraries were cut-and-pasted from [vinta (⭐236k)](https://github.com/vinta/awesome-python)
 *   The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 
 ## [10. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Command-line utilities
 
-*   [cli-columns (⭐34)](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
+*   [cli-columns (⭐36)](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
 
-## [11. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/week/README.md)
+
+### Julia / Vue.js
+
+*   [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
+*   [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson (CC BY-SA)
+
+## [12. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### operations
 
-*   [winnow (⭐90)](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
+*   [winnow (⭐89)](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
 
-## [12. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [13. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### Free fonts / Fonts
 
 *   [Open Baskerville](http://klepas.org/openbaskerville/)
 
-## [13. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
+## [14. Es6 Tools](/content/addyosmani/es6-tools/week/README.md)
 
 ### Editors / Brunch Plugins
 
 *   Learn ES6 transpilation options in Webstorm [Read Blog Post](http://blog.jetbrains.com/webstorm/2015/05/ecmascript-6-in-webstorm-transpiling/)
 
-## [14. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
+## [15. Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/week/README.md)
 
 ### Containers
 
 *   [porto (⭐386)](https://github.com/yandex/porto)\
     The main goal of Porto is to create a convenient, reliable interface over several Linux kernel mechanism such as cgroups, namespaces, mounts, networking etc.
 
-## [15. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [16. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### :free: Free Courses / Chrome Extensions
 
@@ -112,7 +119,7 @@
 *   [Practical TypeScript Migration](https://www.pluralsight.com/courses/typescript-practical-migration) (Pluralsight)
 *   [Using TypeScript for Large AngularJS Applications](https://www.pluralsight.com/courses/using-typescript-large-angularjs-apps) (Pluralsight)
 
-## [16. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [17. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### Courses / Commerical Tools
 
@@ -122,14 +129,14 @@
 
 *   [Society of Mind](http://aurellem.org/society-of-mind/index.html) - Marvin Minsky's seminal work on how our mind works. Lot of Symbolic AI concepts have been derived from this basis.
 
-## [17. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
+## [18. Awesome Erlang](/content/drobakowski/awesome-erlang/week/README.md)
 
 ### Date and Time
 
 *   [erlang\_localtime (⭐53)](https://github.com/dmitryme/erlang_localtime) - Erlang library for conversion from one local time to another.
 *   [qdate (⭐235)](https://github.com/choptastic/qdate) - Erlang date, time, and timezone management: formatting, conversion, and date arithmetic.
 
-## [18. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
+## [19. Awesome Shell](/content/alebcay/awesome-shell/week/README.md)
 
 ### Command-Line Productivity
 
@@ -139,13 +146,13 @@
 
 *   [bash-full-of-colors (⭐175)](https://github.com/slomkowski/bash-full-of-colors) - Powerful prompt with screen, tmux, git support and many more
 
-## [19. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
+## [20. Awesome Symfony Education](/content/pehapkari/awesome-symfony-education/week/README.md)
 
 ### Legacy
 
 *   [Eating spaghetti with Symfony](https://speakerdeck.com/jakzal/eating-spaghetti-with-symfony) \[2016]
 
-## [20. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
+## [21. Awesome Static Website Services](/content/agarrharr/awesome-static-website-services/week/README.md)
 
 ### Newsletters / Provided by the Host
 
@@ -153,13 +160,13 @@
 *   [AWeber](http://www.aweber.com/) - Email marketing with campaigns, autoresponders, and analytics.
 *   [Campaign Monitor](https://www.campaignmonitor.com/) - Email marketing with campaigns, autoresponders, and analytics.
 
-## [21. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
+## [22. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
 ### Starter Projects / Videos
 
 *   [Laravel Hackathon Starter (⭐1.6k)](https://github.com/unicodeveloper/laravel-hackathon-starter)
 
-## [22. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [23. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Date & Time
 
@@ -185,7 +192,7 @@
 
 *   [username (⭐142)](https://github.com/sindresorhus/username) - Get the username of the current user.
 
-## [23. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
+## [24. Nginx Resources](/content/fcambus/nginx-resources/week/README.md)
 
 ### APIs
 
@@ -195,37 +202,37 @@
 
 *   [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards (⭐5.9k)](https://github.com/alexazhou/VeryNginx)
 
-## [24. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
+## [25. Awesome Rest](/content/marmelab/awesome-rest/week/README.md)
 
 ### Standards
 
 *   [OpenAPI](https://openapis.org/) - Formerly known as the Swagger Specification, OpenAPI specifcation is the world’s most popular description format for defining Restful APIs.
 
-## [25. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
+## [26. Awesome Mad Science](/content/feross/awesome-mad-science/week/README.md)
 
 ### terminal
 
 *   [cash (⭐7.8k)](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6
 
-## [26. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
+## [27. Awesome Vorpal](/content/vorpaljs/awesome-vorpal/week/README.md)
 
 ### Projects
 
 *   [Cash (⭐7.8k)](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck.
 
-## [27. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
+## [28. Awesome Vagrant](/content/iJackUA/awesome-vagrant/week/README.md)
 
 ### Popular readymade environments
 
 *   [Varying Vagrant Vagrants (⭐4.6k)](https://github.com/Varying-Vagrant-Vagrants/VVV) - An open source Vagrant configuration focused on WordPress development.
 
-## [28. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [29. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Other / Custom Dialog
 
 *   [andle (⭐58)](https://github.com/Jintin/andle) - command line tool help you sync dependencies, sdk or build tool version.
 
-## [29. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
+## [30. Engineering Blogs](/content/kilimchoi/engineering-blogs/week/README.md)
 
 ### Individuals/Group Contributors / B individuals
 
@@ -238,7 +245,7 @@
 *   Jeff Preshing <http://preshing.com/>
 *   Josh Haberman <http://blog.reverberate.org/>
 
-## [30. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [31. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Editors / Runner
 
@@ -253,35 +260,35 @@
 *   [es6-features (⭐6.2k)](https://github.com/rse/es6-features) - ECMAScript 6: Feature Overview & Comparison.
 *   [es6-cheatsheet (⭐13k)](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 \[ES6] cheatsheet containing tips, tricks, best practices and code snippets.
 
-## [31. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
+## [32. Awesome Flexbox](/content/afonsopacifer/awesome-flexbox/week/README.md)
 
 ### Guides
 
 *   [The Flexbox Reading List: Techniques and Tools](https://www.smashingmagazine.com/author/cosima-mielke/)
 
-## [32. Amas](/content/sindresorhus/amas/week/README.md)
+## [33. Amas](/content/sindresorhus/amas/week/README.md)
 
 ### Ask these people anything!
 
 *   [Amit Merchant (⭐1)](https://github.com/amitmerchant1990/ama) - Full-stack developer working with JavaScript, PHP and Java.
 
-## [33. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
+## [34. Awesome Bigdata](/content/newTendermint/awesome-bigdata/week/README.md)
 
 ### Key-value Data Model
 
-*   [GridDB (⭐2.1k)](https://github.com/griddb/griddb_nosql) - suitable for sensor data stored in a timeseries.
+*   [GridDB (⭐2.4k)](https://github.com/griddb/griddb_nosql) - suitable for sensor data stored in a timeseries.
 
 ### Applications
 
 *   [SnappyData (⭐1k)](https://github.com/SnappyDataInc/snappydata) - a distributed in-memory data store for real-time operational analytics, delivering stream analytics, OLTP (online transaction processing) and OLAP (online analytical processing) built on Spark in a single integrated cluster.
 
-## [34. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [35. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Aggregated Content / Icons Packages and Collections
 
 *   [Avopix](https://avopix.com) - More than 15 000 absolutely free stock photos and vectors.
 
-## [35. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [36. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### DVB & WiFi
 
@@ -295,15 +302,15 @@
 ### Multimedia content processing
 
 *   [GStreamer](https://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components.
-*   [MP4Box.js (⭐2k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
+*   [MP4Box.js (⭐2.1k)](https://github.com/gpac/mp4box.js) - JavaScript library to process MP4 files in the browser (and in NodeJS).
 
-## [36. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [37. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Game Frameworks / XML
 
 *   [DAllegro5 (⭐42)](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 
-## [37. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
+## [38. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
 ### Courses / Machine Learning
 
@@ -317,7 +324,7 @@
     *   [Course Page](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning2015:schedule)
     *   [Recorded Lectures](http://techtalks.tv/deep-learning-nyu-spring-2015/)
 
-## [38. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
+## [39. Awesome Hadoop](/content/youngwookim/awesome-hadoop/week/README.md)
 
 ### Hadoop
 
@@ -332,19 +339,19 @@
 *   [ApacheCon](http://www.apachecon.com/)
 *   [Strata + Hadoop World](http://conferences.oreilly.com/strata)
 
-## [39. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
+## [40. Awesome Text Editing](/content/dok/awesome-text-editing/week/README.md)
 
 ### Rich-text editors using contenteditable
 
 *   [Draft.js](http://facebook.github.io/draft-js/) - a rich text editor framework for React
 
-## [40. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
+## [41. Awesome Alfred Workflows](/content/alfred-workflows/awesome-alfred-workflows/week/README.md)
 
 ### Security
 
 *   [LastPass Vault Manager (⭐121)](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
 
-## [41. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [42. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Resources / Articles
 
@@ -363,7 +370,7 @@
 
 ### Libraries / C
 
-*   [mongo-c-driver (⭐823)](https://github.com/mongodb/mongo-c-driver) - Official C driver
+*   [mongo-c-driver (⭐824)](https://github.com/mongodb/mongo-c-driver) - Official C driver
 
 ### Libraries / C++
 
@@ -373,7 +380,7 @@
 
 *   [mongo-csharp-driver (⭐3.2k)](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
 *   [MongoDB Messaging (⭐58)](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
-*   [MongoRepository (⭐307)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
+*   [MongoRepository (⭐309)](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
 ### Libraries / Delphi
 
@@ -392,13 +399,13 @@
 *   [Jongo (⭐585)](https://github.com/bguerout/jongo) - Query in Java as in Mongo shell
 *   [Hibernate OGM (⭐321)](https://github.com/hibernate/hibernate-ogm) - The power and simplicity of JPA for NoSQL datastores
 *   [mongo-java-driver (⭐2.6k)](https://github.com/mongodb/mongo-java-driver) - Official Java driver
-*   [Mongojack (⭐267)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
+*   [Mongojack (⭐268)](https://github.com/mongojack/mongojack) - Based on Jackson, allows you to easily handle your mongo objects as POJOs
 *   [Morphium (⭐55)](https://github.com/sboesebeck/morphium) - Java ODM and caching layer
 *   [Mungbean (⭐18)](https://github.com/jannehietamaki/mungbean) - Community driver for languages running on the JVM
 
 ### Libraries / JavaScript
 
-*   [Camo (⭐558)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
+*   [Camo (⭐559)](https://github.com/scottwrobinson/camo) - Class-based ES6 ODM for Mongo-like databases
 *   [Mongoose (⭐27k)](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
 *   [Moonridge (⭐66)](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
 *   [node-mongodb-native (⭐10k)](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
@@ -418,8 +425,8 @@
 
 ### Libraries / Scala
 
-*   [ReactiveMongo (⭐850)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
-*   [Spark-MongoDB (⭐307)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
+*   [ReactiveMongo (⭐851)](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
+*   [Spark-MongoDB (⭐308)](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ### Tools / Administration
 
@@ -435,7 +442,7 @@
 *   [mongo-munin (⭐144)](https://github.com/erh/mongo-munin) - Collection of Munin plugins
 *   [mongomon (⭐23)](https://github.com/pcdummy/mongomon) - More Munin plugins
 
-## [42. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [43. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Database Drivers
 
@@ -449,7 +456,7 @@
 
 *   [Stateless (⭐5.7k)](https://github.com/dotnet-state-machine/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
 
-## [43. Tips](/content/git-tips/tips/week/README.md)
+## [44. Tips](/content/git-tips/tips/week/README.md)
 
 ## Marks your commit as a fix of a previous commit.
 
@@ -467,7 +474,7 @@ git rebase -i --autosquash
 git commit --only <file_path>
 ```
 
-## [44. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
+## [45. Awesome Dataviz](/content/javierluraschi/awesome-dataviz/week/README.md)
 
 ### JavaScript tools / Charting libraries
 
@@ -477,26 +484,26 @@ git commit --only <file_path>
 
 *   [plotly (⭐2.3k)](https://github.com/ropensci/plotly) - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
 
-## [45. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
+## [46. Awesome Fuse](/content/fuse-compound/awesome-fuse/week/README.md)
 
 ### Articles
 
 *   [Interview with Anders Lassen from Fuse](http://abduzeedo.com/interview-anders-lassen-fuse) - Written by [Abduzeedo](http://abduzeedo.com/).
 
-## [46. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
+## [47. Awesome Purescript](/content/passy/awesome-purescript/week/README.md)
 
 ### Build Tooling
 
 *   [purescript-psa (⭐85)](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc`
 
-## [47. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
+## [48. Awesome Vulkan](/content/vinjn/awesome-vulkan/week/README.md)
 
 ### Apps
 
 *   [The Talos Principle](http://www.croteam.com/talos-principle-will-support-vulkan-first-screenshot-released/) - by Croteam.
 *   [ProtoStar](https://www.unrealengine.com/blog/epic-games-unveils-protostar-at-samsung-galaxy-unpacked) - by Epic, built with Unreal Engine 4 technology.
 
-## [48. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [49. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -505,7 +512,6 @@ git commit --only <file_path>
 
 ### Applications
 
-*   [Hydra (⭐66)](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
 *   [Phoenix Toggl (⭐172)](https://github.com/bigardone/phoenix-toggl) - Toggl tribute done in Elixir, Phoenix Framework, React and Redux.
 
 ### Files and Directories
@@ -522,11 +528,11 @@ git commit --only <file_path>
 
 ### ORM and Datamapping
 
-*   [ecto\_fixtures (⭐168)](https://github.com/DockYard/ecto_fixtures) - Fixtures for Elixir apps using Ecto.
+*   [ecto\_fixtures (⭐167)](https://github.com/DockYard/ecto_fixtures) - Fixtures for Elixir apps using Ecto.
 
 ### Testing
 
-*   [efrisby (⭐18)](https://github.com/FabioBatSilva/efrisby) - A REST API testing framework for erlang.
+*   [efrisby](https://github.com/FabioBatSilva/efrisby) - A REST API testing framework for erlang.
 
 ### Third Party APIs
 

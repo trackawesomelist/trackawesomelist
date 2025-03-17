@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 12, 2025
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -22,14 +22,30 @@
 
 *   [SSOJet](https://ssojet.com/) - Add Enterprise SSO Without Rebuilding Your Auth. The free plan includes unlimited monthly active users, unlimited organizations, 2 SSO & 2 SCIM connections.
 
-## [3. Awesome V](/content/vlang/awesome-v/README.md)
+## [3. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+
+### Index / Customer Relationship Management (CRM)
+
+*   [Atomic CRM](https://marmelab.com/atomic-crm/) 🇫🇷 - Open-source CRM
+
+### Index / Domain name registrars
+
+*   [Mrdomain](https://mrdomain.com) 🇪🇸
+
+### Index / VPS
+
+*   [Clouding.io](https://clouding.io) 🇪🇸
+*   [Suble.io](https://suble.io/en/vps) 🇩🇰
+*   [Veesp](https://veesp.com/products/vps/) 🇱🇻
+
+## [4. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Web
 
 *   [v-vite starter (⭐0)](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
 *   [vite.v (⭐0)](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Gateway
 
@@ -51,19 +67,19 @@
 
 *   [NDJSON (⭐717) (⭐715)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 
-## [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Communication - SIP
 
 *   [Flexisip](https://www.linphone.org/en/flexisip-sip-server/) - A complete, modular and scalable SIP server, includes a push gateway, to deliver SIP incoming calls or text messages on mobile device platforms where push notifications are required to receive information when the app is not active in the foreground. ([Source Code (⭐160)](https://github.com/BelledonneCommunications/flexisip)) `AGPL-3.0` `C/Docker`
 
-## [6. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
+## [7. Awesome Fonts](/content/brabadu/awesome-fonts/README.md)
 
 ### Programming fonts / Programming fonts with ligatures
 
 *   [JetBrains Maple Mono (⭐533)](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - The free and open-source font fused with JetBrains Mono & Maple Mono
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -89,7 +105,7 @@
 
 *   [zapui (⭐5)](https://github.com/zapuilib/zapui) - Build sleek, scalable, and cohesive Angular applications effortlessly with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [9. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -98,4 +114,5 @@
 
 ---
 
+- Prev: [Mar 13, 2025](/content/2025/03/13/README.md)
 - Next: [Mar 11, 2025](/content/2025/03/11/README.md)

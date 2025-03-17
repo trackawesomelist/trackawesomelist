@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 10, 2025
 
-11 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -138,7 +138,17 @@
 
 *   [skfolio (⭐1.4k)](https://github.com/skfolio/skfolio) - Python library for portfolio optimization built on top of scikit-learn.
 
-## [7. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [7. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+
+### Index / Design and Creative Tools
+
+*   [VectorStyler](https://www.vectorstyler.com/) 🇫🇮 - vector graphics editor.
+
+### Index / Password manager services
+
+*   [uniqkey](https://www.uniqkey.eu/) 🇩🇰
+
+## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Design
 
@@ -160,7 +170,7 @@
 
 *   [YAML (⭐376) (⭐374)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### APIs, Data, and ML
 
@@ -174,7 +184,7 @@
 
 *   [easysitesearch.com](https://easysitesearch.com/) — Search widget and API, with automated web-crawler based indexing. Unlimited searches for free, for up to 50 subpages.
 
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -188,13 +198,13 @@
 
 *   [ionic-header-parallax (⭐38)](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
 
-## [10. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
+## [11. Awesome Tensorflow](/content/jtoy/awesome-tensorflow/README.md)
 
 ### Libraries
 
 *   [Txeo (⭐46)](https://github.com/rdabra/txeo) - A modern C++ wrapper for TensorFlow.
 
-## [11. Awesome Rails](/content/gramantin/awesome-rails/README.md)
+## [12. Awesome Rails](/content/gramantin/awesome-rails/README.md)
 
 ### Gems / Other external resources
 
@@ -202,4 +212,5 @@
 
 ---
 
+- Prev: [Mar 11, 2025](/content/2025/03/11/README.md)
 - Next: [Mar 09, 2025](/content/2025/03/09/README.md)

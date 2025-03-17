@@ -30,7 +30,7 @@
 
 ### Algorithms and Data structures
 
-*   [CrOTP (⭐63)](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
+*   [CrOTP (⭐64)](https://github.com/philnash/crotp) - HOTP and TOTP implementation for two factor authentication
 
 ## [4. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 

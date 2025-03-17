@@ -40,32 +40,32 @@
 
 ### Country Data
 
-*   [validates\_zipcode (⭐137)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
+*   [validates\_zipcode (⭐139)](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
 
 ## [5. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ### Plugins / IRC
 
-*   [Composer-MonoRepo-Plugin (⭐304)](https://github.com/beberlei/composer-monorepo-plugin) - The plugin helps to manage dependencies for multiple packages in a single repository.
-*   [Composer-Patches (⭐279)](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project.
+*   [Composer-MonoRepo-Plugin (⭐305)](https://github.com/beberlei/composer-monorepo-plugin) - The plugin helps to manage dependencies for multiple packages in a single repository.
+*   [Composer-Patches (⭐290)](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project.
 *   [Composer-Ignore-Plugin (⭐21)](https://github.com/lichunqiang/composer-ignore-plugin) - Enables you to remove files and folders from the vendor folder (to make a cleaner and smaller deployment to production). It's an alternative to `.gitattributes`.
 *   [Composer-Shared-Package-Plugin (⭐164)](https://github.com/Letudiant/composer-shared-package-plugin) - Allows you to share selected packages between your projects by creating symlinks.
-*   [Composer-Custom-Directory-Installer (⭐136)](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).
-*   [Graph-Composer (⭐921)](https://github.com/clue/graph-composer) - Provides a graph visualization for your project's `composer.json` and its dependencies.
+*   [Composer-Custom-Directory-Installer (⭐139)](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).
+*   [Graph-Composer (⭐935)](https://github.com/clue/graph-composer) - Provides a graph visualization for your project's `composer.json` and its dependencies.
 *   [PackageInfo (⭐7)](https://github.com/ThaDafinser/PackageInfo) - Enables you to retrieve all package informations (like version, tag, release date, description).
-*   [Foxy (⭐172)](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations, when composer package is installed or updated.
-*   [Composer Registry Manager (⭐545)](https://github.com/slince/composer-registry-manager) - Enables you to switch between different composer repositories.
+*   [Foxy (⭐175)](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations, when composer package is installed or updated.
+*   [Composer Registry Manager (⭐560)](https://github.com/slince/composer-registry-manager) - Enables you to switch between different composer repositories.
 
 ### Tools / IRC
 
-*   [Composer-Yaml (⭐57)](https://github.com/igorw/composer-yaml) - This tool converts `composer.yml` to `composer.json`.
-*   [Composer-Service (⭐175)](https://github.com/pborreli/composer-service) - Enables you to run Composer as a service on a remote server.
+*   [Composer-Yaml (⭐56)](https://github.com/igorw/composer-yaml) - This tool converts `composer.yml` to `composer.json`.
+*   [Composer-Service (⭐174)](https://github.com/pborreli/composer-service) - Enables you to run Composer as a service on a remote server.
 
 ### Scripts / IRC
 
-*   [ParameterHandler (⭐926)](https://github.com/Incenteev/ParameterHandler) - Allows you to manage your ignored parameters when running a composer install or update.
+*   [ParameterHandler (⭐929)](https://github.com/Incenteev/ParameterHandler) - Allows you to manage your ignored parameters when running a composer install or update.
 *   [Tooly (⭐101)](https://github.com/tommy-muehle/tooly-composer-script) - Manage needed PHAR files in your project `composer.json`. Every PHAR file will be saved in the composer binary directory. Optional with GPG verification for every PHAR.
-*   [Melody (⭐397)](https://github.com/sensiolabs/melody) - One-file composer scripts.
+*   [Melody (⭐395)](https://github.com/sensiolabs/melody) - One-file composer scripts.
 
 ### Videos / IRC
 
@@ -77,7 +77,7 @@
 *   [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
 *   [Drupal Packagist](https://www.drupal.org/node/2822344) - Composer repositories for Drupal 7 and 8 core, modules, and themes.
 *   [Satis Server (⭐113)](https://github.com/lukaszlach/satis-server) - This docker container provides a Satis Server and enables you to run a private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.
-*   [Release Belt (⭐162)](https://github.com/Rarst/release-belt) - Self–hosted Composer repository implementation to quickly integrate ZIP files of third party non–Composer releases.
+*   [Release Belt (⭐173)](https://github.com/Rarst/release-belt) - Self–hosted Composer repository implementation to quickly integrate ZIP files of third party non–Composer releases.
 
 ## [6. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
@@ -105,12 +105,12 @@
 ### Development tools / Deployment
 
 *   Docker
-    *   [emk/rust-musl-builder (⭐1.5k)](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
-    *   [kpcyrd/mini-docker-rust (⭐225)](https://github.com/kpcyrd/mini-docker-rust) - An example project for very small rust docker images
+    *   [emk/rust-musl-builder (⭐1.6k)](https://github.com/emk/rust-musl-builder) - Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
+    *   [kpcyrd/mini-docker-rust (⭐227)](https://github.com/kpcyrd/mini-docker-rust) - An example project for very small rust docker images
     *   [liuchong/docker-rustup (⭐93)](https://github.com/liuchong/docker-rustup) - A multiple version (with musl tools) Rust Docker image
-    *   [LukeMathWalker/cargo-chef (⭐1.9k)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
-    *   [rust-cross/rust-musl-cross (⭐657)](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
-    *   [rust-lang-nursery/docker-rust (⭐459)](https://github.com/rust-lang/docker-rust) - the official Rust Docker image
+    *   [LukeMathWalker/cargo-chef (⭐2k)](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
+    *   [rust-cross/rust-musl-cross (⭐669)](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
+    *   [rust-lang-nursery/docker-rust (⭐465)](https://github.com/rust-lang/docker-rust) - the official Rust Docker image
     *   [Stavrospanakakis/is\_ready (⭐136)](https://github.com/Stavrospanakakis/is_ready) - Wait for multiple services to become available ![Build](https://github.com/Stavrospanakakis/is_ready/actions/workflows/release.yml/badge.svg)
 
 ## [9. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
@@ -141,7 +141,7 @@
 
 ### Contents / Hardware
 
-*   [GameShell](https://www.clockworkpi.com/) - A modular handheld game console that allows you to play & modify retro games and DIY new devices. Check the [GameShell Docs (⭐183)](https://github.com/clockworkpi/GameShellDocs/wiki/Running-PICO-8-on-the-GameShell) for how to run PICO-8 on the GameShell.
+*   [GameShell](https://www.clockworkpi.com/) - A modular handheld game console that allows you to play & modify retro games and DIY new devices. Check the [GameShell Docs (⭐187)](https://github.com/clockworkpi/GameShellDocs/wiki/Running-PICO-8-on-the-GameShell) for how to run PICO-8 on the GameShell.
 
 ### Contents / Articles & Posts
 

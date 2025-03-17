@@ -10,13 +10,13 @@
 
 ### API / Automation
 
-*   [DataFire (⭐583)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐582)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 
 ### UI / Calendar
 
-*   [Calendar Carousel Widget (⭐839)](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab (⭐839)](https://github.com/dooboolab/flutter_calendar_carousel)
+*   [Calendar Carousel Widget (⭐845)](https://github.com/dooboolab/flutter_calendar_carousel) <!-- stargazers:dooboolab/flutter_calendar_carousel--> - Calendar carousel by [dooboolab (⭐845)](https://github.com/dooboolab/flutter_calendar_carousel)
 
 ## [3. Awesome Beacon](/content/rabschi/awesome-beacon/README.md)
 

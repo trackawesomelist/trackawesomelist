@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 26, 2023
 
-12 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -14,7 +14,7 @@
 
 ### Miscellaneous
 
-*   [faker-cxx (⭐328)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
+*   [faker-cxx (⭐337)](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. \[MIT]
 *   [inja (⭐1.7k)](https://github.com/pantor/inja) - A Template Engine for Modern C++. \[MIT]
 
 ## [2. Awesome Go](/content/avelino/awesome-go/README.md)
@@ -36,10 +36,6 @@
 *   [Trackingplan](https://www.trackingplan.com/) - Automatically detect digital analytics, marketing data and pixels issues, maintain up-to-date tracking plans, and foster seamless collaboration. Deploy it to your production environment with real traffic or add analytics coverage to your regression tests without writing code.
 
 ## [5. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
-
-### 3D
-
-*
 
 ### Art
 
@@ -68,7 +64,7 @@
 
 ### Models
 
-*   [Qwen (⭐14k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐17k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 
 ### Spreadsheets
 
@@ -168,13 +164,19 @@
 
 ### Deployment / Diagnostics
 
-*   [coffebar/transfer.nvim (⭐81)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
+*   [coffebar/transfer.nvim (⭐85)](https://github.com/coffebar/transfer.nvim) - Sync and diff with remote server using rsync and OpenSSH.
 
 ## [12. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
 ### Testing / Zabbix
 
 *   [pgTAP (⭐1k)](https://github.com/theory/pgtap) - Unit Testing for PostgreSQL.
+
+## [13. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Graphs / Gremlin
+
+*   [Practical Gremlin - An Apache TinkerPop Tutorial](https://www.kelvinlawrence.net/book/PracticalGremlin.html) - Kelvin R. Lawrence
 
 ---
 

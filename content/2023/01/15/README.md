@@ -1,6 +1,6 @@
 # Awesome List Updates on Jan 15, 2023
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -13,10 +13,6 @@
 *   [Prompto - a community-ran directory of ChatGPT prompts](https://prompto.chat)
 
 ## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-### Concepts / Human Concept Representation
-
-*   [Navigating cognition: Spatial codes for human thinking](https://pure.mpg.de/rest/items/item_3007836/component/file_3379059/content) - ***Science***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=1407237757770081862\&hl=en\&as_sdt=0,5)]. A framework that operates across information domains to support a wide spectrum of cognitive functions, where place and grid cell population codes provide a representational format to map variable dimensions of cognitive spaces.
 
 ### Knowledge Management / Commonsense Knowledgebase
 
@@ -33,7 +29,7 @@
 
 ### Video Editing / Alternative clients/modifications of Discord:
 
-*   [LosslessCut (⭐29k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
+*   [LosslessCut (⭐30k)](https://github.com/mifi/lossless-cut) - LosslessCut aims to be the ultimate cross platform FFmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.
 
 ## [5. Awesome V](/content/vlang/awesome-v/README.md)
 
@@ -45,7 +41,7 @@
 
 ### Boilerplates
 
-*   [NextJS Chargebee Subscription (⭐17)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
+*   [NextJS Chargebee Subscription (⭐18)](https://github.com/bharathvaj-ganesan/chargebee-saas-stack) - A Chargebee focused T3 Stack that integrates User Subscriptions, Authentication and Testing. Driven by Prisma ORM.
 
 ## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
@@ -86,7 +82,13 @@
 
 ### Models and Projects / Flax
 
-*   [GNNs for Solving Combinatorial Optimization Problems (⭐38)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
+*   [GNNs for Solving Combinatorial Optimization Problems (⭐48)](https://github.com/IvanIsCoding/GNN-for-Combinatorial-Optimization) -  A JAX + Flax implementation of [Combinatorial Optimization with Physics-Inspired Graph Neural Networks](https://arxiv.org/abs/2107.01188).
+
+## [11. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### C / Non-X86
+
+*   [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML)
 
 ---
 

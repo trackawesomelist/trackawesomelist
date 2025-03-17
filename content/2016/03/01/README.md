@@ -60,12 +60,12 @@
 
 ### Packages / Command-line utilities
 
-*   [boxen (⭐1.5k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
+*   [boxen (⭐1.6k)](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
 *   [shelljs (⭐14k)](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 
 ### Packages / Text
 
-*   [matcher (⭐539)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+*   [matcher (⭐537)](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 ### Packages / Testing
 

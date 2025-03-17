@@ -36,13 +36,13 @@
 
 ### Command-line
 
-*   [fdup (⭐2)](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
+*   [fdup (⭐7)](https://github.com/gechandesu/fdup) - Find and remove duplicate files.
 
 ## [5. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Large Language Models (LLMs)
 
-*   [lunary-ai/abso (⭐16)](https://github.com/lunary-ai/abso): TypeScript SDK to easily call 100+ LLMs using OpenAI's format
+*   [lunary-ai/abso (⭐23)](https://github.com/lunary-ai/abso): TypeScript SDK to easily call 100+ LLMs using OpenAI's format
 
 ### LLMOps / Multi-agents
 
@@ -62,4 +62,5 @@
 
 ---
 
+- Prev: [Feb 19, 2025](/content/2025/02/19/README.md)
 - Next: [Feb 17, 2025](/content/2025/02/17/README.md)

@@ -40,7 +40,7 @@
 
 ### Development Environment
 
-*   [GitHub Actions (⭐25k)](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+*   [GitHub Actions (⭐26k)](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
 ## [7. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
@@ -50,13 +50,9 @@
 
 ## [8. Awesome Video](/content/krzemienski/awesome-video/README.md)
 
-### Audio / Web
+### Build Tools, Deployment & Utility Libraries / API Libraries & SDKs
 
-*   [ReplayGain - Audacity Forum](https://forum.audacityteam.org/viewtopic.php?t=63067)  -
-
-### Vendors / Dolby
-
-*   [Hybrik API Reference](https://docs.hybrik.com/api/v1/HybrikAPI.html?#getting-started)  -
+*   [Hybrik API Reference](https://docs.hybrik.com/api/v1/HybrikAPI.html?#getting-started)  - A tool or resource for api-libraries-sdks.
 
 ---
 

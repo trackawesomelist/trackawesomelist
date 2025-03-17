@@ -16,7 +16,7 @@
 
 ### Runtime / Playground
 
-*   [type-plus (⭐381)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
+*   [type-plus (⭐383)](https://github.com/unional/type-plus) - Additional types and type adjusted utilities
 
 ## [3. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 

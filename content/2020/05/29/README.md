@@ -148,7 +148,7 @@ Language: English
 
 ### Debugging / SRAM
 
-*   [esp32-backtrace (⭐26)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
+*   [esp32-backtrace (⭐27)](https://github.com/tve/esp32-backtrace) - ESP32 Exception Stack Backtrace Analyzer.
 
 ## [10. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 

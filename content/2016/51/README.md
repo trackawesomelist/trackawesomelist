@@ -74,7 +74,7 @@ git format-patch -M upstream..topic
 *   [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 *   [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 *   [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-*   [Ledger (⭐5.3k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+*   [Ledger (⭐5.5k)](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 
 ## [5. Awesome Qt](/content/JesseTG/awesome-qt/week/README.md)
 
@@ -267,23 +267,25 @@ git format-patch -M upstream..topic
 
 ## [11. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
-### Software / Security
+### Software / Security Testing
 
-*   [OWASP ZAP (⭐13k)](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
+*   [OWASP ZAP (⭐13k)](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 
-### Software / Make your life easier
+### Software / Browser Extensions & Utilities
 
-*   [BareTail](https://www.baremetalsoft.com/baretail/) - Brings the tail linux command to Windows, coloured lines and REGEX search and loads of other features.
-*   [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - We all have to mess with proxies, this makes it a lot easier when using Test/Prod/localhost proxies.
-*   [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - For when PrintScreen isn't big enough.
-*   [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Large forms can be really irritating to fill out each time, speed it up with dummy data.
+*   [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - Capture full-page screenshots.
+*   [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - Auto-fill large forms with dummy data.
+*   [ProxySwitcher](https://chrome.google.com/webstore/detail/proxy-switcher-manager/onnfghpihccifgojkpnnncpagjcdbjod) - Easy proxy switching for test/prod environments.
 
-### Software / Other
+### Software / Accessibility & Usability Testing
 
-*   [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate all types of Colour Blindness instantly!
-*   [Yslow](http://yslow.org/) - Analyse why web pages are slow based on Yahoo!'s rules for performance.
+*   [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - Simulate different types of color blindness.
 
-### Training (Includes developer training for automation testers) / Other
+### Software / Performance & Load Testing
+
+*   [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
+
+### Training (Includes developer training for automation testers) / Mind Mapping & Documentation
 
 *   [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 *   [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
@@ -346,18 +348,18 @@ git format-patch -M upstream..topic
 
 ## [17. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
-### HTTP Servers / Interfaces to other package managers
+### HTTP Servers
 
 *   [woo (⭐1.3k)](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev. [MIT](https://opensource.org/licenses/MIT).
 
 ### Web frameworks / Clack plugins
 
-*   [Caveman (⭐786)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
+*   [Caveman (⭐785)](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL](http://opensource.franz.com/preamble.html).
     Example projects: [Quickdocs](https://github.com/quickdocs)
 
 ### Javascript / Isomorphic web frameworks
 
-*   [JSCL (⭐891)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
+*   [JSCL (⭐897)](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 
 ## [18. Amas](/content/sindresorhus/amas/week/README.md)
 
@@ -497,7 +499,7 @@ git format-patch -M upstream..topic
 
 ### Python / Neural Networks
 
-*   [Data Driven Code (⭐29)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
+*   [Data Driven Code (⭐30)](https://github.com/atmb4u/data-driven-code) - Very simple implementation of neural networks for dummies in python without using any libraries, with detailed comments.
 
 ## [29. Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/week/README.md)
 
@@ -559,10 +561,6 @@ git format-patch -M upstream..topic
 
 ## [35. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
-### Cryptography
-
-*   [Themis (⭐1.9k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. \[Apache2]
-
 ### Debug
 
 *   [backward-cpp (⭐3.9k)](https://github.com/bombela/backward-cpp) - A beautiful stack trace pretty printer for C++. \[MIT]
@@ -583,9 +581,13 @@ git format-patch -M upstream..topic
 
 ## [37. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
+### Encryption
+
+*   [Themis (⭐1.9k)](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms.
+
 ### Coding Style Guides
 
-*   [Fundamental Ruby (⭐472)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
+*   [Fundamental Ruby (⭐473)](https://github.com/khusnetdinov/ruby.fundamental) - Fundamental programming ruby with examples. Threads, design patterns, data structures, OOP SOLID principle, algorithms.
 
 ## [38. Awesome Courses](/content/prakhar1989/awesome-courses/week/README.md)
 
@@ -685,7 +687,7 @@ git format-patch -M upstream..topic
 
 ### Software Design
 
-*   [Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** \[26:04]
+*   [Therapeutic Refactoring](https://www.youtube.com/watch?v=J4dlF0kcThQ) by **Katrina Owen** (Cascadia Ruby Conf 2012) \[26:04]
 
 ---
 

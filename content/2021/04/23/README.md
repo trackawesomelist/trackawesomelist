@@ -57,7 +57,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [vue-datatable-url-sync (⭐32)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
+*   [vue-datatable-url-sync (⭐33)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 
 ## [9. Awesome Preact](/content/preactjs/awesome-preact/README.md)
 

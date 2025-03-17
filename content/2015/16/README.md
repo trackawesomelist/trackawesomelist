@@ -124,7 +124,7 @@
 ### Validations
 
 *   [uk\_postcode (⭐10)](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
-*   [vex (⭐598)](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
+*   [vex](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 
 ## [9. Awesome Gametalks](/content/hzoo/awesome-gametalks/week/README.md)
 
@@ -137,7 +137,7 @@
 
 ### Data Ingestion
 
-*   [Linkedin Gobblin (⭐2.1k)](https://github.com/linkedin/gobblin) - linkedin's universal data ingestion framework.
+*   [Linkedin Gobblin (⭐2.2k)](https://github.com/linkedin/gobblin) - linkedin's universal data ingestion framework.
 
 ## [11. Awesome Open Company](/content/opencompany/awesome-open-company/week/README.md)
 

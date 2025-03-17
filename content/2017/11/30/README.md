@@ -17,7 +17,7 @@
 ### Development tools / IDEs
 
 *   [Sublime Text](https://www.sublimetext.com/)
-    *   [rust-lang/rust-enhanced (⭐794)](https://github.com/rust-lang/rust-enhanced) - official Rust package
+    *   [rust-lang/rust-enhanced (⭐798)](https://github.com/rust-lang/rust-enhanced) - official Rust package
 
 ## [3. Awesome D3](/content/wbkd/awesome-d3/README.md)
 

@@ -24,7 +24,7 @@
 
 ### Authentication and OAuth
 
-*   [Monban (⭐372)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
+*   [Monban (⭐371)](https://github.com/halogenandtoast/monban) - A very simple and extensible user authentication library for rails.
 
 ## [3. Awesome Cyclejs](/content/cyclejs-community/awesome-cyclejs/README.md)
 

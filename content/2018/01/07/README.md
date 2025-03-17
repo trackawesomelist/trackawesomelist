@@ -16,7 +16,7 @@
 
 ### Models/Projects
 
-*   [Tensorflow FastText (⭐302)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
+*   [Tensorflow FastText (⭐303)](https://github.com/apcode/tensorflow_fasttext) - A simple embedding based text classifier inspired by Facebook's fastText.
 
 ## [3. Awesome Aws](/content/donnemartin/awesome-aws/README.md)
 

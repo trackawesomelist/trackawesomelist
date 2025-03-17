@@ -27,7 +27,7 @@
 
 ### Design patterns / Chrome Extensions
 
-*   :octocat: [Real World Design Patterns (⭐122)](https://github.com/vahidvdn/realworld-design-patterns) - Real World Design Patterns with Tests
+*   :octocat: [Real World Design Patterns (⭐127)](https://github.com/vahidvdn/realworld-design-patterns) - Real World Design Patterns with Tests
 
 ---
 

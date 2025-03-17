@@ -32,13 +32,13 @@
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [Fleet device management (⭐3.3k)](https://github.com/fleetdm/fleet) - Lightweight, programmable telemetry for servers and workstations.
+*   [Fleet device management (⭐3.6k)](https://github.com/fleetdm/fleet) - Lightweight, programmable telemetry for servers and workstations.
 
 ## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / Utilities
 
-*   [pinia-persistedstate-2 (⭐99)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
+*   [pinia-persistedstate-2 (⭐103)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
 
 ## [6. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 

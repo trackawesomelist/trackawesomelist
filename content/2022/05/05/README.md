@@ -10,7 +10,7 @@
 
 ### C++ / General-Purpose Machine Learning
 
-*   [oneDNN (⭐3.6k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
+*   [oneDNN (⭐3.7k)](https://github.com/oneapi-src/oneDNN) - An open-source cross-platform performance library for deep learning applications.
 
 ## [2. Awesome Db Tools](/content/mgramin/awesome-db-tools/README.md)
 
@@ -29,7 +29,7 @@
 ### Mobile
 
 *   [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master//www.cons.org/cmucl/) - An implementation from Carnegie Mellon University. Public domain. SBCL is a fork of CMUCL.
-*   [Corman Lisp (⭐572)](https://github.com/sharplispers/cormanlisp) - a Common Lisp development environment for Microsoft Windows running on Intel platforms. [MIT](https://opensource.org/licenses/MIT).
+*   [Corman Lisp (⭐571)](https://github.com/sharplispers/cormanlisp) - a Common Lisp development environment for Microsoft Windows running on Intel platforms. [MIT](https://opensource.org/licenses/MIT).
 
 ### Deployment / Isomorphic web frameworks
 
@@ -61,10 +61,6 @@
 
 ## [9. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
-### Mandel
-
-*   [gofractally](https://github.com/gofractally) - Eden team repository with new Mandel resources and tools.
-
 ### Courses, workshops, webinars, videos and others
 
 *   [Learn EOS Blockchain Smart Contracts & DApps with C++, EOSJS](https://www.udemy.com/course/learn-eos-blockchain-smart-contracts-dapps-with-c-eosjs/) - Udemy course.
@@ -79,11 +75,11 @@
 
 ### Libraries and Frameworks / API libraries
 
-*   [SwiftyEOS (⭐95)](https://github.com/ProChain/SwiftyEOS) - Framework for interacting with EOS, written in Swift.
+*   [SwiftyEOS (⭐91)](https://github.com/ProChain/SwiftyEOS) - Framework for interacting with EOS, written in Swift.
 
 ### Libraries and Frameworks / Services
 
-*   [Demux (⭐303)](https://github.com/EOSIO/demux-js) - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
+*   [Demux (⭐306)](https://github.com/EOSIO/demux-js) - Demux is a backend infrastructure pattern for sourcing blockchain events to deterministically update queryable datastores and trigger side effects.
 *   [Introducing Demux — Deterministic Databases Off-Chain Verified by the EOSIO Blockchain](https://medium.com/eosio/introducing-demux-deterministic-databases-off-chain-verified-by-the-eosio-blockchain-bd860c49b017) - Article.
 *   [WAX Random Number Generator](https://developer.wax.io/es/tutorials/wax-rng)
 
@@ -97,11 +93,11 @@
 
 ### Block Producer tools / Services
 
-*   [eosdetroit/nodesuite (⭐14)](https://github.com/eosdetroit/nodesuite) - Nodesuite is a tool to simplify the management and configuration of eosio nodes through the use of Ansible playbooks.
+*   [eosdetroit/nodesuite (⭐16)](https://github.com/eosdetroit/nodesuite) - Nodesuite is a tool to simplify the management and configuration of eosio nodes through the use of Ansible playbooks.
 
 ### Other in Developers / Services
 
-*   [clsdk (⭐50)](https://github.com/gofractally/Eden/releases?q=clsdk\&expanded=true) - EOSIO smart contract C++ testing framework including in-contract debugging during wasm execution with VS code.
+*   [clsdk (⭐52)](https://github.com/gofractally/Eden/releases?q=clsdk\&expanded=true) - EOSIO smart contract C++ testing framework including in-contract debugging during wasm execution with VS code.
 
 ### Blogs / Services
 
@@ -189,11 +185,11 @@
 
 ### Templates / Vanilla
 
-*   [vite-vanilla-ts-lib-starter (⭐302)](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
+*   [vite-vanilla-ts-lib-starter (⭐305)](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - Starter for library (CJS, ESM, IIFE) with TypeScript, ESLint, Stylelint, Prettier, Jest, Husky + lint-staged.
 
 ### Framework-agnostic Plugins / Integrations
 
-*   [vite-plugin-webfont-dl (⭐325)](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
+*   [vite-plugin-webfont-dl (⭐328)](https://github.com/feat-agency/vite-plugin-webfont-dl) - Downloads and injects webfonts (Google Fonts) to improve website's performance.
 *   [vite-plugin-babel-compiler (⭐25)](https://github.com/yzydeveloper/vite-plugin-babel-compiler) - The plugin works with Babel compiler.
 
 ---

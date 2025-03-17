@@ -93,7 +93,7 @@
 
 ### Uncategorized
 
-*   [CrowdSec (⭐9.5k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
+*   [CrowdSec (⭐9.8k)](https://github.com/crowdsecurity/crowdsec) - An open-source, modernized and collaborative fail2ban.
 
 ## [7. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
@@ -109,10 +109,6 @@
 
 ## [9. Awesome Eosio](/content/DanailMinchev/awesome-eosio/README.md)
 
-### EdenOS
-
-*   [Website](http://edeneos.org/) - Official Website.
-
 ### Websites
 
 *   [EOS Learning Resources - EOS Costa Rica](https://guide.eoscostarica.io/)
@@ -125,7 +121,7 @@
 ### Wallets and Toolkits / Desktop
 
 *   [EOS Authority Web Wallet](https://eosauthority.com/dashboard)
-*   [eoscanada/eosc (⭐131)](https://github.com/eoscanada/eosc)
+*   [eoscanada/eosc (⭐134)](https://github.com/eoscanada/eosc)
 
 ### Account services / Mobile
 
@@ -138,21 +134,21 @@
 
 ### Libraries and Frameworks / API libraries
 
-*   [EOSRPC API Wrapper for Elixir (⭐18)](https://github.com/cambiatus/eosrpc-elixir-wrapper) - Elixir library.
+*   [EOSRPC API Wrapper for Elixir (⭐20)](https://github.com/cambiatus/eosrpc-elixir-wrapper) - Elixir library.
 
 ### Libraries and Frameworks / Testing
 
-*   [tokenika/eosfactory (⭐244)](https://github.com/tokenika/eosfactory) - Python-based EOSIO smart-contract development & unit testing framework.
+*   [tokenika/eosfactory (⭐243)](https://github.com/tokenika/eosfactory) - Python-based EOSIO smart-contract development & unit testing framework.
 
 ### Developer Tools / Services
 
-*   [Octopus (⭐390)](https://github.com/pventuzelo/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
+*   [Octopus (⭐483)](https://github.com/pventuzelo/octopus) - Security Analysis tool for WebAssembly and Blockchain Smart Contracts (BTC/ETH/NEO/EOS).
 
 ### Code examples / Services
 
-*   [Eosfinex Custody Smart Contract (⭐19)](https://github.com/bitfinexcom/eosfinex-custody-contract) - Eosfinex exchange smart contract.
+*   [Eosfinex Custody Smart Contract (⭐18)](https://github.com/bitfinexcom/eosfinex-custody-contract) - Eosfinex exchange smart contract.
     *   [Bitfinex blog post about eosfinex](https://www.bitfinex.com/posts/616) - Article.
-*   [eosnewyork/erp (⭐48)](https://github.com/eosnewyork/erp) - EOS Resource Planner.
+*   [eosnewyork/erp (⭐45)](https://github.com/eosnewyork/erp) - EOS Resource Planner.
 
 ### Block Producer tools / Services
 
@@ -169,7 +165,7 @@
 ### Games / Services
 
 *   [MonsterEOS](https://monstereos.io/)
-    *   [MonsterEOS/monstereos (⭐180)](https://github.com/MonsterEOS/monstereos) - Official GitHub.
+    *   [MonsterEOS/monstereos (⭐185)](https://github.com/MonsterEOS/monstereos) - Official GitHub.
 
 ---
 

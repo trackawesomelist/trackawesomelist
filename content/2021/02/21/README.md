@@ -20,7 +20,7 @@
 
 ### Testing
 
-*   [mix\_test\_interactive (⭐93)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
+*   [mix\_test\_interactive (⭐94)](https://github.com/influxdata/mix_test_interactive) - Interactive test runner for mix test with watch mode.
 
 ## [3. Awesome Godot](/content/godotengine/awesome-godot/README.md)
 
@@ -30,8 +30,8 @@
 
 ### Plugins and scripts / Godot 3
 
-*   [Anima (⭐707)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween.
-*   [Godot GamePad (⭐121)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
+*   [Anima (⭐714)](https://github.com/ceceppa/anima) - Run sequential and parallel animations with less code compared to Tween.
+*   [Godot GamePad (⭐123)](https://github.com/ACB-prgm/Godot_GamePad) - Allows players to use their mobile devices as controllers.
 
 ### Modules / Godot 4
 
@@ -47,11 +47,11 @@
 
 ### Table of Contents / Streaming Engine
 
-*   [Maki Nage (⭐38)](https://github.com/maki-nage/makinage) \[Python] - A stream processing framework for data scientists, based on Kafka and ReactiveX.
+*   [Maki Nage (⭐39)](https://github.com/maki-nage/makinage) \[Python] - A stream processing framework for data scientists, based on Kafka and ReactiveX.
 
 ## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
-### Courses
+### GTFS Courses
 
 *   [Planetizen "Building a Transit Map Web App" course](https://courses.planetizen.com/course/building-transit-map-app) - A video tutorial on setting up your own web-based mapping application, with no coding experience required.
 

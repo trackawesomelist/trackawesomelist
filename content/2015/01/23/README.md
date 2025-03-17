@@ -50,7 +50,7 @@
 
 ### Methodologies
 
-*   [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) by **Robert C. Martin** \[45:03]
+*   [Demanding Professionalism in Software Development](https://www.youtube.com/watch?v=p0O1VVqRSK0) by **Robert C. Martin** (Elapse Technologies 2012) \[45:03]
 
 ## [6. Awesome Gametalks](/content/hzoo/awesome-gametalks/README.md)
 

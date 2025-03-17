@@ -1,6 +1,6 @@
 # Awesome List Updates on Apr 27, 2020
 
-13 awesome lists updated today.
+12 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,61 +30,55 @@
 
 *   [scaledrone.com](https://www.scaledrone.com/) — Realtime messaging service. Free for up to 20 simultaneous connections and 100,000 events/day
 
-## [3. Awesome Swift](/content/matteocrippa/awesome-swift/README.md)
-
-### Quality / Barcode
-
-*   [AnyLint (⭐115)](https://github.com/Flinesoft/AnyLint) :penguin: - Lint anything by combining the power of Swift & regular expressions.
-
-## [4. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
+## [3. Awesome Robotic Tooling](/content/protontypes/awesome-robotic-tooling/README.md)
 
 ### Simulation / Version Control
 
 *   [Ignition Robotics](https://ignitionrobotics.org) -  Test control strategies in safety, and take advantage of simulation in continuous integration tests.
 
-## [5. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+## [4. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ### Languages
 
 *   [Folders (⭐366)](https://github.com/rottytooth/Folders) - Code written with folders.
 
-## [6. Awesome K6](/content/grafana/awesome-k6/README.md)
+## [5. Awesome K6](/content/grafana/awesome-k6/README.md)
 
 ### Tools
 
 *   [k6 for visual studio code](https://marketplace.visualstudio.com/items?itemName=k6.k6\&ssr=false#overview) - Marketplace Extension for running k6 directly from your IDE.
 
-## [7. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+## [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ### Maps in the Wild
 
 *   [Other tools I use with mapping](https://blog.gardeviance.org/2015/03/other-tools-i-use-with-mapping.html) - Simon Wardley discusses some of the other tools he uses with mapping. Mar 6, 2015.
 
-## [8. Awesome List](/content/sindresorhus/awesome/README.md)
+## [7. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ### Programming Languages
 
 *   [V (⭐1.9k)](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 
-## [9. Awesome Actions](/content/sdras/awesome-actions/README.md)
+## [8. Awesome Actions](/content/sdras/awesome-actions/README.md)
 
 ### Static Analysis / Security
 
 *   [Manage Your GitHub Actions Secrets With A Simple CLI (⭐43)](https://github.com/unfor19/githubsecrets)
 
-## [10. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
+## [9. Awesome Leading and Managing](/content/LappleApple/awesome-leading-and-managing/README.md)
 
 ### Contents / Quotes That Capture the General Spirit of this List's Contents
 
 *   [The VP Engineering Role](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/README.md/The-VP-Engineering-Role.md)
 
-## [11. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [10. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / Utilities
 
 *   [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software).
 
-## [12. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
+## [11. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/README.md)
 
 ### Introduction
 
@@ -167,7 +161,7 @@
 *   [@webcomponents/template (⭐1.1k)](https://github.com/webcomponents/polyfills/tree/master/packages/template) - Minimal polyfill for `<template>`.
 *   [@ungap/import-node (⭐7)](https://github.com/ungap/import-node) - An `importNode` polyfill for IE11 by [ungap project](https://ungap.github.io).
 
-## [13. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
+## [12. Awesome Material Ui](/content/nadunindunil/awesome-material-ui/README.md)
 
 ### Boilerplates
 

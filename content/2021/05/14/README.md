@@ -16,7 +16,7 @@
 
 ### IO / ADC
 
-*   [MicroPython-ADC\_Cal (⭐18)](https://github.com/matthias-bs/MicroPython-ADC_Cal) - ESP32 ADC driver using reference voltage calibration value from efuse.
+*   [MicroPython-ADC\_Cal (⭐20)](https://github.com/matthias-bs/MicroPython-ADC_Cal) - ESP32 ADC driver using reference voltage calibration value from efuse.
 
 ## [3. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 

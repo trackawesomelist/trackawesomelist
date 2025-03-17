@@ -68,7 +68,7 @@
 
 ### Free fonts / Collections
 
-*   [Plex (⭐9.7k)](https://github.com/IBM/plex) - IBM's open source font
+*   [Plex (⭐11k)](https://github.com/IBM/plex) - IBM's open source font
 
 ### Iconic fonts / Fonts
 
@@ -84,7 +84,7 @@
 
 ### Packages / Security
 
-*   [upash (⭐540)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
+*   [upash (⭐541)](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 
 ## [4. Awesome Rails Gem](/content/hothero/awesome-rails-gem/README.md)
 
@@ -140,7 +140,7 @@
 
 ### Pagination / Barcode
 
-*   [SlideController (⭐421)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
+*   [SlideController (⭐425)](https://github.com/touchlane/SlideController) - It is a nice alternative for UIPageViewController built using power of generic types. Swipe between pages with an interactive title navigation control. Configure horizontal or vertical chains for unlimited pages amount.
 
 ## [11. Awesome Charting](/content/zingchart/awesome-charting/README.md)
 

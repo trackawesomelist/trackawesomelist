@@ -10,11 +10,11 @@
 
 ### Applications / Utilities
 
-*   [guoxbin/dtool (⭐371)](https://github.com/guoxbin/dtool) - A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
+*   [guoxbin/dtool (⭐374)](https://github.com/guoxbin/dtool) - A useful command-line tool collection to assist development including conversion, codec, hashing, encryption, etc.
 
 ### Development tools / Profiling
 
-*   [bheisler/criterion.rs (⭐4.8k)](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library
+*   [bheisler/criterion.rs (⭐4.9k)](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library
 
 ## [2. Awesome Flutter](/content/Solido/awesome-flutter/README.md)
 

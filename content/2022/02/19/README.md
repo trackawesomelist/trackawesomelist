@@ -42,7 +42,7 @@
 
 ### Miscellaneous / Text-Based User Interfaces
 
-*   [RR4J (⭐22)](https://github.com/Kartikvk1996/RR4J) - RR4J is a tool that records java bytecode execution and later allows developers to replay locally.
+*   [RR4J (⭐24)](https://github.com/Kartikvk1996/RR4J) - RR4J is a tool that records java bytecode execution and later allows developers to replay locally.
 
 ### Security / Other
 
@@ -52,7 +52,7 @@
 
 ### Modules / Godot 3
 
-*   [godot-simple-state (⭐62)](https://github.com/tavurth/godot-simple-state) - A minimal finite state machine using nodes, perfect for Jam games.
+*   [godot-simple-state (⭐61)](https://github.com/tavurth/godot-simple-state) - A minimal finite state machine using nodes, perfect for Jam games.
 
 ## [6. Awesome React Components](/content/brillout/awesome-react-components/README.md)
 
@@ -69,7 +69,7 @@
 ### Datasets
 
 *   [Growstuff](https://www.growstuff.org/crops) Record keeping & crop database, nice API
-*   [CWFID (⭐122)](https://github.com/cwfid/dataset) - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.
+*   [CWFID (⭐137)](https://github.com/cwfid/dataset) - Dataset comprising field images, vegetation segmentation masks and crop/weed plant type annotations.
 *   [TERRA REF](https://terraref.org) - 1PB public domain high resolution sensor data from sorghum breeding trials ([data publication](https://doi.org/10.5061/dryad.4b8gtht99) with large files available on [globus.org at ncsa#terra-public](https://app.globus.org/file-manager?origin_id=e8feaff4-96cd-11ea-bf90-0e6cccbb0103\&origin_path=%2F))
 
 ## [8. Free for Dev](/content/ripienaar/free-for-dev/README.md)
@@ -93,7 +93,7 @@
 ### Development tools / Embedded
 
 *   Arduino
-    *   [avr-rust/ruduino (⭐710)](https://github.com/avr-rust/ruduino) - Reusable components for the Arduino Uno.
+    *   [avr-rust/ruduino (⭐713)](https://github.com/avr-rust/ruduino) - Reusable components for the Arduino Uno.
 
 ---
 

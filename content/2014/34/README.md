@@ -46,7 +46,7 @@
 
 ### Python / Data Analysis / Data Visualization
 
-*   [PyQtGraph (⭐3.9k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
+*   [PyQtGraph (⭐4k)](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 
 ## [8. Awesome Laravel](/content/chiraggude/awesome-laravel/week/README.md)
 
@@ -129,11 +129,11 @@
 
 ### Data Visualization / Graph Based approach
 
-*   Other awesome lists [awesome-awesomeness (⭐30k)](https://github.com/bayandin/awesome-awesomeness).
-*   Even more lists [awesome (⭐254k)](https://github.com/sindresorhus/awesome).
-*   Another list? [list (⭐9k)](https://github.com/jnv/lists).
-*   WTF! [awesome-awesome-awesome (⭐1.8k)](https://github.com/t3chnoboy/awesome-awesome-awesome).
-*   Analytics [awesome-analytics (⭐3.6k)](https://github.com/onurakpolat/awesome-analytics).
+*   Other awesome lists [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness).
+*   Even more lists [awesome (⭐345k)](https://github.com/sindresorhus/awesome).
+*   Another list? [list (⭐10k)](https://github.com/jnv/lists).
+*   WTF! [awesome-awesome-awesome (⭐2k)](https://github.com/t3chnoboy/awesome-awesome-awesome).
+*   Analytics [awesome-analytics (⭐4k)](https://github.com/onurakpolat/awesome-analytics).
 
 ### Distributed Filesystem
 
@@ -142,27 +142,27 @@
 ### Key-value Data Model
 
 *   [Aerospike](http://www.aerospike.com/) - NoSQL flash-optimized, in-memory. Open source and "Server code in 'C' (not Java or Erlang) precisely tuned to avoid context switching and memory copies."
-*   [TreodeDB (⭐178)](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
+*   [TreodeDB (⭐176)](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
 
 ### Applications
 
-*   [Adobe spindle (⭐333)](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
+*   [Adobe spindle (⭐331)](https://github.com/adobe-research/spindle) - Next-generation web analytics processing with Scala, Spark, and Parquet.
 
 ## [12. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Streams
 
-*   [multistream (⭐288)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
+*   [multistream (⭐293)](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 
 ### Packages / Network
 
-*   [ipify (⭐273)](https://github.com/sindresorhus/ipify) - Get your public IP address.
+*   [ipify (⭐277)](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 ## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Vision Detection / Runner
 
-*   [tracking.js (⭐9.4k)](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
+*   [tracking.js (⭐9.5k)](https://github.com/eduardolundgren/tracking.js) - A modern approach for Computer Vision on the web.
 
 ## [14. Awesome Lua](/content/LewisJEllis/awesome-lua/week/README.md)
 

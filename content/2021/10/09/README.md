@@ -1,6 +1,6 @@
 # Awesome List Updates on Oct 09, 2021
 
-10 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -49,25 +49,31 @@
 
 *   [Insecureshop (⭐233)](https://github.com/optiv/insecureshop)
 
-## [5. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### JavaScript / Wicket
+
+*   [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
+
+## [6. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/README.md)
 
 ### Public Data Resources / Climate
 
 *   [WUDAPT](https://www.wudapt.org/) - This database intends to make accessible coherent and consistent descriptions and information on form and function of urban morphology relevant to climate & environment studies on a worldwide basis.
 
-## [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [7. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Serialization
 
 *   [cista (⭐1.9k)](https://github.com/felixguendling/cista) - A C++17 library for zero-copy high-performance (de-)serialization. \[MIT]
 
-## [7. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
+## [8. Awesome Interview Questions](/content/DopplerHQ/awesome-interview-questions/README.md)
 
 ### Programming Languages/Frameworks/Platforms / Docker
 
 *   [Top 50+ Docker Interview Questions and Answers in 2021](https://www.techgeekbuzz.com/top-docker-interview-questions/)
 
-## [8. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
+## [9. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/README.md)
 
 ### Web Development
 
@@ -91,7 +97,7 @@
 *   [Software Architect Roadmap (⭐1.1k)](https://github.com/AlaaAttya/software-architect-roadmap) - Roadmap for becoming a software architect [<img src="https://img.shields.io/badge/Roadmap-2018-yellow.svg">](https://github.com/AlaaAttya/software-architect-roadmap).
 *   [Software Design and Architecture Roadmap (⭐3.3k)](https://github.com/stemmlerjs/software-design-and-architecture-roadmap) - A software design and architecture roadmap for any developer [<img src="https://img.shields.io/badge/Roadmap-2019-yellow.svg">](https://github.com/stemmlerjs/software-design-and-architecture-roadmap).
 
-## [9. Public Apis](/content/public-apis/public-apis/README.md)
+## [10. Public Apis](/content/public-apis/public-apis/README.md)
 
 ### Calendar
 
@@ -193,7 +199,7 @@
 
 
 
-## [10. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
+## [11. Awesome Humane Tech](/content/humanetech-community/awesome-humane-tech/README.md)
 
 ### Social networks / Wear our   [![Awesome Humane Tech](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/main/humane-tech-badge.svg?sanitize=true)](https://github.com/humanetech-community/awesome-humane-tech)   badge
 

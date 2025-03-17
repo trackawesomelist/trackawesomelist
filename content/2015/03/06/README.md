@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 06, 2015
 
-4 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -30,12 +30,6 @@
 
 **Free** programming challenges and contests\
 *(artificial intelligence, algorithms, functional programming, machine learning)*
-
-## [4. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
-
-### HTTP
-
-*   [bolt](https://github.com/SebastianSzturo/bolt) - Simple and fast http proxy.
 
 ---
 

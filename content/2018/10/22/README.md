@@ -16,11 +16,7 @@
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐613)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
-
-### Software / Pastebins
-
-*   [bepasty](https://bepasty-server.readthedocs.io/en/latest/) - A pastebin for all kinds of files. ([Source Code (⭐197)](https://github.com/bepasty/bepasty-server)) `BSD-2-Clause` `Python/deb`
+*   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐632)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 
 ## [3. Awesome Laravel](/content/chiraggude/awesome-laravel/README.md)
 
@@ -34,24 +30,15 @@
 
 *   [ObjectMapper (⭐9.2k)](https://github.com/tristanhimmelman/ObjectMapper) - JSON object mapper.
 
-### System / Barcode
-
-*   [LaunchAtLogin (⭐1.6k)](https://github.com/sindresorhus/LaunchAtLogin) - Easily add 'Launch at Login' functionality to your sandboxed macOS app.
-
 ### Testing / Barcode
 
 *   [SnapshotTest (⭐41)](https://github.com/parski/SnapshotTest) - Snapshot testing tool for iOS and tvOS.
-*   [XCTest (⭐1.2k)](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
-
-### UI / Barcode
-
-*   [Preferences (⭐1.4k)](https://github.com/sindresorhus/Preferences) - Add a preferences window to your macOS app in minutes.
 
 ## [5. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ### Assets
 
-*   [Sprockets (⭐958)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
+*   [Sprockets (⭐959)](https://github.com/rails/sprockets) - Rack-based asset packaging system.
 
 ### Code Analysis and Metrics
 
@@ -63,7 +50,7 @@
 
 ### Implementations/Compilers
 
-*   [TruffleRuby (⭐3k)](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
+*   [TruffleRuby (⭐3.1k)](https://github.com/oracle/truffleruby) - A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.
 
 ### Music and Sound
 
@@ -153,7 +140,7 @@
 
 ### Bytecode Manipulation
 
-*   [Mixin (⭐1.4k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
+*   [Mixin (⭐1.5k)](https://github.com/SpongePowered/Mixin) - Manipulate bytecode at runtime using real Java code.
 
 ## [12. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 

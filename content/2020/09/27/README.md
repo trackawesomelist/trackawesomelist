@@ -60,14 +60,13 @@
 
 ### Tools
 
-*   [Ansible Later (⭐111)](https://github.com/thegeeklab/ansible-later) - Another best practice scanner. Checks Playbooks and Roles for best practices and behavior that could potentially be improved.
 *   [Ansible Doctor (⭐136)](https://github.com/thegeeklab/ansible-doctor) - Simple annotation like documentation generator for Ansible roles based on Jinja2 templates.
 
 ## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### Python / Computer Vision
 
-*   [pytessarct (⭐5.9k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐63k)](https://github.com/tesseract-ocr/tesseract).
+*   [pytessarct (⭐6k)](https://github.com/madmaze/pytesseract) - Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and "read" the text embedded in images. Python-tesseract is a wrapper for [Google's Tesseract-OCR Engine (⭐65k)](https://github.com/tesseract-ocr/tesseract).
 
 ## [7. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 

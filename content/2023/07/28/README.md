@@ -22,23 +22,23 @@
 
 ### Utility / Diagnostics
 
-*   [malbertzard/inline-fold.nvim (⭐85)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
+*   [malbertzard/inline-fold.nvim (⭐84)](https://github.com/malbertzard/inline-fold.nvim) - Hide certain elements inline like long CSS classes or `href` content.
 
 ## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md)
 
 ### Tools / Community providers
 
-*   [tfmake (⭐22)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
+*   [tfmake (⭐24)](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
 
 ## [5. Awesome Java](/content/akullpp/awesome-java/README.md)
 
-### Websites / Other
+### Websites / Socials
 
 *   [Java Weekly](https://discu.eu/weekly/java/)
 
 ## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
-### Speech-to-text (STT) and spoken content analysis / Deforum
+### AI-Powered Code Generation
 
 *   [ZZZ Code AI](https://zzzcode.ai/): AI-powered free website to get any programming question answered or code generated.
 

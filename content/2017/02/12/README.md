@@ -46,7 +46,7 @@
 
 ### Computer History
 
-*   [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by **Robert C. Martin** \[01:18:20]
+*   [The Future of Programming](https://www.youtube.com/watch?v=ecIWPzGEbFc) by **Robert C. Martin** (X/UP 2016) \[01:18:20]
 
 ---
 

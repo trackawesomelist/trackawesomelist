@@ -19,7 +19,7 @@
 
 ### Packages / Network
 
-*   [DHCP (⭐302)](https://github.com/infusion/node-dhcp) - DHCP client and server.
+*   [DHCP (⭐301)](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 ## [3. Awesome ad Free](/content/johnjago/awesome-ad-free/README.md)
 
@@ -55,7 +55,7 @@
 
 ### Authentication
 
-*   [LoginKit (⭐663)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
+*   [LoginKit (⭐660)](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.
 
 ### UITableView / Barcode
 

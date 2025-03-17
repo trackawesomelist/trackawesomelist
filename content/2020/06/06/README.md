@@ -47,7 +47,7 @@
 
 ### Apps
 
-*   [Feednext (⭐322)](https://github.com/feednext/feednext) - An open source social media application.
+*   [Feednext (⭐323)](https://github.com/feednext/feednext) - An open source social media application.
 
 ## [6. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 

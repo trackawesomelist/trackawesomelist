@@ -110,7 +110,7 @@
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐183)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐189)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ---
 

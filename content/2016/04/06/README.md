@@ -46,7 +46,7 @@ git config --global --unset <entry-name>
 
 ### Key-value Data Model
 
-*   [TiKV (⭐13k)](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
+*   [TiKV (⭐16k)](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
 
 ## [6. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md)
 

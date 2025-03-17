@@ -110,7 +110,7 @@
 
 ### Libraries / Parsing
 
-*   [Folyd/robotstxt (⭐90)](https://github.com/Folyd/robotstxt) - Port of Google's robots.txt parser and matcher C++ library
+*   [Folyd/robotstxt (⭐93)](https://github.com/Folyd/robotstxt) - Port of Google's robots.txt parser and matcher C++ library
 
 ---
 

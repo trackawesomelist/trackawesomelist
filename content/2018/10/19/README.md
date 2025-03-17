@@ -47,7 +47,7 @@
 
 ### Misc / Other
 
-*   [You Don't Know JS (⭐179k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
+*   [You Don't Know JS (⭐181k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 
 ## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
@@ -129,7 +129,7 @@
 
 ### Utility / Mocking
 
-*   [bucket4j (⭐2.3k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
+*   [bucket4j (⭐2.4k)](https://github.com/vladimir-bukhtoyarov/bucket4j) - Rate limiting library based on token-bucket algorithm.
 
 ## [14. Awesome Speaking](/content/matteofigus/awesome-speaking/README.md)
 

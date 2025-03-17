@@ -55,7 +55,7 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Plugins and scripts / Godot 4
 
-*   [HTerrain (⭐1.8k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass. *(Godot 3 and 4)*
+*   [HTerrain (⭐1.9k)](https://github.com/Zylann/godot_heightmap_plugin) - Heightmap-based terrain. Supports texture painting, colouring, holes, level of detail and grass. *(Godot 3 and 4)*
 
 ## [3. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
@@ -79,13 +79,13 @@ Language: English, język polski, Rumanian, 한국어, Deutsch, 中文, italiano
 
 ### Python / Neural Networks
 
-*   [sequitur (⭐435)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
+*   [sequitur (⭐434)](https://github.com/shobrook/sequitur) PyTorch library for creating and training sequence autoencoders in just two lines of code
 
 ## [7. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
 ### Contents / Text Editors Language Support
 
-*   Emacs: [pico8-mode (⭐26)](https://github.com/Kaali/pico8-mode)
+*   Emacs: [pico8-mode (⭐30)](https://github.com/Kaali/pico8-mode)
 
 ## [8. Awesome Analytics](/content/newTendermint/awesome-analytics/README.md)
 

@@ -14,7 +14,7 @@
 
 ### Table of Contents / Testing
 
-*   [PHP MySQL Engine (⭐550)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
+*   [PHP MySQL Engine (⭐557)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
 
 ### Configuration / PHP Websites
 
@@ -60,7 +60,7 @@
 
 ## [4. Awesome Construct](/content/ConstructCommunity/awesome-construct/README.md)
 
-### Games Showcase
+### Made With Construct
 
 *   [Games made with Construct](https://www.madewithconstruct.com/) - A website that list all the games made with the engine.
 
@@ -189,17 +189,17 @@
 
 ### Scheduling
 
-*   [Cronicle (⭐2.1k)](https://github.com/jhuckaby/Cronicle) - Distributed, easy to install, NodeJS based, task scheduler
+*   [Cronicle (⭐4.2k)](https://github.com/jhuckaby/Cronicle) - Distributed, easy to install, NodeJS based, task scheduler
 
 ### Data Visualization
 
-*   [Dash (⭐19k)](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. Built on top of plotly, no JS required
+*   [Dash (⭐22k)](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. Built on top of plotly, no JS required
 
 ## [11. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Emacs / Third-party APIs
 
-*   [Emacs4CL (⭐384)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
+*   [Emacs4CL (⭐387)](https://github.com/susam/emacs4cl) - A tiny Emacs initialization file to quickly set up vanilla Emacs for Common Lisp programming. Comes with a line-by-line explanation of every line of code in the initialization file.
 
 ## [12. Awesome Italy Events](/content/ildoc/awesome-italy-events/README.md)
 

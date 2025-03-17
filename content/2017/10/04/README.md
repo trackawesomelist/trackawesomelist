@@ -56,7 +56,7 @@
 
 ### Free fonts / Collections
 
-*   [Zilla Slab (⭐419)](https://github.com/mozilla/zilla-slab) - Mozilla font
+*   [Zilla Slab (⭐430)](https://github.com/mozilla/zilla-slab) - Mozilla font
 
 ### Programming fonts / Fonts
 

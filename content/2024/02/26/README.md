@@ -16,7 +16,7 @@
 
 ### Framework-agnostic Plugins / Bundling
 
-*   [vite-plugin-minipic (⭐45)](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
+*   [vite-plugin-minipic (⭐48)](https://github.com/60late/vite-plugin-minipic) - Efficient image compression tool.
 
 ## [3. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
@@ -50,7 +50,7 @@
 
 ### Blockchain
 
-*   [gosemble (⭐12)](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
+*   [gosemble (⭐13)](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
 
 ### Date and Time
 
@@ -96,19 +96,15 @@
 
 ## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
 
-### PlayCanvas
-
-*   [SuperSplat](https://playcanvas.com/supersplat/editor) - 3D Gassuian Splat Editor.
-
 ### Extensions and Utilities
 
-*   [playcanvas-rest-api-tools (⭐23)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
+*   [playcanvas-rest-api-tools (⭐25)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 
 ## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Markdown and LaTeX / Diagnostics
 
-*   [Myzel394/easytables.nvim (⭐113)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
+*   [Myzel394/easytables.nvim (⭐120)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables with a live preview and useful helpers.
 
 ### Marks / Diagnostics
 
@@ -125,7 +121,7 @@
 
 ### Competitive Programming / Diagnostics
 
-*   [kawre/leetcode.nvim (⭐1.3k)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
+*   [kawre/leetcode.nvim (⭐1.4k)](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 
 ## [12. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 

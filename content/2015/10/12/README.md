@@ -23,7 +23,7 @@
 
 ### Third-party APIs
 
-*   [google-api-ads-ruby (⭐297)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
+*   [google-api-ads-ruby (⭐298)](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
 
 ## [4. Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md)
 
@@ -487,13 +487,13 @@
 
 ### Web Development
 
-*   [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436) by **Paul Irish** \[53:40]
+*   [10 Things I Learned from the jQuery Source](https://vimeo.com/12529436) by **Paul Irish** (TXJS conference 2010) \[53:40]
 
 ## [11. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Sliders / Runner
 
-*   [Flickity (⭐7.5k)](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
+*   [Flickity (⭐7.6k)](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
 
 ## [12. Awesome Perl](/content/hachiojipm/awesome-perl/README.md)
 

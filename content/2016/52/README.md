@@ -29,7 +29,7 @@
 
 ### Database Drivers
 
-*   [peewee-async (⭐667)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐9.7k)](https://github.com/coleifer/peewee) and aiopg.
+*   [peewee-async (⭐744)](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee (⭐11k)](https://github.com/coleifer/peewee) and aiopg.
 
 ## [5. Awesome Aws](/content/donnemartin/awesome-aws/week/README.md)
 
@@ -41,7 +41,7 @@
 
 ### Powered by TensorFlow
 
-*   [android-yolo (⭐668)](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
+*   [android-yolo (⭐674)](https://github.com/natanielruiz/android-yolo) - Real-time object detection on Android using the YOLO network, powered by TensorFlow.
 
 ## [7. Awesome Robotics](/content/kiloreux/awesome-robotics/week/README.md)
 
@@ -248,11 +248,11 @@
 
 ### Software / Julia
 
-*   [EcologicalNetwork.jl (⭐68)](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
+*   [EcologicalNetwork.jl (⭐69)](https://github.com/PoisotLab/EcologicalNetwork.jl) - Package to compute measures of ecological network structures.
 *   [MatrixNetworks.jl (⭐109)](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
 *   [NetworkFlows.jl (⭐3)](https://github.com/Azzaare/NetworkFlows.jl) - Package of network flows algorithms.
-*   [PhyloNetworks.jl (⭐158)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
-*   [TikzGraphs (⭐77)](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
+*   [PhyloNetworks.jl (⭐159)](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
+*   [TikzGraphs (⭐78)](https://github.com/sisl/TikzGraphs.jl) - Package to create graph layouts using the TikZ graphics language.
 
 ### Varia / Tutorials
 
@@ -268,7 +268,7 @@
 
 ### Music Notation
 
-*   [Lyp (⭐73)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
+*   [Lyp (⭐75)](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 
 ## [24. Awesome R](/content/qinwf/awesome-R/week/README.md)
 

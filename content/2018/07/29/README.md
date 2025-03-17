@@ -152,11 +152,11 @@
 
 ### Work
 
-*   [Code Review (⭐4.4k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+*   [Code Review (⭐4.5k)](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 ### Miscellaneous
 
-*   [Captcha (⭐1.2k)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
+*   [Captcha (⭐1.3k)](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 ---
 

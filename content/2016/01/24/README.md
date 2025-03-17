@@ -194,7 +194,7 @@
 
 ### Networking
 
-*   [fluent-logger (⭐7)](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
+*   [fluent-logger (⭐8)](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 
 ## [9. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

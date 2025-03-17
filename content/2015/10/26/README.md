@@ -10,7 +10,7 @@
 
 ### PDF
 
-*   [CombinePDF (⭐735)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
+*   [CombinePDF (⭐747)](https://github.com/boazsegev/combine_pdf) - A Pure ruby library to merge or stump PDF files, number pages and more.
 
 ## [2. Awesome Tech Videos](/content/lucasviola/awesome-tech-videos/README.md)
 
@@ -40,7 +40,7 @@
 
 ### Testing
 
-*   [ex\_machina (⭐2k)](https://github.com/thoughtbot/ex_machina) - Flexible test factories for Elixir. Works out of the box with Ecto and Ecto associations.
+*   [ex\_machina](https://github.com/thoughtbot/ex_machina) - Flexible test factories for Elixir. Works out of the box with Ecto and Ecto associations.
 
 ## [7. Awesome Clojure](/content/razum2um/awesome-clojure/README.md)
 
@@ -82,21 +82,21 @@
 
 ### Packages / Mad science
 
-*   [turf (⭐9.4k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
+*   [turf (⭐9.6k)](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 
 ### Packages / Filesystem
 
-*   [find-up (⭐585)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
+*   [find-up (⭐594)](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
 *   [load-json-file (⭐245)](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
-*   [write-json-file (⭐219)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
+*   [write-json-file (⭐222)](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 
 ### Packages / Streams
 
-*   [get-stream (⭐342)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
+*   [get-stream (⭐345)](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 
 ### Packages / Parsing
 
-*   [parse-json (⭐348)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
+*   [parse-json (⭐351)](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 
 ### Packages / Testing
 

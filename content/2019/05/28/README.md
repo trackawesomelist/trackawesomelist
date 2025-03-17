@@ -28,9 +28,9 @@
 
 ### Data Visualization / Graph Based approach
 
-*   Decision Tree Papers [awesome-decision-tree-papers (⭐2.2k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers).
-*   Fraud Detection Papers [awesome-fraud-detection-papers (⭐1.4k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
-*   Gradient Boosting Papers [awesome-gradient-boosting-papers (⭐923)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
+*   Decision Tree Papers [awesome-decision-tree-papers (⭐2.4k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers).
+*   Fraud Detection Papers [awesome-fraud-detection-papers (⭐1.7k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers).
+*   Gradient Boosting Papers [awesome-gradient-boosting-papers (⭐1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers).
 
 ## [5. Awesome Product Design](/content/ttt30ga/awesome-product-design/README.md)
 
@@ -48,13 +48,13 @@
 
 ### Tools / Communication
 
-*   [Matrix (⭐904)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐902)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [8. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Scroll / Other
 
-*   [simpleParallax (⭐1.8k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
+*   [simpleParallax (⭐1.9k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
 
 ## [9. Awesome Haxe Gamedev](/content/Dvergar/awesome-haxe-gamedev/README.md)
 

@@ -10,7 +10,7 @@
 
 ### Menu / Barcode
 
-*   [FanMenu (⭐728)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
+*   [FanMenu (⭐730)](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
 
 ## [2. Awesome Non Financial Blockchain](/content/machinomy/awesome-non-financial-blockchain/README.md)
 
@@ -113,7 +113,7 @@
 
 ### Functional Programming
 
-*   [To Clojure and back: Writing and rewriting in Ruby](https://www.youtube.com/watch?v=doZ0XAc9Wtc) by **Phillip Mendonça-Vieira** \[33:16]
+*   [To Clojure and back: Writing and rewriting in Ruby](https://www.youtube.com/watch?v=doZ0XAc9Wtc) by **Phillip Mendonça-Vieira** (RubyConf 2016) \[33:16]
 
 ## [6. Awesome Android](/content/JStumpp/awesome-android/README.md)
 

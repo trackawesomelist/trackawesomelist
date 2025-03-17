@@ -28,5 +28,5 @@
 
 ---
 
-- Prev: [Dec 19, 2023](/content/2023/12/19/README.md)
+- Prev: [Dec 20, 2023](/content/2023/12/20/README.md)
 - Next: [Dec 16, 2023](/content/2023/12/16/README.md)

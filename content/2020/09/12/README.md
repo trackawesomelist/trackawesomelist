@@ -1,6 +1,6 @@
 # Awesome List Updates on Sep 12, 2020
 
-9 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -43,19 +43,13 @@
 *   [Data mining feature selection for credit scoring models](https://link.springer.com/article/10.1057/palgrave.jors.2601976) - The features used may have an important effect on the performance of credit scoring models. The process of choosing the best set of features for credit scoring models is usually unsystematic and dominated by somewhat arbitrary trial. This paper presents an empirical study of four machine learning feature selection methods.
 *   [Combination of feature selection approaches with SVM in credit scoring](https://www.sciencedirect.com/science/article/abs/pii/S0957417409010719) - An effective classificatory model in credit scoring will objectively help managers who rely on intuitive experience. This study proposes four approaches using the SVM (support vector machine) classifier for feature selection that retain sufficient information for classification purposes.
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-### Software / Calendar & Contacts
-
-*   [EteSync Web](https://www.etesync.com/faq/#web-client) - EteSync's official Web-based client (i.e., their Web app). ([Demo](https://client.etesync.com/), [Source Code (⭐250)](https://github.com/etesync/etesync-web)) `AGPL-3.0` `Javascript`
-
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ### Component Management
 
 *   [Bit (⭐18k)](https://github.com/teambit/bit) - Create, find and reuse components (React, Angular, Node etc.) across applications.
 
-## [5. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
+## [4. Awesome Gbdev](/content/gbdev/awesome-gbdev/README.md)
 
 ### Tools / Music drivers and trackers
 
@@ -64,26 +58,26 @@
 *   [mmlgb (⭐42)](https://github.com/SimonLarsen/mmlgb) - A MML parser and GBDK sound driver for the Nintendo Game Boy.
 *   [XPMCK (⭐27)](https://github.com/bazzinotti/XPMCK) - An MML based music compiler with support for Game Boy & Game Boy Color.
 
-## [6. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
+## [5. Awesome Saltstack](/content/hbokh/awesome-saltstack/README.md)
 
 ### Blogposts and opinions
 
 *   [Network Automation at Scale](https://mirceaulinic.net/2017-02-14-network-automation-tutorial/) - Up and running in 60 minutes.
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Miscellaneous
 
 *   [RandomKeygen](https://randomkeygen.com/) - A free mobile-friendly tool that offers a variety of randomly generated keys and passwords you can use to secure any application, service, or device.
 *   [videoinu](https://videoinu.com) — Create and edit screen recordings and other videos online.
 
-## [8. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [7. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Patterns / Unspecified License
 
 *   [Gradienta](https://gradienta.io/) - [:copyright:](https://gradienta.io/license) Multicolor CSS Gradients, JPG Downloads, 100% Free!
 
-## [9. Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/README.md)
+## [8. Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/README.md)
 
 ### Command Line Tools
 

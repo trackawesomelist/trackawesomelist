@@ -21,7 +21,7 @@
 
 ## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
-### Web Apps (open source)
+### Web Apps (open source) / Rust
 
 *   [Transitive.js (⭐684)](https://github.com/conveyal/transitive.js) - Creates a customizable web map layer of transit routes using Leaflet or D3.
 
@@ -71,7 +71,13 @@
 
 *   [Big Data Analysis with Scala and Spark (Coursera)](https://www.coursera.org/learn/big-data-analysys) - Scala oriented introductory course. Part of [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala).
 
-## [9. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [9. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+
+### Images
+
+*   [cloudex (⭐104)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
+
+## [10. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Algorithms and Data structures
 
@@ -81,7 +87,7 @@
 
 *   [aws-signer.cr (⭐13)](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
 
-## [10. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/week/README.md)
+## [11. Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/week/README.md)
 
 ### Communities / Sony
 
@@ -90,13 +96,13 @@
 *   [Open Source Photography Sub on Reddit](https://www.reddit.com/r/opensourcephotography)
 *   [Open Source Photography Group on 500px](https://500px.com/groups/open-source-photography)
 
-## [11. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
+## [12. Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/week/README.md)
 
 ### Visual Tracking / Nearest Neighbor Field Estimation
 
 *   [Modular Tracking Framework](http://webdocs.cs.ualberta.ca/\~vis/mtf/index.html)
 
-## [12. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+## [13. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
 
 ### Node.js / WebAPI
 
@@ -113,37 +119,37 @@
 *   [Everything Related to Escrow](https://www.reddit.com/r/SteamBot/comments/3udhkd/everything_related_to_escrow/)
 *   [Understanding Avatar Hash](https://www.reddit.com/r/SteamBot/comments/3cv6k7/problem_downloading_an_avatar_using/)
 
-## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [14. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Development Environment
 
 *   [CakePHP Vagrant Setup (⭐5)](https://github.com/cpierce/cakephp-vagrant-setup) - Tool for spinning up multiple CakePHP vanilla dev environments.
 
-## [14. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [15. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### E-Commerce and Payments
 
-*   [Braintree (⭐446)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
+*   [Braintree (⭐445)](https://github.com/braintree/braintree_ruby) - Braintree Ruby bindings.
 
-## [15. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
+## [16. Css Protips](/content/AllThingsSmitty/css-protips/week/README.md)
 
-### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/XKgOkR)
+### Translations / [Demo](https://codepen.io/AllThingsSmitty/pen/PwoOQGB)
 
-*   [Русский (⭐27k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
+*   [Русский (⭐29k)](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
 
-## [16. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
+## [17. Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/week/README.md)
 
 ### Modules / Stream
 
 *   [split (⭐346)](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk.
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [18. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Artificial Intelligence
 
 *   [ANNetGPGPU (⭐108)](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. \[LGPL]
-*   [Recast/Detour (⭐6.7k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
-*   [Veles (⭐908)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
+*   [Recast/Detour (⭐6.8k)](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. \[zlib]
+*   [Veles (⭐906)](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. \[Apache]
 
 ### Multimedia
 
@@ -162,21 +168,11 @@
 *   [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
 *   [Awesome C (⭐3.5k)](https://github.com/aleksandar-todorovic/awesome-c) 2
 
-## [18. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
+## [19. Awesome Neo4j](/content/neueda/awesome-neo4j/week/README.md)
 
 ### Bolt
 
 *   [neo4j-spark-connector (⭐293)](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
-
-## [19. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
-
-### Examples and funny stuff
-
-*   [ex\_chain (⭐20)](https://github.com/eljojo/ex_chain) - Simple Markov Chain that generates funny tweets, built using Elixir.
-
-### Images
-
-*   [cloudex (⭐104)](https://github.com/smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
 
 ## [20. Awesome Ciandcd](/content/cicdops/awesome-ciandcd/week/README.md)
 

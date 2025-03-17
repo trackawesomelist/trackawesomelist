@@ -32,7 +32,7 @@
 
 ### To third parties
 
-*   [dyna (⭐23)](https://github.com/Rudolph-Miller/dyna) - an AWS DynamoDB ORM. [MIT](https://opensource.org/licenses/MIT).
+*   [dyna (⭐24)](https://github.com/Rudolph-Miller/dyna) - an AWS DynamoDB ORM. [MIT](https://opensource.org/licenses/MIT).
 
 ### Objective-C
 
@@ -76,7 +76,7 @@
 
 ### HTTP
 
-*   [gun (⭐909)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
+*   [gun (⭐907)](https://github.com/ninenines/gun) - HTTP/1.1, HTTP/2 and Websocket client for Erlang/OTP.
 
 ## [7. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 

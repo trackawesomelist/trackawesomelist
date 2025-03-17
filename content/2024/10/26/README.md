@@ -24,19 +24,19 @@
 
 ### Command-line
 
-*   [vin (⭐2)](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
+*   [vin (⭐5)](https://github.com/DeoDorqnt387/vin) - A Basic Command Line Interface for V.
 
 ## [4. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Images
 
-*   [go-qrcode (⭐612)](https://github.com/yeqown/go-qrcode) - Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons.
+*   [go-qrcode (⭐625)](https://github.com/yeqown/go-qrcode) - Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons.
 
 ## [5. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ### Go
 
-*   [utils (⭐10)](https://github.com/kashifkhan0771/utils) *(label: good first issue)* <br> Common Utilities library for Go
+*   [utils (⭐13)](https://github.com/kashifkhan0771/utils) *(label: good first issue)* <br> Common Utilities library for Go
 
 ## [6. Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md)
 

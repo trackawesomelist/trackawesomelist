@@ -26,7 +26,7 @@
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐752)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐753)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
@@ -56,39 +56,35 @@
 
 *   [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
 
-## [3. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
+## [3. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
+
+### Social
+
+*   [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
+
+## [4. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/README.md)
 
 ### Aggregated Content / Icons Packages and Collections
 
 *   [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
 
-## [4. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
+## [5. Awesome Phalcon](/content/phalcon/awesome-phalcon/README.md)
 
 ### ORM
 
 *   [phalcon-boundmodels (⭐4)](https://github.com/SidRoberts/phalcon-boundmodels) - Automatically get models based on dispatcher parameters within the Phalcon framework
 
-## [5. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
+## [6. Awesome Backbone](/content/sadcitizen/awesome-backbone/README.md)
 
 ### Books
 
 *   [Mastering Backbone.js](http://www.amazon.com/dp/1783288493) by Abiee Echamea
 
-## [6. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
+## [7. Awesome Geojson](/content/tmcw/awesome-geojson/README.md)
 
 ### serialization
 
-*   [rgeo-geojson (⭐184)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
-
-## [7. Awesome Icons](/content/vkarampinis/awesome-icons/README.md)
-
-### Generic
-
-*   [Raphaël](http://icons.marekventur.com/)
-
-### Social
-
-*   [Mono Social Icons Font](http://drinchev.github.io/monosocialiconsfont/)
+*   [rgeo-geojson (⭐190)](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 
 ## [8. Awesome Jquery](/content/petk/awesome-jquery/README.md)
 

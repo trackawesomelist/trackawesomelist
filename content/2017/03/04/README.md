@@ -1,6 +1,6 @@
 # Awesome List Updates on Mar 04, 2017
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
@@ -34,7 +34,13 @@
 
 *   [router (⭐79)](https://github.com/darkleaf/router)
 
-## [5. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+## [5. Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md)
+
+### Assembly Language / Non-X86
+
+*   [The Second Book of Machine Language](http://www.atariarchives.org/2bml/)
+
+## [6. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ### JavaScript
 

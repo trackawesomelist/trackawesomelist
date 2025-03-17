@@ -46,7 +46,7 @@
 
 ### Routing / Runner
 
-*   [navaid (⭐773)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
+*   [navaid (⭐791)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
 
 ---
 

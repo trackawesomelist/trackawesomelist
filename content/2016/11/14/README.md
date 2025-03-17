@@ -45,7 +45,7 @@
 
 ### Applications
 
-*   [Rakam (⭐796)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
+*   [Rakam (⭐798)](https://github.com/rakam-io/rakam) - open-source real-time custom analytics platform powered by Postgresql, Kinesis and PrestoDB.
 
 ## [6. Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md)
 
