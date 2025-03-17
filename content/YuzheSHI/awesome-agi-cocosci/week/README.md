@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
+
+### Concepts / Human Concept Representation
+
+*   [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](https://academic.oup.com/cercor/article/33/15/9280/7190929) - ***Cerebral Cortex***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081)]. \[[Preprints](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf)]. Shape processing, whether by seeing or touching, is pivotal to object recognition and manipulation. Although the low-level signals are initially processed by different modality-specific neural circuits, multimodal responses to object shapes have been reported along both ventral and dorsal visual pathways. To understand this transitional process, the authors conducted visual and haptic shape perception fMRI experiments to test basic shape features (i.e. curvature and rectilinear) across the visual pathways. Using a combination of region-of-interest-based support vector machine decoding analysis and voxel selection method, the authors found that the top visual-discriminative voxels in the left occipital cortex (OC) could also classify haptic shape features, and the top haptic-discriminative voxels in the left posterior parietal cortex (PPC) could also classify visual shape features. Furthermore, these voxels could decode shape features in a cross-modal manner, suggesting shared neural computation across visual and haptic modalities. In the univariate analysis, the top haptic-discriminative voxels in the left PPC showed haptic rectilinear feature preference, whereas the top visual-discriminative voxels in the left OC showed no significant shape feature preference in either of the two modalities. Together, these results suggest that mid-level shape features are represented in a modality-independent manner in both the ventral and dorsal streams.
+
 ## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
 
 ### Concepts / Human Concept Representation
@@ -792,10 +798,6 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Text Visualization Browser](https://textvis.lnu.se/) - ***ISOVIS group***, 2015. \[[Paper](https://cs.lnu.se/isovis/pubs/docs/kucher-pacificvis15-postprint.pdf)]. \[[All Versions](https://scholar.google.com/scholar?cluster=7000995325728444282\&hl=en\&as_sdt=0,5)]. A Hub of Text Visualization Techniques.
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
-
-### Concepts / Human Concept Representation
-
-*   [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf) - ***Cerebral Cortex***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081\&hl=en\&as_sdt=0,5)]. Visual and haptic shape perception fMRI experiments suggesting that mid-level shape features are represented in a modality-independent manner in both the ventral and dorsal streams.
 
 ### Courses / Commonsense Knowledgebase
 
