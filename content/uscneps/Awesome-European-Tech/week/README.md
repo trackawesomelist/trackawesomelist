@@ -6,6 +6,24 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 
 [ [Daily](/content/uscneps/Awesome-European-Tech/README.md) / Weekly / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
+
+### Index / VPS
+
+*   [Albahost](https://www.albahost.net/category/virtual-servers-vds-vps) 🇦🇱
+*   [Alwyzon](https://www.alwyzon.com/en/virtual-servers) 🇦🇹
+*   [Avoro](https://avoro.eu/en/vps) 🇩🇪
+*   [Gigas](https://gigas.com/cloud-vps) 🇪🇸
+*   [Ginernet](https://ginernet.com) 🇪🇸
+*   [Ikoula](https://www.ikoula.com/en/vps/linux) 🇫🇷
+*   [Melbicom](https://www.melbicom.net/virtualserver/) 🇱🇹
+*   [Mivocloud](https://mivocloud.com/ssd-kvm-vps) 🇲🇩
+*   [Phpfriends](https://php-friends.de/vserver-ssd) 🇩🇪
+*   [Pulseberg](https://pulseheberg.com/cloud/vps-linux) 🇫🇷
+*   [Trabia](https://www.trabia.com/virtual-server.84-0.html) 🇲🇩
+*   [vpsag](https://vpsag.com) 🇧🇬
+*   [Yourserver.se](https://yourserver.se/linux) 🇱🇻
+
 ## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
 
 ### Index / Customer Relationship Management (CRM)

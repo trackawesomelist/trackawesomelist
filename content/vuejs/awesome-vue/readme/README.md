@@ -1244,6 +1244,7 @@ Tooltips / popovers
 
 *   [vue-lumino (⭐85)](https://github.com/tupilabs/vue-lumino) - A component to use Vue.js with Jupyter Lumino (PhosphorJS), integrating DOM & VDOM through event listeners and Vue reactivity system.
 *   [vue3-tabs-chrome (⭐106)](https://github.com/viewweiwu/vue3-tabs-chrome) - A Vue3 component for Chrome-like tabs.
+*   [vue3-tabor (⭐2)](https://github.com/daylenjeez/vue3-tabor) - A versatile Vue 3 tabs component with rich API, supporting keep-alive and iframe integration.
 
 #### Form
 
@@ -1569,7 +1570,7 @@ Tooltips / popovers
 *   [pinia-xstate (⭐62)](https://github.com/wobsoriano/pinia-xstate) - Put your xstate state machines into a global pinia store.
 *   [pinia-orm (⭐480)](https://github.com/CodeDredd/pinia-orm) - The Pinia plugin to enable Object-Relational Mapping access to the Pinia Store. 🍍
 *   [pinia-persistedstate-2 (⭐103)](https://github.com/iendeavor/pinia-plugin-persistedstate-2) - Persist and rehydrate your Pinia state between page reloads.
-*   [tauri-plugin-pinia (⭐36)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri.
+*   [@tauri-store/pinia (⭐36)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Tauri.
 *   [pinia-plugin-unstorage (⭐1)](https://github.com/litingyes/pinia-plugin-unstorage) - The best persistence plugin with unjs/unstorage for pinia.
 
 ##### Authentication/Authorization

@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Mar 18, 2025](/content/2025/03/18/README.md)
+
+### Components & Libraries / UI Components
+
+*   [vue3-tabor (⭐2)](https://github.com/daylenjeez/vue3-tabor) - A versatile Vue 3 tabs component with rich API, supporting keep-alive and iframe integration.
+
+### Components & Libraries / Utilities
+
+*   [@tauri-store/pinia (⭐36)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Tauri.
+
 ## [Mar 11, 2025](/content/2025/03/11/README.md)
 
 ### Components & Libraries / Utilities
@@ -37,10 +47,6 @@
 ### Components & Libraries / UI Utilities
 
 *   [vue-to-counter (⭐1)](https://github.com/siaikin/vue-to-counter) Scroll strings, numbers, dates like a slot machine.
-
-### Components & Libraries / Utilities
-
-*   [tauri-plugin-pinia (⭐36)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/tauri-plugin-pinia) - Persistent Pinia stores for Tauri.
 
 ## [Jan 09, 2025](/content/2025/01/09/README.md)
 
