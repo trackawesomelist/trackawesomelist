@@ -1,12 +1,54 @@
 # Awesome List Updates on Mar 18, 2025
 
-5 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### PDF
+
+*   [QPDF (⭐3.8k)](https://github.com/qpdf/qpdf) - A tool and C++ library for content-preserving transformations of PDF files. \[Apache-2.0] [website](https://qpdf.sourceforge.io/)
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Design and UI
+
+*   [Excalidraw](https://excalidraw.com/) -- A free online drawing document web page with free save to local and export support.
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Programming Languages Support / Diagnostics
+
+*   [kiyoon/haskell-scope-highlighting.nvim (⭐23)](https://github.com/kiyoon/haskell-scope-highlighting.nvim) - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
+
+### Language / Diagnostics
+
+*   [kiyoon/Korean-IME.nvim (⭐16)](https://github.com/kiyoon/Korean-IME.nvim) - OS-independent Korean input method that converts English inputs to Korean in-place.
+
+### Bars and Lines / Diagnostics
+
+*   [OXY2DEV/bars.nvim (⭐69)](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
+
+### Utility / Diagnostics
+
+*   [kiyoon/jupynium.nvim (⭐582)](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
+
+### Tree-sitter Based / Diagnostics
+
+*   [kiyoon/treesitter-indent-object.nvim (⭐55)](https://github.com/kiyoon/treesitter-indent-object.nvim) - Context-aware indent textobject powered by Tree-sitter.
+
+### Editing Support / Diagnostics
+
+*   [kiyoon/telescope-insert-path.nvim (⭐36)](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path in the current buffer using Telescope.
+
+### Tmux / Diagnostics
+
+*   [kiyoon/tmux-send.nvim (⭐3)](https://github.com/kiyoon/tmux-send.nvim) - Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
+
+## [4. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
 
 ### Index / VPS
 
@@ -24,13 +66,13 @@
 *   [vpsag](https://vpsag.com) 🇧🇬
 *   [Yourserver.se](https://yourserver.se/linux) 🇱🇻
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Date and Time
 
 *   [carbon (⭐5k)](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly time package for golang.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Terminal Apps / Databases
 
@@ -40,7 +82,7 @@
 
 *   [iCopy](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12) - Clipboard management, quick reply, efficiency multiplier artifact ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12)
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -50,7 +92,7 @@
 
 *   [@tauri-store/pinia (⭐36)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Tauri.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

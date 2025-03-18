@@ -1,12 +1,54 @@
 # Awesome List Updates on Mar 24 - Mar 30, 2025
 
-9 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+
+### PDF
+
+*   [QPDF (⭐3.8k)](https://github.com/qpdf/qpdf) - A tool and C++ library for content-preserving transformations of PDF files. \[Apache-2.0] [website](https://qpdf.sourceforge.io/)
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Design and UI
+
+*   [Excalidraw](https://excalidraw.com/) -- A free online drawing document web page with free save to local and export support.
+
+## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Programming Languages Support / Diagnostics
+
+*   [kiyoon/haskell-scope-highlighting.nvim (⭐23)](https://github.com/kiyoon/haskell-scope-highlighting.nvim) - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
+
+### Language / Diagnostics
+
+*   [kiyoon/Korean-IME.nvim (⭐16)](https://github.com/kiyoon/Korean-IME.nvim) - OS-independent Korean input method that converts English inputs to Korean in-place.
+
+### Bars and Lines / Diagnostics
+
+*   [OXY2DEV/bars.nvim (⭐69)](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
+
+### Utility / Diagnostics
+
+*   [kiyoon/jupynium.nvim (⭐582)](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
+
+### Tree-sitter Based / Diagnostics
+
+*   [kiyoon/treesitter-indent-object.nvim (⭐55)](https://github.com/kiyoon/treesitter-indent-object.nvim) - Context-aware indent textobject powered by Tree-sitter.
+
+### Editing Support / Diagnostics
+
+*   [kiyoon/telescope-insert-path.nvim (⭐36)](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path in the current buffer using Telescope.
+
+### Tmux / Diagnostics
+
+*   [kiyoon/tmux-send.nvim (⭐3)](https://github.com/kiyoon/tmux-send.nvim) - Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
+
+## [4. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
 
 ### Index / VPS
 
@@ -24,13 +66,13 @@
 *   [vpsag](https://vpsag.com) 🇧🇬
 *   [Yourserver.se](https://yourserver.se/linux) 🇱🇻
 
-## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [5. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Date and Time
 
 *   [carbon (⭐5k)](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly time package for golang.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Terminal Apps / Databases
 
@@ -40,7 +82,7 @@
 
 *   [iCopy](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12) - Clipboard management, quick reply, efficiency multiplier artifact ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12)
 
-## [4. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [7. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Components
 
@@ -50,31 +92,31 @@
 
 *   [@tauri-store/pinia (⭐36)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Tauri.
 
-## [5. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [8. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars\_list\_utils (⭐4)](https://github.com/dashdeckers/polars_list_utils) - Polars extension that provides a set of utilities for working with List-type columns in Polars DataFrames by [@dashdeckers](https://github.com/dashdeckers).
 
-## [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
 *   [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](https://academic.oup.com/cercor/article/33/15/9280/7190929) - ***Cerebral Cortex***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081)]. \[[Preprints](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf)]. Shape processing, whether by seeing or touching, is pivotal to object recognition and manipulation. Although the low-level signals are initially processed by different modality-specific neural circuits, multimodal responses to object shapes have been reported along both ventral and dorsal visual pathways. To understand this transitional process, the authors conducted visual and haptic shape perception fMRI experiments to test basic shape features (i.e. curvature and rectilinear) across the visual pathways. Using a combination of region-of-interest-based support vector machine decoding analysis and voxel selection method, the authors found that the top visual-discriminative voxels in the left occipital cortex (OC) could also classify haptic shape features, and the top haptic-discriminative voxels in the left posterior parietal cortex (PPC) could also classify visual shape features. Furthermore, these voxels could decode shape features in a cross-modal manner, suggesting shared neural computation across visual and haptic modalities. In the univariate analysis, the top haptic-discriminative voxels in the left PPC showed haptic rectilinear feature preference, whereas the top visual-discriminative voxels in the left OC showed no significant shape feature preference in either of the two modalities. Together, these results suggest that mid-level shape features are represented in a modality-independent manner in both the ventral and dorsal streams.
 
-## [7. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [10. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
 *   [Madmin (⭐634)](https://github.com/excid3/madmin) - A robust Admin Interface for Ruby on Rails apps
 
-## [8. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [11. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Open Source Projects / Wealth
 
 *   [HumanProgrammingInterface (⭐1.5k)](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
 
-## [9. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [12. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

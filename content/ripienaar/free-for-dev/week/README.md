@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
+
+### Design and UI
+
+*   [Excalidraw](https://excalidraw.com/) -- A free online drawing document web page with free save to local and export support.
+
 ## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
 
 ### APIs, Data, and ML
