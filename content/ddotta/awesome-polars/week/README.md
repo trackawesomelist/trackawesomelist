@@ -12,6 +12,10 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *   [polars\_list\_utils (⭐4)](https://github.com/dashdeckers/polars_list_utils) - Polars extension that provides a set of utilities for working with List-type columns in Polars DataFrames by [@dashdeckers](https://github.com/dashdeckers).
 
+### Resources / Blog posts
+
+*   [The Complete Guide to Polars for Data Science](https://noroinsight.com/polars-for-data-science-complete-guide/) - A hands-on tutorial that teaches how to load, manipulate, transform and optimize data sets with Polars in Python by [@norochalise](https://github.com/norochalise). Code used is available on Github [here (⭐1)](https://github.com/norochalise/noroinsight-polars-tutorial).
+
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
 
 ### Resources / Tutorials & workshops

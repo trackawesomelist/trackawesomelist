@@ -6,6 +6,12 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [Mar 19, 2025](/content/2025/03/19/README.md)
+
+### Index / Productivity Tools
+
+*   [Docs](https://docs.numerique.gouv.fr/) 🇫🇷🇩🇪 - Open-source collaborative note taking, wiki and documentation platform.
+
 ## [Mar 18, 2025](/content/2025/03/18/README.md)
 
 ### Index / VPS
@@ -131,7 +137,7 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 
 ### Index / Productivity Tools
 
-*   [ReadWorks](https://www.readworks.app) 🇩🇪 - Free and open-source eDiscovery solution
+*   [ReadWorks](https://www.readworks.app) 🇩🇪 - Free and open-source eDiscovery solution.
 
 ### Index / Sustainability and Recycling
 

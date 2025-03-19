@@ -106,7 +106,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-import-export (⭐3.1k)](https://github.com/django-import-export/django-import-export) - Django application and library for importing and exporting data with admin integration.
 *   [django-admin-inline-paginator-plus (⭐24)](https://github.com/DmytroLitvinov/django-admin-inline-paginator-plus) - A simple way to paginate your inline in Django admin
 *   [django-loginas (⭐367)](https://github.com/skorokithakis/django-loginas) - "Log in as user" for the Django admin.
-*   [impostor (⭐159)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
+*   [impostor (⭐159)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to log in as a different user by using their own username and password.
 *   [django-impersonate](https://pypi.org/project/django-impersonate/) - Allow superusers to “impersonate” other non-superuser accounts.
 *   [django-admin-env-notice (⭐325)](https://github.com/dizballanze/django-admin-env-notice) - Visually distinguish environments in Django Admin, for example: `development`, `staging`, `production`.
 *   [django-related-admin (⭐71)](https://github.com/PetrDlouhy/django-related-admin) - A helper library that allows you to write list\_displays across foreign key relationships.
@@ -177,11 +177,12 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-configurations (⭐1.1k)](https://github.com/jazzband/django-configurations) - eases Django project configuration by relying on the composability of Python classes and following principles of [the twelve-factor app](https://12factor.net/config).
 *   [dynaconf](https://www.dynaconf.com/django/) - Dynaconf loads django settings from multiple sources (multiple file formats, env vars, redis, vault, etcd), manages secrets, and allows for different merging strategies all following [the twelve-factor app](https://12factor.net/config).
 *   [django-extra-settings (⭐572)](https://github.com/fabiocaccamo/django-extra-settings) - Config and manage typed extra settings using just the django admin.
+*   [django-removals (⭐49)](https://github.com/ambient-innovation/django-removals/) - Detect deprecated settings variables via convenient system checks
 *   [environs (⭐1.3k)](https://github.com/sloria/environs) - Simplified environment variable parsing that comes with a [Django helper (⭐1.3k)](https://github.com/sloria/environs#usage-with-django) that installs additional packages.
 
 <!--lint enable double-link-->
 
-*   [django-classy-settings (⭐37)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
+*   [django-classy-settings (⭐37)](https://github.com/funkybob/django-classy-settings) - Class-based settings to keep your environments in order, with easy access to typed environment variables.
 *   [django-content-settings](https://django-content-settings.readthedocs.io/en/latest/) - Easily create and manage editable typed variables directly from the Django admin panel.
 
 ### Content Management Systems
@@ -216,7 +217,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-business-logic (⭐228)](https://github.com/dgk/django-business-logic) - Visual DSL framework for Django.
 *   [django-summernote (⭐1.1k)](https://github.com/lqez/django-summernote) - Summernote is a simple WYSIWYG editor.
 *   [django-tinymce (⭐1.3k)](https://github.com/jazzband/django-tinymce) - TinyMCE integration for Django.
-*   [django-prose (⭐208)](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
+*   [django-prose (⭐208)](https://github.com/withlogicco/django-prose) - A lightweight editor for content creation.
 *   [django-ace (⭐136)](https://github.com/django-ace/django-ace) - ACE integration for Django.
 
 ### Files/Images
@@ -230,7 +231,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 *   [django-crispy-forms (⭐5.1k)](https://github.com/django-crispy-forms/django-crispy-forms/) - DRY Django forms.
 *   [django-floppyforms (⭐839)](https://github.com/jazzband/django-floppyforms) - Full control of form rendering.
-*   [django-formtools (⭐833)](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
+*   [django-formtools (⭐833)](https://github.com/jazzband/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
 *   [django-widget-tweaks (⭐2.1k)](https://github.com/jazzband/django-widget-tweaks) - Tweak form field rendering in templates.
 *   [django-autocomplete-light (⭐1.8k)](https://github.com/yourlabs/django-autocomplete-light) - Add autocompletion to forms.
 *   [django-shapeshifter (⭐175)](https://github.com/kennethlove/django-shapeshifter) - A class-based view to handle multiple forms in one view.
@@ -296,7 +297,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-simple-history (⭐2.3k)](https://github.com/jazzband/django-simple-history) - Store model history and view/revert changes from the admin.
 *   [django-polymorphic (⭐1.7k)](https://github.com/jazzband/django-polymorphic) - Django-polymorphic simplifies using inherited models in Django projects.
 *   [django-recurrence (⭐506)](https://github.com/jazzband/django-recurrence) - Utility for working with recurring dates in Django.
-*   [django-treenode (⭐717)](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
+*   [django-treenode (⭐717)](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree-based stuff.
 *   [django-auto-prefetch (⭐368)](https://github.com/tolomea/django-auto-prefetch) - Automatically prefetch foreign key values as needed.
 
 ### Performance
@@ -352,8 +353,8 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 *   [django-celery-beat (⭐1.8k)](https://github.com/celery/django-celery-beat) - A periodic task scheduler with database configured by Django's Admin Panel.
 *   [celery-exporter (⭐458)](https://github.com/danihodovic/celery-exporter) - Prometheus & Grafana monitoring of Celery tasks.
 *   [django-dramatiq (⭐358)](https://github.com/Bogdanp/django_dramatiq) - Task processing library with a focus on simplicity, reliability, and performance.
-*   [django-celery-results (⭐711)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
-*   [django-tasks (⭐514)](https://github.com/realOrangeOne/django-tasks) -  A reference implementation and backport of background workers and tasks in Django, based on [DEP 14](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/).
+*   [django-celery-results (⭐711)](https://github.com/celery/django-celery-results) - Celery result backend with Django.
+*   [django-tasks (⭐514)](https://github.com/realOrangeOne/django-tasks) - A reference implementation and backport of background workers and tasks in Django, based on [DEP 14](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/).
 
 ### Templates
 
@@ -392,7 +393,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 ### Users
 
 *   [django-allauth (⭐9.8k)](https://github.com/pennersr/django-allauth/) - Improved user registration including social auth.
-*   [django-allauth-ui (⭐321)](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
+*   [django-allauth-ui (⭐321)](https://github.com/danihodovic/django-allauth-ui/) - Better-looking templates for django-allauth.
 *   [django-improved-user (⭐150)](https://github.com/jambonrose/django-improved-user) - A custom Django user that authenticates via email. Follows identity and authentication best practices.
 *   [django-organizations (⭐1.3k)](https://github.com/bennylope/django-organizations/) - Multi-user accounts for Django projects.
 *   [django-cas-ng (⭐382)](https://github.com/django-cas-ng/django-cas-ng) - Django-cas-ng is Django CAS (Central Authentication Service) 1.0/2.0/3.0 client library to support SSO (Single Sign On) and Single Logout (SLO).
@@ -514,7 +515,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### Books
 
-For a complete listing of in-print books check out [DjangoBook.com](https://djangobook.com/).
+For a complete listing of in-print books, check out [DjangoBook.com](https://djangobook.com/).
 
 *Django 5*
 
@@ -558,9 +559,9 @@ For a complete listing of in-print books check out [DjangoBook.com](https://djan
 *   [djangox (⭐2.3k)](https://github.com/wsvincent/lithium/) - Batteries included starter project for Pip, Pipenv, or Docker.
 *   [DRFx (⭐492)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
 *   [django-project-template (⭐720)](https://github.com/jpadilla/django-project-template) - A deliberately basic project that has multiple staging environments and Heroku deployment config.
-*   [django-docker-template (⭐202)](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt).
+*   [django-docker-template (⭐202)](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto-renew Let's Encrypt).
 *   [django-startproject (⭐239)](https://github.com/jefftriplett/django-startproject) - Django start project template with batteries.
-*   [wemake-django-template (⭐2.1k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
+*   [wemake-django-template (⭐2.1k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding-edge Django template focused on code quality and security.
 *   [django-webpack-starter (⭐59)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 *   [sos-django-template (⭐24)](https://github.com/erayerdin/sos-django-template) - Django starter template with separate dev and production settings.
 *   [django-docker-heroku-template (⭐36)](https://github.com/bfirsh/django-docker-heroku-template) - A template with Docker, GitHub Actions, and Heroku set up for dev/test/prod, plus various other best practices.
@@ -589,7 +590,7 @@ For a complete listing of in-print books check out [DjangoBook.com](https://djan
 *   [OpenContracts (⭐801)](https://github.com/JSv4/OpenContracts) - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
 *   [Baserow](https://gitlab.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
 *   [Django CRM Admin (⭐187)](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
-*   [linkding (⭐7.7k)](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+*   [linkding (⭐7.7k)](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
 
 ## Django REST Framework
 

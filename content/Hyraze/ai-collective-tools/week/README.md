@@ -6,6 +6,12 @@ Explore a curated selection of AI tools and resources
 
 [ [Daily](/content/Hyraze/ai-collective-tools/README.md) / Weekly / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
 
+## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
+
+### Fun Tools
+
+*   [Dream Interpretation](https://dreaminterpretation.online/) - Get Professional Dream Interpretation `#free`
+
 ## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
 
 ### 3D

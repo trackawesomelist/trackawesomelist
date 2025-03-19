@@ -6,6 +6,12 @@ A curated list of awesome things related to Django
 
 [ Daily / [Weekly](/content/wsvincent/awesome-django/week/README.md) / [Overview](/content/wsvincent/awesome-django/readme/README.md) ]
 
+## [Mar 19, 2025](/content/2025/03/19/README.md)
+
+### Third-Party Packages / Configuration
+
+*   [django-removals (⭐49)](https://github.com/ambient-innovation/django-removals/) - Detect deprecated settings variables via convenient system checks
+
 ## [Mar 16, 2025](/content/2025/03/16/README.md)
 
 ### Third-Party Packages / Admin
@@ -121,7 +127,7 @@ A curated list of awesome things related to Django
 
 ### Projects / Open Source Projects
 
-*   [linkding (⭐7.7k)](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+*   [linkding (⭐7.7k)](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
 
 ## [Jan 31, 2025](/content/2025/01/31/README.md)
 
@@ -159,7 +165,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Task Queues
 
-*   [django-tasks (⭐514)](https://github.com/realOrangeOne/django-tasks) -  A reference implementation and backport of background workers and tasks in Django, based on [DEP 14](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/).
+*   [django-tasks (⭐514)](https://github.com/realOrangeOne/django-tasks) - A reference implementation and backport of background workers and tasks in Django, based on [DEP 14](https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/).
 
 ## [Oct 25, 2024](/content/2024/10/25/README.md)
 
@@ -300,7 +306,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Task Queues
 
-*   [django-celery-results (⭐711)](https://github.com/celery/django-celery-results) -  Celery result backend with Django.
+*   [django-celery-results (⭐711)](https://github.com/celery/django-celery-results) - Celery result backend with Django.
 
 ## [Jan 23, 2024](/content/2024/01/23/README.md)
 
@@ -322,7 +328,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Configuration
 
-*   [django-classy-settings (⭐37)](https://github.com/funkybob/django-classy-settings) - Class based settings to keep your environments in order, with easy access to typed environment variables.
+*   [django-classy-settings (⭐37)](https://github.com/funkybob/django-classy-settings) - Class-based settings to keep your environments in order, with easy access to typed environment variables.
 
 ## [Dec 27, 2023](/content/2023/12/27/README.md)
 
@@ -373,7 +379,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Users
 
-*   [django-allauth-ui (⭐321)](https://github.com/danihodovic/django-allauth-ui/) - Better looking templates for django-allauth.
+*   [django-allauth-ui (⭐321)](https://github.com/danihodovic/django-allauth-ui/) - Better-looking templates for django-allauth.
 
 ### Python Packages / Views
 
@@ -425,7 +431,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Editors
 
-*   [django-prose (⭐208)](https://github.com/withlogicco/django-prose) - A light weight editor to content creation.
+*   [django-prose (⭐208)](https://github.com/withlogicco/django-prose) - A lightweight editor for content creation.
 
 ## [May 27, 2023](/content/2023/05/27/README.md)
 
@@ -446,7 +452,7 @@ A curated list of awesome things related to Django
 
 ### Projects / Boilerplate
 
-*   [django-docker-template (⭐202)](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto renew Let's Encrypt).
+*   [django-docker-template (⭐202)](https://github.com/amerkurev/django-docker-template) - Dockerized Django with Postgres, Gunicorn, and Traefik (with auto-renew Let's Encrypt).
 
 ## [Apr 06, 2023](/content/2023/04/06/README.md)
 
@@ -522,7 +528,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Models
 
-*   [django-treenode (⭐717)](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree based stuff.
+*   [django-treenode (⭐717)](https://github.com/fabiocaccamo/django-treenode) - Abstract model/admin for tree-based stuff.
 
 ### Third-Party Packages / URLs
 
@@ -715,7 +721,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Forms
 
-*   [django-formtools (⭐833)](https://github.com/jazzband/django-formtools) - For form previous and multi-step forms, previously part of Django until 1.8.
+*   [django-formtools (⭐833)](https://github.com/jazzband/django-formtools) - For form previous and multistep forms, previously part of Django until 1.8.
 
 ## [Oct 23, 2020](/content/2020/10/23/README.md)
 
@@ -1021,7 +1027,7 @@ A curated list of awesome things related to Django
 
 ### Third-Party Packages / Admin
 
-*   [impostor (⭐159)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to login as a different user by using their own username and password.
+*   [impostor (⭐159)](https://github.com/avallbona/Impostor) - Impostor is a Django application which allows staff members to log in as a different user by using their own username and password.
 
 ## [Jun 11, 2020](/content/2020/06/11/README.md)
 
@@ -1098,7 +1104,7 @@ A curated list of awesome things related to Django
 ### Projects / Boilerplate
 
 *   [DRFx (⭐492)](https://github.com/wsvincent/drfx/) - A DRF starter with user auth, Pipenv, and other goodies.
-*   [wemake-django-template (⭐2.1k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding edge Django template focused on code quality and security.
+*   [wemake-django-template (⭐2.1k)](https://github.com/wemake-services/wemake-django-template/) - Bleeding-edge Django template focused on code quality and security.
 *   [django-webpack-starter (⭐59)](https://github.com/khadegd/django-webpack-starter) - Django Webpack starter template for using Webpack 4.
 
 ### Projects / Open Source Projects

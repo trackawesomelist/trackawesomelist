@@ -6,6 +6,33 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
+
+### Software / Maps and Global Positioning System (GPS)
+
+*   [wanderer (⭐1.8k)](https://github.com/Flomp/wanderer) - Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue. ([Demo](https://demo.wanderer.to)) `AGPL-3.0` `Docker/Go/Nodejs`
+
+### Software / Miscellaneous
+
+*   [ConvertX (⭐1.1k)](https://github.com/C4illin/ConvertX) - Online file converter which supports over a thousand different formats. `AGPL-3.0` `Docker`
+*   [Endurain](https://docs.endurain.com/) - Fitness tracking service designed to give users full control over their data and hosting environment. ([Source Code (⭐827)](https://github.com/joaovitoriasilva/endurain)) `AGPL-3.0` `Docker`
+
+### Software / Money, Budgeting & Management
+
+*   [WYGIWYH (⭐345)](https://github.com/eitchtee/WYGIWYH) - Simple and powerful finance tracker. `AGPL-3.0` `Docker/Django`
+
+### Software / Password Managers
+
+*   [AliasVault](https://www.aliasvault.net) - End-to-end encrypted password manager with a built-in email alias generator and server. ([Source Code (⭐463)](https://github.com/lanedirt/AliasVault)) `MIT` `Docker`
+
+### Software / Software Development - Low Code
+
+*   [TrailBase](https://trailbase.io/) - Open, sub-millisecond, single-executable FireBase alternative with type-safe REST & realtime APIs, built-in JS/TS runtime, auth & admin UI. ([Demo](https://demo.trailbase.io), [Source Code (⭐1.6k)](https://github.com/trailbaseio/trailbase)) `OSL-3.0` `Rust/Docker`
+
+### Software / URL Shorteners
+
+*   [clink](https://git.swurl.xyz/swirl/clink.git/about/) - A super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration. ([Demo](https://short.swurl.xyz), [Source Code](https://git.swurl.xyz/swirl/clink.git)) `AGPL-3.0` `C`
+
 ## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
 
 ### Software / Communication - SIP
@@ -89,7 +116,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Human Resources Management (HRM)
 
 *   [Frappe HR](https://frappe.io/hr) - Complete HRMS solution with over 13 different modules right from employee management, onboarding, leaves, to payroll, taxation, and more. ([Source Code (⭐1.9k)](https://github.com/frappe/hrms)) `GPL-3.0` `Docker/Python/Nodejs`
-*   [MintHCM](https://minthcm.org/) - Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM. ([Source Code (⭐160)](https://github.com/minthcm/minthcm)) `AGPL-3.0` `PHP`
+*   [MintHCM](https://minthcm.org/) - Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM. ([Source Code (⭐162)](https://github.com/minthcm/minthcm)) `AGPL-3.0` `PHP`
 
 ### Software / Self-hosting Solutions
 
@@ -169,7 +196,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Content Management Systems (CMS)
 
-*   [Localess](https://localess.org/home) `⚠` - Powerful translation management and content management system. Manage and translate your website or app content into multiple languages, using AI to translate faster. ([Source Code (⭐52)](https://github.com/Lessify/localess)) `MIT` `Docker`
+*   [Localess](https://localess.org/home) `⚠` - Powerful translation management and content management system. Manage and translate your website or app content into multiple languages, using AI to translate faster. ([Source Code (⭐53)](https://github.com/Lessify/localess)) `MIT` `Docker`
 
 ### Software / Document Management
 
@@ -1416,7 +1443,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Personal Dashboards
 
-*   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐301)](https://github.com/homarr-labs/homarr)) `MIT` `Docker/Nodejs`
+*   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐405)](https://github.com/homarr-labs/homarr)) `MIT` `Docker/Nodejs`
 *   [Starbase 80 (⭐365)](https://github.com/notclickable-jordan/starbase-80) - A simple homepage with an iPad-style application grid, for mobile and desktop. One JSON configuration file. `MIT` `Docker`
 
 ### Software / Task Management & To-do Lists
@@ -2099,7 +2126,6 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Bookmarks and Link Sharing
 
 *   [Buku (⭐6.6k)](https://github.com/jarun/Buku) - A powerful bookmark manager and a personal textual mini-web. `GPL-3.0` `Python/deb`
-*   [Hackershare (⭐615)](https://github.com/hackershare/hackershare) - Social bookmarks website for hackers. `MIT` `Ruby`
 *   [LinkAce](https://www.linkace.org/) - A bookmark archive with automatic backups to the Internet Archive, link monitoring, and a full REST API. Installation is done via Docker, or as a simple PHP application. ([Demo](https://demo.linkace.org/guest/links), [Source Code (⭐2.8k)](https://github.com/Kovah/LinkAce/)) `GPL-3.0` `Docker/PHP`
 *   [linkding (⭐7.7k)](https://github.com/sissbruecker/linkding) - Minimal bookmark management with a fast and clean UI. Simple installation through Docker and can run on your Raspberry Pi. `MIT` `Docker/Python/Nodejs`
 
@@ -2883,7 +2909,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Low Code
 
-*   [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code (⭐47k)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
+*   [Appwrite](https://appwrite.io) - End to end backend server for web, native, and mobile developers 🚀. ([Source Code (⭐48k)](https://github.com/appwrite/appwrite)) `BSD-3-Clause` `Docker`
 
 ## [Aug 30 - Sep 05, 2021](/content/2021/35/README.md)
 
