@@ -159,6 +159,10 @@
 
 ## [10. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
 
+### Index / Human Resources
+
+*   [TalentoHQ](https://talentohq.com/) 🇪🇸 - Talent management and human resources solution.
+
 ### Index / Productivity Tools
 
 *   [Docs](https://docs.numerique.gouv.fr/) 🇫🇷🇩🇪 - Open-source collaborative note taking, wiki and documentation platform.
@@ -197,6 +201,10 @@
 
 ## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
+### Components & Libraries / Frameworks
+
+*   [AirPower4T (⭐275)](https://github.com/HammCn/AirPower4T) - A development library based on Vue3, TypeScript, Element Plus, Vite which provides lots of Backend-Platform features such as `OOP` `Decoration` to make your development more efficient.
+
 ### Components & Libraries / UI Components
 
 *   [vue3-tabor (⭐2)](https://github.com/daylenjeez/vue3-tabor) - A versatile Vue 3 tabs component with rich API, supporting keep-alive and iframe integration.
@@ -209,6 +217,7 @@
 
 ### Libraries/Packages/Scripts / Polars plugins
 
+*   [polars-ds) (⭐459)](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq).
 *   [polars\_list\_utils (⭐4)](https://github.com/dashdeckers/polars_list_utils) - Polars extension that provides a set of utilities for working with List-type columns in Polars DataFrames by [@dashdeckers](https://github.com/dashdeckers).
 
 ### Resources / Blog posts

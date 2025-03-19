@@ -8,6 +8,10 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 
 ## [Mar 19, 2025](/content/2025/03/19/README.md)
 
+### Index / Human Resources
+
+*   [TalentoHQ](https://talentohq.com/) 🇪🇸 - Talent management and human resources solution.
+
 ### Index / Productivity Tools
 
 *   [Docs](https://docs.numerique.gouv.fr/) 🇫🇷🇩🇪 - Open-source collaborative note taking, wiki and documentation platform.

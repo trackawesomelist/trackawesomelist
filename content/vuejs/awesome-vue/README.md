@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Mar 19, 2025](/content/2025/03/19/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [AirPower4T (⭐275)](https://github.com/HammCn/AirPower4T) - A development library based on Vue3, TypeScript, Element Plus, Vite which provides lots of Backend-Platform features such as `OOP` `Decoration` to make your development more efficient.
+
 ## [Mar 18, 2025](/content/2025/03/18/README.md)
 
 ### Components & Libraries / UI Components
@@ -393,7 +399,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [exome (⭐266)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐269)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ## [Oct 14, 2023](/content/2023/10/14/README.md)
 
@@ -880,7 +886,7 @@
 ### Components & Libraries / Frameworks
 
 *   [AgnosticUI](https://www.agnosticui.com/) - Accessible Vue 3 Component Primitives that also work with React, Svelte, and Angular!
-*   [Ionic (⭐51k)](https://github.com/ionic-team/ionic-framework) - Mobile app development framework
+*   [Ionic (⭐52k)](https://github.com/ionic-team/ionic-framework) - Mobile app development framework
 
 ### Components & Libraries / UI Components
 
@@ -951,7 +957,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [tolgee/vue (⭐239)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐240)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 
 ## [Feb 27, 2022](/content/2022/02/27/README.md)
 

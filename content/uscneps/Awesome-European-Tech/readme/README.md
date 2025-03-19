@@ -84,6 +84,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [FinTech](#fintech)
 *   [Gaming Projects](#gaming-projects)
 *   [Hardware](#hardware)
+*   [Human Resources](#human-resources)
 *   [IDEs](#ides)
 *   [Mail Providers](#mail-providers)
 *   [Marketing Tools](#marketing-tools)
@@ -301,6 +302,10 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Raspberry Pi](https://www.raspberrypi.com/) 🇬🇧 - Affordable single-board computers for DIY projects.
 *   [Recogni](https://www.recogni.com/) 🇩🇪 - Company focusing on AI-powered vision processing for autonomous systems.
 *   [Sipearl](https://www.sipearl.com/) 🇫🇷 - Company developing microprocessors for high-performance computing (HPC), particularly for the European Processor Initiative (EPI).
+
+### Human Resources
+
+*   [TalentoHQ](https://talentohq.com/) 🇪🇸 - Talent management and human resources solution.
 
 ### IDEs
 
