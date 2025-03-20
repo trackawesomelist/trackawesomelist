@@ -2,9 +2,64 @@
 
 Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 434 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 495 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/j0hnm4r5/awesome-creative-technology/week/README.md) / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
+
+## [Mar 20, 2025](/content/2025/03/20/README.md)
+
+### Creative Technology
+
+- Name: [**Hirsch & Mann**](https://www.hirschandmann.com/)
+
+  Locations: \[London]
+
+  Keywords: digital and physical experiences for premium brands worldwide, experiential retail marketing, installation design
+
+  Jobs: [🌐](https://www.hirschandmann.com/jobs/)
+
+
+- Name: [**Recursive**](https://recursive.digital/)
+
+  Locations: \[Eastbourne, UK]
+
+  Keywords: AV, Lighting, Content and Software to transform spaces for brands, venues, and people
+
+
+- Name: [**Zebrar**](https://www.zebrar.com/)
+
+  Locations: \[Sydney]
+
+  Keywords: immersive technology & interactive design, AR, VR, digital activations
+
+
+
+### Collectives & Practices
+
+- Name: [**Jen Lewin Studio**](https://www.jenlewinstudio.com/)
+
+  Locations: \[NYC]
+
+  Keywords: interactive light landscapes
+
+
+
+### Museums
+
+- Name: [**Riggs Ward Design**](https://riggsward.com/)
+
+  Locations: \[Richmond, Virginia]
+
+  Keywords: exhibition and interactive design, strategic master planning, research, content analysis, and storyline development for museums, visitor centers, and cultural institutions
+
+
+- Name: [**TKNL**](https://www.tknl.com/en/experiences)
+
+  Locations: \[Montreal]
+
+  Keywords: immersive shows, projection, visitor experience design
+
+
 
 ## [Oct 11, 2024](/content/2024/10/11/README.md)
 

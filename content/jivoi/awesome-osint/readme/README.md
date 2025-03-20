@@ -26,6 +26,7 @@ Happy hacking and hunting 🧙‍♂️
 *   [Main National Search Engines](#-main-national-search-engines)
 *   [Meta Search](#-meta-search)
 *   [Specialty Search Engines](#-specialty-search-engines)
+*   [Dark Web Search Engines](#-dark-web-search-engines)
 *   [Visual Search and Clustering Search Engines](#-visual-search-and-clustering-search-engines)
 *   [Similar Sites Search](#-similar-sites-search)
 *   [Document and Slides Search](#-document-and-slides-search)
@@ -157,6 +158,7 @@ Thanks to our main contributors
 *Search engines for specific information or topics.*
 
 *   [2lingual Search](http://www.2lingual.com)
+*   [Abuseipdb](https://www.abuseipdb.com/) - Repository of abuses reported by system administrators for IPs, Domains, and subnets
 *   [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 *   [Biznar](http://biznar.com)
 *   [CiteSeerX](http://citeseer.ist.psu.edu)
@@ -174,6 +176,11 @@ Thanks to our main contributors
 *   [WIPO](https://www3.wipo.int/branddb/en/)
 *   [WorldWideScience.org](http://worldwidescience.org)
 *   [Zanran](http://zanran.com)
+
+## [↑](#-table-of-contents) Dark Web Search Engines Search Engines
+
+*   [Ahmia](https://ahmia.fi)
+*   [Aleph Open Search](https://open-search.aleph-networks.eu)
 
 ## [↑](#-table-of-contents) Visual Search and Clustering Search Engines
 
@@ -1121,7 +1128,7 @@ Thanks to our main contributors
 *   [Bridge.Leslibres](https://bridge.leslibres.org)
 *   [Bridge.Suumitsu](https://bridge.suumitsu.eu)
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐22k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐23k)](https://github.com/dgtlmoon/changedetection.io)
 *   [ChangeDetect](http://www.changedetect.com)
 *   [ChangeDetection](http://www.changedetection.com)
 *   [Deltafeed](http://bitreading.com/deltafeed)
@@ -1336,7 +1343,7 @@ Thanks to our main contributors
 *   [Tails](https://tails.boum.org)
 *   [Thunderbird](https://www.mozilla.org/en-US/thunderbird)
 *   [Tor Project](https://www.torproject.org)
-*   [uBlock Origin (⭐50k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐52k)](https://github.com/gorhill/uBlock)
 *   [Wickr](https://wickr.com)
 *   [WOT](https://www.mywot.com)
 *   [ZMail](http://zmail.sourceforge.net)
@@ -1359,7 +1366,7 @@ Thanks to our main contributors
 *   [BeVigil-CLI (⭐122)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 *   [Cyberbro (⭐313)](https://github.com/stanfrbd/cyberbro) - A self-hosted application, available as a Dockerized, for effortless searching and reputation checking of observables. Extracts IoCs from raw input and check their reputation using multiple services.
 *   [CyberGordon](https://cybergordon.com) - CyberGordon is a threat intelligence search engine. It leverages 30+ sources.
-*   [CrowdSec (⭐9.8k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐9.9k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 *   [Datasploit (⭐3.1k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 *   [Discoshell (⭐77)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
 *   [DNSservices](https://github.com/0x4f53/dnsservices) - Discover embedded services in a domain's DNS records within seconds
@@ -1443,7 +1450,7 @@ Thanks to our main contributors
 *   [awesome-forensics (⭐4.2k)](https://github.com/Cugu/awesome-forensics) by @cugu
 *   [awesome-hacking (⭐14k)](https://github.com/carpedm20/awesome-hacking) by @carpedm20
 *   [awesome-honeypots (⭐9k)](https://github.com/paralax/awesome-honeypots) by @paralax
-*   [awesome-incident-response (⭐7.9k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
+*   [awesome-incident-response (⭐8k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
 *   [awesome-lockpicking (⭐1.5k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
 *   [awesome-malware-analysis (⭐12k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
 *   [awesome-pentest (⭐23k)](https://github.com/enaqx/awesome-pentest) by @enaqx

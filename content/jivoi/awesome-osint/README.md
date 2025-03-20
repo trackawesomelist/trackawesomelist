@@ -6,6 +6,17 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Mar 20, 2025](/content/2025/03/20/README.md)
+
+### Specialty Search Engines
+
+*   [Abuseipdb](https://www.abuseipdb.com/) - Repository of abuses reported by system administrators for IPs, Domains, and subnets
+
+### Dark Web Search Engines Search Engines
+
+*   [Ahmia](https://ahmia.fi)
+*   [Aleph Open Search](https://open-search.aleph-networks.eu)
+
 ## [Mar 09, 2025](/content/2025/03/09/README.md)
 
 ### People Investigations / Steam
@@ -253,7 +264,7 @@
 ### Web Monitoring / Steam
 
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐22k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐23k)](https://github.com/dgtlmoon/changedetection.io)
 
 ### Other Tools / Steam
 
@@ -281,7 +292,7 @@
 *   [awesome-forensics (⭐4.2k)](https://github.com/Cugu/awesome-forensics) by @cugu
 *   [awesome-hacking (⭐14k)](https://github.com/carpedm20/awesome-hacking) by @carpedm20
 *   [awesome-honeypots (⭐9k)](https://github.com/paralax/awesome-honeypots) by @paralax
-*   [awesome-incident-response (⭐7.9k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
+*   [awesome-incident-response (⭐8k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
 *   [awesome-lockpicking (⭐1.5k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
 *   [awesome-malware-analysis (⭐12k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
 *   [awesome-pentest (⭐23k)](https://github.com/enaqx/awesome-pentest) by @enaqx
@@ -556,7 +567,7 @@
 
 ### Other Tools / Steam
 
-*   [CrowdSec (⭐9.8k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐9.9k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 
 ## [Aug 02, 2022](/content/2022/08/02/README.md)
 
@@ -1132,7 +1143,7 @@
 
 ### Privacy and Encryption Tools / Steam
 
-*   [uBlock Origin (⭐50k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐52k)](https://github.com/gorhill/uBlock)
 
 ## [Feb 18, 2020](/content/2020/02/18/README.md)
 

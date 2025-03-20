@@ -8,6 +8,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
+### PaaS
+
+*   [leapcell](https://leapcell.io/) - Leapcell is a reliable distributed applications platform, providing everything you need to seamlessly support your rapid growth. The free plan includes 100k service invocations, 10k async tasks and 100k Redis commands.
+
 ### Design and UI
 
 *   [Excalidraw](https://excalidraw.com/) -- A free online drawing document web page with free save to local and export support.
