@@ -6,6 +6,16 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Mar 20, 2025](/content/2025/03/20/README.md)
+
+### Libraries/Packages/Scripts / Polars plugins
+
+*   [iban\_validation\_polars (⭐0)](https://github.com/ericqu/iban_validation/tree/main/iban_validation_polars) A package to facilitate validation of IBANs and getting bank identifier and branch identifier as a Polars plugin by [@ericqu](https://github.com/ericqu).
+
+### Libraries/Packages/Scripts / Rust
+
+*   [iban\_validation (⭐0)](https://github.com/ericqu/iban_validation) A set of projects to facilitate validation of ibans and getting the bank identifier and branch identifier in Rust, Python and Polars by [@ericqu](https://github.com/ericqu).
+
 ## [Mar 19, 2025](/content/2025/03/19/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins

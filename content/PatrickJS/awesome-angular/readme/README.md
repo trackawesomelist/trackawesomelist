@@ -510,6 +510,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-meta-pixel (⭐2)](https://github.com/Szymonexis/ngx-meta-pixel) - This package enables you to setup [Meta Pixel](https://www.facebook.com/business/tools/meta-pixel) for your Angular application.
 *   [clickstream-analytics-on-aws-web-sdk (⭐20)](https://github.com/aws-solutions/clickstream-analytics-on-aws-web-sdk) - [Clickstream Web SDK](https://aws-solutions.github.io/clickstream-analytics-on-aws/en/latest/sdk-manual/web/) can help you easily collect click stream data from browser to your AWS environments through the data pipeline provisioned by this solution.
 *   [@luzmo/ngx-embed](https://www.npmjs.com/package/@luzmo/ngx-embed) - A library for embedding [Luzmo](https://www.luzmo.com/) dashboards in your Angular application.
+*   [opentelemetry-angular-interceptor (⭐38)](https://github.com/jufab/opentelemetry-angular-interceptor) - A library to deploy [OpenTelemetry](https://opentelemetry.io/) in your Angular application.
 
 #### Authentication
 
@@ -1627,6 +1628,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-concern (⭐2)](https://github.com/HeyItsBATMAN/ngx-concern) - Angular library for creating simple, unstyled dialogs/modals and action-sheets/bottom-sheets.
 *   [ngx-whats-new (⭐4)](https://github.com/4gray/ngx-whats-new) - A simple library for creating multi-modal windows.
 *   [ngx-dialog (⭐1)](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
+*   [angular-signal-generators (⭐19)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
 
 #### Notifications
 

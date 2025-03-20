@@ -12,6 +12,11 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *   [polars-ds) (⭐459)](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq).
 *   [polars\_list\_utils (⭐4)](https://github.com/dashdeckers/polars_list_utils) - Polars extension that provides a set of utilities for working with List-type columns in Polars DataFrames by [@dashdeckers](https://github.com/dashdeckers).
+*   [iban\_validation\_polars (⭐0)](https://github.com/ericqu/iban_validation/tree/main/iban_validation_polars) A package to facilitate validation of IBANs and getting bank identifier and branch identifier as a Polars plugin by [@ericqu](https://github.com/ericqu).
+
+### Libraries/Packages/Scripts / Rust
+
+*   [iban\_validation (⭐0)](https://github.com/ericqu/iban_validation) A set of projects to facilitate validation of ibans and getting the bank identifier and branch identifier in Rust, Python and Polars by [@ericqu](https://github.com/ericqu).
 
 ### Resources / Blog posts
 

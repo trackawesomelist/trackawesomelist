@@ -1,12 +1,28 @@
 # Awesome List Updates on Mar 20, 2025
 
-8 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+### Libraries/Packages/Scripts / Polars plugins
+
+*   [iban\_validation\_polars (⭐0)](https://github.com/ericqu/iban_validation/tree/main/iban_validation_polars) A package to facilitate validation of IBANs and getting bank identifier and branch identifier as a Polars plugin by [@ericqu](https://github.com/ericqu).
+
+### Libraries/Packages/Scripts / Rust
+
+*   [iban\_validation (⭐0)](https://github.com/ericqu/iban_validation) A set of projects to facilitate validation of ibans and getting the bank identifier and branch identifier in Rust, Python and Polars by [@ericqu](https://github.com/ericqu).
+
+## [2. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+
+### Security
+
+*   [myldapsync (⭐0)](https://github.com/6eh01der/myldapsync) - Synchronize MySQL or MariaDB users with users in an LDAP directory.
+
+## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Specialty Search Engines
 
@@ -17,19 +33,19 @@
 *   [Ahmia](https://ahmia.fi)
 *   [Aleph Open Search](https://open-search.aleph-networks.eu)
 
-## [2. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+## [4. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ### OS and Kernels / Apache License
 
 *   [ironclad](https://ironclad-os.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐151)](https://github.com/streaksu/Gloire).
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ### Others / Web project skeletons and generators
 
 *   [LASS (⭐113)](https://github.com/Shinmera/LASS) -  Lisp Augmented Style Sheets. Largely inspired by SASS. Zlib.
 
-## [4. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
+## [6. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/README.md)
 
 ### Creative Technology
 
@@ -84,17 +100,21 @@
 
 
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
 *   [leapcell](https://leapcell.io/) - Leapcell is a reliable distributed applications platform, providing everything you need to seamlessly support your rapid growth. The free plan includes 100k service invocations, 10k async tasks and 100k Redis commands.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
+
+### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [opentelemetry-angular-interceptor (⭐38)](https://github.com/jufab/opentelemetry-angular-interceptor) - A library to deploy [OpenTelemetry](https://opentelemetry.io/) in your Angular application.
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -126,11 +146,15 @@
 *   [ngx-kit (⭐2)](https://github.com/almazrpe/ngx-kit) - Utilities for Angular Framework.
 *   [ng-tool-collection (⭐1)](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
 
+### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-signal-generators (⭐19)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
+
 ### Inspired by Angular / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [sio (⭐11)](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
 
-## [7. Awesome Ci](/content/ligurio/awesome-ci/README.md)
+## [9. Awesome Ci](/content/ligurio/awesome-ci/README.md)
 
 - Name: [Continua CI](https://www.finalbuilder.com/continua-ci)
 
@@ -163,7 +187,7 @@
 
 
 
-## [8. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
+## [10. Awesome Fiber](/content/gofiber/awesome-fiber/README.md)
 
 ### 🚧 Boilerplates / 🌱 Third Party
 

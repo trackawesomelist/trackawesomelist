@@ -1,12 +1,18 @@
 # Awesome List Updates on Mar 24 - Mar 30, 2025
 
-24 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [1. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+
+### Security
+
+*   [myldapsync (⭐0)](https://github.com/6eh01der/myldapsync) - Synchronize MySQL or MariaDB users with users in an LDAP directory.
+
+## [2. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Specialty Search Engines
 
@@ -17,19 +23,19 @@
 *   [Ahmia](https://ahmia.fi)
 *   [Aleph Open Search](https://open-search.aleph-networks.eu)
 
-## [2. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [3. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### OS and Kernels / Apache License
 
 *   [ironclad](https://ironclad-os.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire (⭐151)](https://github.com/streaksu/Gloire).
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [4. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Others / Web project skeletons and generators
 
 *   [LASS (⭐113)](https://github.com/Shinmera/LASS) -  Lisp Augmented Style Sheets. Largely inspired by SASS. Zlib.
 
-## [4. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
+## [5. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
 
 ### Creative Technology
 
@@ -84,7 +90,7 @@
 
 
 
-## [5. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
+## [6. Awesome Ci](/content/ligurio/awesome-ci/week/README.md)
 
 - Name: [Continua CI](https://www.finalbuilder.com/continua-ci)
 
@@ -117,25 +123,25 @@
 
 
 
-## [6. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [7. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### 🚧 Boilerplates / 🌱 Third Party
 
 *   [felipeafonso/go-htmx-starter (⭐1)](https://github.com/FelipeAfonso/go-htmx-starter) - A front-end opinionated boilerplate for Go + HTMX development, using Tailwind and Vite for Bundling and Hot Reloading.
 
-## [7. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
+## [8. Ai Collective Tools](/content/Hyraze/ai-collective-tools/week/README.md)
 
 ### Fun Tools
 
 *   [Dream Interpretation](https://dreaminterpretation.online/) - Get Professional Dream Interpretation `#free`
 
-## [8. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [9. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Configuration
 
 *   [django-removals (⭐49)](https://github.com/ambient-innovation/django-removals/) - Detect deprecated settings variables via convenient system checks
 
-## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [10. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -193,7 +199,7 @@
 *   [NDJSON (⭐720) (⭐715)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐378) (⭐374)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Maps and Global Positioning System (GPS)
 
@@ -220,25 +226,25 @@
 
 *   [clink](https://git.swurl.xyz/swirl/clink.git/about/) - A super-minimal link shortening service written in pure C, focusing on small executable size, portability, and ease of configuration. ([Demo](https://short.swurl.xyz), [Source Code](https://git.swurl.xyz/swirl/clink.git)) `AGPL-3.0` `C`
 
-## [11. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [12. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Open Source / Casual
 
 *   [Antimine - Minesweeper (⭐2)](https://github.com/lucasnlm/antimine-flutter) - Antimine is a minesweeper-like puzzle game. The objective is to flag the spaces with mines to make the field a safer place without exploding any of them. Get it on [Google Play](https://play.google.com/store/apps/details?id=com.logical.minato). By [lucasnlm](https://github.com/lucasnlm).
 
-## [12. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
+## [13. Awesome Ios Books](/content/bystritskiy/awesome-ios-books/week/README.md)
 
 ### SwiftUI
 
 *   [*SwiftUI Fundamentals* by Natalia Panferova](https://books.nilcoalescing.com/swiftui-fundamentals)
 
-## [13. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### PDF
 
 *   [QPDF (⭐3.8k)](https://github.com/qpdf/qpdf) - A tool and C++ library for content-preserving transformations of PDF files. \[Apache-2.0] [website](https://qpdf.sourceforge.io/)
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### PaaS
 
@@ -248,7 +254,7 @@
 
 *   [Excalidraw](https://excalidraw.com/) -- A free online drawing document web page with free save to local and export support.
 
-## [15. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
@@ -278,7 +284,7 @@
 
 *   [kiyoon/tmux-send.nvim (⭐3)](https://github.com/kiyoon/tmux-send.nvim) - Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
 
-## [16. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
+## [17. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
 
 ### Index / Human Resources
 
@@ -304,13 +310,13 @@
 *   [vpsag](https://vpsag.com) 🇧🇬
 *   [Yourserver.se](https://yourserver.se/linux) 🇱🇻
 
-## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Date and Time
 
 *   [carbon (⭐5k)](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly time package for golang.
 
-## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Terminal Apps / Databases
 
@@ -320,7 +326,7 @@
 
 *   [iCopy](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12) - Clipboard management, quick reply, efficiency multiplier artifact ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12)
 
-## [19. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [20. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / Frameworks
 
@@ -334,40 +340,49 @@
 
 *   [@tauri-store/pinia (⭐36)](https://github.com/ferreira-tb/tauri-store/tree/main/packages/plugin-pinia) - Persistent Pinia stores for Tauri.
 
-## [20. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [21. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Libraries/Packages/Scripts / Polars plugins
 
 *   [polars-ds) (⭐459)](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq).
 *   [polars\_list\_utils (⭐4)](https://github.com/dashdeckers/polars_list_utils) - Polars extension that provides a set of utilities for working with List-type columns in Polars DataFrames by [@dashdeckers](https://github.com/dashdeckers).
+*   [iban\_validation\_polars (⭐0)](https://github.com/ericqu/iban_validation/tree/main/iban_validation_polars) A package to facilitate validation of IBANs and getting bank identifier and branch identifier as a Polars plugin by [@ericqu](https://github.com/ericqu).
+
+### Libraries/Packages/Scripts / Rust
+
+*   [iban\_validation (⭐0)](https://github.com/ericqu/iban_validation) A set of projects to facilitate validation of ibans and getting the bank identifier and branch identifier in Rust, Python and Polars by [@ericqu](https://github.com/ericqu).
 
 ### Resources / Blog posts
 
 *   [The Complete Guide to Polars for Data Science](https://noroinsight.com/polars-for-data-science-complete-guide/) - A hands-on tutorial that teaches how to load, manipulate, transform and optimize data sets with Polars in Python by [@norochalise](https://github.com/norochalise). Code used is available on Github [here (⭐1)](https://github.com/norochalise/noroinsight-polars-tutorial).
 
-## [21. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [22. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / Human Concept Representation
 
 *   [Simple shape feature computation across modalities: convergence and divergence between the ventral and dorsal visual streams](https://academic.oup.com/cercor/article/33/15/9280/7190929) - ***Cerebral Cortex***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=5977822802446917081)]. \[[Preprints](http://bilab.bnu.edu.cn/paper/2023/Tian_2023_CC.pdf)]. Shape processing, whether by seeing or touching, is pivotal to object recognition and manipulation. Although the low-level signals are initially processed by different modality-specific neural circuits, multimodal responses to object shapes have been reported along both ventral and dorsal visual pathways. To understand this transitional process, the authors conducted visual and haptic shape perception fMRI experiments to test basic shape features (i.e. curvature and rectilinear) across the visual pathways. Using a combination of region-of-interest-based support vector machine decoding analysis and voxel selection method, the authors found that the top visual-discriminative voxels in the left occipital cortex (OC) could also classify haptic shape features, and the top haptic-discriminative voxels in the left posterior parietal cortex (PPC) could also classify visual shape features. Furthermore, these voxels could decode shape features in a cross-modal manner, suggesting shared neural computation across visual and haptic modalities. In the univariate analysis, the top haptic-discriminative voxels in the left PPC showed haptic rectilinear feature preference, whereas the top visual-discriminative voxels in the left OC showed no significant shape feature preference in either of the two modalities. Together, these results suggest that mid-level shape features are represented in a modality-independent manner in both the ventral and dorsal streams.
 
-## [22. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [23. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Admin Interface
 
 *   [Madmin (⭐634)](https://github.com/excid3/madmin) - A robust Admin Interface for Ruby on Rails apps
 
-## [23. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
+## [24. Awesome Quantified Self](/content/woop/awesome-quantified-self/week/README.md)
 
 ### Open Source Projects / Wealth
 
 *   [HumanProgrammingInterface (⭐1.5k)](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
 
-## [24. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [25. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
+
+### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [opentelemetry-angular-interceptor (⭐38)](https://github.com/jufab/opentelemetry-angular-interceptor) - A library to deploy [OpenTelemetry](https://opentelemetry.io/) in your Angular application.
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -424,6 +439,10 @@
 *   [ngx-signals-plus (⭐1)](https://github.com/dszendrei/ngx-signals-plus) - Additional Signals to improve developer experience.
 *   [ngx-kit (⭐2)](https://github.com/almazrpe/ngx-kit) - Utilities for Angular Framework.
 *   [ng-tool-collection (⭐1)](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
+
+### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-signal-generators (⭐19)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
 
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

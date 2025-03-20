@@ -12,6 +12,10 @@
 
 *   [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
 
+### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [opentelemetry-angular-interceptor (⭐38)](https://github.com/jufab/opentelemetry-angular-interceptor) - A library to deploy [OpenTelemetry](https://opentelemetry.io/) in your Angular application.
+
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-cli-ssr-diff (⭐2)](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
@@ -41,6 +45,10 @@
 
 *   [ngx-kit (⭐2)](https://github.com/almazrpe/ngx-kit) - Utilities for Angular Framework.
 *   [ng-tool-collection (⭐1)](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
+
+### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-signal-generators (⭐19)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
 
 ### Inspired by Angular / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

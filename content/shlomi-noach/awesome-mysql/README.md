@@ -6,6 +6,12 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 [ Daily / [Weekly](/content/shlomi-noach/awesome-mysql/week/README.md) / [Overview](/content/shlomi-noach/awesome-mysql/readme/README.md) ]
 
+## [Mar 20, 2025](/content/2025/03/20/README.md)
+
+### Security
+
+*   [myldapsync (⭐0)](https://github.com/6eh01der/myldapsync) - Synchronize MySQL or MariaDB users with users in an LDAP directory.
+
 ## [Mar 11, 2025](/content/2025/03/11/README.md)
 
 ### Connectors
@@ -40,7 +46,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Analysis
 
-*   [Prometheus (⭐57k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.2k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
+*   [Prometheus (⭐58k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.2k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
 
 ### Connectors
 

@@ -51,7 +51,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.4k)](htt
 *   [MySQL Explain Analyzer (⭐93)](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
 *   [mysql-statsd (⭐100)](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
 *   [MySQLTuner-perl (⭐9.1k)](https://github.com/major/MySQLTuner-perl) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
-*   [Prometheus (⭐57k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.2k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
+*   [Prometheus (⭐58k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.2k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
 *   [pstop (⭐207)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
 *   [Wireshark](https://gitlab.com/wireshark/wireshark/) - a protocol analyzer that can decode the MySQL protocol.
 *   [Dolphie (⭐741)](https://github.com/charles-001/dolphie) - a modern terminal tool for real-time analytics into MySQL/MariaDB & ProxySQL
@@ -191,6 +191,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.4k)](htt
 *Tools that prevents leaking of sensitive data from database (encryption, masking and tokenization, honey-pots, etc)*
 
 *   [Acra (⭐1.4k)](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
+*   [myldapsync (⭐0)](https://github.com/6eh01der/myldapsync) - Synchronize MySQL or MariaDB users with users in an LDAP directory.
 
 ## Server
 

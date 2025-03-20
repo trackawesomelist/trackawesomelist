@@ -12,6 +12,10 @@
 
 *   [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
 
+### Analytics / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [opentelemetry-angular-interceptor (⭐38)](https://github.com/jufab/opentelemetry-angular-interceptor) - A library to deploy [OpenTelemetry](https://opentelemetry.io/) in your Angular application.
+
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [nblocks](https://www.nblocks.dev/) - A control center for seamless management of Authentication, Payments, Subscriptions, Feature, and Role management.
@@ -67,6 +71,10 @@
 *   [ngx-signals-plus (⭐1)](https://github.com/dszendrei/ngx-signals-plus) - Additional Signals to improve developer experience.
 *   [ngx-kit (⭐2)](https://github.com/almazrpe/ngx-kit) - Utilities for Angular Framework.
 *   [ng-tool-collection (⭐1)](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
+
+### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-signal-generators (⭐19)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
 
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
