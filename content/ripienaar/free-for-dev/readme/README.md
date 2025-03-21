@@ -1330,7 +1330,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 ## Domain
 
-*   [eu.org](https://nic.eu.org) — Free eu.org domain. The request is usually approved in 14 days.
 *   [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
 *   [us.kg](https://nic.us.kg/) - Free us.kg subdomains.
 
@@ -1792,6 +1791,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [TrackWith Dicloud](https://dicloud.net/trackwith-privacy-focused-analytics/) - Free lightweight privacy-focused alternative to Google Analytics. Unlimited pageviews, unlimited visitor, unlimited page heatmaps & goal tracking. Free for up to 3 domains and 600 session replay per domain.
 *   [AppFit](https://appfit.io) - AppFit is a comprehensive analytics and product management tool designed to facilitate seamless, cross-platform management of analytics and product updates. Free plan includes 10,000 events per month, product journal and weekly insights.
 *   [Seline](https://seline.so) - Seline is a simple & private website and product analytics. Cookieless, lightweight, independent. Free plan includes 3,000 events per month and provides access to all our features, such as the dashboard, user journeys, funnels, and more.
+*   [Peasy](https://peasy.so) - Peasy is a lightweight, privacy-focused analytics tool for websites and products. Free plan includes 3,000 events per month.
 
 **[⬆️ Back to Top](#table-of-contents)**
 

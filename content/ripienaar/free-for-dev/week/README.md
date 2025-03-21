@@ -16,6 +16,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [Excalidraw](https://excalidraw.com/) -- A free online drawing document web page with free save to local and export support.
 
+### Analytics, Events and Statistics
+
+*   [Peasy](https://peasy.so) - Peasy is a lightweight, privacy-focused analytics tool for websites and products. Free plan includes 3,000 events per month.
+
 ## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
 
 ### APIs, Data, and ML
@@ -2576,7 +2580,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Domain
 
-*   [eu.org](https://nic.eu.org) — Free eu.org domain. The request is usually approved in 14 days.
 *   [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
 
 ### Issue Tracking and Project Management

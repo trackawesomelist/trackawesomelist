@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 21, 2025](/content/2025/03/21/README.md)
+
+### Analytics, Events and Statistics
+
+*   [Peasy](https://peasy.so) - Peasy is a lightweight, privacy-focused analytics tool for websites and products. Free plan includes 3,000 events per month.
+
 ## [Mar 20, 2025](/content/2025/03/20/README.md)
 
 ### PaaS
@@ -3201,7 +3207,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Domain
 
-*   [eu.org](https://nic.eu.org) — Free eu.org domain. The request is usually approved in 14 days.
 *   [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
 
 ## [Feb 22, 2022](/content/2022/02/22/README.md)

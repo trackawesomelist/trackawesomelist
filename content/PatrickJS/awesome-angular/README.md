@@ -6,6 +6,22 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Mar 21, 2025](/content/2025/03/21/README.md)
+
+### Desktop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [electron (⭐116k)](https://github.com/electron/electron) - Build cross-platform desktop apps with JavaScript, HTML, and CSS.
+*   [neutralinojs (⭐7.7k)](https://github.com/neutralinojs/neutralinojs) - A lightweight and portable desktop application development framework. It lets you develop lightweight cross-platform desktop applications using JavaScript, HTML and CSS. Apps built with Neutralinojs can run on Linux, macOS, Windows, Web, and Chrome.
+*   [nw.js (⭐41k)](https://github.com/nwjs/nw.js) - An app runtime based on Chromium and Node.js. You can write native apps in HTML and JavaScript with NW\.js. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all web technologies.
+*   [nw-angular-example (⭐30)](https://github.com/nwutils/nw-angular-example) - An example of integrating Angular with NW\.js.
+*   [tauri](https://v2.tauri.app/) - Create small, fast, secure, cross-platform applications.
+*   [wails (⭐27k)](https://github.com/wailsapp/wails) - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
+
+### Feature Flags / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@devcycle/openfeature-angular-provider](https://www.npmjs.com/package/@devcycle/openfeature-angular-provider) - [DevCycle](https://docs.devcycle.com/sdk/client-side-sdks/angular/) supports the OpenFeature Angular SDK.
+*   [@statsig/angular-bindings](https://www.npmjs.com/package/@statsig/angular-bindings) - The [Statsig](https://www.statsig.com/) Angular bindings package provides a StatsigService that can be injected into your components. See the [Statsig docs](https://docs.statsig.com/client/javascript-sdk/Angular/) for more details.
+
 ## [Mar 20, 2025](/content/2025/03/20/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -1764,7 +1780,7 @@
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-countUp (⭐138)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
+*   [ngx-countUp (⭐140)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
 
 ### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2467,7 +2483,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-socket-io (⭐264)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
+*   [ngx-socket-io (⭐265)](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
 
 ### Payments / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -3131,7 +3147,7 @@
 
 *   [Mona Code Lisa](https://www.youtube.com/@MonaCodeLisa)
 
-### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Desktop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-tauri (⭐105)](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
 
@@ -4181,6 +4197,10 @@
 *   [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality. The [Angular Runtime (⭐26)](https://github.com/netlify/angular-runtime) plugin implements Angular Support on Netlify.
 *   [angular-cli-ghpages (⭐974)](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
 
+### Desktop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-electron (⭐5.7k)](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron.
+
 ### Documentation tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [docgeni (⭐198)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
@@ -4192,7 +4212,6 @@
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-sdk (⭐26)](https://github.com/descope/angular-sdk) - Angular library used to integrate with Descope.
-*   [angular-electron (⭐5.7k)](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron.
 *   [Postcat (⭐5.4k)](https://github.com/Postcatlab/postcat) - A lightweight, extensible API tool based on Angular and Electron.
 *   [NativeScript](https://docs.nativescript.org) - NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience.
 *   [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
@@ -4388,7 +4407,7 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [Syncfusion](https://www.syncfusion.com/angular-components) - Its [Essential UI Kit for Angular (⭐8)](https://github.com/syncfusion/essential-ui-kit-for-angular) is compatible with both Tailwind CSS and Bootstrap.
+*   [Syncfusion](https://www.syncfusion.com/angular-components) - Its [Essential UI Kit for Angular (⭐10)](https://github.com/syncfusion/essential-ui-kit-for-angular) is compatible with both Tailwind CSS and Bootstrap.
 *   [prime-ng (⭐11k)](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library.
 
 ### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
