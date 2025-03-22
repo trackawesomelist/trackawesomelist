@@ -660,7 +660,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-flagr (⭐9)](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
 *   [ngx-growthbook (⭐1)](https://github.com/carlcrede/ngx-growthbook-workspace/tree/master/projects/ngx-growthbook) - An Angular wrapper for [GrowthBook](https://www.growthbook.io/), providing feature flags and A/B testing capabilities with full TypeScript support.
 *   [Flagsmith](https://www.flagsmith.com/) - Ship Faster and Control Releases with Feature Flag Management.
-*   [angular-unleash-proxy-client (⭐10)](https://github.com/Karelics/angular-unleash-proxy-client) - Angular wrapper for [unleash](https://www.getunleash.io/) and [unleash-proxy-client-js (⭐47)](https://github.com/Unleash/unleash-proxy-client-js).
+*   [angular-unleash-proxy-client (⭐9)](https://github.com/Karelics/angular-unleash-proxy-client) - Angular wrapper for [unleash](https://www.getunleash.io/) and [unleash-proxy-client-js (⭐47)](https://github.com/Unleash/unleash-proxy-client-js).
 *   [ngx-version-view (⭐5)](https://github.com/zenkiet/ngx-version-view) - A powerful Angular library that enables version-aware component rendering for seamless feature toggling based on application versions.
 *   [@statsig/angular-bindings](https://www.npmjs.com/package/@statsig/angular-bindings) - The [Statsig](https://www.statsig.com/) Angular bindings package provides a `StatsigService` that can be injected into your components. See the [Statsig docs](https://docs.statsig.com/client/javascript-sdk/Angular/) for more details.
 *   [@configcat/js-sdk (⭐30)](https://github.com/configcat/js-sdk) - ConfigCat SDK for JavaScript provides easy integration for your application to [ConfigCat](https://configcat.com/).
@@ -959,6 +959,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [@wlucha/angular-starter (⭐327)](https://github.com/wlucha/angular-starter) - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
 *   [angular-clean-architecture (⭐11)](https://github.com/carlossalasamper/angular-clean-architecture) - An Angular scaffold with a clean architecture that is easy to understand.
 *   [dataclouder-template-angular (⭐1)](https://github.com/dataclouder-dev/dataclouder-template-angular) - A ready-to-use Angular/Ionic template with Firebase Authentication integration.
+*   [angular-tailwind-e-commerce-template (⭐2)](https://github.com/Kei-K23/angular-tailwind-e-commerce-template) - This responsive e-commerce template, built with Angular and TailwindCSS, combines modern aesthetics with functionality. Designed as a foundation for developing robust e-commerce applications, it features a sleek, customizable design, perfect for minimalist online shops.
 
 ##### Paid
 
@@ -1276,6 +1277,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-responsive-if (⭐1)](https://github.com/bodnya29179/ngx-responsive-if) - An Angular structural directive for conditional rendering based on media queries.
 *   [ngx-copy-to-clipboard (⭐2)](https://github.com/andreasnicolaou/ngx-copy-to-clipboard) - an Angular directive that enables easy text copying to the clipboard with a single click. It supports customizable success/error messages and triggers events on copy actions.
 *   [ng-click-outside (⭐13)](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
+*   [ngx-search-pipe (⭐1)](https://github.com/paulotokarskiglinski/ngx-search-pipe) - A search pipe for Angular that filters a collection of objects based on a specified search term, designed to work seamlessly with signals.
 
 #### Drag and Drop
 
@@ -2092,6 +2094,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [prang (⭐2)](https://github.com/Joery-M/prang) - A framework that looks like Angular, smells like Angular, but is actually Vue.
 *   [PrasthuthTS (⭐1)](https://github.com/Prasthuth-Pradeep/PrasthuthTS) - A TypeScript framework, inspired by Angular, that features a modular, component-based architecture, two-way data binding, and a flexible routing system, all while leveraging TypeScript's strong typing to simplify development and enhance maintainability.
 *   [ReactiveForms (⭐1)](https://github.com/vipulkmr02/ReactiveForms) - Retrieve form input values using the DOM and implement form validation, drawing inspiration from Angular's Reactive Forms approach.
+*   [@joanpablo/reactive\_forms (⭐481)](https://github.com/joanpablo/reactive_forms) - This library, written in Dart, employs a model-driven approach to managing form inputs and validations, drawing significant inspiration from Angular's Reactive Forms.
 *   [reaktiv (⭐53)](https://github.com/buiapp/reaktiv) - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
 *   [sio (⭐11)](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
 *   [ts-react-directives (⭐1)](https://github.com/skycodr/ts-react-directives) - A small React/Typescript library designed to mimic Angular directives.
