@@ -6,6 +6,12 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [Mar 22, 2025](/content/2025/03/22/README.md)
+
+### Index / VPS
+
+*   [OVHcloud](https://www.ovhcloud.com/en/vps/) 🇫🇷
+
 ## [Mar 19, 2025](/content/2025/03/19/README.md)
 
 ### Index / Human Resources

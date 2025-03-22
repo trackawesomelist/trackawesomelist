@@ -26,6 +26,7 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 *   [Ikoula](https://www.ikoula.com/en/vps/linux) 🇫🇷
 *   [Melbicom](https://www.melbicom.net/virtualserver/) 🇱🇹
 *   [Mivocloud](https://mivocloud.com/ssd-kvm-vps) 🇲🇩
+*   [OVHcloud](https://www.ovhcloud.com/en/vps/) 🇫🇷
 *   [Phpfriends](https://php-friends.de/vserver-ssd) 🇩🇪
 *   [Pulseberg](https://pulseheberg.com/cloud/vps-linux) 🇫🇷
 *   [Trabia](https://www.trabia.com/virtual-server.84-0.html) 🇲🇩
