@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/georgezouq/awesome-ai-in-finance/week/README.md) / [Overview](/content/georgezouq/awesome-ai-in-finance/readme/README.md) ]
 
+## [Mar 23, 2025](/content/2025/03/23/README.md)
+
+### Data Sources / Traditional Markets
+
+*   [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
+
 ## [Mar 10, 2025](/content/2025/03/10/README.md)
 
 ### Portfolio Management
@@ -52,8 +58,8 @@
 
 ### Courses & Books & Blogs
 
-*   [MLSys-NYU-2022 (⭐426)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-*   [Train and Deploy a Serverless API to predict crypto prices (⭐800)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
+*   [MLSys-NYU-2022 (⭐435)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [Train and Deploy a Serverless API to predict crypto prices (⭐808)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
 
 ## [Sep 15, 2023](/content/2023/09/15/README.md)
 
@@ -136,7 +142,7 @@
 
 ### Time Series Data
 
-*   [Chaos Genius (⭐749)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
+*   [Chaos Genius (⭐752)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
 
 ## [Dec 17, 2021](/content/2021/12/17/README.md)
 

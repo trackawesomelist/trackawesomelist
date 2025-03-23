@@ -12,6 +12,10 @@
 
 *   [Unread](https://www.goldenhillsoftware.com/unread/) - RSS reader with beautiful typography that supports Feedbin, Feedly and so on. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/unread-an-rss-reader/id1363637349)
 
+### Audio and Video Tools / File Sharing
+
+*   [Tuneful](https://www.tuneful.dev) - Control your Spotify and Apple Music from the notch, menu bar or mini player. Efortlessly and natively. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/tuneful/id6739804295)
+
 ## [Mar 21, 2025](/content/2025/03/21/README.md)
 
 ### Utilities / Productivity

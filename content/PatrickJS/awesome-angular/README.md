@@ -6,6 +6,76 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Mar 23, 2025](/content/2025/03/23/README.md)
+
+### Bluesky
+
+*   [Angular Starter Pack by @brandonroberts.dev](https://bsky.app/starter-pack/brandonroberts.dev/3l7lzgkwkqu2n)
+
+### Books / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Enterprise Monorepo Angular Patterns](https://go.nx.dev/angular-patterns-ebook) - `Nx Core Team` **FREE**
+
+### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
+
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [firebase-framework-tools (⭐306)](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI (⭐4.1k)](https://github.com/firebase/firebase-tools/) to add web framework support.
+
+### Documentation tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [easy-template-x-angular-expressions (⭐7)](https://github.com/alonrbar/easy-template-x-angular-expressions) - Angular expressions support for [easy-template-x (⭐424)](https://github.com/alonrbar/easy-template-x).
+
+### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@connectrpc/connect-web (⭐1.5k)](https://github.com/connectrpc/connect-es/tree/main/packages/connect-web) - [Connect](https://connectrpc.com/) is a family of libraries for building and consuming APIs on different languages and platforms. [@connectrpc/connect](https://www.npmjs.com/package/@connectrpc/connect) brings type-safe APIs with Protobuf to TypeScript. `@connectrpc/connect-web` provides adapters for web browsers.  See this [example (⭐140)](https://github.com/connectrpc/examples-es/tree/main/angular) to integrate Connect with Angular.
+
+### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [tldraw-web-component (⭐3)](https://github.com/neosh11/tldraw-web-component) - Make [tldraw (⭐39k)](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
+
+### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
+
+### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [mTruncate (⭐1)](https://github.com/MomenWalid/Truncate) - A lightweight and customizable Angular directive for truncating text with support for tooltips.
+
+### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-draggable-widget-kama (⭐1)](https://github.com/KAMAELUA/ngx-draggable-widget-kama) - Reworked [ngx-draggable-widget (⭐36)](https://github.com/arup-banerjee/ngx-draggable-widget) for better support.
+
+### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ic-on](https://www.npmjs.com/package/@ic-on/main) - The future of iconing.
+
+### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-bladex (⭐2)](https://github.com/karnavpargi/ngx-bladex) - A simplistic blade component for Angular with minimize/maximize and a close button.
+
+### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [yaagoub](https://yaagoub.org/) - Accelerate your development with decorators, directives, icons, services, and OAuth 2.0.
+
+### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [toastify (⭐2)](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.
+
+### Bootstrap Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Elementar UI](https://elementarui.com/) - Fully open-source Angular UI Components & Admin Panel based on Material 3 and Tailwind.
+
+### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-tailwind-ui (⭐1)](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
+
+### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [transform.tools](https://transform.tools/json-to-typescript) - Save a lot of time typing API responses with this JSON to TypeScript converter.
+
 ## [Mar 22, 2025](/content/2025/03/22/README.md)
 
 ### Feature Flags / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -1152,9 +1222,9 @@
 ### Module Federation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@module-federation/core (⭐1.8k)](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications.
-*   [webpack-module-federation-with-angular (⭐25)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
-*   [vite-module-federation-angular-test (⭐1)](https://github.com/Seifenn/vite-module-federation-angular-test) - This repository tests the [@module-federation/vite (⭐407)](https://github.com/module-federation/vite) with Angular and AnalogJS, based on the work done in [brandonroberts/angular-vite (⭐10)](https://github.com/brandonroberts/angular-vite). It also tests a host with AnalogJS to test SSR. But now the module federation plugin is not compatible with SSR.
-*   [angular-microfrontend-demo (⭐2)](https://github.com/gioboa/angular-microfrontend-demo) - Module Federation Vite + Angular is now possible.
+*   [webpack-module-federation-with-angular (⭐26)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
+*   [vite-module-federation-angular-test (⭐1)](https://github.com/Seifenn/vite-module-federation-angular-test) - This repository tests the [@module-federation/vite (⭐419)](https://github.com/module-federation/vite) with Angular and AnalogJS, based on the work done in [brandonroberts/angular-vite (⭐10)](https://github.com/brandonroberts/angular-vite). It also tests a host with AnalogJS to test SSR. But now the module federation plugin is not compatible with SSR.
+*   [angular-microfrontend-demo (⭐3)](https://github.com/gioboa/angular-microfrontend-demo) - Module Federation Vite + Angular is now possible.
 *   [mfe-crossframework (⭐1)](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular Host, Cross-framework remotes and without Nx.
 *   [backbase-micro-frontends (⭐1)](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.
 
@@ -1249,12 +1319,6 @@
 *   [ngx-smart-cropper (⭐4)](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
 
 ## [Dec 10, 2024](/content/2024/12/10/README.md)
-
-### Seasonal
-
-*   [Angular Christmas Calendar](https://angularchristmascalendar.com/)
-*   [Angular Love Advent Calendar](https://advent.angular.love/event)
-*   [Advent of TypeScript](https://www.adventofts.com/)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

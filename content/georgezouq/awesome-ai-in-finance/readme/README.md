@@ -73,8 +73,8 @@ With the power of the latest artificial intelligence research, people analyze & 
 *   [Advances in Financial Machine Learning](https://www.amazon.com/Advances-Financial-Machine-Learning-Marcos-ebook/dp/B079KLDW21/ref=sr_1_1?s=books\&ie=UTF8\&qid=1541717436\&sr=1-1) - Using advanced ML solutions to overcome real-world investment problems.
 *   [Build Financial Software with Generative AI](https://www.manning.com/books/build-financial-software-with-generative-ai?ar=false\&lpse=B&) - Book about how to build financial software hands-on using generative AI tools like ChatGPT and Copilot.
 *   [Mastering Python for Finance (⭐416)](https://github.com/jamesmawm/mastering-python-for-finance-second-edition) - Sources codes for: Mastering Python for Finance, Second Edition.
-*   [MLSys-NYU-2022 (⭐426)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-*   [Train and Deploy a Serverless API to predict crypto prices (⭐800)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
+*   [MLSys-NYU-2022 (⭐435)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [Train and Deploy a Serverless API to predict crypto prices (⭐808)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - In this tutorial you won't build an ML system that will make you rich. But you will master the MLOps frameworks and tools you need to build ML systems that, together with tons of experimentation, can take you there.
 
 ## Strategies & Research
 
@@ -96,7 +96,7 @@ Price and Volume process with Technology Analysis Indices
 *   [zenbrain (⭐47)](https://github.com/carlos8f/zenbrain) - A framework for machine-learning bots.
 *   [DeepLearningNotes (⭐370)](https://github.com/AlphaSmartDog/DeepLearningNotes) - Machine learning in quant analysis.
 *   [stock\_market\_reinforcement\_learning (⭐795)](https://github.com/kh-kim/stock_market_reinforcement_learning) - Stock market trading OpenAI Gym environment with Deep Reinforcement Learning using Keras.
-*   [Chaos Genius (⭐749)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
+*   [Chaos Genius (⭐752)](https://github.com/chaos-genius/chaos_genius) - ML powered analytics engine for outlier/anomaly detection and root cause analysis..
 *   [mlforecast (⭐974)](https://github.com/Nixtla/mlforecast) - Scalable machine learning based time series forecasting.
 
 ### Portfolio Management
@@ -162,6 +162,7 @@ Price and Volume process with Technology Analysis Indices
 *   🌟 [Quandl](https://www.quandl.com/tools/api) - Get millions of financial and economic dataset from hundreds of publishers via a single free API.
 *   [yahoo-finance (⭐1.4k)](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 *   [Tushare (⭐13k)](https://github.com/waditu/tushare) - Crawling historical data of Chinese stocks.
+*   [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
 
 #### Crypto Currencies
 

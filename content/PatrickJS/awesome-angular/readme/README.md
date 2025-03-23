@@ -31,7 +31,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
     *   [Community](#community)
         *   [Newsletters](#newsletters)
         *   [Podcasts](#podcasts)
-        *   [Seasonal](#seasonal)
+        *   [Bluesky](#bluesky)
         *   [X](#x)
             *   [angular-team](#angular-team)
             *   [experts](#experts)
@@ -192,11 +192,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Angular Catch Up](https://angular-catch-up.podbean.com/)
 *   [Angularidades](https://podcasts.apple.com/us/podcast/angularidades/id1702444448) - (Spanish)
 
-##### Seasonal
+##### Bluesky
 
-*   [Angular Christmas Calendar](https://angularchristmascalendar.com/)
-*   [Angular Love Advent Calendar](https://advent.angular.love/event)
-*   [Advent of TypeScript](https://www.adventofts.com/)
+*   [Angular Starter Pack by @brandonroberts.dev](https://bsky.app/starter-pack/brandonroberts.dev/3l7lzgkwkqu2n)
 
 ##### X
 
@@ -337,6 +335,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**
 *   [Micro Frontends and Moduliths with Angular](https://www.angulararchitects.io/en/ebooks/micro-frontends-and-moduliths-with-angular/) - `Manfred Steyer` **FREE**
 *   [Angular Mastery](https://christianlydemann.com/angular-mastery-book/) - `CHRISTIAN LÜDEMANN` **FREE**
+*   [Enterprise Monorepo Angular Patterns](https://go.nx.dev/angular-patterns-ebook) - `Nx Core Team` **FREE**
 
 ##### Certification
 
@@ -490,6 +489,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
 *   [UI2CODE](https://ui2code.ai/) - UI to Code Converter in seconds with AI.
 *   [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular Application UIs 50% faster with PureCode AI.
+*   [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 
 #### Analytics
 
@@ -581,6 +581,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-stylesweep (⭐7)](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
 *   [ng-chrome-extension (⭐183)](https://github.com/larscom/ng-chrome-extension) - Easily create Angular Chrome Extensions (manifest v3).
 *   [ngx-devs-cli (⭐5)](https://github.com/ngx-devs/ngx-devs-cli) - Command-line interface (CLI) built in Node.js allow you to automate repetitive tasks and make your life easier when working with Angular projects.
+*   [firebase-framework-tools (⭐306)](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI (⭐4.1k)](https://github.com/firebase/firebase-tools/) to add web framework support.
 
 #### Deployment
 
@@ -650,6 +651,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [docgeni (⭐198)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 *   [trakk.js (⭐3)](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
 *   [ng-component-hierarchy-visualizer (⭐4)](https://github.com/timonkrebs/ng-component-hierarchy-visualizer) - A non invasive tool to generate Mermaid representations of your Angular component hierarchy representation based on the route configurations.
+*   [easy-template-x-angular-expressions (⭐7)](https://github.com/alonrbar/easy-template-x-angular-expressions) - Angular expressions support for [easy-template-x (⭐424)](https://github.com/alonrbar/easy-template-x).
 
 #### Feature Flags
 
@@ -728,6 +730,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-http-helper (⭐1)](https://github.com/InnovA2/ngx-http-helper) - A lightweight library to easily call your APIs and add JWT token or API key on each header request.
 *   [mbo-ez-angular-ez-http-client (⭐3)](https://github.com/morganbourse/mbo-ez-angular-ez-http-client) - An ez Angular HTTP client inspired by Java [OpenFeign (⭐9.6k)](https://github.com/OpenFeign/feign) Client.
 *   [ngx-sse-client (⭐28)](https://github.com/marcospds/ngx-sse-client) - A simple **SSE** (Server Sent Events) client for Angular applications to replace the use of `EventSource`.
+*   [@connectrpc/connect-web (⭐1.5k)](https://github.com/connectrpc/connect-es/tree/main/packages/connect-web) - [Connect](https://connectrpc.com/) is a family of libraries for building and consuming APIs on different languages and platforms. [@connectrpc/connect](https://www.npmjs.com/package/@connectrpc/connect) brings type-safe APIs with Protobuf to TypeScript. `@connectrpc/connect-web` provides adapters for web browsers.  See this [example (⭐140)](https://github.com/connectrpc/examples-es/tree/main/angular) to integrate Connect with Angular.
 
 #### Integrations
 
@@ -831,15 +834,16 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-translate-db (⭐1)](https://github.com/kinleyrabgay/ngx-translate-db) - A lightweight, efficient Angular translation library that uses IndexedDB for offline storage. Perfect for applications that need to handle translations without network dependency.
 *   [ngx-glagolize (⭐0)](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
 *   [locale-translator (⭐1)](https://github.com/andreasnicolaou/locale-translator) - Translate any locale with the provided pipe or service.
+*   [tldraw-web-component (⭐3)](https://github.com/neosh11/tldraw-web-component) - Make [tldraw (⭐39k)](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
 
 #### Module Federation
 
 *   [@module-federation/core (⭐1.8k)](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications.
 *   [ng-dynamic-mf (⭐9)](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
 *   [module-federation-plugin (⭐763)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
-*   [webpack-module-federation-with-angular (⭐25)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
-*   [vite-module-federation-angular-test (⭐1)](https://github.com/Seifenn/vite-module-federation-angular-test) - This repository tests the [@module-federation/vite (⭐407)](https://github.com/module-federation/vite) with Angular and AnalogJS, based on the work done in [brandonroberts/angular-vite (⭐10)](https://github.com/brandonroberts/angular-vite). It also tests a host with AnalogJS to test SSR. But now the module federation plugin is not compatible with SSR.
-*   [angular-microfrontend-demo (⭐2)](https://github.com/gioboa/angular-microfrontend-demo) - Module Federation Vite + Angular is now possible.
+*   [webpack-module-federation-with-angular (⭐26)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
+*   [vite-module-federation-angular-test (⭐1)](https://github.com/Seifenn/vite-module-federation-angular-test) - This repository tests the [@module-federation/vite (⭐419)](https://github.com/module-federation/vite) with Angular and AnalogJS, based on the work done in [brandonroberts/angular-vite (⭐10)](https://github.com/brandonroberts/angular-vite). It also tests a host with AnalogJS to test SSR. But now the module federation plugin is not compatible with SSR.
+*   [angular-microfrontend-demo (⭐3)](https://github.com/gioboa/angular-microfrontend-demo) - Module Federation Vite + Angular is now possible.
 *   [mfe-crossframework (⭐1)](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular Host, Cross-framework remotes and without Nx.
 *   [backbase-micro-frontends (⭐1)](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.
 
@@ -1111,6 +1115,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [@schedule-x/angular (⭐1.6k)](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 *   [angular-calendar-timeline (⭐16)](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
 *   [ngx-resource-calendar (⭐4)](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
+*   [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
 
 #### Captcha
 
@@ -1278,6 +1283,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-copy-to-clipboard (⭐2)](https://github.com/andreasnicolaou/ngx-copy-to-clipboard) - an Angular directive that enables easy text copying to the clipboard with a single click. It supports customizable success/error messages and triggers events on copy actions.
 *   [ng-click-outside (⭐13)](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
 *   [ngx-search-pipe (⭐1)](https://github.com/paulotokarskiglinski/ngx-search-pipe) - A search pipe for Angular that filters a collection of objects based on a specified search term, designed to work seamlessly with signals.
+*   [mTruncate (⭐1)](https://github.com/MomenWalid/Truncate) - A lightweight and customizable Angular directive for truncating text with support for tooltips.
 
 #### Drag and Drop
 
@@ -1293,6 +1299,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-draggable-dom (⭐4)](https://github.com/bmartinson/ngx-draggable-dom) - Angular attribute directive that causes any element to become a draggable element.
 *   [ngx-drag-resize (⭐9)](https://github.com/dmytro-parfenov/ngx-drag-resize) - This Angular library provides directives that add drag and resize functionality to HTML elements.
 *   [ng-keyboard-sort (⭐3)](https://github.com/johnhwhite/ng-keyboard-sort) - Library to add keyboard commands for elements that also use CDK drag and drop sorting.
+*   [ngx-draggable-widget-kama (⭐1)](https://github.com/KAMAELUA/ngx-draggable-widget-kama) - Reworked [ngx-draggable-widget (⭐36)](https://github.com/arup-banerjee/ngx-draggable-widget) for better support.
 
 #### Editor Components
 
@@ -1471,6 +1478,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [lucide (⭐16k)](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an official [package](https://lucide.dev/guide/packages/lucide-angular).
 *   [@ngverse/icons (⭐9)](https://github.com/ngverse/icons) - Angular library that allows you to use popular open-source icons as regular components.
 *   [angular-phosphor-icons (⭐2)](https://github.com/aromero86/angular-phosphor-icons) - Set of components designed for utilizing [Phosphor Icons](https://phosphoricons.com/) in Angular via directives.
+*   [ic-on](https://www.npmjs.com/package/@ic-on/main) - The future of iconing.
 
 #### Images
 
@@ -1521,6 +1529,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-van (⭐1)](https://github.com/otodockal/ngx-van) - Tiny replacement for HTML nav element with mobile side nav menu built-in. Good old nav element on desktop, sliding side nav on mobile. No duplication.
 *   [ngx-swipe-menu (⭐1)](https://github.com/charlesschaefer/ngx-swipe-menu) - A component to create "swipe left to 'action'" experiences.
 *   [ng-simple-sidebar (⭐7)](https://github.com/secanis/ng-simple-sidebar) - A simple Angular component to generate a sidebar with a hamburger menu.
+*   [ngx-bladex (⭐2)](https://github.com/karnavpargi/ngx-bladex) - A simplistic blade component for Angular with minimize/maximize and a close button.
 
 #### Loaders
 
@@ -1640,6 +1649,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-signals-plus (⭐1)](https://github.com/dszendrei/ngx-signals-plus) - Additional Signals to improve developer experience.
 *   [ngx-kit (⭐2)](https://github.com/almazrpe/ngx-kit) - Utilities for Angular Framework.
 *   [ng-tool-collection (⭐1)](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
+*   [yaagoub](https://yaagoub.org/) - Accelerate your development with decorators, directives, icons, services, and OAuth 2.0.
 
 #### Modals
 
@@ -1669,6 +1679,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-fast-toast (⭐2)](https://github.com/rperezll/ng-fast-toast) - A fast and lightweight library for Angular 18+, also compatible with Ionic projects (based on Angular), that makes handling alerts and notifications effortless. Styled with Tailwind, but built for production with a fully agnostic approach using Shadow DOM.
 *   [notifyx (⭐1)](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
 *   [web-notifier (⭐1)](https://github.com/andreasnicolaou/web-notifier) - A lightweight and flexible web notification library that provides a simple API for handling browser notifications using RxJS observables.
+*   [toastify (⭐2)](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.
 
 #### Printing
 
@@ -1915,6 +1926,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-bootstrap-components (⭐2)](https://github.com/dotted-labs/ngx-bootstrap-components) - This library provides a set of Angular components integrated with Bootstrap, designed to be used with Angular's latest features like signals and the OnPush change detection strategy. The components are standalone, meaning they can be imported directly without the need for an encompassing Angular module.
 *   [yoozsoft](https://www.yoozsoft.com/ys-ng/home) - Widgets built using Bootstrap 5, CSS, and NG Bootstrap 17 with APIs designed for the Angular ecosystem.
 *   [ngx-gccb](https://www.npmjs.com/package/ngx-gccb) - Angular 19+ component library providing ease of use shared components, directives, pipes and services.  Check this [showcase](https://ngx-gccb.netlify.app/) for code snippets.
+*   [Elementar UI](https://elementarui.com/) - Fully open-source Angular UI Components & Admin Panel based on Material 3 and Tailwind.
 
 ##### Tailwind CSS Based
 
@@ -1928,6 +1940,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Mamba UI (⭐1.1k)](https://github.com/Microwawe/mamba-ui) - A free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 *   [FlyonUI (⭐1.8k)](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
 *   [zapui (⭐5)](https://github.com/zapuilib/zapui) - Build sleek, scalable, and cohesive Angular applications effortlessly with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
+*   [angular-tailwind-ui (⭐1)](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
 
 ##### Node Based
 
@@ -2076,6 +2089,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [type-fest (⭐15k)](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types. Either add the package as a dependency or copy-paste the needed types.
 *   [ts-serializer (⭐8)](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed Typescript classes.
 *   [tsconfig (⭐13)](https://github.com/smartrecruiters/tsconfig) - SmartRecruiters’ tsconfig contains all strict rules and improves your project type-safety.
+*   [transform.tools](https://transform.tools/json-to-typescript) - Save a lot of time typing API responses with this JSON to TypeScript converter.
 
 #### Inspired by Angular
 

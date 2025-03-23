@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Mar 23, 2025](/content/2025/03/23/README.md)
+
+### Domain Specific Language / Design Theory
+
+*   [Domain-Specific Modeling Languages: Requirements Analysis and Design Guidelines](https://link.springer.com/chapter/10.1007/978-3-642-36654-3_6) - ***Domain Engineering: Product Lines, Languages, and Conceptual Models***, 2013. \[[All Versions](https://scholar.google.com/scholar?cluster=15620404537599157753)]. In recent years, the development of domain-specific modeling languages has gained remarkable attention. This is for good reasons. A domain-specific modeling language incorporates concepts that represent domain-level knowledge. Hence, systems analysts are not forced to reconstruct these concepts from scratch. At the same time, domain-specific modeling languages contribute to model integrity, because they include already constraints that would otherwise have to be added manually. Even though there has been a considerable amount of research on developing and using domain-specific modeling languages, there is still lack of comprehensive methods to guide the design of these languages. With respect to the complexity and risk related to developing a domain-specific modeling language, this is a serious shortfall. This chapter is aimed at a contribution to filling the gap. At first, it presents guidelines for selecting a metamodeling language. Its main focus is on supporting the process from analyzing requirements to specifying and evaluating a domain-specific modeling language.
+
 ## [Mar 17, 2025](/content/2025/03/17/README.md)
 
 ### Concepts / Human Concept Representation
@@ -712,7 +718,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Concepts / Human Concept Representation
 
-*   [Locating what comes to mind in empirically derived representational spaces](https://www.sciencedirect.com/science/article/pii/S001002772300183X) - ***Cognition***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=57834483230365927\&hl=en\&as_sdt=0,5)]. An evidence-based study concluding that people call category members to mind according to their location in representational space, specifically based on the predicted usefulness of considering category members with particular features.
+*   [Locating what comes to mind in empirically derived representational spaces](https://www.sciencedirect.com/science/article/pii/S001002772300183X) - ***Cognition***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=57834483230365927)]. An evidence-based study concluding that people call category members to mind according to their location in representational space, specifically based on the predicted usefulness of considering category members with particular features.
 
 ### Concepts / AI Concept Representation
 
@@ -929,7 +935,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Concepts / AI Concept Representation
 
-*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418\&hl=en\&as_sdt=0,5)]. \[[Code (⭐24)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. A Principal Odor Map (POM) that preserves perceptual relationships and enables odor quality prediction for novel odorants.
+*   [A principal odor map unifies diverse tasks in olfactory perception](https://www.science.org/doi/full/10.1126/science.ade4401) - ***Science***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17847258457660438418)]. \[[Code (⭐24)](https://github.com/osmoai/publications/tree/main/lee_et_al_2023)]. \[[Data (Reproduced)](https://www.kaggle.com/datasets/aryanamitbarsainyan/multi-labelled-smiles-odors-dataset)]. \[[Preprint](https://centaur.reading.ac.uk/113304/1/Mayhew%20et%20al%20for%20Centaur.pdf)]. \[[GoodScents Database](https://www.thegoodscentscompany.com/)]. \[[Leffingwell Database](http://www.leffingwell.com/bacispmp.htm)]. Mapping molecular structure to odor perception is a key challenge in olfaction. This work used graph neural networks to generate a principal odor map (POM) that preserves perceptual relationships and enables odor quality prediction for previously uncharacterized odorants. The model was as reliable as a human in describing odor quality: On a prospective validation set of 400 out-of-sample odorants, the model-generated odor profile more closely matched the trained panel mean than did the median panelist. By applying simple, interpretable, theoretically rooted transformations, the POM outperformed chemoinformatic models on several other odor prediction tasks, indicating that the POM successfully encoded a generalized map of structure-odor relationships. This approach broadly enables odor prediction and paves the way toward digitizing odors.
 
 ## [Nov 06, 2023](/content/2023/11/06/README.md)
 
@@ -948,7 +954,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Concepts / Human Concept Representation
 
-*   [The Database of Cross-Linguistic Colexifications, reproducible analysis of cross-linguistic polysemies](https://www.nature.com/articles/s41597-019-0341-x) - ***Scientific Data***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4039754406289857135\&hl=en\&as_sdt=0,5)]. \[[Project](https://clics.clld.org/)]. CLICS tackles interconnected interdisciplinary research questions about the colexifcation of words across semantic categories in the world’s languages, and show-cases best practices for preparing data for cross-linguistic research.
+*   [The Database of Cross-Linguistic Colexifications, reproducible analysis of cross-linguistic polysemies](https://www.nature.com/articles/s41597-019-0341-x) - ***Scientific Data***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=4039754406289857135)]. \[[Project](https://clics.clld.org/)]. Advances in computer-assisted linguistic research have been greatly influential in reshaping linguistic research. With the increasing availability of interconnected datasets created and curated by researchers, more and more interwoven questions can now be investigated. Such advances, however, are bringing high requirements in terms of rigorousness for preparing and curating datasets. This work presents CLICS, a Database of Cross-Linguistic Colexifications (CLICS). CLICS tackles interconnected interdisciplinary research questions about the colexifcation of words across semantic categories in the world’s languages, and show-cases best practices for preparing data for cross-linguistic research.
 
 ### Meta-Level Considerations / Cognitive Architecture
 
