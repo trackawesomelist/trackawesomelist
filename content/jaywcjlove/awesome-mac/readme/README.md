@@ -265,6 +265,7 @@ Any comments, suggestions? [Let us know! (⭐81k)](https://github.com/jaywcjlove
 *   [Doughnut](https://doughnutapp.com/) - Beautiful, open-source podcast catcher for Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dyerc/Doughnut)
 *   [ReadKit](http://readkitapp.com/) - Bookmark and RSS management client.
 *   [Reeder 5](http://reederapp.com) - News reader for Feedbin, Feedly, Feed Wrangler and so on. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/reeder-5/id1529448980?mt=12)
+*   [Unread](https://www.goldenhillsoftware.com/unread/) - RSS reader with beautiful typography that supports Feedbin, Feedly and so on. [![App Store][app-store Icon]](https://apps.apple.com/us/app/unread-an-rss-reader/id1363637349)
 *   [Vienna](http://viennarss.github.io/) - RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 
 ### Others
@@ -439,7 +440,7 @@ Any comments, suggestions? [Let us know! (⭐81k)](https://github.com/jaywcjlove
 *   [SmartGit](http://www.syntevo.com/smartgit/) - Git client with support.
 *   [SourceTree](https://www.sourcetreeapp.com/) - Free Git & Mercurial client for Windows or Mac. ![Freeware][Freeware Icon]
 *   [Sublime Merge](https://www.sublimemerge.com/) -  Git client, from the makers of Sublime Text.
-*   [Tempo (⭐5)](https://github.com/maoyama/Tempo) - GUI Git client. Replace the Git CLI with a clear UI and AI assist. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/maoyama/Tempo)
+*   [Tempo (⭐27)](https://github.com/maoyama/Tempo) - GUI Git client. Replace the Git CLI with a clear UI and AI assist. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/maoyama/Tempo)
 *   [Tower2](https://www.git-tower.com/) - The most powerful Git client for Mac and Windows.
 *   [Vershd](https://vershd.io/) - The free for personal use effortless Git GUI, for Windows, Mac, & Linux. ![Freeware][Freeware Icon]
 *   [Versions](https://www.versionsapp.com/) - Mac Subversion (SVN) Client.

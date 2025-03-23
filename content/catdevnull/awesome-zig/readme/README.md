@@ -283,6 +283,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 
 *   [darithorn/zig-toml (⭐117)](https://github.com/darithorn/zig-toml) - A TOML parser.
 *   [Himujjal/zig-json5 (⭐22)](https://github.com/Himujjal/zig-json5) - JSON5 parser resembling the `std.json` APIs.
+*   [EzequielRamis/zimdjson (⭐62)](https://github.com/EzequielRamis/zimdjson) - Parsing gigabytes of JSON per second. Zig port of simdjson with fundamental features.
 *   [chwayne/rem (⭐113)](https://github.com/chwayne/rem) - An HTML parsing library.
 *   [goto-bus-stop/ziguid (⭐7)](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
 *   [00JCIV00/cova (⭐120)](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.

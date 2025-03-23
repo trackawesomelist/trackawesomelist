@@ -12,6 +12,10 @@ A list of awesome projects related to Zig
 
 *   [six519/YieArKUNGFUZig (⭐4)](https://github.com/six519/YieArKUNGFUZig) - Yie Ar Kung-Fu clone with raylib.
 
+### Parser / Package managers
+
+*   [EzequielRamis/zimdjson (⭐62)](https://github.com/EzequielRamis/zimdjson) - Parsing gigabytes of JSON per second. Zig port of simdjson with fundamental features.
+
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Misc libraries

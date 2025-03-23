@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Mar 23, 2025](/content/2025/03/23/README.md)
+
+### Parser / Package managers
+
+*   [EzequielRamis/zimdjson (⭐62)](https://github.com/EzequielRamis/zimdjson) - Parsing gigabytes of JSON per second. Zig port of simdjson with fundamental features.
+
 ## [Mar 21, 2025](/content/2025/03/21/README.md)
 
 ### Games

@@ -8,6 +8,10 @@
 
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
+### Reading and Writing Tools / RSS
+
+*   [Unread](https://www.goldenhillsoftware.com/unread/) - RSS reader with beautiful typography that supports Feedbin, Feedly and so on. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/unread-an-rss-reader/id1363637349)
+
 ### Terminal Apps / Databases
 
 *   [electerm](https://electerm.github.io/electerm/) - A free, multi-platform Terminal and SSH/SFTP tool with a beautiful interface that is the perfect alternative to XShell for Windows! [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/electerm/electerm) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -34,7 +38,7 @@
 
 ### Developer Tools / Version Control
 
-*   [Tempo (⭐5)](https://github.com/maoyama/Tempo) - GUI Git client. Replace the Git CLI with a clear UI and AI assist. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/maoyama/Tempo)
+*   [Tempo (⭐27)](https://github.com/maoyama/Tempo) - GUI Git client. Replace the Git CLI with a clear UI and AI assist. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/maoyama/Tempo)
 
 ### Download Management Tools / Audio Record and Process
 

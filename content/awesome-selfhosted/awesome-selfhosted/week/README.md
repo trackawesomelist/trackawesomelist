@@ -8,6 +8,10 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
+### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [elixire](https://gitlab.com/elixire/elixire) - Simple yet advanced screenshot uploading and link shortening service. ([Clients](https://gitlab.com/elixire/elixiremanager)) `AGPL-3.0` `Python`
+
 ### Software / Maps and Global Positioning System (GPS)
 
 *   [wanderer (⭐1.8k)](https://github.com/Flomp/wanderer) - Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue. ([Demo](https://demo.wanderer.to)) `AGPL-3.0` `Docker/Go/Nodejs`
@@ -165,11 +169,11 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Automation
 
-*   [ChannelTube (⭐188)](https://github.com/TheWicklowWolf/ChannelTube) `⚠` - Download video or audio from YouTube channels on a schedule via yt-dlp. `AGPL-3.0` `Docker`
+*   [ChannelTube (⭐192)](https://github.com/TheWicklowWolf/ChannelTube) `⚠` - Download video or audio from YouTube channels on a schedule via yt-dlp. `AGPL-3.0` `Docker`
 
 ### Software / Feed Readers
 
-*   [Feeds Fun](https://feeds.fun/) - News reader with tags, scoring, and AI. ([Source Code (⭐84)](https://github.com/Tiendil/feeds.fun)) `BSD-3-Clause` `Python`
+*   [Feeds Fun](https://feeds.fun/) - News reader with tags, scoring, and AI. ([Source Code (⭐106)](https://github.com/Tiendil/feeds.fun)) `BSD-3-Clause` `Python`
 
 ### Software / Pastebins
 
@@ -177,8 +181,8 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Task Management & To-do Lists
 
-*   [4ga Boards](https://4gaboards.com) - Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity. ([Demo](https://demo.4gaboards.com), [Source Code (⭐95)](https://github.com/RARgames/4gaBoards)) `MIT` `Nodejs/Docker/K8S`
-*   [Tegon](https://tegon.ai) `⚠` - Dev-first issue tracking tool (alternative to Jira, Linear). ([Source Code (⭐1.7k)](https://github.com/tegonhq/tegon)) `AGPL-3.0` `Docker`
+*   [4ga Boards](https://4gaboards.com) - Straightforward realtime kanban boards management for intuitive task tracking. Featuring an elegant dark mode, collapsible todo lists, and multitasking tools to supercharge your team's productivity. ([Demo](https://demo.4gaboards.com), [Source Code (⭐129)](https://github.com/RARgames/4gaBoards)) `MIT` `Nodejs/Docker/K8S`
+*   [Tegon](https://tegon.ai) `⚠` - Dev-first issue tracking tool (alternative to Jira, Linear). ([Source Code (⭐1.8k)](https://github.com/tegonhq/tegon)) `AGPL-3.0` `Docker`
 
 ### Software / Time Tracking
 
@@ -626,7 +630,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Games
 
-*   [OpenTTD](https://www.openttd.org/) - Open source transport tycoon simulation game. ([Source Code (⭐6.7k)](https://github.com/OpenTTD/OpenTTD), [Clients](https://bananas.openttd.org/)) `GPL-2.0` `C++/Docker`
+*   [OpenTTD](https://www.openttd.org/) - Open source transport tycoon simulation game. ([Source Code (⭐6.8k)](https://github.com/OpenTTD/OpenTTD), [Clients](https://bananas.openttd.org/)) `GPL-2.0` `C++/Docker`
 
 ### Software / Inventory Management
 
@@ -692,7 +696,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Pinepods](https://www.pinepods.online/) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. ([Demo](https://try.pinepods.online), [Source Code (⭐360)](https://github.com/madeofpendletonwool/PinePods)) `GPL-3.0` `Docker`
+*   [Pinepods](https://www.pinepods.online/) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. ([Demo](https://try.pinepods.online), [Source Code (⭐372)](https://github.com/madeofpendletonwool/PinePods)) `GPL-3.0` `Docker`
 
 ### Software / Office Suites
 
@@ -1047,7 +1051,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Low Code
 
-*   [Dashpress (⭐1.9k)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. ([Demo](https://demo.dashpress.io/auth)) `AGPL-3.0` `Nodejs/Docker`
+*   [Dashpress (⭐1.9k)](https://github.com/dashpresshq/dashpress) - Generate fully functional admin apps in seconds from your database information, with a single command. `AGPL-3.0` `Nodejs/Docker`
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
 
@@ -1146,7 +1150,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [Cerbos](https://cerbos.dev) - A self-hosted, open source user authorization layer for your applications. ([Demo](https://play.cerbos.dev), [Source Code (⭐3.7k)](https://github.com/cerbos/cerbos)) `Apache-2.0` `Go/deb/Docker/K8S`
 *   [Watcharr (⭐699)](https://github.com/sbondCo/Watcharr) - A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
 
 ### Software / Software Development - Project Management
@@ -1384,7 +1387,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Money, Budgeting & Management
 
-*   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code (⭐613)](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
+*   [Bitcart](https://bitcart.ai) - A self-hosted cryptocurrencies payment processor and development platform. ([Demo](https://admin.bitcart.ai), [Source Code (⭐622)](https://github.com/bitcart/bitcart)) `MIT` `Docker/Python/Nodejs`
 *   [Kill Bill](https://killbill.io/) - Open-Source Subscription Billing & Payments Platform. Have access to real-time analytics and financial reports. ([Source Code (⭐4.8k)](https://github.com/killbill/killbill)) `Apache-2.0` `Java/Docker`
 *   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐632)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
 
@@ -2824,7 +2827,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / E-commerce
 
 *   [Aimeos](https://aimeos.org/) - Ultra fast, Open Source e-commerce framework for building custom online shops, market places and complex B2B applications scaling to billions of items with Laravel. ([Demo](https://demo.aimeos.org/), [Source Code (⭐4.4k)](https://github.com/aimeos/aimeos)) `LGPL-3.0/MIT` `PHP`
-*   [Bagisto](https://bagisto.com/en/) - Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ([Demo](https://demo.bagisto.com/), [Source Code (⭐17k)](https://github.com/bagisto/bagisto)) `MIT` `PHP`
+*   [Bagisto](https://bagisto.com/en/) - Leading Laravel open source e-commerce framework with multi-inventory sources, taxation, localization, dropshipping and more exciting features. ([Demo](https://demo.bagisto.com/), [Source Code (⭐18k)](https://github.com/bagisto/bagisto)) `MIT` `PHP`
 *   [CoreShop](https://www.coreshop.org) - CoreShop is an e-commerce plugin for Pimcore. ([Source Code (⭐284)](https://github.com/coreshop/CoreShop)) `GPL-3.0` `PHP`
 *   [Drupal Commerce](https://drupalcommerce.org) - Drupal Commerce is a popular e-commerce module for Drupal CMS, with support for dozens of payment, shipping, and shopping related modules. ([Source Code](https://git.drupalcode.org/project/commerce)) `GPL-2.0` `PHP`
 *   [Microweber](https://microweber.com/) - Drag and Drop CMS and online shop. ([Source Code (⭐3.2k)](https://github.com/microweber/microweber)) `Apache-2.0` `PHP`
@@ -2990,7 +2993,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Conference Management
 
-*   [Conference Organizing Distribution (COD)](http://usecod.com/) - Create conference and event websites built on top of Drupal. ([Source Code](https://git.drupalcode.org/project/cod)) `GPL-2.0` `PHP`
 *   [osem](https://osem.io/) - Event management tailored to free Software conferences. ([Source Code (⭐885)](https://github.com/openSUSE/osem)) `MIT` `Ruby/Docker`
 
 ### Software / Content Management Systems (CMS)
@@ -3156,7 +3158,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code](https://codeberg.org/Inboxen/Inboxen)) `GPL-3.0` `Python`
 *   [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code (⭐14k)](https://github.com/mail-in-a-box/mailinabox)) `CC0-1.0` `Shell`
-*   [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code (⭐5.5k)](https://github.com/simple-login/app)) `MIT` `Docker/Python`
+*   [SimpleLogin](https://simplelogin.io) - Open source email alias solution to protect your email address. Comes with browser extensions and mobile apps. ([Source Code (⭐5.6k)](https://github.com/simple-login/app)) `MIT` `Docker/Python`
 
 ### Software / Communication - IRC
 
@@ -3335,7 +3337,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### External Links / Wikis
 
-*   Other Awesome lists: [Awesome Big Data (⭐13k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐62k)](https://github.com/awesomedata/awesome-public-datasets)
+*   Other Awesome lists: [Awesome Big Data (⭐13k)](https://github.com/0xnr/awesome-bigdata), [Awesome Public Datasets (⭐63k)](https://github.com/awesomedata/awesome-public-datasets)
 *   [Track Awesome Selfhosted](https://www.trackawesomelist.com/awesome-selfhosted/awesome-selfhosted/) - Get the latest updates of awesome-selfhosted.
 
 ## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
@@ -3359,7 +3361,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Games
 
 *   [The Battle for Wesnoth (⭐5.8k)](https://github.com/wesnoth/wesnoth) - The Battle for Wesnoth is an Open Source, turn-based tactical strategy game with a high fantasy theme, featuring both singleplayer and online/hotseat multiplayer combat. `GPL-2.0` `C++/deb`
-*   [Zero-K](https://zero-k.info/) - Open Source on Springrts engine. Zero-K is a traditional real time strategy game with a focus on player creativity through terrain manipulation, physics, and a large roster of unique units - all while being balanced to support competitive play. ([Source Code (⭐710)](https://github.com/ZeroK-RTS/Zero-K)) `GPL-2.0` `Lua`
+*   [Zero-K](https://zero-k.info/) - Open Source on Springrts engine. Zero-K is a traditional real time strategy game with a focus on player creativity through terrain manipulation, physics, and a large roster of unique units - all while being balanced to support competitive play. ([Source Code (⭐712)](https://github.com/ZeroK-RTS/Zero-K)) `GPL-2.0` `Lua`
 
 ### Software / Internet of Things (IoT)
 
@@ -3585,7 +3587,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Polls and Events
 
-*   [Mobilizon](https://mobilizon.org) - A federated tool that helps you find, create and organise events and groups. ([Demo](https://demo.mobilizon.org/), [Source Code](https://framagit.org/framasoft/mobilizon/)) `GPL-3.0` `Elixir/Docker`
+*   [Mobilizon](https://mobilizon.org) - A federated tool that helps you find, create and organise events and groups. ([Source Code](https://framagit.org/framasoft/mobilizon/)) `GPL-3.0` `Elixir/Docker`
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
@@ -3760,7 +3762,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Resource Planning
 
-*   [OFBiz](https://ofbiz.apache.org/) - Enterprise Resource Planning system with a suite of business applications flexible enough to be used across any industry. ([Source Code](https://svn.apache.org/viewvc/ofbiz/)) `Apache-2.0` `Java`
+*   [OFBiz](https://ofbiz.apache.org/) - Enterprise Resource Planning system with a suite of business applications flexible enough to be used across any industry. ([Source Code (⭐866)](https://github.com/apache/ofbiz-framework)) `Apache-2.0` `Java`
 
 ## [Apr 13 - Apr 19, 2020](/content/2020/15/README.md)
 
@@ -3812,7 +3814,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Conference Management
 
-*   [indico](https://getindico.io/) - A feature-rich event management system, made @ CERN, the place where the Web was born. ([Demo](https://sandbox.getindico.io/), [Source Code (⭐1.8k)](https://github.com/indico/indico)) `MIT` `Python`
+*   [indico](https://getindico.io/) - A feature-rich event management system, made @ CERN, the place where the Web was born. ([Demo](https://sandbox.getindico.io/), [Source Code (⭐1.9k)](https://github.com/indico/indico)) `MIT` `Python`
 
 ### Software / Document Management - E-books
 
@@ -3987,10 +3989,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Syndie](https://syndie.de) - Syndie is a libre system for operating distributed forums. `CC0-1.0` `Java`
 
-### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [elixire](https://elixi.re) - Simple yet advanced screenshot uploading and link shortening service. ([Source Code](https://gitlab.com/elixire/elixire), [Clients](https://gitlab.com/elixire/elixiremanager)) `AGPL-3.0` `Python`
-
 ### Software / URL Shorteners
 
 *   [Simple-URL-Shortener (⭐49)](https://github.com/azlux/Simple-URL-Shortener) - KISS URL shortener, public or private (with account). Minimalist and lightweight. No dependencies. ([Demo](https://u.azlux.fr)) `MIT` `PHP`
@@ -4050,7 +4048,7 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Communication - Social Networks and Forums
 
 *   [BuddyPress](https://buddypress.org/about/) - Powerful plugin that takes your WordPress.org powered site beyond the blog with social-network features like user profiles, activity streams, user groups, and more. ([Source Code (⭐230)](https://github.com/buddypress/BuddyPress)) `GPL-2.0` `PHP`
-*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐366)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
+*   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐367)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
 
 ## [May 13 - May 19, 2019](/content/2019/19/README.md)
 
@@ -4423,7 +4421,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [DomainMOD](https://domainmod.org) - Application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code (⭐510)](https://github.com/domainmod/domainmod)) `GPL-3.0` `PHP`
 *   [google-webfonts-helper (⭐12k)](https://github.com/majodev/google-webfonts-helper) `⚠` - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://gwfh.mranftl.com/fonts)) `MIT` `Nodejs`
 
 ### Software / Money, Budgeting & Management
