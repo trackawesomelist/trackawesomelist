@@ -306,6 +306,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### Human Resources
 
 *   [TalentoHQ](https://talentohq.com/) 🇪🇸 - Talent management and human resources solution.
+*   [Bordful](https://bordful.com) 🇱🇹 - Open source job board software built with Next.js and Airtable.
 
 ### IDEs
 

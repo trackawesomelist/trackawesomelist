@@ -6,6 +6,12 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [Mar 24, 2025](/content/2025/03/24/README.md)
+
+### Index / Human Resources
+
+*   [Bordful](https://bordful.com) 🇱🇹 - Open source job board software built with Next.js and Airtable.
+
 ## [Mar 22, 2025](/content/2025/03/22/README.md)
 
 ### Index / VPS

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Mar 24, 2025](/content/2025/03/24/README.md)
+
+### Utilities / Productivity
+
+*   [Focus Firewall](https://focusfirewall.com) - A minimalist focus app to block social media and other distractions during work. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](\[https://apps.apple.com/app/apple-store/id6476942786?pt=124015613\&ct=awesome-mac\&mt=8]\(https://apps.apple.com/app/apple-store/id6476942786?pt=124015613\&ct=awesome-mac\&mt=8\))
+
 ## [Mar 23, 2025](/content/2025/03/23/README.md)
 
 ### Reading and Writing Tools / RSS
