@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)
+
+### Marks / Diagnostics
+
+*   [mohseenrm/marko.nvim (⭐4)](https://github.com/mohseenrm/marko.nvim) - Behind the scenes, global marks management for different projects.
+
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
 ### Programming Languages Support / Diagnostics

@@ -438,6 +438,7 @@ Collections of awesome neovim plugins.
 *   [zongben/navimark.nvim (⭐14)](https://github.com/zongben/navimark.nvim) - An easy and powerful bookmark manager with telescope.
 *   [francescarpi/buffon.nvim (⭐10)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
 *   [Beargruug/skipper.nvim (⭐2)](https://github.com/Beargruug/skipper.nvim/) - Jump between functions in a file with ease.
+*   [mohseenrm/marko.nvim (⭐4)](https://github.com/mohseenrm/marko.nvim) - Behind the scenes, global marks management for different projects.
 
 <!--lint disable double-link -->
 
