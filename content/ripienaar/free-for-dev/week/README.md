@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)
+
+### Storage and Media Processing
+
+*   [QRME.SH](https://qrme.sh) - Fast, beautiful bulk QR code generator – no login, no watermark, no ads. Up to 100 URLs per bulk export.
+
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
 ### PaaS

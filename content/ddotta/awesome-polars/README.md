@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Mar 25, 2025](/content/2025/03/25/README.md)
+
+### Libraries/Packages/Scripts / Polars plugins
+
+*   [polars\_streaming\_csv\_decompression (⭐10)](https://github.com/ghuls/polars_streaming_csv_decompression/) Polars IO plugin for reading compressed CSV/TSV files in a streaming fashion by [@ghuls](https://github.com/ghuls).
+
 ## [Mar 21, 2025](/content/2025/03/21/README.md)
 
 ### Tools build with Polars / Ruby
