@@ -6,6 +6,12 @@
 
 [ [Daily](/content/woop/awesome-quantified-self/README.md) / Weekly / [Overview](/content/woop/awesome-quantified-self/readme/README.md) ]
 
+## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)
+
+### Applications and Platforms / Wealth
+
+*   [Just Simple Finance](https://www.justsimple.finance) - An easy-to-use personal finance app (iOS and Android).
+
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
 ### Open Source Projects / Wealth

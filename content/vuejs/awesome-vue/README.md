@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Mar 25, 2025](/content/2025/03/25/README.md)
+
+### Components & Libraries / UI Components
+
+*   [Vue Markdown (⭐0)](https://github.com/litingyes/vue-markdown) - The vue component for render Markdown string, supports custom rendering of specific node types and better adapts to AI Chat Stream.
+
 ## [Mar 19, 2025](/content/2025/03/19/README.md)
 
 ### Components & Libraries / Frameworks
@@ -278,7 +284,7 @@
 
 ### Components & Libraries / Scaffold
 
-*   [Vite (⭐71k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+*   [Vite (⭐72k)](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 
 ## [May 07, 2024](/content/2024/05/07/README.md)
 
@@ -572,7 +578,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-maplibre-gl (⭐92)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
-*   [Everright-formEditor (⭐473)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐476)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ## [Feb 27, 2023](/content/2023/02/27/README.md)
 
@@ -881,7 +887,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Bagisto (⭐17k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
+*   [Bagisto (⭐18k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 
 ### Components & Libraries / Frameworks
 
@@ -2296,7 +2302,7 @@
 *   [D2 Admin (⭐13k)](https://github.com/d2-projects/d2-admin) - An elegant backstage template build by vue [Online Demo](https://d2admin.fairyever.com)
 *   [Vue Material Admin (⭐2.3k)](https://github.com/tookit/vue-material-admin) - A vue material design admin template [Online Demo](http://vma.isocked.com/#/dashboard)
 *   [dashboard (⭐555)](https://github.com/zce/dashboard) - A dashboard scaffolding based on vue.js created by vuejs/vue-cli 4.x. [Online Demo](https://dashboard.zce.me)
-*   [Nuxt.js (⭐56k)](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
+*   [Nuxt.js (⭐57k)](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework.
 *   [VuePress (⭐23k)](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
 
 ### Components & Libraries / UI Layout
@@ -2607,7 +2613,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [DataFormsJS (⭐192)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐194)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 
 ## [Feb 29, 2020](/content/2020/02/29/README.md)
 
@@ -3098,7 +3104,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Socialhome (⭐366)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐367)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ## [Apr 28, 2018](/content/2018/04/28/README.md)
 
@@ -3730,4 +3736,4 @@
 
 ### Resources / Official Examples
 
-*   [Vue.js TodoMVC (⭐208k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
+*   [Vue.js TodoMVC (⭐209k)](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
