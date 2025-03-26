@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Mar 26, 2025](/content/2025/03/26/README.md)
+
+### Go Tools / Libraries for creating HTTP middlewares
+
+*   [go-template-playground](https://bartventer.github.io/go-template-playground/) - An interactive environment to create and test Go templates.
+
 ## [Mar 24, 2025](/content/2025/03/24/README.md)
 
 ### Go Compilers
@@ -123,7 +129,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Server Applications
 
-*   [wd-41](https://github.com/baalimago/wd-41) - A (w)eb (d)evelopment server with automatic live-reload on file changes.
+*   [wd-41 (⭐147)](https://github.com/baalimago/wd-41) - A (w)eb (d)evelopment server with automatic live-reload on file changes.
 
 ### Template Engines
 
@@ -970,7 +976,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [dsunit (⭐45)](https://github.com/viant/dsunit) - Datastore testing for SQL, NoSQL, structured files.
 *   [embedded-postgres (⭐915)](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
 *   [endly (⭐264)](https://github.com/viant/endly) - Declarative end to end functional testing.
-*   [fixenv](https://github.com/rekby/fixenv) - Fixture manage engine, inspired by pytest fixtures.
+*   [fixenv (⭐31)](https://github.com/rekby/fixenv) - Fixture manage engine, inspired by pytest fixtures.
 *   [flute (⭐21)](https://github.com/suzuki-shunsuke/flute) - HTTP client testing framework.
 *   [frisby (⭐276)](https://github.com/verdverm/frisby) - REST API testing framework.
 *   [gherkingen (⭐81)](https://github.com/hedhyw/gherkingen) - BDD boilerplate generator and framework.
@@ -4604,7 +4610,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [ego (⭐582)](https://github.com/benbjohnson/ego) - Lightweight templating language that lets you write templates in Go. Templates are translated into Go and compiled.
 *   [fasttemplate (⭐858)](https://github.com/valyala/fasttemplate) - Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.org/pkg/text/template/).
-*   [goview](https://github.com/foolin/goview) - Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application.
+*   [goview (⭐434)](https://github.com/foolin/goview) - Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application.
 *   [jet (⭐1.3k)](https://github.com/CloudyKit/jet) - Jet template engine.
 *   [liquid (⭐298)](https://github.com/osteele/liquid) - Go implementation of Shopify Liquid templates.
 *   [maroto (⭐2.4k)](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
@@ -5071,8 +5077,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Go Tools / Libraries for creating HTTP middlewares
 
-*   [colorgo (⭐113)](https://github.com/songgao/colorgo) - Wrapper around `go` command for colorized `go build` output.
-*   [depth (⭐983)](https://github.com/KyleBanks/depth) - Visualize dependency trees of any package by analyzing imports.
 *   [docs (⭐43)](https://github.com/go-oas/docs) - Automatically generate RESTful API documentation for GO projects - aligned with Open API Specification standard.
 *   [go-callvis (⭐6.1k)](https://github.com/TrueFurby/go-callvis) - Visualize call graph of your Go program using dot format.
 *   [go-swagger (⭐9.7k)](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API.

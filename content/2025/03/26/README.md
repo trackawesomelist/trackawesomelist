@@ -1,18 +1,30 @@
 # Awesome List Updates on Mar 26, 2025
 
-3 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Go Tools / Libraries for creating HTTP middlewares
+
+*   [go-template-playground](https://bartventer.github.io/go-template-playground/) - An interactive environment to create and test Go templates.
+
+## [2. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+
+### Animation, Graphics & Video Playout
+
+*   [SPX - Graphics Controller (⭐340)](https://github.com/TuomoKu/SPX-GC) - Graphics control client for live video productions and live streams.
+
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
 *   [SLJIT (⭐919)](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler. \[BSD] [website](https://zherczeg.github.io/sljit/)
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -61,7 +73,7 @@
 
 *   [OpenMessaging (⭐290) (⭐290)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-## [3. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+## [5. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ### Adventure starters and scenarios / Ironsworn
 

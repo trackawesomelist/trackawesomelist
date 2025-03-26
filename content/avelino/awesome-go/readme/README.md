@@ -2372,7 +2372,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [RoadRunner (⭐8.1k)](https://github.com/spiral/roadrunner) - High-performance PHP application server, load-balancer and process manager.
 *   [SFTPGo (⭐10k)](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. It can serve local filesystem and Cloud Storage backends such as S3 and Google Cloud Storage.
 *   [Trickster (⭐2k)](https://github.com/tricksterproxy/trickster) - HTTP reverse proxy cache and time series accelerator.
-*   [wd-41](https://github.com/baalimago/wd-41) - A (w)eb (d)evelopment server with automatic live-reload on file changes.
+*   [wd-41 (⭐147)](https://github.com/baalimago/wd-41) - A (w)eb (d)evelopment server with automatic live-reload on file changes.
 *   [Wish (⭐3.9k)](https://github.com/charmbracelet/wish) - Make SSH apps, just like that!
 
 **[⬆ back to top](#contents)**
@@ -2398,7 +2398,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [fasttemplate (⭐858)](https://github.com/valyala/fasttemplate) - Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.org/pkg/text/template/).
 *   [gomponents](https://www.gomponents.com) - HTML 5 components in pure Go, that look something like this: `func(name string) g.Node { return Div(Class("headline"), g.Textf("Hi %v!", name)) }`.
 *   [got (⭐35)](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
-*   [goview](https://github.com/foolin/goview) - Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application.
+*   [goview (⭐434)](https://github.com/foolin/goview) - Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application.
 *   [htmgo](https://htmgo.dev) - build simple and scalable systems with go + htmx
 *   [jet (⭐1.3k)](https://github.com/CloudyKit/jet) - Jet template engine.
 *   [liquid (⭐298)](https://github.com/osteele/liquid) - Go implementation of Shopify Liquid templates.
@@ -2435,7 +2435,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 *   [embedded-postgres (⭐915)](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
 *   [endly (⭐264)](https://github.com/viant/endly) - Declarative end to end functional testing.
 *   [envite (⭐5)](https://github.com/PerimeterX/envite) - Dev and testing environment management framework.
-*   [fixenv](https://github.com/rekby/fixenv) - Fixture manage engine, inspired by pytest fixtures.
+*   [fixenv (⭐31)](https://github.com/rekby/fixenv) - Fixture manage engine, inspired by pytest fixtures.
 *   [flute (⭐21)](https://github.com/suzuki-shunsuke/flute) - HTTP client testing framework.
 *   [frisby (⭐276)](https://github.com/verdverm/frisby) - REST API testing framework.
 *   [gherkingen (⭐81)](https://github.com/hedhyw/gherkingen) - BDD boilerplate generator and framework.
@@ -3241,13 +3241,12 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 
 ## Go Tools
 
-*   [colorgo (⭐113)](https://github.com/songgao/colorgo) - Wrapper around `go` command for colorized `go build` output.
 *   [decouple (⭐26)](https://github.com/bobg/decouple) - Find “overspecified” function parameters that could be generalized with interface types.
-*   [depth (⭐983)](https://github.com/KyleBanks/depth) - Visualize dependency trees of any package by analyzing imports.
 *   [docs (⭐43)](https://github.com/go-oas/docs) - Automatically generate RESTful API documentation for GO projects - aligned with Open API Specification standard.
 *   [go-callvis (⭐6.1k)](https://github.com/TrueFurby/go-callvis) - Visualize call graph of your Go program using dot format.
 *   [go-size-analyzer (⭐1.5k)](https://github.com/Zxilly/go-size-analyzer) - Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build.
 *   [go-swagger (⭐9.7k)](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API.
+*   [go-template-playground](https://bartventer.github.io/go-template-playground/) - An interactive environment to create and test Go templates.
 *   [godbg (⭐205)](https://github.com/tylerwince/godbg) - Implementation of Rusts `dbg!` macro for quick and easy debugging during development.
 *   [gomodrun (⭐37)](https://github.com/dustinblackman/gomodrun/) - Go tool that executes and caches binaries included in go.mod files.
 *   [gotemplate.io](https://gotemplate.io/) - Online tool to preview `text/template` templates live.
