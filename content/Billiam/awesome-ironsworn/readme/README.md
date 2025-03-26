@@ -2,7 +2,7 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 134 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 137 · 🏷️ Gaming
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / Overview ]
 
@@ -78,8 +78,8 @@ made by you on those sites when using these links*
 ## Resources
 
 *   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System?affiliate_id=844973) - Character building card sets for Ironsworn
-*   [DataForged (⭐194)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐132)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐195)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐133)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Forge Codex](https://www.drivethrurpg.com/en/product/490797/forge-codex-001?affiliate_id=844973) - Modular supplement with locations, characters, and encounters for Starforged
 *   [Iron Atlas](https://jaderavens.itch.io/iron-atlas-omnibus) - Explore the Ironlands with 100 hand-drawn maps, plus oracles for weather, flora, & fauna
 *   [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1) - A short guide to adapt Starforged to be set in the Ironlands, with printable adapted Ironsworn asset cards
@@ -186,7 +186,9 @@ made by you on those sites when using these links*
 
 ### Ironsworn
 
+*   [Cargoth: Ruinous Edition](https://croakerrpgs.itch.io/cargoth-ruinous-edition) - A lost city, a great power, riches to be made and an ancient curse.  Cargoth has many perils and opportunities for an enterprising Ironsworn traveller
 *   [Escape](https://drakonspyre.itch.io/escape-a-starter-adventure-for-ironsworn) - Escape the dungeon
+*   [Hadley's Beast](https://drakonspyre.itch.io/hadleys-beast) - Take on the role of investigator and monster hunter as the village of Hadley's Grove is beset by a terrible horror
 *   [Quest Fronts](https://www.drivethrurpg.com/product/360541/Quest-Fronts--Issue-1?affiliate_id=844973) - Various adventure starters inspired by Dungeon World campaign fronts
 *   [Sea Beast](https://croakerrpgs.itch.io/sea-beast) - An adventure starter about a village plagued by a sea monster
 *   [The Selkie Envoy](https://chihuahuazero.itch.io/the-selkie-envoy) - An adventure module for icy regions
@@ -199,5 +201,5 @@ made by you on those sites when using these links*
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines (⭐134)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines (⭐137)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
 

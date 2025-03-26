@@ -2,9 +2,16 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 134 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 137 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
+
+## [Mar 26, 2025](/content/2025/03/26/README.md)
+
+### Adventure starters and scenarios / Ironsworn
+
+*   [Cargoth: Ruinous Edition](https://croakerrpgs.itch.io/cargoth-ruinous-edition) - A lost city, a great power, riches to be made and an ancient curse.  Cargoth has many perils and opportunities for an enterprising Ironsworn traveller
+*   [Hadley's Beast](https://drakonspyre.itch.io/hadleys-beast) - Take on the role of investigator and monster hunter as the village of Hadley's Grove is beset by a terrible horror
 
 ## [Mar 10, 2025](/content/2025/03/10/README.md)
 
@@ -470,8 +477,8 @@ An awesome list of awesome Ironsworn projects
 
 ### Resources / Ironsworn
 
-*   [DataForged (⭐194)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐132)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐195)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐133)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 
 ### Hacks and homebrew / Ironsworn
 
