@@ -6,6 +6,15 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [Mar 27, 2025](/content/2025/03/27/README.md)
+
+### Index / Uptime Monitoring
+
+*   [Uptimerobot.com](https://uptimerobot.com/pricing) 🇸🇰
+*   [Phare.io](https://phare.io/pricing) 🇸🇮
+*   [Monibot.io](https://monibot.io/#pricing) 🇩🇪
+*   [Hyperping.com](https://hyperping.com/pricing) 🇫🇷
+
 ## [Mar 24, 2025](/content/2025/03/24/README.md)
 
 ### Index / Human Resources

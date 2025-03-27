@@ -12,6 +12,13 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 
 *   [Bordful](https://bordful.com) 🇱🇹 - Open source job board software built with Next.js and Airtable.
 
+### Index / Uptime Monitoring
+
+*   [Uptimerobot.com](https://uptimerobot.com/pricing) 🇸🇰
+*   [Phare.io](https://phare.io/pricing) 🇸🇮
+*   [Monibot.io](https://monibot.io/#pricing) 🇩🇪
+*   [Hyperping.com](https://hyperping.com/pricing) 🇫🇷
+
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
 ### Index / Human Resources
