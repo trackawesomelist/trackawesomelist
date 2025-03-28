@@ -1,18 +1,30 @@
 # Awesome List Updates on Mar 28, 2025
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+
+### Web Frameworks
+
+*   [Ronykit (⭐27)](https://github.com/clubpay/ronykit) - Web framework with pluggable architecture and very performant.
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### APIs, Data, and ML
+
+*   [UniRateAPI](https://unirateapi.com) – Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.
+
+## [3. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Email Search / Email Check / Steam
 
 *   [Spamhaus](https://check.spamhaus.org/) - Lookup Reputation Checker.
 
-## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [4. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Authentication and Authorization
 
@@ -87,13 +99,13 @@
 
 *   [ASP.NET \[Core\]](https://dotnet.microsoft.com/apps/aspnet) - ASP.NET is a free web framework for building great web sites and applications
 
-## [3. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+## [5. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ### Development / Git
 
 *   [Tempo (⭐27)](https://github.com/maoyama/Tempo) - Replace the Git CLI with a clear UI and AI assist. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
-## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [6. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Critical Views about Generative AI
 

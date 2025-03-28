@@ -75,26 +75,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [mpflash](https://pypi.org/project/mpflash/) -⚡Your Ultimate MicroPython Flashing Companion for stm32, rp2, esp32, esp8266, samd.
 
-#### [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Storage and Media Processing
-
-*   [QRME.SH](https://qrme.sh) - Fast, beautiful bulk QR code generator – no login, no watermark, no ads. Up to 100 URLs per bulk export.
-
-#### [10. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
+#### [9. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
 ##### Traffic Analysis/Inspection
 
 *   [packemon (⭐155)](https://github.com/ddddddO/packemon): Packet monster (っ‘-’)╮=͟͟͞͞◒ ヽ( '-'ヽ) TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
 
-#### [11. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+#### [10. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ##### Adventure starters and scenarios / Ironsworn
 
 *   [Cargoth: Ruinous Edition](https://croakerrpgs.itch.io/cargoth-ruinous-edition) - A lost city, a great power, riches to be made and an ancient curse.  Cargoth has many perils and opportunities for an enterprising Ironsworn traveller
 *   [Hadley's Beast](https://drakonspyre.itch.io/hadleys-beast) - Take on the role of investigator and monster hunter as the village of Hadley's Grove is beset by a terrible horror
 
-#### [12. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -143,19 +137,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [OpenMessaging (⭐290) (⭐290)](https://github.com/openmessaging/specification) - A cloud native, vendor-neutral open specification for distributed messaging.
 
-#### [13. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [12. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Miscellaneous
 
 *   [SLJIT (⭐919)](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler. \[BSD] [website](https://zherczeg.github.io/sljit/)
 
-#### [14. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
+#### [13. Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md)
 
 ##### Animation, Graphics & Video Playout
 
 *   [SPX - Graphics Controller (⭐340)](https://github.com/TuomoKu/SPX-GC) - Graphics control client for live video productions and live streams.
 
-#### [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -166,27 +160,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [simple-zsh-catppuccin (⭐0)](https://github.com/ezswan/simple-zsh-catppuccin) - Based on the [Catppuccin Mocha](https://catppuccin.com/) color scheme, adapted from the [Dracula (⭐278)](https://github.com/dracula/zsh) theme foundation. This theme features a simple and functional prompt with support for git status, time display, context, and directory information, enhanced with hex color support discovered by ezswan.
 
-#### [16. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
+#### [15. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md)
 
 ##### Reference Documentation / Other
 
 *   [A List of Research Papers](https://pchaigno.github.io/bpf/2025/01/07/research-papers-bpf.html)
 
-#### [17. Awesome Go](/content/avelino/awesome-go/README.md)
-
-##### Go Compilers
-
-*   [bunster (⭐2.2k)](https://github.com/yassinebenaid/bunster) - Compile shell scripts to Go.
-
-##### Logging
-
-*   [sentry-go (⭐954)](https://github.com/getsentry/sentry-go) - Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring.
-
-##### Go Tools / Libraries for creating HTTP middlewares
-
-*   [go-template-playground](https://bartventer.github.io/go-template-playground/) - An interactive environment to create and test Go templates.
-
-#### [18. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+#### [16. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
 
 ##### Index / Human Resources
 
@@ -199,13 +179,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Monibot.io](https://monibot.io/#pricing) 🇩🇪
 *   [Hyperping.com](https://hyperping.com/pricing) 🇫🇷
 
-#### [19. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [17. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Finance
 
 *   [tackler (⭐72)](https://github.com/tackler-ng/tackler) \[[tackler](https://crates.io/crates/tackler)] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting [![CI Badge](https://github.com/tackler-ng/tackler/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tackler-ng/tackler/blob/main/.github/workflows/ci.yml)
 
-#### [20. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [18. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Critical Views about Generative AI
 
@@ -215,13 +195,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 
-#### [21. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
+#### [19. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md)
 
 ##### Development / Git
 
 *   [Tempo (⭐27)](https://github.com/maoyama/Tempo) - Replace the Git CLI with a clear UI and AI assist. ![swift\_icon](https://github.com/serhii-londar/open-source-mac-os-apps/raw/master/./icons/swift-16.png "Swift language.")
 
-#### [22. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+#### [20. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ##### Authentication and Authorization
 
@@ -296,15 +276,43 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ASP.NET \[Core\]](https://dotnet.microsoft.com/apps/aspnet) - ASP.NET is a free web framework for building great web sites and applications
 
-#### [23. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [21. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Email Search / Email Check / Steam
 
 *   [Spamhaus](https://check.spamhaus.org/) - Lookup Reputation Checker.
 
+#### [22. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [UniRateAPI](https://unirateapi.com) – Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.
+
+##### Storage and Media Processing
+
+*   [QRME.SH](https://qrme.sh) - Fast, beautiful bulk QR code generator – no login, no watermark, no ads. Up to 100 URLs per bulk export.
+
+#### [23. Awesome Go](/content/avelino/awesome-go/README.md)
+
+##### Go Compilers
+
+*   [bunster (⭐2.2k)](https://github.com/yassinebenaid/bunster) - Compile shell scripts to Go.
+
+##### Logging
+
+*   [sentry-go (⭐954)](https://github.com/getsentry/sentry-go) - Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring.
+
+##### Web Frameworks
+
+*   [Ronykit (⭐27)](https://github.com/clubpay/ronykit) - Web framework with pluggable architecture and very performant.
+
+##### Go Tools / Libraries for creating HTTP middlewares
+
+*   [go-template-playground](https://bartventer.github.io/go-template-playground/) - An interactive environment to create and test Go templates.
+
 #### [24. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
-##### Libraries/Packages/Scripts / Polars plugins
+##### Polars plugins / General utilities / Performance
 
 *   [polars\_streaming\_csv\_decompression (⭐10)](https://github.com/ghuls/polars_streaming_csv_decompression/) Polars IO plugin for reading compressed CSV/TSV files in a streaming fashion by [@ghuls](https://github.com/ghuls).
 
@@ -314,9 +322,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ## Top 50 Awesome List
 
-1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 220K 📝 03&#x2F;23 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
-2. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 140K 📝 03&#x2F;27 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 93K 📝 03&#x2F;25 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+1. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 140K 📝 03&#x2F;28 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 220K 📝 03&#x2F;23 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 93K 📝 03&#x2F;28 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 81K 📝 03&#x2F;24 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 5. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 03&#x2F;25 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 6. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 352K 📝 03&#x2F;09 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
@@ -918,7 +926,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.2K, 📝 03&#x2F;14 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.9K, 📝 02&#x2F;05 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 93K, 📝 03&#x2F;25 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 93K, 📝 03&#x2F;28 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.2K, 📝 24&#x2F;09&#x2F;12 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 12K, 📝 24&#x2F;10&#x2F;03 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 4K, 📝 01&#x2F;31 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
@@ -1029,7 +1037,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fortran](/content/rabbiabram/awesome-fortran/README.md) - ([Source ⭐ 318, 📝 20&#x2F;05&#x2F;12 ](https://github.com/rabbiabram/awesome-fortran)) - Awesome list of Fortran libs
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K, 📝 24&#x2F;11&#x2F;25 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
-- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 140K, 📝 03&#x2F;27 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+- [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 140K, 📝 03&#x2F;28 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 720, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources

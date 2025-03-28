@@ -4,8 +4,8 @@
 
 
 - [Top Repos](top/README.md)
-  - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Awesome Go](/content/content/avelino/awesome-go/README.md)
+  - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
   - [Awesome Vue](/content/content/vuejs/awesome-vue/README.md)

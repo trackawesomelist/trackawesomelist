@@ -190,7 +190,7 @@
 
 ## [11. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
-### Libraries/Packages/Scripts / Polars plugins
+### Polars plugins / General utilities / Performance
 
 *   [polars\_streaming\_csv\_decompression (⭐10)](https://github.com/ghuls/polars_streaming_csv_decompression/) Polars IO plugin for reading compressed CSV/TSV files in a streaming fashion by [@ghuls](https://github.com/ghuls).
 
@@ -201,6 +201,10 @@
 *   [packemon (⭐155)](https://github.com/ddddddO/packemon): Packet monster (っ‘-’)╮=͟͟͞͞◒ ヽ( '-'ヽ) TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
 
 ## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### APIs, Data, and ML
+
+*   [UniRateAPI](https://unirateapi.com) – Real-time exchange rates for 590+ currencies and crypto. Unlimited API calls on the free plan, perfect for developers and finance apps.
 
 ### Storage and Media Processing
 
@@ -272,6 +276,10 @@
 ### Logging
 
 *   [sentry-go (⭐954)](https://github.com/getsentry/sentry-go) - Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring.
+
+### Web Frameworks
+
+*   [Ronykit (⭐27)](https://github.com/clubpay/ronykit) - Web framework with pluggable architecture and very performant.
 
 ### Go Tools / Libraries for creating HTTP middlewares
 

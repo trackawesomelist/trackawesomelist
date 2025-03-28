@@ -16,6 +16,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [sentry-go (⭐954)](https://github.com/getsentry/sentry-go) - Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring.
 
+### Web Frameworks
+
+*   [Ronykit (⭐27)](https://github.com/clubpay/ronykit) - Web framework with pluggable architecture and very performant.
+
 ### Go Tools / Libraries for creating HTTP middlewares
 
 *   [go-template-playground](https://bartventer.github.io/go-template-playground/) - An interactive environment to create and test Go templates.
