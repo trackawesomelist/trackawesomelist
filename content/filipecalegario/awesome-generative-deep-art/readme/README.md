@@ -238,6 +238,7 @@ Follow this roadmap, keep learning, and enjoy your journey through Generative AI
 
 ## Critical Views about Generative AI
 
+*   [Why handing over total control to AI agents would be a huge mistake | MIT Technology Review](https://www.technologyreview.com/2025/03/24/1113647/why-handing-over-total-control-to-ai-agents-would-be-a-huge-mistake)
 *   [Collection of "The Most Thoughtful Writing about Generative AI" by Eryk Salvaggio](https://bsky.app/profile/eryk.bsky.social/post/3lccavgstkk2s)
 *   [AI Snake Oil: Separating Hype from Reality | TechPolicy.Press](https://www.techpolicy.press/ai-snake-oil-separating-hype-from-reality/)
 *   [Deconstructing the AI Myth: Fallacies and Harms of Algorithmification](https://www.researchgate.net/publication/382802495_Deconstructing_the_AI_Myth_Fallacies_and_Harms_of_Algorithmification)
@@ -557,7 +558,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [lunary-ai/abso (⭐25)](https://github.com/lunary-ai/abso): TypeScript SDK to easily call 100+ LLMs using OpenAI's format
 *   [oumi-ai/oumi (⭐7.7k)](https://github.com/oumi-ai/oumi): open universal machine intelligence, open-source platform that streamlines the entire lifecycle of foundation models - from data preparation and training to evaluation and deployment
 *   \[🔥] [Transformer Explainer](https://poloclub.github.io/transformer-explainer/): LLM Transformer Model Visually Explained [YouTube Video](https://www.youtube.com/watch?v=ECR4oAwocjs)
-*   [comet-ml/opik (⭐5.3k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
+*   [comet-ml/opik (⭐5.9k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 *   [mendableai/firecrawl (⭐32k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 *   [QuivrHQ/MegaParse (⭐5.9k)](https://github.com/quivrhq/megaparse): File Parser optimised for LLM Ingestion with no loss. Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 *   [LiteLLM](https://www.litellm.ai/): a proxy server to manage auth, loadbalancing, and spend tracking across 100+ LLMs, all in the OpenAI format
@@ -566,7 +567,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [microsoft/LMOps (⭐3.9k)](https://github.com/microsoft/LMOps): General technology for enabling AI capabilities w/ LLMs and MLLMs
 *   [F\*\*\* You, Show Me The Prompt](https://hamel.dev/blog/posts/prompt/): quickly understand inscrutable LLM frameworks by intercepting API calls
 *   [danielmiessler/fabric (⭐30k)](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐9.3k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐9.8k)](https://github.com/langfuse/langfuse)
 *   [naklecha/llama3-from-scratch (⭐14k)](https://github.com/naklecha/llama3-from-scratch): llama3 implementation one matrix multiplication at a time
 *   [\[2405.03825\] Organizing a Society of Language Models: Structures and Mechanisms for Enhanced Collective Intelligence](https://arxiv.org/abs/2405.03825)
 *   [Open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
@@ -647,20 +648,20 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
     *   MCP helps you build agents and complex workflows on top of LLMs.
 *   Examples
     *   [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
-    *   [abhiz123/todoist-mcp-server (⭐71)](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
+    *   [abhiz123/todoist-mcp-server (⭐102)](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
 *   List of Servers
-    *   [modelcontextprotocol/servers: Model Context Protocol Servers (⭐14k)](https://github.com/modelcontextprotocol/servers)
+    *   [modelcontextprotocol/servers: Model Context Protocol Servers (⭐26k)](https://github.com/modelcontextprotocol/servers)
     *   [Awesome MCP Servers](https://mcpservers.org/)
-    *   [punkpeye/awesome-mcp-servers (⭐5.2k)](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
+    *   [punkpeye/awesome-mcp-servers (⭐17k)](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
     *   [Composio MCP Server](https://mcp.composio.dev/): Connect Cursor, Windsurf, and Claude to 100+ fully managed MCP Servers with built-in auth
         *   These servers are built by the community and are hosted by Composio
 *   [Example Clients - Model Context Protocol](https://modelcontextprotocol.io/clients)
 *   [Building MCP with LLMs - Model Context Protocol](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
 *   [Add Supabase to Cursor via MCP](https://x.com/dshukertjr/status/1896531501514109056)
 *   [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic - YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg): AI Engineer Summit workshop
-*   [loopwork-ai/emcee (⭐118)](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
+*   [loopwork-ai/emcee (⭐184)](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
 *   [MCP Run](https://docs.mcp.run/): a registry of AI tools that can be developed by anyone and used inside any AI application
-*   [modelcontextprotocol/inspector (⭐538)](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
+*   [modelcontextprotocol/inspector (⭐1.1k)](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
 
 ### Programming Frameworks for LLMs
 
@@ -1248,6 +1249,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 # Video and Animation
 
+*   [Keyla.AI](https://keyla.ai/): Create video ads in minutes
 *   [Melies](https://melies.co/): All-in-one AI filmmaking software
 *   [Pyramid Flow](https://pyramid-flow.github.io/)
 *   [Infinity AI](https://infinity.ai/): a video foundation model that allows you to craft characters and animate them
@@ -1357,7 +1359,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 *   [Microsoft KOSMOS-2](https://twitter.com/mervenoyann/status/1720126908384366649): new capabilities of perceiving object descriptions (e.g., bounding boxes) and grounding text to the visual world [\[HF demo\]](https://huggingface.co/spaces/ydshieh/Kosmos-2) [\[arxiv\]](https://arxiv.org/abs/2306.14824)
 *   [Segment Anything | Meta AI](https://segment-anything.com/): "a new AI model from Meta AI that can "cut out" any object, in any image, with a single click"
-*   [facebookresearch/ImageBind (⭐8.5k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
+*   [facebookresearch/ImageBind (⭐8.6k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
 
 # Datasets
 

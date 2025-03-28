@@ -6,6 +6,16 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Mar 28, 2025](/content/2025/03/28/README.md)
+
+### Critical Views about Generative AI
+
+*   [Why handing over total control to AI agents would be a huge mistake | MIT Technology Review](https://www.technologyreview.com/2025/03/24/1113647/why-handing-over-total-control-to-ai-agents-would-be-a-huge-mistake)
+
+### Image Segmentation / Deforum
+
+*   [Keyla.AI](https://keyla.ai/): Create video ads in minutes
+
 ## [Mar 21, 2025](/content/2025/03/21/README.md)
 
 ### Retrieval-Augmented Generation (RAG) / Prompt Engineering for Text-to-image
@@ -58,20 +68,20 @@ A curated list of Generative AI tools, works, models, and references
     *   MCP helps you build agents and complex workflows on top of LLMs.
 *   Examples
     *   [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
-    *   [abhiz123/todoist-mcp-server (⭐71)](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
+    *   [abhiz123/todoist-mcp-server (⭐102)](https://github.com/abhiz123/todoist-mcp-server/tree/main): MCP server for Todoist integration enabling natural language task management with Claude
 *   List of Servers
-    *   [modelcontextprotocol/servers: Model Context Protocol Servers (⭐14k)](https://github.com/modelcontextprotocol/servers)
+    *   [modelcontextprotocol/servers: Model Context Protocol Servers (⭐26k)](https://github.com/modelcontextprotocol/servers)
     *   [Awesome MCP Servers](https://mcpservers.org/)
-    *   [punkpeye/awesome-mcp-servers (⭐5.2k)](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
+    *   [punkpeye/awesome-mcp-servers (⭐17k)](https://github.com/punkpeye/awesome-mcp-servers): A collection of MCP servers.
     *   [Composio MCP Server](https://mcp.composio.dev/): Connect Cursor, Windsurf, and Claude to 100+ fully managed MCP Servers with built-in auth
         *   These servers are built by the community and are hosted by Composio
 *   [Example Clients - Model Context Protocol](https://modelcontextprotocol.io/clients)
 *   [Building MCP with LLMs - Model Context Protocol](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
 *   [Add Supabase to Cursor via MCP](https://x.com/dshukertjr/status/1896531501514109056)
 *   [Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic - YouTube](https://www.youtube.com/watch?v=kQmXtrmQ5Zg): AI Engineer Summit workshop
-*   [loopwork-ai/emcee (⭐118)](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
+*   [loopwork-ai/emcee (⭐184)](https://github.com/loopwork-ai/emcee): a tool that provides a Model Context Protocol (MCP) server for any web application with an OpenAPI specification.
 *   [MCP Run](https://docs.mcp.run/): a registry of AI tools that can be developed by anyone and used inside any AI application
-*   [modelcontextprotocol/inspector (⭐538)](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
+*   [modelcontextprotocol/inspector (⭐1.1k)](https://github.com/modelcontextprotocol/inspector): Visual testing tool for MCP servers
 
 ## [Mar 05, 2025](/content/2025/03/05/README.md)
 
@@ -148,7 +158,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Large Language Models (LLMs)
 
-*   [comet-ml/opik (⭐5.3k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
+*   [comet-ml/opik (⭐5.9k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 
 ### AI Engineering / Multi-agents
 
@@ -288,7 +298,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Large Language Models (LLMs)
 
-*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐9.3k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐9.8k)](https://github.com/langfuse/langfuse)
 
 ### Image Segmentation / Deforum
 
@@ -2182,7 +2192,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Multimodal Embedding Space / Deforum
 
-*   [facebookresearch/ImageBind (⭐8.5k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
+*   [facebookresearch/ImageBind (⭐8.6k)](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
 
 ## [May 09, 2023](/content/2023/05/09/README.md)
 
