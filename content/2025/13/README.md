@@ -254,6 +254,14 @@
 
 *   [mohseenrm/marko.nvim (⭐4)](https://github.com/mohseenrm/marko.nvim) - Behind the scenes, global marks management for different projects.
 
+### Search / Diagnostics
+
+*   [prochri/telescope-all-recent.nvim (⭐139)](https://github.com/prochri/telescope-all-recent.nvim) - Frequency and recency sorter for any Telescope picker.
+
+### Git / Diagnostics
+
+*   [yutkat/git-rebase-auto-diff.nvim (⭐16)](https://github.com/yutkat/git-rebase-auto-diff.nvim) - Show diff automatically when Git rebase.
+
 ## [20. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
 
 ### Index / Human Resources
@@ -266,6 +274,10 @@
 *   [Phare.io](https://phare.io/pricing) 🇸🇮
 *   [Monibot.io](https://monibot.io/#pricing) 🇩🇪
 *   [Hyperping.com](https://hyperping.com/pricing) 🇫🇷
+
+### Index / VPN
+
+*   [Unlocator VPN](https://unlocator.com) 🇩🇰 - Fast and Secure VPN with utlimate streaming freedom.
 
 ## [21. Awesome Go](/content/avelino/awesome-go/week/README.md)
 

@@ -6,6 +6,12 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [Mar 29, 2025](/content/2025/03/29/README.md)
+
+### Index / VPN
+
+*   [Unlocator VPN](https://unlocator.com) 🇩🇰 - Fast and Secure VPN with utlimate streaming freedom.
+
 ## [Mar 27, 2025](/content/2025/03/27/README.md)
 
 ### Index / Uptime Monitoring
