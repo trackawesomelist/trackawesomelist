@@ -299,6 +299,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 #### [23. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
+##### Web Development / Diagnostics
+
+*   [BibekBhusal0/nvim-shadcn (⭐5)](https://github.com/BibekBhusal0/nvim-shadcn) - Easily add Shadcn UI components with telescope.
+
 ##### Marks / Diagnostics
 
 *   [mohseenrm/marko.nvim (⭐4)](https://github.com/mohseenrm/marko.nvim) - Behind the scenes, global marks management for different projects.
@@ -307,11 +311,21 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [prochri/telescope-all-recent.nvim (⭐139)](https://github.com/prochri/telescope-all-recent.nvim) - Frequency and recency sorter for any Telescope picker.
 
+##### Utility / Diagnostics
+
+*   [BibekBhusal0/bufstack.nvim (⭐2)](https://github.com/BibekBhusal0/bufstack.nvim) - Track recently visited buffers and reopen recently closed buffers.
+
 ##### Git / Diagnostics
 
 *   [yutkat/git-rebase-auto-diff.nvim (⭐16)](https://github.com/yutkat/git-rebase-auto-diff.nvim) - Show diff automatically when Git rebase.
 
-#### [24. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+#### [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Concepts / AI Concept Representation
+
+*   [From task structures to world models: what do LLMs know?](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613\(24\)00035-4) - ***Trends in Cognitive Sciences***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=14836877410607949822)]. \[[Preprint](http://cncl.yale.edu/sites/default/files/pub-downloads/yildirim-paul-llms-knowledge.pdf)]. In what sense does a large language model (LLM) have knowledge? The authors answer by granting LLMs ‘instrumental knowledge’: knowledge gained by using next-word generation as an instrument. The authors then ask how instrumental knowledge is related to the ordinary, ‘worldly knowledge’ exhibited by humans, and explore this question in terms of the degree to which instrumental knowledge can be said to incorporate the structured world models of cognitive science. The authors discuss ways LLMs could recover degrees of worldly knowledge and suggest that such recovery will be governed by an implicit, resource-rational tradeoff between world models and tasks. The authors' answer to this question extends beyond the capabilities of a particular AI system and challenges assumptions about the nature of knowledge and intelligence.
+
+#### [25. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
 
 ##### Index / Human Resources
 
@@ -326,7 +340,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ##### Index / VPN
 
-*   [Unlocator VPN](https://unlocator.com) 🇩🇰 - Fast and Secure VPN with utlimate streaming freedom.
+*   [Unlocator VPN](https://unlocator.com) 🇩🇰 - Fast and secure VPN with ultimate streaming freedom.
 
 ---
 
@@ -335,7 +349,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ## Top 50 Awesome List
 
 1. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 140K 📝 03&#x2F;28 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 220K 📝 03&#x2F;23 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 223K 📝 03&#x2F;23 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 93K 📝 03&#x2F;28 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 81K 📝 03&#x2F;24 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 5. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 03&#x2F;25 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
@@ -345,8 +359,8 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 9. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K 📝 03&#x2F;24 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 10. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 349K 📝 03&#x2F;04 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 11. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 21K 📝 03&#x2F;28 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
-12. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 20K 📝 03&#x2F;28 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
-13. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K 📝 03&#x2F;29 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+12. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K 📝 03&#x2F;29 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+13. [Awesome Dotnet](/content/quozd/awesome-dotnet/README.md) - ([Source ⭐ 20K 📝 03&#x2F;28 ](https://github.com/quozd/awesome-dotnet)) - A collection of awesome .NET libraries, tools, frameworks and software
 14. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 16K 📝 03&#x2F;27 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 15. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 19K 📝 03&#x2F;22 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
 16. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K 📝 03&#x2F;24 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
@@ -905,7 +919,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1.3K, 📝 24&#x2F;12&#x2F;11 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 724, 📝 24&#x2F;07&#x2F;07 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 1.3K, 📝 01&#x2F;22 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 220K, 📝 03&#x2F;23 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 223K, 📝 03&#x2F;23 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 1.8K, 📝 23&#x2F;05&#x2F;03 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 481, 📝 24&#x2F;05&#x2F;12 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!
@@ -1136,7 +1150,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 313, 📝 03&#x2F;23 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 313, 📝 03&#x2F;29 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 21K, 📝 24&#x2F;11&#x2F;16 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K, 📝 01&#x2F;22 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 97, 📝 01&#x2F;22 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

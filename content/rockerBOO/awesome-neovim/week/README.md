@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)
 
+### Web Development / Diagnostics
+
+*   [BibekBhusal0/nvim-shadcn (⭐5)](https://github.com/BibekBhusal0/nvim-shadcn) - Easily add Shadcn UI components with telescope.
+
 ### Marks / Diagnostics
 
 *   [mohseenrm/marko.nvim (⭐4)](https://github.com/mohseenrm/marko.nvim) - Behind the scenes, global marks management for different projects.
@@ -15,6 +19,10 @@ Collections of awesome neovim plugins.
 ### Search / Diagnostics
 
 *   [prochri/telescope-all-recent.nvim (⭐139)](https://github.com/prochri/telescope-all-recent.nvim) - Frequency and recency sorter for any Telescope picker.
+
+### Utility / Diagnostics
+
+*   [BibekBhusal0/bufstack.nvim (⭐2)](https://github.com/BibekBhusal0/bufstack.nvim) - Track recently visited buffers and reopen recently closed buffers.
 
 ### Git / Diagnostics
 
