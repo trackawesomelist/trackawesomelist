@@ -2,9 +2,15 @@
 
 A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 72 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 78 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/ConstructCommunity/awesome-construct/week/README.md) / [Overview](/content/ConstructCommunity/awesome-construct/readme/README.md) ]
+
+## [Mar 31, 2025](/content/2025/03/31/README.md)
+
+### Construct 2
+
+*   [Neo NW (⭐0)](https://github.com/kckarnige/NeoNWjsForC2) - Easily setup exporting for the latest version of NW\.js, replacing the outdated "NW\.js for Construct 2" installer.
 
 ## [Mar 10, 2025](/content/2025/03/10/README.md)
 

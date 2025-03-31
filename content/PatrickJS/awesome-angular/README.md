@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Mar 31, 2025](/content/2025/03/31/README.md)
+
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx (⭐1)](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
+
+### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [altcha (⭐739)](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
+
 ## [Mar 23, 2025](/content/2025/03/23/README.md)
 
 ### Bluesky
@@ -114,7 +124,7 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [zardui (⭐37)](https://github.com/zard-ui/zardui) - A collection of beautiful and accessible components for Angular based in [shadcn-ui (⭐83k)](https://github.com/shadcn-ui/ui) and NG-ZORRO. Fully open source and free.
+*   [zardui (⭐37)](https://github.com/zard-ui/zardui) - A collection of beautiful and accessible components for Angular based in [shadcn-ui (⭐84k)](https://github.com/shadcn-ui/ui) and NG-ZORRO. Fully open source and free.
 
 ### Bootstrap Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -156,7 +166,7 @@
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [manifest (⭐1.8k)](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
+*   [manifest (⭐2.3k)](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
 
 ### Feature Flags / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -258,7 +268,7 @@
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-responsive-if (⭐1)](https://github.com/bodnya29179/ngx-responsive-if) - An Angular structural directive for conditional rendering based on media queries.
+*   [ngx-responsive-if (⭐2)](https://github.com/bodnya29179/ngx-responsive-if) - An Angular structural directive for conditional rendering based on media queries.
 
 ### JSON Forms / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -275,17 +285,17 @@
 
 ### Inspired by Angular / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [named-slots (⭐2)](https://github.com/maybebot/named-slots) - Use declarative "holes" in your React components instead of an imperative prop-based approach. Inspired by slots in Vue/Svelte/Angular/WebComponents.
+*   [named-slots (⭐4)](https://github.com/maybebot/named-slots) - Use declarative "holes" in your React components instead of an imperative prop-based approach. Inspired by slots in Vue/Svelte/Angular/WebComponents.
 
 ## [Mar 15, 2025](/content/2025/03/15/README.md)
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [foblex2D (⭐3)](https://github.com/siarheihuzarevich/foblex2D) - An Angular library for 2D geometric computations, providing classes and utilities for manipulating points, lines, vectors, rectangles, arcs, and transformations. Used in [Foblex Flow](https://flow.foblex.com/) for 2D geometric operations.
+*   [foblex2D (⭐4)](https://github.com/siarheihuzarevich/foblex2D) - An Angular library for 2D geometric computations, providing classes and utilities for manipulating points, lines, vectors, rectangles, arcs, and transformations. Used in [Foblex Flow](https://flow.foblex.com/) for 2D geometric operations.
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-glagolize (⭐0)](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
+*   [ngx-glagolize (⭐2)](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
 
 ### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -308,7 +318,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [seatsio-angular (⭐6)](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
+*   [seatsio-angular (⭐7)](https://github.com/seatsio/seatsio-angular) - Angular wrapper for rendering [Seats.io](https://www.seats.io/) seating charts.
 *   [ngx-kel-agent (⭐1)](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent (⭐9)](https://github.com/k0swe/kel-agent).
 
 ### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -317,7 +327,7 @@
 
 ### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-web-storage (⭐36)](https://github.com/cipchk/angular-web-storage) - Angular decorator to save and restore of HTML5 Local & Session Storage.
+*   [angular-web-storage (⭐37)](https://github.com/cipchk/angular-web-storage) - Angular decorator to save and restore of HTML5 Local & Session Storage.
 
 ## [Mar 13, 2025](/content/2025/03/13/README.md)
 
@@ -331,11 +341,11 @@
 
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [mdbook-angular (⭐2)](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns angular code samples into running Angular applications.
+*   [mdbook-angular (⭐3)](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns angular code samples into running Angular applications.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@ng-verse/ui (⭐37)](https://github.com/ngverse/ui) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://ui.ngverse.dev/) for more.
+*   [@ng-verse/ui (⭐39)](https://github.com/ngverse/ui) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://ui.ngverse.dev/) for more.
 
 ### Inspired by Angular / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -344,13 +354,13 @@
 *   [GameEngine (⭐2)](https://github.com/gandolphinnn/GameEngine) - A Typescript game engine inspired by Angular.
 *   [gapi (⭐27)](https://github.com/Stradivario/gapi) - Inspired by Angular and intended to provide complex NodeJS GraphQL Backend applications with minimum effort.
 *   [GTPL (⭐1)](https://github.com/garag-lib/GTPL) - A TypeScript library designed for creating reactive template systems with a unique approach that incorporates Direct DOM and Proxy. Inspired by technologies like Vue.js, Angular AOT or JSX, GTPL offers an efficient and powerful way to build reactive applications in a compact 9KB(gzip) JavaScript package.
-*   [Lua-Generate (⭐1)](https://github.com/Gabriel-c0Nsp/Lua-Generate) - A CLI tool to generate boilerplate code inspired by ng tool from Angular.
-*   [npm-clang-format-node (⭐21)](https://github.com/lumirlumir/npm-clang-format-node) - Node wrapper for LLVM Clang's clang-format and git-clang-format native binaries inspired by [angular/clang-format (⭐100)](https://github.com/angular/clang-format).
+*   [Lua-Generate (⭐2)](https://github.com/Gabriel-c0Nsp/Lua-Generate) - A CLI tool to generate boilerplate code inspired by ng tool from Angular.
+*   [npm-clang-format-node (⭐22)](https://github.com/lumirlumir/npm-clang-format-node) - Node wrapper for LLVM Clang's clang-format and git-clang-format native binaries inspired by [angular/clang-format (⭐100)](https://github.com/angular/clang-format).
 *   [obfetch (⭐4)](https://github.com/wflixu/obfetch) - A HttpClient base on RxJS and fetch API inspired by Angular `httpClient`.
 *   [prang (⭐2)](https://github.com/Joery-M/prang) - A framework that looks like Angular, smells like Angular, but is actually Vue.
 *   [PrasthuthTS (⭐1)](https://github.com/Prasthuth-Pradeep/PrasthuthTS) - A TypeScript framework, inspired by Angular, that features a modular, component-based architecture, two-way data binding, and a flexible routing system, all while leveraging TypeScript's strong typing to simplify development and enhance maintainability.
 *   [ReactiveForms (⭐1)](https://github.com/vipulkmr02/ReactiveForms) - Retrieve form input values using the DOM and implement form validation, drawing inspiration from Angular's Reactive Forms approach.
-*   [reaktiv (⭐53)](https://github.com/buiapp/reaktiv) - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
+*   [reaktiv (⭐84)](https://github.com/buiapp/reaktiv) - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
 *   [ts-react-directives (⭐1)](https://github.com/skycodr/ts-react-directives) - A small React/Typescript library designed to mimic Angular directives.
 *   [vyuha (⭐5)](https://github.com/RamanSharma100/vyuha) - A Nodejs Template Engine Inspired by EJS, Angular, and Laravel Blade.
 
@@ -358,7 +368,7 @@
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-translate-db (⭐1)](https://github.com/kinleyrabgay/ngx-translate-db) - A lightweight, efficient Angular translation library that uses IndexedDB for offline storage. Perfect for applications that need to handle translations without network dependency.
+*   [ngx-translate-db (⭐3)](https://github.com/kinleyrabgay/ngx-translate-db) - A lightweight, efficient Angular translation library that uses IndexedDB for offline storage. Perfect for applications that need to handle translations without network dependency.
 
 ### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -374,17 +384,17 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@koobiq/angular-components (⭐24)](https://github.com/koobiq/angular-components) - An open-source design system for designers and developers, focused on designing products related to information security. Gives you access to a broad range of UI patterns, UI components, design tools, resources, and content guidelines to accelerate collaboration.
+*   [@koobiq/angular-components (⭐28)](https://github.com/koobiq/angular-components) - An open-source design system for designers and developers, focused on designing products related to information security. Gives you access to a broad range of UI patterns, UI components, design tools, resources, and content guidelines to accelerate collaboration.
 
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [zapui (⭐5)](https://github.com/zapuilib/zapui) - Build sleek, scalable, and cohesive Angular applications effortlessly with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
+*   [zapui (⭐16)](https://github.com/zapuilib/zapui) - Build sleek, scalable, and cohesive Angular applications effortlessly with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 
 ## [Mar 11, 2025](/content/2025/03/11/README.md)
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-i18n-tools (⭐2)](https://github.com/Ascor8522/ngx-i18n-tools) - A collection of tools to help with the translation of Angular applications, including an Excel and XLIFF converter, [ngx-xlf-xlsx (⭐2)](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
+*   [ngx-i18n-tools (⭐3)](https://github.com/Ascor8522/ngx-i18n-tools) - A collection of tools to help with the translation of Angular applications, including an Excel and XLIFF converter, [ngx-xlf-xlsx (⭐3)](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
 
 ### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -394,7 +404,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ng-react-bridge (⭐2)](https://github.com/john310897/ng-react-bridge) - A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.
+*   [ng-react-bridge (⭐3)](https://github.com/john310897/ng-react-bridge) - A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -413,11 +423,11 @@
 
 ### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [playwright-coverage (⭐39)](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
+*   [playwright-coverage (⭐42)](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-annotate-text (⭐15)](https://github.com/philenius/ngx-annotate-text) - This Angular component library is perfect for tasks like visualizing named entity recognition, part of speech tagging, or annotating text datasets. It allows for interactively highlighting and annotating parts of text.
+*   [ngx-annotate-text (⭐16)](https://github.com/philenius/ngx-annotate-text) - This Angular component library is perfect for tasks like visualizing named entity recognition, part of speech tagging, or annotating text datasets. It allows for interactively highlighting and annotating parts of text.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -554,7 +564,7 @@
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-signal-pipes (⭐10)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
+*   [ngx-signal-pipes (⭐11)](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
 
 ## [Feb 25, 2025](/content/2025/02/25/README.md)
 
@@ -588,7 +598,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-pocketbase (⭐3)](https://github.com/BerniHC/ngx-pocketbase) - PocketBase Angular SDK for interacting with the [PocketBase API](https://pocketbase.io/docs). Based on the [PocketBase JavaScript SDK (⭐2.3k)](https://github.com/pocketbase/js-sdk).
+*   [ngx-pocketbase (⭐3)](https://github.com/BerniHC/ngx-pocketbase) - PocketBase Angular SDK for interacting with the [PocketBase API](https://pocketbase.io/docs). Based on the [PocketBase JavaScript SDK (⭐2.4k)](https://github.com/pocketbase/js-sdk).
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -732,7 +742,7 @@
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [eslint-plugin-rxjs-x (⭐22)](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) - A fork of [eslint-plugin-rxjs (⭐314)](https://github.com/cartant/eslint-plugin-rxjs) initially started to support the new ESLint flat config format that has since had numerous breaking changes and further improvements.
+*   [eslint-plugin-rxjs-x (⭐24)](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) - A fork of [eslint-plugin-rxjs (⭐315)](https://github.com/cartant/eslint-plugin-rxjs) initially started to support the new ESLint flat config format that has since had numerous breaking changes and further improvements.
 
 ### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -758,13 +768,13 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [xUI (⭐9)](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
+*   [xUI (⭐10)](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
 
 ## [Feb 11, 2025](/content/2025/02/11/README.md)
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [primitives (⭐162)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+*   [primitives (⭐168)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 
 ## [Feb 10, 2025](/content/2025/02/10/README.md)
 
@@ -785,7 +795,7 @@
 ### JSON Forms / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [jsonforms-angular-seed (⭐37)](https://github.com/eclipsesource/jsonforms-angular-seed) - Angular-based JSON Forms seed app.
-*   [ng-formworks (⭐3)](https://github.com/zahmo/ng-formworks) - An Angular [JSON Schema](https://json-schema.org/) Form builder, similar to, and mostly API compatible with, [Angular Schema Form](http://schemaform.io/examples/bootstrap-example.html), [React JSON Schema Form](https://rjsf-team.github.io/react-jsonschema-form/), and [JSON Form](https://ulion.github.io/jsonform/playground/).
+*   [ng-formworks (⭐4)](https://github.com/zahmo/ng-formworks) - An Angular [JSON Schema](https://json-schema.org/) Form builder, similar to, and mostly API compatible with, [Angular Schema Form](http://schemaform.io/examples/bootstrap-example.html), [React JSON Schema Form](https://rjsf-team.github.io/react-jsonschema-form/), and [JSON Form](https://ulion.github.io/jsonform/playground/).
 
 ## [Feb 08, 2025](/content/2025/02/08/README.md)
 
@@ -1021,7 +1031,7 @@
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [hawkeye (⭐16)](https://github.com/angular-experts-io/hawkeye) - A powerful tool designed to help developers visualize and optimize their JavaScript bundles. With our intuitive interface, you can gain deep insights into your project’s bundle structure, identifying large modules, dependencies, and assets that may be impacting performance.
+*   [hawkeye (⭐17)](https://github.com/angular-experts-io/hawkeye) - A powerful tool designed to help developers visualize and optimize their JavaScript bundles. With our intuitive interface, you can gain deep insights into your project’s bundle structure, identifying large modules, dependencies, and assets that may be impacting performance.
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1029,7 +1039,7 @@
 
 ### File Upload / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-file-preview (⭐2)](https://github.com/wh131462/ngx-file-preview) - A powerful preview tool for many file types.
+*   [ngx-file-preview (⭐4)](https://github.com/wh131462/ngx-file-preview) - A powerful preview tool for many file types.
 
 ## [Jan 06, 2025](/content/2025/01/06/README.md)
 
@@ -1370,7 +1380,7 @@
 
 ### Dates / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [frxjs-Ngx-Timeline (⭐40)](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
+*   [frxjs-Ngx-Timeline (⭐42)](https://github.com/emanuelefricano93/frxjs-Ngx-Timeline) - This library allows you to integrate a timeline in your Angular app.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2324,7 +2334,7 @@
 
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngxtw (⭐11)](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
+*   [ngxtw (⭐12)](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
 
 ## [Sep 07, 2024](/content/2024/09/07/README.md)
 
@@ -4069,7 +4079,7 @@
 *   [ej2-angular-ui-components (⭐281)](https://github.com/syncfusion/ej2-angular-ui-components) - Syncfusion Angular UI Components library has been built from the ground up to be lightweight, responsive, modular and touch friendly. It offers 70+ UI components that every applications will ever need.
 *   [ng-devui (⭐1.8k)](https://github.com/DevCloudFE/ng-devui) - Angular UI Component Library based on DevUI Design.
 *   [ng-aquila (⭐235)](https://github.com/allianz/ng-aquila) - Aquila is an open-source component library provided by the Allianz Global Digital Factory (GDF). We use this library internally with Allianz branding. Here we provide a white label variant of these components.
-*   [enterprise-ng (⭐6)](https://github.com/infor-design/enterprise-ng) - Angular wrappers for IDS Enterprise components.
+*   [enterprise-ng (⭐7)](https://github.com/infor-design/enterprise-ng) - Angular wrappers for IDS Enterprise components.
 *   [oblique (⭐60)](https://github.com/oblique-bit/oblique) - An Angular front-end framework Tailored for your swiss branded business web application, Oblique provides a standardized corporate design look and feel as well as a collection of ready-to-use Angular components.
 *   [fundamental-ngx (⭐278)](https://github.com/SAP/fundamental-ngx) - Fundamental Library for Angular is SAP Design System Angular component library.
 *   [designsystem (⭐86)](https://github.com/kirbydesign/designsystem) - Kirby Design System is a UX Component library implementing the Kirby Design Philosophy.

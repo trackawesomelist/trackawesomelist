@@ -2,7 +2,7 @@
 
 A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 72 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 78 · 🏷️ Gaming
 
 [ [Daily](/content/ConstructCommunity/awesome-construct/README.md) / [Weekly](/content/ConstructCommunity/awesome-construct/week/README.md) / Overview ]
 
@@ -19,7 +19,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 
 A curated list of the best tools, tutorials and examples related to the Construct game engine on all its versions.
 
-[How to contribute? (⭐72)](https://github.com/armaldio/awesome-construct/blob/master/CONTRIBUTING.md)
+[How to contribute? (⭐78)](https://github.com/armaldio/awesome-construct/blob/master/CONTRIBUTING.md)
 
 <!-- TOC ignore:true -->
 
@@ -86,6 +86,7 @@ Community supported channels.
 ### Construct 2
 
 *   [AppPlayer-Electron (⭐3)](https://github.com/Floflis/AppPlayer-Electron) - Preview apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux.
+*   [Neo NW (⭐0)](https://github.com/kckarnige/NeoNWjsForC2) - Easily setup exporting for the latest version of NW\.js, replacing the outdated "NW\.js for Construct 2" installer.
 
 ## Addons
 
