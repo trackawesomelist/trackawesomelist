@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Mar 31, 2025](/content/2025/03/31/README.md)
+
+### Development tools / Web Servers
+
+*   [frolic (⭐192)](https://github.com/frolicflow/Frolic) - An API layer to build customer facing dashboards 10x faster
+
 ## [Mar 30, 2025](/content/2025/03/30/README.md)
 
 ### Applications
@@ -23,7 +29,7 @@ A curated list of Rust code and resources.
 ### Libraries / Cloud
 
 *   Azure
-    *   [Azure/azure-sdk-for-rust (⭐781)](https://github.com/Azure/azure-sdk-for-rust) - Official Azure SDK for Rust
+    *   [Azure/azure-sdk-for-rust (⭐798)](https://github.com/Azure/azure-sdk-for-rust) - Official Azure SDK for Rust
 
 ### Libraries / Template engine
 
@@ -1294,10 +1300,6 @@ A curated list of Rust code and resources.
 
 *   [doprz/dipc (⭐266)](https://github.com/doprz/dipc) - Convert your favorite images and wallpapers with your favorite color palettes/themes [![crates.io](https://img.shields.io/crates/v/dipc)](https://crates.io/crates/dipc)
 
-### Development tools / Web Servers
-
-*   [frolic (⭐192)](https://github.com/FrolicOrg/Frolic) - An API layer to build customer facing dashboards 10x faster
-
 ### Libraries / Artificial Intelligence
 
 *   [huggingface/candle (⭐17k)](https://github.com/huggingface/candle) \[[candle-core](https://crates.io/crates/candle-core)] - a minimalist ML framework with a focus on easiness of use and on performance (including GPU support)
@@ -1593,7 +1595,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [lsd (⭐14k)](https://github.com/lsd-rs/lsd) - An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/lsd-rs/lsd/actions)
+*   [lsd (⭐14k)](https://github.com/lsd-rs/lsd) - An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/actions/workflows/CICD.yml/badge.svg)](https://github.com/lsd-rs/lsd/actions)
 
 ## [Mar 15, 2023](/content/2023/03/15/README.md)
 

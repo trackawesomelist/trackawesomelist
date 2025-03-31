@@ -496,7 +496,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Vibe Coding
 
-*   [filipecalegario/awesome-vibe-coding (⭐4)](https://github.com/filipecalegario/awesome-vibe-coding): A curated list of vibe coding references, colaborating with AI to write code.
+*   [filipecalegario/awesome-vibe-coding (⭐212)](https://github.com/filipecalegario/awesome-vibe-coding): A curated list of vibe coding references, colaborating with AI to write code.
 *   [Andrej Karpathy on X](https://x.com/karpathy/status/1886192184808149383): "There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and forget that the code even exists."
 *   [Windsurf Editor by Codeium](https://codeium.com/windsurf): agentic IDE, "where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic"
 *   [Bolt.new](https://bolt.new/): Prompt, run, edit, and deploy full-stack web and mobile apps.
@@ -539,8 +539,9 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Everything to Markdown to LLMs
 
-*   [microsoft/markitdown (⭐40k)](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
-*   [docling-project/docling (⭐24k)](https://github.com/docling-project/docling): get your documents ready for gen AI
+*   [opendatalab/MinerU (⭐29k)](https://github.com/opendatalab/MinerU): A high-quality tool for convert PDF to Markdown and JSON
+*   [microsoft/markitdown (⭐42k)](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
+*   [docling-project/docling (⭐26k)](https://github.com/docling-project/docling): get your documents ready for gen AI
 *   [Firecrawl](https://www.firecrawl.dev/): Turn websites into LLM-ready data
 *   [CatchTheTornado/text-extract-api (⭐2.5k)](https://github.com/CatchTheTornado/text-extract-api): document (PDF, Word, PPTX ...) extraction and parse API using OCRs + Ollama supported models. Anonymize documents. Remove PII. Convert any document or picture to structured JSON or Markdown
 *   [R Jina](https://r.jina.ai/): convert websites into Markdown by placing the URL in the search bar

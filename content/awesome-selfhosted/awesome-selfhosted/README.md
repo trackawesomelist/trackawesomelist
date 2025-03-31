@@ -6,6 +6,24 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Mar 31, 2025](/content/2025/03/31/README.md)
+
+### Software / Automation
+
+*   [Pinchflat (⭐2.8k)](https://github.com/kieraneglin/pinchflat) `⚠` - An app for downloading YouTube content built using yt-dlp. `AGPL-3.0` `Docker`
+
+### Software / Games - Administrative Utilities & Control Panels
+
+*   [Gaseous Server (⭐505)](https://github.com/gaseous-project/gaseous-server) `⚠` - A game ROM manager, with a built in web based emulator using multiple sources to identify and provide metadata. `AGPL-3.0` `Docker/.NET`
+
+### Software / Miscellaneous
+
+*   [Speedtest Tracker](https://docs.speedtest-tracker.dev/) - Monitor the performance and uptime of your internet connection. ([Source Code (⭐3.5k)](https://github.com/alexjustesen/speedtest-tracker)) `MIT` `Docker/K8S`
+
+### Software / URL Shorteners
+
+*   [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains and custom URLs. ([Demo](https://kutt.it), [Source Code (⭐9.5k)](https://github.com/thedevs-network/kutt)) `MIT` `Nodejs/Docker`
+
 ## [Mar 30, 2025](/content/2025/03/30/README.md)
 
 ### Software / Proxy

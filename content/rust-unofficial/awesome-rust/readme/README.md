@@ -516,7 +516,7 @@ See also [A comparison of operating systems written in Rust (⭐750)](https://gi
 *   [LACT (⭐2.1k)](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 *   [lodosgroup/lpm (⭐66)](https://github.com/lodosgroup/lpm) - An experimental system package manager
 *   [lotabout/rargs (⭐522)](https://github.com/lotabout/rargs) \[[rargs](https://crates.io/crates/rargs)] - xargs + awk with pattern matching support
-*   [lsd (⭐14k)](https://github.com/lsd-rs/lsd) - An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/lsd-rs/lsd/actions)
+*   [lsd (⭐14k)](https://github.com/lsd-rs/lsd) - An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/actions/workflows/CICD.yml/badge.svg)](https://github.com/lsd-rs/lsd/actions)
 *   [Luminarys/synapse (⭐850)](https://github.com/Luminarys/synapse) - Flexible and fast BitTorrent daemon.
 *   [m4b/bingrep (⭐1.7k)](https://github.com/m4b/bingrep) - Greps through binaries from various OSs and architectures, and colors them.
 *   [mdgaziur/findex (⭐612)](https://github.com/mdgaziur/findex) - Findex is a highly customizable application finder using GTK3
@@ -681,7 +681,7 @@ See also [A comparison of operating systems written in Rust (⭐750)](https://gi
 *   [dotenv-linter (⭐1.9k)](https://github.com/dotenv-linter/dotenv-linter) - Linter for `.env` files [![build badge](https://github.com/dotenv-linter/dotenv-linter/actions/workflows/ci.yml/badge.svg)](https://github.com/dotenv-linter/dotenv-linter/actions?query=workflow%3ACI+branch%3Amaster)
 *   [envio-cli/envio (⭐844)](https://github.com/envio-cli/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/envio-cli/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/envio-cli/envio/actions/workflows/CICD.yml)
 *   [Flox (⭐3.1k)](https://github.com/flox/flox) - Flox is a virtual environment and package manager all in one.
-*   [frolic (⭐192)](https://github.com/FrolicOrg/Frolic) - An API layer to build customer facing dashboards 10x faster
+*   [frolic (⭐192)](https://github.com/frolicflow/Frolic) - An API layer to build customer facing dashboards 10x faster
 *   [fw (⭐548)](https://github.com/brocode/fw) - workspace productivity booster [![Rust](https://github.com/brocode/fw/actions/workflows/rust.yml/badge.svg)](https://github.com/brocode/fw/actions/workflows/rust.yml)
 *   [fzf-make (⭐157)](https://github.com/kyu08/fzf-make) \[[fzf-make](https://crates.io/crates/fzf-make)] - A command line tool that executes make target using fuzzy finder with preview window. [![crates.io](https://img.shields.io/crates/v/fzf-make?style=flatflat-square)](https://crates.io/crates/fzf-make)
 *   [geiger (⭐1.4k)](https://github.com/geiger-rs/cargo-geiger) - A program that list statistics related to usage of unsafe code in a crate and all its dependencies [![Build Status](https://dev.azure.com/cargo-geiger/cargo-geiger/_apis/build/status/geiger-rs.cargo-geiger?branchName=master)](https://dev.azure.com/cargo-geiger/cargo-geiger/_build/latest?definitionId=1\&branchName=master)
@@ -1064,7 +1064,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
     *   [awslabs/aws-sdk-rust (⭐3.1k)](https://github.com/awslabs/aws-sdk-rust) - The new AWS SDK
     *   [rusoto/rusoto (⭐2.7k)](https://github.com/rusoto/rusoto) - An AWS SDK for Rust
 *   Azure
-    *   [Azure/azure-sdk-for-rust (⭐781)](https://github.com/Azure/azure-sdk-for-rust) - Official Azure SDK for Rust
+    *   [Azure/azure-sdk-for-rust (⭐798)](https://github.com/Azure/azure-sdk-for-rust) - Official Azure SDK for Rust
 *   Load Balancer
     *   [Convey (⭐345)](https://github.com/bparli/convey) - Layer 4 Load Balancer with dynamic configuration loading.
 *   Multi Cloud

@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
+
+### Development tools / Web Servers
+
+*   [frolic (⭐192)](https://github.com/frolicflow/Frolic) - An API layer to build customer facing dashboards 10x faster
+
 ## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)
 
 ### Applications
@@ -29,7 +35,7 @@ A curated list of Rust code and resources.
 ### Libraries / Cloud
 
 *   Azure
-    *   [Azure/azure-sdk-for-rust (⭐781)](https://github.com/Azure/azure-sdk-for-rust) - Official Azure SDK for Rust
+    *   [Azure/azure-sdk-for-rust (⭐798)](https://github.com/Azure/azure-sdk-for-rust) - Official Azure SDK for Rust
 
 ### Libraries / Data processing
 
@@ -1168,10 +1174,6 @@ A curated list of Rust code and resources.
 
 *   [mu-arch/skyfolder (⭐140)](https://github.com/mu-arch/skyfolder) - 🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast
 
-### Development tools / Web Servers
-
-*   [frolic (⭐192)](https://github.com/FrolicOrg/Frolic) - An API layer to build customer facing dashboards 10x faster
-
 ### Libraries / Artificial Intelligence
 
 *   [huggingface/candle (⭐17k)](https://github.com/huggingface/candle) \[[candle-core](https://crates.io/crates/candle-core)] - a minimalist ML framework with a focus on easiness of use and on performance (including GPU support)
@@ -1434,7 +1436,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [lsd (⭐14k)](https://github.com/lsd-rs/lsd) - An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/lsd-rs/lsd/actions)
+*   [lsd (⭐14k)](https://github.com/lsd-rs/lsd) - An ls with a lot of pretty colors and awesome icons [![build](https://github.com/lsd-rs/lsd/actions/workflows/CICD.yml/badge.svg)](https://github.com/lsd-rs/lsd/actions)
 
 ## [Mar 06 - Mar 12, 2023](/content/2023/10/README.md)
 

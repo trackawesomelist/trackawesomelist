@@ -1252,6 +1252,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [lsd (tankeryang) (⭐0)](https://github.com/tankeryang/zsh-lsd) - Replaces `ls` and `tree` commands with [lsd (⭐14k)](https://github.com/Peltoche/lsd).
 *   [lsd (wintermi) (⭐5)](https://github.com/wintermi/zsh-lsd) - Override `ls` and `tree` commands with [lsd (⭐14k)](https://github.com/Peltoche/lsd).
 *   [lsd (z-shell) (⭐13)](https://github.com/z-shell/zsh-lsd) - Replaces `ls` with [lsd (⭐14k)](https://github.com/Peltoche/lsd).
+*   [lsi (⭐0)](https://github.com/ppcamp/zsh-lsi) - Improve `ls` listing output.
 *   [lumberjack (⭐43)](https://github.com/molovo/lumberjack) - Lumberjack is a logging interface for shell scripts.
 *   [lux (⭐34)](https://github.com/pndurette/zsh-lux) - ZSH plugin to toggle the light & dark modes of macOS, iTerm 2, Visual Studio Code and other items and applications via the `lux` command. Highly customizable: included items can be configured by defining variables. Highly extensible: items can be added by defining functions. Includes a `macos_is_dark` helper function to determine if the macOS dark mode is active for use in theming.
 *   [mac-packaging (⭐1)](https://github.com/Temikus/mac-packaging) - A set of common functions used for enterprise Mac packaging with [Munki](https://www.munki.org/munki/).
@@ -1517,6 +1518,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [ssh-connect (⭐113)](https://github.com/gko/ssh-connect) - A simple `ssh` manager.
 *   [ssh-plugin (⭐5)](https://github.com/paraqles/zsh-plugin-ssh) - Plugin for `ssh`.
 *   [ssh-quickconnect (⭐1)](https://github.com/breda/zsh-ssh-quickconnect) - Simple utility to quickly connect to hosts from your `ssh` config & `known_hosts` file.
+*   [sshpky (⭐0)](https://github.com/jeffzhangc/sshpky_zsh_plugin) - Auto updates git-repositories in the `$ZSH_CUSTOM` folder.
 *   [sshukh (⭐7)](https://github.com/anatolykopyl/sshukh-zsh-plugin) - Will update your `known_hosts` file when you `ssh` into a server.
 *   [startify (⭐3)](https://github.com/NorthIsMirror/zsh-startify) - Shows recently used `vim` files, shell-util files, active `tmux` sessions, recently-run `git` commands and more.
 *   [startup-timer (⭐22)](https://github.com/paulmelnikow/zsh-startup-timer) - Print the time it takes for the shell to start up.
