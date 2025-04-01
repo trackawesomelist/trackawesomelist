@@ -1234,7 +1234,7 @@ additional ordered map implementations.
 
 *Awesome game development libraries.*
 
-*   [Arche (⭐172)](https://github.com/mlange-42/arche) - Archetype-based Entity Component System (ECS) for Go.
+*   [Ark (⭐57)](https://github.com/mlange-42/ark) - Archetype-based Entity Component System (ECS) for Go.
 *   [Ebitengine (⭐12k)](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
 *   [ecs (⭐138)](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang.
 *   [engo (⭐1.8k)](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm.
@@ -2784,6 +2784,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [generate (⭐30)](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 *   [ghokin (⭐46)](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
 *   [git-time-metric (⭐991)](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
+*   [git-tools (⭐31)](https://github.com/kazhuravlev/git-tools) - Tool to help manage git tags.
 *   [gitbatch (⭐1.6k)](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place.
 *   [gitcs (⭐122)](https://github.com/knbr13/gitcs/) - Git Commits Visualizer, CLI tool to visualize your Git commits on your local machine.
 *   [go-actuator (⭐0)](https://github.com/sinhashubham95/go-actuator) - Production ready features for Go based web frameworks.
@@ -2987,7 +2988,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [go-mpd (⭐24)](https://github.com/unki2aut/go-mpd) - Parser and generator library for MPEG-DASH manifest files.
 *   [goav (⭐2.1k)](https://github.com/giorgisio/goav) - Comprehensive Go bindings for FFmpeg.
 *   [gortsplib (⭐746)](https://github.com/aler9/gortsplib) - Pure Go RTSP server and client library.
-*   [libvlc-go (⭐457)](https://github.com/adrg/libvlc-go) - Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
+*   [libvlc-go (⭐462)](https://github.com/adrg/libvlc-go) - Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
 *   [m3u8 (⭐1.3k)](https://github.com/grafov/m3u8) - Parser and generator library of M3U8 playlists for Apple HLS.
 *   [mp4ff (⭐506)](https://github.com/Eyevinn/mp4ff) - Library and tools for working with MP4 files containing video, audio, subtitles, or metadata.
 *   [v4l (⭐82)](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.

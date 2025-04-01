@@ -11,6 +11,7 @@
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx (⭐1)](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
+*   [ngx-create (⭐1)](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -535,7 +536,7 @@
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-advance (⭐3)](https://github.com/ksunny-works/ng-advance) - A modern and fully-configured Angular starter template, empowering developers to quickly bootstrap their Angular projects with tools like Prettier, Jest, Husky, and ESLint.
-*   [@wlucha/angular-starter (⭐327)](https://github.com/wlucha/angular-starter) - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
+*   [@wlucha/angular-starter (⭐337)](https://github.com/wlucha/angular-starter) - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
 
 ### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

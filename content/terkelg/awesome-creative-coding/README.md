@@ -6,6 +6,16 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 [ Daily / [Weekly](/content/terkelg/awesome-creative-coding/week/README.md) / [Overview](/content/terkelg/awesome-creative-coding/readme/README.md) ]
 
+## [Apr 01, 2025](/content/2025/04/01/README.md)
+
+### Articles • Tutorials / Shaders • OpenGL • WebGL
+
+*   [OpenGL/GLSL Shader Programming](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programming.
+
+### Interactive / Other
+
+*   [Fragment-foundry](http://hughsk.io/fragment-foundry) - Interactive fragment shader tutorial.
+
 ## [Nov 22, 2024](/content/2024/11/22/README.md)
 
 ### Math / Other
@@ -45,7 +55,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 ### Frameworks • Libraries • Ecosystems
 
 *   [Godot](https://godotengine.org) \[Cross-platform] - Open source game engine, that can also be used for all sorts of things.
-*   [Fragment.tools (⭐838)](https://github.com/raphaelameaume/fragment) \[Cross-platform] - A web development environment for creative coding.
+*   [Fragment.tools (⭐851)](https://github.com/raphaelameaume/fragment) \[Cross-platform] - A web development environment for creative coding.
 
 ### Visual Programming Languages
 
@@ -95,7 +105,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [Lygia (⭐2.7k)](https://github.com/patriciogonzalezvivo/lygia) \[Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
+*   [Lygia (⭐2.8k)](https://github.com/patriciogonzalezvivo/lygia) \[Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
 
 ### Sound Programming Languages
 
@@ -105,8 +115,8 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Frameworks • Libraries • Ecosystems
 
-*   [PixelKit (⭐886)](https://github.com/heestand-xyz/PixelKit) \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
-*   [AsyncGraphics (⭐341)](https://github.com/heestand-xyz/AsyncGraphics) \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
+*   [PixelKit (⭐891)](https://github.com/heestand-xyz/PixelKit) \[iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
+*   [AsyncGraphics (⭐362)](https://github.com/heestand-xyz/AsyncGraphics) \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 
 ### Visual Programming Languages
 
@@ -144,7 +154,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Courses
 
-*   [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether your are a beginner or an advanced developer.
+*   [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether you are a beginner or an advanced developer.
 
 ### Visual Programming Languages
 
@@ -163,13 +173,13 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Related / Other
 
-*   [Awesome creative technology (⭐452)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
+*   [Awesome creative technology (⭐501)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
 
 ## [Sep 23, 2021](/content/2021/09/23/README.md)
 
 ### Web Programming • Libraries
 
-*   [Theatre.js (⭐11k)](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
+*   [Theatre.js (⭐12k)](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
 
 ### Schools • Workshops / Other
 
@@ -210,11 +220,11 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 *   [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG.
 *   [Oimo.js (⭐3.1k)](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
-*   [Ammo.js (⭐4.2k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+*   [Ammo.js (⭐4.3k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 
 ### Other
 
-*   [Konstrukt (⭐63)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
+*   [Konstrukt (⭐64)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
 
 ## [Sep 02, 2020](/content/2020/09/02/README.md)
 
@@ -253,7 +263,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Web Programming • Libraries
 
-*   [OGL.js (⭐3.8k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
+*   [OGL.js (⭐4k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
 
 ### Schools • Workshops / Other
 
@@ -285,7 +295,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Visual Programming Languages
 
-*   [eternal (⭐538)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
+*   [eternal (⭐544)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
 
 ### Other / Other
 
@@ -321,7 +331,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Other
 
-*   [Fragment (⭐167)](https://github.com/rezaali/fragment) \[Mac]- App to live code GLSL graphics.
+*   [Fragment](https://github.com/rezaali/fragment) \[Mac]- App to live code GLSL graphics.
 
 ## [Oct 27, 2019](/content/2019/10/27/README.md)
 
@@ -429,7 +439,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Web Programming • Libraries
 
-*   [Babylon.js (⭐23k)](https://github.com/BabylonJS/Babylon.js) - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
+*   [Babylon.js (⭐24k)](https://github.com/BabylonJS/Babylon.js) - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 
 ### Other
 
@@ -549,10 +559,10 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 ### Web Programming • Libraries
 
 *   [lightgl.js (⭐1.5k)](https://github.com/evanw/lightgl.js) - A lightweight WebGL library.
-*   [picogl.js (⭐790)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
+*   [picogl.js (⭐792)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
 *   [Alfrid (⭐233)](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
-*   [twigl (⭐2.7k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
-*   [luma.gl (⭐2.3k)](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
+*   [twigl (⭐2.8k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
+*   [luma.gl (⭐2.4k)](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
 
 ### Machine learning • Computer Vision • Ai / Other
 
@@ -561,13 +571,13 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Related / Other
 
-*   [3D Machine Learning (⭐9.8k)](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
+*   [3D Machine Learning (⭐9.9k)](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 
 ## [May 17, 2018](/content/2018/05/17/README.md)
 
 ### Web Programming • Libraries
 
-*   [Proton (⭐2.4k)](https://github.com/a-jie/Proton) - A lightweight and powerful javascript particle engine.
+*   [Proton (⭐2.5k)](https://github.com/a-jie/Proton) - A lightweight and powerful javascript particle engine.
 
 ## [May 15, 2018](/content/2018/05/15/README.md)
 
@@ -613,7 +623,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Blogs • Websites / Other
 
-*   [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
+*   [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon Schreibt.
 
 ## [Feb 21, 2018](/content/2018/02/21/README.md)
 
@@ -661,12 +671,6 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 ### Talks
 
 *   [Intro to WebGL Slides](http://davidscottlyons.com/threejs/presentations/frontporch14/) [Video](https://www.youtube.com/watch?v=6eLl8yQnxHQ) - Intro to WebGL with three.js.
-
-## [Nov 14, 2017](/content/2017/11/14/README.md)
-
-### Articles • Tutorials / Shaders • OpenGL • WebGL
-
-*   [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programing.
 
 ## [Nov 09, 2017](/content/2017/11/09/README.md)
 
@@ -813,7 +817,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems through out the 3D graphics pipeline.
+*   [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems throughout the 3D graphics pipeline.
 
 ### Other / Other
 
@@ -951,7 +955,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Projection Mapping • VJing
 
-*   [VirtualMapper (⭐225)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+*   [VirtualMapper (⭐228)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 
 ## [Apr 10, 2017](/content/2017/04/10/README.md)
 
@@ -962,7 +966,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Machine learning • Computer Vision • Ai / Other
 
-*   [Machine Learning (⭐955)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
+*   [Machine Learning (⭐958)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
 ## [Apr 02, 2017](/content/2017/04/02/README.md)
 
@@ -1061,12 +1065,12 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 *   [Introduction to shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) - Part 1 of an introduction to shaders using threejs.
 *   [Three.js 101](https://medium.com/@necsoft/three-js-101-hello-world-part-1-443207b1ebe1) - Introduction to three.js from a creative coder perspective.
 *   [lwjgl: Shaders (⭐1.9k)](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) - Shader tutorial in the context of lwjgl-basics.
-*   [WebGL Beyond Dom (⭐16)](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum explain the basic of WebGL using Regl.
+*   [WebGL Beyond Dom (⭐17)](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum explains the basics of WebGL using Regl.
 *   [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere.
 *   [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
 *   [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - Introduction to custom shaders, uniforms, textures and lighting in three.js.
 *   [An intro to modern OpenGL](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) - First part of an introduction to modern OpenGL.
-*   [Modern OpenGL Series (⭐811)](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms.
+*   [Modern OpenGL Series (⭐813)](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms.
 *   [Volumetric rendering](http://www.alanzucconi.com/2016/07/01/volumetric-rendering/) - Explains how to create complex 3D shapes inside volumetric shaders.
 *   [Real-time Rendering](http://www.realtimerendering.com/) - Book, blog and collection of resources regarding real-time rendering.
 *   [OpenGL 4 Shaders](http://antongerdelan.net/opengl/shaders.html) - Short and sweet introduction to OpenGL shaders by Anton Gerdelan.
@@ -1143,12 +1147,12 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 ### Related / Other
 
 *   [Awesome webgl (⭐1.4k)](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
-*   [Awesome visualization research (⭐934)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
+*   [Awesome visualization research (⭐945)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
 *   [Awesome graphics (⭐1.1k)](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
 *   [Graphics resources (⭐1.8k)](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
 *   [Magic tools (⭐14k)](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
 *   [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-*   [Awesome public datasets (⭐61k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public available datasets, mostly free resources.
+*   [Awesome public datasets (⭐63k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public available datasets, mostly free resources.
 *   [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
 ## [Mar 27, 2017](/content/2017/03/27/README.md)
@@ -1173,7 +1177,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Related / Other
 
-*   [Awesome livecoding (⭐2.6k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
+*   [Awesome livecoding (⭐2.7k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 
 ## [Feb 16, 2017](/content/2017/02/16/README.md)
 
@@ -1209,7 +1213,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [Three glslify example (⭐78)](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
+*   [Three glslify example (⭐79)](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
 
 ### Interactive / Other
 
@@ -1235,7 +1239,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Inspiration / Other
 
-*   [People You Should Follow on CodePen (⭐691)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
+*   [People You Should Follow on CodePen (⭐695)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
 
 ## [Jan 20, 2017](/content/2017/01/20/README.md)
 
@@ -1268,7 +1272,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 ### Math / Other
 
 *   [Math as code (⭐15k)](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form.
-*   [Eases (⭐378)](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
+*   [Eases (⭐379)](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
 
 ### Inspiration / Other
 
@@ -1277,9 +1281,9 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 ### Related / Other
 
 *   [Awesome opengl (⭐2.2k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-*   [Awesome canvas (⭐1.6k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
+*   [Awesome canvas (⭐1.7k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
 *   [Awesome audio visualization (⭐4.7k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
-*   [Awesome computer vision (⭐21k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+*   [Awesome computer vision (⭐22k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 
 ## [Jan 11, 2017](/content/2017/01/11/README.md)
 
@@ -1293,13 +1297,13 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [WebGL Lessons — ThreeJS Shaders (⭐366)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
-*   [ThreeJS post-proces example (⭐24)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
+*   [ThreeJS post-proces example (⭐25)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
 
 ## [Nov 30, 2016](/content/2016/11/30/README.md)
 
 ### Math / Other
 
-*   [Learning Maths again (⭐193)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
+*   [Learning Maths again (⭐195)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 
 ## [Nov 23, 2016](/content/2016/11/23/README.md)
 
@@ -1317,7 +1321,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Web Programming • Libraries
 
-*   [three.js (⭐103k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+*   [three.js (⭐105k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 
 ### Inspiration / Other
 
@@ -1343,7 +1347,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL
 
-*   [GLSL lighting walkthrough (⭐460)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
+*   [GLSL lighting walkthrough (⭐463)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
 
 ### Math / Other
 
@@ -1369,7 +1373,6 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 ### Interactive / Other
 
 *   [Webgl-workshop (⭐1.5k)](https://github.com/stackgl/webgl-workshop) - The sequel to shader-school: Learn the WebGL API.
-*   [Fragment-oundry](http://hughsk.io/fragment-foundry) - Interactive fragment shader tutorial.
 *   [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) - Shadertoy tutorial on raytracing.
 *   [HOWTO: Ray Marching](https://www.shadertoy.com/view/XllGW4) - Shadertoy tutorial on Ray Marching.
 *   [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) - Shadertoy raymarch tutorial.

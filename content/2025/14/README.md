@@ -1,25 +1,58 @@
 # Awesome List Updates on Apr 07 - Apr 13, 2025
 
-16 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [1. Awesome Quant](/content/wilsonfreitas/awesome-quant/week/README.md)
+
+### Python / Data Sources
+
+*   [polygon.io (⭐962)](https://github.com/polygon-io/client-python) - A python library for Polygon.io financial data APIs.
+*   [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
+
+## [2. Awesome Go](/content/avelino/awesome-go/week/README.md)
+
+### Game Development
+
+*   [Ark (⭐57)](https://github.com/mlange-42/ark) - Archetype-based Entity Component System (ECS) for Go.
+
+### Utilities
+
+*   [git-tools (⭐31)](https://github.com/kazhuravlev/git-tools) - Tool to help manage git tags.
+
+## [3. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+
+### Bundlers
+
+*   [Vite](https://vite.dev/) - Next Generation Frontend Tooling.
+
+## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+
+### Articles • Tutorials / Shaders • OpenGL • WebGL
+
+*   [OpenGL/GLSL Shader Programming](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programming.
+
+### Interactive / Other
+
+*   [Fragment-foundry](http://hughsk.io/fragment-foundry) - Interactive fragment shader tutorial.
+
+## [5. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Standout Projects
 
 *   [NeoFables](https://neofables.com/) - Create your own worlds in the first dynamically AI generated VR storytelling experience. Nominated for "Game of the Year" and "Experience of the Year" at the 2024 Polys Immersive Awards. Also first GenAI VR experience featured by Meta.
 
-## [2. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [6. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 4
 
 *   [HCoroutines (⭐19)](https://github.com/Inspiaaa/HCoroutines) - Powerful C# coroutine library for Godot.
 *   [ThemeGen (⭐104)](https://github.com/Inspiaaa/ThemeGen) - Easily create themes using GDScript code, allowing you to reuse styles, recombine them, and effortlessly reuse and share colours between components.
 
-## [3. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [7. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Backups
 
@@ -29,7 +62,7 @@
 
 *   [Terrateam](https://terrateam.io) - GitOps-first automation platform for Terraform and OpenTofu workflows with support for self-hosted runners. ([Source Code (⭐659)](https://github.com/terrateamio/terrateam)) `MPL-2.0` `OCaml/Docker`
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [8. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -39,42 +72,43 @@
 
 *   [AnyDesk](https://anydesk.com) —  Free for 3 devices, no limits on the number and duration of sessions
 
-## [5. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [9. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Construct 2
 
 *   [Neo NW (⭐0)](https://github.com/kckarnige/NeoNWjsForC2) - Easily setup exporting for the latest version of NW\.js, replacing the outdated "NW\.js for Construct 2" installer.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx (⭐1)](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
+*   [ngx-create (⭐1)](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [altcha (⭐739)](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
 
-## [7. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [11. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
 *   [SSOJet](https://ssojet.com/) - Enterprise SSO without rebuilding auth. The free plan includes unlimited monthly active users, unlimited organizations, 2 SSO & 2 SCIM connections.
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Concepts / AI Concept Representation
 
 *   [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://aclanthology.org/2024.acl-long.820/) - ***ACL'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=5847238732288003106)]. A preliminary work empirically showing that the intermediate embeddings of multilingual Transformers (1) start far away from output token embeddings; (2) already allow for decoding a semantically correct next token in the middle layers, but give higher probability to its version in English than in the input language; (3) finally move into an input-language-specific region of the embedding space. Also, the embedding of abstract concept space lies closer to English than to other languages.
 
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Miscellaneous
 
 *   [claw-raylib (⭐55)](https://github.com/bohonghuang/claw-raylib) (2023) - Fully auto-generated Common Lisp bindings to Raylib and Raygui using claw and cffi-object. Apache 2.0.
 *   [raylib (⭐3)](https://github.com/fosskers/raylib/) (2025) - Hand-written bindings to Raylib for improved performance and smaller dependency footprint. MPL-2.
 
-## [10. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [14. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### GUI
 
@@ -84,7 +118,7 @@
 
 *   [AsmJit (⭐4.1k)](https://github.com/asmjit/asmjit) - Low-latency machine code generation. \[Zlib] [website](https://asmjit.com)
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [15. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Security tools
 
@@ -94,13 +128,13 @@
 
 *   [frolic (⭐192)](https://github.com/frolicflow/Frolic) - An API layer to build customer facing dashboards 10x faster
 
-## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [16. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Everything to Markdown to LLMs
 
 *   [opendatalab/MinerU (⭐29k)](https://github.com/opendatalab/MinerU): A high-quality tool for convert PDF to Markdown and JSON
 
-## [13. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [17. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -122,14 +156,14 @@
 
 *   [NGINX](https://nginx.org/en/) - HTTP and reverse proxy server, mail proxy server, and generic TCP/UDP proxy server. ([Source Code (⭐26k)](https://github.com/nginx/nginx)) `BSD-2-Clause` `C/deb/Docker`
 
-## [14. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [18. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [lsi (⭐0)](https://github.com/ppcamp/zsh-lsi) - Improve `ls` listing output.
 *   [sshpky (⭐0)](https://github.com/jeffzhangc/sshpky_zsh_plugin) - Auto updates git-repositories in the `$ZSH_CUSTOM` folder.
 
-## [15. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
+## [19. Awesome Algorand](/content/aorumbayev/awesome-algorand/week/README.md)
 
 ### Official Resources
 
@@ -181,7 +215,7 @@
 *   [ARC56 (⭐129)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0056.md) - Extended and improved Application Specification.
 *   [ARC69 (⭐129)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0069.md) - One of several Algorand Standard Asset Parameters Conventions.
 
-## [16. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [20. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Monitoring
 

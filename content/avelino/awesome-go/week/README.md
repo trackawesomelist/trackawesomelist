@@ -6,6 +6,16 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
+
+### Game Development
+
+*   [Ark (⭐57)](https://github.com/mlange-42/ark) - Archetype-based Entity Component System (ECS) for Go.
+
+### Utilities
+
+*   [git-tools (⭐31)](https://github.com/kazhuravlev/git-tools) - Tool to help manage git tags.
+
 ## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)
 
 ### Go Compilers
@@ -114,10 +124,6 @@ A curated list of awesome Go frameworks, libraries and software
 ### Financial
 
 *   [ledger (⭐936)](https://github.com/formancehq/ledger) - A programmable financial ledger that provides a foundation for money-moving applications.
-
-### Game Development
-
-*   [Arche (⭐172)](https://github.com/mlange-42/arche) - Archetype-based Entity Component System (ECS) for Go.
 
 ### Uncategorized
 
@@ -4585,7 +4591,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-mpd (⭐24)](https://github.com/unki2aut/go-mpd) - Parser and generator library for MPEG-DASH manifest files.
 *   [goav (⭐2.1k)](https://github.com/giorgisio/goav) - Comprehensive Go bindings for FFmpeg.
 *   [gortsplib (⭐746)](https://github.com/aler9/gortsplib) - Pure Go RTSP server and client library.
-*   [libvlc-go (⭐457)](https://github.com/adrg/libvlc-go) - Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
+*   [libvlc-go (⭐462)](https://github.com/adrg/libvlc-go) - Go bindings for libvlc 2.X/3.X/4.X (used by the VLC media player).
 *   [m3u8 (⭐1.3k)](https://github.com/grafov/m3u8) - Parser and generator library of M3U8 playlists for Apple HLS.
 *   [v4l (⭐82)](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 
