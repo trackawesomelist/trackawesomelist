@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Apr 01, 2025](/content/2025/04/01/README.md)
+
+### GUI
+
+*   [NAppGUI (⭐557)](https://github.com/frang75/nappgui_src) - SDK for building cross-platform desktop apps in ANSI-C. \[MIT] [website](https://nappgui.com/en/home/web/home.html)
+
 ## [Mar 31, 2025](/content/2025/03/31/README.md)
 
 ### Miscellaneous
