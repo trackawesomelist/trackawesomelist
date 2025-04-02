@@ -1,12 +1,34 @@
 # Awesome List Updates on Apr 02, 2025
 
-10 awesome lists updated today.
+13 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+## [1. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+### Debug
+
+*   [CrashCatch (⭐0)](https://github.com/keithpotz/CrashCatch) - Single-header crash reporting for C++ that logs stack traces and creates `.dmp` and `.txt` crash dumps. \[MIT] [website](https://keithpotz.github.io/CrashCatch)
+
+## [2. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+
+### Projects Using Vue.js / Apps/Websites
+
+*   [EasyWebinar](https://easywebinar.com/) - Webinar Software / Live events & Webinar app.
+
+## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ai-friendly-docs (⭐15)](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
+
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [zed-angular (⭐82)](https://github.com/nathansbradshaw/zed-angular) - This extension integrates the Angular Language Service into [Zed](https://zed.dev/).
+
+## [4. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
 
 ### Index / Cloud
 
@@ -16,7 +38,7 @@
 
 *   [Wavestack](https://wavestack.cloud/) 🇩🇪 - VPS based on [Sovereign Cloud Stack](https://scs.community).
 
-## [2. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+## [5. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ### Browsers
 
@@ -29,13 +51,13 @@
 
 *   [Beekeeper Studio](https://www.beekeeperstudio.io/) - A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/beekeeper-studio/beekeeper-studio)
 
-## [3. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+## [6. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ### :package: Packers / After 2010
 
 *   [Astral-PE (⭐191)](https://github.com/DosX-dev/Astral-PE) - Low-level mutator (Headers/EP obfuscator) for native Windows PE files (x32/x64)
 
-## [4. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
+## [7. Awesome Honeypots](/content/paralax/awesome-honeypots/README.md)
 
 ### Honeypots
 
@@ -79,19 +101,19 @@
         *   [wordpot (⭐182)](https://github.com/gbrindisi/wordpot) - WordPress Honeypot.
     *   [Python-Honeypot (⭐458)](https://github.com/OWASP/Python-Honeypot) - OWASP Honeypot, Automated Deception Framework.
 
-## [5. Awesome V](/content/vlang/awesome-v/README.md)
+## [8. Awesome V](/content/vlang/awesome-v/README.md)
 
 ### Database clients
 
 *   [firebird (⭐1)](https://github.com/einar-hjortdal/firebird) - Client for Firebird SQL.
 
-## [6. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [9. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Network Protocols
 
 *   [dns (⭐9)](https://github.com/spider-gazelle/dns) - DNS protocol implementation and resolver
 
-## [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications
 
@@ -101,7 +123,7 @@
 
 *   [0xdea/jiggy (⭐3)](https://github.com/0xdea/jiggy) \[[jiggy](https://crates.io/crates/jiggy)] - Minimalistic cross-platform mouse jiggler written in Rust [![build](https://github.com/0xdea/jiggy/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/oneiromancer/jiggy/workflows/build.yml)
 
-## [8. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [11. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -145,13 +167,13 @@
 *   [Protocol Buffers (⭐67k) (⭐67k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 *   [YAML (⭐382) (⭐380)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [9. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+## [12. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ### Deployment Tools / Discovery
 
 *   [Clan](https://clan.lol) - A peer-to-peer deployment tool with inbuilt support for secrets and a module system to manage distributed networks.
 
-## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Web Development / Diagnostics
 

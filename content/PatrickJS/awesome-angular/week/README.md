@@ -8,10 +8,18 @@
 
 ## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
+### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ai-friendly-docs (⭐15)](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
+
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx (⭐1)](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
 *   [ngx-create (⭐1)](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
+
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [zed-angular (⭐82)](https://github.com/nathansbradshaw/zed-angular) - This extension integrates the Angular Language Service into [Zed](https://zed.dev/).
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

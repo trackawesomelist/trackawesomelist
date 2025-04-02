@@ -490,6 +490,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [UI2CODE](https://ui2code.ai/) - UI to Code Converter in seconds with AI.
 *   [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular Application UIs 50% faster with PureCode AI.
 *   [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
+*   [ai-friendly-docs (⭐15)](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
 
 #### Analytics
 
@@ -644,6 +645,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-rename (⭐2)](https://github.com/Khumozin/ngx-rename) - This repository contains PowerShell and Bash scripts to rename an Angular project folder and update relevant files, such as angular.json, package.json, tsconfig.json, and other configuration files.
 *   [madge (⭐9.3k)](https://github.com/pahen/madge) - A developer tool for generating a visual graph of your module dependencies, finding circular dependencies, and giving you other useful info.
 *   [manifest (⭐2.3k)](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
+*   [zed-angular (⭐82)](https://github.com/nathansbradshaw/zed-angular) - This extension integrates the Angular Language Service into [Zed](https://zed.dev/).
 
 #### Documentation tools
 
