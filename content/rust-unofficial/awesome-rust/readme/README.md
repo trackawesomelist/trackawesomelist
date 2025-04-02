@@ -146,7 +146,7 @@ See also [Rust - Production](https://www.rust-lang.org/production) organizations
 *   [Fractalide (⭐882)](https://github.com/fractalide/fractalide) - Simple microservices
 *   [habitat (⭐2.6k)](https://github.com/habitat-sh/habitat) - A tool created by Chef to build, deploy, and manage applications.
 *   [Herd (⭐112)](https://github.com/imjacobclark/Herd) - an experimental HTTP load testing application
-*   [hickory-dns](https://crates.io/crates/trust-dns) - A DNS-server [![Build Status](https://github.com/hickory-dns/hickory-dns/actions/workflows/test.yml/badge.svg)](https://github.com/hickory-dns/hickory-dns/actions?query=workflow%3Atest)
+*   [hickory-dns](https://crates.io/crates/hickory-dns) - A DNS-server [![Build Status](https://github.com/hickory-dns/hickory-dns/actions/workflows/test.yml/badge.svg)](https://github.com/hickory-dns/hickory-dns/actions?query=workflow%3Atest)
 *   [innernet (⭐5.1k)](https://github.com/tonarino/innernet) - An overlay or private mesh network that uses Wireguard under the hood
 *   [jedisct1/flowgger (⭐847)](https://github.com/awslabs/flowgger) - A fast, simple and lightweight data collector
 *   [kalker (⭐1.7k)](https://github.com/PaddiM8/kalker) - A scientific calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers. Cross-platform + WASM support [![Build Status](https://github.com/PaddiM8/kalker/workflows/Release/badge.svg)](https://github.com/PaddiM8/kalker/actions)
@@ -436,6 +436,7 @@ See also [A comparison of operating systems written in Rust (⭐750)](https://gi
 
 ### Productivity
 
+*   [0xdea/jiggy (⭐3)](https://github.com/0xdea/jiggy) \[[jiggy](https://crates.io/crates/jiggy)] - Minimalistic cross-platform mouse jiggler written in Rust [![build](https://github.com/0xdea/jiggy/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/oneiromancer/jiggy/workflows/build.yml)
 *   [aichat (⭐6.2k)](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 *   [ast-grep (⭐8.4k)](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
 *   [Bartib (⭐718)](https://github.com/nikolassv/bartib) \[[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)

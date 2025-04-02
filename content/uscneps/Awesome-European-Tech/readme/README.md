@@ -1,8 +1,8 @@
 # Awesome European Tech Overview
 
-Up-to-date, community-driven list of Awesome European Tech projects! all focusing on privacy, sustainability, and innovation. The goal is to support European startups and projects (Compliance to GDPR, UK GDPR, Swiss FADP) helping to strengthen the European tech ecosystem.
+An up-to-date, community-driven list of awesome European tech alternatives!  all focused on privacy, sustainability, and innovation. The goal is to support European projects and companies (compliant with GDPR, UK GDPR, and the Swiss FADP), helping to strengthen the European tech ecosystem.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/uscneps/Awesome-European-Tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uscneps/Awesome-European-Tech](https://github.com/uscneps/Awesome-European-Tech) · ⭐ 797 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/uscneps/Awesome-European-Tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uscneps/Awesome-European-Tech](https://github.com/uscneps/Awesome-European-Tech) · ⭐ 837 · 🏷️ Platforms
 
 [ [Daily](/content/uscneps/Awesome-European-Tech/README.md) / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / Overview ]
 
@@ -23,9 +23,6 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
     </a>
     <a href="https://github.com/uscneps/Awesome-European-Tech/blob/main/LICENSE">
       <img alt="GitHub License" src="https://img.shields.io/github/license/uscneps/Awesome-European-Tech" />
-    </a>
-    <a href="https://github.com/sponsors/uscneps">
-      <img alt="GitHub Sponsors" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?logo=github-sponsors" />
     </a>
   </p>
 </div>
@@ -91,7 +88,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Music and Travel](#music-and-travel)
 *   [Navigation Apps](#navigation-apps)
 *   [Network Tools and Apps](#network-tools-and-apps)
-*   [Operating Systems (OS)](#operating-systems-os)
 *   [Password Manager Services](#password-manager-services)
 *   [Product Information Management](#product-information-management)
 *   [Productivity Tools](#productivity-tools)
@@ -162,6 +158,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [STACKIT](https://www.stackit.de) 🇩🇪 - Cloud platform for businesses.
 *   [Tresorit](https://tresorit.com/) 🇨🇭 - End-to-end encrypted file sharing for enterprises.
 *   [UpCloud](https://www.upcloud.com) 🇫🇮 - High-speed cloud infrastructure with maxIOPS.
+*   [noris network AG](https://www.noris.de/en/it-services/cloud-services/) 🇩🇪 - Cloud platforms and services specialized for legally regulated companies.
 
 ### Communication Tools
 
@@ -291,7 +288,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### Gaming Projects
 
 *   [GOG](https://www.gog.com/) 🇵🇱 - Digital game shop with DRM-free games only.
-*   [Ubisoft](https://store.ubisoft.com/) 🇫🇷 - Official digital store for Ubisoft games.
 
 ### Hardware
 
@@ -356,16 +352,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### Network Tools and Apps
 
 *   [IPXO](https://www.ipxo.com/) 🇱🇹 - The network platform for IPv4 leasing, management, threat intelligence, and IPv6 capabilities.
-
-### Operating Systems (OS)
-
-*   [/e/ OS Android](https://e.foundation/) 🇫🇷 - Privacy-focused mobile OS based on Android.
-*   [Canonical (Ubuntu)](https://canonical.com/) 🇬🇧 - Ubuntu Linux distribution and services.
-*   [CachyOS](https://cachyos.org/) 🇩🇪 - Arch-based Linux distribution.
-*   [KDE (Plasma Desktop)](https://kde.org/) 🇩🇪 - Customizable desktop environment for Linux.
-*   [Manjaro](https://manjaro.org/) 🇩🇪 - User-friendly Arch-based Linux distribution.
-*   [SUSE](https://www.suse.com/) 🇩🇪 - Enterprise-grade Linux distribution.
-*   [UBports (Ubuntu Touch)](https://ubports.com/) 🇩🇪 - Mobile OS based on Ubuntu.
 
 ### Password manager services
 
@@ -472,6 +458,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [vpsag](https://vpsag.com) 🇧🇬
 *   [Webdock](https://www.webdock.io) 🇩🇰
 *   [Yourserver.se](https://yourserver.se/linux) 🇱🇻
+*   [Wavestack](https://wavestack.cloud/) 🇩🇪 - VPS based on [Sovereign Cloud Stack](https://scs.community).
 
 ### VPN
 
@@ -484,7 +471,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [OctoVPN](https://www.octovpn.com) 🇩🇰 - High-performance gaming VPN with DDoS protection.
 *   [PrivateVPN](https://privatevpn.com/) 🇸🇪 - VPN service with port forwarding features.
 *   [ProtonVPN](https://protonvpn.com/) 🇨🇭 - VPN with built-in adblocker, uses custom Stealth protocol.
-*   [Unlocator VPN](https://unlocator.com) 🇩🇰 - Fast and Secure VPN with utlimate streaming freedom.
+*   [Unlocator VPN](https://unlocator.com) 🇩🇰 - Fast and secure VPN with ultimate streaming freedom.
 *   [Xeovo](https://www.xeovo.com) 🇫🇮 - Privacy-focused VPN with anonymous payments.
 
 ### Web Analytics
@@ -514,4 +501,8 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Vantevo](https://vantevo.io) 🇮🇹 - Analytics with real-time insights.
 *   [Visitor Analytics](https://www.visitor-analytics.io) 🇷🇴 - Website analytics and behavior tracking.
 *   [Wide Angle Analytics](https://wideangle.co) 🇵🇱 - Privacy-first analytics with EU data hosting.
+
+***
+
+[![Star History Chart](https://api.star-history.com/svg?repos=uscneps/Awesome-European-Tech\&type=Date)](https://www.star-history.com/#uscneps/Awesome-European-Tech\&Date)
 

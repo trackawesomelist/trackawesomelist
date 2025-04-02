@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
+
+### Web Development / Diagnostics
+
+*   [azratul/expose-localhost.nvim (⭐2)](https://github.com/azratul/expose-localhost.nvim) - Expose your local server to the internet with cloudflared or ngrok.
+
 ## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)
 
 ### Web Development / Diagnostics

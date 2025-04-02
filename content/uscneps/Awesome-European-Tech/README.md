@@ -1,16 +1,26 @@
 # Track Awesome European Tech Updates Daily
 
-Up-to-date, community-driven list of Awesome European Tech projects! all focusing on privacy, sustainability, and innovation. The goal is to support European startups and projects (Compliance to GDPR, UK GDPR, Swiss FADP) helping to strengthen the European tech ecosystem.
+An up-to-date, community-driven list of awesome European tech alternatives!  all focused on privacy, sustainability, and innovation. The goal is to support European projects and companies (compliant with GDPR, UK GDPR, and the Swiss FADP), helping to strengthen the European tech ecosystem.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uscneps/Awesome-European-Tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uscneps/Awesome-European-Tech](https://github.com/uscneps/Awesome-European-Tech) · ⭐ 797 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uscneps/Awesome-European-Tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uscneps/Awesome-European-Tech](https://github.com/uscneps/Awesome-European-Tech) · ⭐ 837 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
+
+## [Apr 02, 2025](/content/2025/04/02/README.md)
+
+### Index / Cloud
+
+*   [noris network AG](https://www.noris.de/en/it-services/cloud-services/) 🇩🇪 - Cloud platforms and services specialized for legally regulated companies.
+
+### Index / VPS
+
+*   [Wavestack](https://wavestack.cloud/) 🇩🇪 - VPS based on [Sovereign Cloud Stack](https://scs.community).
 
 ## [Mar 29, 2025](/content/2025/03/29/README.md)
 
 ### Index / VPN
 
-*   [Unlocator VPN](https://unlocator.com) 🇩🇰 - Fast and Secure VPN with utlimate streaming freedom.
+*   [Unlocator VPN](https://unlocator.com) 🇩🇰 - Fast and secure VPN with ultimate streaming freedom.
 
 ## [Mar 27, 2025](/content/2025/03/27/README.md)
 
@@ -256,10 +266,6 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 
 *   [ZenML](https://zenml.io/) 🇩🇪 - Production-Grade MLOps Systems, handling evaluation, monitoring, and deployment at scale.
 
-### Index / Gaming Projects
-
-*   [Ubisoft](https://store.ubisoft.com/) 🇫🇷 - Official digital store for Ubisoft games.
-
 ## [Feb 20, 2025](/content/2025/02/20/README.md)
 
 ### Index / Cloud
@@ -333,12 +339,6 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 ### Index / Cloud
 
 *   [Peergos](https://peergos.org/) 🇬🇧 - A p2p, secure file storage, social network and application protocol
-
-### Index / Operating Systems (OS)
-
-*   [/e/ OS Android](https://e.foundation/) 🇫🇷 - Privacy-focused mobile OS based on Android.
-*   [CachyOS](https://cachyos.org/) 🇩🇪 - Arch-based Linux distribution.
-*   [Manjaro](https://manjaro.org/) 🇩🇪 - User-friendly Arch-based Linux distribution.
 
 ### Index / Search engine
 
@@ -607,13 +607,6 @@ Up-to-date, community-driven list of Awesome European Tech projects! all focusin
 *   [OsmAnd](https://osmand.net) 🇨🇿
 *   [Sygic GPS Navigation](https://www.sygic.com) 🇸🇰
 *   [TomTom GO Navigation](https://www.tomtom.com) 🇳🇱
-
-### Index / Operating Systems (OS)
-
-*   [Canonical (Ubuntu)](https://canonical.com/) 🇬🇧 - Ubuntu Linux distribution and services.
-*   [KDE (Plasma Desktop)](https://kde.org/) 🇩🇪 - Customizable desktop environment for Linux.
-*   [SUSE](https://www.suse.com/) 🇩🇪 - Enterprise-grade Linux distribution.
-*   [UBports (Ubuntu Touch)](https://ubports.com/) 🇩🇪 - Mobile OS based on Ubuntu.
 
 ### Index / Password manager services
 

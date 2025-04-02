@@ -8,6 +8,14 @@ A curated list of Rust code and resources.
 
 ## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
+### Applications
+
+*   [hickory-dns](https://crates.io/crates/hickory-dns) - A DNS-server [![Build Status](https://github.com/hickory-dns/hickory-dns/actions/workflows/test.yml/badge.svg)](https://github.com/hickory-dns/hickory-dns/actions?query=workflow%3Atest)
+
+### Applications / Productivity
+
+*   [0xdea/jiggy (⭐3)](https://github.com/0xdea/jiggy) \[[jiggy](https://crates.io/crates/jiggy)] - Minimalistic cross-platform mouse jiggler written in Rust [![build](https://github.com/0xdea/jiggy/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/oneiromancer/jiggy/workflows/build.yml)
+
 ### Applications / Security tools
 
 *   [0xdea/oneiromancer (⭐8)](https://github.com/0xdea/oneiromancer) \[[oneiromancer](https://crates.io/crates/oneiromancer)] - Reverse engineering assistant that uses a locally running LLM to aid with source code analysis [![build](https://github.com/0xdea/oneiromancer/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/oneiromancer/actions/workflows/build.yml)
@@ -1066,10 +1074,6 @@ A curated list of Rust code and resources.
     *   [mthom/scryer-prolog (⭐2.2k)](https://github.com/mthom/scryer-prolog/) - Scryer Prolog is a free software ISO Prolog system written in Rust
 
 ## [Oct 16 - Oct 22, 2023](/content/2023/42/README.md)
-
-### Applications
-
-*   [hickory-dns](https://crates.io/crates/trust-dns) - A DNS-server [![Build Status](https://github.com/hickory-dns/hickory-dns/actions/workflows/test.yml/badge.svg)](https://github.com/hickory-dns/hickory-dns/actions?query=workflow%3Atest)
 
 ### Applications / Blockchain
 
