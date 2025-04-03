@@ -106,7 +106,7 @@ Collections of awesome neovim plugins.
 *   [roobert/activate.nvim (⭐134)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
 *   [nvim-neorocks/rocks.nvim (⭐847)](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
 *   [echasnovski/mini.nvim#mini.deps (⭐6.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
-*   [wsdjeg/nvim-plug (⭐9)](https://github.com/wsdjeg/nvim-plug) - Asynchronous Neovim plugin manager written in Lua.
+*   [wsdjeg/nvim-plug (⭐10)](https://github.com/wsdjeg/nvim-plug) - Asynchronous Neovim plugin manager written in Lua.
 
 <!--lint disable double-link -->
 
@@ -274,7 +274,7 @@ Collections of awesome neovim plugins.
 *   [neolooong/whichpy.nvim (⭐28)](https://github.com/neolooong/whichpy.nvim) - Switch Python interpreter without restarting LSP.
 *   [nvim-java/nvim-java (⭐1.1k)](https://github.com/nvim-java/nvim-java) - Everything you need for a painless Java experience.
 *   [kiyoon/python-import.nvim (⭐31)](https://github.com/kiyoon/python-import.nvim) - Add Python import statements with Tree-sitter, LSP, and more.
-*   [kiyoon/haskell-scope-highlighting.nvim (⭐23)](https://github.com/kiyoon/haskell-scope-highlighting.nvim) - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
+*   [kiyoon/haskell-scope-highlighting.nvim (⭐24)](https://github.com/kiyoon/haskell-scope-highlighting.nvim) - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
 
 ### Golang
 
@@ -357,7 +357,7 @@ Collections of awesome neovim plugins.
 *   [potamides/pantran.nvim (⭐309)](https://github.com/potamides/pantran.nvim) - Translate your text with an interactive translation window.
 *   [niuiic/translate.nvim (⭐42)](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
 *   [tanloong/interlaced.nvim (⭐8)](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
-*   [kiyoon/Korean-IME.nvim (⭐16)](https://github.com/kiyoon/Korean-IME.nvim) - OS-independent Korean input method that converts English inputs to Korean in-place.
+*   [kiyoon/Korean-IME.nvim (⭐17)](https://github.com/kiyoon/Korean-IME.nvim) - OS-independent Korean input method that converts English inputs to Korean in-place.
 
 <!--lint disable double-link -->
 
@@ -438,7 +438,7 @@ Collections of awesome neovim plugins.
 *   [2KAbhishek/markit.nvim (⭐28)](https://github.com/2KAbhishek/markit.nvim) - Improved global marks and project wide bookmarks, to quickly navigate files.
 *   [you-n-g/navigate-note.nvim (⭐22)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
 *   [zongben/navimark.nvim (⭐14)](https://github.com/zongben/navimark.nvim) - An easy and powerful bookmark manager with telescope.
-*   [francescarpi/buffon.nvim (⭐10)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
+*   [francescarpi/buffon.nvim (⭐13)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
 *   [Beargruug/skipper.nvim (⭐2)](https://github.com/Beargruug/skipper.nvim/) - Jump between functions in a file with ease.
 *   [mohseenrm/marko.nvim (⭐4)](https://github.com/mohseenrm/marko.nvim) - Behind the scenes, global marks management for different projects.
 
@@ -516,7 +516,7 @@ Collections of awesome neovim plugins.
 *   [kiran94/s3edit.nvim (⭐45)](https://github.com/kiran94/s3edit.nvim) - Edit files from Amazon S3 directly from Neovim.
 *   [stevearc/oil.nvim (⭐4.9k)](https://github.com/stevearc/oil.nvim) - Edit your filesystem like a buffer.
 *   [kelly-lin/ranger.nvim (⭐165)](https://github.com/kelly-lin/ranger.nvim) - [Ranger (⭐16k)](https://github.com/ranger/ranger) integration for Neovim.
-*   [mikavilpas/yazi.nvim (⭐878)](https://github.com/mikavilpas/yazi.nvim) - Integration with the Yazi terminal file manager.
+*   [mikavilpas/yazi.nvim (⭐906)](https://github.com/mikavilpas/yazi.nvim) - Integration with the Yazi terminal file manager.
 *   [simonmclean/triptych.nvim (⭐216)](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
 *   [echasnovski/mini.nvim#mini.files (⭐6.9k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md) - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
 *   [prichrd/netrw.nvim (⭐234)](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
@@ -547,7 +547,7 @@ Collections of awesome neovim plugins.
 *   [LintaoAmons/cd-project.nvim (⭐116)](https://github.com/LintaoAmons/cd-project.nvim) - All you need is just an easier way to `cd` to another project directory.
 *   [LucasTavaresA/headers.nvim (⭐2)](https://github.com/LucasTavaresA/headers.nvim) - Zero-config header/footer warnings.
 *   [zongben/proot.nvim (⭐3)](https://github.com/zongben/proot.nvim) - Lightweight project navigator with telescope.
-*   [wsdjeg/rooter.nvim (⭐6)](https://github.com/wsdjeg/rooter.nvim) - Change working directory to project root.
+*   [wsdjeg/rooter.nvim (⭐8)](https://github.com/wsdjeg/rooter.nvim) - Change working directory to project root.
 
 <!--lint disable double-link -->
 
@@ -762,7 +762,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [luukvbaal/statuscol.nvim (⭐560)](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
 *   [mawkler/hml.nvim (⭐22)](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
 *   [neur1n/noline.nvim (⭐0)](https://github.com/neur1n/noline.nvim) - Fully customizable bars and lines components with no presets or constraints. See [construction (⭐3)](https://github.com/neur1n/dotfiles/tree/master/neovim/lua/plugconf/noline) and [setup (⭐3)](https://github.com/neur1n/dotfiles/blob/master/neovim/lua/plugconf/noline.lua) examples.
-*   [OXY2DEV/bars.nvim (⭐69)](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
+*   [OXY2DEV/bars.nvim (⭐76)](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
 
 ### Statusline
 
@@ -1000,13 +1000,13 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [MisanthropicBit/decipher.nvim (⭐40)](https://github.com/MisanthropicBit/decipher.nvim) - Encode and decode text using various codecs such as base64.
 *   [philosofonusus/ecolog.nvim (⭐118)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
 *   [theKnightsOfRohan/hexer.nvim (⭐4)](https://github.com/theKnightsOfRohan/hexer.nvim) - Easily convert between binary representations without a conversion table.
-*   [rachartier/tiny-glimmer.nvim (⭐237)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
+*   [rachartier/tiny-glimmer.nvim (⭐240)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
 *   [neanvo/buben.nvim (⭐5)](https://github.com/neanvo/buben.nvim) - Human-readable names to blockchain(eth) addresses.
 *   [josephburgess/nvumi (⭐40)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
 *   [redoxahmii/json-to-types.nvim (⭐36)](https://github.com/redoxahmii/json-to-types.nvim) - Convert JSON objects to type definitions for multiple languages.
 *   [y3owk1n/undo-glow.nvim (⭐24)](https://github.com/y3owk1n/undo-glow.nvim/) - Animated glow/highlight effects for Neovim operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 *   [ovk/endec.nvim (⭐23)](https://github.com/ovk/endec.nvim) - Encode, decode and re-encode text using Base64, Base64URL and URL (percent) encodings.
-*   [kiyoon/jupynium.nvim (⭐582)](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
+*   [kiyoon/jupynium.nvim (⭐595)](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
 *   [BibekBhusal0/bufstack.nvim (⭐2)](https://github.com/BibekBhusal0/bufstack.nvim) - Track recently visited buffers and reopen recently closed buffers.
 
 ### CSV Files
@@ -1257,7 +1257,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [isak102/telescope-git-file-history.nvim (⭐83)](https://github.com/isak102/telescope-git-file-history.nvim) - Open/preview contents of the current file at a specific commit, without using git checkout.
 *   [moyiz/git-dev.nvim (⭐96)](https://github.com/moyiz/git-dev.nvim) - Open remote Git repositories in the comfort of Neovim.
 *   [SuperBo/fugit2.nvim (⭐435)](https://github.com/SuperBo/fugit2.nvim) - Git GUI powered by [libgit2](https://libgit2.org).
-*   [Yu-Leo/blame-column.nvim (⭐15)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
+*   [Yu-Leo/blame-column.nvim (⭐16)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
 *   [yutkat/git-rebase-auto-diff.nvim (⭐16)](https://github.com/yutkat/git-rebase-auto-diff.nvim) - Show diff automatically when Git rebase.
 
 ### GitHub
@@ -1314,7 +1314,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [ziontee113/syntax-tree-surfer (⭐471)](https://github.com/ziontee113/syntax-tree-surfer) - Navigate and swap Tree-sitter's AST Nodes. Step into, step out, step over, step back.
 *   [drybalka/tree-climber.nvim (⭐150)](https://github.com/drybalka/tree-climber.nvim) - Easy navigation around the Tree-sitter's tree that works in multi-language files and in normal mode.
 *   [atusy/treemonkey.nvim (⭐26)](https://github.com/atusy/treemonkey.nvim) - Region selection with Tree-sitter nodes.
-*   [kiyoon/treesitter-indent-object.nvim (⭐55)](https://github.com/kiyoon/treesitter-indent-object.nvim) - Context-aware indent textobject powered by Tree-sitter.
+*   [kiyoon/treesitter-indent-object.nvim (⭐62)](https://github.com/kiyoon/treesitter-indent-object.nvim) - Context-aware indent textobject powered by Tree-sitter.
 
 <!--lint disable double-link -->
 
@@ -1453,7 +1453,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [daltongd/yanklock.nvim (⭐18)](https://github.com/daltongd/yanklock.nvim) - Temporarily lock the paste register to `"0`, and use `d`, `c`, and `s` motions while keeping the most recent yanked content easily accessible.
 *   [zongben/capsoff.nvim (⭐10)](https://github.com/zongben/capsoff.nvim) - Turns off CapsLock when you leaving insert mode.
 *   [kobbikobb/move-lines.nvim (⭐4)](https://github.com/kobbikobb/move-lines.nvim) - Moves lines selected in virtual mode.
-*   [kiyoon/telescope-insert-path.nvim (⭐36)](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path in the current buffer using Telescope.
+*   [kiyoon/telescope-insert-path.nvim (⭐39)](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path in the current buffer using Telescope.
 *   [zhisme/copy\_with\_context.nvim (⭐7)](https://github.com/zhisme/copy_with_context.nvim) - Copy lines with file path and line number metadata for sharing code snippets with context.
 
 ### Comment
@@ -1522,6 +1522,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 *   [notomo/cmdbuf.nvim (⭐122)](https://github.com/notomo/cmdbuf.nvim) - Alternative command-line-window plugin.
 *   [gelguy/wilder.nvim (⭐1.4k)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
+*   [vzze/cmdline.nvim (⭐11)](https://github.com/vzze/cmdline.nvim) - Helix-like command line with fuzzy autocompletion.
 
 <!--lint disable double-link -->
 
@@ -1594,7 +1595,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [karshPrime/tmux-compile.nvim (⭐18)](https://github.com/karshPrime/tmux-compile.nvim) - Set up same key, like F5, to run any compile/run command per language, like `make` for C and `cargo build` for Rust, and have the project run or compile in a new tmux pane or window.
 *   [EvWilson/slimux.nvim (⭐24)](https://github.com/EvWilson/slimux.nvim) - Send content from the current buffer to a configurable tmux pane.
 *   [juselara1/tmutils.nvim (⭐14)](https://github.com/juselara1/tmutils.nvim) - Tmux utilities that enable sending lines, capturing content, creating terminals, and managing REPLs.
-*   [kiyoon/tmux-send.nvim (⭐3)](https://github.com/kiyoon/tmux-send.nvim) - Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
+*   [kiyoon/tmux-send.nvim (⭐7)](https://github.com/kiyoon/tmux-send.nvim) - Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
 
 <!--lint disable double-link -->
 

@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [azratul/expose-localhost.nvim (⭐2)](https://github.com/azratul/expose-localhost.nvim) - Expose your local server to the internet with cloudflared or ngrok.
 
+### Command Line / Diagnostics
+
+*   [vzze/cmdline.nvim (⭐11)](https://github.com/vzze/cmdline.nvim) - Helix-like command line with fuzzy autocompletion.
+
 ## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)
 
 ### Web Development / Diagnostics
@@ -39,11 +43,11 @@ Collections of awesome neovim plugins.
 ### Programming Languages Support / Diagnostics
 
 *   [kiyoon/python-import.nvim (⭐31)](https://github.com/kiyoon/python-import.nvim) - Add Python import statements with Tree-sitter, LSP, and more.
-*   [kiyoon/haskell-scope-highlighting.nvim (⭐23)](https://github.com/kiyoon/haskell-scope-highlighting.nvim) - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
+*   [kiyoon/haskell-scope-highlighting.nvim (⭐24)](https://github.com/kiyoon/haskell-scope-highlighting.nvim) - Haskell syntax highlighting that considers variable scopes. Inspired from "Context Coloring" by prof. Douglas Crockford.
 
 ### Language / Diagnostics
 
-*   [kiyoon/Korean-IME.nvim (⭐16)](https://github.com/kiyoon/Korean-IME.nvim) - OS-independent Korean input method that converts English inputs to Korean in-place.
+*   [kiyoon/Korean-IME.nvim (⭐17)](https://github.com/kiyoon/Korean-IME.nvim) - OS-independent Korean input method that converts English inputs to Korean in-place.
 
 ### Marks / Diagnostics
 
@@ -51,25 +55,25 @@ Collections of awesome neovim plugins.
 
 ### Bars and Lines / Diagnostics
 
-*   [OXY2DEV/bars.nvim (⭐69)](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
+*   [OXY2DEV/bars.nvim (⭐76)](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
 
 ### Utility / Diagnostics
 
 *   [y3owk1n/undo-glow.nvim (⭐24)](https://github.com/y3owk1n/undo-glow.nvim/) - Animated glow/highlight effects for Neovim operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
-*   [kiyoon/jupynium.nvim (⭐582)](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
+*   [kiyoon/jupynium.nvim (⭐595)](https://github.com/kiyoon/jupynium.nvim) - Selenium-automated Jupyter Notebook that is synchronised with Neovim in real-time.
 
 ### Tree-sitter Based / Diagnostics
 
-*   [kiyoon/treesitter-indent-object.nvim (⭐55)](https://github.com/kiyoon/treesitter-indent-object.nvim) - Context-aware indent textobject powered by Tree-sitter.
+*   [kiyoon/treesitter-indent-object.nvim (⭐62)](https://github.com/kiyoon/treesitter-indent-object.nvim) - Context-aware indent textobject powered by Tree-sitter.
 
 ### Editing Support / Diagnostics
 
-*   [kiyoon/telescope-insert-path.nvim (⭐36)](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path in the current buffer using Telescope.
+*   [kiyoon/telescope-insert-path.nvim (⭐39)](https://github.com/kiyoon/telescope-insert-path.nvim) - Insert file path in the current buffer using Telescope.
 *   [zhisme/copy\_with\_context.nvim (⭐7)](https://github.com/zhisme/copy_with_context.nvim) - Copy lines with file path and line number metadata for sharing code snippets with context.
 
 ### Tmux / Diagnostics
 
-*   [kiyoon/tmux-send.nvim (⭐3)](https://github.com/kiyoon/tmux-send.nvim) - Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
+*   [kiyoon/tmux-send.nvim (⭐7)](https://github.com/kiyoon/tmux-send.nvim) - Copy and paste buffer content or file path in Nvim-Tree, Neo-Tree, Oil to another tmux pane in Neovim.
 
 ## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
 
@@ -85,7 +89,7 @@ Collections of awesome neovim plugins.
 
 ### Plugin Manager
 
-*   [wsdjeg/nvim-plug (⭐9)](https://github.com/wsdjeg/nvim-plug) - Asynchronous Neovim plugin manager written in Lua.
+*   [wsdjeg/nvim-plug (⭐10)](https://github.com/wsdjeg/nvim-plug) - Asynchronous Neovim plugin manager written in Lua.
 
 ### Golang / Diagnostics
 
@@ -94,7 +98,7 @@ Collections of awesome neovim plugins.
 
 ### Project / Diagnostics
 
-*   [wsdjeg/rooter.nvim (⭐6)](https://github.com/wsdjeg/rooter.nvim) - Change working directory to project root.
+*   [wsdjeg/rooter.nvim (⭐8)](https://github.com/wsdjeg/rooter.nvim) - Change working directory to project root.
 
 ### Utility / Diagnostics
 
@@ -104,7 +108,7 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [francescarpi/buffon.nvim (⭐10)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
+*   [francescarpi/buffon.nvim (⭐13)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
 
 ### Bars and Lines / Diagnostics
 
@@ -133,15 +137,15 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Diagnostics
 
-*   [mikavilpas/yazi.nvim (⭐878)](https://github.com/mikavilpas/yazi.nvim) - Integration with the Yazi terminal file manager.
+*   [mikavilpas/yazi.nvim (⭐906)](https://github.com/mikavilpas/yazi.nvim) - Integration with the Yazi terminal file manager.
 
 ### Utility / Diagnostics
 
-*   [rachartier/tiny-glimmer.nvim (⭐237)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
+*   [rachartier/tiny-glimmer.nvim (⭐240)](https://github.com/rachartier/tiny-glimmer.nvim/) - Adds subtle animations to various operations.
 
 ### Git / Diagnostics
 
-*   [Yu-Leo/blame-column.nvim (⭐15)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
+*   [Yu-Leo/blame-column.nvim (⭐16)](https://github.com/Yu-Leo/blame-column.nvim) - Show Git blame info.
 
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
