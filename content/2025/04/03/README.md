@@ -1,12 +1,30 @@
 # Awesome List Updates on Apr 03, 2025
 
-4 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [1. Awesome Math](/content/rossant/awesome-math/README.md)
+
+### Tools
+
+*   [Corca Editor](https://corca.io/)
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### APIs, Data, and ML
+
+*   [drawDB](https://drawdb.app/) — Free and open-source online database diagram editor with no signup required.
+
+## [3. Awesome Msr](/content/dspinellis/awesome-msr/README.md)
+
+### Repositories
+
+*   [Directory of MSR Datasets](https://authecesofteng.github.io/directory-msr-datasets/)
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Libraries / Web programming
 
@@ -22,19 +40,19 @@
     *   [plabayo/rama (⭐323)](https://github.com/plabayo/rama) - A modular service framework to move and transform your network packets, can be used among other things, to build clients with TLS, JA3/JA4, H2 and QUIC/H3 fingerprint impersonation
     *   [seanmonstar/reqwest (⭐10k)](https://github.com/seanmonstar/reqwest) - an ergonomic HTTP Client.
 
-## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Miscellaneous
 
 *   [embedz (⭐17)](https://github.com/embedz/embedz) - Easy, dependency free embeds for Svelte and Vue.
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-pwd (⭐1)](https://github.com/noelitocalma/ngx-pwd) - Password Strength Meter and Generator.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Command Line / Diagnostics
 

@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 03, 2025](/content/2025/04/03/README.md)
+
+### APIs, Data, and ML
+
+*   [drawDB](https://drawdb.app/) — Free and open-source online database diagram editor with no signup required.
+
 ## [Mar 31, 2025](/content/2025/03/31/README.md)
 
 ### APIs, Data, and ML
