@@ -1,24 +1,36 @@
 # Awesome List Updates on Apr 04, 2025
 
-3 awesome lists updated today.
+5 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [1. Awesome Php](/content/ziadoz/awesome-php/README.md)
+
+### Table of Contents / Middlewares
+
+*   [PSR-15 Middlewares (⭐408)](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
+
+## [2. Awesome Lit](/content/web-padawan/awesome-lit/README.md)
+
+### Community
+
+*   [Discord](https://discord.com/invite/buildWithLit)
+
+## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### Real-time / Real-time Operating System (RTOS)
 
 *   [Ariel OS](https://ariel-os.org/) A modular operating system written in Rust, providing multicore preemptive scheduling and application portability on top of Embassy.
 
-## [2. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
+## [4. Awesome Dos](/content/balintkissdev/awesome-dos/README.md)
 
 ### Development tools
 
 *   [Insight](https://www.bttr-software.de/products/insight/) - Very small debugger for real-mode DOS programs with Borland's Turbo like UI. Features an i80486 disassembler, and i8086 assembler.
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
