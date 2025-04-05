@@ -6,6 +6,24 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Apr 05, 2025](/content/2025/04/05/README.md)
+
+### Software / Customer Relationship Management (CRM)
+
+*   [Django-CRM (⭐218)](https://github.com/DjangoCRM/django-crm) - Analytical CRM with tasks management, email marketing and many more. Django CRM is built for individual use, businesses of any size or freelancers and is designed to provide easy customization and quick development. `AGPL-3.0` `Python`
+
+### Software / Document Management
+
+*   [Documenso](https://documenso.com) - Digital document signing platform (alternative to DocuSign). ([Source Code (⭐11k)](https://github.com/documenso/documenso)) `AGPL-3.0` `Nodejs/Docker`
+
+### Software / Miscellaneous
+
+*   [Yamtrack (⭐304)](https://github.com/FuzzyGrim/Yamtrack) `⚠` - Media tracker for movies, tv shows, anime, manga, video games and books. ([Demo (⭐304)](https://github.com/FuzzyGrim/Yamtrack?tab=readme-ov-file#demo)) `AGPL-3.0` `Docker/Python`
+
+### Software / Note-taking & Editors
+
+*   [Docs](https://docs.numerique.gouv.fr/) - Collaborative note taking, wiki and documentation platform that scales. ([Source Code (⭐11k)](https://github.com/suitenumerique/docs)) `MIT` `K8S`
+
 ## [Apr 01, 2025](/content/2025/04/01/README.md)
 
 ### Software / Web Servers
@@ -46,20 +64,20 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Maps and Global Positioning System (GPS)
 
-*   [wanderer (⭐1.8k)](https://github.com/Flomp/wanderer) - Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue. ([Demo](https://demo.wanderer.to)) `AGPL-3.0` `Docker/Go/Nodejs`
+*   [wanderer (⭐1.9k)](https://github.com/Flomp/wanderer) - Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue. ([Demo](https://demo.wanderer.to)) `AGPL-3.0` `Docker/Go/Nodejs`
 
 ### Software / Miscellaneous
 
-*   [ConvertX (⭐1.1k)](https://github.com/C4illin/ConvertX) - Online file converter which supports over a thousand different formats. `AGPL-3.0` `Docker`
-*   [Endurain](https://docs.endurain.com/) - Fitness tracking service designed to give users full control over their data and hosting environment. ([Source Code (⭐827)](https://github.com/joaovitoriasilva/endurain)) `AGPL-3.0` `Docker`
+*   [ConvertX (⭐1.3k)](https://github.com/C4illin/ConvertX) - Online file converter which supports over a thousand different formats. `AGPL-3.0` `Docker`
+*   [Endurain](https://docs.endurain.com/) - Fitness tracking service designed to give users full control over their data and hosting environment. ([Source Code (⭐875)](https://github.com/joaovitoriasilva/endurain)) `AGPL-3.0` `Docker`
 
 ### Software / Money, Budgeting & Management
 
-*   [WYGIWYH (⭐345)](https://github.com/eitchtee/WYGIWYH) - Simple and powerful finance tracker. ([Demo](https://wygiwyh-demo.herculino.com/)) `AGPL-3.0` `Docker/Django`
+*   [WYGIWYH (⭐406)](https://github.com/eitchtee/WYGIWYH) - Simple and powerful finance tracker. ([Demo](https://wygiwyh-demo.herculino.com/)) `AGPL-3.0` `Docker/Django`
 
 ### Software / Password Managers
 
-*   [AliasVault](https://www.aliasvault.net) - End-to-end encrypted password manager with a built-in email alias generator and server. ([Source Code (⭐463)](https://github.com/lanedirt/AliasVault)) `MIT` `Docker`
+*   [AliasVault](https://www.aliasvault.net) - End-to-end encrypted password manager with a built-in email alias generator and server. ([Source Code (⭐554)](https://github.com/lanedirt/AliasVault)) `MIT` `Docker`
 
 ### Software / Software Development - Low Code
 
@@ -155,8 +173,8 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Human Resources Management (HRM)
 
-*   [Frappe HR](https://frappe.io/hr) - Complete HRMS solution with over 13 different modules right from employee management, onboarding, leaves, to payroll, taxation, and more. ([Source Code (⭐1.9k)](https://github.com/frappe/hrms)) `GPL-3.0` `Docker/Python/Nodejs`
-*   [MintHCM](https://minthcm.org/) - Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM. ([Source Code (⭐162)](https://github.com/minthcm/minthcm)) `AGPL-3.0` `PHP`
+*   [Frappe HR](https://frappe.io/hr) - Complete HRMS solution with over 13 different modules right from employee management, onboarding, leaves, to payroll, taxation, and more. ([Source Code (⭐2k)](https://github.com/frappe/hrms)) `GPL-3.0` `Docker/Python/Nodejs`
+*   [MintHCM](https://minthcm.org/) - Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM. ([Source Code (⭐168)](https://github.com/minthcm/minthcm)) `AGPL-3.0` `PHP`
 
 ## [Feb 13, 2025](/content/2025/02/13/README.md)
 
@@ -1411,10 +1429,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Swetrix](https://swetrix.com/) - Ultimate, open-source web analytics to satisfy all your needs. ([Demo](https://swetrix.com/projects/STEzHcB1rALV), [Source Code (⭐43)](https://github.com/Swetrix/selfhosting)) `AGPL-3.0` `Docker`
 
-### Software / Miscellaneous
-
-*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code (⭐1.6k)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
-
 ### Software / Pastebins
 
 *   [YABin (⭐182)](https://github.com/Yureien/YABin) - A pastebin that contains plentiful features while remaining simple. Supports optional E2E encryption, a client-side CLI app, syntax highlighting, minimalistic UI, APIs, keyboard shortcuts, and more. It can even be run in serverless environments. ([Demo](https://bin.sohamsen.me/)) `MIT` `Nodejs/Docker`
@@ -1422,6 +1436,10 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Proxy
 
 *   [Koblas (⭐118)](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server. `MIT` `Rust/Docker`
+
+### Software / Software Development - Feature Toggle
+
+*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code (⭐1.6k)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
 
 ## [Jul 05, 2023](/content/2023/07/05/README.md)
 
@@ -1452,9 +1470,9 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Apache Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule, and monitor workflows. ([Source Code (⭐39k)](https://github.com/apache/airflow/)) `Apache-2.0` `Python/Docker`
 
-### Software / Miscellaneous
+### Software / Software Development - Feature Toggle
 
-*   [Flagsmith](https://flagsmith.com) - Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ([Source Code (⭐5.5k)](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker/K8S`
+*   [Flagsmith](https://flagsmith.com) - Dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ([Source Code (⭐5.5k)](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker/K8S`
 
 ## [Jun 19, 2023](/content/2023/06/19/README.md)
 
@@ -1586,7 +1604,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Personal Dashboards
 
-*   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐405)](https://github.com/homarr-labs/homarr)) `MIT` `Docker/Nodejs`
+*   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐526)](https://github.com/homarr-labs/homarr)) `MIT` `Docker/Nodejs`
 
 ### Software / Task Management & To-do Lists
 
@@ -1755,7 +1773,6 @@ A list of Free Software network services and web applications which can be hoste
 *   [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data. ([Source Code (⭐4.8k)](https://github.com/arp242/goatcounter)) `EUPL-1.2` `Go`
 *   [Metabase](https://metabase.com/) - Easy, open-source way for everyone in your company to ask questions and learn from data. ([Source Code (⭐41k)](https://github.com/metabase/metabase)) `AGPL-3.0` `Java/Docker`
 *   [Offen](https://www.offen.dev/) - Fair, lightweight and open web analytics tool. Gain insights while your users have full access to their data. ([Demo](https://www.offen.dev/try-demo/), [Source Code (⭐920)](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
-*   [Open Web Analytics](http://www.openwebanalytics.com/) - Web analytics framework that lets you stay in control of how you instrument and analyze the use of your websites and applications. ([Source Code (⭐2.5k)](https://github.com/Open-Web-Analytics/Open-Web-Analytics)) `GPL-2.0` `PHP`
 *   [Plausible Analytics](https://plausible.io/) - Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics. ([Source Code (⭐22k)](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
 *   [PostHog](https://posthog.com) - Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel/Amplitude/Heap/HotJar/Optimizely). ([Source Code (⭐25k)](https://github.com/posthog/posthog)) `MIT` `Python`
 *   [Redash](http://redash.io) - Connect and query your data sources, build dashboards to visualize data and share them with your company. ([Source Code (⭐27k)](https://github.com/getredash/redash)) `BSD-2-Clause` `Docker`

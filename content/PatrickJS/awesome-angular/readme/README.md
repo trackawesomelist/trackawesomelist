@@ -549,6 +549,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [SuperTokens](https://supertokens.com) - Configure your [Angular](https://supertokens.com/docs/quickstart/frontend-setup) application to use SuperTokens for authentication.
 *   [Agilicus](https://www.agilicus.com/) - Single sign-on for any user—first party, third party, joint venture, contractor, or vendor. Enforce multi-factor authentication everywhere.  These are various [samples of integrations (⭐1)](https://github.com/Agilicus/samples) to the Agilicus Platform.
 *   [nblocks](https://www.nblocks.dev/) - A control center for seamless management of Authentication, Payments, Subscriptions, Feature, and Role management.
+*   [@badisi/ngx-auth (⭐13)](https://github.com/Badisi/auth-js/tree/main/libs/ngx-auth) - Authentication and authorization support for Angular based desktop and mobile applications.
 
 #### Builders
 
@@ -1536,6 +1537,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-swipe-menu (⭐1)](https://github.com/charlesschaefer/ngx-swipe-menu) - A component to create "swipe left to 'action'" experiences.
 *   [ng-simple-sidebar (⭐7)](https://github.com/secanis/ng-simple-sidebar) - A simple Angular component to generate a sidebar with a hamburger menu.
 *   [ngx-bladex (⭐2)](https://github.com/karnavpargi/ngx-bladex) - A simplistic blade component for Angular with minimize/maximize and a close button.
+*   [@berg-layout/angular](https://www.npmjs.com/package/@berg-layout/angular) - This is the Angular version of [berg-layout (⭐36)](https://github.com/blidblid/berg-layout).
 
 #### Loaders
 
@@ -2103,6 +2105,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 > These repositories showcase a variety of projects and tools inspired by Angular, demonstrating how its foundational concepts can drive innovative and adaptable solutions across diverse applications.
 
 *   [css-fx-layout (⭐49)](https://github.com/philmtd/css-fx-layout) - A responsive SCSS flexbox library inspired by Angular [Flex-Layout (⭐5.9k)](https://github.com/angular/flex-layout).
+*   [fornax (⭐10)](https://github.com/TBosak/fornax) - A lightweight, opinionated, and highly customizable Bun-powered full-stack web framework designed to simplify building single-page applications with custom components, routing, and flexible styling options.
 *   [friendly-di (⭐4)](https://github.com/AlexSergey/friendly-di) - A lightweight and high-performance inversion of control (IoC) container inspired by NestJS and Angular.
 *   [GameEngine (⭐2)](https://github.com/gandolphinnn/GameEngine) - A Typescript game engine inspired by Angular.
 *   [gapi (⭐27)](https://github.com/Stradivario/gapi) - Inspired by Angular and intended to provide complex NodeJS GraphQL Backend applications with minimum effort.

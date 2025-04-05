@@ -100,6 +100,7 @@ See [Contributing](#contributing).
     *   [Software Development - API Management](#software-development---api-management)
     *   [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment)
     *   [Software Development - FaaS & Serverless](#software-development---faas--serverless)
+    *   [Software Development - Feature Toggle](#software-development---feature-toggle)
     *   [Software Development - IDE & Tools](#software-development---ide--tools)
     *   [Software Development - Localization](#software-development---localization)
     *   [Software Development - Low Code](#software-development---low-code)
@@ -149,7 +150,6 @@ See [Contributing](#contributing).
 *   [Mixpost](https://mixpost.app/) - Self-hosted social media management software. Easily create, schedule, publish, and manage social media content in one place (alternative to Hootsuite, Buffer, and other social media tools). ([Source Code (⭐95)](https://github.com/inovector/MixpostApp)) `MIT` `PHP/Docker`
 *   [Netron](https://netron.app/) - Visualizer for neural network and machine learning models. ([Source Code (⭐30k)](https://github.com/lutzroeder/netron)) `MIT` `Python/Nodejs`
 *   [Offen](https://www.offen.dev/) - Fair, lightweight and open web analytics tool. Gain insights while your users have full access to their data. ([Demo](https://www.offen.dev/try-demo/), [Source Code (⭐920)](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
-*   [Open Web Analytics](http://www.openwebanalytics.com/) - Web analytics framework that lets you stay in control of how you instrument and analyze the use of your websites and applications. ([Source Code (⭐2.5k)](https://github.com/Open-Web-Analytics/Open-Web-Analytics)) `GPL-2.0` `PHP`
 *   [Plausible Analytics](https://plausible.io/) - Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics. ([Source Code (⭐22k)](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
 *   [PostHog](https://posthog.com) - Product analytics, session recording, feature flagging and a/b testing that you can self-host (alternative to Mixpanel/Amplitude/Heap/HotJar/Optimizely). ([Source Code (⭐25k)](https://github.com/posthog/posthog)) `MIT` `Python`
 *   [Postiz](https://postiz.com) `⚠` - Schedule posts, track the performance of your content, and manage all your social media accounts in one place (Alternative to Buffer, Hootsuite, Sprout Social). ([Source Code (⭐19k)](https://github.com/gitroomhq/postiz-app)) `Apache-2.0` `Docker`
@@ -674,6 +674,7 @@ Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_ma
 *Related: [Communication - Email - Mailing Lists and Newsletters](#communication---email---mailing-lists-and-newsletters), [Analytics](#analytics), [Calendar & Contacts](#calendar--contacts)*
 
 *   [Corteza](https://cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐1.8k)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
+*   [Django-CRM (⭐218)](https://github.com/DjangoCRM/django-crm) - Analytical CRM with tasks management, email marketing and many more. Django CRM is built for individual use, businesses of any size or freelancers and is designed to provide easy customization and quick development. `AGPL-3.0` `Python`
 *   [EspoCRM](https://www.espocrm.com/) - CRM with a frontend designed as a single page application, and a REST API. ([Demo](https://demo.espocrm.com/), [Source Code (⭐2.1k)](https://github.com/espocrm/espocrm)) `AGPL-3.0` `PHP`
 *   [Krayin](https://krayincrm.com/) - CRM solution for SMEs and Enterprises for complete customer lifecycle management. ([Demo](https://demo.krayincrm.com/), [Source Code (⭐14k)](https://github.com/krayin/laravel-crm)) `MIT` `PHP`
 *   [Monica](https://monicahq.com/) - Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ([Source Code (⭐23k)](https://github.com/monicahq/monica)) `AGPL-3.0` `PHP/Docker`
@@ -728,6 +729,7 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 
 *   [DocKing](https://docking.shipsaas.tech) - Document management service/microservice that handles templates and renders them in PDF format, all in one place. ([Demo](https://docking-demo.shipsaas.tech/console), [Source Code (⭐253)](https://github.com/shipsaas/docking)) `MIT` `PHP/Nodejs/Docker`
 *   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐1.8k)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java/Docker`
+*   [Documenso](https://documenso.com) - Digital document signing platform (alternative to DocuSign). ([Source Code (⭐11k)](https://github.com/documenso/documenso)) `AGPL-3.0` `Nodejs/Docker`
 *   [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code (⭐8.9k)](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
 *   [EveryDocs (⭐246)](https://github.com/jonashellmann/everydocs-core) - A simple Document Management System for private use with basic functionality to organize your documents digitally. `GPL-3.0` `Docker/Ruby`
 *   [Gotenberg](https://gotenberg.dev) - Developer-friendly API to interact with powerful tools like Chromium and LibreOffice for converting numerous document formats (HTML, Markdown, Word, Excel, etc.) into PDF files, and more. ([Source Code (⭐8.9k)](https://github.com/gotenberg/gotenberg), [Clients (⭐141)](https://github.com/gotenberg/awesome-gotenberg)) `MIT` `Docker`
@@ -1055,8 +1057,8 @@ Collaborative software or [groupware](https://en.wikipedia.org/wiki/Collaborativ
 A [human resources management system](https://en.wikipedia.org/wiki/Human_resource_management_system) combines a number of systems and processes to ensure the easy management of [human resources](https://en.wikipedia.org/wiki/Human_resources), business processes and data.
 
 *   [admidio](https://www.admidio.org/) - Admidio is a free open source user management system for websites of organizations and groups. The system has a flexible role model so that it’s possible to reflect the structure and permissions of your organization. ([Demo](https://www.admidio.org/demo/), [Source Code (⭐368)](https://github.com/Admidio/admidio)) `GPL-2.0` `PHP/Docker`
-*   [Frappe HR](https://frappe.io/hr) - Complete HRMS solution with over 13 different modules right from employee management, onboarding, leaves, to payroll, taxation, and more. ([Source Code (⭐1.9k)](https://github.com/frappe/hrms)) `GPL-3.0` `Docker/Python/Nodejs`
-*   [MintHCM](https://minthcm.org/) - Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM. ([Source Code (⭐162)](https://github.com/minthcm/minthcm)) `AGPL-3.0` `PHP`
+*   [Frappe HR](https://frappe.io/hr) - Complete HRMS solution with over 13 different modules right from employee management, onboarding, leaves, to payroll, taxation, and more. ([Source Code (⭐2k)](https://github.com/frappe/hrms)) `GPL-3.0` `Docker/Python/Nodejs`
+*   [MintHCM](https://minthcm.org/) - Tool for Human Capital Management based on two popular, well-known business applications SugarCRM Community Edition and SuiteCRM. ([Source Code (⭐168)](https://github.com/minthcm/minthcm)) `AGPL-3.0` `PHP`
 *   [OrangeHRM](https://www.orangehrm.com/) - OrangeHRM is a comprehensive HRM system that captures all the essential functionalities required for any enterprise. ([Demo](https://opensource-demo.orangehrmlive.com/), [Source Code (⭐894)](https://github.com/orangehrm/orangehrm)) `GPL-2.0` `PHP`
 
 ### Identity Management
@@ -1179,7 +1181,7 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 *   [OwnTracks Recorder (⭐950)](https://github.com/owntracks/recorder) `⚠` - Store and access data published by [OwnTracks](https://owntracks.org/) location tracking apps. `GPL-2.0` `C/Lua/deb/Docker`
 *   [TileServer GL](https://tileserver.readthedocs.io/) - Vector and raster maps with GL styles. Server side rendering by Mapbox GL Native. Map tile server for Mapbox GL JS, Android, iOS, Leaflet, OpenLayers, GIS via WMTS, etc. ([Source Code (⭐2.4k)](https://github.com/maptiler/tileserver-gl)) `BSD-2-Clause` `Nodejs/Docker`
 *   [Traccar](https://www.traccar.org/) - Java application to track GPS positions. Supports loads of tracking devices and protocols, has an Android and iOS App. Has a web interface to view your trips. ([Demo](https://demo.traccar.org/), [Source Code](https://github.com/traccar)) `Apache-2.0` `Java`
-*   [wanderer (⭐1.8k)](https://github.com/Flomp/wanderer) - Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue. ([Demo](https://demo.wanderer.to)) `AGPL-3.0` `Docker/Go/Nodejs`
+*   [wanderer (⭐1.9k)](https://github.com/Flomp/wanderer) - Trail database where you can upload your recorded tracks or create new ones and add various metadata to build an easily searchable catalogue. ([Demo](https://demo.wanderer.to)) `AGPL-3.0` `Docker/Go/Nodejs`
 *   [μlogger (⭐572)](https://github.com/bfabiszewski/ulogger-server) - Collect geolocation from users in real-time and display their GPS tracks on a website. ([Demo](http://ulogger.fabiszewski.net/)) `GPL-3.0` `PHP`
 
 ### Media Streaming
@@ -1288,7 +1290,7 @@ Software that does not fit in another section.
 *   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Demo](https://beelzebub-honeypot.com/docs/), [Source Code (⭐879)](https://github.com/mariocandela/beelzebub)) `MIT` `Docker/K8S/Go`
 *   [ClipCascade (⭐768)](https://github.com/Sathvik-Rao/ClipCascade) - Syncs your clipboard across multiple devices instantly, without any button press. Available on Windows, macOS, Linux, and Android, it provides seamless and secure clipboard sharing with end-to-end data encryption. `GPL-3.0` `Java/Docker`
 *   [Cloudlog](https://magicbug.co.uk/cloudlog/) - Cloudlog is a self-hosted PHP application that allows you to log your amateur radio contacts anywhere. ([Source Code (⭐486)](https://github.com/magicbug/cloudlog)) `MIT` `PHP/Docker`
-*   [ConvertX (⭐1.1k)](https://github.com/C4illin/ConvertX) - Online file converter which supports over a thousand different formats. `AGPL-3.0` `Docker`
+*   [ConvertX (⭐1.3k)](https://github.com/C4illin/ConvertX) - Online file converter which supports over a thousand different formats. `AGPL-3.0` `Docker`
 *   [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code (⭐1.2k)](https://github.com/OpenPrinting/cups)) `GPL-2.0` `C`
 *   [CyberChef (⭐31k)](https://github.com/gchq/CyberChef) - Perform all manner of operations within a web browser such as AES, DES and Blowfish encryption and decryption, creating hexdumps, calculating hashes, and much more. ([Demo](https://gchq.github.io/CyberChef)) `Apache-2.0` `Javascript`
 *   [Digiboard](https://digiboard.app/) - Create collaborative whiteboards (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiboard)) `AGPL-3.0` `Nodejs`
@@ -1305,15 +1307,13 @@ Software that does not fit in another section.
 *   [Digiwords](https://ladigitale.dev/digiwords/) - A simple online application for creating word clouds (documentation in French). ([Source Code](https://codeberg.org/ladigitale/digiwords)) `AGPL-3.0` `Nodejs/PHP`
 *   [DOCAT (⭐838)](https://github.com/docat-org/docat) - Host your docs. Simple. Versioned. Fancy. `MIT` `Python/Docker`
 *   [DOMJudge](https://www.domjudge.org/) - A system for running a programming contest, like the ICPC regional and world championship programming contests. ([Demo](https://www.domjudge.org/demo), [Source Code (⭐780)](https://github.com/DOMjudge/domjudge)) `GPL-2.0/BSD-3-Clause/MIT` `PHP`
-*   [Endurain](https://docs.endurain.com/) - Fitness tracking service designed to give users full control over their data and hosting environment. ([Source Code (⭐827)](https://github.com/joaovitoriasilva/endurain)) `AGPL-3.0` `Docker`
+*   [Endurain](https://docs.endurain.com/) - Fitness tracking service designed to give users full control over their data and hosting environment. ([Source Code (⭐875)](https://github.com/joaovitoriasilva/endurain)) `AGPL-3.0` `Docker`
 *   [ESMira](https://esmira.kl.ac.at) - Run longitudinal studies (ESM, AA, EMA) with data collection and communication with participants being completely anonymous. ([Demo](https://demo-esmira.kl.ac.at/#admin,username:demo,password:demodemodemo), [Source Code (⭐16)](https://github.com/KL-Psychological-Methodology/ESMira)) `AGPL-3.0` `PHP`
 *   [F-Droid](https://f-droid.org) - Server tools for maintaining an F-Droid repository system. ([Source Code](https://gitlab.com/fdroid/fdroidserver)) `AGPL-3.0` `Python/Docker/deb`
 *   [Fasten Health (⭐2.2k)](https://github.com/fastenhealth/fasten-onprem/) `⚠` - Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics in the United States. `GPL-3.0` `Go/Docker`
-*   [Flagsmith](https://flagsmith.com) - Flagsmith provides a dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ([Source Code (⭐5.5k)](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker/K8S`
 *   [Flipt](https://flipt.io) - Feature flag solution with support for multiple data backends (alternative to LaunchDarkly). ([Demo](https://try.flipt.io), [Source Code (⭐4.2k)](https://github.com/flipt-io/flipt)) `GPL-3.0` `Docker/K8S/Go`
 *   [Flyimg](https://flyimg.io) - Resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. ([Demo](https://demo.flyimg.io), [Source Code (⭐1.1k)](https://github.com/flyimg/flyimg)) `MIT` `Docker`
 *   [Geeftlist](https://codeberg.org/nanawel/geeftlist) - Collaborative platform for managing, sharing and reserving gifts between friends and family. `GPL-3.0` `Docker`
-*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code (⭐1.6k)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
 *   [google-webfonts-helper (⭐12k)](https://github.com/majodev/google-webfonts-helper) `⚠` - Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://gwfh.mranftl.com/fonts)) `MIT` `Nodejs`
 *   [Gophish](https://getgophish.com/) - Gophish is a powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing. ([Source Code (⭐12k)](https://github.com/gophish/gophish)) `MIT` `Go/Docker`
 *   [graph-vl (⭐61)](https://github.com/verifid/graph-vl) - Identity document verification using Machine Learning and GraphQL. `MIT` `Python/Docker/K8S`
@@ -1356,6 +1356,7 @@ Software that does not fit in another section.
 *   [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code (⭐1.1k)](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
 *   [WeTTY](https://butlerx.github.io/wetty/#/) - Terminal in browser over http/https. ([Source Code (⭐4.5k)](https://github.com/butlerx/wetty)) `MIT` `Docker/Nodejs`
 *   [wger](https://wger.de/) - Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de/en/dashboard), [Source Code (⭐4.5k)](https://github.com/wger-project/wger)) `AGPL-3.0` `Python/Docker`
+*   [Yamtrack (⭐304)](https://github.com/FuzzyGrim/Yamtrack) `⚠` - Media tracker for movies, tv shows, anime, manga, video games and books. ([Demo (⭐304)](https://github.com/FuzzyGrim/Yamtrack?tab=readme-ov-file#demo)) `AGPL-3.0` `Docker/Python`
 
 ### Money, Budgeting & Management
 
@@ -1397,7 +1398,7 @@ Software that does not fit in another section.
 *   [SHKeeper](https://shkeeper.io/) - Cryptocurrency payment processor with the unique combination of gateway and merchant allowing you to accept payments in multiple cryptocurrencies without fees and intermediaries. ([Demo (⭐335)](https://github.com/vsys-host/shkeeper.io?tab=readme-ov-file#11-demo), [Source Code (⭐335)](https://github.com/vsys-host/shkeeper.io)) `GPL-3.0` `Python`
 *   [SolidInvoice](https://solidinvoice.co) - Open source invoicing and quote application. ([Source Code (⭐638)](https://github.com/SolidInvoice/SolidInvoice)) `MIT` `PHP`
 *   [Wallos](https://wallosapp.com) - Lightweight personal subscription tracker with statistics and optional notifications. ([Demo (⭐4.2k)](https://github.com/ellite/wallos?tab=readme-ov-file#demo), [Source Code (⭐4.2k)](https://github.com/ellite/wallos)) `GPL-3.0` `PHP/Docker`
-*   [WYGIWYH (⭐345)](https://github.com/eitchtee/WYGIWYH) - Simple and powerful finance tracker. ([Demo](https://wygiwyh-demo.herculino.com/)) `AGPL-3.0` `Docker/Django`
+*   [WYGIWYH (⭐406)](https://github.com/eitchtee/WYGIWYH) - Simple and powerful finance tracker. ([Demo](https://wygiwyh-demo.herculino.com/)) `AGPL-3.0` `Docker/Django`
 *   [YAFFA](https://www.yaffa.cc) - Personal finance web application, that can be used to keep track of your money, expenses, budgets, and investments. It also helps with long-term financial planning. ([Demo](https://sandbox.yaffa.cc), [Source Code (⭐14)](https://github.com/kantorge/yaffa)) `MIT` `PHP`
 
 ### Monitoring
@@ -1418,6 +1419,7 @@ Software for [monitoring](https://en.wikipedia.org/wiki/Monitoring#Computing) sy
 
 *   [DailyTxT (⭐259)](https://github.com/PhiTux/DailyTxT) - Encrypted diary Web application to save your personal memories of each day. Includes a search function and encrypted file upload. `MIT` `Docker`
 *   [Dnote](https://www.getdnote.com) - A simple command line notebook with multi-device sync and web interface. ([Source Code (⭐2.8k)](https://github.com/dnote/dnote)) `AGPL-3.0` `Go`
+*   [Docs](https://docs.numerique.gouv.fr/) - Collaborative note taking, wiki and documentation platform that scales. ([Source Code (⭐11k)](https://github.com/suitenumerique/docs)) `MIT` `K8S`
 *   [draw.io](https://draw.io) - Diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams. ([Source Code (⭐1k)](https://github.com/jgraph/drawio)) `Apache-2.0` `Javascript/Docker`
 *   [flatnotes (⭐2k)](https://github.com/dullage/flatnotes) - A self-hosted, database-less note-taking web app that utilises a flat folder of markdown files for storage. ([Demo](https://demo.flatnotes.io)) `MIT` `Docker`
 *   [HedgeDoc](https://hedgedoc.org/) - Realtime collaborative markdown notes on all platforms, formerly known as CodiMD and HackMD CE. ([Demo](https://demo.hedgedoc.org/), [Source Code (⭐5.7k)](https://github.com/hedgedoc/hedgedoc)) `AGPL-3.0` `Docker/Nodejs`
@@ -1457,7 +1459,7 @@ An [office suite](https://en.wikipedia.org/wiki/List_of_office_suites) is a coll
 
 A [password manager](https://en.wikipedia.org/wiki/Password_manager) allows users to store, generate, and manage their passwords for local applications and online services.
 
-*   [AliasVault](https://www.aliasvault.net) - End-to-end encrypted password manager with a built-in email alias generator and server. ([Source Code (⭐463)](https://github.com/lanedirt/AliasVault)) `MIT` `Docker`
+*   [AliasVault](https://www.aliasvault.net) - End-to-end encrypted password manager with a built-in email alias generator and server. ([Source Code (⭐554)](https://github.com/lanedirt/AliasVault)) `MIT` `Docker`
 *   [Bitwarden](https://bitwarden.com/) `⚠` - Password manager with webapp, browser extension, and mobile app. ([Source Code (⭐16k)](https://github.com/bitwarden/server)) `AGPL-3.0` `Docker/C#`
 *   [Passbolt](https://www.passbolt.com/) - Password manager dedicated for managing passwords in a collaborative way on any Web server, using a MySQL database backend. ([Source Code (⭐4.9k)](https://github.com/passbolt/passbolt_api)) `AGPL-3.0` `PHP/deb/K8S/Docker`
 *   [PassIt](https://passit.io/) - Simple password manage with sharing features by group and user, but no administration interface. ([Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)) `AGPL-3.0` `Docker/Django`
@@ -1508,7 +1510,7 @@ Dashboards for accessing information and applications.
 *   [Glance (⭐21k)](https://github.com/glanceapp/glance) - A highly customizable dashboard that puts all your feeds in one place. `AGPL-3.0` `Docker/Go`
 *   [Heimdall](https://heimdall.site/) - Heimdall is an elegant solution to organise all your web applications. ([Source Code (⭐8.3k)](https://github.com/linuxserver/Heimdall)) `MIT` `PHP`
 *   [Hiccup](https://designedbyashw.in/test/hiccup/) - A beautiful static homepage to get to your links and services quickly. It has built-in search, editing, PWA support and localstorage caching to easily organize your start page. ([Source Code (⭐161)](https://github.com/ashwin-pc/hiccup)) `MIT` `Javascript/Docker`
-*   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐405)](https://github.com/homarr-labs/homarr)) `MIT` `Docker/Nodejs`
+*   [Homarr](https://homarr.dev) - Sleek, modern dashboard with many integrations and web-based config. ([Demo](https://demo.homarr.dev), [Source Code (⭐526)](https://github.com/homarr-labs/homarr)) `MIT` `Docker/Nodejs`
 *   [Homepage by gethomepage (⭐23k)](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. `GPL-3.0` `Docker/Nodejs`
 *   [Homepage by tomershvueli (⭐314)](https://github.com/tomershvueli/homepage) - Simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
 *   [Homer (⭐9.9k)](https://github.com/bastienwirtz/homer) - A dead simple static homepage to expose your server services, with an easy yaml configuration and connectivity check. `Apache-2.0` `Docker/K8S/Nodejs`
@@ -1707,7 +1709,7 @@ Software for easy installation, management and configuration of self-hosted serv
 
 [Software development](https://en.wikipedia.org/wiki/Software_development) is the process of conceiving, specifying, designing, programming, documenting, testing, and bug fixing involved in creating and maintaining applications, frameworks, or other software components.
 
-**Please visit [Software Development - API Management](#software-development---api-management), [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment), [Software Development - FaaS & Serverless](#software-development---faas--serverless), [Software Development - IDE & Tools](#software-development---ide--tools), [Software Development - Localization](#software-development---localization), [Software Development - Low Code](#software-development---low-code), [Software Development - Project Management](#software-development---project-management), [Software Development - Testing](#software-development---testing)**
+**Please visit [Software Development - API Management](#software-development---api-management), [Software Development - Continuous Integration & Deployment](#software-development---continuous-integration--deployment), [Software Development - FaaS & Serverless](#software-development---faas--serverless), [Software Development - IDE & Tools](#software-development---ide--tools), [Software Development - Localization](#software-development---localization), [Software Development - Low Code](#software-development---low-code), [Software Development - Project Management](#software-development---project-management), [Software Development - Testing](#software-development---testing), [Software Development - Feature Toggle](#software-development---feature-toggle)**
 
 ### Software Development - API Management
 
@@ -1747,6 +1749,17 @@ Software for easy installation, management and configuration of self-hosted serv
 [Serverless computing](https://en.wikipedia.org/wiki/Serverless_computing), [Function as a Service (FaaS)](https://en.wikipedia.org/wiki/Function_as_a_service) and [Platform as a Service (Paas)](https://en.wikipedia.org/wiki/Platform_as_a_service) management software.
 
 **Please visit [awesome-sysadmin/PaaS (⭐28k)](https://github.com/awesome-foss/awesome-sysadmin#paas)**
+
+### Software Development - Feature Toggle
+
+**[`^        back to top        ^`](#awesome-selfhosted)**
+
+A [feature toggle](https://en.wikipedia.org/wiki/Feature_toggle) in software development provides an alternative to maintaining multiple feature branches in source code.
+
+*Related: [Software Development - IDE & Tools](#software-development---ide--tools)*
+
+*   [Flagsmith](https://flagsmith.com) - Dashboard, API and SDKs for adding Feature Flags to your applications (alternative to LaunchDarkly). ([Source Code (⭐5.5k)](https://github.com/flagsmith/flagsmith)) `BSD-3-Clause` `Docker/K8S`
+*   [GO Feature Flag](https://gofeatureflag.org) - Simple, complete, and lightweight feature flag solution (alternative to LaunchDarkly). ([Source Code (⭐1.6k)](https://github.com/thomaspoignant/go-feature-flag)) `MIT` `Go`
 
 ### Software Development - IDE & Tools
 

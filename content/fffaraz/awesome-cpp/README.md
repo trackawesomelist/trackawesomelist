@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Apr 05, 2025](/content/2025/04/05/README.md)
+
+### Miscellaneous
+
+*   [Hexi (⭐231)](https://github.com/EmberEmu/Hexi) - Header-only, lightweight C++ library for binary streaming & serialization. \[Apache-2.0/MIT]
+
 ## [Apr 02, 2025](/content/2025/04/02/README.md)
 
 ### Debug

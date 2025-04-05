@@ -10,6 +10,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Everything to Markdown to LLMs
 
+*   [Mistral OCR / Mistral AI](https://mistral.ai/news/mistral-ocr): A document understanding API
 *   [opendatalab/MinerU (⭐29k)](https://github.com/opendatalab/MinerU): A high-quality tool for convert PDF to Markdown and JSON
 
 ## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)

@@ -12,6 +12,10 @@
 
 *   [ai-friendly-docs (⭐15)](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
 
+### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@badisi/ngx-auth (⭐13)](https://github.com/Badisi/auth-js/tree/main/libs/ngx-auth) - Authentication and authorization support for Angular based desktop and mobile applications.
+
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx (⭐1)](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
@@ -29,10 +33,18 @@
 
 *   [ngx-pwd (⭐1)](https://github.com/noelitocalma/ngx-pwd) - Password Strength Meter and Generator.
 
+### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@berg-layout/angular](https://www.npmjs.com/package/@berg-layout/angular) - This is the Angular version of [berg-layout (⭐36)](https://github.com/blidblid/berg-layout).
+
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@studiohyperdrive/ngx-tools (⭐12)](https://github.com/studiohyperdrive/ngx-tools) - A mono-repo providing several of the Angular based packages created and maintained by the [Studio Hyperdrive](https://studiohyperdrive.be/) team.
 *   [@man-es/ngx-tools (⭐2)](https://github.com/man-es/ngx-tools) - The MAN ngx-tools repository contains a collection of libraries is designed to elevate your Angular development experience.
+
+### Inspired by Angular / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [fornax (⭐10)](https://github.com/TBosak/fornax) - A lightweight, opinionated, and highly customizable Bun-powered full-stack web framework designed to simplify building single-page applications with custom components, routing, and flexible styling options.
 
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 

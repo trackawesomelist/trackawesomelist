@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Apr 05, 2025](/content/2025/04/05/README.md)
+
+### Everything to Markdown to LLMs
+
+*   [Mistral OCR / Mistral AI](https://mistral.ai/news/mistral-ocr): A document understanding API
+
 ## [Mar 31, 2025](/content/2025/03/31/README.md)
 
 ### Everything to Markdown to LLMs

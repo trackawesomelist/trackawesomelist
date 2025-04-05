@@ -19,6 +19,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Miscellaneous
 
 *   [AsmJit (⭐4.1k)](https://github.com/asmjit/asmjit) - Low-latency machine code generation. \[Zlib] [website](https://asmjit.com)
+*   [Hexi (⭐231)](https://github.com/EmberEmu/Hexi) - Header-only, lightweight C++ library for binary streaming & serialization. \[Apache-2.0/MIT]
 
 ## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)
 

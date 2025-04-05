@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Apr 05, 2025](/content/2025/04/05/README.md)
+
+### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@badisi/ngx-auth (⭐13)](https://github.com/Badisi/auth-js/tree/main/libs/ngx-auth) - Authentication and authorization support for Angular based desktop and mobile applications.
+
+### Layout Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@berg-layout/angular](https://www.npmjs.com/package/@berg-layout/angular) - This is the Angular version of [berg-layout (⭐36)](https://github.com/blidblid/berg-layout).
+
+### Inspired by Angular / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [fornax (⭐10)](https://github.com/TBosak/fornax) - A lightweight, opinionated, and highly customizable Bun-powered full-stack web framework designed to simplify building single-page applications with custom components, routing, and flexible styling options.
+
 ## [Apr 04, 2025](/content/2025/04/04/README.md)
 
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
