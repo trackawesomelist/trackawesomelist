@@ -8,6 +8,10 @@
 
 ## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
+### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Programming Practicals](https://www.youtube.com/@programmingpracticals)
+
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ai-friendly-docs (⭐15)](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
@@ -28,6 +32,10 @@
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [altcha (⭐739)](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
+
+### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -84,7 +92,7 @@
 *   [nw.js (⭐41k)](https://github.com/nwjs/nw.js) - An app runtime based on Chromium and Node.js. You can write native apps in HTML and JavaScript with NW\.js. It also lets you call Node.js modules directly from the DOM and enables a new way of writing native applications with all web technologies.
 *   [nw-angular-example (⭐30)](https://github.com/nwutils/nw-angular-example) - An example of integrating Angular with NW\.js.
 *   [tauri](https://v2.tauri.app/) - Create small, fast, secure, cross-platform applications.
-*   [wails (⭐27k)](https://github.com/wailsapp/wails) - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
+*   [wails (⭐28k)](https://github.com/wailsapp/wails) - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -197,7 +205,7 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [zardui (⭐37)](https://github.com/zard-ui/zardui) - A collection of beautiful and accessible components for Angular based in [shadcn-ui (⭐84k)](https://github.com/shadcn-ui/ui) and NG-ZORRO. Fully open source and free.
+*   [zardui (⭐59)](https://github.com/zard-ui/zardui) - A collection of beautiful and accessible components for Angular based in [shadcn-ui (⭐84k)](https://github.com/shadcn-ui/ui) and NG-ZORRO. Fully open source and free.
 *   [Vega](https://vega.hlprd.com/) - Vega includes reusable components and styles, in your framework of choice. Build product features faster, without recreating the same basic components for every project.
 
 ### Bootstrap Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -1508,7 +1516,7 @@
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-countUp (⭐140)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
+*   [ngx-countUp (⭐141)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2080,7 +2088,7 @@
 
 ### Payments / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-stripe (⭐226)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
+*   [ngx-stripe (⭐227)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
 
 ### Paid / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

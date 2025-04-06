@@ -6,6 +6,12 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 [ Daily / [Weekly](/content/vlang/awesome-v/week/README.md) / [Overview](/content/vlang/awesome-v/readme/README.md) ]
 
+## [Apr 06, 2025](/content/2025/04/06/README.md)
+
+### Networking
+
+*   [netaddr (⭐1)](https://github.com/gechandesu/netaddr) - IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.
+
 ## [Apr 02, 2025](/content/2025/04/02/README.md)
 
 ### Database clients

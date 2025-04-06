@@ -438,6 +438,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Sebastian Persson](https://www.youtube.com/@DevBySeb)
 *   [Kobi Hari](https://www.youtube.com/@kobihari)
 *   [Code Step By Step](https://www.youtube.com/@codestepbystep)
+*   [Programming Practicals](https://www.youtube.com/@programmingpracticals)
 
 ##### Style Guides
 
@@ -612,7 +613,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [tauri](https://v2.tauri.app/) - Create small, fast, secure, cross-platform applications.
 *   [angular-tauri (⭐105)](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
 *   [create-tauri-app (⭐1.2k)](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
-*   [wails (⭐27k)](https://github.com/wailsapp/wails) - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
+*   [wails (⭐28k)](https://github.com/wailsapp/wails) - Build desktop applications using Go & web technologies, including [Angular](https://wails.io/docs/guides/angular/).
 
 #### Developer tools
 
@@ -861,7 +862,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 #### Payments
 
 *   [google-pay-button (⭐266)](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
-*   [ngx-stripe (⭐226)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
+*   [ngx-stripe (⭐227)](https://github.com/richnologies/ngx-stripe) - A comprehensive library designed for seamless integration of [`Stripe Elements`](https://stripe.com/docs/stripe-js) and payment processing capabilities into Angular applications. Leveraging the powerful features of [`StripeJS`](https://stripe.com/docs/js), Ngx Stripe simplifies building robust, secure, and scalable payment solutions.
 *   [adyen-angular-online-payments (⭐12)](https://github.com/adyen-examples/adyen-angular-online-payments) - Accept payments on your Angular/Express-based website with cards, wallets, and key local payment methods.
 *   [ngx-culqi (⭐12)](https://github.com/lperezp/ngx-culqi) - UNOFFICIAL [Culqi](https://culqi.com/) payment gateway library made to use with Angular. You can use the library like this [example (⭐11)](https://github.com/lperezp/culqi-angular).
 *   [solidgate (⭐3)](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
@@ -1104,7 +1105,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-spotlight (⭐0)](https://github.com/omnedia/ngx-spotlight) - An Angular library that creates a spotlight effect using SVG animations. The component highlights sections of your page when they enter the viewport, with customizable spotlight colors and optional animations.
 *   [ngx-starry-sky (⭐0)](https://github.com/omnedia/ngx-starry-sky) - An Angular library that creates a beautiful starry sky background with optional shooting star effects.
 *   [ngx-connection-beam (⭐5)](https://github.com/omnedia/ngx-connection-beam) - An Angular component that dynamically renders animated connection lines between two elements.
-*   [ngx-countUp (⭐140)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
+*   [ngx-countUp (⭐141)](https://github.com/inorganik/ngx-countUp) - Animates a numerical value by counting to it.
 *   [ngx-animated-counter (⭐6)](https://github.com/BugSplat-Git/ngx-animated-counter) - BugSplat's library provides simple count up and count down number animations.
 *   [ngx-dom-confetti (⭐2)](https://github.com/damingerdai/ngx-dom-confetti) - Celebrate success with dom confetti on Angular projects!
 *   [ngx-dotlottie-web (⭐2)](https://github.com/victor-enogwe/ngx-dotlottie-web) - Angular JavaScript library for rendering Lottie and dotLottie animations in Node.js and web environments.
@@ -1290,6 +1291,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-click-outside (⭐14)](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
 *   [ngx-search-pipe (⭐1)](https://github.com/paulotokarskiglinski/ngx-search-pipe) - A search pipe for Angular that filters a collection of objects based on a specified search term, designed to work seamlessly with signals.
 *   [mTruncate (⭐1)](https://github.com/MomenWalid/Truncate) - A lightweight and customizable Angular directive for truncating text with support for tooltips.
+*   [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 
 #### Drag and Drop
 
@@ -1859,7 +1861,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [NG-ZORRO MOBILE (⭐798)](https://github.com/NG-ZORRO/ng-zorro-antd-mobile) - An enterprise-class mobile UI components based on Ant Design Mobile and Angular.
 *   [NG-ZORRO (⭐9k)](https://github.com/NG-ZORRO/ng-zorro-antd) - An enterprise-class UI components based on Ant Design and Angular.
 *   [NG-ALAIN (⭐4.5k)](https://github.com/ng-alain/ng-alain/) - NG-ZORRO admin panel front-end framework.
-*   [zardui (⭐37)](https://github.com/zard-ui/zardui) - A collection of beautiful and accessible components for Angular based in [shadcn-ui (⭐84k)](https://github.com/shadcn-ui/ui) and NG-ZORRO. Fully open source and free.
+*   [zardui (⭐59)](https://github.com/zard-ui/zardui) - A collection of beautiful and accessible components for Angular based in [shadcn-ui (⭐84k)](https://github.com/shadcn-ui/ui) and NG-ZORRO. Fully open source and free.
 *   [ngx-ui (⭐716)](https://github.com/swimlane/ngx-ui) - Style and Component Library for Angular2 and beyond!
 *   [prime-ng (⭐11k)](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library.
 *   [Wijmo 5](http://wijmo.com/products/wijmo-5/) - Set of UI components for Angular2.

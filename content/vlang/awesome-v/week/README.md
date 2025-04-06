@@ -12,6 +12,10 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 *   [firebird (⭐1)](https://github.com/einar-hjortdal/firebird) - Client for Firebird SQL.
 
+### Networking
+
+*   [netaddr (⭐1)](https://github.com/gechandesu/netaddr) - IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.
+
 ## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
 
 ### Web

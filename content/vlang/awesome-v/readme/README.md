@@ -272,6 +272,7 @@ A curated list of awesome V frameworks, libraries, software and resources.
 
 ### Networking
 
+*   [netaddr (⭐1)](https://github.com/gechandesu/netaddr) - IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.
 *   [vibe (⭐34)](https://github.com/tobealive/vibe) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
 *   [vmq (⭐19)](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 

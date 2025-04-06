@@ -152,6 +152,10 @@
 
 *   [firebird (⭐1)](https://github.com/einar-hjortdal/firebird) - Client for Firebird SQL.
 
+### Networking
+
+*   [netaddr (⭐1)](https://github.com/gechandesu/netaddr) - IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.
+
 ## [17. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Network Protocols
@@ -293,6 +297,10 @@
 
 ## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
+### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Programming Practicals](https://www.youtube.com/@programmingpracticals)
+
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ai-friendly-docs (⭐15)](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
@@ -313,6 +321,10 @@
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [altcha (⭐739)](https://github.com/altcha-org/altcha) - GDPR, WCAG 2.2 AA, and EAA compliant, self-hosted CAPTCHA alternative with PoW mechanism and advanced anti-spam filter.
+
+### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -338,6 +350,10 @@
 *   [SSOJet](https://ssojet.com/) - Enterprise SSO without rebuilding auth. The free plan includes unlimited monthly active users, unlimited organizations, 2 SSO & 2 SCIM connections.
 
 ## [32. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Abduction / Explanation
+
+*   [A Grammar of Hypotheses for Visualization, Data, and Analysis](https://arxiv.org/abs/2204.14267) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=10321469321980973246)]. This work presents a grammar for expressing hypotheses in visual data analysis to formalize the previously abstract notion of "analysis tasks." Through the lens of this grammar, the authors lay the groundwork for how a user's data analysis questions can be operationalized and automated as a set of hypotheses (a hypothesis space). The authors demonstrate that the grammar-based approach for analysis tasks can provide a systematic method towards unifying three disparate spaces in visualization research: the hypotheses a dataset can express (a data hypothesis space), the hypotheses a user would like to refine or verify through analysis (an analysis hypothesis space), and the hypotheses a visualization design is capable of supporting (a visualization hypothesis space). The authors illustrate how the formalization of these three spaces can inform future research in visualization evaluation, knowledge elicitation, analytic provenance, and visualization recommendation by using a shared language for hypotheses. Finally, the authors compare the proposed grammar-based approach with existing visual analysis models and discuss the potential of a new hypothesis-driven theory of visual analytics.
 
 ### Concepts / AI Concept Representation
 
