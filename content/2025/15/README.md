@@ -1,18 +1,54 @@
 # Awesome List Updates on Apr 14 - Apr 20, 2025
 
-10 awesome lists updated this week.
+14 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [1. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+
+### Tools / Misc Tools
+
+*   [Firmware Extractor (⭐300)](https://github.com/AndroidDumps/Firmware_extractor) - Extract given archive to images
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Blockchain
+
+*   [Anchor (⭐4.2k)](https://github.com/solana-foundation/anchor) - Anchor is the leading development framework for building secure Solana programs (smart contracts).
+
+### Libraries / Task scheduling
+
+*   [persistent-scheduler (⭐10)](https://github.com/rustmailer/persistent-scheduler) \[[persistent-scheduler](https://crates.io/crates/persistent-scheduler)] - A high-performance task scheduling system built with Tokio, offering task persistence, repeatable tasks, and Cron-based scheduling for reliable time-based operations.
+
+## [3. Awesome List](/content/sindresorhus/awesome/week/README.md)
+
+### Content Management Systems
+
+*   [Payload (⭐17)](https://github.com/DanailMinchev/awesome-payload#readme) - Next.js native and open source headless CMS.
+
+## [4. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Generic ZSH
+
+*   [ZSH Setup by Easy-Cloud-in (⭐2)](https://github.com/Easy-Cloud-in/zsh-setup) - A powerful Zsh environment setup with Oh My Posh themes, essential plugins, and advanced search capabilities. This repository provides scripts to automatically configure your terminal with modern features and aesthetics. Requires a Debian or Ubuntu based system.
+
+### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [fzf-rg (⭐0)](https://github.com/ppcamp/zsh-fzf-rg) - Add some functionalities to terminal using [fzf (⭐69k)](https://github.com/junegunn/fzf), [bat (⭐52k)](https://github.com/sharkdp/bat) and [ripgrep (⭐52k)](https://github.com/BurntSushi/ripgrep).
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [pbdevflow (⭐0)](https://github.com/pbarovsky/pbdevflow) - Designed and optimized for use with [Nerd Fonts (⭐57k)](https://github.com/ryanoasis/nerd-fonts). Includes decorators for current directory, `git` status and username.
+
+## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Abduction / Rationalization
 
 *   [Coalescing the Vapors of Human Experience into a Viable and Meaningful Comprehension](https://escholarship.org/uc/item/5f64z7d7) - ***CogSci'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=5460385008324352958)]. Models of concept learning and theory acquisition often invoke a stochastic search process, in which learners generate hypotheses through some structured random process and thenevaluate them on some data measuring their quality or value. To be successful within a reasonable time-frame, these models need ways of generating good candidate hypotheses evenbefore the data are considered. Schulz (2012a) has proposed that studying the origins of new ideas in more everyday contexts, such as how we think up new names for things, can provide insight into the cognitive processes that generate good hypotheses for learning. We propose a simple generative model for how people might draw on their experience to propose new names in everyday domains such as pub names or action movies, and show that it captures surprisingly well the names that people actually imagine. We discuss the role for an analogous hypothesis-generation mechanism in enabling and constraining causal theory learning.
 
-## [2. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [6. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Clojure
 
@@ -20,7 +56,7 @@
     *   provides immutable Cons, Queue, PersistentList, capabilities as well as Vector, Set, and Map analogues built on FSet (but accessed entirely via Clojure APIs).
     *   optional read syntax so you can type `{:a 1 :b 2}`, `#{1 2 3}`, and `[1 2 3]`.
 
-## [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [7. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Validators / Rust
 
@@ -30,7 +66,7 @@
 
 *   [SIRI to GTFS-realtime (⭐10)](https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-siri-cli) - A Java-based command-line utility to convert from the [SIRI format](https://www.siri.org.uk/) to GTFS-realtime
 
-## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+## [8. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
 
 ### Software / Configuration Management
 
@@ -40,7 +76,7 @@
 
 *   [Beszel](https://beszel.dev/) - Lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. ([Source Code (⭐11k)](https://github.com/henrygd/beszel)) `MIT` `Go`
 
-## [5. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [9. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Lake Management
 
@@ -50,31 +86,31 @@
 
 *   [Best Data Science Books](https://www.appliedaicourse.com/blog/data-science-books/) - This blog offers a curated list of top data science books, categorized by topics and learning stages, to aid readers in building foundational knowledge and staying updated with industry trends.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Personal Dashboards
 
 *   [Dashy](https://dashy.to/) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/), [Source Code (⭐20k)](https://github.com/lissy93/dashy)) `MIT` `Nodejs/Docker`
 
-## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [11. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### C / Syntax highlighting packages
 
 *   [Larold's Retro Gameyard](https://laroldsretrogameyard.com/category/tutorials/gb/) - A collection of detailed GBDK-2020 based tutorials.
 
-## [8. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [12. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / ‍💻 Contrib
 
 *   [circuitbreaker (⭐249)](https://github.com/gofiber/contrib/tree/main/circuitbreaker) - Circuit Breaker middleware for Fiber.
 
-## [9. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [13. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Courses and Educational Materials
 
 *   [Gemini by Example](https://geminibyexample.com): Learn the Gemini SDK through (annotated) code examples.
 
-## [10. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [14. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
