@@ -6,6 +6,16 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 [ Daily / [Weekly](/content/awesome-foss/awesome-sysadmin/week/README.md) / [Overview](/content/awesome-foss/awesome-sysadmin/readme/README.md) ]
 
+## [Apr 08, 2025](/content/2025/04/08/README.md)
+
+### Software / Configuration Management
+
+*   [cloud-init](https://cloud-init.io/) - Initialization tool to automate the configuration of VMs, cloud instances, or machines on a network. ([Source Code (⭐3.2k)](https://github.com/canonical/cloud-init)) `GPL-3.0/Apache-2.0` `Python`
+
+### Software / Monitoring
+
+*   [Beszel](https://beszel.dev/) - Lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. ([Source Code (⭐11k)](https://github.com/henrygd/beszel)) `MIT` `Go`
+
 ## [Apr 01, 2025](/content/2025/04/01/README.md)
 
 ### Software / Backups
@@ -50,7 +60,7 @@ A curated list of amazingly awesome open-source sysadmin resources.
 *   [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code (⭐58k)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Docker/K8S`
 *   [Nhost](https://nhost.io/) - Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. ([Source Code (⭐8.2k)](https://github.com/nhost/nhost)) `MIT` `Docker/Nodejs/Go`
 *   [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code (⭐26k)](https://github.com/openfaas/faas)) `MIT` `Go`
-*   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐3.8k)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
+*   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐3.9k)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
 *   [Trusted-CGI (⭐237)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go/deb/Docker`
 
 ## [Mar 11, 2024](/content/2024/03/11/README.md)
@@ -185,7 +195,6 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Monitoring
 
-*   [Bosun](https://bosun.org/) - Monitoring and alerting system by Stack Exchange. ([Source Code (⭐3.4k)](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
 *   [Cacti](https://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code (⭐1.7k)](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 *   [eZ Server Monitor](https://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application. ([Source Code (⭐356)](https://github.com/shevabam/ezservermonitor-web)) `GPL-3.0` `PHP/Shell`
 *   [LibreNMS](https://www.librenms.org) - Fully featured network monitoring system that provides a wealth of features and device support. ([Source Code (⭐4.1k)](https://github.com/librenms/librenms)) `GPL-3.0` `PHP`
@@ -349,7 +358,6 @@ A curated list of amazingly awesome open-source sysadmin resources.
 
 ### Software / Backups
 
-*   [Amanda](https://www.amanda.org/) - Backup and archive many computers on a network to disk, tape changer/drive or cloud storage. ([Source Code (⭐239)](https://github.com/zmanda/amanda)) `MIT` `C`
 *   [Bareos](https://www.bareos.org/) - Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ([Source Code (⭐1.1k)](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
 *   [Barman](https://pgbarman.org) - Backup and Recovery Manager for PostgreSQL. ([Source Code (⭐2.3k)](https://github.com/EnterpriseDB/barman)) `GPL-3.0` `Python`
 *   [BorgBackup](https://www.borgbackup.org/) - Deduplicating archiver with compression and authenticated encryption. ([Source Code (⭐12k)](https://github.com/borgbackup/borg)) `BSD-3-Clause` `Python`
@@ -694,12 +702,6 @@ A curated list of amazingly awesome open-source sysadmin resources.
 ### Software / Identity Management - Tools and web interfaces
 
 *   [Smallstep Certificates](https://smallstep.com/certificates/) - A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ([Source Code (⭐7.2k)](https://github.com/smallstep/certificates)) `Apache-2.0` `Go`
-
-## [Jul 20, 2019](/content/2019/07/20/README.md)
-
-### Software / Backups
-
-*   [BackupPC](https://backuppc.github.io/backuppc/) - High-performance, enterprise-grade system for backing up to a server's disk.. ([Source Code (⭐1.4k)](https://github.com/backuppc/backuppc)) `GPL-3.0` `Perl`
 
 ## [Jul 17, 2019](/content/2019/07/17/README.md)
 

@@ -6,6 +6,14 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Apr 08, 2025](/content/2025/04/08/README.md)
+
+### Clojure
+
+*   NEW! in 2025 [clj-coll (⭐14)](https://github.com/dtenny/clj-coll) -  Clojure collection and sequence APIs in Common Lisp, with optional Clojure collection syntax. [Eclipse](http://www.eclipse.org/legal/epl-v10.html).
+    *   provides immutable Cons, Queue, PersistentList, capabilities as well as Vector, Set, and Map analogues built on FSet (but accessed entirely via Clojure APIs).
+    *   optional read syntax so you can type `{:a 1 :b 2}`, `#{1 2 3}`, and `[1 2 3]`.
+
 ## [Mar 31, 2025](/content/2025/03/31/README.md)
 
 ### Miscellaneous
@@ -859,9 +867,9 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Clojure
 
 *   [Cloture (⭐377)](https://github.com/ruricolist/cloture) - Clojure in Common Lisp.
-*   [cl-oju (⭐19)](https://github.com/eigenhombre/cl-oju/) - a few idioms, mostly relating to sequences, that I miss when writing Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 *   [clj-con (⭐39)](https://github.com/dtenny/clj-con) - Clojure-style concurrency operations in Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 *   [clj-re (⭐11)](https://github.com/dtenny/clj-re/) - Clojure-style regular expression functions.
+*   [cl-oju (⭐19)](https://github.com/eigenhombre/cl-oju/) - a few idioms, mostly relating to sequences, that I miss when writing Common Lisp. [MIT](https://opensource.org/licenses/MIT).
 
 ### Typing
 
@@ -1323,7 +1331,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Machine Learning
 
-*   [MGL (⭐608)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
+*   [MGL (⭐610)](https://github.com/melisgl/mgl) - a machine learning library for backpropagation neural networks, boltzmann machines, gaussian processes and more. [MIT](https://opensource.org/licenses/MIT).
     *   some parts originally contributed by Ravenpack International.
     *   used by its [author](https://github.com/melisgl) to [win (⭐128)](https://github.com/melisgl/higgsml) the Higgs Boson Machine Learning Challenge.
     *   more about the author: he also won the Google [AI Challenge](https://en.wikipedia.org/wiki/AI_Challenge) in 2010 using Common Lisp, but without MGL, as no machine learning was needed. A [related talk](https://www.youtube.com/watch?v=7sgERtZkycU) (59', 2013).
@@ -1395,6 +1403,8 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 ### Typing
 
 *   👍 [Coalton (⭐1.3k)](https://github.com/coalton-lang/coalton/) - an efficient, statically typed functional programming language that supercharges Common Lisp. [MIT](https://opensource.org/licenses/MIT).
+    *   focuses on high-performance, built-in advanced mathematics, a numerical tower more powerful and extensible than Lisp's:
+        *   arbitrary precision floats, exact computable real arithmetic, transfinite numbers, [dual numbers](https://coalton-lang.github.io/reference/#coalton-library/math/dual-package) and [hyperdual numbers](https://coalton-lang.github.io/reference/#coalton-library/math/hyperdual-package),
     *   [flime](https://github.com/fukamachi/flime) - Real-time, project-wide Coalton compilation with isolated processes for LSP integration. [MIT](https://opensource.org/licenses/MIT).
     *   [tokyo-tojo-json](https://github.com/tojoqk/tokyo.tojo.json) - a JSON parser implemented in Coalton.
     *   [coalton-threads (⭐7)](https://github.com/garlic0x1/coalton-threads) - primitive thread and concurrency operations for Coalton.

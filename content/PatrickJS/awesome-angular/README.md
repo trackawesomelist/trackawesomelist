@@ -6,6 +6,30 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Apr 08, 2025](/content/2025/04/08/README.md)
+
+### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-httpclient-easy-network-stub (⭐6)](https://github.com/NGneers/ng-httpclient-easy-network-stub) - An easy class to mock a lot of network requests from the Angular HttpClient.
+
+### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [signal-translate (⭐2)](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
+
+### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [easy-ngrx-distinct-selector (⭐2)](https://github.com/NGneers/easy-ngrx-distinct-selector) - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
+
+## [Apr 07, 2025](/content/2025/04/07/README.md)
+
+### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@ramiz4/typing-text](https://www.npmjs.com/package/@ramiz4/typing-text) - Angular directive for animated typing effects — smooth, customizable, and standalone.
+
+### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-oneforall (⭐1)](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
+
 ## [Apr 06, 2025](/content/2025/04/06/README.md)
 
 ### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -14,7 +38,7 @@
 
 ### DOM / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
+*   [ngx-autofocus (⭐1)](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 
 ## [Apr 05, 2025](/content/2025/04/05/README.md)
 
@@ -85,19 +109,19 @@
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [firebase-framework-tools (⭐306)](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI (⭐4.1k)](https://github.com/firebase/firebase-tools/) to add web framework support.
+*   [firebase-framework-tools (⭐310)](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI (⭐4.1k)](https://github.com/firebase/firebase-tools/) to add web framework support.
 
 ### Documentation tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [easy-template-x-angular-expressions (⭐7)](https://github.com/alonrbar/easy-template-x-angular-expressions) - Angular expressions support for [easy-template-x (⭐424)](https://github.com/alonrbar/easy-template-x).
+*   [easy-template-x-angular-expressions (⭐8)](https://github.com/alonrbar/easy-template-x-angular-expressions) - Angular expressions support for [easy-template-x (⭐432)](https://github.com/alonrbar/easy-template-x).
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [@connectrpc/connect-web (⭐1.5k)](https://github.com/connectrpc/connect-es/tree/main/packages/connect-web) - [Connect](https://connectrpc.com/) is a family of libraries for building and consuming APIs on different languages and platforms. [@connectrpc/connect](https://www.npmjs.com/package/@connectrpc/connect) brings type-safe APIs with Protobuf to TypeScript. `@connectrpc/connect-web` provides adapters for web browsers.  See this [example (⭐140)](https://github.com/connectrpc/examples-es/tree/main/angular) to integrate Connect with Angular.
+*   [@connectrpc/connect-web (⭐1.5k)](https://github.com/connectrpc/connect-es/tree/main/packages/connect-web) - [Connect](https://connectrpc.com/) is a family of libraries for building and consuming APIs on different languages and platforms. [@connectrpc/connect](https://www.npmjs.com/package/@connectrpc/connect) brings type-safe APIs with Protobuf to TypeScript. `@connectrpc/connect-web` provides adapters for web browsers.  See this [example (⭐141)](https://github.com/connectrpc/examples-es/tree/main/angular) to integrate Connect with Angular.
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [tldraw-web-component (⭐3)](https://github.com/neosh11/tldraw-web-component) - Make [tldraw (⭐39k)](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
+*   [tldraw-web-component (⭐6)](https://github.com/neosh11/tldraw-web-component) - Make [tldraw (⭐39k)](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
 
 ### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -149,7 +173,7 @@
 
 ### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [angular-tailwind-e-commerce-template (⭐2)](https://github.com/Kei-K23/angular-tailwind-e-commerce-template) - This responsive e-commerce template, built with Angular and TailwindCSS, combines modern aesthetics with functionality. Designed as a foundation for developing robust e-commerce applications, it features a sleek, customizable design, perfect for minimalist online shops.
+*   [angular-tailwind-e-commerce-template (⭐3)](https://github.com/Kei-K23/angular-tailwind-e-commerce-template) - This responsive e-commerce template, built with Angular and TailwindCSS, combines modern aesthetics with functionality. Designed as a foundation for developing robust e-commerce applications, it features a sleek, customizable design, perfect for minimalist online shops.
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -1285,8 +1309,8 @@
 ### Module Federation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@module-federation/core (⭐1.8k)](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications.
-*   [webpack-module-federation-with-angular (⭐26)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
-*   [vite-module-federation-angular-test (⭐1)](https://github.com/Seifenn/vite-module-federation-angular-test) - This repository tests the [@module-federation/vite (⭐419)](https://github.com/module-federation/vite) with Angular and AnalogJS, based on the work done in [brandonroberts/angular-vite (⭐10)](https://github.com/brandonroberts/angular-vite). It also tests a host with AnalogJS to test SSR. But now the module federation plugin is not compatible with SSR.
+*   [webpack-module-federation-with-angular (⭐28)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
+*   [vite-module-federation-angular-test (⭐1)](https://github.com/Seifenn/vite-module-federation-angular-test) - This repository tests the [@module-federation/vite (⭐431)](https://github.com/module-federation/vite) with Angular and AnalogJS, based on the work done in [brandonroberts/angular-vite (⭐10)](https://github.com/brandonroberts/angular-vite). It also tests a host with AnalogJS to test SSR. But now the module federation plugin is not compatible with SSR.
 *   [angular-microfrontend-demo (⭐3)](https://github.com/gioboa/angular-microfrontend-demo) - Module Federation Vite + Angular is now possible.
 *   [mfe-crossframework (⭐1)](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular Host, Cross-framework remotes and without Nx.
 *   [backbase-micro-frontends (⭐1)](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.

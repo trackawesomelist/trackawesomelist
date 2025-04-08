@@ -95,9 +95,7 @@ Build automation.
 
 *See also: [Restic's list of Linux backup software (⭐702)](https://github.com/restic/others)*
 
-*   [Amanda](https://www.amanda.org/) - Backup and archive many computers on a network to disk, tape changer/drive or cloud storage. ([Source Code (⭐239)](https://github.com/zmanda/amanda)) `MIT` `C`
 *   [Backupninja](https://0xacab.org/liberate/backupninja) - Lightweight, extensible meta-backup system, provides a centralized way to configure and coordinate many different backup utilities. `GPL-2.0` `Shell`
-*   [BackupPC](https://backuppc.github.io/backuppc/) - High-performance, enterprise-grade system for backing up to a server's disk.. ([Source Code (⭐1.4k)](https://github.com/backuppc/backuppc)) `GPL-3.0` `Perl`
 *   [Backrest](https://garethgeorge.github.io/backrest/) - Backrest is a web UI and orchestrator for restic backup. ([Source Code (⭐2.5k)](https://github.com/garethgeorge/backrest)) `GPL-3.0` `Docker/Go`
 *   [Bareos](https://www.bareos.org/) - Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ([Source Code (⭐1.1k)](https://github.com/bareos/bareos)) `AGPL-3.0` `C++/C`
 *   [Barman](https://pgbarman.org) - Backup and Recovery Manager for PostgreSQL. ([Source Code (⭐2.3k)](https://github.com/EnterpriseDB/barman)) `GPL-3.0` `Python`
@@ -162,6 +160,7 @@ Conversation-driven development and management.
 *   [Ansible](https://www.ansible.com/) - Provisioning, configuration management, and application-deployment tool. ([Source Code (⭐65k)](https://github.com/ansible/ansible)) `GPL-3.0` `Python`
 *   [CFEngine](https://cfengine.com/) - Configuration management system for automated configuration and maintenance of large-scale computer systems. ([Source Code (⭐502)](https://github.com/cfengine/core)) `GPL-3.0` `C`
 *   [Chef](https://www.chef.io/products/chef-infra) - Configuration management tool using a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes". ([Source Code (⭐7.7k)](https://github.com/chef/chef)) `Apache-2.0` `Ruby`
+*   [cloud-init](https://cloud-init.io/) - Initialization tool to automate the configuration of VMs, cloud instances, or machines on a network. ([Source Code (⭐3.2k)](https://github.com/canonical/cloud-init)) `GPL-3.0/Apache-2.0` `Python`
 *   [Puppet](https://www.puppet.com/) - Software configuration management tool which includes its own declarative language to describe system configuration. ([Source Code (⭐7.6k)](https://github.com/puppetlabs/puppet)) `Apache-2.0` `Ruby/C`
 *   [Rudder](https://www.rudder.io/) - Scalable and dynamic configuration management system for patching, security & compliance, based on CFEngine. ([Source Code (⭐540)](https://github.com/Normation/rudder)) `GPL-3.0` `Scala`
 *   [Salt](https://docs.saltproject.io/) - Event-driven IT automation, remote task execution, and configuration management software. ([Source Code (⭐14k)](https://github.com/saltstack/salt)) `Apache-2.0` `Python`
@@ -461,8 +460,8 @@ Monitoring software.
 
 *   [Adagios](http://adagios.org/) - Web based Nagios interface for configuration and monitoring (replacement to the standard interface), and a REST interface. ([Source Code (⭐331)](https://github.com/opinkerfi/adagios)) `AGPL-3.0` `Docker/Python`
 *   [Alerta](https://alerta.io/) - Distributed, scalable and flexible monitoring system. ([Source Code (⭐2.4k)](https://github.com/alerta/alerta)) `Apache-2.0` `Python`
+*   [Beszel](https://beszel.dev/) - Lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. ([Source Code (⭐11k)](https://github.com/henrygd/beszel)) `MIT` `Go`
 *   [Bloonix](https://bloonix-monitoring.org/) - Bloonix is a monitoring solution that helps businesses to ensure high availability and performance. ([Source Code](https://github.com/bloonix)) `GPL-3.0` `Perl`
-*   [Bosun](https://bosun.org/) - Monitoring and alerting system by Stack Exchange. ([Source Code (⭐3.4k)](https://github.com/bosun-monitor/bosun)) `MIT` `Go`
 *   [Cacti](https://www.cacti.net) - Web-based network monitoring and graphing tool. ([Source Code (⭐1.7k)](https://github.com/Cacti/cacti)) `GPL-2.0` `PHP`
 *   [cadvisor (⭐18k)](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. `Apache-2.0` `Go`
 *   [checkmk](https://checkmk.com/) - Comprehensive solution for monitoring of applications, servers, and networks. ([Source Code (⭐1.7k)](https://github.com/Checkmk/checkmk)) `GPL-2.0` `Python/PHP`
@@ -523,7 +522,7 @@ Network configuration management tools.
 *   [LocalStack](https://localstack.cloud/) - LocalStack is a fully functional local AWS cloud stack. This includes Lambda for serverless computation. ([Source Code (⭐58k)](https://github.com/localstack/localstack)) `Apache-2.0` `Python/Docker/K8S`
 *   [Nhost](https://nhost.io/) - Firebase Alternative with GraphQL. Get a database and backend configured and ready in minutes. ([Source Code (⭐8.2k)](https://github.com/nhost/nhost)) `MIT` `Docker/Nodejs/Go`
 *   [OpenFaaS](https://www.openfaas.com/) - Serverless Functions Made Simple for Docker & Kubernetes. ([Source Code (⭐26k)](https://github.com/openfaas/faas)) `MIT` `Go`
-*   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐3.8k)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
+*   [Tau](https://taubyte.com) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ([Source Code (⭐3.9k)](https://github.com/taubyte/tau)) `BSD-3-Clause` `Go/Rust/Docker`
 *   [Trusted-CGI (⭐237)](https://github.com/reddec/trusted-cgi) - Lightweight self-hosted lambda/applications/cgi/serverless-functions platform. `MIT` `Go/deb/Docker`
 
 ### Packaging

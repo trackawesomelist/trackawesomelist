@@ -584,7 +584,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-stylesweep (⭐7)](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
 *   [ng-chrome-extension (⭐184)](https://github.com/larscom/ng-chrome-extension) - Easily create Angular Chrome Extensions (manifest v3).
 *   [ngx-devs-cli (⭐5)](https://github.com/ngx-devs/ngx-devs-cli) - Command-line interface (CLI) built in Node.js allow you to automate repetitive tasks and make your life easier when working with Angular projects.
-*   [firebase-framework-tools (⭐306)](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI (⭐4.1k)](https://github.com/firebase/firebase-tools/) to add web framework support.
+*   [firebase-framework-tools (⭐310)](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI (⭐4.1k)](https://github.com/firebase/firebase-tools/) to add web framework support.
 *   [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx (⭐1)](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
 *   [ngx-create (⭐1)](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
 
@@ -657,7 +657,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [docgeni (⭐199)](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 *   [trakk.js (⭐3)](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
 *   [ng-component-hierarchy-visualizer (⭐4)](https://github.com/timonkrebs/ng-component-hierarchy-visualizer) - A non invasive tool to generate Mermaid representations of your Angular component hierarchy representation based on the route configurations.
-*   [easy-template-x-angular-expressions (⭐7)](https://github.com/alonrbar/easy-template-x-angular-expressions) - Angular expressions support for [easy-template-x (⭐424)](https://github.com/alonrbar/easy-template-x).
+*   [easy-template-x-angular-expressions (⭐8)](https://github.com/alonrbar/easy-template-x-angular-expressions) - Angular expressions support for [easy-template-x (⭐432)](https://github.com/alonrbar/easy-template-x).
 
 #### Feature Flags
 
@@ -736,7 +736,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-http-helper (⭐1)](https://github.com/InnovA2/ngx-http-helper) - A lightweight library to easily call your APIs and add JWT token or API key on each header request.
 *   [mbo-ez-angular-ez-http-client (⭐3)](https://github.com/morganbourse/mbo-ez-angular-ez-http-client) - An ez Angular HTTP client inspired by Java [OpenFeign (⭐9.6k)](https://github.com/OpenFeign/feign) Client.
 *   [ngx-sse-client (⭐29)](https://github.com/marcospds/ngx-sse-client) - A simple **SSE** (Server Sent Events) client for Angular applications to replace the use of `EventSource`.
-*   [@connectrpc/connect-web (⭐1.5k)](https://github.com/connectrpc/connect-es/tree/main/packages/connect-web) - [Connect](https://connectrpc.com/) is a family of libraries for building and consuming APIs on different languages and platforms. [@connectrpc/connect](https://www.npmjs.com/package/@connectrpc/connect) brings type-safe APIs with Protobuf to TypeScript. `@connectrpc/connect-web` provides adapters for web browsers.  See this [example (⭐140)](https://github.com/connectrpc/examples-es/tree/main/angular) to integrate Connect with Angular.
+*   [@connectrpc/connect-web (⭐1.5k)](https://github.com/connectrpc/connect-es/tree/main/packages/connect-web) - [Connect](https://connectrpc.com/) is a family of libraries for building and consuming APIs on different languages and platforms. [@connectrpc/connect](https://www.npmjs.com/package/@connectrpc/connect) brings type-safe APIs with Protobuf to TypeScript. `@connectrpc/connect-web` provides adapters for web browsers.  See this [example (⭐141)](https://github.com/connectrpc/examples-es/tree/main/angular) to integrate Connect with Angular.
+*   [ng-httpclient-easy-network-stub (⭐6)](https://github.com/NGneers/ng-httpclient-easy-network-stub) - An easy class to mock a lot of network requests from the Angular HttpClient.
 
 #### Integrations
 
@@ -840,15 +841,16 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-translate-db (⭐3)](https://github.com/kinleyrabgay/ngx-translate-db) - A lightweight, efficient Angular translation library that uses IndexedDB for offline storage. Perfect for applications that need to handle translations without network dependency.
 *   [ngx-glagolize (⭐2)](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
 *   [locale-translator (⭐1)](https://github.com/andreasnicolaou/locale-translator) - Translate any locale with the provided pipe or service.
-*   [tldraw-web-component (⭐3)](https://github.com/neosh11/tldraw-web-component) - Make [tldraw (⭐39k)](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
+*   [tldraw-web-component (⭐6)](https://github.com/neosh11/tldraw-web-component) - Make [tldraw (⭐39k)](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
+*   [signal-translate (⭐2)](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
 
 #### Module Federation
 
 *   [@module-federation/core (⭐1.8k)](https://github.com/module-federation/core) - Module Federation is a concept that allows developers to share code and resources across multiple JavaScript applications.
 *   [ng-dynamic-mf (⭐9)](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
 *   [module-federation-plugin (⭐771)](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
-*   [webpack-module-federation-with-angular (⭐26)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
-*   [vite-module-federation-angular-test (⭐1)](https://github.com/Seifenn/vite-module-federation-angular-test) - This repository tests the [@module-federation/vite (⭐419)](https://github.com/module-federation/vite) with Angular and AnalogJS, based on the work done in [brandonroberts/angular-vite (⭐10)](https://github.com/brandonroberts/angular-vite). It also tests a host with AnalogJS to test SSR. But now the module federation plugin is not compatible with SSR.
+*   [webpack-module-federation-with-angular (⭐28)](https://github.com/edumserrano/webpack-module-federation-with-angular) - Guide to learn about Webpack Module Federation with several Angular code demos.
+*   [vite-module-federation-angular-test (⭐1)](https://github.com/Seifenn/vite-module-federation-angular-test) - This repository tests the [@module-federation/vite (⭐431)](https://github.com/module-federation/vite) with Angular and AnalogJS, based on the work done in [brandonroberts/angular-vite (⭐10)](https://github.com/brandonroberts/angular-vite). It also tests a host with AnalogJS to test SSR. But now the module federation plugin is not compatible with SSR.
 *   [angular-microfrontend-demo (⭐3)](https://github.com/gioboa/angular-microfrontend-demo) - Module Federation Vite + Angular is now possible.
 *   [mfe-crossframework (⭐1)](https://github.com/igorhms/mfe-crossframework) - Module Federation project with Angular Host, Cross-framework remotes and without Nx.
 *   [backbase-micro-frontends (⭐1)](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.
@@ -969,7 +971,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [@wlucha/angular-starter (⭐337)](https://github.com/wlucha/angular-starter) - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
 *   [angular-clean-architecture (⭐11)](https://github.com/carlossalasamper/angular-clean-architecture) - An Angular scaffold with a clean architecture that is easy to understand.
 *   [dataclouder-template-angular (⭐1)](https://github.com/dataclouder-dev/dataclouder-template-angular) - A ready-to-use Angular/Ionic template with Firebase Authentication integration.
-*   [angular-tailwind-e-commerce-template (⭐2)](https://github.com/Kei-K23/angular-tailwind-e-commerce-template) - This responsive e-commerce template, built with Angular and TailwindCSS, combines modern aesthetics with functionality. Designed as a foundation for developing robust e-commerce applications, it features a sleek, customizable design, perfect for minimalist online shops.
+*   [angular-tailwind-e-commerce-template (⭐3)](https://github.com/Kei-K23/angular-tailwind-e-commerce-template) - This responsive e-commerce template, built with Angular and TailwindCSS, combines modern aesthetics with functionality. Designed as a foundation for developing robust e-commerce applications, it features a sleek, customizable design, perfect for minimalist online shops.
 
 ##### Paid
 
@@ -1110,6 +1112,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-dom-confetti (⭐2)](https://github.com/damingerdai/ngx-dom-confetti) - Celebrate success with dom confetti on Angular projects!
 *   [ngx-dotlottie-web (⭐2)](https://github.com/victor-enogwe/ngx-dotlottie-web) - Angular JavaScript library for rendering Lottie and dotLottie animations in Node.js and web environments.
 *   [afnaan-ngx-custom-cursor (⭐2)](https://github.com/afnaanulla/AfnaanNgx-cusotm-cursor) - A customizable animated cursor for Angular applications. Enhance user experience with a stylish and interactive cursor effect.
+*   [@ramiz4/typing-text](https://www.npmjs.com/package/@ramiz4/typing-text) - Angular directive for animated typing effects — smooth, customizable, and standalone.
 
 #### Calendars
 
@@ -1291,7 +1294,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-click-outside (⭐14)](https://github.com/Kr0san89/ng-click-outside) - Angular directive for handling click events outside of an element.
 *   [ngx-search-pipe (⭐1)](https://github.com/paulotokarskiglinski/ngx-search-pipe) - A search pipe for Angular that filters a collection of objects based on a specified search term, designed to work seamlessly with signals.
 *   [mTruncate (⭐1)](https://github.com/MomenWalid/Truncate) - A lightweight and customizable Angular directive for truncating text with support for tooltips.
-*   [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
+*   [ngx-autofocus (⭐1)](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 
 #### Drag and Drop
 
@@ -1661,6 +1664,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-tool-collection (⭐1)](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
 *   [yaagoub](https://yaagoub.org/) - Accelerate your development with decorators, directives, icons, services, and OAuth 2.0.
 *   [@man-es/ngx-tools (⭐2)](https://github.com/man-es/ngx-tools) - The MAN ngx-tools repository contains a collection of libraries is designed to elevate your Angular development experience.
+*   [ngx-oneforall (⭐1)](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
 
 #### Modals
 
@@ -1785,6 +1789,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngrx-http-tracking (⭐7)](https://github.com/acandylevey/ngrx-http-tracking) - This NgRx library is aimed at slotting into your pre-existing NgRx stores to reduce the amount of boilerplate code you need to write and make handling the loading, success, and error states of HTTP requests significantly easier.
 *   [ngrx-manager (⭐1)](https://github.com/smoosee/ngrx-manager) - Plug-N-Play State Manager for NgRx stores.
 *   [ngrx-set (⭐1)](https://github.com/parloti/ngrx-set) - This simplifies the creation of actions for asynchronous requests that can succeed, fail, or be aborted.
+*   [easy-ngrx-distinct-selector (⭐2)](https://github.com/NGneers/easy-ngrx-distinct-selector) - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
 
 ##### NGXS
 
