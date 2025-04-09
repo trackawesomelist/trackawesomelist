@@ -2,9 +2,20 @@
 
 Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stevesong/awesome-connectivity-info/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) · ⭐ 138 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stevesong/awesome-connectivity-info/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) · ⭐ 142 · 🏷️ Miscellaneous
 
 [ [Daily](/content/stevesong/awesome-connectivity-info/README.md) / Weekly / [Overview](/content/stevesong/awesome-connectivity-info/readme/README.md) ]
+
+## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
+
+### Global Connectivity Indexes
+
+*   A4AI Affordability Drivers Index - ([2021](https://web.archive.org/web/20220423194006/https://a4ai.org/affordability-report/data/?_year=2021\&indicator=INDEX) - link via Internet Archive)([2020](https://a4ai.org/affordability-report/data/?_year=2020\&indicator=INDEX)) - Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
+*   A4AI Mobile Broadband Data Costs - ([2020](https://web.archive.org/web/20210414222555/https://a4ai.org/extra/baskets/A4AI/2020/mobile_broadband_pricing_gni) - link via Internet Archive)([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
+
+### Connectivity Maps
+
+*   [ITU Infrastructure Connectivity Map](https://bbmaps.itu.int/bbmaps/) - Online map of undersea and terrestrial fibre optic networks from ITU.
 
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
@@ -149,26 +160,19 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 
 ### Periodic Global Connectivity Reports
 
-*   [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - ([2024](https://www.gsma.com/mobileeconomy/wp-content/uploads/2024/02/260224-The-Mobile-Economy-2024.pdf)) ([2023](https://www.gsma.com/mobileeconomy/wp-content/uploads/2023/03/270223-The-Mobile-Economy-2023.pdf)) ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/02/280222-The-Mobile-Economy-2022.pdf)) ([2019](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf)) ([2018](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf))
+*   [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - ([2025](https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/wp-content/uploads/2025/04/030325-The-Mobile-Economy-2025.pdf)) ([2024](https://www.gsma.com/mobileeconomy/wp-content/uploads/2024/02/260224-The-Mobile-Economy-2024.pdf)) ([2023](https://www.gsma.com/mobileeconomy/wp-content/uploads/2023/03/270223-The-Mobile-Economy-2023.pdf)) ([2022](https://www.gsma.com/mobileeconomy/wp-content/uploads/2022/02/280222-The-Mobile-Economy-2022.pdf)) ([2019](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf)) ([2018](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf))
 *   [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - ([Q2 2024](https://www.ericsson.com/4a4b71/assets/local/reports-papers/mobility-report/documents/2024/ericsson-mobility-report-q2-2024-update.pdf)) ([2024](https://www.ericsson.com/4912e3/assets/local/reports-papers/mobility-report/documents/2024br/emr-business-review-2024.pdf)) ([Jun 2023](https://www.ericsson.com/en/reports-and-papers/mobility-report/reports/june-2023)) ([Nov 2022](https://www.ericsson.com/4ae28d/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-november-2022.pdf)) ([Jun 2022](https://www.ericsson.com/49d3a0/assets/local/reports-papers/mobility-report/documents/2022/ericsson-mobility-report-june-2022.pdf)) ([Nov 2021](https://www.ericsson.com/assets/local/reports-papers/mobility-report/documents/2021/ericsson-mobility-report-november-2021.pdf)) ([Q2 2020 Update](https://www.ericsson.com/4a4e5d/assets/local/mobility-report/documents/2020/emr-q2-update-03092020.pdf)) ([Jun 2020](https://www.ericsson.com/49c840/assets/local/mobility-report/documents/2020/june2020-ericsson-mobility-report.pdf)) ([Nov 2019](https://www.ericsson.com/en/mobility-report/reports/november-2019)) ([Nov 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf)) ([June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf)).
 
 ## [Mar 14 - Mar 20, 2022](/content/2022/11/README.md)
 
 ### Global Connectivity Indexes
 
-*   A4AI Affordability Drivers Index - ([2021](https://a4ai.org/affordability-report/data/?_year=2021\&indicator=INDEX))([2020](https://a4ai.org/affordability-report/data/?_year=2020\&indicator=INDEX)) - Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
 *   [Huawei Global Connectivity Index](https://www.huawei.com/minisite/gci/en/) - (2020) Snapshot of 50 nations’ "Digital Transformation" status measured against Supply, Demand, Experience and Potential.
 
 ### Regional Connectivity Reports and Data
 
 *   GSMA Mobile Economy - Africa [2016](https://www.gsma.com/mobileeconomy/africa/)
 *   Opera - State of the Mobile Web Africa - ([2019](https://blogs.opera.com/news/wp-content/uploads/sites/2/2019/06/SMW_2019.pdf)) ([2016](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf)).
-
-## [Apr 26 - May 02, 2021](/content/2021/17/README.md)
-
-### Global Connectivity Indexes
-
-*   A4AI Mobile Broadband Data Costs - ([2020](https://a4ai.org/extra/baskets/A4AI/2020/mobile_broadband_pricing_gni))([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
 
 ## [Apr 19 - Apr 25, 2021](/content/2021/16/README.md)
 
@@ -221,7 +225,6 @@ Awesome list of connectivity indexes and reports to help you better under who ha
 *   [African Terrestrial Fibre Optic Infrastructure](https://afterfibre.nsrc.org/) - Map of African terrestrial fibre networks, Creative Commons, Open Data.
 *   [Africa Bandwidth Maps](http://www.africabandwidthmaps.com/) - Paul Hamilton's map of African terrestrial fibre and microwave networks.
 *   [Telegeography Submarine Cable Map](https://www.submarinecablemap.com/) - Interactive submarine fibre optic cables.
-*   [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/) - Online map of terrestrial fibre and microwave networks from ITU.
 *   [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/) - Somewhat dated but still useful map of mobile network coverage on country by country basis.
 *   [Hurricane Electric 3D map](http://he.net/3d-map/) -  Interactive 3D map of undersea cables and Hurrican Electric Points of Presence (POPs) and routes.
 

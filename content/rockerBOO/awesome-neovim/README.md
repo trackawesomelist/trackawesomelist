@@ -6,6 +6,32 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Apr 09, 2025](/content/2025/04/09/README.md)
+
+### (requires Neovim 0.5)
+
+*   [Fildo7525/pretty\_hover (⭐196)](https://github.com/Fildo7525/pretty_hover) - Highly customizable hover formatter, extendable to blink.cmp. As native hover supports multiple LSP servers.
+
+### AI / Diagnostics
+
+*   [heilgar/nochat.nvim (⭐1)](https://github.com/heilgar/nochat.nvim) - Cursor-like effortless natural language generation with multiple AI providers including Ollama, Anthropic (Claude), and ChatGPT.
+
+### Web Development / Diagnostics
+
+*   [heilgar/nvim-http-client (⭐11)](https://github.com/heilgar/nvim-http-client) - Easy to use HTTP client with IntelliJ (JetBrains) HTTP client syntax compatibility.
+
+### Marks / Diagnostics
+
+*   [heilgar/bookmarks.nvim (⭐11)](https://github.com/heilgar/bookmarks.nvim) - Manage line bookmarks with Telescope integration and SQLite storage.
+
+### Note Taking / Diagnostics
+
+*   [obsidian-nvim/obsidian.nvim (⭐137)](https://github.com/obsidian-nvim/obsidian.nvim) - Plugin for Obsidian, written in Lua.
+
+### Code Runner / Diagnostics
+
+*   [pewpewnor/pilot.nvim (⭐2)](https://github.com/pewpewnor/pilot.nvim) - Run your projects and files quickly with keybindings, and configure how to run them on the fly.
+
 ## [Apr 03, 2025](/content/2025/04/03/README.md)
 
 ### Command Line / Diagnostics
@@ -40,25 +66,25 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [mohseenrm/marko.nvim (⭐4)](https://github.com/mohseenrm/marko.nvim) - Behind the scenes, global marks management for different projects.
+*   [mohseenrm/marko.nvim (⭐5)](https://github.com/mohseenrm/marko.nvim) - Behind the scenes, global marks management for different projects.
 
 ## [Mar 23, 2025](/content/2025/03/23/README.md)
 
 ### Programming Languages Support / Diagnostics
 
-*   [kiyoon/python-import.nvim (⭐31)](https://github.com/kiyoon/python-import.nvim) - Add Python import statements with Tree-sitter, LSP, and more.
+*   [kiyoon/python-import.nvim (⭐39)](https://github.com/kiyoon/python-import.nvim) - Add Python import statements with Tree-sitter, LSP, and more.
 
 ### Marks / Diagnostics
 
-*   [Beargruug/skipper.nvim (⭐2)](https://github.com/Beargruug/skipper.nvim/) - Jump between functions in a file with ease.
+*   [Beargruug/skipper.nvim (⭐4)](https://github.com/Beargruug/skipper.nvim/) - Jump between functions in a file with ease.
 
 ### Utility / Diagnostics
 
-*   [y3owk1n/undo-glow.nvim (⭐24)](https://github.com/y3owk1n/undo-glow.nvim/) - Animated glow/highlight effects for Neovim operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
+*   [y3owk1n/undo-glow.nvim (⭐31)](https://github.com/y3owk1n/undo-glow.nvim/) - Animated glow/highlight effects for Neovim operations (undo, redo, yank, paste, etc.) with fully customizable animations and appearance.
 
 ### Editing Support / Diagnostics
 
-*   [zhisme/copy\_with\_context.nvim (⭐7)](https://github.com/zhisme/copy_with_context.nvim) - Copy lines with file path and line number metadata for sharing code snippets with context.
+*   [zhisme/copy\_with\_context.nvim (⭐10)](https://github.com/zhisme/copy_with_context.nvim) - Copy lines with file path and line number metadata for sharing code snippets with context.
 
 ## [Mar 18, 2025](/content/2025/03/18/README.md)
 
@@ -108,7 +134,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [redoxahmii/json-to-types.nvim (⭐36)](https://github.com/redoxahmii/json-to-types.nvim) - Convert JSON objects to type definitions for multiple languages.
+*   [redoxahmii/json-to-types.nvim (⭐38)](https://github.com/redoxahmii/json-to-types.nvim) - Convert JSON objects to type definitions for multiple languages.
 
 ## [Mar 03, 2025](/content/2025/03/03/README.md)
 
@@ -202,29 +228,29 @@ Collections of awesome neovim plugins.
 
 ### Completion / Diagnostics
 
-*   [Saghen/blink.cmp (⭐3.7k)](https://github.com/Saghen/blink.cmp) - Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
+*   [Saghen/blink.cmp (⭐4k)](https://github.com/Saghen/blink.cmp) - Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
 
 ### AI / Diagnostics
 
-*   [Davidyz/VectorCode (⭐169)](https://github.com/davidyz/vectorcode) - Supercharge your LLM experience with repository-level RAG.
-*   [dlants/magenta.nvim (⭐177)](https://github.com/dlants/magenta.nvim) - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
+*   [Davidyz/VectorCode (⭐249)](https://github.com/davidyz/vectorcode) - Supercharge your LLM experience with repository-level RAG.
+*   [dlants/magenta.nvim (⭐181)](https://github.com/dlants/magenta.nvim) - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
 
 ### Color / Diagnostics
 
-*   [xzbdmw/colorful-menu.nvim (⭐276)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
+*   [xzbdmw/colorful-menu.nvim (⭐302)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 
 ### Note Taking / Diagnostics
 
-*   [lfilho/note2cal.nvim (⭐16)](https://github.com/lfilho/note2cal.nvim) - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
+*   [lfilho/note2cal.nvim (⭐17)](https://github.com/lfilho/note2cal.nvim) - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
 
 ### Utility / Diagnostics
 
-*   [0xJohnnyboy/scretch.nvim (⭐31)](https://github.com/0xJohnnyboy/scretch.nvim) - Create and manage scratch files, scratch templates, with picker integrations.
+*   [0xJohnnyboy/scretch.nvim (⭐32)](https://github.com/0xJohnnyboy/scretch.nvim) - Create and manage scratch files, scratch templates, with picker integrations.
 *   [theKnightsOfRohan/hexer.nvim (⭐4)](https://github.com/theKnightsOfRohan/hexer.nvim) - Easily convert between binary representations without a conversion table.
 
 ### Debugging / Diagnostics
 
-*   [igorlfs/nvim-dap-view (⭐294)](https://github.com/igorlfs/nvim-dap-view) - A modern, minimalistic UI for nvim-dap.
+*   [igorlfs/nvim-dap-view (⭐304)](https://github.com/igorlfs/nvim-dap-view) - A modern, minimalistic UI for nvim-dap.
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
@@ -266,7 +292,7 @@ Collections of awesome neovim plugins.
 
 ### Search / Diagnostics
 
-*   [wurli/visimatch.nvim (⭐48)](https://github.com/wurli/visimatch.nvim) - Adds highlights to any text matching the current selection in visual mode.
+*   [wurli/visimatch.nvim (⭐50)](https://github.com/wurli/visimatch.nvim) - Adds highlights to any text matching the current selection in visual mode.
 
 ### Editing Support / Diagnostics
 
@@ -282,7 +308,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Diagnostics
 
-*   [philosofonusus/ecolog.nvim (⭐118)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
+*   [philosofonusus/ecolog.nvim (⭐123)](https://github.com/philosofonusus/ecolog.nvim) - Sophisticated all-in-one toolkit to work with `.env` files and environment variables.
 
 ## [Jan 12, 2025](/content/2025/01/12/README.md)
 
@@ -342,7 +368,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Diagnostics
 
-*   [zongben/capsoff.nvim (⭐10)](https://github.com/zongben/capsoff.nvim) - Turns off CapsLock when you leaving insert mode.
+*   [zongben/capsoff.nvim (⭐9)](https://github.com/zongben/capsoff.nvim) - Turns off CapsLock when you leaving insert mode.
 
 ## [Dec 23, 2024](/content/2024/12/23/README.md)
 
@@ -393,7 +419,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [supermaven-inc/supermaven-nvim (⭐941)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
+*   [supermaven-inc/supermaven-nvim (⭐974)](https://github.com/supermaven-inc/supermaven-nvim) - The fastest copilot, brought to you by [Supermaven](https://supermaven.com/).
 
 ## [Dec 07, 2024](/content/2024/12/07/README.md)
 
@@ -441,7 +467,7 @@ Collections of awesome neovim plugins.
 
 ### Marks / Diagnostics
 
-*   [you-n-g/navigate-note.nvim (⭐22)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
+*   [you-n-g/navigate-note.nvim (⭐23)](https://github.com/you-n-g/navigate-note.nvim) -  Integrating note-taking capabilities with navigation/marking.
 
 ## [Nov 24, 2024](/content/2024/11/24/README.md)
 
@@ -451,7 +477,7 @@ Collections of awesome neovim plugins.
 
 ### Terminal Integration / Diagnostics
 
-*   [Dan7h3x/neaterm.nvim (⭐45)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
+*   [Dan7h3x/neaterm.nvim (⭐47)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
 
 ### Neovim Lua Development / Diagnostics
 
@@ -473,13 +499,13 @@ Collections of awesome neovim plugins.
 
 ### GitHub / Diagnostics
 
-*   [topaxi/pipeline.nvim (⭐153)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
+*   [topaxi/pipeline.nvim (⭐156)](https://github.com/topaxi/pipeline.nvim) - View and dispatch GitHub Actions workflow and GitLab CI pipeline runs.
 
 ## [Nov 19, 2024](/content/2024/11/19/README.md)
 
 ### Web Development / Diagnostics
 
-*   [lima1909/resty.nvim (⭐42)](https://github.com/lima1909/resty.nvim) - Fast and easy-to-use HTTP-Rest-Client.
+*   [lima1909/resty.nvim (⭐43)](https://github.com/lima1909/resty.nvim) - Fast and easy-to-use HTTP-Rest-Client.
 
 ### Code Runner / Diagnostics
 
@@ -1696,7 +1722,7 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Diagnostics
 
-*   [rolv-apneseth/tfm.nvim (⭐85)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐23k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐85)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐24k)](https://github.com/sxyazi/yazi)).
 
 ### Icon / Diagnostics
 
@@ -1826,7 +1852,7 @@ Collections of awesome neovim plugins.
 
 ### Syntax / Diagnostics
 
-*   [IndianBoy42/tree-sitter-just (⭐159)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐24k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐159)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐25k)](https://github.com/casey/just).
 
 ### Snippet / Diagnostics
 
@@ -3487,7 +3513,6 @@ Collections of awesome neovim plugins.
 *   [nvim-orgmode/orgmode (⭐3.3k)](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua (Neovim >= 0.5).
 *   [jbyuki/venn.nvim (⭐1k)](https://github.com/jbyuki/venn.nvim) - Draw ASCII diagrams.
 *   [chrsm/impulse.nvim (⭐96)](https://github.com/chrsm/impulse.nvim) - Read Notion.so notes.
-*   [epwalsh/obsidian.nvim (⭐5k)](https://github.com/epwalsh/obsidian.nvim) - Plugin for Obsidian, written in Lua.
 
 ### Utility / Diagnostics
 
@@ -3733,7 +3758,7 @@ Collections of awesome neovim plugins.
 
 ### Preconfigured Configuration / Diagnostics
 
-*   [nvim-lua/kickstart.nvim (⭐23k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
+*   [nvim-lua/kickstart.nvim (⭐24k)](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal Neovim configuration.
 
 ## [Aug 23, 2022](/content/2022/08/23/README.md)
 
@@ -4421,7 +4446,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐342)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐25k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐342)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐26k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Oct 03, 2021](/content/2021/10/03/README.md)
 

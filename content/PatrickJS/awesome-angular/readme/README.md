@@ -1457,6 +1457,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-validators (⭐2)](https://github.com/marcellodotgg/ngx-validators) - A library that provides additional Angular Validators, including the ones Angular provides.
 *   [ngx-reactive-form-class-validator (⭐24)](https://github.com/abarghoud/ngx-reactive-form-class-validator) - A lightweight library for dynamically validate Angular reactive forms using [class-validator (⭐11k)](https://github.com/typestack/class-validator) library.
 *   [ng-error-tooltips (⭐1)](https://github.com/mkeller1992/ng-error-tooltips) - An Angular library for reactive forms that displays tooltips on form inputs with errors, providing a user-friendly way to visualize validation messages.
+*   [ngx-forms-validator (⭐1)](https://github.com/apalaciosdev/ngx-forms-validator) - A forms validator library for Angular.
 
 #### Icons
 
@@ -1665,6 +1666,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [yaagoub](https://yaagoub.org/) - Accelerate your development with decorators, directives, icons, services, and OAuth 2.0.
 *   [@man-es/ngx-tools (⭐2)](https://github.com/man-es/ngx-tools) - The MAN ngx-tools repository contains a collection of libraries is designed to elevate your Angular development experience.
 *   [ngx-oneforall (⭐1)](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
+*   [angular-signal-generators (⭐19)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
 
 #### Modals
 
@@ -1676,7 +1678,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-concern (⭐2)](https://github.com/HeyItsBATMAN/ngx-concern) - Angular library for creating simple, unstyled dialogs/modals and action-sheets/bottom-sheets.
 *   [ngx-whats-new (⭐4)](https://github.com/4gray/ngx-whats-new) - A simple library for creating multi-modal windows.
 *   [ngx-dialog (⭐1)](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
-*   [angular-signal-generators (⭐19)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
+*   [ng-modal-service (⭐1)](https://github.com/nhusby/ng-modal-service) - A simple Angular modal Service.
+*   [strictly-typed-mat-dialog (⭐4)](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
 
 #### Notifications
 

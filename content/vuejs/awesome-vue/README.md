@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Apr 09, 2025](/content/2025/04/09/README.md)
+
+### Components & Libraries / Frameworks
+
+*   [AirPower4T (⭐286)](https://github.com/AirPowerTeam/AirPower4T) - A development library based on Vue3, TypeScript, Element Plus, Vite which provides lots of Backend-Platform features such as `OOP` `Decoration` to make your development more efficient.
+
 ## [Apr 02, 2025](/content/2025/04/02/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
@@ -16,13 +22,7 @@
 
 ### Components & Libraries / UI Components
 
-*   [Vue Markdown (⭐0)](https://github.com/litingyes/vue-markdown) - The vue component for render Markdown string, supports custom rendering of specific node types and better adapts to AI Chat Stream.
-
-## [Mar 19, 2025](/content/2025/03/19/README.md)
-
-### Components & Libraries / Frameworks
-
-*   [AirPower4T (⭐275)](https://github.com/HammCn/AirPower4T) - A development library based on Vue3, TypeScript, Element Plus, Vite which provides lots of Backend-Platform features such as `OOP` `Decoration` to make your development more efficient.
+*   [Vue Markdown (⭐1)](https://github.com/litingyes/vue-markdown) - The vue component for render Markdown string, supports custom rendering of specific node types and better adapts to AI Chat Stream.
 
 ## [Mar 18, 2025](/content/2025/03/18/README.md)
 
@@ -343,7 +343,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-default-page (⭐32)](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
-*   [css-3d-progress (⭐2)](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
+*   [css-3d-progress (⭐3)](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
 *   [schedule-x (⭐1.6k)](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 
 ### Components & Libraries / UI Utilities
@@ -411,7 +411,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [exome (⭐269)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐272)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ## [Oct 14, 2023](/content/2023/10/14/README.md)
 
@@ -584,7 +584,7 @@
 ### Components & Libraries / UI Components
 
 *   [vue-maplibre-gl (⭐97)](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
-*   [Everright-formEditor (⭐476)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐478)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ## [Feb 27, 2023](/content/2023/02/27/README.md)
 
@@ -969,7 +969,7 @@
 
 ### Components & Libraries / Utilities
 
-*   [tolgee/vue (⭐240)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐242)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 
 ## [Feb 27, 2022](/content/2022/02/27/README.md)
 
@@ -1355,7 +1355,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Aimeos (⭐4.4k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐4.5k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 
 ## [Jun 18, 2021](/content/2021/06/18/README.md)
 
@@ -2619,7 +2619,7 @@
 
 ### Components & Libraries / Frameworks
 
-*   [DataFormsJS (⭐194)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐195)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 
 ## [Feb 29, 2020](/content/2020/02/29/README.md)
 
@@ -3110,7 +3110,7 @@
 
 ### Projects Using Vue.js / Open Source
 
-*   [Socialhome (⭐367)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐366)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 
 ## [Apr 28, 2018](/content/2018/04/28/README.md)
 

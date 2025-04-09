@@ -2,7 +2,7 @@
 
 Awesome lists of useful Sitecore tools, extensions and GitHub repositories 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/MartinMiles/awesome-sitecore/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MartinMiles/awesome-sitecore](https://github.com/MartinMiles/awesome-sitecore) · ⭐ 72 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/MartinMiles/awesome-sitecore/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MartinMiles/awesome-sitecore](https://github.com/MartinMiles/awesome-sitecore) · ⭐ 77 · 🏷️ Content Management Systems
 
 [ [Daily](/content/MartinMiles/awesome-sitecore/README.md) / [Weekly](/content/MartinMiles/awesome-sitecore/week/README.md) / Overview ]
 
@@ -60,6 +60,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Pipelines](#pipelines)
 *   [Publishing](#publishing)
 *   [Rules](#rules)
+*   [SDK](#sdk)
 *   [Security](#security)
 *   [SEO](#seo)
 *   [Serialization](#serialization)
@@ -102,7 +103,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Sitecore Azure Scripts (⭐16)](https://github.com/robhabraken/Sitecore-Azure-Scripts) - Azure-related PowerShell scripts and ARM templates to be used as a template or boilerplate for your own scripts and needs.
 *   [Sitecore Azure Content (⭐18)](https://github.com/olegburov/Sitecore-Azure-Content) - Articles on how to automate deployment of Sitecore solution to the Microsoft Azure Cloud Platform utilizing Azure services.
 *   [Sitecore Advanced Azure Devops (⭐14)](https://github.com/JeffDarchuk/AdvancedSitecoreAzureDevops) - Expanding Sitecore on Azure with flexible and generic scripts (requires a valid PowerShell Azure session to be connected and available).
-*   [Language Understanding (LUIS) Samples (⭐85)](https://github.com/Azure-Samples/cognitive-services-language-understanding) - Samples for the Language Understanding Intelligent Service (LUIS).
+*   [Language Understanding (LUIS) Samples (⭐86)](https://github.com/Azure-Samples/cognitive-services-language-understanding) - Samples for the Language Understanding Intelligent Service (LUIS).
 *   [Sitecore Media Azure Blob Storage provider (⭐0)](https://github.com/ivansharamok/Sitecore.Media.AzureBlobStorage) - Allows to store Sitecore media library assets in the Azure Blob Storage account.
 *   [CloudMediaLibrary (⭐5)](https://github.com/jammykam/Sitecore-CloudMediaLibrary) - Allow Sitecore Media Library to store and serve from Cloud Storage.
 *   [SitecoreCognitiveServices (⭐0)](https://github.com/smithc/SitecoreCognitiveServices) - SDK integrating Microsoft's Cognitive Services into Sitecore.
@@ -123,7 +124,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## CDP
 
-*   [Sitecore CDP Serializer (⭐3)](https://github.com/dylanyoung-dev/sitecore-cdp-serializer) - A Node.js tool aimed to serialize CDP and Personalize assets on a hard drive and restore that back.
+*   [Sitecore CDP Serializer (⭐2)](https://github.com/dylanyoung-dev/sitecore-cdp-serializer) - A Node.js tool aimed to serialize CDP and Personalize assets on a hard drive and restore that back.
 
 ## Commerce
 
@@ -144,13 +145,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Containers
 
-*   [Repository of Sitecore Docker images (⭐180)](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
+*   [Repository of Sitecore Docker images (⭐181)](https://github.com/Sitecore/docker-images) - Build your own Docker images for the most recent versions of Sitecore.
 *   [Windows Docker Machine (⭐1.1k)](https://github.com/StefanScherer/windows-docker-machine) - Vagrant environment that creates a "Docker Machine" to work on your MacBook with Windows containers so that you can easily switch between Docker Desktop Linux containers and the Windows containers.
 *   [Sitecore Containers Prerequisites (⭐0)](https://github.com/nickwesselman/sitecore-containers-prerequisites) - Checks the machine for Sitecore Container compatibility, enable Hyper-V, downloads and installs software including Sitecore 10.1
-*   [Sitecore Docker Examples (⭐77)](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
-*   [Container Deployment (⭐28)](https://github.com/Sitecore/container-deployment) - Provides examples on how to deploy Sitecore containers using various methods.
+*   [Sitecore Docker Examples (⭐78)](https://github.com/Sitecore/docker-examples) - An official Docker Examples images for the most recent versions of Sitecore 10.\*, including 'getting-started' XP0 container environment.
+*   [Container Deployment (⭐30)](https://github.com/Sitecore/container-deployment) - Provides examples on how to deploy Sitecore containers using various methods.
 *   [Lighthouse Demo (⭐83)](https://github.com/Sitecore/Sitecore.Demo.Platform) - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
-*   [Sitecore MVP (⭐63)](https://github.com/Sitecore/MVP-Site) - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
+*   [Sitecore MVP (⭐65)](https://github.com/Sitecore/MVP-Site) - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
 *   [Packer for Sitecore (⭐22)](https://github.com/asmagin/sitecore-packer) - Repository contains Packer templates for a local Sitecore hosting environment with IIS and SQL Server on Windows, SOLR and Sitecore 9.0 building virtual machine images and Vagrant boxes for VirtualBox, provisioned with Chef.
 *   [Docker SOLR with SSL (⭐11)](https://github.com/LaubPlusCo/docker-solr-ssl) - A simple setup that sets up a Linux container on a host running solr with SSL using a generated certificate.
 *   [Sitecore Docker Tools (⭐27)](https://github.com/sitecore/docker-tools) - Set of utilities to improve developer experience when running Sitecore in a Docker environment. This an image with development scripts and entrypoints that can be used during Sitecore container builds and a PowerShell module with functions used on the Sitecore container host to initialize the Sitecore Docker environment.
@@ -160,21 +161,24 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [PaaS to AKS (⭐11)](https://github.com/robhabraken/paas-to-aks) - Boilerplate project for deploying Sitecore 10.0.\* to Azure AKS coming from an Azure PaaS architecture for Sitecore. That includes ARM templates for External Data Services, required to run Sitecore k8s in production, and scripts to support a full Infrastructure-as-Code setup for Sitecore on AKS.
 *   [Sitecore Deployment on Kubernetes Example (⭐5)](https://github.com/georgechang/sitecore-k8s) - An example of a Sitecore 10.1 XP0 deployment onto AKS with SolrCloud. It should deploy: 1)Sitecore 10.1 XP0; 2)Microsoft SQL Server 2019; 3)Zookeeper 3.4 (3 replicas); 4)Solr 8.4 (3 replicas)
 *   [Sitecore Module Docker Asset Image Creator (⭐9)](https://github.com/KayeeNL/sitecore-module-docker-asset-image-creator) - A script to handle the auto-creation of a Docker Asset Image for a given Sitecore module
-*   [Test Sitecore Packages (⭐1)](https://github.com/michaellwest/test-sitecore-packages) - Provides a way to quickly and conveniently install packages as part of a docker image build or after startup of your containers. Useful for module developers or teams that need to verify build artifacts work in a vanilla instance of XM. Supports XM, SPE, SXA, and any custom module zip/scwdp or generic zip files.
+*   [Test Sitecore Packages (⭐2)](https://github.com/michaellwest/test-sitecore-packages) - Provides a way to quickly and conveniently install packages as part of a docker image build or after startup of your containers. Useful for module developers or teams that need to verify build artifacts work in a vanilla instance of XM. Supports XM, SPE, SXA, and any custom module zip/scwdp or generic zip files.
 
 ## Content Hub
 
+*   [Content Hub CLI (⭐2)](https://github.com/Sitecore/content-hub-cli) - A repository with a source code of Sitecore Content Hub CLI.
 *   [Sitecore Content Hub Importer (⭐1)](https://github.com/vasiliyfomichev/content-hub-importer) - Sitecore Content Hub Asset Importer; allows importing image assets from various data sources into Sitecore Content Hub.
 *   [schguild](https://github.com/sitecoreguild/schguild) - Provides tools and sample code to help you learn and work with Sitecore Content Hub.
 *   [Sitecore.ContentHub.Twitter (⭐0)](https://github.com/josedbaez/Sitecore.ContentHub.Twitter) - Demonstrates how to tweet from Sitecore Content Hub CMP.
 *   [Sitecore.SharedSource.CMP.Connector.Extensions (⭐1)](https://github.com/josedbaez/Sitecore.SharedSource.CMP.Connector.Extensions) - Extends Sitecore Connect for Sitecore CMP 2.0.0 so images set on CMP entities can be synchronized using the XML format used by Sitecore Connect™ for Sitecore DAM 2.0.0, so this module is required.
 *   [Starter Kit for Content Hub with Next.js and GraphQL (⭐9)](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - Content Hub headless starter kit.
 *   [Focal point cropping (⭐5)](https://github.com/robhabraken/content-hub-focal-point-cropping) - Focal point cropping for Content Hub.
-*   [VS Solution Example for Content Hub (⭐8)](https://github.com/Sitecore/ContentHub-VS-Solution-Example) - A visual Studio Solution Example to download and base any Content Hub Development on, featuring Intellisense, Sync of scripts, Debugging and Unit-Testing.
+*   [VS Solution Example for Content Hub (⭐10)](https://github.com/Sitecore/ContentHub-VS-Solution-Example) - A visual Studio Solution Example to download and base any Content Hub Development on, featuring Intellisense, Sync of scripts, Debugging and Unit-Testing.
 
 ## Content Hub One
 
+*   [Content Hub ONE examples (⭐3)](https://github.com/Sitecore/contenthubone-examples) - A set of various examples using Content Hub One.
 *   [Sitecore.Demo.CHONE (⭐3)](https://github.com/Sitecore/Sitecore.Demo.CHONE) - Repository for all the Content Hub ONE demos built by the Sitecore Demo Solutions team, including PLAY Media Next.js Website and PLAY Media Mobile Phone Application.
+*   [Content Hub ONE Next.JS Starter Kit (⭐8)](https://github.com/Sitecore/content-hub-one-nextjs-starterkit) - The starter kit contains helping functionalities such as handling GraphQL JSON output conversion to HTML for Rich Text, Media Fields, and References. It also contains a small example implementation that Developers can use to start their customer projects.
 
 ## Content Search
 
@@ -182,7 +186,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Sitecore Solr Schema (⭐0)](https://github.com/konabos/solr-sitecore-schema) - Sitecore configsets (schema) for Solr 8.1.1 and 8.4.0.
 *   [Search Index Builder (⭐4)](https://github.com/jermdavis/SearchIndexBuilder) - A tool for rebuilding search indexes from outside the Sitecore web app especially good for very long-running builds.
 *   [SolrCloud Install Scripts (⭐12)](https://github.com/jermdavis/SolrCloud-Helpers) - PowerShell scripting library to help with installing SolrCloud clusters on Windows.
-*   [Docker SolrCloud for Sitecore 10 (⭐3)](https://github.com/jermdavis/Sitecore-SolrCloud-Docker) - Creates a SolrCloud container that can be used with a Sitecore 10 instance under Docker. The files have been adjusted from the Solr container files in the Sitecore Docker examples repo. The default "solr" service Sitecore provides can be replaced using these files.
+*   [Docker SolrCloud for Sitecore 10 (⭐4)](https://github.com/jermdavis/Sitecore-SolrCloud-Docker) - Creates a SolrCloud container that can be used with a Sitecore 10 instance under Docker. The files have been adjusted from the Solr container files in the Sitecore Docker examples repo. The default "solr" service Sitecore provides can be replaced using these files.
 *   [Sitecore SolrProxy (⭐3)](https://github.com/Antonytm/Sitecore.SolrProxy) - Tool for easy access to the Solr admin console if you have access only to Sitecore CM.
 *   [Common Sitecore ContentSearch extensions (⭐0)](https://github.com/LaubPlusCo/LaubPlusCo.Common.ContentSearch) - Common extensions to Sitecore contentSearch; hereunder PopulateSolrSchema pipeline processors to ensure that all installed languages in Sitecore are added to the solr managed schema.
 *   [Sitecore Computed Search (⭐2)](https://github.com/martinrayenglish/Sitecore-Computed-Search) - An index search development accelerator that allows developers to declare computed search fields on an index that can capture and store targeted field values of items within a scope as well as the field values of items based on specific templates that are part of its presentation. In addition, specific weights can be applied to these computed fields using search boosting so that content-matching search terms can be promoted in search results.
@@ -200,19 +204,19 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Demo
 
-*   [Sitecore Habitat (⭐415)](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
-*   [Sitecore Helix Examples (⭐80)](https://github.com/Sitecore/Helix.Examples) - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples.
+*   [Sitecore Habitat (⭐412)](https://github.com/Sitecore/Habitat) - Habitat is an example Sitecore solution built on the Helix architecture principles. No longer being updated or maintained, and is being replaced with Sitecore Helix Examples.
+*   [Sitecore Helix Examples (⭐79)](https://github.com/Sitecore/Helix.Examples) - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples.
 *   [Lighthouse Demo (⭐83)](https://github.com/Sitecore/Sitecore.Demo.Platform) - The latest XP 10.0 demo using SXA 10.0. It can be only deployed inside Docker containers.
 *   [Sitecore.Demo.Headless (⭐22)](https://github.com/Sitecore/Sitecore.Demo.Headless) - Sitecore JSS PWA demo assets and future "Sitecore Headless" related demo assets.
-*   [Sitecore MVP (⭐63)](https://github.com/Sitecore/MVP-Site) - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
+*   [Sitecore MVP (⭐65)](https://github.com/Sitecore/MVP-Site) - The source code of a real Sitecore MVP website built with Sitecore 10 and SXA working in containers.
 *   [Sitecore.HabitatHome.Utilities (⭐38)](https://github.com/Sitecore/Sitecore.HabitatHome.Utilities) - A collection of utilities and script examples to help with installing Sitecore Experience Platform, installing Sitecore Experience Commerce, installing Sitecore Modules, warming up a Sitecore Instance, security Hardening a Sitecore Instance, etc.
 *   [Sitecore.HabitatHome.Commerce (⭐26)](https://github.com/Sitecore/Sitecore.HabitatHome.Commerce) - Demo assets with external contributors and partners.
 *   [Sitecore.HabitatHome.Omni (⭐22)](https://github.com/Sitecore/Sitecore.HabitatHome.Omni) - Shares Sitecore JSS PWA demo assets and future "Sitecore Omni" related demo assets.
 *   [Sitecore.Demo.Group (⭐15)](https://github.com/Sitecore/Sitecore.Demo.Group) - Habitat Group Demo site - a developer example of a Habitat Based Demo.
 *   [Sitecore User Group UK (⭐5)](https://github.com/steviemcg/scuguk) - A demo of JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution, built with Gatsby v2.
-*   [Sitecore DXP Demo (⭐28)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
+*   [Sitecore DXP Demo (⭐29)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
 *   [Sitecore Developer Portal (⭐31)](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal is built with Next.js, Typescript, and Tailwind CSS, and is hosted on Vercel. It uses static site generation (SSG) to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. Many pages are written in Markdown and converted to HTML at build time. Images that are used are managed in Sitecore DAM and are published to a CDN.
-*   [Play Summit (⭐21)](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - Play Summit demo featuring XM Cloud, Content Hub DAm, CMP, Next.js with Versel hosting, etc.
+*   [Play Summit (⭐23)](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - Play Summit demo featuring XM Cloud, Content Hub DAm, CMP, Next.js with Versel hosting, etc.
 *   [Developer Portal (⭐31)](https://github.com/Sitecore/developer-portal) - The Sitecore developer portal built with Next.js, Typescript, Tailwind CSS, and hosted on Vercel, uses static site generation to create all the pages at build time. It also utilizes Incremental Static Regeneration (ISR) to automatically update the app when changes to page content are made. With much of the page content written in Markdown and converted to HTML at build time, images are however used and managed in Sitecore DAM and
     published to a CDN.
 
@@ -224,7 +228,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Edge
 
-*   [Sitecore Demo Edge (⭐28)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A repository used for the primary Sitecore Edge for Content Hub and Experience Management.
+*   [Sitecore Demo Edge (⭐29)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A repository used for the primary Sitecore Edge for Content Hub and Experience Management.
 
 ## Editing
 
@@ -260,7 +264,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Forms
 
-*   [Sitecore-Forms-Extensions (⭐59)](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to the forms creator, such as sending emails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more.
+*   [Sitecore-Forms-Extensions (⭐60)](https://github.com/bartverdonck/Sitecore-Forms-Extensions) - Adds some functionality to the forms creator, such as sending emails, timespan validation, subscribing a list, conditions, Azure Blob storage provider and many more.
 *   [WFFM Conversion Tool (⭐11)](https://github.com/afaniuolo/WFFM-Conversion-Tool) - A console application that provides an automated solution to convert and migrate Web Forms For Marketers (WFFM) items and their data to Sitecore Forms.
 *   [SendMail for Experience Forms (⭐0)](https://github.com/KayeeNL/Sitecore.ExperienceForms.Modules.SendMail) - Brings a new Send E-mail Action for Sitecore 9 Forms, enabling the submission of e-mails using MainUtil.SendMail method, which will use an SMTP server to submit e-mails in HTML or Plain Text.
 *   [Forms Cloud Upload (⭐1)](https://github.com/jbluemink/Sitecore-Forms-Cloud-Upload) - Use Azure Storage Queue and Azure Storage Blob to store Sitecore 9.3+ Forms uploads Encrypted, with a key from Azure Key Fault - this can be handy for the compliance once users upload sensitive data.
@@ -276,11 +280,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## JAMstack
 
 *   [Next.js Starter kit using GraphQL and Sitecore Experience Edge for Content Hub (⭐9)](https://github.com/konabos/Next.js-Starter-kit-using-GraphQL-and-Sitecore-Content-Hub-Content-as-a-Service) - This is a great example of Sitecore Experience Edge Content as-a-Service approach using NextJS upon React, using a demo instance of the latest Content Hub.
-*   [Uniform, JSS and Next.js starter kit (⭐28)](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A starter kit of Uniform, JSS, and Next.JS with content items and required configuration files, great to start a vanilla project with.
+*   [Uniform, JSS and Next.js starter kit (⭐29)](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A starter kit of Uniform, JSS, and Next.JS with content items and required configuration files, great to start a vanilla project with.
 
 ## JSS
 
-*   [JSS (⭐264)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services.
 *   [sugcon-2019-jss-examples (⭐0)](https://github.com/chaturangar/sugcon-2019-jss-examples) - SugCon 2019 jss examples.
 *   [SitecoreQL (⭐15)](https://github.com/kmazzoni/SitecoreQL) - A GraphQL implementation for Sitecore, for example, you can query against Sitecore's Content Search API.
 *   [JSS React Starter Application (⭐3)](https://github.com/altola/sitecore-jss-react-basic) - Please follow the primary JSS documentation at <https://jss.sitecore.net> for the latest documentation on JSS.
@@ -295,23 +298,23 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Headless
 
-*   [Sample (⭐28)](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A headless sample TODO
-*   [Angular JSS starter kit for XM Cloud (⭐264)](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/angular-xmcloud) - Sitecore JSS Angular Starter Kit App for XM Cloud.
+*   [Sample (⭐29)](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A headless sample TODO
+*   [Angular JSS starter kit for XM Cloud (⭐269)](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/angular-xmcloud) - Sitecore JSS Angular Starter Kit App for XM Cloud.
 
 ## Helix
 
 *   [Sitecore Helix Documentation (⭐26)](https://github.com/Sitecore/Helix.Docs) - The official guidelines and recommended practices for developing in Sitecore for Sitecore Helix.
-*   [Sitecore Helix Examples (⭐80)](https://github.com/Sitecore/Helix.Examples) - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples.
-*   [Helixbase (⭐104)](https://github.com/muso31/Helixbase) - Sitecore Helix-based solution for Greenfield projects.
+*   [Sitecore Helix Examples (⭐79)](https://github.com/Sitecore/Helix.Examples) - Demonstrations of Sitecore Helix practices across various tooling and business scenarios; intended to demonstrate a wider variety of implementation types/requirements than existing examples.
+*   [Helixbase (⭐105)](https://github.com/muso31/Helixbase) - Sitecore Helix-based solution for Greenfield projects.
 *   [Sitecore Foundation (⭐46)](https://github.com/Avanade/SitecoreFoundation) - Sitecore Framework that follows the Helix modular architecture design principles.Includes plenty of Feature and Foundation layer modules, as well as reusable Common from the Project layer.
 *   [Helix example Module & Solution templates (⭐3)](https://github.com/LaubPlusCo/Helix-Templates) - Templates for the Sitecore Helix Visual Studio templates extension.
 *   [Helix frontend development example (⭐4)](https://github.com/LaubPlusCo/helix-frontend-example) - A simple frontend development setup for a Sitecore Helix solution.
-*   [Helix Publishing Pipeline (⭐68)](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimizations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
+*   [Helix Publishing Pipeline (⭐69)](https://github.com/richardszalay/helix-publishing-pipeline) - Allows Helix solutions to be published as a single unit, with content from modules (like views and config patches) being automatically included. It also contains optimizations and guidance around local development deployments. Since it  extends the standard Web Publishing Pipeline it should work with any supported target (package, file system, Azure, Docker) via either Visual Studio or the command line.
 *   [CustomLinkProvider (⭐0)](https://github.com/TwentyGotoTen/CustomLinkProvider) - A demonstration of Converting a custom Sitecore link provider from non-Helix to Helix.
 *   [Elision](https://github.com/sitecore-elision) - An open-source Sitecore accelerator implementing Helix principles.
 *   [Helixify (⭐0)](https://github.com/konabos/Konabos.Helixify) - The module is designed to add instant Helix compatibility to any Sitecore project.
 *   [Sitecore Foundation (⭐46)](https://github.com/Avanade/SitecoreFoundation) - Sitecore Framework from Avanade that follows the Helix modular architecture design principles.
-*   [PLAY Summit Demo (⭐28)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
+*   [PLAY Summit Demo (⭐29)](https://github.com/Sitecore/Sitecore.Demo.Edge) - A demo of XM, Experience Edge, Content Hub DAM and CMP, Content Hub Edge, JSS, CDP, Sitecore Personalize, Next.js and Vercel.
 
 ## Icons
 
@@ -344,7 +347,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Maintenance
 
 *   [Admin Scripts for Development and Deploying (⭐6)](https://github.com/jbluemink/Sitecore-Admin-Scripts-for-Development-and-Deploying) - The additional features for `/admin` folder: AddAdminUser, AddEditorUser, ResetAdminPassword, FillDbWithExtranetUser, InstallUpdatePackage, InstallZipPackage, ParameterDrivenPublish and IsPublishTaskRunning.
-*   [Sitecore Instance Manager (⭐108)](https://github.com/Sitecore/Sitecore-Instance-Manager) - The legendary Sitecore Instant Manager, now with version 9.x support.
+*   [Sitecore Instance Manager (⭐109)](https://github.com/Sitecore/Sitecore-Instance-Manager) - The legendary Sitecore Instant Manager, now with version 9.x support.
 *   [Sifon (⭐12)](https://github.com/MartinMiles/Sifon) - Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has a very powerful extension system with plugins covering many aspects of day-to-day activities.
 
 ## Media
@@ -361,7 +364,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## ORM
 
-*   [Glass.Mapper (⭐124)](https://github.com/mikeedwards83/Glass.Mapper) - Glass.Mapper has been the redevelopment of the very popular Glass.Sitecore.Mapper project. This project aims to create a more robust and more flexible solution that not only works with many different CMS's.
+*   [Glass.Mapper (⭐125)](https://github.com/mikeedwards83/Glass.Mapper) - Glass.Mapper has been the redevelopment of the very popular Glass.Sitecore.Mapper project. This project aims to create a more robust and more flexible solution that not only works with many different CMS's.
 *   [TemplateModelHelper (⭐0)](https://github.com/lowedown/TemplateModelHelper) - Helper methods for working with generated Sitecore Template Models (Mapped through Glass.Mapper or other framework) with a main goal is to make it easy for developers to query the Sitecore database using generated Template models.
 *   [TDS-T4-Model-Generation (⭐8)](https://github.com/Sitecore/TDS-T4-Model-Generation) - T4 model generation for TDS.
 *   [Sitecore.CodeGenerator (⭐0)](https://github.com/ParTech/sitecore.codegenerator) - Generates Glass Mapper interfaces using T4 templates without TDS.
@@ -383,7 +386,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Sitecore.Ship (⭐71)](https://github.com/kevinobee/Sitecore.Ship) - A lightweight means to install Sitecore Update packages via HTTP requests.
 *   [UpdatePackageInstaller (⭐5)](https://github.com/HedgehogDevelopment/UpdatePackageInstaller) - Installs update packages in Sitecore from the command line.
 *   [Sitecore Package Deployer (⭐36)](https://github.com/HedgehogDevelopment/SitecorePackageDeployer) - Uses a Sitecore Job to automatically deploy update packages from a file system folder on the Sitecore server.
-*   [Simplified testing of package installations (⭐1)](https://github.com/michaellwest/test-sitecore-packages) - Confirms package installation by converting a package into a WDP and installing it.
+*   [Simplified testing of package installations (⭐2)](https://github.com/michaellwest/test-sitecore-packages) - Confirms package installation by converting a package into a WDP and installing it.
 
 ## Pipelines
 
@@ -401,13 +404,20 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Rules
 
-*   [Page Rules (⭐1)](https://github.com/marek-musielak/Marek.Musielak.PageRules) - Create any custom Sitecore rules for every page your visitors browse. The user hasn't read T\&C page and wants to see a contest page? Page should be accessible only after a certain date? You want to use GEO IP data to change the language of your home page automatically? You don't have a translation ready for your page? With the Sitecore rules engine only sky is the limit!
+*   [Page Rules (⭐1)](https://github.com/marek-musielak/Marek.Musielak.PageRules) - Create any custom Sitecore rules for every page your visitors browse. The user hasn't read T\&C page and wants to see a contest page? The page should be accessible only after a certain date? You want to use GEO IP data to change the language of your home page automatically? You don't have a translation ready for your page? With the Sitecore rules engine only sky is the limit!
 *   [ItemNamingRules (⭐4)](https://github.com/seankearney/Sitecore-ItemNamingRules) - Provides conditions and actions for the Rules Engine to automate item name conventions. You can use the ItemNamingRules project to apply different item naming rules in different branches of the content tree.
 *   [MenuItemRules (⭐0)](https://github.com/jammykam/Konabos.SharedSource.MenuItemRules) - Rules-based context item menu visibility.
 *   [Sitecore adaptive rules (⭐0)](https://github.com/boro2g/sitecore-adaptive-rules) - Adds support for adaptive rules for the Sitecore Rules Engine: they are useful when properties on conditions and actions have dependencies on one another.
 *   [Organize Insert Options Rules (⭐1)](https://github.com/coreyasmith/OrganizeInsertOptionsRules) - A pipeline processor for the uiGetMasters pipeline that allows you to organize your Insert Options Rules however you like in the content tree.
 *   [Conditional Placeholder Settings](https://github.com/matthewkenny/ConditionalPlaceholderSettings) - A module to allow Sitecore Rules Engine to support the existing placeholder settings functionality coming with Sitecore.
 *   [Sitecore Adaptive Rules](https://github.com/adamconn/sitecore-adaptive-rules) - Adds Rules Engine support for adaptive rules (these are useful when properties on conditions and actions have dependencies on one another).
+
+## SDK
+
+*   [JSS (⭐269)](https://github.com/Sitecore/jss) - An official repo of Sitecore JavaScript Services SDK.
+*   [Content SDK (⭐3)](https://github.com/Sitecore/content-sdk) - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK for XM Cloud.
+*   [ASP.NET Core SDK (⭐14)](https://github.com/Sitecore/ASP.NET-Core-SDK) - The official open source ASP.NET Core SDK for Sitecore DXP and XM Cloud.
+*   [Marketplace SDK (⭐3)](https://github.com/Sitecore/sitecore-marketplace-sdk) - Sitecore Marketplace SDK hosts the three main packages, client applications (running inside iframes), core SDK, and XMC module, which extend the functionality of the system.
 
 ## Security
 
@@ -421,7 +431,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## SEO
 
-*   [301 Redirect Module (⭐30)](https://github.com/thecadams/301RedirectModule) - An improved version of the Sitecore 301 redirect module.
+*   [301 Redirect Module (⭐31)](https://github.com/thecadams/301RedirectModule) - An improved version of the Sitecore 301 redirect module.
 *   [SitecoreSitemapXML (⭐9)](https://github.com/JimmieOverby/SitecoreSitemapXML) - Generates the Sitemap compliant with the schema defined by sitemaps.org and submits it to search engines.
 *   [Sitemap Generator (⭐4)](https://github.com/jermdavis/SitemapGenerator) - An example Sitecore / FakeDB / TDS / Cloud Build project for sitemap generation.
 *   [Sitecore Solr (⭐1)](https://github.com/bigredmachine/sitecore-solr) - An example code of how you could extend the Sitecore Solr provider.
@@ -468,7 +478,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *   [Sitecore Experience Accelerator index (⭐4)](https://github.com/alan-null/SXA.Index) - The whole set of dicumentation about SXA.
 *   [SXA Styleguide (⭐14)](https://github.com/markvanaalst/SXA.Styleguide) - An education site based on SXA that helps explain the inner workings and illustrate best practices.
-*   [SXA.Styleguide.Frontend (⭐1)](https://github.com/markvanaalst/SXA.Styleguide.Frontend) - A repository holds all the frontend code needed to run the site. It consists of two parts, the SXA themes and the Scriban templates used on the site. The folder structure used in this repository mimics the SXA Creative Exchange output, therefore you can find the sources for the themes and the separate Scriban templates.
+*   [SXA.Styleguide.Frontend (⭐2)](https://github.com/markvanaalst/SXA.Styleguide.Frontend) - A repository holds all the frontend code needed to run the site. It consists of two parts, the SXA themes and the Scriban templates used on the site. The folder structure used in this repository mimics the SXA Creative Exchange output, therefore you can find the sources for the themes and the separate Scriban templates.
 *   [SXA.Foundation.Variants (⭐4)](https://github.com/MartinMiles/SXA.Foundation.Variants) - A collection of custom SXA rendering variants and some other useful things that may be helpful in your solution.
 *   [SXA Reference (⭐19)](https://github.com/alan-null/XA.Reference) - An example Sitecore project built on top of Sitecore Experience Accelerator.
 *   [SXA.HealthCheck (⭐5)](https://github.com/alan-null/SXA.HealthCheck) - A Power Shell script used to determine the health status of the SXA site, consists of validation steps, each of them checks different things in SXA solution and provides possible solutions.
@@ -481,7 +491,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Testing
 
-*   [Sitecore FakeDb (⭐117)](https://github.com/sshushliapin/Sitecore.FakeDb) - A unit testing framework for Sitecore that enables the creation and manipulation of Sitecore content in memory. It is designed to minimize efforts for the test content initialization keeping focus on the minimal test data rather than comprehensive content tree representation.
+*   [Sitecore FakeDb (⭐115)](https://github.com/sshushliapin/Sitecore.FakeDb) - A unit testing framework for Sitecore that enables the creation and manipulation of Sitecore content in memory. It is designed to minimize efforts for the test content initialization keeping focus on the minimal test data rather than comprehensive content tree representation.
 *   [Minq (⭐1)](https://github.com/valtech/minq) - Mockable, LINQable support for Sitecore and Sitecore MVC.
 
 ## Templates
@@ -490,7 +500,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Tooling
 
-*   [Terminal DevEx Improvements (⭐9)](https://github.com/Sitecore/Windows-Terminal-DevEx-improvements) - A Sitecore branded Windows Terminal and VS Code Theme and Profile to unlock helpful tooling for working with XM Cloud such as autocompletion, command history list and directory improvements.
+*   [Terminal DevEx Improvements (⭐10)](https://github.com/Sitecore/Windows-Terminal-DevEx-improvements) - A Sitecore branded Windows Terminal and VS Code Theme and Profile to unlock helpful tooling for working with XM Cloud such as autocompletion, command history list and directory improvements.
 
 ## Universal Tracker
 
@@ -501,7 +511,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [Sitecore Endpoints (⭐0)](https://github.com/MartinMiles/Sitecore.Endpoints) - Ready to pick-and-use samples of Sitecore Services Client and Sitecore WebApi implemented in a form Helix feature.
 *   [Odata.SitecoreExample (⭐2)](https://github.com/ianjohngraham/Odata.SitecoreExample) - An example of a Sitecore oData Repository.
 *   [Web API Session-Enabled Routes (⭐0)](https://github.com/coreyasmith/WebApiEnableSessionHandler) - Sitecore pipeline processor and extensions to the HttpRouteCollection to enable session in Web API 2.
-*   [Sitecore Shared Source: Web API Client (⭐7)](https://github.com/thinkfreshnick/SitecoreSharedSource) - Sitecore WebAPI client.
+*   [Sitecore Shared Source: Web API Client](https://github.com/thinkfreshnick/SitecoreSharedSource) - Sitecore WebAPI client.
 *   [Sitecore Services Client Publish (⭐1)](https://github.com/peplau/SscPublish) - A Web API method to securely trigger a Sitecore publish of an item or tree.
 
 ## Workflows
@@ -521,10 +531,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## XM Cloud
 
 *   [Next.js Styleguide for XM Cloud (⭐3)](https://github.com/sitecorelabs/XmCloudNextJsJssStyleguide) - A solution designed to help developers learn and get started quickly with Sitecore Containers, the Sitecore Next.js SDK, and Sitecore Content Serialization.
-*   [Play Summit (⭐21)](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - Play Summit demo featuring XM Cloud, Content Hub DAM, CMP, Next.js with Versel hosting, etc.
-*   [XM Cloud Starter Kit (⭐48)](https://github.com/sitecorelabs/xmcloud-foundation-head) - A solution designed to help developers learn and get started quickly with XMCLoud + SXA + Next.js.
-*   [XM Cloud Introduction (⭐48)](https://github.com/Sitecore/XM-Cloud-Introduction) - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
+*   [Play Summit (⭐23)](https://github.com/Sitecore/Sitecore.Demo.XmCloud.PlaySummit) - Play Summit demo featuring XM Cloud, Content Hub DAM, CMP, Next.js with Versel hosting, etc.
+*   [XM Cloud Starter Kit (⭐52)](https://github.com/sitecorelabs/xmcloud-foundation-head) - A solution designed to help developers learn and get started quickly with XMCLoud + SXA + Next.js.
+*   [XM Cloud Introduction (⭐47)](https://github.com/Sitecore/XM-Cloud-Introduction) - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
 *   [FEaaS BYOC Example (⭐5)](https://github.com/Sitecore/feaas-nextjs-example) - A repo that demonstrates an example of BYOC components using best practices.
 *   [Sitecore GraphQL Import (⭐3)](https://github.com/jbluemink/Sitecore-GraphQL-Import) - A console app showcases various capabilities of the Sitecore GraphQL API, such as retrieving Sitecore items, obtaining a list of websites, inserting sample items, and uploading media files.
-*   [Node XM Cloud Proxy (⭐264)](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/node-xmcloud-proxy) - Node proxy application enables backend functionality and features equivalent to those in our Next.js starter kit for XM Cloud. Was introduced to support the new Angular starter kit. This proxy is designed to work with all SPA frameworks and can also be used to run React and Vue applications, laying the groundwork for future JSS starter kits built for other front-end JavaScript frameworks.
+*   [Node XM Cloud Proxy (⭐269)](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/node-xmcloud-proxy) - Node proxy application enables backend functionality and features equivalent to those in our Next.js starter kit for XM Cloud. Was introduced to support the new Angular starter kit. This proxy is designed to work with all SPA frameworks and can also be used to run React and Vue applications, laying the groundwork for future JSS starter kits built for other front-end JavaScript frameworks.
 

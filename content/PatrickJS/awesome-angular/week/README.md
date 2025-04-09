@@ -20,9 +20,18 @@
 
 *   [@ramiz4/typing-text](https://www.npmjs.com/package/@ramiz4/typing-text) - Angular directive for animated typing effects — smooth, customizable, and standalone.
 
+### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-forms-validator (⭐1)](https://github.com/apalaciosdev/ngx-forms-validator) - A forms validator library for Angular.
+
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-oneforall (⭐1)](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
+
+### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-modal-service (⭐1)](https://github.com/nhusby/ng-modal-service) - A simple Angular modal Service.
+*   [strictly-typed-mat-dialog (⭐4)](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
 
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -211,9 +220,6 @@
 *   [ngx-kit (⭐2)](https://github.com/almazrpe/ngx-kit) - Utilities for Angular Framework.
 *   [ng-tool-collection (⭐1)](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
 *   [yaagoub](https://yaagoub.org/) - Accelerate your development with decorators, directives, icons, services, and OAuth 2.0.
-
-### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
 *   [angular-signal-generators (⭐19)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
 
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

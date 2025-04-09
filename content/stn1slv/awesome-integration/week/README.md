@@ -6,38 +6,73 @@ A curated list of awesome system integration software and resources.
 
 [ [Daily](/content/stn1slv/awesome-integration/README.md) / Weekly / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
-## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
+## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐233) (⭐231)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
-*   [WSO2 API Manager (⭐883) (⭐882)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+*   [Gravitee.io API Management (⭐237) (⭐231)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [WSO2 API Manager (⭐884) (⭐882)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐896) (⭐891)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [OpenAPI Diff (⭐900) (⭐891)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [OpenAPI Style Validator (⭐214) (⭐213)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
+
+### Projects / API Documentation
+
+*   [Zudoku (⭐162) (⭐152)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+
+### Projects / API Gateway
+
+*   [Gloo Edge (⭐81) (⭐69)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
+*   [Traefik (⭐54k) (⭐54k)](https://github.com/traefik/traefik) - A dynamic, cloud-native reverse proxy designed for modern container environments with auto-discovery and load balancing.
+
+### Projects / API Testing
+
+*   Mocking tools
+    *   [Hoverfly (⭐2.4k) (⭐2.4k)](https://github.com/SpectoLabs/hoverfly) - A lightweight API simulation tool that enables rapid HTTP(S) service virtualization for efficient testing.
+    *   [Imposter (⭐386) (⭐386)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
+    *   [Microcks (⭐1.5k) (⭐1.6k)](https://github.com/microcks/microcks) - A Kubernetes-native tool for API mocking and testing that supports AsyncAPI, OpenAPI, and Postman Collections.
+    *   [Mockable](https://www.mockable.io/) - An easy-to-configure service for creating custom HTTP responses, ideal for rapid prototyping and testing.
+    *   [Mockbin (⭐105) (⭐105)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
+    *   [Mockoon (⭐7k) (⭐7k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
+    *   [MockServer (⭐4.7k) (⭐4.7k)](https://github.com/mock-server/mockserver) - A powerful solution for mocking any HTTP/HTTPS-based service, streamlining integration testing.
+    *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - A free online service that generates custom HTTP responses for testing API endpoints.
+    *   [Prism (⭐4.5k) (⭐4.5k)](https://github.com/stoplightio/prism) - An open-source HTTP mock server that replicates API behavior for early testing and validation.
+    *   [WireMock (⭐6.7k) (⭐6.7k)](https://github.com/tomakehurst/wiremock) - A robust and flexible API mocking tool delivering reliable, real-time simulation for comprehensive testing.
+
+### Projects / BRE
+
+*   [OpenL Tablets (⭐165) (⭐164)](https://github.com/openl-tablets/openl-tablets) - Flexible open-source decision management system that simplifies defining and executing business rules and decision tables.
+
+### Projects / Data Mapping Solution
+
+*   [AtlasMap (⭐202) (⭐200)](https://github.com/atlasmap/atlasmap) - Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.
+*   [JOLT (⭐1.6k) (⭐1.6k)](https://github.com/bazaarvoice/jolt) - Java-based JSON transformation library that uses a specification-driven approach for effortless JSON-to-JSON conversions.
+
+### Projects / Self-Service Integration
+
+*   [n8n (⭐76k) (⭐71k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+
+### Resources / Data Formats
+
+*   [NDJSON (⭐729) (⭐722)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [YAML (⭐383) (⭐380)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
 ### Projects / API Documentation
 
 *   [OpenAPI Explorer (⭐324) (⭐323)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
-*   [Zudoku (⭐157) (⭐152)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 ### Projects / API Gateway
 
 *   [Apinto (⭐1.5k) (⭐1.5k)](https://github.com/eolinker/apinto) - A Golang-based gateway that offers dynamic routing, multi-tenancy, and robust API access control for modern architectures.
 *   [Tyk API Gateway (⭐10k) (⭐10k)](https://github.com/TykTechnologies/tyk) - An enterprise-grade, open-source gateway supporting REST, GraphQL, TCP, and gRPC with advanced rate limiting and analytics.
 
-### Projects / Data Mapping Solution
-
-*   [AtlasMap (⭐201) (⭐200)](https://github.com/atlasmap/atlasmap) - Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.
-
 ### Projects / ETL
 
 *   [Apache NiFi (⭐5.2k) (⭐5.2k)](https://github.com/apache/nifi) - Automated data integration tool with a visual interface that seamlessly extracts, transforms, and delivers data across systems.
-
-### Projects / Self-Service Integration
-
-*   [n8n (⭐73k) (⭐71k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
 
 ### Projects / Workflow engine
 
@@ -46,9 +81,7 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Data Formats
 
-*   [NDJSON (⭐728) (⭐722)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [Protocol Buffers (⭐67k) (⭐67k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
-*   [YAML (⭐382) (⭐380)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ## [Mar 31 - Apr 06, 2025](/content/2025/13/README.md)
 
@@ -89,7 +122,6 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Gateway
 
-*   [Gloo Edge (⭐69) (⭐69)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
 *   [Ocelot (⭐8.5k) (⭐8.5k)](https://github.com/ThreeMammals/Ocelot) - A .NET-based gateway offering intuitive routing and easy integration for lightweight API management.
 
 ### Projects / ESB
@@ -118,7 +150,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Design
 
 *   [OpenAPI Generator (⭐23k) (⭐23k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
-*   [OpenAPI Style Validator (⭐213) (⭐213)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 
 ### Projects / API Documentation
 
@@ -130,24 +161,13 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Testing
 
-*   Mocking tools
-    *   [Hoverfly (⭐2.3k) (⭐2.4k)](https://github.com/SpectoLabs/hoverfly) - A lightweight API simulation tool that enables rapid HTTP(S) service virtualization for efficient testing.
-    *   [Imposter (⭐386) (⭐386)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
-    *   [Microcks (⭐1.5k) (⭐1.6k)](https://github.com/microcks/microcks) - A Kubernetes-native tool for API mocking and testing that supports AsyncAPI, OpenAPI, and Postman Collections.
-    *   [Mockable](https://www.mockable.io/) - An easy-to-configure service for creating custom HTTP responses, ideal for rapid prototyping and testing.
-    *   [Mockbin (⭐105) (⭐105)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
-    *   [Mockoon (⭐7k) (⭐7k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
-    *   [MockServer (⭐4.6k) (⭐4.7k)](https://github.com/mock-server/mockserver) - A powerful solution for mocking any HTTP/HTTPS-based service, streamlining integration testing.
-    *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - A free online service that generates custom HTTP responses for testing API endpoints.
-    *   [Prism (⭐4.4k) (⭐4.5k)](https://github.com/stoplightio/prism) - An open-source HTTP mock server that replicates API behavior for early testing and validation.
-    *   [WireMock (⭐6.6k) (⭐6.7k)](https://github.com/tomakehurst/wiremock) - A robust and flexible API mocking tool delivering reliable, real-time simulation for comprehensive testing.
 *   Testing tools and frameworks
     *   [Apache JMeter (⭐8.6k) (⭐8.7k)](https://github.com/apache/jmeter) - A feature-rich tool for load testing and performance analysis across diverse web applications and services.
     *   [Gatling (⭐6.6k) (⭐6.6k)](https://github.com/gatling/gatling) - A powerful load testing framework with a developer-friendly DSL that delivers detailed performance metrics.
     *   [Karate (⭐8.5k) (⭐8.5k)](https://github.com/karatelabs/karate) - A unified testing framework that merges API automation, mocking, and performance testing with simple, expressive syntax.
     *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - A Python-based testing tool offering easy YAML/JSON-driven REST API testing and microbenchmarking.
     *   [REST Assured (⭐6.9k) (⭐6.9k)](https://github.com/rest-assured/rest-assured) - A Java DSL that simplifies REST API testing with intuitive syntax and seamless integration into CI pipelines.
-    *   [Schemathesis (⭐2.4k) (⭐2.4k)](https://github.com/schemathesis/schemathesis) - A Python library for property-based testing of API schemas, ensuring reliability through robust edge-case detection.
+    *   [Schemathesis (⭐2.4k) (⭐2.5k)](https://github.com/schemathesis/schemathesis) - A Python library for property-based testing of API schemas, ensuring reliability through robust edge-case detection.
     *   [Taurus (⭐2k) (⭐2k)](https://github.com/Blazemeter/taurus) - An open-source automation framework that simplifies continuous testing with intuitive configuration and integration support.
 
 ### Projects / BRE
@@ -236,10 +256,6 @@ A curated list of awesome system integration software and resources.
 
 *   [Kong API Gateway (⭐40k) (⭐40k)](https://github.com/Kong/kong) - A scalable, cloud-native gateway that simplifies API management through extensive plugin support and seamless microservices integration.
 
-### Projects / BRE
-
-*   [OpenL Tablets (⭐164) (⭐164)](https://github.com/openl-tablets/openl-tablets) - Flexible open-source decision management system that simplifies defining and executing business rules and decision tables.
-
 ### Projects / Messaging
 
 *   [Redpanda (⭐10k) (⭐10k)](https://github.com/vectorizedio/redpanda) - Kafka-compatible streaming platform that eliminates Zookeeper, delivering high performance and low latency.
@@ -271,7 +287,6 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Gateway
 
 *   [KrakenD API Gateway (⭐2.1k) (⭐2.2k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance gateway with efficient middleware configuration, robust security, and seamless scaling.
-*   [Traefik (⭐53k) (⭐54k)](https://github.com/traefik/traefik) - A dynamic, cloud-native reverse proxy designed for modern container environments with auto-discovery and load balancing.
 
 ### Projects / Integration Frameworks
 
@@ -407,7 +422,7 @@ A curated list of awesome system integration software and resources.
     *   [curlie (⭐3.1k) (⭐3.1k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
     *   [HTTPie (⭐35k) (⭐35k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.
     *   [Hoppscotch (⭐70k) (⭐71k)](https://github.com/hoppscotch/hoppscotch) - A lightweight, web-based API development tool offering real-time testing with an intuitive interface.
-    *   [Insomnia (⭐35k) (⭐36k)](https://github.com/Kong/insomnia) - A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.
+    *   [Insomnia (⭐36k) (⭐36k)](https://github.com/Kong/insomnia) - A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.
     *   [posting (⭐8.6k) (⭐8.5k)](https://github.com/darrenburns/posting) - A modern, terminal-based API client designed for efficient and seamless API interactions.
     *   [Postman](https://www.postman.com/product/api-client/) - The industry-standard tool for API development and testing, featuring automation, mock servers, and collaborative documentation.
     *   [resty (⭐2.6k) (⭐2.6k)](https://github.com/micha/resty) - A Lua-based HTTP client framework providing an interactive shell for streamlined REST service testing.
@@ -448,10 +463,6 @@ A curated list of awesome system integration software and resources.
 *   [API-Security-Checklist (⭐22k) (⭐23k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security.
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
-
-### Projects / Data Mapping Solution
-
-*   [JOLT (⭐1.5k) (⭐1.6k)](https://github.com/bazaarvoice/jolt) - Java-based JSON transformation library that uses a specification-driven approach for effortless JSON-to-JSON conversions.
 
 ### Projects / Workflow engine
 

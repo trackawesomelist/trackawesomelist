@@ -574,7 +574,7 @@
 *   [Laravel Enso (⭐1.1k)](https://github.com/laravel-enso/enso) - SPA Admin Panel built with Bulma, VueJS and Laravel, packing lots of features out of the box.
 *   [Hubble](https://hubble.js.org) - :telescope: Travel through GitHub Stars' history.
 *   [Vuepress](https://vuepress.vuejs.org/) - Minimalistic Vue-powered static site generator
-*   [Socialhome (⭐367)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
+*   [Socialhome (⭐366)](https://github.com/jaywink/socialhome) - A federated rich profile builder with social networking features
 *   [chrome-ribbon-reminder (⭐11)](https://github.com/johndatserakis/chrome-ribbon-reminder) - A Chrome extension written using Vue and Async/Await. Uses a popup display and changes badge counts.
 *   [Faviator](https://www.faviator.xyz/) - A simple easy favicon generator.
 *   [Minimal Notes (⭐137)](https://github.com/vladocar/Minimal-Notes) - Web app build with Vue.js
@@ -606,7 +606,7 @@
 *   [Antares SQL (⭐2.2k)](https://github.com/Fabio286/antares) - Cross platform SQL client made to be simple and complete.
 *   [Bagisto (⭐18k)](https://github.com/bagisto/bagisto) - A Free and Opensource Laravel eCommerce framework built for all to build and scale your business.
 *   [GrandNode 2.0 (⭐1.2k)](https://github.com/grandnode/grandnode2/) - Open Source Cross Platform E-Commerce Solution based on .NET Core 5.0 and MongoDB / Azure CosmosDB / Amazon DocumentDB / VueJS
-*   [Aimeos (⭐4.4k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
+*   [Aimeos (⭐4.5k)](https://github.com/aimeos/aimeos) - Leading Laravel eCommerce framework to build ultra fast online shops, marketplaces and complex B2B applications scalable from 1 to 1,000,000,000+ items
 *   [XIV ToDo (⭐135)](https://github.com/bourgeoisor/xivtodo) - Dashboards, completion trackers, tailored weekly and daily checklists and tools for Final Fantasy XIV.
 *   [Interface X (⭐81)](https://github.com/empathyco/x) - UI Search\&Discovery components to rapidly build beautiful search experiences
 *   [Balancer (⭐192)](https://github.com/balancer-labs/frontend-v2) - A Decentralized Finance app that runs on Ethereum.
@@ -972,7 +972,7 @@
 *   [gin-vue-admin (⭐23k)](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
 *   [adminforth](https://adminforth.dev) - Vue + Node + Tailwind admin framework. [Live Demo](https://demo.adminforth.dev)
 *   [soybean-admin (⭐12k)](https://github.com/soybeanjs/soybean-admin/blob/main/README.en_US.md) - A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS.
-*   [AirPower4T (⭐275)](https://github.com/HammCn/AirPower4T) - A development library based on Vue3, TypeScript, Element Plus, Vite which provides lots of Backend-Platform features such as `OOP` `Decoration` to make your development more efficient.
+*   [AirPower4T (⭐286)](https://github.com/AirPowerTeam/AirPower4T) - A development library based on Vue3, TypeScript, Element Plus, Vite which provides lots of Backend-Platform features such as `OOP` `Decoration` to make your development more efficient.
 
 #### Server-side rendering
 
@@ -988,7 +988,7 @@
 
 *   [Vue-Access-Control (⭐1.1k)](https://github.com/tower1229/Vue-Access-Control) Frontend access control framework based Vue.js 2.
 *   [CabloyJS (⭐959)](https://github.com/zhennann/cabloy) The Ultimate NodeJS Full Stack Business Development Platform, based on KoaJS & EggJS & VueJS & Framework7
-*   [DataFormsJS (⭐194)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
+*   [DataFormsJS (⭐195)](https://github.com/dataformsjs/dataformsjs) - A minimal routing and web service framework that uses Vue as a templating engine.
 *   [Vue-Low-Code (⭐378)](https://github.com/KlausSchaefers/vue-low-code) - Low Code toolkit that can generate VUE apps from Quant-UX prototypes
 *   [vue-notion (⭐912)](https://github.com/janniks/vue-notion) - An unofficial Notion renderer – Use Notion as a CMS for Vue (e.g. Nuxt)
 *   [Fes.js (⭐1.5k)](https://github.com/WeBankFinTech/fes.js/blob/master/README.en-US.md) - An easy-to-use front-end application framework based on vue3.
@@ -1065,7 +1065,7 @@
 *   [vue-scroll-progress (⭐100)](https://github.com/spemer/vue-scroll-progress) - Simple Vue.js plugin for page scroll progress bar
 *   [vue-ins-progress-bar (⭐333)](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
 *   [vue-next-progressbar (⭐8)](https://github.com/jambonn/vue-next-progressbar) - Slim progress bars(1KB gzipped) for Vue 3.
-*   [css-3d-progress (⭐2)](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
+*   [css-3d-progress (⭐3)](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
 
 #### Tooltip
 
@@ -1180,7 +1180,7 @@ Tooltips / popovers
 #### Markdown
 
 *   [@f3ve/vue-markdown-it (⭐27)](https://github.com/f3ve/vue-markdown-it) - A markdown-it component for Vue3. Easy to use and fully typed.
-*   [Vue Markdown (⭐0)](https://github.com/litingyes/vue-markdown) - The vue component for render Markdown string, supports custom rendering of specific node types and better adapts to AI Chat Stream.
+*   [Vue Markdown (⭐1)](https://github.com/litingyes/vue-markdown) - The vue component for render Markdown string, supports custom rendering of specific node types and better adapts to AI Chat Stream.
 
 #### PDF
 
@@ -1268,7 +1268,7 @@ Tooltips / popovers
 *   [form-create (⭐6.4k)](https://github.com/xaboy/form-create) - Form builder with dynamic rendering, data collection, validation, and submission capabilities, supporting json data
 *   [vue3-otp-input (⭐120)](https://github.com/ejirocodes/vue3-otp-input) - A fully customizable, OTP (one-time-password) input component built with Vue 3.x and Vue Composition API.
 *   [Vueform](https://vueform.com) - (probably) the most comprehensive form builder for Vue.js [Online Demo](https://vueform.com/examples)
-*   [Everright-formEditor (⭐476)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐478)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ###### Date Picker
 
@@ -1542,7 +1542,7 @@ Tooltips / popovers
 *   [v-google-translate (⭐302)](https://github.com/i7eo/v-google-translate) - A component that use google translate to internationalize your Vue.js app.
 *   [fluent-vue (⭐260)](https://github.com/Demivan/fluent-vue) - Internationalization plugin for Vue.js (2 and 3). Vue.js integration for Fluent.js - JavaScript implementation of Project Fluent
 *   [vue-next-i18n (⭐17)](https://github.com/Aaronlamz/vue-next-i18n) - A lightweight internationalization plugin for Vue 3.
-*   [tolgee/vue (⭐240)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
+*   [tolgee/vue (⭐242)](https://github.com/tolgee/tolgee-js/tree/main/packages/vue) - Web-based localization tool enabling users to translate directly in the Vue 3 app they develop.
 *   [intlify/vue-i18n-next (⭐2.4k)](https://github.com/intlify/vue-i18n-next) - Vue I18n for Vue 3.
 
 #### Custom Events
@@ -1562,7 +1562,7 @@ Tooltips / popovers
 *   [v-bucket (⭐43)](https://github.com/mediv0/v-bucket) - 📦 Fast, Simple, and Lightweight State Management for Vue 3.0 built with composition API, inspired by Vuex.
 *   [vue-datatable-url-sync (⭐32)](https://github.com/socotecio/vue-datatable-url-sync) - Synchronize datatable options and filters with the url to keep user preference even after refresh or navigation
 *   [harlem (⭐513)](https://github.com/andrewcourtice/harlem) - Simple, unopinionated, lightweight and extensible state management for Vue 3
-*   [exome (⭐269)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐272)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ##### Mobx
 
