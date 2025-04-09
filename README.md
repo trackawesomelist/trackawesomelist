@@ -760,7 +760,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### LLM
 
 - [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 350, 📝 01&#x2F;22 ](https://github.com/kimtth/awesome-azure-openai-llm)) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.
-- [Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md) - ([Source ⭐ 50, 📝 02&#x2F;28 ](https://github.com/xavidop/awesome-firebase-genkit)) - 🔥 List of Firebase Genkit talks, plugins, tools, examples & articles! Contributions welcome!
+- [Awesome Genkit](/content/xavidop/awesome-genkit/README.md) - ([Source ⭐ 50, 📝 02&#x2F;28 ](https://github.com/xavidop/awesome-genkit)) - 🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!
 
 ### Learn
 
