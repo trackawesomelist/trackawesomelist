@@ -6,6 +6,16 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 [ Daily / [Weekly](/content/wilsonfreitas/awesome-quant/week/README.md) / [Overview](/content/wilsonfreitas/awesome-quant/readme/README.md) ]
 
+## [Apr 09, 2025](/content/2025/04/09/README.md)
+
+### Python / Trading & Backtesting
+
+*   [rust\_bt (⭐1)](https://github.com/jensnesten/rust_bt) - A high performance, low-latency backtesting engine for testing quantitative trading strategies on historical and live data in Rust.
+
+### Python / Data Sources
+
+*   [SaxoOpenAPI](https://www.developer.saxo/) - Saxo Bank financial data API.
+
 ## [Apr 01, 2025](/content/2025/04/01/README.md)
 
 ### Python / Data Sources
@@ -99,11 +109,11 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 ### CPP / Data Visualization
 
 *   [QuantLibRisks (⭐21)](https://github.com/auto-differentiation/QuantLib-Risks-Cpp) - Fast risks with QuantLib in C++
-*   [XAD (⭐361)](https://github.com/auto-differentiation/xad) - Automatic Differentation (AAD) Library
+*   [XAD (⭐362)](https://github.com/auto-differentiation/xad) - Automatic Differentation (AAD) Library
 
 ### Frameworks / Data Visualization
 
-*   XAD: Automatic Differentation (AAD) Library for [Python](https://pypi.org/project/xad/) and [C++ (⭐361)](https://github.com/auto-differentiation/xad)
+*   XAD: Automatic Differentation (AAD) Library for [Python](https://pypi.org/project/xad/) and [C++ (⭐362)](https://github.com/auto-differentiation/xad)
 
 ### Reproducing Works, Training & Books / Data Visualization
 
@@ -172,7 +182,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 *   [QuantLib (⭐5.8k)](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
     *   QuantLibRisks - Fast risks with QuantLib in [Python](https://pypi.org/project/QuantLib-Risks/) and [C++ (⭐21)](https://github.com/auto-differentiation/QuantLib-Risks-Cpp)
-    *   XAD - Automatic Differentiation (AAD) Library in [Python](https://pypi.org/project/xad/) and [C++ (⭐361)](https://github.com/auto-differentiation/xad/)
+    *   XAD - Automatic Differentiation (AAD) Library in [Python](https://pypi.org/project/xad/) and [C++ (⭐362)](https://github.com/auto-differentiation/xad/)
     *   [JQuantLib (⭐135)](https://github.com/frgomes/jquantlib) - Java port.
     *   [RQuantLib (⭐123)](https://github.com/eddelbuettel/rquantlib) - R port.
     *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.

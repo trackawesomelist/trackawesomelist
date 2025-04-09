@@ -167,6 +167,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [YABTE (⭐6)](https://github.com/bsdz/yabte) - Yet Another (Python) BackTesting Engine.
 *   [Trading Strategy (⭐114)](https://github.com/tradingstrategy-ai/getting-started) - TradingStrategy.ai is a market data, backtesting, live trading and investor management framework for decentralised finance
 *   [Hikyuu (⭐2.5k)](https://github.com/fasiondog/hikyuu) - A base on Python/C++ open source high-performance quant framework for faster analysis and backtesting, contains the complete trading system components for reuse and combination.
+*   [rust\_bt (⭐1)](https://github.com/jensnesten/rust_bt) - A high performance, low-latency backtesting engine for testing quantitative trading strategies on historical and live data in Rust.
 
 ### Risk Analysis
 
@@ -280,6 +281,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 *   [Trading Strategy (⭐280)](https://github.com/tradingstrategy-ai/trading-strategy/) - download price data for decentralised exchanges and lending protocols (DeFi)
 *   [datamule-python (⭐168)](https://github.com/john-friedman/datamule-python) - A package to work with SEC data. Incorporates datamule endpoints.
 *   [Financial Data](https://financialdata.net/) - Stock Market and Financial Data API.
+*   [SaxoOpenAPI](https://www.developer.saxo/) - Saxo Bank financial data API.
 
 ### Excel Integration
 
@@ -488,7 +490,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 *   [QuantLib (⭐5.8k)](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
 *   [QuantLibRisks (⭐21)](https://github.com/auto-differentiation/QuantLib-Risks-Cpp) - Fast risks with QuantLib in C++
-*   [XAD (⭐361)](https://github.com/auto-differentiation/xad) - Automatic Differentation (AAD) Library
+*   [XAD (⭐362)](https://github.com/auto-differentiation/xad) - Automatic Differentation (AAD) Library
 *   [TradeFrame (⭐534)](https://github.com/rburkholder/trade-frame) - C++ 17 based framework/library (with sample applications) for testing options based automated trading ideas using DTN IQ real time data feed and Interactive Brokers (TWS API) for trade execution. Comes with built-in [Option Greeks/IV (⭐534)](https://github.com/rburkholder/trade-frame/tree/master/lib/TFOptions) calculation library.
 *   [Hikyuu (⭐2.5k)](https://github.com/fasiondog/hikyuu) - A base on Python/C++ open source high-performance quant framework for faster analysis and backtesting, contains the complete trading system components for reuse and combination. You can use python or c++ freely.
 
@@ -496,7 +498,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 *   [QuantLib (⭐5.8k)](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
     *   QuantLibRisks - Fast risks with QuantLib in [Python](https://pypi.org/project/QuantLib-Risks/) and [C++ (⭐21)](https://github.com/auto-differentiation/QuantLib-Risks-Cpp)
-    *   XAD - Automatic Differentiation (AAD) Library in [Python](https://pypi.org/project/xad/) and [C++ (⭐361)](https://github.com/auto-differentiation/xad/)
+    *   XAD - Automatic Differentiation (AAD) Library in [Python](https://pypi.org/project/xad/) and [C++ (⭐362)](https://github.com/auto-differentiation/xad/)
     *   [JQuantLib (⭐135)](https://github.com/frgomes/jquantlib) - Java port.
     *   [RQuantLib (⭐123)](https://github.com/eddelbuettel/rquantlib) - R port.
     *   [QuantLibAddin](https://www.quantlib.org/quantlibaddin/) - Excel support.
@@ -512,7 +514,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 *   [Portfolio Optimizer](https://portfoliooptimizer.io/) - Portfolio Optimizer is a Web API for portfolio analysis and optimization.
 
-*   XAD: Automatic Differentation (AAD) Library for [Python](https://pypi.org/project/xad/) and [C++ (⭐361)](https://github.com/auto-differentiation/xad)
+*   XAD: Automatic Differentation (AAD) Library for [Python](https://pypi.org/project/xad/) and [C++ (⭐362)](https://github.com/auto-differentiation/xad)
 
 ## CSharp
 
