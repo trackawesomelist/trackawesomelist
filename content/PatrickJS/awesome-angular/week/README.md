@@ -16,6 +16,14 @@
 
 *   [signal-translate (⭐2)](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
 
+### Module Federation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-mfe (⭐24)](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and plugin ModuleFederation.
+
+### Payments / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [izipay (⭐0)](https://github.com/antonyayansi/izipay) - Integrate Izipay into your project with minimal configuration and an integrated proxy.
+
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@ramiz4/typing-text](https://www.npmjs.com/package/@ramiz4/typing-text) - Angular directive for animated typing effects — smooth, customizable, and standalone.
@@ -24,9 +32,14 @@
 
 *   [ngx-forms-validator (⭐1)](https://github.com/apalaciosdev/ngx-forms-validator) - A forms validator library for Angular.
 
+### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngxi (⭐1)](https://github.com/adrian-ub/ngxi) - A comprehensive collection of SVG icons for Angular applications that provides seamless integration with thousands of popular icons.
+
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-oneforall (⭐1)](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
+*   [mmstack (⭐7)](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
 
 ### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

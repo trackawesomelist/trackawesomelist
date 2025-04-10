@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Apr 10, 2025](/content/2025/04/10/README.md)
+
+### Module Federation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-mfe (⭐24)](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and plugin ModuleFederation.
+
+### Payments / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [izipay (⭐0)](https://github.com/antonyayansi/izipay) - Integrate Izipay into your project with minimal configuration and an integrated proxy.
+
+### Icons / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngxi (⭐1)](https://github.com/adrian-ub/ngxi) - A comprehensive collection of SVG icons for Angular applications that provides seamless integration with thousands of popular icons.
+
+### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [mmstack (⭐7)](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
+
 ## [Apr 09, 2025](/content/2025/04/09/README.md)
 
 ### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

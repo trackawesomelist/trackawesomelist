@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Apr 10, 2025](/content/2025/04/10/README.md)
+
+### Specialty Search Engines
+
+*   [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center) - IP and Domain Reputation Center for real-time threat detection
+
+### Username Check / Steam
+
+*   [Social Analyzer (⭐12k)](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+
 ## [Mar 28, 2025](/content/2025/03/28/README.md)
 
 ### Email Search / Email Check / Steam
@@ -297,9 +307,9 @@
 *   [awesome-ctf (⭐10k)](https://github.com/apsdehal/awesome-ctf) by @apsdehal
 *   [awesome-forensics (⭐4.2k)](https://github.com/Cugu/awesome-forensics) by @cugu
 *   [awesome-hacking (⭐14k)](https://github.com/carpedm20/awesome-hacking) by @carpedm20
-*   [awesome-honeypots (⭐9k)](https://github.com/paralax/awesome-honeypots) by @paralax
+*   [awesome-honeypots (⭐9.1k)](https://github.com/paralax/awesome-honeypots) by @paralax
 *   [awesome-incident-response (⭐8k)](https://github.com/meirwah/awesome-incident-response) by @meirwah
-*   [awesome-lockpicking (⭐1.5k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
+*   [awesome-lockpicking (⭐1.6k)](https://github.com/fabacab/awesome-lockpicking) by @fabacab
 *   [awesome-malware-analysis (⭐12k)](https://github.com/rshipp/awesome-malware-analysis) by @rshipp
 *   [awesome-pentest (⭐23k)](https://github.com/enaqx/awesome-pentest) by @enaqx
 *   [awesome-privacy (⭐7.5k)](https://github.com/Lissy93/awesome-privacy/) by @Lissy93
@@ -352,7 +362,7 @@
 
 ### Language Tools / Steam
 
-*   see the [Awesome Translations list (⭐157)](https://github.com/mbiesiad/awesome-translations#tools)
+*   see the [Awesome Translations list (⭐160)](https://github.com/mbiesiad/awesome-translations#tools)
 
 ### Image Search / Steam
 
@@ -385,7 +395,7 @@
 
 *   [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
 *   [Tubuep (⭐443)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
-*   [yt-dlp (⭐105k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐107k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [Jan 12, 2023](/content/2023/01/12/README.md)
 
@@ -573,7 +583,7 @@
 
 ### Other Tools / Steam
 
-*   [CrowdSec (⭐9.9k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
+*   [CrowdSec (⭐10k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 
 ## [Aug 02, 2022](/content/2022/08/02/README.md)
 
@@ -1149,7 +1159,7 @@
 
 ### Privacy and Encryption Tools / Steam
 
-*   [uBlock Origin (⭐52k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐53k)](https://github.com/gorhill/uBlock)
 
 ## [Feb 18, 2020](/content/2020/02/18/README.md)
 
