@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Apr 10, 2025](/content/2025/04/10/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [Mottl/lightgb3-rs (⭐24)](https://github.com/Mottl/lightgbm3-rs) - Bindings for LightGBM [![Crates.io](https://img.shields.io/crates/v/lightgbm3.svg)](https://crates.io/crates/lightgbm3) [![build](https://github.com/Mottl/lightgbm3-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/Mottl/lightgbm3-rs/actions)
+
 ## [Apr 09, 2025](/content/2025/04/09/README.md)
 
 ### Applications / Productivity
@@ -932,7 +938,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [str4d/rage (⭐2.9k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐18k)](https://github.com/FiloSottile/age).
+*   [str4d/rage (⭐2.9k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐19k)](https://github.com/FiloSottile/age).
 
 ## [Mar 05, 2024](/content/2024/03/05/README.md)
 
@@ -3453,7 +3459,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [ImGui (⭐64k)](https://github.com/ocornut/imgui)
+*   [ImGui (⭐65k)](https://github.com/ocornut/imgui)
     *   [imgui-rs (⭐2.8k)](https://github.com/imgui-rs/imgui-rs) - Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
 ## [Dec 19, 2020](/content/2020/12/19/README.md)

@@ -1,12 +1,52 @@
 # Awesome List Updates on Apr 10, 2025
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
+## [1. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [Mottl/lightgb3-rs (⭐24)](https://github.com/Mottl/lightgbm3-rs) - Bindings for LightGBM [![Crates.io](https://img.shields.io/crates/v/lightgbm3.svg)](https://crates.io/crates/lightgbm3) [![build](https://github.com/Mottl/lightgbm3-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/Mottl/lightgbm3-rs/actions)
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / Bookmarks and Link Sharing
+
+*   [Karakeep](https://karakeep.app/) - Bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.karakeep.app/signin), [Source Code (⭐15k)](https://github.com/karakeep-app/karakeep)) `AGPL-3.0` `Docker`
+
+### Software / Communication - Email - Mail Delivery Agents
+
+*   [DavMail](https://davmail.sourceforge.net/) `⚠` - POP/IMAP/SMTP/Caldav/Carddav/LDAP exchange gateway allowing users to use any mail/calendar client with an Exchange server, even from the internet or behind a firewall through Outlook Web Access. ([Source Code (⭐620)](https://github.com/mguessan/davmail)) `GPL-2.0` `Java`
+
+### Software / Media Streaming - Multimedia Streaming
+
+*   [Reiverr (⭐1.6k)](https://github.com/aleksilassila/reiverr) `⚠` - Clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. `AGPL-3.0` `Docker`
+
+### Software / Money, Budgeting & Management
+
+*   [ExpenseOwl (⭐785)](https://github.com/tanq16/expenseowl) - Extremely simple expense tracker with a beautiful UI. `MIT` `Go/Docker/K8S`
+
+### Software / Note-taking & Editors
+
+*   [Blinko](https://blinko.space/) - A personal note tool with AI features. ([Source Code (⭐3.1k)](https://github.com/blinko-space/blinko)) `AGPL-3.0` `Docker`
+
+### Software / Pastebins
+
+*   [Local Content Share (⭐179)](https://github.com/Tanq16/local-content-share) - Store and share text snippets and files within your local network. `MIT` `Docker/Go`
+
+### Software / Recipe Management
+
+*   [Fork Recipes](https://mikebgrep.github.io/forkapi/clients/) - Manage your food recipes with simplicity. ([Source Code (⭐46)](https://github.com/mikebgrep/fork.recipes)) `BSD-3-Clause` `Docker`
+
+### Software / Software Development - Feature Toggle
+
+*   [Featbit](https://www.featbit.co/) - Enterprise-grade feature flag platform that you can self-host. ([Source Code (⭐1.5k)](https://github.com/featbit/featbit)) `MIT` `Docker/K8S`
+
+## [3. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
 
 ### Plugins / Python - Official
 
@@ -43,7 +83,7 @@
 *   [How to Develop Firebase functions with Genkit](https://medium.com/@nozomi-koborinai/how-to-develop-firebase-genkit-functions-2677b386a227) - A practical guide to efficient local testing of Firebase Functions with Genkit Firebase product integrations.
 *   [Genkit for Go Developers: A Guide to Building LLM Applications](https://medium.com/@yukinagae/firebase-genkit-for-go-developers-a-guide-to-building-llm-applications-f96c51c34b10) - A getting started guide for Go developers using Genkit.
 
-## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Specialty Search Engines
 
@@ -53,7 +93,7 @@
 
 *   [Social Analyzer (⭐12k)](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 
-## [3. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
+## [5. Awesome Web Archiving](/content/iipc/awesome-web-archiving/README.md)
 
 ### Tools & Software / Search & Discovery
 
@@ -63,7 +103,7 @@
 *   [Wasp (⭐27)](https://github.com/webis-de/wasp) - A fully functional prototype of a personal [web archive and search system](http://ceur-ws.org/Vol-2167/paper6.pdf). *(In Development)*
 *   Other possible options for builting a front-end are listed on in the `webarchive-discovery` wiki, [here (⭐122)](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends).
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Module Federation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

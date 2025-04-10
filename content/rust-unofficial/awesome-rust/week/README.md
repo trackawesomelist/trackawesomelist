@@ -16,6 +16,10 @@ A curated list of Rust code and resources.
 
 *   [kruserr/hygg (⭐21)](https://github.com/kruserr/hygg) \[[hygg](https://crates.io/crates/hygg)] - A minimalistic cli document reader, supports PDF, ePub and more.
 
+### Libraries / Artificial Intelligence
+
+*   [Mottl/lightgb3-rs (⭐24)](https://github.com/Mottl/lightgbm3-rs) - Bindings for LightGBM [![Crates.io](https://img.shields.io/crates/v/lightgbm3.svg)](https://crates.io/crates/lightgbm3) [![build](https://github.com/Mottl/lightgbm3-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/Mottl/lightgbm3-rs/actions)
+
 ### Libraries / Task scheduling
 
 *   [persistent-scheduler (⭐10)](https://github.com/rustmailer/persistent-scheduler) \[[persistent-scheduler](https://crates.io/crates/persistent-scheduler)] - A high-performance task scheduling system built with Tokio, offering task persistence, repeatable tasks, and Cron-based scheduling for reliable time-based operations.
@@ -831,7 +835,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [str4d/rage (⭐2.9k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐18k)](https://github.com/FiloSottile/age).
+*   [str4d/rage (⭐2.9k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐19k)](https://github.com/FiloSottile/age).
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
@@ -3102,7 +3106,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / GUI
 
-*   [ImGui (⭐64k)](https://github.com/ocornut/imgui)
+*   [ImGui (⭐65k)](https://github.com/ocornut/imgui)
     *   [imgui-rs (⭐2.8k)](https://github.com/imgui-rs/imgui-rs) - Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 
 ## [Dec 21 - Dec 27, 2020](/content/2020/51/README.md)

@@ -93,6 +93,46 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [How to Develop Firebase functions with Genkit](https://medium.com/@nozomi-koborinai/how-to-develop-firebase-genkit-functions-2677b386a227) - A practical guide to efficient local testing of Firebase Functions with Genkit Firebase product integrations.
 *   [Genkit for Go Developers: A Guide to Building LLM Applications](https://medium.com/@yukinagae/firebase-genkit-for-go-developers-a-guide-to-building-llm-applications-f96c51c34b10) - A getting started guide for Go developers using Genkit.
 
+#### [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Bookmarks and Link Sharing
+
+*   [Karakeep](https://karakeep.app/) - Bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.karakeep.app/signin), [Source Code (⭐15k)](https://github.com/karakeep-app/karakeep)) `AGPL-3.0` `Docker`
+
+##### Software / Communication - Email - Mail Delivery Agents
+
+*   [DavMail](https://davmail.sourceforge.net/) `⚠` - POP/IMAP/SMTP/Caldav/Carddav/LDAP exchange gateway allowing users to use any mail/calendar client with an Exchange server, even from the internet or behind a firewall through Outlook Web Access. ([Source Code (⭐620)](https://github.com/mguessan/davmail)) `GPL-2.0` `Java`
+
+##### Software / Media Streaming - Multimedia Streaming
+
+*   [Reiverr (⭐1.6k)](https://github.com/aleksilassila/reiverr) `⚠` - Clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. `AGPL-3.0` `Docker`
+
+##### Software / Money, Budgeting & Management
+
+*   [ExpenseOwl (⭐785)](https://github.com/tanq16/expenseowl) - Extremely simple expense tracker with a beautiful UI. `MIT` `Go/Docker/K8S`
+
+##### Software / Note-taking & Editors
+
+*   [Blinko](https://blinko.space/) - A personal note tool with AI features. ([Source Code (⭐3.1k)](https://github.com/blinko-space/blinko)) `AGPL-3.0` `Docker`
+
+##### Software / Pastebins
+
+*   [Local Content Share (⭐179)](https://github.com/Tanq16/local-content-share) - Store and share text snippets and files within your local network. `MIT` `Docker/Go`
+
+##### Software / Recipe Management
+
+*   [Fork Recipes](https://mikebgrep.github.io/forkapi/clients/) - Manage your food recipes with simplicity. ([Source Code (⭐46)](https://github.com/mikebgrep/fork.recipes)) `BSD-3-Clause` `Docker`
+
+##### Software / Software Development - Feature Toggle
+
+*   [Featbit](https://www.featbit.co/) - Enterprise-grade feature flag platform that you can self-host. ([Source Code (⭐1.5k)](https://github.com/featbit/featbit)) `MIT` `Docker/K8S`
+
+#### [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Libraries / Artificial Intelligence
+
+*   [Mottl/lightgb3-rs (⭐24)](https://github.com/Mottl/lightgbm3-rs) - Bindings for LightGBM [![Crates.io](https://img.shields.io/crates/v/lightgbm3.svg)](https://crates.io/crates/lightgbm3) [![build](https://github.com/Mottl/lightgbm3-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/Mottl/lightgbm3-rs/actions)
+
 ### [Apr 09, 2025](/content/2025/04/09/README.md)
 
 
@@ -226,13 +266,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [corrosion (⭐1.2k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally) but also a tool that "turns" C++ into Rust.
 
-#### [8. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications / Productivity
-
-*   [kruserr/hygg (⭐21)](https://github.com/kruserr/hygg) \[[hygg](https://crates.io/crates/hygg)] - A minimalistic cli document reader, supports PDF, ePub and more.
-
-#### [9. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Miscellaneous
 
@@ -248,7 +282,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [clogframe (⭐1.6k)](https://github.com/rabbibotton/clog/tree/main/clogframe) - an executable wrapper for webview\.h, allowing to display any web application served by a Common Lisp server.
     *   clogframe does *not* induce the use of the whole CLOG framework.
 
-#### [10. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
+#### [9. Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md)
 
 ##### Python / Trading & Backtesting
 
@@ -258,7 +292,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [SaxoOpenAPI](https://www.developer.saxo/) - Saxo Bank financial data API.
 
-#### [11. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Validation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -269,11 +303,17 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [ng-modal-service (⭐1)](https://github.com/nhusby/ng-modal-service) - A simple Angular modal Service.
 *   [strictly-typed-mat-dialog (⭐4)](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
 
-#### [12. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Abduction / Scientific Discovery
 
 *   [Complexity Management in a Discovery Task](https://escholarship.org/uc/item/94n547fj) - ***CogSci'92***, 1992. \[[All Versions](https://scholar.google.com/scholar?cluster=18138712608977258974)]. Previous psychological research about scientific discovery has often focused on subjects' heuristics for discovering simple concepts with one relevant dimension or a few relevant dimensions with simple two-way interactions. This paper presents results from an experiment in which subjects had to discover a concept involving complex three-way interactions on a multi-valued output by running experiments in a computerized microworld. Twenty-two CMU undergraduates attempted the task, of which sixteen succeeded, in an average of 85 minutes. The analyses focus on three strategies used to regulate task complexity. First, subjects preferred depth-first to breadth-first search, with successful subjects regulating the number of features varied from experiment to experiment most effectively. Second, subjects systematically regulated the length of their experiments. Third, a new explicit search heuristic (Put Upon Stack Heuristic) used by successful subjects is described.
+
+#### [12. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Productivity
+
+*   [kruserr/hygg (⭐21)](https://github.com/kruserr/hygg) \[[hygg](https://crates.io/crates/hygg)] - A minimalistic cli document reader, supports PDF, ePub and more.
 
 ### [Apr 08, 2025](/content/2025/04/08/README.md)
 
@@ -335,17 +375,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Firmware Extractor (⭐300)](https://github.com/AndroidDumps/Firmware_extractor) - Extract given archive to images
 
-#### [7. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Applications / Blockchain
-
-*   [Anchor (⭐4.2k)](https://github.com/solana-foundation/anchor) - Anchor is the leading development framework for building secure Solana programs (smart contracts).
-
-##### Libraries / Task scheduling
-
-*   [persistent-scheduler (⭐10)](https://github.com/rustmailer/persistent-scheduler) \[[persistent-scheduler](https://crates.io/crates/persistent-scheduler)] - A high-performance task scheduling system built with Tokio, offering task persistence, repeatable tasks, and Cron-based scheduling for reliable time-based operations.
-
-#### [8. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [7. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### Clojure
 
@@ -353,7 +383,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   provides immutable Cons, Queue, PersistentList, capabilities as well as Vector, Set, and Map analogues built on FSet (but accessed entirely via Clojure APIs).
     *   optional read syntax so you can type `{:a 1 :b 2}`, `#{1 2 3}`, and `[1 2 3]`.
 
-#### [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -367,11 +397,21 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [easy-ngrx-distinct-selector (⭐2)](https://github.com/NGneers/easy-ngrx-distinct-selector) - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
 
-#### [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Abduction / Rationalization
 
 *   [Coalescing the Vapors of Human Experience into a Viable and Meaningful Comprehension](https://escholarship.org/uc/item/5f64z7d7) - ***CogSci'16***, 2016. \[[All Versions](https://scholar.google.com/scholar?cluster=5460385008324352958)]. Models of concept learning and theory acquisition often invoke a stochastic search process, in which learners generate hypotheses through some structured random process and thenevaluate them on some data measuring their quality or value. To be successful within a reasonable time-frame, these models need ways of generating good candidate hypotheses evenbefore the data are considered. Schulz (2012a) has proposed that studying the origins of new ideas in more everyday contexts, such as how we think up new names for things, can provide insight into the cognitive processes that generate good hypotheses for learning. We propose a simple generative model for how people might draw on their experience to propose new names in everyday domains such as pub names or action movies, and show that it captures surprisingly well the names that people actually imagine. We discuss the role for an analogous hypothesis-generation mechanism in enabling and constraining causal theory learning.
+
+#### [10. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Applications / Blockchain
+
+*   [Anchor (⭐4.2k)](https://github.com/solana-foundation/anchor) - Anchor is the leading development framework for building secure Solana programs (smart contracts).
+
+##### Libraries / Task scheduling
+
+*   [persistent-scheduler (⭐10)](https://github.com/rustmailer/persistent-scheduler) \[[persistent-scheduler](https://crates.io/crates/persistent-scheduler)] - A high-performance task scheduling system built with Tokio, offering task persistence, repeatable tasks, and Cron-based scheduling for reliable time-based operations.
 
 ---
 
@@ -380,11 +420,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ## Top 50 Awesome List
 
 1. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 355K 📝 04&#x2F;08 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
-2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 223K 📝 04&#x2F;07 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 223K 📝 04&#x2F;10 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 04&#x2F;09 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 140K 📝 04&#x2F;01 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 93K 📝 04&#x2F;03 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-6. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K 📝 04&#x2F;09 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+5. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K 📝 04&#x2F;10 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+6. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 93K 📝 04&#x2F;03 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 7. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 63K 📝 04&#x2F;05 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 8. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 82K 📝 03&#x2F;30 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 9. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 28K 📝 04&#x2F;08 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
@@ -950,7 +990,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1.3K, 📝 24&#x2F;12&#x2F;11 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 724, 📝 24&#x2F;07&#x2F;07 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 1.3K, 📝 01&#x2F;22 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 223K, 📝 04&#x2F;07 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 223K, 📝 04&#x2F;10 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 1.8K, 📝 23&#x2F;05&#x2F;03 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 481, 📝 24&#x2F;05&#x2F;12 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!
@@ -1125,7 +1165,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome R](/content/qinwf/awesome-R/README.md) - ([Source ⭐ 6K, 📝 24&#x2F;12&#x2F;06 ](https://github.com/qinwf/awesome-R)) - A curated list of awesome R packages, frameworks and software.
 - [Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md) - ([Source ⭐ 566, 📝 24&#x2F;12&#x2F;20 ](https://github.com/iamericfletcher/awesome-r-learning-resources)) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 - [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 14K, 📝 03&#x2F;17 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K, 📝 04&#x2F;09 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 49K, 📝 04&#x2F;10 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 - [Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md) - ([Source ⭐ 283, 📝 16&#x2F;08&#x2F;30 ](https://github.com/eleventigers/awesome-rxjava)) - Useful resources for working with RxJava
 - [Awesome Scala](/content/lauris/awesome-scala/README.md) - ([Source ⭐ 9K, 📝 24&#x2F;09&#x2F;19 ](https://github.com/lauris/awesome-scala)) - A community driven list of useful Scala libraries, frameworks and software.
 - [Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md) - ([Source ⭐ 218, 📝 21&#x2F;10&#x2F;27 ](https://github.com/tindzk/awesome-scala-native)) -  Compilation of Scala Native resources and libraries 

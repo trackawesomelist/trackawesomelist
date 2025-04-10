@@ -208,6 +208,10 @@
 
 *   [kruserr/hygg (⭐21)](https://github.com/kruserr/hygg) \[[hygg](https://crates.io/crates/hygg)] - A minimalistic cli document reader, supports PDF, ePub and more.
 
+### Libraries / Artificial Intelligence
+
+*   [Mottl/lightgb3-rs (⭐24)](https://github.com/Mottl/lightgbm3-rs) - Bindings for LightGBM [![Crates.io](https://img.shields.io/crates/v/lightgbm3.svg)](https://crates.io/crates/lightgbm3) [![build](https://github.com/Mottl/lightgbm3-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/Mottl/lightgbm3-rs/actions)
+
 ### Libraries / Task scheduling
 
 *   [persistent-scheduler (⭐10)](https://github.com/rustmailer/persistent-scheduler) \[[persistent-scheduler](https://crates.io/crates/persistent-scheduler)] - A high-performance task scheduling system built with Tokio, offering task persistence, repeatable tasks, and Cron-based scheduling for reliable time-based operations.
@@ -296,9 +300,41 @@
 
 ## [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
+### Software / Bookmarks and Link Sharing
+
+*   [Karakeep](https://karakeep.app/) - Bookmark-everything app with a touch of AI for the data hoarders out there. ([Demo](https://try.karakeep.app/signin), [Source Code (⭐15k)](https://github.com/karakeep-app/karakeep)) `AGPL-3.0` `Docker`
+
+### Software / Communication - Email - Mail Delivery Agents
+
+*   [DavMail](https://davmail.sourceforge.net/) `⚠` - POP/IMAP/SMTP/Caldav/Carddav/LDAP exchange gateway allowing users to use any mail/calendar client with an Exchange server, even from the internet or behind a firewall through Outlook Web Access. ([Source Code (⭐620)](https://github.com/mguessan/davmail)) `GPL-2.0` `Java`
+
+### Software / Media Streaming - Multimedia Streaming
+
+*   [Reiverr (⭐1.6k)](https://github.com/aleksilassila/reiverr) `⚠` - Clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr. `AGPL-3.0` `Docker`
+
+### Software / Money, Budgeting & Management
+
+*   [ExpenseOwl (⭐785)](https://github.com/tanq16/expenseowl) - Extremely simple expense tracker with a beautiful UI. `MIT` `Go/Docker/K8S`
+
+### Software / Note-taking & Editors
+
+*   [Blinko](https://blinko.space/) - A personal note tool with AI features. ([Source Code (⭐3.1k)](https://github.com/blinko-space/blinko)) `AGPL-3.0` `Docker`
+
+### Software / Pastebins
+
+*   [Local Content Share (⭐179)](https://github.com/Tanq16/local-content-share) - Store and share text snippets and files within your local network. `MIT` `Docker/Go`
+
 ### Software / Personal Dashboards
 
 *   [Dashy](https://dashy.to/) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/), [Source Code (⭐20k)](https://github.com/lissy93/dashy)) `MIT` `Nodejs/Docker`
+
+### Software / Recipe Management
+
+*   [Fork Recipes](https://mikebgrep.github.io/forkapi/clients/) - Manage your food recipes with simplicity. ([Source Code (⭐46)](https://github.com/mikebgrep/fork.recipes)) `BSD-3-Clause` `Docker`
+
+### Software / Software Development - Feature Toggle
+
+*   [Featbit](https://www.featbit.co/) - Enterprise-grade feature flag platform that you can self-host. ([Source Code (⭐1.5k)](https://github.com/featbit/featbit)) `MIT` `Docker/K8S`
 
 ## [21. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 

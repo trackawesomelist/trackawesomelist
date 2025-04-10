@@ -615,7 +615,7 @@ See also [A comparison of operating systems written in Rust (⭐750)](https://gi
 *   [rustdesk/rustdesk (⭐85k)](https://github.com/rustdesk/rustdesk) - A remote desktop software, great alternative to TeamViewer and AnyDesk.
 *   [rustic-rs/rustic (⭐2.3k)](https://github.com/rustic-rs/rustic) \[[rustic-rs](https://crates.io/crates/rustic-rs)] - Fast, encrypted, deduplicated backups powered by Rust. [![Version](https://img.shields.io/crates/v/rustic-rs.svg)](https://crates.io/crates/rustic-rs)
 *   [sorairolake/qrtool (⭐182)](https://github.com/sorairolake/qrtool) \[[qrtool](https://crates.io/crates/qrtool)] - A utility for encoding and decoding QR code images. [![CI](https://github.com/sorairolake/qrtool/workflows/CI/badge.svg?branch=develop)](https://github.com/sorairolake/qrtool/actions?query=workflow%3ACI)
-*   [str4d/rage (⭐2.9k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐18k)](https://github.com/FiloSottile/age).
+*   [str4d/rage (⭐2.9k)](https://github.com/str4d/rage) \[[rage](https://crates.io/crates/rage)] - Rust implementation of [age (⭐19k)](https://github.com/FiloSottile/age).
 *   [suckit (⭐761)](https://github.com/Skallwar/suckit) - Recursively visit and download a website's content to your disk. [![Crate](https://img.shields.io/crates/v/suckit.svg?logo=rust)](https://crates.io/crates/suckit) [![Build Status](https://github.com/Skallwar/suckit/workflows/Build%20and%20test/badge.svg)](https://github.com/Skallwar/suckit/blob/master/.github/workflows/build_and_test.yml)
 *   [Tabiew (⭐883)](https://github.com/shshemi/tabiew) - A lightweight TUI app to view and query CSV files.
 *   [Tail Tales (⭐5)](https://github.com/davidmoreno/tailtales) - A TUI log viewer with logfmt support. [![Crate](https://img.shields.io/crates/v/tailtales.svg?logo=rust)](https://crates.io/crates/tailtales)
@@ -979,6 +979,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 *   [huggingface/tokenizers (⭐9.5k)](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
 *   [LaurentMazare/tch-rs (⭐4.7k)](https://github.com/LaurentMazare/tch-rs) - Bindings for PyTorch.
 *   [maciejkula/rustlearn (⭐632)](https://github.com/maciejkula/rustlearn) - Machine learning library. [![Circle CI](https://circleci.com/gh/maciejkula/rustlearn.svg?style=svg)](https://app.circleci.com/pipelines/github/maciejkula/rustlearn)
+*   [Mottl/lightgb3-rs (⭐24)](https://github.com/Mottl/lightgbm3-rs) - Bindings for LightGBM [![Crates.io](https://img.shields.io/crates/v/lightgbm3.svg)](https://crates.io/crates/lightgbm3) [![build](https://github.com/Mottl/lightgbm3-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/Mottl/lightgbm3-rs/actions)
 *   [perpetual-ml/perpetual (⭐453)](https://github.com/perpetual-ml/perpetual) \[[perpetual](https://crates.io/crates/perpetual)] - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization.
 *   [rust-ml/linfa (⭐4k)](https://github.com/rust-ml/linfa) - Machine learning framework.
 *   [smartcorelib/smartcore (⭐773)](https://github.com/smartcorelib/smartcore) - Machine Learning Library [![Build Status](https://img.shields.io/circleci/build/github/smartcorelib/smartcore)](https://smartcorelib.org/)
@@ -1618,7 +1619,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
     *   [gtk-rs/gtk4-rs (⭐2k)](https://github.com/gtk-rs/gtk4-rs) - GTK4 binding ![CI](https://github.com/gtk-rs/gtk4-rs/workflows/CI/badge.svg)
     *   [relm (⭐2.4k)](https://github.com/antoyo/relm) - Asynchronous, GTK+-based, GUI library, inspired by Elm
 *   [iced-rs/iced (⭐26k)](https://github.com/iced-rs/iced) \[[iced](https://crates.io/crates/iced)] - A cross-platform GUI library, focused on simplicity and type-safety. Inspired by Elm.
-*   [ImGui (⭐64k)](https://github.com/ocornut/imgui)
+*   [ImGui (⭐65k)](https://github.com/ocornut/imgui)
     *   [imgui-rs (⭐2.8k)](https://github.com/imgui-rs/imgui-rs) - Bindings for ImGui [![Build Status](https://github.com/imgui-rs/imgui-rs/workflows/ci/badge.svg?branch=master)](https://github.com/imgui-rs/imgui-rs/actions)
 *   [IUP](http://webserver2.tecgraf.puc-rio.br/iup/)
     *   [Kiss-ui (⭐343)](https://github.com/KISS-UI/kiss-ui) - A simple UI framework built on IUP
