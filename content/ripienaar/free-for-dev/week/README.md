@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
+
+### Storage and Media Processing
+
+*   [VaocherApp QR Code Generator](https://www.vaocherapp.com/qr-code-generator) – Easily create custom QR codes for gift cards, gift vouchers, and promotions. Support custom styling, color, logo...
+
 ## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
 ### APIs, Data, and ML
