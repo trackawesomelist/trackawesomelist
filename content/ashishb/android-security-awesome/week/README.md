@@ -8,6 +8,10 @@ A collection of android security related resources
 
 ## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
 
+### Tools / Reverse Engineering
+
+*   [odex-patcher (⭐84)](https://github.com/giacomoferretti/odex-patcher) - Run arbitrary code by patching OAT files
+
 ### Tools / Misc Tools
 
 *   [Firmware Extractor (⭐300)](https://github.com/AndroidDumps/Firmware_extractor) - Extract given archive to images

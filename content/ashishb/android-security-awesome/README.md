@@ -6,6 +6,12 @@ A collection of android security related resources
 
 [ Daily / [Weekly](/content/ashishb/android-security-awesome/week/README.md) / [Overview](/content/ashishb/android-security-awesome/readme/README.md) ]
 
+## [Apr 11, 2025](/content/2025/04/11/README.md)
+
+### Tools / Reverse Engineering
+
+*   [odex-patcher (⭐84)](https://github.com/giacomoferretti/odex-patcher) - Run arbitrary code by patching OAT files
+
 ## [Apr 08, 2025](/content/2025/04/08/README.md)
 
 ### Tools / Misc Tools

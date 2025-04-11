@@ -2086,6 +2086,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [eslint-plugin-rxjs-x (⭐24)](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) - A fork of [eslint-plugin-rxjs (⭐315)](https://github.com/cartant/eslint-plugin-rxjs) initially started to support the new ESLint flat config format that has since had numerous breaking changes and further improvements.
 *   [rxjs-common (⭐30)](https://github.com/paddls/rxjs-common) - A collection of useful RxJS operators.
 *   [fork-join-settled (⭐2)](https://github.com/DKozachenko/fork-join-settled) - RxJS library which is analog of [Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled) method.
+*   [rxjs-conduit (⭐1)](https://github.com/Fasteroid/rxjs-conduit) - RxJS ReplaySubjects with with additional features to make reactive programming easier.
 
 #### TypeScript
 

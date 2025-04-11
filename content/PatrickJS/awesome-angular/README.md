@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Apr 11, 2025](/content/2025/04/11/README.md)
+
+### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [rxjs-conduit (⭐1)](https://github.com/Fasteroid/rxjs-conduit) - RxJS ReplaySubjects with with additional features to make reactive programming easier.
+
 ## [Apr 10, 2025](/content/2025/04/10/README.md)
 
 ### Module Federation / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

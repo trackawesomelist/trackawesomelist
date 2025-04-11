@@ -50,6 +50,10 @@
 
 *   [easy-ngrx-distinct-selector (⭐2)](https://github.com/NGneers/easy-ngrx-distinct-selector) - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
 
+### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [rxjs-conduit (⭐1)](https://github.com/Fasteroid/rxjs-conduit) - RxJS ReplaySubjects with with additional features to make reactive programming easier.
+
 ## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
 ### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

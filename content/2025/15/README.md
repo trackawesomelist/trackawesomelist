@@ -194,6 +194,10 @@
 
 ## [11. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
+### Tools / Reverse Engineering
+
+*   [odex-patcher (⭐84)](https://github.com/giacomoferretti/odex-patcher) - Run arbitrary code by patching OAT files
+
 ### Tools / Misc Tools
 
 *   [Firmware Extractor (⭐300)](https://github.com/AndroidDumps/Firmware_extractor) - Extract given archive to images
@@ -405,6 +409,10 @@
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [easy-ngrx-distinct-selector (⭐2)](https://github.com/NGneers/easy-ngrx-distinct-selector) - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
+
+### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [rxjs-conduit (⭐1)](https://github.com/Fasteroid/rxjs-conduit) - RxJS ReplaySubjects with with additional features to make reactive programming easier.
 
 ---
 
