@@ -6,6 +6,66 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ [Daily](/content/ziadoz/awesome-php/README.md) / Weekly / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
+
+### Table of Contents / Content Management Systems (CMS)
+
+*   [Drupal](https://new.drupal.org/home) - An enterprise level CMS.
+
+### Table of Contents / Components
+
+*   [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
+
+### Table of Contents / Scraping
+
+*   [Embed (⭐2.1k)](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
+
+### Table of Contents / Email
+
+*   [SwiftMailer](https://swiftmailer.symfony.com/docs/introduction.html) - A mailer solution.
+
+### Table of Contents / Dependency Injection
+
+*   [Pimple (⭐2.6k)](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
+
+### Table of Contents / Continuous Integration
+
+*   [SemaphoreCI](https://semaphore.io/) - A continuous integration platform for open-source and private projects.
+
+### Table of Contents / Code Quality
+
+*   [CaptainHook (⭐1k)](https://github.com/captainhook-git/captainhook) - An easy-to-use and flexible Git hook library.
+
+### Table of Contents / Architectural
+
+*   [Finite (⭐1.3k)](https://github.com/yohang/Finite) - A simple PHP finite state machine.
+
+### Table of Contents / Date and Time
+
+*   [CalendR (⭐465)](https://github.com/yohang/CalendR) - A calendar management library.
+
+### Table of Contents / Strings
+
+*   [Url highlight (⭐97)](https://github.com/vstelmakh/url-highlight) - A library for parsing URLs from text and converting them into clickable links.
+
+### Configuration / LLMs
+
+*   [LLPhant (⭐1.1k)](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
+
+### Configuration / Development Environment
+
+*   [Ansible](https://www.redhat.com/en/ansible-collaborative) - A radically simple orchestration framework.
+*   [Expose (⭐4.4k)](https://github.com/exposedev/expose) - An open-source PHP tunneling service.
+*   [Laravel Herd](https://herd.laravel.com/windows) - A one click PHP development environment for macOS and Windows.
+
+### Configuration / Web Applications
+
+*   [Adminer](https://www.adminer.org/en/) - Database management in a single PHP file.
+
+### Configuration / PHP Conferences
+
+*   [PHP\[TEK\]](https://phptek.io/) - The longest-running web developer conference in the United States that has a focus on the PHP programming language.
+
 ## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
 ### Table of Contents / Middlewares
@@ -91,7 +151,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / Development Environment
 
-*   [Laravel Herd](https://herd.laravel.com/) - A one click PHP development environment for macOS and Windows.
 *   [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
 
 ## [Aug 05 - Aug 11, 2024](/content/2024/32/README.md)
@@ -99,7 +158,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Configuration / LLMs
 
 *   [Instructor for PHP (⭐248)](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
-*   [LLPhant (⭐1.1k)](https://github.com/theodo-group/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
 *   [OpenAI Client (⭐5.3k)](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 *   [OpenAI Client for Laravel (⭐3.2k)](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 *   [PHP Mistral AI SDK (⭐11)](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
@@ -188,7 +246,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Configuration / PHP Conferences
 
 *   [Laracon EU](https://www.youtube.com/@LaraconEU) - Laracon EU is a 2-day event for people who are interested in learning Laravel and related technologies, or who want to share their knowledge with others.
-*   [PHP\[TEK\]](https://tek.phparch.com/) - The longest-running web developer conference in the United States that has a focus on the PHP programming language.
 
 ### Configuration / PHP Podcasts
 
@@ -289,7 +346,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Continuous Integration
 
 *   [GitlabCi](https://about.gitlab.com/solutions/continuous-integration/) - Let GitLab CI test, build, deploy your code. TravisCi like.
-*   [SemaphoreCI](https://semaphoreci.com) - A continuous integration platform for open-source and private projects.
 *   [Travis CI](https://www.travis-ci.com) - A continuous integration platform.
 
 ### Table of Contents / Documentation
@@ -397,10 +453,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *   [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
 *   [Phake (⭐476)](https://github.com/phake/phake) - Another mock object library for testing.
 
-### Table of Contents / Continuous Integration
-
-*   [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/) - A Docker based continuous integration platform for open source and private projects.
-
 ### Table of Contents / Documentation
 
 *   [phpDox](https://phpdox.net/) - A documentation generator for PHP projects (that is not limited to API documentation).
@@ -464,7 +516,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / Web Applications
 
-*   [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 *   [Cachet (⭐14k)](https://github.com/cachethq/cachet) - The open source status page system.
 *   [Lychee (⭐6.3k)](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
 *   [PHP Queue (⭐664)](https://github.com/CoderKungfu/php-queue) - An application for managing queueing backends.
@@ -539,7 +590,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / Development Environment
 
-*   [Expose (⭐4.4k)](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
 *   [Lando](https://lando.dev/) - Push-button development environments.
 *   [Takeout (⭐1.6k)](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 
@@ -558,10 +608,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Dependency Management Extras
 
 *   [Composer Unused (⭐1.6k)](https://github.com/composer-unused/composer-unused) - A CLI Tool to scan for unused composer packages.
-
-### Table of Contents / Code Quality
-
-*   [CaptainHook (⭐1k)](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
 
 ## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
 
@@ -598,12 +644,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Testing
 
 *   [Faker (⭐3.7k)](https://github.com/fakerphp/faker) - A fake data generator library.
-
-## [Nov 09 - Nov 15, 2020](/content/2020/45/README.md)
-
-### Table of Contents / Components
-
-*   [Symfony Components](https://symfony.com/components) - The components that make Symfony.
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
@@ -954,14 +994,9 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Firegento](https://packages.firegento.com/) - Magento Module Composer Repository.
 
-### Table of Contents / Framework Extras
-
-*   [Knp RAD Components](https://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
-
 ### Table of Contents / Content Management Systems (CMS)
 
 *   [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
-*   [Drupal](https://www.drupal.org) - An enterprise level CMS.
 *   [Grav (⭐15k)](https://github.com/getgrav/grav) - A modern flat-file CMS.
 *   [Joomla](https://www.joomla.org/) - Another leading CMS.
 
@@ -1001,10 +1036,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [PHPCompatibility (⭐2.2k)](https://github.com/PHPCompatibility/PHPCompatibility) - A PHP compatibility checker for PHP CodeSniffer.
 
-### Table of Contents / Architectural
-
-*   [Finite](https://yohan.giarel.li/Finite/) - A simple PHP finite state machine.
-
 ### Table of Contents / Debugging and Profiling
 
 *   [APM](https://pecl.php.net/package/APM) - Monitoring extension collecting errors and statistics into SQLite/MySQL/StatsD.
@@ -1017,10 +1048,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Geolocation
 
 *   [GeoCoder](https://geocoder-php.org/) - A geocoding library.
-
-### Table of Contents / Date and Time
-
-*   [CalendR](https://yohan.giarel.li/CalendR/) - A calendar management library.
 
 ### Table of Contents / Queue
 
@@ -1184,14 +1211,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *   [Smarty](https://www.smarty.net/) - A template engine to complement PHP.
 *   [Twig](https://twig.symfony.com/) - A comprehensive templating language.
 
-### Table of Contents / Email
-
-*   [SwiftMailer](https://swiftmailer.symfony.com) - A mailer solution.
-
-### Table of Contents / Dependency Injection
-
-*   [Pimple](https://pimple.symfony.com/) - A tiny dependency injection container.
-
 ## [Jul 03 - Jul 09, 2017](/content/2017/27/README.md)
 
 ### Table of Contents / Command Line
@@ -1347,10 +1366,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 *   [Better Reflection (⭐1.2k)](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 
-### Configuration / PHP Podcasts
-
-*   [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with the people who make the PHP community special.
-
 ## [Oct 03 - Oct 09, 2016](/content/2016/40/README.md)
 
 ### Table of Contents / Caching and Locking
@@ -1452,7 +1467,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Scraping
 
-*   [Embed (⭐2.1k)](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
 *   [PHP Spider (⭐1.3k)](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 
 ### Table of Contents / URL
@@ -1703,10 +1717,6 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Data Structure and Storage
 
 *   [Ginq (⭐192)](https://github.com/akanehara/ginq) - Another PHP library based on .NET's LINQ.
-
-### Configuration / Development Environment
-
-*   [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
 
 ## [Jan 25 - Jan 31, 2016](/content/2016/4/README.md)
 

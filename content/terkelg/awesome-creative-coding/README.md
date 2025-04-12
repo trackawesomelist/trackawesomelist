@@ -6,6 +6,12 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 [ Daily / [Weekly](/content/terkelg/awesome-creative-coding/week/README.md) / [Overview](/content/terkelg/awesome-creative-coding/readme/README.md) ]
 
+## [Apr 12, 2025](/content/2025/04/12/README.md)
+
+### Frameworks • Libraries • Ecosystems
+
+*   [NAP](https://nap-framework.tech/) \[Cross-platform] - Open source data-driven real-time control & visualization platform suited for professional installations in C++, incl. Vulkan renderer.
+
 ## [Apr 01, 2025](/content/2025/04/01/README.md)
 
 ### Articles • Tutorials / Shaders • OpenGL • WebGL

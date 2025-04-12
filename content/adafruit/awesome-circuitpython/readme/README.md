@@ -2,7 +2,7 @@
 
 A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/adafruit/awesome-circuitpython/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) · ⭐ 620 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/adafruit/awesome-circuitpython/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) · ⭐ 665 · 🏷️ Programming Languages
 
 [ [Daily](/content/adafruit/awesome-circuitpython/README.md) / [Weekly](/content/adafruit/awesome-circuitpython/week/README.md) / Overview ]
 
@@ -27,6 +27,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 *   [CircuitPython.org](#circuitpythonorg)
 *   [Guides](#guides)
 *   [Community](#community)
+*   [Videos](#Video)
 *   [Books](#books)
 *   [Code](#code)
 *   [Frameworks](#frameworks)
@@ -61,6 +62,18 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 *   [MicroPython Slack](https://micropython.slack.com/) - a Slack channel for MicroPython users. You can get an invitation [here](https://slack-micropython.herokuapp.com/).
 *   [MicroPython Meetup](https://www.meetup.com/MicroPython-Meetup/) - online and in Melbourne, Australia once a month, and [Blog](https://melbournemicropythonmeetup.github.io/).
 
+## Video
+
+### Educational
+
+*   [CircuitPython School](https://www.youtube.com/playlist?list=PLBJJ76R_ry5T3X72OIDkMOXQIdmcvSkue) - lessons and projects in Professor John Gallaugher's course Physical Computing: Art, Robotics, and Tech for Good at Boston College.
+
+*   [CircuitPython Projects](https://www.youtube.com/playlist?list=PLBJJ76R_ry5Rz5YgfjpI4eCHmS5o5umL8) - fun maker, electronics programming, and robotics projects, all courtesy of Professor John Gallaugher, who teaches Physical Computing at Boston College.
+
+*   [CircuitPython Hardware Tutorials](https://www.youtube.com/playlist?list=PLRHdgFNRLyaN6eCw8b0yoHKDY9B4GiirU) - YouTube videos by educator Brogan M. Pratt.
+
+*   [How to Program a Robot in Python: Beginners Guide](https://www.youtube.com/playlist?list=PLRHdgFNRLyaOtopysljciT3-YzH858uDe) - YouTube videos by educator Brogan M. Pratt.
+
 ## Books
 
 *   [Getting started with Circuit Playground Express by Anne Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) (or purchase as part of your order from [the Adafruit store](https://www.adafruit.com/product/3944)) - Introduction and discussion of the Circuit Playground Express including programming via CircuitPython, MakeCode and Arduino.
@@ -76,25 +89,25 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 ## Code
 
-*   CircuitPython Board Software Versions: Select per board at [CircuitPython.org](https://circuitpython.org/downloads). The source for each is also on [GitHub (⭐4k)](https://github.com/adafruit/circuitpython/releases).
+*   CircuitPython Board Software Versions: Select per board at [CircuitPython.org](https://circuitpython.org/downloads). The source for each is also on [GitHub (⭐4.2k)](https://github.com/adafruit/circuitpython/releases).
 *   [CircuitPython API Reference](https://circuitpython.readthedocs.io/en/latest/README.html) - A list of functions and documentation available for CircuitPython.
 *   [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - Learning the essential functions of CircuitPython.
 *   [Circuit Playground Express CircuitPython API Reference](https://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython.
-*   [CircuitPython GitHub Repository (⭐4k)](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
-*   [Adafruit CircuitPython Libraries (⭐843)](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 150+ libraries available. More on Libraries on [CircuitPython.org](https://circuitpython.org/libraries).
-*   [CircuitPython Community Libraries (⭐164)](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/main/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
+*   [CircuitPython GitHub Repository (⭐4.2k)](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
+*   [Adafruit CircuitPython Libraries (⭐927)](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 150+ libraries available. More on Libraries on [CircuitPython.org](https://circuitpython.org/libraries).
+*   [CircuitPython Community Libraries (⭐180)](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/main/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
 *   [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board computers (SBC) running Linux.
-*   [Awesome List for the RP2040 Macropad (⭐243)](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
-*   [Tod Kurt's CircuitPython Tips and Tricks (⭐596)](https://github.com/todbot/circuitpython-tricks) - A collection of tips and tricks for CircuitPython. Also available as an Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
-*   [Tod Kurt's CircuitPython `synthio` Tips and Tricks (⭐60)](https://github.com/todbot/circuitpython-synthio-tricks) - More tips and tricks from Tod Kurt about CircuitPython's `synthio` library.
+*   [Awesome List for the RP2040 Macropad (⭐287)](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
+*   [Tod Kurt's CircuitPython Tips and Tricks (⭐680)](https://github.com/todbot/circuitpython-tricks) - A collection of tips and tricks for CircuitPython. Also available as an Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
+*   [Tod Kurt's CircuitPython `synthio` Tips and Tricks (⭐76)](https://github.com/todbot/circuitpython-synthio-tricks) - More tips and tricks from Tod Kurt about CircuitPython's `synthio` library.
 
 ## Frameworks
 
-*   [Glider: An app for editing Python on mobile devices wirelessly (⭐41)](https://github.com/adafruit/glider) - Also a [video](https://youtu.be/NYpcjDBA6xw), in development.
+*   [Glider: An app for editing Python on mobile devices wirelessly (⭐43)](https://github.com/adafruit/glider) - Also a [video](https://youtu.be/NYpcjDBA6xw), in development.
 *   [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - The recommended Python editor for CircuitPython.
 *   [For developers, Mu: A Python Code Editor](https://mu.readthedocs.io/en/latest/) - The documentation for Mu.
 *   [Using Microsoft VSCode for CircuitPython](https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/) - Blog post discussing the process.
-*   [A helper for CircuitPython development with Atom (⭐3)](https://github.com/s-light/CircuitPython_Atom_helper) - A helper for the [Atom editor](https://atom.io/).
+*   [A helper for CircuitPython development with Atom (⭐4)](https://github.com/s-light/CircuitPython_Atom_helper) - A helper for the [Atom editor](https://atom.io/).
 *   [Thonny, a Python IDE for beginners](https://thonny.org/) - An editor with support for CircuitPython and MicroPython.
 *   [Microsoft Device Simulator Express](https://marketplace.visualstudio.com/items?itemName=ms-python.devicesimulatorexpress) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code.
 *   [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/) - An in-browser editor designed especially for Chromebooks. Works on almost any computer that can run a Chromium-based browser.
@@ -120,11 +133,13 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 ## Newsletter
 
 *   [Adafruit Daily, Python for Microcontrollers](https://www.adafruitdaily.com/) - A weekly newsletter on MicroPython, CircuitPython, and Python on single-board computers (SBC). A spam-free list.
-*   [Contribute to newsletter (⭐60)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
+*   [Contribute to newsletter (⭐67)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
 *   [Archives of all newsletters](https://www.adafruitdaily.com/category/circuitpython/) - List of every newsletter published from the start, November 2016.
 *   [Python on Hardware weekly Videocast](http://adafru.it/pohepisodes) - Ladyada and PT review the highlights of the newsletter every week in this video series. The broadcast is also on [iTunes](https://podcasts.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
 
 ## News
+
+*   [The Past, Present, and Future of CircuitPython](https://hackaday.com/2023/08/01/the-past-present-and-future-of-circuitpython/) - Hackaday interviews Limor "Ladyada" Fried about CircuitPython, August, 2023.
 
 *   [CircuitPython on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/) - Adafruit Blog posts discussing CircuitPython.
 
@@ -269,7 +284,7 @@ The workflow is explained in detail here: [Adafruit : Contribute to CircuitPytho
 
 ### Contribution Workflow Overview
 
-1.  Fork [this repository (⭐620)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
+1.  Fork [this repository (⭐665)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
 2.  Clone the forked repo to your drive.
 3.  Add a remote using owner adafruit and the original URL.
 4.  Fetch the remote.
@@ -288,5 +303,5 @@ Questions? We're happy to [help you to contribute on Discord](https://discord.co
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Last updated: March 6, 2024
+Last updated: April 11, 2025
 
