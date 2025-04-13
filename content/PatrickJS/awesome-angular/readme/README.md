@@ -801,6 +801,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-kel-agent (⭐1)](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent (⭐9)](https://github.com/k0swe/kel-agent).
 *   [foblex2D (⭐4)](https://github.com/siarheihuzarevich/foblex2D) - An Angular library for 2D geometric computations, providing classes and utilities for manipulating points, lines, vectors, rectangles, arcs, and transformations. Used in [Foblex Flow](https://flow.foblex.com/) for 2D geometric operations.
 *   [ngx-d3 (⭐1)](https://github.com/simonegosetto/ngx-d3) - A [D3](https://d3js.org/) wrapper service for Angular applications inspired by [d3-ng2-service (⭐206)](https://github.com/tomwanzek/d3-ng2-service).
+*   [@elastic/apm-rum-angular](https://www.npmjs.com/package/@elastic/apm-rum-angular) - Elastic APM Real User Monitoring for Angular applications.
 
 #### Internationalization
 
@@ -1576,6 +1577,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-loading-overlay (⭐1)](https://github.com/shaman-apprentice/ngx-loading-overlay) - An Angular directive adding a loading overlay to your HTML.
 *   [square-progress (⭐3)](https://github.com/mominrazashahid/square-progress) - Square progress bar with animation.
 *   [ng-loading-skeleton (⭐3)](https://github.com/arbrim/ng-loading-skeleton) - A lightweight and customizable Angular loading skeleton component.
+*   [groupix-spinner-library (⭐1)](https://github.com/ArshdeepGrover/groupix-spinner-library) - A lightweight Angular spinner library for seamless loading animations!
 
 #### Loggers
 
@@ -1941,6 +1943,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-material-auth (⭐4)](https://github.com/Service-Soft/ngx-material-auth) - A library for Angular which provides functionality around the frontend part of authentication and authorization.
 *   [ngx-material-navigation (⭐3)](https://github.com/Service-Soft/ngx-material-navigation) - Builds material navigation elements like a combined navbar and sidenav or footers based on the supplied configuration data. Will automatically move elements from the navbar to the sidenav at the provided breakpoints.
 *   [ngx-material-entity (⭐2)](https://github.com/Service-Soft/ngx-material-entity) - With `NgxMaterialEntity` you can create entities and define how to display them directly on their properties. It can even generate complete and highly customizable CRUD-Tables.
+*   [ngx-core-business (⭐1)](https://github.com/jxcodes/ngx-core-business) - An Angular library in active development, built on top of `@angular/material`. It aims to provide reusable, enterprise-grade UI components and utilities to streamline the development of scalable Angular applications.
 
 ##### Bootstrap Based
 

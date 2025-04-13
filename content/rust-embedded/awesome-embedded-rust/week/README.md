@@ -6,6 +6,14 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 [ [Daily](/content/rust-embedded/awesome-embedded-rust/README.md) / Weekly / [Overview](/content/rust-embedded/awesome-embedded-rust/readme/README.md) ]
 
+## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
+
+### no-std crates / WIP
+
+*   [arbitrary-int](https://crates.io/crates/arbitrary-int): This crate implements arbitrary numbers for Rust. Once included, you can use types like `u5` or `u120`
+*   [bitbybit](https://crates.io/crates/bitbybit): macros that create bit fields and bit enums, which are useful in bit packing code (e.g. in drivers or networking code)
+*   [bitfield-struct](https://crates.io/crates/bitfield-struct): Procedural macro for bitfields that allows specifying bitfields as structs
+
 ## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
 ### Real-time / Real-time Operating System (RTOS)
@@ -139,7 +147,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [wtx (⭐265)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
+*   [wtx (⭐270)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 

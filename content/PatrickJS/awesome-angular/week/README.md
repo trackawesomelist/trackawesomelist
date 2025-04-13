@@ -12,6 +12,10 @@
 
 *   [ng-httpclient-easy-network-stub (⭐6)](https://github.com/NGneers/ng-httpclient-easy-network-stub) - An easy class to mock a lot of network requests from the Angular HttpClient.
 
+### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@elastic/apm-rum-angular](https://www.npmjs.com/package/@elastic/apm-rum-angular) - Elastic APM Real User Monitoring for Angular applications.
+
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [signal-translate (⭐2)](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
@@ -44,6 +48,10 @@
 
 *   [static-columns (⭐0)](https://github.com/darekf77/static-columns) - Define columns with static width with Angular and FlexBox.
 
+### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [groupix-spinner-library (⭐1)](https://github.com/ArshdeepGrover/groupix-spinner-library) - A lightweight Angular spinner library for seamless loading animations!
+
 ### Media / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@poseclop/ngx-video-player](https://www.npmjs.com/package/@poseclop/ngx-video-player) - A lightweight video player component that emulates YouTube.
@@ -62,6 +70,10 @@
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [easy-ngrx-distinct-selector (⭐2)](https://github.com/NGneers/easy-ngrx-distinct-selector) - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
+
+### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-core-business (⭐1)](https://github.com/jxcodes/ngx-core-business) - An Angular library in active development, built on top of `@angular/material`. It aims to provide reusable, enterprise-grade UI components and utilities to streamline the development of scalable Angular applications.
 
 ### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

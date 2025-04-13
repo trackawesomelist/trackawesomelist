@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Apr 13, 2025](/content/2025/04/13/README.md)
+
+### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@elastic/apm-rum-angular](https://www.npmjs.com/package/@elastic/apm-rum-angular) - Elastic APM Real User Monitoring for Angular applications.
+
+### Loaders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [groupix-spinner-library (⭐1)](https://github.com/ArshdeepGrover/groupix-spinner-library) - A lightweight Angular spinner library for seamless loading animations!
+
+### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-core-business (⭐1)](https://github.com/jxcodes/ngx-core-business) - An Angular library in active development, built on top of `@angular/material`. It aims to provide reusable, enterprise-grade UI components and utilities to streamline the development of scalable Angular applications.
+
 ## [Apr 12, 2025](/content/2025/04/12/README.md)
 
 ### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
