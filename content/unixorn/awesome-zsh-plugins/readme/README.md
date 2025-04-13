@@ -964,6 +964,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [direnv (⭐16)](https://github.com/ptavares/zsh-direnv) - A plugin for installing and loading [direnv](https://github.com/direnv/direnv.git). Inspired by [zsh-pyenv (⭐47)](https://github.com/mattberther/zsh-pyenv).
 *   [dirrc (⭐28)](https://github.com/gmatheu/shell-plugins) - Executes `.dirc` when present in a directory you `cd` into.
 *   [dirstack (⭐2)](https://github.com/gepoch/oh-my-zsh-dirstack) - Plugin for displaying the dirstack info on a single line.
+*   [diskfree (⭐0)](https://github.com/alex-crouch/zsh-diskfree/) - Displays the free space on your disk in your prompt.
 *   [doas (anatolykopyl) (⭐6)](https://github.com/anatolykopyl/doas-zsh-plugin) - Easily prefix your current or previous commands with `doas` by pressing `ESC` twice.
 *   [doas (senderman) (⭐3)](https://github.com/Senderman/doas-zsh-plugin) - Easily prefix your current or previous commands with `doas` by pressing `ESC` twice.
 *   [docker-aliases (⭐8)](https://github.com/webyneter/docker-aliases) - `Docker` aliases for everyday use.
@@ -1210,6 +1211,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [kctl (⭐3)](https://github.com/yzdann/kctl) - Add helper aliases for `kubectl`.
 *   [kill-node (⭐7)](https://github.com/vmattos/kill-node) - ZSH plugin for murdering `node` process families.
 *   [kitsunebook (⭐0)](https://github.com/d12frosted/kitsunebook.plugin.zsh) - KitsuneBook plugin for [oh-my-zsh](https://ohmyz.sh).
+*   [kittyback (⭐0)](https://github.com/pickle-slime/kittyback) - Automatically updates and modifies the background image for the `kitty` terminal emulator.
 *   [kiwi (⭐0)](https://github.com/fruitydog/kiwi.zsh-theme) - Dog-themed, includes `git` status and last command exit status decorators.
 *   [konsole-theme-changer (⭐2)](https://github.com/rocknrollMarc/zsh-konsole-theme-changer) - Toggle konsole theme from ZSH.
 *   [kube-aliases (⭐119)](https://github.com/Dbz/kube-aliases) - Adds functions and aliases to make working with `kubectl` more pleasant.
@@ -1359,7 +1361,8 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [per-directory-history (⭐323)](https://github.com/jimhester/per-directory-history) - Per directory history for ZSH, as well as global history, and the ability to toggle between them with `^G`.
 *   [percol (⭐9)](https://github.com/robturtle/percol.plugin.zsh) - Interactively and incrementally search history/resume background jobs using [percol (⭐3.3k)](https://github.com/mooz/percol).
 *   [perlbrew (⭐1)](https://github.com/tfiala/zsh-perlbrew/) - Installs [perlbrew](https://perlbrew.pl/) if not already installed and initializes it for your shell.
-*   [pew (⭐2)](https://github.com/shosca/zsh-pew) - Sets up and manages Python virtualenvs using [pew (⭐1.2k)](https://github.com/berdario/pew), automatically switches virtualenvs as you move directories.
+*   [pet (⭐0)](https://github.com/ppcamp/zsh-pet) - Adds support for [pet (⭐4.8k)](https://github.com/knqyf263/pet).
+*   [pew (⭐2)](https://github.com/shosca/zsh-pew) - Sets up and manages Python virtualenvs using [pew (⭐1.2k)](https://github.com/berdario/pew) and automatically switches virtualenvs as you move directories.
 *   [pg (⭐18)](https://github.com/caarlos0-graveyard/zsh-pg) - Adds utility functions to work with [PostgreSQL](https://www.postgresql.org/).
 *   [pgconnect (⭐2)](https://github.com/ruslan-korneev/pgconnect-zsh) - Provides an easy way to manage and connect to PostgreSQL databases using `pgcli` and [fzf (⭐69k)](https://github.com/junegunn/fzf) for a seamless command-line experience.
 *   [ph-marks (⭐11)](https://github.com/lainiwa/ph-marks) - Bookmark pornhub videos from your terminal.

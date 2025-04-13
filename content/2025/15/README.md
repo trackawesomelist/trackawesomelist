@@ -375,6 +375,12 @@
 
 *   [ZSH Setup by Easy-Cloud-in (⭐2)](https://github.com/Easy-Cloud-in/zsh-setup) - A powerful Zsh environment setup with Oh My Posh themes, essential plugins, and advanced search capabilities. This repository provides scripts to automatically configure your terminal with modern features and aesthetics. Requires a Debian or Ubuntu based system.
 
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [diskfree (⭐0)](https://github.com/alex-crouch/zsh-diskfree/) - Displays the free space on your disk in your prompt.
+*   [kittyback (⭐0)](https://github.com/pickle-slime/kittyback) - Automatically updates and modifies the background image for the `kitty` terminal emulator.
+*   [pet (⭐0)](https://github.com/ppcamp/zsh-pet) - Adds support for [pet (⭐4.8k)](https://github.com/knqyf263/pet).
+
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [fzf-rg (⭐0)](https://github.com/ppcamp/zsh-fzf-rg) - Add some functionalities to terminal using [fzf (⭐69k)](https://github.com/junegunn/fzf), [bat (⭐52k)](https://github.com/sharkdp/bat) and [ripgrep (⭐52k)](https://github.com/BurntSushi/ripgrep).

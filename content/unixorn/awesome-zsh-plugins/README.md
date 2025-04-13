@@ -6,6 +6,14 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ Daily / [Weekly](/content/unixorn/awesome-zsh-plugins/week/README.md) / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Apr 13, 2025](/content/2025/04/13/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [diskfree (⭐0)](https://github.com/alex-crouch/zsh-diskfree/) - Displays the free space on your disk in your prompt.
+*   [kittyback (⭐0)](https://github.com/pickle-slime/kittyback) - Automatically updates and modifies the background image for the `kitty` terminal emulator.
+*   [pet (⭐0)](https://github.com/ppcamp/zsh-pet) - Adds support for [pet (⭐4.8k)](https://github.com/knqyf263/pet).
+
 ## [Apr 11, 2025](/content/2025/04/11/README.md)
 
 ### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
@@ -3850,7 +3858,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [per-directory-history (⭐323)](https://github.com/jimhester/per-directory-history) - Per directory history for ZSH, as well as global history, and the ability to toggle between them with `^G`.
 *   [percol (⭐9)](https://github.com/robturtle/percol.plugin.zsh) - Interactively and incrementally search history/resume background jobs using [percol (⭐3.3k)](https://github.com/mooz/percol).
 *   [perlbrew (⭐1)](https://github.com/tfiala/zsh-perlbrew/) - Installs [perlbrew](https://perlbrew.pl/) if not already installed and initializes it for your shell.
-*   [pew (⭐2)](https://github.com/shosca/zsh-pew) - Sets up and manages Python virtualenvs using [pew (⭐1.2k)](https://github.com/berdario/pew), automatically switches virtualenvs as you move directories.
+*   [pew (⭐2)](https://github.com/shosca/zsh-pew) - Sets up and manages Python virtualenvs using [pew (⭐1.2k)](https://github.com/berdario/pew) and automatically switches virtualenvs as you move directories.
 *   [pg (⭐18)](https://github.com/caarlos0-graveyard/zsh-pg) - Adds utility functions to work with [PostgreSQL](https://www.postgresql.org/).
 *   [ph-marks (⭐11)](https://github.com/lainiwa/ph-marks) - Bookmark pornhub videos from your terminal.
 *   [php-version-rcfile-switcher (⭐6)](https://github.com/xellos866/php-version_rcfile-switcher) - Automatically switch between php versions using [php-version (⭐678)](https://github.com/wilmoore/php-version) if an rc-file is present in a directory.

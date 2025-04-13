@@ -1,18 +1,26 @@
 # Awesome List Updates on Apr 13, 2025
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [1. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [diskfree (⭐0)](https://github.com/alex-crouch/zsh-diskfree/) - Displays the free space on your disk in your prompt.
+*   [kittyback (⭐0)](https://github.com/pickle-slime/kittyback) - Automatically updates and modifies the background image for the `kitty` terminal emulator.
+*   [pet (⭐0)](https://github.com/ppcamp/zsh-pet) - Adds support for [pet (⭐4.8k)](https://github.com/knqyf263/pet).
+
+## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
 *   [evosec/keycloak-ipaddress-authenticator (⭐27)](https://github.com/evosec/keycloak-ipaddress-authenticator)
 
-## [2. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+## [3. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ### no-std crates / WIP
 
@@ -20,13 +28,13 @@
 *   [bitbybit](https://crates.io/crates/bitbybit): macros that create bit fields and bit enums, which are useful in bit packing code (e.g. in drivers or networking code)
 *   [bitfield-struct](https://crates.io/crates/bitfield-struct): Procedural macro for bitfields that allows specifying bitfields as structs
 
-## [3. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+## [4. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ### Examples
 
 *   [yvann-ba/ft\_transcendence (⭐1)](https://github.com/yvann-ba/ft_transcendence#readme) - Minimalist Project banner, clear GIF gallery in table layout. Colorful architecture diagram. Clear tech stack description. Team section with contributor avatars.
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -40,13 +48,13 @@
 
 *   [ngx-core-business (⭐1)](https://github.com/jxcodes/ngx-core-business) - An Angular library in active development, built on top of `@angular/material`. It aims to provide reusable, enterprise-grade UI components and utilities to streamline the development of scalable Angular applications.
 
-## [5. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+## [6. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
 
 ### LLMs
 
 *   🌟 [AI Hedge Fund (⭐21k)](https://github.com/virattt/ai-hedge-fund) - Explore the use of AI to make trading decisions.
 
-## [6. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
+## [7. Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md)
 
 ### C++ / General-Purpose Machine Learning
 

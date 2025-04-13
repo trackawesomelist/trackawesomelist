@@ -77,6 +77,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [evosec/keycloak-ipaddress-authenticator (⭐27)](https://github.com/evosec/keycloak-ipaddress-authenticator)
 
+#### [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [diskfree (⭐0)](https://github.com/alex-crouch/zsh-diskfree/) - Displays the free space on your disk in your prompt.
+*   [kittyback (⭐0)](https://github.com/pickle-slime/kittyback) - Automatically updates and modifies the background image for the `kitty` terminal emulator.
+*   [pet (⭐0)](https://github.com/ppcamp/zsh-pet) - Adds support for [pet (⭐4.8k)](https://github.com/knqyf263/pet).
+
 ### [Apr 12, 2025](/content/2025/04/12/README.md)
 
 
@@ -198,36 +206,36 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [odex-patcher (⭐84)](https://github.com/giacomoferretti/odex-patcher) - Run arbitrary code by patching OAT files
 
-#### [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
-
-##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [kerneldiego (⭐2)](https://github.com/KernelDiego/kerneldiego-zsh-theme) - A minimal and informative Zsh theme with a clean box-style layout, Git integration, and colorful prompt indicators for productivity and visual clarity.
-
-#### [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+#### [2. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ##### AI / Playground
 
 *   :octocat: [MastraAI (⭐12k)](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.
 
-#### [4. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+#### [3. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ##### Libraries
 
 *   [LAStools](https://rapidlasso.de/lastools/) - C++ library and command-line tools for pointcloud processing and data compressing.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐962)](https://github.com/LAStools/LAStools)
 
-#### [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Storage and Media Processing
 
 *   [VaocherApp QR Code Generator](https://www.vaocherapp.com/qr-code-generator) – Easily create custom QR codes for gift cards, gift vouchers, and promotions. Support custom styling, color, logo...
 
-#### [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [rxjs-conduit (⭐1)](https://github.com/Fasteroid/rxjs-conduit) - RxJS ReplaySubjects with with additional features to make reactive programming easier.
+
+#### [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+##### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [kerneldiego (⭐2)](https://github.com/KernelDiego/kerneldiego-zsh-theme) - A minimal and informative Zsh theme with a clean box-style layout, Git integration, and colorful prompt indicators for productivity and visual clarity.
 
 ---
 
@@ -236,7 +244,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ## Top 50 Awesome List
 
 1. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 355K 📝 04&#x2F;08 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
-2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 223K 📝 04&#x2F;10 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 224K 📝 04&#x2F;10 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 93K 📝 04&#x2F;11 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 4. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 68K 📝 04&#x2F;13 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
 5. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 04&#x2F;09 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
@@ -247,9 +255,9 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 10. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 82K 📝 03&#x2F;30 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 11. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 19K 📝 04&#x2F;13 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
 12. [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 28K 📝 04&#x2F;08 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
-13. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 21K 📝 04&#x2F;10 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
-14. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 20K 📝 04&#x2F;09 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
-15. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 16K 📝 04&#x2F;11 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+13. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 16K 📝 04&#x2F;13 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+14. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 21K 📝 04&#x2F;10 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
+15. [Awesome Quant](/content/wilsonfreitas/awesome-quant/README.md) - ([Source ⭐ 20K 📝 04&#x2F;09 ](https://github.com/wilsonfreitas/awesome-quant)) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 16. [Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md) - ([Source ⭐ 13K 📝 04&#x2F;12 ](https://github.com/terkelg/awesome-creative-coding)) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 17. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 17K 📝 04&#x2F;09 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
 18. [Free Programming Books (English, By Programming Language)](/content/EbookFoundation/free-programming-books/README.md) - ([Source ⭐ 352K 📝 03&#x2F;09 ](https://github.com/EbookFoundation/free-programming-books)) - :books: Freely available programming books
@@ -484,7 +492,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/README.md) - ([Source ⭐ 28K, 📝 04&#x2F;08 ](https://github.com/awesome-foss/awesome-sysadmin)) - A curated list of amazingly awesome open-source sysadmin resources.
 - [Awesome Tmux](/content/rothgar/awesome-tmux/README.md) - ([Source ⭐ 8.2K, 📝 03&#x2F;11 ](https://github.com/rothgar/awesome-tmux)) - A list of awesome resources for tmux
 - [Awesome WSL](/content/sirredbeard/Awesome-WSL/README.md) - ([Source ⭐ 5.3K, 📝 24&#x2F;04&#x2F;02 ](https://github.com/sirredbeard/Awesome-WSL)) - Awesome list dedicated to Windows Subsystem for Linux
-- [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 16K, 📝 04&#x2F;11 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+- [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 16K, 📝 04&#x2F;13 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [awsm.fish](/content/jorgebucaran/awsm.fish/README.md) - ([Source ⭐ 4K, 📝 24&#x2F;05&#x2F;11 ](https://github.com/jorgebucaran/awsm.fish)) - A curation of prompts, plugins & other Fish treasures 🐚💎
 - [FOSS for Dev](/content/tvvocold/FOSS-for-Dev/README.md) - ([Source ⭐ 965, 📝 24&#x2F;02&#x2F;02 ](https://github.com/tvvocold/FOSS-for-Dev)) - A hub of Free and open-source software for developers
 - [Git Cheat Sheet](/content/arslanbilal/git-cheat-sheet/README.md) - ([Source ⭐ 6.6K, 📝 18&#x2F;09&#x2F;29 ](https://github.com/arslanbilal/git-cheat-sheet)) - :octocat: git and git flow cheat sheet
@@ -683,7 +691,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Audiovisual](/content/stingalleman/awesome-audiovisual/README.md) - ([Source ⭐ 169, 📝 24&#x2F;07&#x2F;07 ](https://github.com/stingalleman/awesome-audiovisual)) - Curated list of audiovisual projects
 - [Awesome Broadcasting](/content/ebu/awesome-broadcasting/README.md) - ([Source ⭐ 1.5K, 📝 03&#x2F;26 ](https://github.com/ebu/awesome-broadcasting)) - A curated list of amazingly awesome open source resources related to broadcast technologies
 - [Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/README.md) - ([Source ⭐ 781, 📝 20&#x2F;04&#x2F;22 ](https://github.com/transitive-bullshit/awesome-ffmpeg)) - 👻 A curated list of awesome FFmpeg resources.
-- [Awesome Fonts](/content/brabadu/awesome-fonts/README.md) - ([Source ⭐ 1.6K, 📝 03&#x2F;12 ](https://github.com/brabadu/awesome-fonts)) - Curated list of fonts and everything
+- [Awesome Fonts](/content/brabadu/awesome-fonts/README.md) - ([Source ⭐ 1.7K, 📝 03&#x2F;12 ](https://github.com/brabadu/awesome-fonts)) - Curated list of fonts and everything
 - [Awesome Gif](/content/davisonio/awesome-gif/README.md) - ([Source ⭐ 547, 📝 23&#x2F;03&#x2F;14 ](https://github.com/davisonio/awesome-gif)) - A curated list of awesome GIF resources.
 - [Awesome Icons](/content/notlmn/awesome-icons/README.md) - ([Source ⭐ 765, 📝 24&#x2F;11&#x2F;12 ](https://github.com/notlmn/awesome-icons)) - A curated list of awesome downloadable SVG/PNG/Font icon projects
 - [Awesome Music](/content/ciconia/awesome-music/README.md) - ([Source ⭐ 2K, 📝 02&#x2F;18 ](https://github.com/ciconia/awesome-music)) - Awesome Music Projects
@@ -806,7 +814,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/README.md) - ([Source ⭐ 1.3K, 📝 24&#x2F;12&#x2F;11 ](https://github.com/nschloe/awesome-scientific-computing)) - :sunglasses: Curated list of awesome software for numerical analysis and scientific computing
 - [Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/README.md) - ([Source ⭐ 724, 📝 24&#x2F;07&#x2F;07 ](https://github.com/writing-resources/awesome-scientific-writing)) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX 
 - [Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/README.md) - ([Source ⭐ 1.3K, 📝 01&#x2F;22 ](https://github.com/dersvenhesse/awesome-scriptable)) - A curated list of awesome Scriptable scripts and widgets.
-- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 223K, 📝 04&#x2F;10 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 224K, 📝 04&#x2F;10 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 1.8K, 📝 23&#x2F;05&#x2F;03 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
 - [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 481, 📝 24&#x2F;05&#x2F;12 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!
