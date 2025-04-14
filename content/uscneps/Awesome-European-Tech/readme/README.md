@@ -83,6 +83,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Hardware](#hardware)
 *   [Human Resources](#human-resources)
 *   [IDEs](#ides)
+*   [Identity and Access Management (IAM)](#identity-and-access-management-iam)
 *   [Mail Providers](#mail-providers)
 *   [Marketing Tools](#marketing-tools)
 *   [Music and Travel](#music-and-travel)
@@ -304,6 +305,12 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 *   [TalentoHQ](https://talentohq.com/) 🇪🇸 - Talent management and human resources solution.
 *   [Bordful](https://bordful.com) 🇱🇹 - Open source job board software built with Next.js and Airtable.
+
+### Identity and Access Management (IAM)
+
+*   [Quasr](https://quasr.io/) 🇧🇪 - User-centric CIAM platform for developers.
+*   [Ory](https://www.ory.sh/) 🇩🇪 - Company developing (C)IAM, OpenID Connect provider, and fine-grained permissions open source solutions.
+*   [Zitadel](https://zitadel.com/) 🇨🇭 - Open-source identity and access management infrastructure.
 
 ### IDEs
 

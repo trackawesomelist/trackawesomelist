@@ -6,6 +6,14 @@ An up-to-date, community-driven list of awesome European tech alternatives!  all
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [Apr 14, 2025](/content/2025/04/14/README.md)
+
+### Index / Identity and Access Management (IAM)
+
+*   [Quasr](https://quasr.io/) 🇧🇪 - User-centric CIAM platform for developers.
+*   [Ory](https://www.ory.sh/) 🇩🇪 - Company developing (C)IAM, OpenID Connect provider, and fine-grained permissions open source solutions.
+*   [Zitadel](https://zitadel.com/) 🇨🇭 - Open-source identity and access management infrastructure.
+
 ## [Apr 02, 2025](/content/2025/04/02/README.md)
 
 ### Index / Cloud
