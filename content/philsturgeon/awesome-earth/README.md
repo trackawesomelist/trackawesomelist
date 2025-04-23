@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/philsturgeon/awesome-earth/week/README.md) / [Overview](/content/philsturgeon/awesome-earth/readme/README.md) ]
 
+## [Apr 23, 2025](/content/2025/04/23/README.md)
+
+### Development
+
+*   [Step CI](https://docs.stepci.com/guides/co2-testing.html) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec. It lets you calculate carbon emissions of your API calls.
+
+### Volunteering
+
+*   [Earth Hero Climate Action App](https://www.earthhero.org/get-involved/) - Join the volunteer team behind the free climate action app that makes it easy for people to act on climate change. Made up of developers, designers, researchers, writers, marketers, translators, and project managers from around the world.
+
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
 ### Clothing
@@ -104,7 +114,7 @@
 
 ### Jobs
 
-*   [awesome-sustainability-jobs (⭐480)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
+*   [awesome-sustainability-jobs (⭐488)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
 
 ## [Apr 06, 2021](/content/2021/04/06/README.md)
 
@@ -324,7 +334,7 @@
 
 *   [MakeSense Jobs](https://jobs.makesense.org) - Makesense inspires and empowers citizens, entrepreneurs and organizations to build an inclusive and sustainable society together. MakeSense's Job and assignment announcements platform for associations and social entrepreneurs who recruit profiles passionate about the impact. Job types include internship, freelance, civic service, partner, program, volunteer mission, mentoring.
 *   [Clean Trails](https://www.cleantrails.org/join) - Step by step, and little by little, our aim is to eliminate waste on all the trails that grace our public lands. We believe we can do that in a positive and proactive manner by educating, encouraging, and reconnecting outdoor users to our pristine places.
-*   [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions. Help discover how the climate could look by running software on your computer.
+*   [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions.  Help discover how the climate could look by running software on your computer.
 
 ### Jobs
 
@@ -514,7 +524,7 @@
 *   [CarbonFund.org](https://carbonfund.org/) - Calculate your footprint based on flights, driving, shipping, and make tax-deductible donations to offset your emissions.
 *   [Emitwise](https://www.emitwise.com/) - The Emitwise Reportwise tool calculates company level GHG emissions in line with the GHG Protocol for scope 1 and 2 emissions. Primarily targeting the UK but would also be useful for other countries.
 *   [Plan A](https://plana.earth/) - Software that helps your business calculate, monitor and reduce its carbon footprint. Our platform allows you to track your carbon footprint monthly and learn how to reduce it with the support of a custom sustainability action plan, automatically created based on your worst-performing indicators.
-*   [Protea OSS Carbon Footprint (⭐38)](https://github.com/protea-earth/carbon_footprint) - Open source carbon footprint calculator, the only emissions calculator to use a command line interface.
+*   [Protea OSS Carbon Footprint (⭐39)](https://github.com/protea-earth/carbon_footprint) - Open source carbon footprint calculator, the only emissions calculator to use a command line interface.
 *   [The US EPA's Carbon Footprint Calculator](https://www3.epa.gov/carbon-footprint-calculator/) - The calculator estimates your footprint in three areas- home energy, transportation and waste. Everyone's carbon footprint is different depending on their location, habits, and personal choices.
 *   [WWF UK Calculator](https://footprint.wwf.org.uk/) - The planet is in crisis - from climate change to the pollution in our oceans and devastation of our forests. It's up to all of us to fix it. Take your first step with our environmental footprint calculator.
 *   [atmosfair](https://www.atmosfair.de/) - Calculate the footprint for flights and buy compensation or donate to offset any number of carbon emissions. Tax-deductible in Germany.

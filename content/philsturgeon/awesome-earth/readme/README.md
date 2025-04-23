@@ -20,6 +20,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 *   [Clothing](#clothing)
 *   [Consumer Products](#consumer-products)
 *   [Cooking](#cooking)
+*   [Development](#development)
 *   [Documentaries](#documentaries)
 *   [Finance](#finance)
 *   [Food](#food)
@@ -118,6 +119,10 @@ The world is simultaneously underwater and on fire, and people want to know what
 *   [Preserve Extra Food With A Solar Dehydrator](https://www.motherearthnews.com/diy/tools/solar-food-dehydrator-plans-zm0z14jjzmar) - A solar food dehydrator is a device that removes moisture from food to aid in its preservation. You can [buy a simple one](https://www.kickstarter.com/projects/mixedmediaeng/dryceratop-solar-food-dehydrator-for-mason-jars/description) or make your own. Food drying is a method of preserving fruit, vegetables, and animal proteins that has been practiced since antiquity.
 *   [Sun Oven](https://www.sunoven.com) - Insulated solar oven that can cook food just like a regular oven.
 
+## Development
+
+*   [Step CI](https://docs.stepci.com/guides/co2-testing.html) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec. It lets you calculate carbon emissions of your API calls.
+
 ## Documentaries
 
 *   [Artifishial](https://www.patagonia.com/artifishal.html) - Artifishal is a film about people, rivers, and the fight for the future of wild fish and the environment that supports them. It explores wild salmon’s slide toward extinction, threats posed by fish hatcheries and fish farms, and our continued loss of faith in nature.
@@ -199,7 +204,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 *   [Joro](https://www.joro.tech/) - Effortlessly track your personal carbon footprint by securely connecting your credit and debit cards. Joro combines financial data and academic datasets to develop real-time carbon footprint estimates. The bank integration uses Plaid, and is US only for now, but has plans to roll out to Europe. Sign up to the newsletter to find out.
 *   [MyClimate](https://myclimate.org/) - Helping reduce emissions through a whole bunch of different projects, from consulting companies on their footprint (and helping them to reduce), to education at schools, forest restoration, providing people in Rwanda with efficient cook stoves, and [a whole bunch more](https://www.myclimate.org/information/climate-protection-projects/). Fund them via donations, and use their flight/car/house/company footprint calculators.
 *   [Plan A](https://plana.earth/) - Software that helps your business calculate, monitor and reduce its carbon footprint. Our platform allows you to track your carbon footprint monthly and learn how to reduce it with the support of a custom sustainability action plan, automatically created based on your worst-performing indicators.
-*   [Protea OSS Carbon Footprint (⭐38)](https://github.com/protea-earth/carbon_footprint) - Open source carbon footprint calculator, the only emissions calculator to use a command line interface.
+*   [Protea OSS Carbon Footprint (⭐39)](https://github.com/protea-earth/carbon_footprint) - Open source carbon footprint calculator, the only emissions calculator to use a command line interface.
 *   [The US EPA's Carbon Footprint Calculator](https://www3.epa.gov/carbon-footprint-calculator/) - The calculator estimates your footprint in three areas- home energy, transportation and waste. Everyone's carbon footprint is different depending on their location, habits, and personal choices.
 *   [WWF UK Calculator](https://footprint.wwf.org.uk/) - The planet is in crisis - from climate change to the pollution in our oceans and devastation of our forests. It's up to all of us to fix it. Take your first step with our environmental footprint calculator.
 *   [Zellar](https://zellar.com/) - Get an energy profile for your company to understand your energy consumption, and how much CO2 is being generated to power your business. We’ll then let you compare your profile to other local businesses or similar businesses across the UK, then track performance over time. Get advice and even unlock funds to finance any investments you may need to make on your journey to zero carbon.
@@ -244,7 +249,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 ## Jobs
 
 *   [80,000 Hours](https://80000hours.org/job-board/) - This board presents some of the most promising publicly advertised vacancies we know about. Most of these roles are demanding and difficult to get, but if you’re a good fit for one of them, it could be your best opportunity to work on one of the world’s most pressing problems, or to get the career capital you need to have a big impact later.
-*   [awesome-sustainability-jobs (⭐480)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
+*   [awesome-sustainability-jobs (⭐488)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
 *   [Circul'R](https://www.circul-r.com/) - Bridging startups and companies so they can co-create circular economy solutions
 *   [Data Science for Social Good](https://dssg-berlin.org/) - Berlin based group helping NGOs to make use of their data by connecting them with volunteer data scientists and analysts.
 *   [GoodWork](https://www.goodwork.ca/) - GoodWork is a Canadian community of environmental changemakers, sustainability professionals, job seekers and volunteers.
@@ -391,7 +396,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 *   [Citizens Climate Lobby](https://citizensclimatelobby.org/) - If you’re an English, economics or poly sci major, you probably should consider volunteering for Citizens’ Climate Lobby, an organization focused on confronting climate change through policy.
 *   [Clean Trails](https://www.cleantrails.org/join) - Step by step, and little by little, our aim is to eliminate waste on all the trails that grace our public lands. We believe we can do that in a positive and proactive manner by educating, encouraging, and reconnecting outdoor users to our pristine places.
 *   [ClimateAction.Tech](https://climateaction.tech/) - A global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis. The mission is to empower technology professionals to play our part — to meet, discuss, learn and take climate action.
-*   [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions. Help discover how the climate could look by running software on your computer.
+*   [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions.  Help discover how the climate could look by running software on your computer.
+*   [Earth Hero Climate Action App](https://www.earthhero.org/get-involved/) - Join the volunteer team behind the free climate action app that makes it easy for people to act on climate change. Made up of developers, designers, researchers, writers, marketers, translators, and project managers from around the world.
 *   [Economists for Future](https://econ4future.org/) - Economists for Future growing movement of people committed to galvanising the economics community behind addressing the greatest challenge of our day. If the discipline which dedicates itself to studying the economy cannot sufficiently engage in the economic transformation that the climate science requires, then who else can be expected to do this?
 *   [Extinction Rebellion](https://rebellion.global/) - Extinction Rebellion is a decentralised, international and politically non-partisan movement using non-violent direct action and civil disobedience to persuade governments to act justly on the Climate and Ecological Emergency.
 *   [Eyes of the Reef Hawai'i](https://eorhawaii.org/2013/07/18/become-a-member/) - Network to inform, engage and train people to identify coral bleaching, disease and invasive species outbreaks. They have a broad outreach program that helps to provide critical training for rapid response monitoring and stewardship of precious marine resources.

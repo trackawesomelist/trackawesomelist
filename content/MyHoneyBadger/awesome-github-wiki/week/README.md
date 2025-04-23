@@ -2,9 +2,15 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 307 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 330 · 🏷️ Miscellaneous
 
 [ [Daily](/content/MyHoneyBadger/awesome-github-wiki/README.md) / Weekly / [Overview](/content/MyHoneyBadger/awesome-github-wiki/readme/README.md) ]
+
+## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
+
+### Useful Stack Overflow questions & answers
+
+*   [How to remove GitHub's Wiki default sidebar?](https://stackoverflow.com/questions/23635414/how-to-remove-githubs-wiki-default-sidebar)
 
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
@@ -58,7 +64,7 @@
 
 ### Examples
 
-*   [internetarchive/openlibrary (⭐5.4k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐5.6k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## [Sep 25 - Oct 01, 2023](/content/2023/39/README.md)
 
@@ -70,13 +76,13 @@
 
 ### Examples
 
-*   [hyperledger/cacti (⭐355)](https://github.com/hyperledger/cacti/wiki)
+*   [hyperledger/cacti (⭐364)](https://github.com/hyperledger/cacti/wiki)
 
 ## [Jul 03 - Jul 09, 2023](/content/2023/27/README.md)
 
 ### Useful links with tips & tricks
 
-*   [Search wiki of the repository on GitHub (⭐198)](https://github.com/linyows/github-wiki-search)
+*   [Search wiki of the repository on GitHub (⭐199)](https://github.com/linyows/github-wiki-search)
 
 ## [Jun 05 - Jun 11, 2023](/content/2023/23/README.md)
 
@@ -158,7 +164,7 @@
 
 ### Examples
 
-*   [aws/aws-parallelcluster (⭐853)](https://github.com/aws/aws-parallelcluster/wiki)
+*   [aws/aws-parallelcluster (⭐860)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [Oct 17 - Oct 23, 2022](/content/2022/42/README.md)
 
@@ -199,7 +205,7 @@
 
 *   [guard/guard (⭐6.3k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 *   [google/guava (⭐51k)](https://github.com/google/guava/wiki)
-*   [facebook/react-native (⭐121k)](https://github.com/facebook/react-native/wiki)
+*   [facebook/react-native (⭐122k)](https://github.com/facebook/react-native/wiki)
 
 ### Useful links with tips & tricks
 

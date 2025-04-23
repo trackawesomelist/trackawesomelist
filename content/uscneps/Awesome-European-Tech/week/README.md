@@ -1,16 +1,72 @@
 # Track Awesome European Tech Updates Weekly
 
-An up-to-date, community-driven list of awesome European tech alternatives!  all focused on privacy, sustainability, and innovation. The goal is to support European projects and companies (compliant with GDPR, UK GDPR, and the Swiss FADP), helping to strengthen the European tech ecosystem.
+An up-to-date, community-driven list of awesome European tech alternatives! All focused on privacy, sustainability, and innovation. The goal is to support European projects and companies compliant with GDPR, UK GDPR, and the Swiss FADP.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uscneps/Awesome-European-Tech/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uscneps/Awesome-European-Tech](https://github.com/uscneps/Awesome-European-Tech) · ⭐ 837 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uscneps/Awesome-European-Tech/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uscneps/Awesome-European-Tech](https://github.com/uscneps/Awesome-European-Tech) · ⭐ 1.1K · 🏷️ Platforms
 
 [ [Daily](/content/uscneps/Awesome-European-Tech/README.md) / Weekly / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
+
+## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
+
+### Index / CDN
+
+*   [Gcore](https://gcore.com/cdn) 🇱🇺
+*   [OVHcloud CDN](https://www.ovhcloud.com/en/web-hosting/options/cdn/) 🇫🇷
+
+### Index / Cloud
+
+*   [OpenCloud](https://opencloud.eu/) 🇩🇪 - Excellent file management and collaboration for anyone who values ease of use and digital sovereignty.
+
+### Index / Cybersecurity
+
+*   [Unosecur](https://www.unosecur.com/) 🇩🇪 - Identity attack management made simple for modern enterprises.
+*   [Prosopo Procaptcha](https://prosopo.io/) 🇬🇧 - Security-focused CAPTCHA solution to protect against bots and automation threats.
+
+### Index / DNS
+
+*   [Gcore](https://gcore.com/dns) 🇱🇺
+
+### Index / Domain name registrars
+
+*   [netcup](https://netcup.de) 🇩🇪
+
+### Index / Mail Providers
+
+*   [Dismail](https://dismail.de) 🇩🇪 - Secure and private mailboxes with subaddressing support.
+*   [La Poste](https://www.laposte.net/accueil)  🇫🇷 - French mail provider with security focus *Belongs to French postal service, and the website is in French*
+
+### Index / Marketing Tools
+
+*   [Ambassify](https://www.ambassify.com) 🇧🇪 - Employee advocacy tool.
+
+### Index / Productivity Tools
+
+*   [Phonemos](https://www.phonemos.com/) 🇨🇭 - Another European alternative to Notion.
+
+### Index / Scientific software
+
+*   [COMSOL Multiphysics](https://www.comsol.com/) 🇩🇪 - Finite element (FEM) analyzer, solver and simulation software
+*   [Enterprise Dynamics](https://www.incontrolsim.com/) 🇳🇱 - 2D and 3D Digital Twin Software
+*   [FORM](https://www.nikhef.nl/~form/) 🇳🇱 - Open source symbolic manipulation of very big expressions
+*   [GeoGebra](https://www.geogebra.org/) 🇦🇹 -  Interactive online geometry, algebra, statistics and calculus application
+*   [MAGMASOFT](https://www.magmasoft.de/) 🇩🇪 - Casting design and simulation
+*   [Scilab](https://www.scilab.org/) 🇫🇷 - Open source software for numerical computation
+*   [Tecnomatix Plant Simulation](https://plm.sw.siemens.com/en-US/tecnomatix/)  🇩🇪 - Modelling, simulating and visualizing of production systems
+*   [Warteschlangensimulator](https://a-herzog.github.io/Warteschlangensimulator/) 🇩🇪 - Open source event-driven stochastic simulation (DES)
+
+### Index / VPS
+
+*   [Manitu](https://www.manitu.de/) 🇩🇪
+*   [TLDHost](https://www.tldhost.de/) 🇩🇪
+
+### Index / Web Analytics
+
+*   [Friendly Analytics](https://friendly.ch/en/analytics) 🇨🇭 - Open-source and privacy-focused analytics.
 
 ## [Apr 21 - Apr 27, 2025](/content/2025/16/README.md)
 
 ### Index / Identity and Access Management (IAM)
 
-*   [Quasr](https://quasr.io/) 🇧🇪 - User-centric CIAM platform for developers.
 *   [Ory](https://www.ory.sh/) 🇩🇪 - Company developing (C)IAM, OpenID Connect provider, and fine-grained permissions open source solutions.
 *   [Zitadel](https://zitadel.com/) 🇨🇭 - Open-source identity and access management infrastructure.
 
@@ -353,7 +409,6 @@ An up-to-date, community-driven list of awesome European tech alternatives!  all
 ### Index / VPS
 
 *   [Scaleway](https://www.scaleway.com) 🇫🇷
-*   [Surfshark](https://surfshark.com/) 🇱🇹
 *   [Webdock](https://www.webdock.io) 🇩🇰
 
 ### Index / Communication Tools
@@ -417,7 +472,6 @@ An up-to-date, community-driven list of awesome European tech alternatives!  all
 *   [QBLOX](https://www.qblox.com/) 🇳🇱 - Qubit agnostic control electronics.
 *   [Orange Quantum Systems](https://orangeqs.com/) 🇳🇱 - Solutions testing and integration.
 *   [QuantWare](https://www.quantware.com/) 🇳🇱 - Design and manufacture of superconducting hardware.
-*   [QphoX](https://qphox.eu/) 🇳🇱 - Design and manufacture of optical modems.
 
 ### Index / Sustainability and Recycling
 
@@ -429,31 +483,22 @@ An up-to-date, community-driven list of awesome European tech alternatives!  all
 *   [Unbabel](https://unbabel.com/) 🇵🇹
 *   [Widn.ai](https://www.widn.ai/) 🇵🇹
 
+### Index / VPN
+
+*   [Surfshark](https://surfshark.com/) 🇱🇹
+
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
 ### Index / AI
 
 *   [Cradle.bio](https://www.cradle.bio/) 🇳🇱 - AI-driven protein engineering for synthetic biology.
-*   [Gcore](https://gcore.com/) 🇱🇺 - Edge AI, cloud, and content delivery solutions.
 *   [Leya](https://www.leya.law/) 🇸🇪 - AI-powered legal research and contract analysis platform.
 *   [Mistral AI](https://mistral.ai/) 🇫🇷 - Open-source AI models for developers and enterprises.
 *   [Suse](https://www.suse.com/solutions/ai/) 🇩🇪 - Enterprise-grade AI/ML solutions for open-source environments.
 
-### Index / Browsers
-
-*   [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
-*   [Mullvad](https://mullvad.net/en/download/browser/linux) 🇸🇪 - Privacy-focused browser
-*   [Otter Browser](https://otter-browser.org/) 🇵🇱
-
-### Index / CDN
-
-*   [KeyCDN](https://www.keycdn.com) 🇨🇭
-*   [Leaseweb CDN](https://www.leaseweb.com/cdn) 🇳🇱
-*   [Myra CDN](https://www.myra-security.com/en/cdn) 🇩🇪
-*   [OVHcloud CDN](https://www.ovhcloud.com/en/cdn/) 🇫🇷
-
 ### Index / Cloud
 
+*   [Gcore](https://gcore.com/) 🇱🇺 - Global cloud provider with bare-metal servers.
 *   [Aruba](https://www.aruba.it) 🇮🇹 - Cloud hosting and data center services.
 *   [Cozy](https://www.cozy.io) 🇫🇷 - Privacy-first personal cloud for data management.
 *   [datacrunch](https://datacrunch.io/) 🇫🇮 - GPU cloud computing for AI/ML workloads.
@@ -474,7 +519,17 @@ An up-to-date, community-driven list of awesome European tech alternatives!  all
 *   [Seeweb](https://www.seeweb.it) 🇮🇹 - High-performance Italian cloud hosting.
 *   [STACKIT](https://www.stackit.de) 🇩🇪 - Cloud platform for businesses.
 *   [Tresorit](https://tresorit.com/) 🇨🇭 - End-to-end encrypted file sharing for enterprises.
-*   [UpCloud](https://www.upcloud.com) 🇫🇮 - High-speed cloud infrastructure with maxIOPS.
+
+### Index / Browsers
+
+*   [Falkon](https://www.falkon.org/) 🇩🇪 - Lightweight Qt-based browser
+*   [Mullvad](https://mullvad.net/en/download/browser/linux) 🇸🇪 - Privacy-focused browser
+*   [Otter Browser](https://otter-browser.org/) 🇵🇱
+
+### Index / CDN
+
+*   [KeyCDN](https://www.keycdn.com) 🇨🇭
+*   [Leaseweb CDN](https://www.leaseweb.com/cdn) 🇳🇱
 
 ### Index / Communication Tools
 
@@ -497,7 +552,6 @@ An up-to-date, community-driven list of awesome European tech alternatives!  all
 *   [Combell Domains](https://www.combell.com) 🇧🇪
 *   [Gandi](https://www.gandi.net) 🇫🇷
 *   [Hostinger Domain](https://www.hostinger.com) 🇱🇹
-*   [Hostpoint Domains](https://www.hostpoint.ch) 🇨🇭
 *   [Infomaniak Domains](https://www.infomaniak.com/en/domains) 🇨🇭
 *   [inwx](https://www.inwx.com) 🇩🇪
 *   [IONOS domains](https://www.ionos.com) 🇩🇪
@@ -542,7 +596,6 @@ An up-to-date, community-driven list of awesome European tech alternatives!  all
 *   [Magic Earth](https://www.magicearth.com) 🇭🇺
 *   [Mapy.cz](https://www.mapy.cz) 🇨🇿
 *   [OsmAnd](https://osmand.net) 🇨🇿
-*   [Sygic GPS Navigation](https://www.sygic.com) 🇸🇰
 *   [TomTom GO Navigation](https://www.tomtom.com) 🇳🇱
 
 ### Index / Password manager services
@@ -551,7 +604,6 @@ An up-to-date, community-driven list of awesome European tech alternatives!  all
 *   [Hypervault](https://www.hypervault.com) 🇧🇪
 *   [Padloc](https://padloc.app) 🇩🇪
 *   [Passbolt](https://www.passbolt.com) 🇫🇷
-*   [Password Depot](https://www.password-depot.com) 🇩🇪
 *   [pCloud Pass](https://www.pcloud.com/pass) 🇨🇭
 *   [Proton Pass](https://proton.me/pass) 🇨🇭
 
@@ -573,7 +625,6 @@ An up-to-date, community-driven list of awesome European tech alternatives!  all
 ### Index / Translation services
 
 *   [DeepL](https://www.deepl.com) 🇩🇪 - AI-powered translation with high accuracy.
-*   [eTranslation](https://ec.europa.eu/cefdigital/wiki/display/ETRANSLATION/eTranslation) 🇧🇪
 *   [ModernMT](https://www.modernmt.com) 🇮🇹 - Adaptive machine translation for enterprises.
 *   [Reverso](https://www.reverso.net) 🇫🇷 - Context-aware translation and language tools.
 
@@ -602,19 +653,13 @@ An up-to-date, community-driven list of awesome European tech alternatives!  all
 
 *   [Alceris](https://www.alceris.com) 🇫🇷 - AI-driven analytics for web performance and SEO.
 *   [Analyzati](https://analyzati.com) 🇪🇸 - Privacy-friendly web analytics for businesses.
-*   [digistats](https://digistats.io) 🇩🇪 - Analytics with real-time tracking.
 *   [Dreamdata](https://www.dreamdata.io) 🇩🇰 - B2B revenue attribution and data platform.
-*   [etracker](https://www.etracker.com) 🇩🇪 - Visitor analytics and heatmaps.
 *   [fusedeck](https://fusedeck.com) 🇨🇭 - Swiss real-time tracking and analytics.
-*   [Friendly Analytics](https://friendlyanalytics.com) 🇨🇭 - Open-source and privacy-focused analytics.
-*   [Insights](https://insights.ai) 🇳🇱 - AI-driven data analytics and reporting.
 *   [Matomo by Stackhero](https://www.stackhero.io) 🇫🇷 - Managed Matomo analytics hosting.
 *   [Mouseflow](https://www.mouseflow.com) 🇩🇰 - Session replay and heatmaps for UX analysis.
-*   [nilly](https://nilly.com) 🇧🇪 - Privacy-first analytics with simple dashboards.
 *   [Offen](https://offen.dev) 🇩🇪 - Self-hosted web analytics with user-first privacy.
 *   [Pirsch](https://pirsch.io) 🇩🇪 - Simple, cookie-free, and GDPR-compliant analytics.
 *   [SEAL Metrics](https://sealmetrics.com) 🇪🇸 - Cookieless web analytics for GDPR compliance.
-*   [Sitesights](https://sitesights.com) 🇩🇪 - privacy-friendly analytics.
 *   [Stormly](https://stormly.com) 🇳🇱 - AI-powered business intelligence platform.
 *   [Swetrix](https://swetrix.com) 🇺🇦 - Lightweight analytics with real-time tracking.
 *   [TelemetryDeck](https://telemetrydeck.com) 🇩🇪 - Privacy-first telemetry for apps.

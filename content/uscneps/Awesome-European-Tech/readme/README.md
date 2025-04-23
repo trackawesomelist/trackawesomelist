@@ -1,8 +1,8 @@
 # Awesome European Tech Overview
 
-An up-to-date, community-driven list of awesome European tech alternatives!  all focused on privacy, sustainability, and innovation. The goal is to support European projects and companies (compliant with GDPR, UK GDPR, and the Swiss FADP), helping to strengthen the European tech ecosystem.
+An up-to-date, community-driven list of awesome European tech alternatives! All focused on privacy, sustainability, and innovation. The goal is to support European projects and companies compliant with GDPR, UK GDPR, and the Swiss FADP.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/uscneps/Awesome-European-Tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uscneps/Awesome-European-Tech](https://github.com/uscneps/Awesome-European-Tech) · ⭐ 837 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/uscneps/Awesome-European-Tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uscneps/Awesome-European-Tech](https://github.com/uscneps/Awesome-European-Tech) · ⭐ 1.1K · 🏷️ Platforms
 
 [ [Daily](/content/uscneps/Awesome-European-Tech/README.md) / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / Overview ]
 
@@ -126,10 +126,10 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 *   [Bunny CDN](https://bunnycdn.com) 🇸🇮
 *   [CDN77](https://www.cdn77.com/) 🇨🇿 Content delivery network based in the Czech Republic.
+*   [Gcore](https://gcore.com/cdn) 🇱🇺
 *   [KeyCDN](https://www.keycdn.com) 🇨🇭
 *   [Leaseweb CDN](https://www.leaseweb.com/cdn) 🇳🇱
-*   [Myra CDN](https://www.myra-security.com/en/cdn) 🇩🇪
-*   [OVHcloud CDN](https://www.ovhcloud.com/en/cdn/) 🇫🇷
+*   [OVHcloud CDN](https://www.ovhcloud.com/en/web-hosting/options/cdn/) 🇫🇷
 
 ### Cloud
 
@@ -142,6 +142,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Exoscale](https://www.exoscale.com) 🇨🇭 - Scalable cloud infrastructure for developers.
 *   [Filen](https://www.filen.io) 🇩🇪 - End-to-end encrypted cloud storage.
 *   [Fuga Cloud](https://www.fuga.cloud) 🇳🇱 - OpenStack-based public cloud platform.
+*   [Gcore](https://gcore.com/) 🇱🇺 - Global cloud provider with bare-metal servers.
 *   [gridscale](https://www.gridscale.io) 🇩🇪 - Flexible IaaS and PaaS solutions.
 *   [Infomaniak kDrive](https://www.infomaniak.com/en/kdrive) 🇨🇭 - Cloud storage with collaboration tools.
 *   [Internxt](https://www.internxt.com) 🇪🇸 - Decentralized cloud storage prioritizing privacy.
@@ -149,6 +150,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Jottacloud](https://www.jottacloud.com) 🇳🇴 - Cloud backup and file storage.
 *   [Koofr](https://www.koofr.eu) 🇸🇮 - Secure cloud storage with multi-provider integration.
 *   [Nextcloud](https://nextcloud.com/) 🇩🇪 - Self-hosted collaboration and file-sharing platform.
+*   [OpenCloud](https://opencloud.eu/) 🇩🇪 - Excellent file management and collaboration for anyone who values ease of use and digital sovereignty.
 *   [Open Telekom Cloud](https://open-telekom-cloud.com) 🇩🇪 - Enterprise cloud services by Deutsche Telekom.
 *   [OVHcloud](https://www.ovhcloud.com) 🇫🇷 - Global cloud provider with bare-metal servers.
 *   [pCloud](https://www.pcloud.com/) 🇨🇭 - Lifetime encrypted cloud storage plans.
@@ -158,7 +160,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Seeweb](https://www.seeweb.it) 🇮🇹 - High-performance Italian cloud hosting.
 *   [STACKIT](https://www.stackit.de) 🇩🇪 - Cloud platform for businesses.
 *   [Tresorit](https://tresorit.com/) 🇨🇭 - End-to-end encrypted file sharing for enterprises.
-*   [UpCloud](https://www.upcloud.com) 🇫🇮 - High-speed cloud infrastructure with maxIOPS.
 *   [noris network AG](https://www.noris.de/en/it-services/cloud-services/) 🇩🇪 - Cloud platforms and services specialized for legally regulated companies.
 
 ### Communication Tools
@@ -205,6 +206,8 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [OPNsense](https://opnsense.org/) 🇳🇱 -  Firewall/router OS and (optionally) a custom computer to run on.
 *   [Mikrotik](https://mikrotik.com/) 🇱🇻 - Network equipment (routers, switches).
 *   [Pareto Security](https://paretosecurity.com/) 🇸🇮 - Free apps to maintain a basic security hygiene with optional centralized monitoring.
+*   [Unosecur](https://www.unosecur.com/) 🇩🇪 - Identity attack management made simple for modern enterprises.
+*   [Prosopo Procaptcha](https://prosopo.io/) 🇬🇧 - Security-focused CAPTCHA solution to protect against bots and automation threats.
 
 ### Database Management Systems
 
@@ -230,6 +233,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [deSEC](https://www.desec.io) 🇩🇪
 *   [EuroDNS DNS](https://www.eurodns.com) 🇱🇺
 *   [Exoscale DNS](https://www.exoscale.com/dns) 🇨🇭
+*   [Gcore](https://gcore.com/dns) 🇱🇺
 *   [Hostinger](https://www.hostinger.com/) 🇱🇹
 *   [RcodeZero](https://www.rcodezero.at) 🇦🇹
 *   [Scaleway DNS](https://www.scaleway.com/dns) 🇫🇷
@@ -241,11 +245,11 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Combell Domains](https://www.combell.com) 🇧🇪
 *   [Gandi](https://www.gandi.net) 🇫🇷
 *   [Hostinger Domain](https://www.hostinger.com) 🇱🇹
-*   [Hostpoint Domains](https://www.hostpoint.ch) 🇨🇭
 *   [Infomaniak Domains](https://www.infomaniak.com/en/domains) 🇨🇭
 *   [inwx](https://www.inwx.com) 🇩🇪
 *   [IONOS domains](https://www.ionos.com) 🇩🇪
 *   [Mrdomain](https://mrdomain.com) 🇪🇸
+*   [netcup](https://netcup.de) 🇩🇪
 *   [netim](https://www.netim.com) 🇫🇷
 *   [Netsite](https://www.netsite.dk) 🇩🇰
 *   [Openprovider](https://www.openprovider.com) 🇳🇱
@@ -308,7 +312,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### Identity and Access Management (IAM)
 
-*   [Quasr](https://quasr.io/) 🇧🇪 - User-centric CIAM platform for developers.
 *   [Ory](https://www.ory.sh/) 🇩🇪 - Company developing (C)IAM, OpenID Connect provider, and fine-grained permissions open source solutions.
 *   [Zitadel](https://zitadel.com/) 🇨🇭 - Open-source identity and access management infrastructure.
 
@@ -321,7 +324,9 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### Mail Providers
 
+*   [Dismail](https://dismail.de) 🇩🇪 - Secure and private mailboxes with subaddressing support.
 *   [Disroot](https://disroot.org/en/services/email) 🇳🇱 - Privacy-focused email with open-source tools.
+*   [La Poste](https://www.laposte.net/accueil)  🇫🇷 - French mail provider with security focus *Belongs to French postal service, and the website is in French*
 *   [Mailbox.org](https://mailbox.org/) 🇩🇪 - Secure email with ad-free productivity suites.
 *   [Mailfence](https://www.mailfence.com/) 🇧🇪 - Encrypted email and document collaboration.
 *   [Mailo](https://www.mailo.com/) 🇫🇷 - French mail provider with ethical focus.
@@ -336,6 +341,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [GetResponse](https://www.getresponse.com) 🇵🇱 - Email marketing software.
 *   [Keila](https://www.keila.io) 🇩🇪 - Open Source email newsletter tool.
 *   [RenderForm](https://renderform.io) 🇵🇱 - Image generation and automation tool.
+*   [Ambassify](https://www.ambassify.com) 🇧🇪 - Employee advocacy tool.
 
 ### Music and Travel
 
@@ -353,7 +359,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Mapy.cz](https://www.mapy.cz) 🇨🇿
 *   [OsmAnd](https://osmand.net) 🇨🇿
 *   [Organic Maps](https://organicmaps.app) 🇪🇪
-*   [Sygic GPS Navigation](https://www.sygic.com) 🇸🇰
 *   [TomTom GO Navigation](https://www.tomtom.com) 🇳🇱
 
 ### Network Tools and Apps
@@ -367,7 +372,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Hypervault](https://www.hypervault.com) 🇧🇪
 *   [Padloc](https://padloc.app) 🇩🇪
 *   [Passbolt](https://www.passbolt.com) 🇫🇷
-*   [Password Depot](https://www.password-depot.com) 🇩🇪
 *   [pCloud Pass](https://www.pcloud.com/pass) 🇨🇭
 *   [Proton Pass](https://proton.me/pass) 🇨🇭
 *   [uniqkey](https://www.uniqkey.eu/) 🇩🇰
@@ -385,6 +389,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Joplin](https://joplinapp.org/) 🇫🇷 - Note-taking app with sync and encryption.
 *   [LibreOffice](https://www.libreoffice.org/) 🇩🇪 - Free and open-source office suite.
 *   [OnlyOffice](https://www.onlyoffice.com/) 🇱🇻 - Collaborative office suite for teams.
+*   [Phonemos](https://www.phonemos.com/) 🇨🇭 - Another European alternative to Notion.
 *   [ReadWorks](https://www.readworks.app) 🇩🇪 - Free and open-source eDiscovery solution.
 *   [Docs](https://docs.numerique.gouv.fr/) 🇫🇷🇩🇪 - Open-source collaborative note taking, wiki and documentation platform.
 
@@ -393,7 +398,17 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [QBLOX](https://www.qblox.com/) 🇳🇱 - Qubit agnostic control electronics.
 *   [Orange Quantum Systems](https://orangeqs.com/) 🇳🇱 - Solutions testing and integration.
 *   [QuantWare](https://www.quantware.com/) 🇳🇱 - Design and manufacture of superconducting hardware.
-*   [QphoX](https://qphox.eu/) 🇳🇱 - Design and manufacture of optical modems.
+
+### Scientific software
+
+*   [COMSOL Multiphysics](https://www.comsol.com/) 🇩🇪 - Finite element (FEM) analyzer, solver and simulation software
+*   [Enterprise Dynamics](https://www.incontrolsim.com/) 🇳🇱 - 2D and 3D Digital Twin Software
+*   [FORM](https://www.nikhef.nl/~form/) 🇳🇱 - Open source symbolic manipulation of very big expressions
+*   [GeoGebra](https://www.geogebra.org/) 🇦🇹 -  Interactive online geometry, algebra, statistics and calculus application
+*   [MAGMASOFT](https://www.magmasoft.de/) 🇩🇪 - Casting design and simulation
+*   [Scilab](https://www.scilab.org/) 🇫🇷 - Open source software for numerical computation
+*   [Tecnomatix Plant Simulation](https://plm.sw.siemens.com/en-US/tecnomatix/)  🇩🇪 - Modelling, simulating and visualizing of production systems
+*   [Warteschlangensimulator](https://a-herzog.github.io/Warteschlangensimulator/) 🇩🇪 - Open source event-driven stochastic simulation (DES)
 
 ### Search engine
 
@@ -413,7 +428,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### Translation services
 
 *   [DeepL](https://www.deepl.com) 🇩🇪 - AI-powered translation with high accuracy.
-*   [eTranslation](https://ec.europa.eu/cefdigital/wiki/display/ETRANSLATION/eTranslation) 🇧🇪
 *   [Loco](https://localise.biz/) 🇬🇧 - Loco helps you manage and integrate translations into your software.
 *   [ModernMT](https://www.modernmt.com) 🇮🇹 - Adaptive machine translation for enterprises.
 *   [Reverso](https://www.reverso.net) 🇫🇷 - Context-aware translation and language tools.
@@ -448,6 +462,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Ikoula](https://www.ikoula.com/en/vps/linux) 🇫🇷
 *   [Infomaniak VPS](https://www.infomaniak.com/en/hosting/our-cloud-computing-offers) 🇨🇭
 *   [Krystal](https://krystal.io/) 🇬🇧
+*   [Manitu](https://www.manitu.de/) 🇩🇪
 *   [Melbicom](https://www.melbicom.net/virtualserver/) 🇱🇹
 *   [Mivocloud](https://mivocloud.com/ssd-kvm-vps) 🇲🇩
 *   [netcup](https://www.netcup.eu) 🇩🇪
@@ -456,8 +471,8 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Pulseberg](https://pulseheberg.com/cloud/vps-linux) 🇫🇷
 *   [Scaleway](https://www.scaleway.com) 🇫🇷
 *   [Suble.io](https://suble.io/en/vps) 🇩🇰
-*   [Surfshark](https://surfshark.com/) 🇱🇹
 *   [Tilaa](https://www.tilaa.com) 🇳🇱
+*   [TLDHost](https://www.tldhost.de/) 🇩🇪
 *   [Trabia](https://www.trabia.com/virtual-server.84-0.html) 🇲🇩
 *   [V.PS](https://www.v.ps) 🇳🇱
 *   [Veesp](https://veesp.com/products/vps/) 🇱🇻
@@ -478,6 +493,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [OctoVPN](https://www.octovpn.com) 🇩🇰 - High-performance gaming VPN with DDoS protection.
 *   [PrivateVPN](https://privatevpn.com/) 🇸🇪 - VPN service with port forwarding features.
 *   [ProtonVPN](https://protonvpn.com/) 🇨🇭 - VPN with built-in adblocker, uses custom Stealth protocol.
+*   [Surfshark](https://surfshark.com/) 🇱🇹
 *   [Unlocator VPN](https://unlocator.com) 🇩🇰 - Fast and secure VPN with ultimate streaming freedom.
 *   [Xeovo](https://www.xeovo.com) 🇫🇮 - Privacy-focused VPN with anonymous payments.
 
@@ -486,21 +502,16 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Alceris](https://www.alceris.com) 🇫🇷 - AI-driven analytics for web performance and SEO.
 *   [Analyzati](https://analyzati.com) 🇪🇸 - Privacy-friendly web analytics for businesses.
 *   [Counter](https://counter.dev) 🇳🇱 - Lightweight, open-source web analytics.
-*   [digistats](https://digistats.io) 🇩🇪 - Analytics with real-time tracking.
 *   [Dreamdata](https://www.dreamdata.io) 🇩🇰 - B2B revenue attribution and data platform.
-*   [etracker](https://www.etracker.com) 🇩🇪 - Visitor analytics and heatmaps.
 *   [fusedeck](https://fusedeck.com) 🇨🇭 - Swiss real-time tracking and analytics.
-*   [Friendly Analytics](https://friendlyanalytics.com) 🇨🇭 - Open-source and privacy-focused analytics.
-*   [Insights](https://insights.ai) 🇳🇱 - AI-driven data analytics and reporting.
+*   [Friendly Analytics](https://friendly.ch/en/analytics) 🇨🇭 - Open-source and privacy-focused analytics.
 *   [Matomo by Stackhero](https://www.stackhero.io) 🇫🇷 - Managed Matomo analytics hosting.
 *   [Mouseflow](https://www.mouseflow.com) 🇩🇰 - Session replay and heatmaps for UX analysis.
-*   [nilly](https://nilly.com) 🇧🇪 - Privacy-first analytics with simple dashboards.
 *   [Offen](https://offen.dev) 🇩🇪 - Self-hosted web analytics with user-first privacy.
 *   [Pirsch](https://pirsch.io) 🇩🇪 - Simple, cookie-free, and GDPR-compliant analytics.
 *   [Plausible](https://plausible.io) 🇪🇪 - Open-source Google Analytics alternative.
 *   [Publytics](https://publytics.net) 🇮🇹 - SEO and performance monitoring analytics.
 *   [SEAL Metrics](https://sealmetrics.com) 🇪🇸 - Cookieless web analytics for GDPR compliance.
-*   [Sitesights](https://sitesights.com) 🇩🇪 - privacy-friendly analytics.
 *   [Stormly](https://stormly.com) 🇳🇱 - AI-powered business intelligence platform.
 *   [Swetrix](https://swetrix.com) 🇺🇦 - Lightweight analytics with real-time tracking.
 *   [TelemetryDeck](https://telemetrydeck.com) 🇩🇪 - Privacy-first telemetry for apps.
@@ -510,6 +521,4 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Wide Angle Analytics](https://wideangle.co) 🇵🇱 - Privacy-first analytics with EU data hosting.
 
 ***
-
-[![Star History Chart](https://api.star-history.com/svg?repos=uscneps/Awesome-European-Tech\&type=Date)](https://www.star-history.com/#uscneps/Awesome-European-Tech\&Date)
 

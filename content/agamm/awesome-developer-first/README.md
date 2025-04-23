@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Apr 15, 2025](/content/2025/04/15/README.md)
+
+### Authentication & Identity
+
+*   [Scalekit](https://scalekit.com) – Add enterprise SSO (SAML, OIDC), SCIM provisioning to your existing auth setup like Firebase, Auth0, or Cognito without rewrites.
+
 ## [Mar 31, 2025](/content/2025/03/31/README.md)
 
 ### Authentication & Identity
