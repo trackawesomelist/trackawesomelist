@@ -6,6 +6,24 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Apr 24, 2025](/content/2025/04/24/README.md)
+
+### Software / Content Management Systems (CMS)
+
+*   [Superdesk](https://superdesk.org/) `⚠` - End-to-end news creation, production, curation, distribution, and publishing platform. ([Source Code (⭐699)](https://github.com/superdesk/superdesk)) `AGPL-3.0` `Docker/Python/PHP`
+
+### Software / Database Management
+
+*   [ChartDB](https://chartdb.io/) - Database diagrams editor that allows you to visualize and design your DB with a single query. ([Demo](https://app.chartdb.io), [Source Code (⭐16k)](https://github.com/chartdb/chartdb)) `AGPL-3.0` `Nodejs/Docker`
+
+### Software / Maps and Global Positioning System (GPS)
+
+*   [Dawarich](https://dawarich.app/) - Visualize your location history, track your movements, and analyze your travel patterns with complete privacy and control (alternative to Google Timeline a.k.a. Google Location History). ([Source Code (⭐4.6k)](https://github.com/Freika/dawarich)) `AGPL-3.0` `Docker`
+
+### Software / Money, Budgeting & Management
+
+*   [VoucherVault (⭐259)](https://github.com/l4rm4nd/VoucherVault) - Store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO. `GPL-3.0` `Docker`
+
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
 ### Software / Automation

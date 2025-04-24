@@ -87,6 +87,7 @@
 ### Tools / Services
 
 *   [LangWatch (⭐1.3k)](https://github.com/langwatch/langwatch): An Open Source tool for observing, evaluating and optimising your llm apps and prompts, which supports LangChain out of the box! ![GitHub Repo stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social)
+*   [Agentic Radar (⭐441)](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
 ## [6. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
@@ -330,9 +331,17 @@
 
 *   [GoToSocial](https://docs.gotosocial.org/en/latest/) - ActivityPub federated social network server implementing the Mastodon client API. ([Source Code (⭐4.1k)](https://github.com/superseriousbusiness/gotosocial)) `AGPL-3.0` `Docker/Go`
 
+### Software / Content Management Systems (CMS)
+
+*   [Superdesk](https://superdesk.org/) `⚠` - End-to-end news creation, production, curation, distribution, and publishing platform. ([Source Code (⭐699)](https://github.com/superdesk/superdesk)) `AGPL-3.0` `Docker/Python/PHP`
+
 ### Software / Customer Relationship Management (CRM)
 
 *   [Corteza](https://docs.cortezaproject.org) - CRM including a unified workspace, enterprise messaging and a low code environment for rapidly and securely delivering records-based management solutions. ([Demo](https://latest.cortezaproject.org), [Source Code (⭐1.8k)](https://github.com/cortezaproject/corteza)) `Apache-2.0` `Go`
+
+### Software / Database Management
+
+*   [ChartDB](https://chartdb.io/) - Database diagrams editor that allows you to visualize and design your DB with a single query. ([Demo](https://app.chartdb.io), [Source Code (⭐16k)](https://github.com/chartdb/chartdb)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
@@ -349,6 +358,10 @@
 
 *   [Inventree](https://docs.inventree.org/en/latest/) - Inventory management system which provides intuitive parts management and stock control. ([Demo](https://inventree.org/demo), [Source Code (⭐4.9k)](https://github.com/inventree/InvenTree)) `MIT` `Python`
 
+### Software / Maps and Global Positioning System (GPS)
+
+*   [Dawarich](https://dawarich.app/) - Visualize your location history, track your movements, and analyze your travel patterns with complete privacy and control (alternative to Google Timeline a.k.a. Google Location History). ([Source Code (⭐4.6k)](https://github.com/Freika/dawarich)) `AGPL-3.0` `Docker`
+
 ### Software / Miscellaneous
 
 *   [MySpeed](https://myspeed.dev/) - Speed test analysis software that shows your internet speed for up to 30 days. ([Source Code (⭐1.3k)](https://github.com/gnmyt/myspeed)) `MIT` `Docker/Nodejs`
@@ -356,6 +369,7 @@
 ### Software / Money, Budgeting & Management
 
 *   [InvoicePlane](https://www.invoiceplane.com/) - Manage quotes, invoices, payments and customers for your small business. ([Source Code (⭐2.7k)](https://github.com/InvoicePlane/InvoicePlane)) `MIT` `PHP`
+*   [VoucherVault (⭐259)](https://github.com/l4rm4nd/VoucherVault) - Store and manage vouchers, coupons, loyalty and gift cards digitally. Supports expiry notifications, transaction histories, file uploads and OIDC SSO. `GPL-3.0` `Docker`
 
 ### Software / Polls and Events
 
