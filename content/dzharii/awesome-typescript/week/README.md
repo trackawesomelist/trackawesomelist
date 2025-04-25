@@ -16,6 +16,10 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 *   :octocat: [VoltAgent (⭐263)](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
 
+### Libraries / Chrome Extensions
+
+*   :octocat: [text-smart-trimmer (⭐2)](https://github.com/vaidehimani/text-smart-trimmer) - A lightweight TypeScript utility for trimming text while choosing to preserve word boundaries, punctuation, and custom suffixes.
+
 ## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
 
 ### AI / Playground
@@ -655,7 +659,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 *   :octocat: [Prisma (⭐42k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
     *   :octocat: [prisma-markdown (⭐494)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
-*   :octocat: [tsParticles (⭐8.1k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
+*   :octocat: [tsParticles (⭐8.2k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
 

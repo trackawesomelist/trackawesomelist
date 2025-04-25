@@ -379,7 +379,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [sub-events (⭐38)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
 *   :octocat: [ts-audio (⭐333)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
 *   :octocat: [tslog (⭐1.4k)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
-*   :octocat: [tsParticles (⭐8.1k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
+*   :octocat: [tsParticles (⭐8.2k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 *   :octocat: [statek (⭐9)](https://github.com/pie6k/statek) - Reactive state management library
 *   :octocat: [Injex](https://www.injex.dev/) - Simple, Decorated, Pluggable dependency-injection framework for TypeScript applications
 *   :octocat: [tRPC](https://www.trpc.io/) - TypeScript toolkit for building end-to-end type-safe APIs
@@ -397,6 +397,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [file-graph (⭐9)](https://github.com/DIY0R/file-graph) - Library for storing graphs in files and making queries to them.
 *   :octocat: [@diy0r/nestjs-rabbitmq (⭐16)](https://github.com/DIY0R/nestjs-rabbitmq) - Library for building NestJS microservices with RabbitMQ.
 *   :octocat: [Onion.JS (⭐11)](https://github.com/ThomasAribart/onion.js) - Design and apply wrappers (i.e. high-order functions) without breaking types! Based on [HotScript (⭐3.6k)](https://github.com/gvergnaud/hotscript) high-order types.
+*   :octocat: [text-smart-trimmer (⭐2)](https://github.com/vaidehimani/text-smart-trimmer) - A lightweight TypeScript utility for trimming text while choosing to preserve word boundaries, punctuation, and custom suffixes.
 
 # LLM
 

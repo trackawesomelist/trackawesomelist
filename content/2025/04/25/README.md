@@ -1,12 +1,36 @@
 # Awesome List Updates on Apr 25, 2025
 
-3 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+## [1. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+
+### Hardware
+
+*   [elixir-circuits](https://github.com/elixir-circuits) - Elixir access to hardware I/O interfaces such as GPIO, I2C, and SPI (old version [elixir\_ale (⭐344)](https://github.com/fhunleth/elixir_ale)).
+
+## [2. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [text-smart-trimmer (⭐2)](https://github.com/vaidehimani/text-smart-trimmer) - A lightweight TypeScript utility for trimming text while choosing to preserve word boundaries, punctuation, and custom suffixes.
+
+## [3. Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md)
+
+### More
+
+### [Folder Preview](https://anybox.ltd/folder-preview) 💰
+
+> Preview folders and ZIP files with the familiar experience of Finder.
+
+Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id6698876601).
+
+[![](https://github.com/sindresorhus/quick-look-plugins/raw/main/screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
+
+## [4. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
 
 ### Index / VPS
 
@@ -21,7 +45,7 @@
 
 *   [Flexmail](https://flexmail.be/en) 🇧🇪 - Email marketing software.
 
-## [2. Awesome Go](/content/avelino/awesome-go/README.md)
+## [5. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Database Tools
 
@@ -32,7 +56,7 @@
 *   [healthcheck (⭐13)](https://github.com/kazhuravlev/healthcheck) - A simple yet powerful readiness test for Kubernetes.
 *   [optional (⭐7)](https://github.com/kazhuravlev/optional) - Optional struct fields and vars.
 
-## [3. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+## [6. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
 
 ### Zero-trust Network / Identifiers
 
