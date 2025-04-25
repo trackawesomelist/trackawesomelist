@@ -6,6 +6,17 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Apr 25, 2025](/content/2025/04/25/README.md)
+
+### Database Tools
+
+*   [database-gateway (⭐21)](https://github.com/kazhuravlev/database-gateway) - Running SQL in production with ACLs, logs, and shared links.
+
+### Utilities
+
+*   [healthcheck (⭐13)](https://github.com/kazhuravlev/healthcheck) - A simple yet powerful readiness test for Kubernetes.
+*   [optional (⭐7)](https://github.com/kazhuravlev/optional) - Optional struct fields and vars.
+
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
 ### Bot Building
@@ -5093,7 +5104,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gocontracts (⭐111)](https://github.com/Parquery/gocontracts) - brings design-by-contract to Go by synchronizing the code with the documentation.
 *   [godal (⭐18)](https://github.com/mafulong/godal) - Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm.
 *   [gonerics (⭐113)](https://github.com/bouk/gonerics) - Idiomatic Generics in Go.
-*   [gotests (⭐5k)](https://github.com/cweill/gotests) - Generate Go tests from your source code.
+*   [gotests (⭐5.1k)](https://github.com/cweill/gotests) - Generate Go tests from your source code.
 *   [gounit (⭐84)](https://github.com/hexdigest/gounit) - Generate Go tests using your own templates.
 *   [hasgo (⭐143)](https://github.com/DylanMeeus/hasgo) - Generate Haskell inspired functions for your slices.
 *   [TOML-to-Go](https://xuri.me/toml-to-go) - Translates TOML into a Go type in the browser instantly.

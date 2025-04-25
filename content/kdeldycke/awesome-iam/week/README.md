@@ -6,6 +6,12 @@
 
 [ [Daily](/content/kdeldycke/awesome-iam/README.md) / Weekly / [Overview](/content/kdeldycke/awesome-iam/readme/README.md) ]
 
+## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
+
+### Zero-trust Network / Identifiers
+
+*   [heimdall (⭐182)](https://github.com/dadrus/heimdall) - A cloud-native, identity-aware proxy and policy enforcement point that orchestrates authentication and authorization systems via versatile rules, supporting protocol-agnostic identity propagation.
+
 ## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
 
 ### Authorization / Policy models
@@ -14,7 +20,7 @@
 
 ### Authorization / ReBAC frameworks
 
-*   [Permify (⭐5.3k)](https://github.com/Permify/permify) - Another open-source authorization as a service inspired by Google Zanzibar, and see [how it compares to other Zanzibar-inspired tools](https://permify.notion.site/Differentiation-Between-Zanzibar-Products-ad4732da62e64655bc82d3abe25f48b6).
+*   [Permify (⭐5.4k)](https://github.com/Permify/permify) - Another open-source authorization as a service inspired by Google Zanzibar, and see [how it compares to other Zanzibar-inspired tools](https://permify.notion.site/Differentiation-Between-Zanzibar-Products-ad4732da62e64655bc82d3abe25f48b6).
 
 ### Authorization / AWS policy tools
 
@@ -22,12 +28,12 @@
 
 ### Authorization / Other tools
 
-*   [Gubernator (⭐121)](https://github.com/gubernator-io/gubernator) - High performance rate-limiting micro-service and library.
+*   [Gubernator (⭐127)](https://github.com/gubernator-io/gubernator) - High performance rate-limiting micro-service and library.
 
 ### OAuth2 & OpenID / Other tools
 
 *   [How to Implement a Secure Central Authentication Service in Six Steps](https://shopify.engineering/implement-secure-central-authentication-service-six-steps) - Got multiple legacy systems to merge with their own login methods and accounts? Here is how to merge all that mess by the way of OIDC.
-*   [Authgear (⭐89)](https://github.com/authgear/authgear-server) - Open-source authentication-as-a-service solution. It includes the code for the server, AuthUI, the Portal, and Admin API.
+*   [Authgear (⭐91)](https://github.com/authgear/authgear-server) - Open-source authentication-as-a-service solution. It includes the code for the server, AuthUI, the Portal, and Admin API.
 
 ### Trust & Safety / User Identity
 
@@ -51,12 +57,12 @@
 
 ### Authorization / ReBAC frameworks
 
-*   [Warrant (⭐1.2k)](https://github.com/warrant-dev/warrant) - A relationship based access control (ReBAC) engine (inspired by Google Zanzibar) also capable of enforcing any authorization paradigm, including RBAC and ABAC.
+*   [Warrant (⭐1.3k)](https://github.com/warrant-dev/warrant) - A relationship based access control (ReBAC) engine (inspired by Google Zanzibar) also capable of enforcing any authorization paradigm, including RBAC and ABAC.
 
 ### Secret Management / Other tools
 
 *   [HashiCorp Vault](https://www.vaultproject.io) - Secure, store and tightly control access to tokens, passwords, certificates, encryption keys.
-*   [Infisical (⭐17k)](https://github.com/Infisical/infisical) - An alternative to HashiCorp Vault.
+*   [Infisical (⭐18k)](https://github.com/Infisical/infisical) - An alternative to HashiCorp Vault.
 
 ## [Jun 26 - Jul 02, 2023](/content/2023/26/README.md)
 
@@ -86,7 +92,7 @@
 
 ### Authorization / AWS policy tools
 
-*   [IAMbic (⭐288)](https://github.com/noqdev/iambic) - GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control.
+*   [IAMbic (⭐291)](https://github.com/noqdev/iambic) - GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control.
 
 ### Authorization / Macaroons
 
@@ -109,7 +115,7 @@
 
 ### Competitive Analysis / GDPR
 
-*   [Best-of Digital Identity (⭐118)](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects.
+*   [Best-of Digital Identity (⭐125)](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects.
 
 ## [Nov 21 - Nov 27, 2022](/content/2022/47/README.md)
 
@@ -127,7 +133,7 @@
 
 ### Authorization / ReBAC frameworks
 
-*   [SpiceDB (⭐5.4k)](https://github.com/authzed/spicedb) - An open source database system for managing security-critical application permissions inspired by Zanzibar.
+*   [SpiceDB (⭐5.6k)](https://github.com/authzed/spicedb) - An open source database system for managing security-critical application permissions inspired by Zanzibar.
 *   [Topaz (⭐1.2k)](https://github.com/aserto-dev/topaz) - An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory.
 
 ### Authorization / AWS policy tools
@@ -136,7 +142,7 @@
 
 ### Trust & Safety / User Identity
 
-*   [Ballerine (⭐2.1k)](https://github.com/ballerine-io/ballerine) - An open-source infrastructure for user identity and risk management.
+*   [Ballerine (⭐2.2k)](https://github.com/ballerine-io/ballerine) - An open-source infrastructure for user identity and risk management.
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
@@ -150,7 +156,7 @@
 
 ### OAuth2 & OpenID / Other tools
 
-*   [Logto (⭐9.6k)](https://github.com/logto-io/logto) - An IAM infrastructure for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML for authentication and authorization.
+*   [Logto (⭐9.9k)](https://github.com/logto-io/logto) - An IAM infrastructure for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML for authentication and authorization.
 
 ### SAML / Other tools
 
@@ -160,8 +166,8 @@
 
 ### OAuth2 & OpenID / Other tools
 
-*   [ZITADEL (⭐9.9k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
-*   [a12n-server (⭐472)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
+*   [ZITADEL (⭐10k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
+*   [a12n-server (⭐477)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
@@ -183,7 +189,7 @@
 
 ### Authorization / ReBAC frameworks
 
-*   [Open Policy Administration Layer (⭐5.2k)](https://github.com/permitio/opal) - Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications.
+*   [Open Policy Administration Layer (⭐5.3k)](https://github.com/permitio/opal) - Open Source administration layer for OPA, detecting changes to both policy and policy data in realtime and pushing live updates to OPA agents. OPAL brings open-policy up to the speed needed by live applications.
 
 ### Secret Management / Hardware Security Module (HSM)
 
@@ -207,7 +213,7 @@
 
 ### Multi-factor auth / Identifiers
 
-*   [Kanidm (⭐3.2k)](https://github.com/kanidm/kanidm) - Simple, secure and fast identity management platform.
+*   [Kanidm (⭐3.4k)](https://github.com/kanidm/kanidm) - Simple, secure and fast identity management platform.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 
@@ -218,11 +224,11 @@
 
 ### Multi-factor auth / Identifiers
 
-*   [Authelia (⭐23k)](https://github.com/authelia/authelia) - Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
+*   [Authelia (⭐24k)](https://github.com/authelia/authelia) - Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
 
 ### Password-less auth / JWT
 
-*   [jwtXploiter (⭐270)](https://github.com/DontPanicO/jwtXploiter) - A tool to test security of json web token.
+*   [jwtXploiter (⭐272)](https://github.com/DontPanicO/jwtXploiter) - A tool to test security of json web token.
 
 ### Authorization / ReBAC frameworks
 
@@ -251,7 +257,7 @@
 
 ### Authorization / RBAC frameworks
 
-*   [Cerbos (⭐3.7k)](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
+*   [Cerbos (⭐3.8k)](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
 
 ## [Aug 23 - Aug 29, 2021](/content/2021/34/README.md)
 
@@ -338,7 +344,7 @@
 
 *   [Enterprise Information Security](https://infosec.mozilla.org) - Mozilla's security and access guidelines.
 *   [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “This document divides cloud vulnerabilities into four classes (misconfiguration, poor access control, shared tenancy vulnerabilities, and supply chain vulnerabilities)”.
-*   [Cartography (⭐3.2k)](https://github.com/lyft/cartography) - A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
+*   [Cartography (⭐3.3k)](https://github.com/lyft/cartography) - A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
 *   [Open guide to AWS Security and IAM (⭐36k)](https://github.com/open-guides/og-aws#security-and-iam)
 
 ### Account Management
@@ -353,7 +359,7 @@
 *   [Cryptographic Right Answers](https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html) - An up to date set of recommendations for developers who are not cryptography engineers. There's even a [shorter summary](https://news.ycombinator.com/item?id=16749140) available.
 *   [Real World Crypto Symposium](https://rwc.iacr.org) - Aims to bring together cryptography researchers with developers, focusing on uses in real-world environments such as the Internet, the cloud, and embedded devices.
 *   [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) - “This paper has two major purposes. The first is to define some of the terms and concepts behind basic cryptographic methods, and to offer a way to compare the myriad cryptographic schemes in use today. The second is to provide some real examples of cryptography in use today.”
-*   [Papers we love: Cryptography (⭐91k)](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) - Foundational papers of cryptography.
+*   [Papers we love: Cryptography (⭐92k)](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) - Foundational papers of cryptography.
 *   [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “If you are using compare-by-hash to generate addresses for data that can be supplied by malicious users, you should have a plan to migrate to a new hash every few years”.
 
 ### Cryptography / Identifiers
@@ -365,7 +371,7 @@
 *   [BeyondCorp: A New Approach to Enterprise Security](https://www.usenix.org/system/files/login/articles/login_dec14_02_ward.pdf) - Quick overview of Google's Zero-trust Network initiative.
 *   [What is BeyondCorp? What is Identity-Aware Proxy?](https://medium.com/google-cloud/what-is-beyondcorp-what-is-identity-aware-proxy-de525d9b3f90) - More companies add extra layers of VPNs, firewalls, restrictions and constraints, resulting in a terrible experience and a slight security gain. There's a better way.
 *   [oathkeeper (⭐3.3k)](https://github.com/ory/oathkeeper) - Identity & Access Proxy and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP requests. Inspired by the BeyondCorp / Zero Trust white paper.
-*   [transcend (⭐251)](https://github.com/cogolabs/transcend) - BeyondCorp-inspired Access Proxy server.
+*   [transcend (⭐252)](https://github.com/cogolabs/transcend) - BeyondCorp-inspired Access Proxy server.
 *   [Pomerium (⭐4.2k)](https://github.com/pomerium/pomerium) - An identity-aware proxy that enables secure access to internal applications.
 
 ### Authentication / Identifiers
@@ -380,7 +386,7 @@
 *   [Dumb Password Rules (⭐3k)](https://github.com/dumb-password-rules/dumb-password-rules) - Shaming sites with dumb password rules.
 *   [Plain Text Offenders](https://plaintextoffenders.com/about/) - Public shaming of websites storing passwords in plain text.
 *   [Password Manager Resources (⭐4.3k)](https://github.com/apple/password-manager-resources) - A collection of password rules, change URLs and quirks by sites.
-*   [A Well-Known URL for Changing Passwords (⭐902)](https://github.com/WICG/change-password-url) - Specification defining site resource for password updates.
+*   [A Well-Known URL for Changing Passwords (⭐901)](https://github.com/WICG/change-password-url) - Specification defining site resource for password updates.
 *   [How to change the hashing scheme of already hashed user's passwords](https://news.ycombinator.com/item?id=20109360) - Good news: you're not stuck with a legacy password saving scheme. Here is a trick to transparently upgrade to stronger hashing algorithm.
 
 ### Multi-factor auth / Identifiers
@@ -414,13 +420,13 @@
 *   [Solo (⭐2.3k)](https://github.com/solokeys/solo) - Open security key supporting FIDO2 & U2F over USB + NFC.
 *   [OpenSK (⭐3.1k)](https://github.com/google/OpenSK) - Open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 *   [YubiKey Guide (⭐12k)](https://github.com/drduh/YubiKey-Guide) - Guide to using YubiKey as a SmartCard for storing GPG encryption, signing and authentication keys, which can also be used for SSH. Many of the principles in this document are applicable to other smart card devices.
-*   [YubiKey at Datadog (⭐495)](https://github.com/DataDog/yubikey) - Guide to setup Yubikey, U2F, GPG, git, SSH, Keybase, VMware Fusion and Docker Content Trust.
+*   [YubiKey at Datadog (⭐496)](https://github.com/DataDog/yubikey) - Guide to setup Yubikey, U2F, GPG, git, SSH, Keybase, VMware Fusion and Docker Content Trust.
 
 ### Password-less auth / Public-Key Infrastructure (PKI)
 
 *   [Everything you should know about certificates and PKI but are too afraid to ask](https://smallstep.com/blog/everything-pki.html) - PKI lets you define a system cryptographically. It's universal and vendor neutral.
 *   [`lemur`](https://github.com/Netflix/lemur) - Acts as a broker between CAs and environments, providing a central portal for developers to issue TLS certificates with 'sane' defaults.
-*   [CFSSL (⭐8.9k)](https://github.com/cloudflare/cfssl) - A swiss army knife for PKI/TLS by CloudFlare. Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
+*   [CFSSL (⭐9k)](https://github.com/cloudflare/cfssl) - A swiss army knife for PKI/TLS by CloudFlare. Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
 *   [JA3 (⭐2.9k)](https://github.com/salesforce/ja3) - Method for creating SSL/TLS client fingerprints that should be easy to produce on any platform and can be easily shared for threat intelligence.
 
 ### Password-less auth / JWT
@@ -442,18 +448,18 @@
 
 ### Authorization / RBAC frameworks
 
-*   [Athenz (⭐921)](https://github.com/yahoo/athenz) - Set of services and libraries supporting service authentication and role-based authorization for provisioning and configuration.
+*   [Athenz (⭐932)](https://github.com/yahoo/athenz) - Set of services and libraries supporting service authentication and role-based authorization for provisioning and configuration.
 
 ### Authorization / ABAC frameworks
 
-*   [Keto (⭐4.9k)](https://github.com/ory/keto) - Policy decision point. It uses a set of access control policies, similar to AWS policies, in order to determine whether a subject is authorized to perform a certain action on a resource.
+*   [Keto (⭐5k)](https://github.com/ory/keto) - Policy decision point. It uses a set of access control policies, similar to AWS policies, in order to determine whether a subject is authorized to perform a certain action on a resource.
 *   [Ladon (⭐2.4k)](https://github.com/ory/ladon) - Access control library, inspired by AWS.
 
 ### Authorization / AWS policy tools
 
 *   [Become an AWS IAM Policy Ninja](https://www.youtube.com/watch?v=y7-fAT3z8Lo) - “In my nearly 5 years at Amazon, I carve out a little time each day, each week to look through the forums, customer tickets to try to find out where people are having trouble.”
 *   [Policy Sentry (⭐2.1k)](https://github.com/salesforce/policy_sentry) - Writing security-conscious IAM Policies by hand can be very tedious and inefficient. Policy Sentry helps users to create least-privilege policies in a matter of seconds.
-*   [IAM Floyd (⭐554)](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.
+*   [IAM Floyd (⭐557)](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.
 
 ### Authorization / Macaroons
 
@@ -482,7 +488,7 @@
 
 *   [Secret at Scale at Netflix](https://www.youtube.com/watch?v=K0EOPddWpsE) - Solution based on blind signatures. See the [slides](https://rwc.iacr.org/2018/Slides/Mehta.pdf).
 *   [High Availability in Google's Internal KMS](https://www.youtube.com/watch?v=5T_c-lqgjso) - Not GCP's KMS, but the one at the core of their infrastructure. See the [slides](https://rwc.iacr.org/2018/Slides/Kanagala.pdf).
-*   [`sops`](https://github.com/mozilla/sops) - Encrypts the values of YAML and JSON files, not the keys.
+*   [`sops`](https://github.com/mozilla/sops) - Editor of encrypted files that supports YAML, JSON, ENV, INI and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, age, and PGP.
 *   [`gitleaks`](https://github.com/zricethezav/gitleaks) - Audit git repos for secrets.
 *   [`truffleHog`](https://github.com/dxa4481/truffleHog) - Searches through git repositories for high entropy strings and secrets, digging deep into commit history.
 *   [Keywhiz](https://square.github.io/keywhiz/) - A system for managing and distributing secrets, which can fit well with a service oriented architecture (SOA).
@@ -493,27 +499,27 @@
 *   [HSM: What they are and why it's likely that you've (indirectly) used one today](https://rwc.iacr.org/2015/Slides/RWC-2015-Hampton.pdf) - Really basic overview of HSM usages.
 *   [Tidbits on AWS Cloud HSM hardware](https://news.ycombinator.com/item?id=16759383) - AWS CloudHSM Classic is backed by SafeNet's Luna HSM, current CloudHSM rely on Cavium's Nitrox, which allows for partitionable "virtual HSMs".
 *   [Keystone](https://keystone-enclave.org) - Open-source project for building trusted execution environments (TEE) with secure hardware enclaves, based on the RISC-V architecture.
-*   [Project Oak (⭐1.3k)](https://github.com/project-oak/oak) - A specification and a reference implementation for the secure transfer, storage and processing of data.
+*   [Project Oak (⭐1.4k)](https://github.com/project-oak/oak) - A specification and a reference implementation for the secure transfer, storage and processing of data.
 
 ### Trust & Safety / Hardware Security Module (HSM)
 
 *   [Trust and safety 101](https://www.csoonline.com/article/3206127/trust-and-safety-101.html) - A great introduction on the domain and its responsibilities.
 *   [What the Heck is Trust and Safety?](https://www.linkedin.com/pulse/what-heck-trust-safety-kenny-shi) - A couple of real use-case to demonstrate the role of a TnS team.
-*   [Awesome List of Billing and Payments: Fraud links (⭐1k)](https://github.com/kdeldycke/awesome-billing#fraud) - Section dedicated to fraud management for billing and payment, from our sister repository.
+*   [Awesome List of Billing and Payments: Fraud links (⭐1.1k)](https://github.com/kdeldycke/awesome-billing#fraud) - Section dedicated to fraud management for billing and payment, from our sister repository.
 
 ### Trust & Safety / User Identity
 
 *   [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf) - Is this paper aims at identity metasystem, its laws still provides great insights at smaller scale, especially the first law: to always allow user control and ask for consent to earn trust.
 *   [How Uber Got Lost](https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html) - “To limit "friction" Uber allowed riders to sign up without requiring them to provide identity beyond an email — easily faked — or a phone number. (…) Vehicles were stolen and burned; drivers were assaulted, robbed and occasionally murdered. The company stuck with the low-friction sign-up system, even as violence increased.”
 *   [A Comparison of Personal Name Matching: Techniques and Practical Issues](http://users.cecs.anu.edu.au/~Peter.Christen/publications/tr-cs-06-02.pdf) - Customer name matching has lots of application, from account deduplication to fraud monitoring.
-*   [Statistically Likely Usernames (⭐1k)](https://github.com/insidetrust/statistically-likely-usernames) - Wordlists for creating statistically likely usernames for use in username-enumeration, simulated password-attacks and other security testing tasks.
-*   [Sherlock (⭐63k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
+*   [Statistically Likely Usernames (⭐1.1k)](https://github.com/insidetrust/statistically-likely-usernames) - Wordlists for creating statistically likely usernames for use in username-enumeration, simulated password-attacks and other security testing tasks.
+*   [Sherlock (⭐64k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 
 ### Trust & Safety / Fraud
 
 *   [Investigation into the Unusual Signups](https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf) - A really detailed analysis of suspicious contributor signups on OpenStreetMap. This beautiful and high-level report demonstrating an orchestrated and directed campaign might serve as a template for fraud reports.
-*   [MIDAS: Detecting Microcluster Anomalies in Edge Streams (⭐769)](https://github.com/bhatiasiddharth/MIDAS) - A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
-*   [Gephi (⭐6k)](https://github.com/gephi/gephi) - Open-source platform for visualizing and manipulating large graphs.
+*   [MIDAS: Detecting Microcluster Anomalies in Edge Streams (⭐776)](https://github.com/bhatiasiddharth/MIDAS) - A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
+*   [Gephi (⭐6.1k)](https://github.com/gephi/gephi) - Open-source platform for visualizing and manipulating large graphs.
 
 ### Trust & Safety / Moderation
 
@@ -521,13 +527,13 @@
 
 ### Trust & Safety / Threat Intelligence
 
-*   [Awesome Threat Intelligence (⭐8.5k)](https://github.com/hslatman/awesome-threat-intelligence) - “A concise definition of Threat Intelligence: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.”
+*   [Awesome Threat Intelligence (⭐8.7k)](https://github.com/hslatman/awesome-threat-intelligence) - “A concise definition of Threat Intelligence: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.”
 *   [SpiderFoot (⭐14k)](https://github.com/smicallef/spiderfoot) - An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.
 *   [Standards related to Threat Intelligence](https://www.threat-intelligence.eu/standards/) - Open standards, tools and methodologies to support threat intelligence analysis.
 *   [MISP taxonomies and classification](https://www.misp-project.org/taxonomies.html) - Tags to organize information on “threat intelligence including cyber security indicators, financial fraud or counter-terrorism information.”
 *   [Browser Fingerprinting: A survey](https://arxiv.org/pdf/1905.01051.pdf) - Fingerprints can be used as a source of signals to identify bots and fraudsters.
 *   [The challenges of file formats](https://speakerdeck.com/ange/the-challenges-of-file-formats) - At one point you will let users upload files in your system. Here is a [corpus of suspicious media files (⭐1.5k)](https://github.com/corkami/pocs) that can be leveraged by scammers =to bypass security or fool users.
-*   [SecLists (⭐61k)](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+*   [SecLists (⭐62k)](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 *   [PhishingKitTracker (⭐100)](https://github.com/neonprimetime/PhishingKitTracker) - CSV database of email addresses used by threat actor in phishing kits.
 *   [PhoneInfoga (⭐14k)](https://github.com/sundowndev/PhoneInfoga) - Tools to scan phone numbers using only free resources. The goal is to first gather standard information such as country, area, carrier and line type on any international phone numbers with a very good accuracy. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.
 *   [Confusable Homoglyphs (⭐160)](https://github.com/vhf/confusable_homoglyphs) - Homoglyphs is a common phishing trick.
@@ -547,8 +553,8 @@
 *   [`hosts`](https://github.com/StevenBlack/hosts) - Consolidates reputable hosts files, and merges them into a unified hosts file with duplicates removed.
 *   [`nextdns/metadata`](https://github.com/nextdns/metadata) - Extensive collection of list for security, privacy and parental control.
 *   [The Public Suffix List](https://publicsuffix.org) - Mozilla's registry of public suffixes, under which Internet users can (or historically could) directly register names.
-*   [Country IP Blocks (⭐811)](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
-*   [Certificate Transparency Subdomains (⭐343)](https://github.com/internetwache/CT_subdomains) - An hourly updated list of subdomains gathered from certificate transparency logs.
+*   [Country IP Blocks (⭐834)](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
+*   [Certificate Transparency Subdomains (⭐346)](https://github.com/internetwache/CT_subdomains) - An hourly updated list of subdomains gathered from certificate transparency logs.
 *   [`common-domain-prefix-suffix-list.tsv`](https://gist.github.com/erikig/826f49442929e9ecfab6d7c481870700) - Top-5000 most common domain prefix/suffix list.
 *   [`hosts-blocklists`](https://github.com/notracking/hosts-blocklists) - No more ads, tracking and other virtual garbage.
 *   [`xkeyscorerules100.txt`](https://gist.github.com/sehrgut/324626fa370f044dbca7) - NSA's [XKeyscore](https://en.wikipedia.org/wiki/XKeyscore) matching rules for TOR and other anonymity preserving tools.
@@ -557,7 +563,7 @@
 
 ### Blocklists / Emails
 
-*   [Burner email providers (⭐1.1k)](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers. And its [derivative Python module (⭐3.5k)](https://github.com/martenson/disposable-email-domains).
+*   [Burner email providers (⭐1.1k)](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers. And its [derivative Python module (⭐3.6k)](https://github.com/martenson/disposable-email-domains).
 *   [MailChecker (⭐1.7k)](https://github.com/FGRibreau/mailchecker) - Cross-language temporary (disposable/throwaway) email detection library.
 *   [Temporary Email Address Domains](https://gist.github.com/adamloving/4401361) - A list of domains for disposable and temporary email addresses. Useful for filtering your email list to increase open rates (sending email to these domains likely will not be opened).
 *   [`gman`](https://github.com/benbalter/gman) - “A ruby gem to check if the owner of a given email address or website is working for THE MAN (a.k.a verifies government domains).” Good resource to hunt for potential government customers in your user base.
@@ -570,16 +576,16 @@
 
 ### Blocklists / Profanity
 
-*   [List of Dirty, Naughty, Obscene, and Otherwise Bad Words (⭐3k)](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - Profanity blocklist from Shutterstock.
+*   [List of Dirty, Naughty, Obscene, and Otherwise Bad Words (⭐3.1k)](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) - Profanity blocklist from Shutterstock.
 *   [`profanity-check`](https://github.com/vzhou842/profanity-check) - Uses a linear SVM model trained on 200k human-labeled samples of clean and profane text strings.
 
 ### Privacy / Profanity
 
-*   [Paper we love: Privacy (⭐91k)](https://github.com/papers-we-love/papers-we-love/tree/master/privacy) - A collection of scientific studies of schemes providing privacy by design.
+*   [Paper we love: Privacy (⭐92k)](https://github.com/papers-we-love/papers-we-love/tree/master/privacy) - A collection of scientific studies of schemes providing privacy by design.
 *   [IRMA Authentication](https://news.ycombinator.com/item?id=20144240) - Open-source app and protocol that offers privacy-friendly attribute based authentication and signing using [Camenisch and Lysyanskaya's Idemix](https://privacybydesign.foundation/publications/).
 *   [Have I been Pwned?](https://haveibeenpwned.com) - Data breach index.
 *   [Automated security testing for Software Developers](https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf) - Most privacy breaches were allowed by known vulnerabilities in third-party dependencies. Here is how to detect them by the way of CI/CD.
-*   [Email marketing regulations around the world (⭐450)](https://github.com/threeheartsdigital/email-marketing-regulations) - As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex.
+*   [Email marketing regulations around the world (⭐453)](https://github.com/threeheartsdigital/email-marketing-regulations) - As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex.
 
 ### Privacy / Anonymization
 
@@ -587,11 +593,11 @@
 *   [Four cents to deanonymize: Companies reverse hashed email addresses](https://freedom-to-tinker.com/2018/04/09/four-cents-to-deanonymize-companies-reverse-hashed-email-addresses/) - “Hashed email addresses can be easily reversed and linked to an individual”.
 *   [Why differential privacy is awesome](https://desfontain.es/privacy/differential-privacy-awesomeness.html) - Explain the intuition behind [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy), a theoretical framework which allow sharing of aggregated data without compromising confidentiality. See follow-up articles with [more details](https://desfontain.es/privacy/differential-privacy-in-more-detail.html) and [practical aspects](https://desfontain.es/privacy/differential-privacy-in-practice.html).
 *   [k-anonymity: an introduction](https://www.privitar.com/listing/k-anonymity-an-introduction) - An alternative anonymity privacy model.
-*   [Presidio (⭐4.2k)](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.
+*   [Presidio (⭐4.5k)](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.
 
 ### Privacy / GDPR
 
-*   [GDPR Developer Guide (⭐331)](https://github.com/LINCnil/GDPR-Developer-Guide) - Best practices for developers.
+*   [GDPR Developer Guide (⭐335)](https://github.com/LINCnil/GDPR-Developer-Guide) - Best practices for developers.
 *   [GDPR – A Practical guide for Developers](https://techblog.bozho.net/gdpr-practical-guide-developers/) - A one-page summary of the above.
 *   [GDPR documents (⭐264)](https://github.com/good-lly/gdpr-documents) - Templates for personal use to have companies comply with "Data Access" requests.
 *   [Dark Patterns after the GDPR](https://arxiv.org/pdf/2001.02479.pdf) - This paper demonstrates that, because of the lack of GDPR law enforcements, dark patterns and implied consent are ubiquitous.
@@ -629,7 +635,7 @@
 
 ### Authorization / AWS policy tools
 
-*   [PolicyUniverse (⭐431)](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
+*   [PolicyUniverse (⭐437)](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
 
 ### Privacy / Profanity
 
@@ -640,7 +646,7 @@
 ### Account Management
 
 *   [Kratos (⭐12k)](https://github.com/ory/kratos) - User login, user registration, 2FA and profile management.
-*   [Conjur (⭐804)](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
+*   [Conjur (⭐816)](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
 
 ### Authorization / ABAC frameworks
 

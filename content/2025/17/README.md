@@ -1,23 +1,35 @@
 # Awesome List Updates on Apr 28 - May 04, 2025
 
-36 awesome lists updated this week.
+37 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [1. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+
+### Zero-trust Network / Identifiers
+
+*   [heimdall (⭐182)](https://github.com/dadrus/heimdall) - A cloud-native, identity-aware proxy and policy enforcement point that orchestrates authentication and authorization systems via versatile rules, supporting protocol-agnostic identity propagation.
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Logic DSL Applications
 
 *   [MoVer: Motion Verification for Motion Graphics Animations](https://arxiv.org/abs/2502.13372) - 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=527747131334466686)]. While large vision-language models can generate motion graphics animations from text prompts, they regularly fail to include all of spatio-temporal properties described in the prompt. This work introduces MoVer, a motion verification DSL based on first-order logic that can check spatio-temporal properties of a motion graphics animation. The authors identify a general set of such properties that people commonly use to describe animations (e.g., the direction and timing of motions, the relative positioning of objects, etc.). The authors implement these properties as predicates in MoVer and provide an execution engine that can apply a MoVer program to any input SVG-based motion graphics animation. The authors then demonstrate how MoVer can be used in an LLM-based synthesis and verification pipeline for iteratively refining motion graphics animations. Given a text prompt, the pipeline synthesizes a motion graphics animation and a corresponding MoVer program. Executing the verification program on the animation yields a report of the predicates that failed and the report can be automatically fed back to LLM to iteratively correct the animation.
 
-## [2. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
+## [3. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
 
 ### Index / CDN
 
 *   [Gcore](https://gcore.com/cdn) 🇱🇺
 *   [OVHcloud CDN](https://www.ovhcloud.com/en/web-hosting/options/cdn/) 🇫🇷
+
+### Index / VPS
+
+*   [Combell Cloud](https://www.combell.com/en/cloud-server) 🇧🇪
+*   [Manitu](https://www.manitu.de/) 🇩🇪
+*   [TLDHost](https://www.tldhost.de/) 🇩🇪
 
 ### Index / Cloud
 
@@ -34,15 +46,17 @@
 
 ### Index / Domain name registrars
 
+*   [Combell Domains](https://www.combell.com/en/domain-names) 🇧🇪
+*   [Easyhost](https://www.easyhost.be/en/) 🇧🇪
 *   [netcup](https://netcup.de) 🇩🇪
 
 ### Index / Mail Providers
 
-*   [Dismail](https://dismail.de) 🇩🇪 - Secure and private mailboxes with subaddressing support.
 *   [La Poste](https://www.laposte.net/accueil)  🇫🇷 - French mail provider with security focus *Belongs to French postal service, and the website is in French*
 
 ### Index / Marketing Tools
 
+*   [Flexmail](https://flexmail.be/en) 🇧🇪 - Email marketing software.
 *   [Ambassify](https://www.ambassify.com) 🇧🇪 - Employee advocacy tool.
 
 ### Index / Productivity Tools
@@ -53,49 +67,43 @@
 
 *   [COMSOL Multiphysics](https://www.comsol.com/) 🇩🇪 - Finite element (FEM) analyzer, solver and simulation software
 *   [Enterprise Dynamics](https://www.incontrolsim.com/) 🇳🇱 - 2D and 3D Digital Twin Software
-*   [FORM](https://www.nikhef.nl/~form/) 🇳🇱 - Open source symbolic manipulation of very big expressions
 *   [GeoGebra](https://www.geogebra.org/) 🇦🇹 -  Interactive online geometry, algebra, statistics and calculus application
 *   [MAGMASOFT](https://www.magmasoft.de/) 🇩🇪 - Casting design and simulation
 *   [Scilab](https://www.scilab.org/) 🇫🇷 - Open source software for numerical computation
 *   [Tecnomatix Plant Simulation](https://plm.sw.siemens.com/en-US/tecnomatix/)  🇩🇪 - Modelling, simulating and visualizing of production systems
 *   [Warteschlangensimulator](https://a-herzog.github.io/Warteschlangensimulator/) 🇩🇪 - Open source event-driven stochastic simulation (DES)
 
-### Index / VPS
-
-*   [Manitu](https://www.manitu.de/) 🇩🇪
-*   [TLDHost](https://www.tldhost.de/) 🇩🇪
-
 ### Index / Web Analytics
 
 *   [Friendly Analytics](https://friendly.ch/en/analytics) 🇨🇭 - Open-source and privacy-focused analytics.
 
-## [3. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [4. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Articles / Golang - Community
 
 *   [Extending Your AI Application with Genkit MCP](https://medium.com/@nozomi-koborinai/extending-your-ai-application-with-genkit-mcp-475d7533ca9e) - Learn how to integrate Google Maps using Genkit MCP client to query MCP servers for enhanced location-based AI features.
 *   [Genkit vs Agent Development Kit (ADK): Choosing the Right Google‑Backed AI Framework](https://medium.com/@nozomi-koborinai/genkit-vs-agent-development-kit-adk-choosing-the-right-google-backed-ai-framework-1744b73234ac) - A comparison of two Google-backed AI frameworks, helping developers choose the right tool for their needs.
 
-## [4. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [5. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Podcasts / Helpers
 
 *   [SE Radio: Christian Mesh on OpenTofu](https://se-radio.net/2025/01/se-radio-652-christian-mesh-on-opentofu/)
 
-## [5. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+## [6. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
 ### Useful Stack Overflow questions & answers
 
 *   [How to remove GitHub's Wiki default sidebar?](https://stackoverflow.com/questions/23635414/how-to-remove-githubs-wiki-default-sidebar)
 
-## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [7. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
 *   [LangWatch (⭐1.3k)](https://github.com/langwatch/langwatch): An Open Source tool for observing, evaluating and optimising your llm apps and prompts, which supports LangChain out of the box! ![GitHub Repo stars](https://img.shields.io/github/stars/langwatch/langwatch?style=social)
 *   [Agentic Radar (⭐441)](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows. Scans your workflow’s source code, detects vulnerabilities, and generates an interactive visualization along with a detailed security report. ![GitHub Repo stars](https://img.shields.io/github/stars/splx-ai/agentic-radar?style=social)
 
-## [7. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [8. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Speciality Search Engines
 
@@ -114,13 +122,13 @@
 
 *   [Unfurl](https://dfir.blog/unfurl/) - Unfurl analyzes and breaks down URLs into useful forensic components for digital investigation.
 
-## [8. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [9. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Tools / Paid and commercially available materials
 
 *   [rumbac (⭐0)](https://github.com/akavel/rumbac) is a simple CLI flasher for *Arduino Nano 33 BLE Rev2 / Sense Rev2* boards, using the SAM-BA protocol to talk with the Arduino-provided bootloader, porting just enough of the `bossac` tool to Rust
 
-## [9. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [10. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Apps / Third-party APIs
 
@@ -129,7 +137,7 @@
     *   excellent documentation.
 *   [parcom (⭐39)](https://github.com/fosskers/parcom) -  Simple parser combinators for Common Lisp, in the style of Haskell’s `parsec` and Rust’s `nom`. [MPL-2.0](http://mozilla.org/MPL/2.0/).
 
-## [10. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Bot Building
 
@@ -143,11 +151,20 @@
 
 *   [DiceDB (⭐10k)](https://github.com/DiceDB/dice) - An open-source, fast, reactive, in-memory database optimized for modern hardware. Higher throughput and lower median latencies, making it ideal for modern workloads.
 
+### Database Tools
+
+*   [database-gateway (⭐21)](https://github.com/kazhuravlev/database-gateway) - Running SQL in production with ACLs, logs, and shared links.
+
 ### Error Handling
 
 *   [metaerr (⭐2)](https://github.com/quantumcycle/metaerr) - A library to create your custom error builders producing structured errors with metadata from different sources and optional stacktraces.
 
-## [11. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+### Utilities
+
+*   [healthcheck (⭐13)](https://github.com/kazhuravlev/healthcheck) - A simple yet powerful readiness test for Kubernetes.
+*   [optional (⭐7)](https://github.com/kazhuravlev/optional) - Optional struct fields and vars.
+
+## [12. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Video / Educational
 
@@ -166,7 +183,7 @@
 *   [Using Microsoft VSCode for CircuitPython (⭐27)](https://github.com/wmerkens/vscode-circuitpython) (GitHub) and [Microsoft Marketplace](https://marketplace.visualstudio.com/items?itemName=wmerkens.vscode-circuitpython-v2).
 *   [Microsoft Device Simulator Express (⭐174)](https://github.com/microsoft/vscode-python-devicesimulator) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code (no longer maintained).
 
-## [12. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [13. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### JSON
 
@@ -176,7 +193,7 @@
 
 *   [ReerKit (⭐111)](https://github.com/reers/ReerKit) - Powerful Swift foundation library of extensions and providing utility functions to supercharge your iOS/macOS/Linux development workflow.
 
-## [13. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -255,13 +272,17 @@
 
 *   [JSON Schema (⭐4.2k) (⭐4.2k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [14. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [15. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Web framework
 
 *   [Yelix](https://docs.yelix.dev/) - Yelix is a [Hono (⭐24k)](https://github.com/honojs/hono) based Deno web server framework that simplifies backend development with built-in tools and automation.
 
-## [15. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+
+### Design and Product / Design Tools
+
+*   [Lunacy](https://icons8.com/lunacy) - A vector graphic design tool for UI/UX with offline support, built-in assets, and real-time collaboration. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/lunacy-graphic-design-editor/id1582493835?mt=12)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -279,13 +300,13 @@
 
 *   [Tailscale](https://tailscale.com/) - Tailscale makes creating software-defined networks easy: securely connecting users, services, and devices.
 
-## [16. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [17. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Social Network
 
 *   [Snag (⭐7)](https://github.com/mihalycsaba/snag) - Client application for steamgifts.com by [mihalycsaba](https://github.com/mihalycsaba).
 
-## [17. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [18. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Development
 
@@ -295,19 +316,19 @@
 
 *   [Earth Hero Climate Action App](https://www.earthhero.org/get-involved/) - Join the volunteer team behind the free climate action app that makes it easy for people to act on climate change. Made up of developers, designers, researchers, writers, marketers, translators, and project managers from around the world.
 
-## [18. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [19. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### People Doing Open Source Work / Hardware related
 
 *   [Erik Moqvist](https://github.com/sponsors/eerimoq) - Moblin, iOS app for IRL streaming and many other libraries.
 
-## [19. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [20. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Software Engineering
 
 *   [Falsehoods about CVE](https://medium.com/@jonathan.leitschuh/falsehoods-people-believe-about-cves-85c1d063ffda) - CVE ≠ vulnerability (and 36 other confusions).
 
-## [20. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
+## [21. Awesome Userscripts](/content/bvolpato/awesome-userscripts/week/README.md)
 
 ### Scripts / GitHub
 
@@ -317,13 +338,13 @@
 
 *   [YouTube Play All (⭐41)](https://github.com/RobertWesner/YouTube-Play-All) - Returns the classic "Play All" button for not just videos, but also shorts and livestreams.
 
-## [21. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [22. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [Docker Katas (⭐256)](https://github.com/eficode-academy/docker-katas)
 
-## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [23. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -401,18 +422,14 @@
 
 *   [Zoraxy](https://zoraxy.aroz.org/) - General purpose HTTP reverse proxy and forwarding tool. ([Source Code (⭐4k)](https://github.com/tobychui/zoraxy)) `AGPL-3.0` `Go/Docker`
 
-## [23. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [24. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
 *   [Grigorij-Dudnik/Clean-Coder-AI (⭐461)](https://github.com/Grigorij-Dudnik/Clean-Coder-AI#readme) - Crazy project trailer video. Beautiful logo, explanatory motion gifs. Nice badges, and schema describing the framework's principle of work. List of stargazers. Clear description of what project does.
 *   [voltagent/voltagent (⭐263)](https://github.com/voltagent/voltagent#readme) - Clean project logo. Useful badges and links (website, docs, demo). Screenshot. Clear code examples amongst the feature list. Quickstart example.
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### Design and UI
-
-*   [Lunacy](https://icons8.com/lunacy) -- Free graphic design tool with offline support, built-in assets (icons, photos, illustrations), and real-time collaboration. The free tier includes 10 cloud documents, a 30-day history, low-res assets, and basic design tools.
+## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -432,13 +449,13 @@
 *   [Superblocks](https://superblocks.com/) — Open enterprise application platform designed for developers and semi-technical teams. Use AI to generate, edit visually and extend with code. Govern centrally with integrations, authentication, permissions & audit logs.
 *   [manubes](https://www.manubes.com) - Powerful no-code cloud platform with a focus on industrial production management. Free for one user with 1 million workflow activities a month ([also available in german](https://www.manubes.de)).
 
-## [25. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [26. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### validation
 
 *   [geojson-pydantic (⭐252)](https://github.com/developmentseed/geojson-pydantic): [Pydantic](https://docs.pydantic.dev/latest/) models for GeoJSON
 
-## [26. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [27. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Podcasting
 
@@ -449,26 +466,26 @@
 *   [OnTime (⭐597)](https://github.com/cpvalente/ontime) - Web based time keeping system for live events with a broadcast clock view.
 *   [SuperConductor (⭐260)](https://github.com/SuperFlyTV/SuperConductor) - Rundown/playout controller for CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices among others.
 
-## [27. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [28. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Music Programming
 
 *   [DrumBeatRepo (⭐8)](https://github.com/babali42/drumbeatrepo) - A rhythm library for playing drum beats of differents music genres in the browser.
 
-## [28. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
+## [29. Awesome Jamstack](/content/automata/awesome-jamstack/week/README.md)
 
 ### API / Authentication
 
 *   [Scalekit](https://scalekit.com) – Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites.
 
-## [29. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [30. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Projects Using Vue.js / Apps/Websites
 
 *   [MapperMate](https://mappermate.com) - Free-to-use tilemap editor used to create, edit, and manage tilemaps for 2D games
 *   [Chris Courses](https://chriscourses.com) - JavaScript and 2D game dev learning platform with interactive videos, quizzes, and code challenges
 
-## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [31. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Style Guides / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -572,7 +589,7 @@
 *   [di (⭐2)](https://github.com/kaokei/di) - This library is a lightweight dependency injection library, similar to [InversifyJS (⭐12k)](https://github.com/inversify/InversifyJS) and [typedi (⭐4.1k)](https://github.com/typestack/typedi).
 *   [needle-di (⭐58)](https://github.com/needle-di/needle-di) - A lightweight, type-safe Dependency Injection (DI) library for JavaScript and TypeScript projects.
 
-## [31. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
+## [32. Awesome Css Frameworks](/content/troxler/awesome-css-frameworks/week/README.md)
 
 ### Specialized
 
@@ -582,7 +599,7 @@
     [Repo (⭐574)](https://github.com/zumerlab/orbit)
     \| #SCSS
 
-## [32. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [33. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Awesome TypeScript Essential Resources
 
@@ -592,7 +609,7 @@
 
 *   :octocat: [VoltAgent (⭐263)](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
 
-## [33. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 
@@ -618,7 +635,7 @@
 
 *   [y3owk1n/dotmd.nvim (⭐8)](https://github.com/y3owk1n/dotmd.nvim) - Managing notes, todos, journal entries and inbox all with markdown.
 
-## [34. Awesome Pci Dss](/content/junhui/awesome-pci-dss/week/README.md)
+## [35. Awesome Pci Dss](/content/junhui/awesome-pci-dss/week/README.md)
 
 ### Official Resources
 
@@ -759,7 +776,7 @@
 *   Add your resource under the relevant section (alphabetical order)
 *   Submit a pull request
 
-## [35. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [36. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -776,7 +793,7 @@
 
 *   [jmsp (⭐0)](https://github.com/juacu7340/jmsp.zsh-theme) - Focused on simplicity and SSH usefullness. Includes `git` status and current directory decorators.
 
-## [36. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [37. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Utilities
 

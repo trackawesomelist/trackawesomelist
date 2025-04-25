@@ -135,6 +135,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 *   [84codes](https://www.84codes.com/) 🇸🇪 - Cloud hosting focused on RabbitMQ and LavinMQ.
 *   [Aruba](https://www.aruba.it) 🇮🇹 - Cloud hosting and data center services.
+*   [Combell Cloud](https://www.combell.com/en/cloud-server) 🇧🇪
 *   [copyparty (⭐1.1k)](https://github.com/9001/copyparty) 🇳🇴 - Self-hosted file-sharing and file-transfer server.
 *   [Cozy](https://www.cozy.io) 🇫🇷 - Privacy-first personal cloud for data management.
 *   [datacrunch](https://datacrunch.io/) 🇫🇮 - GPU cloud computing for AI/ML workloads.
@@ -242,7 +243,8 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### Domain name registrars
 
 *   [Aruba Domains](https://www.aruba.it) 🇮🇹
-*   [Combell Domains](https://www.combell.com) 🇧🇪
+*   [Combell Domains](https://www.combell.com/en/domain-names) 🇧🇪
+*   [Easyhost](https://www.easyhost.be/en/) 🇧🇪
 *   [Gandi](https://www.gandi.net) 🇫🇷
 *   [Hostinger Domain](https://www.hostinger.com) 🇱🇹
 *   [Infomaniak Domains](https://www.infomaniak.com/en/domains) 🇨🇭
@@ -324,7 +326,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### Mail Providers
 
-*   [Dismail](https://dismail.de) 🇩🇪 - Secure and private mailboxes with subaddressing support.
 *   [Disroot](https://disroot.org/en/services/email) 🇳🇱 - Privacy-focused email with open-source tools.
 *   [La Poste](https://www.laposte.net/accueil)  🇫🇷 - French mail provider with security focus *Belongs to French postal service, and the website is in French*
 *   [Mailbox.org](https://mailbox.org/) 🇩🇪 - Secure email with ad-free productivity suites.
@@ -338,6 +339,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 ### Marketing Tools
 
 *   [Brevo](https://www.brevo.com/) 🇫🇷 - Email marketing software and CRM.
+*   [Flexmail](https://flexmail.be/en) 🇧🇪 - Email marketing software.
 *   [GetResponse](https://www.getresponse.com) 🇵🇱 - Email marketing software.
 *   [Keila](https://www.keila.io) 🇩🇪 - Open Source email newsletter tool.
 *   [RenderForm](https://renderform.io) 🇵🇱 - Image generation and automation tool.
@@ -403,7 +405,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 *   [COMSOL Multiphysics](https://www.comsol.com/) 🇩🇪 - Finite element (FEM) analyzer, solver and simulation software
 *   [Enterprise Dynamics](https://www.incontrolsim.com/) 🇳🇱 - 2D and 3D Digital Twin Software
-*   [FORM](https://www.nikhef.nl/~form/) 🇳🇱 - Open source symbolic manipulation of very big expressions
 *   [GeoGebra](https://www.geogebra.org/) 🇦🇹 -  Interactive online geometry, algebra, statistics and calculus application
 *   [MAGMASOFT](https://www.magmasoft.de/) 🇩🇪 - Casting design and simulation
 *   [Scilab](https://www.scilab.org/) 🇫🇷 - Open source software for numerical computation
@@ -454,7 +455,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Cloudify](https://cloudify.ro) 🇷🇴
 *   [Clouding.io](https://clouding.io) 🇪🇸
 *   [cloudscale](https://www.cloudscale.ch) 🇨🇭
-*   [Combell Cloud](https://www.combell.com/en/cloud) 🇧🇪
+*   [Combell Cloud](https://www.combell.com/en/cloud-server) 🇧🇪
 *   [Contabo](https://www.contabo.com) 🇩🇪
 *   [Gigas](https://gigas.com/cloud-vps) 🇪🇸
 *   [Ginernet](https://ginernet.com) 🇪🇸

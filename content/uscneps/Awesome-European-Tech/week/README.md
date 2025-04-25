@@ -13,6 +13,12 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 *   [Gcore](https://gcore.com/cdn) 🇱🇺
 *   [OVHcloud CDN](https://www.ovhcloud.com/en/web-hosting/options/cdn/) 🇫🇷
 
+### Index / VPS
+
+*   [Combell Cloud](https://www.combell.com/en/cloud-server) 🇧🇪
+*   [Manitu](https://www.manitu.de/) 🇩🇪
+*   [TLDHost](https://www.tldhost.de/) 🇩🇪
+
 ### Index / Cloud
 
 *   [OpenCloud](https://opencloud.eu/) 🇩🇪 - Excellent file management and collaboration for anyone who values ease of use and digital sovereignty.
@@ -28,15 +34,17 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 ### Index / Domain name registrars
 
+*   [Combell Domains](https://www.combell.com/en/domain-names) 🇧🇪
+*   [Easyhost](https://www.easyhost.be/en/) 🇧🇪
 *   [netcup](https://netcup.de) 🇩🇪
 
 ### Index / Mail Providers
 
-*   [Dismail](https://dismail.de) 🇩🇪 - Secure and private mailboxes with subaddressing support.
 *   [La Poste](https://www.laposte.net/accueil)  🇫🇷 - French mail provider with security focus *Belongs to French postal service, and the website is in French*
 
 ### Index / Marketing Tools
 
+*   [Flexmail](https://flexmail.be/en) 🇧🇪 - Email marketing software.
 *   [Ambassify](https://www.ambassify.com) 🇧🇪 - Employee advocacy tool.
 
 ### Index / Productivity Tools
@@ -47,17 +55,11 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 *   [COMSOL Multiphysics](https://www.comsol.com/) 🇩🇪 - Finite element (FEM) analyzer, solver and simulation software
 *   [Enterprise Dynamics](https://www.incontrolsim.com/) 🇳🇱 - 2D and 3D Digital Twin Software
-*   [FORM](https://www.nikhef.nl/~form/) 🇳🇱 - Open source symbolic manipulation of very big expressions
 *   [GeoGebra](https://www.geogebra.org/) 🇦🇹 -  Interactive online geometry, algebra, statistics and calculus application
 *   [MAGMASOFT](https://www.magmasoft.de/) 🇩🇪 - Casting design and simulation
 *   [Scilab](https://www.scilab.org/) 🇫🇷 - Open source software for numerical computation
 *   [Tecnomatix Plant Simulation](https://plm.sw.siemens.com/en-US/tecnomatix/)  🇩🇪 - Modelling, simulating and visualizing of production systems
 *   [Warteschlangensimulator](https://a-herzog.github.io/Warteschlangensimulator/) 🇩🇪 - Open source event-driven stochastic simulation (DES)
-
-### Index / VPS
-
-*   [Manitu](https://www.manitu.de/) 🇩🇪
-*   [TLDHost](https://www.tldhost.de/) 🇩🇪
 
 ### Index / Web Analytics
 
@@ -549,7 +551,6 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 ### Index / Domain name registrars
 
 *   [Aruba Domains](https://www.aruba.it) 🇮🇹
-*   [Combell Domains](https://www.combell.com) 🇧🇪
 *   [Gandi](https://www.gandi.net) 🇫🇷
 *   [Hostinger Domain](https://www.hostinger.com) 🇱🇹
 *   [Infomaniak Domains](https://www.infomaniak.com/en/domains) 🇨🇭
@@ -633,7 +634,6 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 *   [AlphaVPS](https://www.alphavps.com) 🇧🇬
 *   [Aruba Cloud](https://www.arubacloud.com) 🇮🇹
 *   [cloudscale](https://www.cloudscale.ch) 🇨🇭
-*   [Combell Cloud](https://www.combell.com/en/cloud) 🇧🇪
 *   [Contabo](https://www.contabo.com) 🇩🇪
 *   [Hetzner](https://www.hetzner.com) 🇩🇪
 *   [netcup](https://www.netcup.eu) 🇩🇪

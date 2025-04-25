@@ -796,6 +796,7 @@ additional ordered map implementations.
 
 *   [chproxy (⭐1.3k)](https://github.com/Vertamedia/chproxy) - HTTP proxy for ClickHouse database.
 *   [clickhouse-bulk (⭐489)](https://github.com/nikepan/clickhouse-bulk) - Collects small inserts and sends big requests to ClickHouse servers.
+*   [database-gateway (⭐21)](https://github.com/kazhuravlev/database-gateway) - Running SQL in production with ACLs, logs, and shared links.
 *   [dbbench (⭐105)](https://github.com/sj14/dbbench) - Database benchmarking tool with support for several databases and scripts.
 *   [dg (⭐33)](https://github.com/codingconcepts/dg) - A fast data generator that produces CSV files from generated relational data.
 *   [gatewayd (⭐250)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
@@ -2822,6 +2823,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [grofer (⭐372)](https://github.com/pesos/grofer) - A system and resource monitoring tool written in Golang!
 *   [gubrak (⭐493)](https://github.com/novalagung/gubrak) - Golang utility library with syntactic sugar. It's like lodash, but for golang.
 *   [handy (⭐82)](https://github.com/miguelpragier/handy) - Many utilities and helpers like string handlers/formatters and validators.
+*   [healthcheck (⭐13)](https://github.com/kazhuravlev/healthcheck) - A simple yet powerful readiness test for Kubernetes.
 *   [hostctl (⭐1.1k)](https://github.com/guumaster/hostctl) - A CLI tool to manage /etc/hosts with easy commands.
 *   [htcat (⭐556)](https://github.com/htcat/htcat) - Parallel and Pipelined HTTP GET Utility.
 *   [hub (⭐23k)](https://github.com/github/hub) - wrap git commands with additional functionality to interact with github from the terminal.
@@ -2857,6 +2859,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [okrun (⭐16)](https://github.com/xta/okrun) - go run error steamroller.
 *   [olaf (⭐5)](https://github.com/btnguyen2k/olaf) - Twitter Snowflake implemented in Go.
 *   [onecache (⭐136)](https://github.com/adelowo/onecache) - Caching library with support for multiple backend stores (Redis, Memcached, filesystem etc).
+*   [optional (⭐7)](https://github.com/kazhuravlev/optional) - Optional struct fields and vars.
 *   [panicparse (⭐3.7k)](https://github.com/maruel/panicparse) - Groups similar goroutines and colorizes stack dump.
 *   [pattern-match (⭐247)](https://github.com/alexpantyukhin/go-pattern-match) - Pattern matching library.
 *   [peco (⭐7.7k)](https://github.com/peco/peco) - Simplistic interactive filtering tool.
@@ -3223,7 +3226,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 *   [gocontracts (⭐111)](https://github.com/Parquery/gocontracts) - brings design-by-contract to Go by synchronizing the code with the documentation.
 *   [godal (⭐18)](https://github.com/mafulong/godal) - Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm.
 *   [gonerics (⭐113)](https://github.com/bouk/gonerics) - Idiomatic Generics in Go.
-*   [gotests (⭐5k)](https://github.com/cweill/gotests) - Generate Go tests from your source code.
+*   [gotests (⭐5.1k)](https://github.com/cweill/gotests) - Generate Go tests from your source code.
 *   [gounit (⭐84)](https://github.com/hexdigest/gounit) - Generate Go tests using your own templates.
 *   [hasgo (⭐143)](https://github.com/DylanMeeus/hasgo) - Generate Haskell inspired functions for your slices.
 *   [options-gen (⭐86)](https://github.com/kazhuravlev/options-gen) - Functional options described by Dave Cheney's post "Functional options for friendly APIs".

@@ -20,9 +20,18 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [DiceDB (⭐10k)](https://github.com/DiceDB/dice) - An open-source, fast, reactive, in-memory database optimized for modern hardware. Higher throughput and lower median latencies, making it ideal for modern workloads.
 
+### Database Tools
+
+*   [database-gateway (⭐21)](https://github.com/kazhuravlev/database-gateway) - Running SQL in production with ACLs, logs, and shared links.
+
 ### Error Handling
 
 *   [metaerr (⭐2)](https://github.com/quantumcycle/metaerr) - A library to create your custom error builders producing structured errors with metadata from different sources and optional stacktraces.
+
+### Utilities
+
+*   [healthcheck (⭐13)](https://github.com/kazhuravlev/healthcheck) - A simple yet powerful readiness test for Kubernetes.
+*   [optional (⭐7)](https://github.com/kazhuravlev/optional) - Optional struct fields and vars.
 
 ## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
@@ -4755,7 +4764,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gocontracts (⭐111)](https://github.com/Parquery/gocontracts) - brings design-by-contract to Go by synchronizing the code with the documentation.
 *   [godal (⭐18)](https://github.com/mafulong/godal) - Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm.
 *   [gonerics (⭐113)](https://github.com/bouk/gonerics) - Idiomatic Generics in Go.
-*   [gotests (⭐5k)](https://github.com/cweill/gotests) - Generate Go tests from your source code.
+*   [gotests (⭐5.1k)](https://github.com/cweill/gotests) - Generate Go tests from your source code.
 *   [gounit (⭐84)](https://github.com/hexdigest/gounit) - Generate Go tests using your own templates.
 *   [hasgo (⭐143)](https://github.com/DylanMeeus/hasgo) - Generate Haskell inspired functions for your slices.
 *   [TOML-to-Go](https://xuri.me/toml-to-go) - Translates TOML into a Go type in the browser instantly.
