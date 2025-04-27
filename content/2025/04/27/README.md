@@ -1,18 +1,24 @@
 # Awesome List Updates on Apr 27, 2025
 
-2 awesome lists updated today.
+3 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [1. Magictools](/content/ellisonleao/magictools/README.md)
+
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: [Box2D.NET (⭐21)](https://github.com/ikpil/Box2D.NET) - A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
+
+## [2. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Network Tools / Network Traffic Replay and Editing Tools
 
 *   [snort (⭐2.9k)](https://github.com/snort3/snort3) - Open Source Intrusion Prevention System
 
-## [2. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ### Apps / Outline Processor Markup Language
 
