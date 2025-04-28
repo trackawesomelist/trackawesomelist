@@ -651,7 +651,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-dev-toolbar (⭐8)](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
 *   [ngx-rename (⭐2)](https://github.com/Khumozin/ngx-rename) - This repository contains PowerShell and Bash scripts to rename an Angular project folder and update relevant files, such as angular.json, package.json, tsconfig.json, and other configuration files.
 *   [madge (⭐9.4k)](https://github.com/pahen/madge) - A developer tool for generating a visual graph of your module dependencies, finding circular dependencies, and giving you other useful info.
-*   [manifest (⭐2.4k)](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
+*   [manifest (⭐2.5k)](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
 *   [zed-angular (⭐88)](https://github.com/nathansbradshaw/zed-angular) - This extension integrates the Angular Language Service into [Zed](https://zed.dev/).
 
 #### Documentation tools
@@ -1020,7 +1020,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [playwright-coverage (⭐43)](https://github.com/bgotink/playwright-coverage) - Report coverage on playwright tests using v8 coverage, without requiring any instrumentation.
 *   [Cypress to Playwright](https://www.cy2pw.com/) - A curated collection of resources that can help you to migrate your test suite from Cypress to Playwright.
 *   [Playwright Chrome Recorder](https://chromewebstore.google.com/detail/playwright-chrome-recorde/bfnbgoehgplaehdceponclakmhlgjlpd) - Export Chromium recorder tab data to Playwright tests. This gives you a nice starting point that you can refine to modern Playwright.
-*   [playwright-mcp (⭐7.7k)](https://github.com/microsoft/playwright-mcp) - A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright. This server enables LLMs to interact with web pages through structured accessibility snapshots, bypassing the need for screenshots or visually-tuned models.
+*   [playwright-mcp (⭐9.2k)](https://github.com/microsoft/playwright-mcp) - A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright. This server enables LLMs to interact with web pages through structured accessibility snapshots, bypassing the need for screenshots or visually-tuned models.
 
 ##### Component
 
@@ -1044,6 +1044,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Early AI](https://www.startearly.ai/) - Save time, enhance code coverage, and ensure quality with Early's automatically generated, verified, and validated unit tests.  Works with Jest and Vitest.
 *   [swc-angular (⭐257)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
 *   [swc-angular-plugin (⭐257)](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.
+*   [wdio-harness (⭐7)](https://github.com/badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
 
 ##### Guides
 
@@ -1459,6 +1460,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [DynamicAngularForm (⭐1)](https://github.com/Brrake/DynamicAngularForm) - Create dynamic form by passing a JSON with associated values.
 *   [dynamic-forms (⭐22)](https://github.com/dynamic-forms/dynamic-forms) - Angular project for dynamic forms based on JSON.
 *   [json-forms-zorro-wrapper (⭐6)](https://github.com/wojtek1150/json-forms-zorro-wrapper) - Ng Zorro wrapper for json forms library.
+*   [ngx-formwork (⭐3)](https://github.com/TheNordicOne/ngx-formwork) - This package provides a framework for creating Angular Reactive Forms, based on a configuration. This configuration can come from a server in the form of JSON or directly from an object written in TypeScript.
 
 ##### Validation
 
@@ -1696,8 +1698,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [@man-es/ngx-tools (⭐2)](https://github.com/man-es/ngx-tools) - The MAN ngx-tools repository contains a collection of libraries is designed to elevate your Angular development experience.
 *   [ngx-oneforall (⭐1)](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
 *   [angular-signal-generators (⭐19)](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
-*   [mmstack (⭐7)](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
-*   [@tomaszatoo/ngx-libs (⭐2)](https://github.com/tomaszatoo/ngx-libs) - Repository for some useful Angular libraries, such as [ngx-timer](https://www.npmjs.com/package/@tomaszatoo/ngx-timer).
+*   [mmstack (⭐9)](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
+*   [@tomaszatoo/ngx-libs (⭐3)](https://github.com/tomaszatoo/ngx-libs) - Repository for some useful Angular libraries, such as [ngx-timer](https://www.npmjs.com/package/@tomaszatoo/ngx-timer).
 
 #### Modals
 
@@ -1710,7 +1712,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-whats-new (⭐4)](https://github.com/4gray/ngx-whats-new) - A simple library for creating multi-modal windows.
 *   [ngx-dialog (⭐1)](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
 *   [ng-modal-service (⭐1)](https://github.com/nhusby/ng-modal-service) - A simple Angular modal Service.
-*   [strictly-typed-mat-dialog (⭐4)](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
+*   [strictly-typed-mat-dialog (⭐5)](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
 
 #### Notifications
 
@@ -2156,7 +2158,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [arky-js](https://www.npmjs.com/package/arky-js) - A powerful, annotation-based framework for building serverless applications on AWS Lambda and API Gateway. Inspired by Angular and NestJS, Arky.js simplifies serverless development by providing decorators for defining modules, controllers, and services.
 *   [css-fx-layout (⭐49)](https://github.com/philmtd/css-fx-layout) - A responsive SCSS flexbox library inspired by Angular [Flex-Layout (⭐5.9k)](https://github.com/angular/flex-layout).
 *   [di (⭐2)](https://github.com/kaokei/di) - This library is a lightweight dependency injection library, similar to [InversifyJS (⭐12k)](https://github.com/inversify/InversifyJS) and [typedi (⭐4.1k)](https://github.com/typestack/typedi).
-*   [flexdi (⭐7)](https://github.com/AndreyShashlovDev/flexdi) - A flexible, efficient, and lightweight dependency injection library for React / React Native / Vue3 applications. The library is inspired by the principles and architectural approach of NestJS and Angular.
+*   [flexdi (⭐8)](https://github.com/AndreyShashlovDev/flexdi) - A flexible, efficient, and lightweight dependency injection library for React / React Native / Vue3 applications. The library is inspired by the principles and architectural approach of NestJS and Angular.
 *   [fornax (⭐10)](https://github.com/TBosak/fornax) - A lightweight, opinionated, and highly customizable Bun-powered full-stack web framework designed to simplify building single-page applications with custom components, routing, and flexible styling options.
 *   [friendly-di (⭐4)](https://github.com/AlexSergey/friendly-di) - A lightweight and high-performance inversion of control (IoC) container inspired by NestJS and Angular.
 *   [GameEngine (⭐2)](https://github.com/gandolphinnn/GameEngine) - A Typescript game engine inspired by Angular.

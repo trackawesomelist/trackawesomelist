@@ -6,6 +6,32 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 [ [Daily](/content/dhamaniasad/awesome-postgres/README.md) / Weekly / [Overview](/content/dhamaniasad/awesome-postgres/readme/README.md) ]
 
+## [May 05 - May 11, 2025](/content/2025/18/README.md)
+
+### Contents / GUI
+
+*   [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
+
+### Contents / Distributions
+
+*   [Pigsty (⭐3.9k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
+
+### Contents / Server
+
+*   [FerretDB](https://www.ferretdb.io) - A truly Open Source MongoDB alternative on top of PostgreSQL.
+
+### Contents / Monitoring
+
+*   [pg\_exporter (⭐212)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
+
+### Contents / Optimization
+
+*   [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
+
+### Contents / PaaS *(PostgreSQL as a Service)*
+
+*   [ScaleGrid PostgreSQL DBaaS](https://scalegrid.io/postgresql.html) - Fully managed PostgreSQL hosting with high availability, dedicated servers, and superuser control on the #1 multi-cloud Amazon RDS alternative.
+
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
@@ -733,7 +759,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 *   Common Lisp: [Postmodern (⭐406)](https://github.com/marijnh/Postmodern)
 *   Elixir: [postgrex (⭐1.2k)](https://github.com/elixir-ecto/postgrex)
-*   Rust: [rust-postgresql (⭐3.7k)](https://github.com/sfackler/rust-postgres), [pgx (⭐4k)](https://github.com/tcdi/pgx), [wtx (⭐270)](https://github.com/c410-f3r/wtx)
+*   Rust: [rust-postgresql (⭐3.7k)](https://github.com/sfackler/rust-postgres), [pgx (⭐4k)](https://github.com/tcdi/pgx), [wtx (⭐275)](https://github.com/c410-f3r/wtx)
 
 ## [Jul 18 - Jul 24, 2016](/content/2016/29/README.md)
 

@@ -6,6 +6,16 @@
 
 [ [Daily](/content/PatrickJS/awesome-angular/README.md) / Weekly / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [May 05 - May 11, 2025](/content/2025/18/README.md)
+
+### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [wdio-harness (⭐7)](https://github.com/badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
+
+### JSON Forms / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-formwork (⭐3)](https://github.com/TheNordicOne/ngx-formwork) - This package provides a framework for creating Angular Reactive Forms, based on a configuration. This configuration can come from a server in the form of JSON or directly from an object written in TypeScript.
+
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
 ### Style Guides / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -134,7 +144,7 @@
 
 ### e2e / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [playwright-mcp (⭐7.7k)](https://github.com/microsoft/playwright-mcp) - A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright. This server enables LLMs to interact with web pages through structured accessibility snapshots, bypassing the need for screenshots or visually-tuned models.
+*   [playwright-mcp (⭐9.2k)](https://github.com/microsoft/playwright-mcp) - A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright. This server enables LLMs to interact with web pages through structured accessibility snapshots, bypassing the need for screenshots or visually-tuned models.
 
 ### Animations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -163,13 +173,13 @@
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-oneforall (⭐1)](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
-*   [mmstack (⭐7)](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
-*   [@tomaszatoo/ngx-libs (⭐2)](https://github.com/tomaszatoo/ngx-libs) - Repository for some useful Angular libraries, such as [ngx-timer](https://www.npmjs.com/package/@tomaszatoo/ngx-timer).
+*   [mmstack (⭐9)](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
+*   [@tomaszatoo/ngx-libs (⭐3)](https://github.com/tomaszatoo/ngx-libs) - Repository for some useful Angular libraries, such as [ngx-timer](https://www.npmjs.com/package/@tomaszatoo/ngx-timer).
 
 ### Modals / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-modal-service (⭐1)](https://github.com/nhusby/ng-modal-service) - A simple Angular modal Service.
-*   [strictly-typed-mat-dialog (⭐4)](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
+*   [strictly-typed-mat-dialog (⭐5)](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
 
 ### NgRx / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -185,7 +195,7 @@
 
 ### Inspired by Angular / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [flexdi (⭐7)](https://github.com/AndreyShashlovDev/flexdi) - A flexible, efficient, and lightweight dependency injection library for React / React Native / Vue3 applications. The library is inspired by the principles and architectural approach of NestJS and Angular.
+*   [flexdi (⭐8)](https://github.com/AndreyShashlovDev/flexdi) - A flexible, efficient, and lightweight dependency injection library for React / React Native / Vue3 applications. The library is inspired by the principles and architectural approach of NestJS and Angular.
 
 ## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
@@ -277,7 +287,7 @@
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [manifest (⭐2.4k)](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
+*   [manifest (⭐2.5k)](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
 
 ### Documentation tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

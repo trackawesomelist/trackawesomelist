@@ -85,6 +85,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [OmniDB](https://omnidb.org/en/) - Open Source Collaborative Environment
     For Database Management
 *   [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
+*   [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
 *   [pgModeler](https://pgmodeler.io/) - pgModeler is an open-source PostgreSQL Database Modeler.
 *   [pgweb (⭐8.9k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
 *   [phpPgAdmin (⭐817)](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
@@ -103,6 +104,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 *   [Postgres.app](https://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
 *   [PostgreSql.Binaries.Lite](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
+*   [Pigsty (⭐3.9k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
 
 ### CLI
 
@@ -119,6 +121,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 *   [AgensGraph](https://bitnine.net/) - Powerful graph database based on the PostgreSQL.
 *   [Greenplum Database](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
+*   [FerretDB](https://www.ferretdb.io) - A truly Open Source MongoDB alternative on top of PostgreSQL.
 *   [YugabyteDB](https://yugabyte.com/) - Open Source Distributed SQL using  a fork of PostgreSQL on top of distributed storage and transaction
 
 ### Monitoring
@@ -136,6 +139,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [opm.io](http://opm.io) -  Open PostgreSQL Monitoring is a free software suite designed to help you manage your PostgreSQL servers. It can gather stats, display dashboards and send warnings when something goes wrong.
 *   [okmeter.io](https://okmeter.io/pg) - Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).
 *   [dexter (⭐2k)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
+*   [pg\_exporter (⭐212)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 
 ### Extensions
 
@@ -168,6 +172,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Optimization
 
+*   [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
 *   [pg\_flame (⭐1.6k)](https://github.com/mgartner/pg_flame) - A flamegraph generator for query plans.
 *   [PgHero (⭐8.4k)](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 *   [pgMustard](https://www.pgmustard.com/) - A modern user interface
@@ -238,7 +243,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
 *   R: [RPostgreSQL (⭐66)](https://github.com/tomoakin/RPostgreSQL)
 *   Ruby: [pg (⭐820)](https://github.com/ged/ruby-pg)
-*   Rust: [rust-postgresql (⭐3.7k)](https://github.com/sfackler/rust-postgres), [pgx (⭐4k)](https://github.com/tcdi/pgx), [wtx (⭐270)](https://github.com/c410-f3r/wtx)
+*   Rust: [rust-postgresql (⭐3.7k)](https://github.com/sfackler/rust-postgres), [pgx (⭐4k)](https://github.com/tcdi/pgx), [wtx (⭐275)](https://github.com/c410-f3r/wtx)
 *   Lua: [luapgsql (⭐115)](https://github.com/arcapos/luapgsql)
 
 ### PaaS *(PostgreSQL as a Service)*
@@ -253,6 +258,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
 *   [OVHcloud Cloud Databases](https://www.ovhcloud.com/en/public-cloud/databases/) - Highly available, scalable, and secured PostgreSQL. Daily backups with point-in-time recovery, no lock-in, free incoming and outgoing traffic.
 *   [Render Managed PostgreSQL](https://render.com/docs/databases) - Secure, reliable, and completely hands-off managed PostgreSQL. Encryption at rest, automated backups, and expandable SSD storage included in all plans. Plans start at $7 per month for 256MB RAM and 1GB storage (free for first 90 days).
+*   [ScaleGrid PostgreSQL DBaaS](https://scalegrid.io/postgresql.html) - Fully managed PostgreSQL hosting with high availability, dedicated servers, and superuser control on the #1 multi-cloud Amazon RDS alternative.
 *   [Scaleway Managed Database](https://www.scaleway.com/en/database/) - Fully managed PostgreSQL databases with HA, scaling, and automated backups, hosted in the EU. Starting at €10 per month.
 *   [Supabase](https://www.supabase.com) - Fully managed Postgres with read replicas, point-in-time-recovery, support packages, browser based GUI, and a generous free tier.
 *   [Neon](https://neon.tech) - Fully managed serverless PostgreSQL. Neon separates storage and compute to offer modern developer features such as serverless, branching, bottomless storage, and more.

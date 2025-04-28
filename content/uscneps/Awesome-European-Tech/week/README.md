@@ -6,6 +6,12 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 [ [Daily](/content/uscneps/Awesome-European-Tech/README.md) / Weekly / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [May 05 - May 11, 2025](/content/2025/18/README.md)
+
+### Index / AI
+
+*   [Trint](https://trint.com/) 🇬🇧 - AI SaaS transcription software with collaborative text editing and commenting tools, document creation with multiple transcription excerpts, and realtime + multi-language transcription capabilities. Specialized in providing services for news and media enterprises.
+
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
 ### Index / CDN
@@ -274,7 +280,7 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 ### Index / Cloud
 
-*   [copyparty (⭐1.1k)](https://github.com/9001/copyparty) 🇳🇴 - Self-hosted file-sharing and file-transfer server.
+*   [copyparty (⭐1.2k)](https://github.com/9001/copyparty) 🇳🇴 - Self-hosted file-sharing and file-transfer server.
 
 ### Index / Communication Tools
 

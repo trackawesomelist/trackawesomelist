@@ -189,6 +189,7 @@ sellers who aren't evil for physical resources.
     *   [Logging](#logging)
     *   [Macro helpers](#macro-helpers)
     *   [Markdown](#markdown)
+    *   [Package declarations](#package-declarations)
     *   [PDF](#pdf)
     *   [Plotting](#plotting)
     *   [Project skeletons](#project-skeletons)
@@ -670,7 +671,7 @@ Read: [Three web views for Common Lisp](https://lisp-journey.gitlab.io/blog/thre
 
 For other web views, see:
 
-*   [cl-webui (⭐18)](https://github.com/garlic0x1/cl-webui/) - bindings for [webui](https://webui.me/), that allows to use any web browser or WebView as GUI.
+*   [cl-webui (⭐22)](https://github.com/garlic0x1/cl-webui/) - bindings for [webui](https://webui.me/), that allows to use any web browser or WebView as GUI.
 *   [clogframe (⭐1.6k)](https://github.com/rabbibotton/clog/tree/main/clogframe) - an executable wrapper for webview\.h, allowing to display any web application served by a Common Lisp server.
     *   clogframe does *not* induce the use of the whole CLOG framework.
 
@@ -1978,6 +1979,12 @@ See also: [extensive comparison of logging libraries](https://sabracrolleton.git
 
 *   [3bmd (⭐84)](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT][200].
 
+## Package declarations
+
+*   [cl-reexport (⭐12)](https://github.com/takagi/cl-reexport) - when you want to import and re-export many symbols at once and `:include` or `:exclude` some.
+
+See also [uiop:define-package](https://common-lisp.net/project/asdf/uiop.html#UIOP_002fPACKAGE) and its `:reexport` clause (without include/exclude), `:recycle`, `mix`…
+
 ## PDF
 
 *   [cl-typesetting (⭐71)](https://github.com/mbattyani/cl-typesetting) and [cl-pdf (⭐119)](https://github.com/mbattyani/cl-pdf) - cross-platform Common Lisp libraries for generating PDF files. [FreeBSD][39].
@@ -2016,8 +2023,14 @@ See also the chart facilities of IUP and ltk-plotchart (GUI section).
 ## Security
 
 *   [cl-isolated (⭐41)](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0][agpl3].
+*   [safe-read (⭐45)](https://github.com/phoe/safe-read) - a variant of READ secure against internbombing, excessive input and macro characters. [BSD\_2Clause][17].
 *   [secret-values (⭐12)](https://github.com/rotatef/secret-values) -  A Common Lisp library to reduce the risk of accidentally revealing secret values such as passwords.
     *   [privacy-output-stream (⭐5)](https://github.com/atgreen/privacy-output-stream) - an output stream that masks secret strings with `****`, based on secret-values. MIT.
+
+To safely `read` data, see also `uiop:with-safe-io-syntax` and the
+associated `safe-read-*` functions (they ensure we `read` with the
+standard readtable and `#.` is inhibited to avoid read-time
+evaluation).
 
 ## System interface
 
