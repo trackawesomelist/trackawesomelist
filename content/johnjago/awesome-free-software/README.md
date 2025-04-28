@@ -1,16 +1,28 @@
 # Track Awesome Free Software Updates Daily
 
-Curated list of free as in freedom software
+Curated list of open-source, free as in freedom software.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/johnjago/awesome-free-software/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) · ⭐ 1.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/johnjago/awesome-free-software/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) · ⭐ 1.9K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/johnjago/awesome-free-software/week/README.md) / [Overview](/content/johnjago/awesome-free-software/readme/README.md) ]
+
+## [Apr 28, 2025](/content/2025/04/28/README.md)
+
+### Software / Command Line Tools
+
+*   [Localizely (⭐5)](https://github.com/localizely/localizely-cli) - Open source tool that helps you sync localization files between your source code and the Localizely platform. ([MIT (⭐5)](https://github.com/localizely/localizely-cli/blob/main/LICENSE))
+*   [Kit CLI (⭐786)](https://github.com/jozu-ai/kitops?tab=readme-ov-file) - Open source MLOps tool that allows you to create, manage, run, and deploy ModelKits using Kitfiles. From packaging new models to deploying existing ones, Kit CLI lets you streamline workflows effortlessly. ([Apache License 2.0 (⭐786)](https://github.com/jozu-ai/kitops/blob/main/LICENSE))
+
+### Software / Web Applications
+
+*   [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3 (⭐9k)](https://github.com/docusealco/docuseal/blob/master/LICENSE))
+*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform. ([Apache License 2.0 (⭐2.7k)](https://github.com/tolgee/tolgee-platform/blob/main/LICENSE))
 
 ## [Jul 14, 2023](/content/2023/07/14/README.md)
 
 ### Software / Command Line Tools
 
-*   [Clipboard (⭐3.7k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, all from the command line. ([GNU GPLv3 (⭐3.7k)](https://github.com/Slackadays/Clipboard/blob/main/LICENSE))
+*   [Clipboard (⭐5.1k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, all from the command line. ([GNU GPLv3 (⭐5.1k)](https://github.com/Slackadays/Clipboard/blob/main/LICENSE))
 
 ### Software / Text Editors
 
@@ -20,39 +32,39 @@ Curated list of free as in freedom software
 
 ### Software / Web Applications
 
-*   [Healthchecks](https://healthchecks.io/) - Cron job monitoring service. ([BSD 3-clause (⭐6.3k)](https://github.com/healthchecks/healthchecks/blob/master/LICENSE))
+*   [Healthchecks](https://healthchecks.io/) - Cron job monitoring service. ([BSD 3-clause (⭐8.8k)](https://github.com/healthchecks/healthchecks/blob/master/LICENSE))
 
 ## [Jun 08, 2022](/content/2022/06/08/README.md)
 
 ### Software / File Management
 
-*   [WinSCP (⭐1.9k)](https://github.com/winscp/winscp) - SFTP and FTP client for Windows ([GNU GPLv3 (⭐1.9k)](https://github.com/winscp/winscp/blob/master/license.txt))
+*   [WinSCP (⭐3k)](https://github.com/winscp/winscp) - SFTP and FTP client for Windows ([GNU GPLv3 (⭐3k)](https://github.com/winscp/winscp/blob/master/license.txt))
 
 ### Software / Utilities
 
-*   [Espanso (⭐7.7k)](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3 (⭐7.7k)](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
+*   [Espanso (⭐11k)](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3 (⭐11k)](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
 
 ## [Mar 24, 2022](/content/2022/03/24/README.md)
 
 ### Software / Office
 
-*   [Open Office (⭐771)](https://github.com/apache/openoffice) - Provides a full featured office productivity suite based on open standards. ([Apache License 2.0 (⭐771)](https://github.com/apache/openoffice/blob/trunk/LICENSE))
+*   [Open Office (⭐1k)](https://github.com/apache/openoffice) - Provides a full featured office productivity suite based on open standards. ([Apache License 2.0 (⭐1k)](https://github.com/apache/openoffice/blob/trunk/LICENSE))
 
 ### Software / Text Editors
 
-*   [VS Code (⭐148k)](https://github.com/microsoft/vscode) - A source-code editor made by Microsoft ([MIT (⭐148k)](https://github.com/microsoft/vscode/blob/main/LICENSE.txt))
+*   [VS Code (⭐170k)](https://github.com/microsoft/vscode) - A source-code editor made by Microsoft ([MIT (⭐170k)](https://github.com/microsoft/vscode/blob/main/LICENSE.txt))
 
 ## [Apr 23, 2021](/content/2021/04/23/README.md)
 
 ### Software / Web Applications
 
-*   [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere. ([MIT (⭐39)](https://github.com/cloverleaf/web/blob/master/LICENSE))
+*   [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere. ([MIT (⭐49)](https://github.com/cloverleaf/web/blob/master/LICENSE))
 
 ## [Apr 03, 2021](/content/2021/04/03/README.md)
 
 ### Software / File Sharing
 
-*   [Sharry](https://eikek.github.io/sharry/) - Convinient file sharing web application that allows you to upload files and get a url back that can then be shared. ([GNU GPLv3+ (⭐577)](https://github.com/eikek/sharry/blob/master/LICENSE.txt))
+*   [Sharry](https://eikek.github.io/sharry/) - Convinient file sharing web application that allows you to upload files and get a url back that can then be shared. ([GNU GPLv3+ (⭐1k)](https://github.com/eikek/sharry/blob/master/LICENSE.txt))
 
 ## [Mar 17, 2021](/content/2021/03/17/README.md)
 
@@ -64,37 +76,37 @@ Curated list of free as in freedom software
 
 ### Software / Other
 
-*   [IP2Trace (⭐19)](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT (⭐19)](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
+*   [IP2Trace (⭐24)](https://github.com/ip2location/ip2location-traceroute) - A traceroute tools that displaying geolocation information using IP2Location database. ([MIT (⭐24)](https://github.com/ip2location/ip2location-traceroute/blob/master/LICENSE))
 
 ## [Feb 19, 2021](/content/2021/02/19/README.md)
 
 ### Software / Command Line Tools
 
-*   [SimpleLocalize (⭐38)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
+*   [SimpleLocalize (⭐64)](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
 
 ## [Nov 27, 2020](/content/2020/11/27/README.md)
 
 ### Software / Graphics
 
-*   [Pinta](https://pinta-project.com/) - Gtk# clone of Paint.NET. ([MIT (⭐1.5k)](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt))
+*   [Pinta](https://pinta-project.com/) - Gtk# clone of Paint.NET. ([MIT (⭐2.3k)](https://github.com/PintaProject/Pinta/blob/master/license-mit.txt))
 
 ## [Nov 25, 2020](/content/2020/11/25/README.md)
 
 ### Software / Video
 
-*   [MPV](https://mpv.io/) - Customizable multimedia player with scripting support. ([GNU GPLv2 (⭐23k)](https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL/))
+*   [MPV](https://mpv.io/) - Customizable multimedia player with scripting support. ([GNU GPLv2 (⭐30k)](https://github.com/mpv-player/mpv/blob/master/LICENSE.GPL/))
 
 ## [Oct 19, 2020](/content/2020/10/19/README.md)
 
 ### Software / Web Applications
 
-*   [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3 (⭐2.5k)](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
+*   [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3 (⭐2.9k)](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
 
 ## [May 11, 2020](/content/2020/05/11/README.md)
 
 ### Software / Command Line Tools
 
-*   [GNU stow](https://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. ([GNU GPLv3 (⭐14k)](https://github.com/ranger/ranger/blob/master/README.md))
+*   [GNU stow](https://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place. ([GNU GPLv3 (⭐16k)](https://github.com/ranger/ranger/blob/master/README.md))
 
 ### Software / Text Editors
 
@@ -104,25 +116,25 @@ Curated list of free as in freedom software
 
 ### Software / Utilities
 
-*   [Grayscale Mode (⭐73)](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). ([MIT (⭐73)](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
+*   [Grayscale Mode (⭐98)](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). ([MIT (⭐98)](https://github.com/rkbhochalya/grayscale-mode/blob/master/LICENSE))
 
 ## [Feb 21, 2020](/content/2020/02/21/README.md)
 
 ### Software / Audio
 
-*   [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds music from free sources automatically. ([GNU AGPLv3 (⭐10k)](https://github.com/nukeop/nuclear/blob/master/LICENSE))
+*   [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds music from free sources automatically. ([GNU AGPLv3 (⭐13k)](https://github.com/nukeop/nuclear/blob/master/LICENSE))
 
 ## [Feb 19, 2020](/content/2020/02/19/README.md)
 
 ### Software / Graphics
 
-*   [ExifCleaner](https://exifcleaner.com/) - GUI app to remove exif metadata from images and videos with simple drag and drop. ([MIT (⭐1.3k)](https://github.com/szTheory/exifcleaner/blob/master/LICENSE))
+*   [ExifCleaner](https://exifcleaner.com/) - GUI app to remove exif metadata from images and videos with simple drag and drop. ([MIT (⭐2.1k)](https://github.com/szTheory/exifcleaner/blob/master/LICENSE))
 
 ## [Dec 04, 2019](/content/2019/12/04/README.md)
 
 ### Software / File Management
 
-*   [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). ([GNU AGPLv3 (⭐8.1k)](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
+*   [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). ([GNU AGPLv3 (⭐11k)](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
 
 ## [Mar 06, 2019](/content/2019/03/06/README.md)
 
@@ -132,20 +144,20 @@ Curated list of free as in freedom software
 
 ### Software / Communication
 
-*   [Conversations](https://conversations.im/) - XMPP/Jabber client for Android. ([GNU GPLv3 (⭐4.2k)](https://github.com/siacs/Conversations/blob/master/LICENSE))
+*   [Conversations](https://conversations.im/) - XMPP/Jabber client for Android. ([GNU GPLv3](https://github.com/siacs/Conversations/blob/master/LICENSE))
 *   [Gajim](https://gajim.org/) - XMPP/Jabber client for desktop. ([GNU GPLv3](https://dev.gajim.org/gajim/gajim/blob/master/COPYING))
 
 ### Software / Web Applications
 
 *   [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
-*   [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT (⭐8.6k)](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
+*   [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT (⭐11k)](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
 
 ## [Dec 22, 2018](/content/2018/12/22/README.md)
 
 ### Software / Communication
 
 *   [Mattermost](https://mattermost.com/) - Open source, private cloud alternative to Slack. ([Licensing](https://www.mattermost.org/licensing/))
-*   [Signal](https://signal.org/) - Private messaging and calling for desktop, Android, and iOS. ([GNU GPLv3 (⭐24k)](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE))
+*   [Signal](https://signal.org/) - Private messaging and calling for desktop, Android, and iOS. ([GNU GPLv3 (⭐27k)](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE))
 
 ### Software / File Sharing
 
@@ -154,7 +166,7 @@ Curated list of free as in freedom software
 ### Software / IDEs
 
 *   [Eclipse](https://www.eclipse.org/eclipseide/) - Extensible IDE that supports the latest Java versions as well as other languages. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
-*   [IntelliJ IDEA Community Edition (⭐16k)](https://github.com/JetBrains/intellij-community) - Java/Android IDE with the goal of maximizing developer productivity. ([Apache License 2.0 (⭐16k)](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt))
+*   [IntelliJ IDEA Community Edition (⭐18k)](https://github.com/JetBrains/intellij-community) - Java/Android IDE with the goal of maximizing developer productivity. ([Apache License 2.0 (⭐18k)](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt))
 
 ### Software / Office
 
@@ -185,19 +197,19 @@ Curated list of free as in freedom software
 
 ### Software / Screencasting
 
-*   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3 (⭐25k)](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt))
+*   [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool. ([GNU GPLv3 (⭐32k)](https://github.com/ShareX/ShareX/blob/master/LICENSE.txt))
 
 ## [Oct 03, 2018](/content/2018/10/03/README.md)
 
 ### Software / Utilities
 
-*   [Markdownify](https://markdownify.js.org) - A minimal Markdown editor. ([MIT (⭐891)](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md))
+*   [Markdownify](https://markdownify.js.org) - A minimal Markdown editor. ([MIT (⭐1k)](https://github.com/amitmerchant1990/electron-markdownify/blob/master/LICENSE.md))
 
 ## [Sep 22, 2018](/content/2018/09/22/README.md)
 
 ### Software / Utilities
 
-*   [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT (⭐888)](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
+*   [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT (⭐892)](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
 
 ## [Aug 27, 2018](/content/2018/08/27/README.md)
 
@@ -221,7 +233,7 @@ Curated list of free as in freedom software
 
 ### Software / Video
 
-*   [Kodi](https://kodi.tv/) - Home Theater software and entertainment hub. ([GNU GPLv2 (⭐16k)](https://github.com/xbmc/xbmc/blob/master/README.md))
+*   [Kodi](https://kodi.tv/) - Home Theater software and entertainment hub. ([GNU GPLv2 (⭐19k)](https://github.com/xbmc/xbmc/blob/master/README.md))
 
 ## [Jul 07, 2018](/content/2018/07/07/README.md)
 
@@ -243,7 +255,7 @@ Curated list of free as in freedom software
 
 ### Software / Web Applications
 
-*   [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities. ([GNU AGPLv3 (⭐386)](https://github.com/inventaire/inventaire/blob/master/LICENSE.md))
+*   [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities. ([GNU AGPLv3 (⭐456)](https://github.com/inventaire/inventaire/blob/master/LICENSE.md))
 
 ## [Jun 25, 2018](/content/2018/06/25/README.md)
 
@@ -296,7 +308,7 @@ Curated list of free as in freedom software
 
 ### Software / Audio
 
-*   [LMMS](https://lmms.io/) - Complete digital audio workstation. ([GNU GPLv2+ (⭐6.8k)](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
+*   [LMMS](https://lmms.io/) - Complete digital audio workstation. ([GNU GPLv2+ (⭐8.7k)](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
 
 ## [May 12, 2018](/content/2018/05/12/README.md)
 
@@ -309,13 +321,13 @@ Curated list of free as in freedom software
 
 ### Resources / Other Lists
 
-*   [Awesome Humane Tech (⭐2.9k)](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy.
+*   [Awesome Humane Tech (⭐3k)](https://github.com/engagingspaces/awesome-humane-tech) - List of projects focusing on ethics, transparency, and privacy.
 
 ## [May 04, 2018](/content/2018/05/04/README.md)
 
 ### Software / Command Line Tools
 
-*   [ranger](https://ranger.github.io/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3 (⭐14k)](https://github.com/ranger/ranger/blob/master/README.md))
+*   [ranger](https://ranger.github.io/) - Minimal, lightweight, and aesthetically pleasing file explorer for GNU/Linux. It runs in the terminal window, so it fits in well with window managers such as i3. vi key bindings allow for quick operations to be performed, including rename and delete. ([GNU GPLv3 (⭐16k)](https://github.com/ranger/ranger/blob/master/README.md))
 
 ### Software / Other
 
@@ -324,7 +336,7 @@ Curated list of free as in freedom software
 ### Software / Web Applications
 
 *   [GitLab](https://about.gitlab.com/installation/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
-*   [Mastodon](https://joinmastodon.org/) - Decentralized social network server. ([GNU AGPLv3 (⭐42k)](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
+*   [Mastodon](https://joinmastodon.org/) - Decentralized social network server. ([GNU AGPLv3 (⭐48k)](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
 
 ### Software / Web Servers
 
@@ -346,13 +358,13 @@ Curated list of free as in freedom software
 
 ### Software / Command Line Tools
 
-*   [Logdissect (⭐129)](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT (⭐129)](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
+*   [Logdissect (⭐150)](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT (⭐150)](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 
 ## [Mar 13, 2018](/content/2018/03/13/README.md)
 
 ### Software / Communication
 
-*   [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3 (⭐5.4k)](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
+*   [Tutanota](https://tutanota.com/) - Encrypted email at no cost with support for business accounts. ([GNU GPLv3 (⭐6.5k)](https://github.com/tutao/tutanota/blob/master/LICENSE.txt))
 
 ## [Mar 11, 2018](/content/2018/03/11/README.md)
 
@@ -368,13 +380,13 @@ Curated list of free as in freedom software
 
 ### Software / Other
 
-*   [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD (⭐2k)](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
+*   [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK. ([BSD (⭐2.7k)](https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md))
 
 ## [Dec 24, 2017](/content/2017/12/24/README.md)
 
 ### Software / Command Line Tools
 
-*   [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3 (⭐12k)](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
+*   [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3 (⭐15k)](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
 
 ## [Dec 23, 2017](/content/2017/12/23/README.md)
 
@@ -398,7 +410,7 @@ Curated list of free as in freedom software
 
 ### Software / Web Applications
 
-*   [Lobsters](https://lobste.rs/) - Link aggregation and discussion with downvote explanations. ([BSD 3-clause (⭐3.5k)](https://github.com/lobsters/lobsters/blob/master/LICENSE))
+*   [Lobsters](https://lobste.rs/) - Link aggregation and discussion with downvote explanations. ([BSD 3-clause (⭐4.3k)](https://github.com/lobsters/lobsters/blob/master/LICENSE))
 
 ### Resources / Organizations
 
@@ -412,8 +424,8 @@ Curated list of free as in freedom software
 
 ### Resources / Other Lists
 
-*   [Awesome Self-Hosted (⭐139k)](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally.
-*   [Awesome Sysadmin (⭐19k)](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools.
+*   [Awesome Self-Hosted (⭐226k)](https://github.com/Kickball/awesome-selfhosted) - List of FLOSS network services and web applications which can be hosted locally.
+*   [Awesome Sysadmin (⭐29k)](https://github.com/n1trux/awesome-sysadmin) - List of free software sysadmin tools.
 
 ## [Oct 01, 2017](/content/2017/10/01/README.md)
 
@@ -439,7 +451,7 @@ Curated list of free as in freedom software
 
 ### Software / Web Applications
 
-*   [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0 (⭐14k)](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
+*   [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0 (⭐17k)](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 
 ## [Jul 30, 2017](/content/2017/07/30/README.md)
 
@@ -451,19 +463,19 @@ Curated list of free as in freedom software
 
 ### Software / Web Applications
 
-*   [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT (⭐43k)](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
+*   [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT (⭐49k)](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 
 ## [Jul 09, 2017](/content/2017/07/09/README.md)
 
 ### Software / Communication
 
-*   [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0 (⭐11k)](https://github.com/matrix-org/synapse/blob/master/LICENSE))
+*   [Matrix](https://matrix.org/) - Open standard for decentralised, persistent, and interoperable communications. ([Apache License 2.0 (⭐12k)](https://github.com/matrix-org/synapse/blob/master/LICENSE))
 
 ## [Jul 08, 2017](/content/2017/07/08/README.md)
 
 ### Software / Web Applications
 
-*   [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3 (⭐3.7k)](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
+*   [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3 (⭐5k)](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 
 ## [Jul 04, 2017](/content/2017/07/04/README.md)
 
@@ -493,13 +505,13 @@ Curated list of free as in freedom software
 
 ### Software / Communication
 
-*   [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC. ([Apache License 2.0 (⭐20k)](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE))
+*   [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC. ([Apache License 2.0 (⭐25k)](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE))
 
 ## [Jun 20, 2017](/content/2017/06/20/README.md)
 
 ### Software / Web Applications
 
-*   [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT (⭐43k)](https://github.com/gogits/gogs/blob/master/LICENSE))
+*   [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT (⭐46k)](https://github.com/gogits/gogs/blob/master/LICENSE))
 *   [MediaGoblin](http://mediagoblin.org/) - Publishing platform for all types of media. ([GNU AGPLv3](http://mediagoblin.org/))
 *   [MediaWiki](https://www.mediawiki.org) - Wiki software that can organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
 
@@ -519,7 +531,7 @@ Curated list of free as in freedom software
 
 ### Software / Communication
 
-*   [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3 (⭐2k)](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
+*   [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3 (⭐2.4k)](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
 
 ## [Jun 14, 2017](/content/2017/06/14/README.md)
 
@@ -549,19 +561,19 @@ Curated list of free as in freedom software
 
 ### Software / Utilities
 
-*   [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT (⭐505)](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
+*   [Sandman](https://alexanderepstein.github.io/Sandman/) - Lets you know when to turn off the computer and sleep based on calculated sleep cycles. ([MIT (⭐515)](https://github.com/alexanderepstein/Sandman/blob/master/License.md))
 
 ## [May 27, 2017](/content/2017/05/27/README.md)
 
 ### Software / Audio
 
-*   [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3 (⭐2k)](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
+*   [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3 (⭐2.3k)](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
 
 ## [May 25, 2017](/content/2017/05/25/README.md)
 
 ### Software / Web Applications
 
-*   [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause (⭐1.1k)](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
+*   [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause (⭐1.6k)](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 
 ## [Apr 16, 2017](/content/2017/04/16/README.md)
 
@@ -576,8 +588,8 @@ Curated list of free as in freedom software
 
 ### Software / Communication
 
-*   [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0 (⭐12k)](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE))
-*   [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT (⭐3.8k)](https://github.com/ProtonMail/WebClient/blob/public/license.md))
+*   [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0 (⭐14k)](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE))
+*   [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT (⭐4.7k)](https://github.com/ProtonMail/WebClient/blob/public/license.md))
 
 ### Software / File Management
 
@@ -589,7 +601,7 @@ Curated list of free as in freedom software
 *   [Blender](https://www.blender.org/) - 3D creation suite for modeling, simulation, and animation. ([GNU GPLv2+](https://www.blender.org/about/license/))
 *   [GIMP](http://www.gimp.org/) - Image manipulation software. ([GNU GPLv3](https://www.gimp.org/about/COPYING))
 *   [Inkscape](https://inkscape.org) - Professional vector graphics editor for all platforms. ([GNU GPL](https://bazaar.launchpad.net/~inkscape.dev/inkscape/trunk/view/head:/COPYING))
-*   [Piskel](http://www.piskelapp.com/) - Online sprite editor. ([Apache License 2.0 (⭐28)](https://github.com/juliandescottes/piskel/blob/master/LICENSE))
+*   [Piskel](http://www.piskelapp.com/) - Online sprite editor. ([Apache License 2.0 (⭐33)](https://github.com/juliandescottes/piskel/blob/master/LICENSE))
 
 ### Software / Office
 
@@ -597,16 +609,16 @@ Curated list of free as in freedom software
 
 ### Software / Payments
 
-*   [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT (⭐6.5k)](https://github.com/spesmilo/electrum/blob/master/LICENCE))
+*   [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT (⭐7.9k)](https://github.com/spesmilo/electrum/blob/master/LICENCE))
 
 ### Software / Scientific Work
 
-*   [DocEar](http://www.docear.org/) - Literature management using mind mapping technology. ([GNU GPLv2+ (⭐287)](https://github.com/Docear/Desktop/blob/master/docear_framework/license.txt))
-*   [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT (⭐3.1k)](https://github.com/JabRef/jabref/blob/master/LICENSE.md))
+*   [DocEar](http://www.docear.org/) - Literature management using mind mapping technology. ([GNU GPLv2+ (⭐301)](https://github.com/Docear/Desktop/blob/master/docear_framework/license.txt))
+*   [JabRef](https://www.jabref.org) - Manages references and attached PDFs using BibTeX/BibLaTeX. Includes support for LibreOffice. ([MIT (⭐3.9k)](https://github.com/JabRef/jabref/blob/master/LICENSE.md))
 
 ### Software / Screencasting
 
-*   [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2 (⭐49k)](https://github.com/jp9000/obs-studio/blob/master/COPYING))
+*   [OBS Studio](https://obsproject.com/) - Screen recorder and video streaming application for all platforms. ([GNU GPLv2 (⭐64k)](https://github.com/jp9000/obs-studio/blob/master/COPYING))
 *   [SimpleScreenRecorder](http://www.maartenbaert.be/simplescreenrecorder/) - Highly customisable GUI screencasting program. ([GNU GPLv3](http://www.maartenbaert.be/simplescreenrecorder/#license))
 
 ### Software / Text Editors
@@ -622,9 +634,9 @@ Curated list of free as in freedom software
 
 ### Software / Video
 
-*   [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3 (⭐25k)](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))
+*   [NewPipe](https://newpipe.schabi.org/) - Lightweight YouTube frontend for Android. ([GNU GPLv3 (⭐34k)](https://github.com/TeamNewPipe/NewPipe/blob/master/LICENSE))
 *   [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats. ([GNU GPLv3](http://www.videolan.org/videolan/))
-*   [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense (⭐121k)](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
+*   [youtube-dl](https://rg3.github.io/youtube-dl/) - Feature-rich command line program to download videos from YouTube and other video sites. ([Unlicense (⭐135k)](https://github.com/rg3/youtube-dl/blob/master/LICENSE))
 
 ### Software / Virtualization
 
