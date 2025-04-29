@@ -540,6 +540,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 
 ## Everything to Markdown to LLMs
 
+*   [unclecode/crawl4ai: 🚀🤖 Crawl4AI (⭐41k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scraper
 *   [LLMSTXT.NEW](https://www.llmstxt.new/): Generate consolidated text files from websites for LLM training and inference – Powered by Firecrawl
 *   [Mistral OCR / Mistral AI](https://mistral.ai/news/mistral-ocr): A document understanding API
 *   [opendatalab/MinerU (⭐32k)](https://github.com/opendatalab/MinerU): A high-quality tool for convert PDF to Markdown and JSON
@@ -562,7 +563,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [lunary-ai/abso (⭐34)](https://github.com/lunary-ai/abso): TypeScript SDK to easily call 100+ LLMs using OpenAI's format
 *   [oumi-ai/oumi (⭐8.1k)](https://github.com/oumi-ai/oumi): open universal machine intelligence, open-source platform that streamlines the entire lifecycle of foundation models - from data preparation and training to evaluation and deployment
 *   \[🔥] [Transformer Explainer](https://poloclub.github.io/transformer-explainer/): LLM Transformer Model Visually Explained [YouTube Video](https://www.youtube.com/watch?v=ECR4oAwocjs)
-*   [comet-ml/opik (⭐6.4k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
+*   [comet-ml/opik (⭐7k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 *   [mendableai/firecrawl (⭐37k)](https://github.com/mendableai/firecrawl): Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
 *   [QuivrHQ/MegaParse (⭐6.3k)](https://github.com/quivrhq/megaparse): File Parser optimised for LLM Ingestion with no loss. Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 *   [LiteLLM](https://www.litellm.ai/): a proxy server to manage auth, loadbalancing, and spend tracking across 100+ LLMs, all in the OpenAI format
@@ -571,7 +572,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 *   [microsoft/LMOps (⭐4k)](https://github.com/microsoft/LMOps): General technology for enabling AI capabilities w/ LLMs and MLLMs
 *   [F\*\*\* You, Show Me The Prompt](https://hamel.dev/blog/posts/prompt/): quickly understand inscrutable LLM frameworks by intercepting API calls
 *   [danielmiessler/fabric (⭐31k)](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐10k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐11k)](https://github.com/langfuse/langfuse)
 *   [naklecha/llama3-from-scratch (⭐15k)](https://github.com/naklecha/llama3-from-scratch): llama3 implementation one matrix multiplication at a time
 *   [\[2405.03825\] Organizing a Society of Language Models: Structures and Mechanisms for Enhanced Collective Intelligence](https://arxiv.org/abs/2405.03825)
 *   [Open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)

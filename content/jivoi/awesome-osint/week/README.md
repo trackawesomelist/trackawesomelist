@@ -6,6 +6,27 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [May 05 - May 11, 2025](/content/2025/18/README.md)
+
+### Social Media Tools / Telegram
+
+*   [TgramSearch](https://tgramsearch.com/) - Convenient search for Telegram channels, as well as a structured catalog with over 700000 Telegram channels. Available in 8+ Languages.
+*   [Teleteg](https://teleteg.com/) - The ultimate Telegram search engine. 10 results for free plan.
+
+### People Investigations / Steam
+
+*   [Apollo.io](https://www.apollo.io/) - Free B2B Phone Number & Email Finder. 1200 credits per user/year for free plan.
+*   [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
+
+### Email Search / Email Check / Steam
+
+*   [Secureito](https://www.secureito.com) - Secureito detects data breaches involving your email and suggests protection measures.
+
+### Domain and IP Research / Steam
+
+*   [aa419 Fake Sites Database](https://db.aa419.org/fakebankslist.php) - The site lists fraudulent websites, such as fake banks and online scams, identified by the Artists Against 419 community.
+*
+
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
 ### Speciality Search Engines
@@ -115,7 +136,7 @@
 
 ### Social Media Tools / Telegram
 
-*   [Maltego Telegram (⭐231)](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
+*   [Maltego Telegram (⭐231)](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego.
 
 ## [Nov 25 - Dec 01, 2024](/content/2024/48/README.md)
 
@@ -299,7 +320,7 @@
 ### Web Monitoring / Steam
 
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐23k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐24k)](https://github.com/dgtlmoon/changedetection.io)
 
 ### Other Tools / Steam
 

@@ -6,6 +6,28 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Apr 29, 2025](/content/2025/04/29/README.md)
+
+### Community
+
+*   [Is This Tech Dead?](https://www.isthistechdead.com/angular) - Is Angular dead?
+
+### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-rspack (⭐62)](https://github.com/nrwl/angular-rspack) - [Rspack (⭐11k)](https://github.com/web-infra-dev/rspack) plugin and tooling for Angular applications.
+
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [rafacli (⭐1)](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
+
+### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [horizontal-scroller (⭐1)](https://github.com/miminerd/horizontal-scroller) - Infinite horizontal scroller for Angular apps using Tailwind.
+
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [fsm-state-manager (⭐2)](https://github.com/NikitaTopchii/fsm-state-manager) - A simple, flexible and strongly-typed finite state machine manager for managing state transitions in Angular or any TypeScript-based application.
+
 ## [Apr 28, 2025](/content/2025/04/28/README.md)
 
 ### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -2469,12 +2491,6 @@
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-intl (⭐9)](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
-
-## [Sep 23, 2024](/content/2024/09/23/README.md)
-
-### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ng-rspack-build (⭐111)](https://github.com/Coly010/ng-rspack-build) - [Rspack (⭐11k)](https://github.com/web-infra-dev/rspack) plugin and loaders to build Angular applications.
 
 ## [Sep 20, 2024](/content/2024/09/20/README.md)
 

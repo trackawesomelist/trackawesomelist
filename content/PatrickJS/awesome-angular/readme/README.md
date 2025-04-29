@@ -171,6 +171,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-memes (⭐36)](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
 *   [ngx.tools (⭐74)](https://github.com/ngxtools/ngx.tools) - Discover Angular packages, libraries and schematics with this [search engine](https://ngx.tools).
 *   [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
+*   [Is This Tech Dead?](https://www.isthistechdead.com/angular) - Is Angular dead?
 *   [Angular: The Documentary | An origin story](https://www.youtube.com/watch?v=cRC9DlH45lA)
 
 ##### Newsletters
@@ -573,7 +574,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [dotenv-run (⭐280)](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
 *   [ng-packagr (⭐1.9k)](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
 *   [angular-env-builder (⭐2)](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
-*   [ng-rspack-build (⭐111)](https://github.com/Coly010/ng-rspack-build) - [Rspack (⭐11k)](https://github.com/web-infra-dev/rspack) plugin and loaders to build Angular applications.
+*   [angular-rspack (⭐62)](https://github.com/nrwl/angular-rspack) - [Rspack (⭐11k)](https://github.com/web-infra-dev/rspack) plugin and tooling for Angular applications.
 *   [ngx-devkit-builders (⭐3)](https://github.com/Celtian/ngx-devkit-builders) - This package contains Architect builders used to build and test Angular applications and libraries.
 
 #### CLI
@@ -592,6 +593,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [firebase-framework-tools (⭐313)](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI (⭐4.1k)](https://github.com/firebase/firebase-tools/) to add web framework support.
 *   [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx (⭐3)](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
 *   [ngx-create (⭐2)](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
+*   [rafacli (⭐1)](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
 
 #### Deployment
 
@@ -1797,6 +1799,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-virtual-scroller (⭐53)](https://github.com/iharbeck/ngx-virtual-scroller) - Displays a virtual, "infinite" list. Supports horizontal/vertical, variable heights, and multi-column.
 *   [ng-inf-scroll (⭐2)](https://github.com/lukonik/ng-inf-scroll) - A lightweight library for adding infinite scrolling to Angular apps.
 *   [ng-mat-select-infinite-scroll (⭐48)](https://github.com/HaidarZ/ng-mat-select-infinite-scroll) - Infinite Scroll directive for Angular Material select component.
+*   [horizontal-scroller (⭐1)](https://github.com/miminerd/horizontal-scroller) - Infinite horizontal scroller for Angular apps using Tailwind.
 
 #### State Management
 
@@ -1864,6 +1867,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [@ng-state/store (⭐14)](https://github.com/ng-state/store) - RxJS and Immer (or ImmutableJs) powered nested state management for Angular applications inspired by NgRx. It is simple, fast, reliable with no boilerplate. Supports signals and injectable actions.
 *   [ng-simple-state-management (⭐3)](https://github.com/LionMarc/ng-simple-state-management) - Simple state management implementation for Angular applications. This project provides several libraries for additional functionality.
 *   [ngx-statewise (⭐2)](https://github.com/Pierre-MarieMarchio/ngx-statewise) - A state management solution for Angular applications, offering a lighter and easier-to-use alternative to libraries like NgRx or NGXS, while maintaining a clear and predictable architecture for managing your application's state.
+*   [fsm-state-manager (⭐2)](https://github.com/NikitaTopchii/fsm-state-manager) - A simple, flexible and strongly-typed finite state machine manager for managing state transitions in Angular or any TypeScript-based application.
 
 #### Storage
 

@@ -401,7 +401,9 @@ Thanks to our main contributors
 
 ### [↑](#-table-of-contents) Telegram
 
-*   [Maltego Telegram (⭐231)](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego
+*   [Maltego Telegram (⭐231)](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego.
+*   [TgramSearch](https://tgramsearch.com/) - Convenient search for Telegram channels, as well as a structured catalog with over 700000 Telegram channels. Available in 8+ Languages.
+*   [Teleteg](https://teleteg.com/) - The ultimate Telegram search engine. 10 results for free plan.
 *   [Telegago](https://cse.google.com/cse?q=+\&cx=006368593537057042503:efxu7xprihg#gsc.tab=0\&gsc.q=%20\&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms.
 *   [Telegram Nearby Map (⭐1.1k)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 
@@ -455,10 +457,12 @@ Thanks to our main contributors
 *   [192 (UK)](http://www.192.com) - Search by person, business, address. Limited free info, premium data upsell.
 *   [411 (US)](http://www.411.com) - Search by person, phone number, address, and business. Limited free info, premium data upsell.
 *   [Ancestry](http://www.ancestry.com) - Premium data, free trial with credit card.
+*   [Apollo.io](https://www.apollo.io/) - Free B2B Phone Number & Email Finder. 1200 credits per user/year for free plan.
 *   [BeenVerified](https://www.backgroundchecks.com/solutions/beenverified)
 *   [Black Book Online](https://www.blackbookonline.info) - Free. Nationwide directory of public record lookups.
 *   [Canada411](http://www.canada411.ca) - Search by person, phone number, and business. Free.
 *   [Classmates](http://www.classmates.com) - High-school focused people search. Free acounts allow creating a profile and viewing other members. Premium account required to contact other members.
+*   [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
 *   [Clustermaps](https://clustrmaps.com/) - Find people and address information associated with them
 *   [CrunchBase](http://www.crunchbase.com) - Business information database, with a focus on investment, acquisition, and executive data. Ancillary focus on market research and connecting founders and investors.
 *   [FaceCheck.ID](https://facecheck.id) - Search the internet by face.
@@ -528,6 +532,8 @@ Thanks to our main contributors
 *   [Pipl](https://pipl.com) - a provider of identity solutions.
 
 *   [Reacher](https://reacher.email) - Real-time email verification API, written in Rust, 100% open-source.
+
+*   [Secureito](https://www.secureito.com) - Secureito detects data breaches involving your email and suggests protection measures.
 
 *   [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
 
@@ -685,6 +691,7 @@ Thanks to our main contributors
 
 ## [↑](#-table-of-contents) Domain and IP Research
 
+*   [aa419 Fake Sites Database](https://db.aa419.org/fakebankslist.php) - The site lists fraudulent websites, such as fake banks and online scams, identified by the Artists Against 419 community.
 *   [Accuranker](https://www.accuranker.com)
 *   [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
 *   [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
@@ -756,6 +763,7 @@ Thanks to our main contributors
 *   [Virus Total](https://www.virustotal.com/) - Analyse suspicious domains, IPs URLs and files to detect malware and other breaches
 *   [w3snoop](http://webboar.com.w3snoop.com) - is a website that gives you a free and comprehensive report about a specific website.
 *   [Web-Check](https://web-check.as93.net/) - All-in-one tool for viewing website and server meta data.
+*
 *   [WebMeUp](http://webmeup.com) - is the Web's freshest and fastest growing backlink index, and the primary source of backlink data for SEO PowerSuite.
 *   [Webscout](https://webscout.io/)  - A Swiss Army knife for scaled intelligence and metadata on IP addresses and domains.
 *   [Website Informer](http://website.informer.com)
@@ -1136,7 +1144,7 @@ Thanks to our main contributors
 *   [Bridge.Leslibres](https://bridge.leslibres.org)
 *   [Bridge.Suumitsu](https://bridge.suumitsu.eu)
 *   [ChangeDetection.io](https://changedetection.io)
-*   [ChangeDetection.io Open Source (⭐23k)](https://github.com/dgtlmoon/changedetection.io)
+*   [ChangeDetection.io Open Source (⭐24k)](https://github.com/dgtlmoon/changedetection.io)
 *   [ChangeDetect](http://www.changedetect.com)
 *   [ChangeDetection](http://www.changedetection.com)
 *   [Deltafeed](http://bitreading.com/deltafeed)

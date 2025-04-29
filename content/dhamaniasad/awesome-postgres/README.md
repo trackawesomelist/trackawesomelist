@@ -6,6 +6,34 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 [ Daily / [Weekly](/content/dhamaniasad/awesome-postgres/week/README.md) / [Overview](/content/dhamaniasad/awesome-postgres/readme/README.md) ]
 
+## [Apr 29, 2025](/content/2025/04/29/README.md)
+
+### Contents / High-Availability
+
+*   [pg\_auto\_failover (⭐1.2k)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
+
+### Contents / GUI
+
+*   [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
+*   [Teable (⭐18k)](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer friendly, No code database.
+*   [WebDB](https://webdb.app) – Efficient Database IDE.
+
+### Contents / CLI
+
+*   [pg-schema-diff (⭐477)](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
+
+### Contents / Extensions
+
+*   [AGE (⭐3.5k)](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
+
+### Contents / Utilities
+
+*   [bemi (⭐348)](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
+
+### Contents / Language bindings
+
+*   Zig: [pg.zig (⭐364)](https://github.com/karlseguin/pg.zig)
+
 ## [Apr 28, 2025](/content/2025/04/28/README.md)
 
 ### Contents / GUI

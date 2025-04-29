@@ -1,24 +1,51 @@
 # Awesome List Updates on May 05 - May 11, 2025
 
-11 awesome lists updated this week.
+13 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
+## [1. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Social Media Tools / Telegram
+
+*   [TgramSearch](https://tgramsearch.com/) - Convenient search for Telegram channels, as well as a structured catalog with over 700000 Telegram channels. Available in 8+ Languages.
+*   [Teleteg](https://teleteg.com/) - The ultimate Telegram search engine. 10 results for free plan.
+
+### People Investigations / Steam
+
+*   [Apollo.io](https://www.apollo.io/) - Free B2B Phone Number & Email Finder. 1200 credits per user/year for free plan.
+*   [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
+
+### Email Search / Email Check / Steam
+
+*   [Secureito](https://www.secureito.com) - Secureito detects data breaches involving your email and suggests protection measures.
+
+### Domain and IP Research / Steam
+
+*   [aa419 Fake Sites Database](https://db.aa419.org/fakebankslist.php) - The site lists fraudulent websites, such as fake banks and online scams, identified by the Artists Against 419 community.
+*
+
+## [2. Awesome Tmux](/content/rothgar/awesome-tmux/week/README.md)
+
+### Tools and session management
+
+*   [tmuxai (⭐318)](https://github.com/alvinunreal/tmuxai) AI-Powered, non-intrusive terminal assistant based on tmux
+
+## [3. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
 
 ### Index / AI
 
 *   [Trint](https://trint.com/) 🇬🇧 - AI SaaS transcription software with collaborative text editing and commenting tools, document creation with multiple transcription excerpts, and realtime + multi-language transcription capabilities. Specialized in providing services for news and media enterprises.
 
-## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [4. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Validation
 
 *   [dataframely (⭐139)](https://github.com/Quantco/dataframely) - Polars plugin that provides schema and other rule validation for Polars DataFrames by [@Quantco](https://github.com/Quantco).
 
-## [3. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [5. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Package declarations / Third-party APIs
 
@@ -28,19 +55,31 @@
 
 *   [safe-read (⭐45)](https://github.com/phoe/safe-read) - a variant of READ secure against internbombing, excessive input and macro characters. [BSD\_2Clause](https://directory.fsf.org/wiki/License:BSD_2Clause).
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Design and UI
 
 *   [Shadcn Studio](https://shadcnstudio.com/theme-editor) — Preview your theme changes across different components and layouts.
 
-## [5. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
+## [7. Awesome Vlc](/content/mfkl/awesome-vlc/week/README.md)
 
 ### VLC web & lua extensions
 
 *   [vlc-mcp-server (⭐2)](https://github.com/piebro/vlc-mcp-server) -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [8. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Community
+
+*   [Is This Tech Dead?](https://www.isthistechdead.com/angular) - Is Angular dead?
+
+### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-rspack (⭐62)](https://github.com/nrwl/angular-rspack) - [Rspack (⭐11k)](https://github.com/web-infra-dev/rspack) plugin and tooling for Angular applications.
+
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [rafacli (⭐1)](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
 
 ### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -50,15 +89,34 @@
 
 *   [ngx-formwork (⭐3)](https://github.com/TheNordicOne/ngx-formwork) - This package provides a framework for creating Angular Reactive Forms, based on a configuration. This configuration can come from a server in the form of JSON or directly from an object written in TypeScript.
 
-## [7. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [horizontal-scroller (⭐1)](https://github.com/miminerd/horizontal-scroller) - Infinite horizontal scroller for Angular apps using Tailwind.
+
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [fsm-state-manager (⭐2)](https://github.com/NikitaTopchii/fsm-state-manager) - A simple, flexible and strongly-typed finite state machine manager for managing state transitions in Angular or any TypeScript-based application.
+
+## [9. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+
+### Contents / High-Availability
+
+*   [pg\_auto\_failover (⭐1.2k)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
 
 ### Contents / GUI
 
+*   [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
 *   [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
+*   [Teable (⭐18k)](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer friendly, No code database.
+*   [WebDB](https://webdb.app) – Efficient Database IDE.
 
 ### Contents / Distributions
 
 *   [Pigsty (⭐3.9k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
+
+### Contents / CLI
+
+*   [pg-schema-diff (⭐477)](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
 
 ### Contents / Server
 
@@ -68,15 +126,27 @@
 
 *   [pg\_exporter (⭐212)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 
+### Contents / Extensions
+
+*   [AGE (⭐3.5k)](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
+
 ### Contents / Optimization
 
 *   [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
+
+### Contents / Utilities
+
+*   [bemi (⭐348)](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
+
+### Contents / Language bindings
+
+*   Zig: [pg.zig (⭐364)](https://github.com/karlseguin/pg.zig)
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [ScaleGrid PostgreSQL DBaaS](https://scalegrid.io/postgresql.html) - Fully managed PostgreSQL hosting with high availability, dedicated servers, and superuser control on the #1 multi-cloud Amazon RDS alternative.
 
-## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Blockchain
 
@@ -90,7 +160,7 @@
 
 *   [arkflow-rs/arkflow (⭐478)](https://github.com/arkflow-rs/arkflow) - High-performance Rust stream processing engine [![CI](https://github.com/arkflow-rs/arkflow/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/arkflow-rs/arkflow/actions)
 
-## [9. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
+## [11. Awesome Free Software](/content/johnjago/awesome-free-software/week/README.md)
 
 ### Software / Command Line Tools
 
@@ -102,13 +172,17 @@
 *   [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3 (⭐9k)](https://github.com/docusealco/docuseal/blob/master/LICENSE))
 *   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform. ([Apache License 2.0 (⭐2.7k)](https://github.com/tolgee/tolgee-platform/blob/main/LICENSE))
 
-## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [12. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Everything to Markdown to LLMs
+
+*   [unclecode/crawl4ai: 🚀🤖 Crawl4AI (⭐41k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scraper
 
 ### Image Segmentation / Deforum
 
 *   [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
 
-## [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### AI / Diagnostics
 

@@ -8,6 +8,10 @@ A curated list of Generative AI tools, works, models, and references
 
 ## [May 05 - May 11, 2025](/content/2025/18/README.md)
 
+### Everything to Markdown to LLMs
+
+*   [unclecode/crawl4ai: 🚀🤖 Crawl4AI (⭐41k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scraper
+
 ### Image Segmentation / Deforum
 
 *   [FramePack](https://www.framepack.video/): next-frame prediction neural network structure that generates videos progressively
@@ -178,7 +182,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Large Language Models (LLMs)
 
-*   [comet-ml/opik (⭐6.4k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
+*   [comet-ml/opik (⭐7k)](https://github.com/comet-ml/opik): Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
 
 ### AI Engineering / Multi-agents
 
@@ -301,7 +305,7 @@ A curated list of Generative AI tools, works, models, and references
 
 ### Large Language Models (LLMs)
 
-*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐10k)](https://github.com/langfuse/langfuse)
+*   [Langfuse](https://langfuse.com/): Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. [#opensource (⭐11k)](https://github.com/langfuse/langfuse)
 
 ### Image Segmentation / Deforum
 

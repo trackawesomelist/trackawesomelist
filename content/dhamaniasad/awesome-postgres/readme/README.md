@@ -54,6 +54,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [Slony-I](https://slony.info/) - "Master to multiple slaves" replication system with cascading and failover.
 *   [PAF (⭐347)](https://github.com/ClusterLabs/PAF) - PostgreSQL Automatic Failover: High-Availibility for Postgres, based on Pacemaker and Corosync.
 *   [SkyTools (⭐246)](https://github.com/pgq/skytools-legacy) - Replication tools, including PgQ, a queuing system, and Londiste, a replication system a bit simpler to manage than Slony.
+*   [pg\_auto\_failover (⭐1.2k)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
 
 ### Backups
 
@@ -80,6 +81,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [dbglass](http://dbglass.web-pal.com) - Cross-platform desktop client for PostgreSQL, built with Electron.
 *   [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
 *   [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
+*   [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
 *   [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
 *   [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
 *   [OmniDB](https://omnidb.org/en/) - Open Source Collaborative Environment
@@ -96,9 +98,11 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [SQL Tabs](http://www.sqltabs.com/) - Cross Platform Desktop Client for PostgreSQL written in JS.
 *   [SQLPro for Postgres](http://macpostgresclient.com/) - Simple, powerful PostgreSQL manager for macOS (Commercial Software).
 *   [temBoard (⭐483)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
+*   [Teable (⭐18k)](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer friendly, No code database.
 *   [TablePlus](https://tableplus.com/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
 *   [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Cross-platform database administration tool (Free/Commercial)
 *   [DbGate](https://dbgate.org) - The Smartest (no)SQL Database Client
+*   [WebDB](https://webdb.app) – Efficient Database IDE.
 
 ### Distributions
 
@@ -110,6 +114,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 *   [atlas (⭐6.7k)](https://github.com/ariga/atlas) - Atlas is a tool for managing and migrating database schemas using modern DevOps principles.
 *   [pgcli (⭐12k)](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+*   [pg-schema-diff (⭐477)](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
 *   [pgsh (⭐587)](https://github.com/sastraxi/pgsh) - Branch your PostgreSQL Database like Git
 *   [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 *   [psql2csv (⭐183)](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
@@ -143,6 +148,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Extensions
 
+*   [AGE (⭐3.5k)](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
 *   [Citus (⭐11k)](https://github.com/citusdata/citus) - Scalable PostgreSQL cluster for real-time workloads.
 *   [cstore\_fdw (⭐1.8k)](https://github.com/citusdata/cstore_fdw) - Columnar store for analytics with PostgreSQL.
 *   [cyanaudit](https://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
@@ -188,6 +194,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Utilities
 
 *   [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
+*   [bemi (⭐348)](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
 *   [ERAlchemy (⭐1.2k)](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
 *   [Hasura GraphQL Engine (⭐31k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 *   [ldap2pg (⭐216)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
@@ -245,6 +252,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   Ruby: [pg (⭐820)](https://github.com/ged/ruby-pg)
 *   Rust: [rust-postgresql (⭐3.7k)](https://github.com/sfackler/rust-postgres), [pgx (⭐4k)](https://github.com/tcdi/pgx), [wtx (⭐275)](https://github.com/c410-f3r/wtx)
 *   Lua: [luapgsql (⭐115)](https://github.com/arcapos/luapgsql)
+*   Zig: [pg.zig (⭐364)](https://github.com/karlseguin/pg.zig)
 
 ### PaaS *(PostgreSQL as a Service)*
 

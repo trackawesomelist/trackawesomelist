@@ -8,6 +8,18 @@
 
 ## [May 05 - May 11, 2025](/content/2025/18/README.md)
 
+### Community
+
+*   [Is This Tech Dead?](https://www.isthistechdead.com/angular) - Is Angular dead?
+
+### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-rspack (⭐62)](https://github.com/nrwl/angular-rspack) - [Rspack (⭐11k)](https://github.com/web-infra-dev/rspack) plugin and tooling for Angular applications.
+
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [rafacli (⭐1)](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
+
 ### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [wdio-harness (⭐7)](https://github.com/badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
@@ -15,6 +27,14 @@
 ### JSON Forms / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-formwork (⭐3)](https://github.com/TheNordicOne/ngx-formwork) - This package provides a framework for creating Angular Reactive Forms, based on a configuration. This configuration can come from a server in the form of JSON or directly from an object written in TypeScript.
+
+### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [horizontal-scroller (⭐1)](https://github.com/miminerd/horizontal-scroller) - Infinite horizontal scroller for Angular apps using Tailwind.
+
+### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [fsm-state-manager (⭐2)](https://github.com/NikitaTopchii/fsm-state-manager) - A simple, flexible and strongly-typed finite state machine manager for managing state transitions in Angular or any TypeScript-based application.
 
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
@@ -1949,10 +1969,6 @@
 ### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
-
-### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ng-rspack-build (⭐111)](https://github.com/Coly010/ng-rspack-build) - [Rspack (⭐11k)](https://github.com/web-infra-dev/rspack) plugin and loaders to build Angular applications.
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
