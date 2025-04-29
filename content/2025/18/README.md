@@ -39,6 +39,10 @@
 
 *   [Trint](https://trint.com/) 🇬🇧 - AI SaaS transcription software with collaborative text editing and commenting tools, document creation with multiple transcription excerpts, and realtime + multi-language transcription capabilities. Specialized in providing services for news and media enterprises.
 
+### Index / Cloud
+
+*   [Cubbit](https://www.cubbit.io/) 🇮🇹 - Software-defined storage platform that offers geo-distributed, sovereign object storage
+
 ## [4. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Validation
@@ -105,6 +109,8 @@
 
 ### Contents / GUI
 
+*   [DBConvert Streams](https://streams.dbconvert.com/) - A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).
+*   [Luna Modeler](http://www.datensen.com) - Cross-platform desktop data modeling tool (Commercial Software).
 *   [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
 *   [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
 *   [Teable (⭐18k)](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer friendly, No code database.
@@ -122,13 +128,20 @@
 
 *   [FerretDB](https://www.ferretdb.io) - A truly Open Source MongoDB alternative on top of PostgreSQL.
 
+### Contents / Security
+
+*   [Acra (⭐1.4k)](https://github.com/cossacklabs/acra) - SQL database security suite: proxy for data protection with transparent "on the fly" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.
+
 ### Contents / Monitoring
 
 *   [pg\_exporter (⭐212)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
+*   [postgres\_exporter (⭐3k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Contents / Extensions
 
 *   [AGE (⭐3.5k)](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
+*   [pg\_stat\_monitor (⭐504)](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring tool for PostgreSQL.
+*   [pg\_squeeze (⭐548)](https://github.com/cybertec-postgresql/pg_squeeze) - An extension for automatic bloat cleanup with minimal locking.
 
 ### Contents / Optimization
 
@@ -137,6 +150,10 @@
 ### Contents / Utilities
 
 *   [bemi (⭐348)](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
+*   [migra (⭐3k)](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
+*   [pg\_timetable (⭐1.2k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced job scheduler for PostgreSQL.
+*   [Pyrseas (⭐402)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
+*   \[planter]\[[https://github.com/achiku/planter (⭐552)](https://github.com/achiku/planter)] - Generate PlantUML ER diagram textual description from PostgreSQL tables
 
 ### Contents / Language bindings
 
@@ -145,6 +162,23 @@
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [ScaleGrid PostgreSQL DBaaS](https://scalegrid.io/postgresql.html) - Fully managed PostgreSQL hosting with high availability, dedicated servers, and superuser control on the #1 multi-cloud Amazon RDS alternative.
+
+### Resources / Tutorials
+
+*   [pagila (⭐60)](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
+
+### Resources / Blogs
+
+*   [Percona's PostgreSQL blog posts](https://www.percona.com/blog/category/postgresql/)
+
+### Resources / Newsletters
+
+*   [pgMustard newsletter](https://www.pgmustard.com/newsletter) - Monthly newsletter that contains Postgres performance articles and videos.
+
+### Resources / Podcasts
+
+*   [PostgresFM](https://postgres.fm/) - Weekly discussions about Postgres topics.
+*   [Path to Citus Con](https://www.citusdata.com/podcast/path-to-citus-con/) - Monthly interviews with people in the Postgres world.
 
 ## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 

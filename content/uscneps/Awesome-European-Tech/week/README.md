@@ -12,6 +12,10 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 *   [Trint](https://trint.com/) 🇬🇧 - AI SaaS transcription software with collaborative text editing and commenting tools, document creation with multiple transcription excerpts, and realtime + multi-language transcription capabilities. Specialized in providing services for news and media enterprises.
 
+### Index / Cloud
+
+*   [Cubbit](https://www.cubbit.io/) 🇮🇹 - Software-defined storage platform that offers geo-distributed, sovereign object storage
+
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
 ### Index / CDN

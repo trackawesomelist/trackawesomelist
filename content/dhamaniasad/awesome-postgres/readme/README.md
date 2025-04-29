@@ -71,37 +71,67 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### GUI
 
 *   [Adminer](https://www.adminer.org/) - Full-featured database management tool written in PHP.
+
 *   [Beekeeper Studio](https://www.beekeeperstudio.io) - Free and open source SQL client with a modern UI and great Postgres support. Cross platform.
+
 *   [Chartbrew](https://chartbrew.com) - Create live dashboards, charts, and client reports from PostgreSQL data. Features a query tool that works with SQL.
+
 *   [Count](https://count.co/) - Web-based analytics platform with a notebook interface which connects to PostgreSQL (Commercial Software).
+
 *   [DataGrip](https://www.jetbrains.com/datagrip/) - IDE with advanced tool sets and good cross-platform experience (Commercial Software).
+
 *   [Datazenit](https://datazenit.com/) - Web-based PostgreSQL GUI (Commercial Software).
+
 *   [DataRow](https://www.datarow.com/) - Cross-platform SQL Client for Amazon Redshift: Simple, Effortless, Extensible.
+
+*   [DBConvert Streams](https://streams.dbconvert.com/) - A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).
+
 *   [DBeaver](https://dbeaver.io/) - Universal Database Manager with excellent support for PostgreSQL.
-*   [dbglass](http://dbglass.web-pal.com) - Cross-platform desktop client for PostgreSQL, built with Electron.
+
 *   [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
+
 *   [JackDB](https://www.jackdb.com/) - Web-based SQL query interface (Commercial Software).
+
+*   [Luna Modeler](http://www.datensen.com) - Cross-platform desktop data modeling tool (Commercial Software).
+
 *   [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
+
 *   [Metabase](https://www.metabase.com/) - Simple dashboards, charts and query tool for PostgreSQL.
+
 *   [Numeracy](https://numeracy.co/) - Fast SQL editor with charts and dashboards for PostgreSQL (Commercial Software).
-*   [OmniDB](https://omnidb.org/en/) - Open Source Collaborative Environment
-    For Database Management
+
 *   [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
+
 *   [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
+
 *   [pgModeler](https://pgmodeler.io/) - pgModeler is an open-source PostgreSQL Database Modeler.
+
 *   [pgweb (⭐8.9k)](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
+
 *   [phpPgAdmin (⭐817)](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
+
 *   [Postbird (⭐1.6k)](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
+
 *   [PostgresCompare](https://www.postgrescompare.com) - Cross-platform database comparison and deployment tool (Commercial Software).
+
 *   [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
+
 *   [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).
+
 *   [SQL Tabs](http://www.sqltabs.com/) - Cross Platform Desktop Client for PostgreSQL written in JS.
+
 *   [SQLPro for Postgres](http://macpostgresclient.com/) - Simple, powerful PostgreSQL manager for macOS (Commercial Software).
+
 *   [temBoard (⭐483)](https://github.com/dalibo/temboard) - Web-based PostgreSQL GUI and monitoring.
+
 *   [Teable (⭐18k)](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer friendly, No code database.
+
 *   [TablePlus](https://tableplus.com/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
+
 *   [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Cross-platform database administration tool (Free/Commercial)
+
 *   [DbGate](https://dbgate.org) - The Smartest (no)SQL Database Client
+
 *   [WebDB](https://webdb.app) – Efficient Database IDE.
 
 ### Distributions
@@ -129,6 +159,10 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [FerretDB](https://www.ferretdb.io) - A truly Open Source MongoDB alternative on top of PostgreSQL.
 *   [YugabyteDB](https://yugabyte.com/) - Open Source Distributed SQL using  a fork of PostgreSQL on top of distributed storage and transaction
 
+### Security
+
+*   [Acra (⭐1.4k)](https://github.com/cossacklabs/acra) - SQL database security suite: proxy for data protection with transparent "on the fly" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.
+
 ### Monitoring
 
 *   [check\_pgactivity (⭐177)](https://github.com/OPMDG/check_pgactivity) - check\_pgactivity is designed to monitor PostgreSQL clusters from Nagios. It offers many options to measure and monitor useful performance metrics.
@@ -145,6 +179,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [okmeter.io](https://okmeter.io/pg) - Commercial SaaS agent-based monitoring with a very detailed PostgreSQL plugin. It automatically gathers 100s of stats, displays dashboards on every aspect and sends alerts when something goes wrong (Commercial Software).
 *   [dexter (⭐2k)](https://github.com/ankane/dexter) - The automatic indexer for Postgres. Detects slow queries and creates indexes if configured to do so.
 *   [pg\_exporter (⭐212)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
+*   [postgres\_exporter (⭐3k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Extensions
 
@@ -160,6 +195,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [pg\_partman (⭐2.3k)](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 *   [pg\_paxos (⭐305)](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
 *   [pg\_shard (⭐1.1k)](https://github.com/citusdata/pg_shard) - Extension to scale out real-time reads and writes.
+*   [pg\_stat\_monitor (⭐504)](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring tool for PostgreSQL.
+*   [pg\_squeeze (⭐548)](https://github.com/cybertec-postgresql/pg_squeeze) - An extension for automatic bloat cleanup with minimal locking.
 *   [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Extension to offload CPU intensive workloads to GPU.
 *   [pgxn](https://pgxn.org/) PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions
 *   [PipelineDB](https://www.confluent.io/blog/pipelinedb-team-joins-confluent/) - A PostgreSQL extension that runs SQL queries continuously on streams, incrementally storing results in tables.
@@ -198,6 +235,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [ERAlchemy (⭐1.2k)](https://github.com/Alexis-benoist/eralchemy) - ERAlchemy generates Entity Relation (ER) diagram from databases.
 *   [Hasura GraphQL Engine (⭐31k)](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 *   [ldap2pg (⭐216)](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+*   [migra (⭐3k)](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
 *   [mysql-postgresql-converter (⭐1.3k)](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script.
 *   [ora2pg](http://ora2pg.darold.net) - Perl module to export an Oracle database schema to a PostgreSQL compatible schema.
 *   [pg\_activity (⭐2.6k)](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
@@ -227,13 +265,16 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [ZSON (⭐551)](https://github.com/postgrespro/zson) - PostgreSQL extension for transparent JSONB compression
 *   [pg\_bulkload](http://ossc-db.github.io/pg_bulkload/index.html) - It's a high speed data loading utility for PostgreSQL.
 *   [pg\_migrate (⭐32)](https://github.com/jwdeitch/pg_migrate) - Manage PostgreSQL codebases and make VCS simple.
+*   [pg\_timetable (⭐1.2k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced job scheduler for PostgreSQL.
 *   [sqitch (⭐3k)](https://github.com/sqitchers/sqitch) - Tool for managing versioned schema deployment
 *   [pgmigrate (⭐645)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 *   [pgcmp (⭐44)](https://github.com/cbbrowne/pgcmp) - Tool to compare database schemas, with capability to accept some persistent differences
 *   [pg-differ (⭐38)](https://github.com/multum/pg-differ) - Tool for easy initialization / updating of the structure of PostgreSQL tables, migration alternative (Node.js).
 *   [sqlcheck (⭐2.5k)](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns. Such anti-patterns often slow down queries. Addressing them will, therefore, help accelerate queries.
 *   [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.
+*   [Pyrseas (⭐402)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
 *   [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software).
+*   \[planter]\[[https://github.com/achiku/planter (⭐552)](https://github.com/achiku/planter)] - Generate PlantUML ER diagram textual description from PostgreSQL tables
 
 ### Language bindings
 
@@ -242,7 +283,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   Elixir: [postgrex (⭐1.2k)](https://github.com/elixir-ecto/postgrex)
 *   Go: [pq (⭐9.4k)](https://github.com/lib/pq), [pgx (⭐12k)](https://github.com/jackc/pgx)
 *   Haskell: [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
-*   Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
+*   Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/), [Vert.x PostgreSQL Client](https://vertx.io/docs/vertx-pg-client/java/)
 *   .Net/.Net Core: [Npgsql (⭐3.5k)](https://github.com/npgsql/npgsql)
 *   Node: [node-postgres (⭐13k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.5k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐140)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐4.7k)](https://github.com/gajus/slonik), [postgres (⭐8k)](https://github.com/porsager/postgres)
 *   Perl: [DBD-Pg](https://metacpan.org/pod/distribution/DBD-Pg/Pg.pm)
@@ -290,6 +331,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [postgresDBSamples (⭐520)](https://github.com/morenoh149/postgresDBSamples) - A collection of sample postgres schemas
 *   [PostgreSQL Primer for Busy People](https://zaiste.net/posts/postgresql-primer-for-busy-people/) - A collection of the most common commands used in PostgreSQL
 *   [pg-utils (⭐1.1k)](https://github.com/dataegret/pg-utils) - Useful DBA tools by Data Egret
+*   [pagila (⭐60)](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
 
 ### Blogs
 
@@ -299,6 +341,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [Craig Kerstiens PostgreSQL posts](http://www.craigkerstiens.com/categories/postgres/) - Set of posts on PostgreSQL cool features, tips and tricks.
 *   [Database Soup](http://www.databasesoup.com/search/label/postgresql/) - Josh Berkus' blog.
 *   [Michael Paquier's blog](https://paquier.xyz/)
+*   [Percona's PostgreSQL blog posts](https://www.percona.com/blog/category/postgresql/)
 *   [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql/)
 *   [select \* from depesz;](https://www.depesz.com/tag/postgresql/) - Hubert Lubaczewski's blog.
 *   [Metis Blog](https://www.metisdata.io/blog) - Set of posts on PostgreSQL, SQL databases, performance, and tuning.
@@ -325,6 +368,13 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Newsletters
 
 *   [Postgres Weekly](https://postgresweekly.com/) - Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.
+*   [pgMustard newsletter](https://www.pgmustard.com/newsletter) - Monthly newsletter that contains Postgres performance articles and videos.
+
+### Podcasts
+
+*   [PostgresFM](https://postgres.fm/) - Weekly discussions about Postgres topics.
+*   [Scaling Postgres](https://www.scalingpostgres.com/) - Weekly roundups of PostgreSQL related content.
+*   [Path to Citus Con](https://www.citusdata.com/podcast/path-to-citus-con/) - Monthly interviews with people in the Postgres world.
 
 ### Videos
 

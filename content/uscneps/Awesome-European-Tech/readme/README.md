@@ -139,6 +139,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [Combell Cloud](https://www.combell.com/en/cloud-server) 🇧🇪
 *   [copyparty (⭐1.2k)](https://github.com/9001/copyparty) 🇳🇴 - Self-hosted file-sharing and file-transfer server.
 *   [Cozy](https://www.cozy.io) 🇫🇷 - Privacy-first personal cloud for data management.
+*   [Cubbit](https://www.cubbit.io/) 🇮🇹 - Software-defined storage platform that offers geo-distributed, sovereign object storage
 *   [datacrunch](https://datacrunch.io/) 🇫🇮 - GPU cloud computing for AI/ML workloads.
 *   [Elastx](https://www.elastx.se) 🇸🇪 - Managed cloud hosting with a focus on sustainability.
 *   [Exoscale](https://www.exoscale.com) 🇨🇭 - Scalable cloud infrastructure for developers.

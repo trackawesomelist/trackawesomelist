@@ -14,6 +14,8 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / GUI
 
+*   [DBConvert Streams](https://streams.dbconvert.com/) - A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).
+*   [Luna Modeler](http://www.datensen.com) - Cross-platform desktop data modeling tool (Commercial Software).
 *   [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
 *   [Teable (⭐18k)](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer friendly, No code database.
 *   [WebDB](https://webdb.app) – Efficient Database IDE.
@@ -22,17 +24,48 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 *   [pg-schema-diff (⭐477)](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
 
+### Contents / Security
+
+*   [Acra (⭐1.4k)](https://github.com/cossacklabs/acra) - SQL database security suite: proxy for data protection with transparent "on the fly" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.
+
+### Contents / Monitoring
+
+*   [postgres\_exporter (⭐3k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+
 ### Contents / Extensions
 
 *   [AGE (⭐3.5k)](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
+*   [pg\_stat\_monitor (⭐504)](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring tool for PostgreSQL.
+*   [pg\_squeeze (⭐548)](https://github.com/cybertec-postgresql/pg_squeeze) - An extension for automatic bloat cleanup with minimal locking.
 
 ### Contents / Utilities
 
 *   [bemi (⭐348)](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
+*   [migra (⭐3k)](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
+*   [pg\_timetable (⭐1.2k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced job scheduler for PostgreSQL.
+*   [Pyrseas (⭐402)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
+*   \[planter]\[[https://github.com/achiku/planter (⭐552)](https://github.com/achiku/planter)] - Generate PlantUML ER diagram textual description from PostgreSQL tables
 
 ### Contents / Language bindings
 
 *   Zig: [pg.zig (⭐364)](https://github.com/karlseguin/pg.zig)
+
+### Resources / Tutorials
+
+*   [pagila (⭐60)](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
+
+### Resources / Blogs
+
+*   [Percona's PostgreSQL blog posts](https://www.percona.com/blog/category/postgresql/)
+
+### Resources / Newsletters
+
+*   [pgMustard newsletter](https://www.pgmustard.com/newsletter) - Monthly newsletter that contains Postgres performance articles and videos.
+
+### Resources / Podcasts
+
+*   [PostgresFM](https://postgres.fm/) - Weekly discussions about Postgres topics.
+*   [Path to Citus Con](https://www.citusdata.com/podcast/path-to-citus-con/) - Monthly interviews with people in the Postgres world.
 
 ## [Apr 28, 2025](/content/2025/04/28/README.md)
 
@@ -234,8 +267,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Contents / GUI
 
 *   [DataRow](https://www.datarow.com/) - Cross-platform SQL Client for Amazon Redshift: Simple, Effortless, Extensible.
-*   [OmniDB](https://omnidb.org/en/) - Open Source Collaborative Environment
-    For Database Management
 *   [PostgresCompare](https://www.postgrescompare.com) - Cross-platform database comparison and deployment tool (Commercial Software).
 
 ## [Jul 12, 2020](/content/2020/07/12/README.md)
@@ -794,12 +825,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 *   [pgmigrate (⭐645)](https://github.com/yandex/pgmigrate) - CLI tool to evolve schema migrations, developed by Yandex.
 
-## [Oct 13, 2016](/content/2016/10/13/README.md)
-
-### Contents / GUI
-
-*   [dbglass](http://dbglass.web-pal.com) - Cross-platform desktop client for PostgreSQL, built with Electron.
-
 ## [Oct 06, 2016](/content/2016/10/06/README.md)
 
 ### Resources / Articles
@@ -836,7 +861,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Language bindings
 
-*   Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
+*   Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/), [Vert.x PostgreSQL Client](https://vertx.io/docs/vertx-pg-client/java/)
 
 ## [Nov 19, 2015](/content/2015/11/19/README.md)
 

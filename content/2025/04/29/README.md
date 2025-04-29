@@ -1,12 +1,18 @@
 # Awesome List Updates on Apr 29, 2025
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+
+### Index / Cloud
+
+*   [Cubbit](https://www.cubbit.io/) 🇮🇹 - Software-defined storage platform that offers geo-distributed, sovereign object storage
+
+## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Social Media Tools / Telegram
 
@@ -27,13 +33,13 @@
 *   [aa419 Fake Sites Database](https://db.aa419.org/fakebankslist.php) - The site lists fraudulent websites, such as fake banks and online scams, identified by the Artists Against 419 community.
 *
 
-## [2. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Everything to Markdown to LLMs
 
 *   [unclecode/crawl4ai: 🚀🤖 Crawl4AI (⭐41k)](https://github.com/unclecode/crawl4ai): Open-source LLM Friendly Web Crawler & Scraper
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Community
 
@@ -55,13 +61,13 @@
 
 *   [fsm-state-manager (⭐2)](https://github.com/NikitaTopchii/fsm-state-manager) - A simple, flexible and strongly-typed finite state machine manager for managing state transitions in Angular or any TypeScript-based application.
 
-## [4. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [5. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
 *   [tmuxai (⭐318)](https://github.com/alvinunreal/tmuxai) AI-Powered, non-intrusive terminal assistant based on tmux
 
-## [5. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
+## [6. Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md)
 
 ### Contents / High-Availability
 
@@ -69,6 +75,8 @@
 
 ### Contents / GUI
 
+*   [DBConvert Streams](https://streams.dbconvert.com/) - A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).
+*   [Luna Modeler](http://www.datensen.com) - Cross-platform desktop data modeling tool (Commercial Software).
 *   [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
 *   [Teable (⭐18k)](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer friendly, No code database.
 *   [WebDB](https://webdb.app) – Efficient Database IDE.
@@ -77,17 +85,48 @@
 
 *   [pg-schema-diff (⭐477)](https://github.com/stripe/pg-schema-diff) - CLI (and Golang library) for diffing Postgres schemas and generating SQL migrations with minimal locking.
 
+### Contents / Security
+
+*   [Acra (⭐1.4k)](https://github.com/cossacklabs/acra) - SQL database security suite: proxy for data protection with transparent "on the fly" data encryption, SQL firewall (SQL injections prevention), intrusion detection system.
+
+### Contents / Monitoring
+
+*   [postgres\_exporter (⭐3k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+
 ### Contents / Extensions
 
 *   [AGE (⭐3.5k)](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
+*   [pg\_stat\_monitor (⭐504)](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring tool for PostgreSQL.
+*   [pg\_squeeze (⭐548)](https://github.com/cybertec-postgresql/pg_squeeze) - An extension for automatic bloat cleanup with minimal locking.
 
 ### Contents / Utilities
 
 *   [bemi (⭐348)](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
+*   [migra (⭐3k)](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
+*   [pg\_timetable (⭐1.2k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced job scheduler for PostgreSQL.
+*   [Pyrseas (⭐402)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
+*   \[planter]\[[https://github.com/achiku/planter (⭐552)](https://github.com/achiku/planter)] - Generate PlantUML ER diagram textual description from PostgreSQL tables
 
 ### Contents / Language bindings
 
 *   Zig: [pg.zig (⭐364)](https://github.com/karlseguin/pg.zig)
+
+### Resources / Tutorials
+
+*   [pagila (⭐60)](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
+
+### Resources / Blogs
+
+*   [Percona's PostgreSQL blog posts](https://www.percona.com/blog/category/postgresql/)
+
+### Resources / Newsletters
+
+*   [pgMustard newsletter](https://www.pgmustard.com/newsletter) - Monthly newsletter that contains Postgres performance articles and videos.
+
+### Resources / Podcasts
+
+*   [PostgresFM](https://postgres.fm/) - Weekly discussions about Postgres topics.
+*   [Path to Citus Con](https://www.citusdata.com/podcast/path-to-citus-con/) - Monthly interviews with people in the Postgres world.
 
 ---
 

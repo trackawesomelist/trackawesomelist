@@ -6,6 +6,12 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [Apr 29, 2025](/content/2025/04/29/README.md)
+
+### Index / Cloud
+
+*   [Cubbit](https://www.cubbit.io/) 🇮🇹 - Software-defined storage platform that offers geo-distributed, sovereign object storage
+
 ## [Apr 28, 2025](/content/2025/04/28/README.md)
 
 ### Index / AI
