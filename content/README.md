@@ -171,6 +171,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [cruml (⭐6)](https://github.com/tamdaz/cruml) - A tool that provides an UML class diagram generator for any Crystal projects
 
+#### [8. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+##### Customization
+
+*   [Quick Quality-of-Life Improvements](https://forum.qubes-os.org/t/quick-quality-of-life-improvements/23380) - Custom scripts for everyday things.
+
 ### [May 02, 2025](/content/2025/05/02/README.md)
 
 
@@ -850,7 +856,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Prometheus](/content/roaldnefs/awesome-prometheus/README.md) - ([Source ⭐ 1.6K, 📝 24&#x2F;07&#x2F;31 ](https://github.com/roaldnefs/awesome-prometheus)) - A curated list of awesome Prometheus resources, projects and tools.
 - [Awesome Qr Code](/content/make-github-pseudonymous-again/awesome-qr-code/README.md) - ([Source ⭐ 83, 📝 24&#x2F;07&#x2F;07 ](https://github.com/make-github-pseudonymous-again/awesome-qr-code)) - A curated list of awesome QR code libraries, software and resources
 - [Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md) - ([Source ⭐ 2.4K, 📝 03&#x2F;25 ](https://github.com/woop/awesome-quantified-self)) - :bar_chart: Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking
-- [Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md) - ([Source ⭐ 94, 📝 24&#x2F;11&#x2F;19 ](https://github.com/xn0px90/Awesome-Qubes-OS)) - A curated list of awesome qubes os links
+- [Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md) - ([Source ⭐ 109, 📝 05&#x2F;03 ](https://github.com/xn0px90/Awesome-Qubes-OS)) - A curated list of awesome qubes os links
 - [Awesome Radio](/content/kyleterry/awesome-radio/README.md) - ([Source ⭐ 191, 📝 18&#x2F;06&#x2F;01 ](https://github.com/kyleterry/awesome-radio)) - Awesome radio stuff
 - [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 19K, 📝 05&#x2F;02 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
 - [Awesome Research](/content/emptymalei/awesome-research/README.md) - ([Source ⭐ 1.7K, 📝 23&#x2F;08&#x2F;15 ](https://github.com/emptymalei/awesome-research)) - :seedling: a curated list of tools to help you with your research/life; I built a front end around this repo, please use the link below [This repo is Not Maintained Anymore]  

@@ -1,24 +1,30 @@
 # Awesome List Updates on May 03, 2025
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
+## [1. Awesome Qubes OS](/content/xn0px90/Awesome-Qubes-OS/README.md)
+
+### Customization
+
+*   [Quick Quality-of-Life Improvements](https://forum.qubes-os.org/t/quick-quality-of-life-improvements/23380) - Custom scripts for everyday things.
+
+## [2. Awesome Crystal](/content/veelenga/awesome-crystal/README.md)
 
 ### Code Analysis and Metrics
 
 *   [cruml (⭐6)](https://github.com/tamdaz/cruml) - A tool that provides an UML class diagram generator for any Crystal projects
 
-## [2. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Miscellaneous
 
 *   [Reaction (⭐317)](https://github.com/lumia431/reaction) - A lightweight, header-only reactive programming framework leveraging modern C++20 features for building efficient dataflow applications. \[MIT]
 
-## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -60,14 +66,14 @@
 *   [NDJSON (⭐736) (⭐732)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐390) (⭐389)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Window Management
 
 *   [AeroSpace (⭐12k)](https://github.com/nikitabobko/AeroSpace) - i3-like tiling window manager for macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nikitabobko/AeroSpace) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [Dockit](https://dockit-docs.pages.dev) - An application that can dock any window to the edge of the screen. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/XiCheng148/Dockit)
 
-## [5. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
+## [6. Awesome Mental Health](/content/dreamingechoes/awesome-mental-health/README.md)
 
 ### About
 
@@ -122,7 +128,7 @@
 *   [Soft Skills Engineering](https://softskills.audio) – Hosted by Jamison Dance and Dave Smith. A humorous advice show for developers tackling topics like burnout, imposter syndrome, performance anxiety, and career balance.
 *   [Valarie Regas’s Story](https://devjourney.info/Guests/284-ValarieRegas.html) – On Software Developer’s Journey. A heartfelt episode where Valarie discusses her experience with depression, anxiety, and the need for empathy in tech workplaces.
 
-## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -148,7 +154,7 @@
 
 *   [vacui-ui (⭐2)](https://github.com/DanielAlcaraz/vacui-ui) - A headless Angular library of utility-first, primitives, low-level directives as foundational elements.
 
-## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome qubes os links
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xn0px90/Awesome-Qubes-OS](https://github.com/xn0px90/awesome-qubes-os) · ⭐ 94 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/xn0px90/Awesome-Qubes-OS/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xn0px90/Awesome-Qubes-OS](https://github.com/xn0px90/awesome-qubes-os) · ⭐ 109 · 🏷️ Miscellaneous
 
 [ [Daily](/content/xn0px90/Awesome-Qubes-OS/README.md) / [Weekly](/content/xn0px90/Awesome-Qubes-OS/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@ A curated list of awesome qubes os links
 
 A security-focused desktop operating system that aims to provide security through isolation.
 
-This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto (⭐333k)](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+This list is a collection of tools, projects, images, and resources conforming to the [Awesome Manifesto (⭐357k)](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
 Contributions *very welcome* but first see [Contributing](#contributing).
 
@@ -62,7 +62,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Qubes OS Development Documentation](https://dev.qubes-os.org/en/latest/) - Qubes OS development documentation.
 *   [Qubes OS Developer Books](https://www.qubes-os.org/doc/devel-books/) - A list of various books that might be useful in learning some basics needed for Qubes development.
 *   [Qubes OS Documentation](https://www.qubes-os.org/doc/) - Qubes OS main documentation.
-*   [Qubes OS GitHub Documentation (⭐346)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
+*   [Qubes OS GitHub Documentation (⭐358)](https://github.com/QubesOS/qubes-doc) - Qubes OS GitHub latest documentation.
 *   [Qubes OS News](https://www.qubes-os.org/news/) - Latest Qubes OS News.
 
 ## System Information & Requirements
@@ -92,7 +92,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Downloading, Installing, Upgrading, and Building
 
-*   [Building (⭐15)](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder.
+*   [Building (⭐21)](https://github.com/QubesOS/qubes-builderv2) - This is the second generation of the Qubes OS builder.
 *   [Installing](https://www.qubes-os.org/doc/installation-guide/)  - Qubes OS installation guide!
 *   [Qubes OS 4.2.3](https://www.qubes-os.org/downloads/) - Qubes OS 4.2.3 download.
 *   [Qubes OS 4.2.3 Weekly Builds](https://qubes.notset.fr/iso/) - Qubes OS 4.2.3 Weekly Build download.
@@ -117,9 +117,9 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [How to use disposables](https://www.qubes-os.org/doc/how-to-use-disposables/) - A disposable is a lightweight Qube that can be created quickly and will self-destruct when closed.
 *   [How to use optical discs](https://www.qubes-os.org/doc/how-to-use-optical-discs/) - Passthrough reading and recording (a.k.a., “burning”) are not supported by Qubes OS.
 *   [How to persist Tailscale tunnel in QubesOS  (⭐2)](https://github.com/kennethrrosen/tailscale_QubesOS) - Tailscale is a mesh private network that lets you easily manage access to private resources or quickly SSH into devices on your network.
-*   [How to use Qubes for journalists and Humans Rights Defenders (⭐17)](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
+*   [How to use Qubes for journalists and Humans Rights Defenders (⭐19)](https://github.com/kennethrrosen/journoSEC) - A suite of tools for improving and streamlining the use of Qubes OS for reporters, edtiors, lawyers and aid workers. Work in progress.
     *   [PAM distress login for xscreensaver](https://github.com/kennethrrosen/qubes-PAM-distress-login/) - A simple setup for sending a distress email if forced to login to desktop beyond LUKS passwords.
-    *   [Automated Arkenfox Qubes browser install (⭐17)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox) - Arkenfox config install for journalists
+    *   [Automated Arkenfox Qubes browser install (⭐19)](https://github.com/kennethrrosen/journoSEC/tree/main/mozilla/arkenfox) - Arkenfox config install for journalists
 *   [How to Implement TPM Boot Verification](https://github.com/kennethrrosen/qubes-boot-verification) - Verify and validate boot process using PCR without Heads or AEM on systems using TPM 2.0
 *   [How to open Urls in other qube](https://forum.qubes-os.org/t/opening-urls-files-in-other-qubes/19026) - This page is about opening URLs and files from one qube in a different qube.
 *   [Qubes Salt Beginner’s Guide](https://forum.qubes-os.org/t/qubes-salt-beginners-guide/20126) - How to guide for beginners who enjoy an hands-on introduction with examples.
@@ -145,7 +145,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Pentesting: Kali](https://forum.qubes-os.org/t/kali-template-available/1706) - How to create a Kali Linux VM.
 *   [Pentesting: PTF](https://forum.qubes-os.org/t/penetration-testers-framework-ptf-templatevm/19011) - "The PenTesters Framework (PTF) is a Python script designed for Debian/Ubuntu/ArchLinux based distributions to create a similar and familiar distribution for Penetration Testing.
 *   [Windows Qubes](https://www.qubes-os.org/doc/windows/) - Like any other unmodified OSes, Windows can be installed in Qubes as an HVM domain.
-*   [Qvm-Create-Windows-Qube (⭐346)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
+*   [Qvm-Create-Windows-Qube (⭐354)](https://github.com/ElliotKillick/qvm-create-windows-qube) - Qvm-Create-Windows-Qube is a tool for quickly and conveniently installing fresh new Windows qubes with Qubes Windows Tools (QWT) drivers automatically.
 *   [Prestium OS](https://forum.qubes-os.org/t/prestium-os-setup/22545) - Prestium OS is a Tails OS-like live linux distro.
 *   [Tails OS](https://forum.qubes-os.org/docs?topic=19012) - Tails stands for The Amnesic Incognito Live System. It is a live operating system that aims to preserve your privacy and anonymit.
 *   [Templates](https://www.qubes-os.org/doc/templates/) - In Getting Started, we covered the distinction in Qubes OS between where you install your software and where you run your software.
@@ -168,7 +168,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 *   [Kicksecure](https://www.kicksecure.com/wiki/Kicksecure-Qubes_Security) - The following list of actionable items can help to improve security on the Qubes platform, and by extension Kicksecure ™ for Qubes users.
 *   [Kicksecure for DISP-sys\*](https://forum.qubes-os.org/t/guide-kicksecure-for-disp-sys/13324) - How to create disposable sys-usb, sys-net, sys-firewall off a debian-11 minimal template with Kicksecure and other hardening features for DISP-sys\*.
-*   [Qcrypt (⭐16)](https://github.com/3hhh/qcrypt) -qcrypt is a multilayer encryption tool for Qubes OS.
+*   [Qcrypt (⭐18)](https://github.com/3hhh/qcrypt) -qcrypt is a multilayer encryption tool for Qubes OS.
 *   [Qubes-VM-hardening (⭐74)](https://github.com/tasket/Qubes-VM-hardening) - Leverage Qubes template non-persistence to fend off malware at VM startup: Lock-down, quarantine and check contents of /rw private storage that affect the execution environment.
 *   [Anonymizing your MAC Address (⭐258)](https://github.com/Qubes-Community/Contents/blob/master/docs/privacy/anonymizing-your-mac-address.md) - Although the MAC address is not the only metadata broadcast by network hardware, changing your hardware's default MAC Address could be an important step in protecting privacy.
 *   [Anti Evil Maid (AEM)](https://www.qubes-os.org/doc/anti-evil-maid/) - A user who frequently travels with a Qubes laptop holding sensitive data may be at a much higher risk of Evil Maid attacks than a home user with a stationary Qubes desktop.
@@ -200,7 +200,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Hardening sys-net](https://forum.qubes-os.org/t/hardening-sys-net/24345) - This guide works no matter whether or not you chose disposable sys-net or not. no nonsense guide, Lets get in!
 *   [Nix in a Qubes OS AppVM](https://dataswamp.org/~solene/2023-05-15-qubes-os-install-nix.html) - How to install Nix in an AppVm.
 *   [No file indexing](https://forum.qubes-os.org/t/disable-file-indexing-in-disposable-qubes/20747) - Disable file indexing in disposable qubes
-*   [Qubes Shutdown Idle Script (⭐4)](https://github.com/QubesOS/qubes-app-shutdown-idle) - This is a simple script that watches the current qube for idleness and, if it's idle for more than 15 minutes (timeout time is defined in qubesidle.idleness\_monitor), shuts it down.
+*   [Qubes Shutdown Idle Script (⭐5)](https://github.com/QubesOS/qubes-app-shutdown-idle) - This is a simple script that watches the current qube for idleness and, if it's idle for more than 15 minutes (timeout time is defined in qubesidle.idleness\_monitor), shuts it down.
 *   [qubes-ssh-agent (⭐3)](https://github.com/unman/qubes-ssh-agent) - This is an alternative approach to the existing qubes split-ssh.
 
 ## Customization
@@ -212,14 +212,14 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [DPI scaling](https://forum.qubes-os.org/t/dpi-scaling/19064) - Qubes OS passes on dom0’s screen resolution to VMs (this can be seen in the output of xrandr) but doesn’t pass on dom0’s dpi value.
 *   [i3 (window manager)](https://www.qubes-os.org/doc/i3/) - i3 is part of the stable repository (as of Qubes R3.1) and can be installed by using the dom0 update mechanism.
 *   [KDE (desktop environment)](https://www.qubes-os.org/doc/kde/) -  KDE was the default desktop environment in Qubes
-*   [Qubes-GUI-Rust (⭐7)](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
+*   [Qubes-GUI-Rust (⭐9)](https://github.com/QubesOS/qubes-gui-rust) - Rust libraries for the Qubes OS GUI Protocol
 *   [Suckless dwm (⭐12)](https://github.com/3o14r473/GUIDE_how-to-install-dwm-in-qubesos) - How to install dwm in Qubes OS.
 *   [QubesOS Autostart Menu (⭐0)](https://github.com/kennethrrosen/Qubes-OS-Autostart-Menu/) - Speed up system boot process with a custom launch script
-*   [Qubes-Scripts (⭐11)](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
+*   [Qubes-Scripts (⭐16)](https://github.com/Willy-JL/Qubes-Scripts) - Collection of custom scripts for Qubes OS.
 *   [Playback performance](https://forum.qubes-os.org/t/improve-video-playback-performance-including-youtube/21946) - This guide will show you how to install the mpv player and use it with maximum performance.
 *   [qubes-salt-video-playback](https://codeberg.org/brunoschroeder/qubes-salt-video-playback) - Qubes SaltStack configuration of Videos Playback VM
 *   [sys-VPN notification setup](https://github.com/kennethrrosen/qubes_VPN_notifier) - Get VPN stats as a desktop notification
-*   [Wayland agent (⭐16)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
+*   [Wayland agent (⭐19)](https://github.com/DemiMarie/qubes-wayland) - This is a GUI agent for Qubes OS that supports the \[Wayland] display server protocol. Compared to X11, Wayland is vastly simpler and aims to ensure every frame is perfect.
 *   [Sys-gui Customization](https://forum.qubes-os.org/t/sys-gui-customization-minimal-fedora-and-alternate-desktop-environments-window-managers-de-wms/27093) - Minimal Fedora and Alternate Desktop Environments / Window Managers (DE/WMs)
 *   [Tiling XFCE ](https://forum.qubes-os.org/t/tiling-xfce-windows-with-shortcut-keys/22840) - Titled windows in XFCE with shortcut keys.
 *   [DPI scaling](https://forum.qubes-os.org/t/dpi-scaling/19064) - Qubes OS passes on dom0’s screen resolution to VMs (this can be seen in the output of xrandr) but doesn’t pass on dom0’s dpi value.
@@ -228,6 +228,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [CPU monitor per VMs](https://forum.qubes-os.org/t/cpu-monitor-per-vms/22829) - Individual VM monitoring.
 *   [Custom App entries for the Q Menu](https://www.qubes-os.org/doc/app-menu-shortcut-troubleshooting/) - App menu shortcut troubleshooting.
 *   [xfce dark mode ](https://forum.qubes-os.org/t/guide-xfce-global-dark-mode-in-qubes-4-0-4-1/10757) - Xfce global dark mode in Qubes
+*   [Quick Quality-of-Life Improvements](https://forum.qubes-os.org/t/quick-quality-of-life-improvements/23380) - Custom scripts for everyday things.
 
 ## GPU
 
@@ -270,7 +271,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ### OpenVPN
 
 *   [How To make a VPN Gateway in Qubes](https://forum.qubes-os.org/t/configuring-a-proxyvm-vpn-gateway/19061) - Qubes includes a number of tools that can make the client-side setup of your VPN more versatile and secure.
-*   [Qubes-Tunnel (⭐22)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
+*   [Qubes-Tunnel (⭐25)](https://github.com/QubesOS-contrib/qubes-tunnel) - Manage, run, protect VPN connections in Proxy VMs.
 *   [Mullvad VPN (Dedian 12 + OVPN)](https://mullvad.net/en/help/qubes-os-4-and-mullvad-vpn/) - Privacy-first VPN provider's guide for Qubes OS.
 *   [Fedora 40 Minimal(OpenVPN)](https://forum.qubes-os.org/t/fedora-40-minimal-openvpn-qubes-4-2-six-easy-steps/27795) - Qubes 4.2 - Six Easy Steps!
 
@@ -303,7 +304,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 *   [Split Bitcoin Wallet (⭐258)](https://github.com/Qubes-Community/Contents/blob/master/docs/security/split-bitcoin.md) - A "split" bitcoin wallet is a strategy of protecting your bitcoin by having your wallet split into an offline "cold storage" wallet and an online "watching only" wallet.
 *   [Split Monero Wallet](https://www.getmonero.org/resources/user-guides/cli_wallet_daemon_isolation_qubes_whonix.html) - With Qubes + Whonix you can have a Monero wallet that is without networking and running on a virtually isolated system from the Monero daemon which has all of its traffic forced over Tor.
-*   [Awesome-DeSci (⭐75)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
+*   [Awesome-DeSci (⭐110)](https://github.com/DeSciWorldDAO/awesome-desci) - A curated list of awesome Decentralized Science (DeSci) resources, projects, articles and more.
 *   [Ultimate Guide on Using Trezor on Qubes](https://ursidaecyber.com/how-to-use-trezor-on-qubes-os/) - his guide explains how to use Trezor cryptocurrency hardware wallets on Qubes OS.
 
 ## Kernels
@@ -314,33 +315,33 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ### Microkernels
 
 *   [OpenXT](https://openxt.org/) - OpenXT is an open-source development toolkit for hardware-assisted security research and appliance integration.
-*   [Qubes-linux-kernel (⭐87)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
+*   [Qubes-linux-kernel (⭐92)](https://github.com/QubesOS/qubes-linux-kernel) - Qubes package for Linux kernel.
 *   [seL4](https://sel4.systems/) - seL4 is a high-assurance, high-performance operating system microkernel.
     *   [makatea](https://trustworthy.systems/projects/TS/makatea) - Qubes OS like operating system but with seL4.
 
 ### Unikernels
 
-*   [Awesome-Unikernels (⭐43)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
+*   [Awesome-Unikernels (⭐47)](https://github.com/uniqernel/awesome-unikernels) - Secure, lightweight and high performance approach to application delivery.
 *   [ClickOS](http://cnp.neclab.eu/projects/clickos) - Efficient network function virtualization platform, optimized for Xen and developed by NEC.
 *   [Clive](http://lsub.org/ls/clive.html) - Research project from Rey Juan Carlos University (Madrid), developed in Go.
 *   [HaLVM](https://galois.com/project/halvm) - Port of Glasgow Haskell compiler producing Xen optimized unikernels.
 *   [Mini-OS](https://wiki.xen.org/wiki/Mini-OS) - Reference kernel distributed with Xen.
-*   [Qubes-Mirage-Firewall (⭐210)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
+*   [Qubes-Mirage-Firewall (⭐219)](https://github.com/mirage/qubes-mirage-firewall) - A unikernel that can run as a Qubes OS ProxyVM, replacing sys-firewall.
 *   [Unikraft](https://unikraft.org/) - Unikraft powers the next-generation of cloud native applications by enabling you to radically customize and build custom OS/kernels, unlocking best-in-class performance, security primitives and efficiency savings.
 *   [Unik (⭐2.7k)](https://github.com/solo-io/unik) - A platform for automating unikernel & MicroVM compilation and deployment.
 
 ### Unikernel-like
 
 *   [Drawbridge](https://www.microsoft.com/en-us/research/project/drawbridge) - Research prototype platform from Microsoft.
-*   [Graphene (⭐769)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
+*   [Graphene (⭐780)](https://github.com/oscarlab/graphene) - Library OS optimized for Intel SGX.
 
 ## Qubes OS Server
 
 *   [Admin API](https://www.qubes-os.org/doc/admin-api/) - The goals of the Admin API system is to provide a way for the user to manage the domains without direct access to dom0.
 *   [Ansible](https://qubes-ansible.readthedocs.io/en/latest/) - Automation with Ansible.
 *   [Multi-user Qubes: Using sys-gui to make non-adminstrative user logins](https://forum.qubes-os.org/t/multi-user-qubes-using-sys-gui-to-make-non-adminstrative-user-logins/29967) - Here we try to create restricted sys-guis, where they only need to see the parts that pertain to them. Basically a administrative gui login (dom0), and a restricted user sys-gui login.
-*   [Qubes-network-server (⭐107)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
-*   [Qubes-remote-desktop (⭐8)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any Qube.
+*   [Qubes-network-server (⭐112)](https://github.com/Rudd-O/qubes-network-server) - Turn your Qubes OS into a networking server.
+*   [Qubes-remote-desktop (⭐9)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any Qube.
 *   [Qubes Admin Policies/API](https://forum.qubes-os.org/t/how-to-use-the-qubes-admin-policies-api-despite-the-lack-of-documentation-wip/29863/1) - The qubes admin policies are core to modern qubes.
 *   [Qubes core admin client](https://www.qubes-os.org/doc/qubes-core-admin-client/) - Qubes core admin client’s documentation!
 *   [Qubes core admin](https://www.qubes-os.org/doc/qubes-core-admin/) - Qubes core-admin’s documentation!
@@ -350,49 +351,49 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 *   [Qubes sync git repositories with dom0](https://codeberg.org/brunoschroeder/qubes-git-syncer) - This solution is intended have git repos easily in sync with dom0.
 *   [Salt (management software)](https://www.qubes-os.org/doc/salt/) - Salt allows administrators to easily configure their systems.
 *   [Salt Beginner's Guide](https://forum.qubes-os.org/t/qubes-salt-beginners-guide/20126) - Guide for beginners who enjoy an hands-on introduction with examples.
-*   [qubes-mgmt-salt-dom0-qvm (⭐13)](https://github.com/QubesOS/qubes-mgmt-salt-dom0-qvm#readme) - Salt can manage many Qubes settings via the qvm state module.
+*   [qubes-mgmt-salt-dom0-qvm (⭐15)](https://github.com/QubesOS/qubes-mgmt-salt-dom0-qvm#readme) - Salt can manage many Qubes settings via the qvm state module.
 *   [Virtual Machine Formulae](https://www.qubes-os.org/doc/salt/#virtual-machine-formulae) - Salt allows administrators to easily configure their systems. In this guide we will show how it is set up and how you can modify it for your own purpose.
 *   [Configuration Management](https://docs.gonzalobulnes.com/configuration_management.html) - A collection of guides about creating Salt formulas in Qubes OS and distributing them as RPM packages to take advantage of the secure updates mechanism for dom0.
 *   [Offcial Salt Documentation](https://docs.saltproject.io/en/latest/contents.html) - Salt is an event-driven automation tool and framework to deploy, configure, and manage complex IT systems.
 *   [Official Salt User Guide](https://docs.saltproject.io/salt/user-guide/en/latest/index.html) - Salt user guide
-*   [qusal (⭐20)](https://github.com/ben-grande/qusal) - Salt Formulas for Qubes OS.
+*   [qusal (⭐27)](https://github.com/ben-grande/qusal) - Salt Formulas for Qubes OS.
 *   [qvm-firewall](https://dev.qubes-os.org/projects/core-admin-client/en/latest/manpages/qvm-firewall.html) - Manage VM outbound firewall.
 *   [Qubes Admin python modules](https://dev.qubes-os.org/projects/core-admin-client/en/latest/py-modindex.html) - Python Module Index
 *   [Qubes network dom0 display](https://forum.qubes-os.org/t/simple-qubes-os-qubes-network-display/26031) - a simple script to run in dom0 (easy to audit) that will output a hierarchy tree of netvm and their qubes.
 *   [Colored! network information](https://forum.qubes-os.org/t/colored-network-information-iptables-routes-addresses-shell-reporting-networking/22258/1) - Colorful network information with iptables & ip.
 *   [Visualize Qubes Configuration Without Trust](https://forum.qubes-os.org/t/visualize-qubes-configuration-without-trust-a-use-case-for-the-qubes-admin-api/23072) - Visualize Qubes Configuration with the Qubes Admin API.
 *   [SSH or VNC into Qubes dom0](https://www.whonix.org/wiki/Remote_Administration#Qubes_-_SSH_or_VNC_into_Qubes_dom0) - tutorial on how to SSH or VNC in to dom0
-*   [qubes-remote-support-receiver dom0 scripts (⭐3)](https://github.com/QubesOS/qubes-remote-support) - Scripts to configure dom0 to allow remote connections.
+*   [qubes-remote-support-receiver dom0 scripts (⭐4)](https://github.com/QubesOS/qubes-remote-support) - Scripts to configure dom0 to allow remote connections.
 *   [Web VNC](https://forum.qubes-os.org/t/remote-qubes-user-testing-running-qubes-in-the-browser/13817) - Running Qubes in the Browser
-*   [VNC (⭐8)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
+*   [VNC (⭐9)](https://github.com/QubesOS-contrib/qubes-remote-desktop) - SystemD services for creating VNC server session in dom0 or any qube.
 *   [Software RAID (mdadm) Qubes Installation Procedure](https://forum.qubes-os.org/t/software-raid-mdadm-qubes-installation-procedure-wip/27886) - CLI & Software Raid installation procedure.
-*   [borg-offsite-backup (⭐3)](https://github.com/Rudd-O/borg-offsite-backup) - help back up Qubes VMs and ZFS file systems.
+*   [borg-offsite-backup (⭐4)](https://github.com/Rudd-O/borg-offsite-backup) - help back up Qubes VMs and ZFS file systems.
 
 ## Exploitation Tools
 
-*   [Awesome-Fuzzing (⭐843)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
-*   [AFL++ (⭐5.2k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
-*   [Bonzai (⭐190)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
+*   [Awesome-Fuzzing (⭐884)](https://github.com/cpuu/awesome-fuzzing) - A curated list of references to awesome Fuzzing for security testing. Additionally there is a collection of freely available academic papers, tools and so on.
+*   [AFL++ (⭐5.7k)](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a superior fork to Google's AFL - more speed, more and better mutations, more and better instrumentation, custom module support, etc.
+*   [Bonzai (⭐225)](https://github.com/rwxrob/bonzai) - It's like a modular, multicall BusyBox builder for Go with built in completion and embedded documentation support.
 *   [CodeQL](https://codeql.github.com/) - Discover vulnerabilities across a codebase with CodeQL.
-*   [Joern (⭐2.1k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
-*   [Hyperdbg (⭐2.9k)](https://github.com/HyperDbg/HyperDbg) - HyperDbg Debugger is an open-source, community-driven, hypervisor-assisted, user-mode, and kernel-mode Windows debugger with a focus on using modern hardware technologies. It is a debugger designed for analyzing, fuzzing, and reversing.
-*   [LeechCore (⭐519)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
-    *   [LeechCore-Plugins (⭐32)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
+*   [Joern (⭐2.4k)](https://github.com/joernio/joern) - Joern is a platform for analyzing source code, bytecode, and binary executables. It generates code property graphs (CPGs), a graph representation of code for cross-language code analysis.
+*   [Hyperdbg (⭐3.2k)](https://github.com/HyperDbg/HyperDbg) - HyperDbg Debugger is an open-source, community-driven, hypervisor-assisted, user-mode, and kernel-mode Windows debugger with a focus on using modern hardware technologies. It is a debugger designed for analyzing, fuzzing, and reversing.
+*   [LeechCore (⭐607)](https://github.com/ufrisk/LeechCore) - The LeechCore Memory Acquisition Library focuses on Physical Memory Acquisition using various hardware and software based methods.
+    *   [LeechCore-Plugins (⭐35)](https://github.com/ufrisk/LeechCore-plugins) - This repository contains various plugins for LeechCore - Physical Memory Acquisition Library.
 *   [Libvmi](https://libvmi.com/) - LibVMI is a C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
 *   [Lldb](https://lldb.llvm.org/) - LLDB is a next generation, high-performance debugger.
-*   [Memflow (⭐773)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
+*   [Memflow (⭐852)](https://github.com/memflow/memflow) - memflow is a library that enables introspection of various machines (hardware, virtual machines, memory dumps) in a generic fashion.
 *   [Capstone](https://www.capstone-engine.org/) - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 *   [Coredump (⭐7)](https://github.com/memflow/memflow-coredump) - Access Microsoft Windows Coredump files.
 *   [Kvm (⭐40)](https://github.com/memflow/memflow-kvm) - KVM memflow connector.
-*   [Pcileech (⭐21)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
-*   [sys-mitm (⭐39)](https://github.com/ClaraCrazy/qubes-docs/blob/main/sys-mitm.md) - A man-in-the-middle Qube for your traffic analysis needs.
-*   [Qemu\_procfs (⭐41)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
+*   [Pcileech (⭐24)](https://github.com/memflow/memflow-pcileech) - Access pcileech interface.
+*   [sys-mitm (⭐40)](https://github.com/ClaraCrazy/qubes-docs/blob/main/sys-mitm.md) - A man-in-the-middle Qube for your traffic analysis needs.
+*   [Qemu\_procfs (⭐40)](https://github.com/memflow/memflow-qemu-procfs) - Access QEMU Physical memory.
 *   [Unicorn](https://www.unicorn-engine.org/) - Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework.
-*   [MemProcFS (⭐3.1k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
-    *   [MemProcFS-Plugins (⭐55)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
-*   [Microlibvmi (⭐167)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
-*   [Radare2 (⭐21k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
-*   [Volatility3 (⭐2.7k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
+*   [MemProcFS (⭐3.5k)](https://github.com/ufrisk/MemProcFS) - MemProcFS is an easy and convenient way of viewing physical memory as files in a virtual file system.
+    *   [MemProcFS-Plugins (⭐54)](https://github.com/ufrisk/MemProcFS-plugins) - This repository contains various non-core plugins for MemProcFS - The Memory Process File System.
+*   [Microlibvmi (⭐176)](https://github.com/Wenzel/libmicrovmi) - A cross-platform unified Virtual Machine Introspection API library.
+*   [Radare2 (⭐22k)](https://github.com/radareorg/radare2) - Libre Reversing Framework for Unix Geeks.
+*   [Volatility3 (⭐3.1k)](https://github.com/volatilityfoundation/volatility3) - Volatility is the world's most widely used framework for extracting digital artifacts from volatile memory (RAM) samples.
 
 ### Xen Exploitation
 
@@ -440,7 +441,7 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 ### Extra Info
 
 *   [3mdeb](https://3mdeb.com/) - We’re hands-on firmware experts with years of experience writing elegant, scalable and custom code for clients.
-*   [Hipervisor From Scratch (⭐2.2k)](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)- Source code of a multiple series of tutorials about the hypervisor.
+*   [Hipervisor From Scratch (⭐2.3k)](https://github.com/SinaKarvandi/Hypervisor-From-Scratch)- Source code of a multiple series of tutorials about the hypervisor.
 *   [GPU Virtual Machine (GVM)](https://www.youtube.com/watch?v=YllX-ud70Nk)  - An OpenMdev Project (Qubes OS Summit 2022)
 *   [Micah Lee presents](https://livestream.com/accounts/9197973/events/8286152/videos/178431606) - “Qubes OS: The Operating System That Can Protect You Even If You Get Hacked”
 *   [Explaining Computers presents](https://www.youtube.com/watch?v=hWDvS_Mp6gc) - “Qubes OS: Security Oriented Operating System”
@@ -448,15 +449,15 @@ Contributions *very welcome* but first see [Contributing](#contributing).
 
 ## Training and Materials
 
-*   [Training-materials (⭐4)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
-    -[Qubes for Journalists (⭐18)](https://github.com/kennethrrosen/qubes-for-journalists/) - Existing guides and infrastructure for journalists insufficiently prepares them for digitally interacting with sources, working on sensitive stories while protecting sensitive materials offline and online, and traveling cross borders with personal and professional data.
-*   [Qubes-diagrams (⭐15)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
-*   [Qubes-artwork (⭐12)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
+*   [Training-materials (⭐5)](https://github.com/QubesOS/training-materials/) - A Collection of training materials for Qubes OS.
+    -[Qubes for Journalists (⭐19)](https://github.com/kennethrrosen/qubes-for-journalists/) - Existing guides and infrastructure for journalists insufficiently prepares them for digitally interacting with sources, working on sensitive stories while protecting sensitive materials offline and online, and traveling cross borders with personal and professional data.
+*   [Qubes-diagrams (⭐16)](https://github.com/rootkovska/qubes-diagrams) - Qubes OS architecture diagrams.
+*   [Qubes-artwork (⭐14)](https://github.com/QubesOS/qubes-artwork) - This repository contains various artworks for Qubes OS.
 *   [pwn.college](https://pwn.college/) - pwn.college is an education platform for students (and other interested parties) to learn about, and practice, core cybersecurity concepts in a hands-on fashion.
 *   [Anonymous Planet](https://anonymousplanet.org) - The Hitchhiker’s Guide to Online Anonymity: the comprehensive guide for online anonymity and OpSec.
     *   [Anonymous Planet Onion](http://thgtoa27ujspeqxasrfvcf5aozqdczvgmwgorrmblh6jn4nino3spcqd.onion/) - For those who wish to read over the anonymous Tor network.
     *   [Privacy-Security-Anonymity Matrix Space](https://psa.anonymousplanet.org/) - The place to be for all topics regarding privacy, anonymity and other subjects. Rooms are click-to-join.
-*   [The Book of Secret Knowledge (⭐148k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
+*   [The Book of Secret Knowledge (⭐168k)](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools, and more.
 *   [Qubes OS for Anarchists](https://www.anarsec.guide/posts/qubes/) - Qubes OS for Anarchists | Guide & Best Practices
 *   [The Guardian's Deep Dive into Qubes OS: a Secure Solution for Whistleblowing and Journalism](https://www.infoq.com/news/2024/05/the-guardian-quebes-os/?ref=dailydev) - The Guardian's engineering team recently shared their experience with Qubes OS, a security-focused desktop operating system.
 *   [Free e-book Foundation](https://ebookfoundation.github.io/) - Free ebooks to help your journey!
@@ -499,11 +500,11 @@ The Qubes OS Project has a presence on the following social media platforms:
 *   [Ninavizz](https://vimeo.com/user1589693) - Qubes OS UX Designer.
 *   [Unman](https://github.com/unman?tab=repositories) - Qubes OS contributor.
     *   [Templates](https://qubes.3isec.org/Templates_4.2/) - Unman custom templates.
-    *   [Install Scripts (⭐18)](https://github.com/unman/shaker) -  Unman install scripts
-    *   [Notes (⭐37)](https://github.com/unman/notes) - a good reference
-    *   [Shaker (⭐18)](https://github.com/unman/shaker) - Shaker!
+    *   [Install Scripts (⭐22)](https://github.com/unman/shaker) -  Unman install scripts
+    *   [Notes (⭐41)](https://github.com/unman/notes) - a good reference
+    *   [Shaker (⭐22)](https://github.com/unman/shaker) - Shaker!
 *   [Core Team](https://www.qubes-os.org/team/#core-team) - Qubes OS core team.
-*   [ClaraCrazy (⭐39)](https://github.com/claracrazy/qubes-docs) - Qubes OS Discord server owner & Just amazing!.
+*   [ClaraCrazy (⭐40)](https://github.com/claracrazy/qubes-docs) - Qubes Guru & Just amazing!.
 
 ## Releases
 
@@ -514,7 +515,7 @@ The Qubes OS Project has a presence on the following social media platforms:
 
 ## Adventure Further
 
-*   Adventures start here ---> [Adventure Here! (⭐333k)](https://github.com/sindresorhus/awesome) - All the awesome lists.
+*   Adventures start here ---> [Adventure Here! (⭐357k)](https://github.com/sindresorhus/awesome) - All the awesome lists.
     **[⬆ back to top](#awesome-qubes-os-)**
 
 `:|: ADVENTURE FURTHER :|: HACK ALL THE THINGS :|: TRUST NOTHING :|: WITH <3! ~X`
@@ -523,7 +524,7 @@ The Qubes OS Project has a presence on the following social media platforms:
 
 ## Contributing
 
-Contribution guidelines can be found [here (⭐94)](https://github.com/xn0px90/Awesome-Qubes-OS/blob/master/CONTRIBUTING.md).
+Contribution guidelines can be found [here (⭐109)](https://github.com/xn0px90/Awesome-Qubes-OS/blob/master/CONTRIBUTING.md).
 
 ## License
 
