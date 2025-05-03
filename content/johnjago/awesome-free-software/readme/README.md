@@ -64,7 +64,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 ### Command Line Tools
 
 *   [asciinema](https://asciinema.org/) - Terminal session recorder. ([GNU GPLv3 (⭐15k)](https://github.com/asciinema/asciinema/blob/develop/LICENSE))
-*   [Clipboard (⭐5.1k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, all from the command line. ([GNU GPLv3 (⭐5.1k)](https://github.com/Slackadays/Clipboard/blob/main/LICENSE))
+*   [Clipboard (⭐5.2k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, all from the command line. ([GNU GPLv3 (⭐5.2k)](https://github.com/Slackadays/Clipboard/blob/main/LICENSE))
 *   [Cygwin](http://cygwin.com/) - Unix-like environment for Windows, providing access to a number of tools commonly found on Linux systems. ([GNU GPLv3](https://cygwin.com/COPYING))
 *   [Logdissect (⭐150)](https://github.com/dogoncouch/logdissect/) - CLI utility and Python API for analyzing log files and other data. ([MIT (⭐150)](https://github.com/dogoncouch/logdissect/blob/master/LICENSE))
 *   [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/) - Remote terminal emulator that connects over SSH, Telnet, SCP, and rlogin protocols as well as raw socket connections. ([MIT](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html))
@@ -93,6 +93,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 *   [7-Zip](http://7-zip.org/) - File archiver for creating and opening compressed files. ([GNU LGPLv2.1+](http://www.7-zip.org/faq.html))
 *   [Filestash](http://www.filestash.app) - A Dropbox-like web client where users can bring their own backend (FTP, SFTP, Webdav, S3, Minio, ...). ([GNU AGPLv3 (⭐11k)](https://github.com/mickael-kerjean/filestash/blob/master/LICENSE))
 *   [FileZilla](https://filezilla-project.org/) - Universal FTP solution. ([GNU GPLv2+](https://filezilla-project.org/license.php))
+*   [Mikochi (⭐305)](https://github.com/zer0tonin/Mikochi) - A web interface for browsing remote folders, managing files (uploading, deleting, renaming, downloading), and streaming directly to VLC/mpv. ([MIT (⭐305)](https://github.com/zer0tonin/Mikochi/blob/main/LICENSE))
 *   [WinSCP (⭐3k)](https://github.com/winscp/winscp) - SFTP and FTP client for Windows ([GNU GPLv3 (⭐3k)](https://github.com/winscp/winscp/blob/master/license.txt))
 
 ### File Sharing
@@ -127,6 +128,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 *   [Devuan](https://devuan.org/) - Fork of Debian without systemd. ([Licenses](https://devuan.org/os/source-code))
 *   [PureOS](https://pureos.net/) - FSF endorsed derivative of Debian. (Multiple licenses)
 *   [LineageOS](https://lineageos.org/) - Android distribution for phones and tablets and successor of CyanogenMod. (Multiple licenses)
+*   [Arch](https://www.archlinux.org/) - Lightweight and flexible Linux distribution that tries to keep it simple. ([GNU GPLv2](https://www.archlinux.org/packages/core/any/licenses/))
 
 ### Other
 
@@ -170,6 +172,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 *   [Search Deflector](https://spikespaz.com/search-deflector) - A small program that redirects searches made from the Windows Start Menu or Cortana to whatever browser and search engine you prefer. ([MIT (⭐892)](https://github.com/spikespaz/search-deflector/blob/master/LICENSE))
 *   [Wireshark](https://www.wireshark.org/) - Packet analyzer for network troubleshooting and analysis. ([GNU GPLv2](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=blob_plain;f=COPYING;hb=HEAD))
 *   [Espanso (⭐11k)](https://github.com/federico-terzi/espanso) - A cross-playform text expander ([GNU GPLv3 (⭐11k)](https://github.com/federico-terzi/espanso/blob/master/LICENSE))
+*   [Freeter](https://freeter.io/) - Freeter allows to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, Mac OS. ([GNU GPLv3 (⭐538)](https://github.com/FreeterApp/Freeter/blob/master/COPYING))
 
 ### Video
 
@@ -188,11 +191,11 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 *   [Cloverleaf](https://cloverleaf.app) - An open source app to replace your password manager without storing your passwords anywhere. ([MIT (⭐49)](https://github.com/cloverleaf/web/blob/master/LICENSE))
 *   [Dnote](https://www.getdnote.com/) - A simple command line notebook with multi-device sync and web interface. ([GNU AGPLv3 (⭐2.9k)](https://github.com/dnote/dnote/blob/master/licenses/AGPLv3.txt))
-*   [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3 (⭐9k)](https://github.com/docusealco/docuseal/blob/master/LICENSE))
+*   [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3 (⭐9.1k)](https://github.com/docusealco/docuseal/blob/master/LICENSE))
 *   [Etherpad](http://etherpad.org/) - Collaborative document editing in real-time. ([Apache License 2.0 (⭐17k)](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 *   [Ghost](https://ghost.org/) - Hackable platform for building and running online publications. ([MIT (⭐49k)](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 *   [GitLab](https://about.gitlab.com/installation/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
-*   [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
+*   [GNU social](https://gnu.io/social/) - Microblogging server written in PHP. ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
 *   [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT (⭐46k)](https://github.com/gogits/gogs/blob/master/LICENSE))
 *   [Healthchecks](https://healthchecks.io/) - Cron job monitoring service. ([BSD 3-clause (⭐8.8k)](https://github.com/healthchecks/healthchecks/blob/master/LICENSE))
 *   [Inventaire](https://inventaire.io/welcome) - Share books with friends and communities. ([GNU AGPLv3 (⭐456)](https://github.com/inventaire/inventaire/blob/master/LICENSE.md))
@@ -206,7 +209,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 *   [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license. ([GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
 *   [PeerTube](https://framagit.org/chocobozzz/PeerTube) - Decentralized video streaming service. ([GNU AGPLv3](https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE))
 *   [Phabricator](https://phacility.com/phabricator/) - Code management platform (similar to GitLab) built with PHP. ([Apache License 2.0 (⭐12k)](https://github.com/phacility/phabricator/blob/master/LICENSE))
-*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform. ([Apache License 2.0 (⭐2.7k)](https://github.com/tolgee/tolgee-platform/blob/main/LICENSE))
+*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform. ([Apache License 2.0 (⭐2.8k)](https://github.com/tolgee/tolgee-platform/blob/main/LICENSE))
 *   [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT (⭐11k)](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
 *   [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3 (⭐5k)](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 *   [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))

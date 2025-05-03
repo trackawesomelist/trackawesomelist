@@ -12,21 +12,47 @@
 
 *   [Is This Tech Dead?](https://www.isthistechdead.com/angular) - Is Angular dead?
 
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Code With Omkar](https://www.codewithomkar.com/)
+
+### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Code with Keys](https://www.youtube.com/@codewithkeys) - (Persian)
+
 ### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-rspack (⭐62)](https://github.com/nrwl/angular-rspack) - [Rspack (⭐11k)](https://github.com/web-infra-dev/rspack) plugin and tooling for Angular applications.
+*   [angular-static-assets-hash (⭐3)](https://github.com/sitelint/angular-static-assets-hash) - Create a list of Angular static assets and a hash for each file.
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [rafacli (⭐1)](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
 
+### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Bloomreach Angular SDK (⭐18)](https://github.com/bloomreach/spa-sdk/blob/main/packages/ng-sdk/README.md) - Bloomreach Angular SDK provides simplified headless integration with [Bloomreach Content](https://www.bloomreach.com/en/products/content) for Angular-based applications.
+
 ### Component / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [wdio-harness (⭐7)](https://github.com/badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
 
+### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-calendar-widget (⭐8)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
+
+### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-traak (⭐14)](https://github.com/mouhamadalmounayar/ngx-traak) - A WYSIWYG angular editor library built on top of prosemirror, built for standalone components and highly customizable with plugins.
+
 ### JSON Forms / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-formwork (⭐3)](https://github.com/TheNordicOne/ngx-formwork) - This package provides a framework for creating Angular Reactive Forms, based on a configuration. This configuration can come from a server in the form of JSON or directly from an object written in TypeScript.
+
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-router-menus (⭐2)](https://github.com/muuvmuuv/angular-router-menus) - Enhance your Angular app's navigation by defining menu entries directly within the route. With full typing and customization based on your requirements, you can create multiple navigations effortlessly. Nested menus allow for dynamic dropdowns, while all menus are generated and injected into various injection tokens for easy access anywhere in your application.
+*   [ngx-multi-level-push-menu (⭐5)](https://github.com/ramiz4/ngx-multi-level-push-menu) - A modern, accessible Angular component for responsive multi-level push menus with extensive customization options.
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -35,6 +61,15 @@
 ### Additional / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [fsm-state-manager (⭐2)](https://github.com/NikitaTopchii/fsm-state-manager) - A simple, flexible and strongly-typed finite state machine manager for managing state transitions in Angular or any TypeScript-based application.
+
+### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [simui (⭐11)](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
+
+### Primitives / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngbase (⭐8)](https://github.com/ng-base/ngbase) - A lightweight, flexible UI primitives library for Angular. It provides unstyled foundational Directives and components that developers can customize to match their design systems.
+*   [vacui-ui (⭐2)](https://github.com/DanielAlcaraz/vacui-ui) - A headless Angular library of utility-first, primitives, low-level directives as foundational elements.
 
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
@@ -828,8 +863,11 @@
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [primitives (⭐178)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 *   [xUI (⭐10)](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
+
+### Primitives / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [primitives (⭐178)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -2739,13 +2777,13 @@
 
 *   [gridstack (⭐7.8k)](https://github.com/gridstack/gridstack.js/tree/master/angular/) - Mobile-friendly modern Typescript library for dashboard layout and creation. Making a drag-and-drop, multi-column responsive dashboard has never been easier. Has multiple bindings and works great with Angular.
 
-### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ng-primitives (⭐321)](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
-
 ### Material Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-material-css-vars (⭐194)](https://github.com/johannesjo/angular-material-css-vars) - Little library to use CSS variables with Angular Material.
+
+### Primitives / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-primitives (⭐321)](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
 
 ## [Jun 24 - Jun 30, 2024](/content/2024/26/README.md)
 

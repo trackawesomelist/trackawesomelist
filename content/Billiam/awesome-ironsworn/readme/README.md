@@ -2,7 +2,7 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 137 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 144 · 🏷️ Gaming
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / Overview ]
 
@@ -78,8 +78,8 @@ made by you on those sites when using these links*
 ## Resources
 
 *   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System?affiliate_id=844973) - Character building card sets for Ironsworn
-*   [DataForged (⭐195)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐133)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐197)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐135)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Forge Codex](https://www.drivethrurpg.com/en/product/490797/forge-codex-001?affiliate_id=844973) - Modular supplement with locations, characters, and encounters for Starforged
 *   [Iron Atlas](https://jaderavens.itch.io/iron-atlas-omnibus) - Explore the Ironlands with 100 hand-drawn maps, plus oracles for weather, flora, & fauna
 *   [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1) - A short guide to adapt Starforged to be set in the Ironlands, with printable adapted Ironsworn asset cards
@@ -118,6 +118,7 @@ made by you on those sites when using these links*
 *   [FurSworn](https://notofthisworld.itch.io/fursworn) - Anthropomorphic animal supplement
 *   [Glina](https://www.drivethrurpg.com/product/400633/Glina--kryminalna-gra-fabularna?affiliate_id=844973) - Become a police officer assigned to crack unsolved murder cases. Rulebook in Polish
 *   [Herosworn](https://docs.google.com/document/d/1ttFFH8Ul7NlXhWw8vOr39YIx6FHcKuaC_Uueaf6f0B0/view) - Ironsworn for super heroes
+*   [Hogsworn](https://arkh.itch.io/hogsworn) - Ironsworn hack to play as a student at Hogwarts
 *   [HyperCity](https://newmadras.itch.io/hypercity) - A cyberpunk hack of Ironsworn
 *   [Investigation Hack by rsek](https://drive.google.com/drive/folders/1_tKqEn-iKDFyfzrNYgvVlzZuHOu1pUmc) - An investigation hack for Ironsworn
 *   [Iron Degenerates](https://drive.google.com/file/d/12iPtYAHlUJ_WMJIDqfTqgA2Sm44ayddV/view) - Bringing the Dungeon Degenerates setting to Ironsworn
@@ -201,5 +202,5 @@ made by you on those sites when using these links*
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines (⭐137)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines (⭐144)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
 

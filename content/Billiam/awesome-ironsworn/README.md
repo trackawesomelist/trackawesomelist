@@ -2,9 +2,15 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 137 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 144 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
+
+## [May 02, 2025](/content/2025/05/02/README.md)
+
+### Hacks and homebrew / Ironsworn
+
+*   [Hogsworn](https://arkh.itch.io/hogsworn) - Ironsworn hack to play as a student at Hogwarts
 
 ## [Mar 26, 2025](/content/2025/03/26/README.md)
 
@@ -477,8 +483,8 @@ An awesome list of awesome Ironsworn projects
 
 ### Resources / Ironsworn
 
-*   [DataForged (⭐195)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐133)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐197)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐135)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 
 ### Hacks and homebrew / Ironsworn
 

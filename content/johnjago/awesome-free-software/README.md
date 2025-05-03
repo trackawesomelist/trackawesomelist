@@ -6,6 +6,20 @@ Curated list of open-source, free as in freedom software.
 
 [ Daily / [Weekly](/content/johnjago/awesome-free-software/week/README.md) / [Overview](/content/johnjago/awesome-free-software/readme/README.md) ]
 
+## [Apr 30, 2025](/content/2025/04/30/README.md)
+
+### Software / File Management
+
+*   [Mikochi (⭐305)](https://github.com/zer0tonin/Mikochi) - A web interface for browsing remote folders, managing files (uploading, deleting, renaming, downloading), and streaming directly to VLC/mpv. ([MIT (⭐305)](https://github.com/zer0tonin/Mikochi/blob/main/LICENSE))
+
+### Software / Operating Systems
+
+*   [Arch](https://www.archlinux.org/) - Lightweight and flexible Linux distribution that tries to keep it simple. ([GNU GPLv2](https://www.archlinux.org/packages/core/any/licenses/))
+
+### Software / Utilities
+
+*   [Freeter](https://freeter.io/) - Freeter allows to gather everything you need for work in one place, organized by projects and workflows, and have a quick access to them. For Win, Linux, Mac OS. ([GNU GPLv3 (⭐538)](https://github.com/FreeterApp/Freeter/blob/master/COPYING))
+
 ## [Apr 28, 2025](/content/2025/04/28/README.md)
 
 ### Software / Command Line Tools
@@ -15,14 +29,14 @@ Curated list of open-source, free as in freedom software.
 
 ### Software / Web Applications
 
-*   [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3 (⭐9k)](https://github.com/docusealco/docuseal/blob/master/LICENSE))
-*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform. ([Apache License 2.0 (⭐2.7k)](https://github.com/tolgee/tolgee-platform/blob/main/LICENSE))
+*   [DocuSeal](https://www.docuseal.co/) - A platform to fill and sign digital documents. ([GNU AGPLv3 (⭐9.1k)](https://github.com/docusealco/docuseal/blob/master/LICENSE))
+*   [Tolgee](https://tolgee.io) - Developer & translator friendly web-based localization platform. ([Apache License 2.0 (⭐2.8k)](https://github.com/tolgee/tolgee-platform/blob/main/LICENSE))
 
 ## [Jul 14, 2023](/content/2023/07/14/README.md)
 
 ### Software / Command Line Tools
 
-*   [Clipboard (⭐5.1k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, all from the command line. ([GNU GPLv3 (⭐5.1k)](https://github.com/Slackadays/Clipboard/blob/main/LICENSE))
+*   [Clipboard (⭐5.2k)](https://github.com/Slackadays/Clipboard) - Cut, copy, and paste anything, anywhere, all from the command line. ([GNU GPLv3 (⭐5.2k)](https://github.com/Slackadays/Clipboard/blob/main/LICENSE))
 
 ### Software / Text Editors
 
@@ -149,7 +163,7 @@ Curated list of open-source, free as in freedom software.
 
 ### Software / Web Applications
 
-*   [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
+*   [GNU social](https://gnu.io/social/) - Microblogging server written in PHP. ([GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
 *   [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT (⭐11k)](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
 
 ## [Dec 22, 2018](/content/2018/12/22/README.md)

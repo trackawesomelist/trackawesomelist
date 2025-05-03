@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [May 02, 2025](/content/2025/05/02/README.md)
+
+### Design and UI
+
+*   [tweakcn](https://tweakcn.com/) — Beautiful themes for shadcn/ui. Customize colors, typography, and more in real-time.
+
 ## [Apr 28, 2025](/content/2025/04/28/README.md)
 
 ### Design and UI
@@ -2002,12 +2008,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Code Generation
 
 *   [DhiWise](https://www.dhiwise.com/) — Seamlessly turn Figma designs into dynamic Flutter & React applications with DhiWise's innovative code generation technology, optimizing your workflow and helping you craft exceptional mobile and web experiences faster than ever before.
-
-## [Mar 22, 2023](/content/2023/03/22/README.md)
-
-### Search
-
-*   [Magny](https://magny.io) - SaaS service that helps implement command palettes (e.g. in-app search), which significantly decreases the time users find anything in an app, leveraging the user experience and efficiency.
 
 ## [Mar 18, 2023](/content/2023/03/18/README.md)
 

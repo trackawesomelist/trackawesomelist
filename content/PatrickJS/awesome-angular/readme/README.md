@@ -129,6 +129,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
         *   [Bootstrap](#bootstrap-based)
         *   [Tailwind](#tailwind-css-based)
         *   [Node](#node-based)
+        *   [Primitives](#primitives)
     *   [UX Components](#ux-components)
     *   [Viewers](#viewers)
     *   [Misc Components](#misc-components)
@@ -316,6 +317,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Maksim Dolgikh](https://medium.com/@maks-dolgikh)
 *   [Playful Programming](https://playfulprogramming.com/)
 *   [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
+*   [Code With Omkar](https://www.codewithomkar.com/)
 
 ##### Books
 
@@ -430,8 +432,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Igor Sedov](https://www.youtube.com/@theigorsedov)
 *   [Demystify Frontend](https://www.youtube.com/@DemystifyFrontend)
 *   [Mona Code Lisa](https://www.youtube.com/@MonaCodeLisa)
-*   [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
-*   [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
 *   [The Code Angle](https://www.youtube.com/@TheCodeAngle)
 *   [Brian Treese](https://www.youtube.com/@briantreese)
 *   [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
@@ -440,6 +440,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [Kobi Hari](https://www.youtube.com/@kobihari)
 *   [Code Step By Step](https://www.youtube.com/@codestepbystep)
 *   [Programming Practicals](https://www.youtube.com/@programmingpracticals)
+*   [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
+*   [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
+*   [Code with Keys](https://www.youtube.com/@codewithkeys) - (Persian)
 
 ##### Style Guides
 
@@ -576,6 +579,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-env-builder (⭐2)](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
 *   [angular-rspack (⭐62)](https://github.com/nrwl/angular-rspack) - [Rspack (⭐11k)](https://github.com/web-infra-dev/rspack) plugin and tooling for Angular applications.
 *   [ngx-devkit-builders (⭐3)](https://github.com/Celtian/ngx-devkit-builders) - This package contains Architect builders used to build and test Angular applications and libraries.
+*   [angular-static-assets-hash (⭐3)](https://github.com/sitelint/angular-static-assets-hash) - Create a list of Angular static assets and a hash for each file.
 
 #### CLI
 
@@ -815,6 +819,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [@elastic/apm-rum-angular](https://www.npmjs.com/package/@elastic/apm-rum-angular) - Elastic APM Real User Monitoring for Angular applications.
 *   [ngx-react (⭐2)](https://github.com/ngeenx/ngx-react) - Embed React components or apps into Angular projects.
 *   [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - This [IO Connect](https://interop.io/) Angular wrapper aims to facilitate Angular developers in initializing the IO Connect JavaScript libraries and using IO Connect functionalities in their projects.
+*   [Bloomreach Angular SDK (⭐18)](https://github.com/bloomreach/spa-sdk/blob/main/packages/ng-sdk/README.md) - Bloomreach Angular SDK provides simplified headless integration with [Bloomreach Content](https://www.bloomreach.com/en/products/content) for Angular-based applications.
 
 #### Internationalization
 
@@ -1144,6 +1149,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-calendar-timeline (⭐16)](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
 *   [ngx-resource-calendar (⭐4)](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
 *   [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
+*   [ngx-calendar-widget (⭐8)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
 
 #### Captcha
 
@@ -1358,6 +1364,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [formly-editor (⭐11)](https://github.com/sesan07/formly-editor) - A configurable editor for [ngx-formly (⭐2.9k)](https://github.com/ngx-formly/ngx-formly) forms.
 *   [MagnetarQuill (⭐8)](https://github.com/scherenhaenden/MagnetarQuill) - A versatile, extensible, and powerful WYSIWYG editor built with Angular, designed to streamline content creation with rich text, media, tables, and more. MagnetarQuill stands out with its plugin architecture, cross-browser support, and stunning theming options.
 *   [ngx-editorjs2 (⭐2)](https://github.com/Ba5ik7/ngx-editorjs2) - A highly extensible block-style editor inspired by [Editor.js](https://editorjs.io/). It allows users to create and manage rich text content using a variety of customizable blocks while leveraging Angular's reactive capabilities. [https://github.com/Ba5ik7/ngx-editor-js2-blocks (⭐2)](https://github.com/Ba5ik7/ngx-editor-js2-blocks) contain custom blocks that extend the editor with additional content types.
+*   [ngx-traak (⭐14)](https://github.com/mouhamadalmounayar/ngx-traak) - A WYSIWYG angular editor library built on top of prosemirror, built for standalone components and highly customizable with plugins.
 
 #### File Upload
 
@@ -1776,6 +1783,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-back-button (⭐2)](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 *   [ngx-navigate-back (⭐5)](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
 *   [storybook-addon-angular-router (⭐11)](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
+*   [angular-router-menus (⭐2)](https://github.com/muuvmuuv/angular-router-menus) - Enhance your Angular app's navigation by defining menu entries directly within the route. With full typing and customization based on your requirements, you can create multiple navigations effortlessly. Nested menus allow for dynamic dropdowns, while all menus are generated and injected into various injection tokens for easy access anywhere in your application.
+*   [ngx-multi-level-push-menu (⭐5)](https://github.com/ramiz4/ngx-multi-level-push-menu) - A modern, accessible Angular component for responsive multi-level push menus with extensive customization options.
 
 #### Scroll
 
@@ -1929,7 +1938,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [orchestrator (⭐16)](https://github.com/orchestratora/orchestrator) - Extensible orchestrator for UI and forms for Angular.
 *   [winonang (⭐4)](https://github.com/winona-ui/winonang) - Part of the Winona UI suite, aimed at providing seamless UI components for Angular developers. Our goal is to ensure that these components work flawlessly on Windows, but they are designed to be cross-platform compatible as well.
 *   [carbon-components-angular (⭐550)](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
-*   [ng-primitives (⭐321)](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
 *   [dyte-io/ui-kit (⭐4)](https://github.com/dyte-io/ui-kit/tree/staging/packages/angular-library) - Dyte's UI Kit is a prebuilt design library of UI components that makes it easy to integrate video and voice calls into any app or website within minutes.
 *   [onega-ui (⭐1)](https://github.com/osspkg/onega-ui) - A modern and stylish UI kit that offers a wide range of UI components and elements to create professional and attractive websites.
 *   [sky-ui (⭐3)](https://github.com/skysoft-tech/sky-ui) - Angular UI kit.
@@ -1945,7 +1953,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-nighthawk (⭐7)](https://github.com/evenuxjs/ngx-nighthawk) - It offers a comprehensive set of components that are highly configurable and user-friendly. This package integrates the best open-source tools, such as Bootstrip — a streamlined version of Bootstrap that focuses solely on Grid and Utility features.
 *   [tableau-ui-angular (⭐1)](https://github.com/serionist/tableau-ui-angular) -  A third-party component library that brings Tableau-style components to Angular.
 *   [@ng-verse/ui (⭐41)](https://github.com/ngverse/ui) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://ui.ngverse.dev/) for more.
-*   [primitives (⭐178)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 *   [xUI (⭐10)](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
 *   [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
 *   [flexi-ui (⭐46)](https://github.com/TanerSaydam/flexi-ui) - [Flexi UI](https://flexi-ui.ecnorow.com/) provides a collection of reusable, visually appealing, and functional UI components to help you create modern and impressive front-end applications effortlessly. The library is fully customizable and open-source, making it accessible for everyone to use and contribute.
@@ -2002,10 +2009,18 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [FlyonUI (⭐1.9k)](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
 *   [zapui (⭐17)](https://github.com/zapuilib/zapui) - Build sleek, scalable, and cohesive Angular applications effortlessly with a Tailwind-powered design system from [zap:ui](https://zapui.togethercreative.co.uk/).
 *   [angular-tailwind-ui (⭐1)](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
+*   [simui (⭐11)](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
 
 ##### Node Based
 
 *   [ngx-vflow (⭐282)](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
+
+##### Primitives
+
+*   [ng-primitives (⭐321)](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
+*   [primitives (⭐178)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+*   [ngbase (⭐8)](https://github.com/ng-base/ngbase) - A lightweight, flexible UI primitives library for Angular. It provides unstyled foundational Directives and components that developers can customize to match their design systems.
+*   [vacui-ui (⭐2)](https://github.com/DanielAlcaraz/vacui-ui) - A headless Angular library of utility-first, primitives, low-level directives as foundational elements.
 
 #### UX Components
 

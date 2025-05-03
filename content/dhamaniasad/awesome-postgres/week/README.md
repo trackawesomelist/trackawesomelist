@@ -10,14 +10,21 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / High-Availability
 
+*   [autobase (⭐2.5k)](https://github.com/vitabaks/autobase) - Autobase for PostgreSQL® is an open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
 *   [pg\_auto\_failover (⭐1.2k)](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
+
+### Contents / Backups
+
+*   [pgbackup-sidecar (⭐3)](https://github.com/Musab520/pgbackup-sidecar) - `pgbackup-sidecar` is a lightweight Docker sidecar container designed to automate regular backups of a PostgreSQL database using `pg_dump`, `cron`, and bash scripts while also sending output to a webhook.
 
 ### Contents / GUI
 
 *   [DBConvert Streams](https://streams.dbconvert.com/) - A cloud-native platform for real-time data migration and CDC replication between PostgreSQL and MySQL databases across various cloud environments. (Commercial Software).
+*   [DbVisualizer](http://www.dbvis.com) - Cross-platform database client for developers, DBAs, and analysts (Commercial Software).
 *   [Luna Modeler](http://www.datensen.com) - Cross-platform desktop data modeling tool (Commercial Software).
 *   [Mathesar](https://mathesar.org/) -  Web application providing an intuitive user experience to databases.
 *   [pgMagic🪄](https://pgmagic.app/?ref=awesomepostgres) - Chat to Postgres in Natural Language (Commercial Software).
+*   [Redash (⭐27k)](https://github.com/getredash/redash) - Connect to any data source, easily visualize and share your data.
 *   [Teable (⭐18k)](https://github.com/teableio/teable) - A Super fast, Real-time, Professional, Developer friendly, No code database.
 *   [WebDB](https://webdb.app) – Efficient Database IDE.
 
@@ -39,42 +46,73 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Monitoring
 
+*   [coroot (⭐6.4k)](https://github.com/coroot/coroot) - Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative. Powered by eBPF for rapid insights into system performance.
+*   [Datadog](https://www.datadoghq.com/product/database-monitoring/) - SaaS monitoring that collects and visualizes metrics, queries, and explain plans, and sends alerts when problems are encountered (Commercial Software).
 *   [pg\_exporter (⭐212)](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 *   [postgres\_exporter (⭐3k)](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Contents / Extensions
 
 *   [AGE (⭐3.5k)](https://github.com/apache/age) - Adds fully-functional graph database support including Cypher queries.
+*   [OrioleDB](https://www.orioledb.com/) - The cloud-native storage engine for PostgreSQL. OrioleDB is a PostgreSQL extension that combines the advantages of both on-disk and in-memory engines.
+*   [pg\_analytics (⭐522)](https://github.com/paradedb/pg_analytics) - pg\_analytics is an extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
+*   [pg\_barcode (⭐1)](https://github.com/btouchard/pg_barcode/) - PostgreSQL SVG QRcode & Datamatrix generator.
 *   [pg\_stat\_monitor (⭐504)](https://github.com/percona/pg_stat_monitor) - Query Performance Monitoring tool for PostgreSQL.
 *   [pg\_squeeze (⭐548)](https://github.com/cybertec-postgresql/pg_squeeze) - An extension for automatic bloat cleanup with minimal locking.
+*   [ParadeDB (⭐7k)](https://github.com/paradedb/paradedb) -  Postgres for Search and Analytics
 
 ### Contents / Optimization
 
 *   [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
+*   [PEV2 (⭐2.9k)](https://github.com/dalibo/pev2) - Online Postgres Explain Visualizer.
 
 ### Contents / Utilities
 
 *   [bemi (⭐348)](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostgreSQL
+*   [flyway](https://flywaydb.org/) - Schema migration tool for Postgres and others.
+*   [GatewayD (⭐250)](https://github.com/gatewayd-io/gatewayd) - Cloud-native database gateway and framework for building data-driven applications. Like API gateways, for databases.
 *   [migra (⭐3k)](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
+*   [pg-spot-operator (⭐53)](https://github.com/pg-spot-ops/pg-spot-operator) - A daemon to run stateful Postgres on cheap AWS Spot VMs
 *   [pg\_timetable (⭐1.2k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced job scheduler for PostgreSQL.
 *   [Pyrseas (⭐402)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
 *   \[planter]\[[https://github.com/achiku/planter (⭐552)](https://github.com/achiku/planter)] - Generate PlantUML ER diagram textual description from PostgreSQL tables
+*   [pgroll (⭐4.9k)](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
+*   [RegreSQL (⭐283)](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
 
 ### Contents / Language bindings
 
+*   R: [RPostgres (⭐338)](https://github.com/r-dbi/RPostgres), [RPostgreSQL (⭐66)](https://github.com/tomoakin/RPostgreSQL)
+*   TypeScript: [zapatos (⭐1.3k)](https://github.com/jawj/zapatos)
 *   Zig: [pg.zig (⭐364)](https://github.com/karlseguin/pg.zig)
 
 ### Contents / PaaS *(PostgreSQL as a Service)*
 
 *   [ScaleGrid PostgreSQL DBaaS](https://scalegrid.io/postgresql.html) - Fully managed PostgreSQL hosting with high availability, dedicated servers, and superuser control on the #1 multi-cloud Amazon RDS alternative.
+*   [Nile](https://www.thenile.dev/) - Fully managed PostgreSQL . Nile decouples storage from compute and virtualizes tenants to ship multi-tenant AI applications fast, safe, and with limitless scale. Free tier provides unlimited databases.
+
+### Contents / Kubernetes
+
+*   [Crunchy Operator (⭐4.1k)](https://github.com/CrunchyData/postgres-operator) - Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+*   [Fujitsu Enterprise Postgres for Kubernetes](https://www.postgresql.fastware.com/) - Enterprise-grade PostgreSQL on OpenShift Container Platform (Commercial Software).
+*   [Kubegres Operator (⭐1.3k)](https://github.com/reactive-tech/kubegres) - Kubegres is a Kubernetes operator allowing to deploy one or many clusters of PostgreSql instances and manage databases replication, failover and backup.
+*   [StackGres Operator (⭐1.2k)](https://github.com/ongres/stackgres/) -  Full Stack PostgreSQL on Kubernetes.
+*   [Zalando Operator (⭐4.7k)](https://github.com/zalando/postgres-operator) - Creates and manages PostgreSQL clusters running in Kubernetes.
+*   [CloudNativePG operator (⭐5.9k)](https://github.com/cloudnative-pg/cloudnative-pg) - A comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments.
+*   [KubeDB operator](https://kubedb.com/) - Run Production-Grade Databases on Kubernetes (Commercial Software).
 
 ### Resources / Tutorials
 
+*   [Operations cheat sheet](https://wiki.postgresql.org/wiki/Operations_cheat_sheet) - Operations cheat sheet from PostgreSQL Wiki.
 *   [pagila (⭐60)](https://github.com/xzilla/pagila) - Pagila, Postgres Sample Database
 
 ### Resources / Blogs
 
 *   [Percona's PostgreSQL blog posts](https://www.percona.com/blog/category/postgresql/)
+
+### Resources / Books
+
+*   [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html) - A free e-book by Hironobu Suzuki
+*   [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals) - A free e-book by Egor Rogov
 
 ### Resources / Newsletters
 
@@ -84,6 +122,21 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 *   [PostgresFM](https://postgres.fm/) - Weekly discussions about Postgres topics.
 *   [Path to Citus Con](https://www.citusdata.com/podcast/path-to-citus-con/) - Monthly interviews with people in the Postgres world.
+
+### Resources / Videos
+
+*   [PostgresTV Youtube channel](https://www.youtube.com/@PostgresTV) - Postgres talks, hacking sessions, interviews, and podcast episodes
+
+### Resources / Community
+
+*   [Slack](https://pgtreats.info/slack-invite) - Slack workspace for Postgres with over 20k members
+*   [Discord](https://discord.gg/bW2hsax8We) - A Discord server for Postgres with over 6k members
+
+### Resources / External lists
+
+*   [Wikipedia admin tools list](https://en.wikipedia.org/wiki/Comparison_of_database_tools) - Comparison of database administration tools on Wikipedia
+*   [PostgreSQL Wiki GUI tools list](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - Community Guide to PostgreSQL GUI Tools
+*   [PostgreSQL Wiki Foreign Data Wrappers list](https://wiki.postgresql.org/wiki/Foreign_data_wrappers) - Foreign data wrappers
 
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
@@ -113,7 +166,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Extensions
 
-*   [pg\_analytics (⭐7k)](https://github.com/paradedb/paradedb/tree/dev/pg_analytics) - pg\_analytics is an extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases.
 *   [pg\_search (⭐7k)](https://github.com/paradedb/paradedb/tree/dev/pg_search) - pg\_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 
 ### Contents / Docker images
@@ -261,12 +313,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [DataRow](https://www.datarow.com/) - Cross-platform SQL Client for Amazon Redshift: Simple, Effortless, Extensible.
 *   [PostgresCompare](https://www.postgrescompare.com) - Cross-platform database comparison and deployment tool (Commercial Software).
 
-## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
-
-### Contents / Language bindings
-
-*   R: [RPostgreSQL (⭐66)](https://github.com/tomoakin/RPostgreSQL)
-
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)
 
 ### Contents / High-Availability
@@ -323,9 +369,9 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Contents / Language bindings
 
-*   Go: [pq (⭐9.4k)](https://github.com/lib/pq), [pgx (⭐12k)](https://github.com/jackc/pgx)
+*   Go: [pq (⭐9.4k)](https://github.com/lib/pq), [pgx (⭐12k)](https://github.com/jackc/pgx), [go-pg (⭐5.7k)](https://github.com/go-pg/pg)
 *   Node: [node-postgres (⭐13k)](https://github.com/brianc/node-postgres), [pg-promise (⭐3.5k)](https://github.com/vitaly-t/pg-promise), [pogi (⭐140)](https://github.com/holdfenytolvaj/pogi), [slonik (⭐4.7k)](https://github.com/gajus/slonik), [postgres (⭐8k)](https://github.com/porsager/postgres)
-*   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/)
+*   Python: [psycopg2](https://pypi.org/project/psycopg2/), [asyncpg](https://pypi.org/project/asyncpg/), [pg8000](https://pypi.org/project/pg8000/)
 *   Ruby: [pg (⭐820)](https://github.com/ged/ruby-pg)
 
 ### Resources / Articles
@@ -342,7 +388,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 *   [Mailing lists](https://www.postgresql.org/list/) - Official mailing lists for Postgres for support, outreach, and more. One of the primary channels of communication in the Postgres community.
 *   [Reddit](https://www.reddit.com/r/PostgreSQL/) - A reddit community for PostgreSQL users with over 12000 users
-*   [Slack](https://postgres-slack.herokuapp.com/) - Slack channel for Postgres with over 7000 users
 *   Telegram - Several groups for PostgreSQL in different languages: [Russian](https://t.me/pgsql) >4200 people, [Brazilian Portuguese](https://t.me/postgresqlbr) >2300 people, [Indonesian](https://t.me/postgresql_id) \~1000 people, [English](https://t.me/postgreschat) >750 people
 *   [#postgresql on Freenode](https://webchat.freenode.net/#postgresql) - The most popular IRC channel about Postgres on Freenode with over 1000 users
 
@@ -357,10 +402,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Contents / GUI
 
 *   [TablePlus](https://tableplus.com/) - Native App which let you edit database and structure. High-end security ensured (Commercial Software).
-
-### Contents / CLI
-
-*   [nancy](https://gitlab.com/postgres-ai/nancy) - The Nancy CLI is a unified way to manage automated database experiments either in clouds or on-premise
 
 ### Contents / Optimization
 

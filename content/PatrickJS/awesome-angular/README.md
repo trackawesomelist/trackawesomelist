@@ -6,6 +6,58 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [May 03, 2025](/content/2025/05/03/README.md)
+
+### Blogs / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Code With Omkar](https://www.codewithomkar.com/)
+
+### YouTube Channels / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Code with Keys](https://www.youtube.com/@codewithkeys) - (Persian)
+
+### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-static-assets-hash (⭐3)](https://github.com/sitelint/angular-static-assets-hash) - Create a list of Angular static assets and a hash for each file.
+
+### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-calendar-widget (⭐8)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
+
+### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [simui (⭐11)](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
+
+### Primitives / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [vacui-ui (⭐2)](https://github.com/DanielAlcaraz/vacui-ui) - A headless Angular library of utility-first, primitives, low-level directives as foundational elements.
+
+## [May 02, 2025](/content/2025/05/02/README.md)
+
+### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Bloomreach Angular SDK (⭐18)](https://github.com/bloomreach/spa-sdk/blob/main/packages/ng-sdk/README.md) - Bloomreach Angular SDK provides simplified headless integration with [Bloomreach Content](https://www.bloomreach.com/en/products/content) for Angular-based applications.
+
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-multi-level-push-menu (⭐5)](https://github.com/ramiz4/ngx-multi-level-push-menu) - A modern, accessible Angular component for responsive multi-level push menus with extensive customization options.
+
+## [May 01, 2025](/content/2025/05/01/README.md)
+
+### Routing / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-router-menus (⭐2)](https://github.com/muuvmuuv/angular-router-menus) - Enhance your Angular app's navigation by defining menu entries directly within the route. With full typing and customization based on your requirements, you can create multiple navigations effortlessly. Nested menus allow for dynamic dropdowns, while all menus are generated and injected into various injection tokens for easy access anywhere in your application.
+
+### Primitives / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngbase (⭐8)](https://github.com/ng-base/ngbase) - A lightweight, flexible UI primitives library for Angular. It provides unstyled foundational Directives and components that developers can customize to match their design systems.
+
+## [Apr 30, 2025](/content/2025/04/30/README.md)
+
+### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-traak (⭐14)](https://github.com/mouhamadalmounayar/ngx-traak) - A WYSIWYG angular editor library built on top of prosemirror, built for standalone components and highly customizable with plugins.
+
 ## [Apr 29, 2025](/content/2025/04/29/README.md)
 
 ### Community
@@ -1053,7 +1105,7 @@
 
 ## [Feb 11, 2025](/content/2025/02/11/README.md)
 
-### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Primitives / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [primitives (⭐178)](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 
@@ -3359,7 +3411,7 @@
 
 ## [Jul 05, 2024](/content/2024/07/05/README.md)
 
-### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+### Primitives / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-primitives (⭐321)](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
 
