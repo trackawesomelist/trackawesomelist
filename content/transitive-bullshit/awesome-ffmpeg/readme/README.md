@@ -2,7 +2,7 @@
 
 👻 A curated list of awesome FFmpeg resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/transitive-bullshit/awesome-ffmpeg/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) · ⭐ 781 · 🏷️ Media
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/transitive-bullshit/awesome-ffmpeg/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 transitive-bullshit/awesome-ffmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) · ⭐ 1K · 🏷️ Media
 
 [ [Daily](/content/transitive-bullshit/awesome-ffmpeg/README.md) / [Weekly](/content/transitive-bullshit/awesome-ffmpeg/week/README.md) / Overview ]
 
@@ -33,39 +33,40 @@ FFmpeg's official docs are notoriously difficult for beginners to understand due
 *   [Filters](https://ffmpeg.org/ffmpeg-filters.html) - Docs for FFmpeg's powerful filter chains (scaling, cropping, concatenating, merging, etc.). This is one of my most visited links when working with FFmpeg.
 *   [Man page](https://man.cx/ffmpeg) - Official FFmpeg man page.
 *   [Wiki & Bug Tracker](https://trac.ffmpeg.org) - Lots of great info on here.
-*   [CLI flags (⭐37)](https://github.com/transitive-bullshit/ffmpeg-cli-flags/blob/master/readme.md) - A comprehensive list of all FFmpeg commandline flags. Really useful for searching random flags that you come across in the wild.
+*   [CLI flags (⭐50)](https://github.com/transitive-bullshit/ffmpeg-cli-flags/blob/master/readme.md) - A comprehensive list of all FFmpeg commandline flags. Really useful for searching random flags that you come across in the wild.
 
 ## JavaScript
 
-*   [fluent-ffmpeg (⭐6.6k)](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one.
-*   [ffmpeg-probe (⭐10)](https://github.com/transitive-bullshit/ffmpeg-probe) - Wrapper around ffprobe for getting info about media files.
-*   [ffmpeg-concat (⭐646)](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
-*   [editly (⭐3.7k)](https://github.com/mifi/editly) - Declarative video editing tool and library with slick animations and transitions.
-*   [ffmpeg-generate-video-preview (⭐124)](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video.
-*   [ffmpeg-extract-frame (⭐13)](https://github.com/transitive-bullshit/ffmpeg-extract-frame) - Extracts a single frame from a video.
-*   [ffmpeg-extract-frames (⭐56)](https://github.com/transitive-bullshit/ffmpeg-extract-frames) - Extracts screenshots from a video using FFmpeg.
-*   [gif-extract-frames (⭐20)](https://github.com/transitive-bullshit/gif-extract-frames) - Extracts frames from GIFs including inter-frame coalescing.
-*   [ffmpeg-extract-audio (⭐11)](https://github.com/transitive-bullshit/ffmpeg-extract-audio) - Extracts an audio stream from a media file.
-*   [ffmpeg-on-progress (⭐10)](https://github.com/transitive-bullshit/ffmpeg-on-progress) - Utility for robustly reporting progress with fluent-ffmpeg.
-*   [ffmpeg.js (⭐2.8k)](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
-*   [ffmpeg-static (⭐697)](https://github.com/eugeneware/ffmpeg-static) - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
+*   [fluent-ffmpeg (⭐8.2k)](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to [FFmpeg](http://www.ffmpeg.org). If you only use one tool from this list, it should be this one.
+*   [ffmpeg-probe (⭐15)](https://github.com/transitive-bullshit/ffmpeg-probe) - Wrapper around ffprobe for getting info about media files.
+*   [ffmpeg-concat (⭐935)](https://github.com/transitive-bullshit/ffmpeg-concat) - Concats a list of videos together using FFmpeg with sexy OpenGL transitions.
+*   [editly (⭐4.9k)](https://github.com/mifi/editly) - Declarative video editing tool and library with slick animations and transitions.
+*   [ffmpeg-generate-video-preview (⭐154)](https://github.com/transitive-bullshit/ffmpeg-generate-video-preview) - Generates an attractive image strip or GIF preview from a video.
+*   [ffmpeg-extract-frame (⭐15)](https://github.com/transitive-bullshit/ffmpeg-extract-frame) - Extracts a single frame from a video.
+*   [ffmpeg-extract-frames (⭐64)](https://github.com/transitive-bullshit/ffmpeg-extract-frames) - Extracts screenshots from a video using FFmpeg.
+*   [gif-extract-frames (⭐32)](https://github.com/transitive-bullshit/gif-extract-frames) - Extracts frames from GIFs including inter-frame coalescing.
+*   [ffmpeg-extract-audio (⭐18)](https://github.com/transitive-bullshit/ffmpeg-extract-audio) - Extracts an audio stream from a media file.
+*   [ffmpeg-on-progress (⭐14)](https://github.com/transitive-bullshit/ffmpeg-on-progress) - Utility for robustly reporting progress with fluent-ffmpeg.
+*   [ffmpeg.js (⭐3.4k)](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg to JavaScript via Emscripten. Allows for limited FFmpeg use on the client-side.
+*   [ffmpeg-static (⭐1.2k)](https://github.com/eugeneware/ffmpeg-static) - Provides static FFmpeg binaries for macOS, Linux, and Windows. Very useful for CI testing.
 *   [tangerine](https://github.com/niftylettuce/tangerine) - Webcam streaming service using Node.js, FFmpeg, WebSockets, and Lad.
-*   [ffparser (⭐5)](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
+*   [ffparser (⭐7)](https://github.com/NiKlimenko/FFParser) - Parse input stream by frames directly into your code as a buffer.
 
 ## Native
 
-*   [ffmpeg-gl-transition (⭐487)](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
+*   [ffmpeg-gl-transition (⭐682)](https://github.com/transitive-bullshit/ffmpeg-gl-transition) - FFmpeg filter for applying GLSL transitions between video streams ([gl-transitions](https://gl-transitions.com/)).
 
 ## Mobile
 
 *   [simplest ffmpeg mobile (⭐1.9k)](https://github.com/leixiaohua1020/simplest_ffmpeg_mobile) - FFmpeg examples for Android and iOS.
-*   [ijkplayer (⭐31k)](https://github.com/Bilibili/ijkplayer) - Android / iOS video player based on FFmpeg.
+*   [ijkplayer (⭐33k)](https://github.com/Bilibili/ijkplayer) - Android / iOS video player based on FFmpeg.
 
 ## Tutorials
 
 *   [How to Write a Video Player in Less Than 1k Lines](http://dranger.com/ffmpeg)
-*   [Learn FFmpeg libav the Hard Way (⭐8.2k)](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
+*   [Learn FFmpeg libav the Hard Way (⭐10k)](https://github.com/leandromoreira/ffmpeg-libav-tutorial)
 *   [Applying OpenGL Shaders with FFmpeg](https://nervous.io/ffmpeg/opengl/2017/01/31/ffmpeg-opengl) - And [follow-up](https://nervous.io/ffmpeg/opengl/2017/05/15/ffmpeg-pbo-yuv).
+*   [A Beginner's FFmpeg Cookbook (⭐69)](https://github.com/talwrii/ffmpeg-cookbook)
 
 ## Community
 
