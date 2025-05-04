@@ -1150,6 +1150,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-resource-calendar (⭐4)](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
 *   [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
 *   [ngx-calendar-widget (⭐8)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
+*   [ngx-calendario (⭐1)](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.
 
 #### Captcha
 
@@ -1414,6 +1415,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-forms (⭐6)](https://github.com/nncl/ngx-forms) - Collection of Angular form functions, that will help you build your applications.
 *   [@klubinskak/ngx-smart-forms (⭐2)](https://github.com/klubinskak/ngx-smart-forms) - Smart, Signal-powered form state utilities for Angular 17+.
 *   [@pixelbyaj/ngx-form (⭐4)](https://github.com/pixelbyaj/ngx-form) - ISO20022 Angular Forms utilizing XSD and XML to facilitate the design of ISO20022 XSD in HTML forms. Additionally, these forms aid in structuring MX messages for HTML representation.
+*   [ngx-custom-controls (⭐1)](https://github.com/kapilkumar0037/ngx-custom-controls) - Angular library, which provides a powerful base directive (`BaseCvaImplementationDirective<T>`) that implements both `ControlValueAccessor` and `Validator` interfaces, making it easy to create custom form controls with built-in validation support for template-driven and reactive forms.
 
 ##### Form Controls
 

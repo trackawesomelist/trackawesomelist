@@ -2,9 +2,15 @@
 
 📝 The curated list of awesome things related to Minecraft.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bs-community/awesome-minecraft/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft) · ⭐ 484 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bs-community/awesome-minecraft/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bs-community/awesome-minecraft](https://github.com/bs-community/awesome-minecraft) · ⭐ 498 · 🏷️ Gaming
 
 [ [Daily](/content/bs-community/awesome-minecraft/README.md) / Weekly / [Overview](/content/bs-community/awesome-minecraft/readme/README.md) ]
+
+## [May 05 - May 11, 2025](/content/2025/18/README.md)
+
+### Websites / Wiki
+
+*   [MinecraftSearch](https://minecraftsearch.com/) – MinecraftSearch is an unofficial Minecraft Wiki with better user navigation that focuses on crafting, enchanting, villager trades, loot tables and a lot more.
 
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
 
@@ -25,12 +31,12 @@
 ### Server Plugins / Building
 
 *   [LuckPerms](https://luckperms.net/) - Manage permissions.
-*   [CoreProtect (⭐746)](https://github.com/PlayPro/CoreProtect) - Log everything your players do. Literally 1984.
+*   [CoreProtect (⭐788)](https://github.com/PlayPro/CoreProtect) - Log everything your players do. Literally 1984.
 
 ### Softwares / Utilities
 
 *   [Amulet (⭐1.9k)](https://github.com/Amulet-Team/Amulet-Map-Editor) - Map viewer/editor.
-*   [NBTEditor (⭐70)](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
+*   [NBTEditor (⭐69)](https://github.com/Howaner/NBTEditor) - Edit NBT from .dat files.
 
 ## [Sep 25 - Oct 01, 2023](/content/2023/39/README.md)
 
@@ -46,7 +52,7 @@
 
 ### Softwares / Launchers
 
-*   [XMCL (⭐826)](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
+*   [XMCL (⭐928)](https://github.com/Voxelum/x-minecraft-launcher) - X Minecraft Launcher (XMCL) is a modern Minecraft launcher that lets you manage your massive resources like modpacks, resource packs, mods and shader packs.
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
@@ -58,8 +64,8 @@
 
 ### Softwares / Servers
 
-*   [Legendary-Java-Minecraft-Geyser-Floodgate (⭐173)](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) - PaperMC server with out of the box Geyser and Floodgate support using docker.
-*   [minecraft-docker (⭐4)](https://github.com/tywil04/minecraft-docker) - Fork of [Legendary-Java-Minecraft-Geyser-Floodgate (⭐173)](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) that embeds a discord bot for easy starting and stopping of the server.
+*   [Legendary-Java-Minecraft-Geyser-Floodgate (⭐183)](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) - PaperMC server with out of the box Geyser and Floodgate support using docker.
+*   [minecraft-docker (⭐4)](https://github.com/tywil04/minecraft-docker) - Fork of [Legendary-Java-Minecraft-Geyser-Floodgate (⭐183)](https://github.com/TheRemote/Legendary-Java-Minecraft-Geyser-Floodgate) that embeds a discord bot for easy starting and stopping of the server.
 
 ## [Feb 06 - Feb 12, 2023](/content/2023/6/README.md)
 
@@ -75,7 +81,7 @@
 
 ### Softwares / Servers
 
-*   [Gate (⭐711)](https://github.com/minekube/gate) - A high performance & paralleled Minecraft proxy written in Go.
+*   [Gate (⭐759)](https://github.com/minekube/gate) - A high performance & paralleled Minecraft proxy written in Go.
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
@@ -117,7 +123,7 @@
 
 ### Mods / Performance
 
-*   [Sodium (for Fabric) (⭐5k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
+*   [Sodium (for Fabric) (⭐5.1k)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
 
 ## [Jun 14 - Jun 20, 2021](/content/2021/24/README.md)
 
@@ -172,21 +178,21 @@
 
 *   [Tabula](https://www.curseforge.com/minecraft/mc-mods/tabula-minecraft-modeler) - Minecraft Mod that faciliates creating 3D Models.
 *   [Mod Coder Pack](https://minecraft.fandom.com/wiki/Programs_and_editors/Mod_Coder_Pack) - Tool for properly decompiling Minecraft.
-*   [BON 2 (⭐182)](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
-*   [Bearded Octo Nemesis (⭐130)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
+*   [BON 2 (⭐183)](https://github.com/tterrag1098/BON2) - A rewrite of the Bearded Octo Nemesis project with support for ForgeGradle.
+*   [Bearded Octo Nemesis (⭐129)](https://github.com/immibis/bearded-octo-nemesis) - Tool for deobfuscating with support for SRG mappings and especially the Mod Coder Pack.
 
 ## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
 
 ### Softwares / Libraries
 
-*   [go-mcproto (⭐47)](https://github.com/BRA1L0R/go-mcproto) - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
+*   [go-mcproto (⭐48)](https://github.com/BRA1L0R/go-mcproto) - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
 
 ### Softwares / Libraries
 
-*   [CraftLib (⭐87)](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
-*   [MCProtocolLib (⭐767)](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
+*   [CraftLib (⭐91)](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
+*   [MCProtocolLib (⭐801)](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
 *   [node-minecraft-protocol (⭐1.3k)](https://github.com/PrismarineJS/node-minecraft-protocol) - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
 
 ## [Jun 22 - Jun 28, 2020](/content/2020/25/README.md)
@@ -266,16 +272,16 @@
 
 ### Mods / Building
 
-*   [WorldEdit (⭐3.2k)](https://github.com/EngineHub/WorldEdit) - WorldEdit is an open source in-game map editor available for Bukkit, Forge, MinecraftEdu, and many other platforms.
+*   [WorldEdit (⭐3.3k)](https://github.com/EngineHub/WorldEdit) - WorldEdit is an open source in-game map editor available for Bukkit, Forge, MinecraftEdu, and many other platforms.
 
 ### Server Plugins / Building
 
-*   [WorldGuard (⭐860)](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
-*   [CraftBook (⭐307)](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
+*   [WorldGuard (⭐862)](https://github.com/EngineHub/WorldGuard) - WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
+*   [CraftBook (⭐309)](https://github.com/EngineHub/CraftBook) - CraftBook lets you create magically extending bridges, compact Redstone circuits, complex Minecart mechanics, and much more — all without a client mod and fully customizable by the server.
 
 ### Web Applications / Building
 
-*   [Blessing Skin Server (⭐877)](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
+*   [Blessing Skin Server (⭐896)](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
 *   [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ### Development / Launchers
@@ -317,7 +323,7 @@
 
 ### Mods / Skins And Capes
 
-*   [Custom Skin Loader (⭐529)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
+*   [Custom Skin Loader (⭐538)](https://github.com/xfl03/MCCustomSkinLoader) - Custom Skin Loader for Minecraft.
 
 ### Mods / Maps
 
@@ -353,7 +359,7 @@
 ### Softwares / Launchers
 
 *   [MultiMC (⭐4.4k)](https://github.com/MultiMC/MultiMC5) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
-*   [HMCL (⭐7.3k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
+*   [HMCL (⭐7.6k)](https://github.com/huanghongxun/HMCL) - A powered Minecraft launcher that supports a lot of features.
 
 ## [May 21 - May 27, 2018](/content/2018/21/README.md)
 
@@ -364,7 +370,7 @@
 
 ### Mod Loaders / Archives
 
-*   [Minecraft Forge (⭐7.1k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
+*   [Minecraft Forge (⭐7.2k)](https://github.com/MinecraftForge/MinecraftForge) - Modifications to the Minecraft base files to assist in compatibility between mods.
 *   [liteloader](http://www.liteloader.com/) - A lightweight mod loader for Minecraft designed to provide simple, high-performance and reliable loader functionality for mods which don't need to modify game mechanics.
 
 ### Mods / Performance

@@ -40,10 +40,15 @@
 ### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-calendar-widget (⭐8)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
+*   [ngx-calendario (⭐1)](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-traak (⭐14)](https://github.com/mouhamadalmounayar/ngx-traak) - A WYSIWYG angular editor library built on top of prosemirror, built for standalone components and highly customizable with plugins.
+
+### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-custom-controls (⭐1)](https://github.com/kapilkumar0037/ngx-custom-controls) - Angular library, which provides a powerful base directive (`BaseCvaImplementationDirective<T>`) that implements both `ControlValueAccessor` and `Validator` interfaces, making it easy to create custom form controls with built-in validation support for template-driven and reactive forms.
 
 ### JSON Forms / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
