@@ -282,3 +282,9 @@ Interesting topics on all subjects:
 *   [Lou test](http://natetaris.wheatoncollege.edu/2015/12/blog-post_10.html) blog
 *   NM [Environmental Policy Initiatives](http://crpgsa.unm.edu/2008/12/nm-environmental-policy-initiatives.html) Lecture
 
+## General Posts
+
+*   [10 Blogs on Personal Finance, Business and Marketing](https://www.reddit.com/user/wikimint/comments/1kdzjds/10_blogs_on_personal_finance_business_and)
+*   [6 Blogs That’ll Actually Help You Get Smarter About Money, Business, and Marketing](https://medium.com/@selvakumarankrishnan/6-blogs-thatll-actually-help-you-get-smarter-about-money-business-and-marketing-805d02c5ae1d)
+*   [Top 8 Blogs for Personal Finance Literacy, Marketing Tips and Business Motivation](https://www.tumblr.com/magazinechronicles/782631471133458432/top-8-blogs-for-personal-finance-literacy?source=share)
+

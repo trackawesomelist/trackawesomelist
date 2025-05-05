@@ -2,15 +2,21 @@
 
 Papers from the computer science community to read and discuss.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/papers-we-love/papers-we-love/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 84K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/papers-we-love/papers-we-love/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 93K · 🏷️ Theory
 
 [ [Daily](/content/papers-we-love/papers-we-love/README.md) / Weekly / [Overview](/content/papers-we-love/papers-we-love/readme/README.md) ]
+
+## [May 12 - May 18, 2025](/content/2025/19/README.md)
+
+### Info / Other Good Places to Find Papers
+
+*   [alphaXiv](https://www.alphaxiv.org/) (Adds a discussion layer; replace "arxiv" with "alphaxiv" in an arXiv paper URL)
 
 ## [May 20 - May 26, 2024](/content/2024/21/README.md)
 
 ### Info / Other Good Places to Find Papers
 
-*   [eugeneyan/applied-ml GitHub repository (⭐26k)](https://github.com/eugeneyan/applied-ml)
+*   [eugeneyan/applied-ml GitHub repository (⭐28k)](https://github.com/eugeneyan/applied-ml)
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 
@@ -99,8 +105,8 @@ Papers from the computer science community to read and discuss.
 
 ### Info / Other Good Places to Find Papers
 
-*   [Services Engineering Reading List (⭐3.6k)](https://github.com/mmcgrana/services-engineering)
 *   [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
+*   [Services Engineering Reading List (⭐3.6k)](https://github.com/mmcgrana/services-engineering)
 
 ## [Apr 14 - Apr 20, 2014](/content/2014/15/README.md)
 
@@ -119,10 +125,10 @@ Papers from the computer science community to read and discuss.
 
 ### Info / Other Good Places to Find Papers
 
-*   [SciRate](https://scirate.com/)
 *   [cat-v.org](http://doc.cat-v.org/)
-*   [y-archive](http://yarchive.net/comp/index.html)
 *   [netlib](http://www.netlib.org/)
+*   [SciRate](https://scirate.com/)
+*   [y-archive](http://yarchive.net/comp/index.html)
 
 ## [Mar 03 - Mar 09, 2014](/content/2014/9/README.md)
 

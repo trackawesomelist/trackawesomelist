@@ -1232,6 +1232,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [cookieconsent (⭐4.6k)](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
 *   [ngx-cookiebot (⭐11)](https://github.com/halloverden/ngx-cookiebot) - An Angular wrapper around the [Cookiebot](https://www.cookiebot.com/) SDK.
 *   [ngx-cookie-ssr (⭐3)](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
+*   [ngx-gdpr-cookie-consent (⭐6)](https://github.com/KoblerS/ngx-gdpr-cookie-consent) - A beautiful Cookie consent library, easy to use.
 
 #### Data Grids
 
@@ -1242,7 +1243,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [active-table (⭐268)](https://github.com/OvidijusParsiunas/active-table) - Framework agnostic table component for editable data experience.
 *   [jsgrids (⭐195)](https://github.com/statico/jsgrids) - A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo.
 *   [ui-grid (⭐5.4k)](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid.
-*   [jspreadsheet](https://bossanova.uk/jspreadsheet/v4/examples/angular) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
+*   [jspreadsheet (⭐6.9k)](https://github.com/jspreadsheet/ce) - [Jspreadsheet](https://bossanova.uk/jspreadsheet/docs/getting-started) is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
 *   [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
 *   [ngx-export-as (⭐69)](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
 *   [datagrid (⭐11)](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
@@ -1649,6 +1650,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-md (⭐265)](https://github.com/dimpu/ngx-md) - Angular directive for parsing markdown content in your web application.
 *   [ngx-textile (⭐1)](https://github.com/vincent/ngx-textile) - Use the Textile markup language in your Angular project using [textile-js (⭐213)](https://github.com/borgar/textile-js).
 *   [mdbook-angular (⭐3)](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns Angular code samples into running Angular applications.
+*   [ngx-mdx (⭐1)](https://github.com/SalathielGenese/ngx-mdx) - Take Angular lifecycle to Markdown for a seamless experience.
 
 #### Media
 
@@ -1742,6 +1744,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [notifyx (⭐1)](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
 *   [web-notifier (⭐1)](https://github.com/andreasnicolaou/web-notifier) - A lightweight and flexible web notification library that provides a simple API for handling browser notifications using RxJS observables.
 *   [toastify (⭐2)](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.
+*   [angular-toaster (⭐1)](https://github.com/damingerdai/angular-toaster) - Updated fork of [Angular2-Toaster (⭐333)](https://github.com/Stabzs/Angular2-Toaster).
+*   [ng-toast-service (⭐1)](https://github.com/nhusby/ng-toast-service) - A simple, customizable notification service for Angular applications. This service shows notifications that slide onto the screen with configurable behavior.
 
 #### Printing
 

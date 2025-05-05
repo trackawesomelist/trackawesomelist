@@ -2,15 +2,21 @@
 
 Papers from the computer science community to read and discuss.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/papers-we-love/papers-we-love/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 84K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/papers-we-love/papers-we-love/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) · ⭐ 93K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/papers-we-love/papers-we-love/week/README.md) / [Overview](/content/papers-we-love/papers-we-love/readme/README.md) ]
+
+## [May 05, 2025](/content/2025/05/05/README.md)
+
+### Info / Other Good Places to Find Papers
+
+*   [alphaXiv](https://www.alphaxiv.org/) (Adds a discussion layer; replace "arxiv" with "alphaxiv" in an arXiv paper URL)
 
 ## [May 20, 2024](/content/2024/05/20/README.md)
 
 ### Info / Other Good Places to Find Papers
 
-*   [eugeneyan/applied-ml GitHub repository (⭐26k)](https://github.com/eugeneyan/applied-ml)
+*   [eugeneyan/applied-ml GitHub repository (⭐28k)](https://github.com/eugeneyan/applied-ml)
 
 ## [Jul 20, 2023](/content/2023/07/20/README.md)
 
@@ -125,8 +131,8 @@ Papers from the computer science community to read and discuss.
 ### Info / Other Good Places to Find Papers
 
 *   [cat-v.org](http://doc.cat-v.org/)
-*   [y-archive](http://yarchive.net/comp/index.html)
 *   [netlib](http://www.netlib.org/)
+*   [y-archive](http://yarchive.net/comp/index.html)
 
 ## [Mar 03, 2014](/content/2014/03/03/README.md)
 

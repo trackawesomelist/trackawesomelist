@@ -4,6 +4,14 @@
 
 [ Daily / [Weekly](/content/selvaklnc/topics/week/README.md) / [Overview](/content/selvaklnc/topics/readme/README.md) ]
 
+## [May 05, 2025](/content/2025/05/05/README.md)
+
+### General Posts
+
+*   [10 Blogs on Personal Finance, Business and Marketing](https://www.reddit.com/user/wikimint/comments/1kdzjds/10_blogs_on_personal_finance_business_and)
+*   [6 Blogs That’ll Actually Help You Get Smarter About Money, Business, and Marketing](https://medium.com/@selvakumarankrishnan/6-blogs-thatll-actually-help-you-get-smarter-about-money-business-and-marketing-805d02c5ae1d)
+*   [Top 8 Blogs for Personal Finance Literacy, Marketing Tips and Business Motivation](https://www.tumblr.com/magazinechronicles/782631471133458432/top-8-blogs-for-personal-finance-literacy?source=share)
+
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
 ### List of articles and posts
