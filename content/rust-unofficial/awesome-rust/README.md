@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [May 06, 2025](/content/2025/05/06/README.md)
+
+### Libraries / Concurrency
+
+*   [orx-parallel](https://crates.io/crates/orx-parallel) - High performance, configurable and expressive parallel computation library.
+
 ## [May 05, 2025](/content/2025/05/05/README.md)
 
 ### Development tools / Debugging
