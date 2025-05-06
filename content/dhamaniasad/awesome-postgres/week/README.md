@@ -6,6 +6,24 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 [ [Daily](/content/dhamaniasad/awesome-postgres/README.md) / Weekly / [Overview](/content/dhamaniasad/awesome-postgres/readme/README.md) ]
 
+## [May 12 - May 18, 2025](/content/2025/19/README.md)
+
+### Contents / Backups
+
+*   [pgbackweb (⭐1.6k)](https://github.com/eduardolat/pgbackweb) - A Complete Docker-based Postgres backup and maintenance tool with Web UI.
+
+### Contents / Extensions
+
+*   [pgcat (⭐382)](https://github.com/kingluo/pgcat) - Enhanced PostgreSQL logical replication
+
+### Contents / Optimization
+
+*   [aqo (⭐455)](https://github.com/postgrespro/aqo) - Adaptive query optimization for PostgreSQL.
+
+### Contents / Utilities
+
+*   [NServiceBus.Transport.PostgreSql (⭐44)](https://github.com/Particular/NServiceBus.SqlServer) - The NServiceBus.Transport.PostgreSql library allows .NET developers to [use a PostgreSQL database as a message broker](https://docs.particular.net/transports/postgresql). (Commerical Software)
+
 ## [May 05 - May 11, 2025](/content/2025/18/README.md)
 
 ### Contents / High-Availability
