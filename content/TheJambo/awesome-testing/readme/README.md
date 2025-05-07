@@ -2,7 +2,7 @@
 
 A curated list of testing resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/TheJambo/awesome-testing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) · ⭐ 1.9K · 🏷️ Testing
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/TheJambo/awesome-testing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) · ⭐ 2K · 🏷️ Testing
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / Overview ]
 
@@ -18,7 +18,7 @@ A curated list of testing resources
 
 This is intended to be a curation of resources for the new among the software testing community. It is not tailored to a specific area (Usability/Performance) or role (Automation/Management). The idea is that you could hand this list to a CS graduate and it would greatly improve their testing skills, efficiency and overall breadth of knowledge. Note that this is for all areas of software testing after the code in question is written (no unit tests/static analysis!).
 
-Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute (⭐1.9k)](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and add to the list. :)
+Finally, I'm sure everyone who reads this list has one thing they want to add. Please read the [How to Contribute (⭐2k)](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) page and add to the list. :)
 
 ## Contents
 
@@ -40,45 +40,48 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [CORS Tester](https://cors-error.dev/cors-tester/) - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.
 *   [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
-*   [Keploy (⭐5.3k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
-*   [RestQA (⭐88)](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
+*   [Keploy (⭐8.1k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
+*   [RestQA (⭐89)](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
 *   [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in plain English with extendable Python implementation.
+*   [Tests Coverage Tool (⭐5)](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
+*   [Swagger Coverage Tool (⭐6)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 
 ### Security Testing
 
 *   [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
-*   [OWASP ZAP (⭐13k)](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
+*   [OWASP ZAP (⭐14k)](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 
 ### Service Virtualization
 
 *   [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
-*   [DeepfakeHTTP (⭐515)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
-*   [WireMock (⭐6.5k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
+*   [DeepfakeHTTP (⭐513)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
+*   [WireMock (⭐6.8k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 
 ### Visual Testing
 
 *   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
-*   [GoodLooks (⭐40)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
+*   [GoodLooks (⭐43)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
 *   [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
-*   [recheck-web (⭐265)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
+*   [recheck-web (⭐267)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
 *   [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.
 
 ### UI & End-to-End Testing
 
 *   [BugBug](https://bugbug.io) - No-code test automation tool for web applications.
 *   [Courgette](https://courgette-testing.com) - Declarative BDD UI testing with Gherkin.
-*   [Ferrum (⭐1.8k)](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
+*   [Ferrum (⭐1.9k)](https://github.com/rubycdp/ferrum) - Chrome automation via CDP with a high-level Ruby API.
 *   [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
-*   [Hercules (⭐376)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
+*   [Hercules (⭐518)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
 *   [LambdaTest](https://www.lambdatest.com) - Unified enterprise test execution cloud platform for browser and mobile testing.
 *   [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
-*   [playwright-bdd (⭐370)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+*   [playwright-bdd (⭐424)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 *   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
+*   [UI Coverage Tool (⭐0)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
 
 ### Test Management
 
 *   [Kiwi TCMS (⭐1k)](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
-*   [TestLink (⭐1.4k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
+*   [TestLink (⭐1.5k)](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 *   [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
 ### Test Data Management
@@ -103,16 +106,17 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Performance & Load Testing
 
 *   [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
+*   [Load Testing Hub Panel (⭐17)](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
 
 ### Web3 & Blockchain Testing
 
 *   [Cannon](https://usecannon.com/) - Continuous configuration automation for Ethereum.
 *   [Dapp.tools](https://dapp.tools/) - Command-line tools and smart contract libraries for Ethereum.
 *   [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain for running tests.
-*   [Foundry (⭐8.6k)](https://github.com/foundry-rs/foundry) - Fast, modular toolkit for Ethereum development.
+*   [Foundry (⭐8.9k)](https://github.com/foundry-rs/foundry) - Fast, modular toolkit for Ethereum development.
 *   [Hardhat](https://hardhat.org/) - Ethereum development and testing environment.
 *   [Truffle Suite](https://trufflesuite.com/) - Comprehensive smart contract development suite.
-*   [Robot Framework Solidity Testing Toolkit (⭐11)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - Robot Framework integration for Solidity testing.
+*   [Robot Framework Solidity Testing Toolkit (⭐13)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - Robot Framework integration for Solidity testing.
 
 ### Test Automation Frameworks
 
@@ -147,7 +151,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ## Training (Includes developer training for automation testers)
 
-*   [Learn to Code (⭐4.2k)](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
+*   [Learn to Code (⭐4.3k)](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
 *   [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 *   [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
 *   [Coursera](https://www.coursera.org/) - Online courses from top universities.
@@ -172,20 +176,20 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Must Read
 
-*   [Falsehoods (⭐25k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
+*   [Falsehoods (⭐26k)](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
 *   [Naughty Strings (⭐47k)](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-*   [Unicode (⭐923)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+*   [Unicode (⭐926)](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Useful References
 
-*   [The Original (⭐347k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
-*   [Learn to Code (⭐4.2k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
-*   [Application Security (⭐6.4k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
+*   [The Original (⭐359k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [Learn to Code (⭐4.3k)](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+*   [Application Security (⭐6.5k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐13k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 *   [Awesome Software Quality (⭐2.3k)](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
 *   [Awesome Cucumber (⭐44)](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
-*   [Awesome JMeter (⭐732)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐741)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 *   [How They Test (⭐6.1k)](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
 ## QA and Testing Road Map
@@ -196,7 +200,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
 *   [Software Testing Conferences](http://testingconferences.org/) - A list of software testing conferences and workshops.
-*   [Software Testing Interview Tool (⭐45)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐49)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## Contributing
 
@@ -217,7 +221,7 @@ See the [Code of Conduct](https://github.com/TheJambo/awesome-testing/blob/maste
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [the
-contributors (⭐1.9k)](https://github.com/TheJambo/awesome-testing/graphs/contributors)
+contributors (⭐2k)](https://github.com/TheJambo/awesome-testing/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See the
 [license file](https://github.com/TheJambo/awesome-testing/blob/master/README.md/LICENSE) for details.
 

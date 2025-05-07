@@ -6,6 +6,23 @@ Curated list of awesome things related to Deno
 
 [ [Daily](/content/denolib/awesome-deno/README.md) / Weekly / [Overview](/content/denolib/awesome-deno/readme/README.md) ]
 
+## [May 12 - May 18, 2025](/content/2025/19/README.md)
+
+### Docs / Official Docs
+
+*   [Official Site](https://deno.com)
+*   [Deno Manual](https://docs.deno.com)
+*   [Deno API Reference](https://docs.deno.com/api)
+*   [Deno Standard Library](https://jsr.io/@std)
+
+### Modules / Database
+
+*   [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
+
+### Integrations / XML
+
+*   [Smallweb](https://www.smallweb.run/) - A personal cloud contained in a single directory. You can customize the server behavior using Deno.
+
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
 ### Modules / Web framework
@@ -166,12 +183,6 @@ Curated list of awesome things related to Deno
 
 *   [deno\_docker (⭐969)](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu.
 
-## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
-
-### Modules / Database
-
-*   [r2d2 (⭐57)](https://github.com/iuioiua/r2d2) - Fast, lightweight Redis client library for Deno.
-
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
 ### Modules / Utils
@@ -220,11 +231,6 @@ Curated list of awesome things related to Deno
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
-### Docs / Official Docs
-
-*   [Deno API Reference](https://deno.land/api)
-*   [Deno Standard Modules](https://deno.land/std)
-
 ### Modules / Frontend framework
 
 *   [packup (⭐337)](https://github.com/kt3k/packup) - Zero-config web application packager for Deno.
@@ -249,8 +255,8 @@ Curated list of awesome things related to Deno
 
 ### Integrations / XML
 
-*   [Slack Custom Functions](https://api.slack.com/future/functions/custom) - Build custom Run On Slack functions using Deno.
 *   [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
+*   [Slack Custom Functions](https://api.slack.com/future/functions/custom) - Build custom Run On Slack functions using Deno.
 *   [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.
 *   [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
 
@@ -383,7 +389,6 @@ Curated list of awesome things related to Deno
 
 ### Modules / Utils
 
-*   [tryify](https://github.com/twilsoft/tryify) - Functional style error handling; never throw/try/catch/finally again.
 *   [wasm-gzip (⭐19)](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
 
 ### Modules / Validation
@@ -407,10 +412,6 @@ Curated list of awesome things related to Deno
 ### Modules / CLI utils
 
 *   [yargs (⭐11k)](https://github.com/yargs/yargs) - The modern, pirate-themed successor to optimist.
-
-### Tools / XML
-
-*   [vscode-deno-starter](https://github.com/twilsoft/vscode-deno-starter) - VS Code project boilerplate to get started with Deno.
 
 ## [Mar 14 - Mar 20, 2022](/content/2022/11/README.md)
 
@@ -867,11 +868,6 @@ Curated list of awesome things related to Deno
 *   [Primeros pasos con Deno 🦕 El sucesor de NodeJS desarrollado con Rust y TypeScript](https://medium.com/@manurua/primeros-pasos-con-deno-el-nuevo-nodejs-desarrollado-con-rust-y-typescript-b9ac14f7d0c7)
 
 ## [May 18 - May 24, 2020](/content/2020/20/README.md)
-
-### Docs / Official Docs
-
-*   [Official Site](https://deno.land)
-*   [Deno Manual](https://deno.land/manual)
 
 ### Modules / CLI utils
 

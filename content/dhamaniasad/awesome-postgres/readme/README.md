@@ -29,6 +29,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
     *   [Server](#server)
     *   [Monitoring](#monitoring)
     *   [Extensions](#extensions)
+    *   [Work Queues](#work-queues)
     *   [Optimization](#optimization)
     *   [Utilities](#utilities)
     *   [Language bindings](#language-bindings)
@@ -113,7 +114,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Distributions
 
 *   [Postgres.app](https://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
-*   [PostgreSql.Binaries.Lite](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
 *   [Pigsty (⭐3.9k)](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
 
 ### CLI
@@ -128,10 +128,10 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Server
 
-*   [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 *   [AgensGraph](https://bitnine.net/) - Powerful graph database based on the PostgreSQL.
-*   [Greenplum Database](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
+*   [Apache Cloudberry (⭐951)](https://github.com/apache/cloudberry) - And MPP PostgreSQL fork. Open source alternative to Greenplum Database.
 *   [FerretDB](https://www.ferretdb.io) - A truly Open Source MongoDB alternative on top of PostgreSQL.
+*   [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 *   [YugabyteDB](https://yugabyte.com/) - Open Source Distributed SQL using  a fork of PostgreSQL on top of distributed storage and transaction
 
 ### Security
@@ -193,6 +193,12 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [PGAudit](https://www.pgaudit.org/) - The PostgreSQL Audit Extension (or pgaudit) provides detailed session and/or object audit logging via the standard logging facility provided by PostgreSQL.
 *   [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
 *   [ParadeDB (⭐7k)](https://github.com/paradedb/paradedb) -  Postgres for Search and Analytics
+
+### Work Queues
+
+*   [BeanQueue (⭐17)](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
+*   [pgmq (⭐3.2k)](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+*   [river (⭐4.1k)](https://github.com/riverqueue/river) - A high-performance job processing system for Go and Postgres.
 
 ### Optimization
 
@@ -261,7 +267,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.
 *   [Pyrseas (⭐402)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
 *   [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software).
-*   \[planter]\[[https://github.com/achiku/planter (⭐552)](https://github.com/achiku/planter)] - Generate PlantUML ER diagram textual description from PostgreSQL tables
+*   [planter (⭐552)](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
 *   [pgroll (⭐4.9k)](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 *   [RegreSQL (⭐283)](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
 
@@ -350,8 +356,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Articles
 
-*   [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
-*   [What PostgreSQL has over other open source SQL databases: Part II](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases-part-ii/)
 *   [the ultimate postgres vs mysql blog post](https://di.nmfay.com/postgres-vs-mysql)
 *   [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 *   [Why use Postgres?](http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/)

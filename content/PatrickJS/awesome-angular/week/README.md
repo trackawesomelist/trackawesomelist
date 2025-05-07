@@ -29,6 +29,10 @@
 *   [angular-toaster (⭐1)](https://github.com/damingerdai/angular-toaster) - Updated fork of [Angular2-Toaster (⭐333)](https://github.com/Stabzs/Angular2-Toaster).
 *   [ng-toast-service (⭐1)](https://github.com/nhusby/ng-toast-service) - A simple, customizable notification service for Angular applications. This service shows notifications that slide onto the screen with configurable behavior.
 
+### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [mantic-ui (⭐3)](https://github.com/KY-Programming/mantic-ui) - Angular components for [Semantic UI](https://semantic-ui.com/) and [Fomantic UI](https://fomantic-ui.com/).
+
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-voyage (⭐3)](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.

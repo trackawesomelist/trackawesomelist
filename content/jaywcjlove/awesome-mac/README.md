@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [May 07, 2025](/content/2025/05/07/README.md)
+
+### Developer Tools / API Development and Analysis
+
+*   [Hoppscotch](https://docs.hoppscotch.io/documentation/clients/desktop) - A lightweight, fast, and full-featured API debugging tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hoppscotch/hoppscotch)
+
+### Design and Product / Design Tools
+
+*   [Droply](https://convergencelab.gumroad.com/l/droply) - A native macOS app for one-click offline batch image background removal with exceptional edge quality.
+
 ## [May 05, 2025](/content/2025/05/05/README.md)
 
 ### Utilities / General Tools
@@ -1372,7 +1382,7 @@
 
 ### Developer Tools / API Development and Analysis
 
-*   [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Aug 09, 2022](/content/2022/08/09/README.md)
 

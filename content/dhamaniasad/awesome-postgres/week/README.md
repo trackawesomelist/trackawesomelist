@@ -12,9 +12,19 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 *   [pgbackweb (⭐1.6k)](https://github.com/eduardolat/pgbackweb) - A Complete Docker-based Postgres backup and maintenance tool with Web UI.
 
+### Contents / Server
+
+*   [Apache Cloudberry (⭐951)](https://github.com/apache/cloudberry) - And MPP PostgreSQL fork. Open source alternative to Greenplum Database.
+
 ### Contents / Extensions
 
 *   [pgcat (⭐382)](https://github.com/kingluo/pgcat) - Enhanced PostgreSQL logical replication
+
+### Contents / Work Queues
+
+*   [BeanQueue (⭐17)](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
+*   [pgmq (⭐3.2k)](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+*   [river (⭐4.1k)](https://github.com/riverqueue/river) - A high-performance job processing system for Go and Postgres.
 
 ### Contents / Optimization
 
@@ -23,6 +33,7 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Contents / Utilities
 
 *   [NServiceBus.Transport.PostgreSql (⭐44)](https://github.com/Particular/NServiceBus.SqlServer) - The NServiceBus.Transport.PostgreSql library allows .NET developers to [use a PostgreSQL database as a message broker](https://docs.particular.net/transports/postgresql). (Commerical Software)
+*   [planter (⭐552)](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
 
 ## [May 05 - May 11, 2025](/content/2025/18/README.md)
 
@@ -93,7 +104,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   [pg-spot-operator (⭐53)](https://github.com/pg-spot-ops/pg-spot-operator) - A daemon to run stateful Postgres on cheap AWS Spot VMs
 *   [pg\_timetable (⭐1.2k)](https://github.com/cybertec-postgresql/pg_timetable) - Advanced job scheduler for PostgreSQL.
 *   [Pyrseas (⭐402)](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
-*   \[planter]\[[https://github.com/achiku/planter (⭐552)](https://github.com/achiku/planter)] - Generate PlantUML ER diagram textual description from PostgreSQL tables
 *   [pgroll (⭐4.9k)](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 *   [RegreSQL (⭐283)](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
 
@@ -394,7 +404,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 ### Resources / Articles
 
-*   [What PostgreSQL has over other open source SQL databases: Part II](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases-part-ii/)
 *   [the ultimate postgres vs mysql blog post](https://di.nmfay.com/postgres-vs-mysql)
 *   [Superfast CSV imports using PostgreSQL's COPY command](https://infinum.com/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy)
 
@@ -564,10 +573,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 
 *   [pgModeler](https://pgmodeler.io/) - pgModeler is an open-source PostgreSQL Database Modeler.
 
-### Contents / Server
-
-*   [Greenplum Database](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
-
 ### Contents / Utilities
 
 *   [pgbadger (⭐3.7k)](https://github.com/darold/pgbadger) - Fast PostgreSQL Log Analyzer.
@@ -663,10 +668,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 ### Contents / GUI
 
 *   [Holistics](https://www.holistics.io/) - Online cross platform database management tool and SQL query reporting GUI with strong PostgreSQL support (Commercial Software).
-
-### Contents / Distributions
-
-*   [PostgreSql.Binaries.Lite](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
 
 ## [Jun 05 - Jun 11, 2017](/content/2017/23/README.md)
 
@@ -866,12 +867,6 @@ A curated list of awesome PostgreSQL software, libraries, tools and resources, i
 *   Common Lisp: [Postmodern (⭐406)](https://github.com/marijnh/Postmodern)
 *   Elixir: [postgrex (⭐1.2k)](https://github.com/elixir-ecto/postgrex)
 *   Rust: [rust-postgresql (⭐3.7k)](https://github.com/sfackler/rust-postgres), [pgx (⭐4k)](https://github.com/tcdi/pgx), [wtx (⭐275)](https://github.com/c410-f3r/wtx)
-
-## [Jul 18 - Jul 24, 2016](/content/2016/29/README.md)
-
-### Resources / Articles
-
-*   [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
 
 ## [Mar 07 - Mar 13, 2016](/content/2016/10/README.md)
 

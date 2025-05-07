@@ -8,6 +8,14 @@
 
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
+### Developer Tools / API Development and Analysis
+
+*   [Hoppscotch](https://docs.hoppscotch.io/documentation/clients/desktop) - A lightweight, fast, and full-featured API debugging tool. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/hoppscotch/hoppscotch)
+
+### Design and Product / Design Tools
+
+*   [Droply](https://convergencelab.gumroad.com/l/droply) - A native macOS app for one-click offline batch image background removal with exceptional edge quality.
+
 ### Utilities / General Tools
 
 *   [DNS Optimizer](https://www.appecosys.com/apps/dns-optimizer/) - A DNS changer and performance‑benchmarking tool for Apple devices (macOS & iOS). ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/dns-optimizer/id6741016224?platform=mac)
@@ -1213,7 +1221,7 @@
 
 ### Developer Tools / API Development and Analysis
 
-*   [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Communication / Email Clients
 

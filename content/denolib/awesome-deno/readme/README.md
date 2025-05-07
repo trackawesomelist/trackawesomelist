@@ -73,10 +73,10 @@ This list is a collection of the best Deno modules and resources.
 
 ### Official Docs
 
-*   [Official Site](https://deno.land)
-*   [Deno Manual](https://deno.land/manual)
-*   [Deno API Reference](https://deno.land/api)
-*   [Deno Standard Modules](https://deno.land/std)
+*   [Official Site](https://deno.com)
+*   [Deno Manual](https://docs.deno.com)
+*   [Deno API Reference](https://docs.deno.com/api)
+*   [Deno Standard Library](https://jsr.io/@std)
 
 ### External Docs
 
@@ -126,10 +126,10 @@ This list is a collection of the best Deno modules and resources.
 *   [dongoose (⭐25)](https://github.com/roonie007/dongoose) - A simple and easy to use ORM for Deno KV.
 *   [dsddb (⭐13)](https://github.com/MaximilianHeidenreich/DsDDB) - A dead simple persistant key-value database utilizing the JSON format.
 *   [dso (⭐92)](https://github.com/manyuanrong/dso) - A simple ORM library based on mysql.
+*   [@iuioiua/redis](https://jsr.io/@iuioiua/redis) - Fast, lightweight Redis client built upon the Web Streams API.
 *   [maxminddb (⭐10)](https://github.com/josh-hemphill/maxminddb-deno) - A library that enables the usage of MaxmindDB geoIP database files
 *   [nessie (⭐529)](https://github.com/halvardssm/deno-nessie) - Create, migrate and rollback migrations for PostgreSQL, MySQL and SQLite.
 *   [postgres (⭐621)](https://github.com/denodrivers/postgres) - Driver for PostgreSQL database.
-*   [r2d2 (⭐57)](https://github.com/iuioiua/r2d2) - Fast, lightweight Redis client library for Deno.
 *   [redis (⭐461)](https://github.com/denodrivers/redis) - An experimental implementation of redis client for deno.
 *   [sql-builder (⭐55)](https://github.com/manyuanrong/sql-builder) - An sql query builder.
 *   [yongo (⭐7)](https://github.com/yooneskh/yongo) - Subset of Mongoose api in deno (like populate) but will not fully copy mongoose
@@ -286,7 +286,6 @@ This list is a collection of the best Deno modules and resources.
 *   [rubico (⭐279)](https://github.com/richytong/rubico) - 🏞 \[a]synchronous function composition; it just works.
 *   [solc (⭐74)](https://github.com/deno-web3/solc) - 💎 Solidity bindings for Deno.
 *   [switcher4deno (⭐2)](https://github.com/switcherapi/switcher-client-deno) - Feature Flag Deno SDK client for Switcher-API.
-*   [tryify](https://github.com/twilsoft/tryify) - Functional style error handling; never throw/try/catch/finally again.
 *   [type-fest (⭐14)](https://github.com/denoserverless/type-fest) - A collection of essential TypeScript types (port of sindresorhus/type-fest).
 *   [unified-deno-lock (⭐1)](https://github.com/yooneskh/unified-deno-lock) - Powerful and simple lock (mutex) library to handle race conditions with zero dependencies
 *   [wasm-gzip (⭐19)](https://github.com/manyuanrong/wasm_gzip) - Perform gzip operations for Deno.
@@ -419,13 +418,13 @@ This list is a collection of the best Deno modules and resources.
 *   [udd (⭐331)](https://github.com/hayd/deno-udd) - Update Deno dependencies: updates import statements to their latest published version.
 *   [velociraptor (⭐680)](https://github.com/umbopepato/velociraptor) - An npm-style script runner for Deno.
 *   [vscode-deno (⭐1.5k)](https://github.com/denoland/vscode_deno) - VS Code extension that provides Deno support using the `TypeScript Deno language service plugin`.
-*   [vscode-deno-starter](https://github.com/twilsoft/vscode-deno-starter) - VS Code project boilerplate to get started with Deno.
 *   [denofn-selfhosted (⭐30)](https://github.com/denofn/denofn-selfhosted) - Self-hosted Deno functions, made with Deno and Docker.
 
 ## Integrations
 
-*   [Slack Custom Functions](https://api.slack.com/future/functions/custom) - Build custom Run On Slack functions using Deno.
 *   [Netlify Edge Functions](https://docs.netlify.com/edge-functions/overview/) - Edge Functions connect the Netlify platform and workflow.
+*   [Slack Custom Functions](https://api.slack.com/future/functions/custom) - Build custom Run On Slack functions using Deno.
+*   [Smallweb](https://www.smallweb.run/) - A personal cloud contained in a single directory. You can customize the server behavior using Deno.
 *   [Supabase Edge Functions](https://supabase.com/docs/guides/functions) - Edge Functions are server-side TypeScript functions, distributed globally at the edge.
 *   [Astro](https://docs.astro.build/en/guides/deploy/deno/) - Deploy a server-side rendered Astro site to Deno Deploy.
 

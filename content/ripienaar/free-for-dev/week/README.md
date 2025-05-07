@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ [Daily](/content/ripienaar/free-for-dev/README.md) / Weekly / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [May 12 - May 18, 2025](/content/2025/19/README.md)
+
+### Other Free Resources
+
+*   [Axonomy App](https://axonomy-app.com/) - A free tool to create, manage and share your invoices with your clients. 10 free invoices per month.
+
 ## [May 05 - May 11, 2025](/content/2025/18/README.md)
 
 ### Design and UI
