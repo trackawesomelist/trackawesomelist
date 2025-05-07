@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [godzie44/BugStalker (⭐1k)](https://github.com/godzie44/BugStalker) - Modern debugger for Linux x86-64. Written in Rust for Rust programs.
 
+### Libraries / Artificial Intelligence
+
+*   [ave-sergeev/tictonix (⭐3)](https://github.com/Ave-Sergeev/Tictonix) \[[tictonix](https://crates.io/crates/tictonix)] - A library that provides the ability to convert tokens into embeddings, as well as to encode their positions.
+
 ### Libraries / Concurrency
 
 *   [orx-parallel](https://crates.io/crates/orx-parallel) - High performance, configurable and expressive parallel computation library.

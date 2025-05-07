@@ -5,12 +5,12 @@
 
 - [Top Repos](top/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
+  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
   - [Papers We Love](/content/content/papers-we-love/papers-we-love/README.md)
   - [Awesome Rust](/content/content/rust-unofficial/awesome-rust/README.md)
   - [Awesome Cpp](/content/content/fffaraz/awesome-cpp/README.md)
-  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Free Programming Books (English, By Programming Language)](/content/content/EbookFoundation/free-programming-books/README.md)
   - [Awesome List](/content/content/sindresorhus/awesome/README.md)
   - [Awesome Vue](/content/content/vuejs/awesome-vue/README.md)

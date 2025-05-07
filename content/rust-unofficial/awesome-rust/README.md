@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [May 07, 2025](/content/2025/05/07/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [ave-sergeev/tictonix (⭐3)](https://github.com/Ave-Sergeev/Tictonix) \[[tictonix](https://crates.io/crates/tictonix)] - A library that provides the ability to convert tokens into embeddings, as well as to encode their positions.
+
 ## [May 06, 2025](/content/2025/05/06/README.md)
 
 ### Libraries / Concurrency
