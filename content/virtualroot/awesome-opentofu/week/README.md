@@ -6,6 +6,12 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 [ [Daily](/content/virtualroot/awesome-opentofu/README.md) / Weekly / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
 
+## [May 12 - May 18, 2025](/content/2025/19/README.md)
+
+### Tools / Helpers
+
+*   [tfupdate (⭐589)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
+
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
 ### Podcasts / Helpers

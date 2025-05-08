@@ -8,6 +8,10 @@
 
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
+### Node / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Node Initializr](https://start.nodeinit.dev/) - Node Initializr offers a fast way to pull in all the dependencies you need for your application and does a lot of the setup for you.
+
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [zero-angular (⭐1)](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
@@ -19,6 +23,10 @@
 ### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [jspreadsheet (⭐6.9k)](https://github.com/jspreadsheet/ce) - [Jspreadsheet](https://bossanova.uk/jspreadsheet/docs/getting-started) is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
+
+### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-mixed-cdk-drag-drop (⭐32)](https://github.com/rosejoe47/angular-mixed-cdk-drag-drop) - Angular Directive to support mixed orientation drag drop using Angular CDK.
 
 ### Markdown / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

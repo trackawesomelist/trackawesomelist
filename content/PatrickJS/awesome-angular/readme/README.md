@@ -706,6 +706,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [generator-jhipster-ionic (⭐195)](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
 *   [create-tauri-app (⭐1.2k)](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
 *   [skulljs](https://skulljs.github.io/) - Skulljs aims to give a standardized file structure to create web applications based on popular Javascript / Typescript frameworks.
+*   [Node Initializr](https://start.nodeinit.dev/) - Node Initializr offers a fast way to pull in all the dependencies you need for your application and does a lot of the setup for you.
 
 ##### Spring Boot
 
@@ -1342,6 +1343,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-drag-resize (⭐9)](https://github.com/dmytro-parfenov/ngx-drag-resize) - This Angular library provides directives that add drag and resize functionality to HTML elements.
 *   [ng-keyboard-sort (⭐3)](https://github.com/johnhwhite/ng-keyboard-sort) - Library to add keyboard commands for elements that also use CDK drag and drop sorting.
 *   [ngx-draggable-widget-kama (⭐1)](https://github.com/KAMAELUA/ngx-draggable-widget-kama) - Reworked [ngx-draggable-widget (⭐36)](https://github.com/arup-banerjee/ngx-draggable-widget) for better support.
+*   [angular-mixed-cdk-drag-drop (⭐32)](https://github.com/rosejoe47/angular-mixed-cdk-drag-drop) - Angular Directive to support mixed orientation drag drop using Angular CDK.
 
 #### Editor Components
 

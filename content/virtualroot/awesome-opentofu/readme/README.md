@@ -144,6 +144,7 @@ A curated list of OpenTofu tools, resources, and related projects.
 ### Helpers
 
 *   [terratag (⭐974)](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
+*   [tfupdate (⭐589)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
 
 ## Learning
 
