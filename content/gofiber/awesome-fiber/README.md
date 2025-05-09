@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/gofiber/awesome-fiber/week/README.md) / [Overview](/content/gofiber/awesome-fiber/readme/README.md) ]
 
+## [May 09, 2025](/content/2025/05/09/README.md)
+
+### ⚙️ Middlewares / 🌱 Third Party
+
+*   [newrelic/go-agent (⭐790)](https://github.com/newrelic/go-agent/tree/master/v3/integrations/nrfiber) - Official New Relic middleware for Fiber that manages instrumentation for New Relic monitoring.
+
 ## [May 04, 2025](/content/2025/05/04/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
@@ -107,7 +113,7 @@
 
 ### 🛠️ Tools / 🌱 Third Party
 
-*   [deepmap/oapi-codegen (⭐7k)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
+*   [deepmap/oapi-codegen (⭐7.1k)](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications.
 
 ## [Jun 25, 2023](/content/2023/06/25/README.md)
 

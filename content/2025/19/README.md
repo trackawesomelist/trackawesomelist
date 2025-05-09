@@ -1,18 +1,88 @@
 # Awesome List Updates on May 12 - May 18, 2025
 
-24 awesome lists updated this week.
+28 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
+## [1. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+
+### Books
+
+*   [Generative Design](https://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
+*   [The Nature of Code](https://natureofcode.com/) - Simulating natural systems with Processing.
+*   [Programming Interactivity](https://shop.oreilly.com/product/9780596154158.do) - Designer's Guide to Processing, Arduino, and openFrameworks.
+*   [Foundation HTML5 Animation with JavaScript](https://link.springer.com/book/10.1007/978-1-4302-3666-5) - Everything you need to know to create animation using the HTML5 canvas.
+*   [Playing with chaos](https://www.playingwithchaos.net/) - Programming Fractals and Strange Attractors in JavaScript.
+*   [Physics for JavaScript Games, Animation, and Simulations](https://www.apress.com/us/book/9781430263371) - Teaches JavaScript programmers how to incorporate real physics into their HTML5 games, animations, and simulations.
+
+### Online Books
+
+*   [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL from the ground up. No magic.
+*   [WebGL 2 Fundamentals](https://webgl2fundamentals.org/) - WebGL2 from the ground up. No magic.
+*   [Scratchapixel 2.0](https://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
+*   [ofBook](https://openframeworks.cc/ofBook/chapters/foreword.html) - Community-written book/guide on openFrameworks.
+
+### Frameworks • Libraries • Ecosystems
+
+*   [openFrameworks](https://openframeworks.cc/) \[Cross-platform] - Open source C++ toolkit for creative coding.
+*   [C4](https://www.c4ios.com) \[iOS] - Open-source creative coding framework for iOS.
+*   [hg\_sdf](https://mercury.sexy/hg_sdf/) \[Cross-platform] - GLSL library for building signed distance functions.
+*   [nannou](https://nannou.cc/) \[Cross-platform] - Open-source creative coding framework for the Rust language.
+    \[Cross-platform] - Open-source creative coding framework for the Rust language.
+    \[Cross-platform] - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
+
+### Visual Programming Languages
+
+*   [TouchDesigner](https://www.derivative.ca/) \[Mac, Win] - Visual development platform to create realtime projects.
+*   [Vuo](https://vuo.org/) \[Mac] - Live interactive-media programming environment.
+*   [tooll](https://tooll.io/) \[Win] - Open source tool for creating interactive 3d content and animations.
+*   [Circles](https://circles.software) \[iPhone, iPad, Mac] - Live graphics node editor, powered by AsyncGraphics.
+
+### Sound Programming Languages
+
+*   [SuperCollider](https://supercollider.github.io/) \[Multi-platform] - Platform for audio synthesis and algorithmic composition.
+*   [ChucK](https://chuck.cs.princeton.edu/) - Strongly-timed, concurrent, and on-the-fly music programming language.
+*   [Sonic Pi](https://sonic-pi.net/) - The live coding music synth for everyone.
+
+### Web Programming • Libraries
+
+*   [Stackgl](https://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
+*   [Paper.js](https://paperjs.org/) - The swiss army knife of vector graphics scripting.
+*   [Pixi.js](https://www.pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
+*   [Fabric.js](https://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
+*   [Sketch.js](https://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
+
+### Articles • Tutorials / Other
+
+*   [Amit's Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
+
+## [2. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+
+### data
+
+*   [zg3d](https://data.zagreb.hr/dataset/zg3d-2022-3d-model-gz): 3D models of existing buildings in the City of Zagreb, Croatia in GeoJSON (CSV and Excel also available).
+
+## [3. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+
+### ⚙️ Middlewares / 🌱 Third Party
+
+*   [newrelic/go-agent (⭐790)](https://github.com/newrelic/go-agent/tree/master/v3/integrations/nrfiber) - Official New Relic middleware for Fiber that manages instrumentation for New Relic monitoring.
+
+## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+
+### Tools / Community providers
+
+*   [TerraForce](https://terraforce.henrybravo.nl) - A policy enforcement tool for Terraform that ensures consistency and compliance through lifecycle policy checks, flexible policy definitions, and CI/CD integration.
+
+## [5. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
 
 ### Guides / Intermediate
 
 *   📰 [Using Kustomize Components with Cluster API](https://blog.scottlowe.org/2021/11/01/using-kustomize-components-with-cluster-api/) - A clear use case of using Kustomize Components.
 
-## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Ports to other languages
 
@@ -20,43 +90,43 @@
 *   [Langchain (⭐864)](https://github.com/brainlid/langchain): Elixir implementation of a LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/brainlid/langchain?style=social)
 *   [Langchain-rust (⭐923)](https://github.com/Abraxas-365/langchain-rust): LangChain for Rust ![GitHub Repo stars](https://img.shields.io/github/stars/Abraxas-365/langchain-rust?style=social)
 
-## [3. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [7. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Frameworks/Engines/Libraries / IOS
 
 *   [Ikemen GO (⭐1k)](https://github.com/ikemen-engine/Ikemen-GO/) - An open-source fighting game engine that supports MUGEN resources. Written in Go.
 
-## [4. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Networking
 
 *   [ApFree WiFiDog (⭐873)](https://github.com/liudf0716/apfree-wifidog) - A high performance and lightweight captive portal solution for wireless networks. It leverages eBPF for traffic control and deep packet inspection capabilities, with plans to gradually replace nftables firewall functionality with eBPF-based solutions.
 
-## [5. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [9. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Online editors
 
 *   [Crixet](https://app.crixet.com) - Online editor with realtime collaboration features.
 
-## [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [10. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / Helpers
 
 *   [tfupdate (⭐589)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
 
-## [7. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [11. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Deployment and Infrastructure
 
 *   [docker-to-iac (⭐17)](https://github.com/deploystackio/docker-to-iac) - Translate docker run and commit into Infrastructure as Code templates for AWS, Render.com and DigitalOcean by [@DeployStack](https://github.com/deploystackio)
 
-## [8. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [12. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
 *   [zerocfg (⭐154)](https://github.com/chaindead/zerocfg) - Zero-effort, concise configuration management that avoids boilerplate and repetitive code, supports multiple sources with priority overrides.
 
-## [9. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [13. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / API Testing
 
@@ -71,7 +141,7 @@
 
 *   [Load Testing Hub Panel (⭐17)](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
 
-## [10. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [14. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Objective-C
 
@@ -81,7 +151,7 @@
 
 *   [adp (⭐4)](https://github.com/HectareaGalbis/adp) -  Common Lisp documentation generator using Scribble files. [MIT](https://opensource.org/licenses/MIT).
 
-## [11. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [15. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -130,7 +200,7 @@
 *   [NDJSON (⭐738) (⭐732)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐392) (⭐389)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [12. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [16. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Docs / Official Docs
 
@@ -147,31 +217,31 @@
 
 *   [Smallweb](https://www.smallweb.run/) - A personal cloud contained in a single directory. You can customize the server behavior using Deno.
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Other Free Resources
 
 *   [Axonomy App](https://axonomy-app.com/) - A free tool to create, manage and share your invoices with your clients. 10 free invoices per month.
 
-## [14. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [8bitcn UI](https://8bitcn.com) - Re-usable retro components built using Shadcn UI and Tailwind CSS.
 
-## [15. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [19. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
 *   [Note API Connector](https://noteapiconnector.com/) - Import and sync any API into Notion with a few clicks.
 
-## [16. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [20. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Editors & IDEs & Explorers / React
 
 *   [Hackolade](https://studio.hackolade.com/) - Visual GraphQL schema editor to generate Schema Definition Language files without any knowledge of the GraphQL syntax. Also visualize and document existing endpoints with introspection.  Additional info and instructions [here](https://hackolade.com/help/GraphQL.html)
 
-## [17. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [21. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Backups
 
@@ -200,7 +270,7 @@
 *   [NServiceBus.Transport.PostgreSql (⭐44)](https://github.com/Particular/NServiceBus.SqlServer) - The NServiceBus.Transport.PostgreSql library allows .NET developers to [use a PostgreSQL database as a message broker](https://docs.particular.net/transports/postgresql). (Commerical Software)
 *   [planter (⭐552)](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
 
-## [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -258,7 +328,7 @@
 
 *   `CAL-1.0` - [Cryptographic Autonomy License 1.0](https://spdx.org/licenses/CAL-1.0.html)
 
-## [19. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / API Development and Analysis
 
@@ -272,7 +342,7 @@
 
 *   [DNS Optimizer](https://www.appecosys.com/apps/dns-optimizer/) - A DNS changer and performance‑benchmarking tool for Apple devices (macOS & iOS). ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/dns-optimizer/id6741016224?platform=mac)
 
-## [20. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [24. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Browsers
 
@@ -305,7 +375,7 @@
 *   [HWiNFO](https://www.hwinfo.com/) - Comprehensive Hardware Analysis, Monitoring and Reporting for Windows and DOS.
 *   [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/localsend/localsend)
 
-## [21. Topics](/content/selvaklnc/topics/week/README.md)
+## [25. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### General Posts
 
@@ -313,13 +383,13 @@
 *   [6 Blogs That’ll Actually Help You Get Smarter About Money, Business, and Marketing](https://medium.com/@selvakumarankrishnan/6-blogs-thatll-actually-help-you-get-smarter-about-money-business-and-marketing-805d02c5ae1d)
 *   [Top 8 Blogs for Personal Finance Literacy, Marketing Tips and Business Motivation](https://www.tumblr.com/magazinechronicles/782631471133458432/top-8-blogs-for-personal-finance-literacy?source=share)
 
-## [22. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [26. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / Other Good Places to Find Papers
 
 *   [alphaXiv](https://www.alphaxiv.org/) (Adds a discussion layer; replace "arxiv" with "alphaxiv" in an arXiv paper URL)
 
-## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Debugging
 
@@ -333,7 +403,7 @@
 
 *   [orx-parallel](https://crates.io/crates/orx-parallel) - High performance, configurable and expressive parallel computation library.
 
-## [24. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Node / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
