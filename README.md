@@ -256,6 +256,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Stackgl](https://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 *   [Paper.js](https://paperjs.org/) - The swiss army knife of vector graphics scripting.
 *   [Pixi.js](https://www.pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
+*   [xeokit](https://xeokit.io/) - JavaScript Web Graphics (WebGL) SDK for AEC/BIM/GIS applications supporting 3D-tiles, global coordinates, double precision.
 *   [Fabric.js](https://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
 *   [Sketch.js](https://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
 
