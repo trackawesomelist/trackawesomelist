@@ -1,12 +1,97 @@
 # Awesome List Updates on May 12 - May 18, 2025
 
-28 awesome lists updated this week.
+33 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [1. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+
+### Job boards aggregators
+
+*   [tokenjobs.io](https://tokenjobs.io?remote=true) A web3 job aggregator where jobs can be filtered based on keywords, locations, languages and contract types. Anyone can publish a job offer.
+
+### Interviewing
+
+*   [Easyclimbtech](https://www.easyclimb.tech/) - $99 mock interviews with a FAANG mentor, also free P2P mock interviews
+
+## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Domain Specific Language / Imperative DSL Applications
+
+*   [Reproducibility in automated chemistry laboratories using computer science abstractions](https://www.nature.com/articles/s44160-024-00649-8) - ***Nature Synthesis***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=2583939834455194329)]. While abstraction is critical for the transferability of automated laboratory science in (bio)chemical and materials sciences, its improper implementation is a technical debt taken against the reproducibility of experimental results. Over the decades, computer science has developed guidelines and strategies for how abstractions are captured in programming languages---particularly concerning the substitutability of implementations of abstracted ideas and the clear definition of the contexts in which abstractions are used. However, few programming languages developed for automated experiments fully leverage the wisdom learned in computer science. To achieve collaborative sharing of scientific knowledge via automated laboratories, the way that experimental protocols are codified and interpreted by machine agents must use abstractions responsibly and with reproducibility, rather than solely transferability, at its core. This Review discusses how computer science principles of abstraction can be translated to create more reproducible automation as an enabler for the acceleration of collaborative research with self-driving laboratories.
+
+## [3. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+
+### Speciality Search Engines
+
+*   [Censys](https://search.censys.io/) - Searcher that monitors and analyzes devices.
+*   [Fofa](https://en.fofa.info/) - Asset search and analysis tool.
+
+### Pastebins
+
+*   [BeanPaste](https://beanpaste.fun/) - A tiny way to share text.
+*   [Cryptobin](https://cryptobin.co/) - The Ultimate Secure Pastebin
+*   [lesma.eu](https://lesma.eu/) - Simple paste app friendly with browser and command line.
+*   [PastBin.net](https://pastbin.net/) - Similar to Pastebin website where you can store code/text online for a set period of time and share to anyone anywhere. Search Option Available.
+*   [Pastebin](https://pastebin.pl/) - Store code/text online for a set period of time and share to anybody on earth.
+*   [Paste.Monster](https://paste.monster/) - Share your thoughts online. API Available.
+*   [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
+*   [snippet.host](https://snippet.host/) - Minimal text and code snippet hosting.
+*   [TextBin](https://textbin.net/) - Secure pastebin where you can paste and store any type of text or code snippets online and share it with your friends.
+*   [Textbin-Code](https://textbin.online/) - SECURE YOUR CODE!
+*   [Verybin](https://www.verybin.com/) - Anonymous and encrypted pastebin. Data is encrypted/decrypted in the browser using 256 bits AES and no IP address logged.
+*   [ZBin](https://zbin.dev/) - Private & Secure Pastebin.
+
+### Social Media Tools / Telegram
+
+*   [Telegram Channel Joiner (⭐1)](https://github.com/spmedia/Telegram-Channel-Joiner) - grow your Free and Premium Telegram accounts easily with this channel joiner script.
+*   [Telegram channels scraper TeleGraphite  (⭐105)](https://github.com/hamodywe/telegram-scraper-TeleGraphite) - Telegram Scraper & JSON Exporter & telegram channels scraper.
+
+### Email Search / Email Check / Steam
+
+*   [Minerva OSINT](https://minervaosint.com) - Email search tool that finds and aggregates data on a target email from over a hundred websites.
+
+### Domain and IP Research / Steam
+
+*   [Crypto Scam & Crypto Phishing URL Threat Intel Feed (⭐23)](https://github.com/spmedia/Crypto-Scam-and-Crypto-Phishing-Threat-Intel-Feed) - A fresh feed of crypto phishing and crypto scam websites. Automatically updated daily.
+
+## [4. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+
+### Plugins / Code Quality
+
+*   [De Morgan (⭐270)](https://github.com/azat-io/eslint-plugin-de-morgan) - Transforms logical expressions in code to make them easier to understand.
+
+### Plugins / CSS in JS
+
+*   [vanilla-extract (⭐20)](https://github.com/antebudimir/eslint-plugin-vanilla-extract) - An ESLint plugin for enforcing CSS property ordering in [vanilla-extract CSS (⭐9.9k)](https://github.com/vanilla-extract-css/vanilla-extract) styles.
+
+### Plugins / Frameworks
+
+*   React
+    *   [JSX a11y (⭐3.5k)](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements.
+    *   [React (⭐9.2k)](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX.
+    *   [React Hooks (⭐235k)](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) - Linting rules for React Hooks.
+    *   [React Native (⭐740)](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules.
+    *   [React-Redux (⭐83)](https://github.com/DianaSuvorova/eslint-plugin-react-redux) - React-Redux specific linting rules.
+
+### Plugins / Style
+
+*   [split-and-sort-imports (⭐0)](https://github.com/sngn/eslint-plugin-split-and-sort-imports) - Sorts imports and splits 'multiple' imports into single line imports.
+*   [@gitbutler/no-relative-imports](https://www.npmjs.com/package/@gitbutler/no-relative-imports) - Use paths from tsconfig and auto fix relative paths to aliases. Observes tsconfig inheritance.
+
+### Tutorials / Testing Tools
+
+*   [Dear Old ESLint](https://adropincalm.com/blog/dear-old-eslint/) - Quick intro article on ESLint.
+
+## [5. Magictools](/content/ellisonleao/magictools/week/README.md)
+
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: [PyGame-CE](https://pyga.me/docs/index.html) - Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
+
+## [6. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Books
 
@@ -58,31 +143,31 @@
 
 *   [Amit's Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
 
-## [2. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [7. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### data
 
 *   [zg3d](https://data.zagreb.hr/dataset/zg3d-2022-3d-model-gz): 3D models of existing buildings in the City of Zagreb, Croatia in GeoJSON (CSV and Excel also available).
 
-## [3. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [8. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [newrelic/go-agent (⭐790)](https://github.com/newrelic/go-agent/tree/master/v3/integrations/nrfiber) - Official New Relic middleware for Fiber that manages instrumentation for New Relic monitoring.
 
-## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [9. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Tools / Community providers
 
 *   [TerraForce](https://terraforce.henrybravo.nl) - A policy enforcement tool for Terraform that ensures consistency and compliance through lifecycle policy checks, flexible policy definitions, and CI/CD integration.
 
-## [5. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
+## [10. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
 
 ### Guides / Intermediate
 
 *   📰 [Using Kustomize Components with Cluster API](https://blog.scottlowe.org/2021/11/01/using-kustomize-components-with-cluster-api/) - A clear use case of using Kustomize Components.
 
-## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [11. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Ports to other languages
 
@@ -90,43 +175,43 @@
 *   [Langchain (⭐864)](https://github.com/brainlid/langchain): Elixir implementation of a LangChain ![GitHub Repo stars](https://img.shields.io/github/stars/brainlid/langchain?style=social)
 *   [Langchain-rust (⭐923)](https://github.com/Abraxas-365/langchain-rust): LangChain for Rust ![GitHub Repo stars](https://img.shields.io/github/stars/Abraxas-365/langchain-rust?style=social)
 
-## [7. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [12. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
 
 ### Frameworks/Engines/Libraries / IOS
 
 *   [Ikemen GO (⭐1k)](https://github.com/ikemen-engine/Ikemen-GO/) - An open-source fighting game engine that supports MUGEN resources. Written in Go.
 
-## [8. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [13. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Networking
 
 *   [ApFree WiFiDog (⭐873)](https://github.com/liudf0716/apfree-wifidog) - A high performance and lightweight captive portal solution for wireless networks. It leverages eBPF for traffic control and deep packet inspection capabilities, with plans to gradually replace nftables firewall functionality with eBPF-based solutions.
 
-## [9. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [14. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Online editors
 
 *   [Crixet](https://app.crixet.com) - Online editor with realtime collaboration features.
 
-## [10. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [15. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / Helpers
 
 *   [tfupdate (⭐589)](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
 
-## [11. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
+## [16. Awesome Docker](/content/veggiemonk/awesome-docker/week/README.md)
 
 ### Deployment and Infrastructure
 
 *   [docker-to-iac (⭐17)](https://github.com/deploystackio/docker-to-iac) - Translate docker run and commit into Infrastructure as Code templates for AWS, Render.com and DigitalOcean by [@DeployStack](https://github.com/deploystackio)
 
-## [12. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [17. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Configuration
 
 *   [zerocfg (⭐154)](https://github.com/chaindead/zerocfg) - Zero-effort, concise configuration management that avoids boilerplate and repetitive code, supports multiple sources with priority overrides.
 
-## [13. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [18. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / API Testing
 
@@ -141,7 +226,7 @@
 
 *   [Load Testing Hub Panel (⭐17)](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
 
-## [14. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [19. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Objective-C
 
@@ -151,25 +236,26 @@
 
 *   [adp (⭐4)](https://github.com/HectareaGalbis/adp) -  Common Lisp documentation generator using Scribble files. [MIT](https://opensource.org/licenses/MIT).
 
-## [15. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [20. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
-*   [WSO2 API Manager (⭐889) (⭐886)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+*   [Gravitee.io API Management (⭐248) (⭐248)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [WSO2 API Manager (⭐893) (⭐893)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐913) (⭐906)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [Zally (⭐920) (⭐921)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+*   [OpenAPI Diff (⭐919) (⭐919)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [Zally (⭐920) (⭐920)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
 ### Projects / API Documentation
 
-*   [OpenAPI Explorer (⭐330) (⭐325)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
-*   [Zudoku (⭐187) (⭐177)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+*   [OpenAPI Explorer (⭐330) (⭐330)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
+*   [Zudoku (⭐191) (⭐191)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 ### Projects / API Gateway
 
-*   [Gloo Edge (⭐88) (⭐85)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
+*   [Gloo Edge (⭐88) (⭐89)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
 
 ### Projects / BRE
 
@@ -177,7 +263,7 @@
 
 ### Projects / Data Mapping Solution
 
-*   [JSLT (⭐658) (⭐657)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
+*   [JSLT (⭐658) (⭐658)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
 
 ### Projects / ETL
 
@@ -189,7 +275,12 @@
 
 ### Projects / Self-Service Integration
 
-*   [n8n (⭐89k) (⭐88k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+*   [n8n (⭐91k) (⭐88k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+
+### Projects / Workflow engine
+
+*   [Bonita (⭐166) (⭐166)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
+*   [Camunda (⭐4.2k) (⭐4.2k)](https://github.com/camunda/camunda-bpm-platform) - Flexible workflow and decision automation platform designed for scalable business process management.
 
 ### Resources / API Specification
 
@@ -197,10 +288,10 @@
 
 ### Resources / Data Formats
 
-*   [NDJSON (⭐738) (⭐732)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐392) (⭐389)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+*   [NDJSON (⭐738) (⭐738)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [YAML (⭐392) (⭐393)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [16. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [21. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Docs / Official Docs
 
@@ -217,31 +308,35 @@
 
 *   [Smallweb](https://www.smallweb.run/) - A personal cloud contained in a single directory. You can customize the server behavior using Deno.
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### BaaS
+
+*   [Claw.cloud](https://run.claw.cloud) - A PaaS platform offering $5/month in free credits for users with a GitHub account older than 180 days. Perfect for hosting apps, databases, and more. ([Signup Link with free credit](https://ap-southeast-1.run.claw.cloud/signin)).
 
 ### Other Free Resources
 
 *   [Axonomy App](https://axonomy-app.com/) - A free tool to create, manage and share your invoices with your clients. 10 free invoices per month.
 
-## [18. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
+## [23. Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/week/README.md)
 
 ### UI Libraries, Components & Templates
 
 *   🧩 [8bitcn UI](https://8bitcn.com) - Re-usable retro components built using Shadcn UI and Tailwind CSS.
 
-## [19. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [24. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### Automation
 
 *   [Note API Connector](https://noteapiconnector.com/) - Import and sync any API into Notion with a few clicks.
 
-## [20. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [25. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### Tools - Editors & IDEs & Explorers / React
 
 *   [Hackolade](https://studio.hackolade.com/) - Visual GraphQL schema editor to generate Schema Definition Language files without any knowledge of the GraphQL syntax. Also visualize and document existing endpoints with introspection.  Additional info and instructions [here](https://hackolade.com/help/GraphQL.html)
 
-## [21. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [26. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / Backups
 
@@ -270,7 +365,7 @@
 *   [NServiceBus.Transport.PostgreSql (⭐44)](https://github.com/Particular/NServiceBus.SqlServer) - The NServiceBus.Transport.PostgreSql library allows .NET developers to [use a PostgreSQL database as a message broker](https://docs.particular.net/transports/postgresql). (Commerical Software)
 *   [planter (⭐552)](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
 
-## [22. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -328,7 +423,7 @@
 
 *   `CAL-1.0` - [Cryptographic Autonomy License 1.0](https://spdx.org/licenses/CAL-1.0.html)
 
-## [23. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [28. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / API Development and Analysis
 
@@ -342,7 +437,7 @@
 
 *   [DNS Optimizer](https://www.appecosys.com/apps/dns-optimizer/) - A DNS changer and performance‑benchmarking tool for Apple devices (macOS & iOS). ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/dns-optimizer/id6741016224?platform=mac)
 
-## [24. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [29. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Browsers
 
@@ -375,7 +470,7 @@
 *   [HWiNFO](https://www.hwinfo.com/) - Comprehensive Hardware Analysis, Monitoring and Reporting for Windows and DOS.
 *   [LocalSend](https://localsend.org/) - Free, open-source and cross-platform app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/localsend/localsend)
 
-## [25. Topics](/content/selvaklnc/topics/week/README.md)
+## [30. Topics](/content/selvaklnc/topics/week/README.md)
 
 ### General Posts
 
@@ -383,13 +478,13 @@
 *   [6 Blogs That’ll Actually Help You Get Smarter About Money, Business, and Marketing](https://medium.com/@selvakumarankrishnan/6-blogs-thatll-actually-help-you-get-smarter-about-money-business-and-marketing-805d02c5ae1d)
 *   [Top 8 Blogs for Personal Finance Literacy, Marketing Tips and Business Motivation](https://www.tumblr.com/magazinechronicles/782631471133458432/top-8-blogs-for-personal-finance-literacy?source=share)
 
-## [26. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
+## [31. Papers We Love](/content/papers-we-love/papers-we-love/week/README.md)
 
 ### Info / Other Good Places to Find Papers
 
 *   [alphaXiv](https://www.alphaxiv.org/) (Adds a discussion layer; replace "arxiv" with "alphaxiv" in an arXiv paper URL)
 
-## [27. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [32. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Debugging
 
@@ -403,7 +498,11 @@
 
 *   [orx-parallel](https://crates.io/crates/orx-parallel) - High performance, configurable and expressive parallel computation library.
 
-## [28. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [33. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [mcp-angular-cli (⭐1)](https://github.com/talzach/mcp-angular-cli) - A Model Context Protocol server that provides Angular CLI and workspace automation capabilities. This server enables LLMs and agents to interact with Angular projects, generate components/services, add packages, create new workspaces, and run custom architect targets via the Angular CLI.
 
 ### Node / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -412,6 +511,10 @@
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [zero-angular (⭐1)](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
+
+### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@storybookjs/testing-angular (⭐16)](https://github.com/storybookjs/testing-angular) - Testing utilities that allow you to reuse your stories in your unit tests.
 
 ### Cookies / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -443,6 +546,10 @@
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [mantic-ui (⭐3)](https://github.com/KY-Programming/mantic-ui) - Angular components for [Semantic UI](https://semantic-ui.com/) and [Fomantic UI](https://fomantic-ui.com/).
+
+### Bootstrap Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ez-nav (⭐1)](https://github.com/pSkywalker/ez-nav) - A config-driven, responsive Angular navigation bar that integrates seamlessly with Bootstrap layouts.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

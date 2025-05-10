@@ -2,9 +2,15 @@
 
 A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 95K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ripienaar/free-for-dev/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) · ⭐ 96K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
+
+## [May 10, 2025](/content/2025/05/10/README.md)
+
+### BaaS
+
+*   [Claw.cloud](https://run.claw.cloud) - A PaaS platform offering $5/month in free credits for users with a GitHub account older than 180 days. Perfect for hosting apps, databases, and more. ([Signup Link with free credit](https://ap-southeast-1.run.claw.cloud/signin)).
 
 ## [May 07, 2025](/content/2025/05/07/README.md)
 
@@ -34,7 +40,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
-*   [Mock N Roll](https://mpcknroll.me/) - Free Mocks API Service—a powerful tool to simulate real API responses without backend delays. Perfect for frontend devs, QA testers, and DevOps teams. [repo (⭐4)](https://github.com/haerulmuttaqin/mocknroll-web).
+*   [Mock N Roll](https://mpcknroll.me/) - Free Mocks API Service—a powerful tool to simulate real API responses without backend delays. Perfect for frontend devs, QA testers, and DevOps teams. [repo (⭐5)](https://github.com/haerulmuttaqin/mocknroll-web).
 
 ### Translation Management
 
@@ -113,7 +119,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐1.3k)](https://github.com/langwatch/langwatch)
+*   [LangWatch](https://langwatch.ai) - A LLMOps platform helping AI teams measure, monitor, and optimize LLM applications for reliability, cost-efficiency, and performance. With a powerful DSPy component, we enable seamless collaboration between engineers and non-technical teams to fine-tune and productionize GenAI products. Free plan includes all platform features, 1k traces/month and 1 workflow DSPy optimizers. [#opensource (⭐1.8k)](https://github.com/langwatch/langwatch)
 
 ## [Mar 12, 2025](/content/2025/03/12/README.md)
 
@@ -302,7 +308,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Email
 
-*   [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source (⭐6.5k)](https://github.com/tutao/tutanota), so you can self-host.
+*   [Tuta](https://tuta.com/) - Free secure email account service provider with built-in end-to-end encryption, no ads, no tracking. Free 1GB storage, one calendar (Tuta also have an [paid plan](https://tuta.com/pricing).). Tuta is also partially [open source (⭐6.6k)](https://github.com/tutao/tutanota), so you can self-host.
 
 ## [Dec 06, 2024](/content/2024/12/06/README.md)
 
@@ -388,7 +394,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐1.7k)](https://github.com/pollinations/pollinations)
+*   [Pollinations.AI](https://pollinations.ai/) - easy-to-use, free image generation AI with free API available. No signups or API keys required, and several option for integrating into a website or workflow. [#opensource (⭐1.8k)](https://github.com/pollinations/pollinations)
 
 ## [Oct 30, 2024](/content/2024/10/30/README.md)
 
@@ -646,12 +652,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Other Free Resources
 
 *   [MySQL Visual Explain](https://mysqlexplain.com) - Easy-to-understand and free MySQL EXPLAIN output visualizer to optimize slow queries.
-
-## [Aug 18, 2024](/content/2024/08/18/README.md)
-
-### Generative AI
-
-*   [Ultra AI](https://ultraai.app) - AI command center for your product. Features include multi-provider AI gateway, prompts manager, caching, logs, analytics, model fallbacks and user rate limiting. Free forever plan offers 10k+ requests per month and all the features except caching.
 
 ## [Aug 15, 2024](/content/2024/08/15/README.md)
 
@@ -3404,10 +3404,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Jan 17, 2022](/content/2022/01/17/README.md)
 
-### APIs, Data, and ML
-
-*   [Bruzu](https://bruzu.com/) — Automate Image production. Generate tons of Image variants with API, Integrations, or nocode sheet. API is FREE with a watermark.
-
 ### Messaging and Streaming
 
 *   [eyeson API](https://developers.eyeson.team/) - A video communication API service based on WebRTC (SFU, MCU) to build video platforms. Allows real-time data Injection, Video Layouts, Recordings, a fully featured hosted web UI (quickstart) or packages for custom UIs. Has a [free tier for developers](https://apiservice.eyeson.com/api-pricing) with 1000 meeting minutes a month.
@@ -3492,7 +3488,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
-*   [Public-Apis Github Repo (⭐338k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
+*   [Public-Apis Github Repo (⭐339k)](https://github.com/public-apis/public-apis) — A list of free public APIs.
 
 ### Tunneling, WebRTC, Web Socket Servers and Other Routers
 
@@ -6170,7 +6166,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### APIs, Data, and ML
 
-*   [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. The free plan has 5,000 calls per month.
+*   [Clarifai](https://www.clarifai.com) — Image API for custom face recognition and detection. Able to train AI models. The free plan has 1,000 calls per month.
 *   [Diggernaut](https://www.diggernaut.com/) — Cloud-based web scraping and data extraction platform for turning any website to the dataset or working with it as an API. The free plan includes 5K page requests monthly.
 *   [dreamfactory.com](https://dreamfactory.com/) — Open source REST API backend for mobile, web, and IoT applications. Hook up any SQL/NoSQL database, file storage system, or external service, and it instantly creates a comprehensive REST API platform with live documentation and user management.
 *   [MailboxValidator](https://www.mailboxvalidator.com) — Email verification service using real mail server connection to confirm valid email. The free API plan has 300 verifications per month.

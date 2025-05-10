@@ -6,6 +6,20 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [May 10, 2025](/content/2025/05/10/README.md)
+
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [mcp-angular-cli (⭐1)](https://github.com/talzach/mcp-angular-cli) - A Model Context Protocol server that provides Angular CLI and workspace automation capabilities. This server enables LLMs and agents to interact with Angular projects, generate components/services, add packages, create new workspaces, and run custom architect targets via the Angular CLI.
+
+### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@storybookjs/testing-angular (⭐16)](https://github.com/storybookjs/testing-angular) - Testing utilities that allow you to reuse your stories in your unit tests.
+
+### Bootstrap Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ez-nav (⭐1)](https://github.com/pSkywalker/ez-nav) - A config-driven, responsive Angular navigation bar that integrates seamlessly with Bootstrap layouts.
+
 ## [May 09, 2025](/content/2025/05/09/README.md)
 
 ### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

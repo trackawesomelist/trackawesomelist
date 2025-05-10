@@ -6,6 +6,12 @@
 
 [ [Daily](/content/ellisonleao/magictools/README.md) / Weekly / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [May 12 - May 18, 2025](/content/2025/19/README.md)
+
+### Engines and Frameworks / Voxel Editors
+
+*   :tada: [PyGame-CE](https://pyga.me/docs/index.html) - Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
+
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
 ### Engines and Frameworks / Voxel Editors
@@ -30,7 +36,7 @@
 
 ### Graphics / Modeling
 
-*   :free [Canvascript (⭐85)](https://github.com/VBproDev/Canvascript) - A tool for creating HTML canvas graphics without writing code.
+*   :free: [Canvascript (⭐85)](https://github.com/VBproDev/Canvascript) - A tool for creating HTML canvas graphics without writing code.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
@@ -196,7 +202,7 @@
 
 ### Graphics / Tile/Level Editors
 
-*   :tada: [Material Maker (⭐3.9k)](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
+*   :tada: [Material Maker (⭐4k)](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
 
 ### Graphics / Animation
 
@@ -472,7 +478,7 @@
 *   :tada: [GDevelop](https://gdevelop-app.com/) - An open-source, cross-platform 2D game engine designed for everyone - it's extensible, fast and easy to learn.
 *   :tada: [ggez](http://ggez.rs/) - A Rust library to create Good Games Easily.
 *   :tada: [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
-*   :tada: [Glide Engine (⭐498)](https://github.com/cocoatoucher/Glide) - Engine for making 2d games on iOS, macOS and tvOS in Swift programming language, with practical examples and tutorials.
+*   :tada: [Glide Engine (⭐499)](https://github.com/cocoatoucher/Glide) - Engine for making 2d games on iOS, macOS and tvOS in Swift programming language, with practical examples and tutorials.
 *   :tada: [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine.
 *   :tada: [Gorgon](https://www.tape-worm.net/) - A 2D rendering API for .NET, written in C#.
 *   :tada: [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
@@ -520,7 +526,6 @@
 *   :money\_with\_wings: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
 *   :tada: [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 *   :tada: [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
-*   :tada: [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
 *   :moneybag: [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
 *   :tada: [Rajawali (⭐2.4k)](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 *   :tada: [raylib](https://www.raylib.com/) - a simple and easy-to-use library to enjoy videogames programming, hardware accelerated with OpenGL (1.1, 2.1, 3.3 or ES 2.0)

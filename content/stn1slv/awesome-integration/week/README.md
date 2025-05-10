@@ -2,7 +2,7 @@
 
 A curated list of awesome system integration software and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stn1slv/awesome-integration/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) · ⭐ 436 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stn1slv/awesome-integration/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) · ⭐ 441 · 🏷️ Platforms
 
 [ [Daily](/content/stn1slv/awesome-integration/README.md) / Weekly / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
@@ -10,21 +10,22 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Management
 
-*   [WSO2 API Manager (⭐889) (⭐886)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+*   [Gravitee.io API Management (⭐248) (⭐248)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [WSO2 API Manager (⭐893) (⭐893)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐913) (⭐906)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [Zally (⭐920) (⭐921)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
+*   [OpenAPI Diff (⭐919) (⭐919)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [Zally (⭐920) (⭐920)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
 ### Projects / API Documentation
 
-*   [OpenAPI Explorer (⭐330) (⭐325)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
-*   [Zudoku (⭐187) (⭐177)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+*   [OpenAPI Explorer (⭐330) (⭐330)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
+*   [Zudoku (⭐191) (⭐191)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 ### Projects / API Gateway
 
-*   [Gloo Edge (⭐88) (⭐85)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
+*   [Gloo Edge (⭐88) (⭐89)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
 
 ### Projects / BRE
 
@@ -32,7 +33,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Data Mapping Solution
 
-*   [JSLT (⭐658) (⭐657)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
+*   [JSLT (⭐658) (⭐658)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
 
 ### Projects / ETL
 
@@ -44,7 +45,12 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Self-Service Integration
 
-*   [n8n (⭐89k) (⭐88k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+*   [n8n (⭐91k) (⭐88k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+
+### Projects / Workflow engine
+
+*   [Bonita (⭐166) (⭐166)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
+*   [Camunda (⭐4.2k) (⭐4.2k)](https://github.com/camunda/camunda-bpm-platform) - Flexible workflow and decision automation platform designed for scalable business process management.
 
 ### Resources / API Specification
 
@@ -52,14 +58,10 @@ A curated list of awesome system integration software and resources.
 
 ### Resources / Data Formats
 
-*   [NDJSON (⭐738) (⭐732)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-*   [YAML (⭐392) (⭐389)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+*   [NDJSON (⭐738) (⭐738)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [YAML (⭐392) (⭐393)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 ## [May 05 - May 11, 2025](/content/2025/18/README.md)
-
-### Projects / API Management
-
-*   [Gravitee.io API Management (⭐247) (⭐244)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
 
 ### Projects / API Gateway
 
@@ -92,7 +94,7 @@ A curated list of awesome system integration software and resources.
 ### Projects / API Testing
 
 *   Testing tools and frameworks
-    *   [Apache JMeter (⭐8.7k) (⭐8.7k)](https://github.com/apache/jmeter) - A feature-rich tool for load testing and performance analysis across diverse web applications and services.
+    *   [Apache JMeter (⭐8.7k) (⭐8.8k)](https://github.com/apache/jmeter) - A feature-rich tool for load testing and performance analysis across diverse web applications and services.
     *   [Gatling (⭐6.6k) (⭐6.6k)](https://github.com/gatling/gatling) - A powerful load testing framework with a developer-friendly DSL that delivers detailed performance metrics.
     *   [Karate (⭐8.5k) (⭐8.5k)](https://github.com/karatelabs/karate) - A unified testing framework that merges API automation, mocking, and performance testing with simple, expressive syntax.
     *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - A Python-based testing tool offering easy YAML/JSON-driven REST API testing and microbenchmarking.
@@ -112,22 +114,22 @@ A curated list of awesome system integration software and resources.
 
 *   [Apache Qpid (⭐58) (⭐58)](https://github.com/apache/qpid-broker-j) - AMQP-compliant messaging tool with multi-language support for enterprise-grade message delivery.
 *   [Centrifugo (⭐8.9k) (⭐8.9k)](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server that minimizes delay in delivering events to online users.
-*   [Eclipse Mosquitto (⭐9.6k) (⭐9.6k)](https://github.com/eclipse/mosquitto) - Lightweight MQTT broker optimized for low-power devices with robust encryption and authentication.
+*   [Eclipse Mosquitto (⭐9.6k) (⭐9.7k)](https://github.com/eclipse/mosquitto) - Lightweight MQTT broker optimized for low-power devices with robust encryption and authentication.
 
 ### Projects / Workflow engine
 
 *   [Cadence (⭐8.6k) (⭐8.6k)](https://github.com/uber/cadence) - Fault-tolerant, stateful platform that reliably orchestrates long-running workflows and complex applications.
-*   [Elsa Core (⭐7k) (⭐7k)](https://github.com/elsa-workflows/elsa-core) - .NET Core library that integrates seamlessly into any application to execute and manage workflows.
+*   [Elsa Core (⭐7k) (⭐7.1k)](https://github.com/elsa-workflows/elsa-core) - .NET Core library that integrates seamlessly into any application to execute and manage workflows.
 *   [Prefect (⭐19k) (⭐19k)](https://github.com/PrefectHQ/prefect) - Modern, developer-friendly orchestration tool optimized for data pipelines and complex workflows.
 
 ### Resources / API Specification
 
-*   [CloudEvents (⭐5.3k) (⭐5.3k)](https://github.com/cloudevents/spec) -  A specification for describing event data in common formats to provide interoperability across services, platforms and systems.
+*   [CloudEvents (⭐5.3k) (⭐5.4k)](https://github.com/cloudevents/spec) -  A specification for describing event data in common formats to provide interoperability across services, platforms and systems.
 *   [Standard Webhooks (⭐1.4k) (⭐1.4k)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
 ### Resources / Structure and Validation
 
-*   [JSON Schema (⭐4.2k) (⭐4.2k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
+*   [JSON Schema (⭐4.2k) (⭐4.3k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
 ## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
 
@@ -143,15 +145,15 @@ A curated list of awesome system integration software and resources.
 
 *   Mocking tools
     *   [Hoverfly (⭐2.4k) (⭐2.4k)](https://github.com/SpectoLabs/hoverfly) - A lightweight API simulation tool that enables rapid HTTP(S) service virtualization for efficient testing.
-    *   [Imposter (⭐389) (⭐387)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
+    *   [Imposter (⭐390) (⭐390)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
     *   [Microcks (⭐1.6k) (⭐1.6k)](https://github.com/microcks/microcks) - A Kubernetes-native tool for API mocking and testing that supports AsyncAPI, OpenAPI, and Postman Collections.
     *   [Mockable](https://www.mockable.io/) - An easy-to-configure service for creating custom HTTP responses, ideal for rapid prototyping and testing.
-    *   [Mockbin (⭐106) (⭐105)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
-    *   [Mockoon (⭐7k) (⭐7.1k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
+    *   [Mockbin (⭐106) (⭐106)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
+    *   [Mockoon (⭐7.1k) (⭐7.1k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
     *   [MockServer (⭐4.7k) (⭐4.7k)](https://github.com/mock-server/mockserver) - A powerful solution for mocking any HTTP/HTTPS-based service, streamlining integration testing.
     *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - A free online service that generates custom HTTP responses for testing API endpoints.
     *   [Prism (⭐4.5k) (⭐4.5k)](https://github.com/stoplightio/prism) - An open-source HTTP mock server that replicates API behavior for early testing and validation.
-    *   [WireMock (⭐6.7k) (⭐6.7k)](https://github.com/tomakehurst/wiremock) - A robust and flexible API mocking tool delivering reliable, real-time simulation for comprehensive testing.
+    *   [WireMock (⭐6.7k) (⭐6.8k)](https://github.com/tomakehurst/wiremock) - A robust and flexible API mocking tool delivering reliable, real-time simulation for comprehensive testing.
 
 ### Projects / Data Mapping Solution
 
@@ -167,7 +169,6 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Workflow engine
 
-*   [Bonita (⭐165) (⭐165)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
 *   [StackStorm (⭐6.2k) (⭐6.2k)](https://github.com/StackStorm/st2) - Robust automation engine that combines sensors, triggers, and workflows to orchestrate complex IT processes.
 
 ### Resources / Data Formats
@@ -227,7 +228,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Gateway
 
-*   [Spring Cloud Gateway (⭐4.6k) (⭐4.6k)](https://github.com/spring-cloud/spring-cloud-gateway) - Leverages the Spring ecosystem to deliver robust routing, filtering, and security for microservices.
+*   [Spring Cloud Gateway (⭐4.6k) (⭐4.7k)](https://github.com/spring-cloud/spring-cloud-gateway) - Leverages the Spring ecosystem to deliver robust routing, filtering, and security for microservices.
 
 ### Projects / BRE
 
@@ -387,12 +388,6 @@ A curated list of awesome system integration software and resources.
 
 *   [Apache ActiveMQ (⭐2.3k) (⭐2.4k)](https://github.com/apache/activemq) - Open-source broker that implements JMS, enabling seamless conversion between synchronous and asynchronous messaging.
 
-## [Sep 30 - Oct 06, 2024](/content/2024/40/README.md)
-
-### Projects / Workflow engine
-
-*   [Camunda (⭐4.1k) (⭐4.2k)](https://github.com/camunda/camunda-bpm-platform) - Flexible workflow and decision automation platform designed for scalable business process management.
-
 ## [Aug 26 - Sep 01, 2024](/content/2024/35/README.md)
 
 ### Projects / API Design
@@ -418,9 +413,10 @@ A curated list of awesome system integration software and resources.
     *   [curl (⭐37k) (⭐38k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
     *   [curlie (⭐3.1k) (⭐3.2k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
     *   [HTTPie (⭐35k) (⭐35k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.
+    *   [HttpMaster](https://www.httpmaster.net/) - Free and lightweight desktop tool for HTTP testing and debugging.
     *   [Hoppscotch (⭐71k) (⭐71k)](https://github.com/hoppscotch/hoppscotch) - A lightweight, web-based API development tool offering real-time testing with an intuitive interface.
     *   [Insomnia (⭐36k) (⭐36k)](https://github.com/Kong/insomnia) - A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.
-    *   [posting (⭐8.8k) (⭐8.8k)](https://github.com/darrenburns/posting) - A modern, terminal-based API client designed for efficient and seamless API interactions.
+    *   [posting (⭐8.9k) (⭐8.9k)](https://github.com/darrenburns/posting) - A modern, terminal-based API client designed for efficient and seamless API interactions.
     *   [Postman](https://www.postman.com/product/api-client/) - The industry-standard tool for API development and testing, featuring automation, mock servers, and collaborative documentation.
     *   [resty (⭐2.6k) (⭐2.7k)](https://github.com/micha/resty) - A Lua-based HTTP client framework providing an interactive shell for streamlined REST service testing.
     *   [SoapUI (⭐1.6k) (⭐1.6k)](https://github.com/SmartBear/soapui) - A comprehensive open-source solution for testing both SOAP and REST web services with extensive automation features.

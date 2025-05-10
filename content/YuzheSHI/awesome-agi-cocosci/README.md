@@ -2,9 +2,15 @@
 
 An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci) · ⭐ 317 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/YuzheSHI/awesome-agi-cocosci/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 YuzheSHI/awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci) · ⭐ 322 · 🏷️ Theory
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
+
+## [May 10, 2025](/content/2025/05/10/README.md)
+
+### Domain Specific Language / Imperative DSL Applications
+
+*   [Reproducibility in automated chemistry laboratories using computer science abstractions](https://www.nature.com/articles/s44160-024-00649-8) - ***Nature Synthesis***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=2583939834455194329)]. While abstraction is critical for the transferability of automated laboratory science in (bio)chemical and materials sciences, its improper implementation is a technical debt taken against the reproducibility of experimental results. Over the decades, computer science has developed guidelines and strategies for how abstractions are captured in programming languages---particularly concerning the substitutability of implementations of abstracted ideas and the clear definition of the contexts in which abstractions are used. However, few programming languages developed for automated experiments fully leverage the wisdom learned in computer science. To achieve collaborative sharing of scientific knowledge via automated laboratories, the way that experimental protocols are codified and interpreted by machine agents must use abstractions responsibly and with reproducibility, rather than solely transferability, at its core. This Review discusses how computer science principles of abstraction can be translated to create more reproducible automation as an enabler for the acceleration of collaborative research with self-driving laboratories.
 
 ## [Apr 24, 2025](/content/2025/04/24/README.md)
 
@@ -327,7 +333,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / Declarative DSL Applications
 
-*   [The Scene Language: Representing Scenes with Programs, Words, and Embeddings](https://arxiv.org/abs/2410.16770) - 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=8704845413716059914)]. \[[Project](https://ai.stanford.edu/~yzzhang/projects/scene-language/)]. This paper introduces the Scene Language, a visual scene representation that concisely and precisely describes the structure, semantics, and identity of visual scenes. It represents a scene with three key components: a program that specifies the hierarchical and relational structure of entities in the scene, words in natural language that summarize the semantic class of each entity, and embeddings that capture the visual identity of each entity. This representation can be inferred from pre-trained language models via a training-free inference technique, given text or image inputs.
+*   [The Scene Language: Representing Scenes with Programs, Words, and Embeddings](https://arxiv.org/abs/2410.16770) - ***CVPR'25***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=8704845413716059914)]. \[[Project](https://ai.stanford.edu/~yzzhang/projects/scene-language/)]. This paper introduces the Scene Language, a visual scene representation that concisely and precisely describes the structure, semantics, and identity of visual scenes. It represents a scene with three key components: a program that specifies the hierarchical and relational structure of entities in the scene, words in natural language that summarize the semantic class of each entity, and embeddings that capture the visual identity of each entity. This representation can be inferred from pre-trained language models via a training-free inference technique, given text or image inputs.
 
 ### Methodologies for Experiments / Virtual Reality
 
@@ -443,7 +449,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / Imperative DSL Applications
 
-*   [Building an Open Representation for Biological Protocols](https://dl.acm.org/doi/full/10.1145/3604568) - ***ACM Journal on Emerging Technologies in Computing Systems***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17225405546647782000)]. There is currently no available protocol representation that is unambiguous enough for precise interpretation and automation, yet simultaneously “human friendly” and abstract enough to enable reuse and adaptation. The Laboratory Open Protocol language (LabOP) is a free and open protocol representation aiming to address this gap, building on a foundation of UML, Autoprotocol, Aquarium, SBOL RDF, and the Provenance Ontology. LabOP provides a linked-data representation both for protocols and for records of their execution and the resulting data, as well as a framework for exporting from LabOP for execution by either humans or laboratory automation.
+*   [Building an Open Representation for Biological Protocols](https://dl.acm.org/doi/full/10.1145/3604568) - ***ACM Journal on Emerging Technologies in Computing Systems***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17225405546647782000)]. Laboratory protocols are critical to biological research and development, yet difficult to communicate and reproduce across projects, investigators, and organizations. While many attempts have been made to address this challenge, there is currently no available protocol representation that is unambiguous enough for precise interpretation and automation, yet simultaneously “human friendly” and abstract enough to enable reuse and adaptation. The Laboratory Open Protocol language (LabOP) is a free and open protocol representation aiming to address this gap, building on a foundation of UML, Autoprotocol, Aquarium, SBOL RDF, and the Provenance Ontology. LabOP provides a linked-data representation both for protocols and for records of their execution and the resulting data, as well as a framework for exporting from LabOP for execution by either humans or laboratory automation. LabOP is currently implemented in the form of an RDF knowledge representation, specification document, and Python library, and supports execution as manual “paper protocols,” by Autoprotocol or by Opentrons. From this initial implementation, LabOP is being further developed as an open community effort.
 
 ## [Jul 29, 2024](/content/2024/07/29/README.md)
 
@@ -507,7 +513,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Science Logology / AI Assisted Research
 
 *   [The Impact of Large Language Models on Scientific Discovery: a Preliminary Study using GPT-4](https://arxiv.org/abs/2311.07361) - ***Microsoft Research AI4Science***, 2023. \[[All Versions](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci/blob/master/README.md/)]. \[[Project (⭐69)](https://github.com/microsoft/LLM4ScientificDiscovery)]. A survey on the performance of LLMs within the context of scientific discovery, focusing on GPT-4.
-*   [Artificial Intelligence for Retrosynthetic Planning Needs Both Data and Expert Knowledge](https://pubs.acs.org/doi/full/10.1021/jacs.4c00338) - ***Journal of the American Chemical Society***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=10595951443492961310)]. The development of AI synthesis planners trained solely on reaction-example-data has stagnated and is not on par with the performance of “hybrid” algorithms combining AI with expert knowledge. This Perspective examines possible causes of these shortcomings, extending beyond the established reasoning of insufficient quantities of reaction data. The authors advocate augmenting the unique capabilities of AI with the knowledge base and the reasoning strategies of domain experts.
+*   [Artificial Intelligence for Retrosynthetic Planning Needs Both Data and Expert Knowledge](https://pubs.acs.org/doi/full/10.1021/jacs.4c00338) - ***Journal of the American Chemical Society***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=10595951443492961310)]. The development of AI synthesis planners trained solely on reaction-example-data has stagnated and is not on par with the performance of “hybrid” algorithms combining AI with expert knowledge. This Perspective examines possible causes of these shortcomings, extending beyond the established reasoning of insufficient quantities of reaction data. Drawing attention to the intricacies and data biases that are specific to the domain of synthetic chemistry, the authors advocate augmenting the unique capabilities of AI with the knowledge base and the reasoning strategies of domain experts. By actively involving synthetic chemists, who are the end users of any synthesis planning software, into the development process, the authors envision to bridge the gap between computer algorithms and the intricate nature of chemical synthesis.
 
 ### Theory of Mind / AI Assisted Research
 
@@ -1098,7 +1104,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Bayesian Modeling / Generative Model
 
-*   [Generative Modeling Explained (⭐58)](https://github.com/YuzheSHI/generative-modeling-explained) - ***Statistical Machine Learning Tutorials***, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models.
+*   [Generative Modeling Explained (⭐59)](https://github.com/YuzheSHI/generative-modeling-explained) - ***Statistical Machine Learning Tutorials***, 2022. This tutorial on generative modeling is in part of Statistical Machine Learning Tutorial by Ying Nian Wu at UCLA Statistics. The tutorial goes over the key equations and algorithms for learning recent generative models, including energy-based models, diffusion/score-based models, autoregressive/flow-based models, VAEs, and GANs, and explains the connections between these models.
 
 ## [Jul 12, 2023](/content/2023/07/12/README.md)
 
@@ -1172,7 +1178,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / Declarative DSL Applications
 
-*   [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314)]. A high-level programming language based on modular building blocks that allows a designer to easily compose a set of desired properties. Along with the programming language, there is an energy-based generative model, built on atomic resolution structure prediction with a language model, that realizes all-atom structure designs that have the programmed properties.
+*   [A high-level programming language for generative protein design](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1) - 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=11732741354610784314)]. Combining a basic set of building blocks into more complex forms is a universal design principle. Most protein designs have proceeded from a manual bottom-up approach using parts created by nature, but top-down design of proteins is fundamentally hard due to biological complexity. This work demonstrates how the modularity and programmability long sought for protein design can be realized through generative artificial intelligence. Advanced protein language models demonstrate emergent learning of atomic resolution structure and protein design principles. The authors leverage these developments to enable the programmable design of de novo protein sequences and structures of high complexity. First, the authors describe a high-level programming language based on modular building blocks that allows a designer to easily compose a set of desired properties. The authors then develop an energy-based generative model, built on atomic resolution structure prediction with a language model, that realizes all-atom structure designs that have the programmed properties. Designing a diverse set of specifications, including constraints on atomic coordinates, secondary structure, symmetry, and multimerization, demonstrates the generality and controllability of the approach. Enumerating constraints at increasing levels of hierarchical complexity shows that the approach can access a combinatorially large design space.
 
 ### Science Logology / AI Assisted Research
 
@@ -1698,7 +1704,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Explainability / Strong Machine Learning
 
 *   [Ultra-Strong Machine Learning: comprehensibility of programs learned with ILP](https://link.springer.com/article/10.1007/s10994-018-5707-3) - ***Machine Learning***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=17551060457946144913\&hl=en\&as_sdt=0,5)]. Stephen Muggleton's account of ultra-strong machine learning, which not only learns human understandable knowledge, but also improves human performance on the corresponding tasks.
-*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐618)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
+*   [NBDT: Neural-Backed Decision Trees](https://arxiv.org/abs/2004.00221) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=1902399007162005819\&hl=en\&as_sdt=0,5)]. \[[Code (⭐620)](https://github.com/alvinwan/neural-backed-decision-trees)]. Expliciting the decision process of a decision tree through neural networks.
 
 ### Explainability / Explainable Deep Learning
 
@@ -2025,7 +2031,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Judgment under Uncertainty: Heuristics and Biases: Biases in judgments reveal some heuristics of thinking under uncertainty](https://www.science.org/doi/abs/10.1126/science.185.4157.1124) - ***Science***, 1974. \[[All Versions](https://scholar.google.com/scholar?cluster=17040257859216791312\&hl=en\&as_sdt=0,5)]. Daniel Kahneman's classic idea of prospective theory.
 *   [Computational evidence for hierarchically structured reinforcement learning in humans](https://www.pnas.org/content/117/47/29381.short) - ***Proceedings of the National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=5731363475904675608\&hl=en\&as_sdt=0,5)]. A piece of evidence on hierarchical human planning.
 *   [People construct simplified mental representations to plan](https://www.nature.com/articles/s41586-022-04743-9) - ***Nature***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=12068944400080889789\&hl=en\&as_sdt=0,5)]. A computational account on rational problem representation in human planning.
-*   [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf) - ***Proceedings of the National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923\&hl=en\&as_sdt=0,5)]. \[[Project](https://sites.google.com/view/virtualtoolsgame/home)]. \[[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]. A computational account on rapid trail-and-error problem solving with a noisy prior model.
+*   [Rapid trail-and-error learning with simulation supports flexible tool use and physical reasoning.](https://www.pnas.org/content/pnas/117/47/29302.full.pdf) - ***Proceedings of the National Academy of Sciences***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=14400178089019636923)]. \[[Project](https://sites.google.com/view/virtualtoolsgame/home)]. \[[Appendix](https://www.pnas.org/content/pnas/suppl/2020/11/20/1912341117.DCSupplemental/pnas.1912341117.sapp.pdf)]. Many animals, and an increasing number of artificial agents, display sophisticated capabilities to perceive and manipulate objects. But human beings remain distinctive in their capacity for flexible, creative tool use—using objects in new ways to act on the world, achieve a goal, or solve a problem. To study this type of general physical problem solving, this work introduces the Virtual Tools game. In this game, people solve a large range of challenging physical puzzles in just a handful of attempts. This work proposes that the flexibility of human physical problem solving rests on an ability to imagine the effects of hypothesized actions, while the efficiency of human search arises from rich action priors which are updated via observations of the world. The authors instantiate these components in the “sample, simulate, update” (SSUP) model and show that it captures human performance across 30 levels of the Virtual Tools game. More broadly, this model provides a mechanism for explaining how people condense general physical knowledge into actionable, task-specific plans to achieve flexible and efficient physical problem solving.
 *   [Insightful problem solving and creative tool modification by captive nontool-using rooks](https://www.pnas.org/content/106/25/10370.short) - ***Proceedings of the National Academy of Sciences***, 2009. \[[All Versions](https://scholar.google.com/scholar?cluster=6776471679661065229\&hl=en\&as_sdt=0,5)]. \[[Supplementary Material](https://www.pnas.org/content/suppl/2009/05/28/0901008106.DCSupplemental)]. A piece of evidence on creative tool use in intelligent animals.
 
 ### Problem Solving / Planning
@@ -2226,7 +2232,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Explainability / Explainable Deep Learning
 
-*   [pytorch-grad-cam (⭐11k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
+*   [pytorch-grad-cam (⭐12k)](https://github.com/jacobgil/pytorch-grad-cam) - 2021. Class Activation Map methods implemented in Pytorch, with many elegant features.
 
 ## [May 09, 2022](/content/2022/05/09/README.md)
 
@@ -2285,7 +2291,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Explainability / Strong Machine Learning
 
-*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐939)](https://github.com/LAMDA-NJU/Deep-Forest)].
+*   [Deep Forest: Towards An Alternative to Deep Neural Networks](https://www.ijcai.org/Proceedings/2017/497) - ***IJCAI'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?cluster=7391596872731517007\&hl=en\&as_sdt=0,5)]. \[[Project (⭐942)](https://github.com/LAMDA-NJU/Deep-Forest)].
 
 ## [Apr 20, 2022](/content/2022/04/20/README.md)
 
@@ -2363,7 +2369,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 ### Problem Solving / Reinforcement Learning
 
 *   [Automatic curriculum learning for deep RL: a short survey](https://dl.acm.org/doi/abs/10.5555/3491440.3492111) - ***IJCAI'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=10660055557098312214\&hl=en\&as_sdt=0,5)].
-*   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐70)](https://github.com/flowersteam/TeachMyAgent)].
+*   [TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL](http://proceedings.mlr.press/v139/romac21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=11016662361926634008\&hl=en\&as_sdt=0,5)]. \[[Project (⭐74)](https://github.com/flowersteam/TeachMyAgent)].
 
 ## [Mar 28, 2022](/content/2022/03/28/README.md)
 
@@ -2756,7 +2762,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / Declarative DSL Applications
 
-*   [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=2067748786482591497)]. \[[Project (⭐169)](https://github.com/zenna/Omega.jl)]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do.
+*   [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=2067748786482591497)]. \[[Project (⭐170)](https://github.com/zenna/Omega.jl)]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do.
 
 ### Problem Solving / Human-Level Problem Solving
 
@@ -2970,7 +2976,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 *   [Energy-Based Models for Continual Learning](https://arxiv.org/pdf/2011.12216.pdf) - ***NeurIPS'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7094884707139778576\&hl=en\&as_sdt=0,5)]. \[[Project](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)].
 *   [Learning to Learn Image Classifiers with Visual Analogy](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_Learning_to_Learn_Image_Classifiers_With_Visual_Analogy_CVPR_2019_paper.pdf) - ***CVPR'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=6285495755337309034\&hl=en\&as_sdt=0,5)].
 *   [Zero-Shot Object Detection](https://arxiv.org/pdf/1804.04340v2.pdf) - ***ECCV'18***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=2027060030559987993\&hl=en\&as_sdt=0,5)].
-*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐1k)](https://github.com/JosephKJ/OWOD)].
+*   [Towards Open World Object Detection](https://arxiv.org/pdf/2103.02603v1.pdf) - ***CVPR'21***, 2021. \[[All Versions](https://scholar.google.com/scholar?cluster=9715328489246217151\&hl=en\&as_sdt=0,5)]. \[[Project (⭐1.1k)](https://github.com/JosephKJ/OWOD)].
 *   [Learning to Recognise Unseen Classes by A Few Similes](https://dl.acm.org/doi/pdf/10.1145/3123266.3123323) - ***MM'17***, 2017. \[[All Versions](https://scholar.google.com/scholar?q=related:FZZr2BK0U6YJ:scholar.google.com/\&scioq=Learning+to+Recognise+Unseen+Classes+by+A+Few+Similes\&hl=en\&as_sdt=0,5)].
 
 ### Learning with Cognitive Plausibility / Commonsense Knowledgebase

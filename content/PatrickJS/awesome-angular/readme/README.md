@@ -598,6 +598,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx (⭐3)](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
 *   [ngx-create (⭐2)](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
 *   [rafacli (⭐1)](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
+*   [mcp-angular-cli (⭐1)](https://github.com/talzach/mcp-angular-cli) - A Model Context Protocol server that provides Angular CLI and workspace automation capabilities. This server enables LLMs and agents to interact with Angular projects, generate components/services, add packages, create new workspaces, and run custom architect targets via the Angular CLI.
 
 #### Deployment
 
@@ -1080,6 +1081,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [stryker-js (⭐2.7k)](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
 *   [msw (⭐17k)](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 *   [shallow-render (⭐273)](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
+*   [@storybookjs/testing-angular (⭐16)](https://github.com/storybookjs/testing-angular) - Testing utilities that allow you to reuse your stories in your unit tests.
 
 #### Updating
 
@@ -2008,6 +2010,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [yoozsoft](https://www.yoozsoft.com/ys-ng/home) - Widgets built using Bootstrap 5, CSS, and NG Bootstrap 17 with APIs designed for the Angular ecosystem.
 *   [ngx-gccb](https://www.npmjs.com/package/ngx-gccb) - Angular 19+ component library providing ease of use shared components, directives, pipes and services.  Check this [showcase](https://ngx-gccb.netlify.app/) for code snippets.
 *   [Elementar UI](https://elementarui.com/) - Fully open-source Angular UI Components & Admin Panel based on Material 3 and Tailwind.
+*   [ez-nav (⭐1)](https://github.com/pSkywalker/ez-nav) - A config-driven, responsive Angular navigation bar that integrates seamlessly with Bootstrap layouts.
 
 ##### Tailwind CSS Based
 

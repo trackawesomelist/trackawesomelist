@@ -125,7 +125,7 @@ A curated list of game development resources to make **magic** happen.
 *   :moneybag: [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains.
 *   :tada: [LDtk](https://deepnight.net/tools/ldtk-2d-level-editor/) - LDtk is an open-source 2D level editor for indie devs, with a strong focus on user-friendliness.
 *   :money\_with\_wings: [MapperMate](https://mappermate.com/) - A cloud based tile map editor used to create 2D levels directly in the browser.
-*   :tada: [Material Maker (⭐3.9k)](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
+*   :tada: [Material Maker (⭐4k)](https://github.com/RodZill4/material-maker) - procedural texture creator made in Godot
 *   :tada: [OGMO Editor](https://ogmo-editor-3.github.io/)- generic level editor.
 *   :tada: [Overlap2D (⭐786)](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
 *   :free: [Sprite Fusion](https://spritefusion.com/) - A free level design tool to craft beautiful 2D tilemaps right in your browser using any tileset.
@@ -176,7 +176,7 @@ A curated list of game development resources to make **magic** happen.
 *   :moneybag: [3ds Max](http://www.autodesk.com/products/3ds-max/overview)
 *   :money\_with\_wings: [Besel](https://www.bezel.it/hq) - Make a 3d real-time collaboration design and prototype in your VR headset or mobile AR.
 *   :tada: [Blender](http://www.blender.org/) - The free software and open-source 3D grate of the world
-*   :free [Canvascript (⭐85)](https://github.com/VBproDev/Canvascript) - A tool for creating HTML canvas graphics without writing code.
+*   :free: [Canvascript (⭐85)](https://github.com/VBproDev/Canvascript) - A tool for creating HTML canvas graphics without writing code.
 *   :free: [Clara.io](https://clara.io/)
 *   :money\_with\_wings: [Daz 3D](https://www.daz3d.com/) - A 3D software allows you to easily create custom scenes and characters in seconds.
 *   :free: [MakeHuman](http://www.makehumancommunity.org/)
@@ -262,7 +262,7 @@ A curated list of game development resources to make **magic** happen.
 *   :tada: [GDevelop](https://gdevelop-app.com/) - An open-source, cross-platform 2D game engine designed for everyone - it's extensible, fast and easy to learn.
 *   :tada: [ggez](http://ggez.rs/) - A Rust library to create Good Games Easily.
 *   :tada: [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
-*   :tada: [Glide Engine (⭐498)](https://github.com/cocoatoucher/Glide) - Engine for making 2d games on iOS, macOS and tvOS in Swift programming language, with practical examples and tutorials.
+*   :tada: [Glide Engine (⭐499)](https://github.com/cocoatoucher/Glide) - Engine for making 2d games on iOS, macOS and tvOS in Swift programming language, with practical examples and tutorials.
 *   :tada: [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine.
 *   :tada: [Gorgon](https://www.tape-worm.net/) - A 2D rendering API for .NET, written in C#.
 *   :tada: [Grid (⭐740)](https://github.com/Planimeter/game-engine-2d) - A multiplayer-first game engine for Lua.
@@ -322,7 +322,7 @@ A curated list of game development resources to make **magic** happen.
 *   :money\_with\_wings: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
 *   :tada: [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 *   :tada: [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
-*   :tada: [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
+*   :tada: [PyGame-CE](https://pyga.me/docs/index.html) - Pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library
 *   :tada: [Pyxel (⭐16k)](https://github.com/kitao/pyxel) - a retro game engine for Python.
 *   :moneybag: [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
 *   :tada: [Rajawali (⭐2.4k)](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine

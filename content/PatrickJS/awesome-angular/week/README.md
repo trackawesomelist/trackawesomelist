@@ -8,6 +8,10 @@
 
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [mcp-angular-cli (⭐1)](https://github.com/talzach/mcp-angular-cli) - A Model Context Protocol server that provides Angular CLI and workspace automation capabilities. This server enables LLMs and agents to interact with Angular projects, generate components/services, add packages, create new workspaces, and run custom architect targets via the Angular CLI.
+
 ### Node / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [Node Initializr](https://start.nodeinit.dev/) - Node Initializr offers a fast way to pull in all the dependencies you need for your application and does a lot of the setup for you.
@@ -15,6 +19,10 @@
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [zero-angular (⭐1)](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
+
+### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@storybookjs/testing-angular (⭐16)](https://github.com/storybookjs/testing-angular) - Testing utilities that allow you to reuse your stories in your unit tests.
 
 ### Cookies / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -46,6 +54,10 @@
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [mantic-ui (⭐3)](https://github.com/KY-Programming/mantic-ui) - Angular components for [Semantic UI](https://semantic-ui.com/) and [Fomantic UI](https://fomantic-ui.com/).
+
+### Bootstrap Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ez-nav (⭐1)](https://github.com/pSkywalker/ez-nav) - A config-driven, responsive Angular navigation bar that integrates seamlessly with Bootstrap layouts.
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
