@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [May 10, 2025](/content/2025/05/10/README.md)
+
+### Tools / Services
+
+*   [UQLM (⭐33)](https://github.com/cvs-health/uqlm): UQLM: Uncertainty Quantification for Language Models, is a Python library for LLM hallucination detection using state-of-the-art uncertainty quantification techniques ![GitHub Repo stars](https://img.shields.io/github/stars/cvs-health/uqlm?style=social)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [TensorZero (⭐3.9k)](https://github.com/tensorzero/tensorzero): An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation. ![GitHub Repo stars](https://img.shields.io/github/stars/tensorzero/tensorzero?style=social)
+
 ## [May 09, 2025](/content/2025/05/09/README.md)
 
 ### Ports to other languages
