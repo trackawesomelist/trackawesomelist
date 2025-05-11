@@ -599,6 +599,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-create (⭐2)](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
 *   [rafacli (⭐1)](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
 *   [mcp-angular-cli (⭐1)](https://github.com/talzach/mcp-angular-cli) - A Model Context Protocol server that provides Angular CLI and workspace automation capabilities. This server enables LLMs and agents to interact with Angular projects, generate components/services, add packages, create new workspaces, and run custom architect targets via the Angular CLI.
+*   [angular-parallel-test-runner (⭐1)](https://github.com/mahdi-hajian/angular-parallel-test-runner) - A command-line tool designed to run Angular tests in parallel across multiple projects. It utilizes the concurrency capabilities of your machine, maximizing the efficiency of running tests by leveraging multiple CPU cores.
 
 #### Deployment
 
@@ -1754,6 +1755,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [toastify (⭐2)](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.
 *   [angular-toaster (⭐1)](https://github.com/damingerdai/angular-toaster) - Updated fork of [Angular2-Toaster (⭐333)](https://github.com/Stabzs/Angular2-Toaster).
 *   [ng-toast-service (⭐1)](https://github.com/nhusby/ng-toast-service) - A simple, customizable notification service for Angular applications. This service shows notifications that slide onto the screen with configurable behavior.
+*   [grand-notifications (⭐1)](https://github.com/rishi-rj-s/grand-notifications) - Beautiful, customizable toast notifications with artistic animations.
 
 #### Printing
 
@@ -1823,6 +1825,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-inf-scroll (⭐2)](https://github.com/lukonik/ng-inf-scroll) - A lightweight library for adding infinite scrolling to Angular apps.
 *   [ng-mat-select-infinite-scroll (⭐48)](https://github.com/HaidarZ/ng-mat-select-infinite-scroll) - Infinite Scroll directive for Angular Material select component.
 *   [horizontal-scroller (⭐1)](https://github.com/miminerd/horizontal-scroller) - Infinite horizontal scroller for Angular apps using Tailwind.
+*   [simplebar (⭐6.2k)](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla JavaScript library with native scroll, done simple, lightweight, easy to use and cross-browser.
 
 #### State Management
 
@@ -2126,6 +2129,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [IDEA-Ionic8-extra (⭐2)](https://github.com/iter-idea/IDEA-Ionic8-extra) - [IDEA's](https://www.iter-idea.com/) extra components and services built on Ionic 8, and distributed with different NPM packages.
 *   [ionic-component-snippets (⭐3)](https://github.com/LennonReid/ionic-component-snippets) - This repository showcases demos and libraries that aren't officially supported by Ionic yet, but can be useful for developers and their apps.
 *   [ionic-header-parallax (⭐38)](https://github.com/RaschidJFR/ionic-header-parallax) - This directive enables a parallax effect on `ion-header` elements to display a cover photo while on top of the page and transition to the normal toolbar when scrolling down.
+*   [ionic-state (⭐1)](https://github.com/godenji/ionic-state) - Provides utilities for working with state in Ionic applications.
 
 #### RxJS
 

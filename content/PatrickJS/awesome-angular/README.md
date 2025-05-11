@@ -6,6 +6,24 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [May 11, 2025](/content/2025/05/11/README.md)
+
+### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-parallel-test-runner (⭐1)](https://github.com/mahdi-hajian/angular-parallel-test-runner) - A command-line tool designed to run Angular tests in parallel across multiple projects. It utilizes the concurrency capabilities of your machine, maximizing the efficiency of running tests by leveraging multiple CPU cores.
+
+### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [grand-notifications (⭐1)](https://github.com/rishi-rj-s/grand-notifications) - Beautiful, customizable toast notifications with artistic animations.
+
+### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [simplebar (⭐6.2k)](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla JavaScript library with native scroll, done simple, lightweight, easy to use and cross-browser.
+
+### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ionic-state (⭐1)](https://github.com/godenji/ionic-state) - Provides utilities for working with state in Ionic applications.
+
 ## [May 10, 2025](/content/2025/05/10/README.md)
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

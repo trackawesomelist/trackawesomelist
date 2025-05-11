@@ -11,6 +11,7 @@
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [mcp-angular-cli (⭐1)](https://github.com/talzach/mcp-angular-cli) - A Model Context Protocol server that provides Angular CLI and workspace automation capabilities. This server enables LLMs and agents to interact with Angular projects, generate components/services, add packages, create new workspaces, and run custom architect targets via the Angular CLI.
+*   [angular-parallel-test-runner (⭐1)](https://github.com/mahdi-hajian/angular-parallel-test-runner) - A command-line tool designed to run Angular tests in parallel across multiple projects. It utilizes the concurrency capabilities of your machine, maximizing the efficiency of running tests by leveraging multiple CPU cores.
 
 ### Node / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -50,6 +51,11 @@
 
 *   [angular-toaster (⭐1)](https://github.com/damingerdai/angular-toaster) - Updated fork of [Angular2-Toaster (⭐333)](https://github.com/Stabzs/Angular2-Toaster).
 *   [ng-toast-service (⭐1)](https://github.com/nhusby/ng-toast-service) - A simple, customizable notification service for Angular applications. This service shows notifications that slide onto the screen with configurable behavior.
+*   [grand-notifications (⭐1)](https://github.com/rishi-rj-s/grand-notifications) - Beautiful, customizable toast notifications with artistic animations.
+
+### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [simplebar (⭐6.2k)](https://github.com/Grsmto/simplebar) - Custom scrollbars vanilla JavaScript library with native scroll, done simple, lightweight, easy to use and cross-browser.
 
 ### Unspecified / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -62,6 +68,10 @@
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-voyage (⭐3)](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
+
+### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ionic-state (⭐1)](https://github.com/godenji/ionic-state) - Provides utilities for working with state in Ionic applications.
 
 ## [May 05 - May 11, 2025](/content/2025/18/README.md)
 
