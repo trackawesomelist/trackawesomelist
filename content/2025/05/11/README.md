@@ -1,18 +1,30 @@
 # Awesome List Updates on May 11, 2025
 
-2 awesome lists updated today.
+4 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+## [1. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+
+### Static Analyzers / Social Engineering Tools
+
+*   [Agentic Radar (⭐479)](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic AI workflows.
+
+## [2. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+
+### Table of Contents / Streaming Engine
+
+*   [ArkFlow (⭐478)](https://github.com/arkflow-rs/arkflow) \[Rust] - High-performance Rust stream processing engine, providing powerful data stream processing capabilities, supporting multiple input/output sources and processors.
+
+## [3. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ### Libraries / Algebraic Data Types
 
 *   [NeverThrow (⭐5.4k)](https://github.com/supermacro/neverthrow) - This package contains a `Result` type that represents either success (`Ok`) or failure (`Err`).
 
-## [2. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
