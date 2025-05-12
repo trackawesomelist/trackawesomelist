@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [May 12, 2025](/content/2025/05/12/README.md)
+
+### Applications / Text processing
+
+*   [scooter (⭐661)](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal.
+
 ## [May 07, 2025](/content/2025/05/07/README.md)
 
 ### Libraries / Artificial Intelligence
@@ -796,7 +802,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Audio and Music
 
-*   [Pinepods (⭐386)](https://github.com/madeofpendletonwool/PinePods) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! [![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml)
+*   [Pinepods (⭐395)](https://github.com/madeofpendletonwool/PinePods) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! [![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml)
 
 ## [May 13, 2024](/content/2024/05/13/README.md)
 
@@ -1009,7 +1015,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Data structures
 
-*   [ashvardanian/simsimd (⭐1.3k)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
+*   [ashvardanian/simsimd (⭐1.4k)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
 
 ## [Feb 17, 2024](/content/2024/02/17/README.md)
 
@@ -1125,7 +1131,7 @@ A curated list of Rust code and resources.
 
 *   [joshuto (⭐3.5k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 *   [xplr (⭐4.4k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐24k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [yazi (⭐25k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ## [Dec 30, 2023](/content/2023/12/30/README.md)
 
@@ -1452,7 +1458,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Graphics
 
-*   [rustq/vue-skia (⭐313)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐312)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 
 ### Libraries / Finance
 
@@ -2528,6 +2534,7 @@ A curated list of Rust code and resources.
     *   [speculate](https://crates.io/crates/speculate) - An RSpec inspired minimal testing framework
 *   Mocking and Test Data
     *   [asomers/mockall (⭐1.6k)](https://github.com/asomers/mockall) \[[mockall](https://crates.io/crates/mockall)] - A powerful mock object library. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
+    *   [bcheidemann/fixtures-rs (⭐0)](https://github.com/bcheidemann/fixtures-rs/tree/main/fixtures) \[[fixtures](https://crates.io/crates/fixtures)] - A proc macro for generating tests from fixtures using glob patterns
     *   [fake-rs (⭐1.1k)](https://github.com/cksac/fake-rs) - A library for generating fake data
     *   [goldenfile (⭐39)](https://github.com/calder/rust-goldenfile) \[[goldenfile](https://crates.io/crates/goldenfile)] - A library providing a simple API for goldenfile testing.
     *   [httpmock (⭐584)](https://github.com/alexliesenfeld/httpmock) - HTTP mocking [![build badge](https://dev.azure.com/alexliesenfeld/httpmock/_apis/build/status/alexliesenfeld.httpmock?branchName=master)](https://dev.azure.com/alexliesenfeld/httpmock/_build/latest?definitionId=2\&branchName=master)
@@ -3078,7 +3085,7 @@ A curated list of Rust code and resources.
     *   [hominee/dyer (⭐126)](https://github.com/hominee/dyer) \[[dyer](https://crates.io/crates/dyer)] - dyer is designed for reliable, flexible and fast Request-Response based service, including data processing, web-crawling and so on, providing some friendly, flexible, comprehensive features without compromising speed.
     *   [osohq/oso (⭐3.5k)](https://github.com/osohq/oso) \[[oso](https://crates.io/crates/oso)] - A policy engine for authorization that's embedded in your application. [![Build Status](https://github.com/osohq/oso/workflows/Development/badge.svg?branch=main)](https://github.com/osohq/oso/actions?query=branch%3Amain+workflow%3ADevelopment)
     *   [pwoolcoc/soup](https://gitlab.com/pwoolcoc/soup) \[[soup](https://crates.io/crates/soup)] - A library similar to Python's BeautifulSoup, designed to enable quick and easy manipulation and querying of HTML documents. [![Build Status](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)
-    *   [pyrossh/rust-embed (⭐1.8k)](https://github.com/pyrossh/rust-embed) - A macro to embed static assets into the rust binary
+    *   [pyrossh/rust-embed](https://git.sr.ht/~pyrossh/rust-embed) \[[rust-embed](https://crates.io/crates/rust-embed)] - A macro to embed static assets into the rust binary
     *   [rookie (⭐270)](https://github.com/thewh1teagle/rookie) - Load cookies from any browser on any platform. ![crates.io](https://img.shields.io/crates/v/rookie.svg)
     *   [rust-scraper/scraper (⭐2.1k)](https://github.com/rust-scraper/scraper) \[[scraper](https://crates.io/crates/scraper)] - HTML parsing and querying with CSS selectors. [![Build Status](https://github.com/rust-scraper/scraper/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/rust-scraper/scraper/actions)
     *   [serenity-rs/serenity (⭐5.1k)](https://github.com/serenity-rs/serenity) \[[serenity](https://crates.io/crates/serenity)] - A library for the Discord API
@@ -3826,7 +3833,7 @@ A curated list of Rust code and resources.
 ### Libraries / Graphics
 
 *   OpenGL \[[opengl](https://crates.io/keywords/opengl)]
-    *   [brendanzab/gl-rs (⭐701)](https://github.com/brendanzab/gl-rs) - An OpenGL function pointer loader
+    *   [gl-rs (⭐702)](https://github.com/rust-windowing/gl-rs) - An OpenGL function pointer loader
     *   [glium/glium (⭐3.6k)](https://github.com/glium/glium) - safe OpenGL wrapper.
     *   [glutin](https://crates.io/crates/glutin) - Alternative to [GLFW](https://www.glfw.org/)
     *   [Kiss3d](http://kiss3d.org) - draw simple geometric figures and play with them with one-liners

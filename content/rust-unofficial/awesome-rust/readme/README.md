@@ -184,7 +184,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 *   [figsoda/mmtc (⭐100)](https://github.com/figsoda/mmtc) \[[mmtc](https://crates.io/crates/mmtc)] - Minimal mpd terminal client that aims to be simple yet highly configurable [![build-badge](https://github.com/figsoda/mmtc/actions/workflows/ci.yml/badge.svg)](https://github.com/figsoda/mmtc/actions/workflows/ci.yml)
 *   [Glicol (⭐2.7k)](https://github.com/chaosprint/glicol) - Graph-oriented live coding language, for collaborative musicking in browsers.
 *   [ncspot (⭐5.4k)](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. [![build badge](https://github.com/hrkfdn/ncspot/actions/workflows/ci.yml/badge.svg)](https://github.com/hrkfdn/ncspot/actions?query=workflow%3ABuild)
-*   [Pinepods (⭐386)](https://github.com/madeofpendletonwool/PinePods) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! [![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml)
+*   [Pinepods (⭐395)](https://github.com/madeofpendletonwool/PinePods) - A rust based podcast management system with multi-user support. Pinepods utilizes a central database so aspects like listen time and themes follow from device to device. With clients built using Tauri, it's a full cross-platform listening solution! [![Docker Container Build](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/madeofpendletonwool/PinePods/actions/workflows/docker-publish.yml)
 *   [Polaris (⭐2.2k)](https://github.com/agersant/polaris) - A music streaming application.
 *   [Spotify Player (⭐4.4k)](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity.
 *   [Spotifyd (⭐10k)](https://github.com/Spotifyd/spotifyd) - An open source Spotify client running as a UNIX daemon. [![Continuous Integration](https://github.com/Spotifyd/spotifyd/actions/workflows/ci.yml/badge.svg)](https://github.com/Spotifyd/spotifyd/actions/workflows/ci.yml)
@@ -330,7 +330,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 *   [broot (⭐11k)](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
 *   [joshuto (⭐3.5k)](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 *   [xplr (⭐4.4k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
-*   [yazi (⭐24k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
+*   [yazi (⭐25k)](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
 ### Finance
 
@@ -376,7 +376,7 @@ See also [Games Made With Piston (⭐4.7k)](https://github.com/PistonDevelopers/
 *   [Limeth/euclider (⭐216)](https://github.com/Limeth/euclider) - A real-time 4D CPU ray tracer
 *   [linebender/resvg (⭐3.1k)](https://github.com/linebender/resvg) - An SVG rendering library.
 *   [rodrigorc/papercraft (⭐172)](https://github.com/rodrigorc/papercraft) - A tool to unwrap 3D models and create them in paper with scissors and glue.
-*   [rustq/vue-skia (⭐313)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
+*   [rustq/vue-skia (⭐312)](https://github.com/rustq/vue-skia) - Skia based 2d graphics vue rendering library. It is based on Rust to implement software rasterization to perform rendering.
 *   [turnage/valora](https://crates.io/crates/valora) - A library for generative fine art
 *   [Twinklebear/tray\_rust (⭐522)](https://github.com/Twinklebear/tray_rust) - A ray tracer
 *   [wahn/rs\_pbrt (⭐817)](https://github.com/wahn/rs_pbrt) - Implements a counterpart to the PBRT book's (3rd edition) C++ code.
@@ -584,6 +584,7 @@ See also [A comparison of operating systems written in Rust (⭐762)](https://gi
 *   [phiresky/ripgrep-all (⭐8.7k)](https://github.com/phiresky/ripgrep-all) - ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 *   [ripgrep](https://crates.io/crates/ripgrep) - combines the usability of The Silver Searcher with the raw speed of grep
 *   [ruplacer (⭐468)](https://github.com/your-tools/ruplacer) - Find and replace text in source files [![Run tests](https://github.com/your-tools/ruplacer/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/your-tools/ruplacer/actions/workflows/test.yml)
+*   [scooter (⭐661)](https://github.com/thomasschafer/scooter) - Interactive find and replace in the terminal.
 *   [sd](https://crates.io/crates/sd) - Intuitive find & replace CLI
 *   [sstadick/hck (⭐710)](https://github.com/sstadick/hck) - A faster and more featureful drop in replacement for `cut` [![build badge](https://github.com/sstadick/hck/workflows/Check/badge.svg?branch=master)](https://github.com/sstadick/hck)
 *   [vishaltelangre/ff (⭐337)](https://github.com/vishaltelangre/ff) - Find files (ff) by name!
@@ -928,6 +929,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
     *   [speculate](https://crates.io/crates/speculate) - An RSpec inspired minimal testing framework
 *   Mocking and Test Data
     *   [asomers/mockall (⭐1.6k)](https://github.com/asomers/mockall) \[[mockall](https://crates.io/crates/mockall)] - A powerful mock object library. [![Cirrus Build Status](https://api.cirrus-ci.com/github/asomers/mockall.svg)](https://cirrus-ci.com/github/asomers/mockall)
+    *   [bcheidemann/fixtures-rs (⭐0)](https://github.com/bcheidemann/fixtures-rs/tree/main/fixtures) \[[fixtures](https://crates.io/crates/fixtures)] - A proc macro for generating tests from fixtures using glob patterns
     *   [fake-rs (⭐1.1k)](https://github.com/cksac/fake-rs) - A library for generating fake data
     *   [goldenfile (⭐39)](https://github.com/calder/rust-goldenfile) \[[goldenfile](https://crates.io/crates/goldenfile)] - A library providing a simple API for goldenfile testing.
     *   [httpmock (⭐584)](https://github.com/alexliesenfeld/httpmock) - HTTP mocking [![build badge](https://dev.azure.com/alexliesenfeld/httpmock/_apis/build/status/alexliesenfeld.httpmock?branchName=master)](https://dev.azure.com/alexliesenfeld/httpmock/_build/latest?definitionId=2\&branchName=master)
@@ -1256,7 +1258,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Data structures
 
-*   [ashvardanian/simsimd (⭐1.3k)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
+*   [ashvardanian/simsimd (⭐1.4k)](https://github.com/ashvardanian/SimSIMD) - SIMD-accelerated vector distances and similarity functions for x86 AVX2 & AVX-512, and Arm NEON [![crates.io](https://img.shields.io/crates/v/simsimd.svg)](https://crates.io/crates/simsimd)
 *   [becheran/grid (⭐85)](https://github.com/becheran/grid) \[[grid](https://crates.io/crates/grid)] - Provide a two dimensional data structure that is easy to use and fast. [![build status](https://github.com/becheran/grid/actions/workflows/rust.yml/badge.svg)](https://github.com/becheran/grid/actions)
 *   [billyevans/tst (⭐24)](https://github.com/billyevans/tst) \[[tst](https://crates.io/crates/tst)] - Ternary search tree collection
 *   [contain-rs](https://github.com/contain-rs) - Extension of Rust's std::collections
@@ -1587,7 +1589,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 *   [gfx-rs/gfx (⭐5.4k)](https://github.com/gfx-rs/gfx) - A high-performance, bindless graphics API.
 *   [gfx-rs/wgpu (⭐14k)](https://github.com/gfx-rs/wgpu) - Native WebGPU implementation based on gfx-hal. [![build badge](https://github.com/gfx-rs/wgpu/workflows/CI/badge.svg?branch=master)](https://github.com/gfx-rs/wgpu/actions)
 *   OpenGL \[[opengl](https://crates.io/keywords/opengl)]
-    *   [brendanzab/gl-rs (⭐701)](https://github.com/brendanzab/gl-rs) - An OpenGL function pointer loader
+    *   [gl-rs (⭐702)](https://github.com/rust-windowing/gl-rs) - An OpenGL function pointer loader
     *   [glium/glium (⭐3.6k)](https://github.com/glium/glium) - safe OpenGL wrapper.
     *   [glutin](https://crates.io/crates/glutin) - Alternative to [GLFW](https://www.glfw.org/)
     *   [Kiss3d](http://kiss3d.org) - draw simple geometric figures and play with them with one-liners
@@ -1976,7 +1978,7 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
     *   [hominee/dyer (⭐126)](https://github.com/hominee/dyer) \[[dyer](https://crates.io/crates/dyer)] - dyer is designed for reliable, flexible and fast Request-Response based service, including data processing, web-crawling and so on, providing some friendly, flexible, comprehensive features without compromising speed.
     *   [osohq/oso (⭐3.5k)](https://github.com/osohq/oso) \[[oso](https://crates.io/crates/oso)] - A policy engine for authorization that's embedded in your application. [![Build Status](https://github.com/osohq/oso/workflows/Development/badge.svg?branch=main)](https://github.com/osohq/oso/actions?query=branch%3Amain+workflow%3ADevelopment)
     *   [pwoolcoc/soup](https://gitlab.com/pwoolcoc/soup) \[[soup](https://crates.io/crates/soup)] - A library similar to Python's BeautifulSoup, designed to enable quick and easy manipulation and querying of HTML documents. [![Build Status](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)](https://gitlab.com/pwoolcoc/soup/badges/master/pipeline.svg)
-    *   [pyrossh/rust-embed (⭐1.8k)](https://github.com/pyrossh/rust-embed) - A macro to embed static assets into the rust binary
+    *   [pyrossh/rust-embed](https://git.sr.ht/~pyrossh/rust-embed) \[[rust-embed](https://crates.io/crates/rust-embed)] - A macro to embed static assets into the rust binary
     *   [rookie (⭐270)](https://github.com/thewh1teagle/rookie) - Load cookies from any browser on any platform. ![crates.io](https://img.shields.io/crates/v/rookie.svg)
     *   [rust-scraper/scraper (⭐2.1k)](https://github.com/rust-scraper/scraper) \[[scraper](https://crates.io/crates/scraper)] - HTML parsing and querying with CSS selectors. [![Build Status](https://github.com/rust-scraper/scraper/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/rust-scraper/scraper/actions)
     *   [serenity-rs/serenity (⭐5.1k)](https://github.com/serenity-rs/serenity) \[[serenity](https://crates.io/crates/serenity)] - A library for the Discord API

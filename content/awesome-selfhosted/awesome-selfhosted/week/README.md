@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [May 19 - May 25, 2025](/content/2025/20/README.md)
+
+### Software / Recipe Management
+
+*   [Fork Recipes](https://mikebgrep.github.io/forkapi/latest/clients/) - Manage your food recipes with simplicity. ([Source Code (⭐50)](https://github.com/mikebgrep/fork.recipes)) `BSD-3-Clause` `Docker`
+
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
 ### Software / Analytics
@@ -194,7 +200,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Email - Mail Delivery Agents
 
-*   [DavMail](https://davmail.sourceforge.net/) `⚠` - POP/IMAP/SMTP/Caldav/Carddav/LDAP exchange gateway allowing users to use any mail/calendar client with an Exchange server, even from the internet or behind a firewall through Outlook Web Access. ([Source Code (⭐622)](https://github.com/mguessan/davmail)) `GPL-2.0` `Java`
+*   [DavMail](https://davmail.sourceforge.net/) `⚠` - POP/IMAP/SMTP/Caldav/Carddav/LDAP exchange gateway allowing users to use any mail/calendar client with an Exchange server, even from the internet or behind a firewall through Outlook Web Access. ([Source Code (⭐626)](https://github.com/mguessan/davmail)) `GPL-2.0` `Java`
 
 ### Software / Media Management
 
@@ -202,23 +208,19 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Money, Budgeting & Management
 
-*   [ExpenseOwl (⭐871)](https://github.com/tanq16/expenseowl) - Extremely simple expense tracker with a beautiful UI. `MIT` `Go/Docker/K8S`
+*   [ExpenseOwl (⭐906)](https://github.com/tanq16/expenseowl) - Extremely simple expense tracker with a beautiful UI. `MIT` `Go/Docker/K8S`
 
 ### Software / Note-taking & Editors
 
-*   [Blinko](https://blinko.space/) - A personal note tool with AI features. ([Source Code (⭐3.6k)](https://github.com/blinko-space/blinko)) `AGPL-3.0` `Docker`
+*   [Blinko](https://blinko.space/) - A personal note tool with AI features. ([Source Code (⭐3.7k)](https://github.com/blinko-space/blinko)) `AGPL-3.0` `Docker`
 
 ### Software / Pastebins
 
-*   [Local Content Share (⭐186)](https://github.com/Tanq16/local-content-share) - Store and share text snippets and files within your local network. `MIT` `Docker/Go`
+*   [Local Content Share (⭐201)](https://github.com/Tanq16/local-content-share) - Store and share text snippets and files within your local network. `MIT` `Docker/Go`
 
 ### Software / Personal Dashboards
 
 *   [Dashy](https://dashy.to/) - Feature-rich homepage for your homelab, with easy YAML configuration. ([Demo](https://demo.dashy.to/), [Source Code (⭐21k)](https://github.com/lissy93/dashy)) `MIT` `Nodejs/Docker`
-
-### Software / Recipe Management
-
-*   [Fork Recipes](https://mikebgrep.github.io/forkapi/clients/) - Manage your food recipes with simplicity. ([Source Code (⭐49)](https://github.com/mikebgrep/fork.recipes)) `BSD-3-Clause` `Docker`
 
 ### Software / Software Development - Feature Toggle
 
@@ -318,7 +320,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Content Management Systems (CMS)
 
-*   [Pimcore](http://www.pimcore.com/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐3.5k)](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
+*   [Pimcore](http://www.pimcore.com/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code (⭐3.6k)](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
 
 ### Software / Document Management - Institutional Repository and Digital Library Software
 
@@ -330,7 +332,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [ClipCascade (⭐804)](https://github.com/Sathvik-Rao/ClipCascade) - Syncs your clipboard across multiple devices instantly, without any button press. Available on Windows, macOS, Linux, and Android, it provides seamless and secure clipboard sharing with end-to-end data encryption. `GPL-3.0` `Java/Docker`
+*   [ClipCascade (⭐825)](https://github.com/Sathvik-Rao/ClipCascade) - Syncs your clipboard across multiple devices instantly, without any button press. Available on Windows, macOS, Linux, and Android, it provides seamless and secure clipboard sharing with end-to-end data encryption. `GPL-3.0` `Java/Docker`
 
 ### Software / Money, Budgeting & Management
 
@@ -338,15 +340,15 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Self-hosting Solutions
 
-*   [Websoft9](https://www.websoft9.com) `⚠` - GitOps-driven, multi-application hosting for cloud servers and home servers, one-click deployment of 200+ open source apps. ([Demo](https://www.websoft9.com/demo), [Source Code (⭐1.8k)](https://github.com/websoft9/websoft9), [Clients](https://www.websoft9.com/apps)) `LGPL-3.0` `Shell/Python`
+*   [Websoft9](https://www.websoft9.com) `⚠` - GitOps-driven, multi-application hosting for cloud servers and home servers, one-click deployment of 200+ open source apps. ([Demo](https://www.websoft9.com/demo), [Source Code (⭐1.9k)](https://github.com/websoft9/websoft9), [Clients](https://www.websoft9.com/apps)) `LGPL-3.0` `Shell/Python`
 
 ### Software / Software Development - IDE & Tools
 
-*   [LiveCodes](https://livecodes.io/docs/features/self-hosting) `⚠` - Feature-rich client-side code playground for React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and 90+ other languages. ([Demo](https://livecodes.io), [Source Code (⭐971)](https://github.com/live-codes/livecodes)) `MIT` `Nodejs`
+*   [LiveCodes](https://livecodes.io/docs/features/self-hosting) `⚠` - Feature-rich client-side code playground for React, Vue, Svelte, Solid, Typescript, Python, Go, Ruby, PHP and 90+ other languages. ([Demo](https://livecodes.io), [Source Code (⭐983)](https://github.com/live-codes/livecodes)) `MIT` `Nodejs`
 
 ### Software / Web Servers
 
-*   [go-doxy (⭐1.7k)](https://github.com/yusing/godoxy) - Lightweight, simple, and  performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. `MIT` `Docker/Go`
+*   [go-doxy (⭐1.8k)](https://github.com/yusing/godoxy) - Lightweight, simple, and  performant reverse proxy with WebUI, Docker integration, automatic shutdown/startup for container based on traffic. `MIT` `Docker/Go`
 
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 
@@ -612,7 +614,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Project Management
 
-*   [Gitea](https://gitea.com) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD. ([Demo](https://demo.gitea.com), [Source Code (⭐48k)](https://github.com/go-gitea/gitea)) `MIT` `Go/Docker/K8S`
+*   [Gitea](https://gitea.com) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD. ([Demo](https://demo.gitea.com), [Source Code (⭐49k)](https://github.com/go-gitea/gitea)) `MIT` `Go/Docker/K8S`
 
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
@@ -1044,7 +1046,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Miscellaneous
 
-*   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Source Code (⭐1k)](https://github.com/mariocandela/beelzebub)) `MIT` `Docker/K8S/Go`
+*   [beelzebub](https://beelzebub-honeypot.com/) `⚠` - Honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. ([Source Code (⭐1.1k)](https://github.com/mariocandela/beelzebub)) `MIT` `Docker/K8S/Go`
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
@@ -2173,7 +2175,7 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Christmas Community (⭐345)](https://github.com/Wingysam/Christmas-Community) - Create a simple place for your entire family to use to find gifts that people want, and to avoid double-gifting. `AGPL-3.0` `Docker/Nodejs`
 *   [Claper](https://claper.co/) - The ultimate tool to interact with your audience (alternative to Slido, AhaSlides and Mentimeter). ([Source Code (⭐552)](https://github.com/ClaperCo/Claper)) `GPL-3.0` `Elixir/Docker`
-*   [Fider](https://fider.io) - Open platform to collect and prioritize feedback (alternative to UserVoice). ([Demo](https://demo.fider.io), [Source Code (⭐3.4k)](https://github.com/getfider/fider)) `MIT` `Docker`
+*   [Fider](https://fider.io) - Open platform to collect and prioritize feedback (alternative to UserVoice). ([Demo](https://demo.fider.io), [Source Code (⭐3.5k)](https://github.com/getfider/fider)) `MIT` `Docker`
 *   [Framadate](https://framadate.org/abc/) - Online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://framagit.org/framasoft/framadate?)) `CECILL-B` `PHP`
 *   [Meetable](https://events.indieweb.org) - Minimal events aggregator. ([Source Code (⭐139)](https://github.com/aaronpk/Meetable)) `MIT` `PHP`
 
@@ -2187,7 +2189,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Web Servers
 
-*   [Pomerium](https://www.pomerium.io) - An identity-aware reverse proxy, successor to now obsolete oauth\_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. ([Source Code (⭐4.2k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go`
+*   [Pomerium](https://www.pomerium.io) - An identity-aware reverse proxy, successor to now obsolete oauth\_proxy. It inserts an OAuth step before proxying your request to the backend, so that you can safely expose your self-hosted websites to public Internet. ([Source Code (⭐4.3k)](https://github.com/pomerium/pomerium)) `Apache-2.0` `Go`
 
 ### Software / Wikis
 
@@ -4486,7 +4488,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
-*   [Plik (⭐1.5k)](https://github.com/root-gg/plik) - Plik is a scalable and friendly temporary file upload system. ([Demo](https://plik.root.gg/)) `MIT` `Go/Docker`
+*   [Plik (⭐1.6k)](https://github.com/root-gg/plik) - Plik is a scalable and friendly temporary file upload system. ([Demo](https://plik.root.gg/)) `MIT` `Go/Docker`
 
 ### Software / Media Management
 

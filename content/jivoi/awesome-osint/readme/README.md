@@ -166,6 +166,7 @@ Thanks to our main contributors
 *   [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center) - IP and Domain Reputation Center for real-time threat detection
 *   [CiteSeerX](http://citeseer.ist.psu.edu)
 *   [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
+*   [CRT Certificate Search](https://crt.sh) - Allows you to search for public SSL/TLS certificates recorded in Certificate Transparency logs
 *   [Fofa](https://en.fofa.info/) - Asset search and analysis tool.
 *   [Google Custom Search](http://www.google.com/cse)
 *   [GrayhatWarfare](https://grayhatwarfare.com/) - Searches and indexes open Amazon S3 buckets, allowing users to find and explore potentially exposed data.
@@ -711,6 +712,7 @@ Thanks to our main contributors
 *   [Accuranker](https://www.accuranker.com)
 *   [ahrefs](https://ahrefs.com) - A tool for backlink research, organic traffic research, keyword research, content marketing & more.
 *   [Azure Tenant Resolution by PingCastle](https://tenantresolution.pingcastle.com) - Search for Azure Tenant using its domain name or its ID
+*   [Bgpview.io](https://bgpview.io) - The website bgpview\.io allows you to look up detailed information about ASNs, IPs, and BGP routes on the internet.
 *   [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster)
 *   [BuiltWith](http://builtwith.com) - is a website that will help you find out all the technologies used to build a particular websites.
 *   [Central Ops](http://centralops.net)
@@ -729,6 +731,7 @@ Thanks to our main contributors
 *   [GraphyStories](http://app.graphystories.com)
 *   [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
 *   [HypeStat](https://www.hypestat.com)
+*   \[Icann Lookup)(<https://lookup.icann.org/en/lookup>) - The site allows you to look up domain registration information (WHOIS) on the internet
 *   [Infosniper](http://www.infosniper.net)
 *   [intoDNS](http://www.intodns.com)
 *   [IP 2 Geolocation](http://ip2geolocation.com)

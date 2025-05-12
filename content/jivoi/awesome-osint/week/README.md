@@ -6,6 +6,17 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [May 19 - May 25, 2025](/content/2025/20/README.md)
+
+### Speciality Search Engines
+
+*   [CRT Certificate Search](https://crt.sh) - Allows you to search for public SSL/TLS certificates recorded in Certificate Transparency logs
+
+### Domain and IP Research / Steam
+
+*   [Bgpview.io](https://bgpview.io) - The website bgpview\.io allows you to look up detailed information about ASNs, IPs, and BGP routes on the internet.
+*   \[Icann Lookup)(<https://lookup.icann.org/en/lookup>) - The site allows you to look up domain registration information (WHOIS) on the internet
+
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
 ### Speciality Search Engines

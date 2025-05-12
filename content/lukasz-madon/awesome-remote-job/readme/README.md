@@ -182,26 +182,25 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 38. [Remotees](https://weworkremotely.com/?utm_source=Remotees\&utm_medium=Redirect\&utm_campaign=Remotees)
 39. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
 40. [Remotive Jobs](https://remotive.com/)
-41. [Remote People](https://remotepeople.io/)
-42. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
-43. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
-44. [Skip the Drive](https://www.skipthedrive.com/)
-45. [Slasify](https://slasify.com/en) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
-46. [Stream Native Jobs](https://streamnative.io/careers) - Scroll down to `Join Us`
-47. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
-48. [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) - Remote jobs for UI, UX & UXR Designers
-49. [Upwork](https://www.upwork.com) - Find remote jobs in any category
-50. [Virtual Vocations](https://www.virtualvocations.com/)
-51. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
-52. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
-53. [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
-54. [We Work Remotely](https://weworkremotely.com/)
-55. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
-56. [Working Nomads](https://www.workingnomads.com/jobs)
-57. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
-58. [Dataaxy](https://dataaxy.com) Job board and reverse job board specialized in Data and AI in North America
-59. [Freel](https://freel.ca) Freelancers job board in Canada
-60. [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
+41. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
+42. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
+43. [Skip the Drive](https://www.skipthedrive.com/)
+44. [Slasify](https://slasify.com/en) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
+45. [Stream Native Jobs](https://streamnative.io/careers) - Scroll down to `Join Us`
+46. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
+47. [Upwork](https://www.upwork.com) - Find remote jobs in any category
+48. [Virtual Vocations](https://www.virtualvocations.com/)
+49. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
+50. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
+51. [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
+52. [We Work Remotely](https://weworkremotely.com/)
+53. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+54. [Working Nomads](https://www.workingnomads.com/jobs)
+55. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
+56. [Dataaxy](https://dataaxy.com) Job board and reverse job board specialized in Data and AI in North America
+57. [Freel](https://freel.ca) Freelancers job board in Canada
+58. [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
+59. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Remote jobs for UI/UX designers
 
 ## Job boards aggregators
 

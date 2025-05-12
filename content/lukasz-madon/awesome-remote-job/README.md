@@ -6,6 +6,12 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 [ Daily / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
 
+## [May 12, 2025](/content/2025/05/12/README.md)
+
+### Job boards
+
+*   [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Remote jobs for UI/UX designers
+
 ## [May 10, 2025](/content/2025/05/10/README.md)
 
 ### Job boards aggregators
@@ -342,7 +348,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Job boards
 
-*   [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) - Remote jobs for UI, UX & UXR Designers
 *   [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
 *   [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
 
@@ -793,12 +798,6 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Tools / Communication
 
 *   [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
-
-## [Jul 12, 2019](/content/2019/07/12/README.md)
-
-### Job boards
-
-*   [Remote People](https://remotepeople.io/)
 
 ## [Jul 04, 2019](/content/2019/07/04/README.md)
 
