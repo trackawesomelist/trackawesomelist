@@ -6,6 +6,12 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 [ [Daily](/content/uscneps/Awesome-European-Tech/README.md) / Weekly / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [May 19 - May 25, 2025](/content/2025/20/README.md)
+
+### Index / VPS
+
+*   [GleSYS](https://glesys.se/) 🇸🇪
+
 ## [May 05 - May 11, 2025](/content/2025/18/README.md)
 
 ### Index / AI
