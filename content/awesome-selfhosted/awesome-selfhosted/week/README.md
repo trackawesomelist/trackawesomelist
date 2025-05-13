@@ -12,6 +12,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Fork Recipes](https://mikebgrep.github.io/forkapi/latest/clients/) - Manage your food recipes with simplicity. ([Source Code (⭐50)](https://github.com/mikebgrep/fork.recipes)) `BSD-3-Clause` `Docker`
 
+### Software / Web Servers
+
+*   [SafeLine](https://waf.chaitin.com/) - Web application firewall / reverse proxy to protect your web apps from attacks and exploits. ([Demo](https://demo.waf.chaitin.com/), [Source Code (⭐16k)](https://github.com/chaitin/SafeLine)) `GPL-3.0` `Docker`
+
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
 ### Software / Analytics

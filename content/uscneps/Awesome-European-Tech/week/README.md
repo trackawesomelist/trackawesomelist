@@ -12,6 +12,10 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 *   [GleSYS](https://glesys.se/) 🇸🇪
 
+### Index / VPN
+
+*   [GOOSE VPN](https://goosevpn.com) 🇳🇱 - Dutch VPN provider with no-log policy.
+
 ## [May 05 - May 11, 2025](/content/2025/18/README.md)
 
 ### Index / AI
@@ -352,7 +356,6 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 ### Index / VPN
 
-*   [GOOSE VPN](https://www.goosevpn.com) 🇳🇱 - Dutch VPN provider with no-log policy.
 *   [PrivateVPN](https://privatevpn.com/) 🇸🇪 - VPN service with port forwarding features.
 *   [ProtonVPN](https://protonvpn.com/) 🇨🇭 - VPN with built-in adblocker, uses custom Stealth protocol.
 

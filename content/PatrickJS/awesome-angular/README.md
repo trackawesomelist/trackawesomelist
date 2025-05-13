@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [May 13, 2025](/content/2025/05/13/README.md)
+
+### Documentation tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-latest-snippets (⭐2)](https://github.com/JMGomes/angular-latest-snippets) - Comprehensive Angular v19 [snippets](https://marketplace.visualstudio.com/items?itemName=JMGomes.angular-latest-snippets) for TypeScript and HTML, including support for the latest Angular features. This extension was created to bridge the gap in resources for Angular’s newest capabilities, most existing code snippets are quite outdated.
+
+### Inspired by Angular / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [use-vue-service (⭐4)](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
+
 ## [May 12, 2025](/content/2025/05/12/README.md)
 
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

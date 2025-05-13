@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [May 13, 2025](/content/2025/05/13/README.md)
+
+### Libraries / Licensing
+
+*   [WyvernIXTL/license-fetcher (⭐0)](https://github.com/WyvernIXTL/license-fetcher) \[[license-fetcher](https://crates.io/crates/license-fetcher)] - Fetch licenses of dependencies at build time and embed them into your program.
+
 ## [May 12, 2025](/content/2025/05/12/README.md)
 
 ### Applications / Text processing
@@ -34,15 +40,15 @@ A curated list of Rust code and resources.
 
 ### Applications / Blockchain
 
-*   [tendermint-rs (⭐643)](https://github.com/cometbft/tendermint-rs) - Tendermint blockchain data structures and clients
+*   [tendermint-rs (⭐644)](https://github.com/cometbft/tendermint-rs) - Tendermint blockchain data structures and clients
 
 ### Applications / Utilities
 
-*   [bloznelis/kbt (⭐325)](https://github.com/bloznelis/kbt) \[[kbt](https://crates.io/crates/kbt)] - A simple TUI tool for keyboard testing.
+*   [bloznelis/kbt (⭐326)](https://github.com/bloznelis/kbt) \[[kbt](https://crates.io/crates/kbt)] - A simple TUI tool for keyboard testing.
 
 ### Libraries / Data streaming
 
-*   [arkflow-rs/arkflow (⭐478)](https://github.com/arkflow-rs/arkflow) - High-performance Rust stream processing engine [![CI](https://github.com/arkflow-rs/arkflow/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/arkflow-rs/arkflow/actions)
+*   [arkflow-rs/arkflow (⭐965)](https://github.com/arkflow-rs/arkflow) - High-performance Rust stream processing engine [![CI](https://github.com/arkflow-rs/arkflow/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/arkflow-rs/arkflow/actions)
 
 ## [Apr 10, 2025](/content/2025/04/10/README.md)
 
@@ -54,7 +60,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [kruserr/hygg (⭐21)](https://github.com/kruserr/hygg) \[[hygg](https://crates.io/crates/hygg)] - A minimalistic cli document reader, supports PDF, ePub and more.
+*   [kruserr/hygg (⭐22)](https://github.com/kruserr/hygg) \[[hygg](https://crates.io/crates/hygg)] - A minimalistic cli document reader, supports PDF, ePub and more.
 
 ## [Apr 08, 2025](/content/2025/04/08/README.md)
 
@@ -90,19 +96,19 @@ A curated list of Rust code and resources.
 
 ### Applications / Productivity
 
-*   [0xdea/jiggy (⭐5)](https://github.com/0xdea/jiggy) \[[jiggy](https://crates.io/crates/jiggy)] - Minimalistic cross-platform mouse jiggler written in Rust [![build](https://github.com/0xdea/jiggy/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/oneiromancer/jiggy/workflows/build.yml)
+*   [0xdea/jiggy (⭐6)](https://github.com/0xdea/jiggy) \[[jiggy](https://crates.io/crates/jiggy)] - Minimalistic cross-platform mouse jiggler written in Rust [![build](https://github.com/0xdea/jiggy/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/oneiromancer/jiggy/workflows/build.yml)
 
 ## [Apr 01, 2025](/content/2025/04/01/README.md)
 
 ### Applications / Security tools
 
-*   [0xdea/oneiromancer (⭐33)](https://github.com/0xdea/oneiromancer) \[[oneiromancer](https://crates.io/crates/oneiromancer)] - Reverse engineering assistant that uses a locally running LLM to aid with source code analysis [![build](https://github.com/0xdea/oneiromancer/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/oneiromancer/actions/workflows/build.yml)
+*   [0xdea/oneiromancer (⭐37)](https://github.com/0xdea/oneiromancer) \[[oneiromancer](https://crates.io/crates/oneiromancer)] - Reverse engineering assistant that uses a locally running LLM to aid with source code analysis [![build](https://github.com/0xdea/oneiromancer/actions/workflows/build.yml/badge.svg)](https://github.com/0xdea/oneiromancer/actions/workflows/build.yml)
 
 ## [Mar 31, 2025](/content/2025/03/31/README.md)
 
 ### Development tools / Web Servers
 
-*   [frolic (⭐192)](https://github.com/frolicflow/Frolic) - An API layer to build customer facing dashboards 10x faster
+*   [frolic (⭐194)](https://github.com/frolicflow/Frolic) - An API layer to build customer facing dashboards 10x faster
 
 ## [Mar 30, 2025](/content/2025/03/30/README.md)
 
@@ -114,19 +120,19 @@ A curated list of Rust code and resources.
 
 ### Applications / Finance
 
-*   [tackler (⭐79)](https://github.com/tackler-ng/tackler) \[[tackler](https://crates.io/crates/tackler)] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting [![CI Badge](https://github.com/tackler-ng/tackler/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tackler-ng/tackler/blob/main/.github/workflows/ci.yml)
+*   [tackler (⭐81)](https://github.com/tackler-ng/tackler) \[[tackler](https://crates.io/crates/tackler)] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting [![CI Badge](https://github.com/tackler-ng/tackler/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tackler-ng/tackler/blob/main/.github/workflows/ci.yml)
 
 ## [Mar 15, 2025](/content/2025/03/15/README.md)
 
 ### Libraries / Cloud
 
 *   Azure
-    *   [Azure/azure-sdk-for-rust (⭐809)](https://github.com/Azure/azure-sdk-for-rust) - Official Azure SDK for Rust
+    *   [Azure/azure-sdk-for-rust (⭐815)](https://github.com/Azure/azure-sdk-for-rust) - Official Azure SDK for Rust
 
 ### Libraries / Template engine
 
 *   HTML
-    *   [askama (⭐478)](https://github.com/askama-rs/askama) - template rendering engine based on Jinja
+    *   [askama (⭐525)](https://github.com/askama-rs/askama) - template rendering engine based on Jinja
     *   [kaj/ructe (⭐454)](https://github.com/kaj/ructe) - HTML template system
     *   [Keats/tera (⭐3.8k)](https://github.com/Keats/tera) - template engine based on Jinja2 and the Django template language. [![Actions Status](https://github.com/Keats/tera/workflows/ci/badge.svg?branch=master)](https://github.com/Keats/tera/actions)
     *   [lambda-fairy/maud (⭐2.3k)](https://github.com/lambda-fairy/maud) - compile-time HTML templates
@@ -162,17 +168,17 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [gitui (⭐19k)](https://github.com/gitui-org/gitui) - Blazing fast terminal client for git. [![build](https://github.com/gitui-org/gitui/actions/workflows/ci.yml/badge.svg)](https://github.com/gitui-org/gitui/actions)
+*   [gitui (⭐20k)](https://github.com/gitui-org/gitui) - Blazing fast terminal client for git. [![build](https://github.com/gitui-org/gitui/actions/workflows/ci.yml/badge.svg)](https://github.com/gitui-org/gitui/actions)
 
 ### Libraries / Data streaming
 
-*   [iggy (⭐2.4k)](https://github.com/apache/iggy) \[[iggy](https://crates.io/crates/iggy)] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/apache/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/apache/iggy/actions/workflows/test.yml)
+*   [iggy (⭐2.5k)](https://github.com/apache/iggy) \[[iggy](https://crates.io/crates/iggy)] - Persistent message streaming platform, supporting QUIC, TCP and HTTP transport protocols [![CI](https://github.com/apache/iggy/actions/workflows/test.yml/badge.svg)](https://github.com/apache/iggy/actions/workflows/test.yml)
 
 ## [Feb 25, 2025](/content/2025/02/25/README.md)
 
 ### Libraries / Audio and Music
 
-*   [aschey/stream-download-rs (⭐60)](https://github.com/aschey/stream-download-rs) \[[stream-download](https://crates.io/crates/stream-download)] - A library for streaming audio, video, and other media content [![build badge](https://github.com/aschey/stream-download-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aschey/stream-download-rs/actions)
+*   [aschey/stream-download-rs (⭐62)](https://github.com/aschey/stream-download-rs) \[[stream-download](https://crates.io/crates/stream-download)] - A library for streaming audio, video, and other media content [![build badge](https://github.com/aschey/stream-download-rs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/aschey/stream-download-rs/actions)
 
 ## [Feb 24, 2025](/content/2025/02/24/README.md)
 
@@ -188,7 +194,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Static analysis
 
-*   [MIRAI (⭐139)](https://github.com/endorlabs/mirai) - an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/endorlabs/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/endorlabs/mirai/actions/workflows/rust.yml)
+*   [MIRAI (⭐143)](https://github.com/endorlabs/mirai) - an abstract interpreter operating on Rust's mid-level intermediate representation (MIR) [![Continuous Integration](https://github.com/endorlabs/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/endorlabs/mirai/actions/workflows/rust.yml)
 
 ## [Feb 09, 2025](/content/2025/02/09/README.md)
 
@@ -624,7 +630,7 @@ A curated list of Rust code and resources.
 ### Libraries / Computation
 
 *   Science
-    *   [Axect/Peroxide (⭐611)](https://github.com/Axect/Peroxide) - Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust
+    *   [Axect/Peroxide (⭐614)](https://github.com/Axect/Peroxide) - Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust
     *   [cpmech/russell (⭐144)](https://github.com/cpmech/russell) - Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
 
 ### Libraries / Date and time
@@ -2064,7 +2070,7 @@ A curated list of Rust code and resources.
     *   [rbatis/rbatis (⭐2.3k)](https://github.com/rbatis/rbatis) - ORM Framework High Performance(JSON based)
     *   [SeaQL/sea-orm (⭐8.1k)](https://github.com/SeaQL/sea-orm) - 🐚 An async & dynamic ORM  [![crate](https://img.shields.io/crates/v/sea-orm.svg)](https://crates.io/crates/sea-orm) [![docs](https://img.shields.io/docsrs/sea-orm/latest)](https://docs.rs/sea-orm) [![build status](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml/badge.svg)](https://github.com/SeaQL/sea-orm/actions/workflows/rust.yml)
     *   [SeaQL/seaography (⭐433)](https://github.com/SeaQL/seaography) - 🧭 GraphQL framework for SeaORM [![crate](https://img.shields.io/crates/v/seaography.svg)](https://crates.io/crates/seaography) [![docs](https://img.shields.io/docsrs/seaography/latest)](https://docs.rs/seaography) [![build status](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml/badge.svg)](https://github.com/SeaQL/seaography/actions/workflows/tests.yaml)
-    *   [thegenius/taitan-orm (⭐96)](https://github.com/thegenius/taitan-orm) - The State of Art ORM for Rust, Async & Compile Time Generation.
+    *   [thegenius/taitan-orm (⭐101)](https://github.com/thegenius/taitan-orm) - The State of Art ORM for Rust, Async & Compile Time Generation.
 
 ## [Aug 09, 2022](/content/2022/08/09/README.md)
 
@@ -2089,7 +2095,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Data processing
 
-*   [amv-dev/yata (⭐356)](https://github.com/amv-dev/yata) - high performance technical analysis library [![Build Status](https://img.shields.io/github/workflow/status/amv-dev/yata/Rust?branch=master)](https://github.com/amv-dev/yata/actions?query=workflow%3ARust)
+*   [amv-dev/yata (⭐358)](https://github.com/amv-dev/yata) - high performance technical analysis library [![Build Status](https://img.shields.io/github/workflow/status/amv-dev/yata/Rust?branch=master)](https://github.com/amv-dev/yata/actions?query=workflow%3ARust)
 *   [bluss/ndarray (⭐3.9k)](https://github.com/rust-ndarray/ndarray) - N-dimensional array with array views, multidimensional slicing, and efficient operations
 *   [kernelmachine/utah (⭐143)](https://github.com/kernelmachine/utah) - Dataframe structure and operations
 *   [pola-rs/polars (⭐33k)](https://github.com/pola-rs/polars) - Fast feature complete DataFrame library [![Lint Rust](https://github.com/pola-rs/polars/actions/workflows/lint-rust.yml/badge.svg)](https://github.com/pola-rs/polars/actions)
@@ -3264,7 +3270,7 @@ A curated list of Rust code and resources.
     *   [shepmaster/sxd-document (⭐156)](https://github.com/shepmaster/sxd-document) - An XML library
     *   [shepmaster/sxd-xpath (⭐123)](https://github.com/shepmaster/sxd-xpath) - An XPath library
     *   [tafia/quick-xml (⭐1.3k)](https://github.com/tafia/quick-xml) - High performance XML pull reader/writer
-    *   [yaserde (⭐191)](https://github.com/luminvent/yaserde) - Yet Another Serializer/Deserializer specialized for XML
+    *   [yaserde (⭐193)](https://github.com/luminvent/yaserde) - Yet Another Serializer/Deserializer specialized for XML
 
 ### Libraries / Graphics
 
@@ -3365,7 +3371,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [sharkdp/bat (⭐52k)](https://github.com/sharkdp/bat) - A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
+*   [sharkdp/bat (⭐53k)](https://github.com/sharkdp/bat) - A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
 
 ### Libraries / Distributed systems
 
@@ -3918,7 +3924,7 @@ A curated list of Rust code and resources.
     *   [branca](https://crates.io/crates/branca) - Implementation of Branca for Authenticated and Encrypted API tokens.
     *   [c410-f3r/wtx (⭐275)](https://github.com/c410-f3r/wtx) - Low and high level HTTP/2 server
     *   [carllerche/tower-web (⭐980)](https://github.com/carllerche/tower-web) \[[tower-web](https://crates.io/crates/tower-web)] - A fast, boilerplate free, web framework
-    *   [Cot (⭐694)](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers.
+    *   [Cot (⭐703)](https://github.com/cot-rs/cot) - The Rust web framework for lazy developers.
     *   [GildedHonour/frank\_jwt (⭐251)](https://github.com/GildedHonour/frank_jwt) - JSON Web Token implementation.
     *   [Gotham (⭐2.3k)](https://github.com/gotham-rs/gotham) - A flexible web framework that does not sacrifice safety, security or speed.
     *   [Graphul (⭐447)](https://github.com/graphul-rs/graphul) - An Express-inspired web framework. [![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/graphul)
@@ -4020,7 +4026,7 @@ A curated list of Rust code and resources.
 
 *   [Vim](https://vim.sourceforge.io/) - the ubiquitous text editor
     *   [autozimu/LanguageClient-neovim (⭐3.6k)](https://github.com/autozimu/LanguageClient-neovim) - [LSP](https://microsoft.github.io/language-server-protocol/) client. Implemented in Rust and supports rls out of the box.
-    *   [cargo.nvim (⭐75)](https://github.com/nwiizo/cargo.nvim) - A Neovim plugin for seamless integration with Cargo commands.
+    *   [cargo.nvim (⭐77)](https://github.com/nwiizo/cargo.nvim) - A Neovim plugin for seamless integration with Cargo commands.
     *   [crates.nvim (⭐978)](https://github.com/Saecki/crates.nvim) - plugin that helps to managing crates.io dependencies.
     *   [rust.vim (⭐4k)](https://github.com/rust-lang/rust.vim) - provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
     *   [vim-racer (⭐633)](https://github.com/racer-rust/vim-racer) - allows vim to use [Racer (⭐3.4k)](https://github.com/racer-rust/racer) for Rust code completion and navigation.
@@ -4184,7 +4190,7 @@ A curated list of Rust code and resources.
 
 ### Applications
 
-*   [alacritty (⭐58k)](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
+*   [alacritty (⭐59k)](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
 
 ### Libraries / Text search
 

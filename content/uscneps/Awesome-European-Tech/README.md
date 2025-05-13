@@ -6,6 +6,12 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [May 13, 2025](/content/2025/05/13/README.md)
+
+### Index / VPN
+
+*   [GOOSE VPN](https://goosevpn.com) 🇳🇱 - Dutch VPN provider with no-log policy.
+
 ## [May 12, 2025](/content/2025/05/12/README.md)
 
 ### Index / VPS
@@ -404,7 +410,6 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 ### Index / VPN
 
-*   [GOOSE VPN](https://www.goosevpn.com) 🇳🇱 - Dutch VPN provider with no-log policy.
 *   [PrivateVPN](https://privatevpn.com/) 🇸🇪 - VPN service with port forwarding features.
 *   [ProtonVPN](https://protonvpn.com/) 🇨🇭 - VPN with built-in adblocker, uses custom Stealth protocol.
 

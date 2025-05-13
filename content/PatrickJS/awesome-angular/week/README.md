@@ -8,6 +8,10 @@
 
 ## [May 19 - May 25, 2025](/content/2025/20/README.md)
 
+### Documentation tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-latest-snippets (⭐2)](https://github.com/JMGomes/angular-latest-snippets) - Comprehensive Angular v19 [snippets](https://marketplace.visualstudio.com/items?itemName=JMGomes.angular-latest-snippets) for TypeScript and HTML, including support for the latest Angular features. This extension was created to bridge the gap in resources for Angular’s newest capabilities, most existing code snippets are quite outdated.
+
 ### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-drupal8-rest (⭐3)](https://github.com/wnabil/ngx-drupal8-rest) - Drupal 8 rest module for Angular applications.
@@ -15,6 +19,10 @@
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@shanieMoonlight/moonlight-repo (⭐1)](https://github.com/shanieMoonlight/moonlight-repo) - This monorepo contains a collection of open source Angular libraries and utilities developed by SpiderBaby, along with demo applications showcasing their usage.
+
+### Inspired by Angular / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [use-vue-service (⭐4)](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
 
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 

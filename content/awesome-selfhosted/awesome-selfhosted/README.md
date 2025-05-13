@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [May 13, 2025](/content/2025/05/13/README.md)
+
+### Software / Web Servers
+
+*   [SafeLine](https://waf.chaitin.com/) - Web application firewall / reverse proxy to protect your web apps from attacks and exploits. ([Demo](https://demo.waf.chaitin.com/), [Source Code (⭐16k)](https://github.com/chaitin/SafeLine)) `GPL-3.0` `Docker`
+
 ## [May 12, 2025](/content/2025/05/12/README.md)
 
 ### Software / Recipe Management
