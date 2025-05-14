@@ -6,6 +6,12 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 [ Daily / [Weekly](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md) / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
 
+## [May 14, 2025](/content/2025/05/14/README.md)
+
+### Papers / 2024
+
+*   [Hardware and software platform inference](https://arxiv.org/pdf/2411.05197) - (arXiv) *A method for identifying the underlying GPU architecture and software stack of a black-box machine learning model solely based on its input-output behavior.*
+
 ## [May 13, 2025](/content/2025/05/13/README.md)
 
 ### Papers / 2025

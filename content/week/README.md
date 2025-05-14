@@ -188,13 +188,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   \[TizenBrew] ([https://github.com/reisxd/TizenBrew (⭐623)](https://github.com/reisxd/TizenBrew)) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 *   \[TizenTube] ([https://github.com/reisxd/TizenTube (⭐804)](https://github.com/reisxd/TizenTube)) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
 
-#### [18. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
-
-##### Papers / 2025
-
-*   [Robust ML Auditing using Prior Knowledge](https://arxiv.org/pdf/2505.04796) - (ICML) *Formally establishes the conditions under which an auditor can prevent audit manipulations using prior knowledge about the ground truth.*
-
-#### [19. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [18. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -220,7 +214,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [use-vue-service (⭐4)](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
 
-#### [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [19. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Recipe Management
 
@@ -230,7 +224,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [SafeLine](https://waf.chaitin.com/) - Web application firewall / reverse proxy to protect your web apps from attacks and exploits. ([Demo](https://demo.waf.chaitin.com/), [Source Code (⭐16k)](https://github.com/chaitin/SafeLine)) `GPL-3.0` `Docker`
 
-#### [21. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [20. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -289,7 +283,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [NDJSON (⭐741) (⭐738)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐395) (⭐393)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-#### [22. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [21. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Speciality Search Engines
 
@@ -308,6 +302,16 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Bgpview.io](https://bgpview.io) - The website bgpview\.io allows you to look up detailed information about ASNs, IPs, and BGP routes on the internet.
 *   \[Icann Lookup)(<https://lookup.icann.org/en/lookup>) - The site allows you to look up domain registration information (WHOIS) on the internet
 *   [URLhaus](https://urlhaus.abuse.ch) - URLhaus shares malicious URLs to combat malware and botnet threats
+
+#### [22. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+
+##### Papers / 2025
+
+*   [Robust ML Auditing using Prior Knowledge](https://arxiv.org/pdf/2505.04796) - (ICML) *Formally establishes the conditions under which an auditor can prevent audit manipulations using prior knowledge about the ground truth.*
+
+##### Papers / 2024
+
+*   [Hardware and software platform inference](https://arxiv.org/pdf/2411.05197) - (arXiv) *A method for identifying the underlying GPU architecture and software stack of a black-box machine learning model solely based on its input-output behavior.*
 
 ---
 
@@ -1121,7 +1125,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 322, 📝 05&#x2F;10 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 21K, 📝 24&#x2F;11&#x2F;16 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K, 📝 01&#x2F;22 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-- [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 99, 📝 05&#x2F;13 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
+- [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 99, 📝 05&#x2F;14 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.
 - [Awesome Math](/content/rossant/awesome-math/README.md) - ([Source ⭐ 9.5K, 📝 04&#x2F;03 ](https://github.com/rossant/awesome-math)) - A curated list of awesome mathematics resources
 - [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 21K, 📝 05&#x2F;14 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
 - [Awesome Recursion Schemes](/content/passy/awesome-recursion-schemes/README.md) - ([Source ⭐ 1.1K, 📝 20&#x2F;11&#x2F;25 ](https://github.com/passy/awesome-recursion-schemes)) - Resources for learning and using recursion schemes.

@@ -12,6 +12,10 @@
 
 *   [Robust ML Auditing using Prior Knowledge](https://arxiv.org/pdf/2505.04796) - (ICML) *Formally establishes the conditions under which an auditor can prevent audit manipulations using prior knowledge about the ground truth.*
 
+### Papers / 2024
+
+*   [Hardware and software platform inference](https://arxiv.org/pdf/2411.05197) - (arXiv) *A method for identifying the underlying GPU architecture and software stack of a black-box machine learning model solely based on its input-output behavior.*
+
 ## [2. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Other

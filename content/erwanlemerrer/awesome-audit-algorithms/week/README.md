@@ -12,6 +12,10 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 *   [Robust ML Auditing using Prior Knowledge](https://arxiv.org/pdf/2505.04796) - (ICML) *Formally establishes the conditions under which an auditor can prevent audit manipulations using prior knowledge about the ground truth.*
 
+### Papers / 2024
+
+*   [Hardware and software platform inference](https://arxiv.org/pdf/2411.05197) - (arXiv) *A method for identifying the underlying GPU architecture and software stack of a black-box machine learning model solely based on its input-output behavior.*
+
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Papers / 2025
