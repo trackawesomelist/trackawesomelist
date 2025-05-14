@@ -158,6 +158,7 @@ Thanks to our main contributors
 *Search engines for specific information or topics.*
 
 *   [2lingual Search](http://www.2lingual.com)
+*   [Abusech](https://hunting.abuse.ch) - Hunt across all abuse.ch platforms with one simple query
 *   [Abuseipdb](https://www.abuseipdb.com/) - Repository of abuses reported by system administrators for IPs, Domains, and subnets
 *   [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 *   [Biznar](http://biznar.com)
@@ -173,6 +174,7 @@ Thanks to our main contributors
 *   [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
 *   [Intelligence X](https://intelx.io/tools) - Paid OSINT Tool Allowing users to search for information across various sources including the dark web and public data leaks.
 *   [Internet Archive](https://archive.org/)
+*   [Islegitsite](https://www.islegitsite.com/) - Checks if a website is trustworthy by analyzing its reputation, domain, and security based on public sources.
 *   [Mamont](https://www.mmnt.ru/)
 *   [Million Short](https://millionshort.com)
 *   [Netlas.io](https://app.netlas.io/)
@@ -414,13 +416,16 @@ Thanks to our main contributors
 
 ### [↑](#-table-of-contents) Telegram
 
+*   [GroupDa](https://groupda.com/telegram/group/search) - Can be used for Searching Telegram Channels. Search by Category, Countries and Language.
 *   [Maltego Telegram (⭐240)](https://github.com/vognik/maltego-telegram) - Rich Set of Entities & Transforms for OSINT on Telegram with Maltego.
 *   [TgramSearch](https://tgramsearch.com/) - Convenient search for Telegram channels, as well as a structured catalog with over 700000 Telegram channels. Available in 8+ Languages.
+*   [tgworld](https://tg.world/) - The Global Search System TG.World will help you find Channels, Groups and Bots in Telegram in any language and for any country in the world!
 *   [Telegram Channel Joiner (⭐1)](https://github.com/spmedia/Telegram-Channel-Joiner) - grow your Free and Premium Telegram accounts easily with this channel joiner script.
 *   [Teleteg](https://teleteg.com/) - The ultimate Telegram search engine. 10 results for free plan.
 *   [Telegago](https://cse.google.com/cse?q=+\&cx=006368593537057042503:efxu7xprihg#gsc.tab=0\&gsc.q=%20\&gsc.page=1) - A Google Advanced Search specifically for finding public and private Telegram Channels and Chatrooms.
 *   [Telegram Nearby Map (⭐1.1k)](https://github.com/tejado/telegram-nearby-map) - Webapp based on OpenStreetMap and the official Telegram library to find the position of nearby users.
 *   [Telegram channels scraper TeleGraphite  (⭐105)](https://github.com/hamodywe/telegram-scraper-TeleGraphite) - Telegram Scraper & JSON Exporter & telegram channels scraper.
+*   [TeleSearch](https://telesearch.me/) - Search and find your desired Telegram channels, groups, bots and games quickly and easily with Telesearch​.
 
 ### [↑](#-table-of-contents) Steam
 
@@ -769,6 +774,7 @@ Thanks to our main contributors
 *   [StatsCrop](http://www.statscrop.com)
 *   [TinyScan](https://www.tiny-scan.com) - Another powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
 *   [urlDNA](https://urldna.io/) -  Unleash website insights! urldna.io analyzes url, monitors brands and track phishing sites.
+*   [URLhaus](https://urlhaus.abuse.ch) - URLhaus shares malicious URLs to combat malware and botnet threats
 *   [urlQuery](http://urlquery.net)
 *   [urlscan](https://urlscan.io/) -  is a free service to scan and analyse websites.
 *   [URLVoid](http://www.urlvoid.com) - Analyzes a website through multiple blacklist engines and online reputation tools to facilitate the detection of fraudulent and malicious websites.
@@ -1373,7 +1379,7 @@ Thanks to our main contributors
 *   [Tails](https://tails.boum.org)
 *   [Thunderbird](https://www.mozilla.org/en-US/thunderbird)
 *   [Tor Project](https://www.torproject.org)
-*   [uBlock Origin (⭐53k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐54k)](https://github.com/gorhill/uBlock)
 *   [Wickr](https://wickr.com)
 *   [WOT](https://www.mywot.com)
 *   [ZMail](http://zmail.sourceforge.net)

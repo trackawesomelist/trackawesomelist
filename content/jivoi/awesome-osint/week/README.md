@@ -10,12 +10,21 @@
 
 ### Speciality Search Engines
 
+*   [Abusech](https://hunting.abuse.ch) - Hunt across all abuse.ch platforms with one simple query
 *   [CRT Certificate Search](https://crt.sh) - Allows you to search for public SSL/TLS certificates recorded in Certificate Transparency logs
+*   [Islegitsite](https://www.islegitsite.com/) - Checks if a website is trustworthy by analyzing its reputation, domain, and security based on public sources.
+
+### Social Media Tools / Telegram
+
+*   [GroupDa](https://groupda.com/telegram/group/search) - Can be used for Searching Telegram Channels. Search by Category, Countries and Language.
+*   [tgworld](https://tg.world/) - The Global Search System TG.World will help you find Channels, Groups and Bots in Telegram in any language and for any country in the world!
+*   [TeleSearch](https://telesearch.me/) - Search and find your desired Telegram channels, groups, bots and games quickly and easily with Telesearch​.
 
 ### Domain and IP Research / Steam
 
 *   [Bgpview.io](https://bgpview.io) - The website bgpview\.io allows you to look up detailed information about ASNs, IPs, and BGP routes on the internet.
 *   \[Icann Lookup)(<https://lookup.icann.org/en/lookup>) - The site allows you to look up domain registration information (WHOIS) on the internet
+*   [URLhaus](https://urlhaus.abuse.ch) - URLhaus shares malicious URLs to combat malware and botnet threats
 
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
@@ -1203,7 +1212,7 @@
 
 ### Privacy and Encryption Tools / Steam
 
-*   [uBlock Origin (⭐53k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐54k)](https://github.com/gorhill/uBlock)
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 

@@ -6,6 +6,23 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [May 14, 2025](/content/2025/05/14/README.md)
+
+### Speciality Search Engines
+
+*   [Abusech](https://hunting.abuse.ch) - Hunt across all abuse.ch platforms with one simple query
+*   [Islegitsite](https://www.islegitsite.com/) - Checks if a website is trustworthy by analyzing its reputation, domain, and security based on public sources.
+
+### Social Media Tools / Telegram
+
+*   [GroupDa](https://groupda.com/telegram/group/search) - Can be used for Searching Telegram Channels. Search by Category, Countries and Language.
+*   [tgworld](https://tg.world/) - The Global Search System TG.World will help you find Channels, Groups and Bots in Telegram in any language and for any country in the world!
+*   [TeleSearch](https://telesearch.me/) - Search and find your desired Telegram channels, groups, bots and games quickly and easily with Telesearch​.
+
+### Domain and IP Research / Steam
+
+*   [URLhaus](https://urlhaus.abuse.ch) - URLhaus shares malicious URLs to combat malware and botnet threats
+
 ## [May 12, 2025](/content/2025/05/12/README.md)
 
 ### Speciality Search Engines
@@ -1240,7 +1257,7 @@
 
 ### Privacy and Encryption Tools / Steam
 
-*   [uBlock Origin (⭐53k)](https://github.com/gorhill/uBlock)
+*   [uBlock Origin (⭐54k)](https://github.com/gorhill/uBlock)
 
 ## [Feb 18, 2020](/content/2020/02/18/README.md)
 
