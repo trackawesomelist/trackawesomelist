@@ -4,6 +4,7 @@
 
 
 - [Top Repos](top/README.md)
+  - [Awesome List](/content/content/sindresorhus/awesome/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
@@ -20,7 +21,6 @@
   - [Awesome Docker](/content/content/veggiemonk/awesome-docker/README.md)
   - [Static Analysis](/content/content/analysis-tools-dev/static-analysis/README.md)
   - [Awesome Angular](/content/content/PatrickJS/awesome-angular/README.md)
-  - [Awesome List](/content/content/sindresorhus/awesome/README.md)
   - [Magictools](/content/content/ellisonleao/magictools/README.md)
   - [Awesome Nextjs](/content/content/unicodeveloper/awesome-nextjs/README.md)
   - [Awesome Creative Coding](/content/content/terkelg/awesome-creative-coding/README.md)
@@ -42,6 +42,7 @@
   - [Awesome Machine Learning](/content/content/josephmisiti/awesome-machine-learning/README.md)
   - [Quick Look Plugins](/content/content/sindresorhus/quick-look-plugins/README.md)
   - [Awesome Ebpf](/content/content/zoidbergwill/awesome-ebpf/README.md)
+  - [Awesome Iam](/content/content/kdeldycke/awesome-iam/README.md)
   - [Awesome Streaming](/content/content/manuzhang/awesome-streaming/README.md)
   - [Awesome Deno](/content/content/denolib/awesome-deno/README.md)
   - [Awesome Elixir](/content/content/h4cc/awesome-elixir/README.md)
@@ -53,7 +54,6 @@
   - [Awesome Developer First](/content/content/agamm/awesome-developer-first/README.md)
   - [Awesome Open Source Games](/content/content/michelpereira/awesome-open-source-games/README.md)
   - [Awesome Css Frameworks](/content/content/troxler/awesome-css-frameworks/README.md)
-  - [Awesome Mental Health](/content/content/dreamingechoes/awesome-mental-health/README.md)
 - [All Tracked List](all-repos/README.md)
   - [Computer Science](computer-science/README.md)
     - [Awesome Cern](/content/CERN/awesome-cern/README.md)
