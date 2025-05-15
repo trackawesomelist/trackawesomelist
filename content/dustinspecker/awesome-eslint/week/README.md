@@ -6,6 +6,13 @@ A list of awesome ESLint plugins, configs, etc.
 
 [ [Daily](/content/dustinspecker/awesome-eslint/README.md) / Weekly / [Overview](/content/dustinspecker/awesome-eslint/readme/README.md) ]
 
+## [May 19 - May 25, 2025](/content/2025/20/README.md)
+
+### Plugins / Code Quality
+
+*   [SonarJS (⭐1.1k)](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md) - Rules detecting bugs and suspicious patterns.
+*   [eslint-plugin-code-complete (⭐1)](https://github.com/aryelu/eslint-plugin-code-complete) - A custom ESLint plugin that enforces principles of clean, maintainable software design — inspired by Code Complete.
+
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
 ### Plugins / Code Quality
@@ -87,12 +94,6 @@ A list of awesome ESLint plugins, configs, etc.
 ### Plugins / Style
 
 *   [paths (⭐77)](https://github.com/vitonsky/eslint-plugin-paths) - Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.
-
-## [Feb 05 - Feb 11, 2024](/content/2024/6/README.md)
-
-### Configs / Configs by Well-Known Companies/Organizations
-
-*   [Vercel (⭐1.3k)](https://github.com/vercel/style-guide/tree/canary/eslint) - Vercel Engineering's composable eslint configuration used in all their codebases.
 
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
@@ -221,15 +222,7 @@ A list of awesome ESLint plugins, configs, etc.
 *   [eslint-plugin-write-good-comments (⭐39)](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
 *   [import (⭐5.7k)](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
 
-### Tools / Testing Tools
-
-*   [eslint-define-config (⭐365)](https://github.com/Shinigami92/eslint-define-config) - Provide a `defineConfig` function for `.eslintrc.js` files.
-
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
-
-### Plugins / Languages and Environments
-
-*   [AssemblyScript](https://www.npmjs.com/package/@shopify/eslint-plugin-assemblyscript) - Rules for enforcing restrictions on TypeScript toward AssemblyScript compliance.
 
 ### Tools / Testing Tools
 
@@ -268,18 +261,6 @@ A list of awesome ESLint plugins, configs, etc.
 ### Installation and Setup / Testing Tools
 
 *   [Lintier (⭐27)](https://github.com/josh-stillman/lintier) - CLI to quickly scaffold an ESLint & Prettier setup in a TypeScript project.
-
-## [Jul 12 - Jul 18, 2021](/content/2021/28/README.md)
-
-### Plugins / Frameworks
-
-*   [Custom Elements (⭐58)](https://github.com/github/eslint-plugin-custom-elements) - Rules by GitHub for Custom Elements.
-
-## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
-
-### Plugins / Code Quality
-
-*   [SonarJS (⭐1.2k)](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns.
 
 ## [May 24 - May 30, 2021](/content/2021/21/README.md)
 
@@ -434,7 +415,6 @@ A list of awesome ESLint plugins, configs, etc.
 *   [Standard (⭐29k)](https://github.com/feross/standard) - JavaScript Standard Style.
 *   [Superlint (⭐5)](https://github.com/supermind/superlint) - JavaScript Supermind Style.
 *   [XO (⭐7.8k)](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️.
-*   [Healthier (⭐84)](https://github.com/KidkArolis/healthier) - Code style agnostic version of Standard, perfect companion to Prettier.
 
 ### Parsers / Testing Tools
 
@@ -466,8 +446,6 @@ A list of awesome ESLint plugins, configs, etc.
 ### Plugins / Deprecation
 
 *   [deprecate (⭐81)](https://github.com/AlexMost/eslint-plugin-deprecate) - Mark functions or modules as deprecated and get lint messages when they are used.
-*   [deprecation (⭐334)](https://github.com/gund/eslint-plugin-deprecation) - Identifies use of
-    jsdoc `@deprecated` functions.
 *   [disable (⭐56)](https://github.com/mradionov/eslint-plugin-disable) - Disable specified plugins using file path patterns and inline comments.
 
 ### Plugins / Embedded
@@ -483,7 +461,6 @@ A list of awesome ESLint plugins, configs, etc.
 
 ### Plugins / Languages and Environments
 
-*   [Coffee (⭐11)](https://github.com/aminland/eslint-plugin-coffee) - Enables linting CoffeeScript files with, with optional linting rules from the Coffeelint library.
 *   Flow
     *   [Flow (⭐1.1k)](https://github.com/gajus/eslint-plugin-flowtype) - Flow type linting rules.
     *   [Flow Errors (⭐403)](https://github.com/amilajack/eslint-plugin-flowtype-errors) - Run Flow as an ESLint plugin.
@@ -500,7 +477,7 @@ A list of awesome ESLint plugins, configs, etc.
 
 ### Plugins / Misc
 
-*   [PutOut (⭐746)](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - an ESLint plugin integrates [putout (⭐746)](https://github.com/coderaiser/putout) linter into ESLint.
+*   [PutOut (⭐750)](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) - an ESLint plugin integrates [putout (⭐750)](https://github.com/coderaiser/putout) linter into ESLint.
 
 ### Plugins / Practices and Specific ES Features
 
@@ -539,7 +516,6 @@ A list of awesome ESLint plugins, configs, etc.
 
 *   [no-secrets (⭐149)](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
 *   [no-unsanitized (⭐236)](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
-*   ScanJS [config (⭐88)](https://github.com/mozfreddyb/eslint-config-scanjs) and [plugin (⭐28)](https://github.com/mozfreddyb/eslint-plugin-scanjs-rules) - Security-related rules.
 *   [Security (⭐2.3k)](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 *   [xss (⭐67)](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
@@ -547,7 +523,6 @@ A list of awesome ESLint plugins, configs, etc.
 
 ### Configs / Configs by Well-Known Companies/Organizations
 
-*   [Airbnb-typescript (⭐1k)](https://github.com/iamturns/eslint-config-airbnb-typescript) - Airbnb's ESLint config with TypeScript support.
 *   [Wikimedia (⭐31)](https://github.com/wikimedia/eslint-config-wikimedia) - Shareable config for [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript), used by [MediaWiki](https://www.mediawiki.org/).
 
 ### Configs / Other Prominent Configs (100 stars or so)
@@ -560,7 +535,6 @@ A list of awesome ESLint plugins, configs, etc.
 
 *   [Ash-Nazg (⭐6)](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
 *   [Cecilia (⭐7)](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for awesome projects.
-*   [ES](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
 *   [Hardcore (⭐436)](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
 *   [Problems (⭐68)](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
 *   [Supermind (⭐4)](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style.
@@ -612,10 +586,6 @@ A list of awesome ESLint plugins, configs, etc.
 *   [functional (⭐910)](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 
 ## [Dec 16 - Dec 22, 2019](/content/2019/50/README.md)
-
-### Configs / Configs by Well-Known Companies/Organizations
-
-*   [React App (⭐103k)](https://github.com/facebook/create-react-app/tree/master/packages/eslint-config-react-app) - Sharable config for [React](https://reactjs.org) projects.
 
 ### Plugins / Practices and Specific ES Features
 
@@ -703,9 +673,6 @@ A list of awesome ESLint plugins, configs, etc.
 ### Tutorials / Testing Tools
 
 *   [Creating an ESLint Plugin](https://medium.com/tumblbug-engineering/creating-an-eslint-plugin-87f1cb42767f) - Article walking through the creation of an ESLint rule and plugin.
-*   [Linting JavaScript with ESLint](https://egghead.io/lessons/javascript-linting-javascript-with-eslint) - Video showing ESLint setup and basics.
-*   [Linting React JSX with ESLint (in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - Video showing how to use React and JSX with ESLint.
-*   [Plugin Module with Mixins](https://chrysanthium.com/eslint-integration) - Article on how to write a plugin as a node module containing modular mixin configuration.
 *   [Writing a rule to spot undeclared props hiding in plain sight](http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/) - Article about creating rules that require scope analysis.
 
 ## [Jun 04 - Jun 10, 2018](/content/2018/23/README.md)
