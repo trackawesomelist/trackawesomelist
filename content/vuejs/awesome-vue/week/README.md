@@ -19,6 +19,7 @@
 ### Resources / Examples
 
 *   [i18n boilerplate Intlayer + Vue 3 + Vite (⭐0)](https://github.com/aymericzip/intlayer-vite-vue-template)
+*   [tab-toolkit (⭐0)](https://github.com/mioe/tab-toolkit) - very small app-tool for beginner guitarists 🎸 (PWA | Pinia | UnoCSS) by [@mioe](https://github.com/mioe)
 
 ### Components & Libraries / UI Components
 

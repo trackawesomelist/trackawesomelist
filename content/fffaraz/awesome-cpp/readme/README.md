@@ -367,7 +367,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [inih (⭐2.7k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
 *   [inih (⭐444)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐2.7k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
 *   [ini-cpp (⭐42)](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih (⭐2.7k)](https://github.com/benhoyt/inih). \[BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
-*   [iniparser (⭐1k)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
+*   [iniparser (⭐1k)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]
 *   [inipp (⭐292)](https://github.com/mcmtroffaes/inipp) - Simple header-only C++ ini parser and generator. \[MIT]
 *   [libconfig (⭐1.2k)](https://github.com/hyperrealm/libconfig) - C, C++ library for processing structured configuration files. \[LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 *   [libconfuse (⭐492)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
@@ -439,6 +439,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Fast C++ CSV Parser (⭐2.3k)](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. \[BSD-3-Clause]
 *   [Glaze (⭐1.8k)](https://github.com/stephenberry/glaze) - High performance, header only, CSV library with reflection support. \[MIT]
 *   [lazycsv (⭐82)](https://github.com/ashtum/lazycsv) - A fast, lightweight and single-header csv parser for modern C++. \[MIT]
+*   [rapidcsv (⭐954)](https://github.com/d99kris/rapidcsv) - An easy-to-use, header-only C++ CSV parser library. \[BSD-3-Clause]
 *   [ssp (⭐54)](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. \[MIT]
 *   [Vince's CSV Parser (⭐974)](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. \[MIT]
 
@@ -626,10 +627,10 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [iup](https://www.tecgraf.puc-rio.br/iup) - Multi-platform toolkit for building graphical user interfaces. \[MIT]
 *   [libui (⭐11k)](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. \[MIT]
 *   [MyGUI (⭐759)](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI. \[MIT]
-*   [nana](http://nanapro.org/en-us/) - Nana is a cross-platform library for GUI programming in modern C++ style. \[Boost]
+*   [nana (⭐2.4k)](https://github.com/cnjinhao/nana) - Nana is a cross-platform library for GUI programming in modern C++ style. \[Boost]
 *   [NanoGui (⭐1.7k)](https://github.com/mitsuba-renderer/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. \[BSD]
 *   [NAppGUI (⭐569)](https://github.com/frang75/nappgui_src) - SDK for building cross-platform desktop apps in ANSI-C. \[MIT] [website](https://nappgui.com/en/home/web/home.html)
-*   [nuklear (⭐9.9k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. \[PublicDomain]
+*   [nuklear (⭐10k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. \[PublicDomain]
 *   [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. \[GPLv3]
 *   [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. \[Own based on LGPL]
 *   [QwtPlot3D](http://qwtplot3d.sourceforge.net/) - A feature-rich Qt/OpenGL-based C++ programming library, providing essentially a bunch of 3D-widgets. \[zlib]
@@ -851,7 +852,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *   [Boost.Multiprecision (⭐218)](https://github.com/boostorg/multiprecision) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. \[Boost] [website](https://boost.org/libs/multiprecision)
 *   [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google. \[BSD]
 *   [CGAL (⭐5.4k)](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. \[LGPL\&GPL] [website](http://www.cgal.org/)
-*   [cml](http://cmldev.net/) - free C++ math library for games and graphics. \[Boost]
+*   [cml (⭐84)](https://github.com/demianmnave/CML) - The configurable math library. \[Boost]
 *   [CNL (⭐655)](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. \[Boost]
 *   [DirectXMath (⭐1.6k)](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
 *   [Dlib (⭐14k)](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. \[Boost] [website](http://dlib.net/)

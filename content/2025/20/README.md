@@ -1,16 +1,65 @@
 # Awesome List Updates on May 19 - May 25, 2025
 
-25 awesome lists updated this week.
+27 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [1. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+
+### Native Apps (closed source) / Rust
+
+*   [ÖPNV Navigator](https://navigatorapp.net/)
+
+### SDKs / Rust
+
+*   [TripKit (⭐95)](https://github.com/alexander-albers/tripkit) - TripKit is a Swift-library to get data from public transport providers.
+
+## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Programming Languages Support / Diagnostics
+
+*   [jinzhogjia/zig-lamp (⭐19)](https://github.com/jinzhongjia/zig-lamp) - Improve the Zig experience.
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [datsfilipe/vesper.nvim (⭐138)](https://github.com/datsfilipe/vesper.nvim) - It's a port of the popular VS Code theme Vesper, written in Lua.
+
+### Media / Diagnostics
+
+*   [pandasoli/nekovim (⭐18)](https://github.com/pandasoli/nekovim) - Flexible Discord rich presence.
+
+### Note Taking / Diagnostics
+
+*   [bngarren/checkmate.nvim (⭐10)](https://github.com/bngarren/checkmate.nvim) - A beautified Markdown to-do list companion.
+
+### Utility / Diagnostics
+
+*   [athar-qadri/weather.nvim (⭐3)](https://github.com/athar-qadri/weather.nvim) - Realtime Weather and Earthquake alerts with support for lualine integration (no api key required).
+
+### Terminal Integration / Diagnostics
+
+*   [Axot017/multiterm.nvim (⭐3)](https://github.com/Axot017/multiterm.nvim) - A lightweight manager of multiple terminal instances with key bindings.
+*   [da-moon/telescope-toggleterm.nvim (⭐39)](https://github.com/da-moon/telescope-toggleterm.nvim) - Telescope picker for terminal buffers.
+
+### Keybinding / Diagnostics
+
+*   [echasnovski/mini.nvim#mini.keymap (⭐7.2k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-keymap.md) - Module of `mini.nvim` with utilities to make special key mappings: multi-step actions (with built-in steps for "smart" `<Tab>`, `<S-Tab>`, `<CR>`, `<BS>`), combos (more general version of "better escape" like behavior).
+
+### Formatting / Diagnostics
+
+*   [TheLazyCat00/simple-format (⭐3)](https://github.com/TheLazyCat00/simple-format) - Replace text using custom regex and highlight group rules, useful for formatting whitespace.
+
+## [3. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
 *   [Firebase Genkit (⭐61)](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
+
+### Programming Languages
+
+*   [VBA (⭐393)](https://github.com/sancarn/awesome-vba#readme) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
 
 ### Front-End Development
 
@@ -36,21 +85,25 @@
 
 *   [Neuroimaging (⭐7)](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
 
-## [2. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+### Miscellaneous
+
+*   [Standards (⭐46)](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
+
+## [4. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### OAuth2 & OpenID / Other tools
 
 *   [Awesome OpenID Connect (⭐51)](https://github.com/cerberauth/awesome-openid-connect) - A curated list of providers, services, libraries, and resources for OpenID Connect.
 *   [Hydra](https://www.ory.sh/hydra) - Open-source OIDC & OAuth2 Server Provider.
 
-## [3. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [5. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Code Quality
 
 *   [SonarJS (⭐1.1k)](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md) - Rules detecting bugs and suspicious patterns.
 *   [eslint-plugin-code-complete (⭐1)](https://github.com/aryelu/eslint-plugin-code-complete) - A custom ESLint plugin that enforces principles of clean, maintainable software design — inspired by Code Complete.
 
-## [4. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [6. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2025
 
@@ -60,26 +113,26 @@
 
 *   [Hardware and software platform inference](https://arxiv.org/pdf/2411.05197) - (arXiv) *A method for identifying the underlying GPU architecture and software stack of a black-box machine learning model solely based on its input-output behavior.*
 
-## [5. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [7. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Other
 
 *   \[TizenBrew] ([https://github.com/reisxd/TizenBrew (⭐623)](https://github.com/reisxd/TizenBrew)) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 *   \[TizenTube] ([https://github.com/reisxd/TizenTube (⭐804)](https://github.com/reisxd/TizenTube)) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / API Development and Analysis
 
 *   [Yaak](https://yaak.app) - A modern API client supporting multiple protocols, offline usage, and Git integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mountain-loop/yaak)
 
-## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
 *   [fivenines.io](https://fivenines.io/) — Linux server monitoring with real‑time dashboards and alerting — free forever for up to 5 monitored servers at 60-seconds interval. No credit card required.
 
-## [8. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [10. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Construct 2
 
@@ -87,13 +140,13 @@
 *   [Array Editor for C2](https://curious-pixie-60ff1a.netlify.app/) - A tool to edit arrays in Construct 2.
 *   [Sprite Font Generator - v3](https://www.construct.net/en/forum/game-development/tools-and-resources-27/sprite-font-generator-v3-64038) - Tool to generate sprite fonts for Construct.
 
-## [9. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [11. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
 *   [jqlite (⭐8)](https://github.com/Jay-Karia/jqlite) - ⚡ The query language for JSON
 
-## [10. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [12. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 4
 
@@ -104,7 +157,7 @@
 
 *   [godot-launcher (⭐0)](https://github.com/sebastianoboem/godot-launcher) - A desktop application built with Python that simplifies the Godot Engine development environment management.
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [13. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -117,6 +170,7 @@
 ### Resources / Examples
 
 *   [i18n boilerplate Intlayer + Vue 3 + Vite (⭐0)](https://github.com/aymericzip/intlayer-vite-vue-template)
+*   [tab-toolkit (⭐0)](https://github.com/mioe/tab-toolkit) - very small app-tool for beginner guitarists 🎸 (PWA | Pinia | UnoCSS) by [@mioe](https://github.com/mioe)
 
 ### Components & Libraries / UI Components
 
@@ -131,13 +185,13 @@
 
 *   [vue-intlayer (⭐77)](https://github.com/aymericzip/intlayer) - Intlayer i18n solution for vue 3.
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [14. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [keploy](https://keploy.io/) — Keploy is an open-source testing platform that helps developers automate and streamline their testing process. It provides API, and integration testing agents, generating tests, mocks/stubs for APIs that actually work. Additionally, Keploy offers an AI-powered Unit Testing Agent that generates stable, useful unit tests directly in your GitHub PRs and in VSCode, helping catch errors and improve code quality.
 
-## [13. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [15. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
@@ -155,7 +209,7 @@
 
 *   [Trophy](https://trophy.so) - APIs for gamified product experiences.
 
-## [14. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
+## [16. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
 
 ### Index / VPS
 
@@ -165,7 +219,7 @@
 
 *   [GOOSE VPN](https://goosevpn.com) 🇳🇱 - Dutch VPN provider with no-log policy.
 
-## [15. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [17. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -190,19 +244,31 @@
 *   [tmag5273 (⭐10)](https://github.com/dysonltd/tmag5273) - Cross-platform no\_std compatible i2c library for 3-axis Hall Effect sensor.
 *   [paa5100je-pwm3901 (⭐2)](https://github.com/dysonltd/paa5100je-pwm3901) - Cross platform no-std compatible spi async library for an Optical Flow Sensor.
 
-## [16. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [18. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
 
 *   [OpenMage (⭐895)](https://github.com/OpenMage/magento-lts) - Fork of EoL Magento 1 e-commerce platform.
 
-## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
 *   [sqlitemap (⭐0)](https://github.com/bw-hro/sqlitemap) - Persistent map backed by SQLite. \[MIT]
 
-## [18. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+### CSV
+
+*   [rapidcsv (⭐954)](https://github.com/d99kris/rapidcsv) - An easy-to-use, header-only C++ CSV parser library. \[BSD-3-Clause]
+
+### GUI
+
+*   [nana (⭐2.4k)](https://github.com/cnjinhao/nana) - Nana is a cross-platform library for GUI programming in modern C++ style. \[Boost]
+
+### Math
+
+*   [cml (⭐84)](https://github.com/demianmnave/CML) - The configurable math library. \[Boost]
+
+## [20. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -261,13 +327,13 @@
 *   [NDJSON (⭐741) (⭐738)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐395) (⭐393)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [19. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [21. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Next.js, Strapi Portfolio Starter (⭐2)](https://github.com/PictureElement/nextjs-strapi-portfolio-starter) – ⚡️ A modern portfolio starter with Next.js, Strapi, and Tailwind CSS, featuring automated XML sitemap, JSON-LD schemas, OpenGraph metadata, and a contact form with spam protection.
 
-## [20. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [22. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -276,6 +342,10 @@
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [agent-rules-kit (⭐4)](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool that facilitates the installation and configuration of rules for Cursor AI, the AI-powered IDE. The rules help AI agents better understand the structure, patterns, and best practices of different technology stacks.
+
+### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-schematic-builder (⭐1)](https://github.com/kstepien3/ngx-schematic-builder) - A tool for building Angular schematic projects. Compiles and packages your custom schematics, preparing them for publishing and use.
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -289,6 +359,10 @@
 
 *   [ngx-drupal8-rest (⭐3)](https://github.com/wnabil/ngx-drupal8-rest) - Drupal 8 rest module for Angular applications.
 
+### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-lib-starter-kit (⭐1)](https://github.com/r3zafa/ngx-lib-starter-kit) - This boilerplate helps you quickly set up and develop Angular libraries. It includes a pre-configured structure for components, services, utilities, themes, assets, and more. The project is optimized for scalability and maintainability.
+
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@shanieMoonlight/moonlight-repo (⭐1)](https://github.com/shanieMoonlight/moonlight-repo) - This monorepo contains a collection of open source Angular libraries and utilities developed by SpiderBaby, along with demo applications showcasing their usage.
@@ -298,13 +372,13 @@
 
 *   [use-vue-service (⭐4)](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
 
-## [21. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [23. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Remote jobs for UI/UX designers
 
-## [22. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [24. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Speciality Search Engines
 
@@ -324,13 +398,13 @@
 *   \[Icann Lookup)(<https://lookup.icann.org/en/lookup>) - The site allows you to look up domain registration information (WHOIS) on the internet
 *   [URLhaus](https://urlhaus.abuse.ch) - URLhaus shares malicious URLs to combat malware and botnet threats
 
-## [23. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [25. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Game Frameworks / XML
 
 *   [Parin (⭐21)](https://github.com/Kapendev/parin) - A delightfully simple and lightweight 2D game engine.
 
-## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [26. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Text processing
 
@@ -340,7 +414,7 @@
 
 *   [WyvernIXTL/license-fetcher (⭐0)](https://github.com/WyvernIXTL/license-fetcher) \[[license-fetcher](https://crates.io/crates/license-fetcher)] - Fetch licenses of dependencies at build time and embed them into your program.
 
-## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [27. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Recipe Management
 

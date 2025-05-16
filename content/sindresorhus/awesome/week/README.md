@@ -12,6 +12,10 @@
 
 *   [Firebase Genkit (⭐61)](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
 
+### Programming Languages
+
+*   [VBA (⭐393)](https://github.com/sancarn/awesome-vba#readme) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
+
 ### Front-End Development
 
 *   [WebGPU (⭐1.6k)](https://github.com/mikbry/awesome-webgpu#readme) - JavaScript API for rendering and compute on GPUs.
@@ -35,6 +39,10 @@
 ### Health and Social Science
 
 *   [Neuroimaging (⭐7)](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
+
+### Miscellaneous
+
+*   [Standards (⭐46)](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 
 ## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
 

@@ -283,6 +283,7 @@
 *   [Zig (⭐461)](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 *   [Move (⭐1.4k)](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 *   [Esolangs (⭐532)](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
+*   [VBA (⭐393)](https://github.com/sancarn/awesome-vba#readme) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
 
 <br>
 <hr>
@@ -910,6 +911,7 @@
 *   [Regex (⭐293)](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 *   [Event-Driven Architecture (⭐454)](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
 *   [Permacomputing (⭐97)](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
+*   [Standards (⭐46)](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 
 ## Related
 

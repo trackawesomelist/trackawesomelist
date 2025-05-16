@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/sindresorhus/awesome/week/README.md) / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [May 16, 2025](/content/2025/05/16/README.md)
+
+### Programming Languages
+
+*   [VBA (⭐393)](https://github.com/sancarn/awesome-vba#readme) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
+
+### Miscellaneous
+
+*   [Standards (⭐46)](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
+
 ## [May 15, 2025](/content/2025/05/15/README.md)
 
 ### Platforms

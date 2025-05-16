@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [May 16, 2025](/content/2025/05/16/README.md)
+
+### Resources / Examples
+
+*   [tab-toolkit (⭐0)](https://github.com/mioe/tab-toolkit) - very small app-tool for beginner guitarists 🎸 (PWA | Pinia | UnoCSS) by [@mioe](https://github.com/mioe)
+
 ## [May 13, 2025](/content/2025/05/13/README.md)
 
 ### Resources / External Resources

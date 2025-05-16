@@ -6,6 +6,20 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [May 16, 2025](/content/2025/05/16/README.md)
+
+### CSV
+
+*   [rapidcsv (⭐954)](https://github.com/d99kris/rapidcsv) - An easy-to-use, header-only C++ CSV parser library. \[BSD-3-Clause]
+
+### GUI
+
+*   [nana (⭐2.4k)](https://github.com/cnjinhao/nana) - Nana is a cross-platform library for GUI programming in modern C++ style. \[Boost]
+
+### Math
+
+*   [cml (⭐84)](https://github.com/demianmnave/CML) - The configurable math library. \[Boost]
+
 ## [May 12, 2025](/content/2025/05/12/README.md)
 
 ### Containers
@@ -1998,7 +2012,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ### GUI
 
-*   [nuklear (⭐9.9k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. \[PublicDomain]
+*   [nuklear (⭐10k)](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. \[PublicDomain]
 
 ### Build Systems
 
@@ -2232,7 +2246,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 *   [inih (⭐2.7k)](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. \[BSD-3-Clause]
 *   [inih (⭐444)](https://github.com/jtilly/inih) - Single header only C++ version of [inih (⭐2.7k)](https://github.com/benhoyt/inih). \[BSD-3-Clause]
-*   [iniparser (⭐1k)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]\*
+*   [iniparser (⭐1k)](https://github.com/ndevilla/iniparser) - INI file parser. \[MIT]
 *   [libconfuse (⭐492)](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. \[ISC]
 *   [simpleini (⭐1.2k)](https://github.com/brofield/simpleini) - Cross-platform C++ library providing a simple API to read and write INI-style configuration files. \[MIT]
 
@@ -3756,10 +3770,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Dec 19, 2016](/content/2016/12/19/README.md)
 
-### GUI
-
-*   [nana](http://nanapro.org/en-us/) - Nana is a cross-platform library for GUI programming in modern C++ style. \[Boost]
-
 ### Logging
 
 *   [Blackhole (⭐201)](https://github.com/3Hren/blackhole) - Attribute-based logging framework, which is designed to be fast, modular and highly customizable. \[MIT]
@@ -4941,7 +4951,6 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Math
 
 *   [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google. \[BSD]
-*   [cml](http://cmldev.net/) - free C++ math library for games and graphics. \[Boost]
 
 ## [Aug 22, 2014](/content/2014/08/22/README.md)
 
