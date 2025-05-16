@@ -6,6 +6,14 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [May 16, 2025](/content/2025/05/16/README.md)
+
+### Plotting / Third-party APIs
+
+*   lisp-stat's [plot (vega-lite) (⭐29)](https://github.com/Lisp-Stat/plot) - a Vega-lite DSL. MS-PL.
+    *   includes functions for text-based plotting that work in the REPL, and JavaScript visualisations that are rendered in a browser.
+    *   [emacs-vega-view (⭐139)](https://github.com/applied-science/emacs-vega-view?tab=readme-ov-file#common-lisp) - an Emacs plugin that allows to display a Vega plot from a lisp-stat expression in a buffer.
+
 ## [May 09, 2025](/content/2025/05/09/README.md)
 
 ### Objective-C
@@ -49,7 +57,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [ceramic](https://ceramic.github.io/) - a wrapper around simpler tools to create and build an Electron app for Common Lisp. It is currently broken and unmaintained, but some tools are workth having a look at.
 *   NOTE: the main idea in embedding a lisp web app in Electron is to start the lisp webserver as an async process from Electron's `main.js` file, and to point the Electron window to the localhost URL. That's it.
-*   [cl-webui (⭐22)](https://github.com/garlic0x1/cl-webui/) - bindings for [webui](https://webui.me/), that allows to use any web browser or WebView as GUI.
+*   [cl-webui (⭐28)](https://github.com/garlic0x1/cl-webui/) - bindings for [webui](https://webui.me/), that allows to use any web browser or WebView as GUI.
 *   [clogframe (⭐1.6k)](https://github.com/rabbibotton/clog/tree/main/clogframe) - an executable wrapper for webview\.h, allowing to display any web application served by a Common Lisp server.
     *   clogframe does *not* induce the use of the whole CLOG framework.
 
@@ -2555,7 +2563,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ### Miscellaneous
 
-*   [bodge-nuklear (⭐65)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9.9k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
+*   [bodge-nuklear (⭐65)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐10k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT](https://opensource.org/licenses/MIT).
 
 ### Others / Third-party APIs
 

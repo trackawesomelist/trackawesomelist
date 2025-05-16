@@ -169,6 +169,7 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 
 ### 2025
 
+*   [AIMLAI at ECML/PKDD 2025](https://project.inria.fr/aimlai/)
 *   [AAAI workshop on AI Governance: Alignment, Morality, and Law](https://aaai.org/conference/aaai/aaai-25/workshop-list/#ws06)
 
 ### 2024

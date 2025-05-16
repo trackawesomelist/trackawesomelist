@@ -16,6 +16,10 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 *   [Hardware and software platform inference](https://arxiv.org/pdf/2411.05197) - (arXiv) *A method for identifying the underlying GPU architecture and software stack of a black-box machine learning model solely based on its input-output behavior.*
 
+### Related Events / 2025
+
+*   [AIMLAI at ECML/PKDD 2025](https://project.inria.fr/aimlai/)
+
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Papers / 2025

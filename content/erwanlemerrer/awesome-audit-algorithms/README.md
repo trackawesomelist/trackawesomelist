@@ -6,6 +6,12 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 [ Daily / [Weekly](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md) / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
 
+## [May 16, 2025](/content/2025/05/16/README.md)
+
+### Related Events / 2025
+
+*   [AIMLAI at ECML/PKDD 2025](https://project.inria.fr/aimlai/)
+
 ## [May 14, 2025](/content/2025/05/14/README.md)
 
 ### Papers / 2024

@@ -15,6 +15,7 @@ Collections of awesome neovim plugins.
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
 *   [datsfilipe/vesper.nvim (⭐138)](https://github.com/datsfilipe/vesper.nvim) - It's a port of the popular VS Code theme Vesper, written in Lua.
+*   [ntk148v/slack.nvim (⭐2)](https://github.com/ntk148v/slack.nvim) - A ported Slack colorscheme.
 
 ### Media / Diagnostics
 

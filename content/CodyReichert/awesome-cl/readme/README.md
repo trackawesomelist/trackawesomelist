@@ -651,7 +651,7 @@ But that's not all.
 *   [ftw (⭐65)](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT][200].
 *   [eql, eql5, eql5-android](https://gitlab.com/eql) - Embedded Qt4 and Qt5 Lisp, embedded in ECL, embeddable in Qt. Port of EQL5 to the Android platform. [MIT][200].
     *   [EQL5 on the Android store](https://play.google.com/store/apps/details?id=org.eql5.android.repl\&pcampaignid=web_share)
-*   [bodge-nuklear (⭐65)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐9.9k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT][200].
+*   [bodge-nuklear (⭐65)](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear (⭐10k)](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT][200].
 *   [vk (⭐49)](https://github.com/JolifantoBambla/vk) -  Common Lisp/CFFI bindings for the Vulkan API. [MIT][200].
 
 Other utilities:
@@ -672,7 +672,7 @@ Read: [Three web views for Common Lisp](https://lisp-journey.gitlab.io/blog/thre
 
 For other web views, see:
 
-*   [cl-webui (⭐22)](https://github.com/garlic0x1/cl-webui/) - bindings for [webui](https://webui.me/), that allows to use any web browser or WebView as GUI.
+*   [cl-webui (⭐28)](https://github.com/garlic0x1/cl-webui/) - bindings for [webui](https://webui.me/), that allows to use any web browser or WebView as GUI.
 *   [clogframe (⭐1.6k)](https://github.com/rabbibotton/clog/tree/main/clogframe) - an executable wrapper for webview\.h, allowing to display any web application served by a Common Lisp server.
     *   clogframe does *not* induce the use of the whole CLOG framework.
 
@@ -2001,6 +2001,9 @@ See also [uiop:define-package](https://common-lisp.net/project/asdf/uiop.html#UI
 
 ## Plotting
 
+*   lisp-stat's [plot (vega-lite) (⭐29)](https://github.com/Lisp-Stat/plot) - a Vega-lite DSL. MS-PL.
+    *   includes functions for text-based plotting that work in the REPL, and JavaScript visualisations that are rendered in a browser.
+    *   [emacs-vega-view (⭐139)](https://github.com/applied-science/emacs-vega-view?tab=readme-ov-file#common-lisp) - an Emacs plugin that allows to display a Vega plot from a lisp-stat expression in a buffer.
 *   [vgplot (⭐55)](https://github.com/volkers/vgplot) - an interface to the
     gnuplot plotting utility with the intention to resemble some of
     the plot commands of octave or matlab. [GPL3][2].
