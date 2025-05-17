@@ -1,24 +1,42 @@
 # Awesome List Updates on May 19 - May 25, 2025
 
-32 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [1. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+
+### System Utilities
+
+*   [scrcpy (⭐122k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+
+## [2. Awesome Steam](/content/scholtzm/awesome-steam/week/README.md)
+
+### Python / General
+
+*   [aiosteampy (⭐50)](https://github.com/somespecialone/aiosteampy) - Trade and interact with Steam market, WebAPI, SteamGuard.
+
+## [3. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+
+### Games / Browser Games
+
+*   [Car Detailing Master](https://poki.com/en/g/car-detailing-master) - Clean, paint, and polish cars to perfection in this satisfying makeover game from Gamebole.
+
+## [4. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Community Extensions
 
 *   [Identity provider for German eID L21s/keycloak-eid-identity-provider (⭐4)](https://github.com/L21s/keycloak-eid-identity-provider/tree/main)
 
-## [2. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [5. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Parser / Package managers
 
 *   [loo-re/zini (⭐7)](https://github.com/loo-re/zini) - Consistent .ini parser.
 
-## [3. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [6. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Family
 
@@ -36,7 +54,7 @@
 | ------: | -------: | ---: |
 |   2 - 4 |       10 |  45m |
 
-## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
+## [7. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/week/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -46,7 +64,7 @@
 
 *   [WebGL Lighting](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lighting with Greg Tatum.
 
-## [5. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Plotting / Third-party APIs
 
@@ -54,7 +72,7 @@
     *   includes functions for text-based plotting that work in the REPL, and JavaScript visualisations that are rendered in a browser.
     *   [emacs-vega-view (⭐139)](https://github.com/applied-science/emacs-vega-view?tab=readme-ov-file#common-lisp) - an Emacs plugin that allows to display a Vega plot from a lisp-stat expression in a buffer.
 
-## [6. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### Native Apps (closed source) / Rust
 
@@ -64,7 +82,7 @@
 
 *   [TripKit (⭐95)](https://github.com/alexander-albers/tripkit) - TripKit is a Swift-library to get data from public transport providers.
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Programming Languages Support / Diagnostics
 
@@ -100,7 +118,7 @@
 
 *   [TheLazyCat00/simple-format (⭐3)](https://github.com/TheLazyCat00/simple-format) - Replace text using custom regex and highlight group rules, useful for formatting whitespace.
 
-## [8. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [11. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -138,21 +156,21 @@
 
 *   [Standards (⭐46)](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 
-## [9. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [12. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### OAuth2 & OpenID / Other tools
 
 *   [Awesome OpenID Connect (⭐51)](https://github.com/cerberauth/awesome-openid-connect) - A curated list of providers, services, libraries, and resources for OpenID Connect.
 *   [Hydra](https://www.ory.sh/hydra) - Open-source OIDC & OAuth2 Server Provider.
 
-## [10. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
+## [13. Awesome Eslint](/content/dustinspecker/awesome-eslint/week/README.md)
 
 ### Plugins / Code Quality
 
 *   [SonarJS (⭐1.1k)](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md) - Rules detecting bugs and suspicious patterns.
 *   [eslint-plugin-code-complete (⭐1)](https://github.com/aryelu/eslint-plugin-code-complete) - A custom ESLint plugin that enforces principles of clean, maintainable software design — inspired by Code Complete.
 
-## [11. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [14. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2025
 
@@ -166,26 +184,26 @@
 
 *   [AIMLAI at ECML/PKDD 2025](https://project.inria.fr/aimlai/)
 
-## [12. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
+## [15. Awesome Smart Tv](/content/vitalets/awesome-smart-tv/week/README.md)
 
 ### Samsung Tizen / Other
 
 *   \[TizenBrew] ([https://github.com/reisxd/TizenBrew (⭐623)](https://github.com/reisxd/TizenBrew)) - A way to experience modded websites and you can install newer apps without fighting with Tizen Studio
 *   \[TizenTube] ([https://github.com/reisxd/TizenTube (⭐804)](https://github.com/reisxd/TizenTube)) - A TizenBrew module that enhances your favourite streaming websites viewing experience by removing ads and adding support for Sponsorblock.
 
-## [13. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / API Development and Analysis
 
 *   [Yaak](https://yaak.app) - A modern API client supporting multiple protocols, offline usage, and Git integration. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mountain-loop/yaak)
 
-## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Monitoring
 
 *   [fivenines.io](https://fivenines.io/) — Linux server monitoring with real‑time dashboards and alerting — free forever for up to 5 monitored servers at 60-seconds interval. No credit card required.
 
-## [15. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
+## [18. Awesome Construct](/content/ConstructCommunity/awesome-construct/week/README.md)
 
 ### Construct 2
 
@@ -193,13 +211,13 @@
 *   [Array Editor for C2](https://curious-pixie-60ff1a.netlify.app/) - A tool to edit arrays in Construct 2.
 *   [Sprite Font Generator - v3](https://www.construct.net/en/forum/game-development/tools-and-resources-27/sprite-font-generator-v3-64038) - Tool to generate sprite fonts for Construct.
 
-## [16. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [19. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
 *   [jqlite (⭐8)](https://github.com/Jay-Karia/jqlite) - ⚡ The query language for JSON
 
-## [17. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [20. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### Plugins and scripts / Godot 4
 
@@ -210,7 +228,7 @@
 
 *   [godot-launcher (⭐0)](https://github.com/sebastianoboem/godot-launcher) - A desktop application built with Python that simplifies the Godot Engine development environment management.
 
-## [18. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [21. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Resources / External Resources
 
@@ -238,13 +256,13 @@
 
 *   [vue-intlayer (⭐77)](https://github.com/aymericzip/intlayer) - Intlayer i18n solution for vue 3.
 
-## [19. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [22. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Multiple languages / [Other](#other-1)
 
 *   [keploy](https://keploy.io/) — Keploy is an open-source testing platform that helps developers automate and streamline their testing process. It provides API, and integration testing agents, generating tests, mocks/stubs for APIs that actually work. Additionally, Keploy offers an AI-powered Unit Testing Agent that generates stable, useful unit tests directly in your GitHub PRs and in VSCode, helping catch errors and improve code quality.
 
-## [20. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [23. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Authentication & Identity
 
@@ -262,7 +280,7 @@
 
 *   [Trophy](https://trophy.so) - APIs for gamified product experiences.
 
-## [21. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
+## [24. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
 
 ### Index / VPS
 
@@ -272,7 +290,7 @@
 
 *   [GOOSE VPN](https://goosevpn.com) 🇳🇱 - Dutch VPN provider with no-log policy.
 
-## [22. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [25. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -297,13 +315,13 @@
 *   [tmag5273 (⭐10)](https://github.com/dysonltd/tmag5273) - Cross-platform no\_std compatible i2c library for 3-axis Hall Effect sensor.
 *   [paa5100je-pwm3901 (⭐2)](https://github.com/dysonltd/paa5100je-pwm3901) - Cross platform no-std compatible spi async library for an Optical Flow Sensor.
 
-## [23. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [26. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Content Management Systems (CMS)
 
 *   [OpenMage (⭐895)](https://github.com/OpenMage/magento-lts) - Fork of EoL Magento 1 e-commerce platform.
 
-## [24. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [27. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Containers
 
@@ -321,7 +339,7 @@
 
 *   [cml (⭐84)](https://github.com/demianmnave/CML) - The configurable math library. \[Boost]
 
-## [25. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [28. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -380,13 +398,13 @@
 *   [NDJSON (⭐741) (⭐738)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 *   [YAML (⭐395) (⭐393)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [26. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
+## [29. Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/week/README.md)
 
 ### Boilerplates
 
 *   [Next.js, Strapi Portfolio Starter (⭐2)](https://github.com/PictureElement/nextjs-strapi-portfolio-starter) – ⚡️ A modern portfolio starter with Next.js, Strapi, and Tailwind CSS, featuring automated XML sitemap, JSON-LD schemas, OpenGraph metadata, and a contact form with spam protection.
 
-## [27. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -429,13 +447,13 @@
 
 *   [use-vue-service (⭐4)](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
 
-## [28. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [31. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
 *   [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Remote jobs for UI/UX designers
 
-## [29. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [32. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Speciality Search Engines
 
@@ -455,13 +473,13 @@
 *   \[Icann Lookup)(<https://lookup.icann.org/en/lookup>) - The site allows you to look up domain registration information (WHOIS) on the internet
 *   [URLhaus](https://urlhaus.abuse.ch) - URLhaus shares malicious URLs to combat malware and botnet threats
 
-## [30. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [33. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Game Frameworks / XML
 
 *   [Parin (⭐21)](https://github.com/Kapendev/parin) - A delightfully simple and lightweight 2D game engine.
 
-## [31. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [34. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Text processing
 
@@ -471,15 +489,27 @@
 
 *   [WyvernIXTL/license-fetcher (⭐0)](https://github.com/WyvernIXTL/license-fetcher) \[[license-fetcher](https://crates.io/crates/license-fetcher)] - Fetch licenses of dependencies at build time and embed them into your program.
 
-## [32. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [35. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / File Transfer - Peer-to-peer Filesharing
+
+*   [Webtor (⭐382)](https://github.com/webtor-io/self-hosted) - Web-based torrent client with instant audio/video streaming. ([Demo](https://webtor.io)) `MIT` `Docker`
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
 *   [Chibisafe](https://chibisafe.app) - File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ([Source Code (⭐2.1k)](https://github.com/chibisafe/chibisafe)) `MIT` `Docker/Nodejs`
 
+### Software / Note-taking & Editors
+
+*   [TriliumNext Notes (⭐2.4k)](https://github.com/TriliumNext/Notes) - Cross-platform hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes). `AGPL-3.0` `Nodejs/Docker/K8S`
+
 ### Software / Recipe Management
 
 *   [Fork Recipes](https://mikebgrep.github.io/forkapi/latest/clients/) - Manage your food recipes with simplicity. ([Source Code (⭐50)](https://github.com/mikebgrep/fork.recipes)) `BSD-3-Clause` `Docker`
+
+### Software / Software Development - Project Management
+
+*   [Mergeable](https://pvcnt.github.io/mergeable/) `⚠` - A better inbox for GitHub pull requests. ([Demo](https://mergeable.pages.dev/inbox), [Source Code (⭐83)](https://github.com/pvcnt/mergeable)) `MIT` `Nodejs/Docker/K8S`
 
 ### Software / Web Servers
 

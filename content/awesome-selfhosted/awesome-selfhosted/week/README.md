@@ -8,13 +8,25 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [May 19 - May 25, 2025](/content/2025/20/README.md)
 
+### Software / File Transfer - Peer-to-peer Filesharing
+
+*   [Webtor (⭐382)](https://github.com/webtor-io/self-hosted) - Web-based torrent client with instant audio/video streaming. ([Demo](https://webtor.io)) `MIT` `Docker`
+
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
 
 *   [Chibisafe](https://chibisafe.app) - File uploader service that aims to to be easy to use and set up. It accepts files, photos, documents, anything you imagine and gives you back a shareable link for you to send to others. ([Source Code (⭐2.1k)](https://github.com/chibisafe/chibisafe)) `MIT` `Docker/Nodejs`
 
+### Software / Note-taking & Editors
+
+*   [TriliumNext Notes (⭐2.4k)](https://github.com/TriliumNext/Notes) - Cross-platform hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes). `AGPL-3.0` `Nodejs/Docker/K8S`
+
 ### Software / Recipe Management
 
 *   [Fork Recipes](https://mikebgrep.github.io/forkapi/latest/clients/) - Manage your food recipes with simplicity. ([Source Code (⭐50)](https://github.com/mikebgrep/fork.recipes)) `BSD-3-Clause` `Docker`
+
+### Software / Software Development - Project Management
+
+*   [Mergeable](https://pvcnt.github.io/mergeable/) `⚠` - A better inbox for GitHub pull requests. ([Demo](https://mergeable.pages.dev/inbox), [Source Code (⭐83)](https://github.com/pvcnt/mergeable)) `MIT` `Nodejs/Docker/K8S`
 
 ### Software / Web Servers
 
@@ -4222,12 +4234,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [FusionPBX](https://www.fusionpbx.com/) - Web interface for multi-platform voice switch called FreeSWITCH. ([Source Code (⭐861)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
-## [Mar 11 - Mar 17, 2019](/content/2019/10/README.md)
-
-### Software / Note-taking & Editors
-
-*   [Trilium Notes (⭐29k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs/Docker/K8S`
-
 ## [Feb 25 - Mar 03, 2019](/content/2019/8/README.md)
 
 ### Software / Bookmarks and Link Sharing
@@ -4614,7 +4620,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Inventory Management
 
-*   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code (⭐458)](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
+*   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code](https://codeberg.org/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
 
 ### Software / Media Management
 

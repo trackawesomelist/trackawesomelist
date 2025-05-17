@@ -1,24 +1,56 @@
 # Awesome List Updates on May 17, 2025
 
-5 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+### System Utilities
+
+*   [scrcpy (⭐122k)](https://github.com/Genymobile/scrcpy) - Easily mirror and control your Android devices on computers via USB or WiFi. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
+
+## [2. Awesome Steam](/content/scholtzm/awesome-steam/README.md)
+
+### Python / General
+
+*   [aiosteampy (⭐50)](https://github.com/somespecialone/aiosteampy) - Trade and interact with Steam market, WebAPI, SteamGuard.
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+### Software / File Transfer - Peer-to-peer Filesharing
+
+*   [Webtor (⭐382)](https://github.com/webtor-io/self-hosted) - Web-based torrent client with instant audio/video streaming. ([Demo](https://webtor.io)) `MIT` `Docker`
+
+### Software / Note-taking & Editors
+
+*   [TriliumNext Notes (⭐2.4k)](https://github.com/TriliumNext/Notes) - Cross-platform hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes). `AGPL-3.0` `Nodejs/Docker/K8S`
+
+### Software / Software Development - Project Management
+
+*   [Mergeable](https://pvcnt.github.io/mergeable/) `⚠` - A better inbox for GitHub pull requests. ([Demo](https://mergeable.pages.dev/inbox), [Source Code (⭐83)](https://github.com/pvcnt/mergeable)) `MIT` `Nodejs/Docker/K8S`
+
+## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+
+### Games / Browser Games
+
+*   [Car Detailing Master](https://poki.com/en/g/car-detailing-master) - Clean, paint, and polish cars to perfection in this satisfying makeover game from Gamebole.
+
+## [5. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ### Community Extensions
 
 *   [Identity provider for German eID L21s/keycloak-eid-identity-provider (⭐4)](https://github.com/L21s/keycloak-eid-identity-provider/tree/main)
 
-## [2. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+## [6. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ### Parser / Package managers
 
 *   [loo-re/zini (⭐7)](https://github.com/loo-re/zini) - Consistent .ini parser.
 
-## [3. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+## [7. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ### Family
 
@@ -36,7 +68,7 @@
 | ------: | -------: | ---: |
 |   2 - 4 |       10 |  45m |
 
-## [4. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+## [8. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ### Frameworks • Libraries • Ecosystems
 
@@ -46,7 +78,7 @@
 
 *   [WebGL Lighting](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lighting with Greg Tatum.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

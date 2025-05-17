@@ -6,6 +6,20 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [May 17, 2025](/content/2025/05/17/README.md)
+
+### Software / File Transfer - Peer-to-peer Filesharing
+
+*   [Webtor (⭐382)](https://github.com/webtor-io/self-hosted) - Web-based torrent client with instant audio/video streaming. ([Demo](https://webtor.io)) `MIT` `Docker`
+
+### Software / Note-taking & Editors
+
+*   [TriliumNext Notes (⭐2.4k)](https://github.com/TriliumNext/Notes) - Cross-platform hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes). `AGPL-3.0` `Nodejs/Docker/K8S`
+
+### Software / Software Development - Project Management
+
+*   [Mergeable](https://pvcnt.github.io/mergeable/) `⚠` - A better inbox for GitHub pull requests. ([Demo](https://mergeable.pages.dev/inbox), [Source Code (⭐83)](https://github.com/pvcnt/mergeable)) `MIT` `Nodejs/Docker/K8S`
+
 ## [May 16, 2025](/content/2025/05/16/README.md)
 
 ### Software / File Transfer - Single-click & Drag-n-drop Upload
@@ -4595,12 +4609,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [FusionPBX](https://www.fusionpbx.com/) - Web interface for multi-platform voice switch called FreeSWITCH. ([Source Code (⭐861)](https://github.com/fusionpbx/fusionpbx)) `MPL-1.1` `PHP`
 
-## [Mar 07, 2019](/content/2019/03/07/README.md)
-
-### Software / Note-taking & Editors
-
-*   [Trilium Notes (⭐29k)](https://github.com/zadam/trilium) - Trilium Notes is a hierarchical note taking application with focus on building large personal knowledge bases. `AGPL-3.0` `Nodejs/Docker/K8S`
-
 ## [Feb 21, 2019](/content/2019/02/21/README.md)
 
 ### Software / Bookmarks and Link Sharing
@@ -5018,7 +5026,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Inventory Management
 
-*   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code (⭐458)](https://github.com/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
+*   [Inventaire](https://inventaire.io/welcome) - Collaborative resources mapper project, while yet only focused on exploring books mapping with wikidata and ISBNs. ([Source Code](https://codeberg.org/inventaire/inventaire)) `AGPL-3.0` `Nodejs`
 
 ### Software / Media Management
 
