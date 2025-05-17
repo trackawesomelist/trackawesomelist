@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [May 17, 2025](/content/2025/05/17/README.md)
+
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-offline-indicator (⭐1)](https://github.com/thdang1009/ngx-offline-indicator) - A library designed to provide developers with a simple and customizable way to inform users about their internet connection status within their Angular applications.
+
 ## [May 16, 2025](/content/2025/05/16/README.md)
 
 ### Builders / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

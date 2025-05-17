@@ -6,6 +6,16 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 [ [Daily](/content/terkelg/awesome-creative-coding/README.md) / Weekly / [Overview](/content/terkelg/awesome-creative-coding/readme/README.md) ]
 
+## [May 19 - May 25, 2025](/content/2025/20/README.md)
+
+### Frameworks • Libraries • Ecosystems
+
+*   [thi.ng](https://thi.ng/) \[Cross-platform] - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
+
+### Videos
+
+*   [WebGL Lighting](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lighting with Greg Tatum.
+
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
 ### Books
@@ -30,8 +40,6 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 *   [C4](https://www.c4ios.com) \[iOS] - Open-source creative coding framework for iOS.
 *   [hg\_sdf](https://mercury.sexy/hg_sdf/) \[Cross-platform] - GLSL library for building signed distance functions.
 *   [nannou](https://nannou.cc/) \[Cross-platform] - Open-source creative coding framework for the Rust language.
-    \[Cross-platform] - Open-source creative coding framework for the Rust language.
-    \[Cross-platform] - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
 
 ### Visual Programming Languages
 
@@ -51,7 +59,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 *   [Stackgl](https://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 *   [Paper.js](https://paperjs.org/) - The swiss army knife of vector graphics scripting.
 *   [Pixi.js](https://www.pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
-*   [Fabric.js](https://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
+*   [Fabric.js](https://fabricjs.com/) - JavaScript canvas library, SVG-to-canvas parser.
 *   [Sketch.js](https://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
 
 ### Articles • Tutorials / Other
@@ -137,7 +145,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 *   [Flow Fields, Part 1](https://medium.com/@bit101/flow-fields-part-i-3ebebc688fd8) - Introduction to flow fields also known as vector fields.
 *   [Flow Fields, Part 2](https://medium.com/@bit101/flow-fields-part-ii-f3c24c1b777d) - Introduction to flow fields also known as vector fields.
 
-### Quick References • Cheatsheets / Other
+### Quick References • Cheat Sheets / Other
 
 *   [Shaderific GLSL](https://shaderific.com/glsl.html) - OpenGL ES shading language reference.
 *   [Procedural Patterns And Noises](http://www.neilblevins.com/art_lessons/procedural_noise/procedural_noise.html) - Collection of procedural patterns and procedural noises.
@@ -192,7 +200,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 *   [WebGL Academy](http://www.webglacademy.com) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
 
-### Machine learning • Computer Vision • Ai / Other
+### Machine learning • Computer Vision • AI / Other
 
 *   [ml4a](https://ml4a.net/) - Machine learning for artists.
 
@@ -244,7 +252,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ## [Feb 22 - Feb 28, 2021](/content/2021/8/README.md)
 
-### Quick References • Cheatsheets / Other
+### Quick References • Cheat Sheets / Other
 
 *   [Canvas Cheatsheet](https://web.archive.org/web/20171226205420/https://skilled.co/html-canvas/) - Quick and visual canvas cheatsheet.
 
@@ -418,7 +426,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Online
 
-*   [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, Javascript Canvas).
+*   [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, JavaScript Canvas).
 
 ### Videos
 
@@ -451,7 +459,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ## [Feb 11 - Feb 17, 2019](/content/2019/6/README.md)
 
-### Quick References • Cheatsheets / Other
+### Quick References • Cheat Sheets / Other
 
 *   [Visual Noises](https://ramesaliyev.com/visual-noises/) - Visualize noise algorithms in 1D and 2D.
 *   [Trigonoparty](https://ramesaliyev.com/trigonoparty/) - Simple trigonometry visualisation.
@@ -479,7 +487,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ### Online
 
-*   [Turtletoy](https://turtletoy.net/) - Minimalistic API and online showcase for generative code. (Javascript)
+*   [Turtletoy](https://turtletoy.net/) - Minimalistic API and online showcase for generative code. (JavaScript)
 *   [ShaderGif](https://shadergif.com/) - Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
 
 ### Talks
@@ -492,7 +500,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 *   [Practical use of Vector Math in Games](https://www.gamedev.net/articles/programming/math-and-physics/practical-use-of-vector-math-in-games-r2968/) - In-depth article on vectors for game math.
 
-### Machine learning • Computer Vision • Ai / Other
+### Machine learning • Computer Vision • AI / Other
 
 *   [Runway](https://runwayapp.ai/) - Toolkit that adds artificial intelligence capabilities to design and creative platforms.
 *   [Lobe](https://lobe.ai/) - Build, train, and ship custom deep learning models using a simple visual interface.
@@ -563,7 +571,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 *   [3D Programming Weekly Articles](https://www.3dkingdoms.com/weekly/weekly.php) - Great collection of shader and math related resources.
 
-### Machine learning • Computer Vision • Ai / Other
+### Machine learning • Computer Vision • AI / Other
 
 *   [ml5.js](https://ml5js.org/) - Friendly machine learning for the web.
 *   [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
@@ -578,7 +586,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 *   [twigl (⭐2.8k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
 *   [luma.gl (⭐2.4k)](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
 
-### Machine learning • Computer Vision • Ai / Other
+### Machine learning • Computer Vision • AI / Other
 
 *   [TensorFlow.js](https://js.tensorflow.org/) - JavaScript library for training and deploying ML models in the browser and on Node.js.
 *   [Hello TensorFlow](https://hello-tensorflow.glitch.me/) - Fully commented TensorFlow\.js demo.
@@ -668,10 +676,6 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ## [Nov 06 - Nov 12, 2017](/content/2017/45/README.md)
 
-### Videos
-
-*   [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lightning with Greg Tatum.
-
 ### Talks
 
 *   [How We Do This Shit](http://how-we-do-this-shit.com/) - Talk on how tech-based artists do this financially.
@@ -709,11 +713,11 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 *   [glslViewer](http://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
 
-### Quick References • Cheatsheets / Other
+### Quick References • Cheat Sheets / Other
 
 *   [PixelSpirit](http://pixelspiritdeck.com/) - GLSL library on the back of tarot cards, for learning and reference.
 
-### Machine learning • Computer Vision • Ai / Other
+### Machine learning • Computer Vision • AI / Other
 
 *   [Teachable Machine (⭐3.9k)](https://github.com/googlecreativelab/teachable-machine) - Explore how machine learning works, live in the browser.
 
@@ -833,7 +837,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
 
-### Machine learning • Computer Vision • Ai / Other
+### Machine learning • Computer Vision • AI / Other
 
 *   [AI Playbook](http://aiplaybook.a16z.com/) - Ai microsite intended to help newcomers get started.
 
@@ -888,7 +892,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 *   [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Essence of linear algebra YouTube playlist.
 *   [Mathematics of Animation](https://winkervsbecks.github.io/mathematics-of-animation/#/) - Slides about the mathematics of animation ([repo (⭐34)](https://github.com/winkerVSbecks/mathematics-of-animation)).
 
-### Machine learning • Computer Vision • Ai / Other
+### Machine learning • Computer Vision • AI / Other
 
 *   [CreativeAi.net](http://www.creativeai.net/) - Space to share creative Ai projects.
 
@@ -906,7 +910,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 *   [Writing a small software renderer](http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html) - Really good introduction to how basic software rendering works.
 
-### Quick References • Cheatsheets / Other
+### Quick References • Cheat Sheets / Other
 
 *   [3D Maths Cheat Sheet](http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf) - Math cheatsheet by Anton Gerdelan, from his OpenGL book.
 *   [Easings](http://easings.net/) - Interactive easing functions cheatsheet.
@@ -915,7 +919,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 
 *   [Desmos](https://www.desmos.com/) - Graph functions, plot data, evaluate equations, explore transformations, and much more.
 
-### Machine learning • Computer Vision • Ai / Other
+### Machine learning • Computer Vision • AI / Other
 
 *   [Machine Learning (⭐957)](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 
@@ -1030,7 +1034,7 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 *   [Fun Programming](http://funprogramming.org/) - Learn creative coding writing simple programs.
 *   [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - Looks at the use of visualization to understand, explain and debug algorithms.
 
-### Quick References • Cheatsheets / Other
+### Quick References • Cheat Sheets / Other
 
 *   [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) - Shader glossary by theme.
 *   [gltut glossary pages: 1](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html), [2](https://paroj.github.io/gltut/Basics/Tut01%20Glossary.html), [3](https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html), [4](https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html), [5](https://paroj.github.io/gltut/Positioning/Tut05%20Glossary.html), [6](https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html), [7](https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html), [8](https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html) - OpenGL 3D programming glossary.
@@ -1061,10 +1065,10 @@ Creative Coding: Generative Art, Data visualization, Interaction Design, Resourc
 *   [Perlin Noise](https://eev.ee/blog/2016/05/29/perlin-noise/) - Perlin noise explained in detail.
 *   [Vector Math for 3D Computer Graphics](http://programmedlessons.org/VectorLessons/) - Tutorial on vector algebra and matrix algebra from the viewpoint of computer graphics.
 
-### Machine learning • Computer Vision • Ai / Other
+### Machine learning • Computer Vision • AI / Other
 
 *   [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
-*   [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure Javascript Multilingual OCR.
+*   [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure JavaScript Multilingual OCR.
 *   [Google ML](https://cloud.google.com/ml/) - Cloud machine learning by Google.
 *   [TensorFlow](https://www.tensorflow.org/) - Open source software library for machine intelligence.
 *   [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/started.html) - Deep Learning in your browser.
