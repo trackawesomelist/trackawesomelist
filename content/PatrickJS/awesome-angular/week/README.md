@@ -36,6 +36,10 @@
 
 *   [ngx-lib-starter-kit (⭐1)](https://github.com/r3zafa/ngx-lib-starter-kit) - This boilerplate helps you quickly set up and develop Angular libraries. It includes a pre-configured structure for components, services, utilities, themes, assets, and more. The project is optimized for scalability and maintainability.
 
+### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@Trixwell/data-grid (⭐2)](https://github.com/Trixwell/data-grid) - An Angular component that renders data in a highly customizable and interactive data table. It supports features such as filtering, sorting, pagination, CSV export, expandable sub-grids, and integration with Angular Material components.
+
 ### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [@shanieMoonlight/moonlight-repo (⭐1)](https://github.com/shanieMoonlight/moonlight-repo) - This monorepo contains a collection of open source Angular libraries and utilities developed by SpiderBaby, along with demo applications showcasing their usage.
@@ -149,7 +153,7 @@
 
 ### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-calendar-widget (⭐8)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
+*   [ngx-calendar-widget (⭐11)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
 *   [ngx-calendario (⭐1)](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.
 
 ### Editor Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

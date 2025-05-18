@@ -1161,7 +1161,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular-calendar-timeline (⭐16)](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
 *   [ngx-resource-calendar (⭐4)](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
 *   [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
-*   [ngx-calendar-widget (⭐8)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
+*   [ngx-calendar-widget (⭐11)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
 *   [ngx-calendario (⭐1)](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.
 
 #### Captcha
@@ -1271,6 +1271,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [activereportsjs/angular-reporting-tool](https://developer.mescius.com/activereportsjs/angular-reporting-tool) - A set of Angular components used for data consolidation and visualization. [ActiveReportsJS](https://developer.mescius.com/activereportsjs) is a solution used by Angular developers to embed reporting within web applications.
 *   [ngx-s-data-table (⭐1)](https://github.com/Samuel-Pinheiro-C-Lopes/ngx-s-data-table) - An Angular module for a data table that automatically maps data from a specified class. It also allows users to provide custom mappings for greater flexibility in rendering data.
 *   [mat-datatable (⭐2)](https://github.com/BePo65/mat-datatable) - A simple data table with virtual scrolling using Angular Material.
+*   [@Trixwell/data-grid (⭐2)](https://github.com/Trixwell/data-grid) - An Angular component that renders data in a highly customizable and interactive data table. It supports features such as filtering, sorting, pagination, CSV export, expandable sub-grids, and integration with Angular Material components.
 
 #### Dates
 

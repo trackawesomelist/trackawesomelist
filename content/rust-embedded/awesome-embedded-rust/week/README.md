@@ -16,6 +16,10 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 *   [commitment-issues (⭐10)](https://github.com/dysonltd/commitment-issues) Compile git metadata into your binary.
 
+### Peripheral Access Crates / STMicroelectronics
+
+*   [`stm32h7`](https://crates.io/crates/stm32h5) - [![crates.io](https://img.shields.io/crates/v/stm32h5.svg)](https://crates.io/crates/stm32h5)
+
 ### Peripheral Access Crates / Texas Instruments
 
 *   [`mspm0-metapac`](https://github.com/mspm0-rs/mspm0-data)
@@ -178,7 +182,7 @@ Curated list of resources for Embedded and Low-level development in the Rust pro
 
 ### no-std crates / WIP
 
-*   [wtx (⭐275)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
+*   [wtx (⭐282)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
 

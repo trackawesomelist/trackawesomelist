@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [May 18, 2025](/content/2025/05/18/README.md)
+
+### Software / UI & End-to-End Testing
+
+*   [Zyntra](https://zyntra.app/) – Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows.
+
 ## [May 07, 2025](/content/2025/05/07/README.md)
 
 ### Software / API Testing
@@ -152,7 +158,7 @@ A curated list of testing resources
 
 ### Software / Test Data Management
 
-*   [Touca (⭐502)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
+*   [Touca (⭐506)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 
 ## [Jun 08, 2022](/content/2022/06/08/README.md)
 
@@ -164,7 +170,7 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [Keploy (⭐8.1k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
+*   [Keploy (⭐9.6k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 
 ## [Nov 25, 2021](/content/2021/11/25/README.md)
 
@@ -184,7 +190,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [DeepfakeHTTP (⭐513)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
+*   [DeepfakeHTTP (⭐514)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 
 ## [Jun 30, 2021](/content/2021/06/30/README.md)
 

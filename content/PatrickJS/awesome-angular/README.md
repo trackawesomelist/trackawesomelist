@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [May 18, 2025](/content/2025/05/18/README.md)
+
+### Data Grids / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@Trixwell/data-grid (⭐2)](https://github.com/Trixwell/data-grid) - An Angular component that renders data in a highly customizable and interactive data table. It supports features such as filtering, sorting, pagination, CSV export, expandable sub-grids, and integration with Angular Material components.
+
 ## [May 17, 2025](/content/2025/05/17/README.md)
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -176,7 +182,7 @@
 
 ### Calendars / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-calendar-widget (⭐8)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
+*   [ngx-calendar-widget (⭐11)](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
 
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

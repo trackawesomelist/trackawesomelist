@@ -40,7 +40,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [CORS Tester](https://cors-error.dev/cors-tester/) - A tool for developers and API testers to check if an API is CORS-enabled for a given domain and identify gaps.
 *   [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
-*   [Keploy (⭐8.1k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
+*   [Keploy (⭐9.6k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 *   [RestQA (⭐89)](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
 *   [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in plain English with extendable Python implementation.
 *   [Tests Coverage Tool (⭐5)](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
@@ -54,7 +54,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Service Virtualization
 
 *   [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
-*   [DeepfakeHTTP (⭐513)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
+*   [DeepfakeHTTP (⭐514)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 *   [WireMock (⭐6.8k)](https://github.com/wiremock/wiremock) - Open source HTTP mock engine written in Java. Embed in your test code, run as a standalone process, or deploy via Docker.
 
 ### Visual Testing
@@ -77,6 +77,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 *   [playwright-bdd (⭐424)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 *   [QA Wolf (⭐3.4k)](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 *   [UI Coverage Tool (⭐0)](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
+*   [Zyntra](https://zyntra.app/) – Unlimited e-mail inboxes with API/UI access. Catch OTPs, reset links, and sign-up emails in your test flows.
 
 ### Test Management
 
@@ -87,7 +88,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Test Data Management
 
 *   [Synth (⭐1.4k)](https://github.com/getsynth/synth) - Open-source test data generator.
-*   [Touca (⭐502)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
+*   [Touca (⭐506)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 *   [test-each (⭐114)](https://github.com/ehmicky/test-each) - Data-driven testing framework.
 
 ### Browser Extensions & Utilities

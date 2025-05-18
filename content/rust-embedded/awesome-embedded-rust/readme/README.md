@@ -350,6 +350,7 @@ The [`stm32-rs`](https://github.com/stm32-rs/stm32-rs) project has peripheral ac
 *   [`stm32f7`](https://crates.io/crates/stm32f7) - [![crates.io](https://img.shields.io/crates/v/stm32f7.svg)](https://crates.io/crates/stm32f7)
 *   [`stm32g0`](https://crates.io/crates/stm32g0) - [![crates.io](https://img.shields.io/crates/v/stm32g0.svg)](https://crates.io/crates/stm32g0)
 *   [`stm32g4`](https://crates.io/crates/stm32g4) - [![crates.io](https://img.shields.io/crates/v/stm32g4.svg)](https://crates.io/crates/stm32g4)
+*   [`stm32h7`](https://crates.io/crates/stm32h5) - [![crates.io](https://img.shields.io/crates/v/stm32h5.svg)](https://crates.io/crates/stm32h5)
 *   [`stm32h7`](https://crates.io/crates/stm32h7) - [![crates.io](https://img.shields.io/crates/v/stm32h7.svg)](https://crates.io/crates/stm32h7)
 *   [`stm32l0`](https://crates.io/crates/stm32l0) - [![crates.io](https://img.shields.io/crates/v/stm32l0.svg)](https://crates.io/crates/stm32l0)
 *   [`stm32l1`](https://crates.io/crates/stm32l1) - [![crates.io](https://img.shields.io/crates/v/stm32l1.svg)](https://crates.io/crates/stm32l1)
@@ -1664,7 +1665,7 @@ Work in progress drivers. Help the authors make these crates awesome!
 74. [usb-pd (⭐22)](https://github.com/fmckeogh/usb-pd-rs): USB-PD library, supports using the FUSB302B as a Sink driver, with Source functionality planned.
 75. [wyhash]: A fast, simple and portable hashing algorithm and random number generator. - [![crates.io](https://img.shields.io/crates/v/wyhash.svg)](https://crates.io/crates/wyhash)
 76. [adafruit-bluefruit-protocol]: A `no_std` parser for the [Adafruit Bluefruit LE Connect controller protocol]. - [![crates.io](https://img.shields.io/crates/v/adafruit-bluefruit-protocol)](https://crates.io/crates/adafruit-bluefruit-protocol)
-77. [wtx (⭐275)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
+77. [wtx (⭐282)](https://github.com/c410-f3r/wtx): Among other things, provides implementations to interact with HTTP, WebSockets and Databases.
 
 [no-std-category]: https://crates.io/categories/no-std
 
