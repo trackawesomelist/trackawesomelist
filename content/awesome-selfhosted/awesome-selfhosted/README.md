@@ -6,6 +6,16 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [May 19, 2025](/content/2025/05/19/README.md)
+
+### Software / Analytics
+
+*   [Statistics for Strava (⭐539)](https://github.com/robiningelbrecht/statistics-for-strava) `⚠` - Statistics dashboard generated from Strava data. ([Demo](https://statistics-for-strava.robiningelbrecht.be/)) `AGPL-3.0` `Docker`
+
+### Software / Pastebins
+
+*   [ByteStash (⭐1.4k)](https://github.com/jordan-dalby/ByteStash) - Pastebin and file storage service with a simple web interface. Supports syntax highlighting, optional user authentication and public sharing. ([Demo (⭐1.4k)](https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo)) `GPL-3.0` `Docker`
+
 ## [May 17, 2025](/content/2025/05/17/README.md)
 
 ### Software / File Transfer - Peer-to-peer Filesharing
@@ -2712,7 +2722,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Personal Dashboards
 
-*   [Jump (⭐580)](https://github.com/daledavies/jump) - Yet another startpage for your server designed to be simple, stylish, fast and secure. `MIT` `Docker/PHP`
 *   [Web-Portal (⭐225)](https://github.com/enchant97/web-portal) - A python web app designed to allow a easy way to manage the links to all of your web services. `AGPL-3.0` `Docker/Python`
 
 ### Software / Proxy

@@ -6,6 +6,41 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
+
+### Speciality Search Engines
+
+*   [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
+
+### Pastebins
+
+*   [Context](https://ctxt.io/) - Share whatever you see with others in seconds.
+*   [HashBin](https://hashb.in/#Q===) - HashBin is a paste bin that never sees the contents of its pastes.
+*   [Logpasta](https://logpasta.com/) - Simple, secure log paste service. Command line mode based.
+*   [Nachricht](https://nachricht.co/) - With Nachricht.co you can send self-destructive and encrypted one-way messages over the Internet. You don't even need to miss out the messenger or social network of your choice. We are an independent, secure and fully free service!
+*   [NoPaste](https://nopaste.boris.sh/) - NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing.
+*   [New Paste](https://paste1.com/) - I wanna paste because typing is so boring!
+*   [n0paste](https://n0paste.eu/) - Paste and share your code online.
+*   [OTS- One Time Secrets](https://ots.hackliberty.org/) - An encrypted pastebin site. No login needed!
+*   [Paste.Cash](https://www.paste.cash/) - Paste.CASH Is a privacy respected and encrypted pastebin hosted by Cash Hosting. Every paste are encrypted using 256 bits AES.
+*   [PasteFree.com](https://pastefree.com/) - Popular Paste and Share Site.
+*   [Pastery](https://www.pastery.net/) - The sweetest pastebin in the world!
+*   [Pastebin - Tor Link](https://tor.link/paste/new) - Paste text to store or share with others.
+*   [SafeNote](https://safenote.co/) - SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.
+*   [scrt.link](https://scrt.link/) - Share a Secret with a link that only works one time and then self-destructs.
+*   [Spacebin](https://spaceb.in/)
+
+### Domain and IP Research / Steam
+
+*   [Fullhunt](https://fullhunt.io/) - FullHunt is an OSINT tool focused on identifying and protecting internet-exposed assets.
+*   [IP Location.io](https://iplocation.io) - IPLocation.io allows you to check the location of an IP for free
+
+### Other Tools / Steam
+
+*   [aadinternals](https://aadinternals.com/osint) - Provides tools and insights for advanced analysis and security testing of Azure Active Directory (AAD) and Microsoft 365.
+*   [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
+*   [Router Passwords](https://www.routerpasswords.com) - Online database of default router passwords.
+
 ## [May 19 - May 25, 2025](/content/2025/20/README.md)
 
 ### Speciality Search Engines
@@ -1124,7 +1159,7 @@
 *   [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
 *   [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
 *   [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
-*   [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
+*   [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent..
 *   [Kompass](http://www.kompass.com) - Business directory and search.
 *   [Reunion](http://reunion.com) - People search. Limited free info, premium data upsell.
 *   [SearchBug](http://www.searchbug.com) - People search. Limited free info, premium data upsell.
@@ -1172,8 +1207,8 @@
 ### Pastebins
 
 *   [0bin](https://0bin.net)
-*   [cl1p](https://Cl1p.net)
-*   [controlc](https://Controlc.com)
+*   [cl1p](https://Cl1p.net) - The Internet Clipboard.
+*   [controlc](https://Controlc.com) - The easiest way to host your text.
 *   [dpaste2](https://Dpaste.org)
 *   [dpaste](https://Dpaste.com)
 *   [ideone](https://Ideone.com)

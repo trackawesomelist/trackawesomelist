@@ -183,6 +183,7 @@ Thanks to our main contributors
 *   [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 *   [WIPO](https://www3.wipo.int/branddb/en/)
 *   [WorldWideScience.org](http://worldwidescience.org)
+*   [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
 *   [Zanran](http://zanran.com)
 
 ## [↑](#-table-of-contents) Dark Web Search Engines Search Engines
@@ -237,31 +238,46 @@ Thanks to our main contributors
 
 *   [0bin](https://0bin.net)
 *   [BeanPaste](https://beanpaste.fun/) - A tiny way to share text.
-*   [cl1p](https://Cl1p.net)
-*   [controlc](https://Controlc.com)
+*   [cl1p](https://Cl1p.net) - The Internet Clipboard.
+*   [Context](https://ctxt.io/) - Share whatever you see with others in seconds.
+*   [controlc](https://Controlc.com) - The easiest way to host your text.
 *   [Cryptobin](https://cryptobin.co/) - The Ultimate Secure Pastebin
 *   [doxbin](https://doxbin.net/) - A dox style pastebin ran by hackers
 *   [dpaste2](https://Dpaste.org)
 *   [dpaste](https://Dpaste.com)
 *   [GitHub gist](https://gist.github.com)
+*   [HashBin](https://hashb.in/#Q===) - HashBin is a paste bin that never sees the contents of its pastes.
 *   [hastebin](https://www.toptal.com/developers/hastebin/)
 *   [ideone](https://Ideone.com)
 *   [ivpaste](https://Ivpaste.com)
 *   [jsbin](https://Jsbin.com)
 *   [justpaste](https://Justpaste.it)
 *   [Katbin](https://katb.in)
+*   [Logpasta](https://logpasta.com/) - Simple, secure log paste service. Command line mode based.
 *   [lesma.eu](https://lesma.eu/) - Simple paste app friendly with browser and command line.
+*   [Nachricht](https://nachricht.co/) - With Nachricht.co you can send self-destructive and encrypted one-way messages over the Internet. You don't even need to miss out the messenger or social network of your choice. We are an independent, secure and fully free service!
+*   [NoPaste](https://nopaste.boris.sh/) - NoPaste is an open-source website similar to Pastebin where you can store any piece of code, and generate links for easy sharing.
+*   [New Paste](https://paste1.com/) - I wanna paste because typing is so boring!
+*   [n0paste](https://n0paste.eu/) - Paste and share your code online.
+*   [OTS- One Time Secrets](https://ots.hackliberty.org/) - An encrypted pastebin site. No login needed!
 *   [PastBin.net](https://pastbin.net/) - Similar to Pastebin website where you can store code/text online for a set period of time and share to anyone anywhere. Search Option Available.
 *   [Pastebin](https://pastebin.pl/) - Store code/text online for a set period of time and share to anybody on earth.
+*   [Paste.Cash](https://www.paste.cash/) - Paste.CASH Is a privacy respected and encrypted pastebin hosted by Cash Hosting. Every paste are encrypted using 256 bits AES.
 *   [paste.centos](https://paste.centos.org)
 *   [paste.debian](https://Paste.debian.net)
 *   [paste.ee](https://Paste.ee)
+*   [PasteFree.com](https://pastefree.com/) - Popular Paste and Share Site.
 *   [paste.kde](https://Paste.kde.org)
 *   [Paste.Monster](https://paste.monster/) - Share your thoughts online. API Available.
 *   [paste.ubuntu](https://paste.ubuntu.com)
+*   [Pastery](https://www.pastery.net/) - The sweetest pastebin in the world!
 *   [PasteShr](https://www.pasteshr.com/) - Store any text online for easy sharing. Search option available!
+*   [Pastebin - Tor Link](https://tor.link/paste/new) - Paste text to store or share with others.
 *   [Rentry](https://rentry.co/)
+*   [SafeNote](https://safenote.co/) - SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.
+*   [scrt.link](https://scrt.link/) - Share a Secret with a link that only works one time and then self-destructs.
 *   [snippet.host](https://snippet.host/) - Minimal text and code snippet hosting.
+*   [Spacebin](https://spaceb.in/)
 *   [TextBin](https://textbin.net/) - Secure pastebin where you can paste and store any type of text or code snippets online and share it with your friends.
 *   [Textbin-Code](https://textbin.online/) - SECURE YOUR CODE!
 *   [Verybin](https://www.verybin.com/) - Anonymous and encrypted pastebin. Data is encrypted/decrypted in the browser using 256 bits AES and no IP address logged.
@@ -492,7 +508,7 @@ Thanks to our main contributors
 *   [Fold3 (US Military Records)](http://www.fold3.com) - Search military records. Search filters limited with free access. Premium access requires subscription.
 *   [Genealogy Bank](http://www.genealogybank.com) - Premium data, free trial with credit card.
 *   [Genealogy Links](http://www.genealogylinks.net) - Genealogy directory with over 50K links.
-*   [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent.
+*   [Homemetry](https://homemetry.com) - Reverse address search and allows searching for properties for sale/rent..
 *   [InfoTracer](https://infotracer.com/) - Search for people. (Searches are paid)
 *   [Judyrecords](https://www.judyrecords.com/) - Free. Nationwide search of 400 million+ United States court cases.
 *   [Kompass](http://www.kompass.com) - Business directory and search.
@@ -733,6 +749,7 @@ Thanks to our main contributors
 *   [Easy whois](https://www.easywhois.com)
 *   [Exonera Tor](https://exonerator.torproject.org) - A database of IP addresses that have been part of the Tor network. It answers the question whether there was a Tor relay running on a given IP address on a given date.
 *   [Follow.net](http://follow.net)
+*   [Fullhunt](https://fullhunt.io/) - FullHunt is an OSINT tool focused on identifying and protecting internet-exposed assets.
 *   [GraphyStories](http://app.graphystories.com)
 *   [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - is a free cybercrime intelligence toolkit to check exposure in Infostealer malware infection.
 *   [HypeStat](https://www.hypestat.com)
@@ -744,6 +761,7 @@ Thanks to our main contributors
 *   [IP Geolocation API DB-IP](https://db-ip.com) - Pprovides IP geolocation and intelligence.
 *   [IP Checking](http://www.ipchecking.com)
 *   [IP Location](https://www.iplocation.net) - is used for mapping of an IP address or MAC address to the real-world geographic location of an Internet-connected computing or a mobile device.
+*   [IP Location.io](https://iplocation.io) - IPLocation.io allows you to check the location of an IP for free
 *   [IPFingerprints](http://www.ipfingerprints.com) - is used to find the approximate geographic location of an IP address along with some other useful information including ISP, TimeZone, Area Code, State.
 *   [IPVoid](http://www.ipvoid.com) - IP address toolset.
 *   [Kloth](http://www.kloth.net/services)
@@ -1397,6 +1415,7 @@ Thanks to our main contributors
 
 ## [↑](#-table-of-contents) Other Tools
 
+*   [aadinternals](https://aadinternals.com/osint) - Provides tools and insights for advanced analysis and security testing of Azure Active Directory (AAD) and Microsoft 365.
 *   [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
 *   [Belati (⭐544)](https://github.com/aancw/Belati) - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 *   [BeVigil-CLI (⭐120)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
@@ -1405,6 +1424,7 @@ Thanks to our main contributors
 *   [CrowdSec (⭐10k)](https://github.com/crowdsecurity/crowdsec) - An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.
 *   [Datasploit (⭐3.1k)](https://github.com/DataSploit/datasploit) - Tool to perform various OSINT techniques on usernames, emails addresses, and domains.
 *   [Discoshell (⭐77)](https://github.com/foozzi/discoshell) - A simple discovery script that uses popular tools like subfinder, amass, puredns, alterx, massdns and others
+*   [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
 *   [DNSservices](https://github.com/0x4f53/dnsservices) - Discover embedded services in a domain's DNS records within seconds
 *   [DuckDuckGo URL scraper (⭐26)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
 *   [FOCA (⭐3.2k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
@@ -1426,6 +1446,7 @@ Thanks to our main contributors
 *   [Pown Recon (⭐419)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
 *   [pygreynoise (⭐152)](https://github.com/GreyNoise-Intelligence/pygreynoise) - Greynoise Python Library
 *   [QuickCode](https://quickcode.io/) - Python and R data analysis environment.
+*   [Router Passwords](https://www.routerpasswords.com) - Online database of default router passwords.
 *   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 *   [SerpApi](https://serpapi.com/) - Scrapes Google search and 25+ search engines with ease and retruns a raw JSON. Supports 10 API wrappers.
 *   [SerpScan (⭐66)](https://github.com/Alaa-abdulridha/SerpScan) - Powerful PHP script designed to allow you to leverage the power of dorking straight from the comfort of your command line. Analyzes data from Google, Bing, Yahoo, Yandex, and Badiu.

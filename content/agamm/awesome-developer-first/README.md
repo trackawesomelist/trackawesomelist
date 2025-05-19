@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [May 19, 2025](/content/2025/05/19/README.md)
+
+### Misc
+
+*   [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
+
 ## [May 13, 2025](/content/2025/05/13/README.md)
 
 ### Authentication & Identity
