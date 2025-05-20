@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/markets/awesome-ruby/week/README.md) / [Overview](/content/markets/awesome-ruby/readme/README.md) ]
 
+## [May 20, 2025](/content/2025/05/20/README.md)
+
+### Data Processing and ETL
+
+*   [json-streamer (⭐59)](https://github.com/thisismydesign/json-streamer) - Stream JSON data based on various criteria (key, nesting level, etc).
+
 ## [May 19, 2025](/content/2025/05/19/README.md)
 
 ### Configuration

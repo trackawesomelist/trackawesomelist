@@ -12,6 +12,10 @@
 
 *   [AnywayConfig (⭐830)](https://github.com/palkan/anyway_config) - Configuration library for Ruby gems and applications, supporting multiple sources (yml, secrets) and environments.
 
+### Data Processing and ETL
+
+*   [json-streamer (⭐59)](https://github.com/thisismydesign/json-streamer) - Stream JSON data based on various criteria (key, nesting level, etc).
+
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
 ### Admin Interface
