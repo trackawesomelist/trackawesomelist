@@ -11,6 +11,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 ### Artificial Intelligence
 
 *   [LangChain4j (⭐7.4k)](https://github.com/langchain4j/langchain4j) - Simplifies integration of LLMs with unified APIs and a comprehensive toolbox.
+*   [MCP Java SDK (⭐1.6k)](https://github.com/modelcontextprotocol/java-sdk) -  Enables applications to interact with AI models and tools through a standardized interface (i.e. Model Context Protocol), supporting both synchronous and asynchronous communication patterns.
 *   [Spring AI](https://spring.io/projects/spring-ai) - Application framework for AI engineering for Spring.
 
 ### Cloud / Text-Based User Interfaces
@@ -90,7 +91,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 
 ### Build
 
-*   [Buck2 (⭐3.8k)](https://github.com/facebook/buck2) - Encourages the creation of small, reusable modules consisting of code and resources.
+*   [Buck2 (⭐3.9k)](https://github.com/facebook/buck2) - Encourages the creation of small, reusable modules consisting of code and resources.
 
 ### Dependency Injection / Text-Based User Interfaces
 
@@ -907,7 +908,7 @@ A curated list of awesome frameworks, libraries and software for the Java progra
 *   [Big Queue (⭐564)](https://github.com/bulldog2011/bigqueue) - Fast and persistent queue based on memory-mapped files.
 *   [HyperMinHash-java (⭐57)](https://github.com/LiveRamp/HyperMinHash-java) - Probabilistic data structure for computing union, intersection, and set cardinality in loglog space.
 *   [Persistent Collection (⭐771)](https://github.com/hrldcpr/pcollections) - Persistent and immutable analogue of the Java Collections Framework.
-*   [Protobuf (⭐67k)](https://github.com/protocolbuffers/protobuf) - Google's data interchange format.
+*   [Protobuf (⭐68k)](https://github.com/protocolbuffers/protobuf) - Google's data interchange format.
 *   [SBE (⭐3.2k)](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding, one of the fastest message formats around.
 *   [Tape (⭐2.5k)](https://github.com/square/tape) - Lightning-fast, transactional, file-based FIFO.
 *   [Wire (⭐4.3k)](https://github.com/square/wire) - Clean, lightweight protocol buffers.

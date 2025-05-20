@@ -665,6 +665,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [manifest (⭐2.5k)](https://github.com/mnfst/manifest) - A lightweight Backend-as-a-Service (BaaS) that fits into a single YAML file. This [quick start](https://manifest.build/docs/angular) shows how to use it with Angular.
 *   [zed-angular (⭐91)](https://github.com/nathansbradshaw/zed-angular) - This extension integrates the Angular Language Service into [Zed](https://zed.dev/).
 *   [i18n-studio](https://marketplace.visualstudio.com/items/?itemName=AdrienAudouard.i18n-studio) - Powerful Angular internationalization (i18n) extension for VS Code that displays translations inline, provides autocompletion for i18n keys in TypeScript and HTML files, and offers quick access to translation files. Streamline your multilingual development workflow.
+*   [ngx-unused (⭐34)](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
 
 #### Documentation tools
 
@@ -1433,7 +1434,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-forms (⭐6)](https://github.com/nncl/ngx-forms) - Collection of Angular form functions, that will help you build your applications.
 *   [@klubinskak/ngx-smart-forms (⭐2)](https://github.com/klubinskak/ngx-smart-forms) - Smart, Signal-powered form state utilities for Angular 17+.
 *   [@pixelbyaj/ngx-form (⭐4)](https://github.com/pixelbyaj/ngx-form) - ISO20022 Angular Forms utilizing XSD and XML to facilitate the design of ISO20022 XSD in HTML forms. Additionally, these forms aid in structuring MX messages for HTML representation.
-*   [ngx-custom-controls (⭐1)](https://github.com/kapilkumar0037/ngx-custom-controls) - Angular library, which provides a powerful base directive (`BaseCvaImplementationDirective<T>`) that implements both `ControlValueAccessor` and `Validator` interfaces, making it easy to create custom form controls with built-in validation support for template-driven and reactive forms.
+*   [ngx-custom-controls (⭐2)](https://github.com/kapilkumar0037/ngx-custom-controls) - Angular library, which provides a powerful base directive (`BaseCvaImplementationDirective<T>`) that implements both `ControlValueAccessor` and `Validator` interfaces, making it easy to create custom form controls with built-in validation support for template-driven and reactive forms.
 
 ##### Form Controls
 
@@ -1918,6 +1919,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [signaldb (⭐459)](https://github.com/maxnowack/signaldb) - A local JavaScript database with a MongoDB-like interface and TypeScript support, enabling optimistic UI with signal-based reactivity. It integrates easily with Angular, Solid.js, Preact, and Vue, simplifying data management with schema-less design, in-memory storage, and fast queries.
 *   [dexie (⭐13k)](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB.
 *   [angular-web-storage (⭐37)](https://github.com/cipchk/angular-web-storage) - Angular decorator to save and restore of HTML5 Local & Session Storage.
+*   [indexeddb-helper (⭐1)](https://github.com/AshenHiroshana/indexeddb-helper) - A library designed to simplify interaction with IndexedDB in Angular applications. It provides a clean API for performing CRUD operations with support for cache expiration, data storage, and retrieval.
 
 #### Tooltips
 

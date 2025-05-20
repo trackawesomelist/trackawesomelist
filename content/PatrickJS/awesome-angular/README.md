@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [May 20, 2025](/content/2025/05/20/README.md)
+
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-unused (⭐34)](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
+
+### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [indexeddb-helper (⭐1)](https://github.com/AshenHiroshana/indexeddb-helper) - A library designed to simplify interaction with IndexedDB in Angular applications. It provides a clean API for performing CRUD operations with support for cache expiration, data storage, and retrieval.
+
 ## [May 19, 2025](/content/2025/05/19/README.md)
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -170,7 +180,7 @@
 
 ### General / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-custom-controls (⭐1)](https://github.com/kapilkumar0037/ngx-custom-controls) - Angular library, which provides a powerful base directive (`BaseCvaImplementationDirective<T>`) that implements both `ControlValueAccessor` and `Validator` interfaces, making it easy to create custom form controls with built-in validation support for template-driven and reactive forms.
+*   [ngx-custom-controls (⭐2)](https://github.com/kapilkumar0037/ngx-custom-controls) - Angular library, which provides a powerful base directive (`BaseCvaImplementationDirective<T>`) that implements both `ControlValueAccessor` and `Validator` interfaces, making it easy to create custom form controls with built-in validation support for template-driven and reactive forms.
 
 ## [May 03, 2025](/content/2025/05/03/README.md)
 
