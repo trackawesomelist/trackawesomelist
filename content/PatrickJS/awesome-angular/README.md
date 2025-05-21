@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [May 21, 2025](/content/2025/05/21/README.md)
+
+### Loggers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-route-logger (⭐2)](https://github.com/souravion/ng-route-logger) -   A simple and powerful library that helps you track page navigation times inside your Angular application.
+
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
+
 ## [May 20, 2025](/content/2025/05/20/README.md)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
@@ -147,7 +157,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [zero-angular (⭐1)](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
+*   [zero-angular (⭐2)](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
 
 ### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

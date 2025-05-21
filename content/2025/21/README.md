@@ -1,24 +1,170 @@
 # Awesome List Updates on May 26 - Jun 01, 2025
 
-15 awesome lists updated this week.
+17 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [1. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+
+### Projects / API Management
+
+*   [Gravitee.io API Management (⭐250) (⭐248)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [WSO2 API Manager (⭐895) (⭐893)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+
+### Projects / API Design
+
+*   [OpenAPI Diff (⭐921) (⭐919)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [OpenAPI Style Validator (⭐215) (⭐214)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
+
+### Projects / API Documentation
+
+*   [DapperDox (⭐420) (⭐416)](https://github.com/DapperDox/dapperdox) - Generates elegant, interactive API documentation from OpenAPI/Swagger specs with easy customization and automated updates.
+*   [OpenAPI Explorer (⭐331) (⭐330)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
+*   [Zudoku (⭐206) (⭐191)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+
+### Projects / BRE
+
+*   [OpenL Tablets (⭐166) (⭐165)](https://github.com/openl-tablets/openl-tablets) - Flexible open-source decision management system that simplifies defining and executing business rules and decision tables.
+
+### Projects / Data Mapping Solution
+
+*   [AtlasMap (⭐201) (⭐202)](https://github.com/atlasmap/atlasmap) - Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.
+*   [JSLT (⭐660) (⭐658)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
+
+### Projects / Integration Frameworks
+
+*   [Frank!Framework (⭐138) (⭐139)](https://github.com/frankframework/frankframework) - Low-code Java messaging framework that simplifies system connectivity and data integration through configurable XML setups.
+
+### Projects / Self-Service Integration
+
+*   [n8n (⭐96k) (⭐97k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+
+### Projects / Workflow engine
+
+*   [Temporal (⭐14k) (⭐14k)](https://github.com/temporalio/temporal) - Open-source workflow-as-code platform designed for building reliable, scalable, and fault-tolerant applications.
+
+### Resources / Data Formats
+
+*   [YAML (⭐396) (⭐393)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+## [2. Public Apis](/content/public-apis/public-apis/week/README.md)
+
+- API: [IPstack](https://ipstack.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Locate and Identify Website Visitors by IP Address
+
+  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-55145132-244c-448c-8e6f-8780866e4862?action=collection%2Ffork\&source=rip_markdown\&collection-url=entityId%3D10131015-55145132-244c-448c-8e6f-8780866e4862%26entityType%3Dcollection%26workspaceId%3D2b7498b6-6d91-4fa8-817f-608441fe42a8)
+
+
+- API: [Aviationstack](https://avaitionstack.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
+
+  Description: Free, real-time flight status and global Aviation data API
+
+  Call this API: [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/10131015-72ee0d35-018e-4370-a2b6-a66d3ebd5b5a?action=collection/fork)
+
+
+
+### Calendar
+
+- API: [Public Holidays](https://www.abstractapi.com/holidays-api)
+
+  Description: Data on national, regional, and religious holidays via API
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Development
+
+- API: [Screenshot](https://www.abstractapi.com/website-screenshot-api)
+
+  Description: Take programmatic screenshots of web pages from any website
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Email
+
+- API: [Email Validation](https://www.abstractapi.com/email-verification-validation-api)
+
+  Description: Validate email addresses for deliverability and spam
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Finance
+
+- API: [VAT Validation](https://www.abstractapi.com/vat-validation-rates-api)
+
+  Description: Validate VAT numbers and calculate VAT rates
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+  : 
+
+
+
+### Geocoding
+
+- API: [IP Geolocation](https://www.abstractapi.com/ip-geolocation-api)
+
+  Description: Geolocate website visitors from their IPs
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+### Phone
+
+- API: [Phone Validation](https://www.abstractapi.com/phone-validation-api)
+
+  Description: Validate phone numbers globally
+
+  Auth: `apiKey`
+
+  HTTPS: Yes
+
+  CORS: Yes
+
+
+
+## [3. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Blog posts / Miscellaneous
 
 *   [Pandas vs Polars : Comparaison des performances et de la mémoire](https://www.monshotdata.com/p/pandas-vs-polars) - A 2025 benchmark that compares the performance of Polars and Pandas by [@moncoachdata](https://github.com/moncoachdata). Code used is available on Github [here (⭐12)](https://github.com/moncoachdata/MonShotData/blob/main/Pandas/Polars-vs-Pandas.ipynb?utm_source=www.monshotdata.com\&utm_medium=referral\&utm_campaign=pandas-vs-polars-comparaison-des-performances-et-de-la-memoire).
 
-## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Automation
 
 *   [Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs](https://openreview.net/forum?id=9nUBh4V6SA) - ***ICLR'25***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=6090102857833092474)]. Self-driving laboratories have begun to replace human experimenters in performing single experimental skills or predetermined experimental protocols. However, as the pace of idea iteration in scientific research has been intensified by Artificial Intelligence, the demand for rapid design of new protocols for new discoveries become evident. Efforts to automate protocol design have been initiated, but the capabilities of knowledge-based machine designers, such as Large Language Models, have not been fully elicited, probably for the absence of a systematic representation of experimental knowledge, as opposed to isolated, flatten pieces of information. To tackle this issue, this work proposes a multi-faceted, multi-scale representation, where instance actions, generalized operations, and product flow models are hierarchically encapsulated using Domain-Specific Languages. The authors further develop a data-driven algorithm based on non-parametric modeling that autonomously customizes these representations for specific domains. The proposed representation is equipped with various machine designers to manage protocol design tasks, including planning, modification, and adjustment. The results demonstrate that the proposed method could effectively complement Large Language Models in the protocol design process, serving as an auxiliary module in the realm of machine-assisted scientific exploration.
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -28,7 +174,7 @@
 
 *   [oxide-auth (⭐728)](https://github.com/197g/oxide-auth) - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/197g/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
 
-## [4. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [6. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Speciality Search Engines
 
@@ -63,7 +209,7 @@
 *   [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
 *   [Router Passwords](https://www.routerpasswords.com) - Online database of default router passwords.
 
-## [5. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [7. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Artificial Intelligence
 
@@ -96,7 +242,7 @@
 
 *   [Awesome Java libraries and hidden gems](https://libs.tech/java)
 
-## [6. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [8. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Configuration
 
@@ -106,7 +252,7 @@
 
 *   [json-streamer (⭐59)](https://github.com/thisismydesign/json-streamer) - Stream JSON data based on various criteria (key, nesting level, etc).
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
@@ -121,7 +267,7 @@
 
 *   [ByteStash (⭐1.4k)](https://github.com/jordan-dalby/ByteStash) - Pastebin and file storage service with a simple web interface. Supports syntax highlighting, optional user authentication and public sharing. ([Demo (⭐1.4k)](https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo)) `GPL-3.0` `Docker`
 
-## [8. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -131,43 +277,47 @@
 
 *   [atuin (⭐0)](https://github.com/marcelohmdias/zsh-atuin) - Tab completions for the [Atuin (⭐24k)](https://github.com/atuinsh/atuin) shell history system.
 
-## [9. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [11. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Misc
 
 *   [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 
-## [10. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [12. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [narmadaweb/limiter (⭐1)](https://github.com/narmadaweb/limiter) - A high-performance Redis-backed rate limiter middleware for Fiber, supporting fixed window, sliding window, and token bucket algorithms.
 *   [narmadaweb/gonify (⭐1)](https://github.com/narmadaweb/gonify) - Fiber Minifying middleware for HTML5, CSS3, JavaScript, Json, XML and SVG.
 
-## [11. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Filtering and Validation
 
 *   see Cake/Localized plugin below.
 *   see Tools plugin below.
 
-## [12. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [14. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### IoT, Hardware / Shapefiles
 
 *   [Simplesteer (⭐3)](https://github.com/matmis/simplesteer) - RTK GPS tractor autosteer system with a web interface that you can control with a smartphone and can run on a Raspberry Pi.
 
-## [13. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [15. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Role Playing
 
 *   The Darkblade - [Desktop](https://store.steampowered.com/app/3731570/The_Darkblade/) - Souls-like 2D singleplayer RPG. By [Mikalyh](https://store.steampowered.com/curator/45619362)
 
-## [14. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-unused (⭐34)](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
+
+### Loggers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-route-logger (⭐2)](https://github.com/souravion/ng-route-logger) -   A simple and powerful library that helps you track page navigation times inside your Angular application.
 
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -177,7 +327,11 @@
 
 *   [indexeddb-helper (⭐1)](https://github.com/AshenHiroshana/indexeddb-helper) - A library designed to simplify interaction with IndexedDB in Angular applications. It provides a clean API for performing CRUD operations with support for cache expiration, data storage, and retrieval.
 
-## [15. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
+
+## [17. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 

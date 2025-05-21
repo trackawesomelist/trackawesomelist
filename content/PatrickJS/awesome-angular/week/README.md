@@ -12,6 +12,10 @@
 
 *   [ngx-unused (⭐34)](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
 
+### Loggers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-route-logger (⭐2)](https://github.com/souravion/ng-route-logger) -   A simple and powerful library that helps you track page navigation times inside your Angular application.
+
 ### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-responsive-virtual-scroll (⭐3)](https://github.com/dcbeck/ngx-responsive-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, responsive grid lists, and view caching.
@@ -19,6 +23,10 @@
 ### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [indexeddb-helper (⭐1)](https://github.com/AshenHiroshana/indexeddb-helper) - A library designed to simplify interaction with IndexedDB in Angular applications. It provides a clean API for performing CRUD operations with support for cache expiration, data storage, and retrieval.
+
+### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
 
 ## [May 19 - May 25, 2025](/content/2025/20/README.md)
 
@@ -80,7 +88,7 @@
 
 ### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [zero-angular (⭐1)](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
+*   [zero-angular (⭐2)](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
 
 ### Helpers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

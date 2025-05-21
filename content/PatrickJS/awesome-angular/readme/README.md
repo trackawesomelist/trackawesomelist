@@ -830,7 +830,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-react (⭐2)](https://github.com/ngeenx/ngx-react) - Embed React components or apps into Angular projects.
 *   [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - This [IO Connect](https://interop.io/) Angular wrapper aims to facilitate Angular developers in initializing the IO Connect JavaScript libraries and using IO Connect functionalities in their projects.
 *   [Bloomreach Angular SDK (⭐18)](https://github.com/bloomreach/spa-sdk/blob/main/packages/ng-sdk/README.md) - Bloomreach Angular SDK provides simplified headless integration with [Bloomreach Content](https://www.bloomreach.com/en/products/content) for Angular-based applications.
-*   [zero-angular (⭐1)](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
+*   [zero-angular (⭐2)](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
 
 #### Internationalization
 
@@ -1642,6 +1642,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [pretty-html-log (⭐38)](https://github.com/angular-extensions/pretty-html-log) - A module that allows you to pretty print the inner HTML of ComponentFixtures, DebugElements, NativeElements or even plain HTML strings to the console. This is very useful for debugging Angular component tests in Jest.
 *   [log4ngx (⭐1)](https://github.com/secondbounce/log4ngx) - A Typescript logging framework for Angular projects, based on concepts used in Log4j, Log4net, etc.
 *   [ngx-wlog (⭐2)](https://github.com/w5g-wywiwyg/ngx-wlog) - A logger for Angular applications, drawing inspiration from the .NET [NLog](https://nlog-project.org/).
+*   [ng-route-logger (⭐2)](https://github.com/souravion/ng-route-logger) -   A simple and powerful library that helps you track page navigation times inside your Angular application.
 
 #### Maps
 
@@ -2124,6 +2125,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - A lightweight, reactive signal hub service for Angular applications built using signals. It offers a hybrid approach, allowing both traditional callback-based subscriptions and efficient signal-based observation of the latest event state.
 *   [ngx-voyage (⭐3)](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 *   [ngx-offline-indicator (⭐1)](https://github.com/thdang1009/ngx-offline-indicator) - A library designed to provide developers with a simple and customizable way to inform users about their internet connection status within their Angular applications.
+*   [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
 
 ***
 
