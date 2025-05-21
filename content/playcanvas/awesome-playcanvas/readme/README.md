@@ -131,7 +131,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Build Land](https://poki.com/en/g/build-land) - Grow your island by collecting resources.
 *   [Bus Parking 3D](https://play.famobi.com/bus-parking-3d) - Park the bus in the designated space before the timer runs out.
 *   [Cannon Balls 3D](https://play.famobi.com/cannon-balls-3d) - Use the cannon to destroy the various structures in this physics-based game.
-*   [Car Detailing Master](https://poki.com/en/g/car-detailing-master) - Clean, paint, and polish cars to perfection in this satisfying makeover game from Gamebole.
+*   [Car Detailing Master](https://poki.com/en/g/car-detailing-master) - Clean, paint, and polish cars in this satisfying makeover game from Gamebole.
 *   [Color Burst 3D](https://gamesnacks.com/games/colorburst3d) - Hit the colored wall matching the ball color.
 *   [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150 year anniversary.
 *   [Conundrum](https://conundrum.fun) - A word game where you solve anagrams. Fast!
@@ -162,6 +162,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Stack Smash](https://play.famobi.com/stack-smash) - Destroy all platforms to get to the ground and win.
 *   [Star Stable](https://www.starstable.com/en/register) - Character registration portal for popular horse game.
 *   [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
+*   [The Walking Dead: Those Beyond](https://twd.thosebeyond.io/) - A community survivor camp experience game.
 *   [TNT Bomb](https://play.famobi.com/tnt-bomb) - Destroy buildings and structures with explosive power ups.
 *   [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
 *   [Town Star](https://gala.games) - Online farming game built by the Creative Director of Farmville 2.

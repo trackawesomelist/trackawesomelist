@@ -6,6 +6,12 @@ A curated list of resources for learning about http://www.keycloak.org
 
 [ Daily / [Weekly](/content/thomasdarimont/awesome-keycloak/week/README.md) / [Overview](/content/thomasdarimont/awesome-keycloak/readme/README.md) ]
 
+## [May 21, 2025](/content/2025/05/21/README.md)
+
+### Community Extensions
+
+*   [Identity provider for German eID governikus/keycloak-eid-identity-provider](https://gitlab.opencode.de/governikus/keycloak-eid-identity-provider)
+
 ## [May 17, 2025](/content/2025/05/17/README.md)
 
 ### Community Extensions

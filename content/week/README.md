@@ -156,13 +156,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Awesome Java libraries and hidden gems](https://libs.tech/java)
 
-#### [11. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Domain Specific Language / Design Automation
-
-*   [Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs](https://openreview.net/forum?id=9nUBh4V6SA) - ***ICLR'25***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=6090102857833092474)]. Self-driving laboratories have begun to replace human experimenters in performing single experimental skills or predetermined experimental protocols. However, as the pace of idea iteration in scientific research has been intensified by Artificial Intelligence, the demand for rapid design of new protocols for new discoveries become evident. Efforts to automate protocol design have been initiated, but the capabilities of knowledge-based machine designers, such as Large Language Models, have not been fully elicited, probably for the absence of a systematic representation of experimental knowledge, as opposed to isolated, flatten pieces of information. To tackle this issue, this work proposes a multi-faceted, multi-scale representation, where instance actions, generalized operations, and product flow models are hierarchically encapsulated using Domain-Specific Languages. The authors further develop a data-driven algorithm based on non-parametric modeling that autonomously customizes these representations for specific domains. The proposed representation is equipped with various machine designers to manage protocol design tasks, including planning, modification, and adjustment. The results demonstrate that the proposed method could effectively complement Large Language Models in the protocol design process, serving as an auxiliary module in the realm of machine-assisted scientific exploration.
-
-#### [12. Awesome Ruby](/content/markets/awesome-ruby/README.md)
+#### [11. Awesome Ruby](/content/markets/awesome-ruby/README.md)
 
 ##### Configuration
 
@@ -172,13 +166,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [json-streamer (⭐59)](https://github.com/thisismydesign/json-streamer) - Stream JSON data based on various criteria (key, nesting level, etc).
 
-#### [13. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [12. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Blog posts / Miscellaneous
 
 *   [Pandas vs Polars : Comparaison des performances et de la mémoire](https://www.monshotdata.com/p/pandas-vs-polars) - A 2025 benchmark that compares the performance of Polars and Pandas by [@moncoachdata](https://github.com/moncoachdata). Code used is available on Github [here (⭐12)](https://github.com/moncoachdata/MonShotData/blob/main/Pandas/Polars-vs-Pandas.ipynb?utm_source=www.monshotdata.com\&utm_medium=referral\&utm_campaign=pandas-vs-polars-comparaison-des-performances-et-de-la-memoire).
 
-#### [14. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [13. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -200,7 +194,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
 
-#### [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Analytics
 
@@ -215,7 +209,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ByteStash (⭐1.4k)](https://github.com/jordan-dalby/ByteStash) - Pastebin and file storage service with a simple web interface. Supports syntax highlighting, optional user authentication and public sharing. ([Demo (⭐1.4k)](https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo)) `GPL-3.0` `Docker`
 
-#### [16. Public Apis](/content/public-apis/public-apis/README.md)
+#### [15. Public Apis](/content/public-apis/public-apis/README.md)
 - API: [IPstack](https://ipstack.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
 
   Description: Locate and Identify Website Visitors by IP Address
@@ -317,7 +311,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [17. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [16. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -360,6 +354,158 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [YAML (⭐396) (⭐393)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
+#### [17. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md)
+
+##### Technical Analysis
+
+*   [QTradeX (⭐7)](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots
+
+#### [18. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+
+##### Games / Browser Games
+
+*   [The Walking Dead: Those Beyond](https://twd.thosebeyond.io/) - A community survivor camp experience game.
+
+#### [19. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+
+##### [Capgo plugins](https://capgo.app/)
+
+*   [Native Market (⭐7)](https://github.com/riderx/native-market/) - A native market plugin for linking to google play or app store.
+*   [Native Biometric (⭐54)](https://github.com/Cap-go/capacitor-native-biometric/) - This plugin gives access to the native biometric apis for android and iOS
+*   [Camera Preview (⭐15)](https://github.com/Cap-go/camera-preview/) - Camera preview
+*   [Updater (⭐594)](https://github.com/Cap-go/capacitor-updater/) - Live update for capacitor apps
+*   [Uploader (⭐14)](https://github.com/Cap-go/capacitor-uploader/) - Background Uploader for capacitor apps
+*   [Purchases (⭐183)](https://github.com/RevenueCat/purchases-capacitor/) - In-app Subscriptions Made Easy with RevenueCat sdk
+*   [Flash (⭐15)](https://github.com/riderx/capacitor-flash/) - Switch the Flashlight / Torch of your device.
+*   [Screen Recorder (⭐13)](https://github.com/riderx/capacitor-screen-recorder/) - Record device's screen
+*   [Crisp (⭐8)](https://github.com/Cap-go/capacitor-crisp/) - Crisp native SDK for capacitor
+*   [Native Geocoder (⭐28)](https://github.com/Cap-go/capacitor-nativegeocoder/) - Capacitor plugin for native forward and reverse geocoding
+*   [In App Browser (⭐85)](https://github.com/Cap-go/capacitor-inappbrowser/) - Capacitor plugin in app browser
+*   [Mute (⭐8)](https://github.com/riderx/capacitor-mute/) - Detect if the mute switch is enabled/disabled on a device
+*   [Native Audio (⭐46)](https://github.com/Cap-go/native-audio/) - A native plugin for native audio engine
+*   [Shake (⭐11)](https://github.com/Cap-go/capacitor-shake/) - Detect shake gesture in device
+*   [Navigation Bar (⭐11)](https://github.com/Cap-go/capacitor-navigation-bar/) - Set navigation bar color for android lolipop and higher
+*   [IVS Player (⭐3)](https://github.com/Cap-go/ivs-player/) - Ivs player for capacitor app
+*   [Indicator (⭐1)](https://github.com/Cap-go/home-indicator/) - hide and show home button indicator in Capacitor app
+*   [Native Purchases (⭐11)](https://github.com/Cap-go/native-purchases/) - In-app Subscriptions Made Easy
+*   [Data Storage (⭐84)](https://github.com/Cap-go/capacitor-data-storage-sqlite/) - Capacitor SQLite Storage
+*   [Usage Stats Manager (⭐0)](https://github.com/Cap-go/capacitor-android-usagestatsmanager/) - Capacitor plugin for android usage stats manager
+*   [Streamcall (⭐2)](https://github.com/Cap-go/capacitor-streamcall/) - Capacitor plugin for streamcall
+*   [Social Login (⭐94)](https://github.com/Cap-go/capacitor-social-login/) - Capacitor plugin for social login
+*   [JW Player (⭐1)](https://github.com/Cap-go/capacitor-jw-player/) - Capacitor plugin for jw player
+*   [Ricoh360 Camera (⭐0)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin/) - Capacitor plugin for ricoh360 camera
+
+#### [20. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+
+##### Community Extensions
+
+*   [Identity provider for German eID governikus/keycloak-eid-identity-provider](https://gitlab.opencode.de/governikus/keycloak-eid-identity-provider)
+
+#### [21. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Domain Specific Language / Design Automation
+
+*   [Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs](https://openreview.net/forum?id=9nUBh4V6SA) - ***ICLR'25***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=6090102857833092474)]. \[[Project](https://autodsl.org/procedure/papers/iclr25shi.html)]. Self-driving laboratories have begun to replace human experimenters in performing single experimental skills or predetermined experimental protocols. However, as the pace of idea iteration in scientific research has been intensified by Artificial Intelligence, the demand for rapid design of new protocols for new discoveries become evident. Efforts to automate protocol design have been initiated, but the capabilities of knowledge-based machine designers, such as Large Language Models, have not been fully elicited, probably for the absence of a systematic representation of experimental knowledge, as opposed to isolated, flatten pieces of information. To tackle this issue, this work proposes a multi-faceted, multi-scale representation, where instance actions, generalized operations, and product flow models are hierarchically encapsulated using Domain-Specific Languages. The authors further develop a data-driven algorithm based on non-parametric modeling that autonomously customizes these representations for specific domains. The proposed representation is equipped with various machine designers to manage protocol design tasks, including planning, modification, and adjustment. The results demonstrate that the proposed method could effectively complement Large Language Models in the protocol design process, serving as an auxiliary module in the realm of machine-assisted scientific exploration.
+
+#### [22. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+##### **Section 1** 🎯: RAG
+
+*   [RAG (Retrieval-Augmented Generation)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#rag-retrieval-augmented-generation)
+*   [RAG Design](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#rag-solution-design) | [Application](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#rag-development)
+    *   [GraphRAG](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#graphrag)
+*   [Vector DB](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#vector-database-comparison)
+
+##### **Section 2** 🌌: Azure OpenAI
+
+*   [Microsoft LLM Framework](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#microsoft-azure-openai-llm-framework)
+*   [Copilot Products & Azure OpenAI Service](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#copilot-products) | [Research](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#research)
+*   [Azure Reference Architecture](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#azure-reference-architectures)
+
+##### **Section 3** 🌐: LLM Applications
+
+*   [LLM Frameworks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#applications-frameworks-and-user-interface-uiux) | [Applications](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#llm-application-development)
+    *   [Code Editor](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#code-editor--agent)
+    *   [Memory](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#llm-memory)
+*   [Caching, UX, Proposals & Other Topics](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#caching)
+*   [LLMs for Robotics](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#llm-for-robotics-bridging-ai-and-robotics)
+*   [Awesome Demo](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#awesome-demo)
+
+##### **Section 4** 🤖: Agent
+
+*   [Agent Design Patterns](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#agent-design-patterns)
+*   [Agent Frameworks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#agent-framework) | [Applications](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#agent-application)
+    *   [Code Interpreter](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#oss-alternatives-for-openai-code-interpreter-aka-advanced-data-analytics)
+    *   [Model Context Protocol (MCP) & Computer Use](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#model-context-protocol-mcp--computer-use)
+    *   [Deep Research](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#deep-research)
+
+##### **Section 5** 🏗️: Semantic Kernel & DSPy
+
+*   [Semantic Kernel](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/sk_dspy.md/#semantic-kernel): Micro-orchestration
+*   [DSPy](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/sk_dspy.md/#dspy): Optimizer frameworks
+
+##### **Section 6** 🛠️: LangChain | LlamaIndex
+
+*   [LangChain Features](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-feature-matrix--cheetsheet): Macro & Micro-orchestration
+*   [LangChain Agent & Criticism](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-chain-type-chains--summarizer)
+*   [LangChain vs Competitors](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-vs-competitors)
+*   [LlamaIndex](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#llamaindex): Micro-orchestration & RAG
+
+##### **Section 7** 🧠: Prompting | Finetuning
+
+*   [Prompt Engineering](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#prompt-engineering)
+*   [Finetuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#finetuning): PEFT (e.g., LoRA), RLHF, SFT
+*   [Quantization & Optimization](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#quantization-techniques)
+*   [Other Techniques](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#other-techniques-and-llm-patterns): e.g., MoE
+*   [Visual Prompting](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#visual-prompting--visual-grounding)
+
+##### **Section 8** 🏄‍♂️: Challenges & Abilities
+
+*   [AGI Discussion & Social Impact](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#agi-discussion-and-social-impact)
+*   [OpenAI Products & Roadmap](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#openais-roadmap-and-products)
+*   [Context Constraints](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#context-constraints): e.g., RoPE
+*   [Trust & Safety](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#trustworthy-safe-and-secure-llm)
+*   [LLM Abilities](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#large-language-model-is-abilities)
+    *   [Reasoning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#reasoning)
+
+##### **Section 9** 🌍: LLM Landscape
+
+*   [LLM Taxonomy](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-models-in-2023)
+*   [LLM Collection](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-model-collection)
+*   [Domain-Specific LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#llm-for-domain-specific): e.g., Software development
+*   [Multimodal LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#mllm-multimodal-large-language-model)
+
+##### **Section 10** 📚: Surveys & References
+
+*   [LLM Surveys](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#survey-on-large-language-models) | [Business Use Cases](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#business-use-cases)
+*   [Building LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#build-an-llms-from-scratch-picogpt-and-lit-gpt): from scratch
+*   [LLMs for Korean & Japanese](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#llm-materials-for-east-asian-languages)
+*   [Learning and Supplementary Materials](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#learning-and-supplementary-materials)
+
+##### **Section 11** 🧰: AI Tools & Extensions
+
+*   [AI Tools & Extensions](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#section-10-general-ai-tools-and-extensions)
+
+##### **Section 12** 📊: Datasets
+
+*   [LLM Training Datasets](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/dataset.md/#datasets-for-llm-training)
+
+##### **Section 13** 📝: Evaluations
+
+*   [LLM Evaluation](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/eval.md/#evaluating-large-language-models)
+*   [LLMOps](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/eval.md/#llmops-large-language-model-operations)
+
+##### **Section 13** 📝: Evaluations / **Legend** 🔑
+
+*   `ref`: external URL
+*   `doc`: archived doc
+*   `cite`: the source of comments
+*   `cnt`: number of citations
+*   `git`: GitHub link
+*   `x-ref`: Cross reference
+*   📺: YouTube or video
+*   💡 or 🏆: recommendation
+
 ---
 
 - Next: [May 19 - May 25, 2025](&#x2F;content&#x2F;2025&#x2F;20&#x2F;README.md)
@@ -394,28 +540,28 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 26. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 7K 📝 05&#x2F;18 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 27. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 14K 📝 05&#x2F;10 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 28. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 11K 📝 05&#x2F;12 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
-29. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 7.9K 📝 05&#x2F;13 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
-30. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 14K 📝 05&#x2F;07 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
-31. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 15K 📝 05&#x2F;06 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
-32. [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 4K 📝 05&#x2F;18 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
-33. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 8.3K 📝 05&#x2F;10 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-34. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 19K 📝 05&#x2F;02 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-35. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source ⭐ 11K 📝 05&#x2F;07 ](https://github.com/dhamaniasad/awesome-postgres)) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-36. [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 4.5K 📝 05&#x2F;15 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
-37. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.8K 📝 05&#x2F;13 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-38. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K 📝 05&#x2F;11 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
-39. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 5.9K 📝 05&#x2F;09 ](https://github.com/shuaibiyy/awesome-tf)) - Curated list of resources on HashiCorp's Terraform and OpenTofu
-40. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K 📝 05&#x2F;16 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
-41. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 26K 📝 04&#x2F;23 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
-42. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 25K 📝 04&#x2F;23 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
-43. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 68K 📝 04&#x2F;13 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
-44. [Awesome Testing](/content/TheJambo/awesome-testing/README.md) - ([Source ⭐ 2K 📝 05&#x2F;18 ](https://github.com/TheJambo/awesome-testing)) - A curated list of testing resources
-45. [Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md) - ([Source ⭐ 18K 📝 04&#x2F;25 ](https://github.com/sindresorhus/quick-look-plugins)) - List of useful Quick Look plugins for developers
-46. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 4.6K 📝 05&#x2F;08 ](https://github.com/zoidyzoidzoid/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
-47. [Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md) - ([Source ⭐ 1.8K 📝 05&#x2F;17 ](https://github.com/thomasdarimont/awesome-keycloak)) - A curated list of resources for learning about http://www.keycloak.org
-48. [Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md) - ([Source ⭐ 1.5K 📝 05&#x2F;19 ](https://github.com/brycejohnston/awesome-agriculture)) - Open source technology for agriculture, farming, and gardening
-49. [Awesome Iam](/content/kdeldycke/awesome-iam/README.md) - ([Source ⭐ 1.9K 📝 05&#x2F;15 ](https://github.com/kdeldycke/awesome-iam)) - 👤 Identity and Access Management knowledge for cloud platforms
-50. [Awesome Developer First](/content/agamm/awesome-developer-first/README.md) - ([Source ⭐ 1.3K 📝 05&#x2F;19 ](https://github.com/agamm/awesome-developer-first)) - A curated list of awesome developer-first tools products.
+29. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 4K 📝 05&#x2F;21 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+30. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 7.9K 📝 05&#x2F;13 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
+31. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 14K 📝 05&#x2F;07 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
+32. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 15K 📝 05&#x2F;06 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
+33. [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 4K 📝 05&#x2F;18 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
+34. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 8.3K 📝 05&#x2F;10 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+35. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 19K 📝 05&#x2F;02 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+36. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source ⭐ 11K 📝 05&#x2F;07 ](https://github.com/dhamaniasad/awesome-postgres)) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+37. [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 4.5K 📝 05&#x2F;15 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
+38. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.8K 📝 05&#x2F;13 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+39. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K 📝 05&#x2F;11 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
+40. [Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md) - ([Source ⭐ 1.8K 📝 05&#x2F;21 ](https://github.com/thomasdarimont/awesome-keycloak)) - A curated list of resources for learning about http://www.keycloak.org
+41. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 5.9K 📝 05&#x2F;09 ](https://github.com/shuaibiyy/awesome-tf)) - Curated list of resources on HashiCorp's Terraform and OpenTofu
+42. [Awesome Cl](/content/CodyReichert/awesome-cl/README.md) - ([Source ⭐ 2.7K 📝 05&#x2F;16 ](https://github.com/CodyReichert/awesome-cl)) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
+43. [Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md) - ([Source ⭐ 26K 📝 04&#x2F;23 ](https://github.com/kdeldycke/awesome-falsehood)) - 😱 Falsehoods Programmers Believe in
+44. [Awesome Swift](/content/matteocrippa/awesome-swift/README.md) - ([Source ⭐ 25K 📝 04&#x2F;23 ](https://github.com/matteocrippa/awesome-swift)) - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+45. [Awesome Machine Learning](/content/josephmisiti/awesome-machine-learning/README.md) - ([Source ⭐ 68K 📝 04&#x2F;13 ](https://github.com/josephmisiti/awesome-machine-learning)) - A curated list of awesome Machine Learning frameworks, libraries and software.
+46. [Awesome Testing](/content/TheJambo/awesome-testing/README.md) - ([Source ⭐ 2K 📝 05&#x2F;18 ](https://github.com/TheJambo/awesome-testing)) - A curated list of testing resources
+47. [Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md) - ([Source ⭐ 18K 📝 04&#x2F;25 ](https://github.com/sindresorhus/quick-look-plugins)) - List of useful Quick Look plugins for developers
+48. [Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/README.md) - ([Source ⭐ 4.6K 📝 05&#x2F;08 ](https://github.com/zoidyzoidzoid/awesome-ebpf)) - A curated list of awesome projects related to eBPF.
+49. [Awesome Agriculture](/content/brycejohnston/awesome-agriculture/README.md) - ([Source ⭐ 1.5K 📝 05&#x2F;19 ](https://github.com/brycejohnston/awesome-agriculture)) - Open source technology for agriculture, farming, and gardening
+50. [Awesome Iam](/content/kdeldycke/awesome-iam/README.md) - ([Source ⭐ 1.9K 📝 05&#x2F;15 ](https://github.com/kdeldycke/awesome-iam)) - 👤 Identity and Access Management knowledge for cloud platforms
 
 ## All Tracked List
 
@@ -497,7 +643,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 - [Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md) - ([Source ⭐ 113, 📝 03&#x2F;19 ](https://github.com/Hyraze/ai-collective-tools)) - Explore a curated selection of AI tools and resources
 - [Asdf Plugins](/content/asdf-vm/asdf-plugins/README.md) - ([Source ⭐ 1.3K, 📝 23&#x2F;02&#x2F;13 ](https://github.com/asdf-vm/asdf-plugins)) - Convenience shortname repository for asdf community plugins
-- [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 3.9K, 📝 04&#x2F;13 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+- [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 4K, 📝 05&#x2F;21 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
 - [Awesome Ai Tools](/content/mahseema/awesome-ai-tools/README.md) - ([Source ⭐ 2.2K, 📝 02&#x2F;16 ](https://github.com/mahseema/awesome-ai-tools)) - A curated list of Artificial Intelligence Top Tools
 - [Awesome Cern](/content/CERN/awesome-cern/README.md) - ([Source ⭐ 54, 📝 02&#x2F;13 ](https://github.com/CERN/awesome-cern)) - A curated list of awesome open source frameworks, libraries and software developed by CERN for the world
 - [Awesome Computer Vision](/content/jbhuang0604/awesome-computer-vision/README.md) - ([Source ⭐ 17K, 📝 21&#x2F;09&#x2F;28 ](https://github.com/jbhuang0604/awesome-computer-vision)) - A curated list of awesome computer vision resources
@@ -756,7 +902,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md) - ([Source ⭐ 498, 📝 05&#x2F;04 ](https://github.com/bs-community/awesome-minecraft)) - 📝 The curated list of awesome things related to Minecraft.
 - [Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md) - ([Source ⭐ 1.9K, 📝 05&#x2F;09 ](https://github.com/michelpereira/awesome-open-source-games)) - Collection of Games that have the source code available on GitHub
 - [Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md) - ([Source ⭐ 2.7K, 📝 03&#x2F;07 ](https://github.com/pico-8/awesome-PICO-8)) - A curated list of awesome PICO-8 resources, carts, tools and more
-- [Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md) - ([Source ⭐ 286, 📝 05&#x2F;17 ](https://github.com/playcanvas/awesome-playcanvas)) - A curated list of awesome PlayCanvas assets, resources, and more.
+- [Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md) - ([Source ⭐ 286, 📝 05&#x2F;21 ](https://github.com/playcanvas/awesome-playcanvas)) - A curated list of awesome PlayCanvas assets, resources, and more.
 - [Awesome Unity](/content/RyanNielson/awesome-unity/README.md) - ([Source ⭐ 6.7K, 📝 21&#x2F;04&#x2F;26 ](https://github.com/RyanNielson/awesome-unity)) - A curated list of awesome Unity assets, resources, and more.
 - [Game Datasets](/content/leomaurodesenv/game-datasets/README.md) - ([Source ⭐ 801, 📝 02&#x2F;25 ](https://github.com/leomaurodesenv/game-datasets)) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games
 - [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 14K, 📝 05&#x2F;10 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
@@ -787,7 +933,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### LLM
 
-- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 355, 📝 01&#x2F;22 ](https://github.com/kimtth/awesome-azure-openai-llm)) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.
+- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 360, 📝 05&#x2F;21 ](https://github.com/kimtth/awesome-azure-openai-llm)) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references with memos.
 - [Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md) - ([Source ⭐ 52, 📝 04&#x2F;23 ](https://github.com/xavidop/awesome-firebase-genkit)) - 🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!
 
 ### Learn
@@ -999,7 +1145,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md) - ([Source ⭐ 238, 📝 24&#x2F;10&#x2F;30 ](https://github.com/Esri/awesome-arcgis-developers)) - A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services
 - [Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md) - ([Source ⭐ 426, 📝 24&#x2F;09&#x2F;23 ](https://github.com/PandaFoss/Awesome-Arch)) - :sunglasses: A complete list of Arch-based projects
 - [Awesome Aws](/content/donnemartin/awesome-aws/README.md) - ([Source ⭐ 12K, 📝 23&#x2F;05&#x2F;29 ](https://github.com/donnemartin/awesome-aws)) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [Awesome Capacitor](/content/riderx/awesome-capacitor/README.md) - ([Source ⭐ 499, 📝 01&#x2F;22 ](https://github.com/riderx/awesome-capacitor)) - 😎 Awesome lists of capacitor plugins.
+- [Awesome Capacitor](/content/riderx/awesome-capacitor/README.md) - ([Source ⭐ 535, 📝 05&#x2F;21 ](https://github.com/riderx/awesome-capacitor)) - 😎 Awesome lists of capacitor plugins.
 - [Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md) - ([Source ⭐ 99, 📝 24&#x2F;07&#x2F;29 ](https://github.com/capawesome-team/awesome-capacitorjs)) - ⚡️ A curated list of awesome things related to Capacitor.
 - [Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/README.md) - ([Source ⭐ 404, 📝 23&#x2F;05&#x2F;26 ](https://github.com/irazasyed/awesome-cloudflare)) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [Awesome Cordova](/content/busterc/awesome-cordova/README.md) - ([Source ⭐ 283, 📝 19&#x2F;10&#x2F;25 ](https://github.com/busterc/awesome-cordova)) - :iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.
@@ -1143,7 +1289,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/README.md) - ([Source ⭐ 1K, 📝 23&#x2F;06&#x2F;26 ](https://github.com/daviddias/awesome-hacking-locations)) - :computer: :coffee: List of Awesome Hacking Locations, organised by Country and City, listing if it features power and wifi
 - [Awesome Honeypots](/content/paralax/awesome-honeypots/README.md) - ([Source ⭐ 9K, 📝 04&#x2F;02 ](https://github.com/paralax/awesome-honeypots)) - an awesome list of honeypot resources
 - [Awesome Incident Response](/content/meirwah/awesome-incident-response/README.md) - ([Source ⭐ 7K, 📝 23&#x2F;11&#x2F;19 ](https://github.com/meirwah/awesome-incident-response)) - A curated list of tools for incident response
-- [Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md) - ([Source ⭐ 1.8K, 📝 05&#x2F;17 ](https://github.com/thomasdarimont/awesome-keycloak)) - A curated list of resources for learning about http://www.keycloak.org
+- [Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md) - ([Source ⭐ 1.8K, 📝 05&#x2F;21 ](https://github.com/thomasdarimont/awesome-keycloak)) - A curated list of resources for learning about http://www.keycloak.org
 - [Awesome Lockpicking](/content/fabacab/awesome-lockpicking/README.md) - ([Source ⭐ 961, 📝 21&#x2F;03&#x2F;06 ](https://github.com/fabacab/awesome-lockpicking)) - :unlock::sunglasses: A curated list of awesome guides, tools, and other resources related to the security and compromise of locks, safes, and keys.
 - [Awesome Malware Analysis](/content/rshipp/awesome-malware-analysis/README.md) - ([Source ⭐ 11K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/rshipp/awesome-malware-analysis)) - Defund the Police.
 - [Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md) - ([Source ⭐ 188, 📝 24&#x2F;12&#x2F;03 ](https://github.com/Karneades/awesome-malware-persistence)) - A curated list of awesome malware persistence tools and resources. 

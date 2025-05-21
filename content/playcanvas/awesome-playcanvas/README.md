@@ -6,11 +6,17 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [May 21, 2025](/content/2025/05/21/README.md)
+
+### Games / Browser Games
+
+*   [The Walking Dead: Those Beyond](https://twd.thosebeyond.io/) - A community survivor camp experience game.
+
 ## [May 17, 2025](/content/2025/05/17/README.md)
 
 ### Games / Browser Games
 
-*   [Car Detailing Master](https://poki.com/en/g/car-detailing-master) - Clean, paint, and polish cars to perfection in this satisfying makeover game from Gamebole.
+*   [Car Detailing Master](https://poki.com/en/g/car-detailing-master) - Clean, paint, and polish cars in this satisfying makeover game from Gamebole.
 
 ## [Mar 16, 2025](/content/2025/03/16/README.md)
 

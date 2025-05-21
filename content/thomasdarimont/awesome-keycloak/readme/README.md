@@ -263,6 +263,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 *   [JavaScript LDAP\_ID ScriptMapper by @netzbegruenung (⭐1)](https://github.com/netzbegruenung/keycloak-scriptmapper-ldap-id)
 *   [evosec/keycloak-ipaddress-authenticator (⭐30)](https://github.com/evosec/keycloak-ipaddress-authenticator)
 *   [Identity provider for German eID L21s/keycloak-eid-identity-provider (⭐4)](https://github.com/L21s/keycloak-eid-identity-provider/tree/main)
+*   [Identity provider for German eID governikus/keycloak-eid-identity-provider](https://gitlab.opencode.de/governikus/keycloak-eid-identity-provider)
 
 ## Integrations
 

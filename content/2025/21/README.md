@@ -1,12 +1,158 @@
 # Awesome List Updates on May 26 - Jun 01, 2025
 
-17 awesome lists updated this week.
+22 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [1. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+
+### **Section 1** 🎯: RAG
+
+*   [RAG (Retrieval-Augmented Generation)](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#rag-retrieval-augmented-generation)
+*   [RAG Design](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#rag-solution-design) | [Application](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#rag-development)
+    *   [GraphRAG](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#graphrag)
+*   [Vector DB](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#vector-database-comparison)
+
+### **Section 2** 🌌: Azure OpenAI
+
+*   [Microsoft LLM Framework](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#microsoft-azure-openai-llm-framework)
+*   [Copilot Products & Azure OpenAI Service](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#copilot-products) | [Research](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#research)
+*   [Azure Reference Architecture](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#azure-reference-architectures)
+
+### **Section 3** 🌐: LLM Applications
+
+*   [LLM Frameworks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#applications-frameworks-and-user-interface-uiux) | [Applications](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#llm-application-development)
+    *   [Code Editor](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#code-editor--agent)
+    *   [Memory](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#llm-memory)
+*   [Caching, UX, Proposals & Other Topics](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#caching)
+*   [LLMs for Robotics](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#llm-for-robotics-bridging-ai-and-robotics)
+*   [Awesome Demo](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#awesome-demo)
+
+### **Section 4** 🤖: Agent
+
+*   [Agent Design Patterns](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#agent-design-patterns)
+*   [Agent Frameworks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#agent-framework) | [Applications](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#agent-application)
+    *   [Code Interpreter](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#oss-alternatives-for-openai-code-interpreter-aka-advanced-data-analytics)
+    *   [Model Context Protocol (MCP) & Computer Use](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#model-context-protocol-mcp--computer-use)
+    *   [Deep Research](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#deep-research)
+
+### **Section 5** 🏗️: Semantic Kernel & DSPy
+
+*   [Semantic Kernel](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/sk_dspy.md/#semantic-kernel): Micro-orchestration
+*   [DSPy](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/sk_dspy.md/#dspy): Optimizer frameworks
+
+### **Section 6** 🛠️: LangChain | LlamaIndex
+
+*   [LangChain Features](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-feature-matrix--cheetsheet): Macro & Micro-orchestration
+*   [LangChain Agent & Criticism](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-chain-type-chains--summarizer)
+*   [LangChain vs Competitors](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-vs-competitors)
+*   [LlamaIndex](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#llamaindex): Micro-orchestration & RAG
+
+### **Section 7** 🧠: Prompting | Finetuning
+
+*   [Prompt Engineering](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#prompt-engineering)
+*   [Finetuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#finetuning): PEFT (e.g., LoRA), RLHF, SFT
+*   [Quantization & Optimization](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#quantization-techniques)
+*   [Other Techniques](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#other-techniques-and-llm-patterns): e.g., MoE
+*   [Visual Prompting](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#visual-prompting--visual-grounding)
+
+### **Section 8** 🏄‍♂️: Challenges & Abilities
+
+*   [AGI Discussion & Social Impact](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#agi-discussion-and-social-impact)
+*   [OpenAI Products & Roadmap](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#openais-roadmap-and-products)
+*   [Context Constraints](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#context-constraints): e.g., RoPE
+*   [Trust & Safety](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#trustworthy-safe-and-secure-llm)
+*   [LLM Abilities](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#large-language-model-is-abilities)
+    *   [Reasoning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#reasoning)
+
+### **Section 9** 🌍: LLM Landscape
+
+*   [LLM Taxonomy](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-models-in-2023)
+*   [LLM Collection](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-model-collection)
+*   [Domain-Specific LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#llm-for-domain-specific): e.g., Software development
+*   [Multimodal LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#mllm-multimodal-large-language-model)
+
+### **Section 10** 📚: Surveys & References
+
+*   [LLM Surveys](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#survey-on-large-language-models) | [Business Use Cases](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#business-use-cases)
+*   [Building LLMs](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#build-an-llms-from-scratch-picogpt-and-lit-gpt): from scratch
+*   [LLMs for Korean & Japanese](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#llm-materials-for-east-asian-languages)
+*   [Learning and Supplementary Materials](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#learning-and-supplementary-materials)
+
+### **Section 11** 🧰: AI Tools & Extensions
+
+*   [AI Tools & Extensions](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#section-10-general-ai-tools-and-extensions)
+
+### **Section 12** 📊: Datasets
+
+*   [LLM Training Datasets](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/dataset.md/#datasets-for-llm-training)
+
+### **Section 13** 📝: Evaluations
+
+*   [LLM Evaluation](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/eval.md/#evaluating-large-language-models)
+*   [LLMOps](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/eval.md/#llmops-large-language-model-operations)
+
+### **Section 13** 📝: Evaluations / **Legend** 🔑
+
+*   `ref`: external URL
+*   `doc`: archived doc
+*   `cite`: the source of comments
+*   `cnt`: number of citations
+*   `git`: GitHub link
+*   `x-ref`: Cross reference
+*   📺: YouTube or video
+*   💡 or 🏆: recommendation
+
+## [2. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+
+### Community Extensions
+
+*   [Identity provider for German eID governikus/keycloak-eid-identity-provider](https://gitlab.opencode.de/governikus/keycloak-eid-identity-provider)
+
+## [3. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+
+### [Capgo plugins](https://capgo.app/)
+
+*   [Native Market (⭐7)](https://github.com/riderx/native-market/) - A native market plugin for linking to google play or app store.
+*   [Native Biometric (⭐54)](https://github.com/Cap-go/capacitor-native-biometric/) - This plugin gives access to the native biometric apis for android and iOS
+*   [Camera Preview (⭐15)](https://github.com/Cap-go/camera-preview/) - Camera preview
+*   [Updater (⭐594)](https://github.com/Cap-go/capacitor-updater/) - Live update for capacitor apps
+*   [Uploader (⭐14)](https://github.com/Cap-go/capacitor-uploader/) - Background Uploader for capacitor apps
+*   [Purchases (⭐183)](https://github.com/RevenueCat/purchases-capacitor/) - In-app Subscriptions Made Easy with RevenueCat sdk
+*   [Flash (⭐15)](https://github.com/riderx/capacitor-flash/) - Switch the Flashlight / Torch of your device.
+*   [Screen Recorder (⭐13)](https://github.com/riderx/capacitor-screen-recorder/) - Record device's screen
+*   [Crisp (⭐8)](https://github.com/Cap-go/capacitor-crisp/) - Crisp native SDK for capacitor
+*   [Native Geocoder (⭐28)](https://github.com/Cap-go/capacitor-nativegeocoder/) - Capacitor plugin for native forward and reverse geocoding
+*   [In App Browser (⭐85)](https://github.com/Cap-go/capacitor-inappbrowser/) - Capacitor plugin in app browser
+*   [Mute (⭐8)](https://github.com/riderx/capacitor-mute/) - Detect if the mute switch is enabled/disabled on a device
+*   [Native Audio (⭐46)](https://github.com/Cap-go/native-audio/) - A native plugin for native audio engine
+*   [Shake (⭐11)](https://github.com/Cap-go/capacitor-shake/) - Detect shake gesture in device
+*   [Navigation Bar (⭐11)](https://github.com/Cap-go/capacitor-navigation-bar/) - Set navigation bar color for android lolipop and higher
+*   [IVS Player (⭐3)](https://github.com/Cap-go/ivs-player/) - Ivs player for capacitor app
+*   [Indicator (⭐1)](https://github.com/Cap-go/home-indicator/) - hide and show home button indicator in Capacitor app
+*   [Native Purchases (⭐11)](https://github.com/Cap-go/native-purchases/) - In-app Subscriptions Made Easy
+*   [Data Storage (⭐84)](https://github.com/Cap-go/capacitor-data-storage-sqlite/) - Capacitor SQLite Storage
+*   [Usage Stats Manager (⭐0)](https://github.com/Cap-go/capacitor-android-usagestatsmanager/) - Capacitor plugin for android usage stats manager
+*   [Streamcall (⭐2)](https://github.com/Cap-go/capacitor-streamcall/) - Capacitor plugin for streamcall
+*   [Social Login (⭐94)](https://github.com/Cap-go/capacitor-social-login/) - Capacitor plugin for social login
+*   [JW Player (⭐1)](https://github.com/Cap-go/capacitor-jw-player/) - Capacitor plugin for jw player
+*   [Ricoh360 Camera (⭐0)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin/) - Capacitor plugin for ricoh360 camera
+
+## [4. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+
+### Games / Browser Games
+
+*   [The Walking Dead: Those Beyond](https://twd.thosebeyond.io/) - A community survivor camp experience game.
+
+## [5. Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/week/README.md)
+
+### Technical Analysis
+
+*   [QTradeX (⭐7)](https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK) - A powerful and flexible Python framework for designing, backtesting, optimizing, and deploying algotrading bots
+
+## [6. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -49,7 +195,7 @@
 
 *   [YAML (⭐396) (⭐393)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [2. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [7. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 - API: [IPstack](https://ipstack.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
 
@@ -152,19 +298,19 @@
 
 
 
-## [3. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [8. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Blog posts / Miscellaneous
 
 *   [Pandas vs Polars : Comparaison des performances et de la mémoire](https://www.monshotdata.com/p/pandas-vs-polars) - A 2025 benchmark that compares the performance of Polars and Pandas by [@moncoachdata](https://github.com/moncoachdata). Code used is available on Github [here (⭐12)](https://github.com/moncoachdata/MonShotData/blob/main/Pandas/Polars-vs-Pandas.ipynb?utm_source=www.monshotdata.com\&utm_medium=referral\&utm_campaign=pandas-vs-polars-comparaison-des-performances-et-de-la-memoire).
 
-## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Design Automation
 
-*   [Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs](https://openreview.net/forum?id=9nUBh4V6SA) - ***ICLR'25***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=6090102857833092474)]. Self-driving laboratories have begun to replace human experimenters in performing single experimental skills or predetermined experimental protocols. However, as the pace of idea iteration in scientific research has been intensified by Artificial Intelligence, the demand for rapid design of new protocols for new discoveries become evident. Efforts to automate protocol design have been initiated, but the capabilities of knowledge-based machine designers, such as Large Language Models, have not been fully elicited, probably for the absence of a systematic representation of experimental knowledge, as opposed to isolated, flatten pieces of information. To tackle this issue, this work proposes a multi-faceted, multi-scale representation, where instance actions, generalized operations, and product flow models are hierarchically encapsulated using Domain-Specific Languages. The authors further develop a data-driven algorithm based on non-parametric modeling that autonomously customizes these representations for specific domains. The proposed representation is equipped with various machine designers to manage protocol design tasks, including planning, modification, and adjustment. The results demonstrate that the proposed method could effectively complement Large Language Models in the protocol design process, serving as an auxiliary module in the realm of machine-assisted scientific exploration.
+*   [Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs](https://openreview.net/forum?id=9nUBh4V6SA) - ***ICLR'25***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=6090102857833092474)]. \[[Project](https://autodsl.org/procedure/papers/iclr25shi.html)]. Self-driving laboratories have begun to replace human experimenters in performing single experimental skills or predetermined experimental protocols. However, as the pace of idea iteration in scientific research has been intensified by Artificial Intelligence, the demand for rapid design of new protocols for new discoveries become evident. Efforts to automate protocol design have been initiated, but the capabilities of knowledge-based machine designers, such as Large Language Models, have not been fully elicited, probably for the absence of a systematic representation of experimental knowledge, as opposed to isolated, flatten pieces of information. To tackle this issue, this work proposes a multi-faceted, multi-scale representation, where instance actions, generalized operations, and product flow models are hierarchically encapsulated using Domain-Specific Languages. The authors further develop a data-driven algorithm based on non-parametric modeling that autonomously customizes these representations for specific domains. The proposed representation is equipped with various machine designers to manage protocol design tasks, including planning, modification, and adjustment. The results demonstrate that the proposed method could effectively complement Large Language Models in the protocol design process, serving as an auxiliary module in the realm of machine-assisted scientific exploration.
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -174,7 +320,7 @@
 
 *   [oxide-auth (⭐728)](https://github.com/197g/oxide-auth) - A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends [![Build Status](https://api.cirrus-ci.com/github/197g/oxide-auth.svg?branch=master)](https://cirrus-ci.com/github/HeroicKatora/oxide-auth)
 
-## [6. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [11. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Speciality Search Engines
 
@@ -209,7 +355,7 @@
 *   [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
 *   [Router Passwords](https://www.routerpasswords.com) - Online database of default router passwords.
 
-## [7. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [12. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Artificial Intelligence
 
@@ -242,7 +388,7 @@
 
 *   [Awesome Java libraries and hidden gems](https://libs.tech/java)
 
-## [8. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [13. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Configuration
 
@@ -252,7 +398,7 @@
 
 *   [json-streamer (⭐59)](https://github.com/thisismydesign/json-streamer) - Stream JSON data based on various criteria (key, nesting level, etc).
 
-## [9. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
@@ -267,7 +413,7 @@
 
 *   [ByteStash (⭐1.4k)](https://github.com/jordan-dalby/ByteStash) - Pastebin and file storage service with a simple web interface. Supports syntax highlighting, optional user authentication and public sharing. ([Demo (⭐1.4k)](https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo)) `GPL-3.0` `Docker`
 
-## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [15. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -277,39 +423,39 @@
 
 *   [atuin (⭐0)](https://github.com/marcelohmdias/zsh-atuin) - Tab completions for the [Atuin (⭐24k)](https://github.com/atuinsh/atuin) shell history system.
 
-## [11. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [16. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Misc
 
 *   [SignatureAPI](https://signatureapi.com) - API-first electronic signatures.
 
-## [12. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
+## [17. Awesome Fiber](/content/gofiber/awesome-fiber/week/README.md)
 
 ### ⚙️ Middlewares / 🌱 Third Party
 
 *   [narmadaweb/limiter (⭐1)](https://github.com/narmadaweb/limiter) - A high-performance Redis-backed rate limiter middleware for Fiber, supporting fixed window, sliding window, and token bucket algorithms.
 *   [narmadaweb/gonify (⭐1)](https://github.com/narmadaweb/gonify) - Fiber Minifying middleware for HTML5, CSS3, JavaScript, Json, XML and SVG.
 
-## [13. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+## [18. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Filtering and Validation
 
 *   see Cake/Localized plugin below.
 *   see Tools plugin below.
 
-## [14. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [19. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### IoT, Hardware / Shapefiles
 
 *   [Simplesteer (⭐3)](https://github.com/matmis/simplesteer) - RTK GPS tractor autosteer system with a web interface that you can control with a smartphone and can run on a Raspberry Pi.
 
-## [15. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [20. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### App Releases / Role Playing
 
 *   The Darkblade - [Desktop](https://store.steampowered.com/app/3731570/The_Darkblade/) - Souls-like 2D singleplayer RPG. By [Mikalyh](https://store.steampowered.com/curator/45619362)
 
-## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [21. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -331,7 +477,7 @@
 
 *   [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
 
-## [17. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
+## [22. Awesome Fastapi](/content/mjhea0/awesome-fastapi/week/README.md)
 
 ### Utils / Other Tools
 
