@@ -6,6 +6,17 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [May 22, 2025](/content/2025/05/22/README.md)
+
+### Speciality Search Engines
+
+*   [Search Abuseipdb (⭐1)](https://github.com/oseasfr/search-abuseipdb) - Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.
+
+### Digital Footprint Tools
+
+*   [Mine](https://www.saymine.com/mineapp) - Mine allows you to discover where your personal data is, and reduce your online exposure to minimize digital risks.
+*   [Yorba](https://yorba.co/) - Yorba helps you regain control of your digital life. We find and delete old accounts, cancel unwanted subscriptions, and unsubscribe you from emails you never open—making your inbox cleaner, your footprint leaner, your privacy stronger.
+
 ## [May 19, 2025](/content/2025/05/19/README.md)
 
 ### Speciality Search Engines

@@ -30,6 +30,7 @@ Happy hacking and hunting 🧙‍♂️
 *   [Visual Search and Clustering Search Engines](#-visual-search-and-clustering-search-engines)
 *   [Similar Sites Search](#-similar-sites-search)
 *   [Document and Slides Search](#-document-and-slides-search)
+*   [Digital FootPrint Tools](#-digital-footprint-tools)
 *   [File Search](#-file-search)
 *   [Pastebins](#-pastebins)
 *   [Code Search](#-code-search)
@@ -180,6 +181,7 @@ Thanks to our main contributors
 *   [Netlas.io](https://app.netlas.io/)
 *   [ODIN](https://search.odin.io/) - Used to search for Hosts, CVEs & Exposed Buckets/Files and shows a website is vulnerable or not. 10 Free Searches Per Day.
 *   [OCCRP Aleph](https://aleph.occrp.org/)
+*   [Search Abuseipdb (⭐1)](https://github.com/oseasfr/search-abuseipdb) - Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.
 *   [Shodan](https://www.shodan.io/) - Shodan is a search engine for the IOT(Internet of Things) that allows you to search variety of servers that are connected to the internet using various searching filters.
 *   [WIPO](https://www3.wipo.int/branddb/en/)
 *   [WorldWideScience.org](http://worldwidescience.org)
@@ -215,6 +217,13 @@ Thanks to our main contributors
 *   [Offshore Leak Database](https://offshoreleaks.icij.org)
 *   [Scribd](http://www.scribd.com)
 *   [SlideShare](http://www.slideshare.net)
+
+## [↑](#-digital-footprint-tools)  Digital Footprint Tools
+
+*Analyze your Digital Footprints on the internet.*
+
+*   [Mine](https://www.saymine.com/mineapp) - Mine allows you to discover where your personal data is, and reduce your online exposure to minimize digital risks.
+*   [Yorba](https://yorba.co/) - Yorba helps you regain control of your digital life. We find and delete old accounts, cancel unwanted subscriptions, and unsubscribe you from emails you never open—making your inbox cleaner, your footprint leaner, your privacy stronger.
 
 ## [↑](#-table-of-contents) File Search
 

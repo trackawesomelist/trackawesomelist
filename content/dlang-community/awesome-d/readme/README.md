@@ -41,6 +41,7 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
         *   [IDEs & Editors](#ides--editors)
         *   [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
         *   [Preprocessors](#preprocessors)
+        *   [Version Manager](#version-manager)
     *   Compiler for other languages
         *   [Javascript](#javascript)
     *   Common/Utilities
@@ -130,7 +131,7 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 *   [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
 *   [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including OpenGL and other multimedia/game related library bindings. (OpenGL 3, Bgfx, ENet,  SDL 2, GLFW 3，OpenGLES, Free Image, Assimp3, libtheora, libogg, libvorbis, SFML 2, libpq, PhysicsFS, Open Dynamics Engine, Lua, DevIL, OpenAL, ALURE).
 *   [DlangScience](https://github.com/DlangScience) -A focal point and first port of call for scientific libraries and tooling for D.
-*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐424)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
+*   [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash (⭐426)](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 *   [EMSI](https://github.com/economicmodeling) - A Career building company that uses D as their main language. Hosts their opensource projects.
 *   [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
 *   [libmir](https://github.com/libmir) - D's numeric library development team
@@ -218,7 +219,7 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 
 *Tools for more productive D development.*
 
-*   [D-Scanner (⭐244)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
+*   [D-Scanner (⭐245)](https://github.com/dlang-community/D-Scanner) - Swiss-army knife for D source code (linting, static analysis, D code parsing, etc.)
 *   [dfmt (⭐207)](https://github.com/dlang-community/dfmt) - formatter for D source code
 
 ## Build Tools
@@ -268,6 +269,11 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 ## Preprocesors
 
 *   [warp (⭐529)](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
+
+## Version Manager
+
+*   [dvm (⭐58)](https://github.com/jacob-carlborg/dvm) - A small tool to install and manage DMD (self-hosting) compiler.
+*   [ldcup (⭐1)](https://github.com/kassane/ldcup) - A small tool to install and manage LDC2 (LLVM backend) compiler.
 
 ## Javascript
 
@@ -483,7 +489,7 @@ If you know an interesting lib/app in D, please tell us through [GitHub issues (
 *   [DGame (⭐85)](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
 *   [gfm (⭐3)](https://github.com/drug007/gfm7) - D gamedev toolkit.
 *   [Dagon (⭐359)](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
-*   [Dash (⭐424)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
+*   [Dash (⭐426)](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <https://circularstudios.com/dash/>.
 *   [DSFML (⭐95)](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 *   [DAllegro5 (⭐42)](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 *   [Voxelman (⭐127)](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language

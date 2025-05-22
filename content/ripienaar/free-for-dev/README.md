@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [May 22, 2025](/content/2025/05/22/README.md)
+
+### APIs, Data, and ML
+
+*   [Parseur](https://parseur.com) — 20 free credits/month: Extract data from PDFs, emails. AI powered. Full API access.
+
 ## [May 13, 2025](/content/2025/05/13/README.md)
 
 ### Monitoring
@@ -474,7 +480,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
-*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource (⭐7k)](https://github.com/comet-ml/opik/)
+*   [Comet Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications across your dev and production lifecycles. [#opensource (⭐7.9k)](https://github.com/comet-ml/opik/)
 
 ### Low-code Platform
 
@@ -2004,7 +2010,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [Mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with one inbox, 100 messages, no team member, two emails/second, no forward rules.
 *   [Mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API.
 *   [Postmark](https://postmarkapp.com/) - 100 emails/month free, unlimited DMARC weekly digests.
-*   [SendGrid](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
 *   [Sendpulse](https://sendpulse.com) — 500 subscribers/month, 15,000 emails/month free
 
 ### Low-code Platform
