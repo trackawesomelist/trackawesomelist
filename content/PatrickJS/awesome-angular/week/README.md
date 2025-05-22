@@ -32,6 +32,10 @@
 
 *   [cdk-drag-snap-to-point (⭐7)](https://github.com/shhdharmen/cdk-drag-snap-to-point) - A demo to showcase cdkDrag features to achieve drop only on certain points.
 
+### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-otp-input (⭐115)](https://github.com/code-farmz/ng-otp-input) - A fully customizable, one-time password (OTP) input component for the web built with Angular.
+
 ### Loggers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ng-route-logger (⭐2)](https://github.com/souravion/ng-route-logger) -   A simple and powerful library that helps you track page navigation times inside your Angular application.

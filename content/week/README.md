@@ -428,59 +428,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   📺: YouTube or video
 *   💡 or 🏆: recommendation
 
-#### [19. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
-
-##### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [angular-interview-questions (⭐14)](https://github.com/Devinterview-io/angular-interview-questions) - Angular interview questions and answers to help you prepare for your next technical interview in 2025.
-
-##### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ng.guide](https://ng.guide/) - Learn Angular by building real-world apps.
-
-##### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-unused (⭐34)](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
-
-##### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-signal-pagination (⭐1)](https://github.com/JPtenBerge/ngx-signal-pagination) - Pagination for Angular, powered by signals.
-
-##### SEO / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [seo-manager-pro (⭐1)](https://github.com/mbsh-code/seo-manager-pro) - A powerful SEO Manager for Angular, React, Vue, and Vanilla JS projects. Easily set meta tags, Open Graph tags, Schema.org structured data, canonical URLs, robots meta, and more!
-
-##### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [cdk-drag-snap-to-point (⭐7)](https://github.com/shhdharmen/cdk-drag-snap-to-point) - A demo to showcase cdkDrag features to achieve drop only on certain points.
-
-##### Loggers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ng-route-logger (⭐2)](https://github.com/souravion/ng-route-logger) -   A simple and powerful library that helps you track page navigation times inside your Angular application.
-
-##### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [rxap](https://gitlab.com/rxap/packages) - Reactive Application Platform, or RxAP for short, is a collection of software modules and tools. With the help of RxAP, the development effort of web and cloud applications can be significantly reduced.
-
-##### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-responsive-virtual-scroll (⭐3)](https://github.com/dcbeck/ngx-responsive-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, responsive grid lists, and view caching.
-
-##### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [indexeddb-helper (⭐1)](https://github.com/AshenHiroshana/indexeddb-helper) - A library designed to simplify interaction with IndexedDB in Angular applications. It provides a clean API for performing CRUD operations with support for cache expiration, data storage, and retrieval.
-
-##### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
-
-#### [20. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### APIs, Data, and ML
 
 *   [Parseur](https://parseur.com) — 20 free credits/month: Extract data from PDFs, emails. AI powered. Full API access.
 
-#### [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Analytics
 
@@ -495,20 +449,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ByteStash (⭐1.4k)](https://github.com/jordan-dalby/ByteStash) - Pastebin and file storage service with a simple web interface. Supports syntax highlighting, optional user authentication and public sharing. ([Demo (⭐1.4k)](https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo)) `GPL-3.0` `Docker`
 
-#### [22. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+#### [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ##### SDKs / Rust
 
 *   [KPublicTransport](https://invent.kde.org/libraries/kpublictransport) - A C++ library for accessing realtime public transport data and for performing public transport journey queries.
 
-#### [23. Awesome D](/content/dlang-community/awesome-d/README.md)
+#### [22. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ##### Version Manager / Bare metal / kernel development
 
 *   [dvm (⭐58)](https://github.com/jacob-carlborg/dvm) - A small tool to install and manage DMD (self-hosting) compiler.
 *   [ldcup (⭐1)](https://github.com/kassane/ldcup) - A small tool to install and manage LDC2 (LLVM backend) compiler.
 
-#### [24. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [23. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Speciality Search Engines
 
@@ -549,11 +503,61 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
 *   [Router Passwords](https://www.routerpasswords.com) - Online database of default router passwords.
 
-#### [25. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Domain Specific Language / Design Automation
 
 *   [Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs](https://openreview.net/forum?id=9nUBh4V6SA) - ***ICLR'25***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=6090102857833092474)]. \[[Project](https://autodsl.org/procedure/papers/iclr25shi.html)]. Self-driving laboratories have begun to replace human experimenters in performing single experimental skills or predetermined experimental protocols. However, as the pace of idea iteration in scientific research has been intensified by Artificial Intelligence, the demand for rapid design of new protocols for new discoveries become evident. Efforts to automate protocol design have been initiated, but the capabilities of knowledge-based machine designers, such as Large Language Models, have not been fully elicited, probably for the absence of a systematic representation of experimental knowledge, as opposed to isolated, flatten pieces of information. To tackle this issue, this work proposes a multi-faceted, multi-scale representation, where instance actions, generalized operations, and product flow models are hierarchically encapsulated using Domain-Specific Languages. The authors further develop a data-driven algorithm based on non-parametric modeling that autonomously customizes these representations for specific domains. The proposed representation is equipped with various machine designers to manage protocol design tasks, including planning, modification, and adjustment. The results demonstrate that the proposed method could effectively complement Large Language Models in the protocol design process, serving as an auxiliary module in the realm of machine-assisted scientific exploration.
+
+#### [25. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-interview-questions (⭐14)](https://github.com/Devinterview-io/angular-interview-questions) - Angular interview questions and answers to help you prepare for your next technical interview in 2025.
+
+##### Online Training / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng.guide](https://ng.guide/) - Learn Angular by building real-world apps.
+
+##### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-unused (⭐34)](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
+
+##### HTTP / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-signal-pagination (⭐1)](https://github.com/JPtenBerge/ngx-signal-pagination) - Pagination for Angular, powered by signals.
+
+##### SEO / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [seo-manager-pro (⭐1)](https://github.com/mbsh-code/seo-manager-pro) - A powerful SEO Manager for Angular, React, Vue, and Vanilla JS projects. Easily set meta tags, Open Graph tags, Schema.org structured data, canonical URLs, robots meta, and more!
+
+##### Drag and Drop / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [cdk-drag-snap-to-point (⭐7)](https://github.com/shhdharmen/cdk-drag-snap-to-point) - A demo to showcase cdkDrag features to achieve drop only on certain points.
+
+##### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-otp-input (⭐115)](https://github.com/code-farmz/ng-otp-input) - A fully customizable, one-time password (OTP) input component for the web built with Angular.
+
+##### Loggers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-route-logger (⭐2)](https://github.com/souravion/ng-route-logger) -   A simple and powerful library that helps you track page navigation times inside your Angular application.
+
+##### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [rxap](https://gitlab.com/rxap/packages) - Reactive Application Platform, or RxAP for short, is a collection of software modules and tools. With the help of RxAP, the development effort of web and cloud applications can be significantly reduced.
+
+##### Scroll / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-responsive-virtual-scroll (⭐3)](https://github.com/dcbeck/ngx-responsive-virtual-scroll) - A fast and lightweight virtual scrolling solution for Angular that supports single column lists, responsive grid lists, and view caching.
+
+##### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [indexeddb-helper (⭐1)](https://github.com/AshenHiroshana/indexeddb-helper) - A library designed to simplify interaction with IndexedDB in Angular applications. It provides a clean API for performing CRUD operations with support for cache expiration, data storage, and retrieval.
+
+##### Misc Components / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
 
 ---
 

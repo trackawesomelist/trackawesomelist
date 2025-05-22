@@ -18,7 +18,37 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [1. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [Parseur](https://parseur.com) — 20 free credits/month: Extract data from PDFs, emails. AI powered. Full API access.
+
+#### [2. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+
+##### SDKs / Rust
+
+*   [KPublicTransport](https://invent.kde.org/libraries/kpublictransport) - A C++ library for accessing realtime public transport data and for performing public transport journey queries.
+
+#### [3. Awesome D](/content/dlang-community/awesome-d/README.md)
+
+##### Version Manager / Bare metal / kernel development
+
+*   [dvm (⭐58)](https://github.com/jacob-carlborg/dvm) - A small tool to install and manage DMD (self-hosting) compiler.
+*   [ldcup (⭐1)](https://github.com/kassane/ldcup) - A small tool to install and manage LDC2 (LLVM backend) compiler.
+
+#### [4. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+##### Speciality Search Engines
+
+*   [Search Abuseipdb (⭐1)](https://github.com/oseasfr/search-abuseipdb) - Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.
+
+##### Digital Footprint Tools
+
+*   [Mine](https://www.saymine.com/mineapp) - Mine allows you to discover where your personal data is, and reduce your online exposure to minimize digital risks.
+*   [Yorba](https://yorba.co/) - Yorba helps you regain control of your digital life. We find and delete old accounts, cancel unwanted subscriptions, and unsubscribe you from emails you never open—making your inbox cleaner, your footprint leaner, your privacy stronger.
+
+#### [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -40,39 +70,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [cdk-drag-snap-to-point (⭐7)](https://github.com/shhdharmen/cdk-drag-snap-to-point) - A demo to showcase cdkDrag features to achieve drop only on certain points.
 
+##### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-otp-input (⭐115)](https://github.com/code-farmz/ng-otp-input) - A fully customizable, one-time password (OTP) input component for the web built with Angular.
+
 ##### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [rxap](https://gitlab.com/rxap/packages) - Reactive Application Platform, or RxAP for short, is a collection of software modules and tools. With the help of RxAP, the development effort of web and cloud applications can be significantly reduced.
-
-#### [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data, and ML
-
-*   [Parseur](https://parseur.com) — 20 free credits/month: Extract data from PDFs, emails. AI powered. Full API access.
-
-#### [3. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
-
-##### SDKs / Rust
-
-*   [KPublicTransport](https://invent.kde.org/libraries/kpublictransport) - A C++ library for accessing realtime public transport data and for performing public transport journey queries.
-
-#### [4. Awesome D](/content/dlang-community/awesome-d/README.md)
-
-##### Version Manager / Bare metal / kernel development
-
-*   [dvm (⭐58)](https://github.com/jacob-carlborg/dvm) - A small tool to install and manage DMD (self-hosting) compiler.
-*   [ldcup (⭐1)](https://github.com/kassane/ldcup) - A small tool to install and manage LDC2 (LLVM backend) compiler.
-
-#### [5. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-##### Speciality Search Engines
-
-*   [Search Abuseipdb (⭐1)](https://github.com/oseasfr/search-abuseipdb) - Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.
-
-##### Digital Footprint Tools
-
-*   [Mine](https://www.saymine.com/mineapp) - Mine allows you to discover where your personal data is, and reduce your online exposure to minimize digital risks.
-*   [Yorba](https://yorba.co/) - Yorba helps you regain control of your digital life. We find and delete old accounts, cancel unwanted subscriptions, and unsubscribe you from emails you never open—making your inbox cleaner, your footprint leaner, your privacy stronger.
 
 ### [May 21, 2025](/content/2025/05/21/README.md)
 
@@ -411,7 +415,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Pandas vs Polars : Comparaison des performances et de la mémoire](https://www.monshotdata.com/p/pandas-vs-polars) - A 2025 benchmark that compares the performance of Polars and Pandas by [@moncoachdata](https://github.com/moncoachdata). Code used is available on Github [here (⭐12)](https://github.com/moncoachdata/MonShotData/blob/main/Pandas/Polars-vs-Pandas.ipynb?utm_source=www.monshotdata.com\&utm_medium=referral\&utm_campaign=pandas-vs-polars-comparaison-des-performances-et-de-la-memoire).
 
-#### [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / File Transfer - Single-click & Drag-n-drop Upload
+
+*   [Pairdrop](https://pairdrop.net/) - Local file sharing in your browser, inspired by Apple's AirDrop (fork of Snapdrop). ([Source Code (⭐7k)](https://github.com/schlagmichdoch/pairdrop)) `GPL-3.0` `Docker`
+*   [QuickShare](https://ihexxa.github.io/quickshare.site/) - Quick and simple file sharing between different devices. ([Source Code (⭐528)](https://github.com/ihexxa/quickshare)) `LGPL-3.0` `Docker/Go`
+
+#### [6. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Domain Specific Language / Design Automation
+
+*   [Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs](https://openreview.net/forum?id=9nUBh4V6SA) - ***ICLR'25***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=6090102857833092474)]. \[[Project](https://autodsl.org/procedure/papers/iclr25shi.html)]. Self-driving laboratories have begun to replace human experimenters in performing single experimental skills or predetermined experimental protocols. However, as the pace of idea iteration in scientific research has been intensified by Artificial Intelligence, the demand for rapid design of new protocols for new discoveries become evident. Efforts to automate protocol design have been initiated, but the capabilities of knowledge-based machine designers, such as Large Language Models, have not been fully elicited, probably for the absence of a systematic representation of experimental knowledge, as opposed to isolated, flatten pieces of information. To tackle this issue, this work proposes a multi-faceted, multi-scale representation, where instance actions, generalized operations, and product flow models are hierarchically encapsulated using Domain-Specific Languages. The authors further develop a data-driven algorithm based on non-parametric modeling that autonomously customizes these representations for specific domains. The proposed representation is equipped with various machine designers to manage protocol design tasks, including planning, modification, and adjustment. The results demonstrate that the proposed method could effectively complement Large Language Models in the protocol design process, serving as an auxiliary module in the realm of machine-assisted scientific exploration.
+
+#### [7. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -420,19 +437,6 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [indexeddb-helper (⭐1)](https://github.com/AshenHiroshana/indexeddb-helper) - A library designed to simplify interaction with IndexedDB in Angular applications. It provides a clean API for performing CRUD operations with support for cache expiration, data storage, and retrieval.
-
-#### [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / File Transfer - Single-click & Drag-n-drop Upload
-
-*   [Pairdrop](https://pairdrop.net/) - Local file sharing in your browser, inspired by Apple's AirDrop (fork of Snapdrop). ([Source Code (⭐7k)](https://github.com/schlagmichdoch/pairdrop)) `GPL-3.0` `Docker`
-*   [QuickShare](https://ihexxa.github.io/quickshare.site/) - Quick and simple file sharing between different devices. ([Source Code (⭐528)](https://github.com/ihexxa/quickshare)) `LGPL-3.0` `Docker/Go`
-
-#### [7. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Domain Specific Language / Design Automation
-
-*   [Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs](https://openreview.net/forum?id=9nUBh4V6SA) - ***ICLR'25***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=6090102857833092474)]. \[[Project](https://autodsl.org/procedure/papers/iclr25shi.html)]. Self-driving laboratories have begun to replace human experimenters in performing single experimental skills or predetermined experimental protocols. However, as the pace of idea iteration in scientific research has been intensified by Artificial Intelligence, the demand for rapid design of new protocols for new discoveries become evident. Efforts to automate protocol design have been initiated, but the capabilities of knowledge-based machine designers, such as Large Language Models, have not been fully elicited, probably for the absence of a systematic representation of experimental knowledge, as opposed to isolated, flatten pieces of information. To tackle this issue, this work proposes a multi-faceted, multi-scale representation, where instance actions, generalized operations, and product flow models are hierarchically encapsulated using Domain-Specific Languages. The authors further develop a data-driven algorithm based on non-parametric modeling that autonomously customizes these representations for specific domains. The proposed representation is equipped with various machine designers to manage protocol design tasks, including planning, modification, and adjustment. The results demonstrate that the proposed method could effectively complement Large Language Models in the protocol design process, serving as an auxiliary module in the realm of machine-assisted scientific exploration.
 
 ---
 
