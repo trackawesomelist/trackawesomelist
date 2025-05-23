@@ -20,7 +20,7 @@
     *   Supports both GM 3 and GM 4 userscripts.
 *   [**USI**](https://addons.mozilla.org/firefox/addon/userunified-script-injector/) - Firefox
     *   Supports some GM 3 userscripts.
-*   [**Violentmonkey**](https://violentmonkey.github.io/) - Chrome, Firefox, Maxthon, Opera
+*   [**Violentmonkey**](https://violentmonkey.github.io/) - Edge, Firefox
     *   Supports both GM 3 and GM 4 userscripts.
 
 ### Scripts / ChatGPT
@@ -30,6 +30,10 @@
 ### Scripts / Just Eat (UK only)
 
 *   [Just Eat Userscript (⭐0)](https://github.com/S4N-T0S/JustEat-userscript) - Adds dark mode and advanced filters to [Just Eat UK](https://www.just-eat.co.uk).
+
+### Scripts / Translation
+
+*   [Immersive Translate](https://immersivetranslate.com/) - Translates text on any page.
 
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
@@ -43,7 +47,7 @@
 
 ## [Aug 02, 2024](/content/2024/08/02/README.md)
 
-### Scripts / ChatGPT
+### Scripts / Text-to-speech
 
 *   [ChatGPT Auto-Talk (⭐15)](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
 
@@ -154,8 +158,11 @@
 
 *   [Endless Google](https://openuserjs.org/scripts/tumpio/Endless_Google) -  Load more results automatically and endlessly.
 *   [Google Images direct link](https://greasyfork.org/scripts/3187-google-images-direct-link) - Adds direct links to images and pages in google image search.
-*   [Google Translate Keyboard Shortcut (⭐9)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
 *   [Reddit Search On Google (⭐97)](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
+
+### Scripts / Translation
+
+*   [Google Translate Keyboard Shortcut (⭐9)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
 
 ### Scripts / Privacy
 

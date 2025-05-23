@@ -12,7 +12,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 #### -= Awesome TypeScript =- [Awesome Elasticsearch (⭐5k)](https://github.com/dzharii/awesome-elasticsearch) →
 
-> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome (⭐359k)](https://github.com/sindresorhus/awesome) lists.
+> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome (⭐362k)](https://github.com/sindresorhus/awesome) lists.
 
 ## More awesome resources
 
@@ -179,7 +179,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 ## CMS
 
 *   [Factor](https://factor.dev) - The Javascript CMS (TypeScript supported natively)
-*   [Graphweaver (⭐516)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
+*   [Graphweaver (⭐518)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
 
 ## Tools
 
@@ -244,7 +244,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [ts-codec (⭐18)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
 *   [ow (⭐3.8k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
 *   [superstruct (⭐7.1k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
-*   [computed-types (⭐362)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐363)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 *   [json-schema-to-ts (⭐1.6k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 *   [Yunomix (⭐5)](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
 *   [typia (⭐5.1k)](https://github.com/samchon/typia) - 20,000x times faster runtime validator using pure TypeScript type. Only one line required like `typia.assert<T>(input)`. Also, supports 200x faster JSON serialization, and Protocol Buffer features. 🚀 (see also <https://typia.io/docs>)
@@ -278,12 +278,13 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [Cycle.js (⭐10k)](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code.
 *   :octocat: [Tridactyl (⭐5.6k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 *   :octocat: [armour/vue-typescript-admin-template (⭐5.6k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
-*   :octocat: [n8n.io (⭐88k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐97k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 *   :octocat: [Dnote (⭐2.9k)](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
 *   :octocat: [Thin Backend (⭐1.2k)](https://github.com/digitallyinduced/thin-backend) - Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema
 *   :octocat: [Flowbite (⭐8.5k)](https://github.com/themesberg/flowbite) - Open-source component library built on top of Tailwind CSS featuring interactive UI components built with TypeScript
 *   :octocat: [ILLA Cloud](https://www.illacloud.com/) - Open source low-code platform alternative to Retool and Appsmith for developers to build internal tools in minutes.
 *   :octocat: [Treehouse (⭐162)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
+*   :octocat: [GOUI (⭐3)](https://github.com/intermesh/goui) - Open source User Interface library with lots of components for building web applications
 
 ### Web/ReactJS
 
@@ -402,7 +403,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 # LLM
 
-*   [duckduckgo-ai-chat (⭐92)](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
+*   [duckduckgo-ai-chat (⭐93)](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
 
 # Video Courses
 

@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ [Daily](/content/dzharii/awesome-typescript/README.md) / Weekly / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
+
+### Web / Playground
+
+*   :octocat: [GOUI (⭐3)](https://github.com/intermesh/goui) - Open source User Interface library with lots of components for building web applications
+
 ## [May 19 - May 25, 2025](/content/2025/20/README.md)
 
 ### Tools / Playground
@@ -80,7 +86,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Libraries / Chrome Extensions
 
-*   [duckduckgo-ai-chat (⭐92)](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
+*   [duckduckgo-ai-chat (⭐93)](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 
@@ -251,7 +257,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### CMS / Playground
 
-*   [Graphweaver (⭐516)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
+*   [Graphweaver (⭐518)](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL Headless CMS.
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
@@ -709,7 +715,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Validation / Playground
 
-*   [computed-types (⭐362)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐363)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
 ## [Jun 22 - Jun 28, 2020](/content/2020/25/README.md)
 
@@ -828,7 +834,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Web / Playground
 
-*   :octocat: [n8n.io (⭐88k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐97k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 
 ## [Sep 16 - Sep 22, 2019](/content/2019/37/README.md)
 

@@ -34,6 +34,7 @@
 *   [Social Login (⭐94)](https://github.com/Cap-go/capacitor-social-login/) - Capacitor plugin for social login
 *   [JW Player (⭐1)](https://github.com/Cap-go/capacitor-jw-player/) - Capacitor plugin for jw player
 *   [Ricoh360 Camera (⭐0)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin/) - Capacitor plugin for ricoh360 camera
+*   [Autofill save password (⭐2)](https://github.com/Cap-go/capacitor-autofill-save-password/) - Capacitor plugin to save login into device password managager
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 

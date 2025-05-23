@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [May 23, 2025](/content/2025/05/23/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [DevToolLab](https://devtoollab.com) — Online developer tools offering free access to all basic tools, with the ability to auto save one entry per tool, standard processing speed, and community support.
+
 ## [May 22, 2025](/content/2025/05/22/README.md)
 
 ### APIs, Data, and ML
@@ -2794,7 +2800,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
     *   Cloud Build - 120 build-minutes per day
     *   Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
     *   [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
-    *   [idx.dev](https://idx.dev) Google Project IDX. Online VSCode running on Google Cloud.
+    *   [Firebase Studio](https://firebase.studio) Google Firebase Studio (formerly Project IDX). Online VSCode running on Google Cloud.
     *   Full, detailed list - <https://cloud.google.com/free>
 
 ## [Jul 20, 2022](/content/2022/07/20/README.md)

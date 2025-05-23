@@ -102,7 +102,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     *   Cloud Build - 120 build-minutes per day
     *   Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
     *   [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
-    *   [idx.dev](https://idx.dev) Google Project IDX. Online VSCode running on Google Cloud.
+    *   [Firebase Studio](https://firebase.studio) Google Firebase Studio (formerly Project IDX). Online VSCode running on Google Cloud.
     *   Full, detailed list - <https://cloud.google.com/free>
 
 *   [Amazon Web Services](https://aws.amazon.com)
@@ -427,6 +427,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 *   [Calendly](https://calendly.com) — Calendly is the tool for connecting and scheduling meetings. The free plan provides 1 Calendar connection per user and Unlimited sessions. Desktop and Mobile apps are also offered.
 *   [Discord](https://discord.com/) — Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.
 *   [Telegram](https://telegram.org/) — Telegram is for everyone who wants fast, reliable messaging and calls. Business users and small teams may like the large groups, usernames, desktop apps, and powerful file-sharing options.
+*   [DevToolLab](https://devtoollab.com) — Online developer tools offering free access to all basic tools, with the ability to auto save one entry per tool, standard processing speed, and community support.
 *   [Dubble](https://dubble.so/) — Free Step-by-Step Guide creator. Take screenshots, document processes and colloborate with your team. Also supports async screen recording.
 *   [Duckly](https://duckly.com/) — Talk and collaborate in real time with your team. Pair programming with IDE, terminal sharing, voice, video, and screen sharing. Free for small teams.
 *   [Dyte](https://dyte.io) - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement. The free tier includes monthly 10,000 minutes of live video/audio usage.

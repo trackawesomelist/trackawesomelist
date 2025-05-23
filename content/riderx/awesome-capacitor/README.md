@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/riderx/awesome-capacitor/week/README.md) / [Overview](/content/riderx/awesome-capacitor/readme/README.md) ]
 
+## [May 23, 2025](/content/2025/05/23/README.md)
+
+### [Capgo plugins](https://capgo.app/)
+
+*   [Autofill save password (⭐2)](https://github.com/Cap-go/capacitor-autofill-save-password/) - Capacitor plugin to save login into device password managager
+
 ## [May 21, 2025](/content/2025/05/21/README.md)
 
 ### [Capgo plugins](https://capgo.app/)

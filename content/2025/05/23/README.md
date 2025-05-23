@@ -1,12 +1,36 @@
 # Awesome List Updates on May 23, 2025
 
-2 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
+## [1. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+
+### [Capgo plugins](https://capgo.app/)
+
+*   [Autofill save password (⭐2)](https://github.com/Cap-go/capacitor-autofill-save-password/) - Capacitor plugin to save login into device password managager
+
+## [2. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+
+### Libraries / JavaScript
+
+*   [osm-pbf-parser-node (⭐17)](https://github.com/borisgontar/osm-pbf-parser-node) - Streaming OpenStreetMap PBF parser for Node.js.
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Tools for Teams and Collaboration
+
+*   [DevToolLab](https://devtoollab.com) — Online developer tools offering free access to all basic tools, with the ability to auto save one entry per tool, standard processing speed, and community support.
+
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+### Web / Playground
+
+*   :octocat: [GOUI (⭐3)](https://github.com/intermesh/goui) - Open source User Interface library with lots of components for building web applications
+
+## [5. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
 ### Compatibility
 
@@ -20,7 +44,7 @@
     *   Supports both GM 3 and GM 4 userscripts.
 *   [**USI**](https://addons.mozilla.org/firefox/addon/userunified-script-injector/) - Firefox
     *   Supports some GM 3 userscripts.
-*   [**Violentmonkey**](https://violentmonkey.github.io/) - Chrome, Firefox, Maxthon, Opera
+*   [**Violentmonkey**](https://violentmonkey.github.io/) - Edge, Firefox
     *   Supports both GM 3 and GM 4 userscripts.
 
 ### Scripts / ChatGPT
@@ -31,7 +55,11 @@
 
 *   [Just Eat Userscript (⭐0)](https://github.com/S4N-T0S/JustEat-userscript) - Adds dark mode and advanced filters to [Just Eat UK](https://www.just-eat.co.uk).
 
-## [2. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+### Scripts / Translation
+
+*   [Immersive Translate](https://immersivetranslate.com/) - Translates text on any page.
+
+## [6. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ### In English
 

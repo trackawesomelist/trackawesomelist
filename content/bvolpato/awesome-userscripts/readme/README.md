@@ -8,7 +8,7 @@
 
 ---
 
-# Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/brunocvcunha/awesome-userscripts.svg?branch=master)](https://travis-ci.org/brunocvcunha/awesome-userscripts) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+# Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 A curated list of Awesome Userscripts.
 
@@ -30,6 +30,8 @@ User scripts can improve your browsing experience, and open a lot of possibiliti
     *   [Passwords](#passwords)
     *   [Privacy](#privacy)
     *   [Redirection](#redirection)
+    *   [Text-to-speech](#text-to-speech)
+    *   [Translation](#translation)
     *   [YouTube](#youtube)
 *   [Tutorials](#tutorials)
 *   [Community](#community)
@@ -51,7 +53,7 @@ To use user scripts you need to first install a user script manager. Here are ma
     *   Supports both GM 3 and GM 4 userscripts.
 *   [**USI**](https://addons.mozilla.org/firefox/addon/userunified-script-injector/) - Firefox
     *   Supports some GM 3 userscripts.
-*   [**Violentmonkey**](https://violentmonkey.github.io/) - Chrome, Firefox, Maxthon, Opera
+*   [**Violentmonkey**](https://violentmonkey.github.io/) - Edge, Firefox
     *   Supports both GM 3 and GM 4 userscripts.
 
 The most popular userscript managers are Greasemonkey, Tampermonkey, and Violentmonkey.
@@ -144,6 +146,15 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 *   [Select text inside a link like Opera](https://greasyfork.org/scripts/789-select-text-inside-a-link-like-opera) - Disable link dragging and select text.
 *   [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
 
+### Text-to-speech
+
+*   [ChatGPT Auto-Talk (⭐15)](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
+
+### Translation
+
+*   [Google Translate Keyboard Shortcut (⭐9)](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
+*   [Immersive Translate](https://immersivetranslate.com/) - Translates text on any page.
+
 ### YouTube
 
 *   [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.
@@ -183,5 +194,5 @@ To the extent possible under law, [Bruno Candido Volpato da Cunha](https://githu
 
 #
 
-[Back to top ↑](#awesome-userscripts---)
+[Back to top ↑](#awesome-userscripts--)
 

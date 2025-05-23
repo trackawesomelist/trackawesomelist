@@ -294,42 +294,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [The Walking Dead: Those Beyond](https://twd.thosebeyond.io/) - A community survivor camp experience game.
 
-#### [16. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
-
-##### [Capgo plugins](https://capgo.app/)
-
-*   [Native Market (⭐7)](https://github.com/riderx/native-market/) - A native market plugin for linking to google play or app store.
-*   [Native Biometric (⭐54)](https://github.com/Cap-go/capacitor-native-biometric/) - This plugin gives access to the native biometric apis for android and iOS
-*   [Camera Preview (⭐15)](https://github.com/Cap-go/camera-preview/) - Camera preview
-*   [Updater (⭐594)](https://github.com/Cap-go/capacitor-updater/) - Live update for capacitor apps
-*   [Uploader (⭐14)](https://github.com/Cap-go/capacitor-uploader/) - Background Uploader for capacitor apps
-*   [Purchases (⭐183)](https://github.com/RevenueCat/purchases-capacitor/) - In-app Subscriptions Made Easy with RevenueCat sdk
-*   [Flash (⭐15)](https://github.com/riderx/capacitor-flash/) - Switch the Flashlight / Torch of your device.
-*   [Screen Recorder (⭐13)](https://github.com/riderx/capacitor-screen-recorder/) - Record device's screen
-*   [Crisp (⭐8)](https://github.com/Cap-go/capacitor-crisp/) - Crisp native SDK for capacitor
-*   [Native Geocoder (⭐28)](https://github.com/Cap-go/capacitor-nativegeocoder/) - Capacitor plugin for native forward and reverse geocoding
-*   [In App Browser (⭐85)](https://github.com/Cap-go/capacitor-inappbrowser/) - Capacitor plugin in app browser
-*   [Mute (⭐8)](https://github.com/riderx/capacitor-mute/) - Detect if the mute switch is enabled/disabled on a device
-*   [Native Audio (⭐46)](https://github.com/Cap-go/native-audio/) - A native plugin for native audio engine
-*   [Shake (⭐11)](https://github.com/Cap-go/capacitor-shake/) - Detect shake gesture in device
-*   [Navigation Bar (⭐11)](https://github.com/Cap-go/capacitor-navigation-bar/) - Set navigation bar color for android lolipop and higher
-*   [IVS Player (⭐3)](https://github.com/Cap-go/ivs-player/) - Ivs player for capacitor app
-*   [Indicator (⭐1)](https://github.com/Cap-go/home-indicator/) - hide and show home button indicator in Capacitor app
-*   [Native Purchases (⭐11)](https://github.com/Cap-go/native-purchases/) - In-app Subscriptions Made Easy
-*   [Data Storage (⭐84)](https://github.com/Cap-go/capacitor-data-storage-sqlite/) - Capacitor SQLite Storage
-*   [Usage Stats Manager (⭐0)](https://github.com/Cap-go/capacitor-android-usagestatsmanager/) - Capacitor plugin for android usage stats manager
-*   [Streamcall (⭐2)](https://github.com/Cap-go/capacitor-streamcall/) - Capacitor plugin for streamcall
-*   [Social Login (⭐94)](https://github.com/Cap-go/capacitor-social-login/) - Capacitor plugin for social login
-*   [JW Player (⭐1)](https://github.com/Cap-go/capacitor-jw-player/) - Capacitor plugin for jw player
-*   [Ricoh360 Camera (⭐0)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin/) - Capacitor plugin for ricoh360 camera
-
-#### [17. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+#### [16. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ##### Community Extensions
 
 *   [Identity provider for German eID governikus/keycloak-eid-identity-provider](https://gitlab.opencode.de/governikus/keycloak-eid-identity-provider)
 
-#### [18. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [17. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ##### **Section 1** 🎯: RAG
 
@@ -428,13 +399,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   📺: YouTube or video
 *   💡 or 🏆: recommendation
 
-#### [19. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data, and ML
-
-*   [Parseur](https://parseur.com) — 20 free credits/month: Extract data from PDFs, emails. AI powered. Full API access.
-
-#### [20. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [18. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Analytics
 
@@ -449,20 +414,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ByteStash (⭐1.4k)](https://github.com/jordan-dalby/ByteStash) - Pastebin and file storage service with a simple web interface. Supports syntax highlighting, optional user authentication and public sharing. ([Demo (⭐1.4k)](https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo)) `GPL-3.0` `Docker`
 
-#### [21. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+#### [19. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ##### SDKs / Rust
 
 *   [KPublicTransport](https://invent.kde.org/libraries/kpublictransport) - A C++ library for accessing realtime public transport data and for performing public transport journey queries.
 
-#### [22. Awesome D](/content/dlang-community/awesome-d/README.md)
+#### [20. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ##### Version Manager / Bare metal / kernel development
 
 *   [dvm (⭐58)](https://github.com/jacob-carlborg/dvm) - A small tool to install and manage DMD (self-hosting) compiler.
 *   [ldcup (⭐1)](https://github.com/kassane/ldcup) - A small tool to install and manage LDC2 (LLVM backend) compiler.
 
-#### [23. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [21. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Speciality Search Engines
 
@@ -503,13 +468,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
 *   [Router Passwords](https://www.routerpasswords.com) - Online database of default router passwords.
 
-#### [24. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [22. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Domain Specific Language / Design Automation
 
 *   [Hierarchically Encapsulated Representation for Protocol Design in Self-Driving Labs](https://openreview.net/forum?id=9nUBh4V6SA) - ***ICLR'25***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=6090102857833092474)]. \[[Project](https://autodsl.org/procedure/papers/iclr25shi.html)]. Self-driving laboratories have begun to replace human experimenters in performing single experimental skills or predetermined experimental protocols. However, as the pace of idea iteration in scientific research has been intensified by Artificial Intelligence, the demand for rapid design of new protocols for new discoveries become evident. Efforts to automate protocol design have been initiated, but the capabilities of knowledge-based machine designers, such as Large Language Models, have not been fully elicited, probably for the absence of a systematic representation of experimental knowledge, as opposed to isolated, flatten pieces of information. To tackle this issue, this work proposes a multi-faceted, multi-scale representation, where instance actions, generalized operations, and product flow models are hierarchically encapsulated using Domain-Specific Languages. The authors further develop a data-driven algorithm based on non-parametric modeling that autonomously customizes these representations for specific domains. The proposed representation is equipped with various machine designers to manage protocol design tasks, including planning, modification, and adjustment. The results demonstrate that the proposed method could effectively complement Large Language Models in the protocol design process, serving as an auxiliary module in the realm of machine-assisted scientific exploration.
 
-#### [25. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [23. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Cheatsheet / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -559,11 +524,27 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
 
-#### [26. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
+#### [24. Awesome Geek Podcasts](/content/ayr-ton/awesome-geek-podcasts/README.md)
 
 ##### In English
 
 *   [Life In Flux](https://open.spotify.com/show/356IixXN3AJmlKBwtlSto0) - Ran Segall chats weekly with some of the mentors, students, and friends of Flux Academy. Talking about design, business, life and everything in between.
+
+#### [25. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+
+##### Web / Playground
+
+*   :octocat: [GOUI (⭐3)](https://github.com/intermesh/goui) - Open source User Interface library with lots of components for building web applications
+
+#### [26. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [Parseur](https://parseur.com) — 20 free credits/month: Extract data from PDFs, emails. AI powered. Full API access.
+
+##### Tools for Teams and Collaboration
+
+*   [DevToolLab](https://devtoollab.com) — Online developer tools offering free access to all basic tools, with the ability to auto save one entry per tool, standard processing speed, and community support.
 
 #### [27. Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md)
 
@@ -579,7 +560,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     *   Supports both GM 3 and GM 4 userscripts.
 *   [**USI**](https://addons.mozilla.org/firefox/addon/userunified-script-injector/) - Firefox
     *   Supports some GM 3 userscripts.
-*   [**Violentmonkey**](https://violentmonkey.github.io/) - Chrome, Firefox, Maxthon, Opera
+*   [**Violentmonkey**](https://violentmonkey.github.io/) - Edge, Firefox
     *   Supports both GM 3 and GM 4 userscripts.
 
 ##### Scripts / ChatGPT
@@ -590,6 +571,46 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Just Eat Userscript (⭐0)](https://github.com/S4N-T0S/JustEat-userscript) - Adds dark mode and advanced filters to [Just Eat UK](https://www.just-eat.co.uk).
 
+##### Scripts / Translation
+
+*   [Immersive Translate](https://immersivetranslate.com/) - Translates text on any page.
+
+#### [28. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+
+##### Libraries / JavaScript
+
+*   [osm-pbf-parser-node (⭐17)](https://github.com/borisgontar/osm-pbf-parser-node) - Streaming OpenStreetMap PBF parser for Node.js.
+
+#### [29. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+
+##### [Capgo plugins](https://capgo.app/)
+
+*   [Native Market (⭐7)](https://github.com/riderx/native-market/) - A native market plugin for linking to google play or app store.
+*   [Native Biometric (⭐54)](https://github.com/Cap-go/capacitor-native-biometric/) - This plugin gives access to the native biometric apis for android and iOS
+*   [Camera Preview (⭐15)](https://github.com/Cap-go/camera-preview/) - Camera preview
+*   [Updater (⭐594)](https://github.com/Cap-go/capacitor-updater/) - Live update for capacitor apps
+*   [Uploader (⭐14)](https://github.com/Cap-go/capacitor-uploader/) - Background Uploader for capacitor apps
+*   [Purchases (⭐183)](https://github.com/RevenueCat/purchases-capacitor/) - In-app Subscriptions Made Easy with RevenueCat sdk
+*   [Flash (⭐15)](https://github.com/riderx/capacitor-flash/) - Switch the Flashlight / Torch of your device.
+*   [Screen Recorder (⭐13)](https://github.com/riderx/capacitor-screen-recorder/) - Record device's screen
+*   [Crisp (⭐8)](https://github.com/Cap-go/capacitor-crisp/) - Crisp native SDK for capacitor
+*   [Native Geocoder (⭐28)](https://github.com/Cap-go/capacitor-nativegeocoder/) - Capacitor plugin for native forward and reverse geocoding
+*   [In App Browser (⭐85)](https://github.com/Cap-go/capacitor-inappbrowser/) - Capacitor plugin in app browser
+*   [Mute (⭐8)](https://github.com/riderx/capacitor-mute/) - Detect if the mute switch is enabled/disabled on a device
+*   [Native Audio (⭐46)](https://github.com/Cap-go/native-audio/) - A native plugin for native audio engine
+*   [Shake (⭐11)](https://github.com/Cap-go/capacitor-shake/) - Detect shake gesture in device
+*   [Navigation Bar (⭐11)](https://github.com/Cap-go/capacitor-navigation-bar/) - Set navigation bar color for android lolipop and higher
+*   [IVS Player (⭐3)](https://github.com/Cap-go/ivs-player/) - Ivs player for capacitor app
+*   [Indicator (⭐1)](https://github.com/Cap-go/home-indicator/) - hide and show home button indicator in Capacitor app
+*   [Native Purchases (⭐11)](https://github.com/Cap-go/native-purchases/) - In-app Subscriptions Made Easy
+*   [Data Storage (⭐84)](https://github.com/Cap-go/capacitor-data-storage-sqlite/) - Capacitor SQLite Storage
+*   [Usage Stats Manager (⭐0)](https://github.com/Cap-go/capacitor-android-usagestatsmanager/) - Capacitor plugin for android usage stats manager
+*   [Streamcall (⭐2)](https://github.com/Cap-go/capacitor-streamcall/) - Capacitor plugin for streamcall
+*   [Social Login (⭐94)](https://github.com/Cap-go/capacitor-social-login/) - Capacitor plugin for social login
+*   [JW Player (⭐1)](https://github.com/Cap-go/capacitor-jw-player/) - Capacitor plugin for jw player
+*   [Ricoh360 Camera (⭐0)](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin/) - Capacitor plugin for ricoh360 camera
+*   [Autofill save password (⭐2)](https://github.com/Cap-go/capacitor-autofill-save-password/) - Capacitor plugin to save login into device password managager
+
 ---
 
 - Next: [May 19 - May 25, 2025](&#x2F;content&#x2F;2025&#x2F;20&#x2F;README.md)
@@ -599,7 +620,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 1. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 345K 📝 05&#x2F;21 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
 2. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 360K 📝 05&#x2F;16 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 3. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 229K 📝 05&#x2F;20 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
-4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 96K 📝 05&#x2F;22 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 96K 📝 05&#x2F;23 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 50K 📝 05&#x2F;20 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 6. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 05&#x2F;16 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 7. [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 44K 📝 05&#x2F;20 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
@@ -621,20 +642,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 23. [Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md) - ([Source ⭐ 9.7K 📝 05&#x2F;19 ](https://github.com/mjhea0/awesome-fastapi)) - A curated list of awesome things related to FastAPI
 24. [Android Security Awesome](/content/ashishb/android-security-awesome/README.md) - ([Source ⭐ 8.6K 📝 05&#x2F;18 ](https://github.com/ashishb/android-security-awesome)) - A collection of android security related resources
 25. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K 📝 05&#x2F;13 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-26. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 7K 📝 05&#x2F;18 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-27. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 14K 📝 05&#x2F;10 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
-28. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 11K 📝 05&#x2F;12 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
-29. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 4K 📝 05&#x2F;21 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
-30. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 7.9K 📝 05&#x2F;13 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
-31. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 14K 📝 05&#x2F;07 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
-32. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 15K 📝 05&#x2F;06 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
-33. [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 4K 📝 05&#x2F;18 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
-34. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 8.3K 📝 05&#x2F;10 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
-35. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 19K 📝 05&#x2F;02 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
-36. [Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md) - ([Source ⭐ 2.3K 📝 05&#x2F;23 ](https://github.com/awesome-scripts/awesome-userscripts)) - 📖  A curated list of Awesome Userscripts.
-37. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source ⭐ 11K 📝 05&#x2F;07 ](https://github.com/dhamaniasad/awesome-postgres)) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
-38. [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 4.5K 📝 05&#x2F;15 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
-39. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.8K 📝 05&#x2F;13 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+26. [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.8K 📝 05&#x2F;23 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+27. [Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md) - ([Source ⭐ 7K 📝 05&#x2F;18 ](https://github.com/rust-embedded/awesome-embedded-rust)) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+28. [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 14K 📝 05&#x2F;10 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
+29. [Awesome Nextjs](/content/unicodeveloper/awesome-nextjs/README.md) - ([Source ⭐ 11K 📝 05&#x2F;12 ](https://github.com/unicodeveloper/awesome-nextjs)) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications) 
+30. [Awesome Ai in Finance](/content/georgezouq/awesome-ai-in-finance/README.md) - ([Source ⭐ 4K 📝 05&#x2F;21 ](https://github.com/georgezouq/awesome-ai-in-finance)) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market.
+31. [Awesome Godot](/content/godotengine/awesome-godot/README.md) - ([Source ⭐ 7.9K 📝 05&#x2F;13 ](https://github.com/godotengine/awesome-godot)) - A curated list of free/libre plugins, scripts and add-ons for Godot
+32. [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 14K 📝 05&#x2F;07 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
+33. [Awesome Graphql](/content/chentsulin/awesome-graphql/README.md) - ([Source ⭐ 15K 📝 05&#x2F;06 ](https://github.com/chentsulin/awesome-graphql)) - Awesome list of GraphQL
+34. [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 4K 📝 05&#x2F;18 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
+35. [Awesome Userscripts](/content/bvolpato/awesome-userscripts/README.md) - ([Source ⭐ 2.3K 📝 05&#x2F;23 ](https://github.com/awesome-scripts/awesome-userscripts)) - 📖  A curated list of Awesome Userscripts.
+36. [Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md) - ([Source ⭐ 8.3K 📝 05&#x2F;10 ](https://github.com/kyrolabs/awesome-langchain)) - 😎 Awesome list of tools and projects with the awesome LangChain framework
+37. [Awesome Readme](/content/matiassingers/awesome-readme/README.md) - ([Source ⭐ 19K 📝 05&#x2F;02 ](https://github.com/matiassingers/awesome-readme)) - A curated list of awesome READMEs
+38. [Awesome Postgres](/content/dhamaniasad/awesome-postgres/README.md) - ([Source ⭐ 11K 📝 05&#x2F;07 ](https://github.com/dhamaniasad/awesome-postgres)) - A curated list of awesome PostgreSQL software, libraries, tools and resources, inspired by awesome-mysql
+39. [Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md) - ([Source ⭐ 4.5K 📝 05&#x2F;15 ](https://github.com/dustinspecker/awesome-eslint)) - A list of awesome ESLint plugins, configs, etc.
 40. [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K 📝 05&#x2F;11 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 41. [Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md) - ([Source ⭐ 1.8K 📝 05&#x2F;21 ](https://github.com/thomasdarimont/awesome-keycloak)) - A curated list of resources for learning about http://www.keycloak.org
 42. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 5.9K 📝 05&#x2F;09 ](https://github.com/shuaibiyy/awesome-tf)) - Curated list of resources on HashiCorp's Terraform and OpenTofu
@@ -936,7 +957,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md) - ([Source ⭐ 1.7K, 📝 04&#x2F;03 ](https://github.com/TheComputerM/awesome-svelte)) - ⚡ A curated list of awesome Svelte resources
 - [Awesome Tailwindcss](/content/aniftyco/awesome-tailwindcss/README.md) - ([Source ⭐ 14K, 📝 05&#x2F;07 ](https://github.com/aniftyco/awesome-tailwindcss)) - 😎 Awesome things related to Tailwind CSS
 - [Awesome Text Editing](/content/dok/awesome-text-editing/README.md) - ([Source ⭐ 245, 📝 20&#x2F;06&#x2F;18 ](https://github.com/dok/awesome-text-editing)) - Collection of text editing resources and libraries for the web
-- [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.8K, 📝 05&#x2F;13 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+- [Awesome Typescript](/content/dzharii/awesome-typescript/README.md) - ([Source ⭐ 4.8K, 📝 05&#x2F;23 ](https://github.com/dzharii/awesome-typescript)) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
 - [Awesome Vite](/content/vitejs/awesome-vite/README.md) - ([Source ⭐ 15K, 📝 03&#x2F;13 ](https://github.com/vitejs/awesome-vite)) - ⚡️ A curated list of awesome things related to Vite.js
 - [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K, 📝 05&#x2F;16 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
 - [Awesome Web Animation](/content/sergey-pimenov/awesome-web-animation/README.md) - ([Source ⭐ 1.1K, 📝 21&#x2F;09&#x2F;16 ](https://github.com/sergey-pimenov/awesome-web-animation)) - A list of awesome web animation libraries, books, apps etc.
@@ -1146,7 +1167,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Opengl](/content/eug/awesome-opengl/README.md) - ([Source ⭐ 1.9K, 📝 23&#x2F;08&#x2F;17 ](https://github.com/eug/awesome-opengl)) - A curated list of awesome OpenGL libraries, debuggers and resources.
 - [Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/README.md) - ([Source ⭐ 2.8K, 📝 23&#x2F;05&#x2F;22 ](https://github.com/unicodeveloper/awesome-opensource-apps)) - :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 - [Awesome OpenSourcePhotography](/content/ibaaj/awesome-OpenSourcePhotography/README.md) - ([Source ⭐ 413, 📝 22&#x2F;03&#x2F;20 ](https://github.com/ibaaj/awesome-OpenSourcePhotography)) - A list of awesome free open source software & libraries for photography. Also tools for video.
-- [Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md) - ([Source ⭐ 629, 📝 24&#x2F;03&#x2F;12 ](https://github.com/osmlab/awesome-openstreetmap)) - 😎 Curated list of awesome OpenSteetMap-projects
+- [Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md) - ([Source ⭐ 756, 📝 05&#x2F;23 ](https://github.com/osmlab/awesome-openstreetmap)) - 😎 Curated list of awesome OpenSteetMap-projects
 - [Awesome Orgs](/content/beansource/awesome-orgs/README.md) - ([Source ⭐ 19, 📝 24&#x2F;04&#x2F;10 ](https://github.com/beansource/awesome-orgs)) - 🥰 List of awesome GitHub organizations
 - [Awesome Parasite](/content/ecohealthalliance/awesome-parasite/README.md) - ([Source ⭐ 35, 📝 24&#x2F;08&#x2F;18 ](https://github.com/ecohealthalliance/awesome-parasite)) - A curated list of host-parasite information
 - [Awesome Pokemon](/content/tobiasbueschel/awesome-pokemon/README.md) - ([Source ⭐ 599, 📝 24&#x2F;11&#x2F;12 ](https://github.com/tobiasbueschel/awesome-pokemon)) - :video_game: A curated list of awesome Pokémon & Pokémon Go resources, tools and more.
@@ -1200,7 +1221,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.2K, 📝 03&#x2F;14 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 2.9K, 📝 02&#x2F;05 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 96K, 📝 05&#x2F;22 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 96K, 📝 05&#x2F;23 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.2K, 📝 24&#x2F;09&#x2F;12 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 12K, 📝 24&#x2F;10&#x2F;03 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 4.1K, 📝 04&#x2F;23 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
@@ -1229,7 +1250,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/README.md) - ([Source ⭐ 238, 📝 24&#x2F;10&#x2F;30 ](https://github.com/Esri/awesome-arcgis-developers)) - A curated list of resources to help you with ArcGIS development, APIs, SDKs, tools, and location services
 - [Awesome Arch](/content/PandaFoss/Awesome-Arch/README.md) - ([Source ⭐ 426, 📝 24&#x2F;09&#x2F;23 ](https://github.com/PandaFoss/Awesome-Arch)) - :sunglasses: A complete list of Arch-based projects
 - [Awesome Aws](/content/donnemartin/awesome-aws/README.md) - ([Source ⭐ 12K, 📝 23&#x2F;05&#x2F;29 ](https://github.com/donnemartin/awesome-aws)) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
-- [Awesome Capacitor](/content/riderx/awesome-capacitor/README.md) - ([Source ⭐ 535, 📝 05&#x2F;21 ](https://github.com/riderx/awesome-capacitor)) - 😎 Awesome lists of capacitor plugins.
+- [Awesome Capacitor](/content/riderx/awesome-capacitor/README.md) - ([Source ⭐ 535, 📝 05&#x2F;23 ](https://github.com/riderx/awesome-capacitor)) - 😎 Awesome lists of capacitor plugins.
 - [Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md) - ([Source ⭐ 99, 📝 24&#x2F;07&#x2F;29 ](https://github.com/capawesome-team/awesome-capacitorjs)) - ⚡️ A curated list of awesome things related to Capacitor.
 - [Awesome Cloudflare](/content/irazasyed/awesome-cloudflare/README.md) - ([Source ⭐ 404, 📝 23&#x2F;05&#x2F;26 ](https://github.com/irazasyed/awesome-cloudflare)) - ⛅️ Curated list of awesome Cloudflare worker recipes, open-source projects, guides, blogs and other resources.
 - [Awesome Cordova](/content/busterc/awesome-cordova/README.md) - ([Source ⭐ 283, 📝 19&#x2F;10&#x2F;25 ](https://github.com/busterc/awesome-cordova)) - :iphone: A curated list of amazingly awesome Cordova libraries, resources and shiny things.
