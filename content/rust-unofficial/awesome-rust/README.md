@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [May 24, 2025](/content/2025/05/24/README.md)
+
+### Applications / Embedded
+
+*   [uefi-rs (⭐1.4k)](https://github.com/rust-osdev/uefi-rs) - Rusty wrapper for the Unified Extensible Firmware Interface. This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionality.
+
 ## [May 20, 2025](/content/2025/05/20/README.md)
 
 ### Applications / Database

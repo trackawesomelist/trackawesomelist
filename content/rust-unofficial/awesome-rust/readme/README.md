@@ -284,6 +284,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 ### Embedded
 
 *   [rmk (⭐1.1k)](https://github.com/haobogu/rmk) - A feature-rich keyboard firmware.
+*   [uefi-rs (⭐1.4k)](https://github.com/rust-osdev/uefi-rs) - Rusty wrapper for the Unified Extensible Firmware Interface. This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionality.
 
 ### Emulators
 
