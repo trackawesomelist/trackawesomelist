@@ -6,6 +6,32 @@
 
 [ [Daily](/content/agarrharr/awesome-macos-screensavers/README.md) / Weekly / [Overview](/content/agarrharr/awesome-macos-screensavers/readme/README.md) ]
 
+## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
+
+### Apple Inspired
+
+### Digital Electric
+
+> A vintage screensaver inspired by old-fashioned alarm clocks.
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/digital-electric-screensaver.png)](https://quismi.com/digital-electric)
+
+## [Jun 02 - Jun 08, 2025](/content/2025/22/README.md)
+
+### MusaicFM
+
+### Start Now
+
+> Draw inspiration from great minds every time you wake up your Mac
+
+[![](https://github.com/Ventuss-OvO/start-now-saver/raw/main/Resources/Now.png)](https://github.com/Ventuss-OvO/start-now-saver)
+
+> A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
+
+Free
+
 ## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
 
 ### Retro
@@ -30,7 +56,7 @@ Free (Open Source)
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
-### Apple Inspired
+### Clocks
 
 ### Flip Clock Screensaver
 
@@ -157,19 +183,13 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
 
-### MusaicFM
+### Apple Inspired
 
 ### Brooklyn
 
 > A screensaver inspired by Apple's Event on October 30, 2018
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
-
-Free
-
-> A screensaver inspired by the iTunes Artwork Screensaver for Spotify and Last.fm.
-
-[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
 
 Free
 

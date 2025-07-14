@@ -6,6 +6,16 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ [Daily](/content/flame-engine/awesome-flame/README.md) / Weekly / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
+
+### App Releases / Casual
+
+*   CircleCapture [Android](https://play.google.com/store/apps/details?id=com.marioiannotta.cc) [iOS](https://apps.apple.com/us/app/circlecapture/id6747576924) - Tap and drag to draw circles that capture floating particles. By [MarioIannotta](http://github.com/marioIannotta/)
+
+### App Releases / Puzzle Games
+
+*   [Mine Cart Operator](https://cherrybit.itch.io/mine-cart-operator) - Mine cart operator is dekstop puzzle game for Windows, Mac and Linux. By [CherryBit Studios](https://cherrybit.studio/)
+
 ## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
 
 ### App Releases / Role Playing
@@ -80,7 +90,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Plugins & Libraries
 
-*   [First-Party Plugins (⭐9.9k)](https://github.com/flame-engine/flame/tree/main/packages) - First-party plugins included in Flame's monorepo.
+*   [First-Party Plugins (⭐10k)](https://github.com/flame-engine/flame/tree/main/packages) - First-party plugins included in Flame's monorepo.
 
 ### App Releases / Casual
 
@@ -210,13 +220,13 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Plugins & Libraries
 
-*   [leap (⭐48)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
+*   [leap (⭐49)](https://github.com/kurtome/leap) - An opinionated toolkit for creating 2D platformers. By [kurtome](https://github.com/kurtome)
 
 ## [Aug 15 - Aug 21, 2022](/content/2022/33/README.md)
 
 ### Open Source / Casual
 
-*   [New Super Jumper (⭐163)](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode](https://www.yayocode.com "YayoCode").
+*   [New Super Jumper (⭐165)](https://github.com/Yayo-Arellano/flutter_games_compilation/tree/main/new_super_jumper) - A doodle jump clone made with Flame and Forge2D. By [Yayocode](https://www.yayocode.com "YayoCode").
 
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
@@ -234,15 +244,15 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Casual
 
-*   [Spacescape (⭐123)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Spacescape (⭐126)](https://github.com/ufrshubham/spacescape) - A 2D top-down space shooter made using Flutter and Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.spacescape). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Endless Runner
 
-*   [Dino Run (⭐240)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Dino Run (⭐245)](https://github.com/ufrshubham/dino_run) - A 2D infinite side scroller mobile game made in Flutter using Flame engine. Get it on [Play Store](https://play.google.com/store/apps/details?id=com.nobs.dino_run). By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ### Open Source / Platformer
 
-*   [Simple Platformer (⭐57)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://www.youtube.com/devkage "DevKage").
+*   [Simple Platformer (⭐58)](https://github.com/ufrshubham/flame_simple_platformer) - A 2D platformer made using Flame engine. By [DevKage](https://www.youtube.com/devkage "DevKage").
 
 ## [Nov 29 - Dec 05, 2021](/content/2021/48/README.md)
 
@@ -258,7 +268,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### App Releases / Online Multiplayer
 
-*   Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub (⭐109)](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
+*   Penguin Chat - [Android](https://play.google.com/store/apps/details?id=com.sanjeev.penguin_chat_game), [GitHub (⭐112)](https://github.com/Shadow60539/club_penguin_game) - Players use cartoon penguin avatars and chat in a virtual world without losing their real-time position. By [Sanjeev Madhav](https://sanjeevmadhav.com)
 
 ## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
 
@@ -274,7 +284,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Platformer
 
-*   [Flutters (⭐241)](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
+*   [Flutters (⭐243)](https://github.com/ecklf/flutters) - A mixture of Flappy Bird and Doodle Jump. By [ecklf](https://github.com/ecklf)
 
 ## [Mar 22 - Mar 28, 2021](/content/2021/12/README.md)
 
@@ -324,17 +334,17 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Examples
 
-*   [Maze generator (⭐18)](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
+*   [Maze generator (⭐19)](https://github.com/Dannark/FlameExamples) - List of algorithm examples to solve problems like Maze generation and more. By [Dannark](https://github.com/Dannark/)
 
 ### Plugins & Libraries
 
-*   [flame\_texturepacker (⭐23)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
+*   [flame\_texturepacker (⭐24)](https://github.com/Brixto/flame_texturepacker) - Import spritesheets from TexturePacker. By [Brixto](https://github.com/Brixto)
 
 ## [Jul 20 - Jul 26, 2020](/content/2020/29/README.md)
 
 ### Open Source / Casual
 
-*   [Ant Squash (⭐21)](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
+*   [Ant Squash (⭐22)](https://github.com/sourabhgupta811/Ant-Squash) - A simple casual bug squashing game that you can play with one finger. Tap to kill, stop ants from eating the sweet! By [Sourabh Gupta](https://www.linkedin.com/in/sourabhgupta811/)
 
 ### Non-English Content / Simulation
 
@@ -344,7 +354,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Casual
 
-*   [Ghost Rigger (⭐250)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
+*   [Ghost Rigger (⭐253)](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - A cyberpunk inspired puzzle game, build for Flutter Hackathon Hack20. By [b099l3](https://github.com/b099l3) and [ernestoyaquello](https://github.com/ernestoyaquello)
 
 ## [Jun 01 - Jun 07, 2020](/content/2020/22/README.md)
 
@@ -355,7 +365,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / Casual
 
-*   [Snaake! (⭐81)](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
+*   [Snaake! (⭐82)](https://github.com/lucasnlm/snaake-flutter) - A simple casual snake game. By [lucasnlm](https://github.com/lucasnlm)
 
 ## [Apr 27 - May 03, 2020](/content/2020/17/README.md)
 
@@ -379,7 +389,7 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ### Open Source / RPG
 
-*   [Darkness Dungeon (⭐424)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
+*   [Darkness Dungeon (⭐432)](https://github.com/RafaelBarbosatec/darkness_dungeon) - Simple RPG. By [rafaelbarbosatec](http://rafaelbarbosatec.github.io/)
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 

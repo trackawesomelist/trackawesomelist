@@ -2,7 +2,7 @@
 
 A curated list of awesome marketing tools and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 83 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 151 · 🏷️ Miscellaneous
 
 [ [Daily](/content/marketingtoolslist/awesome-marketing/README.md) / [Weekly](/content/marketingtoolslist/awesome-marketing/week/README.md) / Overview ]
 
@@ -12,7 +12,9 @@ A curated list of awesome marketing tools and resources
 
 A curated list of awesome marketing tools, books, blogs, podcasts, and resources for marketers, business professionals, and anyone interested in the art and science of marketing. Whether you're focused on digital marketing, content marketing, or searching for specific insights, this list aims to provide valuable resources across a wide spectrum of marketing disciplines.
 
-by **[Marketing Tools List](https://marketingtoolslist.com)**
+*This repo is sponsored by* **[Marketinguys](https://marketinguys.com)**: Marketinguys helps you find a marketer for your projects.
+
+This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ## Table of Contents
 
@@ -132,6 +134,7 @@ by **[Marketing Tools List](https://marketingtoolslist.com)**
 *   [Ahrefs](https://ahrefs.com/analytics) - [Review](https://marketingtoolslist.com/ahrefs) - Analytics toolset that provides insights into website performance, traffic, and keyword rankings.
 *   [SpyFu](https://www.spyfu.com) - [Review](https://marketingtoolslist.com/spyfu) - SEO and PPC competitor research tool for discovering every keyword a competitor has bought on Google Ads.
 *   [SimilarWeb](https://www.similarweb.com) - [Review](https://marketingtoolslist.com/similarweb) - Web analytics platform providing insights on website traffic, ranking, and more.
+*   [OnRanko](https://onranko.com/) - [Review](https://onranko.com/premium?agent=advanced-seo-strategy-generator) Harness AI-driven agents to supercharge your SEO, boost rankings, and maximize visibility.
 
 ## Social Media Marketing
 
@@ -142,6 +145,7 @@ by **[Marketing Tools List](https://marketingtoolslist.com)**
 *   [Sprout Social](https://sproutsocial.com) - Review - Social media management solution with powerful analytics, engagement, and scheduling tools.
 *   [Later](https://later.com) - Review - Visual content calendar for planning and scheduling Instagram, Facebook, Twitter, and Pinterest posts.
 *   [SocialBee](https://socialbee.io) - Review - Social media management platform that allows for content scheduling, recycling, and curation.
+*   [ReplyZen](https://www.replyzen.ai) - Review - AI tool that automates social media comment management for Facebook and Instagram, auto replying and moderating comments.
 
 ### Social Media Advertising
 
@@ -168,6 +172,7 @@ by **[Marketing Tools List](https://marketingtoolslist.com)**
 *   [Animoto](https://animoto.com) - Review - Video creation platform that enables you to produce professional-quality videos with ease.
 *   [Piktochart](https://piktochart.com) - Review - Infographic maker and presentation tool to create visually appealing content.
 *   [Adobe Spark](https://spark.adobe.com) - Review - Suite of design apps for creating social graphics, web pages, and videos.
+*   [Tellers.AI](https://tellers.ai) - Review - Turn your scripts, articles and podcasts into videos based on your own footage.
 
 ### Content Management Systems (CMS)
 
@@ -304,6 +309,7 @@ by **[Marketing Tools List](https://marketingtoolslist.com)**
 *   [Unbounce](https://unbounce.com) - Review - Landing page builder with A/B testing features to help improve conversion rates.
 *   [Google Optimize](https://optimize.google.com) - Review - Free A/B testing and personalization tool by Google that integrates with Google Analytics.
 *   [Crazy Egg](https://www.crazyegg.com) - Review - Visual analytics and testing platform that includes heatmaps, click maps, and user recordings.
+*   [Optimal UX](https://optimalux.com) - Review - Seamless SEO patching and A/B testing tool powered by Cloudflare for effortless integration.
 
 ### Dashboards and Reporting
 
@@ -429,7 +435,7 @@ by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ## Online Resources and Courses
 
-*   **[Awesome AI Marketing (⭐17)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
+*   **[Awesome AI Marketing (⭐46)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
 *   **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 *   **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 *   **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)

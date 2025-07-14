@@ -2,15 +2,25 @@
 
 All things WebXR.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 238 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/msub2/awesome-webxr/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 msub2/awesome-webxr](https://github.com/msub2/awesome-webxr) · ⭐ 248 · 🏷️ Miscellaneous
 
 [ [Daily](/content/msub2/awesome-webxr/README.md) / Weekly / [Overview](/content/msub2/awesome-webxr/readme/README.md) ]
+
+## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
+
+### Development / Frameworks and Libraries
+
+*   [JSAR-DOM (⭐10)](https://github.com/m-creativelab/jsar-runtime) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
+
+### Development / Other
+
+*   [XR Fragments](https://codeberg.org/coderofsalvation/xrfragment) - A tiny specification for controlling any 3D model using URLs, based on existing metadata. Promoting hyperlinked WebXR storytelling using all 3D editors and viewers.
 
 ## [Apr 07 - Apr 13, 2025](/content/2025/14/README.md)
 
 ### Standout Projects
 
-*   [NeoFables](https://neofables.com/) - Create your own worlds in the first dynamically AI generated VR storytelling experience. Nominated for "Game of the Year" and "Experience of the Year" at the 2024 Polys Immersive Awards. Also first GenAI VR experience featured by Meta.
+*   [NeoFables](https://neofables.com/) - A dynamically-generated VR storytelling experience utilizing GenAI. Nominated for "Game of the Year" and "Experience of the Year" at the 2024 Polys Immersive Awards and is the first GenAI VR experience featured by Meta.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
@@ -22,7 +32,7 @@ All things WebXR.
 
 ### Development / Engines
 
-*   [iR Engine (⭐50)](https://github.com/ir-engine/ir-engine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
+*   [iR Engine (⭐78)](https://github.com/ir-engine/ir-engine) - A full stack MMO engine built on three.js and bitECS with support for WebXR.
 
 ## [Jul 01 - Jul 07, 2024](/content/2024/27/README.md)
 
@@ -36,21 +46,11 @@ All things WebXR.
 
 *   [The Escape Artist](https://esc.art/) - An award-winning escape room game by Paradowski Creative set inside the mind of an artist, with an overarching narrative about the creative process.
 
-## [Jan 29 - Feb 04, 2024](/content/2024/5/README.md)
-
-### Development / Other
-
-*   [XR Fragments](https://xrfragment.org) - A tiny specification for controlling any 3D model using URLs, based on existing metadata. Promoting hyperlinked WebXR storytelling using all 3D editors and viewers.
-
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Development / Engines
 
 *   [Onirix Studio](https://www.onirix.com/) - A no-code editor for creating Web AR experiences in the browser. It emulates features of the WebXR if target device / browser is not compatible.
-
-### Development / Frameworks and Libraries
-
-*   [JSAR-DOM (⭐38)](https://github.com/M-CreativeLab/jsar-dom) A TypeScript re-implementation of WHATWG DOM, CSSOM and WebXR for XR applications built on top of Babylon.js.
 
 ## [Nov 13 - Nov 19, 2023](/content/2023/46/README.md)
 
@@ -168,14 +168,6 @@ All things WebXR.
 
 *   [Exokit Avatars (⭐74)](https://github.com/exokitxr/avatars) - A web-based avatar system that can load humanoid avatars in multiple different model formats and features arm+leg IK, facial animation via visemes, and more. The original repo is no longer maintained, but there is a more up-to-date fork available [here (⭐9)](https://github.com/msub2/avatars).
 
-### Companies and Cooperatives / Reddit
-
-*   [Immers Space](https://web.immers.space/) - A Distributed Cooperative Organization (DisCO) focused on enabling open and federated immersive web content.
-
-### Content Hubs / Reddit
-
-*   [Extended Collection](https://extendedcollection.com/) - A curated library of links to the Immersive Web maintained by [vrhermit](https://vrhermit.com/).
-
 ### YouTube / Realms
 
 *   [Sorskoot](https://youtube.com/sorskoot) - Tutorials and other WebXR related content.
@@ -197,24 +189,12 @@ All things WebXR.
 
 *   [Aircards](https://www.aircards.co/) - WebAR advertising/marketing agency.
 
-## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
-
-### Art
-
-*   [Obscura](https://obscura.world/) - Float around and explore a structure inspired by the architecture of Carlo Scarpa.
-
 ## [Nov 08 - Nov 14, 2021](/content/2021/45/README.md)
 
 ### Communities / Discord
 
 *   [Metaverse Makers Discord](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
 *   [Zesty Market Discord](https://discord.gg/7d7agTbmKf) - Official server for Zesty Market.
-
-## [Oct 18 - Oct 24, 2021](/content/2021/42/README.md)
-
-### Communities / Discord
-
-*   [XR Foundation Discord](https://discord.gg/Tb4MT4TTjH) - Official server for XR Foundation, responsible for XREngine and various other metaverse-related projects.
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
@@ -296,7 +276,6 @@ All things WebXR.
 
 ### Audio
 
-*   [beats](https://beats.gatunes.com/) - A semi-collaborative app with various rooms where anyone can create or modify an existing musical loop.
 *   [TRACK](https://demos.littleworkshop.fr/track) - A linear ride through an immersive audiovisual experience developed by [Little Workshop](https://www.littleworkshop.fr/).
 
 ### Avatars
@@ -317,13 +296,11 @@ All things WebXR.
 
 *   [Godot](https://godotengine.org/) - A cross-platform, open-source engine with WebXR support as of version 3.2.4.
     *   [Official Documentation](https://docs.godotengine.org/en/stable/classes/class_webxrinterface.html)
-*   [nunuStudio](https://www.nunustudio.org/) - A multiplatform, open-source engine built on three.js that can be used natively or in the browser.
-    *   [Official Documentation](https://www.nunustudio.org/docs/)
 *   [PlayCanvas](https://playcanvas.com/) - A browser-based WebGL engine with support for WebXR content, mobile browsers, collaborative editing, and more.
     *   [Official Documentation](https://developer.playcanvas.com/en/)
 *   [Unity](https://unity.com/) - A highly popular game engine with community packages that enable content to be exported for WebXR.
     *   [WebXR Export (⭐1.1k)](https://github.com/De-Panther/unity-webxr-export) - Exporter by [De-Panther](https://github.com/De-Panther/)
-    *   [SimpleWebXR (⭐591)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
+    *   [SimpleWebXR (⭐598)](https://github.com/Rufus31415/Simple-WebXR-Unity) - Exporter by [Rufus31415](https://github.com/Rufus31415)
 *   [Wonderland Engine](https://wonderlandengine.com/) - A development platform designed specifically for building WebXR applications.
     *   [Official Documentation](https://wonderlandengine.com/documentation/)
 
@@ -333,9 +310,9 @@ All things WebXR.
     *   [Official Documentation](https://aframe.io/docs/)
 *   [Babylon.js](https://www.babylonjs.com/) - A powerful and feature-rich rendering engine packaged into a JavaScript framework.
     *   [Official Documentation](https://doc.babylonjs.com/)
-*   [JanusWeb (⭐186)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
+*   [JanusWeb (⭐193)](https://github.com/jbaicoianu/janusweb) - An in-browser implementation of JanusVR that lets you build social VR experiences.
 *   [p5.xr](https://p5xr.org/) - An add-on for the library p5.js that allows you to create immersive p5 sketches.
-*   [react-three-fiber (⭐29k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐2.4k)](https://github.com/pmndrs/react-xr) as well.
+*   [react-three-fiber (⭐29k)](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR (⭐2.5k)](https://github.com/pmndrs/react-xr) as well.
 *   [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
     *   [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 
@@ -356,7 +333,6 @@ All things WebXR.
 
 ### Web3XR / Galleries
 
-*   [3XR](https://www.3xr.space/) - A project by [microchipgnu](https://github.com/microchipgnu) that has integrated with Mintbase to create virtual galleries for NFT artwork on NEAR.
 *   [glry.xyz](https://glry.xyz/) - A site that hosts virtual galleries for NFT art on the Tezos blockchain.
 
 ### Web3XR / Realms

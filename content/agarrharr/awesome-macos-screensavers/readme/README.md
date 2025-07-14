@@ -12,7 +12,7 @@
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome (⭐345k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐365k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -135,6 +135,12 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/FlipClockScreensaver.jpg)](https://www.smart-app.dev/downloads/downloads.html)
 
+### Digital Electric
+
+> A vintage screensaver inspired by old-fashioned alarm clocks.
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/digital-electric-screensaver.png)](https://quismi.com/digital-electric)
+
 ## Apple Inspired
 
 ### Aerial
@@ -156,6 +162,12 @@ Free
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
 
 Free
+
+### Start Now
+
+> Draw inspiration from great minds every time you wake up your Mac
+
+[![](https://github.com/Ventuss-OvO/start-now-saver/raw/main/Resources/Now.png)](https://github.com/Ventuss-OvO/start-now-saver)
 
 ## MusaicFM
 

@@ -2,9 +2,15 @@
 
 A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/adafruit/awesome-circuitpython/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) · ⭐ 665 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/adafruit/awesome-circuitpython/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) · ⭐ 681 · 🏷️ Programming Languages
 
 [ [Daily](/content/adafruit/awesome-circuitpython/README.md) / Weekly / [Overview](/content/adafruit/awesome-circuitpython/readme/README.md) ]
+
+## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
+
+### Art / Educational
+
+*   [Python Cheat Sheet](https://scouv.lisn.upsaclay.fr/python-memento/memento-python3-en-latest.pdf) - An up to date, consise reference for Python (regular Python or CPython) syntax
 
 ## [Apr 28 - May 04, 2025](/content/2025/17/README.md)
 
@@ -22,8 +28,8 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 ### Frameworks / Educational
 
 *   [code.circuitpython.org - the online CircuitPython code editor](https://code.circuitpython.org/) - edit code and download to your device via WiFi, Bluetooth or USB.
-*   [Using Microsoft VSCode for CircuitPython (⭐27)](https://github.com/wmerkens/vscode-circuitpython) (GitHub) and [Microsoft Marketplace](https://marketplace.visualstudio.com/items?itemName=wmerkens.vscode-circuitpython-v2).
-*   [Microsoft Device Simulator Express (⭐174)](https://github.com/microsoft/vscode-python-devicesimulator) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code (no longer maintained).
+*   [Using Microsoft VSCode for CircuitPython (⭐31)](https://github.com/wmerkens/vscode-circuitpython) (GitHub) and [Microsoft Marketplace](https://marketplace.visualstudio.com/items?itemName=wmerkens.vscode-circuitpython-v2).
+*   [Microsoft Device Simulator Express (⭐177)](https://github.com/microsoft/vscode-python-devicesimulator) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code (no longer maintained).
 
 ## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
 
@@ -42,7 +48,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 ### Code / Educational
 
-*   [Tod Kurt's CircuitPython `synthio` Tips and Tricks (⭐76)](https://github.com/todbot/circuitpython-synthio-tricks) - More tips and tricks from Tod Kurt about CircuitPython's `synthio` library.
+*   [Tod Kurt's CircuitPython `synthio` Tips and Tricks (⭐83)](https://github.com/todbot/circuitpython-synthio-tricks) - More tips and tricks from Tod Kurt about CircuitPython's `synthio` library.
 
 ### Podcasts / Educational
 
@@ -101,7 +107,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 ### Code / Educational
 
-*   [Tod Kurt's CircuitPython Tips and Tricks (⭐680)](https://github.com/todbot/circuitpython-tricks) - A collection of tips and tricks for CircuitPython. Also available as an Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
+*   [Tod Kurt's CircuitPython Tips and Tricks (⭐698)](https://github.com/todbot/circuitpython-tricks) - A collection of tips and tricks for CircuitPython. Also available as an Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
 
 ### Frameworks / Educational
 
@@ -124,7 +130,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 ### Code / Educational
 
 *   CircuitPython Board Software Versions: Select per board at [CircuitPython.org](https://circuitpython.org/downloads).
-*   [Awesome List for the RP2040 Macropad (⭐287)](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
+*   [Awesome List for the RP2040 Macropad (⭐302)](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
 
 ### Hardware / Educational
 
@@ -158,7 +164,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 ### Code / Educational
 
 *   [CircuitPython API Reference](https://circuitpython.readthedocs.io/en/latest/README.html) - A list of functions and documentation available for CircuitPython.
-*   [CircuitPython Community Libraries (⭐180)](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/main/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
+*   [CircuitPython Community Libraries (⭐186)](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/main/circuitpython_community_library_list.md) - CircuitPython Community Libraries. There are over 45+ libraries available.
 
 ### News / Educational
 
@@ -199,7 +205,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 ### Contributing / Contribution Workflow Overview
 
-*   Fork [this repository (⭐667)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
+*   Fork [this repository (⭐681)](https://github.com/adafruit/awesome-circuitpython) on GitHub.
 *   Merge adafruit or main.
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
@@ -344,7 +350,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 ### Code / Educational
 
-*   [Adafruit CircuitPython Libraries (⭐927)](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 150+ libraries available. More on Libraries on [CircuitPython.org](https://circuitpython.org/libraries).
+*   [Adafruit CircuitPython Libraries (⭐939)](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md) - Current Adafruit CircuitPython Libraries. There are over 150+ libraries available. More on Libraries on [CircuitPython.org](https://circuitpython.org/libraries).
 
 ### Frameworks / Educational
 
@@ -412,7 +418,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 ### Code / Educational
 
-*   [CircuitPython GitHub Repository (⭐4.2k)](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
+*   [CircuitPython GitHub Repository (⭐4.3k)](https://github.com/adafruit/circuitpython) - The source code for CircuitPython on GitHub.
 
 ### Frameworks / Educational
 
@@ -420,7 +426,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 ### Newsletter / Educational
 
-*   [Contribute to newsletter (⭐67)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
+*   [Contribute to newsletter (⭐68)](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
 
 ### News / Educational
 

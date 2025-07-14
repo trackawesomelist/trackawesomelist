@@ -2,9 +2,23 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 248 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 268 · 🏷️ Health and Social Science
 
 [ Daily / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / [Overview](/content/maehr/awesome-digital-history/readme/README.md) ]
+
+## [Jul 14, 2025](/content/2025/07/14/README.md)
+
+### Archives and primary sources / Europe
+
+*   [EuroDocs – Online Sources for European History](https://eudocs.lib.byu.edu/index.php/Main_Page) - A curated directory of online primary sources for European history, organized by country and period, with many items hosted by reputable institutions and using Dublin Core metadata.
+
+### Archives and primary sources / Global
+
+*   [Atlas of Mutual Heritage](https://www.atlasofmutualheritage.nl/) - Database with sources relating to VOC (Dutch East India Company) and WIC (Dutch West India Company).
+
+### Archives and primary sources / Netherlands
+
+*   [Topotijdreis](https://www.topotijdreis.nl/) - Browse and compare Dutch topographic maps (1815 until today).
 
 ## [Mar 14, 2025](/content/2025/03/14/README.md)
 
@@ -343,9 +357,9 @@ Find primary sources online and learn how to research history digitally.
 ### More Awesome / Switzerland
 
 *   [Computer History (⭐2.8k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐3.9k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+*   [Data Visualization (⭐4k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Research Tools (⭐2.3k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐788)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐822)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
 

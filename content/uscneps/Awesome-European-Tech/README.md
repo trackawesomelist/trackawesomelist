@@ -2,9 +2,40 @@
 
 An up-to-date, community-driven list of awesome European tech alternatives! All focused on privacy, sustainability, and innovation. The goal is to support European projects and companies compliant with GDPR, UK GDPR, and the Swiss FADP.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uscneps/Awesome-European-Tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uscneps/Awesome-European-Tech](https://github.com/uscneps/Awesome-European-Tech) · ⭐ 1.1K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/uscneps/Awesome-European-Tech/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uscneps/Awesome-European-Tech](https://github.com/uscne/Awesome-European-Tech) · ⭐ 1.1K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
+
+## [Jul 14, 2025](/content/2025/07/14/README.md)
+
+### Index / Authenticators
+
+*   [Aegis Authenticator](https://getaegis.app/) 🇳🇱 - Free, secure, and open-source MFA authenticator for Android.
+
+### Index / Cloud
+
+*   [Thalassa Cloud](https://thalassa.cloud/services/european-cloud/) 🇳🇱 - Cloud Services focussed around Kubernetes and Cloud Native.
+
+### Index / Cybersecurity
+
+*   [Vysion](https://byronlabs.io/vysion) 🇪🇸 - Cyber threat intelligence platform that monitors darknets and cybercrime forums to provide real-time insights into emerging threats, including ransomware activities.
+
+### Index / DNS
+
+*   [DNS4EU](https://www.joindns4.eu) 🇪🇺 - Supported by the European Commission.
+*   [Nanelo](https://nanelo.com/) 🇩🇪 - Operates a European cluster of DNS nameservers.
+
+### Index / File Sharing
+
+*   [NordLocker](https://nordlocker.com/) 🇱🇹 - Encrypted file storage and end-to-end encrypted file transfers.
+
+### Index / Mail Providers
+
+*   [Lettermint](https://lettermint.co/) 🇳🇱 - Dutch transactional email service focused on privacy, deliverability, and developer experience.
+
+### Index / Password manager services
+
+*   [NordPass](https://nordpass.com/) 🇱🇹
 
 ## [May 13, 2025](/content/2025/05/13/README.md)
 
@@ -371,7 +402,7 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 ### Index / Cloud
 
-*   [copyparty (⭐1.2k)](https://github.com/9001/copyparty) 🇳🇴 - Self-hosted file-sharing and file-transfer server.
+*   [copyparty (⭐1.3k)](https://github.com/9001/copyparty) 🇳🇴 - Self-hosted file-sharing and file-transfer server.
 
 ### Index / Communication Tools
 
@@ -739,7 +770,6 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 *   [AlphaVPS](https://www.alphavps.com) 🇧🇬
 *   [Aruba Cloud](https://www.arubacloud.com) 🇮🇹
 *   [cloudscale](https://www.cloudscale.ch) 🇨🇭
-*   [Contabo](https://www.contabo.com) 🇩🇪
 *   [Hetzner](https://www.hetzner.com) 🇩🇪
 *   [netcup](https://www.netcup.eu) 🇩🇪
 *   [Tilaa](https://www.tilaa.com) 🇳🇱

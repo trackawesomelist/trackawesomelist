@@ -2,7 +2,7 @@
 
 Explore a curated selection of AI tools and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 113 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 118 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/ai-collective-tools/README.md) / [Weekly](/content/Hyraze/ai-collective-tools/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@ Explore a curated selection of AI tools and resources
 
 > Explore a curated selection of AI tools and resources.
 
-We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐113)](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐113)](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
+We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of tools that developers, researchers, and enthusiasts can access, and collaborate on.You can help by sending [Pull Requests (⭐118)](https://github.com/Hyraze/ai-collective-tools/pulls) to add more services and make sure to review our [Contribution Guidelines (⭐118)](https://github.com/Hyraze/ai-collective-tools/blob/main/CONTRIBUTING.md) for detailed information on how to get started.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/Hyraze/ai-collective-tools)
@@ -194,6 +194,7 @@ Use these hashtags in search to filter out the tools
 *   [Copilot](https://github.com/features/copilot) - AI assistant that speeds up delivery and keeps your code safe `#paid`
 *   [Cursor.sh](https://cursor.sh) - This tool uses GPT-4 to help you code that increases productivity `#freemium`
 *   [Devassistant.ai](https://devassistant.ai/) - Your AI Co-Programmer for Efficient Development `#paid`
+*   [Keploy](https://keploy.io/) - AI-powered automation API and Unit testing, latest UTG pr agent generates unit tests after each pr. `#free`
 *   [Lintrule](https://www.lintrule.com/) - Supercharge Code Reviews and Policy Enforcement `#paid`
 *   [Safurai](https://www.safurai.com/) - The AI Code Assistant that really helps developers. `#free`
 *   [Sizzle AI](https://web.szl.ai/) - Sizzle isn't just any app It's your personalized AI-powered tutor with the mission to make learning amazing for all.Search any Maths, coding Problems with Sizzle. `#free`
@@ -232,6 +233,8 @@ Use these hashtags in search to filter out the tools
 
 ## Dating
 
+*   [EveningHoney.ai](https://www.eveninghoney.ai/) - Experience immersive relationships with AI girlfriends and virtual companions. Chat, receive images & videos, make phone calls, and dive into realistic relationships. `#freemium`
+*   [Fantasy.ai](https://fantasy.ai/) - Fantasy.ai is an AI companion platform offering human-like NSFW chat, Realistic image generation, and fully customizable virtual partners. `#freemium`
 *   [FantasyGF.ai](https://fantasygf.ai/) - (N)SFW Chat with AI Girlfriends. Create your own AI Girlfriend, chat with her, ask her for pictures, or listen to her voice. Most advanced AI Girlfriend builder and chatting model. Chat with AI versions of OnlyFans Girls. `#freemium`
 *   [Candy.ai](https://candy.ai/discover) - Your dream companion awaits! Create your Virtual Girlfriend, shape her personality and bring her to life in one click. 100% powered by Artificial Intelligence. `#freemium`
 *   [DatePlanner.ai](https://dateplanner.ai/) - Online dating is competitive. Stand out with thoughtful date ideas and interesting conversation topics. `#paid`
@@ -272,7 +275,7 @@ Use these hashtags in search to filter out the tools
 *   [Bubble](https://bubble.io/) - Bubble is a no-code platform that allows users to build web applications with ease, integrating AI functionalities like chatbots and content generation. `#freemium`
 *   [Glide](https://www.glideapps.com/) - no-code platform that allows users to create AI-powered applications quickly and easily using their business data, with customer support chatbots. `#freemium`
 *   [Mintlify](https://mintlify.com/) - Mintlify: Streamline code documentation with one-click automation for developers, enhancing code clarity and saving time. `#freemium`
-*   [Floom (⭐41)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
+*   [Floom (⭐43)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -411,6 +414,7 @@ Use these hashtags in search to filter out the tools
 *   [Text2present](https://text2present.com/) - Text2present.com is an AI-powered tool that enables users to effortlessly create customized presents for their friends, family, and acquaintances. `#free`
 *   [Write-a-card](https://write-a-card.co/) - Content generation for greeting cards. `#paid`
 *   [Your GiftWhisperer](https://yourgiftwhisperer.com/) - Discover the perfect personlized Gift! `#free`
+*   [BestBuyClues](https://bestbuyclues.com/) - Your AI Gift Ideas Generator `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
@@ -439,6 +443,7 @@ Use these hashtags in search to filter out the tools
 
 ## Image Editing
 
+*   [Img.Upscaler](https://imgupscaler.com/) - Img.Upscaler uses AI to enlarge your jpg, png, webp images by 200% or 400% without losing quality. `#freemium`
 *   [AIPhotoeditor](https://photoeditor.ai/) - AIPhotoeditor is a free photo editor that allows users to remove unwanted objects, people, blemishes, or text from their images in seconds. `#free`
 *   [Image Candy](https://imgcandy.com/) - Online Image Editor - Image Candy `#free`
 *   [Photostockeditor](https://photostockeditor.com/tools/socialmedia-resize) - Intelligence Image Crop/Resize: Perfectly Tailored Social Media Images `#free`
@@ -517,7 +522,7 @@ Use these hashtags in search to filter out the tools
 *   [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
 *   [OpenAI API](https://openai.com/api/) - OpenAI's API provides access to GPT-3 and GPT-4 models, which performs a wide variety of natural language tasks, and Codex, which translates natural language to code. `#freemium`
 *   [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
-*   [Qwen (⭐17k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐19k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 *   [Vicuna-13B](https://lmsys.org/blog/2023-03-30-vicuna/) - An open-source chatbot trained by fine-tuning LLaMA on user-shared conversations collected from ShareGPT. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**

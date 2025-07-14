@@ -2,9 +2,15 @@
 
 Carefully curated list of awesome Jamstack resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/automata/awesome-jamstack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) · ⭐ 1.3K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/automata/awesome-jamstack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) · ⭐ 1.4K · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/automata/awesome-jamstack/week/README.md) / [Overview](/content/automata/awesome-jamstack/readme/README.md) ]
+
+## [Jun 25, 2025](/content/2025/06/25/README.md)
+
+### CMS
+
+*   [Hygraph](https://hygraph.com) - The GraphQL Headless CMS.
 
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
@@ -30,7 +36,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / E-commerce
 
-*   [Saleor](https://saleor.io/) - Saleor is [open-source (⭐21k)](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
+*   [Saleor](https://saleor.io/) - Saleor is [open-source (⭐22k)](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
 
 ## [Oct 06, 2023](/content/2023/10/06/README.md)
 
@@ -82,7 +88,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / E-commerce
 
-*   [Astro Snipcart (⭐109)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Astro Snipcart (⭐112)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 
 ## [Aug 07, 2022](/content/2022/08/07/README.md)
 
@@ -118,7 +124,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / Authentication
 
-*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐131k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐132k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 
 ## [Dec 31, 2021](/content/2021/12/31/README.md)
 
@@ -484,7 +490,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### API / Automation
 
-*   [DataFire (⭐582)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐581)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## [Mar 20, 2019](/content/2019/03/20/README.md)
 
@@ -561,7 +567,6 @@ Carefully curated list of awesome Jamstack resources
 *   [Contentful](https://contentful.com) - Content infrastructure for digital teams.
 *   [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
 *   [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses.
-*   [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS.
 *   [Prismic](https://prismic.io) - Headless API CMS for both developers and marketers.
 *   [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.
 *   [DatoCMS](https://datocms.com) - The API-based CMS your editors will love.

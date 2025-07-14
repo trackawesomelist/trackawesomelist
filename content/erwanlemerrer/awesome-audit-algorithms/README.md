@@ -2,9 +2,16 @@
 
 A curated list of algorithms and papers for auditing black-box algorithms.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/erwanlemerrer/awesome-audit-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 erwanlemerrer/awesome-audit-algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms) · ⭐ 99 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/erwanlemerrer/awesome-audit-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 erwanlemerrer/awesome-audit-algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms) · ⭐ 100 · 🏷️ Theory
 
 [ Daily / [Weekly](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md) / [Overview](/content/erwanlemerrer/awesome-audit-algorithms/readme/README.md) ]
+
+## [Jul 14, 2025](/content/2025/07/14/README.md)
+
+### Papers / 2025
+
+*   [P2NIA: Privacy-Preserving Non-Iterative Auditing](https://arxiv.org/abs/2504.00874) - (ECAI) *Proposes a mutually beneficial collaboration for both the auditor and the platform: a privacy-preserving and non-iterative audit scheme that enhances fairness assessments using synthetic or local data, avoiding the challenges associated with traditional API-based audits.*
+*   [The Fair Game: Auditing & debiasing AI algorithms overtime](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9E8408C67F7CE30505122DD1586D9FA2/S3033373325000080a.pdf/the-fair-game-auditing-and-debiasing-ai-algorithms-over-time.pdf) - (Cambridge Forum on AI: Law and Governance) *Aims to simulate the evolution of ethical and legal frameworks in the society by creating an auditor which sends feedback to a debiasing algorithm deployed around an ML system.*
 
 ## [May 16, 2025](/content/2025/05/16/README.md)
 
@@ -191,7 +198,7 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 ### Papers / 2022
 
-*   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐32)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
+*   [Scaling up search engine audits: Practical insights for algorithm auditing](https://journals.sagepub.com/doi/10.1177/01655515221093029) - (Journal of Information Science) [(Code) (⭐31)](https://github.com/gesiscss/WebBot) *Audits multiple search engines using simulated browsing behavior with virtual agents.*
 
 ## [Jan 23, 2023](/content/2023/01/23/README.md)
 
@@ -285,7 +292,7 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 
 *   [Adversarial Model Extraction on Graph Neural Networks](https://arxiv.org/abs/1912.07721) - (AAAI Workshop on Deep Learning on Graphs: Methodologies and Applications) *Introduces GNN model extraction and presents a preliminary approach for this.*
 *   [Remote Explainability faces the bouncer problem](https://rdcu.be/b6qB4) - (Nature Machine Intelligence volume 2, pages529–539)  [(Code) (⭐4)](https://github.com/erwanlemerrer/bouncer_problem) *Shows the impossibility (with one request) or the difficulty to spot lies on the explanations of a remote AI decision.*
-*   [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf) - (CVPR)  [(Code) (⭐33)](https://github.com/thisisalirah/GeoDA) *Crafts adversarial examples to fool models, in a pure blackbox setup (no gradients, inferred class only).*
+*   [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf) - (CVPR)  [(Code) (⭐34)](https://github.com/thisisalirah/GeoDA) *Crafts adversarial examples to fool models, in a pure blackbox setup (no gradients, inferred class only).*
 *   [The Imitation Game: Algorithm Selectionby Exploiting Black-Box Recommender (⭐2)](https://github.com/erwanlemerrer/erwanlemerrer.github.io/raw/master/files/imitation_blackbox_recommenders_netys-2020.pdf) - (Netys)  [(Code) (⭐1)](https://github.com/gdamaskinos/RecRank) *Parametrize a local recommendation algorithm by imitating the decision of a remote and better trained one.*
 *   [Auditing News Curation Systems:A Case Study Examining Algorithmic and Editorial Logic in Apple News](https://ojs.aaai.org/index.php/ICWSM/article/view/7277) - (ICWSM) *Audit study of Apple News as a sociotechnical news curation system (trending stories section).*
 *   [Auditing Algorithms:  On Lessons Learned and the Risks of DataMinimization](https://dl.acm.org/doi/pdf/10.1145/3375627.3375852) - (AIES) *A practical audit for a well-being recommendation app developed by Telefónica (mostly on bias).*
@@ -323,7 +330,7 @@ A curated list of algorithms and papers for auditing black-box algorithms.
 ### Papers / 2016
 
 *   [Bias in Online Freelance Marketplaces: Evidence from TaskRabbit](http://datworkshop.org/papers/dat16-final22.pdf) - (dat workshop) *Measures the TaskRabbit's search algorithm rank.*
-*   [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) - (Usenix Security)  [(Code) (⭐348)](https://github.com/ftramer/Steal-ML) *Aims at extracting machine learning models in use by remote services.*
+*   [Stealing Machine Learning Models via Prediction APIs](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/tramer) - (Usenix Security)  [(Code) (⭐350)](https://github.com/ftramer/Steal-ML) *Aims at extracting machine learning models in use by remote services.*
 *   [“Why Should I Trust You?”Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938v3.pdf) - (arXiv)  [(Code) (⭐318)](https://github.com/marcotcr/lime-experiments) *Explains a blackbox classifier model by sampling around data instances.*
 *   [Back in Black: Towards Formal, Black Box Analysis of Sanitizers and Filters](http://ieeexplore.ieee.org/document/7546497/) - (Security and Privacy) *Black-box analysis of sanitizers and filters.*
 *   [Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems](http://ieeexplore.ieee.org/document/7546525/) - (Security and Privacy) *Introduces measures that capture the degree of influence of inputs on outputs of the observed system.*

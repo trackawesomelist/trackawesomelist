@@ -95,8 +95,9 @@ Additional lists you might find useful:
 
 *Tools for managing, compressing and minifying website assets.*
 
-*   [AssetCompress plugin (⭐371)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
-*   [AssetMix plugin (⭐33)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
+*   [AssetCompress plugin (⭐372)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
+*   [AssetMix plugin (⭐34)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
+*   [ViteHelper plugin (⭐21)](https://github.com/brandcom/cakephp-vite) - Provides integration with [Vite](https://vite.dev/) asset compilation.
 
 ## Auditing / Logging
 
@@ -111,13 +112,13 @@ Additional lists you might find useful:
 
 *Plugins and libraries for implementing authentication and authorization.*
 
-*   [ADmad/SocialAuth plugin (⭐51)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐556)](https://github.com/SocialConnect/auth) social sign on library.
+*   [ADmad/SocialAuth plugin (⭐51)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐555)](https://github.com/SocialConnect/auth) social sign on library.
 *   [ApiTokenAuthenticator plugin (⭐3)](https://github.com/rrd108/api-token-authenticator) - A simple token authentication plugin for CakePHP REST APIs.
 *   [Authentication plugin (⭐115)](https://github.com/cakephp/authentication) - Official CakePHP authentication middleware plugin.
 *   [Authorization plugin (⭐75)](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
-*   [CakeDC/Users plugin (⭐524)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+*   [CakeDC/Users plugin (⭐525)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
 *   [TinyAuth plugin (⭐130)](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role-based (single/multi) authorization as very light-weight approach.
-*   [Tools:Passwordable (⭐335)](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior (⭐335)](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing.
+*   [Tools:Passwordable (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior (⭐336)](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing.
 *   [TwoFactorAuth plugin (⭐37)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐1.1k)](https://github.com/RobThree/TwoFactorAuth) library.
 
 ## Caching
@@ -125,7 +126,7 @@ Additional lists you might find useful:
 *Plugins for caching data.*
 
 *   [Cache plugin (⭐33)](https://github.com/dereuromark/cakephp-cache) - For caching views (HTML, CSV, JSON, XML, ...) as static cache files.
-*   [CakeDC/CachedRouting plugin (⭐4)](https://github.com/CakeDC/cakephp-cached-routing) - Provides a cached version of the RoutingMiddleware to improve the load time of routes.
+*   [CakeDC/CachedRouting plugin (⭐5)](https://github.com/CakeDC/cakephp-cached-routing) - Provides a cached version of the RoutingMiddleware to improve the load time of routes.
 
 ## Code Analysis
 
@@ -143,7 +144,7 @@ Additional lists you might find useful:
 
 *   [AssociationsDebugger plugin (⭐11)](https://github.com/zunnu/associations-debugger) - A plugin that draws your model associations as diagram.
 *   [CakephpWhoops plugin (⭐14)](https://github.com/dereuromark/cakephp-whoops) - PHP errors and exceptions for cool kids with [filp/whoops (⭐13k)](https://github.com/filp/whoops).
-*   [DebugKit plugin (⭐847)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
+*   [DebugKit plugin (⭐848)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 *   [Execution order (⭐21)](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
 *   [Sentry plugin (⭐11)](https://github.com/lordsimal/cakephp-sentry) A plugin to seamlessly integrate Sentry for errors and exceptions.
 *   [Setup plugin (⭐34)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
@@ -187,7 +188,7 @@ Additional lists you might find useful:
 
 *Plugins for manipulating images.*
 
-*   [ADmad/Glide plugin (⭐34)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
+*   [ADmad/Glide plugin (⭐35)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
 *   [QrCodePlugin (⭐9)](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
 
 ## Libs
@@ -225,11 +226,11 @@ Additional lists you might find useful:
 *   [Calendar plugin (⭐16)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 *   [Feedback plugin (⭐7)](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 *   [Flash plugin (⭐12)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
-*   [Inertia plugin (⭐10)](https://github.com/CakeDC/cakephp-inertia) - Plugin for connecting a Vue 3 app and use an API interface using a middleware.
-*   [OPCache Preloader (⭐11)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP applications.
+*   [Inertia plugin (⭐11)](https://github.com/CakeDC/cakephp-inertia) - Plugin for connecting a Vue 3 app and use an API interface using a middleware.
+*   [OPCache Preloader (⭐12)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP applications.
 *   [Setup:Maintenance (⭐34)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 *   [Shim plugin (⭐38)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
-*   [Tools plugin (⭐335)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
+*   [Tools plugin (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
 
 ## Navigation
 
@@ -280,7 +281,7 @@ Additional lists you might find useful:
 *   [CakeDC/Api plugin (⭐61)](https://github.com/CakeDC/cakephp-api) - All-in-one solution to provide a complete API. It includes versioning, renderers, CRUD, authentication, extensions (paginate, filter, HATEOAS), and much more.
 *   [FractalTransformerView plugin (⭐19)](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 *   [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
-*   [SwaggerBake plugin (⭐59)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
+*   [SwaggerBake plugin (⭐60)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
 
 ## Search
 
@@ -306,8 +307,8 @@ Additional lists you might find useful:
 
 *Search Engine Optimization.*
 
-*   [Muffin/Slug plugin (⭐35)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
-*   [Tools:Slugged (⭐335)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+*   [Muffin/Slug plugin (⭐36)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
+*   [Tools:Slugged (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
 ## Skeleton
 
@@ -329,12 +330,12 @@ Additional lists you might find useful:
 *Plugins for templating and lexing.*
 
 *   [Bake plugin (⭐111)](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   [BootstrapUI plugin (⭐345)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
+*   [BootstrapUI plugin (⭐347)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
 *   [CsvView plugin (⭐176)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 *   [Feed plugin (⭐13)](https://github.com/dereuromark/cakephp-feed) - Containing an RssView class to easily generate (complex) RSS feeds.
-*   [Meta plugin (⭐8)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
+*   [Meta plugin (⭐9)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
 *   [Templating (⭐2)](https://github.com/dereuromark/cakephp-templating) - HTML snippets as value objects, (Font) icons, and templating topics.
-*   [Tools:Tree (⭐335)](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
+*   [Tools:Tree (⭐336)](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
 *   [TwigView plugin (⭐14)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 *   [XlsView plugin (⭐0)](https://github.com/impronta48/cakephp-xlsview) - A view class to easily generate XLS using PHPSpreadsheet.
 
@@ -343,7 +344,7 @@ Additional lists you might find useful:
 *Plugins/Tools for testing codebases and generating test data.*
 
 *   [CakePHP CodeSniffer rules (⭐236)](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
-*   [CakephpFixtureFactories plugin (⭐84)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+*   [CakephpFixtureFactories plugin (⭐85)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
 *   [FriendsOfCake/Fixturize plugin (⭐24)](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
 
 ## Third Party APIs
@@ -381,7 +382,7 @@ IDE specific compatibility information and tips can be found [here (⭐186)](htt
 
 *Web-based (demo) applications and tools.*
 
-*   [BlogMVC (⭐8)](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project (⭐214)](https://github.com/Grafikart/BlogMVC).
+*   [BlogMVC (⭐8)](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project (⭐213)](https://github.com/Grafikart/BlogMVC).
 *   [Bookmarkr (⭐17)](https://github.com/lorenzo/cakephp3-bookmarkr) A bookmarking application built with the CRUD plugin.
 *   [Fluentd + Grafana Loki demo application (⭐1)](https://github.com/ishanvyas22/cakephp-loki-demo) - A demo application to send CakePHP docker container logs to [Grafana Loki](https://grafana.com/logs/) via [Fluentd](https://www.fluentd.org/).
 *   [RealWorld (⭐104)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐82k)](https://github.com/gothinkster/realworld-example-apps) spec and API.

@@ -2,9 +2,15 @@
 
 A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 80 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/ConstructCommunity/awesome-construct/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 ConstructCommunity/awesome-construct](https://github.com/ConstructCommunity/awesome-construct) · ⭐ 83 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/ConstructCommunity/awesome-construct/week/README.md) / [Overview](/content/ConstructCommunity/awesome-construct/readme/README.md) ]
+
+## [Jul 14, 2025](/content/2025/07/14/README.md)
+
+### Construct 2
+
+*   [Fresh NW (⭐1)](https://github.com/kckarnige/FreshNWjsForC2) - Easily setup exporting for the latest versions of NW\.js, replacing the outdated "NW\.js for Construct 2" installer.
 
 ## [May 13, 2025](/content/2025/05/13/README.md)
 
@@ -13,12 +19,6 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 *   [website Reinarte](https://reinarte.com.br/) - Plugins, Behaviors and examples.
 *   [Array Editor for C2](https://curious-pixie-60ff1a.netlify.app/) - A tool to edit arrays in Construct 2.
 *   [Sprite Font Generator - v3](https://www.construct.net/en/forum/game-development/tools-and-resources-27/sprite-font-generator-v3-64038) - Tool to generate sprite fonts for Construct.
-
-## [Mar 31, 2025](/content/2025/03/31/README.md)
-
-### Construct 2
-
-*   [Neo NW (⭐1)](https://github.com/kckarnige/NeoNWjsForC2) - Easily setup exporting for the latest version of NW\.js, replacing the outdated "NW\.js for Construct 2" installer.
 
 ## [Mar 10, 2025](/content/2025/03/10/README.md)
 
@@ -47,7 +47,7 @@ A curated list of tools, tutorials, examples, and much more, for the awesome gam
 *   [Pipelab](https://pipelab.app/) - Fully automated export pipeline.
 *   [piranha305's Addons](https://itch.io/c/5333183/construct-addons) - Plugins and Behaviors.
 *   [Master Pose's Addons](https://itch.io/c/2390490/asset-store-) - Plugins, Behaviors and Themes.
-*   [Construct Addon SDK (⭐15)](https://github.com/Scirra/Construct-Addon-SDK) - Scirra's official SDK to develop plugins.
+*   [Construct Addon SDK (⭐17)](https://github.com/Scirra/Construct-Addon-SDK) - Scirra's official SDK to develop plugins.
 *   [C3IDE2-cli (⭐0)](https://github.com/ConstructFund/c3ide2-cli) - C3IDE succesor framework.
 *   [Lost Framework (⭐7)](https://github.com/lostinmind-dev/lost-c3) - Easy making of addons.
 *   [AJ Ordaz](https://www.youtube.com/@AJOrdaz) - Successful Construct developer shares his experiences.

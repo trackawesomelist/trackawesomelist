@@ -6,6 +6,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ [Daily](/content/FriendsOfCake/awesome-cakephp/README.md) / Weekly / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
+
+### Asset Management
+
+*   [ViteHelper plugin (⭐21)](https://github.com/brandcom/cakephp-vite) - Provides integration with [Vite](https://vite.dev/) asset compilation.
+
 ## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
 
 ### Filtering and Validation
@@ -23,7 +29,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Miscellaneous
 
-*   [Inertia plugin (⭐10)](https://github.com/CakeDC/cakephp-inertia) - Plugin for connecting a Vue 3 app and use an API interface using a middleware.
+*   [Inertia plugin (⭐11)](https://github.com/CakeDC/cakephp-inertia) - Plugin for connecting a Vue 3 app and use an API interface using a middleware.
 
 ## [Jan 13 - Jan 19, 2025](/content/2025/2/README.md)
 
@@ -83,7 +89,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Caching
 
-*   [CakeDC/CachedRouting plugin (⭐4)](https://github.com/CakeDC/cakephp-cached-routing) - Provides a cached version of the RoutingMiddleware to improve the load time of routes.
+*   [CakeDC/CachedRouting plugin (⭐5)](https://github.com/CakeDC/cakephp-cached-routing) - Provides a cached version of the RoutingMiddleware to improve the load time of routes.
 
 ### Code Analysis
 
@@ -110,7 +116,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Templating
 
-*   [Tools:Tree (⭐335)](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
+*   [Tools:Tree (⭐336)](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
@@ -170,7 +176,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### REST and API
 
-*   [SwaggerBake plugin (⭐59)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
+*   [SwaggerBake plugin (⭐60)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
 
@@ -204,13 +210,13 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Miscellaneous
 
-*   [OPCache Preloader (⭐11)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP applications.
+*   [OPCache Preloader (⭐12)](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP applications.
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 
 ### Authentication and Authorization
 
-*   [ADmad/SocialAuth plugin (⭐51)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐556)](https://github.com/SocialConnect/auth) social sign on library.
+*   [ADmad/SocialAuth plugin (⭐51)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐555)](https://github.com/SocialConnect/auth) social sign on library.
 
 ### Development Environment
 
@@ -278,13 +284,13 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Asset Management
 
-*   [AssetMix plugin (⭐33)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
+*   [AssetMix plugin (⭐34)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
 
 ## [Jun 08 - Jun 14, 2020](/content/2020/23/README.md)
 
 ### Testing
 
-*   [CakephpFixtureFactories plugin (⭐84)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+*   [CakephpFixtureFactories plugin (⭐85)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
 
 ## [Apr 20 - Apr 26, 2020](/content/2020/16/README.md)
 
@@ -366,7 +372,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Authentication and Authorization
 
-*   [CakeDC/Users plugin (⭐524)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+*   [CakeDC/Users plugin (⭐525)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
 
 ### Migration
 
@@ -384,7 +390,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Authentication and Authorization
 
-*   [Tools:Passwordable (⭐335)](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior (⭐335)](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing.
+*   [Tools:Passwordable (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior (⭐336)](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing.
 
 ### Caching
 
@@ -392,7 +398,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Miscellaneous
 
-*   [Tools plugin (⭐335)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
+*   [Tools plugin (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
 
 ### Search
 
@@ -400,13 +406,13 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### SEO
 
-*   [Tools:Slugged (⭐335)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+*   [Tools:Slugged (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
 ## [Jan 13 - Jan 19, 2020](/content/2020/2/README.md)
 
 ### Debugging
 
-*   [DebugKit plugin (⭐847)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
+*   [DebugKit plugin (⭐848)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 
 ### Miscellaneous
 
@@ -426,7 +432,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Templating
 
-*   [Meta plugin (⭐8)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
+*   [Meta plugin (⭐9)](https://github.com/dereuromark/cakephp-meta) - Makes handling meta tags and SEO-relevant HTML markup DRY and easy.
 
 ## [Jan 06 - Jan 12, 2020](/content/2020/1/README.md)
 
@@ -451,7 +457,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Asset Management
 
-*   [AssetCompress plugin (⭐371)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
+*   [AssetCompress plugin (⭐372)](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
 
 ### Auditing / Logging
 
@@ -478,7 +484,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Imagery
 
-*   [ADmad/Glide plugin (⭐34)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
+*   [ADmad/Glide plugin (⭐35)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
 
 ### Migration
 
@@ -506,12 +512,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### SEO
 
-*   [Muffin/Slug plugin (⭐35)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
+*   [Muffin/Slug plugin (⭐36)](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
 
 ### Templating
 
 *   [Bake plugin (⭐111)](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   [BootstrapUI plugin (⭐345)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
+*   [BootstrapUI plugin (⭐347)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
 *   [CsvView plugin (⭐176)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
 ## [Nov 18 - Nov 24, 2019](/content/2019/46/README.md)
@@ -563,7 +569,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Demo
 
-*   [BlogMVC (⭐8)](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project (⭐214)](https://github.com/Grafikart/BlogMVC).
+*   [BlogMVC (⭐8)](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project (⭐213)](https://github.com/Grafikart/BlogMVC).
 
 ## [May 08 - May 14, 2017](/content/2017/19/README.md)
 

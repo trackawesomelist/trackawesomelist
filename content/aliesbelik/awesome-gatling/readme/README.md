@@ -50,11 +50,10 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 *   [Homepage](https://gatling.io/)
 *   [Documentation](https://docs.gatling.io/)
-*   [Source code (⭐6.4k)](https://github.com/gatling/gatling)
+*   [Source code (⭐6.7k)](https://github.com/gatling/gatling)
 
 ## Getting Started
 
-*   [Load testing with Gatling.io](https://blog.pragmatists.com/load-testing-with-gatling-io-2a128fccfb3e)
 *   [A first look at Gatling, a DSL based load test tool](https://callistaenterprise.se/blogg/teknik/2014/04/16/a-first-look-at-gatling-a-dsl-based-load-test-tool/)
 *   [Gatling: Take your performance tests to the next level](https://www.thoughtworks.com/insights/blog/gatling-take-your-performance-tests-next-level)
 *   [Load Testing with Gatling. The Complete Guide](https://www.james-willett.com/gatling-load-testing-complete-guide/)
@@ -63,35 +62,35 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 *   [Load testing gRPC services with Gatling](https://medium.com/@georgeleung_7777/load-testing-grpc-services-with-gatling-990025c77055)
 *   [Creating a custom Gatling protocol for AWS Lambda](https://callistaenterprise.se/blogg/teknik/2016/11/26/gatling-custom-protocol/)
-*   [Load testing ZeroMQ with a custom DSL for Gatling](http://mintbeans.com/load-testing-zeromq-with-gatling/)
+*   [Load testing ZeroMQ with a custom DSL for Gatling](https://mintbeans.com/load-testing-zeromq-with-gatling/)
 
 ## Distributed Testing
 
 *   [Distributed load testing with Gatling and Kubernetes](https://debijenkorf.tech/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
 *   [Gatling – Scaling Out Your Load Tests](https://web.archive.org/web/20210625094528/http://www.nimrodstech.com/gatling-cluster-load-testing/)
 *   [Distributed Gatling (⭐102)](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
-*   [gatling-operator (⭐70)](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
+*   [gatling-operator (⭐81)](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
 
 ## Tools
 
 ### Plugins
 
-*   [gatling-sbt-plugin (⭐108)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
+*   [gatling-sbt-plugin (⭐107)](https://github.com/gatling/gatling-sbt-plugin) - Gatling SBT plugin to integrate Gatling with SBT, allowing to use Gatling as a testing framework.
 *   [gatling-build-plugin (⭐3)](https://github.com/gatling/gatling-build-plugin) - An SBT plugin to share common settings across Gatling's projects' builds.
-*   [gatling-maven-plugin (⭐36)](https://github.com/gatling/gatling-maven-plugin) - Gatling Maven Extensions.
-*   [gatling-gradle-plugin (⭐28)](https://github.com/gatling/gatling-gradle-plugin) - Gatling plugin for Gradle.
+*   [gatling-maven-plugin (⭐37)](https://github.com/gatling/gatling-maven-plugin) - Gatling Maven Extensions.
+*   [gatling-gradle-plugin (⭐29)](https://github.com/gatling/gatling-gradle-plugin) - Gatling plugin for Gradle.
 *   [gatling-remote-sbt (⭐10)](https://github.com/Pravoru/gatling-remote-sbt) - Remote execution plugin for Gatling load tests.
-*   [gatling-junitrunner (⭐2)](https://github.com/Pravoru/gatling-junitrunner) - JUnit wrapper around Gatling simulations.
+*   [gatling-junitrunner (⭐3)](https://github.com/Pravoru/gatling-junitrunner) - JUnit wrapper around Gatling simulations.
 *   [gatling-grpc (⭐127)](https://github.com/phiSgr/gatling-grpc) - Gatling load test plugin for gRPC.
 *   [gatling-aws (⭐11)](https://github.com/callistaenterprise/gatling-aws) - Gatling custom protocol for AWS Lambda.
 *   [gatling-xmpp-protocol (⭐4)](https://github.com/TLmaK0/gatling-xmpp-protocol) - XMPP protocol for stress test XMPP servers with Gatling.
 *   [gatling-jwt](https://bitbucket.org/atlassianlabs/gatling-jwt/) - An extension to Gatling 2.0 to help make JWT-signed requests.
 *   [gatling-mqtt (⭐43)](https://github.com/mnogu/gatling-mqtt) - A Gatling plugin for stress testing MQTT.
-*   [gatling-kafka (⭐68)](https://github.com/mnogu/gatling-kafka) - A Gatling plugin for stress testing Apache Kafka protocol.
-*   [gatling-kafka-plugin (⭐8)](https://github.com/galax-io/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
-*   [gatling-amqp-plugin (⭐4)](https://github.com/galax-io/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
+*   [gatling-kafka (⭐67)](https://github.com/mnogu/gatling-kafka) - A Gatling plugin for stress testing Apache Kafka protocol.
+*   [gatling-kafka-plugin (⭐11)](https://github.com/galax-io/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
+*   [gatling-amqp-plugin (⭐5)](https://github.com/galax-io/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
 *   [gatling-jdbc-plugin (⭐6)](https://github.com/galax-io/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
-*   [gatling-picatinny (⭐3)](https://github.com/galax-io/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
+*   [gatling-picatinny (⭐4)](https://github.com/galax-io/gatling-picatinny) - Library with a bunch of useful functions that extend Gatling DSL.
 *   [gatling-sql (⭐6)](https://github.com/tmcgrath/gatling-sql) - Gatling extension for JDBC or Spark Thrift Server stress testing.
 *   [gatling-tcp-extensions (⭐23)](https://github.com/scalecube/gatling-tcp-extensions) - TCP extensions for Gatling.
 *   [gatling-thrift (⭐18)](https://github.com/3tty0n/gatling-thrift) - Gatling third party plugin for Apache Thrift.
@@ -101,19 +100,19 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ### Frameworks
 
-*   [Kraken (⭐114)](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by OctoPerf.
+*   [Kraken (⭐117)](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by OctoPerf.
 *   [Karate Gatling](https://karatelabs.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 *   [Taurus](https://gettaurus.org/docs/Gatling/) - Gatling Executor in Taurus framework.
 *   [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
 
 ### Reporting
 
-*   [gatling-report (⭐118)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
+*   [gatling-report (⭐122)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 *   [gatling2allure (⭐6)](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
 
 ### Sandbox
 
-*   [gatling-scaffold (⭐18)](https://github.com/robsonbittencourt/gatling-scaffold) - Base for load test project using Gatling, InfluxDB and Grafana.
+*   [gatling-scaffold (⭐17)](https://github.com/robsonbittencourt/gatling-scaffold) - Base for load test project using Gatling, InfluxDB and Grafana.
 *   [perfiz (⭐15)](https://github.com/znsio/perfiz) - A dockerised API performance test setup based on Gatling with Grafana dashboards and Prometheus monitoring.
 
 ### Miscellaneous
@@ -124,7 +123,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ## CI
 
-*   [Gatling Jenkins Plugin (⭐36)](https://github.com/jenkinsci/gatling-plugin) - [Jenkins plugin](https://plugins.jenkins.io/gatling/) for Gatling.
+*   [Gatling Jenkins Plugin (⭐35)](https://github.com/jenkinsci/gatling-plugin) - [Jenkins plugin](https://plugins.jenkins.io/gatling/) for Gatling.
 *   [run-gatling (⭐5)](https://github.com/liatrio/run-gatling) - GitHub Action to easily integrate Gatling performance tests to GitHub workflows.
 
 ## Trainings & Courses
@@ -149,7 +148,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 ## Community
 
 *   [Gatling Community](https://community.gatling.io/)
-*   [`gatling` on Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-plugin)
+*   [`gatling` on Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-java+or+gatling-plugin)
 *   [`@GatlingTool` on Twitter](https://twitter.com/gatlingtool)
 
 ## Related
@@ -157,16 +156,16 @@ A curated collection of resources covering all aspects of load testing using [Ga
 ### Awesome Lists
 
 *   [Awesome Software Quality (⭐2.3k)](https://github.com/ligurio/sqa-wiki) - A list of free software testing and verification resources.
-*   [Awesome Testing (⭐1.8k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
-*   [Awesome JMeter (⭐720)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
-*   [Awesome Tsung (⭐19)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
-*   [Awesome k6 (⭐585)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
-*   [Awesome Locust (⭐89)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
+*   [Awesome Testing (⭐2k)](https://github.com/TheJambo/awesome-testing) - A curated list of testing resources.
+*   [Awesome JMeter (⭐750)](https://github.com/aliesbelik/awesome-jmeter) - Open-source load testing and performance measurement tool, written in Java.
+*   [Awesome Tsung (⭐22)](https://github.com/aliesbelik/awesome-tsung) - Open-source multi-protocol distributed load testing tool, developed in Erlang.
+*   [Awesome k6 (⭐686)](https://github.com/grafana/awesome-k6) - Open-source, developer-centric performance monitoring and load testing solution.
+*   [Awesome Locust (⭐104)](https://github.com/aliesbelik/awesome-locust) - Open-source scalable load testing framework written in Python.
 
 ### Other
 
-*   [How They Load Test (⭐99)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
-*   [Load Testing Toolkit (⭐163)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
+*   [How They Load Test (⭐124)](https://github.com/aliesbelik/how-they-load) - A curated collection of publicly available resources on how companies around the world perform load testing.
+*   [Load Testing Toolkit (⭐203)](https://github.com/aliesbelik/load-testing-toolkit) - Collection of open-source tools for debugging, benchmarking, load and stress testing your code or services.
 
 ## Contributing
 

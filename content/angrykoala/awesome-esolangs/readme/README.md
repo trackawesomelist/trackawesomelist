@@ -2,7 +2,7 @@
 
 Curated list of awesome Esoteric languages and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/angrykoala/awesome-esolangs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 angrykoala/awesome-esolangs](https://github.com/angrykoala/awesome-esolangs) · ⭐ 422 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/angrykoala/awesome-esolangs/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 angrykoala/awesome-esolangs](https://github.com/angrykoala/awesome-esolangs) · ⭐ 537 · 🏷️ Miscellaneous
 
 [ [Daily](/content/angrykoala/awesome-esolangs/README.md) / [Weekly](/content/angrykoala/awesome-esolangs/week/README.md) / Overview ]
 
@@ -30,64 +30,67 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 *   [><>](https://esolangs.org/wiki/fish) - A stack-based 2d language with support for reflection.
 *   [1+](https://esolangs.org/wiki/1%2B) - A surprisingly user-friendly language with a highly-limited instruction set.
-*   [78 (⭐3)](https://github.com/oatmealine/78) - A single-character command language focused around the numbers 7 and 8.
+*   [78 (⭐5)](https://github.com/oatmealine/78) - A single-character command language focused around the numbers 7 and 8.
 *   [ajsone](https://www.quaxio.com/ajsone) - Language defined completely in JSON.
-*   [AlmostBinary (⭐6)](https://github.com/wsdt/AlmostBinary) - Code in binary and run on any platform.
+*   [AlmostBinary (⭐8)](https://github.com/wsdt/AlmostBinary) - Code in binary and run on any platform.
 *   [ArnoldC](http://lhartikk.github.io/ArnoldC) - Based on the best one-liners of Arnold Schwarzenegger.
 *   [Befunge](https://esolangs.org/wiki/Befunge) - Two-dimensional language.
-*   [Brackets (⭐3)](https://github.com/kvbc/brackets) - Language made of brackets, a lot of brackets.
+*   [Brackets (⭐7)](https://github.com/kvbc/brackets) - Language made of brackets, a lot of brackets.
 *   [Brainfuck](https://esolangs.org/wiki/Brainfuck) - Minimalist language using only 8 single-character commands.
-*   [C Flat (⭐14)](https://github.com/NicksterSand/Cflat) - Musical language focused on sound rather than notation with creative freedom in mind.
-*   [CellTail (⭐5)](https://github.com/mousetail/celltail) - A 1d celular automata based language, supports a complex pattern matching syntax.
-*   [Charcoal (⭐196)](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
+*   [C Flat (⭐28)](https://github.com/NicksterSand/Cflat) - Musical language focused on sound rather than notation with creative freedom in mind.
+*   [CellTail (⭐8)](https://github.com/mousetail/celltail) - A 1d celular automata based language, supports a complex pattern matching syntax.
+*   [Charcoal (⭐220)](https://github.com/somebody1234/Charcoal) - Concise language for sketching ASCII art.
 *   [Chef](http://www.dangermouse.net/esoteric/chef.html) - Programs that look like cooking recipes.
 *   [Chicken](https://esolangs.org/wiki/Chicken) - Only 1 valid symbol: 'chicken'.
-*   [ChuckScript (⭐31)](https://github.com/angrykoala/chuckscript) - Unary-based language, where the code is a single number.
+*   [ChuckScript (⭐33)](https://github.com/angrykoala/chuckscript) - Unary-based language, where the code is a single number.
 *   [COW](https://esolangs.org/wiki/COW) - Brainfuck variant using twelve variations of *moos* as instructions.
 *   [DNA#](https://esolangs.org/wiki/DNA-Sharp) - Language based on the structure of the DNA.
-*   [Dots (⭐5)](https://github.com/josconno/dots) - A turing-complete language using "." symbol only.
-*   [Electra (⭐76)](https://github.com/DolphyWind/Electra-Lang) - Code like an electrician.
+*   [Dots (⭐7)](https://github.com/josconno/dots) - A turing-complete language using "." symbol only.
+*   [Electra (⭐97)](https://github.com/DolphyWind/Electra-Lang) - Code like an electrician.
 *   [Emojicode](http://www.emojicode.org) - Full-blown programming language consisting of emojis.
 *   [Enterprise™ (⭐1.6k)](https://github.com/joaomilho/Enterprise) - Non deterministic unnecessarily statically typed language.
 *   [False](http://strlen.com/false-language) - Heavily obfuscated language with a minimal implementation.
 *   [Fetlang (⭐1.5k)](https://github.com/Property404/fetlang) - Designed such that source code looks like poorly written fetish erotica.
-*   [FlipJump (⭐46)](https://github.com/tomhea/flip-jump) - 1 instruction: Flip a bit, then Jump. The simplest OISC.
-*   [Folders (⭐366)](https://github.com/rottytooth/Folders) - Code written with folders.
-*   [FreakC (⭐129)](https://github.com/FreakC-Foundation/FreakC) - Full-blown programming language with NSFW contents and memes.
+*   [FlipJump (⭐121)](https://github.com/tomhea/flip-jump) - 1 instruction: Flip a bit, then Jump. The simplest OISC.
+*   [Folders (⭐385)](https://github.com/rottytooth/Folders) - Code written with folders.
+*   [FreakC (⭐130)](https://github.com/FreakC-Foundation/FreakC) - Full-blown programming language with NSFW contents and memes.
 *   [Fugue](https://esolangs.org/wiki/Fugue) - Music as source code.
 *   [Golfscript](http://www.golfscript.com/golfscript) - Stack oriented, aimed at solving problems in as few keystrokes as possible.
 *   [Haifu](http://www.dangermouse.net/esoteric/haifu.html) - Designed with the core values of Eastern philosophy in mind.
 *   [INTERCAL](http://www.catb.org/~esr/intercal) - Parody language intended to be completely different from other languages.
-*   [Japt (⭐72)](https://github.com/ETHproductions/japt) - Reduced JavaScript for golfing.
-*   [Jelly (⭐779)](https://github.com/DennisMitchell/jellylanguage) - Golfing language based on J.
+*   [Japt (⭐75)](https://github.com/ETHproductions/japt) - Reduced JavaScript for golfing.
+*   [Jelly (⭐890)](https://github.com/DennisMitchell/jellylanguage) - Golfing language based on J.
 *   [JellyScript](https://github.com/nguyenphuminh/Jellyscript) - Brainfuck-based with delicious jelly.
-*   [JSFuck (⭐7.7k)](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript.
+*   [JSFuck (⭐8.4k)](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript.
 *   [Lazy K](https://tromp.github.io/cl/lazy-k.html) - Minimal, turing-complete pure functional language without extra features.
 *   [legit](https://morr.cc/legit) - Programs defined entirely by the graph of the git repository instead of its contents.
 *   [LolCode](http://lolcode.org) - Language with keywords based on the lolcat meme expressions.
 *   [Malbolge](https://esolangs.org/wiki/Malbolge) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
-*   [Monicelli (⭐1.3k)](https://github.com/esseks/monicelli) - Programming using Italian-like gibberish.
-*   [Ni (⭐6)](https://github.com/DeybisMelendez/ni) - Brainfuck-based with more helpful instructions.
+*   [Mindfck (⭐4)](https://github.com/angrykoala/mindfck) - High level language that transpiles to Brainfuck.
+*   [Monicelli (⭐1.4k)](https://github.com/esseks/monicelli) - Programming using Italian-like gibberish.
+*   [Ni (⭐7)](https://github.com/DeybisMelendez/ni) - Brainfuck-based with more helpful instructions.
 *   [Omgrofl](https://esolangs.org/wiki/Omgrofl) - Syntax resembling Internet slang.
 *   [Ook!](http://www.dangermouse.net/esoteric/ook.html) - Brainfuck-based language, where the commands are orangutan words.
 *   [Orca](https://hundredrabbits.itch.io/orca) - Livecoding environment to quickly create procedural audio sequencers.
 *   [Piet](http://www.dangermouse.net/esoteric/piet.html) -  Language in which programs look like abstract paintings using colors as code. Named after Piet Mondrian.
 *   [RASEL (⭐6)](https://github.com/Nakilon/rasel) - Fungeoid with no limits on program space, float precision, and with a bit of random access to stack.
 *   [reMorse](http://esolangs.org/wiki/reMorse) - Morse-styled language.
-*   [Rockstar (⭐72)](https://github.com/dylanbeattie/rockstar) - Designed for creating computer programs that are also song lyrics.
+*   [Rockstar (⭐86)](https://github.com/dylanbeattie/rockstar) - Designed for creating computer programs that are also song lyrics.
 *   [Shakespeare](http://shakespearelang.sourceforge.net) - Language where the code appear to be Shakespearean plays.
+*   [Schoenberg](https://tomeraberba.ch/schoenberg) - The MIDI Esoteric Programming Language.
 *   [Spooky](https://spookylang.com) - The scariest programming language  :jack\_o\_lantern: :skull:.
 *   [Suzy (⭐8)](https://github.com/gvx/suzy) - 3D language inspired in Befunge.
 *   [Technologic](https://esolangs.org/wiki/Technologic) - Language in which programs look like the lyrics to the Daft Punk song Technologic.
-*   [Thue (⭐25)](https://github.com/jcolag/Thue) - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
-*   [Tru (⭐3)](https://github.com/sungwoncho/tru) - A stack-based language with prefix-free brackets.
-*   [TrumpScript (⭐7.5k)](https://github.com/samshadwell/TrumpScript) - Make Python great again.
-*   [Turtle (⭐4)](https://github.com/TypeMonkey/Turtle) - Uses long-term storage for memory use.
+*   [Thue (⭐31)](https://github.com/jcolag/Thue) - *Matrioshka* language based on nondeterministic string rewriting of a semi-Thue grammar.
+*   [Tru (⭐4)](https://github.com/sungwoncho/tru) - A stack-based language with prefix-free brackets.
+*   [TrumpScript (⭐7.6k)](https://github.com/samshadwell/TrumpScript) - Make Python great again.
+*   [Turtle (⭐5)](https://github.com/TypeMonkey/Turtle) - Uses long-term storage for memory use.
 *   [Unary](https://esolangs.org/wiki/Unary) - Brainfuck-based language where all the commands are 0.
+*   [Unary Except Every Zero Is Replaced with the Title of This Programming Language or, Alternately, Is Replaced with the Smallest Counter-Example to the Goldbach Conjecture. Compilers and Interpreters Only Have to Implement the Former Option](https://esolangs.org/wiki/Unary_Except_Every_Zero_Is_Replaced_with_the_Title_of_This_Programming_Language_or,_Alternately,_Is_Replaced_with_the_Smallest_Counter-Example_to_the_Goldbach_Conjecture._Compilers_and_Interpreters_Only_Have_to_Implement_the_Former_Option) - Derivative of Unary in which every zero is replaced with the title of the programming language being discussed.
 *   [Unlambda](http://www.madore.org/~david/programs/unlambda) - Obfuscated functional programming.
 *   [Velato](http://velato.net) - Language that uses MIDI files as source, programs are defined by the pitch and order of notes.
-*   [Vigil (⭐2.8k)](https://github.com/munificent/vigil) - Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.
-*   [Watson (⭐271)](https://github.com/genkami/watson) - Stack-based Turing-incomplete configuration files.
+*   [Vigil (⭐3k)](https://github.com/munificent/vigil) - Only Vigil is truly vigilant about not allowing code that fails to pass programmatic specifications.
+*   [Watson (⭐269)](https://github.com/genkami/watson) - Stack-based Turing-incomplete configuration files.
 *   [文言 (Wenyan)](http://wenyan-lang.lingdong.works) - Closely follows the grammar and tone of classical Chinese literature.
 *   [Whenever](http://www.dangermouse.net/esoteric/whenever.html) - Language that does things whenever it wants.
 *   [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) - Use only white-characters (space, tabs and newlines).
@@ -97,23 +100,23 @@ Curated list of awesome esoteric programming languages, resources and related pr
 
 ## Algorithms
 
-*   [πfs (⭐6.4k)](https://github.com/philipl/pifs) - Pi-based storage system, store your data by searching a matching sequence in pi.
+*   [πfs (⭐6.8k)](https://github.com/philipl/pifs) - Pi-based storage system, store your data by searching a matching sequence in pi.
 *   [Stacksort](https://gkoberger.github.io/stacksort) - Sorts a list by searching answers in Stack Overflow and executing code snippets until is sorted.
 
 ## Others
 
-*   [asmbf (⭐96)](https://github.com/kspalaiologos/asmbf) - The only true brainfuck assembler toolkit.
-*   [CSS-only-chat (⭐6.5k)](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend.
-*   [FizzBuzzEnterpriseEdition (⭐19k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - Simple FizzBuzz game implemented under the most strict enterprise standards.
-*   [MalbolgeLisp (⭐382)](https://github.com/kspalaiologos/malbolge-lisp) - A Lisp interpreter in Malbolge Unshackled.
-*   [NoCode (⭐58k)](https://github.com/kelseyhightower/nocode) - Secure and reliable applications. Write nothing; deploy nowhere.
+*   [asmbf (⭐118)](https://github.com/kspalaiologos/asmbf) - The only true brainfuck assembler toolkit.
+*   [CSS-only-chat (⭐6.6k)](https://github.com/kkuchta/css-only-chat) - A truly monstrous async web chat using no JS whatsoever on the frontend.
+*   [FizzBuzzEnterpriseEdition (⭐23k)](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - Simple FizzBuzz game implemented under the most strict enterprise standards.
+*   [MalbolgeLisp (⭐513)](https://github.com/kspalaiologos/malbolge-lisp) - A Lisp interpreter in Malbolge Unshackled.
+*   [NoCode (⭐64k)](https://github.com/kelseyhightower/nocode) - Secure and reliable applications. Write nothing; deploy nowhere.
 *   [Petrovich](http://www.dangermouse.net/esoteric/petrovich.html) - Operating System concept based on random actions and rewards/punishments.
 *   [vapor.js (⭐1.4k)](https://github.com/madrobby/vapor.js) - The World's Smallest & Fastest JavaScript Library.
 
 ## Resources
 
 *   [DM's Esoteric Programming Languages](http://www.dangermouse.net/esoteric) - List of esoteric languages and algorithms written by dangermouse.
-*   [Esofiles (⭐89)](https://github.com/graue/esofiles) - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
+*   [Esofiles (⭐100)](https://github.com/graue/esofiles) - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
 *   [Esolang](https://esolangs.org) - Wiki of esoteric programming languages and related Resources.
 *   [Esoteric Codes](https://esoteric.codes) - Articles and documents collection.
 *   [Rosettacode](http://rosettacode.org/wiki/Rosetta_Code) - Provides examples in different languages, including esoteric languages.

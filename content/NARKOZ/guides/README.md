@@ -2,9 +2,15 @@
 
 Design and development guides
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/NARKOZ/guides/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 NARKOZ/guides](https://github.com/NARKOZ/guides) · ⭐ 2.2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/NARKOZ/guides/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 NARKOZ/guides](https://github.com/NARKOZ/guides) · ⭐ 2.3K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/NARKOZ/guides/week/README.md) / [Overview](/content/NARKOZ/guides/readme/README.md) ]
+
+## [Jul 14, 2025](/content/2025/07/14/README.md)
+
+### Programming Languages / Perl
+
+*   \[PDF] [Perl Best Practices Quick Reference Guide](https://rperl.org/docs/PBP_refguide-1.02.00.pdf)
 
 ## [Sep 12, 2024](/content/2024/09/12/README.md)
 
@@ -33,12 +39,12 @@ Design and development guides
 
 ### Programming Languages / Ruby
 
-*   [Ruby Style Guide (⭐16k)](https://github.com/rubocop/ruby-style-guide#readme)
+*   [Ruby Style Guide (⭐17k)](https://github.com/rubocop/ruby-style-guide#readme)
 *   [Ruby Style Guidelines](https://caliban.org/ruby/rubyguide.shtml#style)
 
 ### Programming Languages / Rust
 
-*   [Rust Style Guide (⭐97k)](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide)
+*   [Rust Style Guide (⭐105k)](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide)
 
 ### Programming Languages / Swift
 
@@ -47,7 +53,7 @@ Design and development guides
 ### Frameworks / RSpec
 
 *   [Better Specs { rspec guidelines with ruby }](https://www.betterspecs.org/)
-*   [RSpec Style Guide (⭐952)](https://github.com/rubocop/rspec-style-guide#readme)
+*   [RSpec Style Guide (⭐968)](https://github.com/rubocop/rspec-style-guide#readme)
 
 ### Frameworks / Rails
 
@@ -85,7 +91,7 @@ Design and development guides
 
 ### Programming Languages / JavaScript
 
-*   [Project Guidelines (⭐29k)](https://github.com/elsewhencode/project-guidelines#readme)
+*   [Project Guidelines (⭐30k)](https://github.com/elsewhencode/project-guidelines#readme)
 
 ## [Feb 24, 2020](/content/2020/02/24/README.md)
 
@@ -96,7 +102,7 @@ Design and development guides
 
 ### Other / Node.js
 
-*   [Node.js Best Practices (⭐99k)](https://github.com/goldbergyoni/nodebestpractices#readme)
+*   [Node.js Best Practices (⭐103k)](https://github.com/goldbergyoni/nodebestpractices#readme)
 
 ## [Sep 17, 2019](/content/2019/09/17/README.md)
 
@@ -114,13 +120,13 @@ Design and development guides
 
 ### Programming Languages / Clojure
 
-*   [Clojure Style Guide (⭐4k)](https://github.com/bbatsov/clojure-style-guide#readme)
+*   [Clojure Style Guide (⭐4.1k)](https://github.com/bbatsov/clojure-style-guide#readme)
 
 ## [Apr 26, 2019](/content/2019/04/26/README.md)
 
 ### Other / Git
 
-*   [Commit messages guide (⭐6.7k)](https://github.com/RomuloOliveira/commit-messages-guide#readme)
+*   [Commit messages guide (⭐6.8k)](https://github.com/RomuloOliveira/commit-messages-guide#readme)
 
 ## [Apr 23, 2019](/content/2019/04/23/README.md)
 
@@ -131,10 +137,6 @@ Design and development guides
 ### Programming Languages / PHP
 
 *   [PHP: The Right Way](https://phptherightway.com/)
-
-### Programming Languages / Perl
-
-*   \[PDF] [Perl Best Practices Quick Reference Guide](https://www.squirrel.nl/pub/PBP_refguide-1.02.00.pdf)
 
 ### Programming Languages / Shell
 
@@ -244,7 +246,7 @@ Design and development guides
 
 ### Programming Languages / Elixir
 
-*   [Elixir Style Guide (⭐4.3k)](https://github.com/christopheradams/elixir_style_guide#readme)
+*   [Elixir Style Guide (⭐4.4k)](https://github.com/christopheradams/elixir_style_guide#readme)
 
 ### Programming Languages / JavaScript
 
@@ -283,7 +285,7 @@ Design and development guides
 
 ### Programming Languages / C++
 
-*   [C++ Core Guidelines (⭐42k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
+*   [C++ Core Guidelines (⭐44k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
 
 ## [Nov 22, 2015](/content/2015/11/22/README.md)
 
@@ -307,9 +309,9 @@ Design and development guides
 
 ### Programming Languages / JavaScript
 
-*   [Airbnb JavaScript Style Guide (⭐145k)](https://github.com/airbnb/javascript#readme)
+*   [Airbnb JavaScript Style Guide (⭐147k)](https://github.com/airbnb/javascript#readme)
 *   [JavaScript: The Right Way](http://jstherightway.org/)
-*   [ES6 Coding Style (⭐399)](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
+*   [ES6 Coding Style (⭐400)](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
 
 ### Programming Languages / Objective-C
 
@@ -335,7 +337,7 @@ Design and development guides
 
 ### Programming Languages / Go
 
-*   [Go Code Review Comments (⭐123k)](https://github.com/golang/go/wiki/CodeReviewComments)
+*   [Go Code Review Comments (⭐129k)](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ## [Jan 11, 2015](/content/2015/01/11/README.md)
 

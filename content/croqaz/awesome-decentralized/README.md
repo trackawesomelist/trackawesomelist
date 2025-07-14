@@ -2,9 +2,16 @@
 
 🕶 Awesome list of distributed, decentralized, p2p apps and tools 👍
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/croqaz/awesome-decentralized/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) · ⭐ 901 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/croqaz/awesome-decentralized/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 croqaz/awesome-decentralized](https://github.com/croqaz/awesome-decentralized) · ⭐ 937 · 🏷️ Decentralized Systems
 
 [ Daily / [Weekly](/content/croqaz/awesome-decentralized/week/README.md) / [Overview](/content/croqaz/awesome-decentralized/readme/README.md) ]
+
+## [Jul 11, 2025](/content/2025/07/11/README.md)
+
+### Applications
+
+*   [Bitchat (⭐16k)](https://github.com/permissionlesstech/bitchat): A decentralized peer-to-peer messaging app that works over Bluetooth mesh networks. No internet required, no servers, no phone numbers. It's the side-groupchat.
+*   [Fernweh](https://fernweh.chat): Fernweh is a messaging app that works without internet. It operates through a sophisticated decentralized mesh networking architecture that transforms ordinary smartphones into communication hubs, enabling seamless messaging without any internet or cellular connectivity.
 
 ## [Feb 14, 2025](/content/2025/02/14/README.md)
 
@@ -38,16 +45,16 @@
 
 ### Applications
 
-*   [Hidden Lake (⭐279)](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake): Anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
+*   [Hidden Lake (⭐294)](https://github.com/number571/go-peer/tree/master/cmd/hidden_lake): Anonymous network with theoretical provability to a global observer. It is based on the problem of queues.
 
 ## [Jul 12, 2023](/content/2023/07/12/README.md)
 
 ### Applications
 
-*   [Fred (⭐1k)](https://github.com/hyphanet/fred): Freenet REference Daemon. Also: freenetproject.org
+*   [Fred (⭐1.1k)](https://github.com/hyphanet/fred): Freenet REference Daemon. Also: freenetproject.org
 *   [Keet](https://keet.io): Peer to peer video & chat. Private & encrypted. Share huge files instantly.
-*   [Netsukuku (⭐150)](https://github.com/Netsukuku/netsukuku): Netsukuku is an alternative to the internet; it will have all of the features of the internet, such as websites, instant messaging, file transfers, DNS, etc. It functions as a mesh network or a p2p net system that generates and sustains itself autonomously. It is designed to handle an unlimited number of nodes with minimal CPU and memory resources.
-*   [NNTPChan (⭐70)](https://github.com/majestrate/nntpchan): NNTP based decentralized imageboard.
+*   [Netsukuku (⭐151)](https://github.com/Netsukuku/netsukuku): Netsukuku is an alternative to the internet; it will have all of the features of the internet, such as websites, instant messaging, file transfers, DNS, etc. It functions as a mesh network or a p2p net system that generates and sustains itself autonomously. It is designed to handle an unlimited number of nodes with minimal CPU and memory resources.
+*   [NNTPChan (⭐74)](https://github.com/majestrate/nntpchan): NNTP based decentralized imageboard.
 *   [SecuShare](https://secushare.org): A research project. Consider that it basically consists of a new Internet stack combined with a full-fledged distributed scalability alternative to cloud technology. Source code: <https://gnunet.org/git/gnunet.git>
 
 ### Other
@@ -72,7 +79,7 @@
 
 ### Applications
 
-*   [Nostr (⭐10k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
+*   [Nostr (⭐11k)](https://github.com/nostr-protocol/nostr) - A decentralized social network with a chance of working. A simple, open protocol that enables a truly censorship-resistant and global social network (<https://nostr.com/>)
 
 ## [Mar 06, 2023](/content/2023/03/06/README.md)
 
@@ -84,38 +91,38 @@
 
 ### Applications
 
-*   [Databag (⭐967)](https://github.com/balzack/databag): Self-hosted lightweight federated messenger for the decentralized web. Lightweight, public-private key based identity, end-to-end encryption.
+*   [Databag (⭐1.1k)](https://github.com/balzack/databag): Self-hosted lightweight federated messenger for the decentralized web. Lightweight, public-private key based identity, end-to-end encryption.
 
 ## [Jan 31, 2023](/content/2023/01/31/README.md)
 
 ### Applications
 
-*   [Meshenger (⭐742)](https://github.com/meshenger-app/meshenger-android): Voice/Video Android phone App that works on the local LAN and does not need Internet access/servers/accounts.
+*   [Meshenger (⭐782)](https://github.com/meshenger-app/meshenger-android): Voice/Video Android phone App that works on the local LAN and does not need Internet access/servers/accounts.
 *   [Qaul](https://qaul.net/): Internet independent wireless mesh communication App. Uses interlinked P2P mesh via BLE, Wifi & Internet-overlay.
 
 ## [Jan 13, 2023](/content/2023/01/13/README.md)
 
 ### Applications
 
-*   [DB3 Network (⭐370)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
+*   [DB3 Network (⭐377)](https://github.com/dbpunk-labs/db3): Decentralized Firebase Firestore Alternative
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Applications
 
-*   [FileLove (⭐58)](https://github.com/midzer/filelove): Minimal p2p file transfer right in the browser, using WebTorrent.
+*   [FileLove (⭐63)](https://github.com/midzer/filelove): Minimal p2p file transfer right in the browser, using WebTorrent.
 
 ## [Oct 07, 2022](/content/2022/10/07/README.md)
 
 ### Applications
 
-*   [FilePizza ☠️ (⭐4.5k)](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
+*   [FilePizza ☠️ (⭐9.3k)](https://github.com/kern/filepizza): Free peer-to-peer file transfers in your browser.
 
 ## [Apr 27, 2022](/content/2022/04/27/README.md)
 
 ### Applications
 
-*   [SocialHome (⭐365)](https://github.com/jaywink/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
+*   [SocialHome (⭐368)](https://github.com/jaywink/socialhome): Federated personal profile with social networking functionality. Users can create rich content using Markdown and even HTML/JS/CSS. All content can be pinned to the user profile and all content will federate to contacts in the federated social web.
 *   [Steemit](https://steemit.com/): Blockchain-based social media platform where anyone can earn rewards.
 *   [Ticktack ☠ (⭐56)](https://github.com/ticktackim/ticktack-workplan): Decentralized social platform for people to share knowledge and exchange value, with P2P messaging encrypted feature. Built on top of Secure Scuttlebutt (SSB).
 
@@ -129,7 +136,7 @@
 
 ### Applications
 
-*   [ipfs-pinner (⭐57)](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
+*   [ipfs-pinner (⭐58)](https://github.com/wabarc/ipfs-pinner): A toolkit helps upload files to IPFS pinning services such as Infura, Pinata, NFT.Storage and Web3.Storage.
 
 ## [Oct 22, 2021](/content/2021/10/22/README.md)
 
@@ -151,19 +158,19 @@
 
 ### Applications
 
-*   [Agregore (⭐780)](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer-to-peer protocols and is extensible with standard WebExtensions.
-*   [airpaste ☠️ (⭐824)](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text or files.
-*   [Friendica (⭐1.5k)](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless of where each user profile is hosted.
-*   [LF (⭐893)](https://github.com/zerotier/lf): Fully decentralized fully replicated key/value store. Fully decentralized means anyone can run a node without obtaining special permission, and all nodes are effectively equal. Fully replicated means every node stores all data.
-*   [ShareDrop ☠️ (⭐10k)](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transferring files directly between devices, without having to upload them to any server first.
+*   [Agregore (⭐836)](https://github.com/AgregoreWeb/agregore-browser): A minimalistic web browser that supports multiple peer-to-peer protocols and is extensible with standard WebExtensions.
+*   [airpaste ☠️ (⭐825)](https://github.com/mafintosh/airpaste): A 1-1 network pipe that auto discovers other peers using mdns. Can send text or files.
+*   [Friendica (⭐1.6k)](https://github.com/friendica/friendica): Decentralised communications platform that integrates social communication. Connect effortlessly to a federated communications network of several thousand servers, with more than half a million users. Directly connect to anyone on Friendica, Mastodon, Diaspora, GnuSocial, Pleroma, or Hubzilla, regardless of where each user profile is hosted.
+*   [LF (⭐895)](https://github.com/zerotier/lf): Fully decentralized fully replicated key/value store. Fully decentralized means anyone can run a node without obtaining special permission, and all nodes are effectively equal. Fully replicated means every node stores all data.
+*   [ShareDrop ☠️ (⭐11k)](https://github.com/cowbell/sharedrop): Clone of Apple AirDrop service. Allows transferring files directly between devices, without having to upload them to any server first.
 *   [TheDistributedBay ☠️ (⭐28)](https://github.com/TheDistributedBay/TheDistributedBay): P2P rewrite of the Open Bay/Pirate Bay. It uses a completely distributed protocol to share entries between numerous nodes. This makes it nearly impossible to take down by seizure of servers. Each node contains a complete copy, and any changes are propagated through the network.
-*   [webcat ☠️ (⭐448)](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text or files.
+*   [webcat ☠️ (⭐452)](https://github.com/mafintosh/webcat): P2P pipe across the web using webrtc that uses Github private/public key for authentication and a signalhub for discovery. Can send text or files.
 
 ## [Oct 03, 2021](/content/2021/10/03/README.md)
 
 ### Applications
 
-*   [SimpleX chat (⭐7.9k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
+*   [SimpleX chat (⭐8.9k)](https://github.com/simplex-chat/simplex-chat): A decentralized terminal-based chat (a mobile app coming soon) with a focus on users’ privacy. It doesn't use any global user identities (not even random IDs), supports groups and sending files.
 
 ## [Aug 27, 2021](/content/2021/08/27/README.md)
 
@@ -175,13 +182,13 @@
 
 ### Applications
 
-*   [ipfs-chat (⭐140)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
+*   [ipfs-chat (⭐144)](https://github.com/SomajitDey/ipfs-chat): Terminal-based, secure chatrooms using IPFS. Works over both LAN and internet (includes NAT traversal). Supports private-messaging and file/directory sharing.
 
 ## [Aug 09, 2021](/content/2021/08/09/README.md)
 
 ### Applications
 
-*   [Vdo.Ninja (⭐3k)](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
+*   [Vdo.Ninja (⭐3.2k)](https://github.com/steveseguin/vdo.ninja): 100% free; no downloads; no personal data collection; no sign-in, cutting edge Peer-to-Peer forwarding technology that offers privacy and ultra-low latency
 
 ## [Jul 21, 2021](/content/2021/07/21/README.md)
 
@@ -193,7 +200,7 @@
 
 ### Applications
 
-*   [Cryptor (⭐32)](https://github.com/cpl/cryptor): Overlay P2P network that values your privacy and anonymity above all else. Packages and some clients included.
+*   [Cryptor (⭐33)](https://github.com/cpl/cryptor): Overlay P2P network that values your privacy and anonymity above all else. Packages and some clients included.
 
 ## [Jun 02, 2021](/content/2021/06/02/README.md)
 
@@ -206,16 +213,16 @@
 ### Applications
 
 *   [Aether (⭐1.2k)](https://github.com/aethereans/aether-app): P2P ephemeral public communities. Open source, self-governing
-*   [Airshare (⭐648)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
+*   [Airshare (⭐652)](https://github.com/KuroLabs/Airshare): CLI tool and module for transferring data between 2 machines in a local network, P2P, using Multicast-DNS. Works completely offline.
 *   [Dropub ☠️](https://dropub.com): Share files for free on the internet. It's like Dropbox meets BitTorrent.
 *   [Friends ☠️ (⭐3.2k)](https://github.com/moose-team/friends): P2P chat powered by the web. This project is alpha quality.
-*   [Hyperpad (⭐203)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
+*   [Hyperpad (⭐206)](https://github.com/hackergrrl/hyperpad): Peer-to-peer collaborative text editor.
 *   [instant.io (⭐3.5k)](https://github.com/webtorrent/instant.io): Streaming file transfer over WebTorrent (torrents on the web).
-*   [IPFS bin ☠️ (⭐133)](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
-*   [IPFS Desktop (⭐6.1k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
+*   [IPFS bin ☠️ (⭐134)](https://github.com/victorb/ipfsbin): Pastebin application for sharing code and text documents to other people.
+*   [IPFS Desktop (⭐6.3k)](https://github.com/ipfs/ipfs-desktop): A native application to run your own IPFS Node.
 *   [iWant ☠️ (⭐294)](https://github.com/nirvik/iWant): Commandline tool for searching and downloading files in LAN network, without any central server.
 *   [ORC ☠️](https://orc.network/): Onion Routed Cloud, a decentralized, anonymous, file storage platform. It uses the Tor network.
-*   [Peertransfer ☠️ (⭐325)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
+*   [Peertransfer ☠️ (⭐327)](https://github.com/pguth/peertransfer): Send a file p2p and e2e encrypted using nothing but your browser.
 *   [YaCy](https://yacy.net/): Free distributed search engine, built on principles of P2P networks.
 
 ## [Mar 21, 2021](/content/2021/03/21/README.md)
@@ -234,7 +241,7 @@
 
 ### Applications
 
-*   [Hardbin (⭐253)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
+*   [Hardbin (⭐254)](https://github.com/jes/hardbin): Encrypted pastebin using IPFS.
 
 ### Other
 
@@ -257,13 +264,13 @@
 
 ### Applications
 
-*   [Berty (⭐7.7k)](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
+*   [Berty (⭐8.3k)](https://github.com/berty/berty): secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network.
 
 ## [Feb 20, 2020](/content/2020/02/20/README.md)
 
 ### Applications
 
-*   [Cabal (⭐858)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
+*   [Cabal (⭐870)](https://github.com/cabal-club/cabal-desktop): P2P community offline-first chat platform.
 
 ### Related Lists
 
@@ -285,15 +292,15 @@
 
 ### Applications
 
-*   [croc (⭐29k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
+*   [croc (⭐31k)](https://github.com/schollz/croc): Easily and securely send files and folders from one computer to another in command line.
 *   [norcal](https://github.com/substack/norcal): P2P command-line calendar in Node.js. Can sync, link, embed, and edit offline.
-*   [twtxt (⭐45)](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
+*   [twtxt (⭐48)](https://github.com/getwtxt/getwtxt): Decentralized microblogging platform "for hackers" based on text files. The user is "followed" and "mentioned" by referencing the URL to their twtxt.txt file and a nickname.
 
 ## [Jun 29, 2019](/content/2019/06/29/README.md)
 
 ### Related Lists
 
-*   [https://github.com/openblockchains/awesome-blockchains (⭐3.7k)](https://github.com/openblockchains/awesome-blockchains)
+*   [https://github.com/openblockchains/awesome-blockchains (⭐3.8k)](https://github.com/openblockchains/awesome-blockchains)
 
 ## [Jun 28, 2019](/content/2019/06/28/README.md)
 
@@ -312,34 +319,34 @@
 ### Applications
 
 *   [Handshake](https://handshake.org): Decentralized, permissionless naming protocol compatible with DNS where every peer is validating and in charge of managing the root zone with the goal of creating an alternative to existing Certificate Authorities.
-*   [Orion (⭐126)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
+*   [Orion (⭐124)](https://github.com/Siderus/Orion): Easy to Use, Inter Planetary File System (IPFS) desktop client.
 
 ## [May 12, 2018](/content/2018/05/12/README.md)
 
 ### Applications
 
-*   [LCVPN (⭐546)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
+*   [LCVPN (⭐551)](https://github.com/kanocz/lcvpn): Light decentralized VPN in golang.
 *   [Meshbird (⭐3.5k)](https://github.com/meshbird/meshbird): Meshbird enables distributed private networking across geographically dispersed datacenters.
-*   [nuTorrent ☠️ (⭐233)](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
+*   [nuTorrent ☠️ (⭐232)](https://github.com/LeeChSien/nuTorrent): A Pure Javascript BitTorrent Client. Built with Electron and React.
 
 ## [May 05, 2018](/content/2018/05/05/README.md)
 
 ### Applications
 
-*   [NewNode (⭐459)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
+*   [NewNode (⭐465)](https://github.com/clostra/newnode): Decentralized Content Distribution Network (dCDN).
 
 ## [Apr 22, 2018](/content/2018/04/22/README.md)
 
 ### Applications
 
-*   [PeerTube (⭐13k)](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
+*   [PeerTube (⭐14k)](https://github.com/Chocobozzz/PeerTube): Video streaming platform using BitTorrent directly in the web browser, with WebTorrent and Angular. Demo server at [peertube.cpy.re](https://peertube.cpy.re).
 
 ## [Apr 17, 2018](/content/2018/04/17/README.md)
 
 ### Applications
 
 *   [AKASHA](https://akasha.world): A Next-Generation Social Media Network. Powered by the Ethereum world computer. Embedded into the Inter-Planetary File System.
-*   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐390)](https://github.com/ssbc/patchbay).
+*   [Patchwork (⭐3.6k)](https://github.com/ssbc/patchwork): Decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB). Another alternative interface is [Patchbay (⭐393)](https://github.com/ssbc/patchbay).
 *   [Syncthing-GTK (⭐1.3k)](https://github.com/syncthing/syncthing-gtk): GUI for Syncthing - a continuous file synchronization program.
 
 ## [Apr 03, 2018](/content/2018/04/03/README.md)
@@ -374,7 +381,7 @@
 ### Applications
 
 *   [Beaker](https://beakerbrowser.com): Experimental browser. It adds new technologies for Peer-to-Peer applications while staying compatible with the rest of the Web.
-*   [CacheP2P (⭐863)](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
+*   [CacheP2P (⭐864)](https://github.com/guerrerocarlos/CacheP2P): highly distributed cache platform based on WebTorrent and runs only in the browser.
 *   [Roll-Call](https://rollcall.audio): Free and reliable audio calls for everyone w/ browser P2P.
 *   [Storj](https://storj.io): Blockchain-based, end-to-end encrypted, distributed object storage, where only you have access to your data.
 
@@ -382,7 +389,7 @@
 
 ### Applications
 
-*   [Diaspora (⭐13k)](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
+*   [Diaspora (⭐14k)](https://github.com/diaspora/diaspora): A privacy-aware, distributed, open source social network. Main pod is at [Diasp.eu](https://diasp.eu).
 
 ## [Feb 01, 2017](/content/2017/02/01/README.md)
 
@@ -408,15 +415,14 @@
 ### Applications
 
 *   [Dat desktop app (⭐647)](https://github.com/datproject/dat-desktop): Decentralized data tool for distributing data small and large.
-*   [Neocities](https://neocities.org): Geocities-style websites, but decentralized.
 *   [ZeroNet](https://zeronet.io/): Open, free and uncensorable websites, using Bitcoin cryptography and BitTorrent network. Uncensored, no hosting costs, always accessible.
     communities with auditable moderation and mod elections.
 
 ### Related Lists
 
-*   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.4k)](https://github.com/kgryte/awesome-peer-to-peer)
-*   [https://github.com/retrohacker/awesome-p2p (⭐150)](https://github.com/retrohacker/awesome-p2p)
-*   [https://github.com/Kikobeats/awesome-network-js (⭐556)](https://github.com/Kikobeats/awesome-network-js)
-*   [https://github.com/steve-vincent/awesome-decentralized (⭐199)](https://github.com/steve-vincent/awesome-decentralized)
+*   [https://github.com/kgryte/awesome-peer-to-peer (⭐2.5k)](https://github.com/kgryte/awesome-peer-to-peer)
+*   [https://github.com/retrohacker/awesome-p2p (⭐151)](https://github.com/retrohacker/awesome-p2p)
+*   [https://github.com/Kikobeats/awesome-network-js (⭐565)](https://github.com/Kikobeats/awesome-network-js)
+*   [https://github.com/steve-vincent/awesome-decentralized (⭐203)](https://github.com/steve-vincent/awesome-decentralized)
 *   [https://github.com/gdamdam/awesome-decentralized-web (⭐1.6k)](https://github.com/gdamdam/awesome-decentralized-web)
 *   <https://redecentralize.github.io/alternative-internet>

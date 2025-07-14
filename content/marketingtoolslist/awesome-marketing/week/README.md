@@ -2,15 +2,33 @@
 
 A curated list of awesome marketing tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 83 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 151 · 🏷️ Miscellaneous
 
 [ [Daily](/content/marketingtoolslist/awesome-marketing/README.md) / Weekly / [Overview](/content/marketingtoolslist/awesome-marketing/readme/README.md) ]
+
+## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
+
+### SEO (Search Engine Optimization) / SEO Analytics
+
+*   [OnRanko](https://onranko.com/) - [Review](https://onranko.com/premium?agent=advanced-seo-strategy-generator) Harness AI-driven agents to supercharge your SEO, boost rankings, and maximize visibility.
+
+### Social Media Marketing / Social Media Management
+
+*   [ReplyZen](https://www.replyzen.ai) - Review - AI tool that automates social media comment management for Facebook and Instagram, auto replying and moderating comments.
+
+### Content Marketing / Content Creation
+
+*   [Tellers.AI](https://tellers.ai) - Review - Turn your scripts, articles and podcasts into videos based on your own footage.
+
+### Analytics and Reporting / Conversion Rate Optimization (CRO)
+
+*   [Optimal UX](https://optimalux.com) - Review - Seamless SEO patching and A/B testing tool powered by Cloudflare for effortless integration.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
 ### Online Resources and Courses / Digital Asset Management (DAM)
 
-*   **[Awesome AI Marketing (⭐17)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
+*   **[Awesome AI Marketing (⭐46)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
 
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 

@@ -2,15 +2,25 @@
 
 A curated list of awesome things related to FastAPI
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mjhea0/awesome-fastapi/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) · ⭐ 9.7K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mjhea0/awesome-fastapi/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) · ⭐ 10K · 🏷️ Back-End Development
 
 [ [Daily](/content/mjhea0/awesome-fastapi/README.md) / Weekly / [Overview](/content/mjhea0/awesome-fastapi/readme/README.md) ]
+
+## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
+
+### Auth
+
+*   [FastAPI Login (⭐678)](https://github.com/maxrdu/fastapi_login) - Account management and authentication (based on [Flask-Login (⭐3.6k)](https://github.com/maxcountryman/flask-login)).
+
+### Utils / Other Tools
+
+*   [FastAPI Injectable (⭐155)](https://github.com/JasperSui/fastapi-injectable) - Use FastAPI's dependency injection outside route handlers in CLI tools, background tasks, workers, and more.
 
 ## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI FastCRUD (⭐1.1k)](https://github.com/benavlabs/fastcrud)) - Robust async CRUD operations and flexible endpoint creation utilities.
+*   [FastAPI FastCRUD (⭐1.2k)](https://github.com/benavlabs/fastcrud)) - Robust async CRUD operations and flexible endpoint creation utilities.
 
 ### Articles / Other Tools
 
@@ -22,13 +32,13 @@ A curated list of awesome things related to FastAPI
 
 ### Open Source Projects / Other Tools
 
-*   [FuturamaAPI (⭐144)](https://github.com/koldakov/futuramaapi) - A REST and GraphQL playground built with best practices, providing WebSockets, SSE, callbacks, secret messages, and more.
+*   [FuturamaAPI (⭐155)](https://github.com/koldakov/futuramaapi) - A REST and GraphQL playground built with best practices, providing WebSockets, SSE, callbacks, secret messages, and more.
 
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI Listing (⭐53)](https://github.com/danielhasan1/fastapi-listing) - A library to design/build listing APIs using component-based architecture, inbuilt query paginator, sorter, django-admin like filters & much more.
+*   [FastAPI Listing (⭐55)](https://github.com/danielhasan1/fastapi-listing) - A library to design/build listing APIs using component-based architecture, inbuilt query paginator, sorter, django-admin like filters & much more.
 
 ### Tutorials / Other Tools
 
@@ -57,45 +67,45 @@ A curated list of awesome things related to FastAPI
 
 ### Utils / Other Tools
 
-*   [Apitally (⭐78)](https://github.com/apitally/apitally-py) - API analytics, monitoring, and request logging for FastAPI.
+*   [Apitally (⭐97)](https://github.com/apitally/apitally-py) - API analytics, monitoring, and request logging for FastAPI.
 *   [FastAPI Utilities (⭐2.1k)](https://github.com/fastapiutils/fastapi-utils) - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
 
 ### Boilerplate / Other Tools
 
-*   [Uvicorn Poetry FastAPI Project Template (⭐13)](https://github.com/max-pfeiffer/uvicorn-poetry-fastapi-project-template) - Cookiecutter project template for starting a FastAPI application. Runs in a Docker container with Uvicorn ASGI server on Kubernetes. Supports AMD64 and ARM64 CPU architectures.
+*   [Uvicorn Poetry FastAPI Project Template (⭐14)](https://github.com/max-pfeiffer/uvicorn-poetry-fastapi-project-template) - Cookiecutter project template for starting a FastAPI application. Runs in a Docker container with Uvicorn ASGI server on Kubernetes. Supports AMD64 and ARM64 CPU architectures.
 
 ### Open Source Projects / Other Tools
 
-*   [Polar (⭐5.2k)](https://github.com/polarsource/polar) - A funding and monetization platform for developers, built with FastAPI, SQLAlchemy, Alembic, and Arq.
+*   [Polar (⭐5.8k)](https://github.com/polarsource/polar) - A funding and monetization platform for developers, built with FastAPI, SQLAlchemy, Alembic, and Arq.
 
 ## [Aug 12 - Aug 18, 2024](/content/2024/33/README.md)
 
 ### Databases / ORMs
 
-*   [Edgy ORM (⭐273)](https://github.com/dymmond/edgy) - Complex databases made simple.
+*   [Edgy ORM (⭐292)](https://github.com/dymmond/edgy) - Complex databases made simple.
 
 ### Official Resources / Other Tools
 
-*   [Source Code (⭐85k)](https://github.com/fastapi/fastapi) - Hosted on GitHub.
+*   [Source Code (⭐87k)](https://github.com/fastapi/fastapi) - Hosted on GitHub.
 
 ### PaaS / Other Tools
 
-*   [Fly](https://fly.io) ([tutorial](https://fly.io/docs/python/frameworks/fastapi/), [Deploy from a Git repo (⭐6)](https://github.com/fly-apps/hello-fastapi))
+*   [Fly](https://fly.io) ([tutorial](https://fly.io/docs/python/frameworks/fastapi/), [Deploy from a Git repo (⭐7)](https://github.com/fly-apps/hello-fastapi))
 
 ### Boilerplate / Other Tools
 
-*   [Full Stack FastAPI and PostgreSQL - Base Project Generator (⭐33k)](https://github.com/fastapi/full-stack-fastapi-template) - Full Stack FastAPI Template
+*   [Full Stack FastAPI and PostgreSQL - Base Project Generator (⭐35k)](https://github.com/fastapi/full-stack-fastapi-template) - Full Stack FastAPI Template
     , which includes FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS, and more (developed by the creator of FastAPI, [Sebastián Ramírez](https://github.com/tiangolo)).
 
 ## [Apr 29 - May 05, 2024](/content/2024/18/README.md)
 
 ### Databases / ORMs
 
-*   [Saffier ORM (⭐60)](https://github.com/tarsil/saffier) - The only Python ORM you will ever need.
+*   [Saffier ORM (⭐61)](https://github.com/tarsil/saffier) - The only Python ORM you will ever need.
 
 ### Databases / ODMs
 
-*   [Beanie (⭐2.3k)](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/latest/), which supports data and schema migrations out of the box.
+*   [Beanie (⭐2.4k)](https://github.com/BeanieODM/beanie) - Asynchronous Python ODM for MongoDB, based on [Motor](https://motor.readthedocs.io/en/stable/) and [Pydantic](https://docs.pydantic.dev/latest/), which supports data and schema migrations out of the box.
 
 ### Developer Tools / Other Tools
 
@@ -104,7 +114,7 @@ A curated list of awesome things related to FastAPI
 ### Utils / Other Tools
 
 *   [FastAPI CloudEvents (⭐35)](https://github.com/sasha-tkachev/fastapi-cloudevents) - [CloudEvents](https://cloudevents.io/) integration for FastAPI.
-*   [FastAPI Lazy (⭐118)](https://github.com/yezz123/fastango) - Lazy package to start your project using FastAPI.
+*   [FastAPI Lazy (⭐116)](https://github.com/yezz123/fastango) - Lazy package to start your project using FastAPI.
 
 ### Tutorials / Other Tools
 
@@ -112,7 +122,7 @@ A curated list of awesome things related to FastAPI
 
 ### Boilerplate / Other Tools
 
-*   [Full Stack FastAPI and MongoDB - Base Project Generator (⭐649)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) - Full stack, modern web application generator, which includes FastAPI, MongoDB, Docker, Celery, React frontend, automatic HTTPS and more.
+*   [Full Stack FastAPI and MongoDB - Base Project Generator (⭐665)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) - Full stack, modern web application generator, which includes FastAPI, MongoDB, Docker, Celery, React frontend, automatic HTTPS and more.
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
@@ -124,14 +134,14 @@ A curated list of awesome things related to FastAPI
 
 ### Admin
 
-*   [FastAPI Amis Admin (⭐1.2k)](https://github.com/amisadmin/fastapi-amis-admin) - A high-performance, efficient and easily extensible FastAPI admin framework.
-*   [Starlette Admin (⭐771)](https://github.com/jowilf/starlette-admin) - Admin framework for FastAPI/Starlette, supporting SQLAlchemy, SQLModel, MongoDB, and ODMantic.
+*   [FastAPI Amis Admin (⭐1.3k)](https://github.com/amisadmin/fastapi-amis-admin) - A high-performance, efficient and easily extensible FastAPI admin framework.
+*   [Starlette Admin (⭐811)](https://github.com/jowilf/starlette-admin) - Admin framework for FastAPI/Starlette, supporting SQLAlchemy, SQLModel, MongoDB, and ODMantic.
 
 ### Open Source Projects / Other Tools
 
-*   [Bitcart (⭐647)](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
-*   [FastAPI with Observability (⭐811)](https://github.com/Blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
-*   [Markdown-Videos (⭐84)](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
+*   [Bitcart (⭐677)](https://github.com/bitcart/bitcart) - Platform for merchants, users and developers which offers easy setup and use.
+*   [FastAPI with Observability (⭐850)](https://github.com/Blueswen/fastapi-observability) - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
+*   [Markdown-Videos (⭐85)](https://github.com/Snailedlt/Markdown-Videos) - API for generating thumbnails to embed into your markdown content.
 
 ## [Feb 20 - Feb 26, 2023](/content/2023/8/README.md)
 
@@ -143,11 +153,11 @@ A curated list of awesome things related to FastAPI
 
 ### Databases / ORMs
 
-*   [Fastapi-SQLA (⭐279)](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
+*   [Fastapi-SQLA (⭐294)](https://github.com/dialoguemd/fastapi-sqla) - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI MVC (⭐672)](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
+*   [FastAPI MVC (⭐678)](https://github.com/fastapi-mvc/fastapi-mvc) - Developer productivity tool for making high-quality FastAPI production-ready APIs.
 
 ### Articles / Other Tools
 
@@ -175,7 +185,7 @@ A curated list of awesome things related to FastAPI
 
 ### Boilerplate / Other Tools
 
-*   [fastapi-starter-project (⭐121)](https://github.com/mirzadelic/fastapi-starter-project) - A project template which uses FastAPI, SQLModel, Alembic, Pytest, Docker, GitHub Actions CI.
+*   [fastapi-starter-project (⭐122)](https://github.com/mirzadelic/fastapi-starter-project) - A project template which uses FastAPI, SQLModel, Alembic, Pytest, Docker, GitHub Actions CI.
 
 ## [Jul 04 - Jul 10, 2022](/content/2022/27/README.md)
 
@@ -204,39 +214,39 @@ A curated list of awesome things related to FastAPI
 
 ### Open Source Projects / Other Tools
 
-*   [Bali (⭐277)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
+*   [Bali (⭐283)](https://github.com/bali-framework/bali) - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [Nemo (⭐14)](https://github.com/harshitsinghai77/nemo-backend) - Be productive with Nemo.
+*   [Nemo (⭐15)](https://github.com/harshitsinghai77/nemo-backend) - Be productive with Nemo.
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
 
 ### Boilerplate / Other Tools
 
-*   [FastAPI on Google Cloud Run (⭐198)](https://github.com/anthonycorletti/cloudrun-fastapi) - Boilerplate for API building with FastAPI, SQLModel, and Google Cloud Run.
-*   [FastAPI with Firestore (⭐47)](https://github.com/anthonycorletti/firestore-fastapi) - Boilerplate for API building with FastAPI and Google Cloud Firestore.
+*   [FastAPI on Google Cloud Run (⭐199)](https://github.com/anthonycorletti/cloudrun-fastapi) - Boilerplate for API building with FastAPI, SQLModel, and Google Cloud Run.
+*   [FastAPI with Firestore (⭐48)](https://github.com/anthonycorletti/firestore-fastapi) - Boilerplate for API building with FastAPI and Google Cloud Firestore.
 
 ## [Mar 28 - Apr 03, 2022](/content/2022/13/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI FeatureFlags (⭐62)](https://github.com/Pytlicek/fastapi-featureflags) - Simple implementation of feature flags for FastAPI.
+*   [FastAPI FeatureFlags (⭐66)](https://github.com/Pytlicek/fastapi-featureflags) - Simple implementation of feature flags for FastAPI.
 
 ## [Feb 28 - Mar 06, 2022](/content/2022/9/README.md)
 
 ### Admin
 
-*   [FastAPI Admin (⭐3.2k)](https://github.com/fastapi-admin/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data. Currently only works with the Tortoise ORM.
-*   [Piccolo Admin (⭐354)](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo ORM.
+*   [FastAPI Admin (⭐3.3k)](https://github.com/fastapi-admin/fastapi-admin) - Functional admin panel that provides a user interface for performing CRUD operations on your data. Currently only works with the Tortoise ORM.
+*   [Piccolo Admin (⭐364)](https://github.com/piccolo-orm/piccolo_admin) - A powerful and modern admin GUI, using the Piccolo ORM.
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
 ### Admin
 
-*   [SQLAlchemy Admin (⭐2.2k)](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
+*   [SQLAlchemy Admin (⭐2.3k)](https://github.com/aminalaee/sqladmin) - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
 
 ### Utils / Other Tools
 
@@ -248,10 +258,10 @@ A curated list of awesome things related to FastAPI
 
 ### Docker Images / Other Tools
 
-*   [inboard (⭐198)](https://github.com/br3ndonland/inboard) - Docker images to power your FastAPI apps and help you ship faster.
+*   [inboard (⭐200)](https://github.com/br3ndonland/inboard) - Docker images to power your FastAPI apps and help you ship faster.
 *   [uvicorn-gunicorn-fastapi-docker (⭐2.8k)](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance FastAPI web applications in Python 3.7 and 3.6 with performance auto-tuning.
 *   [uvicorn-gunicorn-poetry (⭐45)](https://github.com/max-pfeiffer/uvicorn-gunicorn-poetry) - Docker image with Gunicorn using Uvicorn workers for running Python web applications. Uses Poetry for managing dependencies and setting up a virtual environment. Supports AMD64 and ARM64 CPU architectures.
-*   [uvicorn-poetry (⭐53)](https://github.com/max-pfeiffer/uvicorn-poetry) - Docker image with Uvicorn ASGI server for running Python web applications on Kubernetes. Uses Poetry for managing dependencies and setting up a virtual environment. Supports AMD64 and ARM64 CPU architectures.
+*   [uvicorn-poetry (⭐54)](https://github.com/max-pfeiffer/uvicorn-poetry) - Docker image with Uvicorn ASGI server for running Python web applications on Kubernetes. Uses Poetry for managing dependencies and setting up a virtual environment. Supports AMD64 and ARM64 CPU architectures.
 
 ### Open Source Projects / Other Tools
 
@@ -266,24 +276,24 @@ A curated list of awesome things related to FastAPI
 
 ### Serverless / Other Tools
 
-*   [Google Cloud Run](https://cloud.google.com/run) ([example (⭐198)](https://github.com/anthonycorletti/cloudrun-fastapi))
+*   [Google Cloud Run](https://cloud.google.com/run) ([example (⭐199)](https://github.com/anthonycorletti/cloudrun-fastapi))
 
 ## [Dec 13 - Dec 19, 2021](/content/2021/50/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI Events (⭐488)](https://github.com/melvinkcx/fastapi-events) - Asynchronous event dispatching/handling library for FastAPI and Starlette.
+*   [FastAPI Events (⭐502)](https://github.com/melvinkcx/fastapi-events) - Asynchronous event dispatching/handling library for FastAPI and Starlette.
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
 ### Auth
 
-*   [AuthX (⭐934)](https://github.com/yezz123/AuthX) - Customizable Authentications and Oauth2 management for FastAPI.
-*   [FastAPI Security (⭐153)](https://github.com/jacobsvante/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
+*   [AuthX (⭐958)](https://github.com/yezz123/AuthX) - Customizable Authentications and Oauth2 management for FastAPI.
+*   [FastAPI Security (⭐154)](https://github.com/jacobsvante/fastapi-security) - Implements authentication and authorization as dependencies in FastAPI.
 
 ### Utils / Other Tools
 
-*   [ASGI Correlation ID (⭐483)](https://github.com/snok/asgi-correlation-id) - Request ID logging middleware.
+*   [ASGI Correlation ID (⭐500)](https://github.com/snok/asgi-correlation-id) - Request ID logging middleware.
 *   [FastAPI Cache (⭐1.6k)](https://github.com/long2ice/fastapi-cache) - A tool to cache FastAPI response and function results, with support for Redis, Memcached, DynamoDB, and in-memory backends.
 
 ### Tutorials / Other Tools
@@ -300,16 +310,16 @@ A curated list of awesome things related to FastAPI
 
 ### Auth
 
-*   [FastAPI Azure Auth (⭐528)](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your APIs with single and multi tenant support.
-*   [FastAPI Users (⭐5.2k)](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
+*   [FastAPI Azure Auth (⭐537)](https://github.com/Intility/fastapi-azure-auth) - Azure AD authentication for your APIs with single and multi tenant support.
+*   [FastAPI Users (⭐5.4k)](https://github.com/fastapi-users/fastapi-users) - Account management, authentication, authorization.
 
 ### Boilerplate / Other Tools
 
-*   [FastAPI template (⭐2.3k)](https://github.com/s3rius/FastAPI-template) - Flexible, lightweight FastAPI project generator. It includes support for SQLAlchemy, multiple databases, CI/CD, Docker, and Kubernetes.
+*   [FastAPI template (⭐2.4k)](https://github.com/s3rius/FastAPI-template) - Flexible, lightweight FastAPI project generator. It includes support for SQLAlchemy, multiple databases, CI/CD, Docker, and Kubernetes.
 
 ### Open Source Projects / Other Tools
 
-*   [Bunnybook (⭐297)](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
+*   [Bunnybook (⭐301)](https://github.com/pietrobassi/bunnybook) - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
 
 ## [Sep 06 - Sep 12, 2021](/content/2021/36/README.md)
 
@@ -318,12 +328,12 @@ A curated list of awesome things related to FastAPI
 *   [Tortoise ORM](https://tortoise.github.io) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
     *   [FastAPI Example](https://tortoise.github.io/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
     *   [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
-    *   [Aerich (⭐917)](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
+    *   [Aerich (⭐944)](https://github.com/tortoise/aerich) - Tortoise ORM migrations tools.
 *   [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel (which is powered by Pydantic and SQLAlchemy) is a library for interacting with SQL databases from Python code, with Python objects.
 
 ### Open Source Projects / Other Tools
 
-*   [Universities (⭐68)](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
+*   [Universities (⭐69)](https://github.com/ycd/universities) - API service for obtaining information about +9600 universities worldwide.
 
 ## [Aug 23 - Aug 29, 2021](/content/2021/34/README.md)
 
@@ -355,7 +365,7 @@ A curated list of awesome things related to FastAPI
 
 ### Open Source Projects / Other Tools
 
-*   [DogeAPI (⭐154)](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
+*   [DogeAPI (⭐155)](https://github.com/yezz123/DogeAPI) - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
 *   [JeffQL (⭐31)](https://github.com/yezz123/JeffQL/) - Simple authentication and login API using GraphQL and JWT.
 
 ## [Jun 14 - Jun 20, 2021](/content/2021/24/README.md)
@@ -377,14 +387,14 @@ A curated list of awesome things related to FastAPI
 
 ### Utils / Other Tools
 
-*   [FastAPI Chameleon (⭐142)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
+*   [FastAPI Chameleon (⭐140)](https://github.com/mikeckennedy/fastapi-chameleon) - Adds integration of the Chameleon template language to FastAPI.
 *   [FastAPI Jinja (⭐71)](https://github.com/AGeekInside/fastapi-jinja) - Adds integration of the Jinja template language to FastAPI.
 
 ## [Apr 19 - Apr 25, 2021](/content/2021/16/README.md)
 
 ### Utils / Other Tools
 
-*   [OpenTelemetry FastAPI Instrumentation (⭐835)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
+*   [OpenTelemetry FastAPI Instrumentation (⭐863)](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
 
 ### Open Source Projects / Other Tools
 
@@ -406,32 +416,32 @@ A curated list of awesome things related to FastAPI
 
 ### Auth
 
-*   [FastAPI Cloud Auth (⭐347)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
+*   [FastAPI Cloud Auth (⭐350)](https://github.com/tokusumi/fastapi-cloudauth) - Simple integration between FastAPI and cloud authentication services (AWS Cognito, Auth0, Firebase Authentication).
 
 ## [Feb 22 - Feb 28, 2021](/content/2021/8/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI Websocket Pub/Sub (⭐14)](https://github.com/authorizon/fastapi_websocket_pubsub) - The classic pub/sub pattern made easily accessible and scalable over the web and across your cloud in realtime.
-*   [FastAPI Websocket RPC (⭐7)](https://github.com/authorizon/fastapi_websocket_rpc) - RPC (bidirectional JSON RPC) over Websockets made easy, robust, and production ready.
+*   [FastAPI Websocket Pub/Sub (⭐16)](https://github.com/authorizon/fastapi_websocket_pubsub) - The classic pub/sub pattern made easily accessible and scalable over the web and across your cloud in realtime.
+*   [FastAPI Websocket RPC (⭐8)](https://github.com/authorizon/fastapi_websocket_rpc) - RPC (bidirectional JSON RPC) over Websockets made easy, robust, and production ready.
 
 ## [Jan 18 - Jan 24, 2021](/content/2021/3/README.md)
 
 ### Databases / ORMs
 
 *   [Piccolo (⭐1.6k)](https://github.com/piccolo-orm/piccolo) - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
-    *   [FastAPI Examples (⭐21)](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
+    *   [FastAPI Examples (⭐22)](https://github.com/piccolo-orm/piccolo_examples) - Using FastAPI with Piccolo.
 
 ## [Jan 11 - Jan 17, 2021](/content/2021/2/README.md)
 
 ### Developer Tools / Other Tools
 
-*   [FastAPI Profiler (⭐261)](https://github.com/sunhailin-Leo/fastapi_profiler) - A FastAPI Middleware of joerick/pyinstrument to check your service performance.
+*   [FastAPI Profiler (⭐266)](https://github.com/sunhailin-Leo/fastapi_profiler) - A FastAPI Middleware of joerick/pyinstrument to check your service performance.
 
 ### Utils / Other Tools
 
-*   [FastAPI Limiter (⭐579)](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for FastAPI.
-*   [FastAPI Pagination (⭐1.3k)](https://github.com/uriyyo/fastapi-pagination) - Pagination for FastAPI.
+*   [FastAPI Limiter (⭐598)](https://github.com/long2ice/fastapi-limiter) - A request rate limiter for FastAPI.
+*   [FastAPI Pagination (⭐1.4k)](https://github.com/uriyyo/fastapi-pagination) - Pagination for FastAPI.
 
 ### External Resources / Other Tools
 
@@ -445,10 +455,10 @@ A curated list of awesome things related to FastAPI
 
 ### Utils / Other Tools
 
-*   [FastAPI MQTT (⭐279)](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
-*   [Starlette Context (⭐493)](https://github.com/tomwojcik/starlette-context) - Allows you to store and access the request data anywhere in your project, useful for logging.
+*   [FastAPI MQTT (⭐285)](https://github.com/sabuhish/fastapi-mqtt) - An extension for the MQTT protocol.
+*   [Starlette Context (⭐500)](https://github.com/tomwojcik/starlette-context) - Allows you to store and access the request data anywhere in your project, useful for logging.
 *   [Starlette OpenTracing (⭐65)](https://github.com/acidjunk/starlette-opentracing) - Opentracing support for Starlette and FastAPI.
-*   [Starlette Prometheus (⭐289)](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
+*   [Starlette Prometheus (⭐292)](https://github.com/perdy/starlette-prometheus) - Prometheus integration for FastAPI and Starlette.
 
 ### Tutorials / Other Tools
 
@@ -458,7 +468,7 @@ A curated list of awesome things related to FastAPI
 
 ### Utils / Other Tools
 
-*   [Prometheus FastAPI Instrumentator (⭐1.1k)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
+*   [Prometheus FastAPI Instrumentator (⭐1.2k)](https://github.com/trallnag/prometheus-fastapi-instrumentator) - A configurable and modular Prometheus Instrumentator for your FastAPI application.
 
 ## [Dec 21 - Dec 27, 2020](/content/2020/51/README.md)
 
@@ -471,13 +481,13 @@ A curated list of awesome things related to FastAPI
 
 ### Utils / Other Tools
 
-*   [FastAPI SocketIO (⭐332)](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
+*   [FastAPI SocketIO (⭐334)](https://github.com/pyropy/fastapi-socketio) - Easy integration for FastAPI and SocketIO.
 
 ## [Nov 02 - Nov 08, 2020](/content/2020/44/README.md)
 
 ### Auth
 
-*   [FastAPI JWT Auth (⭐705)](https://github.com/IndominusByte/fastapi-jwt-auth) - JWT auth (based on [Flask-JWT-Extended (⭐1.6k)](https://github.com/vimalloc/flask-jwt-extended)).
+*   [FastAPI JWT Auth (⭐716)](https://github.com/IndominusByte/fastapi-jwt-auth) - JWT auth (based on [Flask-JWT-Extended (⭐1.6k)](https://github.com/vimalloc/flask-jwt-extended)).
 
 ### Developer Tools / Other Tools
 
@@ -493,25 +503,25 @@ A curated list of awesome things related to FastAPI
 
 ### Open Source Projects / Other Tools
 
-*   [Awesome FastAPI Projects (⭐1.4k)](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
+*   [Awesome FastAPI Projects (⭐1.5k)](https://github.com/Kludex/awesome-fastapi-projects) - Organized list of projects that use FastAPI.
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
 ### Email / Other Tools
 
-*   [FastAPI Mail (⭐788)](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
+*   [FastAPI Mail (⭐814)](https://github.com/sabuhish/fastapi-mail) - Lightweight mail system for sending emails and attachments (individual and bulk).
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
 ### Auth
 
-*   [FastAPI Simple Security (⭐368)](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
+*   [FastAPI Simple Security (⭐373)](https://github.com/mrtolkien/fastapi_simple_security) - Out-of-the-box API key security manageable through path operations.
 
 ## [Aug 03 - Aug 09, 2020](/content/2020/31/README.md)
 
 ### Utils / Other Tools
 
-*   [FastAPI Cache (⭐221)](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
+*   [FastAPI Cache (⭐222)](https://github.com/comeuplater/fastapi_cache) - A simple lightweight cache system.
 
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 
@@ -528,7 +538,7 @@ A curated list of awesome things related to FastAPI
 
 ### Developer Tools / Other Tools
 
-*   [msgpack-asgi (⭐169)](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
+*   [msgpack-asgi (⭐173)](https://github.com/florimondmanca/msgpack-asgi) - Automatic [MessagePack](https://msgpack.org/) content negotiation.
 
 ### Official Resources / Other Tools
 
@@ -556,35 +566,34 @@ A curated list of awesome things related to FastAPI
 
 ### Boilerplate / Other Tools
 
-*   [FastAPI and Tortoise ORM (⭐136)](https://github.com/prostomarkeloff/fastapi-tortoise) - Powerful but simple template for web APIs w/ FastAPI (as web framework) and Tortoise-ORM (for working via database without headache).
-*   [cookiecutter-fastapi (⭐552)](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, Poetry, Azure Pipelines and pytest.
+*   [FastAPI and Tortoise ORM (⭐138)](https://github.com/prostomarkeloff/fastapi-tortoise) - Powerful but simple template for web APIs w/ FastAPI (as web framework) and Tortoise-ORM (for working via database without headache).
+*   [cookiecutter-fastapi (⭐571)](https://github.com/arthurhenrique/cookiecutter-fastapi) - Cookiecutter template for FastAPI projects using: Machine Learning, Poetry, Azure Pipelines and pytest.
 *   [FastAPI and React Template (⭐2.4k)](https://github.com/Buuntu/fastapi-react) - Full stack cookiecutter boilerplate using FastAPI, TypeScript, Docker, PostgreSQL, and React.
 
 ### Open Source Projects / Other Tools
 
-*   [FastAPI with Celery, RabbitMQ, and Redis (⭐550)](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
-*   [JSON-RPC Server (⭐309)](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
-*   [redis-streams-fastapi-chat (⭐241)](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
+*   [FastAPI with Celery, RabbitMQ, and Redis (⭐558)](https://github.com/GregaVrbancic/fastapi-celery) - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
+*   [JSON-RPC Server (⭐317)](https://github.com/smagafurov/fastapi-jsonrpc) - JSON-RPC server based on FastAPI.
+*   [redis-streams-fastapi-chat (⭐247)](https://github.com/leonh/redis-streams-fastapi-chat) - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
 *   [TermPair (⭐1.6k)](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption.
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
 
 ### Auth
 
-*   [FastAPI Auth (⭐159)](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
-*   [FastAPI Login (⭐674)](https://github.com/MushroomMaula/fastapi_login) - Account management and authentication (based on [Flask-Login (⭐3.6k)](https://github.com/maxcountryman/flask-login)).
-*   [FastAPI Permissions (⭐528)](https://github.com/holgi/fastapi-permissions) - Row-level permissions.
+*   [FastAPI Auth (⭐166)](https://github.com/dmontagu/fastapi-auth) - Pluggable auth that supports the OAuth2 Password Flow with JWT access and refresh tokens.
+*   [FastAPI Permissions (⭐542)](https://github.com/holgi/fastapi-permissions) - Row-level permissions.
 
 ### Databases / ORMs
 
-*   [FastAPI SQLAlchemy (⭐650)](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
+*   [FastAPI SQLAlchemy (⭐658)](https://github.com/mfreeborn/fastapi-sqlalchemy) - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
 *   [GINO (⭐2.7k)](https://github.com/python-gino/gino) - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
     *   [FastAPI Example (⭐446)](https://github.com/leosussan/fastapi-gino-arq-uvicorn)
 *   [ORM (⭐1.8k)](https://github.com/encode/orm) - An async ORM.
 
 ### Databases / Query Builders
 
-*   [asyncpgsa (⭐416)](https://github.com/CanopyTax/asyncpgsa) - A wrapper around [asyncpg (⭐7.3k)](https://github.com/MagicStack/asyncpg) for use with [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/).
+*   [asyncpgsa (⭐419)](https://github.com/CanopyTax/asyncpgsa) - A wrapper around [asyncpg (⭐7.4k)](https://github.com/MagicStack/asyncpg) for use with [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/).
 *   [Databases (⭐3.9k)](https://github.com/encode/databases) - Async SQL query builder that works on top of the [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) expression language.
 
 ### Databases / ODMs
@@ -598,13 +607,13 @@ A curated list of awesome things related to FastAPI
 ### Developer Tools / Other Tools
 
 *   [FastAPI Client Generator (⭐340)](https://github.com/dmontagu/fastapi_client) - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
-*   [FastAPI Versioning (⭐710)](https://github.com/DeanWay/fastapi-versioning) - API versioning.
+*   [FastAPI Versioning (⭐722)](https://github.com/DeanWay/fastapi-versioning) - API versioning.
 *   [Jupyter Notebook REST API (⭐82)](https://github.com/Invictify/Jupter-Notebook-REST-API) - Run your Jupyter notebooks as RESTful API endpoints.
 
 ### Utils / Other Tools
 
-*   [FastAPI Contrib (⭐636)](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware.
-*   [FastAPI Plugins (⭐457)](https://github.com/madkote/fastapi-plugins) - Redis and Scheduler plugins.
+*   [FastAPI Contrib (⭐638)](https://github.com/identixone/fastapi_contrib) - Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware.
+*   [FastAPI Plugins (⭐470)](https://github.com/madkote/fastapi-plugins) - Redis and Scheduler plugins.
 *   [FastAPI ServiceUtils (⭐33)](https://github.com/skallfass/fastapi_serviceutils) - Generator for creating API services.
 *   [Prerender Python Starlette (⭐16)](https://github.com/BeeMyDesk/prerender-python-starlette) - Starlette middleware for Prerender.
 *   [SlowApi (⭐1.5k)](https://github.com/laurents/slowapi) - Rate limiter (based on [Flask-Limiter](https://flask-limiter.readthedocs.io)).
@@ -624,27 +633,27 @@ A curated list of awesome things related to FastAPI
 
 ### Serverless / Other Tools
 
-*   [Vercel](https://vercel.com/) - (formerly Zeit) ([example (⭐84)](https://github.com/Snailedlt/Markdown-Videos)).
+*   [Vercel](https://vercel.com/) - (formerly Zeit) ([example (⭐85)](https://github.com/Snailedlt/Markdown-Videos)).
 
 ### Boilerplate / Other Tools
 
-*   [FastAPI Model Server Skeleton (⭐456)](https://github.com/eightBEC/fastapi-ml-skeleton) - Skeleton app to serve machine learning models production-ready.
-*   [cookiecutter-spacy-fastapi (⭐532)](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Quick deployments of spaCy models with FastAPI.
+*   [FastAPI Model Server Skeleton (⭐473)](https://github.com/eightBEC/fastapi-ml-skeleton) - Skeleton app to serve machine learning models production-ready.
+*   [cookiecutter-spacy-fastapi (⭐533)](https://github.com/microsoft/cookiecutter-spacy-fastapi) - Quick deployments of spaCy models with FastAPI.
 *   [Pywork (⭐11)](https://github.com/vutran1710/YeomanPywork) - [Yeoman](https://yeoman.io/) generator to scaffold a FastAPI app.
-*   [FastAPI Nano (⭐933)](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
+*   [FastAPI Nano (⭐937)](https://github.com/rednafi/fastapi-nano) - Simple FastAPI template with factory pattern architecture.
 
 ### Open Source Projects / Other Tools
 
-*   [Dispatch (⭐5.7k)](https://github.com/Netflix/dispatch) - Manage security incidents.
+*   [Dispatch (⭐5.9k)](https://github.com/Netflix/dispatch) - Manage security incidents.
 *   [Mailer (⭐61)](https://github.com/rclement/mailer) - Dead-simple mailer micro-service for static websites.
-*   [Sprites as a service (⭐311)](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
+*   [Sprites as a service (⭐312)](https://github.com/ljvmiranda921/sprites-as-a-service) - Generate your personal 8-bit avatars using Cellular Automata.
 *   [Slackers (⭐78)](https://github.com/uhavin/slackers) - Slack webhooks API.
 
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)
 
 ### Open Source Projects / Other Tools
 
-*   [RealWorld Example App - mongo (⭐447)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
+*   [RealWorld Example App - mongo (⭐446)](https://github.com/markqiu/fastapi-mongodb-realworld-example-app)
 *   [RealWorld Example App - postgres (⭐2.9k)](https://github.com/nsidnev/fastapi-realworld-example-app)
 
 ## [May 04 - May 10, 2020](/content/2020/18/README.md)
@@ -667,5 +676,5 @@ A curated list of awesome things related to FastAPI
 ### Open Source Projects / Other Tools
 
 *   FastAPI CRUD Example:
-    *   [Async flavor (⭐465)](https://github.com/testdrivenio/fastapi-crud-async)
+    *   [Async flavor (⭐470)](https://github.com/testdrivenio/fastapi-crud-async)
     *   [Sync Flavor (⭐78)](https://github.com/testdrivenio/fastapi-crud-sync)

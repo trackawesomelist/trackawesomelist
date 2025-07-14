@@ -141,9 +141,9 @@ Creative coding is a different discipline than programming systems. The goal is 
 *   [OPENRNDR](https://openrndr.org/) \[Cross-platform] - Open source library for creative coding written in Kotlin.
 *   [Phaser](https://phaser.io/) \[Cross-platform] - HTML5 framework for building games, uses both a Canvas and WebGL renderer.
 *   [Canvas-sketch (⭐5.2k)](https://github.com/mattdesl/canvas-sketch) \[Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
-*   [AsyncGraphics (⭐367)](https://github.com/heestand-xyz/AsyncGraphics) \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
-*   [Lygia (⭐2.9k)](https://github.com/patriciogonzalezvivo/lygia) \[Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
-*   [Fragment.tools (⭐859)](https://github.com/raphaelameaume/fragment) \[Cross-platform] - A web development environment for creative coding.
+*   [AsyncGraphics (⭐374)](https://github.com/heestand-xyz/AsyncGraphics) \[iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
+*   [Lygia (⭐3k)](https://github.com/patriciogonzalezvivo/lygia) \[Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
+*   [Fragment.tools (⭐868)](https://github.com/raphaelameaume/fragment) \[Cross-platform] - A web development environment for creative coding.
 
 ### Visual Programming Languages
 
@@ -159,7 +159,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 *   [XOD](https://xod.io/) \[Cross-platform] - Open source visual programming language and environment for microcontroller-based projects.
 *   [Isadora](https://troikatronix.com) \[Cross-platform] - Scene based media control software with integrated projection mapper.
 *   [cables](https://cables.gl) \[Cross-platform/Web] - Your model kit for creating beautiful interactive content. Currently in private beta, invites can be requested.
-*   [eternal (⭐550)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
+*   [eternal (⭐554)](https://github.com/kousun12/eternal) \[Web] - Programs as graphs and graphs as compositional tools for creation
 *   [Notch Builder](https://www.notch.one) \[Win] - Node-based authoring tool with a strong focus on real-time graphics. Currently in beta.
 *   [JOY.JS](https://ncase.me/joy/) - Realtime visual coding tool, easy to understand and aimed at beginners.
 *   [Circles](https://circles.software) \[iPhone, iPad, Mac] - Live graphics node editor, powered by AsyncGraphics.
@@ -180,7 +180,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Web Programming • Libraries
 
-*   [three.js (⭐106k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+*   [three.js (⭐108k)](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 *   [regl (⭐5.4k)](https://github.com/regl-project/regl) - Functional WebGL.
 *   [Stackgl](https://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 *   [Paper.js](https://paperjs.org/) - The swiss army knife of vector graphics scripting.
@@ -192,17 +192,17 @@ Creative coding is a different discipline than programming systems. The goal is 
 *   [OpenJSCAD](https://openjscad.org) - Programmatic 3D modeling in JavaScript.
 *   [Sketch.js](https://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
 *   [Two.js](https://two.js.org/) - Two-dimensional drawing api geared towards modern web browsers.
-*   [lightgl.js (⭐1.5k)](https://github.com/evanw/lightgl.js) - A lightweight WebGL library.
-*   [picogl.js (⭐792)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
-*   [Alfrid (⭐234)](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
+*   [lightgl.js (⭐1.6k)](https://github.com/evanw/lightgl.js) - A lightweight WebGL library.
+*   [picogl.js (⭐796)](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
+*   [Alfrid (⭐235)](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
 *   [Babylon.js (⭐24k)](https://github.com/BabylonJS/Babylon.js) - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 *   [twigl (⭐2.8k)](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
 *   [luma.gl (⭐2.4k)](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
 *   [css-doodle](https://css-doodle.com/) - A web component for drawing patterns with CSS.
-*   [OGL.js (⭐4k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
+*   [OGL.js (⭐4.1k)](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
 *   [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG.
 *   [Oimo.js (⭐3.1k)](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
-*   [Ammo.js (⭐4.3k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+*   [Ammo.js (⭐4.4k)](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 *   [Theatre.js (⭐12k)](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
 
 ### Projection Mapping • VJing
@@ -212,7 +212,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 *   [Modul8](http://www.modul8.ch/) \[Mac] - Real time video mixing and compositing.
 *   [Resolume](https://resolume.com/) \[Mac, Win] - Mixing of digital video and effects in a realtime.
 *   [CoGe VJ](http://imimot.com/cogevj/) \[Mac] - VJ software designed for realtime HD video mixing and compositing with a modular user interface.
-*   [VirtualMapper (⭐229)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+*   [VirtualMapper (⭐230)](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 *   [Millumin](https://www.millumin.com/v3/index.php) \[Mac] - A software to create and perform interactive audiovisual shows.
 *   [Smode](https://smode.fr/) \[Win] - A real-time 2D/3D creation, compositing and video-mapping engine.
 *   [Veejay](http://veejayhq.net/) \[Linux] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams...)
@@ -267,7 +267,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 *   [DrawBot](http://www.drawbot.com/) \[Mac] - Education oriented 2d graphics programming environment based on Python.
 *   [Klak (⭐2k)](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 *   [basil.js](https://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
-*   [Konstrukt (⭐63)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
+*   [Konstrukt (⭐65)](https://github.com/MarcelMue/konstrukt) \[Cross-platform] - A commandline tool to generate different scalable patterns as SVGs.
 
 ## Learning Resources
 
@@ -310,10 +310,10 @@ Creative coding is a different discipline than programming systems. The goal is 
 *   [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
 *   [WebGL Lessons — Fragment Shaders (⭐312)](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 *   [WebGL Lessons — ThreeJS Shaders (⭐366)](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
-*   [ThreeJS post-proces example (⭐25)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
+*   [ThreeJS post-process example (⭐25)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
 *   [Ray Marching and Signed Distance Functions](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work.html) - Introduction to ray tracing.
 *   [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
-*   [GLSL lighting walkthrough (⭐464)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
+*   [GLSL lighting walkthrough (⭐466)](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
 *   [Three glslify example (⭐79)](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
 *   [WebGL Beyond Dom (⭐17)](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum explains the basics of WebGL using Regl.
 *   [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere.
@@ -439,7 +439,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 *   [Math snippets (⭐116)](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 *   [Formula Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 *   [Learning Maths again (⭐196)](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
-*   [Eases (⭐381)](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
+*   [Eases (⭐382)](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
 *   [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
 *   [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.
 *   [Algebra rules](http://algebrarules.com/) - The most useful rules of basic algebra.
@@ -500,7 +500,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 *   [Art From Code](http://www.artfromcode.com/) - Code sketches by Keith Peters.
 *   [Generator.x](https://www.flickr.com/groups/generatorx/) - Flickr group about generative strategies in art & design.
 *   [Generative Art](https://www.flickr.com/groups/generativeart/) - Flickr group about generative art.
-*   [People You Should Follow on CodePen (⭐694)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
+*   [People You Should Follow on CodePen (⭐697)](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
 *   [Raven Kwok](https://ravenkwok.tumblr.com/) - Tumblr by visual artist Raven Kwok.
 *   [P5Art](http://p5art.tumblr.com/) - Really good collection of experiments in Processing.
 *   [Echophon](http://echophon.tumblr.com/) - Tumblr with visual inspiration.
@@ -554,20 +554,20 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Related
 
-*   [Awesome opengl (⭐2.2k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+*   [Awesome opengl (⭐2.3k)](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *   [Awesome webgl (⭐1.4k)](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
 *   [Awesome canvas (⭐1.7k)](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
-*   [Awesome audio visualization (⭐4.7k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
+*   [Awesome audio visualization (⭐4.8k)](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
 *   [Awesome computer vision (⭐22k)](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
-*   [Awesome visualization research (⭐949)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
-*   [Awesome livecoding (⭐2.7k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
+*   [Awesome visualization research (⭐952)](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
+*   [Awesome livecoding (⭐2.8k)](https://github.com/lvm/awesome-livecoding/) - Curated list of livecoding languages and tools.
 *   [Awesome graphics (⭐1.1k)](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
 *   [Graphics resources (⭐1.8k)](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
-*   [Magic tools (⭐14k)](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
-*   [Awesome public datasets (⭐63k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public available datasets, mostly free resources.
+*   [Magic tools (⭐15k)](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
+*   [Awesome public datasets (⭐64k)](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public available datasets, mostly free resources.
 *   [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 *   [3D Machine Learning (⭐10k)](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
-*   [Awesome creative technology (⭐504)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
+*   [Awesome creative technology (⭐518)](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
 
 ## License
 

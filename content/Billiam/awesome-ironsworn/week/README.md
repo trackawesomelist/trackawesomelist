@@ -2,9 +2,19 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 144 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 152 · 🏷️ Gaming
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / Weekly / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
+
+## [Jun 09 - Jun 15, 2025](/content/2025/23/README.md)
+
+### Official content
+
+*   [Ironsworn](https://tomkinpress.com/pages/ironsworn) - A tabletop RPG of perilous quests
+*   [Ironsworn: Delve](https://tomkinpress.com/pages/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game taking your quests to the deepest, darkest reaches of the Ironlands
+*   [Ironsworn: Starforged](https://tomkinpress.com/pages/ironsworn-starforged) - The sci-fi evolution of the award-winning tabletop roleplaying game
+*   [Lodestar](https://tomkinpress.com/collections/all-products/products/ironsworn-lodestar-expanded-reference-guide) - Reference guide for Ironsworn and Ironsworn: Delve
+*   [Sundered Isles](https://tomkinpress.com/pages/sundered-isles) - Supplement for Ironsworn: Starforged with guidelines, options, and tools for exploring a world of fantasy seafaring adventure
 
 ## [May 05 - May 11, 2025](/content/2025/18/README.md)
 
@@ -196,10 +206,6 @@ An awesome list of awesome Ironsworn projects
 *   [Starsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starsmith-expanded-oracles) - A FoundryVTT compendium of the Starsmith oracles for the Ironsworn: Starforged system
 
 ## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
-
-### Official content
-
-*   [Ironsworn: Starforged](https://www.ironswornrpg.com/product-ironsworn-starforged) -  The sci-fi evolution of the award-winning tabletop roleplaying game
 
 ### Tools / Ironsworn
 
@@ -421,11 +427,6 @@ An awesome list of awesome Ironsworn projects
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
-### Official content
-
-*   [Ironsworn](https://www.ironswornrpg.com/) - A tabletop RPG of perilous quests
-*   [Ironsworn: Delve](https://shawn-tomkin.itch.io/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game taking your quests to the deepest, darkest reaches of the Ironlands
-
 ### Community
 
 *   [Discord](https://discord.gg/8bRuZwK) - Official discord server for Ironsworn
@@ -441,7 +442,7 @@ An awesome list of awesome Ironsworn projects
 *   [Asset Workbench](https://effortlessmountain.github.io/ironsworn-asset-workbench/) - Tool for creating custom Ironsworn assets
 *   [The Augur](https://the-augur.itch.io/theaugur) - A virtual tabletop for solo RPGs, based on Ironsworn
 *   [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
-*   [IronWriter (⭐56)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
+*   [IronWriter (⭐57)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
 *   [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 *   [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
 *   [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
@@ -449,8 +450,8 @@ An awesome list of awesome Ironsworn projects
 
 ### Resources / Ironsworn
 
-*   [DataForged (⭐197)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐135)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐200)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐136)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
 *   [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
 

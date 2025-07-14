@@ -2,15 +2,36 @@
 
 :memo: An awesome Data Science repository to learn and apply for real world problems.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/academic/awesome-datascience/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ⭐ 26K · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/academic/awesome-datascience/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 academic/awesome-datascience](https://github.com/academic/awesome-datascience) · ⭐ 27K · 🏷️ Computer Science
 
 [ [Daily](/content/academic/awesome-datascience/README.md) / Weekly / [Overview](/content/academic/awesome-datascience/readme/README.md) ]
+
+## [Jun 30 - Jul 06, 2025](/content/2025/26/README.md)
+
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [feature-engine](https://feature-engine.trainindata.com/)
+
+## [Jun 02 - Jun 08, 2025](/content/2025/22/README.md)
+
+### Journals, Publications and Magazines / Book Deals (Affiliated)
+
+*   [Maxim AI](https://getmaxim.ai). Tool for AI Agent Simulation, Evaluation & Observability.
+
+### Bloggers / Book Deals (Affiliated)
+
+*   [Applied AI Blogs](https://www.appliedaicourse.com/blog/) - In-depth articles on AI, machine learning, and data science concepts with practical applications.
+*   [Scaler Blogs](https://www.scaler.com/blog/) - Educational content on software development, AI, and career growth in tech.
+
+### Other Awesome Lists / Book Deals (Affiliated)
+
+*   [Generative AI Models](https://www.appliedaicourse.com/blog/generative-ai-models/)
 
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [PerpetualBooster (⭐402)](https://github.com/perpetual-ml/perpetual)
+*   [PerpetualBooster (⭐506)](https://github.com/perpetual-ml/perpetual)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
@@ -47,7 +68,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Data Science Projects (⭐1.9k)](https://github.com/veb-101/Data-Science-Projects)
+*   [Data Science Projects (⭐2k)](https://github.com/veb-101/Data-Science-Projects)
 
 ## [Dec 23 - Dec 29, 2024](/content/2024/52/README.md)
 
@@ -137,8 +158,8 @@
 
 *   [XGBoost (⭐27k)](https://github.com/dmlc/xgboost)
 *   [LightGBM (⭐17k)](https://github.com/microsoft/LightGBM)
-*   [CatBoost (⭐8.3k)](https://github.com/catboost/catboost)
-*   [JAX (⭐31k)](https://github.com/google/jax)
+*   [CatBoost (⭐8.4k)](https://github.com/catboost/catboost)
+*   [JAX (⭐33k)](https://github.com/google/jax)
 
 ### Deep Learning Packages / Visualization Tools
 
@@ -164,7 +185,7 @@
 
 ### Comparison / Three kinds of Machine Learning Systems
 
-*   [datacompy (⭐526)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
+*   [datacompy (⭐577)](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
 
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
@@ -188,7 +209,7 @@
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [Resseract Lite (⭐5)](https://github.com/abistarun/resseract-lite)
+*   [Resseract Lite (⭐6)](https://github.com/abistarun/resseract-lite)
 
 ## [Dec 11 - Dec 17, 2023](/content/2023/50/README.md)
 
@@ -223,8 +244,8 @@
 ### Deep Learning Packages / PyTorch Ecosystem
 
 *   [Yolov3 (⭐10k)](https://github.com/ultralytics/yolov3)
-*   [Yolov5 (⭐53k)](https://github.com/ultralytics/yolov5)
-*   [Yolov8 (⭐37k)](https://github.com/ultralytics/ultralytics)
+*   [Yolov5 (⭐54k)](https://github.com/ultralytics/yolov5)
+*   [Yolov8 (⭐42k)](https://github.com/ultralytics/ultralytics)
 
 ### Datasets / Book Deals (Affiliated)
 
@@ -234,7 +255,7 @@
 
 ### Tutorials
 
-*   [Tutorials to get started on signal processing for machine learning (⭐66)](https://github.com/jinglescode/python-signal-processing)
+*   [Tutorials to get started on signal processing for machine learning (⭐76)](https://github.com/jinglescode/python-signal-processing)
 
 ### Comparison / Supervised Learning
 
@@ -316,8 +337,8 @@
 
 ### Free Courses
 
-*   [MLSys-NYU-2022 (⭐426)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
-*   [Hands-on Train and Deploy ML (⭐800)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
+*   [MLSys-NYU-2022 (⭐487)](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+*   [Hands-on Train and Deploy ML (⭐833)](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 
 ## [Jun 19 - Jun 25, 2023](/content/2023/25/README.md)
 
@@ -388,7 +409,7 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [imodels (⭐1.4k)](https://github.com/csinva/imodels)
+*   [imodels (⭐1.5k)](https://github.com/csinva/imodels)
 
 ## [Jan 23 - Jan 29, 2023](/content/2023/4/README.md)
 
@@ -475,15 +496,15 @@
 ### Tutorials
 
 *   [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
-*   [#tidytuesday (⭐7.2k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
-*   [Data science your way (⭐601)](https://github.com/jadianes/data-science-your-way)
-*   [PySpark Cheatsheet (⭐492)](https://github.com/kevinschaich/pyspark-cheatsheet)
+*   [#tidytuesday (⭐7.5k)](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
+*   [Data science your way (⭐607)](https://github.com/jadianes/data-science-your-way)
+*   [PySpark Cheatsheet (⭐567)](https://github.com/kevinschaich/pyspark-cheatsheet)
 *   [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 *   [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
 *   [Tutorials of source code from the book Genetic Algorithms with Python by Clinton Sheppard (⭐1.2k)](https://github.com/handcraftsman/GeneticAlgorithmsWithPython)
 *   [Realtime deployment](https://www.microprediction.com/python-1) Tutorial on Python time-series model deployment.
 *   [Python for Data Science: A Beginner’s Guide](https://learntocodewith.me/posts/python-for-data-science/)
-*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐10k)](https://github.com/khangich/machine-learning-interview)
+*   [Minimum Viable Study Plan for Machine Learning Interviews (⭐11k)](https://github.com/khangich/machine-learning-interview)
 *   [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
 
 ### Free Courses
@@ -505,7 +526,7 @@
 
 ### Colleges
 
-*   [A list of colleges and universities offering degrees in data science. (⭐153)](https://github.com/ryanswanstrom/awesome-datascience-colleges)
+*   [A list of colleges and universities offering degrees in data science. (⭐155)](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 *   [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
 *   [Data Science Degree @ UVA](https://datascience.virginia.edu/)
 *   [Data Science Degree @ Wisconsin](https://datasciencedegree.wisconsin.edu/)
@@ -626,7 +647,7 @@
 
 ### Hobby / Book Deals (Affiliated)
 
-*   [Awesome Music Production (⭐1.1k)](https://github.com/ad-si/awesome-music-production)
+*   [Awesome Music Production (⭐1.2k)](https://github.com/ad-si/awesome-music-production)
 
 ## [Oct 03 - Oct 09, 2022](/content/2022/40/README.md)
 
@@ -719,16 +740,16 @@
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyToune (⭐571)](https://github.com/GRAAL-Research/poutyne)
-*   [skorch (⭐6k)](https://github.com/skorch-dev/skorch)
+*   [PyToune (⭐573)](https://github.com/GRAAL-Research/poutyne)
+*   [skorch (⭐6.1k)](https://github.com/skorch-dev/skorch)
 *   [pytorch\_geometric (⭐22k)](https://github.com/pyg-team/pytorch_geometric)
-*   [pyro (⭐8.7k)](https://github.com/pyro-ppl/pyro)
+*   [pyro (⭐8.8k)](https://github.com/pyro-ppl/pyro)
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorLayer (⭐7.3k)](https://github.com/tensorlayer/TensorLayer)
+*   [TensorLayer (⭐7.4k)](https://github.com/tensorlayer/TensorLayer)
 *   [tensorpack (⭐6.3k)](https://github.com/tensorpack/tensorpack)
-*   [Ludwig (⭐11k)](https://github.com/ludwig-ai/ludwig)
+*   [Ludwig (⭐12k)](https://github.com/ludwig-ai/ludwig)
 *   [TensorForce (⭐3.3k)](https://github.com/tensorforce/tensorforce)
 
 ### Deep Learning Packages / Visualization Tools
@@ -838,22 +859,22 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [awesome-dataviz (⭐3.9k)](https://github.com/javierluraschi/awesome-dataviz)
-*   [awesome-datasets (⭐62k)](https://github.com/awesomedata/awesome-public-datasets)
-*   [Awesome Data Science Ideas (⭐674)](https://github.com/JosPolfliet/awesome-ai-usecases)
-*   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐90)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
+*   [awesome-dataviz (⭐4k)](https://github.com/javierluraschi/awesome-dataviz)
+*   [awesome-datasets (⭐64k)](https://github.com/awesomedata/awesome-public-datasets)
+*   [Awesome Data Science Ideas (⭐686)](https://github.com/JosPolfliet/awesome-ai-usecases)
+*   [Awesome Drug Synergy, Interaction and Polypharmacy Prediction (⭐96)](https://github.com/AstraZeneca/awesome-drug-pair-scoring)
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [Deepchecks (⭐3.7k)](https://github.com/deepchecks/deepchecks)
+*   [Deepchecks (⭐3.8k)](https://github.com/deepchecks/deepchecks)
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
 ### Deep Learning Packages / Visualization Tools
 
-*   [Netron (⭐30k)](https://github.com/lutzroeder/netron)
+*   [Netron (⭐31k)](https://github.com/lutzroeder/netron)
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
 
@@ -1012,11 +1033,11 @@
 
 ### Datasets / Book Deals (Affiliated)
 
-*   [5000 Images of Clothes (⭐106)](https://github.com/alexeygrigorev/clothing-dataset)
+*   [5000 Images of Clothes (⭐107)](https://github.com/alexeygrigorev/clothing-dataset)
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Data Science Interviews Questions (⭐9.2k)](https://github.com/alexeygrigorev/data-science-interviews)
+*   [Data Science Interviews Questions (⭐9.4k)](https://github.com/alexeygrigorev/data-science-interviews)
 
 ## [Dec 14 - Dec 20, 2020](/content/2020/50/README.md)
 
@@ -1038,52 +1059,52 @@
 
 ### General Machine Learning Packages / Deep Learning architectures
 
-*   [scikit-multilearn (⭐928)](https://github.com/scikit-multilearn/scikit-multilearn)
-*   [sklearn-expertsys (⭐487)](https://github.com/tmadl/sklearn-expertsys)
+*   [scikit-multilearn (⭐938)](https://github.com/scikit-multilearn/scikit-multilearn)
+*   [sklearn-expertsys (⭐490)](https://github.com/tmadl/sklearn-expertsys)
 *   [scikit-feature (⭐1.5k)](https://github.com/jundongl/scikit-feature)
-*   [scikit-rebate (⭐416)](https://github.com/EpistasisLab/scikit-rebate)
-*   [seqlearn (⭐692)](https://github.com/larsmans/seqlearn)
-*   [sklearn-bayes (⭐517)](https://github.com/AmazaspShumik/sklearn-bayes)
-*   [sklearn-crfsuite (⭐426)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
-*   [sklearn-deap (⭐772)](https://github.com/rsteca/sklearn-deap)
+*   [scikit-rebate (⭐418)](https://github.com/EpistasisLab/scikit-rebate)
+*   [seqlearn (⭐695)](https://github.com/larsmans/seqlearn)
+*   [sklearn-bayes (⭐519)](https://github.com/AmazaspShumik/sklearn-bayes)
+*   [sklearn-crfsuite (⭐430)](https://github.com/TeamHG-Memex/sklearn-crfsuite)
+*   [sklearn-deap (⭐773)](https://github.com/rsteca/sklearn-deap)
 *   [sklearn-evaluation (⭐3)](https://github.com/edublancas/sklearn-evaluation)
-*   [scikit-image (⭐6.2k)](https://github.com/scikit-image/scikit-image)
-*   [scikit-opt (⭐5.4k)](https://github.com/guofei9987/scikit-opt)
-*   [scikit-posthocs (⭐359)](https://github.com/maximtrp/scikit-posthocs)
-*   [pystruct (⭐665)](https://github.com/pystruct/pystruct)
+*   [scikit-image (⭐6.3k)](https://github.com/scikit-image/scikit-image)
+*   [scikit-opt (⭐5.5k)](https://github.com/guofei9987/scikit-opt)
+*   [scikit-posthocs (⭐369)](https://github.com/maximtrp/scikit-posthocs)
+*   [pystruct (⭐667)](https://github.com/pystruct/pystruct)
 *   [xLearn (⭐3.1k)](https://github.com/aksnzhy/xlearn)
-*   [cuML (⭐4.4k)](https://github.com/rapidsai/cuml)
-*   [causalml (⭐5.2k)](https://github.com/uber/causalml)
-*   [mlpack (⭐5.3k)](https://github.com/mlpack/mlpack)
+*   [cuML (⭐4.8k)](https://github.com/rapidsai/cuml)
+*   [causalml (⭐5.5k)](https://github.com/uber/causalml)
+*   [mlpack (⭐5.4k)](https://github.com/mlpack/mlpack)
 *   [MLxtend (⭐5k)](https://github.com/rasbt/mlxtend)
 *   [Sparkit-learn (⭐1.2k)](https://github.com/lensacom/sparkit-learn)
-*   [hyperlearn (⭐2k)](https://github.com/danielhanchen/hyperlearn)
+*   [hyperlearn (⭐2.2k)](https://github.com/danielhanchen/hyperlearn)
 *   [dlib (⭐14k)](https://github.com/davisking/dlib)
-*   [RuleFit (⭐414)](https://github.com/christophM/rulefit)
-*   [pyGAM (⭐886)](https://github.com/dswah/pyGAM)
+*   [RuleFit (⭐421)](https://github.com/christophM/rulefit)
+*   [pyGAM (⭐896)](https://github.com/dswah/pyGAM)
 
 ### Deep Learning Packages / PyTorch Ecosystem
 
-*   [PyTorch (⭐87k)](https://github.com/pytorch/pytorch)
+*   [PyTorch (⭐91k)](https://github.com/pytorch/pytorch)
 *   [torchvision (⭐17k)](https://github.com/pytorch/vision)
 *   [torchtext (⭐3.5k)](https://github.com/pytorch/text)
-*   [torchaudio (⭐2.6k)](https://github.com/pytorch/audio)
-*   [ignite (⭐4.6k)](https://github.com/pytorch/ignite)
+*   [torchaudio (⭐2.7k)](https://github.com/pytorch/audio)
+*   [ignite (⭐4.7k)](https://github.com/pytorch/ignite)
 *   [PyTorchNet (⭐1.7k)](https://github.com/pytorch/tnt)
 *   [PyVarInf (⭐359)](https://github.com/ctallec/pyvarinf)
 *   [GPyTorch (⭐3.7k)](https://github.com/cornellius-gp/gpytorch)
-*   [Catalyst (⭐3.3k)](https://github.com/catalyst-team/catalyst)
+*   [Catalyst (⭐3.4k)](https://github.com/catalyst-team/catalyst)
 
 ### Deep Learning Packages / TensorFlow Ecosystem
 
-*   [TensorFlow (⭐188k)](https://github.com/tensorflow/tensorflow)
+*   [TensorFlow (⭐190k)](https://github.com/tensorflow/tensorflow)
 *   [TFLearn (⭐9.6k)](https://github.com/tflearn/tflearn)
-*   [Sonnet (⭐9.8k)](https://github.com/deepmind/sonnet)
+*   [Sonnet (⭐9.9k)](https://github.com/deepmind/sonnet)
 *   [TRFL (⭐3.1k)](https://github.com/deepmind/trfl)
 *   [Polyaxon (⭐3.6k)](https://github.com/polyaxon/polyaxon)
-*   [NeuPy (⭐738)](https://github.com/itdxer/neupy)
+*   [NeuPy (⭐737)](https://github.com/itdxer/neupy)
 *   [tfdeploy (⭐354)](https://github.com/riga/tfdeploy)
-*   [tensorflow-upstream (⭐690)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
+*   [tensorflow-upstream (⭐693)](https://github.com/ROCmSoftwarePlatform/tensorflow-upstream)
 *   [TensorFlow Fold (⭐1.8k)](https://github.com/tensorflow/fold)
 *   [tensorlm (⭐60)](https://github.com/batzner/tensorlm)
 *   [TensorLight (⭐11)](https://github.com/bsautermeister/tensorlight)
@@ -1096,10 +1117,10 @@
 *   [keras-contrib (⭐1.6k)](https://github.com/keras-team/keras-contrib)
 *   [Hyperas (⭐2.2k)](https://github.com/maxpumperla/hyperas)
 *   [Elephas (⭐1.6k)](https://github.com/maxpumperla/elephas)
-*   [Hera (⭐487)](https://github.com/keplr-io/hera)
+*   [Hera (⭐488)](https://github.com/keplr-io/hera)
 *   [Spektral (⭐2.4k)](https://github.com/danielegrattarola/spektral)
-*   [qkeras (⭐556)](https://github.com/google/qkeras)
-*   [keras-rl (⭐5.5k)](https://github.com/keras-rl/keras-rl)
+*   [qkeras (⭐566)](https://github.com/google/qkeras)
+*   [keras-rl (⭐5.6k)](https://github.com/keras-rl/keras-rl)
 *   [Talos (⭐1.6k)](https://github.com/autonomio/talos)
 
 ### Deep Learning Packages / Visualization Tools
@@ -1115,7 +1136,7 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   [Awesome Game Datasets (⭐802)](https://github.com/leomaurodesenv/game-datasets#readme)
+*   [Awesome Game Datasets (⭐874)](https://github.com/leomaurodesenv/game-datasets#readme)
 
 ## [Oct 26 - Nov 01, 2020](/content/2020/43/README.md)
 
@@ -1184,9 +1205,9 @@
 *   [r/datasets](https://www.reddit.com/r/datasets/)
 *   [St. Louis Federal Reserve Economic Data - FRED](https://fred.stlouisfed.org/)
 *   [New Zealand Institute of Economic Research – Data1850](https://data1850.nz/)
-*   [Open Data Sources (⭐507)](https://github.com/datasciencemasters/data)
+*   [Open Data Sources (⭐510)](https://github.com/datasciencemasters/data)
 *   [UNICEF Data](https://data.unicef.org/)
-*   [Public Git Archive (⭐328)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
+*   [Public Git Archive (⭐330)](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 *   [Microsoft Research Open Data](https://msropendata.com/)
 *   [Open Government Data Platform India](https://data.gov.in/)
 *   [NAYN.CO Turkish News with categories (⭐3)](https://github.com/naynco/nayn.data)
@@ -1196,23 +1217,23 @@
 
 ### Other Awesome Lists / Book Deals (Affiliated)
 
-*   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
-*   [Awesome Machine Learning (⭐67k)](https://github.com/josephmisiti/awesome-machine-learning)
+*   Other amazingly awesome lists can be found in the [awesome-awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness)
+*   [Awesome Machine Learning (⭐69k)](https://github.com/josephmisiti/awesome-machine-learning)
 *   [lists (⭐10k)](https://github.com/jnv/lists)
-*   [awesome-python (⭐236k)](https://github.com/vinta/awesome-python)
+*   [awesome-python (⭐248k)](https://github.com/vinta/awesome-python)
 *   [Data Science IPython Notebooks. (⭐28k)](https://github.com/donnemartin/data-science-ipython-notebooks)
-*   [awesome-r (⭐6.1k)](https://github.com/qinwf/awesome-R)
+*   [awesome-r (⭐6.2k)](https://github.com/qinwf/awesome-R)
 *   [awesome-Machine Learning & Deep Learning Tutorials (⭐16k)](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
-*   [Machine Learning for Software Engineers (⭐28k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+*   [Machine Learning for Software Engineers (⭐29k)](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 *   [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
-*   [Awesome Machine Learning On Source Code (⭐6.3k)](https://github.com/src-d/awesome-machine-learning-on-source-code)
+*   [Awesome Machine Learning On Source Code (⭐6.4k)](https://github.com/src-d/awesome-machine-learning-on-source-code)
 *   [Awesome Community Detection (⭐2.4k)](https://github.com/benedekrozemberczki/awesome-community-detection)
 *   [Awesome Graph Classification (⭐4.8k)](https://github.com/benedekrozemberczki/awesome-graph-classification)
 *   [Awesome Decision Tree Papers (⭐2.4k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 *   [Awesome Fraud Detection Papers (⭐1.7k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 *   [Awesome Gradient Boosting Papers (⭐1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
-*   [Awesome Computer Vision Models (⭐518)](https://github.com/nerox8664/awesome-computer-vision-models)
-*   [Awesome Monte Carlo Tree Search (⭐664)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
+*   [Awesome Computer Vision Models (⭐525)](https://github.com/nerox8664/awesome-computer-vision-models)
+*   [Awesome Monte Carlo Tree Search (⭐678)](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 *   [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 *   [100 NLP Papers (⭐3.8k)](https://github.com/mhagiwara/100-nlp-papers)
 

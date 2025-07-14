@@ -2,7 +2,7 @@
 
 Carefully curated list of awesome Jamstack resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/automata/awesome-jamstack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) · ⭐ 1.3K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/automata/awesome-jamstack/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) · ⭐ 1.4K · 🏷️ Front-End Development
 
 [ [Daily](/content/automata/awesome-jamstack/README.md) / [Weekly](/content/automata/awesome-jamstack/week/README.md) / Overview ]
 
@@ -90,7 +90,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Stormkit](https://stormkit.io) - Powerful all in one infrastructure for modern javascript apps. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
 *   [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account.
 
-*For more resources about Static Web Apps see (Awesome Static Web Apps)\[[https://github.com/staticwebdev/awesome-azure-static-web-apps (⭐91)](https://github.com/staticwebdev/awesome-azure-static-web-apps)].*
+*For more resources about Static Web Apps see (Awesome Static Web Apps)\[[https://github.com/staticwebdev/awesome-azure-static-web-apps (⭐92)](https://github.com/staticwebdev/awesome-azure-static-web-apps)].*
 
 ## No-Code Platforms
 
@@ -140,7 +140,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Decap CMS](https://decapcms.org/) - Open source Git-based CMS *(Formerly known as [Netlify CMS](https://v1.netlifycms.org/))*.
 *   [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
 *   [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses.
-*   [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS.
+*   [Hygraph](https://hygraph.com) - The GraphQL Headless CMS.
 *   [Apito](https://apito.io) - A Cloud Based Headless CMS with CDN, Webhooks, Team Collaborations, Content Revision, Cloud Functions.
 *   [Prismic](https://prismic.io) - Headless API CMS for both developers and marketers.
 *   [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.
@@ -165,7 +165,7 @@ Carefully curated list of awesome Jamstack resources
 
 *   [Auth0](https://auth0.com/) - Single sign on and token based authentication.
 *   [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
-*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐131k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
+*   [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel (⭐132k)](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 *   [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 *   [Corbado](https://www.corbado.com) – Corbado helps you go passwordless by adding passkeys to your website or app in a few lines of code.
 *   [Scalekit](https://scalekit.com) – Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites.
@@ -189,7 +189,7 @@ Carefully curated list of awesome Jamstack resources
 
 ### E-commerce
 
-*   [Astro Snipcart (⭐109)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
+*   [Astro Snipcart (⭐112)](https://github.com/lloydjatkinson/astro-snipcart) - Astro Snipcart allows developers to build E-Commerce sites using the Astro framework and the Snipcart platform.
 *   [Flatmarket (⭐1k)](https://github.com/christophercliff/flatmarket) - Flatmarket is a free, open source e-commerce platform for static websites.
 *   [GoCommerce](https://www.gocommerceapi.org) - A headless e-commerce for Jamstack sites.
 *   [Snipcart](https://snipcart.com/) - A powerful shopping cart platform for developers.
@@ -199,7 +199,7 @@ Carefully curated list of awesome Jamstack resources
 *   [Commerce.js](https://commercejs.com/) - API-first eCommerce platform for developers.
 *   [CartQL](https://cartql.com/) - GraphQL Shopping Cart and Checkout API built for the Jamstack and to work with any framework and inventory.
 *   [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
-*   [Saleor](https://saleor.io/) - Saleor is [open-source (⭐21k)](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
+*   [Saleor](https://saleor.io/) - Saleor is [open-source (⭐22k)](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
 
 ### Search
 
@@ -223,7 +223,7 @@ Carefully curated list of awesome Jamstack resources
 ### Automation
 
 *   [Zapier](https://zapier.com/) - Trigger actions connecting more than 1000 apps together.
-*   [DataFire (⭐582)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
+*   [DataFire (⭐581)](https://github.com/DataFire/DataFire) - DataFire is an open source framework for building and integrating APIs.
 
 ## Serverless
 

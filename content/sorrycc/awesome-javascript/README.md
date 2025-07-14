@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Jul 14, 2025](/content/2025/07/14/README.md)
+
+### SDK / Other
+
+*   [OpenAI SDK (⭐9.5k)](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API.
+
+### WebSockets / Other
+
+*   [ws (⭐22k)](https://github.com/websockets/ws) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
+
 ## [Apr 01, 2025](/content/2025/04/01/README.md)
 
 ### Bundlers
@@ -34,24 +44,24 @@
 
 ### Generators / Other
 
-*   [Astro (⭐50k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
+*   [Astro (⭐52k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
 
 ### ORM / Other
 
-*   [Prisma (⭐42k)](https://github.com/prisma/prisma) Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
+*   [Prisma (⭐43k)](https://github.com/prisma/prisma) Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.
 *   [Sequelize (⭐30k)](https://github.com/sequelize/sequelize) Feature-rich ORM for modern Node.js and TypeScript | PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB...
 *   [Mongoose (⭐27k)](https://github.com/Automattic/mongoose) MongoDB object modeling designed to work in an asynchronous environment.
-*   [TypeORM (⭐35k)](https://github.com/typeorm/typeorm) ORM for TypeScript and JavaScript, Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-*   [Drizzle ORM (⭐27k)](https://github.com/drizzle-team/drizzle-orm) Headless TypeScript ORM with a head. Runs on Node, Bun and Deno.
+*   [TypeORM (⭐36k)](https://github.com/typeorm/typeorm) ORM for TypeScript and JavaScript, Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+*   [Drizzle ORM (⭐29k)](https://github.com/drizzle-team/drizzle-orm) Headless TypeScript ORM with a head. Runs on Node, Bun and Deno.
 *   [Kysely (⭐12k)](https://github.com/kysely-org/kysely) A type-safe typescript SQL query builder.
 *   [Knex (⭐20k)](https://github.com/knex/knex) A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
-*   [MikroORM (⭐8.2k)](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
+*   [MikroORM (⭐8.4k)](https://github.com/mikro-orm/mikro-orm) TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns.
 
 ## [Feb 16, 2025](/content/2025/02/16/README.md)
 
 ### Type Checkers
 
-*   [Zod (⭐36k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with built-in static type inference.
+*   [Zod (⭐39k)](https://github.com/colinhacks/zod) - TypeScript-first schema validation with built-in static type inference.
 
 ### Testing Frameworks / Assertion
 
@@ -77,7 +87,7 @@
 
 ### Machine Learning / Runner
 
-*   [JS-PyTorch (⭐1.1k)](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
+*   [JS-PyTorch (⭐1.2k)](https://github.com/eduardoleao052/js-pytorch) - GPU accelerated PyTorch in JavaScript.
 
 ## [Jul 22, 2024](/content/2024/07/22/README.md)
 
@@ -87,7 +97,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Remult (⭐3k)](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
+*   [Remult (⭐3.1k)](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
 
 ### Date / Runner
 
@@ -95,11 +105,11 @@
 
 ### Benchmark / Runner
 
-*   [bencher (⭐650)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
+*   [bencher (⭐718)](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ### Generators / Other
 
-*   [Lume (⭐2k)](https://github.com/lumeland/lume) - Static site generator for Deno.
+*   [Lume (⭐2.1k)](https://github.com/lumeland/lume) - Static site generator for Deno.
 
 ### Misc / Other
 
@@ -115,13 +125,13 @@
 
 ### Storage / Runner
 
-*   [PostgreSQL Browser (⭐366)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
+*   [PostgreSQL Browser (⭐374)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 
 ## [Feb 08, 2024](/content/2024/02/08/README.md)
 
 ### Form Widgets / Calendar
 
-*   [Schedule-X (⭐1.6k)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
+*   [Schedule-X (⭐1.8k)](https://github.com/schedule-x/schedule-x) - Material design event calendar. Features drag & drop, dark mode, multiple views and more.
 
 ## [Nov 03, 2023](/content/2023/11/03/README.md)
 
@@ -137,7 +147,7 @@
 
 ### Functional Programming / Runner
 
-*   [sweet-monads (⭐348)](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
+*   [sweet-monads (⭐351)](https://github.com/JSMonk/sweet-monads) - A utility library containing popular monads and lazy iterators.
 
 ## [Jun 22, 2023](/content/2023/06/22/README.md)
 
@@ -149,13 +159,13 @@
 
 ### Notifications / Runner
 
-*   [toastify-js (⭐2.3k)](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages.
+*   [toastify-js (⭐2.4k)](https://github.com/apvarun/toastify-js) - Pure JavaScript library for better notification messages.
 
 ## [Jun 05, 2023](/content/2023/06/05/README.md)
 
 ### Editors / Runner
 
-*   [Everright-formEditor (⭐476)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐489)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ## [Apr 30, 2023](/content/2023/04/30/README.md)
 
@@ -165,7 +175,7 @@
 
 ### Generators / Other
 
-*   [Next.js (⭐131k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
+*   [Next.js (⭐133k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 
 ## [Dec 13, 2022](/content/2022/12/13/README.md)
 
@@ -186,13 +196,13 @@
 
 ### Storage / Runner
 
-*   [proxy-web-storage (⭐385)](https://github.com/KID-joker/proxy-web-storage) - Keep the type of storage value unchanged and change array and object directly. Supports listening to the changes and setting expires.
+*   [proxy-web-storage (⭐384)](https://github.com/KID-joker/proxy-web-storage) - Keep the type of storage value unchanged and change array and object directly. Supports listening to the changes and setting expires.
 
 ## [Aug 28, 2022](/content/2022/08/28/README.md)
 
 ### Spreadsheet / Runner
 
-*   [Frappe Datatable (⭐1.1k)](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data.
+*   [Frappe Datatable (⭐1.2k)](https://github.com/frappe/datatable) - Frappe DataTable is a simple, modern and interactive datatable library for displaying tabular data.
 
 ### String / Runner
 
@@ -206,7 +216,7 @@
 
 ### Bundlers
 
-*   [Terser (⭐8.9k)](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
+*   [Terser (⭐9k)](https://github.com/terser/terser) - parser, mangler and compressor toolkit for ES6+
 *   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - parser / mangler / compressor / beautifier toolkit
 
 ## [Aug 19, 2022](/content/2022/08/19/README.md)
@@ -225,7 +235,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Whatsup (⭐149)](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
+*   [Whatsup (⭐151)](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 
 ### Functional Programming / Runner
 
@@ -242,29 +252,29 @@
 
 ### Misc / Other
 
-*   [apvarun/awesome-bun (⭐3k)](https://github.com/apvarun/awesome-bun)
+*   [apvarun/awesome-bun (⭐3.1k)](https://github.com/apvarun/awesome-bun)
 
 ## [Jul 25, 2022](/content/2022/07/25/README.md)
 
 ### Functional Programming / Runner
 
-*   [wild-wild-path (⭐725)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
+*   [wild-wild-path (⭐730)](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps.
 
 ## [Jul 14, 2022](/content/2022/07/14/README.md)
 
 ### Boilerplates / Other
 
-*   [Wasp (⭐16k)](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
+*   [Wasp (⭐17k)](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 
 ## [May 08, 2022](/content/2022/05/08/README.md)
 
 ### Spreadsheet / Runner
 
-*   [Jspreadsheet CE (⭐6.9k)](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
+*   [Jspreadsheet CE (⭐7k)](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with other spreadsheet software.
 
 ### I18n And L10n / Runner
 
-*   [attranslate (⭐343)](https://github.com/fkirc/attranslate) - A JavaScript-tool for synchronizing translation-files, including JSON/YAML/XML and other formats.
+*   [attranslate (⭐344)](https://github.com/fkirc/attranslate) - A JavaScript-tool for synchronizing translation-files, including JSON/YAML/XML and other formats.
 
 ## [Apr 20, 2022](/content/2022/04/20/README.md)
 
@@ -385,7 +395,7 @@
 
 *   [flowplayer (⭐1.9k)](https://github.com/flowplayer/flowplayer) - The HTML5 video player for the web
     <https://flowplayer.com/>
-*   [mediaelement (⭐8.2k)](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://www.mediaelementjs.com/>
+*   [mediaelement (⭐8.3k)](https://github.com/johndyer/mediaelement) - HTML5 <audio> or <video> player with Flash and Silverlight shims that mimics the HTML5 MediaElement API, enabling a consistent UI in all browsers. <http://www.mediaelementjs.com/>
 
 ### Animations / Other
 
@@ -408,7 +418,7 @@
 
 ### Testing Frameworks / Runner
 
-*   [Playwright (⭐71k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+*   [Playwright (⭐75k)](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 
 ## [Nov 10, 2021](/content/2021/11/10/README.md)
 
@@ -418,30 +428,30 @@
 
 ### Misc / Other
 
-*   [SurveyJS (⭐4.4k)](https://github.com/surveyjs/survey-library) - SurveyJS is a JavaScript Survey and Form Library. <https://surveyjs.io/>
+*   [SurveyJS (⭐4.5k)](https://github.com/surveyjs/survey-library) - SurveyJS is a JavaScript Survey and Form Library. <https://surveyjs.io/>
 
 ## [Oct 07, 2021](/content/2021/10/07/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [Adonis (⭐18k)](https://github.com/adonisjs/core) - The Node.js Framework highly focused on developer ergonomics, stability and confidence.
-*   [GrapesJS (⭐24k)](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
-*   [Rete.js (⭐10k)](https://github.com/retejs/rete) - A modular framework for visual programming allows to create node based editor in browser.
-*   [litegraph.js (⭐7.3k)](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
-*   [Drawflow (⭐5.1k)](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
+*   [GrapesJS (⭐25k)](https://github.com/artf/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding.
+*   [Rete.js (⭐11k)](https://github.com/retejs/rete) - A modular framework for visual programming allows to create node based editor in browser.
+*   [litegraph.js (⭐7.4k)](https://github.com/jagenjo/litegraph.js) - A graph node engine and editor similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D.
+*   [Drawflow (⭐5.3k)](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
 *   [Blockly (⭐13k)](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 
 ### Data Visualization / Runner
 
 *   [metrics-graphics (⭐7.4k)](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
 *   [visjs](https://github.com/visjs) - Multiple Libraries for dynamic, browser-based data visualization.
-*   [Cytoscape.js (⭐10k)](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
+*   [Cytoscape.js (⭐11k)](https://github.com/cytoscape/cytoscape.js) - A fully featured graph theory library.
 *   [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
-*   [jointjs (⭐4.9k)](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
+*   [jointjs (⭐5k)](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 
 ### Data Structure / Runner
 
-*   [ngraph.graph (⭐544)](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
+*   [ngraph.graph (⭐557)](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
 
 ### Storage / Runner
 
@@ -452,7 +462,7 @@
 
 ### Operating System / Runner
 
-*   [os.js (⭐6.9k)](https://github.com/os-js/OS.js) - An open-source web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more.
+*   [os.js (⭐7k)](https://github.com/os-js/OS.js) - An open-source web desktop platform with a window manager, application APIs, GUI toolkit, filesystem abstractions and much more.
 
 ### Form Widgets / Calendar
 
@@ -460,7 +470,7 @@
 
 ### Form Widgets / Other
 
-*   [dat.GUI (⭐7.6k)](https://github.com/dataarts/dat.gui) - A lightweight gui controller for changing variables in JavaScript.
+*   [dat.GUI (⭐7.7k)](https://github.com/dataarts/dat.gui) - A lightweight gui controller for changing variables in JavaScript.
 
 ### Modals and Popups / Other
 
@@ -469,9 +479,9 @@
 
 ### Scroll / Other
 
-*   [asscroll (⭐942)](https://github.com/ashthornton/asscroll) - A hybrid smooth scroll setup that combines the performance gains of virtual scroll with the reliability of native scroll.
+*   [asscroll (⭐939)](https://github.com/ashthornton/asscroll) - A hybrid smooth scroll setup that combines the performance gains of virtual scroll with the reliability of native scroll.
 *   [stroll (⭐4.4k)](https://github.com/hakimel/stroll.js) - A collection of CSS List scroll effects bind to dom through javascript.
-*   [locomotive-scroll (⭐8.2k)](https://github.com/locomotivemtl/locomotive-scroll) - Detects the elements in viewport and smooth scrolling with parallax.
+*   [locomotive-scroll (⭐8.4k)](https://github.com/locomotivemtl/locomotive-scroll) - Detects the elements in viewport and smooth scrolling with parallax.
 *   [elevator.js (⭐6.6k)](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 
 ### Images / Other
@@ -482,21 +492,21 @@
 
 ### Maps / Other
 
-*   [H3js (⭐5.2k)](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization.
+*   [H3js (⭐5.4k)](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization.
 
 ### Video/Audio / Other
 
-*   [ts-audio (⭐332)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API.
-*   [ractive-player (⭐782)](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
+*   [ts-audio (⭐336)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API.
+*   [ractive-player (⭐794)](https://github.com/ysulyma/ractive-player) - A library for making interactive videos in React.js.
 *   [ffmpeg.js (⭐3.4k)](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
 *   [flv.js (⭐23k)](https://github.com/bilibili/flv.js) - An HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
-*   [hls.js (⭐15k)](https://github.com/video-dev/hls.js) -  A JavaScript library that implements an HTTP Live Streaming client. It relies on HTML5 video and MediaSource Extensions for playback.
+*   [hls.js (⭐16k)](https://github.com/video-dev/hls.js) -  A JavaScript library that implements an HTTP Live Streaming client. It relies on HTML5 video and MediaSource Extensions for playback.
 
 ### Animations / Other
 
 *   [Effeckt.css (⭐11k)](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library.
 *   [shuffle-images (⭐213)](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way.
-*   [tsParticles (⭐8.1k)](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
+*   [tsParticles (⭐8.3k)](https://github.com/matteobruni/tsparticles) - A new and improved version of particles.js with bug fixes and many new features.
 *   [barbajs (⭐12k)](https://github.com/barbajs/barba) - It helps you create fluid and smooth transitions between your website's pages.
 *   [typicaljs (⭐1.6k)](https://github.com/camwiegert/typical) - Animated typing in \~400 bytes 🐡 of JavaScript
 
@@ -506,18 +516,18 @@
 
 ### Full Text Search / Other
 
-*   [lunr (⭐9k)](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
+*   [lunr (⭐9.1k)](https://github.com/olivernn/lunr.js) - Library for use in the browser and It indexes JSON documents and provides a simple search interface for retrieving documents that best match text queries.
 *   [flexsearch (⭐13k)](https://github.com/nextapps-de/flexsearch) - It is a Next-Generation full text search library for Browser and Node.js.
 *   [Elasticlunr (⭐2.1k)](https://github.com/weixsong/elasticlunr.js) - This library is based on lunr.js, but more flexible and customized.
 
 ### Misc / Other
 
-*   [BitSet.js (⭐229)](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation.
+*   [BitSet.js (⭐230)](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation.
 *   [Array Explorer (⭐2.6k)](https://github.com/sdras/array-explorer) and [Object Explorer](https://objectexplorer.netlify.app/) - Resources to help figure out what native JavaScript method would be best to use at any given time.
-*   [Fcal (⭐111)](https://github.com/5anthosh/fcal) -  Math expression evaluator.
+*   [Fcal (⭐114)](https://github.com/5anthosh/fcal) -  Math expression evaluator.
 *   [emoji-button (⭐1.2k)](https://github.com/joeattardi/emoji-button) - Vanilla JavaScript emoji picker component.
 *   [Peg.js (⭐4.9k)](https://github.com/pegjs/pegjs) - A simple parser generator for JavaScript that produces fast parsers with excellent error reporting. Usable from your browser, from the command line, or via JavaScript API.
-*   [lune (⭐120)](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
+*   [lune (⭐122)](https://github.com/ryanseys/lune) - Library to calculate the phases of the moon accurately.
 *   [jsemu (⭐1.8k)](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language.
 
 ## [Jul 08, 2021](/content/2021/07/08/README.md)
@@ -540,13 +550,13 @@
 
 ### API / Runner
 
-*   [React Query (⭐45k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
+*   [React Query (⭐46k)](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
 
 ## [Mar 17, 2021](/content/2021/03/17/README.md)
 
 ### Security / Runner
 
-*   [sanitize-html (⭐3.9k)](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
+*   [sanitize-html (⭐4k)](https://github.com/apostrophecms/sanitize-html) - sanitize-html provides a simple HTML sanitizer with a clear API.
 
 ## [Mar 12, 2021](/content/2021/03/12/README.md)
 
@@ -559,7 +569,7 @@
 ### MVC Frameworks and Libraries / Runner
 
 *   [angular.js (⭐59k)](https://github.com/angular/angular.js) - HTML enhanced for web apps. (deprecated)
-*   [angular (⭐97k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
+*   [angular (⭐98k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
 *   [Lucia (⭐746)](https://github.com/aidenybai/lucia) - 3kb library for tiny web apps.
 
 ### Date / Runner
@@ -570,7 +580,7 @@
 
 ### Misc / Other
 
-*   [FingerprintJS (⭐24k)](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
+*   [FingerprintJS (⭐25k)](https://github.com/fingerprintjs/fingerprintjs) - Makes a visitor identifier from a browser fingerprint that stays the same in incognito mode and when browser data is purged.
 
 ## [Feb 26, 2021](/content/2021/02/26/README.md)
 
@@ -582,7 +592,7 @@
 
 ### Data Visualization / Runner
 
-*   [echarts (⭐62k)](https://github.com/apache/echarts) - Enterprise Charts.
+*   [echarts (⭐64k)](https://github.com/apache/echarts) - Enterprise Charts.
 *   [G2 (⭐12k)](https://github.com/antvis/G2) - A highly interactive data-driven visualization grammar for statistical charts.
 *   [G2Plot (⭐2.6k)](https://github.com/antvis/G2Plot) - An interactive and responsive charting library. Based on the grammar of graphics.
 
@@ -596,7 +606,7 @@
 
 ### Misc / Other
 
-*   [javascript-algorithms (⭐191k)](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
+*   [javascript-algorithms (⭐192k)](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
 ## [Nov 29, 2020](/content/2020/11/29/README.md)
 
@@ -630,7 +640,7 @@
 
 ### Storage / Runner
 
-*   [awesome-web-storage (⭐448)](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
+*   [awesome-web-storage (⭐447)](https://github.com/softvar/awesome-web-storage) - Everything you need to know about client-side storage.
 
 ## [Oct 04, 2020](/content/2020/10/04/README.md)
 
@@ -650,13 +660,13 @@
 
 ### Number / Runner
 
-*   [Quaternion.js (⭐173)](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
+*   [Quaternion.js (⭐177)](https://github.com/infusion/Quaternion.js) - A quaternion library for JavaScript
 
 ## [Oct 01, 2020](/content/2020/10/01/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Alpine.js (⭐29k)](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
+*   [Alpine.js (⭐30k)](https://github.com/alpinejs/alpine) - offers you the reactive and declarative nature of big frameworks like Vue or React at a much lower cost.
 
 ## [Sep 19, 2020](/content/2020/09/19/README.md)
 
@@ -680,11 +690,11 @@
 
 ### Form Widgets / File Uploader
 
-*   [filepond (⭐15k)](https://github.com/pqina/filepond) - A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
+*   [filepond (⭐16k)](https://github.com/pqina/filepond) - A JavaScript library that can upload anything you throw at it, optimizes images for faster uploads, and offers a great, accessible, silky smooth user experience.
 
 ### Modals and Popups / Other
 
-*   [lightGallery (⭐6.7k)](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
+*   [lightGallery (⭐6.8k)](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin for jQuery.
 
 ### Menu / Other
 
@@ -700,7 +710,7 @@
 
 ### QA Tools / Runner
 
-*   [husky (⭐33k)](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
+*   [husky (⭐34k)](https://github.com/typicode/husky) - Prevents bad git commit, git push and more.
 
 ### Modals and Popups / Other
 
@@ -710,21 +720,21 @@
 
 ### API / Runner
 
-*   [Optic (⭐1.4k)](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
-*   [SWR (⭐31k)](https://github.com/vercel/swr) - React Hooks library for remote data fetching.
+*   [Optic (⭐1.5k)](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
+*   [SWR (⭐32k)](https://github.com/vercel/swr) - React Hooks library for remote data fetching.
 
 ## [Aug 02, 2020](/content/2020/08/02/README.md)
 
 ### Animations / Other
 
-*   [particles-bg (⭐662)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
+*   [particles-bg (⭐667)](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 
 ## [Jul 24, 2020](/content/2020/07/24/README.md)
 
 ### Data Visualization / Runner
 
 *   [Frappe Charts (⭐15k)](https://github.com/frappe/charts) - GitHub-inspired simple and modern SVG charts for the web with zero dependencies.
-*   [Frappe Gantt (⭐5.1k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
+*   [Frappe Gantt (⭐5.4k)](https://github.com/frappe/gantt) - A simple, interactive, modern gantt chart library for the web.
 
 ## [May 24, 2020](/content/2020/05/24/README.md)
 
@@ -746,27 +756,27 @@
 
 ### Misc / Other
 
-*   [denolib/awesome-deno (⭐4.3k)](https://github.com/denolib/awesome-deno)
+*   [denolib/awesome-deno (⭐4.4k)](https://github.com/denolib/awesome-deno)
 
 ## [Apr 30, 2020](/content/2020/04/30/README.md)
 
 ### Misc / Other
 
-*   [iooxa (⭐181)](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
+*   [iooxa (⭐184)](https://github.com/iooxa/article) - Components for interactive scientific writing, reactive documents and explorable explanations.
 
 ## [Apr 25, 2020](/content/2020/04/25/README.md)
 
 ### Frameworks / Other
 
-*   [EHTML (⭐246)](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
+*   [EHTML (⭐248)](https://github.com/Guseyn/EHTML) - HTML Framework that allows you not to write JavaScript code.
 
 ## [Apr 13, 2020](/content/2020/04/13/README.md)
 
 ### Type Checkers
 
 *   [TypeScript](https://www.typescriptlang.org/) - A typed superset of JavaScript that compiles to plain JavaScript.
-*   [TypL (⭐375)](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
-*   [Hindley Milner Definitions (⭐198)](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
+*   [TypL (⭐379)](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
+*   [Hindley Milner Definitions (⭐199)](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
 
 ## [Mar 21, 2020](/content/2020/03/21/README.md)
 
@@ -784,13 +794,13 @@
 
 ### Generators / Other
 
-*   [Docusaurus (⭐59k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
+*   [Docusaurus (⭐61k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
 
 ## [Mar 03, 2020](/content/2020/03/03/README.md)
 
 ### Frameworks / Other
 
-*   [DataFormsJS (⭐194)](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
+*   [DataFormsJS (⭐195)](https://github.com/dataformsjs/dataformsjs) - A minimal JavaScript Framework and standalone components for rapid development of sites and SPA's.
 
 ## [Feb 23, 2020](/content/2020/02/23/README.md)
 
@@ -820,21 +830,21 @@
 
 ### Machine Learning / Runner
 
-*   [Synapses (⭐70)](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
+*   [Synapses (⭐71)](https://github.com/mrdimosthenis/Synapses) - Lightweight cross-platform Neural Network library.
 
 ## [Dec 07, 2019](/content/2019/12/07/README.md)
 
 ### Testing Frameworks / Runner
 
-*   [webdriverio (⭐9.4k)](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
+*   [webdriverio (⭐9.5k)](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [svelte (⭐82k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+*   [svelte (⭐83k)](https://github.com/sveltejs/svelte) - Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
 
 ### Node-Powered CMS Frameworks / Runner
 
-*   [Strapi (⭐66k)](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
+*   [Strapi (⭐68k)](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs.
 
 ### Misc / Other
 
@@ -862,7 +872,7 @@
 
 ### Routing / Runner
 
-*   [navaid (⭐792)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
+*   [navaid (⭐795)](https://github.com/lukeed/navaid) - A navigation aid (aka, router) for the browser in 850 bytes\~!
 
 ## [Oct 25, 2019](/content/2019/10/25/README.md)
 
@@ -872,7 +882,7 @@
 
 ### API / Runner
 
-*   [wretch (⭐4.9k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
+*   [wretch (⭐5k)](https://github.com/elbywan/wretch) - A tiny wrapper built around fetch with an intuitive syntax.
 
 ## [Oct 23, 2019](/content/2019/10/23/README.md)
 
@@ -908,7 +918,7 @@
 
 ### Testing Frameworks / Runner
 
-*   [puppeteer (⭐90k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
+*   [puppeteer (⭐91k)](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 
 ## [Sep 18, 2019](/content/2019/09/18/README.md)
 
@@ -921,25 +931,25 @@
 
 ### Generators / Other
 
-*   [Gridsome (⭐8.6k)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
+*   [Gridsome (⭐8.5k)](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 
 ## [Aug 29, 2019](/content/2019/08/29/README.md)
 
 ### Form Widgets / Other
 
-*   [analytics (⭐2.5k)](https://github.com/davidwells/analytics) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
+*   [analytics (⭐2.6k)](https://github.com/davidwells/analytics) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
 
 ## [Aug 19, 2019](/content/2019/08/19/README.md)
 
 ### I18n And L10n / Runner
 
-*   [ttag (⭐347)](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
+*   [ttag (⭐346)](https://github.com/ttag-org/ttag) - Modern javascript i18n localization library based on ES6 tagged templates and the good old GNU gettext.
 
 ## [Aug 05, 2019](/content/2019/08/05/README.md)
 
 ### Files / Runner
 
-*   [PDF.js (⭐50k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
+*   [PDF.js (⭐51k)](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript.
 
 ## [Jul 23, 2019](/content/2019/07/23/README.md)
 
@@ -982,19 +992,19 @@
 
 ### Node-Powered CMS Frameworks / Runner
 
-*   [KeystoneJS (⭐9.5k)](https://github.com/keystonejs/keystone) - powerful CMS and web app framework.
+*   [KeystoneJS (⭐9.6k)](https://github.com/keystonejs/keystone) - powerful CMS and web app framework.
 *   [Reaction Commerce (⭐12k)](https://github.com/reactioncommerce/reaction) - reactive CMS, real-time architecture and design.
-*   [Ghost (⭐49k)](https://github.com/tryghost/Ghost) - simple, powerful publishing platform.
-*   [Apostrophe (⭐4.4k)](https://github.com/punkave/apostrophe) - CMS with content editing and essential services.
-*   [We.js (⭐213)](https://github.com/wejs/we/) - framework for real time apps, sites or blogs.
+*   [Ghost (⭐50k)](https://github.com/tryghost/Ghost) - simple, powerful publishing platform.
+*   [Apostrophe (⭐4.5k)](https://github.com/punkave/apostrophe) - CMS with content editing and essential services.
+*   [We.js (⭐212)](https://github.com/wejs/we/) - framework for real time apps, sites or blogs.
 *   [Nodizecms (⭐174)](https://github.com/nodize/nodizecms) - CMS for CoffeeScript lovers.
-*   [Cody (⭐678)](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
+*   [Cody (⭐680)](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
 *   [PencilBlue (⭐1.6k)](https://github.com/pencilblue/pencilblue/) - CMS and blogging platform.
 
 ### Templating Engines / Runner
 
 *   [doT (⭐5k)](https://github.com/olado/doT) - The fastest + concise JavaScript template engine for nodejs and browsers.
-*   [t.js (⭐832)](https://github.com/jasonmoo/t.js) - A tiny JavaScript templating framework in \~400 bytes gzipped.
+*   [t.js (⭐833)](https://github.com/jasonmoo/t.js) - A tiny JavaScript templating framework in \~400 bytes gzipped.
 
 ### Data Visualization / Runner
 
@@ -1003,7 +1013,7 @@
 *   [jquery.sparkline (⭐1.2k)](https://github.com/gwatts/jquery.sparkline) - A plugin for the jQuery JavaScript library to generate small sparkline charts directly in the browser.
 *   [trianglify (⭐10k)](https://github.com/qrohlf/trianglify) - Low poly style background generator with d3.js.
 *   [dimple.js](http://dimplejs.org) - Easy charts for business analytics powered by d3.
-*   [recharts (⭐25k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
+*   [recharts (⭐26k)](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.
 
 ### Editors / Runner
 
@@ -1024,19 +1034,19 @@
 
 ### String / Runner
 
-*   [selecting (⭐94)](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user.
+*   [selecting (⭐95)](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user.
 *   [underscore.string (⭐3.4k)](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js JavaScript library.
 *   [URI.js (⭐6.3k)](https://github.com/medialize/URI.js/) - JavaScript URL mutation library.
-*   [url-pattern (⭐587)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
+*   [url-pattern (⭐588)](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings.
 
 ### Number / Runner
 
 *   [Numeral-js (⭐9.7k)](https://github.com/adamwdraper/Numeral-js) - A JavaScript library for formatting and manipulating numbers.
 *   [chance.js (⭐6.5k)](https://github.com/chancejs/chancejs) - Random generator helper in JavaScript. Can generate numbers, strings etc.
 *   [money.js (⭐12)](https://github.com/josscrowcroft/money.js) - A tiny (1kb) JavaScript currency conversion library, for web & nodeJS.
-*   [Fraction.js (⭐641)](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
-*   [Complex.js (⭐240)](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
-*   [Polynomial.js (⭐131)](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
+*   [Fraction.js (⭐654)](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript.
+*   [Complex.js (⭐243)](https://github.com/infusion/Complex.js) - A complex number library for JavaScript.
+*   [Polynomial.js (⭐132)](https://github.com/infusion/Polynomial.js) - A polynomials library for JavaScript.
 
 ### Storage / Runner
 
@@ -1046,7 +1056,7 @@
 
 ### I18n And L10n / Runner
 
-*   [i18next (⭐8k)](https://github.com/i18next/i18next) - internationalisation (i18n) with JavaScript the easy way.
+*   [i18next (⭐8.2k)](https://github.com/i18next/i18next) - internationalisation (i18n) with JavaScript the easy way.
 
 ### Security / Runner
 
@@ -1054,7 +1064,7 @@
 
 ### Log / Runner
 
-*   [Conzole (⭐211)](https://github.com/Oaxoa/Conzole) - A debug panel built in JavaScript that wraps JavaScript native console object methods and functionality in a panel displayed inside the page.
+*   [Conzole (⭐212)](https://github.com/Oaxoa/Conzole) - A debug panel built in JavaScript that wraps JavaScript native console object methods and functionality in a panel displayed inside the page.
 *   [minilog](http://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends.
 
 ### Vision Detection / Runner
@@ -1085,7 +1095,7 @@
 ### Notifications / Runner
 
 *   [toastr (⭐12k)](https://github.com/CodeSeven/toastr) - Simple JavaScript toast notifications.
-*   [smoke.js (⭐930)](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for JavaScript.
+*   [smoke.js (⭐929)](https://github.com/hxgf/smoke.js) - Framework-agnostic styled alert system for JavaScript.
 
 ### Sliders / Runner
 
@@ -1140,14 +1150,14 @@
 *   [Play-em JS (⭐98)](https://github.com/adrienjoly/playemjs) - Play'em is a JavaScript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
 *   [polyplayer (⭐41)](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API.
 *   [video.js (⭐39k)](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player.
-*   [Ion.Sound (⭐709)](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
+*   [Ion.Sound (⭐707)](https://github.com/IonDen/ion.sound) - Simple sounds on any web page.
 *   [photobooth-js (⭐578)](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site.
 
 ### Typography / Other
 
-*   [circletype (⭐696)](https://github.com/peterhry/circletype) - A jQuery plugin that lets you curve type on the web.
+*   [circletype (⭐699)](https://github.com/peterhry/circletype) - A jQuery plugin that lets you curve type on the web.
 *   [slabText (⭐1.3k)](https://github.com/freqDec/slabText/) - A jQuery plugin for producing big, bold & responsive headlines.
-*   [simple-text-rotator (⭐748)](https://github.com/peachananr/simple-text-rotator) - Add a super simple rotating text to your website with little to no markup.
+*   [simple-text-rotator (⭐747)](https://github.com/peachananr/simple-text-rotator) - Add a super simple rotating text to your website with little to no markup.
 *   [FitText.js (⭐6.7k)](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type.
 *   [Lettering.js (⭐5.4k)](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use JavaScript `<span>` injector for radical Web Typography.
 
@@ -1169,13 +1179,13 @@
 
 ### Sliders / Runner
 
-*   [Embla Carousel (⭐6.9k)](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
+*   [Embla Carousel (⭐7.3k)](https://github.com/davidcetinkaya/embla-carousel) - An extensible low level carousel for the web, written in TypeScript.
 
 ## [May 28, 2019](/content/2019/05/28/README.md)
 
 ### Scroll / Other
 
-*   [simpleParallax (⭐1.9k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
+*   [simpleParallax (⭐2k)](https://github.com/geosigno/simpleParallax) - Simple and tiny JavaScript library to add parallax animations on any images
 
 ## [Feb 12, 2019](/content/2019/02/12/README.md)
 
@@ -1187,7 +1197,7 @@
 
 ### Misc / Other
 
-*   [davidyezsetz/you-might-not-need-jquery-plugins (⭐139)](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins)
+*   [davidyezsetz/you-might-not-need-jquery-plugins (⭐140)](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins)
 
 ## [Jan 25, 2019](/content/2019/01/25/README.md)
 
@@ -1217,7 +1227,7 @@
 
 ### Misc / Other
 
-*   [You Don't Know JS (⭐182k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
+*   [You Don't Know JS (⭐183k)](https://github.com/getify/You-Dont-Know-JS) - Possibly the best book written on modern JavaScript, completely readable online for free, or can be bought to support the author.
 
 ## [Oct 12, 2018](/content/2018/10/12/README.md)
 
@@ -1239,7 +1249,7 @@
 
 ### Animations / Other
 
-*   [particles.js (⭐29k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
+*   [particles.js (⭐30k)](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles.
 
 ## [Apr 30, 2018](/content/2018/04/30/README.md)
 
@@ -1280,7 +1290,7 @@
 ### Storage / Runner
 
 *   [lawnchair.js (⭐2.1k)](https://github.com/brianleroux/lawnchair/) - Simple client-side JSON storage.
-*   [sql.js (⭐128)](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
+*   [sql.js (⭐130)](https://github.com/kripken/sql.js) - SQLite compiled to JavaScript through Emscripten.
 
 ### Color / Runner
 
@@ -1314,7 +1324,7 @@
 
 ### QA Tools / Runner
 
-*   [prettier (⭐50k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+*   [prettier (⭐51k)](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 
 ## [Apr 05, 2017](/content/2017/04/05/README.md)
 
@@ -1332,7 +1342,7 @@
 
 ### Timeline / Runner
 
-*   [TimelineJS v3 (⭐3k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
+*   [TimelineJS v3 (⭐3.1k)](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
 *   [timesheet.js (⭐7k)](https://github.com/sbstjn/timesheet.js) - JavaScript library for simple HTML5 & CSS3 time sheets.
 
 ## [Nov 23, 2016](/content/2016/11/23/README.md)
@@ -1361,7 +1371,7 @@
 
 ### Video/Audio / Other
 
-*   [clappr (⭐7.2k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
+*   [clappr (⭐7.3k)](https://github.com/clappr/clappr) - An extensible media player for the web <http://clappr.io>
 
 ## [Oct 23, 2016](/content/2016/10/23/README.md)
 
@@ -1401,19 +1411,19 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [preact (⭐37k)](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+*   [preact (⭐38k)](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## [Aug 04, 2016](/content/2016/08/04/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [Keo (⭐226)](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
+*   [Keo (⭐227)](https://github.com/Wildhoney/Keo) - Functional stateless React components with Shadow DOM support.
 
 ## [Jul 31, 2016](/content/2016/07/31/README.md)
 
 ### Machine Learning / Runner
 
-*   [DN2A (⭐463)](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
+*   [DN2A (⭐464)](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture.
 *   [Brain.js (⭐8k)](https://github.com/harthur/brain) - Neural networks in JavaScript.
 *   [Mind.js (⭐1.5k)](https://github.com/stevenmiller888/mind) - A flexible neural network library.
 *   [Synaptic.js (⭐6.9k)](https://github.com/cazala/synaptic) - Architecture-free neural network library for node.js and the browser.
@@ -1440,8 +1450,8 @@
 
 ### Data Visualization / Runner
 
-*   [d3 (⭐110k)](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
-*   [c3 (⭐9.3k)](https://github.com/c3js/c3) - D3-based reusable chart library.
+*   [d3 (⭐111k)](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
+*   [c3 (⭐9.4k)](https://github.com/c3js/c3) - D3-based reusable chart library.
 
 ### Documentation / Runner
 
@@ -1461,7 +1471,7 @@
 
 ### String / Runner
 
-*   [jsurl (⭐551)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
+*   [jsurl (⭐572)](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
 
 ### Sliders / Runner
 
@@ -1475,7 +1485,7 @@
 ### Misc / Other
 
 *   [grid (⭐3.6k)](https://github.com/hootsuite/grid) - Drag and drop library for two-dimensional, resizable and responsive lists.
-*   [MaximAbramchuck/awesome-interviews (⭐74k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
+*   [MaximAbramchuck/awesome-interviews (⭐76k)](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 ## [May 10, 2016](/content/2016/05/10/README.md)
 
@@ -1505,15 +1515,15 @@
 
 ### Date / Runner
 
-*   [countdown.js (⭐410)](https://github.com/gumroad/countdown.js) - Super simple countdowns.
+*   [countdown.js (⭐420)](https://github.com/gumroad/countdown.js) - Super simple countdowns.
 
 ### Loading Status / Runner
 
-*   [css-loaders (⭐7k)](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
+*   [css-loaders (⭐7.1k)](https://github.com/lukehaas/css-loaders) - A collection of loading spinners animated with CSS
 
 ### Sliders / Runner
 
-*   [Strut (⭐1.8k)](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
+*   [Strut (⭐1.9k)](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 
 ### Tips / Other
 
@@ -1532,7 +1542,7 @@
 
 *   [html5-boilerplate (⭐57k)](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 *   [mobile-boilerplate (⭐3.8k)](https://github.com/h5bp/mobile-boilerplate) - A front-end template that helps you build fast, modern mobile web apps.
-*   [webplate (⭐558)](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
+*   [webplate (⭐557)](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
 *   [Cerberus (⭐5.1k)](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
 *   [Fluid-Squares (⭐32)](https://github.com/crozynski/Fluid-Squares) - A fluid grid of square units.
 
@@ -1543,21 +1553,21 @@
 ### Typography / Other
 
 *   [FlowType.JS (⭐4.6k)](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
-*   [BigText (⭐886)](https://github.com/zachleat/BigText) - jQuery plugin, calculates the font-size and word-spacing needed to match a line of text to a specific width.
-*   [novacancy.js (⭐188)](https://github.com/chuckyglitch/novacancy.js) - Text Neon Golden effect jQuery plug-in.
-*   [jquery-responsive-text (⭐124)](https://github.com/ghepting/jquery-responsive-text) - Make your text sizing responsive!
+*   [BigText (⭐887)](https://github.com/zachleat/BigText) - jQuery plugin, calculates the font-size and word-spacing needed to match a line of text to a specific width.
+*   [novacancy.js (⭐189)](https://github.com/chuckyglitch/novacancy.js) - Text Neon Golden effect jQuery plug-in.
+*   [jquery-responsive-text (⭐125)](https://github.com/ghepting/jquery-responsive-text) - Make your text sizing responsive!
 
 ### Animations / Other
 
 *   [the-cube (⭐12)](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
-*   [animate.css (⭐81k)](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
+*   [animate.css (⭐82k)](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ### Misc / Other
 
 *   [spoiler-alert (⭐474)](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little jquery plugin to hide spoilers on your site.
 *   [jquery.vibrate.js (⭐145)](https://github.com/illyism/jquery.vibrate.js) - Vibration API Wrappers
 *   [jquery-match-height (⭐3.1k)](https://github.com/liabru/jquery-match-height) - a responsive equal heights plugin for jQuery.
-*   [sotayamashita/awesome-css (⭐5.2k)](https://github.com/sotayamashita/awesome-css)
+*   [sotayamashita/awesome-css (⭐5.3k)](https://github.com/sotayamashita/awesome-css)
 
 ## [Mar 30, 2016](/content/2016/03/30/README.md)
 
@@ -1628,7 +1638,7 @@
 
 ### Color / Runner
 
-*   [color (⭐4.8k)](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
+*   [color (⭐4.9k)](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
 
 ### Scroll / Other
 
@@ -1638,7 +1648,7 @@
 
 ### Files / Runner
 
-*   [diff2html (⭐3.1k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
+*   [diff2html (⭐3.2k)](https://github.com/rtfpessoa/diff2html) - Git diff output parser and pretty HTML generator.
 
 ## [Dec 30, 2015](/content/2015/12/30/README.md)
 
@@ -1661,7 +1671,7 @@
 ### Testing Frameworks / Frameworks
 
 *   [jasmine (⭐16k)](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
-*   [prova (⭐331)](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
+*   [prova (⭐330)](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
 
 ### Testing Frameworks / Assertion
 
@@ -1677,7 +1687,7 @@
 *   [vue (⭐209k)](https://github.com/vuejs/vue) - Intuitive, fast & composable MVVM for building interactive interfaces.
 *   [canjs (⭐1.9k)](https://github.com/canjs/canjs) - Can do JS, better, faster, easier.
 *   [derby (⭐4.7k)](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
-    *   [derby-awesome (⭐12)](https://github.com/russll/awesome-derby) - A collection of awesome derby components
+    *   [derby-awesome (⭐13)](https://github.com/russll/awesome-derby) - A collection of awesome derby components
 
 ### Data Visualization / Runner
 
@@ -1694,7 +1704,7 @@
 
 ### Date / Runner
 
-*   [ms.js (⭐5.2k)](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
+*   [ms.js (⭐5.3k)](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 
 ### Code highlighting / Runner
 
@@ -1702,7 +1712,7 @@
 
 ### Form Widgets / Calendar
 
-*   [fullcalendar (⭐19k)](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar (jQuery plugin).
+*   [fullcalendar (⭐20k)](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar (jQuery plugin).
 
 ### Form Widgets / Select
 
@@ -1714,13 +1724,13 @@
 
 ### Misc / Other
 
-*   [instanceofpro/awesome-backbone (⭐404)](https://github.com/sadcitizen/awesome-backbone)
+*   [instanceofpro/awesome-backbone (⭐405)](https://github.com/sadcitizen/awesome-backbone)
 
 ## [Oct 28, 2015](/content/2015/10/28/README.md)
 
 ### SDK / Other
 
-*   [Spotify SDK (⭐229)](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
+*   [Spotify SDK (⭐228)](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 
 ## [Oct 26, 2015](/content/2015/10/26/README.md)
 
@@ -1738,7 +1748,7 @@
 
 ### Editors / Runner
 
-*   [trix (⭐19k)](https://github.com/basecamp/trix) - A rich text editor for everyday writing. By Basecamp.
+*   [trix (⭐20k)](https://github.com/basecamp/trix) - A rich text editor for everyday writing. By Basecamp.
 
 ## [Oct 18, 2015](/content/2015/10/18/README.md)
 
@@ -1763,7 +1773,7 @@
 
 ### Misc / Other
 
-*   [peterkokot/awesome-jquery (⭐951)](https://github.com/peterkokot/awesome-jquery)
+*   [peterkokot/awesome-jquery (⭐956)](https://github.com/peterkokot/awesome-jquery)
 
 ## [Sep 07, 2015](/content/2015/09/07/README.md)
 
@@ -1812,7 +1822,7 @@
 
 ### MVC Frameworks and Libraries / Runner
 
-*   [react-native (⭐121k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
+*   [react-native (⭐123k)](https://github.com/facebook/react-native) - A framework for building native apps with React.
 
 ## [Aug 09, 2015](/content/2015/08/09/README.md)
 
@@ -1838,14 +1848,14 @@
 
 ### Misc / Other
 
-*   [enaqx/awesome-react (⭐67k)](https://github.com/enaqx/awesome-react)
+*   [enaqx/awesome-react (⭐69k)](https://github.com/enaqx/awesome-react)
 
 ## [Jul 13, 2015](/content/2015/07/13/README.md)
 
 ### Misc / Other
 
 *   [willianjusten/awesome-svg (⭐4.6k)](https://github.com/willianjusten/awesome-svg)
-*   [davidsonfellipe/awesome-wpo (⭐8.5k)](https://github.com/davidsonfellipe/awesome-wpo)
+*   [davidsonfellipe/awesome-wpo (⭐8.6k)](https://github.com/davidsonfellipe/awesome-wpo)
 
 ## [Jul 10, 2015](/content/2015/07/10/README.md)
 
@@ -1882,7 +1892,7 @@
 ### Functional Programming / Runner
 
 *   [underscore (⭐27k)](https://github.com/jashkenas/underscore) - JavaScript's utility \_ belt.
-*   [lodash (⭐60k)](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
+*   [lodash (⭐61k)](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 *   [lazy.js (⭐6k)](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 
 ### Data Structure / Runner
@@ -1899,7 +1909,7 @@
 *   [string.js (⭐1.8k)](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
 *   [he (⭐3.5k)](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 *   [multiline (⭐1.4k)](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
-*   [query-string (⭐6.8k)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
+*   [query-string (⭐6.9k)](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
 
 ### Number / Runner
 
@@ -1914,7 +1924,7 @@
 
 *   [randomColor (⭐6.1k)](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
 *   [chroma.js (⭐10k)](https://github.com/gka/chroma.js) - JavaScript library for all kinds of color manipulations.
-*   [TinyColor (⭐5.1k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
+*   [TinyColor (⭐5.2k)](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript.
 
 ### Control Flow / Runner
 
@@ -1934,7 +1944,7 @@
 
 *   [Spin.js (⭐9.3k)](https://github.com/fgnass/spin.js) - A spinning activity indicator.
 *   [pace (⭐16k)](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site.
-*   [topbar (⭐455)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
+*   [topbar (⭐464)](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator.
 *   [nanobar (⭐2.8k)](https://github.com/jacoborus/nanobar) - Very lightweight progress bars. No jQuery.
 
 ### Keyboard Wrappers / Runner
@@ -1979,7 +1989,7 @@
 
 ### Scroll / Other
 
-*   [ScrollMenu (⭐202)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
+*   [ScrollMenu (⭐201)](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 
 ## [Jun 18, 2015](/content/2015/06/18/README.md)
 
@@ -1997,7 +2007,7 @@
 
 ### Templating Engines / Runner
 
-*   [EJS (⭐7.9k)](https://github.com/mde/ejs) - Effective JavaScript templating.
+*   [EJS (⭐8k)](https://github.com/mde/ejs) - Effective JavaScript templating.
 
 ### Validation / Runner
 
@@ -2005,7 +2015,7 @@
 
 ### Misc / Other
 
-*   [obetomuniz/awesome-webcomponents (⭐643)](https://github.com/obetomuniz/awesome-webcomponents)
+*   [obetomuniz/awesome-webcomponents (⭐646)](https://github.com/obetomuniz/awesome-webcomponents)
 
 ## [Jun 08, 2015](/content/2015/06/08/README.md)
 
@@ -2021,7 +2031,7 @@
 
 ### Storage / Runner
 
-*   [bag.js (⭐90)](https://github.com/nodeca/bag.js) - A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.
+*   [bag.js (⭐89)](https://github.com/nodeca/bag.js) - A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.
 
 ### I18n And L10n / Runner
 
@@ -2035,7 +2045,7 @@
 
 ### ES6 / Other
 
-*   [Babel (Formerly 6to5) (⭐43k)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
+*   [Babel (Formerly 6to5) (⭐44k)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 
 ## [May 03, 2015](/content/2015/05/03/README.md)
 
@@ -2053,7 +2063,7 @@
 
 ### Loaders
 
-*   [ESL (⭐845)](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
+*   [ESL (⭐842)](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 
 ## [Feb 03, 2015](/content/2015/02/03/README.md)
 
@@ -2071,7 +2081,7 @@
 
 ### Editors / Runner
 
-*   [TinyMCE (⭐15k)](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
+*   [TinyMCE (⭐16k)](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
 
 ## [Dec 24, 2014](/content/2014/12/24/README.md)
 
@@ -2165,7 +2175,7 @@
 
 ### Image Processing / Other
 
-*   [lena.js (⭐666)](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
+*   [lena.js (⭐676)](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
 
 ## [Oct 08, 2014](/content/2014/10/08/README.md)
 
@@ -2190,7 +2200,7 @@
 
 ### Data Visualization / Runner
 
-*   [chartist-js (⭐79)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
+*   [chartist-js (⭐88)](https://github.com/gionkunz/chartist-js) - Simple responsive charts.
 
 ## [Aug 29, 2014](/content/2014/08/29/README.md)
 
@@ -2233,7 +2243,7 @@
 
 ### Data Structure / Runner
 
-*   [hashmap (⭐381)](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
+*   [hashmap (⭐384)](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 
 ### Range Sliders / Runner
 
@@ -2241,7 +2251,7 @@
 
 ### Gesture / Other
 
-*   [touchemulator (⭐395)](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
+*   [touchemulator (⭐398)](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
 
 ## [Aug 05, 2014](/content/2014/08/05/README.md)
 
@@ -2258,14 +2268,14 @@
 ### Range Sliders / Runner
 
 *   [Ion.RangeSlider (⭐2.6k)](https://github.com/IonDen/ion.rangeSlider) - Powerful and easily customizable range slider with many options and skin support.
-*   [noUiSlider (⭐5.7k)](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
+*   [noUiSlider (⭐5.8k)](https://github.com/leongersen/noUiSlider) - A lightweight, highly customizable range slider without bloat.
 
 ## [Aug 01, 2014](/content/2014/08/01/README.md)
 
 ### MVC Frameworks and Libraries / Runner
 
 *   [chaplin (⭐2.8k)](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
-*   [marionette (⭐7.1k)](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.
+*   [marionette (⭐7k)](https://github.com/marionettejs/backbone.marionette) - A composite application library for Backbone.js that aims to simplify the construction of large scale JavaScript applications.
 
 ## [Jul 29, 2014](/content/2014/07/29/README.md)
 
@@ -2280,7 +2290,7 @@
 ### Voice Command / Runner
 
 *   [annyang (⭐6.7k)](https://github.com/TalAter/annyang) - A JavaScript library for adding voice commands to your site, using speech recognition.
-*   [voix.js (⭐594)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
+*   [voix.js (⭐592)](https://github.com/pazguille/voix) - A JavaScript library to add voice commands to your sites, apps or games.
 
 ### API / Runner
 
@@ -2291,7 +2301,7 @@
 
 ### Control Flow / Runner
 
-*   [Bluebird (⭐20k)](https://github.com/petkaantonov/bluebird/) - fully featured promise library with focus on innovative features and performance.
+*   [Bluebird (⭐21k)](https://github.com/petkaantonov/bluebird/) - fully featured promise library with focus on innovative features and performance.
 
 ## [Jul 27, 2014](/content/2014/07/27/README.md)
 
@@ -2299,7 +2309,7 @@
 
 *   [JSHint (⭐9k)](https://github.com/jshint/jshint/) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 *   [jsfmt (⭐1.7k)](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
-*   [buddy.js (⭐879)](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
+*   [buddy.js (⭐884)](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 
 ## [Jul 25, 2014](/content/2014/07/25/README.md)
 
@@ -2313,13 +2323,13 @@
 
 ### Control Flow / Runner
 
-*   [contra (⭐779)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
+*   [contra (⭐778)](https://github.com/bevacqua/contra/) - Asynchronous flow control with a functional taste to it.
 
 ## [Jul 24, 2014](/content/2014/07/24/README.md)
 
 ### Maps / Other
 
-*   [Cesium (⭐13k)](https://github.com/AnalyticalGraphicsInc/cesium) - Open Source WebGL virtual globe and map engine.
+*   [Cesium (⭐14k)](https://github.com/AnalyticalGraphicsInc/cesium) - Open Source WebGL virtual globe and map engine.
 
 ## [Jul 23, 2014](/content/2014/07/23/README.md)
 
@@ -2331,7 +2341,7 @@
 
 ### Files / Runner
 
-*   [jBinary (⭐545)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+*   [jBinary (⭐546)](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 
 ## [Jul 19, 2014](/content/2014/07/19/README.md)
 
@@ -2348,7 +2358,7 @@
 
 ### Scroll / Other
 
-*   [skrollr (⭐19k)](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery.
+*   [skrollr (⭐18k)](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery.
 *   [parallax (⭐17k)](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device.
 *   [stellar.js (⭐4.6k)](https://github.com/markdalgleish/stellar.js) - Parallax scrolling made easy.
 *   [plax (⭐2.3k)](https://github.com/cameronmcefee/plax) - jQuery powered parallaxing.
@@ -2358,13 +2368,13 @@
 
 ### Animations / Other
 
-*   [GreenSock-JS (⭐21k)](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
+*   [GreenSock-JS (⭐22k)](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
 
 ## [Jul 14, 2014](/content/2014/07/14/README.md)
 
 ### Data Visualization / Runner
 
-*   [three.js (⭐105k)](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+*   [three.js (⭐108k)](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 
 ### Color / Runner
 
@@ -2372,7 +2382,7 @@
 
 ### Security / Runner
 
-*   [DOMPurify (⭐15k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
+*   [DOMPurify (⭐16k)](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
 *   [js-xss (⭐5.3k)](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
 
 ### Loading Status / Runner
@@ -2396,9 +2406,9 @@
 
 ### Misc / Other
 
-*   [emijrp/awesome-awesome (⭐2.9k)](https://github.com/emijrp/awesome-awesome)
-*   [bayandin/awesome-awesomeness (⭐32k)](https://github.com/bayandin/awesome-awesomeness)
-*   [sindresorhus/awesome (⭐352k)](https://github.com/sindresorhus/awesome)
+*   [emijrp/awesome-awesome (⭐3k)](https://github.com/emijrp/awesome-awesome)
+*   [bayandin/awesome-awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness)
+*   [sindresorhus/awesome (⭐381k)](https://github.com/sindresorhus/awesome)
 *   [jnv/list (⭐10k)](https://github.com/jnv/lists)
 
 ## [Jul 13, 2014](/content/2014/07/13/README.md)
@@ -2406,7 +2416,7 @@
 ### MVC Frameworks and Libraries / Runner
 
 *   [ember.js (⭐23k)](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
-*   [knockout (⭐10k)](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
+*   [knockout (⭐11k)](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
 *   [spine (⭐3.7k)](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
 
 ### Data Visualization / Runner
@@ -2437,7 +2447,7 @@
 ### Validation / Runner
 
 *   [jquery-validation (⭐10k)](https://github.com/jzaefferer/jquery-validation) - jQuery Validation Plugin.
-*   [validator.js (⭐23k)](https://github.com/chriso/validator.js) - String validation and sanitization.
+*   [validator.js (⭐24k)](https://github.com/chriso/validator.js) - String validation and sanitization.
 *   [validate.js (⭐2.6k)](https://github.com/rickharrison/validate.js) - Lightweight JavaScript form validation library inspired by CodeIgniter.
 
 ### Keyboard Wrappers / Runner
@@ -2464,12 +2474,12 @@
 *   [FlexSlider (⭐4.9k)](https://github.com/woothemes/FlexSlider) - An awesome, fully responsive jQuery slider plugin.
 *   [sly (⭐2.9k)](https://github.com/darsain/sly) - JavaScript library for one-directional scrolling with item based navigation support.
 *   [vegas (⭐1.8k)](https://github.com/jaysalvat/vegas) - A jQuery plugin to add beautiful fullscreen backgrounds to your webpages. It even allows Slideshows.
-*   [Sequence (⭐3.4k)](https://github.com/IanLunn/Sequence) - CSS animation framework for creating responsive sliders, presentations, banners, and other step-based applications.
+*   [Sequence (⭐3.3k)](https://github.com/IanLunn/Sequence) - CSS animation framework for creating responsive sliders, presentations, banners, and other step-based applications.
 
 ### Form Widgets / Input
 
 *   [tag-it (⭐2.5k)](https://github.com/aehlke/tag-it) - A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
-*   [Placeholders.js (⭐948)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
+*   [Placeholders.js (⭐946)](https://github.com/jamesallardice/Placeholders.js) - A JavaScript polyfill for the HTML5 placeholder attribute.
 *   [fancyInput (⭐1.9k)](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects.
 *   [jQuery-Tags-Input (⭐2.3k)](https://github.com/xoxco/jQuery-Tags-Input) - Magically convert a simple text input into a cool tag list with this jQuery plugin.
 
@@ -2477,7 +2487,7 @@
 
 *   [pickadate.js (⭐7.7k)](https://github.com/amsul/pickadate.js) - The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
 *   [bootstrap-datepicker (⭐13k)](https://github.com/eternicode/bootstrap-datepicker) - A datepicker for @twitter bootstrap forked from Stefan Petre's (of eyecon.ro), improvements by @eternicode.
-*   [Pikaday (⭐8k)](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.
+*   [Pikaday (⭐8.1k)](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS.
 
 ### Form Widgets / Select
 
@@ -2500,12 +2510,12 @@
 *   [tipsy (⭐2k)](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
 *   [qTip2 (⭐2k)](https://github.com/qTip2/qTip2) - Pretty powerful tooltips.
 *   [tooltipster (⭐2.8k)](https://github.com/iamceege/tooltipster) - A jQuery tooltip plugin.
-*   [simptip (⭐649)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
+*   [simptip (⭐644)](https://github.com/arashmanteghi/simptip) - A simple CSS tooltip made with Sass.
 
 ### Modals and Popups / Other
 
 *   [Magnific-Popup (⭐11k)](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
-*   [jquery-popbox (⭐420)](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
+*   [jquery-popbox (⭐419)](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
 *   [jquery.avgrund.js (⭐1.8k)](https://github.com/voronianski/jquery.avgrund.js) - A jQuery plugin with new modal concept for popups.
 *   [vex (⭐6.9k)](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style.
 *   [bootstrap-modal (⭐5k)](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
@@ -2513,7 +2523,7 @@
 
 ### Maps / Other
 
-*   [Leaflet (⭐42k)](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
+*   [Leaflet (⭐43k)](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
 *   [gmaps (⭐7k)](https://github.com/HPNeo/gmaps) - The easiest way to use Google Maps.
 *   [polymaps (⭐1.6k)](https://github.com/simplegeo/polymaps) - A free JavaScript library for making dynamic, interactive maps in modern web browsers.
 *   [kartograph.js (⭐1.5k)](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps.
@@ -2529,14 +2539,14 @@
 ### Testing Frameworks / Coverage
 
 *   [istanbul (⭐8.7k)](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
-*   [JSCover (⭐399)](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
+*   [JSCover (⭐398)](https://github.com/tntim96/JSCover) - JSCover is a tool that measures code coverage for JavaScript programs.
 
 ### Testing Frameworks / Runner
 
-*   [phantomjs (⭐30k)](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
+*   [phantomjs (⭐29k)](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
 *   [slimerjs (⭐3k)](https://github.com/laurentj/slimerjs) - A PhantomJS-like tool running Gecko.
 *   [zombie (⭐5.6k)](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
-*   [totoro (⭐565)](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
+*   [totoro (⭐564)](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 *   [karma (⭐12k)](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
 
 ## [Jul 09, 2014](/content/2014/07/09/README.md)
@@ -2544,8 +2554,8 @@
 ### Editors / Runner
 
 *   [ace (⭐27k)](https://github.com/ajaxorg/ace) - Ace (Ajax.org Cloud9 Editor).
-*   [esprima (⭐409)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
-*   [quill (⭐45k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
+*   [esprima (⭐410)](https://github.com/ariya/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
+*   [quill (⭐46k)](https://github.com/quilljs/quill) - A cross browser rich text editor with an API.
 *   [pen (⭐4.8k)](https://github.com/sofish/pen) - enjoy live editing (+markdown).
 *   [jquery-notebook (⭐1.7k)](https://github.com/raphaelcruzeiro/jquery-notebook) - A simple, clean and elegant text editor. Inspired by the awesomeness of Medium.
 *   [ckeditor-releases (⭐523)](https://github.com/ckeditor/ckeditor-releases) - The best web text editor for everyone.
@@ -2569,9 +2579,9 @@
 
 *   [peity (⭐4.2k)](https://github.com/benpickles/peity) - Progressive <svg> bar, line and pie charts.
 *   [raphael (⭐11k)](https://github.com/DmitryBaranovskiy/raphael) - JavaScript Vector Library.
-*   [two.js (⭐8.4k)](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
+*   [two.js (⭐8.5k)](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
 *   [g.raphael (⭐1.5k)](https://github.com/DmitryBaranovskiy/g.raphael) - Charts for Raphaël.
-*   [sigma.js (⭐11k)](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing.
+*   [sigma.js (⭐12k)](https://github.com/jacomyal/sigma.js) - A JavaScript library dedicated to graph drawing.
 *   [arbor (⭐2.7k)](https://github.com/samizdatco/arbor) - A graph visualization library using web workers and jQuery.
 *   [cubism (⭐4.9k)](https://github.com/square/cubism) - A D3 plugin for visualizing time series.
 *   [dc.js (⭐7.4k)](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
@@ -2583,7 +2593,7 @@
 *   [svg.js (⭐11k)](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG.
 *   [heatmap.js (⭐6.3k)](https://github.com/pa7/heatmap.js) - JavaScript Library for HTML5 canvas based heatmaps.
 *   [d3-cloud (⭐3.9k)](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
-*   [d4 (⭐432)](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
+*   [d4 (⭐433)](https://github.com/heavysixer/d4) - A friendly reusable charts DSL for D3.
 
 ## [Jul 03, 2014](/content/2014/07/03/README.md)
 
@@ -2604,7 +2614,7 @@
 ### Date / Runner
 
 *   [moment-timezone (⭐3.9k)](https://github.com/moment/moment-timezone) - Timezone support for moment.js.
-*   [timezone-js (⭐822)](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
+*   [timezone-js (⭐821)](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
 
 ### String / Runner
 
@@ -2615,4 +2625,4 @@
 ### Loading Status / Runner
 
 *   [progress.js (⭐2.4k)](https://github.com/usablica/progress.js) - Create and manage progress bar for every objects on the page.
-*   [PageLoadingEffects (⭐648)](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.
+*   [PageLoadingEffects (⭐646)](https://github.com/codrops/PageLoadingEffects) - Modern ways of revealing new content using SVG animations.

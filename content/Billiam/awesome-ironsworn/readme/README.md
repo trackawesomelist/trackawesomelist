@@ -2,7 +2,7 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 144 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 152 · 🏷️ Gaming
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / Overview ]
 
@@ -30,9 +30,11 @@ made by you on those sites when using these links*
 
 ## Official content
 
-*   [Ironsworn](https://www.ironswornrpg.com/) - A tabletop RPG of perilous quests
-*   [Ironsworn: Delve](https://shawn-tomkin.itch.io/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game taking your quests to the deepest, darkest reaches of the Ironlands
-*   [Ironsworn: Starforged](https://www.ironswornrpg.com/product-ironsworn-starforged) -  The sci-fi evolution of the award-winning tabletop roleplaying game
+*   [Ironsworn](https://tomkinpress.com/pages/ironsworn) - A tabletop RPG of perilous quests
+*   [Ironsworn: Delve](https://tomkinpress.com/pages/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game taking your quests to the deepest, darkest reaches of the Ironlands
+*   [Ironsworn: Starforged](https://tomkinpress.com/pages/ironsworn-starforged) - The sci-fi evolution of the award-winning tabletop roleplaying game
+*   [Lodestar](https://tomkinpress.com/collections/all-products/products/ironsworn-lodestar-expanded-reference-guide) - Reference guide for Ironsworn and Ironsworn: Delve
+*   [Sundered Isles](https://tomkinpress.com/pages/sundered-isles) - Supplement for Ironsworn: Starforged with guidelines, options, and tools for exploring a world of fantasy seafaring adventure
 
 ## Community
 
@@ -56,7 +58,7 @@ made by you on those sites when using these links*
 *   [Iron Fellowship](https://iron-fellowship.scottbenton.dev/) - Synced character sheet and campaign manager for Ironsworn
 *   [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
 *   [Iron Vault](https://ironvault.quest) - Ironsworn/Starforged plugin for [Obsidian](https://obsidian.md/)
-*   [IronWriter (⭐56)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
+*   [IronWriter (⭐57)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
 *   [Ironsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/ironsmith-expanded-oracles) - A FoundryVTT compendium of the Ironsmith oracles for Ironsworn
 *   [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions?affiliate_id=844973) - Questions to help build NPC relationships
 *   [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
@@ -78,8 +80,8 @@ made by you on those sites when using these links*
 ## Resources
 
 *   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System?affiliate_id=844973) - Character building card sets for Ironsworn
-*   [DataForged (⭐197)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐135)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐200)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐136)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Forge Codex](https://www.drivethrurpg.com/en/product/490797/forge-codex-001?affiliate_id=844973) - Modular supplement with locations, characters, and encounters for Starforged
 *   [Iron Atlas](https://jaderavens.itch.io/iron-atlas-omnibus) - Explore the Ironlands with 100 hand-drawn maps, plus oracles for weather, flora, & fauna
 *   [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1) - A short guide to adapt Starforged to be set in the Ironlands, with printable adapted Ironsworn asset cards
@@ -202,5 +204,5 @@ made by you on those sites when using these links*
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines (⭐144)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines (⭐152)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
 

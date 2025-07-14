@@ -2,7 +2,7 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 286 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 302 · 🏷️ Gaming
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / Overview ]
 
@@ -34,6 +34,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
     *   [YouTube Playables](#youtube-playables)
 *   [Automotive](#automotive)
 *   [Product Configurators](#product-configurators)
+*   [3D Gaussian Splatting](#3d-gaussian-splatting)
 *   [AR/VR/XR](#arvrxr)
 *   [Generative AI](#generative-ai)
 *   [Blockchain/Crypto/NFT](#blockchaincryptonft)
@@ -41,13 +42,13 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ## PlayCanvas Products
 
 *   [PlayCanvas Engine (⭐10k)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
-*   [PlayCanvas React (⭐220)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
-*   [PlayCanvas Web Components (⭐33)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
 *   [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
+*   [PlayCanvas React (⭐251)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
+*   [PlayCanvas Web Components (⭐42)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
 *   [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 *   [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
 *   [Texture Tool (⭐7)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
-*   [PCUI (⭐701)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
+*   [PCUI (⭐705)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
 
 ## Community
 
@@ -61,8 +62,8 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## Documentation
 
-*   [API Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
-*   [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
+*   [API Reference](https://api.playcanvas.com/) - API Reference Site.
+*   [Developer Site](https://developer.playcanvas.com/) - PlayCanvas Developer Site.
 
 ## Tutorials
 
@@ -79,16 +80,15 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ## Extensions and Utilities
 
 *   [8th Wall](https://www.8thwall.com/docs/api/playcanvas/getting-started/) - Markerless AR runtime.
-*   [playcanvas-ar (⭐242)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
+*   [playcanvas-ar (⭐243)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 *   [playcanvas-node (⭐5)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
 *   [playcanvas-p2.js (⭐23)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
 *   [playcanvas-rest-api-tools (⭐25)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 *   [playcanvas-spine (⭐50)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
-*   [playcanvas-tween (⭐64)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
+*   [playcanvas-tween (⭐65)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 *   [playcanvas-vue (⭐45)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
-*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐6.9k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
+*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐7.1k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
 *   [tween.js (⭐10k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-*   [Solar Tools](https://solargames.io/tools/) - A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc.
 *   [Sublime Completions (⭐4)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 *   [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - VS Code Extension that can be used instead of the built-in Code Editor.
 
@@ -118,7 +118,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Realise](https://gaffen.itch.io/realise) - A video game to accompany the new EP from Hearse Pileup.
 *   [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 *   [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
-*   [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 *   [Virtual Statues](https://playcanv.as/e/p/cLkf99ZV/) - A digital museum built with 3D Gaussian Splatting.
 *   [Wild Rift](https://unlock.wildrift.leagueoflegends.com/) - Solve the puzzle to unlock a League of Legends: Wild Rift character.
 
@@ -236,6 +235,19 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [WFI](https://configurator.wfi.se/#/?lang=en) - Workstation configurator.
 *   [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
+## 3D Gaussian Splatting
+
+*   [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer using splats for product visualization.
+*   [4DV](https://www.4dv.ai/) - Impressive implementation of animated Gaussian splats (4DGS).
+*   [Arrival Space](https://arrival.space/) - Social metaverse built on splat-based spaces.
+*   [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
+*   [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
+*   [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.
+*   [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
+*   [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
+*   [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
+*   [The Season](https://adnfamily.com/studio/mj/the_season/immersive/index.html) - Real estate visualization of a modern apartment block.
+
 ## AR/VR/XR
 
 *   [Orange Room](https://playcanv.as/p/1ha5glKf/) - A highly realistic interior environment demonstrating room-scale VR.
@@ -260,5 +272,5 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## Contributing
 
-Please see [CONTRIBUTING (⭐286)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING (⭐302)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
 

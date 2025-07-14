@@ -2,7 +2,7 @@
 
 Design and development guides
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/NARKOZ/guides/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 NARKOZ/guides](https://github.com/NARKOZ/guides) · ⭐ 2.2K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/NARKOZ/guides/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 NARKOZ/guides](https://github.com/NARKOZ/guides) · ⭐ 2.3K · 🏷️ Miscellaneous
 
 [ [Daily](/content/NARKOZ/guides/README.md) / [Weekly](/content/NARKOZ/guides/week/README.md) / Overview ]
 
@@ -104,7 +104,7 @@ coding style guides and development practices across the web.
 ### C++
 
 *   [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-*   [C++ Core Guidelines (⭐42k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
+*   [C++ Core Guidelines (⭐44k)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#readme)
 
 ### C\#
 
@@ -113,7 +113,7 @@ coding style guides and development practices across the web.
 
 ### Clojure
 
-*   [Clojure Style Guide (⭐4k)](https://github.com/bbatsov/clojure-style-guide#readme)
+*   [Clojure Style Guide (⭐4.1k)](https://github.com/bbatsov/clojure-style-guide#readme)
 
 ### CoffeeScript
 
@@ -121,11 +121,11 @@ coding style guides and development practices across the web.
 
 ### Elixir
 
-*   [Elixir Style Guide (⭐4.3k)](https://github.com/christopheradams/elixir_style_guide#readme)
+*   [Elixir Style Guide (⭐4.4k)](https://github.com/christopheradams/elixir_style_guide#readme)
 
 ### Go
 
-*   [Go Code Review Comments (⭐123k)](https://github.com/golang/go/wiki/CodeReviewComments)
+*   [Go Code Review Comments (⭐129k)](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ### Haskell
 
@@ -136,11 +136,11 @@ coding style guides and development practices across the web.
 *   [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
 *   \[UPDATED] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 *   [Principles of Writing Consistent, Idiomatic JavaScript (⭐25k)](https://github.com/rwaldron/idiomatic.js#readme)
-*   [Airbnb JavaScript Style Guide (⭐145k)](https://github.com/airbnb/javascript#readme)
+*   [Airbnb JavaScript Style Guide (⭐147k)](https://github.com/airbnb/javascript#readme)
 *   [JavaScript: The Right Way](http://jstherightway.org/)
-*   [ES6 Coding Style (⭐399)](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
+*   [ES6 Coding Style (⭐400)](https://github.com/elierotenberg/coding-styles/blob/master/es6.md#readme)
 *   [JavaScript SDK Design Guide (⭐1.4k)](https://github.com/hueitan/javascript-sdk-design#readme)
-*   [Project Guidelines (⭐29k)](https://github.com/elsewhencode/project-guidelines#readme)
+*   [Project Guidelines (⭐30k)](https://github.com/elsewhencode/project-guidelines#readme)
 
 ### Java
 
@@ -159,7 +159,7 @@ coding style guides and development practices across the web.
 
 ### Perl
 
-*   \[PDF] [Perl Best Practices Quick Reference Guide](https://www.squirrel.nl/pub/PBP_refguide-1.02.00.pdf)
+*   \[PDF] [Perl Best Practices Quick Reference Guide](https://rperl.org/docs/PBP_refguide-1.02.00.pdf)
 
 ### Python
 
@@ -168,12 +168,12 @@ coding style guides and development practices across the web.
 
 ### Ruby
 
-*   [Ruby Style Guide (⭐16k)](https://github.com/rubocop/ruby-style-guide#readme)
+*   [Ruby Style Guide (⭐17k)](https://github.com/rubocop/ruby-style-guide#readme)
 *   [Ruby Style Guidelines](https://caliban.org/ruby/rubyguide.shtml#style)
 
 ### Rust
 
-*   [Rust Style Guide (⭐97k)](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide)
+*   [Rust Style Guide (⭐105k)](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide)
 
 ### Scala
 
@@ -207,7 +207,7 @@ coding style guides and development practices across the web.
 ### RSpec
 
 *   [Better Specs { rspec guidelines with ruby }](https://www.betterspecs.org/)
-*   [RSpec Style Guide (⭐952)](https://github.com/rubocop/rspec-style-guide#readme)
+*   [RSpec Style Guide (⭐968)](https://github.com/rubocop/rspec-style-guide#readme)
 *   [Even Better Specs | Guidelines for Maintainable Tests](https://evenbetterspecs.github.io/)
 
 ### Rails
@@ -253,7 +253,7 @@ coding style guides and development practices across the web.
 ### Git
 
 *   [Git Style Guide (⭐5.1k)](https://github.com/agis/git-style-guide#readme)
-*   [Commit messages guide (⭐6.7k)](https://github.com/RomuloOliveira/commit-messages-guide#readme)
+*   [Commit messages guide (⭐6.8k)](https://github.com/RomuloOliveira/commit-messages-guide#readme)
 
 ### JSON
 
@@ -266,7 +266,7 @@ coding style guides and development practices across the web.
 ### Node.js
 
 *   [Node.js Style Guide (⭐5k)](https://github.com/felixge/node-style-guide#readme)
-*   [Node.js Best Practices (⭐99k)](https://github.com/goldbergyoni/nodebestpractices#readme)
+*   [Node.js Best Practices (⭐103k)](https://github.com/goldbergyoni/nodebestpractices#readme)
 
 ### Security
 
@@ -291,7 +291,7 @@ coding style guides and development practices across the web.
 ## Contributing
 
 Any improvements or suggestions are welcome!
-See [Contribution Guides (⭐2.2k)](https://github.com/NARKOZ/guides/blob/master/CONTRIBUTING.md).
+See [Contribution Guides (⭐2.3k)](https://github.com/NARKOZ/guides/blob/master/CONTRIBUTING.md).
 
 ***
 

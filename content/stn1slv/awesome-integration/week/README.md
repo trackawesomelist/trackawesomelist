@@ -2,99 +2,197 @@
 
 A curated list of awesome system integration software and resources.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stn1slv/awesome-integration/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) · ⭐ 441 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stn1slv/awesome-integration/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stn1slv/awesome-integration](https://github.com/stn1slv/awesome-integration) · ⭐ 462 · 🏷️ Platforms
 
 [ [Daily](/content/stn1slv/awesome-integration/README.md) / Weekly / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
-## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
+## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐250) (⭐248)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
-*   [WSO2 API Manager (⭐895) (⭐893)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+*   [Gravitee.io API Management (⭐273) (⭐273)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [Traefik API Management](https://traefik.io/traefik-hub) - Provides an API Management as Code platform to DevOps and Platform Engineering Teams who favor less ClickOps and more GitOps-driven API lifecycle workflows.
+*   [WSO2 API Manager (⭐906) (⭐906)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
 
 ### Projects / API Design
 
-*   [OpenAPI Diff (⭐921) (⭐919)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-*   [OpenAPI Style Validator (⭐215) (⭐214)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
+*   [Apicurio Studio (⭐1k) (⭐1k)](https://github.com/apicurio/apicurio-studio) - A web-based, open-source API design tool that leverages the OpenAPI specification.
+*   [OpenAPI Diff (⭐951) (⭐953)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+*   [OpenAPI Generator (⭐24k) (⭐24k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
+*   [OpenAPI Style Validator (⭐218) (⭐218)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
+*   [Swagger Editor (⭐9.2k) (⭐9.2k)](https://github.com/swagger-api/swagger-editor) - Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.
+*   [Zally (⭐926) (⭐926)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
 ### Projects / API Documentation
 
-*   [DapperDox (⭐420) (⭐416)](https://github.com/DapperDox/dapperdox) - Generates elegant, interactive API documentation from OpenAPI/Swagger specs with easy customization and automated updates.
-*   [OpenAPI Explorer (⭐331) (⭐330)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
-*   [Zudoku (⭐206) (⭐191)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
-
-### Projects / BRE
-
-*   [OpenL Tablets (⭐166) (⭐165)](https://github.com/openl-tablets/openl-tablets) - Flexible open-source decision management system that simplifies defining and executing business rules and decision tables.
-
-### Projects / Data Mapping Solution
-
-*   [AtlasMap (⭐201) (⭐202)](https://github.com/atlasmap/atlasmap) - Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.
-*   [JSLT (⭐660) (⭐658)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
-
-### Projects / Integration Frameworks
-
-*   [Frank!Framework (⭐138) (⭐139)](https://github.com/frankframework/frankframework) - Low-code Java messaging framework that simplifies system connectivity and data integration through configurable XML setups.
-
-### Projects / Self-Service Integration
-
-*   [n8n (⭐96k) (⭐97k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
-
-### Projects / Workflow engine
-
-*   [Temporal (⭐14k) (⭐14k)](https://github.com/temporalio/temporal) - Open-source workflow-as-code platform designed for building reliable, scalable, and fault-tolerant applications.
-
-### Resources / Data Formats
-
-*   [YAML (⭐396) (⭐393)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
-
-## [May 19 - May 25, 2025](/content/2025/20/README.md)
+*   [OpenAPI Explorer (⭐334) (⭐334)](https://github.com/Rhosys/openapi-explorer) - Creates intuitive, interactive user interfaces from OpenAPI specs, simplifying API exploration and testing.
+*   [RapiDoc (⭐1.8k) (⭐1.8k)](https://github.com/rapi-doc/RapiDoc) - Produces highly customizable, interactive API documentation with responsive design and rich configuration options.
+*   [Zudoku (⭐256) (⭐262)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 ### Projects / API Gateway
 
-*   [Gloo Edge (⭐90) (⭐89)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
+*   [Apache ShenYu (⭐8.6k) (⭐8.6k)](https://github.com/apache/shenyu) - A Java-native gateway excelling in protocol conversion, service proxying, and comprehensive API governance.
+*   [Envoy Gateway (⭐1.9k) (⭐2k)](https://github.com/envoyproxy/gateway) - CNCF Envoy-based gateway with Gateway API, mTLS, JWT, and other built-ins.
+*   [Gloo Edge (⭐106) (⭐106)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
+*   [Kong API Gateway (⭐41k) (⭐41k)](https://github.com/Kong/kong) - A scalable, cloud-native gateway that simplifies API management through extensive plugin support and seamless microservices integration.
+*   [Traefik API Gateway (⭐55k) (⭐56k)](https://github.com/traefik/traefik) - Combines Traefik Proxy, a fully declarative application proxy with enterprise-grade access control, distributed security, and premium integrations.
 
 ### Projects / API Testing
 
 *   MQ clients
-    *   [JMSToolBox (⭐214) (⭐212)](https://github.com/jmstoolbox/jmstoolbox) - A universal JMS client offering broad compatibility and streamlined messaging testing across various brokers.
+    *   [JMSToolBox (⭐216) (⭐216)](https://github.com/jmstoolbox/jmstoolbox) - A universal JMS client offering broad compatibility and streamlined messaging testing across various brokers.
     *   [kcat (⭐5.5k) (⭐5.6k)](https://github.com/edenhill/kcat) - A lightweight command-line tool for Apache Kafka, providing efficient message production and consumption.
-    *   [MQTT Explorer (⭐3.3k) (⭐3.4k)](https://github.com/thomasnordquist/MQTT-Explorer) - A detailed MQTT client delivering structured topic visualization and intuitive debugging.
+    *   [MQTT Explorer (⭐3.4k) (⭐3.5k)](https://github.com/thomasnordquist/MQTT-Explorer) - A detailed MQTT client delivering structured topic visualization and intuitive debugging.
     *   [Offset Explorer](https://www.kafkatool.com) - A comprehensive GUI for managing Apache Kafka clusters with user-friendly monitoring and administration tools.
-    *   [Service Bus Explorer (⭐2k) (⭐2.1k)](https://github.com/paolosalvatori/ServiceBusExplorer) - An advanced GUI for Azure Service Bus that enables in-depth testing and seamless management of topics, queues, and subscriptions.
+    *   [Service Bus Explorer (⭐2.1k) (⭐2.1k)](https://github.com/paolosalvatori/ServiceBusExplorer) - An advanced GUI for Azure Service Bus that enables in-depth testing and seamless management of topics, queues, and subscriptions.
+*   Testing tools and frameworks
+    *   [Apache JMeter (⭐8.8k) (⭐8.9k)](https://github.com/apache/jmeter) - A feature-rich tool for load testing and performance analysis across diverse web applications and services.
+    *   [Gatling (⭐6.7k) (⭐6.7k)](https://github.com/gatling/gatling) - A powerful load testing framework with a developer-friendly DSL that delivers detailed performance metrics.
+    *   [Grafana k6 (⭐28k) (⭐28k)](https://github.com/grafana/k6) - Open-source, JS-scriptable load-testing tool for CI/CD.
+    *   [Karate (⭐8.5k) (⭐8.6k)](https://github.com/karatelabs/karate) - A unified testing framework that merges API automation, mocking, and performance testing with simple, expressive syntax.
+    *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - A Python-based testing tool offering easy YAML/JSON-driven REST API testing and microbenchmarking.
+    *   [REST Assured (⭐6.9k) (⭐7k)](https://github.com/rest-assured/rest-assured) - A Java DSL that simplifies REST API testing with intuitive syntax and seamless integration into CI pipelines.
+    *   [Schemathesis (⭐2.5k) (⭐2.6k)](https://github.com/schemathesis/schemathesis) - A Python library for property-based testing of API schemas, ensuring reliability through robust edge-case detection.
+    *   [Taurus (⭐2k) (⭐2.1k)](https://github.com/Blazemeter/taurus) - An open-source automation framework that simplifies continuous testing with intuitive configuration and integration support.
+
+### Projects / BRE
+
+*   [OpenL Tablets (⭐172) (⭐172)](https://github.com/openl-tablets/openl-tablets) - Flexible open-source decision management system that simplifies defining and executing business rules and decision tables.
+*   [ZEN Engine (⭐1.1k) (⭐1.2k)](https://github.com/gorules/zen) - A cross-platform, open-source Business Rules Engine written in Rust that executes JSON Decision Models through interconnected graphs of decision tables, functions, and expressions.
+
+### Projects / Data Mapping Solution
+
+*   [AtlasMap (⭐203) (⭐203)](https://github.com/atlasmap/atlasmap) - Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.
+*   [JSLT (⭐670) (⭐670)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
+
+### Projects / CDC
+
+*   [Debezium (⭐11k) (⭐12k)](https://github.com/debezium/debezium) - Open-source distributed platform for change data capture that turns your existing databases into event streams for real-time data integration.
+*   [IBM InfoSphere CDC](https://www.ibm.com/products/infosphere-change-data-capture) - Enterprise CDC solution that captures and delivers data changes with minimal impact on source systems and low latency.
+*   [Maxwell's daemon (⭐4.1k) (⭐4.2k)](https://github.com/zendesk/maxwell) - An open-source CDC tool for MySQL that reads database binlogs and streams row-level changes as JSON to systems like Kafka, Kinesis, or other destinations.
+*   [Oracle GoldenGate](https://www.oracle.com/integration/goldengate/) - Enterprise-grade real-time data integration and replication solution that provides comprehensive CDC capabilities for heterogeneous databases and cloud platforms.
+*   [Qlik Replicate](https://www.qlik.com/us/products/qlik-replicate) - Universal data replication software that provides real-time CDC capabilities for modern data architecture and analytics.
+
+### Projects / ESB
+
+*   [WSO2 Enterprise Integrator (⭐384) (⭐384)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
 
 ### Projects / ETL
 
-*   [Pentaho Data Integration (⭐8k) (⭐8k)](https://github.com/pentaho/pentaho-kettle) - Intuitive, visual ETL tool that simplifies data ingestion, blending, and cleansing across multiple sources without heavy coding.
+*   [Apache InLong (⭐1.4k) (⭐1.4k)](https://github.com/apache/inlong) - One-stop, full-scenario integration framework for massive data that supports data ingestion, synchronization, and subscription with real-time ETL capabilities.
+*   [Apache NiFi (⭐5.4k) (⭐5.5k)](https://github.com/apache/nifi) - Automated data integration tool with a visual interface that seamlessly extracts, transforms, and delivers data across systems.
+*   [Estuary Flow (⭐768) (⭐770)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
+*   [Fivetran](https://www.fivetran.com/) - Managed ELT that syncs 700 + sources to data warehouses.
+
+### Projects / Integration Frameworks
+
+*   [Frank!Framework (⭐141) (⭐142)](https://github.com/frankframework/frankframework) - Low-code Java messaging framework that simplifies system connectivity and data integration through configurable XML setups.
+
+### Projects / iPaaS
+
+*   [TIBCO Cloud Integration](https://docs.tibco.com/products/tibco-cloud-integration-ipaas) - Flexible, API-led and event-driven platform that empowers you to integrate virtually any system quickly.
+
+### Projects / MaaS
+
+*   [Azure Event Hubs](https://azure.microsoft.com/en-us/products/event-hubs/) - A high-throughput, fully managed event-ingestion (publish-subscribe) service, supports the Kafka protocol natively.
+
+### Projects / MFT
+
+*   [JSCAPE MFT Server](https://www.jscape.com/products/file-transfer-servers/jscape-mft-server) - Secure, protocol-agnostic platform with automation and compliance.
+
+### Projects / MDM
+
+*   [TIBCO EBX](https://www.tibco.com/products/ebx) - Comprehensive platform for governing and managing shared data assets, ensuring consistency and enabling smarter decisions.
 
 ### Projects / Messaging
 
-*   [Eclipse Mosquitto (⭐9.7k) (⭐9.7k)](https://github.com/eclipse/mosquitto) - Lightweight MQTT broker optimized for low-power devices with robust encryption and authentication.
-*   [VerneMQ (⭐3.3k) (⭐3.3k)](https://github.com/vernemq/vernemq) - High-performance distributed MQTT broker designed for scalable and efficient message delivery in modern environments.
+*   [Apache ActiveMQ Artemis (⭐973) (⭐973)](https://github.com/apache/activemq-artemis) - Next-generation message broker from Apache ActiveMQ with high performance, clustering support, and multi-protocol capabilities.
+*   [Apache Qpid (⭐59) (⭐59)](https://github.com/apache/qpid-broker-j) - AMQP-compliant messaging tool with multi-language support for enterprise-grade message delivery.
+*   [Centrifugo (⭐9k) (⭐9.1k)](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server that minimizes delay in delivering events to online users.
+*   [Eclipse Mosquitto (⭐9.8k) (⭐9.9k)](https://github.com/eclipse/mosquitto) - Lightweight MQTT broker optimized for low-power devices with robust encryption and authentication.
+*   [EMQX (⭐15k) (⭐15k)](https://github.com/emqx/emqx) - High-performance MQTT broker built for IoT and industrial applications, ensuring scalable message delivery.
+*   [LavinMQ (⭐749) (⭐749)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
+*   [NSQ (⭐25k) (⭐25k)](https://github.com/nsqio/nsq) - Realtime distributed messaging platform designed to operate at scale, handling billions of messages per day with decentralized topology.
+
+### Projects / RPA
+
+*   [OpenRPA (⭐2.6k) (⭐2.6k)](https://github.com/open-rpa/openrpa) - Enterprise-grade, open-source robotic process automation suite.
+*   [Robot Framework (⭐10k) (⭐11k)](https://github.com/robotframework/robotframework) - An open-source automation framework with human-friendly keyword syntax that enables both technical and non-technical users to create test scripts and automate business processes cost-effectively, supporting web, API, mobile, and database automation through extensive libraries and integrations.
+*   [TagUI (⭐6k) (⭐6k)](https://github.com/aisingapore/TagUI) - An open-source RPA tool that democratizes automation through natural language scripting in 20+ human languages, enabling non-programmers to automate web, desktop, and data tasks while integrating AI/ML capabilities via Python and R for intelligent process automation.
+
+### Projects / Self-Service Integration
+
+*   [n8n (⭐116k) (⭐118k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
 
 ### Projects / Workflow engine
 
-*   [Apache Airflow (⭐40k) (⭐40k)](https://github.com/apache/airflow) - Platform for programmatically creating, scheduling, and monitoring workflows, ideal for managing complex data pipelines.
-*   [Flowable (⭐8.4k) (⭐8.4k)](https://github.com/flowable/flowable-engine) - Compact, efficient set of open-source engines for automating and scaling enterprise workflows.
+*   [Azkaban (⭐4.5k) (⭐4.5k)](https://github.com/azkaban/azkaban) - Distributed scheduler that simplifies managing job dependencies in large-scale data processing environments.
+*   [Bonita (⭐167) (⭐167)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
+*   [Cadence (⭐8.7k) (⭐8.8k)](https://github.com/uber/cadence) - Fault-tolerant, stateful platform that reliably orchestrates long-running workflows and complex applications.
+*   [Elsa Core (⭐7.1k) (⭐7.2k)](https://github.com/elsa-workflows/elsa-core) - .NET Core library that integrates seamlessly into any application to execute and manage workflows.
+*   [Flowable (⭐8.5k) (⭐8.6k)](https://github.com/flowable/flowable-engine) - Compact, efficient set of open-source engines for automating and scaling enterprise workflows.
+
+### Resources / API Specification
+
+*   [CloudEvents (⭐5.4k) (⭐5.4k)](https://github.com/cloudevents/spec) -  A specification for describing event data in common formats to provide interoperability across services, platforms and systems.
+
+### Resources / Certifications
+
+*   [Oracle Cloud Platform Application Integration 2025 Certified Professional](https://education.oracle.com/oracle-cloud-infrastructure-2024-application-integration-professional/pexam_1Z0-1042-25) - Validate your understanding of Oracle Application Integration to implement these Cloud services.
+*   [TIBCO BusinessWorks Associate](https://www.credly.com/org/citrix/badge/tca-tibco-businessworks) - Checks the understanding of Business Studio and TIBCO Cloud Integration, designing application components (modules, WSDL, REST API), developing integration applications, and testing, deploying, and managing applications.
+*   [TIBCO BusinessWorks Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-businessworks) - Validates the ability to design, develop, deploy, monitor, and manage TIBCO BusinessWorks applications of average complexity with minimal supervision.
+*   [TIBCO BusinessWorks Container Edition Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-businessworks-container-edition) - Validates the ability to develop, deploy, and manage TIBCO BusinessWorks Container Edition applications of average complexity with minimal supervision.
+*   [TIBCO BPM Enterprise Associate](https://www.credly.com/org/citrix/badge/tca-tibco-bpm-enterprise) - Checks the understanding of TIBCO BPM's features and capabilities, developing and managing business processes, and deploying and testing process applications.
+*   [TIBCO BPM Enterprise Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-bpm-enterprise) - Validates the ability to design, develop, deploy, and manage business processes using TIBCO BPM Enterprise Suite.
+*   [TIBCO Cloud Associate Certification](https://www.credly.com/org/citrix/badge/tca-tibco-cloud) - Validates the skills and knowledge required to work with TIBCO Cloud, including its key components and features.
+*   [TIBCO Cloud API Management Associate](https://www.credly.com/org/citrix/badge/tca-tibco-cloud-api-management) - Covers topics such as API definition creation and testing, API key authentication, and using the Developer Portal and I/O docs.
+*   [TIBCO Cloud API Management Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-cloud-api-management) - Validates the ability to implement TIBCO Cloud Mesh, OAuth-based security, and manage SOAP services.
+*   [TIBCO Cloud Integration Associate](https://www.credly.com/org/citrix/badge/tca-tibco-cloud-integration) - Validates the skills and knowledge required to work with TIBCO Cloud Integration, including its Connect, Develop, and Integrate capabilities.
+*   [TIBCO Cloud Integration - Connect Associate](https://www.credly.com/org/citrix/badge/tca-tibco-cloud-integration-connect) - Checks the usage of Connect capability of TIBCO Cloud Integration, installing On-Premise Agent, creating connections and integration apps, and configuring flows.
+*   [TIBCO Cloud Integration - Connect Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-cloud-integration-connect) - Checks the creation and management of connections, ensuring connection security, and troubleshooting issues related to connections in TIBCO Cloud Integration.
+*   [TIBCO Cloud Integration Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-cloud-integration) - Checks the knowledge about capabilities and benefits, integrating, developing, and connecting applications, creating APIs using the API Modeler and Mock functionality, and more.
+*   [TIBCO Messaging Associate](https://www.credly.com/org/citrix/badge/tca-tibco-messaging) - Covers topics such as TIBCO Enterprise Message Service (EMS), TIBCO FTL, TIBCO eFTL, as well as other messaging technologies such as Apache Kafka, Apache Pulsar, and Eclipse Mosquitto.
+*   [TIBCO Messaging Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-messaging) - Validates the skills and knowledge required to work with TIBCO Messaging and its components, including TIBCO Enterprise Message Service (EMS), TIBCO FTL, and TIBCO eFTL.
+
+### Resources / Data Formats
+
+*   [Apache Avro (⭐3.1k) (⭐3.1k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
+*   [NDJSON (⭐751) (⭐752)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+*   [YAML (⭐399) (⭐399)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+### Resources / Structure and Validation
+
+*   [JSON Schema (⭐4.3k) (⭐4.4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
+
+## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
+
+### Projects / API Documentation
+
+*   [DapperDox (⭐420) (⭐420)](https://github.com/DapperDox/dapperdox) - Generates elegant, interactive API documentation from OpenAPI/Swagger specs with easy customization and automated updates.
+
+### Projects / Workflow engine
+
+*   [Temporal (⭐14k) (⭐15k)](https://github.com/temporalio/temporal) - Open-source workflow-as-code platform designed for building reliable, scalable, and fault-tolerant applications.
+
+## [May 19 - May 25, 2025](/content/2025/20/README.md)
+
+### Projects / ETL
+
+*   [Pentaho Data Integration (⭐8k) (⭐8.1k)](https://github.com/pentaho/pentaho-kettle) - Intuitive, visual ETL tool that simplifies data ingestion, blending, and cleansing across multiple sources without heavy coding.
+
+### Projects / Messaging
+
+*   [VerneMQ (⭐3.3k) (⭐3.4k)](https://github.com/vernemq/vernemq) - High-performance distributed MQTT broker designed for scalable and efficient message delivery in modern environments.
+
+### Projects / Workflow engine
+
+*   [Apache Airflow (⭐40k) (⭐41k)](https://github.com/apache/airflow) - Platform for programmatically creating, scheduling, and monitoring workflows, ideal for managing complex data pipelines.
 
 ### Resources / Certifications
 
 *   [SnapLogic Integrator Accreditation](https://learn.snaplogic.com/snaplogic-accreditation) - It's designed for those who want to enhance their expertise on all core SnapLogic concepts for various integration needs across industries and lines of business.
 
-### Resources / Data Formats
-
-*   [NDJSON (⭐741) (⭐738)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
-
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
-
-### Projects / API Design
-
-*   [Zally (⭐920) (⭐920)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
-
-### Projects / ETL
-
-*   [Apache NiFi (⭐5.3k) (⭐5.3k)](https://github.com/apache/nifi) - Automated data integration tool with a visual interface that seamlessly extracts, transforms, and delivers data across systems.
 
 ### Projects / Messaging
 
@@ -102,22 +200,21 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Workflow engine
 
-*   [Bonita (⭐166) (⭐166)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
 *   [Camunda (⭐4.2k) (⭐4.2k)](https://github.com/camunda/camunda-bpm-platform) - Flexible workflow and decision automation platform designed for scalable business process management.
 
 ### Resources / API Specification
 
-*   [AsyncAPI (⭐4.6k) (⭐4.6k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
+*   [AsyncAPI (⭐4.6k) (⭐4.7k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
 
 ## [May 05 - May 11, 2025](/content/2025/18/README.md)
 
 ### Projects / API Gateway
 
-*   [KrakenD API Gateway (⭐2.2k) (⭐2.2k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance gateway with efficient middleware configuration, robust security, and seamless scaling.
+*   [KrakenD API Gateway (⭐2.2k) (⭐2.3k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance gateway with efficient middleware configuration, robust security, and seamless scaling.
 
 ### Projects / ETL
 
-*   [Airbyte (⭐18k) (⭐18k)](https://github.com/airbytehq/airbyte) - Flexible, open-source data integration platform that builds ELT pipelines to move data from diverse sources to modern destinations.
+*   [Airbyte (⭐18k) (⭐19k)](https://github.com/airbytehq/airbyte) - Flexible, open-source data integration platform that builds ELT pipelines to move data from diverse sources to modern destinations.
 
 ### Projects / Messaging
 
@@ -127,75 +224,47 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Design
 
-*   [Spectral (⭐2.7k) (⭐2.7k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
-*   [Swagger Editor (⭐9.1k) (⭐9.1k)](https://github.com/swagger-api/swagger-editor) - Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.
+*   [Spectral (⭐2.7k) (⭐2.8k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
 
 ### Projects / API Documentation
 
-*   [Stoplight Elements (⭐2k) (⭐2k)](https://github.com/stoplightio/elements) - Provides modular, attractive UI components for building comprehensive API reference and tutorial documentation.
+*   [Stoplight Elements (⭐2k) (⭐2.1k)](https://github.com/stoplightio/elements) - Provides modular, attractive UI components for building comprehensive API reference and tutorial documentation.
 
 ### Projects / API Gateway
 
 *   [Apache APISIX (⭐15k) (⭐15k)](https://github.com/apache/apisix) - A high-performance, dynamic gateway featuring real-time traffic management and powerful plugin integrations.
 
-### Projects / API Testing
-
-*   Testing tools and frameworks
-    *   [Apache JMeter (⭐8.7k) (⭐8.8k)](https://github.com/apache/jmeter) - A feature-rich tool for load testing and performance analysis across diverse web applications and services.
-    *   [Gatling (⭐6.6k) (⭐6.6k)](https://github.com/gatling/gatling) - A powerful load testing framework with a developer-friendly DSL that delivers detailed performance metrics.
-    *   [Karate (⭐8.5k) (⭐8.5k)](https://github.com/karatelabs/karate) - A unified testing framework that merges API automation, mocking, and performance testing with simple, expressive syntax.
-    *   [Pyresttest (⭐1.1k) (⭐1.2k)](https://github.com/svanoort/pyresttest) - A Python-based testing tool offering easy YAML/JSON-driven REST API testing and microbenchmarking.
-    *   [REST Assured (⭐6.9k) (⭐7k)](https://github.com/rest-assured/rest-assured) - A Java DSL that simplifies REST API testing with intuitive syntax and seamless integration into CI pipelines.
-    *   [Schemathesis (⭐2.5k) (⭐2.5k)](https://github.com/schemathesis/schemathesis) - A Python library for property-based testing of API schemas, ensuring reliability through robust edge-case detection.
-    *   [Taurus (⭐2k) (⭐2.1k)](https://github.com/Blazemeter/taurus) - An open-source automation framework that simplifies continuous testing with intuitive configuration and integration support.
-
 ### Projects / BRE
 
-*   [Drools (⭐6k) (⭐6k)](https://github.com/apache/incubator-kie-drools) - Open-source engine that supports advanced Decision Model and Notation (DMN) with Eclipse IDE integration for efficient rule development.
+*   [Drools (⭐6k) (⭐6.1k)](https://github.com/apache/incubator-kie-drools) - Open-source engine that supports advanced Decision Model and Notation (DMN) with Eclipse IDE integration for efficient rule development.
 
 ### Projects / Integration Frameworks
 
-*   [Apache Camel (⭐5.8k) (⭐5.8k)](https://github.com/apache/camel) - Robust integration framework leveraging Enterprise Integration Patterns to seamlessly connect diverse systems and APIs.
-
-### Projects / Messaging
-
-*   [Apache Qpid (⭐58) (⭐58)](https://github.com/apache/qpid-broker-j) - AMQP-compliant messaging tool with multi-language support for enterprise-grade message delivery.
-*   [Centrifugo (⭐8.9k) (⭐8.9k)](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server that minimizes delay in delivering events to online users.
+*   [Apache Camel (⭐5.8k) (⭐5.9k)](https://github.com/apache/camel) - Robust integration framework leveraging Enterprise Integration Patterns to seamlessly connect diverse systems and APIs.
 
 ### Projects / Workflow engine
 
-*   [Cadence (⭐8.6k) (⭐8.6k)](https://github.com/uber/cadence) - Fault-tolerant, stateful platform that reliably orchestrates long-running workflows and complex applications.
-*   [Elsa Core (⭐7k) (⭐7.1k)](https://github.com/elsa-workflows/elsa-core) - .NET Core library that integrates seamlessly into any application to execute and manage workflows.
-*   [Prefect (⭐19k) (⭐19k)](https://github.com/PrefectHQ/prefect) - Modern, developer-friendly orchestration tool optimized for data pipelines and complex workflows.
+*   [Prefect (⭐19k) (⭐20k)](https://github.com/PrefectHQ/prefect) - Modern, developer-friendly orchestration tool optimized for data pipelines and complex workflows.
 
 ### Resources / API Specification
 
-*   [CloudEvents (⭐5.3k) (⭐5.4k)](https://github.com/cloudevents/spec) -  A specification for describing event data in common formats to provide interoperability across services, platforms and systems.
-*   [Standard Webhooks (⭐1.4k) (⭐1.4k)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
-
-### Resources / Structure and Validation
-
-*   [JSON Schema (⭐4.2k) (⭐4.3k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
+*   [Standard Webhooks (⭐1.4k) (⭐1.5k)](https://github.com/standard-webhooks/standard-webhooks) - Open source tools and guidelines for sending webhooks easily, securely, and reliably.
 
 ## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
-
-### Projects / API Gateway
-
-*   [Traefik (⭐54k) (⭐55k)](https://github.com/traefik/traefik) - A dynamic, cloud-native reverse proxy designed for modern container environments with auto-discovery and load balancing.
 
 ### Projects / API Testing
 
 *   Mocking tools
     *   [Hoverfly (⭐2.4k) (⭐2.4k)](https://github.com/SpectoLabs/hoverfly) - A lightweight API simulation tool that enables rapid HTTP(S) service virtualization for efficient testing.
-    *   [Imposter (⭐390) (⭐390)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
-    *   [Microcks (⭐1.6k) (⭐1.6k)](https://github.com/microcks/microcks) - A Kubernetes-native tool for API mocking and testing that supports AsyncAPI, OpenAPI, and Postman Collections.
+    *   [Imposter (⭐391) (⭐392)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
+    *   [Microcks (⭐1.6k) (⭐1.7k)](https://github.com/microcks/microcks) - A Kubernetes-native tool for API mocking and testing that supports AsyncAPI, OpenAPI, and Postman Collections.
     *   [Mockable](https://www.mockable.io/) - An easy-to-configure service for creating custom HTTP responses, ideal for rapid prototyping and testing.
-    *   [Mockbin (⭐106) (⭐106)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
-    *   [Mockoon (⭐7.1k) (⭐7.1k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
-    *   [MockServer (⭐4.7k) (⭐4.7k)](https://github.com/mock-server/mockserver) - A powerful solution for mocking any HTTP/HTTPS-based service, streamlining integration testing.
+    *   [Mockbin (⭐113) (⭐113)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
+    *   [Mockoon (⭐7.4k) (⭐7.5k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
+    *   [MockServer (⭐4.7k) (⭐4.8k)](https://github.com/mock-server/mockserver) - A powerful solution for mocking any HTTP/HTTPS-based service, streamlining integration testing.
     *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - A free online service that generates custom HTTP responses for testing API endpoints.
-    *   [Prism (⭐4.5k) (⭐4.5k)](https://github.com/stoplightio/prism) - An open-source HTTP mock server that replicates API behavior for early testing and validation.
-    *   [WireMock (⭐6.7k) (⭐6.8k)](https://github.com/tomakehurst/wiremock) - A robust and flexible API mocking tool delivering reliable, real-time simulation for comprehensive testing.
+    *   [Prism (⭐4.6k) (⭐4.6k)](https://github.com/stoplightio/prism) - An open-source HTTP mock server that replicates API behavior for early testing and validation.
+    *   [WireMock (⭐6.8k) (⭐6.9k)](https://github.com/tomakehurst/wiremock) - A robust and flexible API mocking tool delivering reliable, real-time simulation for comprehensive testing.
 
 ### Projects / Data Mapping Solution
 
@@ -205,12 +274,12 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Gateway
 
-*   [Apinto (⭐1.5k) (⭐1.5k)](https://github.com/eolinker/apinto) - A Golang-based gateway that offers dynamic routing, multi-tenancy, and robust API access control for modern architectures.
+*   [Apinto (⭐1.5k) (⭐1.6k)](https://github.com/eolinker/apinto) - A Golang-based gateway that offers dynamic routing, multi-tenancy, and robust API access control for modern architectures.
 *   [Tyk API Gateway (⭐10k) (⭐10k)](https://github.com/TykTechnologies/tyk) - An enterprise-grade, open-source gateway supporting REST, GraphQL, TCP, and gRPC with advanced rate limiting and analytics.
 
 ### Projects / Workflow engine
 
-*   [StackStorm (⭐6.2k) (⭐6.2k)](https://github.com/StackStorm/st2) - Robust automation engine that combines sensors, triggers, and workflows to orchestrate complex IT processes.
+*   [StackStorm (⭐6.2k) (⭐6.3k)](https://github.com/StackStorm/st2) - Robust automation engine that combines sensors, triggers, and workflows to orchestrate complex IT processes.
 
 ### Resources / Data Formats
 
@@ -230,11 +299,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Gateway
 
-*   [Ocelot (⭐8.5k) (⭐8.5k)](https://github.com/ThreeMammals/Ocelot) - A .NET-based gateway offering intuitive routing and easy integration for lightweight API management.
-
-### Projects / ESB
-
-*   [WSO2 Enterprise Integrator (⭐382) (⭐382)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
+*   [Ocelot (⭐8.5k) (⭐8.6k)](https://github.com/ThreeMammals/Ocelot) - A .NET-based gateway offering intuitive routing and easy integration for lightweight API management.
 
 ## [Mar 10 - Mar 16, 2025](/content/2025/10/README.md)
 
@@ -242,13 +307,9 @@ A curated list of awesome system integration software and resources.
 
 *   [IBM webMethods API Management](https://www.ibm.com/products/webmethods-api-management) - Offers a comprehensive suite for API lifecycle management that seamlessly integrates on-premises and cloud systems.
 
-### Projects / API Design
-
-*   [OpenAPI Generator (⭐23k) (⭐24k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
-
 ### Projects / API Documentation
 
-*   [Swagger UI (⭐27k) (⭐27k)](https://github.com/swagger-api/swagger-ui) - Offers an interactive, in-browser tool for visualizing and testing APIs directly from OpenAPI specifications.
+*   [Swagger UI (⭐27k) (⭐28k)](https://github.com/swagger-api/swagger-ui) - Offers an interactive, in-browser tool for visualizing and testing APIs directly from OpenAPI specifications.
 
 ### Projects / API Gateway
 
@@ -256,7 +317,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / BRE
 
-*   [Easy Rules (⭐5k) (⭐5k)](https://github.com/j-easy/easy-rules) - Lightweight Java-based rules engine designed for straightforward rule processing and rapid decision automation.
+*   [Easy Rules (⭐5k) (⭐5.1k)](https://github.com/j-easy/easy-rules) - Lightweight Java-based rules engine designed for straightforward rule processing and rapid decision automation.
 *   [FICO Blaze Advisor](https://www.fico.com/en/products/fico-blaze-advisor) - Enterprise-grade decision engine that empowers both business and technical users with an intuitive interface for fast rule creation and management.
 *   [IBM ODM](https://www.ibm.com/products/operational-decision-manager) - Scalable decision management system that streamlines rule authoring, testing, and updates while ensuring compliance and agility.
 *   [Progress Corticon](https://www.progress.com/corticon) - Model-driven BRMS enabling rapid, no-code rule creation that delivers high-performance automated decisions with guaranteed integrity.
@@ -281,14 +342,14 @@ A curated list of awesome system integration software and resources.
 
 *   [Confluent Cloud](https://www.confluent.io/confluent-cloud/) - Fully managed Kafka service offering enterprise features like schema registry, connectors, and governance.
 
-### Projects / Managed File Transfer
+### Projects / MFT
 
 *   [GoAnywhere MFT](https://www.goanywhere.com/products/goanywhere-mft) - Comprehensive solution delivering centralized, secure file transfers with automation and complete audit logging.
 *   [GlobalSCAPE EFT](https://www.globalscape.com/eft) - Hardened file transfer server that ensures end-to-end encryption, automation, and compliance for mission-critical data.
 *   [IBM webMethods MFT](https://www.ibm.com/products/webmethods-mft) - Integrated managed file transfer solution that supports flexible deployment across hybrid environments.
 *   [Progress MOVEit](https://www.progress.com/moveit) - Secure, automated file transfer solution with guaranteed delivery, encryption, and compliance tools for regulated industries.
 
-### Projects / Master Data Management
+### Projects / MDM
 
 *   [Reltio](https://www.reltio.com/products/multidomain-mdm) - Cloud-native, multi-domain MDM platform combining data quality, governance, and real-time analytics for a 360° view.
 *   [Stibo MDM](https://www.stibosystems.com/platform) - Proven multi-domain MDM solution focusing on data transparency and governance to provide a single source of truth.
@@ -311,27 +372,17 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Documentation
 
-*   [Redoc (⭐24k) (⭐24k)](https://github.com/Redocly/redoc) - Delivers clean, modern documentation with advanced theming, multi-language support, and seamless integration.
-
-### Projects / API Gateway
-
-*   [Kong API Gateway (⭐40k) (⭐41k)](https://github.com/Kong/kong) - A scalable, cloud-native gateway that simplifies API management through extensive plugin support and seamless microservices integration.
+*   [Redoc (⭐24k) (⭐25k)](https://github.com/Redocly/redoc) - Delivers clean, modern documentation with advanced theming, multi-language support, and seamless integration.
 
 ### Projects / Messaging
 
-*   [Redpanda (⭐10k) (⭐10k)](https://github.com/vectorizedio/redpanda) - Kafka-compatible streaming platform that eliminates Zookeeper, delivering high performance and low latency.
-
-## [Feb 17 - Feb 23, 2025](/content/2025/7/README.md)
-
-### Resources / Data Formats
-
-*   [Apache Avro (⭐3k) (⭐3.1k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
+*   [Redpanda (⭐10k) (⭐11k)](https://github.com/vectorizedio/redpanda) - Kafka-compatible streaming platform that eliminates Zookeeper, delivering high performance and low latency.
 
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
 ### Projects / Integration Frameworks
 
-*   [Ballerina (⭐3.7k) (⭐3.7k)](https://github.com/ballerina-platform/ballerina-lang) - Innovative programming language designed for effortless creation and integration of network services and APIs.
+*   [Ballerina (⭐3.7k) (⭐3.8k)](https://github.com/ballerina-platform/ballerina-lang) - Innovative programming language designed for effortless creation and integration of network services and APIs.
 
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 
@@ -340,10 +391,6 @@ A curated list of awesome system integration software and resources.
 *   [Boomi Cloud API Management](https://developer.mashery.com/) - A cloud-native platform enabling seamless API deployment and centralized management with strong integration capabilities.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
-
-### Projects / API Gateway
-
-*   [Apache ShenYu (⭐8.5k) (⭐8.6k)](https://github.com/apache/shenyu) - A Java-native gateway excelling in protocol conversion, service proxying, and comprehensive API governance.
 
 ### Projects / MaaS
 
@@ -369,10 +416,6 @@ A curated list of awesome system integration software and resources.
 
 *   [Zuplo API Management](https://zuplo.com) - A developer-centric, lightweight platform featuring GitOps integration, rapid edge deployment, extensive OpenAPI support, and seamless monetization.
 
-### Projects / API Documentation
-
-*   [RapiDoc (⭐1.7k) (⭐1.8k)](https://github.com/rapi-doc/RapiDoc) - Produces highly customizable, interactive API documentation with responsive design and rich configuration options.
-
 ### Resources / API Specification
 
 *   [OpenAPI (ex.Swagger) (⭐29k) (⭐30k)](https://github.com/OAI/OpenAPI-Specification) - A language-agnostic specification for creating RESTful APIs that enables both humans and machines to understand the capabilities of a service without the need for source code or documentation.
@@ -384,10 +427,6 @@ A curated list of awesome system integration software and resources.
 *   [API Security Architect](https://apiacademy.learnupon.com/lpaths/4147453/courses/262370/details) - Validate your expertise in securing APIs using modern architectures.
 
 ## [Oct 28 - Nov 03, 2024](/content/2024/44/README.md)
-
-### Projects / Messaging
-
-*   [EMQX (⭐14k) (⭐15k)](https://github.com/emqx/emqx) - High-performance MQTT broker built for IoT and industrial applications, ensuring scalable message delivery.
 
 ### Projects / Workflow engine
 
@@ -407,7 +446,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / API Design
 
-*   [OpenAPI-GUI (⭐1.4k) (⭐1.4k)](https://github.com/Mermade/openapi-gui) - Create and validate OpenAPI specs with ease using this intuitive graphical user interface.
+*   [OpenAPI-GUI (⭐1.4k) (⭐1.5k)](https://github.com/Mermade/openapi-gui) - Create and validate OpenAPI specs with ease using this intuitive graphical user interface.
 
 ### Projects / API Documentation
 
@@ -424,14 +463,14 @@ A curated list of awesome system integration software and resources.
 
 *   API clients
     *   [Advanced REST Client (⭐1.4k) (⭐1.4k)](https://github.com/advanced-rest-client/arc-electron) - A robust open-source API client for testing and debugging RESTful services with an intuitive interface.
-    *   [Bruno (⭐33k) (⭐34k)](https://github.com/usebruno/bruno) - A fast, offline API client designed for git-friendly workflows and seamless testing.
-    *   [curl (⭐37k) (⭐38k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
-    *   [curlie (⭐3.2k) (⭐3.2k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
-    *   [HTTPie (⭐35k) (⭐36k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.
+    *   [Bruno (⭐35k) (⭐36k)](https://github.com/usebruno/bruno) - A fast, offline API client designed for git-friendly workflows and seamless testing.
+    *   [curl (⭐38k) (⭐38k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
+    *   [curlie (⭐3.3k) (⭐3.3k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
+    *   [HTTPie (⭐36k) (⭐36k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.
     *   [HttpMaster](https://www.httpmaster.net/) - Free and lightweight desktop tool for HTTP testing and debugging.
-    *   [Hoppscotch (⭐71k) (⭐72k)](https://github.com/hoppscotch/hoppscotch) - A lightweight, web-based API development tool offering real-time testing with an intuitive interface.
-    *   [Insomnia (⭐36k) (⭐36k)](https://github.com/Kong/insomnia) - A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.
-    *   [posting (⭐8.9k) (⭐8.9k)](https://github.com/darrenburns/posting) - A modern, terminal-based API client designed for efficient and seamless API interactions.
+    *   [Hoppscotch (⭐72k) (⭐73k)](https://github.com/hoppscotch/hoppscotch) - A lightweight, web-based API development tool offering real-time testing with an intuitive interface.
+    *   [Insomnia (⭐36k) (⭐37k)](https://github.com/Kong/insomnia) - A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.
+    *   [posting (⭐9.4k) (⭐9.4k)](https://github.com/darrenburns/posting) - A modern, terminal-based API client designed for efficient and seamless API interactions.
     *   [Postman](https://www.postman.com/product/api-client/) - The industry-standard tool for API development and testing, featuring automation, mock servers, and collaborative documentation.
     *   [resty (⭐2.6k) (⭐2.7k)](https://github.com/micha/resty) - A Lua-based HTTP client framework providing an interactive shell for streamlined REST service testing.
     *   [SoapUI (⭐1.6k) (⭐1.6k)](https://github.com/SmartBear/soapui) - A comprehensive open-source solution for testing both SOAP and REST web services with extensive automation features.
@@ -461,10 +500,6 @@ A curated list of awesome system integration software and resources.
 *   [API-Security-Checklist (⭐22k) (⭐23k)](https://github.com/shieldfy/API-Security-Checklist) - Best practices about REST API security.
 
 ## [Apr 22 - Apr 28, 2024](/content/2024/17/README.md)
-
-### Projects / Workflow engine
-
-*   [Azkaban (⭐4.4k) (⭐4.5k)](https://github.com/azkaban/azkaban) - Distributed scheduler that simplifies managing job dependencies in large-scale data processing environments.
 
 ### Resources / Certifications
 
@@ -524,7 +559,7 @@ A curated list of awesome system integration software and resources.
 
 ## [Aug 14 - Aug 20, 2023](/content/2023/33/README.md)
 
-### Projects / Managed File Transfer
+### Projects / MFT
 
 *   [Titan MFT Server](https://southrivertech.com/titan-mft-server/) - Enterprise-level MFT server offering high availability, failover capabilities, and efficient large-scale file automation.
 
@@ -558,7 +593,6 @@ A curated list of awesome system integration software and resources.
 *   [MuleSoft Certified Developer - Level 2](https://training.mulesoft.com/certification/developer-mule4-level2) - Validate your ability to work on production-ready Mule applications that address and balance critical non-functional requirements including monitoring, performance, maintainability, reliability, and security.
 *   [MuleSoft Certified Integration Architect - Level 1](https://training.mulesoft.com/certification/architect-integration-level1) - Validate your knowledge and skills to translate functional and non-functional requirements into integration interfaces and implementations.
 *   [MuleSoft Certified Platform Architect - Level 1](https://training.mulesoft.com/certification/architect-platform-level1) - Validate your knowledge and skills to direct the emergence of an effective application network out of individual integration solutions following API-led connectivity across an organization using Anypoint Platform.
-*   [Oracle Cloud Platform Application Integration 2022 Certified Professional](https://education.oracle.com/oracle-cloud-platform-application-integration-2022-certified-professional/trackp_OCPAI2022CP) - Validate your understanding of Oracle Application Integration to implement these Cloud services.
 *   [Oracle Data Integrator 12c Certified Implementation Specialist](https://education.oracle.com/oracle-data-integrator-12c-certified-implementation-specialist/trackp_379) - Validate your expertise in selling or implementing Oracle Data Integration 12c solutions.
 *   [Oracle SOA Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-soa-suite-12c-essentials/pexam_1Z0-434) - Validate your expertise in implementing solutions based on Oracle SOA Suite 12c.
 *   [Red Hat Certified Specialist in Business Rules](https://www.redhat.com/en/services/certification/rhcs-business-rules) - Checks the knowledge, skills, and abilities needed to perform tasks involving the implementation and management of business logic using the Red Hat JBoss BRMS.
@@ -568,19 +602,6 @@ A curated list of awesome system integration software and resources.
 *   [SnapLogic Architect Certification](https://learn.snaplogic.com/snaplogic-architect-certification) - Evaluates your knowledge of integration reference architectures and key strategies for the SnapLogic platform, covering topics like SnapLogic Architecture, Snaplex Requirements, Pipeline Lifecycle Management, Advanced Data Transformations, API Management, Resumable Pipelines, and Best Practices.
 *   [SnapLogic Developer Certification](https://learn.snaplogic.com/snaplogic-developer-certification) - Testing your expertise in using the SnapLogic SDK, implementing different parts of Snap functionality, and building custom Snaps.
 *   [SnapLogic Integrator Certification](https://learn.snaplogic.com/snaplogic-integrator-certification-1) - Focuses on topics such as beginner training, ultra tasks, pipeline migration, and user assistance videos covering various integration endpoints.
-*   [TIBCO BusinessWorks Certified Professional](https://www.tibco.com/services/education/certification/tibco-businessworks-6-certification-exam) - Validates the ability to design, develop, deploy, monitor, and manage TIBCO BusinessWorks applications of average complexity with minimal supervision.
-*   [TIBCO BusinessWorks Container Edition Certified Professional](https://www.tibco.com/services/education/certification/tibco-businessworks-container-edition-certification-exam) - Validates the ability to develop, deploy, and manage TIBCO BusinessWorks Container Edition applications of average complexity with minimal supervision.
-*   [TIBCO BPM Enterprise Associate](https://www.tibco.com/services/education/certification/tibco-bpm-enterprise-associate-certification-exam) - Checks the understanding of TIBCO BPM's features and capabilities, developing and managing business processes, and deploying and testing process applications.
-*   [TIBCO BPM Enterprise Certified Professional](https://www.tibco.com/services/education/certification/tibco-bpm-enterprise-5-certification-exam) - Validates the ability to design, develop, deploy, and manage business processes using TIBCO BPM Enterprise Suite.
-*   [TIBCO Cloud Associate Certification](https://www.tibco.com/services/education/certification/tibco-cloud-associate-certification-exam) - Validates the skills and knowledge required to work with TIBCO Cloud, including its key components and features.
-*   [TIBCO Cloud API Management Associate](https://www.tibco.com/services/education/certification/tibco-mashery-associate-certification-exam) - Covers topics such as API definition creation and testing, API key authentication, and using the Developer Portal and I/O docs.
-*   [TIBCO Cloud API Management Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-api-management-professional-certification-exam) - Validates the ability to implement TIBCO Cloud Mesh, OAuth-based security, and manage SOAP services.
-*   [TIBCO Cloud Integration Associate](https://www.tibco.com/services/education/certification/tibco-cloud-integration-associate-certification-exam) - Validates the skills and knowledge required to work with TIBCO Cloud Integration, including its Connect, Develop, and Integrate capabilities.
-*   [TIBCO Cloud Integration - Connect Associate](https://www.tibco.com/services/education/certification/tibco-cloud-integration-connect-associate-certification-exam) - Checks the usage of Connect capability of TIBCO Cloud Integration, installing On-Premise Agent, creating connections and integration apps, and configuring flows.
-*   [TIBCO Cloud Integration - Connect Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-integration-connect-certified-professional-exam) - Checks the creation and management of connections, ensuring connection security, and troubleshooting issues related to connections in TIBCO Cloud Integration.
-*   [TIBCO Cloud Integration Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-integration-certified-professional-exam) - Checks the knowledge about capabilities and benefits, integrating, developing, and connecting applications, creating APIs using the API Modeler and Mock functionality, and more.
-*   [TIBCO Messaging Associate](https://www.tibco.com/services/education/certification/tibco-messaging-associate-certification-exam) - Covers topics such as TIBCO Enterprise Message Service (EMS), TIBCO FTL, TIBCO eFTL, as well as other messaging technologies such as Apache Kafka, Apache Pulsar, and Eclipse Mosquitto.
-*   [TIBCO Messaging Certified Professional](https://www.tibco.com/services/education/certification/tibco-messaging-certified-professional-exam) - Validates the skills and knowledge required to work with TIBCO Messaging and its components, including TIBCO Enterprise Message Service (EMS), TIBCO FTL, and TIBCO eFTL.
 *   [Workato Automation Pro I](https://academy.workato.com/enterprise-automation-i-exam) - Fundamentals of business automation processes.
 *   [Workato Automation Pro II](https://academy.workato.com/enterprise-automation-ii-exam) - Advanced and practical approaches to automation.
 *   [Workato Automation Pro III](https://academy.workato.com/automation-pro-iii-exam) - In-depth series of badged modules for maximizing Workato's potential.
@@ -588,7 +609,6 @@ A curated list of awesome system integration software and resources.
 *   [WSO2 Certified API Manager Developer - V4 - Micro Integrator Profile](https://wso2.com/training/certification/certified-api-manager-developer-v4-micro-integrator-profile/) - Validates your expertise in designing, developing, and publishing APIs using the Micro Integrator profile of WSO2 API Manager V4. It covers API lifecycle management, access control, and API documentation within the Micro Integrator context.
 *   [WSO2 Certified API Manager Expert - V3](https://wso2.com/training/certification/certified-api-manager-expert/) - Confirms your advanced skills and knowledge in using WSO2 API Manager V3 for API management, including API creation, publishing, security, policy implementation, and analytics.
 *   [WSO2 Certified API Manager Expert - V4 - API Management Profile](https://wso2.com/training/certification/api-manager-expert-v4-api-management-profile/) - Demonstrates your proficiency in using WSO2 API Manager V4 for API management tasks, such as creating, publishing, and securing APIs, as well as implementing policies and analytics.
-*   [WSO2 Certified Enterprise Integrator Developer - V6](https://wso2.com/training/certification/certified-enterprise-integrator6-developer/) - Validates your ability to develop, deploy, and manage integration solutions using WSO2 Enterprise Integrator V6, including knowledge of its components, such as the ESB profile, Message Broker, and Business Process Server.
 *   [WSO2 Certified Enterprise Integrator Developer - V7 - Micro Integrator](https://wso2.com/training/certification/certified-enterprise-integrator-developer-micro-integrator/) - Validates your knowledge and skills in using the Micro Integrator profile of WSO2 Enterprise Integrator V7 to develop, deploy, and manage integration solutions.
 *   [WSO2 Certified Enterprise Integrator Developer - V7 - Streaming Integrator](https://wso2.com/training/certification/certified-enterprise-integrator-developer-streaming-integrator/) - Demonstrates your expertise in using the Streaming Integrator profile of WSO2 Enterprise Integrator V7 to develop, deploy, and manage real-time data integration and streaming analytics solutions.
 *   [WSO2 Certified Enterprise Integrator Expert - V6](https://wso2.com/training/certification/certified-enterprise-integrator6-expert/) - Tests your in-depth knowledge and skills in using WSO2 Enterprise Integrator V6 for complex integration scenarios, including best practices, troubleshooting, and performance tuning.
@@ -647,7 +667,7 @@ A curated list of awesome system integration software and resources.
         *   [Conditional Request](https://microservice-api-patterns.org/patterns/quality/dataTransferParsimony/ConditionalRequest) - How can unnecessary server-side processing and bandwidth usage be avoided when frequently invoking API operations that return rarely changing data?
         *   [Request Bundle](https://microservice-api-patterns.org/patterns/quality/dataTransferParsimony/RequestBundle) - How can the number of requests and responses be reduced to increase communication efficiency?
 
-    *   Quality Management and Governance
+    *   Quality Management and Governance
         *   [Pricing Plan](https://microservice-api-patterns.org/patterns/quality/qualityManagementAndGovernance/PricingPlan) - How can the API provider meter API service consumption and charge for it?
         *   [Rate Limit](https://microservice-api-patterns.org/patterns/quality/qualityManagementAndGovernance/RateLimit) - How can the API provider prevent API clients from excessive API usage?
         *   [Service Level Agreement](https://microservice-api-patterns.org/patterns/quality/qualityManagementAndGovernance/ServiceLevelAgreement) - How can an API client learn about the specific quality-of-service characteristics of an API and its endpoint operations? How can these characteristics, and the consequences of not meeting them, be defined and communicated in a measurable way?
@@ -799,7 +819,6 @@ A curated list of awesome system integration software and resources.
 *   [MuleSoft Certified Developer - Level 1](https://training.mulesoft.com/certification/developer-mule4-level1) - Validate your knowledge and skills to design, build, test and debug, deploy, and manage basic APIs and integrations using MuleSoft.
 *   [Oracle Business Process Management Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-business-process-management-suite-12c-essentials/pexam_1Z0-435) - Validate your expertise in implementing Oracle BPM Suite 12c solution.
 *   [Red Hat Certified Specialist in API Management](https://www.redhat.com/en/services/certification/red-hat-certified-specialist-api-management) - Validates the ability to create and maintain enterprise APIs using the Red Hat 3scale API Management platform.
-*   [TIBCO BusinessWorks Associate](https://www.tibco.com/services/education/certification/tibco-businessworks-associate-certification-exam) - Checks the understanding of Business Studio and TIBCO Cloud Integration, designing application components (modules, WSDL, REST API), developing integration applications, and testing, deploying, and managing applications.
 
 ### Resources / Structure and Validation
 
@@ -807,7 +826,7 @@ A curated list of awesome system integration software and resources.
 
 ## [Jan 16 - Jan 22, 2023](/content/2023/3/README.md)
 
-### Projects / Managed File Transfer
+### Projects / MFT
 
 *   [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - Centralized MFT platform with robust automation and security features designed to support diverse file transfer scenarios.
 
@@ -954,17 +973,16 @@ A curated list of awesome system integration software and resources.
 *   [OpenText Alloy](https://businessnetwork.opentext.com/enterprise-data-management/) - Enterprise data management solution that transforms basic integration into actionable insights and smarter decision-making.
 *   [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/) - Robust platform with prebuilt connectivity for both SaaS and on-premises apps, streamlining integration processes.
 *   [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform) - AI-driven platform that connects applications and data rapidly, ensuring efficient and scalable integrations.
-*   [TIBCO Cloud Integration](https://www.tibco.com/products/cloud-integration) - Flexible, API-led and event-driven platform that empowers you to integrate virtually any system quickly.
 *   [Workato](https://www.workato.com/) - Unified integration and workflow automation solution that simplifies complex processes and enhances operational efficiency.
 
-### Projects / Managed File Transfer
+### Projects / MFT
 
 *   [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - Enterprise-grade MFT solution with an intuitive interface and powerful automation for streamlined file exchanges.
 *   [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - Robust platform offering advanced security and efficient, reliable data transfer across enterprise systems.
 *   [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - Scalable and high-performance MFT platform designed for secure, fast, and reliable file exchange.
 *   [Oracle Managed File Transfer](https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html) - Comprehensive platform that simplifies secure file exchange and management for enterprise operations.
 
-### Projects / Master Data Management
+### Projects / MDM
 
 *   [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - Comprehensive platform that centralizes data governance, ensuring consistency and accuracy across your enterprise.
 *   [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - Integrated solution for managing and governing master data across all domains, enhancing overall data quality.
@@ -972,7 +990,6 @@ A curated list of awesome system integration software and resources.
 *   [SAP Master Data Governance](https://www.sap.com/products/master-data-governance.html) - Centralized solution that consolidates and governs master data to ensure consistency and high quality.
 *   [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - Unified platform that integrates data from diverse sources into accurate master records for improved efficiency.
 *   [Teradata MDM](https://www.teradata.co.uk/Products/Applications/Master-Data-Management) - Establishes a consistent analytical foundation by maintaining accurate reference data for enhanced ROI.
-*   [TIBCO EBX](https://www.tibco.com/products/tibco-ebx-software) - Comprehensive platform for governing and managing shared data assets, ensuring consistency and enabling smarter decisions.
 
 ### Projects / Messaging
 

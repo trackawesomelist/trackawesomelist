@@ -2,9 +2,49 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 286 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 302 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
+
+## [Jul 14, 2025](/content/2025/07/14/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
+
+## [Jun 09, 2025](/content/2025/06/09/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.
+
+## [Jun 07, 2025](/content/2025/06/07/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [The Season](https://adnfamily.com/studio/mj/the_season/immersive/index.html) - Real estate visualization of a modern apartment block.
+
+## [Jun 06, 2025](/content/2025/06/06/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [4DV](https://www.4dv.ai/) - Impressive implementation of animated Gaussian splats (4DGS).
+*   [Arrival Space](https://arrival.space/) - Social metaverse built on splat-based spaces.
+*   [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
+
+## [Jun 04, 2025](/content/2025/06/04/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer using splats for product visualization.
+*   [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
+*   [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
+
+## [May 28, 2025](/content/2025/05/28/README.md)
+
+### Documentation
+
+*   [Developer Site](https://developer.playcanvas.com/) - PlayCanvas Developer Site.
 
 ## [May 21, 2025](/content/2025/05/21/README.md)
 
@@ -40,13 +80,13 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### PlayCanvas Products
 
 *   [PlayCanvas Engine (⭐10k)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
-*   [PlayCanvas React (⭐220)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
-*   [PlayCanvas Web Components (⭐33)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
 *   [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
+*   [PlayCanvas React (⭐251)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
+*   [PlayCanvas Web Components (⭐42)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
 *   [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 *   [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
 *   [Texture Tool (⭐7)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
-*   [PCUI (⭐701)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
+*   [PCUI (⭐705)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
 
 ### Community
 
@@ -56,9 +96,9 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Documentation
 
-*   [API Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
+*   [API Reference](https://api.playcanvas.com/) - API Reference Site.
 
-### Interactive Experiences
+### 3D Gaussian Splatting / YouTube Playables
 
 *   [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 
@@ -72,7 +112,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Extensions and Utilities
 
-*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐6.9k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
+*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐7.1k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
 
 ## [Jul 01, 2024](/content/2024/07/01/README.md)
 
@@ -163,12 +203,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [playcanvas-rest-api-tools (⭐25)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 
-## [Feb 06, 2024](/content/2024/02/06/README.md)
-
-### Documentation
-
-*   [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
-
 ## [Jan 05, 2024](/content/2024/01/05/README.md)
 
 ### Interactive Experiences
@@ -199,12 +233,6 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ### Games / IO Games
 
 *   [Simply Up](https://simplyup.io) - Climb to the top of the tower in the shortest time.
-
-## [Sep 19, 2023](/content/2023/09/19/README.md)
-
-### Extensions and Utilities
-
-*   [Solar Tools](https://solargames.io/tools/) - A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc.
 
 ## [Sep 15, 2023](/content/2023/09/15/README.md)
 
@@ -581,10 +609,10 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### Extensions and Utilities
 
-*   [playcanvas-ar (⭐242)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
+*   [playcanvas-ar (⭐243)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 *   [playcanvas-p2.js (⭐23)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
 *   [playcanvas-spine (⭐50)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
-*   [playcanvas-tween (⭐64)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
+*   [playcanvas-tween (⭐65)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 *   [Sublime Completions (⭐4)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 
 ### Technical Demos

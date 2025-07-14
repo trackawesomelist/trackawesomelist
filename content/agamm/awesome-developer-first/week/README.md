@@ -6,6 +6,24 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Jul 07 - Jul 13, 2025](/content/2025/27/README.md)
+
+### Scraping
+
+*   [Proxy Sentinel](https://www.proxysentinel.io) - A self-managed proxy rotator.
+
+## [Jun 09 - Jun 15, 2025](/content/2025/23/README.md)
+
+### Monitoring
+
+*   [Maxim AI](https://www.getmaxim.ai) - End-to-end evaluation and observability platform, helping teams ship their AI agents reliably and 5x faster.
+
+## [Jun 02 - Jun 08, 2025](/content/2025/22/README.md)
+
+### Mail
+
+*   [Zyntra](https://zyntra.app/) – Unlimited e-mail inboxes with API/UI access for automation and QA.
+
 ## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
 
 ### Misc

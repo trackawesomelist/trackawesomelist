@@ -2,7 +2,7 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 248 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 268 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / Overview ]
 
@@ -60,6 +60,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 *   [Archives Portal Europe](https://www.archivesportaleurope.net/) - European archives search engine.
 *   [Encyclopédie d'histoire numérique](https://ehne.fr/) - European History through renewed historiographic objects and major contemporary challenges.
+*   [EuroDocs – Online Sources for European History](https://eudocs.lib.byu.edu/index.php/Main_Page) - A curated directory of online primary sources for European history, organized by country and period, with many items hosted by reputable institutions and using Dublin Core metadata.
 *   [Europeana](https://www.europeana.eu/) - Search engine for European textual and non-textual archival sources.
 *   [handrit.is](https://www.handrit.is/) - Catalogue of more than 15'000 manuscripts (12th–20th century) in Icelandic, Old Norse, Danish and Latin (plus a few other languages) with more than 4'000 manuscripts digitally available.
 *   [islandskort.is](https://www.islandskort.is/) - Digitized maps of Iceland, Greenland and the Arctic region (1545–1949).
@@ -99,6 +100,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ### Global
 
+*   [Atlas of Mutual Heritage](https://www.atlasofmutualheritage.nl/) - Database with sources relating to VOC (Dutch East India Company) and WIC (Dutch West India Company).
 *   [Bitsavers.org](http://bitsavers.trailing-edge.com/) - Computer code, reference manuals, and magazines.
 *   [Classic Computer Magazine Archive](https://www.atarimagazines.com/) - Preserving information from early personal computer magazines.
 *   [Fxtop](https://fxtop.com/) - Forex rate history since 1953.
@@ -128,6 +130,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 *   [Delpher](https://www.delpher.nl/) - Dutch newspapers, books and magazines.
 *   [Nationaal Archief](https://www.nationaalarchief.nl/) - Rich collection of the National Archives of the Netherlands.
+*   [Topotijdreis](https://www.topotijdreis.nl/) - Browse and compare Dutch topographic maps (1815 until today).
 
 ### North America
 
@@ -199,13 +202,13 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 ## More Awesome
 
 *   [Computer History (⭐2.8k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐3.9k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+*   [Data Visualization (⭐4k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
 *   [Research Tools (⭐2.3k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐788)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
+*   [Scientific Writing (⭐822)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
 *   [Tempopedia](https://tempopedia.org/) - Digital History Directory.
 
 ## Contribute
 
-Contributions welcome! Read the [CONTRIBUTING.md (⭐246)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first.
+Contributions welcome! Read the [CONTRIBUTING.md (⭐268)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first.
 

@@ -2,9 +2,16 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 1.9K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 2.2K · 🏷️ Security
 
 [ Daily / [Weekly](/content/brootware/awesome-cyber-security-university/week/README.md) / [Overview](/content/brootware/awesome-cyber-security-university/readme/README.md) ]
+
+## [Jul 14, 2025](/content/2025/07/14/README.md)
+
+### Free Beginner Blue Team Path / Level 3 - Beginner Forensics, Threat Intel & Cryptography
+
+*   [Threat Intelligence 101](https://tryhackme.com/room/cyberthreatintel) - Introduction to Cyber Threat Intelligence.
+*   [Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools) - Explore different OSINT tools used to conduct security threat assessments and investigations.
 
 ## [Feb 05, 2025](/content/2025/02/05/README.md)
 

@@ -2,19 +2,129 @@
 
 💰 Billing & Payments knowledge for cloud platforms
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-billing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) · ⭐ 1K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-billing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) · ⭐ 1.1K · 🏷️ Business
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-billing/week/README.md) / [Overview](/content/kdeldycke/awesome-billing/readme/README.md) ]
+
+## [Jul 01, 2025](/content/2025/07/01/README.md)
+
+### Invoice / Generators
+
+*   [klirr (⭐51)](https://github.com/sajjon/klirr) - Zero-maintenance and smart FOSS CLI tool for generating beautiful invoices for services and expenses.
+
+## [Jun 07, 2025](/content/2025/06/07/README.md)
+
+### Basics
+
+*   [Billed for ¥21,120, invoiced at ¥2,112,000 and paid ¥2,112,000](https://xunroll.com/thread/1668082843728367616) - [Get rid of integers and floats for monetary values](https://xunroll.com/thread/1599113889093890049). Use decimals. Or face the risks of anomalous x100 charges.
+*   How to recruit software engineers in this domain? “The trick is to make the accounting/billing/payment department the antechamber of data engineering.” ([source](https://x.com/kdeldycke/status/1422564355799924736))
+
+### Pricing
+
+*   [Axial - Business models](https://archive.ph/BFsZ1) - 38 models for inspiration.
+*   [SaaS pricing explorer](https://saaspricingexplorer.hyperline.co) - A collection of 1000+ pricing pages for inspiration.
+
+### Pricing / Usage-based Pricing
+
+*   [A Survey of Profit Optimization Techniques for Cloud Providers](http://www.cs.newpaltz.edu/~lik/publications/Peijin-Cong-ACM-CS-a-2020.pdf) - “The strategy of improving user service quality is discussed first, followed by the pricing strategy for cloud resources to maximize revenue.”
+*   “Billing is not complex on purpose: it's the price to pay for elasticity.” ([source](https://x.com/kdeldycke/status/1214160678363246592)) - Or why you're likely to get an endless stream of complaining users if choosing utility pricing scheme: while accurate to the (milli-)cent, this model is frustrating for customers not ready to invest time grasping the underlying concepts.
+
+### Pricing / Strategy
+
+*   "There are two ways to make money. You can bundle, or you can unbundle." - [Jim Barksdale](https://hbr.org/podcast/2014/07/marc-andreessen-and-jim-barksdale-on-how-to-make-money.html#:~:text=in%20business%2C%20there%20are%20two%20ways%20to%20make%20money.%20You%20can%20bundle%2C%20or%20you%20can%20unbundle.).
+*   [The Anatomy of SaaS Pricing Strategy](https://sbigrowth.com/hubfs/SBI_PI_AnatomyofSaaSPricingStrategy_Handbook.pdf) - Explain how to articulate the pricing of SaaS businesses around the product strategy.
+*   [Changing the Pricing Model](https://monkeynoodle.org/2024/02/10/changing-the-pricing-model/) - A couple of ways to re-license your product.
+
+### Product Catalog / Market Research
+
+*   [OpenPIM](https://github.com/openpim) - A streamlined open-source project, focusing on PIM-only features.
+
+### Cost Forecast / Market Research
+
+*   [Transforming Financial Forecasting with Data Science and Machine Learning at Uber](https://web.archive.org/web/20221203184815/https://www.uber.com/blog/transforming-financial-forecasting-machine-learning/) - Discusses how Uber apply data science and machine learning in their financial planning platforms.
+*   [How to save money on your AWS bill](https://threadreaderapp.com/thread/1091041507342086144.html) - “The biggest cost savings there are: 1. Turning things off that you're not using; 2. Then spot instances; 3. Then reserved instances.”
+
+### Marketplace / Market Research
+
+*   How to Kickstart and Scale a Marketplace Business: [Constrain the marketplace](https://www.lennysnewsletter.com/p/how-to-kickstart-and-scale-a-marketplace); Decide which side of the marketplace to concentrate on; Drive initial supply; Drive initial demand. A 4-parts series with dozen of interviews of people with direct experience building and scaling marketplaces.
+
+### Marketplace / Cloud Resources
+
+*   [Deconstructing Amazon EC2 Spot Instance Pricing](https://dants.github.io/papers/Spotprice11CloudCom.pdf) - “Cloud providers possessing large quantities of spare capacity must either incentivize clients to purchase it or suffer losses. Amazon is the first cloud provider to address this challenge, by allowing clients to bid on spare capacity and by granting resources to bidders while their bids exceed a periodically changing spot price.”
+
+### Contracts / Currencies
+
+*   [Is this what Enterprise mean?](https://threadreaderapp.com/thread/1389946268764475394.html) - When contracts, invoicing and payments are not working together, you end up alienating your big enterprise customers. See the associated HN comments [on bulk license purchase](https://news.ycombinator.com/item?id=27053246).
+*   [CUDs vs. Commit Contracts vs. SUDs in Google Cloud](https://66degrees.com/comparing-cuds-suds-and-commits-in-google-cloud/) - Explains the differences between various types of discounts and usage commitments in GCP.
+
+### Coupons and Vouchers / Currencies
+
+*   [Hacking Scooters: How I Created $100k Worth Of Free Rides](https://fant.io/p/hacking-voi/) - A cautionary tale on how promo codes can be exploited to get unlimited free rides.
+*   [China's Pinduoduo reports theft of online discount vouchers to police](https://web.archive.org/web/20230404113232/https://www.reuters.com/article/us-pinduoduo-china/chinas-pinduoduo-reports-theft-of-online-discount-vouchers-to-police-idUSKCN1PE05J) - The next level of fraud: “an online collective exploited a loophole on its platform to ‘steal’ tens of millions of yuan worth of discount vouchers”.
+
+### Taxes / Currencies
+
+*   [2017 Tax Software Developer's Guides](https://web.archive.org/web/20240227073911/https://www.mass.gov/lists/2017-tax-software-developers-guides) - A list of test cases for developers to test their tax code against.
+
+### Invoice / Electronic invoices
+
+*   [EU eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+HUB) - European standard on electronic invoice.
+
+### Payments / Electronic invoices
+
+*   [The Best Payment Gateway for Startups](https://web.archive.org/web/20230204235716/http://aynuriev.com/best-payment-gateway-startups/) - A benchmark of top payment providers, their pricing and models.
+*   How ACH works: A developer perspective, [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1-339d3e7bea1), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2-7a890638c4dd), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3-cd98728cf31f), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4-718a48cb8d2c), [part 5](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-5-1d998bbcd82c).
+*   [Hyperswitch (⭐21k)](https://github.com/juspay/hyperswitch) - Open-source backend for payment processing.
+
+### Payments / Bank Accounts
+
+*   [EPC QR code](https://en.wikipedia.org/wiki/EPC_QR_code) - EU standard for QR codes used to transfer money between bank accounts via SEPA.
+
+### Payments / Online Payments
+
+*   [UPI 101: The Basics](https://blog.setu.co/articles/upi-101-the-basics) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”
+
+### Fraud / Cards
+
+*   [Five Fun Fraud Facts](https://web.archive.org/web/20220327085654/https://blog.sift.com/2013/five-ecommerce-fraud-facts/) - Another tiny collection of features we can feed to a ML system to detect fraud. Comments on HN also unearthed [more qualifying signals](https://news.ycombinator.com/item?id=6376350) and [derived geodata on the transaction](https://news.ycombinator.com/item?id=6376221).
+*   [Training an ML model to score chargebacks](https://threadreaderapp.com/thread/1315452323330621440.html) - An example of a platform's network effect, which allows to predict the likelihood of winning a dispute.
+
+### Fraud / Statistics
+
+*   [Method to check if you swapped 2 digits](https://news.ycombinator.com/item?id=39021273) - Standard manual accounting trick employed when isolating an error in a double ledger.
+
+### UX/UI / Billing
+
+*   [We tried to make billing backendless](https://useautumn.com/blog/backendless) - Failed attempt to move the billing experience by from backend to frontend because of security.
+
+### Business Intelligence / Customer Lifetime Value
+
+*   [Churn Prediction](https://towardsdatascience.com/customer-churn-prediction-with-text-and-interpretability-bd3d57af34b1/) - “How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.” Relies on XGBoost binary classification.
+*   [PyMC-Marketing (⭐883)](https://github.com/pymc-labs/pymc-marketing) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
+
+### Business Intelligence / Data Engineering
+
+*   [AI vs Data Science vs Data Engineering](https://web.archive.org/web/20171009002725/https://blog.insightdatascience.com/how-emerging-ai-roles-fit-in-the-data-landscape-d4cd922c389b?gi=ebcf517502c7) - “Data Engineers build data pipelines and infrastructure to ensure a constant availability of transformed data. Data Scientists analyze and build models from these data to develop new product features or drive the bottom line of the business.” As for AI professionals, their focus is on cognitive automation.
+*   [Why not use Double or Float to represent currency?](https://web.archive.org/web/20250524184249/https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/3730040#answer-3730040) - Because of precision: floats and doubles cannot accurately represent the base 10 multiples that we use for money.
+
+### Business Intelligence / Tools
+
+*   [Meltano (⭐2.1k)](https://github.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
+
+### Competitive Analysis / Cloud providers
+
+*   [AWS reserved instances vs saving plan](https://web.archive.org/web/20240602133657/https://www.prosperops.com/wp-content/uploads/2022/01/ris_and_savings_plans.png) - A feature matrix of the different scheme and their average dicounts.
+
+### History / Cloud providers
+
+*   [Product Development as Iterated Taste](https://commoncog.com/product-development-iterated-taste/) - AWS sacrificed the simplicity of subscription pricing for S3 and went instead with a safe cost-following strategy because they had no clue how the users will use their service.
+*   [£sd computing](https://en.wikipedia.org/wiki/%C2%A3sd#Computing) - The IBM 1401 mainframe (1959) optionally supported pounds/shillings/pence (£sd) currency arithmetics in hardware.
 
 ## [Mar 11, 2025](/content/2025/03/11/README.md)
 
 ### Pricing / Usage-based Pricing
 
-*   [CGRateS (⭐448)](https://github.com/cgrates/cgrates) - An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go.
-
-### History / Cloud providers
-
-*   [£sd computing](https://en.wikipedia.org/wiki/£sd#Computing) - The IBM 1401 mainframe (1959) optionally supported pounds/shillings/pence (£sd) currency arithmetics in hardware.
+*   [CGRateS (⭐459)](https://github.com/cgrates/cgrates) - An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go.
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
@@ -24,23 +134,15 @@
 
 ## [May 15, 2024](/content/2024/05/15/README.md)
 
-### Pricing
-
-*   [SaaS pricing explorer](https://explorer.hyperline.co) - A collection of 1000+ pricing pages for inspiration.
-
 ### History / Cloud providers
 
 *   [Graphic methods for presenting facts](https://archive.org/details/graphicmethodsfo00brinrich/page/336/mode/2up?view=theater\&ui=embed\&wrapper=false) - A way to optimize pricing using a physical model made in plaster of Paris, from 1914.
 
 ## [Sep 30, 2023](/content/2023/09/30/README.md)
 
-### Pricing / Usage-based Pricing
-
-*   [Octane's Meter Types](https://docs.getoctane.io/data-types-reporting-types-and-aggregations#Wggma) - Nice illustrations of the quantization applied to time and value quantums on variable usages.
-
 ### Cost Forecast / Market Research
 
-*   [Darts (⭐8.4k)](https://github.com/unit8co/darts) - Python library for user-friendly forecasting and anomaly detection on time series. It wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
+*   [Darts (⭐8.7k)](https://github.com/unit8co/darts) - Python library for user-friendly forecasting and anomaly detection on time series. It wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
 
 ## [Jun 28, 2023](/content/2023/06/28/README.md)
 
@@ -48,22 +150,11 @@
 
 *   [A Rake Too Far: Optimal Platform Pricing Strategy](https://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/) - A bit of vocabulary: “In a casino, the term *rake* refers to the commission that the house earns for operating a poker game. (…) While casinos use the term *rake*, a plethora of interesting word choices exist which all describe the same thing – keeping a little bit of the revenue for the company that is running the service.”
 
-## [Jun 23, 2023](/content/2023/06/23/README.md)
-
-### Basics
-
-*   [Billed for ¥21,120, invoiced at ¥2,112,000 and paid ¥2,112,000](https://twitter.com/kur/status/1668082843728367616) - [Get rid of integers and floats for monetary values](https://twitter.com/kdeldycke/status/1599113889093890049). Use decimals. Or face the risks of anomalous x100 charges.
-
 ## [Jun 16, 2023](/content/2023/06/16/README.md)
-
-### Cost Forecast / Market Research
-
-*   [Transforming Financial Forecasting with Data Science and Machine Learning at Uber](https://www.uber.com/blog/transforming-financial-forecasting-machine-learning/) - Discusses how Uber apply data science and machine learning in their financial planning platforms.
 
 ### Contracts / Currencies
 
 *   [Entitlements untangled: The modern way to software monetization](https://www.stigg.io/blog-posts/entitlements-untangled-the-modern-way-to-software-monetization) - “The concept of Entitlements encapsulates the feature access settings under various product variants (aka Pricing Plans or Packages), bridging the gap between how a product is sold and how it behaves for a variant. In essence, entitlements are a set of permissions defining what a customer (paying or non-paying) can do with your software application.”
-*   [CUDs vs. Commit Contracts vs. SUDs in Google Cloud](https://66degrees.com/blog/cloud-optimization/cuds-suds-commits-in-google-cloud/) - Explains the differences between various types of discounts and usage commitments in GCP.
 *   “It used to be I could just give a lump sum and let Google Ads play until there is no more budget. Not anymore.” - ([source](https://news.ycombinator.com/item?id=36325785)) - Google Ads used to implement a concept of capped actuals. A kind of monthly budget with rollover, which is an optimal billing scheme to limit surprises for customers. It always looked to me as a way to sell quotas.
 
 ### Invoice / Electronic invoices
@@ -129,7 +220,6 @@
 
 ### Competitive Analysis / Cloud providers
 
-*   [AWS reserved instances vs saving plan](https://www.prosperops.com/wp-content/uploads/2022/01/ris_and_savings_plans.png) - A feature matrix of the different scheme and their average dicounts.
 *   [Orbitera](https://en.wikipedia.org/wiki/Orbitera) - GCP's billing subsidiary.
 
 ### Humour / Cloud providers
@@ -170,25 +260,15 @@
 
 *   [The 5 Pillars of PriceOps](https://priceops.org) - A manifesto inspired by the DevOps movement in which pricing is no longer ossified, but is practiced as a responsive iteration process, and implemented as a flexible property of the system.
 
-## [Nov 14, 2022](/content/2022/11/14/README.md)
-
-### Basics
-
-*   [Pricing, my only growth hack at Qonto](https://getlago.substack.com/p/pricing-my-only-growth-hack-at-qonto?s=r) - Most businesses don't know how to iterate over pricing: sales teams dictates them without involvement of the people in charge of implementation, which ends up in frustration for all. That's why you need to recognize billing as a critical function of your organization.
-
 ## [Nov 13, 2022](/content/2022/11/13/README.md)
 
 ### Pricing / Usage-based Pricing
 
-*   [Lago (⭐7.4k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing in Ruby.
+*   [Lago (⭐7.8k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing in Ruby.
 
 ### Pricing / Subscription Plans
 
-*   [Lotus (⭐1.7k)](https://github.com/uselotus/lotus) - Open-source project to manage pricing & packaging infrastructure.
-
-### Pricing / Strategy
-
-*   [The Anatomy of SaaS Pricing Strategy](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf) - Explain how to articulate the pricing of SaaS businesses around the product strategy.
+*   [Lotus (⭐1.8k)](https://github.com/uselotus/lotus) - Open-source project to manage pricing & packaging infrastructure.
 
 ### Accounting / Bookkeeping
 
@@ -196,7 +276,7 @@
 
 ### Accounting / Software design and implementation
 
-*   [TigerBeetle (⭐12k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between.
+*   [TigerBeetle (⭐13k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between. It has been [tested on Jepsen](https://jepsen.io/analyses/tigerbeetle-0.16.11), which tested its strong serializability.
 
 ### Invoice / Structure
 
@@ -224,19 +304,9 @@
 
 *   [Gabor–Granger method](https://en.wikipedia.org/wiki/Gabor%E2%80%93Granger_method) - Used in surveys to determine the price for a new product or service. The results can be used to produce a demand chart and a revenue curve.
 
-### Coupons and Vouchers / Currencies
-
-*   [Hacking Scooters: How I Created $100k Worth Of Free Rides](https://webcache.googleusercontent.com/search?q=cache:7hrzYYk5-IwJ:https://fant.io/p/hacking-voi/) - A cautionary tale on how promo codes can be exploited to get unlimited free rides.
-
 ### History / Cloud providers
 
 *   [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page #445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
-
-## [Jan 12, 2022](/content/2022/01/12/README.md)
-
-### Basics
-
-*   How to recruit software engineers in this domain? “The trick is to make the accounting/billing/payment department the antechamber of data engineering.” ([source](https://twitter.com/kdeldycke/status/1422564355799924736))
 
 ## [Oct 16, 2021](/content/2021/10/16/README.md)
 
@@ -249,14 +319,14 @@
 
 ### Accounting / Bookkeeping
 
-*   [Ledger (⭐930)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
-*   [Akaunting (⭐8.4k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
+*   [Ledger (⭐986)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
+*   [Akaunting (⭐8.7k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
 
 ## [Sep 07, 2021](/content/2021/09/07/README.md)
 
 ### Accounting / Bookkeeping
 
-*   [Go DB Ledger (⭐495)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
+*   [Go DB Ledger (⭐498)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
 ### Payments / Online Payments
 
@@ -275,8 +345,7 @@
 ### Product Catalog / Market Research
 
 *   [GCP Product Catalog](https://cloud.google.com/blog/products/gcp/introducing-cloud-billing-catalog-api-gcp-pricing-in-real-time) - All GCP SKUs available as an API.
-*   [Pimcore (⭐3.5k)](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
-*   [OpenPIM](https://www.openpim.org) - A streamlined open-source project, focusing on PIM-only features.
+*   [Pimcore (⭐3.6k)](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
 *   [Comparing 3 open source PIM solutions](https://medium.com/@slavapedak/comparing-3-free-and-open-source-product-information-management-pim-solutions-e83a1898f91e) - Comparative study of the 3 projects above.
 
 ### Calculator / Market Research
@@ -316,14 +385,6 @@
 
 *   [Socially Optimal Pricing of Cloud Computing Resources](https://webee.technion.ac.il/people/shimkin/PAPERS/Menache-CloudPricing-Conf2011.pdf) - “The socially optimal operating point is unique, and can be sustained by a linear, usage-based tariff, which charges a fixed price per unit resource and unit time.” This paper justify usage-based pricing for cloud resources.
 
-### Contracts / Currencies
-
-*   [Is this what Enterprise mean?](https://twitter.com/steffoz/status/1389946268764475394) - When contracts, invoicing and payments are not working together, you end up alienating your big enterprise customers. See the associated HN comments [on bulk license purchase](https://news.ycombinator.com/item?id=27053246).
-
-### Invoice / Electronic invoices
-
-*   [EU eInvoicing](https://ec.europa.eu/cefdigital/wiki/display/CEFDIGITAL/eInvoicing) - European standard on electronic invoice.
-
 ### Payments / Bank Accounts
 
 *   [Swift Codes](https://bank.codes/swift-code/) - Swift / BIC codes for personal use only.
@@ -354,12 +415,6 @@
 
 *   [Idempotency in the context of payments](https://developers.google.com/standard-payments/reference/idempotency) - “Idempotency prevents race conditions. Idempotency dictates that multiple identical requests from the same client do not result in a different final state.”
 
-## [Feb 04, 2021](/content/2021/02/04/README.md)
-
-### Pricing / Strategy
-
-*   "There are two ways to make money. You can bundle, or you can unbundle." - [Jim Barksdale](https://hbr.org/podcast/2014/07/marc-andreessen-and-jim-barksdale-on-how-to-make-money.html#transcript-section).
-
 ## [Dec 18, 2020](/content/2020/12/18/README.md)
 
 ### Accounting / Online Ads
@@ -375,10 +430,6 @@
 *   [The Games People Play With Cash Flow](https://commoncog.com/blog/cash-flow-games/) - “Malone created a new accounting metric, something he called ‘earnings before interest, depreciation, and taxes’, or EBITDA.” This is how a cable company CEO made sense of cash flow, like real-estate business did. The article starts with this example and describes other cash flow games for SaaS models.
 
 ## [Dec 07, 2020](/content/2020/12/07/README.md)
-
-### Cost Forecast / Market Research
-
-*   [How to save money on your AWS bill](https://twitter.com/QuinnyPig/status/1091041507342086144) - “The biggest cost savings there are: 1. Turning things off that you're not using; 2. Then spot instances; 3. Then reserved instances.”
 
 ### Marketplace / Market Research
 
@@ -401,7 +452,6 @@
 ### Fraud / Cards
 
 *   [How I Stopped a Credit Card Thief From Ripping Off 3,537 People – and Saved Our Nonprofit in the Process](https://www.freecodecamp.org/news/stopping-credit-card-fraud-and-saving-our-nonprofit/) - Describe a fraud technique known as "card testing", in which massive batch of stolen cards are checked for their validity against your API.
-*   [Training an ML model to score chargebacks](https://twitter.com/patio11/status/1315452323330621440) - An example of a platform's network effect, which allows to predict the likelihood of winning a dispute.
 *   [How credit card thieves use free-to-play apps to launder gains](https://kromtech.com/blog/security-center/digital-laundry) - To prevent abuses, service provider must strengthen both credit card verification and the account creation process.
 
 ### Business Intelligence / Customer Lifetime Value
@@ -421,7 +471,7 @@
 
 ### Fraud / Trust Score
 
-*   [Awesome Credit Modeling (⭐130)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐141)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
 
 ## [Nov 11, 2020](/content/2020/11/11/README.md)
 
@@ -434,8 +484,6 @@
 
 *   [How to project customer retention](https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Fader_hardie_jim_07.pdf) - A seminal paper, with a stronger approach compared to the one above: [the exponential distributions is replaced by a geometric model](https://news.ycombinator.com/item?id=24833319), which is better suited to discrete time intervals like monthly contracts, the former being more appropriate to continuous time process.
 *   [RFM (customer value)](https://en.wikipedia.org/wiki/RFM_%28customer_value%29) - A refined model of CLV, used to segment users based on Recency, Frequency and Monetary value.
-*   [Churn Prediction](https://towardsdatascience.com/churn-prediction-3a4a36c2129a) - “How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.” Relies on XGBoost binary classification.
-*   [Lifetimes (⭐1.5k)](https://github.com/CamDavidsonPilon/lifetimes) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
 *   [`retentionizer`](https://github.com/chrisclark/retentionizer) - Python package to show the projected retention rates for each cohort and calculate the LTV of a given customer in that cohort.
 
 ## [Nov 05, 2020](/content/2020/11/05/README.md)
@@ -443,10 +491,6 @@
 ### Pricing
 
 *   [The Network Monetization Map: Aligning Incentives with Revenue](https://medium.com/breadcrumb/the-network-monetization-map-aligning-incentives-with-revenue-b73c362d1ad5) - 6 models of monetization relying on network effect.
-
-### Pricing / Usage-based Pricing
-
-*   [A Survey of Profit Optimization Techniques for Cloud Providers](https://dl.acm.org/doi/fullHtml/10.1145/3376917) - “The strategy of improving user service quality is discussed first, followed by the pricing strategy for cloud resources to maximize revenue.”
 
 ### Taxes / European VAT
 
@@ -457,7 +501,7 @@
 
 ### Product Catalog / Market Research
 
-*   [Akeneo PIM (⭐968)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
+*   [Akeneo PIM (⭐978)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
 
 ## [Sep 29, 2020](/content/2020/09/29/README.md)
 
@@ -469,15 +513,11 @@
 
 *   [A (shallow) dive into the American banking system](https://blog.yossarian.net/2019/12/25/A-shallow-dive-into-the-American-banking-system) - Collection of miscellaneous notes primarily focused on the common cases of routable accounts, i.e. checking and savings.
 
-### Payments / Online Payments
-
-*   [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”
-
 ## [Sep 28, 2020](/content/2020/09/28/README.md)
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐224)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐243)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 ## [Sep 22, 2020](/content/2020/09/22/README.md)
 
@@ -489,13 +529,13 @@
 
 ### Cost Forecast / Market Research
 
-*   [Forecasting with sktime (⭐8.2k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A more detailed tutorial on how to use past data to make temporal forward predictions. And be aware of the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentioned in the article above.
+*   [Forecasting with sktime (⭐9.1k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A more detailed tutorial on how to use past data to make temporal forward predictions. And be aware of the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentioned in the article above.
 
 ## [Sep 19, 2020](/content/2020/09/19/README.md)
 
 ### Accounting / Bookkeeping
 
-*   [Sequence (⭐497)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
+*   [Sequence (⭐498)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
 
 ## [Sep 01, 2020](/content/2020/09/01/README.md)
 
@@ -504,19 +544,19 @@
 *   [Plain text accounting tools](https://plaintextaccounting.org/#software) - Extensive list of open-source personal finance projects that might be great to look into for inspiration on double-entry accounting and bookkeeping.
 *   And a list of graphical accounting tools: [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) (C), [Firefly III](https://firefly-iii.org) (PHP).
 *   [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - A complete tutorial on personal finance tracking with GnuCash.
-*   [Frappe Books (⭐3.2k)](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
-*   [Luca (⭐69)](https://github.com/brandon-rhodes/luca) - YAML accounting and JSON tax forms.
+*   [Frappe Books (⭐3.4k)](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
+*   [Luca (⭐70)](https://github.com/brandon-rhodes/luca) - YAML accounting and JSON tax forms.
 
 ### Accounting / Software design and implementation
 
 *   [Moonpig: a billing system that doesn't suck](https://blog.plover.com/prog/Moonpig.html) - Design decisions behind a billing and accounting system. Key takeaway: some companies still pays by checks; do not use floats; complex customer workflows; date and time issues; mutable data.
 *   [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - Explain the basic data model of a double-entry accounting system relying on Google Spanner for internal use at Square.
 *   [Django Hordak](https://django-hordak.readthedocs.io) - Core functionality of a double entry accounting system for Django.
-*   [Managed accounts for Django (⭐214)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
+*   [Managed accounts for Django (⭐215)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
 
 ### Invoice / Generators
 
-*   [InvoiceGenerator (⭐171)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
+*   [InvoiceGenerator (⭐174)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
 *   [Ruby Invoicing Framework (⭐265)](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
 ### Invoice / Extractors
@@ -536,12 +576,6 @@
 ### Pricing / Usage-based Pricing
 
 *   [“Designing billing for a service can be really challenging”](https://news.ycombinator.com/item?id=23536919) - Personal anecdote on the design of the pricing plan for AWS Simple Email Service.
-
-## [Jun 08, 2020](/content/2020/06/08/README.md)
-
-### Business Intelligence / Tools
-
-*   [`falcon`](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac with builtin graphs.
 
 ## [Jun 02, 2020](/content/2020/06/02/README.md)
 
@@ -570,7 +604,6 @@
 ### Pricing / Usage-based Pricing
 
 *   [Why I Love Usage-Based Pricing](https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/) - “The most important reason I like this pricing model is that it heavily incentivizes both the customer and the service provider to act in everyone's best interest.” Also details issues with other pricing models.
-*   “Billing is not complex on purpose: it's the price to pay for elasticity.” ([source](https://twitter.com/kdeldycke/status/1214160678363246592)) - Or why you're likely to get an endless stream of complaining users if choosing utility pricing scheme: while accurate to the (milli-)cent, this model is frustrating for customers not ready to invest time grasping the underlying concepts.
 
 ### Cost Forecast / Market Research
 
@@ -587,11 +620,6 @@
 *   [Maximizing Profit of Cloud Brokers under Quantized Billing Cycles: a Dynamic Pricing Strategy based on Ski-Rental Problem](https://arxiv.org/pdf/1507.02545.pdf) - “The key idea of our algorithms is to use pricing signal to regulate user demand. One may argue that such an algorithm gives poor service to the user as it pushes tasks out of the queue in order to maximize cloud broker's profit.”
 *   [Present or Future: Optimal Pricing for Spot Instances](https://web.archive.org/web/20150708151037/http://www.temple.edu/cis/icdcs2013/data/5000a410.pdf) - “Pricing policy of spot resources should be carefully designed and the impact on both present and future should be considered.”
 *   “You always pay the spot market price, not your bid.” ([source](https://news.ycombinator.com/item?id=20347716)) - Simple explanation of the bidding mechanism.
-*   [Deconstructing Amazon EC2 Spot Instance Pricing](http://www.cs.technion.ac.il/~dan/papers/Spotprice11CloudCom.pdf) - “Cloud providers possessing large quantities of spare capacity must either incentivize clients to purchase it or suffer losses. Amazon is the first cloud provider to address this challenge, by allowing clients to bid on spare capacity and by granting resources to bidders while their bids exceed a periodically changing spot price.”
-
-### Coupons and Vouchers / Currencies
-
-*   [China's Pinduoduo reports theft of online discount vouchers to police](https://www.reuters.com/article/us-pinduoduo-china/chinas-pinduoduo-reports-theft-of-online-discount-vouchers-to-police-idUSKCN1PE05J) - The next level of fraud: “an online collective exploited a loophole on its platform to ‘steal’ tens of millions of yuan worth of discount vouchers”.
 
 ### Payments / Online Payments
 
@@ -607,7 +635,6 @@
 
 ### Business Intelligence / Data Engineering
 
-*   [AI vs Data Science vs Data Engineering](https://blog.insightdatascience.com/how-emerging-ai-roles-fit-in-the-data-landscape-d4cd922c389b) - “Data Engineers build data pipelines and infrastructure to ensure a constant availability of transformed data. Data Scientists analyze and build models from these data to develop new product features or drive the bottom line of the business.” As for AI professionals, their focus is on cognitive automation.
 *   [Ten Ways Your Data Project is Going to Fail](https://www.martingoodson.com/ten-ways-your-data-project-is-going-to-fail/) - You don't need data scientists. “For ETL, hire data engineers. For reporting, hire BI analysts. The end.”
 *   [Cargo cult data science](http://blog.richardweiss.org/2017/07/25/data-science-in-organizations.html) - “Data science is best viewed as a form of company culture, rather than a set of technologies. However, many firms will try to create that company culture by acquiring data-science technology, rather than working on their culture.”
 *   [Never Use Floats for Money](https://husobee.github.io/money/float/2016/09/23/never-use-floats-for-currency.html) - “This is precisely the problem we have when trying to represent 10^-1, or 0.1 in binary. There is not an exact binary representation of 0.1 or 0.01.”
@@ -623,7 +650,6 @@
 ### Pricing
 
 *   [Business Model Patterns](https://reasonstreet.co/business-model-library/) - A list of 15 different ways to sell products and services.
-*   [Axial - Business models](https://axial.substack.com/p/axial-business-models) - 38 models for inspiration.
 
 ### Pricing / Usage-based Pricing
 
@@ -631,15 +657,7 @@
 
 ### Marketplace / Market Research
 
-*   [Papers we love: Auctions and Bidding (⭐91k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
-
-### Taxes / Currencies
-
-*   [2017 Tax Software Developer's Guides](https://www.mass.gov/lists/2017-tax-software-developers-guides) - A list of test cases for developers to test their tax code against.
-
-### Payments / Electronic invoices
-
-*   [The Best Payment Gateway for Startups](http://aynuriev.com/best-payment-gateway-startups/) - A benchmark of top payment providers, their pricing and models.
+*   [Papers we love: Auctions and Bidding (⭐95k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 ### Payments / Bank Accounts
 
@@ -655,30 +673,18 @@
 
 ### Business Intelligence / Tools
 
-*   [Metabase (⭐41k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
+*   [Metabase (⭐43k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
 
 ### Competitive Analysis / Cloud providers
 
 *   [More choice, less complexity: New Compute Engine pricing options on tap](https://cloud.google.com/blog/products/compute/more-choice-less-complexity-new-compute-engine-pricing-options-on-tap) - A wrap-up of recent GCP pricing features.
-
-## [Mar 05, 2020](/content/2020/03/05/README.md)
-
-### Invoice / Generators
-
-*   [Refact](http://en.userstudio.fr/projects/refact/) - A design project trying to revamp a phone bill with infographics.
-
-## [Mar 01, 2020](/content/2020/03/01/README.md)
-
-### Business Intelligence / Data Engineering
-
-*   [Why not use Double or Float to represent currency?](https://stackoverflow.com/questions/3730019/why-not-use-double-or-float-to-represent-currency/3730040#3730040) - Because of precision: floats and doubles cannot accurately represent the base 10 multiples that we use for money.
 
 ## [Feb 23, 2020](/content/2020/02/23/README.md)
 
 ### Cost Forecast / Market Research
 
 *   [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - Great introduction on how time series can be used to evaluate business problems.
-*   [Komiser (⭐4k)](https://github.com/mlabouardy/komiser) - Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations.
+*   [Komiser (⭐4.1k)](https://github.com/mlabouardy/komiser) - Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations.
 
 ### Coupons and Vouchers / Currencies
 
@@ -688,7 +694,7 @@
 
 ### Pricing / Usage-based Pricing
 
-*   [Allen's interval algebra](https://en.wikipedia.org/wiki/Allen%27s_interval_algebra) - Implementing usage-based pricing is tricky, and this algebra will help you organize temporal reasoning. Also see this [Stack Overflow question with clean schema](https://stackoverflow.com/questions/12069082/allens-interval-algebra-operations-in-sql?rq=1).
+*   [Allen's interval algebra](https://en.wikipedia.org/wiki/Allen%27s_interval_algebra) - Implementing usage-based pricing is tricky, and this algebra will help you organize temporal reasoning. Also see this [Stack Overflow question with clean schema](https://web.archive.org/web/20240413010618/https://stackoverflow.com/questions/12069082/allens-interval-algebra-operations-in-sql?rq=1).
 
 ### Accounting / Double-Entry Model
 
@@ -698,7 +704,7 @@
 
 *   [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb) - RDBMS were build for banks around transactions to solve that specific issue. Then NoSQL came forcing us to carefully implement systems to avoid double spending.
 *   [Monzo's bank transfers post-mortem](https://monzo.com/blog/2019/06/20/why-bank-transfers-failed-on-30th-may-2019/) - Or why you should be prepared for and work around gateway provider's outages.
-*   [Why was I charged?](https://wpchrg.wordpress.com) - Under a constant stream of user complaints about payments, WordPress created a dedicated subdomains to help customers understand unexpected transactions. The trick is to add the URL of that kind of site directly in the bank statement.
+*   [Why was I charged?](https://wpchrg.wordpress.com) - Under a constant stream of user complaints about payments, WordPress created a dedicated subdomains to help customers understand unexpected transactions. The trick was to add this URL directly in the bank statement.
 
 ### Business Intelligence / Metrics
 
@@ -726,7 +732,6 @@
 ### Marketplace / Market Research
 
 *   [Customized Regression Model for Airbnb Dynamic Pricing](https://www.kdd.org/kdd2018/accepted-papers/view/customized-regression-model-for-airbnb-dynamic-pricing) - This paper describes the pricing strategy model deployed at Airbnb.
-*   How to Kickstart and Scale a Marketplace Business: [Constrain the marketplace](https://www.lennyrachitsky.com/p/how-to-kickstart-and-scale-a-marketplace); Decide which side of the marketplace to concentrate on; Drive initial supply; Drive initial demand. A 4-parts series with dozen of interviews of people with direct experience building and scaling marketplaces.
 
 ### Fraud / Billing
 
@@ -740,7 +745,7 @@
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐189)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐193)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ## [Feb 17, 2020](/content/2020/02/17/README.md)
 
@@ -748,15 +753,9 @@
 
 *   [Practical Business Python](https://pbpython.com) - A blog collecting and spreading ideas on how to use Python more effectively in the business setting.
 *   [`redash`](https://github.com/getredash/redash) - Connect and query your data sources, build dashboards to visualize data and share them with your company.
-*   [Apache Superset (⭐65k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
-*   [Meltano](https://gitlab.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
-*   [`insights`](https://github.com/mariusandra/insights) - Insights is a tool to visually explore a PostgreSQL database, with an emphasis on generating graphs that show business performance over time.
+*   [Apache Superset (⭐67k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
 
 ## [Feb 08, 2020](/content/2020/02/08/README.md)
-
-### Fraud / Trust Score
-
-*   [The Secret Trust Scores Companies Use to Judge Us All](https://www.wsj.com/articles/the-secret-trust-scores-companies-use-to-judge-us-all-11554523206) - Nearly everything we buy, how we buy, and where we're buying from is secretly fed into AI-powered verification services that help companies guard against credit-card and other forms of fraud.
 
 ### Fraud / Statistics
 
@@ -789,13 +788,12 @@
 
 ### Calculator / Market Research
 
-*   [Cloud Cost Calculator (⭐87)](https://github.com/scalyr/cloud-costs) - Web-based tool for finding the cheapest cloud servers for a given set of requirements.
 *   [EC2Instances.info](https://ec2instances.info) - Easy Amazon EC2 Instance Comparison.
 
 ### Marketplace / Cloud Resources
 
 *   [The Eternal Cost Savings Of Netflix's Internal Spot Market](http://highscalability.com/blog/2017/12/4/the-eternal-cost-savings-of-netflixs-internal-spot-market.html) - When you're big enough that [creating an internal secondary market](https://medium.com/netflix-techblog/creating-your-own-ec2-spot-market-6dd001875f5) for instances makes economic sense.
-*   [AutoSpotting (⭐2.3k)](https://github.com/AutoSpotting/AutoSpotting) - Tool that easily and reliably converts (all) your existing AutoScaling groups to cheaper spot instances.
+*   [AutoSpotting (⭐2.4k)](https://github.com/AutoSpotting/AutoSpotting) - Tool that easily and reliably converts (all) your existing AutoScaling groups to cheaper spot instances.
 
 ### Coupons and Vouchers / Currencies
 
@@ -824,22 +822,20 @@
 
 *   [How to Build an Insurance Company](https://www.moderntreasury.com/journal/how-to-build-an-insurance-company) - The importance of payment ops architecture.
 *   [High failure rate of Point Of Sale devices in the upper Midwest](https://news.ycombinator.com/item?id=20043944) - The root cause? People wearing a lot of wool in low humidity air, generating a lot of static.
-*   How ACH works: A developer perspective, [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1/), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2/), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3/), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4/).
 
 ### Payments / Credit Cards
 
-*   ['Is that even legal?': Companies may be sharing new credit or debit card information without you knowing](https://www.cbc.ca/news/business/banking-information-shared-with-third-parties-1.5102931) - Some credit and debit card companies have "updating service" that allows new account numbers and expiry dates to be shared with merchants. Visa's implementation is called [VAU](https://developer.visa.com/capabilities/vau) and Mastercard's is [ABU](https://developer.mastercard.com/product/automatic-billing-updater).
+*   ['Is that even legal?': Companies may be sharing new credit or debit card information without you knowing](https://www.cbc.ca/news/business/banking-information-shared-with-third-parties-1.5102931) - Some credit and debit card companies have "updating service" that allows new account numbers and expiry dates to be shared with merchants. Visa's implementation is called [VAU](https://developer.visa.com/capabilities/vau) and Mastercard's is [ABU](https://developer.mastercard.com/product/automatic-billing-updater-abu/).
 *   [Strong Customer Authentication](https://stripe.com/guides/strong-customer-authentication) - [Payment Services Directive](https://en.wikipedia.org/wiki/Payment_Services_Directive) 2, explained.
 *   [Address Verification System](https://en.wikipedia.org/wiki/Address_Verification_System) - A system checking the matching of customer's billing addresses with the one associated with the credit card.
 
 ### Fraud / Online Payments
 
-*   [Awesome List of IAM: Fraud links (⭐1.9k)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
+*   [Awesome List of IAM: Fraud links (⭐2k)](https://github.com/kdeldycke/awesome-iam#fraud) - Section dedicated to fraud management related to user accounts, from our sister repository.
 
 ### Fraud / Cards
 
 *   [How Candy Japan got credit card fraud somewhat under control](https://www.candyjapan.com/behind-the-scenes/how-i-got-credit-card-fraud-somewhat-under-control) - Suggestions involved either [warning signals](https://www.candyjapan.com/behind-the-scenes/fraudulent-transaction-warning-signs) for trying to guess which orders might be fraud, or countermeasures to try to make things harder for the fraudsters.
-*   [Five Fun Fraud Facts](https://blog.sift.com/2013/five-ecommerce-fraud-facts/) - Another tiny collection of features we can feed to a ML system to detect fraud. Comments on HN also unearthed [more qualifying signals](https://news.ycombinator.com/item?id=6376350) and [derived geodata on the transaction](https://news.ycombinator.com/item?id=6376221).
 *   [Credit Card Fraud Detection using Autoencoders in Keras](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd) - Tutorial on how to rely on anomaly detection to implement suspicious card transactions.
 
 ### Fraud / Trust Score

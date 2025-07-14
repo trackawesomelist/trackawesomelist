@@ -2,9 +2,27 @@
 
  :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jakoch/awesome-composer/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jakoch/awesome-composer](https://github.com/jakoch/awesome-composer) · ⭐ 870 · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/jakoch/awesome-composer/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 jakoch/awesome-composer](https://github.com/jakoch/awesome-composer) · ⭐ 880 · 🏷️ Programming Languages
 
 [ [Daily](/content/jakoch/awesome-composer/README.md) / Weekly / [Overview](/content/jakoch/awesome-composer/readme/README.md) ]
+
+## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
+
+### Support / IRC
+
+*   IRC channels are on `irc.freenode.org`: [#composer](https://irc.com/#composer) for users and [#composer-dev](https://irc.com/#composer-dev) for development.
+
+### Services / IRC
+
+*   [Dependabot](https://github.com/security/advanced-security) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
+
+### Packagist Mirrors / IRC
+
+*   Global, CloudFlare - [packagist.pages.dev](https://packagist.pages.dev/)
+
+### Packagist-compatible repositories / IRC
+
+*   [RepoFlow](https://www.repoflow.io) - Simple and fast platform for hosting private Composer registries. Also supports Docker, npm, PyPI, Maven, and RubyGems. Offers free options for both cloud and self-hosted setups.
 
 ## [Mar 03 - Mar 09, 2025](/content/2025/9/README.md)
 
@@ -25,16 +43,12 @@
 
 ### Plugins / IRC
 
-*   [Composer-Dependency-Analyzer (⭐478)](https://github.com/shipmonk-rnd/composer-dependency-analyser) - The plugin helps to find dependency issues, including dead, unused, shadow and misplaced dependencies.
-*   [PHPCodeSniffer-Composer-Installer (⭐574)](https://github.com/PHPCSStandards/composer-installer) - The plugin enables you to install [PHP\_CodeSniffer (⭐11k)](https://github.com/squizlabs/PHP_CodeSniffer) coding standards (rulesets).
+*   [Composer-Dependency-Analyzer (⭐541)](https://github.com/shipmonk-rnd/composer-dependency-analyser) - The plugin helps to find dependency issues, including dead, unused, shadow and misplaced dependencies.
+*   [PHPCodeSniffer-Composer-Installer (⭐582)](https://github.com/PHPCSStandards/composer-installer) - The plugin enables you to install [PHP\_CodeSniffer (⭐11k)](https://github.com/squizlabs/PHP_CodeSniffer) coding standards (rulesets).
 
 ### Tools / IRC
 
 *   [Composer SemVer Checker](https://semver.madewithlove.com/) - Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.
-
-### Services / IRC
-
-*   [Dependabot](https://github.com/features/security/) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
 
 ### Tutorials / IRC
 
@@ -63,13 +77,13 @@
 ### Satis / IRC
 
 *   [GitLab-Composer (⭐163)](https://github.com/wemakecustom/gitlab-composer) - This is a branch/tag indexer for GitLab repositories.
-*   [Satisfy (⭐524)](https://github.com/project-satisfy/satisfy) - Satis composer repository manager with a Web UI.
+*   [Satisfy (⭐533)](https://github.com/project-satisfy/satisfy) - Satis composer repository manager with a Web UI.
 
 ## [Jul 18 - Jul 24, 2022](/content/2022/29/README.md)
 
 ### Plugins / IRC
 
-*   [Composer-Velocita (⭐27)](https://github.com/isaaceindhoven/composer-velocita) - Fast and reliable Composer package downloads using [Velocita (⭐61)](https://github.com/isaaceindhoven/velocita-proxy): a caching reverse proxy that does not require you to modify your projects.
+*   [Composer-Velocita (⭐27)](https://github.com/isaaceindhoven/composer-velocita) - Fast and reliable Composer package downloads using [Velocita (⭐60)](https://github.com/isaaceindhoven/velocita-proxy): a caching reverse proxy that does not require you to modify your projects.
 
 ## [Apr 11 - Apr 17, 2022](/content/2022/15/README.md)
 
@@ -79,17 +93,17 @@
 *   [Composer-Curl-Plugin (⭐5)](https://github.com/ngyuki/composer-curl-plugin) - The plugin uses `phpext_curl` for downloading packages.
 *   [Composer-Locator (⭐58)](https://github.com/mindplay-dk/composer-locator) - Provides a means of locating the installation path for a given Composer package name.
 *   [Composer-Plugin-Exclude-Files (⭐40)](https://github.com/mcaskill/composer-plugin-exclude-files) - A plugin for excluding files required by packages using the 'files' autoloading mechanism.
-*   [Composer-Link (⭐63)](https://github.com/SanderSander/composer-link) - Adds the ability to link local packages for development.
-*   [Composer-REPL (⭐102)](https://github.com/ramsey/composer-repl) - The plugin provides the `composer repl` command, which gives you a PHP language shell (read-eval-print loop).
-*   [Composer-Diff (⭐160)](https://github.com/IonBazan/composer-diff) - Compares `composer.lock` changes and generates a Markdown report for usage in a pull request description.
+*   [Composer-Link (⭐79)](https://github.com/SanderSander/composer-link) - Adds the ability to link local packages for development.
+*   [Composer-REPL (⭐106)](https://github.com/ramsey/composer-repl) - The plugin provides the `composer repl` command, which gives you a PHP language shell (read-eval-print loop).
+*   [Composer-Diff (⭐180)](https://github.com/IonBazan/composer-diff) - Compares `composer.lock` changes and generates a Markdown report for usage in a pull request description.
 
 ### Scripts / IRC
 
-*   [Composer-Substitution-Plugin (⭐50)](https://github.com/villfa/composer-substitution-plugin) - A Composer plugin replacing placeholders in the `scripts` section by dynamic values.
+*   [Composer-Substitution-Plugin (⭐51)](https://github.com/villfa/composer-substitution-plugin) - A Composer plugin replacing placeholders in the `scripts` section by dynamic values.
 
 ### Registry Manager / IRC
 
-*   [https://github.com/slince/composer-registry-manager (⭐560)](https://github.com/slince/composer-registry-manager) - The plugin helps you to switch between different composer repositories.
+*   [https://github.com/slince/composer-registry-manager (⭐563)](https://github.com/slince/composer-registry-manager) - The plugin helps you to switch between different composer repositories.
 
 ## [Jan 31 - Feb 06, 2022](/content/2022/5/README.md)
 
@@ -145,13 +159,13 @@
 
 *   [NodeJS-Installer (⭐107)](https://github.com/thecodingmachine/nodejs-installer) - Installer for Node.js and npm.
 *   [Node-Composer (⭐6)](https://github.com/mariusbuescher/node-composer) - Installer for Node.js, npm and yarn.
-*   [CycloneDX-PHP-Composer (⭐58)](https://github.com/CycloneDX/cyclonedx-php-composer) - Creates a [CycloneDX](https://cyclonedx.org/) "Software Bill-of-Materials" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by [OWASP DependencyTrack](https://dependencytrack.org/).
+*   [CycloneDX-PHP-Composer (⭐67)](https://github.com/CycloneDX/cyclonedx-php-composer) - Creates a [CycloneDX](https://cyclonedx.org/) "Software Bill-of-Materials" (SBOM) for the dependencies of a project. The SBOM enables dependency monitoring and risk analysis by [OWASP DependencyTrack](https://dependencytrack.org/).
 
 ## [Sep 14 - Sep 20, 2020](/content/2020/37/README.md)
 
 ### Private repositories / IRC
 
-*   [fxpio/tug (⭐40)](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages, which are hosted on GitHub or GitLab services.
+*   [fxpio/tug (⭐41)](https://github.com/fxpio/tug) - Enables you to host a private Composer registry on AWS Serverless serving your private PHP packages, which are hosted on GitHub or GitLab services.
 
 ### Packagist-compatible repositories / IRC
 
@@ -161,18 +175,18 @@
 
 ### Tools / IRC
 
-*   [Composer-Unused (⭐1.5k)](https://github.com/composer-unused/composer-unused) - A CLI tool, which scans your code and shows unused Composer dependencies.
+*   [Composer-Unused (⭐1.6k)](https://github.com/composer-unused/composer-unused) - A CLI tool, which scans your code and shows unused Composer dependencies.
 
 ## [Apr 27 - May 03, 2020](/content/2020/17/README.md)
 
 ### Scripts / IRC
 
-*   [PhantomJS-Installer (⭐151)](https://github.com/jakoch/phantomjs-installer) - A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
+*   [PhantomJS-Installer (⭐152)](https://github.com/jakoch/phantomjs-installer) - A Composer Package which installs the PhantomJS binary (Linux, Windows, Mac) into /bin of your project.
 *   [Composer-Vendor-Cleanup (⭐3)](https://github.com/0xch/composer-vendor-cleanup) - A script which removes whitelisted unnecessary files (like tests/docs etc.) from the vendor directory.
 
 ### Repman / IRC
 
-*   [repman.io](https://repman.io) & [repman-io/repman (⭐531)](https://github.com/repman-io/repman) - A Private PHP Package Repository Manager & Packagist Proxy.
+*   [repman.io](https://repman.io) & [repman-io/repman (⭐550)](https://github.com/repman-io/repman) - A Private PHP Package Repository Manager & Packagist Proxy.
 
 ## [Mar 16 - Mar 22, 2020](/content/2020/11/README.md)
 
@@ -190,7 +204,7 @@
 
 ### Packagist-compatible repositories / IRC
 
-*   [Packeton (⭐441)](https://github.com/vtsykun/packeton) - Private self-hosted Composer repository for vendors. Fork of packagist with adding support for authorization, customer users, groups, webhooks.
+*   [Packeton (⭐467)](https://github.com/vtsykun/packeton) - Private self-hosted Composer repository for vendors. Fork of packagist with adding support for authorization, customer users, groups, webhooks.
 
 ## [Nov 04 - Nov 10, 2019](/content/2019/44/README.md)
 
@@ -227,8 +241,8 @@
 
 ### Plugins / IRC
 
-*   [Drupal Vendor Hardening Composer Plugin (⭐15)](https://github.com/drupal/core-vendor-hardening) - Removes extraneous directories from the project's vendor directory & adds .htaccess and web.config files to the root of the project's vendor directory.
-*   [Private-Composer-Installer (⭐228)](https://github.com/ffraenz/private-composer-installer) - Install helper outsourcing sensitive keys from the package URL into environment variables.
+*   [Drupal Vendor Hardening Composer Plugin (⭐16)](https://github.com/drupal/core-vendor-hardening) - Removes extraneous directories from the project's vendor directory & adds .htaccess and web.config files to the root of the project's vendor directory.
+*   [Private-Composer-Installer (⭐230)](https://github.com/ffraenz/private-composer-installer) - Install helper outsourcing sensitive keys from the package URL into environment variables.
 
 ## [Sep 02 - Sep 08, 2019](/content/2019/35/README.md)
 
@@ -238,7 +252,7 @@
 
 ### Setup a Packagist Mirror / IRC
 
-*   [Packagist Mirror (⭐198)](https://github.com/Webysther/packagist-mirror) - This script helps to setup a packagist mirror. It is the maintained and stable version of [Packagist Crawler (⭐57)](https://github.com/hirak/packagist-crawler).
+*   [Packagist Mirror (⭐199)](https://github.com/Webysther/packagist-mirror) - This script helps to setup a packagist mirror. It is the maintained and stable version of [Packagist Crawler (⭐57)](https://github.com/hirak/packagist-crawler).
 
 ### Packagist-compatible repositories / IRC
 
@@ -248,14 +262,8 @@
 
 ### Tools / IRC
 
-*   [Bramus/Composer-Autocomplete (⭐96)](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
+*   [Bramus/Composer-Autocomplete (⭐98)](https://github.com/bramus/composer-autocomplete) - A Bash/Shell autocompletion script for Composer.
 *   [Composer/Xdebug-Handler (⭐2.5k)](https://github.com/composer/xdebug-handler) - Helps you to restart a CLI process without loading the xdebug extension.
-
-## [Jul 29 - Aug 04, 2019](/content/2019/30/README.md)
-
-### Support / IRC
-
-*   IRC channels are on `irc.freenode.org`: [#composer](https://webchat.freenode.net/#composer) for users and [#composer-dev](https://webchat.freenode.net/#composer-dev) for development.
 
 ## [May 06 - May 12, 2019](/content/2019/18/README.md)
 
@@ -267,31 +275,31 @@
 
 ### Tools / IRC
 
-*   [Composer PreferLowest Checker (⭐20)](https://github.com/dereuromark/composer-prefer-lowest) - Strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option.
+*   [Composer PreferLowest Checker (⭐22)](https://github.com/dereuromark/composer-prefer-lowest) - Strictly compare the specified minimum versions of your composer.json with the ones actually used by the prefer-lowest composer update command option.
 
 ## [Dec 17 - Dec 23, 2018](/content/2018/51/README.md)
 
 ### Plugins / IRC
 
-*   [Composer-MonoRepo-Plugin (⭐305)](https://github.com/beberlei/composer-monorepo-plugin) - The plugin helps to manage dependencies for multiple packages in a single repository.
-*   [Composer-Patches (⭐290)](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project.
+*   [Composer-MonoRepo-Plugin (⭐309)](https://github.com/beberlei/composer-monorepo-plugin) - The plugin helps to manage dependencies for multiple packages in a single repository.
+*   [Composer-Patches (⭐294)](https://github.com/vaimo/composer-patches) - Applies a patch from a local or remote file to any package that is part of a given composer project.
 *   [Composer-Ignore-Plugin (⭐21)](https://github.com/lichunqiang/composer-ignore-plugin) - Enables you to remove files and folders from the vendor folder (to make a cleaner and smaller deployment to production). It's an alternative to `.gitattributes`.
 *   [Composer-Shared-Package-Plugin (⭐164)](https://github.com/Letudiant/composer-shared-package-plugin) - Allows you to share selected packages between your projects by creating symlinks.
-*   [Composer-Custom-Directory-Installer (⭐139)](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).
-*   [Graph-Composer (⭐935)](https://github.com/clue/graph-composer) - Provides a graph visualization for your project's `composer.json` and its dependencies.
+*   [Composer-Custom-Directory-Installer (⭐138)](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (vendor folder).
+*   [Graph-Composer (⭐943)](https://github.com/clue/graph-composer) - Provides a graph visualization for your project's `composer.json` and its dependencies.
 *   [PackageInfo (⭐7)](https://github.com/ThaDafinser/PackageInfo) - Enables you to retrieve all package informations (like version, tag, release date, description).
-*   [Foxy (⭐175)](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations, when composer package is installed or updated.
-*   [Composer Registry Manager (⭐560)](https://github.com/slince/composer-registry-manager) - Enables you to switch between different composer repositories.
+*   [Foxy (⭐176)](https://github.com/fxpio/foxy) - Composer plugin that executes npm/yarn packages installation operations, when composer package is installed or updated.
+*   [Composer Registry Manager (⭐563)](https://github.com/slince/composer-registry-manager) - Enables you to switch between different composer repositories.
 
 ### Tools / IRC
 
-*   [Composer-Yaml (⭐56)](https://github.com/igorw/composer-yaml) - This tool converts `composer.yml` to `composer.json`.
-*   [Composer-Service (⭐174)](https://github.com/pborreli/composer-service) - Enables you to run Composer as a service on a remote server.
+*   [Composer-Yaml (⭐55)](https://github.com/igorw/composer-yaml) - This tool converts `composer.yml` to `composer.json`.
+*   [Composer-Service (⭐173)](https://github.com/pborreli/composer-service) - Enables you to run Composer as a service on a remote server.
 
 ### Scripts / IRC
 
 *   [ParameterHandler (⭐929)](https://github.com/Incenteev/ParameterHandler) - Allows you to manage your ignored parameters when running a composer install or update.
-*   [Tooly (⭐101)](https://github.com/tommy-muehle/tooly-composer-script) - Manage needed PHAR files in your project `composer.json`. Every PHAR file will be saved in the composer binary directory. Optional with GPG verification for every PHAR.
+*   [Tooly (⭐103)](https://github.com/tommy-muehle/tooly-composer-script) - Manage needed PHAR files in your project `composer.json`. Every PHAR file will be saved in the composer binary directory. Optional with GPG verification for every PHAR.
 *   [Melody (⭐395)](https://github.com/sensiolabs/melody) - One-file composer scripts.
 
 ### Videos / IRC
@@ -303,8 +311,8 @@
 *   [WordPress Packagist](https://wpackagist.org/) - Mirrors the WordPress plugin and theme directories as a Composer repository.
 *   [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
 *   [Drupal Packagist](https://www.drupal.org/node/2822344) - Composer repositories for Drupal 7 and 8 core, modules, and themes.
-*   [Satis Server (⭐113)](https://github.com/lukaszlach/satis-server) - This docker container provides a Satis Server and enables you to run a private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.
-*   [Release Belt (⭐173)](https://github.com/Rarst/release-belt) - Self–hosted Composer repository implementation to quickly integrate ZIP files of third party non–Composer releases.
+*   [Satis Server (⭐114)](https://github.com/lukaszlach/satis-server) - This docker container provides a Satis Server and enables you to run a private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.
+*   [Release Belt (⭐175)](https://github.com/Rarst/release-belt) - Self–hosted Composer repository implementation to quickly integrate ZIP files of third party non–Composer releases.
 
 ## [Dec 03 - Dec 09, 2018](/content/2018/49/README.md)
 
@@ -312,7 +320,7 @@
 
 *   [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories.
 *   [Private Packagist Enterprise](https://packagist.com) - On-premise self-hosted version of Private Packagist.
-*   [Private Packagist API Client (⭐33)](https://github.com/packagist/private-packagist-api-client) - A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.
+*   [Private Packagist API Client (⭐34)](https://github.com/packagist/private-packagist-api-client) - A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.
 
 ## [Nov 26 - Dec 02, 2018](/content/2018/48/README.md)
 
@@ -324,7 +332,7 @@
 
 ### Plugins / IRC
 
-*   [Composer Preload (⭐205)](https://github.com/Ayesh/Composer-Preload) - The plugin generates a `vendor/preload.php` file to warm up the Opcache.
+*   [Composer Preload (⭐207)](https://github.com/Ayesh/Composer-Preload) - The plugin generates a `vendor/preload.php` file to warm up the Opcache.
 
 ## [Oct 01 - Oct 07, 2018](/content/2018/40/README.md)
 
@@ -336,13 +344,13 @@
 
 ### Plugins / IRC
 
-*   [Narrowspark-Automatic (⭐13)](https://github.com/narrowspark/automatic) - Automates the most common tasks of applications, boost package downloads, adds a composer security audit and more.
+*   [Narrowspark-Automatic (⭐14)](https://github.com/narrowspark/automatic) - Automates the most common tasks of applications, boost package downloads, adds a composer security audit and more.
 
 ## [Aug 20 - Aug 26, 2018](/content/2018/34/README.md)
 
 ### Plugins / IRC
 
-*   [Imposter-Plugin (⭐151)](https://github.com/typisttech/imposter-plugin) - Wrapping all composer vendor packages inside your own namespace. Intended for WordPress plugins.
+*   [Imposter-Plugin (⭐153)](https://github.com/typisttech/imposter-plugin) - Wrapping all composer vendor packages inside your own namespace. Intended for WordPress plugins.
 
 ## [Jun 04 - Jun 10, 2018](/content/2018/23/README.md)
 
@@ -377,11 +385,6 @@
 
 *   [Composer-Plugin-QA (⭐25)](https://github.com/Webysther/composer-plugin-qa) - Comprehensive Plugin for composer to execute PHP Quality assurance Tools.
 
-### Packagist Mirrors / IRC
-
-*   South America
-    *   Brazil - [packagist.com.br](https://packagist.com.br)
-
 ## [Jul 31 - Aug 06, 2017](/content/2017/31/README.md)
 
 ### Videos / IRC
@@ -392,7 +395,7 @@
 
 ### Plugins / IRC
 
-*   [Composer-Warmup (⭐181)](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
+*   [Composer-Warmup (⭐180)](https://github.com/jderusse/composer-warmup) - The plugin adds the command `warmup-opcode` to Composer, which triggers the compilation of all PHP files discovered in your project into the Opcache.
 
 ## [Jul 17 - Jul 23, 2017](/content/2017/29/README.md)
 
@@ -404,7 +407,7 @@
 
 ### Plugins / IRC
 
-*   [Symfony-Flex (⭐4.2k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐990)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
+*   [Symfony-Flex (⭐4.2k)](https://github.com/symfony/flex) - Provides [recipe-based (⭐1k)](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 
 ## [Feb 27 - Mar 05, 2017](/content/2017/9/README.md)
 
@@ -420,20 +423,20 @@
 
 ### Tools / IRC
 
-*   [ComposerRequireChecker (⭐930)](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
+*   [ComposerRequireChecker (⭐960)](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
 
 ## [Nov 21 - Nov 27, 2016](/content/2016/47/README.md)
 
 ### Plugins / IRC
 
-*   [Composer-Bin-Plugin (⭐490)](https://github.com/bamarni/composer-bin-plugin) - Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies.
+*   [Composer-Bin-Plugin (⭐505)](https://github.com/bamarni/composer-bin-plugin) - Adds support for managing dependencies for multiple packages in a single repository or isolate bin dependencies.
 *   [Composer-Inheritance-Plugin (⭐28)](https://github.com/theofidry/composer-inheritance-plugin) - Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin.
 
 ## [Jun 27 - Jul 03, 2016](/content/2016/26/README.md)
 
 ### Plugins / IRC
 
-*   [Composer-Asset-Plugin (⭐890)](https://github.com/fxpio/composer-asset-plugin) - A npm/Bower Dependencies Manager for Composer.
+*   [Composer-Asset-Plugin (⭐891)](https://github.com/fxpio/composer-asset-plugin) - A npm/Bower Dependencies Manager for Composer.
 
 ## [Jun 20 - Jun 26, 2016](/content/2016/25/README.md)
 
@@ -463,10 +466,10 @@
 *   [Composer-Composition (⭐105)](https://github.com/bamarni/composition) - Provides an API, for checking your environment at runtime.
 *   [Composer-Suggest (⭐4)](https://github.com/nfreear/composer-suggest) - Enables you to install a custom group of suggested packages, based on keyword patterns.
 *   [Composer-Versions-Check (⭐234)](https://github.com/Soullivaneuh/composer-versions-check) - Shows outdated packages from last major versions after using the update command (showing "Latest is vX.Y.Z").
-*   [Composer-Changelogs (⭐589)](https://github.com/pyrech/composer-changelogs) - Provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file.
-*   [Composer-Merge-Plugin (⭐945)](https://github.com/wikimedia/composer-merge-plugin) - Merges multiple `composer.json` files at Composer runtime.
+*   [Composer-Changelogs (⭐590)](https://github.com/pyrech/composer-changelogs) - Provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file.
+*   [Composer-Merge-Plugin (⭐962)](https://github.com/wikimedia/composer-merge-plugin) - Merges multiple `composer.json` files at Composer runtime.
 *   [Composer-Patches-Plugin (⭐79)](https://github.com/netresearch/composer-patches-plugin) - Enables you to provide patches for any package from any package. When the dependency is fetched, the patch is applied on top.
-*   [Composer-Cleanup-Plugin (⭐146)](https://github.com/barryvdh/composer-cleanup-plugin) - Removes tests & documentation folders from the vendor dir.
+*   [Composer-Cleanup-Plugin (⭐147)](https://github.com/barryvdh/composer-cleanup-plugin) - Removes tests & documentation folders from the vendor dir.
 *   [Composer-Cleaner (⭐137)](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory.
 *   [Prestissimo (⭐6.2k)](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
 *   [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.

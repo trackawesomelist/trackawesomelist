@@ -2,9 +2,15 @@
 
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 2.9K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/AchoArnold/discount-for-student-dev/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 AchoArnold/discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev) · ⭐ 3K · 🏷️ Miscellaneous
 
 [ [Daily](/content/AchoArnold/discount-for-student-dev/README.md) / Weekly / [Overview](/content/AchoArnold/discount-for-student-dev/readme/README.md) ]
+
+## [Jun 09 - Jun 15, 2025](/content/2025/23/README.md)
+
+### Email
+
+*   [Lettermint](https://lettermint.co/promo-codes-and-discounts/students) \[FREE] - Get Lettermint Starter for free for six months (normally €60) to send transactional emails with your projects.
 
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
@@ -46,7 +52,7 @@ This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerin
 
 ### Programming Help
 
-*   [GitHub Copilot](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer) \[FREE] - Free access to Copilot Individual while you're a student. To enable Copilot, go to your account settings and select Copilot under Code, planning, and Automation to sign up for free. Or click on the link below to claim the offer.
+*   [GitHub Copilot](https://docs.github.com/en/copilot/managing-copilot/managing-copilot-as-an-individual-subscriber/managing-your-copilot-subscription/getting-free-access-to-copilot-as-a-student-teacher-or-maintainer) \[FREE] - Free access to Copilot Pro while you're a student. To enable Copilot Pro, go to your account settings and under Code, planning, and automation, select Copilot to sign up for free. Or click on the link below to claim the offer.
 
 ### Visual Analytics
 

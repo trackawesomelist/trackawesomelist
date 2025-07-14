@@ -117,9 +117,9 @@ This is a curated list for when naming things is done right.
 
 *   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
 *   [CockroachDB](https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb) - Database application, that is marketed as being so fault tolerant and resilient as a cockroach.
-*   [corrosion (⭐1.2k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally) but also a tool that "turns" C++ into Rust.
+*   [corrosion (⭐1.3k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally) but also a tool that "turns" C++ into Rust.
 *   [horcrux (⭐4.8k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
-*   [Puppeteer (⭐90k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐91k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 *   [Safari](https://en.wikipedia.org/wiki/Safari_\(web_browser\)) - Web browser developed by Apple.
 *   [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
 *   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.
@@ -137,6 +137,7 @@ This is a curated list for when naming things is done right.
 *   [Code golf](https://en.wikipedia.org/wiki/Code_golf) - Writing a program in as few characters as possible. Just like how Golf players try to win in the fewest club strokes.
 *   [Cookie licking](https://devblogs.microsoft.com/oldnewthing/20091201-00/?p=15843) - E.g. claiming a GitHub issue, then not working on it.
 *   [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_\(media\)) - A hidden feature especially in video games in reference to the Easter egg hunt.
+*   [Firmware](https://en.wikipedia.org/wiki/Firmware) - The *ware* between *software* and *hardware*.
 *   [Floating point number](https://floating-point-gui.de/formats/fp/) - This representation can encode numbers at very different magnitudes with limited amount of digits by letting the radix point *float* instead of being fixed in place.
 *   [Framework](https://en.wikipedia.org/wiki/Software_framework) - In software architecture (like in actual architecture) frameworks provide basic structure to  build upon that guide and constrain the further development.
 *   [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - Jenga and LEGO bricks don't share the same interface but you can always glue them together.

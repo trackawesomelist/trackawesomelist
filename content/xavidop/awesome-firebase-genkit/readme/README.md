@@ -2,7 +2,7 @@
 
 🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xavidop/awesome-firebase-genkit](https://github.com/xavidop/awesome-genkit) · ⭐ 52 · 🏷️ LLM
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xavidop/awesome-firebase-genkit](https://github.com/xavidop/awesome-genkit) · ⭐ 75 · 🏷️ LLM
 
 [ [Daily](/content/xavidop/awesome-firebase-genkit/README.md) / [Weekly](/content/xavidop/awesome-firebase-genkit/week/README.md) / Overview ]
 
@@ -52,6 +52,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
     *   [Python - Official](#python---official)
     *   [Golang - Official](#golang---official)
     *   [Golang - Community](#golang---community)
+*   [Client Libraries](#client-libraries)
 *   [API References](#api-references)
 *   [Solutions](#solutions)
 *   [Talks](#talks)
@@ -139,6 +140,12 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 1.  Model / Embedding Plugins
     *   [`openai`](https://pkg.go.dev/github.com/yukinagae/genkit-go-plugins/plugins/openai) - Plugin for OpenAI APIs.
 
+## Client Libraries
+
+### Dart - Official
+
+*   [`dart-client-for-genkit`](https://pub.dev/packages/genkit) - A type-safe Dart client library for calling Genkit flows with streaming support, authentication, and comprehensive error handling.
+
 ## API References
 
 1.  [JavaScript](https://js.api.genkit.dev/) - Specs for the JavaScript API.
@@ -153,6 +160,8 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 *   [Supercharge your app with Genkit](https://www.youtube.com/watch?v=eVud8llb_W0) - A talk on how to supercharge your app with Genkit.
 *   [Accelerating Generative AI App Development with Flutter & Genkit](https://speakerdeck.com/coborinai/accelerating-generative-ai-app-development-with-flutter-and-firebase-genkit) - Slides from a presentation at FlutterGakkai, a Flutter conference in Japan, showcasing how to integrate Genkit with Flutter for rapid generative AI app development.
+*   [Dart client for Genkit: Call Genkit Flows from Flutter/Dart - Slides](https://speakerdeck.com/coborinai/dart) - Slides from a lightning talk at Google I/O Extended Tokyo 2025, introducing the Dart client library for calling Genkit flows from Flutter/Dart applications.
+*   [Dart client for Genkit: Call Genkit Flows from Flutter/Dart - Video](https://youtu.be/AakdczWQLzY?si=S5aT29miICHWQepM) - Video from a lightning talk at Google I/O Extended Tokyo 2025, introducing the Dart client library for calling Genkit flows from Flutter/Dart applications.
 
 ## Videos
 
@@ -183,6 +192,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 *   [Getting Started with AI Image Generation Apps on Flutter, Genkit, and Imagen 3](https://medium.com/@nozomi-koborinai/getting-started-with-ai-image-generation-apps-on-flutter-genkit-and-imagen-3-9a83c63cbdf3) - A guide to building an AI image generation app using Flutter, Genkit, and Google's Imagen 3.
 *   [Extending Your AI Application with Genkit MCP](https://medium.com/@nozomi-koborinai/extending-your-ai-application-with-genkit-mcp-475d7533ca9e) - Learn how to integrate Google Maps using Genkit MCP client to query MCP servers for enhanced location-based AI features.
 *   [Genkit vs Agent Development Kit (ADK): Choosing the Right Google‑Backed AI Framework](https://medium.com/@nozomi-koborinai/genkit-vs-agent-development-kit-adk-choosing-the-right-google-backed-ai-framework-1744b73234ac) - A comparison of two Google-backed AI frameworks, helping developers choose the right tool for their needs.
+*   [Dart Client for Genkit: Call Genkit Flows from Flutter/Dart](https://medium.com/@nozomi-koborinai/dart-client-for-genkit-call-genkit-flows-from-flutter-dart-b5a2c9b9400e) - A comprehensive guide to using the Dart client library for calling Genkit flows from Flutter and Dart applications with streaming support and type safety.
 
 ## Tutorials
 
@@ -196,10 +206,10 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 *   [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 *   [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
-*   [Genkit GitHub (⭐1.4k)](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
+*   [Genkit GitHub (⭐2.6k)](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
 *   [The Fire Company](https://github.com/TheFireCo) - The Fire Company GitHub organization.
 
 ## Contributors
 
-[Thanks goes to these contributors (⭐52)](https://github.com/xavidop/awesome-genkit/graphs/contributors)!
+[Thanks goes to these contributors (⭐75)](https://github.com/xavidop/awesome-genkit/graphs/contributors)!
 

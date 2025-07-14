@@ -88,6 +88,7 @@ A curated list of podcasts we like to listen to.
 *   [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Scott Hanselman sits down with the actual engineers who build Azure on his journey to learn how to program the cloud. No marketing, no BS, just two engineers and a laptop in short manageable chunks.
 *   [Base.cs](https://www.codenewbie.org/basecs) - Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
 *   [Between Screens](https://soundcloud.com/between-screens) - Expect to find content about the following topics: Ruby, Rails, Sinatra, Sass, Javascript, Design Patterns, Jekyll, Client-Side Web Apps, Rust, Typography, Git, Responsive Design, Prototyping, Web Design, Type Design and more.
+*   [Beyond Coding](https://xebia.com/podcasts) - Podcast by Xebia.
 *   [Blockchain Insider](https://bi.11fs.com/) - Weekly podcast specialising in all things blockchain, ledger technology and crypto currencies.
 *   [Boagworld Show](https://boagworld.com/show) - Boagworld is a podcast about digital strategy, management and user experience. It offers practical advice, news, tools, review and interviews with leading figures in the web design community.
 *   [BookBytes](https://www.orbit.fm/bookbytes/) - A book club podcast for developers.
@@ -179,6 +180,7 @@ A curated list of podcasts we like to listen to.
 *   [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
 *   [Podcast.\_*init*\_](https://www.pythonpodcast.com/) - A podcast about Python and the people who make it great.
 *   [Practical AI](https://changelog.com/practicalai) – Making artificial intelligence practical, productive, and accessible to everyone.
+*   [pragmatism In Practice](https://www.thoughtworks.com/insights/podcasts/pragmatism-in-practice) - Pragmatism In Practice is a podcast series for business and technology leaders.
 *   [Privacy Security & OSINT with Michael Bazzel](https://inteltechniques.com/podcast.html) - This weekly podcast presents ideas to help you become digitally invisible, stay secure from cyber threats, and make you a better online investigator.
 *   [Python Bytes](https://pythonbytes.fm/) - Python headlines delivered directly to your earbuds.
 *   [Radiolab](https://www.wnycstudios.org/shows/radiolab) - Radiolab is a show about curiosity. Where sound illuminates ideas, and the boundaries blur between science, philosophy, and human experience.
@@ -193,6 +195,7 @@ A curated list of podcasts we like to listen to.
 *   [Second Career Devs](https://secondcareerdevs.com/) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
 *   [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
 *   [Security Weekly](https://securityweekly.com) - A weekly podcast about security and info sec.
+*   [Scrimba Podcast](https://podcast.scrimba.com) - Learn from inspiring developers about how they found meaningful and fulfilling work that that also pays them well.
 *   [Semaphore Uncut](https://semaphoreci.com/podcast) - Software industry pros discuss problems they’re currently solving with the products they're working on.
 *   [Self Hosted](https://selfhosted.show/) - Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show between Chris and Alex two long-time "self-hosters" who share their lessons and take you on the journey of their new ones. A Linux Academy podcast showcasing free and open source technologies you can host yourself.
 *   [ShopTalk Show](https://shoptalkshow.com/) - Podcast about front end web design, development and UX.
@@ -257,6 +260,7 @@ A curated list of podcasts we like to listen to.
 *   [Acabou o café](https://www.listennotes.com/podcasts/acabou-o-caf%C3%A9-archcode-3DQw-pYW_dx/) - Podcast sobre desenvolvimento de sistemas e tecnologia do ArchCode.
 *   [Adrenaline](https://open.spotify.com/show/2Yj0uF6UjYLhJzclj2jXaE) - Podcast que aborda temas de tecnologia, games e cultura geek.
 *   [Amarelo Criativo](https://soundcloud.com/amarelocriativo) - Todos os podcasts da Amarelo criativo. Programas diferentes ao longo da semana para trazer informação sobre o mercado criativo, mundo geek e com o humor bem Amarelo.
+*   [Café Debug](https://cafedebug.com.br/) - Um podcast de ciência e tecnologia que tem como intuito compartilhar idéias, projetos e conhecimento contando com entrevistas ricas e bem humoradas.
 *   [CapyCast](https://soundcloud.com/rdshipit/) - Podcast com o Time de Produto da Resultados Digitais sobre os seus aprendizados em Desenvolvimento e Design.
 *   [Chama o Suporte](https://open.spotify.com/show/5NR3iBbF3aRUP2gEDRzjGo) - Podcast do grupo Guardians do curso de Ciência da Computação da Universidade Federal de Campina Grande.
 *   [DatabaseCast](https://imasters.com.br/perfil/databasecast/) - Primeiro podcast brasileiro sobre bancos de dados.

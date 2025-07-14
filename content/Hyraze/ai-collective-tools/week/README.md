@@ -2,9 +2,28 @@
 
 Explore a curated selection of AI tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 113 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Hyraze/ai-collective-tools/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Hyraze/ai-collective-tools](https://github.com/Hyraze/ai-collective-tools) · ⭐ 118 · 🏷️ Computer Science
 
 [ [Daily](/content/Hyraze/ai-collective-tools/README.md) / Weekly / [Overview](/content/Hyraze/ai-collective-tools/readme/README.md) ]
+
+## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
+
+### Code Assistant
+
+*   [Keploy](https://keploy.io/) - AI-powered automation API and Unit testing, latest UTG pr agent generates unit tests after each pr. `#free`
+
+### Dating
+
+*   [EveningHoney.ai](https://www.eveninghoney.ai/) - Experience immersive relationships with AI girlfriends and virtual companions. Chat, receive images & videos, make phone calls, and dive into realistic relationships. `#freemium`
+*   [Fantasy.ai](https://fantasy.ai/) - Fantasy.ai is an AI companion platform offering human-like NSFW chat, Realistic image generation, and fully customizable virtual partners. `#freemium`
+
+### Gift Ideas
+
+*   [BestBuyClues](https://bestbuyclues.com/) - Your AI Gift Ideas Generator `#free`
+
+### Image Editing
+
+*   [Img.Upscaler](https://imgupscaler.com/) - Img.Upscaler uses AI to enlarge your jpg, png, webp images by 200% or 400% without losing quality. `#freemium`
 
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
@@ -102,7 +121,7 @@ Explore a curated selection of AI tools and resources
 
 ### Developer
 
-*   [Floom (⭐41)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
+*   [Floom (⭐43)](https://github.com/FloomAI/Floom) - AI gateway and marketplace for developers, enables streamlined integration of AI features into products. `#opensource`
 
 ### Models
 
@@ -394,7 +413,7 @@ Explore a curated selection of AI tools and resources
 *   [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/) - A foundational, 65-billion-parameter large language model by Meta. `#opensource` `#free`
 *   [Llama 2](https://ai.meta.com/llama/) - The next generation of Meta's open source large language model. `#opensource` `#free`
 *   [OPT](https://opt.alpa.ai/) - Open Pretrained Transformers (OPT) by Facebook is a suite of decoder-only pre-trained transformers. `#opensource` `#free`
-*   [Qwen (⭐17k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
+*   [Qwen (⭐19k)](https://github.com/QwenLM/Qwen) - Pretrained large language model proposed by Alibaba Cloud. `#free`
 
 ### Productivity
 

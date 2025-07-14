@@ -2,7 +2,7 @@
 
 A list of amazing Newsletters
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4.1K · 🏷️ Entertainment
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / Overview ]
 
@@ -14,9 +14,9 @@ Inspired by the `awesome-*` trend on GitHub.
 
 The goal is to build a categorized community-driven collection of very well-known resources.
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines (⭐4k)](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines (⭐4.1k)](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
 
-Thanks to all [contributors (⭐4k)](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
+Thanks to all [contributors (⭐4.1k)](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
 *   [Frontend](#frontend)
     *   [General Web Development](#general-web-development)
@@ -248,7 +248,7 @@ Thanks to all [contributors (⭐4k)](https://github.com/zudochkin/awesome-newsle
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐745)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐766)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 
@@ -444,7 +444,6 @@ Thanks to all [contributors (⭐4k)](https://github.com/zudochkin/awesome-newsle
 
 *   [TLDR](https://www.tldrnewsletter.com/). TLDR is a daily curated newsletter containing links and summaries of the most interesting stories in tech.
 *   [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
-*   [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 *   [TechMeme](https://www.techmeme.com/). Techmeme is a aggregated, filtered, archiveable summary in near real-time of what is new and generating conversation in technology.
 *   [Unzip.dev](https://unzip.dev/). Developer trends newsletter, unpacking one trend at a time.
 *   [Daily Tech](https://dailytech.email). Daily Tech is a curated newsletter about technology, startups, product, and software engineering.
@@ -467,6 +466,7 @@ Thanks to all [contributors (⭐4k)](https://github.com/zudochkin/awesome-newsle
 *   [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
 *   [The Content Odyssey](https://newsletter.mktodyssey.com/). Biweekly tried-and-tested content growth experiments.
 *   [The Marketing Newsletter](http://themarketingnewsletter.org) - Ideas to help marketers and creators grow faster and work smarter
+*   [Geekout Newsletter](https://geekout.mattnavarra.com/) - latest social media platform news, tips, tools, and new features
 
 ## Business/Finance
 
@@ -490,7 +490,7 @@ Thanks to all [contributors (⭐4k)](https://github.com/zudochkin/awesome-newsle
 *   [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
 *   [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 *   [Better Dev Link](https://betterdev.link). A weekly newsletter, collects links that aim to improve programming knowledge general. The purpose is not include the links that reader can search instantly from google such as how to do x, y, z but more about problem solving in programming.
-*   [GitHub Trending Repos (⭐2.7k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
+*   [GitHub Trending Repos (⭐2.8k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 *   [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 *   [Senior Mindset](https://seniormindset.com). Get a series of curated essays on the mindset of a senior software engineer.
 *   [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.

@@ -2,9 +2,19 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 144 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 152 · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / [Overview](/content/Billiam/awesome-ironsworn/readme/README.md) ]
+
+## [Jun 06, 2025](/content/2025/06/06/README.md)
+
+### Official content
+
+*   [Ironsworn](https://tomkinpress.com/pages/ironsworn) - A tabletop RPG of perilous quests
+*   [Ironsworn: Delve](https://tomkinpress.com/pages/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game taking your quests to the deepest, darkest reaches of the Ironlands
+*   [Ironsworn: Starforged](https://tomkinpress.com/pages/ironsworn-starforged) - The sci-fi evolution of the award-winning tabletop roleplaying game
+*   [Lodestar](https://tomkinpress.com/collections/all-products/products/ironsworn-lodestar-expanded-reference-guide) - Reference guide for Ironsworn and Ironsworn: Delve
+*   [Sundered Isles](https://tomkinpress.com/pages/sundered-isles) - Supplement for Ironsworn: Starforged with guidelines, options, and tools for exploring a world of fantasy seafaring adventure
 
 ## [May 02, 2025](/content/2025/05/02/README.md)
 
@@ -196,10 +206,6 @@ An awesome list of awesome Ironsworn projects
 *   [Starsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starsmith-expanded-oracles) - A FoundryVTT compendium of the Starsmith oracles for the Ironsworn: Starforged system
 
 ## [Oct 05, 2023](/content/2023/10/05/README.md)
-
-### Official content
-
-*   [Ironsworn: Starforged](https://www.ironswornrpg.com/product-ironsworn-starforged) -  The sci-fi evolution of the award-winning tabletop roleplaying game
 
 ### Tools / Ironsworn
 
@@ -438,14 +444,10 @@ An awesome list of awesome Ironsworn projects
 
 ## [Aug 15, 2021](/content/2021/08/15/README.md)
 
-### Official content
-
-*   [Ironsworn: Delve](https://shawn-tomkin.itch.io/ironsworn-delve) - Supplement for the Ironsworn tabletop roleplaying game taking your quests to the deepest, darkest reaches of the Ironlands
-
 ### Tools / Ironsworn
 
 *   [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
-*   [IronWriter (⭐56)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
+*   [IronWriter (⭐57)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
 
 ### Resources / Ironsworn
 
@@ -457,10 +459,6 @@ An awesome list of awesome Ironsworn projects
 *   [Delves & Denizens](https://delves-n-denizens.tumblr.com/) - Ironsworn addon focused on classical fantasy
 
 ## [Aug 13, 2021](/content/2021/08/13/README.md)
-
-### Official content
-
-*   [Ironsworn](https://www.ironswornrpg.com/) - A tabletop RPG of perilous quests
 
 ### Community
 
@@ -483,8 +481,8 @@ An awesome list of awesome Ironsworn projects
 
 ### Resources / Ironsworn
 
-*   [DataForged (⭐197)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐135)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐200)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐136)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 
 ### Hacks and homebrew / Ironsworn
 

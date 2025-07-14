@@ -6,11 +6,17 @@ A curated list for when naming things is done right.
 
 [ Daily / [Weekly](/content/gruhn/awesome-naming/week/README.md) / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
 
+## [Jul 14, 2025](/content/2025/07/14/README.md)
+
+### Other
+
+*   [Firmware](https://en.wikipedia.org/wiki/Firmware) - The *ware* between *software* and *hardware*.
+
 ## [Apr 09, 2025](/content/2025/04/09/README.md)
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [corrosion (⭐1.2k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally) but also a tool that "turns" C++ into Rust.
+*   [corrosion (⭐1.3k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally) but also a tool that "turns" C++ into Rust.
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
@@ -147,7 +153,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [Puppeteer (⭐90k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐91k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [Oct 08, 2021](/content/2021/10/08/README.md)
 

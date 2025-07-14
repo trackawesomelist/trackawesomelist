@@ -6,6 +6,36 @@
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-falsehood/week/README.md) / [Overview](/content/kdeldycke/awesome-falsehood/readme/README.md) ]
 
+## [Jul 14, 2025](/content/2025/07/14/README.md)
+
+### Business
+
+*   [Decimal Point Error in Etsy's Accounting System](https://web.archive.org/web/20230615151102/https://old.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - The importance of types in accounting software: missing the decimal point ends up with 100x over-charges.
+*   [Twenty five thousand dollars of funny money](https://web.archive.org/web/20250326135824/http://rachelbythebay.com/w/2022/12/02/25k/) - Same error as above at Google Ads, or the danger of separating your pennies from your dollars, where $250 internal coupons turned into $25,000. My advice: [get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and parse them, don't validate.](https://twitter.com/kdeldycke/status/1599113889093890049)
+
+### Dates and Time
+
+*   [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://web.archive.org/web/20200216181551/https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - String formatting of date is hard.
+*   [Why is subtracting these two times (in 1927) giving a strange result?](https://web.archive.org/web/20241124114705/https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-epoch-milli-times-in-year-1927-giving-a-strange-r/6841479#answer-6841479) - Infamous Stack Overflow answer about both complicated historical timezones, and how historical dates can be re-interpreted by newer versions of software.
+
+### Geography
+
+*   [Falsehoods about Maps](https://web.archive.org/web/20250516080728/http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers coordinates, projection and GIS.
+*   [Falsehoods about Weather](https://shkspr.mobi/blog/2024/06/falsehoods-programmers-believe-about-weather/) - Weather is location-dependent, and so full of edge-cases.
+
+### Networks
+
+*   [Falsehoods about Networks](https://web.archive.org/web/20250215201837/http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) - Covers TCP, DHCP, DNS, VLANs and IPv4/v6.
+
+### Software Engineering
+
+*   [Falsehoods about authorization](https://www.osohq.com/post/falsehoods-about-authorization) - Misconceptions about implementing permissions systems.
+
+### Transportation
+
+*   [Falsehoods about Aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/) - Aviation data are less normalized than you might think.
+*   [My name causes an issue with any booking!](https://web.archive.org/web/20250528134345/https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
+
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
 ### Software Engineering
@@ -90,7 +120,6 @@
 
 ### Postal Addresses
 
-*   [What is the Most Minimal UK Address Possible?](https://microblog.vladh.net/posts/most-minimal-uk-address/) - The trick is to rely on postcodes, which in the UK are pretty specific and “often identify one or a few specific buildings, unlike countries where a postcode represents an entire neighbourhood”.
 *   [Why doesn't Costa Rica use real addresses?](https://www.crcdaily.com/p/why-doesnt-costa-rica-use-real-addresses) - Costa Rican uses an idiosyncratic system of addresses that relies on landmarks, history and quite a bit of guesswork.
 *   [USPS Postal Addressing Standards](https://pe.usps.com/text/pub28/welcome.htm) - Describes both standardized address formats and content.
 
@@ -110,7 +139,7 @@
 
 ### Software Engineering
 
-*   [Falsehoods about Quantum Technology (⭐10)](https://github.com/gottfriedsz/falsehoods-quantum) - Common misconceptions about quantum technology and computers.
+*   [Falsehoods about Quantum Technology (⭐11)](https://github.com/gottfriedsz/falsehoods-quantum) - Common misconceptions about quantum technology and computers.
 
 ## [Dec 19, 2022](/content/2022/12/19/README.md)
 
@@ -128,7 +157,6 @@
 
 ### Business
 
-*   [Twenty five thousand dollars of funny money](http://rachelbythebay.com/w/2022/12/02/25k/) - Same error as above at Google Ads, or the danger of separating your pennies from your dollars, where $250 internal coupons turned into $25,000. My advice: [get rid of integers and floats for monetary values. Use decimals. Or fallback to strings and parse them, don't validate.](https://twitter.com/kdeldycke/status/1599113889093890049)
 *   [Minutiae of company names](https://twitter.com/nthnmsmth/status/1587880523124408322) - How the rules of the State of Delaware and the IRS does not intersects.
 
 ### Software Engineering
@@ -192,21 +220,17 @@
 
 ### Phone Numbers
 
-*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐825)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.6k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐548)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.8k)](https://github.com/giggsey/libphonenumber-for-php).
+*   [`libphonenumber`](https://github.com/googlei18n/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers. Also available for [C# (⭐847)](https://github.com/twcclegg/libphonenumber-csharp), [Objective-C (⭐2.4k)](https://github.com/iziz/libPhoneNumber-iOS), [Python (⭐3.6k)](https://github.com/daviddrysdale/python-phonenumbers), [Ruby (⭐548)](https://github.com/sstephenson/global_phone) and [PHP (⭐4.9k)](https://github.com/giggsey/libphonenumber-for-php).
 
 ### Software Engineering
 
 *   [Hi! My name is…](https://www.youtube.com/watch?v=NIebelIpdYk) - This talk could have been named *falsehoods about usernames (and other identifiers)*.
 
-### Transportation
-
-*   [My name causes an issue with any booking!](https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
-
 ## [Jan 11, 2022](/content/2022/01/11/README.md)
 
 ### Business
 
-*   [CLDR currency definitions (⭐974)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
+*   [CLDR currency definitions (⭐1k)](https://github.com/unicode-org/cldr/blob/release-40/common/supplemental/supplementalData.xml#L87-L94) - Currency validity date ranges overlap due to revolts, invasions, new constitutions, and slow planned adoption.
 
 ## [Nov 14, 2021](/content/2021/11/14/README.md)
 
@@ -278,12 +302,12 @@
 ### Business
 
 *   [Falsehoods about Prices](https://gist.github.com/rgs/6509585) - Covers currencies, amounts and localization.
-*   [Falsehoods about IBANs (⭐486)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
+*   [Falsehoods about IBANs (⭐492)](https://github.com/globalcitizen/php-iban/blob/master/docs/FALSEHOODS.md) - International Bank Account Numbers are not international.
 *   [Falsehoods about Economics](http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/) - Economics are not simple or rational.
 
 ### Cryptocurrency
 
-*   [Falsehoods about Bitcoin (⭐73)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
+*   [Falsehoods about Bitcoin (⭐77)](https://github.com/theborakompanioni/spring-boot-bitcoin-starter/blob/master/docs/FALSEHOODS.md) - A list of mistaken perspectives on Bitcoin.
 
 ### Dates and Time
 
@@ -292,10 +316,6 @@
 *   [Falsehoods about Time and Time Zones](https://www.creativedeletion.com/2015/01/28/falsehoods-programmers-date-time-zones.html) - Another takes on time-related falsehoods, with an emphasis on time zones.
 *   [Critique of Falsehoods about Time](https://gist.github.com/thanatos/eee17100476a336a711e) - Takes on the first article above and provides an explanation of each falsehood, with more context and external resources.
 *   [Falsehoods about Time Zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/) - Has some nice points regarding the edge-cases of DST transitions.
-
-### Geography
-
-*   [Falsehoods about Maps](http://www.atlefren.net/post/2014/09/falsehoods-programmers-believe-about-maps/) - Covers coordinates, projection and GIS.
 
 ### Human Identity
 
@@ -317,10 +337,6 @@
 
 *   [Falsehoods about Video](https://haasn.xyz/posts/2016-12-25-falsehoods-programmers-believe-about-%5Bvideo-stuff%5D.html) - Cover it all: video decoding and playback, files, image scaling, color spaces and conversion, displays and subtitles.
 
-### Networks
-
-*   [Falsehoods about Networks](http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html) - Covers TCP, DHCP, DNS, VLANs and IPv4/v6.
-
 ### Phone Numbers
 
 *   [Falsehoods about Phone Numbers (⭐17k)](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) - Covers phone numbers, their representation and meaning.
@@ -341,7 +357,7 @@
 
 ### Software Engineering
 
-*   [Falsehoods about Versions (⭐69)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
+*   [Falsehoods about Versions (⭐68)](https://github.com/xenoterracide/falsehoods/blob/master/versions.md) - Attributing an identity to a software release might be harder than thought.
 *   [Falsehoods about Build Systems](https://pozorvlak.livejournal.com/174763.html) - Building software is hard. Building software that builds software is harder.
 *   [Myths about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/) - Misconceptions about caches often lead to false assertions, especially when it comes to concurrency and race conditions.
 *   [Falsehoods about CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - While RFC4180 to exists, it is far from definitive and goes largely ignored.
@@ -376,10 +392,8 @@
 *   [You Advocate a Calendar Reform](https://qntm.org/calendar) - Your idea will not work. This article tells you why.
 *   [So You Want to Abolish Time Zones](https://qntm.org/abolish) - Abolishing timezones may sound like a good idea, but there are quite a few complications that make it not quite so.
 *   [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) - A video about why you should never, ever deal with timezones if you can help it.
-*   [ISO-8601, `YYYY`, `yyyy`, and why your year may be wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) - String formatting of date is hard.
 *   [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - There are edge cases about dates and time (specifically UTC) that you probably haven't thought of.
 *   [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - “Just store dates in UTC” is not always the right approach.
-*   [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - Infamous Stack Overflow answer about both complicated historical timezones, and how historical dates can be re-interpreted by newer versions of software.
 
 ### Education
 
@@ -402,12 +416,12 @@
 
 *   [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) - A video about things you need to keep in mind when internationalizing your code.
 *   [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - A good introduction to unicode, its historical context and origins, followed by an overview of its inner working.
-*   [Awesome Unicode (⭐924)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
+*   [Awesome Unicode (⭐939)](https://github.com/Wisdom/Awesome-Unicode) - A curated list of delightful Unicode tidbits, packages and resources.
 *   [Dark corners of Unicode](https://eev.ee/blog/2015/09/12/dark-corners-of-unicode/) - Unicode is extensive, here be dragons.
 *   [Let's Stop Ascribing Meaning to Code Points](https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/) - Dives deeper in Unicode and dispels myths about code points.
 *   [Breaking Our `Latin-1` Assumptions](https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/) - Most programmers spend so much time with `Latin-1` they forgets about other's scripts quirks.
 *   [Ode to a shipping label](http://i.imgur.com/4J7Il0m.jpg) - Character encoding is hard, more so when each broken layer of data input adds its own spice.
-*   [i18n Testing Data (⭐64)](https://github.com/patch/i18n-testing) - Compilation of real-word international and diverse name data for unit testing and QA.
+*   [i18n Testing Data (⭐65)](https://github.com/patch/i18n-testing) - Compilation of real-word international and diverse name data for unit testing and QA.
 *   [Big List of Naughty Strings (⭐47k)](https://github.com/minimaxir/big-list-of-naughty-strings) - A huge corpus of strings which have a high probability of causing issues when used as user-input data. A must have set of practical edge-cases to test your software against.
 
 ### Networks
@@ -446,12 +460,6 @@
 ### Business
 
 *   [Characters `<` and `>` in company names lead to XSS attacks](https://forum.aws.chdev.org/t/cross-site-scripting-xss-software-attack/3355) - Because [UK allows companies to be registered with special characters](https://www.legislation.gov.uk/uksi/2015/17/schedule/1/made), a hacker leveraged them to register `\"><SCRIPT SRC=MJT.XSS.HT></SCRIPT> LTD`, but also `; DROP TABLE "COMPANIES";-- LTD`, `BETTS &AMP; TWINE LTD` and `SAFDASD & SFSAF \' SFDAASF\" LTD`.
-
-## [Aug 06, 2020](/content/2020/08/06/README.md)
-
-### Business
-
-*   [Decimal Point Error in Etsy's Accounting System](https://www.reddit.com/r/Etsy/comments/hz4877/if_you_are_an_etsy_seller_do_not_purchase_postage/) - The importance of types in accounting software: missing the decimal point ends up with 100x over-charges.
 
 ## [Jan 21, 2020](/content/2020/01/21/README.md)
 

@@ -2,9 +2,19 @@
 
 Awesome online talks and screencasts
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/JanVanRyswyck/awesome-talks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) · ⭐ 6.1K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/JanVanRyswyck/awesome-talks/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) · ⭐ 6.2K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/JanVanRyswyck/awesome-talks/week/README.md) / [Overview](/content/JanVanRyswyck/awesome-talks/readme/README.md) ]
+
+## [Jul 14, 2025](/content/2025/07/14/README.md)
+
+### Software Development
+
+*   [Email vs Capitalism: A Story About Why We Can't Have Nice Things](https://www.youtube.com/watch?v=U8mJCPpvu1I) by **Dylan Beattie** (Joy Of Coding 2023) \[54:49]
+
+### Computer History
+
+*   [The Boeing 737 MAX: When Humans and Technology Don't Mix](https://www.youtube.com/watch?v=opRbU6WZH9s) by **Kyle Kotowick** (NDC TechTown 2022) \[01:00:45]
 
 ## [Feb 07, 2025](/content/2025/02/07/README.md)
 
@@ -69,7 +79,6 @@ Awesome online talks and screencasts
 ### Software Development
 
 *   [Programming’s Greatest Mistakes](https://www.youtube.com/watch?v=qC_ioJQpv4E) by **Mark Rendle** (NDC Copenhagen 2022) \[55:34]
-*   [Email vs Capitalism, or, Why We Can't Have Nice Things](https://www.youtube.com/watch?v=mrGfahzt-4Q) by **Dylan Beattie** (NDC Oslo 2023) \[56:45]
 
 ### Software Design
 

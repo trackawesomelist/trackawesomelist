@@ -2,7 +2,7 @@
 
 A curated list of awesome and exceptional board games. Please contribute!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 330 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 337 · 🏷️ Miscellaneous
 
 [ [Daily](/content/edm00se/awesome-board-games/README.md) / [Weekly](/content/edm00se/awesome-board-games/week/README.md) / Overview ]
 
@@ -26,6 +26,18 @@ A curated list of awesome and exceptional board games. Please contribute!
 *   [Contribute](#contribute)
 
 ## Family
+
+### [Takenoko](https://boardgamegeek.com/boardgame/70919/takenoko)
+
+> Takenoko: A long time ago at the Japanese Imperial court, the Chinese Emperor offered a giant panda bear as a symbol of peace to the Japanese Emperor. Since then, the Japanese Emperor has entrusted his court members (the players) with the difficult task of caring for the animal by tending to his bamboo garden.
+>
+> In Takenoko, the players will cultivate land plots, irrigate them, and grow one of the three species of bamboo (Green, Yellow, and Pink) with the help of the Imperial gardener to maintain this bamboo garden. They will have to bear with the immoderate hunger of this sacred animal for the juicy and tender bamboo. The player who manages his land plots best, growing the most bamboo while feeding the delicate appetite of the panda, will win the game.
+
+![Takenoko image](https://cf.geekdo-images.com/uvz-5V6A2R6dp2oWIXmj_g__itemrep/img/fT5tXhYc0kc5ur8NDdnJHj_GOSw=/fit-in/246x300/filters:strip_icc\(\)/pic1912529.jpg)
+
+| Players | Min. Age | Time |
+| ------: | -------: | ---: |
+|   2 - 4 |       8+ |  45m |
 
 ### [Shadows of Brimstone: Swamps of Death](https://boardgamegeek.com/boardgame/150997/shadows-of-brimstone-swamps-of-death)
 

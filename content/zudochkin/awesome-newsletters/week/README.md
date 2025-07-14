@@ -2,9 +2,15 @@
 
 A list of amazing Newsletters
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4.1K · 🏷️ Entertainment
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / Weekly / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
+
+## [Jun 30 - Jul 06, 2025](/content/2025/26/README.md)
+
+### Marketing / Svelte
+
+*   [Geekout Newsletter](https://geekout.mattnavarra.com/) - latest social media platform news, tips, tools, and new features
 
 ## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
 
@@ -819,7 +825,7 @@ A list of amazing Newsletters
 
 ### R / Svelte
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐745)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐766)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Svelte
 
@@ -947,7 +953,6 @@ A list of amazing Newsletters
 
 *   [TLDR](https://www.tldrnewsletter.com/). TLDR is a daily curated newsletter containing links and summaries of the most interesting stories in tech.
 *   [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
-*   [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 
 ### Business/Finance / Svelte
 
@@ -964,7 +969,7 @@ A list of amazing Newsletters
 *   [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
 *   [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 *   [Better Dev Link](https://betterdev.link). A weekly newsletter, collects links that aim to improve programming knowledge general. The purpose is not include the links that reader can search instantly from google such as how to do x, y, z but more about problem solving in programming.
-*   [GitHub Trending Repos (⭐2.7k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
+*   [GitHub Trending Repos (⭐2.8k)](https://github.com/vitalets/github-trending-repos). A special repo allowing to track trending projects in your favorite programming language on GitHub. Updates come as GitHub notifications once a day or a week.
 *   [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 
 ### Resilience / Svelte

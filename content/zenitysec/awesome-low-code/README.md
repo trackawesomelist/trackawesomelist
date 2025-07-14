@@ -2,9 +2,15 @@
 
 Awesome Low Code platforms, vendors, tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zenitysec/awesome-low-code/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) · ⭐ 295 · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zenitysec/awesome-low-code/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) · ⭐ 395 · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/zenitysec/awesome-low-code/week/README.md) / [Overview](/content/zenitysec/awesome-low-code/readme/README.md) ]
+
+## [Jul 14, 2025](/content/2025/07/14/README.md)
+
+### Platforms / Citizen Automation and Development Platform
+
+*   [Postman Flows](https://learning.postman.com/docs/postman-flows/overview/#get-started-with-flows) -  Postman Flows low-code editor to prototype, build, and deploy API-first apps in a collaborative environment. Create flow modules that automate tasks, integrate systems, and showcase your APIs to others on your team or the entire world with the Postman API Network.
 
 ## [May 19, 2024](/content/2024/05/19/README.md)
 
@@ -82,7 +88,7 @@ Awesome Low Code platforms, vendors, tools and resources
 
 ### Other Lists / Power Platform (Microsoft)
 
-*   [Awesome No Code Low Code (⭐284)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
+*   [Awesome No Code Low Code (⭐370)](https://github.com/valentin-vogel/awesome-nocode-lowcode) - A collection of awesome No Code and Low Code resources.
 
 ## [Dec 28, 2021](/content/2021/12/28/README.md)
 
@@ -101,11 +107,11 @@ Awesome Low Code platforms, vendors, tools and resources
 
 ### Reference Resources / Power Platform (Microsoft)
 
-*   [Microsoft Power Fx (⭐3.1k)](https://github.com/microsoft/Power-Fx) - Power Fx Low Code programming language.
+*   [Microsoft Power Fx (⭐3.3k)](https://github.com/microsoft/Power-Fx) - Power Fx Low Code programming language.
 
 ### Learning Resources / Power Platform (Microsoft)
 
-*   [Power Fx Samples (⭐108)](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
+*   [Power Fx Samples (⭐129)](https://github.com/pnp/powerfx-samples) - This repository contains samples for Power Fx Low Code programming language.
 
 ### Blogs / Power Platform (Microsoft)
 
@@ -167,11 +173,11 @@ Awesome Low Code platforms, vendors, tools and resources
 
 ### Reference Resources / Workato
 
-*   [Custom Connector Docs (⭐42)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
+*   [Custom Connector Docs (⭐44)](https://github.com/workato/custom_connector_docs) - Source files for Workato custom connector documentation.
 
 ### Learning Resources / Workato
 
-*   [Embedding Guide (⭐6)](https://github.com/workato/full-embed-sample) - A guided example on how to use Workato embedded.
+*   [Embedding Guide (⭐8)](https://github.com/workato/full-embed-sample) - A guided example on how to use Workato embedded.
 
 ### Samples, Templates and Solutions / Workato
 
@@ -191,30 +197,30 @@ Awesome Low Code platforms, vendors, tools and resources
 
 ### Tools, Extensions and Frameworks / Power Platform (Microsoft)
 
-*   [XrmToolBox (⭐558)](https://github.com/MscrmTools/XrmToolBox) - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
-*   [Levelup for Dynamics CRM (⭐188)](https://github.com/rajyraman/Levelup-for-Dynamics-CRM) - Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users.
-*   [Power Platform Adoption Framework (⭐128)](https://github.com/PowerPlatformAF/PowerPlatformAF) - The framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
-*   [Flow & Power Apps Migrator (⭐132)](https://github.com/Zerg00s/FlowPowerAppsMigrator) - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
-*   [SharePoint Workflow Converter (⭐16)](https://github.com/TracyGH/SharePointWorkflowConverter) - A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.
+*   [XrmToolBox (⭐597)](https://github.com/MscrmTools/XrmToolBox) - An application that gather multiple tools to ease the customization and configuration of Microsoft Dynamics CRM/365/Dataverse/PowerApps.
+*   [Levelup for Dynamics CRM (⭐221)](https://github.com/rajyraman/Levelup-for-Dynamics-CRM) - Chrome, Edge Chromium and Firefox Extension for Dynamics CRM/365/Power Apps Power users.
+*   [Power Platform Adoption Framework (⭐131)](https://github.com/PowerPlatformAF/PowerPlatformAF) - The framework that enables people to create beautiful and useful things on Power Platform deployed in large, enterprise-grade organizations.
+*   [Flow & Power Apps Migrator (⭐146)](https://github.com/Zerg00s/FlowPowerAppsMigrator) - Converts SharePoint Data sources for the MS Flow and PowerApps to a new tenant of your choice.
+*   [SharePoint Workflow Converter (⭐15)](https://github.com/TracyGH/SharePointWorkflowConverter) - A proof-of-concept C# console application for retrieving legacy 2010 & 2013 custom SharePoint workflow definition files, and creating new Power Automate flows programmatically.
 
 ### Reference Resources / Power Platform (Microsoft)
 
-*   [Power Platform Connectors (⭐897)](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
+*   [Power Platform Connectors (⭐1.1k)](https://github.com/microsoft/PowerPlatformConnectors) - This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors.
 
 ### Learning Resources / Power Platform (Microsoft)
 
-*   [Power Apps & Azure Lab (⭐42)](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
-*   [PL-900: Power Platform Fundamentals (⭐237)](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform Fundamentals course materials.
+*   [Power Apps & Azure Lab (⭐48)](https://github.com/microsoft/PowerApps-Azure-Lab) - Repository to host the PowerApps Azure Lab.
+*   [PL-900: Power Platform Fundamentals (⭐273)](https://github.com/MicrosoftLearning/PL-900-Microsoft-Power-Platform-Fundamentals) - Power Platform Fundamentals course materials.
 
 ### Samples, Templates and Solutions / Power Platform (Microsoft)
 
-*   [Power Apps Samples (⭐383)](https://github.com/pnp/powerapps-samples) - Contains curated community Microsoft Power App samples.
-*   [PowerApps Samples (⭐68)](https://github.com/Eickhel/PowerApps-samples) - Power Apps samples by Power Nimbus.
-*   [Power Apps Branding Template (⭐62)](https://github.com/iAmManCat/PowerApps-Branding-Template) - A template to empower developers and reduce time wasted on control changes.
-*   [SharePoint Power Platform Solutions (⭐144)](https://github.com/pnp/sp-power-platform-solutions) - Sample PowerApps solutions designed to be used in SharePoint context.
-*   [Power Automate Samples (⭐234)](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
+*   [Power Apps Samples (⭐486)](https://github.com/pnp/powerapps-samples) - Contains curated community Microsoft Power App samples.
+*   [PowerApps Samples (⭐75)](https://github.com/Eickhel/PowerApps-samples) - Power Apps samples by Power Nimbus.
+*   [Power Apps Branding Template (⭐71)](https://github.com/iAmManCat/PowerApps-Branding-Template) - A template to empower developers and reduce time wasted on control changes.
+*   [SharePoint Power Platform Solutions (⭐169)](https://github.com/pnp/sp-power-platform-solutions) - Sample PowerApps solutions designed to be used in SharePoint context.
+*   [Power Automate Samples (⭐314)](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
 *   [Automatic travel time (⭐2)](https://github.com/wortell/PowerAutomate-AutomatischeReistijd) - Automatic travel time in your Office 365 calendar.
-*   [Message Center in Teams (⭐1)](https://github.com/ericsche/MCinTeams) - Message Center in Teams is a simple PowerAutomate Solution to gather Message Center Announcement and post them in a Teams Channel.
+*   [Message Center in Teams (⭐3)](https://github.com/ericsche/MCinTeams) - Message Center in Teams is a simple PowerAutomate Solution to gather Message Center Announcement and post them in a Teams Channel.
 *   [Consume Power BI (⭐19)](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) - Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API.
 *   [Post List Item To Twitter (⭐0)](https://github.com/vaibhav21791/PostListItemToTwitter) - A Microsoft Power Automate Flow to Post a SharePoint List Item to Twitter along with media content.
 
@@ -232,7 +238,7 @@ Awesome Low Code platforms, vendors, tools and resources
 
 ### Other Lists / Power Platform (Microsoft)
 
-*   [Awesome Microsoft Power Platform (⭐79)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
+*   [Awesome Microsoft Power Platform (⭐99)](https://github.com/Power-Maverick/awesome-power-platform) - A collection of awesome things regarding the Power Platform ecosystem.
 
 ## [Sep 22, 2021](/content/2021/09/22/README.md)
 

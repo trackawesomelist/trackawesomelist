@@ -6,6 +6,25 @@ A curated list of podcasts we like to listen to.
 
 [ Daily / [Weekly](/content/ayr-ton/awesome-geek-podcasts/week/README.md) / [Overview](/content/ayr-ton/awesome-geek-podcasts/readme/README.md) ]
 
+## [Jun 03, 2025](/content/2025/06/03/README.md)
+
+### In Portuguese
+
+*   [Café Debug](https://cafedebug.com.br/) - Um podcast de ciência e tecnologia que tem como intuito compartilhar idéias, projetos e conhecimento contando com entrevistas ricas e bem humoradas.
+
+## [Jun 01, 2025](/content/2025/06/01/README.md)
+
+### In English
+
+*   [Beyond Coding](https://xebia.com/podcasts) - Podcast by Xebia.
+*   [Scrimba Podcast](https://podcast.scrimba.com) - Learn from inspiring developers about how they found meaningful and fulfilling work that that also pays them well.
+
+## [May 25, 2025](/content/2025/05/25/README.md)
+
+### In English
+
+*   [pragmatism In Practice](https://www.thoughtworks.com/insights/podcasts/pragmatism-in-practice) - Pragmatism In Practice is a podcast series for business and technology leaders.
+
 ## [May 23, 2025](/content/2025/05/23/README.md)
 
 ### In English

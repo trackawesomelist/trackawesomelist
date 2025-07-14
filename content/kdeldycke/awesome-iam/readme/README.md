@@ -2,7 +2,7 @@
 
 👤 Identity and Access Management knowledge for cloud platforms
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-iam/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) · ⭐ 1.9K · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-iam/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-iam](https://github.com/kdeldycke/awesome-iam) · ⭐ 2K · 🏷️ Back-End Development
 
 [ [Daily](/content/kdeldycke/awesome-iam/README.md) / [Weekly](/content/kdeldycke/awesome-iam/week/README.md) / Overview ]
 
@@ -97,9 +97,12 @@ This curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/
     *   [JWT](#jwt)
 *   [Authorization](#authorization)
     *   [Policy models](#policy-models)
-    *   [Open-source policy frameworks](#open-source-policy-frameworks)
+    *   [RBAC frameworks](#rbac-frameworks)
+    *   [ABAC frameworks](#abac-frameworks)
+    *   [ReBAC frameworks](#rebac-frameworks)
     *   [AWS policy tools](#aws-policy-tools)
     *   [Macaroons](#macaroons)
+    *   [Other tools](#other-tools)
 *   [OAuth2 & OpenID](#oauth2--openid)
 *   [SAML](#saml)
 *   [Secret Management](#secret-management)
@@ -128,13 +131,13 @@ This curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/
 
 <img align="right" width="50%" src="https://github.com/kdeldycke/awesome-iam/raw/main/./assets/cloud-software-stack-iam.jpg"/>
 
-In a Stanford class providing an [overview of cloud computing](http://web.stanford.edu/class/cs349d/docs/L01_overview.pdf), the software architecture of the platform is described as in the right diagram →
+In a Stanford class providing an [overview of cloud computing](https://web.stanford.edu/class/cs349d/docs/L01_overview.pdf), the software architecture of the platform is described as in the right diagram →
 
 Here we set out the big picture: definition and strategic importance of the domain, its place in the larger ecosystem, plus some critical features.
 
 *   [The EnterpriseReady SaaS Feature Guides](https://www.enterpriseready.io) - The majority of the features making B2B users happy will be implemented by the IAM perimeter.
 
-*   [IAM is hard. It's really hard.](https://twitter.com/kmcquade3/status/1291801858676228098) - “Overly permissive AWS IAM policies that allowed `s3:GetObject` to `*` (all) resources”, led to $80 million fine for Capital One. The only reason why you can't overlook IAM as a business owner.
+*   [IAM is hard. It's really hard.](https://web.archive.org/web/20200809095434/https://twitter.com/kmcquade3/status/1291801858676228098) - “Overly permissive AWS IAM policies that allowed `s3:GetObject` to `*` (all) resources”, led to $80 million fine for Capital One. The only reason why you can't overlook IAM as a business owner.
 
 *   [IAM Is The Real Cloud Lock-In](https://forrestbrazeal.com/2019/02/18/cloud-irregular-iam-is-the-real-cloud-lock-in/) - A little *click-baity*, but author admit that “It depends on how much you trust them to 1. Stay in business; 2. Not jack up your prices; 3. Not deprecate services out from under you; 4. Provide more value to you in business acceleration than they take away in flexibility.”
 
@@ -144,7 +147,7 @@ Security is one of the most central pillar of IAM foundations. Here are some bro
 
 *   [Enterprise Information Security](https://infosec.mozilla.org) - Mozilla's security and access guidelines.
 
-*   [Mitigating Cloud Vulnerabilities](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “This document divides cloud vulnerabilities into four classes (misconfiguration, poor access control, shared tenancy vulnerabilities, and supply chain vulnerabilities)”.
+*   [Mitigating Cloud Vulnerabilities](https://web.archive.org/web/20250529050934/https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF) - “This document divides cloud vulnerabilities into four classes (misconfiguration, poor access control, shared tenancy vulnerabilities, and supply chain vulnerabilities)”.
 
 *   [Cartography (⭐3.4k)](https://github.com/lyft/cartography) - A Neo4J-based tool to map out dependencies and relationships between services and resources. Supports AWS, GCP, GSuite, Okta and GitHub.
 
@@ -164,11 +167,11 @@ The foundation of IAM: the definition and life-cycle of users, groups, roles and
 
 *   [Kratos (⭐12k)](https://github.com/ory/kratos) - User login, user registration, 2FA and profile management.
 
-*   [Conjur (⭐821)](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
+*   [Conjur (⭐833)](https://github.com/cyberark/conjur) - Automatically secures secrets used by privileged users and machine identities.
 
 *   [SuperTokens (⭐14k)](https://github.com/supertokens/supertokens-core) - Open-source project for login and session management which supports passwordless, social login, email and phone logins.
 
-*   [UserFrosting (⭐1.6k)](https://github.com/userfrosting/UserFrosting) - Modern PHP user login and management framework.
+*   [UserFrosting (⭐1.7k)](https://github.com/userfrosting/UserFrosting) - Modern PHP user login and management framework.
 
 ## Cryptography
 
@@ -180,7 +183,7 @@ The whole authentication stack is based on cryptography primitives. This can't b
 
 *   [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html) - “This paper has two major purposes. The first is to define some of the terms and concepts behind basic cryptographic methods, and to offer a way to compare the myriad cryptographic schemes in use today. The second is to provide some real examples of cryptography in use today.”
 
-*   [Papers we love: Cryptography (⭐93k)](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) - Foundational papers of cryptography.
+*   [Papers we love: Cryptography (⭐95k)](https://github.com/papers-we-love/papers-we-love/blob/master/cryptography/README.md) - Foundational papers of cryptography.
 
 *   [Lifetimes of cryptographic hash functions](http://valerieaurora.org/hash.html) - “If you are using compare-by-hash to generate addresses for data that can be supplied by malicious users, you should have a plan to migrate to a new hash every few years”.
 
@@ -206,11 +209,11 @@ Zero trust network security operates under the principle “never trust, always 
 
 *   [oathkeeper (⭐3.4k)](https://github.com/ory/oathkeeper) - Identity & Access Proxy and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP requests. Inspired by the BeyondCorp / Zero Trust white paper.
 
-*   [transcend (⭐252)](https://github.com/cogolabs/transcend) - BeyondCorp-inspired Access Proxy server.
+*   [transcend (⭐255)](https://github.com/cogolabs/transcend) - BeyondCorp-inspired Access Proxy server.
 
 *   [Pomerium (⭐4.3k)](https://github.com/pomerium/pomerium) - An identity-aware proxy that enables secure access to internal applications.
 
-*   [heimdall (⭐186)](https://github.com/dadrus/heimdall) - A cloud-native, identity-aware proxy and policy enforcement point that orchestrates authentication and authorization systems via versatile rules, supporting protocol-agnostic identity propagation.
+*   [heimdall (⭐193)](https://github.com/dadrus/heimdall) - A cloud-native, identity-aware proxy and policy enforcement point that orchestrates authentication and authorization systems via versatile rules, supporting protocol-agnostic identity propagation.
 
 ## Authentication
 
@@ -242,7 +245,7 @@ The oldest scheme for auth.
 
 *   [Password Manager Resources (⭐4.4k)](https://github.com/apple/password-manager-resources) - A collection of password rules, change URLs and quirks by sites.
 
-*   [A Well-Known URL for Changing Passwords (⭐902)](https://github.com/WICG/change-password-url) - Specification defining site resource for password updates.
+*   [A Well-Known URL for Changing Passwords (⭐903)](https://github.com/WICG/change-password-url) - Specification defining site resource for password updates.
 
 *   [How to change the hashing scheme of already hashed user's passwords](https://news.ycombinator.com/item?id=20109360) - Good news: you're not stuck with a legacy password saving scheme. Here is a trick to transparently upgrade to stronger hashing algorithm.
 
@@ -274,7 +277,7 @@ Building upon password-only auth, users are requested in these schemes to presen
 
 *   [Authelia (⭐24k)](https://github.com/authelia/authelia) - Open-source authentication and authorization server providing two-factor authentication and single sign-on (SSO) for your applications via a web portal.
 
-*   [Kanidm (⭐3.5k)](https://github.com/kanidm/kanidm) - Simple, secure and fast identity management platform.
+*   [Kanidm (⭐3.6k)](https://github.com/kanidm/kanidm) - Simple, secure and fast identity management platform.
 
 ### SMS-based
 
@@ -286,7 +289,7 @@ TL;DR: don't. For details, see articles below.
 
 *   [Is SMS 2FA Secure? No.](https://www.issms2fasecure.com) - Definitive research project demonstrating successful attempts at SIM swapping.
 
-*   [Hackers Hit Twitter C.E.O. Jack Dorsey in a 'SIM Swap.' You're at Risk, Too.](https://www.nytimes.com/2019/09/05/technology/sim-swap-jack-dorsey-hack.html)
+*   [Hackers Hit Twitter C.E.O. Jack Dorsey in a 'SIM Swap.' You're at Risk, Too.](https://archive.ph/AhNAI)
 
 *   [AT\&T rep handed control of his cellphone account to a hacker](https://www.theregister.co.uk/2017/07/10/att_falls_for_hacker_tricks/)
 
@@ -308,7 +311,7 @@ Part of the [FIDO2 project](https://en.wikipedia.org/wiki/FIDO_Alliance#FIDO2), 
 
 *   [WebAuthn guide](https://webauthn.guide) - Introduce WebAuthn as a standard supported by all major browsers, and allowing “servers to register and authenticate users using public key cryptography instead of a password”.
 
-*   [Clearing up some misconceptions about Passkeys](https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/) -  Or why passkeys are not worse than passwords.
+*   [Clearing up some misconceptions about Passkeys](https://www.stavros.io/posts/clearing-up-some-passkeys-misconceptions/) - Or why passkeys are not worse than passwords.
 
 ### Security key
 
@@ -334,9 +337,9 @@ Certificate-based authentication.
 
 *   [`lemur`](https://github.com/Netflix/lemur) - Acts as a broker between CAs and environments, providing a central portal for developers to issue TLS certificates with 'sane' defaults.
 
-*   [CFSSL (⭐9k)](https://github.com/cloudflare/cfssl) - A swiss army knife for PKI/TLS by CloudFlare. Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
+*   [CFSSL (⭐9.1k)](https://github.com/cloudflare/cfssl) - A swiss army knife for PKI/TLS by CloudFlare. Command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
 
-*   [JA3 (⭐2.9k)](https://github.com/salesforce/ja3) - Method for creating SSL/TLS client fingerprints that should be easy to produce on any platform and can be easily shared for threat intelligence.
+*   [JA3 (⭐3k)](https://github.com/salesforce/ja3) - Method for creating SSL/TLS client fingerprints that should be easy to produce on any platform and can be easily shared for threat intelligence.
 
 ### JWT
 
@@ -347,8 +350,6 @@ Certificate-based authentication.
 *   [Learn how to use JWT for Authentication (⭐4.2k)](https://github.com/dwyl/learn-json-web-tokens) - Learn how to use JWT to secure your web app.
 
 *   [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/) - Compared to API keys, JWTs offers granular security, homogeneous auth architecture, decentralized issuance, OAuth2 compliance, debuggability, expiration control, device management.
-
-*   [Managing a Secure JSON Web Token Implementation](https://cursorblog.com/managing-a-secure-json-web-token-implementation/) - JWT has all sorts of flexibility that make it hard to use well.
 
 *   [Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/) - A good recap of all JWT pitfalls.
 
@@ -364,7 +365,7 @@ Certificate-based authentication.
 
 *   [`loginsrv`](https://github.com/tarent/loginsrv) - Standalone minimalistic login server providing a JWT login for multiple login backends (htpasswd, OSIAM, user/password, HTTP basic authentication, OAuth2: GitHub, Google, Bitbucket, Facebook, GitLab).
 
-*   [jwtXploiter (⭐274)](https://github.com/DontPanicO/jwtXploiter) - A tool to test security of json web token.
+*   [jwtXploiter (⭐275)](https://github.com/DontPanicO/jwtXploiter) - A tool to test security of json web token.
 
 ## Authorization
 
@@ -374,7 +375,7 @@ Policy specification is the science, enforcement is the art.
 
 ### Policy models
 
-As a concept, access control policies can be designed to follow very different archetypes, from classic [Access Control Lists](https://en.wikipedia.org/wiki/Access-control_list) to [Role Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control). In this section we explore lots of different patterns and architectures.
+As a concept, access control policies can be designed to follow very different archetypes, from classic [Access Control Lists](https://en.wikipedia.org/wiki/Access-control_list) to Role Based Access Control. In this section we explore lots of different patterns and architectures.
 
 *   [Why Authorization is Hard](https://www.osohq.com/post/why-authorization-is-hard) - Because it needs multiple tradeoffs on Enforcement which is required in so many places, on Decision architecture to split business logic from authorization logic, and on Modeling to balance power and complexity.
 
@@ -384,7 +385,7 @@ As a concept, access control policies can be designed to follow very different a
 
 *   [The Case for Granular Permissions](https://cerbos.dev/blog/the-case-for-granular-permissions) - Discuss the limitations of RBAC and how ABAC (Attribute-Based Access Control) addresses them.
 
-*   [In Search For a Perfect Access Control System](https://goteleport.com/blog/access-controls/) - The historical origins of authorization schemes. Hints at the future of sharing, trust and delegation between different teams and organizations.
+*   [In Search For a Perfect Access Control System](https://web.archive.org/web/20240421203937/https://goteleport.com/blog/access-controls/) - The historical origins of authorization schemes. Hints at the future of sharing, trust and delegation between different teams and organizations.
 
 *   [GCP's IAM syntax is better than AWS's](https://ucarion.com/iam-operation-syntax) - The minutiae of permission design in GCP improves the developer's experience.
 
@@ -398,13 +399,13 @@ As a concept, access control policies can be designed to follow very different a
 
 [Role-Based Access Control](https://en.wikipedia.org/wiki/Role-based_access_control) is the classical model to map users to permissions by the way of roles.
 
-*   [Athenz (⭐935)](https://github.com/yahoo/athenz) - Set of services and libraries supporting service authentication and role-based authorization for provisioning and configuration.
+*   [Athenz (⭐945)](https://github.com/yahoo/athenz) - Set of services and libraries supporting service authentication and role-based authorization for provisioning and configuration.
 
 *   [Biscuit](https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/) - Biscuit merge concepts from cookies, JWTs, macaroons and Open Policy Agent. “It provide a logic language based on Datalog to write authorization policies. It can store data, like JWT, or small conditions like Macaroons, but it is also able to represent more complex rules like role-based access control, delegation, hierarchies.”
 
 *   [Oso (⭐3.5k)](https://github.com/osohq/oso) - A batteries-included library for building authorization in your application.
 
-*   [Cerbos (⭐3.8k)](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
+*   [Cerbos (⭐3.9k)](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
 
 ### ABAC frameworks
 
@@ -424,9 +425,9 @@ The [Relationship-Based Access Control](https://en.wikipedia.org/wiki/Relationsh
 
 *   [Zanzibar: Google's Consistent, Global Authorization System](https://ai.google/research/pubs/pub48190) - Scales to trillions of access control lists and millions of authorization requests per second to support services used by billions of people. It has maintained 95th-percentile latency of less than 10 milliseconds and availability of greater than 99.999% over 3 years of production use. [Other bits not in the paper](https://twitter.com/LeaKissner/status/1136626971566149633). [Zanzibar Academy](https://zanzibar.academy/) is a site dedicated to explaining how Zanzibar works.
 
-*   [SpiceDB (⭐5.7k)](https://github.com/authzed/spicedb) - An open source database system for managing security-critical application permissions inspired by Zanzibar.
+*   [SpiceDB (⭐5.8k)](https://github.com/authzed/spicedb) - An open source database system for managing security-critical application permissions inspired by Zanzibar.
 
-*   [Permify (⭐5.4k)](https://github.com/Permify/permify) - Another open-source authorization as a service inspired by Google Zanzibar, and see [how it compares to other Zanzibar-inspired tools](https://permify.notion.site/Differentiation-Between-Zanzibar-Products-ad4732da62e64655bc82d3abe25f48b6).
+*   [Permify (⭐5.5k)](https://github.com/Permify/permify) - Another open-source authorization as a service inspired by Google Zanzibar, and see [how it compares to other Zanzibar-inspired tools](https://permify.notion.site/Differentiation-Between-Zanzibar-Products-ad4732da62e64655bc82d3abe25f48b6).
 
 *   [Topaz (⭐1.2k)](https://github.com/aserto-dev/topaz) - An open-source project which combines the policy-as-code and decision logging of OPA with a Zanzibar-modeled directory.
 
@@ -446,13 +447,13 @@ Tools and resources exclusively targeting the [AWS IAM policies](http://docs.aws
 
 *   [Policy Sentry (⭐2.1k)](https://github.com/salesforce/policy_sentry) - Writing security-conscious IAM Policies by hand can be very tedious and inefficient. Policy Sentry helps users to create least-privilege policies in a matter of seconds.
 
-*   [PolicyUniverse (⭐441)](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
+*   [PolicyUniverse (⭐443)](https://github.com/Netflix-Skunkworks/policyuniverse) - Parse and process AWS policies, statements, ARNs, and wildcards.
 
-*   [IAM Floyd (⭐557)](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.
+*   [IAM Floyd (⭐561)](https://github.com/udondan/iam-floyd) - AWS IAM policy statement generator with fluent interface. Helps with creating type safe IAM policies and writing more restrictive/secure statements by offering conditions and ARN generation via IntelliSense. Available for Node.js, Python, .Net and Java.
 
 *   [ConsoleMe (⭐3.2k)](https://github.com/Netflix/consoleme) - A self-service tool for AWS that provides end-users and administrators credentials and console access to the onboarded accounts based on their authorization level of managing permissions across multiple accounts, while encouraging least-privilege permissions.
 
-*   [IAMbic (⭐292)](https://github.com/noqdev/iambic) - GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control.
+*   [IAMbic (⭐293)](https://github.com/noqdev/iambic) - GitOps for IAM. The Terraform of Cloud IAM. IAMbic is a multi-cloud identity and access management (IAM) control plane that centralizes and simplifies cloud access and permissions. It maintains an eventually consistent, human-readable, bi-directional representation of IAM in version control.
 
 ### Macaroons
 
@@ -466,7 +467,7 @@ A clever curiosity to distribute and delegate authorization.
 
 ### Other tools
 
-*   [Gubernator (⭐128)](https://github.com/gubernator-io/gubernator) - High performance rate-limiting micro-service and library.
+*   [Gubernator (⭐130)](https://github.com/gubernator-io/gubernator) - High performance rate-limiting micro-service and library.
 
 ## OAuth2 & OpenID
 
@@ -474,9 +475,7 @@ A clever curiosity to distribute and delegate authorization.
 
 The old *OpenID* is dead; the new *OpenID Connect* is very much not-dead.
 
-*   [Awesome OpenID Connect (⭐51)](https://github.com/cerberauth/awesome-openid-connect) - A curated list of providers, services, libraries, and resources for OpenID Connect.
-
-*   [The problem with OAuth for Authentication](http://www.thread-safe.com/2012/01/problem-with-oauth-for-authentication.html) - “The problem is that OAuth 2.0 is a Delegated Authorization protocol, and not a Authentication protocol.” 10 years after, this article is still the best explanation on [why use OpenID Connect instead of plain OAuth2](https://security.stackexchange.com/a/260519)?
+*   [Awesome OpenID Connect (⭐57)](https://github.com/cerberauth/awesome-openid-connect) - A curated list of providers, services, libraries, and resources for OpenID Connect.
 
 *   [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc) - Explain how these standards work using simplified illustrations.
 
@@ -484,15 +483,13 @@ The old *OpenID* is dead; the new *OpenID Connect* is very much not-dead.
 
 *   [OAuth 2.0 and OpenID Connect (in plain English)](https://www.youtube.com/watch?v=996OiexHze0) - Starts with an historical context on how these standards came to be, clears up the innacuracies in the vocabulary, then details the protocols and its pitfalls to make it less intimidating.
 
-*   [Everything You Need to Know About OAuth (2.0)](https://gravitational.com/blog/everything-you-need-to-know-about-oauth/) - A good overview with a practical case study on how Teleport, an open-source remote access tool, allows users to log in through GitHub SSO.
-
 *   [OAuth in one picture](https://mobile.twitter.com/kamranahmedse/status/1276994010423361540) - A nice summary card.
 
 *   [How to Implement a Secure Central Authentication Service in Six Steps](https://shopify.engineering/implement-secure-central-authentication-service-six-steps) - Got multiple legacy systems to merge with their own login methods and accounts? Here is how to merge all that mess by the way of OIDC.
 
 *   [Open-Sourcing BuzzFeed's SSO Experience](https://increment.com/security/open-sourcing-buzzfeeds-single-sign-on-process/) - OAuth2-friendly adaptation of the Central Authentication Service (CAS) protocol. You'll find there good OAuth user flow diagrams.
 
-*   [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-16) - “Updates and extends the OAuth 2.0 Security Threat Model to incorporate practical experiences gathered since OAuth 2.0 was published and covers new threats relevant due to the broader application”.
+*   [OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/rfc9700) - “Updates and extends the OAuth 2.0 Security Threat Model to incorporate practical experiences gathered since OAuth 2.0 was published and covers new threats relevant due to the broader application”.
 
 *   [Hidden OAuth attack vectors](https://portswigger.net/web-security/oauth) - How to identify and exploit some of the key vulnerabilities found in OAuth 2.0 authentication mechanisms.
 
@@ -504,21 +501,21 @@ The old *OpenID* is dead; the new *OpenID Connect* is very much not-dead.
 
 *   [Casdoor (⭐12k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
 
-*   [authentik](https://goauthentik.io/?#correctness) - Open-source Identity Provider similar to Keycloak.
+*   [authentik](https://goauthentik.io/) - Open-source Identity Provider similar to Keycloak.
 
 *   [ZITADEL (⭐11k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
 
-*   [a12n-server (⭐478)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
+*   [a12n-server (⭐482)](https://github.com/curveball/a12n-server) - A simple authentication system which only implements the relevant parts of the OAuth2 standards.
 
 *   [Logto (⭐10k)](https://github.com/logto-io/logto) - An IAM infrastructure for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML for authentication and authorization.
 
-*   [Authgear (⭐113)](https://github.com/authgear/authgear-server) - Open-source authentication-as-a-service solution. It includes the code for the server, AuthUI, the Portal, and Admin API.
+*   [Authgear (⭐124)](https://github.com/authgear/authgear-server) - Open-source authentication-as-a-service solution. It includes the code for the server, AuthUI, the Portal, and Admin API.
 
-*   [The Decline of OpenID](https://penguindreams.org/blog/the-decline-of-openid/) - OpenID is being replaced in the public web to a mix of OAuth 1, OAuth 2 or other proprietary SSO protocols.
+*   [Azure Entra ID](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id) - Microsoft's cloud-based identity and access management service for employees and external partners that supports OIDC, OAuth 2.0, and SAML.
 
-*   [Why Mastercard Doesn't Use OAuth 2.0](https://developer.mastercard.com/blog/why-mastercard-doesnt-use-oauth-20) - “They did this to provide message-level integrity. OAuth 2 switched to transport-level confidentiality/integrity.” (which TLS provides) ([source](https://news.ycombinator.com/item?id=17486165)).
+*   [Ping Identity](https://www.pingidentity.com) - Enterprise Identity and Access Management platform supporting OpenID Connect protocol.
 
-*   [OAuth 2.0 and the Road to Hell](https://gist.github.com/nckroy/dd2d4dfc86f7d13045ad715377b6a48f) - The resignation letter from the lead author and editor of the Oauth 2.0 specification.
+*   [FusionAuth](https://fusionauth.io/) - Customer Identity and Access Management solution supporting OIDC.
 
 ## SAML
 
@@ -532,7 +529,7 @@ Typical SAML identity provider is an institution or a big corporation's internal
 
 *   [What's the Difference Between OAuth, OpenID Connect, and SAML?](https://www.okta.com/identity-101/whats-the-difference-between-oauth-openid-connect-and-saml/) - Identity is hard. Another take on the different protocol is always welcome to help makes sense of it all.
 
-*   [How SAML 2.0 Authentication Works](https://gravitational.com/blog/how-saml-authentication-works/) - Overview of the how and why of SSO and SAML.
+*   [How SAML 2.0 Authentication Works](https://web.archive.org/web/20240421215604/https://goteleport.com/blog/how-saml-authentication-works/) - Overview of the how and why of SSO and SAML.
 
 *   [Web Single Sign-On, the SAML 2.0 perspective](https://blog.theodo.com/2019/06/web-single-sign-on-the-saml-2-0-perspective/) - Another naive explanation of SAML workflow in the context of corporate SSO implementation.
 
@@ -604,7 +601,7 @@ Most businesses do not collect customer's identity to create user profiles to se
 
 *   [The Laws of Identity](https://www.identityblog.com/stories/2005/05/13/TheLawsOfIdentity.pdf) - Is this paper aims at identity metasystem, its laws still provides great insights at smaller scale, especially the first law: to always allow user control and ask for consent to earn trust.
 
-*   [How Uber Got Lost](https://www.nytimes.com/2019/08/23/business/how-uber-got-lost.html) - “To limit "friction" Uber allowed riders to sign up without requiring them to provide identity beyond an email — easily faked — or a phone number. (…) Vehicles were stolen and burned; drivers were assaulted, robbed and occasionally murdered. The company stuck with the low-friction sign-up system, even as violence increased.”
+*   [How Uber Got Lost](https://archive.ph/hvjKl) - “To limit "friction" Uber allowed riders to sign up without requiring them to provide identity beyond an email — easily faked — or a phone number. (…) Vehicles were stolen and burned; drivers were assaulted, robbed and occasionally murdered. The company stuck with the low-friction sign-up system, even as violence increased.”
 
 *   [A Comparison of Personal Name Matching: Techniques and Practical Issues](http://users.cecs.anu.edu.au/~Peter.Christen/publications/tr-cs-06-02.pdf) - Customer name matching has lots of application, from account deduplication to fraud monitoring.
 
@@ -614,7 +611,7 @@ Most businesses do not collect customer's identity to create user profiles to se
 
 *   [Ballerine (⭐2.2k)](https://github.com/ballerine-io/ballerine) - An open-source infrastructure for user identity and risk management.
 
-*   [Sherlock (⭐64k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
+*   [Sherlock (⭐66k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 
 ### Fraud
 
@@ -624,7 +621,7 @@ As an online service provider, you're exposed to fraud, crime and abuses. You'll
 
 *   [Investigation into the Unusual Signups](https://openstreetmap.lu/MWGGlobalLogicReport20181226.pdf) - A really detailed analysis of suspicious contributor signups on OpenStreetMap. This beautiful and high-level report demonstrating an orchestrated and directed campaign might serve as a template for fraud reports.
 
-*   [MIDAS: Detecting Microcluster Anomalies in Edge Streams (⭐775)](https://github.com/bhatiasiddharth/MIDAS) - A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
+*   [MIDAS: Detecting Microcluster Anomalies in Edge Streams (⭐776)](https://github.com/bhatiasiddharth/MIDAS) - A proposed method to “detects microcluster anomalies, or suddenly arriving groups of suspiciously similar edges, in edge streams, using constant time and memory.”
 
 *   [Gephi (⭐6.1k)](https://github.com/gephi/gephi) - Open-source platform for visualizing and manipulating large graphs.
 
@@ -644,9 +641,9 @@ Any online communities, not only those related to gaming and social networks, re
 
 How to detect, unmask and classify offensive online activities. Most of the time these are monitored by security, networking and/or infrastructure engineering teams. Still, these are good resources for T\&S and IAM people, who might be called upon for additional expertise for analysis and handling of threats.
 
-*   [Awesome Threat Intelligence (⭐8.8k)](https://github.com/hslatman/awesome-threat-intelligence) - “A concise definition of Threat Intelligence: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.”
+*   [Awesome Threat Intelligence (⭐8.9k)](https://github.com/hslatman/awesome-threat-intelligence) - “A concise definition of Threat Intelligence: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.”
 
-*   [SpiderFoot (⭐14k)](https://github.com/smicallef/spiderfoot) - An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.
+*   [SpiderFoot (⭐15k)](https://github.com/smicallef/spiderfoot) - An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.
 
 *   [Standards related to Threat Intelligence](https://www.threat-intelligence.eu/standards/) - Open standards, tools and methodologies to support threat intelligence analysis.
 
@@ -656,13 +653,13 @@ How to detect, unmask and classify offensive online activities. Most of the time
 
 *   [The challenges of file formats](https://speakerdeck.com/ange/the-challenges-of-file-formats) - At one point you will let users upload files in your system. Here is a [corpus of suspicious media files (⭐1.5k)](https://github.com/corkami/pocs) that can be leveraged by scammers =to bypass security or fool users.
 
-*   [SecLists (⭐63k)](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+*   [SecLists (⭐64k)](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 *   [PhishingKitTracker (⭐101)](https://github.com/neonprimetime/PhishingKitTracker) - CSV database of email addresses used by threat actor in phishing kits.
 
 *   [PhoneInfoga (⭐14k)](https://github.com/sundowndev/PhoneInfoga) - Tools to scan phone numbers using only free resources. The goal is to first gather standard information such as country, area, carrier and line type on any international phone numbers with a very good accuracy. Then search for footprints on search engines to try to find the VoIP provider or identify the owner.
 
-*   [Confusable Homoglyphs (⭐159)](https://github.com/vhf/confusable_homoglyphs) - Homoglyphs is a common phishing trick.
+*   [Confusable Homoglyphs (⭐161)](https://github.com/vhf/confusable_homoglyphs) - Homoglyphs is a common phishing trick.
 
 ### Captcha
 
@@ -694,9 +691,9 @@ Useful to identified clients, catch and block swarms of bots, and limit effects 
 
 *   [The Public Suffix List](https://publicsuffix.org) - Mozilla's registry of public suffixes, under which Internet users can (or historically could) directly register names.
 
-*   [Country IP Blocks (⭐843)](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
+*   [Country IP Blocks (⭐851)](https://github.com/herrbischoff/country-ip-blocks) - CIDR country-level IP data, straight from the Regional Internet Registries, updated hourly.
 
-*   [Certificate Transparency Subdomains (⭐346)](https://github.com/internetwache/CT_subdomains) - An hourly updated list of subdomains gathered from certificate transparency logs.
+*   [Certificate Transparency Subdomains (⭐348)](https://github.com/internetwache/CT_subdomains) - An hourly updated list of subdomains gathered from certificate transparency logs.
 
 *   Subdomain denylists: [#1](https://gist.github.com/artgon/5366868), [#2 (⭐44)](https://github.com/sandeepshetty/subdomain-blacklist/blob/master/subdomain-blacklist.txt), [#3 (⭐166)](https://github.com/nccgroup/typofinder/blob/master/TypoMagic/datasources/subdomains.txt), [#4](https://www.quora.com/How-do-sites-prevent-vanity-URLs-from-colliding-with-future-features).
 
@@ -712,9 +709,9 @@ Useful to identified clients, catch and block swarms of bots, and limit effects 
 
 ### Emails
 
-*   [Burner email providers (⭐1.1k)](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers. And its [derivative Python module (⭐3.7k)](https://github.com/martenson/disposable-email-domains).
+*   [Burner email providers (⭐1.1k)](https://github.com/wesbos/burner-email-providers) - A list of temporary email providers. And its [derivative Python module (⭐4.1k)](https://github.com/martenson/disposable-email-domains).
 
-*   [MailChecker (⭐1.7k)](https://github.com/FGRibreau/mailchecker) - Cross-language temporary (disposable/throwaway) email detection library.
+*   [MailChecker (⭐1.8k)](https://github.com/FGRibreau/mailchecker) - Cross-language temporary (disposable/throwaway) email detection library.
 
 *   [Temporary Email Address Domains](https://gist.github.com/adamloving/4401361) - A list of domains for disposable and temporary email addresses. Useful for filtering your email list to increase open rates (sending email to these domains likely will not be opened).
 
@@ -740,15 +737,13 @@ As the guardian of user's data, the IAM stack is deeply bounded by the respect o
 
 *   [Privacy Enhancing Technologies Decision Tree](https://www.private-ai.com/wp-content/uploads/2021/10/PETs-Decision-Tree.pdf) - A flowchart to select the right tool depending on data type and context.
 
-*   [Paper we love: Privacy (⭐93k)](https://github.com/papers-we-love/papers-we-love/tree/master/privacy) - A collection of scientific studies of schemes providing privacy by design.
-
-*   [IRMA Authentication](https://news.ycombinator.com/item?id=20144240) - Open-source app and protocol that offers privacy-friendly attribute based authentication and signing using [Camenisch and Lysyanskaya's Idemix](https://privacybydesign.foundation/publications/).
+*   [Paper we love: Privacy (⭐95k)](https://github.com/papers-we-love/papers-we-love/tree/master/privacy) - A collection of scientific studies of schemes providing privacy by design.
 
 *   [Have I been Pwned?](https://haveibeenpwned.com) - Data breach index.
 
 *   [Automated security testing for Software Developers](https://fahrplan.events.ccc.de/camp/2019/Fahrplan/system/event_attachments/attachments/000/003/798/original/security_cccamp.pdf) - Most privacy breaches were allowed by known vulnerabilities in third-party dependencies. Here is how to detect them by the way of CI/CD.
 
-*   [Email marketing regulations around the world (⭐453)](https://github.com/threeheartsdigital/email-marketing-regulations) - As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex.
+*   [Email marketing regulations around the world (⭐456)](https://github.com/threeheartsdigital/email-marketing-regulations) - As the world becomes increasingly connected, the email marketing regulation landscape becomes more and more complex.
 
 *   [World's Biggest Data Breaches & Hacks](https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/) - Don't be the next company leaking your customer's data.
 
@@ -756,7 +751,7 @@ As the guardian of user's data, the IAM stack is deeply bounded by the respect o
 
 As a central repository of user data, the IAM stack stakeholders have to prevent any leakage of business and customer data. To allow for internal analytics, anonymization is required.
 
-*   [The False Allure of Hashing for Anonymization](https://gravitational.com/blog/hashing-for-anonymization/) - Hashing is not sufficient for anonymization no. But still it is good enough for pseudonymization (which is allowed by the GDPR).
+*   [The False Allure of Hashing for Anonymization](https://web.archive.org/web/20220927004103/https://goteleport.com/blog/hashing-for-anonymization/) - Hashing is not sufficient for anonymization no. But still it is good enough for pseudonymization (which is allowed by the GDPR).
 
 *   [Four cents to deanonymize: Companies reverse hashed email addresses](https://freedom-to-tinker.com/2018/04/09/four-cents-to-deanonymize-companies-reverse-hashed-email-addresses/) - “Hashed email addresses can be easily reversed and linked to an individual”.
 
@@ -764,7 +759,7 @@ As a central repository of user data, the IAM stack stakeholders have to prevent
 
 *   [k-anonymity: an introduction](https://www.privitar.com/listing/k-anonymity-an-introduction) - An alternative anonymity privacy model.
 
-*   [Presidio (⭐4.6k)](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.
+*   [Presidio (⭐4.9k)](https://github.com/microsoft/presidio) - Context aware, pluggable and customizable data protection and PII data anonymization service for text and images.
 
 *   [Diffix: High-Utility Database Anonymization](https://aircloak.com/wp-content/uploads/apf17-aspen.pdf) - Diffix try to provide anonymization, avoid pseudonymization and preserve data quality. [Written in Elixir at Aircloak](https://elixirforum.com/t/aircloak-anonymized-analitycs/10930), it acts as an SQL proxy between the analyst and an unmodified live database.
 
@@ -774,7 +769,7 @@ The well-known European privacy framework
 
 *   [GDPR Tracker](https://gdpr.eu) - Europe's reference site.
 
-*   [GDPR Developer Guide (⭐335)](https://github.com/LINCnil/GDPR-Developer-Guide) - Best practices for developers.
+*   [GDPR Developer Guide (⭐337)](https://github.com/LINCnil/GDPR-Developer-Guide) - Best practices for developers.
 
 *   [GDPR – A Practical guide for Developers](https://techblog.bozho.net/gdpr-practical-guide-developers/) - A one-page summary of the above.
 
@@ -814,7 +809,7 @@ As stakeholder of the IAM stack, you're going to implement in the backend the ma
 
 Keep track on the activity of open-source projects and companies operating in the domain.
 
-*   [Best-of Digital Identity (⭐132)](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects.
+*   [Best-of Digital Identity (⭐138)](https://github.com/jruizaranguren/best-of-digital-identity) - Ranking, popularity and activity status of open-source digital identity projects.
 
 *   [AWS Security, Identity & Compliance announcements](https://aws.amazon.com/about-aws/whats-new/security_identity_and_compliance/) - The source of all new features added to the IAM perimeter.
 
@@ -838,7 +833,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ## Footnotes
 
-The [header image (⭐1.9k)](https://github.com/kdeldycke/awesome-iam/blob/main/assets/awesome-iam-header.jpg) is based on a modified [photo](https://unsplash.com/photos/2LowviVHZ-E) by [Ben Sweet](https://unsplash.com/@benjaminsweet).
+The [header image (⭐2k)](https://github.com/kdeldycke/awesome-iam/blob/main/assets/awesome-iam-header.jpg) is based on a modified [photo](https://unsplash.com/photos/2LowviVHZ-E) by [Ben Sweet](https://unsplash.com/@benjaminsweet).
 
 <!--lint disable no-undefined-references-->
 
