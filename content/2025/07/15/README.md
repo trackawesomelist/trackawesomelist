@@ -1,18 +1,24 @@
 # Awesome List Updates on Jul 15, 2025
 
-8 awesome lists updated today.
+9 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/avelino/awesome-go/README.md)
+## [1. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
+
+### Traffic Analysis/Inspection
+
+*   [pcaptoparquet (⭐2)](https://github.com/nokia/pcaptoparquet): pcaptoparquet is a Python package designed for converting PCAP or PCAPNG files to structured data formats, primarily Apache Parquet. The tool focuses on network traffic analysis by extracting, decoding, and transforming packet data into queryable datasets suitable for analysis and visualization. The tool supports both command-line and programmatic interfaces, enabling integration into various network analysis workflows.
+
+## [2. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ### Messaging
 
 *   [GoEventBus (⭐28)](https://github.com/Raezil/GoEventBus) - A blazing‑fast, in‑memory, lock‑free event bus library
 
-## [2. Awesome Django](/content/wsvincent/awesome-django/README.md)
+## [3. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ### Third-Party Packages / Admin
 
@@ -22,7 +28,7 @@
 
 *   [django-smartbase-admin (⭐48)](https://github.com/SmartBase-SK/django-smartbase-admin) - Django SmartBase Admin 🚀 performance-tuned 👥 end-user ready beautiful admin panel
 
-## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+## [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ### Software / Booking and Scheduling
 
@@ -49,32 +55,32 @@
 
 *   [Kuvasz Uptime](https://kuvasz-uptime.dev) - Performant, stable uptime & SSL monitoring service that just works. ([Source Code (⭐137)](https://github.com/kuvasz-uptime/kuvasz)) `Apache-2.0` `Docker`
 
-## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Analytics, Events and Statistics
 
 *   [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
 
-## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [6. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-modern-alerts (⭐1)](https://github.com/jonaaix/ngx-modern-alerts) - This library provides a flexible system for displaying banner and floating alerts (notifications), complete with a notification hub, timeouts, custom actions, and more.
 
-## [6. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ### System Design / Svelte
 
 *   [Limitless System Design](https://www.linkedin.com/newsletters/limitless-system-design-7335259589879197700/). Newsletter for engineers who refuse to accept “good enough” architecture.
 *   [ByteByteGo](https://blog.bytebytego.com/). Explain complex systems with simple terms, from the authors of the best-selling system design book series
 
-## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Dependency Management / Diagnostics
 
 *   [piersolenski/import.nvim (⭐209)](https://github.com/piersolenski/import.nvim) - Import modules faster based on what you've already imported in your project.
 
-## [8. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+## [9. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ### Tools and session management
 
