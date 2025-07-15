@@ -6,6 +6,33 @@ A list of Free Software network services and web applications which can be hoste
 
 [ Daily / [Weekly](/content/awesome-selfhosted/awesome-selfhosted/week/README.md) / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jul 15, 2025](/content/2025/07/15/README.md)
+
+### Software / Booking and Scheduling
+
+*   [LibreBooking](https://librebooking.readthedocs.io/) - Resource scheduling solution offering a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. ([Demo](https://librebooking-demo.fly.dev/), [Source Code (⭐524)](https://github.com/LibreBooking/app)) `GPL-3.0` `PHP/Docker`
+
+### Software / Document Management
+
+*   [Papra](https://papra.app) - Minimalist document storage, management and archiving platform designed to be simple to use and accessible to everyone. ([Demo](https://demo.papra.app/), [Source Code (⭐1.9k)](https://github.com/papra-hq/papra/)) `AGPL-3.0` `Docker`
+*   [Signature PDF (⭐578)](https://github.com/24eme/signaturepdf) - Sign and manipulate PDFs with collaboration, organization, compression and metadata editing. ([Demo](https://pdf.24eme.fr/)) `AGPL-3.0` `PHP/deb/Docker`
+
+### Software / Health and Fitness
+
+*   [Wingfit](https://wingfit.fr) - Minimalist fitness app to plan your workouts, track your personal records and leverage smartwatch data. ([Demo](https://wingfit.fr/home), [Source Code (⭐129)](https://github.com/itskovacs/wingfit)) `CC-BY-SA-4.0` `Python/Docker`
+
+### Software / Miscellaneous
+
+*   [Operational.co](https://operational.co) - Receive alerts in a live timeline from your product. ([Demo](https://app.operational.co/?signinas=kevin), [Source Code (⭐330)](https://github.com/operational-co/operational.co)) `AGPL-3.0` `Nodejs/Docker`
+
+### Software / Personal Dashboards
+
+*   [Personal Management System](https://volmarg.github.io/) - Organize the essentials of everyday life, everything from a simple to-do list, and notes up to payments, and schedules. ([Demo (⭐3.4k)](https://github.com/Volmarg/personal-management-system#documentation--demo), [Source Code (⭐3.4k)](https://github.com/Volmarg/personal-management-system)) `MIT` `Docker`
+
+### Software / Status / Uptime pages
+
+*   [Kuvasz Uptime](https://kuvasz-uptime.dev) - Performant, stable uptime & SSL monitoring service that just works. ([Source Code (⭐137)](https://github.com/kuvasz-uptime/kuvasz)) `Apache-2.0` `Docker`
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Software / Analytics

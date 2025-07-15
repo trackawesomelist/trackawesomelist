@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Jul 15, 2025](/content/2025/07/15/README.md)
+
+### Messaging
+
+*   [GoEventBus (⭐28)](https://github.com/Raezil/GoEventBus) - A blazing‑fast, in‑memory, lock‑free event bus library
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Authentication and OAuth

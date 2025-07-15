@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jul 15, 2025](/content/2025/07/15/README.md)
+
+### Dependency Management / Diagnostics
+
+*   [piersolenski/import.nvim (⭐209)](https://github.com/piersolenski/import.nvim) - Import modules faster based on what you've already imported in your project.
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### (requires Neovim 0.5)
@@ -2444,12 +2450,6 @@ Collections of awesome neovim plugins.
 ### Plugin Manager
 
 *   [roobert/activate.nvim (⭐142)](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
-
-## [Sep 08, 2023](/content/2023/09/08/README.md)
-
-### Dependency Management / Diagnostics
-
-*   [piersolenski/telescope-import.nvim (⭐207)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ## [Sep 07, 2023](/content/2023/09/07/README.md)
 

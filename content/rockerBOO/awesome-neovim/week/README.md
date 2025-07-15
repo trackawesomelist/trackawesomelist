@@ -37,6 +37,10 @@ Collections of awesome neovim plugins.
 *   [Silletr/LazyDevHelper (⭐3)](https://github.com/Silletr/LazyDevHelper) - Python dependencies manager, with auto-adding to your requirements.txt.
 *   [Owen-Dechow/nvim\_json\_graph\_view (⭐49)](https://github.com/Owen-Dechow/nvim_json_graph_view) - Explore a JSON file as a nested unit/node-based graphical representation.
 
+### Dependency Management / Diagnostics
+
+*   [piersolenski/import.nvim (⭐209)](https://github.com/piersolenski/import.nvim) - Import modules faster based on what you've already imported in your project.
+
 ### GitLab / Diagnostics
 
 *   [harrisoncramer/GitLab.nvim (⭐311)](https://github.com/harrisoncramer/GitLab.nvim) -  Review pull requests and manage other GitLab resources.
@@ -2037,10 +2041,6 @@ Collections of awesome neovim plugins.
 ### Utility / Diagnostics
 
 *   [subnut/nvim-ghost.nvim (⭐180)](https://github.com/subnut/nvim-ghost.nvim) - GhostText support with zero dependencies.
-
-### Dependency Management / Diagnostics
-
-*   [piersolenski/telescope-import.nvim (⭐207)](https://github.com/piersolenski/telescope-import.nvim) - Import modules faster based on what you've already imported in your project.
 
 ### Git / Diagnostics
 

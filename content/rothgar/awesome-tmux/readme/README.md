@@ -68,6 +68,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 *   [tat (⭐39)](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 *   [teamocil (⭐2.4k)](https://github.com/remi/teamocil) A simple tool used to automatically create windows and panes in tmux with YAML files
 *   [tmex (⭐111)](https://github.com/evnp/tmex) A minimalist tmux layout manager
+*   [tmux-cookie-cutter (⭐6)](https://github.com/AranBorkum/tmux-cookie-cutter) A YAML based session builder, configuring windows, panes and environments automatically
 *   [tmux-cssh (⭐92)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 *   [tmux-conf (⭐3)](https://github.com/jaclu/tmux-conf) Meant for users running tmux on multiple hosts, not always running the same version. Generates tmux config files using version checks
 *   [tmux-nav-master (⭐6)](https://github.com/TheSast/tmux-nav-master) Easy cross-navigation between tmux and other terminal applications.
@@ -152,6 +153,7 @@ List of helpful tmux links for various tutorials, plugins, and configuration set
 
 ## Plugins
 
+*   [back-in-5 (⭐0)](https://github.com/hamolicious/back-in-5) display a "Back soon" message for remote collaboration
 *   [tmux2html (⭐724)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 *   [tmux-better-mouse-mode (⭐940)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 *   [extrakto (⭐981)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions

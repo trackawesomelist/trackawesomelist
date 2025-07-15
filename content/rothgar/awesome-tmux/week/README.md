@@ -10,7 +10,12 @@ A list of awesome resources for tmux
 
 ### Tools and session management
 
+*   [tmux-cookie-cutter (⭐6)](https://github.com/AranBorkum/tmux-cookie-cutter) A YAML based session builder, configuring windows, panes and environments automatically
 *   [tmux-tpad (⭐11)](https://github.com/Subbeh/tmux-tpad) A popup window session manager.
+
+### Plugins
+
+*   [back-in-5 (⭐0)](https://github.com/hamolicious/back-in-5) display a "Back soon" message for remote collaboration
 
 ## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
 

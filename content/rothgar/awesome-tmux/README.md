@@ -6,6 +6,16 @@ A list of awesome resources for tmux
 
 [ Daily / [Weekly](/content/rothgar/awesome-tmux/week/README.md) / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
 
+## [Jul 15, 2025](/content/2025/07/15/README.md)
+
+### Tools and session management
+
+*   [tmux-cookie-cutter (⭐6)](https://github.com/AranBorkum/tmux-cookie-cutter) A YAML based session builder, configuring windows, panes and environments automatically
+
+### Plugins
+
+*   [back-in-5 (⭐0)](https://github.com/hamolicious/back-in-5) display a "Back soon" message for remote collaboration
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Tools and session management

@@ -45,6 +45,10 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [cheek (⭐192)](https://github.com/bart6114/cheek) - A simple crontab like scheduler that aims to offer a KISS approach to job scheduling.
 
+### Messaging
+
+*   [GoEventBus (⭐28)](https://github.com/Raezil/GoEventBus) - A blazing‑fast, in‑memory, lock‑free event bus library
+
 ### Networking
 
 *   [nodepass (⭐1.1k)](https://github.com/yosebyte/nodepass) - A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections.

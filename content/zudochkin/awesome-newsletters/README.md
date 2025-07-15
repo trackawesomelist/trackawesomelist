@@ -6,6 +6,13 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Jul 15, 2025](/content/2025/07/15/README.md)
+
+### System Design / Svelte
+
+*   [Limitless System Design](https://www.linkedin.com/newsletters/limitless-system-design-7335259589879197700/). Newsletter for engineers who refuse to accept “good enough” architecture.
+*   [ByteByteGo](https://blog.bytebytego.com/). Explain complex systems with simple terms, from the authors of the best-selling system design book series
+
 ## [Jun 24, 2025](/content/2025/06/24/README.md)
 
 ### Marketing / Svelte
@@ -863,7 +870,7 @@ A list of amazing Newsletters
 
 ### R / Svelte
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐766)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐771)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Svelte
 

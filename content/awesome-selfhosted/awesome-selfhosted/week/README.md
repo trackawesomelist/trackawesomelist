@@ -12,6 +12,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Druid](https://druid.apache.org) - Distributed, column-oriented, real-time analytics data store. ([Source Code (⭐14k)](https://github.com/apache/druid)) `Apache-2.0` `Java/Docker`
 
+### Software / Booking and Scheduling
+
+*   [LibreBooking](https://librebooking.readthedocs.io/) - Resource scheduling solution offering a flexible, mobile-friendly, and extensible interface for organizations to manage resource reservations. ([Demo](https://librebooking-demo.fly.dev/), [Source Code (⭐524)](https://github.com/LibreBooking/app)) `GPL-3.0` `PHP/Docker`
+
 ### Software / Communication - Email - Complete Solutions
 
 *   [b1gMail](https://www.b1gmail.eu) - Complete email solution that runs on any webspace with PHP and MariaDB. It supports POP3 catchall mailboxes and can also integrate with Postfix or b1gMailServer if you're running your own server. ([Source Code](https://codeberg.org/b1gMail/b1gMail), [Clients](https://www.b1gmail.eu/en/start/addon-b1gmailserver/)) `GPL-2.0` `PHP`
@@ -23,6 +27,8 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Document Management
 
 *   [Paperless-AI (⭐3.8k)](https://github.com/clusterzx/paperless-ai/) - Automated document analyzer for Paperless-ngx that uses OpenAI API, Ollama, and other compatible services to automatically analyze and tag documents. `MIT` `Docker`
+*   [Papra](https://papra.app) - Minimalist document storage, management and archiving platform designed to be simple to use and accessible to everyone. ([Demo](https://demo.papra.app/), [Source Code (⭐1.9k)](https://github.com/papra-hq/papra/)) `AGPL-3.0` `Docker`
+*   [Signature PDF (⭐578)](https://github.com/24eme/signaturepdf) - Sign and manipulate PDFs with collaboration, organization, compression and metadata editing. ([Demo](https://pdf.24eme.fr/)) `AGPL-3.0` `PHP/deb/Docker`
 
 ### Software / File Transfer - Peer-to-peer Filesharing
 
@@ -41,6 +47,10 @@ A list of Free Software network services and web applications which can be hoste
 *   [AnythingLLM](https://anythingllm.com/) - All-in-one desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility, and more. ([Source Code (⭐46k)](https://github.com/Mintplex-Labs/anything-llm)) `MIT` `Nodejs/Docker`
 *   [Khoj](https://khoj.dev/) - Your AI second brain. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI. ([Demo](https://app.khoj.dev/), [Source Code (⭐31k)](https://github.com/khoj-ai/khoj)) `AGPL-3.0` `Python/Docker`
 
+### Software / Health and Fitness
+
+*   [Wingfit](https://wingfit.fr) - Minimalist fitness app to plan your workouts, track your personal records and leverage smartwatch data. ([Demo](https://wingfit.fr/home), [Source Code (⭐129)](https://github.com/itskovacs/wingfit)) `CC-BY-SA-4.0` `Python/Docker`
+
 ### Software / Knowledge Management Tools
 
 *   [AFFiNE Community Edition](https://affine.pro/) - Next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, customizable and ready to use (alternative to Notion and Miro). ([Demo](https://app.affine.pro/), [Source Code (⭐53k)](https://github.com/toeverything/AFFiNE)) `MIT/AGPL-3.0` `Docker`
@@ -48,6 +58,10 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Media Management
 
 *   [Spooty (⭐11)](https://github.com/Raiper34/spooty) `⚠` - Download tracks/playlists/albums from Spotify. It can also subscribe to a playlist or author page and download new songs upon release. `MIT` `Docker/Nodejs`
+
+### Software / Miscellaneous
+
+*   [Operational.co](https://operational.co) - Receive alerts in a live timeline from your product. ([Demo](https://app.operational.co/?signinas=kevin), [Source Code (⭐330)](https://github.com/operational-co/operational.co)) `AGPL-3.0` `Nodejs/Docker`
 
 ### Software / Note-taking & Editors
 
@@ -57,9 +71,17 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Chiyogami (⭐50)](https://github.com/rhee876527/chiyogami) - Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more. `BSD-3-Clause` `Docker`
 
+### Software / Personal Dashboards
+
+*   [Personal Management System](https://volmarg.github.io/) - Organize the essentials of everyday life, everything from a simple to-do list, and notes up to payments, and schedules. ([Demo (⭐3.4k)](https://github.com/Volmarg/personal-management-system#documentation--demo), [Source Code (⭐3.4k)](https://github.com/Volmarg/personal-management-system)) `MIT` `Docker`
+
 ### Software / Proxy
 
 *   [g3proxy](https://g3-project.readthedocs.io/projects/g3proxy/en/latest/) - Forward proxy server supporting proxy chaining, protocol inspection, MITM Interception, ICAP adaptation and transparent proxy. ([Source Code (⭐686)](https://github.com/bytedance/g3/tree/master/g3proxy)) `Apache-2.0` `Rust/deb`
+
+### Software / Status / Uptime pages
+
+*   [Kuvasz Uptime](https://kuvasz-uptime.dev) - Performant, stable uptime & SSL monitoring service that just works. ([Source Code (⭐137)](https://github.com/kuvasz-uptime/kuvasz)) `Apache-2.0` `Docker`
 
 ## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
 

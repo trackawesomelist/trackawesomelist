@@ -79,6 +79,7 @@ Thanks to all [contributors (⭐4.1k)](https://github.com/zudochkin/awesome-news
 *   [Resilience](#resilience)
 *   [Security](#security)
 *   [Entrepreneurship](#entrepreneurship)
+*   [System Design](#system-design)
 *   [Miscellaneous](#miscellaneous)
 *   [License](#license)
 
@@ -248,7 +249,7 @@ Thanks to all [contributors (⭐4.1k)](https://github.com/zudochkin/awesome-news
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐766)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐771)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 
@@ -525,6 +526,11 @@ Thanks to all [contributors (⭐4.1k)](https://github.com/zudochkin/awesome-news
 ## Productivity
 
 *   [The Productivity Newsletter](https://newsletter.productivity.directory)
+
+## System Design
+
+*   [Limitless System Design](https://www.linkedin.com/newsletters/limitless-system-design-7335259589879197700/). Newsletter for engineers who refuse to accept “good enough” architecture.
+*   [ByteByteGo](https://blog.bytebytego.com/). Explain complex systems with simple terms, from the authors of the best-selling system design book series
 
 ## Miscellaneous
 
