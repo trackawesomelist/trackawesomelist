@@ -8,6 +8,12 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
+### Questions and Answers
+
+*   [ada-forum](https://forum.ada-lang.io/) - Ada Forum at ada-lang.io.
+*   [comp-lang-ada](https://usenet.ada-lang.io/comp.lang.ada/) - Ada Usenet newsgroup/forum.
+*   [hacker-news-ada](https://hn.algolia.com/?query=ada\&sort=byDate) - Ada at Hacker News.
+
 ### Frameworks / Apache License
 
 *   [libgfxinit (⭐25)](https://github.com/coreboot/libgfxinit) - A graphics initialization (aka modesetting) library for embedded environments, implemented in SPARK.
@@ -1157,7 +1163,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Questions and Answers
 
-*   [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet newsgroup/forum.
 *   [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow.
 
 ### News and Resources

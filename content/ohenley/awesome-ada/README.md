@@ -6,6 +6,14 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ Daily / [Weekly](/content/ohenley/awesome-ada/week/README.md) / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Jul 16, 2025](/content/2025/07/16/README.md)
+
+### Questions and Answers
+
+*   [ada-forum](https://forum.ada-lang.io/) - Ada Forum at ada-lang.io.
+*   [comp-lang-ada](https://usenet.ada-lang.io/comp.lang.ada/) - Ada Usenet newsgroup/forum.
+*   [hacker-news-ada](https://hn.algolia.com/?query=ada\&sort=byDate) - Ada at Hacker News.
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Frameworks / Apache License
@@ -1213,7 +1221,6 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Questions and Answers
 
-*   [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - Ada Usenet newsgroup/forum.
 *   [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow.
 
 ### News and Resources

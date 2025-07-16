@@ -6,6 +6,15 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Jul 16, 2025](/content/2025/07/16/README.md)
+
+### Python / Miscellaneous
+
+*   [seaborn\_polars (⭐27)](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
+*   [functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
+*   [polars\_istr (⭐16)](https://github.com/abstractqqq/polars_istr) - Python package for Processing IBAN, ISINs, URLs and other standard format data in Polars by [@abstractqqq](https://github.com/abstractqqq).
+*   [catfact (⭐15)](https://github.com/machow/catfact) - Python package for working with categorical data in Polars DataFrames by [@machow](https://github.com/machow).
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Polars plugins / Machine Learning & Data Science
@@ -525,10 +534,6 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Mar 07, 2024](/content/2024/03/07/README.md)
 
-### Python / Miscellaneous
-
-*   [Polars for Identifiers and Standard Format Strings (⭐16)](https://github.com/abstractqqq/polars_istr) - Python package for Processing IBAN, ISINs, URLs and other standard format data in Polars by [@abstractqqq](https://github.com/abstractqqq).
-
 ### Blog posts / Miscellaneous
 
 *   [How moving from Pandas to Polars made me write better code without writing better code](https://dev.to/check/how-moving-from-pandas-to-polars-made-me-write-better-code-without-writing-better-code-52bl) - A post that describs the process of "Polarification" of code written with Pandas by [@duvenagep](https://github.com/duvenagep).
@@ -766,10 +771,6 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Jul 19, 2023](/content/2023/07/19/README.md)
 
-### Python / Miscellaneous
-
-*   [Python package functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
-
 ### R / Miscellaneous
 
 *   [tidypolars for R (⭐209)](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
@@ -863,10 +864,6 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 *   [Polars – Laziness and SQL Context.](https://www.confessionsofadataguy.com/polars-laziness-and-sql-context/) - A blog post that presents two good reasons to adopt Polars :  Lazy and SQL Context by [@danielbeach](https://github.com/danielbeach).
 
 ## [May 26, 2023](/content/2023/05/26/README.md)
-
-### Python / Miscellaneous
-
-*   [Python package seaborn\_polars (⭐27)](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
 
 ### Ruby / Miscellaneous
 

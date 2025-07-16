@@ -48,6 +48,35 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [SpecTest (⭐27)](https://github.com/justiceo/spectest) - Truly declarative API testing framework in Js, or plain JSON.
 
+#### [6. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+
+##### Reading
+
+*   [Wardley Leadership Strategies](https://www.wardleyleadershipstrategies.com/) - The Compendium of Wardley Mapping Leadership Gameplays and Strategies
+
+#### [7. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Storage and Media Processing
+
+*   [Dropshare](https://dropsha.re) - Zero-knowledge file sharing. End-to-end encrypted file sharing with AES-256-GCM encryption, client-side processing, and zero server-side data access. Free uploads for files up to 1GB with no data collection.
+
+#### [8. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+
+##### Questions and Answers
+
+*   [ada-forum](https://forum.ada-lang.io/) - Ada Forum at ada-lang.io.
+*   [comp-lang-ada](https://usenet.ada-lang.io/comp.lang.ada/) - Ada Usenet newsgroup/forum.
+*   [hacker-news-ada](https://hn.algolia.com/?query=ada\&sort=byDate) - Ada at Hacker News.
+
+#### [9. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Python / Miscellaneous
+
+*   [seaborn\_polars (⭐27)](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
+*   [functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
+*   [polars\_istr (⭐16)](https://github.com/abstractqqq/polars_istr) - Python package for Processing IBAN, ISINs, URLs and other standard format data in Polars by [@abstractqqq](https://github.com/abstractqqq).
+*   [catfact (⭐15)](https://github.com/machow/catfact) - Python package for working with categorical data in Polars DataFrames by [@machow](https://github.com/machow).
+
 ### [Jul 15, 2025](/content/2025/07/15/README.md)
 
 
@@ -75,13 +104,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Limitless System Design](https://www.linkedin.com/newsletters/limitless-system-design-7335259589879197700/). Newsletter for engineers who refuse to accept “good enough” architecture.
 *   [ByteByteGo](https://blog.bytebytego.com/). Explain complex systems with simple terms, from the authors of the best-selling system design book series
 
-#### [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Analytics, Events and Statistics
-
-*   [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
-
-#### [5. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [4. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Booking and Scheduling
 
@@ -108,7 +131,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Kuvasz Uptime](https://kuvasz-uptime.dev) - Performant, stable uptime & SSL monitoring service that just works. ([Source Code (⭐137)](https://github.com/kuvasz-uptime/kuvasz)) `Apache-2.0` `Docker`
 
-#### [6. Awesome Django](/content/wsvincent/awesome-django/README.md)
+#### [5. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ##### Third-Party Packages / Admin
 
@@ -118,23 +141,29 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [django-smartbase-admin (⭐48)](https://github.com/SmartBase-SK/django-smartbase-admin) - Django SmartBase Admin 🚀 performance-tuned 👥 end-user ready beautiful admin panel
 
-#### [7. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [6. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Messaging
 
 *   [GoEventBus (⭐28)](https://github.com/Raezil/GoEventBus) - A blazing‑fast, in‑memory, lock‑free event bus library
 
-#### [8. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
+#### [7. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
 ##### Traffic Analysis/Inspection
 
 *   [pcaptoparquet (⭐2)](https://github.com/nokia/pcaptoparquet): pcaptoparquet is a Python package designed for converting PCAP or PCAPNG files to structured data formats, primarily Apache Parquet. The tool focuses on network traffic analysis by extracting, decoding, and transforming packet data into queryable datasets suitable for analysis and visualization. The tool supports both command-line and programmatic interfaces, enabling integration into various network analysis workflows.
 
-#### [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-modern-alerts (⭐1)](https://github.com/jonaaix/ngx-modern-alerts) - This library provides a flexible system for displaying banner and floating alerts (notifications), complete with a notification hub, timeouts, custom actions, and more.
+
+#### [9. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Analytics, Events and Statistics
+
+*   [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
 
 ### [Jul 14, 2025](/content/2025/07/14/README.md)
 
@@ -2358,13 +2387,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [hismetic (⭐0)](https://github.com/dertuxmalwieder/cl-hismetic) - Security for Clack-based web applications. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
-#### [63. Awesome Ada](/content/ohenley/awesome-ada/README.md)
-
-##### Frameworks / Apache License
-
-*   [libgfxinit (⭐25)](https://github.com/coreboot/libgfxinit) - A graphics initialization (aka modesetting) library for embedded environments, implemented in SPARK.
-
-#### [64. Awesome V](/content/vlang/awesome-v/README.md)
+#### [63. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Graphics
 
@@ -2374,7 +2397,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [sessions (⭐7)](https://github.com/einar-hjortdal/sessions) - Web-framework-agnostic sessions library.
 
-#### [65. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [64. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Runtime Crates / Real-time tools
 
@@ -2387,7 +2410,7 @@ This project is open source and available under the [MIT License](https://github
 *   [`mips-rt`](https://crates.io/crates/mips-rt) Support for MIPS
 *   [`msp430-rt`](https://crates.io/crates/msp430-rt) Support for MSP430
 
-#### [66. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [65. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### Analytics
 
@@ -2427,20 +2450,20 @@ This project is open source and available under the [MIT License](https://github
 
 *   [LNVPN](https://lnvpn.net)
 
-#### [67. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+#### [66. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ##### Social Engineering / Social Engineering Tools
 
 *   [GitPhish (⭐140)](https://github.com/praetorian-inc/GitPhish) - GitHub Device Code phishing security assessment tool with dynamic device-code generation and automated landing page deployment.
 
-#### [68. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
+#### [67. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 
 ##### Free Beginner Blue Team Path / Level 3 - Beginner Forensics, Threat Intel & Cryptography
 
 *   [Threat Intelligence 101](https://tryhackme.com/room/cyberthreatintel) - Introduction to Cyber Threat Intelligence.
 *   [Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools) - Explore different OSINT tools used to conduct security threat assessments and investigations.
 
-#### [69. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+#### [68. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ##### Tools / Dynamic Analysis Tools
 
@@ -2455,7 +2478,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders (⭐90)](https://github.com/R0rt1z2/kaeru)
 
-#### [70. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+#### [69. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ##### :books: Literature / Documentation
 
@@ -2557,13 +2580,13 @@ This project is open source and available under the [MIT License](https://github
 *   [Renovo](https://dl.acm.org/doi/10.1145/1314389.1314399?tool) - Detection tool built on top of TEMU (dynamic analysis component of BitBlaze) based on the execution of newly-generated code and monitoring memory writes after the program starts.
 *   [VMUnpacker](https://web.archive.org/web/20241106123938/https://www.leechermods.com/2010/01/vmunpacker-16-latest-version.html) - Unpacker based on the technology of virtual machine.
 
-#### [71. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
+#### [70. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
 ##### Techniques / Databases
 
 *   [Database Triggers as Persistence Mechanisms](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-attack-vector-database-triggers-as-persistence-mechanisms/) - An in-depth write up about database triggers providing persistence.
 
-#### [72. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+#### [71. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ##### Articles
 
@@ -2574,7 +2597,7 @@ This project is open source and available under the [MIT License](https://github
 *   [Keycloak Webhooks from vymalo/keycloak-webhook (⭐63)](https://github.com/vymalo/keycloak-webhook)
 *   [Notification on Impersonation SebastEnn/impersonation-notification (⭐1)](https://github.com/SebastEnn/impersonation-notification)
 
-#### [73. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+#### [72. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ##### Tutorials
 
@@ -2595,7 +2618,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [LoadRunner Cloud](https://www.opentext.com/products/core-performance-engineering) - OpenText cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly Micro Focus LoadRunner Cloud, formerly HP StormRunner Load).
 
-#### [74. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+#### [73. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ##### Tutorials
 
@@ -2605,7 +2628,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [`gatling` on Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-java+or+gatling-plugin)
 
-#### [75. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+#### [74. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ##### Software Development
 
@@ -2615,13 +2638,13 @@ This project is open source and available under the [MIT License](https://github
 
 *   [The Boeing 737 MAX: When Humans and Technology Don't Mix](https://www.youtube.com/watch?v=opRbU6WZH9s) by **Kyle Kotowick** (NDC TechTown 2022) \[01:00:45]
 
-#### [76. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+#### [75. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ##### Books / Algorithms and Data structures
 
 *   [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) - Essential!
 
-#### [77. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [76. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Speciality Search Engines
 
@@ -2742,57 +2765,14 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Cipherstick](https://cipherstick.tech) - Free OSINT Puzzles - No Account Needed!
 
-#### [78. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+#### [77. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ##### Papers / 2025
 
 *   [P2NIA: Privacy-Preserving Non-Iterative Auditing](https://arxiv.org/abs/2504.00874) - (ECAI) *Proposes a mutually beneficial collaboration for both the auditor and the platform: a privacy-preserving and non-iterative audit scheme that enhances fairness assessments using synthetic or local data, avoiding the challenges associated with traditional API-based audits.*
 *   [The Fair Game: Auditing & debiasing AI algorithms overtime](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9E8408C67F7CE30505122DD1586D9FA2/S3033373325000080a.pdf/the-fair-game-auditing-and-debiasing-ai-algorithms-over-time.pdf) - (Cambridge Forum on AI: Law and Governance) *Aims to simulate the evolution of ethical and legal frameworks in the society by creating an auditor which sends feedback to a debiasing algorithm deployed around an ML system.*
 
-#### [79. Awesome Polars](/content/ddotta/awesome-polars/README.md)
-
-##### Polars plugins / Machine Learning & Data Science
-
-*   [polars-ds (⭐524)](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq).
-
-##### Polars plugins / AI
-
-*   [polar\_llama (⭐13)](https://github.com/daviddrummond95/polar_llama) - Polars plugin for interacting with LLMs in Polars by [@daviddrummond95](https://github.com/daviddrummond95).
-
-##### Polars plugins / Language
-
-*   [polar-whichlang (⭐0)](https://github.com/rmalouf/polars_whichlang) - Polars plugin for fast language identification by [@rmalouf](https://github.com/rmalouf).
-
-##### Polars plugins / General utilities / Performance
-
-*   [polars-avro (⭐3)](https://github.com/hafaio/polars-avro) - Polars plugin for reading and writing avro files by [@hafaio](https://github.com/hafaio).
-
-##### Python / Miscellaneous
-
-*   [pyjanitor](https://pyjanitor-devs.github.io/pyjanitor/api/polars/) - Python package that provides a clean API for cleaning Polars DataFrame [@pyjanitor-devs](https://github.com/pyjanitor-devs).
-*   [turtle-island (⭐3)](https://github.com/jrycw/turtle-island) - A lightweight utility library for writing Polars Expressions by [@jrycw](https://github.com/jrycw).
-
-##### Rust / Miscellaneous
-
-*   [plotlars (⭐523)](https://github.com/alceal/plotlars) `plotlars` is a Rust library designed to facilitate the integration between the Polars data analysis library and Plotly library.
-
-##### Tutorials & workshops / Miscellaneous
-
-*   [#100DaysOfPolars articles](https://www.conterval.com/blog/#category=100DaysOfPolars) - List of articles published by [@jorammutenge](https://github.com/jorammutenge) on linkedin #100DaysOfPolars.
-
-##### Blog posts / Miscellaneous
-
-*   [Polars for Pandas Users — A Blazing Fast DataFrame Alternative](https://www.kdnuggets.com/polars-for-pandas-users-a-blazing-fast-dataframe-alternative) — A tutorial article that shows how to migrate from Pandas to Polars with code examples and performance optimization tips by [Vinod Chugani](https://www.linkedin.com/in/vc1401/?originalSubdomain=th).
-*   [Data Validation Libraries for Polars (2025 Edition)](https://posit-dev.github.io/pointblank/blog/validation-libs-2025/) - A survey of five Python data validation libraries compatible with Polars, highlighting their strengths and trade-offs for robust data pipeline validation in 2025 by [@rich-iannone](https://github.com/rich-iannone).
-*   [Reshape Data in Polars Efficiently from Wide to Long Form](https://samukweku.github.io/data-wrangling-blog/notebooks/Reshape-Data-in-Polars-Wide-to_Long-Part-I.html) - A blog post list that details efficient transformation for Polars DataFrames from wide to long form by [@samukweku](https://github.com/samukweku).
-*   [Polars Boosted My Algorithm's Speed by 25x](https://john.soban.ski/polars.html) - A blog post that explains how using Polars increases code execution speed by 25 times compared to Pandas by [@hatdropper1977](https://github.com/hatdropper1977).
-
-##### Talks and videos / Miscellaneous
-
-*   [Polars - Talk Python To Me Ep.402](https://talkpython.fm/episodes/show/402/polars-a-lightning-fast-dataframe-for-python-updated-audio) ⏳ 69 min - A video in which Ritchie Vink gives a look at Polars by [Talk Python To Me](https://talkpython.fm/).
-*   [10 Polars Tools and Techniques To Level Up Your Data Science - Talk Python To Me Ep.510](https://talkpython.fm/episodes/show/510/10-polars-tools-and-techniques-to-level-up-your-data-science) ⏳ 58 min - A video in which Christopher Trudeau shares his recent work with Polars and highlights a collection of complementary Polars extensions and libraries by [Talk Python To Me](https://talkpython.fm/).
-
-#### [80. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+#### [78. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ##### Code Assistant
 
@@ -2811,7 +2791,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Img.Upscaler](https://imgupscaler.com/) - Img.Upscaler uses AI to enlarge your jpg, png, webp images by 200% or 400% without losing quality. `#freemium`
 
-#### [81. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+#### [79. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ##### Official
 
@@ -2845,7 +2825,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [CNCF - OpenTofu Day Europe 2025](https://www.youtube.com/playlist?list=PLj6h78yzYM2P1WUOx9Ny6Q3JJxiAs1A3M)
 
-#### [82. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/README.md)
+#### [80. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/README.md)
 
 ##### What is Workflow Automation?
 
@@ -2887,7 +2867,7 @@ This project is open source and available under the [MIT License](https://github
 *   [**Makerpad**](https://www.makerpad.co/)
 *   [**Automators Forum**](https://talk.automators.fm/)
 
-#### [83. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
+#### [81. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
 
 ##### SEO (Search Engine Optimization) / SEO Analytics
 
@@ -2905,7 +2885,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Optimal UX](https://optimalux.com) - Review - Seamless SEO patching and A/B testing tool powered by Cloudflare for effortless integration.
 
-#### [84. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
+#### [82. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
 
 ##### Client Libraries / Dart - Official
 
@@ -2920,7 +2900,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Dart Client for Genkit: Call Genkit Flows from Flutter/Dart](https://medium.com/@nozomi-koborinai/dart-client-for-genkit-call-genkit-flows-from-flutter-dart-b5a2c9b9400e) - A comprehensive guide to using the Dart client library for calling Genkit flows from Flutter and Dart applications with streaming support and type safety.
 
-#### [85. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+#### [83. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
 
 ##### Index / Authenticators
 
@@ -2951,13 +2931,13 @@ This project is open source and available under the [MIT License](https://github
 
 *   [NordPass](https://nordpass.com/) 🇱🇹
 
-#### [86. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+#### [84. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ##### Tools and session management
 
 *   [tmux-tpad (⭐11)](https://github.com/Subbeh/tmux-tpad) A popup window session manager.
 
-#### [87. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [85. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### (requires Neovim 0.5)
 
@@ -3003,59 +2983,7 @@ This project is open source and available under the [MIT License](https://github
 *   [smoka7/multicursors.nvim (⭐604)](https://github.com/smoka7/multicursors.nvim) - Provides a more intuitive way to edit repetitive text with multiple selections.
 *   [tigion/swap.nvim (⭐12)](https://github.com/tigion/swap.nvim) - Quickly switch a word under the cursor or a pattern in the current line.
 
-#### [88. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data, and ML
-
-*   [Maxim AI](https://getmaxim.ai/) - Simulate, evaluate, and observe your AI agents. Maxim is an end-to-end evaluation and observability platform, helping teams ship their AI agents reliably and >5x faster. Free forever for indie developers and small teams (3 seats).
-*   [JSONSwiss](https://www.jsonswiss.com/) - JSONSwiss is a powerful online JSON viewer, editor, and validator. Format, visualize, search, and manipulate JSON data with AI-powered repair, tree view, table view, code generation in 12+ programming languages, convert json to csv, xml, yaml, properties and more.
-*   [Mindee](https://developers.mindee.com) – Mindee is a powerful OCR software and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 500 pages per month.
-*   [Siterelic](https://siterelic.com/) - Siterelic API lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 100 API requests per month.
-*   [YourGPT CSV to JSON](https://yourgpt.ai/tools/csv-to-json) — A fast, free, and privacy-focused online tool to easily convert CSV files into structured JSON data right in your browser.
-
-##### CI and CD
-
-*   [Shipfox](https://shipfox.io/) - Run your GitHub actions 2x faster, 3.000 build minutes free each month.
-
-##### Testing
-
-*   [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - Check SSR (server-side rendering) for any URL by visually comparing the server rendered version of the page with the regular version.
-
-##### Translation Management
-
-*   [Localit](https://localit.io) – Fast, developer-friendly localization platform with seamless and free GitHub/GitLab integration, AI-assisted and manual translations, and a generous free plan (includes 2 users, 500 keys, and unlimited projects).
-
-##### Monitoring
-
-*   [MonitorMonk](https://monitormonk.com) - Minimalist uptime monitoring with beautiful status pages. The Forever Free plan offers HTTPS, Keyword, SSL and Response-time monitorming for 10 websites or api-endpoints, and provides 2 dashboards/status pages.
-
-##### Education and Career Development
-
-*   [edX](https://www.edx.org/) - Offers access to over 4,000 free online courses from 250 leading institutions, including Harvard and MIT, specializing in computer science, engineering, and data science.
-
-##### Web Hosting
-
-*   [PandaStack](https://www.pandastack.io/) — An eco-system for developers includes web hosting in different formats (static web hosting, container based web hosting, wordpress and so many other managed apps available in couple of clicks ). One free web hosting (static or containered) and one free database with 100GB Bandwidth and 300 Build mins/month.
-
-##### DNS
-
-*   [LocalCert](https://localcert.net) - Free `.localcert.net` subdomains compatible with public CAs for use with-in private networks
-
-##### Managed Data Services
-
-*   [Couchbase Capella](https://www.couchbase.com/products/capella/) - deploy a forever free tier fully managed database cluster built for developers to create the next generation of applications across IoT to AI
-*   [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 1GB storage, 10 databases, integrated with Prisma ORM.
-
-##### Design and UI
-
-*   [Tailark](https://tailark.com/) - A collection of modern, responsive, pre-built UI blocks designed for marketing websites.
-*   [Flows](https://flows.sh/) -- A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.
-
-##### IDE and Code Editing
-
-*   [ForgeCode](https://forgecode.dev/) — AI-enabled pair programmer for Claude, GPT4 Series, Grok, Deepseek, Gemini and all frontier models. Works natively with your CLI and integrates seamlessly with any IDE. Free tier includes basic AI model access with local processing.
-
-#### [89. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [86. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Analytics
 
@@ -3110,7 +3038,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [g3proxy](https://g3-project.readthedocs.io/projects/g3proxy/en/latest/) - Forward proxy server supporting proxy chaining, protocol inspection, MITM Interception, ICAP adaptation and transparent proxy. ([Source Code (⭐686)](https://github.com/bytedance/g3/tree/master/g3proxy)) `Apache-2.0` `Rust/deb`
 
-#### [90. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [87. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Authentication and OAuth
 
@@ -3194,7 +3122,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [The Go Interview Practice (⭐482)](https://github.com/RezaSi/go-interview-practice) - A GitHub repository offering coding challenges for Go technical interview preparation.
 
-#### [91. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [88. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ##### **Section 1** 🎯: RAG
 
@@ -3233,7 +3161,131 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Business Use Cases](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#business-use-cases)
 
-#### [92. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [89. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+
+##### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-stats (⭐2)](https://github.com/tomer953/ngx-stats) - A CLI tool for Angular project analysis that quantifies modules, components, directives, pipes, and services, offering a clear structural overview to help developers better understand architectural choices and app organization.
+
+##### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [@retejs/angular-plugin (⭐60)](https://github.com/retejs/angular-plugin) - This Angular plugin includes a classic preset featuring visual components for nodes, connections, sockets, and input controls. It is built on [Rete.js](https://retejs.org/), a customizable, TypeScript-first framework designed for creating processing-oriented, node-based editors.
+
+##### Security / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Snyk](https://snyk.io/) - Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines.
+
+##### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [signal-admin (⭐1)](https://github.com/codebangla/signal-admin) - A modern admin panel built with Angular 20, Angular Material, and TailwindCSS. Features a responsive design with collapsible sidebar, user management, forms, and UI components.
+*   [ngXpress (⭐7)](https://github.com/angularcafe/ngXpress) - The Full-Stack Angular Starter Kit (SSR, Zoneless, Express 5, Prisma, better-auth, Tailwind CSS 4).
+*   [spartan-stack-starter (⭐1)](https://github.com/thatsamsonkid/spartan-stack-starter) - An Opinionated Template Project Starter using Spartan Stack.
+
+##### Guides / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=Testing) - A rich source of valuable perspectives and practical tips on testing.
+
+##### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-animated-paginator (⭐1)](https://github.com/eladbh-stanley/ngx-animated-paginator) - Angular wrapper for [animated-paginator-web-component](https://www.npmjs.com/package/animated-paginator-web-component) that plugs seamlessly into template-driven and reactive forms via `ControlValueAccessor`.
+
+##### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [fireng (⭐2)](https://github.com/BhanukaDev/fireng) - A collection of Angular libraries to simplify responsive development using signals.
+
+##### Router / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-foresight (⭐3)](https://github.com/akshykhade/ngx-foresight) - An Angular integration of [ForesightJS](https://foresightjs.com/) that offers a router preloading strategy by intelligently preloading lazy-loaded modules based on user intent predictions derived from mouse and keyboard interactions.
+
+##### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [tailwind-ng (⭐12)](https://github.com/william-mba/tailwind-ng) - An open source UI components library that aims to provide a seamless and robust integration of Tailwind CSS components with Angular to make building a great UI easier and joyful at any scale.
+
+##### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [simplici-auth-angular-ionic](https://www.npmjs.com/package/simplici-auth-angular-ionic) - A powerful Angular library designed to seamlessly integrate social authentication into your Ionic/Angular applications. It supports a wide range of providers including Google, Microsoft, Facebook, and Apple, with optimized compatibility for both web and native mobile platforms (iOS/Android) using Capacitor or Cordova.
+
+#### [90. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+
+##### App Releases / Casual
+
+*   CircleCapture [Android](https://play.google.com/store/apps/details?id=com.marioiannotta.cc) [iOS](https://apps.apple.com/us/app/circlecapture/id6747576924) - Tap and drag to draw circles that capture floating particles. By [MarioIannotta](http://github.com/marioIannotta/)
+
+##### App Releases / Puzzle Games
+
+*   [Mine Cart Operator](https://cherrybit.itch.io/mine-cart-operator) - Mine cart operator is dekstop puzzle game for Windows, Mac and Linux. By [CherryBit Studios](https://cherrybit.studio/)
+
+#### [91. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+
+##### Concurrency
+
+*   [floscodes/coroutinez (⭐2)](https://github.com/floscodes/coroutinez) - Small runtime for running tasks using coroutines.
+
+##### Linters
+
+*   [KurtWagner/zlinter (⭐15)](https://github.com/KurtWagner/zlinter) - Linter that integrates from source into your `build.zig`
+*   [DonIsaac/zlint (⭐199)](https://github.com/DonIsaac/zlint) - Linter
+*   [nektro/ziglint (⭐99)](https://github.com/nektro/ziglint) - Linting suite
+
+#### [92. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [Maxim AI](https://getmaxim.ai/) - Simulate, evaluate, and observe your AI agents. Maxim is an end-to-end evaluation and observability platform, helping teams ship their AI agents reliably and >5x faster. Free forever for indie developers and small teams (3 seats).
+*   [JSONSwiss](https://www.jsonswiss.com/) - JSONSwiss is a powerful online JSON viewer, editor, and validator. Format, visualize, search, and manipulate JSON data with AI-powered repair, tree view, table view, code generation in 12+ programming languages, convert json to csv, xml, yaml, properties and more.
+*   [Mindee](https://developers.mindee.com) – Mindee is a powerful OCR software and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 500 pages per month.
+*   [Siterelic](https://siterelic.com/) - Siterelic API lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 100 API requests per month.
+*   [YourGPT CSV to JSON](https://yourgpt.ai/tools/csv-to-json) — A fast, free, and privacy-focused online tool to easily convert CSV files into structured JSON data right in your browser.
+
+##### CI and CD
+
+*   [Shipfox](https://shipfox.io/) - Run your GitHub actions 2x faster, 3.000 build minutes free each month.
+
+##### Testing
+
+*   [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - Check SSR (server-side rendering) for any URL by visually comparing the server rendered version of the page with the regular version.
+
+##### Translation Management
+
+*   [Localit](https://localit.io) – Fast, developer-friendly localization platform with seamless and free GitHub/GitLab integration, AI-assisted and manual translations, and a generous free plan (includes 2 users, 500 keys, and unlimited projects).
+
+##### Monitoring
+
+*   [MonitorMonk](https://monitormonk.com) - Minimalist uptime monitoring with beautiful status pages. The Forever Free plan offers HTTPS, Keyword, SSL and Response-time monitorming for 10 websites or api-endpoints, and provides 2 dashboards/status pages.
+
+##### Education and Career Development
+
+*   [edX](https://www.edx.org/) - Offers access to over 4,000 free online courses from 250 leading institutions, including Harvard and MIT, specializing in computer science, engineering, and data science.
+
+##### Web Hosting
+
+*   [PandaStack](https://www.pandastack.io/) — An eco-system for developers includes web hosting in different formats (static web hosting, container based web hosting, wordpress and so many other managed apps available in couple of clicks ). One free web hosting (static or containered) and one free database with 100GB Bandwidth and 300 Build mins/month.
+
+##### DNS
+
+*   [LocalCert](https://localcert.net) - Free `.localcert.net` subdomains compatible with public CAs for use with-in private networks
+
+##### Managed Data Services
+
+*   [Couchbase Capella](https://www.couchbase.com/products/capella/) - deploy a forever free tier fully managed database cluster built for developers to create the next generation of applications across IoT to AI
+*   [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 1GB storage, 10 databases, integrated with Prisma ORM.
+
+##### Design and UI
+
+*   [Tailark](https://tailark.com/) - A collection of modern, responsive, pre-built UI blocks designed for marketing websites.
+*   [Flows](https://flows.sh/) -- A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.
+
+##### IDE and Code Editing
+
+*   [ForgeCode](https://forgecode.dev/) — AI-enabled pair programmer for Claude, GPT4 Series, Grok, Deepseek, Gemini and all frontier models. Works natively with your CLI and integrates seamlessly with any IDE. Free tier includes basic AI model access with local processing.
+
+#### [93. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+
+##### Frameworks / Apache License
+
+*   [libgfxinit (⭐25)](https://github.com/coreboot/libgfxinit) - A graphics initialization (aka modesetting) library for embedded environments, implemented in SPARK.
+
+#### [94. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Domain Specific Language / Design Practises
 
@@ -3285,71 +3337,48 @@ This project is open source and available under the [MIT License](https://github
 *   [Machine learning-assisted molecular design and efficiency prediction for high-performance organic photovoltaic materials](https://www.science.org/doi/full/10.1126/sciadv.aay4275) - ***Science Advances***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=12392230644945701722)]. In the process of finding high-performance materials for organic photovoltaics (OPVs), it is meaningful if one can establish the relationship between chemical structures and photovoltaic properties even before synthesizing them. This work first establishes a database containing over 1700 donor materials reported in the literature. Through supervised learning, our machine learning (ML) models can build up the structure-property relationship and, thus, implement fast screening of OPV materials. The authors explore several expressions for molecule structures, i.e., images, ASCII strings, descriptors, and fingerprints, as inputs for various ML algorithms. It is found that fingerprints with length over 1000 bits can obtain high prediction accuracy. The reliability of the approach is further verified by screening 10 newly designed donor materials. Good consistency between model predictions and experimental outcomes is obtained. The result indicates that ML is a powerful tool to prescreen new OPV materials, thus accelerating the development of the OPV field.
 *   [Design of metalloproteins and novel protein folds using variational autoencoders](https://www.nature.com/articles/s41598-018-34533-1) - ***Scientific Reports***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=18126187509308242959)]. The design of novel proteins has many applications but remains an attritional process with success in isolated cases. Meanwhile, deep learning technologies have exploded in popularity in recent years and are increasingly applicable to biology due to the rise in available data. This work attempts to link protein design and deep learning by using variational autoencoders to generate protein sequences conditioned on desired properties. Potential copper and calcium binding sites are added to non-metal binding proteins without human intervention and compared to a hidden Markov model. In another use case, a grammar of protein structures is developed and used to produce sequences for a novel protein topology. One candidate structure is found to be stable by molecular dynamics simulation. The ability of the model to confine the vast search space of protein sequences and to scale easily has the potential to assist in a variety of protein design tasks.
 
-#### [93. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [95. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
-##### CLI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+##### Polars plugins / Machine Learning & Data Science
 
-*   [ngx-stats (⭐2)](https://github.com/tomer953/ngx-stats) - A CLI tool for Angular project analysis that quantifies modules, components, directives, pipes, and services, offering a clear structural overview to help developers better understand architectural choices and app organization.
+*   [polars-ds (⭐524)](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq).
 
-##### Integrations / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+##### Polars plugins / AI
 
-*   [@retejs/angular-plugin (⭐60)](https://github.com/retejs/angular-plugin) - This Angular plugin includes a classic preset featuring visual components for nodes, connections, sockets, and input controls. It is built on [Rete.js](https://retejs.org/), a customizable, TypeScript-first framework designed for creating processing-oriented, node-based editors.
+*   [polar\_llama (⭐13)](https://github.com/daviddrummond95/polar_llama) - Polars plugin for interacting with LLMs in Polars by [@daviddrummond95](https://github.com/daviddrummond95).
 
-##### Security / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+##### Polars plugins / Language
 
-*   [Snyk](https://snyk.io/) - Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines.
+*   [polar-whichlang (⭐0)](https://github.com/rmalouf/polars_whichlang) - Polars plugin for fast language identification by [@rmalouf](https://github.com/rmalouf).
 
-##### Free / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+##### Polars plugins / General utilities / Performance
 
-*   [signal-admin (⭐1)](https://github.com/codebangla/signal-admin) - A modern admin panel built with Angular 20, Angular Material, and TailwindCSS. Features a responsive design with collapsible sidebar, user management, forms, and UI components.
-*   [ngXpress (⭐7)](https://github.com/angularcafe/ngXpress) - The Full-Stack Angular Starter Kit (SSR, Zoneless, Express 5, Prisma, better-auth, Tailwind CSS 4).
-*   [spartan-stack-starter (⭐1)](https://github.com/thatsamsonkid/spartan-stack-starter) - An Opinionated Template Project Starter using Spartan Stack.
+*   [polars-avro (⭐3)](https://github.com/hafaio/polars-avro) - Polars plugin for reading and writing avro files by [@hafaio](https://github.com/hafaio).
 
-##### Guides / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+##### Python / Miscellaneous
 
-*   [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=Testing) - A rich source of valuable perspectives and practical tips on testing.
+*   [pyjanitor](https://pyjanitor-devs.github.io/pyjanitor/api/polars/) - Python package that provides a clean API for cleaning Polars DataFrame [@pyjanitor-devs](https://github.com/pyjanitor-devs).
+*   [turtle-island (⭐3)](https://github.com/jrycw/turtle-island) - A lightweight utility library for writing Polars Expressions by [@jrycw](https://github.com/jrycw).
 
-##### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+##### Rust / Miscellaneous
 
-*   [ngx-animated-paginator (⭐1)](https://github.com/eladbh-stanley/ngx-animated-paginator) - Angular wrapper for [animated-paginator-web-component](https://www.npmjs.com/package/animated-paginator-web-component) that plugs seamlessly into template-driven and reactive forms via `ControlValueAccessor`.
+*   [plotlars (⭐523)](https://github.com/alceal/plotlars) `plotlars` is a Rust library designed to facilitate the integration between the Polars data analysis library and Plotly library.
 
-##### Mixed utilities / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+##### Tutorials & workshops / Miscellaneous
 
-*   [fireng (⭐2)](https://github.com/BhanukaDev/fireng) - A collection of Angular libraries to simplify responsive development using signals.
+*   [#100DaysOfPolars articles](https://www.conterval.com/blog/#category=100DaysOfPolars) - List of articles published by [@jorammutenge](https://github.com/jorammutenge) on linkedin #100DaysOfPolars.
 
-##### Router / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+##### Blog posts / Miscellaneous
 
-*   [ngx-foresight (⭐3)](https://github.com/akshykhade/ngx-foresight) - An Angular integration of [ForesightJS](https://foresightjs.com/) that offers a router preloading strategy by intelligently preloading lazy-loaded modules based on user intent predictions derived from mouse and keyboard interactions.
+*   [Polars for Pandas Users — A Blazing Fast DataFrame Alternative](https://www.kdnuggets.com/polars-for-pandas-users-a-blazing-fast-dataframe-alternative) — A tutorial article that shows how to migrate from Pandas to Polars with code examples and performance optimization tips by [Vinod Chugani](https://www.linkedin.com/in/vc1401/?originalSubdomain=th).
+*   [Data Validation Libraries for Polars (2025 Edition)](https://posit-dev.github.io/pointblank/blog/validation-libs-2025/) - A survey of five Python data validation libraries compatible with Polars, highlighting their strengths and trade-offs for robust data pipeline validation in 2025 by [@rich-iannone](https://github.com/rich-iannone).
+*   [Reshape Data in Polars Efficiently from Wide to Long Form](https://samukweku.github.io/data-wrangling-blog/notebooks/Reshape-Data-in-Polars-Wide-to_Long-Part-I.html) - A blog post list that details efficient transformation for Polars DataFrames from wide to long form by [@samukweku](https://github.com/samukweku).
+*   [Polars Boosted My Algorithm's Speed by 25x](https://john.soban.ski/polars.html) - A blog post that explains how using Polars increases code execution speed by 25 times compared to Pandas by [@hatdropper1977](https://github.com/hatdropper1977).
 
-##### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+##### Talks and videos / Miscellaneous
 
-*   [tailwind-ng (⭐12)](https://github.com/william-mba/tailwind-ng) - An open source UI components library that aims to provide a seamless and robust integration of Tailwind CSS components with Angular to make building a great UI easier and joyful at any scale.
-
-##### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
-
-*   [simplici-auth-angular-ionic](https://www.npmjs.com/package/simplici-auth-angular-ionic) - A powerful Angular library designed to seamlessly integrate social authentication into your Ionic/Angular applications. It supports a wide range of providers including Google, Microsoft, Facebook, and Apple, with optimized compatibility for both web and native mobile platforms (iOS/Android) using Capacitor or Cordova.
-
-#### [94. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
-
-##### App Releases / Casual
-
-*   CircleCapture [Android](https://play.google.com/store/apps/details?id=com.marioiannotta.cc) [iOS](https://apps.apple.com/us/app/circlecapture/id6747576924) - Tap and drag to draw circles that capture floating particles. By [MarioIannotta](http://github.com/marioIannotta/)
-
-##### App Releases / Puzzle Games
-
-*   [Mine Cart Operator](https://cherrybit.itch.io/mine-cart-operator) - Mine cart operator is dekstop puzzle game for Windows, Mac and Linux. By [CherryBit Studios](https://cherrybit.studio/)
-
-#### [95. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
-
-##### Concurrency
-
-*   [floscodes/coroutinez (⭐2)](https://github.com/floscodes/coroutinez) - Small runtime for running tasks using coroutines.
-
-##### Linters
-
-*   [KurtWagner/zlinter (⭐15)](https://github.com/KurtWagner/zlinter) - Linter that integrates from source into your `build.zig`
-*   [DonIsaac/zlint (⭐199)](https://github.com/DonIsaac/zlint) - Linter
-*   [nektro/ziglint (⭐99)](https://github.com/nektro/ziglint) - Linting suite
+*   [Polars - Talk Python To Me Ep.402](https://talkpython.fm/episodes/show/402/polars-a-lightning-fast-dataframe-for-python-updated-audio) ⏳ 69 min - A video in which Ritchie Vink gives a look at Polars by [Talk Python To Me](https://talkpython.fm/).
+*   [10 Polars Tools and Techniques To Level Up Your Data Science - Talk Python To Me Ep.510](https://talkpython.fm/episodes/show/510/10-polars-tools-and-techniques-to-level-up-your-data-science) ⏳ 58 min - A video in which Christopher Trudeau shares his recent work with Polars and highlights a collection of complementary Polars extensions and libraries by [Talk Python To Me](https://talkpython.fm/).
 
 ---
 
@@ -3360,7 +3389,7 @@ This project is open source and available under the [MIT License](https://github
 1. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 382K 📝 07&#x2F;14 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 236K 📝 07&#x2F;15 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 147K 📝 07&#x2F;15 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K 📝 07&#x2F;15 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K 📝 07&#x2F;16 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 85K 📝 07&#x2F;14 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 6. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 75K 📝 07&#x2F;14 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
 7. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 07&#x2F;14 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
@@ -3473,7 +3502,7 @@ This project is open source and available under the [MIT License](https://github
 - [Awesome Okr](/content/domenicosolazzo/awesome-okr/README.md) - ([Source ⭐ 1.4K, 📝 21&#x2F;09&#x2F;13 ](https://github.com/domenicosolazzo/awesome-okr)) - A curated list about OKR (Objective - Key Results)
 - [Awesome Open Company](/content/opencompany/awesome-open-company/README.md) - ([Source ⭐ 907, 📝 24&#x2F;01&#x2F;11 ](https://github.com/opencompany/awesome-open-company)) - A community-curated list of awesome open companies.
 - [Awesome Social Enterprise](/content/RayBB/awesome-social-enterprise/README.md) - ([Source ⭐ 100, 📝 24&#x2F;12&#x2F;23 ](https://github.com/RayBB/awesome-social-enterprise)) - 📗Resources to dive into the world of social enterprises 🌼 
-- [Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md) - ([Source ⭐ 680, 📝 24&#x2F;12&#x2F;09 ](https://github.com/wardley-maps-community/awesome-wardley-maps)) - Wardley maps community hub. Useful Wardley mapping resources
+- [Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md) - ([Source ⭐ 727, 📝 07&#x2F;16 ](https://github.com/wardley-maps-community/awesome-wardley-maps)) - Wardley maps community hub. Useful Wardley mapping resources
 - [PlacesToPostYourStartup](/content/mmccaff/PlacesToPostYourStartup/README.md) - ([Source ⭐ 6K, 📝 01&#x2F;01 ](https://github.com/mmccaff/PlacesToPostYourStartup)) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 
 ### ChatGPT
@@ -3961,7 +3990,7 @@ This project is open source and available under the [MIT License](https://github
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.2K, 📝 03&#x2F;14 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 3K, 📝 06&#x2F;06 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K, 📝 07&#x2F;15 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K, 📝 07&#x2F;16 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.3K, 📝 07&#x2F;14 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 12K, 📝 24&#x2F;10&#x2F;03 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 4.1K, 📝 04&#x2F;23 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
@@ -4043,7 +4072,7 @@ This project is open source and available under the [MIT License](https://github
 ### Programming Languages
 
 - [Awesome Actionscript3](/content/robinrodricks/awesome-actionscript3/README.md) - ([Source ⭐ 188, 📝 22&#x2F;11&#x2F;13 ](https://github.com/robinrodricks/awesome-actionscript3)) - A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
-- [Awesome Ada](/content/ohenley/awesome-ada/README.md) - ([Source ⭐ 728, 📝 07&#x2F;14 ](https://github.com/ohenley/awesome-ada)) - A curated list of awesome resources related to the Ada and SPARK programming language
+- [Awesome Ada](/content/ohenley/awesome-ada/README.md) - ([Source ⭐ 728, 📝 07&#x2F;16 ](https://github.com/ohenley/awesome-ada)) - A curated list of awesome resources related to the Ada and SPARK programming language
 - [Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md) - ([Source ⭐ 4.7K, 📝 23&#x2F;01&#x2F;08 ](https://github.com/timofurrer/awesome-asyncio)) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
 - [Awesome AutoHotkey](/content/ahkscript/awesome-AutoHotkey/README.md) - ([Source ⭐ 2.1K, 📝 22&#x2F;09&#x2F;04 ](https://github.com/ahkscript/awesome-AutoHotkey)) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [Awesome AutoIt](/content/J2TEAM/awesome-AutoIt/README.md) - ([Source ⭐ 756, 📝 22&#x2F;07&#x2F;10 ](https://github.com/J2TEAM/awesome-AutoIt)) - :star: A curated list of awesome UDFs, example scripts, tools and useful resources for AutoIt.
@@ -4091,7 +4120,7 @@ This project is open source and available under the [MIT License](https://github
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 665, 📝 24&#x2F;04&#x2F;07 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 32K, 📝 05&#x2F;12 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 902, 📝 07&#x2F;14 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 902, 📝 07&#x2F;16 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
