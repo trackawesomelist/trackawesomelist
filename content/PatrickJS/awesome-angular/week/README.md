@@ -50,6 +50,10 @@
 
 *   [tailwind-ng (⭐12)](https://github.com/william-mba/tailwind-ng) - An open source UI components library that aims to provide a seamless and robust integration of Tailwind CSS components with Angular to make building a great UI easier and joyful at any scale.
 
+### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [file-viewer (⭐1)](https://github.com/ameyb88/file-viewer) - A powerful, universal file previewer library for Angular applications with support for PDF, images, documents, spreadsheets, and more.
+
 ### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [simplici-auth-angular-ionic](https://www.npmjs.com/package/simplici-auth-angular-ionic) - A powerful Angular library designed to seamlessly integrate social authentication into your Ionic/Angular applications. It supports a wide range of providers including Google, Microsoft, Facebook, and Apple, with optimized compatibility for both web and native mobile platforms (iOS/Android) using Capacitor or Cordova.
@@ -4291,8 +4295,8 @@
 
 ### Viewers / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
-*   [ngx-extended-pdf-viewer (⭐536)](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond.
 *   [ng2-pdfjs-viewer (⭐238)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
+*   [ngx-extended-pdf-viewer (⭐536)](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond.
 
 ### Ionic / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 

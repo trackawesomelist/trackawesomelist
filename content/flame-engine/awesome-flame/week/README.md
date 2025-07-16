@@ -8,6 +8,10 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
+### Open Source / Casual
+
+*   [Square Shooter (⭐21)](https://github.com/namzug16/squareshooter_flame) - A simple 2D top-down shooter for the web. Play solo vs AI or sit back and let the AI battle its own. By [Namzug](https://namzug.dev/).
+
 ### App Releases / Casual
 
 *   CircleCapture [Android](https://play.google.com/store/apps/details?id=com.marioiannotta.cc) [iOS](https://apps.apple.com/us/app/circlecapture/id6747576924) - Tap and drag to draw circles that capture floating particles. By [MarioIannotta](http://github.com/marioIannotta/)

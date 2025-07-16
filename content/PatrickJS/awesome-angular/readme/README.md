@@ -1948,17 +1948,18 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 #### Viewers
 
+*   [file-viewer (⭐1)](https://github.com/ameyb88/file-viewer) - A powerful, universal file previewer library for Angular applications with support for PDF, images, documents, spreadsheets, and more.
+*   [ng-pdf-renderer (⭐1)](https://github.com/askinjohn/ng-pdf-renderer) - A modern, zero-configuration PDF viewer for Angular applications with intelligent auto-fit, text selection, and responsive design.
 *   [ng2-pdf-viewer (⭐1.3k)](https://github.com/VadimDez/ng2-pdf-viewer) - PDF viewer component.
-*   [ngx-extended-pdf-viewer (⭐536)](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond.
 *   [ng2-pdfjs-viewer (⭐238)](https://github.com/intbot/ng2-pdfjs-viewer) - An Angular component for PDFJS and ViewerJS (Supports all versions of Angular).
 *   [ngx-diff (⭐34)](https://github.com/rars/ngx-diff) - Angular component library for displaying diffs of text.
-*   [ngx-treeview2 (⭐2)](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
-*   [ngx-imageviewer (⭐1)](https://github.com/viobui/ngx-imageviewer) - Generate a image/pdf viewer using canvas.
-*   [ngx-json-schema-viewer (⭐2)](https://github.com/jy95/ngx-json-schema-viewer) - JSON Schema Viewer in Angular.
+*   [ngx-extended-pdf-viewer (⭐536)](https://github.com/stephanrauh/ngx-extended-pdf-viewer) - A full-blown PDF viewer for Angular 16, 17, and beyond.
 *   [ngx-gist (⭐3)](https://github.com/ProAngular/ngx-gist) - An Angular Material and highlightjs styled display box for GitHub gist and local code snippets.
-*   [ngx-json-treeview (⭐6)](https://github.com/MichaelDoyle/ngx-json-treeview) - A collapsible JSON tree view for Angular.
+*   [ngx-imageviewer (⭐1)](https://github.com/viobui/ngx-imageviewer) - Generate a image/pdf viewer using canvas.
 *   [ngx-json-diff-viewer](https://www.npmjs.com/package/ngx-json-diff-viewer) - Angular component for visually displaying the differences between two JSON objects.
-*   [ng-pdf-renderer (⭐1)](https://github.com/askinjohn/ng-pdf-renderer) - A modern, zero-configuration PDF viewer for Angular applications with intelligent auto-fit, text selection, and responsive design.
+*   [ngx-json-schema-viewer (⭐2)](https://github.com/jy95/ngx-json-schema-viewer) - JSON Schema Viewer in Angular.
+*   [ngx-json-treeview (⭐6)](https://github.com/MichaelDoyle/ngx-json-treeview) - A collapsible JSON tree view for Angular.
+*   [ngx-treeview2 (⭐2)](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
 
 #### Misc Components
 

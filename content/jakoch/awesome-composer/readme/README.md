@@ -104,6 +104,7 @@ You might also like [awesome-php (⭐32k)](https://github.com/ziadoz/awesome-php
 *   [Composer-REPL (⭐106)](https://github.com/ramsey/composer-repl) - The plugin provides the `composer repl` command, which gives you a PHP language shell (read-eval-print loop).
 *   [Composer-Diff (⭐180)](https://github.com/IonBazan/composer-diff) - Compares `composer.lock` changes and generates a Markdown report for usage in a pull request description.
 *   [Composer-Velocita (⭐27)](https://github.com/isaaceindhoven/composer-velocita) - Fast and reliable Composer package downloads using [Velocita (⭐60)](https://github.com/isaaceindhoven/velocita-proxy): a caching reverse proxy that does not require you to modify your projects.
+*   [Composer Translation Validator (⭐0)](https://github.com/move-elevator/composer-translation-validator) - Validates translation files in your project, supports several file formats (regarding different frameworks) and provides useful validators for comparison, consistency and syntax checks.
 
 ## Tools
 

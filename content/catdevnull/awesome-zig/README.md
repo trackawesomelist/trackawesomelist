@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Jul 16, 2025](/content/2025/07/16/README.md)
+
+### GUI
+
+*   [rcalixte/libqt6zig (⭐53)](https://github.com/rcalixte/libqt6zig) - Qt 6 bindings.
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Concurrency

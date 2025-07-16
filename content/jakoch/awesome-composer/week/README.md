@@ -12,6 +12,10 @@
 
 *   IRC channels are on `irc.freenode.org`: [#composer](https://irc.com/#composer) for users and [#composer-dev](https://irc.com/#composer-dev) for development.
 
+### Plugins / IRC
+
+*   [Composer Translation Validator (⭐0)](https://github.com/move-elevator/composer-translation-validator) - Validates translation files in your project, supports several file formats (regarding different frameworks) and provides useful validators for comparison, consistency and syntax checks.
+
 ### Services / IRC
 
 *   [Dependabot](https://github.com/security/advanced-security) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.

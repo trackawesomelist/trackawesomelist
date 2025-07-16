@@ -12,6 +12,10 @@ A list of awesome projects related to Zig
 
 *   [floscodes/coroutinez (⭐2)](https://github.com/floscodes/coroutinez) - Small runtime for running tasks using coroutines.
 
+### GUI
+
+*   [rcalixte/libqt6zig (⭐53)](https://github.com/rcalixte/libqt6zig) - Qt 6 bindings.
+
 ### Linters
 
 *   [KurtWagner/zlinter (⭐15)](https://github.com/KurtWagner/zlinter) - Linter that integrates from source into your `build.zig`

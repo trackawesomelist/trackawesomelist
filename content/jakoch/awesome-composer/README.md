@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jakoch/awesome-composer/week/README.md) / [Overview](/content/jakoch/awesome-composer/readme/README.md) ]
 
+## [Jul 16, 2025](/content/2025/07/16/README.md)
+
+### Plugins / IRC
+
+*   [Composer Translation Validator (⭐0)](https://github.com/move-elevator/composer-translation-validator) - Validates translation files in your project, supports several file formats (regarding different frameworks) and provides useful validators for comparison, consistency and syntax checks.
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Support / IRC

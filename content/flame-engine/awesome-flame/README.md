@@ -6,6 +6,12 @@ An awesome list that curates the best Flame games, projects, libraries, tools, t
 
 [ Daily / [Weekly](/content/flame-engine/awesome-flame/week/README.md) / [Overview](/content/flame-engine/awesome-flame/readme/README.md) ]
 
+## [Jul 16, 2025](/content/2025/07/16/README.md)
+
+### Open Source / Casual
+
+*   [Square Shooter (⭐21)](https://github.com/namzug16/squareshooter_flame) - A simple 2D top-down shooter for the web. Play solo vs AI or sit back and let the AI battle its own. By [Namzug](https://namzug.dev/).
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### App Releases / Casual
