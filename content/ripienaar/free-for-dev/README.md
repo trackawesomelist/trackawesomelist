@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 17, 2025](/content/2025/07/17/README.md)
+
+### Crash and Exception Handling
+
+*   [Bugsink](https://www.bugsink.com/) — Error-tracking with Sentry-SDK compatability. Free for up to 5,000 errors/month, or unlimited use when self-hosted.
+
 ## [Jul 16, 2025](/content/2025/07/16/README.md)
 
 ### Storage and Media Processing

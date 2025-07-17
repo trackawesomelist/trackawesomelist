@@ -6,6 +6,12 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 [ Daily / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / [Overview](/content/playcanvas/awesome-playcanvas/readme/README.md) ]
 
+## [Jul 17, 2025](/content/2025/07/17/README.md)
+
+### 3D Gaussian Splatting / YouTube Playables
+
+*   [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### 3D Gaussian Splatting / YouTube Playables

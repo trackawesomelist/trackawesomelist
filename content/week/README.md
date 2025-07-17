@@ -1095,13 +1095,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Fresh NW (⭐1)](https://github.com/kckarnige/FreshNWjsForC2) - Easily setup exporting for the latest versions of NW\.js, replacing the outdated "NW\.js for Construct 2" installer.
 
-#### [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
-
-##### 3D Gaussian Splatting / YouTube Playables
-
-*   [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
-
-#### [11. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
+#### [10. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/README.md)
 
 ##### FPS
 
@@ -1116,13 +1110,13 @@ This project is open source and available under the [MIT License](https://github
 
 *   [UnleashedRecomp (⭐4.2k)](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 
-#### [12. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
+#### [11. Awesome Iot](/content/HQarroum/awesome-iot/README.md)
 
 ##### Software / Programming languages
 
 *   [AtomVM](https://atomvm.org/) - Brings Erlang, Elixir, Gleam and other functional languages to microcontrollers.
 
-#### [13. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
+#### [12. Awesome Lidar](/content/szenergy/awesome-lidar/README.md)
 
 ##### Frameworks
 
@@ -1146,7 +1140,7 @@ This project is open source and available under the [MIT License](https://github
 *   [CloudPeek (⭐117)](https://github.com/Geekgineer/CloudPeek) is a lightweight, c++ single-header, cross-platform point cloud viewer, designed for simplicity and efficiency without relying on heavy external libraries like PCL or Open3D.
     *   [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square\&logo=github) (⭐117)](https://github.com/Geekgineer/CloudPeek)
 
-#### [14. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
+#### [13. Awesome Digital History](/content/maehr/awesome-digital-history/README.md)
 
 ##### Archives and primary sources / Europe
 
@@ -1160,7 +1154,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Topotijdreis](https://www.topotijdreis.nl/) - Browse and compare Dutch topographic maps (1815 until today).
 
-#### [15. Awesome Product Management](/content/dend/awesome-product-management/README.md)
+#### [14. Awesome Product Management](/content/dend/awesome-product-management/README.md)
 
 ##### Product Fundamentals & Philosophy / Tability
 
@@ -1259,25 +1253,25 @@ This project is open source and available under the [MIT License](https://github
 *   [High Output Management](https://www.barnesandnoble.com/w/high-output-management-andrew-s-grove/1000970775) - By Andrew S. Grove.
 *   [7 Powers: The Foundations of Business Strategy](https://www.barnesandnoble.com/w/7-powers-hamilton-helmer/1125041039) - By Hamilton Helmer.
 
-#### [16. Awesome List](/content/sindresorhus/awesome/README.md)
+#### [15. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ##### Front-End Development
 
 *   [WebAssembly (⭐11)](https://github.com/idematos/awesome-webassembly#readme) - A portable binary format for running code efficiently across platforms.
 
-#### [17. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
+#### [16. Awesome Readme](/content/matiassingers/awesome-readme/README.md)
 
 ##### Tools
 
 *   [Github Licenses Stats (⭐8)](https://github.com/lheintzmann1/github-licenses-stats#readme) - This tool generates a dynamic SVG that shows the top licenses used across your GitHub repositories.
 
-#### [18. Guides](/content/NARKOZ/guides/README.md)
+#### [17. Guides](/content/NARKOZ/guides/README.md)
 
 ##### Programming Languages / Perl
 
 *   \[PDF] [Perl Best Practices Quick Reference Guide](https://rperl.org/docs/PBP_refguide-1.02.00.pdf)
 
-#### [19. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
+#### [18. Awesome Graphql](/content/chentsulin/awesome-graphql/README.md)
 
 ##### Go / React
 
@@ -1286,7 +1280,7 @@ This project is open source and available under the [MIT License](https://github
 *   [grpc-graphql-gateway (⭐409)](https://github.com/ysugimoto/grpc-graphql-gateway) - A protoc plugin that generates graphql execution code from Protocol Buffers.
     <a name="go-example" />
 
-#### [20. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+#### [19. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ##### Proprietary (non-standard) vendor APIs / Rust
 
@@ -1312,7 +1306,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [RideSheet](https://docs.ridesheet.org) – A simple, spreadsheet-based tool for small demand-responsive transportation (DRT) services.
 
-#### [21. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
+#### [20. Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md)
 
 ##### JavaScript
 
@@ -1333,7 +1327,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Pyrefly (⭐3.2k)](https://github.com/facebook/pyrefly) *(label: good first issue)* <br> A fast Python typechecker and IDE written in Rust.
 
-#### [22. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
+#### [21. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/README.md)
 
 ##### Business
 
@@ -1363,7 +1357,7 @@ This project is open source and available under the [MIT License](https://github
 *   [Falsehoods about Aviation](https://flightaware.engineering/falsehoods-programmers-believe-about-aviation/) - Aviation data are less normalized than you might think.
 *   [My name causes an issue with any booking!](https://web.archive.org/web/20250528134345/https://travel.stackexchange.com/questions/149323/my-name-causes-an-issue-with-any-booking-names-end-with-mr-and-mrs) - Old airline reservation systems considers the `MR` suffix as `Mister` and drops it.
 
-#### [23. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
+#### [22. Awesome Ddd](/content/heynickc/awesome-ddd/README.md)
 
 ##### Blogs
 
@@ -1386,19 +1380,19 @@ This project is open source and available under the [MIT License](https://github
 
 *   [CodefyPHP Framework](https://github.com/codefyphp/) - A PHP framework for codefying and building complex applications using Domain-Driven Design, CQRS, and Event Sourcing.
 
-#### [24. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
+#### [23. Awesome Quantified Self](/content/woop/awesome-quantified-self/README.md)
 
 ##### Applications and Platforms / Habits
 
 *   [MissionMate](https://www.missionmate.team/) - Virtual Habit Coach for in your groupchat (telegram). Log activities with photos or text, earn points, and compete with friends to build consistent habits together.
 
-#### [25. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
+#### [24. Awesome Creative Coding](/content/terkelg/awesome-creative-coding/README.md)
 
 ##### Articles • Tutorials / Shaders • OpenGL • WebGL
 
 *   [ThreeJS post-process example (⭐25)](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
 
-#### [26. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+#### [25. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ##### Generative AI history, timelines, maps, and definitions
 
@@ -1408,20 +1402,20 @@ This project is open source and available under the [MIT License](https://github
 
 *   [The case against AI-generated users - IDEO](https://www.ideo.com/journal/the-case-against-ai-generated-users)
 
-#### [27. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
+#### [26. Awesome Dev Fun](/content/mislavcimpersak/awesome-dev-fun/README.md)
 
 ##### Python
 
 *   [gremllm (⭐579)](https://github.com/awwaiid/gremllm) - Always a good idea to add gremlins to your code in a modern fashion.
 *   [Yell at the clouds MCP server (⭐0)](https://github.com/Tylersuard/yell_at_the_clouds_MCP_server) - Have suppressed rage? Want to let it out by screaming at the sky? Have your AI agent tell someone to do it for you!
 
-#### [28. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
+#### [27. Awesome Magento2](/content/run-as-root/awesome-magento2/README.md)
 
 ##### Tools
 
 *   [MageForge (⭐4)](https://github.com/OpenForgeProject/mageforge) - Magento 2 Cli automatic Theme(s) Builder (Hyvä ready)
 
-#### [29. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
+#### [28. Awesome Esolangs](/content/angrykoala/awesome-esolangs/README.md)
 
 ##### Languages
 
@@ -1429,7 +1423,7 @@ This project is open source and available under the [MIT License](https://github
 *   [Schoenberg](https://tomeraberba.ch/schoenberg) - The MIDI Esoteric Programming Language.
 *   [Unary Except Every Zero Is Replaced with the Title of This Programming Language or, Alternately, Is Replaced with the Smallest Counter-Example to the Goldbach Conjecture. Compilers and Interpreters Only Have to Implement the Former Option](https://esolangs.org/wiki/Unary_Except_Every_Zero_Is_Replaced_with_the_Title_of_This_Programming_Language_or,_Alternately,_Is_Replaced_with_the_Smallest_Counter-Example_to_the_Goldbach_Conjecture._Compilers_and_Interpreters_Only_Have_to_Implement_the_Former_Option) - Derivative of Unary in which every zero is replaced with the title of the programming language being discussed.
 
-#### [30. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
+#### [29. Awesome Board Games](/content/edm00se/awesome-board-games/README.md)
 
 ##### Family
 
@@ -1445,25 +1439,25 @@ This project is open source and available under the [MIT License](https://github
 | ------: | -------: | ---: |
 |   2 - 4 |       8+ |  45m |
 
-#### [31. Awesome Naming](/content/gruhn/awesome-naming/README.md)
+#### [30. Awesome Naming](/content/gruhn/awesome-naming/README.md)
 
 ##### Other
 
 *   [Firmware](https://en.wikipedia.org/wiki/Firmware) - The *ware* between *software* and *hardware*.
 
-#### [32. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
+#### [31. Awesome Ansible](/content/ansible-community/awesome-ansible/README.md)
 
 ##### Blog posts and opinions
 
 *   [Functional programming design patterns in Ansible code](https://kksat.github.io/talks/2025/functional-ansible/) - Borrowing functional programming (FP) principles to improve Ansible code quality. How to adopt functional patterns like pure functions, clear separation of effects, immutability, composition, and lazy evaluation can make Ansible automation far easier to test, debug, understand, and extend.
 
-#### [33. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
+#### [32. Awesome Translations](/content/mbiesiad/awesome-translations/README.md)
 
 ##### Platforms / Localization and translation platforms
 
 *   [Localit](https://localit.io/) - A fast and intuitive localization platform with seamless GitHub/GitLab integration, AI-powered and human translation support, and a generous free plan.
 
-#### [34. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
+#### [33. Awesome Webxr](/content/msub2/awesome-webxr/README.md)
 
 ##### Development / Frameworks and Libraries
 
@@ -1473,7 +1467,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [XR Fragments](https://codeberg.org/coderofsalvation/xrfragment) - A tiny specification for controlling any 3D model using URLs, based on existing metadata. Promoting hyperlinked WebXR storytelling using all 3D editors and viewers.
 
-#### [35. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
+#### [34. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/README.md)
 
 ##### Tools / Browser Extensions
 
@@ -1487,7 +1481,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [OpenHistoricalMap](https://www.openhistoricalmap.org/) - Mapping places throughout the world… throughout the ages, created using the OSM software platform. ([Wiki](https://wiki.openstreetmap.org/wiki/OpenHistoricalMap))
 
-#### [36. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
+#### [35. Awesome Lowcode](/content/antdimot/awesome-lowcode/README.md)
 
 ##### Visual programming
 
@@ -1497,7 +1491,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Tachybase (⭐67)](https://github.com/tachybase/tachybase) - Tachybase is a pluggable application framework., where developers can build complex application logic, while core developers focus on ensuring the stability of key modules and adapting to different environments.
 
-#### [37. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+#### [36. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
 
 ##### RSS2ARCHIVE / For Android device
 
@@ -1508,13 +1502,13 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Crawler-Buddy (⭐131)](https://github.com/rumca-js/crawler-buddy): A server that parses RSS links, and provides output as standardized JSON. Provides feeds for input links
 
-#### [38. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
+#### [37. Awesome Appimage](/content/AppImageCommunity/awesome-appimage/README.md)
 
 ##### AppImage developer tools / Tools to convert from other package formats
 
 *   [GMAppImager (⭐0)](https://github.com/samuelvenable/GMAppImager) - Graphically Converts GameMaker Studio 2 games to AppImage bundles.
 
-#### [39. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [38. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Reading and Writing Tools / Ebooks
 
@@ -1580,7 +1574,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Ryubing](https://github.com/Ryubing) - A fork of the discontinued Switch emulator, Ryujinx. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/Ryubing)
 
-#### [40. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+#### [39. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ##### Productivity
 
@@ -1590,7 +1584,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [OpenShell (⭐7.9k)](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
-#### [41. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
+#### [40. Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md)
 
 ##### Tools
 
@@ -1604,7 +1598,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Storacha](https://storacha.network) - Super hot decentralized data at scale.
 
-#### [42. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+#### [41. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
 
 ##### Internet and Networking
 
@@ -1631,7 +1625,7 @@ This project is open source and available under the [MIT License](https://github
 *   [Are we libadwaita yet](https://arewelibadwaitayet.com/) - List of libadwaita-powered apps
 *   [Awesome-GTK (⭐1k)](https://github.com/valpackett/awesome-gtk) - Collections of awesome native open-source GTK (4 and 3) applications.
 
-#### [43. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+#### [42. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ##### ETL
 
@@ -1710,13 +1704,13 @@ This project is open source and available under the [MIT License](https://github
 *   [Vogan (⭐1.2k)](https://github.com/SteveDunn/Vogen) - A value object generator with analizers.
 *   [Dunet (⭐745)](https://github.com/domn1995/dunet) - A simple source generator for discriminated unions in C#.
 
-#### [44. Awesome Deno](/content/denolib/awesome-deno/README.md)
+#### [43. Awesome Deno](/content/denolib/awesome-deno/README.md)
 
 ##### Modules / CLI utils
 
 *   [commit-sage-cli (⭐6)](https://github.com/AhmedOsman101/commit-sage-cli) - Generates Conventional Commit messages with AI based on Git repository changes.
 
-#### [45. Awesome Nix](/content/nix-community/awesome-nix/README.md)
+#### [44. Awesome Nix](/content/nix-community/awesome-nix/README.md)
 
 ##### Development / Discovery
 
@@ -1726,7 +1720,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Stylix (⭐1.7k)](https://github.com/nix-community/stylix) - System-wide colorscheming and typography for NixOS.
 
-#### [46. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+#### [45. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ##### Projects / API Management
 
@@ -1884,19 +1878,19 @@ This project is open source and available under the [MIT License](https://github
 
 *   [JSON Schema (⭐4.3k) (⭐4.4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-#### [47. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
+#### [46. Awesome Low Code](/content/zenitysec/awesome-low-code/README.md)
 
 ##### Platforms / Citizen Automation and Development Platform
 
 *   [Postman Flows](https://learning.postman.com/docs/postman-flows/overview/#get-started-with-flows) -  Postman Flows low-code editor to prototype, build, and deploy API-first apps in a collaborative environment. Create flow modules that automate tasks, integrate systems, and showcase your APIs to others on your team or the entire world with the Postman API Network.
 
-#### [48. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
+#### [47. Awesome Capacitor](/content/riderx/awesome-capacitor/README.md)
 
 ##### Other plugins
 
 *   [Shamir (⭐5)](https://github.com/vault12/capacitor-shamir) - Shamir's Secret Sharing cryptographic algorithm.
 
-#### [49. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md)
+#### [48. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md)
 
 ##### Plugins / Community Plugins
 
@@ -1930,7 +1924,7 @@ This project is open source and available under the [MIT License](https://github
 *   [@capacitor/file-viewer](https://capacitorjs.com/docs/apis/file-viewer) - The FileViewer API provides mechanisms for opening files and previewing media.
 *   [@capacitor/file-transfer](https://capacitorjs.com/docs/apis/file-transfer) - The FileTransfer API provides mechanisms for downloading and uploading files.
 
-#### [50. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
+#### [49. Awesome Javascript](/content/sorrycc/awesome-javascript/README.md)
 
 ##### SDK / Other
 
@@ -1940,32 +1934,32 @@ This project is open source and available under the [MIT License](https://github
 
 *   [ws (⭐22k)](https://github.com/websockets/ws) Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js.
 
-#### [51. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
+#### [50. Awesome Eslint](/content/dustinspecker/awesome-eslint/README.md)
 
 ##### Plugins / Practices and Specific ES Features
 
 *   [eslint-plugin-error-cause (⭐14)](https://github.com/Amnish04/eslint-plugin-error-cause) - A plugin to preserve original error context when re-throwing exceptions.
 *   [Math (⭐13)](https://github.com/ota-meshi/eslint-plugin-math) - ESLint plugin related to Math object and Number.
 
-#### [52. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
+#### [51. Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md)
 
 ##### Resources / Articles
 
 *   [A Monad in Practicality: First-Class Failures](https://web.archive.org/web/20241118045403/https://robotlolita.me/articles/2013/a-monad-in-practicality-first-class-failures/) – A walk through some practical use cases for specific monadic structures in JavaScript: use the `Maybe` monad to handle simple failure cases and model more complex scenarios with the `Either` monad or the `Validation` applicative functor.
 
-#### [53. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+#### [52. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ##### Art / Educational
 
 *   [Python Cheat Sheet](https://scouv.lisn.upsaclay.fr/python-memento/memento-python3-en-latest.pdf) - An up to date, consise reference for Python (regular Python or CPython) syntax
 
-#### [54. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
+#### [53. Awesome Micropython](/content/mcauser/awesome-micropython/README.md)
 
 ##### Communications / IoT
 
 *   [aiomqttc](https://github.com/Tangerino/aiomqttc.git) - Asynchronous MQTT Client for Micropython AND CPython.
 
-#### [55. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [54. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications
 
@@ -2071,7 +2065,7 @@ This project is open source and available under the [MIT License](https://github
     *   [plabayo/rama (⭐699)](https://github.com/plabayo/rama) - A modular service framework to move and transform your network packets, can be used among other things, to build clients with TLS, JA3/JA4, H2 and QUIC/H3 fingerprint impersonation
     *   [seanmonstar/reqwest (⭐11k)](https://github.com/seanmonstar/reqwest) - an ergonomic HTTP Client.
 
-#### [56. Awesome Composer](/content/jakoch/awesome-composer/README.md)
+#### [55. Awesome Composer](/content/jakoch/awesome-composer/README.md)
 
 ##### Packagist-compatible repositories / IRC
 
@@ -2093,7 +2087,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   Global, CloudFlare - [packagist.pages.dev](https://packagist.pages.dev/)
 
-#### [57. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
+#### [56. Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md)
 
 ##### File Formats and Parsers
 
@@ -2104,7 +2098,7 @@ This project is open source and available under the [MIT License](https://github
 *   [scala-native-jdbc (⭐10)](https://github.com/lolgab/scala-native-jdbc) - Port of the database access layer [JDBC](https://en.wikipedia.org/wiki/Java_Database_Connectivity) to Scala Native.
 *   [skunk (⭐1.6k)](https://github.com/typelevel/skunk) -  A data access library for Scala + Postgres.
 
-#### [58. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
+#### [57. Awesome Elixir](/content/h4cc/awesome-elixir/README.md)
 
 ##### Artificial Intelligence
 
@@ -2118,7 +2112,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [req (⭐1.2k)](https://github.com/wojtekmach/req) - A batteries-included HTTP client for Elixir.
 
-#### [59. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+#### [58. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ##### Frameworks
 
@@ -2141,7 +2135,7 @@ This project is open source and available under the [MIT License](https://github
 *   [Abseil Logging](https://abseil.io/docs/cpp/guides/logging) - The Abseil Logging library provides facilities for writing log messages to stderr, files, or other sinks. \[Apache-2.0]
 *   [ng-log (⭐35)](https://github.com/ng-log/ng-log) - C++14 library for application-level logging. \[BSD-3-Clause]
 
-#### [60. Awesome D](/content/dlang-community/awesome-d/README.md)
+#### [59. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ##### Core Utilities
 
@@ -2209,7 +2203,7 @@ This project is open source and available under the [MIT License](https://github
 *   [Runani](https://kapendev.itch.io/runani) - An endless runner game where you help cute animals.
 *   [A Short Metamorphosis](https://kapendev.itch.io/a-short-metamorphosis) - A cute visual novel about looking at an egg.
 
-#### [61. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
+#### [60. Awesome Cl](/content/CodyReichert/awesome-cl/README.md)
 
 ##### MCP servers
 
@@ -2234,7 +2228,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [hismetic (⭐0)](https://github.com/dertuxmalwieder/cl-hismetic) - Security for Clack-based web applications. [Expat](https://directory.fsf.org/wiki/License:Expat).
 
-#### [62. Awesome V](/content/vlang/awesome-v/README.md)
+#### [61. Awesome V](/content/vlang/awesome-v/README.md)
 
 ##### Graphics
 
@@ -2244,7 +2238,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [sessions (⭐7)](https://github.com/einar-hjortdal/sessions) - Web-framework-agnostic sessions library.
 
-#### [63. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
+#### [62. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/README.md)
 
 ##### Runtime Crates / Real-time tools
 
@@ -2257,7 +2251,7 @@ This project is open source and available under the [MIT License](https://github
 *   [`mips-rt`](https://crates.io/crates/mips-rt) Support for MIPS
 *   [`msp430-rt`](https://crates.io/crates/msp430-rt) Support for MSP430
 
-#### [64. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [63. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### Analytics
 
@@ -2297,20 +2291,20 @@ This project is open source and available under the [MIT License](https://github
 
 *   [LNVPN](https://lnvpn.net)
 
-#### [65. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+#### [64. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ##### Social Engineering / Social Engineering Tools
 
 *   [GitPhish (⭐140)](https://github.com/praetorian-inc/GitPhish) - GitHub Device Code phishing security assessment tool with dynamic device-code generation and automated landing page deployment.
 
-#### [66. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
+#### [65. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/README.md)
 
 ##### Free Beginner Blue Team Path / Level 3 - Beginner Forensics, Threat Intel & Cryptography
 
 *   [Threat Intelligence 101](https://tryhackme.com/room/cyberthreatintel) - Introduction to Cyber Threat Intelligence.
 *   [Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools) - Explore different OSINT tools used to conduct security threat assessments and investigations.
 
-#### [67. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
+#### [66. Android Security Awesome](/content/ashishb/android-security-awesome/README.md)
 
 ##### Tools / Dynamic Analysis Tools
 
@@ -2325,7 +2319,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders (⭐90)](https://github.com/R0rt1z2/kaeru)
 
-#### [68. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
+#### [67. Awesome Executable Packing](/content/packing-box/awesome-executable-packing/README.md)
 
 ##### :books: Literature / Documentation
 
@@ -2427,13 +2421,13 @@ This project is open source and available under the [MIT License](https://github
 *   [Renovo](https://dl.acm.org/doi/10.1145/1314389.1314399?tool) - Detection tool built on top of TEMU (dynamic analysis component of BitBlaze) based on the execution of newly-generated code and monitoring memory writes after the program starts.
 *   [VMUnpacker](https://web.archive.org/web/20241106123938/https://www.leechermods.com/2010/01/vmunpacker-16-latest-version.html) - Unpacker based on the technology of virtual machine.
 
-#### [69. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
+#### [68. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/README.md)
 
 ##### Techniques / Databases
 
 *   [Database Triggers as Persistence Mechanisms](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/the-attack-vector-database-triggers-as-persistence-mechanisms/) - An in-depth write up about database triggers providing persistence.
 
-#### [70. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
+#### [69. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/README.md)
 
 ##### Articles
 
@@ -2444,7 +2438,7 @@ This project is open source and available under the [MIT License](https://github
 *   [Keycloak Webhooks from vymalo/keycloak-webhook (⭐63)](https://github.com/vymalo/keycloak-webhook)
 *   [Notification on Impersonation SebastEnn/impersonation-notification (⭐1)](https://github.com/SebastEnn/impersonation-notification)
 
-#### [71. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
+#### [70. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/README.md)
 
 ##### Tutorials
 
@@ -2465,7 +2459,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [LoadRunner Cloud](https://www.opentext.com/products/core-performance-engineering) - OpenText cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly Micro Focus LoadRunner Cloud, formerly HP StormRunner Load).
 
-#### [72. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+#### [71. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ##### Tutorials
 
@@ -2475,7 +2469,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [`gatling` on Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-java+or+gatling-plugin)
 
-#### [73. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
+#### [72. Awesome Talks](/content/JanVanRyswyck/awesome-talks/README.md)
 
 ##### Software Development
 
@@ -2485,13 +2479,13 @@ This project is open source and available under the [MIT License](https://github
 
 *   [The Boeing 737 MAX: When Humans and Technology Don't Mix](https://www.youtube.com/watch?v=opRbU6WZH9s) by **Kyle Kotowick** (NDC TechTown 2022) \[01:00:45]
 
-#### [74. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
+#### [73. Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md)
 
 ##### Books / Algorithms and Data structures
 
 *   [Introduction to Algorithms](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) - Essential!
 
-#### [75. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [74. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Speciality Search Engines
 
@@ -2612,14 +2606,14 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Cipherstick](https://cipherstick.tech) - Free OSINT Puzzles - No Account Needed!
 
-#### [76. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
+#### [75. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md)
 
 ##### Papers / 2025
 
 *   [P2NIA: Privacy-Preserving Non-Iterative Auditing](https://arxiv.org/abs/2504.00874) - (ECAI) *Proposes a mutually beneficial collaboration for both the auditor and the platform: a privacy-preserving and non-iterative audit scheme that enhances fairness assessments using synthetic or local data, avoiding the challenges associated with traditional API-based audits.*
 *   [The Fair Game: Auditing & debiasing AI algorithms overtime](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9E8408C67F7CE30505122DD1586D9FA2/S3033373325000080a.pdf/the-fair-game-auditing-and-debiasing-ai-algorithms-over-time.pdf) - (Cambridge Forum on AI: Law and Governance) *Aims to simulate the evolution of ethical and legal frameworks in the society by creating an auditor which sends feedback to a debiasing algorithm deployed around an ML system.*
 
-#### [77. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
+#### [76. Ai Collective Tools](/content/Hyraze/ai-collective-tools/README.md)
 
 ##### Code Assistant
 
@@ -2638,7 +2632,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Img.Upscaler](https://imgupscaler.com/) - Img.Upscaler uses AI to enlarge your jpg, png, webp images by 200% or 400% without losing quality. `#freemium`
 
-#### [78. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+#### [77. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ##### Official
 
@@ -2672,7 +2666,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [CNCF - OpenTofu Day Europe 2025](https://www.youtube.com/playlist?list=PLj6h78yzYM2P1WUOx9Ny6Q3JJxiAs1A3M)
 
-#### [79. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/README.md)
+#### [78. Awesome Workflow Automation](/content/dariubs/awesome-workflow-automation/README.md)
 
 ##### What is Workflow Automation?
 
@@ -2714,7 +2708,7 @@ This project is open source and available under the [MIT License](https://github
 *   [**Makerpad**](https://www.makerpad.co/)
 *   [**Automators Forum**](https://talk.automators.fm/)
 
-#### [80. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
+#### [79. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/README.md)
 
 ##### SEO (Search Engine Optimization) / SEO Analytics
 
@@ -2732,7 +2726,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Optimal UX](https://optimalux.com) - Review - Seamless SEO patching and A/B testing tool powered by Cloudflare for effortless integration.
 
-#### [81. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
+#### [80. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md)
 
 ##### Client Libraries / Dart - Official
 
@@ -2747,7 +2741,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Dart Client for Genkit: Call Genkit Flows from Flutter/Dart](https://medium.com/@nozomi-koborinai/dart-client-for-genkit-call-genkit-flows-from-flutter-dart-b5a2c9b9400e) - A comprehensive guide to using the Dart client library for calling Genkit flows from Flutter and Dart applications with streaming support and type safety.
 
-#### [82. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+#### [81. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
 
 ##### Index / Authenticators
 
@@ -2778,7 +2772,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [NordPass](https://nordpass.com/) 🇱🇹
 
-#### [83. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+#### [82. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ##### Tools and session management
 
@@ -2789,7 +2783,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [back-in-5 (⭐0)](https://github.com/hamolicious/back-in-5) display a "Back soon" message for remote collaboration
 
-#### [84. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [83. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### (requires Neovim 0.5)
 
@@ -2839,14 +2833,14 @@ This project is open source and available under the [MIT License](https://github
 *   [smoka7/multicursors.nvim (⭐604)](https://github.com/smoka7/multicursors.nvim) - Provides a more intuitive way to edit repetitive text with multiple selections.
 *   [tigion/swap.nvim (⭐12)](https://github.com/tigion/swap.nvim) - Quickly switch a word under the cursor or a pattern in the current line.
 
-#### [85. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
+#### [84. Awesome Newsletters](/content/zudochkin/awesome-newsletters/README.md)
 
 ##### System Design / Svelte
 
 *   [Limitless System Design](https://www.linkedin.com/newsletters/limitless-system-design-7335259589879197700/). Newsletter for engineers who refuse to accept “good enough” architecture.
 *   [ByteByteGo](https://blog.bytebytego.com/). Explain complex systems with simple terms, from the authors of the best-selling system design book series
 
-#### [86. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [85. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Analytics
 
@@ -2923,7 +2917,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Kuvasz Uptime](https://kuvasz-uptime.dev) - Performant, stable uptime & SSL monitoring service that just works. ([Source Code (⭐137)](https://github.com/kuvasz-uptime/kuvasz)) `Apache-2.0` `Docker`
 
-#### [87. Awesome Go](/content/avelino/awesome-go/README.md)
+#### [86. Awesome Go](/content/avelino/awesome-go/README.md)
 
 ##### Authentication and OAuth
 
@@ -3011,7 +3005,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [The Go Interview Practice (⭐482)](https://github.com/RezaSi/go-interview-practice) - A GitHub repository offering coding challenges for Go technical interview preparation.
 
-#### [88. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+#### [87. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
 
 ##### **Section 1** 🎯: RAG
 
@@ -3050,13 +3044,13 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Business Use Cases](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#business-use-cases)
 
-#### [89. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
+#### [88. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/README.md)
 
 ##### Traffic Analysis/Inspection
 
 *   [pcaptoparquet (⭐2)](https://github.com/nokia/pcaptoparquet): pcaptoparquet is a Python package designed for converting PCAP or PCAPNG files to structured data formats, primarily Apache Parquet. The tool focuses on network traffic analysis by extracting, decoding, and transforming packet data into queryable datasets suitable for analysis and visualization. The tool supports both command-line and programmatic interfaces, enabling integration into various network analysis workflows.
 
-#### [90. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
+#### [89. Awesome Flame](/content/flame-engine/awesome-flame/README.md)
 
 ##### Open Source / Casual
 
@@ -3070,7 +3064,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Mine Cart Operator](https://cherrybit.itch.io/mine-cart-operator) - Mine cart operator is dekstop puzzle game for Windows, Mac and Linux. By [CherryBit Studios](https://cherrybit.studio/)
 
-#### [91. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
+#### [90. Awesome Zig](/content/catdevnull/awesome-zig/README.md)
 
 ##### Concurrency
 
@@ -3086,79 +3080,19 @@ This project is open source and available under the [MIT License](https://github
 *   [DonIsaac/zlint (⭐199)](https://github.com/DonIsaac/zlint) - Linter
 *   [nektro/ziglint (⭐99)](https://github.com/nektro/ziglint) - Linting suite
 
-#### [92. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+#### [91. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ##### Software / API Testing
 
 *   [SpecTest (⭐27)](https://github.com/justiceo/spectest) - Truly declarative API testing framework in Js, or plain JSON.
 
-#### [93. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
+#### [92. Awesome Wardley Maps](/content/wardley-maps-community/awesome-wardley-maps/README.md)
 
 ##### Reading
 
 *   [Wardley Leadership Strategies](https://www.wardleyleadershipstrategies.com/) - The Compendium of Wardley Mapping Leadership Gameplays and Strategies
 
-#### [94. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data, and ML
-
-*   [Maxim AI](https://getmaxim.ai/) - Simulate, evaluate, and observe your AI agents. Maxim is an end-to-end evaluation and observability platform, helping teams ship their AI agents reliably and >5x faster. Free forever for indie developers and small teams (3 seats).
-*   [JSONSwiss](https://www.jsonswiss.com/) - JSONSwiss is a powerful online JSON viewer, editor, and validator. Format, visualize, search, and manipulate JSON data with AI-powered repair, tree view, table view, code generation in 12+ programming languages, convert json to csv, xml, yaml, properties and more.
-*   [Mindee](https://developers.mindee.com) – Mindee is a powerful OCR software and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 500 pages per month.
-*   [Siterelic](https://siterelic.com/) - Siterelic API lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 100 API requests per month.
-*   [YourGPT CSV to JSON](https://yourgpt.ai/tools/csv-to-json) — A fast, free, and privacy-focused online tool to easily convert CSV files into structured JSON data right in your browser.
-
-##### CI and CD
-
-*   [Shipfox](https://shipfox.io/) - Run your GitHub actions 2x faster, 3.000 build minutes free each month.
-
-##### Testing
-
-*   [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - Check SSR (server-side rendering) for any URL by visually comparing the server rendered version of the page with the regular version.
-
-##### Translation Management
-
-*   [Localit](https://localit.io) – Fast, developer-friendly localization platform with seamless and free GitHub/GitLab integration, AI-assisted and manual translations, and a generous free plan (includes 2 users, 500 keys, and unlimited projects).
-
-##### Monitoring
-
-*   [MonitorMonk](https://monitormonk.com) - Minimalist uptime monitoring with beautiful status pages. The Forever Free plan offers HTTPS, Keyword, SSL and Response-time monitorming for 10 websites or api-endpoints, and provides 2 dashboards/status pages.
-
-##### Education and Career Development
-
-*   [edX](https://www.edx.org/) - Offers access to over 4,000 free online courses from 250 leading institutions, including Harvard and MIT, specializing in computer science, engineering, and data science.
-
-##### Web Hosting
-
-*   [PandaStack](https://www.pandastack.io/) — An eco-system for developers includes web hosting in different formats (static web hosting, container based web hosting, wordpress and so many other managed apps available in couple of clicks ). One free web hosting (static or containered) and one free database with 100GB Bandwidth and 300 Build mins/month.
-
-##### DNS
-
-*   [LocalCert](https://localcert.net) - Free `.localcert.net` subdomains compatible with public CAs for use with-in private networks
-
-##### Managed Data Services
-
-*   [Couchbase Capella](https://www.couchbase.com/products/capella/) - deploy a forever free tier fully managed database cluster built for developers to create the next generation of applications across IoT to AI
-*   [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 1GB storage, 10 databases, integrated with Prisma ORM.
-
-##### Storage and Media Processing
-
-*   [Dropshare](https://dropsha.re) - Zero-knowledge file sharing. End-to-end encrypted file sharing with AES-256-GCM encryption, client-side processing, and zero server-side data access. Free uploads for files up to 1GB with no data collection.
-
-##### Design and UI
-
-*   [Tailark](https://tailark.com/) - A collection of modern, responsive, pre-built UI blocks designed for marketing websites.
-*   [Flows](https://flows.sh/) -- A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.
-
-##### IDE and Code Editing
-
-*   [ForgeCode](https://forgecode.dev/) — AI-enabled pair programmer for Claude, GPT4 Series, Grok, Deepseek, Gemini and all frontier models. Works natively with your CLI and integrates seamlessly with any IDE. Free tier includes basic AI model access with local processing.
-
-##### Analytics, Events and Statistics
-
-*   [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
-
-#### [95. Awesome Ada](/content/ohenley/awesome-ada/README.md)
+#### [93. Awesome Ada](/content/ohenley/awesome-ada/README.md)
 
 ##### Questions and Answers
 
@@ -3170,59 +3104,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [libgfxinit (⭐25)](https://github.com/coreboot/libgfxinit) - A graphics initialization (aka modesetting) library for embedded environments, implemented in SPARK.
 
-#### [96. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Domain Specific Language / Design Practises
-
-*   [A Taxonomy of Domain-Specific Aspect Languages](https://dl.acm.org/doi/abs/10.1145/2685028) - ***ACM Computing Surveys***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=17254174131160041640)]. Domain-Specific Aspect Languages (DSALs) are Domain-Specific Languages (DSLs) designed to express crosscutting concerns. Compared to DSLs, their aspectual nature greatly amplifies the language design space. This survey structures this space in order to shed light on and compare the different domain-specific approaches to deal with crosscutting concerns. This survey reports on a corpus of 36 DSALs covering the space, discuss a set of design considerations, and provide a taxonomy of DSAL implementation approaches. This work serves as a frame of reference to DSAL and DSL researchers, enabling further advances in the field, and to developers as a guide for DSAL implementations.
-
-##### Domain Specific Language / Imperative DSL Applications
-
-*   [Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Raistrick_Infinigen_Indoors_Photorealistic_Indoor_Scenes_using_Procedural_Generation_CVPR_2024_paper.html) - ***CVPR'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=14526967027465419958)]. This work introduces Infinigen Indoors, a Blender-based procedural generator of photorealistic indoor scenes. It builds upon the existing Infinigen system, which focuses on natural scenes, but expands its coverage to indoor scenes by introducing a diverse library of procedural indoor assets, including furniture, architecture elements, appliances, and other day-to-day objects. It also introduces a constraint-based arrangement system, which consists of a domain-specific language for expressing diverse constraints on scene composition, and a solver that generates scene compositions that maximally satisfy the constraints. The authors provide an export tool that allows the generated 3D objects and scenes to be directly used for training embodied agents in real-time simulators such as Omniverse and Unreal. Infinigen Indoors is open-sourced under the BSD license.
-*   ["We Need Structured Output": Towards User-centered Constraints on Large Language Model Output](https://dl.acm.org/doi/full/10.1145/3613905.3650756) - ***CHI EA'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=12105435542197416648)]. \[[Preprint](https://research.google/pubs/we-need-structured-output-towards-user-centered-constraints-on-large-language-model-output/)]. Large language models can produce creative and diverse responses. However, to integrate them into current developer workflows, it is essential to constrain their outputs to follow specific formats or standards. This work surveyed 51 experienced industry professionals to understand the range of scenarios and motivations driving the need for output constraints from a user-centered perspective. The authors identified 134 concrete use cases for constraints at two levels: low-level, which ensures the output adhere to a structured format and an appropriate length, and high-level, which requires the output to follow semantic and stylistic guidelines without hallucination. Critically, applying output constraints could not only streamline the currently repetitive process of developing, testing, and integrating LLM prompts for developers, but also enhance the user experience of LLM-powered features and applications. The authors conclude with a discussion on user preferences and needs towards articulating intended constraints for LLMs, alongside an initial design for a constraint prototyping tool.
-
-##### Domain Specific Language / Declarative DSL Applications
-
-*   [Artificial intelligence driven design of catalysts and materials for ring opening polymerization using a domain-specific language](https://www.nature.com/articles/s41467-023-39396-3) - ***Nature Communications***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6595955912508683146)]. \[[Project (⭐14)](https://github.com/IBM/ibm-materials-notebook)]. Advances in machine learning (ML) and automated experimentation are poised to vastly accelerate research in polymer science. Data representation is a critical aspect for enabling ML integration in research workflows, yet many data models impose significant rigidity making it difficult to accommodate a broad array of experiment and data types found in polymer science. This inflexibility presents a significant barrier for researchers to leverage their historical data in ML development. This work shows that a domain specific language, termed Chemical Markdown Language (CMDL), provides flexible, extensible, and consistent representation of disparate experiment types and polymer structures. CMDL enables seamless use of historical experimental data to fine-tune regression transformer (RT) models for generative molecular design tasks. The authors demonstrate the utility of this approach through the generation and the experimental validation of catalysts and polymers in the context of ring-opening polymerization---although the authors provide examples of how CMDL can be more broadly applied to other polymer classes. Critically, this work shows how the CMDL tuned model preserves key functional groups within the polymer structure, allowing for experimental validation. These results reveal the versatility of CMDL and how it facilitates translation of historical data into meaningful predictive and generative models to produce experimentally actionable output.
-*   [Configurable 3D Scene Synthesis and 2D Image Rendering with Per-pixel Ground Truth Using Stochastic Grammars](https://link.springer.com/article/10.1007/s11263-018-1103-5) - ***International Journal of Computer Vision***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=8301697457354598778)]. \[[Preprint](https://yzhu.io/publication/scenesynthesis2018ijcv/paper.pdf)]. This work proposes a systematic learning-based approach to the generation of massive quantities of synthetic 3D scenes and arbitrary numbers of photorealistic 2D images thereof, with associated ground truth information, for the purposes of training, benchmarking, and diagnosing learning-based computer vision and robotics algorithms. In particular, the authors devise a learning-based pipeline of algorithms capable of automatically generating and rendering a potentially infinite variety of indoor scenes by using a stochastic grammar, represented as an attributed Spatial And-Or Graph, in conjunction with state-of-the-art physics-based rendering. The pipeline is capable of synthesizing scene layouts with high diversity, and it is configurable inasmuch as it enables the precise customization and control of important attributes of the generated scenes. It renders photorealistic RGB images of the generated scenes while automatically synthesizing detailed, per-pixel ground truth data, including visible surface depth and normal, object identity, and material information (detailed to object parts), as well as environments (e.g., illuminations and camera viewpoints). The authors demonstrate the value of the synthesized dataset, by improving performance in certain machine-learning-based scene understanding tasks—depth and surface normal prediction, semantic segmentation, reconstruction, etc.---and by providing benchmarks for and diagnostics of trained models by modifying object attributes and scene properties in a controllable manner.
-
-##### Domain Specific Language / Logic DSL Applications
-
-*   [Genetic circuit design automation with Cello 2.0](https://www.nature.com/articles/s41596-021-00675-2) - ***Nature Protocol***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=7418307542591684967)]. \[[Preprint](https://www.researchgate.net/profile/Samuel-Oliveira-38/publication/358801979_Genetic_circuit_design_automation_with_Cello_20/links/635debf412cbac6a3e0b19e4/Genetic-circuit-design-automation-with-Cello-20.pdf)]. Cells interact with their environment, communicate among themselves, track time and make decisions through functions controlled by natural regulatory genetic circuits consisting of interacting biological components. Synthetic programmable circuits used in therapeutics and other applications can be automatically designed by computer-aided tools. The Cello software designs the DNA sequences for programmable circuits based on a high-level software description and a library of characterized DNA parts representing Boolean logic gates. This process allows for design specification reuse, modular DNA part library curation and formalized circuit transformations based on experimental data. This protocol describes Cello 2.0, a freely available cross-platform software written in Java. Cello 2.0 enables flexible descriptions of the logic gates’ structure and their mathematical models representing dynamic behavior, new formal rules for describing the placement of gates in a genome, a new graphical user interface, support for Verilog 2005 syntax and a connection to the SynBioHub parts repository software environment. Collectively, these features expand Cello’s capabilities beyond Escherichia coli plasmids to new organisms and broader genetic contexts, including the genome. Designing circuits with Cello 2.0 produces an abstract Boolean network from a Verilog file, assigns biological parts to each node in the Boolean network, constructs a DNA sequence and generates highly structured and annotated sequence representations suitable for downstream processing and fabrication, respectively. The result is a sequence implementing the specified Boolean function in the organism and predictions of circuit performance. Depending on the size of the design space and users’ expertise, jobs may take minutes or hours to complete.
-*   [The KoLMogorov Test: Compression by Code Generation](https://openreview.net/forum?id=C45YqeBDUM) - ***ICLR'25***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=16809888292456252135)]. Compression is at the heart of intelligence. A theoretically optimal way to compress any sequence of data is to find the shortest program that outputs that sequence and then halts. However, such Kolmogorov compression is uncomputable, and code generating LLMs struggle to approximate this theoretical ideal, as it requires reasoning, planning and search capabilities beyond those of current models. This work introduces the KoLMogorov-Test (KT), a compression-as-intelligence intelligence test for code generation LLMs. In KT a model is presented with a sequence of data at inference time, and asked to generate the shortest DSL (designed specifically for the task) program that produces the sequence. The authors identify several benefits of KT for both evaluation and training: an essentially infinite number of problem instances of varying difficulty is readily available, strong baselines already exist, the evaluation metric (compression) cannot be gamed, and pretraining data contamination is highly unlikely. To evaluate current models, the authors use audio, text, and DNA data, as well as sequences produced by random synthetic DSL programs.
-*   [Meta-analysis of the functional neuroimaging literature with probabilistic logic programming](https://www.nature.com/articles/s41598-022-21801-4) - ***Scientific Reports***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=5952076495542489316)]. Inferring reliable brain-behavior associations requires synthesizing evidence from thousands of functional neuroimaging studies through meta-analysis. However, existing meta-analysis tools are limited to investigating simple neuroscience concepts and expressing a restricted range of questions. This work expands the scope of neuroimaging meta-analysis by designing NeuroLang: a domain-specific language to express and test hypotheses using probabilistic first-order logic programming. By leveraging formalisms found at the crossroads of artificial intelligence and knowledge representation, NeuroLang provides the expressivity to address a larger repertoire of hypotheses in a meta-analysis, while seamlessly modeling the uncertainty inherent to neuroimaging data. The authors demonstrate the language’s capabilities in conducting comprehensive neuroimaging meta-analysis through use-case examples that address questions of structure-function associations. Specifically, the authors infer the specific functional roles of three canonical brain networks, support the role of the visual word-form area in visuospatial attention, and investigate the heterogeneous organization of the frontoparietal control network.
-
-##### Domain Specific Language / DSL Program Synthesis
-
-*   [Synthesizing theories of human language with Bayesian program induction](https://www.nature.com/articles/s41467-022-32012-w) - ***Nature Communications***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8603772394100237159)]. Automated, data-driven construction and evaluation of scientific models and theories is a long-standing challenge in artificial intelligence. This work presents a framework for algorithmically synthesizing models of a basic part of human language: morpho-phonology, the system that builds word forms from sounds. The authors integrate Bayesian inference with program synthesis and representations inspired by linguistic theory and cognitive models of learning and discovery. Across 70 datasets from 58 diverse languages, the system synthesizes human-interpretable models for core aspects of each language’s morpho-phonology, sometimes approaching models posited by human linguists. Joint inference across all 70 data sets automatically synthesizes a meta-model encoding interpretable cross-language typological tendencies. Finally, the same algorithm captures few-shot learning dynamics, acquiring new morphophonological rules from just one or a few examples. These results suggest routes to more powerful machine-enabled discovery of interpretable models in linguistics and other scientific domains.
-*   [Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6) - ***Nature***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=5653439474813913484)]. Large language models (LLMs) have demonstrated tremendous capabilities in solving complex tasks, from quantitative reasoning to understanding natural language. However, LLMs sometimes suffer from confabulations (or hallucinations), which can result in them making plausible but incorrect statements1,2. This hinders the use of current large models in scientific discovery. This work introduces FunSearch (short for searching in the function space), an evolutionary procedure based on pairing a pretrained LLM with a systematic evaluator. The authors demonstrate the effectiveness of this approach to surpass the best-known results in important problems, pushing the boundary of existing LLM-based approaches3. Applying FunSearch to a central problem in extremal combinatorics—the cap set problem—we discover new constructions of large cap sets going beyond the best-known ones, both in finite dimensional and asymptotic cases. This shows that it is possible to make discoveries for established open problems using LLMs. The authors showcase the generality of FunSearch by applying it to an algorithmic problem, online bin packing, finding new heuristics that improve on widely used baselines. In contrast to most computer search approaches, FunSearch searches for programs that describe how to solve a problem, rather than what the solution is. Beyond being an effective and scalable strategy, discovered programs tend to be more interpretable than raw solutions, enabling feedback loops between domain experts and FunSearch, and the deployment of such programs in real-world applications.
-
-##### Domain Specific Language / Cognitive Foundations
-
-*   [How laypeople evaluate scientific explanations containing jargon](https://www.nature.com/articles/s41562-025-02227-0) - ***Nature Human Behavior***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=6467855047925175367)]. Individuals rely on others’ expertise to achieve a basic understanding of the world. But how can non-experts achieve understanding from explanations that, by definition, they are ill-equipped to assess? Across 9 experiments with 6,698 participants (Study 1A = 737; 1B = 734; 1C = 733; 2A = 1,014; 2B = 509; 2C = 1,012; 3A = 1,026; 3B = 512; 4 = 421), this work addresses this puzzle by focusing on scientific explanations with jargon. The authors identify ‘when’ and ‘why’ the inclusion of jargon makes explanations more satisfying, despite decreasing their comprehensibility. The authors find that jargon increases satisfaction because laypeople assume the jargon fills gaps in explanations that are otherwise incomplete. The authors also identify strategies for debiasing these judgements: when people attempt to generate their own explanations, inflated judgements of poor explanations with jargon are reduced, and people become better calibrated in their assessments of their own ability to explain.
-
-##### Problem Solving / Human-Level Problem Solving
-
-*   [Beyond imitation: Zero-shot task transfer on robots by learning concepts as cognitive programs](https://www.science.org/doi/abs/10.1126/scirobotics.aav3150) - ***Science Robotics***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7451223471302689228)]. Humans can infer concepts from image pairs and apply those in the physical world in a completely different setting, enabling tasks like IKEA assembly from diagrams. If robots could represent and infer high-level concepts, then it would notably improve their ability to understand our intent and to transfer tasks between different environments. To that end, the authors introduce a computational framework that replicates aspects of human concept learning. Concepts are represented as programs on a computer architecture consisting of a visual perception system, working memory, and action controller. The instruction set of this cognitive computer has commands for parsing a visual scene, directing gaze and attention, imagining new objects, manipulating the contents of a visual working memory, and controlling arm movement. Inferring a concept corresponds to inducing a program that can transform the input to the output. Some concepts require the use of imagination and recursion. Previously learned concepts simplify the learning of subsequent, more elaborate concepts and create a hierarchy of abstractions. The authors demonstrate how a robot can use these abstractions to interpret novel concepts presented to it as schematic images and then apply those concepts in very different situations. By bringing cognitive science ideas on mental imagery, perceptual symbols, embodied cognition, and deictic mechanisms into the realm of machine learning, this work brings researchers closer to the goal of building robots that have interpretable representations and common sense.
-
-##### System 1 & System 2 / Neural-Symbolic AI
-
-*   [AI Feynman: A physics-inspired method for symbolic regression](https://www.science.org/doi/full/10.1126/sciadv.aay2631) - ***Science Advances***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=3655502646441210453)]. A core challenge for both physics and artificial intelligence (AI) is symbolic regression: finding a symbolic expression that matches data from an unknown function. Although this problem is likely to be NP-hard in principle, functions of practical interest often exhibit symmetries, separability, compositionality, and other simplifying properties. In this spirit, the authors develop a recursive multidimensional symbolic regression algorithm that combines neural network fitting with a suite of physics-inspired techniques. The authors apply it to 100 equations from the Feynman Lectures on Physics, and it discovers all of them, while previous publicly available software cracks only 71; for a more difficult physics-based test set, this work improves the state-of-the-art success rate from 15 to 90%.
-*   [Semi-Supervised Abductive Learning and Its Application to Theft Judicial Sentencing](https://ieeexplore.ieee.org/abstract/document/9338352) - ***ICDM'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16646246740380524224)]. \[[Preprint](https://www.lamda.nju.edu.cn/huangyx/src/ICDM20-SSABL.pdf)]. In many practical tasks, there are usually two kinds of common information: cheap unlabeled data and domain knowledge in the form of symbols. There are some attempts using one single information source, such as semi-supervised learning and abductive learning. However, there is little work to use these two kinds of information sources at the same time, because it is very difficult to combine symbolic logical representation and numerical model optimization effectively. The learning becomes even more challenging when the domain knowledge is insufficient. This paper presents an attempt-Semi-Supervised ABductive Learning (SS-ABL) framework. In this framework, semi-supervised learning is trained via pseudo labels of unlabeled data generated by abductive learning, and the background knowledge is refined via the label distribution predicted by semi-supervised learning. The above framework can be optimized iteratively and can be naturally interpretable. The effectiveness of the framework has been fully verified in the theft judicial sentencing of real legal documents. In the case of missing sentencing elements and mixed legal rules, the framework is apparently superior to many existing baseline practices, and provides explanatory assistance to judicial sentencing.
-
-##### Explainability / Trustworthy AI
-
-*   [A tale of two explanations: Enhancing human trust by explaining robot behavior](https://www.science.org/doi/10.1126/scirobotics.aay4663) - ***Science Robotics***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=3985046411399524590)]. \[[Preprint](https://yzhu.io/publication/openbottle2019scirob/paper.pdf)]. The ability to provide comprehensive explanations of chosen actions is a hallmark of intelligence. Lack of this ability impedes the general acceptance of AI and robot systems in critical tasks. This paper examines what forms of explanations best foster human trust in machines and proposes a framework in which explanations are generated from both functional and mechanistic perspectives. The robot system learns from human demonstrations to open medicine bottles using (i) an embodied haptic prediction model to extract knowledge from sensory feedback, (ii) a stochastic grammar model induced to capture the compositional structure of a multistep task, and (iii) an improved Earley parsing algorithm to jointly leverage both the haptic and grammar models. The robot system not only shows the ability to learn from human demonstrators but also succeeds in opening new, unseen bottles. Using different forms of explanations generated by the robot system, we conducted a psychological experiment to examine what forms of explanations best foster human trust in the robot. The authors found that comprehensive and real-time visualizations of the robot’s internal decisions were more effective in promoting human trust than explanations based on summary text descriptions. In addition, forms of explanation that are best suited to foster trust do not necessarily correspond to the model components contributing to the best task performance. This divergence shows a need for the robotics community to integrate model components to enhance both task execution and human trust in machines.
-*   [X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust](https://arxiv.org/abs/1909.06907) - ***CVPR XAI Workshop'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7751326666821697923)]. This work presents a new explainable AI (XAI) framework aimed at increasing justified human trust and reliance in the AI machine through explanations. The authors pose explanation as an iterative communication process, i.e. dialog, between the machine and human user. More concretely, the machine generates sequence of explanations in a dialog which takes into account three important aspects at each dialog turn: (a) human's intention (or curiosity); (b) human's understanding of the machine; and (c) machine's understanding of the human user. To do this, the authors use Theory of Mind (ToM) which helps us in explicitly modeling human's intention, machine's mind as inferred by the human as well as human's mind as inferred by the machine. In other words, these explicit mental representations in ToM are incorporated to learn an optimal explanation policy that takes into account human's perception and beliefs. Furthermore, the authors also show that ToM facilitates in quantitatively measuring justified human trust in the machine by comparing all the three mental representations.
-    We applied our framework to three visual recognition tasks, namely, image classification, action recognition, and human body pose estimation. The authors argue that our ToM based explanations are practical and more natural for both expert and non-expert users to understand the internal workings of complex machine learning models. This is the first work to derive explanations using ToM. Extensive human study experiments verify our hypotheses, showing that the proposed explanations significantly outperform the state-of-the-art XAI methods in terms of all the standard quantitative and qualitative XAI evaluation metrics including human trust, reliance, and explanation satisfaction.
-*   [Explaining machine learning models with interactive natural language conversations using TalkToModel](https://www.nature.com/articles/s42256-023-00692-8) - ***Nature Machine Intelligence***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7044008493489695982)]. Practitioners increasingly use machine learning (ML) models, yet models have become more complex and harder to understand. To understand complex models, researchers have proposed techniques to explain model predictions. However, practitioners struggle to use explainability methods because they do not know which explanation to choose and how to interpret the explanation. This work addresses the challenge of using explainability methods by proposing TalkToModel: an interactive dialogue system that explains ML models through natural language conversations. TalkToModel consists of three components: an adaptive dialogue engine that interprets natural language and generates meaningful responses; an execution component that constructs the explanations used in the conversation; and a conversational interface. In real-world evaluations, 73% of healthcare workers agreed they would use TalkToModel over existing systems for understanding a disease prediction model, and 85% of ML professionals agreed TalkToModel was easier to use, demonstrating that TalkToModel is highly effective for model explainability.
-
-##### Science Logology / AI Assisted Research
-
-*   [Machine learning-assisted molecular design and efficiency prediction for high-performance organic photovoltaic materials](https://www.science.org/doi/full/10.1126/sciadv.aay4275) - ***Science Advances***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=12392230644945701722)]. In the process of finding high-performance materials for organic photovoltaics (OPVs), it is meaningful if one can establish the relationship between chemical structures and photovoltaic properties even before synthesizing them. This work first establishes a database containing over 1700 donor materials reported in the literature. Through supervised learning, our machine learning (ML) models can build up the structure-property relationship and, thus, implement fast screening of OPV materials. The authors explore several expressions for molecule structures, i.e., images, ASCII strings, descriptors, and fingerprints, as inputs for various ML algorithms. It is found that fingerprints with length over 1000 bits can obtain high prediction accuracy. The reliability of the approach is further verified by screening 10 newly designed donor materials. Good consistency between model predictions and experimental outcomes is obtained. The result indicates that ML is a powerful tool to prescreen new OPV materials, thus accelerating the development of the OPV field.
-*   [Design of metalloproteins and novel protein folds using variational autoencoders](https://www.nature.com/articles/s41598-018-34533-1) - ***Scientific Reports***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=18126187509308242959)]. The design of novel proteins has many applications but remains an attritional process with success in isolated cases. Meanwhile, deep learning technologies have exploded in popularity in recent years and are increasingly applicable to biology due to the rise in available data. This work attempts to link protein design and deep learning by using variational autoencoders to generate protein sequences conditioned on desired properties. Potential copper and calcium binding sites are added to non-metal binding proteins without human intervention and compared to a hidden Markov model. In another use case, a grammar of protein structures is developed and used to produce sequences for a novel protein topology. One candidate structure is found to be stable by molecular dynamics simulation. The ability of the model to confine the vast search space of protein sequences and to scale easily has the potential to assist in a variety of protein design tasks.
-
-#### [97. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [94. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Polars plugins / Machine Learning & Data Science
 
@@ -3269,7 +3151,7 @@ This project is open source and available under the [MIT License](https://github
 *   [Polars - Talk Python To Me Ep.402](https://talkpython.fm/episodes/show/402/polars-a-lightning-fast-dataframe-for-python-updated-audio) ⏳ 69 min - A video in which Ritchie Vink gives a look at Polars by [Talk Python To Me](https://talkpython.fm/).
 *   [10 Polars Tools and Techniques To Level Up Your Data Science - Talk Python To Me Ep.510](https://talkpython.fm/episodes/show/510/10-polars-tools-and-techniques-to-level-up-your-data-science) ⏳ 58 min - A video in which Christopher Trudeau shares his recent work with Polars and highlights a collection of complementary Polars extensions and libraries by [Talk Python To Me](https://talkpython.fm/).
 
-#### [98. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [95. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -3325,7 +3207,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [simplici-auth-angular-ionic](https://www.npmjs.com/package/simplici-auth-angular-ionic) - A powerful Angular library designed to seamlessly integrate social authentication into your Ionic/Angular applications. It supports a wide range of providers including Google, Microsoft, Facebook, and Apple, with optimized compatibility for both web and native mobile platforms (iOS/Android) using Capacitor or Cordova.
 
-#### [99. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
+#### [96. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/README.md)
 
 ##### Online editors
 
@@ -3335,13 +3217,13 @@ This project is open source and available under the [MIT License](https://github
 
 *   [TeXtured (⭐185)](https://github.com/jdujava/TeXtured) - A typographically elegant, clean, and structured LaTeX template (primarily intended for theses).
 
-#### [100. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
+#### [97. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md)
 
 ##### Packages / Job queues
 
 *   [graphile-worker (⭐2k)](https://github.com/graphile/worker) - High performance PostgreSQL job queue.
 
-#### [101. Awesome Django](/content/wsvincent/awesome-django/README.md)
+#### [98. Awesome Django](/content/wsvincent/awesome-django/README.md)
 
 ##### Third-Party Packages / Admin
 
@@ -3350,6 +3232,133 @@ This project is open source and available under the [MIT License](https://github
 ##### Third-Party Packages / Admin Themes
 
 *   [django-smartbase-admin (⭐48)](https://github.com/SmartBase-SK/django-smartbase-admin) - Django SmartBase Admin 🚀 performance-tuned 👥 end-user ready beautiful admin panel
+
+#### [99. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md)
+
+##### 3D Gaussian Splatting / YouTube Playables
+
+*   [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
+*   [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
+
+#### [100. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [Maxim AI](https://getmaxim.ai/) - Simulate, evaluate, and observe your AI agents. Maxim is an end-to-end evaluation and observability platform, helping teams ship their AI agents reliably and >5x faster. Free forever for indie developers and small teams (3 seats).
+*   [JSONSwiss](https://www.jsonswiss.com/) - JSONSwiss is a powerful online JSON viewer, editor, and validator. Format, visualize, search, and manipulate JSON data with AI-powered repair, tree view, table view, code generation in 12+ programming languages, convert json to csv, xml, yaml, properties and more.
+*   [Mindee](https://developers.mindee.com) – Mindee is a powerful OCR software and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 500 pages per month.
+*   [Siterelic](https://siterelic.com/) - Siterelic API lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 100 API requests per month.
+*   [YourGPT CSV to JSON](https://yourgpt.ai/tools/csv-to-json) — A fast, free, and privacy-focused online tool to easily convert CSV files into structured JSON data right in your browser.
+
+##### CI and CD
+
+*   [Shipfox](https://shipfox.io/) - Run your GitHub actions 2x faster, 3.000 build minutes free each month.
+
+##### Testing
+
+*   [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - Check SSR (server-side rendering) for any URL by visually comparing the server rendered version of the page with the regular version.
+
+##### Translation Management
+
+*   [Localit](https://localit.io) – Fast, developer-friendly localization platform with seamless and free GitHub/GitLab integration, AI-assisted and manual translations, and a generous free plan (includes 2 users, 500 keys, and unlimited projects).
+
+##### Monitoring
+
+*   [MonitorMonk](https://monitormonk.com) - Minimalist uptime monitoring with beautiful status pages. The Forever Free plan offers HTTPS, Keyword, SSL and Response-time monitorming for 10 websites or api-endpoints, and provides 2 dashboards/status pages.
+
+##### Crash and Exception Handling
+
+*   [Bugsink](https://www.bugsink.com/) — Error-tracking with Sentry-SDK compatability. Free for up to 5,000 errors/month, or unlimited use when self-hosted.
+
+##### Education and Career Development
+
+*   [edX](https://www.edx.org/) - Offers access to over 4,000 free online courses from 250 leading institutions, including Harvard and MIT, specializing in computer science, engineering, and data science.
+
+##### Web Hosting
+
+*   [PandaStack](https://www.pandastack.io/) — An eco-system for developers includes web hosting in different formats (static web hosting, container based web hosting, wordpress and so many other managed apps available in couple of clicks ). One free web hosting (static or containered) and one free database with 100GB Bandwidth and 300 Build mins/month.
+
+##### DNS
+
+*   [LocalCert](https://localcert.net) - Free `.localcert.net` subdomains compatible with public CAs for use with-in private networks
+
+##### Managed Data Services
+
+*   [Couchbase Capella](https://www.couchbase.com/products/capella/) - deploy a forever free tier fully managed database cluster built for developers to create the next generation of applications across IoT to AI
+*   [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 1GB storage, 10 databases, integrated with Prisma ORM.
+
+##### Storage and Media Processing
+
+*   [Dropshare](https://dropsha.re) - Zero-knowledge file sharing. End-to-end encrypted file sharing with AES-256-GCM encryption, client-side processing, and zero server-side data access. Free uploads for files up to 1GB with no data collection.
+
+##### Design and UI
+
+*   [Tailark](https://tailark.com/) - A collection of modern, responsive, pre-built UI blocks designed for marketing websites.
+*   [Flows](https://flows.sh/) -- A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.
+
+##### IDE and Code Editing
+
+*   [ForgeCode](https://forgecode.dev/) — AI-enabled pair programmer for Claude, GPT4 Series, Grok, Deepseek, Gemini and all frontier models. Works natively with your CLI and integrates seamlessly with any IDE. Free tier includes basic AI model access with local processing.
+
+##### Analytics, Events and Statistics
+
+*   [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
+
+#### [101. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Domain Specific Language / Design Practises
+
+*   [A Taxonomy of Domain-Specific Aspect Languages](https://dl.acm.org/doi/abs/10.1145/2685028) - ***ACM Computing Surveys***, 2015. \[[All Versions](https://scholar.google.com/scholar?cluster=17254174131160041640)]. Domain-Specific Aspect Languages (DSALs) are Domain-Specific Languages (DSLs) designed to express crosscutting concerns. Compared to DSLs, their aspectual nature greatly amplifies the language design space. This survey structures this space in order to shed light on and compare the different domain-specific approaches to deal with crosscutting concerns. This survey reports on a corpus of 36 DSALs covering the space, discuss a set of design considerations, and provide a taxonomy of DSAL implementation approaches. This work serves as a frame of reference to DSAL and DSL researchers, enabling further advances in the field, and to developers as a guide for DSAL implementations.
+
+##### Domain Specific Language / Imperative DSL Applications
+
+*   [Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Raistrick_Infinigen_Indoors_Photorealistic_Indoor_Scenes_using_Procedural_Generation_CVPR_2024_paper.html) - ***CVPR'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=14526967027465419958)]. This work introduces Infinigen Indoors, a Blender-based procedural generator of photorealistic indoor scenes. It builds upon the existing Infinigen system, which focuses on natural scenes, but expands its coverage to indoor scenes by introducing a diverse library of procedural indoor assets, including furniture, architecture elements, appliances, and other day-to-day objects. It also introduces a constraint-based arrangement system, which consists of a domain-specific language for expressing diverse constraints on scene composition, and a solver that generates scene compositions that maximally satisfy the constraints. The authors provide an export tool that allows the generated 3D objects and scenes to be directly used for training embodied agents in real-time simulators such as Omniverse and Unreal. Infinigen Indoors is open-sourced under the BSD license.
+*   ["We Need Structured Output": Towards User-centered Constraints on Large Language Model Output](https://dl.acm.org/doi/full/10.1145/3613905.3650756) - ***CHI EA'24***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=12105435542197416648)]. \[[Preprint](https://research.google/pubs/we-need-structured-output-towards-user-centered-constraints-on-large-language-model-output/)]. Large language models can produce creative and diverse responses. However, to integrate them into current developer workflows, it is essential to constrain their outputs to follow specific formats or standards. This work surveyed 51 experienced industry professionals to understand the range of scenarios and motivations driving the need for output constraints from a user-centered perspective. The authors identified 134 concrete use cases for constraints at two levels: low-level, which ensures the output adhere to a structured format and an appropriate length, and high-level, which requires the output to follow semantic and stylistic guidelines without hallucination. Critically, applying output constraints could not only streamline the currently repetitive process of developing, testing, and integrating LLM prompts for developers, but also enhance the user experience of LLM-powered features and applications. The authors conclude with a discussion on user preferences and needs towards articulating intended constraints for LLMs, alongside an initial design for a constraint prototyping tool.
+
+##### Domain Specific Language / Declarative DSL Applications
+
+*   [Artificial intelligence driven design of catalysts and materials for ring opening polymerization using a domain-specific language](https://www.nature.com/articles/s41467-023-39396-3) - ***Nature Communications***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=6595955912508683146)]. \[[Project (⭐14)](https://github.com/IBM/ibm-materials-notebook)]. Advances in machine learning (ML) and automated experimentation are poised to vastly accelerate research in polymer science. Data representation is a critical aspect for enabling ML integration in research workflows, yet many data models impose significant rigidity making it difficult to accommodate a broad array of experiment and data types found in polymer science. This inflexibility presents a significant barrier for researchers to leverage their historical data in ML development. This work shows that a domain specific language, termed Chemical Markdown Language (CMDL), provides flexible, extensible, and consistent representation of disparate experiment types and polymer structures. CMDL enables seamless use of historical experimental data to fine-tune regression transformer (RT) models for generative molecular design tasks. The authors demonstrate the utility of this approach through the generation and the experimental validation of catalysts and polymers in the context of ring-opening polymerization---although the authors provide examples of how CMDL can be more broadly applied to other polymer classes. Critically, this work shows how the CMDL tuned model preserves key functional groups within the polymer structure, allowing for experimental validation. These results reveal the versatility of CMDL and how it facilitates translation of historical data into meaningful predictive and generative models to produce experimentally actionable output.
+*   [Configurable 3D Scene Synthesis and 2D Image Rendering with Per-pixel Ground Truth Using Stochastic Grammars](https://link.springer.com/article/10.1007/s11263-018-1103-5) - ***International Journal of Computer Vision***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=8301697457354598778)]. \[[Preprint](https://yzhu.io/publication/scenesynthesis2018ijcv/paper.pdf)]. This work proposes a systematic learning-based approach to the generation of massive quantities of synthetic 3D scenes and arbitrary numbers of photorealistic 2D images thereof, with associated ground truth information, for the purposes of training, benchmarking, and diagnosing learning-based computer vision and robotics algorithms. In particular, the authors devise a learning-based pipeline of algorithms capable of automatically generating and rendering a potentially infinite variety of indoor scenes by using a stochastic grammar, represented as an attributed Spatial And-Or Graph, in conjunction with state-of-the-art physics-based rendering. The pipeline is capable of synthesizing scene layouts with high diversity, and it is configurable inasmuch as it enables the precise customization and control of important attributes of the generated scenes. It renders photorealistic RGB images of the generated scenes while automatically synthesizing detailed, per-pixel ground truth data, including visible surface depth and normal, object identity, and material information (detailed to object parts), as well as environments (e.g., illuminations and camera viewpoints). The authors demonstrate the value of the synthesized dataset, by improving performance in certain machine-learning-based scene understanding tasks—depth and surface normal prediction, semantic segmentation, reconstruction, etc.---and by providing benchmarks for and diagnostics of trained models by modifying object attributes and scene properties in a controllable manner.
+
+##### Domain Specific Language / Logic DSL Applications
+
+*   [Genetic circuit design automation with Cello 2.0](https://www.nature.com/articles/s41596-021-00675-2) - ***Nature Protocol***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=7418307542591684967)]. \[[Preprint](https://www.researchgate.net/profile/Samuel-Oliveira-38/publication/358801979_Genetic_circuit_design_automation_with_Cello_20/links/635debf412cbac6a3e0b19e4/Genetic-circuit-design-automation-with-Cello-20.pdf)]. Cells interact with their environment, communicate among themselves, track time and make decisions through functions controlled by natural regulatory genetic circuits consisting of interacting biological components. Synthetic programmable circuits used in therapeutics and other applications can be automatically designed by computer-aided tools. The Cello software designs the DNA sequences for programmable circuits based on a high-level software description and a library of characterized DNA parts representing Boolean logic gates. This process allows for design specification reuse, modular DNA part library curation and formalized circuit transformations based on experimental data. This protocol describes Cello 2.0, a freely available cross-platform software written in Java. Cello 2.0 enables flexible descriptions of the logic gates’ structure and their mathematical models representing dynamic behavior, new formal rules for describing the placement of gates in a genome, a new graphical user interface, support for Verilog 2005 syntax and a connection to the SynBioHub parts repository software environment. Collectively, these features expand Cello’s capabilities beyond Escherichia coli plasmids to new organisms and broader genetic contexts, including the genome. Designing circuits with Cello 2.0 produces an abstract Boolean network from a Verilog file, assigns biological parts to each node in the Boolean network, constructs a DNA sequence and generates highly structured and annotated sequence representations suitable for downstream processing and fabrication, respectively. The result is a sequence implementing the specified Boolean function in the organism and predictions of circuit performance. Depending on the size of the design space and users’ expertise, jobs may take minutes or hours to complete.
+*   [The KoLMogorov Test: Compression by Code Generation](https://openreview.net/forum?id=C45YqeBDUM) - ***ICLR'25***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=16809888292456252135)]. Compression is at the heart of intelligence. A theoretically optimal way to compress any sequence of data is to find the shortest program that outputs that sequence and then halts. However, such Kolmogorov compression is uncomputable, and code generating LLMs struggle to approximate this theoretical ideal, as it requires reasoning, planning and search capabilities beyond those of current models. This work introduces the KoLMogorov-Test (KT), a compression-as-intelligence intelligence test for code generation LLMs. In KT a model is presented with a sequence of data at inference time, and asked to generate the shortest DSL (designed specifically for the task) program that produces the sequence. The authors identify several benefits of KT for both evaluation and training: an essentially infinite number of problem instances of varying difficulty is readily available, strong baselines already exist, the evaluation metric (compression) cannot be gamed, and pretraining data contamination is highly unlikely. To evaluate current models, the authors use audio, text, and DNA data, as well as sequences produced by random synthetic DSL programs.
+*   [Meta-analysis of the functional neuroimaging literature with probabilistic logic programming](https://www.nature.com/articles/s41598-022-21801-4) - ***Scientific Reports***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=5952076495542489316)]. Inferring reliable brain-behavior associations requires synthesizing evidence from thousands of functional neuroimaging studies through meta-analysis. However, existing meta-analysis tools are limited to investigating simple neuroscience concepts and expressing a restricted range of questions. This work expands the scope of neuroimaging meta-analysis by designing NeuroLang: a domain-specific language to express and test hypotheses using probabilistic first-order logic programming. By leveraging formalisms found at the crossroads of artificial intelligence and knowledge representation, NeuroLang provides the expressivity to address a larger repertoire of hypotheses in a meta-analysis, while seamlessly modeling the uncertainty inherent to neuroimaging data. The authors demonstrate the language’s capabilities in conducting comprehensive neuroimaging meta-analysis through use-case examples that address questions of structure-function associations. Specifically, the authors infer the specific functional roles of three canonical brain networks, support the role of the visual word-form area in visuospatial attention, and investigate the heterogeneous organization of the frontoparietal control network.
+
+##### Domain Specific Language / DSL Program Synthesis
+
+*   [Synthesizing theories of human language with Bayesian program induction](https://www.nature.com/articles/s41467-022-32012-w) - ***Nature Communications***, 2022. \[[All Versions](https://scholar.google.com/scholar?cluster=8603772394100237159)]. Automated, data-driven construction and evaluation of scientific models and theories is a long-standing challenge in artificial intelligence. This work presents a framework for algorithmically synthesizing models of a basic part of human language: morpho-phonology, the system that builds word forms from sounds. The authors integrate Bayesian inference with program synthesis and representations inspired by linguistic theory and cognitive models of learning and discovery. Across 70 datasets from 58 diverse languages, the system synthesizes human-interpretable models for core aspects of each language’s morpho-phonology, sometimes approaching models posited by human linguists. Joint inference across all 70 data sets automatically synthesizes a meta-model encoding interpretable cross-language typological tendencies. Finally, the same algorithm captures few-shot learning dynamics, acquiring new morphophonological rules from just one or a few examples. These results suggest routes to more powerful machine-enabled discovery of interpretable models in linguistics and other scientific domains.
+*   [Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6) - ***Nature***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=5653439474813913484)]. Large language models (LLMs) have demonstrated tremendous capabilities in solving complex tasks, from quantitative reasoning to understanding natural language. However, LLMs sometimes suffer from confabulations (or hallucinations), which can result in them making plausible but incorrect statements1,2. This hinders the use of current large models in scientific discovery. This work introduces FunSearch (short for searching in the function space), an evolutionary procedure based on pairing a pretrained LLM with a systematic evaluator. The authors demonstrate the effectiveness of this approach to surpass the best-known results in important problems, pushing the boundary of existing LLM-based approaches3. Applying FunSearch to a central problem in extremal combinatorics—the cap set problem—we discover new constructions of large cap sets going beyond the best-known ones, both in finite dimensional and asymptotic cases. This shows that it is possible to make discoveries for established open problems using LLMs. The authors showcase the generality of FunSearch by applying it to an algorithmic problem, online bin packing, finding new heuristics that improve on widely used baselines. In contrast to most computer search approaches, FunSearch searches for programs that describe how to solve a problem, rather than what the solution is. Beyond being an effective and scalable strategy, discovered programs tend to be more interpretable than raw solutions, enabling feedback loops between domain experts and FunSearch, and the deployment of such programs in real-world applications.
+
+##### Domain Specific Language / Cognitive Foundations
+
+*   [How laypeople evaluate scientific explanations containing jargon](https://www.nature.com/articles/s41562-025-02227-0) - ***Nature Human Behavior***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=6467855047925175367)]. Individuals rely on others’ expertise to achieve a basic understanding of the world. But how can non-experts achieve understanding from explanations that, by definition, they are ill-equipped to assess? Across 9 experiments with 6,698 participants (Study 1A = 737; 1B = 734; 1C = 733; 2A = 1,014; 2B = 509; 2C = 1,012; 3A = 1,026; 3B = 512; 4 = 421), this work addresses this puzzle by focusing on scientific explanations with jargon. The authors identify ‘when’ and ‘why’ the inclusion of jargon makes explanations more satisfying, despite decreasing their comprehensibility. The authors find that jargon increases satisfaction because laypeople assume the jargon fills gaps in explanations that are otherwise incomplete. The authors also identify strategies for debiasing these judgements: when people attempt to generate their own explanations, inflated judgements of poor explanations with jargon are reduced, and people become better calibrated in their assessments of their own ability to explain.
+
+##### Problem Solving / Human-Level Problem Solving
+
+*   [Beyond imitation: Zero-shot task transfer on robots by learning concepts as cognitive programs](https://www.science.org/doi/abs/10.1126/scirobotics.aav3150) - ***Science Robotics***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7451223471302689228)]. Humans can infer concepts from image pairs and apply those in the physical world in a completely different setting, enabling tasks like IKEA assembly from diagrams. If robots could represent and infer high-level concepts, then it would notably improve their ability to understand our intent and to transfer tasks between different environments. To that end, the authors introduce a computational framework that replicates aspects of human concept learning. Concepts are represented as programs on a computer architecture consisting of a visual perception system, working memory, and action controller. The instruction set of this cognitive computer has commands for parsing a visual scene, directing gaze and attention, imagining new objects, manipulating the contents of a visual working memory, and controlling arm movement. Inferring a concept corresponds to inducing a program that can transform the input to the output. Some concepts require the use of imagination and recursion. Previously learned concepts simplify the learning of subsequent, more elaborate concepts and create a hierarchy of abstractions. The authors demonstrate how a robot can use these abstractions to interpret novel concepts presented to it as schematic images and then apply those concepts in very different situations. By bringing cognitive science ideas on mental imagery, perceptual symbols, embodied cognition, and deictic mechanisms into the realm of machine learning, this work brings researchers closer to the goal of building robots that have interpretable representations and common sense.
+
+##### System 1 & System 2 / Neural-Symbolic AI
+
+*   [AI Feynman: A physics-inspired method for symbolic regression](https://www.science.org/doi/full/10.1126/sciadv.aay2631) - ***Science Advances***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=3655502646441210453)]. A core challenge for both physics and artificial intelligence (AI) is symbolic regression: finding a symbolic expression that matches data from an unknown function. Although this problem is likely to be NP-hard in principle, functions of practical interest often exhibit symmetries, separability, compositionality, and other simplifying properties. In this spirit, the authors develop a recursive multidimensional symbolic regression algorithm that combines neural network fitting with a suite of physics-inspired techniques. The authors apply it to 100 equations from the Feynman Lectures on Physics, and it discovers all of them, while previous publicly available software cracks only 71; for a more difficult physics-based test set, this work improves the state-of-the-art success rate from 15 to 90%.
+*   [Semi-Supervised Abductive Learning and Its Application to Theft Judicial Sentencing](https://ieeexplore.ieee.org/abstract/document/9338352) - ***ICDM'20***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=16646246740380524224)]. \[[Preprint](https://www.lamda.nju.edu.cn/huangyx/src/ICDM20-SSABL.pdf)]. In many practical tasks, there are usually two kinds of common information: cheap unlabeled data and domain knowledge in the form of symbols. There are some attempts using one single information source, such as semi-supervised learning and abductive learning. However, there is little work to use these two kinds of information sources at the same time, because it is very difficult to combine symbolic logical representation and numerical model optimization effectively. The learning becomes even more challenging when the domain knowledge is insufficient. This paper presents an attempt-Semi-Supervised ABductive Learning (SS-ABL) framework. In this framework, semi-supervised learning is trained via pseudo labels of unlabeled data generated by abductive learning, and the background knowledge is refined via the label distribution predicted by semi-supervised learning. The above framework can be optimized iteratively and can be naturally interpretable. The effectiveness of the framework has been fully verified in the theft judicial sentencing of real legal documents. In the case of missing sentencing elements and mixed legal rules, the framework is apparently superior to many existing baseline practices, and provides explanatory assistance to judicial sentencing.
+
+##### Explainability / Trustworthy AI
+
+*   [A tale of two explanations: Enhancing human trust by explaining robot behavior](https://www.science.org/doi/10.1126/scirobotics.aay4663) - ***Science Robotics***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=3985046411399524590)]. \[[Preprint](https://yzhu.io/publication/openbottle2019scirob/paper.pdf)]. The ability to provide comprehensive explanations of chosen actions is a hallmark of intelligence. Lack of this ability impedes the general acceptance of AI and robot systems in critical tasks. This paper examines what forms of explanations best foster human trust in machines and proposes a framework in which explanations are generated from both functional and mechanistic perspectives. The robot system learns from human demonstrations to open medicine bottles using (i) an embodied haptic prediction model to extract knowledge from sensory feedback, (ii) a stochastic grammar model induced to capture the compositional structure of a multistep task, and (iii) an improved Earley parsing algorithm to jointly leverage both the haptic and grammar models. The robot system not only shows the ability to learn from human demonstrators but also succeeds in opening new, unseen bottles. Using different forms of explanations generated by the robot system, we conducted a psychological experiment to examine what forms of explanations best foster human trust in the robot. The authors found that comprehensive and real-time visualizations of the robot’s internal decisions were more effective in promoting human trust than explanations based on summary text descriptions. In addition, forms of explanation that are best suited to foster trust do not necessarily correspond to the model components contributing to the best task performance. This divergence shows a need for the robotics community to integrate model components to enhance both task execution and human trust in machines.
+*   [X-ToM: Explaining with Theory-of-Mind for Gaining Justified Human Trust](https://arxiv.org/abs/1909.06907) - ***CVPR XAI Workshop'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=7751326666821697923)]. This work presents a new explainable AI (XAI) framework aimed at increasing justified human trust and reliance in the AI machine through explanations. The authors pose explanation as an iterative communication process, i.e. dialog, between the machine and human user. More concretely, the machine generates sequence of explanations in a dialog which takes into account three important aspects at each dialog turn: (a) human's intention (or curiosity); (b) human's understanding of the machine; and (c) machine's understanding of the human user. To do this, the authors use Theory of Mind (ToM) which helps us in explicitly modeling human's intention, machine's mind as inferred by the human as well as human's mind as inferred by the machine. In other words, these explicit mental representations in ToM are incorporated to learn an optimal explanation policy that takes into account human's perception and beliefs. Furthermore, the authors also show that ToM facilitates in quantitatively measuring justified human trust in the machine by comparing all the three mental representations.
+    We applied our framework to three visual recognition tasks, namely, image classification, action recognition, and human body pose estimation. The authors argue that our ToM based explanations are practical and more natural for both expert and non-expert users to understand the internal workings of complex machine learning models. This is the first work to derive explanations using ToM. Extensive human study experiments verify our hypotheses, showing that the proposed explanations significantly outperform the state-of-the-art XAI methods in terms of all the standard quantitative and qualitative XAI evaluation metrics including human trust, reliance, and explanation satisfaction.
+*   [Explaining machine learning models with interactive natural language conversations using TalkToModel](https://www.nature.com/articles/s42256-023-00692-8) - ***Nature Machine Intelligence***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=7044008493489695982)]. Practitioners increasingly use machine learning (ML) models, yet models have become more complex and harder to understand. To understand complex models, researchers have proposed techniques to explain model predictions. However, practitioners struggle to use explainability methods because they do not know which explanation to choose and how to interpret the explanation. This work addresses the challenge of using explainability methods by proposing TalkToModel: an interactive dialogue system that explains ML models through natural language conversations. TalkToModel consists of three components: an adaptive dialogue engine that interprets natural language and generates meaningful responses; an execution component that constructs the explanations used in the conversation; and a conversational interface. In real-world evaluations, 73% of healthcare workers agreed they would use TalkToModel over existing systems for understanding a disease prediction model, and 85% of ML professionals agreed TalkToModel was easier to use, demonstrating that TalkToModel is highly effective for model explainability.
+
+##### Science Logology / Literature Mining
+
+*   [An intelligent guided troubleshooting method for aircraft based on HybirdRAG](https://www.nature.com/articles/s41598-025-02643-2) - ***Scientific Reports***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=4924119792997395046)]. To enhance aircraft fault diagnosis efficiency, this paper proposes HybridRAG, an intelligent-guided troubleshooting framework that integrates knowledge graphs and large language models (LLMs). Unlike conventional retrieval-augmented generation (RAG) methods that rely on single-modal retrieval, HybridRAG adopts a multi-dimensional retrieval strategy, combining graph-based reasoning with both vector-based and BM25-based text retrieval techniques. This hybrid approach ensures comprehensive extraction of relevant information from both unstructured text and structured fault graphs, enhancing diagnostic precision, relevance, and robustness. Experimental results demonstrate that HybridRAG achieves an F1 score improvement of at least 4% and reduces hallucination rates by over 7% compared to mainstream RAG baselines. These advancements, combined with its unique integration of multi-modal retrieval, position HybridRAG as a novel framework for addressing complex aircraft maintenance challenges. Additionally, the paper presents an agent-based intelligent troubleshooting assistant that supports more interactive, adaptive, and flexible diagnostic Q\&A, providing maintenance personnel with a significant advanced intelligent, context-aware diagnostic tool.
+
+##### Science Logology / AI Assisted Research
+
+*   [Machine learning-assisted molecular design and efficiency prediction for high-performance organic photovoltaic materials](https://www.science.org/doi/full/10.1126/sciadv.aay4275) - ***Science Advances***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=12392230644945701722)]. In the process of finding high-performance materials for organic photovoltaics (OPVs), it is meaningful if one can establish the relationship between chemical structures and photovoltaic properties even before synthesizing them. This work first establishes a database containing over 1700 donor materials reported in the literature. Through supervised learning, our machine learning (ML) models can build up the structure-property relationship and, thus, implement fast screening of OPV materials. The authors explore several expressions for molecule structures, i.e., images, ASCII strings, descriptors, and fingerprints, as inputs for various ML algorithms. It is found that fingerprints with length over 1000 bits can obtain high prediction accuracy. The reliability of the approach is further verified by screening 10 newly designed donor materials. Good consistency between model predictions and experimental outcomes is obtained. The result indicates that ML is a powerful tool to prescreen new OPV materials, thus accelerating the development of the OPV field.
+*   [Design of metalloproteins and novel protein folds using variational autoencoders](https://www.nature.com/articles/s41598-018-34533-1) - ***Scientific Reports***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=18126187509308242959)]. The design of novel proteins has many applications but remains an attritional process with success in isolated cases. Meanwhile, deep learning technologies have exploded in popularity in recent years and are increasingly applicable to biology due to the rise in available data. This work attempts to link protein design and deep learning by using variational autoencoders to generate protein sequences conditioned on desired properties. Potential copper and calcium binding sites are added to non-metal binding proteins without human intervention and compared to a hidden Markov model. In another use case, a grammar of protein structures is developed and used to produce sequences for a novel protein topology. One candidate structure is found to be stable by molecular dynamics simulation. The ability of the model to confine the vast search space of protein sequences and to scale easily has the potential to assist in a variety of protein design tasks.
 
 ---
 
@@ -3360,7 +3369,7 @@ This project is open source and available under the [MIT License](https://github
 1. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 382K 📝 07&#x2F;14 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 236K 📝 07&#x2F;15 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 147K 📝 07&#x2F;15 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K 📝 07&#x2F;16 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K 📝 07&#x2F;17 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 85K 📝 07&#x2F;14 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 6. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 75K 📝 07&#x2F;14 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
 7. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 07&#x2F;14 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
@@ -3747,7 +3756,7 @@ This project is open source and available under the [MIT License](https://github
 - [Awesome Minecraft](/content/bs-community/awesome-minecraft/README.md) - ([Source ⭐ 498, 📝 05&#x2F;04 ](https://github.com/bs-community/awesome-minecraft)) - 📝 The curated list of awesome things related to Minecraft.
 - [Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/README.md) - ([Source ⭐ 1.9K, 📝 06&#x2F;10 ](https://github.com/michelpereira/awesome-open-source-games)) - Collection of Games that have the source code available on GitHub
 - [Awesome PICO 8](/content/pico-8/awesome-PICO-8/README.md) - ([Source ⭐ 2.8K, 📝 03&#x2F;07 ](https://github.com/pico-8/awesome-PICO-8)) - A curated list of awesome PICO-8 resources, carts, tools and more
-- [Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md) - ([Source ⭐ 302, 📝 07&#x2F;14 ](https://github.com/playcanvas/awesome-playcanvas)) - A curated list of awesome PlayCanvas assets, resources, and more.
+- [Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/README.md) - ([Source ⭐ 302, 📝 07&#x2F;17 ](https://github.com/playcanvas/awesome-playcanvas)) - A curated list of awesome PlayCanvas assets, resources, and more.
 - [Awesome Unity](/content/RyanNielson/awesome-unity/README.md) - ([Source ⭐ 6.7K, 📝 21&#x2F;04&#x2F;26 ](https://github.com/RyanNielson/awesome-unity)) - A curated list of awesome Unity assets, resources, and more.
 - [Game Datasets](/content/leomaurodesenv/game-datasets/README.md) - ([Source ⭐ 801, 📝 02&#x2F;25 ](https://github.com/leomaurodesenv/game-datasets)) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games
 - [Magictools](/content/ellisonleao/magictools/README.md) - ([Source ⭐ 15K, 📝 07&#x2F;14 ](https://github.com/ellisonleao/magictools)) - :video_game: :pencil: A list of Game Development resources to make magic happen.
@@ -3961,7 +3970,7 @@ This project is open source and available under the [MIT License](https://github
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.2K, 📝 03&#x2F;14 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 3K, 📝 06&#x2F;06 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K, 📝 07&#x2F;16 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K, 📝 07&#x2F;17 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.3K, 📝 07&#x2F;14 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 12K, 📝 24&#x2F;10&#x2F;03 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 4.1K, 📝 04&#x2F;23 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:
@@ -4160,7 +4169,7 @@ This project is open source and available under the [MIT License](https://github
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 337, 📝 07&#x2F;14 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 337, 📝 07&#x2F;17 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 23K, 📝 07&#x2F;14 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 11K, 📝 01&#x2F;22 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 100, 📝 07&#x2F;14 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

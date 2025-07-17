@@ -10,6 +10,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### 3D Gaussian Splatting / YouTube Playables
 
+*   [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
 *   [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
 
 ## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
