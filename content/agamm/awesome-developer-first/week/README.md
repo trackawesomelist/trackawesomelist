@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / Weekly / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
+
+### IDE
+
+*   [Jolt AI](https://usejolt.ai) - An AI codegen and chat tool for 100k to multi-million line codebases that automatically identifies context files, handles multi-file changes, and matches code styles.
+
 ## [Jul 07 - Jul 13, 2025](/content/2025/27/README.md)
 
 ### Scraping
@@ -88,7 +94,7 @@ A curated list of awesome developer-first tools products.
 
 ### IDE
 
-*   [GoCodeo](https://www.gocodeo.com/)- An AI coding & testing agent.
+*   [GoCodeo](https://www.gocodeo.com/) - An AI coding & testing agent.
 
 ### Infrastructure as Code
 

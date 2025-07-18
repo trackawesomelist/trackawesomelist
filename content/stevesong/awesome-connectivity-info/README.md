@@ -2,16 +2,22 @@
 
 Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stevesong/awesome-connectivity-info/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) · ⭐ 142 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/stevesong/awesome-connectivity-info/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) · ⭐ 146 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/stevesong/awesome-connectivity-info/week/README.md) / [Overview](/content/stevesong/awesome-connectivity-info/readme/README.md) ]
+
+## [Jul 18, 2025](/content/2025/07/18/README.md)
+
+### Other sources
+
+*   [The Global Findex](https://www.worldbank.org/en/publication/globalfindex) - The Global Findex has been published since 2011 but as of 2025 now includes Digital Connectivity Tracker
 
 ## [Apr 09, 2025](/content/2025/04/09/README.md)
 
 ### Global Connectivity Indexes
 
 *   A4AI Affordability Drivers Index - ([2021](https://web.archive.org/web/20220423194006/https://a4ai.org/affordability-report/data/?_year=2021\&indicator=INDEX) - link via Internet Archive)([2020](https://a4ai.org/affordability-report/data/?_year=2020\&indicator=INDEX)) - Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
-*   A4AI Mobile Broadband Data Costs - ([2020](https://web.archive.org/web/20210414222555/https://a4ai.org/extra/baskets/A4AI/2020/mobile_broadband_pricing_gni) - link via Internet Archive)([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
+*   A4AI Mobile Broadband Data Costs - ([2020](https://web.archive.org/web/20210414222555/https://a4ai.org/extra/baskets/A4AI/2020/mobile_broadband_pricing_gni) - link via Internet Archive) ([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
 
 ### Connectivity Maps
 

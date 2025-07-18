@@ -2,7 +2,7 @@
 
 Awesome list of connectivity indexes and reports to help you better under who has access to communication infrastructure and on what terms.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/stevesong/awesome-connectivity-info/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) · ⭐ 142 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/stevesong/awesome-connectivity-info/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 stevesong/awesome-connectivity-info](https://github.com/stevesong/awesome-connectivity-info) · ⭐ 146 · 🏷️ Miscellaneous
 
 [ [Daily](/content/stevesong/awesome-connectivity-info/README.md) / [Weekly](/content/stevesong/awesome-connectivity-info/week/README.md) / Overview ]
 
@@ -43,7 +43,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 *   Portulans Institute - [Network Readiness Index](https://networkreadinessindex.org/) - ([2024](https://download.networkreadinessindex.org/reports/data/2024/nri-2024.pdf)) ([2023](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2023.pdf)) ([2022](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2022.pdf)) ([2021](https://networkreadinessindex.org/wp-content/uploads/reports/nri_2021.pdf)) ([2020](https://networkreadinessindex.org/wp-content/uploads/2020/11/NRI-2020-V8_28-11-2020.pdf)) ([2019](https://networkreadinessindex.org/2019/wp-content/uploads/2020/03/The-Network-Readiness-Index-2019-New-version-March-2020-2.pdf)) Network Readiness Index covering 121 economies from Portulans Institute
 *   [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - (2023) Measures countries against four enablers of mobile internet adoption: Infrastructure, Affordability, Consumer Readiness and Content.
 *   A4AI Affordability Drivers Index - ([2021](https://web.archive.org/web/20220423194006/https://a4ai.org/affordability-report/data/?_year=2021\&indicator=INDEX) - link via Internet Archive)([2020](https://a4ai.org/affordability-report/data/?_year=2020\&indicator=INDEX)) - Index of internet affordability by the Alliance for Affordable Internet Access ([A4AI](https://a4ai.org)).
-*   A4AI Mobile Broadband Data Costs - ([2020](https://web.archive.org/web/20210414222555/https://a4ai.org/extra/baskets/A4AI/2020/mobile_broadband_pricing_gni) - link via Internet Archive)([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
+*   A4AI Mobile Broadband Data Costs - ([2020](https://web.archive.org/web/20210414222555/https://a4ai.org/extra/baskets/A4AI/2020/mobile_broadband_pricing_gni) - link via Internet Archive) ([Q4 2018](https://a4ai.org/extra/mobile_broadband_pricing_usd-2018Q4)) ([2017](https://a4ai.org/mobile-broadband-pricing-data/)) Price of Broadband Data (1GB mobile prepaid) as % of GNI per capita.
 *   [Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) - (2022) Index sponsored by Meta measuring internet connectivity against Availability, Affordability, Relevance and Readiness.
 *   [Huawei Global Connectivity Index](https://www.huawei.com/minisite/gci/en/) - (2020) Snapshot of 50 nations’ "Digital Transformation" status measured against Supply, Demand, Experience and Potential.
 *   [Cisco Visual Networking Index](https://www.cisco.com/c/en/us/solutions/service-provider/visual-networking-index-vni/index.html) - Forecast and Trends, 2017–2022 White Paper.
@@ -123,6 +123,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 
 **[`^        back to top        ^`](#)**
 
+*   [The Global Findex](https://www.worldbank.org/en/publication/globalfindex) - The Global Findex has been published since 2011 but as of 2025 now includes Digital Connectivity Tracker
 *   [Internet Resilience Index (IRI)](https://pulse.internetsociety.org/resilience)- Developed by the Internet Society, the IRI monitors select, weighted indicators to measure Internet resilience
 *   [ITU Data Hub](https://datahub.itu.int/) - a revamp of the ITU World ICT/Telecommunication Indicators Database (WTID), now free for non-commercial use
 *   [SpeedChecker Insights](https://insights.speedchecker.com/) - Periodic country-level reports on mobile internet speeds, latency, and coverage
