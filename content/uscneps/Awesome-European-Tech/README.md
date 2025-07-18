@@ -6,6 +6,12 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [Jul 18, 2025](/content/2025/07/18/README.md)
+
+### Index / Cybersecurity
+
+*   [Focsec](https://www.focsec.com/) 🇪🇪 - IP Intelligence and VPN Detection API
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Index / Authenticators
@@ -217,7 +223,7 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 ### Index / Translation services
 
 *   [Loco](https://localise.biz/) 🇬🇧 - Loco helps you manage and integrate translations into your software.
-*   [Weblate](https://github.com/uscneps/Awesome-European-Tech/blob/main/README.md/) 🇬🇧 - Web-based continuous localization.
+*   [Weblate](https://github.com/uscne/Awesome-European-Tech/blob/main/README.md/) 🇬🇧 - Web-based continuous localization.
 
 ### Index / VPS
 

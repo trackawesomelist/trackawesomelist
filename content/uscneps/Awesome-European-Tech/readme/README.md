@@ -57,7 +57,7 @@ Before exploring the list, we encourage you to visit the website that inspired t
 
 ## Contribute
 
-Any contributions you make are **greatly appreciated**, please refer to the [contributing file](https://github.com/uscneps/Awesome-European-Tech/blob/main/README.md/.github/CONTRIBUTING.md). Thanks again! ❤️
+Any contributions you make are **greatly appreciated**, please refer to the [contributing file](https://github.com/uscne/Awesome-European-Tech/blob/main/README.md/.github/CONTRIBUTING.md). Thanks again! ❤️
 
 ***
 
@@ -210,6 +210,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [ALTCHA](https://altcha.org) 🇨🇿 - Captcha and spam protection.
 *   [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
 *   [ESET](https://www.eset.com/) 🇸🇰 - Cybersecurity and antivirus software company.
+*   [Focsec](https://www.focsec.com/) 🇪🇪 - IP Intelligence and VPN Detection API
 *   [IPXO](https://www.ipxo.com/) 🇱🇹 - The network platform for IPv4 leasing, management, threat intelligence, and IPv6 capabilities.
 *   [Gemalto](https://en.wikipedia.org/wiki/Gemalto) 🇳🇱 - Smartcards and hardware security modules.
 *   [OPNsense](https://opnsense.org/) 🇳🇱 -  Firewall/router OS and (optionally) a custom computer to run on.
@@ -449,7 +450,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [SimpleLocalize](https://simplelocalize.io) 🇵🇱 - Translation management for software projects.
 *   [Supertext](https://www.supertext.com) (formerly TextShuttle) 🇨🇭 - AI-driven translation for businesses.
 *   [Unbabel](https://unbabel.com/) 🇵🇹
-*   [Weblate](https://github.com/uscneps/Awesome-European-Tech/blob/main/README.md/) 🇬🇧 - Web-based continuous localization.
+*   [Weblate](https://github.com/uscne/Awesome-European-Tech/blob/main/README.md/) 🇬🇧 - Web-based continuous localization.
 *   [Widn.ai](https://www.widn.ai/) 🇵🇹
 
 ### Uptime Monitoring

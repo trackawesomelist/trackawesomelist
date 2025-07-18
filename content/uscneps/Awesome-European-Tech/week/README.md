@@ -18,6 +18,7 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 ### Index / Cybersecurity
 
+*   [Focsec](https://www.focsec.com/) 🇪🇪 - IP Intelligence and VPN Detection API
 *   [Vysion](https://byronlabs.io/vysion) 🇪🇸 - Cyber threat intelligence platform that monitors darknets and cybercrime forums to provide real-time insights into emerging threats, including ransomware activities.
 
 ### Index / DNS
@@ -211,7 +212,7 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 ### Index / Translation services
 
 *   [Loco](https://localise.biz/) 🇬🇧 - Loco helps you manage and integrate translations into your software.
-*   [Weblate](https://github.com/uscneps/Awesome-European-Tech/blob/main/README.md/) 🇬🇧 - Web-based continuous localization.
+*   [Weblate](https://github.com/uscne/Awesome-European-Tech/blob/main/README.md/) 🇬🇧 - Web-based continuous localization.
 
 ### Index / VPS
 
