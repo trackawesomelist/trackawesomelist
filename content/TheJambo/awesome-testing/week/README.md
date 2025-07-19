@@ -12,6 +12,10 @@ A curated list of testing resources
 
 *   [SpecTest (⭐27)](https://github.com/justiceo/spectest) - Truly declarative API testing framework in Js, or plain JSON.
 
+### Software / Visual Testing
+
+*   [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
+
 ## [May 12 - May 18, 2025](/content/2025/19/README.md)
 
 ### Software / API Testing

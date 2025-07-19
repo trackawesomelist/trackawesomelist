@@ -62,6 +62,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 *   [Fluxguard](https://fluxguard.com) - Screenshot pixel and DOM change comparisons.
 *   [GoodLooks (⭐44)](https://github.com/dashcamio/goodlooks) - AI-powered visual validation for Playwright tests.
+*   [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
 *   [TestingBot](https://testingbot.com) - Supports automated, manual, and visual testing.
 *   [recheck-web (⭐269)](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
 *   [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.

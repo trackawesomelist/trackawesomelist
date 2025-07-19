@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Jul 19, 2025](/content/2025/07/19/README.md)
+
+### Software / Visual Testing
+
+*   [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
+
 ## [Jul 16, 2025](/content/2025/07/16/README.md)
 
 ### Software / API Testing

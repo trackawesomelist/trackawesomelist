@@ -131,6 +131,7 @@ Thanks to our main contributors
 
 *   [Alleba (Philippines)](http://www.alleba.com) - Philippines search engine
 *   [Baidu (China)](http://www.baidu.com) - The major search engine used in China
+*   [Daum (South Korea)](https://www.daum.net/)
 *   [Eniro (Sweden)](http://www.eniro.se)
 *   [Goo (Japan)](http://www.goo.ne.jp)
 *   [Najdsi (Slovenia)](http://www.najdi.si)
@@ -138,9 +139,11 @@ Thanks to our main contributors
 *   [Onet.pl (Poland)](http://www.onet.pl)
 *   [Orange (France)](http://www.orange.fr)
 *   [Parseek (Iran)](http://www.parseek.com)
+*   [Parsijoo (Iran)](https://www.parsijoo.ir/)
 *   [SAPO (Portugal)](http://www.sapo.pt)
 *   [Search.ch (Switzerland)](http://www.search.ch)
 *   [Seznam(Czech Republic)](https://seznam.cz)
+*   [SoGou (China)](http://www.sogou.com/)
 *   [Walla (Israel)](http://www.walla.co.il)
 *   [Yandex (Russia)](http://www.yandex.com)
 *   [Najdi.si (Slovenia)](http://www.najdi.si/)
@@ -969,7 +972,7 @@ Thanks to our main contributors
 *   [YouTube Geofind](https://mattw.io/youtube-geofind/)
 *   [YouTube Metadata](https://mattw.io/youtube-metadata/)
 *   [YouTube](https://www.youtube.com)
-*   [yt-dlp (⭐117k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐119k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [↑](#-table-of-contents) Academic Resources and Grey Literature
 
@@ -1490,6 +1493,7 @@ Thanks to our main contributors
 *   [Dorkgpt](https://www.dorkgpt.com) - Artificial intelligence that generates advanced search queries to find specific or hidden information on the internet.
 *   [DNSservices](https://github.com/0x4f53/dnsservices) - Discover embedded services in a domain's DNS records within seconds
 *   [DuckDuckGo URL scraper (⭐26)](https://github.com/its0x08/duckduckgo) - A simple DuckDuckGo URL scraper.
+*   [Find osint tool](https://find.osint-tool.com) - Searches multiple OSINT tools to find information across various sources.
 *   [FOCA (⭐3.2k)](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 *   [Glit (⭐52)](https://github.com/shadawck/glit) -  Retrieve all mails of users related to a git repository, a git user or a git organization.
 *   [Greynoise](https://greynoise.io/) - "Anti-Threat Intelligence" Greynoise characterizes the background noise of the internet, so the user can focus on what is actually important.

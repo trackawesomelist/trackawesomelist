@@ -8,6 +8,12 @@
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
+### Main National Search Engines
+
+*   [Daum (South Korea)](https://www.daum.net/)
+*   [Parsijoo (Iran)](https://www.parsijoo.ir/)
+*   [SoGou (China)](http://www.sogou.com/)
+
 ### Speciality Search Engines
 
 *   [MalwareBazaar](https://bazaar.abuse.ch/browse/) - Search and download confirmed malware samples by hash, family, tag, and other criteria.
@@ -109,6 +115,10 @@
 *   [Gnu Icecat](https://icecatbrowser.org/) -
 *   [LibreWolf](https://librewolf.net/) - A custom version of Firefox, focused on privacy, security and freedom.
 *   [Waterfox](https://www.waterfox.net/) - Fast and Private Web Browser. Get privacy out of the box with Waterfox.
+
+### Other Tools / GitHub
+
+*   [Find osint tool](https://find.osint-tool.com) - Searches multiple OSINT tools to find information across various sources.
 
 ### Gaming Platforms / GitHub
 
@@ -647,7 +657,7 @@
 
 *   [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
 *   [Tubuep (⭐456)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
-*   [yt-dlp (⭐117k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐119k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [Jan 09 - Jan 15, 2023](/content/2023/2/README.md)
 
