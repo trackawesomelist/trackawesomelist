@@ -6,11 +6,11 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
-## [Jul 18, 2025](/content/2025/07/18/README.md)
+## [Jul 19, 2025](/content/2025/07/19/README.md)
 
 ### Index / Cybersecurity
 
-*   [Focsec](https://www.focsec.com/) 🇪🇪 - IP Intelligence and VPN Detection API
+*   [Focsec](https://focsec.com/) 🇪🇪 - IP Intelligence and VPN Detection API
 
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
@@ -531,7 +531,6 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 ### Index / Communication Tools
 
-*   [Alugha](https://alugha.com/) 🇩🇪 - Multilingual video hosting platform.
 *   [Ginlo](https://www.ginlo.net/) 🇩🇪 -Secure messaging app.
 *   [Mastodon](https://joinmastodon.org/) 🇩🇪 -  Open-source decentralized social network.
 *   [Olvid](https://www.olvid.io) 🇫🇷 - Privacy-first messaging with zero metadata.

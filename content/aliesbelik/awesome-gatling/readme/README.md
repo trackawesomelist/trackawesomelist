@@ -87,6 +87,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 *   [gatling-jwt](https://bitbucket.org/atlassianlabs/gatling-jwt/) - An extension to Gatling 2.0 to help make JWT-signed requests.
 *   [gatling-mqtt (⭐43)](https://github.com/mnogu/gatling-mqtt) - A Gatling plugin for stress testing MQTT.
 *   [gatling-kafka (⭐67)](https://github.com/mnogu/gatling-kafka) - A Gatling plugin for stress testing Apache Kafka protocol.
+*   [gatling-kafka (⭐13)](https://github.com/Amerousful/gatling-kafka) - Gatling plugin for Kafka.
 *   [gatling-kafka-plugin (⭐11)](https://github.com/galax-io/gatling-kafka-plugin) - Plugin for support Kafka in Gatling.
 *   [gatling-amqp-plugin (⭐5)](https://github.com/galax-io/gatling-amqp-plugin) - Plugin for support performance testing with AMQP in Gatling (3.2.x).
 *   [gatling-jdbc-plugin (⭐6)](https://github.com/galax-io/gatling-jdbc-plugin) - Simple Gatling plugin for JDBC support.
@@ -97,6 +98,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 *   [gatling-bolt (⭐2)](https://github.com/sarmbruster/gatling-bolt) - Support Neo4j Bolt protocol for Gatling.
 *   [gatling-zeromq (⭐5)](https://github.com/softwaremill/gatling-zeromq) - A Gatling stress test plugin for ZeroMQ protocol.
 *   [gatling-dubbo (⭐151)](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
+*   [gatling-wait (⭐7)](https://github.com/Amerousful/gatling-wait) - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
 
 ### Frameworks
 
@@ -109,6 +111,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 *   [gatling-report (⭐122)](https://github.com/nuxeo/gatling-report) - Parse Gatling simulation.log files to output CSV stats or build HTML reports with Plotly charts.
 *   [gatling2allure (⭐6)](https://github.com/biski/gatling2allure) - Convert Gatling log to Allure report.
+*   [gatling-elasticsearch (⭐12)](https://github.com/Amerousful/gatling-elasticsearch-logs) - Logger which parses raw Gatling logs and sends them to the Elasticsearch.
 
 ### Sandbox
 

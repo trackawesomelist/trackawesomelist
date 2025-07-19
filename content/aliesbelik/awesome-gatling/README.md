@@ -6,6 +6,17 @@ A collection of resources covering different aspects of Gatling load testing too
 
 [ Daily / [Weekly](/content/aliesbelik/awesome-gatling/week/README.md) / [Overview](/content/aliesbelik/awesome-gatling/readme/README.md) ]
 
+## [Jul 19, 2025](/content/2025/07/19/README.md)
+
+### Tools / Plugins
+
+*   [gatling-kafka (⭐13)](https://github.com/Amerousful/gatling-kafka) - Gatling plugin for Kafka.
+*   [gatling-wait (⭐7)](https://github.com/Amerousful/gatling-wait) - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
+
+### Tools / Reporting
+
+*   [gatling-elasticsearch (⭐12)](https://github.com/Amerousful/gatling-elasticsearch-logs) - Logger which parses raw Gatling logs and sends them to the Elasticsearch.
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Tutorials

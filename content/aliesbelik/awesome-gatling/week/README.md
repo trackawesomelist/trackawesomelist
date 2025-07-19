@@ -12,6 +12,15 @@ A collection of resources covering different aspects of Gatling load testing too
 
 *   [Load testing ZeroMQ with a custom DSL for Gatling](https://mintbeans.com/load-testing-zeromq-with-gatling/)
 
+### Tools / Plugins
+
+*   [gatling-kafka (⭐13)](https://github.com/Amerousful/gatling-kafka) - Gatling plugin for Kafka.
+*   [gatling-wait (⭐7)](https://github.com/Amerousful/gatling-wait) - Plugin that simplifies waiting for specific events allowing customizable conditions, attempt management, and error handling.
+
+### Tools / Reporting
+
+*   [gatling-elasticsearch (⭐12)](https://github.com/Amerousful/gatling-elasticsearch-logs) - Logger which parses raw Gatling logs and sends them to the Elasticsearch.
+
 ### Community / Video Tutorials
 
 *   [`gatling` on Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-java+or+gatling-plugin)

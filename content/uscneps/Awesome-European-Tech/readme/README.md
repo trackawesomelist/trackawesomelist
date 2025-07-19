@@ -173,7 +173,6 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 
 ### Communication Tools
 
-*   [Alugha](https://alugha.com/) 🇩🇪 - Multilingual video hosting platform.
 *   [Element (Matrix)](https://element.io/) 🇬🇧 - Secure messaging via the Matrix protocol.
 *   [Ginlo](https://www.ginlo.net/) 🇩🇪 -Secure messaging app.
 *   [Jitsi](https://jitsi.org/) 🇫🇷 - Open-source video conferencing and chat.
@@ -210,7 +209,7 @@ Any contributions you make are **greatly appreciated**, please refer to the [con
 *   [ALTCHA](https://altcha.org) 🇨🇿 - Captcha and spam protection.
 *   [Bitdefender](https://www.bitdefender.com/) 🇷🇴 - Cybersecurity and antivirus software company.
 *   [ESET](https://www.eset.com/) 🇸🇰 - Cybersecurity and antivirus software company.
-*   [Focsec](https://www.focsec.com/) 🇪🇪 - IP Intelligence and VPN Detection API
+*   [Focsec](https://focsec.com/) 🇪🇪 - IP Intelligence and VPN Detection API
 *   [IPXO](https://www.ipxo.com/) 🇱🇹 - The network platform for IPv4 leasing, management, threat intelligence, and IPv6 capabilities.
 *   [Gemalto](https://en.wikipedia.org/wiki/Gemalto) 🇳🇱 - Smartcards and hardware security modules.
 *   [OPNsense](https://opnsense.org/) 🇳🇱 -  Firewall/router OS and (optionally) a custom computer to run on.

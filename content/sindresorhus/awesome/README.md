@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sindresorhus/awesome/week/README.md) / [Overview](/content/sindresorhus/awesome/readme/README.md) ]
 
+## [Jul 19, 2025](/content/2025/07/19/README.md)
+
+### Health and Social Science
+
+*   [Transgender (⭐47)](https://github.com/cvyl/awesome-transgender#readme) - Someone whose gender identity differs from their assigned birth sex.
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Front-End Development
@@ -836,7 +842,7 @@
 
 ### Miscellaneous
 
-*   [Credit Modeling (⭐141)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
+*   [Credit Modeling (⭐143)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 
 ## [Oct 28, 2020](/content/2020/10/28/README.md)
 

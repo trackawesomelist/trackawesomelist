@@ -12,6 +12,10 @@
 
 *   [WebAssembly (⭐11)](https://github.com/idematos/awesome-webassembly#readme) - A portable binary format for running code efficiently across platforms.
 
+### Health and Social Science
+
+*   [Transgender (⭐47)](https://github.com/cvyl/awesome-transgender#readme) - Someone whose gender identity differs from their assigned birth sex.
+
 ## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
 
 ### Miscellaneous
@@ -780,7 +784,7 @@
 
 ### Miscellaneous
 
-*   [Credit Modeling (⭐141)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
+*   [Credit Modeling (⭐143)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)
 

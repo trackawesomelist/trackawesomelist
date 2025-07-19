@@ -721,6 +721,7 @@
 *   [Digital Humanities (⭐300)](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
 *   [Lucid Dreams (⭐86)](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 *   [Neuroimaging (⭐16)](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
+*   [Transgender (⭐47)](https://github.com/cvyl/awesome-transgender#readme) - Someone whose gender identity differs from their assigned birth sex.
 
 ## Events
 
@@ -850,7 +851,7 @@
 *   [Naming (⭐1.3k)](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 *   [Web Archiving (⭐2.3k)](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 *   [WP-CLI (⭐205)](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
-*   [Credit Modeling (⭐141)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
+*   [Credit Modeling (⭐143)](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 *   [Ansible (⭐1.6k)](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open-source IT configuration management and automation platform.
 *   [Biological Visualizations (⭐201)](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 *   [QR Code (⭐126)](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.

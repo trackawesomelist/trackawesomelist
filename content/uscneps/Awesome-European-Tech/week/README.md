@@ -18,7 +18,7 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 ### Index / Cybersecurity
 
-*   [Focsec](https://www.focsec.com/) 🇪🇪 - IP Intelligence and VPN Detection API
+*   [Focsec](https://focsec.com/) 🇪🇪 - IP Intelligence and VPN Detection API
 *   [Vysion](https://byronlabs.io/vysion) 🇪🇸 - Cyber threat intelligence platform that monitors darknets and cybercrime forums to provide real-time insights into emerging threats, including ransomware activities.
 
 ### Index / DNS
@@ -466,7 +466,6 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 ### Index / Communication Tools
 
-*   [Alugha](https://alugha.com/) 🇩🇪 - Multilingual video hosting platform.
 *   [Ginlo](https://www.ginlo.net/) 🇩🇪 -Secure messaging app.
 *   [Mastodon](https://joinmastodon.org/) 🇩🇪 -  Open-source decentralized social network.
 *   [Olvid](https://www.olvid.io) 🇫🇷 - Privacy-first messaging with zero metadata.
