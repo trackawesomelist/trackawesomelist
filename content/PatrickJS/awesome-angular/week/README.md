@@ -55,6 +55,10 @@
 
 *   [ngx-foresight (⭐3)](https://github.com/akshykhade/ngx-foresight) - An Angular integration of [ForesightJS](https://foresightjs.com/) that offers a router preloading strategy by intelligently preloading lazy-loaded modules based on user intent predictions derived from mouse and keyboard interactions.
 
+### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [convex-angular (⭐1)](https://github.com/azhukau-dev/convex-angular) - The Angular client for Convex.
+
 ### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [tailwind-ng (⭐12)](https://github.com/william-mba/tailwind-ng) - An open source UI components library that aims to provide a seamless and robust integration of Tailwind CSS components with Angular to make building a great UI easier and joyful at any scale.

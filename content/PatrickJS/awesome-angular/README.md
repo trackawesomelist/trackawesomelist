@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/PatrickJS/awesome-angular/week/README.md) / [Overview](/content/PatrickJS/awesome-angular/readme/README.md) ]
 
+## [Jul 20, 2025](/content/2025/07/20/README.md)
+
+### Storage / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [convex-angular (⭐1)](https://github.com/azhukau-dev/convex-angular) - The Angular client for Convex.
+
 ## [Jul 19, 2025](/content/2025/07/19/README.md)
 
 ### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
