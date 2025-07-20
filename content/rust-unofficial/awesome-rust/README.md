@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Jul 20, 2025](/content/2025/07/20/README.md)
+
+### Libraries / Artificial Intelligence
+
+*   [BAML (⭐4.8k)](https://github.com/BoundaryML/baml) - A simple prompting language for building reliable AI workflows and agents. BAML's compiler is written in Rust!
+
 ## [Jul 19, 2025](/content/2025/07/19/README.md)
 
 ### Libraries / Scripting

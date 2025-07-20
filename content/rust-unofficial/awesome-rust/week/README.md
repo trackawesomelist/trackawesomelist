@@ -66,6 +66,10 @@ A curated list of Rust code and resources.
 
 *   [aleph-lang/aleph\_ollama (⭐0)](https://github.com/aleph-lang/aleph_ollama) \[[aleph\_ollama](https://crates.io/crates/aleph_ollama)] - AI-powered source code translation tool using local Ollama API.
 
+### Libraries / Artificial Intelligence
+
+*   [BAML (⭐4.8k)](https://github.com/BoundaryML/baml) - A simple prompting language for building reliable AI workflows and agents. BAML's compiler is written in Rust!
+
 ### Libraries / Bioinformatics
 
 *   [polars-bio (⭐69)](https://github.com/biodatageeks/polars-bio) - Blazing-Fast Bioinformatic Operations on Python DataFrames ![PyPI - Version](https://img.shields.io/pypi/v/polars-bio)

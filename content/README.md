@@ -24,6 +24,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [convex-angular (⭐1)](https://github.com/azhukau-dev/convex-angular) - The Angular client for Convex.
 
+#### [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Libraries / Artificial Intelligence
+
+*   [BAML (⭐4.8k)](https://github.com/BoundaryML/baml) - A simple prompting language for building reliable AI workflows and agents. BAML's compiler is written in Rust!
+
 ### [Jul 19, 2025](/content/2025/07/19/README.md)
 
 
@@ -63,19 +69,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Halo](https://www.halo.run) - A powerful and easy-to-use website building tool (documentation in Chinese). ([Demo](https://demo.halo.run), [Source Code (⭐36k)](https://github.com/halo-dev/halo), [Clients (⭐519)](https://github.com/halo-sigs/awesome-halo)) `GPL-3.0` `Java/Docker`
 
-#### [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
-
-##### Libraries / Scripting
-
-*   [cel-rust (⭐446)](https://github.com/cel-rust/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
-
-#### [7. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+#### [6. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ##### Software / Visual Testing
 
 *   [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
 
-#### [8. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [7. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Main National Search Engines
 
@@ -87,11 +87,17 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Find osint tool](https://find.osint-tool.com) - Searches multiple OSINT tools to find information across various sources.
 
-#### [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [8. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Form Controls / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-input-color (⭐2)](https://github.com/mr-samani/ngx-input-color) - `ngx-input-color` and `ngx-input-gradient` are powerful, customizable Angular components for color and gradient picking. They support multiple color formats, real-time preview, inline and input modes, and seamless integration with Angular forms.
+
+#### [9. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+##### Libraries / Scripting
+
+*   [cel-rust (⭐446)](https://github.com/cel-rust/cel-rust) \[[cel-interpreter](https://crates.io/crates/cel-interpreter)] - Common expression language parser and interpreter
 
 ### [Jul 18, 2025](/content/2025/07/18/README.md)
 
@@ -154,7 +160,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 3. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 250K 📝 07&#x2F;18 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 147K 📝 07&#x2F;15 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K 📝 07&#x2F;17 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-6. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 51K 📝 07&#x2F;19 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+6. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 51K 📝 07&#x2F;20 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 7. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 85K 📝 07&#x2F;14 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 8. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 75K 📝 07&#x2F;14 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
 9. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 07&#x2F;14 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
@@ -895,7 +901,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome R](/content/qinwf/awesome-R/README.md) - ([Source ⭐ 6K, 📝 24&#x2F;12&#x2F;06 ](https://github.com/qinwf/awesome-R)) - A curated list of awesome R packages, frameworks and software.
 - [Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md) - ([Source ⭐ 566, 📝 24&#x2F;12&#x2F;20 ](https://github.com/iamericfletcher/awesome-r-learning-resources)) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 - [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 14K, 📝 05&#x2F;20 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 51K, 📝 07&#x2F;19 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 51K, 📝 07&#x2F;20 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 - [Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md) - ([Source ⭐ 283, 📝 16&#x2F;08&#x2F;30 ](https://github.com/eleventigers/awesome-rxjava)) - Useful resources for working with RxJava
 - [Awesome Scala](/content/lauris/awesome-scala/README.md) - ([Source ⭐ 9K, 📝 24&#x2F;09&#x2F;19 ](https://github.com/lauris/awesome-scala)) - A community driven list of useful Scala libraries, frameworks and software.
 - [Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md) - ([Source ⭐ 266, 📝 07&#x2F;14 ](https://github.com/tindzk/awesome-scala-native)) -  Compilation of Scala Native resources and libraries 

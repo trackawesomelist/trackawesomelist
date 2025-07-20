@@ -1632,6 +1632,10 @@ This project is open source and available under the [MIT License](https://github
 
 *   [aleph-lang/aleph\_ollama (⭐0)](https://github.com/aleph-lang/aleph_ollama) \[[aleph\_ollama](https://crates.io/crates/aleph_ollama)] - AI-powered source code translation tool using local Ollama API.
 
+##### Libraries / Artificial Intelligence
+
+*   [BAML (⭐4.8k)](https://github.com/BoundaryML/baml) - A simple prompting language for building reliable AI workflows and agents. BAML's compiler is written in Rust!
+
 ##### Libraries / Bioinformatics
 
 *   [polars-bio (⭐69)](https://github.com/biodatageeks/polars-bio) - Blazing-Fast Bioinformatic Operations on Python DataFrames ![PyPI - Version](https://img.shields.io/pypi/v/polars-bio)
@@ -2925,89 +2929,25 @@ This project is open source and available under the [MIT License](https://github
 *   [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
 *   [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
 
-#### [92. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### APIs, Data, and ML
-
-*   [Maxim AI](https://getmaxim.ai/) - Simulate, evaluate, and observe your AI agents. Maxim is an end-to-end evaluation and observability platform, helping teams ship their AI agents reliably and >5x faster. Free forever for indie developers and small teams (3 seats).
-*   [JSONSwiss](https://www.jsonswiss.com/) - JSONSwiss is a powerful online JSON viewer, editor, and validator. Format, visualize, search, and manipulate JSON data with AI-powered repair, tree view, table view, code generation in 12+ programming languages, convert json to csv, xml, yaml, properties and more.
-*   [Mindee](https://developers.mindee.com) – Mindee is a powerful OCR software and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 500 pages per month.
-*   [Siterelic](https://siterelic.com/) - Siterelic API lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 100 API requests per month.
-*   [YourGPT CSV to JSON](https://yourgpt.ai/tools/csv-to-json) — A fast, free, and privacy-focused online tool to easily convert CSV files into structured JSON data right in your browser.
-
-##### CI and CD
-
-*   [Shipfox](https://shipfox.io/) - Run your GitHub actions 2x faster, 3.000 build minutes free each month.
-
-##### Testing
-
-*   [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - Check SSR (server-side rendering) for any URL by visually comparing the server rendered version of the page with the regular version.
-
-##### Translation Management
-
-*   [Localit](https://localit.io) – Fast, developer-friendly localization platform with seamless and free GitHub/GitLab integration, AI-assisted and manual translations, and a generous free plan (includes 2 users, 500 keys, and unlimited projects).
-
-##### Monitoring
-
-*   [MonitorMonk](https://monitormonk.com) - Minimalist uptime monitoring with beautiful status pages. The Forever Free plan offers HTTPS, Keyword, SSL and Response-time monitorming for 10 websites or api-endpoints, and provides 2 dashboards/status pages.
-
-##### Crash and Exception Handling
-
-*   [Bugsink](https://www.bugsink.com/) — Error-tracking with Sentry-SDK compatability. Free for up to 5,000 errors/month, or unlimited use when self-hosted.
-
-##### Education and Career Development
-
-*   [edX](https://www.edx.org/) - Offers access to over 4,000 free online courses from 250 leading institutions, including Harvard and MIT, specializing in computer science, engineering, and data science.
-
-##### Web Hosting
-
-*   [PandaStack](https://www.pandastack.io/) — An eco-system for developers includes web hosting in different formats (static web hosting, container based web hosting, wordpress and so many other managed apps available in couple of clicks ). One free web hosting (static or containered) and one free database with 100GB Bandwidth and 300 Build mins/month.
-
-##### DNS
-
-*   [LocalCert](https://localcert.net) - Free `.localcert.net` subdomains compatible with public CAs for use with-in private networks
-
-##### Managed Data Services
-
-*   [Couchbase Capella](https://www.couchbase.com/products/capella/) - deploy a forever free tier fully managed database cluster built for developers to create the next generation of applications across IoT to AI
-*   [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 1GB storage, 10 databases, integrated with Prisma ORM.
-
-##### Storage and Media Processing
-
-*   [Dropshare](https://dropsha.re) - Zero-knowledge file sharing. End-to-end encrypted file sharing with AES-256-GCM encryption, client-side processing, and zero server-side data access. Free uploads for files up to 1GB with no data collection.
-
-##### Design and UI
-
-*   [Tailark](https://tailark.com/) - A collection of modern, responsive, pre-built UI blocks designed for marketing websites.
-*   [Flows](https://flows.sh/) -- A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.
-
-##### IDE and Code Editing
-
-*   [ForgeCode](https://forgecode.dev/) — AI-enabled pair programmer for Claude, GPT4 Series, Grok, Deepseek, Gemini and all frontier models. Works natively with your CLI and integrates seamlessly with any IDE. Free tier includes basic AI model access with local processing.
-
-##### Analytics, Events and Statistics
-
-*   [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
-
-#### [93. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+#### [92. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ##### IDE
 
 *   [Jolt AI](https://usejolt.ai) - An AI codegen and chat tool for 100k to multi-million line codebases that automatically identifies context files, handles multi-file changes, and matches code styles.
 
-#### [94. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
+#### [93. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/README.md)
 
 ##### Other sources
 
 *   [The Global Findex](https://www.worldbank.org/en/publication/globalfindex) - The Global Findex has been published since 2011 but as of 2025 now includes Digital Connectivity Tracker
 
-#### [95. Awesome Python](/content/vinta/awesome-python/README.md)
+#### [94. Awesome Python](/content/vinta/awesome-python/README.md)
 
 ##### Package Management
 
 *   [uv (⭐62k)](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
-#### [96. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [95. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Domain Specific Language / Design Practises
 
@@ -3067,7 +3007,7 @@ This project is open source and available under the [MIT License](https://github
 *   [Machine learning-assisted molecular design and efficiency prediction for high-performance organic photovoltaic materials](https://www.science.org/doi/full/10.1126/sciadv.aay4275) - ***Science Advances***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=12392230644945701722)]. In the process of finding high-performance materials for organic photovoltaics (OPVs), it is meaningful if one can establish the relationship between chemical structures and photovoltaic properties even before synthesizing them. This work first establishes a database containing over 1700 donor materials reported in the literature. Through supervised learning, our machine learning (ML) models can build up the structure-property relationship and, thus, implement fast screening of OPV materials. The authors explore several expressions for molecule structures, i.e., images, ASCII strings, descriptors, and fingerprints, as inputs for various ML algorithms. It is found that fingerprints with length over 1000 bits can obtain high prediction accuracy. The reliability of the approach is further verified by screening 10 newly designed donor materials. Good consistency between model predictions and experimental outcomes is obtained. The result indicates that ML is a powerful tool to prescreen new OPV materials, thus accelerating the development of the OPV field.
 *   [Design of metalloproteins and novel protein folds using variational autoencoders](https://www.nature.com/articles/s41598-018-34533-1) - ***Scientific Reports***, 2018. \[[All Versions](https://scholar.google.com/scholar?cluster=18126187509308242959)]. The design of novel proteins has many applications but remains an attritional process with success in isolated cases. Meanwhile, deep learning technologies have exploded in popularity in recent years and are increasingly applicable to biology due to the rise in available data. This work attempts to link protein design and deep learning by using variational autoencoders to generate protein sequences conditioned on desired properties. Potential copper and calcium binding sites are added to non-metal binding proteins without human intervention and compared to a hidden Markov model. In another use case, a grammar of protein structures is developed and used to produce sequences for a novel protein topology. One candidate structure is found to be stable by molecular dynamics simulation. The ability of the model to confine the vast search space of protein sequences and to scale easily has the potential to assist in a variety of protein design tasks.
 
-#### [97. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+#### [96. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
 
 ##### Communication
 
@@ -3077,7 +3017,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [OpenShell (⭐7.9k)](https://github.com/Open-Shell/Open-Shell-Menu) - Restores traditional Start Menu interface. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
-#### [98. Awesome Math](/content/rossant/awesome-math/README.md)
+#### [97. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ##### Number Theory / Algebraic Number Theory
 
@@ -3087,7 +3027,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   📝 [Algebraic Methods](https://feog.github.io/AA11.pdf) - F. Oggier
 
-#### [99. Awesome List](/content/sindresorhus/awesome/README.md)
+#### [98. Awesome List](/content/sindresorhus/awesome/README.md)
 
 ##### Front-End Development
 
@@ -3097,7 +3037,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Transgender (⭐47)](https://github.com/cvyl/awesome-transgender#readme) - Someone whose gender identity differs from their assigned birth sex.
 
-#### [100. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
+#### [99. Awesome Gatling](/content/aliesbelik/awesome-gatling/README.md)
 
 ##### Tutorials
 
@@ -3116,7 +3056,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [`gatling` on Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-java+or+gatling-plugin)
 
-#### [101. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
+#### [100. Awesome European Tech](/content/uscneps/Awesome-European-Tech/README.md)
 
 ##### Index / Authenticators
 
@@ -3148,13 +3088,13 @@ This project is open source and available under the [MIT License](https://github
 
 *   [NordPass](https://nordpass.com/) 🇱🇹
 
-#### [102. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+#### [101. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ##### Typescript Project Starters
 
 *   [React Starter Kit (⭐23k)](https://github.com/kriasoft/react-starter-kit) – A full-stack boilerplate for building modern web applications with Bun, TypeScript, React, tRPC, Drizzle ORM, and Cloudflare Workers.
 
-#### [103. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [102. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Analytics
 
@@ -3235,7 +3175,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Kuvasz Uptime](https://kuvasz-uptime.dev) - Performant, stable uptime & SSL monitoring service that just works. ([Source Code (⭐137)](https://github.com/kuvasz-uptime/kuvasz)) `Apache-2.0` `Docker`
 
-#### [104. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+#### [103. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ##### Software / API Testing
 
@@ -3245,7 +3185,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Happo](https://happo.io) - Cross-browser screenshot and visual regression testing service, integrates with tools like Storybook, Playwright, and Cypress.
 
-#### [105. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [104. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Main National Search Engines
 
@@ -3376,7 +3316,7 @@ This project is open source and available under the [MIT License](https://github
 
 *   [Cipherstick](https://cipherstick.tech) - Free OSINT Puzzles - No Account Needed!
 
-#### [106. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [105. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -3441,6 +3381,70 @@ This project is open source and available under the [MIT License](https://github
 
 *   [simplici-auth-angular-ionic](https://www.npmjs.com/package/simplici-auth-angular-ionic) - A powerful Angular library designed to seamlessly integrate social authentication into your Ionic/Angular applications. It supports a wide range of providers including Google, Microsoft, Facebook, and Apple, with optimized compatibility for both web and native mobile platforms (iOS/Android) using Capacitor or Cordova.
 
+#### [106. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [Maxim AI](https://getmaxim.ai/) - Simulate, evaluate, and observe your AI agents. Maxim is an end-to-end evaluation and observability platform, helping teams ship their AI agents reliably and >5x faster. Free forever for indie developers and small teams (3 seats).
+*   [JSONSwiss](https://www.jsonswiss.com/) - JSONSwiss is a powerful online JSON viewer, editor, and validator. Format, visualize, search, and manipulate JSON data with AI-powered repair, tree view, table view, code generation in 12+ programming languages, convert json to csv, xml, yaml, properties and more.
+*   [Mindee](https://developers.mindee.com) – Mindee is a powerful OCR software and an API-first platform that helps developers automate applications' workflows by standardizing the document processing layer through data recognition for key information using computer vision and machine learning. The free tier offers 500 pages per month.
+*   [Siterelic](https://siterelic.com/) - Siterelic API lets you take screenshots, audit websites, TLS scan, DNS lookup, test TTFB, and more. The free plan offers 100 API requests per month.
+*   [YourGPT CSV to JSON](https://yourgpt.ai/tools/csv-to-json) — A fast, free, and privacy-focused online tool to easily convert CSV files into structured JSON data right in your browser.
+
+##### CI and CD
+
+*   [Shipfox](https://shipfox.io/) - Run your GitHub actions 2x faster, 3.000 build minutes free each month.
+
+##### Testing
+
+*   [SSR (Server-side Rendering) Checker](https://www.crawlably.com/ssr-checker/) - Check SSR (server-side rendering) for any URL by visually comparing the server rendered version of the page with the regular version.
+
+##### Translation Management
+
+*   [Localit](https://localit.io) – Fast, developer-friendly localization platform with seamless and free GitHub/GitLab integration, AI-assisted and manual translations, and a generous free plan (includes 2 users, 500 keys, and unlimited projects).
+
+##### Monitoring
+
+*   [MonitorMonk](https://monitormonk.com) - Minimalist uptime monitoring with beautiful status pages. The Forever Free plan offers HTTPS, Keyword, SSL and Response-time monitorming for 10 websites or api-endpoints, and provides 2 dashboards/status pages.
+
+##### Crash and Exception Handling
+
+*   [Bugsink](https://www.bugsink.com/) — Error-tracking with Sentry-SDK compatability. Free for up to 5,000 errors/month, or unlimited use when self-hosted.
+
+##### Education and Career Development
+
+*   [edX](https://www.edx.org/) - Offers access to over 4,000 free online courses from 250 leading institutions, including Harvard and MIT, specializing in computer science, engineering, and data science.
+
+##### Web Hosting
+
+*   [PandaStack](https://www.pandastack.io/) — An eco-system for developers includes web hosting in different formats (static web hosting, container based web hosting, wordpress and so many other managed apps available in couple of clicks ). One free web hosting (static or containered) and one free database with 100GB Bandwidth and 300 Build mins/month.
+
+##### DNS
+
+*   [LocalCert](https://localcert.net) - Free `.localcert.net` subdomains compatible with public CAs for use with-in private networks
+
+##### Managed Data Services
+
+*   [Couchbase Capella](https://www.couchbase.com/products/capella/) - deploy a forever free tier fully managed database cluster built for developers to create the next generation of applications across IoT to AI
+*   [Prisma Postgres](https://prisma.io/postgres) - Super fast hosted Postgres built on unikernels and running on bare metal, 1GB storage, 10 databases, integrated with Prisma ORM.
+
+##### Storage and Media Processing
+
+*   [Dropshare](https://dropsha.re) - Zero-knowledge file sharing. End-to-end encrypted file sharing with AES-256-GCM encryption, client-side processing, and zero server-side data access. Free uploads for files up to 1GB with no data collection.
+
+##### Design and UI
+
+*   [Tailark](https://tailark.com/) - A collection of modern, responsive, pre-built UI blocks designed for marketing websites.
+*   [Flows](https://flows.sh/) -- A fully customizable product adoption platform for building onboarding and user engagement experiences. Free for up to 250 monthly tracked users.
+
+##### IDE and Code Editing
+
+*   [ForgeCode](https://forgecode.dev/) — AI-enabled pair programmer for Claude, GPT4 Series, Grok, Deepseek, Gemini and all frontier models. Works natively with your CLI and integrates seamlessly with any IDE. Free tier includes basic AI model access with local processing.
+
+##### Analytics, Events and Statistics
+
+*   [Repohistory](https://repohistory.com) - Beautiful dashboard for tracking GitHub repo traffic history longer than 14 days. Free Plan allows users to monitor traffic for a single repository.
+
 ---
 
 - Next: [Jul 14 - Jul 20, 2025](&#x2F;content&#x2F;2025&#x2F;28&#x2F;README.md)
@@ -3452,7 +3456,7 @@ This project is open source and available under the [MIT License](https://github
 3. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 250K 📝 07&#x2F;18 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 4. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 147K 📝 07&#x2F;15 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 5. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K 📝 07&#x2F;17 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-6. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 51K 📝 07&#x2F;19 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+6. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 51K 📝 07&#x2F;20 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 7. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 85K 📝 07&#x2F;14 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 8. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 75K 📝 07&#x2F;14 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
 9. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 73K 📝 07&#x2F;14 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
@@ -4193,7 +4197,7 @@ This project is open source and available under the [MIT License](https://github
 - [Awesome R](/content/qinwf/awesome-R/README.md) - ([Source ⭐ 6K, 📝 24&#x2F;12&#x2F;06 ](https://github.com/qinwf/awesome-R)) - A curated list of awesome R packages, frameworks and software.
 - [Awesome R Learning Resources](/content/iamericfletcher/awesome-r-learning-resources/README.md) - ([Source ⭐ 566, 📝 24&#x2F;12&#x2F;20 ](https://github.com/iamericfletcher/awesome-r-learning-resources)) - A curated collection of free resources to help deepen your understanding of the R programming language. Updated regularly. Contributions encouraged via pull request (see contributing.md).
 - [Awesome Ruby](/content/markets/awesome-ruby/README.md) - ([Source ⭐ 14K, 📝 05&#x2F;20 ](https://github.com/markets/awesome-ruby)) - 💎 A collection of awesome Ruby libraries, tools, frameworks and software
-- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 51K, 📝 07&#x2F;19 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+- [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 51K, 📝 07&#x2F;20 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 - [Awesome Rxjava](/content/eleventigers/awesome-rxjava/README.md) - ([Source ⭐ 283, 📝 16&#x2F;08&#x2F;30 ](https://github.com/eleventigers/awesome-rxjava)) - Useful resources for working with RxJava
 - [Awesome Scala](/content/lauris/awesome-scala/README.md) - ([Source ⭐ 9K, 📝 24&#x2F;09&#x2F;19 ](https://github.com/lauris/awesome-scala)) - A community driven list of useful Scala libraries, frameworks and software.
 - [Awesome Scala Native](/content/tindzk/awesome-scala-native/README.md) - ([Source ⭐ 266, 📝 07&#x2F;14 ](https://github.com/tindzk/awesome-scala-native)) -  Compilation of Scala Native resources and libraries 
