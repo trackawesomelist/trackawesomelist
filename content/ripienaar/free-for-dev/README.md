@@ -6,6 +6,16 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 21, 2025](/content/2025/07/21/README.md)
+
+### Translation Management
+
+*   [AutoLocalise.com](https://www.autolocalise.com/) — Instantly localize without managing translation files. Free for up to 10,000 characters/month, unlimited languages.
+
+### Storage and Media Processing
+
+*   [Doradrop](https://doradrop.com) — Doradrop is a file-sharing platform with unlimited storage and zero ads. Share files instantly through secure — no login needed.
+
 ## [Jul 17, 2025](/content/2025/07/17/README.md)
 
 ### Crash and Exception Handling
@@ -915,10 +925,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Mobile App Distribution and Feedback
 
 *   [Loadly](https://loadly.io) - iOS & Android beta apps distribution service offers completely free services with unlimited downloads, high-speed downloads, and unlimited uploads.
-
-### Monitoring
-
-*   [Hydrozen.io](https://hydrozen.io) — Uptime monitoring & Status pages, Free plan: 10 Uptime monitor, 5 heartbeat monitors, 1 Domain monitor and 1 Statuspage free.
 
 ### Crash and Exception Handling
 
@@ -3109,12 +3115,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [haikei.app](https://www.haikei.app/) - Haikei is a web app to generate unique SVG shapes, backgrounds, and patterns – ready to use with your design tools and workflow.
 
-## [May 09, 2022](/content/2022/05/09/README.md)
-
-### Log Management
-
-*   [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, seven days archive, 50 MB/month
-
 ## [May 08, 2022](/content/2022/05/08/README.md)
 
 ### APIs, Data, and ML
@@ -3258,12 +3258,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Storage and Media Processing
 
 *   [getpantry.cloud](https://getpantry.cloud/) — A simple JSON data storage API perfect for personal projects, hackathons, and mobile apps!
-
-## [Mar 15, 2022](/content/2022/03/15/README.md)
-
-### Log Management
-
-*   [logz.io](https://logz.io/) — Free up to 1 GB/day, one day retention
 
 ## [Mar 13, 2022](/content/2022/03/13/README.md)
 
@@ -3583,10 +3577,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### CDN and Protection
 
 *   [UNPKG](https://unpkg.com/) — CDN for everything on npm
-
-### PaaS
-
-*   [Glitch](https://glitch.com/) — Free public hosting with code sharing and real-time collaboration features. The free plan has a 1000-hours/month limit.
 
 ### Web Hosting
 
@@ -4188,7 +4178,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Artifact Repos
 
 *   [Artifactory](https://jfrog.com/start-free/) - An artifact repository that supports numerous package formats like Maven, Docker, Cargo, Helm, PyPI, CocoaPods, and GitLFS. Includes package scanning tool XRay and CI/CD tool Pipelines (formerly Shippable) with a free tier of 2,000 CI/CD minutes per month.
-*   [packagecloud.io](https://packagecloud.io/users/new?plan=free_usage_plan) — Easy to use repository hosting for Maven, RPM, DEB, PyPi, NPM, and RubyGem packages (has free tier).
 
 ## [Jun 10, 2021](/content/2021/06/10/README.md)
 
@@ -5714,7 +5703,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [pyup.io](https://pyup.io) — Monitor Python dependencies for security vulnerabilities and update them automatically. Free for one private project, unlimited projects for open source.
 *   [qualys.com](https://www.qualys.com/community-edition) — Find web app vulnerabilities, audit for OWASP Risks
 *   [report-uri.io](https://report-uri.io/) — CSP and HPKP violation reporting
-*   [ringcaptcha.com](https://ringcaptcha.com/) — Tools to use the phone number as id, available for free
 *   [snyk.io](https://snyk.io) — Can find and fix known security vulnerabilities in your open-source dependencies. Unlimited tests and remediation for open-source projects. Limited to 200 tests/month for your private projects.
 *   [ssllabs.com](https://www.ssllabs.com/ssltest/) — Intense analysis of the configuration of any SSL web server
 *   [threatconnect.com](https://threatconnect.com) — Threat intelligence: It is designed for individual researchers, analysts, and organizations starting to learn about cyber threat intelligence. Free up to 3 Users
@@ -6218,10 +6206,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 *   [IPTrace](https://iptrace.io) — An embarrassingly simple API that provides your business with reliable and helpful IP geolocation data with 50,000 free lookups per month.
 
 ## [Aug 06, 2019](/content/2019/08/06/README.md)
-
-### Log Management
-
-*   [sematext.com](https://sematext.com/logsene) — Free up to 500 MB/day, seven days retention
 
 ### Crash and Exception Handling
 

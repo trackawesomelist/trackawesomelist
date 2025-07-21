@@ -1,12 +1,70 @@
 # Awesome List Updates on Jul 28 - Aug 03, 2025
 
-4 awesome lists updated this week.
+8 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [1. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+
+### Screen recording
+
+*   [Screenity](https://screenity.io/en/) - A powerful privacy-friendly screen recorder and annotation tool to make better videos for work, education, and more.
+*   [OBS](https://obsproject.com/) - Free and open source software for video recording and live streaming.
+
+### Office
+
+*   [Fileverse](https://fileverse.io) - Fileverse is building healthier alternatives with self-sovereignty, privacy by design, and standards compliance at its core.
+    *   [Ddocs](https://ddocs.new): privacy-enhancing alternative to google docs: onchain, end-to-end encrypted, and decentralized.
+    *   [dSheets](https://dsheets.new): decentralized alternative to Excel and Google Sheets.
+
+### Video Editing / Alternative clients/modifications of Discord:
+
+*   [OpenCut (⭐26k)](https://github.com/OpenCut-app/OpenCut) - \[beta] A free, open-source video editor for web, desktop, and mobile.
+
+## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+
+### Applications / Database
+
+*   [GlueSQL (⭐2.9k)](https://github.com/gluesql/gluesql) - Rust library for SQL databases that includes a parser (sqlparser-rs), an execution layer, and a variety of storage options, both persistent and non-persistent, all in one package. [![crates.io](https://img.shields.io/crates/v/gluesql.svg)](https://crates.io/crates/gluesql)
+
+## [3. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Translation Management
+
+*   [AutoLocalise.com](https://www.autolocalise.com/) — Instantly localize without managing translation files. Free for up to 10,000 characters/month, unlimited languages.
+
+### Storage and Media Processing
+
+*   [Doradrop](https://doradrop.com) — Doradrop is a file-sharing platform with unlimited storage and zero ads. Share files instantly through secure — no login needed.
+
+## [4. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+
+- : [Uiverse](https://uiverse.io)
+
+  Components: 👍
+
+  Voice & Tone: 👍
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐3.8k)](https://github.com/uiverse-io/galaxy)
+
+
+- : [Untitled UI](https://www.untitledui.com/react/)
+
+  Components: 👍
+
+  Voice & Tone: 
+
+  Designers Kit: 👍
+
+  Source code \*: [:octocat: (⭐704)](https://github.com/untitleduico/react/)
+
+
+
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -94,19 +152,19 @@
 
 *   [JSON Schema (⭐4.4k) (⭐4.4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [2. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Extensions and Utilities
 
 *   [Kinematic Character Controller (⭐1)](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [7. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-captcha-kit (⭐3)](https://github.com/edward124689/ngx-captcha-kit) - This kit simplifies CAPTCHA implementation with a single component and service, ensuring compatibility with Angular 20+ features like Signals and zoneless change detection.
 
-## [4. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Career and growth / Svelte
 

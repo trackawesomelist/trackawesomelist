@@ -6,6 +6,23 @@ Awesome Privacy - A curated list of services and alternatives that respect your 
 
 [ [Daily](/content/pluja/awesome-privacy/README.md) / Weekly / [Overview](/content/pluja/awesome-privacy/readme/README.md) ]
 
+## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
+
+### Screen recording
+
+*   [Screenity](https://screenity.io/en/) - A powerful privacy-friendly screen recorder and annotation tool to make better videos for work, education, and more.
+*   [OBS](https://obsproject.com/) - Free and open source software for video recording and live streaming.
+
+### Office
+
+*   [Fileverse](https://fileverse.io) - Fileverse is building healthier alternatives with self-sovereignty, privacy by design, and standards compliance at its core.
+    *   [Ddocs](https://ddocs.new): privacy-enhancing alternative to google docs: onchain, end-to-end encrypted, and decentralized.
+    *   [dSheets](https://dsheets.new): decentralized alternative to Excel and Google Sheets.
+
+### Video Editing / Alternative clients/modifications of Discord:
+
+*   [OpenCut (⭐26k)](https://github.com/OpenCut-app/OpenCut) - \[beta] A free, open-source video editor for web, desktop, and mobile.
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Analytics
