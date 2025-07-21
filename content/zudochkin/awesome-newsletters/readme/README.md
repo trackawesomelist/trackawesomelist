@@ -73,6 +73,7 @@ Thanks to all [contributors (⭐4.1k)](https://github.com/zudochkin/awesome-news
 *   [Blockchain / Cryptocurrencies](#blockchain--cryptocurrencies)
 *   [Technology in General](#technology-in-general)
 *   [Leadership](#leadership)
+*   [Career and Growth](#career-and-growth)
 *   [Marketing](#marketing)
 *   [Business/Finance](#businessfinance)
 *   [Awesome news](#awesome-news)
@@ -461,6 +462,24 @@ Thanks to all [contributors (⭐4.1k)](https://github.com/zudochkin/awesome-news
 *   [Engineering Leadership Snacks](https://engineeringleadership.kulkarniankita.com/). Weekly Snacks on Actionable Leadership tips, a Deep-dive and free Toolbox to excel as a Leader.
 *   [Engineering Leadership](https://newsletter.eng-leadership.com/). Weekly newsletter for becoming a great engineering leader.
 
+## Career and growth
+
+*   [High Growth Engineer](https://read.highgrowthengineer.com/)
+*   [The Developing Dev](https://open.substack.com/pub/ryanlpeterman)
+*   [Level up software engineering](https://open.substack.com/pub/levelupsoftwareengineering)
+*   [Engineer’s Codex](https://open.substack.com/pub/engineercodex)
+*   [Coding Challenges](https://open.substack.com/pub/codingchallenges)
+*   [EcZachly Data Engineering Newsletter](https://open.substack.com/pub/eczachly)
+*   [Techlead Mentor](https://open.substack.com/pub/ravirajachar)
+*   [The Caring Techie](https://open.substack.com/pub/thecaringtechie)
+*   [Refactoring](https://open.substack.com/pub/refactoring)
+*   [Strategize Your Career](https://open.substack.com/pub/strategizeyourcareer)
+*   [Saiyan Growth Letter](https://open.substack.com/pub/tigerabrodi)
+*   [Software Design: Tidy First?](https://open.substack.com/pub/tidyfirst)
+*   [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted)
+*   [Exaltitude Career Growth](https://www.exaltitude.io/newsletter)
+*   [A Life Engineered](https://newsletter.alifeengineered.com/)
+
 ## Marketing
 
 *   [tldrMarketing](https://tldrmarketing.com). Get the latest breaking news and trends about digital marketing without all the fluff.
@@ -495,7 +514,7 @@ Thanks to all [contributors (⭐4.1k)](https://github.com/zudochkin/awesome-news
 *   [HN Mail](https://hnmail.io). A customizable weekly newsletter that delivers Hacker News stories based on your interests.
 *   [Senior Mindset](https://seniormindset.com). Get a series of curated essays on the mindset of a senior software engineer.
 *   [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.
-*   [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
+*   [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news here.
 *   [Simply Explained](https://newsletter.simplyexplained.com/). Monthly newsletter to tickle your curiosity. Mostly science and technology news.
 
 ## Resilience

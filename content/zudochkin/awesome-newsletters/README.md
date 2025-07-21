@@ -6,6 +6,26 @@ A list of amazing Newsletters
 
 [ Daily / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
 
+## [Jul 21, 2025](/content/2025/07/21/README.md)
+
+### Career and growth / Svelte
+
+*   [High Growth Engineer](https://read.highgrowthengineer.com/)
+*   [The Developing Dev](https://open.substack.com/pub/ryanlpeterman)
+*   [Level up software engineering](https://open.substack.com/pub/levelupsoftwareengineering)
+*   [Engineer’s Codex](https://open.substack.com/pub/engineercodex)
+*   [Coding Challenges](https://open.substack.com/pub/codingchallenges)
+*   [EcZachly Data Engineering Newsletter](https://open.substack.com/pub/eczachly)
+*   [Techlead Mentor](https://open.substack.com/pub/ravirajachar)
+*   [The Caring Techie](https://open.substack.com/pub/thecaringtechie)
+*   [Refactoring](https://open.substack.com/pub/refactoring)
+*   [Strategize Your Career](https://open.substack.com/pub/strategizeyourcareer)
+*   [Saiyan Growth Letter](https://open.substack.com/pub/tigerabrodi)
+*   [Software Design: Tidy First?](https://open.substack.com/pub/tidyfirst)
+*   [Dev Interrupted](https://open.substack.com/users/89759436-dev-interrupted)
+*   [Exaltitude Career Growth](https://www.exaltitude.io/newsletter)
+*   [A Life Engineered](https://newsletter.alifeengineered.com/)
+
 ## [Jul 15, 2025](/content/2025/07/15/README.md)
 
 ### System Design / Svelte
@@ -390,7 +410,7 @@ A list of amazing Newsletters
 
 ### Awesome news / Svelte
 
-*   [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
+*   [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news here.
 
 ## [May 28, 2022](/content/2022/05/28/README.md)
 
