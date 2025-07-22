@@ -12,6 +12,14 @@
 
 *   [ngx-captcha-kit (⭐3)](https://github.com/edward124689/ngx-captcha-kit) - This kit simplifies CAPTCHA implementation with a single component and service, ensuring compatibility with Angular 20+ features like Signals and zoneless change detection.
 
+### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [alert-bar-library (⭐1)](https://github.com/npm-lahsiv/alert-bar-library) - Display contextual messages (success, info, warning, error) with clean, accessible styles that match modern web apps with this library.
+
+### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-superui (⭐1)](https://github.com/bhaimicrosoft/angular-superui) - A comprehensive, modern, and accessible Angular UI component library that transforms how you build Angular applications. Built with Tailwind CSS v4, TypeScript, and Angular 17+ Signals, it provides 50+ production-ready components with local-first architecture.
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)

@@ -6,6 +6,16 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 [ Daily / [Weekly](/content/adafruit/awesome-circuitpython/week/README.md) / [Overview](/content/adafruit/awesome-circuitpython/readme/README.md) ]
 
+## [Jul 22, 2025](/content/2025/07/22/README.md)
+
+### Frameworks / Educational
+
+*   The CircuitPython Online IDE [Version 2.1](https://urfdvw.github.io/circuitpython-online-ide-2/) - A browser based IDE for CircuitPython by River Wang
+
+### News / Educational
+
+*   [Adafruit's Fruit Jam is a Raspberry Pi Pico 2 powered, credit card sized computer](https://www.tomshardware.com/raspberry-pi/adafruits-fruit-jam-is-a-raspberry-pi-pico-2-powered-credit-card-sized-computer) - Tom's Hardware, February 5, 2025
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Art / Educational
@@ -65,10 +75,6 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 *   [Connecting Old to New with CircuitPython: Retrocomputer input devices on modern PCs](https://youtu.be/XhwI8ZHhbE8) - Jeff Epler at PyCon 2024
 
 ## [Mar 07, 2024](/content/2024/03/07/README.md)
-
-### Frameworks / Educational
-
-*   The CircuitPython Online IDE [Version 1](https://urfdvw.github.io/CircuitPython-online-IDE/) and [Version 2](https://urfdvw.github.io/CircuitPython-online-IDE2/) - A browser based IDE for CircuitPython by River Wang
 
 ### Newsletter / Educational
 

@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
+
+### Software / Automation
+
+*   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐2.4k)](https://github.com/dagu-org/dagu)) `GPL-3.0` `Go/Docker`
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Software / Analytics
@@ -1018,10 +1024,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [QST](https://qstonline.org) - Online assessment software. From a quick quiz on your phone to large scale, high stakes, proctored desktop testing, easy, secure and economical. ([Demo](https://qstonline.org/free_account.htm), [Source Code](https://sourceforge.net/projects/qstonline/)) `GPL-2.0` `Perl`
 
-### Software / Media Management
-
-*   [Dagu](https://dagu.readthedocs.io/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐2.4k)](https://github.com/dagu-dev/dagu)) `GPL-3.0` `Go/Docker`
-
 ### Software / Miscellaneous
 
 *   [Wavelog](https://www.wavelog.org) - Webbased Logging Software for Radio Amateurs. Enhanced QSO logging, statistics and maps for your browser. ([Demo](https://demo.wavelog.org), [Source Code (⭐290)](https://github.com/wavelog/wavelog)) `MIT` `PHP/Docker`
@@ -1193,7 +1195,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / URL Shorteners
 
-*   [Chhoto URL (⭐311)](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
+*   [Chhoto URL (⭐311)](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). ([Demo (⭐311)](https://github.com/SinTan1729/chhoto-url?tab=readme-ov-file#demo), [Clients (⭐311)](https://github.com/SinTan1729/chhoto-url/blob/main/TOOLS.md)) `MIT` `Rust/Docker`
 
 ### Software / Web Servers
 
@@ -2417,7 +2419,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Custom Communication Systems
 
-*   [Databag (⭐1.1k)](https://github.com/balzack/databag) - Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
+*   [Databag (⭐1.3k)](https://github.com/balzack/databag) - Federated, end-to-end encrypted messaging service for the web, iOS, and Android, supporting text, photos, video, and WebRTC video and audio calls. ([Demo](https://databag.coredb.org/#/create)) `Apache-2.0` `Docker`
 
 ### Software / Communication - SIP
 
@@ -2902,7 +2904,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Custom Communication Systems
 
-*   [SimpleX Chat (⭐8.9k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
+*   [SimpleX Chat (⭐9k)](https://github.com/simplex-chat/simplex-chat) - The most private and secure chat and applications platform - now with double ratchet E2E encryption. `AGPL-3.0` `Haskell`
 
 ### Software / Communication - Email - Webmail Clients
 
@@ -3773,6 +3775,9 @@ A list of Free Software network services and web applications which can be hoste
 ### Software / Note-taking & Editors
 
 *   [minimalist-web-notepad (⭐1.3k)](https://github.com/pereorga/minimalist-web-notepad) - Minimalist notepad.cc clone. ([Demo](https://notes.orga.cat/)) `Apache-2.0` `PHP`
+
+### Software / Wikis
+
 *   [Oddmuse](https://oddmuse.org/) - Simple wiki engine written in Perl. No database required. ([Source Code (⭐85)](https://github.com/kensanata/oddmuse)) `GPL-3.0` `Perl`
 
 ## [Oct 19 - Oct 25, 2020](/content/2020/42/README.md)

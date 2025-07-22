@@ -116,7 +116,7 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 *   [A helper for CircuitPython development with Atom (⭐4)](https://github.com/s-light/CircuitPython_Atom_helper) - A helper for the [Atom editor](https://atom.io/).
 *   [Microsoft Device Simulator Express (⭐177)](https://github.com/microsoft/vscode-python-devicesimulator) - Virtual Circuit Playground Express and CircuitPython programming in Visual Studio Code (no longer maintained).
 *   [PewPew workshops](https://pewpew.rtfd.io) - Materials, examples, libraries and hardware for running Python game programming and electronics workshops with a minimum of problems.
-*   The CircuitPython Online IDE [Version 1](https://urfdvw.github.io/CircuitPython-online-IDE/) and [Version 2](https://urfdvw.github.io/CircuitPython-online-IDE2/) - A browser based IDE for CircuitPython by River Wang
+*   The CircuitPython Online IDE [Version 2.1](https://urfdvw.github.io/circuitpython-online-ide-2/) - A browser based IDE for CircuitPython by River Wang
 
 ## Hardware
 
@@ -142,6 +142,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## News
 
+*   [Adafruit's Fruit Jam is a Raspberry Pi Pico 2 powered, credit card sized computer](https://www.tomshardware.com/raspberry-pi/adafruits-fruit-jam-is-a-raspberry-pi-pico-2-powered-credit-card-sized-computer) - Tom's Hardware, February 5, 2025
 *   [The Past, Present, and Future of CircuitPython](https://hackaday.com/2023/08/01/the-past-present-and-future-of-circuitpython/) - Hackaday interviews Limor "Ladyada" Fried about CircuitPython, August, 2023.
 *   [CircuitPython on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/) - Adafruit Blog posts discussing CircuitPython.
 *   [CircuitPython Show Episode 1: Kattni Rembor](https://www.circuitpythonshow.com/@circuitpythonshow/episodes/kattni-rembor) - Host Paul Cutler interviews CircuitPython team member Kattni Rembor, March 1, 2022.
@@ -271,5 +272,5 @@ Questions? We're happy to [help you to contribute on Discord](https://discord.co
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Last updated: May 28, 2025
+Last updated: July 21, 2025
 

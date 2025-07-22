@@ -6,6 +6,16 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 
 [ [Daily](/content/adafruit/awesome-circuitpython/README.md) / Weekly / [Overview](/content/adafruit/awesome-circuitpython/readme/README.md) ]
 
+## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
+
+### Frameworks / Educational
+
+*   The CircuitPython Online IDE [Version 2.1](https://urfdvw.github.io/circuitpython-online-ide-2/) - A browser based IDE for CircuitPython by River Wang
+
+### News / Educational
+
+*   [Adafruit's Fruit Jam is a Raspberry Pi Pico 2 powered, credit card sized computer](https://www.tomshardware.com/raspberry-pi/adafruits-fruit-jam-is-a-raspberry-pi-pico-2-powered-credit-card-sized-computer) - Tom's Hardware, February 5, 2025
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Art / Educational
@@ -60,10 +70,6 @@ A curated list of awesome CircuitPython guides, videos, libraries, frameworks, s
 *   [Cutting the USB Cord: Wirelessly Programming CircuitPython](https://www.youtube.com/watch?v=eiQ9RIt-cNM) - Scott Shawcroft at PyCascades 2024
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
-
-### Frameworks / Educational
-
-*   The CircuitPython Online IDE [Version 1](https://urfdvw.github.io/CircuitPython-online-IDE/) and [Version 2](https://urfdvw.github.io/CircuitPython-online-IDE2/) - A browser based IDE for CircuitPython by River Wang
 
 ### Newsletter / Educational
 

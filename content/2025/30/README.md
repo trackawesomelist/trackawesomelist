@@ -1,12 +1,40 @@
 # Awesome List Updates on Jul 28 - Aug 03, 2025
 
-8 awesome lists updated this week.
+12 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [1. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+
+### Frameworks / Educational
+
+*   The CircuitPython Online IDE [Version 2.1](https://urfdvw.github.io/circuitpython-online-ide-2/) - A browser based IDE for CircuitPython by River Wang
+
+### News / Educational
+
+*   [Adafruit's Fruit Jam is a Raspberry Pi Pico 2 powered, credit card sized computer](https://www.tomshardware.com/raspberry-pi/adafruits-fruit-jam-is-a-raspberry-pi-pico-2-powered-credit-card-sized-computer) - Tom's Hardware, February 5, 2025
+
+## [2. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Automation
+
+*   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐2.4k)](https://github.com/dagu-org/dagu)) `GPL-3.0` `Go/Docker`
+
+## [3. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+
+### Applications / Web
+
+*   [BookCars (⭐445)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
+
+## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+
+### Other / [Other](#other-1)
+
+*   [Cloud (IaC) Security for JetBrains IDEs](https://plugins.jetbrains.com/plugin/25413-cloud-iac-security) — Cloud (IaC) Security plugin for JetBrains IDEs. Performs real-time inspections of Docker & Kubernetes IaC with 50+ rules based on Docker image/build security best practices, Kubernetes Pod Security Standards, and NSA/CISA Kubernetes Hardening Guidance.
+
+## [5. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Screen recording
 
@@ -23,13 +51,13 @@
 
 *   [OpenCut (⭐26k)](https://github.com/OpenCut-app/OpenCut) - \[beta] A free, open-source video editor for web, desktop, and mobile.
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
 *   [GlueSQL (⭐2.9k)](https://github.com/gluesql/gluesql) - Rust library for SQL databases that includes a parser (sqlparser-rs), an execution layer, and a variety of storage options, both persistent and non-persistent, all in one package. [![crates.io](https://img.shields.io/crates/v/gluesql.svg)](https://crates.io/crates/gluesql)
 
-## [3. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Translation Management
 
@@ -39,7 +67,7 @@
 
 *   [Doradrop](https://doradrop.com) — Doradrop is a file-sharing platform with unlimited storage and zero ads. Share files instantly through secure — no login needed.
 
-## [4. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [8. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Uiverse](https://uiverse.io)
 
@@ -64,7 +92,7 @@
 
 
 
-## [5. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [9. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -152,19 +180,27 @@
 
 *   [JSON Schema (⭐4.4k) (⭐4.4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [6. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [10. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Extensions and Utilities
 
 *   [Kinematic Character Controller (⭐1)](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
 
-## [7. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [11. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [ngx-captcha-kit (⭐3)](https://github.com/edward124689/ngx-captcha-kit) - This kit simplifies CAPTCHA implementation with a single component and service, ensuring compatibility with Angular 20+ features like Signals and zoneless change detection.
 
-## [8. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+### Notifications / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [alert-bar-library (⭐1)](https://github.com/npm-lahsiv/alert-bar-library) - Display contextual messages (success, info, warning, error) with clean, accessible styles that match modern web apps with this library.
+
+### Tailwind CSS Based / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [angular-superui (⭐1)](https://github.com/bhaimicrosoft/angular-superui) - A comprehensive, modern, and accessible Angular UI component library that transforms how you build Angular applications. Built with Tailwind CSS v4, TypeScript, and Angular 17+ Signals, it provides 50+ production-ready components with local-first architecture.
+
+## [12. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Career and growth / Svelte
 
