@@ -156,23 +156,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 
 
-#### [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Translation Management
-
-*   [AutoLocalise.com](https://www.autolocalise.com/) — Instantly localize without managing translation files. Free for up to 10,000 characters/month, unlimited languages.
-
-##### Storage and Media Processing
-
-*   [Doradrop](https://doradrop.com) — Doradrop is a file-sharing platform with unlimited storage and zero ads. Share files instantly through secure — no login needed.
-
-#### [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+#### [5. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ##### Applications / Database
 
 *   [GlueSQL (⭐2.9k)](https://github.com/gluesql/gluesql) - Rust library for SQL databases that includes a parser (sqlparser-rs), an execution layer, and a variety of storage options, both persistent and non-persistent, all in one package. [![crates.io](https://img.shields.io/crates/v/gluesql.svg)](https://crates.io/crates/gluesql)
 
-#### [7. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
+#### [6. Awesome Privacy](/content/pluja/awesome-privacy/README.md)
 
 ##### Screen recording
 
@@ -189,19 +179,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [OpenCut (⭐26k)](https://github.com/OpenCut-app/OpenCut) - \[beta] A free, open-source video editor for web, desktop, and mobile.
 
-#### [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [7. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Other / [Other](#other-1)
 
 *   [Cloud (IaC) Security for JetBrains IDEs](https://plugins.jetbrains.com/plugin/25413-cloud-iac-security) — Cloud (IaC) Security plugin for JetBrains IDEs. Performs real-time inspections of Docker & Kubernetes IaC with 50+ rules based on Docker image/build security best practices, Kubernetes Pod Security Standards, and NSA/CISA Kubernetes Hardening Guidance.
 
-#### [9. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
+#### [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/README.md)
 
 ##### Applications / Web
 
 *   [BookCars (⭐445)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
 
-#### [10. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+#### [9. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ##### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -215,13 +205,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [angular-superui (⭐1)](https://github.com/bhaimicrosoft/angular-superui) - A comprehensive, modern, and accessible Angular UI component library that transforms how you build Angular applications. Built with Tailwind CSS v4, TypeScript, and Angular 17+ Signals, it provides 50+ production-ready components with local-first architecture.
 
-#### [11. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
-
-##### Software / Automation
-
-*   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐2.4k)](https://github.com/dagu-org/dagu)) `GPL-3.0` `Go/Docker`
-
-#### [12. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
+#### [10. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/README.md)
 
 ##### Frameworks / Educational
 
@@ -230,6 +214,30 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### News / Educational
 
 *   [Adafruit's Fruit Jam is a Raspberry Pi Pico 2 powered, credit card sized computer](https://www.tomshardware.com/raspberry-pi/adafruits-fruit-jam-is-a-raspberry-pi-pico-2-powered-credit-card-sized-computer) - Tom's Hardware, February 5, 2025
+
+#### [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### APIs, Data, and ML
+
+*   [DiffJSON](https://diffjson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
+
+##### Translation Management
+
+*   [AutoLocalise.com](https://www.autolocalise.com/) — Instantly localize without managing translation files. Free for up to 10,000 characters/month, unlimited languages.
+
+##### Education and Career Development
+
+*   [DevNet Academy](https://devnet-academy.com/) – Free, self-paced training for the Cisco DevNet Expert / CCIE Automation certification. Covers Python Click and Flask-RESTx.
+
+##### Storage and Media Processing
+
+*   [Doradrop](https://doradrop.com) — Doradrop is a file-sharing platform with unlimited storage and zero ads. Share files instantly through secure — no login needed.
+
+#### [12. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+
+##### Software / Automation
+
+*   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐2.4k)](https://github.com/dagu-org/dagu)) `GPL-3.0` `Go/Docker`
 
 ---
 
@@ -240,7 +248,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 1. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 382K 📝 07&#x2F;19 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 2. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 236K 📝 07&#x2F;22 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 3. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 250K 📝 07&#x2F;18 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
-4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K 📝 07&#x2F;21 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K 📝 07&#x2F;22 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 5. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 147K 📝 07&#x2F;15 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
 6. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 51K 📝 07&#x2F;21 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 7. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 85K 📝 07&#x2F;14 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -841,7 +849,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Colorful](/content/Siddharth11/Colorful/README.md) - ([Source ⭐ 1.2K, 📝 03&#x2F;14 ](https://github.com/Siddharth11/Colorful)) - A curated list of awesome resources to choose your next color scheme
 - [Discount for Student Dev](/content/AchoArnold/discount-for-student-dev/README.md) - ([Source ⭐ 3K, 📝 06&#x2F;06 ](https://github.com/AchoArnold/discount-for-student-dev)) - This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who are students
 - [Engineering Blogs](/content/kilimchoi/engineering-blogs/README.md) - ([Source ⭐ 30K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/kilimchoi/engineering-blogs)) - A curated list of engineering blogs
-- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K, 📝 07&#x2F;21 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 105K, 📝 07&#x2F;22 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [Guides](/content/NARKOZ/guides/README.md) - ([Source ⭐ 2.3K, 📝 07&#x2F;14 ](https://github.com/NARKOZ/guides)) - Design and development guides
 - [Mind Expanding Books](/content/hackerkid/Mind-Expanding-Books/README.md) - ([Source ⭐ 12K, 📝 24&#x2F;10&#x2F;03 ](https://github.com/hackerkid/Mind-Expanding-Books)) -  :books: Find your next book to read!
 - [Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md) - ([Source ⭐ 4.1K, 📝 04&#x2F;23 ](https://github.com/tortuvshin/open-source-flutter-apps)) - :iphone: List of open source Flutter applications :octocat:

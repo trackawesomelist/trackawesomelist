@@ -8,9 +8,17 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
 
+### APIs, Data, and ML
+
+*   [DiffJSON](https://diffjson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
+
 ### Translation Management
 
 *   [AutoLocalise.com](https://www.autolocalise.com/) — Instantly localize without managing translation files. Free for up to 10,000 characters/month, unlimited languages.
+
+### Education and Career Development
+
+*   [DevNet Academy](https://devnet-academy.com/) – Free, self-paced training for the Cisco DevNet Expert / CCIE Automation certification. Covers Python Click and Flask-RESTx.
 
 ### Storage and Media Processing
 
@@ -947,7 +955,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Analytics, Events and Statistics
 
-*   [MetricsWave](https://metricswave.com) — Privacy-friendly Google Analytics alternative for developers. Free plan allows 20k pageviews per month without credit card.
+*   [MetricsWave](https://metricswave.com) — Privacy-friendly Google Analytics alternative for developers. Free plan allows 1M pageviews per month without credit card required.
 
 ## [Apr 01 - Apr 07, 2024](/content/2024/14/README.md)
 

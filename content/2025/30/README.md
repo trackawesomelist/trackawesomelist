@@ -59,9 +59,17 @@
 
 ## [7. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
+### APIs, Data, and ML
+
+*   [DiffJSON](https://diffjson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
+
 ### Translation Management
 
 *   [AutoLocalise.com](https://www.autolocalise.com/) — Instantly localize without managing translation files. Free for up to 10,000 characters/month, unlimited languages.
+
+### Education and Career Development
+
+*   [DevNet Academy](https://devnet-academy.com/) – Free, self-paced training for the Cisco DevNet Expert / CCIE Automation certification. Covers Python Click and Flask-RESTx.
 
 ### Storage and Media Processing
 
