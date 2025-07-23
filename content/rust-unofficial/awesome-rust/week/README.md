@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [GlueSQL (⭐2.9k)](https://github.com/gluesql/gluesql) - Rust library for SQL databases that includes a parser (sqlparser-rs), an execution layer, and a variety of storage options, both persistent and non-persistent, all in one package. [![crates.io](https://img.shields.io/crates/v/gluesql.svg)](https://crates.io/crates/gluesql)
 
+### Libraries / Artificial Intelligence
+
+*   [ramsyana/RustTensor (⭐51)](https://github.com/ramsyana/RustTensor) - A learning-focused, high-performance tensor computation library built from scratch in Rust with automatic differentiation and CPU/CUDA backends.
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Applications
@@ -243,7 +247,7 @@ A curated list of Rust code and resources.
 
 ### Libraries / Data processing
 
-*   [cocoindex (⭐2.1k)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
+*   [cocoindex (⭐2.3k)](https://github.com/cocoindex-io/cocoindex) - ETL framework to build fresh index
 
 ### Libraries / Template engine
 
