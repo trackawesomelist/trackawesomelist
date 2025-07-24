@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/osmlab/awesome-openstreetmap/week/README.md) / [Overview](/content/osmlab/awesome-openstreetmap/readme/README.md) ]
 
+## [Jul 24, 2025](/content/2025/07/24/README.md)
+
+### Maps / Web Maps
+
+*   [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Tools / Browser Extensions

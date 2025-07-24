@@ -6,6 +6,12 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 [ [Daily](/content/uscneps/Awesome-European-Tech/README.md) / Weekly / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
+
+### Index / AI
+
+*   [Lumo](https://lumo.proton.me/guest)🇨🇭- The privacy-first AI assistant from Proton
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Index / Authenticators
@@ -52,7 +58,7 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 ### Index / AI
 
-*   [Trint](https://trint.com/) 🇬🇧 - AI SaaS transcription software with collaborative text editing and commenting tools, document creation with multiple transcription excerpts, and realtime + multi-language transcription capabilities. Specialized in providing services for news and media enterprises.
+*   [Trint](https://trint.com/) 🇬🇧 - AI SaaS transcription software with collaborative text editing, real-time multi-language transcription, and document creation. Specialized for news and media enterprises.
 
 ### Index / Cloud
 
