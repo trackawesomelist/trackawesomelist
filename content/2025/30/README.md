@@ -1,36 +1,64 @@
 # Awesome List Updates on Jul 28 - Aug 03, 2025
 
-17 awesome lists updated this week.
+20 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
+## [1. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+
+### Libraries
+
+*   [fp-filters (⭐18)](https://github.com/Oaxoa/fp-filters) - A curated collection of 130+ common-use filter functions.
+    Written in a functional programming style. Lightweight direct imports. Supports ES modules and CommonJS. 100% Unit
+    tested. +TS
+
+## [2. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+
+### Software / Miscellaneous
+
+*   [SIGNL4 – Mobile Alerting](https://www.signl4.com/iot-service-alerting/) - SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling – for your IoT projects.
+
+## [3. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+
+### Introductory / Big Lists
+
+*   [Complexity Zoo](https://complexityzoo.net/) - a wiki of complexity classes.
+
+### Lecture Videos Playlist / Monograph
+
+*   [Demaine, Abel & Chapman. Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/) - A junior introduction to discrete mathematics for computer scientists. - [Companion Textbook 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
+
+### Books / Monograph
+
+*   [Tu Delft. Delftse Foundations of Computation](https://books.open.tudelft.nl/home/catalog/book/211) - A textbook for a one quarter introductory course in theoretical computer science including logic, proof techniques, and set theory. It assumes no prerequisite other than basic programming.
+
+## [4. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
 
 ### Index / AI
 
 *   [Lumo](https://lumo.proton.me/guest)🇨🇭- The privacy-first AI assistant from Proton
 
-## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [Testpiler](https://furnacecreek.org/testpiler/) - Testpiler is an app that allows you to easily convert unit tests written in Swift from XCTest to the new Swift Testing framework.
 
-## [3. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [6. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Maps / Web Maps
 
 *   [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
 
-## [4. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [7. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Messaging
 
 *   [backlite (⭐102)](https://github.com/mikestefanello/backlite) - Type-safe, persistent, embedded task queues and background job runner w/ SQLite.
 
-## [5. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [8. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Calendar
 
@@ -59,7 +87,7 @@
 
     <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/raw/main/.src/timeprogress/timeprogress_showcase.png?raw=true" width="700"/>
 
-## [6. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [9. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Frameworks / Educational
 
@@ -69,25 +97,25 @@
 
 *   [Adafruit's Fruit Jam is a Raspberry Pi Pico 2 powered, credit card sized computer](https://www.tomshardware.com/raspberry-pi/adafruits-fruit-jam-is-a-raspberry-pi-pico-2-powered-credit-card-sized-computer) - Tom's Hardware, February 5, 2025
 
-## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
 *   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐2.4k)](https://github.com/dagu-org/dagu)) `GPL-3.0` `Go/Docker`
 
-## [8. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [11. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Applications / Web
 
 *   [BookCars (⭐445)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
 
-## [9. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [Cloud (IaC) Security for JetBrains IDEs](https://plugins.jetbrains.com/plugin/25413-cloud-iac-security) — Cloud (IaC) Security plugin for JetBrains IDEs. Performs real-time inspections of Docker & Kubernetes IaC with 50+ rules based on Docker image/build security best practices, Kubernetes Pod Security Standards, and NSA/CISA Kubernetes Hardening Guidance.
 
-## [10. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [13. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Screen recording
 
@@ -104,7 +132,7 @@
 
 *   [OpenCut (⭐26k)](https://github.com/OpenCut-app/OpenCut) - \[beta] A free, open-source video editor for web, desktop, and mobile.
 
-## [11. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -114,7 +142,7 @@
 
 *   [ramsyana/RustTensor (⭐51)](https://github.com/ramsyana/RustTensor) - A learning-focused, high-performance tensor computation library built from scratch in Rust with automatic differentiation and CPU/CUDA backends.
 
-## [12. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -132,7 +160,7 @@
 
 *   [Doradrop](https://doradrop.com) — Doradrop is a file-sharing platform with unlimited storage and zero ads. Share files instantly through secure — no login needed.
 
-## [13. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [16. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Uiverse](https://uiverse.io)
 
@@ -157,7 +185,7 @@
 
 
 
-## [14. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [17. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -245,13 +273,13 @@
 
 *   [JSON Schema (⭐4.4k) (⭐4.4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [15. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [18. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Extensions and Utilities
 
 *   [Kinematic Character Controller (⭐1)](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
 
-## [16. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [19. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -273,7 +301,7 @@
 
 *   [angular-superui (⭐1)](https://github.com/bhaimicrosoft/angular-superui) - A comprehensive, modern, and accessible Angular UI component library that transforms how you build Angular applications. Built with Tailwind CSS v4, TypeScript, and Angular 17+ Signals, it provides 50+ production-ready components with local-first architecture.
 
-## [17. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [20. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Career and growth / Svelte
 

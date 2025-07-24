@@ -1,10 +1,24 @@
 # Track Awesome Theoretical Computer Science Updates Daily
 
-The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
+Math & CS Awesome List, distinguished by proof and logic and technique
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 810 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 884 · 🏷️ Computer Science
 
 [ Daily / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
+
+## [Jul 24, 2025](/content/2025/07/24/README.md)
+
+### Introductory / Big Lists
+
+*   [Complexity Zoo](https://complexityzoo.net/) - a wiki of complexity classes.
+
+### Lecture Videos Playlist / Monograph
+
+*   [Demaine, Abel & Chapman. Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/) - A junior introduction to discrete mathematics for computer scientists. - [Companion Textbook 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
+
+### Books / Monograph
+
+*   [Tu Delft. Delftse Foundations of Computation](https://books.open.tudelft.nl/home/catalog/book/211) - A textbook for a one quarter introductory course in theoretical computer science including logic, proof techniques, and set theory. It assumes no prerequisite other than basic programming.
 
 ## [Mar 03, 2025](/content/2025/03/03/README.md)
 
@@ -98,7 +112,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Books / Monograph
 
-*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐938)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley for self-study](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf), and [Berkeley 2024](https://cs61a.org/) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
+*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐959)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley for self-study](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf), and [Berkeley 2024](https://cs61a.org/) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
 *   [Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap) - A book introducing both machine-checked proof with Coq Proof Assistant and approaches to formal reasoning about program correctness.
 *   [Lean Proof Assistant](https://lean-lang.org/documentation/) - Lean Proof Assistant.
 *   [Bengt. Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/book.pdf) - This book describes different type theories (theories of types, polymorphic and monomorphic sets, and subsets) from a computing science perspective.
@@ -113,7 +127,7 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Cheat Sheets / Lecture Videos Playlist
 
-*   [nLab](https://ncatlab.org/nlab/show/mathematics) & [Gratzer (⭐2.2k)](https://github.com/jozefg/learn-tt) - Logic, Math, Proof Assistants, and Type Theory.
+*   [nLab](https://ncatlab.org/nlab/show/mathematics) & [Gratzer (⭐2.3k)](https://github.com/jozefg/learn-tt) - Logic, Math, Proof Assistants, and Type Theory.
 
 ## [Jan 24, 2024](/content/2024/01/24/README.md)
 
@@ -267,8 +281,8 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 
 ### Cheat Sheets / Lecture Videos Playlist
 
-*   [Mathematics (⭐9.4k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
-*   [Math (⭐6.9k)](https://github.com/ossu/math) and [CS (⭐175k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
+*   [Mathematics (⭐9.8k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
+*   [Math (⭐7.6k)](https://github.com/ossu/math) and [CS (⭐188k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
 
 ## [Jun 06, 2022](/content/2022/06/06/README.md)
 
@@ -488,7 +502,6 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 *   [Goldreich. Modern Cryptography, Probabilistic Proofs and Pseudorandomness](https://www.wisdom.weizmann.ac.il/~oded/book1.html) - An introduction to the interwoven domains of cryptography, proofs and randomness.
 *   [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - An expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply.
 *   [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - A classic math-oriented introduction to computer science.
-*   [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - A textbook for a one quarter introductory course in theoretical computer science.
 *   [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - A series dedicated to math topics and their relevance to computer science.
 *   [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - A concise offered as an accessible reference on mathematical logic for the professional computer scientist.
 *   [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172) - It presents a careful selection of the material most needed by students in their first two years studying computer science.
@@ -501,10 +514,6 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 ### Lecture Videos Playlists / Monograph
 
 *   [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - A class taking a practical approach to proving problems can't be solved efficient.
-
-### Lecture Videos Playlist / Monograph
-
-*   [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - An introduction to discrete mathematics oriented toward computer science and engineering. - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 
 ### Lecture Notes / Monograph
 
@@ -609,6 +618,6 @@ The interdicplinary of Mathematics and Computer Science, Distinguisehed by its e
 ### Cheat Sheets / Lecture Videos Playlist
 
 *   [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
-*   [Algorithms (⭐22k)](https://github.com/tayllan/awesome-algorithms).
-*   [Cryptography (⭐6.1k)](https://github.com/sobolevn/awesome-cryptography).
-*   [Quantum Computing (⭐2.7k)](https://github.com/desireevl/awesome-quantum-computing).
+*   [Algorithms (⭐23k)](https://github.com/tayllan/awesome-algorithms).
+*   [Cryptography (⭐6.3k)](https://github.com/sobolevn/awesome-cryptography).
+*   [Quantum Computing (⭐2.9k)](https://github.com/desireevl/awesome-quantum-computing).

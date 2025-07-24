@@ -6,6 +6,14 @@
 
 [ Daily / [Weekly](/content/stoeffel/awesome-fp-js/week/README.md) / [Overview](/content/stoeffel/awesome-fp-js/readme/README.md) ]
 
+## [Jul 24, 2025](/content/2025/07/24/README.md)
+
+### Libraries
+
+*   [fp-filters (⭐18)](https://github.com/Oaxoa/fp-filters) - A curated collection of 130+ common-use filter functions.
+    Written in a functional programming style. Lightweight direct imports. Supports ES modules and CommonJS. 100% Unit
+    tested. +TS
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Resources / Articles

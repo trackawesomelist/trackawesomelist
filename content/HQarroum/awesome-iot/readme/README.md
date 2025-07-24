@@ -120,7 +120,7 @@ Inspired by the [awesome (⭐381k)](https://github.com/sindresorhus/awesome) lis
 *   [IOTA](https://iota.org/) - Open-source distributed ledger protocol for IoT. Uses a directed acyclic graph (DAG) instead of a blockchain.
 *   [MyController (⭐150)](https://github.com/mycontroller-org/mycontroller) - The Open Source Controller. MyController.org is an IoT automation controller for home, office or any place.
 *   [Mozilla WebThings](https://iot.mozilla.org/) - An open platform for monitoring and controlling devices over the web.
-*   [HStreamDB (⭐721)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+*   [HStreamDB (⭐722)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 *   [IoTSharp.Gateways (⭐25)](https://github.com/IoTSharp/Gateways) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with IoTSharp  IoT Platform using ModBus, OPC-UA, BACNetand MQTT protocols.
 
 #### Middlewares
@@ -165,7 +165,7 @@ Inspired by the [awesome (⭐381k)](https://github.com/sindresorhus/awesome) lis
 *   [SmartObject (⭐20)](https://github.com/PeterEB/smartobject) - A Smart Object Class that helps you with creating IPSO Smart Objects in your JavaScript applications. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 *   [United Manufacturing Hub (⭐317)](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source Manufacturing App Platform (combines various open source solutions and packages them in a Helm chart, for example, Nodered, VerneMQ and timescaleDB)
 *   [QuestDB (⭐16k)](https://github.com/questdb/questdb) - an open source time series database used for real-time analytics and high-performance applications. Supports high-throughput ingestion over InfluxDB line protocol and SQL as a query language.
-*   [Chaos Genius (⭐758)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
+*   [Chaos Genius (⭐760)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
 *   [Explore IoT Libraries](https://kandi.openweaver.com/explore/internet-of-things) - Discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi.
 *   [ThingsOn MQTT Bench (⭐17)](https://github.com/volkanalkilic/ThingsOn.MQTT.Bench) - ThingsOn MQTT Bench is a simple Cross-platform .NET Core benchmark tool for MQTT brokers. It measures the maximum number of messages that can be sent to the broker in a specified amount of time.
 
@@ -177,6 +177,7 @@ Inspired by the [awesome (⭐381k)](https://github.com/sindresorhus/awesome) lis
 *   [Gladys](https://gladysassistant.com) - Gladys is an open-source program that runs on the Raspberry Pi and integrates into the entire home network system.
 *   [authBroker (⭐8)](https://github.com/authbroker/authbroker) - A Keycloak HTTP/MQTT/CoAP IoT Brokers Adapter like Aedes.
 *   [MQTT File Uploader (⭐7)](https://github.com/volkanalkilic/Mqtt-File-Uploader) - MQTT File Uploader is a simple Cross-platform .NET Core application that watches local directories for changes and uploads new or modified files to an MQTT broker.
+*   [SIGNL4 – Mobile Alerting](https://www.signl4.com/iot-service-alerting/) - SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling – for your IoT projects.
 
 ## Protocols and Networks
 

@@ -1,8 +1,8 @@
 # Awesome Theoretical Computer Science Overview
 
-The interdicplinary of Mathematics and Computer Science, Distinguisehed by its emphasis on mathemtical technique and rigour.
+Math & CS Awesome List, distinguished by proof and logic and technique
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 810 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 884 · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / [Weekly](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
         *   [Lecture Notes](#theory_of_computation_introductory_lecture_notes) | [MOOC](#theory_of_computation_introductory_mooc) | [Books](#theory_of_computation_introductory_books) | [Puzzles and Problem Sets](#theory_of_computation_introductory_puzzles_and_problem_sets)
     *   [Computational Complexity](#theory_of_computation_computational_complexity)
         *   [Introductory](#theory_of_computation_computational_complexity_introductory)
-            *   [Lecture Videos Playlists](#theory_of_computation_computational_complexity_introductory_lecture_videos_playlists) | [Lecture Notes](#theory_of_computation_computational_complexity_introductory_lecture_notes) | [Books](#theory_of_computation_computational_complexity_introductory_books)
+            *   [Lecture Videos Playlists](#theory_of_computation_computational_complexity_introductory_lecture_videos_playlists) | [Lecture Notes](#theory_of_computation_computational_complexity_introductory_lecture_notes) | [Books](#theory_of_computation_computational_complexity_introductory_books) | [Big Lists](#theory_of_computation_computational_complexity_introductory_big_lists)
         *   [Communication Complexity](#theory_of_computation_computational_complexity_communication_complexity)
             *   [Lecture Notes](#theory_of_computation_computational_complexity_communication_complexity_lecture_notes) | [Books](#theory_of_computation_computational_complexity_communication_complexity_books)
         *   [Circuit Complexity](#theory_of_computation_computational_complexity_circuit_complexity)
@@ -173,6 +173,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 *   [Ogihara & Hemaspaandra. The Complexity Theory Companion](https://www.springer.com/gp/book/9783540674191) - An accessible, algorithmically oriented, research-centered, up-to-date guide to some of the most interesting techniques of complexity theory.
 *   [Papadimitriou. Computational Complexity](https://www.pearson.com/us/higher-education/program/Papadimitriou-Computational-Complexity/PGM94583.html) - Body of knowledge for studying the performance and limitations of computer algorithms. Among topics covered are: reductions and NP-completeness, cryptography and protocols, randomized algorithms, and approximability of optimization problems, circuit complexity, the structural aspects of the P=NP question, parallel computation, and the polynomial hierarchy.
 
+#### Big Lists<a name=theory_of_computation_computational_complexity_introductory_big_lists></a>
+
+*   [Complexity Zoo](https://complexityzoo.net/) - a wiki of complexity classes.
+
 ### Communication Complexity<a name=theory_of_computation_computational_complexity_communication_complexity></a>
 
 #### Lecture Notes<a name=theory_of_computation_computational_complexity_communication_complexity_lecture_notes></a>
@@ -243,7 +247,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ### Books<a name=programming_language_theory_basics_books></a>
 
-*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐938)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley for self-study](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf), and [Berkeley 2024](https://cs61a.org/) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
+*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐959)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley for self-study](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf), and [Berkeley 2024](https://cs61a.org/) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
 
 ## Introductory<a name=programming_language_theory_introductory></a>
 
@@ -436,13 +440,13 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 ### Lecture Videos Playlist<a name=math_and_logic_general_lecture_videos_playlist></a>
 
-*   [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - An introduction to discrete mathematics oriented toward computer science and engineering. - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
+*   [Demaine, Abel & Chapman. Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/) - A junior introduction to discrete mathematics for computer scientists. - [Companion Textbook 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 
 ### Books<a name=math_and_logic_general_books></a>
 
 *   [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - An expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply.
 *   [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - A classic math-oriented introduction to computer science.
-*   [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - A textbook for a one quarter introductory course in theoretical computer science.
+*   [Tu Delft. Delftse Foundations of Computation](https://books.open.tudelft.nl/home/catalog/book/211) - A textbook for a one quarter introductory course in theoretical computer science including logic, proof techniques, and set theory. It assumes no prerequisite other than basic programming.
 *   [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - A series dedicated to math topics and their relevance to computer science.
 *   [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - A concise offered as an accessible reference on mathematical logic for the professional computer scientist.
 *   [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172) - It presents a careful selection of the material most needed by students in their first two years studying computer science.
@@ -666,10 +670,10 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 
 # Related Lists<a name=related_lists></a>
 
-*   [Algorithms (⭐22k)](https://github.com/tayllan/awesome-algorithms).
-*   [Mathematics (⭐9.4k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
-*   [nLab](https://ncatlab.org/nlab/show/mathematics) & [Gratzer (⭐2.2k)](https://github.com/jozefg/learn-tt) - Logic, Math, Proof Assistants, and Type Theory.
-*   [Cryptography (⭐6.1k)](https://github.com/sobolevn/awesome-cryptography).
-*   [Quantum Computing (⭐2.7k)](https://github.com/desireevl/awesome-quantum-computing).
-*   [Math (⭐6.9k)](https://github.com/ossu/math) and [CS (⭐175k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
+*   [Algorithms (⭐23k)](https://github.com/tayllan/awesome-algorithms).
+*   [Mathematics (⭐9.8k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
+*   [nLab](https://ncatlab.org/nlab/show/mathematics) & [Gratzer (⭐2.3k)](https://github.com/jozefg/learn-tt) - Logic, Math, Proof Assistants, and Type Theory.
+*   [Cryptography (⭐6.3k)](https://github.com/sobolevn/awesome-cryptography).
+*   [Quantum Computing (⭐2.9k)](https://github.com/desireevl/awesome-quantum-computing).
+*   [Math (⭐7.6k)](https://github.com/ossu/math) and [CS (⭐188k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
 

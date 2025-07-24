@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/HQarroum/awesome-iot/week/README.md) / [Overview](/content/HQarroum/awesome-iot/readme/README.md) ]
 
+## [Jul 24, 2025](/content/2025/07/24/README.md)
+
+### Software / Miscellaneous
+
+*   [SIGNL4 – Mobile Alerting](https://www.signl4.com/iot-service-alerting/) - SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling – for your IoT projects.
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Software / Programming languages
@@ -104,7 +110,7 @@
 
 ### Software / Libraries and Tools
 
-*   [Chaos Genius (⭐758)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
+*   [Chaos Genius (⭐760)](https://github.com/chaos-genius/chaos_genius) - an open source ML powered analytics engine for outlier/anomaly detection and root cause analysis. Connect with sensor data, monitor and get alerted on abnormal behavior.
 
 ## [Nov 05, 2021](/content/2021/11/05/README.md)
 
@@ -161,7 +167,7 @@
 
 ### Software / Frameworks
 
-*   [HStreamDB (⭐721)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+*   [HStreamDB (⭐722)](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
 
 ### Software / Middlewares
 
