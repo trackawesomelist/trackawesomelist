@@ -1,12 +1,18 @@
 # Awesome List Updates on Jul 28 - Aug 03, 2025
 
-24 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+
+### Tools / Platforms
+
+*   [Terrateam (⭐810)](https://github.com/terrateamio/terrateam) - Open-source alternative to Terraform Cloud/Enterprise. GitOps-first and built for scale, security, and reliability across modern VCS providers.
+
+## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -51,25 +57,25 @@
 
 *   [SyncMethodGenerator (⭐66)](https://github.com/zompinc/sync-method-generator) – Generates synchronous methods from async ones to avoid code duplication.
 
-## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Method-specific
 
 *   *[Knoten und Kanten III. Soziale Netzwerkanalyse in Geschichts- und Politikforschung](https://www.transcript-verlag.de/978-3-8376-2742-8/knoten-und-kanten-iii)*, edited by Markus Gamper, Linda Reschke and Marten Düring, in German and English (2015).
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Everything to Markdown to LLMs
 
 *   [NuExtract 2.0 by NuMind](https://numind.ai/blog/outclassing-frontier-llms----nuextract-2-0-takes-the-lead-in-information-extraction): "Outclassing Frontier LLMs in Information Extraction"
 
-## [4. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [5. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
 *   [NebulaStream (⭐51)](https://github.com/nebulastream/nebulastream) \[C++] - High-performance, general-purpose, end-to-end data-management system for cloud-edge-sensor environments.
 
-## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [6. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
@@ -77,13 +83,13 @@
     Written in a functional programming style. Lightweight direct imports. Supports ES modules and CommonJS. 100% Unit
     tested. +TS
 
-## [6. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [7. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Miscellaneous
 
 *   [SIGNL4 – Mobile Alerting](https://www.signl4.com/iot-service-alerting/) - SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling – for your IoT projects.
 
-## [7. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [8. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Introductory / Big Lists
 
@@ -97,31 +103,31 @@
 
 *   [Tu Delft. Delftse Foundations of Computation](https://books.open.tudelft.nl/home/catalog/book/211) - A textbook for a one quarter introductory course in theoretical computer science including logic, proof techniques, and set theory. It assumes no prerequisite other than basic programming.
 
-## [8. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
+## [9. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
 
 ### Index / AI
 
 *   [Lumo](https://lumo.proton.me/guest)🇨🇭- The privacy-first AI assistant from Proton
 
-## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [Testpiler](https://furnacecreek.org/testpiler/) - Testpiler is an app that allows you to easily convert unit tests written in Swift from XCTest to the new Swift Testing framework.
 
-## [10. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [11. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Maps / Web Maps
 
 *   [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
 
-## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [12. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Messaging
 
 *   [backlite (⭐102)](https://github.com/mikestefanello/backlite) - Type-safe, persistent, embedded task queues and background job runner w/ SQLite.
 
-## [12. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [13. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Calendar
 
@@ -150,7 +156,7 @@
 
     <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/raw/main/.src/timeprogress/timeprogress_showcase.png?raw=true" width="700"/>
 
-## [13. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [14. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Frameworks / Educational
 
@@ -160,25 +166,25 @@
 
 *   [Adafruit's Fruit Jam is a Raspberry Pi Pico 2 powered, credit card sized computer](https://www.tomshardware.com/raspberry-pi/adafruits-fruit-jam-is-a-raspberry-pi-pico-2-powered-credit-card-sized-computer) - Tom's Hardware, February 5, 2025
 
-## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [15. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
 *   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐2.4k)](https://github.com/dagu-org/dagu)) `GPL-3.0` `Go/Docker`
 
-## [15. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [16. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Applications / Web
 
 *   [BookCars (⭐445)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
 
-## [16. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [17. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [Cloud (IaC) Security for JetBrains IDEs](https://plugins.jetbrains.com/plugin/25413-cloud-iac-security) — Cloud (IaC) Security plugin for JetBrains IDEs. Performs real-time inspections of Docker & Kubernetes IaC with 50+ rules based on Docker image/build security best practices, Kubernetes Pod Security Standards, and NSA/CISA Kubernetes Hardening Guidance.
 
-## [17. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [18. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Screen recording
 
@@ -195,7 +201,7 @@
 
 *   [OpenCut (⭐26k)](https://github.com/OpenCut-app/OpenCut) - \[beta] A free, open-source video editor for web, desktop, and mobile.
 
-## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -205,7 +211,7 @@
 
 *   [ramsyana/RustTensor (⭐51)](https://github.com/ramsyana/RustTensor) - A learning-focused, high-performance tensor computation library built from scratch in Rust with automatic differentiation and CPU/CUDA backends.
 
-## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [20. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -223,7 +229,7 @@
 
 *   [Doradrop](https://doradrop.com) — Doradrop is a file-sharing platform with unlimited storage and zero ads. Share files instantly through secure — no login needed.
 
-## [20. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [21. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Uiverse](https://uiverse.io)
 
@@ -248,7 +254,7 @@
 
 
 
-## [21. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [22. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -336,13 +342,13 @@
 
 *   [JSON Schema (⭐4.4k) (⭐4.4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [22. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [23. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Extensions and Utilities
 
 *   [Kinematic Character Controller (⭐1)](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
 
-## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [24. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -373,7 +379,7 @@
 
 *   [subsiphon (⭐1)](https://github.com/shobeiry/subsiphon) - A lightweight utility to manage multiple RxJS Subscriptions. It lets you add subscriptions via numeric indexes or named keys and provides easy `unsubscribe()` and `destroy()` methods to clean them up.
 
-## [24. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [25. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Career and growth / Svelte
 

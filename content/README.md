@@ -95,6 +95,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [SyncMethodGenerator (⭐66)](https://github.com/zompinc/sync-method-generator) – Generates synchronous methods from async ones to avoid code duplication.
 
+#### [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+
+##### Tools / Platforms
+
+*   [Terrateam (⭐810)](https://github.com/terrateamio/terrateam) - Open-source alternative to Terraform Cloud/Enterprise. GitOps-first and built for scale, security, and reliability across modern VCS providers.
+
 ### [Jul 24, 2025](/content/2025/07/24/README.md)
 
 
@@ -434,7 +440,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ### DevOps
 
 - [Awesome Kustomize](/content/aabouzaid/awesome-kustomize/README.md) - ([Source ⭐ 104, 📝 05&#x2F;09 ](https://github.com/aabouzaid/awesome-kustomize)) - A curated and collaborative list of awesome Kustomize resources
-- [Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md) - ([Source ⭐ 141, 📝 07&#x2F;14 ](https://github.com/virtualroot/awesome-opentofu)) - A curated list of OpenTofu tools, resources, and related projects.
+- [Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md) - ([Source ⭐ 141, 📝 07&#x2F;25 ](https://github.com/virtualroot/awesome-opentofu)) - A curated list of OpenTofu tools, resources, and related projects.
 
 ### Development Environment
 

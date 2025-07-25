@@ -1,12 +1,18 @@
 # Awesome List Updates on Jul 25, 2025
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
+## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+
+### Tools / Platforms
+
+*   [Terrateam (⭐810)](https://github.com/terrateamio/terrateam) - Open-source alternative to Terraform Cloud/Enterprise. GitOps-first and built for scale, security, and reliability across modern VCS providers.
+
+## [2. Awesome Dotnet](/content/quozd/awesome-dotnet/README.md)
 
 ### Application Frameworks
 
@@ -51,19 +57,19 @@
 
 *   [SyncMethodGenerator (⭐66)](https://github.com/zompinc/sync-method-generator) – Generates synchronous methods from async ones to avoid code duplication.
 
-## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
+## [3. Awesome Network Analysis](/content/briatte/awesome-network-analysis/README.md)
 
 ### Books / Method-specific
 
 *   *[Knoten und Kanten III. Soziale Netzwerkanalyse in Geschichts- und Politikforschung](https://www.transcript-verlag.de/978-3-8376-2742-8/knoten-und-kanten-iii)*, edited by Markus Gamper, Linda Reschke and Marten Düring, in German and English (2015).
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/README.md)
 
 ### Everything to Markdown to LLMs
 
 *   [NuExtract 2.0 by NuMind](https://numind.ai/blog/outclassing-frontier-llms----nuextract-2-0-takes-the-lead-in-information-extraction): "Outclassing Frontier LLMs in Information Extraction"
 
-## [4. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -77,7 +83,7 @@
 
 *   [subsiphon (⭐1)](https://github.com/shobeiry/subsiphon) - A lightweight utility to manage multiple RxJS Subscriptions. It lets you add subscriptions via numeric indexes or named keys and provides easy `unsubscribe()` and `destroy()` methods to clean them up.
 
-## [5. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
+## [6. Awesome Streaming](/content/manuzhang/awesome-streaming/README.md)
 
 ### Table of Contents / Streaming Engine
 

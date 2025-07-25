@@ -6,6 +6,12 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 [ [Daily](/content/virtualroot/awesome-opentofu/README.md) / Weekly / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
 
+## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
+
+### Tools / Platforms
+
+*   [Terrateam (⭐810)](https://github.com/terrateamio/terrateam) - Open-source alternative to Terraform Cloud/Enterprise. GitOps-first and built for scale, security, and reliability across modern VCS providers.
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Official
@@ -71,12 +77,6 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 *   [CNCF - OpenTofu Day Europe 2024](https://www.youtube.com/playlist?list=PLnVotLM2Qsyiw_6Pd_9WxRRLdrUAs3c1c)
 *   [CNCF - OpenTofu Day North America 2024](https://www.youtube.com/playlist?list=PLnVotLM2QsyhhCO5TgEUsAip601j3NUlm)
-
-## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
-
-### Tools / Platforms
-
-*   [Terrateam](https://terrateam.io) - Open-source alternative to Terraform Cloud/Enterprise, GitOps-first with native GitHub integration and designed for scale, security, and reliability.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
