@@ -6,6 +6,51 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 [ [Daily](/content/quozd/awesome-dotnet/README.md) / Weekly / [Overview](/content/quozd/awesome-dotnet/readme/README.md) ]
 
+## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
+
+### Application Frameworks
+
+*   [Positron-JS (⭐8)](https://github.com/Positron-JS/positron-web-view) - An advanced Web View (PositronWebView) with native JavaScript Context to access .NET APIs from hybrid applications inspired from capacitor/cordova.
+
+### Authentication and Authorization
+
+*   [Logibit Hawk (⭐36)](https://github.com/logibit/logibit.hawk/) - A F# [Hawk (⭐1.9k)](https://github.com/outmoded/hawk) authentication library
+*   [Logto (⭐10)](https://github.com/logto-io/csharp) - An IAM infrastructure for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML for authentication and authorization **\[$]\[Free for OSS]**
+
+### Compilers, Transpilers and Languages
+
+*   [ClojureCLR Next (⭐133)](https://github.com/dmiller/clojure-clr-next?tab=readme-ov-file) - Rewrite of Clojure CLR in F#
+*   [Eiffel](https://www.eiffel.org/doc/solutions/The_Eiffel_for_.NET_language) - Eiffel for .NET is the Eiffel programming language made available in the .NET environment.
+*   [Rust (⭐1.9k)](https://github.com/FractalFir/rustc_codegen_clr) - Experimental Rust compiler for .NET.
+*   [Wrapped Mono (⭐76)](https://github.com/FractalFir/wrapped_mono) - Mono runtime embedded in Rust.
+*   [Lua-C# (⭐546)](https://github.com/nuskey8/Lua-CSharp) - A Lua implementation on .NET in C#
+*   [PascalABC.NET (⭐409)](https://github.com/pascalabcnet/pascalabcnet) Pascal implementation on .NET.
+*   [Iron Python (⭐2.7k)](https://github.com/IronLanguages/ironpython3) - A Python 3 implementation that is integrated with the .NET framework.
+
+### Compression
+
+*   [FastLZMA2NET (⭐10)](https://github.com/kingsznhone/FastLZMA2Net) - A .NET Wrapper of [Fast LZMA2 Algorithm (⭐302)](https://github.com/conor42/fast-lzma2).
+
+### Feature management
+
+*   [OpenFeature](https://openfeature.dev) - OpenFeature is an open standard for feature flag management designed to provide a unified API and SDK, enabling developers to decouple feature flag evaluation from vendor-specific implementations. It promotes interoperability, flexibility, and standardization for managing feature flags across different tools and platforms.
+
+### Media / GUI - other
+
+*   [Sonora (⭐11)](https://github.com/ImAxel0/Sonora) - .NET Audio Framework for audio and MIDI playback, editing, and plugin integration.
+
+### Scheduling / GUI - other
+
+*   [NaturalCron (⭐12)](https://github.com/hugoj0s3/NaturalCron) – Human-readable scheduling library for .NET using natural-language expressions.
+
+### Web Servers / GUI - other
+
+*   [SimpleW](https://stratdev3.github.io/SimpleW) - Web server Library in .NET Core. Powerfully Simple, Blazingly Fast and Build-in components (API REST, JWT, Websockets, self-serialization, Opentelemetry).
+
+### Source Generator / GUI - other
+
+*   [SyncMethodGenerator (⭐66)](https://github.com/zompinc/sync-method-generator) – Generates synchronous methods from async ones to avoid code duplication.
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### ETL
@@ -90,11 +135,6 @@ A collection of awesome .NET libraries, tools, frameworks and software
 ### Authentication and Authorization
 
 *   [ASP.NET Core Identity (⭐37k)](https://github.com/dotnet/aspnetcore/) - New membership system for ASP.NET applications
-
-### Compilers, Transpilers and Languages
-
-*   [FSharp (⭐4.1k)](https://github.com/dotnet/fsharp) - The F# compiler and tools
-*   [Iron python (⭐2.7k)](https://github.com/IronLanguages/ironpython3) - A python 3 implementation that is integrated with the dot net framework.
 
 ### Database Drivers
 
@@ -202,7 +242,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Compilers, Transpilers and Languages
 
-*   [dotnet-repl (⭐796)](https://github.com/jonsequitur/dotnet-repl) - C# REPL (read-eval-print loop)
+*   [dotnet-repl (⭐796)](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive
 
 ### ORM / GUI - other
 
@@ -321,8 +361,8 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Compilers, Transpilers and Languages
 
-*   [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET. Execute compiled Java code (bytecode) on .NET Framework or .NET Core.
-*   [Lib.Harmony (⭐5.8k)](https://github.com/pardeike/Harmony) - Rewrite mono and C# methods at the runtime, Either write a method that will be executed, or edit the code of the method in IL, mainly used for game modding.
+*   [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL converter for .NET. Execute compiled Java code (bytecode) on .NET
+*   [Lib.Harmony (⭐5.8k)](https://github.com/pardeike/Harmony) - A library for patching, replacing, and decorating .NET and Mono methods during runtime, mainly used for game modding.
 
 ### Tools / GUI - other
 
@@ -369,10 +409,6 @@ A collection of awesome .NET libraries, tools, frameworks and software
 ### Office / GUI - other
 
 *   [OfficeIMO (⭐355)](https://github.com/EvotecIt/OfficeIMO) - OfficeIMO makes it easier for developers to create/modify Word (docx) files without having Microsoft Word or Office installed
-
-### Web Servers / GUI - other
-
-*   [SimpleW (⭐31)](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
@@ -1321,7 +1357,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Compilers, Transpilers and Languages
 
-*   [Hybridizer](https://www.altimesh.com/hybridizer-essentials/) - CIL (C#, VB.Net, F#) to CUDA compiler. **\[$]**
+*   [Hybridizer](https://www.altimesh.com/hybridizer-essentials/) - CIL (C#, VB.Net, F#, ClojureCLR, ...) to CUDA compiler. **\[$]**
 
 ### Continuous Integration
 
@@ -1397,7 +1433,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Compilers, Transpilers and Languages
 
-*   [Nemerle (⭐626)](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
+*   [Nemerle (⭐626)](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented, and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
 
 ### Documentation
 
@@ -1655,7 +1691,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Compilers, Transpilers and Languages
 
-*   [Mond (⭐378)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
+*   [Mond (⭐378)](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API
 
 ### ETL
 
@@ -2260,7 +2296,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Compilers, Transpilers and Languages
 
-*   [Fable (⭐3k)](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
+*   [Fable (⭐3k)](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, JSX, Python, Dart, and Rust transpiler
 
 ### Database
 
@@ -2548,7 +2584,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Compilers, Transpilers and Languages
 
-*   [ClojureCLR (⭐1.6k)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
+*   [ClojureCLR (⭐1.6k)](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR in C#
 
 ### Testing / GUI - other
 
@@ -2588,7 +2624,7 @@ A collection of awesome .NET libraries, tools, frameworks and software
 
 ### Compilers, Transpilers and Languages
 
-*   [F# (⭐2.2k)](https://github.com/fsharp/fsharp/) -  The F# compiler, core library and tools - a functional programming language for safer, faster, better code writing.
+*   [F# (⭐2.2k)](https://github.com/fsharp/fsharp/) - The F# programming language empowers everyone to write succinct, robust, and performant code
 
 ### Cryptography
 

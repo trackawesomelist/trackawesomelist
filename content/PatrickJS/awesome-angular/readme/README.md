@@ -657,6 +657,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [angular schematics pro](https://cyrilletuzi.gumroad.com/l/schematicspro) - Ultimate Angular code generation in Visual Studio Code.
 *   [vscode-angular-auto-import (⭐2)](https://github.com/ngx-rock/vscode-angular-auto-import) - Automatically suggests and inserts missing Angular component imports based on selectors used in templates.
 *   [falso (⭐3.3k)](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
+*   [ng-reactive-lint (⭐2)](https://github.com/Shrinivassab/ng-reactive-lint) - An Angular-specific linter enforcing optimal reactivity patterns with Signals and RxJS.
 
 #### Documentation tools
 
@@ -815,46 +816,47 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 #### Internationalization
 
-*   [transloco (⭐2.1k)](https://github.com/jsverse/transloco/) - 🚀 😍 The internationalization (i18n) library for Angular.
-*   [transloco-keys-manager (⭐213)](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
-*   [ngx-tolgee (⭐244)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
-*   [localess (⭐61)](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
-*   [angular-l10n (⭐380)](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
-*   [I18N (⭐77)](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for .NET, Angular and Delphi.
-*   [ng-extract-i18n-merge (⭐194)](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for Angular projects.
-*   [ngx-translate (⭐4.6k)](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
-*   [ngx-translate-module-loader (⭐36)](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`.
-*   [ngx-translate-multi-http-loader (⭐81)](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
 *   [angular-ecmascript-intl (⭐16)](https://github.com/json-derulo/angular-ecmascript-intl) - Contains pipes to transform internationalization data using Intl.\* browser APIs.
-*   [i18n-ally (⭐4.5k)](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
-*   [intl-tel-input-ng (⭐18)](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input (⭐8k)](https://github.com/jackocnr/intl-tel-input).
-*   [ng-intl (⭐9)](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
-*   [ngx-easy-i18n-js (⭐2)](https://github.com/gabrie-allaigre/ngx-easy-i18n-js) - The easy internationalization (i18n) library for Angular.
-*   [ngx-translate-lint (⭐34)](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
-*   [ngx-merge-json-translations (⭐1)](https://github.com/jonnomk/ngx-merge-json-translations) - This builder helps merge the `messages.json` file, after running extract-i18n, into target files using specified locales taking care to delete removed keys and add new ones.
-*   [ngx-i18n-extract-regex-cli (⭐2)](https://github.com/Celtian/ngx-i18n-extract-regex-cli) - Tool for extracting translations from Angular app using regex.
-*   [ngx-translate-version (⭐3)](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
-*   [ngx-signal-translate (⭐3)](https://github.com/adamcsk1/ngx-signal-translate) - A signal-driven translation service.
-*   [ngs-plural (⭐1)](https://github.com/andrei-shpileuski/ngs-plural) - A lightweight Angular library for handling pluralization in different languages using a pipe and a service. It simplifies the process of generating grammatically correct plural forms based on a numeric count and supports custom language rules.
-*   [ngx-translate-messageformat-compiler (⭐97)](https://github.com/lephyrus/ngx-translate-messageformat-compiler) - Compiler for `ngx-translate` that uses [messageformat.js (⭐1.7k)](https://github.com/messageformat/messageformat) to compile translations using ICU syntax for handling pluralization and gender.
-*   [ngx-g11n (⭐1)](https://github.com/DSI-HUG/ngx-g11n) - Angular helpers for internationalizing and localizing your application.
-*   [ng-translate-extensions (⭐1)](https://github.com/ressurectit/ng-translate-extensions) - Angular module extending ng2-translate.
-*   [ngx-translate-routes (⭐7)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
-*   [@transifex/angular (⭐46)](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [@transifex/angular](https://www.npmjs.com/package/@transifex/angular) library extension. This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
+*   [angular-intlayer](https://www.npmjs.com/package/angular-intlayer) - This [intlayer (⭐190)](https://github.com/aymericzip/intlayer) package allows you to internationalize your Angular application. It provides context providers and hooks for Angular internationalization.
+*   [angular-l10n (⭐380)](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
+*   [angular-translation-checker (⭐1)](https://github.com/ricardoferreirades/angular-translation-checker) - A comprehensive tool for analyzing translation keys in Angular projects using `ngx-translate`. Detect unused translations, missing keys, and keep your i18n files clean.
 *   [Crowdin](https://crowdin.com/) - Crowdin is AI-powered localization software for teams and businesses. Automate the translation of your content with 600+ apps and [integrations](https://store.crowdin.com/search?query=angular).
 *   [doloc](https://doloc.io/) - Instant translations in your [Angular](https://doloc.io/getting-started/frameworks/angular/) workflow.
-*   [ngx-i18n-tools (⭐3)](https://github.com/Ascor8522/ngx-i18n-tools) - A collection of tools to help with the translation of Angular applications, including an Excel and XLIFF converter, [ngx-xlf-xlsx (⭐3)](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
-*   [ngx-translate-db (⭐3)](https://github.com/kinleyrabgay/ngx-translate-db) - A lightweight, efficient Angular translation library that uses IndexedDB for offline storage. Perfect for applications that need to handle translations without network dependency.
-*   [ngx-glagolize (⭐2)](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
+*   [I18N (⭐77)](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for .NET, Angular and Delphi.
+*   [i18n-ally (⭐4.5k)](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
+*   [i18n-scanner-toolkit (⭐4)](https://github.com/58bcbedf47bd91439c/i18n-scanner-toolkit) - Extract, detect missing translations, and manage multilingual content with CSV export/import.
+*   [intl-tel-input-ng (⭐18)](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input (⭐8k)](https://github.com/jackocnr/intl-tel-input).
 *   [locale-translator (⭐2)](https://github.com/andreasnicolaou/locale-translator) - Translate any locale with the provided pipe or service.
-*   [tldraw-web-component (⭐6)](https://github.com/neosh11/tldraw-web-component) - Make [tldraw (⭐41k)](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
-*   [signal-translate (⭐3)](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
-*   [ngx-translate-cut (⭐13)](https://github.com/bartholomej/ngx-translate-cut) - Angular pipe for cutting translations ✂️ 🌍 (plugin for `@ngx-translate`).
-*   [ngx-signal-i18n (⭐1)](https://github.com/yagcioe/ngx-signal-i18n) - This package provides a typesafe and lazy-loaded internationalization (i18n) solution for Angular applications, built on top of signals for improved reactivity. It is compatible with zoneless Angular.
+*   [localess (⭐61)](https://github.com/Lessify/localess) - Localess is a powerful translation management tool and content management system built using Angular and Firebase. With Localess, you can easily manage and translate your website or app content into multiple languages, and it uses AI to translate faster.
+*   [ng-extract-i18n-merge (⭐194)](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for Angular projects.
+*   [ng-intl (⭐9)](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
+*   [ng-translate-extensions (⭐1)](https://github.com/ressurectit/ng-translate-extensions) - Angular module extending ng2-translate.
+*   [ngs-plural (⭐1)](https://github.com/andrei-shpileuski/ngs-plural) -  It simplifies the process of generating grammatically correct plural forms based on a numeric count and supports custom language rules.
+*   [ngx-easy-i18n-js (⭐2)](https://github.com/gabrie-allaigre/ngx-easy-i18n-js) - The easy internationalization (i18n) library for Angular.
+*   [ngx-g11n (⭐1)](https://github.com/DSI-HUG/ngx-g11n) - Angular helpers for internationalizing and localizing your application.
+*   [ngx-glagolize (⭐2)](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
+*   [ngx-i18n-extract-regex-cli (⭐2)](https://github.com/Celtian/ngx-i18n-extract-regex-cli) - Tool for extracting translations from Angular app using regex.
+*   [ngx-i18n-tools (⭐3)](https://github.com/Ascor8522/ngx-i18n-tools) - A collection of tools to help with the translation of Angular applications, including an Excel and XLIFF converter, [ngx-xlf-xlsx (⭐3)](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
+*   [ngx-merge-json-translations (⭐1)](https://github.com/jonnomk/ngx-merge-json-translations) - This builder helps merge the `messages.json` file, after running extract-i18n, into target files using specified locales taking care to delete removed keys and add new ones.
+*   [ngx-signal-i18n (⭐1)](https://github.com/yagcioe/ngx-signal-i18n) - This package provides a typesafe and lazy-loaded internationalization (i18n) solution for Angular applications, built on top of signals for improved reactivity. Compatible with zoneless.
+*   [ngx-signal-translate (⭐3)](https://github.com/adamcsk1/ngx-signal-translate) - A signal-driven translation service.
+*   [ngx-tolgee (⭐244)](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app thezy develop.
+*   [ngx-translate (⭐4.6k)](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
 *   [@OGS-GmbH/ngx-translate (⭐1)](https://github.com/OGS-GmbH/ngx-translate) - A lightweight, REST-based Angular i18n library designed for seamless internationalization with minimal setup. It supports dynamic language switching & flexible translation management via RESTful APIs.
-*   [angular-intlayer](https://www.npmjs.com/package/angular-intlayer) - This [intlayer (⭐190)](https://github.com/aymericzip/intlayer) package allows you to internationalize your Angular application. It provides context providers and hooks for Angular internationalization.
+*   [ngx-translate-cut (⭐13)](https://github.com/bartholomej/ngx-translate-cut) - Angular pipe for cutting translations ✂️ 🌍 (plugin for `@ngx-translate`).
+*   [ngx-translate-db (⭐3)](https://github.com/kinleyrabgay/ngx-translate-db) - A lightweight, efficient Angular translation library that uses IndexedDB for offline storage.
+*   [ngx-translate-lint (⭐34)](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
+*   [ngx-translate-messageformat-compiler (⭐97)](https://github.com/lephyrus/ngx-translate-messageformat-compiler) - Compiler for `ngx-translate` that uses [messageformat.js (⭐1.7k)](https://github.com/messageformat/messageformat) to compile translations using ICU syntax for handling pluralization and gender.
+*   [ngx-translate-module-loader (⭐36)](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`.
+*   [ngx-translate-multi-http-loader (⭐81)](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
+*   [ngx-translate-routes (⭐7)](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 *   [ngx-translate-toolkit (⭐2)](https://github.com/robmanganelly/ngx-translate-toolkit) - An Angular library designed to extend `@ngx-translate/core` and streamline the process of managing translations in large projects.
-*   [angular-translation-checker (⭐1)](https://github.com/ricardoferreirades/angular-translation-checker) - A comprehensive tool for analyzing translation keys in Angular projects using `ngx-translate`. Detect unused translations, missing keys, and keep your i18n files clean.
+*   [ngx-translate-version (⭐3)](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
+*   [signal-translate (⭐3)](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
+*   [tldraw-web-component (⭐6)](https://github.com/neosh11/tldraw-web-component) - Make [tldraw (⭐41k)](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
+*   [@transifex/angular (⭐46)](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [@transifex/angular](https://www.npmjs.com/package/@transifex/angular) library extension. This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
+*   [transloco (⭐2.1k)](https://github.com/jsverse/transloco/) - 🚀 😍 The internationalization (i18n) library for Angular.
+*   [transloco-keys-manager (⭐213)](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
 
 #### Module Federation
 
@@ -2033,31 +2035,32 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 #### RxJS
 
 *   [Official website](https://rxjs.dev/) - Reactive Extensions Library for JavaScript.
-*   [learn-rxjs (⭐3.7k)](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS.
-*   [rxjs-course (⭐392)](https://github.com/angular-university/rxjs-course) - RxJS course from Angular University
-*   [@mrOranger/RxJs (⭐1)](https://github.com/mrOranger/RxJs) - Theory with examples about the Reactive Programming paradigm, using the library RxJS.
-*   [redux-observable (⭐7.8k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
-*   [rxjs-challenge (⭐614)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
-*   [operators (⭐263)](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
-*   [until-destroy (⭐1.8k)](https://github.com/ngneat/until-destroy) - RxJS operator that unsubscribe from observables on destroy.
 *   [effects (⭐64)](https://github.com/ngneat/effects) - A framework-agnostic RxJS effects implementation.
+*   [eslint-plugin-rxjs-x (⭐28)](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) - A fork of [eslint-plugin-rxjs (⭐316)](https://github.com/cartant/eslint-plugin-rxjs) initially started to support the new ESLint flat config format that has since had numerous breaking changes and further improvements.
+*   [fork-join-settled (⭐2)](https://github.com/DKozachenko/fork-join-settled) - RxJS library which is analog of [Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled) method.
+*   [learn-rxjs (⭐3.7k)](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS.
+*   [ng-event-bus (⭐54)](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
+*   [ng-rxjs-safe-subscribe (⭐4)](https://github.com/piotrekn/ng-rxjs-safe-subscribe) - Implementation of Angular's repeatable OnDestroy pattern.
+*   [ngx-device-permission (⭐2)](https://github.com/PhilipSh/ngx-device-permission) - Angular library for handling device permissions (camera, microphone, geolocation, etc.) in a reactive way using RxJS.
 *   [ngx-observable-lifecycle (⭐34)](https://github.com/cloudnc/ngx-observable-lifecycle) - Library for observing the lifecycle of an (Ivy compiled) Angular component.
 *   [ngx-operators (⭐139)](https://github.com/nilsmehlhorn/ngx-operators) - RxJS operators for Angular.
-*   [subscribable-things (⭐44)](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
 *   [ngx-rxjs-zone-scheduler (⭐32)](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing RxJS schedulers to run some kind of work inside or outside of `NgZone`.
-*   [rxjs-broker (⭐26)](https://github.com/chrisguttandin/rxjs-broker) - An RxJS message broker for WebRTC DataChannels and WebSockets.
-*   [observable-webworker (⭐231)](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
-*   [ng-event-bus (⭐54)](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
-*   [rxjs-typewriter (⭐4)](https://github.com/omnedia/rxjs-typewriter) - A lightweight and easy-to-use NPM library for creating typewriter effects in your web applications. It uses RxJS to manage the typewriting effect, ensuring smooth and customizable animations.
 *   [ngx-safe-subscribe (⭐3)](https://github.com/Badisi/ngx-safe-subscribe) - Easy way to automatically unsubscribe from RxJS observables in Angular components.
-*   [rxjs-collection (⭐5)](https://github.com/henryruhs/rxjs-collection) - RxJS enhanced Array, Map, WeakMap, Set and WeakSet.
-*   [ng-rxjs-safe-subscribe (⭐4)](https://github.com/piotrekn/ng-rxjs-safe-subscribe) - Implementation of Angular's repeatable OnDestroy pattern.
-*   [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
-*   [eslint-plugin-rxjs-x (⭐28)](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) - A fork of [eslint-plugin-rxjs (⭐316)](https://github.com/cartant/eslint-plugin-rxjs) initially started to support the new ESLint flat config format that has since had numerous breaking changes and further improvements.
+*   [observable-webworker (⭐231)](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
+*   [operators (⭐263)](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
+*   [redux-observable (⭐7.8k)](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
+*   [@mrOranger/RxJs (⭐1)](https://github.com/mrOranger/RxJs) - Theory with examples about the Reactive Programming paradigm, using the library RxJS.
+*   [rxjs-broker (⭐26)](https://github.com/chrisguttandin/rxjs-broker) - An RxJS message broker for WebRTC DataChannels and WebSockets.
+*   [rxjs-challenge (⭐614)](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
+*   [rxjs-collection (⭐5)](https://github.com/henryruhs/rxjs-collection) - RxJS enhanced Array, Map, WeakMap, Set, and WeakSet.
 *   [rxjs-common (⭐30)](https://github.com/paddls/rxjs-common) - A collection of useful RxJS operators.
-*   [fork-join-settled (⭐2)](https://github.com/DKozachenko/fork-join-settled) - RxJS library which is analog of [Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled) method.
 *   [rxjs-conduit (⭐1)](https://github.com/Fasteroid/rxjs-conduit) - RxJS ReplaySubjects with with additional features to make reactive programming easier.
-*   [ngx-device-permission (⭐2)](https://github.com/PhilipSh/ngx-device-permission) - Angular library for handling device permissions (camera, microphone, geolocation, etc.) in a reactive way using RxJS.
+*   [rxjs-course (⭐392)](https://github.com/angular-university/rxjs-course) - RxJS course from Angular University.
+*   [rxjs-typewriter (⭐4)](https://github.com/omnedia/rxjs-typewriter) - A lightweight and easy-to-use NPM library for creating typewriter effects in your web applications. It uses RxJS to manage the typewriting effect, ensuring smooth and customizable animations.
+*   [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
+*   [subscribable-things (⭐44)](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
+*   [subsiphon (⭐1)](https://github.com/shobeiry/subsiphon) - A lightweight utility to manage multiple RxJS Subscriptions. It lets you add subscriptions via numeric indexes or named keys and provides easy `unsubscribe()` and `destroy()` methods to clean them up.
+*   [until-destroy (⭐1.8k)](https://github.com/ngneat/until-destroy) - RxJS operator that unsubscribe from observables on destroy.
 
 #### TypeScript
 

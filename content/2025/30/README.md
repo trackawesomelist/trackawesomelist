@@ -1,12 +1,75 @@
 # Awesome List Updates on Jul 28 - Aug 03, 2025
 
-20 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [1. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+
+### Application Frameworks
+
+*   [Positron-JS (⭐8)](https://github.com/Positron-JS/positron-web-view) - An advanced Web View (PositronWebView) with native JavaScript Context to access .NET APIs from hybrid applications inspired from capacitor/cordova.
+
+### Authentication and Authorization
+
+*   [Logibit Hawk (⭐36)](https://github.com/logibit/logibit.hawk/) - A F# [Hawk (⭐1.9k)](https://github.com/outmoded/hawk) authentication library
+*   [Logto (⭐10)](https://github.com/logto-io/csharp) - An IAM infrastructure for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML for authentication and authorization **\[$]\[Free for OSS]**
+
+### Compilers, Transpilers and Languages
+
+*   [ClojureCLR Next (⭐133)](https://github.com/dmiller/clojure-clr-next?tab=readme-ov-file) - Rewrite of Clojure CLR in F#
+*   [Eiffel](https://www.eiffel.org/doc/solutions/The_Eiffel_for_.NET_language) - Eiffel for .NET is the Eiffel programming language made available in the .NET environment.
+*   [Rust (⭐1.9k)](https://github.com/FractalFir/rustc_codegen_clr) - Experimental Rust compiler for .NET.
+*   [Wrapped Mono (⭐76)](https://github.com/FractalFir/wrapped_mono) - Mono runtime embedded in Rust.
+*   [Lua-C# (⭐546)](https://github.com/nuskey8/Lua-CSharp) - A Lua implementation on .NET in C#
+*   [PascalABC.NET (⭐409)](https://github.com/pascalabcnet/pascalabcnet) Pascal implementation on .NET.
+*   [Iron Python (⭐2.7k)](https://github.com/IronLanguages/ironpython3) - A Python 3 implementation that is integrated with the .NET framework.
+
+### Compression
+
+*   [FastLZMA2NET (⭐10)](https://github.com/kingsznhone/FastLZMA2Net) - A .NET Wrapper of [Fast LZMA2 Algorithm (⭐302)](https://github.com/conor42/fast-lzma2).
+
+### Feature management
+
+*   [OpenFeature](https://openfeature.dev) - OpenFeature is an open standard for feature flag management designed to provide a unified API and SDK, enabling developers to decouple feature flag evaluation from vendor-specific implementations. It promotes interoperability, flexibility, and standardization for managing feature flags across different tools and platforms.
+
+### Media / GUI - other
+
+*   [Sonora (⭐11)](https://github.com/ImAxel0/Sonora) - .NET Audio Framework for audio and MIDI playback, editing, and plugin integration.
+
+### Scheduling / GUI - other
+
+*   [NaturalCron (⭐12)](https://github.com/hugoj0s3/NaturalCron) – Human-readable scheduling library for .NET using natural-language expressions.
+
+### Web Servers / GUI - other
+
+*   [SimpleW](https://stratdev3.github.io/SimpleW) - Web server Library in .NET Core. Powerfully Simple, Blazingly Fast and Build-in components (API REST, JWT, Websockets, self-serialization, Opentelemetry).
+
+### Source Generator / GUI - other
+
+*   [SyncMethodGenerator (⭐66)](https://github.com/zompinc/sync-method-generator) – Generates synchronous methods from async ones to avoid code duplication.
+
+## [2. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+
+### Books / Method-specific
+
+*   *[Knoten und Kanten III. Soziale Netzwerkanalyse in Geschichts- und Politikforschung](https://www.transcript-verlag.de/978-3-8376-2742-8/knoten-und-kanten-iii)*, edited by Markus Gamper, Linda Reschke and Marten Düring, in German and English (2015).
+
+## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+
+### Everything to Markdown to LLMs
+
+*   [NuExtract 2.0 by NuMind](https://numind.ai/blog/outclassing-frontier-llms----nuextract-2-0-takes-the-lead-in-information-extraction): "Outclassing Frontier LLMs in Information Extraction"
+
+## [4. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+
+### Table of Contents / Streaming Engine
+
+*   [NebulaStream (⭐51)](https://github.com/nebulastream/nebulastream) \[C++] - High-performance, general-purpose, end-to-end data-management system for cloud-edge-sensor environments.
+
+## [5. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
@@ -14,13 +77,13 @@
     Written in a functional programming style. Lightweight direct imports. Supports ES modules and CommonJS. 100% Unit
     tested. +TS
 
-## [2. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [6. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Miscellaneous
 
 *   [SIGNL4 – Mobile Alerting](https://www.signl4.com/iot-service-alerting/) - SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling – for your IoT projects.
 
-## [3. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [7. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Introductory / Big Lists
 
@@ -34,31 +97,31 @@
 
 *   [Tu Delft. Delftse Foundations of Computation](https://books.open.tudelft.nl/home/catalog/book/211) - A textbook for a one quarter introductory course in theoretical computer science including logic, proof techniques, and set theory. It assumes no prerequisite other than basic programming.
 
-## [4. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
+## [8. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
 
 ### Index / AI
 
 *   [Lumo](https://lumo.proton.me/guest)🇨🇭- The privacy-first AI assistant from Proton
 
-## [5. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [9. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [Testpiler](https://furnacecreek.org/testpiler/) - Testpiler is an app that allows you to easily convert unit tests written in Swift from XCTest to the new Swift Testing framework.
 
-## [6. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [10. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Maps / Web Maps
 
 *   [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
 
-## [7. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [11. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Messaging
 
 *   [backlite (⭐102)](https://github.com/mikestefanello/backlite) - Type-safe, persistent, embedded task queues and background job runner w/ SQLite.
 
-## [8. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [12. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Calendar
 
@@ -87,7 +150,7 @@
 
     <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/raw/main/.src/timeprogress/timeprogress_showcase.png?raw=true" width="700"/>
 
-## [9. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [13. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Frameworks / Educational
 
@@ -97,25 +160,25 @@
 
 *   [Adafruit's Fruit Jam is a Raspberry Pi Pico 2 powered, credit card sized computer](https://www.tomshardware.com/raspberry-pi/adafruits-fruit-jam-is-a-raspberry-pi-pico-2-powered-credit-card-sized-computer) - Tom's Hardware, February 5, 2025
 
-## [10. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [14. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
 *   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐2.4k)](https://github.com/dagu-org/dagu)) `GPL-3.0` `Go/Docker`
 
-## [11. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+## [15. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Applications / Web
 
 *   [BookCars (⭐445)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [16. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [Cloud (IaC) Security for JetBrains IDEs](https://plugins.jetbrains.com/plugin/25413-cloud-iac-security) — Cloud (IaC) Security plugin for JetBrains IDEs. Performs real-time inspections of Docker & Kubernetes IaC with 50+ rules based on Docker image/build security best practices, Kubernetes Pod Security Standards, and NSA/CISA Kubernetes Hardening Guidance.
 
-## [13. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [17. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Screen recording
 
@@ -132,7 +195,7 @@
 
 *   [OpenCut (⭐26k)](https://github.com/OpenCut-app/OpenCut) - \[beta] A free, open-source video editor for web, desktop, and mobile.
 
-## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [18. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -142,7 +205,7 @@
 
 *   [ramsyana/RustTensor (⭐51)](https://github.com/ramsyana/RustTensor) - A learning-focused, high-performance tensor computation library built from scratch in Rust with automatic differentiation and CPU/CUDA backends.
 
-## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [19. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -160,7 +223,7 @@
 
 *   [Doradrop](https://doradrop.com) — Doradrop is a file-sharing platform with unlimited storage and zero ads. Share files instantly through secure — no login needed.
 
-## [16. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [20. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Uiverse](https://uiverse.io)
 
@@ -185,7 +248,7 @@
 
 
 
-## [17. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [21. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -273,17 +336,22 @@
 
 *   [JSON Schema (⭐4.4k) (⭐4.4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [18. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [22. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Extensions and Utilities
 
 *   [Kinematic Character Controller (⭐1)](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
 
-## [19. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [23. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+
+### Developer tools / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ng-reactive-lint (⭐2)](https://github.com/Shrinivassab/ng-reactive-lint) - An Angular-specific linter enforcing optimal reactivity patterns with Signals and RxJS.
 
 ### Internationalization / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [angular-translation-checker (⭐1)](https://github.com/ricardoferreirades/angular-translation-checker) - A comprehensive tool for analyzing translation keys in Angular projects using `ngx-translate`. Detect unused translations, missing keys, and keep your i18n files clean.
+*   [i18n-scanner-toolkit (⭐4)](https://github.com/58bcbedf47bd91439c/i18n-scanner-toolkit) - Extract, detect missing translations, and manage multilingual content with CSV export/import.
 
 ### Captcha / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -301,7 +369,11 @@
 
 *   [angular-superui (⭐1)](https://github.com/bhaimicrosoft/angular-superui) - A comprehensive, modern, and accessible Angular UI component library that transforms how you build Angular applications. Built with Tailwind CSS v4, TypeScript, and Angular 17+ Signals, it provides 50+ production-ready components with local-first architecture.
 
-## [20. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+### RxJS / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [subsiphon (⭐1)](https://github.com/shobeiry/subsiphon) - A lightweight utility to manage multiple RxJS Subscriptions. It lets you add subscriptions via numeric indexes or named keys and provides easy `unsubscribe()` and `destroy()` methods to clean them up.
+
+## [24. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Career and growth / Svelte
 

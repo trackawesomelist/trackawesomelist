@@ -6,6 +6,12 @@ A curated list of Generative AI tools, works, models, and references
 
 [ Daily / [Weekly](/content/filipecalegario/awesome-generative-deep-art/week/README.md) / [Overview](/content/filipecalegario/awesome-generative-deep-art/readme/README.md) ]
 
+## [Jul 25, 2025](/content/2025/07/25/README.md)
+
+### Everything to Markdown to LLMs
+
+*   [NuExtract 2.0 by NuMind](https://numind.ai/blog/outclassing-frontier-llms----nuextract-2-0-takes-the-lead-in-information-extraction): "Outclassing Frontier LLMs in Information Extraction"
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Generative AI history, timelines, maps, and definitions
