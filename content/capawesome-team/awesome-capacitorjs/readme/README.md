@@ -167,6 +167,7 @@ A curated list of awesome things related to Capacitor.
 *   [@capawesome-team/capacitor-android-dark-mode-support](https://capawesome.io/plugins/android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
 *   [@capawesome-team/capacitor-android-foreground-service](https://capawesome.io/plugins/android-foreground-service) - Capacitor plugin to run a foreground service on Android.
 *   [@capawesome-team/capacitor-audio-recorder](https://capawesome.io/plugins/audio-recorder/) - Capacitor plugin for seamless audio recording using the device's microphone.
+*   [@capawesome-team/capacitor-barometer](https://capawesome.io/plugins/barometer/) - Capacitor plugin to obtain the static air pressure, which is measured in hectopascals (hPa).
 *   [@capawesome-team/capacitor-biometrics](https://capawesome.io/plugins/biometrics/) - Capacitor plugin to request biometric authentication, such as using face recognition or fingerprint recognition.
 *   [@capawesome-team/capacitor-bluetooth-low-energy](https://capawesome.io/plugins/bluetooth-low-energy/) - Capacitor plugin for Bluetooth Low Energy (BLE) communication.
 *   [@capawesome-team/capacitor-contacts](https://capawesome.io/plugins/contacts/) - Capacitor plugin to read, write, or select device contacts.

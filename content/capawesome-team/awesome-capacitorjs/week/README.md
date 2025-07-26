@@ -6,6 +6,12 @@
 
 [ [Daily](/content/capawesome-team/awesome-capacitorjs/README.md) / Weekly / [Overview](/content/capawesome-team/awesome-capacitorjs/readme/README.md) ]
 
+## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
+
+### Plugins / Community Plugins
+
+*   [@capawesome-team/capacitor-barometer](https://capawesome.io/plugins/barometer/) - Capacitor plugin to obtain the static air pressure, which is measured in hectopascals (hPa).
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Plugins / Official Plugins

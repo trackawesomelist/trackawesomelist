@@ -6,17 +6,58 @@
 
 [ [Daily](/content/dlang-community/awesome-d/README.md) / Weekly / [Overview](/content/dlang-community/awesome-d/readme/README.md) ]
 
+## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
+
+### Official Websites
+
+*   [GitHub organization](https://github.com/dlang) - Official GitHub organization for D. Repository for all official D tools & code.
+*   [Issue tracker](https://github.com/dlang) – Official issue tracker for D. Older reports can be found in the [archived tracker](https://issues.dlang.org/).
+*   [Language specification](https://dlang.org/spec/spec.html) - The D programming language specification.
+
+### People
+
+*   **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that make D awesome.
+
+### Events
+
+*   [Beerconf](https://wiki.dlang.org/Beerconf) - A casual, monthly virtual meetup for D community members.
+
+### Blogs
+
+*   [GTK-D coding](https://web.archive.org/web/20241201013031/https://gtkdcoding.com/) - Simple examples of how to use GtkD to build GUI applications.
+
+### Compilers
+
+*   [DMD (⭐3.1k)](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
+*   [LDC (⭐1.3k)](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
+*   [GDC (⭐359)](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
+
+### Alternative / WIP Compilers
+
+*   [SDC (⭐258)](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler. Written in D. Grows Smarter every day.
+*   [OpenD](https://opendlang.org/index.html) - A fork of the D language with built-in libraries.
+
+### GUI Libraries
+
+*   [microui-D (⭐7)](https://github.com/Kapendev/microui-d) - A tiny immediate-mode UI library.
+
+### Cryptography / Language Processing
+
+*   [Botan (⭐90)](https://github.com/etcimon/botan) - Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.
+*   [OpenSSL (⭐47)](https://github.com/D-Programming-Deimos/openssl) - D version of the C headers for OpenSSL.
+*   [Crypto (⭐33)](https://github.com/shove70/crypto) - A D Library of encryption, decryption, encode, hash, and message digital signatures.
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Core Utilities
 
-*   [NuMem (⭐31)](https://github.com/Inochi2D/numem) - No-GC memory managment utilities for DLang.
+*   [NuMem (⭐31)](https://github.com/Inochi2D/numem) - No-GC memory management utilities for DLang.
 *   [NuLib (⭐4)](https://github.com/Inochi2D/nulib) - D "standard" library built ontop of numem.
 *   [Joka (⭐11)](https://github.com/Kapendev/joka) - A nogc utility library.
 
 ### Web Frameworks
 
-*   [Apache Thrift](https://code.dlang.org/packages/apache-thrift) - A lightweight, language-independent, featureful RPC framework.  Thrift provides clean abstractions for data transport, data serialization, code generation, and application level processing. [Apache Thrift Page](https://thrift.apache.org/)
+*   [Apache Thrift](https://code.dlang.org/packages/apache-thrift) - A lightweight, language-independent, featureful RPC framework. Thrift provides clean abstractions for data transport, data serialization, code generation, and application level processing. [Apache Thrift Page](https://thrift.apache.org/)
 
 ### Data Serialization
 
@@ -135,7 +176,7 @@
 
 ### Getting Help
 
-*   [D on Discord](https://discord.gg/invite/bMZk9Q4) - Another very active community for D conversations and question.
+*   [D on Discord](https://discord.gg/invite/bMZk9Q4) - Another very active community for D discussions and questions.
 
 ### People
 
@@ -151,7 +192,7 @@
 
 ### Data Serialization
 
-*   [fast.json (⭐111)](https://github.com/etcimon/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
+*   [fast.json (⭐111)](https://github.com/etcimon/fast) - A library for D that aims to provide the fastest possible implementation of some every day routines.
 
 ### Game Libraries
 
@@ -164,13 +205,13 @@
 ### Machine Learning
 
 *   [grain2 (⭐7)](https://github.com/ShigekiKarita/grain2) - Autograd and GPGPU library for dynamic neural networks in D
-*   [tfd (⭐33)](https://github.com/ShigekiKarita/tfd) -  Tensorflow wrapper for D
+*   [tfd (⭐33)](https://github.com/ShigekiKarita/tfd) - Tensorflow wrapper for D
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
 ### Database Clients
 
-*   [libpb (⭐6)](https://github.com/Hax-io/libpb) - INteract with a PocketBase database
+*   [libpb (⭐6)](https://github.com/Hax-io/libpb) - Interact with a PocketBase database
 
 ### CLI Libraries
 
@@ -179,12 +220,6 @@
 ### Logging / Language Processing
 
 *   [dlog (⭐1)](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
-
-## [Sep 19 - Sep 25, 2022](/content/2022/38/README.md)
-
-### WIP Compilers
-
-*   [sdc (⭐258)](https://github.com/snazzy-d/SDC) - The Snazzy D Compiler. Written in D. Grows Smarter every day.
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
 
@@ -248,13 +283,12 @@
 
 ## [Mar 15 - Mar 21, 2021](/content/2021/11/README.md)
 
-### Official Website
+### Official Websites
 
 *   [dlang.org](https://dlang.org) - Official website for D.
-*   [wiki.dlang.org](https://wiki.dlang.org) - Official Wiki for D.
-*   [code.dlang.org](https://code.dlang.org) - Offical Library/Module Registry for D.
-*   [forum.dlang.org](https://forum.dlang.org/) - Official forum. Many interesting discussions occurring on a daily basis.
-*   [Language Specification](https://dlang.org/spec/spec.html) - D programming language specification.
+*   [wiki.dlang.org](https://wiki.dlang.org) - Official wiki for D.
+*   [forum.dlang.org](https://forum.dlang.org/) - Official forum for D. Many interesting discussions occurring on a daily basis.
+*   [code.dlang.org](https://code.dlang.org) - Official library registry for D.
 
 ### People
 
@@ -262,7 +296,7 @@
 
 ### Events
 
-*   [DConf](https://dconf.org/) - the premier event where D luminaries exchange knowledge, insight, and inspiration on everything related to the D language and its ecosystem.
+*   [DConf](https://dconf.org/) - The premier event where D luminaries exchange knowledge, insight, and inspiration on everything related to the D language and its ecosystem.
 
 ### Organizations
 
@@ -271,7 +305,7 @@
 ### Books
 
 *   [TDPL](https://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) - *The D Programming Language* by Andrei Alexandrescu.
-*   [Programming in D](https://ddili.org/ders/d.en/index.html) - A very detailed book about programming in D by Ali Çehreli  covering many areas of the language. Has a free online version and is suitable for beginners.
+*   [Programming in D](https://ddili.org/ders/d.en/index.html) - A very detailed book about programming in D by Ali Çehreli covering many areas of the language. Has a free online version and is suitable for beginners.
 *   [D Cookbook](https://www.packtpub.com/product/d-cookbook/9781783287215) - A recipe-packed reference guide filled with practical tasks that are concisely explained to develop and broaden the user's abilities with the D programming language. by Adam D. Ruppe. Here is an interesting [review of the book](https://www.cppstories.com/2014/08/review-of-d-cookbook/).
 *   [Learning D](https://www.packtpub.com/product/learning-d/9781783552481) - This book is intended for those with some background in a C-family language who want to learn how to apply their knowledge and experience to D. (...) This book will help you get up to speed with the language and avoid common pitfalls that arise when translating C-family experience to D.
 *   [D Web Development](https://www.packtpub.com/product/d-web-development/9781785288890) - Whether you are new to the world of D, or already have developed applications in D, or if you want to leverage the power of D for web development, then this book is ideal for you.
@@ -287,7 +321,6 @@
 
 *   [This week in D](https://dpldocs.info/this-week-in-d/Blog.html) - A weekly overview of activity in the D community and brief advice columns to help you get the most out of the D Programming Language.
 *   [D Idioms](https://p0nce.github.io/d-idioms/) - A great blog for many useful idioms with D programming.
-*   [GTK-D coding](https://gtkdcoding.com/) - Simple examples of how to use GtkD to build GUI applications.
 *   [Tasty D](https://tastyminerals.github.io/tasty-blog/) - A blog about learning the D programming language and various D language trivia.
 
 ### Articles
@@ -312,18 +345,18 @@
 *   [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)]</sup> - Visual Studio Code extension using serve-d
 *   [ide-d](https://atom.io/packages/ide-d) - Atom extension for D using serve-d
 *   [DCD (⭐354)](https://github.com/dlang-community/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support (⭐354)](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support).
-*   [serve-d (⭐235)](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D.  Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
+*   [serve-d (⭐235)](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D. Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
 
-### Lexers, Parsers, Parser Generators
+### Lexers, Parsers & Generators
 
 *   [libdparse (⭐119)](https://github.com/dlang-community/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
 
 ### Operating Systems
 
-*   [PowerNex (⭐500)](https://github.com/PowerNex/PowerNex) -  A kernel written in D
-*   [Trinix (⭐112)](https://github.com/Rikarin/Trinix) -  Hybrid operating system for x64 PC written in D
+*   [PowerNex (⭐500)](https://github.com/PowerNex/PowerNex) - A kernel written in D
+*   [Trinix (⭐112)](https://github.com/Rikarin/Trinix) - Hybrid operating system for x64 PC written in D
 
-### Bare Metal/Kernel Development
+### Bare Metal / Kernel Development
 
 *   [D Bare bones](https://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
 *   [D barebone with ldc2](https://wiki.osdev.org/D_barebone_with_ldc2) - another kernel hello world in D (using LDC compiler)
@@ -352,7 +385,7 @@
 
 ### CLI Libraries
 
-*   [commandr (⭐43)](https://github.com/robik/commandr) - A modern, powerful commmand line argument parser.
+*   [commandr (⭐43)](https://github.com/robik/commandr) - A modern, powerful command line argument parser.
 *   [d-colorize](https://code.dlang.org/packages/colorize) - A port of the ruby library [colorize (⭐1.3k)](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
 
 ### GUI Libraries
@@ -460,8 +493,8 @@
 
 ### Getting Help
 
-*   [Official D Forum Learn Group](https://forum.dlang.org/group/learn) - Highest traffic site for answering D questions.
-*   [D on Stack Overflow](https://stackoverflow.com/questions/tagged/d) - Less traffic than forums but possibly easier to search.
+*   [Official D Forum Learn Group](https://forum.dlang.org/group/learn) - Highest-traffic site for getting D questions answered.
+*   [D on Stack Overflow](https://stackoverflow.com/questions/tagged/d) - Less traffic than the forums but possibly easier to search.
 *   [D on Rosetta Code](https://rosettacode.org/wiki/Category:D) - Examples of how to do many basic things in D.
 
 ### Blogs
@@ -474,21 +507,11 @@
 
 *   [blog.dlang.org](https://dlang.org/blog/) - Official blog.
 
-## [Jan 08 - Jan 14, 2018](/content/2018/2/README.md)
-
-### People
-
-*   **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that made D awesome.
-
-### Scientific
-
-*   [decimals](https://github.com/rumbu13/decimal) - Decimal library for D.
-
 ## [Dec 25 - Dec 31, 2017](/content/2017/52/README.md)
 
 ### Unmaintained / Language Processing
 
-*   [collie (⭐61)](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
+*   [collie (⭐61)](https://github.com/huntlabs/collie) - An asynchronous event-driven network framework written in dlang, like netty framework in D.
 *   [flatbuffers (⭐10)](https://github.com/huntlabs/flatbuffers) - D Programming Language implementation of the google flatbuffers library.
 
 ## [Dec 04 - Dec 10, 2017](/content/2017/49/README.md)
@@ -521,9 +544,9 @@
 
 ### Scientific
 
-*   [mir (⭐211)](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
+*   [mir (⭐211)](https://github.com/libmir/mir) - Sandbox for some mir packages: sparse tensors, Hoffman and others.
 *   [mir-algorithm (⭐211)](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
-*   [mir-random (⭐32)](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
+*   [mir-random (⭐32)](https://github.com/libmir/mir-random) - Advanced Random Number Generators.
 
 ## [Jul 31 - Aug 06, 2017](/content/2017/31/README.md)
 
@@ -555,10 +578,6 @@
 
 ## [Sep 12 - Sep 18, 2016](/content/2016/37/README.md)
 
-### Official Website
-
-*   [Github Organization](https://github.com/dlang) - Official GitHub organization for D. Repo for all official D tools & code.
-
 ### Organizations
 
 *   [D Programming Language](https://github.com/dlang) - Official Organization, hosts DMD, Phobos and other official tools and libs.
@@ -566,10 +585,6 @@
 ### Build Tools
 
 *   [dub (⭐706)](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
-
-### Compilers
-
-*   [dmd (⭐3.1k)](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
 
 ### IDEs & Editors
 
@@ -627,7 +642,7 @@
 
 ### CLI Libraries
 
-*   [dexpect (⭐13)](https://github.com/grogancolin/dexpect/) -  A D implementation of the expect framework. Handy for bash emulation.
+*   [dexpect (⭐13)](https://github.com/grogancolin/dexpect/) - A D implementation of the expect framework. Handy for bash emulation.
 
 ## [Feb 29 - Mar 06, 2016](/content/2016/9/README.md)
 
@@ -637,13 +652,13 @@
 
 ### CLI Libraries
 
-*   [Argon (⭐17)](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D.
+*   [Argon (⭐17)](https://github.com/markuslaker/Argon) - A processor for command-line arguments, an alternative to Getopt, written in D.
 
 ## [Feb 01 - Feb 07, 2016](/content/2016/5/README.md)
 
 ### Data Serialization
 
-*   [cerealed (⭐93)](https://github.com/atilaneves/cerealed)  - Serialisation library for D
+*   [cerealed (⭐93)](https://github.com/atilaneves/cerealed) - Serialisation library for D
 *   [dproto (⭐37)](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 
 ## [Jan 25 - Jan 31, 2016](/content/2016/4/README.md)
@@ -654,8 +669,8 @@
 
 ### GUI Libraries
 
-*   [DLangUI (⭐850)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐470)](https://github.com/buggins/dlangide).
-*   [dqml (⭐43)](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
+*   [DLangUI (⭐850)](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorite, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE (⭐470)](https://github.com/buggins/dlangide).
+*   [dqml (⭐43)](https://github.com/filcuc/dqml) - Qt Qml bindings for the D programming language.
 
 ### Games
 
@@ -669,12 +684,12 @@
 
 ### Organizations
 
-*   [DlangScience](https://github.com/DlangScience) -A focal point and first port of call for scientific libraries and tooling for D.
+*   [DlangScience](https://github.com/DlangScience) - A focal point and first port of call for scientific libraries and tooling for D.
 
 ### Scientific
 
-*   [scid (⭐92)](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
-*   [dstats (⭐26)](https://github.com/DlangScience/dstats) -  A statistics library for D.
+*   [scid (⭐92)](https://github.com/DlangScience/scid) - Scientific library for the D programming language
+*   [dstats (⭐26)](https://github.com/DlangScience/dstats) - A statistics library for D.
 
 ## [Nov 16 - Nov 22, 2015](/content/2015/46/README.md)
 
@@ -682,7 +697,7 @@
 
 *   [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
 
-### Lexers, Parsers, Parser Generators
+### Lexers, Parsers & Generators
 
 *   [ctpg (⭐45)](https://github.com/youxkei/ctpg) - Compile-Time Parser (with converter) Generator written in D.
 
@@ -698,7 +713,7 @@
 
 ### Javascript
 
-*   [higgs (⭐883)](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
+*   [higgs (⭐883)](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine, implemented in D.
 
 ## [Aug 10 - Aug 16, 2015](/content/2015/32/README.md)
 
@@ -721,8 +736,8 @@
 
 ### Web Frameworks
 
-*   [libasync (⭐149)](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
-*   [libhttp2 (⭐36)](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
+*   [libasync (⭐149)](https://github.com/etcimon/libasync) - Cross-platform event loop library of asynchronous objects
+*   [libhttp2 (⭐36)](https://github.com/etcimon/libhttp2) - HTTP/2 library in D, translated from nghttp2
 
 ## [Apr 13 - Apr 19, 2015](/content/2015/15/README.md)
 
@@ -757,7 +772,7 @@
 ### Image Processing
 
 *   [ArmageddonEngine (⭐173)](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
-*   [Blogsort](https://bitbucket.org/infognition/bsort/) -  A simple Windows app for viewing photos and preparing them for a blog.
+*   [Blogsort](https://bitbucket.org/infognition/bsort/) - A simple Windows app for viewing photos and preparing them for a blog.
 
 ### Configuration / Language Processing
 
@@ -781,16 +796,7 @@
 
 ## [Jul 21 - Jul 27, 2014](/content/2014/29/README.md)
 
-### Official Website
-
-*   [Issue tracking](https://issues.dlang.org/) - Official issue tracking/reporting system for D. If you find bugs in the D compiler and/or libraries, please come and report them!
-
-### Compilers
-
-*   [ldc (⭐1.3k)](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
-*   [gdc (⭐359)](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
-
-### Lexers, Parsers, Parser Generators
+### Lexers, Parsers & Generators
 
 *   [Mono-D's DParser (⭐30)](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D.
 *   [Pegged (⭐539)](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
@@ -811,7 +817,7 @@
 
 ## [Jul 14 - Jul 20, 2014](/content/2014/28/README.md)
 
-### Lexers, Parsers, Parser Generators
+### Lexers, Parsers & Generators
 
 *   [Martin Nowak's Lexer (⭐14)](https://github.com/MartinNowak/lexer) - A lexer generator.
 *   [Goldie](https://bitbucket.org/Abscissa/goldie/wiki/Home) - Goldie Parsing System.
