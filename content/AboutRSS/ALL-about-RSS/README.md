@@ -6,6 +6,12 @@ A list of RSS related stuff: tools, services, communities and tutorials, etc.
 
 [ Daily / [Weekly](/content/AboutRSS/ALL-about-RSS/week/README.md) / [Overview](/content/AboutRSS/ALL-about-RSS/readme/README.md) ]
 
+## [Jul 26, 2025](/content/2025/07/26/README.md)
+
+### XSL template for XML / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [StreamBurner](https://git.xmpp-it.net/sch/StreamBurner/src/branch/main/xsl)
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### RSS2ARCHIVE / For Android device

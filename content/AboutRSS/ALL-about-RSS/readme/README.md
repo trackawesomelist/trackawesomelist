@@ -1564,6 +1564,7 @@ Inspired by [Awesome lists (⭐381k)](https://github.com/sindresorhus/awesome) a
 *   [RSS style with XSL](https://lepture.com/en/2019/rss-style-with-xsl) <sup>[403](https://t.me/s/aboutrss/403)</sup>
 *   [pretty-feed-v3 (⭐244)](https://github.com/genmon/aboutfeeds/blob/main/tools/pretty-feed-v3.xsl) <sup>[965](https://t.me/s/aboutrss/965)</sup>
 *   [Feed Style](https://www.feed.style/) <sup>[1400](https://t.me/s/aboutrss/1400)</sup>
+*   [StreamBurner](https://git.xmpp-it.net/sch/StreamBurner/src/branch/main/xsl)
 
 ### Landing page for RSS Feed
 

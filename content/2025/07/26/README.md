@@ -1,18 +1,61 @@
 # Awesome List Updates on Jul 26, 2025
 
-4 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md)
+## [1. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+
+### XSL template for XML / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
+
+*   [StreamBurner](https://git.xmpp-it.net/sch/StreamBurner/src/branch/main/xsl)
+
+## [2. Awesome Iam](/content/kdeldycke/awesome-iam/README.md)
+
+### Password-less auth / Public-Key Infrastructure (PKI)
+
+*   [JA4+ (⭐1.4k)](https://github.com/FoxIO-LLC/ja4) - A suite of network fingerprinting methods to facilitate threat-hunting and analysis.
+
+### OAuth2 & OpenID / Other tools
+
+*   [Hydra (⭐16k)](https://github.com/ory/hydra) - Open-source OIDC & OAuth2 Server Provider.
+*   [Keycloak (⭐28k)](https://github.com/keycloak/keycloak) - Open-source Identity and Access Management. Supports OIDC, OAuth 2 and SAML 2, LDAP and AD directories, password policies.
+*   [authentik (⭐17k)](https://github.com/goauthentik/authentik) - Open-source Identity Provider similar to Keycloak.
+
+### Secret Management / Other tools
+
+*   [HashiCorp Vault (⭐33k)](https://github.com/hashicorp/vault) - Secure, store and tightly control access to tokens, passwords, certificates, encryption keys.
+
+### Secret Management / Hardware Security Module (HSM)
+
+*   [Keystone (⭐496)](https://github.com/keystone-enclave/keystone) - Open-source project for building trusted execution environments (TEE) with secure hardware enclaves, based on the RISC-V architecture.
+
+### Trust & Safety / Threat Intelligence
+
+*   [SpiderFoot (⭐80)](https://github.com/poppopjmp/spiderfoot) - An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.
+*   [Confusable Homoglyphs](https://git.sr.ht/~valhalla/confusable_homoglyphs) - Homoglyphs is a common phishing trick.
+
+### Trust & Safety / Captcha
+
+*   [Anubis (⭐11k)](https://github.com/TecharoHQ/anubis) - An open-source solution to protect upstream resources from scraper bots.
+
+### Blocklists / Hostnames and Subdomains
+
+*   [The Public Suffix List (⭐2.4k)](https://github.com/publicsuffix/list) - Mozilla's registry of public suffixes, under which Internet users can (or historically could) directly register names.
+
+### Competitive Analysis / GDPR
+
+*   [AWS Security, Identity & Compliance announcements](https://aws.amazon.com/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime\&whats-new-content-all.sort-order=desc\&awsf.whats-new-categories=marketing-marchitecture%23security-identity-and-compliance) - The source of all new features added to the IAM perimeter.
+
+## [3. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/README.md)
 
 ### Plugins / Community Plugins
 
 *   [@capawesome-team/capacitor-barometer](https://capawesome.io/plugins/barometer/) - Capacitor plugin to obtain the static air pressure, which is measured in hectopascals (hPa).
 
-## [2. Awesome D](/content/dlang-community/awesome-d/README.md)
+## [4. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ### Official Websites
 
@@ -53,7 +96,7 @@
 *   [OpenSSL (⭐47)](https://github.com/D-Programming-Deimos/openssl) - D version of the C headers for OpenSSL.
 *   [Crypto (⭐33)](https://github.com/shove70/crypto) - A D Library of encryption, decryption, encode, hash, and message digital signatures.
 
-## [3. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
+## [5. Awesome Angular](/content/PatrickJS/awesome-angular/README.md)
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -89,7 +132,7 @@
 
 *   [koala-ui (⭐3)](https://github.com/igordrangel/koala-ui) - A modern and accessible component library designed to speed up interface development.
 
-## [4. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
+## [6. Awesome Bash](/content/awesome-lists/awesome-bash/README.md)
 
 ### Shell Script Development
 
