@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ [Daily](/content/catdevnull/awesome-zig/README.md) / Weekly / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
+
+### Other / C++
+
+*   [freref/fancy-cat (⭐373)](https://github.com/freref/fancy-cat) - PDF viewer for your terminal.
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Concurrency

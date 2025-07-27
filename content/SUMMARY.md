@@ -2102,6 +2102,7 @@
 - [Days](daily/README.md)
   - [2025](2025/month/README.md)
     - [7](2025/7/day/README.md)
+      - [Jul 27, 2025](2025/07/27/README.md)
       - [Jul 26, 2025](2025/07/26/README.md)
       - [Jul 25, 2025](2025/07/25/README.md)
       - [Jul 24, 2025](2025/07/24/README.md)

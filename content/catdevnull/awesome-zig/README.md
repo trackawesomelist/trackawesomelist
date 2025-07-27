@@ -6,6 +6,12 @@ A list of awesome projects related to Zig
 
 [ Daily / [Weekly](/content/catdevnull/awesome-zig/week/README.md) / [Overview](/content/catdevnull/awesome-zig/readme/README.md) ]
 
+## [Jul 27, 2025](/content/2025/07/27/README.md)
+
+### Other / C++
+
+*   [freref/fancy-cat (⭐373)](https://github.com/freref/fancy-cat) - PDF viewer for your terminal.
+
 ## [Jul 16, 2025](/content/2025/07/16/README.md)
 
 ### GUI
