@@ -12,6 +12,10 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐2.4k)](https://github.com/dagu-org/dagu)) `GPL-3.0` `Go/Docker`
 
+### Software / File Transfer - Object Storage & File Servers
+
+*   [Harbor](https://goharbor.io/) - Cloud native image registry that stores, signs, and scans content. ([Source Code (⭐26k)](https://github.com/goharbor/harbor)) `Apache-2.0` `Docker/K8S`
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Software / Analytics
@@ -32,7 +36,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Document Management
 
-*   [Paperless-AI (⭐3.8k)](https://github.com/clusterzx/paperless-ai/) - Automated document analyzer for Paperless-ngx that uses OpenAI API, Ollama, and other compatible services to automatically analyze and tag documents. `MIT` `Docker`
 *   [Papra](https://papra.app) - Minimalist document storage, management and archiving platform designed to be simple to use and accessible to everyone. ([Demo](https://demo.papra.app/), [Source Code (⭐1.9k)](https://github.com/papra-hq/papra/)) `AGPL-3.0` `Docker`
 *   [Signature PDF (⭐578)](https://github.com/24eme/signaturepdf) - Sign and manipulate PDFs with collaboration, organization, compression and metadata editing. ([Demo](https://pdf.24eme.fr/)) `AGPL-3.0` `PHP/deb/Docker`
 
@@ -796,10 +799,6 @@ A list of Free Software network services and web applications which can be hoste
 
 *   [Geeftlist](https://codeberg.org/nanawel/geeftlist) - Collaborative platform for managing, sharing and reserving gifts between friends and family. `GPL-3.0` `Docker`
 
-### Software / Money, Budgeting & Management
-
-*   [Maybe](https://maybe.co/) - An OS for your personal finances built by a small team alongside an incredible community. ([Source Code (⭐45k)](https://github.com/maybe-finance/maybe)) `AGPL-3.0` `Docker`
-
 ### Software / Pastebins
 
 *   [lesma](https://lesma.eu) - Simple paste app friendly with browser and command line. ([Demo](https://lesma.eu), [Source Code](https://gitlab.com/ogarcia/lesma)) `GPL-3.0` `Rust/Docker`
@@ -1030,7 +1029,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Polls and Events
 
-*   [hitobito](https://hitobito.com) - Manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐421)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
+*   [hitobito](https://hitobito.com) - Manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐423)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
 
 ### Software / Software Development - Project Management
 
@@ -1343,7 +1342,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Document Management
 
-*   [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code (⭐9.4k)](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
+*   [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code (⭐9.6k)](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
 
 ### Software / Games
 
@@ -2060,7 +2059,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Communication - Social Networks and Forums
 
-*   [Retrospring (⭐288)](https://github.com/retrospring/retrospring) - Social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
+*   [Retrospring (⭐289)](https://github.com/retrospring/retrospring) - Social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
 
 ### Software / Games
 
@@ -2735,7 +2734,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Media Streaming - Audio Streaming
 
-*   [Black Candy (⭐3.6k)](https://github.com/blackcandy-org/black_candy) - Music streaming server. `MIT` `Docker/Ruby`
+*   [Black Candy (⭐3.8k)](https://github.com/blackcandy-org/black_candy) - Music streaming server. `MIT` `Docker/Ruby`
 
 ### Software / Media Streaming - Multimedia Streaming
 
@@ -3702,10 +3701,6 @@ A list of Free Software network services and web applications which can be hoste
 
 ## [Feb 22 - Feb 28, 2021](/content/2021/8/README.md)
 
-### Software / Calendar & Contacts
-
-*   [Etebase (EteSync)](https://www.etebase.com/) - End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients. ([Source Code (⭐1.7k)](https://github.com/etesync/server)) `AGPL-3.0` `Python/Django`
-
 ### Software / File Transfer - Web-based File Managers
 
 *   [FileGator](https://filegator.io/) - FileGator is a powerful multi-user file manager with a single page front-end. ([Demo](https://demo.filegator.io), [Source Code (⭐2.5k)](https://github.com/filegator/filegator)) `MIT` `PHP/Docker`
@@ -4350,7 +4345,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Content Management Systems (CMS)
 
-*   [Publify](https://publify.github.io/) - Simple but full featured web publishing software. ([Source Code (⭐1.8k)](https://github.com/publify/publify)) `MIT` `Ruby`
+*   [Publify](https://publify.github.io/) - Simple but full featured web publishing software. ([Source Code (⭐1.9k)](https://github.com/publify/publify)) `MIT` `Ruby`
 
 ## [Oct 01 - Oct 07, 2018](/content/2018/40/README.md)
 
@@ -4438,7 +4433,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### Software / Software Development - Project Management
 
-*   [OpenProject](https://www.openproject.org) - Manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github. ([Source Code (⭐11k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby/deb/Docker`
+*   [OpenProject](https://www.openproject.org) - Manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github. ([Source Code (⭐12k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby/deb/Docker`
 
 ## [May 14 - May 20, 2018](/content/2018/20/README.md)
 

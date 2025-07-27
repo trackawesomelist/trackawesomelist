@@ -6,6 +6,12 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 [ Daily / [Weekly](/content/uscneps/Awesome-European-Tech/week/README.md) / [Overview](/content/uscneps/Awesome-European-Tech/readme/README.md) ]
 
+## [Jul 27, 2025](/content/2025/07/27/README.md)
+
+### Index / Cloud
+
+*   [Tebi](https://www.tebi.io) 🇨🇾 - Object storage.
+
 ## [Jul 24, 2025](/content/2025/07/24/README.md)
 
 ### Index / AI

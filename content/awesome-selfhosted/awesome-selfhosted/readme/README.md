@@ -308,7 +308,6 @@ Software which allows users to add, annotate, edit, and share [bookmarks](https:
 *   [Baïkal](https://sabre.io/baikal/) - Lightweight CalDAV and CardDAV server based on sabre/dav. ([Source Code (⭐2.8k)](https://github.com/sabre-io/Baikal)) `GPL-3.0` `PHP`
 *   [DAViCal](https://www.davical.org/) - Server for calendar sharing (CalDAV) that uses a PostgreSQL database as a data store. ([Source Code](https://gitlab.com/davical-project/davical)) `GPL-2.0` `PHP/deb`
 *   [Davis (⭐485)](https://github.com/tchapi/davis) - A simple, dockerizable and fully translatable admin interface for sabre/dav based on Symfony 5 and Bootstrap 4, largely inspired by Baïkal. `MIT` `PHP`
-*   [Etebase (EteSync)](https://www.etebase.com/) - End-to-end encrypted and journaled personal information server supporting calendar and contact data, offering its own clients. ([Source Code (⭐1.7k)](https://github.com/etesync/server)) `AGPL-3.0` `Python/Django`
 *   [Manage My Damn Life](https://intri.in/manage-my-damn-life/) - Manage my Damn Life (MMDL) is a self-hosted front end for managing your CalDAV tasks and calendars. ([Source Code (⭐363)](https://github.com/intri-in/manage-my-damn-life-nextjs)) `GPL-3.0` `Nodejs/Docker`
 *   [Radicale](https://radicale.org/) - Simple calendar and contact server with extremely low administrative overhead. ([Source Code (⭐3.8k)](https://github.com/Kozea/Radicale)) `GPL-3.0` `Python/deb`
 *   [SabreDAV](https://sabre.io/) - Open source CardDAV, CalDAV, and WebDAV framework and server. ([Source Code (⭐1.6k)](https://github.com/sabre-io/dav)) `MIT` `PHP`
@@ -519,7 +518,7 @@ Simple deployment of [E-mail](https://en.wikipedia.org/wiki/Email) servers, e.g.
 *   [qpixel](https://codidact.com/) - Q\&A-based community knowledge-sharing software. ([Source Code (⭐415)](https://github.com/codidact/qpixel)) `AGPL-3.0` `Ruby`
 *   [Redlib (⭐2.2k)](https://github.com/redlib-org/redlib) `⚠` - An alternative private front-end to Reddit, with its origins in Libreddit. `AGPL-3.0` `Rust`
 *   [remark42](https://remark42.com/) - Lightweight and simple comment engine, which doesn't spy on users. It can be embedded into blogs, articles or any other place where readers add comments. ([Demo](https://remark42.com/demo/), [Source Code (⭐5.2k)](https://github.com/umputun/remark42)) `MIT` `Docker/Go`
-*   [Retrospring (⭐288)](https://github.com/retrospring/retrospring) - Social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
+*   [Retrospring (⭐289)](https://github.com/retrospring/retrospring) - Social network following the Q/A (question and answer) principle of sites like Formspring, ask.fm or CuriousCat. ([Demo](https://retrospring.net)) `AGPL-3.0` `Ruby/Nodejs`
 *   [Scoold](https://scoold.com) - Stack Overflow in a JAR. An enterprise-ready Q\&A platform with full-text search, SAML, LDAP integration and social login support. ([Demo](https://live.scoold.com), [Source Code (⭐887)](https://github.com/Erudika/scoold)) `Apache-2.0` `Java/Docker/K8S`
 *   [Simple Machines Forum](https://www.simplemachines.org/) - Free, professional grade software package that allows you to set up your own online community within minutes. ([Source Code (⭐660)](https://github.com/SimpleMachines/SMF)) `BSD-3-Clause` `PHP`
 *   [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/), [Source Code (⭐369)](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Docker/Python`
@@ -630,7 +629,7 @@ Software for submission of [abstracts](https://en.wikipedia.org/wiki/Abstract_ma
 *   [Payload CMS](https://payloadcms.com/) - Developer-first headless CMS and application framework. ([Source Code (⭐36k)](https://github.com/payloadcms/payload)) `MIT` `Nodejs`
 *   [Pimcore](http://www.pimcore.com/) - Multi-channel experience and engagement management platform. ([Source Code (⭐3.6k)](https://github.com/pimcore/pimcore)) `GPL-3.0` `PHP/Docker`
 *   [Plone](https://plone.org/) - Powerful open-source CMS system. ([Source Code](https://github.com/plone)) `ZPL-2.0` `Python/Docker`
-*   [Publify](https://publify.github.io/) - Simple but full featured web publishing software. ([Source Code (⭐1.8k)](https://github.com/publify/publify)) `MIT` `Ruby`
+*   [Publify](https://publify.github.io/) - Simple but full featured web publishing software. ([Source Code (⭐1.9k)](https://github.com/publify/publify)) `MIT` `Ruby`
 *   [REDAXO](https://www.redaxo.org) - Simple, flexible and useful content management system (documentation in German). ([Source Code (⭐337)](https://github.com/redaxo/redaxo)) `MIT` `PHP/Docker`
 *   [Roadiz](https://www.roadiz.io/) - Modern CMS based on a node system which can handle many types of services. ([Source Code (⭐375)](https://github.com/roadiz/roadiz)) `MIT` `PHP`
 *   [SilverStripe](https://www.silverstripe.org) - Easy to use CMS with powerful MVC framework underlying. ([Demo](https://demo.silverstripe.org/), [Source Code](https://github.com/silverstripe)) `BSD-3-Clause` `PHP`
@@ -712,13 +711,12 @@ A [document management system](https://en.wikipedia.org/wiki/Document_management
 
 *   [Docspell](https://docspell.org) - Auto-tagging document organizer and archive. ([Source Code (⭐1.8k)](https://github.com/eikek/docspell)) `GPL-3.0` `Scala/Java/Docker`
 *   [Documenso](https://documenso.com) - Digital document signing platform (alternative to DocuSign). ([Source Code (⭐11k)](https://github.com/documenso/documenso)) `AGPL-3.0` `Nodejs/Docker`
-*   [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code (⭐9.4k)](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
+*   [Docuseal](https://www.docuseal.co) - Create, fill, and sign digital documents (alternative to DocuSign). ([Demo](https://demo.docuseal.tech/), [Source Code (⭐9.6k)](https://github.com/docusealco/docuseal)) `AGPL-3.0` `Docker`
 *   [EveryDocs (⭐269)](https://github.com/jonashellmann/everydocs-core) - Simple Document Management System for private use with basic functionality to organize your documents digitally. `GPL-3.0` `Docker/Ruby`
 *   [Gotenberg](https://gotenberg.dev) - Developer-friendly API to interact with powerful tools like Chromium and LibreOffice for converting numerous document formats (HTML, Markdown, Word, Excel, etc.) into PDF files, and more. ([Source Code (⭐9.6k)](https://github.com/gotenberg/gotenberg)) `MIT` `Docker`
 *   [I, Librarian](https://i-librarian.net) - Organize PDF papers and office documents. It provides a lot of extra features for students and research groups both in industry and academia. ([Demo](https://i-librarian.net/demo/), [Source Code (⭐302)](https://github.com/mkucej/i-librarian-free)) `GPL-3.0` `PHP`
 *   [Mayan EDMS](https://www.mayan-edms.com) - Electronic document management system for your documents with preview generation, OCR, and automatic categorization among other features. ([Source Code](https://gitlab.com/mayan-edms/mayan-edms)) `GPL-2.0` `Docker/K8S`
 *   [OpenSign](https://www.opensignlabs.com) `⚠` - Document signing software (alternative to DocuSign). ([Source Code (⭐4.8k)](https://github.com/opensignlabs/opensign)) `AGPL-3.0` `Nodejs/Docker`
-*   [Paperless-AI (⭐3.8k)](https://github.com/clusterzx/paperless-ai/) - Automated document analyzer for Paperless-ngx that uses OpenAI API, Ollama, and other compatible services to automatically analyze and tag documents. `MIT` `Docker`
 *   [Paperless-ngx](https://docs.paperless-ngx.com/) - Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless). ([Demo](https://demo.paperless-ngx.com/), [Source Code (⭐29k)](https://github.com/paperless-ngx/paperless-ngx)) `GPL-3.0` `Python/Docker`
 *   [Papermerge](https://papermerge.com) - Document management system focused on scanned documents (electronic archives). Features file browsing in similar way to dropbox/google drive. OCR, full text search, text overlay/selection. ([Source Code (⭐367)](https://github.com/papermerge/papermerge-core)) `Apache-2.0` `Docker/K8S`
 *   [Papra](https://papra.app) - Minimalist document storage, management and archiving platform designed to be simple to use and accessible to everyone. ([Demo](https://demo.papra.app/), [Source Code (⭐1.9k)](https://github.com/papra-hq/papra/)) `AGPL-3.0` `Docker`
@@ -877,6 +875,7 @@ Network distributed filesystems.
 [Object storage](https://en.wikipedia.org/wiki/Object_storage) is a computer data storage that manages data as objects, as opposed to other storage architectures like file systems which manages data as a file hierarchy, and block storage which manages data as blocks within sectors and tracks.
 
 *   [GarageHQ](https://garagehq.deuxfleurs.fr/) - Geo-distributed, S3‑compatible storage service that can fulfill many needs. ([Source Code](https://git.deuxfleurs.fr/Deuxfleurs/garage)) `AGPL-3.0` `Docker/Rust`
+*   [Harbor](https://goharbor.io/) - Cloud native image registry that stores, signs, and scans content. ([Source Code (⭐26k)](https://github.com/goharbor/harbor)) `Apache-2.0` `Docker/K8S`
 *   [Minio](https://min.io/) - Object storage server compatible with Amazon S3 APIs. ([Source Code (⭐54k)](https://github.com/minio/minio)) `AGPL-3.0` `Go/Docker/K8S`
 *   [SeaweedFS (⭐25k)](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
 *   [SFTPGo (⭐11k)](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go/deb/Docker`
@@ -1255,7 +1254,7 @@ Software to manage [3D printers](https://en.wikipedia.org/wiki/3D_printing), [CN
 *   [Audioserve (⭐772)](https://github.com/izderadicka/audioserve) - Simple personal server to serve audio files from directories (audiobooks, music, podcasts...). Focused on simplicity and supports sync of play position between clients. `MIT` `Rust`
 *   [AzuraCast](https://www.azuracast.com/) - Modern and accessible web radio management suite. ([Source Code (⭐3.4k)](https://github.com/AzuraCast/AzuraCast)) `Apache-2.0` `Docker`
 *   [Beets](https://beets.io/) - Music library manager and MusicBrainz tagger (command-line and Web interface). ([Source Code (⭐14k)](https://github.com/beetbox/beets)) `MIT` `Python/deb`
-*   [Black Candy (⭐3.6k)](https://github.com/blackcandy-org/black_candy) - Music streaming server. `MIT` `Docker/Ruby`
+*   [Black Candy (⭐3.8k)](https://github.com/blackcandy-org/black_candy) - Music streaming server. `MIT` `Docker/Ruby`
 *   [Funkwhale](https://dev.funkwhale.audio/funkwhale) - Modern, web-based, convivial, multi-user and free music server. `BSD-3-Clause` `Python/Django`
 *   [gonic (⭐2k)](https://github.com/sentriz/gonic) - Lightweight music streaming server. Subsonic compatible. `GPL-3.0` `Go/Docker`
 *   [HoloPlay](https://app.holoplay.io) `⚠` - Listen to Youtube audio sources using Invidious API. ([Source Code (⭐111)](https://github.com/stephane-r/holoplay-pwa)) `MIT` `Nodejs/Docker`
@@ -1426,7 +1425,6 @@ Software that does not fit in another section.
 *   [Kill Bill](https://killbill.io/) - Subscription billing & payments platform. Have access to real-time analytics and financial reports. ([Source Code (⭐4.9k)](https://github.com/killbill/killbill)) `Apache-2.0` `Java/Docker`
 *   [Kresus](https://kresus.org/) - Personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code (⭐318)](https://github.com/kresusapp/kresus)) `AGPL-3.0` `Nodejs/Docker`
 *   [Lago](https://www.getlago.com/) - Metering and usage-based billing. ([Source Code (⭐7.9k)](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
-*   [Maybe](https://maybe.co/) - An OS for your personal finances built by a small team alongside an incredible community. ([Source Code (⭐45k)](https://github.com/maybe-finance/maybe)) `AGPL-3.0` `Docker`
 *   [Mybucks.online](https://mybucks.online) - Secure, browser-based, password-only self-custodial cryptocurrency wallet. ([Demo](https://app.mybucks.online), [Source Code (⭐11)](https://github.com/mybucks-online/app)) `MIT` `Nodejs`
 *   [MyFin Budget](https://myfinbudget.com) - Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. ([Demo (⭐173)](https://github.com/afaneca/myfin?tab=readme-ov-file#demo-account---try-it-for-yourself), [Source Code (⭐173)](https://github.com/afaneca/myfin), [Clients (⭐18)](https://github.com/afaneca/myfin-api)) `GPL-3.0` `Nodejs/Docker`
 *   [OctoBot](https://www.octobot.cloud/) - Cryptocurrency trading bot. ([Source Code (⭐4.2k)](https://github.com/Drakkar-Software/OctoBot)) `GPL-3.0` `Python/Docker`
@@ -1614,7 +1612,7 @@ Software for organising [polls](https://en.wikipedia.org/wiki/Opinion_poll) and 
 *   [Gancio](https://gancio.org/) - Local community event and agenda sharing. ([Demo](https://demo.gancio.org/), [Source Code](https://framagit.org/les/gancio)) `AGPL-3.0` `Nodejs`
 *   [gathio](https://docs.gath.io/) - Self-destructing, shareable, no-registration event pages. ([Demo](https://gath.io/), [Source Code (⭐383)](https://github.com/lowercasename/gathio)) `GPL-3.0` `Nodejs/Docker`
 *   [HeyForm](https://heyform.net) - Form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. ([Source Code (⭐8.2k)](https://github.com/heyform/heyform)) `AGPL-3.0` `Docker`
-*   [hitobito](https://hitobito.com) - Manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐421)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
+*   [hitobito](https://hitobito.com) - Manage complex group hierarchies with members, events and a lot more. ([Demo](https://demo.hitobito.com/en/users/sign_in), [Source Code (⭐423)](https://github.com/hitobito/hitobito)) `AGPL-3.0` `Ruby`
 *   [Input](https://getinput.co) - Privacy-focused, no-code, open-source form builder designed for simplicity and brand consistency. ([Source Code (⭐225)](https://github.com/deck9/input)) `AGPL-3.0` `PHP/Nodejs/Docker`
 *   [LimeSurvey](https://www.limesurvey.org) - Feature-rich web-based polling software. Supports extensive survey logic. ([Demo](https://demo.limesurvey.org), [Source Code (⭐3.2k)](https://github.com/LimeSurvey/LimeSurvey)) `GPL-2.0` `PHP`
 *   [Meetable](https://events.indieweb.org) - Minimal events aggregator. ([Source Code (⭐143)](https://github.com/aaronpk/Meetable)) `MIT` `PHP`
@@ -1875,7 +1873,7 @@ Tools and software for [software project management](https://en.wikipedia.org/wi
 *   [minimal-git-server (⭐29)](https://github.com/mcarbonne/minimal-git-server) - Lightweight git server with a basic CLI to manage repositories, supporting multiple accounts and running in a container. `MIT` `Docker`
 *   [Octobox](https://octobox.io/) `⚠` - Take back control of your GitHub Notifications. ([Source Code (⭐4.4k)](https://github.com/octobox/octobox)) `AGPL-3.0` `Ruby/Docker`
 *   [OneDev](https://onedev.io/) - All-In-One DevOps Platform. With Git Management, Issue Tracking, and CI/CD. Simple yet Powerful. ([Source Code](https://code.onedev.io/projects/160)) `MIT` `Java/Docker/K8S`
-*   [OpenProject](https://www.openproject.org) - Manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github. ([Source Code (⭐11k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby/deb/Docker`
+*   [OpenProject](https://www.openproject.org) - Manage your projects, tasks and goals. Collaborate via work packages and link them to your pull requests on Github. ([Source Code (⭐12k)](https://github.com/opf/openproject)) `GPL-3.0` `Ruby/deb/Docker`
 *   [Pagure](https://pagure.io/pagure) - Lightweight, powerful, and flexible git-centric forge with features laying the foundation for federated and decentralized development. ([Demo](https://pagure.io/)) `GPL-2.0` `Docker/Python/deb`
 *   [Phorge](https://we.phorge.it/) - Community-driven platform for collaborating, managing, organizing and reviewing software development projects. ([Source Code](https://we.phorge.it/source/phorge/)) `Apache-2.0` `PHP`
 *   [Plane](https://plane.so) - Track issues, epics, and product roadmaps in the simplest way possible (alternative to JIRA, Linear and Height). ([Demo](https://app.plane.so), [Source Code (⭐37k)](https://github.com/makeplane/plane)) `AGPL-3.0` `Docker`

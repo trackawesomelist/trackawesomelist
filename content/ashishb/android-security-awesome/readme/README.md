@@ -89,9 +89,10 @@ A collection of Android security-related resources.
 21. [One Step Decompiler (⭐277)](https://github.com/b-mueller/apkx) - Android APK Decompilation for the Lazy
 22. [APKLeaks (⭐5.4k)](https://github.com/dwisiswant0/apkleaks) - Scanning APK file for URIs, endpoints & secrets.
 23. [Mobile Audit (⭐217)](https://github.com/mpast/mobileAudit) - Web application for performing Static Analysis and detecting malware in Android APKs.
-24. ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
-25. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
-26. ~~[SPARTA](https://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](https://types.cs.washington.edu/checker-framework/)~~
+24. [Detekt (⭐6.6k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin
+25. ~~[Smali CFG generator](https://github.com/EugenioDelfa/Smali-CFGs)~~
+26. ~~[Several tools from PSU](http://siis.cse.psu.edu/tools.html)~~
+27. ~~[SPARTA](https://www.cs.washington.edu/sparta) - verifies (proves) that an app satisfies an information-flow security policy; built on the [Checker Framework](https://types.cs.washington.edu/checker-framework/)~~
 
 ### App Vulnerability Scanners
 

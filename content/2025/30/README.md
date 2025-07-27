@@ -1,24 +1,76 @@
 # Awesome List Updates on Jul 28 - Aug 03, 2025
 
-31 awesome lists updated this week.
+35 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
+## [1. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+
+### Tools / Static Analysis Tools
+
+*   [Detekt (⭐6.6k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin
+
+## [2. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+
+### Artificial Intelligence
+
+*   [simple-openai (⭐331)](https://github.com/sashirestela/simple-openai) - Library to use the OpenAI API (and compatible ones) in the simplest possible way.
+
+### Code Generators / Text-Based User Interfaces
+
+*   [EasyEntityToDTO (⭐0)](https://github.com/Marcel091004/EasyEntityToDTO) - Annotation processor for automatic DTO and Mapper generation with zero boilerplate.
+
+### Miscellaneous / Text-Based User Interfaces
+
+*   [JEmoji (⭐96)](https://github.com/felldo/JEmoji) - An auto-generated emoji library that provides type-safe direct access to emojis and alias support for Discord, Slack, GitHub and many more features.
+
+### Natural Language Processing / Text-Based User Interfaces
+
+*   [Hypherator (⭐1)](https://github.com/ejossev/hypherator-java) - Java hyphenation library with iterator-like interface. Can be used out-of-the box - dictionaries for multiple languages are bundled in.
+
+### Pathfinding / Text-Based User Interfaces
+
+*   [Pathetic (⭐208)](https://github.com/bsommerfeld/pathetic) - A highly configurable 3D A\* pathfinding library that uses specific optimizations for high performance.
+
+### Testing / Fixtures
+
+*   [JMock (⭐90)](https://github.com/xcancloud/JMock) - JMock is a high-performance data generation and simulation component library implemented in Java.
+
+### Testing / Miscellaneous
+
+*   [Stebz (⭐12)](https://github.com/stebz/stebz) - Multi-approach framework for test steps managing.
+
+### Utility / Mocking
+
+*   [Javadoc Publisher (⭐51)](https://github.com/MathieuSoysal/Javadoc-publisher.yml) - Generate Javadoc from your maven/gradle project and deploy it automatically on GitHub Page.
+
+## [3. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+
+### AI
+
+*   [FlyonUI MCP](https://flyonui.com/mcp) - Integrate FlyonUI MCP - Tailwind AI Builder directly into your IDE and craft stunning Tailwind CSS Components, Blocks and Pages inspired by FlyonUI.
+
+## [4. Awesome Sysadmin](/content/awesome-foss/awesome-sysadmin/week/README.md)
+
+### Software / Continuous Integration & Continuous Deployment
+
+*   [ArgoCD](https://argo-cd.readthedocs.io/en/stable/) - Declarative, GitOps continuous delivery tool for Kubernetes. ([Source Code (⭐20k)](https://github.com/argoproj/argo-cd)) `Apache-2.0` `Go`
+
+## [5. Awesome Zig](/content/catdevnull/awesome-zig/week/README.md)
 
 ### Other / C++
 
 *   [freref/fancy-cat (⭐373)](https://github.com/freref/fancy-cat) - PDF viewer for your terminal.
 
-## [2. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [6. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### XSL template for XML / Webpage Monitor Services with capability of monitoring RSS Feed [1264](https://t.me/s/aboutrss/1264)
 
 *   [StreamBurner](https://git.xmpp-it.net/sch/StreamBurner/src/branch/main/xsl)
 
-## [3. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
+## [7. Awesome Iam](/content/kdeldycke/awesome-iam/week/README.md)
 
 ### Password-less auth / Public-Key Infrastructure (PKI)
 
@@ -55,13 +107,13 @@
 
 *   [AWS Security, Identity & Compliance announcements](https://aws.amazon.com/new/?whats-new-content-all.sort-by=item.additionalFields.postDateTime\&whats-new-content-all.sort-order=desc\&awsf.whats-new-categories=marketing-marchitecture%23security-identity-and-compliance) - The source of all new features added to the IAM perimeter.
 
-## [4. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+## [8. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Plugins / Community Plugins
 
 *   [@capawesome-team/capacitor-barometer](https://capawesome.io/plugins/barometer/) - Capacitor plugin to obtain the static air pressure, which is measured in hectopascals (hPa).
 
-## [5. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [9. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Official Websites
 
@@ -102,19 +154,19 @@
 *   [OpenSSL (⭐47)](https://github.com/D-Programming-Deimos/openssl) - D version of the C headers for OpenSSL.
 *   [Crypto (⭐33)](https://github.com/shove70/crypto) - A D Library of encryption, decryption, encode, hash, and message digital signatures.
 
-## [6. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
+## [10. Awesome Bash](/content/awesome-lists/awesome-bash/week/README.md)
 
 ### Shell Script Development
 
 *   [timep (⭐95)](https://github.com/jkool702/timep) - A next-gen profiler and FlameGraph generator for bash code.
 
-## [7. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [11. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / Platforms
 
 *   [Terrateam (⭐810)](https://github.com/terrateamio/terrateam) - Open-source alternative to Terraform Cloud/Enterprise. GitOps-first and built for scale, security, and reliability across modern VCS providers.
 
-## [8. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [12. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### Application Frameworks
 
@@ -159,25 +211,25 @@
 
 *   [SyncMethodGenerator (⭐66)](https://github.com/zompinc/sync-method-generator) – Generates synchronous methods from async ones to avoid code duplication.
 
-## [9. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
+## [13. Awesome Network Analysis](/content/briatte/awesome-network-analysis/week/README.md)
 
 ### Books / Method-specific
 
 *   *[Knoten und Kanten III. Soziale Netzwerkanalyse in Geschichts- und Politikforschung](https://www.transcript-verlag.de/978-3-8376-2742-8/knoten-und-kanten-iii)*, edited by Markus Gamper, Linda Reschke and Marten Düring, in German and English (2015).
 
-## [10. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [14. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Everything to Markdown to LLMs
 
 *   [NuExtract 2.0 by NuMind](https://numind.ai/blog/outclassing-frontier-llms----nuextract-2-0-takes-the-lead-in-information-extraction): "Outclassing Frontier LLMs in Information Extraction"
 
-## [11. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
+## [15. Awesome Streaming](/content/manuzhang/awesome-streaming/week/README.md)
 
 ### Table of Contents / Streaming Engine
 
 *   [NebulaStream (⭐51)](https://github.com/nebulastream/nebulastream) \[C++] - High-performance, general-purpose, end-to-end data-management system for cloud-edge-sensor environments.
 
-## [12. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [16. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
@@ -185,13 +237,13 @@
     Written in a functional programming style. Lightweight direct imports. Supports ES modules and CommonJS. 100% Unit
     tested. +TS
 
-## [13. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
+## [17. Awesome Iot](/content/HQarroum/awesome-iot/week/README.md)
 
 ### Software / Miscellaneous
 
 *   [SIGNL4 – Mobile Alerting](https://www.signl4.com/iot-service-alerting/) - SIGNL4 brings reliable mobile alerting with app push, SMS, and voice calls – plus escalation and duty scheduling – for your IoT projects.
 
-## [14. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
+## [18. Awesome Theoretical Computer Science](/content/mostafatouny/awesome-theoretical-computer-science/week/README.md)
 
 ### Introductory / Big Lists
 
@@ -205,31 +257,35 @@
 
 *   [Tu Delft. Delftse Foundations of Computation](https://books.open.tudelft.nl/home/catalog/book/211) - A textbook for a one quarter introductory course in theoretical computer science including logic, proof techniques, and set theory. It assumes no prerequisite other than basic programming.
 
-## [15. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
+## [19. Awesome European Tech](/content/uscneps/Awesome-European-Tech/week/README.md)
 
 ### Index / AI
 
 *   [Lumo](https://lumo.proton.me/guest)🇨🇭- The privacy-first AI assistant from Proton
 
-## [16. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+### Index / Cloud
+
+*   [Tebi](https://www.tebi.io) 🇨🇾 - Object storage.
+
+## [20. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / Developer Utilities
 
 *   [Testpiler](https://furnacecreek.org/testpiler/) - Testpiler is an app that allows you to easily convert unit tests written in Swift from XCTest to the new Swift Testing framework.
 
-## [17. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
+## [21. Awesome Openstreetmap](/content/osmlab/awesome-openstreetmap/week/README.md)
 
 ### Maps / Web Maps
 
 *   [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
 
-## [18. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [22. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Messaging
 
 *   [backlite (⭐102)](https://github.com/mikestefanello/backlite) - Type-safe, persistent, embedded task queues and background job runner w/ SQLite.
 
-## [19. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [23. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Calendar
 
@@ -258,7 +314,7 @@
 
     <img src="https://github.com/rushhiii/Scriptable-IOSWidgets/raw/main/.src/timeprogress/timeprogress_showcase.png?raw=true" width="700"/>
 
-## [20. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
+## [24. Awesome Circuitpython](/content/adafruit/awesome-circuitpython/week/README.md)
 
 ### Frameworks / Educational
 
@@ -268,25 +324,29 @@
 
 *   [Adafruit's Fruit Jam is a Raspberry Pi Pico 2 powered, credit card sized computer](https://www.tomshardware.com/raspberry-pi/adafruits-fruit-jam-is-a-raspberry-pi-pico-2-powered-credit-card-sized-computer) - Tom's Hardware, February 5, 2025
 
-## [21. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [25. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
 *   [Dagu](https://docs.dagu.cloud/) - Powerful Cron alternative with a Web UI. It allows you to define dependencies between commands as a Directed Acyclic Graph (DAG) in a declarative YAML format. ([Source Code (⭐2.4k)](https://github.com/dagu-org/dagu)) `GPL-3.0` `Go/Docker`
 
-## [22. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
+### Software / File Transfer - Object Storage & File Servers
+
+*   [Harbor](https://goharbor.io/) - Cloud native image registry that stores, signs, and scans content. ([Source Code (⭐26k)](https://github.com/goharbor/harbor)) `Apache-2.0` `Docker/K8S`
+
+## [26. Awesome Mongodb](/content/ramnes/awesome-mongodb/week/README.md)
 
 ### Applications / Web
 
 *   [BookCars (⭐445)](https://github.com/aelassas/bookcars) - Cross-platform, customizable and cost-efficient car rental management application
 
-## [23. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [27. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Other / [Other](#other-1)
 
 *   [Cloud (IaC) Security for JetBrains IDEs](https://plugins.jetbrains.com/plugin/25413-cloud-iac-security) — Cloud (IaC) Security plugin for JetBrains IDEs. Performs real-time inspections of Docker & Kubernetes IaC with 50+ rules based on Docker image/build security best practices, Kubernetes Pod Security Standards, and NSA/CISA Kubernetes Hardening Guidance.
 
-## [24. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [28. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Screen recording
 
@@ -303,7 +363,7 @@
 
 *   [OpenCut (⭐26k)](https://github.com/OpenCut-app/OpenCut) - \[beta] A free, open-source video editor for web, desktop, and mobile.
 
-## [25. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [29. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
@@ -313,11 +373,15 @@
 
 *   [ramsyana/RustTensor (⭐51)](https://github.com/ramsyana/RustTensor) - A learning-focused, high-performance tensor computation library built from scratch in Rust with automatic differentiation and CPU/CUDA backends.
 
-## [26. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [30. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
 *   [DiffJSON](https://diffjson.com) - An online tool for comparing differences between two JSON data structures, helping you quickly locate the differences in JSON data.
+
+### Messaging and Streaming
+
+*   [Engage](https://engage.so/) - All-in-one Customer Engagement and Automation Tool (email, push, SMS, product tours, banners and more) for SaaS. Free for up to 1,000 active users per month.
 
 ### Translation Management
 
@@ -331,7 +395,7 @@
 
 *   [Doradrop](https://doradrop.com) — Doradrop is a file-sharing platform with unlimited storage and zero ads. Share files instantly through secure — no login needed.
 
-## [27. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
+## [31. Awesome Design Systems](/content/alexpate/awesome-design-systems/week/README.md)
 
 - : [Uiverse](https://uiverse.io)
 
@@ -356,7 +420,7 @@
 
 
 
-## [28. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [32. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -444,13 +508,13 @@
 
 *   [JSON Schema (⭐4.4k) (⭐4.4k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [29. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [33. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Extensions and Utilities
 
 *   [Kinematic Character Controller (⭐1)](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
 
-## [30. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
+## [34. Awesome Angular](/content/PatrickJS/awesome-angular/week/README.md)
 
 ### AI / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -512,7 +576,7 @@
 
 *   [subsiphon (⭐1)](https://github.com/shobeiry/subsiphon) - A lightweight utility to manage multiple RxJS Subscriptions. It lets you add subscriptions via numeric indexes or named keys and provides easy `unsubscribe()` and `destroy()` methods to clean them up.
 
-## [31. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [35. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### Career and growth / Svelte
 

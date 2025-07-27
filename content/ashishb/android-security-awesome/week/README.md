@@ -6,6 +6,12 @@ A collection of android security related resources
 
 [ [Daily](/content/ashishb/android-security-awesome/README.md) / Weekly / [Overview](/content/ashishb/android-security-awesome/readme/README.md) ]
 
+## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
+
+### Tools / Static Analysis Tools
+
+*   [Detekt (⭐6.6k)](https://github.com/detekt/detekt) - Static code analysis for Kotlin
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Tools / Dynamic Analysis Tools

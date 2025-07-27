@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Jul 27, 2025](/content/2025/07/27/README.md)
+
+### Messaging and Streaming
+
+*   [Engage](https://engage.so/) - All-in-one Customer Engagement and Automation Tool (email, push, SMS, product tours, banners and more) for SaaS. Free for up to 1,000 active users per month.
+
 ## [Jul 22, 2025](/content/2025/07/22/README.md)
 
 ### APIs, Data, and ML

@@ -12,6 +12,10 @@ An up-to-date, community-driven list of awesome European tech alternatives! All 
 
 *   [Lumo](https://lumo.proton.me/guest)🇨🇭- The privacy-first AI assistant from Proton
 
+### Index / Cloud
+
+*   [Tebi](https://www.tebi.io) 🇨🇾 - Object storage.
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Index / Authenticators
