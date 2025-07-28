@@ -44,6 +44,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
     *   [Official documentation](#official-documentation)
     *   [Libraries/Packages/Scripts](#librariespackagesscripts)
         *   [Polars plugins](#polars-plugins)
+            *   [Import / Export](#import--export)
             *   [Geographical / Spatial](#geographical--spatial)
             *   [Validation](#validation)
             *   [String parsing](#string-parsing)
@@ -58,6 +59,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
         *   [Python](#python)
         *   [Rust](#rust)
         *   [R](#r)
+        *   [Go](#go)
         *   [Node.js](#nodejs)
         *   [Scala/Java](#scalajava)
         *   [Ruby](#ruby)
@@ -96,6 +98,12 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
 ### Polars plugins
 
 To learn to write, see [this great tutorial](https://marcogorelli.github.io/polars-plugins-tutorial/) by [@MarcoGorelli](https://github.com/MarcoGorelli)!
+
+You can also try to [Polars plugins Cookiecutter (⭐77)](https://github.com/MarcoGorelli/cookiecutter-polars-plugins) by [@MarcoGorelli](https://github.com/MarcoGorelli) which provides a template to quickly scaffold a Rust-based plugin for the Polars Python library.
+
+#### Import / Export
+
+*   [polars\_io (⭐2)](https://github.com/alipatti/polars_io) - Lazily read Stata, SAS, and fixed-width files in Polars by [@alipatti](https://github.com/alipatti).
 
 #### Geographical / Spatial
 
@@ -145,6 +153,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 
 *   [polars\_ols (⭐166)](https://github.com/azmyrajab/polars_ols) - Polars plugin that enables fast linear model Polar expressions by [@azmyrajab](https://github.com/azmyrajab).
 *   [polars-pairing (⭐12)](https://github.com/apcamargo/polars-pairing) - Polars plugin that provides pairing functions that encode two natural numbers into a single natural number by [@apcamargo](https://github.com/apcamargo).
+*   [polars\_rns (⭐1)](https://github.com/alipatti/polars_rng) - Random number generation in Polars via the expression API by [@alipatti](https://github.com/alipatti).
 
 #### General utilities / Performance
 
@@ -200,6 +209,10 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 *   [polarssql (⭐27)](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 *   [r-polars-dashboard (⭐2)](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
 *   [neo-r-polars (⭐55)](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
+
+### Go
+
+*   [go-polars (⭐32)](https://github.com/jordandelbar/go-polars) This project creates Go bindings for Polars.
 
 ### Node.js
 

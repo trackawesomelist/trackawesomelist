@@ -66,6 +66,97 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Thunderbird](https://www.thunderbird.net/en-US/)
 
+#### [3. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Polars plugins / Import / Export
+
+*   [polars\_io (⭐2)](https://github.com/alipatti/polars_io) - Lazily read Stata, SAS, and fixed-width files in Polars by [@alipatti](https://github.com/alipatti).
+
+##### Polars plugins / Mathematical & Statistical Functions
+
+*   [polars\_rns (⭐1)](https://github.com/alipatti/polars_rng) - Random number generation in Polars via the expression API by [@alipatti](https://github.com/alipatti).
+
+##### Go / Miscellaneous
+
+*   [go-polars (⭐32)](https://github.com/jordandelbar/go-polars) This project creates Go bindings for Polars.
+
+#### [4. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md)
+
+##### Core Areas & Specialized Topics / 1.🎯RAG Systems
+
+*   [RAG Fundamentals](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#rag-retrieval-augmented-generation) - Core concepts and implementation strategies
+*   [RAG Architecture Design](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#rag-solution-design) - System design patterns and best practices
+*   [RAG Applications](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#rag-development) - Real-world implementations and use cases
+    *   [GraphRAG](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#graphrag) - Graph-based retrieval approaches
+*   [Vector Databases](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#vector-database-comparison) - Comparison and selection guide
+
+##### Core Areas & Specialized Topics / 2.🌌Azure OpenAI
+
+*   [Azure AI Services](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#azure-ai-search) - Azure AI Search, AI services
+*   [Reference Architectures](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#azure-reference-architectures) - Proven architectural patterns and samples
+
+##### Core Areas & Specialized Topics / 3.🤖LLM Applications
+
+*   [Development Frameworks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#applications-frameworks-and-user-interface-uiux) - Tools for building LLM applications
+*   [Application Development](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#llm-application-development) - Implementation guides and best practices
+    *   [Code Development Tools](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#code-editor--agent) - AI-powered coding assistants and editors
+    *   [Memory Systems](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#llm-memory) - Persistent memory and context management
+*   [Performance Optimization](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#caching) - Caching strategies and UX improvements
+*   [Emerging Concepts](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#proposals--glossary) - New paradigms like Vibe Coding and Context Engineering
+*   [Robotics Integration](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#llm-for-robotics) - LLMs in robotic systems
+*   [Demonstration Projects](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#awesome-demo) - Inspiring examples and showcases
+
+##### Core Areas & Specialized Topics / 4.🤖Agent Development
+
+*   [Design Patterns](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#agent-design-patterns) - Proven architectural approaches for agent systems
+*   [Development Frameworks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#agent-framework) - Tools and libraries for building agents
+
+##### Core Areas & Specialized Topics / 5.🧠Prompt Engineering & Finetuning
+
+*   [Model Finetuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#finetuning) - PEFT (LoRA), RLHF, and supervised fine-tuning
+*   [Model Optimization](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#quantization-techniques) - Quantization and performance optimization
+*   [Advanced Techniques](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#other-techniques-and-llm-patterns) - Mixture of Experts (MoE) and other patterns
+
+##### Core Areas & Specialized Topics / 6.🏄‍♂️Challenges & Abilities
+
+*   [AGI and Social Impact](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#agi-discussion-and-social-impact) - Discussions on artificial general intelligence
+*   [OpenAI Ecosystem](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#openais-roadmap-and-products) - Product roadmaps and strategic direction
+*   [Technical Constraints](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#context-constraints) - Context limitations and solutions (e.g., RoPE)
+*   [Safety and Security](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#trustworthy-safe-and-secure-llm) - Building trustworthy AI systems
+*   [LLM Capabilities](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#large-language-model-is-abilities) - Understanding what LLMs can and cannot do
+    *   [Reasoning Abilities](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#reasoning) - Logical reasoning and problem-solving
+
+##### Core Areas & Specialized Topics / 7.🌍LLM Landscape
+
+*   [Model Taxonomy](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-models-in-2023) - Classification and comparison of LLMs
+*   [Model Collection](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-model-collection) - Comprehensive list of available models
+*   [Domain-Specific Models](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#llm-for-domain-specific) - Specialized models for software development and other domains
+*   [Multimodal Models](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#mllm-multimodal-large-language-model) - Models handling text, image, audio, and video
+
+##### 🏗️Frameworks / LangChain & LlamaIndex
+
+*   [LangChain Agents](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-chain-type-chains--summarizer) - Agent implementations and critical analysis
+*   [Framework Comparisons](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-vs-competitors) - LangChain vs. alternative frameworks
+
+##### Tools & Implementation / 8.📚AI Tools & Extensions
+
+*   [Development Tools](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#section-10-general-ai-tools-and-extensions) - IDEs, plugins, and development utilities
+
+##### Tools & Implementation / 9.📊Datasets
+
+*   [Training Datasets](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/dataset.md/#datasets-for-llm-training) - High-quality datasets for model training and fine-tuning
+
+##### Tools & Implementation / 10.📝Evaluation Methods
+
+*   [Evaluation Frameworks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/eval.md/#evaluating-large-language-models) - Methods and metrics for LLM assessment
+
+##### Tools & Implementation / 11.🧠Research & Surveys
+
+*   [Business Applications](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#business-use-cases) - Industry use cases and implementation strategies
+*   [Building from Scratch](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#build-an-llms-from-scratch-picogpt-and-lit-gpt) - Educational resources for understanding LLM internals
+*   [Multilingual Resources](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#llm-materials-for-east-asian-languages) - LLM resources for Korean, Japanese, and other languages
+*   [Learning Materials](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#learning-and-supplementary-materials) - Tutorials, courses, and supplementary resources
+
 ### [Jul 27, 2025](/content/2025/07/27/README.md)
 
 
@@ -709,7 +800,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### LLM
 
-- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 364, 📝 07&#x2F;14 ](https://github.com/kimtth/awesome-azure-openai-llm)) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references. [code] https://github.com/kimtth/azure-openai-llm-cookbook
+- [Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/README.md) - ([Source ⭐ 364, 📝 07&#x2F;28 ](https://github.com/kimtth/awesome-azure-openai-llm)) - A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agent), and references. [code] https://github.com/kimtth/azure-openai-llm-cookbook
 - [Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/README.md) - ([Source ⭐ 75, 📝 07&#x2F;14 ](https://github.com/xavidop/awesome-firebase-genkit)) - 🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!
 
 ### Learn
@@ -1022,7 +1113,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 665, 📝 24&#x2F;04&#x2F;07 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 32K, 📝 05&#x2F;12 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 902, 📝 07&#x2F;16 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 902, 📝 07&#x2F;28 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
@@ -1110,7 +1201,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Job Boards](/content/tramcar/awesome-job-boards/README.md) - ([Source ⭐ 1.4K, 📝 03&#x2F;16 ](https://github.com/tramcar/awesome-job-boards)) - 
 - [Awesome Productivity](/content/jyguyomarch/awesome-productivity/README.md) - ([Source ⭐ 1.9K, 📝 23&#x2F;05&#x2F;26 ](https://github.com/jyguyomarch/awesome-productivity)) - A curated list of delightful productivity resources.
 - [Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/README.md) - ([Source ⭐ 38K, 📝 05&#x2F;12 ](https://github.com/lukasz-madon/awesome-remote-job)) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
-- [Awesome Slack](/content/matiassingers/awesome-slack/README.md) - ([Source ⭐ 804, 📝 23&#x2F;05&#x2F;26 ](https://github.com/matiassingers/awesome-slack)) - A curated list of awesome Slack related things
+- [Awesome Slack](/content/matiassingers/awesome-slack/README.md) - ([Source ⭐ 858, 📝 23&#x2F;05&#x2F;26 ](https://github.com/matiassingers/awesome-slack)) - A curated list of awesome Slack related things
 - [Awesome Slack](/content/filipelinhares/awesome-slack/README.md) - ([Source ⭐ 307, 📝 23&#x2F;05&#x2F;26 ](https://github.com/filipelinhares/awesome-slack)) - 🕶️  List of communities powered by Slack.
 
 
