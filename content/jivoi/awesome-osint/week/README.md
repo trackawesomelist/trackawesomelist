@@ -6,6 +6,44 @@
 
 [ [Daily](/content/jivoi/awesome-osint/README.md) / Weekly / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Aug 04 - Aug 10, 2025](/content/2025/31/README.md)
+
+### File Search
+
+*   [eyedex](https://www.eyedex.org/) - Open directory search engine.
+*   [Meawfy](https://meawfy.com/) - Advanced Mega.nz File Search Engine. Search and discover files from Mega.nz with our intelligent crawler technology. Access over 9 million indexed files instantly.
+*   [ODCrawler](https://odcrawler.xyz/) - A search engine for open directories. Find millions of publicly available files!
+
+### Social Media Tools / Telegram
+
+*   [CCTV (⭐2.4k)](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings.
+*   [Geogramint (⭐699)](https://github.com/Alb-310/Geogramint) - An OSINT Geolocalization tool for Telegram that find nearby users and groups.
+*   [Telegram Finder](https://www.telegram-finder.io/) - A tool to find Telegram users by their phone number, linkedin url or email.
+*   [Telerecon (⭐1.2k)](https://github.com/sockysec/Telerecon) - A reconnaissance framework for researching and investigating Telegram.
+*   [Telepahty (⭐1.1k)](https://github.com/proseltd/Telepathy-Community) - Telepathy is a tool that archives Telegram chats and analyzes communication patterns within the app. By providing insights into user interactions, message frequency, and content trends, Telepathy helps investigators understand the dynamics and relationships within Telegram groups and channels.
+*   [TeleTracker (⭐452)](https://github.com/tsale/TeleTracker) - TeleTracker is a simple set of Python scripts designed for anyone investigating Telegram channels. It helps you send messages quickly and gather useful channel information easily.
+*   [TOsint (⭐713)](https://github.com/drego85/tosint) - Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities.
+
+### Email Search / Email Check / GitHub
+
+*   [InfoStealers](https://infostealers.info/en/info) - Indexes darknet-exposed infostealer logs and makes them searchable and actionable for security teams, investigators, researchers, and digital forensics professionals.
+
+### Domain and IP Research / GitHub
+
+*   [Focsec](https://focsec.com) - Threat Intelligence API that detects if a IP address is associated with a VPN, Proxy, TOR or Bots.
+
+### Image Search / GitHub
+
+*   [KartaVision](https://kartavision.com/) - search engine for KartaView imagery. It supports natural-language search and search by image
+
+### Data and Statistics / GitHub
+
+*   [CIA World Factbook](https://www.cia.gov/the-world-factbook/)
+
+### Privacy and Encryption Tools / GitHub
+
+*   [Thunderbird](https://www.thunderbird.net/en-US/)
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Main National Search Engines
@@ -67,7 +105,6 @@
 *   [paaster](https://paaster.io/) - Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.
 *   [Pastebin.cz](https://www.pastebin.cz/en/) - A simple Pastebin.
 *   [paste.in.ua](https://paste.in.ua/) - Simple pastebin.
-*   [Pastelyst](https://paste.cutelyst.org/) - This site is intended for use as a short-term exchange of pasted information between parties. All publicly submitted data is considered public information. Submitted private and public data is not guaranteed to be permanent, and may be removed at any time.
 *   [Paste.Quest](https://pastequest.com/) - Copy and Paste text online to share with anyone anywhere. Use the password option to add a password to the pasted information.
 *   [PasteSite.Net](https://pastesite.net/) - The new generation pastebin.
 *   [paste.sh](https://paste.sh/) - This is an encrypted paste site. Simply type or paste code here and share the URL. Saving is Automatic.
@@ -113,7 +150,6 @@
 
 *   [Bromite](https://www.bromite.org/) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser. Works only on Android.
 *   [Gnu Icecat](https://icecatbrowser.org/) -
-*   [LibreWolf](https://librewolf.net/) - A custom version of Firefox, focused on privacy, security and freedom.
 *   [Waterfox](https://www.waterfox.net/) - Fast and Private Web Browser. Get privacy out of the box with Waterfox.
 
 ### Other Tools / GitHub
@@ -160,7 +196,6 @@
 *   [n0paste](https://n0paste.eu/) - Paste and share your code online.
 *   [OTS- One Time Secrets](https://ots.hackliberty.org/) - An encrypted pastebin site. No login needed!
 *   [Paste.Cash](https://www.paste.cash/) - Paste.CASH Is a privacy respected and encrypted pastebin hosted by Cash Hosting. Every paste are encrypted using 256 bits AES.
-*   [PasteFree.com](https://pastefree.com/) - Popular Paste and Share Site.
 *   [Pastery](https://www.pastery.net/) - The sweetest pastebin in the world!
 *   [Pastebin - Tor Link](https://tor.link/paste/new) - Paste text to store or share with others.
 *   [SafeNote](https://safenote.co/) - SafeNote is a free web-based service that allows you to share a note or a file with confidentiality. There is no way to spying on you even to a hacker.
@@ -410,10 +445,6 @@
 
 ## [Sep 16 - Sep 22, 2024](/content/2024/38/README.md)
 
-### Company Research / GitHub
-
-*   [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
-
 ### Social Media Tools / Steam
 
 *   [OSINT-Steam](https://osint-steam.vercel.app/en) - An [open-source (⭐16)](https://github.com/Berchez/OSINT-steam) tool that returns public information, such as friends list and possible locations, from Steam profiles.
@@ -421,6 +452,10 @@
 ### Email Search / Email Check / GitHub
 
 *   [SherlockEye](https://sherlockeye.io/) - Search for publicly available data linked to an email address across multiple sources on the internet.
+
+### Company Research / GitHub
+
+*   [TheWebCo](https://thewebco.ai) - The single source of people intelligence.
 
 ### DNS / GitHub
 
@@ -439,7 +474,6 @@
 
 ### Other Tools / GitHub
 
-*   [DNSservices](https://github.com/0x4f53/dnsservices) - Discover embedded services in a domain's DNS records within seconds
 *   [Sintelix](https://sintelix.com/) - Sintelix is an open source intelligence (OSINT) and graphical link analysis tool for gathering and connecting information for investigative tasks.
 
 ## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
@@ -1071,7 +1105,6 @@
 
 ### File Search
 
-*   [File Search Engine](https://www.filesearch.link/)
 *   [FileListing](https://filelisting.com/)
 *   [FilePursuit](https://filepursuit.com/)
 *   [NAPALM FTP Indexer](https://www.searchftps.net/)
@@ -1091,7 +1124,6 @@
 *   [Kribrum](https://kribrum.io/)
 *   [Mail.Ru Social Network Search](https://go.mail.ru/search_social)
 *   [Oblivion (⭐557)](https://github.com/loseys/Oblivion)
-*   [Profil3r](https://github.com/Rog3rSm1th/Profil3r)
 *   [WATools](https://watools.io/)
 
 ### Social Media Tools / VKontakte
@@ -1153,7 +1185,6 @@
 
 *   [ArcGIS](https://livingatlas.arcgis.com/en/browse/)
 *   [Baidu Maps](https://map.baidu.com/)
-*   [Descartes Labs](https://maps.descarteslabs.com/)
 *   [digiKam](https://www.digikam.org/)
 *   [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm)
 *   [KartaView](https://kartaview.org/map/)
@@ -1190,13 +1221,6 @@
 
 *   [OSINT Dojo](https://www.osintdojo.com/resources/)
 *   [OSINT Belarus](https://t.me/s/osintby)
-*   [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
-
-## [May 24 - May 30, 2021](/content/2021/21/README.md)
-
-### Forums and Discussion Boards Search / GitHub
-
-*   [LinkBase](https://link-base.org/)
 
 ## [May 17 - May 23, 2021](/content/2021/20/README.md)
 
@@ -1220,7 +1244,6 @@
 ### Geospatial Research and Mapping Tools / GitHub
 
 *   [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
-*   [Maxar](https://discover.digitalglobe.com/)
 *   [Sentinel Hub](https://www.sentinel-hub.com/explore/sentinelplayground/)
 *   [SunCalc](https://www.suncalc.org/)
 *   [USGS (EarthExplorer)](https://earthexplorer.usgs.gov/)
@@ -1325,10 +1348,6 @@
 
 *   [Atom](https://browser.ru/)
 
-### DNS / GitHub
-
-*   [findsubdomains](https://findsubdomains.com/) - Automatically scans different sources to collect as many subdomains as can. Validate all the data through various tools and services to provide correct results without waiting.
-
 ## [Oct 12 - Oct 18, 2020](/content/2020/41/README.md)
 
 ### Social Media Tools / Twitter
@@ -1432,7 +1451,6 @@
 *   [Belati (⭐552)](https://github.com/aancw/Belati) - The Traditional Swiss Army Knife For OSINT. Belati is tool for Collecting Public Data & Public Document from Website and other service for OSINT purpose.
 *   [Outwit](http://www.outwit.com) - Find, grab and organize all kinds of data and media from online sources.
 *   [Pown Recon (⭐420)](https://github.com/pownjs/pown-recon) - Target reconnaissance framework powered by graph theory.
-*   [SecApps Recon](https://secapps.com/market/recon) - Information gathering and target reconnaissance tool and UI.
 
 ## [Jan 21 - Jan 27, 2019](/content/2019/3/README.md)
 
@@ -1530,10 +1548,6 @@
 
 ## [Jan 22 - Jan 28, 2018](/content/2018/4/README.md)
 
-### Academic Resources and Grey Literature / GitHub
-
-*   [The Collection of Computer Science Bibliographies](https://liinwww.ira.uka.de/bibliography/index.html) - The CCSB is a collection of bibliographies of scientific literature in computer science from various sources, covering most aspects of computer science.
-
 ### Offline Browsing / GitHub
 
 *   [A1 Website Download](http://www.microsystools.com/products/website-download) - Download entire websites to disk.
@@ -1619,7 +1633,6 @@
 ### Other Tools / GitHub
 
 *   [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
-*   [Intrigue Core](https://github.com/intrigueio/intrigue-core) - Framework for attack surface discovery.
 *   [OpenRefine](https://github.com/OpenRefine) - Free & open source power tool for working with messy data and improving it.
 *   [OSINT Framework](http://osintframework.com/) - Web based framework for OSINT.
 *   [OsintStalker (⭐671)](https://github.com/milo2012/osintstalker) - Python script for Facebook and geolocation OSINT.
@@ -1702,7 +1715,6 @@
 *   [BP Statistical Review of World Energy](http://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-world-energy.html)
 *   [Center for International Earth Science Information Network](http://www.ciesin.org)
 *   [CEPII](http://www.cepii.fr/CEPII/en/welcome.asp)
-*   [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook)
 *   [Data.gov.uk](https://data.gov.uk)
 *   [DBPedia](http://wiki.dbpedia.org)
 *   [European Union Open Data Portal](http://open-data.europa.eu/en/data)
@@ -1891,7 +1903,6 @@
 *   [Tagdef](https://tagdef.com)
 *   [Trends24](http://trends24.in)
 *   [TwChat](http://twchat.com)
-*   [TweetDeck](https://www.tweetdeck.com)
 *   [TweetMap](http://mapd.csail.mit.edu/tweetmap)
 *   [TweetMap](http://worldmap.harvard.edu/tweetmap)
 *   [Twitter Advanced Search](https://twitter.com/search-advanced?lang=en)
@@ -1911,7 +1922,6 @@
 ### Social Media Tools / Instagram
 
 *   [Iconosquare](http://iconosquare.com)
-*   [Picodash](https://www.picodash.com) - Find Instagram Target Audience and Influencers
 
 ### Social Media Tools / Pinterest
 
@@ -1941,7 +1951,6 @@
 *   [Google Groups](https://groups.google.com)
 *   [Linkedin Groups](http://www.linkedin.com)
 *   [Ning](http://www.ning.com)
-*   [Xing Groups](https://www.xing.com/communities)
 *   [Yahoo Groups](https://groups.yahoo.com)
 
 ### Username Check / GitHub
@@ -2003,12 +2012,10 @@
 *   [GuideStar](http://www.guidestar.org)
 *   [Hoovers](http://www.hoovers.com)
 *   [Inc. 5000](http://www.inc.com/inc5000)
-*   [iSpionage](https://www.ispionage.com)
 *   [Knowledge guide to international company registration](http://www.icaew.com/en/library/subject-gateways/business-management/company-administration/knowledge-guide-international-company-registration)
 *   [Mergent Intellect](http://www.mergentintellect.com)
 *   [Mergent Online](http://www.mergentonline.com/login.php)
 *   [National Company Registers](https://en.wikipedia.org/wiki/List_of_company_registers)
-*   [Notablist](https://www.notablist.com)
 *   [Orbis directory](http://orbisdirectory.bvdinfo.com/version-20161014/OrbisDirectory/Companies)
 *   [Overseas Company Registers](https://www.gov.uk/government/publications/overseas-registries/overseas-registries)
 *   [Plunkett Research](http://www.plunkettresearchonline.com)
@@ -2038,7 +2045,6 @@
 *   [IP Checking](http://www.ipchecking.com)
 *   [Kloth](http://www.kloth.net/services)
 *   [MaxMind](https://www.maxmind.com)
-*   [Open Site Explorer](https://moz.com/researchtools/ose)
 *   [PageGlimpse](http://www.pageglimpse.com)
 *   [Quantcast](https://www.quantcast.com)
 *   [Quick Sprout](https://www.quicksprout.com)
@@ -2116,7 +2122,6 @@
 *   [Veoh](http://www.veoh.com)
 *   [Vimeo](https://vimeo.com)
 *   [Yahoo Video Search](http://video.search.yahoo.com)
-*   [YouTube Data Viewer](https://www.amnestyusa.org/citizenevidence)
 *   [YouTube](https://www.youtube.com)
 
 ### Academic Resources and Grey Literature / GitHub
@@ -2320,8 +2325,6 @@
 *   [Flipboard](https://flipboard.com)
 *   [Hubii](http://hubii.com)
 *   [Inshorts](https://www.inshorts.com)
-*   [News360](https://news360.com)
-*   [NewsBot](https://getnewsbot.com)
 *   [Newsinshorts](http://newsinshorts.com)
 *   [Nod](http://get-nod.com)
 *   [Spike](http://www.newswhip.com)
@@ -2421,7 +2424,6 @@
 *   [Spideroak](https://spideroak.com)
 *   [Surveilliance Self Defense](https://ssd.eff.org)
 *   [Tails](https://tails.boum.org)
-*   [Thunderbird](https://www.mozilla.org/en-US/thunderbird)
 *   [Tor Project](https://www.torproject.org)
 *   [Wickr](https://wickr.com)
 *   [WOT](https://www.mywot.com)
