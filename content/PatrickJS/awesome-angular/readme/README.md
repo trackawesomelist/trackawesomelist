@@ -537,6 +537,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 *   [ng-supabase (⭐36)](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 *   [ngxfire (⭐2)](https://github.com/teve-no/ngxfire) - Zoneless AngularFire replacement.
 *   [ngx-permissions (⭐951)](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular applications(AOT, lazy modules compatible).
+*   [ngx-role-accessor (⭐1)](https://github.com/IroshanRathnayake/ngx-role-accessor) - Enterprise-grade Angular Role-Based Access Control (RBAC) Library.
 *   [ngx-smart-permissions (⭐5)](https://github.com/rami-sheikha-dev/ngx-smart-permissions) - A lightweight library for managing role-based and permission-based access control in Angular applications. Supports both standalone components and NgModules.
 *   [ngx-webauthn (⭐2)](https://github.com/JonnyHeavey/ngx-webauthn) - An Angular library that provides a clean, type-safe abstraction over the native WebAuthn API. Features direct support for standard WebAuthn types with an optional preset system for common scenarios.
 *   [otp-angular (⭐1)](https://github.com/subha-patra/otp-angular) - A lightweight, highly customizable, and dependency-free OTP (One-Time Password) input component built for Angular 20+ applications.

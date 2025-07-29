@@ -6,6 +6,32 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Aug 04 - Aug 10, 2025](/content/2025/31/README.md)
+
+### Marks / Diagnostics
+
+*   [y3owk1n/warp.nvim (⭐2)](https://github.com/y3owk1n/warp.nvim) - Simple harpoon alternative that focuses on marking & navigating between files.
+
+### Search / Diagnostics
+
+*   [mahyarmirrashed/search-and-replace.nvim (⭐6)](https://github.com/mahyarmirrashed/search-and-replace.nvim) - Simple, effective, search and replace functionality for the pragmatic engineer.
+
+### Tree-sitter Supported Colorscheme / Diagnostics
+
+*   [motaz-shokry/gruvbox.nvim](https://gitlab.com/motaz-shokry/gruvbox.nvim) - A new gruvbox that the hard variant bg is "#1b1b1b", and it comes with 4 variants.
+
+### Utility / Diagnostics
+
+*   [toggleword.nvim (⭐2)](https://github.com/iquzart/toggleword.nvim) - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
+
+### Terminal Integration / Diagnostics
+
+*   [waiting-for-dev/ergoterm.nvim (⭐34)](https://github.com/waiting-for-dev/ergoterm.nvim) - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
+
+### Boilerplate / Diagnostics
+
+*   [jkeresman01/spring-initializr.nvim (⭐1)](https://github.com/jkeresman01/spring-initializr.nvim) - Scaffold Spring Boot projects with a Telescope-powered UI.
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### (requires Neovim 0.5)
@@ -43,7 +69,7 @@ Collections of awesome neovim plugins.
 
 ### GitLab / Diagnostics
 
-*   [harrisoncramer/GitLab.nvim (⭐311)](https://github.com/harrisoncramer/GitLab.nvim) -  Review pull requests and manage other GitLab resources.
+*   [harrisoncramer/GitLab.nvim (⭐311)](https://github.com/harrisoncramer/GitLab.nvim) - Review pull requests and manage other GitLab resources.
 
 ### Keybinding / Diagnostics
 
@@ -1643,7 +1669,7 @@ Collections of awesome neovim plugins.
 
 ### File Explorer / Diagnostics
 
-*   [rolv-apneseth/tfm.nvim (⭐93)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐26k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐93)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐27k)](https://github.com/sxyazi/yazi)).
 
 ### Tree-sitter Supported Colorscheme / Diagnostics
 
@@ -1720,7 +1746,7 @@ Collections of awesome neovim plugins.
 
 ### Syntax / Diagnostics
 
-*   [IndianBoy42/tree-sitter-just (⭐164)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐26k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐164)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐27k)](https://github.com/casey/just).
 
 ### Snippet / Diagnostics
 
@@ -3506,7 +3532,7 @@ Collections of awesome neovim plugins.
 
 ### Version Manager / Diagnostics
 
-*   [MordechaiHadad/bob (⭐1.6k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
+*   [MordechaiHadad/bob (⭐1.7k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -3891,7 +3917,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Diagnostics
 
-*   [jvgrootveld/telescope-zoxide (⭐352)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐27k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐352)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐28k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 
 ## [Sep 27 - Oct 03, 2021](/content/2021/39/README.md)
 

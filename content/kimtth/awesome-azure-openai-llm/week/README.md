@@ -8,7 +8,7 @@ A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agen
 
 ## [Aug 04 - Aug 10, 2025](/content/2025/31/README.md)
 
-### Core Areas & Specialized Topics / 1.🎯RAG Systems
+### Core Topics / 1.🎯RAG Systems
 
 *   [RAG Fundamentals](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#rag-retrieval-augmented-generation) - Core concepts and implementation strategies
 *   [RAG Architecture Design](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#rag-solution-design) - System design patterns and best practices
@@ -16,12 +16,12 @@ A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agen
     *   [GraphRAG](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#graphrag) - Graph-based retrieval approaches
 *   [Vector Databases](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/rag.md/#vector-database-comparison) - Comparison and selection guide
 
-### Core Areas & Specialized Topics / 2.🌌Azure OpenAI
+### Core Topics / 2.🌌Azure OpenAI
 
 *   [Azure AI Services](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#azure-ai-search) - Azure AI Search, AI services
 *   [Reference Architectures](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#azure-reference-architectures) - Proven architectural patterns and samples
 
-### Core Areas & Specialized Topics / 3.🤖LLM Applications
+### Core Topics / 3.🤖LLM Applications
 
 *   [Development Frameworks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#applications-frameworks-and-user-interface-uiux) - Tools for building LLM applications
 *   [Application Development](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#llm-application-development) - Implementation guides and best practices
@@ -32,18 +32,18 @@ A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agen
 *   [Robotics Integration](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#llm-for-robotics) - LLMs in robotic systems
 *   [Demonstration Projects](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/app.md/#awesome-demo) - Inspiring examples and showcases
 
-### Core Areas & Specialized Topics / 4.🤖Agent Development
+### Core Topics / 4.🤖Agent Development
 
 *   [Design Patterns](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#agent-design-patterns) - Proven architectural approaches for agent systems
 *   [Development Frameworks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#agent-framework) - Tools and libraries for building agents
 
-### Core Areas & Specialized Topics / 5.🧠Prompt Engineering & Finetuning
+### Core Topics / 5.🧠Prompt Engineering & Finetuning
 
 *   [Model Finetuning](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#finetuning) - PEFT (LoRA), RLHF, and supervised fine-tuning
 *   [Model Optimization](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#quantization-techniques) - Quantization and performance optimization
 *   [Advanced Techniques](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ft.md/#other-techniques-and-llm-patterns) - Mixture of Experts (MoE) and other patterns
 
-### Core Areas & Specialized Topics / 6.🏄‍♂️Challenges & Abilities
+### Core Topics / 6.🏄‍♂️Challenges & Abilities
 
 *   [AGI and Social Impact](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#agi-discussion-and-social-impact) - Discussions on artificial general intelligence
 *   [OpenAI Ecosystem](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#openais-roadmap-and-products) - Product roadmaps and strategic direction
@@ -52,7 +52,7 @@ A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agen
 *   [LLM Capabilities](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#large-language-model-is-abilities) - Understanding what LLMs can and cannot do
     *   [Reasoning Abilities](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/chab.md/#reasoning) - Logical reasoning and problem-solving
 
-### Core Areas & Specialized Topics / 7.🌍LLM Landscape
+### Core Topics / 7.🌍LLM Landscape
 
 *   [Model Taxonomy](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-models-in-2023) - Classification and comparison of LLMs
 *   [Model Collection](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/llm.md/#large-language-model-collection) - Comprehensive list of available models
@@ -64,19 +64,19 @@ A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agen
 *   [LangChain Agents](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-chain-type-chains--summarizer) - Agent implementations and critical analysis
 *   [Framework Comparisons](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-vs-competitors) - LangChain vs. alternative frameworks
 
-### Tools & Implementation / 8.📚AI Tools & Extensions
+### Tools / 8.📚AI Tools & Extensions
 
-*   [Development Tools](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#section-10-general-ai-tools-and-extensions) - IDEs, plugins, and development utilities
+*   [AI Tools & Extensions](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#general-ai-tools-and-extensions)
 
-### Tools & Implementation / 9.📊Datasets
+### Tools / 9.📊Datasets
 
 *   [Training Datasets](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/dataset.md/#datasets-for-llm-training) - High-quality datasets for model training and fine-tuning
 
-### Tools & Implementation / 10.📝Evaluation Methods
+### Tools / 10.📝Evaluation Methods
 
 *   [Evaluation Frameworks](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/eval.md/#evaluating-large-language-models) - Methods and metrics for LLM assessment
 
-### Tools & Implementation / 11.🧠Research & Surveys
+### Tools / 11.🧠Research & Surveys
 
 *   [Business Applications](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#business-use-cases) - Industry use cases and implementation strategies
 *   [Building from Scratch](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#build-an-llms-from-scratch-picogpt-and-lit-gpt) - Educational resources for understanding LLM internals
@@ -85,12 +85,12 @@ A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agen
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
-### Core Areas & Specialized Topics / 2.🌌Azure OpenAI
+### Core Topics / 2.🌌Azure OpenAI
 
 *   [Microsoft Copilot](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#microsoft-copilot) - Copilot products overview
 *   [Microsoft Research](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#microsoft-research) - Research publications and findings
 
-### Core Areas & Specialized Topics / 4.🤖Agent Development
+### Core Topics / 4.🤖Agent Development
 
 *   [Agent Applications](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#agent-application) - Real-world agent implementations
     *   [Code Interpreters](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/agent.md/#oss-alternatives-for-openai-code-interpreter-aka-advanced-data-analytics) - Open-source alternatives to OpenAI's Code Interpreter
@@ -99,11 +99,11 @@ A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agen
 
 ## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
 
-### Core Areas & Specialized Topics / 2.🌌Azure OpenAI
+### Core Topics / 2.🌌Azure OpenAI
 
 *   [Microsoft LLM Framework](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/aoai.md/#microsoft-azure-openai-llm-framework) - Official frameworks and SDKs
 
-### Core Areas & Specialized Topics / 5.🧠Prompt Engineering & Finetuning
+### Core Topics / 5.🧠Prompt Engineering & Finetuning
 
 *   [Prompt Engineering](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#prompt-engineering) - Techniques for effective prompt design
 *   [Visual Prompting](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/prompt.md/#visual-prompting--visual-grounding) - Working with multimodal inputs
@@ -118,10 +118,10 @@ A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agen
 *   [LangChain Features](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#langchain-feature-matrix--cheetsheet) - Comprehensive feature overview and cheat sheets
 *   [LlamaIndex](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/langchain.md/#llamaindex) - Micro-orchestration and RAG-focused framework
 
-### Tools & Implementation / 10.📝Evaluation Methods
+### Tools / 10.📝Evaluation Methods
 
 *   [LLMOps](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/eval.md/#llmops-large-language-model-operations) - Operations and lifecycle management for LLM systems
 
-### Tools & Implementation / 11.🧠Research & Surveys
+### Tools / 11.🧠Research & Surveys
 
 *   [LLM Surveys](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/survey_ref.md/#survey-on-large-language-models) - Academic surveys and systematic reviews

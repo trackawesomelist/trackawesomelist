@@ -12,6 +12,10 @@
 
 *   [rybbit (⭐7.6k)](https://github.com/rybbit-io/rybbit) - A privacy-friendly alternative to Google Analytics. This [guide](https://www.rybbit.io/docs/guides/angular) walks you through integrating it with Angular.
 
+### Authentication / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
+
+*   [ngx-role-accessor (⭐1)](https://github.com/IroshanRathnayake/ngx-role-accessor) - Enterprise-grade Angular Role-Based Access Control (RBAC) Library.
+
 ### TypeScript / [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
 *   [guardz (⭐2)](https://github.com/thiennp/guardz) - Lightweight, zero-dependency TypeScript type guards for runtime validation with structured error handling.

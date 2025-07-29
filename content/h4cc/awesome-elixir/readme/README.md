@@ -1323,6 +1323,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *   [kalecto (⭐148)](https://github.com/lau/calecto) - Glue between Kalends and Ecto for saving dates, times and datetimes.
 *   [kvs (⭐175)](https://github.com/synrc/kvs) - Erlang Abstract Term Database.
 *   [level (⭐5)](https://github.com/gausby/level) - Level for Elixir implements various helper functions and data types for working with Googles Level data store.
+*   [libsqlex (⭐2)](https://github.com/danawanb/libsqlex) - Libsql driver for Elixir.
 *   [mariaex (⭐262)](https://github.com/xerions/mariaex) - MariaDB/MySQL driver for Elixir.
 *   [memento (⭐776)](https://github.com/sheharyarn/memento) - Simple Mnesia Interface in Elixir.
 *   [moebius (⭐609)](https://github.com/robconery/moebius) - A functional query tool for Elixir and PostgreSQL.

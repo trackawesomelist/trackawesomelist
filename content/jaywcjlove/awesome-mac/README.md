@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Jul 29, 2025](/content/2025/07/29/README.md)
+
+### Reading and Writing Tools / Writing
+
+*   [Monotype](https://monotype.app) - A fun and minimalist writing app that feels like a real typewriter. ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Browsers / Audio Record and Process
+
+*   [Web (⭐416)](https://github.com/nuance-dev/Web) - Minimal AI browser for macOS, built with SwiftUI. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/nuance-dev/Web)
+
 ## [Jul 24, 2025](/content/2025/07/24/README.md)
 
 ### Developer Tools / Developer Utilities

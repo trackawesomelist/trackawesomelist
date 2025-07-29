@@ -6,6 +6,12 @@ A curated list of amazingly awesome Elixir and Erlang libraries, resources and s
 
 [ [Daily](/content/h4cc/awesome-elixir/README.md) / Weekly / [Overview](/content/h4cc/awesome-elixir/readme/README.md) ]
 
+## [Aug 04 - Aug 10, 2025](/content/2025/31/README.md)
+
+### ORM and Datamapping
+
+*   [libsqlex (⭐2)](https://github.com/danawanb/libsqlex) - Libsql driver for Elixir.
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Artificial Intelligence

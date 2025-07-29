@@ -407,7 +407,7 @@ Collections of awesome neovim plugins.
 *   [m-demare/hlargs.nvim (⭐528)](https://github.com/m-demare/hlargs.nvim) - Highlight arguments' definitions and usages, using Tree-sitter.
 *   [LhKipp/nvim-nu (⭐151)](https://github.com/LhKipp/nvim-nu) - Basic editor support for the nushell language.
 *   [desdic/agrolens.nvim (⭐61)](https://github.com/desdic/agrolens.nvim) - Navigate via Tree-sitter nodes using Telescope or FZF.
-*   [IndianBoy42/tree-sitter-just (⭐164)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐26k)](https://github.com/casey/just).
+*   [IndianBoy42/tree-sitter-just (⭐164)](https://github.com/IndianBoy42/tree-sitter-just) - Tree-sitter grammar for [Justfiles (⭐27k)](https://github.com/casey/just).
 
 <!--lint disable double-link -->
 
@@ -474,6 +474,7 @@ Collections of awesome neovim plugins.
 *   [francescarpi/buffon.nvim (⭐18)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
 *   [Beargruug/skipper.nvim (⭐5)](https://github.com/Beargruug/skipper.nvim/) - Jump between functions in a file with ease.
 *   [mohseenrm/marko.nvim (⭐5)](https://github.com/mohseenrm/marko.nvim) - Behind the scenes, global marks management for different projects.
+*   [y3owk1n/warp.nvim (⭐2)](https://github.com/y3owk1n/warp.nvim) - Simple harpoon alternative that focuses on marking & navigating between files.
 
 <!--lint disable double-link -->
 
@@ -502,6 +503,7 @@ Collections of awesome neovim plugins.
 *   [chrisgrieser/nvim-rip-substitute (⭐263)](https://github.com/chrisgrieser/nvim-rip-substitute) - Search and replace in the current buffer with a modern UI and modern regex flavor. A substitute for Vim's `:substitute` using `ripgrep`.
 *   [wsdjeg/flygrep.nvim (⭐12)](https://github.com/wsdjeg/flygrep.nvim) - Search text in a floating window asynchronously.
 *   [prochri/telescope-all-recent.nvim (⭐146)](https://github.com/prochri/telescope-all-recent.nvim) - Frequency and recency sorter for any Telescope picker.
+*   [mahyarmirrashed/search-and-replace.nvim (⭐6)](https://github.com/mahyarmirrashed/search-and-replace.nvim) - Simple, effective, search and replace functionality for the pragmatic engineer.
 
 <!--lint disable double-link -->
 
@@ -515,7 +517,7 @@ Collections of awesome neovim plugins.
 *   [vijaymarupudi/nvim-fzf (⭐347)](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF (Neovim >= 0.5). Allows for full asynchronicity for UI speed and usability.
 *   [camspiers/snap (⭐503)](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 *   [ibhagwan/fzf-lua (⭐3.5k)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, Git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
-*   [jvgrootveld/telescope-zoxide (⭐352)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐27k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
+*   [jvgrootveld/telescope-zoxide (⭐352)](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide (⭐28k)](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 *   [echasnovski/mini.nvim#mini.fuzzy (⭐7.5k)](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 *   [axkirillov/easypick.nvim (⭐404)](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
 *   [linrongbin16/fzfx.nvim (⭐148)](https://github.com/linrongbin16/fzfx.nvim) - A fuzzy finder that updates on every keystroke.
@@ -542,7 +544,7 @@ Collections of awesome neovim plugins.
 *   [Xuyuanp/yanil (⭐97)](https://github.com/Xuyuanp/yanil) - Yet Another Nerdtree In Lua.
 *   [ms-jpq/chadtree (⭐1.7k)](https://github.com/ms-jpq/chadtree) - File manager. Better than NERDTree.
 *   [is0n/fm-nvim (⭐280)](https://github.com/is0n/fm-nvim) - Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders).
-*   [rolv-apneseth/tfm.nvim (⭐93)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐26k)](https://github.com/sxyazi/yazi)).
+*   [rolv-apneseth/tfm.nvim (⭐93)](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi (⭐27k)](https://github.com/sxyazi/yazi)).
 *   [nvim-neo-tree/neo-tree.nvim (⭐4.7k)](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neo-tree is a Neovim plugin to browse the file system and other tree like structures in whatever style suits you, including sidebars, floating windows, netrw split style, or all of them at once.
 *   [elihunter173/dirbuf.nvim (⭐448)](https://github.com/elihunter173/dirbuf.nvim) - A file manager which lets you edit your filesystem like you edit text.
 *   [theblob42/drex.nvim (⭐95)](https://github.com/TheBlob42/drex.nvim) - A simple and configurable file explorer written in Lua.
@@ -754,6 +756,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [neko-night/nvim (⭐46)](https://github.com/neko-night/nvim) - A buffet of colorschemes for every taste and mood.
 *   [ptdewey/monalisa-nvim (⭐6)](https://github.com/ptdewey/monalisa-nvim) - A dark and colorful Mona Lisa inspired colorscheme.
 *   [ntk148v/slack.nvim (⭐4)](https://github.com/ntk148v/slack.nvim) - A ported Slack colorscheme.
+*   [motaz-shokry/gruvbox.nvim](https://gitlab.com/motaz-shokry/gruvbox.nvim) - A new gruvbox that the hard variant bg is "#1b1b1b", and it comes with 4 variants.
 
 ### Lua Colorscheme
 
@@ -1063,6 +1066,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [penaz91/MiniDYM (⭐2)](https://github.com/Penaz91/MiniDYM) - A very small "Did you mean" plugin, suggesting files the user might have wanted to open instead of creating a new one.
 *   [attilarepka/header.nvim (⭐18)](https://github.com/attilarepka/header.nvim) - Add or update copyright and license headers in any source file.
 *   [Owen-Dechow/nvim\_json\_graph\_view (⭐49)](https://github.com/Owen-Dechow/nvim_json_graph_view) - Explore a JSON file as a nested unit/node-based graphical representation.
+*   [toggleword.nvim (⭐2)](https://github.com/iquzart/toggleword.nvim) - Toggle between common code keywords under the cursor such as true ⇄ false, on ⇄ off, enabled ⇄ disabled, and dev ⇄ prod.
 
 ### CSV Files
 
@@ -1079,60 +1083,34 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Terminal Integration
 
+*   [waiting-for-dev/ergoterm.nvim (⭐34)](https://github.com/waiting-for-dev/ergoterm.nvim) - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
 *   [Dan7h3x/neaterm.nvim (⭐55)](https://github.com/Dan7h3x/neaterm.nvim) - A little smart terminal/REPL manager with awesome features.
-
 *   [LoricAndre/OneTerm.nvim (⭐57)](https://github.com/LoricAndre/OneTerm.nvim) - Plugin framework for running commands in the terminal.
-
 *   [nikvdp/neomux (⭐365)](https://github.com/nikvdp/neomux) - Control Neovim from shells running inside Neovim.
-
 *   [willothy/flatten.nvim (⭐655)](https://github.com/willothy/flatten.nvim) - Open files from terminal buffers in your current Neovim instance instead of launching a nested instance.
-
 *   [willothy/wezterm.nvim (⭐234)](https://github.com/willothy/wezterm.nvim) - Functions for interacting with Wezterm.
-
 *   [akinsho/toggleterm.nvim (⭐5k)](https://github.com/akinsho/toggleterm.nvim) - Easily manage multiple terminal windows.
-
 *   [norcalli/nvim-terminal.lua (⭐244)](https://github.com/norcalli/nvim-terminal.lua) - A high performance filetype mode which leverages conceal and highlights your buffer with the correct color codes.
-
 *   [numToStr/FTerm.nvim (⭐781)](https://github.com/numToStr/FTerm.nvim) - No nonsense floating terminal written in Lua.
-
 *   [pianocomposer321/consolation.nvim (⭐35)](https://github.com/pianocomposer321/consolation.nvim) - A general-purpose terminal wrapper and management plugin, written in Lua.
-
 *   [jghauser/kitty-runner.nvim (⭐103)](https://github.com/jghauser/kitty-runner.nvim) - Poor man's REPL. Easily send buffer lines and commands to a kitty terminal.
-
 *   [jlesquembre/nterm.nvim (⭐56)](https://github.com/jlesquembre/nterm.nvim) - Interact with the terminal, with notifications.
-
 *   [s1n7ax/nvim-terminal (⭐118)](https://github.com/s1n7ax/nvim-terminal) - A simple & easy to use multi-terminal plugin.
-
 *   [m00qek/baleia.nvim (⭐164)](https://github.com/m00qek/baleia.nvim) - Colorize text with ANSI escape sequences (8, 16, 256 or TrueColor).
-
 *   [samjwill/nvim-unception (⭐228)](https://github.com/samjwill/nvim-unception) - Automatic unnesting of Neovim sessions started from terminal buffers.
-
 *   [kassio/neoterm (⭐1.3k)](https://github.com/kassio/neoterm) - Wrapper of some `:terminal` functions.
-
 *   [nyngwang/NeoTerm.lua (⭐67)](https://github.com/nyngwang/NeoTerm.lua) - Attach a terminal for each **buffer**, now with stable toggle and astonishing cursor restoring.
-
 *   [idanarye/nvim-channelot (⭐7)](https://github.com/idanarye/nvim-channelot) - Operate Neovim jobs from Lua coroutines.
-
 *   [chomosuke/term-edit.nvim (⭐205)](https://github.com/chomosuke/term-edit.nvim) - Allowing you to edit your command in the terminal just like any other buffer.
-
 *   [mikesmithgh/kitty-scrollback.nvim (⭐664)](https://github.com/mikesmithgh/kitty-scrollback.nvim) - Open your Kitty scrollback buffer. Ameowzing.
-
 *   [niuiic/terminal.nvim (⭐19)](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
-
 *   [NeViRAIDE/nekifoch.nvim (⭐17)](https://github.com/NeViRAIDE/nekifoch.nvim) - Managing Kitty terminal font settings.
-
 *   [2KAbhishek/termim.nvim (⭐75)](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
-
 *   [samharju/yeet.nvim (⭐115)](https://github.com/samharju/yeet.nvim) - Run shell commands in terminal buffers or tmux panes.
-
 *   [isak102/ghostty.nvim (⭐41)](https://github.com/isak102/ghostty.nvim) - Automatically validate your Ghostty configuration on save.
-
 *   [laktak/tome (⭐106)](https://github.com/laktak/tome) - Interactive Script playbooks for your terminal (optionally with Tmux).
-
 *   [Axot017/multiterm.nvim (⭐3)](https://github.com/Axot017/multiterm.nvim) - A lightweight manager of multiple terminal instances with key bindings.
-
 *   [da-moon/telescope-toggleterm.nvim (⭐40)](https://github.com/da-moon/telescope-toggleterm.nvim) - Telescope picker for terminal buffers.
-
 *   [benoror/gpg.nvim (⭐11)](https://github.com/benoror/gpg.nvim) - Edit GPG encrypted files symmetrically.
 
 <!--lint disable double-link -->
@@ -1338,7 +1316,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ### GitLab
 
-*   [harrisoncramer/GitLab.nvim (⭐311)](https://github.com/harrisoncramer/GitLab.nvim) -  Review pull requests and manage other GitLab resources.
+*   [harrisoncramer/GitLab.nvim (⭐311)](https://github.com/harrisoncramer/GitLab.nvim) - Review pull requests and manage other GitLab resources.
 
 <!--lint disable double-link -->
 
@@ -1778,7 +1756,7 @@ These tools are used externally to Neovim to enhance the experience.
 
 ### Version Manager
 
-*   [MordechaiHadad/bob (⭐1.6k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
+*   [MordechaiHadad/bob (⭐1.7k)](https://github.com/MordechaiHadad/bob) - A cross platform and easy to use Neovim version manager.
 *   [NTBBloodbath/nvenv (⭐57)](https://github.com/NTBBloodbath/nvenv) - A lightweight and blazing fast Neovim version manager.
 *   [y3owk1n/nvs (⭐19)](https://github.com/y3owk1n/nvs) - Another Neovim version manager with config switcher.
 
@@ -1788,6 +1766,7 @@ These tools are used externally to Neovim to enhance the experience.
 *   [m00qek/plugin-template.nvim (⭐130)](https://github.com/m00qek/plugin-template.nvim) - A plugin template that setups test infrastructure and GitHub Actions.
 *   [ellisonleao/nvim-plugin-template (⭐354)](https://github.com/ellisonleao/nvim-plugin-template) - Another Neovim plugin template, using GitHub's template feature.
 *   [2KAbhishek/template.nvim (⭐11)](https://github.com/2KAbhishek/template.nvim) - Opinionated template for starting plugin dev quickly.
+*   [jkeresman01/spring-initializr.nvim (⭐1)](https://github.com/jkeresman01/spring-initializr.nvim) - Scaffold Spring Boot projects with a Telescope-powered UI.
 
 ### OS-specific
 

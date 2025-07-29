@@ -8,7 +8,7 @@ A curated list of 🌌 Azure OpenAI, 🦙 Large Language Models (incl. RAG, Agen
 
 ---
 
-# Awesome Azure OpenAI + LLM Resources
+# Awesome Azure OpenAI + LLM
 
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ![Azure OpenAI](https://img.shields.io/badge/llm-azure_openai-blue?style=flat-square)
@@ -35,7 +35,7 @@ This repository serves as a comprehensive guide to the rapidly evolving field of
 
 ***
 
-## Core Areas & Specialized Topics
+## Core Topics
 
 ### 1.🎯RAG Systems
 
@@ -133,13 +133,13 @@ Popular Open-Source Frameworks for LLM Applications
 
 ***
 
-## Tools & Implementation
+## Tools
 
 ### 8.📚AI Tools & Extensions
 
 Practical Tools and Browser Extensions
 
-*   [Development Tools](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#section-10-general-ai-tools-and-extensions) - IDEs, plugins, and development utilities
+*   [AI Tools & Extensions](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/ai_tool.md/#general-ai-tools-and-extensions)
 
 ### 9.📊Datasets
 
