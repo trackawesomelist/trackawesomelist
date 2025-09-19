@@ -6,6 +6,11 @@
 
 [ Daily / [Weekly](/content/mbiesiad/awesome-translations/week/README.md) / [Overview](/content/mbiesiad/awesome-translations/readme/README.md) ]
 
+## [Sep 18, 2025](/content/2025/09/18/README.md)
+
+### Chrome Extension / Translate input fields instantly
+
+*   [Rabbit Translate](https://rabbittranslate.com) - Rabbit Translate: Translate input fields instantly into over 120 languages | Free Trial
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Platforms / Localization and translation platforms
