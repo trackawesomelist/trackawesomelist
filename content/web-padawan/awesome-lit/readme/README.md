@@ -2,7 +2,7 @@
 
 A curated list of awesome Lit resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/web-padawan/awesome-lit/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 web-padawan/awesome-lit](https://github.com/web-padawan/awesome-lit) · ⭐ 1.6K · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/web-padawan/awesome-lit/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 web-padawan/awesome-lit](https://github.com/web-padawan/awesome-lit) · ⭐ 1.7K · 🏷️ Front-End Development
 
 [ [Daily](/content/web-padawan/awesome-lit/README.md) / [Weekly](/content/web-padawan/awesome-lit/week/README.md) / Overview ]
 
@@ -12,7 +12,7 @@ A curated list of awesome Lit resources.
 
 > A curated list of awesome Lit resources.
 
-[Lit (⭐19k)](https://github.com/lit/lit) — a simple library for building fast, lightweight web components.
+[Lit (⭐20k)](https://github.com/lit/lit) — a simple library for building fast, lightweight web components.
 
 At Lit's core is a boilerplate-killing component base class that provides reactive state, scoped styles, and a declarative template system that's tiny, fast and expressive.
 
@@ -30,6 +30,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 *   [Design Systems](#design-systems)
 *   [Component Libraries](#component-libraries)
 *   [Standalone Components](#standalone-components)
+*   [Meta Frameworks](#meta-frameworks)
 *   [Tools](#tools)
     *   [Building](#building)
     *   [Linting](#linting)
@@ -54,8 +55,8 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 ## Community
 
 *   [Discord](https://discord.com/invite/buildWithLit)
-*   [GitHub (⭐19k)](https://github.com/lit/lit)
-*   [GitHub Discussions (⭐19k)](https://github.com/lit/lit/discussions)
+*   [GitHub (⭐20k)](https://github.com/lit/lit)
+*   [GitHub Discussions (⭐20k)](https://github.com/lit/lit/discussions)
 *   [Twitter](https://twitter.com/buildWithLit)
 *   [Stack Overflow](https://stackoverflow.com/questions/tagged/lit+or+lit-html+or+lit-element)
 *   [YouTube](https://www.youtube.com/channel/UCok4ZKSzM3jY7JQRMlF-DPg/)
@@ -68,18 +69,20 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Starter Templates
 
-*   [LitElement JavaScript starter (⭐198)](https://github.com/lit/lit-element-starter-js) - Sample component using LitElement with JavaScript.
-*   [LitElement TypeScript starter (⭐513)](https://github.com/lit/lit-element-starter-ts) - Sample component using LitElement with TypeScript.
-*   [hello-web-components (⭐27)](https://github.com/fernandopasik/hello-web-components) - Simple starter web component written in TypeScript using Lit.
+*   [Gracile Starters (⭐1)](https://github.com/gracile-web/starter-projects) - Gracile full-stack starter projects (SSR/SSG).
+*   [LitElement JavaScript starter (⭐205)](https://github.com/lit/lit-element-starter-js) - Sample component using LitElement with JavaScript.
+*   [LitElement TypeScript starter (⭐526)](https://github.com/lit/lit-element-starter-ts) - Sample component using LitElement with TypeScript.
+*   [hello-web-components (⭐30)](https://github.com/fernandopasik/hello-web-components) - Simple starter web component written in TypeScript using Lit.
 *   [Lit Sass JavaScript Starter (⭐1)](https://github.com/e111077/lit-sass-js-starter) - Project that has a simple setup for SASS + JS + Lit, using Rollup.
 *   [Lit Sass TypeScript Starter (⭐25)](https://github.com/e111077/lit-sass-ts-starter) - Project that has a simple setup for SASS + TS + Lit, using Rollup.
 *   [Lit Webpack Starter (⭐10)](https://github.com/andrewlevada/webpack-lit-template) - Starter for multipage apps with Lit and Typescript, using Webpack.
 *   [Open Web Components Generator](https://open-wc.org/docs/development/generator/) - Starter app based on Open Web Components Recommendations.
-*   [pwa-starter (⭐1.2k)](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
-*   [pwa-lit-template (⭐182)](https://github.com/IBM/pwa-lit-template) - Build Progressive Web Applications following the modern web standards.
+*   [pwa-starter (⭐1.3k)](https://github.com/pwa-builder/pwa-starter) - LitElement edition of the PWABuilder pwa-starter.
+*   [pwa-lit-template (⭐184)](https://github.com/IBM/pwa-lit-template) - Build Progressive Web Applications following the modern web standards.
 *   [Vite Lit Element TS SASS (⭐75)](https://github.com/e111077/vite-lit-element-ts-sass) - Example Vite project using Lit 2, Typescript, and SASS.
-*   [Vite Lit Starter (⭐72k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
-*   [Vite Lit TS Starter (⭐72k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
+*   [Vite Lit Starter (⭐76k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit) - Lit based template preset for Vite.
+*   [Vite Lit TS Starter (⭐76k)](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-lit-ts) - Lit and TypeScript based template preset for Vite.
+*   [Vite Lit + Tailwind (⭐6)](https://github.com/lloydrichards/base_lit-with-tailwind) - Modified Vite + Lit starter to use Tailwind v4.
 
 ## Codelabs
 
@@ -93,18 +96,18 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 ## Tutorials
 
 *   [Building A Retro Draggable Web Component Using Lit](https://www.smashingmagazine.com/2022/09/building-retro-draggable-web-component-using-lit/)
-*   [Building a Rich Text Editor with Lit](https://rodydavis.com/posts/lit-rich-text-editor/)
-*   [Draggable DOM with Lit](https://rodydavis.com/posts/lit-draggable-dom/)
+*   [Building a Rich Text Editor with Lit](https://rodydavis.com/posts/lit-rich-text-editor)
+*   [Draggable DOM with Lit](https://rodydavis.com/posts/lit-draggable-dom)
 *   [Getting started with LitElement and TypeScript](https://labs.thisdot.co/blog/getting-started-with-litelement-and-typescript)
 *   [Here's a minimalist no-frills Redux Toolkit & LitElement example](https://dev.to/jdvivar/here-s-a-minimalist-no-frills-redux-toolkit-litelement-example-1j91)
-*   [JSON to HTML Table with Lit](https://rodydavis.com/posts/lit-html-table/)
+*   [JSON to HTML Table with Lit](https://rodydavis.com/posts/lit-html-table)
 *   [lit-html Part 1 - A solution for DOM management in web components](https://terodox.tech/handling-web-component-markup-with-lit-html/)
 *   [lit-html Part 2 - Working with attributes and properties](https://terodox.tech/lit-html-part-2/)
-*   [Lit and Figma](https://rodydavis.com/posts/figma-and-lit/)
-*   [Lit and Flutter](https://rodydavis.com/posts/flutter-and-lit/)
-*   [Lit and Monaco Editor](https://rodydavis.com/posts/lit-monaco-editor/)
-*   [Lit and VSCode Extensions](https://rodydavis.com/posts/lit-vscode-extension/)
-*   [Lit Sheet Music](https://rodydavis.com/posts/lit-sheet-music/)
+*   [Lit and Figma](https://rodydavis.com/posts/figma-and-lit)
+*   [Lit and Flutter](https://rodydavis.com/posts/flutter-and-lit)
+*   [Lit and Monaco Editor](https://rodydavis.com/posts/lit-monaco-editor)
+*   [Lit and VSCode Extensions](https://rodydavis.com/posts/lit-vscode-extension)
+*   [Lit Sheet Music](https://rodydavis.com/posts/lit-sheet-music)
 *   [Navigation Lifecycle using Vaadin Router, LitElement and TypeScript](https://labs.thisdot.co/blog/navigation-lifecycle-using-vaadin-router-litelement-and-typescript)
 *   [Recreating The Arduino Pushbutton Using SVG And \<lit-element>](https://www.smashingmagazine.com/2020/01/recreating-arduino-pushbutton-svg/)
 *   [Routing Management with LitElement and TypeScript](https://labs.thisdot.co/blog/routing-management-with-litelement)
@@ -112,9 +115,9 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 
 ## Examples
 
-*   [Lit Native (⭐40)](https://github.com/rodydavis/lit-native) - Reuse Lit web components on native platforms.
-*   [Lit Node Editor (⭐21)](https://github.com/rodydavis/lit-node-editor) - Node editor built with canvas API and simple graph data structure.
-*   [Lit 3D Piano (⭐19)](https://github.com/rodydavis/lit-3d-piano/) - 3D Piano built with Lit, Three.js and Tone.js.
+*   [Lit Native (⭐41)](https://github.com/rodydavis/lit-native) - Reuse Lit web components on native platforms.
+*   [Lit Node Editor (⭐24)](https://github.com/rodydavis/lit-node-editor) - Node editor built with canvas API and simple graph data structure.
+*   [Lit 3D Piano (⭐21)](https://github.com/rodydavis/lit-3d-piano) - 3D Piano built with Lit, Three.js and Tone.js.
 *   [Open Web Components Examples](https://open-wc.org/guides/developing-components/code-examples/#lit-html-and-lit-element) - Code examples of common patterns using Lit.
 *   [Polymer → Lit Migration Guide](https://kevinpschaaf.github.io/lit-migration-guide) - Code examples showing migration guidance from Polymer to Lit.
 *   [Vite + RxDB + Lit (⭐5)](https://github.com/rodydavis/vite-rxdb-lit) - Minimal example to get RxDB running with Vite.
@@ -140,58 +143,60 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 *   [`dark-theme-utils`](https://www.npmjs.com/package/dark-theme-utils) - Useful utilities for dark mode built with Web Components.
 *   [`exome`](https://www.npmjs.com/package/exome) - State manager for deeply nested states that supports Lit.
 *   [`pure-lit`](https://github.com/MatthiasKainer/pure-lit) - Register your Lit elements as pure functions.
+*   [`lit-composition`](https://www.npmjs.com/package/lit-composition) - Composition API for creating web components with Lit.
 *   [`lit-element-effect`](https://www.npmjs.com/package/lit-element-effect) - Effect hooks for LitElement.
 *   [`lit-element-state-decoupler`](https://www.npmjs.com/package/lit-element-state-decoupler) - Utility for state handling outside of the component for LitElement.
 *   [`lit-redux-router`](https://www.npmjs.com/package/lit-redux-router) - Declarative way of routing for Lit powered by pwa-helpers and Redux.
 *   [`lit-svelte-stores`](https://www.npmjs.com/package/lit-svelte-stores) - Lit controller to use svelte stores as state management.
-*   [`lit-vaadin-helpers`](https://www.npmjs.com/package/lit-vaadin-helpers) - Helpers for using Vaadin web components with Lit 2.
 *   [`ullr`](https://github.com/aggre/ullr) - Build Web Components with functional programming using Lit.
 
 ## Design Systems
 
-*   [AXA Pattern Library (⭐124)](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with LitElement.
-*   [Brightspace UI core (⭐69)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
-*   [Carbon Web Components (⭐475)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
-*   [Clarity Core Web Components (⭐176)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components for Clarity Design System.
-*   [Kor (⭐278)](https://github.com/eduferfer/kor) - An open source Design System and lightweight UI Component Library.
-*   [Lion (⭐1.8k)](https://github.com/ing-bank/lion) - Highly performant, accessible and flexible Web Components.
-*   [Material Web Components (⭐9.8k)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
-*   [Momentum UI Web Components (⭐206)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
-*   [Outline Design System (⭐131)](https://github.com/phase2/outline) - Web component based design system starter kit.
-*   [Pharos Design System (⭐124)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
-*   [Red Hat Design System (⭐110)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
-*   [Shoelace (⭐13k)](https://github.com/shoelace-style/shoelace) - Collection of professionally designed UI components built on a framework-agnostic technology.
+*   [AXA Pattern Library (⭐129)](https://github.com/axa-ch-webhub-cloud/pattern-library) - AXA CH UI components library built with LitElement.
+*   [Brightspace UI core (⭐75)](https://github.com/BrightspaceUI/core) - Collection of web components for building Brightspace applications.
+*   [Calcite Design System](https://developers.arcgis.com/calcite-design-system/) - UI kit, icons, color schemes, and a web component library by ArcGIS.
+*   [Carbon Web Components (⭐477)](https://github.com/carbon-design-system/carbon-web-components) - Carbon Design System variant on top of Web Components.
+*   [Clarity Core Web Components (⭐182)](https://github.com/vmware-clarity/core/tree/main/projects/core) - Suite of web components for Clarity Design System.
+*   [Kor (⭐283)](https://github.com/eduferfer/kor) - An open source Design System and lightweight UI Component Library.
+*   [Lion (⭐1.9k)](https://github.com/ing-bank/lion) - Highly performant, accessible and flexible Web Components.
+*   [Material Web Components (⭐10k)](https://github.com/material-components/material-web) - Material Design implemented as Web Components.
+*   [Momentum UI Web Components (⭐211)](https://github.com/momentum-design/momentum-ui/tree/master/web-components) - Set of UI components based on Momentum Design.
+*   [Outline Design System (⭐130)](https://github.com/phase2/outline) - Web component based design system starter kit.
+*   [Pharos Design System (⭐127)](https://github.com/ithaka/pharos) - JSTOR's design system to create cohesive, supportive, and beautiful experiences.
+*   [Red Hat Design System (⭐127)](https://github.com/RedHat-UX/red-hat-design-system) - Web components for building uniform experiences with the Red Hat brand.
 *   [Spectrum Web Components (⭐1.4k)](https://github.com/adobe/spectrum-web-components) - Adobe Spectrum design language implementation built with LitElement.
-*   [UI5 Web Components (⭐1.6k)](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
+*   [UI5 Web Components (⭐1.7k)](https://github.com/SAP/ui5-webcomponents) - Enterprise-flavored sugar on top of native APIs!
+*   [Vaadin web components (⭐537)](https://github.com/vaadin/web-components) - A set of high-quality web components for business web applications.
+*   [Web Awesome (⭐523)](https://github.com/shoelace-style/webawesome) - The open source library of web components from Font Awesome
 
 ## Component Libraries
 
-*   [Apollo Elements (⭐420)](https://github.com/apollo-elements/apollo-elements) - Custom elements meet Apollo GraphQL.
-*   [Blackstone UI (⭐99)](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement.
+*   [Apollo Elements (⭐422)](https://github.com/apollo-elements/apollo-elements) - Custom elements meet Apollo GraphQL.
+*   [Blackstone UI (⭐106)](https://github.com/kjantzer/bui) - Web components for creating interfaces built with lit-html and LitElement.
 *   [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) - Web components for chartjs.
-*   [Clever components (⭐230)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
-*   [Curvenote (⭐181)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
-*   [Dile Components (⭐86)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
-*   [ESP Web Tools (⭐509)](https://github.com/esphome/esp-web-tools) - Allow flashing ESPHome or other ESP-based firmwares via the browser.
+*   [Clever components (⭐233)](https://github.com/CleverCloud/clever-components) - Collection of Web Components made by Clever Cloud.
+*   [Curvenote (⭐184)](https://github.com/curvenote/article) - Web components for creating interactive scientific articles.
+*   [Dile Components (⭐94)](https://github.com/Polydile/dile-components) - General use Web Components for websites and applications.
+*   [ESP Web Tools (⭐555)](https://github.com/esphome/esp-web-tools) - Allow flashing ESPHome or other ESP-based firmwares via the browser.
 *   [Furo Webcomponents (⭐12)](https://github.com/eclipse/eclipsefuro-web) - Enterprise ready set of web components which work best with Eclipse Furo.
-*   [Fusion Web Components (⭐12)](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
-*   [Ignite UI Web Components (⭐125)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
-*   [LRNWebComponents (⭐255)](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project.
-*   [Medblocks UI (⭐58)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
-*   [Microsoft Graph Toolkit (⭐984)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
+*   [Fusion Web Components (⭐13)](https://github.com/equinor/fusion-web-components) - Ser of web components used by Equinor Fusion.
+*   [Ignite UI Web Components (⭐134)](https://github.com/IgniteUI/igniteui-webcomponents) - Complete library of UI components from Infragistics.
+*   [LRNWebComponents (⭐267)](https://github.com/elmsln/lrnwebcomponents) - ELMS:LN produced web components for any project.
+*   [Medblocks UI (⭐64)](https://github.com/medblocks/medblocks-ui) - Web Components for rapid development of openEHR and FHIR systems.
+*   [Microsoft Graph Toolkit (⭐1k)](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
 *   [Mutation testing elements (⭐28)](https://github.com/stryker-mutator/mutation-testing-elements) - A schema for mutation testing results with the web components to visualize it.
-*   [One Platform Components (⭐30)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
-*   [Playground Elements (⭐567)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
+*   [One Platform Components (⭐31)](https://github.com/1-Platform/op-components) - Set of web components for Red Hat One Platform.
+*   [Playground Elements (⭐618)](https://github.com/PolymerLabs/playground-elements) - Serverless code experiences with web components.
 *   [Stripe Elements (⭐81)](https://github.com/bennypowers/stripe-elements) - Custom Element Wrapper for Stripe.js v3 Elements.
 *   [Titanium Elements (⭐19)](https://github.com/LeavittSoftware/titanium-elements) - Collection of lightweight web components used by Leavitt Group Enterprises.
-*   [TrendChart Elements (⭐54)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple charts representing trends.
-*   [Umbraco UI Components (⭐132)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
-*   [Vidstack Elements (⭐2.8k)](https://github.com/vidstack/vds-elements) - Spec-compliant customizable, extensible, accessible and universal media elements.
+*   [TrendChart Elements (⭐61)](https://github.com/WebLogin/trendchart-elements) - Components to generate simple charts representing trends.
+*   [Umbraco UI Components (⭐141)](https://github.com/umbraco/Umbraco.UI) - Collection of user interface web components for Umbraco CMS.
+*   [Vidstack Elements (⭐3.2k)](https://github.com/vidstack/vds-elements) - Spec-compliant customizable, extensible, accessible and universal media elements.
 *   [VSCode Webview Elements (⭐0)](https://github.com/bendera/vscode-webview-elements) - Components for creating VSCode extensions which use the Webview API.
 *   [Web Components for TEI Publisher (⭐18)](https://github.com/eeditiones/tei-publisher-components) - Web components used by TEI Publisher and apps generated by it.
 *   [Webmarkets web components (⭐1)](https://github.com/Webmarkets/wm-web-components) - Set of Webmarkets' public web components.
 *   [Wired Elements (⭐11k)](https://github.com/rough-stuff/wired-elements) - Collection of elements that appear hand drawn.
-*   [Wokwi Elements (⭐198)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
+*   [Wokwi Elements (⭐210)](https://github.com/wokwi/wokwi-elements) - Web Components for Arduino and various electronic parts.
 
 ## Standalone Components
 
@@ -210,8 +215,13 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 *   [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) - Web Component for easily embedding and playing Lottie animations.
 *   [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) - A web component for rendering interactive 3D models.
 *   [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) - Web Component to view OpenAPI 3.0 & Swagger 2.0 Spec.
+*   [`<responsive-image>`](https://github.com/simonihmig/responsive-image) - Web component for rendering responsive images.
 *   [`<round-slider>`](https://github.com/thomasloven/round-slider) - Simple round slider web component built with Lit.
 *   [`<stl-part-viewer>`](https://github.com/justinribeiro/stl-part-viewer) - LitElement web component that utilizes Three.js to display an STL model file.
+
+## Meta Frameworks
+
+*   [Gracile](https://gracile.js.org/) - Thin, full-stack meta-framework. Powered by Vite and Lit SSR.
 
 ## Tools
 
@@ -238,7 +248,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 *   [vscode-lit-html](https://marketplace.visualstudio.com/items?itemName=bierner.lit-html) - Syntax highlighting and IntelliSense for lit-html template strings.
 *   [vscode-lit-plugin](https://marketplace.visualstudio.com/items?itemName=runem.lit-plugin) - Syntax highlighting, type checking and code completion for lit-html.
 *   [es6-string-html](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) - VSCode extension which provides syntax highlighting for HTML in ES6 multiline strings.
-*   [vim-html-template-literals (⭐76)](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
+*   [vim-html-template-literals (⭐77)](https://github.com/jonsmithers/vim-html-template-literals) - Syntax highlighting and indentation for HTML inside of tagged template literals.
 *   [@web-types/lit](https://www.npmjs.com/package/@web-types/lit) - Attribute completion for HTML inside of tagged template literals.
 
 ### TypeScript Plugins
@@ -251,7 +261,7 @@ At Lit's core is a boilerplate-killing component base class that provides reacti
 *   [@custom-elements-manifest/analyzer](https://www.npmjs.com/package/@custom-elements-manifest/analyzer) - CLI tool to generate API documentation for web components.
 *   [Storybook for web-components](https://www.npmjs.com/package/@storybook/web-components) - UI development environment for plain web-component snippets.
 *   [web-components-codemods](https://www.npmjs.com/package/web-components-codemods) - Codemods for Web Components compatible with lit-html template literals.
-*   [Web Component DevTools (⭐139)](https://github.com/Matsuuu/web-component-devtools) - Browser extension for developers working with Web Components.
+*   [Web Component DevTools (⭐143)](https://github.com/Matsuuu/web-component-devtools) - Browser extension for developers working with Web Components.
 *   [Web Component Factory](https://www.npmjs.com/package/@wcfactory/cli) - CLI tool for generating, building, testing and publishing web components.
 
 ## CDN
@@ -269,8 +279,8 @@ See [lit.dev documentation](https://lit.dev/docs/getting-started/#use-bundles) f
 ## Integrations
 
 *   [Bridgetown Lit Renderer (⭐13)](https://github.com/bridgetownrb/bridgetown-lit-renderer) - SSR + hydration of Lit components for Bridgetown.
-*   [Fable.Lit (⭐94)](https://github.com/fable-compiler/Fable.Lit) - Collection of tools to embed HTML code into F# code with the power of Lit.
-*   [Ruby2JS (⭐436)](https://github.com/ruby2js/ruby2js) - Minimal yet extensible Ruby to JavaScript conversion.
+*   [Fable.Lit (⭐93)](https://github.com/fable-compiler/Fable.Lit) - Collection of tools to embed HTML code into F# code with the power of Lit.
+*   [Ruby2JS (⭐440)](https://github.com/ruby2js/ruby2js) - Minimal yet extensible Ruby to JavaScript conversion.
 
 ## Videos
 
@@ -312,13 +322,13 @@ These libraries are not related to Lit, but are built using similar concepts. Th
 template literal, and leverage the benefits of the same [IDE Plugins](#ide-plugins) for syntax highlighting.
 
 *   [haunted](https://www.npmjs.com/package/haunted) - React's Hooks API but for standard web components and hyperHTML or lit-html.
-*   [htm (⭐8.8k)](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
+*   [htm (⭐9k)](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
 *   [hybrids (⭐3.1k)](https://github.com/hybridsjs/hybrids) - UI library for creating Web Components with simple and functional API.
-*   [lit-ntml (⭐81)](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
+*   [lit-ntml (⭐82)](https://github.com/motss/lit-ntml) - Lightweight and modern templating for SSR in Node.js, inspired by lit-html.
 
 ## Other awesome resources
 
-**If you want more awesome resources, check the [awesome (⭐354k)](https://github.com/sindresorhus/awesome) list!**
+**If you want more awesome resources, check the [awesome (⭐409k)](https://github.com/sindresorhus/awesome) list!**
 
 ***
 

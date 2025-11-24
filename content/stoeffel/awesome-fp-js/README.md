@@ -6,11 +6,17 @@
 
 [ Daily / [Weekly](/content/stoeffel/awesome-fp-js/week/README.md) / [Overview](/content/stoeffel/awesome-fp-js/readme/README.md) ]
 
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Libraries
+
+*   [iterflow (⭐1)](https://github.com/gv-sh/iterflow) - Powerful iterator utilities for TypeScript with statistical operations, windowing, and lazy evaluation. +TS
+
 ## [Jul 24, 2025](/content/2025/07/24/README.md)
 
 ### Libraries
 
-*   [fp-filters (⭐18)](https://github.com/Oaxoa/fp-filters) - A curated collection of 130+ common-use filter functions.
+*   [fp-filters (⭐86)](https://github.com/Oaxoa/fp-filters) - A curated collection of 130+ common-use filter functions.
     Written in a functional programming style. Lightweight direct imports. Supports ES modules and CommonJS. 100% Unit
     tested. +TS
 
@@ -24,13 +30,13 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [NeverThrow (⭐6k)](https://github.com/supermacro/neverthrow) - This package contains a `Result` type that represents either success (`Ok`) or failure (`Err`).
+*   [NeverThrow (⭐6.8k)](https://github.com/supermacro/neverthrow) - This package contains a `Result` type that represents either success (`Ok`) or failure (`Err`).
 
 ## [Nov 25, 2024](/content/2024/11/25/README.md)
 
 ### Libraries
 
-*   [klubok (⭐1)](https://github.com/darky/klubok) - Pipes with easy mocking, intended for huge amount of unit tests. +TS
+*   [klubok (⭐2)](https://github.com/darky/klubok) - Pipes with easy mocking, intended for huge amount of unit tests. +TS
 
 ## [Feb 17, 2024](/content/2024/02/17/README.md)
 
@@ -43,19 +49,19 @@
 
 ### Libraries
 
-*   [Verticalize (⭐301)](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
+*   [Verticalize (⭐299)](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
 
 ## [Sep 18, 2023](/content/2023/09/18/README.md)
 
 ### Libraries / Algebraic Data Types
 
-*   [sweet-monads (⭐351)](https://github.com/JSMonk/sweet-monads) - A collection of popular monads (such as `Either` and `Maybe`) and the lazy iterator.
+*   [sweet-monads (⭐354)](https://github.com/JSMonk/sweet-monads) - A collection of popular monads (such as `Either` and `Maybe`) and the lazy iterator.
 
 ## [Sep 04, 2023](/content/2023/09/04/README.md)
 
 ### Libraries
 
-*   [hyogwa (⭐59)](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
+*   [hyogwa (⭐60)](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
 
 ## [Mar 19, 2023](/content/2023/03/19/README.md)
 
@@ -83,7 +89,7 @@
 
 ### Libraries
 
-*   [true-myth (⭐1.2k)](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
+*   [true-myth (⭐1.3k)](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
 
 ## [Apr 24, 2022](/content/2022/04/24/README.md)
 
@@ -113,14 +119,14 @@
 
 ### Libraries
 
-*   [Ditox.js (⭐98)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
-*   [RxEffects (⭐36)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
+*   [Ditox.js (⭐100)](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
+*   [RxEffects (⭐37)](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
 
 ## [Oct 16, 2021](/content/2021/10/16/README.md)
 
 ### Libraries
 
-*   [effect-ts (⭐11k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
+*   [effect-ts (⭐12k)](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
 *   [qio (⭐74)](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
 
 ## [Oct 11, 2021](/content/2021/10/11/README.md)
@@ -140,7 +146,7 @@
 
 ### Libraries
 
-*   [lfi (⭐341)](https://github.com/TomerAberbach/lfi) - A Lazy Functional Iteration Library Supporting Sync, Async, and Concurrent Iteration.
+*   [lfi (⭐349)](https://github.com/TomerAberbach/lfi) - A Lazy Functional Iteration Library Supporting Sync, Async, and Concurrent Iteration.
 
 ## [Dec 20, 2020](/content/2020/12/20/README.md)
 
@@ -152,25 +158,25 @@
 
 ### Libraries
 
-*   [Rambdax (⭐221)](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
+*   [Rambdax (⭐223)](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 
 ## [Aug 27, 2020](/content/2020/08/27/README.md)
 
 ### Libraries
 
-*   [omg-curry (⭐137)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
+*   [omg-curry (⭐136)](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
 
 ## [Jul 03, 2020](/content/2020/07/03/README.md)
 
 ### Libraries
 
-*   [rocket-pipes (⭐25)](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
+*   [rocket-pipes (⭐26)](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
 
 ## [May 30, 2020](/content/2020/05/30/README.md)
 
 ### Libraries
 
-*   [rubico (⭐281)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous functional syntax
+*   [rubico (⭐283)](https://github.com/a-synchronous/rubico) - 🏞 \[a]synchronous functional syntax
 
 ## [May 26, 2020](/content/2020/05/26/README.md)
 
@@ -207,24 +213,24 @@
 *   [barely-functional (⭐107)](https://github.com/cullophid/barely-functional) – A tiny (2.7kb) functional programming library using native ES5/6 operations. -TS.
 *   [prelude.ls](http://gkz.github.io/prelude-ls/) – A functionally oriented utility library somewhat based off of Haskell's Prelude module. -TS.
 *   [preludejs (⭐100)](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript. -TS.
-*   [1-liners (⭐796)](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.  -TS.
+*   [1-liners (⭐798)](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.  -TS.
 *   [funfix (⭐632)](https://github.com/funfix/funfix) – Funfix is a library of type classes and data types for Functional Programming in JavaScript, TypeScript and Flow.  +CT, +TS.
 *   [pico-lambda (⭐71)](https://github.com/trainyard/pico-lambda) - Arrays, Strings and things the functional way. A 640b functional library based on native methods. -TS.
-*   [pareto-js (⭐258)](https://github.com/concretesolutions/pareto.js/) - An extremely small, intuitive and fast functional utility library for JavaScript -TS.
+*   [pareto-js (⭐260)](https://github.com/concretesolutions/pareto.js/) - An extremely small, intuitive and fast functional utility library for JavaScript -TS.
 *   [fpEs (⭐43)](https://github.com/TeaEntityLab/fpEs/) - A small library provides simple usages of basic FP & pattern-matching/sumtype & MonadIO/Rx & Optional for Javascript. -TS.
 *   [Creed](http://blog.briancavalier.com/creed/) – Sophisticated and functionally-minded async with advanced features: coroutines, promises, ES2015 iterables, fantasy-land. -TS.
-*   [TGrid (⭐162)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of [TSTL (⭐615)](https://github.com/samchon/tstl), supporting RFC (Remote Function Call). +TS.
-*   [Ferrum (⭐530)](https://github.com/adobe/ferrum) – Iterator library with support for objects as iterables, lazy evaulation and`pipe()`; implements Traits (from Rust)/Type Classes (from Haskell) in JS. -TS.
-*   [iter-tools (⭐177)](https://github.com/iter-tools/iter-tools) - a rich toolset for working with iterables, both sync and async. +TS.
+*   [TGrid (⭐166)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of [TSTL (⭐625)](https://github.com/samchon/tstl), supporting RFC (Remote Function Call). +TS.
+*   [Ferrum (⭐531)](https://github.com/adobe/ferrum) – Iterator library with support for objects as iterables, lazy evaulation and`pipe()`; implements Traits (from Rust)/Type Classes (from Haskell) in JS. -TS.
+*   [iter-tools (⭐181)](https://github.com/iter-tools/iter-tools) - a rich toolset for working with iterables, both sync and async. +TS.
 *   [remeda](https://remedajs.com/) A function library roughly subsetting Ramda, but written in Typescript and thus more type-friendly. +TS.
 
 ### Libraries / Data Structures
 
-*   [Immer (⭐28k)](https://github.com/mweststrate/immer) – Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.
-*   [DerivableJS (⭐516)](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.
-*   [collectable (⭐274)](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.
-*   [prelude.ts (⭐382)](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too.  +CT, +TS.
-*   [TSTL (⭐615)](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.
+*   [Immer (⭐29k)](https://github.com/mweststrate/immer) – Immer is a tiny package for immutable state based on copy-on-write mechanism. +TS.
+*   [DerivableJS (⭐517)](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related. +TS.
+*   [collectable (⭐277)](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. +TS.
+*   [prelude.ts (⭐383)](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too.  +CT, +TS.
+*   [TSTL (⭐625)](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided. +TS.
 
 ### Libraries / Algebraic Data Types
 
@@ -232,7 +238,7 @@
 *   [monet.js](http://cwmyers.github.io/monet.js/) – A library that assists functional programming by providing a rich set of Monads and other useful functions.  +CT, +TS.
 *   [crocks (⭐1.6k)](https://github.com/evilsoft/crocks) – A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running. -TS.
 *   [purify (⭐1.6k)](https://github.com/gigobyte/purify) - Functional programming library for TypeScript focusing on ADTs.  +CT, +TS.
-*   [Pratica (⭐485)](https://github.com/rametta/pratica) - Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast.  +CT, +TS.
+*   [Pratica (⭐487)](https://github.com/rametta/pratica) - Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast.  +CT, +TS.
 *   [Tifi](https://github.com/mobily/tifi) - Tifi is a library for functional programming in TypeScript. It solves a problem of the existence of both `undefined` and `null`. Tifi is inspired by the OCaml/Reason utilities for the option data type. +CT, +TS.
 
 ## [Oct 30, 2019](/content/2019/10/30/README.md)
@@ -313,7 +319,7 @@
 
 ### Libraries / Algebraic Data Types
 
-*   [MojiScript (⭐148)](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
+*   [MojiScript (⭐147)](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
 
 ## [Aug 23, 2018](/content/2018/08/23/README.md)
 
@@ -343,7 +349,7 @@
 
 ### Libraries
 
-*   [Ramda-extension (⭐168)](https://github.com/tommmyy/ramda-extension) is set of utility point-free functions composed only from Ramda functions.
+*   [Ramda-extension (⭐167)](https://github.com/tommmyy/ramda-extension) is set of utility point-free functions composed only from Ramda functions.
 
 ## [Mar 23, 2018](/content/2018/03/23/README.md)
 
@@ -395,7 +401,7 @@
 
 ### Libraries
 
-*   [zen-signals (⭐53)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
+*   [zen-signals (⭐54)](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
@@ -405,14 +411,14 @@
 
 ### Libraries
 
-*   [Javascript Parser Combinator (⭐148)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
+*   [Javascript Parser Combinator (⭐150)](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
 *   [fun-task (⭐373)](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
 *   [most (⭐3.5k)](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 
 ### Programming Tools / Lenses
 
 *   [4.5 (⭐21)](https://github.com/TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
-*   [hm-def (⭐199)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
+*   [hm-def (⭐200)](https://github.com/xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 
 ## [Jun 05, 2017](/content/2017/06/05/README.md)
 
@@ -424,7 +430,7 @@
 
 ### Resources / Examples and Exercises
 
-*   [Escape from Callback Mountain (⭐258)](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
+*   [Escape from Callback Mountain (⭐257)](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
 
 ## [Apr 11, 2017](/content/2017/04/11/README.md)
 
@@ -442,7 +448,7 @@
 
 ### Libraries
 
-*   [FPO.js (⭐449)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
+*   [FPO.js (⭐451)](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
 
 ## [Mar 06, 2017](/content/2017/03/06/README.md)
 
@@ -454,7 +460,7 @@
 
 ### Libraries / Lenses
 
-*   [partial.lenses (⭐922)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
+*   [partial.lenses (⭐921)](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
 
 ## [Jan 10, 2017](/content/2017/01/10/README.md)
 
@@ -478,7 +484,7 @@
 
 ### Programming Tools / Lenses
 
-*   [eslint-plugin-fp (⭐970)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
+*   [eslint-plugin-fp (⭐969)](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 
 ## [Nov 02, 2016](/content/2016/11/02/README.md)
 
@@ -496,13 +502,13 @@
 
 ### Functional Languages that Compile to JavaScript / Lenses
 
-*   [Quack (⭐327)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
+*   [Quack (⭐326)](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 
 ## [Oct 08, 2016](/content/2016/10/08/README.md)
 
 ### Libraries / Data Structures
 
-*   [Icepick (⭐423)](https://github.com/aearly/icepick) Utilities for treating frozen JavaScript objects as persistent immutable collections
+*   [Icepick (⭐424)](https://github.com/aearly/icepick) Utilities for treating frozen JavaScript objects as persistent immutable collections
 
 ## [Oct 03, 2016](/content/2016/10/03/README.md)
 
@@ -514,13 +520,13 @@
 
 ### Libraries / Data Structures
 
-*   [imlazy (⭐102)](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
+*   [imlazy (⭐103)](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
 
 ## [Aug 22, 2016](/content/2016/08/22/README.md)
 
 ### Libraries
 
-*   [js-joda (⭐1.6k)](https://github.com/js-joda/js-joda) – An immutable date and time library that provides a simple, domain-driven and clean API based on the ISO8601 calendar.
+*   [js-joda (⭐1.7k)](https://github.com/js-joda/js-joda) – An immutable date and time library that provides a simple, domain-driven and clean API based on the ISO8601 calendar.
 
 ### Resources / Books
 
@@ -578,7 +584,7 @@
 ### Resources / Examples and Exercises
 
 *   [FPJS-Class (⭐94)](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
-*   [functional-javascript-workshop (⭐2.1k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
+*   [functional-javascript-workshop (⭐2k)](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
 
 ## [Apr 18, 2016](/content/2016/04/18/README.md)
 
@@ -595,7 +601,7 @@
 
 ### Community / Related Lists
 
-*   [lucasviola/Awesome Functional Programming (⭐984)](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
+*   [lucasviola/Awesome Functional Programming (⭐991)](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
 *   [xgrommx/Awesome Functional Programming (⭐3.5k)](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
 
 ## [Mar 13, 2016](/content/2016/03/13/README.md)
@@ -603,14 +609,14 @@
 ### Libraries
 
 *   [fnuc (⭐16)](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
-*   [curry (⭐85)](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
+*   [curry (⭐86)](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
 *   [compose-function (⭐56)](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
-*   [functionize (⭐49)](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
+*   [functionize (⭐50)](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
 *   [lambdajs (⭐142)](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
 *   [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
 *   [trifl (⭐35)](https://github.com/algesten/trifl) – A functional user interface library with unidirectional dataflow and a virtual dom.
-*   [funcy (⭐247)](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. *Experimental*  :triangular\_flag\_on\_post:
-*   [\_part\_ (⭐41)](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
+*   [funcy (⭐248)](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. *Experimental*  :triangular\_flag\_on\_post:
+*   [\_part\_ (⭐42)](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
 
 ### Libraries / Data Structures
 
@@ -625,7 +631,7 @@
 
 ### Libraries / Lenses
 
-*   [lenses (⭐215)](https://github.com/DrBoolean/lenses) – Composable [kmett (⭐2.1k)](https://github.com/ekmett/lens) style lenses.
+*   [lenses (⭐216)](https://github.com/DrBoolean/lenses) – Composable [kmett (⭐2.1k)](https://github.com/ekmett/lens) style lenses.
 *   [optics (⭐87)](https://github.com/flunc/optics) – Profunctor optics (Lens, Prism, iso).
 *   [ramda-lens (⭐184)](https://github.com/ramda/ramda-lens) – :ram: :mag\_right: Lens library built on Ramda.
 *   [fantasy-lenses (⭐109)](https://github.com/fantasyland/fantasy-lenses) – Composable, immutable getters and setters. (Profunctor lenses WIP)

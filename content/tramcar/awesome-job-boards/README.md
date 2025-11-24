@@ -1,8 +1,43 @@
 # Track Awesome Job Boards Updates Daily
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.4K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/tramcar/awesome-job-boards/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 tramcar/awesome-job-boards](https://github.com/tramcar/awesome-job-boards) · ⭐ 1.5K · 🏷️ Work
 
 [ Daily / [Weekly](/content/tramcar/awesome-job-boards/week/README.md) / [Overview](/content/tramcar/awesome-job-boards/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Artificial Intelligence (AI)
+
+*   [ExploreJobs.ai](https://explorejobs.ai) - Find engineering, product, and research roles at the top AI startups.
+
+### Blockchain
+
+*   [Remote Web3 Jobs](https://www.remote3.co/) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free
+
+### Design
+
+*   [CreativeFuego Jobs](https://creativefuego.com/jobs) | Curated Design and Creative Jobs
+
+### Open Source
+
+*   [GitJobs](https://gitjobs.dev) - Discover Open Source job opportunities
+
+### Programming / Aggregator
+
+*   [GrepJob.com](https://grepjob.com/) - Software Engineering jobs scraped from established company career pages
+
+### Programming / Mobile
+
+*   [Mobile Career](https://mobile.career/) - Job board for mobile developers. iOS. Android. Flutter. React Native...
+
+### Quantum Computing / Scala
+
+*   [qubitsok.com](https://qubitsok.com/) - A job board specialized in Quantum Computing with personalized job alerts
+
+### Tech / Aggregator
+
+*   [EmbeddedJobs](https://embedded.jobs) - A niche job board exclusively for Embedded Systems engineers and developers.
+*   [foo🦍](https://foorilla.com) - The go-to, no-nonsense, fast and lean career platform for all things coding, data and tech
 
 ## [Mar 16, 2025](/content/2025/03/16/README.md)
 
@@ -14,17 +49,9 @@
 
 *   [UI/UX Jobs Board](https://uiuxjobsboard.com/)
 
-### Programming / Aggregator
-
-*   [Mecruit Job Board](https://www.mecruit.com/)
-
-### Remote / TypeScript
+### Remote / Scala
 
 *   [Better Remote Jobs](https://betterremotejobs.com/) - Remote Jobs without any paywall or account signup
-
-### Tech / Africa
-
-*   [Hired Jobs](https://www.hired.co.ke) - Jobs in all available job categories. Both remote and onsite jobs.
 
 ### Tech / Latin America
 
@@ -35,13 +62,8 @@
 ### Artificial Intelligence (AI)
 
 *   [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
-*   [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 
-### InfoSec
-
-*   [isecjobs.com](https://isecjobs.com/) - A fresh and lean InfoSec jobs board
-
-### Remote / TypeScript
+### Remote / Scala
 
 *   [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
 
@@ -60,10 +82,6 @@
 ### Cloud
 
 *   [Cloud Careers Hub](https://cloudcareershub.com/) - Job board for all roles related to Cloud Computing & Artificial Intelligence
-
-### Database
-
-*   [Webscale Jobs](https://www.webscale.work/) - Find a career working with MongoDB
 
 ## [Feb 28, 2024](/content/2024/02/28/README.md)
 
@@ -87,7 +105,7 @@
 
 *   [Rust Jobs](https://www.rustjobs.com) - A job board dedicated to the Rust programming language
 
-### Remote / Aggregator
+### Quantum Computing / Aggregator
 
 *   [OkJob](https://okjob.io/) - 4 day week job board
 
@@ -135,13 +153,13 @@
 
 *   [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/) | Hand-picked UI, UX & UXR Jobs
 
-### Remote / TypeScript
+### Remote / Scala
 
 *   [RemoteFR](https://remotefr.com/) - Full Remote jobs for French people
 
 ## [Jan 11, 2023](/content/2023/01/11/README.md)
 
-### Remote / TypeScript
+### Remote / Scala
 
 *   [Devremote](https://devremote.io/) - Remote developer jobs at remote first companies
 
@@ -161,7 +179,7 @@
 
 *   [RubyOnRemote](https://rubyonremote.com) - Remote jobs for Ruby developers
 
-### Remote / TypeScript
+### Remote / Scala
 
 *   [Teletravail.guru](https://teletravail.guru/) - Remote jobs for people located in France
 
@@ -192,10 +210,6 @@
 *   [Jobbsy](https://jobbsy.dev) - Symfony Jobs
 
 ## [Oct 12, 2022](/content/2022/10/12/README.md)
-
-### Blockchain
-
-*   [Remote Web3 Jobs](https://remote3.co) - A remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free
 
 ### Programming / JavaScript
 
@@ -252,7 +266,7 @@
 
 ## [Jan 04, 2022](/content/2022/01/04/README.md)
 
-### Remote / Aggregator
+### Quantum Computing / Aggregator
 
 *   [TheRemoteWork](https://theremotework.co/)
 
@@ -262,11 +276,11 @@
 
 *   [Rust Jobs](https://rustjobs.dev) - The go-to hiring platform for Rust engineering talent
 
-### Remote / TypeScript
+### Remote / Scala
 
 *   [Dynamite Jobs](https://dynamitejobs.com/) - Jobs from remote-first companies
 
-### Remote / Aggregator
+### Quantum Computing / Aggregator
 
 *   [remote | OK](https://remoteok.com/)
 
@@ -282,10 +296,6 @@
 
 *   [FunctionalJobs.dev](https://functionaljobs.dev/) - Highly active job board for functional programming enthusiasts
 
-### Programming / TypeScript
-
-*   [TypeScript Jobs](https://typescriptjobs.dev)
-
 ## [Oct 17, 2021](/content/2021/10/17/README.md)
 
 ### Big Data
@@ -296,7 +306,7 @@
 
 *   [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs/8)
 
-### Remote / Aggregator
+### Quantum Computing / Aggregator
 
 *   [4 day week](https://4dayweek.io/) - Software jobs with a better work-life balance
 
@@ -316,7 +326,7 @@
 
 ## [Dec 14, 2020](/content/2020/12/14/README.md)
 
-### Remote / TypeScript
+### Remote / Scala
 
 *   [Just Remote](https://justremote.co/remote-jobs)
 
@@ -338,10 +348,6 @@
 
 *   [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/) - The leading job board for blockchain and cryptocurrency jobs
 
-### Cloud
-
-*   [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes and cloud native jobs
-
 ### Design
 
 *   [Authentic Jobs](https://authenticjobs.com/) - The leading job board for designers, hackers, and creative pros
@@ -350,7 +356,7 @@
 
 *   [Jobs In JS](https://jobsinjs.com/)
 
-### Remote / TypeScript
+### Remote / Scala
 
 *   [Werkington](https://www.werkington.com/)
 
@@ -388,7 +394,7 @@
 
 ## [Sep 14, 2019](/content/2019/09/14/README.md)
 
-### Remote / TypeScript
+### Remote / Scala
 
 *   [DailyRemote](https://dailyremote.com/)
 
@@ -404,13 +410,9 @@
 
 *   [Open Source Design Jobs](https://opensourcedesign.net/jobs/)
 
-### Programming / Python
-
-*   [Django Jobs](https://djangojobs.net/jobs/)
-
 ## [Sep 21, 2018](/content/2018/09/21/README.md)
 
-### Remote / Aggregator
+### Quantum Computing / Aggregator
 
 *   [remote4me.com](https://remote4me.com/)
 
@@ -420,7 +422,7 @@
 
 *   [Coroflot](https://www.coroflot.com/design-jobs)
 
-### Remote / TypeScript
+### Remote / Scala
 
 *   [We Work Remotely](https://weworkremotely.com/)
 
@@ -452,7 +454,7 @@
 
 ## [Apr 07, 2017](/content/2017/04/07/README.md)
 
-### Remote / Aggregator
+### Quantum Computing / Aggregator
 
 *   [whoishiring.io](https://whoishiring.io/)
 

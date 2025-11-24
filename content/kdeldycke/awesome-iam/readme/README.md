@@ -211,7 +211,7 @@ Zero trust network security operates under the principle “never trust, always 
 
 *   [transcend (⭐256)](https://github.com/cogolabs/transcend) - BeyondCorp-inspired Access Proxy server.
 
-*   [Pomerium (⭐4.3k)](https://github.com/pomerium/pomerium) - An identity-aware proxy that enables secure access to internal applications.
+*   [Pomerium (⭐4.4k)](https://github.com/pomerium/pomerium) - An identity-aware proxy that enables secure access to internal applications.
 
 *   [heimdall (⭐199)](https://github.com/dadrus/heimdall) - A cloud-native, identity-aware proxy and policy enforcement point that orchestrates authentication and authorization systems via versatile rules, supporting protocol-agnostic identity propagation.
 
@@ -393,6 +393,8 @@ As a concept, access control policies can be designed to follow very different a
 
 *   [Cerbos (⭐4k)](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
 
+*   [FerrisKey (⭐258)](https://github.com/ferriskey/ferriskey) - Self-hosted, open-source, RBAC system written in Rust.
+
 ### ABAC frameworks
 
 [Attribute-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) is an evolution of RBAC, in which roles are replaced by attributes, allowing the implementation of more complex policy-based access control.
@@ -479,11 +481,11 @@ The old *OpenID* is dead; the new *OpenID Connect* is very much not-dead.
 
 *   [Hydra (⭐16k)](https://github.com/ory/hydra) - Open-source OIDC & OAuth2 Server Provider.
 
-*   [Keycloak (⭐28k)](https://github.com/keycloak/keycloak) - Open-source Identity and Access Management. Supports OIDC, OAuth 2 and SAML 2, LDAP and AD directories, password policies.
+*   [Keycloak (⭐29k)](https://github.com/keycloak/keycloak) - Open-source Identity and Access Management. Supports OIDC, OAuth 2 and SAML 2, LDAP and AD directories, password policies.
 
 *   [Casdoor (⭐12k)](https://github.com/casbin/casdoor) - A UI-first centralized authentication / Single-Sign-On (SSO) platform based. Supports OIDC and OAuth 2, social logins, user management, 2FA based on Email and SMS.
 
-*   [authentik (⭐17k)](https://github.com/goauthentik/authentik) - Open-source Identity Provider similar to Keycloak.
+*   [authentik (⭐18k)](https://github.com/goauthentik/authentik) - Open-source Identity Provider similar to Keycloak.
 
 *   [ZITADEL (⭐11k)](https://github.com/zitadel/zitadel) - An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
 
@@ -581,7 +583,7 @@ Most businesses do not collect customer's identity to create user profiles to se
 
 *   [Ballerine (⭐2.2k)](https://github.com/ballerine-io/ballerine) - An open-source infrastructure for user identity and risk management.
 
-*   [Sherlock (⭐67k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
+*   [Sherlock (⭐68k)](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 
 ### Fraud
 
@@ -611,7 +613,7 @@ Any online communities, not only those related to gaming and social networks, re
 
 How to detect, unmask and classify offensive online activities. Most of the time these are monitored by security, networking and/or infrastructure engineering teams. Still, these are good resources for T\&S and IAM people, who might be called upon for additional expertise for analysis and handling of threats.
 
-*   [Awesome Threat Intelligence (⭐9k)](https://github.com/hslatman/awesome-threat-intelligence) - “A concise definition of Threat Intelligence: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.”
+*   [Awesome Threat Intelligence (⭐9.1k)](https://github.com/hslatman/awesome-threat-intelligence) - “A concise definition of Threat Intelligence: evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject's response to that menace or hazard.”
 
 *   [SpiderFoot (⭐80)](https://github.com/poppopjmp/spiderfoot) - An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.
 
@@ -623,7 +625,7 @@ How to detect, unmask and classify offensive online activities. Most of the time
 
 *   [The challenges of file formats](https://speakerdeck.com/ange/the-challenges-of-file-formats) - At one point you will let users upload files in your system. Here is a [corpus of suspicious media files (⭐1.5k)](https://github.com/corkami/pocs) that can be leveraged by scammers =to bypass security or fool users.
 
-*   [SecLists (⭐64k)](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
+*   [SecLists (⭐65k)](https://github.com/danielmiessler/SecLists) - Collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.
 
 *   [PhishingKitTracker (⭐101)](https://github.com/neonprimetime/PhishingKitTracker) - CSV database of email addresses used by threat actor in phishing kits.
 

@@ -2,9 +2,16 @@
 
 🔬 A repository of resources related to citizen, community-based and/or non-institutional science
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dylanrees/citizen-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dylanrees/citizen-science](https://github.com/dylanrees/citizen-science) · ⭐ 248 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dylanrees/citizen-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dylanrees/citizen-science](https://github.com/dylanrees/citizen-science) · ⭐ 289 · 🏷️ Miscellaneous
 
 [ [Daily](/content/dylanrees/citizen-science/README.md) / Weekly / [Overview](/content/dylanrees/citizen-science/readme/README.md) ]
+
+## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
+
+### Software / Modeling and Computation
+
+*   [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
+*   [Desbordante (⭐430)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
@@ -72,7 +79,7 @@
 
 ### Software / Publishing , Collaboration and Organization
 
-*   [RapidPro (⭐854)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
+*   [RapidPro (⭐890)](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
 
 ### Literature / Citizen Science Practice
 
@@ -175,7 +182,7 @@
 *   [Zotero](https://www.zotero.org/) - Open-source citation management software.
 *   [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
 *   [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
-*   [ISLE (⭐215)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+*   [ISLE (⭐214)](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
 *   [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
 *   [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
 *   [Calibre](http://calibre-ebook.com/) - eBook management software.
@@ -388,7 +395,7 @@
 
 ### How do I contribute to this list? / Other Types of Support
 
-*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐248)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
+*   **Familiar with GitHub?** Send a pull request with your suggestions. Please also see the [contribution guidelines (⭐289)](https://github.com/dylanrees/toolsforcitizenscience/blob/master/contributing.md).
 *   **Not familiar with GitHub?** You can leave a comment on this page by clicking on the `Issues` tab on the right and adding a New Issue (that's just like a comment). You'll need to create a GitHub account first.
 
 ## [Aug 08 - Aug 14, 2016](/content/2016/32/README.md)

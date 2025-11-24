@@ -2,7 +2,7 @@
 
 A curated list for when naming things is done right.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/gruhn/awesome-naming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) · ⭐ 1.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/gruhn/awesome-naming/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) · ⭐ 1.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / [Weekly](/content/gruhn/awesome-naming/week/README.md) / Overview ]
 
@@ -28,6 +28,7 @@ This is a curated list for when naming things is done right.
 
 ## Contents
 
+*   [Computer Graphics](#computer-graphics)
 *   [Data Structures and Algorithms](#data-structures-and-algorithms)
 *   [Design Patterns and Anti Patterns](#design-patterns-and-anti-patterns)
 *   [Functions](#functions)
@@ -40,6 +41,10 @@ This is a curated list for when naming things is done right.
 *   [Other](#other)
 
 ***
+
+## Computer Graphics
+
+*   [Gift wrapping algorithm](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm) - An algorithm for constructing the smallest shape that wraps a collection of points.
 
 ## Data Structures and Algorithms
 
@@ -73,8 +78,10 @@ This is a curated list for when naming things is done right.
 *   [Computer virus](https://en.wikipedia.org/wiki/Computer_virus) - A computer program that self replicates by *infecting* other computer programs similar to the behavior of biological viruses.
 *   [Cyber hygiene](https://digitalguardian.com/blog/what-cyber-hygiene-definition-cyber-hygiene-benefits-best-practices-and-more) - Steps and practices that users should take to maintain system health and improve online security.
 *   [Honeypot](https://en.wikipedia.org/wiki/Honeypot_\(computing\)) - Part of a system meant to look like an attractive target but actually helps detect and deflect attackers.
+*   [Phishing](https://en.wikipedia.org/wiki/Phishing) - Refers to the use of lures to "fish" for sensitive information.
 *   [Phoning home](https://en.wikipedia.org/wiki/Phoning_home) - When a system (e.g. stolen computer) secretly reports back to a third party other than the current possessor. The name is a reference to the movie E.T.
 *   [Sandbox](https://en.wikipedia.org/wiki/Sandbox_\(computer_security\)) - A safe and isolated environment to test unverified programs that may contain malicious code.
+*   [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing) - A targeted, personal phishing attack to trick a specific individual or organization into believing that they are legitimate
 *   [Trojan horse](https://en.wikipedia.org/wiki/Trojan_horse_\(computing\)) - Malware which misleads users of its true intent. The term is derived from the Ancient Greek story of the deceptive Trojan Horse.
 
 ## Machine Learning and Artificial Intelligence
@@ -115,11 +122,12 @@ This is a curated list for when naming things is done right.
 
 ## Tools, Applications, Libraries, Frameworks
 
+*   [bubblewrap (⭐5.1k)](https://github.com/containers/bubblewrap) - Sandboxing tool froming a protective layer for your system.
 *   [clooney (⭐1.4k)](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
 *   [CockroachDB](https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb) - Database application, that is marketed as being so fault tolerant and resilient as a cockroach.
-*   [corrosion (⭐1.3k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally) but also a tool that "turns" C++ into Rust.
-*   [horcrux (⭐4.8k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
-*   [Puppeteer (⭐91k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [corrosion (⭐1.4k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally) but also a tool that "turns" C++ into Rust.
+*   [horcrux (⭐5k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
+*   [Puppeteer (⭐93k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 *   [Safari](https://en.wikipedia.org/wiki/Safari_\(web_browser\)) - Web browser developed by Apple.
 *   [tldr](https://tldr.sh/) - Simplified man pages with practical examples.
 *   [Uglify (⭐13k)](https://github.com/mishoo/UglifyJS) - A JavaScript minifier. Removes everything that makes the code readable and pretty to make it smaller.

@@ -2,41 +2,272 @@
 
 :books: Freely available programming books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 349K · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/EbookFoundation/free-programming-books/books/free-programming-books-subjects/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md) · ⭐ 377K · 🏷️ Books
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Nov 17, 2025](/content/2025/11/17/README.md)
+
+### Algorithms & Data Structures
+
+*   [Algorithms for Decision Making](https://algorithmsbook.com/decisionmaking/) - Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray (HTML, PDF) (CC BY-NC-ND)
+*   [Data Structures and Algorithm Analysis in Java](https://people.cs.vt.edu/~shaffer/Book/JAVA3elatest.pdf) - Clifford A. Shaffer (PDF)
+*   [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf) - Chris Okasaki (PDF)
+*   [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) - Maxime Crochemore, Wojciech Rytter (PDF)
+
+## [Nov 05, 2025](/content/2025/11/05/README.md)
+
+### Data Science
+
+*   [Principles of Data Science](https://openstax.org/details/books/principles-data-science) - OpenStax (HTML, PDF) Shaun V. Ault (CC BY-NC-SA 4.0)
+
+## [Nov 02, 2025](/content/2025/11/02/README.md)
+
+### Algorithms & Data Structures
+
+*   [A Common-Sense Guide to Data Structures & Algorithms (⭐1.5k)](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/main/Library/src/JAVASCRIPT/A-Common-Sense-Guide-to-Data-Structures-and-Algorithms-Level-Up-Your-Core-Programming-Skills.pdf) - Jay Wengrow (PDF)
+*   [Algorithms and Data Structures](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jürg Nievergelt, Klaus Hinrichs (PDF)
+*   [An Open Guide to Data Structures and Algorithms](https://open.umn.edu/opentextbooks/textbooks/an-open-guide-to-data-structures-and-algorithms) - Paul W. Bible, Lucas Moser (PDF)
+
+## [Nov 01, 2025](/content/2025/11/01/README.md)
+
+### IDE and editors
+
+*   [A Byte of Vim](https://vim.swaroopch.com) - Swaroop Chitlur, Nofrak, Fuzzymonk, Karmadude, Yesyo, Hbvit7, Leochingkwake (PDF) (CC BY-SA)
+*   [The Craft of Text Editing or Emacs for the Modern World](https://www.finseth.com/craft/) - Craig A. Finseth (HTML, PDF, ePUB, Kindle, PostScript, LaTeX)
+*   [Visual Studio Code - The Essentials](https://microsoft.github.io/vscode-essentials/en/) - Yohan Lasorsa, Christopher Maneu (HTML) (CC BY-SA) *( :construction: in process)*
+
+## [Oct 27, 2025](/content/2025/10/27/README.md)
+
+### Cellular Automata
+
+*   [Cellular Automata Machines](https://people.csail.mit.edu/nhm/cam-book.pdf) - Norman Margolus, Tommaso Toffoli (PDF)
+
+### Open Source Ecosystem / Mathematics For Computer Science
+
+*   [Open Source Essentials](https://learning.lpi.org/en/learning-materials/050-100/) - by Linux Professional Institute (PDF)
+
+### Programming / Mathematics For Computer Science
+
+*   [Programming Languages: Application and Interpretation (3rd Edition)](https://www.plai.org/3/5/plai-v325.pdf) - Shiriram Krishnamurthi (PDF) (CC BY-NC-SA)
+
+### Security & Privacy / Mathematics For Computer Science
+
+*   [Security Essentials](https://learning.lpi.org/en/learning-materials/020-100/) -  by Linux Professional Institute (PDF)
+
+## [Oct 23, 2025](/content/2025/10/23/README.md)
+
+### Security & Privacy / Mathematics For Computer Science
+
+*   [Modern Cryptography Volume 1: A Classical Introduction](https://link.springer.com/book/10.1007/978-981-19-0920-7) - Zhiyong Zheng, Kun Tian, Fengxia Liu
+*   [Modern Cryptography Volume 2: A Classical Introduction](https://link.springer.com/book/10.1007/978-981-19-7644-5) - Zhiyong Zheng, Kun Tian, Fengxia Liu
+
+## [Oct 20, 2025](/content/2025/10/20/README.md)
+
+### Networking / Mathematics For Computer Science
+
+*   [Computer Networking : Principles, Protocols and Practice](https://www.computer-networking.info) (HTML, ePub, PDF, Kindle)
+
+## [Oct 18, 2025](/content/2025/10/18/README.md)
+
+### Artificial Intelligence
+
+*   [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/) - Jay Alammar, Maarten Grootendorst (DeepLearning.AI)
+*   [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/en/chapter1/1) (HTML)
+*   [Large Language Models from Scratch](https://www.youtube.com/watch?v=lnA9DMvHtfI) - freeCodeCamp (YouTube)
+*   [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) - Christopher Manning (Stanford Online)
+
+### Data Science
+
+*   [Data Science with Python](https://www.youtube.com/watch?v=LHBE6Q9XlzI) - freeCodeCamp
+*   [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (University of Michigan) (Coursera)
+*   [Python for Data Science – Hands-on Projects](https://www.youtube.com/watch?v=vaMMLLf0wLM) - LunarTech (freeCodeCamp) (YouTube)
+
+### Machine Learning
+
+*   [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - David Malan (Harvard)
+*   [Elements of AI](https://www.elementsofai.com) - MinnaLearn, University of Helsinki
+*   [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - Google (HTML)
+
+### Mathematics
+
+*   [Applied Quantitative Finance: Theory and Computational Tools](http://inis.jinr.ru/sl/M_Mathematics/MV_Probability/MVspf_Stochastics%20in%20finance/Haerdle%20et%20al.%20Applied%20Quantitative%20Finance%20\(Springer\)\(423s\).pdf) - Wolfgang K. Hardle, Nikolaus Hautsch, Ludger Overbeck (PDF)
+*   [Fundamentals of Quantitative Analysis](https://psyteachr.github.io/quant-fun-v3/) - Danielle Zhu (GitHub) (CC BY-SA)
+
+## [Oct 17, 2025](/content/2025/10/17/README.md)
+
+### Reverse Engineering / Mathematics For Computer Science
+
+*   [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb.html) - Free Software Foundation (HTML, PDF)
+
+## [Oct 16, 2025](/content/2025/10/16/README.md)
+
+### Misc / Mathematics For Computer Science
+
+*   [Software-Defined Radio for Engineers](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf) - Travis Collins, et al. (PDF)
+
+## [Oct 13, 2025](/content/2025/10/13/README.md)
+
+### Open Source Ecosystem / Mathematics For Computer Science
+
+*   [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Fearless Hacks](https://www.aosabook.org/en/index.html)
+
+## [Oct 12, 2025](/content/2025/10/12/README.md)
+
+### Machine Learning
+
+*   [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf) - Vijay Janapa Reddi (PDF)
+*   [Patterns, Predictions, And Actions: A story about machine learning](https://mlstory.org/pdf/patterns.pdf) - Moritz Hardt, Benjamin Recht (PDF)
+
+### Prompt Engineering / Mathematics For Computer Science
+
+*   [Guide to Prompt Engineering](https://web.archive.org/web/20241107021929/https://codeahoy.com/learn/promptengineering/toc/) - CodeAhoy (HTML) *( :card\_file\_box: archived)*
+
+## [Oct 11, 2025](/content/2025/10/11/README.md)
+
+### Data Science
+
+*   [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso (HTML) (CC BY-NC-SA 4.0)
+
+## [Oct 09, 2025](/content/2025/10/09/README.md)
+
+### 0 - Meta-Lists
+
+*   [Build your own X (⭐439k)](https://github.com/codecrafters-io/build-your-own-x)
+
+### Security & Privacy / Mathematics For Computer Science
+
+*   [Network Security](https://www.open.edu/openlearn/digital-computing/network-security/altformat-printable) - OpenLearn (PDF)
+
+## [Oct 08, 2025](/content/2025/10/08/README.md)
+
+### Machine Learning
+
+*   [Automated Machine Learning - Methods, Systems, Challenges](https://link.springer.com/book/10.1007/978-3-030-05318-5) - Frank Hutter, Lars Kotthoff, Joaquin Vanschoren (PDF, EPUB)
+
+### Misc / Mathematics For Computer Science
+
+*   [The Art of High Perfomance Computing - Volume 1: The Science of Computing](https://theartofhpc.com/istc/index.html) - Victor Eijkhout (HTML)
+*   [The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering](https://theartofhpc.com/pcse/index.html) - Victor Eijkhout (HTML)
+*   [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming (⭐734)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
+*   [The Art of High Perfomance Computing - Volume 4: HPC Carpentry (⭐734)](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
+
+## [Oct 06, 2025](/content/2025/10/06/README.md)
+
+### Security & Privacy / Mathematics For Computer Science
+
+*   [The SELINUX Coloring Book (⭐526)](https://github.com/mairin/selinux-coloring-book) -  Daniel J Walsh, Máirín Duffy (PDF) (CC BY-SA)
+
+## [Oct 05, 2025](/content/2025/10/05/README.md)
+
+### Misc / Mathematics For Computer Science
+
+*   [Build Secure & Reliable System - Best Practice for Designing, Implementing and Maintaining Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) - Heather Adkins, Betsy Beyer, Paul Plankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (HTML)
+*   [Site Reliability Engineering - How Google run production systems](https://sre.google/sre-book/table-of-contents/) - Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy (HTML)
+*   [The Site Reliability Workbook - Practical Ways to Implement SRE](https://sre.google/workbook/table-of-contents/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne (HTML)
+
+## [Oct 04, 2025](/content/2025/10/04/README.md)
+
+### Artificial Intelligence
+
+*   [Generative AI in Higher Education: The ChatGPT Effect](https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003459026/generative-ai-higher-education-cecilia-ka-yuk-chan-tom-colloton) - Cecilia Ka Yuk Chan, Tom Colloton (PDF) (CC BY)
+*   [Mastering Generative AI and Prompt Engineering: A Practical Guide for Data Scientists](https://datasciencehorizons.com/pub/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons_v2.pdf) - Data Science Horizons (PDF)
+
+### Prompt Engineering / Mathematics For Computer Science
+
+*   [LLM Prompt Engineering Simplified Book (⭐121)](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) - Katikapalli Subramanyam Kalyan (GitHub)
+*   [Prompt Engineering](https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf) - Lee Boonstra (PDF)
+*   [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) - LearnPrompting (HTML)
+
+### Security & Privacy / Mathematics For Computer Science
+
+*   [The SELinux Notebook (⭐684)](https://github.com/SELinuxProject/selinux-notebook) - Richard Haines, Paul Moore, SELinux Community (HTML, PDF, EPUB, azw3) (GFDL)
+
+## [Oct 03, 2025](/content/2025/10/03/README.md)
+
+### 0 - Meta-Lists
+
+*   [dBooks - Free download open books](https://www.dbooks.org)
+
+### Object Oriented Programming / Mathematics For Computer Science
+
+*   [Principles of Object-Oriented Programming](https://www.opentextbooks.org.hk/system/files/export/8/8163/pdf/Principles_of_ObjectOriented_Programming_8163_r.pdf) - Stephen Wong, Dung Nguyen, Mark Husband (PDF) (CC BY-SA)
+
+### Software Architecture / Mathematics For Computer Science
+
+*   [The Accidental CTO: How I Scaled from Zero to a Million Stores on Dukaan, Without a CS Degree (⭐2.8k)](https://github.com/subhashchy/The-Accidental-CTO) - Subhash Choudhary
+
+## [Oct 02, 2025](/content/2025/10/02/README.md)
+
+### Computer Science
+
+*   [Introduction to Computer Science](https://openstax.org/details/books/introduction-computer-science) - Jean Claude Franchitti et al. (PDF, HTML) (CC BY)
+
+### Software Architecture / Mathematics For Computer Science
+
+*   [Engineering Software as a Service: An Agile Approach Using Cloud Computing](https://e.saasbook.info) - Armando Fox, David Patterson (HTML) (CC BY-NC-ND)
+
+## [Sep 23, 2025](/content/2025/09/23/README.md)
+
+### Networking / Mathematics For Computer Science
+
+*   [Linux Networking](https://linux-training.be/linuxnet.pdf) - Paul Cobbaut (PDF)
+
+## [Sep 05, 2025](/content/2025/09/05/README.md)
+
+### Embedded Systems
+
+*   [Discovering the STM32 Microcontroller](https://web.archive.org/web/20250112021837/https://legacy.cs.indiana.edu/~geobrown/book.pdf) (PDF) (CC BY-NC-SA)
+
+## [Aug 23, 2025](/content/2025/08/23/README.md)
+
+### Compiler Design
+
+*   [Compiler Construction using C# (SLANGFOR.NET) (⭐1)](https://github.com/mmj-the-fighter/slang_for_dot_net_revision/blob/main/bookA4Desk.pdf) - Praseed Pai (PDF)
+
+## [Aug 06, 2025](/content/2025/08/06/README.md)
+
+### Operating Systems / Mathematics For Computer Science
+
+*   [Linux Kernel in a Nutshell](http://www.linuxtopia.org/online_books/linux_kernel/kernel_configuration) - Greg Kroah-Hartman (HTML)
+
+## [Aug 02, 2025](/content/2025/08/02/README.md)
+
+### Software Architecture / Mathematics For Computer Science
+
+*   [Safe by design (⭐52)](https://github.com/SanQri/safe-by-design) - Mykola Haliullin
+
 ## [Dec 25, 2024](/content/2024/12/25/README.md)
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
-*   [Architectural Metapatterns: The Pattern Language of Software Architecture (⭐279)](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak (PDF, EPUB, DOCX) (CC BY)
+*   [Architectural Metapatterns: The Pattern Language of Software Architecture (⭐667)](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak, `edt.:` Lars Noodén (PDF, EPUB, ODT) (CC BY)
 
 ## [Dec 17, 2024](/content/2024/12/17/README.md)
 
-### Security & Privacy
+### Security & Privacy / Mathematics For Computer Science
 
 *   [Fuzzing Book](https://www.fuzzingbook.org) - Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, Christian Holler (HTML)
 
-### Theoretical Computer Science
+### Theoretical Computer Science / Mathematics For Computer Science
 
 *   [Introduction to Theoretical Computer Science](https://files.boazbarak.org/introtcs/lnotes_book.pdf) - Boaz Barak (PDF)
 
 ## [Dec 03, 2024](/content/2024/12/03/README.md)
 
-### Professional Development
+### Professional Development / Mathematics For Computer Science
 
-*   [Succeed In Software: A Comprehensive Guide To Software Career Excellence (⭐1)](https://github.com/succeedinsoftware/book) - Sean Cannon (PDF, ePUB) (CC BY-NC-ND)
+*   [Succeed In Software: A Comprehensive Guide To Software Career Excellence (⭐2)](https://github.com/succeedinsoftware/book) - Sean Cannon (PDF, ePUB) (CC BY-NC-ND)
 
 ## [Dec 02, 2024](/content/2024/12/02/README.md)
 
-### Programming Paradigms
+### Programming Paradigms / Mathematics For Computer Science
 
 *   [Learn Functional Programming](https://learn-functional-programming.com) - G. Jovic (HTML)
 
 ## [Nov 13, 2024](/content/2024/11/13/README.md)
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
 *   [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR) - Derek M. Jones (PDF) (CC BY-SA)
 
@@ -44,30 +275,30 @@
 
 ### Artificial Intelligence
 
-*   [AI Safety for Fleshy Humans](https://aisafety.dance) - Nicky Case and Hack Club *(:construction: in process)* (CC BY-NC)
+*   [AI Safety for Fleshy Humans](https://aisafety.dance) - Nicky Case and Hack Club *( :construction: in process)* (CC BY-NC)
 
 ## [Nov 05, 2024](/content/2024/11/05/README.md)
 
 ### Compiler Design
 
-*   [Compiler Design: Theory, Tools, and Examples, C/C++ Edition](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf) - Seth D. Bergmann (PDF) *(:card\_file\_box: archived)*
-*   [Compiler Design: Theory, Tools, and Examples, Java Edition](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf) - Seth D. Bergmann (PDF) *(:card\_file\_box: archived)*
+*   [Compiler Design: Theory, Tools, and Examples, C/C++ Edition](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf) - Seth D. Bergmann (PDF) *( :card\_file\_box: archived)*
+*   [Compiler Design: Theory, Tools, and Examples, Java Edition](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf) - Seth D. Bergmann (PDF) *( :card\_file\_box: archived)*
 
 ## [Oct 27, 2024](/content/2024/10/27/README.md)
 
 ### Machine Learning
 
-*   [Applied Machine Learning for Tabular Data](https://aml4td.org) - Max Kuhn, Kjell Johnson
+*   [Applied Machine Learning for Tabular Data](https://aml4td.org) - Max Kuhn, Kjell Johnson (HTML) *( :construction: in process)*
 
 ## [Oct 24, 2024](/content/2024/10/24/README.md)
 
 ### Blockchain
 
-*   [Build a Blockchain from Scratch in Go with gRPC (⭐322)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
+*   [Build a Blockchain from Scratch in Go with gRPC (⭐497)](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
 
 ## [Oct 20, 2024](/content/2024/10/20/README.md)
 
-### Mathematics For Computer Science
+### Mathematics / Mathematics For Computer Science
 
 *   [PROGRAM = PROOF](https://www.lix.polytechnique.fr/Labo/Samuel.Mimram/teaching/INF551/course.pdf) - Samuel Mimram (PDF)
 
@@ -81,11 +312,11 @@
 
 ### IDE and editors
 
-*   [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (online, PDF)
+*   [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (HTML, PDF)
 
 ## [Oct 16, 2024](/content/2024/10/16/README.md)
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
 *   [Web Browser Engineering](https://browser.engineering/index.html) - Pavel Panchekha, Chris Harrelson
 
@@ -93,7 +324,7 @@
 
 ### Cellular Automata
 
-*   [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) - Hiroki Sayama
+*   [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) - Hiroki Sayama (PDF) (CC BY-NC-SA)
 
 ## [Oct 13, 2024](/content/2024/10/13/README.md)
 
@@ -109,13 +340,13 @@
 
 ## [Oct 06, 2024](/content/2024/10/06/README.md)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [Using Z Specification, Refinement, and Proof](http://www.usingz.com/usingz.pdf) -  Jim Woodcock, Jim Davies (PDF)
 
 ## [Oct 03, 2024](/content/2024/10/03/README.md)
 
-### Mathematics
+### Mathematics / Algebra
 
 *   [Course Of Linear Algebra And Multidimensional Geometry](https://arxiv.org/pdf/math/0405323) - Ruslan Sharipov(PDF)
 
@@ -127,21 +358,21 @@
 
 ## [Sep 11, 2024](/content/2024/09/11/README.md)
 
-### Mathematics
+### Mathematics / Calculus
 
 *   [Calculus](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/) - Gilbert Strang (PDF)
 
 ## [Sep 07, 2024](/content/2024/09/07/README.md)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
-*   [The Web Development Glossary (⭐4)](https://github.com/frontenddogma/web-development-glossary) – Jens Oliver Meiert
+*   [The Web Development Glossary (⭐5)](https://github.com/frontenddogma/web-development-glossary) – Jens Oliver Meiert
 
 ## [Apr 23, 2024](/content/2024/04/23/README.md)
 
-### Programming
+### Programming / Mathematics For Computer Science
 
-*   [The Super Programmer (⭐118)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *(:construction: in process)*
+*   [The Super Programmer (⭐134)](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
 
 ## [Apr 15, 2024](/content/2024/04/15/README.md)
 
@@ -157,19 +388,19 @@
 
 ## [Jan 25, 2024](/content/2024/01/25/README.md)
 
-### Security & Privacy
+### Security & Privacy / Mathematics For Computer Science
 
 *   [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/) - Least Authority
 
 ## [Jan 10, 2024](/content/2024/01/10/README.md)
 
-### Professional Development
+### Professional Development / Mathematics For Computer Science
 
 *   [Teaching Tech Together](http://teachtogether.tech/en/) - Greg Wilson (HTML)
 
 ## [Jan 08, 2024](/content/2024/01/08/README.md)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
 
@@ -187,7 +418,7 @@
 
 ## [Dec 28, 2023](/content/2023/12/28/README.md)
 
-### Mathematics
+### Mathematics / Algebra
 
 *   [Linear Algebra Done Right](https://linear.axler.net) - Sheldon Axler
 
@@ -202,7 +433,6 @@
 ### Embedded Systems
 
 *   [Control and Embedded Systems](http://www.learn-c.com) (HTML)
-*   [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF) (CC BY-NC-SA)
 *   [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) - Byte Craft Limited (PDF)
 *   [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF) (CC BY-NC-ND)
 *   [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
@@ -212,7 +442,7 @@
 
 ### Graphics Programming
 
-*   [Computer Graphics from scratch](http://gabrielgambetta.com/computer-graphics-from-scratch) - Gabriel Gambetta *(:construction: in process)*
+*   [Computer Graphics from scratch](http://gabrielgambetta.com/computer-graphics-from-scratch) - Gabriel Gambetta *( :construction: in process)*
 *   [DirectX manual](http://user.xmission.com/~legalize/book/download/index.html) (draft)
 
 ## [Nov 22, 2023](/content/2023/11/22/README.md)
@@ -225,19 +455,13 @@
 
 ### Artificial Intelligence
 
-*   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp (⭐7.2k)](https://github.com/norvig/paip-lisp) - Peter Norvig
+*   [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp (⭐7.4k)](https://github.com/norvig/paip-lisp) - Peter Norvig (Git repo)
 
 ## [Nov 06, 2023](/content/2023/11/06/README.md)
 
 ### Mathematics
 
 *   [Guide to Discrete Mathematics](https://core.ac.uk/download/pdf/326762636.pdf) - David Gries, Fred B. Schneider (PDF)
-
-## [Nov 02, 2023](/content/2023/11/02/README.md)
-
-### Algorithms & Data Structures
-
-*   [Algorithms and Data Structures - With Applications to Graphics and Geometry](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jurg Nievergelt, Klaus Hinrichs (PDF)
 
 ## [Nov 01, 2023](/content/2023/11/01/README.md)
 
@@ -253,7 +477,7 @@
 
 ## [Oct 24, 2023](/content/2023/10/24/README.md)
 
-### Programming
+### Programming / Mathematics For Computer Science
 
 *   [A Short Introduction to the Art of Programming (1971)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html) - Edsger W. Dijkstra (HTML)
 
@@ -263,17 +487,11 @@
 
 *   [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
 
-## [Oct 22, 2023](/content/2023/10/22/README.md)
-
-### Networking
-
-*   [Computer Networks](https://kanchiuniv.ac.in/coursematerials/VINODKUMAR_COMPUTER_NETWORKS.pdf) - J.Vinoth kumar (PDF)
-
 ## [Oct 21, 2023](/content/2023/10/21/README.md)
 
 ### Algorithms & Data Structures
 
-*   [Learning Algorithm](https://riptutorial.com/Download/algorithm.pdf) - Compiled from StackOverflow documentation (PDF)
+*   [Learning Algorithm](https://riptutorial.com/Download/algorithm.pdf) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 
 ## [Oct 20, 2023](/content/2023/10/20/README.md)
 
@@ -323,10 +541,8 @@
 
 ### IDE and editors
 
-*   [A Byte of Vim](https://www.swaroopch.com/notes/vim/) - Swaroop (PDF)
-*   [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) - Yann Esposito
-*   [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com) - Steve Losh
-*   [The Craft of Text Editing or A Cookbook for an Emacs](https://www.finseth.com/craft/) - Craig A. Finseth (HTML, PDF, ePUB, Kindle, PostScript, LaTeX)
+*   [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) - Yann Esposito (HTML)
+*   [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com) - Steve Losh (HTML)
 *   [Vi Improved -- Vim](https://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
 *   [Vim Regular Expressions 101](https://vimregex.com) - Oleg Raisky
 *   [Visual Studio .NET Tips and Tricks](https://www.infoq.com/minibooks/vsnettt) - Minh T. Nguyen (PDF)
@@ -348,14 +564,9 @@
 *   [Introduction to Machine Learning](https://arxiv.org/abs/0904.3664v1) - Amnon Shashua
 *   [Machine Learning](https://www.intechopen.com/books/machine_learning)
 *   [Machine Learning, Neural and Statistical Classification](https://www1.maths.leeds.ac.uk/~charles/statlog/) - D. Michie, D.J. Spiegelhalter, C.C. Taylor
-*   [Probabilistic Models in the Study of Language](https://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 
 ### Mathematics
 
-*   [Advanced Algebra](https://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
-*   [Basic Algebra](https://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
-*   [Basics of Algebra, Topology, and Differential Calculus](https://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
-*   [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
 *   [CK-12 Probability and Statistics - Advanced](https://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
 *   [Collaborative Statistics](https://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
 *   [Computational Geometry](https://web.mit.edu/hyperbook/Patrikalakis-Maekawa-Cho/)
@@ -363,20 +574,30 @@
 *   [Essentials of Metaheuristics](https://cs.gmu.edu/~sean/book/metaheuristics/) - Sean Luke
 *   [Introduction to Probability and Statistics Spring 2014](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
 *   [Introduction to Statistical Thought](https://people.math.umass.edu/~lavine/Book/book.html) - Michael Lavine
-*   [Lecture Notes of Linear Algebra](https://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - P. Shunmugaraj, IIT Kanpur (PDF)
 *   [Mathematical Logic - an Introduction](https://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 *   [Mathematics, MTH101A](https://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
 *   [Online Statistics Education](https://onlinestatbook.com) - David Lane
 *   [Statistics Done Wrong](https://www.statisticsdonewrong.com) - Alex Reinhart
-*   [Think Bayes: Bayesian Statistics Made Simple](https://www.greenteapress.com/thinkbayes/) - Allen B. Downey
-*   [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
+*   [Think Bayes: Bayesian Statistics Made Simple](https://www.greenteapress.com/thinkbayes/) - Allen B. Downey (CC BY-NC-SA)
+*   [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/) - Allen B. Downey (using Python) (CC BY-NC-SA)
+
+### Mathematics / Algebra
+
+*   [Advanced Algebra](https://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
+*   [Basic Algebra](https://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf) - Anthony W. Knapp (PDF)
+*   [Lecture Notes of Linear Algebra](https://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - P. Shunmugaraj, IIT Kanpur (PDF)
+
+### Mathematics / Calculus
+
+*   [Basics of Algebra, Topology, and Differential Calculus](https://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
+*   [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
 *   [Vector Calculus](https://www.mecmath.net) - Michael Corral
 
-### Mathematics For Computer Science
+### Mathematics / Mathematics For Computer Science
 
 *   [Discrete Structures for Computer Science: Counting, Recursion, and Probability](https://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [A MACHINE MADE THIS BOOK ten sketches of computer science](https://ocaml-book.com/s/popbook.pdf) - JOHN WHITINGTON (PDF)
 *   [Asterisk™: The Definitive Guide](https://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8) - Leif Madsen, Jim Van Meggelen, Russell Bryant (HTML)
@@ -397,7 +618,7 @@
 *   [Philosophy of Computer Science](https://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
 *   [Programming with Unicode](https://unicodebook.readthedocs.org)
 
-### Networking
+### Networking / Mathematics For Computer Science
 
 *   [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu) (HTML, PDF, Kindle)
 *   [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
@@ -406,7 +627,7 @@
 *   [HTTP2 Explained](https://daniel.haxx.se/http2/) - Daniel Stenberg
 *   [ZeroMQ Guide](https://zguide.zeromq.org)
 
-### Open Source Ecosystem
+### Open Source Ecosystem / Mathematics For Computer Science
 
 *   [Data Journalism Handbook](https://datajournalismhandbook.org)
 *   [Free Software, Free Society: Selected Essays of Richard M. Stallman](https://shop.fsf.org/product/free-software-free-society-2/)
@@ -414,13 +635,12 @@
 *   [Getting started with Open source development](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
 *   [Innovation Happens Elsewhere](https://dreamsongs.com/IHE/IHE.html) - Ron Goldman, Richard P. Gabriel
 *   [Producing Open Source Software](https://producingoss.com) - Karl Fogel
-*   [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Feerless Hacks](https://www.aosabook.org/en/index.html)
 *   [The Art of Community](https://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf) - Jono Bacon (PDF)
 *   [The Future of the Internet](https://futureoftheinternet.org) - Jonathan Zittrain
 *   [The Open Source Way](https://www.theopensourceway.org/book/)
 *   [The Wealth of Networks: How Social Production Transforms Markets and Freedom](https://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
 
-### Operating Systems
+### Operating Systems / Mathematics For Computer Science
 
 *   [A short introduction to operating systems (2001)](https://markburgess.org/os/os.pdf) - Mark Burgess (PDF)
 *   [Computer Science from the Bottom Up](https://www.bottomupcs.com) - Ian Wienand (PDF)
@@ -432,16 +652,16 @@
 *   [Think OS: A Brief Introduction to Operating Systems](https://www.greenteapress.com/thinkos/index.html) - Allen B. Downey (PDF)
 *   [Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell (PDF)
 
-### Partial Evaluation
+### Partial Evaluation / Mathematics For Computer Science
 
 *   [Partial Evaluation and Automatic Program Generation](https://www.itu.dk/people/sestoft/pebook/) - Neil D. Jones, C.K. Gomard, Peter Sestoft (PDF)
 
-### Programming
+### Programming / Mathematics For Computer Science
 
 *   [Introduction to Computer Science](https://www.cse.iitd.ernet.in/~suban/CSL102/) - Subhashis Banerjee, IIT Delhi
 *   [Introduction to Computing](https://www.computingbook.org) - David Evans
 
-### Theoretical Computer Science
+### Theoretical Computer Science / Mathematics For Computer Science
 
 *   [Programming Languages: Application and Interpretation (2nd Edition)](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
 *   [Building Blocks for Theoretical Computer Science](https://mfleck.cs.illinois.edu/building-blocks/index.html) - Margaret M. Fleck
@@ -451,25 +671,25 @@
 *   [Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
 *   [Semantics with Applications: A Formal Introduction](https://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf) - Hanne Riis Nielson, Flemming Nielson (PDF)
 
-### Programming Paradigms
+### Programming Paradigms / Mathematics For Computer Science
 
 *   [Flow based Programming](https://jpaulmorrison.com/fbp/) - J Paul Morrison
 *   [Introduction to Functional Programming](https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) - J. Harrison
 
-### Quantum Computing
+### Quantum Computing / Mathematics For Computer Science
 
 *   [Introduction to Classical and Quantum Computing](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) - Thomas G. Wong (PDF)
 
-### Regular Expressions
+### Regular Expressions / Mathematics For Computer Science
 
 *   [RexEgg](https://www.rexegg.com)
 *   [The 30 Minute Regex Tutorial](https://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
 
-### Reverse Engineering
+### Reverse Engineering / Mathematics For Computer Science
 
 *   [BIOS Disassembly Ninjutsu Uncovered 1st Edition](https://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) - Darmawan Salihun (PDF)
 
-### Security & Privacy
+### Security & Privacy / Mathematics For Computer Science
 
 *   [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us)
 *   [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/index.html)
@@ -477,7 +697,7 @@
 *   [OWASP Top 10 for .NET Developers](https://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 *   [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
 *   [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 *   [Best Kept Secrets of Peer Code Review](https://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
@@ -491,11 +711,11 @@
 *   [Software Architecture Patterns](https://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address *requested*, not required)
 *   [Software Engineering for Internet Applications](https://philip.greenspun.com/seia/)
 
-### Standards
+### Standards / Mathematics For Computer Science
 
 *   [Linux Standard Base](https://refspecs.linuxfoundation.org/lsb.shtml)
 
-### Version Control Systems
+### Version Control Systems / Mathematics For Computer Science
 
 *   [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
 *   [Conversational Git](https://blog.anvard.org/conversational-git/) - Alan Hohn
@@ -510,7 +730,7 @@
 *   [Subversion Version Control](https://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) - William Nagel (PDF)
 *   [Think Like (a) Git: A Guide for the Perplexed](https://think-like-a-git.net) - Sam Livingston-Gray
 
-### Web Performance
+### Web Performance / Mathematics For Computer Science
 
 *   [Book of Speed](https://www.bookofspeed.com) - Stoyan Stefanov
 *   [Designing for Performance](https://designingforperformance.com) - Lara Hogan
@@ -518,7 +738,7 @@
 
 ## [Oct 15, 2023](/content/2023/10/15/README.md)
 
-### Object Oriented Programming
+### Object Oriented Programming / Mathematics For Computer Science
 
 *   [OOP – Learn Object Oriented Thinking and Programming](https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf) - Rudolf Pecinovsky (PDF)
 
@@ -530,9 +750,9 @@
 
 ### Data Science
 
-*   [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) (:card\_file\_box: archived)
+*   [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) *( :card\_file\_box: archived)*
 
-### Mathematics
+### Mathematics / Algebra
 
 *   [A Quick Steep Climb Up Linear Algebra](http://stephendavies.org/quick.pdf) - Stephen Davies (PDF)
 
@@ -542,9 +762,9 @@
 
 *   [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF) (CC BY-NC-SA)
 
-### Professional Development
+### Professional Development / Mathematics For Computer Science
 
-*   [How to Stand Out as a Software Engineer (⭐6)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
+*   [How to Stand Out as a Software Engineer (⭐7)](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
 
 ## [Oct 10, 2023](/content/2023/10/10/README.md)
 
@@ -554,7 +774,7 @@
 
 ## [Oct 09, 2023](/content/2023/10/09/README.md)
 
-### Quantum Computing
+### Quantum Computing / Mathematics For Computer Science
 
 *   [Quantum Information Theory](https://markwilde.com/qit-notes.pdf) - Mark M. Wilde (PDF)
 
@@ -574,11 +794,11 @@
 
 *   [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en) - Donglai Fu
 
-### Open Source Ecosystem
+### Open Source Ecosystem / Mathematics For Computer Science
 
-*   [500 lines or less (⭐29k)](https://github.com/aosabook/500lines) - Build from Source Code
+*   [500 lines or less (⭐30k)](https://github.com/aosabook/500lines) - Build from Source Code
 
-### Quantum Computing
+### Quantum Computing / Mathematics For Computer Science
 
 *   [Introduction to Quantum Information](https://www.gla.ac.uk/media/Media_344957_smxx.pdf) - Stephen M. Barnett (PDF)
 
@@ -626,7 +846,7 @@
 
 ### Computer Vision
 
-*   [Computer Vision](https://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown
+*   [Computer Vision](https://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown (PDF)
 *   [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Richard Szeliski
 
 ### Containers
@@ -652,22 +872,21 @@
 *   [Game Programming Patterns](https://gameprogrammingpatterns.com) - Bob Nystrom
 *   [Procedural Content Generation in Games](https://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
 
-### Networking
+### Networking / Mathematics For Computer Science
 
 *   [Securing Wireless Networks for the Home User Guide](https://mohamedation.com/securing-wifi/en/) - Mohamed Adel (HTML)
 
 ## [Oct 03, 2023](/content/2023/10/03/README.md)
 
-### Prompt Engineering
+### Prompt Engineering / Mathematics For Computer Science
 
-*   [Guide to Prompt Engineering](https://codeahoy.com/learn/promptengineering/toc) - CodeAhoy (HTML)
 *   [Prompt Engineering Guide](https://www.promptingguide.ai) - DAIR.AI (HTML)
 
 ## [Jul 19, 2023](/content/2023/07/19/README.md)
 
 ### Data Science
 
-*   [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) -  Melanie Walsh
+*   [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) - Melanie Walsh
 
 ## [Jul 17, 2023](/content/2023/07/17/README.md)
 
@@ -692,8 +911,7 @@
 *   [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 *   [Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) - Jörg Arndt (PDF)
 *   [Open Data Structures: An Introduction](https://opendatastructures.org) - Pat Morin
-*   [Planning Algorithms](http://lavalle.pl/planning/) -  Steven M. LaValle
-*   [Text Algorithms](https://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) -  Maxime Crochemore, Wojciech Rytter (PDF)
+*   [Planning Algorithms](http://lavalle.pl/planning/) - Steven M. LaValle
 *   [The Algorithm Design Manual](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Steven S. Skiena (HTML)
 *   [The Design of Approximation Algorithms](https://www.designofapproxalgs.com/book.pdf) - David P. Williamson, David B. Shmoys (PDF)
 *   [Think Complexity (2nd Edition)](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey
@@ -714,7 +932,7 @@
 
 ### Algorithms & Data Structures
 
-*   [Essential Algorithms](https://www.programming-books.io/essential/algorithms/) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
+*   [Essential Algorithms](https://www.programming-books.io/essential/algorithms/) - Krzysztof Kowalczyk and Stack Overflow Documentation project (HTML)
 
 ### Game Development
 
@@ -729,16 +947,15 @@
 ### Licensing
 
 *   [Creative Commons: a user guide](https://archive.org/download/CreativeCommonsUserGuide/CreativeCommonsUserGuide.pdf) - Simone Aliprandi (PDF)
-*   [Open Source Licensing Software Freedom and Intellectual Property Law](https://rosenlaw.com/oslbook/) - Lawrence Rosen
 
-### Operating Systems
+### Operating Systems / Mathematics For Computer Science
 
 *   [Flexible Operating System Internals: The Design and Implementation of the Anykernel and Rump Kernels](https://aaltodoc.aalto.fi/handle/123456789/6318) - Antti Kantee (PDF)
-*   [Operating Systems: From 0 to 1 (⭐12k)](https://github.com/tuhdo/os01/releases/tag/0.0.1) - Tu, Ho Doang (PDF) (:construction: *in process*)
+*   [Operating Systems: From 0 to 1 (⭐13k)](https://github.com/tuhdo/os01/releases/tag/0.0.1) - Tu, Ho Doang (PDF) ( :construction: *in process*)
 *   [The Little Book About OS Development](https://littleosbook.github.io) - Erik Helin, Adam Renberg - (PDF, HTML)
 *   [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2022/xv6.html) - Russ Cox, Frans Kaashoek and Robert Morris (PDF, HTML)
 
-### Prompt Engineering
+### Prompt Engineering / Mathematics For Computer Science
 
 *   [DALLE-E 2 prompt book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf) - Dallery.Gallery, Guy Parson (PDF)
 
@@ -759,7 +976,7 @@
 
 ## [Feb 02, 2023](/content/2023/02/02/README.md)
 
-### Programming
+### Programming / Mathematics For Computer Science
 
 *   [Principled Programming / Introduction to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) - Tim Teitelbaum
 
@@ -771,19 +988,19 @@
 
 ## [Jan 19, 2023](/content/2023/01/19/README.md)
 
-### Mathematics For Computer Science
+### Mathematics / Mathematics For Computer Science
 
 *   [Graph Theory Exercises](https://www.ime.usp.br/~pf/graph-exercises/) - Paulo Feofiloff (PDF)
 
 ## [Jan 12, 2023](/content/2023/01/12/README.md)
 
-### Open Source Ecosystem
+### Open Source Ecosystem / Mathematics For Computer Science
 
 *   [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) - Nadia Eghbal
 
 ## [Jan 09, 2023](/content/2023/01/09/README.md)
 
-### Professional Development
+### Professional Development / Mathematics For Computer Science
 
 *   [How to Learn to Code & Get a Developer Job in 2023](https://www.freecodecamp.org/news/learn-to-code-book) - Quincy Larson
 
@@ -795,21 +1012,21 @@
 
 ### IDE and editors
 
-*   [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/) - Sundeep Agarwal
+*   [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/) - Sundeep Agarwal (HTML) (CC BY-NC-SA)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [GNU GREP and RIPGREP](https://learnbyexample.github.io/learn_gnugrep_ripgrep/) - Sundeep Agarwal
 
 ## [Dec 05, 2022](/content/2022/12/05/README.md)
 
-### Version Control Systems
+### Version Control Systems / Mathematics For Computer Science
 
 *   [get-git](https://get-git.readthedocs.io/en/latest/) - Arialdo Martini (HTML, PDF, EPUB)
 
 ## [Nov 16, 2022](/content/2022/11/16/README.md)
 
-### Security & Privacy
+### Security & Privacy / Mathematics For Computer Science
 
 *   [Gray Hat Hacking: The Ethical Hacker's Handbook](https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf) - Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams (PDF)
 
@@ -819,7 +1036,7 @@
 
 *   [JPEG - Idea and Practice](https://en.wikibooks.org/wiki/JPEG_-_Idea_and_Practice)
 
-### Security & Privacy
+### Security & Privacy / Mathematics For Computer Science
 
 *   [Programming Differential Privacy](https://programming-dp.com) - Joseph Near, Chiké Abuah (HTML, PDF)
 
@@ -848,7 +1065,7 @@
 
 *   [Database Management Systems Solutions Manual Third Edition](https://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf) - Raghu Ramakrishnan, Johannes Gehrke, Jeff Derstadt, Scott Selikof, and Lin Zhu (PDF)
 
-### Object Oriented Programming
+### Object Oriented Programming / Mathematics For Computer Science
 
 *   [Object Oriented Programming](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) - Robert Harle (PDF)
 
@@ -858,7 +1075,7 @@
 
 *   [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
 
-### Quantum Computing
+### Quantum Computing / Mathematics For Computer Science
 
 *   [Quantum Algorithms](https://arxiv.org/pdf/0808.0369v1) - Michele Mosca (PDF)
 
@@ -872,13 +1089,13 @@
 
 *   [Machine Learning Simplified](https://themlsbook.com/read) - Andrew Wolf
 
-### Quantum Computing
+### Quantum Computing / Mathematics For Computer Science
 
 *   [The Functional Analysis of Quantum Information Theory](https://arxiv.org/abs/1410.7188) - Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder (PDF)
 
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 
-### Mathematics For Computer Science
+### Mathematics / Mathematics For Computer Science
 
 *   [Combinatorial Problems And Exercises (1979)](https://archive.org/details/in.ernet.dli.2015.141538/) - L. Lovasz
 
@@ -890,21 +1107,21 @@
 
 ## [Oct 25, 2022](/content/2022/10/25/README.md)
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
-*   [Refactor Like a Superhero (⭐1k)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
+*   [Refactor Like a Superhero (⭐1.1k)](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-en/README.md) - Alex Bespoyasov
 
 ## [Oct 22, 2022](/content/2022/10/22/README.md)
 
 ### Machine Learning
 
-*   [Machine Learning for Beginners (⭐71k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
+*   [Machine Learning for Beginners (⭐79k)](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
 
 ## [Oct 21, 2022](/content/2022/10/21/README.md)
 
 ### Data Science
 
-*   [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) (:construction: *in process*)
+*   [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) *( :construction: *in process*)*
 
 ## [Oct 19, 2022](/content/2022/10/19/README.md)
 
@@ -916,7 +1133,7 @@
 
 *   [Information Retrieval: Implementing and Evaluating Search Engines](https://mitmecsept.files.wordpress.com/2018/05/stefan-bc3bcttcher-charles-l-a-clarke-gordon-v-cormack-information-retrieval-implementing-and-evaluating-search-engines-2010-mit.pdf) - Stefan Böttcher, Charles L. A. Clarke, Gordon V. Cormack (PDF)
 
-### Mathematics For Computer Science
+### Mathematics / Mathematics For Computer Science
 
 *   [Isomorphism -- Mathematics of Programming](https://github.com/liuxinyu95/unplugged) - Larry LIU Xinyu
 
@@ -937,27 +1154,27 @@
 
 ### Machine Learning
 
-*   [Probabilistic Machine Learning - An Introduction (⭐5.1k)](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
+*   [Probabilistic Machine Learning - An Introduction (⭐5.4k)](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
 
-### Open Source Ecosystem
+### Open Source Ecosystem / Mathematics For Computer Science
 
-*   [Contributing to opensource: the right way (⭐131)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
+*   [Contributing to opensource: the right way (⭐139)](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
 
-### Search Engines
+### Search Engines / Mathematics For Computer Science
 
 *   [Elasticsearch Certified Engineer notes ](https://www.pistocop.dev/posts/es_engineer_exam_notes/) - (HTML)
 
 ## [Oct 15, 2022](/content/2022/10/15/README.md)
 
-### Security & Privacy
+### Security & Privacy / Mathematics For Computer Science
 
-*   [Practical Cryptography for Developer](https://cryptobook.nakov.com) - Svetlin Nakov (GitBook) (:construction: *in process*)
+*   [Practical Cryptography for Developer](https://cryptobook.nakov.com) - Svetlin Nakov (GitBook) ( :construction: *in process*)
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
 *   [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)
 
@@ -965,7 +1182,7 @@
 
 ### Artificial Intelligence
 
-*   [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton
+*   [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton (PDF)
 
 ## [Oct 13, 2022](/content/2022/10/13/README.md)
 
@@ -983,7 +1200,7 @@
 
 ### Blockchain
 
-*   [chain.courses](https://web.archive.org/web/20220127020549/https://chain.courses/) - James Gan, Rishub Kumar *(:card\_file\_box: archived)*
+*   [chain.courses](https://web.archive.org/web/20220127020549/https://chain.courses/) - James Gan, Rishub Kumar *( :card\_file\_box: archived)*
 
 ### Machine Learning
 
@@ -994,17 +1211,17 @@
 *   [Category Theory for the Sciences](https://math.mit.edu/~dspivak/CT4S.pdf) - David I. Spivak (PDF)
 *   [Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - Charles M. Grinstead, J. Laurie Snell (PDF)
 
-### Parallel Programming
+### Parallel Programming / Mathematics For Computer Science
 
 *   [High Performance Computing Training](https://hpc.llnl.gov/documentation/tutorials) (LLNL materials)
 
-### Security & Privacy
+### Security & Privacy / Mathematics For Computer Science
 
 *   [The Joy of Cryptography (2021)](https://joyofcryptography.com/pdf/book.pdf) - Mike Rosulek (PDF)
 
 ## [Oct 10, 2022](/content/2022/10/10/README.md)
 
-### Parallel Programming
+### Parallel Programming / Mathematics For Computer Science
 
 *   [Introduction to Parallel Computing](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial) - Blaise Barney
 
@@ -1016,29 +1233,29 @@
 
 ## [Oct 07, 2022](/content/2022/10/07/README.md)
 
-### Mathematics
+### Mathematics / Calculus
 
 *   [Calculus Volume 1](https://openstax.org/details/books/calculus-volume-1) - Edwin Herman, Gilbert Strang (PDF)
 *   [Calculus Volume 2](https://openstax.org/details/books/calculus-volume-2) - Edwin Herman, Gilbert Strang (PDF)
 *   [Calculus Volume 3](https://openstax.org/details/books/calculus-volume-3) - Edwin Herman, Gilbert Strang (PDF)
 
-### Networking
+### Networking / Mathematics For Computer Science
 
 *   [Mininet Walkthrough](https://mininet.org/walkthrough/)
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
 *   [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 
 ## [Oct 06, 2022](/content/2022/10/06/README.md)
 
-### Security & Privacy
+### Security & Privacy / Mathematics For Computer Science
 
 *   [Information Security Management](https://www.infosecuritybook.com) - Marcos Sêmola (PDF)
 
 ## [Oct 05, 2022](/content/2022/10/05/README.md)
 
-### Programming
+### Programming / Mathematics For Computer Science
 
 *   [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
 
@@ -1058,8 +1275,7 @@
 
 ### Algorithms & Data Structures
 
-*   [Data Structures (Into Java)](https://inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) - Paul N. Hilfinger (PDF)
-*   [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo *(:card\_file\_box: archived)*
+*   [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo *( :card\_file\_box: archived)*
 *   [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) - Nick Parlante (PDF)
 *   [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) - Nick Parlante (PDF)
 *   [Sequential and parallel sorting algorithms](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) - Hans Werner Lang (HTML)
@@ -1073,9 +1289,12 @@
 ### Mathematics
 
 *   [Computational and Inferential Thinking. The Foundations of Data Science](https://www.inferentialthinking.com) - Ani Adhikari, John DeNero, David Wagner
+
+### Mathematics / Algebra
+
 *   [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) - David Cherney et al. (PDF)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [2016 European Software Development Salary Survey](https://www.oreilly.com/radar/2016-european-software-development-salary-survey/) - Andy Oram, John King (HTML)
 *   [2016 Software Development Salary Survey](https://www.oreilly.com/radar/2016-software-development-salary-survey-report/) - John King, Roger Magoulas (HTML)
@@ -1085,46 +1304,46 @@
 *   [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/) - Greg Roelofs
 *   [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) - Nick Parlante (PDF)
 
-### Networking
+### Networking / Mathematics For Computer Science
 
 *   [Networking! ACK!](https://wizardzines.com/zines/networking/) - Julia Evans (PDF)
 
 ## [Sep 26, 2022](/content/2022/09/26/README.md)
 
-### Networking
+### Networking / Mathematics For Computer Science
 
-*   [Linux IP Stacks Commentary](https://www.satchell.net/ipstacks/) - Stephen Satchell, H. B. J. Clifford (HTML) *(:construction: in process)*
+*   [Linux IP Stacks Commentary](https://www.satchell.net/ipstacks/) - Stephen Satchell, H. B. J. Clifford (HTML) *( :construction: in process)*
 
 ## [Sep 21, 2022](/content/2022/09/21/README.md)
 
-### Version Control Systems
+### Version Control Systems / Mathematics For Computer Science
 
 *   [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/) - Ben Lynn, et al. (HTML, PDF, EPUB)
-*   [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/) - The GitHub team *(:card\_file\_box: archived)*
+*   [Git Reference](https://web.archive.org/web/20170602211147/http://gitref.org/) - The GitHub team *( :card\_file\_box: archived)*
 
 ## [Sep 13, 2022](/content/2022/09/13/README.md)
 
 ### IDE and editors
 
-*   [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) - Free Software Foundation Inc. (HTML, PDF)
-*   [Learn Vim (the Smart Way) (⭐14k)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) *(:construction: in process)*
-*   [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler
-*   [VIM-GALORE - All things Vim! (⭐17k)](https://github.com/mhinz/vim-galore#readme) - Marco Hinz (HTML)
-*   [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) - Run Paint Run Run, Run Paint Press (PDF) *(:card\_file\_box: archived)*
-*   [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole (online, PDF)
+*   [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) - Free Software Foundation Inc. (HTML, PDF) (GFDL)
+*   [Learn Vim (the Smart Way) (⭐15k)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) (CC BY-NC-SA)
+*   [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler (HTML)
+*   [VIM-GALORE - All things Vim! (⭐18k)](https://github.com/mhinz/vim-galore#readme) - Marco Hinz (HTML) (CC BY-SA)
+*   [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) - Run Paint Run Run, Run Paint Press (PDF) *( :card\_file\_box: archived)*
+*   [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole (HTML, PDF)
 
 ## [Sep 02, 2022](/content/2022/09/02/README.md)
 
 ### Algorithms & Data Structures
 
-*   [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *(:card\_file\_box: archived)* (CC BY-NC-ND)
+*   [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *( :card\_file\_box: archived)* (CC BY-NC-ND)
 *   [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos
 *   [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho, Jeff Ullman
 
 ### Blockchain
 
 *   [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield, et al. (PDF)
-*   [Learning Bitcoin from the Command Line (⭐3.2k)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline, et al. (HTML)
+*   [Learning Bitcoin from the Command Line (⭐3.4k)](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline, et al. (HTML)
 
 ### Computer Science
 
@@ -1132,7 +1351,7 @@
 
 ### Graphics Programming
 
-*   [Learn OpenGL RS (⭐987)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *(:construction: in process)*
+*   [Learn OpenGL RS (⭐1k)](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. *( :construction: in process)*
 *   [WebGL Insights](http://webglinsights.com) - Patrick Cozzi, et al.
 
 ### Graphical User Interfaces
@@ -1152,11 +1371,6 @@
 *   [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary, Lars Kristiansen
 *   [Applied Combinatorics](https://rellek.net/book/app-comb.html) - Mitchel T. Keller, William T. Trotter
 *   [Applied Discrete Structures](https://faculty.uml.edu/klevasseur/ads2/) - Alan Doerr, Kenneth Levasseur
-*   [Calculus I](https://resolver.caltech.edu/CaltechBOOK:1985.001) - Jerrold E. Marsden, Alan Weinstein
-*   [CLP-1 Differential Calculus](https://www.math.ubc.ca/~CLP/CLP1/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
-*   [CLP-2 Integral Calculus](https://www.math.ubc.ca/~CLP/CLP2/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
-*   [CLP-3 Multivariable Calculus](https://www.math.ubc.ca/~CLP/CLP3/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
-*   [CLP-4 Vector Calculus](https://www.math.ubc.ca/~CLP/CLP4/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
 *   [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook) - Stephen Boyd, Lieven Vandenberghe
 *   [Coordinate Geometry (1911)](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine, Henry Dallas Thompson (PDF)
 *   [Discrete Mathematics: First and Second Course](https://cseweb.ucsd.edu/~gill/BWLectSite/) - Edward A. Bender, S. Gill Williamson
@@ -1166,49 +1380,57 @@
 *   [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello, Paolo Toth
 *   [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde) - Evans M. Harrell II, James V. Herod
 *   [Mathematical Discovery](https://classicalrealanalysis.info/com/Mathematical-Discovery.php) - Andrew M. Bruckner, Brian S. Thomson, Judith B. Bruckner
-*   [Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) - George Cain, James Herod
 *   [Plane Geometry (1913)](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth, David Eugene Smith (PDF)
 *   [Planes and Spherical Trigonometry (1915)](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth, David Eugene Smith (PDF)
-*   [Precalculus](https://stitz-zeager.com) - Carl Stitz, Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf)
 *   [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://arxiv.org/pdf/1803.05316.pdf) - Brendan Fong, David I. Spivak (PDF)
 
-### Misc
+### Mathematics / Calculus
+
+*   [Calculus I](https://resolver.caltech.edu/CaltechBOOK:1985.001) - Jerrold E. Marsden, Alan Weinstein
+*   [CLP-1 Differential Calculus](https://www.math.ubc.ca/~CLP/CLP1/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+*   [CLP-2 Integral Calculus](https://www.math.ubc.ca/~CLP/CLP2/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+*   [CLP-3 Multivariable Calculus](https://www.math.ubc.ca/~CLP/CLP3/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+*   [CLP-4 Vector Calculus](https://www.math.ubc.ca/~CLP/CLP4/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+*   [Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) - George Cain, James Herod
+*   [Precalculus](https://stitz-zeager.com) - Carl Stitz, Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf)
+
+### Misc / Mathematics For Computer Science
 
 *   [Object-Oriented Reengineering Patterns](http://win.ua.ac.be/~sdemey/) - Serge Demeyer, Stéphane Ducasse, Oscar Nierstrasz
 
-### Networking
+### Networking / Mathematics For Computer Science
 
 *   [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson, Bruce Davie (HTML, epub, mobi, PDF)
 
-### Parallel Programming
+### Parallel Programming / Mathematics For Computer Science
 
 *   [High Performance Computing](http://cnx.org/contents/bb821554-7f76-44b1-89e7-8a2a759d1347%405.2) - Charles Severance, Kevin Dowd (PDF, ePUB)
 
-### Professional Development
+### Professional Development / Mathematics For Computer Science
 
 *   [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 
-### Quantum Computing
+### Quantum Computing / Mathematics For Computer Science
 
 *   [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Frank Harkins, et al. (HTML)
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
 *   [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (PDF)
 *   [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
 
 ## [Aug 25, 2022](/content/2022/08/25/README.md)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide/read) (HTML)
 
-### Programming
+### Programming / Mathematics For Computer Science
 
 *   [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF) (CC BY-SA)
 *   [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML) (CC BY-SA)
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
 *   [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
 
@@ -1220,24 +1442,24 @@
 
 ## [Aug 12, 2022](/content/2022/08/12/README.md)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [PDQ: Pretty Darn Quick: An Agile, All-Purpose Methodology](https://leanpub.com/PDQ) - Jeff Franz-Lien *(Leanpub account or valid email requested)*
 *   [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap *(Leanpub account or valid email requested)*
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
 *   [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett *(Leanpub account or valid email requested)*
 
 ## [Aug 03, 2022](/content/2022/08/03/README.md)
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
 *   [Code Simplicity: The Fundamentals of Software](https://www.codesimplicity.com/book.pdf) - Max Kanat-Alexander (PDF)
 
 ## [Jul 19, 2022](/content/2022/07/19/README.md)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [Front-End Developer Handbook 2016](https://frontendmasters.com/guides/front-end-handbook/2016/) - Cody Lindley (HTML)
 *   [Front-End Developer Handbook 2017](https://frontendmasters.com/guides/front-end-handbook/2017/) - Cody Lindley (HTML)
@@ -1246,11 +1468,11 @@
 
 ## [Jul 18, 2022](/content/2022/07/18/README.md)
 
-### Security & Privacy
+### Security & Privacy / Mathematics For Computer Science
 
-*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐7.6k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
+*   [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF (⭐8.6k)](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
 
-### Version Control Systems
+### Version Control Systems / Mathematics For Computer Science
 
 *   [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
 *   [Git cookbook](https://git.seveas.net/about.html) - Dennis Kaarsemaker (HTML)
@@ -1260,21 +1482,21 @@
 *   [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) - Ryan Hodson (PDF, Kindle) (email address *requested*, not required)
 *   [Git Tutorial](https://www.tutorialspoint.com/git/) - Tutorials Point (HTML, PDF)
 *   [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
-*   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *(:card\_file\_box: archived)*
+*   [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker *( :card\_file\_box: archived)*
 *   [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 *   [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
-*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐382)](https://github.com/eonist/How-to-collaborate-on-github) - André J
+*   [How to Collaborate on GitHub: A mini book about collaborating on GitHub (⭐384)](https://github.com/eonist/How-to-collaborate-on-github) - André J
 *   [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
-*   [Introduction to Git and GitHub eBook (⭐894)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
+*   [Introduction to Git and GitHub eBook (⭐999)](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
 *   [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan
 *   [Mercurial: The Definitive Guide 2nd edition](https://book.mercurial-scm.org) - Bryan O'Sullivan
 *   [Pro Git Reedited](https://leanpub.com/progitreedited/read) - Jon Forrest
-*   [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson *(:card\_file\_box: archived)*
+*   [Ry's Git Tutorial](https://web.archive.org/web/20161121145226/http://rypress.com:80/tutorials/git/index) - Ryan Hodson *( :card\_file\_box: archived)*
 *   [Version Control with Subversion](https://svnbook.red-bean.com/index.en.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
 
 ## [Jul 03, 2022](/content/2022/07/03/README.md)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [DevOps For Dummies, 3rd IBM Limited Edition](https://www.ibm.com/downloads/cas/P9NYOK3B) - Sanjeev Sharma, Bernie Coyne (PDF)
 
@@ -1294,7 +1516,7 @@
 
 ### Blockchain
 
-*   [Mastering the Lightning Network (⭐2.8k)](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
+*   [Mastering the Lightning Network (⭐2.9k)](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
 
 ## [May 24, 2022](/content/2022/05/24/README.md)
 
@@ -1320,19 +1542,19 @@
 
 ## [Mar 18, 2022](/content/2022/03/18/README.md)
 
-### Networking
+### Networking / Mathematics For Computer Science
 
 *   [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 
 ## [Mar 16, 2022](/content/2022/03/16/README.md)
 
-### Quantum Computing
+### Quantum Computing / Mathematics For Computer Science
 
 *   [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4) - Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner (HTML, PDF, EPUB)
 
 ## [Mar 14, 2022](/content/2022/03/14/README.md)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [Encyclopedia of Human Computer Interaction 2nd Edition](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed)
 
@@ -1340,8 +1562,8 @@
 
 ### Blockchain
 
-*   [Mastering Bitcoin - Unlocking digital currencies (2017), 2nd Edition (⭐24k)](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos (AsciiDoc) `(CC BY-NC-ND)`
-*   [Mastering Ethereum (2018), 1st Edition (⭐20k)](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos, Gavin Wood (AsciiDoc)
+*   [Mastering Bitcoin - Unlocking digital currencies (2017), 2nd Edition (⭐25k)](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos (AsciiDoc) `(CC BY-NC-ND)`
+*   [Mastering Ethereum (2018), 1st Edition (⭐21k)](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos, Gavin Wood (AsciiDoc)
 
 ## [Feb 25, 2022](/content/2022/02/25/README.md)
 
@@ -1355,21 +1577,15 @@
 
 *   [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) - Fletcher Dunn (HTML)
 
-### Mathematics For Computer Science
+### Mathematics / Mathematics For Computer Science
 
 *   [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer (PDF)
 
 ## [Jan 07, 2022](/content/2022/01/07/README.md)
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
 *   [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans (CC BY)
-
-## [Dec 08, 2021](/content/2021/12/08/README.md)
-
-### Machine Learning
-
-*   [The Python Game Book](https://web.archive.org/web/20210308080726/https://thepythongamebook.com/en%3Astart) - Horst Jens *(:card\_file\_box: archived)*
 
 ## [Nov 12, 2021](/content/2021/11/12/README.md)
 
@@ -1379,40 +1595,39 @@
 
 ## [Nov 11, 2021](/content/2021/11/11/README.md)
 
-### Algorithms & Data Structures
-
-*   [Purely Functional Data Structures (1996)](https://web.archive.org/web/20210917054102/http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) - Chris Okasaki (PDF) *(:card\_file\_box: archived)*
-
 ### Machine Learning
 
-*   [A First Encounter with Machine Learning](https://web.archive.org/web/20210420163002/https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) - Max Welling (PDF) *(:card\_file\_box: archived)*
+*   [A First Encounter with Machine Learning](https://web.archive.org/web/20210420163002/https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) - Max Welling (PDF) *( :card\_file\_box: archived)*
 *   [Free and Open Machine Learning](https://nocomplexity.com/documents/fossml/) - Maikel Mardjan (HTML)
 
 ### Mathematics
 
 *   [Computational Mathematics with SageMath](https://www.sagemath.org/sagebook/) - Paul Zimmermann, Alexandre Casamayou, Nathann Cohen, Guillaume Connan, et al. (PDF)
-*   [Lecture Notes on Linear Algebra](https://home.iitk.ac.in/~arlal/book/LA_Solution_Dec20.pdf) - Dr. Arbind K Lal, Sukant Pati (PDF) *(:construction: in process)*
 
-### Mathematics For Computer Science
+### Mathematics / Algebra
+
+*   [Lecture Notes on Linear Algebra](https://home.iitk.ac.in/~arlal/book/LA_Solution_Dec20.pdf) - Dr. Arbind K Lal, Sukant Pati (PDF) *( :construction: in process)*
+
+### Mathematics / Mathematics For Computer Science
 
 *   [Exploring Math for Programmers and Data Scientists](https://freecontent.manning.com/free-ebook-exploring-math-for-programmers-and-data-scientists/) - Paul Orland
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [Foundations of Programming](https://openmymind.net/FoundationsOfProgramming.pdf) - Karl Seguin (PDF)
-*   [Information Technology and the Networked Economy](https://web.archive.org/web/20200731035935/https://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) - Patrick McKeown (PDF) *(:card\_file\_box: archived)*
+*   [Information Technology and the Networked Economy](https://web.archive.org/web/20200731035935/https://florida.theorangegrove.org/og/file/49843a6a-9a9d-4bad-b4d4-d053f9cdf73e/1/InfoTechNetworkedEconomy.pdf) - Patrick McKeown (PDF) *( :card\_file\_box: archived)*
 *   [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
-*   [Microservices AntiPatterns and Pitfalls](http://web.archive.org/web/20210205164251/https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) - Mark Richards (PDF) *(:card\_file\_box: archived)*
+*   [Microservices AntiPatterns and Pitfalls](http://web.archive.org/web/20210205164251/https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) - Mark Richards (PDF) *( :card\_file\_box: archived)*
 *   [Microservices vs. Service-Oriented Architecture](https://www.oreilly.com/radar/microservices-vs-service-oriented-architecture/) - Mark Richards (HTML)
 
 ## [Nov 02, 2021](/content/2021/11/02/README.md)
 
 ### Containers
 
-*   [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos (⭐88)](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
+*   [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos (⭐93)](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
 
 ## [Nov 01, 2021](/content/2021/11/01/README.md)
 
@@ -1422,7 +1637,7 @@
 
 ### Containers
 
-*   [CI/CD with Docker and Kubernetes Book (⭐200)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
+*   [CI/CD with Docker and Kubernetes Book (⭐210)](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
 
 ## [Oct 29, 2021](/content/2021/10/29/README.md)
 
@@ -1445,7 +1660,7 @@
 
 ### Machine Learning
 
-*   [Approaching Almost Any Machine Learning Problem (⭐7.7k)](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
+*   [Approaching Almost Any Machine Learning Problem (⭐8.2k)](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
 
 ## [Oct 23, 2021](/content/2021/10/23/README.md)
 
@@ -1457,7 +1672,7 @@
 
 *   [Python Machine Learning Projects](https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook) - Lisa Tagliaferri, Brian Boucheron, Michelle Morales, Ellie Birkbeck, Alvin Wan (PDF, EPUB, Kindle)
 
-### Operating Systems
+### Operating Systems / Mathematics For Computer Science
 
 *   [Making Servers Work: A Practical Guide to Linux System Administration](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) - Jamon Camisso (PDF, EPUB)
 
@@ -1469,7 +1684,7 @@
 
 ## [Oct 15, 2021](/content/2021/10/15/README.md)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [How To Manage Remote Servers with Ansible](https://www.digitalocean.com/community/books/how-to-manage-remote-servers-with-ansible-ebook) - Erika Heidi (PDF, EPUB)
 
@@ -1496,14 +1711,17 @@
 
 ### Mathematics
 
-*   [Paul's Online Notes: Algebra, Calculus I-III and Differential Equations](https://tutorial.math.lamar.edu) - Paul Dawkins @ Lamar University
 *   [The Open Logic Text](https://builds.openlogicproject.org/open-logic-complete.pdf) - Open Logic Project (PDF)
 
-### Search Engines
+### Mathematics / Calculus
+
+*   [Paul's Online Notes: Algebra, Calculus I-III and Differential Equations](https://tutorial.math.lamar.edu) - Paul Dawkins @ Lamar University
+
+### Search Engines / Mathematics For Computer Science
 
 *   [Search Engines: Information Retrieval in Practice](https://ciir.cs.umass.edu/irbook) - W. Bruce Croft, Donald Metzler, Trevor Strohman (PDF)
 
-### Theoretical Computer Science
+### Theoretical Computer Science / Mathematics For Computer Science
 
 *   [Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - Stefan Hugtenburgand, Neil Yorke-Smith @ TU Delft Open (PDF)
 
@@ -1523,9 +1741,9 @@
 
 *   [College Trigonometry](https://open.umn.edu/opentextbooks/textbooks/college-trigonometry) - Carl Stitz, Jeff Zeager (PDF)
 
-### Professional Development
+### Professional Development / Mathematics For Computer Science
 
-*   [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady *(:construction: in process)*
+*   [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady *( :construction: in process)*
 
 ## [Oct 06, 2021](/content/2021/10/06/README.md)
 
@@ -1550,13 +1768,13 @@
 *   [Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies](https://link.springer.com/book/10.1007/978-3-030-69978-9) - Bernd Carsten Stahl (PDF, EPUB)
 *   [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF, EPUB)
 
-### Networking
+### Networking / Mathematics For Computer Science
 
 *   [Kafka gentle introduction](https://www.gentlydownthe.stream) - Mitch Seymour
 
-### Security & Privacy
+### Security & Privacy / Mathematics For Computer Science
 
-*   [Cryptography](https://en.wikibooks.org/wiki/Cryptography) - Wikibooks (HTML) *(:construction: in process)*
+*   [Cryptography](https://en.wikibooks.org/wiki/Cryptography) - Wikibooks (HTML) *( :construction: in process)*
 
 ## [Oct 03, 2021](/content/2021/10/03/README.md)
 
@@ -1580,7 +1798,7 @@
 
 ## [Oct 01, 2021](/content/2021/10/01/README.md)
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [Programming Fundamentals](https://press.rebus.community/programmingfundamentals/) - Kenneth Leroy Busbee, Dave Braunschweig
 
@@ -1599,7 +1817,7 @@
 *   [Microsoft Press: Free E-Books](https://mva.microsoft.com/ebooks)
 *   [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
 *   [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
-*   [Papers we love (⭐90k)](https://github.com/papers-we-love/papers-we-love)
+*   [Papers we love (⭐100k)](https://github.com/papers-we-love/papers-we-love)
 *   [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 *   [Theassayer.org](http://theassayer.org)
 
@@ -1613,23 +1831,23 @@
 *   [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
 *   [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) - Robert Horvick
 *   [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) - Robert Horvick
-*   [Elementary Algorithms (⭐6.2k)](https://github.com/liuxinyu95/AlgoXY) - Larry Liu Xinyu (PDF)
+*   [Elementary Algorithms (⭐6.3k)](https://github.com/liuxinyu95/AlgoXY) - Larry Liu Xinyu (PDF)
 *   [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
 
 ### Artificial Intelligence
 
-*   [Introduction to Autonomous Robots (⭐1.7k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF) (CC BY-NC-ND)
+*   [Introduction to Autonomous Robots (⭐1.8k)](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF) (CC BY-NC-ND)
 
 ### Cellular Automata
 
-*   [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
+*   [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram (HTML)
 
 ### Cloud Computing
 
 *   [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework) (PDF, HTML)
 *   [Azure for Architects, Third Edition](https://azure.microsoft.com/en-us/resources/azure-for-architects/) (PDF) *(email address or account required)*
 *   [Azure Functions Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/azure-functions-succinctly) (PDF, Kindle) (email address requested, not required)
-*   [Cloud Computing for Science and Engineering](https://cloud4scieng.org/chapters/) - Ian Foster, Dennis B. Gannon *(:construction: in process)*
+*   [Cloud Computing for Science and Engineering](https://cloud4scieng.org/chapters/) - Ian Foster, Dennis B. Gannon *( :construction: in process)*
 *   [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 *   [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
 *   [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
@@ -1645,7 +1863,7 @@
 
 ### Compiler Design
 
-*   [An Introduction to GCC](https://web.archive.org/web/20170326232435/http://www.network-theory.co.uk/docs/gccintro/index.html) - Brian Gough *(:card\_file\_box: archived)*
+*   [An Introduction to GCC](https://web.archive.org/web/20170326232435/http://www.network-theory.co.uk/docs/gccintro/index.html) - Brian Gough *( :card\_file\_box: archived)*
 *   [Basics of Compiler Design (Anniversary Edition)](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
 *   [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
 
@@ -1669,21 +1887,20 @@
 
 ### Game Development
 
-*   [2D Game Development: From Zero To Hero (⭐390)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *(:construction: in process)*
-*   [Coding With Minecraft](https://turtleappstore.com/book/) - Al Sweigart
+*   [2D Game Development: From Zero To Hero (⭐435)](https://github.com/Penaz91/2DGD_F0TH) - Daniele Penazzo (HTML, [PDF, EBPUB, Kindle...](https://therealpenaz91.itch.io/2dgd-f0th#download)) *( :construction: in process)*
 *   [Designing Virtual Worlds](https://mud.co.uk/richard/DesigningVirtualWorlds.pdf) - Richard A. Bartle (PDF)
 *   [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
 
 ### Graphics Programming
 
-*   [3D Game Shaders For Beginners (⭐18k)](https://github.com/lettier/3d-game-shaders-for-beginners) - David Lettier (Git) [(HTML)](https://lettier.github.io/3d-game-shaders-for-beginners)
+*   [3D Game Shaders For Beginners (⭐19k)](https://github.com/lettier/3d-game-shaders-for-beginners) - David Lettier (Git) [(HTML)](https://lettier.github.io/3d-game-shaders-for-beginners)
 *   [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro) - Wikibooks
 *   [Blender Manual](https://docs.blender.org/manual/en/latest)
 *   [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 *   [Introduction to Modern OpenGL](https://open.gl) - Alexander Overvoorde (HTML, EPUB, PDF) (C++)
 *   [Introduction to TouchDesigner 099](https://leanpub.com/introductiontotouchdesigner/) *(Leanpub account or valid email requested)*
-*   [Learn Computer Graphics From Scratch!](https://www.scratchapixel.com) - Scratchapixel *(:construction: in process)*
-*   [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) - Jason L. McKesson (draft) *(:card\_file\_box: archived)*
+*   [Learn Computer Graphics From Scratch!](https://www.scratchapixel.com) - Scratchapixel *( :construction: in process)*
+*   [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) - Jason L. McKesson (draft) *( :card\_file\_box: archived)*
 *   [Ray Tracing in One Weekend](https://raytracing.github.io) - Peter Shirley (HTML)
 
 ### Graphical User Interfaces
@@ -1701,7 +1918,7 @@
 *   [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) (PDF)
 *   [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) - Csaba Szepesvári (PDF)
 *   [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
-*   [Deep Learning for Coders with Fastai and PyTorch (⭐22k)](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
+*   [Deep Learning for Coders with Fastai and PyTorch (⭐24k)](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
 *   [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 *   [IBM Machine Learning for Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Judith Hurwitz, Daniel Kirsch
 *   [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
@@ -1719,24 +1936,13 @@
 
 ### Mathematics
 
-*   [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/) - Victor Shoup
-*   [A First Course in Linear Algebra](http://linear.ups.edu) - Rob Beezer
 *   [A Gentle Introduction to the Art of Mathematics](https://osj1961.github.io/giam/) - Joseph E. Fields
 *   [A Programmer's Introduction to Mathematics](https://pimbook.org) - Jeremy Kun
-*   [Abstract Algebra: Theory and Applications](http://abstract.ups.edu) - Tom Judson
-*   [Active Calculus](https://scholarworks.gvsu.edu/books/20/) - Matt Boelkins
-*   [Algebra: Abstract and Concrete](https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/algebrabook.html) - Frederick Goodman
-*   [Algebra: An Elementary Text-Book, Part I (1904)](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) - G. Chrystal (PDF)
-*   [Algebra: An Elementary Text-Book, Part II (1900)](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) - G. Chrystal (PDF)
-*   [Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) - Allen Hatcher (PDF)
 *   [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser (PDF)
 *   [Analytic Geometry (1922)](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - Lewis Parker Siceloff, George Wentworth, David Eugene Smith (PDF)
-*   [APEX Calculus](https://www.apexcalculus.com) - Gregory Hartman, Brian Heinold, Troy Siemers, and Dimplekumar Chalishajar
 *   [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra/) - Jiří Lebl
-*   [Bayesian Methods for Hackers (⭐27k)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
-*   [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/book.html) - Tyler Wallace
+*   [Bayesian Methods for Hackers (⭐28k)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
 *   [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammack [(PDF)](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf)
-*   [Calculus in Context](http://www.math.smith.edu/~callahan/intromine.html) - James Callahan
 *   [Combinatorics Through Guided Discovery](https://bogart.openmathbooks.org) - Kenneth Bogart
 *   [Complex Analysis](https://people.math.gatech.edu/~cain/winter99/complex.html) - George Cain
 *   [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
@@ -1746,46 +1952,63 @@
 *   [Elementary Differential Equations (with Boundary Value Problems)](https://digitalcommons.trinity.edu/mono/9/) - William F. Trench
 *   [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/) - William Stein
 *   [Elementary Real Analysis](https://www.classicalrealanalysis.info/com/Elementary-Real-Analysis.php) - Brian S. Thomson, Judith B. Bruckner, Andrew M. Bruckner
-*   [Elements of Abstract and Linear Algebra](https://www.math.miami.edu/~ec/book/) - E. H. Connell
-*   [Elements of Differential and Integral Calculus (1911)](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (PDF)
-*   [First Course in Algebra (1910)](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (PDF)
 *   [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan (PDF)
 *   [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) - Michael P. Hitchman
 *   [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 *   [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) - Jim Hefferon
 *   [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7/) - William F. Trench
-*   [Kalman and Bayesian Filters in Python (⭐17k)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+*   [Kalman and Bayesian Filters in Python (⭐18k)](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 *   [Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics](https://www.poritz.net/jonathan/share/ldlos.pdf) - Jonathan A. Poritz (PDF)
-*   [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - Jim Hefferon
-*   [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) - Sergei Treil
-*   [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
 *   [Magic Squares and Cubes (1917)](http://djm.cc/library/Magic_Squares_Cubes_Andrews_edited.pdf) - W. S. Anderson (PDF)
 *   [Math in Society](https://www.opentextbookstore.com/mathinsociety/) - David Lippman
 *   [Mathematical Analysis I](http://www.trillia.com/zakon-analysisI.html) - Elias Zakon
 *   [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathematical-reasoning-3) - Ted Sundstrom
 *   [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 *   [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
-*   [Number Theory (⭐57)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
+*   [Number Theory (⭐61)](https://github.com/holdenlee/number-theory) - Holden Lee MIT
 *   [Odds and Ends: Introducing Probability & Decision with a Visual Emphasis](https://jonathanweisberg.org/vip/) - Jonathan Weisberg
 *   [OpenIntro Statistics](https://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, Mine Çetinkaya-Rundel
-*   [ORCCA: Open Resources for Community College Algebra](https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944) - Portland Community College
 *   [Ordinary Differential Equations](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) - Wikibooks
 *   [Probability and Statistics Cookbook](http://statistics.zone)
 *   [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 *   [Probability: Lectures and Labs](https://www.markhuberdatascience.org/probability-textbook) - Mark Huber
 *   [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (PDF)
 *   [Sage for Undergraduates](http://www.gregorybard.com/books.html) - Gregory Bard
-*   [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (PDF)
 *   [Statistical Thinking for the 21st Century](https://statsthinking21.org) - Russell A. Poldrack
 *   [SticiGui](https://www.stat.berkeley.edu/~stark/SticiGui/) - Philip Stark
 *   [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/) - Leon Q. Brin
 *   [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
 
-### Mathematics For Computer Science
+### Mathematics / Algebra
+
+*   [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/) - Victor Shoup
+*   [A First Course in Linear Algebra](http://linear.ups.edu) - Rob Beezer
+*   [Abstract Algebra: Theory and Applications](http://abstract.ups.edu) - Tom Judson
+*   [Algebra: Abstract and Concrete](https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/algebrabook.html) - Frederick Goodman
+*   [Algebra: An Elementary Text-Book, Part I (1904)](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_I_Chrystal_edited.pdf) - G. Chrystal (PDF)
+*   [Algebra: An Elementary Text-Book, Part II (1900)](http://djm.cc/library/Algebra_Elementary_Text-Book_Part_II_Chrystal_edited02.pdf) - G. Chrystal (PDF)
+*   [Algebraic Topology](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) - Allen Hatcher (PDF)
+*   [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/book.html) - Tyler Wallace
+*   [Elements of Abstract and Linear Algebra](https://www.math.miami.edu/~ec/book/) - E. H. Connell
+*   [First Course in Algebra (1910)](http://djm.cc/library/First_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (PDF)
+*   [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - Jim Hefferon
+*   [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) - Sergei Treil
+*   [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod
+*   [ORCCA: Open Resources for Community College Algebra](https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944) - Portland Community College
+*   [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (PDF)
+
+### Mathematics / Calculus
+
+*   [Active Calculus](https://scholarworks.gvsu.edu/books/20/) - Matt Boelkins
+*   [APEX Calculus](https://www.apexcalculus.com) - Gregory Hartman, Brian Heinold, Troy Siemers, and Dimplekumar Chalishajar
+*   [Calculus in Context](http://www.math.smith.edu/~callahan/intromine.html) - James Callahan
+*   [Elements of Differential and Integral Calculus (1911)](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (PDF)
+
+### Mathematics / Mathematics For Computer Science
 
 *   [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
 
-### Misc
+### Misc / Mathematics For Computer Science
 
 *   [10 Keys to Great Landing Pages](https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf) - iThemes Media (PDF)
 *   [Ansible Up & Running (first three chapters)](https://www.ansible.com/ebooks) *(account required)*
@@ -1811,7 +2034,7 @@
 *   [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
 *   [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
 
-### Parallel Programming
+### Parallel Programming / Mathematics For Computer Science
 
 *   [High-Performance Scientific Computing](https://andreask.cs.illinois.edu/Teaching/HPCFall2012) (class lectures and slides)
 *   [Introduction to High-Performance Scientific Computing](http://pages.tacc.utexas.edu/~eijkhout/istc/istc.html) - Victor Eijkhout
@@ -1820,9 +2043,8 @@
     Kerridge (PDF) (email address *requested*, not required)
 *   [The OpenCL Programming Book](https://us.fixstars.com/products/opencl/book/OpenCLProgrammingBook/contents/)
 
-### Networking
+### Networking / Mathematics For Computer Science
 
-*   [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)
 *   [High-Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
 *   [How HTTPS Works](https://howhttps.works) - DNSimple
 *   [HTTP Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) (email address *requested*, not required)
@@ -1833,7 +2055,7 @@
 *   [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 *   [Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf) (PDF)
 
-### Open Source Ecosystem
+### Open Source Ecosystem / Mathematics For Computer Science
 
 *   [Free as in Freedom: Richard Stallman and the free software revolution](https://archive.org/details/faif-2.0) - Sam Williams (PDF)
 *   [Free for All](https://unglue.it/work/136445/) - Peter Wayner
@@ -1844,64 +2066,63 @@
 *   [Open source in Brazil](https://www.oreilly.com/ideas/open-source-in-brazil) - Andy Oram
 *   [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - Eric S. Raymond
 
-### Operating Systems
+### Operating Systems / Mathematics For Computer Science
 
-*   [How to Make a Computer Operating System (⭐22k)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - Samy Pesse  *(:construction: in process)*
-*   [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) - Max Hailperin (PDF, LaTeX)
+*   [How to Make a Computer Operating System (⭐23k)](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - Samy Pesse  *( :construction: in process)*
 *   [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) - Eric S. Raymond (HTML)
 *   [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF) (CC BY-SA)
 
-### Professional Development
+### Professional Development / Mathematics For Computer Science
 
-*   [Clean Code Developer: An initiative for more professionalism in software development](https://www.gitbook.com/book/ccd_school/clean-code-developer-com/details) *(:construction: in process)*
+*   [Clean Code Developer: An initiative for more professionalism in software development](https://www.gitbook.com/book/ccd_school/clean-code-developer-com/details) *( :construction: in process)*
 *   [Confessions of an IT Manager](https://www.red-gate.com/library/confessions-of-an-it-manager) - Phil Factor (PDF)
 *   [Don't Just Roll the Dice](https://www.red-gate.com/library/dont-just-roll-the-dice) - Neil Davidson (PDF)
 *   [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
 *   [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
 *   [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
 
-### Programming
+### Programming / Mathematics For Computer Science
 
 *   [Design of a Programmer](https://www.smashwords.com/books/view/639609) - Prakash Hegade (PDF)
-*   [Programming and Programming Languages](https://papl.cs.brown.edu/2019/) - Shriram Krishnamurthi
+*   [Programming and Programming Languages](https://papl.cs.brown.edu/2019/) - Shriram Krishnamurthi (PDF)
 *   [The Black Art of Programming](http://self.gutenberg.org/wplbn0002828847-the-black-art-of-programming-by-mcilroy-mark.aspx?) - Mark McIlroy
 *   [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
-*   [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
+*   [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML) (CC BY-NC-SA)
 
-### Programming Paradigms
+### Programming Paradigms / Mathematics For Computer Science
 
 *   [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 *   [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
-*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐447)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
+*   [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory (⭐449)](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 *   [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) - Simon Thompson
 
-### Regular Expressions
+### Regular Expressions / Mathematics For Computer Science
 
 *   [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/) - Sundeep Agarwal
 *   [Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/) - Sundeep Agarwal
 *   [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me) - Shreyas Minocha
 *   [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/) - Sundeep Agarwal
 
-### Reverse Engineering
+### Reverse Engineering / Mathematics For Computer Science
 
 *   [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
 *   [iOS App Reverse Engineering (⭐4.3k)](https://github.com/iosre/iOSAppReverseEngineering) - Zishe Sha (PDF)
 
-### Search Engines
+### Search Engines / Mathematics For Computer Science
 
 *   [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH (⭐3.6k)](https://github.com/elastic/elasticsearch-definitive-guide))
-*   [Solr for newbies workshop (2019) (⭐80)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐80)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
+*   [Solr for newbies workshop (2019) (⭐87)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF (⭐87)](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
 
-### Security & Privacy
+### Security & Privacy / Mathematics For Computer Science
 
 *   [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 *   [CryptoParty Handbook](https://unglue.it/work/141611/)
 *   [How HTTPS works](https://howhttps.works) - dnsimple
-*   [How to deal with Passwords (⭐50)](https://github.com/MHM5000/pass)
+*   [How to deal with Passwords (⭐51)](https://github.com/MHM5000/pass)
 *   [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
 *   [OWASP Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/) - Bernhard Mueller et al.
 
-### Software Architecture
+### Software Architecture / Mathematics For Computer Science
 
 *   [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) - Launch School
 *   [Developing Reactive Microservices](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) (email address *requested*, not required)
@@ -1918,31 +2139,31 @@
 *   [Shape Up - Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) - Ryan Singer (PDF)
 *   [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
 *   [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
-*   [Test Driven Development, Extensive Tutorial (⭐367)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
+*   [Test Driven Development, Extensive Tutorial (⭐368)](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 *   [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
 *   [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 *   [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
 
-### Standards
+### Standards / Mathematics For Computer Science
 
-*   [UNIX - The POSIX Standard - IEEE Std 1003.1 (⭐192)](https://github.com/geoff-codes/posix-standard)
+*   [UNIX - The POSIX Standard - IEEE Std 1003.1 (⭐195)](https://github.com/geoff-codes/posix-standard)
 
-### Theoretical Computer Science
+### Theoretical Computer Science / Mathematics For Computer Science
 
 *   [Category Theory for Computing Science](http://www.tac.mta.ca/tac/reprints/articles/22/tr22.pdf) (PDF)
 *   [Category Theory for Programmers (⭐11k)](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski (PDF)
-*   [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/~scott/pl/book/dist/) - Scott F. Smith *(:card\_file\_box: archived)*
+*   [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/~scott/pl/book/dist/) - Scott F. Smith *( :card\_file\_box: archived)*
 *   [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf) - Robert Harper (PDF)
 
-### Web Performance
+### Web Performance / Mathematics For Computer Science
 
-*   [High Performance Accelerated Websites](https://thisisyuu.github.io/ebook) - Anshul (HTML) *(:construction: in process)*
+*   [High Performance Accelerated Websites](https://thisisyuu.github.io/ebook) - Anshul (HTML) *( :construction: in process)*
 *   [High Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
 
-### Web Services
+### Web Services / Mathematics For Computer Science
 
 *   [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
 
-### Workflow
+### Workflow / Mathematics For Computer Science
 
 *   [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)

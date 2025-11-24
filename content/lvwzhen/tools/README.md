@@ -6,6 +6,22 @@ Tools Online
 
 [ Daily / [Weekly](/content/lvwzhen/tools/week/README.md) / [Overview](/content/lvwzhen/tools/readme/README.md) ]
 
+## [Oct 19, 2025](/content/2025/10/19/README.md)
+
+### JavaScript
+
+*   [dhtmlx javascript components](https://dhtmlx.com/docs/products/)
+
+### Tools collection
+
+*   [giga.tools](https://giga.tools/)
+
+## [Aug 02, 2025](/content/2025/08/02/README.md)
+
+### Forms
+
+*   [SmarkForm](https://smarkform.bitifet.net)
+
 ## [May 30, 2025](/content/2025/05/30/README.md)
 
 ### CSS
@@ -387,7 +403,7 @@ Tools Online
 *   [flatuicolors](http://flatuicolors.com/)
 *   [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 *   [color-hex](http://www.color-hex.com/)
-*   [colors (⭐9.3k)](https://github.com/mrmrs/colors)
+*   [colors (⭐9.4k)](https://github.com/mrmrs/colors)
 *   [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 
 ### Font
@@ -398,7 +414,7 @@ Tools Online
 *   [qiuziti](http://www.qiuziti.com/)
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐362)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐360)](https://github.com/lvwzhen/iconpark)
 
 ### API Doc
 

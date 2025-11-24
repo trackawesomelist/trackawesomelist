@@ -2,7 +2,7 @@
 
 A curated list of algorithms and papers for auditing black-box algorithms.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/erwanlemerrer/awesome-audit-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 erwanlemerrer/awesome-audit-algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms) · ⭐ 100 · 🏷️ Theory
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/erwanlemerrer/awesome-audit-algorithms/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 erwanlemerrer/awesome-audit-algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms) · ⭐ 105 · 🏷️ Theory
 
 [ [Daily](/content/erwanlemerrer/awesome-audit-algorithms/README.md) / [Weekly](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md) / Overview ]
 
@@ -26,6 +26,8 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 
 ### 2025
 
+*   [Auditing Pay-Per-Token in Large Language Models](https://arxiv.org/pdf/2510.05181) - (arXiv) *Develops an auditing framework based on martingale theory that enables a trusted third-party auditor who sequentially queries a provider to
+    detect token misreporting.*
 *   [P2NIA: Privacy-Preserving Non-Iterative Auditing](https://arxiv.org/abs/2504.00874) - (ECAI) *Proposes a mutually beneficial collaboration for both the auditor and the platform: a privacy-preserving and non-iterative audit scheme that enhances fairness assessments using synthetic or local data, avoiding the challenges associated with traditional API-based audits.*
 *   [The Fair Game: Auditing & debiasing AI algorithms overtime](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9E8408C67F7CE30505122DD1586D9FA2/S3033373325000080a.pdf/the-fair-game-auditing-and-debiasing-ai-algorithms-over-time.pdf) - (Cambridge Forum on AI: Law and Governance) *Aims to simulate the evolution of ethical and legal frameworks in the society by creating an auditor which sends feedback to a debiasing algorithm deployed around an ML system.*
 *   [Robust ML Auditing using Prior Knowledge](https://arxiv.org/pdf/2505.04796) - (ICML) *Formally establishes the conditions under which an auditor can prevent audit manipulations using prior knowledge about the ground truth.*
@@ -46,7 +48,7 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 *   [Under manipulations, are some AI models harder to audit?](https://grodino.github.io/projects/manipulated-audits/preprint.pdf) - (SATML) *Relates the difficulty of black-box audits
     to the capacity of the targeted models, using the Rademacher complexity.*
 *   [Improved Membership Inference Attacks Against Language Classification Models](https://arxiv.org/pdf/2310.07219.pdf) - (ICLR) *Presents a framework for running membership inference attacks against classifier, in audit mode.*
-*   [Auditing Fairness by Betting](https://arxiv.org/pdf/2305.17570.pdf) - (Neurips) [\[Code\] (⭐5)](https://github.com/bchugg/auditing-fairness) *Sequential methods that allows for the continuous monitoring of incoming data from a black-box classifier or regressor.*
+*   [Auditing Fairness by Betting](https://arxiv.org/pdf/2305.17570.pdf) - (Neurips) [\[Code\] (⭐6)](https://github.com/bchugg/auditing-fairness) *Sequential methods that allows for the continuous monitoring of incoming data from a black-box classifier or regressor.*
 
 ### 2023
 
@@ -118,7 +120,7 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 *   [Learning Networks from Random Walk-Based Node Similarities](https://arxiv.org/pdf/1801.07386) - (NIPS) *Reversing graphs by observing some random walk commute times.*
 *   [Identifying the Machine Learning Family from Black-Box Models](https://rd.springer.com/chapter/10.1007/978-3-030-00374-6_6) - (CAEPIA) *Determines which kind of machine learning model is behind the returned predictions.*
 *   [Stealing Neural Networks via Timing Side Channels](https://arxiv.org/pdf/1812.11720.pdf) - (arXiv) *Stealing/approximating a model through timing attacks usin queries.*
-*   [Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data](https://arxiv.org/abs/1806.05476) - (IJCNN)  [(Code) (⭐27)](https://github.com/jeiks/Stealing_DL_Models) *Stealing black-box models (CNNs) knowledge by querying them with random natural images (ImageNet and Microsoft-COCO).*
+*   [Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data](https://arxiv.org/abs/1806.05476) - (IJCNN)  [(Code) (⭐28)](https://github.com/jeiks/Stealing_DL_Models) *Stealing black-box models (CNNs) knowledge by querying them with random natural images (ImageNet and Microsoft-COCO).*
 *   [Auditing the Personalization and Composition of Politically-Related Search Engine Results Pages](https://dl.acm.org/doi/10.1145/3178876.3186143) - (WWW) *A Chrome extension to survey participants and collect the Search Engine Results Pages (SERPs) and autocomplete suggestions, for studying personalization and composition.*
 
 ### 2017

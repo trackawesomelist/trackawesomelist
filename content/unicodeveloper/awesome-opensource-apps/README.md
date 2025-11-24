@@ -2,15 +2,27 @@
 
 :house::information_source: Curated list of awesome open source crafted web & mobile applications - Learn, Fork, Contribute & Most Importantly Enjoy!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/unicodeveloper/awesome-opensource-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) · ⭐ 2.8K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/unicodeveloper/awesome-opensource-apps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 unicodeveloper/awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps) · ⭐ 3.6K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/unicodeveloper/awesome-opensource-apps/week/README.md) / [Overview](/content/unicodeveloper/awesome-opensource-apps/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### ReactJS
+
+- Name: [Unbroken](https://unbroken-app.com/)
+
+  Description: Unbroken - A React-based Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books
+
+  Link: <https://unbroken-app.com/>
+
+
 
 ## [May 22, 2023](/content/2023/05/22/README.md)
 
 ### Rails
 
-- Name: [Cartes.io API (⭐95)](https://github.com/M-Media-Group/Cartes.io)
+- Name: [Cartes.io API (⭐125)](https://github.com/M-Media-Group/Cartes.io)
 
   Description: Free, anonymous, and live maps for anyone and everything.
 
@@ -56,11 +68,11 @@
 
 ### C#
 
-- Name: [Libation (⭐975)](https://github.com/rmcrackan/Libation)
+- Name: [Libation (⭐4.8k)](https://github.com/rmcrackan/Libation)
 
   Description: Audible Audiobook manager and library.
 
-  Link: [https://github.com/rmcrackan/Libation (⭐975)](https://github.com/rmcrackan/Libation)
+  Link: [https://github.com/rmcrackan/Libation (⭐4.8k)](https://github.com/rmcrackan/Libation)
 
 
 
@@ -72,7 +84,7 @@
 
   Description: Fast and secure open-source backup/restore tool that allows you to create encrypted snapshots of your data and save the snapshots to remote or cloud storage of choice.
 
-  Link: [https://github.com/kopia/kopia (⭐3.7k)](https://github.com/kopia/kopia)
+  Link: [https://github.com/kopia/kopia (⭐12k)](https://github.com/kopia/kopia)
 
 
 
@@ -84,7 +96,7 @@
 
   Description: Open source PDF, eBook (epub, mobi), comic book (cbz/cbr), DjVu, XPS, CHM, image viewer for Windows.
 
-  Link: [https://github.com/sumatrapdfreader/sumatrapdf (⭐10k)](https://github.com/sumatrapdfreader/sumatrapdf)
+  Link: [https://github.com/sumatrapdfreader/sumatrapdf (⭐16k)](https://github.com/sumatrapdfreader/sumatrapdf)
 
 
 
@@ -110,7 +122,7 @@
 
 ### Laravel
 
-- Name: [WinterCMS (⭐1.1k)](https://github.com/wintercms/winter)
+- Name: [WinterCMS (⭐1.5k)](https://github.com/wintercms/winter)
 
   Description: CMS platform built on Laravel
 
@@ -136,11 +148,11 @@
 
 ### Laravel
 
-- Name: [Tinre (⭐57)](https://github.com/devpri/tinre)
+- Name: [Tinre (⭐70)](https://github.com/devpri/tinre)
 
   Description: A fast and powerful URL Shortener built with Laravel, VueJS, and Tailwind CSS.
 
-  Link: [https://github.com/devpri/tinre (⭐57)](https://github.com/devpri/tinre)
+  Link: [https://github.com/devpri/tinre (⭐70)](https://github.com/devpri/tinre)
 
   : 
 
@@ -150,7 +162,7 @@
 
 ### Django
 
-- Name: [Django-shop (⭐3k)](https://github.com/awesto/django-shop)
+- Name: [Django-shop (⭐3.3k)](https://github.com/awesto/django-shop)
 
   Description: A Django based shop system
 
@@ -191,7 +203,7 @@
 
 ### Android
 
-- Name: [Simple Random Stock (⭐4)](https://github.com/WillWcchan/Simple-Random-Stock)
+- Name: [Simple Random Stock (⭐7)](https://github.com/WillWcchan/Simple-Random-Stock)
 
   Description: A simple application that will randomly select stocks for you.
 
@@ -207,7 +219,7 @@
 
   Description: Self-hosted application that allows automate (without admin access) daily actions with ticketing systems (Jira, GitHub, Trello) like tickets fields verification, email notifications by JQL/GQL, meeting requests to your (or teammates) calendar.
 
-  Link: [https://github.com/dgroup/lazylead (⭐53)](https://github.com/dgroup/lazylead)
+  Link: [https://github.com/dgroup/lazylead (⭐74)](https://github.com/dgroup/lazylead)
 
 
 
@@ -215,7 +227,7 @@
 
 ### ReactJS
 
-- Name: [Feednext (⭐246)](https://github.com/feednext/feednext)
+- Name: [Feednext (⭐323)](https://github.com/feednext/feednext)
 
   Description: A central source of object reviewing
 
@@ -239,7 +251,7 @@
 
 ### ReactJS
 
-- Name: [Dnote (⭐2.5k)](https://github.com/dnote/dnote)
+- Name: [Dnote (⭐3k)](https://github.com/dnote/dnote)
 
   Description: A simple command line notebook with a web interface
 
@@ -251,7 +263,7 @@
 
 ### VueJS
 
-- Name: [vue-music163 (⭐92)](https://github.com/pluto1114/vue-music163)
+- Name: [vue-music163 (⭐95)](https://github.com/pluto1114/vue-music163)
 
   Description: A Vue.js app for music
 
@@ -263,7 +275,7 @@
 
 ### Laravel
 
-- Name: [Unifiedtransform (⭐2.6k)](https://github.com/changeweb/Unifiedtransform)
+- Name: [Unifiedtransform (⭐3k)](https://github.com/changeweb/Unifiedtransform)
 
   Description: A School Management Software.
 
@@ -277,7 +289,7 @@
 
 ### Rails
 
-- Name: [Spree (⭐12k)](https://github.com/spree/spree)
+- Name: [Spree (⭐15k)](https://github.com/spree/spree)
 
   Description: E-commerce Solution
 
@@ -287,7 +299,7 @@
 
 ### React Native
 
-- Name: [Ulangi (⭐416)](https://github.com/ulangi/ulangi)
+- Name: [Ulangi (⭐450)](https://github.com/ulangi/ulangi)
 
   Description: A flashcard app to learn language with different learning methods
 
@@ -299,7 +311,7 @@
 
 ### ReactJS
 
-- Name: [Filestash (⭐7.9k)](https://github.com/mickael-kerjean/filestash)
+- Name: [Filestash (⭐13k)](https://github.com/mickael-kerjean/filestash)
 
   Description: A Dropbox like file manager built in React
 
@@ -311,7 +323,7 @@
 
 ### Meteor
 
-- Name: [titra (⭐337)](https://github.com/kromitgmbh/titra)
+- Name: [titra (⭐437)](https://github.com/kromitgmbh/titra)
 
   Description: An open source project time-tracking app
 
@@ -323,7 +335,7 @@
 
 ### Firebase
 
-- Name: [PriceTrack (⭐100)](https://github.com/duyetdev/pricetrack)
+- Name: [PriceTrack (⭐136)](https://github.com/duyetdev/pricetrack)
 
   Description: API / Website for E-commerce price tracking. Built with Firebase functions and Firebase Hosting.
 
@@ -335,7 +347,7 @@
 
 ### Django
 
-- Name: [Travel Mate Server (⭐43)](https://github.com/project-travel-mate/server)
+- Name: [Travel Mate Server (⭐50)](https://github.com/project-travel-mate/server)
 
   Description: Django based document management system with OCR, indexing, full text searching, previewing and more
 
@@ -359,7 +371,7 @@
 
 ### ReactJS
 
-- Name: [react-handsontable (⭐517)](https://github.com/handsontable/react-handsontable)
+- Name: [react-handsontable (⭐518)](https://github.com/handsontable/react-handsontable)
 
   Description: A React wrapper for the the Handsontable spreadsheet component.
 
@@ -375,7 +387,7 @@
 
 ### VueJS
 
-- Name: [vue-handsontable-official (⭐749)](https://github.com/handsontable/vue-handsontable-official)
+- Name: [vue-handsontable-official (⭐743)](https://github.com/handsontable/vue-handsontable-official)
 
   Description: Vue.js wrappers for the Handsontable and Handsontable Pro spreadsheet components.
 
@@ -413,7 +425,7 @@
 
 ### ReactJS
 
-- Name: [Github Desktop (⭐17k)](https://github.com/desktop/desktop)
+- Name: [Github Desktop (⭐21k)](https://github.com/desktop/desktop)
 
   Description: Git client on Mac & Windows
 
@@ -454,7 +466,7 @@
 
 ### Laravel
 
-- Name: [AbuseIO (⭐196)](https://github.com/AbuseIO/AbuseIO)
+- Name: [AbuseIO (⭐228)](https://github.com/AbuseIO/AbuseIO)
 
   Description: Abuse Management for network operators
 
@@ -466,7 +478,7 @@
 
 ### Laravel
 
-- Name: [Laracom (⭐1.8k)](https://github.com/jsdecena/laracom)
+- Name: [Laracom (⭐2k)](https://github.com/jsdecena/laracom)
 
   Description: FREE E-Commerce Software
 
@@ -478,7 +490,7 @@
 
 ### Android
 
-- Name: [Easy Password (⭐32)](https://github.com/hanjoongcho/aaf-easypassword)
+- Name: [Easy Password (⭐35)](https://github.com/hanjoongcho/aaf-easypassword)
 
   Description: A password manager using a single lock pattern for various type passwords management.
 
@@ -490,7 +502,7 @@
 
 ### Laravel
 
-- Name: [Akaunting (⭐6.2k)](https://github.com/akaunting/akaunting)
+- Name: [Akaunting (⭐9.3k)](https://github.com/akaunting/akaunting)
 
   Description: Free and Online Accounting Software
 
@@ -502,7 +514,7 @@
 
 ### React Native
 
-- Name: [Standard Notes (⭐836)](https://github.com/standardnotes/mobile)
+- Name: [Standard Notes (⭐823)](https://github.com/standardnotes/mobile)
 
   Description: A simple and private notes app
 
@@ -514,7 +526,7 @@
 
 ### Laravel
 
-- Name: [Admin Architect (⭐205)](http://github.com/adminarchitect/core)
+- Name: [Admin Architect (⭐213)](http://github.com/adminarchitect/core)
 
   Description: Administration Framework. Active Admin for Laravel
 
@@ -526,7 +538,7 @@
 
 ### Android
 
-- Name: [Easy Photo Map (⭐41)](https://github.com/hanjoongcho/aaf-easyphotomap)
+- Name: [Easy Photo Map (⭐42)](https://github.com/hanjoongcho/aaf-easyphotomap)
 
   Description: Easy Photo Map is a photomap application that displays the location of the photo on the map using the location information included in the photo.
 
@@ -562,7 +574,7 @@
 
 ### ReactJS
 
-- Name: [Picatic - Ticketing Selling (⭐43)](https://github.com/picatic/picatic-examples/tree/master/react-checkout)
+- Name: [Picatic - Ticketing Selling (⭐44)](https://github.com/picatic/picatic-examples/tree/master/react-checkout)
 
   Description: Ticketing widget built with create-react-app
 
@@ -574,14 +586,14 @@
 
 ### Laravel
 
-- Name: [Handesk (⭐1.3k)](https://github.com/BadChoice/handesk)
+- Name: [Handesk (⭐1.4k)](https://github.com/BadChoice/handesk)
 
   Description: A Powerful Laravel Help Desk and Lead Management App.
 
   Link: 
 
 
-- Name: [Multitrust (⭐1.3k)](https://github.com/BadChoice/handesk)
+- Name: [Multitrust (⭐1.4k)](https://github.com/BadChoice/handesk)
 
   Description: Latest roles and permission for multi-auth or single-auth.
 
@@ -591,7 +603,7 @@
 
 ### Android
 
-- Name: [Easy Diary (⭐347)](https://github.com/hanjoongcho/aaf-easydiary)
+- Name: [Easy Diary (⭐518)](https://github.com/hanjoongcho/aaf-easydiary)
 
   Description: This is a diary application optimized to user experience.
 
@@ -603,7 +615,7 @@
 
 ### Laravel
 
-- Name: [Antvel (⭐652)](https://github.com/ant-vel/App)
+- Name: [Antvel](https://github.com/ant-vel/App)
 
   Description: Laravel eCommerce
 
@@ -627,7 +639,7 @@
 
 ### ReactJS
 
-- Name: [How to GraphQL (⭐8.5k)](https://github.com/howtographql/howtographql)
+- Name: [How to GraphQL (⭐8.7k)](https://github.com/howtographql/howtographql)
 
   Description: The Fullstack Tutorial for GraphQL
 
@@ -639,7 +651,7 @@
 
 ### Firebase
 
-- Name: [Fun Retro (⭐911)](https://github.com/funretro/distributed)
+- Name: [Fun Retro](https://github.com/funretro/distributed)
 
   Description: Fun Retro is a distributed retrospective app that is easy and simple to use.
 
@@ -651,7 +663,7 @@
 
 ### Laravel
 
-- Name: [Openlaravel (⭐113)](https://github.com/ammezie/openlaravel)
+- Name: [Openlaravel (⭐120)](https://github.com/ammezie/openlaravel)
 
   Description: A collection of open source projects built using Laravel
 
@@ -675,21 +687,21 @@
 
 ### React Native
 
-- Name: [Yahoo Finance (⭐2k)](https://github.com/7kfpun/FinanceReactNative)
+- Name: [Yahoo Finance (⭐2.1k)](https://github.com/7kfpun/FinanceReactNative)
 
   Description: iOS's Stocks App clone written in React Native for demo purpose (available both iOS and Android). Data is pulled from Yahoo Finance.
 
   Link: [App on Play Store](https://play.google.com/store/apps/details?id=com.kfpun.finance)
 
 
-- Name: [Pokemon Go Clone (⭐13)](https://github.com/VctrySam/Pokemon)
+- Name: [Pokemon Go Clone (⭐15)](https://github.com/VctrySam/Pokemon)
 
   Description: Pokemon Go in React Native.
 
   Link: [Demo](https://youtu.be/RG6FFL2ny3s)
 
 
-- Name: [BBC News (⭐205)](https://github.com/joeltrew/BBCNews-React-Native)
+- Name: [BBC News (⭐210)](https://github.com/joeltrew/BBCNews-React-Native)
 
   Description: An unofficial basic implementation of the BBC News app built using React Native.
 
@@ -717,14 +729,14 @@
   Link: 
 
 
-- Name: [21mobile (⭐163)](https://github.com/sonnylazuardi/21mobile)
+- Name: [21mobile (⭐161)](https://github.com/sonnylazuardi/21mobile)
 
   Description: Cinema 21 movie schedule app built with react native, graphql, redux
 
   Link: [21mobile.sonnylab.com](http://21mobile.sonnylab.com)
 
 
-- Name: [Dribbble (⭐2k)](https://github.com/catalinmiron/react-native-dribbble-app)
+- Name: [Dribbble (⭐2.1k)](https://github.com/catalinmiron/react-native-dribbble-app)
 
   Description: Dribbble app built with React Native
 
@@ -743,7 +755,7 @@
 
 ### VueJS
 
-- Name: [Attendant (⭐78)](https://github.com/phppirate/attendant)
+- Name: [Attendant (⭐75)](https://github.com/phppirate/attendant)
 
   Description: Laravel Valet GUI - An app to monitor your sites running on Valet. Packaged with Electron
 
@@ -779,7 +791,7 @@
 
 ### ReactJS
 
-- Name: [docue (⭐10)](https://github.com/kevgathuku/docue)
+- Name: [docue (⭐9)](https://github.com/kevgathuku/docue)
 
   Description: Document Management System With React Frontend
 
@@ -791,7 +803,7 @@
 
 ### Laravel
 
-- Name: [Laravel GitScrum (⭐2.8k)](https://github.com/renatomarinho/laravel-gitscrum)
+- Name: [Laravel GitScrum (⭐2.9k)](https://github.com/renatomarinho/laravel-gitscrum)
 
   Description: GitScrum is a project to help developer team.
 
@@ -803,7 +815,7 @@
 
 ### ReactJS
 
-- Name: [Itsquiz-wall (⭐522)](https://github.com/WebbyLab/itsquiz-wall)
+- Name: [Itsquiz-wall (⭐520)](https://github.com/WebbyLab/itsquiz-wall)
 
   Description: Isomorphic "Quiz Wall" for itsquiz.com
 
@@ -824,7 +836,7 @@
   Link: <https://react-hn.appspot.com>
 
 
-- Name: [Calypso (⭐12k)](https://github.com/Automattic/wp-calypso)
+- Name: [Calypso (⭐13k)](https://github.com/Automattic/wp-calypso)
 
   Description: The new JavaScript- and API-powered WordPress.com
 
@@ -845,21 +857,21 @@
   Link: <http://fatiherikli.github.io/fil>
 
 
-- Name: [Spectacle (⭐9.5k)](https://github.com/FormidableLabs/spectacle)
+- Name: [Spectacle (⭐10k)](https://github.com/FormidableLabs/spectacle)
 
   Description: A React library for Deck/Slide Presentations.
 
-  Link: [http://stack.formidable.com/spectacle (⭐9.5k)](https://github.com/FormidableLabs/spectacle)
+  Link: [http://stack.formidable.com/spectacle (⭐10k)](https://github.com/FormidableLabs/spectacle)
 
 
-- Name: [Google Map Clustering (⭐197)](https://github.com/istarkov/google-map-clustering-example)
+- Name: [Google Map Clustering (⭐200)](https://github.com/istarkov/google-map-clustering-example)
 
   Description: A Google Map Clustering Example
 
   Link: <http://istarkov.github.io/google-map-clustering-example>
 
 
-- Name: [Perseus (⭐1.3k)](https://github.com/Khan/perseus)
+- Name: [Perseus (⭐1.5k)](https://github.com/Khan/perseus)
 
   Description: Perseus is Khan Academy's new exercise question editor and renderer
 
@@ -878,7 +890,7 @@
 
 ### ReactJS
 
-- Name: [Cerebro (⭐7.8k)](https://github.com/KELiON/cerebro)
+- Name: [Cerebro (⭐8.5k)](https://github.com/KELiON/cerebro)
 
   Description: One-input productivity booster
 
@@ -890,42 +902,42 @@
 
 ### Laravel
 
-- Name: [FlarepointCRM (⭐2.1k)](https://github.com/Bottelet/Flarepoint-crm)
+- Name: [FlarepointCRM (⭐2.3k)](https://github.com/Bottelet/Flarepoint-crm)
 
   Description: Self-hosted CRM platform built with Laravel 5
 
   Link: 
 
 
-- Name: [Ribbbon (⭐653)](https://github.com/canvasowl/ribbbon)
+- Name: [Ribbbon (⭐665)](https://github.com/canvasowl/ribbbon)
 
   Description: A project management system for Artisans
 
   Link: 
 
 
-- Name: [SЁCU (⭐28)](https://github.com/secusu/secusu)
+- Name: [SЁCU (⭐34)](https://github.com/secusu/secusu)
 
   Description: SЁCU is a service to create password protected self-destructing data packages and anonymous chat-rooms.
 
   Link: <https://secu.su/>
 
 
-- Name: [Confomo (⭐74)](https://github.com/mattstauffer/confomo)
+- Name: [Confomo (⭐73)](https://github.com/mattstauffer/confomo)
 
   Description: A service that facilitates meeting Twitter friends at conferences
 
   Link: 
 
 
-- Name: [File Manager (⭐1.9k)](https://github.com/UniSharp/laravel-filemanager)
+- Name: [File Manager (⭐2.1k)](https://github.com/UniSharp/laravel-filemanager)
 
   Description: A File manager (for CKEditor and TinyMCE) with multi-users support.
 
   Link: 
 
 
-- Name: [FlyMyShop (⭐58)](https://github.com/aasisvinayak/flymyshop)
+- Name: [FlyMyShop (⭐61)](https://github.com/aasisvinayak/flymyshop)
 
   Description: An e-commerce platform for online merchants.
 
@@ -937,21 +949,21 @@
 
 ### Firebase
 
-- Name: [Friendlychat (⭐1.7k)](https://github.com/firebase/friendlychat)
+- Name: [Friendlychat (⭐1.8k)](https://github.com/firebase/friendlychat)
 
   Description: Firebase codelab for building a cross-platform chat app
 
   Link: 
 
 
-- Name: [Friendlypix (⭐727)](https://github.com/firebase/friendlypix)
+- Name: [Friendlypix (⭐721)](https://github.com/firebase/friendlypix)
 
   Description: FriendlyPix is a cross-platform Firebase example app
 
   Link: 
 
 
-- Name: [Firefeed (⭐459)](https://github.com/firebase/firefeed)
+- Name: [Firefeed (⭐458)](https://github.com/firebase/firefeed)
 
   Description: Firefeed is a web app that lets users post small messages called sparks to their feed.
 
@@ -963,7 +975,7 @@
 
 ### Laravel
 
-- Name: [DevTv (⭐25)](https://github.com/iamraphson/DEV-TV)
+- Name: [DevTv (⭐26)](https://github.com/iamraphson/DEV-TV)
 
   Description: DevTv is your online Video Subscription Platform
 
@@ -973,7 +985,7 @@
 
 ### ReactJS
 
-- Name: [microapps-donation (⭐21)](https://github.com/iamraphson/microapps-donation)
+- Name: [microapps-donation (⭐24)](https://github.com/iamraphson/microapps-donation)
 
   Description: A single page application that allows people to donate money
 
@@ -985,7 +997,7 @@
 
 ### Laravel
 
-- Name: [Condor (⭐19)](https://github.com/condorrocks/condor)
+- Name: [Condor (⭐21)](https://github.com/condorrocks/condor)
 
   Description: Service monitor that watches diverse statuses, and elegantly reports every drift
 
@@ -1016,7 +1028,7 @@
 
 ### Laravel
 
-- Name: [Gitamin (⭐349)](https://github.com/GitaminHQ/Gitamin)
+- Name: [Gitamin (⭐348)](https://github.com/GitaminHQ/Gitamin)
 
   Description: A self-hosted git repository management software
 
@@ -1028,7 +1040,7 @@
 
 ### Laravel
 
-- Name: [Laraadmin (⭐1.5k)](https://github.com/dwijitsolutions/laraadmin)
+- Name: [Laraadmin (⭐1.6k)](https://github.com/dwijitsolutions/laraadmin)
 
   Description: CRM for quickstart Admin based applications
 
@@ -1061,7 +1073,7 @@
   Link: <https://play.google.com/store/apps/details?id=org.gdg.frisbee.android>
 
 
-- Name: [Wallsplash (⭐791)](https://github.com/mikepenz/wallsplash-android)
+- Name: [Wallsplash (⭐790)](https://github.com/mikepenz/wallsplash-android)
 
   Description: Wallsplash is the cutting edge wallpaper app for your device!
 
@@ -1073,7 +1085,7 @@
 
 ### Meteor
 
-- Name: [Wekan (⭐19k)](https://github.com/wekan/wekan)
+- Name: [Wekan (⭐21k)](https://github.com/wekan/wekan)
 
   Description: The open-source Trello-like kanban
 
@@ -1085,14 +1097,14 @@
 
 ### Laravel
 
-- Name: [Larasocial (⭐271)](https://github.com/msalom28/Larasocial)
+- Name: [Larasocial (⭐276)](https://github.com/msalom28/Larasocial)
 
   Description: A Social Network Application
 
   Link: <http://larasocial.info>
 
 
-- Name: [Aimeos (⭐6.3k)](https://github.com/aimeos/aimeos-laravel)
+- Name: [Aimeos (⭐8.4k)](https://github.com/aimeos/aimeos-laravel)
 
   Description: Ecommerce package for high performance online shops
 
@@ -1104,7 +1116,7 @@
 
 ### Rails
 
-- Name: [Copycopter (⭐681)](https://github.com/copycopter/copycopter-server)
+- Name: [Copycopter (⭐677)](https://github.com/copycopter/copycopter-server)
 
   Description: A service for editing the copy text of a Rails application.
 
@@ -1116,42 +1128,42 @@
 
 ### Django
 
-- Name: [Django-CMS (⭐9.3k)](https://github.com/divio/django-cms)
+- Name: [Django-CMS (⭐11k)](https://github.com/divio/django-cms)
 
   Description: Easy to use and developer friendly CMS
 
   Link: <http://www.django-cms.org>
 
 
-- Name: [Django-fiber (⭐672)](https://github.com/ridethepony/django-fiber)
+- Name: [Django-fiber (⭐666)](https://github.com/ridethepony/django-fiber)
 
   Description: A simple, user-friendly CMS for all your Django projects
 
   Link: <http://ridethepony.org>
 
 
-- Name: [Feincms (⭐862)](https://github.com/feincms/feincms)
+- Name: [Feincms (⭐1k)](https://github.com/feincms/feincms)
 
   Description: A Django-based CMS with a focus on extensibility and concise code
 
   Link: <http://www.feincms.org>
 
 
-- Name: [Mezzanine (⭐4.6k)](https://github.com/stephenmcd/mezzanine)
+- Name: [Mezzanine (⭐4.8k)](https://github.com/stephenmcd/mezzanine)
 
   Description: CMS framework for Django
 
   Link: <http://mezzanine.jupo.org>
 
 
-- Name: [Wagtail (⭐15k)](https://github.com/torchbox/wagtail)
+- Name: [Wagtail (⭐20k)](https://github.com/torchbox/wagtail)
 
   Description: A Django content management system focused on flexibility and user experience
 
   Link: <http://wagtail.io>
 
 
-- Name: [Django-leonardo (⭐98)](https://github.com/django-leonardo/django-leonardo)
+- Name: [Django-leonardo (⭐99)](https://github.com/django-leonardo/django-leonardo)
 
   Description: CMS for everyone, easy to deploy and scale, robust modular system with many packages
 
@@ -1170,7 +1182,7 @@
   Link: 
 
 
-- Name: [CoasterCMS (⭐395)](https://github.com/web-feet/coastercms)
+- Name: [CoasterCMS (⭐388)](https://github.com/web-feet/coastercms)
 
   Description: Coaster CMS Project
 
@@ -1189,14 +1201,14 @@
 
 ### Laravel
 
-- Name: [Koel (⭐15k)](https://github.com/phanan/koel)
+- Name: [Koel (⭐17k)](https://github.com/phanan/koel)
 
   Description: A personal music streaming server that works
 
   Link: <http://koel.phanan.net>
 
 
-- Name: [Laravel Tricks (⭐974)](https://github.com/CodepadME/laravel-tricks)
+- Name: [Laravel Tricks (⭐965)](https://github.com/CodepadME/laravel-tricks)
 
   Description: Laravel Tips and Tricks
 
@@ -1210,21 +1222,21 @@
   Link: <https://www.larasites.com>
 
 
-- Name: [Flarum (⭐14k)](https://github.com/flarum/flarum)
+- Name: [Flarum (⭐16k)](https://github.com/flarum/flarum)
 
   Description: Delightfully simple forum software
 
   Link: <http://flarum.org>
 
 
-- Name: [AsgardCMS (⭐781)](https://github.com/AsgardCms/Platform)
+- Name: [AsgardCMS (⭐789)](https://github.com/AsgardCms/Platform)
 
   Description: A modular multilingual CMS built with Laravel 5
 
   Link: <http://asgardcms.com>
 
 
-- Name: [KodiCMS (⭐162)](https://github.com/KodiCMS/kodicms-laravel)
+- Name: [KodiCMS (⭐165)](https://github.com/KodiCMS/kodicms-laravel)
 
   Description: The CMS built on Laravel 5.2
 
@@ -1238,7 +1250,7 @@
   Link: 
 
 
-- Name: [Deployer (⭐896)](https://github.com/REBELinBLUE/deployer)
+- Name: [Deployer (⭐916)](https://github.com/REBELinBLUE/deployer)
 
   Description: A free and open source deployment tool
 
@@ -1252,14 +1264,14 @@
   Link: <http://phphub.org>
 
 
-- Name: [Techademia (⭐16)](https://github.com/andela-fokosun/Checkpoint4)
+- Name: [Techademia (⭐19)](https://github.com/andela-fokosun/Checkpoint4)
 
   Description: Organize Your Youtube Videos to Learn
 
   Link: <http://techademia.herokuapp.com>
 
 
-- Name: [Laravel.com (⭐502)](https://github.com/laravel/laravel.com)
+- Name: [Laravel.com](https://github.com/laravel/laravel.com)
 
   Description: Official Website and Documentation of Laravel
 
@@ -1269,7 +1281,7 @@
 
 ### Rails
 
-- Name: [SprintApp (⭐301)](https://github.com/macfanatic/SprintApp)
+- Name: [SprintApp (⭐297)](https://github.com/macfanatic/SprintApp)
 
   Description: Time tracking and Project Management App
 
@@ -1279,7 +1291,7 @@
 
 ### Meteor
 
-- Name: [Rocket.Chat (⭐36k)](https://github.com/RocketChat/Rocket.Chat)
+- Name: [Rocket.Chat (⭐44k)](https://github.com/RocketChat/Rocket.Chat)
 
   Description: A web chat platform
 
@@ -1300,21 +1312,21 @@
   Link: <https://reactioncommerce.com>
 
 
-- Name: [CoderMania (⭐49)](https://github.com/Elfoslav/codermania)
+- Name: [CoderMania (⭐50)](https://github.com/Elfoslav/codermania)
 
   Description: An E-Learning Platform
 
   Link: <http://www.codermania.com>
 
 
-- Name: [Telescope (⭐174)](https://github.com/TelescopeJS/Telescope)
+- Name: [Telescope (⭐179)](https://github.com/TelescopeJS/Telescope)
 
   Description: Lauch Sites Easily
 
   Link: <http://www.telescopeapp.org>
 
 
-- Name: [Loop Pulse (⭐9)](https://github.com/clionelabs/looppulse.web.manage)
+- Name: [Loop Pulse (⭐8)](https://github.com/clionelabs/looppulse.web.manage)
 
   Description: Data Analysis Platform
 
@@ -1326,21 +1338,21 @@
 
 ### Laravel
 
-- Name: [LavaliteCMS (⭐2.6k)](https://github.com/LavaLite/cms)
+- Name: [LavaliteCMS (⭐2.9k)](https://github.com/LavaLite/cms)
 
   Description: CMS built on Laravel 5.2
 
   Link: <http://www.lavalite.org>
 
 
-- Name: [Quarx (⭐496)](https://github.com/YABhq/Quarx)
+- Name: [Quarx (⭐493)](https://github.com/YABhq/Quarx)
 
   Description: A CMS for Laravel Apps
 
   Link: 
 
 
-- Name: [Oez (⭐32)](https://github.com/gaaarfild/0ez)
+- Name: [Oez (⭐31)](https://github.com/gaaarfild/0ez)
 
   Description: Lightweight Blogging CMS
 
@@ -1352,35 +1364,35 @@
 
 ### Laravel
 
-- Name: [PyroCMS (⭐3.1k)](https://github.com/pyrocms/pyrocms)
+- Name: [PyroCMS (⭐3.2k)](https://github.com/pyrocms/pyrocms)
 
   Description: PHP CMS
 
   Link: <https://www.pyrocms.com>
 
 
-- Name: [WardRobeCMS (⭐15)](https://github.com/wardrobecms/wardrobe)
+- Name: [WardRobeCMS (⭐16)](https://github.com/wardrobecms/wardrobe)
 
   Description: A minimal blogging application
 
   Link: <http://wardrobecms.com>
 
 
-- Name: [MicroweberCMS (⭐2.7k)](https://github.com/microweber/microweber)
+- Name: [MicroweberCMS (⭐3.4k)](https://github.com/microweber/microweber)
 
   Description: Drag and Drop CMS and online shop
 
   Link: <https://microweber.com>
 
 
-- Name: [TypiCMS (⭐1.1k)](https://github.com/TypiCMS/Base)
+- Name: [TypiCMS (⭐1.6k)](https://github.com/TypiCMS/Base)
 
   Description: Multilingual and modular CMS built with Laravel 5.2
 
   Link: 
 
 
-- Name: [FullyCMS (⭐481)](https://github.com/sseffa/fullycms)
+- Name: [FullyCMS (⭐491)](https://github.com/sseffa/fullycms)
 
   Description: Multi Language Content Management System
 
@@ -1394,21 +1406,21 @@
   Link: <https://laramap.com>
 
 
-- Name: [Learn Party (⭐10)](https://github.com/andela-jkariuki/checkpoint-four-learn-party)
+- Name: [Learn Party (⭐11)](https://github.com/andela-jkariuki/checkpoint-four-learn-party)
 
   Description: A Dead Simple Learning Management System
 
   Link: <https://learn-party.herokuapp.com>
 
 
-- Name: [BookStack (⭐12k)](https://github.com/ssddanbrown/BookStack)
+- Name: [BookStack (⭐18k)](https://github.com/ssddanbrown/BookStack)
 
   Description: A platform to create documentation/wiki content
 
   Link: <https://www.bookstackapp.com>
 
 
-- Name: [Gruik (⭐327)](https://github.com/grena/gruik)
+- Name: [Gruik (⭐318)](https://github.com/grena/gruik)
 
   Description: An open-source markdown note-taking web app
 
@@ -1418,35 +1430,35 @@
 
 ### Rails
 
-- Name: [Coderwall (⭐861)](https://github.com/coderwall/coderwall-legacy)
+- Name: [Coderwall (⭐857)](https://github.com/coderwall/coderwall-legacy)
 
   Description: Professional network for Software
 
-  Link: [engineers (⭐861)](https://github.com/coderwall/coderwall-legacy) - <https://coderwall.com>
+  Link: [engineers (⭐857)](https://github.com/coderwall/coderwall-legacy) - <https://coderwall.com>
 
 
-- Name: [Sharetribe (⭐2.3k)](https://github.com/sharetribe/sharetribe)
+- Name: [Sharetribe (⭐2.4k)](https://github.com/sharetribe/sharetribe)
 
   Description: A Marketplace Platform
 
   Link: <https://www.sharetribe.com>
 
 
-- Name: [Spina (⭐13)](https://github.com/denkGroot/Spina)
+- Name: [Spina (⭐14)](https://github.com/denkGroot/Spina)
 
   Description: A beautiful CMS for Rails Developers
 
   Link: <http://www.spinacms.com>
 
 
-- Name: [Loomio (⭐2.2k)](https://github.com/loomio/loomio)
+- Name: [Loomio (⭐2.5k)](https://github.com/loomio/loomio)
 
   Description: Make decisions together
 
   Link: <https://www.loomio.org>
 
 
-- Name: [Rails port of OpenstreetMap (⭐1.8k)](https://github.com/openstreetmap/openstreetmap-website)
+- Name: [Rails port of OpenstreetMap (⭐2.6k)](https://github.com/openstreetmap/openstreetmap-website)
 
   Description: Open Street Map
 
@@ -1474,28 +1486,28 @@
   Link: <https://happyhours.io>
 
 
-- Name: [OpenProject (⭐6.9k)](https://github.com/opf/openproject)
+- Name: [OpenProject (⭐13k)](https://github.com/opf/openproject)
 
   Description: Project Management System
 
   Link: <https://www.openproject.org>
 
 
-- Name: [Huginn (⭐38k)](https://github.com/cantino/huginn)
+- Name: [Huginn (⭐48k)](https://github.com/cantino/huginn)
 
   Description: Agent system that perform tasks online for you
 
   Link: 
 
 
-- Name: [Discourse (⭐38k)](https://github.com/discourse/discourse)
+- Name: [Discourse (⭐46k)](https://github.com/discourse/discourse)
 
   Description: A Platform for Community Discussion
 
   Link: <http://www.discourse.org>
 
 
-- Name: [Squash (⭐964)](https://github.com/SquareSquash/web)
+- Name: [Squash (⭐979)](https://github.com/SquareSquash/web)
 
   Description: Collection of tools that helps developers find and kill bugs
 
@@ -1516,14 +1528,14 @@
   Link: <http://wholemeal.co.nz/projects/fulcrum.html>
 
 
-- Name: [RedMine (⭐2.5k)](https://github.com/edavis10/redmine)
+- Name: [RedMine (⭐2.4k)](https://github.com/edavis10/redmine)
 
   Description: Project Management Application
 
   Link: <http://www.redmine.org>
 
 
-- Name: [Diaspora (⭐13k)](https://github.com/diaspora/diaspora)
+- Name: [Diaspora (⭐14k)](https://github.com/diaspora/diaspora)
 
   Description: Distributed Social Network
 
@@ -1533,7 +1545,7 @@
 
 ### Django
 
-- Name: [Shoop (⭐2k)](https://github.com/shoopio/shoop)
+- Name: [Shoop (⭐2.3k)](https://github.com/shoopio/shoop)
 
   Description: E-commerce Platform
 
@@ -1545,119 +1557,119 @@
 
 ### Laravel
 
-- Name: [Invoice Ninja (⭐7.1k)](https://github.com/invoiceninja/invoiceninja)
+- Name: [Invoice Ninja (⭐9.3k)](https://github.com/invoiceninja/invoiceninja)
 
   Description: Invoice Generation System
 
   Link: <https://www.invoiceninja.com>
 
 
-- Name: [Faveo (⭐1k)](https://github.com/ladybirdweb/faveo-helpdesk)
+- Name: [Faveo (⭐1.2k)](https://github.com/ladybirdweb/faveo-helpdesk)
 
   Description: Helpdesk Ticketing System
 
   Link: <http://www.faveohelpdesk.com>
 
 
-- Name: [Timegrid (⭐906)](https://github.com/timegridio/timegrid)
+- Name: [Timegrid (⭐970)](https://github.com/timegridio/timegrid)
 
   Description: Online Reservation Platform
 
   Link: [https://demo.timegrid.io](https://demo.timegrid.io/)
 
 
-- Name: [Laravel.io (⭐2.3k)](https://github.com/laravelio/laravel.io)
+- Name: [Laravel.io (⭐2.5k)](https://github.com/laravelio/laravel.io)
 
   Description: Laravel Community Portal
 
   Link: <http://laravel.io>
 
 
-- Name: [Attendize (⭐3.7k)](https://github.com/Attendize/Attendize)
+- Name: [Attendize (⭐4.2k)](https://github.com/Attendize/Attendize)
 
   Description: Ticket selling and event management platform
 
   Link: <https://www.attendize.com>
 
 
-- Name: [LaraShop (⭐73)](https://github.com/ZENLIX/LaraShop)
+- Name: [LaraShop (⭐75)](https://github.com/ZENLIX/LaraShop)
 
   Description: A Simple PHP Shop CMS
 
   Link: <http://it-toys.com>
 
 
-- Name: [92five (⭐1.1k)](https://github.com/chintanbanugaria/92five)
+- Name: [92five (⭐1.2k)](https://github.com/chintanbanugaria/92five)
 
   Description: Self-hosted Project Management App
 
   Link: <http://92fiveapp.com>
 
 
-- Name: [Paperwork (⭐7.9k)](https://github.com/twostairs/paperwork)
+- Name: [Paperwork](https://github.com/twostairs/paperwork)
 
   Description: OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 
   Link: <http://paperwork.rocks>
 
 
-- Name: [Podcastwala (⭐141)](https://github.com/modestkdr/Podcastwala)
+- Name: [Podcastwala (⭐140)](https://github.com/modestkdr/Podcastwala)
 
   Description: Podcast System
 
   Link: 
 
 
-- Name: [Laravel Snippets (⭐330)](https://github.com/basco-johnkevin/laravelsnippets)
+- Name: [Laravel Snippets (⭐333)](https://github.com/basco-johnkevin/laravelsnippets)
 
   Description: A repository of useful code snippets for Laravel PHP framework
 
   Link: 
 
 
-- Name: [Freelancer Notes (⭐52)](https://github.com/porimol/freelancer-notes)
+- Name: [Freelancer Notes (⭐56)](https://github.com/porimol/freelancer-notes)
 
   Description: Freelancer Notes
 
   Link: 
 
 
-- Name: [Critter (⭐58)](https://github.com/msurguy/critterapp)
+- Name: [Critter (⭐61)](https://github.com/msurguy/critterapp)
 
   Description: Mini-twitter-like app
 
   Link: <http://demos.maxoffsky.com/critter>
 
 
-- Name: [Cachet (⭐13k)](https://github.com/CachetHQ/Cachet)
+- Name: [Cachet (⭐15k)](https://github.com/CachetHQ/Cachet)
 
   Description: Open Source Status Page System
 
-  Link: [https://cachethq.io (⭐13k)](https://github.com/CachetHQ/Cachet)
+  Link: [https://cachethq.io (⭐15k)](https://github.com/CachetHQ/Cachet)
 
 
-- Name: [Scrumwala (⭐258)](https://github.com/modestkdr/Scrumwala)
+- Name: [Scrumwala (⭐265)](https://github.com/modestkdr/Scrumwala)
 
   Description: Your very own Scrum/Agile web app for personal use
 
   Link: 
 
 
-- Name: [SnipeIT (⭐8k)](https://github.com/snipe/snipe-it)
+- Name: [SnipeIT](https://github.com/snipe/snipe-it)
 
   Description: IT Asset/license Management System
 
   Link: <http://snipeitapp.com>
 
 
-- Name: [Neontsunami (⭐3)](https://github.com/dwightwatson/neontsunami)
+- Name: [Neontsunami (⭐4)](https://github.com/dwightwatson/neontsunami)
 
   Description: Personal Website and blog
 
   Link: <http://www.neontsunami.com>
 
 
-- Name: [Nahid.co (⭐22)](https://github.com/nahid/nahid.co)
+- Name: [Nahid.co (⭐26)](https://github.com/nahid/nahid.co)
 
   Description: Personal Portfolio and blog project
 

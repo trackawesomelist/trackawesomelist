@@ -2,9 +2,137 @@
 
 :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/neutraltone/awesome-stock-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) · ⭐ 13K · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/neutraltone/awesome-stock-resources/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) · ⭐ 14K · 🏷️ Media
 
 [ [Daily](/content/neutraltone/awesome-stock-resources/README.md) / Weekly / [Overview](/content/neutraltone/awesome-stock-resources/readme/README.md) ]
+
+## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
+
+### Photography / CC0-license
+
+*   [CC0.Photo](https://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
+*   [Crow the Stone](https://crowthestone.tumblr.com/) - Free photos to use any way you want.
+*   [Cupcake](https://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
+*   [FindA.Photo](https://finda.photo/) - search through thousands of CC0 photos by keyword and color.
+*   [Free Nature Stock](https://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
+*   [Jay Mantri](https://jaymantri.com/) - Free pics. Do anything. Make magic.
+*   [Jéshoots](https://jeshoots.com/) - Photos for business or personal use in high resolution for free.
+*   [Life of Pix](https://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
+*   [Little Visuals](https://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
+*   [Magdeleine](https://magdeleine.co/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
+*   [Moveast](https://moveast.me/) - This is a journey of a Portuguese guy moving.
+*   [Pexels](https://pexels.com/) - 20 new high-quality photos daily.
+*   [Pickle Jar](https://www.picklejar.in/) - High-resolution images of everyday india. One new image every day.
+*   [Pickupimage](https://pickupimage.com/) - Free download high quality premium free stock images, public domain photos.
+*   [Realistic Shots](https://realisticshots.com/) - 7 new photos added every week.
+*   [Splashbase](https://www.splashbase.co/) - Search & discover free, hi-resolution photos & videos.
+*   [Streetwill](https://streetwill.co/) - Free hi-resolution vintage photos to use any way you want.
+*   [Travel Coffee Book](https://travelcoffeebook.com/) - Travel photography.
+*   [WordPress Photo Directory](https://wordpress.org/photos/) - Free, high-quality, community-submitted photographs suitable for use within WordPress sites and elsewhere.
+
+### Photography / Custom License / Usage
+
+*   [Bara Art](https://www.bara-art.com/) - [:copyright:](https://www.bara-art.com/about/) The world always needs high quality photography! Here they are for you, so make something awesome out of them.
+*   [Compfight.com](https://compfight.com/) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
+*   [Death to the Stock Photo](https://join.deathtothestockphoto.com/) - [:copyright:](https://www.mediafire.com/file/2ifplcw682487nz/Death+to+the+Stock+Photo+-+Photograph+End+User+License+%281-2014%29+%281%29.pdf) Free monthly photos for all your creative needs.
+*   [Designer Pics](https://www.designerspics.com) - [:copyright:](https://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
+*   [PhotoStockEditor](https://photostockeditor.com) - [:copyright:](https://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
+*   [Startup Stock Photos](https://startupstockphotos.com/) - [:copyright:](https://startupstockphotos.com/terms-of-use) Startup based photography.
+
+### Photography / Public Domain
+
+*   [Public Domain Archive](https://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) New stock photos every single week.
+
+### Photography / Attribution Required licenses
+
+*   [BucketListly](https://photos.bucketlistly.com/) - A free creative common collection of travel photos anyone can use.
+*   [IM Creator](https://imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
+*   [UKBlackTech](https://ukblacktech.com/stockphotos/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Photographers of British based BAME (Black, Asian, and minority ethnic) people in tech.
+
+### Photography / Unspecified License
+
+*   [Freejpg](https://en.freejpg.com.ar/) - Free image bank for commercial and editorial use.
+*   [Refe Real Life Photos](https://getrefe.tumblr.com) - Free real life photos from [REFE](https://getrefe.com/).
+*   [titania foto](https://www.titania-foto.com) - The free image database
+*   [Wunderstock](https://www.Wunderstock.com/) - 670 (and counting) free HD images for your web and design projects.
+
+### Illustration / Unspecified License
+
+*   [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/albums/72157640831988343/) - [:copyright:](https://www.bl.uk/terms) The British Library’s collections on Flickr Commons offer access to millions of public domain images.
+
+### Vector Graphics / Unspecified License
+
+*   [Facebook Design Resource](https://facebook.design/) - [:copyright:](https://facebook.design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
+*   [FreeVectors.net](https://www.freeVectors.net) - [:copyright:](https://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
+*   [Logo Dust](https://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
+
+### Videos / Unspecified License
+
+*   [Coverr](https://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
+*   [Life of Vids](https://www.lifeofvids.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
+*   [Mazwai](https://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
+*   [Vidsplay](https://www.vidsplay.com/) - [:copyright:](https://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
+*   [VYOO](https://www.veed.io/vyoo) - [:copyright:](https://www.veed.io/vyoo/terms) Beautiful, Free Vertical Videos.
+
+### Patterns / Unspecified License
+
+*   [CSS3 Patterns Gallery](https://lea.verou.me/css3patterns/) - CSS3 based repeatable patterns.
+*   [Hero Patterns](https://www.heropatterns.com/) - A collection of free CC Attribution 4.0 repeatable SVG background patterns.
+*   [The Pattern Library](https://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
+
+### Fonts / Unspecified License
+
+*   [Font Fabric](https://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
+*   [Open Type Foundry](https://open-foundry.com/hot30) - [:copyright:](https://open-foundry.com/info) A new platform for open-source fonts in a noise-free environment.
+
+### Icons / Icon Fonts
+
+*   [Devicons](https://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
+*   [Font Awesome](https://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT licensed icon font.
+*   [Fontello](https://fontello.com/) - [:copyright: (⭐7.1k)](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
+*   [Ionicons](https://ionicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) The premium icon font for Ionic Framework. 100% free and open source.
+*   [Ligature Symbols](https://kudakurage.com/ligature_symbols/) - [:copyright:](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi\&id=OFL&_sc=1) Really clean icon set including all major topics.
+*   [Social Stackicons](https://stackicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
+*   [Typicons](https://s-ings.com/typicons/) - [:copyright: (font)](https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
+*   [WeLoveIconFonts](https://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
+
+### Icons / Icons Packages and Collections
+
+*   [Atlas Icons](https://atlasicons.vectoricons.net/) - [:copyright:](https://opensource.org/licenses/MIT) 2,701 free consistent icons.
+*   [Entypo](https://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](https://www.danielbruce.se/).
+*   [Game Icons](https://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
+*   [Glow Icons](https://www.glowui.com/icons) - [:copyright:](https://opensource.org/licenses/MIT) 442 open source icons in 2 styles, made for interfaces.
+*   [Obra Icons](https://icons.obra.studio/) - [:copyright:](https://icons.obra.studio/licensing-agreement) A simple, consistent set of icons, perfect for user interfaces.
+
+### Colors / Icons Packages and Collections
+
+*   [Bootflat](https://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
+*   [Color Hunt](https://colorhunt.co/) - A place to discover, create, and share color palettes.
+*   [Colour Lovers](https://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
+
+### Aggregated Content / Icons Packages and Collections
+
+*   [All The Free Stock](https://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
+*   [Libre Stock](https://librestock.com/) - Search engine for stock photo websites.
+*   [The Stocks](https://thestocks.im/) - The best royalty free stock photos in one place.
+
+### HTML Templates / Icons Packages and Collections
+
+*   [HTMLrev](https://htmlrev.com/) - HTMLrev provides free HTML templates for websites and landing pages.
+*   [Templated](https://templated.live/) - [:copyright:](https://templated.live/license) A collection of 867 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
+
+### Sounds & Music / Icons Packages and Collections
+
+*   [ccMixter](https://ccmixter.org/) - [:copyright:](https://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
+*   [Free Music Archive](https://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
+*   [Free To Use](https://freetouse.com/music) - [:copyright:](https://freetouse.com/music/usage-policy) Download unlimited background music 100% for free – no registration required. With no copyright claims, all our music is safe and free to use in your videos.
+*   [Sound Image](https://soundimage.org/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
+*   [SoundBible](https://soundbible.com) - [:copyright:](https://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
+
+### Paid Resources / Icons Packages and Collections
+
+*   [Shutterstock](https://shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
+*   [Stocksy](https://stocksy.com/) - "Cliché-free" Photos.
 
 ## [Jul 08 - Jul 14, 2024](/content/2024/28/README.md)
 
@@ -14,7 +142,6 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Atlas Icons](https://atlasicons.vectopus.com/) - [:copyright:](https://opensource.org/licenses/MIT) 2,701 free consistent icons.
 *   [BlendIcons](https://blendicons.com/) - [:copyright:](https://blendicons.com/page/licence) Free, world top icons.
 *   [Flowbite](https://flowbite.com/icons/) - [:copyright:](https://opensource.org/licenses/MIT) Free and open-source SVG icons.
 *   [Iconhunt](https://www.iconhunt.site/) - A search engine with 150.000+ free, open sources icons.
@@ -27,8 +154,8 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.5k)](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
-*   [Free Icons](https://icons.download/) - [:copyright:](https://icons.download/license) Open-source vector icons in 16 styles for any project.
+*   [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright: (⭐7.8k)](https://github.com/twbs/icons/blob/main/LICENSE) Free, high quality, open source icon library with over 1,800 icons.
+*   [Free Icons](https://icons.download/) - [:copyright:](https://icons.download/license.html) Open-source vector icons in 16 styles for any project.
 *   [Lucide](https://lucide.dev/) - [:copyright:](https://lucide.dev/license) Beautiful & consistent icon toolkit made by the community.
 *   [Unicorn icons](https://unicornicons.com/) - [:copyright:](https://unicornicons.com/license) 100+ playful animated and customizable icons, available in JSON and SVG format.
 
@@ -62,7 +189,7 @@
 
 ### Icons / Icons Packages and Collections
 
-*   [Fluent UI System Icons (⭐6.2k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+*   [Fluent UI System Icons (⭐10k)](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
@@ -83,12 +210,6 @@
 *   [NYPL Digital Collections](https://digitalcollections.nypl.org/) - [:copyright:](https://www.nypl.org/help/about-nypl/legal-notices/website-terms-and-conditions) 180.000 items are Public Domain since January 6th 2016 [Public Domain Collections: Free to Share & Reuse](https://www.nypl.org/research/collections/digital-collections/public-domain)
 *   [Project Apollo Archive](https://www.flickr.com/people/projectapolloarchive/?rb=1) - [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) High-resolution Apollo imagery scanned by NASA's Johnson Space Center.
 
-## [May 31 - Jun 06, 2021](/content/2021/22/README.md)
-
-### Photography / Unspecified License
-
-*   [Wunderstock](http://www.Wunderstock.com/) - 670 (and counting) free HD images for your web and design projects.
-
 ## [May 24 - May 30, 2021](/content/2021/21/README.md)
 
 ### Icons / Icons Packages and Collections
@@ -97,10 +218,6 @@
 
 ## [Apr 12 - Apr 18, 2021](/content/2021/15/README.md)
 
-### Photography / CC0-license
-
-*   [CC0.Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
-
 ### Photography / Custom License / Usage
 
 *   [Unsplash](https://unsplash.com/) - [:copyright:](https://unsplash.com/license) User submitted, free high-resolution photos.
@@ -108,23 +225,14 @@
 ### Videos / Unspecified License
 
 *   [Mixkit](https://mixkit.co/free-stock-video/) - [:copyright:](https://mixkit.co/license/#videoFree) High-quality stock videos that are completely free.
-*   [Pixabay](https://pixabay.com/videos/) - [:copyright:](https://pixabay.com/service/license/) Thousands of free stock video clips & footage from community contributors.
 
 ### Icons / Icon Fonts
 
-*   [Ligature Symbols](http://kudakurage.com/ligature_symbols/) - [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi\&id=OFL&_sc=1) Really clean icon set including all major topics.
-*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐22k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
+*   [Simple Icons](https://simpleicons.org/) -[:copyright: (⭐24k)](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) Free SVG icons for popular brands.
 
 ### Sounds & Music / Icons Packages and Collections
 
 *   [Unminus](https://www.unminus.com/) - [:copyright:](https://www.unminus.com/license) Download Royalty Free Music for YouTube Videos, Podcasts and Apps. No Copyright CC0 Music inspired by Unsplash.
-
-## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
-
-### Photography / CC0-license
-
-*   [Splashbase](http://www.splashbase.co/) - Search & discover free, hi-resolution photos & videos.
-*   [Streetwill](http://streetwill.co/) - Free hi-resolution vintage photos to use any way you want.
 
 ## [Sep 28 - Oct 04, 2020](/content/2020/39/README.md)
 
@@ -135,13 +243,7 @@
 ### Vector Graphics / Unspecified License
 
 *   [Humaans](https://www.humaaans.com/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) CC0 licensed clipart images of humans.
-*   [Open Doodles](https://www.opendoodles.com) - [:copyright:](http://creativecommons.org/publicdomain/zero/1.0/) CC-0-licensed vector sketches/cliparts with generator and compositions.
-
-## [Sep 14 - Sep 20, 2020](/content/2020/37/README.md)
-
-### Patterns / Unspecified License
-
-*   [Gradienta](https://gradienta.io/) - [:copyright:](https://gradienta.io/license) Multicolor CSS Gradients, JPG Downloads, 100% Free!
+*   [Open Doodles](https://www.opendoodles.com) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) CC-0-licensed vector sketches/cliparts with generator and compositions.
 
 ## [Aug 31 - Sep 06, 2020](/content/2020/35/README.md)
 
@@ -159,14 +261,7 @@
 
 ### HTML Templates / Icons Packages and Collections
 
-*   [HTML5 Rocket](https://html5rocket.github.io/) - [:copyright:](https://creativecommons.org/share-your-work/public-domain/cc0/) Free HTML5 site templates.
 *   [Start Bootstrap](https://startbootstrap.com/) - [:copyright:](https://opensource.org/licenses/MIT) Free Bootstrap templates and themes.
-
-## [Oct 28 - Nov 03, 2019](/content/2019/43/README.md)
-
-### Videos / Unspecified License
-
-*   [VYOO](http://www.veed.io/vyoo) - [:copyright:](http://www.veed.io/vyoo/terms) Beautiful, Free Vertical Videos.
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
@@ -192,22 +287,11 @@
 
 ### Vector Graphics / Unspecified License
 
-*   [Mega Doodles Pack (⭐496)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
-
-### Fonts / Unspecified License
-
-*   [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) A new platform for open-source fonts in a noise-free environment.
+*   [Mega Doodles Pack (⭐544)](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on.
 
 ### Icons / Icon Fonts
 
-*   [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.
 *   [Pathlove Icons](https://pathlove.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by-nc-nd/4.0/) 100+ cute and vibrant icons. Free for personal and commercial use; attribution required.
-
-## [Aug 05 - Aug 11, 2019](/content/2019/31/README.md)
-
-### Patterns / Unspecified License
-
-*   [Hero Patterns](http://www.heropatterns.com/) - A collection of free CC Attribution 4.0 repeatable SVG background patterns.
 
 ## [Jul 01 - Jul 07, 2019](/content/2019/26/README.md)
 
@@ -240,26 +324,6 @@
 
 *   [LibreShot](https://libreshot.com/) - A collection of hundreds of high quality free stock images for personal or commercial use.
 
-### Icons / Icons Packages and Collections
-
-*   [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
-
-## [Apr 09 - Apr 15, 2018](/content/2018/15/README.md)
-
-### Photography / Attribution Required licenses
-
-*   [UKBlackTech](http://ukblacktech.com/stockphotos/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Photographers of British based BAME (Black, Asian, and minority ethnic) people in tech.
-
-### Sounds & Music / Icons Packages and Collections
-
-*   [ccMixter](http://ccmixter.org/) - [:copyright:](http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org offers over 30,000 original tracks that can be used freely in YouTube videos, remixes, mobile apps, games, and more.
-
-## [Mar 26 - Apr 01, 2018](/content/2018/13/README.md)
-
-### Photography / CC0-license
-
-*   [Wesaturate](https://www.wesaturate.com/) - A collection of completely free CC0 images in RAW and JPG formats.
-
 ## [Dec 18 - Dec 24, 2017](/content/2017/51/README.md)
 
 ### Photography / CC0-license
@@ -268,7 +332,6 @@
 
 ### Photography / Custom License / Usage
 
-*   [Death to the Stock Photo](http://join.deathtothestockphoto.com/) - [:copyright:](http://www.mediafire.com/file/2ifplcw682487nz/Death+to+the+Stock+Photo+-+Photograph+End+User+License+%281-2014%29+%281%29.pdf) Free monthly photos for all your creative needs.
 *   [ISO Republic](https://isorepublic.com/) - [:copyright:](https://isorepublic.com/terms/) ISO Republic provides exclusive free stock photos for creatives.
 *   [Kaboom Pics](https://kaboompics.com/) - [:copyright:](https://kaboompics.com/page/license-and-faq) Great place to get breathtaking Free Pictures for business or personal projects.
 *   [Photober](https://www.photober.com/) - [:copyright:](https://www.photober.com/terms/) Free of charge photo downloading site for personal or commercial use.
@@ -277,25 +340,12 @@
 
 *   [New Old Stock](https://nos.twnsnd.co/) - [:copyright:](https://nos.twnsnd.co/rights-and-usage) Vintage photos from the public archive. of known copyright restrictions.
 
-### Photography / Attribution Required licenses
-
-*   [IM Creator](http://imcreator.com/free) - Also includes Website templates and icons. Some ([CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/)) works, check the license before use.
-*   [Superfamous](https://superfamous.com/Images) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) Superfamous CC BY 3.0 licensed images by [Folkert Gorter](https://twitter.com/folkertgorter).
-
-### Vector Graphics / Unspecified License
-
-*   [Freepik](https://www.freepik.com/) - [:copyright:](https://www.freepik.com/terms_of_use) Find free vectors, PSD, icons and photos.
-
 ### Icons / Icon Fonts
 
-*   [Appa Sariicon](http://code.sariina.com/appa-sariicon/) [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi\&id=OFL&_sc=1) 147 8-bit retro style webfont icons for web and mobile
 *   [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3) - [:copyright:](https://choosealicense.com/licenses/mit/) An icon font from Zurb, the people behind the Foundation framework.
-*   [Ionicons](http://ionicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) The premium icon font for Ionic Framework. 100% free and open source.
 *   [Material Design Icons](https://material.io/icons/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Google's Material Icons.
 *   [Octicons](https://octicons.github.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) GitHub's Icons.
-*   [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
-*   [Social Stackicons](http://stackicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
-*   [Typicons](http://s-ings.com/typicons/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
+*   [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](https://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 
 ### HTML Templates / Icons Packages and Collections
 
@@ -316,17 +366,9 @@
 
 ## [Jul 24 - Jul 30, 2017](/content/2017/30/README.md)
 
-### Photography / CC0-license
-
-*   [MMT](https://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
-
-### Photography / Custom License / Usage
-
-*   [Foodies Feed](https://www.foodiesfeed.com/) - Free food based images. [:copyright:](https://www.foodiesfeed.com/faq/).
-
 ### Icons / Icons Packages and Collections
 
-*   [Simple Icons (⭐22k)](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+*   [Simple Icons (⭐24k)](https://github.com/simple-icons/simple-icons) - [:copyright:](https://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 
 ## [Jul 03 - Jul 09, 2017](/content/2017/27/README.md)
 
@@ -338,31 +380,19 @@
 
 ### Photography / CC0-license
 
-*   [Magdeleine](https://magdeleine.co/browse/) - A selection of free photos curated by [Magdeleine](https://twitter.com/MagdeleinePhoto).
-*   [Pickle Jar](http://www.picklejar.in/) - High-resolution images of everyday india. One new image every day.
 *   [Snappy Goat](https://snappygoat.com/) - Over 12 million public domain & CC0 licensed images.
 
 ### Patterns / Unspecified License
 
-*   [Low Poly Images](https://digital.com/blog/best-low-poly-generators/) - Collection of low poly image generators.
 *   [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Image based background textures and patterns.
-
-### Icons / Icon Fonts
-
-*   [Font Awesome](http://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT licensed icon font.
 
 ### Icons / Icons Packages and Collections
 
-*   [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 *   [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 
 ### HTML Templates / Icons Packages and Collections
 
 *   [HTML5 Up](https://html5up.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) HTML5 UP makes spiffy HTML5 site templates.
-
-### Sounds & Music / Icons Packages and Collections
-
-*   [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
 
 ## [May 15 - May 21, 2017](/content/2017/20/README.md)
 
@@ -381,7 +411,6 @@
 ### Photography / Custom License / Usage
 
 *   [Picography](https://picography.co/) - [:copyright:](https://picography.co/terms/) Free hi-resolution photos. Use them however you like.
-*   [Split Shire](https://www.splitshire.com/) - [:copyright:](https://www.splitshire.com/about/) Real photos for commercial use with no copyright restrictions and a real look.
 
 ### Photography / Attribution Required licenses
 
@@ -406,7 +435,6 @@
 ### Paid Resources / Icons Packages and Collections
 
 *   [Fotolia](https://us.fotolia.com/) - Photos, Illustrations, Vectors, Videos.
-*   [Shutterstock](https://www.shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 
 ## [Sep 26 - Oct 02, 2016](/content/2016/39/README.md)
 
@@ -424,22 +452,9 @@
 
 *   [Photo Crops](https://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
 
-### Photography / Custom License / Usage
-
-*   [Compfight.com](http://compfight.com/) - [:copyright:](https://www.flickr.com/creativecommons/) An image search engine tailored to efficiently locate images for blogs, comps, inspiration, and research.
-
 ### Photography / Attribution Required licenses
 
-*   [PhotoEverywhere](http://photoeverywhere.co.uk/) - [:copyright:](https://creativecommons.org/licenses/by/2.5/) Globe-trot our collection of high resolution Travel Stock Images More than 3600 photos that are Free to use and ready for instant download.
 *   [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/) - [:copyright:](https://creativecommons.org/licenses/by/2.0/) Licensed picture from Women of Color in Tech.
-
-### Vector Graphics / Unspecified License
-
-*   [Logo Dust](http://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Free CC Attribution 4.0 logo designs for your projects.
-
-### Videos / Unspecified License
-
-*   [Life of Vids](http://www.lifeofvids.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Free royalty-free videos, clips & loops.
 
 ### Fonts / Unspecified License
 
@@ -454,37 +469,17 @@
 
 *   [Themezy](https://www.themezy.com/) - [:copyright:](https://www.themezy.com/terms) Free WordPress themes and website templates.
 
-## [Aug 29 - Sep 04, 2016](/content/2016/35/README.md)
-
-### Sounds & Music / Icons Packages and Collections
-
-*   [Sound Image](http://soundimage.org/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
-
 ## [Aug 22 - Aug 28, 2016](/content/2016/34/README.md)
 
 ### Photography / Unspecified License
 
 *   [Mockup World](https://www.mockupworld.co) - A mixture of free and premium mockup in-situation templates.
 
-## [Aug 01 - Aug 07, 2016](/content/2016/31/README.md)
-
-### Photography / CC0-license
-
-*   [Skuawk](http://skuawk.com/) - Skuawk public domain photos, free, beautiful and artistically loud.
-
 ## [Jul 25 - Jul 31, 2016](/content/2016/30/README.md)
-
-### Photography / CC0-license
-
-*   [Pickupimage](http://pickupimage.com/) - Free download high quality premium free stock images, public domain photos.
 
 ### Photography / Custom License / Usage
 
 *   [Freerange](https://freerangestock.com/) - [:copyright:](https://freerangestock.com/licensing.php) Quality stock photos for commercial and non-commercial use. For free.
-
-### Vector Graphics / Unspecified License
-
-*   [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) A fun little community of vector lovers who share free vector graphics.
 
 ### Videos / Unspecified License
 
@@ -500,13 +495,9 @@
 
 ### Photography / CC0-license
 
-*   [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](http://ab-dz.com/).
+*   [Stockified](https://www.stockified.com/) - Free pictures taken in India by Kiran BV and [Aditya G Bharadwaj](https://ab-dz.com/).
 
 ## [May 30 - Jun 05, 2016](/content/2016/22/README.md)
-
-### Vector Graphics / Unspecified License
-
-*   [Facebook Design Resource](http://facebook.design/) - [:copyright:](http://facebook.design/disclaimer.html) A collection for design resources from Facebook including iOS9 GUI and various popular device templates.
 
 ### Icons / Icons Packages and Collections
 
@@ -520,19 +511,11 @@
 
 *   [Stock Up](https://www.sitebuilderreport.com/stock-up) - Searching 9,301 (and counting) free stock photos across 25 websites.
 
-### HTML Templates / Icons Packages and Collections
-
-*   [Templated](https://templated.co/) - [:copyright:](https://templated.co/license) A collection of 850 free CSS and HTML5 site templates, designed & built by Cherry + AJ and released under the Creative Commons.
-
 ## [May 02 - May 08, 2016](/content/2016/18/README.md)
 
 ### Photography / CC0-license
 
 *   [SpaceX Photos](https://www.flickr.com/photos/spacex/) - Promotional SpaceX stock photography.
-
-### Photography / Custom License / Usage
-
-*   [Designer Pics](http://www.designerspics.com) - [:copyright:](http://www.designerspics.com/faq-and-terms/) Free photographs for personal and commercial by [Jeshu John](https://twitter.com/jeshujohn).
 
 ### Photography / Public Domain
 
@@ -546,59 +529,26 @@
 
 *   [Share on Twitter](https://twitter.com/home?status=Checkout%20this%20Awesome%20Stock%20Resources%20list%20from%20%40neutraltone.%20https%3A%2F%2Fgithub.com%2Fneutraltone%2Fawesome-stock-resources%20%23design)
 
-## [Mar 28 - Apr 03, 2016](/content/2016/13/README.md)
-
-### Photography / CC0-license
-
-*   [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
-
 ## [Feb 22 - Feb 28, 2016](/content/2016/8/README.md)
 
 ### Aggregated Content / Icons Packages and Collections
 
 *   [Avopix](https://avopix.com) - More than 15 000 absolutely free stock photos and vectors.
 
-## [Jan 25 - Jan 31, 2016](/content/2016/4/README.md)
-
-### Aggregated Content / Icons Packages and Collections
-
-*   [The Stocks](http://thestocks.im/) - The best royalty free stock photos in one place.
-
 ## [Jan 18 - Jan 24, 2016](/content/2016/3/README.md)
-
-### Photography / CC0-license
-
-*   [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
 
 ### Photography / Custom License / Usage
 
-*   [PhotoStockEditor](http://photostockeditor.com) - [:copyright:](http://photostockeditor.com/#small-dialog) High-resolution weekly images for Personal & Commercial use.
 *   [Pic Jumbo](https://picjumbo.com/) - [:copyright:](https://picjumbo.com/faq-and-terms/) Totally free photos for your commercial & personal works.
-
-### Photography / Unspecified License
-
-*   [Function](http://wefunction.com/category/free-photos/) - High-resolution photos by Liam McKay.
-*   [Refe Real Life Photos](http://getrefe.tumblr.com) - Free real life photos from [REFE](http://getrefe.com/).
-*   [titania foto](http://www.titania-foto.com) - The free image database
 
 ### Icons / Icon Fonts
 
 *   [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons.
 
-### Paid Resources / Icons Packages and Collections
-
-*   [Stocksy](https://www.stocksy.com/) - "Cliché-free" Photos.
-
 ### How to Share / Icons Packages and Collections
 
 *   [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100\&p\[url]=https://github.com/neutraltone/awesome-stock-resources\&p\[images]\[0]=\&p\[title]=Awesome%20Stock%20Resources\&p\[summary]=)
 *   [Share on LinkedIn](https://www.linkedin.com/shareArticle?mini=true\&url=https://github.com/neutraltone/awesome-stock-resources\&title=Awesome%20Stock%20Resources\&summary=\&source=)
-
-## [Jan 11 - Jan 17, 2016](/content/2016/2/README.md)
-
-### Sounds & Music / Icons Packages and Collections
-
-*   [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
 
 ## [Dec 14 - Dec 20, 2015](/content/2015/50/README.md)
 
@@ -614,10 +564,6 @@
 
 ## [Nov 30 - Dec 06, 2015](/content/2015/48/README.md)
 
-### Photography / Attribution Required licenses
-
-*   [Albumarium](http://albumarium.com/) - [:copyright:](http://albumarium.com/terms) The "best" place to find & share beautiful images.
-
 ### Icons / Icons Packages and Collections
 
 *   [Maps Icon (⭐2.2k)](https://github.com/djaiss/mapsicon) - [:copyright: (⭐2.2k)](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
@@ -626,41 +572,15 @@
 
 ### Photography / CC0-license
 
-*   [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
-*   [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
-*   [Free Nature Stock](http://freenaturestock.com/) - Royalty-free, use them however you want, Nature Stock Photos.
-*   [Jay Mantri](http://jaymantri.com/) - Free pics. Do anything. Make magic.
-*   [Jéshoots](http://jeshoots.com/) - Photos for business or personal use in high resolution for free.
-*   [Life of Pix](http://www.lifeofpix.com/) - Free high-resolution photos, no copyright restrictions. Photographs added weekly.
-*   [Little Visuals](http://littlevisuals.co/) - Hi-res images zipped up in your inbox. Use them anyway you want.
 *   [Stocksnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
-*   [Stokpic](http://stokpic.com/) - Free Stock Photos For Commercial Use.
-
-### Photography / Custom License / Usage
-
-*   [Bara Art](http://www.bara-art.com/) - [:copyright:](http://www.bara-art.com/about/) The world always needs high quality photography! Here they are for you, so make something awesome out of them.
-*   [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) One free to use photo added everyday.
-*   [Shutteroo](http://shutteroo.com/) - [:copyright:](http://shutteroo.com/about/) Free high-resolution travel images.
 
 ### Photography / Public Domain
 
 *   [Flickr Commons](https://www.flickr.com/commons) - [:copyright:](https://www.flickr.com/commons/usage/) Flickr's catalogue of the worlds public photo archives.
-*   [Public Domain Archive](http://publicdomainarchive.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) New stock photos every single week.
-
-### Photography / Attribution Required licenses
-
-*   [BucketListly](http://photos.bucketlistly.com/) - A free creative common collection of travel photos anyone can use.
-
-### Illustration / Unspecified License
-
-*   [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - [:copyright:](http://www.bl.uk/aboutus/terms/copyright/index.html) The British Library’s collections on Flickr Commons offer access to millions of public domain images.
 
 ### Videos / Unspecified License
 
-*   [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Beautiful, free, CC0 licensed videos for your homepage. 7 new videos every Monday.
-*   [Mazwai](http://mazwai.com/) - Great collection of free creative commons HD video clips & footages. Check each video for licensing terms.
 *   [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) Completely free, CC0 licensed stock videos.
-*   [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) Free HD stock footage (Attribution required).
 
 ### Fonts / Unspecified License
 
@@ -668,42 +588,17 @@
 
 ### Icons / Icon Fonts
 
-*   [Topcoat Icons (⭐257)](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
-
-### Colors / Icons Packages and Collections
-
-*   [Bootflat](http://bootflat.github.io/color-picker.html) - Bootflat Flat UI color picker is a project digging the Flat Color Picker which gives you the perfect colors for flat designs.
-
-### How to Share / Icons Packages and Collections
-
-*   [Share on Google Plus](https://plus.google.com/share?url=https://github.com/neutraltone/awesome-stock-resources)
+*   [Topcoat Icons (⭐253)](https://github.com/topcoat/icons) - [:copyright:](https://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](https://topcoat.io/).
 
 ## [Nov 16 - Nov 22, 2015](/content/2015/46/README.md)
 
-### Photography / CC0-license
-
-*   [Pixabay](https://pixabay.com) - Stock photos, illustrations, vectors and videos.
-*   [Travel Coffee Book](http://travelcoffeebook.com/) - Travel photography.
-
 ### Photography / Custom License / Usage
 
-*   [Startup Stock Photos](http://startupstockphotos.com/) - [:copyright:](http://startupstockphotos.com/terms-of-use) Startup based photography.
-
-### Icons / Icon Fonts
-
-*   [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css (⭐3.8k)](https://github.com/csswizardry/inuit.css).
-*   [Fontello](http://fontello.com/) - [:copyright: (⭐7k)](https://github.com/fontello/fontello/wiki/What-about-license%3F) - Fontello is a tool to quickly pack vector images into webfonts. Also includes a section of stock icons.
-*   [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
+*   [Pixabay](https://pixabay.com) - [:copyright:](https://pixabay.com/service/license-summary/) Stock photos, illustrations, vectors and videos.
 
 ### Colors / Icons Packages and Collections
 
-*   [Color Hunt](http://colorhunt.co/) - A place to discover, create, and share color palettes.
 *   [Coolors](https://coolors.co/) - The super fast color schemes generator for cool designers.
-
-### Sounds & Music / Icons Packages and Collections
-
-*   [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) Free loops and audio clip.
-*   [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
 
 ### Paid Resources / Icons Packages and Collections
 
@@ -713,35 +608,15 @@
 
 ### Photography / CC0-license
 
-*   [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
-*   [Realistic Shots](http://realisticshots.com/) - 7 new photos added every week.
-*   [Snapwire Snaps](http://snapwiresnaps.tumblr.com/) - Commissioned photos from 170,000 of the world's most talented photographers.
 *   [The Pic Pac](https://thepicpac.com/) - New pacs on Monday, free pics Tuesday - Sunday.
-
-### Photography / Unspecified License
-
-*   [Freejpg](http://en.freejpg.com.ar/) - Free image bank for commercial and editorial use.
-*   [Trunklog](http://trunklog.com/) - A collection of photos from photographer [Magnus Jälthammar](https://twitter.com/jalthammar).
-
-### Patterns / Unspecified License
-
-*   [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/) - CSS3 based repeatable patterns.
-*   [The Pattern Library](http://thepatternlibrary.com/) - A collection of bold, bright and funky repeatable patterns.
 
 ### Fonts / Unspecified License
 
-*   [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 *   [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - Open-source type foundry.
 
 ### Colors / Icons Packages and Collections
 
-*   [Colour Lovers](http://www.colourlovers.com) - A creative community where people from around the world create and share colors, palettes and patterns.
 *   [Flat UI Colors](https://flatuicolors.com/) - Flat color picker which gives you the perfect colors for flat designs.
-
-### Aggregated Content / Icons Packages and Collections
-
-*   [All The Free Stock](http://allthefreestock.com) - One stop resource for free stock images, videos, sounds and more.
-*   [Libre Stock](http://librestock.com/) - Search engine for stock photo websites.
 
 ### Paid Resources / Icons Packages and Collections
 

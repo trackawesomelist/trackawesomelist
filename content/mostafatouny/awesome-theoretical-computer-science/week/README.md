@@ -2,9 +2,15 @@
 
 Math & CS Awesome List, distinguished by proof and logic and technique
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 884 · 🏷️ Computer Science
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mostafatouny/awesome-theoretical-computer-science/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mostafatouny/awesome-theoretical-computer-science](https://github.com/mostafatouny/awesome-theoretical-computer-science) · ⭐ 952 · 🏷️ Computer Science
 
 [ [Daily](/content/mostafatouny/awesome-theoretical-computer-science/README.md) / Weekly / [Overview](/content/mostafatouny/awesome-theoretical-computer-science/readme/README.md) ]
+
+## [Sep 08 - Sep 14, 2025](/content/2025/36/README.md)
+
+### Books / Monograph
+
+*   [Eck & Critchlow. Foundations of Computation](https://math.hws.edu/FoundationsOfComputation/) - for a one-semester course in theoretical computer science. It has no prerequisites other than introductory computer programming. It includes logic, sets, and function from discrete math, and automata, formal languages, and grammar from upper-level courses.
 
 ## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
 
@@ -112,7 +118,7 @@ Math & CS Awesome List, distinguished by proof and logic and technique
 
 ### Books / Monograph
 
-*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐959)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley for self-study](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf), and [Berkeley 2024](https://cs61a.org/) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
+*   Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book (⭐965)](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley for self-study](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf), and [Berkeley 2024](https://cs61a.org/) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
 *   [Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap) - A book introducing both machine-checked proof with Coq Proof Assistant and approaches to formal reasoning about program correctness.
 *   [Lean Proof Assistant](https://lean-lang.org/documentation/) - Lean Proof Assistant.
 *   [Bengt. Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/book.pdf) - This book describes different type theories (theories of types, polymorphic and monomorphic sets, and subsets) from a computing science perspective.
@@ -217,12 +223,6 @@ Math & CS Awesome List, distinguished by proof and logic and technique
 
 *   [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
 
-## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
-
-### Transition To Pure Rigour Math / Lecture Videos Playlist
-
-*   Velleman. How to Prove it: A Structured Approach. - It transitions from solving problems to proving theorems by teaching them the techniques needed to read and write proofs.
-
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
 ### Communication Complexity / Lecture Notes
@@ -269,8 +269,8 @@ Math & CS Awesome List, distinguished by proof and logic and technique
 
 ### Cheat Sheets / Lecture Videos Playlist
 
-*   [Mathematics (⭐9.8k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
-*   [Math (⭐7.6k)](https://github.com/ossu/math) and [CS (⭐188k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
+*   [Mathematics (⭐9.9k)](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
+*   [Math (⭐7.8k)](https://github.com/ossu/math) and [CS (⭐191k)](https://github.com/ossu/computer-science) curricula by [Open Source Society University](https://github.com/ossu).
 
 ## [May 16 - May 22, 2022](/content/2022/20/README.md)
 
@@ -590,6 +590,6 @@ Math & CS Awesome List, distinguished by proof and logic and technique
 ### Cheat Sheets / Lecture Videos Playlist
 
 *   [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
-*   [Algorithms (⭐23k)](https://github.com/tayllan/awesome-algorithms).
-*   [Cryptography (⭐6.3k)](https://github.com/sobolevn/awesome-cryptography).
+*   [Algorithms (⭐24k)](https://github.com/tayllan/awesome-algorithms).
+*   [Cryptography (⭐6.5k)](https://github.com/sobolevn/awesome-cryptography).
 *   [Quantum Computing (⭐2.9k)](https://github.com/desireevl/awesome-quantum-computing).

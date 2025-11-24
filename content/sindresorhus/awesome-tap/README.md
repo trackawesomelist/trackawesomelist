@@ -2,9 +2,15 @@
 
 Useful resources for the Test Anything Protocol
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-tap/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-tap](https://github.com/sindresorhus/awesome-tap) · ⭐ 587 · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-tap/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-tap](https://github.com/sindresorhus/awesome-tap) · ⭐ 634 · 🏷️ Testing
 
 [ Daily / [Weekly](/content/sindresorhus/awesome-tap/week/README.md) / [Overview](/content/sindresorhus/awesome-tap/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Reporters / Go
+
+*   [tapfmt (⭐2)](https://github.com/coreybutler/tapfmt) - Standalone cross-platform formatter.
 
 ## [Jan 05, 2023](/content/2023/01/05/README.md)
 
@@ -16,7 +22,7 @@ Useful resources for the Test Anything Protocol
 
 ### Producers / Bash
 
-*   [ShellSpec (⭐807)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for POSIX shells.
+*   [ShellSpec (⭐1.3k)](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for POSIX shells.
 
 ## [Apr 30, 2020](/content/2020/04/30/README.md)
 
@@ -42,13 +48,13 @@ Useful resources for the Test Anything Protocol
 
 ### Producers / JavaScript
 
-*   [zora (⭐482)](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel.
+*   [zora (⭐543)](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel.
 
 ## [Aug 11, 2019](/content/2019/08/11/README.md)
 
 ### Reporters / JavaScript
 
-*   [tap-min (⭐6)](https://github.com/derhuerst/tap-min) - Minimal output.
+*   [tap-min (⭐7)](https://github.com/derhuerst/tap-min) - Minimal output.
 
 ## [May 04, 2019](/content/2019/05/04/README.md)
 
@@ -60,7 +66,7 @@ Useful resources for the Test Anything Protocol
 
 ### Producers / JavaScript
 
-*   [AVA (⭐20k)](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`).
+*   [AVA (⭐21k)](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`).
 *   [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
 *   [mos (⭐108)](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
 
@@ -68,14 +74,14 @@ Useful resources for the Test Anything Protocol
 
 ### Tools / JavaScript
 
-*   [smokestack (⭐246)](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`.
-*   [chutney (⭐5)](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack (⭐246)](https://github.com/hughsk/smokestack) alternative.
+*   [smokestack (⭐245)](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`.
+*   [chutney (⭐4)](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack (⭐245)](https://github.com/hughsk/smokestack) alternative.
 
 ## [Jun 14, 2016](/content/2016/06/14/README.md)
 
 ### Reporters / JavaScript
 
-*   [tap-notify (⭐59)](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows.
+*   [tap-notify (⭐62)](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows.
 
 ## [May 15, 2016](/content/2016/05/15/README.md)
 
@@ -99,37 +105,37 @@ Useful resources for the Test Anything Protocol
 
 ### Reporters / JavaScript
 
-*   [tap-dot (⭐35)](https://github.com/scottcorgan/tap-dot) - Dotted output.
-*   [tap-spec (⭐280)](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter.
-*   [tap-nyan (⭐144)](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat.
+*   [tap-dot (⭐37)](https://github.com/scottcorgan/tap-dot) - Dotted output.
+*   [tap-spec (⭐283)](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter.
+*   [tap-nyan (⭐147)](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat.
 *   [tap-difflet (⭐48)](https://github.com/namuol/tap-difflet) - Minimal output with diffing.
-*   [tap-diff (⭐93)](https://github.com/axross/tap-diff) - Human-friendly output with diffing.
+*   [tap-diff (⭐94)](https://github.com/axross/tap-diff) - Human-friendly output with diffing.
 *   [tap-simple (⭐6)](https://github.com/joeybaker/tap-simple) - Simple output.
-*   [faucet (⭐541)](https://github.com/substack/faucet) - Human-readable summarizer.
-*   [tap-mocha-reporter (⭐24)](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters (⭐24)](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).
-*   [tap-summary (⭐43)](https://github.com/zoubin/tap-summary) - Summarized output.
-*   [tap-pessimist (⭐15)](https://github.com/clux/tap-pessimist) - Only shows failed tests.
-*   [tap-prettify (⭐34)](https://github.com/toolness/tap-prettify) - Nice readable output with diffing.
+*   [faucet (⭐553)](https://github.com/substack/faucet) - Human-readable summarizer.
+*   [tap-mocha-reporter (⭐29)](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters (⭐29)](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).
+*   [tap-summary (⭐44)](https://github.com/zoubin/tap-summary) - Summarized output.
+*   [tap-pessimist (⭐16)](https://github.com/clux/tap-pessimist) - Only shows failed tests.
+*   [tap-prettify (⭐35)](https://github.com/toolness/tap-prettify) - Nice readable output with diffing.
 *   [tap-colorize](https://github.com/substack/tap-colorize) - Colorize the output while preserving machine-readability.
-*   [tap-bail (⭐19)](https://github.com/juliangruber/tap-bail) - Bail out when the first test fails.
-*   [tap-json (⭐24)](https://github.com/gummesson/tap-json) - JSON output.
+*   [tap-bail (⭐17)](https://github.com/juliangruber/tap-bail) - Bail out when the first test fails.
+*   [tap-json (⭐26)](https://github.com/gummesson/tap-json) - JSON output.
 *   [tap-xunit (⭐42)](https://github.com/aghassemi/tap-xunit) - xUnit output.
 
 ### Producers / JavaScript
 
-*   [tap (⭐2.1k)](https://github.com/isaacs/node-tap) - TAP test framework for Node.js.
-*   [tape (⭐5.7k)](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers.
+*   [tap (⭐2.4k)](https://github.com/isaacs/node-tap) - TAP test framework for Node.js.
+*   [tape (⭐5.8k)](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers.
 *   [qunit-tap (⭐72)](https://github.com/twada/qunit-tap) - TAP output for QUnit.
 *   [jasmine-reporters (⭐397)](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
 *   [karma-tap-reporter (⭐7)](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
 
 ### Producers / Fish
 
-*   [Fishtape (⭐314)](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish.
+*   [Fishtape (⭐365)](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish.
 
 ### Consumers / JavaScript
 
-*   [tap-parser (⭐116)](https://github.com/substack/tap-parser) - TAP parser.
+*   [tap-parser (⭐121)](https://github.com/substack/tap-parser) - TAP parser.
 *   [tap-out (⭐23)](https://github.com/scottcorgan/tap-out) - TAP parser.
 *   [yamlish (⭐22)](https://github.com/isaacs/yamlish) - YAML-block parser.
 
@@ -140,11 +146,11 @@ Useful resources for the Test Anything Protocol
 
 ### Tools / Python
 
-*   [tappy (⭐120)](https://github.com/mblayman/tappy) - Tools for working with TAP.
+*   [tappy (⭐142)](https://github.com/mblayman/tappy) - Tools for working with TAP.
 
 ### Tutorials / Python
 
-*   [test-anything (⭐166)](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop.
+*   [test-anything (⭐169)](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop.
 
 ### Documentation / Python
 
@@ -152,5 +158,5 @@ Useful resources for the Test Anything Protocol
 
 ### Community / Python
 
-*   [Discuss (⭐69)](https://github.com/TestAnything/Specification/issues)
+*   [Discuss (⭐98)](https://github.com/TestAnything/Specification/issues)
 *   [Reddit](https://www.reddit.com/r/testanythingprotocol)

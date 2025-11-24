@@ -2,9 +2,23 @@
 
 A curated list of awesome and exceptional board games. Please contribute!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 337 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 346 · 🏷️ Miscellaneous
 
 [ [Daily](/content/edm00se/awesome-board-games/README.md) / Weekly / [Overview](/content/edm00se/awesome-board-games/readme/README.md) ]
+
+## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
+
+### Strategy
+
+### [Cthulhu Wars](https://shop.petersengames.com/products/cthulhu-wars-o4-edition)
+
+> Cthulhu Wars is a fast-moving strategy game about the end of the world. You take the part of various monstrous aliens seeking to dominate the world. You can play as Great Cthulhu himself, or you can take charge of other factions, such as the slithering hordes of the Crawling Chaos, or the insane minions of the Yellow Sign.
+
+![Cthulhu Wars game image](https://cf.geekdo-images.com/itemrep/img/Q5jn_9sxJzHb9KTKKGq44t_k-3U=/fit-in/246x300/pic3527761.jpg)
+
+| Players | Min. Age |    Time |
+| ------: | -------: | ------: |
+|   2 - 8 |       12 | 90-120m |
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -2794,15 +2808,6 @@ In Codenames, two teams compete to see who can make contact with all of their ag
 | Players | Min. Age |   Time |
 | ------: | -------: | -----: |
 |       2 |        9 | 30-60m |
-### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
-
-> Cthulhu Wars is a fast-moving strategy game about the end of the world. You take the part of various monstrous aliens seeking to dominate the world. You can play as Great Cthulhu himself, or you can take charge of other factions, such as the slithering hordes of the Crawling Chaos, or the insane minions of the Yellow Sign.
-
-![Cthulhu Wars game image](https://cf.geekdo-images.com/itemrep/img/Q5jn_9sxJzHb9KTKKGq44t_k-3U=/fit-in/246x300/pic3527761.jpg)
-
-| Players | Min. Age |    Time |
-| ------: | -------: | ------: |
-|   2 - 8 |       12 | 90-120m |
 ### [Anachrony](https://mindclashgames.com/game-worlds/anachrony/)
 
 > Anachrony is a competitive Euro-style strategy game set in a post-apocalyptic world rebuilt along four different ideological Paths. The game is played through a series of turns called Eras, with past ones reachable through time travel later in the game. Players assume the roles of iconic leaders of the four Paths, striving not only for the supremacy and well-being of their people, but also their survival. After the fourth Era, an asteroid impact shakes Earth, threatening to destroy the World Capital, Earth’s last independent city. The Paths should prepare for the coming cataclysm, and when the time comes, take their part in evacuating the collapsing Capital. In the end, one of the Paths will be the new home to the reformed World Council, and lead humanity into a new future.

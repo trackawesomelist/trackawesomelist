@@ -2,9 +2,15 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 2.2K · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 2.6K · 🏷️ Security
 
 [ [Daily](/content/brootware/awesome-cyber-security-university/README.md) / Weekly / [Overview](/content/brootware/awesome-cyber-security-university/readme/README.md) ]
+
+## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
+
+### Free Beginner Red Team Path / Level 2 - Tooling
+
+*   [Subdomain Enumeration](https://tryhackme.com/room/subdomainenumeration) - Learn how to find subdomains with different techniques.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -201,7 +207,6 @@
 ### Free Beginner Red Team Path / Level 2 - Tooling
 
 *   [Tmux](https://tryhackme.com/room/rptmux) - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
-*   [Sublist3r](https://tryhackme.com/room/rpsublist3r) - Learn how to find subdomains with Sublist3r.
 *   [Hydra](https://tryhackme.com/room/hydra) - Learn about and use Hydra, a fast network logon cracker, to bruteforce and obtain a website's credentials.
 *   [Linux Privesc](https://tryhackme.com/room/linuxprivesc) - Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root! SSH is available.
 *   [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals) - Learn about the basics of a red engagement, the main components and stakeholders involved, and how red teaming differs from other cyber security engagements.

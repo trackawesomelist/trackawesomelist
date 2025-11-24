@@ -2,9 +2,24 @@
 
 A curated list for when naming things is done right.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/gruhn/awesome-naming/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) · ⭐ 1.3K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/gruhn/awesome-naming/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 gruhn/awesome-naming](https://github.com/gruhn/awesome-naming) · ⭐ 1.4K · 🏷️ Miscellaneous
 
 [ [Daily](/content/gruhn/awesome-naming/README.md) / Weekly / [Overview](/content/gruhn/awesome-naming/readme/README.md) ]
+
+## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
+
+### Computer Graphics
+
+*   [Gift wrapping algorithm](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm) - An algorithm for constructing the smallest shape that wraps a collection of points.
+
+### IT Security
+
+*   [Phishing](https://en.wikipedia.org/wiki/Phishing) - Refers to the use of lures to "fish" for sensitive information.
+*   [Spear phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing) - A targeted, personal phishing attack to trick a specific individual or organization into believing that they are legitimate
+
+### Tools, Applications, Libraries, Frameworks
+
+*   [bubblewrap (⭐5.1k)](https://github.com/containers/bubblewrap) - Sandboxing tool froming a protective layer for your system.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -16,7 +31,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [corrosion (⭐1.3k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally) but also a tool that "turns" C++ into Rust.
+*   [corrosion (⭐1.4k)](https://github.com/corrosion-rs/corrosion) - The process that turns metal into rust (literally) but also a tool that "turns" C++ into Rust.
 
 ## [Jan 27 - Feb 02, 2025](/content/2025/4/README.md)
 
@@ -86,7 +101,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [horcrux (⭐4.8k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
+*   [horcrux (⭐5k)](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
 
 ## [Jul 24 - Jul 30, 2023](/content/2023/30/README.md)
 
@@ -151,7 +166,7 @@ A curated list for when naming things is done right.
 
 ### Tools, Applications, Libraries, Frameworks
 
-*   [Puppeteer (⭐91k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
+*   [Puppeteer (⭐93k)](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 

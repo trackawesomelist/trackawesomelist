@@ -2,9 +2,42 @@
 
 Add-ons and resources for the CMS Plone
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 57 · 🏷️ Content Management Systems
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/collective/awesome-plone/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 collective/awesome-plone](https://github.com/collective/awesome-plone) · ⭐ 67 · 🏷️ Content Management Systems
 
 [ Daily / [Weekly](/content/collective/awesome-plone/week/README.md) / [Overview](/content/collective/awesome-plone/readme/README.md) ]
+
+## [Oct 18, 2025](/content/2025/10/18/README.md)
+
+### Multilingual
+
+*   [cs.adminlanguage (⭐0)](https://github.com/codesyntax/cs.adminlanguage) - Configure a language to be used when editing your Plone site, independent to the site language.
+
+### Media
+
+*   [cs\_flickrgallery (⭐1)](https://github.com/codesyntax/cs_flickrgallery) - Flickr photo gallery support for Plone.
+
+### Authentication
+
+*   [pas.plugins.eea (⭐0)](https://github.com/collective/pas.plugins.eea) - Provides user and group enumeration on top of pas.plugins.authomatic, with support for Microsoft Entra ID. Includes user and group synchronization.
+*   [pas.plugins.oidc (⭐5)](https://github.com/collective/pas.plugins.oidc) - Login using OIDC providers.
+*   [wcs.samlauth (⭐2)](https://github.com/collective/wcs.samlauth) - Login using SAML providers.
+
+### Finding more add-ons
+
+*   Start by making a list of the features you require.
+*   Check this list first to see if any existing add-ons meet your needs.
+*   Search for Plone add-ons on [PyPi](https://pypi.org/search/?c=Framework+%3A%3A+Plone).
+*   Browse the [Collective](https://github.com/collective) organization on GitHub.
+*   Browse the [Plone](https://github.com/plone) organization on GitHub.
+*   Or simply Google for your requirements.
+
+### Official resources
+
+*   [community.plone.org](https://community.plone.org) - Official community forum, the best place to get help.
+*   [plone.org](https://plone.org) - Official website for developers and community.
+*   [docs.plone.org](https://docs.plone.org) - Official documentation for developers/integrators.
+*   [Plone 6 Documentation](https://6.dev-docs.plone.org) - Official documentation for the upcoming Plone 6 (work on progress).
+*   [training.plone.org](https://training.plone.org) - Training classes for developers/integrators/users/designers.
 
 ## [Dec 27, 2024](/content/2024/12/27/README.md)
 
@@ -28,7 +61,7 @@ Add-ons and resources for the CMS Plone
 
 ### Sysadmin
 
-*   [collective.regenv (⭐4)](https://github.com/collective/collective.regenv) - Override registry settings using environment variables.
+*   [collective.regenv (⭐5)](https://github.com/collective/collective.regenv) - Override registry settings using environment variables.
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
@@ -40,7 +73,7 @@ Add-ons and resources for the CMS Plone
 
 ### Searching and Categorizing
 
-*   [zopyx.typesense (⭐3)](https://github.com/zopyx/zopyx.typesense) - Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.
+*   [zopyx.typesense (⭐4)](https://github.com/zopyx/zopyx.typesense) - Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.
 
 ### Develop
 
@@ -50,7 +83,7 @@ Add-ons and resources for the CMS Plone
 
 ### Searching and Categorizing
 
-*   [collective.elasticsearch (⭐18)](https://github.com/collective/collective.elasticsearch) - Use ElasticSearch as the search backend for Plone.
+*   [collective.elasticsearch (⭐18)](https://github.com/collective/collective.elasticsearch) - Use Elasticsearch as the search backend for Plone.
 
 ## [Aug 07, 2022](/content/2022/08/07/README.md)
 
@@ -66,19 +99,12 @@ Add-ons and resources for the CMS Plone
 
 ### Finding more add-ons
 
-*   Make a list of required features.
-*   Look in this list first.
-*   Search pypi: <https://pypi.org/search/?c=Framework+%3A%3A+Plone>
-*   Search the collective organization on github: <https://github.com/collective>
-*   Search the plone organization on github: <https://github.com/plone>
-*   Google for your requirements
 *   Test all required features. Read but do not trust the documentation
 *   Check if the add-on runs on your required version
 *   Check if it is maintained
 *   Does it have i18n-support, i.e. is the user-interface translated to your language?
 *   Does it uninstall cleanly?
 *   Check for unwanted dependencies
-*   Message Board: <https://community.plone.org>
 *   Adapt your requirements to what is available.
 *   Invest the time & money to customize an existing add-ons to better fit your needs.
 *   Create a new add-on that does exactly what you need.
@@ -87,7 +113,7 @@ Add-ons and resources for the CMS Plone
 
 ### Sysadmin
 
-*   [collective.purgebyid (⭐5)](https://github.com/collective/collective.purgebyid) - Use tag-based cache invalidation in Plone (e.g. with Varnish's xkey module).
+*   [collective.purgebyid (⭐6)](https://github.com/collective/collective.purgebyid) - Use tag-based cache invalidation in Plone (e.g. with Varnish's xkey module).
 
 ## [May 24, 2022](/content/2022/05/24/README.md)
 
@@ -100,8 +126,8 @@ Add-ons and resources for the CMS Plone
 ### Layout
 
 *   [plone.app.mosaic (⭐36)](https://github.com/plone/plone.app.mosaic) - Powerful and extendable editor that allows users to compose the content of a page with different tiles.
-*   [collective.cover (⭐49)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
-*   [collective.contentsections (⭐9)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
+*   [collective.cover (⭐48)](https://github.com/collective/collective.cover) - Cover allows the creation of elaborate covers built around a drag-and-drop interface. Uses the same blocks/tiles ecosystem as plone.app.mosaic but a different approach to editing.
+*   [collective.contentsections (⭐10)](https://github.com/collective/collective.contentsections) - Offers a block approach for Plone 6 Classic based entirely on Dexterity content types.
 
 ### Tiles
 
@@ -112,7 +138,6 @@ Add-ons and resources for the CMS Plone
 
 ### Official resources
 
-*   [Plone 6 Documentation](https://6.dev-docs.plone.org/) - Official documentation for the upcoming Plone 6 (work on progress).
 *   [plone.api](https://6.dev-docs.plone.org/plone.api/index.html) - Documentation for plone.api.
 
 ## [May 19, 2022](/content/2022/05/19/README.md)
@@ -128,7 +153,7 @@ Add-ons and resources for the CMS Plone
 
 *   [collective.easyformplugin.registration (⭐3)](https://github.com/collective/collective.easyformplugin.registration) - Add a behavior to collective.easyform to manage registration forms for events.
 *   [collective.fullcalendar (⭐2)](https://github.com/collective/collective.fullcalendar) - Display events in a nice calendar UI using <https://fullcalendar.io>.
-*   [collective.venue (⭐3)](https://github.com/collective/collective.venue) - Venue type with geolocation support for use with events or any other location specific content.
+*   [collective.venue (⭐4)](https://github.com/collective/collective.venue) - Venue type with geolocation support for use with events or any other location specific content.
 
 ### Forms
 
@@ -137,7 +162,7 @@ Add-ons and resources for the CMS Plone
 *   [collective.honeypot (⭐5)](https://github.com/collective/collective.honeypot) - Honeypot protection for forms.
 *   [collective.z3cform.datagridfield (⭐8)](https://github.com/collective/collective.z3cform.datagridfield) - A field with a datagrid (table), where each row is a sub form.
 *   [collective.z3cform.norobots (⭐5)](https://github.com/collective/collective.z3cform.norobots) - A "human" captcha widget based on a list of questions/answers.
-*   [plone.formwidgets.hcaptcha (⭐1)](https://github.com/plone/plone.formwidget.hcaptcha) - HCaptcha widget to protect Plone from bots, spam, and other forms of automated abuse.
+*   [plone.formwidgets.hcaptcha (⭐3)](https://github.com/plone/plone.formwidget.hcaptcha) - HCaptcha widget to protect Plone from bots, spam, and other forms of automated abuse.
 *   [yafowil.plone (⭐3)](https://github.com/bluedynamics/yafowil.plone) - Yafowil is a form library for Python. This is its Plone Integration package.
 
 ### Multilingual
@@ -165,15 +190,15 @@ Add-ons and resources for the CMS Plone
 
 ### Authentication
 
-*   [iw.rejectanonymous (⭐4)](https://github.com/collective/iw.rejectanonymous) - Reject unconditionnally anonymous users from a Plone site, without any change in your security policy matrix or workflows. The basic use case is an extranet, where all visitors must be authenticated.
+*   [iw.rejectanonymous (⭐3)](https://github.com/collective/iw.rejectanonymous) - Reject unconditionnally anonymous users from a Plone site, without any change in your security policy matrix or workflows. The basic use case is an extranet, where all visitors must be authenticated.
 *   [pas.plugins.headers (⭐2)](https://github.com/collective/pas.plugins.headers) - Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.
 *   [dm.zope.saml2](https://pypi.org/project/dm.zope.saml2/) - Supports SAML2 based Single Sign-On.
-*   [collective.impersonate (⭐6)](https://github.com/collective/collective.impersonate) - Allow administrators to impersonate another user. Useful for verifying workflow/permission set up on real content.
+*   [collective.impersonate (⭐7)](https://github.com/collective/collective.impersonate) - Allow administrators to impersonate another user. Useful for verifying workflow/permission set up on real content.
 *   [collective.pwexpiry (⭐1)](https://github.com/collective/collective.pwexpiry) - Provideds methods for stronger user passwords in Plone and password attack protection.
 
 ### Export, Import and Migrations
 
-*   [collective.exportimport (⭐15)](https://github.com/collective/collective.exportimport/) - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
+*   [collective.exportimport (⭐17)](https://github.com/collective/collective.exportimport/) - Export and import content and a lot of other data from and to Plone. The main solution for all kinds of migrations based on plone.restapi.
 *   [collective.migrationhelpers (⭐14)](https://github.com/collective/collective.migrationhelpers/) - Helpers and examples to use during migrations.
 *   [collective.jsonify (⭐12)](https://github.com/collective/collective.jsonify) - Export Plone content to JSON.
 *   [collective.transmogrifier (⭐5)](https://github.com/collective/collective.transmogrifier) - A configurable pipeline, aimed at transforming content for import and export.
@@ -199,8 +224,8 @@ Add-ons and resources for the CMS Plone
 *   [collective.bbcodesnippets (⭐1)](https://github.com/collective/collective.bbcodesnippets) - Provides generic and extensible BBCode markup integration for Plone.
 *   [collective.consent (⭐1)](https://github.com/collective/collective.consent) - Ask users for consent to different topics, before they can continue.
 *   [collective.dexteritytextindexer (⭐9)](https://github.com/collective/collective.dexteritytextindexer) - Dynamic SearchableText index for dexterity content types. For Plone 6 this was merged into Plone core.
-*   [collective.documentviewer (⭐21)](https://github.com/collective/collective.documentviewer) - Very nice document viewer that integrates DocumentCloud viewer and PDF processing into Plone.
-*   [collective.easyformplugin.createdx (⭐5)](https://github.com/collective/collective.easyformplugin.createdx) - Creates Plone content objects from EasyForm submissions.
+*   [collective.documentviewer (⭐20)](https://github.com/collective/collective.documentviewer) - Very nice document viewer that integrates DocumentCloud viewer and PDF processing into Plone.
+*   [collective.easyformplugin.createdx (⭐6)](https://github.com/collective/collective.easyformplugin.createdx) - Creates Plone content objects from EasyForm submissions.
 *   [collective.geolocationbehavior (⭐2)](https://github.com/collective/collective.geolocationbehavior) - Geotagging for Plone content using LeafletJS.
 *   [collective.glossary (⭐4)](https://github.com/collective/collective.glossary) - Content type to define a glossary and its terms.
 *   [collective.immediatecreate (⭐0)](https://github.com/collective/collective.immediatecreate) - Create content immediatly and skip the add form.
@@ -212,17 +237,17 @@ Add-ons and resources for the CMS Plone
 *   [collective.richdescription (⭐1)](https://github.com/collective/collective.richdescription) - Formatable description field for Plone.
 *   [collective.workspace (⭐7)](https://github.com/collective/collective.workspace) - Easily manage 'membership' in specific areas of a Plone Site. It allows to grant people access to areas of content using a membership group rather than local roles for each user, and to delegate control over that group to people who don't have access to the site-wide user/group control panel.
 *   [plone.pdfexport (⭐3)](https://github.com/plone/plone.pdfexport) - Generic PDF export functionality for Plone content.
-*   [Products.EasyNewsletter (⭐28)](https://github.com/collective/Products.EasyNewsletter) - Powerful newsletter/mailing product for Plone.
+*   [Products.EasyNewsletter (⭐29)](https://github.com/collective/Products.EasyNewsletter) - Powerful newsletter/mailing product for Plone.
 
 ### Searching and Categorizing
 
 *   [cioppino.twothumbs (⭐14)](https://github.com/collective/cioppino.twothumbs) - Rate content using up- and down-thumbs.
 *   [collective.bookmarks (⭐2)](https://github.com/collective/collective.bookmarks) - Bookmarks/ favorites/ wish-list for Plone.
 *   [collective.collectionfilter (⭐9)](https://github.com/collective/collective.collectionfilter) - Faceted navigation filter for collection or contentlisting tiles.
-*   [collective.elastic.plone (⭐3)](https://github.com/collective/collective.elastic.plone) - ElasticSearch Integration for Plone content.
+*   [collective.elastic.plone (⭐3)](https://github.com/collective/collective.elastic.plone) - Elasticsearch Integration for Plone content.
 *   [collective.searchandreplace (⭐6)](https://github.com/collective/collective.searchandreplace) - Find and replace text in Plone content objects.
 *   [collective.solr (⭐22)](https://github.com/collective/collective.solr) - Solr search engine integration for Plone.
-*   [collective.taxonomy (⭐19)](https://github.com/collective/collective.taxonomy) - Create, edit and use hierarchical taxonomies to categorize content.
+*   [collective.taxonomy (⭐18)](https://github.com/collective/collective.taxonomy) - Create, edit and use hierarchical taxonomies to categorize content.
 *   [eea.facetednavigation (⭐4)](https://github.com/collective/eea.facetednavigation) - Very powerful interface to improve search without programming skills. Configuration is done through-the-web and lets you gradually select and explore different facets (metadata/properties) of the content and narrow down you search quickly and dynamically.
 *   [Products.PloneKeywordManager (⭐4)](https://github.com/collective/Products.PloneKeywordManager) - Change, merge and delete keywords/tags/subjects).
 
@@ -242,7 +267,7 @@ Add-ons and resources for the CMS Plone
 ### Develop
 
 *   [Products.PDBDebugMode (⭐2)](https://github.com/collective/Products.PDBDebugMode) - Post-mortem debugging: open a pdb session whenever an exception occurs so you you can find out what is going wrong. Plus: By adding /pdb to a url you end up you in a pdb session on the current context. A killer tool for developers.
-*   [plone.reload (⭐10)](https://github.com/plone/plone.reload) - Code and configuration reload without server restarts.
+*   [plone.reload (⭐11)](https://github.com/plone/plone.reload) - Code and configuration reload without server restarts.
 *   [Products.PrintingMailHost (⭐2)](https://github.com/collective/Products.PrintingMailHost) - Log mail messages instead of sending mail.
 *   [experimental.gracefulblobmissing (⭐2)](https://github.com/collective/experimental.gracefulblobmissing/) - Gracefully handle missing binary files in Plone.
 *   [collective.relationhelpers (⭐7)](https://github.com/collective/collective.relationhelpers) - Helpers to manage, create, export and rebuild relations in Plone 5.x. For Plone 6 this was merged into Plone core.
@@ -260,24 +285,12 @@ Add-ons and resources for the CMS Plone
 *   [Discord chat](https://discord.gg/zFY3EBbjaj) - Discord is the best way to chat with members of the Plone community.
 *   [Plone support](https://plone.org/support) - Where to find help.
 
-## [Oct 19, 2018](/content/2018/10/19/README.md)
-
-### Official resources
-
-*   [plone.org](https://plone.org/) - Official website for developers and community.
-*   [community.plone.org](https://community.plone.org/) - Official community forum, the best place to get help.
-*   [training.plone.org](https://training.plone.org/) - Training classes for developers/integrators/users/designers.
-
 ## [Mar 04, 2018](/content/2018/03/04/README.md)
 
 ### Media
 
-*   [wildcard.media (⭐13)](https://github.com/collective/wildcard.media) - Provides audio and video content types and behaviors.
+*   [wildcard.media (⭐12)](https://github.com/collective/wildcard.media) - Provides audio and video content types and behaviors.
 
 ### Authentication
 
-*   [pas.plugins.authomatic (⭐9)](https://github.com/collective/pas.plugins.authomatic) - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
-
-### Official resources
-
-*   [docs.plone.org](https://docs.plone.org/) - Official documentation for developers/integrators.
+*   [pas.plugins.authomatic (⭐10)](https://github.com/collective/pas.plugins.authomatic) - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.

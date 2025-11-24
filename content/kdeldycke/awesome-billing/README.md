@@ -2,15 +2,21 @@
 
 💰 Billing & Payments knowledge for cloud platforms
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-billing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) · ⭐ 1.1K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-billing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) · ⭐ 1.2K · 🏷️ Business
 
 [ Daily / [Weekly](/content/kdeldycke/awesome-billing/week/README.md) / [Overview](/content/kdeldycke/awesome-billing/readme/README.md) ]
+
+## [Oct 05, 2025](/content/2025/10/05/README.md)
+
+### Accounting / Software design and implementation
+
+*   [Triple‐entry accounting with Blockchain: How far have we come?](https://sci-hub.st/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with Blockchain, when properly implemented, can fundamentally improve accounting.”
 
 ## [Jul 01, 2025](/content/2025/07/01/README.md)
 
 ### Invoice / Generators
 
-*   [klirr (⭐51)](https://github.com/sajjon/klirr) - Zero-maintenance and smart FOSS CLI tool for generating beautiful invoices for services and expenses.
+*   [klirr (⭐90)](https://github.com/sajjon/klirr) - Zero-maintenance and smart FOSS CLI tool for generating beautiful invoices for services and expenses.
 
 ## [Jun 07, 2025](/content/2025/06/07/README.md)
 
@@ -74,7 +80,7 @@
 
 *   [The Best Payment Gateway for Startups](https://web.archive.org/web/20230204235716/http://aynuriev.com/best-payment-gateway-startups/) - A benchmark of top payment providers, their pricing and models.
 *   How ACH works: A developer perspective, [part 1](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-1-339d3e7bea1), [part 2](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-2-7a890638c4dd), [part 3](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-3-cd98728cf31f), [part 4](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-4-718a48cb8d2c), [part 5](https://engineering.gusto.com/how-ach-works-a-developer-perspective-part-5-1d998bbcd82c).
-*   [Hyperswitch (⭐21k)](https://github.com/juspay/hyperswitch) - Open-source backend for payment processing.
+*   [Hyperswitch (⭐36k)](https://github.com/juspay/hyperswitch) - Open-source backend for payment processing.
 
 ### Payments / Bank Accounts
 
@@ -100,7 +106,7 @@
 ### Business Intelligence / Customer Lifetime Value
 
 *   [Churn Prediction](https://towardsdatascience.com/customer-churn-prediction-with-text-and-interpretability-bd3d57af34b1/) - “How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.” Relies on XGBoost binary classification.
-*   [PyMC-Marketing (⭐883)](https://github.com/pymc-labs/pymc-marketing) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
+*   [PyMC-Marketing (⭐952)](https://github.com/pymc-labs/pymc-marketing) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
 
 ### Business Intelligence / Data Engineering
 
@@ -109,7 +115,7 @@
 
 ### Business Intelligence / Tools
 
-*   [Meltano (⭐2.1k)](https://github.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
+*   [Meltano (⭐2.2k)](https://github.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
 
 ### Competitive Analysis / Cloud providers
 
@@ -124,7 +130,7 @@
 
 ### Pricing / Usage-based Pricing
 
-*   [CGRateS (⭐459)](https://github.com/cgrates/cgrates) - An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go.
+*   [CGRateS (⭐469)](https://github.com/cgrates/cgrates) - An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go.
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
@@ -142,7 +148,7 @@
 
 ### Cost Forecast / Market Research
 
-*   [Darts (⭐8.7k)](https://github.com/unit8co/darts) - Python library for user-friendly forecasting and anomaly detection on time series. It wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
+*   [Darts (⭐8.9k)](https://github.com/unit8co/darts) - Python library for user-friendly forecasting and anomaly detection on time series. It wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
 
 ## [Jun 28, 2023](/content/2023/06/28/README.md)
 
@@ -162,10 +168,6 @@
 *   [GOBL](https://gobl.org) - JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one.
 
 ## [Jun 14, 2023](/content/2023/06/14/README.md)
-
-### Accounting / Software design and implementation
-
-*   [Triple‐entry accounting with blockchain: How far have we come?](https://sci-hub.st/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with blockchain, when properly implemented, can fundamentally improve accounting.”
 
 ### Contracts / Currencies
 
@@ -264,7 +266,7 @@
 
 ### Pricing / Usage-based Pricing
 
-*   [Lago (⭐7.8k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing in Ruby.
+*   [Lago (⭐8.5k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing in Ruby.
 
 ### Pricing / Subscription Plans
 
@@ -276,7 +278,7 @@
 
 ### Accounting / Software design and implementation
 
-*   [TigerBeetle (⭐13k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between. It has been [tested on Jepsen](https://jepsen.io/analyses/tigerbeetle-0.16.11), which tested its strong serializability.
+*   [TigerBeetle (⭐14k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between. It has been [tested on Jepsen](https://jepsen.io/analyses/tigerbeetle-0.16.11), which tested its strong serializability.
 
 ### Invoice / Structure
 
@@ -319,14 +321,14 @@
 
 ### Accounting / Bookkeeping
 
-*   [Ledger (⭐986)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
-*   [Akaunting (⭐8.7k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
+*   [Ledger (⭐1k)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
+*   [Akaunting (⭐9.2k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
 
 ## [Sep 07, 2021](/content/2021/09/07/README.md)
 
 ### Accounting / Bookkeeping
 
-*   [Go DB Ledger (⭐498)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
+*   [Go DB Ledger (⭐504)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
 ### Payments / Online Payments
 
@@ -433,7 +435,7 @@
 
 ### Marketplace / Market Research
 
-*   [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - Hinted by an [HN comment](https://news.ycombinator.com/item?id=19145391), in which yes, “‘Asking people what they'd pay for and how much rarely works.’ (…) \[but] using a Vickrey auction, similar to Google's ad auction mechanism, can elicit a person's maximum willingness-to-pay.”
+*   [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - Hinted by an [HN comment](https://news.ycombinator.com/item?id=19145391), in which yes, “‘Asking people what they'd pay for and how much rarely works.’ (…) Using a Vickrey auction, similar to Google's ad auction mechanism, can elicit a person's maximum willingness-to-pay.”
 
 ### Marketplace / Cloud Resources
 
@@ -471,7 +473,7 @@
 
 ### Fraud / Trust Score
 
-*   [Awesome Credit Modeling (⭐141)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐147)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
 
 ## [Nov 11, 2020](/content/2020/11/11/README.md)
 
@@ -501,7 +503,7 @@
 
 ### Product Catalog / Market Research
 
-*   [Akeneo PIM (⭐978)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
+*   [Akeneo PIM (⭐987)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
 
 ## [Sep 29, 2020](/content/2020/09/29/README.md)
 
@@ -517,7 +519,7 @@
 
 ### Invoice / Electronic invoices
 
-*   [Factur-X (⭐243)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐251)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 ## [Sep 22, 2020](/content/2020/09/22/README.md)
 
@@ -529,13 +531,13 @@
 
 ### Cost Forecast / Market Research
 
-*   [Forecasting with sktime (⭐9.1k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A more detailed tutorial on how to use past data to make temporal forward predictions. And be aware of the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentioned in the article above.
+*   [Forecasting with sktime (⭐9.3k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A more detailed tutorial on how to use past data to make temporal forward predictions. And be aware of the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentioned in the article above.
 
 ## [Sep 19, 2020](/content/2020/09/19/README.md)
 
 ### Accounting / Bookkeeping
 
-*   [Sequence (⭐498)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
+*   [Sequence (⭐501)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
 
 ## [Sep 01, 2020](/content/2020/09/01/README.md)
 
@@ -544,19 +546,19 @@
 *   [Plain text accounting tools](https://plaintextaccounting.org/#software) - Extensive list of open-source personal finance projects that might be great to look into for inspiration on double-entry accounting and bookkeeping.
 *   And a list of graphical accounting tools: [GNUCash](https://gnucash.org) (GTK+), [Grisbi](https://grisbi.org) (C), [Firefly III](https://firefly-iii.org) (PHP).
 *   [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - A complete tutorial on personal finance tracking with GnuCash.
-*   [Frappe Books (⭐3.4k)](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
-*   [Luca (⭐70)](https://github.com/brandon-rhodes/luca) - YAML accounting and JSON tax forms.
+*   [Frappe Books (⭐3.8k)](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
+*   [Luca (⭐71)](https://github.com/brandon-rhodes/luca) - YAML accounting and JSON tax forms.
 
 ### Accounting / Software design and implementation
 
 *   [Moonpig: a billing system that doesn't suck](https://blog.plover.com/prog/Moonpig.html) - Design decisions behind a billing and accounting system. Key takeaway: some companies still pays by checks; do not use floats; complex customer workflows; date and time issues; mutable data.
 *   [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - Explain the basic data model of a double-entry accounting system relying on Google Spanner for internal use at Square.
 *   [Django Hordak](https://django-hordak.readthedocs.io) - Core functionality of a double entry accounting system for Django.
-*   [Managed accounts for Django (⭐215)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
+*   [Managed accounts for Django (⭐216)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
 
 ### Invoice / Generators
 
-*   [InvoiceGenerator (⭐174)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
+*   [InvoiceGenerator (⭐177)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
 *   [Ruby Invoicing Framework (⭐265)](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
 ### Invoice / Extractors
@@ -657,7 +659,7 @@
 
 ### Marketplace / Market Research
 
-*   [Papers we love: Auctions and Bidding (⭐95k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐98k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
 ### Payments / Bank Accounts
 
@@ -673,7 +675,7 @@
 
 ### Business Intelligence / Tools
 
-*   [Metabase (⭐43k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
+*   [Metabase (⭐44k)](https://github.com/metabase/metabase) - An open source solution to explore and visualize data and supports lots of databases.
 
 ### Competitive Analysis / Cloud providers
 
@@ -745,7 +747,7 @@
 
 ### Payments / Bank Accounts
 
-*   [Swift Codes Repository (⭐193)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐194)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 ## [Feb 17, 2020](/content/2020/02/17/README.md)
 
@@ -753,7 +755,7 @@
 
 *   [Practical Business Python](https://pbpython.com) - A blog collecting and spreading ideas on how to use Python more effectively in the business setting.
 *   [`redash`](https://github.com/getredash/redash) - Connect and query your data sources, build dashboards to visualize data and share them with your company.
-*   [Apache Superset (⭐67k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
+*   [Apache Superset (⭐68k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
 
 ## [Feb 08, 2020](/content/2020/02/08/README.md)
 
@@ -816,7 +818,7 @@
 ### Invoice / Generators
 
 *   [Manta (⭐5.3k)](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
-*   [InvoicePlane (⭐2.7k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
+*   [InvoicePlane (⭐2.9k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
 
 ### Payments / Electronic invoices
 

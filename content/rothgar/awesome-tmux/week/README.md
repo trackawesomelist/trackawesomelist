@@ -2,45 +2,102 @@
 
 A list of awesome resources for tmux
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rothgar/awesome-tmux/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) · ⭐ 8.6K · 🏷️ Development Environment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rothgar/awesome-tmux/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) · ⭐ 9.1K · 🏷️ Development Environment
 
 [ [Daily](/content/rothgar/awesome-tmux/README.md) / Weekly / [Overview](/content/rothgar/awesome-tmux/readme/README.md) ]
+
+## [Nov 24 - Nov 30, 2025](/content/2025/47/README.md)
+
+### Plugins
+
+*   [tmux-compile (⭐10)](https://github.com/alexekdahl/tmux-compile) Run compile commands directly inside tmux with automatic pane handling.
+
+## [Oct 27 - Nov 02, 2025](/content/2025/43/README.md)
+
+### Tutorials
+
+*   [Tmux and Vim together](https://smartbear.com/blog/tmux-and-vim/)
+
+### Status Bar
+
+*   [tmux-cpu-rs (⭐3)](https://github.com/playbahn/tmux-cpu-rs/) Blazingly fast, small Rust tool to display CPU usage with **caching** for efficiency and optional eye-candy.
+
+### Plugins
+
+*   [tmux-port (⭐2)](https://github.com/fiqryq/port) A tiny tmux plugin to view listening ports and kill processes — in a centered popup or split panes.
+
+## [Oct 06 - Oct 12, 2025](/content/2025/40/README.md)
+
+### Themes
+
+*   [tmux-oasis (⭐11)](https://github.com/uhs-robert/tmux-oasis): Desert theme pack with 12 variants for every color of the rainbow and a dynamic statusline for all tmux modes.
+
+## [Sep 22 - Sep 28, 2025](/content/2025/38/README.md)
+
+### Status Bar
+
+*   [tmux-code-time (⭐4)](https://github.com/theo64oliver/tmux-code-time) - Tracks time spent in sessions. Displays session duration in your status bar.
+
+### Plugins
+
+*   [tmux-grimoire (⭐99)](https://github.com/navahas/tmux-grimoire) - Customizable popup shells (aka shpells) driven by custom scripts.
+
+## [Aug 25 - Aug 31, 2025](/content/2025/34/README.md)
+
+### Themes
+
+*   [gruvbox-tmux](https://gitlab.com/motaz-shokry/gruvbox-tmux): A clean Tmux theme that follows the [gruvbox (⭐15k)](https://github.com/morhetz/gruvbox) colors
+
+### Status Bar
+
+*   [tmux-powerline-nostatus](https://gist.github.com/james1236/73bb8b7279dca0bc821518abada38f1e) Display your tmux window list directly in your terminal prompt, eliminating the tmux status bar.
+
+### Plugins
+
+*   [tmux-pane-focus (⭐17)](https://github.com/graemedavidson/tmux-pane-focus) Auto-Resizing splits to improve readability.
+
+## [Aug 18 - Aug 24, 2025](/content/2025/33/README.md)
+
+### Plugins
+
+*   [tmux-devcontainers (⭐7)](https://github.com/phil/tmux-devcontainers) - Manage and interact with (Devcontainers)\[<https://containers.dev>]
+*   [tmux-toggle-scratch (⭐2)](https://github.com/momo-lab/tmux-toggle-scratch) Toggle scratch popup sessions for quick note-taking and temporary work.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Tools and session management
 
-*   [tmux-cookie-cutter (⭐6)](https://github.com/AranBorkum/tmux-cookie-cutter) A YAML based session builder, configuring windows, panes and environments automatically
-*   [tmux-tpad (⭐11)](https://github.com/Subbeh/tmux-tpad) A popup window session manager.
+*   [tmux-cookie-cutter (⭐15)](https://github.com/AranBorkum/tmux-cookie-cutter) A YAML based session builder, configuring windows, panes and environments automatically
+*   [tmux-tpad (⭐18)](https://github.com/Subbeh/tmux-tpad) A popup window session manager.
 
 ### Plugins
 
-*   [back-in-5 (⭐0)](https://github.com/hamolicious/back-in-5) display a "Back soon" message for remote collaboration
+*   [back-in-5 (⭐1)](https://github.com/hamolicious/back-in-5) display a "Back soon" message for remote collaboration
 
 ## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
 
 ### Configuration
 
-*   [mooks (⭐3)](https://github.com/TomhetArkitektur/mooks) A minimal tmux configuration framework designed for well-structured modular setups
+*   [mooks (⭐9)](https://github.com/TomhetArkitektur/mooks) A minimal tmux configuration framework designed for well-structured modular setups
 
 ## [May 05 - May 11, 2025](/content/2025/18/README.md)
 
-### Tools and session management
+### Miscellaneous / Development and testing
 
-*   [tmuxai (⭐933)](https://github.com/alvinunreal/tmuxai) AI-Powered, non-intrusive terminal assistant based on tmux
+*   [tmuxai (⭐1.3k)](https://github.com/alvinunreal/tmuxai) AI-Powered, Non-Intrusive Terminal Assistant
 
 ## [Mar 17 - Mar 23, 2025](/content/2025/11/README.md)
 
 ### Status Bar
 
-*   [tmux-current-pane-hostname (⭐2)](https://github.com/tony-sol/tmux-current-pane-hostname) Show current user and hostname in ssh sessions
-*   [tmux-kubectx (⭐4)](https://github.com/tony-sol/tmux-kubectx) Show kubernetes context in statusbar
+*   [tmux-current-pane-hostname (⭐5)](https://github.com/tony-sol/tmux-current-pane-hostname) Show current user and hostname in ssh sessions
+*   [tmux-kubectx (⭐6)](https://github.com/tony-sol/tmux-kubectx) Show kubernetes context in statusbar
 
 ## [Feb 10 - Feb 16, 2025](/content/2025/6/README.md)
 
 ### Tools and session management
 
-*   [mynav (⭐165)](https://github.com/GianlucaP106/mynav) Workspace and session management TUI built on tmux
+*   [mynav (⭐203)](https://github.com/GianlucaP106/mynav) Workspace and session management TUI built on tmux
 
 ## [Jan 13 - Jan 19, 2025](/content/2025/2/README.md)
 
@@ -50,42 +107,42 @@ A list of awesome resources for tmux
 
 ### Plugins
 
-*   [tmux-click-copy (⭐4)](https://github.com/aless3/tmux-click-copy) word/line copy on double/triple click without fixed timeout and without remaining stuck in copy mode
-*   [tmux-fzf-open-files-nvim (⭐8)](https://github.com/Peter-McKinney/tmux-fzf-open-files-nvim) - A plugin that parses pane text for files for selection in fzf to open in neovim.
+*   [tmux-click-copy (⭐5)](https://github.com/aless3/tmux-click-copy) word/line copy on double/triple click without fixed timeout and without remaining stuck in copy mode
+*   [tmux-fzf-open-files-nvim (⭐10)](https://github.com/Peter-McKinney/tmux-fzf-open-files-nvim) - A plugin that parses pane text for files for selection in fzf to open in neovim.
 
 ## [Jan 06 - Jan 12, 2025](/content/2025/1/README.md)
 
 ### Plugins
 
-*   [tmux-floating-plugin (⭐6)](https://github.com/lloydbond/tmux-floating-terminal) - A popup floating terminal window in tmux.
+*   [tmux-floating-plugin (⭐12)](https://github.com/lloydbond/tmux-floating-terminal) - A popup floating terminal window in tmux.
 
 ## [Nov 18 - Nov 24, 2024](/content/2024/47/README.md)
 
 ### Plugins
 
-*   [tmux-command-palette (⭐11)](https://github.com/lost-melody/tmux-command-palette) Search for keybindings and custom commands with fzf.
+*   [tmux-command-palette (⭐20)](https://github.com/lost-melody/tmux-command-palette) Search for keybindings and custom commands with fzf.
 
 ## [Nov 11 - Nov 17, 2024](/content/2024/46/README.md)
 
 ### Plugins
 
-*   [tmux-easymotion (⭐34)](https://github.com/ddzero2c/tmux-easymotion) EasyMotion-like plugin with pane jumping capabilities in tmux.
+*   [tmux-easymotion (⭐37)](https://github.com/ddzero2c/tmux-easymotion) EasyMotion-like plugin with pane jumping capabilities in tmux.
 
 ### Plugins / Development and testing
 
-*   [gotmux (⭐32)](https://github.com/GianlucaP106/gotmux) A golang library to interact with tmux.
+*   [gotmux (⭐39)](https://github.com/GianlucaP106/gotmux) A golang library to interact with tmux.
 
 ## [Oct 21 - Oct 27, 2024](/content/2024/43/README.md)
 
 ### Status Bar
 
-*   [tmux-workspace-usage (⭐2)](https://github.com/sjdonado/tmux-workspace-usage) Displays the memory and CPU usage of your workspace processes.
+*   [tmux-workspace-usage (⭐3)](https://github.com/sjdonado/tmux-workspace-usage) Displays the memory and CPU usage of your workspace processes.
 
 ## [Oct 14 - Oct 20, 2024](/content/2024/42/README.md)
 
 ### Tools and session management
 
-*   [tmux-tea (⭐57)](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
+*   [tmux-tea (⭐67)](https://github.com/2KAbhishek/tmux-tea) Session manager with previews, integrations with tmuxinator, fzf, neovim and more.
 
 ## [Oct 07 - Oct 13, 2024](/content/2024/41/README.md)
 
@@ -97,7 +154,7 @@ A list of awesome resources for tmux
 
 ### Tools and session management
 
-*   [harpoon (⭐52)](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
+*   [harpoon (⭐65)](https://github.com/Chaitanyabsprip/tmux-harpoon) A tool to bookmark sessions and jump between them in a flash. Like ThePrimeagen/harpoon, but for tmux.
 
 ### Status Bar
 
@@ -117,19 +174,19 @@ A list of awesome resources for tmux
 
 ### Configuration
 
-*   [tmux-keybtest (⭐3)](https://github.com/jaclu/tmux-keybtest) Check what keys tmux can detect from the terminal being used.
+*   [tmux-keybtest (⭐5)](https://github.com/jaclu/tmux-keybtest) Check what keys tmux can detect from the terminal being used.
 
 ## [May 27 - Jun 02, 2024](/content/2024/22/README.md)
 
 ### Tools and session management
 
-*   [sesh (⭐1.1k)](https://github.com/joshmedeski/sesh) Smart session manager for the terminal
+*   [sesh (⭐1.4k)](https://github.com/joshmedeski/sesh) Smart session manager for the terminal
 
 ## [May 13 - May 19, 2024](/content/2024/20/README.md)
 
 ### Tools and session management
 
-*   [tome (⭐106)](https://github.com/laktak/tome) 🔁 Playbooks for tmux & vim, replacing your shell history
+*   [tome (⭐137)](https://github.com/laktak/tome) 🔁 Playbooks for tmux & vim, replacing your shell history
 
 ## [Mar 11 - Mar 17, 2024](/content/2024/11/README.md)
 
@@ -141,23 +198,23 @@ A list of awesome resources for tmux
 
 ### Themes
 
-*   [rose-pine (⭐211)](https://github.com/rose-pine/tmux) - Soho vibes for tmux
-*   [tmux-kanagawa (⭐104)](https://github.com/Nybkox/tmux-kanagawa): Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+*   [rose-pine (⭐224)](https://github.com/rose-pine/tmux) - Soho vibes for tmux
+*   [tmux-kanagawa (⭐115)](https://github.com/Nybkox/tmux-kanagawa): Dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
 ## [Dec 25 - Dec 31, 2023](/content/2023/52/README.md)
 
 ### Tools and session management
 
-*   [sessionx (⭐977)](https://github.com/omerxx/tmux-sessionx) A Tmux session manager, with preview, fuzzy finding, and MORE
+*   [sessionx (⭐1.1k)](https://github.com/omerxx/tmux-sessionx) A Tmux session manager, with preview, fuzzy finding, and MORE
 
 ### Status Bar
 
-*   [tmux2k (⭐276)](https://github.com/2KAbhishek/tmux2k) Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
+*   [tmux2k (⭐333)](https://github.com/2KAbhishek/tmux2k) Highly customizable tmux status bar framework, providing you with a sleek and informative status bar.
 
 ### Plugins
 
-*   [tmux-filter (⭐5)](https://github.com/MaximilianGaedig/tmux-filter) Filter the current buffer by some text/pattern, very useful for viewing logs.
-*   [tmux-tilit (⭐48)](https://github.com/2KAbhishek/tmux-tilit) Brings tiling window manager features and intuitive keybindings to your tmux workflow.
+*   [tmux-filter (⭐6)](https://github.com/MaximilianGaedig/tmux-filter) Filter the current buffer by some text/pattern, very useful for viewing logs.
+*   [tmux-tilit (⭐64)](https://github.com/2KAbhishek/tmux-tilit) Brings tiling window manager features and intuitive keybindings to your tmux workflow.
 
 ## [Oct 30 - Nov 05, 2023](/content/2023/44/README.md)
 
@@ -175,7 +232,7 @@ A list of awesome resources for tmux
 
 ### Themes
 
-*   [minimal-tmux-status (⭐200)](https://github.com/niksingh710/minimal-tmux-status/): Minimal theme with only required information in status bar and prefix indicator. (changes only status bar)
+*   [minimal-tmux-status (⭐238)](https://github.com/niksingh710/minimal-tmux-status/): Minimal theme with only required information in status bar and prefix indicator. (changes only status bar)
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
@@ -191,7 +248,7 @@ A list of awesome resources for tmux
 
 ### Themes
 
-*   [tmux-snazzy (⭐18)](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
+*   [tmux-snazzy (⭐20)](https://github.com/ivnvxd/tmux-snazzy) Elegant tmux theme with bright colors
 
 ### Plugins
 
@@ -207,15 +264,15 @@ A list of awesome resources for tmux
 
 ### Plugins
 
-*   [tmux-notify (⭐193)](https://github.com/rickstaa/tmux-notify) A plugin to notify you when processes are finished.
+*   [tmux-notify (⭐212)](https://github.com/rickstaa/tmux-notify) A plugin to notify you when processes are finished.
 
 ## [May 15 - May 21, 2023](/content/2023/20/README.md)
 
 ### Themes
 
-*   [catppuccin (⭐2.4k)](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux.
-*   [tmux-dark-notify (⭐67)](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
-*   [tmux-tokyo-night (⭐237)](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
+*   [catppuccin (⭐2.6k)](https://github.com/catppuccin/tmux) Catppuccin `Latte`, `Frappe`, `Macchiato`, and `Mocha` themes for tmux.
+*   [tmux-dark-notify (⭐79)](https://github.com/erikw/tmux-dark-notify) - Make tmux's theme follow macOS dark/light mode.
+*   [tmux-tokyo-night (⭐260)](https://github.com/fabioluciano/tmux-tokyo-night) A vim inspired tokyo night theme
 
 ### Plugins
 
@@ -231,78 +288,78 @@ A list of awesome resources for tmux
 
 ### Status Bar
 
-*   [tmux-transient-status (⭐20)](https://github.com/TheSast/tmux-transient-status) Automatically make your tmux status bar vanish when unneded.
+*   [tmux-transient-status (⭐21)](https://github.com/TheSast/tmux-transient-status) Automatically make your tmux status bar vanish when unneded.
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 
 ### Tools and session management
 
-*   [disconnected (⭐17)](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
+*   [disconnected (⭐19)](https://github.com/austinwilcox/disconnected) A session manager written in Deno with json as the config files
 
 ## [Apr 17 - Apr 23, 2023](/content/2023/16/README.md)
 
 ### Tools and session management
 
-*   [twm (⭐41)](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
+*   [twm (⭐50)](https://github.com/vinnymeller/twm) A highly configurable workspace manager that is easy to extend with shell scripts, written in Rust
 
 ## [Feb 27 - Mar 05, 2023](/content/2023/9/README.md)
 
 ### Tools and session management
 
-*   [t (⭐343)](https://github.com/joshmedeski/t-smart-tmux-session-manager) The smart tmux session manager
+*   [t (⭐346)](https://github.com/joshmedeski/t-smart-tmux-session-manager) The smart tmux session manager
 
 ### Status Bar
 
-*   [tmux-nerd-font-window-name (⭐177)](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
+*   [tmux-nerd-font-window-name (⭐187)](https://github.com/joshmedeski/tmux-nerd-font-window-name) Nerd Font icons for your tmux windows
 
 ## [Jan 02 - Jan 08, 2023](/content/2023/1/README.md)
 
 ### Plugins
 
-*   [tmux-open-nvim (⭐58)](https://github.com/trevarj/tmux-open-nvim) - A plugin to help open files in a running instance of Neovim. Pairs well with tmux-fingers or tmux-open.
+*   [tmux-open-nvim (⭐65)](https://github.com/trevarj/tmux-open-nvim) - A plugin to help open files in a running instance of Neovim. Pairs well with tmux-fingers or tmux-open.
 
 ## [Dec 26 - Jan 01, 2022](/content/2022/52/README.md)
 
 ### Themes
 
-*   [tokyo-night-tmux (⭐456)](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
+*   [tokyo-night-tmux (⭐500)](https://github.com/janoamaral/tokyo-night-tmux) tokyo-night theme for tmux
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### Status Bar
 
-*   [tmux-ludanta (⭐2)](https://github.com/vascomfnunes/tmux-ludanta) - What's playing
+*   [tmux-ludanta (⭐4)](https://github.com/vascomfnunes/tmux-ludanta) - What's playing
     on an MPD local server.
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
 ### Tools and session management
 
-*   [tmux-conf (⭐3)](https://github.com/jaclu/tmux-conf) Meant for users running tmux on multiple hosts, not always running the same version. Generates tmux config files using version checks
+*   [tmux-conf (⭐4)](https://github.com/jaclu/tmux-conf) Meant for users running tmux on multiple hosts, not always running the same version. Generates tmux config files using version checks
 
 ## [Oct 31 - Nov 06, 2022](/content/2022/44/README.md)
 
 ### Plugins
 
-*   [tmux-fzf-session-switch (⭐74)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
+*   [tmux-fzf-session-switch (⭐80)](https://github.com/thuanOwa/tmux-fzf-session-switch) Easy way to switch, when you have a ton of sessions.
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
 ### Tools and session management
 
-*   [tmux-powerline (⭐3.6k)](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
+*   [tmux-powerline (⭐3.7k)](https://github.com/erikw/tmux-powerline) A hackable statusbar for tmux consisting of dynamic & beautiful looking segments, inspired by vim-powerline, written purely in bash.
 
 ## [Sep 26 - Oct 02, 2022](/content/2022/39/README.md)
 
 ### Plugins
 
-*   [tmux-session-wizard (⭐227)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐71k)](https://github.com/junegunn/fzf) & [zoxide (⭐27k)](https://github.com/ajeetdsouza/zoxide).
+*   [tmux-session-wizard (⭐240)](https://github.com/27medkamal/tmux-session-wizard) One prefix to control all your session creation, naming, switching, etc using [fzf (⭐75k)](https://github.com/junegunn/fzf) & [zoxide (⭐31k)](https://github.com/ajeetdsouza/zoxide).
 
 ## [May 23 - May 29, 2022](/content/2022/21/README.md)
 
 ### Status Bar
 
-*   [tmux-plugin-playerctl (⭐13)](https://github.com/richin13/tmux-plugin-playerctl) Display [MPRIS](https://www.freedesktop.org/wiki/Specifications/mpris-spec/) metadata in Tmux (Spotify, Clementine, VLC, etc)
+*   [tmux-plugin-playerctl (⭐14)](https://github.com/richin13/tmux-plugin-playerctl) Display [MPRIS](https://www.freedesktop.org/wiki/Specifications/mpris-spec/) metadata in Tmux (Spotify, Clementine, VLC, etc)
 
 ## [May 02 - May 08, 2022](/content/2022/18/README.md)
 
@@ -314,163 +371,162 @@ A list of awesome resources for tmux
 
 ### Plugins
 
-*   [tmux-menus (⭐389)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
+*   [tmux-menus (⭐429)](https://github.com/jaclu/tmux-menus) - Popup menus to help with managing your environment.
 
 ## [Mar 21 - Mar 27, 2022](/content/2022/12/README.md)
 
 ### Status Bar
 
-*   [tmux-packet-loss (⭐12)](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level
+*   [tmux-packet-loss (⭐13)](https://github.com/jaclu/tmux-packet-loss) - Displays packet loss % if at or above the specified threshold level
 
 ## [Feb 21 - Feb 27, 2022](/content/2022/8/README.md)
 
 ### Status Bar
 
-*   [tmux-window-name (⭐244)](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
+*   [tmux-window-name (⭐258)](https://github.com/ofirgall/tmux-window-name) Names your tmux windows smartly.
 
 ## [Feb 14 - Feb 20, 2022](/content/2022/7/README.md)
 
 ### Plugins
 
-*   [tmux-browser (⭐114)](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
+*   [tmux-browser (⭐126)](https://github.com/ofirgall/tmux-browser) Web browser sessions attached to tmux sessions.
 
 ## [Feb 07 - Feb 13, 2022](/content/2022/6/README.md)
 
 ### Status Bar
 
-*   [tmux-clima (⭐17)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
-*   [tmux-cpu (⭐481)](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
-*   [tmux-df (⭐39)](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
-*   [tmux-kripto (⭐5)](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
+*   [tmux-clima (⭐19)](https://github.com/vascomfnunes/tmux-clima) Displays the current temperature and weather condition using the OpenWeather API.
+*   [tmux-cpu (⭐498)](https://github.com/tmux-plugins/tmux-cpu) Show CPU load with easy icons
+*   [tmux-df (⭐43)](https://github.com/tassaron/tmux-df) - Show available disk space (output of df command)
+*   [tmux-kripto (⭐6)](https://github.com/vascomfnunes/tmux-kripto) Add a cryptocurrency stock price to the statusbar.
 
 ### Plugins
 
-*   [tmux-modal (⭐199)](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
+*   [tmux-modal (⭐208)](https://github.com/whame/tmux-modal) - Execute complex tmux commands in just a few keystrokes with a modal mode that is designed to be efficient, easy to remember and comfortable.
 
 ## [Jan 31 - Feb 06, 2022](/content/2022/5/README.md)
 
 ### Plugins
 
-*   [tmux-power-zoom (⭐52)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
+*   [tmux-power-zoom (⭐59)](https://github.com/jaclu/tmux-power-zoom) Zoom pane to separate window, then unzoom it back into it's original location.
 
 ## [Jan 03 - Jan 09, 2022](/content/2022/1/README.md)
 
 ### Status Bar
 
-*   [tmux-mullvad (⭐9)](https://github.com/jaclu/tmux-mullvad) - Keep track of [Mullvad VPN](https://mullvad.net/) status.
+*   [tmux-mullvad (⭐12)](https://github.com/jaclu/tmux-mullvad) - Keep track of [Mullvad VPN](https://mullvad.net/) status.
 
 ### Plugins
 
-*   [tmux-mouse-swipe (⭐15)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
+*   [tmux-mouse-swipe (⭐18)](https://github.com/jaclu/tmux-mouse-swipe) - Switch Window or Session by clicking right mouse button and swiping.
 
 ## [Dec 06 - Dec 12, 2021](/content/2021/49/README.md)
 
 ### Themes
 
-*   [tmux-gruvbox (⭐607)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
+*   [tmux-gruvbox (⭐642)](https://github.com/egel/tmux-gruvbox) Light and dark tmux theme
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
 
 ### Plugins
 
-*   [tmux-super-fingers (⭐94)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
+*   [tmux-super-fingers (⭐97)](https://github.com/artemave/tmux_super_fingers) like fingers, but also opens files in vim.
 
 ## [Nov 15 - Nov 21, 2021](/content/2021/46/README.md)
 
 ### Status Bar
 
-*   [tmux-pomodoro-plus (⭐389)](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
+*   [tmux-pomodoro-plus (⭐421)](https://github.com/olimorris/tmux-pomodoro-plus) Incorporate the Pomodoro technique into your tmux workflow
 
 ## [Oct 04 - Oct 10, 2021](/content/2021/40/README.md)
 
 ### Miscellaneous / Development and testing
 
-*   [sixel-tmux (⭐490)](https://github.com/csdvrx/sixel-tmux) a fork of tmux, with just one goal: having the most reliable support of graphics
+*   [sixel-tmux (⭐500)](https://github.com/csdvrx/sixel-tmux) a fork of tmux, with just one goal: having the most reliable support of graphics
 
 ## [Sep 13 - Sep 19, 2021](/content/2021/37/README.md)
 
 ### Tools and session management
 
-*   [automux (⭐10)](https://github.com/sriramkandukuri/automux) Wrappers to tmux commands, useful for tmux based automation
+*   [automux (⭐12)](https://github.com/sriramkandukuri/automux) Wrappers to tmux commands, useful for tmux based automation
 
 ### Plugins
 
-*   [tmux-autoreload (⭐99)](https://github.com/b0o/tmux-autoreload) - Watches your tmux configuration file and automatically reloads it on change.
+*   [tmux-autoreload (⭐115)](https://github.com/b0o/tmux-autoreload) - Watches your tmux configuration file and automatically reloads it on change.
 
 ## [Aug 09 - Aug 15, 2021](/content/2021/32/README.md)
 
 ### Tools and session management
 
-*   [tmex (⭐111)](https://github.com/evnp/tmex) A minimalist tmux layout manager
+*   [tmex (⭐116)](https://github.com/evnp/tmex) A minimalist tmux layout manager
 *   [tmuxake (⭐11)](https://github.com/nkh/tmuxake) A side-pane manager for tmux
 
 ### Plugins
 
-*   [muxile (⭐133)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
+*   [muxile (⭐146)](https://github.com/bjesus/muxile) - View and control your tmux session from your mobile.
 
 ## [Jul 26 - Aug 01, 2021](/content/2021/30/README.md)
 
 ### Plugins
 
-*   [tmux-fuzzback (⭐156)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
+*   [tmux-fuzzback (⭐165)](https://github.com/roosta/tmux-fuzzback) Search your scrollback buffer using fzf.
 
 ## [Jul 19 - Jul 25, 2021](/content/2021/29/README.md)
 
 ### Themes
 
-*   [tmux-nova (⭐195)](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
+*   [tmux-nova (⭐197)](https://github.com/o0th/tmux-nova) Fully customizable tmux theme
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 
 ### Tools and session management
 
-*   [tmux-suspend (⭐143)](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
+*   [tmux-suspend (⭐150)](https://github.com/MunifTanjim/tmux-suspend) Suspend local session for painlessly working with nested remote session.
 
 ### Status Bar
 
-*   [tmux-mode-indicator (⭐172)](https://github.com/MunifTanjim/tmux-mode-indicator) Displays prompt indicating currently active Tmux mode.
+*   [tmux-mode-indicator (⭐184)](https://github.com/MunifTanjim/tmux-mode-indicator) Displays prompt indicating currently active Tmux mode.
 
 ## [Apr 05 - Apr 11, 2021](/content/2021/14/README.md)
 
 ### Status Bar
 
-*   [aws-tmux (⭐31)](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
+*   [aws-tmux (⭐34)](https://github.com/darko-mesaros/aws-tmux) Tmux plugin that gives you access to some (potentially) useful information about AWS.
 
 ### Plugins
 
-*   [tmux-wormhole (⭐109)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
+*   [tmux-wormhole (⭐115)](https://github.com/gcla/tmux-wormhole) Use tmux to download files with magic wormhole
 
 ## [Mar 29 - Apr 04, 2021](/content/2021/13/README.md)
 
 ### Status Bar
 
 *   [tmux-mpv-info (⭐5)](https://github.com/Feqzz/tmux-mpv-info) Displays the current song playing with MPV in your tmux status bar.
-*   [tmux-spotify-info (⭐79)](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
-*   [tmux-spotify-info (⭐13)](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
-*   [tmux-weather-info-yr (⭐1)](https://github.com/Feqzz/tmux-weather-info-yr) Displays the current temperature and weather based on your location via yr.no
+*   [tmux-spotify-info (⭐78)](https://github.com/jdxcode/tmux-spotify-info) Spotify track info on your status bar (OSX)
+*   [tmux-spotify-info (⭐14)](https://github.com/Feqzz/tmux-spotify-info) Spotify track info on your status bar (Linux)
+*   [tmux-weather-info-yr (⭐2)](https://github.com/Feqzz/tmux-weather-info-yr) Displays the current temperature and weather based on your location via yr.no
 
 ## [Mar 22 - Mar 28, 2021](/content/2021/12/README.md)
 
 ### Status Bar
 
-*   [tmux-world-clock (⭐33)](https://github.com/alexanderjeurissen/tmux-world-clock) Show multiple timezones using Olson tz database.
+*   [tmux-world-clock (⭐35)](https://github.com/alexanderjeurissen/tmux-world-clock) Show multiple timezones using Olson tz database.
 
 ### Plugins
 
-*   [tmux-copytk (⭐63)](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
+*   [tmux-copytk (⭐65)](https://github.com/CrispyConductor/tmux-copy-toolkit) - Multi utility rapid copy toolkit.
 
 ## [Jan 25 - Jan 31, 2021](/content/2021/4/README.md)
 
 ### Status Bar
 
-*   [tmux-piavpn (⭐8)](https://github.com/Brutuski/tmux-piavpn) Keep track of your [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
+*   [tmux-piavpn (⭐10)](https://github.com/Brutuski/tmux-piavpn) Keep track of your [Private Internet Access](https://www.privateinternetaccess.com/) VPN status.
 
 ## [Jan 18 - Jan 24, 2021](/content/2021/3/README.md)
 
 ### Tutorials
 
 *   [Tmux crash course](https://thoughtbot.com/blog/a-tmux-crash-course)
-*   [Tmux and Vim together](https://www.bugsnag.com/blog/tmux-and-vim)
 
 ### Configuration
 
@@ -491,19 +547,19 @@ A list of awesome resources for tmux
 
 ### Plugins
 
-*   [tmux-easy-motion (⭐84)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
+*   [tmux-easy-motion (⭐95)](https://github.com/IngoMeyer441/tmux-easy-motion) vim-easymotion like navigation for tmux.
 
 ## [Dec 28 - Jan 03, 2020](/content/2020/52/README.md)
 
 ### Tools and session management
 
-*   [smug (⭐761)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
+*   [smug (⭐786)](https://github.com/ivaaaan/smug) A session manager for tmux written in Go
 
 ## [Nov 30 - Dec 06, 2020](/content/2020/48/README.md)
 
 ### Themes
 
-*   [dracula/tmux (⭐744)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
+*   [dracula/tmux (⭐775)](https://github.com/dracula/tmux) 🧛🏻‍♂️ The official [dracula theme](https://draculatheme.com/) for tmux
 
 ## [Nov 23 - Nov 29, 2020](/content/2020/47/README.md)
 
@@ -515,51 +571,51 @@ A list of awesome resources for tmux
 
 ### Tools and session management
 
-*   [vim-tmux-navigator (⭐5.8k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
+*   [vim-tmux-navigator (⭐6k)](https://github.com/christoomey/vim-tmux-navigator) Vim and tmux integration
 
 ## [Jul 13 - Jul 19, 2020](/content/2020/28/README.md)
 
 ### Themes
 
-*   [nord tmux (⭐1.1k)](https://github.com/arcticicestudio/nord-tmux) An arctic, north-bluish clean and elegant tmux color theme.
+*   [nord tmux (⭐1.2k)](https://github.com/arcticicestudio/nord-tmux) An arctic, north-bluish clean and elegant tmux color theme.
 
 ## [Jun 29 - Jul 05, 2020](/content/2020/26/README.md)
 
 ### Tools and session management
 
-*   [dmux (⭐340)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
+*   [dmux (⭐347)](https://github.com/zdcthomas/dmux) Configurable tmux workspace manager written in Rust
 
 ## [Jun 15 - Jun 21, 2020](/content/2020/24/README.md)
 
 ### Themes
 
-*   [tmux-power (⭐620)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
+*   [tmux-power (⭐638)](https://github.com/wfxr/tmux-power) 8 powerline style themes for tmux, easily to expand.
 
 ### Plugins
 
-*   [tmux-fzf-url (⭐595)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
+*   [tmux-fzf-url (⭐630)](https://github.com/wfxr/tmux-fzf-url) For opening urls from browser quickly without mouse.
 
 ## [May 25 - May 31, 2020](/content/2020/21/README.md)
 
 ### Status Bar
 
-*   [tmux-colortag (⭐99)](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
+*   [tmux-colortag (⭐100)](https://github.com/Determinant/tmux-colortag) a plugin/theme that colors the tmux window tags.
 
 ## [Apr 27 - May 03, 2020](/content/2020/17/README.md)
 
 ### Plugins
 
-*   [tmux-tilish (⭐459)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
+*   [tmux-tilish (⭐468)](https://github.com/jabirali/tmux-tilish) Turn tmux into a dynamic window manager with intuitive keybindings (inspired by i3wm/sway)
 
 ## [Apr 20 - Apr 26, 2020](/content/2020/16/README.md)
 
 ### Configuration
 
-*   [Oh My Tmux! (⭐23k)](https://github.com/gpakosz/.tmux) Powerline-like theme, vim bindings, SSH aware, improved maximize pane, ...
+*   [Oh My Tmux! (⭐24k)](https://github.com/gpakosz/.tmux) Powerline-like theme, vim bindings, SSH aware, improved maximize pane, ...
 
 ### Tools and session management
 
-*   [tmux-cssh (⭐92)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
+*   [tmux-cssh (⭐95)](https://github.com/zinic/tmux-cssh) Tmux with a "ClusterSSH"-like behavior
 
 ### Status Bar
 
@@ -569,23 +625,23 @@ A list of awesome resources for tmux
 
 ### Plugins
 
-*   [tmux-thumbs (⭐963)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
+*   [tmux-thumbs (⭐997)](https://github.com/fcsonline/tmux-thumbs) A lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator
 
 ## [Feb 24 - Mar 01, 2020](/content/2020/8/README.md)
 
 ### Plugins
 
-*   [tmux-jump (⭐404)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
+*   [tmux-jump (⭐417)](https://github.com/schasse/tmux-jump) Vimium/Easymotion like navigation for tmux.
 
 ## [Jan 13 - Jan 19, 2020](/content/2020/2/README.md)
 
 ### Status Bar
 
-*   [gitmux (⭐670)](https://github.com/arl/gitmux) Show Git status in tmux status bar
+*   [gitmux (⭐732)](https://github.com/arl/gitmux) Show Git status in tmux status bar
 
 ### Plugins
 
-*   [tmux-spotify (⭐116)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
+*   [tmux-spotify (⭐123)](https://github.com/xamut/tmux-spotify) Show a nice menu to manage Spotify application
 
 ## [Dec 09 - Dec 15, 2019](/content/2019/49/README.md)
 
@@ -599,39 +655,39 @@ A list of awesome resources for tmux
 
 *   [tmux-network-bandwidth (⭐82)](https://github.com/xamut/tmux-network-bandwidth) Show
     network bandwidth
-*   [tmux-weather (⭐80)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
+*   [tmux-weather (⭐81)](https://github.com/xamut/tmux-weather) Show current weather using wttr.in
 
 ## [Mar 11 - Mar 17, 2019](/content/2019/10/README.md)
 
 ### Plugins
 
-*   [extrakto (⭐981)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
+*   [extrakto (⭐1k)](https://github.com/laktak/extrakto) tmux clipboard copy and output completions
 
 ## [Feb 18 - Feb 24, 2019](/content/2019/7/README.md)
 
 ### Status Bar
 
-*   [tmux-battery (⭐535)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
-*   [tmux-maildir-counter (⭐33)](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
+*   [tmux-battery (⭐545)](https://github.com/tmux-plugins/tmux-battery) Plug and play battery percentage and icon indicator for Tmux.
+*   [tmux-maildir-counter (⭐34)](https://github.com/tmux-plugins/tmux-maildir-counter) Plugin that counts files on a specific mail directory
 *   [tmux-mem-cpu-load (⭐1.1k)](https://github.com/thewtex/tmux-mem-cpu-load) CPU, RAM memory, and load monitor for use with tmux
-*   [tmux-online-status (⭐177)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
-*   [tmux-prefix-highlight (⭐624)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
+*   [tmux-online-status (⭐180)](https://github.com/tmux-plugins/tmux-online-status) Tmux plugin that displays online status of your computer
+*   [tmux-prefix-highlight (⭐635)](https://github.com/tmux-plugins/tmux-prefix-highlight) Plugin that highlights when you press tmux prefix key
 *   [tmux-weather (⭐34)](https://github.com/jdxcode/tmux-weather) Add weather status via forcast.io
 
 ## [Dec 17 - Dec 23, 2018](/content/2018/51/README.md)
 
 ### Themes
 
-*   [tmux-base16-statusline (⭐28)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐254)](https://github.com/chriskempson/base16-shell)
+*   [tmux-base16-statusline (⭐28)](https://github.com/jatap/tmux-base16-statusline) Statusline based on [base16-shell (⭐262)](https://github.com/chriskempson/base16-shell)
 *   [tmux-colors-solarized (⭐1.1k)](https://github.com/seebi/tmux-colors-solarized) A color theme for the tmux terminal multiplexer using Ethan Schoonover’s Solarized color scheme
 *   [tmux-themepack (⭐1.7k)](https://github.com/jimeh/tmux-themepack) Various themes for tmux
-*   [tomorrow (⭐47)](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme (⭐14k)](https://github.com/chriskempson/tomorrow-theme) (*i.e.* *dark*/*blue* and *light*).
+*   [tomorrow (⭐48)](https://github.com/edouard-lopez/tmux-tomorrow/): 5 flavors of Tomorrow theme based on specifications from [Tomorrow Theme (⭐14k)](https://github.com/chriskempson/tomorrow-theme) (*i.e.* *dark*/*blue* and *light*).
 
 ## [Sep 24 - Sep 30, 2018](/content/2018/39/README.md)
 
 ### Miscellaneous / Development and testing
 
-*   [tmux-tail-f (⭐34)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
+*   [tmux-tail-f (⭐35)](https://github.com/mapio/tmux-tail-f) A tool to tail multiple files using tmux
 
 ## [Sep 10 - Sep 16, 2018](/content/2018/37/README.md)
 
@@ -645,7 +701,7 @@ A list of awesome resources for tmux
 
 ### Miscellaneous / Development and testing
 
-*   [sublime-tmux (⭐9)](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
+*   [sublime-tmux (⭐10)](https://github.com/huntie/sublime-tmux) Sublime Text plugin to interact with tmux sessions
 
 ## [Sep 03 - Sep 09, 2018](/content/2018/36/README.md)
 
@@ -657,19 +713,19 @@ A list of awesome resources for tmux
 
 ### Plugins
 
-*   [tmux-1password (⭐260)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
+*   [tmux-1password (⭐266)](https://github.com/yardnsm/tmux-1password) Access your 1Password login items in a tmux pane.
 
 ## [Jan 16 - Jan 22, 2017](/content/2017/3/README.md)
 
 ### Plugins
 
-*   [tmux-better-mouse-mode (⭐940)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
+*   [tmux-better-mouse-mode (⭐951)](https://github.com/NHDaly/tmux-better-mouse-mode) A tmux plugin to better manage and configure the mouse.
 
 ## [Dec 12 - Dec 18, 2016](/content/2016/50/README.md)
 
 ### Tools and session management
 
-*   [tat (⭐39)](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
+*   [tat (⭐40)](https://github.com/ryandotsmith/tat) Tab completion for tmux sessions
 
 ### Books / Development and testing
 
@@ -679,14 +735,13 @@ A list of awesome resources for tmux
 
 ### Plugins
 
-*   [tmux-fingers (⭐1.1k)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
+*   [tmux-fingers (⭐1.3k)](https://github.com/Morantron/tmux-fingers) copy pasting in terminal with vimium/vimperator like hints.
 
 ## [Apr 04 - Apr 10, 2016](/content/2016/14/README.md)
 
 ### Tutorials
 
 *   [Automatically start tmux on SSH](http://marklodato.github.io/2013/10/31/autostart-tmux-on-ssh.html)
-*   [Tmux primer](https://danielmiessler.com/study/tmux/)
 
 ### Cheat Sheets
 
@@ -696,7 +751,7 @@ A list of awesome resources for tmux
 
 *   [Example tmux config (⭐1.8k)](https://github.com/tony/tmux-config) :green\_book: Example tmux configuration - screen + vim key-bindings, system stat, cpu load bar
 *   [practical tmux](https://mutelight.org/practical-tmux)
-*   [tmux-extra (⭐119)](https://github.com/brandur/tmux-extra) Configuration and scripts for sane Tmux default behavior
+*   [tmux-extra (⭐120)](https://github.com/brandur/tmux-extra) Configuration and scripts for sane Tmux default behavior
 
 ### Tools and session management
 
@@ -706,27 +761,27 @@ A list of awesome resources for tmux
 
 ### Plugins
 
-*   [tmux2html (⭐724)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
+*   [tmux2html (⭐727)](https://github.com/tweekmonster/tmux2html) :cat2: Render full tmux windows or individual panes as HTML
 *   [tmux-plugins](https://github.com/tmux-plugins) Official tmux plugins
-    *   [tmux-continuum (⭐3.6k)](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
-    *   [tmux-copycat (⭐1.1k)](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
-    *   [tmux-fpp (⭐321)](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
-    *   [tmux-logging (⭐1.1k)](https://github.com/tmux-plugins/tmux-logging) Easy logging and screen capturing for Tmux.
-    *   [tmux-open (⭐666)](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
-    *   [tmux-pain-control (⭐794)](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
+    *   [tmux-continuum (⭐3.7k)](https://github.com/tmux-plugins/tmux-continuum) Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+    *   [tmux-copycat (⭐1.2k)](https://github.com/tmux-plugins/tmux-copycat) A plugin that enhances tmux search
+    *   [tmux-fpp (⭐323)](https://github.com/tmux-plugins/tmux-fpp) Quickly open any path on your terminal window in your $EDITOR of choice!
+    *   [tmux-logging (⭐1.2k)](https://github.com/tmux-plugins/tmux-logging) Easy logging and screen capturing for Tmux.
+    *   [tmux-open (⭐693)](https://github.com/tmux-plugins/tmux-open) Tmux key bindings for quick opening of a highlighted file or url
+    *   [tmux-pain-control (⭐816)](https://github.com/tmux-plugins/tmux-pain-control) standard pane key-bindings for tmux
     *   [tmux-resurrect (⭐12k)](https://github.com/tmux-plugins/tmux-resurrect) Persists tmux environment across system restarts.
-    *   [tmux-sessionist (⭐437)](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
-    *   [tmux-sidebar (⭐574)](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
-    *   [tmux-tpm (⭐13k)](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
-    *   [tmux-urlview (⭐281)](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
-    *   [tmux-yank (⭐2.9k)](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
+    *   [tmux-sessionist (⭐447)](https://github.com/tmux-plugins/tmux-sessionist) Lightweight tmux utils for manipulating sessions
+    *   [tmux-sidebar (⭐589)](https://github.com/tmux-plugins/tmux-sidebar) A sidebar with the directory tree for the current path. Tries to make tmux more IDE like.
+    *   [tmux-tpm (⭐14k)](https://github.com/tmux-plugins/tpm) Tmux Plugin Manager
+    *   [tmux-urlview (⭐283)](https://github.com/tmux-plugins/tmux-urlview) Quickly open any url on your terminal window! (No commits since 2016, see tmux-urlscan or tmux-fzf-url for a maintained alternative.)
+    *   [tmux-yank (⭐3k)](https://github.com/tmux-plugins/tmux-yank) Tmux plugin for copying to system clipboard. Works on OSX, Linux and Cygwin.
 
 ### Plugins / Development and testing
 
-*   [tmux-example-plugin (⭐47)](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
+*   [tmux-example-plugin (⭐46)](https://github.com/tmux-plugins/tmux-example-plugin) Example Tmux plugin that actually demonstrates how to build plugins for Tmux
 *   [tmux-test (⭐16)](https://github.com/tmux-plugins/tmux-test) A small framework for isolated testing of tmux plugins.
 
 ### Miscellaneous / Development and testing
 
 *   [Statically linked tmux](https://gist.github.com/rothgar/719ef460efc214c8d222) Install new version without root access
-*   [vim-tmux (⭐336)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf
+*   [vim-tmux (⭐335)](https://github.com/tmux-plugins/vim-tmux) vim plugin for tmux.conf

@@ -2,9 +2,24 @@
 
 Curated list of everything awesome around pixel art.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Siilwyn/awesome-pixel-art/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) · ⭐ 799 · 🏷️ Media
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/Siilwyn/awesome-pixel-art/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) · ⭐ 1.1K · 🏷️ Media
 
 [ [Daily](/content/Siilwyn/awesome-pixel-art/README.md) / Weekly / [Overview](/content/Siilwyn/awesome-pixel-art/readme/README.md) ]
+
+## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
+
+### Inspiration / Games
+
+*   [Undertale](https://undertale.com/) - A story-driven RPG where you explore a world of monsters. Turn-based combat. Retro 16-bit visuals, a rich narrative, and multiple endings based on your choices.
+
+### Community / Hubs
+
+*   [Pixelrepo](https://pixelrepo.com/)
+*   [Lospec](https://lospec.com/)
+
+### Tools / Editors
+
+*   [Pixelrepo](https://pixelrepo.com/editor) - Free and works in the browser. Import files and palettes, save locally. Minimalist, easy to use, and perfect for quick pixel art editing.
 
 ## [Dec 19 - Dec 25, 2022](/content/2022/51/README.md)
 
@@ -112,7 +127,6 @@ Curated list of everything awesome around pixel art.
 ### Community / Hubs
 
 *   [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
-*   [Pixelation](http://pixelation.org/)
 *   [Pixel Joint](http://pixeljoint.com/)
 
 ## [Apr 30 - May 06, 2018](/content/2018/18/README.md)

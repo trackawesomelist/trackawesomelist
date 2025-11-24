@@ -2,9 +2,83 @@
 
 🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xavidop/awesome-firebase-genkit](https://github.com/xavidop/awesome-genkit) · ⭐ 75 · 🏷️ LLM
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xavidop/awesome-firebase-genkit](https://github.com/xavidop/awesome-genkit) · ⭐ 96 · 🏷️ LLM
 
 [ [Daily](/content/xavidop/awesome-firebase-genkit/README.md) / Weekly / [Overview](/content/xavidop/awesome-firebase-genkit/readme/README.md) ]
+
+## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
+
+### Plugins / JavaScript - Official
+
+*   Model / Embedding Plugins
+    *   [`@genkit-ai/vertexai`](https://genkit.dev/docs/plugins/vertex-ai/) - The Vertex AI plugin provides interfaces to several AI services: Google generative AI models, A subset of evaluation metrics through the Vertex AI Rapid Evaluation API, Vector Search.
+    *   [`@genkit-ai/googleai`](https://genkit.dev/docs/plugins/google-genai/) - The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API.
+    *   [`genkitx-ollama`](https://genkit.dev/docs/plugins/ollama/) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
+    *   [`@genkit-ai/compat-oai`](https://genkit.dev/docs/plugins/compat-oai/) - Plugin for Compatible OpenAI APIs.
+    *   [`@genkit-ai/compat-oai/xai`](https://genkit.dev/docs/plugins/xai/) - Plugin for XAI APIs.
+    *   [`@genkit-ai/compat-oai/openai`](https://genkit.dev/docs/plugins/openai/) - Plugin for OpenAI APIs.
+*   Vector Store Plugins
+    *   [`@genkit-ai/dev-local-vectorstore`](https://genkit.dev/docs/rag/) - Plugin for Local Vector Store for development purposes.
+*   Other Plugins
+    *   [`@genkit-ai/firebase`](https://genkit.dev/docs/plugins/firebase/) - Firebase plugin provides several integrations with Firebase services: Indexers and retrievers using Cloud Firestore vector store, Trace storage using Cloud Firestore, Flow deployment using Cloud Functions, Authorization policies for Firebase Authentication users.
+    *   [`@genkit-ai/express`](https://genkit.dev/docs/plugins/express/) - Express plugin provides an Express middleware for Genkit.
+    *   [`@genkit-ai/mcp`](https://genkit.dev/docs/plugins/mcp/) - MCP plugin provides an interface to the MCP (Model Context Procol).
+
+### Plugins / JavaScript - Community
+
+*   Vector Store Plugins
+    *   [`genkitx-convex`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/convex) - Plugin for Convex Vector Stores.
+    *   [`genkitx-hnsw`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/hnsw) - Plugin for HNSW Vector Stores.
+    *   [`genkitx-qdrant`](https://github.com/qdrant/qdrant-genkit) - Plugin for Qdrant Vector Stores.
+    *   [`genkitx-astra-db`](https://genkit.dev/docs/plugins/astra-db/) - Plugin for AstraDB Vector Stores.
+    *   [`genkitx-pgvector`](https://genkit.dev/docs/plugins/pgvector/) - Plugin for PostgeSQL (PGVector) Vector Stores.
+    *   [`genkitx-redis`](https://github.com/retzd-tech/genkitx-redis) - Plugin for Redis Vector Stores.
+    *   [`genkitx-voiceflow`](https://github.com/xavidop/genkitx-voiceflow) - Plugin for Voiceflow KB.
+    *   [`genkitx-lancedb`](https://genkit.dev/docs/plugins/lancedb/) - Plugin for LanceDB Vector Stores.
+    *   [`genkitx-pinecone`](https://genkit.dev/docs/plugins/pinecone/) - Plugin for Pinecone Vector Stores.
+    *   [`genkitx-chromadb`](https://genkit.dev/docs/plugins/chroma/) - Plugin for Chroma Vector Stores.
+    *   [`genkitx-neo4j`](https://genkit.dev/docs/plugins/neo4j/) - Plugin for Neo4j Vector Stores.
+    *   [`genkitx-cloud-sql-pg`](https://genkit.dev/docs/plugins/cloud-sql-pg/) - Plugin for Cloud SQL for PostgreSQL Vector Stores.
+
+### Plugins / Python - Official
+
+*   Model / Embedding Plugins
+    *   [`google-genai`](https://genkit.dev/python/docs/reference/plugins/google-genai/) - The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API & Vertex AI models.
+    *   [`ollama`](https://genkit.dev/python/docs/reference/plugins/ollama/) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
+*   Vector Store Plugins
+    *   [`firestore`](https://genkit.dev/python/docs/reference/plugins/firestore/) - The Firestore plugin provides interfaces to the Firestore vector store.
+    *   [`dev_local_vectorstore`](https://genkit.dev/python/docs/reference/plugins/dev-local-vectorstore/) - Plugin for Local Vector Store for development purposes.
+*   Other Plugins:
+    *   [`flask`](https://genkit.dev/python/docs/flask/) - Flask plugin for building web applications with Genkit.
+
+### Plugins / Golang - Official
+
+*   Model / Embedding Plugins
+    *   [`googlegenai`](https://genkit.dev/go/docs/plugins/google-genai/) - The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API & Vertex AI Models.
+    *   [`ollama`](https://genkit.dev/go/docs/plugins/ollama/) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
+    *   [`compat_oai,compat_oai/openai,compat_oai/anthropic`](https://genkit.dev/go/docs/plugins/openai/) - Plugin for Compatible OpenAI APIs (OpenAI, Anthropic providers).
+*   Vector Store Plugins
+    *   [`pinecone`](https://genkit.dev/go/docs/plugins/pinecone/) - Plugin for Pinecone Vector Stores.
+    *   [`alloydb`](https://genkit.dev/go/docs/plugins/alloydb/) - Plugin for AlloyDB Vector Stores.
+    *   [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
+    *   [`pgvector`](https://genkit.dev/go/docs/plugins/pgvector/) - Plugin for PostgreSQL (PGVector) Vector Stores.
+    *   [`postgresql`](https://genkit.dev/go/docs/plugins/cloud-sql-pg/) - Plugin for Cloud SQL for PostgreSQL Vector Stores.
+*   Monitoring Plugins
+    *   [`googlecloud`](https://genkit.dev/go/docs/plugins/google-cloud/) - The Google Cloud plugin exports Genkit's telemetry and logging data to Google Cloud's operation suite.
+*   Other Plugins:
+    *   [`mcp`](https://genkit.dev/go/docs/plugins/mcp/) - The MCP plugin provides interfaces to the MCP (Managed Context Protocol).
+
+### Plugins / Golang - Community
+
+*   Model / Embedding Plugins
+    *   [`bedrock`](https://pkg.go.dev/github.com/xavidop/genkit-aws-bedrock-go) - Plugin for AWS Bedrock APIs.
+*   Monitoring Plugin:
+    *   [`opentelemetry`](https://github.com/xavidop/genkit-opentelemetry-go) - Plugin for OpenTelemetry to monitor Genkit applications.
+
+### Articles / Dart - Official
+
+*   [Gemini in your Slack workspace using Firebase & Genkit](https://dev.to/denisvalasek/gemini-in-your-slack-workspace-using-firebase-genkit-530c) - Learn how to integrate Gemini using Genkit as a Slackbot.
+*   [Set up RAG with Genkit and Firebase in 15 minutes](https://dev.to/denisvalasek/set-up-rag-with-genkit-and-firebase-in-15-minutes-50b2) - Introduction to RAG, Genkit and using Firebase Firestore as Vector DB.
 
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
@@ -29,23 +103,6 @@
 *   [Genkit vs Agent Development Kit (ADK): Choosing the Right Google‑Backed AI Framework](https://medium.com/@nozomi-koborinai/genkit-vs-agent-development-kit-adk-choosing-the-right-google-backed-ai-framework-1744b73234ac) - A comparison of two Google-backed AI frameworks, helping developers choose the right tool for their needs.
 
 ## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
-
-### Plugins / Python - Official
-
-*   Model / Embedding Plugins
-    *   [`google-genai`](https://python.api.genkit.dev/reference/plugins/google-genai/) - The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API & Vertex AI models.
-    *   [`ollama`](https://python.api.genkit.dev/reference/plugins/ollama/) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
-*   Vector Store Plugins
-    *   [`firestore`](https://python.api.genkit.dev/reference/plugins/firestore/) - The Firestore plugin provides interfaces to the Firestore vector store.
-    *   [`dev_local_vectorstore`](https://python.api.genkit.dev/reference/plugins/dev-local-vectorstore/) - Plugin for Local Vector Store for development purposes.
-*   Other Plugins:
-    *   [`flask`](https://python.api.genkit.dev/flask/) - Flask plugin for building web applications with Genkit.
-
-### Plugins / Golang - Official
-
-*   Model / Embedding Plugins
-    *   [`googlegenai`](https://firebase.google.com/docs/genkit-go/plugins/google-genai) - The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API & Vertex AI Models.
-    *   [`ollama`](https://firebase.google.com/docs/genkit-go/plugins/ollama) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
 
 ### API References / Dart - Official
 
@@ -137,63 +194,25 @@
 
 ## [Sep 09 - Sep 15, 2024](/content/2024/37/README.md)
 
-### Plugins / JavaScript - Official
-
-*   Model / Embedding Plugins
-    *   [`@genkit-ai/vertexai`](https://firebase.google.com/docs/genkit/plugins/vertex-ai) - The Vertex AI plugin provides interfaces to several AI services: Google generative AI models, A subset of evaluation metrics through the Vertex AI Rapid Evaluation API, Vector Search.
-    *   [`@genkit-ai/googleai`](https://firebase.google.com/docs/genkit/plugins/google-genai) - The Google Generative AI plugin provides interfaces to Google's Gemini models through the Gemini API.
-    *   [`genkitx-ollama`](https://firebase.google.com/docs/genkit/plugins/ollama) - The Ollama plugin provides interfaces to any of the local LLMs supported by Ollama.
-*   Vector Store Plugins
-    *   [`genkitx-pinecone`](https://firebase.google.com/docs/genkit/plugins/pinecone) - Plugin for Pinecone Vector Stores.
-    *   [`genkitx-chromadb`](https://firebase.google.com/docs/genkit/plugins/chroma) - Plugin for Chroma Vector Stores.
-    *   [`@genkit-ai/dev-local-vectorstore`](https://firebase.google.com/docs/genkit/rag) - Plugin for Local Vector Store for development purposes.
-*   Monitoring Plugins
-    *   [`@genkit-ai/google-cloud`](https://www.npmjs.com/package/@genkit-ai/google-cloud) - The Google Cloud plugin exports Genkit's telemetry and logging data to Google Cloud's operation suite.
-*   Other Plugins
-    *   [`@genkit-ai/firebase`](https://firebase.google.com/docs/genkit/plugins/firebase) - Firebase plugin provides several integrations with Firebase services: Indexers and retrievers using Cloud Firestore vector store, Trace storage using Cloud Firestore, Flow deployment using Cloud Functions, Authorization policies for Firebase Authentication users.
-    *   [`@genkit-ai/express`](https://www.npmjs.com/package/@genkit-ai/express) - Express plugin provides an Express middleware for Genkit.
-
 ### Plugins / JavaScript - Community
 
 *   Model / Embedding Plugins
     *   [`genkitx-github`](https://github.com/xavidop/genkitx-github) - Plugin for GitHub Models APIs.
-    *   [`genkitx-anthropic`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/anthropic) - Plugin for Anthropic AI APIs.
-    *   [`genkitx-cohere`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/cohere) - Plugin for Cohere APIs.
-    *   [`genkitx-groq`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/groq) - Plugin for Groq APIs.
-    *   [`genkitx-mistral`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/mistral) - Plugin for Mistral AI APIs.
-    *   [`genkitx-openai`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/openai) - Plugin for OpenAI APIs.
-    *   [`genkitx-azure-openai`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/azure-openai) - Plugin for Azure OpenAI APIs.
+    *   [`genkitx-anthropic`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/anthropic) - Plugin for Anthropic AI APIs.
+    *   [`genkitx-cohere`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/cohere) - Plugin for Cohere APIs.
+    *   [`genkitx-groq`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/groq) - Plugin for Groq APIs.
+    *   [`genkitx-mistral`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/mistral) - Plugin for Mistral AI APIs.
+    *   [`genkitx-azure-openai`](https://github.com/BloomLabsInc/genkit-plugins/tree/main/plugins/azure-openai) - Plugin for Azure OpenAI APIs.
     *   [`genkitx-aws-bedrock`](https://github.com/xavidop/genkitx-aws-bedrock) - Plugin for AWS Bedrock APIs.
     *   [`genkitx-deepseek`](https://github.com/oddbit/genkitx-deepseek) - Plugin for Deepseek Cloud APIs.
-    *   [`genkitx-huggingface`](https://github.com/xavidop/genkitx-huggingface) - Plugin for Hugging Face Inference APIs.
-*   Vector Store Plugins
-    *   [`genkitx-convex`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/convex) - Plugin for Convex Vector Stores.
-    *   [`genkitx-hnsw`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/hnsw) - Plugin for HNSW Vector Stores.
-    *   [`genkitx-qdrant`](https://github.com/qdrant/qdrant-genkit) - Plugin for Qdrant Vector Stores.
-    *   [`genkitx-astra-db`](https://www.npmjs.com/package/genkitx-astra-db) - Plugin for AstraDB Vector Stores.
-    *   [`genkitx-pgvector`](https://www.npmjs.com/package/genkitx-pgvector) - Plugin for PostgeSQL (PGVector) Vector Stores.
-    *   [`genkitx-tidb`](https://github.com/BelfoSamad/genkitx-tidb) - Plugin for TiDB Vector Stores.
-    *   [`genkitx-redis`](https://github.com/retzd-tech/genkitx-redis) - Plugin for Redis Vector Stores.
-    *   [`genkitx-voiceflow`](https://github.com/xavidop/genkitx-voiceflow) - Plugin for Voiceflow KB.
+    *   [`genkitx-huggingface`](https://github.com/aciescrest/genkit-huggingface) - Plugin for Hugging Face Inference APIs.
 *   Other Plugins
     *   [`genkitx-graph`](https://github.com/TheFireCo/genkit-plugins/tree/main/plugins/graph) - Plugin for building Graph workflows.
     *   [`@invertase/genkit-plugin-redis`](https://github.com/invertase/genkit-plugin-redis) - A Redis Plugin for Genkit that adds Redis for efficient state storage, trace storage, caching, and rate limiting.
     *   [`genkitx-rxjs`](https://github.com/pavelgj/genkitx-rxjs) - A simple RxJS helper/adapter for Genkit.
-    *   [`@agentic/genkit`](https://agentic.so/sdks/genkit) - Agentic Tools adapter for the Genkit SDK.
-
-### Plugins / Golang - Official
-
-*   Vector Store Plugins
-    *   [`pinecone`](https://firebase.google.com/docs/genkit-go/plugins/pinecone) - Plugin for Pinecone Vector Stores.
-    *   [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
-    *   [`pgvector`](https://firebase.google.com/docs/genkit-go/pgvector) - Plugin for PostgreSQL (PGVector) Vector Stores.
-*   Monitoring Plugins
-    *   [`googlecloud`](https://firebase.google.com/docs/genkit-go/plugins/google-cloud) - The Google Cloud plugin exports Genkit's telemetry and logging data to Google Cloud's operation suite.
-
-### Plugins / Golang - Community
-
-*   Model / Embedding Plugins
-    *   [`openai`](https://pkg.go.dev/github.com/yukinagae/genkit-go-plugins/plugins/openai) - Plugin for OpenAI APIs.
+    *   [`@agentic/genkit`](https://docs.agentic.so/marketplace/ts-sdks/genkit) - Agentic Tools adapter for the Genkit SDK.
+    *   [`@auth0/ai-genkit`](https://genkit.dev/docs/plugins/auth0/) - Official Auth0 plugin for Genkit that provides authentication and authorization capabilities.
+    *   [`genkitx-langfuse`](https://github.com/marcelfolaron/genkitx-langfuse) - Plugin to integrate with Langfuse for telemetry and prompt management.
 
 ### Tutorials / Dart - Official
 
@@ -203,5 +222,4 @@
 
 *   [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 *   [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
-*   [Genkit GitHub (⭐2.6k)](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
-*   [The Fire Company](https://github.com/TheFireCo) - The Fire Company GitHub organization.
+*   [Genkit GitHub (⭐5k)](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.

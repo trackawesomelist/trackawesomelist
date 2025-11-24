@@ -1,0 +1,18 @@
+# Awesome List Updates on Sep 07, 2025
+
+1 awesome lists updated today.
+
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+
+
+
+## [1. Awesome Go](/content/abordage/awesome-go/README.md)
+
+### Utilities / Utility/Miscellaneous
+
+*   [kamilsk/retry (⭐345)](https://github.com/kamilsk/retry) — The most advanced interruptible mechanism to perform actions repetitively until successful. ☆`345`
+
+---
+
+- Prev: [Sep 08, 2025](/content/2025/09/08/README.md)
+- Next: [Sep 06, 2025](/content/2025/09/06/README.md)

@@ -2,9 +2,26 @@
 
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 38K · 🏷️ Work
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) · ⭐ 41K · 🏷️ Work
 
 [ Daily / [Weekly](/content/lukasz-madon/awesome-remote-job/week/README.md) / [Overview](/content/lukasz-madon/awesome-remote-job/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Job boards
+
+*   [hiring.lat](https://hiring.lat) — Transparent job postings for LATAM workers with remote or relocation opportunities.
+*   [EmbeddedJobs](https://embedded.jobs) — Remote job board dedicated to embedded systems engineers and developers.
+
+### Companies with "remote DNA"
+
+*   [log.dog](https://log.dog) - Remote debugging and logging tool for iOS and Android apps. No offices - fully remote.
+*   [Maxim](https://www.getmaxim.ai) - AI Agent Simulation, Evaluation & Observability Platform
+*   [Peakforce](https://www.peakforce.dev) - Atlassian (Jira, Confluence) and Splunk (SIEM, Observability) Partner helping with licenses, implementation, migrations and consulting.
+
+### Tools / Project Management
+
+*   [StaffWatcher](https://staffwatcher.com/) - Time tracking
 
 ## [May 12, 2025](/content/2025/05/12/README.md)
 
@@ -92,7 +109,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 *   [No Fluff Jobs](https://nofluffjobs.com/pl/#criteria=remote) – Filter -> “*remote*”
 *   [Remote Backend Jobs](https://www.remotebackendjobs.com/) - Find exclusively remote backend jobs aggregated from the top 22 job boards in the world.
 *   [Remote Frontend Jobs](https://www.remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
-*   [remote-jobs (⭐32k)](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+*   [remote-jobs (⭐40k)](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
 *   [Remotees](https://weworkremotely.com/?utm_source=Remotees\&utm_medium=Redirect\&utm_campaign=Remotees)
 *   [Remotive Jobs](https://remotive.com/)
 *   [Slasify](https://slasify.com/en) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
@@ -126,7 +143,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Interviewing
 
 *   [andreis/interview (⭐18k)](https://github.com/Olshansk/interview) - Everything you need to kick ass on your coding interview
-*   [awesome-interviews (⭐75k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
+*   [awesome-interviews (⭐79k)](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
 *   [adaface.com/pair-pro](https://www.adaface.com/online-assessment-platform) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
 *   [Meetapro](https://www.meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
 
@@ -287,7 +304,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 *   [JobsCollider](https://jobscollider.com/remote-jobs) - \* Tens of thousands of remote jobs from over 10,000 companies and startups worldwide. \*
 *   [Remote AI Jobs](https://www.moaijobs.com/remote-ai-jobs) - Remote AI jobs in Machine Learning, Engineering, Data Science, Research, etc
-*   [thatmlopsguy/remote-pt (⭐3)](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
+*   [thatmlopsguy/remote-pt (⭐10)](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
 *   [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
 
 ### Interviewing
@@ -304,7 +321,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [Websoft9 (⭐1.9k)](https://github.com/Websoft9/websoft9) - Open source software self-hosting platform, one-click to install 200+ application includes remote tools like Jiti Meet, Rocket.chat, GitLab, Mattermost.
+*   [Websoft9 (⭐2.1k)](https://github.com/Websoft9/websoft9) - Open source software self-hosting platform, one-click to install 200+ application includes remote tools like Jiti Meet, Rocket.chat, GitLab, Mattermost.
 
 ## [May 15, 2024](/content/2024/05/15/README.md)
 
@@ -729,7 +746,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 ### Job boards
 
 *   [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
-*   [remote-es/remotes (⭐2.5k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
+*   [remote-es/remotes (⭐2.7k)](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
 
 ### Companies with "remote DNA"
 
@@ -821,7 +838,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Tools / Communication
 
-*   [Matrix (⭐902)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+*   [Matrix (⭐905)](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
 
 ## [Feb 03, 2019](/content/2019/02/03/README.md)
 
@@ -837,7 +854,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [Established Remote (⭐8.3k)](https://github.com/yanirs/established-remote) - A list of established remote companies
+*   [Established Remote (⭐8.5k)](https://github.com/yanirs/established-remote) - A list of established remote companies
 
 ## [Jan 02, 2019](/content/2019/01/02/README.md)
 
@@ -1057,7 +1074,7 @@ A curated list of awesome remote jobs and resources. Inspired by https://github.
 
 ### Others / Others
 
-*   [awesome-digital-nomads (⭐935)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+*   [awesome-digital-nomads (⭐987)](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
 
 ## [Mar 13, 2017](/content/2017/03/13/README.md)
 

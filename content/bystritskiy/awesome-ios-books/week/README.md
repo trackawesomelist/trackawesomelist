@@ -2,9 +2,21 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 509 · 🏷️ Books
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 612 · 🏷️ Books
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / Weekly / [Overview](/content/bystritskiy/awesome-ios-books/readme/README.md) ]
+
+## [Nov 17 - Nov 23, 2025](/content/2025/46/README.md)
+
+### Network
+
+*   [*Guide to Swift Codable* by Flight School (Matt)](https://flightdotschool.com/books/codable/)
+
+## [Sep 01 - Sep 07, 2025](/content/2025/35/README.md)
+
+### iOS
+
+*   [*Full Stack iOS Development with Swift and Vapor* by Hem Dutt](https://www.amazon.com/Full-Stack-iOS-Development-Swift-Vapor/dp/1501522574)
 
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
@@ -186,10 +198,6 @@
 
 *   [*Dive Into SpriteKit* by Paul Hudson](https://www.hackingwithswift.com/store/dive-into-spritekit)
 
-### Network
-
-*   [*Guide to Swift Codable* by Flight School (Matt)](https://flight.school/books/codable/)
-
 ### 🇷🇺 Russian books
 
 *   [*Язык Swift. Самоучитель* - Айк Харазян](https://www.ozon.ru/context/detail/id/33701486/)
@@ -293,7 +301,7 @@
 
 ### Contributing and License
 
-*   [See the guide (⭐509)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐612)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## [Nov 25 - Dec 01, 2019](/content/2019/47/README.md)
@@ -458,5 +466,5 @@
 
 ### Other Awesome Lists
 
-*   [awesome-ios (⭐48k)](https://github.com/vsouza/awesome-ios)
-*   [awesome-swift (⭐25k)](https://github.com/matteocrippa/awesome-swift)
+*   [awesome-ios (⭐50k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-swift (⭐26k)](https://github.com/matteocrippa/awesome-swift)

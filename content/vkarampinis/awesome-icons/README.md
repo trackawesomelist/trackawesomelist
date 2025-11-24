@@ -2,9 +2,19 @@
 
 A curated list of awesome Web Font Icons
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vkarampinis/awesome-icons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) · ⭐ 1.4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/vkarampinis/awesome-icons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vkarampinis/awesome-icons](https://github.com/vkarampinis/awesome-icons) · ⭐ 1.5K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/vkarampinis/awesome-icons/week/README.md) / [Overview](/content/vkarampinis/awesome-icons/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Archive of Icons
+
+*   [IconShelf](https://iconshelf.com/) - Search, edit, and download 300K+ icons from the world's largest open-source libraries.
+
+### Generic
+
+*   [FlyonUI Icons](https://flyonui.com/docs/customization/icons/) - FlyonUI offers customizable icons using Iconify with Tabler support.
 
 ## [Feb 24, 2025](/content/2025/02/24/README.md)
 
@@ -18,7 +28,7 @@ A curated list of awesome Web Font Icons
 *   [Foundation Icon Fonts 2](https://zurb.com/playground/foundation-icons)
 *   [Foundation Icon Fonts 3](https://zurb.com/playground/foundation-icon-fonts-3) - A custom collection of 283 icons.
 *   [Glyphicons](https://glyphicons.com/) - Is a library of precisely prepared monochromatic icons and symbols, created with an emphasis to simplicity and easy orientation.
-*   [Heroicons (⭐22k)](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+*   [Heroicons (⭐23k)](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 *   [Ionicons](https://ionic.io/ionicons) - The premium icon font for Ionic Framework.
 *   [uiw-icons](https://uiwjs.github.io/icons/) - The premium icon font for UIW Framework.
 *   [Eva Icons](https://akveo.github.io/eva-icons/) - Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
@@ -75,13 +85,13 @@ A curated list of awesome Web Font Icons
 
 ### Generic
 
-*   [Tabler Icons (⭐19k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+*   [Tabler Icons (⭐20k)](https://github.com/tabler/tabler-icons) - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 
 ## [Feb 28, 2022](/content/2022/02/28/README.md)
 
 ### Generic
 
-*   [Akar Icons (⭐406)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
+*   [Akar Icons (⭐417)](https://github.com/artcoholic/akar-icons) - Perfectly rounded icon library made for designers and developers as React components.
 
 ## [Feb 26, 2022](/content/2022/02/26/README.md)
 
@@ -120,13 +130,13 @@ A curated list of awesome Web Font Icons
 
 ### Merchants
 
-*   [Bitcoin-Icons (⭐109)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
+*   [Bitcoin-Icons (⭐119)](https://github.com/BitcoinDesign/Bitcoin-Icons) - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 
 ## [Oct 15, 2021](/content/2021/10/15/README.md)
 
 ### Merchants
 
-*   [CMC Cryptocurrency Icons (⭐207)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
+*   [CMC Cryptocurrency Icons (⭐239)](https://github.com/ErikThiart/cryptocurrency-icons) - all the cryptocurrency icons available on coinmarketcap.
 
 ## [Oct 05, 2021](/content/2021/10/05/README.md)
 
@@ -163,14 +173,13 @@ A curated list of awesome Web Font Icons
 
 ### Merchants
 
-*   [Cryptocurrency Icons (⭐2.6k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
+*   [Cryptocurrency Icons (⭐2.7k)](https://github.com/spothq/cryptocurrency-icons) - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 
 ## [Oct 03, 2020](/content/2020/10/03/README.md)
 
 ### Generic
 
 *   [Boxicons](https://boxicons.com/) - Boxicons is a simple vector icons set carefully crafted for designers and developers to use in your next project.
-*   [Jam Icons](https://jam-icons.com/) - Jam icons is a set of icons designed for web projects, illustrations, print projects, etc. Shipped in JavaScript, font & SVG versions.
 *   [Remix Icon](https://remixicon.com/) - Remix Icon is a set of open-source neutral-style system symbols elaborately crafted for designers and developers.
 *   [Themify Icons](https://themify.me/themify-icons) - Themify Icons is a complete set of icons for use in web design and apps, consisting of 320+ pixel-perfect, hand-crafted icons that draw inspiration from Apple iOS 7.
 
@@ -205,7 +214,7 @@ A curated list of awesome Web Font Icons
 
 ### Tools
 
-*   [svgtofont (⭐631)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+*   [svgtofont (⭐690)](https://github.com/jaywcjlove/svgtofont) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 
 ## [May 10, 2019](/content/2019/05/10/README.md)
 
@@ -236,7 +245,7 @@ A curated list of awesome Web Font Icons
 
 ### Social
 
-*   [Zocial (⭐188)](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
+*   [Zocial (⭐189)](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework.
 
 ### Weather
 

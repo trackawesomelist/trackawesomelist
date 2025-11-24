@@ -2,9 +2,23 @@
 
 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 1.6K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 1.9K · 🏷️ Learn
 
 [ Daily / [Weekly](/content/dend/awesome-product-management/week/README.md) / [Overview](/content/dend/awesome-product-management/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Team Collaboration & Leadership / Tability
+
+*   [How to think strategically in your job](https://lesley.pizza/think-strategically-at-work/) - By [Lesley](https://lesley.pizza/about/).
+*   [Fell in a hole, got out](https://medium.com/the-coach-life/fell-in-a-hole-got-out-381356ec8d7f) - By [Tony Stubblebine](https://medium.com/@coachtony).
+
+### Career Development & Skills / Tability
+
+*   [A Pyramid-shaped Career](https://jackdanger.com/pyramid-shaped-career/) - By [Jack Danger](https://jackdanger.com/about/).
+*   [Career advice in 2025](https://lethain.com/career-advice-2025/) - By [Will Larson](https://lethain.com/about/).
+*   [How to be more agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) - By [Cate Hall](https://substack.com/@usefulfictions).
+*   [On agency](https://www.henrikkarlsson.xyz/p/agency) - By [Henrik Karlsson](https://substack.com/@henrikkarlsson) and [Johanna Karlsson](https://substack.com/@karlssonjohanna).
 
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
@@ -152,7 +166,7 @@
 ### Product Development & Process / Tability
 
 *   [How to Deliver More Software Projects on Time](https://web.archive.org/web/20151029064330/https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
-*   [A Minimum Viable Product Is Not a Product, It's a Process](https://web.archive.org/web/20201004000942/https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
+*   [A Minimum Viable Product Is Not a Product, It's a Process](https://web.archive.org/web/20201004000942/https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Jim Brikman](https://www.ybrikman.com/).
 
 ### Product Strategy & Planning / Tability
 

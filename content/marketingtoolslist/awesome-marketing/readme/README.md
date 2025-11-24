@@ -2,7 +2,7 @@
 
 A curated list of awesome marketing tools and resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 151 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 204 · 🏷️ Miscellaneous
 
 [ [Daily](/content/marketingtoolslist/awesome-marketing/README.md) / [Weekly](/content/marketingtoolslist/awesome-marketing/week/README.md) / Overview ]
 
@@ -86,6 +86,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 *   [Moz](https://moz.com) - [Review](https://marketingtoolslist.com/moz) - SEO software offering keyword research, link building, and site audits.
 *   [Ubersuggest](https://neilpatel.com/ubersuggest/) - [Review](https://marketingtoolslist.com/ubersuggest-by-neil-patel) - Free tool for generating new keyword ideas and analyzing SEO metrics.
 *   [KeywordTool.io](https://keywordtool.io) - [Review](https://marketingtoolslist.com/keyword-tool) - Tool for finding long-tail keywords for SEO, PPC, and content creation.
+*   [Serplux](https://www.serplux.com) - \[Review]\([https://serplux.com/premium](https://serplux.com/premium/agent/keyword-analyser) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
 
 ### On-Page SEO
 
@@ -94,6 +95,8 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 *   [Clearscope](https://www.clearscope.io) - [Review](https://marketingtoolslist.com/clearscope) - Content optimization platform that helps improve content relevance and SEO.
 *   [MarketMuse](https://www.marketmuse.com) - [Review](https://marketingtoolslist.com/market-muse) - AI-driven platform for content research and on-page SEO optimization.
 *   [Rank Math](https://rankmath.com) - [Review](https://marketingtoolslist.com/rank-math) - SEO plugin for WordPress that offers SEO suggestions while you write.
+*   [Serplux](https://www.serplux.com) - \[Review]\([https://serplux.com/premium](https://serplux.com/premium/agent/) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
+*
 
 ### Technical SEO
 
@@ -126,6 +129,8 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 *   [Ahrefs](https://ahrefs.com/rank-tracker) - [Review](https://marketingtoolslist.com/ahrefs) - Tracks your website’s keyword rankings and monitors how they change over time.
 *   [SEMrush Position Tracking](https://www.semrush.com/position-tracking/) - [Review](https://marketingtoolslist.com/semrush) - Tracks daily changes in rankings for any domain across multiple devices.
 *   [SERPWatcher](https://mangools.com/serpwatcher) - [Review](https://marketingtoolslist.com/serpwatcher-by-mangools) - Rank tracking tool designed to monitor SEO progress and performance.
+*   [Serplux](https://www.serplux.com) - \[Review]\([https://serplux.com/premium](https://serplux.com/premium/agent) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
+*
 
 ### SEO Analytics
 
@@ -209,6 +214,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 *   [ActiveCampaign](https://www.activecampaign.com) - Review - Customer experience automation platform that helps businesses grow by automating various marketing processes.
 *   [GetResponse](https://www.getresponse.com) - Review - Email marketing software with powerful automation features, landing pages, and webinars.
 *   [AWeber](https://www.aweber.com) - Review - Email marketing platform offering autoresponders, landing pages, and email automation.
+*   [Django CRM](https://djangocrm.github.io/info) - [Review](https://djangocrm.github.io/info/features/overview) - Mailing CRM is an open-source platform for managing customer relationships, organizing sales activities, and sending targeted email campaigns.
 
 ### Email Automation
 
@@ -328,6 +334,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 *   [Zoho CRM](https://www.zoho.com/crm/) - Review - Comprehensive CRM software with a wide array of features for sales automation, analytics, and customer support.
 *   [Pipedrive](https://www.pipedrive.com) - Review - Sales-focused CRM tool designed to help sales teams manage leads and deals effectively.
 *   [Microsoft Dynamics 365](https://dynamics.microsoft.com) - Review - CRM and ERP applications that integrate data, business logic, and processes.
+*   [Django CRM](https://djangocrm.github.io/info) - [Review](https://djangocrm.github.io/info/features/overview) - CRM Software with Tasks management, Email marketing and many more, created for individual use by businesses of any size or freelancers and is designed to provide easy customization and quick development.
 
 ### Email CRM Integration
 
@@ -435,7 +442,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ## Online Resources and Courses
 
-*   **[Awesome AI Marketing (⭐46)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
+*   **[Awesome AI Marketing (⭐71)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
 *   **[SEO Roadmap](https://github.com/seoroadmap/seo-roadmap)** - A Simple roadmap for your SEO journey.
 *   **Coursera Marketing Courses** - Offers courses on digital marketing, social media marketing, and more from top universities. [Visit Coursera](https://www.coursera.org/)
 *   **Google Digital Garage** - Free online courses from Google on digital marketing, data and tech. [Visit Google Digital Garage](https://learndigital.withgoogle.com/digitalgarage)

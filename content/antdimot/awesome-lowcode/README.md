@@ -2,9 +2,20 @@
 
 A collection of Awesome low-code development platform (LCDP).
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 533 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/antdimot/awesome-lowcode/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 antdimot/awesome-lowcode](https://github.com/antdimot/awesome-lowcode) · ⭐ 553 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/antdimot/awesome-lowcode/week/README.md) / [Overview](/content/antdimot/awesome-lowcode/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### AI
+
+*   [Pineify](https://pineify.app) - AI Pine Script Generator & Visual Editor.
+
+### Misc
+
+*   [DocuPotion](https://docupotion.com/) - Generate PDFs at scale in Bubble and Airtable.
+*   [Itura](https://itura-ai.com) - Build your own AI conversational, database-backed apps.
 
 ## [Jul 27, 2025](/content/2025/07/27/README.md)
 
@@ -20,7 +31,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### Misc
 
-*   [Tachybase (⭐67)](https://github.com/tachybase/tachybase) - Tachybase is a pluggable application framework., where developers can build complex application logic, while core developers focus on ensuring the stability of key modules and adapting to different environments.
+*   [Tachybase (⭐1.1k)](https://github.com/tachybase/tachybase) - Tachybase is a pluggable application framework., where developers can build complex application logic, while core developers focus on ensuring the stability of key modules and adapting to different environments.
 
 ## [May 06, 2025](/content/2025/05/06/README.md)
 
@@ -89,7 +100,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### AI
 
-*   [AutoGen (⭐47k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
+*   [AutoGen (⭐52k)](https://github.com/microsoft/autogen) - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 
 ## [Nov 09, 2023](/content/2023/11/09/README.md)
 
@@ -369,7 +380,7 @@ A collection of Awesome low-code development platform (LCDP).
 
 ### Misc
 
-*   [ToolJet (⭐36k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
+*   [ToolJet (⭐37k)](https://github.com/ToolJet/ToolJet) - Low-code framework for building internal tools.
 
 ## [Dec 02, 2021](/content/2021/12/02/README.md)
 

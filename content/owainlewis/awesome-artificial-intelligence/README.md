@@ -2,548 +2,123 @@
 
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/owainlewis/awesome-artificial-intelligence/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) · ⭐ 11K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/owainlewis/awesome-artificial-intelligence/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 owainlewis/awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) · ⭐ 13K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/owainlewis/awesome-artificial-intelligence/week/README.md) / [Overview](/content/owainlewis/awesome-artificial-intelligence/readme/README.md) ]
 
-## [Jan 22, 2025](/content/2025/01/22/README.md)
+## [Nov 24, 2025](/content/2025/11/24/README.md)
 
-### Newsletters / Commerical Tools
+### 📚 Books
 
-*   [Alpasignal.ai](https://alphasignal.ai/) AI newsletter for developers
-*   [Therundown.ai](https://www.therundown.ai/) Get the latest AI news, understand why it matters, and learn how to apply it in your work.
+*   [Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Scalable, maintainable ML pipelines (Chip Huyen).
+*   [Generative Deep Learning (2nd Edition)](https://www.oreilly.com/library/view/generative-deep-learning/9781098134174/) — GANs, VAEs, diffusion models (David Foster).
+*   [AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — End-to-end AI product building (Chip Huyen).
+*   [100 Page Language Models Book](https://www.thelmbook.com/) — This book guides you through the evolution of language models, starting from machine learning fundamentals.
+*   [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu/) — Comprehensive AI theory (Russell & Norvig).
+*   [Deep Learning](https://www.deeplearningbook.org/) — Neural networks & architectures (Goodfellow, Bengio, Courville).
+*   [Reinforcement Learning: An Introduction (2nd Edition)](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf) — RL fundamentals (Sutton & Barto).
+
+### 🏗 AI Engineering / 📖 Guides & Playbooks
+
+*   **[Building Effective Agents (Anthropic)](https://www.anthropic.com/engineering/building-effective-agents)** — ⭐ Patterns, pitfalls, and tradeoffs for designing AI agents.
+*   [OpenAI Agents Guide](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) — Practical guide on building agents
+*   [Google AI Agents Paper](https://www.kaggle.com/whitepaper-agents) - Practical guide to building AI agents from Google
+*   [Google Agents Companion Paper](https://www.kaggle.com/whitepaper-agent-companion) - Guide from Google
+*   [OpenAI Cookbook](https://cookbook.openai.com/) — Example code, recipes, and best practices for working with OpenAI APIs.
+*   [LLM Engineer Handbook (⭐4.4k)](https://github.com/SylphAI-Inc/LLM-engineer-handbook) — A goldmine of useful links for AI engineers
+
+### 🏗 AI Engineering / 🤖 Frameworks
+
+*   [PocketFlow](https://the-pocket.github.io/PocketFlow/) — Extremely minimalist AI agent framework in just 100 lines of code. Fantastic way to learn.
+*   [Google ADK](https://google.github.io/adk-docs/) — Google's Agent Development Kit (Python, Java). Great local development experience + A2A + MCP.
+*   [Pydantic-AI](https://ai.pydantic.dev/) — Typed, structured LLM orchestration framework built on Pydantic models for safe, predictable outputs.
+*   [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
+*   [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
+*   [AutoGen](https://microsoft.github.io/autogen/) — Microsoft’s framework for multi-agent conversation and collaboration.
+
+### 🏗 AI Engineering / 📦 Retrieval-Augmented Generation (RAG)
+
+*   [LlamaIndex](https://www.llamaindex.ai/) — Data framework for ingesting, indexing, and querying private data with LLMs.
+*   [Haystack](https://haystack.deepset.ai/) — Open-source search/RAG framework with modular pipelines.
+*   [Docling (⭐45k)](https://github.com/docling-project/docling) — Great library for ingesting any kind of document for RAG ⭐
+
+### 🏗 AI Engineering / Evals
+
+*   [OpenAI Evals (⭐17k)](https://github.com/openai/evals) — OpenAI's framework for writing evals
+
+### 📄 Landmark Papers / Evals
+
+*   [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — Transformer architecture.
+*   [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361) — Model/data/compute scaling.
+*   [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) — GPT-3 capabilities.
+*   [Constitutional AI](https://arxiv.org/abs/2212.08073) — Safer model alignment.
+
+### 🎓 Courses / Evals
+
+*   [Google Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
+*   [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/chapter1/1)
+*   [Fast.ai — Practical Deep Learning](https://course.fast.ai/)
+*   [Stanford CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/)
+*   [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+*   [MIT 6.S191: Intro to Deep Learning](https://introtodeeplearning.com/)
+*   [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
+*   [Google Deepmind| Introduction to Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+*   [Karpathy’s LLM Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+*   [Neural Nets - Zero-to-Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
+### 📰 Newsletters / Evals
+
+*   [The Rundown AI](https://www.therundown.ai/)
+*   [AlphaSignal](https://alphasignal.ai/)
+*   [Superhuman AI](https://www.superhuman.ai/)
+*   [AI Engineer](https://newsletter.owainlewis.com)
+
+### 💬 Models / Evals
+
+*   [ChatGPT](https://openai.com/chatgpt/overview/) — Best for general coding + reasoning.
+*   [Perplexity](https://www.perplexity.ai/) — Best for quick research with live citations.
+*   [Cohere](https://cohere.com/) — Best for enterprise LLMs with strong retrieval-augmented generation APIs.
+*   [Mistral](https://mistral.ai/) — Best for lightweight, high-performance open-weight models.
+*   [Qwen](https://qwenlm.github.io/) — Best for multilingual and Chinese-first applications.
+*   [DeepSeek](https://deepseek.com/) — Best for efficient, cost-optimized large models with competitive reasoning.
+
+### 👨‍💻 Code & Developer Tools / Evals
+
+*   [Claude Code](https://www.anthropic.com/claude) — IDE extensions with long-context code edits.
+*   [GitHub Copilot](https://github.com/features/copilot) — In-IDE code completion, chat, and refactors.
+*   [Cursor](https://cursor.sh/) — LLM-powered IDE for multi-file edits and codebase-aware chat.
+
+### 🎨 Multimedia AI Tools / 🖼 Image
+
+*   [ChatGPT-4o Image Generation](https://openai.com/chatgpt) — Integrated image creation with style control.
+*   [Adobe Firefly](https://www.adobe.com/sensei/generative-ai/firefly.html) — Integrated into Creative Cloud.
+*   [Ideogram](https://ideogram.ai/) — Precise, legible text in generated images.
+*   [Flux](https://blackforestlabs.ai/) — High-res, prompt-editable images.
+
+### 🎨 Multimedia AI Tools / 🎥 Video
+
+*   [Kling](https://klingai.com/) — Cinematic, realistic video generation.
+*   [Google Veo 3](https://deepmind.google/technologies/veo/) — High-quality video with synchronized audio.
+
+### 🎨 Multimedia AI Tools / 🎙 Audio
+
+*   [ElevenLabs](https://elevenlabs.io/) — High-quality text-to-speech.
+*   [Suno](https://suno.ai/) — AI music from text prompts.
+*   [Aiva](https://www.aiva.ai/) — Music composition for media.
 
 ## [Oct 25, 2024](/content/2024/10/25/README.md)
 
-### Tools / Images
+### 🎨 Multimedia AI Tools / 🖼 Image
 
-*   [Midjourney](https://www.midjourney.com/) AI image generation
+*   [Midjourney](https://www.midjourney.com/) — Artistic and photorealistic images and video.
 
-### Tools / Video
+### 🎨 Multimedia AI Tools / 🎥 Video
 
-*   [Runway](https://runwayml.com/) AI video generation
-
-### Tools / Commerical Tools
-
-*   [Taskade](https://www.taskade.com) Build, train, and deploy AI agents to automate tasks, research, and collaborate in real-time
+*   [Runway](https://runwayml.com/) — Video editing + generation.
 
 ## [Mar 15, 2024](/content/2024/03/15/README.md)
 
-### Tools / Chat
+### 💬 Models / Evals
 
-*   [Chat GPT](https://chat.openai.com/) ChatGPT is a free-to-use AI system. It allows users to engage in conversations, gain insights, automate tasks, and witness the future of AI all in one place.
-*   [Gemini](https://gemini.google.com/) Gemini gives you direct access to Google AI. Get help with writing, planning, learning, and more.
-*   [Claude](https://www.anthropic.com/claude) Claude is a family of foundational AI models that can be used in various applications. You can talk directly with Claude at claude.ai to brainstorm ideas, analyze images, and process long documents
-
-### Tools / Images
-
-*   [DALL·E 2](https://openai.com/dall-e-3) DALL·E 3 is an AI system that can create realistic images and art from a natural-language description.
-
-### Tools / Video
-
-*   [Sora](https://openai.com/sora) Sora is a text-to-video AI model that can create realistic and imaginative scenes from text instructions.
-
-### Courses / Commerical Tools
-
-*   [Machine Learning Observability Course](https://arize.com/blog-course/) - Self-guided course covers the intuition, math, and best practices for effective machine learning observability.
-
-### Books / Commerical Tools
-
-*   [Generative AI in Action](https://www.manning.com/books/generative-ai-in-action) - A book that shows exactly how to add generative AI tools for text, images, and code, and more into your organization’s strategies and projects..
-
-### Newsletters / Commerical Tools
-
-*   [Superhuman.ai](https://www.superhuman.ai/) A daily AI newsletter
-
-## [Mar 07, 2024](/content/2024/03/07/README.md)
-
-### Courses / Commerical Tools
-
-*   [Introduction to Artificial Intelligence (AI)](https://www.notion.so/owainlewis/Introduction-to-Artificial-Intelligence-AI-ef59b363654542e597ba46a19d129882?pvs=4) - A high-level introduction to AI from IBM on Coursera
-*   [Introduction to Generative AI](https://www.coursera.org/learn/introduction-to-generative-ai) - A beginner-level introduction to Generative AI from Google on Coursera
-
-## [Aug 12, 2022](/content/2022/08/12/README.md)
-
-### Courses / Commerical Tools
-
-*   [MIT Artificial Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) - MIT AI Course
-*   [Amazon Machine Learning Developer Guide](https://docs.aws.amazon.com/machine-learning/latest/dg/machinelearning-dg.pdf) - A book for ML developers which introduces the ML concepts & strategies with lots of practical usages.
-
-### Philosophy / Commerical Tools
-
-*   [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf) - The 1980 paper by philosopher John Searle that contains the famous 'Chinese Room' thought experiment. It is probably the most famous attack on the notion of a Strong AI possessing a 'mind' or a 'consciousness', and it is an interesting reading for those interested in the intersection of AI and philosophy of mind.
-*   [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - Written by Douglas Hofstadter and taglined "a metaphorical fugue on minds and machines in the spirit of Lewis Carroll", this incredible journey into the fundamental concepts of mathematics, symmetry and intelligence won a Pulitzer Prize for Non-Fiction in 1979. A major theme throughout is the emergence of meaning from seemingly 'meaningless' elements, like 1's and 0's, arranged in special patterns.
-
-### Learning / Commerical Tools
-
-*   [Awesome Graph Classification (⭐4.8k)](https://github.com/benedekrozemberczki/awesome-graph-classification) - Learning from graph structured data
-
-### Journals / Commerical Tools
-
-*   [Annals of Mathematics and Artificial Intelligence](http://www.springer.com/journal/10472)
-
-## [Jul 08, 2021](/content/2021/07/08/README.md)
-
-### Free Content / Commerical Tools
-
-*   [Modeling Agents with Probabilistic Programs](https://agentmodels.org/) - This book describes and implements models of rational agents for (PO)MDPs and Reinforcement Learning.
-
-## [Jul 07, 2021](/content/2021/07/07/README.md)
-
-### Books / Commerical Tools
-
-*   [Trust in Machine Learning](https://www.manning.com/books/trust-in-machine-learning) - a book for experienced data scientists and machine learning engineers on how to make your AI a trustworthy partner. Build machine learning systems that are explainable, robust, transparent, and optimized for fairness.
-
-## [Mar 25, 2021](/content/2021/03/25/README.md)
-
-### Courses / Commerical Tools
-
-*   [CS50’s Intro to Artificial Intelligence](https://cs50.harvard.edu/ai/2020) - This course explores the concepts and algorithms at the foundation of modern artificial intelligence
-*   [Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) - An Introductory course to Deep Learning using TensorFlow.
-
-### Books / Commerical Tools
-
-*   [How Machine Learning Works](https://livebook.manning.com/book/how-machine-learning-works/welcome/v-5) - Mostafa Samir. Early access book that introduces machine learning from both practical and theoretical aspects in a non-threatening way.
-
-### Programming / Commerical Tools
-
-*   [AI Algorithms, Data Structures and Idioms in Prolog, Lisp and Java](http://www.amazon.co.uk/Algorithms-Data-Structures-Idioms-Prolog/dp/0136070477) - [PDF here](https://pdfs.semanticscholar.org/f5c3/d7dbe4c47e310569a14d2338d0cb3d70a1bb.pdf)
-
-### Free Content / Commerical Tools
-
-*   [Artificial Intelligence and Molecular Biology](https://web.archive.org/web/20060627060706/http://www.biosino.org/mirror/www.aaai.org/Press/Books/Hunter/hunter-contents.html) - The current volume is an effort to bridge that range of exploration, from nucleotide to abstract concept, in contemporary AI/MB research.
-*   [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia:Computational_intelligence) - Scholarpedia is a peer-reviewed open-access encyclopedia written and maintained by scholarly experts from around the world.
-
-### Learning / Commerical Tools
-
-*   [Deep Learning](https://www.deeplearningbook.org) - Yoshua Bengio, Ian Goodfellow and Aaron Courville put together this currently free (and draft version) book on deep learning.  The book is kept up-to-date and covers a wide range of topics in depth (up to and including sequence-to-sequence learning).
-*   [Deep Learning.net](https://web.archive.org/web/20201114013453/http://deeplearning.net/) - Aggregation site for DL resources
-
-### Journals / Commerical Tools
-
-*   [Applied Artificial Intelligence](https://www.tandfonline.com/toc/uaai20/current)
-*   [Electronic Transactions on Artificial Intelligence](https://dblp.org/db/journals/etai/index.html)
-*   [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x)
-*   [International Journal on Artificial Intelligence Tools](https://www.worldscientific.com/worldscinet/ijait)
-*   [Journal of Experimental and Theoretical Artificial Intelligence ](https://www.tandfonline.com/toc/teta20/current)
-
-## [Jan 26, 2021](/content/2021/01/26/README.md)
-
-### Courses / Commerical Tools
-
-*   (Stanford Deep Learning Series]\[<https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb>]
-*   [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12) - A series of simple, plain-English explanations accompanied by math, code, and real-world examples.
-
-### Books / Commerical Tools
-
-*   [The Hundred-Page Machine Learning Book](http://themlbook.com/) - all you need to know about Machine Learning in a hundred pages, supervised and unsupervised learning, SVM, neural networks, ensemble methods, gradient descent, cluster analysis and dimensionality reduction, autoencoders and transfer learning, feature engineering and hyperparameter tuning.
-
-### Organizations / Commerical Tools
-
-*   [IBM Research](https://www.research.ibm.com/artificial-intelligence)
-*   [Microsoft Research](https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/)
-
-## [Dec 22, 2020](/content/2020/12/22/README.md)
-
-### Courses / Commerical Tools
-
-*   [Transfer Learning for Natural Language Processing](https://www.manning.com/books/transfer-learning-for-natural-language-processing?utm_source=github\&utm_medium=organic\&utm_campaign=book_azunre_transfer_3_10_20) - A book that gets you up to speed with the relevant ML concepts and then dives into transfer learning for NLP.
-
-## [Aug 26, 2020](/content/2020/08/26/README.md)
-
-### Code / Commerical Tools
-
-*   [ExplainX (⭐423)](https://github.com/explainX/explainx)- ExplainX is a fast, lightweight, and scalable explainable AI framework for data scientists to explain any black-box model to business stakeholders.
-
-## [Jul 01, 2020](/content/2020/07/01/README.md)
-
-### Books / Commerical Tools
-
-*   [Serverless Machine Learning](https://www.manning.com/books/serverless-machine-learning-in-action) - a book for machine learning engineers on how to train and deploy machine learning systems on public clouds like AWS, Azure, and GCP, using a code-oriented approach.
-
-## [Mar 12, 2020](/content/2020/03/12/README.md)
-
-### Courses / Commerical Tools
-
-*   [Kaggle's micro courses](https://www.kaggle.com/learn/overview) - A series of micro courses by offering practical and hands-on knowledge ranging from Python to Deep Learning.
-
-### Books / Commerical Tools
-
-*   [MachineLearningWithTensorFlow2ed](https://www.manning.com/books/machine-learning-with-tensorflow-second-edition) is a book on general-purpose machine learning techniques, including regression, classification, unsupervised clustering, reinforcement learning, autoencoders, convolutional neural networks, RNNs, and LSTMs, using TensorFlow 1.14.1.
-
-### Organizations / Commerical Tools
-
-*   [AI Google](https://ai.google/)
-*   [Facebook AI](https://ai.facebook.com)
-
-### Misc / Commerical Tools
-
-*   [AI Experiments with Google](https://experiments.withgoogle.com/collection/ai)
-
-## [Dec 13, 2019](/content/2019/12/13/README.md)
-
-### Courses / Commerical Tools
-
-*   [Essential Natural Language Processing](https://www.manning.com/books/essential-natural-language-processing) - A hands-on guide to NLP with practical techniques, numerous Python-based examples and real-world case studies.
-
-## [Oct 30, 2019](/content/2019/10/30/README.md)
-
-### Courses / Commerical Tools
-
-*   [Succeeding with AI](https://www.manning.com/books/succeeding-with-ai) - An introduction to managing successful AI projects and applying AI to real-life situations.
-
-## [Sep 12, 2019](/content/2019/09/12/README.md)
-
-### Learning / Commerical Tools
-
-*   [Awesome Neural Art (⭐92)](https://github.com/crypdick/awesome-neural-art) - Creating art and manipulating images using deep neural networks.
-
-## [Aug 06, 2019](/content/2019/08/06/README.md)
-
-### Courses / Commerical Tools
-
-*   [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) - An Introduction to AI is a free online course for everyone interested in learning what AI is, what is possible (and not possible) with AI, and how it affects our lives – with no complicated math or programming required.
-
-## [Jul 25, 2019](/content/2019/07/25/README.md)
-
-### Courses / Commerical Tools
-
-*   [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - A seven-day bootcamp designed in MIT to introduce deep learning methods and applications
-*   [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - A free five-weekend plan for self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more
-*   [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI
-*   [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) - Early access book on how to create practical NLP applications using Python.
-*   [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Early access book that introduces the most valuable machine learning techniques.
-
-### Books / Commerical Tools
-
-*   [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - Early access book that provides basics of machine learning and using R programming language.
-
-### Journals / Commerical Tools
-
-*   [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal\&issn=0921-7126)
-*   [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
-*   [Artificial Intelligence for Engineering Design, Analysis and Manufacturing](http://journals.cambridge.org/action/displayJournal?jid=AIE)
-*   [Artificial Intelligence](http://www.elsevier.com/locate/artint)
-*   [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF)
-*   [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
-*   [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/publications/t-ase)
-*   [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)
-*   [Journal on Data Semantics ](http://www.springer.com/journal/13740)
-*   [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
-
-## [May 29, 2019](/content/2019/05/29/README.md)
-
-### Free Content / Commerical Tools
-
-*   [R2D3](http://www.r2d3.us/) - A website with explanations on topics from Machine Learning to Statistics. All helped with beautifully animated infographics and real-life examples. Available in various languages.
-
-### Learning / Commerical Tools
-
-*   [Awesome Community Detection (⭐2.3k)](https://github.com/benedekrozemberczki/awesome-community-detection) - Clustering graph structured data
-*   [Awesome Decision Tree Papers (⭐2.4k)](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Decision tree papers from machine learning conferences
-*   [Awesome Gradient Boosting Papers (⭐1k)](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Gradient boosting papers from machine learning conferences
-*   [Awesome Fraud Detection Papers (⭐1.7k)](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Fraud detection papers from machine learning conferences
-
-## [Mar 07, 2019](/content/2019/03/07/README.md)
-
-### Videos / Commerical Tools
-
-*   [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - This live-video breaks down critical concepts like how RL systems learn, how to sense and process environmental data, and how to build and train AI agents.
-
-## [Nov 30, 2018](/content/2018/11/30/README.md)
-
-### Courses / Commerical Tools
-
-*   [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) In this liveVideo course, machine learning expert Oliver Zeigermann teaches you the basics of deep learning.
-*   [Fusion in Action](https://www.manning.com/books/fusion-in-action) -  Fusion in Action teaches you to build a full-featured data analytics pipeline, including document and data search and distributed data clustering.
-
-## [Oct 30, 2018](/content/2018/10/30/README.md)
-
-### Organizations / Commerical Tools
-
-*   [Nvidia Deep Learning](https://developer.nvidia.com/deep-learning)
-
-## [Oct 26, 2018](/content/2018/10/26/README.md)
-
-### Courses / Commerical Tools
-
-*   [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro) Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
-*   [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code exercises to practice Python coding.
-
-## [Sep 20, 2018](/content/2018/09/20/README.md)
-
-### Philosophy / Commerical Tools
-
-*   [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - Max Tegmark, professor of Physics at MIT, discusses how Artificial Intelligence may affect crime, war, justice, jobs, society and our very sense of being human both in the near and far future.
-
-### Organizations / Commerical Tools
-
-*   [Google DeepMind Research](https://deepmind.com/research/)
-
-### Misc / Commerical Tools
-
-*   [Artificial Intelligence Subreddit](https://www.reddit.com/r/artificial/)
-
-## [Sep 18, 2018](/content/2018/09/18/README.md)
-
-### Courses / Commerical Tools
-
-*   [Deep Learning and the Game of Go](https://www.manning.com/books/deep-learning-and-the-game-of-go) - Deep Learning and the Game of Go teaches you how to apply the power of deep learning to complex human-flavored reasoning tasks by building a Go-playing AI. After exposing you to the foundations of machine and deep learning, you'll use Python to build a bot and then teach it the rules of the game.
-*   [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search) -  Deep Learning for Search teaches you how to leverage neural networks, NLP, and deep learning techniques to improve search performance.
-*   [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch) -  PyTorch puts these superpowers in your hands, providing a comfortable Python experience that gets you started quickly and then grows with you as you—and your deep learning skills—become more sophisticated. Deep Learning with PyTorch will make that journey engaging and fun.
-*   [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) -  Deep Reinforcement Learning in Action teaches you the fundamental concepts and terminology of deep reinforcement learning, along with the practical skills and techniques you’ll need to implement it into your own projects.
-*   [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) -  Grokking Deep Reinforcement Learning introduces this powerful machine learning approach, using examples, illustrations, exercises, and crystal-clear teaching.
-
-### Videos / Commerical Tools
-
-*   [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)—This interactive live video course gives you a crash course in using AWS for machine learning and teaches you how to build a fully working predictive algorithm.
-*   [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)-Deep Learning with R in Motion teaches you to apply deep learning to text and images using the powerful Keras library and its R language interface.
-*   [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion will not just teach you how to use a single library or framework. You’ll discover how to build these algorithms from scratch!
-
-## [Aug 09, 2018](/content/2018/08/09/README.md)
-
-### Courses / Commerical Tools
-
-*   [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion\&a_bid=5d7bc0ba) - Beginner's course to learn deep learning and neural networks without frameworks.
-
-## [Aug 08, 2018](/content/2018/08/08/README.md)
-
-### Learning / Commerical Tools
-
-*   [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
-
-## [Aug 06, 2018](/content/2018/08/06/README.md)
-
-### Learning / Commerical Tools
-
-*   [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - A collection of free professional and in-depth Machine Learning and Data Science video tutorials and courses
-*   [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - A collection of free professional and in-depth Artificial Intelligence video tutorials and courses
-*   [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - A collection of free professional and in-depth Deep Learning video tutorials and courses
-
-## [Aug 02, 2018](/content/2018/08/02/README.md)
-
-### Free Content / Commerical Tools
-
-*   [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - a cluster of pages on artificial intelligence and machine learning.
-
-## [Jun 27, 2018](/content/2018/06/27/README.md)
-
-### Courses / Commerical Tools
-
-*   [Deep RL Bootcamp Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) - Deep Reinforcement Bootcamp Lectures - August 2017
-
-## [Feb 03, 2018](/content/2018/02/03/README.md)
-
-### Code / Commerical Tools
-
-*   [FARGonautica (⭐113)](https://github.com/Alex-Linhares/FARGonautica) - Source code of Douglas Hosftadter's Fluid Concepts and Creative Analogies Ph.D. projects.
-
-## [Oct 10, 2017](/content/2017/10/10/README.md)
-
-### Courses / Commerical Tools
-
-*   [Deep Learning](http://www.deeplearningbook.org/) - Goodfellow, Bengio and Courville's introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives.
-*   [The Elements of Statistical Learning: Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/) - Hastie and Tibshirani cover a broad range of topics, from supervised learning (prediction) to unsupervised learning including neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.
-
-## [Aug 22, 2017](/content/2017/08/22/README.md)
-
-### Courses / Commerical Tools
-
-*   [Reinforcement Learning: An Introduction](http://www.freetechbooks.com/reinforcement-learning-an-introduction-second-edition-draft-t1282.html) - This introductory textbook on reinforcement learning is targeted toward engineers and scientists in artificial intelligence, operations research, neural networks, and control systems, and we hope it will also be of interest to psychologists and neuroscientists.
-
-## [Jul 11, 2017](/content/2017/07/11/README.md)
-
-### Free Content / Commerical Tools
-
-*   [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - This course provides a broad introduction to machine learning and statistical pattern recognition.
-
-## [Jul 05, 2017](/content/2017/07/05/README.md)
-
-### Learning / Commerical Tools
-
-*   [Awesome Deep Learning Resources (⭐1.7k)](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
-
-## [Jun 27, 2017](/content/2017/06/27/README.md)
-
-### Competitions / Commerical Tools
-
-*   [MIT Battlecode](https://www.battlecode.org/)
-
-## [Jul 12, 2016](/content/2016/07/12/README.md)
-
-### Philosophy / Commerical Tools
-
-*   [Super Intelligence](http://www.audible.co.uk/pd/Non-fiction/Superintelligence-Audiobook/B00LPMA33G) - Superintelligence asks the question: What happens when machines surpass humans in general intelligence?
-
-### Free Content / Commerical Tools
-
-*   [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks.
-
-### Code / Commerical Tools
-
-*   [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, and Python. More to come.
-
-## [May 08, 2016](/content/2016/05/08/README.md)
-
-### Organizations / Commerical Tools
-
-*   [OpenAI](https://openai.com/about/)
-*   [Association For The Advancement of Artificial Intelligence](http://www.aaai.org/home.html)
-
-## [Apr 06, 2016](/content/2016/04/06/README.md)
-
-### Courses / Commerical Tools
-
-*   [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) - Stuart Russell & Peter Norvig
-    *   Also consider browsing the [list of recommended reading](http://aima.cs.berkeley.edu/books.html), divided by each chapter in "Artificial Intelligence: A Modern Approach".
-
-### Misc / Commerical Tools
-
-*   [AIResources](http://airesources.org/) - Directory of open source software and open access data for the AI research community
-
-## [Mar 29, 2016](/content/2016/03/29/README.md)
-
-### Videos / Commerical Tools
-
-*   [A tutorial on Deep Learning](http://videolectures.net/jul09_hinton_deeplearn)
-*   [Basics of Computational Reinforcement Learning](http://videolectures.net/rldm2015_littman_computational_reinforcement)
-*   [Deep Reinforcement Learning](http://videolectures.net/rldm2015_silver_reinforcement_learning)
-
-## [Feb 27, 2016](/content/2016/02/27/README.md)
-
-### Free Content / Commerical Tools
-
-*   [Society of Mind](http://aurellem.org/society-of-mind/index.html) - Marvin Minsky's seminal work on how our mind works. Lot of Symbolic AI concepts have been derived from this basis.
-
-## [Feb 25, 2016](/content/2016/02/25/README.md)
-
-### Courses / Commerical Tools
-
-*   [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - Georgia Tech's course on Artificial Intelligence focussing on Symbolic AI.
-
-## [Jan 02, 2016](/content/2016/01/02/README.md)
-
-### Videos / Commerical Tools
-
-*   [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
-
-## [Oct 21, 2015](/content/2015/10/21/README.md)
-
-### Misc / Commerical Tools
-
-*   [Open Cognition Project](http://wiki.opencog.org/w/The_Open_Cognition_Project) - We're undertaking a serious effort to build a thinking machine
-*   [AITopics](http://aitopics.org/) - Large aggregation of AI resources
-
-## [Sep 24, 2015](/content/2015/09/24/README.md)
-
-### Competitions / Commerical Tools
-
-*   [AI Challenge](http://aichallenge.org)
-*   [AI Games](http://theaigames.com)
-
-## [Sep 10, 2015](/content/2015/09/10/README.md)
-
-### Programming / Commerical Tools
-
-*   [Python Tools for Machine Learning](https://www.cbinsights.com/blog/python-tools-machine-learning/)
-*   [Python for Artificial Intelligence](https://wiki.python.org/moin/PythonForArtificialIntelligence)
-
-### Code / Commerical Tools
-
-*   [FANN](http://leenissen.dk/fann/wp/) - Fast Artificial Neural Network Library, native for C
-
-### Learning / Commerical Tools
-
-*   [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
-*   [Machine Learning Mastery](http://machinelearningmastery.com/)
-*   [Awesome Machine Learning (⭐67k)](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
-*   [FastML](http://fastml.com/)
-
-### Organizations / Commerical Tools
-
-*   [IEEE Computational Intelligence Society](http://cis.ieee.org/)
-*   [Machine Intelligence Research Institute](https://intelligence.org/research-guide/)
-
-### Journals / Commerical Tools
-
-*   [AI & Society](http://www.springer.com/journal/146)
-*   [Applicable Algebra in Engineering, Communication and Computing](http://www.springer.com/journal/200)
-*   [Applied Intelligence](http://www.springer.com/journal/10489)
-*   [Artificial Intelligence Review](http://www.springer.com/journal/10462)
-*   [Automated Software Engineering](http://www.springer.com/journal/10515)
-*   [Autonomous Agents and Multi-Agent Systems](http://www.springer.com/journal/10458)
-*   [Computational and Mathematical Organization Theory ](http://www.springer.com/journal/10588)
-*   [Evolutionary Intelligence](http://www.springer.com/journal/12065)
-*   [Intelligent Industrial Systems](http://www.springer.com/engineering/robotics/journal/40903)
-*   [Journal of Automated Reasoning](http://www.springer.com/journal/10817)
-*   [Journal of Intelligent Information Systems ](http://www.springer.com/journal/10844)
-*   [Minds and Machines](http://www.springer.com/journal/11023)
-*   [Progress in Artificial Intelligence ](http://www.springer.com/journal/13748)
-
-## [Jun 28, 2015](/content/2015/06/28/README.md)
-
-### Courses / Commerical Tools
-
-*   [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - This class will teach you basic methods in Artificial Intelligence, including probabilistic inference, planning and search, localization, tracking and control, all with a focus on robotics
-*   [Paradigms Of Artificial Intelligence Programming: Case Studies in Common Lisp](http://www.amazon.com/exec/obidos/ASIN/1558601910) - Paradigms of AI Programming is the first text to teach advanced Common Lisp techniques in the context of building major AI systems
-*   [The Cambridge Handbook Of Artificial Intelligence](http://www.amazon.com/Cambridge-Handbook-Artificial-Intelligence/dp/0521691915) - Written for non-specialists, it covers the discipline's foundations, major theories, and principal research areas, plus related topics such as artificial life
-*   [On Intelligence](http://www.amazon.com/Jeff-Hawkins/e/B001KHNZ7C/ref=sr_ntt_srch_lnk_11?qid=1435480927\&sr=8-11) - Hawkins develops a powerful theory of how the human brain works, explaining why computers are not intelligent and how, based on this new theory, we can finally build intelligent machines. Also audio version available from audible.com
-*   [How To Create A Mind](http://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/0143124048/ref=pd_sim_14_3?ie=UTF8\&refRID=0QY72H7NGRYH79R7S3K7) - Kurzweil discusses how the brain works, how the mind emerges, brain-computer interfaces, and the implications of vastly increasing the powers of our intelligence to address the world’s problems
-
-### Programming / Commerical Tools
-
-*   [Prolog Programming For Artificial Intelligence](http://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461) - This best-selling guide to Prolog and Artificial Intelligence concentrates on the art of using the basic mechanisms of Prolog to solve interesting AI problems.
-
-### Philosophy / Commerical Tools
-
-*   [Our Final Invention: Artificial Intelligence And The End Of The Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8) - Our Final Invention explores the perils of the heedless pursuit of advanced AI. Until now, human intelligence has had no rival. Can we coexist with beings whose intelligence dwarfs our own? And will they allow us to?
-
-### Free Content / Commerical Tools
-
-*   [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) - This book is published by Cambridge University Press
-*   [The Quest For Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - This book traces the history of the subject, from the early dreams of eighteenth-century (and earlier) pioneers to the more successful work of today's AI engineers.
-
-### Videos / Commerical Tools
-
-*   [The Unreasonable Effectiveness Of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) - The Director of Facebook's AI Research, Dr. Yann LeCun gives a talk on deep convolutional neural networks and their applications to machine learning and computer vision
-
-### Learning / Commerical Tools
-
-*   [Deep Learning. Methods And Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) Free book from Microsoft Research
-*   [Neural Networks And Deep Learning](http://neuralnetworksanddeeplearning.com) - Neural networks and deep learning currently provide the best solutions to many problems in image recognition, speech recognition, and natural language processing. This book will teach you the core concepts behind neural networks and deep learning
-
-## [Feb 06, 2015](/content/2015/02/06/README.md)
-
-### Philosophy / Commerical Tools
-
-*   [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493\&sr=1-1) - Ray Kurzweil, director of engineering at Google, explored the process of reverse-engineering the brain to understand precisely how it works, then applies that knowledge to create vastly intelligent machines.
-
-### Free Content / Commerical Tools
-
-*   [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - a book by Bill Hibbard that combines several peer-reviewed papers and new material to analyze the issues of ethical artificial intelligence.
-
-## [Feb 02, 2015](/content/2015/02/02/README.md)
-
-### Free Content / Commerical Tools
-
-*   [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/) - The book covers computer simulation of human activities, such as problem-solving and natural language understanding; computer vision; AI tools and techniques; an introduction to AI programming; symbolic and neural network models of cognition; the nature of mind and intelligence; and the social implications of AI and cognitive science.
-
-## [Jan 28, 2015](/content/2015/01/28/README.md)
-
-### Courses / Commerical Tools
-
-*   [Machine Learning](https://class.coursera.org/ml-008) - Basic machine learning algorithms for supervised and unsupervised learning
-*   [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014) - Introductory course on machine learning focusing on linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines.
-
-### Learning / Commerical Tools
-
-*   [Machine Learning: A Probabilistic Perspective](http://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020) - This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach
-
-## [Jan 27, 2015](/content/2015/01/27/README.md)
-
-### Courses / Commerical Tools
-
-*   [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271) - Learn the Fundamentals of AI. Course run by Peter Norvig
-*   [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - The course will introduce the basic ideas and techniques underlying the design of intelligent computer systems
-*   [The Emotion Machine: Commonsense Thinking, Artificial Intelligence, and the Future of the Human Mind ](http://www.amazon.com/gp/product/0743276647) - In this mind-expanding book, scientific pioneer Marvin Minsky continues his groundbreaking research, offering a fascinating new model for how our minds work
-*   [Artificial Intelligence: A New Synthesis](http://www.amazon.com/Artificial-Intelligence-Synthesis-Nils-Nilsson/dp/1558604677) - Beginning with elementary reactive agents, Nilsson gradually increases their cognitive horsepower to illustrate the most important and lasting ideas in AI
+*   [Claude](https://www.anthropic.com/claude) — Best for long-context analysis and structured thinking.
+*   [Gemini](https://gemini.google.com/) — Best for Google ecosystem integration.

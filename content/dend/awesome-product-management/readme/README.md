@@ -2,7 +2,7 @@
 
 🚀 A curated list of awesome resources for product/program managers to learn and grow.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 1.6K · 🏷️ Learn
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/dend/awesome-product-management/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 dend/awesome-product-management](https://github.com/dend/awesome-product-management) · ⭐ 1.9K · 🏷️ Learn
 
 [ [Daily](/content/dend/awesome-product-management/README.md) / [Weekly](/content/dend/awesome-product-management/week/README.md) / Overview ]
 
@@ -37,6 +37,7 @@ By definition, a product manager is an individual who drives the product vision 
     *   [Task & Project Management](#task--project-management)
         *   [Trello](#trello)
         *   [Taiga](#taiga)
+        *   [Tenzu](#tenzu)
         *   [To-Do](#to-do)
         *   [Taskade](#taskade)
     *   [Design & Prototyping](#design--prototyping)
@@ -171,6 +172,19 @@ Taiga is a project management tool for multi-functional agile teams. It has a ri
 | Cost      | Free (self-hosted) or [Freemium](https://taiga.io/) |
 | Platform  | macOS, Windows, iOS, Android, Web                   |
 | URL       | <https://taiga.io>                                  |
+
+#### Tenzu
+
+Lightweight project management tool for agile teams. Features workspaces creation and kanban boards.
+
+![Tenzu overview](https://github.com/dend/awesome-product-management/raw/master/media/tool-tenzu.gif)
+
+| Property  | Value                                                                 |
+| --------- | --------------------------------------------------------------------- |
+| Developer | [BIRU](https://biru.sh/)                                              |
+| Cost      | Free (self-hosted) or [Free contribution](https://tenzu.net/pricing/) |
+| Platform  | Web                                                                   |
+| URL       | <https://tenzu.net>                                                   |
 
 #### To-Do
 
@@ -341,7 +355,7 @@ Methodologies, processes, and best practices for building and shipping products 
 *   [How to Deliver More Software Projects on Time](https://web.archive.org/web/20151029064330/https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 *   [Shipping is a Feature: Some Guiding Principles for People That Build Things](https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - By [Michael Copeland](https://www.linkedin.com/in/mcopeland/).
 *   [The Time Value of Shipping](https://blackboxofpm.com/the-time-value-of-shipping-6deaf8d7d565) - By [Brandon Chu](https://medium.com/@brandonmchu).
-*   [A Minimum Viable Product Is Not a Product, It's a Process](https://web.archive.org/web/20201004000942/https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Yevgeniy Brikman](https://www.ycombinator.com/blog/author/yevgeniy-brikman).
+*   [A Minimum Viable Product Is Not a Product, It's a Process](https://web.archive.org/web/20201004000942/https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Jim Brikman](https://www.ybrikman.com/).
 *   [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) - By [Joel Spolsky](https://www.joelonsoftware.com).
 *   [Painless Functional Specifications – Part 2: What's a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/) - By [Joel Spolsky](https://www.joelonsoftware.com).
 *   [Painless Functional Specifications – Part 3: But… How?](https://www.joelonsoftware.com/2000/10/04/painless-functional-specifications-part-3-but-how/) - By [Joel Spolsky](https://www.joelonsoftware.com).
@@ -412,6 +426,8 @@ Working effectively with cross-functional teams, leadership, and communication s
 *   [The Dos and Don'ts of Mentoring in Product](https://www.mindtheproduct.com/the-dos-and-donts-of-mentoring-in-product/) - By [Eira Hayward](https://www.mindtheproduct.com/profile/eira-hayward/).
 *   [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a) - By [Lily Ottinger](https://substack.com/@voidpoliticstaiwan) and [Charles Yang](https://substack.com/@charlesyang).
 *   [What is Good Product Strategy?](https://melissaperri.com/blog/2016/07/14/what-is-good-product-strategy) - By [Melissa Perri](https://melissaperri.com/).
+*   [How to think strategically in your job](https://lesley.pizza/think-strategically-at-work/) - By [Lesley](https://lesley.pizza/about/).
+*   [Fell in a hole, got out](https://medium.com/the-coach-life/fell-in-a-hole-got-out-381356ec8d7f) - By [Tony Stubblebine](https://medium.com/@coachtony).
 
 ### Product Metrics & Analytics
 
@@ -440,6 +456,10 @@ Professional growth, skill development, and career advancement in product manage
 *   [It's Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 *   [Great PM Interview Answers Include Tradeoffs. Here's How.](https://www.tryexponent.com/blog/the-key-to-a-successful-pm-interview-answer-tradeoffs) - By [Sushanth Raman](https://www.linkedin.com/in/sushanth-raman/).
 *   [Product Management Job Hunt: How to get an Interview and Nail it](https://mtp2017.wpenginepowered.com/product-management-job-hunt-how-to-get-an-interview-and-nail-it/) - By [Kostas Sirvydis](https://mtp2017.wpenginepowered.com/profile/KostasSirvydis203).
+*   [A Pyramid-shaped Career](https://jackdanger.com/pyramid-shaped-career/) - By [Jack Danger](https://jackdanger.com/about/).
+*   [Career advice in 2025](https://lethain.com/career-advice-2025/) - By [Will Larson](https://lethain.com/about/).
+*   [How to be more agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) - By [Cate Hall](https://substack.com/@usefulfictions).
+*   [On agency](https://www.henrikkarlsson.xyz/p/agency) - By [Henrik Karlsson](https://substack.com/@henrikkarlsson) and [Johanna Karlsson](https://substack.com/@karlssonjohanna).
 
 ### Growth & Marketing
 
@@ -541,9 +561,9 @@ Technical perspectives on product development and engineering practices.
 | <img alt="The Work Item" src="https://github.com/dend/awesome-product-management/raw/master/media/pod-the-work-item.png" width="100px" />            | Den Delimarsky                | <https://theworkitem.com>                                              | Every week, Den Delimarsky sits down with folks from a range of industries, roles, and backgrounds to learn more about their career journey, lessons learned, and what it takes to map out your own very unique track.                                                                                                                                                                        |
 | <img alt="Masters of Scale" src="https://github.com/dend/awesome-product-management/raw/master/media/pod-masters-of-scale.jpg" width="100px" />      | Reid Hoffman                  | <https://mastersofscale.com/>                                          | How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders. Guests include Facebook's Mark Zuckerberg & Sheryl Sandberg, Netflix's Reed Hastings, Google's Eric Schmidt, Spanx's Sara Blakely. With original music and hilariously honest stories, the show sounds like nothing you've ever heard. |
 | <img alt="The Product Podcast" src="https://github.com/dend/awesome-product-management/raw/master/media/pod-product.jpg" width="100px" />            | Multiple                      | <https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787> | This is your Product Management podcast featuring PMs from Google, Facebook, LinkedIn, Spotify, Twitter and other tech companies/ startups. Tune in if you're a manager, designer, engineer, entrepreneur or marketer who wants to learn the latest best practices.                                                                                                                           |
-| <img alt="StartUp" src="https://github.com/dend/awesome-product-management/raw/master/media/pod-startup.webp" width="100px" />                       | Multiple                      | <https://www.gimletmedia.com/startup>                                  | The business origin story you never get to hear.                                                                                                                                                                                                                                                                                                                                              |
+| <img alt="StartUp" src="https://github.com/dend/awesome-product-management/raw/master/media/pod-startup.webp" width="100px" />                       | Multiple                      | <https://podcasts.apple.com/us/podcast/startup-podcast/id913805339>    | The business origin story you never get to hear.                                                                                                                                                                                                                                                                                                                                              |
 | <img alt="How I Built This" src="https://github.com/dend/awesome-product-management/raw/master/media/pod-how-i-built.jpg" width="100px" />           | Guy Raz                       | <https://www.npr.org/podcasts/510313/how-i-built-this>                 | Guy Raz dives into the stories behind some of the world's best known companies. How I Built This weaves a narrative journey about innovators, entrepreneurs and idealists—and the movements they built.                                                                                                                                                                                       |
-| <img alt="The Pitch" src="https://github.com/dend/awesome-product-management/raw/master/media/pod-pitch.webp" width="100px" />                       | Multiple                      | <https://www.gimletmedia.com/the-pitch>                                | Where real entrepreneurs pitch to real investors—for real money.                                                                                                                                                                                                                                                                                                                              |
+| <img alt="The Pitch" src="https://github.com/dend/awesome-product-management/raw/master/media/pod-pitch.webp" width="100px" />                       | Multiple                      | <https://www.thepitch.show/>                                           | Where real entrepreneurs pitch to real investors—for real money.                                                                                                                                                                                                                                                                                                                              |
 | <img alt="ReWork" src="https://github.com/dend/awesome-product-management/raw/master/media/pod-rework.png" width="100px" />                          | Multiple                      | <https://rework.fm/>                                                   | A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp's co-founders and other business owners.                                                                                                                                                                                                               |
 | <img alt="Art Of Product" src="https://github.com/dend/awesome-product-management/raw/master/media/pod-art-of-product.jpg" width="100px" />          | Multiple                      | <https://artofproductpodcast.com/>                                     | Chronicling the journeys of two entrepreneurs building software companies.                                                                                                                                                                                                                                                                                                                    |
 | <img alt="Lenny's Podcast" src="https://github.com/dend/awesome-product-management/raw/master/media/pod-lennys-podcast.webp" width="100px" />        | Lenny Rachitsky               | <https://www.lennyspodcast.com/>                                       | Lenny Rachitsky (author of #1 business newsletter on Substack, with 200k+ subscribers) interviews world-class product leaders and growth experts to uncover concrete, actionable, and tactical advice to help you build, launch, and grow your own product.                                                                                                                                   |

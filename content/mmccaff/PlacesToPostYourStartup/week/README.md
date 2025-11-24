@@ -2,9 +2,16 @@
 
 Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mmccaff/PlacesToPostYourStartup/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) · ⭐ 6K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mmccaff/PlacesToPostYourStartup/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mmccaff/PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) · ⭐ 6.4K · 🏷️ Business
 
 [ [Daily](/content/mmccaff/PlacesToPostYourStartup/README.md) / Weekly / [Overview](/content/mmccaff/PlacesToPostYourStartup/readme/README.md) ]
+
+## [Nov 03 - Nov 09, 2025](/content/2025/44/README.md)
+
+### Websites
+
+*   Emoji Launch - <https://emojilaunch.com/>
+*   PitchWall - <https://pitchwall.co/>
 
 ## [Jan 06 - Jan 12, 2025](/content/2025/1/README.md)
 
@@ -24,7 +31,6 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 ### Websites
 
 *   AI Collection - <https://www.thataicollection.com/>
-*   yesRamen - <https://yesramen.com/>
 
 ## [Oct 10 - Oct 16, 2022](/content/2022/41/README.md)
 
@@ -45,12 +51,6 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 ### Websites
 
 *   GrowthBoosters - <https://www.growthboosters.com/product/add>
-
-## [Jul 19 - Jul 25, 2021](/content/2021/29/README.md)
-
-### Websites
-
-*   Projectium Network - <https://projectium.network>
 
 ## [Jan 18 - Jan 24, 2021](/content/2021/3/README.md)
 
@@ -84,12 +84,6 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 
 *   Loop - <https://app.loopinput.com/>
 
-## [Aug 10 - Aug 16, 2020](/content/2020/32/README.md)
-
-### Websites
-
-*   Hackerspad - <https://hackerspad.net/submit-software/>
-
 ## [Jun 29 - Jul 05, 2020](/content/2020/26/README.md)
 
 ### Websites
@@ -102,12 +96,6 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 
 *   AngelList - <https://angel.co/>
 *   Saijo's Tools List - <https://saijogeorge.com/best-marketing-tools/>
-
-## [May 11 - May 17, 2020](/content/2020/19/README.md)
-
-### Websites
-
-*   Broadwise.org - <https://broadwise.org/>
 
 ## [Apr 27 - May 03, 2020](/content/2020/17/README.md)
 
@@ -153,12 +141,6 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 
 *   Startup Benchmarks - <https://www.startupbenchmarks.com/>
 
-## [Aug 14 - Aug 20, 2017](/content/2017/33/README.md)
-
-### Websites
-
-*   The Changelog - [https://github.com/thechangelog/ping (⭐267)](https://github.com/thechangelog/ping)
-
 ## [Jul 24 - Jul 30, 2017](/content/2017/30/README.md)
 
 ### Websites
@@ -166,9 +148,7 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 *   appPicker - <http://www.apppicker.com/>
 *   Appvita - <http://www.appvita.com/>
 *   Arctic Startup - <http://arcticstartup.com/>
-*   BuiltInChicago - <http://www.builtinchicago.org/send-us-tip>
 *   Crunch Base - <https://www.crunchbase.com/#/home/index>
-*   Haro - <https://www.helpareporter.com/sources/>
 *   Land-book - <https://land-book.com/guidelines>
 *   MakeUseOf - <http://www.makeuseof.com/about/>
 *   Netted - <https://www.netted.net/contact-us/>
@@ -182,19 +162,12 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 *   StartupBlink - <http://www.startupblink.com/>
 *   Tabscape - <https://www.tapscape.com/>
 *   Tech Pluto - <http://www.techpluto.com/submit-a-startup/>
-*   The iPhone Mom - <https://www.theiphonemom.com/>
 
 ## [Mar 27 - Apr 02, 2017](/content/2017/13/README.md)
 
 ### Websites
 
 *   G2 Crowd - <https://www.g2crowd.com/products/new>
-
-## [Mar 06 - Mar 12, 2017](/content/2017/10/README.md)
-
-### Websites
-
-*   Collaborizm - <https://www.collaborizm.com>
 
 ## [Nov 14 - Nov 20, 2016](/content/2016/46/README.md)
 
@@ -223,7 +196,6 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 *   AppsThunder - <http://appsthunder.com/submit-your-app/>
 *   Beta Bound - <http://www.betabound.com/announce/>
 *   CrozDesk - <https://vendor.crozdesk.com/user/signup>
-*   Discova - <http://www.discova.co/>
 *   Discover Cloud - <https://www.discovercloud.com/become-a-vendor>
 *   F6S - <http://www.f6s.com/>
 *   Get App - <http://getapp.com/>
@@ -231,11 +203,8 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 *   Gust - <https://www.gust.com>
 *   Next Big What - <http://nextbigwhat.com/>
 *   Product Hunt - <http://www.producthunt.com/>
-*   Software Advice - <https://softwareadvice-markets.questionpro.com/>
-*   Startup Lift - <http://www.startuplift.com/>
 *   Startup Stash - <http://startupstash.com/>
 *   Startup Tabs - <http://startuptabs.com/>
-*   State of Tech - <http://stateoftech.net/advertise?submit-an-app-for-review>
 *   Vator - <http://www.vator.tv/>
 
 ## [Oct 03 - Oct 09, 2016](/content/2016/40/README.md)
@@ -251,17 +220,8 @@ Compiled list of links from "Ask HN: Where can I post my startup to get beta use
 *   Killer Startups - <http://killerstartups.com/submit-startup/>
 *   Launched - <https://launched.io/SubmitStartup>
 *   Side Projectors - <https://www.sideprojectors.com>
-*   SnapMunk - <https://www.snapmunk.com/submit-your-startup/>
 *   Stack Share - <http://stackshare.io/>
 *   Startup Beat - <http://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/>
 *   Startup Inspire - <https://www.startupinspire.com/submit>
-*   Startup Register - <http://startupregister.net/register-your-startup/>
 *   Tech Faster - <http://techfaster.com/submit-your-company/>
-*   Venture Beat - <http://venturebeat.com/news-tips/>
 *   Ycombinator - <https://news.ycombinator.com/>
-
-## [Sep 19 - Sep 25, 2016](/content/2016/38/README.md)
-
-### Websites
-
-*   Beta Page - <https://betapage.co/>

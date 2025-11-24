@@ -2,9 +2,19 @@
 
 A curated list of awesome Discord communities for programmers
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mhxion/awesome-discord-communities/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) · ⭐ 2.7K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/mhxion/awesome-discord-communities/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) · ⭐ 3.3K · 🏷️ Gaming
 
 [ Daily / [Weekly](/content/mhxion/awesome-discord-communities/week/README.md) / [Overview](/content/mhxion/awesome-discord-communities/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Cooklang
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cooklang.webp">
+
+[**Cooklang**](https://discord.gg/fUVVvUzEEK) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://cooklang.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/cooklang) \
+Notable Channels: `#for-cooks`, `#sharing-recipes`, `#for-coders-general`, `#markup-discussion`, `#showcase`, `#cooklang-rs`, `#cooklang-ts` \
+Language: English <br>
 
 ## [Jul 26, 2024](/content/2024/07/26/README.md)
 
@@ -632,6 +642,12 @@ Language: English \ <br>
 [**Discord Linux**](https://discord.com/invite/discord-linux) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/discordlinux) \
 Notable Channels: `#tech`, `#customization`, `#programming`, `#support-linux`, `#support-distro-installs`, `#support-games`, `#support-discord`, `#support-non-linux` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/linux_audio.webp">
+
+[**Linux Audio**](https://discord.com/invite/TNNds5BWe6) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/linuxaudio/) \
+Notable Channels: `#demo-feedback`, `#music-promotion`, `#audio-plugin-discussion`, `#daw-discussion`, `#sound-design-discussion`, `#linux-audio-setup`, `#troubleshooting` \
+Language: English \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/linux_cafe.webp">
 

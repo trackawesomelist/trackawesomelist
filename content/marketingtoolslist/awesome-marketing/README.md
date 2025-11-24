@@ -2,9 +2,20 @@
 
 A curated list of awesome marketing tools and resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 151 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/marketingtoolslist/awesome-marketing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 marketingtoolslist/awesome-marketing](https://github.com/marketingtoolslist/awesome-marketing) · ⭐ 204 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/marketingtoolslist/awesome-marketing/week/README.md) / [Overview](/content/marketingtoolslist/awesome-marketing/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### SEO (Search Engine Optimization) / SERP Tracking
+
+*   [Serplux](https://www.serplux.com) - \[Review]\([https://serplux.com/premium](https://serplux.com/premium/agent) - All-in-one marketing toolkit for SEO, PPC, and content marketing.
+*
+
+### Customer Relationship Management (CRM) / CRM Software
+
+*   [Django CRM](https://djangocrm.github.io/info) - [Review](https://djangocrm.github.io/info/features/overview) - CRM Software with Tasks management, Email marketing and many more, created for individual use by businesses of any size or freelancers and is designed to provide easy customization and quick development.
 
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
@@ -28,7 +39,7 @@ A curated list of awesome marketing tools and resources
 
 ### Online Resources and Courses / Digital Asset Management (DAM)
 
-*   **[Awesome AI Marketing (⭐46)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
+*   **[Awesome AI Marketing (⭐71)](https://github.com/sarahdanesh/awesome-ai-marketing)** - A curated list of AI Tools for Marketing
 
 ## [Dec 20, 2024](/content/2024/12/20/README.md)
 

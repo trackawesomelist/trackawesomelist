@@ -2,7 +2,7 @@
 
 A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/friedger/awesome-stacks-chain/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 friedger/awesome-stacks-chain](https://github.com/friedger/awesome-stacks-chain) · ⭐ 98 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/friedger/awesome-stacks-chain/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 friedger/awesome-stacks-chain](https://github.com/friedger/awesome-stacks-chain) · ⭐ 114 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/friedger/awesome-stacks-chain/README.md) / [Weekly](/content/friedger/awesome-stacks-chain/week/README.md) / Overview ]
 
@@ -69,8 +69,8 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Sigle](https://www.sigle.io/) - Decentralized writing platform.
 *   [Console](https://www.console.xyz/) - Decentralized community application.
 *   [Blocksurvey](https://blocksurvey.io/) - AI-driven survey platform with focus on data ownership and privacy.
-*   [MultiSafe (⭐26)](https://github.com/Trust-Machines/multisafe) - MultiSafe is a shared crypto vault for managing Stacks (STX) and Bitcoin (BTC).
-*   [Charisma (⭐1)](https://github.com/pointblankdev/dungeon-master) - Community-run memecoin DAO on the Stacks blockchain.
+*   [MultiSafe (⭐28)](https://github.com/Trust-Machines/multisafe) - MultiSafe is a shared crypto vault for managing Stacks (STX) and Bitcoin (BTC).
+*   [Charisma (⭐5)](https://github.com/pointblankdev/dungeon-master) - Community-run memecoin DAO on the Stacks blockchain.
 
 ### Blockchain Name System
 
@@ -84,13 +84,13 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 ### DeFi
 
 *   [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
-*   [Arkadiko Protocol (⭐62)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
+*   [Arkadiko Protocol (⭐71)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
 *   [Bitflow](https://www.bitflow.finance/) - Decentralized Exchange.
 *   [Velar](https://www.velar.co/) - Swapping, trading, launching assets on premier Bitcoin L2s.
 *   [Zest Protocol](https://www.zestprotocol.com/) - Decentralized borrowing and lending on Bitcoin and Stacks.
-*   [STX20 (⭐26)](https://github.com/fess-v/stx20-standard) - Protocol to create and share digital artifacts on Stacks.
+*   [STX20 (⭐28)](https://github.com/fess-v/stx20-standard) - Protocol to create and share digital artifacts on Stacks.
 *   [STXTools](https://stxtools.io/) - Charts, transactions, price alerts for DeFi on Stacks.
-*   [Stacks Pulse (⭐10)](https://github.com/pradel/stackspulse) - Real-time on-chain Stats for Stacks DeFi.
+*   [Stacks Pulse (⭐14)](https://github.com/pradel/stackspulse) - Real-time on-chain Stats for Stacks DeFi.
 *   [Signal21](https://signal21.io/) - On-chain analysis for Bitcoin L1, L2 and Dapps.
 *   [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol (discontinued).
 *   [CityCoins](https://minecitycoins.com) - Tokens for cities (winding down).
@@ -104,7 +104,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 *   [Lock Stacks](https://lockstacks.com) - App to stack Stacks token directly or with a pool.
 *   [Fast pool](https://fastpool.org/) - Trust minimized stacking pool.
-*   [PlanBetter pool](https://planbetter.org/) - Stacking pool with Bitcoin rewards.
+*   [PlanBetter pool](https://planbetter.com/) - Stacking pool with Bitcoin rewards.
 *   [Xverse pool](https://pool.xverse.app/) - Stacking pool built into Xverse mobile app.
 *   [Stacking DAO](https://www.stackingdao.com/) - Liquid stacking on Stacks.
 *   [Lisa](https://app.lisalab.io) - Liquid stacking on Stacks using rebasing.
@@ -113,9 +113,9 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 ### Developer Tools
 
-*   [Clarinet (⭐290)](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
-*   [Clariform (⭐11)](https://github.com/njordhov/clariform) - Linter and formatter for Clarity.
-*   [Clarigen (⭐28)](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
+*   [Clarinet (⭐328)](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+*   [Clariform (⭐14)](https://github.com/njordhov/clariform) - Linter and formatter for Clarity.
+*   [Clarigen (⭐32)](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 *   [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 *   [ClarityGPT Prompt](https://claritygpt.com/) - Writing smart contracts with a chat bot.
 *   [Hiro Platform](https://platform.hiro.so/) - In-browser IDE.
@@ -123,32 +123,32 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 ### Example Contracts
 
 *   [Source of Clarity](https://source-of-clarity.com) - Listing of all deployed Clarity contracts on mainnet with some comments.
-*   [Example Contracts (⭐6)](https://github.com/hirosystems/clarity-examples) - A collection of sample smart contracts to serve as a starting point for writing your own.
-*   [Audited Example Smart Contracts (⭐63)](https://github.com/clarity-lang/book/tree/main/projects) - Another collection of smart contract examples, these have been audited for security.
+*   [Example Contracts (⭐12)](https://github.com/hirosystems/clarity-examples) - A collection of sample smart contracts to serve as a starting point for writing your own.
+*   [Audited Example Smart Contracts (⭐77)](https://github.com/clarity-lang/book/tree/main/projects) - Another collection of smart contract examples, these have been audited for security.
 
 ### Libraries
 
-*   [uint256 (⭐5)](https://github.com/KStasi/clarity-uint256-lib) - A library for converting values into 256-bits.
-*   [clarity-bitcoin (⭐16)](https://github.com/friedger/clarity-bitcoin) - A library to verify Bitcoin transactions.
+*   [uint256 (⭐9)](https://github.com/KStasi/clarity-uint256-lib) - A library for converting values into 256-bits.
+*   [clarity-bitcoin (⭐20)](https://github.com/friedger/clarity-bitcoin) - A library to verify Bitcoin transactions.
 
 ### Contracts
 
-*   [CityCoin (⭐71)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
-*   [SWAPR (⭐51)](https://github.com/psq/swapr) - A Uniswap-like implementation on Stacks 2.0 and Clarity.
-*   [FLEXR (⭐20)](https://github.com/psq/flexr) - An interpretation of Ampleforth for Stacks.
-*   [ClarityDAO (⭐22)](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.
-*   [NFT Marketplace (⭐15)](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) - Clarity smart contract for a marketplace of tradable assets.
-*   [StackStarter (⭐13)](https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar) - Clarity smart contract for crowdfunding.
-*   [Lightning Swaps (⭐0)](https://github.com/radicleart/clarity-rstack/blob/master/contracts/lightning-swaps-v1.clar) - Fraud-proof swaps using Lightning Network.
+*   [CityCoin (⭐70)](https://github.com/citycoins/citycoin) - An implementation of PoX lite using STX transfers to mint new coins using proportional probabilities.
+*   [SWAPR (⭐53)](https://github.com/psq/swapr) - A Uniswap-like implementation on Stacks 2.0 and Clarity.
+*   [FLEXR (⭐22)](https://github.com/psq/flexr) - An interpretation of Ampleforth for Stacks.
+*   [ClarityDAO (⭐23)](https://github.com/friedger/clarity-dao) - A conversion of Moloch DAO in Clarity.
+*   [NFT Marketplace (⭐16)](https://github.com/friedger/clarity-marketplace/blob/master/contracts/market.clar) - Clarity smart contract for a marketplace of tradable assets.
+*   [StackStarter (⭐14)](https://github.com/MarvinJanssen/stackstarter/blob/master/contracts/stackstarter.clar) - Clarity smart contract for crowdfunding.
+*   [Lightning Swaps (⭐1)](https://github.com/radicleart/clarity-rstack/blob/master/contracts/lightning-swaps-v1.clar) - Fraud-proof swaps using Lightning Network.
 *   [Election Voting (⭐1)](https://github.com/elbaruni/clarity-election/blob/master/contracts/election.clar) - Basic voting for candidates using Clarity.
 *   [DualX (⭐3)](https://github.com/westridgeblockchain/dualX) - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
-*   [ExecutorDAO (⭐43)](https://github.com/MarvinJanssen/executor-dao) - A Clarity framework for building DAO functionality into your smart contracts.
+*   [ExecutorDAO (⭐48)](https://github.com/MarvinJanssen/executor-dao) - A Clarity framework for building DAO functionality into your smart contracts.
 *   [Digital Will (⭐1)](https://github.com/LoRdSoban/Cryptonomers) - Conditional fund transfers.
 
 ### Non-Fungible Tokens
 
 *   [This is #1](https://www.thisisnumberone.com) - The first professional NFT built on Bitcoin and the Stacks blockchain ([contract](https://explorer.hiro.so/txid/SP3QSAJQ4EA8WXEDSRRKMZZ29NH91VZ6C5X88FGZQ.thisisnumberone-v2?chain=mainnet)).
-*   [Smart Contract GPT (⭐5)](https://github.com/Markeljan/smart-contract-gpt) - Chat bot trained to create SIP-009 contracts.
+*   [Smart Contract GPT (⭐9)](https://github.com/Markeljan/smart-contract-gpt) - Chat bot trained to create SIP-009 contracts.
 
 ### Fungible Tokens
 
@@ -156,20 +156,20 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 ### Stacking
 
-*   [Stacking Pools (⭐1)](https://github.com/friedger/clarity-stacking-pools) - Wrapper contracts of PoX for stacking pools.
+*   [Stacking Pools (⭐3)](https://github.com/friedger/clarity-stacking-pools) - Wrapper contracts of PoX for stacking pools.
 *   [Stacks Pools (⭐0)](https://github.com/degen-lab/stacks-pools) - Decentralized Stacking Pool.
 
 ## App Development
 
 ### Client Libraries
 
-*   [Stacks.js (⭐937)](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
-*   [stacks.rs (⭐4)](https://github.com/52/stacks.rs) - A Rust toolkit to interact with the Stacks Blockchain.
-*   [stacks.py (⭐2)](https://github.com/rohitverma007/stackspy) - Python Library to interact with the Stacks blockchain.
+*   [Stacks.js (⭐970)](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
+*   [stacks.rs (⭐7)](https://github.com/52/stacks.rs) - A Rust toolkit to interact with the Stacks Blockchain.
+*   [stacks.py (⭐4)](https://github.com/rohitverma007/stackspy) - Python Library to interact with the Stacks blockchain.
 
 ### CLI
 
-*   [@stacks/cli (⭐937)](https://github.com/hirosystems/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
+*   [@stacks/cli (⭐970)](https://github.com/hirosystems/stacks.js/tree/master/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
 
 ### Storage
 
@@ -183,7 +183,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Quicknode](https://www.quicknode.com/chains/stx) - Hosted ednpoint to quickly and easily connect to Stacks using Quicknode.
 *   [Self-Hosted Render (⭐10)](https://github.com/stacksfoundation/render-stacks) - One-click deploy tool to self-host a Stacks node on Render.
 *   [Self-Hosted Digital Ocean](https://marketplace.digitalocean.com/apps/stacks-blockchain) - Digital Ocean droplet for running a Stacks node.
-*   [Self-Hosted Docker (⭐26)](https://github.com/stacks-network/stacks-blockchain-docker) - Tool to run a self-hosted Stacks node with Docker.
+*   [Self-Hosted Docker (⭐33)](https://github.com/stacks-network/stacks-blockchain-docker) - Tool to run a self-hosted Stacks node with Docker.
 
 ## Learning Resources
 

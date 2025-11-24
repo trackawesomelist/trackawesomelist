@@ -2,7 +2,7 @@
 
 Find primary sources online and learn how to research history digitally.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 268 · 🏷️ Health and Social Science
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/maehr/awesome-digital-history/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 maehr/awesome-digital-history](https://github.com/maehr/awesome-digital-history) · ⭐ 282 · 🏷️ Health and Social Science
 
 [ [Daily](/content/maehr/awesome-digital-history/README.md) / [Weekly](/content/maehr/awesome-digital-history/week/README.md) / Overview ]
 
@@ -91,6 +91,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [LexM](https://www.lexm.uni-hamburg.de/content/index.xml) - Encyclopedia of musicians persecuted during the Nazi era.
 *   [MARCHIVUM](https://druckschriften-digital.marchivum.de/) - Collection of Mannheim newspapers and historical printed matter on the history of Mannheim.
 *   [Projekt Gutenberg](https://www.projekt-gutenberg.org/) - Contains 10'000 works by over 2'000 authors in German.
+*   [Scripta Paedagogica](https://scripta.bbf.dipf.de/viewer/index/) - Collection of archival material and digitized journals in the field of history of education.
 *   [SLUB Dresden](https://digital.slub-dresden.de/kollektionen/) - Over 1.8 million graphic media (photographs, maps, drawings).
 *   [Spiegel Online](https://www.spiegel.de/dienste/besser-surfen-auf-spiegel-online-suchen-im-archiv-a-676489.html) - SPIEGEL archive since 1947.
 *   [UB Heidelberg](https://www.ub.uni-heidelberg.de/helios/digi/digilit.html) - Manuscripts, documents, maps and literature.
@@ -188,6 +189,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 *   [Crafting Digital History](http://workbook.craftingdigitalhistory.ca/) - A Workbook for Methods and Readings in Digital History.
 *   [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) - Introduction to the web for historians, who wish to produce online historical work.
 *   [Geospatial Historian](https://geospatialhistorian.wordpress.com/) - Open HGIS Lessons and Resources.
+*   [Grundlagen, Methoden und Anwendungen der Digital History](https://dh-erfurt.github.io/digital-history/home.html) - Teaching and collaborative resources for digital history (University of Erfurt).
 *   [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - Online course for Methods and Readings in Digital History.
 *   [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - History Toolkit for Students.
 *   [Introduction to Digital History](https://wissen-ist-acht.github.io/digitalhistory.intro/) - This guide, created in the fall semester of 2022, accompanies the introductory courses in history at the University of Basel and is intended to provide a first insight into the field of digital history.
@@ -201,14 +203,14 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ## More Awesome
 
-*   [Computer History (⭐2.8k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
-*   [Data Visualization (⭐4k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
+*   [Computer History (⭐2.9k)](https://github.com/watson/awesome-computer-history) - An Awesome List of computer history videos, documentaries and related folklore.
+*   [Data Visualization (⭐4.1k)](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 *   [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
-*   [Research Tools (⭐2.3k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-*   [Scientific Writing (⭐822)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
+*   [Research Tools (⭐2.4k)](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
+*   [Scientific Writing (⭐875)](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
 *   [Tempopedia](https://tempopedia.org/) - Digital History Directory.
 
 ## Contribute
 
-Contributions welcome! Read the [CONTRIBUTING.md (⭐268)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first.
+Contributions welcome! Read the [CONTRIBUTING.md (⭐282)](https://github.com/maehr/awesome-digital-history/blob/main/CONTRIBUTING.md) first.
 

@@ -2,9 +2,35 @@
 
 🍎 🖥 🎆 A curated list of screensavers for Mac OS X
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 4.1K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agarrharr/awesome-macos-screensavers/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) · ⭐ 4.2K · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/agarrharr/awesome-macos-screensavers/week/README.md) / [Overview](/content/agarrharr/awesome-macos-screensavers/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Collections
+
+### macOS Live Screensaver
+
+> Plays live video streams from YouTube and HLS sources.
+
+Free (Open Source)
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/macosLiveScreensaver.png)](https://github.com/hauxir/macos-live-screensaver)
+
+### License
+
+### Bjorn Johansson
+
+> Digital art in the form of screensavers by designer Bjorn Johansson.
+
+Free (pay what you want)
+
+[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/johansson.png)](https://vsxop.com/work/screensavers)
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
 
 ## [Jun 12, 2025](/content/2025/06/12/README.md)
 
@@ -117,7 +143,7 @@ Free
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/MinimalClock.png)](https://github.com/mattiarossini/MinimalClock)
 
-### Collections
+### Other
 
 ### Last Statement
 
@@ -278,22 +304,6 @@ Donationware
 > PongSaver is an macOS screensaver/clock which keeps time by using the score of a game of Pong. The left side wins once an hour, and the right side wins once a minute.
 
 [![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/pongSaver.png)](https://mikeash.com/software/pongsaver/)
-
-## [Nov 06, 2017](/content/2017/11/06/README.md)
-
-### License
-
-### Bjorn Johansson
-
-> Digital art in the form of screensavers by designer Bjorn Johansson.
-
-Free (pay what you want)
-
-[![](https://github.com/agarrharr/awesome-macos-screensavers/raw/master/screenshots/johansson.png)](https://johansson.design/projects/)
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
 
 ## [Jun 09, 2017](/content/2017/06/09/README.md)
 

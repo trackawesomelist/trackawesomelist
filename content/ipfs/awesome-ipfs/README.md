@@ -6,6 +6,12 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 [ Daily / [Weekly](/content/ipfs/awesome-ipfs/week/README.md) / [Overview](/content/ipfs/awesome-ipfs/readme/README.md) ]
 
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Tools
+
+*   [Omnipin (⭐41)](https://github.com/omnipin/omnipin) - The ultimate decentralized website deployment toolkit.
+
 ## [Jul 14, 2025](/content/2025/07/14/README.md)
 
 ### Tools
@@ -20,12 +26,6 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 *   [Storacha](https://storacha.network) - Super hot decentralized data at scale.
 
-## [Feb 14, 2025](/content/2025/02/14/README.md)
-
-### Tools
-
-*   [Blumen (⭐20)](https://github.com/StauroDEV/blumen) - Blumen is a CLI to deploy apps on the decentralized web using IPFS and Ethereum
-
 ## [Jan 31, 2025](/content/2025/01/31/README.md)
 
 ### Debugging Tools & Learning
@@ -34,7 +34,7 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 *   [CID Inspector](https://cid.ipfs.tech/)
 *   [File to UnixFS DAG](https://dag.ipfs.tech/)
 *   [IPLD Explorer](https://explore.ipld.io)
-*   [IPNS Inspector (⭐10)](https://github.com/ipfs/ipns-inspector)
+*   [IPNS Inspector (⭐15)](https://github.com/ipfs/ipns-inspector)
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
@@ -46,15 +46,15 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 ### Apps
 
-*   [IPFS Share (⭐165)](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files directly from the browser using IPFS.
+*   [IPFS Share (⭐166)](https://github.com/ipfs-shipyard/ipfs-share-files) - Share files directly from the browser using IPFS.
 *   [Planet (⭐1.7k)](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites with IPFS on your Mac
-*   [TeaTime (⭐523)](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub.
+*   [TeaTime (⭐528)](https://github.com/bjesus/teatime) - A fully static distributed library system powered by IPFS, SQLite and GitHub.
 
 ## [Nov 12, 2024](/content/2024/11/12/README.md)
 
 ### Apps
 
-*   [hyprspace (⭐169)](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks.
+*   [hyprspace (⭐199)](https://github.com/hyprspace/hyprspace) - A Lightweight VPN Built on top of IPFS + Libp2p for Truly Distributed Networks.
 
 ## [Sep 17, 2024](/content/2024/09/17/README.md)
 
@@ -72,7 +72,7 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 ### Tools
 
-*   [sourcify (⭐856)](https://github.com/ethereum/sourcify) - Decentralized Solidity contract source code verification service
+*   [sourcify (⭐881)](https://github.com/ethereum/sourcify) - Decentralized Solidity contract source code verification service
 
 ### Services & Platforms
 
@@ -102,8 +102,8 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 *   [Anytype](https://github.com/anyproto) - Anytype is a no-code, modular web builder designed to give ownership back to creators. It's built on our private, local-first, p2p-synced and open Anysync protocol.
 *   [Durin](https://durin.site/) - Mobile app for accessing and uploading content on the IPFS network.
-*   [Mintter (⭐168)](https://github.com/MintterHypermedia/mintter) - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
-*   [orbitchat.dev (⭐27)](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
+*   [Mintter (⭐170)](https://github.com/MintterHypermedia/mintter) - Mintter Hypermedia is an open system, built on IPFS, that allows communities to collaborate on content that is structured and deeply linked. All content in the system is cryptographically signed, versioned, and made permanent with IPFS.
+*   [orbitchat.dev (⭐28)](https://github.com/cppshane/orbit-chat) - Ultra simple chatrooms on the web.
 
 ### Browsers
 
@@ -112,7 +112,7 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 ### Tools
 
-*   [dScan (⭐44)](https://github.com/p2plabsxyz/dscan) - A browser extension that uploads the content to Web3.Storage and generates QR codes for CIDs.
+*   [dScan (⭐45)](https://github.com/p2plabsxyz/dscan) - A browser extension that uploads the content to Web3.Storage and generates QR codes for CIDs.
 *   [Pin Tweet to IPFS (⭐31)](https://github.com/meandavejustice/pin-tweet-to-ipfs) - Web Extension which creates a WebArchiveZip of a tweet and adds to IPFS network.
 
 ### Services & Platforms
@@ -128,30 +128,30 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 ### Apps
 
-*   [archiveweb.page (⭐1k)](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
+*   [archiveweb.page (⭐1.1k)](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers with support for IPFS.
 *   [brig (⭐574)](https://github.com/sahib/brig) - File synchronization with git like interface and FUSE filesystem.
-*   [Diffuse (⭐838)](https://github.com/icidasset/diffuse) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
+*   [Diffuse (⭐856)](https://github.com/icidasset/diffuse) - Play music from your IPFS node, or any other cloud/distributed storage service you use.
 *   [IPFS-FPS (⭐6)](https://github.com/underscoredLabs/webgl-ipfs-fps) - A completely decentralized first person shooter. Built with Unity, Fleek, Unstoppable Domans and Pinata.
-*   [killcord (⭐522)](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
-*   [Peer Web Site (⭐187)](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
-*   [Peergos (⭐2.2k)](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
+*   [killcord (⭐521)](https://github.com/nomasters/killcord) - A censorship resistant deadman's switch
+*   [Peer Web Site (⭐193)](https://github.com/Weedshaker/PeerWebSite) - Peer to Peer Web Site hosting at your fingertips! Send full featured HTML (incl. CSS, JS) sites from your browser and attach files eg. videos, images, etc.
+*   [Peergos (⭐2.3k)](https://github.com/Peergos/Peergos) - End-to-end encrypted, peer-to-peer file storage and sharing.
 
 ### Browsers
 
-*   [galacteek (⭐168)](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
+*   [galacteek](https://github.com/pinnaculum/galacteek) - A multi-platform Qt5-based browser for the distributed web.
 
 ### Tools
 
-*   [Git IPFS Remote Bridge (⭐25)](https://github.com/ElettraSciComp/Git-IPFS-Remote-Bridge) - set of programs written in Python 3 which allow Git user to clone, push, fetch, self-host or release Git repositories over IPFS decentralized data storage system.
+*   [Git IPFS Remote Bridge (⭐29)](https://github.com/ElettraSciComp/Git-IPFS-Remote-Bridge) - set of programs written in Python 3 which allow Git user to clone, push, fetch, self-host or release Git repositories over IPFS decentralized data storage system.
 *   [IPFS Setup Action (⭐21)](https://github.com/ibnesayeed/setup-ipfs) - A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment on GitHub's CI platform.
 *   [ipfs-publish (⭐67)](https://github.com/auhau/ipfs-publish/) - Continuous Delivery tool for delivery of static websites from Git providers to IPFS.
 *   [ipfs-video-gateway (⭐46)](https://github.com/bneijt/ipfs-video-gateway) - Cloud-init your own IPFS gateway on a cloud provider and easily pin content through a simple web interface.
-*   [IPLD Explorer (⭐126)](https://github.com/ipfs-shipyard/ipld-explorer) - Explore the Merkle Forest from the comfort of your browser.
-*   [youtube2ipfs (⭐24)](https://github.com/dokterbob/youtube2ipfs) - Download videos from YouTube (and similar video platforms) and add them to IPFS.
+*   [IPLD Explorer (⭐130)](https://github.com/ipfs-shipyard/ipld-explorer) - Explore the Merkle Forest from the comfort of your browser.
+*   [youtube2ipfs (⭐25)](https://github.com/dokterbob/youtube2ipfs) - Download videos from YouTube (and similar video platforms) and add them to IPFS.
 
 ### Debugging Tools & Learning
 
-*   [Public Gateway Checker (⭐2k)](https://github.com/ipfs/public-gateway-checker)
+*   [Public Gateway Checker (⭐2.1k)](https://github.com/ipfs/public-gateway-checker)
 
 ### Services & Platforms
 
@@ -174,7 +174,7 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 *   [rivet (⭐12)](https://github.com/wabarc/rivet) - A toolkit makes it easier to archive webpages to IPFS.
 *   [solid-ipfs](https://github.com/Eximua/solid-ipfs) - Using Solid to store IPFS Hash privately or publicly.
-*   [VIPFS (⭐306)](https://github.com/Ideea-inc/vipfs) - Publish your Vue apps easily to IPFS.
+*   [VIPFS (⭐307)](https://github.com/Ideea-inc/vipfs) - Publish your Vue apps easily to IPFS.
 
 ## [Jul 03, 2022](/content/2022/07/03/README.md)
 
@@ -186,7 +186,7 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 ### Apps
 
-*   [ipfs-chat (⭐144)](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
+*   [ipfs-chat (⭐148)](https://github.com/SomajitDey/ipfs-chat) - Terminal-based, encrypted chatrooms. Allows private messaging & secure in-chat file/directory sharing. Server/broker-less (no signaling/rendezvous server needed). Works over LAN/internet(w/ NAT-traversal).
 
 ## [Apr 06, 2021](/content/2021/04/06/README.md)
 
@@ -211,19 +211,19 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 ### Tools
 
-*   [Multiverse (⭐84)](https://github.com/multiverse-vcs/go-multiverse) - Multiverse is a decentralized version control system that enables peer-to-peer software development.
+*   [Multiverse (⭐85)](https://github.com/multiverse-vcs/go-multiverse) - Multiverse is a decentralized version control system that enables peer-to-peer software development.
 
 ## [Oct 26, 2020](/content/2020/10/26/README.md)
 
 ### Browsers
 
-*   [Agregore (⭐836)](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
+*   [Agregore (⭐866)](https://github.com/AgregoreWeb/agregore-browser) - A minimal web browser for the distributed web. Supports downloading/uploading data from IPFS using the browser's `fetch()` API
 
 ## [Jun 07, 2020](/content/2020/06/07/README.md)
 
 ### Tools
 
-*   [gomobile-ipfs (⭐342)](https://github.com/ipfs-shipyard/gomobile-ipfs) - IPFS and libp2p on Mobile, with Gomobile.
+*   [gomobile-ipfs (⭐352)](https://github.com/ipfs-shipyard/gomobile-ipfs) - IPFS and libp2p on Mobile, with Gomobile.
 
 ## [Mar 27, 2020](/content/2020/03/27/README.md)
 
@@ -235,7 +235,7 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 ### Tools
 
-*   [ipfs-action (⭐183)](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
+*   [ipfs-action (⭐182)](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
 
 ## [Feb 19, 2020](/content/2020/02/19/README.md)
 
@@ -259,7 +259,7 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 ### Tools
 
-*   [go-orbit-db (⭐443)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
+*   [go-orbit-db (⭐449)](https://github.com/berty/go-orbit-db) - This is a Golang port of OrbitDB that intends to be fully compatible with the original JavaScript version. OrbitDB is a serverless, distributed, peer-to-peer database.
 
 ## [Sep 01, 2019](/content/2019/09/01/README.md)
 
@@ -271,7 +271,7 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 ### Tools
 
-*   [orbit-db (⭐8.6k)](https://github.com/orbitdb/orbit-db) - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
+*   [orbit-db (⭐8.7k)](https://github.com/orbitdb/orbit-db) - OrbitDB is a serverless, distributed, peer-to-peer database that uses IPFS as its data storage and IPFS Pubsub to automatically sync databases with peers.
 
 ## [Jul 15, 2019](/content/2019/07/15/README.md)
 
@@ -289,20 +289,20 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 ### Tools
 
-*   [IPDR (⭐548)](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.
+*   [IPDR (⭐550)](https://github.com/miguelmota/ipdr) - IPFS-backed Docker Registry.
 *   [mahuta (⭐243)](https://github.com/ConsenSys/Mahuta) - Mahuta is a plug and play service for your micro-service architecture allowing to collect, store and index data on IPFS and offering search functionalities (full text, query).
 
 ## [Nov 01, 2018](/content/2018/11/01/README.md)
 
 ### Apps
 
-*   [Autonomica "IPFS Social Proof" (⭐148)](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
+*   [Autonomica "IPFS Social Proof" (⭐150)](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 
 ## [Aug 20, 2018](/content/2018/08/20/README.md)
 
 ### Apps
 
-*   [IPFS Desktop (⭐6.3k)](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
+*   [IPFS Desktop (⭐6.4k)](https://github.com/ipfs-shipyard/ipfs-desktop) - IPFS Desktop gives you all the power of IPFS in a convenient desktop app: a complete IPFS node, plus handy OS menubar/taskbar shortcuts and an all-in-one file manager, peer map, and content explorer.
 
 ## [Aug 03, 2018](/content/2018/08/03/README.md)
 
@@ -314,8 +314,8 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 
 ### Apps
 
-*   [Hardbin (⭐254)](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
-*   [InterPlanetary Wayback (⭐639)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
+*   [Hardbin (⭐255)](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
+*   [InterPlanetary Wayback (⭐645)](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
 *   [Interplanetary Wiki (⭐101)](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 *   [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
 *   [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
@@ -327,8 +327,8 @@ Community list of awesome projects, apps, tools, pinning services and more relat
 *   [http2ipfs (⭐44)](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
 *   [ipfs-add-from-encrypted (⭐53)](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS.
 *   [ipfs-companion (⭐2.1k)](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
-*   [ipfs-mount (⭐149)](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows.
+*   [ipfs-mount (⭐150)](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows.
 *   [ipfs-paste (⭐32)](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS.
 *   [ipfs-screencap (⭐49)](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
-*   [ipget (⭐408)](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
+*   [ipget (⭐415)](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
 *   [IPRedirect (⭐8)](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn't had an extension written for it yet and has support for userscripts.

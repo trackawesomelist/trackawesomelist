@@ -2,7 +2,7 @@
 
 Wardley maps community hub. Useful Wardley mapping resources
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 727 · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 732 · 🏷️ Business
 
 [ [Daily](/content/wardley-maps-community/awesome-wardley-maps/README.md) / [Weekly](/content/wardley-maps-community/awesome-wardley-maps/week/README.md) / Overview ]
 
@@ -179,17 +179,18 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 ### Mapping
 
-*   [OnlineWardleyMaps (⭐272)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [OnlineWardleyMaps (⭐274)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 *   [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Render and edit Wardley maps within Visual Studio Code. This VSCode extention leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
-*   [Wardley Maps for Obsidian.md (⭐9)](https://github.com/damonsk/obsidian-wardley-maps) - Render and edit Wardley maps within Obsidian.md. This community plugin leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [Wardley Maps for Obsidian.md (⭐11)](https://github.com/damonsk/obsidian-wardley-maps) - Render and edit Wardley maps within Obsidian.md. This community plugin leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 *   [Wardley Maps for Jupyter Notebooks (ipywardley) (⭐21)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 *   [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
-*   [Go-Wardley (⭐33)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
+*   [Go-Wardley (⭐34)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 *   [Mapkeep](https://mapkeep.com/) - Multiplayer Wardley Maps at a click of a button. Collaborate on your maps with others. Host your maps for free. For updates, you can follow [@mapkeep on Mastodon](https://mastodon.social/@mapkeep), [@mapkeep on X](https://twitter.com/mapkeep), [mapkeep on LinkedIn](https://www.linkedin.com/company/mapkeep), subscribe to the [YouTube Channel](https://www.youtube.com/@mapkeep), or subscribe to the [News and Updates blog](https://blog.mapkeep.com/).
 *   [Glamorous Toolkit](https://gtoolkit.com) - A moldable and programmable environment in which Wardley Maps can be intertwinned with knowledge management and multi language notebooks. Follow [@feenkcom](https://twitter.com/feenkcom) to learn more.
 *   [Excalidraw](https://excalidraw.com) - Online diagram tool creates quick and easy, handdrawn diagrams and maps. keyboard shortcut '0', browse libraries and Add the "Wardley Maps Symbols" lib.
 *   [Flowchart fun](https://flowchart.fun) - text based tool to generate quick flowcharts. Excellent way to quickly create a Value Chain - very useful in conversation or during a meeting.
 *   [wardleyToGo](https://owulveryck.github.io/wardleyToGo/demo/) is a SDK to do map-as-code **and** a high level language (`wtg`) to express map-as-data. The set of tools allows an easy integration of the map in CI, and the online demo allows to desing maps online.
+*   [Map](https://map.tranquil.systems) - Native macOS app to build wardley maps using its own `wmap` syntax (Apple Silicon only). GPLv3. It includes a QuickLook plugin to preview `wmap` files as images.
 
 ### Doctrine Assessement
 
@@ -232,7 +233,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 ### Mapping
 
 *   [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
-*   [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Templates for Microsoft Visio and PowerPoint.
+*   [Office 365 Wardley Mapping Templates](https://endjin.com/blog/2020/03/office365-wardley-mapping-templates) - Templates for Microsoft Visio and PowerPoint.
 *   [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to guide on mapping using this template.
 *   [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
 *   [wardley-omnigraffle (⭐22)](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.

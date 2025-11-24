@@ -98,6 +98,7 @@ Tools Online
 *   [jsbin](http://jsbin.com/)
 *   [SmallDev.tools - JS formatter](https://smalldev.tools/javascript-formatter-online)
 *   [Flatlogic CRUD Apps Generator](https://flatlogic)
+*   [dhtmlx javascript components](https://dhtmlx.com/docs/products/)
 
 ### Pagespeed
 
@@ -113,7 +114,7 @@ Tools Online
 *   [flatuicolors](http://flatuicolors.com/)
 *   [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 *   [color-hex](http://www.color-hex.com/)
-*   [colors (⭐9.3k)](https://github.com/mrmrs/colors)
+*   [colors (⭐9.4k)](https://github.com/mrmrs/colors)
 *   [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 *   [colourco.de](http://colourco.de)
 *   [flatuicolorpicker](http://www.flatuicolorpicker.com/)
@@ -132,7 +133,7 @@ Tools Online
 *   [fonts2u](http://www.fonts2u.com/index.html)
 *   [webfonts](http://www.fonts.com/web-fonts)
 *   [justfont](http://www.justfont.com/)
-*   [iconpark (⭐362)](https://github.com/lvwzhen/iconpark)
+*   [iconpark (⭐360)](https://github.com/lvwzhen/iconpark)
 *   [FontSquirrel](http://www.fontsquirrel.com/)
 *   [Fontface Ninja](http://fontface.ninja/)
 *   [Easy Fonts](https://pagecdn.com/lib/easyfonts)
@@ -142,6 +143,7 @@ Tools Online
 ### Forms
 
 *   [Form.taxi](https://form.taxi/)
+*   [SmarkForm](https://smarkform.bitifet.net)
 
 ### API Debugging
 
@@ -198,4 +200,5 @@ Tools Online
 
 *   [SmallDev.tools](https://smalldev.tools/)
 *   [Hreflang checker](https://localizely.com/hreflang-checker/)
+*   [giga.tools](https://giga.tools/)
 

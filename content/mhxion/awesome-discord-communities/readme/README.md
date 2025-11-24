@@ -2,7 +2,7 @@
 
 A curated list of awesome Discord communities for programmers
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mhxion/awesome-discord-communities/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) · ⭐ 2.7K · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/mhxion/awesome-discord-communities/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 mhxion/awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) · ⭐ 3.3K · 🏷️ Gaming
 
 [ [Daily](/content/mhxion/awesome-discord-communities/README.md) / [Weekly](/content/mhxion/awesome-discord-communities/week/README.md) / Overview ]
 
@@ -47,6 +47,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
     *   [C#](#c)
     *   [Clojure](#clojure)
     *   [CSS](#css)
+    *   [Cooklang](#cooklang)
     *   [Elixir](#elixir)
     *   [Go](#go)
     *   [Haxe](#haxe)
@@ -106,7 +107,7 @@ A curated list of awesome Discord communities for developers, game engineers, ha
 
 ## How to Navigate
 
-If you're familiar with other popular [awesome lists (⭐318k)](https://github.com/sindresorhus/awesome/blob/main/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/./badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/./CONTRIBUTING.md). Read this [FAQ](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's **privacy policy** and answers to other frequent questions.
+If you're familiar with other popular [awesome lists (⭐417k)](https://github.com/sindresorhus/awesome/blob/main/readme.md), you may find this list a little anomalous. For starters take a look at the available [badges](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/./badges.md). `Notable channels` are exploratory, and can be used for looking up a particular topic. A community may offer channels dedicated to more than one spoken languages that `Language` is there for. You can start contributing from [here](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/./CONTRIBUTING.md). Read this [FAQ](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/./FAQ.md#what-about-discords-poor-privacy-policy) about Discord's **privacy policy** and answers to other frequent questions.
 
 *   A quick lookup from browser `ctrl + f` may help to find communities by a topic
 *   Click on the [<img height="18px" width="18px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](#) or [<img height="18px" width="18px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](#) icon to visit the community's official website or git repository page
@@ -624,6 +625,14 @@ Language: English
 [**Tailwind CSS**](https://discord.com/invite/7NF8GNe) [<img height="16px" width="16px" alt="Official Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/official.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://tailwindcss.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/tailwindcss) \
 Notable Channels: `#help`, `#tailwind-css`, `#core-dev`, `#plugins`, `#docs`, `#tailwind-ui`, `#design`, `#development`, `#showcase` \
 Language: English
+
+### Cooklang
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/cooklang.webp">
+
+[**Cooklang**](https://discord.gg/fUVVvUzEEK) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://cooklang.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/cooklang) \
+Notable Channels: `#for-cooks`, `#sharing-recipes`, `#for-coders-general`, `#markup-discussion`, `#showcase`, `#cooklang-rs`, `#cooklang-ts` \
+Language: English <br>
 
 ### Elixir
 
@@ -1320,6 +1329,12 @@ Language: English \ <br>
 [**Discord Linux**](https://discord.com/invite/discord-linux) [<img height="16px" width="16px" alt="Git Repository" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/git.webp">](https://github.com/discordlinux) \
 Notable Channels: `#tech`, `#customization`, `#programming`, `#support-linux`, `#support-distro-installs`, `#support-games`, `#support-discord`, `#support-non-linux` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/linux_audio.webp">
+
+[**Linux Audio**](https://discord.com/invite/TNNds5BWe6) [<img height="16px" width="16px" alt="Reddit Badge" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/reddit.webp">](https://github.com/mhxion/awesome-discord-communities/blob/main/README.md/badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/badges/homepage.webp">](https://www.reddit.com/r/linuxaudio/) \
+Notable Channels: `#demo-feedback`, `#music-promotion`, `#audio-plugin-discussion`, `#daw-discussion`, `#sound-design-discussion`, `#linux-audio-setup`, `#troubleshooting` \
+Language: English \ <br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://github.com/mhxion/awesome-discord-communities/raw/main/images/server_icons/linux_cafe.webp">
 

@@ -2,7 +2,7 @@
 
 💰 Billing & Payments knowledge for cloud platforms
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-billing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) · ⭐ 1.1K · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/kdeldycke/awesome-billing/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 kdeldycke/awesome-billing](https://github.com/kdeldycke/awesome-billing) · ⭐ 1.2K · 🏷️ Business
 
 [ [Daily](/content/kdeldycke/awesome-billing/README.md) / [Weekly](/content/kdeldycke/awesome-billing/week/README.md) / Overview ]
 
@@ -157,9 +157,9 @@ The dynamic scheme for elastic resources.
 
 *   [Electropedia: Tariffs for electricity](https://www.electropedia.org/iev/iev.nsf/index?openform\&part=691) - Before the cloud, there was another metered resource priced by its usage: electricity. Here is a detailed (and multi-lingual) taxonomy of its vocabulary from the International Electrotechnical Commission.
 
-*   [Lago (⭐7.8k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing in Ruby.
+*   [Lago (⭐8.5k)](https://github.com/getlago/lago) - Open-source metering & usage-based billing in Ruby.
 
-*   [CGRateS (⭐459)](https://github.com/cgrates/cgrates) - An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go.
+*   [CGRateS (⭐469)](https://github.com/cgrates/cgrates) - An open-source, fast (50k+ CPS) and scalable (load-balancer + replication included) real-time billing for ISPs and Telecom Operators, written in Go.
 
 ### Subscription Plans
 
@@ -215,7 +215,7 @@ The central repository of all available services, products, variants, options an
 
 *   [GCP Product Catalog](https://cloud.google.com/blog/products/gcp/introducing-cloud-billing-catalog-api-gcp-pricing-in-real-time) - All GCP SKUs available as an API.
 
-*   [Akeneo PIM (⭐978)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
+*   [Akeneo PIM (⭐987)](https://github.com/akeneo/pim-community-dev) - The open-source variant of the commercial Akeneo products.
 
 *   [Pimcore (⭐3.6k)](https://github.com/pimcore/pimcore) - An open-source UI and database to manage product metadata, written in PHP Symfony.
 
@@ -241,9 +241,9 @@ Help your customers predict their upcoming and future consumption based on their
 
 *   [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - Great introduction on how time series can be used to evaluate business problems.
 
-*   [Forecasting with sktime (⭐9.1k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A more detailed tutorial on how to use past data to make temporal forward predictions. And be aware of the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentioned in the article above.
+*   [Forecasting with sktime (⭐9.3k)](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A more detailed tutorial on how to use past data to make temporal forward predictions. And be aware of the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentioned in the article above.
 
-*   [Darts (⭐8.7k)](https://github.com/unit8co/darts) - Python library for user-friendly forecasting and anomaly detection on time series. It wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
+*   [Darts (⭐8.9k)](https://github.com/unit8co/darts) - Python library for user-friendly forecasting and anomaly detection on time series. It wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
 
 *   [Komiser (⭐4.1k)](https://github.com/mlabouardy/komiser) - Open-source tool to stay under budget by uncovering hidden costs, monitoring increases in spend, and making impactful changes based on custom recommendations.
 
@@ -259,9 +259,9 @@ A marketplace connect supply with demand that lead to a financial transaction. I
 
 *   [Customized Regression Model for Airbnb Dynamic Pricing](https://www.kdd.org/kdd2018/accepted-papers/view/customized-regression-model-for-airbnb-dynamic-pricing) - This paper describes the pricing strategy model deployed at Airbnb.
 
-*   [Papers we love: Auctions and Bidding (⭐95k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
+*   [Papers we love: Auctions and Bidding (⭐98k)](https://github.com/papers-we-love/papers-we-love/tree/master/economics#auctions-and-bidding) - A collection of papers on bidding and auctions.
 
-*   [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - Hinted by an [HN comment](https://news.ycombinator.com/item?id=19145391), in which yes, “‘Asking people what they'd pay for and how much rarely works.’ (…) \[but] using a Vickrey auction, similar to Google's ad auction mechanism, can elicit a person's maximum willingness-to-pay.”
+*   [Vickrey auction](https://en.wikipedia.org/wiki/Vickrey_auction) - Hinted by an [HN comment](https://news.ycombinator.com/item?id=19145391), in which yes, “‘Asking people what they'd pay for and how much rarely works.’ (…) Using a Vickrey auction, similar to Google's ad auction mechanism, can elicit a person's maximum willingness-to-pay.”
 
 *   [19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace](https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem) - “Which comes first, the supply or the demand? Chicken or egg?”
 
@@ -337,17 +337,17 @@ Everything you need to know about the daily practice of keeping your accounting 
 
 *   [GnuCash Tutorial and Concepts Guide](https://www.gnucash.org/docs/v2.4/C/gnucash-guide/) - A complete tutorial on personal finance tracking with GnuCash.
 
-*   [Frappe Books (⭐3.4k)](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
+*   [Frappe Books (⭐3.8k)](https://github.com/frappe/books) - Free Desktop book-keeping software for small-businesses and freelancers.
 
-*   [Luca (⭐70)](https://github.com/brandon-rhodes/luca) - YAML accounting and JSON tax forms.
+*   [Luca (⭐71)](https://github.com/brandon-rhodes/luca) - YAML accounting and JSON tax forms.
 
-*   [Sequence (⭐498)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
+*   [Sequence (⭐501)](https://github.com/decimals/sequence) - API that store, validate and reports asset movements. Also known as a Ledger. Sequence is immutable, scalable, and easy to use.
 
-*   [Go DB Ledger (⭐498)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
+*   [Go DB Ledger (⭐504)](https://github.com/darcys22/godbledger) - An open source accounting system that aims to make the recording of double entry bookkeeping transactions programmable.
 
-*   [Ledger (⭐986)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
+*   [Ledger (⭐1k)](https://github.com/numary/ledger) - A scriptable financial ledger, designed to make it easy to model complex financial transactions.
 
-*   [Akaunting (⭐8.7k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
+*   [Akaunting (⭐9.2k)](https://github.com/akaunting/akaunting) - Open source software designed for small businesses and freelancers.
 
 ### Software design and implementation
 
@@ -357,13 +357,13 @@ Now that you're somewhat familiar with the concepts and practice of accounting, 
 
 *   [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/) - Explain the basic data model of a double-entry accounting system relying on Google Spanner for internal use at Square.
 
-*   [TigerBeetle (⭐13k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between. It has been [tested on Jepsen](https://jepsen.io/analyses/tigerbeetle-0.16.11), which tested its strong serializability.
+*   [TigerBeetle (⭐14k)](https://github.com/coilhq/tigerbeetle) - A distributed financial accounting database to ensure that the money either moves, or doesn't move, that it doesn't get lost somewhere in between. It has been [tested on Jepsen](https://jepsen.io/analyses/tigerbeetle-0.16.11), which tested its strong serializability.
 
 *   [Django Hordak](https://django-hordak.readthedocs.io) - Core functionality of a double entry accounting system for Django.
 
-*   [Managed accounts for Django (⭐215)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
+*   [Managed accounts for Django (⭐216)](https://github.com/django-oscar/django-oscar-accounts) - A 'managed account' is an allocation of money that can be debited and credited.
 
-*   [Triple‐entry accounting with blockchain: How far have we come?](https://sci-hub.st/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with blockchain, when properly implemented, can fundamentally improve accounting.”
+*   [Triple‐entry accounting with Blockchain: How far have we come?](https://sci-hub.st/10.1111/acfi.12556) - “Triple‐entry accounting is a new and a more efficient way to address fundamental trust and transparency issues that plague current accounting systems. Triple‐entry accounting with Blockchain, when properly implemented, can fundamentally improve accounting.”
 
 ### Currencies
 
@@ -465,13 +465,13 @@ Once issued, an invoice must be immutable.
 
 *   [Manta (⭐5.3k)](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
 
-*   [InvoicePlane (⭐2.7k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
+*   [InvoicePlane (⭐2.9k)](https://github.com/InvoicePlane/InvoicePlane) - A self-hosted open-source application for managing your invoices, clients and payments.
 
-*   [InvoiceGenerator (⭐174)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
+*   [InvoiceGenerator (⭐177)](https://github.com/by-cx/InvoiceGenerator) - Library to generate a simple invoices.
 
 *   [Ruby Invoicing Framework (⭐265)](https://github.com/code-mancers/invoicing) - For generating and displaying invoices (ideal for commercial Rails apps). It allows for flexible business logic; provides tools for tax handling, commission calculation etc.
 
-*   [klirr (⭐51)](https://github.com/sajjon/klirr) - Zero-maintenance and smart FOSS CLI tool for generating beautiful invoices for services and expenses.
+*   [klirr (⭐90)](https://github.com/sajjon/klirr) - Zero-maintenance and smart FOSS CLI tool for generating beautiful invoices for services and expenses.
 
 ### Extractors
 
@@ -479,7 +479,7 @@ Once issued, an invoice must be immutable.
 
 ### Electronic invoices
 
-*   [Factur-X (⭐243)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
+*   [Factur-X (⭐251)](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 *   [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
 
@@ -507,7 +507,7 @@ Once issued, an invoice must be immutable.
 
 *   [Why was I charged?](https://wpchrg.wordpress.com) - Under a constant stream of user complaints about payments, WordPress created a dedicated subdomains to help customers understand unexpected transactions. The trick was to add this URL directly in the bank statement.
 
-*   [Hyperswitch (⭐21k)](https://github.com/juspay/hyperswitch) - Open-source backend for payment processing.
+*   [Hyperswitch (⭐36k)](https://github.com/juspay/hyperswitch) - Open-source backend for payment processing.
 
 *   [moov](https://github.com/moov-io) - Open-source infrastructure for financial technology.
 
@@ -543,7 +543,7 @@ The old-fashioned way of payment: by the way of banks.
 
 *   [Swift Codes](https://bank.codes/swift-code/) - Swift / BIC codes for personal use only.
 
-*   [Swift Codes Repository (⭐193)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
+*   [Swift Codes Repository (⭐194)](https://github.com/PeterNotenboom/SwiftCodes) - A repository that seems to scrape the website above.
 
 *   [EPC QR code](https://en.wikipedia.org/wiki/EPC_QR_code) - EU standard for QR codes used to transfer money between bank accounts via SEPA.
 
@@ -605,7 +605,7 @@ Synthetic score based on a collection of signals are often the best proxy of use
 
 *   [Digital Ocean's Update on Customer Shutdown Incident](https://blog.digitalocean.com/an-update-on-last-weeks-customer-shutdown-incident/) - Aggressively shutting down user servers is good from a business point of view to prevent fraudster abusing free resources, until it's not.
 
-*   [Awesome Credit Modeling (⭐141)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
+*   [Awesome Credit Modeling (⭐147)](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
 
 ### Statistics
 
@@ -665,7 +665,7 @@ Definition and collection of Key Performance Indicators (KPIs) worth monitoring.
 
 ### Customer Lifetime Value
 
-How much net value do you produce per customer? The Customer Lifetime Value (CLV, or LTV for Life-Time Value) quantify that. Understanding and acting on it is the most important part of your business's sales efforts.
+How much value do you produce per customer? The Customer Lifetime Value (CLV, or LTV for Life-Time Value) quantify that. Understanding and acting on it is the most important part of your business's sales efforts.
 
 *   [You're all calculating churn rates wrong](https://medium.com/swlh/youre-all-calculating-churn-rates-wrong-cbab072cd992) - “On the surface, churn rate may seem like a natural proxy for changes in customer lifetimes. Let's dig into why that is not true.” Churn rate is not a meaningful metric to compute CLV: during the customer lifetime, the churn probability is not constant. Most of the time because of your free trial and vouchers. This article illustrate the influence of the distribution used to model the probability of a customer quitting.
 
@@ -677,7 +677,7 @@ How much net value do you produce per customer? The Customer Lifetime Value (CLV
 
 *   [Churn Prediction](https://towardsdatascience.com/customer-churn-prediction-with-text-and-interpretability-bd3d57af34b1/) - “How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.” Relies on XGBoost binary classification.
 
-*   [PyMC-Marketing (⭐883)](https://github.com/pymc-labs/pymc-marketing) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
+*   [PyMC-Marketing (⭐952)](https://github.com/pymc-labs/pymc-marketing) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
 
 *   [`retentionizer`](https://github.com/chrisclark/retentionizer) - Python package to show the projected retention rates for each cohort and calculate the LTV of a given customer in that cohort.
 
@@ -707,11 +707,11 @@ Software to build visualizations, dashboards, SQL queries and drill down into da
 
 *   [`redash`](https://github.com/getredash/redash) - Connect and query your data sources, build dashboards to visualize data and share them with your company.
 
-*   [Metabase (⭐43k)](https://github.com/metabase/metabase) - Metabase is an open source solution to explore and visualize data and supports lots of databases.
+*   [Metabase (⭐44k)](https://github.com/metabase/metabase) - An open source solution to explore and visualize data and supports lots of databases.
 
-*   [Apache Superset (⭐67k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
+*   [Apache Superset (⭐68k)](https://github.com/apache/incubator-superset) - Enterprise-ready business intelligence web application.
 
-*   [Meltano (⭐2.1k)](https://github.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
+*   [Meltano (⭐2.2k)](https://github.com/meltano/meltano) - Open source convention-over-configuration product for the whole data lifecycle, all the way from loading data to analyzing it.
 
 ## Competitive Analysis
 
@@ -763,7 +763,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 
 ## Footnotes
 
-The [header image (⭐1.1k)](https://github.com/kdeldycke/awesome-billing/blob/main/assets/awesome-billing-header.jpg) is based on a modified [photo](https://unsplash.com/photos/u2zSzMTwIjQ) by [Denny Müller](https://unsplash.com/@redaquamedia).
+The [header image (⭐1.2k)](https://github.com/kdeldycke/awesome-billing/blob/main/assets/awesome-billing-header.jpg) is based on a modified [photo](https://unsplash.com/photos/u2zSzMTwIjQ) by [Denny Müller](https://unsplash.com/@redaquamedia).
 
 <!--lint disable no-undefined-references-->
 

@@ -2,7 +2,7 @@
 
 A curated list of awesome and exceptional board games. Please contribute!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 337 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/edm00se/awesome-board-games/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 edm00se/awesome-board-games](https://github.com/edm00se/awesome-board-games) · ⭐ 346 · 🏷️ Miscellaneous
 
 [ [Daily](/content/edm00se/awesome-board-games/README.md) / [Weekly](/content/edm00se/awesome-board-games/week/README.md) / Overview ]
 
@@ -835,7 +835,7 @@ A curated list of awesome and exceptional board games. Please contribute!
 | ------: | -------: | -----: |
 |       2 |        9 | 30-60m |
 
-### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
+### [Cthulhu Wars](https://shop.petersengames.com/products/cthulhu-wars-o4-edition)
 
 > Cthulhu Wars is a fast-moving strategy game about the end of the world. You take the part of various monstrous aliens seeking to dominate the world. You can play as Great Cthulhu himself, or you can take charge of other factions, such as the slithering hordes of the Crawling Chaos, or the insane minions of the Yellow Sign.
 

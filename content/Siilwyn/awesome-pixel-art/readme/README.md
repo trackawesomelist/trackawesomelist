@@ -2,7 +2,7 @@
 
 Curated list of everything awesome around pixel art.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Siilwyn/awesome-pixel-art/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) · ⭐ 799 · 🏷️ Media
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Siilwyn/awesome-pixel-art/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Siilwyn/awesome-pixel-art](https://github.com/Siilwyn/awesome-pixel-art) · ⭐ 1.1K · 🏷️ Media
 
 [ [Daily](/content/Siilwyn/awesome-pixel-art/README.md) / [Weekly](/content/Siilwyn/awesome-pixel-art/week/README.md) / Overview ]
 
@@ -68,6 +68,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 *   [Super Mario World 2: Yoshi's Island](https://en.wikipedia.org/wiki/Yoshi%27s_Island) - Play as Yoshi carrying Baby Mario, platforming through a dangerous world. The painted feel and soft pastel colors create an hearth-warming handmade style that breathes the charm of a children’s book.
 *   [FEZ](http://www.fezgame.com/) - Explore a 2D retrofuturistic world by rotating in the third dimension. The minimalistic style, bright vibrant colors and dynamic lighting bring the 16-bit era into the future.
 *   [Superbrothers: Sword & Sworcery EP](http://www.swordandsworcery.com/) - Laid back adventure in a bronze age mountain wilderness. Dreamy soft colors in a living world affected by moon phases.
+*   [Undertale](https://undertale.com/) - A story-driven RPG where you explore a world of monsters. Turn-based combat. Retro 16-bit visuals, a rich narrative, and multiple endings based on your choices.
 *   [Shovel Knight: Treasure Trove](http://yachtclubgames.com/shovel-knight/) - Classic action adventure with an 8-bit retro aesthetic, taking the looks of a modern NES game.
 *   [Hyper Light Drifter](https://heartmachine.com/hyper-light) - Top-down action in a sci-fi world that radiates light and warmth. Using a colorful palette and kaleidoscopic neon yet setting a grim ambiance.
 *   [Owlboy](http://www.owlboygame.com/) - Explore a detailed steampunk world in the clouds. With it's range of endearing animations and expressions the world and it's characters come to life.
@@ -100,8 +101,9 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 ### Hubs
 
 *   [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
-*   [Pixelation](http://pixelation.org/)
 *   [Pixel Joint](http://pixeljoint.com/)
+*   [Pixelrepo](https://pixelrepo.com/)
+*   [Lospec](https://lospec.com/)
 
 ## Tools
 
@@ -114,6 +116,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 *   [PixelCraft](https://rgab1508.github.io/PixelCraft/) - Open source and free, works in the browser. Easy to try out in the browser and as a PWA offline.
 *   [rx](https://rx.cloudhead.io/) - Open source and free, works on Linux, macOS and Windows. Minimalist and keyboard driven with animation support.
 *   [Wobblepaint](https://www.lexaloffle.com/bbs/?tid=40058) - Pico8 editor that give life to pixel art with a little wobble.
+*   [Pixelrepo](https://pixelrepo.com/editor) - Free and works in the browser. Import files and palettes, save locally. Minimalist, easy to use, and perfect for quick pixel art editing.
 
 ### Miscellaneous
 

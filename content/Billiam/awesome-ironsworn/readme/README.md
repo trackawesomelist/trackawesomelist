@@ -2,7 +2,7 @@
 
 An awesome list of awesome Ironsworn projects
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 152 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/Billiam/awesome-ironsworn/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 Billiam/awesome-ironsworn](https://github.com/Billiam/awesome-ironsworn) · ⭐ 170 · 🏷️ Gaming
 
 [ [Daily](/content/Billiam/awesome-ironsworn/README.md) / [Weekly](/content/Billiam/awesome-ironsworn/week/README.md) / Overview ]
 
@@ -49,25 +49,31 @@ made by you on those sites when using these links*
 *   [German from System Matters](https://www.system-matters.de/produkt-kategorie/ironsworn/) - Ironsworn rulebook and assets in German
 *   [Portuguese by Rodrigo Marini](https://drive.google.com/drive/folders/1X_tA19udvRFT8wsLBT5sWZAce5ttQ7kc) - Ironsworn SRD and play materials in Portuguese
 *   [Spanish by Samuel Rondón](https://www.patreon.com/posts/ironsworn-in-34784503) - Ironsworn play materials in Spanish
+*   [Ukrainian by Dense Forest Camp](https://dense-forest-camp.itch.io/zalizna-prysiaha-playkit) - Ironsworn play materials in Ukrainian
+
+### Starforged
+
+*   [Polish (Core Oracles only) by Mateusz Czapliński](https://akavel.itch.io/starforged-pl-wyrocznie) - the Core Oracles of Ironsworn: Starforged in Polish
 
 ## Tools
 
+*   [Asset Printouts](https://jaderavens.itch.io/ironsworn-asset-printouts) - Spreadsheet utility for printing off assets for Ironsworn, Starforged, and Sundered Isles
 *   [Asset Workbench](https://effortlessmountain.github.io/ironsworn-asset-workbench/) - Tool for creating custom Ironsworn assets
 *   [The Augur](https://the-augur.itch.io/theaugur) - A virtual tabletop for solo RPGs, based on Ironsworn
 *   [Fusake Play Aid](https://docs.google.com/document/d/191sfXfcrxars0CXgLNN54eCoQRsuPmyd5Qe-IS5Vlhg/view) - Microsoft Excel play-aid for solo Ironsworn play
 *   [Iron Fellowship](https://iron-fellowship.scottbenton.dev/) - Synced character sheet and campaign manager for Ironsworn
 *   [Iron Journal](https://nboughton.uk/apps/ironsworn-campaign/) - Tools and references for running and journaling Ironsworn games
 *   [Iron Vault](https://ironvault.quest) - Ironsworn/Starforged plugin for [Obsidian](https://obsidian.md/)
-*   [IronWriter (⭐57)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
+*   [IronWriter (⭐58)](https://github.com/SHiLLySiT/IronWriter/blob/master/readme.md) - Writing tool for solo Ironsworn playthroughs
 *   [Ironsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/ironsmith-expanded-oracles) - A FoundryVTT compendium of the Ironsmith oracles for Ironsworn
 *   [Ironsworn Character Creation Questions](https://www.drivethrurpg.com/product/392486/Ironsworn-Character-Creation-Questions?affiliate_id=844973) - Questions to help build NPC relationships
 *   [Ironsworn Companion](https://gcoulby.github.io/IronswornCompanion/) - Digital companion for the tabletop RPG Ironsworn
 *   [Ironsworn Generators by rsek](https://perchance.org/rsek-ironsworn-generators) - Collection of random generators for Ironsworn
-*   [Ironsworn and Starforged for Foundry VTT (⭐74)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
+*   [Ironsworn and Starforged for Foundry VTT (⭐75)](https://github.com/ben/foundry-ironsworn) - Ironsworn, Delve and Starforged for Foundry Virtual Tabletop
 *   [Ironsworn for Role](https://app.playrole.com/sheet-templates/bbc0c65a-ironsworn-starforged/save) - Ironsworn character sheet for Role
 *   [Ironsworn for Tabletop Simulator](https://steamcommunity.com/sharedfiles/filedetails/?id=1545126579) - Ironsworn module for Tabletop Simulator
 *   [Ironsworn Numbers Spreadsheet](https://www.dropbox.com/s/m16aazqk3t7ashd/Ironsworn%20-%20Public%20iPad%20v%200-7.numbers?dl=0) - Spreadsheet for Ironsworn solo play
-*   [isscrolls (⭐23)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
+*   [isscrolls (⭐26)](https://github.com/thexhr/isscrolls) - Command line player toolkit for Ironsworn
 *   [Pocketforge](https://rockpaperstory.com/pocketforge) - Ironsworn & Starforged companion app
 *   [Starforged Asset Workbench](https://starforged-asset-workbench.vercel.app) - Tool for creating custom assets with Starforged's aesthetic
 *   [Starforged Crew Sheet](https://jaderavens.itch.io/starforged-crew-sheet) - Interactive playkit for group/solo play in Google Sheets
@@ -75,24 +81,28 @@ made by you on those sites when using these links*
 *   [Starforged Sectors Discord Bot (⭐1)](https://github.com/Ferretsroq/Starforged-Sectors) - Display, create, and explore sectors in Discord
 *   [Starforged Numbers Spreadsheet](https://www.dropbox.com/s/ge40xrazw0c9ng1/Starforged%20Public%20v2.5.numbers?dl=0) - Spreadsheet for Starforged solo play
 *   [Starsmith Expanded Oracles Module for FoundryVTT](https://foundryvtt.com/packages/starsmith-expanded-oracles) - A FoundryVTT compendium of the Starsmith oracles for the Ironsworn: Starforged system
-*   [TheOracle (⭐37)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
+*   [TheOracle (⭐39)](https://github.com/XenotropicDev/TheOracle) - Discord bot for Ironsworn, with a focus on play-by-post games
 
 ## Resources
 
 *   [Character-Centric Packs](https://www.drivethrurpg.com/browse/pub/14520/Samuel-Rondn/subcategory/32227_36337/CharacterCentric-Packs-for-the-Ironsworn-System?affiliate_id=844973) - Character building card sets for Ironsworn
-*   [DataForged (⭐200)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
-*   [DataSworn (⭐136)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
+*   [DataForged (⭐207)](https://github.com/rsek/dataforged) - Starforged rules data in JSON format
+*   [DataSworn (⭐141)](https://github.com/rsek/datasworn) - Ironsworn rules data in JSON format
 *   [Forge Codex](https://www.drivethrurpg.com/en/product/490797/forge-codex-001?affiliate_id=844973) - Modular supplement with locations, characters, and encounters for Starforged
 *   [Iron Atlas](https://jaderavens.itch.io/iron-atlas-omnibus) - Explore the Ironlands with 100 hand-drawn maps, plus oracles for weather, flora, & fauna
 *   [Ironforged V1](https://nqjasmine.itch.io/ironforged-v1) - A short guide to adapt Starforged to be set in the Ironlands, with printable adapted Ironsworn asset cards
 *   [Ironlands Hand-Drawn Map](https://notofthisworld.itch.io/ironlands-map) Hand-drawn map of the Ironlands, in both black and white and color
 *   [Ironsmith](https://www.drivethrurpg.com/product/351813/Ironsmith?affiliate_id=844973) - Supplemental oracles, assets, locations, vows and more
 *   [Ironsworn Half-Page Worksheets](https://notofthisworld.itch.io/ironsworn-half-page-worksheets) - Half-page versions of the character, progress, vow and Delve worksheets
+*   [Ironsworn Pocket Refs](https://notofthisworld.itch.io/ironsworn-pocket-refs) - Pocket-sized reference of Ironsworn Moves
+*   [Ironsworn Starforged Move Cards and Their Oracles](https://lancelol.itch.io/starforged-move-cards) - All Starforged moves on double-sided, 63x88mm cards
+*   [Lodestone](https://jaderavens.itch.io/lodestone) - Fillable story sheet oracle for Ironsworn campaigns
 *   [Minimalist Starforged Character Sheet](https://mendercap.itch.io/minimalist-starforged-character-sheet) - Simple character sheet for Starforged and Sundered Isles
 *   [Rhoam's Oracle Decks](https://rhoam.itch.io/) - Ironsworn and weather oracles in card format, in English and French
 *   [Starforged Half-Page Worksheets](https://drive.google.com/file/d/1WYVxnzkRElXK9ho4W3P8oDaycblYEkck/view) - Half-page versions of the character, sector, progress, and connection worksheets
 *   [Starforged Moves Starter](https://akavel.itch.io/starforged-moves-starter) - Cheatsheet of the most important moves in Starforged, aimed especially at new players
 *   [Starforged Notebook](https://evil-wayne.itch.io/starforged-notebook) - All-in-one campaign notebook for Starforged
+*   [Starforged Player Move Cards](https://drive.google.com/drive/folders/1P4cDrnGzTrNpNrZFh-3oL2VB-f7pS4U4) - All Starforged moves (except the Session moves) in standard "poker" card size
 *   [Starsmith Expanded Oracles](https://preview.drivethrurpg.com/en/product/417619/Starsmith-Expanded-Oracles?affiliate_id=844973) - Supplemental oracles for Starforged
 *   [Starswoosh](https://www.drivethrurpg.com/en/product/443900/Starswoosh-An-Ironsworn-Starforged-Quick-Reference-For-Your-eReader?affiliate_id=844973) - Starforged quick reference for e-readers
 *   [Tarot Sworn Sheet](https://nightjargames.itch.io/tarot-sworn-sheet) - Tarot-themed character sheet for Ironsworn
@@ -184,6 +194,7 @@ made by you on those sites when using these links*
 *   [Ironsworn Jam 1](https://itch.io/jam/ironsworn-jam-1/entries)
 *   [Starforged 2022 Jam](https://itch.io/jam/starforged-2022-jam/entries)
 *   [Starforged 2023 Jam](https://itch.io/jam/starforged-2023-jam/entries)
+*   [Starforged: Ancient Connections Jam](https://itch.io/jam/starforged-ancient-connections/entries)
 
 ## Adventure starters and scenarios
 
@@ -204,5 +215,5 @@ made by you on those sites when using these links*
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines (⭐152)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines (⭐170)](https://github.com/Billiam/awesome-ironsworn/blob/main/contributing.md) first.
 

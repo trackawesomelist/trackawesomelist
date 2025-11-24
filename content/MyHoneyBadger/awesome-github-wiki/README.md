@@ -2,9 +2,15 @@
 
 :neckbeard: Awesome list GitHub Wikis
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 330 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 MyHoneyBadger/awesome-github-wiki](https://github.com/MyHoneyBadger/awesome-github-wiki) · ⭐ 396 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/MyHoneyBadger/awesome-github-wiki/week/README.md) / [Overview](/content/MyHoneyBadger/awesome-github-wiki/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Examples
+
+*   [AWS/aws-parallelcluster (⭐878)](https://github.com/aws/aws-parallelcluster/wiki)
 
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
@@ -16,7 +22,7 @@
 
 ### Examples
 
-*   [JustArchiNET/ArchiSteamFarm (⭐12k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
+*   [JustArchiNET/ArchiSteamFarm (⭐13k)](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
 
 ## [Dec 25, 2024](/content/2024/12/25/README.md)
 
@@ -64,7 +70,7 @@
 
 ### Examples
 
-*   [internetarchive/openlibrary (⭐5.6k)](https://github.com/internetarchive/openlibrary/wiki)
+*   [internetarchive/openlibrary (⭐6k)](https://github.com/internetarchive/openlibrary/wiki)
 
 ## [Oct 01, 2023](/content/2023/10/01/README.md)
 
@@ -76,13 +82,13 @@
 
 ### Examples
 
-*   [hyperledger/cacti (⭐364)](https://github.com/hyperledger/cacti/wiki)
+*   [hyperledger/cacti (⭐375)](https://github.com/hyperledger/cacti/wiki)
 
 ## [Jul 05, 2023](/content/2023/07/05/README.md)
 
 ### Useful links with tips & tricks
 
-*   [Search wiki of the repository on GitHub (⭐199)](https://github.com/linyows/github-wiki-search)
+*   [Search wiki of the repository on GitHub (⭐197)](https://github.com/linyows/github-wiki-search)
 
 ## [Jun 10, 2023](/content/2023/06/10/README.md)
 
@@ -101,13 +107,12 @@
 ### Useful links with tips & tricks
 
 *   [Git And GitHub Course - Master Git And GitHub - GitHub Wiki](https://www.learnvern.com/git-and-github-tutorial/wiki)
-*   [How To Use GitHub Wikis For Collaborative Documentation](https://labs.inn.org/2014/05/19/applying-git-to-github-wikis/)
 
 ## [Mar 11, 2023](/content/2023/03/11/README.md)
 
 ### Examples
 
-*   [facebook/hhvm (⭐18k)](https://github.com/facebook/hhvm/wiki)
+*   [facebook/hhvm (⭐19k)](https://github.com/facebook/hhvm/wiki)
 
 ## [Mar 08, 2023](/content/2023/03/08/README.md)
 
@@ -148,7 +153,7 @@
 
 ### Examples
 
-*   [apple/foundationdb (⭐15k)](https://github.com/apple/foundationdb/wiki)
+*   [apple/foundationdb (⭐16k)](https://github.com/apple/foundationdb/wiki)
 
 ## [Nov 19, 2022](/content/2022/11/19/README.md)
 
@@ -162,12 +167,6 @@
 
 *   [GitHub Wiki - Source code syntax highlighting](https://stackoverflow.com/questions/11505503/github-wiki-source-code-syntax-highlighting)
 
-## [Nov 05, 2022](/content/2022/11/05/README.md)
-
-### Examples
-
-*   [aws/aws-parallelcluster (⭐860)](https://github.com/aws/aws-parallelcluster/wiki)
-
 ## [Oct 22, 2022](/content/2022/10/22/README.md)
 
 ### Useful links with tips & tricks
@@ -178,7 +177,7 @@
 
 ### Examples
 
-*   [uber/NullAway (⭐3.7k)](https://github.com/uber/NullAway/wiki)
+*   [uber/NullAway (⭐3.9k)](https://github.com/uber/NullAway/wiki)
 
 ## [Oct 08, 2022](/content/2022/10/08/README.md)
 
@@ -193,10 +192,6 @@
 
 ## [Oct 01, 2022](/content/2022/10/01/README.md)
 
-### Examples
-
-*   [FortAwesome/Font-Awesome (⭐75k)](https://github.com/FortAwesome/Font-Awesome/wiki)
-
 ### Useful links with tips & tricks
 
 *   [Git Tutorial - 24 - GitHub Wiki](https://www.youtube.com/watch?v=4B0XNThjO0E)
@@ -205,13 +200,13 @@
 
 ### Examples
 
-*   [facebook/react-native (⭐122k)](https://github.com/facebook/react-native/wiki)
+*   [facebook/react-native (⭐125k)](https://github.com/facebook/react-native/wiki)
 
 ## [Sep 24, 2022](/content/2022/09/24/README.md)
 
 ### Examples
 
-*   [guard/guard (⭐6.3k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
+*   [guard/guard (⭐6.6k)](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 *   [google/guava (⭐51k)](https://github.com/google/guava/wiki)
 
 ### Useful links with tips & tricks

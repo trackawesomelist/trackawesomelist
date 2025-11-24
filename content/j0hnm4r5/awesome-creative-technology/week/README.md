@@ -2,9 +2,70 @@
 
 Curated list of Creative Technology groups, companies, studios, collectives, etc.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 495 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/j0hnm4r5/awesome-creative-technology/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 j0hnm4r5/awesome-creative-technology](https://github.com/j0hnm4r5/awesome-creative-technology) · ⭐ 546 · 🏷️ Miscellaneous
 
 [ [Daily](/content/j0hnm4r5/awesome-creative-technology/README.md) / Weekly / [Overview](/content/j0hnm4r5/awesome-creative-technology/readme/README.md) ]
+
+## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
+
+### Creative Technology
+
+- Name: [**EMMA Co-op**](https://emma.coop)
+
+  Locations: \[NYC]
+
+  Keywords: We develop software for clients in the video game, theater, public installation and media arts spaces among others.
+
+
+- Name: [**Five Stone Studios**](https://fivestonestudios.com/)
+
+  Locations: \[Nashville]
+
+  Keywords: Our creative arsenal spans design, live action, animation, & experiential storytelling
+
+
+- Name: [**Nexus Studios**](https://nexusstudios.com/)
+
+  Locations: \[London] \[Los Angeles]
+
+  Keywords: film, experiential, AR
+
+  Jobs: [🌐](https://apply.workable.com/nexusstudios/)
+
+
+- Name: [**Sitara Systems**](https://sitara.systems)
+
+  Locations: \[Las Vegas]
+
+  Keywords: we create interactive and immersive experiences that break down complex ideas, inspire reflection, and ignite curiosity.
+
+
+- Name: [**Volvox Labs**](https://volvoxlabs.com/)
+
+  Locations: \[NYC] \[LA]
+
+  Keywords: high-end design, code, fabrication, sound, robotics
+
+  Jobs: [🌐](https://volvoxlabs.com/contact/)
+
+
+
+### Collectives & Practices
+
+- Name: [**The Cuttlefish**](https://www.thecuttlefish.com/)
+
+  Locations: \[USA]
+
+  Keywords: explore and imagine and prototyp and creatr future-forward creative concepts
+
+
+- Name: [**TUNDRA**](https://www.wearetundra.com/)
+
+  Locations: \[St. Petersburg]
+
+  Keywords: In our artworks, we blend light, sound, space and use technology as a tool to interact with rapidly-changing environmental context.
+
+
 
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
@@ -1370,15 +1431,6 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
   Jobs: [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/main/README.md/mailto:jobs@vtprodesign.com)
 
 
-- Name: [**VVOX**](https://volvoxlabs.com/)
-
-  Locations: \[NYC] \[LA]
-
-  Keywords: high-end design, code, fabrication, sound
-
-  Jobs: [🌐](https://volvoxlabs.com/contact/)
-
-
 - Name: [**We Are Royale**](https://weareroyale.com/)
 
   Locations: \[LA] \[Seattle]
@@ -1491,13 +1543,6 @@ Curated list of Creative Technology groups, companies, studios, collectives, etc
   Locations: \[Tokyo]
 
   Keywords: full-room interactive projection mapping, interdisciplinary group of ultratechnologists
-
-
-- Name: [**The Cuttelfish**](https://www.thecuttlefish.com/)
-
-  Locations: \[USA]
-
-  Keywords: explore and imagine and prototyp and creatr future-forward creative concepts
 
 
 - Name: [**United Visual Artists**](https://www.uva.co.uk/)

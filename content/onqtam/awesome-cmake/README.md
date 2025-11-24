@@ -2,21 +2,31 @@
 
 A curated list of awesome CMake resources, scripts, modules and examples.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/onqtam/awesome-cmake/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake) · ⭐ 5K · 🏷️ Programming Languages
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/onqtam/awesome-cmake/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake) · ⭐ 5.3K · 🏷️ Programming Languages
 
 [ Daily / [Weekly](/content/onqtam/awesome-cmake/week/README.md) / [Overview](/content/onqtam/awesome-cmake/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Utility Scripts
+
+*   [fetch\_paths.cmake (⭐0)](https://github.com/XiaoLey/fetch_paths.cmake) - Lightweight utility to simplify file/directory path retrieval in CMake, supporting dynamic searches and flexible output formats. [`[MIT]`](https://github.com/XiaoLey/fetch_paths.cmake/blob/main/LICENSE)
+
+### Other
+
+*   [SoCMake (⭐32)](https://github.com/HEP-SoC/SoCMake) - CMake based build system for hardware (ASIC, FPGA) and System-on-Chip build automation. [`[LGPL]`](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 
 ## [Aug 31, 2024](/content/2024/08/31/README.md)
 
 ### Examples / Templates
 
-*   [SeeMake (⭐2)](https://github.com/MhmRhm/SeeMake) - A feature-packed, ready-to-use CMake template with testing, static and dynamic checks, coverage reports, and more. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [SeeMake (⭐11)](https://github.com/MhmRhm/SeeMake) - A feature-packed, ready-to-use CMake template with testing, static and dynamic checks, coverage reports, and more. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [May 18, 2022](/content/2022/05/18/README.md)
 
 ### Other
 
-*   [version-from-git (⭐4)](https://github.com/MhmRhm/version-from-git) - Bake git information into your binary. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [version-from-git (⭐6)](https://github.com/MhmRhm/version-from-git) - Bake git information into your binary. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Apr 01, 2022](/content/2022/04/01/README.md)
 
@@ -28,13 +38,13 @@ A curated list of awesome CMake resources, scripts, modules and examples.
 
 ### Toolchains
 
-*   [toolchains (⭐89)](https://github.com/mosra/toolchains) - For cross-compiling with CMake. They are meant to be mainly used on ArchLinux. `[NO LICENSE]`
+*   [toolchains (⭐94)](https://github.com/mosra/toolchains) - For cross-compiling with CMake. They are meant to be mainly used on ArchLinux. `[NO LICENSE]`
 
 ## [Jun 11, 2020](/content/2020/06/11/README.md)
 
 ### Examples / Templates
 
-*   [ModernCppStarter (⭐4.3k)](https://github.com/TheLartians/ModernCppStarter) - A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management, tests using [doctest (⭐5.8k)](https://github.com/onqtam/doctest) and much more. [`[UNLICENSE]`](https://unlicense.org/)
+*   [ModernCppStarter (⭐5.2k)](https://github.com/TheLartians/ModernCppStarter) - A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management, tests using [doctest (⭐6.5k)](https://github.com/onqtam/doctest) and much more. [`[UNLICENSE]`](https://unlicense.org/)
 
 ## [May 18, 2020](/content/2020/05/18/README.md)
 
@@ -52,13 +62,13 @@ A curated list of awesome CMake resources, scripts, modules and examples.
 
 ### Toolchains
 
-*   [Arduino-CMake-Toolchain (⭐136)](https://github.com/a9183756-gh/Arduino-CMake-Toolchain) - CMake toolchain for all official and 3rd party Arduino platforms. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [Arduino-CMake-Toolchain (⭐146)](https://github.com/a9183756-gh/Arduino-CMake-Toolchain) - CMake toolchain for all official and 3rd party Arduino platforms. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Mar 27, 2020](/content/2020/03/27/README.md)
 
 ### Resources
 
-*   [Tutorial (⭐33)](https://github.com/schweitzer/modern-cmake-tutorial) - Tutorial and Example on How to Properly Use Modern CMake.
+*   [Tutorial (⭐32)](https://github.com/schweitzer/modern-cmake-tutorial) - Tutorial and Example on How to Properly Use Modern CMake.
 
 ## [Mar 15, 2020](/content/2020/03/15/README.md)
 
@@ -72,31 +82,31 @@ A curated list of awesome CMake resources, scripts, modules and examples.
 
 ### Other
 
-*   [cmake-maven-plugin (⭐76)](https://github.com/cmake-maven-project/cmake-maven-project) - CMake integration for Maven builds. [`[APACHE2]`](http://www.apache.org/licenses/LICENSE-2.0)
+*   [cmake-maven-plugin (⭐81)](https://github.com/cmake-maven-project/cmake-maven-project) - CMake integration for Maven builds. [`[APACHE2]`](http://www.apache.org/licenses/LICENSE-2.0)
 
 ## [Jan 03, 2020](/content/2020/01/03/README.md)
 
 ### Resources
 
-*   [Lecture](https://www.youtube.com/watch?v=y9kSr5enrSk) - Oh No! More Modern CMake ([slides (⭐168)](https://github.com/Bagira80/More-Modern-CMake/raw/master/OhNoMoreModernCMake.pdf))- by Deniz Bahadir, Meeting C++ 2019.
+*   [Lecture](https://www.youtube.com/watch?v=y9kSr5enrSk) - Oh No! More Modern CMake ([slides (⭐172)](https://github.com/Bagira80/More-Modern-CMake/raw/master/OhNoMoreModernCMake.pdf))- by Deniz Bahadir, Meeting C++ 2019.
 
 ## [Dec 09, 2019](/content/2019/12/09/README.md)
 
 ### Other
 
-*   [cmake-language-server (⭐324)](https://github.com/regen100/cmake-language-server) - CMake Language Server Protocol Implementation. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake-language-server (⭐386)](https://github.com/regen100/cmake-language-server) - CMake Language Server Protocol Implementation. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Aug 14, 2019](/content/2019/08/14/README.md)
 
 ### Modules
 
-*   [FindIDL (⭐27)](https://github.com/apriorit/FindIDL) - CMake module for building [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) files with MIDL and generating CLR DLL using [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer). [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [FindIDL (⭐25)](https://github.com/apriorit/FindIDL) - CMake module for building [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) files with MIDL and generating CLR DLL using [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer). [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Aug 05, 2019](/content/2019/08/05/README.md)
 
 ### Package Management / Build Systems
 
-*   [pmm (⭐15)](https://github.com/AnotherFoxGuy/pmm) - PMM is a module for CMake that manages... package managers. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [pmm (⭐14)](https://github.com/AnotherFoxGuy/pmm) - PMM is a module for CMake that manages... package managers. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ### Modules
 
@@ -113,37 +123,37 @@ A curated list of awesome CMake resources, scripts, modules and examples.
 
 ### Package Management / Build Systems
 
-*   [cpm (⭐2.8k)](https://github.com/TheLartians/CPM) - A setup-free CMake + git dependency manager. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cpm (⭐3.8k)](https://github.com/TheLartians/CPM) - A setup-free CMake + git dependency manager. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Apr 14, 2019](/content/2019/04/14/README.md)
 
 ### Examples / Templates
 
-*   [cpp-project (⭐594)](https://github.com/bsamseth/cpp-project) - Boiler plate for C++ projects - tests, CI, coverage, docs. [`[UNLICENSE]`](https://unlicense.org/)
+*   [cpp-project (⭐619)](https://github.com/bsamseth/cpp-project) - Boiler plate for C++ projects - tests, CI, coverage, docs. [`[UNLICENSE]`](https://unlicense.org/)
 
 ## [Apr 12, 2019](/content/2019/04/12/README.md)
 
 ### Modules
 
-*   [Metabench (⭐181)](https://github.com/ldionne/metabench) - CMake module for compile-time microbenchmarks. [`[BOOST]`](http://www.boost.org/LICENSE_1_0.txt)
+*   [Metabench (⭐186)](https://github.com/ldionne/metabench) - CMake module for compile-time microbenchmarks. [`[BOOST]`](http://www.boost.org/LICENSE_1_0.txt)
 
 ## [Apr 03, 2019](/content/2019/04/03/README.md)
 
 ### Resources
 
-*   [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - More Modern CMake ([slides & examples (⭐168)](https://github.com/Bagira80/More-Modern-CMake))- by Deniz Bahadir, Meeting C++ 2018.
+*   [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - More Modern CMake ([slides & examples (⭐172)](https://github.com/Bagira80/More-Modern-CMake))- by Deniz Bahadir, Meeting C++ 2018.
 
 ## [Mar 23, 2019](/content/2019/03/23/README.md)
 
 ### Utility Scripts
 
-*   [ixm (⭐106)](https://github.com/slurps-mad-rips/ixm) - Make CMake less painful when trying to write Modern Flexible CMake.  [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [ixm (⭐103)](https://github.com/slurps-mad-rips/ixm) - Make CMake less painful when trying to write Modern Flexible CMake.  [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Mar 11, 2019](/content/2019/03/11/README.md)
 
 ### Examples / Templates
 
-*   [cmake-examples (⭐1.1k)](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake-examples (⭐1.2k)](https://github.com/pr0g/cmake-examples) - A collection of as simple as possible, modern CMake projects. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Mar 01, 2019](/content/2019/03/01/README.md)
 
@@ -155,7 +165,7 @@ A curated list of awesome CMake resources, scripts, modules and examples.
 
 ### Examples / Templates
 
-*   [how-to-export-cpp-library (⭐360)](https://github.com/robotology/how-to-export-cpp-library) - An OS-agnostic template project for exporting either shared, static or header-only C++ library, sporting ctest and CI support, written in plain CMake with line-by-line tutorial comments. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [how-to-export-cpp-library (⭐374)](https://github.com/robotology/how-to-export-cpp-library) - An OS-agnostic template project for exporting either shared, static or header-only C++ library, sporting ctest and CI support, written in plain CMake with line-by-line tutorial comments. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Nov 23, 2018](/content/2018/11/23/README.md)
 
@@ -167,13 +177,13 @@ A curated list of awesome CMake resources, scripts, modules and examples.
 
 ### Examples / Templates
 
-*   [pitchfork (⭐1.1k)](https://github.com/vector-of-bool/pitchfork) - A set of conventions for native C and C++ projects. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [pitchfork (⭐1.2k)](https://github.com/vector-of-bool/pitchfork) - A set of conventions for native C and C++ projects. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Oct 01, 2018](/content/2018/10/01/README.md)
 
 ### Other
 
-*   [cmake\_check (⭐20)](https://github.com/DaelDe/cmake_check) - Static analysis (linter) for the CMake language (e.g. to enforce modern CMake rules). [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake\_check (⭐23)](https://github.com/DaelDe/cmake_check) - Static analysis (linter) for the CMake language (e.g. to enforce modern CMake rules). [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Sep 26, 2018](/content/2018/09/26/README.md)
 
@@ -183,13 +193,13 @@ A curated list of awesome CMake resources, scripts, modules and examples.
 
 ### Examples / Templates
 
-*   [cpp-template (⭐51)](https://github.com/joshpeterson/cpp-template) - A template C++ repository, using CMake and Catch. `[NO LICENSE]`
+*   [cpp-template (⭐53)](https://github.com/joshpeterson/cpp-template) - A template C++ repository, using CMake and Catch. `[NO LICENSE]`
 
 ## [Aug 16, 2018](/content/2018/08/16/README.md)
 
 ### Resources
 
-*   [Web Book (⭐521)](https://github.com/ruslo/CGold) - CGold: The Hitchhiker’s [Guide](https://cgold.readthedocs.io) to the CMake. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
+*   [Web Book (⭐531)](https://github.com/ruslo/CGold) - CGold: The Hitchhiker’s [Guide](https://cgold.readthedocs.io) to the CMake. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
 *   [Article](http://foonathan.net/blog/2016/03/03/cmake-install.html) - Easily supporting CMake install and find\_package().
 *   [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) - Easy dependency management for C++ with CMake and Git.
 *   [Article](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/) - Opt-in header-only libraries with CMake.
@@ -199,7 +209,7 @@ A curated list of awesome CMake resources, scripts, modules and examples.
 *   [Article](http://aosabook.org/en/cmake.html) - The architecture of CMake.
 *   [Lecture](https://www.youtube.com/watch?v=bsXLMQ6WgIk) - Effective CMake - by Daniel Pfeifer, C++Now 2017.
 *   [Article](https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/) - Building Cross-Platform CUDA Applications with CMake.
-*   [Tutorial (⭐61)](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake) - A step-by-step guide for understanding CMake.
+*   [Tutorial (⭐62)](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake) - A step-by-step guide for understanding CMake.
 *   [Article + Lecture](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/) - Embracing Modern CMake - by Stephen Kelly.
 *   [Lecture](https://www.youtube.com/watch?v=eC9-iRN2b04) - Modern CMake for Modular Design - by Mathieu Ropert, CppCon 2017.
 *   [Article](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) - It's Time To Do CMake Right (one of the best articles about CMake).
@@ -219,59 +229,59 @@ A curated list of awesome CMake resources, scripts, modules and examples.
 
 ### Modules
 
-*   [YCM (⭐50)](https://github.com/robotology/ycm) - Extra CMake Modules for [Yet Another Robot Platform (⭐516)](https://github.com/robotology/yarp) and friends. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [YCM (⭐58)](https://github.com/robotology/ycm) - Extra CMake Modules for [Yet Another Robot Platform (⭐583)](https://github.com/robotology/yarp) and friends. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
 ## [Jun 11, 2018](/content/2018/06/11/README.md)
 
 ### Examples / Templates
 
-*   [cmake-cookbook (⭐2.7k)](https://github.com/dev-cafe/cmake-cookbook) - A huge CMake cookbook full of recipes. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake-cookbook (⭐2.8k)](https://github.com/dev-cafe/cmake-cookbook) - A huge CMake cookbook full of recipes. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Jun 08, 2018](/content/2018/06/08/README.md)
 
 ### Examples / Templates
 
-*   [cmake\_snippets (⭐52)](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [cmake\_snippets (⭐53)](https://github.com/adishavit/cmake_snippets) - Short copy-pasteable CMake snippets. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 
 ## [May 15, 2018](/content/2018/05/15/README.md)
 
 ### Examples / Templates
 
-*   [cmake\_templates (⭐128)](https://github.com/acdemiralp/cmake_templates) - Templates for creating C++ libraries and executables (including conan). `[NO LICENSE]`
+*   [cmake\_templates (⭐126)](https://github.com/acdemiralp/cmake_templates) - Templates for creating C++ libraries and executables (including conan). `[NO LICENSE]`
 
 ## [Apr 24, 2018](/content/2018/04/24/README.md)
 
 ### Package Management / Build Systems
 
-*   [vcpkg (⭐23k)](https://github.com/Microsoft/vcpkg) - A tool to acquire and build C++ open source libraries. Uses CMake internally as a build script language. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [vcpkg (⭐26k)](https://github.com/Microsoft/vcpkg) - A tool to acquire and build C++ open source libraries. Uses CMake internally as a build script language. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ### Other
 
-*   [cmake-checks-cache (⭐73)](https://github.com/cristianadam/cmake-checks-cache) - CMake checks cache helper modules. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake-checks-cache (⭐85)](https://github.com/cristianadam/cmake-checks-cache) - CMake checks cache helper modules. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Apr 17, 2018](/content/2018/04/17/README.md)
 
 ### Examples / Templates
 
-*   [cpp14-project-template (⭐64)](https://github.com/arnavb/cpp14-project-template) - A C++14 template with CI, tests, code coverage, docs and static analysis integration. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
+*   [cpp14-project-template (⭐68)](https://github.com/arnavb/cpp14-project-template) - A C++14 template with CI, tests, code coverage, docs and static analysis integration. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ## [Apr 09, 2018](/content/2018/04/09/README.md)
 
 ### Examples / Templates
 
-*   [CMakeInstallExample (⭐35)](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (Windows) with Cmake. `[NO LICENSE]`
+*   [CMakeInstallExample (⭐38)](https://github.com/DeveloperPaul123/CMakeInstallExample) - Installation example for a C++ project (Windows) with Cmake. `[NO LICENSE]`
 
 ## [Feb 20, 2018](/content/2018/02/20/README.md)
 
 ### Examples / Templates
 
-*   [modern-cmake-sample (⭐664)](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. `[NO LICENSE]`
+*   [modern-cmake-sample (⭐678)](https://github.com/pabloariasal/modern-cmake-sample) - Best practices and proper usage of CMake by using targets. `[NO LICENSE]`
 
 ## [Feb 05, 2018](/content/2018/02/05/README.md)
 
 ### Examples / Templates
 
-*   [cpp-boilerplate (⭐312)](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cpp-boilerplate (⭐325)](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Jun 07, 2017](/content/2017/06/07/README.md)
 
@@ -289,13 +299,13 @@ A curated list of awesome CMake resources, scripts, modules and examples.
 
 ### Other
 
-*   [osg-3rdparty-cmake (⭐178)](https://github.com/bjornblissing/osg-3rdparty-cmake) - CMake scripts for building OpenSceneGraph third party libraries. `[MIXED LICENSE]`
+*   [osg-3rdparty-cmake (⭐195)](https://github.com/bjornblissing/osg-3rdparty-cmake) - CMake scripts for building OpenSceneGraph third party libraries. `[MIXED LICENSE]`
 
 ## [Oct 12, 2016](/content/2016/10/12/README.md)
 
 ### Resources
 
-*   [Modern CMake (⭐229)](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp (⭐434)](https://github.com/toeb/cmakepp). [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [Modern CMake (⭐242)](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp (⭐442)](https://github.com/toeb/cmakepp). [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ## [Oct 10, 2016](/content/2016/10/10/README.md)
 
@@ -321,84 +331,84 @@ A curated list of awesome CMake resources, scripts, modules and examples.
 ### Package Management / Build Systems
 
 *   [hunter (⭐1.9k)](https://github.com/ruslo/hunter) - Cross-platform package manager for C++ (based on CMake ExternalProject). [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
-*   [cget (⭐447)](https://github.com/pfultz2/cget) - CMake package retrieval. This can be used to download and install CMake packages. [`[BOOST]`](http://www.boost.org/LICENSE_1_0.txt)
-*   [cpm (⭐741)](https://github.com/iauns/cpm) - C++ Package Manager based on CMake and Git. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [conan (⭐8.1k)](https://github.com/conan-io/conan) - Conan C++ Package Manager, implemented in Python and has a CMake integration backend. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [fips (⭐468)](https://github.com/floooh/fips) - High-level build system/dependency management for distributed, multi-platform C/C++ projects. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [Ninja (⭐11k)](https://github.com/ninja-build/ninja) - Build system that differs from others in two major respects: it is designed to have its input files generated by a higher-level build system (like CMake), and it is designed to run builds as fast as possible. [`[APACHE2]`](http://www.apache.org/licenses/LICENSE-2.0)
+*   [cget (⭐460)](https://github.com/pfultz2/cget) - CMake package retrieval. This can be used to download and install CMake packages. [`[BOOST]`](http://www.boost.org/LICENSE_1_0.txt)
+*   [cpm (⭐748)](https://github.com/iauns/cpm) - C++ Package Manager based on CMake and Git. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [conan (⭐9.1k)](https://github.com/conan-io/conan) - Conan C++ Package Manager, implemented in Python and has a CMake integration backend. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [fips (⭐496)](https://github.com/floooh/fips) - High-level build system/dependency management for distributed, multi-platform C/C++ projects. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [Ninja (⭐12k)](https://github.com/ninja-build/ninja) - Build system that differs from others in two major respects: it is designed to have its input files generated by a higher-level build system (like CMake), and it is designed to run builds as fast as possible. [`[APACHE2]`](http://www.apache.org/licenses/LICENSE-2.0)
 
 ### Modules
 
-*   [cmake-modules (⭐1k)](https://github.com/rpavlik/cmake-modules) - [Ryan Pavlik](https://github.com/rpavlik)'s collection of CMake modules. There are a number of find modules, especially for virtual reality and physical simulation, some utility modules, and some patches or workarounds for CMake itself. [`[BOOST]`](http://www.boost.org/LICENSE_1_0.txt)
-*   [cmake-modules (⭐545)](https://github.com/bilke/cmake-modules) - This is a collection of additional CMake modules. Most of them are from Ryan Pavlik. [`[BOOST]`](http://www.boost.org/LICENSE_1_0.txt)
-*   [CMake (⭐155)](https://github.com/Eyescale/CMake) - [Eyescale](https://github.com/Eyescale)'s common CMake modules. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
-*   [cmake-modules (⭐87)](https://github.com/jedbrown/cmake-modules) - CMake modules for some scientific libraries. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
-*   [cgcmake (⭐128)](https://github.com/chadmv/cgcmake) - CMake modules for common applications related to computer graphics. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [FindMathematica (⭐59)](https://github.com/sakra/FindMathematica) - CMake module for Mathematica. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [extra-cmake-modules (⭐129)](https://github.com/KDE/extra-cmake-modules) - [KDE](https://github.com/KDE)'s extra modules and scripts for CMake. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [cmake-modules (⭐1.1k)](https://github.com/rpavlik/cmake-modules) - [Ryan Pavlik](https://github.com/rpavlik)'s collection of CMake modules. There are a number of find modules, especially for virtual reality and physical simulation, some utility modules, and some patches or workarounds for CMake itself. [`[BOOST]`](http://www.boost.org/LICENSE_1_0.txt)
+*   [cmake-modules (⭐583)](https://github.com/bilke/cmake-modules) - This is a collection of additional CMake modules. Most of them are from Ryan Pavlik. [`[BOOST]`](http://www.boost.org/LICENSE_1_0.txt)
+*   [CMake (⭐156)](https://github.com/Eyescale/CMake) - [Eyescale](https://github.com/Eyescale)'s common CMake modules. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [cmake-modules (⭐86)](https://github.com/jedbrown/cmake-modules) - CMake modules for some scientific libraries. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
+*   [cgcmake (⭐132)](https://github.com/chadmv/cgcmake) - CMake modules for common applications related to computer graphics. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [FindMathematica (⭐64)](https://github.com/sakra/FindMathematica) - CMake module for Mathematica. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [extra-cmake-modules (⭐148)](https://github.com/KDE/extra-cmake-modules) - [KDE](https://github.com/KDE)'s extra modules and scripts for CMake. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
 *   [FindICU.cmake (⭐30)](https://github.com/julp/FindICU.cmake) - CMake module to find International Components for Unicode (ICU) Library. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
-*   [FindTBB (⭐88)](https://github.com/justusc/FindTBB) - CMake find module for Intel Threading Building Blocks. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [cmake-modules (⭐29)](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei)'s CMake module collection. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [FindTBB (⭐90)](https://github.com/justusc/FindTBB) - CMake find module for Intel Threading Building Blocks. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake-modules (⭐31)](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei)'s CMake module collection. [`[MIT]`](https://opensource.org/licenses/MIT)
 
 ### Utility Scripts
 
 *   [cotire (⭐1.3k)](https://github.com/sakra/cotire) - Cotire (compile time reducer) is a CMake module that speeds up the build process of CMake based build systems by fully automating techniques as precompiled headers and unity builds for C and C++. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [ucm (⭐210)](https://github.com/onqtam/ucm) - For managing compiler/linker flags, collecting sources, precompiled headers, unity builds and others. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [cmakepp (⭐434)](https://github.com/toeb/cmakepp) - Enhancement Suite for the CMake Build System. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [sugar (⭐98)](https://github.com/ruslo/sugar) - CMake tools and examples: collecting source files, warnings suppression, etc. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
-*   [DownloadProject (⭐442)](https://github.com/Crascit/DownloadProject) - CMake module for downloading an external project's source at configure time. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [ucm (⭐213)](https://github.com/onqtam/ucm) - For managing compiler/linker flags, collecting sources, precompiled headers, unity builds and others. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmakepp (⭐442)](https://github.com/toeb/cmakepp) - Enhancement Suite for the CMake Build System. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [sugar (⭐97)](https://github.com/ruslo/sugar) - CMake tools and examples: collecting source files, warnings suppression, etc. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
+*   [DownloadProject (⭐444)](https://github.com/Crascit/DownloadProject) - CMake module for downloading an external project's source at configure time. [`[MIT]`](https://opensource.org/licenses/MIT)
 *   [buildem (⭐27)](https://github.com/janelia-flyem/buildem) - Modular CMake-based system that leverages ExternalProject to simplify builds. [`[LICENSE]`](https://github.com/janelia-flyem/buildem/blob/master/LICENSE.txt)
-*   [coveralls-cmake (⭐85)](https://github.com/JoakimSoderberg/coveralls-cmake) - Coveralls JSON coverage generator and uploader for CMake. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [coveralls-cmake (⭐87)](https://github.com/JoakimSoderberg/coveralls-cmake) - Coveralls JSON coverage generator and uploader for CMake. [`[MIT]`](https://opensource.org/licenses/MIT)
 *   [compatibility (⭐74)](https://github.com/foonathan/compatibility) - Improved version of cmake-compile-features. [`[LICENSE]`](https://github.com/foonathan/compatibility/blob/master/LICENSE)
-*   [cmake-modules (⭐44)](https://github.com/Tronic/cmake-modules) - LibFindMacros development repository and other cool CMake stuff. [`[LICENSE]`](https://github.com/Tronic/cmake-modules/blob/master/LibFindMacros.cmake#L2)
-*   [GreatCMakeCookOff (⭐41)](https://github.com/UCL/GreatCMakeCookOff) - This is a repository of useful and less than useful CMake recipes. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake-modules (⭐45)](https://github.com/Tronic/cmake-modules) - LibFindMacros development repository and other cool CMake stuff. [`[LICENSE]`](https://github.com/Tronic/cmake-modules/blob/master/LibFindMacros.cmake#L2)
+*   [GreatCMakeCookOff (⭐43)](https://github.com/UCL/GreatCMakeCookOff) - This is a repository of useful and less than useful CMake recipes. [`[MIT]`](https://opensource.org/licenses/MIT)
 *   [cppcheck-target-cmake (⭐18)](https://github.com/polysquare/cppcheck-target-cmake) - Per-target CPPCheck for CMake. [`[MIT]`](https://opensource.org/licenses/MIT)
 *   [clang-tidy-target-cmake (⭐16)](https://github.com/polysquare/clang-tidy-target-cmake) - Add clang-tidy checks to a target using CMake. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [cmake-unit (⭐36)](https://github.com/polysquare/cmake-unit) - Unit testing framework for CMake. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake-unit (⭐38)](https://github.com/polysquare/cmake-unit) - Unit testing framework for CMake. [`[MIT]`](https://opensource.org/licenses/MIT)
 *   [cmake-header-language (⭐4)](https://github.com/polysquare/cmake-header-language) - CMake macro to determine the language of a header file. [`[MIT]`](https://opensource.org/licenses/MIT)
 *   [tooling-cmake-util (⭐3)](https://github.com/polysquare/tooling-cmake-util) - Utility and common library for all polysquare CMake tools. [`[MIT]`](https://opensource.org/licenses/MIT)
 *   [iwyu-target-cmake (⭐10)](https://github.com/polysquare/iwyu-target-cmake) - CMake integration for include-what-you-use. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [sanitizers-cmake (⭐372)](https://github.com/arsenm/sanitizers-cmake) - CMake module to enable sanitizers for binary targets. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [cmake-precompiled-header (⭐160)](https://github.com/larsch/cmake-precompiled-header) - Visual Studio and GCC precompiled header macro. [`[LICENSE]`](https://github.com/larsch/cmake-precompiled-header/blob/master/PrecompiledHeader.cmake#L31)
+*   [sanitizers-cmake (⭐407)](https://github.com/arsenm/sanitizers-cmake) - CMake module to enable sanitizers for binary targets. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmake-precompiled-header (⭐159)](https://github.com/larsch/cmake-precompiled-header) - Visual Studio and GCC precompiled header macro. [`[LICENSE]`](https://github.com/larsch/cmake-precompiled-header/blob/master/PrecompiledHeader.cmake#L31)
 *   [CMakePCHCompiler (⭐103)](https://github.com/nanoant/CMakePCHCompiler) - CMake precompiled headers via custom compiler extension - with reuse support! [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [CMake-codecov (⭐89)](https://github.com/RWTH-ELP/CMake-codecov) - Enables code coverage and generates coverage reports with CMake targets. [`[GPL]`](https://www.gnu.org/licenses/gpl-3.0.html)
+*   [CMake-codecov (⭐96)](https://github.com/RWTH-ELP/CMake-codecov) - Enables code coverage and generates coverage reports with CMake targets. [`[GPL]`](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ### Toolchains
 
-*   [dockcross (⭐3.2k)](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [dockcross (⭐3.5k)](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images. [`[MIT]`](https://opensource.org/licenses/MIT)
 *   [android-cmake (⭐1.2k)](https://github.com/taka-no-me/android-cmake) - CMake toolchain file and other scripts for the Android NDK. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
-*   [ios-cmake (⭐313)](https://github.com/cristeab/ios-cmake) - Toolchain file and examples using CMake for iOS development. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
-*   [qt-android-cmake (⭐243)](https://github.com/LaurentGomila/qt-android-cmake) - For building and deploying Qt based apps on Android without QtCreator. [`[LICENSE]`](https://github.com/LaurentGomila/qt-android-cmake/blob/master/license.txt)
+*   [ios-cmake (⭐316)](https://github.com/cristeab/ios-cmake) - Toolchain file and examples using CMake for iOS development. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [qt-android-cmake (⭐248)](https://github.com/LaurentGomila/qt-android-cmake) - For building and deploying Qt based apps on Android without QtCreator. [`[LICENSE]`](https://github.com/LaurentGomila/qt-android-cmake/blob/master/license.txt)
 *   [mingw-w64-cmake](https://github.com/lachs0r/mingw-w64-cmake) - CMake-based MinGW-w64 Cross Toolchain - to build Windows binaries of mpv. [`[ISC]`](https://opensource.org/licenses/ISC)
-*   [cmake-avr (⭐173)](https://github.com/mkleemann/cmake-avr) - CMake toolchain for AVR. [`[LICENSE]`](https://github.com/mkleemann/cmake-avr/blob/master/LICENSE)
+*   [cmake-avr (⭐184)](https://github.com/mkleemann/cmake-avr) - CMake toolchain for AVR. [`[LICENSE]`](https://github.com/mkleemann/cmake-avr/blob/master/LICENSE)
 *   [arduino-cmake (⭐61)](https://github.com/francoiscampbell/arduino-cmake) - This is the CMake project settings for the Arduino platform. [`[MPL]`](https://www.mozilla.org/en-US/MPL/2.0/)
-*   [polly (⭐858)](https://github.com/ruslo/polly) - Collection of CMake toolchain files and scripts for cross-platform build and CI testing. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
-*   [cmake (⭐9)](https://github.com/staticlibs/cmake/tree/master/toolchains) - Collection of CMake toolchain files, mostly for static linking. [`[APACHE2]`](http://www.apache.org/licenses/LICENSE-2.0)
+*   [polly (⭐868)](https://github.com/ruslo/polly) - Collection of CMake toolchain files and scripts for cross-platform build and CI testing. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
+*   [cmake (⭐11)](https://github.com/staticlibs/cmake/tree/master/toolchains) - Collection of CMake toolchain files, mostly for static linking. [`[APACHE2]`](http://www.apache.org/licenses/LICENSE-2.0)
 
 ### Examples / Templates
 
-*   [cmake-init (⭐910)](https://github.com/cginternals/cmake-init) - Template for reliable, cross-platform C++ project setup using CMake. [`[LICENSE]`](https://github.com/cginternals/cmake-init/blob/master/LICENSE)
+*   [cmake-init (⭐929)](https://github.com/cginternals/cmake-init) - Template for reliable, cross-platform C++ project setup using CMake. [`[LICENSE]`](https://github.com/cginternals/cmake-init/blob/master/LICENSE)
 *   [android-cmake (⭐34)](https://github.com/forexample/android-cmake) - Examples of using [ruslo/hunter (⭐1.9k)](https://github.com/ruslo/hunter) package manager for an Android application. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
-*   [hunter-simple (⭐49)](https://github.com/forexample/hunter-simple) - Example of downloading/installing dependencies using [ruslo/hunter (⭐1.9k)](https://github.com/ruslo/hunter) package manager. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
-*   [package-example (⭐398)](https://github.com/forexample/package-example) - Config mode of find\_package (examples for [this](http://stackoverflow.com/questions/20746936/cmake-of-what-use-is-find-package-if-you-need-to-specify-cmake-module-path-an) Stack Overflow question). `[NO LICENSE]`
-*   [minimal\_cmake\_example (⭐186)](https://github.com/krux02/minimal_cmake_example) - Minimal CMake example, that covers dependencies and packaging. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
-*   [cmake-example (⭐142)](https://github.com/bast/cmake-example) - Example project which demonstrates various CMake features. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
-*   [cmake-examples (⭐12k)](https://github.com/ttroy50/cmake-examples) - Useful CMake examples in a tutorial format. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [mini-cmake-qt (⭐208)](https://github.com/euler0/mini-cmake-qt) - Minimal CMake template for Qt 5 projects. [`[LICENSE]`](https://github.com/euler0/mini-cmake-qt/blob/master/LICENSE)
-*   [BASIS (⭐48)](https://github.com/cmake-basis/BASIS) - CMake [BASIS](https://cmake-basis.github.io) makes it easy to create sharable software and libraries that work together. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
+*   [hunter-simple (⭐51)](https://github.com/forexample/hunter-simple) - Example of downloading/installing dependencies using [ruslo/hunter (⭐1.9k)](https://github.com/ruslo/hunter) package manager. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
+*   [package-example (⭐404)](https://github.com/forexample/package-example) - Config mode of find\_package (examples for [this](http://stackoverflow.com/questions/20746936/cmake-of-what-use-is-find-package-if-you-need-to-specify-cmake-module-path-an) Stack Overflow question). `[NO LICENSE]`
+*   [minimal\_cmake\_example (⭐209)](https://github.com/krux02/minimal_cmake_example) - Minimal CMake example, that covers dependencies and packaging. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
+*   [cmake-example (⭐141)](https://github.com/bast/cmake-example) - Example project which demonstrates various CMake features. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [cmake-examples (⭐13k)](https://github.com/ttroy50/cmake-examples) - Useful CMake examples in a tutorial format. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [mini-cmake-qt (⭐219)](https://github.com/euler0/mini-cmake-qt) - Minimal CMake template for Qt 5 projects. [`[LICENSE]`](https://github.com/euler0/mini-cmake-qt/blob/master/LICENSE)
+*   [BASIS (⭐49)](https://github.com/cmake-basis/BASIS) - CMake [BASIS](https://cmake-basis.github.io) makes it easy to create sharable software and libraries that work together. [`[BSD2]`](https://opensource.org/licenses/BSD-2-Clause)
 
 ### Other
 
-*   [autocmake (⭐42)](https://github.com/coderefinery/autocmake) - Using a autocmake.yml file [Autocmake](http://autocmake.readthedocs.io/en/latest/) composes CMake building blocks into a CMake project and generates CMakeLists.txt as well as a setup script, which serves as a front-end to CMakeLists.txt. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
-*   [scikit-build (⭐482)](https://github.com/scikit-build/scikit-build) - Improved build system generator for CPython C extensions. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [node-cmake (⭐78)](https://github.com/cjntaylor/node-cmake) - CMake-based build system for node.js native modules. [`[ISC]`](https://opensource.org/licenses/ISC)
-*   [cmake-font-lock (⭐45)](https://github.com/Lindydancer/cmake-font-lock) - Advanced syntax coloring support for CMake scripts inside Emacs. [`[GPL]`](https://www.gnu.org/licenses/gpl-3.0.html)
-*   [autovala (⭐104)](https://github.com/rastersoft/autovala) - Program that automatically generates CMake configuration files for your Vala project. [`[GPL]`](https://www.gnu.org/licenses/gpl-3.0.html)
-*   [catkin (⭐317)](https://github.com/ros/catkin) - CMake-based build system that is used to build all packages in Robot Operating System (ROS). [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
-*   [suitesparse-metis-for-windows (⭐440)](https://github.com/jlblancoc/suitesparse-metis-for-windows) - CMake scripts for painless usage of SuiteSparse+METIS. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
-*   [cmake-d (⭐65)](https://github.com/dcarp/cmake-d) - CMake for D2. [`[MIT]`](https://opensource.org/licenses/MIT)
-*   [cmakeprojectmanager2 (⭐74)](https://github.com/h4tr3d/cmakeprojectmanager2) - Enhanced CMake Project Manager plugin for Qt Creator. `[NO LICENSE]`
+*   [autocmake (⭐43)](https://github.com/coderefinery/autocmake) - Using a autocmake.yml file [Autocmake](http://autocmake.readthedocs.io/en/latest/) composes CMake building blocks into a CMake project and generates CMakeLists.txt as well as a setup script, which serves as a front-end to CMakeLists.txt. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [scikit-build (⭐527)](https://github.com/scikit-build/scikit-build) - Improved build system generator for CPython C extensions. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [node-cmake (⭐77)](https://github.com/cjntaylor/node-cmake) - CMake-based build system for node.js native modules. [`[ISC]`](https://opensource.org/licenses/ISC)
+*   [cmake-font-lock (⭐47)](https://github.com/Lindydancer/cmake-font-lock) - Advanced syntax coloring support for CMake scripts inside Emacs. [`[GPL]`](https://www.gnu.org/licenses/gpl-3.0.html)
+*   [autovala (⭐105)](https://github.com/rastersoft/autovala) - Program that automatically generates CMake configuration files for your Vala project. [`[GPL]`](https://www.gnu.org/licenses/gpl-3.0.html)
+*   [catkin (⭐336)](https://github.com/ros/catkin) - CMake-based build system that is used to build all packages in Robot Operating System (ROS). [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [suitesparse-metis-for-windows (⭐465)](https://github.com/jlblancoc/suitesparse-metis-for-windows) - CMake scripts for painless usage of SuiteSparse+METIS. [`[BSD3]`](https://opensource.org/licenses/BSD-3-Clause)
+*   [cmake-d (⭐66)](https://github.com/dcarp/cmake-d) - CMake for D2. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [cmakeprojectmanager2 (⭐73)](https://github.com/h4tr3d/cmakeprojectmanager2) - Enhanced CMake Project Manager plugin for Qt Creator. `[NO LICENSE]`
 *   [cmake-lint (⭐102)](https://github.com/richq/cmake-lint) - Check for coding style issues in CMake files. cmakelint requires Python. [`[APACHE2]`](http://www.apache.org/licenses/LICENSE-2.0)
-*   [git-cmake-format (⭐58)](https://github.com/kbenzie/git-cmake-format) - Integrate clang-format into your CMake project hosted in a git repository. [`[LICENSE]`](https://github.com/kbenzie/git-cmake-format/blob/master/license.txt)
-*   [configure-cmake (⭐85)](https://github.com/nemequ/configure-cmake) - configure-cmake is an autotools-style configure script for CMake-based projects. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
-*   [cmake-ast (⭐28)](https://github.com/polysquare/cmake-ast) - Python module to reduce a CMake file to an AST. [`[MIT]`](https://opensource.org/licenses/MIT)
+*   [git-cmake-format (⭐59)](https://github.com/kbenzie/git-cmake-format) - Integrate clang-format into your CMake project hosted in a git repository. [`[LICENSE]`](https://github.com/kbenzie/git-cmake-format/blob/master/license.txt)
+*   [configure-cmake (⭐86)](https://github.com/nemequ/configure-cmake) - configure-cmake is an autotools-style configure script for CMake-based projects. [`[CC0-1.0]`](https://creativecommons.org/publicdomain/zero/1.0/)
+*   [cmake-ast (⭐33)](https://github.com/polysquare/cmake-ast) - Python module to reduce a CMake file to an AST. [`[MIT]`](https://opensource.org/licenses/MIT)

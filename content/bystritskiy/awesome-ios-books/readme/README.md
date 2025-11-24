@@ -2,7 +2,7 @@
 
 📚 Directory of iOS books
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 509 · 🏷️ Books
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/bystritskiy/awesome-ios-books/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bystritskiy/awesome-ios-books](https://github.com/bystritskiy/awesome-ios-books) · ⭐ 612 · 🏷️ Books
 
 [ [Daily](/content/bystritskiy/awesome-ios-books/README.md) / [Weekly](/content/bystritskiy/awesome-ios-books/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@
 
 |                                                                           Awesome                                                                           | Books | Last updated |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :---: | :----------: |
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  104  | Mar 18, 2025 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) |  105  | Aug 25, 2025 |
 
 ## How to Use
 
@@ -66,6 +66,7 @@
 *   [*iOS App Distribution & Best Practices* by Keegan Rush, Pietro Rea](https://www.raywenderlich.com/books/ios-app-distribution-best-practices/v1.0.ea1)
 *   [*Anyone Can Create an App* by Wendy L. Wise](https://www.manning.com/books/anyone-can-create-an-app)
 *   [*iOS Development with Swift* by Craig Grummitt](https://www.manning.com/books/ios-development-with-swift)
+*   [*Full Stack iOS Development with Swift and Vapor* by Hem Dutt](https://www.amazon.com/Full-Stack-iOS-Development-Swift-Vapor/dp/1501522574)
 
 ## Objective-C
 
@@ -186,7 +187,7 @@
 
 ## Network
 
-*   [*Guide to Swift Codable* by Flight School (Matt)](https://flight.school/books/codable/)
+*   [*Guide to Swift Codable* by Flight School (Matt)](https://flightdotschool.com/books/codable/)
 
 ## Testing
 
@@ -229,12 +230,12 @@
 
 ## Other Awesome Lists
 
-*   [awesome-ios (⭐48k)](https://github.com/vsouza/awesome-ios)
-*   [awesome-swift (⭐25k)](https://github.com/matteocrippa/awesome-swift)
+*   [awesome-ios (⭐50k)](https://github.com/vsouza/awesome-ios)
+*   [awesome-swift (⭐26k)](https://github.com/matteocrippa/awesome-swift)
 
 ## Contributing and License
 
-*   [See the guide (⭐509)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
+*   [See the guide (⭐612)](https://github.com/bystritskiy/awesome-ios-books/blob/master/CONTRIBUTING.md)
 *   Distributed under the MIT license. See LICENSE for more information.
 
 ## Star History

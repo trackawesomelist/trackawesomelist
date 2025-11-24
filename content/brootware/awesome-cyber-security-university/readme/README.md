@@ -2,7 +2,7 @@
 
 🎓 Because Education should be free. Contributions welcome! 🕵️ 
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 2.2K · 🏷️ Security
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/brootware/awesome-cyber-security-university/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 brootware/awesome-cyber-security-university](https://github.com/brootware/awesome-cyber-security-university) · ⭐ 2.6K · 🏷️ Security
 
 [ [Daily](/content/brootware/awesome-cyber-security-university/README.md) / [Weekly](/content/brootware/awesome-cyber-security-university/week/README.md) / Overview ]
 
@@ -18,7 +18,7 @@
 <i>Because education should be free.</i>
 <br/>
 
-<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="https://visitor-badge.glitch.me/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
+<a href="https://brootware.github.io/awesome-cyber-security-university/"><img src="https://vbr.nathanchung.dev/badge?page_id=brootware.cyber-security-university&right_color=blue" /></a>
 
 </div>
 
@@ -67,7 +67,7 @@ As you go through the curriculum, you will find completion badges that are hidde
 
 ## Contributing
 
-Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki (⭐2.2k)](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
+Pull requests are welcome with the condition that the resource should be free! Please read the [contribution guide in the wiki (⭐2.6k)](https://github.com/brootware/Cyber-Security-University/wiki) if you wish to add tools or resources.
 
 ## Introduction and Pre-Security
 
@@ -106,7 +106,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 *   [Tmux](https://tryhackme.com/room/rptmux) - Learn to use tmux, one of the most powerful multi-tasking tools on linux.
 *   [Nmap,Curl and Netcat](https://echoctf.red/challenge/1) - Get experience with Nmap, Curl and Netcat for network communications.
 *   [Web Scanning](https://tryhackme.com/room/rustscan) - Learn the basics of automated web scanning.
-*   [Sublist3r](https://tryhackme.com/room/rpsublist3r) - Learn how to find subdomains with Sublist3r.
+*   [Subdomain Enumeration](https://tryhackme.com/room/subdomainenumeration) - Learn how to find subdomains with different techniques.
 *   [Metasploit](https://tryhackme.com/room/metasploitintro) - An introduction to the main components of the Metasploit Framework.
 *   [Hydra](https://tryhackme.com/room/hydra) - Learn about and use Hydra, a fast network logon cracker, to bruteforce and obtain a website's credentials.
 *   [Linux Privesc](https://tryhackme.com/room/linuxprivesc) - Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root! SSH is available.
@@ -387,7 +387,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors (⭐7.9k)](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
+This project follows the [all-contributors (⭐8k)](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
 
 <!--lint disable double-link-->
 

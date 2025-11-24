@@ -2,7 +2,7 @@
 
 A curated list of awesome PlayCanvas assets, resources, and more.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 302 · 🏷️ Gaming
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/playcanvas/awesome-playcanvas/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 playcanvas/awesome-playcanvas](https://github.com/playcanvas/awesome-playcanvas) · ⭐ 359 · 🏷️ Gaming
 
 [ [Daily](/content/playcanvas/awesome-playcanvas/README.md) / [Weekly](/content/playcanvas/awesome-playcanvas/week/README.md) / Overview ]
 
@@ -41,14 +41,14 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ## PlayCanvas Products
 
-*   [PlayCanvas Engine (⭐10k)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
+*   [PlayCanvas Engine (⭐13k)](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
 *   [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
-*   [PlayCanvas React (⭐251)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
-*   [PlayCanvas Web Components (⭐42)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
+*   [PlayCanvas React (⭐417)](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
+*   [PlayCanvas Web Components (⭐76)](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
 *   [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 *   [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
-*   [Texture Tool (⭐7)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
-*   [PCUI (⭐705)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
+*   [Texture Tool (⭐8)](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
+*   [PCUI (⭐729)](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
 
 ## Community
 
@@ -80,15 +80,15 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ## Extensions and Utilities
 
 *   [8th Wall](https://www.8thwall.com/docs/api/playcanvas/getting-started/) - Markerless AR runtime.
-*   [Kinematic Character Controller (⭐1)](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
-*   [playcanvas-ar (⭐243)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
+*   [Kinematic Character Controller (⭐5)](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
+*   [playcanvas-ar (⭐246)](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 *   [playcanvas-node (⭐5)](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
 *   [playcanvas-p2.js (⭐23)](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
-*   [playcanvas-rest-api-tools (⭐25)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
+*   [playcanvas-rest-api-tools (⭐28)](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 *   [playcanvas-spine (⭐50)](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
-*   [playcanvas-tween (⭐65)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
+*   [playcanvas-tween (⭐67)](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 *   [playcanvas-vue (⭐45)](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
-*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐7.1k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
+*   [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast (⭐7.4k)](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
 *   [tween.js (⭐10k)](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 *   [Sublime Completions (⭐4)](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 *   [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - VS Code Extension that can be used instead of the built-in Code Editor.
@@ -106,12 +106,14 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ## Interactive Experiences
 
 *   [Call of Duty: Gunsmith](https://playcanv.as/p/XPWoTZ4F/) - Promotional 3D experience themed on Call of Duty.
+*   [Camille World](https://cmworld.io) - Explore 3D worlds and play as puzzles.
 *   [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - Virtual art exhibition from charity Family for Every Child.
 *   [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 *   [Da Viking Code's Metaverse](https://metavers.davikingcode.com/) - Explorable 3D project portfolio of a digital agency.
 *   [DOOH Invaders](https://vimeo.com/136313614) - World's largest Space Invaders clone unveiled at Cannes Lions.
 *   [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - Interactive opera experience created by Dumbworld from the Royal Opera House.
 *   [How Not To Suck At Money](https://hntsam.com/) - Educational game from Invesco about personal finance.
+*   [Instant Worlds](https://instantworlds.io/) - Instant, browser-based 3D worlds for brands and audiences to connect in real time.
 *   [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
 *   [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 *   [Party Space](https://www.party.space/) - Virtual events platform.
@@ -133,6 +135,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Cannon Balls 3D](https://play.famobi.com/cannon-balls-3d) - Use the cannon to destroy the various structures in this physics-based game.
 *   [Car Detailing Master](https://poki.com/en/g/car-detailing-master) - Clean, paint, and polish cars in this satisfying makeover game from Gamebole.
 *   [Color Burst 3D](https://gamesnacks.com/games/colorburst3d) - Hit the colored wall matching the ball color.
+*   [Color Up](https://elanrastudios.com/games/colorup) - Climb up carefully and stay on the right colored boxes.
 *   [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150 year anniversary.
 *   [Conundrum](https://conundrum.fun) - A word game where you solve anagrams. Fast!
 *   [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D pong game.
@@ -146,6 +149,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Garden Bloom](https://play.famobi.com/garden-bloom) - Garden themed 2D match 3 game.
 *   [Garden Match 3D](https://play.famobi.com/garden-match-3d) - 3D match 3 game.
 *   [Geometry Run](https://www.gamee.com/game/geometryrun) - Stylized endless runner built from geometric shapes.
+*   [Golf and Friends](https://gamesnacks.com/games/3v0ua21gf5hso) - Swing into a vibrant online minigolf adventure.
 *   [Hoop Royale](https://play.famobi.com/hoop-royale) - Maneuver the ring around the ball.
 *   [Jungle Friends](https://poki.com/en/g/jungle-friends) - Earn coins by helping your animal friends.
 *   [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
@@ -159,8 +163,8 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 *   [Scooter Xtreme](https://gamesnacks.com/games/scooterxtreme) - Casual scooter riding game.
 *   [Slice Rush](https://play.famobi.com/slice-rush) - Take the knife and chop your way through the kitchen.
+*   [Squid Dash](https://poki.com/en/g/squid-dash) - Help Squiddy get to the ocean.
 *   [Stack Smash](https://play.famobi.com/stack-smash) - Destroy all platforms to get to the ground and win.
-*   [Star Stable](https://www.starstable.com/en/register) - Character registration portal for popular horse game.
 *   [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
 *   [The Walking Dead: Those Beyond](https://twd.thosebeyond.io/) - A community survivor camp experience game.
 *   [TNT Bomb](https://play.famobi.com/tnt-bomb) - Destroy buildings and structures with explosive power ups.
@@ -170,6 +174,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 ### IO Games
 
+*   [99 Nights Online](https://www.crazygames.com/game/99-nights-online) - Multiplayer survival horror coop game.
 *   [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
 *   [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
 *   [Fields of Fury](https://www.fieldsoffury.io/) - Capture the flag set during WW2.
@@ -178,6 +183,8 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Mini Royale: Nations](https://miniroyale.io/) - Battle Royale first person shooter.
 *   [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 *   [Rollem](https://rollem.io/) - Guide your hamster to the end of the obstacle course in the fastest time.
+*   [Simply Prop Hunt](https://simplyprophunt.io) - Fast-paced multiplayer hide-and-seek game with a clever twist.
+*   [Simply City](https://simplycity.live) - An open world multiplayer GTA like driving game.
 *   [Simply Up](https://simplyup.io) - Climb to the top of the tower in the shortest time.
 *   [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
 *   [TANX](https://tanx.io) - Online multiplayer tank battle game.
@@ -223,6 +230,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 
 *   [3D Plans](https://3dplans.com) - Virtual tours and interactive maps for the property market.
 *   [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - Interactive 3D furniture configurator.
+*   [Bugatti Tourbillon](https://jacobandco.com/configurator/bugatti-tourbillon) - Watch configurator from Jacob & Co Timepieces.
 *   [Cibes Lifts](https://www.cibeslift.com/lift-configurator/) - Elevator configurator.
 *   [Elfa Closets](http://elfa.com/sv-se/planner) - Closet configurator.
 *   [Fjällräven Kånken](https://www.fjallraven.com/uk/en-gb/bags-gear/kanken/kanken-bags/kanken-me) - Backpack configurator.
@@ -242,13 +250,26 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [4DV](https://www.4dv.ai/) - Impressive implementation of animated Gaussian splats (4DGS).
 *   [Arrival Space](https://arrival.space/) - Social metaverse built on splat-based spaces.
 *   [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
+*   [Clos Belharra](https://adnfamily.com/studio/mj/clos_belharra/experience/index.html) - Real estate visualization blending synthetic and photo-based splats.
 *   [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
 *   [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
 *   [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.
+*   [homes.com](https://www.homes.com/property/5471-country-club-pkwy-san-jose-ca/jtpxcck89t92v/?dk=htcrxezf5771f\&tab=-1) - Exterior views for residential property listings.
+*   [LichtFeld Studio Landing Page](https://lichtfeld.io/) - Explore a splat trained by LichtFeld Studio.
+*   [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
+*   [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualisation.
+*   [Nikon Creates](https://www.creates.nikon.com/access/#3dgs) - Scans of Nikon's studio space in Tokyo.
+*   [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.
 *   [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
 *   [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
+*   [Primer on Gaussian Splatting](https://packet39.com/blog/a-primer-on-gaussian-splats/) - Blog article embedding the PlayCanvas SuperSplat Viewer.
+*   [Reflct](https://www.reflct.app/) - Curate, manage and deploy 3DGS scenes online.
+*   [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Digital twin platform.
+*   [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
+*   [Splattr](https://splattr.app) - Create gaussian splats on the cloud.
 *   [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 *   [The Season](https://adnfamily.com/studio/mj/the_season/immersive/index.html) - Real estate visualization of a modern apartment block.
+*   [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
 
 ## AR/VR/XR
 
@@ -256,6 +277,7 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 *   [Neon Bubblegum](https://www.rtz23.de/) - Demo scene style WebXR-based homepage from Karsten Weil.
 *   [Raw: Paralympics XR](https://www.phoria.com.au/projects/paralympics-xr/) - Webby 2022 nominated WebXR 360 video experience.
 *   [Storage Space 13](https://js13kgames.com/entries/storage-space-13) - Fun VR game and winner of js13k WebXR category.
+*   [Trivver](https://awesome.trivver.com) - Shop Smarter in 3D with real-time personalization and analytics.
 *   [Viverse](https://www.viverse.com/) - Open platform for virtual worlds and environments developed by HTC.
 *   [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
 
@@ -267,12 +289,10 @@ A curated list of awesome PlayCanvas assets, resources, and more.
 ## Blockchain/Crypto/NFT
 
 *   [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
-*   [Doge Temple](https://www.dogetemple.io/) - Online microverse devoted to Dogecoin.
 *   [The Crypt](https://www.crypt.art/) - Gallery for rare art and collectibles.
-*   [RareRooms](https://www.rarerooms.io/) - 3D virtual rooms for NFT collections.
 *   [Somnium Space](https://somniumspace.com/parcel/) - Virtual Reality world built on the Ethereum blockchain.
 
 ## Contributing
 
-Please see [CONTRIBUTING (⭐302)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING (⭐359)](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
 

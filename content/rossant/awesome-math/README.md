@@ -2,9 +2,33 @@
 
 A curated list of awesome mathematics resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 9.8K · 🏷️ Theory
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rossant/awesome-math/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 rossant/awesome-math](https://github.com/rossant/awesome-math) · ⭐ 12K · 🏷️ Theory
 
 [ Daily / [Weekly](/content/rossant/awesome-math/week/README.md) / [Overview](/content/rossant/awesome-math/readme/README.md) ]
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Tools
+
+*   [MathFlow (⭐49)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving)
+
+### Books
+
+*   [Math for Frontend Web Dev](https://www.manning.com/books/math-for-frontend-web-dev)
+*   [Grokking Statistics](https://www.manning.com/books/grokking-statistics)
+
+### Combinatorics / Lie Algebras
+
+*   📝 [Basic Combinatorics](http://web.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner (University of Tennessee)
+
+### Combinatorics / Graph Theory
+
+*   📝 [Graph Theory : Interactive Algorithm Visualizer | Graph Theory Learning Platform](https://learngraphtheory.org/) - Hadjoudj Mohammed Islam
+
+### Analysis / Chaos Theory
+
+*   📝 [Chaos: Making a New Science](https://archive.org/details/chaosmakingnewsc0000unse) - James Gleick
+*   📝 [Complexity: A Guided Tour](https://archive.org/details/complexityguided0000mitc?utm_source=chatgpt.com) - Melanie Mitchell (Oxford University)
 
 ## [Jul 18, 2025](/content/2025/07/18/README.md)
 
@@ -196,7 +220,7 @@ A curated list of awesome mathematics resources
 
 ### Mathematical Physics / Stochastic processes
 
-*   [Theoretical Computer Science (⭐885)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
+*   [Theoretical Computer Science (⭐1k)](https://github.com/mostafatouny/awesome-theoretical-computer-science)
 
 ## [Feb 18, 2022](/content/2022/02/18/README.md)
 
@@ -243,7 +267,7 @@ A curated list of awesome mathematics resources
 
 ### Books
 
-*   [Free Mathematics Books (⭐363k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
+*   [Free Mathematics Books (⭐378k)](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-subjects.md#mathematics)
 
 ## [Aug 19, 2021](/content/2021/08/19/README.md)
 
@@ -843,13 +867,13 @@ A curated list of awesome mathematics resources
 
 ### Algebra / Linear Algebra
 
-*   📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐560)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+*   📝 [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks (⭐566)](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ## [Sep 07, 2016](/content/2016/09/07/README.md)
 
 ### Learn to Learn
 
-*   [Understanding Mathematics (⭐1.1k)](https://github.com/nelson-brochado/understanding-math)
+*   [Understanding Mathematics (⭐1.2k)](https://github.com/nelson-brochado/understanding-math)
 
 ## [Aug 09, 2016](/content/2016/08/09/README.md)
 
@@ -961,7 +985,6 @@ A curated list of awesome mathematics resources
 
 ### Combinatorics / Lie Algebras
 
-*   📝 [Basic Combinatorics](http://www.math.utk.edu/~wagner/papers/comb.pdf) - Carl G. Wagner (University of Tennessee)
 *   📝 [Applied Combinatorics](http://people.math.gatech.edu/~trotter/book.pdf) - Mitchel T. Keller, William T. Trotter
 *   📝 [Notes on Combinatorics](http://www.maths.qmul.ac.uk/~pjc/notes/comb.pdf) - Peter J. Cameron
 *   📝 [Analytic Combinatorics](http://algo.inria.fr/flajolet/Publications/book.pdf) - Philippe Flajolet, Robert Sedgewick

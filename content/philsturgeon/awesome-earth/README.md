@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/philsturgeon/awesome-earth/week/README.md) / [Overview](/content/philsturgeon/awesome-earth/readme/README.md) ]
 
+## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Reforestation
+
+*   [1 Click Impact](https://1clickimpact.com/) - 1ClickImpact is an easy-to-use and transparent platform to automatically plant trees through API or no-code integrations. Every tree is trackable in real time with maps, verified updates, and exclusive access to live planting sessions. It makes reforestation simple, measurable, and a visible part of your brand’s sustainability journey.
+
+### Development
+
+*   [1 Click Impact](https://docs.1clickimpact.com/) - Comprehensive sustainability API platform for developers featuring Tree Planting API, Carbon Capture API, Ocean Cleanup API, and more. Plant trees with every purchase, offset carbon emissions automatically, clean oceans, and integrate sustainability features seamlessly into your existing products. Easy integration for e-commerce platforms, mobile apps, and web applications to make any business climate-positive with minimal code.
+
 ## [Apr 23, 2025](/content/2025/04/23/README.md)
 
 ### Development
@@ -114,7 +124,7 @@
 
 ### Jobs
 
-*   [awesome-sustainability-jobs (⭐488)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
+*   [awesome-sustainability-jobs (⭐500)](https://github.com/pogopaule/awesome-sustainability-jobs) - A curated, open source list of developer jobs in the sustainability sector.
 
 ## [Apr 06, 2021](/content/2021/04/06/README.md)
 
@@ -334,7 +344,7 @@
 
 *   [MakeSense Jobs](https://jobs.makesense.org) - Makesense inspires and empowers citizens, entrepreneurs and organizations to build an inclusive and sustainable society together. MakeSense's Job and assignment announcements platform for associations and social entrepreneurs who recruit profiles passionate about the impact. Job types include internship, freelance, civic service, partner, program, volunteer mission, mentoring.
 *   [Clean Trails](https://www.cleantrails.org/join) - Step by step, and little by little, our aim is to eliminate waste on all the trails that grace our public lands. We believe we can do that in a positive and proactive manner by educating, encouraging, and reconnecting outdoor users to our pristine places.
-*   [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions.  Help discover how the climate could look by running software on your computer.
+*   [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions. Help discover how the climate could look by running software on your computer.
 
 ### Jobs
 

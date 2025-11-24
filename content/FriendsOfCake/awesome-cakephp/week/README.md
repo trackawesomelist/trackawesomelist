@@ -2,15 +2,89 @@
 
 A curated list of amazingly awesome CakePHP plugins, resources and shiny things. 
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/FriendsOfCake/awesome-cakephp/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 FriendsOfCake/awesome-cakephp](https://github.com/FriendsOfCake/awesome-cakephp) · ⭐ 917 · 🏷️ Back-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/FriendsOfCake/awesome-cakephp/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 FriendsOfCake/awesome-cakephp](https://github.com/FriendsOfCake/awesome-cakephp) · ⭐ 924 · 🏷️ Back-End Development
 
 [ [Daily](/content/FriendsOfCake/awesome-cakephp/README.md) / Weekly / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
+
+## [Nov 24 - Nov 30, 2025](/content/2025/47/README.md)
+
+### Auditing / Logging
+
+*   [Bouncer plugin (⭐0)](https://github.com/dereuromark/cakephp-bouncer) - The pendant to AuditStash, allow moderation and approval of add/edit/delete actions before the actual change is applied.
+
+### Testing
+
+*   [CakephpFixtureFactories plugin (⭐1)](https://github.com/dereuromark/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+
+### Development Environment
+
+*   [Galley](https://gitlab.com/amayer5125/galley) - A small Docker dev environment for CakePHP development which includes a simple command line utility.
+
+## [Nov 10 - Nov 16, 2025](/content/2025/45/README.md)
+
+### Miscellaneous
+
+*   [DatabaseBackup plugin (⭐23)](https://github.com/mirko-pagliai/cakephp-database-backup) - A plugin to to export, import and manage database backups. Currently, the plugin supports MySql, Postgres and Sqlite databases.
+
+## [Nov 03 - Nov 09, 2025](/content/2025/44/README.md)
+
+### Auditing / Logging
+
+*   [AuditStash plugin (⭐1)](https://github.com/dereuromark/cakephp-audit-stash) - Flexible and rock solid audit log tracking.
+
+## [Oct 27 - Nov 02, 2025](/content/2025/43/README.md)
+
+### Notifications and Real-time Communication
+
+*   [Mercure plugin (⭐0)](https://github.com/josbeir/cakephp-mercure) - Push real-time updates to clients using the Mercure protocol.
+
+## [Sep 29 - Oct 05, 2025](/content/2025/39/README.md)
+
+### Miscellaneous
+
+*   [CakeHtmx plugin (⭐18)](https://github.com/zunnu/cake-htmx) - CakePHP integration for [htmx](https://htmx.org/).
+
+### Queue
+
+*   [Cake/Enqueue plugin (⭐0)](https://github.com/CakeDC/cakephp-enqueue) - Database-driven message queue integration using the Enqueue library for CakePHP Queue plugin.
+
+## [Sep 22 - Sep 28, 2025](/content/2025/38/README.md)
+
+### Console
+
+*   [Scheduling plugin (⭐2)](https://github.com/skie/cakephp-scheduling) - The plugin provides task scheduling capabilities with sub-minute precision, allowing you to schedule tasks as frequently as every second, with single crontab entry point. It allows tasks monitoring.
+
+## [Sep 15 - Sep 21, 2025](/content/2025/37/README.md)
+
+### Filtering and Validation
+
+*   [RuleFlow plugin (⭐1)](https://github.com/skie/rule-flow) - A plugin that seamlessly transforms server-side validation rules into client-side JSON Logic validation, providing automatic form validation without requiring separate client-side validation code.
+
+### Templating
+
+*   [TemplaterDefaults plugin (⭐0)](https://github.com/josbeir/cakephp-templater-defaults) - Allows the use of default HTML attributes within CakePHP's string template system.
+
+## [Sep 08 - Sep 14, 2025](/content/2025/36/README.md)
+
+### Console
+
+*   [SignalHandler plugin (⭐2)](https://github.com/skie/SignalHandler) - Cross-platform signal handling for CakePHP console commands with zero external dependencies. Supports Linux (pcntl), Windows (native API).
+
+### Templating
+
+*   [LatteView plugin (⭐1)](https://github.com/josbeir/cakephp-latte-view) - A plugin providing Latte template engine integration.
+
+## [Aug 11 - Aug 17, 2025](/content/2025/32/README.md)
+
+### ORM / Database / Datamapping
+
+*   [CakeUid (⭐0)](https://github.com/josbeir/cakephp-uid) - A collection of UID field types for your Tables (UUIDV4, UUIDV6, UUIDV7, ULID).
 
 ## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
 
 ### Asset Management
 
-*   [ViteHelper plugin (⭐21)](https://github.com/brandcom/cakephp-vite) - Provides integration with [Vite](https://vite.dev/) asset compilation.
+*   [ViteHelper plugin (⭐22)](https://github.com/brandcom/cakephp-vite) - Provides integration with [Vite](https://vite.dev/) asset compilation.
 
 ## [May 26 - Jun 01, 2025](/content/2025/21/README.md)
 
@@ -23,13 +97,13 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### I18n
 
-*   [Translate plugin (⭐16)](https://github.com/dereuromark/cakephp-translate) - Translate your translations in the backend with ease.
+*   [Translate plugin (⭐17)](https://github.com/dereuromark/cakephp-translate) - Translate your translations in the backend with ease.
 
 ## [Mar 24 - Mar 30, 2025](/content/2025/12/README.md)
 
 ### Miscellaneous
 
-*   [Inertia plugin (⭐11)](https://github.com/CakeDC/cakephp-inertia) - Plugin for connecting a Vue 3 app and use an API interface using a middleware.
+*   [Inertia plugin (⭐12)](https://github.com/CakeDC/cakephp-inertia) - Plugin for connecting a Vue 3 app and use an API interface using a middleware.
 
 ## [Jan 13 - Jan 19, 2025](/content/2025/2/README.md)
 
@@ -57,7 +131,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Skeleton
 
-*   [BS flavored App template (⭐3)](https://github.com/dereuromark/cakephp-app) - An empty CakePHP project with BS5 and FontAwesome out of the box.
+*   [BS flavored App template (⭐5)](https://github.com/dereuromark/cakephp-app) - An empty CakePHP project with BS5 and FontAwesome out of the box.
 
 ### Templating
 
@@ -67,7 +141,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Search
 
-*   [CakeDC/SearchFilter plugin (⭐0)](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
+*   [CakeDC/SearchFilter plugin (⭐1)](https://github.com/CakeDC/search-filter) - Powerful and flexible solution for implementing advanced search functionality. Provides a robust set of tools for creating dynamic, user-friendly search interfaces with minimal effort.
 
 ## [Apr 08 - Apr 14, 2024](/content/2024/15/README.md)
 
@@ -104,25 +178,25 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Templating
 
-*   [Templating (⭐2)](https://github.com/dereuromark/cakephp-templating) - HTML snippets as value objects, (Font) icons, and templating topics.
+*   [Templating (⭐5)](https://github.com/dereuromark/cakephp-templating) - HTML snippets as value objects, (Font) icons, and templating topics.
 
 ## [Nov 27 - Dec 03, 2023](/content/2023/48/README.md)
 
 ### Queue
 
-*   [QueueScheduler plugin (⭐6)](https://github.com/dereuromark/cakephp-queue-scheduler) - A dependency-free crontab-like scheduler as DB driven solution and addon to Queue (dereuromark) plugin.
+*   [QueueScheduler plugin (⭐7)](https://github.com/dereuromark/cakephp-queue-scheduler) - A dependency-free crontab-like scheduler as DB driven solution and addon to Queue (dereuromark) plugin.
 
 ## [Oct 02 - Oct 08, 2023](/content/2023/40/README.md)
 
 ### Templating
 
-*   [Tools:Tree (⭐336)](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
+*   [Tools:Tree (⭐334)](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
 
 ## [Aug 07 - Aug 13, 2023](/content/2023/32/README.md)
 
 ### Code Analysis
 
-*   [IdeHelperExtra plugin (⭐2)](https://github.com/dereuromark/cakephp-ide-helper-extra) - Useful IdeHelper addons for other plugins or custom use cases.
+*   [IdeHelperExtra plugin (⭐1)](https://github.com/dereuromark/cakephp-ide-helper-extra) - Useful IdeHelper addons for other plugins or custom use cases.
 
 ## [Jul 31 - Aug 06, 2023](/content/2023/31/README.md)
 
@@ -134,31 +208,31 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### CMS and applications built on CakePHP
 
-*   [baserCMS (⭐179)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
+*   [baserCMS (⭐184)](https://github.com/baserproject/basercms) - This is a website development framework with RESTful APIs. Installable as a plugin for CakePHP.
 
 ## [Feb 13 - Feb 19, 2023](/content/2023/7/README.md)
 
 ### Queue
 
-*   [Queue plugin (⭐36)](https://github.com/cakephp/queue) - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
+*   [Queue plugin (⭐37)](https://github.com/cakephp/queue) - CakePHP core queue system for the [php-queue](https://php-enqueue.github.io) queue library.
 
 ## [Dec 12 - Dec 18, 2022](/content/2022/50/README.md)
 
 ### REST and API
 
-*   [CRUD plugin (⭐374)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
+*   [CRUD plugin (⭐375)](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
 ### File Manipulation
 
-*   [FileStorage plugin (⭐4)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
+*   [FileStorage plugin (⭐5)](https://github.com/dereuromark/cakephp-file-storage) - Flexible file storage and upload plugin.
 
 ## [Nov 07 - Nov 13, 2022](/content/2022/45/README.md)
 
 ### Debugging
 
-*   [Sentry plugin (⭐11)](https://github.com/lordsimal/cakephp-sentry) A plugin to seamlessly integrate Sentry for errors and exceptions.
+*   [Sentry plugin (⭐12)](https://github.com/lordsimal/cakephp-sentry) A plugin to seamlessly integrate Sentry for errors and exceptions.
 
 ## [Oct 24 - Oct 30, 2022](/content/2022/43/README.md)
 
@@ -176,13 +250,13 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### REST and API
 
-*   [SwaggerBake plugin (⭐60)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
+*   [SwaggerBake plugin (⭐61)](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
 
 ## [Apr 25 - May 01, 2022](/content/2022/17/README.md)
 
 ### Auditing / Logging
 
-*   [Version plugin (⭐50)](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
+*   [Version plugin (⭐49)](https://github.com/josegonzalez/cakephp-version) - A plugin that facilitates versioned database entities.
 
 ## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
 
@@ -195,10 +269,6 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 ### REST and API
 
 *   [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
-
-### Development Environment
-
-*   [Galley](https://gitlab.com/amayer5125/galley) - A small Docker dev environment for CakePHP development which includes a simple command line utility.
 
 ## [Jun 14 - Jun 20, 2021](/content/2021/24/README.md)
 
@@ -216,7 +286,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Authentication and Authorization
 
-*   [ADmad/SocialAuth plugin (⭐51)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐555)](https://github.com/SocialConnect/auth) social sign on library.
+*   [ADmad/SocialAuth plugin (⭐51)](https://github.com/ADmad/cakephp-social-auth) - A plugin which allows you to authenticate using social providers like Facebook/Google/Twitter etc. using [SocialConnect/auth (⭐560)](https://github.com/SocialConnect/auth) social sign on library.
 
 ### Development Environment
 
@@ -240,19 +310,15 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Templating
 
-*   [TwigView plugin (⭐14)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
+*   [TwigView plugin (⭐15)](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
 
 ## [Jan 11 - Jan 17, 2021](/content/2021/2/README.md)
 
 ### REST and API
 
-*   [FractalTransformerView plugin (⭐19)](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
+*   [FractalTransformerView plugin (⭐18)](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 
 ## [Jan 04 - Jan 10, 2021](/content/2020/53/README.md)
-
-### Auditing / Logging
-
-*   [AuditStash plugin (⭐79)](https://github.com/lorenzo/audit-stash) - Flexible and rock solid audit log tracking.
 
 ### Debugging
 
@@ -262,11 +328,11 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Migration
 
-*   [Upgrade app (extended) (⭐24)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
+*   [Upgrade app (extended) (⭐23)](https://github.com/dereuromark/upgrade) - An extended upgrade app for 3.x=>4.x and some 5.x snippets.
 
 ### Development Environment
 
-*   [NetBeans (⭐46)](https://github.com/junichi11/cakephp3-netbeans) -  This package provides support for CakePHP in NetBeans 8.1+.
+*   [NetBeans (⭐47)](https://github.com/junichi11/cakephp3-netbeans) - This package provides support for CakePHP in NetBeans 8.1+.
 
 ## [Oct 05 - Oct 11, 2020](/content/2020/40/README.md)
 
@@ -278,25 +344,19 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Skeleton
 
-*   [App template (⭐375)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
+*   [App template (⭐381)](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
 
 ## [Jul 27 - Aug 02, 2020](/content/2020/30/README.md)
 
 ### Asset Management
 
-*   [AssetMix plugin (⭐34)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
-
-## [Jun 08 - Jun 14, 2020](/content/2020/23/README.md)
-
-### Testing
-
-*   [CakephpFixtureFactories plugin (⭐85)](https://github.com/pakacuda/cakephp-fixture-factories) - Create your fixtures dynamically on a test basis, accelerate the writing and maintenance of your tests.
+*   [AssetMix plugin (⭐33)](https://github.com/ishanvyas22/asset-mix) - Provides integration with [Laravel Mix](https://laravel-mix.com) asset compilation.
 
 ## [Apr 20 - Apr 26, 2020](/content/2020/16/README.md)
 
 ### File Manipulation
 
-*   [Josegonzalez/Upload plugin (⭐550)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
+*   [Josegonzalez/Upload plugin (⭐548)](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](https://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 
 ## [Apr 13 - Apr 19, 2020](/content/2020/15/README.md)
 
@@ -314,7 +374,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Architecture
 
-*   [Burzum/CakeServiceLayer plugin (⭐67)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
+*   [Burzum/CakeServiceLayer plugin (⭐68)](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
 
 ### Geolocation
 
@@ -334,7 +394,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Miscellaneous
 
-*   [Setup:Maintenance (⭐34)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
+*   [Setup:Maintenance (⭐35)](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 
 ### Social
 
@@ -356,13 +416,13 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### ORM / Database / Datamapping
 
-*   [Lampager/Cake plugin (⭐5)](https://github.com/lampager/lampager-cakephp) - Rapid pagination without using OFFSET.
+*   [Lampager/Cake plugin (⭐7)](https://github.com/lampager/lampager-cakephp) - Rapid pagination without using OFFSET.
 
 ## [Feb 10 - Feb 16, 2020](/content/2020/6/README.md)
 
 ### Authentication and Authorization
 
-*   [TwoFactorAuth plugin (⭐37)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐1.1k)](https://github.com/RobThree/TwoFactorAuth) library.
+*   [TwoFactorAuth plugin (⭐37)](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth (⭐1.2k)](https://github.com/RobThree/TwoFactorAuth) library.
 
 ## [Feb 03 - Feb 09, 2020](/content/2020/5/README.md)
 
@@ -372,15 +432,15 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Authentication and Authorization
 
-*   [CakeDC/Users plugin (⭐525)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
+*   [CakeDC/Users plugin (⭐526)](https://github.com/CakeDC/users) - Complete user management (admin panel, remember me, etc), Social login (FB, Twitter, LinkedIn, Google, Instagram), RBAC, API and more.
 
 ### Migration
 
-*   [Migrations plugin (⭐137)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
+*   [Migrations plugin (⭐138)](https://github.com/cakephp/migrations) - (DB) Migration plugin.
 
 ### ORM / Database / Datamapping
 
-*   [Muffin/Trash plugin (⭐85)](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
+*   [Muffin/Trash plugin (⭐84)](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
 
 ### REST and API
 
@@ -390,7 +450,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Authentication and Authorization
 
-*   [Tools:Passwordable (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior (⭐336)](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing.
+*   [Tools:Passwordable (⭐334)](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior (⭐334)](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing.
 
 ### Caching
 
@@ -398,7 +458,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Miscellaneous
 
-*   [Tools plugin (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
+*   [Tools plugin (⭐334)](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
 
 ### Search
 
@@ -406,17 +466,17 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### SEO
 
-*   [Tools:Slugged (⭐336)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
+*   [Tools:Slugged (⭐334)](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
 ## [Jan 13 - Jan 19, 2020](/content/2020/2/README.md)
 
 ### Debugging
 
-*   [DebugKit plugin (⭐848)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
+*   [DebugKit plugin (⭐845)](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 
 ### Miscellaneous
 
-*   [Ajax plugin (⭐56)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
+*   [Ajax plugin (⭐55)](https://github.com/dereuromark/cakephp-ajax) - A plugin to ease handling AJAX requests.
 
 ### Navigation
 
@@ -438,11 +498,11 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Debugging
 
-*   [Setup plugin (⭐34)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
+*   [Setup plugin (⭐35)](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing healthcheck(s), debugging and maintenance tools.
 
 ### Miscellaneous
 
-*   [Calendar plugin (⭐16)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
+*   [Calendar plugin (⭐15)](https://github.com/dereuromark/cakephp-calendar) - For generating basic calendars. Includes IcalView for ICS calendar file generation.
 *   [Feedback plugin (⭐7)](https://github.com/dereuromark/cakephp-feedback) - Allow visitors to send quick and easy feedback incl. a screenshot via sidebar form.
 
 ### ORM / Database / Datamapping
@@ -471,12 +531,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Code Analysis
 
-*   [IdeHelper plugin (⭐186)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
+*   [IdeHelper plugin (⭐183)](https://github.com/dereuromark/cakephp-ide-helper) - Helps to make IDE support better by adding annotations to your existing code similar to what baking does to new code.
 *   [TestHelper plugin (⭐7)](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
 ### Queue
 
-*   [Queue plugin (⭐306)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
+*   [Queue plugin (⭐308)](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.
 
 ### I18n
 
@@ -484,17 +544,17 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Imagery
 
-*   [ADmad/Glide plugin (⭐35)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
+*   [ADmad/Glide plugin (⭐34)](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
 
 ### Migration
 
-*   [Upgrade app (⭐110)](https://github.com/cakephp/upgrade) - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
+*   [Upgrade app (⭐112)](https://github.com/cakephp/upgrade) - Official upgrade app for 3.x=>4.x and 4.x=>5.x.
 
 ### Miscellaneous
 
-*   [CakeDto plugin (⭐24)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
+*   [CakeDto plugin (⭐26)](https://github.com/dereuromark/cakephp-dto) - Quickly generate useful data transfer objects for your app (mutable/immutable), replacing messy arrays and leveraging your IDE through typehinting and autocomplete.
 *   [Flash plugin (⭐12)](https://github.com/dereuromark/cakephp-flash) - More powerful flash messages for your application.
-*   [Shim plugin (⭐38)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
+*   [Shim plugin (⭐40)](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
 
 ### ORM / Database / Datamapping
 
@@ -508,7 +568,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Security
 
-*   [Muffin/Throttle plugin (⭐63)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
+*   [Muffin/Throttle plugin (⭐62)](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
 
 ### SEO
 
@@ -516,8 +576,8 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Templating
 
-*   [Bake plugin (⭐111)](https://github.com/cakephp/bake) - Provides code generation functionality.
-*   [BootstrapUI plugin (⭐347)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
+*   [Bake plugin (⭐112)](https://github.com/cakephp/bake) - Provides code generation functionality.
+*   [BootstrapUI plugin (⭐352)](https://github.com/friendsofcake/bootstrap-ui) - Bootstrap 4/5 integration.
 *   [CsvView plugin (⭐176)](https://github.com/FriendsOfCake/cakephp-csvview) - A view class to easily generate CSV.
 
 ## [Nov 18 - Nov 24, 2019](/content/2019/46/README.md)
@@ -569,25 +629,25 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Demo
 
-*   [BlogMVC (⭐8)](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project (⭐213)](https://github.com/Grafikart/BlogMVC).
+*   [BlogMVC (⭐8)](https://github.com/Kareylo/BlogMVC-CakePHP3) - A simple Blog example with CakePHP based on [BlogMVC Project (⭐212)](https://github.com/Grafikart/BlogMVC).
 
 ## [May 08 - May 14, 2017](/content/2017/19/README.md)
 
 ### Demo
 
-*   [RealWorld (⭐104)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐82k)](https://github.com/gothinkster/realworld-example-apps) spec and API.
+*   [RealWorld (⭐104)](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld (⭐83k)](https://github.com/gothinkster/realworld-example-apps) spec and API.
 
 ## [Apr 17 - Apr 23, 2017](/content/2017/16/README.md)
 
 ### Development Environment
 
-*   [Docker (⭐31)](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.
+*   [Docker (⭐30)](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a docker container environment.
 
 ## [Dec 12 - Dec 18, 2016](/content/2016/50/README.md)
 
 ### Demo
 
-*   [Xeta (⭐52)](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
+*   [Xeta (⭐51)](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
 
 ## [Jun 06 - Jun 12, 2016](/content/2016/23/README.md)
 
@@ -607,7 +667,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### Testing
 
-*   [CakePHP CodeSniffer rules (⭐236)](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
+*   [CakePHP CodeSniffer rules (⭐233)](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 
 ## [Nov 16 - Nov 22, 2015](/content/2015/46/README.md)
 
@@ -631,4 +691,4 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 ### CakePHP Internals Reading
 
-*   [Top 10 (and more) core contributors (⭐8.7k)](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.
+*   [Top 10 (and more) core contributors (⭐8.8k)](https://github.com/cakephp/cakephp/graphs/contributors) - Give 'em a hand.

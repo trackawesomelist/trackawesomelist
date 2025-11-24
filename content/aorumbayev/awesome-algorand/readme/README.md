@@ -2,7 +2,7 @@
 
 ⚡A curated list of awesome resources related to the Ⱥlgorand Blockchain ⛓
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/aorumbayev/awesome-algorand/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aorumbayev/awesome-algorand](https://github.com/awesome-algorand/awesome-algorand) · ⭐ 197 · 🏷️ Decentralized Systems
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/aorumbayev/awesome-algorand/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 aorumbayev/awesome-algorand](https://github.com/awesome-algorand/awesome-algorand) · ⭐ 206 · 🏷️ Decentralized Systems
 
 [ [Daily](/content/aorumbayev/awesome-algorand/README.md) / [Weekly](/content/aorumbayev/awesome-algorand/week/README.md) / Overview ]
 
@@ -11,25 +11,25 @@
 # Awesome Algorand [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
-<a href="https://github.com/aorumbayev/awesome-algorand"><img src="https://ipfs.algonode.xyz/ipfs/QmfTGB4EFu1FypcZEWWgs3jCmFw75MrqezVV7oQbnbQPyQ" /></a>
+<a href="https://github.com/awesome-algorand/awesome-algorand"><img src="https://dweb.link/ipfs/QmfTGB4EFu1FypcZEWWgs3jCmFw75MrqezVV7oQbnbQPyQ" /></a>
 </div>
 <br/>
 <div align="center">
 ⚡ A curated list of awesome resources related to the <a href='https://www.algorand.co/'>Algorand</a> Blockchain.
 <br />
 <br />
-Algorand is an open-source, proof of stake blockchain and smart contract computing platform.
+Algorand is an open-source, proof of stake Blockchain and smart contract computing platform.
 </div>
 
 <p align="center">
     <img  src="https://api.visitorbadge.io/api/visitors?path=aorumbayev%2Fawesome-algorand&countColor=%23000000&style=flat" />
     <a target="_blank" href="https://awesomealgo.com"><img src="https://img.shields.io/badge/url-website-black.svg" /></a>
-    <a target="_blank" href="https://github.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/badge/url-repository-black.svg" /></a>
+    <a target="_blank" href="https://github.com/awesome-algorand/awesome-algorand"><img src="https://img.shields.io/badge/url-repository-black.svg" /></a>
     <br />
     <a target="_blank" href="https://rss.com/podcasts/the-awesomealgo-podcast"><img src="https://img.shields.io/badge/podcast-rss-black.svg?color=gold" /></a>
-    <a target="_blank" href="https://developer.algorand.org"><img src="https://img.shields.io/coincap/price-usd/algorand?color=teal" /></a>
-    <a target="_blank" href="https://github.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?color=teal" /></a>
-    <a target="_blank" href="https://github.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=gold" /></a>
+    <a target="_blank" href="https://coinmarketcap.com/currencies/algorand/"><img src="https://img.shields.io/badge/coinmarketcap-price-black.svg?color=teal" /></a>
+    <a target="_blank" href="https://github.com/awesome-algorand/awesome-algorand"><img src="https://img.shields.io/github/stars/awesome-algorand/awesome-algorand?color=teal" /></a>
+    <a target="_blank" href="https://github.com/awesome-algorand/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/awesome-algorand/awesome-algorand?color=gold" /></a>
 </p>
 
 ## Contents
@@ -69,6 +69,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [Application Platforms & Examples](#application-platforms--examples)
     *   [DeFi Platforms](#defi-platforms)
     *   [NFT Marketplaces](#nft-marketplaces)
+    *   [Prediction Markets](#prediction-markets)
     *   [Subscription Management](#subscription-management)
     *   [Decentralized voting](#decentralized-voting)
 *   [Standards](#standards)
@@ -85,31 +86,33 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [Algorand FAQ](https://algorand.foundation/faq) - FAQ maintained by the Algorand Foundation.
 *   [Algorand Governance](https://governance.algorand.foundation/) - Official website of Algorand Governance program.
 *   [Algorand Developer Portal](https://dev.algorand.co/) - Official Algorand developer portal.
+*   [Algorand Protocol Specs (⭐69)](https://github.com/algorandfoundation/specs) - Protocol-level specification documents for the Algorand platform.
 *   [Algorand Discord](https://discord.com/invite/YgPTCVk) - Official Algorand Discord server.
 
 ### AlgoKit
 
 > AlgoKit is the official one-stop shop tool for developers building on the Algorand network. Maintained by the Algorand Foundation.
 
-*   [algokit-cli (⭐179)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.
-*   [algokit-lora](https://lora.algokit.io/mainnet) - Lora is a powerful visual tool designed to streamline the Algorand local development experience. It acts as both a network explorer and a tool for building and testing your Algorand applications.
+*   [algokit-cli (⭐188)](https://github.com/algorandfoundation/algokit-cli) - The Algorand AlgoKit CLI is the one-stop shop tool for developers building on the Algorand network.
+*   [algokit-lora](https://lora.algokit.io/mainnet) - Visual local network explorer & app builder for testing Algorand applications (deploy contracts, inspect state, craft transactions).
 *   [AlgoKit Docs](https://dev.algorand.co/algokit/algokit-intro/) - Official Algorand AlgoKit documentation.
-*   [algokit-utils-py (⭐14)](https://github.com/algorandfoundation/algokit-utils-py) - Algorand AlgoKit Utils for Python.
-*   [algokit-utils-ts (⭐21)](https://github.com/algorandfoundation/algokit-utils-ts) - Algorand AlgoKit Utils for TypeScript.
+*   [algokit-utils-py (⭐17)](https://github.com/algorandfoundation/algokit-utils-py) - Algorand AlgoKit Utils for Python.
+*   [algokit-core (⭐13)](https://github.com/algorandfoundation/algokit-core) - Multi-language core primitives (Rust + FFI bindings) powering higher-level AlgoKit tooling (crypto, encoding, protocol logic).
+*   [algokit-utils-ts (⭐23)](https://github.com/algorandfoundation/algokit-utils-ts) - Algorand AlgoKit Utils for TypeScript.
 *   [algokit-client-generator-py (⭐3)](https://github.com/algorandfoundation/algokit-client-generator-py) - Algorand AlgoKit Typed Client Generator for Python.
 *   [algokit-client-generator-ts (⭐4)](https://github.com/algorandfoundation/algokit-client-generator-ts) - Algorand AlgoKit Typed Client Generator for TypeScript.
-*   [puya (⭐94)](https://github.com/algorandfoundation/puya) - An official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
-*   [puya-ts (⭐10)](https://github.com/algorandfoundation/puya-ts) - An official TypeScript to TEAL compiler frontend, leveraging the core puya compiler, allows you to write code to execute on the Algorand Virtual Machine (AVM) with TypeScript syntax.
-*   [algorand-python-testing (⭐9)](https://github.com/algorandfoundation/algorand-python-testing) - A Python library for unit testing Algorand Python smart contracts without the need to interact with the Algorand blockchain.
-*   [algorand-typescript-testing (⭐2)](https://github.com/algorandfoundation/algorand-typescript-testing) - A TypeScript library for unit testing Algorand smart contracts without the need to interact with the Algorand blockchain.
-*   [algokit-avm-vscode-debugger (⭐11)](https://github.com/algorandfoundation/algokit-avm-vscode-debugger) - A VSCode extension for line-by-line debugging Algorand Python, Algorand Typescript, TealScript and raw TEAL smart contracts running on the Algorand Virtual Machine (AVM).
+*   [puya (⭐95)](https://github.com/algorandfoundation/puya) - An official Python to TEAL compiler that allows you to write code to execute on the Algorand Virtual Machine (AVM) with Python syntax.
+*   [puya-ts (⭐12)](https://github.com/algorandfoundation/puya-ts) - An official TypeScript to TEAL compiler frontend, leveraging the core puya compiler, allows you to write code to execute on the Algorand Virtual Machine (AVM) with TypeScript syntax.
+*   [algorand-python-testing (⭐9)](https://github.com/algorandfoundation/algorand-python-testing) - A Python library for unit testing Algorand Python smart contracts without the need to interact with the Algorand Blockchain.
+*   [algorand-TypeScript-testing (⭐3)](https://github.com/algorandfoundation/algorand-TypeScript-testing) - A TypeScript library for unit testing Algorand smart contracts without the need to interact with the Algorand Blockchain.
+*   [algokit-avm-vscode-debugger (⭐12)](https://github.com/algorandfoundation/algokit-avm-vscode-debugger) - VSCode extension for line‑by‑line debugging of Algorand Python, TypeScript, TealScript and raw TEAL smart contracts via AVM traces.
 
 ### AlgoKit Templates
 
-> AlgoKit templates are a set of starter and production-ready baseline templates for developing and deploying Algorand applications. They are designed to be used as a starting point for developers to quickly bootstrap their projects and focus on the business logic of their applications. Refer to [Creating AlgoKit Templates (⭐179)](https://github.com/algorandfoundation/algokit-cli/blob/main/docs/tutorials/algokit-template.md) for a general guide on how to create your own AlgoKit templates.
+> AlgoKit templates are a set of starter and production-ready baseline templates for developing and deploying Algorand applications. They are designed to be used as a starting point for developers to quickly bootstrap their projects and focus on the business logic of their applications. Refer to [Creating AlgoKit Templates (⭐188)](https://github.com/algorandfoundation/algokit-cli/blob/main/docs/tutorials/algokit-template.md) for a general guide on how to create your own AlgoKit templates.
 
-*   [algokit-python-template (⭐6)](https://github.com/algorandfoundation/algokit-python-template) - Official AlgoKit's Algorand Python template provides a production-ready baseline for developing and deploying smart contracts in Python.
-*   [algokit-typescript-template (⭐2)](https://github.com/algorandfoundation/algokit-typescript-template) - Official AlgoKit's Algorand TypeScript template provides a production-ready baseline for developing and deploying smart contracts in TypeScript.
+*   [algokit-python-template (⭐7)](https://github.com/algorandfoundation/algokit-python-template) - Official AlgoKit's Algorand Python template provides a production-ready baseline for developing and deploying smart contracts in Python.
+*   [algokit-TypeScript-template (⭐4)](https://github.com/algorandfoundation/algokit-TypeScript-template) - Official AlgoKit's Algorand TypeScript template provides a production-ready baseline for developing and deploying smart contracts in TypeScript.
 *   [algokit-react-frontend-template (⭐4)](https://github.com/algorandfoundation/algokit-react-frontend-template) - Official AlgoKit React frontend template provides a production-ready baseline for developing and deploying React frontend applications with Algorand dependencies integrated. Also serves as a reference for template builders on implementing standalone algokit frontend templates.
 *   [algokit-fullstack-template (⭐7)](https://github.com/algorandfoundation/algokit-fullstack-template) - Official AlgoKit fullstack template provides a production-ready baseline for developing and deploying fullstack applications with Algorand dependencies integrated. Also serves as a reference for template builders on how to combine standalone algokit templates under one full stack template project.
 
@@ -119,19 +122,20 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 ### Crash Courses
 
-*   [Algorand School (⭐79)](https://github.com/cusma/algorand-school) - Algorand School crash course slide deck.
+*   [Algorand School (⭐79)](https://github.com/cusma/algorand-school) - Crash course slide deck.
 *   [Zero to Hero PyTeal](https://www.youtube.com/playlist?list=PLwRyHoehE435ttTjvFZA-DyqHYIYc26K_) - PyTeal crash course video lectures.
-*   [Algorand, efficient self-sustaining blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - Proof of Stake Blockchain Efficiency Framework.
+*   [Algorand, efficient self-sustaining Blockchain](https://prismic-io.s3.amazonaws.com/algorandfoundationv2/d5407f96-8e7d-4465-9656-2abb558850a9_Proof+of+Stake+Blockchain+Efficiency+Framework.pdf) - Proof of Stake Blockchain Efficiency Framework.
 *   [Algorand Efficiency](https://www.youtube.com/watch?v=e8s8Ui8vDaY) - Understanding Algorand's working principles and its efficiency.
 *   [Introduction to AVM and Applications](https://www.youtube.com/watch?v=fTAPLiPcj28) - Introduction to the Algorand Virtual Machine architecture and Algorand Smart Contracts (aka Applications).
-*   [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - Introduction to PyTeal, a Python framework to develop Smart Contract on Algorand (with [@matteojug](https://twitter.com/matteojug)).
+*   [Introduction to PyTeal](https://www.youtube.com/watch?v=zXDqJHK_Bqs) - Walkthrough of PyTeal, the Python framework for developing Algorand smart contracts (with [@matteojug](https://twitter.com/matteojug)).
 *   [PyTeal ABI Smart Contracts](https://www.youtube.com/watch?v=USLcyfVD_ws) - Using PyTeal to develop *ABI-compliant* Smart Contracts on Algorand. Final live coding section (with [@deanste](https://twitter.com/_deanste)).
 *   [Beaker](https://www.youtube.com/watch?v=031VvOxvuxY) - Framework for Algorand Smart Contract development, client and testing based on PyTeal. Live coding session (with [@HGKimChris](https://twitter.com/HGKimChris)).
 *   [Dissecting Algorand](https://medium.com/coinmonks/dissecting-algorand-e962f48f8c72) - Introduction Algorand and an analysis on Algorand's inner workings.
+*   [Zero to Hero Blockchain Algorand (⭐14)](https://github.com/VKappaKV/Zero-To-Hero-blockchain-Algorand) - Curated learning path for Algorand developers.
 
 ### General courses
 
-> Please note these are intended for absolute beginners interested in foundational knowledge relatable to all blockchain systems. Building a theoretical understanding of the domain of Blockchain protocols is an important prerequisite that can significantly amplify your learning about Algorand technology.
+> Please note these are intended for absolute beginners interested in foundational knowledge relatable to all Blockchain systems. Building a theoretical understanding of the domain of Blockchain protocols is an important prerequisite that can significantly amplify your learning about Algorand technology.
 
 *   [Foundations of Blockchains](https://www.youtube.com/watch?v=KNJGPI0fuFA\&list=PLEGCF-WLh2RLOHv_xUGLqRts_9JxrckiA) - A video course by Tim Roughgarden a Professor of Computer Science at Columbia University highlighting the fundamental principles, concepts and properties of Blockchain protocols.
 
@@ -139,13 +143,13 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 *   [Lending pool using Reach](https://developer.algorand.org/tutorials/building-a-lending-pool-using-reach/) - Tutorial on how to build a lending pool using the Reach language.
 *   [Creating a License Manager Contract](https://developer.algorand.org/tutorials/creating-a-license-manager-contract-utilizing-pyteal-and-inner-transactions/) - Tutorial on utilizing PyTEAL and Inner Transactions.
-*   [Stateless session management with the Pera wallet](https://developer.algorand.org/tutorials/stateless-session-management-with-the-pera-wallet/) - Pera Wallet connection example with Nextjs and Redux.
+*   [Stateless session management with the Pera wallet](https://developer.algorand.org/tutorials/stateless-session-management-with-the-pera-wallet/) - Pera Wallet connection example with Next.js and Redux.
 *   [AlgoMinter](https://developer.algorand.org/tutorials/algominter-a-web-app-for-minting-assets-using-python-algosigner-and-anvil-platform/) - Build your web app for minting assets using Python, AlgoSigner, and Anvil Platform.
 *   [Getting Started with Django, Python, and Algorand](https://developer.algorand.org/solutions/getting-started-with-python-algorand-sdk-and-django/) - Tutorial from algorand developer portal.
 *   [MultiSig with Algorand for Co-operative Groups](https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account/) - Decentralised co-operative unions with Algorand Multisignature Account.
 *   [Adding Notes to Transactions](https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python/) - Read and Write to the Transaction Note Field with Python.
 *   [Create Assets with a Stateful Smart Contract](https://developer.algorand.org/solutions/using-stateful-smart-contract-to-create-algorand-standard-asset/) - Using Stateful Smart Contract To Create Algorand Standard Asset.
-*   [Artificial Intelligence on Algorand](https://developer.algorand.org/solutions/artificial-intelligence-on-algorand/) - Tutorial on using machine learning to predict the transaction volume of the USDC stablecoin on the Algorand blockchain.
+*   [Artificial Intelligence on Algorand](https://developer.algorand.org/solutions/artificial-intelligence-on-algorand/) - Tutorial on using machine learning to predict the transaction volume of the USDC stablecoin on the Algorand Blockchain.
 
 ### Community Resources
 
@@ -155,22 +159,22 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 > A list of open source projects, blogs, websites that are built on top of Algorand.
 
-*   [arc3.xyz (⭐22)](https://github.com/barnjamin/arc3.xyz) - Dapp that can be used to mint ARC3 compliant NFTs.
-*   [Auction Demo (⭐57)](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
+*   [arc3.xyz (⭐21)](https://github.com/barnjamin/arc3.xyz) - Dapp that can be used to mint ARC3 compliant NFTs.
+*   [Auction Demo (⭐56)](https://github.com/algorand/auction-demo) - On-chain NFT auction using smart contracts.
 *   [Algorand Session Wallet (⭐16)](https://github.com/barnjamin/algorand-session-wallet) - Session wallet to allow persisted wallet connections across multiple wallets.
-*   [AlgoWorld-Contracts (⭐30)](https://github.com/algoworldNFT/algoworld-contracts) - Collection of all smart contracts used by AlgoWorld, written in PyTeal.
+*   [AlgoWorld-Contracts (⭐29)](https://github.com/algoworldNFT/algoworld-contracts) - Collection of all smart contracts used by AlgoWorld, written in PyTeal.
 *   [AlgoWorld-Swapper (⭐22)](https://github.com/algoworldNFT/algoworld-swapper) - Free and trustless ASA swapper, powered by Algorand Smart Signatures.
-*   [WalletConnect Example DApp (⭐22)](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect demo.
-*   [TinyBar App (⭐11)](https://github.com/aorumbayev/tinybar) - A tiny macOS menu bar app for tracking ASA prices from TinyMan.
+*   [WalletConnect Example DApp (⭐23)](https://github.com/algorand/walletconnect-example-dapp) - Algorand WalletConnect demo.
+*   [TinyBar App (⭐12)](https://github.com/aorumbayev/tinybar) - A tiny macOS menu bar app for tracking ASA prices from TinyMan.
 *   [algonim (⭐26)](https://github.com/cusma/algonim) - First Algorand mini-puzzle-game. Written in Python+PyTEAL by [@cusma](https://twitter.com/cusma_b).
 *   [algorealm (⭐18)](https://github.com/algorealm/algorealm) - Claim the Crown and the Sceptre of Algorand Realm! Written in Python+PyTEAL by [@cusma](https://github.com/cusma).
 *   [algorealm-ui (⭐3)](https://github.com/algorealm/algorealm-ui) - A web CLI Emulator version of algorealm cli game by @aorumbayev.
 *   [minter (⭐11)](https://github.com/algofishexe/minter) - Bulk mint Algorand NFTs following the ARC-69 community standard. Written in Node.js by [@fish.exe](https://twitter.com/AlgofishExe).
-*   [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe (⭐16)](https://github.com/Ripe/algovanity).
-*   [galvanity (⭐9)](https://github.com/shmutalov/galvanity) - Galvanity is Algorand vanity address generator written in Go.
+*   [algovanity](https://algovanity.com/) - Algorand Vanity Address Generator from [Ripe (⭐15)](https://github.com/Ripe/algovanity).
+*   [galvanity (⭐10)](https://github.com/shmutalov/galvanity) - Go-based Algorand vanity address generator.
 *   [genpyteal (⭐9)](https://github.com/runvnc/genpyteal) - Generate PyTeal from (mostly) normal Python.
 *   [AgorHash (⭐3)](https://github.com/bafio89/agorhash) - Public, permissionless, decentralized and uncensorable free speech protocol.
-*   [QRCode Generator (⭐22)](https://github.com/emg110/algorand-qrcode) - Uinversal QRCode generator module for Algorand ARC-26 URIs.
+*   [QRCode Generator (⭐21)](https://github.com/emg110/algorand-qrcode) - Uinversal QRCode generator module for Algorand ARC-26 URIs.
 *   [algofractals (⭐2)](https://github.com/aorumbayev/algofractals) - Mint randomly generated mandelbrot fractals with embedded ARC69 tags. (Archived on Dec 31, 2023)
 *   [algorewards](https://algorewards.github.io/) - Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages.
 *   [Pipeline-UI (⭐30)](https://github.com/headline-design/pipeline-ui) - A React.js based component library for rapid deployment of Algorand Dapps.
@@ -178,18 +182,23 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [AlgoTables](https://algotables.github.io/) - A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.
 *   [AlgoPing (⭐6)](https://github.com/aorumbayev/algoping) - A tiny cron job that issues a [tweet](https://twitter.com/algoping) if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.
 *   [directorydotalgo](https://directorydotalgo.xyz/) - Algorand's unofficial ecosystem directory of projects.
-*   [staketaxcsv (⭐267)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other blockchains.
+*   [staketaxcsv (⭐271)](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other Blockchains.
 *   [Automated Prediction Market Maker on Algorand (⭐17)](https://github.com/dspytdao/Algo_AMM) - backend repository with project hosted at [algoAMM.com](https://algoamm.com).
 *   [AlgoDepo (⭐6)](https://github.com/dspytdao/AlgoDepo) - Single Deposit App Algorand.
 *   [AlgoDeposit (⭐5)](https://github.com/dspytdao/AlgoDeposit) - AMM Pool App Algorand.
+*   [txnDuck (⭐18)](https://github.com/No-Cash-7970/txnDuck) - Transaction building tool for Algorand blockchain.
+*   [lazylora (⭐9)](https://github.com/aorumbayev/lazylora) - Terminal UI for exploring Algorand blockchain.
+*   [wen-tools (⭐21)](https://github.com/LoafPickleWW/wen-tools) - Bulk operations tool for Algorand.
+*   [algonoderewards (⭐17)](https://github.com/cryptomalgo/algonoderewards) - Track and visualize Algorand node rewards using Nodely API.
+*   [xGov-Guru (⭐5)](https://github.com/SilentRhetoric/xGov-Guru) - Tool to browse xGov voting data and proposals.
 
 ### AlgoKit Community Templates
 
 > AlgoKit community templates are a set of starter and production-ready baseline templates for developing and deploying Algorand applications created by the projects and individuals in the Algorand community.
 
 *   [algokit-tealish-template (⭐0)](https://github.com/aorumbayev/algokit-tealish-template) - AlgoKit community template for quick starting a smart contract project with tealish and algojig.
-*   [algokit-goracle-template (⭐4)](https://github.com/GoracleNetwork/algokit_default_template) - Algokit community template for quick starting a smart contract project interacting with goracle.
-*   [algokit-subtopia-template (⭐4)](https://github.com/subtopia-algo/algokit-subtopia-template) - Algokit community template for quick starting a dapp frontend project interacting with Subtopia platform.
+*   [algokit-goracle-template (⭐5)](https://github.com/GoracleNetwork/algokit_default_template) - Algokit community template for quick starting a smart contract project interacting with goracle.
+*   [algokit-subtopia-template (⭐5)](https://github.com/subtopia-algo/algokit-subtopia-template) - Algokit community template for quick starting a dapp frontend project interacting with Subtopia platform.
 
 ## Development & Tools
 
@@ -201,8 +210,8 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 #### C/C++
 
-*   [vertices-algorand-sdk (⭐10)](https://github.com/vertices-network/c-vertices-sdk) - The Vertices SDK provides developers with easy device access to interact with Blockchains.
-*   [unreal-algorand-sdk (⭐7)](https://github.com/Wisdom-Labs/Algorand-Unreal-Engine-SDK) - Official Unreal Engine plugin for Algorand Blockchain Platform.
+*   [vertices-algorand-sdk (⭐11)](https://github.com/vertices-network/c-vertices-sdk) - The Vertices SDK provides developers with easy device access to interact with Blockchains.
+*   [unreal-algorand-sdk (⭐8)](https://github.com/Wisdom-Labs/Algorand-Unreal-Engine-SDK) - Official Unreal Engine plugin for Algorand Blockchain Platform.
 *   [cplusplus-algorand-sdk (⭐2)](https://github.com/Wisdom-Labs/Algorand-CPlusPlus-SDK) - Algorand C++ SDK: This repo is providing C++ sdk on algorand chain.
 
 #### Dart
@@ -212,8 +221,8 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 #### Go
 
 *   [go-algorand (⭐1.4k)](https://github.com/algorand/go-algorand) - Algorand's official implementation in Go.
-*   [go-algorand-sdk (⭐188)](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
-*   [conduit (⭐40)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
+*   [go-algorand-sdk (⭐190)](https://github.com/algorand/go-algorand-sdk) - The Algorand Golang SDK.
+*   [conduit (⭐42)](https://github.com/algorand/conduit) - Algorand's data pipeline framework.
 
 #### PHP
 
@@ -222,42 +231,43 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 #### Python
 
-*   [py-algorand-sdk (⭐272)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
-*   [tinyman-py-sdk (⭐117)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
+*   [py-algorand-sdk (⭐278)](https://github.com/algorand/py-algorand-sdk) - The Algorand Python SDK.
+*   [tinyman-py-sdk (⭐118)](https://github.com/tinymanorg/tinyman-py-sdk) - Tinyman Python SDK.
 *   [smart-asa (⭐31)](https://github.com/algorandlabs/smart-asa) - Smart ASA PyTeal reference implementation based on ARC-20.
 
 #### JavaScript & TypeScript
 
-*   [js-algorand-sdk (⭐293)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
-*   [algo-builder (⭐131)](https://github.com/scale-it/algo-builder) - Framework to automate development of Algorand Assets and Smart Contracts.
+*   [js-algorand-sdk (⭐299)](https://github.com/algorand/js-algorand-sdk) - The Algorand JavaScript SDK & Examples.
+*   [algo-builder (⭐128)](https://github.com/scale-it/algo-builder) - Framework to automate development of Algorand Assets and Smart Contracts.
 *   [algo-builder-templates (⭐20)](https://github.com/scale-it/algo-builder-templates) - Dapps templates for Algo Builder.
-*   [algonaut.js (⭐10)](https://github.com/thencc/algonautjs) - An easier Algo sdk for front-end dapps (typescript).
-*   [perawallet-connect (⭐67)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
-*   [defly-connect (⭐9)](https://github.com/blockshake-io/defly-connect) - JavaScript SDK for integrating Defly Wallet to web applications.
-*   [subtopia-js (⭐9)](https://github.com/subtopia-algo/subtopia-js) - Subtopia JavaScript SDK providing convenient interfaces to interact with Subtopia platform.
+*   [algonaut.js (⭐10)](https://github.com/thencc/algonautjs) - An easier Algo sdk for front-end dapps (TypeScript).
+*   [perawallet-connect (⭐71)](https://github.com/perawallet/connect) - JavaScript SDK for integrating Pera Wallet to web applications.
+*   [defly-connect (⭐10)](https://github.com/blockshake-io/defly-connect) - JavaScript SDK for integrating Defly Wallet to web applications.
+*   [subtopia-js (⭐10)](https://github.com/subtopia-algo/subtopia-js) - Subtopia JavaScript SDK providing convenient interfaces to interact with Subtopia platform.
+*   [solid-algo-wallets (⭐9)](https://github.com/SilentRhetoric/solid-algo-wallets) - SolidJS wallet integration library for Algorand.
 
 #### Java
 
-*   [java-algorand-sdk (⭐69)](https://github.com/algorand/java-algorand-sdk) - The Algorand Java SDK.
+*   [java-algorand-sdk (⭐72)](https://github.com/algorand/java-algorand-sdk) - The Algorand Java SDK.
 
 #### .NET
 
-*   [dotnet-algorand-sdk (⭐39)](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
-*   [unity-algorand-sdk (⭐31)](https://github.com/CareBoo/unity-algorand-sdk) - An Algorand SDK for Unity. Use the Algorand blockchain in your video game.
+*   [dotnet-algorand-sdk (⭐40)](https://github.com/RileyGe/dotnet-algorand-sdk) - Algorand .NET SDK created by [@RileyGe](https://github.com/RileyGe).
+*   [unity-algorand-sdk (⭐31)](https://github.com/CareBoo/unity-algorand-sdk) - An Algorand SDK for Unity. Use the Algorand Blockchain in your video game.
 *   [unity-algorand-sdk-based-on-net-sdk (⭐1)](https://github.com/Vytek/AlgorandUnitySDK) - Quick and dirty Unity SDK based on .NET Algorand SDK by RileyGe.
 *   [dotnet-alogrand-sdk (2) (⭐29)](https://github.com/FrankSzendzielarz/dotnet-algorand-sdk) - Algorand .NET SDK maintained by [@FrankSzendzielarz](https://github.com/FrankSzendzielarz).
 *   [dotnet-tinyman-sdk (⭐9)](https://github.com/geoffodonnell/dotnet-tinyman-sdk) - Tinyman .NET SDK.
-*   [dotnet-yieldly-sdk (⭐11)](https://github.com/geoffodonnell/dotnet-yieldly-sdk) - Yieldly .NET SDK.
+*   [dotnet-yieldly-sdk (⭐10)](https://github.com/geoffodonnell/dotnet-yieldly-sdk) - Yieldly .NET SDK.
 *   [powershell-algorand-module (⭐2)](https://github.com/geoffodonnell/powershell-algorand-module) - Algorand PowerShell Module.
 
 #### Rust
 
-*   [rust-algorand-sdk (⭐65)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
+*   [rust-algorand-sdk (⭐67)](https://github.com/manuelmauro/algonaut) - Rust Algorand SDK.
 
 #### Swift
 
 *   [algorand-wallet (⭐195)](https://github.com/algorand/algorand-wallet) - Algorand wallet official implementation in Swift.
-*   [swift-algorand-sdk (⭐21)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
+*   [swift-algorand-sdk (⭐22)](https://github.com/Jesulonimi21/Swift-Algorand-Sdk) - A Swift SDK for interacting with the Algorand Blockchain.
 
 #### Ruby
 
@@ -267,24 +277,24 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 #### Languages & Compilers
 
-*   [pyteal (⭐288)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
+*   [pyteal (⭐293)](https://github.com/algorand/pyteal) - Algorand Smart Contracts in Python.
 *   [reach](https://docs.reach.sh) - A domain-specific language for building cross chain decentralized applications (DApps).
 *   [aqua-compiler (⭐2)](https://github.com/optio-labs/aqua-compiler) - An expressive high level language for the Algorand block chain that compiles to TEAL code.
 *   [algoml (⭐24)](https://github.com/petitnau/algoml) - A domain-specific language for specifying Algorand smart contracts, which compiles into TEAL scripts.
 *   [tealang (⭐37)](https://github.com/pzbitskiy/tealang) - A high level language for Algorand ASC1 and TEAL.
-*   [tealish](https://tealish.tinyman.org) - Tealish is a readable language for the Algorand Virtual Machine. It enables developers to write TEAL in a procedural style optimized for readability.
-*   [TEALScript (⭐53)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
+*   [tealish](https://tealish.tinyman.org) - Readable Algorand VM language enabling procedural-style TEAL focused on clarity.
+*   [TEALScript (⭐52)](https://github.com/algorand-devrel/TEALScript) - Enables Algorand smart contract development with native TypeScript syntax, tooling, and IDE support.
 
 #### Frameworks & Utilities
 
-*   [beaker (⭐99)](https://github.com/algorand-devrel/beaker) - A tool for smart contract development on the Algorand blockchain. Inspired by `flask`.
-*   [pyteal-utils (⭐28)](https://github.com/algorand/pyteal-utils) - PyTEAL utilities library.
-*   [avm-semantics (⭐16)](https://github.com/runtimeverification/avm-semantics) - Algorand Virtual Machine and TEAL Semantics in K framework. Aids with testing and formal verification of smart contracts.
-*   [d-asa (⭐3)](https://github.com/cusma/d-asa) - Debt Algorand Standard Application providing reference implementations and interfaces for tokenizing debt instruments (bonds, loans, commercial papers) that conform to ACTUS standards.
+*   [beaker (⭐96)](https://github.com/algorandfoundation/beaker) - Pythonic smart contract framework (PyTEAL DSL wrappers, client + testing utilities). (Canonical repo)
+*   [pyteal-utils (⭐29)](https://github.com/algorand/pyteal-utils) - PyTEAL utilities library.
+*   [avm-semantics (⭐14)](https://github.com/runtimeverification/avm-semantics) - Algorand Virtual Machine and TEAL Semantics in K framework. Aids with testing and formal verification of smart contracts.
+*   [d-asa (⭐4)](https://github.com/cusma/d-asa) - Debt Algorand Standard Application providing reference implementations and interfaces for tokenizing debt instruments (bonds, loans, commercial papers) that conform to ACTUS standards.
 
 ### CLI
 
-*   [AlgoRun (⭐31)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting Algorand MainNet participation node.
+*   [AlgoRun (⭐30)](https://github.com/algorandfoundation/algorun) - Simple CLI utility for setting up and starting an Algorand MainNet participation node.
 
 ### IDEs
 
@@ -300,25 +310,26 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 #### VSCode
 
-*   [Obsidian Labs/vscode-algorand (⭐12)](https://github.com/ObsidianLabs/vscode-algorand) - Algorand VS Code Extension.
+*   [Obsidian Labs/vscode-algorand (⭐13)](https://github.com/ObsidianLabs/vscode-algorand) - Algorand VS Code Extension.
 *   [optio-labs/teal-debugger-extension (⭐14)](https://github.com/optio-labs/teal-debugger-extension) - Debug teal with minimal AVM configuration inside VSCode.
 
 #### Visual Studio
 
-*   [Algorand Visual Studio Extension (⭐21)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
+*   [Algorand Visual Studio Extension (⭐19)](https://github.com/FrankSzendzielarz/AlgorandVisualStudio) - Visual Studio extensions for C# TEAL compilation and Algorand Smart Contract development.
 
 ### Testing & Debugging
 
-*   [graviton (⭐17)](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
+*   [graviton (⭐18)](https://github.com/algorand/graviton) - Algorand's TEAL blackbox testing toolkit.
+*   [algokit-avm-debugger (⭐1)](https://github.com/algorandfoundation/algokit-avm-debugger) - Standalone AVM Debug Adapter Protocol implementation powering advanced contract debugging tooling.
 *   [tealer (⭐63)](https://github.com/crytic/tealer) - Static TEAL analyser with a set of vulnerability detectors for quick contracts reviews.
-*   [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome (⭐5)](https://github.com/thencc/irulan)).
-*   [algojig (⭐16)](https://github.com/Hipo/algojig) - A tool for testing Algorand smart contracts.
-*   [tealinspector (⭐15)](https://github.com/Hipo/tealinspector) - Quick and easy TEAL code debugging by Hipo labs.
+*   [irulan](https://irulan.dev/) - Web app for deploying + testing smart contracts ([open source! + PRs welcome (⭐4)](https://github.com/thencc/irulan)).
+*   [algojig (⭐17)](https://github.com/Hipo/algojig) - A tool for testing Algorand smart contracts.
+*   [tealinspector (⭐14)](https://github.com/Hipo/tealinspector) - Quick and easy TEAL code debugging by Hipo labs.
 
 ### Deployment & Environment
 
-*   [Algorand Sandbox (⭐242)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
-*   [Algorand Sandbox Dev (⭐16)](https://github.com/MakerXStudio/algorand-sandbox-dev) - Docker Hub image for faster local development and CI/CD usage. (Archived on Jan 2, 2024)
+*   [Algorand Sandbox (⭐243)](https://github.com/algorand/sandbox) - Fast way to create and configure an Algorand development environment.
+*   [Algorand Sandbox Dev (⭐15)](https://github.com/MakerXStudio/algorand-sandbox-dev) - Docker Hub image for faster local development and CI/CD usage. (Archived on Jan 2, 2024)
 *   [Official Algod Container](https://hub.docker.com/r/algorand/algod) - Algod Docker Hub image from Algorand Inc.
 *   [Official Conduit Container](https://hub.docker.com/r/algorand/conduit) - Conduit Docker Hub image from Algorand Inc.
 
@@ -332,34 +343,34 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [Pera Wallet](https://github.com/perawallet) - Secure, open source and community driven wallet for both mobile and desktop devices. Maintained by the team behind official Algorand Wallet.
 *   [Method Wallet](https://methodwallet.app/) - Algorand Wallet you'll love.
 *   [Defly Wallet](https://defly.app/) - Defly is an Algorand wallet with great suit of integrated DeFi features.
-*   [Exodus](https://www.exodus.com/) - Exodus is a multi-cryptocurrency wallet that supports Algorand.
+*   [Exodus](https://www.exodus.com/) - Multi-cryptocurrency wallet with Algorand support.
 *   [A-Wallet](https://a-wallet.net/) - AWallet is an open source, HTML only, corporate friendly, and secure Algorand wallet.
-*   [Liquid Auth (⭐24)](https://github.com/algorandfoundation/liquid-auth) - Liquid Auth is a self-hosted authentication service that provides a simple way to associate Passkeys to KeyPair(s) commonly found in cryptocurrencies. In addition to authentication, Liquid Auth provides a Peer to Peer signaling service. Not only can you authenticate users, but you can also establish secure connections between them.
+*   [Liquid Auth (⭐25)](https://github.com/algorandfoundation/liquid-auth) - Self-hosted service to bind passkeys to crypto keypairs plus P2P signaling for secure peer connections.
+*   [Kibisis (⭐17)](https://github.com/kibis-is/web-extension) - Open source Algorand wallet web extension built in React and TypeScript.
 
 ### Wallet Development
 
-*   [use-wallet (⭐86)](https://github.com/txnlab/use-wallet) - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
+*   [use-wallet (⭐96)](https://github.com/txnlab/use-wallet) - React hooks for using Algorand compatible wallets with web applications. Developed by [txnlab](https://www.txnlab.dev/).
 *   [use-wallet-js (⭐12)](https://github.com/TxnLab/use-wallet-js) - TypeScript library for integrating Algorand wallets into decentralized applications.
-*   [rsagg (⭐6)](https://github.com/dragmz/rsagg) - A Rust library for GPU accelerated Algorand 'vanity' address generation.
+*   [rsagg (⭐7)](https://github.com/dragmz/rsagg) - A Rust library for GPU accelerated Algorand 'vanity' address generation.
 
 ### Blockchain Explorers
 
-> List of blockchain explorers for Algorand. Used to view transactions, accounts, assets, etc.
+> List of Blockchain explorers for Algorand. Used to view transactions, accounts, assets, etc.
 
-*   [Allo](https://allo.info) - Allo is a blockchain explorer for all of Algorand created by Nodely.
+*   [Allo](https://allo.info) - Unified Algorand explorer covering all networks by Nodely.
 *   [NFTExplorer](https://www.nftexplorer.app/) - Algorand Standard Asset (ASA) explorer built by [@TomassoAE](https://twitter.com/TommasoAE) and [JoshLmao](https://twitter.com/JoshLmao).
 *   [Pera Explorer](https://explorer.perawallet.app/) - Algorand Accounts, Standard Asset (ASA) explorer built by [Pera Wallet](https://perawallet.app/)
 *   [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
 *   [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
 *   [Asalytic](https://www.asalytic.app/) - Analyze the Algorand NFT space.
 *   [AlgoSurf](https://algo.surf/) - Algorand Network Explorer (supports LocalNet in `localhost`).
-*   [Bitquery](https://explorer.bitquery.io/algorand) - Actionable, insightful blockchain GraphQL APIs for more than 30 blockchains. One of the highlighted features is the ability to query a list of Algorand block proposers.
 
 ### Portfolio Trackers
 
 > List of portfolio trackers for Algorand. Aids in tracking the value of your assets.
 
-*   [CompX](https://app.compx.io/dashboard) - Track or search assets, rewards, yield farming, transactions, and NFTs on the Algorand blockchain anywhere and anytime. Formerly Algogator.Finance.
+*   [CompX](https://app.compx.io/dashboard) - Track or search assets, rewards, yield farming, transactions, and NFTs on the Algorand Blockchain anywhere and anytime. Formerly Algogator.Finance.
 *   [ASA Stats](https://www.asastats.com/) - One-stop portfolio tracker used to summarize Algorand asset valuations from up to five wallet addresses.
 
 ### Name Services
@@ -375,13 +386,14 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [Algorand - The Undocumented Docs (⭐5)](https://github.com/AlgoChads/algorand-undoc-docs) - Dev Notes for Archival Node, Indexer Setup (and more).
 *   [Nodely](https://nodely.io) - Free Node/Indexer APIs, Node running FAQ, Node/Indexer daily snapshots.
 *   [Algorand Node UI (⭐27)](https://github.com/algorand/node-ui) - Terminal UI for remote Algorand node management.
+*   [nodekit (⭐53)](https://github.com/algorandfoundation/nodekit) - Terminal user interface for running and managing Algorand nodes locally.
 *   [SubQuery](https://subquery.network) - Open, fast, flexible, and decentralised cross-chain data indexer for Algorand ([getting started guide](https://academy.subquery.network/quickstart/quickstart_chains/algorand.html)).
 *   [AlloCTRL (⭐15)](https://github.com/AlgoNode/alloctrl) - A simple, open source, dashboard to help managing your node and participation keys safely, from your local machine.
-*   [TxnLab/reti (⭐29)](https://github.com/TxnLab/reti) - Provides contracts, a Node Daemon, and a UI for Algorand 'The Reti' consensus incentives, facilitating the creation of decentralized staking pools on the Algorand network to promote broader participation and enhance network security through diversification.
+*   [reti (⭐38)](https://github.com/algorandfoundation/reti) - Contracts, Node Daemon, and UI for Algorand 'The Reti' consensus incentives, enabling decentralized staking pools to broaden participation and enhance network security.
 
 ### Blockchain Bridges
 
-> This provides a list of bridges that allow for cross-chain transfers of assets between Algorand and other blockchains.
+> This provides a list of bridges that allow for cross-chain transfers of assets between Algorand and other Blockchains.
 
 *   [Algomint](https://algomint.io/) - Centralized BTC and ETH bridge to Algorand.
 *   [XP.network](https://bridge.xp.network/) - Centralized cross-chain NFT bridge.
@@ -392,20 +404,19 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 > A list of oracle solutions that allow for smart contracts to interact with the real world.
 
-*   [Gora](https://www.gora.io/) - Decentralized oracle networks that connect the Algorand blockchain with the real world.
+*   [Gora](https://www.gora.io/) - Decentralized oracle networks that connect the Algorand Blockchain with the real world.
 
 ### Security Auditing Services
 
 > This section is not aimed to promote any of the companies below, please do your due diligence when researching on options available for audits. Instead, the following is simply aimed to highlight an expanding variety of companies offering smart contract audits for Algorand ecosystem.
 
-*   [Certik](https://www.certik.com/ecosystems/algorand) - CertiK provides the gold standard in web3 security tools, from its industry-leading smart contract audits, to its blockchain analytics tools such as Skynet and SkyTrace, making it the ideal partner in ensuring the end-to-end security of Algorand projects.
-*   [AlgoBuilder Audits](https://algobuilder.dev/auditing.html) - The team behind AlgoBuilder offering to consult your project, have smart contracts done by professionals, write automated tests or audit your existing project.
-*   [UlamLabs](https://www.ulam.io/software-services/smart-contract-audits) - A blockchain lab based in Poland, offering auditing services for Algorand smart contracts.
+*   [Certik](https://www.certik.com/ecosystems/algorand) - Web3 security suite: smart contract audits plus analytics (Skynet, SkyTrace) for Algorand projects.
+*   [UlamLabs](https://www.ulam.io/software-services/smart-contract-audits) - A Blockchain lab based in Poland, offering auditing services for Algorand smart contracts.
 *   [Runtime Verification](https://runtimeverification.com/smartcontract) - Smart contract analysis and verification by the team who audited platforms like Algofi, FolksFinance, Yieldly and other prominent DeFi platforms in the ecosystem.
 *   [Immunebytes](https://www.immunebytes.com) - Secure your Algorand Smart Contract with credible security auditing solutions.
-*   [KudelskiSecurity](https://kudelskisecurity.com) - Move your blockchain project securely and successfully into production or onto mainnet. Company can help you assess, design, customize, deploy and manage blockchain and digital ledger technology systems so you can confidently leverage security as a powerful differentiator in this dynamic market.
+*   [KudelskiSecurity](https://kudelskisecurity.com) - Move your Blockchain project securely and successfully into production or onto mainnet. Company can help you assess, design, customize, deploy and manage Blockchain and digital ledger technology systems so you can confidently leverage security as a powerful differentiator in this dynamic market.
 *   [algorand-ecosystem-audits (⭐5)](https://github.com/blockshake-io/algorand-ecosystem-audits) - A growing collection of audit reports in the Algorand ecosystem maintained by [blockshake-io](https://blockshake.io).
-*   [Vantage Point Blockchain](https://www.vantagepoint.sg/contact-us) - Smart contract audits, crypto wallet audit and other penetration testing services in Algorand ecosystem with clients such as Folks.Finance, Pera, Algorand Foundation, Deflex (Defly/Alammex), GARD, Venue.One and others. Reports are signed by velocity.vantagepoint.algo and published at [https://github.com/vantagepointreports/releases (⭐2)](https://github.com/vantagepointreports/releases).
+*   [Vantage Point Blockchain](https://www.vantagepoint.sg/contact-us) - Smart contract audits, crypto wallet audit and other penetration testing services in Algorand ecosystem with clients such as Folks.Finance, Pera, Algorand Foundation, Deflex (Defly/Alammex), GARD, Venue.One and others. Reports are signed by velocity.vantagepoint.algo and published at [https://github.com/vantagepointreports/releases (⭐3)](https://github.com/vantagepointreports/releases).
 *   [Tenset Security (⭐3)](https://github.com/tenset-security/audits) - Comprising a team of Web3 Security Researchers, Tenset Security is dedicated to leaving no stone unturned in their pursuit of security excellence. They have a [proven track record of success](https://twitter.com/algoworld_nft/status/1691891473166279042) in discovering high-severity vulnerabilities specifically within Algorand projects, emphasizing their expertise and commitment to the Algorand ecosystem.
 
 ### Metrics and Analytics Services
@@ -428,6 +439,9 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 *   [Algorand-GPT](https://chatgpt.com/g/g-izA6hnC93-algorand-gpt) - An Algorand Assistant Expert with access to all Algorand documentation and chain data built on OpenAI's ChatGPT platform by GoPlausible.
 *   [DID-GPT](https://chatgpt.com/g/g-rOCQculZQ-did-gpt) - A W3C DID resolver assistant built on OpenAI's ChatGPT platform by GoPlausible.
+*   [algorand-mcp (⭐38)](https://github.com/GoPlausible/algorand-mcp) - Algorand Model Context Protocol (Server & Client) by GoPlausible.
+*   [algorand-remote-mcp (⭐14)](https://github.com/GoPlausible/algorand-remote-mcp) - Algorand remote SSE MCP Server Cloudflare Worker.
+*   [arcontextify (⭐6)](https://github.com/aorumbayev/arcontextify) - Algorand ARC-56 to MCP server converter.
 
 ## Application Platforms & Examples
 
@@ -439,11 +453,12 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [Pact](https://www.pact.fi/) - Decentralised Automated Market Maker (AMM) built on the Algorand protocol.
 *   [Lofty.ai](https://www.lofty.ai/) - Tokenized real estate investing platform.
 *   [Folks.finance](https://folks.finance/) - Decentralized capital markets protocol.
-*   [C3](https://c3.io/) - Cross-margin cross-collateralization clearing engine protocol.
 *   [Cometa.farm](https://cometa.farm/) - Decentralized liquidity-as-a-service.
 *   [aramid.finance](https://www.aramid.finance/) - A Decentralized Cross-Chain Protocol supporitng Algorand, Polygon, Ethereum and other EVM chains.
 *   [stabilitas.finance](https://stabilitas.finance/) - Stable and secure digital assets for various purposes such as purchases, remittances and as a store of value.
 *   [vestige.fi](https://vestige.fi/) - A decentralized ecosystem of tools primary used as a tool to track and trend Algorand Standard Assets and Liquidity Pools across the ecosystem. The platform also provides a decentralized swap and a launchpad platform.
+*   [folks-router (⭐16)](https://github.com/Folks-Finance/folks-router) - Efficient swap routing SDK on Algorand by Folks Finance.
+*   [Folks-Finance/algorand-js-sdk (⭐40)](https://github.com/Folks-Finance/folks-finance-js-sdk) - Official Folks Finance Algorand Protocol SDK.
 
 ### NFT Marketplaces
 
@@ -452,11 +467,15 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 *   [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and marketplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
 *   [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
 *   [AlgoMart (⭐183)](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
-*   [ALGOxNFT](https://algoxnft.com/listings/live) - NFT gallery and marketplace.
-*   [Dartroom](https://dartroom.xyz/overview) - Decentralized NFT explorer, minting and trading.
 *   [Alchemon](https://alchemon.net/) - Monster-collecting NFT card game.
 *   [Musa](https://www.musanft.io/) - Music, Art & Fashion NFT gallery and marketplace.
 *   [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
+
+### Prediction Markets
+
+> Awesome prediction markets and trading platforms on Algorand.
+
+*   [Alpha Arcade](https://www.alphaarcade.com/) - Prediction market platform on Algorand.
 
 ### Subscription Management
 
@@ -468,8 +487,8 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 > Tools for on-chain voting powered by Algorand
 
-*   [nft\_voting\_tool (⭐6)](https://github.com/algorandfoundation/nft_voting_tool) - Official voting tool by Algorand Foundation. The repository contains a voting tool that allows for creation and facilitation of immutable, tamperproof voting using the Algorand blockchain.
-*   [vote-coin-demo (⭐4)](https://github.com/scholtz/vote-coin-demo) - Decentralized message standard for on-chain voting on Algorand developed by @scholtz.
+*   [nft\_voting\_tool (⭐6)](https://github.com/algorandfoundation/nft_voting_tool) - Official voting tool by Algorand Foundation. The repository contains a voting tool that allows for creation and facilitation of immutable, tamperproof voting using the Algorand Blockchain.
+*   [vote-coin-demo (⭐619)](https://github.com/scholtz/vote-coin-demo) - Decentralized message standard for on-chain voting on Algorand developed by @scholtz.
 
 ## Standards
 
@@ -478,19 +497,19 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 > Standards and specs defined in *finalized* ARCs.
 > The list of all the ARCs can be found [here](https://arc.algorand.foundation).
 
-*   [ARC3 (⭐129)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
-*   [ARC4 (⭐129)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0004.md) - Application Binary Interface.
-*   [ARC32 (⭐129)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0032.md) - Application Specification.
-*   [ARC56 (⭐129)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0056.md) - Extended and improved Application Specification.
-*   [ARC69 (⭐129)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0069.md) - One of several Algorand Standard Asset Parameters Conventions.
+*   [ARC3 (⭐135)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0003.md) - Official Algorand Standard Asset Parameters Conventions for Fungible and Non-Fungible Tokens.
+*   [ARC4 (⭐135)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0004.md) - Application Binary Interface.
+*   [ARC32 (⭐135)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0032.md) - Application Specification.
+*   [ARC56 (⭐135)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0056.md) - Extended and improved Application Specification.
+*   [ARC69 (⭐135)](https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0069.md) - One of several Algorand Standard Asset Parameters Conventions.
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines (⭐197)](https://github.com/aorumbayev/Awesome-Algorand/blob/main/contributing.md) first.
+Contributions welcome! Read the [contribution guidelines (⭐206)](https://github.com/awesome-algorand/awesome-algorand/blob/main/contributing.md) first.
 
 Special thanks to everyone who forked or starred the repository ❤️
 
-[![Stargazers repo roster for @aorumbayev/Awesome-Algorand](https://reporoster.com/stars/dark/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/stargazers)
+[![Stargazers repo roster for @awesome-algorand/awesome-algorand](https://reporoster.com/stars/dark/awesome-algorand/awesome-algorand)](https://github.com/awesome-algorand/awesome-algorand/stargazers)
 
-[![Forkers repo roster for @aorumbayev/AwesomeAlgorand](https://reporoster.com/forks/dark/aorumbayev/Awesome-Algorand)](https://github.com/aorumbayev/Awesome-Algorand/network/members)
+[![Forkers repo roster for @awesome-algorand/awesome-algorand](https://reporoster.com/forks/dark/awesome-algorand/awesome-algorand)](https://github.com/awesome-algorand/awesome-algorand/network/members)
 

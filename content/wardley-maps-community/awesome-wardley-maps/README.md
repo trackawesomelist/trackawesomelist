@@ -2,9 +2,21 @@
 
 Wardley maps community hub. Useful Wardley mapping resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 727 · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/wardley-maps-community/awesome-wardley-maps/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 wardley-maps-community/awesome-wardley-maps](https://github.com/wardley-maps-community/awesome-wardley-maps) · ⭐ 732 · 🏷️ Business
 
 [ Daily / [Weekly](/content/wardley-maps-community/awesome-wardley-maps/week/README.md) / [Overview](/content/wardley-maps-community/awesome-wardley-maps/readme/README.md) ]
+
+## [Aug 25, 2025](/content/2025/08/25/README.md)
+
+### Mapping / ChatGPT
+
+*   [Office 365 Wardley Mapping Templates](https://endjin.com/blog/2020/03/office365-wardley-mapping-templates) - Templates for Microsoft Visio and PowerPoint.
+
+## [Aug 06, 2025](/content/2025/08/06/README.md)
+
+### Mapping
+
+*   [Map](https://map.tranquil.systems) - Native macOS app to build wardley maps using its own `wmap` syntax (Apple Silicon only). GPLv3. It includes a QuickLook plugin to preview `wmap` files as images.
 
 ## [Jul 16, 2025](/content/2025/07/16/README.md)
 
@@ -20,7 +32,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ### Mapping
 
-*   [Wardley Maps for Obsidian.md (⭐9)](https://github.com/damonsk/obsidian-wardley-maps) - Render and edit Wardley maps within Obsidian.md. This community plugin leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [Wardley Maps for Obsidian.md (⭐11)](https://github.com/damonsk/obsidian-wardley-maps) - Render and edit Wardley maps within Obsidian.md. This community plugin leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
 ## [Feb 27, 2024](/content/2024/02/27/README.md)
 
@@ -247,7 +259,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ### Mapping
 
-*   [OnlineWardleyMaps (⭐272)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+*   [OnlineWardleyMaps (⭐274)](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 
 ## [Dec 03, 2020](/content/2020/12/03/README.md)
 
@@ -274,7 +286,6 @@ Wardley maps community hub. Useful Wardley mapping resources
 ### Mapping / ChatGPT
 
 *   [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
-*   [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Templates for Microsoft Visio and PowerPoint.
 *   [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to guide on mapping using this template.
 *   [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
 *   [wardley-omnigraffle (⭐22)](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.
@@ -359,7 +370,7 @@ Wardley maps community hub. Useful Wardley mapping resources
 
 ### Mapping
 
-*   [Go-Wardley (⭐33)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
+*   [Go-Wardley (⭐34)](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.
 
 ## [Jun 19, 2020](/content/2020/06/19/README.md)
 

@@ -2,7 +2,7 @@
 
 A list of amazing Newsletters
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4.1K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4.2K · 🏷️ Entertainment
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / Overview ]
 
@@ -14,9 +14,9 @@ Inspired by the `awesome-*` trend on GitHub.
 
 The goal is to build a categorized community-driven collection of very well-known resources.
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines (⭐4.1k)](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines (⭐4.2k)](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
 
-Thanks to all [contributors (⭐4.1k)](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
+Thanks to all [contributors (⭐4.2k)](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
 *   [Frontend](#frontend)
     *   [General Web Development](#general-web-development)
@@ -103,6 +103,7 @@ Thanks to all [contributors (⭐4.1k)](https://github.com/zudochkin/awesome-news
 *   [The Comet](https://wpuniverse.online/the-comet/). Short. Concise. Blazing fast 🌠 A monthly free newsletter about WordPress and web development.
 *   [Web Weekly](https://webweekly.email/). Weekly news about web dev fundamentals, new browser features and coding tools.
 *   [Syntax Snack Pack](https://syntax.fm/snackpack). Bi-weekly web dev newsletter with curated links + news from the [Syntax.fm](https://syntax.fm) podcast.
+*   [Marko Denic Tech](https://markodenic.tech). Weekly web dev newsletter with snippets and tutorials.
 
 ### JavaScript
 
@@ -129,6 +130,7 @@ Thanks to all [contributors (⭐4.1k)](https://github.com/zudochkin/awesome-news
 *   [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 *   [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
 *   [Nextjs Weekly](https://nextjsweekly.com/). A newsletter of the best Next.js articles, tools and projects.
+*   [React Native Rewind](https://thereactnativerewind.com/). A Dev Newsletter That Doesn't Suck.
 
 #### EmberJS
 
@@ -250,7 +252,7 @@ Thanks to all [contributors (⭐4.1k)](https://github.com/zudochkin/awesome-news
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐771)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐788)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 
