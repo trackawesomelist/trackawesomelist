@@ -68,6 +68,7 @@
 ### STUN/TURN
 
 *   [coturn (⭐13k)](https://github.com/coturn/coturn) - Fully featured TURN/STUN server supporting multiple platforms.
+*   [eturnal](https://eturnal.net/) - Modern and scalable STUN/TURN server written in Erlang.
 *   [STUNTMAN (⭐1.6k)](https://github.com/jselbie/stunserver) - RFC compliant open source STUN implementation.
 
 ## Operations

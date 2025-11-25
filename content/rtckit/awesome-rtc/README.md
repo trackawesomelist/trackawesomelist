@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/rtckit/awesome-rtc/week/README.md) / [Overview](/content/rtckit/awesome-rtc/readme/README.md) ]
 
+## [Nov 25, 2025](/content/2025/11/25/README.md)
+
+### Server Software / STUN/TURN
+
+*   [eturnal](https://eturnal.net/) - Modern and scalable STUN/TURN server written in Erlang.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Developer Resources / JavaScript Libraries

@@ -6,6 +6,12 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 
 [ Daily / [Weekly](/content/godotengine/awesome-godot/week/README.md) / [Overview](/content/godotengine/awesome-godot/readme/README.md) ]
 
+## [Nov 25, 2025](/content/2025/11/25/README.md)
+
+### Plugins and scripts / Godot 4
+
+*   [Script-IDE (⭐888)](https://github.com/Maran23/script-ide) - Transforms the script editor into an IDE-like UI. Multiline tabs, improved outline, quick open and override, enhanced keyboard navigation.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### 2D / Godot 4

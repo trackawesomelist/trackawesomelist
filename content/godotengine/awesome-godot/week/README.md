@@ -38,6 +38,7 @@ A curated list of free/libre plugins, scripts and add-ons for Godot
 *   [PlayerConnect (⭐50)](https://github.com/rayzorite/PlayerConnect) - Bug/feedback reporting system for your Godot game. It uses a Discord webhook as a medium to send reports to your desired Discord channel.
 *   [Quill-IDE (⭐16)](https://github.com/rayzorite/quill-ide) - Modified and beautified version of the default Godot Script Editor for 4.4+.
 *   [Roommate (⭐33)](https://github.com/hoork/roommate) - 3D level builder tool with focus on creating indoors environment and automation.
+*   [Script-IDE (⭐888)](https://github.com/Maran23/script-ide) - Transforms the script editor into an IDE-like UI. Multiline tabs, improved outline, quick open and override, enhanced keyboard navigation.
 *   [Vest (⭐15)](https://github.com/foxssake/vest) - A unit testing addon for Godot.
 
 ### Plugins and scripts / Godot 3

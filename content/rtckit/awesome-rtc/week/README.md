@@ -8,6 +8,10 @@
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
+### Server Software / STUN/TURN
+
+*   [eturnal](https://eturnal.net/) - Modern and scalable STUN/TURN server written in Erlang.
+
 ### Developer Resources / JavaScript Libraries
 
 *   [Socio (⭐125)](https://github.com/Rolands-Laucis/Socio) - A WebSocket Real-Time Communication (RTC) API framework. Realtime Front-end, Back-end reactivity.

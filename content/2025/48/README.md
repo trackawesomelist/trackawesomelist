@@ -1,12 +1,22 @@
 # Awesome List Updates on Dec 01 - Dec 07, 2025
 
-138 awesome lists updated this week.
+139 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [1. Awesome Electron](/content/sindresorhus/awesome-electron/week/README.md)
+
+### Open Source / Other
+
+*   [Signal Desktop (⭐16k)](https://github.com/signalapp/Signal-Desktop) - Companion desktop app for Signal mobile app.
+
+### Closed Source / Other
+
+*   [Obsidian](https://obsidian.md) - Extensible Markdown note taking and knowledge management.
+
+## [2. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### System Utilities
 
@@ -40,7 +50,7 @@
 
 *   [Text Forge](https://text-forge.github.io/docs) - Lighweight, hackable, and highly modular text & code editor. ![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)
 
-## [2. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [3. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Plugins / JavaScript - Official
 
@@ -114,7 +124,7 @@
 *   [Gemini in your Slack workspace using Firebase & Genkit](https://dev.to/denisvalasek/gemini-in-your-slack-workspace-using-firebase-genkit-530c) - Learn how to integrate Gemini using Genkit as a Slackbot.
 *   [Set up RAG with Genkit and Firebase in 15 minutes](https://dev.to/denisvalasek/set-up-rag-with-genkit-and-firebase-in-15-minutes-50b2) - Introduction to RAG, Genkit and using Firebase Firestore as Vector DB.
 
-## [3. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/week/README.md)
+## [4. Awesome Marketing](/content/marketingtoolslist/awesome-marketing/week/README.md)
 
 ### SEO (Search Engine Optimization) / SERP Tracking
 
@@ -125,7 +135,7 @@
 
 *   [Django CRM](https://djangocrm.github.io/info) - [Review](https://djangocrm.github.io/info/features/overview) - CRM Software with Tasks management, Email marketing and many more, created for individual use by businesses of any size or freelancers and is designed to provide easy customization and quick development.
 
-## [4. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
+## [5. Awesome Azure Openai Llm](/content/kimtth/awesome-azure-openai-llm/week/README.md)
 
 ### Quick Navigation / 1\. App & Agent
 
@@ -172,13 +182,13 @@
 *   Tool Use: [Tool Use](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/best_practices.md#tool-use-llm-to-master-apis)
 *   Reference: [Proposals & Glossary](https://github.com/kimtth/awesome-azure-openai-llm/blob/main/README.md/section/best_practices.md#proposals--glossary)
 
-## [5. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
+## [6. Awesome Capacitorjs](/content/capawesome-team/awesome-capacitorjs/week/README.md)
 
 ### Plugins / Community Plugins
 
 *   [@smartcompanion/native-audio-player (⭐3)](https://github.com/smartcompanion-app/native-audio-player) - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
 
-## [6. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [7. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Official
 
@@ -196,19 +206,19 @@
 *   [Burrito](https://docs.burrito.tf/latest/overview/) - A TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.
 *   [tofUI (⭐1)](https://github.com/65156/tofUI) - Easily export OpenTofu and Terraform plans in HTML for better readability.
 
-## [7. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
+## [8. Awesome Github Wiki](/content/MyHoneyBadger/awesome-github-wiki/week/README.md)
 
 ### Examples
 
 *   [AWS/aws-parallelcluster (⭐878)](https://github.com/aws/aws-parallelcluster/wiki)
 
-## [8. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
+## [9. Awesome Kustomize](/content/aabouzaid/awesome-kustomize/week/README.md)
 
 ### Snippets / Tips & Tricks
 
 *   [Add Pod security context (⭐0)](https://github.com/3deep5me/awesome-kustomize/blob/add-security-context-component/snippets/add-pod-security-context/kustomization.yaml) - Ensure the security context is added to containers in the Pod.
 
-## [9. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
+## [10. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
 ### Text / Developer tools
 
@@ -359,7 +369,7 @@
 *   [Awesome Vibe Coding (⭐205)](http://github.com/dariubs/awesome-vibe-coding) - A hand-picked collection of tools and resources for Vibe Coding.
 *   [Top AI Directories (⭐634)](https://github.com/best-of-ai/ai-directories) - An awesome list of best top AI directories to submit your ai tools
 
-## [10. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [11. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Official news
 
@@ -446,13 +456,13 @@
 *   [DuckDB vs Polars. Wait. DuckDB and Polars](https://www.confessionsofadataguy.com/duckdb-vs-polars-wait-duckdb-and-polars/) - A blog post  that helps you choose between Polars and DuckDB based on use cases by [@danielbeach](https://github.com/danielbeach).
 *   [Pandas vs Polars in 2025 — Should You Finally Make the Switch?](https://python.plainenglish.io/pandas-vs-polars-in-2025-should-you-finally-make-the-switch-90fb2756ffe1) - An article that compares performance and features between Polars and Pandas in 2025 by [@Gecofer](https://github.com/Gecofer).
 
-## [11. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [12. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Bifrost (⭐1.2k)](https://github.com/maximhq/bifrost): Bifrost is the fastest LLM gateway, with just 11μs overhead at 5,000 RPS, making it 50x faster than LiteLLM. ![GitHub Repo stars](https://img.shields.io/github/stars/maximhq/bifrost?style=social)
 
-## [12. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
+## [13. Awesome Job Boards](/content/tramcar/awesome-job-boards/week/README.md)
 
 ### Tech / Aggregator
 
@@ -487,7 +497,7 @@
 
 *   [qubitsok.com](https://qubitsok.com/) - A job board specialized in Quantum Computing with personalized job alerts
 
-## [13. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
+## [14. Awesome Remote Job](/content/lukasz-madon/awesome-remote-job/week/README.md)
 
 ### Job boards
 
@@ -503,7 +513,7 @@
 
 *   [StaffWatcher](https://staffwatcher.com/) - Time tracking
 
-## [14. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [15. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Abduction / Applications in AI
 
@@ -583,14 +593,14 @@
 *   [Large language models for scientific discovery in molecular property prediction](https://www.nature.com/articles/s42256-025-00994-z) - ***Nature Machine Intelligence***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=12679596096313341977)]. Large language models (LLMs) are a form of artificial intelligence system encapsulating vast knowledge in the form of natural language. These systems are adept at numerous complex tasks including creative writing, storytelling, translation, question-answering, summarization and computer code generation. Although LLMs have seen initial applications in natural sciences, their potential for driving scientific discovery remains largely unexplored. This work introduces LLM4SD, a framework designed to harness LLMs for driving scientific discovery in molecular property prediction by synthesizing knowledge from literature and inferring knowledge from scientific data. LLMs synthesize knowledge by extracting established information from scientific literature, such as molecular weight being key to predicting solubility. For inference, LLMs identify patterns in molecular data, particularly in Simplified Molecular Input Line Entry System-encoded structures, such as halogen-containing molecules being more likely to cross the blood–brain barrier. This information is presented as interpretable knowledge, enabling the transformation of molecules into feature vectors. By using these features with interpretable models such as random forest, LLM4SD can outperform the current state of the art across a range of benchmark tasks for predicting molecular properties. The authors foresee it providing interpretable and potentially new insights, aiding scientific discovery in molecular property prediction.
 *   [Retrosynthesis prediction using an end-to-end graph generative architecture for molecular graph editing](https://www.nature.com/articles/s41467-023-38851-5) - ***Nature Communications***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=8204732491203332966)]. Retrosynthesis planning, the process of identifying a set of available reactions to synthesize the target molecules, remains a major challenge in organic synthesis. Recently, computer-aided synthesis planning has gained renewed interest and various retrosynthesis prediction algorithms based on deep learning have been proposed. However, most existing methods are limited to the applicability and interpretability of model predictions, and further improvement of predictive accuracy to a more practical level is still required. In this work, inspired by the arrow-pushing formalism in chemical reaction mechanisms, the authors present an end-to-end architecture for retrosynthesis prediction called Graph2Edits. Specifically, Graph2Edits is based on graph neural network to predict the edits of the product graph in an auto-regressive manner, and sequentially generates transformation intermediates and final reactants according to the predicted edits sequence. This strategy combines the two-stage processes of semi-template-based methods into one-pot learning, improving the applicability in some complicated reactions, and also making its predictions more interpretable. Evaluated on the standard benchmark dataset USPTO-50k, the model achieves the state-of-the-art performance for semi-template-based retrosynthesis with a promising 55.1% top-1 accuracy.
 
-## [15. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
+## [16. Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/week/README.md)
 
 ### Papers / 2025
 
 *   [Auditing Pay-Per-Token in Large Language Models](https://arxiv.org/pdf/2510.05181) - (arXiv) *Develops an auditing framework based on martingale theory that enables a trusted third-party auditor who sequentially queries a provider to
     detect token misreporting.*
 
-## [16. Awesome Math](/content/rossant/awesome-math/week/README.md)
+## [17. Awesome Math](/content/rossant/awesome-math/week/README.md)
 
 ### Tools
 
@@ -614,7 +624,7 @@
 *   📝 [Chaos: Making a New Science](https://archive.org/details/chaosmakingnewsc0000unse) - James Gleick
 *   📝 [Complexity: A Guided Tour](https://archive.org/details/complexityguided0000mitc?utm_source=chatgpt.com) - Melanie Mitchell (Oxford University)
 
-## [17. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [18. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Main National Search Engines
 
@@ -708,7 +718,7 @@
 *   [Threat Actor Usernames Scrape (⭐36)](https://github.com/spmedia/Threat-Actor-Usernames-Scrape) - A collection of fresh intel and threat actor usernames scraped from various cybercrime sources & forums.
 *   [PhishingSecLists (⭐67)](https://github.com/spmedia/PhishingSecLists) - This list is to be used with web scanning tools (Gobuster, ffuf, Burp Suite, DirBuster). These lists are specifically tailored and designed for fuzzing phishing, crypto scam landing pages, and other malicious sketch af websites. You can gain vaulable intel on successful hits.
 
-## [18. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
+## [19. Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/week/README.md)
 
 ### 📚 Books
 
@@ -808,7 +818,7 @@
 *   [Suno](https://suno.ai/) — AI music from text prompts.
 *   [Aiva](https://www.aiva.ai/) — Music composition for media.
 
-## [19. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
+## [20. Awesome Algorithms](/content/tayllan/awesome-algorithms/week/README.md)
 
 ### Beginner-Friendly / Book
 
@@ -842,7 +852,7 @@
 
 *   [Theoretical Computer Science (⭐1k)](https://github.com/mostafatouny/awesome-theoretical-computer-science/) - The interdisciplinary of Mathematics and Computer Science, distinguished by its emphasis on mathematical technique and rigour.
 
-## [20. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [21. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
@@ -868,25 +878,25 @@
 
 *   [playwright-examples](https://github.com/microosft/playwright-examples) - Various testing scenarios with Playwright.
 
-## [21. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
+## [22. Awesome Jmeter](/content/aliesbelik/awesome-jmeter/week/README.md)
 
 ### Tools / IDE Integration
 
 *   [IntelliJ IDEA IDE Plugin](https://plugins.jetbrains.com/plugin/7013-jmeter-plugin) - Create run configurations and run JMeter tests from IntelliJ IDEA.
 
-## [22. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
+## [23. Awesome Tap](/content/sindresorhus/awesome-tap/week/README.md)
 
 ### Reporters / Go
 
 *   [tapfmt (⭐2)](https://github.com/coreybutler/tapfmt) - Standalone cross-platform formatter.
 
-## [23. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [24. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / UI & End-to-End Testing
 
 *   [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime
 
-## [24. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
+## [25. Awesome Keycloak](/content/thomasdarimont/awesome-keycloak/week/README.md)
 
 ### Articles
 
@@ -921,7 +931,7 @@
 
 *   [Keycloak and SPIRE for Agent Identity (⭐28)](https://github.com/christian-posta/keycloak-agent-identity)
 
-## [25. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
+## [26. Awesome Malware Persistence](/content/Karneades/awesome-malware-persistence/week/README.md)
 
 ### Techniques / Generic
 
@@ -931,7 +941,7 @@
 
 *   [AWSDoor: Persistence on AWS (⭐28)](https://github.com/OtterHacker/AWSDoor) - Access persistence tool for AWS. The [corresponding article](https://www.riskinsight-wavestone.com/en/2025/09/awsdoor-persistence-on-aws/) describes the techniques adversaries can use to hide themselves within a cloud environment and its AWSDoor implementation to simplify and automate the deployment of persistence techniques in AWS environments.
 
-## [26. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
+## [27. Awesome Hacking Locations](/content/daviddias/awesome-hacking-locations/week/README.md)
 
 ### France 🇫🇷 / Paris
 
@@ -1015,7 +1025,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 | ---- | ----- | -------------------------------------------------------------------------------- | ---------------------------------------- |
 | ✔    | ✔     | [5401 College Ave, Oakland, CA 94618](https://maps.app.goo.gl/Aoc8smv18wRHi1Lw9) | Weekdays: 6AM - 6PM, Weekends: 7AM - 6PM |
 
-## [27. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
+## [28. Android Security Awesome](/content/ashishb/android-security-awesome/week/README.md)
 
 ### Tools / Online Analyzers
 
@@ -1026,13 +1036,13 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [Brida (⭐1.8k)](https://github.com/federicodotta/Brida) - Burp Suite extension that, working as a bridge between Burp and Frida, lets you use and manipulate the applications' own methods while tampering the traffic exchanged between the applications and their back-end services/servers.
 *   [MPT (⭐35)](https://github.com/ByteSnipers/mobile-pentest-toolkit) - MPT (Mobile Pentest Toolkit) is a must-have solution for your android penetration testing workflows. This tool allow you to automate security tasks.
 
-## [28. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
+## [29. Awesome Cyber Security University](/content/brootware/awesome-cyber-security-university/week/README.md)
 
 ### Free Beginner Red Team Path / Level 2 - Tooling
 
 *   [Subdomain Enumeration](https://tryhackme.com/room/subdomainenumeration) - Learn how to find subdomains with different techniques.
 
-## [29. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
+## [30. Awesome Privacy](/content/pluja/awesome-privacy/week/README.md)
 
 ### Android Debloat Tools
 
@@ -1094,7 +1104,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [Linguist](https://linguister.io) - A free and Open Source full-featured translation solution in-browser with embedded offline translator and [custom translators](https://linguister.io/docs/CustomTranslator). Full-page translation, TTS, dictionary, translation for user input and selected text on page.
 
-## [30. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [31. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### Community / Community Chat Rooms
 
@@ -1113,7 +1123,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [hayasen (⭐25)](https://github.com/Vaishnav-Sabari-Girish/Hayasen): An Embedded Rust crate with support for multiple sensors.  [![crates.io](https://img.shields.io/crates/v/hayasen.svg)](https://crates.io/crates/hayasen)
 *   [post-haste (⭐7)](https://github.com/petekubiak/post-haste): A no\_std, alloc-free async Rust library for creating modular projects.
 
-## [31. Awesome V](/content/vlang/awesome-v/week/README.md)
+## [32. Awesome V](/content/vlang/awesome-v/week/README.md)
 
 ### Command-line
 
@@ -1128,7 +1138,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [blobly (⭐0)](https://github.com/einar-hjortdal/blobly) - Central file server.
 
-## [32. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
+## [33. Awesome Coq](/content/coq-community/awesome-coq/week/README.md)
 
 ### Projects / User Interfaces
 
@@ -1138,13 +1148,13 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [Rocqnavi (⭐3)](https://github.com/affeldt-aist/rocqnavi) - Fork of coq2html that adds indexes, clickable notations, Markdown and LaTeX formatting in comments, and more.
 
-## [33. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
+## [34. Awesome Vala](/content/desiderantes/awesome-vala/week/README.md)
 
 ### Libraries / Data Structures & Data Types
 
 *   [Libgee](https://gitlab.gnome.org/GNOME/libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 
-## [34. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [35. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Online Books
 
@@ -1166,7 +1176,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [wisitoken](https://elpa.gnu.org/packages/wisi.html) - An LALR, LR1, and Packrat parser generator and run-time.
 
-## [35. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [36. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Utility Scripts
 
@@ -1176,7 +1186,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [SoCMake (⭐32)](https://github.com/HEP-SoC/SoCMake) - CMake based build system for hardware (ASIC, FPGA) and System-on-Chip build automation. [`[LGPL]`](https://www.gnu.org/licenses/lgpl-3.0.en.html)
 
-## [36. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
+## [37. Awesome Crystal](/content/veelenga/awesome-crystal/week/README.md)
 
 ### Converters
 
@@ -1192,13 +1202,13 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [OWASP Noir (⭐917)](https://github.com/owasp-noir/noir) - Attack surface detector that identifies endpoints by static analysis
 *   [XSSMaze (⭐30)](https://github.com/hahwul/xssmaze) - XSSMaze is a web service that tests security tools using diverse XSS cases
 
-## [37. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [38. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Framework Extras
 
 *   [Filament PHP](https://filamentphp.com/) - A powerful open source UI framework for Laravel.
 
-## [38. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
+## [39. Awesome Ocaml](/content/ocaml-community/awesome-ocaml/week/README.md)
 
 ### Concurrency
 
@@ -1208,7 +1218,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
     *   [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
     *   [Async](https://opensource.janestreet.com/async/) — A monadic concurrence library to go with the Core library.
 
-## [39. Awesome Java](/content/akullpp/awesome-java/week/README.md)
+## [40. Awesome Java](/content/akullpp/awesome-java/week/README.md)
 
 ### Code Generators / Text-Based User Interfaces
 
@@ -1255,7 +1265,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [WebForms Core](https://github.com/webforms-core) - A technology for managing HTML tags from the server.
 
-## [40. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [41. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### Expert Systems
 
@@ -1501,7 +1511,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [machine-state](https://codeberg.org/shinmera/machine-state/) -  Retrieve machine state information about CPU time, memory usage, thread processing time, etc.
 
-## [41. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+## [42. Awesome D](/content/dlang-community/awesome-d/week/README.md)
 
 ### Getting Help
 
@@ -1555,7 +1565,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [sdlang (⭐121)](https://github.com/dlang-community/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 
-## [42. Awesome R](/content/qinwf/awesome-R/week/README.md)
+## [43. Awesome R](/content/qinwf/awesome-R/week/README.md)
 
 ### Network Analysis
 
@@ -1563,7 +1573,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [manynet](https://cran.r-project.org/web/packages/manynet/index.html) - Tools for making and modifying many different types of networks.
 *   [autograph](https://cran.r-project.org/web/packages/autograph/index.html) - Automagic plotting of network graphs and models.
 
-## [43. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [44. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### CLI
 
@@ -1624,7 +1634,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [cppstat](https://cppstat.dev) - A site that lists C++ features and their support by compilers and standard library implementations in an accessible way.
 
-## [44. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
+## [45. Awesome Elm](/content/sporto/awesome-elm/week/README.md)
 
 ### Inspired by Elm / Games
 
@@ -1638,7 +1648,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [Roc (⭐5.3k)](https://github.com/roc-lang/roc) - A language that targets WebAssembly and machine code inspired by Elm.
 *   [Sauron (⭐2.1k)](https://github.com/ivanceras/sauron) - A library that provides The Elm Architecture in Rust targeting the web.
 
-## [45. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
+## [46. Awesome Elixir](/content/h4cc/awesome-elixir/week/README.md)
 
 ### Artificial Intelligence
 
@@ -1649,7 +1659,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [then (⭐3)](https://github.com/bardoor/then) - Simple way to set after-function callback.
 
-## [46. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
+## [47. Awesome Ruby](/content/markets/awesome-ruby/week/README.md)
 
 ### Authorization
 
@@ -1674,7 +1684,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [typesense-ruby (⭐108)](https://github.com/typesense/typesense-ruby) - Ruby client for Typesense, a fast, typo-tolerant search engine.
 
-## [47. Awesome Go](/content/avelino/awesome-go/week/README.md)
+## [48. Awesome Go](/content/avelino/awesome-go/week/README.md)
 
 ### Actor Model
 
@@ -1901,7 +1911,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [Libs.tech](https://libs.tech/go) – Awesome Go libraries and hidden gems
 
-## [48. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [49. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Productivity
 
@@ -2100,7 +2110,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   Arts
     *   [🦀 Free Ferris Pack 🦀 (⭐183)](https://github.com/MariaLetta/free-ferris-pack) - Pack of 50+ Free Ferris illustrations with different emotions, poses and situations in PNG and SVG licensed under CC0
 
-## [49. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
+## [50. Awesome Micropython](/content/mcauser/awesome-micropython/week/README.md)
 
 ### IDEs / SRAM
 
@@ -2118,7 +2128,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [bh1750.py (⭐1)](https://github.com/adyavanapalli/bh1750.py) - MicroPython BH1750 ambient light sensor driver.
 
-## [50. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [51. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / APIs
 
@@ -2136,7 +2146,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [BH2](https://codeberg.org/trey/bh2) - Get a new Django site started in a Djiffy
 
-## [51. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
+## [52. Awesome Python Typing](/content/typeddjango/awesome-python-typing/week/README.md)
 
 ### Static type checkers
 
@@ -2146,7 +2156,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [NumPy](https://numpy.org/devdocs/reference/typing.html) - Plugin for [NumPy](https://numpy.org) support.
 
-## [52. Awesome Python](/content/vinta/awesome-python/week/README.md)
+## [53. Awesome Python](/content/vinta/awesome-python/week/README.md)
 
 ### Data Analysis
 
@@ -2160,25 +2170,25 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [toonify (⭐224)](https://github.com/ScrapeGraphAI/toonify) - A compact, human-readable serialization format that reduces LLM token usage by 30-60% compared to JSON.
 
-## [53. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
+## [54. Awesome Swift](/content/matteocrippa/awesome-swift/week/README.md)
 
 ### Audio
 
 *   [FluidAudio (⭐931)](https://github.com/FluidInference/FluidAudio) - SDK for real-time speaker diarization and identification on iOS/macOS, with CoreML models converted directly from PyTorch to leverage Apple Neural Engine for better performance on older devices.
 
-## [54. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
+## [55. Awesome Fp Js](/content/stoeffel/awesome-fp-js/week/README.md)
 
 ### Libraries
 
 *   [iterflow (⭐1)](https://github.com/gv-sh/iterflow) - Powerful iterator utilities for TypeScript with statistical operations, windowing, and lazy evaluation. +TS
 
-## [55. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
+## [56. Awesome Npm](/content/sindresorhus/awesome-npm/week/README.md)
 
 ### Registry
 
 *   [RepoFlow](https://www.repoflow.io) - A simple and easy-to-use package management platform, available for both cloud and self-hosted deployments.
 
-## [56. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [57. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Package Managers
 
@@ -2208,7 +2218,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [KaibanJS (⭐1.3k)](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is an open-source framework browser-compatibility of orchestration of multi-agent ai systems using a Kanban-inspired architecture.
 
-## [57. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
+## [58. Awesome Arcgis Developers](/content/Esri/awesome-arcgis-developers/week/README.md)
 
 ### APIs and SDKs
 
@@ -2243,13 +2253,13 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [ArcGIS Analysis services](https://developers.arcgis.com/rest/analysis-services/) - Spatial, raster, elevation, hydrology, and utility network analysis.
 *   [Turf.js (⭐10k)](https://github.com/Turfjs/turf) - Geospatial analysis for browsers and Node.js.
 
-## [58. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
+## [59. Awesome Capacitor](/content/riderx/awesome-capacitor/week/README.md)
 
 ### Other plugins
 
 *   [Native Audio Player (⭐3)](https://github.com/smartcompanion-app/native-audio-player) - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
 
-## [59. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [60. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Projects / API Management
 
@@ -2404,7 +2414,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [JSON Schema (⭐4.6k) (⭐4.7k)](https://github.com/json-schema-org/json-schema-spec) - A powerful tool for validating the structure of JSON data. JSON Schema enables developers to ensure that JSON data conforms to a specific structure, making it easier to process and manipulate.
 
-## [60. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
+## [61. Awesome Nix](/content/nix-community/awesome-nix/week/README.md)
 
 ### Resources / Learning
 
@@ -2484,19 +2494,19 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [neovim-nightly-overlay (⭐392)](https://github.com/nix-community/neovim-nightly-overlay) - Daily bumped Neovim nightly package.
 
-## [61. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
+## [62. Awesome Dos](/content/balintkissdev/awesome-dos/week/README.md)
 
 ### Development tools
 
 *   [bcc - Bruce's C Compiler](https://gitlab.com/FreeDOS/devel/bcc) - Bruce's C compiler is a simple C compiler that produces 8086 assembler for tiny/small memory models.
 
-## [62. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
+## [63. Awesome Deno](/content/denolib/awesome-deno/week/README.md)
 
 ### Modules / Utils
 
 *   [esm-itter (⭐3)](https://github.com/tillsanders/esm-itter) – A strongly typed fork of the popular EventEmitter3 with a focus on EcmaScript module syntax, TypeScript and modern tooling.
 
-## [63. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
+## [64. Awesome Dotnet](/content/quozd/awesome-dotnet/week/README.md)
 
 ### API
 
@@ -2540,7 +2550,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [Silverfly (⭐23)](https://github.com/furesoft/Silverfly) - A pratt parser library.
 
-## [64. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
+## [65. Awesome Kde](/content/francoism90/awesome-kde/week/README.md)
 
 ### Utilities & Tools
 
@@ -2550,19 +2560,19 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [Fluid tile](https://codeberg.org/Serroda/fluid-tile) - Simple auto tiling with UI for KWin that works natively.
 
-## [65. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
+## [66. Awesome Raspberry Pi](/content/thibmaek/awesome-raspberry-pi/week/README.md)
 
 ### Models
 
 *   [Raspberry Pi 500+](https://www.raspberrypi.com/products/raspberry-pi-500-plus/) (September, 2025)
 
-## [66. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
+## [67. Awesome Ipfs](/content/ipfs/awesome-ipfs/week/README.md)
 
 ### Tools
 
 *   [Omnipin (⭐41)](https://github.com/omnipin/omnipin) - The ultimate decentralized website deployment toolkit.
 
-## [67. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [68. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### 🎵 Audio (36)
 
@@ -3060,8 +3070,6 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
     <details>  <summary>More</summary>  <p><b>Languages:</b> <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <br><b>Links:</b> <a href='https://github.com/RocketChat/Rocket.Chat.Electron/releases/latest'><img src='https://img.shields.io/github/v/release/RocketChat/Rocket.Chat.Electron?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/RocketChat/Rocket.Chat.Electron'><img src='https://img.shields.io/github/stars/RocketChat/Rocket.Chat.Electron?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/RocketChat/Rocket.Chat.Electron' alt='License'/><br><b>Website:</b> <a href="https://www.rocket.chat/">https://www.rocket.chat/</a><br>  </p>  </details>
 *   [Seaglass (⭐532)](https://github.com/neilalexander/seaglass) - A truly native [Matrix](https://matrix.org/blog/home/) client for macOS.
     <details>  <summary>More</summary>  <p><b>Languages:</b> <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <br><b>Links:</b> <a href='https://github.com/neilalexander/seaglass/releases/latest'><img src='https://img.shields.io/github/v/release/neilalexander/seaglass?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/neilalexander/seaglass'><img src='https://img.shields.io/github/stars/neilalexander/seaglass?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/neilalexander/seaglass' alt='License'/><br><b>Screenshots:</b><br><img src='https://raw.githubusercontent.com/neilalexander/seaglass/master/image.png' width='400' loading='lazy'/><br>  </p>  </details>
-*   [Signal Desktop (⭐16k)](https://github.com/signalapp/Signal-Desktop) - Electron app that links with your Signal Android or Signal iOS app.
-    <details>  <summary>More</summary>  <p><b>Languages:</b> <img src='./icons/javascript-16.png' alt='JavaScript icon' title='JavaScript' height='16'/> <br><b>Links:</b> <a href='https://github.com/signalapp/Signal-Desktop/releases/latest'><img src='https://img.shields.io/github/v/release/signalapp/Signal-Desktop?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/signalapp/Signal-Desktop'><img src='https://img.shields.io/github/stars/signalapp/Signal-Desktop?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/signalapp/Signal-Desktop' alt='License'/><br>  </p>  </details>
 *   [Telegram (⭐5.4k)](https://github.com/overtake/TelegramSwift) - Source code of Telegram for macOS on Swift.
     <details>  <summary>More</summary>  <p><b>Languages:</b> <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/> <br><b>Links:</b> <a href='https://github.com/overtake/TelegramSwift/releases/latest'><img src='https://img.shields.io/github/v/release/overtake/TelegramSwift?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/overtake/TelegramSwift'><img src='https://img.shields.io/github/stars/overtake/TelegramSwift?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/overtake/TelegramSwift' alt='License'/><br>  </p>  </details>
 *   [Telegram Desktop (⭐29k)](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app.
@@ -3929,7 +3937,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [Yabai (⭐27k)](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning.
     <details>  <summary>More</summary>  <p><b>Languages:</b> <img src='./icons/c-16.png' alt='C icon' title='C' height='16'/> <img src='./icons/objective-c-16.png' alt='Objective-C icon' title='Objective-C' height='16'/> <br><b>Links:</b> <a href='https://github.com/koekeishiya/yabai/releases/latest'><img src='https://img.shields.io/github/v/release/koekeishiya/yabai?display_name=tag&sort=semver' alt='Latest Release'/></a> &nbsp; <a href='https://github.com/koekeishiya/yabai'><img src='https://img.shields.io/github/stars/koekeishiya/yabai?style=social' alt='GitHub stars'/></a> &nbsp; <img src='https://img.shields.io/github/license/koekeishiya/yabai' alt='License'/><br><b>Screenshots:</b><br><img src='https://raw.githubusercontent.com/koekeishiya/yabai/master/assets/screenshot.png' width='400' loading='lazy'/><br>  </p>  </details>
 
-## [68. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [69. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Reading and Writing Tools / Text Editors
 
@@ -4054,7 +4062,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [DockAnchor (⭐107)](https://github.com/bwya77/DockAnchor) - Lock the macOS Dock to a single screen in a multi-monitor setup. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/bwya77/DockAnchor) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [everythingByMdfind (⭐126)](https://github.com/appledragon/everythingByMdfind) - Fast file search using Spotlight. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/appledragon/everythingByMdfind) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [69. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [70. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Networking
 
@@ -4069,7 +4077,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [oryx (⭐2.2k)](https://github.com/pythops/oryx) - A TUI for sniffing network traffic using eBPF on Linux.
 
-## [70. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
+## [71. Awesome Android](/content/JStumpp/awesome-android/week/README.md)
 
 ### Logger / Field Validation
 
@@ -4087,7 +4095,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [AppDimens (⭐10)](https://github.com/bodenberg/appdimens) - Smart Responsive Dimensions for Any Screen (FX, DY, DP, SP, Logarithmic)
 
-## [71. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
+## [72. Awesome Ios](/content/vsouza/awesome-ios/week/README.md)
 
 ### Getting Started
 
@@ -4101,7 +4109,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [ProgressUI (⭐88)](https://github.com/PierreJanineh-com/ProgressUI) - A highly customizable and animated circular/linear progress indicator for SwiftUI. Supports dynamic coloring, spinner mode, multiple sizes, and easy appearance customization.
 
-## [72. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
+## [73. Awesome Nodejs](/content/sindresorhus/awesome-nodejs/week/README.md)
 
 ### Packages / Filesystem
 
@@ -4115,13 +4123,17 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [Forward Email (⭐1.4k)](https://github.com/forwardemail/forwardemail.net) - Open-source and self-hostable email service.
 
-## [73. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+## [74. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+
+### Server Software / STUN/TURN
+
+*   [eturnal](https://eturnal.net/) - Modern and scalable STUN/TURN server written in Erlang.
 
 ### Developer Resources / JavaScript Libraries
 
 *   [Socio (⭐125)](https://github.com/Rolands-Laucis/Socio) - A WebSocket Real-Time Communication (RTC) API framework. Realtime Front-end, Back-end reactivity.
 
-## [74. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
+## [75. Awesome Pcaptools](/content/caesar0301/awesome-pcaptools/week/README.md)
 
 ### Traffic Capture
 
@@ -4136,7 +4148,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [WinDivert (⭐3k)](https://github.com/basil00/WinDivert): is a Windows library for user-mode packet interception.
 *   [WinDump](https://www.winpcap.org/windump/): is the Windows equivalent of tcpdump, uses WinPcap.
 
-## [75. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
+## [76. Awesome Creative Technology](/content/j0hnm4r5/awesome-creative-technology/week/README.md)
 
 ### Creative Technology
 
@@ -4197,7 +4209,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 
 
-## [76. Public Apis](/content/public-apis/public-apis/week/README.md)
+## [77. Public Apis](/content/public-apis/public-apis/week/README.md)
 
 - API: [Aviationstack](https://aviationstack.com/?utm_source=Github\&utm_medium=Referral\&utm_campaign=Public-apis-repo-Best-sellers)
 
@@ -4207,7 +4219,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 
 
-## [77. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
+## [78. Awesome Acg](/content/soruly/awesome-acg/week/README.md)
 
 ### Data Sources
 
@@ -4217,13 +4229,13 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [APISR (⭐1.1k)](https://github.com/Kiteretsu77/APISR) - APISR: Anime Production Inspired Real-World Anime Super-Resolution (CVPR 2024). \[English]
 
-## [78. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
+## [79. ALL About RSS](/content/AboutRSS/ALL-about-RSS/week/README.md)
 
 ### RSS2ARCHIVE / For Android device
 
 *   [RSS Librarian](https://alternator.hstn.me/librarian.php) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/thefranke/rss-librarian)
 
-## [79. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [80. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
@@ -4234,14 +4246,14 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [DocuPotion](https://docupotion.com/) - Generate PDFs at scale in Bubble and Airtable.
 *   [Itura](https://itura-ai.com) - Build your own AI conversational, database-backed apps.
 
-## [80. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
+## [81. Awesome Webxr](/content/msub2/awesome-webxr/week/README.md)
 
 ### Development / Frameworks and Libraries
 
 *   [reactylon](https://www.reactylon.com/) - A powerful multiplatform framework built on top of Babylon.js and React, designed to create 3D/XR experiences.
     *   [Official Documentation](https://www.reactylon.com/docs)
 
-## [81. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
+## [82. Awesome Scriptable](/content/dersvenhesse/awesome-scriptable/week/README.md)
 
 ### Calendar
 
@@ -4286,7 +4298,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [Toronto Bike Share (⭐7)](https://github.com/alexboden/toronto-bike-share-status/blob/main/compact-widget.js) - Show availabilites of the Toronto Bike Share.
 
-## [82. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
+## [83. Awesome Web Archiving](/content/iipc/awesome-web-archiving/week/README.md)
 
 ### Tools & Software / Acquisition
 
@@ -4312,7 +4324,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [Web Archiving Community (⭐26k)](https://github.com/ArchiveBox/ArchiveBox/wiki/Web-Archiving-Community)
 
-## [83. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
+## [84. Awesome Naming](/content/gruhn/awesome-naming/week/README.md)
 
 ### Computer Graphics
 
@@ -4327,7 +4339,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [bubblewrap (⭐5.1k)](https://github.com/containers/bubblewrap) - Sandboxing tool froming a protective layer for your system.
 
-## [84. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
+## [85. Awesome Earth](/content/philsturgeon/awesome-earth/week/README.md)
 
 ### Reforestation
 
@@ -4337,7 +4349,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [1 Click Impact](https://docs.1clickimpact.com/) - Comprehensive sustainability API platform for developers featuring Tree Planting API, Carbon Capture API, Ocean Cleanup API, and more. Plant trees with every purchase, offset carbon emissions automatically, clean oceans, and integrate sustainability features seamlessly into your existing products. Easy integration for e-commerce platforms, mobile apps, and web applications to make any business climate-positive with minimal code.
 
-## [85. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
+## [86. Awesome Connectivity Info](/content/stevesong/awesome-connectivity-info/week/README.md)
 
 ### Connectivity Maps
 
@@ -4347,7 +4359,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   GSMA - State of Mobile Internet Connectivity ([2025](https://www.gsma.com/somic/wp-content/uploads/2025/09/The-State-of-Mobile-Internet-Connectivity-2025-Overview-Report.pdf)) ([2024](https://www.gsma.com/r/wp-content/uploads/2024/10/The-State-of-Mobile-Internet-Connectivity-Report-2024.pdf)) ([2023](https://www.gsma.com/r/wp-content/uploads/2023/10/The-State-of-Mobile-Internet-Connectivity-Report-2023.pdf)) ([2022](https://www.gsma.com/r/wp-content/uploads/2022/10/The-State-of-Mobile-Internet-Connectivity-Report-2022.pdf)) ([2020](https://www.gsma.com/r/wp-content/uploads/2020/09/GSMA-State-of-Mobile-Internet-Connectivity-Report-2020.pdf)) ([2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
 
-## [86. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
+## [87. Awesome Agriculture](/content/brycejohnston/awesome-agriculture/week/README.md)
 
 ### Automation and Robotics
 
@@ -4365,7 +4377,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [Open hydroponics](https://openhydroponics.com/) - Fully Automated Hydroponic OS
 
-## [87. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
+## [88. Awesome Scientific Computing](/content/nschloe/awesome-scientific-computing/week/README.md)
 
 ### Multi-purpose toolkits
 
@@ -4386,7 +4398,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [XDMF](https://xdmf.org/) - eXtensible Data Model and Format for data from High Performance Computing codes.
     (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 
-## [88. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
+## [89. Awesome Board Games](/content/edm00se/awesome-board-games/week/README.md)
 
 ### Strategy
 
@@ -4400,7 +4412,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 | ------: | -------: | ------: |
 |   2 - 8 |       12 | 90-120m |
 
-## [89. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
+## [90. Awesome Icons](/content/vkarampinis/awesome-icons/week/README.md)
 
 ### Archive of Icons
 
@@ -4410,25 +4422,25 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [FlyonUI Icons](https://flyonui.com/docs/customization/icons/) - FlyonUI offers customizable icons using Iconify with Tabler support.
 
-## [90. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [91. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Everything to Markdown to LLMs
 
 *   [bytedance/Dolphin (⭐7.8k)](https://github.com/bytedance/Dolphin): The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
 
-## [91. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
+## [92. Awesome Falsehood](/content/kdeldycke/awesome-falsehood/week/README.md)
 
 ### Business
 
 *   [“The system can’t handle a billion dollars”](https://xcancel.com/signulll/status/1950294195039838480) - Insane compensation at Meta in the middle of the AI-boom breaks ERPs.
 
-## [92. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [93. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Bibliography tools
 
 *   [OneCite (⭐43)](https://github.com/HzaCode/OneCite) - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
-## [93. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
+## [94. Awesome Opensource Apps](/content/unicodeveloper/awesome-opensource-apps/week/README.md)
 
 ### ReactJS
 
@@ -4440,20 +4452,20 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 
 
-## [94. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
+## [95. Citizen Science](/content/dylanrees/citizen-science/week/README.md)
 
 ### Software / Modeling and Computation
 
 *   [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
 *   [Desbordante (⭐430)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 
-## [95. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
+## [96. Awesome Katas](/content/gamontal/awesome-katas/week/README.md)
 
 ### Others
 
 *   [SupermarketReceipt Refactoring Kata (⭐117)](https://github.com/emilybache/SupermarketReceipt-Refactoring-Kata)
 
-## [96. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+## [97. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
 
 ### JavaScript
 
@@ -4463,7 +4475,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [DocsGPT (⭐17k)](https://github.com/arc53/DocsGPT) *(label: good first issue)* <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
 
-## [97. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [98. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Converters / Rust
 
@@ -4507,7 +4519,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [Open Train Community (⭐25)](https://github.com/hasadna/OpenTrainCommunity) - Opentrain repository for community data analysis of Israel Railways train delay data.
 
-## [98. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
+## [99. Urban and Regional Planning Resources](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md)
 
 ### Planning Coding Resources / Python
 
@@ -4517,7 +4529,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [EuclidHL](https://www.hlplanning.com/euclidhl/) - An AI assistant with expertise in your city's zoning code and plans. Residents and other civic stakeholders can use EuclidHL to get accurate and timely information about planning and zoning in their community. Technology Division webinar on the topic [here](https://www.youtube.com/watch?v=AItBaYwfMOQ\&ab_channel=PlanningWebcastSeries).
 
-## [99. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
+## [100. Awesome Graphql](/content/chentsulin/awesome-graphql/week/README.md)
 
 ### JavaScript/TypeScript
 
@@ -4538,7 +4550,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [Apollo APQ Debugger (⭐0)](https://github.com/rookieInTraining/apq-debugger) - Reveal full GraphQL queries behind Apollo APQ hashes. Inspect fallback flow and debug Automatic Persisted Queries in DevTools. <a name="databases" />
 
-## [100. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [101. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Analytics
 
@@ -4702,7 +4714,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   Alternative frontends/portals to discover/filter awesome-selfhosted apps: [awweso.me](https://awweso.me/) | [awesome-web.theravenhub](https://awesome-web.theravenhub.com/browse.html) | [awesomehub.web.app](https://awesomehub.js.org/list/selfhosted)
 
-## [101. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
+## [102. Awesome Readme](/content/matiassingers/awesome-readme/week/README.md)
 
 ### Examples
 
@@ -4713,7 +4725,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [GPRM (⭐894)](https://github.com/VishwaGauravIn/github-profile-readme-maker) - A tool to generate a customized GitHub Profile README with a modern UI.
 *   [README Typing SVG (⭐7.9k)](https://github.com/DenverCoder1/readme-typing-svg) - Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Perfect for profile READMEs.
 
-## [102. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [103. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -4822,7 +4834,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [PHPhub](https://phphub.net/) — A collection of PHP tools, including a formatter, validator, sandbox, regex tester, and more.
 *   [It tools](https://it-tools.tech/) - Useful tools for developer and people working in IT.
 
-## [103. Awesome List](/content/sindresorhus/awesome/week/README.md)
+## [104. Awesome List](/content/sindresorhus/awesome/week/README.md)
 
 ### Platforms
 
@@ -4855,19 +4867,19 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [Tech Ethics (⭐26)](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 *   [Copilot Agents (⭐278)](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
 
-## [104. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
+## [105. Awesome Geojson](/content/tmcw/awesome-geojson/week/README.md)
 
 ### editors & viewers
 
 *   [geojson formatter](https://formatjsononline.com/geojson-formatter): Validate & Analyze Geographic Data Online
 
-## [105. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
+## [106. Awesome Scientific Writing](/content/writing-resources/awesome-scientific-writing/week/README.md)
 
 ### Templates / Articles
 
 *   [Paper Templates for GitHub Pages (⭐1)](https://github.com/dev-onejun/paper-templates-for-github-pages) - Markdown-based templates for papers and RESUME/CVs, publishing with GitHub Pages.
 
-## [106. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
+## [107. Awesome Flutter](/content/Solido/awesome-flutter/week/README.md)
 
 ### UI / Libraries
 
@@ -4896,7 +4908,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   Meetup [Egypt](https://www.meetup.com/flutter-nyc/)
 *   [X.com](https://x.com/flutteregypt)
 
-## [107. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
+## [108. Awesome Macos Screensavers](/content/agarrharr/awesome-macos-screensavers/week/README.md)
 
 ### Collections
 
@@ -4922,13 +4934,13 @@ Free (pay what you want)
 
 To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
 
-## [108. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
+## [109. Awesome Ffmpeg](/content/transitive-bullshit/awesome-ffmpeg/week/README.md)
 
 ### Tutorials
 
 *   [FFmpeg Cheatsheet for Video Automation (⭐734)](https://github.com/rendi-api/ffmpeg-cheatsheet)
 
-## [109. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
+## [110. Awesome Pixel Art](/content/Siilwyn/awesome-pixel-art/week/README.md)
 
 ### Inspiration / Games
 
@@ -4943,7 +4955,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 *   [Pixelrepo](https://pixelrepo.com/editor) - Free and works in the browser. Import files and palettes, save locally. Minimalist, easy to use, and perfect for quick pixel art editing.
 
-## [110. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
+## [111. Awesome Broadcasting](/content/ebu/awesome-broadcasting/week/README.md)
 
 ### Clocks & Studio Screens
 
@@ -5046,19 +5058,19 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 *   [The Netflix Tech Blog](https://netflixtechblog.com/) - A Netflix blog focused on technology and technology issues.
 
-## [111. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
+## [112. Awesome Opensource Documents](/content/44bits/awesome-opensource-documents/week/README.md)
 
 ### Other Languages / Chinese
 
 *   [FreeBSD 从入门到跑路](https://github.com/44bits/awesome-opensource-documents/blob/master/README.md/repo-freebsdask-book-cn) ([Site](https://book.bsdcn.org), cc-by) - 这是一本 FreeBSD 操作系统书籍，还包含一些 OpenBSD、NetBSD、DragonFly BSD、TwinCAT/BSD 等 BSD 家族操作系统的快速入门章节
 
-## [112. Awesome Music](/content/ciconia/awesome-music/week/README.md)
+## [113. Awesome Music](/content/ciconia/awesome-music/week/README.md)
 
 ### Audio Tools
 
 *   [Auralytics (⭐11)](https://github.com/WengYiNing/Auralytics) - an open-source personal Spotify analytics tool.
 
-## [113. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
+## [114. Awesome Stock Resources](/content/neutraltone/awesome-stock-resources/week/README.md)
 
 ### Photography / CC0-license
 
@@ -5186,7 +5198,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 *   [Shutterstock](https://shutterstock.com/) - Photos, Vectors, Editorial, Footages, Music.
 *   [Stocksy](https://stocksy.com/) - "Cliché-free" Photos.
 
-## [114. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
+## [115. Awesome Fonts](/content/brabadu/awesome-fonts/week/README.md)
 
 ### General
 
@@ -5211,13 +5223,13 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 *   [JGS Font](https://adelfaure.net/tools/jgs/)
 *   [Miracode (⭐1.1k)](https://github.com/IdreesInc/Miracode)
 
-## [115. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
+## [116. Awesome Roadmaps](/content/liuchong/awesome-roadmaps/week/README.md)
 
 ### Articles
 
 *   [Data Analytics Roadmap](https://www.appliedaicourse.com/blog/data-analytics-roadmap/) - Unlock success with this comprehensive roadmap: your guide to mastering analytics skills and career growth!
 
-## [116. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
+## [117. Awesome Product Management](/content/dend/awesome-product-management/week/README.md)
 
 ### Team Collaboration & Leadership / Tability
 
@@ -5231,7 +5243,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 *   [How to be more agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) - By [Cate Hall](https://substack.com/@usefulfictions).
 *   [On agency](https://www.henrikkarlsson.xyz/p/agency) - By [Henrik Karlsson](https://substack.com/@henrikkarlsson) and [Johanna Karlsson](https://substack.com/@karlssonjohanna).
 
-## [117. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [118. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Germany
 
@@ -5241,7 +5253,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 *   [Grundlagen, Methoden und Anwendungen der Digital History](https://dh-erfurt.github.io/digital-history/home.html) - Teaching and collaborative resources for digital history (University of Erfurt).
 
-## [118. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [119. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Plotters
 
@@ -5251,7 +5263,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 *   [Peak Map](https://anvaka.github.io/peak-map/) - A web-based tool to generate ridge line charts from map data.
 
-## [119. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
+## [120. Awesome Electronics](/content/kitspace/awesome-electronics/week/README.md)
 
 ### Inventory Management and Purchasing / Altium
 
@@ -5261,7 +5273,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 
 *   [KiCanvas](https://kicanvas.org/) - An open source online viewer of KiCad schematics and boards.
 
-## [120. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
+## [121. Awesome Discord Communities](/content/mhxion/awesome-discord-communities/week/README.md)
 
 ### Cooklang
 
@@ -5271,7 +5283,7 @@ To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agar
 Notable Channels: `#for-cooks`, `#sharing-recipes`, `#for-coders-general`, `#markup-discussion`, `#showcase`, `#cooklang-rs`, `#cooklang-ts` \
 Language: English <br>
 
-## [121. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
+## [122. Awesome Flame](/content/flame-engine/awesome-flame/week/README.md)
 
 ### Open Source / Education
 
@@ -5281,7 +5293,7 @@ Language: English <br>
 
 *   Vitayaja - [Android](https://play.google.com/store/apps/details?id=com.kevinomyonga.games.vitayaja) - A thrilling 2D versus fighting game built with precision, speed, and strategy in mind. Choose your fighter and battle against CPU opponents or friends. By [Kevin Omyonga](https://kevinomyonga.com)
 
-## [122. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
+## [123. Awesome Game Remakes](/content/radek-sprta/awesome-game-remakes/week/README.md)
 
 ### FPS
 
@@ -5303,7 +5315,7 @@ Language: English <br>
 
 *   [VoxeLibre](https://git.minetest.land/VoxeLibre/VoxeLibre) - Stable, moddable & free/libre clone of Minecraft based on the Luanti engine. :flower\_playing\_cards:
 
-## [123. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
+## [124. Awesome Playcanvas](/content/playcanvas/awesome-playcanvas/week/README.md)
 
 ### Interactive Experiences
 
@@ -5346,7 +5358,7 @@ Language: English <br>
 
 *   [Trivver](https://awesome.trivver.com) - Shop Smarter in 3D with real-time personalization and analytics.
 
-## [124. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
+## [125. Game Datasets](/content/leomaurodesenv/game-datasets/week/README.md)
 
 ### API
 
@@ -5366,13 +5378,13 @@ Language: English <br>
 
 *   [Gym OpenAI (⭐37k)](https://github.com/openai/gym) - Game toolkit for reinforcement learning algorithms.
 
-## [125. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
+## [126. Awesome Minecraft](/content/bs-community/awesome-minecraft/week/README.md)
 
 ### Softwares / Launchers
 
 *   [Polymerium (⭐47)](https://github.com/d3ara1n/Polymerium) - 🐿️ A next-generation Minecraft instance manager that thinks differently about game management.
 
-## [126. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [127. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### ASM / Music drivers and trackers
 
@@ -5386,7 +5398,7 @@ Language: English <br>
 
 *   [sm83-render (⭐0)](https://github.com/msinger/sm83-render) - A 3D model of the Game Boy CPU layout in Blender.
 
-## [127. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [128. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Text Editors Language Support
 
@@ -5396,7 +5408,7 @@ Language: English <br>
 
 *   [BeetPx](https://beetpx.dev/) - A TypeScript framework for pixel art browser games. Heavily inspired by PICO-8.
 
-## [128. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
+## [129. Awesome Godot](/content/godotengine/awesome-godot/week/README.md)
 
 ### 2D / Godot 4
 
@@ -5428,13 +5440,14 @@ Language: English <br>
 *   [PlayerConnect (⭐50)](https://github.com/rayzorite/PlayerConnect) - Bug/feedback reporting system for your Godot game. It uses a Discord webhook as a medium to send reports to your desired Discord channel.
 *   [Quill-IDE (⭐16)](https://github.com/rayzorite/quill-ide) - Modified and beautified version of the default Godot Script Editor for 4.4+.
 *   [Roommate (⭐33)](https://github.com/hoork/roommate) - 3D level builder tool with focus on creating indoors environment and automation.
+*   [Script-IDE (⭐888)](https://github.com/Maran23/script-ide) - Transforms the script editor into an IDE-like UI. Multiline tabs, improved outline, quick open and override, enhanced keyboard navigation.
 *   [Vest (⭐15)](https://github.com/foxssake/vest) - A unit testing addon for Godot.
 
 ### Plugins and scripts / Godot 3
 
 *   [DungeonTemplateLibrary-Godot (⭐31)](https://github.com/krazyjakee/DungeonTemplateLibrary-Godot) - Godot Dungeon Template Library (terrain & roguelike generation).
 
-## [129. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
+## [130. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/week/README.md)
 
 ### Translations / Ironsworn
 
@@ -5459,7 +5472,7 @@ Language: English <br>
 
 *   [Starforged: Ancient Connections Jam](https://itch.io/jam/starforged-ancient-connections/entries)
 
-## [130. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
+## [131. Awesome Game Engine Dev](/content/stevinz/awesome-game-engine-dev/week/README.md)
 
 ### Libraries / C
 
@@ -5503,7 +5516,7 @@ Language: English <br>
 
 *   💰 [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
 
-## [131. Magictools](/content/ellisonleao/magictools/week/README.md)
+## [132. Magictools](/content/ellisonleao/magictools/week/README.md)
 
 ### Graphics / Bitmap Compression
 
@@ -5526,7 +5539,7 @@ Language: English <br>
 
 *   :money\_with\_wings: [IMS Creators](https://ims.cr5.space/) - Game Design driven Project Management Tool
 
-## [132. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [133. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### UI Libraries
 
@@ -5573,19 +5586,19 @@ Language: English <br>
 
 *   [Oxide-Lab (⭐7)](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
 
-## [133. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
+## [134. Awesome Building Blocks for Web Apps](/content/componently-com/awesome-building-blocks-for-web-apps/week/README.md)
 
 ### Form
 
 *   [KirokuForms](https://kirokuforms.com/) - Drag-and-drop form builder with generous free tier, email notifications, and full API access.
 
-## [134. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
+## [135. Webcomponents the Right Way](/content/mateusortiz/webcomponents-the-right-way/week/README.md)
 
 ### Functional
 
 *   [Elemento (⭐3)](https://github.com/dsolimando/elemento) - A lightweight library for building functional web components using signals and Lit.
 
-## [135. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [136. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Actor Model
 
@@ -6287,7 +6300,7 @@ Language: English <br>
 *   [openziti/ziti (⭐3.7k)](https://github.com/openziti/ziti) — The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti ☆`3,714`
 *   [spiffe/spire (⭐2.1k)](https://github.com/spiffe/spire) — The SPIFFE Runtime Environment ☆`2,123`
 
-## [136. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [137. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### File Management Tools / Android
 
@@ -6621,7 +6634,7 @@ Language: English <br>
 *   [FelixKratz/JankyBorders (⭐2.9k)](https://github.com/FelixKratz/JankyBorders) — A lightweight window border system for macOS ☆`2,895`
 *   [lihaoyun6/Topit (⭐1.2k)](https://github.com/lihaoyun6/Topit) — Pin any window to the top of your screen ☆`1,188`
 
-## [137. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
+## [138. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
 
 ### Agents
 
@@ -6716,11 +6729,12 @@ Language: English <br>
 
 *   [av/harbor (⭐2.2k)](https://github.com/av/harbor) — Effortlessly run LLM backends, APIs, frontends, and services with one command. ☆`2,156`
 
-## [138. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [139. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Utility / Cursorline
 
 *   [mcauley-penney/visual-whitespace.nvim (⭐396)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
+*   [QuentinGruber/pomodoro.nvim (⭐44)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 
 ---
 

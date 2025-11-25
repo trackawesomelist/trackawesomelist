@@ -2,9 +2,19 @@
 
 Useful resources for creating apps with Electron
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-electron/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) · ⭐ 26K · 🏷️ Platforms
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-electron/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) · ⭐ 27K · 🏷️ Platforms
 
 [ Daily / [Weekly](/content/sindresorhus/awesome-electron/week/README.md) / [Overview](/content/sindresorhus/awesome-electron/readme/README.md) ]
+
+## [Nov 25, 2025](/content/2025/11/25/README.md)
+
+### Open Source / Other
+
+*   [Signal Desktop (⭐16k)](https://github.com/signalapp/Signal-Desktop) - Companion desktop app for Signal mobile app.
+
+### Closed Source / Other
+
+*   [Obsidian](https://obsidian.md) - Extensible Markdown note taking and knowledge management.
 
 ## [May 16, 2024](/content/2024/05/16/README.md)
 
@@ -16,13 +26,13 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Wave Terminal (⭐3.7k)](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
+*   [Wave Terminal (⭐13k)](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
 
 ## [Sep 15, 2023](/content/2023/09/15/README.md)
 
 ### Open Source / Other
 
-*   [PikaTorrent (⭐321)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
+*   [PikaTorrent (⭐887)](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 
 ## [Aug 08, 2023](/content/2023/08/08/README.md)
 
@@ -34,11 +44,11 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [shadowsocks-electron (⭐319)](https://github.com/nojsja/shadowsocks-electron) - Cross-platform Shadowsocks client.
+*   [shadowsocks-electron (⭐345)](https://github.com/nojsja/shadowsocks-electron) - Cross-platform Shadowsocks client.
 
 ### For Electron / Other
 
-*   [electron-vite (⭐3k)](https://github.com/alex8088/electron-vite) - Fast and easy-to-use build tool integrated with Vite.
+*   [electron-vite (⭐5k)](https://github.com/alex8088/electron-vite) - Fast and easy-to-use build tool integrated with Vite.
 
 ## [Jun 09, 2023](/content/2023/06/09/README.md)
 
@@ -50,29 +60,29 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Ostara (⭐312)](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
+*   [Ostara (⭐337)](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 
 ## [Dec 11, 2022](/content/2022/12/11/README.md)
 
 ### Open Source / Other
 
-*   [Sigma File Manager (⭐3.8k)](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
+*   [Sigma File Manager (⭐5.1k)](https://github.com/aleksey-hoffman/sigma-file-manager) - Modern file manager.
 
 ## [Oct 29, 2022](/content/2022/10/29/README.md)
 
 ### For Electron / Other
 
-*   [pluggable-electron (⭐134)](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
+*   [pluggable-electron (⭐171)](https://github.com/dutchigor/pluggable-electron) - Build apps that can be extended through plugins.
 
 ## [Aug 09, 2022](/content/2022/08/09/README.md)
 
 ### Open Source / Featured
 
-*   [Hyper (⭐43k)](https://github.com/zeit/hyper) - Terminal.
+*   [Hyper (⭐45k)](https://github.com/zeit/hyper) - Terminal.
 
 ### Open Source / Other
 
-*   [Kap (⭐18k)](https://github.com/wulkano/kap) - Screen recorder with GIF support.
+*   [Kap (⭐19k)](https://github.com/wulkano/kap) - Screen recorder with GIF support.
 *   [Beaker (⭐6.8k)](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
 *   [SpaceRadar (⭐1.4k)](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
 
@@ -91,20 +101,20 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Browserosaurus (⭐1.7k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
-*   [linked (⭐866)](https://github.com/lostdesign/linked) - Daily journal.
+*   [Browserosaurus (⭐2k)](https://github.com/will-stone/browserosaurus) - Browser prompter for macOS.
+*   [linked (⭐968)](https://github.com/lostdesign/linked) - Daily journal.
 
 ## [Oct 04, 2021](/content/2021/10/04/README.md)
 
 ### Open Source / Other
 
-*   [VIR (⭐156)](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
+*   [VIR (⭐160)](https://github.com/TommyX12/VIR) - Intelligent time manager with automatic planning.
 
 ## [Jun 30, 2021](/content/2021/06/30/README.md)
 
 ### Open Source / Other
 
-*   [Heroic Games Launcher (⭐7.7k)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
+*   [Heroic Games Launcher (⭐10k)](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) - Alternative Epic games launcher.
 
 ### For Electron / Other
 
@@ -126,13 +136,13 @@ Useful resources for creating apps with Electron
 
 ### Boilerplates / Other
 
-*   [vite-electron-builder (⭐2.3k)](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla.
+*   [vite-electron-builder (⭐2.9k)](https://github.com/cawa-93/vite-electron-builder) - Secure boilerplate for Electron app based on Vite. TypeScript + Vue/React/Angular/Svelte/Vanilla.
 
 ## [Apr 05, 2021](/content/2021/04/05/README.md)
 
 ### Open Source / Other
 
-*   [SpaceEye (⭐327)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
+*   [SpaceEye (⭐344)](https://github.com/KYDronePilot/SpaceEye) - Live satellite imagery for your desktop background.
 
 ## [Mar 17, 2021](/content/2021/03/17/README.md)
 
@@ -144,7 +154,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Yana (⭐253)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
+*   [Yana (⭐284)](https://github.com/lukasbach/yana) - Notebook app with rich-text notes, nested note organization and global search.
 
 ## [Feb 20, 2021](/content/2021/02/20/README.md)
 
@@ -162,7 +172,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Hawkpass (⭐61)](https://github.com/kalpetros/hawkpass) - Password generator.
+*   [Hawkpass (⭐65)](https://github.com/kalpetros/hawkpass) - Password generator.
 
 ## [Nov 20, 2020](/content/2020/11/20/README.md)
 
@@ -186,38 +196,38 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Mouseless (⭐133)](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
-*   [Glyphfinder (⭐132)](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
+*   [Mouseless (⭐142)](https://github.com/ueberdosis/mouseless) - Keyboard shortcut training and look-up.
+*   [Glyphfinder (⭐136)](https://github.com/ueberdosis/glyphfinder) - Unicode character search.
 
 ## [Jun 20, 2020](/content/2020/06/20/README.md)
 
 ### Related / Other
 
-*   [awesome-electronjs-hacking (⭐557)](https://github.com/doyensec/awesome-electronjs-hacking)
+*   [awesome-electronjs-hacking (⭐652)](https://github.com/doyensec/awesome-electronjs-hacking)
 
 ## [May 15, 2020](/content/2020/05/15/README.md)
 
 ### Open Source / Other
 
-*   [Beekeeper Studio (⭐16k)](https://github.com/beekeeper-studio/beekeeper-studio) - Cross-platform SQL editor and database manager.
+*   [Beekeeper Studio (⭐21k)](https://github.com/beekeeper-studio/beekeeper-studio) - Cross-platform SQL editor and database manager.
 
 ## [Apr 26, 2020](/content/2020/04/26/README.md)
 
 ### Open Source / Other
 
-*   [LightProxy (⭐3.1k)](https://github.com/alibaba/lightproxy) - Web debugging proxy.
+*   [LightProxy (⭐3.2k)](https://github.com/alibaba/lightproxy) - Web debugging proxy.
 
 ## [Apr 06, 2020](/content/2020/04/06/README.md)
 
 ### For Electron / Other
 
-*   [RxDB (⭐21k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
+*   [RxDB (⭐23k)](https://github.com/pubkey/rxdb) - A realtime NoSQL database.
 
 ## [Mar 11, 2020](/content/2020/03/11/README.md)
 
 ### Boilerplates / Other
 
-*   [secure-electron-template (⭐1.6k)](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
+*   [secure-electron-template (⭐1.7k)](https://github.com/reZach/secure-electron-template) - Security-focused boilerplate for creating apps with React, Redux, Webpack, and i18next.
 
 ## [Mar 05, 2020](/content/2020/03/05/README.md)
 
@@ -229,26 +239,26 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Gitify (⭐4.4k)](https://github.com/manosim/gitify) - GitHub notifications in your menubar.
+*   [Gitify (⭐5.1k)](https://github.com/manosim/gitify) - GitHub notifications in your menubar.
 
 ### For Electron / Other
 
-*   [electronegativity (⭐945)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
+*   [electronegativity (⭐1k)](https://github.com/doyensec/electronegativity) - Identify misconfigurations and security anti-patterns.
 
 ## [Feb 14, 2020](/content/2020/02/14/README.md)
 
 ### Open Source / Other
 
-*   [MQTTX (⭐3.7k)](https://github.com/emqx/MQTTX) - Client for MQTT, which is a lightweight messaging protocol.
+*   [MQTTX (⭐4.6k)](https://github.com/emqx/MQTTX) - Client for MQTT, which is a lightweight messaging protocol.
 
 ## [Feb 12, 2020](/content/2020/02/12/README.md)
 
 ### Open Source / Other
 
-*   [Pomodoro (⭐326)](https://github.com/G07cha/pomodoro) - Timer based on the Pomodoro Technique.
+*   [Pomodoro (⭐387)](https://github.com/G07cha/pomodoro) - Timer based on the Pomodoro Technique.
 *   [Sia-UI](https://gitlab.com/NebulousLabs/Sia-UI) - Decentralized file storage system based on cryptocurrency technology.
-*   [Sabaki (⭐2.4k)](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
-*   [Swifty (⭐887)](https://github.com/swiftyapp/swifty) - Password manager.
+*   [Sabaki (⭐2.6k)](https://github.com/SabakiHQ/Sabaki) - Go/Baduk/Weiqi board.
+*   [Swifty (⭐943)](https://github.com/swiftyapp/swifty) - Password manager.
 
 ## [Jan 22, 2020](/content/2020/01/22/README.md)
 
@@ -264,7 +274,7 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [electronmon (⭐138)](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
+*   [electronmon (⭐171)](https://github.com/catdad/electronmon) - Monitor and reload apps out-of-process during development.
 
 ### Articles / Other
 
@@ -274,13 +284,13 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [ExifCleaner (⭐1.8k)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
+*   [ExifCleaner (⭐2.3k)](https://github.com/szTheory/exifcleaner) - Clean image metadata with drag and drop.
 
 ## [Jan 02, 2020](/content/2020/01/02/README.md)
 
 ### Open Source / Other
 
-*   [Upcount (⭐350)](https://github.com/madisvain/upcount) - Invoicing.
+*   [Upcount (⭐376)](https://github.com/madisvain/upcount) - Invoicing.
 
 ## [Dec 31, 2019](/content/2019/12/31/README.md)
 
@@ -308,13 +318,13 @@ Useful resources for creating apps with Electron
 
 ### Using Electron / Other
 
-*   [jest-electron (⭐154)](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
+*   [jest-electron (⭐156)](https://github.com/hustcc/jest-electron) - Run and debug Jest unit tests in a browser environment.
 
 ## [Sep 22, 2019](/content/2019/09/22/README.md)
 
 ### Open Source / Other
 
-*   [Gmail Desktop (⭐819)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
+*   [Gmail Desktop (⭐927)](https://github.com/timche/gmail-desktop) - Unofficial Gmail app.
 
 ### Closed Source / Other
 
@@ -322,19 +332,19 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [adblocker-electron (⭐770)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
+*   [adblocker-electron (⭐931)](https://github.com/cliqz-oss/adblocker/tree/master/packages/adblocker-electron) - Block ads and trackers.
 
 ## [Aug 23, 2019](/content/2019/08/23/README.md)
 
 ### Related / Other
 
-*   [awesome-nodejs (⭐57k)](https://github.com/sindresorhus/awesome-nodejs)
+*   [awesome-nodejs (⭐64k)](https://github.com/sindresorhus/awesome-nodejs)
 
 ## [Aug 03, 2019](/content/2019/08/03/README.md)
 
 ### Open Source / Other
 
-*   [Franz (⭐4.5k)](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
+*   [Franz (⭐4.7k)](https://github.com/meetfranz/franz) - Skype, Slack, Hangouts, WhatsApp, Grape, Telegram, FB Messenger, Hipchat in the same app.
 
 ## [Jun 29, 2019](/content/2019/06/29/README.md)
 
@@ -350,44 +360,44 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [trilogy (⭐261)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
+*   [trilogy (⭐264)](https://github.com/citycide/trilogy) - TypeScript SQLite database layer with support for both native C++ and pure JavaScript backends.
 
 ## [Jun 12, 2019](/content/2019/06/12/README.md)
 
 ### For Electron / Other
 
-*   [debugtron (⭐1.3k)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
-*   [electron-chrome-extension (⭐139)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
+*   [debugtron (⭐1.7k)](https://github.com/pd4d10/debugtron) - Debug in-production Electron-based apps.
+*   [electron-chrome-extension (⭐152)](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 
 ## [Jun 10, 2019](/content/2019/06/10/README.md)
 
 ### For Electron / Other
 
-*   [electron-better-ipc (⭐706)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
+*   [electron-better-ipc (⭐741)](https://github.com/sindresorhus/electron-better-ipc) - Simplified IPC communication.
 
 ## [May 30, 2019](/content/2019/05/30/README.md)
 
 ### Open Source / Other
 
-*   [Motrix (⭐45k)](https://github.com/agalwood/Motrix) - Download manager.
+*   [Motrix (⭐50k)](https://github.com/agalwood/Motrix) - Download manager.
 
 ## [May 21, 2019](/content/2019/05/21/README.md)
 
 ### Open Source / Other
 
-*   [Tockler (⭐863)](https://github.com/MayGo/tockler) - Tracks your time.
+*   [Tockler (⭐1k)](https://github.com/MayGo/tockler) - Tracks your time.
 
 ## [Apr 30, 2019](/content/2019/04/30/README.md)
 
 ### Open Source / Other
 
-*   [Unsplash Wallpapers (⭐350)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
+*   [Unsplash Wallpapers (⭐409)](https://github.com/soroushchehresa/unsplash-wallpapers) - Set desktop wallpaper from Unsplash.
 
 ## [Apr 17, 2019](/content/2019/04/17/README.md)
 
 ### Boilerplates / Other
 
-*   [angular-electron (⭐5.6k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
+*   [angular-electron (⭐5.7k)](https://github.com/maximegris/angular-electron) - Fast bootstrapping with Angular, Electron, TypeScript, SASS, and Hot Reload.
 
 ## [Feb 18, 2019](/content/2019/02/18/README.md)
 
@@ -415,7 +425,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Etcher (⭐29k)](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
+*   [Etcher (⭐33k)](https://github.com/resin-io/etcher) - Flash OS images to SD cards and USB drives.
 
 ### Closed Source / Other
 
@@ -425,7 +435,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Netron (⭐27k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
+*   [Netron (⭐32k)](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models.
 
 ### Closed Source / Other
 
@@ -435,13 +445,13 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [run-electron (⭐197)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
+*   [run-electron (⭐203)](https://github.com/sindresorhus/run-electron) - Run Electron without all the junk terminal output.
 
 ## [Aug 08, 2018](/content/2018/08/08/README.md)
 
 ### Open Source / Other
 
-*   [Mark Text (⭐46k)](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
+*   [Mark Text (⭐52k)](https://github.com/marktext/marktext) - Real-time preview Markdown editor.
 
 ### Boilerplates / Other
 
@@ -452,35 +462,35 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Pomotroid (⭐4.2k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
+*   [Pomotroid (⭐4.9k)](https://github.com/Splode/pomotroid) - Pomodoro timer.
 
 ### For Electron / Other
 
-*   [chromium-net-errors (⭐21)](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
+*   [chromium-net-errors (⭐22)](https://github.com/maxkueng/chromium-net-errors) - Chromium's network errors as custom error classes.
 
 ## [Mar 02, 2018](/content/2018/03/02/README.md)
 
 ### For Electron / Other
 
-*   [electron-timber (⭐400)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
+*   [electron-timber (⭐419)](https://github.com/sindresorhus/electron-timber) - Pretty logger.
 
 ## [Feb 11, 2018](/content/2018/02/11/README.md)
 
 ### For Electron / Other
 
-*   [electron-serve (⭐429)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
+*   [electron-serve (⭐472)](https://github.com/sindresorhus/electron-serve) - Static file serving (Useful for routing, like `react-router`).
 
 ## [Feb 04, 2018](/content/2018/02/04/README.md)
 
 ### For Electron / Other
 
-*   [electron-reloader (⭐572)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
+*   [electron-reloader (⭐585)](https://github.com/sindresorhus/electron-reloader) - Simple auto-reloading during development.
 
 ## [Feb 02, 2018](/content/2018/02/02/README.md)
 
 ### Open Source / Other
 
-*   [Nuclear (⭐12k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
+*   [Nuclear (⭐16k)](https://github.com/nukeop/nuclear) - Music player that streams from free sources.
 
 ### Community / Other
 
@@ -490,7 +500,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Headset (⭐782)](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
+*   [Headset (⭐787)](https://github.com/headsetapp/headset-electron) - Discover, collect, and listen to music from YouTube.
 
 ## [Dec 09, 2017](/content/2017/12/09/README.md)
 
@@ -508,7 +518,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Mailspring (⭐15k)](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
+*   [Mailspring (⭐17k)](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 
 ## [Nov 28, 2017](/content/2017/11/28/README.md)
 
@@ -527,7 +537,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Buttercup Desktop (⭐4.3k)](https://github.com/buttercup/buttercup-desktop) - Password manager.
+*   [Buttercup Desktop (⭐4.4k)](https://github.com/buttercup/buttercup-desktop) - Password manager.
 
 ## [Nov 07, 2017](/content/2017/11/07/README.md)
 
@@ -571,7 +581,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Tusk (⭐3.1k)](https://github.com/champloohq/tusk) - Unofficial Evernote app.
+*   [Tusk (⭐3.2k)](https://github.com/champloohq/tusk) - Unofficial Evernote app.
 
 ### Articles / Other
 
@@ -587,19 +597,19 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [electron-unhandled (⭐444)](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
+*   [electron-unhandled (⭐458)](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 
 ## [Jun 15, 2017](/content/2017/06/15/README.md)
 
 ### For Electron / Other
 
-*   [electron-store (⭐4.5k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
+*   [electron-store (⭐4.9k)](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 
 ## [Jun 14, 2017](/content/2017/06/14/README.md)
 
 ### For Electron / Other
 
-*   [got (⭐14k)](https://github.com/sindresorhus/got) - Simplified HTTP requests.
+*   [got (⭐15k)](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 
 ## [Jun 13, 2017](/content/2017/06/13/README.md)
 
@@ -611,7 +621,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Insomnia (⭐34k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
+*   [Insomnia (⭐38k)](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 
 ## [May 19, 2017](/content/2017/05/19/README.md)
 
@@ -639,24 +649,24 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [LosslessCut (⭐25k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
+*   [LosslessCut (⭐35k)](https://github.com/mifi/lossless-cut) - Lossless video trimming & cutting.
 
 ## [Jan 26, 2017](/content/2017/01/26/README.md)
 
 ### Open Source / Other
 
-*   [Cerebro (⭐8.3k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
+*   [Cerebro (⭐8.5k)](https://github.com/KELiON/cerebro) - Launcher with inline previews.
 
 ### Samples / Other
 
 *   [Electron API usage (⭐3.9k)](https://github.com/hokein/electron-sample-apps) - Sample apps illustrating usage of Electron APIs.
-*   [Screen Recorder (⭐410)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
+*   [Screen Recorder (⭐423)](https://github.com/hokein/electron-screen-recorder) - WebRTC screen recorder.
 
 ## [Jan 19, 2017](/content/2017/01/19/README.md)
 
 ### For Electron / Other
 
-*   [elemon (⭐73)](https://github.com/manidlou/elemon) - Live-reload your app during development.
+*   [elemon (⭐76)](https://github.com/manidlou/elemon) - Live-reload your app during development.
 
 ## [Jan 16, 2017](/content/2017/01/16/README.md)
 
@@ -668,7 +678,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Inpad (⭐3.7k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
+*   [Inpad (⭐4k)](https://github.com/sarah-seo/Inpad) - Notes app with GitHub-flavored Markdown.
 
 ## [Jan 05, 2017](/content/2017/01/05/README.md)
 
@@ -680,7 +690,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Stacer (⭐8.8k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
+*   [Stacer (⭐9.2k)](https://github.com/oguzhaninan/Stacer) - Ubuntu system optimizer.
 
 ## [Nov 24, 2016](/content/2016/11/24/README.md)
 
@@ -692,7 +702,7 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [electron-pdf-window (⭐280)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
+*   [electron-pdf-window (⭐289)](https://github.com/gerhardberger/electron-pdf-window) - View PDF files in browser windows.
 
 ## [Nov 18, 2016](/content/2016/11/18/README.md)
 
@@ -704,26 +714,26 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [electron-about-window (⭐410)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
+*   [electron-about-window (⭐420)](https://github.com/rhysd/electron-about-window) - 'About This App' window.
 
 ## [Nov 03, 2016](/content/2016/11/03/README.md)
 
 ### Open Source / Other
 
-*   [Extraterm (⭐2.5k)](https://github.com/sedwards2009/extraterm) - Terminal.
+*   [Extraterm (⭐2.7k)](https://github.com/sedwards2009/extraterm) - Terminal.
 
 ### For Electron / Other
 
 *   [electron-builder (⭐14k)](https://github.com/electron-userland/electron-builder) - Create installers.
-*   [NeDB (⭐13k)](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database.
+*   [NeDB (⭐14k)](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database.
 
 ### Using Electron / Other
 
-*   [electron-mocha (⭐344)](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron.
+*   [electron-mocha (⭐345)](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron.
 
 ### Components / Other
 
-*   [menubar (⭐6.6k)](https://github.com/maxogden/menubar) - Menubar app framework.
+*   [menubar (⭐6.8k)](https://github.com/maxogden/menubar) - Menubar app framework.
 
 ## [Nov 02, 2016](/content/2016/11/02/README.md)
 
@@ -747,7 +757,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [KeeWeb (⭐12k)](https://github.com/keeweb/keeweb) - Unofficial KeePass app.
+*   [KeeWeb (⭐13k)](https://github.com/keeweb/keeweb) - Unofficial KeePass app.
 
 ### Closed Source / Other
 
@@ -801,7 +811,7 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [electron-log (⭐1.3k)](https://github.com/megahertz/electron-log) - Simple logging.
+*   [electron-log (⭐1.4k)](https://github.com/megahertz/electron-log) - Simple logging.
 
 ## [Aug 04, 2016](/content/2016/08/04/README.md)
 
@@ -813,7 +823,7 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [electron-devtools-installer (⭐1.1k)](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
+*   [electron-devtools-installer (⭐1.2k)](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 
 ## [Jul 06, 2016](/content/2016/07/06/README.md)
 
@@ -831,13 +841,13 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Museeks (⭐1.6k)](https://github.com/KeitIG/museeks) - Music player.
+*   [Museeks (⭐2k)](https://github.com/KeitIG/museeks) - Music player.
 
 ## [Jun 19, 2016](/content/2016/06/19/README.md)
 
 ### For Electron / Other
 
-*   [electron-context-menu (⭐1.4k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
+*   [electron-context-menu (⭐1.5k)](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 
 ## [Jun 16, 2016](/content/2016/06/16/README.md)
 
@@ -855,8 +865,8 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [fix-path (⭐274)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
-*   [electron-osx-sign (⭐559)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
+*   [fix-path (⭐289)](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
+*   [electron-osx-sign (⭐605)](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
 
 ### Components / Other
 
@@ -871,19 +881,19 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Crypter (⭐455)](https://github.com/HR/Crypter) - Secure encryption client.
+*   [Crypter (⭐464)](https://github.com/HR/Crypter) - Secure encryption client.
 
 ## [May 23, 2016](/content/2016/05/23/README.md)
 
 ### Boilerplates / Other
 
-*   [bozon (⭐759)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
+*   [bozon (⭐758)](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 
 ## [May 20, 2016](/content/2016/05/20/README.md)
 
 ### Open Source / Other
 
-*   [Mattermost (⭐2k)](https://github.com/mattermost/desktop) - Mattermost client.
+*   [Mattermost (⭐2.2k)](https://github.com/mattermost/desktop) - Mattermost client.
 
 ### Boilerplates / Other
 
@@ -893,7 +903,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Featured
 
-*   [Min (⭐7.8k)](https://github.com/minbrowser/min) - Minimal web browser.
+*   [Min (⭐8.8k)](https://github.com/minbrowser/min) - Minimal web browser.
 
 ## [May 12, 2016](/content/2016/05/12/README.md)
 
@@ -915,7 +925,7 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [electron-rebuild (⭐1k)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
+*   [electron-rebuild (⭐1.1k)](https://github.com/electron/electron-rebuild) - Rebuild native Node.js modules against the currently installed Electron version.
 
 ## [May 01, 2016](/content/2016/05/01/README.md)
 
@@ -927,19 +937,19 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Featured
 
-*   [WebTorrent (⭐9.6k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-*   [Visual Studio Code (⭐161k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+*   [WebTorrent (⭐10k)](https://github.com/feross/webtorrent-app) - Streaming torrent client.
+*   [Visual Studio Code (⭐179k)](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 
 ### Open Source / Other
 
-*   [Git-it (⭐4.6k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
-*   [Caprine (⭐7k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
-*   [Simplenote (⭐4.7k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
+*   [Git-it (⭐4.8k)](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
+*   [Caprine (⭐7.2k)](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
+*   [Simplenote (⭐5.1k)](https://github.com/Automattic/simplenote-electron) - Note keeper.
 *   [Abricotine (⭐2.6k)](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 *   [Medis (⭐12k)](https://github.com/luin/medis) - Redis database management.
 *   [SmartMirror (⭐2.8k)](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
-*   [Google Play Music Desktop Player (⭐8.3k)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
-*   [Ansel (⭐415)](https://github.com/m0g/ansel) - Image organizer.
+*   [Google Play Music Desktop Player (⭐8.2k)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
+*   [Ansel (⭐440)](https://github.com/m0g/ansel) - Image organizer.
 
 ### Closed Source / Other
 
@@ -949,21 +959,21 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [electron-is-dev (⭐425)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
-*   [electron-localshortcut (⭐417)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
-*   [electron-dl (⭐1.1k)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
-*   [electron-release-server (⭐2.1k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
-*   [electron-download (⭐336)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
-*   [ember-electron (⭐806)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
+*   [electron-is-dev (⭐437)](https://github.com/sindresorhus/electron-is-dev) - Check if Electron is running in development.
+*   [electron-localshortcut (⭐424)](https://github.com/parro-it/electron-localshortcut) - Add keyboard shortcuts locally to a window.
+*   [electron-dl (⭐1.2k)](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
+*   [electron-release-server (⭐2.2k)](https://github.com/ArekSredzki/electron-release-server) - Self-hosted release server with front-end & auto-updater support.
+*   [electron-download (⭐360)](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
+*   [ember-electron (⭐803)](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 
 ### Using Electron / Other
 
 *   [nativefier (⭐35k)](https://github.com/jiahaog/nativefier) - Create an app of any website.
-*   [electron-pdf (⭐1.2k)](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
+*   [electron-pdf (⭐1.3k)](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
 
 ### Components / Other
 
-*   [chrome-tabs (⭐1.7k)](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
+*   [chrome-tabs (⭐1.8k)](https://github.com/adamschwartz/chrome-tabs) - Chrome like tabs.
 
 ## [Apr 18, 2016](/content/2016/04/18/README.md)
 
@@ -975,7 +985,7 @@ Useful resources for creating apps with Electron
 
 ### Using Electron / Other
 
-*   [electron-stream (⭐127)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
+*   [electron-stream (⭐129)](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 
 ## [Mar 29, 2016](/content/2016/03/29/README.md)
 
@@ -987,7 +997,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Before Dawn (⭐191)](https://github.com/muffinista/before-dawn) - Screensaver tool.
+*   [Before Dawn (⭐208)](https://github.com/muffinista/before-dawn) - Screensaver tool.
 
 ## [Mar 09, 2016](/content/2016/03/09/README.md)
 
@@ -997,21 +1007,21 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [electron-installer-debian (⭐373)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
-*   [electron-installer-redhat (⭐80)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
-*   [electron-installer-windows (⭐465)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
+*   [electron-installer-debian (⭐386)](https://github.com/unindented/electron-installer-debian) - Create a Debian package.
+*   [electron-installer-redhat (⭐83)](https://github.com/unindented/electron-installer-redhat) - Create a Red Hat package.
+*   [electron-installer-windows (⭐470)](https://github.com/unindented/electron-installer-windows) - Create a Windows package.
 
 ## [Feb 29, 2016](/content/2016/02/29/README.md)
 
 ### For Electron / Other
 
-*   [electron-packager (⭐139)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
+*   [electron-packager (⭐268)](https://github.com/electron-userland/electron-packager) - Package and distribute your app.
 
 ## [Jan 29, 2016](/content/2016/01/29/README.md)
 
 ### Open Source / Other
 
-*   [Proton (⭐161)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+*   [Proton (⭐167)](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 
 ## [Jan 07, 2016](/content/2016/01/07/README.md)
 
@@ -1030,7 +1040,7 @@ Useful resources for creating apps with Electron
 
 ### Boilerplates / Other
 
-*   [electron-react-boilerplate (⭐23k)](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
+*   [electron-react-boilerplate (⭐24k)](https://github.com/chentsulin/electron-react-boilerplate) - Boilerplate based on React and webpack.
 
 ### Videos / Other
 
@@ -1046,7 +1056,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Sqlectron (⭐4.5k)](https://github.com/sqlectron/sqlectron-gui) - SQL client.
+*   [Sqlectron (⭐4.7k)](https://github.com/sqlectron/sqlectron-gui) - SQL client.
 
 ## [Nov 28, 2015](/content/2015/11/28/README.md)
 
@@ -1064,7 +1074,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [MarkRight (⭐915)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
+*   [MarkRight (⭐912)](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 
 ## [Oct 14, 2015](/content/2015/10/14/README.md)
 
@@ -1094,7 +1104,7 @@ Useful resources for creating apps with Electron
 
 ### Open Source / Other
 
-*   [Loop Drop (⭐825)](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
+*   [Loop Drop (⭐829)](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
 
 ## [Jun 23, 2015](/content/2015/06/23/README.md)
 
@@ -1110,13 +1120,13 @@ Useful resources for creating apps with Electron
 
 ### For Electron / Other
 
-*   [electron-debug (⭐739)](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
+*   [electron-debug (⭐773)](https://github.com/sindresorhus/electron-debug) - Adds useful debug features.
 
 ## [May 24, 2015](/content/2015/05/24/README.md)
 
 ### Open Source / Other
 
-*   [Leanote (⭐1.5k)](https://github.com/leanote/desktop-app) - Cloud notepad.
+*   [Leanote (⭐1.6k)](https://github.com/leanote/desktop-app) - Cloud notepad.
 
 ## [May 08, 2015](/content/2015/05/08/README.md)
 
@@ -1139,4 +1149,4 @@ Useful resources for creating apps with Electron
 
 ### Boilerplates / Other
 
-*   [generator-electron (⭐718)](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
+*   [generator-electron (⭐717)](https://github.com/sindresorhus/generator-electron) - Scaffold out an app boilerplate.
