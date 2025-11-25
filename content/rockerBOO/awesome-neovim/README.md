@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [QuentinGruber/pomodoro.nvim (⭐44)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 
+### Git / Quickfix
+
+*   [esmuellert/vscode-diff.nvim (⭐240)](https://github.com/esmuellert/vscode-diff.nvim) - VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Utility / Cursorline
@@ -107,11 +111,11 @@ Collections of awesome neovim plugins.
 
 ### Language / Assembly
 
-*   [bennorichters/taal.nvim (⭐0)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
+*   [bennorichters/taal.nvim (⭐16)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
 
 ### Utility / Cursorline
 
-*   [gisketch/triforce.nvim (⭐88)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+*   [gisketch/triforce.nvim (⭐185)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 
 ## [Nov 09, 2025](/content/2025/11/09/README.md)
 

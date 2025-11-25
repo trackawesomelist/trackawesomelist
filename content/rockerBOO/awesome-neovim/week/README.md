@@ -13,6 +13,10 @@ Collections of awesome neovim plugins.
 *   [mcauley-penney/visual-whitespace.nvim (⭐396)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
 *   [QuentinGruber/pomodoro.nvim (⭐44)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 
+### Git / Quickfix
+
+*   [esmuellert/vscode-diff.nvim (⭐240)](https://github.com/esmuellert/vscode-diff.nvim) - VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
+
 ## [Nov 24 - Nov 30, 2025](/content/2025/47/README.md)
 
 ### Syntax / Assembly
@@ -54,7 +58,7 @@ Collections of awesome neovim plugins.
 
 ### Language / Assembly
 
-*   [bennorichters/taal.nvim (⭐0)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
+*   [bennorichters/taal.nvim (⭐16)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
 
 ### Syntax / Assembly
 
@@ -62,7 +66,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [gisketch/triforce.nvim (⭐88)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+*   [gisketch/triforce.nvim (⭐185)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 *   [gruvw/strudel.nvim (⭐162)](https://github.com/gruvw/strudel.nvim) - Live coding controller for [strudel](https://strudel.cc).
 
 ### Git / GitHub

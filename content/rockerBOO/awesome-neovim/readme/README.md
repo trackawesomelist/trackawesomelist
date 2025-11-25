@@ -421,7 +421,7 @@ Collections of awesome neovim plugins.
 *   [sontungexpt/vietnamese.nvim (⭐10)](https://github.com/sontungexpt/vietnamese.nvim) - A Vietnamese input method engine with native support to type Vietnamese in insert mode.
 *   [doodleEsc/translator.nvim (⭐5)](https://github.com/doodleEsc/translator.nvim) - A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding.
 *   [kiyoon/Korean-IME.nvim (⭐28)](https://github.com/kiyoon/Korean-IME.nvim) - OS-independent Korean input method that converts English inputs to Korean in-place.
-*   [bennorichters/taal.nvim (⭐0)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
+*   [bennorichters/taal.nvim (⭐16)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
 
 <!--lint disable double-link -->
 
@@ -978,7 +978,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 ## Utility
 
 *   [necrom4/convy.nvim (⭐13)](https://github.com/necrom4/convy.nvim) - Easily convert strings between various formats.
-*   [gisketch/triforce.nvim (⭐88)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+*   [gisketch/triforce.nvim (⭐185)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 *   [gaborvecsei/usage-tracker.nvim (⭐130)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
 *   [mateuszwieloch/automkdir.nvim (⭐28)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
 *   [jghauser/mkdir.nvim (⭐233)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
@@ -1343,6 +1343,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [404pilo/aicommits.nvim (⭐10)](https://github.com/404pilo/aicommits.nvim) - Generate conventional commit messages using AI.
 *   [wsdjeg/git.nvim (⭐7)](https://github.com/wsdjeg/git.nvim) - An asynchronous git command wrapper plugin, using `:Git` command instead of `:!git`.
 *   [Mauritz8/gitstatus.nvim (⭐9)](https://github.com/Mauritz8/gitstatus.nvim) - Interactive Git status window with support for staging, unstaging, and committing files.
+*   [esmuellert/vscode-diff.nvim (⭐240)](https://github.com/esmuellert/vscode-diff.nvim) - VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
 
 ### GitHub
 

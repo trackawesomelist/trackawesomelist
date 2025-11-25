@@ -102,6 +102,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Screenshot APIs
 
 *   [screenshotbase.com](https://screenshotbase.com) - 300 free screenshots / month. Take screenshots from any url. Fast, free & scalable.
+*   [thumbnail.ws](https://thumbnail.ws) — API for generating thumbnails of websites. Free 1,000 requests/month.
 
 ### Miscellaneous
 
@@ -2910,12 +2911,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Analytics, Events and Statistics
 
 *   [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month. Also provides unlinited in-App Surveys with 250/month responses.
-
-## [Jan 10 - Jan 16, 2022](/content/2022/2/README.md)
-
-### Tools for Teams and Collaboration
-
-*   [PageShare.dev](https://www.pageshare.dev) - Adds visual review capabilities into GitHub Pull Requests with no need to deploy websites. Free for up to 10 pages each month and 100MB of storage in total.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 

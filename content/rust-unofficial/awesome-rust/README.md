@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Nov 25, 2025](/content/2025/11/25/README.md)
+
+### Applications / Database
+
+*   [Curvine (⭐430)](https://github.com/CurvineIO/curvine) - Curvine is a high-performance, concurrent distributed cache system written in Rust, designed for low-latency and high-throughput workloads in AI,Bigdata etc.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Applications

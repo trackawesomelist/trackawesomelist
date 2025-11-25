@@ -22,6 +22,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Database
 
+*   [Curvine (⭐430)](https://github.com/CurvineIO/curvine) - Curvine is a high-performance, concurrent distributed cache system written in Rust, designed for low-latency and high-throughput workloads in AI,Bigdata etc.
 *   [dsplce-co/supabase-plus (⭐58)](https://github.com/dsplce-co/supabase-plus) \[[supabase-plus](https://crates.io/crates/supabase-plus)] - A batteries-included command-line utility that extends the official Supabase CLI [![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/dsplce-co/supabase-plus/publish.yml)
     ](https://github.com/dsplce-co/supabase-plus/actions/workflows/publish.yml)
 *   [RustFS (⭐12k)](https://github.com/rustfs/rustfs) \[[RustFS](https://crates.io/crates/rustfs)] - 🚀 RustFS is an open-source,S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.  [![status-badge](https://github.com/rustfs/rustfs/actions/workflows/ci.yml/badge.svg)](https://github.com/rustfs/rustfs)

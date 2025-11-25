@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 25, 2025](/content/2025/11/25/README.md)
+
+### Screenshot APIs
+
+*   [thumbnail.ws](https://thumbnail.ws) — API for generating thumbnails of websites. Free 1,000 requests/month.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### APIs, Data, and ML
@@ -3533,12 +3539,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Analytics, Events and Statistics
 
 *   [PostHog](https://posthog.com) - Full Product Analytics suite free for up to 1m tracked events per month. Also provides unlinited in-App Surveys with 250/month responses.
-
-## [Jan 14, 2022](/content/2022/01/14/README.md)
-
-### Tools for Teams and Collaboration
-
-*   [PageShare.dev](https://www.pageshare.dev) - Adds visual review capabilities into GitHub Pull Requests with no need to deploy websites. Free for up to 10 pages each month and 100MB of storage in total.
 
 ## [Jan 02, 2022](/content/2022/01/02/README.md)
 
