@@ -380,7 +380,7 @@ Collections of awesome neovim plugins.
 *   [OXY2DEV/markdoc.nvim (⭐47)](https://github.com/OXY2DEV/markdoc.nvim) - Tree-sitter based `markdown -> vimdoc` converter.
 *   [YousefHadder/markdown-plus.nvim (⭐67)](https://github.com/YousefHadder/markdown-plus.nvim) - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
 *   [Myzel394/easytables.nvim (⭐129)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit Markdown tables with a live preview and useful helpers.
-*   [tttol/md-outline.nvim (⭐3)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
+*   [tttol/md-outline.nvim (⭐4)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 
 ### PHP
 
@@ -643,6 +643,7 @@ Collections of awesome neovim plugins.
 *   [xzbdmw/colorful-menu.nvim (⭐420)](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 *   [nvzone/minty (⭐559)](https://github.com/nvzone/minty) - Beautifully crafted color tools.
 *   [3ZsForInsomnia/pacer.nvim (⭐2)](https://github.com/3ZsForInsomnia/pacer.nvim) - Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster.
+*   [wsdjeg/cpicker.nvim (⭐6)](https://github.com/wsdjeg/cpicker.nvim) - A lightweight color palette plugin that supports a wide range of color models.
 
 <!--lint disable double-link -->
 

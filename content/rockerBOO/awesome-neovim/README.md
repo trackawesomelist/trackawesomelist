@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 26, 2025](/content/2025/11/26/README.md)
+
+### Color / Assembly
+
+*   [wsdjeg/cpicker.nvim (⭐6)](https://github.com/wsdjeg/cpicker.nvim) - A lightweight color palette plugin that supports a wide range of color models.
+
 ## [Nov 25, 2025](/content/2025/11/25/README.md)
 
 ### Utility / Cursorline
@@ -105,7 +111,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [tttol/md-outline.nvim (⭐3)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
+*   [tttol/md-outline.nvim (⭐4)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 
 ## [Nov 10, 2025](/content/2025/11/10/README.md)
 

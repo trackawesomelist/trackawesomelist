@@ -62,6 +62,8 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 ### Generative AI
 
+*   [Arize AX](https://arize.com) - AI engineering platform that helps AI eng/PMs, evaluate, and observe AI applications and agents with built-in Alyx agent. Free product inlcudes 25k spans and ingestion volume of 1gb per month.
+*   [Phoenix (⭐7.8k)](https://github.com/Arize-ai/phoenix) - Open source platform for tracing, model evaluators, experiments for AI agents from the team at Arize AI. All features open source under elastic License 2.0 (ELv2).
 *   [Mediaworkbench.ai](https://mediaworkbench.ai) - MediaWorkbench.ai offers 100,000 free words for Azure OpenAI, DeepSeek, and Google Gemini models, enabling users to access powerful tools for code generation, deep research, and image creation.
 *   [Audio Enhancer](https://voice-clone.org/tools/audio-enhancer) — AI-powered audio enhancer SaaS that removes noise and echo while preserving natural vocal clarity. totally Free: unlimited one-click enhancements, no login required, supports MP3/WAV/FLAC
 

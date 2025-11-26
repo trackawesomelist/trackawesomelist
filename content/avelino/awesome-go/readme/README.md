@@ -247,7 +247,7 @@ Please take a quick gander at the [contribution guidelines (⭐158k)](https://gi
 
 *Libraries for manipulating audio.*
 
-*   [beep (⭐2.2k)](https://github.com/faiface/beep) - A simple library for playback and audio manipulation.
+*   [beep (⭐476)](https://github.com/gopxl/beep) - A simple library for playback and audio manipulation.
 *   [flac (⭐346)](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
 *   [gaad (⭐135)](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
 *   [go-mpris (⭐19)](https://github.com/leberKleber/go-mpris) - Client for mpris dbus interfaces.

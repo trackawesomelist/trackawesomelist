@@ -14,7 +14,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Audio and Music
 
-*   [beep (⭐2.2k)](https://github.com/faiface/beep) - A simple library for playback and audio manipulation.
+*   [beep (⭐476)](https://github.com/gopxl/beep) - A simple library for playback and audio manipulation.
 *   [go-mpris (⭐19)](https://github.com/leberKleber/go-mpris) - Client for mpris dbus interfaces.
 *   [play (⭐505)](https://github.com/paololazzari/play) - Command-line audio player that supports multiple formats including WAV, MP3, OGG, and FLAC.
 

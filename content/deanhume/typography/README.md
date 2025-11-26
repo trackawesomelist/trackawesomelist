@@ -2,9 +2,30 @@
 
 A collection of web typography resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/deanhume/typography/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 deanhume/typography](https://github.com/deanhume/typography) · ⭐ 526 · 🏷️ Front-End Development
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/deanhume/typography/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 deanhume/typography](https://github.com/deanhume/typography) · ⭐ 683 · 🏷️ Front-End Development
 
 [ Daily / [Weekly](/content/deanhume/typography/week/README.md) / [Overview](/content/deanhume/typography/readme/README.md) ]
+
+## [Nov 26, 2025](/content/2025/11/26/README.md)
+
+### Articles
+
+*   [93 most popular premium fonts alternative google fonts](https://designtheway.com/most-used-fonts-alternative-google-fonts/)
+
+### Web Fonts & Web Performance
+
+*   [Font Aliasing, or How to Rename a Font in CSS](https://www.zachleat.com/web/rename-font/)
+*   [Loading Web Fonts Asynchronously](http://calendar.perfplanet.com/2016/loading-web-fonts-asynchronously/)
+*   [A Collection of Web Font Loading Recipes](https://www.zachleat.com/web/recipes/)
+*   [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](http://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
+*   [Performance and Web Typography](https://www.youtube.com/watch?v=emLfXChvVPQ)
+
+### Tools
+
+*   [Typographist — Modular scale calculator API with config validation](https://github.com/typographist)
+*   [Font Face Observer is a fast and simple web font loader](https://fontfaceobserver.com/)
+*   [MixFont A Modern Font Generator](https://www.mixfont.com/)
+*   [How to use custom fonts in emails (⭐132)](https://github.com/forwardemail/custom-fonts-in-emails)
 
 ## [Jul 30, 2018](/content/2018/07/30/README.md)
 
@@ -21,7 +42,6 @@ A collection of web typography resources
 *   [Choosing web fonts: 15 expert tips](https://www.creativebloq.com/web-design/choose-web-fonts-1233034)
 *   [Animated Typographic Cheat Sheet](https://www.supremo.co.uk/typeterms/)
 *   [Font-size: An Unexpectedly Complex CSS Property](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
-    \-[93 most popular premium fonts alternative google fonts](https://designtheway.com/most-used-fonts-alternative-google-fonts/)
 
 ### Web Fonts & Web Performance
 
@@ -29,7 +49,7 @@ A collection of web typography resources
 
 ### Tools
 
-*   [Using Custom Fonts in Emails (⭐102)](https://github.com/ladjs/custom-fonts-in-emails)
+*   [Using Custom Fonts in Emails (⭐132)](https://github.com/ladjs/custom-fonts-in-emails)
 
 ### Books
 
@@ -196,7 +216,7 @@ A collection of web typography resources
 
 ### Tools
 
-*   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. (⭐798)](https://github.com/kennethormandy/normalize-opentype.css)
+*   [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css. (⭐792)](https://github.com/kennethormandy/normalize-opentype.css)
 *   [Type­set.js - A typographic pre-processor for your html which uses zero client-side JavaScript](https://blot.im/typeset/)
 
 ## [Jul 21, 2015](/content/2015/07/21/README.md)
@@ -244,7 +264,7 @@ A collection of web typography resources
 
 ### Tools
 
-*   [A simple plugin to keep font-size in proportion with it's containers size (⭐39)](https://github.com/jkroso/flowtype)
+*   [A simple plugin to keep font-size in proportion with it's containers size (⭐42)](https://github.com/jkroso/flowtype)
 
 ## [Nov 19, 2014](/content/2014/11/19/README.md)
 

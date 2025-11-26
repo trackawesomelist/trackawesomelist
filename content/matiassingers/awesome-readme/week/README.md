@@ -14,6 +14,7 @@ A curated list of awesome READMEs
 
 ### Tools
 
+*   [GitHub PR Stats (⭐8)](https://github.com/f14XuanLv/github-pr-stats#readme) - Dynamic SVG tables displaying your GitHub pull requests with dual modes: detailed PR list and repository aggregate statistics. Features status filtering, star-based sorting, and customizable fields.
 *   [GPRM (⭐894)](https://github.com/VishwaGauravIn/github-profile-readme-maker) - A tool to generate a customized GitHub Profile README with a modern UI.
 *   [README Typing SVG (⭐7.9k)](https://github.com/DenverCoder1/readme-typing-svg) - Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Perfect for profile READMEs.
 

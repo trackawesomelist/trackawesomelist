@@ -6,6 +6,12 @@ A curated list of awesome READMEs
 
 [ Daily / [Weekly](/content/matiassingers/awesome-readme/week/README.md) / [Overview](/content/matiassingers/awesome-readme/readme/README.md) ]
 
+## [Nov 26, 2025](/content/2025/11/26/README.md)
+
+### Tools
+
+*   [GitHub PR Stats (⭐8)](https://github.com/f14XuanLv/github-pr-stats#readme) - Dynamic SVG tables displaying your GitHub pull requests with dual modes: detailed PR list and repository aggregate statistics. Features status filtering, star-based sorting, and customizable fields.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Examples

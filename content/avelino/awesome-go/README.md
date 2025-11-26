@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ Daily / [Weekly](/content/avelino/awesome-go/week/README.md) / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Nov 26, 2025](/content/2025/11/26/README.md)
+
+### Audio and Music
+
+*   [beep (⭐476)](https://github.com/gopxl/beep) - A simple library for playback and audio manipulation.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Actor Model
@@ -14,7 +20,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Audio and Music
 
-*   [beep (⭐2.2k)](https://github.com/faiface/beep) - A simple library for playback and audio manipulation.
 *   [go-mpris (⭐19)](https://github.com/leberKleber/go-mpris) - Client for mpris dbus interfaces.
 *   [play (⭐505)](https://github.com/paololazzari/play) - Command-line audio player that supports multiple formats including WAV, MP3, OGG, and FLAC.
 

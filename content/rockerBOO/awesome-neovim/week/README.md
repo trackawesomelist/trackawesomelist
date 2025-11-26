@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
+### Color / Assembly
+
+*   [wsdjeg/cpicker.nvim (⭐6)](https://github.com/wsdjeg/cpicker.nvim) - A lightweight color palette plugin that supports a wide range of color models.
+
 ### Utility / Cursorline
 
 *   [mcauley-penney/visual-whitespace.nvim (⭐396)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
@@ -54,7 +58,7 @@ Collections of awesome neovim plugins.
 ### Programming Languages Support / Markdown and LaTeX
 
 *   [Zeioth/markmap.nvim (⭐206)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
-*   [tttol/md-outline.nvim (⭐3)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
+*   [tttol/md-outline.nvim (⭐4)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 
 ### Language / Assembly
 

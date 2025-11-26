@@ -6,6 +6,13 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 26, 2025](/content/2025/11/26/README.md)
+
+### Generative AI
+
+*   [Arize AX](https://arize.com) - AI engineering platform that helps AI eng/PMs, evaluate, and observe AI applications and agents with built-in Alyx agent. Free product inlcudes 25k spans and ingestion volume of 1gb per month.
+*   [Phoenix (⭐7.8k)](https://github.com/Arize-ai/phoenix) - Open source platform for tracing, model evaluators, experiments for AI agents from the team at Arize AI. All features open source under elastic License 2.0 (ELv2).
+
 ## [Nov 25, 2025](/content/2025/11/25/README.md)
 
 ### Screenshot APIs
