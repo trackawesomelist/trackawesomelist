@@ -6,6 +6,12 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 [ Daily / [Weekly](/content/fffaraz/awesome-cpp/week/README.md) / [Overview](/content/fffaraz/awesome-cpp/readme/README.md) ]
 
+## [Nov 26, 2025](/content/2025/11/26/README.md)
+
+### Websites
+
+*   [CompileBytes C++ Compiler](https://www.compilebytes.com/tools/cpp) – Online C++ compiler and interactive code execution environment.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### CLI

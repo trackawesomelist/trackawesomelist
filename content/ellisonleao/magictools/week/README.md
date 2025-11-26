@@ -19,6 +19,7 @@
 
 ### Engines and Frameworks / Voxel Editors
 
+*   :free: :tada: [Folded Paper Engine (⭐2)](https://github.com/papercraftgames/folded-paper-engine) – Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds of stuff.
 *   :tada: [Forge](https://forgeleaf.com/forge) - Powerful and lightweight game framework for Go.
 
 ### AI / Voxel Editors

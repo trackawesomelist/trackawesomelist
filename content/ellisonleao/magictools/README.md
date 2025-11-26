@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/ellisonleao/magictools/week/README.md) / [Overview](/content/ellisonleao/magictools/readme/README.md) ]
 
+## [Nov 26, 2025](/content/2025/11/26/README.md)
+
+### Engines and Frameworks / Voxel Editors
+
+*   :free: :tada: [Folded Paper Engine (⭐2)](https://github.com/papercraftgames/folded-paper-engine) – Blender to Godot game mechanics engine/plug-ins. Just a few clicks. Super easy. Featuring: 2.5D/first-person/third-person controls, trigger commands/events, inventory, holdable items and all kinds of stuff.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Graphics / Bitmap Compression

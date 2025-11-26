@@ -12,6 +12,10 @@ Curated list of LaTeX awesomeness
 
 *   [OneCite (⭐43)](https://github.com/HzaCode/OneCite) - Universal citation management and academic reference toolkit that converts messy references into perfectly formatted citations. Supports DOI, arXiv ID, titles, and more, with output in BibTeX, APA, and MLA formats. ![mac](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/apple.svg) ![windows](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg) ![linux](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/linux.svg) ![foss](https://cdn.jsdelivr.net/gh/egeerardyn/awesome-LaTeX@700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg)
 
+### Tools centered around equations
+
+*   [LaTeX to Image](https://thomasahle.com/latex2png/) - Convert LaTeX to PNG, JPEG, or SVG images. Big symbols menu and easy drag-and-drop equations.
+
 ## [Jul 21 - Jul 27, 2025](/content/2025/29/README.md)
 
 ### Online editors

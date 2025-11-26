@@ -6,6 +6,12 @@ Curated list of LaTeX awesomeness
 
 [ Daily / [Weekly](/content/egeerardyn/awesome-LaTeX/week/README.md) / [Overview](/content/egeerardyn/awesome-LaTeX/readme/README.md) ]
 
+## [Nov 26, 2025](/content/2025/11/26/README.md)
+
+### Tools centered around equations
+
+*   [LaTeX to Image](https://thomasahle.com/latex2png/) - Convert LaTeX to PNG, JPEG, or SVG images. Big symbols menu and easy drag-and-drop equations.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Bibliography tools

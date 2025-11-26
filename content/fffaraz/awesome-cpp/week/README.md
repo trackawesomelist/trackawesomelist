@@ -66,6 +66,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 ### Websites
 
 *   [cppstat](https://cppstat.dev) - A site that lists C++ features and their support by compilers and standard library implementations in an accessible way.
+*   [CompileBytes C++ Compiler](https://www.compilebytes.com/tools/cpp) – Online C++ compiler and interactive code execution environment.
 
 ## [Aug 04 - Aug 10, 2025](/content/2025/31/README.md)
 

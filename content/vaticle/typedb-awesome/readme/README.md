@@ -2,7 +2,7 @@
 
 A curated list of awesome TypeDB frameworks libraries, software and resources.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/vaticle/typedb-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vaticle/typedb-awesome](https://github.com/typedb/typedb-awesome) · ⭐ 64 · 🏷️ Databases
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/vaticle/typedb-awesome/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 vaticle/typedb-awesome](https://github.com/typedb/typedb-awesome) · ⭐ 72 · 🏷️ Databases
 
 [ [Daily](/content/vaticle/typedb-awesome/README.md) / [Weekly](/content/vaticle/typedb-awesome/week/README.md) / Overview ]
 
@@ -45,6 +45,7 @@ Want to contribute to the list? Let us know on [Discord](https://typedb.com/disc
     data in one single place.
 *   [`Source++`](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 *   [`Rasa`](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
+*   [`TypeBridge`](https://github.com/ds1sqe/type-bridge) - A modern, Pythonic ORM for TypeDB with an Attribute-based API that aligns with TypeDB's type system.
 
 ## Conferences
 
