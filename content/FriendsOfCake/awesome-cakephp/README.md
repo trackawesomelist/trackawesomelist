@@ -6,6 +6,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [Nov 27, 2025](/content/2025/11/27/README.md)
+
+### AI Tools
+
+*   [Synapse plugin (⭐2)](https://github.com/josbeir/cakephp-synapse) - Expose your application functionality via MCP, with built-in tools and documentation search to help you discover and interact with your app's capabilities.
+
 ## [Nov 22, 2025](/content/2025/11/22/README.md)
 
 ### Auditing / Logging

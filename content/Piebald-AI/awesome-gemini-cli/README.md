@@ -6,6 +6,12 @@ A curated list of awesome tools, extensions, and resources for Gemini CLI.
 
 [ Daily / [Weekly](/content/Piebald-AI/awesome-gemini-cli/week/README.md) / [Overview](/content/Piebald-AI/awesome-gemini-cli/readme/README.md) ]
 
+## [Nov 27, 2025](/content/2025/11/27/README.md)
+
+### Development Tools & Utilities
+
+*   [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
+
 ## [Nov 06, 2025](/content/2025/11/06/README.md)
 
 ### Official

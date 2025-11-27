@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [wsdjeg/cpicker.nvim (⭐6)](https://github.com/wsdjeg/cpicker.nvim) - A lightweight color palette plugin that supports a wide range of color models.
 
+### Media / Cursorline
+
+*   [melMass/echo.nvim (⭐8)](https://github.com/melMass/echo.nvim) - Seamless sound integration for your editing workflow.
+
 ### Utility / Cursorline
 
 *   [mcauley-penney/visual-whitespace.nvim (⭐396)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
@@ -20,6 +24,10 @@ Collections of awesome neovim plugins.
 ### Git / Quickfix
 
 *   [esmuellert/vscode-diff.nvim (⭐240)](https://github.com/esmuellert/vscode-diff.nvim) - VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
+
+### Game / Tmux
+
+*   [piersolenski/skifree.nvim (⭐3)](https://github.com/piersolenski/skifree.nvim) - Play the Windows 3.1 SkiFree game.
 
 ## [Nov 24 - Nov 30, 2025](/content/2025/47/README.md)
 
@@ -380,7 +388,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [3ZsForInsomnia/vs-code-companion (⭐5)](https://github.com/3ZsForInsomnia/vs-code-companion) - Tool for importing VS Code's Markdown prompts into CodeCompanion.
+*   [3ZsForInsomnia/vs-code-companion (⭐5)](https://github.com/3ZsForInsomnia/vs-code-companion) - Tool for importing VSCode's Markdown prompts into CodeCompanion.
 *   [3ZsForInsomnia/token-count.nvim (⭐6)](https://github.com/3ZsForInsomnia/token-count.nvim) - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 
 ### Programming Languages Support / Diagnostics
@@ -808,7 +816,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
-*   [datsfilipe/vesper.nvim (⭐185)](https://github.com/datsfilipe/vesper.nvim) - It's a port of the popular VS Code theme Vesper, written in Lua.
+*   [datsfilipe/vesper.nvim (⭐185)](https://github.com/datsfilipe/vesper.nvim) - It's a port of the popular VSCode theme Vesper, written in Lua.
 *   [ntk148v/slack.nvim (⭐5)](https://github.com/ntk148v/slack.nvim) - A ported Slack colorscheme.
 
 ### Media / Cursorline
@@ -2498,7 +2506,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
-*   [askfiy/visual\_studio\_code (⭐209)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores vscode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using vscode.
+*   [askfiy/visual\_studio\_code (⭐209)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores VSCode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using VSCode.
 *   [Verf/deepwhite.nvim (⭐142)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐185)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.4k)](https://github.com/rougier/elegant-emacs).
 
 ### Formatting / Comment
@@ -2625,7 +2633,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Colorscheme Switchers
 
-*   [zaldih/themery.nvim (⭐335)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in vscode.
+*   [zaldih/themery.nvim (⭐335)](https://github.com/zaldih/themery.nvim) - A new way to change the colorscheme on the fly like in VSCode.
 
 ### Utility / Cursorline
 
@@ -3151,7 +3159,7 @@ Collections of awesome neovim plugins.
 
 ### Bars and Lines / Colorscheme Switchers
 
-*   [utilyre/barbecue.nvim (⭐882)](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar.
+*   [utilyre/barbecue.nvim (⭐882)](https://github.com/utilyre/barbecue.nvim) - A VSCode like winbar.
 
 ### Editing Support / Scrollbar
 
@@ -3376,7 +3384,7 @@ Collections of awesome neovim plugins.
 *   [is0n/jaq-nvim (⭐178)](https://github.com/is0n/jaq-nvim) - Just Another Quickrun Plugin in Lua.
 *   [jedrzejboczar/toggletasks.nvim (⭐158)](https://github.com/jedrzejboczar/toggletasks.nvim) - Task runner with JSON/YAML configs, using toggleterm.nvim and telescope.nvim.
 *   [stevearc/overseer.nvim (⭐1.7k)](https://github.com/stevearc/overseer.nvim) - A task runner and job management plugin.
-*   [desdic/greyjoy.nvim (⭐31)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, vscode tasks, kitchen etc.
+*   [desdic/greyjoy.nvim (⭐31)](https://github.com/desdic/greyjoy.nvim) - A modular task runner for Makefiles, VSCode tasks, kitchen etc.
 *   [krady21/compiler-explorer.nvim (⭐173)](https://github.com/krady21/compiler-explorer.nvim) - Asynchronous compilation using the [compiler-explorer](https://godbolt.org/) REST API.
 
 ### Git / GitHub
@@ -3387,7 +3395,7 @@ Collections of awesome neovim plugins.
 ### Keybinding / Tree-sitter Based
 
 *   [folke/which-key.nvim (⭐6.7k)](https://github.com/folke/which-key.nvim) - Neovim plugin that shows a popup with possible keybindings of the command you started typing.
-*   [mrjones2014/legendary.nvim (⭐1.2k)](https://github.com/mrjones2014/legendary.nvim) - Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VS Code's Command Palette), integrates with `which-key.nvim`.
+*   [mrjones2014/legendary.nvim (⭐1.2k)](https://github.com/mrjones2014/legendary.nvim) - Define your keymaps, commands, and autocommands as simple Lua tables, and create a legend for them at the same time (like VSCode's Command Palette), integrates with `which-key.nvim`.
 *   [Iron-E/nvim-cartographer (⭐55)](https://github.com/Iron-E/nvim-cartographer) - a more convenient `:map`ping syntax for Lua environments.
 *   [LionC/nest.nvim (⭐235)](https://github.com/LionC/nest.nvim) - Lua utility to map keys concisely using cascading trees. Also allows binding Lua functions to keys.
 *   [max397574/better-escape.nvim (⭐760)](https://github.com/max397574/better-escape.nvim) - Create shortcuts to escape insert mode without getting delay.
@@ -3657,7 +3665,7 @@ Collections of awesome neovim plugins.
 ### Editing Support / Scrollbar
 
 *   [h-hg/fcitx.nvim (⭐96)](https://github.com/h-hg/fcitx.nvim) - Switching and restoring fcitx state for each buffer separately.
-*   [filipdutescu/renamer.nvim (⭐314)](https://github.com/filipdutescu/renamer.nvim) - VS Code-like renaming UI, written in Lua.
+*   [filipdutescu/renamer.nvim (⭐314)](https://github.com/filipdutescu/renamer.nvim) - VSCode-like renaming UI, written in Lua.
 
 ### Preconfigured Configuration / Competitive Programming
 
@@ -3756,7 +3764,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [onsails/lspkind.nvim (⭐1.6k)](https://github.com/onsails/lspkind.nvim) - The plugin adds vscode-like icons to Neovim LSP completions.
+*   [onsails/lspkind.nvim (⭐1.6k)](https://github.com/onsails/lspkind.nvim) - The plugin adds VSCode-like icons to Neovim LSP completions.
 *   [scalameta/nvim-metals (⭐537)](https://github.com/scalameta/nvim-metals) - Neovim plugin for Metals, the Scala language server, using Neovim's builtin LSP.
 
 ### Motion / GitLab
@@ -3946,7 +3954,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
-*   [Mofiqul/vscode.nvim (⭐906)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with vscode light and dark theme.
+*   [Mofiqul/vscode.nvim (⭐906)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with VSCode light and dark theme.
 *   [marko-cerovac/material.nvim (⭐1.1k)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
 *   [mhartington/oceanic-next (⭐1.2k)](https://github.com/mhartington/oceanic-next) - Oceanic Next theme.
 *   [bkegley/gloombuddy (⭐48)](https://github.com/bkegley/gloombuddy) - Gloom inspired theme.
@@ -4201,7 +4209,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
-*   [tomasiser/vim-code-dark (⭐991)](https://github.com/tomasiser/vim-code-dark) - A dark color scheme heavily inspired by the look of the Dark+ scheme of Visual Studio Code.
+*   [tomasiser/vim-code-dark (⭐991)](https://github.com/tomasiser/vim-code-dark) - A dark color scheme heavily inspired by the look of the Dark+ scheme of VSCode.
 *   [sainnhe/sonokai (⭐1.9k)](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro.
 *   [sainnhe/edge (⭐980)](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material.
 
