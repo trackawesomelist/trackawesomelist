@@ -2,15 +2,22 @@
 
 A curated list of analytics frameworks, software and other tools.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/newTendermint/awesome-analytics/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) · ⭐ 3.4K · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/newTendermint/awesome-analytics/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 newTendermint/awesome-analytics](https://github.com/oxnr/awesome-analytics) · ⭐ 4.2K · 🏷️ Miscellaneous
 
 [ [Daily](/content/newTendermint/awesome-analytics/README.md) / Weekly / [Overview](/content/newTendermint/awesome-analytics/readme/README.md) ]
+
+## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
+
+### General analytics
+
+*   [Datafusion](https://datafusion.apache.org) - Arrow centric - SQL and in memory analytics for general usage
+*   [Superset-Datafusion (⭐0)](https://github.com/frett27/superset-datafusion) - Superset integration for Datafusion
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
 ### General analytics
 
-*   [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).([Source Code (⭐9.7k)](https://github.com/posthog/posthog)) `MIT` `Python`
+*   [PostHog](https://posthog.com) - Open-source product analytics to track users, events, funnels and trends. Alternative to Mixpanel/Amplitude/Heap. Also includes session recording (alternative to HotJar) and feature flag/experimentation tools (alternative to Optimizely).([Source Code (⭐30k)](https://github.com/posthog/posthog)) `MIT` `Python`
 
 ### Developer analytics
 
@@ -164,7 +171,7 @@ A curated list of analytics frameworks, software and other tools.
 
 ### Analytics dashboards
 
-*   [Freeboard (⭐6.3k)](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups. `©` `SaaS`
+*   [Freeboard (⭐6.5k)](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups. `©` `SaaS`
 *   [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place. `©` `SaaS`
 *   [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients. `©` `SaaS`
 *   [Vizia](https://www.brandwatch.com/products/vizia/) - Visual command center dashboarding solution `©` `SaaS`
@@ -173,45 +180,45 @@ A curated list of analytics frameworks, software and other tools.
 
 ### Analytics dashboards
 
-*   [EDA](https://eda.jortilles.com/en/jortilles-english/) - EDA is an user friendly Analtical Tool specially designed for busines users.  ([Source Code (⭐62)](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
+*   [EDA](https://eda.jortilles.com/en/jortilles-english/) - EDA is an user friendly Analtical Tool specially designed for busines users.  ([Source Code (⭐171)](https://github.com/jortilles/EDA)) `Apache-2.0` `Angular/Nodejs`
 
 ## [Dec 07 - Dec 13, 2020](/content/2020/49/README.md)
 
 ### Analytics dashboards
 
-*   [Chartbrew](https://chartbrew.com) - Chartbrew allows you to query your databases and APIs to create live charts and visualize your data. You can share your charts with anyone or embed them on your own sites, blogs, Notion, etc. ([Demo](https://app.chartbrew.com/live-demo), [Source Code (⭐844)](https://github.com/chartbrew/chartbrew)) `MIT` `NodeJS`
+*   [Chartbrew](https://chartbrew.com) - Chartbrew allows you to query your databases and APIs to create live charts and visualize your data. You can share your charts with anyone or embed them on your own sites, blogs, Notion, etc. ([Demo](https://app.chartbrew.com/live-demo), [Source Code (⭐3.5k)](https://github.com/chartbrew/chartbrew)) `MIT` `NodeJS`
 
 ## [Nov 23 - Nov 29, 2020](/content/2020/47/README.md)
 
 ### Endpoints
 
-*   [RudderStack](https://rudderstack.com/) - The warehouse-first customer data platform (CDP) that builds your CDP on your data warehouse for you. RudderStack makes it easy to collect, unify, transform, and store your customer data as well as route it securely to a wide range of common, popular marketing, sales, and product tools (open-source alternative to Segment et al.). ([Source Code (⭐3.3k)](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Go`
+*   [RudderStack](https://rudderstack.com/) - The warehouse-first customer data platform (CDP) that builds your CDP on your data warehouse for you. RudderStack makes it easy to collect, unify, transform, and store your customer data as well as route it securely to a wide range of common, popular marketing, sales, and product tools (open-source alternative to Segment et al.). ([Source Code (⭐4.3k)](https://github.com/rudderlabs/rudder-server/)) `AGPL-3.0` `Go`
 
 ## [Nov 09 - Nov 15, 2020](/content/2020/45/README.md)
 
 ### Privacy focused analytics
 
-*   [piratepx](https://www.piratepx.com/) - Just a little analytics insight for your personal or indie project. 100% free and open source. ([Demo](https://app.piratepx.com/shared/bGQbUJ-YADC_xIGZaYmyqp-J_PD6O1pkCdHmYdIjUvs53ExsImlzFeou4MCuZRbH), [Source (⭐57)](https://github.com/piratepx/app)) `MIT` `Nodejs`
+*   [piratepx](https://www.piratepx.com/) - Just a little analytics insight for your personal or indie project. 100% free and open source. ([Demo](https://app.piratepx.com/shared/bGQbUJ-YADC_xIGZaYmyqp-J_PD6O1pkCdHmYdIjUvs53ExsImlzFeou4MCuZRbH), [Source (⭐85)](https://github.com/piratepx/app)) `MIT` `Nodejs`
 
 ## [Oct 12 - Oct 18, 2020](/content/2020/41/README.md)
 
 ### General analytics
 
 *   [Matomo](https://matomo.org/) - Leading open-source analytics platform that gives you more than just powerful analytics, formerly known as Piwik. ([Source Code](https://github.com/matomo-org/)) `GPL-3.0` `PHP`
-*   [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code (⭐1.9k)](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
-*   [Rakam](https://rakam.io/) - Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code (⭐792)](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
-*   [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code (⭐285)](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
+*   [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Matomo alternative. ([Source Code (⭐2.6k)](https://github.com/padams/Open-Web-Analytics)) `GPL-2.0` `PHP`
+*   [Rakam](https://rakam.io/) - Custom analytics platform that lets you to create your own analytics service. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code (⭐796)](https://github.com/rakam-io/rakam)) `Apache-2.0` `Java`
+*   [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code (⭐415)](https://github.com/eldy/awstats)) `GPL-3.0` `Perl`
 *   [Countly](https://count.ly) - Real time mobile and web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPL-3.0` `Javascript`
-*   [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code (⭐12k)](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
+*   [Druid](http://druid.io/) - Distributed, column-oriented, real-time analytics data store. ([Source Code (⭐14k)](https://github.com/druid-io/druid)) `Apache-2.0` `Java`
 *   [Hastic](https://hastic.io) - Hackable time series pattern recognition tool with UI for Grafana. ([Source Code](https://github.com/hastic)) `Apache-2.0` `Python/Nodejs`
 
 ### Real-time
 
-*   [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code (⭐15k)](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
+*   [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code (⭐20k)](https://github.com/allinurl/goaccess)) `GPL-2.0` `C`
 
 ### Website analytics
 
-*   [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code (⭐62)](https://github.com/kis3/kis3)) `MIT` `Go`
+*   [KISSS](https://kis3.dev) - Very minimalistic (KISS) website statistics tool. ([Source Code](https://github.com/kis3/kis3)) `MIT` `Go`
 
 ### Endpoints
 
@@ -219,33 +226,33 @@ A curated list of analytics frameworks, software and other tools.
 
 ### SEO
 
-*   [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code (⭐608)](https://github.com/serphacker/serposcope)) `MIT` `Java`
+*   [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code (⭐748)](https://github.com/serphacker/serposcope)) `MIT` `Java`
 
 ### Privacy focused analytics
 
-*   [Plausible Analytics](https://plausible.io/) - Lightweight and [open source (⭐13k)](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Source Code (⭐13k)](https://github.com/plausible/analytics/)) `MIT` `Elixir`
-*   [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data; `SaaS` `Self-Hosted` ([Source Code (⭐2.8k)](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
-*   [Shynet (⭐2k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Designed for self-hosting. `Apache-2.0` `Python`
-*   [Umami](https://umami.is/) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions. ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code (⭐13k)](https://github.com/mikecao/umami)) `MIT` `Nodejs`
-*   [Koko Analytics](https://www.kokoanalytics.com/) - Privacy-friendly and open source analytics plugin for WordPress. ([Source Code (⭐319)](https://github.com/ibericode/koko-analytics/)) `GPL-3.0` `PHP`
-*   [Offen](https://www.offen.dev/) - Offen is a fair and open web analytics tool. Gain insights while your users have full access to their data. Lightweight, self hosted and free. ([Demo](https://www.offen.dev/try-demo/), [Source Code (⭐631)](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
-*   [Freshlytics (⭐331)](https://github.com/sheshbabu/freshlytics) - Privacy respecting, cookie free and low resource usage analytics platform. `MIT` `Docker/Nodejs`
-*   [Kindmetrics](https://kindmetrics.io/) - Clean privacy-focused website analytics. ([Source Code (⭐82)](https://github.com/kindmetrics/kindmetrics)) `MIT` `Crystal`
-*   [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code (⭐3.5k)](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
+*   [Plausible Analytics](https://plausible.io/) - Lightweight and [open source (⭐24k)](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Source Code (⭐24k)](https://github.com/plausible/analytics/)) `MIT` `Elixir`
+*   [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data; `SaaS` `Self-Hosted` ([Source Code (⭐5.3k)](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
+*   [Shynet (⭐3.1k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Designed for self-hosting. `Apache-2.0` `Python`
+*   [Umami](https://umami.is/) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions. ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code (⭐34k)](https://github.com/mikecao/umami)) `MIT` `Nodejs`
+*   [Koko Analytics](https://www.kokoanalytics.com/) - Privacy-friendly and open source analytics plugin for WordPress. ([Source Code (⭐386)](https://github.com/ibericode/koko-analytics/)) `GPL-3.0` `PHP`
+*   [Offen](https://www.offen.dev/) - Offen is a fair and open web analytics tool. Gain insights while your users have full access to their data. Lightweight, self hosted and free. ([Demo](https://www.offen.dev/try-demo/), [Source Code (⭐962)](https://github.com/offen/offen)) `Apache-2.0` `Go/Docker`
+*   [Freshlytics (⭐359)](https://github.com/sheshbabu/freshlytics) - Privacy respecting, cookie free and low resource usage analytics platform. `MIT` `Docker/Nodejs`
+*   [Kindmetrics](https://kindmetrics.io/) - Clean privacy-focused website analytics. ([Source Code (⭐96)](https://github.com/kindmetrics/kindmetrics)) `MIT` `Crystal`
+*   [Ackee](https://ackee.electerious.com) - Self-hosted analytics tool for those who care about privacy. ([Demo](http://demo.ackee.electerious.com), [Source Code (⭐4.5k)](https://github.com/electerious/Ackee)) `MIT` `Nodejs`
 
 ### Analytics dashboards
 
-*   [Metabase](https://metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data. Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code (⭐30k)](https://github.com/metabase/metabase)) `AGPL-3.0` `Java`
-*   [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code (⭐22k)](https://github.com/getredash/redash)) `BSD-2-Clause` `Python`
-*   [Superset](http://superset.apache.org/) - Modern, enterprise-ready business intelligence web application. ([Source Code (⭐49k)](https://github.com/apache/incubator-superset)) `Apache-2.0` `Python`
-*   [Socioboard](https://socioboard.org/) - `⚠` Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. ([Source Code (⭐705)](https://github.com/socioboard/Socioboard-4.0)) `GPL-3.0` `C#/JavaScript`
+*   [Metabase](https://metabase.com/) - Metabase is the easy, open source way for everyone in your company to ask questions and learn from data. Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code (⭐45k)](https://github.com/metabase/metabase)) `AGPL-3.0` `Java`
+*   [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code (⭐28k)](https://github.com/getredash/redash)) `BSD-2-Clause` `Python`
+*   [Superset](http://superset.apache.org/) - Modern, enterprise-ready business intelligence web application. ([Source Code (⭐69k)](https://github.com/apache/incubator-superset)) `Apache-2.0` `Python`
+*   [Socioboard](https://socioboard.org/) - `⚠` Social media management, analytics, and reporting platform supporting nine social media networks out-of-the-box. ([Source Code (⭐1.4k)](https://github.com/socioboard/Socioboard-4.0)) `GPL-3.0` `C#/JavaScript`
 
 ## [Aug 25 - Aug 31, 2014](/content/2014/34/README.md)
 
 ### Analytics dashboards
 
-*   Other awesome lists [awesome-awesomeness (⭐29k)](https://github.com/bayandin/awesome-awesomeness).
-*   Even more lists [awesome (⭐223k)](https://github.com/sindresorhus/awesome).
-*   Another list? [list (⭐8.5k)](https://github.com/jnv/lists).
-*   WTF! [awesome-awesome-awesome (⭐1.7k)](https://github.com/t3chnoboy/awesome-awesome-awesome).
-*   Analytics [awesome-bigdata (⭐11k)](https://github.com/onurakpolat/awesome-bigdata).
+*   Other awesome lists [awesome-awesomeness (⭐33k)](https://github.com/bayandin/awesome-awesomeness).
+*   Even more lists [awesome (⭐417k)](https://github.com/sindresorhus/awesome).
+*   Another list? [list (⭐11k)](https://github.com/jnv/lists).
+*   WTF! [awesome-awesome-awesome (⭐2.1k)](https://github.com/t3chnoboy/awesome-awesome-awesome).
+*   Analytics [awesome-bigdata (⭐14k)](https://github.com/onurakpolat/awesome-bigdata).

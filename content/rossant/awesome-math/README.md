@@ -6,6 +6,12 @@ A curated list of awesome mathematics resources
 
 [ Daily / [Weekly](/content/rossant/awesome-math/week/README.md) / [Overview](/content/rossant/awesome-math/readme/README.md) ]
 
+## [Nov 27, 2025](/content/2025/11/27/README.md)
+
+### Tools
+
+*   [RunMat (⭐46)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Tools

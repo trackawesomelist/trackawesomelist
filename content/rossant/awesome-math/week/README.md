@@ -11,6 +11,7 @@ A curated list of awesome mathematics resources
 ### Tools
 
 *   [MathFlow (⭐49)](https://github.com/Nonanti/MathFlow) - C# math expression library with symbolic computation (differentiation, simplification, equation solving)
+*   [RunMat (⭐46)](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
 
 ### Books
 
