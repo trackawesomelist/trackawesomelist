@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Nov 28, 2025](/content/2025/11/28/README.md)
+
+### Design and UI
+
+*   [OKLCH](https://oklch.net/) -- Free OKLCH color picker and converter for web designers and developers.
+
 ## [Nov 26, 2025](/content/2025/11/26/README.md)
 
 ### Generative AI

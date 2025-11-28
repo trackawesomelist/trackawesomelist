@@ -1,18 +1,24 @@
 # Awesome List Updates on Nov 28, 2025
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
+## [1. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Design and UI
+
+*   [OKLCH](https://oklch.net/) -- Free OKLCH color picker and converter for web designers and developers.
+
+## [2. Awesome Opentofu](/content/virtualroot/awesome-opentofu/README.md)
 
 ### Media / Helpers
 
 *   [CNCF - OpenTofu Day North America 2025](https://www.youtube.com/playlist?list=PLj6h78yzYM2MATqCH0Tux6phUq9o4-lnG)
 
-## [2. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Development tools / Testing
 
@@ -22,7 +28,7 @@
     *   [quickcheck](https://crates.io/crates/quickcheck) - A Rust implementation of [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1)
     *   [rust-fuzz/afl.rs (⭐1.8k)](https://github.com/rust-fuzz/afl.rs) - A Rust fuzzer, using [AFL](https://lcamtuf.coredump.cx/afl/)
 
-## [3. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [4. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Hardware / Plotters
 
@@ -38,7 +44,7 @@
 
 *   [Pulling Teeth From a Corpse: Extracting the Vector Font From the Apple 410 Color Plotter](https://www.nycresistor.com/2017/12/29/pulling-teeth-from-a-corpse-extracting-the-vector-font-from-the-apple-410-color-plotter/)
 
-## [4. Awesome React](/content/enaqx/awesome-react/README.md)
+## [5. Awesome React](/content/enaqx/awesome-react/README.md)
 
 ### React Component Libraries
 
@@ -48,7 +54,7 @@
 
 *   [react-hot-toast (⭐11k)](https://github.com/timolins/react-hot-toast) - Lightweight and customizable toast notifications for React
 
-## [5. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
+## [6. Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
 
 ### :tada: New
 
