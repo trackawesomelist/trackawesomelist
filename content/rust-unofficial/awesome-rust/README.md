@@ -6,6 +6,16 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Nov 28, 2025](/content/2025/11/28/README.md)
+
+### Development tools / Testing
+
+*   Property Testing and Fuzzing
+    *   [Ackee-Blockchain/trident (⭐340)](https://github.com/Ackee-Blockchain/trident) - Fuzzing framework for Solana smart contracts with manually-guided testing, flow-based sequences, and property-based validation
+    *   [proptest](https://crates.io/crates/proptest) - property testing framework inspired by the [Hypothesis](https://hypothesis.works/) framework for Python
+    *   [quickcheck](https://crates.io/crates/quickcheck) - A Rust implementation of [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1)
+    *   [rust-fuzz/afl.rs (⭐1.8k)](https://github.com/rust-fuzz/afl.rs) - A Rust fuzzer, using [AFL](https://lcamtuf.coredump.cx/afl/)
+
 ## [Nov 25, 2025](/content/2025/11/25/README.md)
 
 ### Applications / Database
@@ -492,7 +502,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [fish-shell/fish-shell (⭐31k)](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
+*   [fish-shell/fish-shell (⭐32k)](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
 
 ## [Mar 03, 2025](/content/2025/03/03/README.md)
 
@@ -1647,7 +1657,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [eza-community/eza (⭐18k)](https://github.com/eza-community/eza) - A replacement for 'ls'
+*   [eza-community/eza (⭐19k)](https://github.com/eza-community/eza) - A replacement for 'ls'
 
 ## [Aug 27, 2023](/content/2023/08/27/README.md)
 
@@ -2834,10 +2844,6 @@ A curated list of Rust code and resources.
     *   [mocktail (⭐82)](https://github.com/IBM/mocktail) [![mocktail](https://img.shields.io/crates/v/mocktail)](https://crates.io/crates/mocktail) - HTTP & gRPC server mocking for Rust ![build](https://github.com/IBM/mocktail/actions/workflows/build.yml/badge.svg)
     *   [nrxus/faux (⭐477)](https://github.com/nrxus/faux/) [![Latest Version](https://img.shields.io/crates/v/faux.svg)](https://crates.io/crates/faux) - A library to create mocks out of structs. ![build](https://github.com/nrxus/faux/workflows/test/badge.svg?branch=master)
     *   [synth (⭐1.5k)](https://github.com/shuttle-hq/synth/) - Generate database data declaratively. [![build](https://github.com/shuttle-hq/synth/actions/workflows/synth-test.yml/badge.svg)](https://github.com/shuttle-hq/synth)
-*   Property Testing and Fuzzing
-    *   [proptest](https://crates.io/crates/proptest) - property testing framework inspired by the [Hypothesis](https://hypothesis.works/) framework for Python
-    *   [quickcheck](https://crates.io/crates/quickcheck) - A Rust implementation of [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1)
-    *   [rust-fuzz/afl.rs (⭐1.8k)](https://github.com/rust-fuzz/afl.rs) - A Rust fuzzer, using [AFL](https://lcamtuf.coredump.cx/afl/)
 
 ## [Dec 31, 2021](/content/2021/12/31/README.md)
 
@@ -2890,7 +2896,7 @@ A curated list of Rust code and resources.
 
 ### Applications / System tools
 
-*   [sharkdp/fd (⭐40k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
+*   [sharkdp/fd (⭐41k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 
 ## [Nov 22, 2021](/content/2021/11/22/README.md)
 

@@ -11,10 +11,21 @@ A curated list of code and resources for computer-controlled drawing machines an
 ### Hardware / Plotters
 
 *   [Lego-Pen-Plotter (⭐5)](https://github.com/Jormono1/Lego-Pen-Plotter) - Pen plotter built entirely of LEGO and programmed with PyBricks and Python.
+*   [Reviving the Apple 410 Color Plotter](https://www.nycresistor.com/2017/12/13/reviving-the-apple-410-color-plotter/)
+*   [Apple-410 (⭐28)](https://github.com/phooky/Apple-410) - Apple 410 Color Plotter documentation, drivers, and ROM dumps.
+
+### Hardware / Accessories and Adapters
+
+*   [Replacement Pen Carousel Turret Carriage Holder for HP 7475A Plotter](https://obsoletetech.us/products/replacement-pen-carousel-turret-carriage-holder-for-hp-7475a-plotter) - 3d printed replacement part.
+*   [Replacement Geneva Drive Wheel Gear for HP 7475A Plotter Pen Carousel](https://obsoletetech.us/products/replacement-geneva-drive-wheel-gear-for-hp-7475a-plotter-pen-carousel) - 3d printed replacement for a commonly-busted part.
 
 ### Software / Vector Creation
 
 *   [Peak Map](https://anvaka.github.io/peak-map/) - A web-based tool to generate ridge line charts from map data.
+
+### Software / Fonts
+
+*   [Pulling Teeth From a Corpse: Extracting the Vector Font From the Apple 410 Color Plotter](https://www.nycresistor.com/2017/12/29/pulling-teeth-from-a-corpse-extracting-the-vector-font-from-the-apple-410-color-plotter/)
 
 ## [Feb 03 - Feb 09, 2025](/content/2025/5/README.md)
 

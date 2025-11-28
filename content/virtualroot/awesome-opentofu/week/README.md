@@ -24,6 +24,10 @@ A curated list of OpenTofu tools, resources, and related projects.
 *   [Burrito](https://docs.burrito.tf/latest/overview/) - A TACoS (Terraform Automation and Collaboration Software) that works inside Kubernetes.
 *   [tofUI (⭐1)](https://github.com/65156/tofUI) - Easily export OpenTofu and Terraform plans in HTML for better readability.
 
+### Media / Helpers
+
+*   [CNCF - OpenTofu Day North America 2025](https://www.youtube.com/playlist?list=PLj6h78yzYM2MATqCH0Tux6phUq9o4-lnG)
+
 ## [Jul 28 - Aug 03, 2025](/content/2025/30/README.md)
 
 ### Tools / Platforms

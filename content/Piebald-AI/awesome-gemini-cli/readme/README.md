@@ -22,7 +22,9 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI (⭐8
 
 ## :tada: New
 
-*   [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
+*   [**Gemini Dockerized CLI**](https://github.com/nordluf/gemini-dockerized-cli) - Gemini Dockerized CLI with small improvements.
+*   [**Gemini CLI Tips by Addy Osmani**](https://github.com/addyosmani/gemini-cli-tips) - \~30 pro-tips for effectively using Gemini CLI for agentic coding.
+*   [**IssueDB**](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
 
 > \[!tip]
 > **Track your local Gemini CLI usage with [Splitrail (⭐35)](https://github.com/Piebald-AI/splitrail).**

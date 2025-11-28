@@ -6,6 +6,12 @@ A curated list of OpenTofu tools, resources, and related projects.
 
 [ Daily / [Weekly](/content/virtualroot/awesome-opentofu/week/README.md) / [Overview](/content/virtualroot/awesome-opentofu/readme/README.md) ]
 
+## [Nov 28, 2025](/content/2025/11/28/README.md)
+
+### Media / Helpers
+
+*   [CNCF - OpenTofu Day North America 2025](https://www.youtube.com/playlist?list=PLj6h78yzYM2MATqCH0Tux6phUq9o4-lnG)
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Official

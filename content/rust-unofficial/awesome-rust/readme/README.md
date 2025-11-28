@@ -542,8 +542,8 @@ See also [A comparison of operating systems written in Rust (⭐818)](https://gi
 *   [deshaw/procfd (⭐61)](https://github.com/deshaw/procfd) \[[procfd](https://crates.io/crates/procfd)] - Linux lsof replacement to list open file descriptors for processes
 *   [diskonaut (⭐2.9k)](https://github.com/imsnif/diskonaut) - Terminal visual disk space navigator
 *   [dust (⭐11k)](https://github.com/bootandy/dust) - A more intuitive version of du
-*   [eza-community/eza (⭐18k)](https://github.com/eza-community/eza) - A replacement for 'ls'
-*   [fish-shell/fish-shell (⭐31k)](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
+*   [eza-community/eza (⭐19k)](https://github.com/eza-community/eza) - A replacement for 'ls'
+*   [fish-shell/fish-shell (⭐32k)](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
 *   [fselect](https://crates.io/crates/fselect) - Find files with SQL-like queries
 *   [gitui (⭐21k)](https://github.com/gitui-org/gitui) - Blazing fast terminal client for git. [![build](https://github.com/gitui-org/gitui/actions/workflows/ci.yml/badge.svg)](https://github.com/gitui-org/gitui/actions)
 *   [GQL (⭐3.5k)](https://github.com/amrdeveloper/gql) - A SQL like query language to run on .git files.
@@ -580,7 +580,7 @@ See also [A comparison of operating systems written in Rust (⭐818)](https://gi
 *   [qarmin/czkawka (⭐27k)](https://github.com/qarmin/czkawka) - Multi-functional app to find duplicates, empty folders, similar images, etc. [![GitHub Actions Workflow](https://github.com/qarmin/czkawka/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/qarmin/czkawka/actions)
 *   [redox-os/ion (⭐1.6k)](https://github.com/redox-os/ion) - Next-generation system shell
 *   [sharkdp/bat (⭐56k)](https://github.com/sharkdp/bat) - A cat(1) clone with wings. [![CICD](https://github.com/sharkdp/bat/actions/workflows/CICD.yml/badge.svg?branch=master)](https://github.com/sharkdp/bat/actions/workflows/CICD.yml)
-*   [sharkdp/fd (⭐40k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
+*   [sharkdp/fd (⭐41k)](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to find. [![CICD](https://github.com/sharkdp/fd/actions/workflows/CICD.yml/badge.svg)](https://github.com/sharkdp/fd/actions/workflows/CICD.yml)
 *   [sitkevij/hex (⭐549)](https://github.com/sitkevij/hex) - A colorized hexdump terminal utility.
 *   [skim (⭐6.1k)](https://github.com/skim-rs/skim) - A fuzzy finder
 *   [supercilex/fuc (⭐485)](https://github.com/supercilex/fuc) - Fast `cp` and `rm` commands
@@ -996,6 +996,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
     *   [cargo-mutants (⭐1k)](https://github.com/sourcefrog/cargo-mutants) \[[cargo-mutants](https://crates.io/crates/cargo-mutants)] - Finds inadequately tested code by injecting mutations, no source changes required. [![build badge](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml/badge.svg?branch=main\&event=push)](https://github.com/sourcefrog/cargo-mutants/actions/workflows/tests.yml?query=branch%3Amain)
     *   [mutagen (⭐638)](https://github.com/llogiq/mutagen) \[[mutagen](https://crates.io/crates/mutagen)] - A source-level mutation testing framework (nightly only)
 *   Property Testing and Fuzzing
+    *   [Ackee-Blockchain/trident (⭐340)](https://github.com/Ackee-Blockchain/trident) - Fuzzing framework for Solana smart contracts with manually-guided testing, flow-based sequences, and property-based validation
     *   [proptest](https://crates.io/crates/proptest) - property testing framework inspired by the [Hypothesis](https://hypothesis.works/) framework for Python
     *   [quickcheck](https://crates.io/crates/quickcheck) - A Rust implementation of [QuickCheck](https://wiki.haskell.org/Introduction_to_QuickCheck1)
     *   [rust-fuzz/afl.rs (⭐1.8k)](https://github.com/rust-fuzz/afl.rs) - A Rust fuzzer, using [AFL](https://lcamtuf.coredump.cx/afl/)
