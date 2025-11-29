@@ -6,6 +6,21 @@
 
 [ Daily / [Weekly](/content/xavidop/awesome-firebase-genkit/week/README.md) / [Overview](/content/xavidop/awesome-firebase-genkit/readme/README.md) ]
 
+## [Nov 29, 2025](/content/2025/11/29/README.md)
+
+### Plugins / Python - Official
+
+*   Other Plugins:
+    *   [`server flask`](https://genkit.dev/python/docs/flask/) - Flask plugin for building web applications with Genkit.
+
+### Books / Dart - Official
+
+*   [Mastering Genkit: Go Edition](https://mastering-genkit.github.io/mastering-genkit-go/) - Build Production-Ready AI Applications with Go and Genkit.
+
+### Solutions / Dart - Official
+
+*   [`Perplexity CLI`](https://github.com/xavidop/perplexity-cli) - A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Plugins / JavaScript - Official
@@ -48,8 +63,6 @@
 *   Vector Store Plugins
     *   [`firestore`](https://genkit.dev/python/docs/reference/plugins/firestore/) - The Firestore plugin provides interfaces to the Firestore vector store.
     *   [`dev_local_vectorstore`](https://genkit.dev/python/docs/reference/plugins/dev-local-vectorstore/) - Plugin for Local Vector Store for development purposes.
-*   Other Plugins:
-    *   [`flask`](https://genkit.dev/python/docs/flask/) - Flask plugin for building web applications with Genkit.
 
 ### Plugins / Golang - Official
 

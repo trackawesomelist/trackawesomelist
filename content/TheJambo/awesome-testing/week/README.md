@@ -8,6 +8,10 @@ A curated list of testing resources
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
+### Software / API Testing
+
+*   [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures deep runtime context (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for E2E testing and debugging.
+
 ### Software / UI & End-to-End Testing
 
 *   [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime

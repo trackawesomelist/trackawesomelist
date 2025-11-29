@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Nov 29, 2025](/content/2025/11/29/README.md)
+
+### Colorscheme / Colorscheme Switchers
+
+*   [itsfernn/auto-gnome-theme.nvim (⭐7)](https://github.com/itsfernn/auto-gnome-theme.nvim) - Fast colorscheme switcher following GNOME system's light/dark mode (based on `gsetting monitor`).
+
 ## [Nov 27, 2025](/content/2025/11/27/README.md)
 
 ### Media / Cursorline
@@ -110,11 +116,11 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [Zeioth/markmap.nvim (⭐206)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
+*   [Zeioth/markmap.nvim (⭐209)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 
 ### Editing Support / Scrollbar
 
-*   [qwavies/smart-backspace.nvim (⭐9)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
+*   [qwavies/smart-backspace.nvim (⭐19)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
 *   [ckolkey/ts-node-action (⭐372)](https://github.com/CKolkey/ts-node-action) - A framework for executing functional transformations on Tree-sitter nodes.
 
 ## [Nov 11, 2025](/content/2025/11/11/README.md)
@@ -2666,7 +2672,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
-*   [calind/selenized.nvim (⭐25)](https://github.com/calind/selenized.nvim) - Lua port of [selenized (⭐867)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
+*   [calind/selenized.nvim (⭐25)](https://github.com/calind/selenized.nvim) - Lua port of [selenized (⭐873)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
 
 ## [Nov 15, 2023](/content/2023/11/15/README.md)
 

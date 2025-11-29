@@ -365,7 +365,7 @@ Collections of awesome neovim plugins.
 *   [yaocccc/nvim-hl-mdcodeblock.lua (⭐35)](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight Markdown codeblock using Tree-sitter.
 *   [kiran94/edit-markdown-table.nvim (⭐28)](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
 *   [richardbizik/nvim-toc (⭐44)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for Markdown files.
-*   [Zeioth/markmap.nvim (⭐206)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
+*   [Zeioth/markmap.nvim (⭐209)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 *   [tadmccorkle/markdown.nvim (⭐210)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for Markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
 *   [mpas/marp-nvim (⭐45)](https://github.com/mpas/marp-nvim) - Present using Markdown with [Marp](https://marp.app/).
 *   [MeanderingProgrammer/render-markdown.nvim (⭐3.7k)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown files directly.
@@ -782,7 +782,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [ellisonleao/gruvbox.nvim (⭐2.4k)](https://github.com/ellisonleao/gruvbox.nvim) - Gruvbox community colorscheme Lua port.
 *   [pmouraguedes/neodarcula.nvim (⭐11)](https://github.com/pmouraguedes/neodarcula.nvim) - A dark theme with support for transparency, dimming, LSP semantic tokens and more.
 *   [jpwol/thorn.nvim (⭐55)](https://github.com/jpwol/thorn.nvim) - A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
-*   [calind/selenized.nvim (⭐25)](https://github.com/calind/selenized.nvim) - Lua port of [selenized (⭐867)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
+*   [calind/selenized.nvim (⭐25)](https://github.com/calind/selenized.nvim) - Lua port of [selenized (⭐873)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
 *   [motaz-shokry/gruvbox.nvim](https://gitlab.com/motaz-shokry/gruvbox.nvim) - A new gruvbox theme with a different background color for the hard variant, and comes with 4 variants.
 
 ### Lua Colorscheme
@@ -806,6 +806,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ### Colorscheme Switchers
 
+*   [itsfernn/auto-gnome-theme.nvim (⭐7)](https://github.com/itsfernn/auto-gnome-theme.nvim) - Fast colorscheme switcher following GNOME system's light/dark mode (based on `gsetting monitor`).
 *   [flashcodes-themayankjha/fkthemes.nvim (⭐9)](https://github.com/flashcodes-themayankjha/fkthemes.nvim) - A fast, lightweight and powerful theme switcher written in Lua.
 *   [4e554c4c/darkman.nvim (⭐34)](https://github.com/4e554c4c/darkman.nvim) - Follow the system dark-mode setting on Linux.
 *   [f-person/auto-dark-mode.nvim (⭐458)](https://github.com/f-person/auto-dark-mode.nvim) - Follow the system appearance on macOS.
@@ -1471,7 +1472,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Editing Support
 
-*   [qwavies/smart-backspace.nvim (⭐9)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
+*   [qwavies/smart-backspace.nvim (⭐19)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
 *   [TheLazyCat00/replace-nvim (⭐1)](https://github.com/TheLazyCat00/replace-nvim) - Replace part of your code with the contents of the `+` register using textobjects.
 *   [wurli/split.nvim (⭐33)](https://github.com/wurli/split.nvim) - Provides a mapping to split text by delimiter, giving an inverse of the native J command.
 *   [csessh/stopinsert.nvim (⭐32)](https://github.com/csessh/stopinsert.nvim) - Automatically exit Insert mode after inactivity.

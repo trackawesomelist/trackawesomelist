@@ -49,7 +49,7 @@
     *   [`firestore`](https://genkit.dev/python/docs/reference/plugins/firestore/) - The Firestore plugin provides interfaces to the Firestore vector store.
     *   [`dev_local_vectorstore`](https://genkit.dev/python/docs/reference/plugins/dev-local-vectorstore/) - Plugin for Local Vector Store for development purposes.
 *   Other Plugins:
-    *   [`flask`](https://genkit.dev/python/docs/flask/) - Flask plugin for building web applications with Genkit.
+    *   [`server flask`](https://genkit.dev/python/docs/flask/) - Flask plugin for building web applications with Genkit.
 
 ### Plugins / Golang - Official
 
@@ -74,6 +74,14 @@
     *   [`bedrock`](https://pkg.go.dev/github.com/xavidop/genkit-aws-bedrock-go) - Plugin for AWS Bedrock APIs.
 *   Monitoring Plugin:
     *   [`opentelemetry`](https://github.com/xavidop/genkit-opentelemetry-go) - Plugin for OpenTelemetry to monitor Genkit applications.
+
+### Books / Dart - Official
+
+*   [Mastering Genkit: Go Edition](https://mastering-genkit.github.io/mastering-genkit-go/) - Build Production-Ready AI Applications with Go and Genkit.
+
+### Solutions / Dart - Official
+
+*   [`Perplexity CLI`](https://github.com/xavidop/perplexity-cli) - A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.
 
 ### Articles / Dart - Official
 

@@ -179,7 +179,7 @@
     *   [`firestore`](https://genkit.dev/python/docs/reference/plugins/firestore/) - The Firestore plugin provides interfaces to the Firestore vector store.
     *   [`dev_local_vectorstore`](https://genkit.dev/python/docs/reference/plugins/dev-local-vectorstore/) - Plugin for Local Vector Store for development purposes.
 *   Other Plugins:
-    *   [`flask`](https://genkit.dev/python/docs/flask/) - Flask plugin for building web applications with Genkit.
+    *   [`server flask`](https://genkit.dev/python/docs/flask/) - Flask plugin for building web applications with Genkit.
 
 ### Plugins / Golang - Official
 
@@ -204,6 +204,14 @@
     *   [`bedrock`](https://pkg.go.dev/github.com/xavidop/genkit-aws-bedrock-go) - Plugin for AWS Bedrock APIs.
 *   Monitoring Plugin:
     *   [`opentelemetry`](https://github.com/xavidop/genkit-opentelemetry-go) - Plugin for OpenTelemetry to monitor Genkit applications.
+
+### Books / Dart - Official
+
+*   [Mastering Genkit: Go Edition](https://mastering-genkit.github.io/mastering-genkit-go/) - Build Production-Ready AI Applications with Go and Genkit.
+
+### Solutions / Dart - Official
+
+*   [`Perplexity CLI`](https://github.com/xavidop/perplexity-cli) - A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.
 
 ### Articles / Dart - Official
 
@@ -304,26 +312,6 @@
 
 ## [18. Awesome Ai Tools](/content/mahseema/awesome-ai-tools/week/README.md)
 
-### Text / Developer tools
-
-*   [Agenta](https://agenta.ai/) - Open-source LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications. [#opensource (⭐3.4k)](https://github.com/agenta-ai/agenta)
-*   [Portia AI](https://www.portialabs.ai/) - Open source framework for building agents that pre-express their planned actions, share their progress and can be interrupted by a human. [#opensource (⭐1.1k)](https://github.com/portiaAI/portia-sdk-python)
-*   [Callstack.ai PR Reviewer](https://callstack.ai/pr-reviewer) - Automated Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.
-*   [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
-*   [Kiln](https://getkiln.ai) - Intuitive app to build your own AI models. Includes no-code synthetic data generation, fine-tuning, dataset collaboration, and more.
-*   [Calmo](https://getcalmo.com/) - Debug Production x10 Faster with AI.
-*   [Cleanlab](https://help.cleanlab.ai/tlm/) - Detect and remediate hallucinations in any LLM application.
-*   [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0\&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code.
-*   [Agentic Radar (⭐817)](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
-*   [VoltAgent (⭐4k)](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
-*   [Notte (⭐1.7k)](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable Browser Using Agents framework
-*   [TensorZero](https://www.tensorzero.com/) - An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
-*   [ToolHive (⭐1.4k)](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click.
-*   [StarOps](https://ingenimax.ai) - AI Platform Engineer
-*   [AgentDock](https://agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
-*   [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
-*   [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
-
 ### Text / Search engines
 
 *   [Refinder AI](https://refinder.ai/) - AI-powered universal search and assistant for work
@@ -375,6 +363,25 @@
 ### Text / Customer Support
 
 *   [Twig](https://www.twig.so/) - Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.
+
+### Text / Developer tools
+
+*   [Portia AI](https://www.portialabs.ai/) - Open source framework for building agents that pre-express their planned actions, share their progress and can be interrupted by a human. [#opensource (⭐1.1k)](https://github.com/portiaAI/portia-sdk-python)
+*   [Callstack.ai PR Reviewer](https://callstack.ai/pr-reviewer) - Automated Code Reviews: Find Bugs, Fix Security Issues, and Speed Up Performance.
+*   [Opik](https://www.comet.com/site/products/opik/) - Evaluate, test, and ship LLM applications with a suite of observability tools to calibrate language model outputs across your dev and production lifecycle.
+*   [Kiln](https://getkiln.ai) - Intuitive app to build your own AI models. Includes no-code synthetic data generation, fine-tuning, dataset collaboration, and more.
+*   [Calmo](https://getcalmo.com/) - Debug Production x10 Faster with AI.
+*   [Cleanlab](https://help.cleanlab.ai/tlm/) - Detect and remediate hallucinations in any LLM application.
+*   [Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html?trk=fd6bb27a-13b0-4286-8269-c7b1cfaa29f0\&sc_channel=el) - CLI that provides command completion, command translation using generative AI to translate intent to commands, and a full agentic chat interface with context management that helps you write code.
+*   [Agentic Radar (⭐817)](https://github.com/splx-ai/agentic-radar) - Open-source CLI security scanner for agentic workflows.
+*   [VoltAgent (⭐4k)](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
+*   [Notte (⭐1.7k)](https://github.com/nottelabs/notte) - Notte is the fastest, most reliable Browser Using Agents framework
+*   [TensorZero](https://www.tensorzero.com/) - An open-source framework for building production-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluations, and experimentation.
+*   [ToolHive (⭐1.4k)](https://github.com/stacklok/toolhive) – Find the right MCP server for your task and deploy with one click.
+*   [StarOps](https://ingenimax.ai) - AI Platform Engineer
+*   [AgentDock](https://agentdock.ai) - Unified infrastructure for AI agents and automation. One API key for all services instead of managing dozens. Build production-ready agents without operational complexity.
+*   [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
+*   [Rysa AI](https://www.rysa.ai) - AI GTM Automation Agent
 
 ### Code / Developer tools
 
@@ -976,6 +983,10 @@
 *   [tapfmt (⭐2)](https://github.com/coreybutler/tapfmt) - Standalone cross-platform formatter.
 
 ## [32. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+
+### Software / API Testing
+
+*   [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures deep runtime context (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for E2E testing and debugging.
 
 ### Software / UI & End-to-End Testing
 
@@ -4072,6 +4083,10 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [ReqRes](https://reqresapp.com/) - Native macOS app to monitor, debug, and mock HTTP(S) requests and responses. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/OloApps/ReqRes)
 *   [Trayce](https://trayce.dev) - Lightweight tool to monitor Docker container traffic with a built-in .bru HTTP client. [![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware") ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/evanrolfe/trayce_gui)
 
+### Developer Tools / Version Control
+
+*   [GitButler](https://gitbutler.com/) - Change management with parallel and stacked branches, unlimited undo, agent integrations. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/gitbutlerapp/gitbutler) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ### Developer Tools / Virtualization
 
 *   [Podman Desktop](https://podman-desktop.io/) - Open-source graphical tool for managing containers and Kubernetes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/containers/podman-desktop) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -4124,6 +4139,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 ### Utilities / Menu Bar Tools
 
+*   [Bye AppQuit (⭐36)](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal menu bar app to quickly view and kill running processes. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/designsbymuzeer/Bye-Mac-App) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [MenuScores](https://menuscores.vercel.app/) - A menu bar app that delivers real-time sports news and scores. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/daniyalmaster693/MenuScores) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ### Utilities / General Tools
@@ -4651,6 +4667,12 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 ## [109. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
+### Software / Generative Artificial Intelligence (GenAI)
+
+*   [Agenta](https://agenta.ai/) - LLMOps platform for prompt management, LLM evaluation, and observability. Build, evaluate, and monitor production-grade LLM applications with collaborative prompt engineering. ([Source Code (⭐3.4k)](https://github.com/agenta-ai/agenta)) `MIT` `Docker`
+*   [Onyx Community Edition](https://onyx.app) - Chat UI that works with any LLM. It comes loaded with advanced features like agents, web search, RAG, MCP, deep research, Connectors to 40+ knowledge sources, and more. ([Source Code (⭐16k)](https://github.com/onyx-dot-app/onyx)) `MIT` `Docker/K8S`
+*   [TuxSEO](https://tuxseo.com/) `⚠` - Create automated blog content for your business, using AI. ([Source Code (⭐30)](https://github.com/rasulkireev/TuxSEO)) `MIT` `Python/Django/Docker`
+
 ### Software / Analytics
 
 *   [ANALOG (⭐24)](https://github.com/orangecoloured/analog) - A minimal analytics tool. Tracks events in a span of 10-30 days. `MIT` `Nodejs/Docker`
@@ -4711,11 +4733,6 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 ### Software / Genealogy
 
 *   [Genealogy](https://genealogy.kreaweb.be/) - Record family members and their relationships and build a family tree. ([Demo](https://genealogy.kreaweb.be/), [Source Code (⭐286)](https://github.com/MGeurts/genealogy)) `MIT` `PHP`
-
-### Software / Generative Artificial Intelligence (GenAI)
-
-*   [Onyx Community Edition](https://onyx.app) - Chat UI that works with any LLM. It comes loaded with advanced features like agents, web search, RAG, MCP, deep research, Connectors to 40+ knowledge sources, and more. ([Source Code (⭐16k)](https://github.com/onyx-dot-app/onyx)) `MIT` `Docker/K8S`
-*   [TuxSEO](https://tuxseo.com/) `⚠` - Create automated blog content for your business, using AI. ([Source Code (⭐30)](https://github.com/rasulkireev/TuxSEO)) `MIT` `Python/Django/Docker`
 
 ### Software / Groupware
 
@@ -4818,6 +4835,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 ### Examples
 
 *   [dsplce-co/supabase-plus (⭐58)](https://github.com/dsplce-co/supabase-plus#readme) - Well-thought-out structure. Quick summary of features in the intro. ToC. Each command's use case is explained in a relatable, entertaining language. Each command-specific section has a satisfying GIF demonstrating the feature to go with the description.
+*   [hmpl-language/hmpl (⭐832)](https://github.com/hmpl-language/hmpl#readme) - Project logo, informative badges, clear description, step-by-step installation. Usage code samples. Useful Features.
 
 ### Tools
 
@@ -6851,6 +6869,10 @@ Language: English <br>
 ### Color / Assembly
 
 *   [wsdjeg/cpicker.nvim (⭐6)](https://github.com/wsdjeg/cpicker.nvim) - A lightweight color palette plugin that supports a wide range of color models.
+
+### Colorscheme / Colorscheme Switchers
+
+*   [itsfernn/auto-gnome-theme.nvim (⭐7)](https://github.com/itsfernn/auto-gnome-theme.nvim) - Fast colorscheme switcher following GNOME system's light/dark mode (based on `gsetting monitor`).
 
 ### Media / Cursorline
 

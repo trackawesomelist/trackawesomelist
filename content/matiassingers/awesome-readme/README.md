@@ -6,6 +6,12 @@ A curated list of awesome READMEs
 
 [ Daily / [Weekly](/content/matiassingers/awesome-readme/week/README.md) / [Overview](/content/matiassingers/awesome-readme/readme/README.md) ]
 
+## [Nov 29, 2025](/content/2025/11/29/README.md)
+
+### Examples
+
+*   [hmpl-language/hmpl (⭐832)](https://github.com/hmpl-language/hmpl#readme) - Project logo, informative badges, clear description, step-by-step installation. Usage code samples. Useful Features.
+
 ## [Nov 26, 2025](/content/2025/11/26/README.md)
 
 ### Tools
@@ -395,7 +401,7 @@ A curated list of awesome READMEs
 *   [NSRare/NSGIF (⭐933)](https://github.com/NSRare/NSGIF#readme) - Project logo. GIF Demo. Usage artwork. Usage code samples.
 *   [php-censor/php-censor (⭐691)](https://github.com/php-censor/php-censor#readme) - Multiple badges, project logo, feature list, video demo, step-by-step installation and upgrading instructions, TOC for easy navigation.
 *   [rstacruz/hicat (⭐407)](https://github.com/rstacruz/hicat#readme) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
-*   [ryanoasis/nerd-fonts (⭐60k)](https://github.com/ryanoasis/nerd-fonts#readme) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
+*   [ryanoasis/nerd-fonts (⭐61k)](https://github.com/ryanoasis/nerd-fonts#readme) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
 *   [sebyddd/SDVersion (⭐1.3k)](https://github.com/sebyddd/SDVersion#readme) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
 *   [shama/gaze (⭐1.2k)](https://github.com/shama/gaze#readme) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
 *   [sindresorhus/pageres (⭐9.7k)](https://github.com/sindresorhus/pageres#readme) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.

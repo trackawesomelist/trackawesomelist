@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [wsdjeg/cpicker.nvim (⭐6)](https://github.com/wsdjeg/cpicker.nvim) - A lightweight color palette plugin that supports a wide range of color models.
 
+### Colorscheme / Colorscheme Switchers
+
+*   [itsfernn/auto-gnome-theme.nvim (⭐7)](https://github.com/itsfernn/auto-gnome-theme.nvim) - Fast colorscheme switcher following GNOME system's light/dark mode (based on `gsetting monitor`).
+
 ### Media / Cursorline
 
 *   [melMass/echo.nvim (⭐8)](https://github.com/melMass/echo.nvim) - Seamless sound integration for your editing workflow.
@@ -65,7 +69,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [Zeioth/markmap.nvim (⭐206)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
+*   [Zeioth/markmap.nvim (⭐209)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 *   [tttol/md-outline.nvim (⭐4)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 
 ### Language / Assembly
@@ -87,7 +91,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Scrollbar
 
-*   [qwavies/smart-backspace.nvim (⭐9)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
+*   [qwavies/smart-backspace.nvim (⭐19)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
 *   [ckolkey/ts-node-action (⭐372)](https://github.com/CKolkey/ts-node-action) - A framework for executing functional transformations on Tree-sitter nodes.
 
 ### Split and Window / Tmux
@@ -2259,7 +2263,7 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
 *   [Tsuzat/NeoSolarized.nvim (⭐203)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
-*   [calind/selenized.nvim (⭐25)](https://github.com/calind/selenized.nvim) - Lua port of [selenized (⭐867)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
+*   [calind/selenized.nvim (⭐25)](https://github.com/calind/selenized.nvim) - Lua port of [selenized (⭐873)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
 
 ### Split and Window / Indent
 

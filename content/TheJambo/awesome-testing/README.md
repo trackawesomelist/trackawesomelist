@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ Daily / [Weekly](/content/TheJambo/awesome-testing/week/README.md) / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Nov 29, 2025](/content/2025/11/29/README.md)
+
+### Software / API Testing
+
+*   [BitDive](https://bitdive.io/) - Zero-code API testing platform for Java/Kotlin. Captures deep runtime context (HTTP, SQL, methods), auto-generates mocks from real traffic, and enables Live Context Replay for E2E testing and debugging.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Software / UI & End-to-End Testing
