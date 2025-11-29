@@ -76,6 +76,7 @@ A curated list of Rust code and resources.
 
 ### Development tools / Workflow Automation
 
+*   [biome (⭐22k)](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
 *   [VT Code](https://crates.io/crates/vtcode) - Terminal coding agent that pairs a modern TUI with deep, semantic code understanding powered by tree-sitter and ast-grep.
 
 ### Development tools / Build system

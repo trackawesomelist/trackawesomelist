@@ -22,6 +22,7 @@ Curated list of fonts and everything
 
 ### Iconic fonts / Fonts
 
+*   [Simple Analog Clock Font (⭐7)](https://github.com/fshaxe/SimpleAnalogClockFont) - A True-Type font containing all 720 clock faces as glyphs, with multiple weights.
 *   [Teranoptia](https://www.tunera.xyz/fonts/teranoptia/) - A typeface that allows you to imagine chimeric creatures
 
 ### Programming fonts / Fonts
@@ -360,7 +361,7 @@ Curated list of fonts and everything
 *   [Codeface (⭐6.4k)](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
 *   [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
 *   [Meslo-Font (⭐2.7k)](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
-*   [Nerd Fonts (⭐60k)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+*   [Nerd Fonts (⭐61k)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 
 ### Programming fonts / Programming fonts with ligatures
 

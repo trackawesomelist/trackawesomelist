@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/TheComputerM/awesome-svelte/week/README.md) / [Overview](/content/TheComputerM/awesome-svelte/readme/README.md) ]
 
+## [Nov 29, 2025](/content/2025/11/29/README.md)
+
+### Community
+
+*   [Bluesky](https://bsky.app/profile/svelte.dev)
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### UI Libraries
@@ -278,7 +284,7 @@
 
 ### State Libraries
 
-*   [exome (⭐276)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐277)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ### UI Libraries
 
@@ -702,7 +708,7 @@
 
 ### Community
 
-*   [Twitter](https://twitter.com/sveltejs)
+*   ~~[Twitter](https://twitter.com/sveltejs)~~
 *   [Discord](https://svelte.dev/chat)
 
 ### Conferences

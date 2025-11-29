@@ -8,6 +8,10 @@
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
+### Community
+
+*   [Bluesky](https://bsky.app/profile/svelte.dev)
+
 ### UI Libraries
 
 *   [retroui-svelte](https://retroui-svelte.netlify.app) - A retro-styled component library for Svelte built on top of shadcn-svelte, offering 40+ customizable UI components for funky and playful interfaces.
@@ -267,7 +271,7 @@
 
 ### State Libraries
 
-*   [exome (⭐276)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐277)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ### UI Libraries
 
@@ -671,7 +675,7 @@
 
 ### Community
 
-*   [Twitter](https://twitter.com/sveltejs)
+*   ~~[Twitter](https://twitter.com/sveltejs)~~
 *   [Discord](https://svelte.dev/chat)
 
 ### Conferences

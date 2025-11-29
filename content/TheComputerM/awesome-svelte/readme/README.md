@@ -86,7 +86,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Community
 
-*   [Twitter](https://twitter.com/sveltejs)
+*   ~~[Twitter](https://twitter.com/sveltejs)~~
+*   [Bluesky](https://bsky.app/profile/svelte.dev)
 *   [Discord](https://svelte.dev/chat)
 *   [Reddit](https://www.reddit.com/r/sveltejs/)
 *   [Japan Discord](https://discord.com/invite/YTXq3ZtBbx) - Svelte 日本.
@@ -141,7 +142,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## State Libraries
 
 *   [svelte-asyncable (⭐170)](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
-*   [exome (⭐276)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
+*   [exome (⭐277)](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 *   [tanstack-store](https://tanstack.com/store/latest/docs/framework/svelte/quick-start) - Framework agnostic type-safe store w/ reactive framework adapters.
 *
 

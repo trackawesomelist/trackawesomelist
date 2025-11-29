@@ -132,6 +132,7 @@ A curated list of fonts and typography resources.
 *   [openwebicons](https://pfefferle.github.io/openwebicons/) - Because Font Awesome had no RSS-icon and a font with only one icon would be a bit boring
 *   [PaymentFont](https://paymentfont.com/) - A sleek webfont containing 94 icons of all main payment operators and methods
 *   [PE-Analog-Clock-icon-font (⭐301)](https://github.com/jhogue/PE-Analog-Clock-icon-font) - A set of icons for displaying a visual ("analog") representation of time stamps
+*   [Simple Analog Clock Font (⭐7)](https://github.com/fshaxe/SimpleAnalogClockFont) - A True-Type font containing all 720 clock faces as glyphs, with multiple weights.
 *   [Picon](https://yne.fr/picon) \~666 Pico-sized and ligature based icons + online font generator.
 *   [Simple Icons](https://simpleicons.org/) - 2287+ free SVG icons for popular brands
 *   [stackicons (⭐953)](https://github.com/parkerbennett/stackicons) - Icon font and Sass-based construction kit for Stackicons-Social, which supports multiple button shapes and a unique "multi-color" option in CSS for over 60 social brands
@@ -164,7 +165,7 @@ A curated list of fonts and typography resources.
 *   [Meslo-Font (⭐2.7k)](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 *   [Miracode (⭐1.1k)](https://github.com/IdreesInc/Miracode)
 *   [Mononoki](http://madmalik.github.io/mononoki/)
-*   [Nerd Fonts (⭐60k)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+*   [Nerd Fonts (⭐61k)](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 *   [Operator Mono](https://www.typography.com/fonts/operator/styles/) — A $200 premium programming typeface inspired by traditions of typewriting
 *   [Recursive Sans & Mono (⭐3.6k)](https://github.com/arrowtype/recursive/) - A variable font family for code & UI
 *   [Iconic Fonts (⭐61)](https://github.com/iconicFonts/if) - Over 50 Patched Fonts with 60,000+ Icons for Terminal, Window Managers, and More!
