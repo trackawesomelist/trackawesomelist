@@ -6,6 +6,12 @@ A collection of awesome things regarding React ecosystem
 
 [ Daily / [Weekly](/content/enaqx/awesome-react/week/README.md) / [Overview](/content/enaqx/awesome-react/readme/README.md) ]
 
+## [Nov 30, 2025](/content/2025/11/30/README.md)
+
+### React Component Libraries
+
+*   [headlessui (⭐28k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
+
 ## [Nov 28, 2025](/content/2025/11/28/README.md)
 
 ### React Component Libraries

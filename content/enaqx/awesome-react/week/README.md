@@ -11,6 +11,7 @@ A collection of awesome things regarding React ecosystem
 ### React Component Libraries
 
 *   [react-bits (⭐32k)](https://github.com/DavidHDev/react-bits) - A collection of animated, interactive & fully customizable React components
+*   [headlessui (⭐28k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
 
 ### React Awesome Components
 
