@@ -6,12 +6,44 @@ A curated list of awesome system integration software and resources.
 
 [ Daily / [Weekly](/content/stn1slv/awesome-integration/week/README.md) / [Overview](/content/stn1slv/awesome-integration/readme/README.md) ]
 
-## [Nov 24, 2025](/content/2025/11/24/README.md)
+## [Nov 30, 2025](/content/2025/11/30/README.md)
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐343) (⭐345)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
-*   [WSO2 API Manager (⭐940) (⭐941)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+*   [Gravitee.io API Management (⭐347) (⭐345)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [WSO2 API Manager (⭐943) (⭐941)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+
+### Projects / API Documentation
+
+*   [Zudoku (⭐403) (⭐397)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+
+### Projects / API Gateway
+
+*   [Gloo Edge (⭐133) (⭐134)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
+*   [Traefik API Gateway (⭐59k) (⭐59k)](https://github.com/traefik/traefik) - Combines Traefik Proxy, a fully declarative application proxy with enterprise-grade access control, distributed security, and premium integrations.
+
+### Projects / Data Integration
+
+*   [Estuary Flow (⭐850) (⭐848)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
+
+### Projects / Enterprise Service Bus
+
+*   [WSO2 Enterprise Integrator (⭐393) (⭐393)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
+
+### Projects / Message Broker
+
+*   [LavinMQ (⭐823) (⭐819)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
+
+### Projects / Self-Service Integration
+
+*   [n8n (⭐159k) (⭐158k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+
+### Projects / Workflow Engine
+
+*   [Cadence (⭐9k) (⭐9k)](https://github.com/uber/cadence) - Fault-tolerant, stateful platform that reliably orchestrates long-running workflows and complex applications.
+*   [Flowable (⭐8.9k) (⭐8.9k)](https://github.com/flowable/flowable-engine) - Compact, efficient set of open-source engines for automating and scaling enterprise workflows.
+
+## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Projects / API Design
 
@@ -30,18 +62,15 @@ A curated list of awesome system integration software and resources.
 *   [Stoplight Elements (⭐2.2k) (⭐2.3k)](https://github.com/stoplightio/elements) - Provides modular, attractive UI components for building comprehensive API reference and tutorial documentation.
 *   [Swagger UI (⭐28k) (⭐28k)](https://github.com/swagger-api/swagger-ui) - Offers an interactive, in-browser tool for visualizing and testing APIs directly from OpenAPI specifications.
 *   [SpectaQL (⭐1.2k) (⭐1.2k)](https://github.com/anvilco/spectaql) - Generates static, customizable documentation for GraphQL schemas, making complex API structures easy to understand.
-*   [Zudoku (⭐396) (⭐397)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 ### Projects / API Gateway
 
 *   [Apinto (⭐1.6k) (⭐1.6k)](https://github.com/eolinker/apinto) - A Golang-based gateway that offers dynamic routing, multi-tenancy, and robust API access control for modern architectures.
 *   [Apache ShenYu (⭐8.7k) (⭐8.7k)](https://github.com/apache/shenyu) - A Java-native gateway excelling in protocol conversion, service proxying, and comprehensive API governance.
 *   [Envoy Gateway (⭐2.2k) (⭐2.3k)](https://github.com/envoyproxy/gateway) - CNCF Envoy-based gateway with Gateway API, mTLS, JWT, and other built-ins.
-*   [Gloo Edge (⭐134) (⭐134)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
 *   [Kong API Gateway (⭐42k) (⭐42k)](https://github.com/Kong/kong) - A scalable, cloud-native gateway that simplifies API management through extensive plugin support and seamless microservices integration.
 *   [KrakenD API Gateway (⭐2.4k) (⭐2.5k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance gateway with efficient middleware configuration, robust security, and seamless scaling.
 *   [Ocelot (⭐8.6k) (⭐8.7k)](https://github.com/ThreeMammals/Ocelot) - A .NET-based gateway offering intuitive routing and easy integration for lightweight API management.
-*   [Traefik API Gateway (⭐58k) (⭐59k)](https://github.com/traefik/traefik) - Combines Traefik Proxy, a fully declarative application proxy with enterprise-grade access control, distributed security, and premium integrations.
 
 ### Projects / API Testing
 
@@ -79,17 +108,12 @@ A curated list of awesome system integration software and resources.
 
 *   [Apache NiFi (⭐5.8k) (⭐5.8k)](https://github.com/apache/nifi) - Automated data integration tool with a visual interface that seamlessly extracts, transforms, and delivers data across systems.
 *   [Airbyte (⭐20k) (⭐20k)](https://github.com/airbytehq/airbyte) - Flexible, open-source data integration platform that builds ELT pipelines to move data from diverse sources to modern destinations.
-*   [Estuary Flow (⭐846) (⭐848)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
 *   [Pentaho Data Integration (⭐8.2k) (⭐8.3k)](https://github.com/pentaho/pentaho-kettle) - Intuitive, visual ETL tool that simplifies data ingestion, blending, and cleansing across multiple sources without heavy coding.
 
 ### Projects / Data Mapping Solution
 
 *   [AtlasMap (⭐207) (⭐207)](https://github.com/atlasmap/atlasmap) - Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.
 *   [JSLT (⭐676) (⭐676)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
-
-### Projects / Enterprise Service Bus
-
-*   [WSO2 Enterprise Integrator (⭐391) (⭐393)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
 
 ### Projects / Integration Frameworks
 
@@ -107,7 +131,6 @@ A curated list of awesome system integration software and resources.
 *   [BlazingMQ (⭐3k) (⭐3.1k)](https://github.com/bloomberg/blazingmq) - Distributed message queuing system focused on efficiency and reliability for modern workflow needs.
 *   [Centrifugo (⭐9.5k) (⭐9.6k)](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server that minimizes delay in delivering events to online users.
 *   [Eclipse Mosquitto (⭐10k) (⭐10k)](https://github.com/eclipse/mosquitto) - Lightweight MQTT broker optimized for low-power devices with robust encryption and authentication.
-*   [LavinMQ (⭐817) (⭐819)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
 *   [NATS (⭐18k) (⭐19k)](https://github.com/nats-io/gnatsd) - Lightweight, high-performance messaging system ideal for microservices and cloud-native architectures.
 *   [RabbitMQ (⭐13k) (⭐13k)](https://github.com/rabbitmq/rabbitmq-server) - Popular open-source broker implementing AMQP, known for reliability, clustering, and ease-of-use.
 *   [Redpanda (⭐11k) (⭐11k)](https://github.com/vectorizedio/redpanda) - Kafka-compatible streaming platform that eliminates Zookeeper, delivering high performance and low latency.
@@ -119,18 +142,12 @@ A curated list of awesome system integration software and resources.
 *   [Robot Framework (⭐11k) (⭐11k)](https://github.com/robotframework/robotframework) - An open-source automation framework with human-friendly keyword syntax that enables both technical and non-technical users to create test scripts and automate business processes cost-effectively, supporting web, API, mobile, and database automation through extensive libraries and integrations.
 *   [TagUI (⭐6.1k) (⭐6.2k)](https://github.com/aisingapore/TagUI) - An open-source RPA tool that democratizes automation through natural language scripting in 20+ human languages, enabling non-programmers to automate web, desktop, and data tasks while integrating AI/ML capabilities via Python and R for intelligent process automation.
 
-### Projects / Self-Service Integration
-
-*   [n8n (⭐157k) (⭐158k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
-
 ### Projects / Workflow Engine
 
 *   [Apache Airflow (⭐43k) (⭐43k)](https://github.com/apache/airflow) - Platform for programmatically creating, scheduling, and monitoring workflows, ideal for managing complex data pipelines.
 *   [Argo Workflows (⭐16k) (⭐16k)](https://github.com/argoproj/argo-workflows) - Container-native workflow engine designed for orchestrating parallel jobs in Kubernetes-based, cloud-native environments.
 *   [Bonita (⭐169) (⭐169)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
-*   [Cadence (⭐8.9k) (⭐9k)](https://github.com/uber/cadence) - Fault-tolerant, stateful platform that reliably orchestrates long-running workflows and complex applications.
 *   [Elsa Core (⭐7.4k) (⭐7.5k)](https://github.com/elsa-workflows/elsa-core) - .NET Core library that integrates seamlessly into any application to execute and manage workflows.
-*   [Flowable (⭐8.8k) (⭐8.9k)](https://github.com/flowable/flowable-engine) - Compact, efficient set of open-source engines for automating and scaling enterprise workflows.
 *   [jBPM (⭐1.7k) (⭐1.7k)](https://github.com/kiegroup/jbpm) - Comprehensive toolkit for automating business processes and decisions with robust workflow management capabilities.
 *   [Prefect (⭐20k) (⭐21k)](https://github.com/PrefectHQ/prefect) - Modern, developer-friendly orchestration tool optimized for data pipelines and complex workflows.
 *   [StackStorm (⭐6.3k) (⭐6.4k)](https://github.com/StackStorm/st2) - Robust automation engine that combines sensors, triggers, and workflows to orchestrate complex IT processes.
@@ -270,7 +287,7 @@ A curated list of awesome system integration software and resources.
     *   [Imposter (⭐397) (⭐397)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
     *   [Microcks (⭐1.7k) (⭐1.8k)](https://github.com/microcks/microcks) - A Kubernetes-native tool for API mocking and testing that supports AsyncAPI, OpenAPI, and Postman Collections.
     *   [Mockable](https://www.mockable.io/) - An easy-to-configure service for creating custom HTTP responses, ideal for rapid prototyping and testing.
-    *   [Mockbin (⭐127) (⭐128)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
+    *   [Mockbin (⭐128) (⭐128)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
     *   [Mockoon (⭐7.8k) (⭐7.9k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
     *   [MockServer (⭐4.8k) (⭐4.8k)](https://github.com/mock-server/mockserver) - A powerful solution for mocking any HTTP/HTTPS-based service, streamlining integration testing.
     *   [Mocky (⭐2k) (⭐2.1k)](https://github.com/MockyAbstract/Mocky) - A free online service that generates custom HTTP responses for testing API endpoints.
@@ -405,8 +422,8 @@ A curated list of awesome system integration software and resources.
 
 *   API clients
     *   [Advanced REST Client (⭐1.4k) (⭐1.5k)](https://github.com/advanced-rest-client/arc-electron) - A robust open-source API client for testing and debugging RESTful services with an intuitive interface.
-    *   [Bruno (⭐38k) (⭐39k)](https://github.com/usebruno/bruno) - A fast, offline API client designed for git-friendly workflows and seamless testing.
-    *   [curl (⭐39k) (⭐40k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
+    *   [Bruno (⭐39k) (⭐39k)](https://github.com/usebruno/bruno) - A fast, offline API client designed for git-friendly workflows and seamless testing.
+    *   [curl (⭐40k) (⭐40k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
     *   [curlie (⭐3.5k) (⭐3.5k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
     *   [gRPC UI (⭐5.7k) (⭐5.8k)](https://github.com/fullstorydev/grpcui) - An interactive web-based tool for gRPC APIs, providing a browser-based interface for testing and exploring gRPC services with dynamic form generation.
     *   [HTTPie (⭐37k) (⭐37k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.

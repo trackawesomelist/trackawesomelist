@@ -52,6 +52,43 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Brida (⭐1.8k)](https://github.com/federicodotta/Brida) - Burp Suite extension that, working as a bridge between Burp and Frida, lets you use and manipulate applications' own methods while tampering the traffic exchanged between the applications and their back-end services.
 
+#### [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+
+##### Projects / API Management
+
+*   [Gravitee.io API Management (⭐347) (⭐345)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [WSO2 API Manager (⭐943) (⭐941)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+
+##### Projects / API Documentation
+
+*   [Zudoku (⭐403) (⭐397)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+
+##### Projects / API Gateway
+
+*   [Gloo Edge (⭐133) (⭐134)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
+*   [Traefik API Gateway (⭐59k) (⭐59k)](https://github.com/traefik/traefik) - Combines Traefik Proxy, a fully declarative application proxy with enterprise-grade access control, distributed security, and premium integrations.
+
+##### Projects / Data Integration
+
+*   [Estuary Flow (⭐850) (⭐848)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
+
+##### Projects / Enterprise Service Bus
+
+*   [WSO2 Enterprise Integrator (⭐393) (⭐393)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
+
+##### Projects / Message Broker
+
+*   [LavinMQ (⭐823) (⭐819)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
+
+##### Projects / Self-Service Integration
+
+*   [n8n (⭐159k) (⭐158k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+
+##### Projects / Workflow Engine
+
+*   [Cadence (⭐9k) (⭐9k)](https://github.com/uber/cadence) - Fault-tolerant, stateful platform that reliably orchestrates long-running workflows and complex applications.
+*   [Flowable (⭐8.9k) (⭐8.9k)](https://github.com/flowable/flowable-engine) - Compact, efficient set of open-source engines for automating and scaling enterprise workflows.
+
 ### [Nov 29, 2025](/content/2025/11/29/README.md)
 
 
@@ -256,7 +293,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fastapi](/content/mjhea0/awesome-fastapi/README.md) - ([Source ⭐ 11K, 📝 10&#x2F;28 ](https://github.com/mjhea0/awesome-fastapi)) - A curated list of awesome things related to FastAPI
 - [Awesome Fiber](/content/gofiber/awesome-fiber/README.md) - ([Source ⭐ 738, 📝 11&#x2F;06 ](https://github.com/gofiber/awesome-fiber)) - ✨ A curated list of awesome Fiber middlewares, boilerplates, recipes, articles and tools.
 - [Awesome Flask](/content/mjhea0/awesome-flask/README.md) - ([Source ⭐ 1.7K, 📝 10&#x2F;28 ](https://github.com/mjhea0/awesome-flask)) - A curated list of awesome things related to Flask
-- [Awesome Iam](/content/kdeldycke/awesome-iam/README.md) - ([Source ⭐ 2K, 📝 08&#x2F;10 ](https://github.com/kdeldycke/awesome-iam)) - 👤 Identity and Access Management knowledge for cloud platforms
+- [Awesome Iam](/content/kdeldycke/awesome-iam/README.md) - ([Source ⭐ 2.1K, 📝 08&#x2F;10 ](https://github.com/kdeldycke/awesome-iam)) - 👤 Identity and Access Management knowledge for cloud platforms
 - [Awesome Laravel](/content/chiraggude/awesome-laravel/README.md) - ([Source ⭐ 11K, 📝 20&#x2F;05&#x2F;08 ](https://github.com/chiraggude/awesome-laravel)) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
 - [Awesome Laravel Education](/content/fukuball/Awesome-Laravel-Education/README.md) - ([Source ⭐ 356, 📝 19&#x2F;04&#x2F;02 ](https://github.com/fukuball/Awesome-Laravel-Education)) - A curated list of resources for learning about the Laravel PHP Framework
 - [Awesome Laravel Filament](/content/lightszentip/awesome-laravel-filament/README.md) - ([Source ⭐ 0, 📝 24&#x2F;09&#x2F;08 ](https://github.com/lightszentip/awesome-laravel-filament)) - A list for the topic laravel and filament
@@ -847,7 +884,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Heroku](/content/ianstormtaylor/awesome-heroku/README.md) - ([Source ⭐ 280, 📝 19&#x2F;06&#x2F;29 ](https://github.com/ianstormtaylor/awesome-heroku)) - A curated list of helpful Heroku resources.
 - [Awesome Home Assistant](/content/frenck/awesome-home-assistant/README.md) - ([Source ⭐ 4.1K, 📝 22&#x2F;06&#x2F;21 ](https://github.com/frenck/awesome-home-assistant)) - A curated list of amazingly awesome Home Assistant resources.
 - [Awesome Ibmcloud](/content/victorshinya/awesome-ibmcloud/README.md) - ([Source ⭐ 74, 📝 20&#x2F;09&#x2F;14 ](https://github.com/victorshinya/awesome-ibmcloud)) - A curated list of awesome IBM Cloud SDKs, open source repositories, tools, blogs and other resources.
-- [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 492, 📝 11&#x2F;24 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
+- [Awesome Integration](/content/stn1slv/awesome-integration/README.md) - ([Source ⭐ 492, 📝 11&#x2F;30 ](https://github.com/stn1slv/awesome-integration)) - A curated list of awesome system integration software and resources.
 - [Awesome Ios](/content/vsouza/awesome-ios/README.md) - ([Source ⭐ 50K, 📝 11&#x2F;24 ](https://github.com/vsouza/awesome-ios)) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
 - [Awesome IoT Hybrid](/content/weblancaster/awesome-IoT-hybrid/README.md) - ([Source ⭐ 487, 📝 19&#x2F;09&#x2F;10 ](https://github.com/weblancaster/awesome-IoT-hybrid)) - The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 - [Awesome Ipfs](/content/ipfs/awesome-ipfs/README.md) - ([Source ⭐ 4.5K, 📝 11&#x2F;24 ](https://github.com/ipfs/awesome-ipfs)) - Community list of awesome projects, apps, tools, pinning services and more related to IPFS.

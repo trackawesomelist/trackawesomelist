@@ -2390,8 +2390,8 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 ### Projects / API Management
 
-*   [Gravitee.io API Management (⭐343) (⭐345)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
-*   [WSO2 API Manager (⭐940) (⭐941)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+*   [Gravitee.io API Management (⭐347) (⭐345)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [WSO2 API Manager (⭐943) (⭐941)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
 
 ### Projects / API Design
 
@@ -2410,18 +2410,18 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [Stoplight Elements (⭐2.2k) (⭐2.3k)](https://github.com/stoplightio/elements) - Provides modular, attractive UI components for building comprehensive API reference and tutorial documentation.
 *   [Swagger UI (⭐28k) (⭐28k)](https://github.com/swagger-api/swagger-ui) - Offers an interactive, in-browser tool for visualizing and testing APIs directly from OpenAPI specifications.
 *   [SpectaQL (⭐1.2k) (⭐1.2k)](https://github.com/anvilco/spectaql) - Generates static, customizable documentation for GraphQL schemas, making complex API structures easy to understand.
-*   [Zudoku (⭐396) (⭐397)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+*   [Zudoku (⭐403) (⭐397)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 ### Projects / API Gateway
 
 *   [Apinto (⭐1.6k) (⭐1.6k)](https://github.com/eolinker/apinto) - A Golang-based gateway that offers dynamic routing, multi-tenancy, and robust API access control for modern architectures.
 *   [Apache ShenYu (⭐8.7k) (⭐8.7k)](https://github.com/apache/shenyu) - A Java-native gateway excelling in protocol conversion, service proxying, and comprehensive API governance.
 *   [Envoy Gateway (⭐2.2k) (⭐2.3k)](https://github.com/envoyproxy/gateway) - CNCF Envoy-based gateway with Gateway API, mTLS, JWT, and other built-ins.
-*   [Gloo Edge (⭐134) (⭐134)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
+*   [Gloo Edge (⭐133) (⭐134)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
 *   [Kong API Gateway (⭐42k) (⭐42k)](https://github.com/Kong/kong) - A scalable, cloud-native gateway that simplifies API management through extensive plugin support and seamless microservices integration.
 *   [KrakenD API Gateway (⭐2.4k) (⭐2.5k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance gateway with efficient middleware configuration, robust security, and seamless scaling.
 *   [Ocelot (⭐8.6k) (⭐8.7k)](https://github.com/ThreeMammals/Ocelot) - A .NET-based gateway offering intuitive routing and easy integration for lightweight API management.
-*   [Traefik API Gateway (⭐58k) (⭐59k)](https://github.com/traefik/traefik) - Combines Traefik Proxy, a fully declarative application proxy with enterprise-grade access control, distributed security, and premium integrations.
+*   [Traefik API Gateway (⭐59k) (⭐59k)](https://github.com/traefik/traefik) - Combines Traefik Proxy, a fully declarative application proxy with enterprise-grade access control, distributed security, and premium integrations.
 
 ### Projects / API Testing
 
@@ -2459,7 +2459,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 *   [Apache NiFi (⭐5.8k) (⭐5.8k)](https://github.com/apache/nifi) - Automated data integration tool with a visual interface that seamlessly extracts, transforms, and delivers data across systems.
 *   [Airbyte (⭐20k) (⭐20k)](https://github.com/airbytehq/airbyte) - Flexible, open-source data integration platform that builds ELT pipelines to move data from diverse sources to modern destinations.
-*   [Estuary Flow (⭐846) (⭐848)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
+*   [Estuary Flow (⭐850) (⭐848)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
 *   [Pentaho Data Integration (⭐8.2k) (⭐8.3k)](https://github.com/pentaho/pentaho-kettle) - Intuitive, visual ETL tool that simplifies data ingestion, blending, and cleansing across multiple sources without heavy coding.
 
 ### Projects / Data Mapping Solution
@@ -2469,7 +2469,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 ### Projects / Enterprise Service Bus
 
-*   [WSO2 Enterprise Integrator (⭐391) (⭐393)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
+*   [WSO2 Enterprise Integrator (⭐393) (⭐393)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
 
 ### Projects / Integration Frameworks
 
@@ -2487,7 +2487,7 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 *   [BlazingMQ (⭐3k) (⭐3.1k)](https://github.com/bloomberg/blazingmq) - Distributed message queuing system focused on efficiency and reliability for modern workflow needs.
 *   [Centrifugo (⭐9.5k) (⭐9.6k)](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server that minimizes delay in delivering events to online users.
 *   [Eclipse Mosquitto (⭐10k) (⭐10k)](https://github.com/eclipse/mosquitto) - Lightweight MQTT broker optimized for low-power devices with robust encryption and authentication.
-*   [LavinMQ (⭐817) (⭐819)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
+*   [LavinMQ (⭐823) (⭐819)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
 *   [NATS (⭐18k) (⭐19k)](https://github.com/nats-io/gnatsd) - Lightweight, high-performance messaging system ideal for microservices and cloud-native architectures.
 *   [RabbitMQ (⭐13k) (⭐13k)](https://github.com/rabbitmq/rabbitmq-server) - Popular open-source broker implementing AMQP, known for reliability, clustering, and ease-of-use.
 *   [Redpanda (⭐11k) (⭐11k)](https://github.com/vectorizedio/redpanda) - Kafka-compatible streaming platform that eliminates Zookeeper, delivering high performance and low latency.
@@ -2501,16 +2501,16 @@ Webpage: <https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASC
 
 ### Projects / Self-Service Integration
 
-*   [n8n (⭐157k) (⭐158k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+*   [n8n (⭐159k) (⭐158k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
 
 ### Projects / Workflow Engine
 
 *   [Apache Airflow (⭐43k) (⭐43k)](https://github.com/apache/airflow) - Platform for programmatically creating, scheduling, and monitoring workflows, ideal for managing complex data pipelines.
 *   [Argo Workflows (⭐16k) (⭐16k)](https://github.com/argoproj/argo-workflows) - Container-native workflow engine designed for orchestrating parallel jobs in Kubernetes-based, cloud-native environments.
 *   [Bonita (⭐169) (⭐169)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
-*   [Cadence (⭐8.9k) (⭐9k)](https://github.com/uber/cadence) - Fault-tolerant, stateful platform that reliably orchestrates long-running workflows and complex applications.
+*   [Cadence (⭐9k) (⭐9k)](https://github.com/uber/cadence) - Fault-tolerant, stateful platform that reliably orchestrates long-running workflows and complex applications.
 *   [Elsa Core (⭐7.4k) (⭐7.5k)](https://github.com/elsa-workflows/elsa-core) - .NET Core library that integrates seamlessly into any application to execute and manage workflows.
-*   [Flowable (⭐8.8k) (⭐8.9k)](https://github.com/flowable/flowable-engine) - Compact, efficient set of open-source engines for automating and scaling enterprise workflows.
+*   [Flowable (⭐8.9k) (⭐8.9k)](https://github.com/flowable/flowable-engine) - Compact, efficient set of open-source engines for automating and scaling enterprise workflows.
 *   [jBPM (⭐1.7k) (⭐1.7k)](https://github.com/kiegroup/jbpm) - Comprehensive toolkit for automating business processes and decisions with robust workflow management capabilities.
 *   [Prefect (⭐20k) (⭐21k)](https://github.com/PrefectHQ/prefect) - Modern, developer-friendly orchestration tool optimized for data pipelines and complex workflows.
 *   [StackStorm (⭐6.3k) (⭐6.4k)](https://github.com/StackStorm/st2) - Robust automation engine that combines sensors, triggers, and workflows to orchestrate complex IT processes.
@@ -5762,74 +5762,74 @@ Language: English <br>
 
 ### Actor Model
 
-*   [ergo-services/ergo (⭐4.3k)](https://github.com/ergo-services/ergo) — An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies. ☆`4,274`
+*   [ergo-services/ergo (⭐4.3k)](https://github.com/ergo-services/ergo) — An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies. ☆`4,275`
 *   [anthdm/hollywood (⭐2.1k)](https://github.com/anthdm/hollywood) — Blazingly fast and light-weight Actor engine written in Golang ☆`2,107`
-*   [Tochemey/goakt (⭐300)](https://github.com/Tochemey/goakt) — \[Go] Distributed Actor/Grain framework using protocol buffers as message for Golang ☆`302`
+*   [Tochemey/goakt (⭐300)](https://github.com/Tochemey/goakt) — \[Go] Distributed Actor/Grain framework using protocol buffers as message for Golang ☆`300`
 
 ### Artificial Intelligence
 
-*   [ollama/ollama (⭐156k)](https://github.com/ollama/ollama) — Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. ☆`156,721`
-*   [mudler/LocalAI (⭐39k)](https://github.com/mudler/LocalAI) — The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference ☆`39,344`
-*   [tmc/langchaingo (⭐8.1k)](https://github.com/tmc/langchaingo) — LangChain for Go, the easiest way to write LLM-based programs in Go ☆`8,105`
-*   [maximhq/bifrost (⭐1.2k)](https://github.com/maximhq/bifrost) — Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS. ☆`1,185`
-*   [philippgille/chromem-go (⭐782)](https://github.com/philippgille/chromem-go) — Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. ☆`785`
+*   [ollama/ollama (⭐156k)](https://github.com/ollama/ollama) — Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. ☆`156,771`
+*   [mudler/LocalAI (⭐39k)](https://github.com/mudler/LocalAI) — The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference ☆`39,423`
+*   [tmc/langchaingo (⭐8.1k)](https://github.com/tmc/langchaingo) — LangChain for Go, the easiest way to write LLM-based programs in Go ☆`8,117`
+*   [maximhq/bifrost (⭐1.2k)](https://github.com/maximhq/bifrost) — Fastest LLM gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS. ☆`1,193`
+*   [philippgille/chromem-go (⭐782)](https://github.com/philippgille/chromem-go) — Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence. ☆`786`
 
 ### Audio and Music
 
-*   [ebitengine/oto (⭐1.8k)](https://github.com/ebitengine/oto) — A low-level library to play sound on multiple platforms ☆`1,823`
+*   [ebitengine/oto (⭐1.8k)](https://github.com/ebitengine/oto) — A low-level library to play sound on multiple platforms ☆`1,824`
 
 ### Authentication and OAuth
 
-*   [casbin/casbin (⭐19k)](https://github.com/casbin/casbin) — An authorization library that supports access control models like ACL, RBAC, ABAC in Golang ☆`19,456`
-*   [golang-jwt/jwt (⭐8.7k)](https://github.com/golang-jwt/jwt) — Go implementation of JSON Web Tokens (JWT). ☆`8,719`
-*   [markbates/goth (⭐6.3k)](https://github.com/markbates/goth) — Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. ☆`6,350`
-*   [golang/oauth2 (⭐5.8k)](https://github.com/golang/oauth2) — Go OAuth2 ☆`5,762`
-*   [ory/keto (⭐5.2k)](https://github.com/ory/keto) — The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. ☆`5,198`
-*   [openfga/openfga (⭐4.4k)](https://github.com/openfga/openfga) — A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar ☆`4,462`
-*   [aarondl/authboss (⭐4.1k)](https://github.com/aarondl/authboss) — The boss of http auth. ☆`4,113`
-*   [alexedwards/scs (⭐2.5k)](https://github.com/alexedwards/scs) — HTTP Session Management for Go ☆`2,474`
+*   [casbin/casbin (⭐19k)](https://github.com/casbin/casbin) — An authorization library that supports access control models like ACL, RBAC, ABAC in Golang ☆`19,458`
+*   [golang-jwt/jwt (⭐8.7k)](https://github.com/golang-jwt/jwt) — Go implementation of JSON Web Tokens (JWT). ☆`8,721`
+*   [markbates/goth (⭐6.3k)](https://github.com/markbates/goth) — Package goth provides a simple, clean, and idiomatic way to write authentication packages for Go web applications. ☆`6,354`
+*   [golang/oauth2 (⭐5.8k)](https://github.com/golang/oauth2) — Go OAuth2 ☆`5,763`
+*   [ory/keto (⭐5.2k)](https://github.com/ory/keto) — The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters. ☆`5,199`
+*   [openfga/openfga (⭐4.4k)](https://github.com/openfga/openfga) — A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar ☆`4,463`
+*   [aarondl/authboss (⭐4.1k)](https://github.com/aarondl/authboss) — The boss of http auth. ☆`4,114`
+*   [alexedwards/scs (⭐2.5k)](https://github.com/alexedwards/scs) — HTTP Session Management for Go ☆`2,476`
 *   [lestrrat-go/jwx (⭐2.3k)](https://github.com/lestrrat-go/jwx) — Complete implementation of JWx (Javascript Object Signing and Encryption/JOSE) technologies for Go ☆`2,266`
 *   [zitadel/oidc (⭐1.7k)](https://github.com/zitadel/oidc) — Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation ☆`1,715`
 *   [abraithwaite/jeff (⭐270)](https://github.com/abraithwaite/jeff) — Jeff provides the simplest way to manage web sessions in Go. ☆`270`
 
 ### Blockchain
 
-*   [ethereum/go-ethereum (⭐50k)](https://github.com/ethereum/go-ethereum) — Go implementation of the Ethereum protocol ☆`50,381`
-*   [ipfs/kubo (⭐17k)](https://github.com/ipfs/kubo) — An IPFS implementation in Go ☆`16,824`
-*   [cosmos/cosmos-sdk (⭐6.9k)](https://github.com/cosmos/cosmos-sdk) — A Framework for Building High Value Public Blockchains ☆`6,853`
-*   [gagliardetto/solana-go (⭐1.5k)](https://github.com/gagliardetto/solana-go) — Go SDK library and RPC client for the Solana Blockchain ☆`1,478`
+*   [ethereum/go-ethereum (⭐50k)](https://github.com/ethereum/go-ethereum) — Go implementation of the Ethereum protocol ☆`50,386`
+*   [ipfs/kubo (⭐17k)](https://github.com/ipfs/kubo) — An IPFS implementation in Go ☆`16,827`
+*   [cosmos/cosmos-sdk (⭐6.9k)](https://github.com/cosmos/cosmos-sdk) — A Framework for Building High Value Public Blockchains ☆`6,854`
+*   [gagliardetto/solana-go (⭐1.5k)](https://github.com/gagliardetto/solana-go) — Go SDK library and RPC client for the Solana Blockchain ☆`1,480`
 
 ### Bot Building
 
-*   [tucnak/telebot (⭐4.5k)](https://github.com/tucnak/telebot) — Telebot is a Telegram bot framework in Go. ☆`4,491`
-*   [go-telegram/bot (⭐1.5k)](https://github.com/go-telegram/bot) — Telegram Bot API Go framework ☆`1,469`
-*   [mymmrac/telego (⭐823)](https://github.com/mymmrac/telego) — Telegram Bot API library for Go ☆`826`
+*   [tucnak/telebot (⭐4.5k)](https://github.com/tucnak/telebot) — Telebot is a Telegram bot framework in Go. ☆`4,494`
+*   [go-telegram/bot (⭐1.5k)](https://github.com/go-telegram/bot) — Telegram Bot API Go framework ☆`1,471`
+*   [mymmrac/telego (⭐823)](https://github.com/mymmrac/telego) — Telegram Bot API library for Go ☆`829`
 
 ### Build Automation
 
-*   [air-verse/air (⭐22k)](https://github.com/air-verse/air) — Live reload for Go apps ☆`22,331`
-*   [go-task/task (⭐14k)](https://github.com/go-task/task) — A task runner / simpler Make alternative written in Go ☆`14,284`
+*   [air-verse/air (⭐22k)](https://github.com/air-verse/air) — Live reload for Go apps ☆`22,336`
+*   [go-task/task (⭐14k)](https://github.com/go-task/task) — A task runner / simpler Make alternative written in Go ☆`14,285`
 
 ### Code Analysis
 
-*   [golangci/golangci-lint (⭐18k)](https://github.com/golangci/golangci-lint) — Fast linters runner for Go ☆`18,058`
-*   [mgechev/revive (⭐5.3k)](https://github.com/mgechev/revive) — \~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint ☆`5,353`
-*   [segmentio/golines (⭐1.1k)](https://github.com/segmentio/golines) — A golang formatter that fixes long lines ☆`1,132`
+*   [golangci/golangci-lint (⭐18k)](https://github.com/golangci/golangci-lint) — Fast linters runner for Go ☆`18,065`
+*   [mgechev/revive (⭐5.3k)](https://github.com/mgechev/revive) — \~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint ☆`5,357`
+*   [segmentio/golines (⭐1.1k)](https://github.com/segmentio/golines) — A golang formatter that fixes long lines ☆`1,133`
 
 ### Command Line / Advanced Console UIs
 
-*   [charmbracelet/bubbletea (⭐37k)](https://github.com/charmbracelet/bubbletea) — A powerful little TUI framework ☆`36,901`
-*   [antonmedv/fx (⭐20k)](https://github.com/antonmedv/fx) — Terminal JSON viewer & processor ☆`20,005`
-*   [gizak/termui (⭐13k)](https://github.com/gizak/termui) — Golang terminal dashboard ☆`13,472`
-*   [charmbracelet/lipgloss (⭐10k)](https://github.com/charmbracelet/lipgloss) — Style definitions for nice terminal layouts ☆`10,070`
-*   [charmbracelet/bubbles (⭐7.3k)](https://github.com/charmbracelet/bubbles) — TUI components for Bubble Tea ☆`7,289`
-*   [schollz/progressbar (⭐4.6k)](https://github.com/schollz/progressbar) — A really basic thread-safe progress bar for Golang applications ☆`4,592`
-*   [guptarohit/asciigraph (⭐2.9k)](https://github.com/guptarohit/asciigraph) — make lightweight ASCII line graph in command line apps with no other dependencies ☆`2,923`
-*   [briandowns/spinner (⭐2.5k)](https://github.com/briandowns/spinner) — Go (golang) package with 90 configurable terminal spinner/progress indicators. ☆`2,483`
+*   [charmbracelet/bubbletea (⭐37k)](https://github.com/charmbracelet/bubbletea) — A powerful little TUI framework ☆`36,919`
+*   [antonmedv/fx (⭐20k)](https://github.com/antonmedv/fx) — Terminal JSON viewer & processor ☆`20,009`
+*   [gizak/termui (⭐13k)](https://github.com/gizak/termui) — Golang terminal dashboard ☆`13,471`
+*   [charmbracelet/lipgloss (⭐10k)](https://github.com/charmbracelet/lipgloss) — Style definitions for nice terminal layouts ☆`10,073`
+*   [charmbracelet/bubbles (⭐7.3k)](https://github.com/charmbracelet/bubbles) — TUI components for Bubble Tea ☆`7,292`
+*   [schollz/progressbar (⭐4.6k)](https://github.com/schollz/progressbar) — A really basic thread-safe progress bar for Golang applications ☆`4,596`
+*   [guptarohit/asciigraph (⭐2.9k)](https://github.com/guptarohit/asciigraph) — make lightweight ASCII line graph in command line apps with no other dependencies ☆`2,925`
+*   [briandowns/spinner (⭐2.5k)](https://github.com/briandowns/spinner) — Go (golang) package with 90 configurable terminal spinner/progress indicators. ☆`2,487`
 
 ### Command Line / Standard CLI
 
-*   [spf13/cobra (⭐42k)](https://github.com/spf13/cobra) — A Commander for modern Go CLI interactions ☆`42,499`
+*   [spf13/cobra (⭐42k)](https://github.com/spf13/cobra) — A Commander for modern Go CLI interactions ☆`42,511`
 *   [elves/elvish (⭐6.2k)](https://github.com/elves/elvish) — Powerful scripting language & versatile interactive shell ☆`6,174`
 *   [alecthomas/kingpin (⭐3.6k)](https://github.com/alecthomas/kingpin) — A Go command line and flag parser ☆`3,558`
 *   [carapace-sh/carapace-bin (⭐1.6k)](https://github.com/carapace-sh/carapace-bin) — A multi-shell completion binary. ☆`1,599`
@@ -5837,28 +5837,28 @@ Language: English <br>
 
 ### Configuration / Standard CLI
 
-*   [spf13/viper (⭐30k)](https://github.com/spf13/viper) — Go configuration with fangs ☆`29,620`
+*   [spf13/viper (⭐30k)](https://github.com/spf13/viper) — Go configuration with fangs ☆`29,626`
 *   [bytedance/sonic (⭐8.9k)](https://github.com/bytedance/sonic) — A blazingly fast JSON serializing & deserializing library ☆`8,877`
-*   [caarlos0/env (⭐5.9k)](https://github.com/caarlos0/env) — A simple, zero-dependencies library to parse environment variables into structs ☆`5,865`
+*   [caarlos0/env (⭐5.9k)](https://github.com/caarlos0/env) — A simple, zero-dependencies library to parse environment variables into structs ☆`5,868`
 *   [knadh/koanf (⭐3.6k)](https://github.com/knadh/koanf) — Simple, extremely lightweight, extensible, configuration management library for Go. Supports JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. ☆`3,644`
-*   [alecthomas/kong (⭐2.9k)](https://github.com/alecthomas/kong) — Kong is a command-line parser for Go ☆`2,864`
-*   [ilyakaznacheev/cleanenv (⭐2k)](https://github.com/ilyakaznacheev/cleanenv) — Clean and minimalistic environment configuration reader for Golang ☆`1,995`
+*   [alecthomas/kong (⭐2.9k)](https://github.com/alecthomas/kong) — Kong is a command-line parser for Go ☆`2,865`
+*   [ilyakaznacheev/cleanenv (⭐2k)](https://github.com/ilyakaznacheev/cleanenv) — Clean and minimalistic environment configuration reader for Golang ☆`1,996`
 *   [adrg/xdg (⭐923)](https://github.com/adrg/xdg) — Go implementation of the XDG Base Directory Specification and XDG user directories ☆`925`
 
 ### Continuous Integration / Standard CLI
 
-*   [harness/harness (⭐34k)](https://github.com/harness/harness) — Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. ☆`33,649`
-*   [woodpecker-ci/woodpecker (⭐5.7k)](https://github.com/woodpecker-ci/woodpecker) — Woodpecker is a simple, yet powerful CI/CD engine with great extensibility. ☆`5,769`
+*   [harness/harness (⭐34k)](https://github.com/harness/harness) — Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. ☆`33,657`
+*   [woodpecker-ci/woodpecker (⭐5.7k)](https://github.com/woodpecker-ci/woodpecker) — Woodpecker is a simple, yet powerful CI/CD engine with great extensibility. ☆`5,774`
 *   [ovh/cds (⭐4.8k)](https://github.com/ovh/cds) — Enterprise-Grade Continuous Delivery & DevOps Automation Open Source Platform ☆`4,785`
 *   [vladopajic/go-test-coverage (⭐198)](https://github.com/vladopajic/go-test-coverage) — go-test-coverage is a tool designed to report issues when test coverage falls below a specified threshold ☆`198`
 
 ### CSS Preprocessors / Standard CLI
 
-*   [napsy/go-css (⭐86)](https://github.com/napsy/go-css) — A very simple CSS parser, written in Go ☆`86`
+*   [napsy/go-css (⭐86)](https://github.com/napsy/go-css) — A very simple CSS parser, written in Go ☆`87`
 
 ### Data Integration Frameworks / Standard CLI
 
-*   [redpanda-data/connect (⭐8.5k)](https://github.com/redpanda-data/connect) — Fancy stream processing made operationally mundane ☆`8,516`
+*   [redpanda-data/connect (⭐8.5k)](https://github.com/redpanda-data/connect) — Fancy stream processing made operationally mundane ☆`8,517`
 *   [jf-tech/omniparser (⭐1.1k)](https://github.com/jf-tech/omniparser) — omniparser: a native Golang ETL streaming parser and transform library for CSV, JSON, XML, EDI, text, etc. ☆`1,072`
 
 ### Data Structures and Algorithms / Bit Sets
@@ -5867,7 +5867,7 @@ Language: English <br>
 
 ### Data Structures and Algorithms / Bloom and Cuckoo Filters
 
-*   [bits-and-blooms/bloom (⭐2.7k)](https://github.com/bits-and-blooms/bloom) — Go package implementing Bloom filters, used by Milvus and Beego. ☆`2,701`
+*   [bits-and-blooms/bloom (⭐2.7k)](https://github.com/bits-and-blooms/bloom) — Go package implementing Bloom filters, used by Milvus and Beego. ☆`2,702`
 
 ### Data Structures and Algorithms / Data Structure and Algorithm Collections
 
@@ -5879,57 +5879,57 @@ Language: English <br>
 
 ### Data Structures and Algorithms / Queues
 
-*   [hatchet-dev/hatchet (⭐6.2k)](https://github.com/hatchet-dev/hatchet) — Run Background Tasks at Scale ☆`6,248`
+*   [hatchet-dev/hatchet (⭐6.2k)](https://github.com/hatchet-dev/hatchet) — Run Background Tasks at Scale ☆`6,250`
 *   [adrianbrad/queue (⭐322)](https://github.com/adrianbrad/queue) — Go package providing multiple queue implementations. Developed in a thread-safe generic way. ☆`323`
 
 ### Data Structures and Algorithms / Text Analysis
 
-*   [blevesearch/bleve (⭐11k)](https://github.com/blevesearch/bleve) — A modern text/numeric/geo-spatial/vector indexing library for go ☆`10,794`
+*   [blevesearch/bleve (⭐11k)](https://github.com/blevesearch/bleve) — A modern text/numeric/geo-spatial/vector indexing library for go ☆`10,798`
 
 ### Database / Caches
 
-*   [VictoriaMetrics/fastcache (⭐2.3k)](https://github.com/VictoriaMetrics/fastcache) — Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead ☆`2,300`
+*   [VictoriaMetrics/fastcache (⭐2.3k)](https://github.com/VictoriaMetrics/fastcache) — Fast thread-safe inmemory cache for big number of entries in Go. Minimizes GC overhead ☆`2,299`
 
 ### Database / Database Schema Migration
 
-*   [golang-migrate/migrate (⭐18k)](https://github.com/golang-migrate/migrate) — Database migrations. CLI and Golang library. ☆`17,736`
-*   [bytebase/bytebase (⭐13k)](https://github.com/bytebase/bytebase) — World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps. ☆`13,370`
-*   [pressly/goose (⭐9.5k)](https://github.com/pressly/goose) — A database migration tool. Supports SQL migrations and Go functions. ☆`9,544`
-*   [ariga/atlas (⭐7.6k)](https://github.com/ariga/atlas) — Manage your database schema as code ☆`7,612`
-*   [amacneil/dbmate (⭐6.5k)](https://github.com/amacneil/dbmate) — A lightweight, framework-agnostic database migration tool. ☆`6,515`
+*   [golang-migrate/migrate (⭐18k)](https://github.com/golang-migrate/migrate) — Database migrations. CLI and Golang library. ☆`17,740`
+*   [bytebase/bytebase (⭐13k)](https://github.com/bytebase/bytebase) — World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps. ☆`13,373`
+*   [pressly/goose (⭐9.5k)](https://github.com/pressly/goose) — A database migration tool. Supports SQL migrations and Go functions. ☆`9,549`
+*   [ariga/atlas (⭐7.6k)](https://github.com/ariga/atlas) — Manage your database schema as code ☆`7,651`
+*   [amacneil/dbmate (⭐6.5k)](https://github.com/amacneil/dbmate) — A lightweight, framework-agnostic database migration tool. ☆`6,518`
 
 ### Database / Database Tools
 
-*   [vitessio/vitess (⭐20k)](https://github.com/vitessio/vitess) — Vitess is a database clustering system for horizontal scaling of MySQL. ☆`20,506`
-*   [prest/prest (⭐4.5k)](https://github.com/prest/prest) — PostgreSQL REST, low-code, simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new ☆`4,460`
-*   [ContentSquare/chproxy (⭐1.4k)](https://github.com/ContentSquare/chproxy) — Open-Source ClickHouse http proxy and load balancer ☆`1,415`
+*   [vitessio/vitess (⭐20k)](https://github.com/vitessio/vitess) — Vitess is a database clustering system for horizontal scaling of MySQL. ☆`20,509`
+*   [prest/prest (⭐4.5k)](https://github.com/prest/prest) — PostgreSQL REST, low-code, simplify and accelerate development, instant, realtime, high-performance on any Postgres application, existing or new ☆`4,462`
+*   [ContentSquare/chproxy (⭐1.4k)](https://github.com/ContentSquare/chproxy) — Open-Source ClickHouse http proxy and load balancer ☆`1,416`
 *   [liweiyi88/onedump (⭐767)](https://github.com/liweiyi88/onedump) — Effortless database administration tool ☆`770`
 
 ### Database / Databases Implemented in Go
 
-*   [prometheus/prometheus (⭐61k)](https://github.com/prometheus/prometheus) — The Prometheus monitoring system and time series database. ☆`61,499`
-*   [milvus-io/milvus (⭐40k)](https://github.com/milvus-io/milvus) — Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search ☆`40,724`
-*   [pingcap/tidb (⭐39k)](https://github.com/pingcap/tidb) — TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications. ☆`39,375`
-*   [cockroachdb/cockroach (⭐32k)](https://github.com/cockroachdb/cockroach) — CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. ☆`31,524`
-*   [influxdata/influxdb (⭐31k)](https://github.com/influxdata/influxdb) — Scalable datastore for metrics, events, and real-time analytics ☆`30,902`
-*   [dgraph-io/dgraph (⭐21k)](https://github.com/dgraph-io/dgraph) — high-performance graph database for real-time use cases ☆`21,366`
-*   [dolthub/dolt (⭐19k)](https://github.com/dolthub/dolt) — Dolt – Git for Data ☆`19,315`
-*   [rqlite/rqlite (⭐17k)](https://github.com/rqlite/rqlite) — The lightweight, user-friendly, fault-tolerant database built on SQLite. ☆`17,115`
-*   [VictoriaMetrics/VictoriaMetrics (⭐15k)](https://github.com/VictoriaMetrics/VictoriaMetrics) — VictoriaMetrics: fast, cost-effective monitoring solution and time series database ☆`15,493`
-*   [dgraph-io/badger (⭐15k)](https://github.com/dgraph-io/badger) — Fast key-value DB in Go. ☆`15,207`
-*   [etcd-io/bbolt (⭐9.2k)](https://github.com/etcd-io/bbolt) — An embedded key/value database for Go. ☆`9,230`
-*   [authzed/spicedb (⭐6.2k)](https://github.com/authzed/spicedb) — Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data ☆`6,233`
+*   [prometheus/prometheus (⭐61k)](https://github.com/prometheus/prometheus) — The Prometheus monitoring system and time series database. ☆`61,511`
+*   [milvus-io/milvus (⭐40k)](https://github.com/milvus-io/milvus) — Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search ☆`40,867`
+*   [pingcap/tidb (⭐39k)](https://github.com/pingcap/tidb) — TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications. ☆`39,378`
+*   [cockroachdb/cockroach (⭐32k)](https://github.com/cockroachdb/cockroach) — CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. ☆`31,529`
+*   [influxdata/influxdb (⭐31k)](https://github.com/influxdata/influxdb) — Scalable datastore for metrics, events, and real-time analytics ☆`30,901`
+*   [dgraph-io/dgraph (⭐21k)](https://github.com/dgraph-io/dgraph) — high-performance graph database for real-time use cases ☆`21,369`
+*   [dolthub/dolt (⭐19k)](https://github.com/dolthub/dolt) — Dolt – Git for Data ☆`19,323`
+*   [rqlite/rqlite (⭐17k)](https://github.com/rqlite/rqlite) — The lightweight, user-friendly, fault-tolerant database built on SQLite. ☆`17,118`
+*   [VictoriaMetrics/VictoriaMetrics (⭐15k)](https://github.com/VictoriaMetrics/VictoriaMetrics) — VictoriaMetrics: fast, cost-effective monitoring solution and time series database ☆`15,497`
+*   [dgraph-io/badger (⭐15k)](https://github.com/dgraph-io/badger) — Fast key-value DB in Go. ☆`15,213`
+*   [etcd-io/bbolt (⭐9.2k)](https://github.com/etcd-io/bbolt) — An embedded key/value database for Go. ☆`9,233`
+*   [authzed/spicedb (⭐6.2k)](https://github.com/authzed/spicedb) — Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data ☆`6,234`
 *   [cockroachdb/pebble (⭐5.6k)](https://github.com/cockroachdb/pebble) — RocksDB/LevelDB inspired key-value database in Go ☆`5,633`
-*   [tidwall/buntdb (⭐4.8k)](https://github.com/tidwall/buntdb) — BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support ☆`4,806`
-*   [nalgeon/redka (⭐4.4k)](https://github.com/nalgeon/redka) — Redis re-implemented with SQL ☆`4,396`
-*   [HDT3213/godis (⭐3.8k)](https://github.com/HDT3213/godis) — A Golang implemented Redis Server and Cluster ☆`3,796`
+*   [tidwall/buntdb (⭐4.8k)](https://github.com/tidwall/buntdb) — BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support ☆`4,807`
+*   [nalgeon/redka (⭐4.4k)](https://github.com/nalgeon/redka) — Redis re-implemented with SQL ☆`4,398`
+*   [HDT3213/godis (⭐3.8k)](https://github.com/HDT3213/godis) — A Golang implemented Redis Server and Cluster ☆`3,797`
+*   [securitybunker/databunker (⭐1.3k)](https://github.com/securitybunker/databunker) — Secure Vault for Customer PII/PHI/PCI/KYC Records ☆`1,363`
 *   [akrylysov/pogreb (⭐1.3k)](https://github.com/akrylysov/pogreb) — Embedded key-value store for read-heavy workloads written in Go ☆`1,348`
-*   [securitybunker/databunker (⭐1.3k)](https://github.com/securitybunker/databunker) — Secure Vault for Customer PII/PHI/PCI/KYC Records ☆`1,348`
 
 ### Database / SQL Query Builders
 
-*   [sqlc-dev/sqlc (⭐16k)](https://github.com/sqlc-dev/sqlc) — Generate type-safe code from SQL ☆`16,396`
-*   [Masterminds/squirrel (⭐7.8k)](https://github.com/Masterminds/squirrel) — Fluent SQL generation for golang ☆`7,781`
+*   [sqlc-dev/sqlc (⭐16k)](https://github.com/sqlc-dev/sqlc) — Generate type-safe code from SQL ☆`16,403`
+*   [Masterminds/squirrel (⭐7.8k)](https://github.com/Masterminds/squirrel) — Fluent SQL generation for golang ☆`7,783`
 *   [doug-martin/goqu (⭐2.6k)](https://github.com/doug-martin/goqu) — SQL builder and query library for golang ☆`2,609`
 
 ### Database Drivers / Interfaces to Multiple Backends
@@ -5938,19 +5938,19 @@ Language: English <br>
 
 ### Database Drivers / NoSQL Database Drivers
 
-*   [redis/go-redis (⭐22k)](https://github.com/redis/go-redis) — Redis Go client ☆`21,705`
+*   [redis/go-redis (⭐22k)](https://github.com/redis/go-redis) — Redis Go client ☆`21,707`
 *   [mongodb/mongo-go-driver (⭐8.5k)](https://github.com/mongodb/mongo-go-driver) — The Official Golang driver for MongoDB ☆`8,482`
 
 ### Database Drivers / Relational Database Drivers
 
-*   [go-sql-driver/mysql (⭐15k)](https://github.com/go-sql-driver/mysql) — Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package ☆`15,309`
-*   [jackc/pgx (⭐13k)](https://github.com/jackc/pgx) — PostgreSQL driver and toolkit for Go ☆`12,916`
-*   [nakagami/firebirdsql (⭐252)](https://github.com/nakagami/firebirdsql) — Firebird RDBMS sql driver for Go (golang) ☆`252`
+*   [go-sql-driver/mysql (⭐15k)](https://github.com/go-sql-driver/mysql) — Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package ☆`15,311`
+*   [jackc/pgx (⭐13k)](https://github.com/jackc/pgx) — PostgreSQL driver and toolkit for Go ☆`12,920`
+*   [nakagami/firebirdsql (⭐252)](https://github.com/nakagami/firebirdsql) — Firebird RDBMS sql driver for Go (golang) ☆`253`
 
 ### Database Drivers / Search and Analytic Databases
 
-*   [elastic/go-elasticsearch (⭐6k)](https://github.com/elastic/go-elasticsearch) — The official Go client for Elasticsearch ☆`5,993`
-*   [ClickHouse/clickhouse-go (⭐3.2k)](https://github.com/ClickHouse/clickhouse-go) — Golang driver for ClickHouse ☆`3,202`
+*   [elastic/go-elasticsearch (⭐6k)](https://github.com/elastic/go-elasticsearch) — The official Go client for Elasticsearch ☆`5,991`
+*   [ClickHouse/clickhouse-go (⭐3.2k)](https://github.com/ClickHouse/clickhouse-go) — Golang driver for ClickHouse ☆`3,203`
 
 ### Date and Time / Search and Analytic Databases
 
@@ -5959,15 +5959,15 @@ Language: English <br>
 
 ### Distributed Systems / Search and Analytic Databases
 
-*   [zeromicro/go-zero (⭐32k)](https://github.com/zeromicro/go-zero) — A cloud-native Go microservices framework with cli tool for productivity. ☆`32,189`
-*   [go-kit/kit (⭐28k)](https://github.com/go-kit/kit) — A standard library for microservices. ☆`27,533`
-*   [go-kratos/kratos (⭐25k)](https://github.com/go-kratos/kratos) — Your ultimate Go microservices framework for the cloud-native era. ☆`25,132`
+*   [zeromicro/go-zero (⭐32k)](https://github.com/zeromicro/go-zero) — A cloud-native Go microservices framework with cli tool for productivity. ☆`32,191`
+*   [go-kit/kit (⭐28k)](https://github.com/go-kit/kit) — A standard library for microservices. ☆`27,538`
+*   [go-kratos/kratos (⭐25k)](https://github.com/go-kratos/kratos) — Your ultimate Go microservices framework for the cloud-native era. ☆`25,134`
 *   [grpc/grpc-go (⭐23k)](https://github.com/grpc/grpc-go) — The Go language implementation of gRPC. HTTP/2 based RPC ☆`22,550`
-*   [nats-io/nats-server (⭐19k)](https://github.com/nats-io/nats-server) — High-Performance server for NATS.io, the cloud and edge native messaging system. ☆`18,663`
-*   [cloudwego/kitex (⭐7.7k)](https://github.com/cloudwego/kitex) — Go RPC framework with high-performance and strong-extensibility for building micro-services. ☆`7,748`
-*   [anacrolix/torrent (⭐5.9k)](https://github.com/anacrolix/torrent) — Full-featured BitTorrent client package and utilities ☆`5,901`
+*   [nats-io/nats-server (⭐19k)](https://github.com/nats-io/nats-server) — High-Performance server for NATS.io, the cloud and edge native messaging system. ☆`18,666`
+*   [cloudwego/kitex (⭐7.7k)](https://github.com/cloudwego/kitex) — Go RPC framework with high-performance and strong-extensibility for building micro-services. ☆`7,750`
+*   [anacrolix/torrent (⭐5.9k)](https://github.com/anacrolix/torrent) — Full-featured BitTorrent client package and utilities ☆`5,902`
 *   [lni/dragonboat (⭐5.3k)](https://github.com/lni/dragonboat) — A feature complete and high performance multi-group Raft library in Go. ☆`5,271`
-*   [dragonflyoss/dragonfly (⭐2.9k)](https://github.com/dragonflyoss/dragonfly) — Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content‑addressable filesystem that accelerates OCI container launch. ☆`2,917`
+*   [dragonflyoss/dragonfly (⭐2.9k)](https://github.com/dragonflyoss/dragonfly) — Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content‑addressable filesystem that accelerates OCI container launch. ☆`2,919`
 *   [go-dev-frame/sponge (⭐2.7k)](https://github.com/go-dev-frame/sponge) — A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach. ☆`2,681`
 *   [unionj-cloud/go-doudou (⭐1.2k)](https://github.com/unionj-cloud/go-doudou) — go-doudou（doudou pronounce /dəudəu/）is OpenAPI 3.0 (for REST) spec and Protobuf v3 (for grpc) based lightweight microservice framework. It supports monolith service application as well. ☆`1,208`
 *   [trpc-group/trpc-go (⭐1.1k)](https://github.com/trpc-group/trpc-go) — A pluggable, high-performance RPC framework written in golang ☆`1,074`
@@ -5983,8 +5983,8 @@ Language: English <br>
 
 ### Email / Search and Analytic Databases
 
-*   [axllent/mailpit (⭐8.2k)](https://github.com/axllent/mailpit) — An email and SMTP testing tool with API for developers ☆`8,187`
-*   [foxcpp/maddy (⭐5.7k)](https://github.com/foxcpp/maddy) — Composable all-in-one mail server. ☆`5,746`
+*   [axllent/mailpit (⭐8.2k)](https://github.com/axllent/mailpit) — An email and SMTP testing tool with API for developers ☆`8,193`
+*   [foxcpp/maddy (⭐5.7k)](https://github.com/foxcpp/maddy) — Composable all-in-one mail server. ☆`5,752`
 *   [mjl-/mox (⭐5.3k)](https://github.com/mjl-/mox) — modern full-featured open source secure mail server for low-maintenance self-hosted email ☆`5,290`
 *   [wneessen/go-mail (⭐1.2k)](https://github.com/wneessen/go-mail) — Easy to use, yet comprehensive library for sending mails with Go ☆`1,189`
 
@@ -5992,9 +5992,9 @@ Language: English <br>
 
 *   [php/frankenphp (⭐10k)](https://github.com/php/frankenphp) — The modern PHP app server ☆`10,480`
 *   [yuin/gopher-lua (⭐6.8k)](https://github.com/yuin/gopher-lua) — GopherLua: VM and compiler for Lua in Go ☆`6,793`
-*   [dop251/goja (⭐6.6k)](https://github.com/dop251/goja) — ECMAScript/JavaScript engine in pure Go ☆`6,596`
+*   [dop251/goja (⭐6.6k)](https://github.com/dop251/goja) — ECMAScript/JavaScript engine in pure Go ☆`6,597`
 *   [google/cel-go (⭐2.8k)](https://github.com/google/cel-go) — Fast, portable, non-Turing complete expression evaluation with gradual typing (Go) ☆`2,783`
-*   [google/starlark-go (⭐2.6k)](https://github.com/google/starlark-go) — Starlark in Go: the Starlark configuration language, implemented in Go ☆`2,574`
+*   [google/starlark-go (⭐2.6k)](https://github.com/google/starlark-go) — Starlark in Go: the Starlark configuration language, implemented in Go ☆`2,575`
 
 ### Error Handling / Search and Analytic Databases
 
@@ -6004,15 +6004,15 @@ Language: English <br>
 
 ### File Handling / Search and Analytic Databases
 
-*   [pdfcpu/pdfcpu (⭐8.3k)](https://github.com/pdfcpu/pdfcpu) — A PDF processor written in Go. ☆`8,273`
-*   [spf13/afero (⭐6.5k)](https://github.com/spf13/afero) — The Universal Filesystem Abstraction for Go ☆`6,467`
-*   [dundee/gdu (⭐5k)](https://github.com/dundee/gdu) — Fast disk usage analyzer with console interface written in Go ☆`5,031`
+*   [pdfcpu/pdfcpu (⭐8.3k)](https://github.com/pdfcpu/pdfcpu) — A PDF processor written in Go. ☆`8,272`
+*   [spf13/afero (⭐6.5k)](https://github.com/spf13/afero) — The Universal Filesystem Abstraction for Go ☆`6,469`
+*   [dundee/gdu (⭐5k)](https://github.com/dundee/gdu) — Fast disk usage analyzer with console interface written in Go ☆`5,036`
 
 ### Financial / Search and Analytic Databases
 
-*   [shopspring/decimal (⭐7.1k)](https://github.com/shopspring/decimal) — Arbitrary-precision fixed-point decimal numbers in Go ☆`7,097`
-*   [achannarasappa/ticker (⭐5.8k)](https://github.com/achannarasappa/ticker) — Track stocks, crypto, and derivatives prices and positions in real time from your terminal ☆`5,823`
-*   [formancehq/ledger (⭐1.1k)](https://github.com/formancehq/ledger) — The programmable open source core ledger for fintech ☆`1,084`
+*   [shopspring/decimal (⭐7.1k)](https://github.com/shopspring/decimal) — Arbitrary-precision fixed-point decimal numbers in Go ☆`7,103`
+*   [achannarasappa/ticker (⭐5.8k)](https://github.com/achannarasappa/ticker) — Track stocks, crypto, and derivatives prices and positions in real time from your terminal ☆`5,826`
+*   [formancehq/ledger (⭐1.1k)](https://github.com/formancehq/ledger) — The programmable open source core ledger for fintech ☆`1,085`
 *   [bojanz/currency (⭐607)](https://github.com/bojanz/currency) — Currency handling for Go. ☆`607`
 
 ### Functional / Search and Analytic Databases
@@ -6021,7 +6021,7 @@ Language: English <br>
 
 ### Game Development / Search and Analytic Databases
 
-*   [hajimehoshi/ebiten (⭐13k)](https://github.com/hajimehoshi/ebiten) — A dead simple 2D game engine for Go ☆`12,706`
+*   [hajimehoshi/ebiten (⭐13k)](https://github.com/hajimehoshi/ebiten) — A dead simple 2D game engine for Go ☆`12,709`
 *   [oakmound/oak (⭐1.6k)](https://github.com/oakmound/oak) — A pure Go game engine ☆`1,645`
 *   [gopxl/pixel (⭐362)](https://github.com/gopxl/pixel) — A hand-crafted 2D game library in Go. ☆`363`
 *   [ungerik/go3d (⭐330)](https://github.com/ungerik/go3d) — A performance oriented 2D/3D math package for Go ☆`333`
@@ -6030,19 +6030,19 @@ Language: English <br>
 
 ### Generators / Search and Analytic Databases
 
-*   [oapi-codegen/oapi-codegen (⭐7.8k)](https://github.com/oapi-codegen/oapi-codegen) — Generate Go client and server boilerplate from OpenAPI 3 specifications ☆`7,834`
+*   [oapi-codegen/oapi-codegen (⭐7.8k)](https://github.com/oapi-codegen/oapi-codegen) — Generate Go client and server boilerplate from OpenAPI 3 specifications ☆`7,837`
 *   [dave/jennifer (⭐3.6k)](https://github.com/dave/jennifer) — Jennifer is a code generator for Go ☆`3,581`
 *   [abice/go-enum (⭐894)](https://github.com/abice/go-enum) — An enum generator for go ☆`896`
 
 ### Geographic / Search and Analytic Databases
 
 *   [tidwall/tile38 (⭐9.5k)](https://github.com/tidwall/tile38) — Real-time Geospatial and Geofencing ☆`9,531`
-*   [peterstace/simplefeatures (⭐161)](https://github.com/peterstace/simplefeatures) — Simple Features is a pure Go Implementation of the OpenGIS Simple Feature Access Specification ☆`161`
+*   [peterstace/simplefeatures (⭐161)](https://github.com/peterstace/simplefeatures) — Simple Features is a pure Go Implementation of the OpenGIS Simple Feature Access Specification ☆`162`
 
 ### Go Compilers / Search and Analytic Databases
 
-*   [gopherjs/gopherjs (⭐13k)](https://github.com/gopherjs/gopherjs) — A compiler from Go to JavaScript for running Go code in a browser ☆`13,075`
-*   [yassinebenaid/bunster (⭐2.6k)](https://github.com/yassinebenaid/bunster) — Compile shell scripts to static binaries. ☆`2,613`
+*   [gopherjs/gopherjs (⭐13k)](https://github.com/gopherjs/gopherjs) — A compiler from Go to JavaScript for running Go code in a browser ☆`13,074`
+*   [yassinebenaid/bunster (⭐2.6k)](https://github.com/yassinebenaid/bunster) — Compile shell scripts to static binaries. ☆`2,612`
 
 ### Go Generate Tools / Search and Analytic Databases
 
@@ -6050,27 +6050,27 @@ Language: English <br>
 
 ### Go Tools / Search and Analytic Databases
 
-*   [go-swagger/go-swagger (⭐9.9k)](https://github.com/go-swagger/go-swagger) — Swagger 2.0 implementation for go ☆`9,883`
-*   [ondrajz/go-callvis (⭐6.4k)](https://github.com/ondrajz/go-callvis) — Visualize call graph of a Go program using Graphviz ☆`6,420`
-*   [safedep/vet (⭐847)](https://github.com/safedep/vet) — Protect against malicious open source packages ☆`858`
+*   [go-swagger/go-swagger (⭐9.9k)](https://github.com/go-swagger/go-swagger) — Swagger 2.0 implementation for go ☆`9,882`
+*   [ondrajz/go-callvis (⭐6.4k)](https://github.com/ondrajz/go-callvis) — Visualize call graph of a Go program using Graphviz ☆`6,422`
+*   [safedep/vet (⭐847)](https://github.com/safedep/vet) — Protect against malicious open source packages ☆`880`
 *   [bitfield/gotestdox (⭐172)](https://github.com/bitfield/gotestdox) — A tool for formatting Go test results as readable documentation ☆`173`
 *   [ahmedakef/gotutor (⭐72)](https://github.com/ahmedakef/gotutor) — Online Go Debugger & Visualizer ☆`71`
 
 ### Goroutines / Search and Analytic Databases
 
-*   [panjf2000/ants (⭐14k)](https://github.com/panjf2000/ants) — ants is the most powerful and reliable pooling solution for Go. ☆`14,166`
+*   [panjf2000/ants (⭐14k)](https://github.com/panjf2000/ants) — ants is the most powerful and reliable pooling solution for Go. ☆`14,167`
 *   [alitto/pond (⭐2k)](https://github.com/alitto/pond) — Minimalistic and High-performance goroutine worker pool written in Go ☆`2,026`
 
 ### GUI / Search and Analytic Databases
 
-*   [fyne-io/fyne (⭐28k)](https://github.com/fyne-io/fyne) — Cross platform GUI toolkit in Go inspired by Material Design ☆`27,540`
-*   [webview/webview (⭐14k)](https://github.com/webview/webview) — Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows). ☆`13,641`
-*   [go-vgo/robotgo (⭐10k)](https://github.com/go-vgo/robotgo) — RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use @vcaesar ☆`10,457`
-*   [maxence-charriere/go-app (⭐8.8k)](https://github.com/maxence-charriere/go-app) — A package to build progressive web apps with Go programming language and WebAssembly. ☆`8,831`
-*   [progrium/darwinkit (⭐5.4k)](https://github.com/progrium/darwinkit) — Native Mac APIs for Go. Previously known as MacDriver ☆`5,358`
-*   [getlantern/systray (⭐3.6k)](https://github.com/getlantern/systray) — a cross platfrom Go library to place an icon and menu in the notification area ☆`3,622`
+*   [fyne-io/fyne (⭐28k)](https://github.com/fyne-io/fyne) — Cross platform GUI toolkit in Go inspired by Material Design ☆`27,546`
+*   [webview/webview (⭐14k)](https://github.com/webview/webview) — Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows). ☆`13,644`
+*   [go-vgo/robotgo (⭐10k)](https://github.com/go-vgo/robotgo) — RobotGo, Go Native cross-platform RPA, GUI automation, Auto test and Computer use @vcaesar ☆`10,459`
+*   [maxence-charriere/go-app (⭐8.8k)](https://github.com/maxence-charriere/go-app) — A package to build progressive web apps with Go programming language and WebAssembly. ☆`8,832`
+*   [progrium/darwinkit (⭐5.4k)](https://github.com/progrium/darwinkit) — Native Mac APIs for Go. Previously known as MacDriver ☆`5,359`
+*   [getlantern/systray (⭐3.6k)](https://github.com/getlantern/systray) — a cross platfrom Go library to place an icon and menu in the notification area ☆`3,621`
 *   [cogentcore/core (⭐2.3k)](https://github.com/cogentcore/core) — A free and open source framework for building powerful, fast, elegant 2D and 3D apps that run on macOS, Windows, Linux, iOS, Android, and web with a single Go codebase, allowing you to Code Once, Run Everywhere. ☆`2,279`
-*   [AllenDang/cimgui-go (⭐472)](https://github.com/AllenDang/cimgui-go) — Auto generated Go wrapper for Dear ImGui via cimgui ☆`475`
+*   [AllenDang/cimgui-go (⭐472)](https://github.com/AllenDang/cimgui-go) — Auto generated Go wrapper for Dear ImGui via cimgui ☆`474`
 
 ### Hardware / Search and Analytic Databases
 
@@ -6083,8 +6083,8 @@ Language: English <br>
 *   [anthonynsimon/bild (⭐4.2k)](https://github.com/anthonynsimon/bild) — Image processing algorithms in pure Go ☆`4,154`
 *   [sensepost/gowitness (⭐4.1k)](https://github.com/sensepost/gowitness) — gowitness - a golang, web screenshot utility using Chrome Headless ☆`4,066`
 *   [cshum/imagor (⭐3.8k)](https://github.com/cshum/imagor) — Fast, secure image processing server and Go library, using libvips ☆`3,838`
-*   [tdewolff/canvas (⭐1.7k)](https://github.com/tdewolff/canvas) — Vector graphics in Go ☆`1,739`
-*   [davidbyttow/govips (⭐1.5k)](https://github.com/davidbyttow/govips) — A lightning fast image processing and resizing library for Go ☆`1,507`
+*   [tdewolff/canvas (⭐1.7k)](https://github.com/tdewolff/canvas) — Vector graphics in Go ☆`1,740`
+*   [davidbyttow/govips (⭐1.5k)](https://github.com/davidbyttow/govips) — A lightning fast image processing and resizing library for Go ☆`1,508`
 *   [yeqown/go-qrcode (⭐791)](https://github.com/yeqown/go-qrcode) — To help gophers generate QR Codes with customized styles, such as color, block size, block shape, and icon. ☆`793`
 
 ### IoT (Internet of Things) / Search and Analytic Databases
@@ -6093,16 +6093,16 @@ Language: English <br>
 
 ### Job Scheduler / Search and Analytic Databases
 
-*   [go-co-op/gocron (⭐6.7k)](https://github.com/go-co-op/gocron) — Easy and fluent Go cron scheduling ☆`6,757`
+*   [go-co-op/gocron (⭐6.7k)](https://github.com/go-co-op/gocron) — Easy and fluent Go cron scheduling ☆`6,759`
 
 ### Logging / Search and Analytic Databases
 
-*   [sirupsen/logrus (⭐26k)](https://github.com/sirupsen/logrus) — Structured, pluggable logging for Go. ☆`25,585`
-*   [uber-go/zap (⭐24k)](https://github.com/uber-go/zap) — Blazing fast, structured, leveled logging in Go. ☆`23,956`
-*   [rs/zerolog (⭐12k)](https://github.com/rs/zerolog) — Zero Allocation JSON Logger ☆`11,996`
+*   [sirupsen/logrus (⭐26k)](https://github.com/sirupsen/logrus) — Structured, pluggable logging for Go. ☆`25,586`
+*   [uber-go/zap (⭐24k)](https://github.com/uber-go/zap) — Blazing fast, structured, leveled logging in Go. ☆`23,959`
+*   [rs/zerolog (⭐12k)](https://github.com/rs/zerolog) — Zero Allocation JSON Logger ☆`11,998`
 *   [davecgh/go-spew (⭐6.3k)](https://github.com/davecgh/go-spew) — Implements a deep pretty printer for Go data structures to aid in debugging ☆`6,353`
 *   [k0kubun/pp (⭐2k)](https://github.com/k0kubun/pp) — Colored pretty printer for Go language ☆`2,012`
-*   [Lifailon/lazyjournal (⭐898)](https://github.com/Lifailon/lazyjournal) — A TUI for reading logs from journald, auditd, file system, Docker containers, Compose stacks, Podman and Kubernetes pods with support for output coloring and multiple filtering modes. ☆`944`
+*   [Lifailon/lazyjournal (⭐898)](https://github.com/Lifailon/lazyjournal) — A TUI for reading logs from journald, auditd, file system, Docker containers, Compose stacks, Podman and Kubernetes pods with support for output coloring and multiple filtering modes. ☆`948`
 *   [phuslu/log (⭐824)](https://github.com/phuslu/log) — Fastest structured logging ☆`824`
 *   [samber/slog-multi (⭐576)](https://github.com/samber/slog-multi) — Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing... ☆`577`
 
@@ -6112,15 +6112,15 @@ Language: English <br>
 
 ### Messaging / Search and Analytic Databases
 
-*   [IBM/sarama (⭐12k)](https://github.com/IBM/sarama) — Sarama is a Go library for Apache Kafka. ☆`12,321`
-*   [hibiken/asynq (⭐12k)](https://github.com/hibiken/asynq) — Simple, reliable, and efficient distributed task queue in Go ☆`12,478`
-*   [centrifugal/centrifugo (⭐9.6k)](https://github.com/centrifugal/centrifugo) — Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once and forever. ☆`9,584`
-*   [ThreeDotsLabs/watermill (⭐9.3k)](https://github.com/ThreeDotsLabs/watermill) — Building event-driven applications the easy way in Go. ☆`9,279`
+*   [IBM/sarama (⭐12k)](https://github.com/IBM/sarama) — Sarama is a Go library for Apache Kafka. ☆`12,320`
+*   [hibiken/asynq (⭐12k)](https://github.com/hibiken/asynq) — Simple, reliable, and efficient distributed task queue in Go ☆`12,484`
+*   [centrifugal/centrifugo (⭐9.6k)](https://github.com/centrifugal/centrifugo) — Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably, socket.io, Phoenix.PubSub, SignalR. Set up once and forever. ☆`9,587`
+*   [ThreeDotsLabs/watermill (⭐9.3k)](https://github.com/ThreeDotsLabs/watermill) — Building event-driven applications the easy way in Go. ☆`9,280`
 *   [RichardKnop/machinery (⭐7.9k)](https://github.com/RichardKnop/machinery) — Machinery is an asynchronous task queue/job queue based on distributed message passing. ☆`7,891`
-*   [dunglas/mercure (⭐5.1k)](https://github.com/dunglas/mercure) — An open, easy, fast, reliable and battery-efficient solution for real-time communications ☆`5,121`
+*   [dunglas/mercure (⭐5.1k)](https://github.com/dunglas/mercure) — An open, easy, fast, reliable and battery-efficient solution for real-time communications ☆`5,122`
 *   [olahol/melody (⭐4k)](https://github.com/olahol/melody) — Minimalist websocket framework for Go ☆`4,028`
-*   [asaskevich/EventBus (⭐1.9k)](https://github.com/asaskevich/EventBus) — \[Go] Lightweight eventbus with async compatibility for Go ☆`1,947`
-*   [pebbe/zmq4 (⭐1.2k)](https://github.com/pebbe/zmq4) — A Go interface to ZeroMQ version 4 ☆`1,237`
+*   [asaskevich/EventBus (⭐1.9k)](https://github.com/asaskevich/EventBus) — \[Go] Lightweight eventbus with async compatibility for Go ☆`1,946`
+*   [pebbe/zmq4 (⭐1.2k)](https://github.com/pebbe/zmq4) — A Go interface to ZeroMQ version 4 ☆`1,238`
 
 ### Microsoft Office / Search and Analytic Databases
 
@@ -6128,24 +6128,24 @@ Language: English <br>
 
 ### Microsoft Office / Microsoft Excel
 
-*   [qax-os/excelize (⭐20k)](https://github.com/qax-os/excelize) — Go language library for reading and writing Microsoft Excel (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets ☆`19,981`
+*   [qax-os/excelize (⭐20k)](https://github.com/qax-os/excelize) — Go language library for reading and writing Microsoft Excel (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets ☆`19,984`
 
 ### Middlewares / Microsoft Word
 
-*   [justinas/alice (⭐3.3k)](https://github.com/justinas/alice) — Painless middleware chaining for Go ☆`3,336`
-*   [rs/cors (⭐2.8k)](https://github.com/rs/cors) — Go net/http configurable handler to handle CORS requests ☆`2,841`
+*   [justinas/alice (⭐3.3k)](https://github.com/justinas/alice) — Painless middleware chaining for Go ☆`3,335`
+*   [rs/cors (⭐2.8k)](https://github.com/rs/cors) — Go net/http configurable handler to handle CORS requests ☆`2,840`
 
 ### Miscellaneous / Dependency Injection
 
-*   [uber-go/fx (⭐7.1k)](https://github.com/uber-go/fx) — A dependency injection based application framework for Go. ☆`7,090`
-*   [uber-go/dig (⭐4.4k)](https://github.com/uber-go/dig) — A reflection based dependency injection toolkit for Go. ☆`4,381`
+*   [uber-go/fx (⭐7.1k)](https://github.com/uber-go/fx) — A dependency injection based application framework for Go. ☆`7,092`
+*   [uber-go/dig (⭐4.4k)](https://github.com/uber-go/dig) — A reflection based dependency injection toolkit for Go. ☆`4,383`
 
 ### Miscellaneous / Project Layout
 
-*   [golang-standards/project-layout (⭐55k)](https://github.com/golang-standards/project-layout) — Standard Go Project Layout ☆`54,563`
-*   [Melkeydev/go-blueprint (⭐8.4k)](https://github.com/Melkeydev/go-blueprint) — Go-blueprint allows users to spin up a quick Go project using a popular framework ☆`8,450`
+*   [golang-standards/project-layout (⭐55k)](https://github.com/golang-standards/project-layout) — Standard Go Project Layout ☆`54,571`
+*   [Melkeydev/go-blueprint (⭐8.4k)](https://github.com/Melkeydev/go-blueprint) — Go-blueprint allows users to spin up a quick Go project using a popular framework ☆`8,452`
 *   [mikestefanello/pagoda (⭐2.9k)](https://github.com/mikestefanello/pagoda) — Rapid, easy full-stack web development starter kit and admin panel in Go ☆`2,874`
-*   [go-nunu/nunu (⭐2.5k)](https://github.com/go-nunu/nunu) — A CLI tool for building Go applications. ☆`2,494`
+*   [go-nunu/nunu (⭐2.5k)](https://github.com/go-nunu/nunu) — A CLI tool for building Go applications. ☆`2,495`
 
 ### Miscellaneous / Strings
 
@@ -6153,12 +6153,12 @@ Language: English <br>
 
 ### Miscellaneous / Uncategorized
 
-*   [shirou/gopsutil (⭐12k)](https://github.com/shirou/gopsutil) — psutil for golang ☆`11,567`
-*   [TwiN/gatus (⭐9.1k)](https://github.com/TwiN/gatus) — Automated developer-oriented status page ☆`9,163`
-*   [brianvoe/gofakeit (⭐5.3k)](https://github.com/brianvoe/gofakeit) — Random fake data generator written in go ☆`5,257`
+*   [shirou/gopsutil (⭐12k)](https://github.com/shirou/gopsutil) — psutil for golang ☆`11,569`
+*   [TwiN/gatus (⭐9.1k)](https://github.com/TwiN/gatus) — Automated developer-oriented status page ☆`9,167`
+*   [brianvoe/gofakeit (⭐5.3k)](https://github.com/brianvoe/gofakeit) — Random fake data generator written in go ☆`5,258`
 *   [mojocn/base64Captcha (⭐2.3k)](https://github.com/mojocn/base64Captcha) — captcha of base64 image string ☆`2,316`
-*   [containrrr/shoutrrr (⭐1.4k)](https://github.com/containrrr/shoutrrr) — Notification library for gophers and their furry friends. ☆`1,410`
-*   [qmuntal/stateless (⭐1.1k)](https://github.com/qmuntal/stateless) — Go library for creating finite state machines ☆`1,132`
+*   [containrrr/shoutrrr (⭐1.4k)](https://github.com/containrrr/shoutrrr) — Notification library for gophers and their furry friends. ☆`1,411`
+*   [qmuntal/stateless (⭐1.1k)](https://github.com/qmuntal/stateless) — Go library for creating finite state machines ☆`1,133`
 *   [ulikunitz/xz (⭐536)](https://github.com/ulikunitz/xz) — Pure golang package for reading and writing xz-compressed files ☆`538`
 *   [ddddddO/gtree (⭐319)](https://github.com/ddddddO/gtree) — Easily output ASCII tree from Go program or Markdown unordered list (and it does more than just output tree!) ☆`321`
 
@@ -6172,25 +6172,25 @@ Language: English <br>
 
 ### Natural Language Processing / Tokenizers
 
-*   [go-ego/gse (⭐2.8k)](https://github.com/go-ego/gse) — Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others. ☆`2,757`
+*   [go-ego/gse (⭐2.8k)](https://github.com/go-ego/gse) — Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others. ☆`2,756`
 
 ### Natural Language Processing / Translation
 
-*   [nicksnyder/go-i18n (⭐3.4k)](https://github.com/nicksnyder/go-i18n) — Translate your Go program into multiple languages. ☆`3,412`
+*   [nicksnyder/go-i18n (⭐3.4k)](https://github.com/nicksnyder/go-i18n) — Translate your Go program into multiple languages. ☆`3,413`
 
 ### Networking / Transliteration
 
 *   [valyala/fasthttp (⭐23k)](https://github.com/valyala/fasthttp) — Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http ☆`23,112`
-*   [pion/webrtc (⭐16k)](https://github.com/pion/webrtc) — Pure Go implementation of the WebRTC API ☆`15,685`
-*   [xtaci/kcptun (⭐14k)](https://github.com/xtaci/kcptun) — A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing. ☆`14,294`
-*   [cloudflare/cloudflared (⭐12k)](https://github.com/cloudflare/cloudflared) — Cloudflare Tunnel client ☆`12,113`
-*   [quic-go/quic-go (⭐11k)](https://github.com/quic-go/quic-go) — A production-ready QUIC implementation in pure Go ☆`11,211`
+*   [pion/webrtc (⭐16k)](https://github.com/pion/webrtc) — Pure Go implementation of the WebRTC API ☆`15,690`
+*   [xtaci/kcptun (⭐14k)](https://github.com/xtaci/kcptun) — A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing. ☆`14,293`
+*   [cloudflare/cloudflared (⭐12k)](https://github.com/cloudflare/cloudflared) — Cloudflare Tunnel client ☆`12,124`
+*   [quic-go/quic-go (⭐11k)](https://github.com/quic-go/quic-go) — A production-ready QUIC implementation in pure Go ☆`11,214`
 *   [panjf2000/gnet (⭐11k)](https://github.com/panjf2000/gnet) — gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go. ☆`10,928`
-*   [miekg/dns (⭐8.6k)](https://github.com/miekg/dns) — DNS library in Go ☆`8,561`
-*   [xjasonlyu/tun2socks (⭐4.4k)](https://github.com/xjasonlyu/tun2socks) — tun2socks - powered by gVisor TCP/IP stack ☆`4,390`
-*   [gliderlabs/ssh (⭐4k)](https://github.com/gliderlabs/ssh) — Easy SSH servers in Golang ☆`4,032`
+*   [miekg/dns (⭐8.6k)](https://github.com/miekg/dns) — DNS library in Go ☆`8,566`
+*   [xjasonlyu/tun2socks (⭐4.4k)](https://github.com/xjasonlyu/tun2socks) — tun2socks - powered by gVisor TCP/IP stack ☆`4,392`
+*   [gliderlabs/ssh (⭐4k)](https://github.com/gliderlabs/ssh) — Easy SSH servers in Golang ☆`4,033`
 *   [Allenxuxu/gev (⭐1.8k)](https://github.com/Allenxuxu/gev) — Gev is a lightweight, fast non-blocking TCP network library / websocket server based on Reactor mode. Support custom protocols to quickly and easily build high-performance servers. ☆`1,769`
-*   [yosebyte/nodepass (⭐1.5k)](https://github.com/yosebyte/nodepass) — A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections ☆`1,497`
+*   [yosebyte/nodepass (⭐1.5k)](https://github.com/yosebyte/nodepass) — A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections ☆`1,499`
 *   [DrmagicE/gmqtt (⭐1k)](https://github.com/DrmagicE/gmqtt) — Gmqtt is a flexible, high-performance MQTT broker library that fully implements the MQTT protocol V3.x and V5 in golang ☆`1,026`
 *   [ccding/go-stun (⭐711)](https://github.com/ccding/go-stun) — A go implementation of the STUN client (RFC 3489 and RFC 5389) ☆`711`
 
@@ -6200,23 +6200,23 @@ Language: English <br>
 
 ### OpenGL / HTTP Clients
 
-*   [go-gl/glfw (⭐1.7k)](https://github.com/go-gl/glfw) — Go bindings for GLFW 3 ☆`1,652`
+*   [go-gl/glfw (⭐1.7k)](https://github.com/go-gl/glfw) — Go bindings for GLFW 3 ☆`1,653`
 
 ### ORM / HTTP Clients
 
-*   [go-gorm/gorm (⭐39k)](https://github.com/go-gorm/gorm) — The fantastic ORM library for Golang, aims to be developer friendly ☆`39,184`
-*   [ent/ent (⭐17k)](https://github.com/ent/ent) — An entity framework for Go ☆`16,718`
-*   [uptrace/bun (⭐4.5k)](https://github.com/uptrace/bun) — SQL-first Golang ORM ☆`4,488`
+*   [go-gorm/gorm (⭐39k)](https://github.com/go-gorm/gorm) — The fantastic ORM library for Golang, aims to be developer friendly ☆`39,185`
+*   [ent/ent (⭐17k)](https://github.com/ent/ent) — An entity framework for Go ☆`16,721`
+*   [uptrace/bun (⭐4.5k)](https://github.com/uptrace/bun) — SQL-first Golang ORM ☆`4,490`
 *   [huandu/go-sqlbuilder (⭐1.6k)](https://github.com/huandu/go-sqlbuilder) — A flexible and powerful SQL string builder library plus a zero-config ORM. ☆`1,637`
 
 ### Package Management / HTTP Clients
 
-*   [anchore/syft (⭐8k)](https://github.com/anchore/syft) — CLI tool and library for generating a Software Bill of Materials from container images and filesystems ☆`8,004`
+*   [anchore/syft (⭐8k)](https://github.com/anchore/syft) — CLI tool and library for generating a Software Bill of Materials from container images and filesystems ☆`8,006`
 *   [nao1215/gup (⭐477)](https://github.com/nao1215/gup) — gup - Update binaries installed by "go install" with goroutines. ☆`478`
 
 ### Performance / HTTP Clients
 
-*   [jaegertracing/jaeger (⭐22k)](https://github.com/jaegertracing/jaeger) — CNCF Jaeger, a Distributed Tracing Platform ☆`22,146`
+*   [jaegertracing/jaeger (⭐22k)](https://github.com/jaegertracing/jaeger) — CNCF Jaeger, a Distributed Tracing Platform ☆`22,148`
 *   [pixie-io/pixie (⭐6.2k)](https://github.com/pixie-io/pixie) — Instant Kubernetes-Native Application Observability ☆`6,253`
 
 ### Query Language / HTTP Clients
@@ -6226,57 +6226,57 @@ Language: English <br>
 ### Routers / HTTP Clients
 
 *   [gorilla/mux (⭐22k)](https://github.com/gorilla/mux) — Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with ☆`21,717`
-*   [go-chi/chi (⭐21k)](https://github.com/go-chi/chi) — lightweight, idiomatic and composable router for building Go HTTP services ☆`20,993`
+*   [go-chi/chi (⭐21k)](https://github.com/go-chi/chi) — lightweight, idiomatic and composable router for building Go HTTP services ☆`20,998`
 
 ### Science and Data Analysis / HTTP Clients
 
-*   [gonum/gonum (⭐8.2k)](https://github.com/gonum/gonum) — Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more ☆`8,230`
+*   [gonum/gonum (⭐8.2k)](https://github.com/gonum/gonum) — Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more ☆`8,233`
 *   [hmdsefi/gograph (⭐101)](https://github.com/hmdsefi/gograph) — A golang generic graph library that provides mathematical graph-theory and algorithms. ☆`101`
 
 ### Security / HTTP Clients
 
-*   [FiloSottile/age (⭐20k)](https://github.com/FiloSottile/age) — A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. ☆`20,226`
-*   [go-acme/lego (⭐9k)](https://github.com/go-acme/lego) — Let's Encrypt/ACME client and library written in Go ☆`9,023`
-*   [Ullaakut/cameradar (⭐4.8k)](https://github.com/Ullaakut/cameradar) — Cameradar hacks its way into RTSP videosurveillance cameras ☆`4,776`
+*   [FiloSottile/age (⭐20k)](https://github.com/FiloSottile/age) — A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. ☆`20,230`
+*   [go-acme/lego (⭐9k)](https://github.com/go-acme/lego) — Let's Encrypt/ACME client and library written in Go ☆`9,026`
+*   [Ullaakut/cameradar (⭐4.8k)](https://github.com/Ullaakut/cameradar) — Cameradar hacks its way into RTSP videosurveillance cameras ☆`4,778`
 *   [awnumar/memguard (⭐2.7k)](https://github.com/awnumar/memguard) — Software sandbox for storage of sensitive information in memory. ☆`2,683`
-*   [cossacklabs/themis (⭐1.9k)](https://github.com/cossacklabs/themis) — Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms. ☆`1,946`
+*   [cossacklabs/themis (⭐1.9k)](https://github.com/cossacklabs/themis) — Easy to use cryptographic framework for data protection: secure messaging with forward secrecy and secure data storage. Has unified APIs across 14 platforms. ☆`1,947`
 *   [dromara/dongle (⭐1.1k)](https://github.com/dromara/dongle) — A simple, semantic and developer-friendly crypto package for golang ☆`1,091`
 *   [number571/go-peer (⭐312)](https://github.com/number571/go-peer) — Library for developing secure, decentralized, anonymous and quantum-resistant networks in Go language ☆`312`
 
 ### Serialization / HTTP Clients
 
-*   [fxamacker/cbor (⭐967)](https://github.com/fxamacker/cbor) — CBOR codec (RFC 8949, RFC 8742) with CBOR tags, Go struct tag options (toarray, keyasint, omitempty, omitzero), float64/32/16, big.Int, and fuzz tested. ☆`968`
+*   [fxamacker/cbor (⭐967)](https://github.com/fxamacker/cbor) — CBOR codec (RFC 8949, RFC 8742) with CBOR tags, Go struct tag options (toarray, keyasint, omitempty, omitzero), float64/32/16, big.Int, and fuzz tested. ☆`969`
 
 ### Server Applications / HTTP Clients
 
-*   [caddyserver/caddy (⭐68k)](https://github.com/caddyserver/caddy) — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS ☆`68,193`
-*   [minio/minio (⭐58k)](https://github.com/minio/minio) — MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. ☆`58,670`
-*   [pocketbase/pocketbase (⭐53k)](https://github.com/pocketbase/pocketbase) — Open Source realtime backend in 1 file ☆`53,557`
-*   [etcd-io/etcd (⭐51k)](https://github.com/etcd-io/etcd) — Distributed reliable key-value store for the most critical data of a distributed system ☆`50,870`
-*   [drakkan/sftpgo (⭐11k)](https://github.com/drakkan/sftpgo) — Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob ☆`11,394`
+*   [caddyserver/caddy (⭐68k)](https://github.com/caddyserver/caddy) — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS ☆`68,217`
+*   [minio/minio (⭐58k)](https://github.com/minio/minio) — MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. ☆`58,707`
+*   [pocketbase/pocketbase (⭐53k)](https://github.com/pocketbase/pocketbase) — Open Source realtime backend in 1 file ☆`53,669`
+*   [etcd-io/etcd (⭐51k)](https://github.com/etcd-io/etcd) — Distributed reliable key-value store for the most critical data of a distributed system ☆`50,881`
+*   [drakkan/sftpgo (⭐11k)](https://github.com/drakkan/sftpgo) — Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob ☆`11,397`
 *   [easegress-io/easegress (⭐5.9k)](https://github.com/easegress-io/easegress) — A Cloud Native traffic orchestration system ☆`5,864`
 *   [flipt-io/flipt (⭐4.6k)](https://github.com/flipt-io/flipt) — Enterprise-ready, Git native feature management solution ☆`4,640`
 *   [charmbracelet/wish (⭐4.6k)](https://github.com/charmbracelet/wish) — Make SSH apps, just like that! ☆`4,604`
 
 ### Software Packages / DevOps Tools
 
-*   [kubernetes/kubernetes (⭐119k)](https://github.com/kubernetes/kubernetes) — Production-Grade Container Scheduling and Management ☆`118,869`
-*   [moby/moby (⭐71k)](https://github.com/moby/moby) — The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems ☆`71,148`
-*   [traefik/traefik (⭐59k)](https://github.com/traefik/traefik) — The Cloud Native Application Proxy ☆`59,654`
-*   [go-gitea/gitea (⭐52k)](https://github.com/go-gitea/gitea) — Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD ☆`52,215`
-*   [kubernetes/minikube (⭐31k)](https://github.com/kubernetes/minikube) — Run Kubernetes locally ☆`31,178`
-*   [k3s-io/k3s (⭐31k)](https://github.com/k3s-io/k3s) — Lightweight Kubernetes ☆`31,426`
-*   [grafana/k6 (⭐29k)](https://github.com/grafana/k6) — A modern load testing tool, using Go and JavaScript ☆`29,312`
-*   [tsenart/vegeta (⭐25k)](https://github.com/tsenart/vegeta) — HTTP load testing tool and library. It's over 9000! ☆`24,735`
-*   [hashicorp/packer (⭐16k)](https://github.com/hashicorp/packer) — Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. ☆`15,532`
-*   [kubernetes-sigs/kind (⭐15k)](https://github.com/kubernetes-sigs/kind) — Kubernetes IN Docker - local clusters for testing Kubernetes ☆`14,786`
+*   [kubernetes/kubernetes (⭐119k)](https://github.com/kubernetes/kubernetes) — Production-Grade Container Scheduling and Management ☆`118,884`
+*   [moby/moby (⭐71k)](https://github.com/moby/moby) — The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems ☆`71,152`
+*   [traefik/traefik (⭐59k)](https://github.com/traefik/traefik) — The Cloud Native Application Proxy ☆`59,744`
+*   [go-gitea/gitea (⭐52k)](https://github.com/go-gitea/gitea) — Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD ☆`52,229`
+*   [kubernetes/minikube (⭐31k)](https://github.com/kubernetes/minikube) — Run Kubernetes locally ☆`31,181`
+*   [k3s-io/k3s (⭐31k)](https://github.com/k3s-io/k3s) — Lightweight Kubernetes ☆`31,442`
+*   [grafana/k6 (⭐29k)](https://github.com/grafana/k6) — A modern load testing tool, using Go and JavaScript ☆`29,314`
+*   [tsenart/vegeta (⭐25k)](https://github.com/tsenart/vegeta) — HTTP load testing tool and library. It's over 9000! ☆`24,738`
+*   [hashicorp/packer (⭐16k)](https://github.com/hashicorp/packer) — Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. ☆`15,533`
+*   [kubernetes-sigs/kind (⭐15k)](https://github.com/kubernetes-sigs/kind) — Kubernetes IN Docker - local clusters for testing Kubernetes ☆`14,790`
 *   [flannel-io/flannel (⭐9.3k)](https://github.com/flannel-io/flannel) — flannel is a network fabric for containers, designed for Kubernetes ☆`9,333`
 *   [getanteon/anteon (⭐8.5k)](https://github.com/getanteon/anteon) — Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing ☆`8,539`
 *   [ko-build/ko (⭐8.2k)](https://github.com/ko-build/ko) — Build and deploy Go applications ☆`8,210`
-*   [bitfield/script (⭐6.9k)](https://github.com/bitfield/script) — Making it easy to write shell-like scripts in Go ☆`6,886`
+*   [bitfield/script (⭐6.9k)](https://github.com/bitfield/script) — Making it easy to write shell-like scripts in Go ☆`6,887`
 *   [codesenberg/bombardier (⭐6.6k)](https://github.com/codesenberg/bombardier) — Fast cross-platform HTTP benchmarking tool written in Go ☆`6,645`
-*   [k3d-io/k3d (⭐6.1k)](https://github.com/k3d-io/k3d) — Little helper to run CNCF's k3s in Docker ☆`6,134`
-*   [fleetdm/fleet (⭐5.8k)](https://github.com/fleetdm/fleet) — Open device management ☆`5,778`
+*   [k3d-io/k3d (⭐6.1k)](https://github.com/k3d-io/k3d) — Little helper to run CNCF's k3s in Docker ☆`6,135`
+*   [fleetdm/fleet (⭐5.8k)](https://github.com/fleetdm/fleet) — Open device management ☆`5,779`
 *   [taubyte/tau (⭐4.8k)](https://github.com/taubyte/tau) — Fullstack Workspace for Humans & Machines ☆`4,809`
 *   [pomerium/pomerium (⭐4.5k)](https://github.com/pomerium/pomerium) — Pomerium is an identity and context-aware access proxy. ☆`4,532`
 *   [apecloud/kubeblocks (⭐2.9k)](https://github.com/apecloud/kubeblocks) — KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes environments. ☆`2,909`
@@ -6286,15 +6286,15 @@ Language: English <br>
 
 ### Software Packages / Other Software
 
-*   [schollz/croc (⭐32k)](https://github.com/schollz/croc) — Easily and securely send things from one computer to another ☆`32,118`
-*   [restic/restic (⭐31k)](https://github.com/restic/restic) — Fast, secure, efficient backup program ☆`30,983`
-*   [seaweedfs/seaweedfs (⭐28k)](https://github.com/seaweedfs/seaweedfs) — SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. ☆`27,660`
-*   [juicedata/juicefs (⭐12k)](https://github.com/juicedata/juicefs) — JuiceFS is a distributed POSIX file system built on top of Redis and S3. ☆`12,464`
+*   [schollz/croc (⭐32k)](https://github.com/schollz/croc) — Easily and securely send things from one computer to another ☆`32,128`
+*   [restic/restic (⭐31k)](https://github.com/restic/restic) — Fast, secure, efficient backup program ☆`30,995`
+*   [seaweedfs/seaweedfs (⭐28k)](https://github.com/seaweedfs/seaweedfs) — SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. ☆`27,673`
+*   [juicedata/juicefs (⭐12k)](https://github.com/juicedata/juicefs) — JuiceFS is a distributed POSIX file system built on top of Redis and S3. ☆`12,469`
 *   [visualfc/liteide (⭐7.7k)](https://github.com/visualfc/liteide) — LiteIDE is a simple, open source, cross-platform Go IDE. ☆`7,723`
-*   [boyter/scc (⭐7.8k)](https://github.com/boyter/scc) — Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go ☆`7,822`
-*   [0xERR0R/blocky (⭐5.8k)](https://github.com/0xERR0R/blocky) — Fast and lightweight DNS proxy as ad-blocker for local network with many features ☆`5,765`
-*   [gilbertchen/duplicacy (⭐5.6k)](https://github.com/gilbertchen/duplicacy) — A new generation cloud backup tool ☆`5,562`
-*   [Forceu/Gokapi (⭐2.4k)](https://github.com/Forceu/Gokapi) — Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. ☆`2,436`
+*   [boyter/scc (⭐7.8k)](https://github.com/boyter/scc) — Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go ☆`7,824`
+*   [0xERR0R/blocky (⭐5.8k)](https://github.com/0xERR0R/blocky) — Fast and lightweight DNS proxy as ad-blocker for local network with many features ☆`5,764`
+*   [gilbertchen/duplicacy (⭐5.6k)](https://github.com/gilbertchen/duplicacy) — A new generation cloud backup tool ☆`5,566`
+*   [Forceu/Gokapi (⭐2.4k)](https://github.com/Forceu/Gokapi) — Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported. ☆`2,437`
 *   [janpfeifer/gonb (⭐955)](https://github.com/janpfeifer/gonb) — GoNB, a Go Notebook Kernel for Jupyter ☆`958`
 *   [chapar-rest/chapar (⭐660)](https://github.com/chapar-rest/chapar) — Chapar is a simple and easy to use api testing tools aims to help developers to test their api endpoints. it support http and grpc protocols. ☆`664`
 *   [marwanhawari/stew (⭐311)](https://github.com/marwanhawari/stew) — An independent package manager for compiled binaries. ☆`310`
@@ -6302,15 +6302,11 @@ Language: English <br>
 
 ### Stream Processing / Other Software
 
-*   [reugn/go-streams (⭐2.1k)](https://github.com/reugn/go-streams) — A lightweight stream processing library for Go ☆`2,132`
-
-### Style Guides / Other Software
-
-*   [bahlo/go-styleguide (⭐1.6k)](https://github.com/bahlo/go-styleguide) — Opinionated Styleguide for the Go language ☆`1,634`
+*   [reugn/go-streams (⭐2.1k)](https://github.com/reugn/go-streams) — A lightweight stream processing library for Go ☆`2,133`
 
 ### Template Engines / Other Software
 
-*   [a-h/templ (⭐9.8k)](https://github.com/a-h/templ) — A language for writing HTML user interfaces in Go. ☆`9,849`
+*   [a-h/templ (⭐9.8k)](https://github.com/a-h/templ) — A language for writing HTML user interfaces in Go. ☆`9,853`
 *   [johnfercher/maroto (⭐2.6k)](https://github.com/johnfercher/maroto) — A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple. ☆`2,578`
 *   [go-sprout/sprout (⭐188)](https://github.com/go-sprout/sprout) — From sprig to sprout - Useful template functions for Go templates with steroids ☆`190`
 
@@ -6320,22 +6316,22 @@ Language: English <br>
 
 ### Testing / Mock
 
-*   [vektra/mockery (⭐6.9k)](https://github.com/vektra/mockery) — A mock code autogenerator for Go ☆`6,896`
-*   [DATA-DOG/go-sqlmock (⭐6.5k)](https://github.com/DATA-DOG/go-sqlmock) — Sql mock driver for golang to test database interactions ☆`6,489`
-*   [uber-go/mock (⭐3.2k)](https://github.com/uber-go/mock) — GoMock is a mocking framework for the Go programming language. ☆`3,189`
+*   [vektra/mockery (⭐6.9k)](https://github.com/vektra/mockery) — A mock code autogenerator for Go ☆`6,895`
+*   [DATA-DOG/go-sqlmock (⭐6.5k)](https://github.com/DATA-DOG/go-sqlmock) — Sql mock driver for golang to test database interactions ☆`6,487`
+*   [uber-go/mock (⭐3.2k)](https://github.com/uber-go/mock) — GoMock is a mocking framework for the Go programming language. ☆`3,190`
 *   [maxbrunsfeld/counterfeiter (⭐1.1k)](https://github.com/maxbrunsfeld/counterfeiter) — A tool for generating self-contained, type-safe test doubles in go ☆`1,104`
 
 ### Testing / Selenium and browser control tools
 
-*   [chromedp/chromedp (⭐12k)](https://github.com/chromedp/chromedp) — A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. ☆`12,509`
-*   [go-rod/rod (⭐6.4k)](https://github.com/go-rod/rod) — A Chrome DevTools Protocol driver for web automation and scraping. ☆`6,439`
-*   [playwright-community/playwright-go (⭐3k)](https://github.com/playwright-community/playwright-go) — Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. ☆`3,040`
+*   [chromedp/chromedp (⭐12k)](https://github.com/chromedp/chromedp) — A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol. ☆`12,513`
+*   [go-rod/rod (⭐6.4k)](https://github.com/go-rod/rod) — A Chrome DevTools Protocol driver for web automation and scraping. ☆`6,440`
+*   [playwright-community/playwright-go (⭐3k)](https://github.com/playwright-community/playwright-go) — Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. ☆`3,043`
 
 ### Testing / Testing Frameworks
 
-*   [stretchr/testify (⭐25k)](https://github.com/stretchr/testify) — A toolkit with common assertions and mocks that plays nicely with the standard library ☆`25,480`
-*   [keploy/keploy (⭐13k)](https://github.com/keploy/keploy) — API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs! ☆`13,194`
-*   [testcontainers/testcontainers-go (⭐4.5k)](https://github.com/testcontainers/testcontainers-go) — Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. ☆`4,511`
+*   [stretchr/testify (⭐25k)](https://github.com/stretchr/testify) — A toolkit with common assertions and mocks that plays nicely with the standard library ☆`25,481`
+*   [keploy/keploy (⭐13k)](https://github.com/keploy/keploy) — API, Integration, E2E Testing Agent for Developers that actually work. Generate tests, mocks/stubs for your APIs! ☆`13,293`
+*   [testcontainers/testcontainers-go (⭐4.5k)](https://github.com/testcontainers/testcontainers-go) — Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. ☆`4,512`
 *   [google/go-cmp (⭐4.5k)](https://github.com/google/go-cmp) — Package for comparing Go values in tests ☆`4,552`
 *   [orlangure/gnomock (⭐1.5k)](https://github.com/orlangure/gnomock) — Test your code without writing mocks with ephemeral Docker containers Setup popular services with just a couple lines of code No bash, no yaml, only code ☆`1,469`
 *   [fergusstrange/embedded-postgres (⭐1.1k)](https://github.com/fergusstrange/embedded-postgres) — Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test ☆`1,081`
@@ -6343,25 +6339,25 @@ Language: English <br>
 
 ### Text Processing / Formatters
 
-*   [dustin/go-humanize (⭐4.7k)](https://github.com/dustin/go-humanize) — Go Humans! (formatters for units to human friendly sizes) ☆`4,723`
+*   [dustin/go-humanize (⭐4.7k)](https://github.com/dustin/go-humanize) — Go Humans! (formatters for units to human friendly sizes) ☆`4,724`
 *   [neilotoole/sq (⭐2.4k)](https://github.com/neilotoole/sq) — sq data wrangler ☆`2,363`
 *   [bojanz/address (⭐82)](https://github.com/bojanz/address) — Address handling for Go. ☆`82`
 
 ### Text Processing / Markup Languages
 
-*   [BurntSushi/toml (⭐4.8k)](https://github.com/BurntSushi/toml) — TOML parser for Golang with reflection. ☆`4,845`
-*   [yuin/goldmark (⭐4.4k)](https://github.com/yuin/goldmark) — A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured. ☆`4,433`
-*   [JohannesKaufmann/html-to-markdown (⭐3.2k)](https://github.com/JohannesKaufmann/html-to-markdown) — Convert HTML to Markdown. Even works with entire websites and can be extended through rules. ☆`3,220`
+*   [BurntSushi/toml (⭐4.8k)](https://github.com/BurntSushi/toml) — TOML parser for Golang with reflection. ☆`4,848`
+*   [yuin/goldmark (⭐4.4k)](https://github.com/yuin/goldmark) — A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured. ☆`4,435`
+*   [JohannesKaufmann/html-to-markdown (⭐3.2k)](https://github.com/JohannesKaufmann/html-to-markdown) — Convert HTML to Markdown. Even works with entire websites and can be extended through rules. ☆`3,221`
 *   [pelletier/go-toml (⭐1.9k)](https://github.com/pelletier/go-toml) — Go library for the TOML file format ☆`1,880`
 
 ### Text Processing / Parsers/Encoders/Decoders
 
-*   [mvdan/sh (⭐8.2k)](https://github.com/mvdan/sh) — A shell parser, formatter, and interpreter with bash support; includes shfmt ☆`8,259`
+*   [mvdan/sh (⭐8.2k)](https://github.com/mvdan/sh) — A shell parser, formatter, and interpreter with bash support; includes shfmt ☆`8,262`
 
 ### Text Processing / Scrapers
 
 *   [gocolly/colly (⭐25k)](https://github.com/gocolly/colly) — Elegant Scraper and Crawler Framework for Golang ☆`24,857`
-*   [PuerkitoBio/goquery (⭐15k)](https://github.com/PuerkitoBio/goquery) — A little like that j-thing, only in Go. ☆`14,812`
+*   [PuerkitoBio/goquery (⭐15k)](https://github.com/PuerkitoBio/goquery) — A little like that j-thing, only in Go. ☆`14,811`
 
 ### Text Processing / Utility/Miscellaneous
 
@@ -6369,49 +6365,49 @@ Language: English <br>
 
 ### Third-party APIs / Utility/Miscellaneous
 
-*   [google/go-github (⭐11k)](https://github.com/google/go-github) — Go library for accessing the GitHub v3 API ☆`11,029`
-*   [bwmarrin/discordgo (⭐5.7k)](https://github.com/bwmarrin/discordgo) — (Golang) Go bindings for Discord ☆`5,674`
-*   [googleapis/google-cloud-go (⭐4.4k)](https://github.com/googleapis/google-cloud-go) — Google Cloud Client Libraries for Go. ☆`4,378`
+*   [google/go-github (⭐11k)](https://github.com/google/go-github) — Go library for accessing the GitHub v3 API ☆`11,030`
+*   [bwmarrin/discordgo (⭐5.7k)](https://github.com/bwmarrin/discordgo) — (Golang) Go bindings for Discord ☆`5,676`
+*   [googleapis/google-cloud-go (⭐4.4k)](https://github.com/googleapis/google-cloud-go) — Google Cloud Client Libraries for Go. ☆`4,377`
 *   [googleapis/google-api-go-client (⭐4.4k)](https://github.com/googleapis/google-api-go-client) — Auto-generated Google APIs for Go. ☆`4,356`
 *   [aws/aws-sdk-go-v2 (⭐3.4k)](https://github.com/aws/aws-sdk-go-v2) — AWS SDK for the Go programming language. ☆`3,371`
-*   [minio/minio-go (⭐2.9k)](https://github.com/minio/minio-go) — MinIO Go client SDK for S3 compatible object storage ☆`2,864`
+*   [minio/minio-go (⭐2.9k)](https://github.com/minio/minio-go) — MinIO Go client SDK for S3 compatible object storage ☆`2,866`
 *   [stripe/stripe-go (⭐2.5k)](https://github.com/stripe/stripe-go) — Go library for the Stripe API. ☆`2,461`
 *   [shurcooL/githubv4 (⭐1.2k)](https://github.com/shurcooL/githubv4) — client library for accessing GitHub GraphQL API v4 ☆`1,176`
 *   [chyroc/lark (⭐457)](https://github.com/chyroc/lark) — Lark Open API Go SDK, Support ALL Open API and Event Callback ☆`457`
 
 ### Utilities / Utility/Miscellaneous
 
-*   [junegunn/fzf (⭐75k)](https://github.com/junegunn/fzf) — A command-line fuzzy finder ☆`75,399`
-*   [wagoodman/dive (⭐53k)](https://github.com/wagoodman/dive) — A tool for exploring each layer in a docker image ☆`52,713`
-*   [samber/lo (⭐21k)](https://github.com/samber/lo) — A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) ☆`20,684`
-*   [jmoiron/sqlx (⭐17k)](https://github.com/jmoiron/sqlx) — general purpose extensions to golang's database/sql ☆`17,369`
-*   [goreleaser/goreleaser (⭐15k)](https://github.com/goreleaser/goreleaser) — Release engineering, simplified ☆`15,303`
-*   [xo/usql (⭐9.6k)](https://github.com/xo/usql) — Universal command-line interface for SQL databases ☆`9,608`
-*   [cilium/ebpf (⭐7.3k)](https://github.com/cilium/ebpf) — ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. ☆`7,304`
+*   [junegunn/fzf (⭐75k)](https://github.com/junegunn/fzf) — A command-line fuzzy finder ☆`75,420`
+*   [wagoodman/dive (⭐53k)](https://github.com/wagoodman/dive) — A tool for exploring each layer in a docker image ☆`52,715`
+*   [samber/lo (⭐21k)](https://github.com/samber/lo) — A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...) ☆`20,683`
+*   [jmoiron/sqlx (⭐17k)](https://github.com/jmoiron/sqlx) — general purpose extensions to golang's database/sql ☆`17,373`
+*   [goreleaser/goreleaser (⭐15k)](https://github.com/goreleaser/goreleaser) — Release engineering, simplified ☆`15,304`
+*   [xo/usql (⭐9.6k)](https://github.com/xo/usql) — Universal command-line interface for SQL databases ☆`9,610`
+*   [cilium/ebpf (⭐7.3k)](https://github.com/cilium/ebpf) — ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel. ☆`7,314`
 *   [duke-git/lancet (⭐5.2k)](https://github.com/duke-git/lancet) — A comprehensive, efficient, and reusable util function library of Go. ☆`5,226`
 *   [tdewolff/minify (⭐4k)](https://github.com/tdewolff/minify) — Go minifiers for web formats ☆`4,025`
 *   [minio/mc (⭐3.3k)](https://github.com/minio/mc) — Unix like utilities for object store ☆`3,280`
 *   [megaease/easeprobe (⭐2.3k)](https://github.com/megaease/easeprobe) — A simple, standalone, and lightweight tool that can do health/status checking, written in Go. ☆`2,283`
-*   [joshmedeski/sesh (⭐1.4k)](https://github.com/joshmedeski/sesh) — Smart session manager for the terminal ☆`1,464`
-*   [georgysavva/scany (⭐1.5k)](https://github.com/georgysavva/scany) — Library for scanning data from a database into Go structs and more ☆`1,482`
+*   [joshmedeski/sesh (⭐1.4k)](https://github.com/joshmedeski/sesh) — Smart session manager for the terminal ☆`1,467`
+*   [georgysavva/scany (⭐1.5k)](https://github.com/georgysavva/scany) — Library for scanning data from a database into Go structs and more ☆`1,483`
 *   [owenthereal/upterm (⭐1.1k)](https://github.com/owenthereal/upterm) — Instant Terminal Sharing ☆`1,056`
 *   [cristianoliveira/ergo (⭐641)](https://github.com/cristianoliveira/ergo) — The management of multiple apps running over different ports made easy ☆`641`
 *   [biter777/countries (⭐490)](https://github.com/biter777/countries) — Countries - ISO-639, ISO-3166 countries codes with subdivisions and names, ISO-4217 currency designators, ITU-T E.164 IDD phone codes, countries capitals, UN M.49 codes, IANA ccTLD countries domains, FIPS, IOC/NOC and FIFA codes, VERY VERY FAST, compatible with Databases/JSON/BSON/GOB/XML/CSV, Emoji countries flags and currencies, Unicode CLDR. ☆`490`
 
 ### UUID / Utility/Miscellaneous
 
-*   [oklog/ulid (⭐4.9k)](https://github.com/oklog/ulid) — Universally Unique Lexicographically Sortable Identifier (ULID) in Go ☆`4,909`
-*   [gofrs/uuid (⭐1.7k)](https://github.com/gofrs/uuid) — A UUID package for Go ☆`1,747`
+*   [oklog/ulid (⭐4.9k)](https://github.com/oklog/ulid) — Universally Unique Lexicographically Sortable Identifier (ULID) in Go ☆`4,911`
+*   [gofrs/uuid (⭐1.7k)](https://github.com/gofrs/uuid) — A UUID package for Go ☆`1,748`
 
 ### Validation / Utility/Miscellaneous
 
-*   [go-playground/validator (⭐19k)](https://github.com/go-playground/validator) — Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving ☆`19,387`
+*   [go-playground/validator (⭐19k)](https://github.com/go-playground/validator) — Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving ☆`19,398`
 *   [Oudwins/zog (⭐1k)](https://github.com/Oudwins/zog) — Go with Zod inspired simple schema validation ☆`1,015`
 *   [osamingo/checkdigit (⭐114)](https://github.com/osamingo/checkdigit) — Provide check digit algorithms and calculators written in Go ☆`114`
 
 ### Version Control / Utility/Miscellaneous
 
-*   [go-git/go-git (⭐7k)](https://github.com/go-git/go-git) — A highly extensible Git implementation in pure Go. ☆`7,019`
+*   [go-git/go-git (⭐7k)](https://github.com/go-git/go-git) — A highly extensible Git implementation in pure Go. ☆`7,020`
 
 ### Video / Utility/Miscellaneous
 
@@ -6419,34 +6415,34 @@ Language: English <br>
 
 ### Web Frameworks / Utility/Miscellaneous
 
-*   [gin-gonic/gin (⭐87k)](https://github.com/gin-gonic/gin) — Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. ☆`87,184`
-*   [gofiber/fiber (⭐39k)](https://github.com/gofiber/fiber) — Express inspired web framework written in Go ☆`38,571`
-*   [beego/beego (⭐32k)](https://github.com/beego/beego) — beego is an open-source, high-performance web framework for the Go programming language. ☆`32,352`
-*   [labstack/echo (⭐32k)](https://github.com/labstack/echo) — High performance, minimalist Go web framework ☆`31,859`
-*   [gofr-dev/gofr (⭐15k)](https://github.com/gofr-dev/gofr) — An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. ☆`14,970`
-*   [gogf/gf (⭐13k)](https://github.com/gogf/gf) — A powerful framework for faster, easier, and more efficient project development. ☆`12,900`
+*   [gin-gonic/gin (⭐87k)](https://github.com/gin-gonic/gin) — Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices. ☆`87,191`
+*   [gofiber/fiber (⭐39k)](https://github.com/gofiber/fiber) — Express inspired web framework written in Go ☆`38,579`
+*   [beego/beego (⭐32k)](https://github.com/beego/beego) — beego is an open-source, high-performance web framework for the Go programming language. ☆`32,353`
+*   [labstack/echo (⭐32k)](https://github.com/labstack/echo) — High performance, minimalist Go web framework ☆`31,862`
+*   [gofr-dev/gofr (⭐15k)](https://github.com/gofr-dev/gofr) — An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. ☆`14,971`
+*   [gogf/gf (⭐13k)](https://github.com/gogf/gf) — A powerful framework for faster, easier, and more efficient project development. ☆`12,901`
 *   [apache/dubbo-go (⭐4.9k)](https://github.com/apache/dubbo-go) — Go Implementation For Apache Dubbo . ☆`4,855`
 *   [goravel/goravel (⭐4.3k)](https://github.com/goravel/goravel) — A full-featured Golang Development Framework. ☆`4,290`
-*   [danielgtaylor/huma (⭐3.6k)](https://github.com/danielgtaylor/huma) — Huma REST/HTTP API Framework for Golang with OpenAPI 3.1 ☆`3,598`
-*   [go-fuego/fuego (⭐1.6k)](https://github.com/go-fuego/fuego) — Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs ☆`1,595`
+*   [danielgtaylor/huma (⭐3.6k)](https://github.com/danielgtaylor/huma) — Huma REST/HTTP API Framework for Golang with OpenAPI 3.1 ☆`3,601`
+*   [go-fuego/fuego (⭐1.6k)](https://github.com/go-fuego/fuego) — Golang Fuego - Web framework generating OpenAPI 3 spec from source code - Pluggable to existing Gin & Echo APIs ☆`1,596`
 *   [savsgio/atreugo (⭐1.3k)](https://github.com/savsgio/atreugo) — High performance and extensible micro web framework. Zero memory allocations in hot paths. ☆`1,297`
 
 ### WebAssembly / Utility/Miscellaneous
 
-*   [tinygo-org/tinygo (⭐17k)](https://github.com/tinygo-org/tinygo) — Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. ☆`16,879`
+*   [tinygo-org/tinygo (⭐17k)](https://github.com/tinygo-org/tinygo) — Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM. ☆`16,880`
 
 ### Webhooks Server / Utility/Miscellaneous
 
-*   [adnanh/webhook (⭐11k)](https://github.com/adnanh/webhook) — webhook is a lightweight incoming webhook server to run shell commands ☆`11,395`
-*   [webhookx-io/webhookx (⭐246)](https://github.com/webhookx-io/webhookx) — The Next-Generation Webhooks Gateway. ☆`249`
+*   [adnanh/webhook (⭐11k)](https://github.com/adnanh/webhook) — webhook is a lightweight incoming webhook server to run shell commands ☆`11,397`
+*   [webhookx-io/webhookx (⭐246)](https://github.com/webhookx-io/webhookx) — The Next-Generation Webhooks Gateway. ☆`250`
 
 ### Windows / Utility/Miscellaneous
 
-*   [go-ole/go-ole (⭐1.3k)](https://github.com/go-ole/go-ole) — win32 ole implementation for golang ☆`1,284`
+*   [go-ole/go-ole (⭐1.3k)](https://github.com/go-ole/go-ole) — win32 ole implementation for golang ☆`1,282`
 
 ### Workflow Frameworks / Utility/Miscellaneous
 
-*   [dagu-org/dagu (⭐2.9k)](https://github.com/dagu-org/dagu) — An opinionated, lightweight workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing commands over SSH. Offline or air-gapped environment ready. ☆`2,871`
+*   [dagu-org/dagu (⭐2.9k)](https://github.com/dagu-org/dagu) — An opinionated, lightweight workflow engine for managing complex jobs without pain. Single binary with Web UI. 100% open source. No vendor lock-in. It natively supports running containers and executing commands over SSH. Offline or air-gapped environment ready. ☆`2,873`
 *   [luno/workflow (⭐203)](https://github.com/luno/workflow) — The type-safe, event-driven workflow orchestration library that scales with your business. Build robust, distributed workflows in Go with compile-time safety, automatic retries, and horizontal scaling out of the box. Integrate with your existing tech stack using adapters ☆`205`
 
 ### XML / Utility/Miscellaneous
@@ -6456,191 +6452,191 @@ Language: English <br>
 ### Zero Trust / Utility/Miscellaneous
 
 *   [sigstore/cosign (⭐5.4k)](https://github.com/sigstore/cosign) — Code signing and transparency for containers and binaries ☆`5,448`
-*   [openziti/ziti (⭐3.7k)](https://github.com/openziti/ziti) — The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti ☆`3,722`
-*   [spiffe/spire (⭐2.1k)](https://github.com/spiffe/spire) — The SPIFFE Runtime Environment ☆`2,134`
+*   [openziti/ziti (⭐3.7k)](https://github.com/openziti/ziti) — The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti ☆`3,723`
+*   [spiffe/spire (⭐2.1k)](https://github.com/spiffe/spire) — The SPIFFE Runtime Environment ☆`2,135`
 
 ## [147. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### File Management Tools / Android
 
-*   [ganeshrvel/openmtp (⭐5.7k)](https://github.com/ganeshrvel/openmtp) — OpenMTP - Advanced Android File Transfer Application for macOS ☆`5,728`
+*   [ganeshrvel/openmtp (⭐5.7k)](https://github.com/ganeshrvel/openmtp) — OpenMTP - Advanced Android File Transfer Application for macOS ☆`5,733`
 
 ### Audio and Video Tools
 
-*   [jellyfin/jellyfin (⭐46k)](https://github.com/jellyfin/jellyfin) — The Free Software Media System - Server Backend & API ☆`46,042`
-*   [iina/iina (⭐43k)](https://github.com/iina/iina) — The modern video player for macOS. ☆`42,746`
-*   [mifi/lossless-cut (⭐35k)](https://github.com/mifi/lossless-cut) — The swiss army knife of lossless video/audio editing ☆`35,069`
-*   [mpv-player/mpv (⭐33k)](https://github.com/mpv-player/mpv) — Command line media player ☆`32,795`
-*   [pear-devs/pear-desktop (⭐30k)](https://github.com/pear-devs/pear-desktop) — Pear is extension for music player ☆`29,715`
-*   [HandBrake/HandBrake (⭐21k)](https://github.com/HandBrake/HandBrake) — HandBrake's development repository ☆`21,489`
-*   [xbmc/xbmc (⭐20k)](https://github.com/xbmc/xbmc) — Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. ☆`20,106`
-*   [FreeTubeApp/FreeTube (⭐19k)](https://github.com/FreeTubeApp/FreeTube) — An Open Source YouTube app for privacy ☆`19,466`
-*   [videolan/vlc (⭐17k)](https://github.com/videolan/vlc) — VLC media player ☆`16,941`
-*   [audacity/audacity (⭐16k)](https://github.com/audacity/audacity) — Audio Editor ☆`16,000`
-*   [musescore/MuseScore (⭐14k)](https://github.com/musescore/MuseScore) — MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests! ☆`13,986`
-*   [mltframework/shotcut (⭐13k)](https://github.com/mltframework/shotcut) — cross-platform (Qt), open-source (GPLv3) video editor ☆`13,035`
-*   [popcorntime/popcorntime (⭐10k)](https://github.com/popcorntime/popcorntime) — Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are. ☆`9,974`
-*   [mixxxdj/mixxx (⭐6.1k)](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mixes. ☆`6,125`
-*   [ytmdesktop/ytmdesktop (⭐5.1k)](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music ☆`5,132`
-*   [Ardour/ardour (⭐4.6k)](https://github.com/Ardour/ardour) — Mirror of Ardour Source Code ☆`4,575`
-*   [metabrainz/picard (⭐4.4k)](https://github.com/metabrainz/picard) — Picard is a cross-platform music tagger powered by the MusicBrainz database ☆`4,387`
+*   [jellyfin/jellyfin (⭐46k)](https://github.com/jellyfin/jellyfin) — The Free Software Media System - Server Backend & API ☆`46,101`
+*   [iina/iina (⭐43k)](https://github.com/iina/iina) — The modern video player for macOS. ☆`42,769`
+*   [mifi/lossless-cut (⭐35k)](https://github.com/mifi/lossless-cut) — The swiss army knife of lossless video/audio editing ☆`35,110`
+*   [mpv-player/mpv (⭐33k)](https://github.com/mpv-player/mpv) — Command line media player ☆`32,813`
+*   [pear-devs/pear-desktop (⭐30k)](https://github.com/pear-devs/pear-desktop) — Pear is extension for music player ☆`29,753`
+*   [HandBrake/HandBrake (⭐21k)](https://github.com/HandBrake/HandBrake) — HandBrake's development repository ☆`21,508`
+*   [xbmc/xbmc (⭐20k)](https://github.com/xbmc/xbmc) — Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows. ☆`20,118`
+*   [FreeTubeApp/FreeTube (⭐19k)](https://github.com/FreeTubeApp/FreeTube) — An Open Source YouTube app for privacy ☆`19,482`
+*   [videolan/vlc (⭐17k)](https://github.com/videolan/vlc) — VLC media player ☆`16,968`
+*   [audacity/audacity (⭐16k)](https://github.com/audacity/audacity) — Audio Editor ☆`16,010`
+*   [musescore/MuseScore (⭐14k)](https://github.com/musescore/MuseScore) — MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests! ☆`13,988`
+*   [mltframework/shotcut (⭐13k)](https://github.com/mltframework/shotcut) — cross-platform (Qt), open-source (GPLv3) video editor ☆`13,042`
+*   [popcorntime/popcorntime (⭐10k)](https://github.com/popcorntime/popcorntime) — Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are. ☆`9,978`
+*   [mixxxdj/mixxx (⭐6.1k)](https://github.com/mixxxdj/mixxx) — Mixxx is Free DJ software that gives you everything you need to perform live mixes. ☆`6,131`
+*   [ytmdesktop/ytmdesktop (⭐5.1k)](https://github.com/ytmdesktop/ytmdesktop) — A Desktop App for YouTube Music ☆`5,145`
+*   [Ardour/ardour (⭐4.6k)](https://github.com/Ardour/ardour) — Mirror of Ardour Source Code ☆`4,578`
+*   [metabrainz/picard (⭐4.4k)](https://github.com/metabrainz/picard) — Picard is a cross-platform music tagger powered by the MusicBrainz database ☆`4,391`
 *   [vincehi/pulp (⭐65)](https://github.com/vincehi/pulp) — Pulp is an open source sample manager ☆`67`
 
 ### Browsers
 
-*   [ungoogled-software/ungoogled-chromium (⭐25k)](https://github.com/ungoogled-software/ungoogled-chromium) — Google Chromium, sans integration with Google ☆`24,904`
-*   [brave/brave-browser (⭐21k)](https://github.com/brave/brave-browser) — Brave browser for Android, iOS, Linux, macOS, Windows. ☆`20,764`
-*   [qutebrowser/qutebrowser (⭐11k)](https://github.com/qutebrowser/qutebrowser) — A keyboard-driven, vim-like browser based on Python and Qt. ☆`11,072`
-*   [minbrowser/min (⭐8.8k)](https://github.com/minbrowser/min) — A fast, minimal browser that protects your privacy ☆`8,760`
-*   [getstation/desktop-app (⭐1.7k)](https://github.com/getstation/desktop-app) — One app to rule them all! ☆`1,668`
+*   [ungoogled-software/ungoogled-chromium (⭐25k)](https://github.com/ungoogled-software/ungoogled-chromium) — Google Chromium, sans integration with Google ☆`24,921`
+*   [brave/brave-browser (⭐21k)](https://github.com/brave/brave-browser) — Brave browser for Android, iOS, Linux, macOS, Windows. ☆`20,775`
+*   [qutebrowser/qutebrowser (⭐11k)](https://github.com/qutebrowser/qutebrowser) — A keyboard-driven, vim-like browser based on Python and Qt. ☆`11,080`
+*   [minbrowser/min (⭐8.8k)](https://github.com/minbrowser/min) — A fast, minimal browser that protects your privacy ☆`8,763`
+*   [getstation/desktop-app (⭐1.7k)](https://github.com/getstation/desktop-app) — One app to rule them all! ☆`1,669`
 
 ### Communication / Collaboration and Team Tools
 
-*   [mastodon/mastodon (⭐49k)](https://github.com/mastodon/mastodon) — Your self-hosted, globally interconnected microblogging community ☆`49,298`
-*   [mattermost/mattermost (⭐34k)](https://github.com/mattermost/mattermost) — Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. ☆`34,486`
-*   [signalapp/Signal-Desktop (⭐16k)](https://github.com/signalapp/Signal-Desktop) — A private messenger for Windows, macOS, and Linux. ☆`15,801`
-*   [misskey-dev/misskey (⭐11k)](https://github.com/misskey-dev/misskey) — A completely free and open interplanetary-microblogging platform ☆`10,837`
-*   [ferdium/ferdium-app (⭐3.8k)](https://github.com/ferdium/ferdium-app) — All your services in one place, built by the community ☆`3,769`
+*   [mastodon/mastodon (⭐49k)](https://github.com/mastodon/mastodon) — Your self-hosted, globally interconnected microblogging community ☆`49,307`
+*   [mattermost/mattermost (⭐34k)](https://github.com/mattermost/mattermost) — Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.. ☆`34,498`
+*   [signalapp/Signal-Desktop (⭐16k)](https://github.com/signalapp/Signal-Desktop) — A private messenger for Windows, macOS, and Linux. ☆`15,802`
+*   [misskey-dev/misskey (⭐11k)](https://github.com/misskey-dev/misskey) — A completely free and open interplanetary-microblogging platform ☆`10,841`
+*   [ferdium/ferdium-app (⭐3.8k)](https://github.com/ferdium/ferdium-app) — All your services in one place, built by the community ☆`3,775`
 
 ### Communication / Email Clients
 
-*   [Foundry376/Mailspring (⭐17k)](https://github.com/Foundry376/Mailspring) — A beautiful, fast and fully open source mail client for Mac, Windows and Linux. ☆`16,895`
-*   [tutao/tutanota (⭐7.1k)](https://github.com/tutao/tutanota) — Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. ☆`7,079`
+*   [Foundry376/Mailspring (⭐17k)](https://github.com/Foundry376/Mailspring) — A beautiful, fast and fully open source mail client for Mac, Windows and Linux. ☆`16,900`
+*   [tutao/tutanota (⭐7.1k)](https://github.com/tutao/tutanota) — Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. ☆`7,084`
 *   [skiff-org/skiff-apps (⭐895)](https://github.com/skiff-org/skiff-apps) — Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar. ☆`897`
 
 ### Design and Product / Design Tools
 
-*   [jgraph/drawio-desktop (⭐58k)](https://github.com/jgraph/drawio-desktop) — Official electron build of draw\.io ☆`58,106`
-*   [darktable-org/darktable (⭐12k)](https://github.com/darktable-org/darktable) — darktable is an open source photography workflow application and raw developer ☆`11,666`
-*   [KDE/krita (⭐9k)](https://github.com/KDE/krita) — Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks. ☆`9,058`
+*   [jgraph/drawio-desktop (⭐58k)](https://github.com/jgraph/drawio-desktop) — Official electron build of draw\.io ☆`58,129`
+*   [darktable-org/darktable (⭐12k)](https://github.com/darktable-org/darktable) — darktable is an open source photography workflow application and raw developer ☆`11,673`
+*   [KDE/krita (⭐9k)](https://github.com/KDE/krita) — Krita is a free and open source cross-platform application that offers an end-to-end solution for creating digital art files from scratch built on the KDE and Qt frameworks. ☆`9,061`
 *   [RawTherapee/RawTherapee (⭐3.7k)](https://github.com/RawTherapee/RawTherapee) — A powerful cross-platform raw photo processing program ☆`3,680`
 
 ### Design and Product / Screencapturing Software
 
-*   [obsproject/obs-studio (⭐68k)](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recording ☆`68,338`
+*   [obsproject/obs-studio (⭐68k)](https://github.com/obsproject/obs-studio) — OBS Studio - Free and open source software for live streaming and screen recording ☆`68,382`
 
 ### Utilities / Quality of Life Improvements
 
-*   [keycastr/keycastr (⭐14k)](https://github.com/keycastr/keycastr) — KeyCastr, an open-source keystroke visualizer ☆`14,339`
+*   [keycastr/keycastr (⭐14k)](https://github.com/keycastr/keycastr) — KeyCastr, an open-source keystroke visualizer ☆`14,348`
 *   [alin23/Lunar (⭐5.3k)](https://github.com/alin23/Lunar) — Intelligent adaptive brightness for your external monitors ☆`5,348`
 
 ### Developer Tools / API Development and Analysis
 
-*   [hoppscotch/hoppscotch (⭐77k)](https://github.com/hoppscotch/hoppscotch) — Open source API development ecosystem - alternative to Postman, Insomnia ☆`77,112`
-*   [Kong/insomnia (⭐38k)](https://github.com/Kong/insomnia) — The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. ☆`37,610`
-*   [mountain-loop/yaak (⭐16k)](https://github.com/mountain-loop/yaak) — The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC ☆`16,331`
+*   [hoppscotch/hoppscotch (⭐77k)](https://github.com/hoppscotch/hoppscotch) — Open source API development ecosystem - alternative to Postman, Insomnia ☆`77,126`
+*   [Kong/insomnia (⭐38k)](https://github.com/Kong/insomnia) — The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. ☆`37,611`
+*   [mountain-loop/yaak (⭐16k)](https://github.com/mountain-loop/yaak) — The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC ☆`16,396`
 
 ### Developer Tools / Databases
 
-*   [surrealdb/surrealdb (⭐30k)](https://github.com/surrealdb/surrealdb) — A scalable, distributed, collaborative, document-graph database, for the realtime web ☆`30,421`
-*   [sqlitebrowser/sqlitebrowser (⭐23k)](https://github.com/sqlitebrowser/sqlitebrowser) — Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: ☆`23,268`
-*   [beekeeper-studio/beekeeper-studio (⭐21k)](https://github.com/beekeeper-studio/beekeeper-studio) — Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. ☆`21,275`
-*   [trailbaseio/trailbase (⭐3.5k)](https://github.com/trailbaseio/trailbase) — A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime. ☆`3,566`
-*   [pgmodeler/pgmodeler (⭐3.4k)](https://github.com/pgmodeler/pgmodeler) — Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you! ☆`3,421`
+*   [surrealdb/surrealdb (⭐30k)](https://github.com/surrealdb/surrealdb) — A scalable, distributed, collaborative, document-graph database, for the realtime web ☆`30,430`
+*   [sqlitebrowser/sqlitebrowser (⭐23k)](https://github.com/sqlitebrowser/sqlitebrowser) — Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at: ☆`23,280`
+*   [beekeeper-studio/beekeeper-studio (⭐21k)](https://github.com/beekeeper-studio/beekeeper-studio) — Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. ☆`21,294`
+*   [trailbaseio/trailbase (⭐3.5k)](https://github.com/trailbaseio/trailbase) — A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime. ☆`3,692`
+*   [pgmodeler/pgmodeler (⭐3.4k)](https://github.com/pgmodeler/pgmodeler) — Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you! ☆`3,422`
 
 ### Developer Tools / Developer Utilities
 
-*   [WerWolv/ImHex (⭐52k)](https://github.com/WerWolv/ImHex) — A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. ☆`51,757`
-*   [mjmlio/mjml (⭐18k)](https://github.com/mjmlio/mjml) — MJML: the only framework that makes responsive-email easy ☆`17,765`
+*   [WerWolv/ImHex (⭐52k)](https://github.com/WerWolv/ImHex) — A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. ☆`51,782`
+*   [mjmlio/mjml (⭐18k)](https://github.com/mjmlio/mjml) — MJML: the only framework that makes responsive-email easy ☆`17,766`
 *   [insidegui/WWDC (⭐8.7k)](https://github.com/insidegui/WWDC) — The unofficial WWDC app for macOS ☆`8,733`
-*   [XcodesOrg/XcodesApp (⭐8.1k)](https://github.com/XcodesOrg/XcodesApp) — The easiest way to install and switch between multiple versions of Xcode - with a mouse click. ☆`8,113`
-*   [HexFiend/HexFiend (⭐5.7k)](https://github.com/HexFiend/HexFiend) — A fast and clever hex editor for macOS ☆`5,727`
+*   [XcodesOrg/XcodesApp (⭐8.1k)](https://github.com/XcodesOrg/XcodesApp) — The easiest way to install and switch between multiple versions of Xcode - with a mouse click. ☆`8,116`
+*   [HexFiend/HexFiend (⭐5.7k)](https://github.com/HexFiend/HexFiend) — A fast and clever hex editor for macOS ☆`5,730`
 *   [johnste/finicky (⭐4.4k)](https://github.com/johnste/finicky) — A macOS app for customizing which browser to start ☆`4,434`
 
 ### Developer Tools / Frameworks For Hybrid Applications
 
-*   [electron/electron (⭐119k)](https://github.com/electron/electron) — Build cross-platform desktop apps with JavaScript, HTML, and CSS ☆`119,202`
-*   [tauri-apps/tauri (⭐99k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop and mobile applications with a web frontend. ☆`99,365`
-*   [ionic-team/ionic-framework (⭐52k)](https://github.com/ionic-team/ionic-framework) — A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript. ☆`52,209`
+*   [electron/electron (⭐119k)](https://github.com/electron/electron) — Build cross-platform desktop apps with JavaScript, HTML, and CSS ☆`119,205`
+*   [tauri-apps/tauri (⭐99k)](https://github.com/tauri-apps/tauri) — Build smaller, faster, and more secure desktop and mobile applications with a web frontend. ☆`99,432`
+*   [ionic-team/ionic-framework (⭐52k)](https://github.com/ionic-team/ionic-framework) — A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript. ☆`52,213`
 *   [nwjs/nw.js (⭐41k)](https://github.com/nwjs/nw.js) — Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies. ☆`41,489`
 *   [sindresorhus/create-dmg (⭐5.1k)](https://github.com/sindresorhus/create-dmg) — Create a good-looking DMG for your macOS app in seconds ☆`5,060`
 
 ### Developer Tools / IDEs
 
-*   [microsoft/vscode (⭐179k)](https://github.com/microsoft/vscode) — Visual Studio Code ☆`179,084`
-*   [apache/netbeans (⭐3k)](https://github.com/apache/netbeans) — Apache NetBeans ☆`2,977`
+*   [microsoft/vscode (⭐179k)](https://github.com/microsoft/vscode) — Visual Studio Code ☆`179,108`
+*   [apache/netbeans (⭐3k)](https://github.com/apache/netbeans) — Apache NetBeans ☆`2,978`
 
 ### Reading and Writing Tools / Text Editors
 
-*   [zed-industries/zed (⭐70k)](https://github.com/zed-industries/zed) — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. ☆`70,524`
-*   [neovim/neovim (⭐94k)](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability ☆`94,580`
-*   [helix-editor/helix (⭐41k)](https://github.com/helix-editor/helix) — A post-modern modal text editor. ☆`41,538`
-*   [vim/vim (⭐39k)](https://github.com/vim/vim) — The official Vim repository ☆`39,348`
-*   [lapce/lapce (⭐38k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust ☆`37,675`
-*   [CodeEditApp/CodeEdit (⭐22k)](https://github.com/CodeEditApp/CodeEdit) — CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ☆`22,391`
-*   [dail8859/NotepadNext (⭐13k)](https://github.com/dail8859/NotepadNext) — Notepad++ for macOS ☆`12,760`
-*   [macvim-dev/macvim (⭐7.7k)](https://github.com/macvim-dev/macvim) — Vim - the text editor - for macOS ☆`7,742`
+*   [zed-industries/zed (⭐70k)](https://github.com/zed-industries/zed) — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. ☆`70,607`
+*   [neovim/neovim (⭐94k)](https://github.com/neovim/neovim) — Vim-fork focused on extensibility and usability ☆`94,629`
+*   [helix-editor/helix (⭐41k)](https://github.com/helix-editor/helix) — A post-modern modal text editor. ☆`41,575`
+*   [vim/vim (⭐39k)](https://github.com/vim/vim) — The official Vim repository ☆`39,362`
+*   [lapce/lapce (⭐38k)](https://github.com/lapce/lapce) — Lightning-fast and Powerful Code Editor written in Rust ☆`37,676`
+*   [CodeEditApp/CodeEdit (⭐22k)](https://github.com/CodeEditApp/CodeEdit) — CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever. ☆`22,392`
+*   [dail8859/NotepadNext (⭐13k)](https://github.com/dail8859/NotepadNext) — Notepad++ for macOS ☆`12,764`
+*   [macvim-dev/macvim (⭐7.7k)](https://github.com/macvim-dev/macvim) — Vim - the text editor - for macOS ☆`7,745`
 
 ### Developer Tools / Network Analysis
 
-*   [GyulyVGC/sniffnet (⭐32k)](https://github.com/GyulyVGC/sniffnet) — Comfortably monitor your Internet traffic ☆`31,911`
-*   [wireshark/wireshark (⭐8.7k)](https://github.com/wireshark/wireshark) — Wireshark is a network traffic analyzer, or "sniffer" ☆`8,733`
+*   [GyulyVGC/sniffnet (⭐32k)](https://github.com/GyulyVGC/sniffnet) — Comfortably monitor your Internet traffic ☆`31,927`
+*   [wireshark/wireshark (⭐8.7k)](https://github.com/wireshark/wireshark) — Wireshark is a network traffic analyzer, or "sniffer" ☆`8,741`
 
 ### Developer Tools / Version Control
 
-*   [desktop/desktop (⭐21k)](https://github.com/desktop/desktop) — Focus on what matters instead of fighting with Git. ☆`20,995`
+*   [desktop/desktop (⭐21k)](https://github.com/desktop/desktop) — Focus on what matters instead of fighting with Git. ☆`21,002`
 
 ### Developer Tools / Virtualization
 
-*   [utmapp/UTM (⭐32k)](https://github.com/utmapp/UTM) — Virtual machines for iOS and macOS ☆`31,704`
-*   [lima-vm/lima (⭐19k)](https://github.com/lima-vm/lima) — Linux virtual machines, with a focus on running containers ☆`19,421`
-*   [qemu/qemu (⭐12k)](https://github.com/qemu/qemu) — generic and open source machine & userspace emulator and virtualizer ☆`12,317`
-*   [canonical/multipass (⭐8.8k)](https://github.com/canonical/multipass) — Multipass orchestrates virtual Ubuntu instances ☆`8,793`
+*   [utmapp/UTM (⭐32k)](https://github.com/utmapp/UTM) — Virtual machines for iOS and macOS ☆`31,724`
+*   [lima-vm/lima (⭐19k)](https://github.com/lima-vm/lima) — Linux virtual machines, with a focus on running containers ☆`19,464`
+*   [qemu/qemu (⭐12k)](https://github.com/qemu/qemu) — generic and open source machine & userspace emulator and virtualizer ☆`12,327`
+*   [canonical/multipass (⭐8.8k)](https://github.com/canonical/multipass) — Multipass orchestrates virtual Ubuntu instances ☆`8,797`
 
 ### Download Management Tools / Virtualization
 
 *   [soimort/you-get (⭐57k)](https://github.com/soimort/you-get) — Dumb downloader that scrapes the web ☆`56,590`
-*   [agalwood/Motrix (⭐50k)](https://github.com/agalwood/Motrix) — A full-featured download manager. ☆`49,873`
-*   [qbittorrent/qBittorrent (⭐34k)](https://github.com/qbittorrent/qBittorrent) — qBittorrent BitTorrent client ☆`34,154`
-*   [transmission/transmission (⭐14k)](https://github.com/transmission/transmission) — Official Transmission BitTorrent client repository ☆`13,738`
+*   [agalwood/Motrix (⭐50k)](https://github.com/agalwood/Motrix) — A full-featured download manager. ☆`49,887`
+*   [qbittorrent/qBittorrent (⭐34k)](https://github.com/qbittorrent/qBittorrent) — qBittorrent BitTorrent client ☆`34,188`
+*   [transmission/transmission (⭐14k)](https://github.com/transmission/transmission) — Official Transmission BitTorrent client repository ☆`13,742`
 
 ### Encryption / Virtualization
 
-*   [cryptomator/cryptomator (⭐14k)](https://github.com/cryptomator/cryptomator) — Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. ☆`14,064`
+*   [cryptomator/cryptomator (⭐14k)](https://github.com/cryptomator/cryptomator) — Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data. ☆`14,075`
 
 ### File Management Tools / File Managers
 
-*   [raguay/ModalFileManager (⭐158)](https://github.com/raguay/ModalFileManager) — A file manager built using Svelte and Wails. It has hotkeys that are modal just like Vim and NeoVim. ☆`158`
+*   [raguay/ModalFileManager (⭐158)](https://github.com/raguay/ModalFileManager) — A file manager built using Svelte and Wails. It has hotkeys that are modal just like Vim and NeoVim. ☆`160`
 
 ### File Management Tools / File Sharing
 
-*   [localsend/localsend (⭐71k)](https://github.com/localsend/localsend) — An open-source cross-platform alternative to AirDrop ☆`70,997`
-*   [grishka/NearDrop (⭐5.8k)](https://github.com/grishka/NearDrop) — An unofficial Google Nearby Share/Quick Share app for macOS ☆`5,765`
+*   [localsend/localsend (⭐71k)](https://github.com/localsend/localsend) — An open-source cross-platform alternative to AirDrop ☆`71,076`
+*   [grishka/NearDrop (⭐5.8k)](https://github.com/grishka/NearDrop) — An unofficial Google Nearby Share/Quick Share app for macOS ☆`5,770`
 
 ### File Management Tools / Utils
 
-*   [tfeldmann/organize (⭐2.8k)](https://github.com/tfeldmann/organize) — The file management automation tool. ☆`2,825`
-*   [nohajc/anylinuxfs (⭐772)](https://github.com/nohajc/anylinuxfs) — macOS: mount any linux-supported filesystem read/write using NFS and a microVM ☆`781`
+*   [tfeldmann/organize (⭐2.8k)](https://github.com/tfeldmann/organize) — The file management automation tool. ☆`2,826`
+*   [nohajc/anylinuxfs (⭐772)](https://github.com/nohajc/anylinuxfs) — macOS: mount any linux-supported filesystem read/write using NFS and a microVM ☆`783`
 
 ### Gaming Software / Utils
 
-*   [RPCS3/rpcs3 (⭐18k)](https://github.com/RPCS3/rpcs3) — PlayStation 3 emulator and debugger ☆`17,763`
-*   [OpenEmu/OpenEmu (⭐17k)](https://github.com/OpenEmu/OpenEmu) — Retro video game emulation for macOS ☆`17,125`
-*   [hrydgard/ppsspp (⭐13k)](https://github.com/hrydgard/ppsspp) — A PSP emulator for Android, Windows, Mac and Linux, written in C++ ☆`13,028`
-*   [PlayCover/PlayCover (⭐10k)](https://github.com/PlayCover/PlayCover) — Community fork of PlayCover ☆`10,255`
+*   [RPCS3/rpcs3 (⭐18k)](https://github.com/RPCS3/rpcs3) — PlayStation 3 emulator and debugger ☆`17,775`
+*   [OpenEmu/OpenEmu (⭐17k)](https://github.com/OpenEmu/OpenEmu) — Retro video game emulation for macOS ☆`17,135`
+*   [hrydgard/ppsspp (⭐13k)](https://github.com/hrydgard/ppsspp) — A PSP emulator for Android, Windows, Mac and Linux, written in C++ ☆`13,039`
+*   [PlayCover/PlayCover (⭐10k)](https://github.com/PlayCover/PlayCover) — Community fork of PlayCover ☆`10,258`
 
 ### Input Methods / Utils
 
-*   [runjuu/InputSourcePro (⭐2.5k)](https://github.com/runjuu/InputSourcePro) — Switch and track your input sources with ease ☆`2,504`
+*   [runjuu/InputSourcePro (⭐2.5k)](https://github.com/runjuu/InputSourcePro) — Switch and track your input sources with ease ☆`2,506`
 
 ### Proxy and VPN Tools / Utils
 
-*   [shadowsocks/ShadowsocksX-NG (⭐33k)](https://github.com/shadowsocks/ShadowsocksX-NG) — Next Generation of ShadowsocksX ☆`32,874`
-*   [hiddify/hiddify-app (⭐24k)](https://github.com/hiddify/hiddify-app) — Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. ☆`24,475`
-*   [getlantern/lantern (⭐15k)](https://github.com/getlantern/lantern) — Censorship circumvention tool available for free download on any operating system ☆`15,106`
-*   [mullvad/mullvadvpn-app (⭐6.5k)](https://github.com/mullvad/mullvadvpn-app) — The Mullvad VPN client app for desktop and mobile ☆`6,470`
+*   [shadowsocks/ShadowsocksX-NG (⭐33k)](https://github.com/shadowsocks/ShadowsocksX-NG) — Next Generation of ShadowsocksX ☆`32,876`
+*   [hiddify/hiddify-app (⭐24k)](https://github.com/hiddify/hiddify-app) — Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free. ☆`24,509`
+*   [getlantern/lantern (⭐15k)](https://github.com/getlantern/lantern) — Censorship circumvention tool available for free download on any operating system ☆`15,109`
+*   [mullvad/mullvadvpn-app (⭐6.5k)](https://github.com/mullvad/mullvadvpn-app) — The Mullvad VPN client app for desktop and mobile ☆`6,475`
 
 ### QuickLook Plugins / Utils
 
-*   [sindresorhus/quick-look-plugins (⭐18k)](https://github.com/sindresorhus/quick-look-plugins) — List of useful Quick Look plugins for developers ☆`18,454`
+*   [sindresorhus/quick-look-plugins (⭐18k)](https://github.com/sindresorhus/quick-look-plugins) — List of useful Quick Look plugins for developers ☆`18,457`
 *   [sbarex/SourceCodeSyntaxHighlight (⭐3.8k)](https://github.com/sbarex/SourceCodeSyntaxHighlight) — Quick Look extension for highlight source code files on macOS 10.15 and later. ☆`3,764`
 *   [sbarex/QLMarkdown (⭐2k)](https://github.com/sbarex/QLMarkdown) — macOS Quick Look extension for Markdown files. ☆`2,025`
 
 ### Reading and Writing Tools / Ebooks
 
-*   [koodo-reader/koodo-reader (⭐25k)](https://github.com/koodo-reader/koodo-reader) — A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web ☆`25,073`
+*   [koodo-reader/koodo-reader (⭐25k)](https://github.com/koodo-reader/koodo-reader) — A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web ☆`25,091`
 *   [kovidgoyal/calibre (⭐23k)](https://github.com/kovidgoyal/calibre) — The official source code repository for the calibre ebook manager ☆`22,967`
-*   [readest/readest (⭐15k)](https://github.com/readest/readest) — Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. ☆`15,145`
+*   [readest/readest (⭐15k)](https://github.com/readest/readest) — Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. ☆`15,174`
 
 ### Reading and Writing Tools / Markdown Tools Awesome List
 
@@ -6648,193 +6644,193 @@ Language: English <br>
 
 ### Reading and Writing Tools / Note-taking
 
-*   [AppFlowy-IO/AppFlowy (⭐67k)](https://github.com/AppFlowy-IO/AppFlowy) — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. ☆`66,702`
-*   [toeverything/AFFiNE (⭐60k)](https://github.com/toeverything/AFFiNE) — a next-gen knowledge base that brings planning, sorting and creating all together ☆`60,165`
-*   [laurent22/joplin (⭐52k)](https://github.com/laurent22/joplin) — Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. ☆`52,319`
-*   [logseq/logseq (⭐40k)](https://github.com/logseq/logseq) — A privacy-first, open-source platform for knowledge management and collaboration ☆`39,574`
-*   [vnotex/vnote (⭐13k)](https://github.com/vnotex/vnote) — A pleasant note-taking platform in native C++. ☆`12,673`
-*   [glushchenko/fsnotes (⭐7.1k)](https://github.com/glushchenko/fsnotes) — Notes manager for macOS/iOS ☆`7,061`
-*   [massCodeIO/massCode (⭐6.5k)](https://github.com/massCodeIO/massCode) — A free and open source code snippet manager for developers ☆`6,548`
-*   [standardnotes/app (⭐6.1k)](https://github.com/standardnotes/app) — Think fearlessly with end-to-end encrypted notes and files ☆`6,132`
-*   [pbek/QOwnNotes (⭐5.4k)](https://github.com/pbek/QOwnNotes) — QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. ☆`5,395`
-*   [saber-notes/saber (⭐3.8k)](https://github.com/saber-notes/saber) — The cross-platform open-source app built for handwriting ☆`3,816`
+*   [AppFlowy-IO/AppFlowy (⭐67k)](https://github.com/AppFlowy-IO/AppFlowy) — Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative. ☆`66,715`
+*   [toeverything/AFFiNE (⭐60k)](https://github.com/toeverything/AFFiNE) — a next-gen knowledge base that brings planning, sorting and creating all together ☆`60,218`
+*   [laurent22/joplin (⭐52k)](https://github.com/laurent22/joplin) — Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS. ☆`52,336`
+*   [logseq/logseq (⭐40k)](https://github.com/logseq/logseq) — A privacy-first, open-source platform for knowledge management and collaboration ☆`39,607`
+*   [vnotex/vnote (⭐13k)](https://github.com/vnotex/vnote) — A pleasant note-taking platform in native C++. ☆`12,672`
+*   [glushchenko/fsnotes (⭐7.1k)](https://github.com/glushchenko/fsnotes) — Notes manager for macOS/iOS ☆`7,064`
+*   [massCodeIO/massCode (⭐6.5k)](https://github.com/massCodeIO/massCode) — A free and open source code snippet manager for developers ☆`6,552`
+*   [standardnotes/app (⭐6.1k)](https://github.com/standardnotes/app) — Think fearlessly with end-to-end encrypted notes and files ☆`6,135`
+*   [pbek/QOwnNotes (⭐5.4k)](https://github.com/pbek/QOwnNotes) — QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration. ☆`5,396`
+*   [saber-notes/saber (⭐3.8k)](https://github.com/saber-notes/saber) — The cross-platform open-source app built for handwriting ☆`3,822`
 
 ### Reading and Writing Tools / Office
 
-*   [ONLYOFFICE/DesktopEditors (⭐4.2k)](https://github.com/ONLYOFFICE/DesktopEditors) — Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS ☆`4,176`
+*   [ONLYOFFICE/DesktopEditors (⭐4.2k)](https://github.com/ONLYOFFICE/DesktopEditors) — Open-source office suite pack that comprises all the tools you need to work with documents, spreadsheets, presentations, PDFs, and PDF forms on Windows, Linux, and macOS ☆`4,184`
 
 ### Reading and Writing Tools / Others
 
-*   [zotero/zotero (⭐13k)](https://github.com/zotero/zotero) — Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources. ☆`12,914`
+*   [zotero/zotero (⭐13k)](https://github.com/zotero/zotero) — Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources. ☆`12,923`
 *   [antonycourtney/tad (⭐3.4k)](https://github.com/antonycourtney/tad) — A desktop application for viewing and analyzing tabular data ☆`3,402`
 
 ### Reading and Writing Tools / RSS
 
-*   [RSSNext/Folo (⭐36k)](https://github.com/RSSNext/Folo) — Folo is the AI Reader ☆`35,987`
-*   [Ranchero-Software/NetNewsWire (⭐9.3k)](https://github.com/Ranchero-Software/NetNewsWire) — RSS reader for macOS and iOS. ☆`9,333`
+*   [RSSNext/Folo (⭐36k)](https://github.com/RSSNext/Folo) — Folo is the AI Reader ☆`36,011`
+*   [Ranchero-Software/NetNewsWire (⭐9.3k)](https://github.com/Ranchero-Software/NetNewsWire) — RSS reader for macOS and iOS. ☆`9,339`
 
 ### Reading and Writing Tools / Writing
 
-*   [vkbo/novelWriter (⭐2.6k)](https://github.com/vkbo/novelWriter) — novelWriter is an open source plain text editor designed for writing novels. ☆`2,617`
+*   [vkbo/novelWriter (⭐2.6k)](https://github.com/vkbo/novelWriter) — novelWriter is an open source plain text editor designed for writing novels. ☆`2,622`
 
 ### Remote Login Software / Writing
 
-*   [rustdesk/rustdesk (⭐103k)](https://github.com/rustdesk/rustdesk) — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. ☆`103,160`
-*   [LizardByte/Sunshine (⭐32k)](https://github.com/LizardByte/Sunshine) — Self-hosted game stream host for Moonlight. ☆`31,864`
-*   [moonlight-stream/moonlight-qt (⭐15k)](https://github.com/moonlight-stream/moonlight-qt) — GameStream client for PCs (Windows, Mac, Linux, and Steam Link) ☆`15,224`
+*   [rustdesk/rustdesk (⭐103k)](https://github.com/rustdesk/rustdesk) — An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. ☆`103,239`
+*   [LizardByte/Sunshine (⭐32k)](https://github.com/LizardByte/Sunshine) — Self-hosted game stream host for Moonlight. ☆`31,898`
+*   [moonlight-stream/moonlight-qt (⭐15k)](https://github.com/moonlight-stream/moonlight-qt) — GameStream client for PCs (Windows, Mac, Linux, and Steam Link) ☆`15,251`
 
 ### Screenshots and Screen Recorder Tools / Writing
 
-*   [flameshot-org/flameshot (⭐28k)](https://github.com/flameshot-org/flameshot) — Powerful yet simple to use screenshot software ☆`28,324`
+*   [flameshot-org/flameshot (⭐28k)](https://github.com/flameshot-org/flameshot) — Powerful yet simple to use screenshot software ☆`28,338`
 
 ### Security Tools / Writing
 
-*   [objective-see/LuLu (⭐12k)](https://github.com/objective-see/LuLu) — LuLu is the free open-source macOS firewall ☆`11,589`
+*   [objective-see/LuLu (⭐12k)](https://github.com/objective-see/LuLu) — LuLu is the free open-source macOS firewall ☆`11,602`
 *   [objective-see/BlockBlock (⭐723)](https://github.com/objective-see/BlockBlock) — BlockBlock provides continual protection by monitoring persistence locations. ☆`724`
 *   [objective-see/KnockKnock (⭐618)](https://github.com/objective-see/KnockKnock) — Like AutoRuns ...but for macOS! ☆`619`
 
 ### Terminal Apps / Writing
 
-*   [Eugeny/tabby (⭐67k)](https://github.com/Eugeny/tabby) — A terminal for a more modern age ☆`67,345`
-*   [alacritty/alacritty (⭐61k)](https://github.com/alacritty/alacritty) — A cross-platform, OpenGL terminal emulator. ☆`61,212`
-*   [ghostty-org/ghostty (⭐39k)](https://github.com/ghostty-org/ghostty) — Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. ☆`38,660`
-*   [kovidgoyal/kitty (⭐30k)](https://github.com/kovidgoyal/kitty) — If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based. ☆`29,975`
-*   [wezterm/wezterm (⭐23k)](https://github.com/wezterm/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust ☆`22,678`
-*   [gnachman/iTerm2 (⭐17k)](https://github.com/gnachman/iTerm2) — iTerm2 is a terminal emulator for Mac OS X that does amazing things. ☆`16,587`
-*   [wavetermdev/waveterm (⭐13k)](https://github.com/wavetermdev/waveterm) — An open-source, cross-platform terminal for seamless workflows ☆`14,158`
-*   [electerm/electerm (⭐13k)](https://github.com/electerm/electerm) — Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win) ☆`13,287`
+*   [Eugeny/tabby (⭐67k)](https://github.com/Eugeny/tabby) — A terminal for a more modern age ☆`67,372`
+*   [alacritty/alacritty (⭐61k)](https://github.com/alacritty/alacritty) — A cross-platform, OpenGL terminal emulator. ☆`61,230`
+*   [ghostty-org/ghostty (⭐39k)](https://github.com/ghostty-org/ghostty) — Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. ☆`38,703`
+*   [kovidgoyal/kitty (⭐30k)](https://github.com/kovidgoyal/kitty) — If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based. ☆`29,997`
+*   [wezterm/wezterm (⭐23k)](https://github.com/wezterm/wezterm) — A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust ☆`22,689`
+*   [gnachman/iTerm2 (⭐17k)](https://github.com/gnachman/iTerm2) — iTerm2 is a terminal emulator for Mac OS X that does amazing things. ☆`16,586`
+*   [wavetermdev/waveterm (⭐13k)](https://github.com/wavetermdev/waveterm) — An open-source, cross-platform terminal for seamless workflows ☆`14,220`
+*   [electerm/electerm (⭐13k)](https://github.com/electerm/electerm) — Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC client(linux, mac, win) ☆`13,293`
 
 ### Third Party App Markets / Package Managers
 
-*   [Homebrew/brew (⭐46k)](https://github.com/Homebrew/brew) — The missing package manager for macOS (or Linux) ☆`45,612`
-*   [milanvarady/Applite (⭐5.9k)](https://github.com/milanvarady/Applite) — User-friendly GUI macOS application for Homebrew Casks ☆`5,913`
-*   [buresdv/Cork (⭐3.9k)](https://github.com/buresdv/Cork) — A fast GUI for Homebrew written in SwiftUI ☆`3,894`
+*   [Homebrew/brew (⭐46k)](https://github.com/Homebrew/brew) — The missing package manager for macOS (or Linux) ☆`45,630`
+*   [milanvarady/Applite (⭐5.9k)](https://github.com/milanvarady/Applite) — User-friendly GUI macOS application for Homebrew Casks ☆`5,914`
+*   [buresdv/Cork (⭐3.9k)](https://github.com/buresdv/Cork) — A fast GUI for Homebrew written in SwiftUI ☆`3,898`
 
 ### Translation Tools / Package Managers
 
-*   [tisfeng/Easydict (⭐11k)](https://github.com/tisfeng/Easydict) — A concise and elegant Dictionary and Translator macOS App for looking up words and translating text ☆`11,020`
+*   [tisfeng/Easydict (⭐11k)](https://github.com/tisfeng/Easydict) — A concise and elegant Dictionary and Translator macOS App for looking up words and translating text ☆`11,034`
 
 ### Utilities / CLI Tools
 
-*   [withfig/autocomplete (⭐25k)](https://github.com/withfig/autocomplete) — IDE-style autocomplete for your existing terminal & shell ☆`25,070`
+*   [withfig/autocomplete (⭐25k)](https://github.com/withfig/autocomplete) — IDE-style autocomplete for your existing terminal & shell ☆`25,071`
 
 ### Utilities / Clipboard Tools
 
-*   [p0deje/Maccy (⭐18k)](https://github.com/p0deje/Maccy) — Lightweight clipboard manager for macOS ☆`17,658`
-*   [hluk/CopyQ (⭐11k)](https://github.com/hluk/CopyQ) — Clipboard manager with advanced features ☆`10,779`
-*   [Slackadays/Clipboard (⭐5.5k)](https://github.com/Slackadays/Clipboard) — The Clipboard Project is a fast and lightweight, feature packed, and user friendly tool that lets you do more on the computer ☆`5,546`
-*   [PasteBar/PasteBarApp (⭐1.7k)](https://github.com/PasteBar/PasteBarApp) — PasteBar - Limitless, Free Clipboard Manager for Mac and Windows ☆`1,836`
+*   [p0deje/Maccy (⭐18k)](https://github.com/p0deje/Maccy) — Lightweight clipboard manager for macOS ☆`17,679`
+*   [hluk/CopyQ (⭐11k)](https://github.com/hluk/CopyQ) — Clipboard manager with advanced features ☆`10,788`
+*   [Slackadays/Clipboard (⭐5.5k)](https://github.com/Slackadays/Clipboard) — The Clipboard Project is a fast and lightweight, feature packed, and user friendly tool that lets you do more on the computer ☆`5,551`
+*   [PasteBar/PasteBarApp (⭐1.7k)](https://github.com/PasteBar/PasteBarApp) — PasteBar - Limitless, Free Clipboard Manager for Mac and Windows ☆`1,831`
 
 ### Utilities / General Tools
 
-*   [upscayl/upscayl (⭐41k)](https://github.com/upscayl/upscayl) — Free and Open Source AI Image Upscaler for Linux, MacOS and Windows ☆`41,396`
-*   [balena-io/etcher (⭐33k)](https://github.com/balena-io/etcher) — Flash OS images to SD cards & USB drives, safely and easily. ☆`32,629`
-*   [mangerlahn/Latest (⭐4.2k)](https://github.com/mangerlahn/Latest) — A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ☆`4,180`
-*   [jasonjmcghee/rem (⭐2.4k)](https://github.com/jasonjmcghee/rem) — An open source approach to locally record and enable searching everything you view on your Mac. ☆`2,449`
-*   [rlxone/Equinox (⭐1.6k)](https://github.com/rlxone/Equinox) — Create dynamic wallpapers for macOS. ☆`1,589`
-*   [wflixu/RClick (⭐514)](https://github.com/wflixu/RClick) — macos finder contextmenu ☆`518`
+*   [upscayl/upscayl (⭐41k)](https://github.com/upscayl/upscayl) — Free and Open Source AI Image Upscaler for Linux, MacOS and Windows ☆`41,439`
+*   [balena-io/etcher (⭐33k)](https://github.com/balena-io/etcher) — Flash OS images to SD cards & USB drives, safely and easily. ☆`32,641`
+*   [mangerlahn/Latest (⭐4.2k)](https://github.com/mangerlahn/Latest) — A small utility app for macOS that makes sure you know about all the latest updates to the apps you use. ☆`4,185`
+*   [jasonjmcghee/rem (⭐2.4k)](https://github.com/jasonjmcghee/rem) — An open source approach to locally record and enable searching everything you view on your Mac. ☆`2,450`
+*   [rlxone/Equinox (⭐1.6k)](https://github.com/rlxone/Equinox) — Create dynamic wallpapers for macOS. ☆`1,592`
+*   [wflixu/RClick (⭐514)](https://github.com/wflixu/RClick) — macos finder contextmenu ☆`521`
 
 ### Utilities / Menu Bar Tools
 
-*   [jordanbaird/Ice (⭐24k)](https://github.com/jordanbaird/Ice) — Powerful menu bar manager for macOS ☆`24,353`
-*   [FelixKratz/SketchyBar (⭐11k)](https://github.com/FelixKratz/SketchyBar) — A highly customizable macOS status bar replacement ☆`10,563`
-*   [jacklandrin/OnlySwitch (⭐5.3k)](https://github.com/jacklandrin/OnlySwitch) — All-in-One menu bar app, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts ☆`5,267`
+*   [jordanbaird/Ice (⭐24k)](https://github.com/jordanbaird/Ice) — Powerful menu bar manager for macOS ☆`24,402`
+*   [FelixKratz/SketchyBar (⭐11k)](https://github.com/FelixKratz/SketchyBar) — A highly customizable macOS status bar replacement ☆`10,576`
+*   [jacklandrin/OnlySwitch (⭐5.3k)](https://github.com/jacklandrin/OnlySwitch) — All-in-One menu bar app, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts ☆`5,271`
 *   [sfsam/Itsycal (⭐3.7k)](https://github.com/sfsam/Itsycal) — Itsycal is a tiny calendar for menu bar ☆`3,705`
-*   [swiftbar/SwiftBar (⭐3.6k)](https://github.com/swiftbar/SwiftBar) — Powerful macOS menu bar customization tool ☆`3,563`
-*   [DamascenoRafael/reminders-menubar (⭐3.5k)](https://github.com/DamascenoRafael/reminders-menubar) — Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source. ☆`3,551`
-*   [ivoronin/TomatoBar (⭐3k)](https://github.com/ivoronin/TomatoBar) — World's neatest Pomodoro timer for macOS menu bar ☆`3,013`
+*   [swiftbar/SwiftBar (⭐3.6k)](https://github.com/swiftbar/SwiftBar) — Powerful macOS menu bar customization tool ☆`3,564`
+*   [DamascenoRafael/reminders-menubar (⭐3.5k)](https://github.com/DamascenoRafael/reminders-menubar) — Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source. ☆`3,555`
+*   [ivoronin/TomatoBar (⭐3k)](https://github.com/ivoronin/TomatoBar) — World's neatest Pomodoro timer for macOS menu bar ☆`3,016`
 *   [lihaoyun6/AirBattery (⭐2.4k)](https://github.com/lihaoyun6/AirBattery) — Get battery usage of all devices on Mac and show them on the Dock / StatusBar ☆`2,431`
-*   [pakerwreah/Calendr (⭐1.9k)](https://github.com/pakerwreah/Calendr) — Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI ☆`1,932`
-*   [celve/Peninsula (⭐439)](https://github.com/celve/Peninsula) — Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. ☆`442`
+*   [pakerwreah/Calendr (⭐1.9k)](https://github.com/pakerwreah/Calendr) — Menu bar calendar for macOS - MVVM | RxSwift | AppKit | SwiftUI ☆`1,931`
+*   [celve/Peninsula (⭐439)](https://github.com/celve/Peninsula) — Dynamic Peninsula for macOS, focusing on window switching, notifications, and file storage. ☆`443`
 
 ### Utilities / Password Management
 
-*   [keepassxreboot/keepassxc (⭐25k)](https://github.com/keepassxreboot/keepassxc) — KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. ☆`24,941`
+*   [keepassxreboot/keepassxc (⭐25k)](https://github.com/keepassxreboot/keepassxc) — KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. ☆`24,962`
 *   [strongbox-password-safe/Strongbox (⭐1.4k)](https://github.com/strongbox-password-safe/Strongbox) — A KeePass/Password Safe Client for iOS and OS X ☆`1,408`
 
 ### Utilities / Productivity
 
-*   [mattermost-community/focalboard (⭐25k)](https://github.com/mattermost-community/focalboard) — Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. ☆`25,495`
-*   [Caldis/Mos (⭐18k)](https://github.com/Caldis/Mos) — A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS ☆`17,953`
-*   [ActivityWatch/activitywatch (⭐16k)](https://github.com/ActivityWatch/activitywatch) — The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. ☆`15,955`
-*   [Hammerspoon/hammerspoon (⭐14k)](https://github.com/Hammerspoon/hammerspoon) — Staggeringly powerful macOS desktop automation with Lua ☆`14,034`
-*   [noah-nuebling/mac-mouse-fix (⭐8.4k)](https://github.com/noah-nuebling/mac-mouse-fix) — Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! ☆`8,415`
-*   [koekeishiya/skhd (⭐7.6k)](https://github.com/koekeishiya/skhd) — Simple hotkey daemon for macOS ☆`7,628`
-*   [viarotel-org/escrcpy (⭐6.6k)](https://github.com/viarotel-org/escrcpy) — Display and control your Android device graphically with scrcpy. ☆`6,613`
-*   [linearmouse/linearmouse (⭐5.1k)](https://github.com/linearmouse/linearmouse) — The mouse and trackpad utility for Mac. ☆`5,129`
-*   [zenangst/KeyboardCowboy (⭐2k)](https://github.com/zenangst/KeyboardCowboy) — The missing keyboard shortcut utility for macOS ☆`1,967`
-*   [FreeterApp/Freeter (⭐900)](https://github.com/FreeterApp/Freeter) — Freeter – a smarter way to work on your computer ☆`902`
-*   [WINBIGFOX/TimeScribe (⭐603)](https://github.com/WINBIGFOX/TimeScribe) — A modern, flexible time tracking app for capturing and managing personal working hours ☆`605`
+*   [mattermost-community/focalboard (⭐25k)](https://github.com/mattermost-community/focalboard) — Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana. ☆`25,499`
+*   [Caldis/Mos (⭐18k)](https://github.com/Caldis/Mos) — A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS ☆`17,963`
+*   [ActivityWatch/activitywatch (⭐16k)](https://github.com/ActivityWatch/activitywatch) — The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. ☆`15,972`
+*   [Hammerspoon/hammerspoon (⭐14k)](https://github.com/Hammerspoon/hammerspoon) — Staggeringly powerful macOS desktop automation with Lua ☆`14,040`
+*   [noah-nuebling/mac-mouse-fix (⭐8.4k)](https://github.com/noah-nuebling/mac-mouse-fix) — Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad! ☆`8,429`
+*   [koekeishiya/skhd (⭐7.6k)](https://github.com/koekeishiya/skhd) — Simple hotkey daemon for macOS ☆`7,632`
+*   [viarotel-org/escrcpy (⭐6.6k)](https://github.com/viarotel-org/escrcpy) — Display and control your Android device graphically with scrcpy. ☆`6,631`
+*   [linearmouse/linearmouse (⭐5.1k)](https://github.com/linearmouse/linearmouse) — The mouse and trackpad utility for Mac. ☆`5,132`
+*   [zenangst/KeyboardCowboy (⭐2k)](https://github.com/zenangst/KeyboardCowboy) — The missing keyboard shortcut utility for macOS ☆`1,969`
+*   [FreeterApp/Freeter (⭐900)](https://github.com/FreeterApp/Freeter) — Freeter – a smarter way to work on your computer ☆`904`
+*   [WINBIGFOX/TimeScribe (⭐603)](https://github.com/WINBIGFOX/TimeScribe) — A modern, flexible time tracking app for capturing and managing personal working hours ☆`606`
 
 ### Utilities / System Related Tools
 
-*   [exelban/stats (⭐35k)](https://github.com/exelban/stats) — macOS system monitor in your menu bar ☆`34,935`
-*   [MonitorControl/MonitorControl (⭐32k)](https://github.com/MonitorControl/MonitorControl) — Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. ☆`31,742`
-*   [waydabber/BetterDisplay (⭐28k)](https://github.com/waydabber/BetterDisplay) — Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! ☆`28,285`
-*   [pqrs-org/Karabiner-Elements (⭐21k)](https://github.com/pqrs-org/Karabiner-Elements) — Karabiner-Elements is a powerful tool for customizing keyboards on macOS ☆`21,052`
-*   [kyleneideck/BackgroundMusic (⭐18k)](https://github.com/kyleneideck/BackgroundMusic) — Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ☆`18,200`
-*   [alienator88/Pearcleaner (⭐9.6k)](https://github.com/alienator88/Pearcleaner) — A free, source-available and fair-code licensed mac app cleaner ☆`9,660`
-*   [AppHouseKitchen/AlDente-Battery\_Care\_and\_Monitoring (⭐8.8k)](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) — Menubar Tool to set Charge Limits and Prolong Battery Lifespan ☆`8,821`
-*   [sveinbjornt/Sloth (⭐8.6k)](https://github.com/sveinbjornt/Sloth) — Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. ☆`8,587`
+*   [exelban/stats (⭐35k)](https://github.com/exelban/stats) — macOS system monitor in your menu bar ☆`34,957`
+*   [MonitorControl/MonitorControl (⭐32k)](https://github.com/MonitorControl/MonitorControl) — Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. ☆`31,757`
+*   [waydabber/BetterDisplay (⭐28k)](https://github.com/waydabber/BetterDisplay) — Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! ☆`28,314`
+*   [pqrs-org/Karabiner-Elements (⭐21k)](https://github.com/pqrs-org/Karabiner-Elements) — Karabiner-Elements is a powerful tool for customizing keyboards on macOS ☆`21,057`
+*   [kyleneideck/BackgroundMusic (⭐18k)](https://github.com/kyleneideck/BackgroundMusic) — Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio. ☆`18,202`
+*   [alienator88/Pearcleaner (⭐9.6k)](https://github.com/alienator88/Pearcleaner) — A free, source-available and fair-code licensed mac app cleaner ☆`9,683`
+*   [AppHouseKitchen/AlDente-Battery\_Care\_and\_Monitoring (⭐8.8k)](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) — Menubar Tool to set Charge Limits and Prolong Battery Lifespan ☆`8,823`
+*   [sveinbjornt/Sloth (⭐8.6k)](https://github.com/sveinbjornt/Sloth) — Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. ☆`8,589`
 
 ### Utilities / To-Do Lists
 
-*   [johannesjo/super-productivity (⭐16k)](https://github.com/johannesjo/super-productivity) — Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. ☆`16,153`
+*   [johannesjo/super-productivity (⭐16k)](https://github.com/johannesjo/super-productivity) — Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project. ☆`16,172`
 
 ### Utilities / Window Management
 
-*   [rxhanson/Rectangle (⭐28k)](https://github.com/rxhanson/Rectangle) — Move and resize windows on macOS with keyboard shortcuts and snap areas ☆`27,903`
-*   [koekeishiya/yabai (⭐28k)](https://github.com/koekeishiya/yabai) — A tiling window manager for macOS based on binary space partitioning ☆`27,597`
-*   [nikitabobko/AeroSpace (⭐17k)](https://github.com/nikitabobko/AeroSpace) — AeroSpace is an i3-like tiling window manager for macOS ☆`17,061`
-*   [ianyh/Amethyst (⭐16k)](https://github.com/ianyh/Amethyst) — Automatic tiling window manager for macOS à la xmonad. ☆`15,863`
-*   [lwouis/alt-tab-macos (⭐14k)](https://github.com/lwouis/alt-tab-macos) — Windows alt-tab on macOS ☆`13,847`
-*   [MrKai77/Loop (⭐9.5k)](https://github.com/MrKai77/Loop) — Window management made elegant. ☆`9,530`
-*   [ejbills/DockDoor (⭐3.1k)](https://github.com/ejbills/DockDoor) — Window peeking, alt-tab and other enhancements for macOS ☆`3,157`
-*   [FelixKratz/JankyBorders (⭐2.9k)](https://github.com/FelixKratz/JankyBorders) — A lightweight window border system for macOS ☆`2,953`
-*   [lihaoyun6/Topit (⭐1.2k)](https://github.com/lihaoyun6/Topit) — Pin any window to the top of your screen ☆`1,194`
+*   [rxhanson/Rectangle (⭐28k)](https://github.com/rxhanson/Rectangle) — Move and resize windows on macOS with keyboard shortcuts and snap areas ☆`27,916`
+*   [koekeishiya/yabai (⭐28k)](https://github.com/koekeishiya/yabai) — A tiling window manager for macOS based on binary space partitioning ☆`27,610`
+*   [nikitabobko/AeroSpace (⭐17k)](https://github.com/nikitabobko/AeroSpace) — AeroSpace is an i3-like tiling window manager for macOS ☆`17,141`
+*   [ianyh/Amethyst (⭐16k)](https://github.com/ianyh/Amethyst) — Automatic tiling window manager for macOS à la xmonad. ☆`15,864`
+*   [lwouis/alt-tab-macos (⭐14k)](https://github.com/lwouis/alt-tab-macos) — Windows alt-tab on macOS ☆`13,856`
+*   [MrKai77/Loop (⭐9.5k)](https://github.com/MrKai77/Loop) — Window management made elegant. ☆`9,537`
+*   [ejbills/DockDoor (⭐3.1k)](https://github.com/ejbills/DockDoor) — Window peeking, alt-tab and other enhancements for macOS ☆`3,174`
+*   [FelixKratz/JankyBorders (⭐2.9k)](https://github.com/FelixKratz/JankyBorders) — A lightweight window border system for macOS ☆`2,962`
+*   [lihaoyun6/Topit (⭐1.2k)](https://github.com/lihaoyun6/Topit) — Pin any window to the top of your screen ☆`1,195`
 
 ## [148. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
 
 ### Agents
 
-*   [zylon-ai/private-gpt (⭐57k)](https://github.com/zylon-ai/private-gpt) — Interact with your documents using the power of GPT, 100% privately, no data leaks ☆`56,870`
-*   [AntonOsika/gpt-engineer (⭐55k)](https://github.com/AntonOsika/gpt-engineer) — CLI platform to experiment with codegen ☆`55,063`
+*   [zylon-ai/private-gpt (⭐57k)](https://github.com/zylon-ai/private-gpt) — Interact with your documents using the power of GPT, 100% privately, no data leaks ☆`56,874`
+*   [AntonOsika/gpt-engineer (⭐55k)](https://github.com/AntonOsika/gpt-engineer) — CLI platform to experiment with codegen ☆`55,071`
 *   [Aider-AI/aider (⭐39k)](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal ☆`38,693`
-*   [QuivrHQ/quivr (⭐39k)](https://github.com/QuivrHQ/quivr) — Opiniated RAG for integrating GenAI in your apps Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ☆`38,652`
-*   [plandex-ai/plandex (⭐15k)](https://github.com/plandex-ai/plandex) — Open source AI coding agent. Designed for large projects and real world tasks. ☆`14,696`
-*   [smol-ai/developer (⭐12k)](https://github.com/smol-ai/developer) — the first library to let you embed a developer agent in your own app! ☆`12,180`
+*   [QuivrHQ/quivr (⭐39k)](https://github.com/QuivrHQ/quivr) — Opiniated RAG for integrating GenAI in your apps Focus on your product rather than the RAG. Easy integration in existing products with customisation! Any LLM: GPT4, Groq, Llama. Any Vectorstore: PGVector, Faiss. Any Files. Anyway you want. ☆`38,653`
+*   [plandex-ai/plandex (⭐15k)](https://github.com/plandex-ai/plandex) — Open source AI coding agent. Designed for large projects and real world tasks. ☆`14,698`
+*   [smol-ai/developer (⭐12k)](https://github.com/smol-ai/developer) — the first library to let you embed a developer agent in your own app! ☆`12,181`
 *   [kuafuai/DevOpsGPT (⭐6k)](https://github.com/kuafuai/DevOpsGPT) — Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code. ☆`5,965`
-*   [dagger/container-use (⭐3.3k)](https://github.com/dagger/container-use) — Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. ☆`3,285`
-*   [splx-ai/agentic-radar (⭐817)](https://github.com/splx-ai/agentic-radar) — A security scanner for your LLM agentic workflows ☆`819`
+*   [dagger/container-use (⭐3.3k)](https://github.com/dagger/container-use) — Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack. ☆`3,287`
+*   [splx-ai/agentic-radar (⭐817)](https://github.com/splx-ai/agentic-radar) — A security scanner for your LLM agentic workflows ☆`823`
 *   [Nayjest/Gito (⭐64)](https://github.com/Nayjest/Gito) — An AI-powered GitHub code review tool that uses LLMs to detect high-confidence, high-impact issues—such as security vulnerabilities, bugs, and maintainability concerns. ☆`68`
 
 ### Claude Code / Laravel
 
-*   [stravu/crystal (⭐2.5k)](https://github.com/stravu/crystal) — Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app. ☆`2,501`
-*   [eyaltoledano/claude-task-master (⭐24k)](https://github.com/eyaltoledano/claude-task-master) — An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. ☆`23,939`
-*   [SuperClaude-Org/SuperClaude\_Framework (⭐18k)](https://github.com/SuperClaude-Org/SuperClaude_Framework) — A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. ☆`18,459`
-*   [davila7/claude-code-templates (⭐12k)](https://github.com/davila7/claude-code-templates) — CLI tool for configuring and monitoring Claude Code ☆`11,759`
-*   [anthropics/claude-quickstarts (⭐10k)](https://github.com/anthropics/claude-quickstarts) — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API ☆`10,449`
-*   [ruvnet/claude-flow (⭐10k)](https://github.com/ruvnet/claude-flow) — The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks. ☆`10,183`
-*   [ryoppippi/ccusage (⭐9k)](https://github.com/ryoppippi/ccusage) — A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files. ☆`9,072`
-*   [Maciek-roboblog/Claude-Code-Usage-Monitor (⭐5.8k)](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) — Real-time Claude Code usage monitor with predictions and warnings ☆`5,786`
-*   [automazeio/ccpm (⭐5.5k)](https://github.com/automazeio/ccpm) — Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. ☆`5,537`
-*   [smtg-ai/claude-squad (⭐5.1k)](https://github.com/smtg-ai/claude-squad) — Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp. ☆`5,173`
-*   [anthropics/claude-code-action (⭐4.2k)](https://github.com/anthropics/claude-code-action) — A general-purpose Claude Code action for GitHub PRs and issues ☆`4,188`
-*   [slopus/happy (⭐4.2k)](https://github.com/slopus/happy) — Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured ☆`4,257`
-*   [OneRedOak/claude-code-workflows (⭐3.2k)](https://github.com/OneRedOak/claude-code-workflows) — The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup. ☆`3,191`
-*   [sirmalloc/ccstatusline (⭐2k)](https://github.com/sirmalloc/ccstatusline) — Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more. ☆`2,043`
-*   [greggh/claude-code.nvim (⭐1.6k)](https://github.com/greggh/claude-code.nvim) — Seamless integration between Claude Code AI assistant and Neovim ☆`1,580`
-*   [nizos/tdd-guard (⭐1.5k)](https://github.com/nizos/tdd-guard) — Automated TDD enforcement for Claude Code ☆`1,526`
-*   [parruda/swarm (⭐1.5k)](https://github.com/parruda/swarm) — Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semantic search, node workflows, and hooks. SwarmMemory/SwarmCLI included. Claude Swarm v1 for dev teams. ☆`1,492`
-*   [stevemolitor/claude-code.el (⭐535)](https://github.com/stevemolitor/claude-code.el) — Claude Code Emacs integration ☆`542`
-*   [pchalasani/claude-code-tools (⭐495)](https://github.com/pchalasani/claude-code-tools) — Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents. ☆`511`
-*   [Piebald-AI/tweakcc (⭐431)](https://github.com/Piebald-AI/tweakcc) — Customize Claude Code's system prompts, create custom toolsets, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization). Supports both native (binary) and npm installs on all platforms. ☆`471`
-*   [Owloops/claude-powerline (⭐465)](https://github.com/Owloops/claude-powerline) — Beautiful vim-style powerline statusline for Claude Code ☆`471`
-*   [carlrannaberg/claudekit (⭐413)](https://github.com/carlrannaberg/claudekit) — A toolkit of custom commands, hooks, and utilities for Claude Code ☆`425`
+*   [stravu/crystal (⭐2.5k)](https://github.com/stravu/crystal) — Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app. ☆`2,506`
+*   [eyaltoledano/claude-task-master (⭐24k)](https://github.com/eyaltoledano/claude-task-master) — An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. ☆`23,954`
+*   [SuperClaude-Org/SuperClaude\_Framework (⭐18k)](https://github.com/SuperClaude-Org/SuperClaude_Framework) — A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. ☆`18,546`
+*   [davila7/claude-code-templates (⭐12k)](https://github.com/davila7/claude-code-templates) — CLI tool for configuring and monitoring Claude Code ☆`11,830`
+*   [anthropics/claude-quickstarts (⭐10k)](https://github.com/anthropics/claude-quickstarts) — A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API ☆`10,473`
+*   [ruvnet/claude-flow (⭐10k)](https://github.com/ruvnet/claude-flow) — The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks. ☆`10,202`
+*   [ryoppippi/ccusage (⭐9k)](https://github.com/ryoppippi/ccusage) — A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files. ☆`9,078`
+*   [Maciek-roboblog/Claude-Code-Usage-Monitor (⭐5.8k)](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) — Real-time Claude Code usage monitor with predictions and warnings ☆`5,789`
+*   [automazeio/ccpm (⭐5.5k)](https://github.com/automazeio/ccpm) — Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution. ☆`5,550`
+*   [smtg-ai/claude-squad (⭐5.1k)](https://github.com/smtg-ai/claude-squad) — Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp. ☆`5,179`
+*   [anthropics/claude-code-action (⭐4.2k)](https://github.com/anthropics/claude-code-action) — A general-purpose Claude Code action for GitHub PRs and issues ☆`4,199`
+*   [slopus/happy (⭐4.2k)](https://github.com/slopus/happy) — Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured ☆`4,282`
+*   [OneRedOak/claude-code-workflows (⭐3.2k)](https://github.com/OneRedOak/claude-code-workflows) — The best workflows and configurations I've developed, having heavily used Claude Code since the day of it's release. Workflows are based off applied learnings from our AI-native startup. ☆`3,193`
+*   [sirmalloc/ccstatusline (⭐2k)](https://github.com/sirmalloc/ccstatusline) — Beautiful highly customizable statusline for Claude Code CLI with powerline support, themes, and more. ☆`2,050`
+*   [greggh/claude-code.nvim (⭐1.6k)](https://github.com/greggh/claude-code.nvim) — Seamless integration between Claude Code AI assistant and Neovim ☆`1,582`
+*   [nizos/tdd-guard (⭐1.5k)](https://github.com/nizos/tdd-guard) — Automated TDD enforcement for Claude Code ☆`1,531`
+*   [parruda/swarm (⭐1.5k)](https://github.com/parruda/swarm) — Ruby gems for general-purpose AI agent systems: automation, research, data processing, customer support, content creation. SwarmSDK provides single-process orchestration, persistent memory with semantic search, node workflows, and hooks. SwarmMemory/SwarmCLI included. Claude Swarm v1 for dev teams. ☆`1,494`
+*   [stevemolitor/claude-code.el (⭐535)](https://github.com/stevemolitor/claude-code.el) — Claude Code Emacs integration ☆`543`
+*   [pchalasani/claude-code-tools (⭐495)](https://github.com/pchalasani/claude-code-tools) — Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents. ☆`512`
+*   [Piebald-AI/tweakcc (⭐431)](https://github.com/Piebald-AI/tweakcc) — Customize Claude Code's system prompts, create custom toolsets, add custom themes/thinking verbs/spinner, input box style, user message display, sign-in ASCII art, fix bugs (frozen spinner), and add features (context limit customization). Supports both native (binary) and npm installs on all platforms. ☆`475`
+*   [Owloops/claude-powerline (⭐465)](https://github.com/Owloops/claude-powerline) — Beautiful vim-style powerline statusline for Claude Code ☆`473`
+*   [carlrannaberg/claudekit (⭐413)](https://github.com/carlrannaberg/claudekit) — A toolkit of custom commands, hooks, and utilities for Claude Code ☆`434`
 *   [claude-did-this/claude-hub (⭐295)](https://github.com/claude-did-this/claude-hub) — A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions, and help developers understand and improve their codebase through simple @mentions. ☆`296`
 *   [rz1989s/claude-code-statusline (⭐201)](https://github.com/rz1989s/claude-code-statusline) — Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes. ☆`203`
-*   [JSONbored/claudepro-directory (⭐123)](https://github.com/JSONbored/claudepro-directory) — Claude Pro Directory is a searchable collection of pre-built configurations, MCP servers, and custom rules designed to enhance Claude AI's performance for specific tasks. ☆`131`
+*   [JSONbored/claudepro-directory (⭐123)](https://github.com/JSONbored/claudepro-directory) — Claude Pro Directory is a searchable collection of pre-built configurations, MCP servers, and custom rules designed to enhance Claude AI's performance for specific tasks. ☆`132`
 *   [dazuiba/CCNotify (⭐119)](https://github.com/dazuiba/CCNotify) — CCNotify provides desktop notifications for Claude Code, alerting you when Claude needs your input or completes tasks. ☆`122`
 *   [Brads3290/cclogviewer (⭐54)](https://github.com/Brads3290/cclogviewer) — Review Claude Code .jsonl files with a nice HTML UI ☆`54`
 *   [Veraticus/cc-tools (⭐34)](https://github.com/Veraticus/cc-tools) — Claude Code tools ☆`35`
@@ -6846,16 +6842,16 @@ Language: English <br>
 
 ### App generators
 
-*   [stackblitz-labs/bolt.diy (⭐19k)](https://github.com/stackblitz-labs/bolt.diy) — Prompt, run, edit, and deploy full-stack web applications using any LLM you want! ☆`18,573`
+*   [stackblitz-labs/bolt.diy (⭐19k)](https://github.com/stackblitz-labs/bolt.diy) — Prompt, run, edit, and deploy full-stack web applications using any LLM you want! ☆`18,594`
 
 ### Assistants / IDE extensions
 
-*   [smallcloudai/refact (⭐3.4k)](https://github.com/smallcloudai/refact) — AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. ☆`3,391`
+*   [smallcloudai/refact (⭐3.4k)](https://github.com/smallcloudai/refact) — AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result. ☆`3,392`
 
 ### Backend / Go
 
-*   [mark3labs/mcp-go (⭐7.7k)](https://github.com/mark3labs/mcp-go) — A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. ☆`7,718`
-*   [googleapis/go-genai (⭐881)](https://github.com/googleapis/go-genai) — Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications. ☆`887`
+*   [mark3labs/mcp-go (⭐7.7k)](https://github.com/mark3labs/mcp-go) — A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. ☆`7,721`
+*   [googleapis/go-genai (⭐881)](https://github.com/googleapis/go-genai) — Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications. ☆`889`
 
 ### Backend / Laravel
 
@@ -6863,21 +6859,21 @@ Language: English <br>
 
 ### Gemini / Laravel
 
-*   [google-gemini/gemini-cli (⭐84k)](https://github.com/google-gemini/gemini-cli) — An open-source AI agent that brings the power of Gemini directly into your terminal. ☆`85,098`
-*   [google-gemini/cookbook (⭐16k)](https://github.com/google-gemini/cookbook) — Examples and guides for using the Gemini API ☆`15,654`
-*   [jamubc/gemini-mcp-tool (⭐1.6k)](https://github.com/jamubc/gemini-mcp-tool) — MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding ☆`1,648`
-*   [google-github-actions/run-gemini-cli (⭐1.5k)](https://github.com/google-github-actions/run-gemini-cli) — A GitHub Action invoking the Gemini CLI. ☆`1,555`
-*   [GewoonJaap/gemini-cli-openai (⭐731)](https://github.com/GewoonJaap/gemini-cli-openai) — Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers ☆`741`
-*   [gzzhongqi/geminicli2api (⭐325)](https://github.com/gzzhongqi/geminicli2api) —  ☆`339`
-*   [clduab11/gemini-flow (⭐213)](https://github.com/clduab11/gemini-flow) — rUv's Claude-Flow, translated to the new Gemini CLI; transforming it into an autonomous AI development team. ☆`226`
+*   [google-gemini/gemini-cli (⭐84k)](https://github.com/google-gemini/gemini-cli) — An open-source AI agent that brings the power of Gemini directly into your terminal. ☆`85,201`
+*   [google-gemini/cookbook (⭐16k)](https://github.com/google-gemini/cookbook) — Examples and guides for using the Gemini API ☆`15,663`
+*   [jamubc/gemini-mcp-tool (⭐1.6k)](https://github.com/jamubc/gemini-mcp-tool) — MCP server that enables AI assistants to interact with Google Gemini CLI, leveraging Gemini's massive token window for large file analysis and codebase understanding ☆`1,659`
+*   [google-github-actions/run-gemini-cli (⭐1.5k)](https://github.com/google-github-actions/run-gemini-cli) — A GitHub Action invoking the Gemini CLI. ☆`1,559`
+*   [GewoonJaap/gemini-cli-openai (⭐731)](https://github.com/GewoonJaap/gemini-cli-openai) — Expose Gemini CLI endpoints as OpenAI API with Cloudflare Workers ☆`743`
+*   [gzzhongqi/geminicli2api (⭐325)](https://github.com/gzzhongqi/geminicli2api) —  ☆`340`
+*   [clduab11/gemini-flow (⭐213)](https://github.com/clduab11/gemini-flow) — rUv's Claude-Flow, translated to the new Gemini CLI; transforming it into an autonomous AI development team. ☆`227`
 *   [nettee/gemini-cli-proxy (⭐121)](https://github.com/nettee/gemini-cli-proxy) — Wrap Gemini CLI as an OpenAI-compatible API service, allowing you to enjoy the free Gemini 2.5 Pro model through API! ☆`122`
 *   [openmule/gacua (⭐99)](https://github.com/openmule/gacua) — The World's First Out-of-the-Box Computer Use Agent Powered by Gemini-CLI @openmule ☆`101`
-*   [choplin/mcp-gemini-cli (⭐83)](https://github.com/choplin/mcp-gemini-cli) —  ☆`85`
-*   [Brioch/gemini-openai-proxy (⭐38)](https://github.com/Brioch/gemini-openai-proxy) — Gemini CLI wrapper to serve Gemini models through an OpenAI-compatible API ☆`39`
+*   [choplin/mcp-gemini-cli (⭐83)](https://github.com/choplin/mcp-gemini-cli) —  ☆`86`
+*   [Brioch/gemini-openai-proxy (⭐38)](https://github.com/Brioch/gemini-openai-proxy) — Gemini CLI wrapper to serve Gemini models through an OpenAI-compatible API ☆`40`
 
 ### PR agents / Laravel
 
-*   [qodo-ai/pr-agent (⭐9.5k)](https://github.com/qodo-ai/pr-agent) — PR-Agent: An AI-Powered Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! ☆`9,533`
+*   [qodo-ai/pr-agent (⭐9.5k)](https://github.com/qodo-ai/pr-agent) — PR-Agent: An AI-Powered Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! ☆`9,537`
 *   [sweepai/sweep (⭐7.6k)](https://github.com/sweepai/sweep) — Sweep: AI coding assistant for JetBrains ☆`7,610`
 *   [mattzcarey/shippie (⭐2.3k)](https://github.com/mattzcarey/shippie) — extendable code review and QA agent ☆`2,296`
 
@@ -6887,7 +6883,7 @@ Language: English <br>
 
 ### Other / Laravel
 
-*   [av/harbor (⭐2.2k)](https://github.com/av/harbor) — Effortlessly run LLM backends, APIs, frontends, and services with one command. ☆`2,160`
+*   [av/harbor (⭐2.2k)](https://github.com/av/harbor) — Effortlessly run LLM backends, APIs, frontends, and services with one command. ☆`2,161`
 
 ## [149. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
