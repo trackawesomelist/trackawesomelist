@@ -1,12 +1,18 @@
 # Awesome List Updates on Dec 01, 2025
 
-7 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+## [1. Awesome Mysql](/content/shlomi-noach/awesome-mysql/README.md)
+
+### MCP
+
+*   [MCP MariaDB Server (⭐95)](https://github.com/MariaDB/mcp) - the official MariaDB MCP server.
+
+## [2. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ### Social Media Tools / Telegram
 
@@ -66,37 +72,37 @@
 *   [UsInfoBot](https://t.me/usinfobot) — Resolves username from ID (inline).
 *   [WhoisDomBot](https://t.me/WhoisDomBot) — Whois lookup for domains/IPs + dig/trace.
 
-## [2. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Resources / Data Formats
 
 *   [YAML (⭐429) (⭐427)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [4. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Utilities / Menu Bar Tools
 
 *   [DynamicHorizon](https://dynamichorizon.app) - Enhances the notch with seamless media controls, airdrop, notifications, system indicators and lock screen widgets.
 
-## [4. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [5. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Miscellaneous
 
 *   [EmbedPDF](https://www.embedpdf.com/docs/svelte/introduction) - A modular, high-performance PDF viewer and editor built for Svelte, powered by PDFium. Fully extensible with plugins for annotations, redaction, thumbnails, and more.
 
-## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
 *   [pebeto/dookie.nvim (⭐6)](https://github.com/pebeto/dookie.nvim) - A color scheme inspired by Plan9's acme editor.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+## [7. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ipnav (⭐1)](https://github.com/clebertmarctyson/oh-my-zsh-ipnav) - Provides convenient aliases and completions for IP address operations [ip-navigator-cli (⭐1)](https://github.com/clebertmarctyson/ip-navigator-cli).
 
-## [7. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [8. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Data Lake Management
 
