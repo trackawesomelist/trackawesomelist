@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 01, 2025](/content/2025/12/01/README.md)
+
+### Colorscheme / Tree-sitter Supported Colorscheme
+
+*   [pebeto/dookie.nvim (⭐6)](https://github.com/pebeto/dookie.nvim) - A color scheme inspired by Plan9's acme editor.
+
 ## [Nov 30, 2025](/content/2025/11/30/README.md)
 
 ### Plugin Manager

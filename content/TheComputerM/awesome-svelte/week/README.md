@@ -6,6 +6,12 @@
 
 [ [Daily](/content/TheComputerM/awesome-svelte/README.md) / Weekly / [Overview](/content/TheComputerM/awesome-svelte/readme/README.md) ]
 
+## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
+
+### Miscellaneous
+
+*   [EmbedPDF](https://www.embedpdf.com/docs/svelte/introduction) - A modular, high-performance PDF viewer and editor built for Svelte, powered by PDFium. Fully extensible with plugins for annotations, redaction, thumbnails, and more.
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Community

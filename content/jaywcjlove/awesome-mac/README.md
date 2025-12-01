@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Dec 01, 2025](/content/2025/12/01/README.md)
+
+### Utilities / Menu Bar Tools
+
+*   [DynamicHorizon](https://dynamichorizon.app) - Enhances the notch with seamless media controls, airdrop, notifications, system indicators and lock screen widgets.
+
 ## [Nov 29, 2025](/content/2025/11/29/README.md)
 
 ### Developer Tools / Version Control

@@ -6,6 +6,66 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Dec 01, 2025](/content/2025/12/01/README.md)
+
+### Social Media Tools / Telegram
+
+*   [AgentFNS\_Bot](https://t.me/AgentFNS_bot) — Free instant counterparty check using official data (INN/OGRN).
+*   [AVinfoBot](https://t.me/AVskp_Bot) — Used-car history via plate/VIN/phone.
+*   [AvtoNomer](https://t.me/avtonomerbot) — Finds vehicle photos by plate via platesmania.com.
+*   [avtogram\_bot](https://telegram.me/ABTOGRAMBOT) — Paid car reports (VIN/plate): accidents, fines, liens.
+*   [avtocodbot](https://t.me/avtocodbot) — Paid VIN/plate lookup.
+*   [bmi\_np\_bot](https://t.me/MNProbot) — Identifies phone-number operator and basic info.
+*   [ChatSearchRobot](https://t.me/ChatSearchRobot) — Finds chats with similar topics; 709k+ VK chats.
+*   [ClerkBot](https://t.me/clerksecretbot) — Phone + username lookup; vehicle info.
+*   [creationdatebot](https://t.me/creationdatebot) — Approx. Telegram account creation date.
+*   [CryptoBot](https://t.me/CryptoBot) — Anonymous crypto wallet.
+*   [datXpert](https://telegram.me/datxpertbot) — Leak search via IntelX.
+*   [Detectiva](http://detectiva.link/rezervBot) — Phone/email lookup with 6 search types.
+*   [Discord Sensor](https://telegram.me/discordsensorbot) — Retrieves Discord account data.
+*   [dCallsBot](https://t.me/dCallsBot) — Anonymous calls, masking, eSIM/DID.
+*   [EasyVIN](https://t.me/EasyVINbot) — Cheap VIN/plate history check.
+*   [egrul\_bot](https://t.me/egrul_bot) — Free counterparty-check bot.
+*   [EyeTON](https://telegram.me/istoneyebot) — TON wallet graph + linked profiles.
+*   [FindStickerCreator](https://t.me/SPOwnerBot) — Finds creator of any Telegram sticker pack.
+*   [Фари](https://telegram.me/faribybot) — VIN-history lookup from getcar.by.
+*   [GeoMacFinder](https://t.me/geomacbot) — Finds Wi-Fi AP location by MAC/BSSID.
+*   [getChatList](https://telegram.me/getchatlistbot) — Shows user’s group list.
+*   [Getairplane](https://telegram.me/getairplane_bot) — Phone → flight history (20 years).
+*   [GetSendGifts](https://telegram.me/GetSendGiftsProBot) — Shows who sent Telegram gifts.
+*   [HimeraSearch](https://t.me/HimeraNeGBL8Pro1dp_Search_bot) — OSINT/HUMINT search: phones, emails, vehicles, people, courts.
+*   [Insight](https://t.me/ibhld_bot) — Shows interests based on subscriptions.
+*   [InstaAnonym](https://t.me/instaanonymbot) — Anonymous Instagram/VK viewer.
+*   [InstaBot](https://telegram.me/InstaBot) — Downloads Instagram media.
+*   [ITP Infotrack](https://infotrackpeople.org/) — People, vehicle, property lookup.
+*   [Leak OSINT](https://telegram.me/Leak_SSINTbot) — Phone-number leakage check.
+*   [Maigret OSINT bot](https://t.me/osint_maigret_bot) — Username search on 1,366 sites.
+*   [mnp\_bot](https://t.me/mnp_bot) — Phone operator + region.
+*   [MotherSearchBot](https://t.me/MotherSearchBot) — Google-like Telegram search.
+*   [NEUROAUTOSEARCH](https://t.me/noblackAuto_bot) — Car DB search + neural networks.
+*   [OkSearch](https://telegram.me/OkSearchBot) — Search channels, bots, groups by keyword.
+*   [OpenDataUABot](https://t.me/OpenDataUABot) — Ukrainian OSINT bot.
+*   [OPENLOAD Bot](https://t.me/OPENLOADTOPBOT) — Semi-automated OSINT/vuln scanning suite.
+*   [Osintkit](https://t.me/osintkit_check_bot) — Ukrainian lookup: passport, tax ID, email, phone, address, vehicles, Telegram.
+*   [PasswordSearch](https://telegram.me/PasswordSearchBot) — Shows leaked passwords for an email.
+*   [PimEyes](https://telegram.me/pimeyesbot) — Face-search across social networks.
+*   [RegDateBot](https://t.me/regdate_clone_bot) — Registration date by ID/forward.
+*   [SangMata (beta)](https://t.me/SangMata_beta_bot) — Name-change history via /search\_id.
+*   [SangMataInfo\_bot](https://t.me/SangMataInfo_bot) — Username change history.
+*   [SaveYoutubeBot](https://t.me/SaveYoutubeBot) — Finds and downloads YouTube videos.
+*   [Search\_firm\_bot](https://t.me/Search_firm_bot) — Searches organizations, banks, postal codes.
+*   [Searchforchats](https://telegram.me/searchforchatsbot) — Searches chats by keywords.
+*   [Sherlock](https://t.me/Getcontact123qwerty_bot?start=_ref_jGW8Sa_iEmG9V) — Name/phone/email search + vehicle data.
+*   [ShtrafKZBot](https://t.me/ShtrafKZBot) — Fines, taxes, penalties; traffic violations.
+*   [SMS Activate](https://t.me/PrivatePhoneBot) — Virtual numbers from 50+ countries.
+*   [SpyGGbot](https://telegram.me/SpyGGbot) — TON balances, NFT owners, Fragment usernames.
+*   [Surftg\_bot](https://t.me/surftg_bot) — Searches Telegram messages.
+*   [TuriBot](https://t.me/TuriBot) — Resolves username from Telegram ID.
+*   [Unamer](https://telegram.me/unamer_bot) — Username ownership history.
+*   [username\_to\_id\_bot](https://t.me/username_to_id_bot) — Returns user/chat/channel/bot ID.
+*   [UsInfoBot](https://t.me/usinfobot) — Resolves username from ID (inline).
+*   [WhoisDomBot](https://t.me/WhoisDomBot) — Whois lookup for domains/IPs + dig/trace.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Main National Search Engines
@@ -798,7 +858,7 @@
 
 *   [Find YouTube Video](https://findyoutubevideo.thetechrobo.ca/) - Searches currently 5 YouTube archives for specific videos by ID, which is really useful for finding deleted or private YouTube videos.
 *   [Tubuep (⭐468)](https://github.com/bibanon/tubeup) - Downloads online videos via yt-dlp, then reuploads them to the Internet Archive for preservation. Note: if you would like to archive comments too, you need to install version 0.0.33 and use the --get-comments flag, however you will still have the new yt-dlp fixes and features, but existing tubeup bugs cannot be fixed, unless you do manual work.
-*   [yt-dlp (⭐135k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
+*   [yt-dlp (⭐137k)](https://github.com/yt-dlp/yt-dlp/) - Downloads videos from almost any online platform, along with information, thumbnails, subtitles, descriptions, and comments (comments only on a select few sites like Youtube and a few small sites). If a site is not supported, or a useful or crucial piece of metadata, including comments, is missing, create an issue.
 
 ## [Jan 12, 2023](/content/2023/01/12/README.md)
 
