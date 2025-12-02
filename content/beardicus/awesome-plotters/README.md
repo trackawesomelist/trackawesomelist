@@ -6,6 +6,54 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
+## [Dec 02, 2025](/content/2025/12/02/README.md)
+
+### Hardware / Plotters
+
+*   [NextDraw](https://bantamtools.com/collections/bantam-tools-nextdraw) - The new AxiDraw, now from Bantam Tools.
+*   [ArtFrame](https://bantamtools.com/collections/artframe) - Beefy flatbed pen plotters from Bantam Tools.
+*   [BrachioGraph](https://www.brachiograph.art) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
+*   [openBrushograph (⭐2)](https://github.com/openBrushograph/openBrushograph_hardware) - Open source 3d-printable XY gantry and Z-stage designed for automated brush and pen painting.
+*   [Makelangelo 5](https://www.marginallyclever.com/products/makelangelo-5/) - Polargraph robot that draws on a wall, window, or easel.
+
+### Hardware / Pens
+
+*   [JetPens - The Best White Ink Pens](https://www.jetpens.com/blog/The-Best-White-Ink-Pens/pt/340) - A comprehensive review of many white ink pens, with pictures of their coverage characteristics.
+
+### Software / G-code
+
+*   [fabnodes](https://extensions.blender.org/add-ons/fabnodes/) - Blender add-on to export geometry node toolpaths as G-code.
+
+### Software / Plotter Control
+
+*   [bCNC (⭐1.7k)](https://github.com/vlachoudis/bCNC) - Cross-platform G-code sender and CNC control software for grbl.
+*   [plottie (⭐32)](https://github.com/mossblaser/plottie) - Command-line tool for controlling Silhouette plotters and cutters with SVG input.
+*   [py\_silhouette (⭐36)](https://github.com/mossblaser/py_silhouette) - Python library for controlling Silhouette plotters and cutters.
+
+### Software / Vector Creation
+
+*   [Let's make map](https://svg-exporter.netlify.app) - Web-based tool to export an SVG map from Mapzen tiles.
+
+### Software / Vector Utilities
+
+*   [svgoutline (⭐22)](https://github.com/mossblaser/svgoutline) - Python library to extract strokes and outlines from SVGs as line segments.
+
+### Inspiration, Instruction, and Research / Fonts
+
+*   [Surface Projection](https://nb.paulbutler.org/surface-projection/) - Deep dive into surface projection and hidden line removal using Python and penplot.
+*   [Fractal Generation with L-Systems](https://nb.paulbutler.org/l-systems/) - Techniques for creating line-based fractal graphics.
+*   [From Lettering Guides to CNC Plotters](https://www.typotheque.com/articles/from-lettering-guides-to-cnc-plotters) - "A Brief History of Technical Lettering Tools".
+
+### Manuals, Ephemera, Papers, and Patents / Papers
+
+*   [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (paywall)](https://www.jstor.org/stable/1573236) - Vera Molnar.
+*   [Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing](https://www.proquest.com/docview/2791602751?sourcetype=Scholarly%20Journals)
+*   [Vera Molnar's Computer Paintings](https://www.researchgate.net/publication/338896073_Vera_Molnar's_Computer_Paintings)
+
+### Community / Patents
+
+*   \#PenPlotter - [Bluesky](https://bsky.app/search?q=%23PenPlotter) and [Mastodon](https://mastodon.social/search?q=%23PenPlotter) hashtag with good plotterfolk activity.
+
 ## [Nov 28, 2025](/content/2025/11/28/README.md)
 
 ### Hardware / Plotters
@@ -49,14 +97,9 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [REVDANCATT Plotter Tools](https://revdancatt.com/penplotter/) - A bunch of web-based pen plotter tools with SVG output.
 *   [Flow Lines](https://msurguy.github.io/flow-lines/) - A tool for generating flow line representations using SVG paths / polylines.
 *   [UJI](https://doersino.github.io/uji/) - A web-based generative art thing with SVG export.
-*   [Studio](https://u840903.github.io/multiplication-mandalas/) - A web-based tool for creating multiplication mandalas.
 *   [Rad Lines](https://msurguy.github.io/rad-lines/) - A web-based radial lines vector generation tool with SVG export.
 
 ## [Jul 03, 2024](/content/2024/07/03/README.md)
-
-### Hardware / Pens
-
-*   [JetPens - The Best White Ink Pens](https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340) - A comprehensive review of many white ink pens, with pictures of their coverage characteristics.
 
 ### Software / Vector Creation
 
@@ -68,7 +111,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ### Courses / Patents
 
-*   [Painting with Plotters](https://www.eyesofpanda.com/project/painting_with_plotters/) - A work-in-progress course by Licia He, to be released September 2024.
+*   [Painting with Plotters](https://www.eyesofpanda.com/project/painting_with_plotters/) - A work-in-progress course by Licia He.
 
 ## [Jun 18, 2024](/content/2024/06/18/README.md)
 
@@ -140,9 +183,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ### Manuals, Ephemera, Papers, and Patents / Papers
 
-*   [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (PDF)](https://rednoise.org/softas/uploads/molnar.pdf) - Vera Molnar.
 *   [Pen Plotter as a Low-Cost Platform for Rapid Device Prototyping with Solution-Processable Nanomaterials (2023) (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adem.202300226)
-*   [Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing](https://www.proquest.com/docview/2791602751)
 *   [PatternPortrait: Draw Me Like One of Your Scribbles (2024)](https://arxiv.org/abs/2401.13001)
 
 ### Manuals, Ephemera, Papers, and Patents / Patents
@@ -261,10 +302,6 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [plotting-maps (⭐79)](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
 
-### Inspiration, Instruction, and Research / Fonts
-
-*   [From Lettering Guides to CNC Plotters](https://www.typotheque.com/articles/from-lettering-guides-to-cnc-plotters-a-brief-history-of-technical-lettering-tools) - "A Brief History of Technical Lettering Tools".
-
 ## [Sep 26, 2023](/content/2023/09/26/README.md)
 
 ### Hardware / Accessories and Adapters
@@ -331,7 +368,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [Jan 04, 2023](/content/2023/01/04/README.md)
 
-### Inspiration, Instruction, and Research / Fonts
+### Getting Started
 
 *   [An Introduction to Pen Plotting](https://mrmrs.cc/writing/pen-plotting-intro/) - Another getting started article with modern pen plotters.
 
@@ -345,12 +382,6 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [HP 7470A Interconnection Guide](https://archive.org/details/manualzilla-id-7029812)
 *   [HP 7470A Operator's Manual (manualslib)](https://www.manualslib.com/manual/1089592/Hp-7470a.html)
-
-## [Nov 19, 2022](/content/2022/11/19/README.md)
-
-### Community / Patents
-
-*   \#PenPlotter - Mastodon/ActivityPub hashtag that plotter folks are mostly congregating under.
 
 ## [Oct 04, 2022](/content/2022/10/04/README.md)
 
@@ -373,10 +404,6 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [Aug 11, 2022](/content/2022/08/11/README.md)
 
-### Inspiration, Instruction, and Research / Fonts
-
-*   [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - Research paper on the novel workflows of the plotter community ([Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
-
 ### Manuals, Ephemera, Papers, and Patents / Manuals
 
 *   [Houston Instrument DM/PL Command Language (1984)](https://archive.org/details/hi-dmpl-command-language)
@@ -388,9 +415,13 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [Houston Instrument DMP-41 and DMP-42 Plotters Brochure](https://archive.org/details/hi-dmp-41-42-brochure)
 *   [Houston Instrument DMP-51/52 Series Brochure](https://archive.org/details/hi-dmp-51-52-brochure)
 
+### Manuals, Ephemera, Papers, and Patents / Papers
+
+*   [Tools, Tricks, and Hacks: Exploring Novel Digital Fabrication Workflows on #PlotterTwitter](https://dl.acm.org/doi/abs/10.1145/3411764.3445653) - Research paper on the novel workflows of the plotter community ([Video Summary](https://www.youtube.com/watch?v=xqhT-8ElJ68)).
+
 ## [Jul 11, 2022](/content/2022/07/11/README.md)
 
-### Inspiration, Instruction, and Research / Fonts
+### Getting Started
 
 *   [What is a pen plotter 2022?](https://www.youtube.com/watch?v=J1NpYzETm3M) - Nice video introduction to modern plotters in 2022.
 
@@ -410,9 +441,13 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [Jun 07, 2022](/content/2022/06/07/README.md)
 
+### Getting Started
+
+*   [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters.
+
 ### Hardware / Plotters
 
-*   [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - Pen plotter from [Evil Mad Scientist](https://www.evilmadscientist.com), very popular on #plottertwitter.
+*   [AxiDraw](https://shop.evilmadscientist.com/productsmenu/846) - Pen plotter from Evil Mad Scientist.
 *   [Drawing Robot](https://www.thingiverse.com/thing:2349232) - 3d-Printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
 *   [4xiDraw](https://www.instructables.com/id/4xiDraw/) - Yet another 3d-printable AxiDraw clone w/ Arduino CNC Shield controller running grbl firmware.
 
@@ -431,10 +466,6 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [Line-us Inkscape Plugin (⭐9)](https://github.com/Line-us/Inkscape-Plugin) - Sends drawings to the Line-us plotter directly from Inkscape.
 *   [Line-us API Examples (⭐121)](https://github.com/Line-us/Line-us-Programming) - Example code for the Line-us plotter's G-code-based API.
 *   [@beardicus/line-us (⭐34)](https://github.com/beardicus/line-us) - JavaScript library for controlling the Line-us machine from Node or the browser.
-
-### Inspiration, Instruction, and Research / Fonts
-
-*   [An Intro to Pen Plotters](https://medium.com/quarterstudio/an-intro-to-pen-plotters-29b6bd4327ba) - Good info on getting started with old HPGL plotters.
 
 ## [Jun 02, 2022](/content/2022/06/02/README.md)
 
@@ -604,7 +635,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ## [May 15, 2020](/content/2020/05/15/README.md)
 
-### Inspiration, Instruction, and Research / Fonts
+### Getting Started
 
 *   [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
 
@@ -642,16 +673,6 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [gcode-generative-for-processing (⭐31)](https://github.com/o0morgan0o/gcode-generative-for-processing) - Processing library, aiming to create gcode from simple shapes. (Designed for usage with the Creality CR10)
 
-## [Oct 19, 2019](/content/2019/10/19/README.md)
-
-### Hardware / Plotters
-
-*   [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
-
-### Inspiration, Instruction, and Research / Fonts
-
-*   [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) - Deep dive into surface projection and hidden line removal using Python and penplot.
-
 ## [Jun 28, 2019](/content/2019/06/28/README.md)
 
 ### Software / HPGL
@@ -669,6 +690,11 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [MP2300-Tools (⭐6)](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
 
 ## [Feb 26, 2019](/content/2019/02/26/README.md)
+
+### Getting Started
+
+*   [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - Some basics of programming vector paths, including sorting, joining, and simplifying.
+*   [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - A two-part intro to creating generative graphics for plotting.
 
 ### Hardware / Plotters
 
@@ -738,11 +764,9 @@ A curated list of code and resources for computer-controlled drawing machines an
 *   [maptrace (⭐126)](https://github.com/mzucker/maptrace) - Produce watertight polygonal vector maps by tracing raster images.
 *   [Drawbot\_image\_to\_gcode\_v2 (⭐179)](https://github.com/Scott-Cooper/Drawbot_image_to_gcode_v2) - Creates G-code for use on drawbots.
 *   [blackstripes (⭐100)](https://github.com/fullscreennl/blackstripes-python-extensions) - Turns a PNG image into a SVG line drawing.
-*   [Ribbon (⭐249)](https://github.com/fogleman/ribbon) - Ribbon diagrams of proteins in written in Go.
 *   [penplot (⭐270)](https://github.com/mattdesl/penplot) - A development environment for plotter art in JavaScript.
 *   [penkit (⭐158)](https://github.com/paulgb/penkit) - A Python library for creating line-based SVG graphics.
 *   [generativeExamples (⭐64)](https://github.com/digitalcoleman/generativeExamples) - Example Processing code that generates plottable PDFs.
-*   [Let's make map](https://svg-exporter.netlify.com) - Web-based tool to export an SVG map from Mapzen tiles.
 *   [SuperformulaSVG for web](https://jasonwebb.github.io/SuperformulaSVG-for-web) - A generative line art web app.
 *   [scribbleplot (⭐50)](https://github.com/bleeptrack/scribbleplot) - Scribbly image transformations in Processing.
 *   [Maker.js](https://maker.js.org) - Library for creating 2D vector drawings for CNC and laser cutter machines.
@@ -764,14 +788,11 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 ### Inspiration, Instruction, and Research / Fonts
 
-*   [Pen Plotter Programming: The Basics](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929) - Some basics of programming vector paths, including sorting, joining, and simplifying.
 *   [On Generative Algorithms](https://inconvergent.net/generative) - Nice 13-part walkthrough of interesting algorithms.
 *   [Roland DG DXY-990](https://hackaday.io/project/12276-roland-dg-dxy-990) - Quickstart guide for a Roland flatbed plotter.
 *   [The Cohen-Sutherland Line Clipping Algorithm](https://sighack.com/post/cohen-sutherland-line-clipping-algorithm) - Detailed explanation and examples of an interesting algorithm.
 *   [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) - OG plotter artist.
 *   [Hektor](http://juerglehni.com/works/hektor) - The original cable-based drawbot from 2002.
-*   [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) - A two-part intro to creating generative graphics for plotting.
-*   [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) - Techniques for creating line-based fractal graphics.
 *   [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) - Resources for traveling salesman problem (single path) art.
 *   [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - Discussion and links to code for wireframe removal of STL files.
 

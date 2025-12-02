@@ -6,6 +6,12 @@ Community list of transit APIs, apps, datasets, research, and software :bus::sta
 
 [ [Daily](/content/CUTR-at-USF/awesome-transit/README.md) / Weekly / [Overview](/content/CUTR-at-USF/awesome-transit/readme/README.md) ]
 
+## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
+
+### GTFS Data Collection and Maintenance Tools / Rust
+
+*   [GTFS Studio](https://gtfs.studio) - Online editor for GTFS feeds
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### GTFS Converters / Rust
