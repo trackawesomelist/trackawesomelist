@@ -1,12 +1,44 @@
 # Awesome List Updates on Dec 02, 2025
 
-6 awesome lists updated today.
+11 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
+## [1. Awesome Windows](/content/0pandadev/awesome-windows/README.md)
+
+### Productivity
+
+*   [EyeRest (⭐9)](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
+    every 20 minutes, look at something 20 feet (\~6 meters) away for at least 20 seconds. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/necdetsanli/EyeRest)
+
+## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [Mastra AI (⭐19k)](https://github.com/mastra-ai/mastra): a framework for building AI-powered applications and agents with a modern TypeScript stack.
+
+## [3. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+### Game Field / Zigged Project
+
+*   [captkirk88/zevy-raylib (⭐1)](https://github.com/captkirk88/zevy-raylib) : Framework for building games in Zig using raylib-zig and zevy-ecs.
+*   [captkirk88/zevy-ecs (⭐5)](https://github.com/captkirk88/zevy-ecs) : ECS similar to rust Bevy supporting very similar systems params support + more.
+
+## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+
+### Applications / Database
+
+*   [ayarotsky/redis-shield (⭐95)](https://github.com/ayarotsky/redis-shield) - A Redis module that implements the token-bucket algorithm as a native command for high-performance rate limiting
+
+## [5. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+
+### Testing
+
+*   [BitDive](https://bitdive.io/) - Zero-code integration testing for Java/Kotlin that generates tests from runtime application behavior.
+
+## [6. Awesome Pentest](/content/enaqx/awesome-pentest/README.md)
 
 ### Intentionally Vulnerable Systems / Intentionally Vulnerable Systems as Docker Containers
 
@@ -20,7 +52,7 @@
 
 *   [Awesome ElectronJS Hacking (⭐652)](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
 
-## [2. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
+## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/README.md)
 
 ### Database Drivers
 
@@ -30,25 +62,25 @@
 
 *   [Short well-written intro to asyncio](https://masnun.com/python-generators-coroutines-native-coroutines-and-async-await/) - Generators, Coroutines, Native Coroutines and async/await.
 
-## [3. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+## [8. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ### Developer Tools / API Development and Analysis
 
 *   [Requestly](https://requestly.io) - Open-source, lightweight Git-Friendly API Client built for modern developers. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/requestly/requestly) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [4. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
+## [9. Awesome Transit](/content/CUTR-at-USF/awesome-transit/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
 
 *   [GTFS Studio](https://gtfs.studio) - Online editor for GTFS feeds
 
-## [5. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [10. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### PaaS
 
 *   [Apply.build](https://apply.build/) — Build and deploy your GitHub app for free with 0.5 vCPUs / 512 MiB RAM, European servers, automatic firewall, real-time performance metrics. Run Node.js, Python, Go, Java, static sites, microservices, and more.
 
-## [6. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
+## [11. Awesome Plotters](/content/beardicus/awesome-plotters/README.md)
 
 ### Hardware / Plotters
 

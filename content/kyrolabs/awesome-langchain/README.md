@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/kyrolabs/awesome-langchain/week/README.md) / [Overview](/content/kyrolabs/awesome-langchain/readme/README.md) ]
 
+## [Dec 02, 2025](/content/2025/12/02/README.md)
+
+### Other LLM Frameworks / Videos Playlists
+
+*   [Mastra AI (⭐19k)](https://github.com/mastra-ai/mastra): a framework for building AI-powered applications and agents with a modern TypeScript stack.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Other LLM Frameworks / Videos Playlists

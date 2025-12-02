@@ -6,6 +6,12 @@ A curated list of awesome developer-first tools products.
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
 
+## [Dec 02, 2025](/content/2025/12/02/README.md)
+
+### Testing
+
+*   [BitDive](https://bitdive.io/) - Zero-code integration testing for Java/Kotlin that generates tests from runtime application behavior.
+
 ## [Oct 20, 2025](/content/2025/10/20/README.md)
 
 ### Integrations

@@ -6,6 +6,13 @@ A collection of some awesome public Zig programming language projects.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Dec 02, 2025](/content/2025/12/02/README.md)
+
+### Game Field / Zigged Project
+
+*   [captkirk88/zevy-raylib (⭐1)](https://github.com/captkirk88/zevy-raylib) : Framework for building games in Zig using raylib-zig and zevy-ecs.
+*   [captkirk88/zevy-ecs (⭐5)](https://github.com/captkirk88/zevy-ecs) : ECS similar to rust Bevy supporting very similar systems params support + more.
+
 ## [Nov 07, 2025](/content/2025/11/07/README.md)
 
 ### Network / Zigged Project
@@ -621,8 +628,8 @@ A collection of some awesome public Zig programming language projects.
 
 ### Game Field / Zigged Project
 
-*   [Avokadoen/ecez (⭐36)](https://github.com/Avokadoen/ecez) : An archetype based ECS library written in pure zig.
 *   [PixelGuys/Cubyz (⭐2.9k)](https://github.com/PixelGuys/Cubyz) : Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
+*   [Avokadoen/ecez (⭐36)](https://github.com/Avokadoen/ecez) : An archetype based ECS library written in pure zig.
 
 ### Misc / Zigged Project
 

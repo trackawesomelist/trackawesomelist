@@ -6,6 +6,12 @@ A curated list of Rust code and resources.
 
 [ [Daily](/content/rust-unofficial/awesome-rust/README.md) / Weekly / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
+
+### Applications / Database
+
+*   [ayarotsky/redis-shield (⭐95)](https://github.com/ayarotsky/redis-shield) - A Redis module that implements the token-bucket algorithm as a native command for high-performance rate limiting
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Applications
@@ -1558,7 +1564,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [mrjackwills/oxker (⭐1.3k)](https://github.com/mrjackwills/oxker) \[[oxker](https://crates.io/crates/oxker)] - A simple tui to view & control docker containers.
+*   [mrjackwills/oxker (⭐1.4k)](https://github.com/mrjackwills/oxker) \[[oxker](https://crates.io/crates/oxker)] - A simple tui to view & control docker containers.
 
 ### Applications / Web Servers
 
@@ -3213,7 +3219,7 @@ A curated list of Rust code and resources.
 *   CoAP
     *   [Covertness/coap-rs (⭐225)](https://github.com/Covertness/coap-rs) - A [Constrained Application Protocol(CoAP)](https://datatracker.ietf.org/doc/html/rfc7252) library.
 *   Docker
-    *   [fussybeaver/bollard (⭐1.1k)](https://github.com/fussybeaver/bollard) - Docker daemon API
+    *   [fussybeaver/bollard (⭐1.2k)](https://github.com/fussybeaver/bollard) - Docker daemon API
 
 ### Libraries / Parsing
 
@@ -4174,7 +4180,7 @@ A curated list of Rust code and resources.
 
 ### Applications / Utilities
 
-*   [fcsonline/tmux-thumbs (⭐997)](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
+*   [fcsonline/tmux-thumbs (⭐1k)](https://github.com/fcsonline/tmux-thumbs) - A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator.
 
 ### Applications / Virtualization
 
