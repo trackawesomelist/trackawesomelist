@@ -6,6 +6,12 @@
 
 [ [Daily](/content/rtckit/awesome-rtc/README.md) / Weekly / [Overview](/content/rtckit/awesome-rtc/readme/README.md) ]
 
+## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
+
+### Operations / Web/API Interfaces
+
+*   [Sayna (⭐5)](https://github.com/SaynaAI/sayna) - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Server Software / STUN/TURN

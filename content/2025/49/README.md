@@ -1,44 +1,68 @@
 # Awesome List Updates on Dec 08 - Dec 14, 2025
 
-18 awesome lists updated this week.
+22 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [1. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+
+### Software / UI & End-to-End Testing
+
+*   [Keploy](https://keploy.io) – Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
+
+## [2. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+
+### Operations / Web/API Interfaces
+
+*   [Sayna (⭐5)](https://github.com/SaynaAI/sayna) - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
+
+## [3. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+
+### Contents / Libraries
+
+*   [pico8-physics (⭐49)](https://github.com/jamesedge/pico8-physics) - Pico8 implementation of Box2d with 8 demos.
+
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [Suites](https://suites.dev) - A unit-testing framework for TypeScript backends utilizing inversion of control and dependency injection.
+
+## [5. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Productivity
 
 *   [EyeRest (⭐9)](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
     every 20 minutes, look at something 20 feet (\~6 meters) away for at least 20 seconds. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/necdetsanli/EyeRest)
 
-## [2. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Mastra AI (⭐19k)](https://github.com/mastra-ai/mastra): a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
-## [3. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [7. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Game Field / Zigged Project
 
 *   [captkirk88/zevy-raylib (⭐1)](https://github.com/captkirk88/zevy-raylib) : Framework for building games in Zig using raylib-zig and zevy-ecs.
 *   [captkirk88/zevy-ecs (⭐5)](https://github.com/captkirk88/zevy-ecs) : ECS similar to rust Bevy supporting very similar systems params support + more.
 
-## [4. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [8. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
 *   [ayarotsky/redis-shield (⭐95)](https://github.com/ayarotsky/redis-shield) - A Redis module that implements the token-bucket algorithm as a native command for high-performance rate limiting
 
-## [5. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [9. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Testing
 
 *   [BitDive](https://bitdive.io/) - Zero-code integration testing for Java/Kotlin that generates tests from runtime application behavior.
 
-## [6. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [10. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Intentionally Vulnerable Systems / Intentionally Vulnerable Systems as Docker Containers
 
@@ -52,7 +76,7 @@
 
 *   [Awesome ElectronJS Hacking (⭐652)](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
 
-## [7. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [11. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Database Drivers
 
@@ -62,19 +86,19 @@
 
 *   [Short well-written intro to asyncio](https://masnun.com/python-generators-coroutines-native-coroutines-and-async-await/) - Generators, Coroutines, Native Coroutines and async/await.
 
-## [8. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [12. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
 
 *   [GTFS Studio](https://gtfs.studio) - Online editor for GTFS feeds
 
-## [9. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### PaaS
 
 *   [Apply.build](https://apply.build/) — Build and deploy your GitHub app for free with 0.5 vCPUs / 512 MiB RAM, European servers, automatic firewall, real-time performance metrics. Run Node.js, Python, Go, Java, static sites, microservices, and more.
 
-## [10. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [14. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Plotters
 
@@ -122,13 +146,13 @@
 
 *   \#PenPlotter - [Bluesky](https://bsky.app/search?q=%23PenPlotter) and [Mastodon](https://mastodon.social/search?q=%23PenPlotter) hashtag with good plotterfolk activity.
 
-## [11. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [15. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### MCP
 
 *   [MCP MariaDB Server (⭐95)](https://github.com/MariaDB/mcp) - the official MariaDB MCP server.
 
-## [12. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [16. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Telegram
 
@@ -188,13 +212,13 @@
 *   [UsInfoBot](https://t.me/usinfobot) — Resolves username from ID (inline).
 *   [WhoisDomBot](https://t.me/WhoisDomBot) — Whois lookup for domains/IPs + dig/trace.
 
-## [13. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [17. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Resources / Data Formats
 
 *   [YAML (⭐429) (⭐427)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [14. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [18. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / API Development and Analysis
 
@@ -204,25 +228,25 @@
 
 *   [DynamicHorizon](https://dynamichorizon.app) - Enhances the notch with seamless media controls, airdrop, notifications, system indicators and lock screen widgets.
 
-## [15. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [19. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Miscellaneous
 
 *   [EmbedPDF](https://www.embedpdf.com/docs/svelte/introduction) - A modular, high-performance PDF viewer and editor built for Svelte, powered by PDFium. Fully extensible with plugins for annotations, redaction, thumbnails, and more.
 
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
 *   [pebeto/dookie.nvim (⭐6)](https://github.com/pebeto/dookie.nvim) - A color scheme inspired by Plan9's acme editor.
 
-## [17. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ipnav (⭐1)](https://github.com/clebertmarctyson/oh-my-zsh-ipnav) - Provides convenient aliases and completions for IP address operations [ip-navigator-cli (⭐1)](https://github.com/clebertmarctyson/ip-navigator-cli).
 
-## [18. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [22. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Lake Management
 

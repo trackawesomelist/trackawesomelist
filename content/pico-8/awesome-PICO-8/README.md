@@ -6,6 +6,12 @@ A curated list of awesome PICO-8 resources, carts, tools and more
 
 [ Daily / [Weekly](/content/pico-8/awesome-PICO-8/week/README.md) / [Overview](/content/pico-8/awesome-PICO-8/readme/README.md) ]
 
+## [Dec 03, 2025](/content/2025/12/03/README.md)
+
+### Contents / Libraries
+
+*   [pico8-physics (⭐49)](https://github.com/jamesedge/pico8-physics) - Pico8 implementation of Box2d with 8 demos.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Contents / Text Editors Language Support

@@ -6,6 +6,12 @@ A curated list of testing resources
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
 
+## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
+
+### Software / UI & End-to-End Testing
+
+*   [Keploy](https://keploy.io) – Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Software / API Testing
