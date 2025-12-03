@@ -180,6 +180,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [ava (⭐21k)](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 *   [Cypress](https://www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
 *   [WebdriverI/O](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
+*   [Suites](https://suites.dev) - A unit-testing framework for backends working with inversion of control and dependency injection
 
 ### Assertion
 
@@ -418,7 +419,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [raptor-editor (⭐531)](https://github.com/PANmedia/raptor-editor) - Raptor, an HTML5 WYSIWYG content editor!
 *   [popline (⭐1.1k)](https://github.com/kenshin54/popline) - Popline is an HTML5 Rich-Text-Editor Toolbar.
 *   [Summernote (⭐12k)](https://github.com/summernote/summernote) - Super simple WYSIWYG editor.
-*   [Everright-formEditor (⭐507)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐508)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ## Documentation
 

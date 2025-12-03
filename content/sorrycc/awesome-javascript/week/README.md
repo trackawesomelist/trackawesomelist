@@ -6,6 +6,12 @@
 
 [ [Daily](/content/sorrycc/awesome-javascript/README.md) / Weekly / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
+
+### Testing Frameworks / Frameworks
+
+*   [Suites](https://suites.dev) - A unit-testing framework for backends working with inversion of control and dependency injection
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Package Managers
@@ -187,7 +193,7 @@
 
 ### Editors / Runner
 
-*   [Everright-formEditor (⭐507)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
+*   [Everright-formEditor (⭐508)](https://github.com/Liberty-liu/Everright-formEditor) - A visual drag-and-drop low-code form editor
 
 ## [Apr 24 - Apr 30, 2023](/content/2023/17/README.md)
 

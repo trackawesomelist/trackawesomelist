@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Dec 03, 2025](/content/2025/12/03/README.md)
+
+### PaaS
+
+*   [Daestro](https://daestro.com) - Run compute jobs across Cloud Providers & On-Prem. The free tier includes up to 10 concurrent job runs, 2 compute spawns, self-hosted compute, 1 cloud provider, 1 container registry and 1 cron job.
+
 ## [Dec 02, 2025](/content/2025/12/02/README.md)
 
 ### PaaS
@@ -1487,12 +1493,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Code Generation
 
 *   [v0.dev](https://v0.dev/) — v0 uses AI models to generate code based on simple text prompts. It generates copy-and-paste friendly React code based on shadcn/ui and Tailwind CSS that people can use in their projects. Each generation takes at minimum 30 credits. You start up with 1200 credits, and get 200 free credits every month.
-
-## [Jan 08, 2024](/content/2024/01/08/README.md)
-
-### APIs, Data, and ML
-
-*   [Data Dead Drop](https://datadeaddrop.com) - Simple, free file sharing. Data self-destroys after access. Upload and download data via the browser or your favorite command line client.
 
 ## [Jan 03, 2024](/content/2024/01/03/README.md)
 

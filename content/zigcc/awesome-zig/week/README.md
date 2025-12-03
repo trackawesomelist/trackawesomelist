@@ -8,6 +8,10 @@ A collection of some awesome public Zig programming language projects.
 
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
+### Database / Zigged Project
+
+*   [Axion (⭐4)](https://github.com/YUX/axion) : High-Performance, Embeddable Storage Engine for Zig & SQLite.
+
 ### Game Field / Zigged Project
 
 *   [captkirk88/zevy-raylib (⭐1)](https://github.com/captkirk88/zevy-raylib) : Framework for building games in Zig using raylib-zig and zevy-ecs.
