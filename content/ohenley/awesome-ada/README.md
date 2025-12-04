@@ -6,6 +6,12 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 [ Daily / [Weekly](/content/ohenley/awesome-ada/week/README.md) / [Overview](/content/ohenley/awesome-ada/readme/README.md) ]
 
+## [Dec 04, 2025](/content/2025/12/04/README.md)
+
+### Networking and Communication Middleware / Apache License
+
+*   [coap-spark (⭐8)](https://github.com/mgrojo/coap_spark) - A formally verified implementation of CoAP, the Constrained Application Protocol.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Online Books

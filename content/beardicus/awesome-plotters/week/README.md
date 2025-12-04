@@ -12,6 +12,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 *   [NextDraw](https://bantamtools.com/collections/bantam-tools-nextdraw) - The new AxiDraw, now from Bantam Tools.
 *   [ArtFrame](https://bantamtools.com/collections/artframe) - Beefy flatbed pen plotters from Bantam Tools.
+*   [Blot](https://blot.hackclub.com) - An open-source DIY pen plotter from Hack Club with a browser-based editor for generative art.
 *   [BrachioGraph](https://www.brachiograph.art) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
 *   [openBrushograph (⭐2)](https://github.com/openBrushograph/openBrushograph_hardware) - Open source 3d-printable XY gantry and Z-stage designed for automated brush and pen painting.
 *   [Makelangelo 5](https://www.marginallyclever.com/products/makelangelo-5/) - Polargraph robot that draws on a wall, window, or easel.

@@ -6,6 +6,12 @@ A curated list of code and resources for computer-controlled drawing machines an
 
 [ Daily / [Weekly](/content/beardicus/awesome-plotters/week/README.md) / [Overview](/content/beardicus/awesome-plotters/readme/README.md) ]
 
+## [Dec 04, 2025](/content/2025/12/04/README.md)
+
+### Hardware / Plotters
+
+*   [Blot](https://blot.hackclub.com) - An open-source DIY pen plotter from Hack Club with a browser-based editor for generative art.
+
 ## [Dec 02, 2025](/content/2025/12/02/README.md)
 
 ### Hardware / Plotters

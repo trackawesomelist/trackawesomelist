@@ -2115,6 +2115,7 @@
 - [Days](daily/README.md)
   - [2025](2025/month/README.md)
     - [12](2025/12/day/README.md)
+      - [Dec 04, 2025](2025/12/04/README.md)
       - [Dec 03, 2025](2025/12/03/README.md)
       - [Dec 02, 2025](2025/12/02/README.md)
       - [Dec 01, 2025](2025/12/01/README.md)

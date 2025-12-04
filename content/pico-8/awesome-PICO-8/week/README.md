@@ -8,9 +8,14 @@ A curated list of awesome PICO-8 resources, carts, tools and more
 
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
+### Contents / Tutorials
+
+*   [Lazy Devs Breakout](https://youtube.com/playlist?list=PLea8cjCua_P0qjjiG8G5FBgqwpqMU7rBk\&si=CaivHwqC6uYjJA21) - step-by-step videos for [roguelikes](https://youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS\&si=ZYrBbZMJr9ABHsnA), [shmups](https://youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd\&si=bKKGy-2IKwcTQxeF), and more
+
 ### Contents / Libraries
 
 *   [pico8-physics (⭐49)](https://github.com/jamesedge/pico8-physics) - Pico8 implementation of Box2d with 8 demos.
+*   [SCUMM-8 (⭐345)](https://github.com/Liquidream/scumm-8) - De-make of the SCUMM engine for making point-and-click classic adventures.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
