@@ -6,6 +6,12 @@ A curated list of awesome projects related to eBPF.
 
 [ Daily / [Weekly](/content/zoidbergwill/awesome-ebpf/week/README.md) / [Overview](/content/zoidbergwill/awesome-ebpf/readme/README.md) ]
 
+## [Dec 04, 2025](/content/2025/12/04/README.md)
+
+### Projects Related to eBPF / Observability
+
+*   [kyanos (⭐4.9k)](https://github.com/hengyoush/kyanos) - Kyanos is an eBPF-based network issue analysis tool that enables you to capture network requests, such as HTTP, Redis, and MySQL requests.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Projects Related to eBPF / Networking
