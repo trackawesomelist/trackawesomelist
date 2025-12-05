@@ -6,6 +6,17 @@ Collection of Games that have the source code available on GitHub
 
 [ Daily / [Weekly](/content/michelpereira/awesome-open-source-games/week/README.md) / [Overview](/content/michelpereira/awesome-open-source-games/readme/README.md) ]
 
+## [Dec 05, 2025](/content/2025/12/05/README.md)
+
+### Native / Strategy
+
+*   [OpenE2140 (⭐55)](https://github.com/OpenE2140/OpenE2140) - Remake of Earth 2140 based on [the OpenRA engine (⭐16k)](https://github.com/OpenRA/OpenRA)
+*   [OpenKrush (⭐111)](https://github.com/IceReaper/OpenKrush) - Remake of KKnD (Krush, Kill 'n' Destroy) and KKnD2 based on [the OpenRA engine (⭐16k)](https://github.com/OpenRA/OpenRA)
+*   [OpenSA (⭐113)](https://github.com/Dzierzan/OpenSA) - Remake of Swarm Assault based on [the OpenRA engine (⭐16k)](https://github.com/OpenRA/OpenRA)
+*   [Pikifen (⭐70)](https://github.com/Espyo/Pikifen) - Fan-made Pikmin-based engine, built with flexibility in mind.
+*   [Romanov's Vengeance (⭐312)](https://github.com/MustaphaTR/Romanovs-Vengeance) - Remake of C\&C Red Alert 2 based on [the OpenRA engine (⭐16k)](https://github.com/OpenRA/OpenRA)
+*   [Shattered Paradise (⭐78)](https://github.com/ABrandau/Shattered-Paradise-SDK) - Remake of C\&C Tiberian Sun based on [the OpenRA engine (⭐16k)](https://github.com/OpenRA/OpenRA)
+
 ## [Dec 04, 2025](/content/2025/12/04/README.md)
 
 ### Native / Sandbox
