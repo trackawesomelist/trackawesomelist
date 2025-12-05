@@ -12,6 +12,10 @@
 
 *   [Suites](https://suites.dev) - A unit-testing framework for backends working with inversion of control and dependency injection
 
+### Security / Runner
+
+*   [pompelmi (⭐391)](https://github.com/pompelmi/pompelmi) - Fast file-upload malware scanning for Node.js.
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Package Managers

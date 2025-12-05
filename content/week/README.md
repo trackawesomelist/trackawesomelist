@@ -174,6 +174,10 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Suites](https://suites.dev) - A unit-testing framework for backends working with inversion of control and dependency injection
 
+##### Security / Runner
+
+*   [pompelmi (⭐391)](https://github.com/pompelmi/pompelmi) - Fast file-upload malware scanning for Node.js.
+
 #### [15. Awesome Rtc](/content/rtckit/awesome-rtc/README.md)
 
 ##### Operations / Web/API Interfaces
@@ -416,6 +420,24 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
     </p>
     </details>
 
+#### [31. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Domain Specific Language / Logic DSL Applications
+
+*   [LogSay: An Efficient Comprehension System for Log Numerical Reasoning](https://ieeexplore.ieee.org/abstract/document/10494680) - ***IEEE Transactions on Computers***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=17053857493674669692)]. With the growth of smart systems and applications, high volume logs are generated that record important data for system maintenance. System developers are usually required to analyze logs to track the status of the system or applications. Therefore, it is essential to find the answers in large-scale logs when they have some questions. This work designs a multi-step “Retriever-Reader” question-answering system, namely LogSay, which aims at predicting answers accurately and efficiently. The proposed system can not only answers simple questions, such as a segment log or span, but also can answer complex logical questions through numerical reasoning. LogSay has two key components: Log Retriever and Log Reasoner, and the authors designed five operators to implement them. Log Retriever aims at retrieving some relevant logs based on a question. Then, Log Reasoner performs numerical reasoning to infer the final answer. In addition, due to the lack of available question-answering datasets for system logs, the authors constructed question-answering datasets based on three public log datasets and will make them publicly available. The evaluation results show that LogSay outperforms the state-of-the-art works in terms of accuracy and efficiency.
+
+#### [32. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+
+##### Polars plugins / Miscellaneous
+
+*   [polars-bio](http://biodatageeks.org/polars-bio/) - [Polars plugin (⭐101)](https://github.com/biodatageeks/polars-bio) for large-scale genomic analyses which is easy to use and considerably faster and more scalable than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
+
+#### [33. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### Utilities / Utility/Miscellaneous
+
+*   [pioz/countries (⭐92)](https://github.com/pioz/countries) — All you need when you are working with countries in Go. ☆`92`
+
 ---
 
 - Next: [Dec 01 - Dec 07, 2025](&#x2F;content&#x2F;2025&#x2F;48&#x2F;README.md)
@@ -432,7 +454,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 8. [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 46K 📝 12&#x2F;05 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 9. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 71K 📝 11&#x2F;30 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
 10. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 54K 📝 12&#x2F;02 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
-11. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source ⭐ 35K 📝 12&#x2F;03 ](https://github.com/sorrycc/awesome-javascript)) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+11. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source ⭐ 35K 📝 12&#x2F;05 ](https://github.com/sorrycc/awesome-javascript)) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 12. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 68K 📝 11&#x2F;26 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 13. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 80K 📝 11&#x2F;24 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
 14. [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 64K 📝 11&#x2F;24 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
@@ -1144,13 +1166,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K, 📝 11&#x2F;24 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
 - [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 158K, 📝 11&#x2F;26 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-- [Awesome Go](/content/abordage/awesome-go/README.md) - ([Source ⭐ 2, 📝 11&#x2F;24 ](https://github.com/abordage/awesome-go)) - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
+- [Awesome Go](/content/abordage/awesome-go/README.md) - ([Source ⭐ 2, 📝 12&#x2F;05 ](https://github.com/abordage/awesome-go)) - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 720, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources
 - [Awesome Imba](/content/koolamusic/awesome-imba/README.md) - ([Source ⭐ 122, 📝 21&#x2F;10&#x2F;18 ](https://github.com/koolamusic/awesome-imba)) - :star: A curated list of awesome Imba frameworks, libraries, software and resources
 - [Awesome Java](/content/akullpp/awesome-java/README.md) - ([Source ⭐ 46K, 📝 11&#x2F;24 ](https://github.com/akullpp/awesome-java)) - A curated list of awesome frameworks, libraries and software for the Java programming language.
-- [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source ⭐ 35K, 📝 12&#x2F;03 ](https://github.com/sorrycc/awesome-javascript)) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+- [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source ⭐ 35K, 📝 12&#x2F;05 ](https://github.com/sorrycc/awesome-javascript)) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [Awesome Lua](/content/LewisJEllis/awesome-lua/README.md) - ([Source ⭐ 3.2K, 📝 18&#x2F;04&#x2F;06 ](https://github.com/LewisJEllis/awesome-lua)) - A curated list of quality Lua packages and resources.
 - [Awesome Mad Science](/content/feross/awesome-mad-science/README.md) - ([Source ⭐ 1K, 📝 17&#x2F;02&#x2F;08 ](https://github.com/feross/awesome-mad-science)) - Delightful npm packages that make you say "wow, didn't know that was possible!"
 - [Awesome Micro Npm Packages](/content/parro-it/awesome-micro-npm-packages/README.md) - ([Source ⭐ 4.5K, 📝 23&#x2F;09&#x2F;13 ](https://github.com/parro-it/awesome-micro-npm-packages)) - A curated list of small, focused npm packages.
@@ -1163,7 +1185,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md) - ([Source ⭐ 1.5K, 📝 23&#x2F;04&#x2F;20 ](https://github.com/Fr0sT-Brutal/awesome-pascal)) - A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. Open source and freeware only!
 - [Awesome Perl](/content/hachiojipm/awesome-perl/README.md) - ([Source ⭐ 665, 📝 24&#x2F;04&#x2F;07 ](https://github.com/hachiojipm/awesome-perl)) - A curated list of awesome Perl frameworks and libraries. Come on Pull Requests!
 - [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 32K, 📝 11&#x2F;24 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
-- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 1K, 📝 11&#x2F;24 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
+- [Awesome Polars](/content/ddotta/awesome-polars/README.md) - ([Source ⭐ 1K, 📝 12&#x2F;05 ](https://github.com/ddotta/awesome-polars)) - A curated list of Polars talks, tools, examples & articles. Contributions welcome ! 
 - [Awesome Ponyfills](/content/Richienb/awesome-ponyfills/README.md) - ([Source ⭐ 46, 📝 20&#x2F;08&#x2F;14 ](https://github.com/Richienb/awesome-ponyfills)) - A curated list of awesome ponyfills for writing cross-platform and cross-browser code.
 - [Awesome Promises](/content/wbinnssmith/awesome-promises/README.md) - ([Source ⭐ 1.5K, 📝 16&#x2F;11&#x2F;17 ](https://github.com/wbinnssmith/awesome-promises)) - A curated list of useful resources for JavaScript Promises
 - [Awesome Purescript](/content/passy/awesome-purescript/README.md) - ([Source ⭐ 418, 📝 22&#x2F;02&#x2F;14 ](https://github.com/passy/awesome-purescript)) - A curation of awesome PureScript libraries, resources and shiny things.
@@ -1232,7 +1254,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ### Theory
 
-- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 350, 📝 11&#x2F;24 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
+- [Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md) - ([Source ⭐ 350, 📝 12&#x2F;05 ](https://github.com/YuzheSHI/awesome-agi-cocosci)) - An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.
 - [Awesome Algorithms](/content/tayllan/awesome-algorithms/README.md) - ([Source ⭐ 24K, 📝 11&#x2F;24 ](https://github.com/tayllan/awesome-algorithms)) - A curated list of awesome places to learn and/or practice algorithms.
 - [Awesome Artificial Intelligence](/content/owainlewis/awesome-artificial-intelligence/README.md) - ([Source ⭐ 13K, 📝 11&#x2F;24 ](https://github.com/owainlewis/awesome-artificial-intelligence)) - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 - [Awesome Audit Algorithms](/content/erwanlemerrer/awesome-audit-algorithms/README.md) - ([Source ⭐ 105, 📝 11&#x2F;24 ](https://github.com/erwanlemerrer/awesome-audit-algorithms)) - A curated list of algorithms and papers for auditing black-box algorithms.

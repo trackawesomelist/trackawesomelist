@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
+
+### Polars plugins / Miscellaneous
+
+*   [polars-bio](http://biodatageeks.org/polars-bio/) - [Polars plugin (⭐101)](https://github.com/biodatageeks/polars-bio) for large-scale genomic analyses which is easy to use and considerably faster and more scalable than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Official news
@@ -268,10 +274,6 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 ### Polars plugins / General utilities / Performance
 
 *   [polars-utils (⭐15)](https://github.com/junghoon-son/polars-utils) - Collection of utilities for data exploration and analysis with Polars DataFrames by [@junghoon-son](https://github.com/junghoon-son).
-
-### Polars plugins / Miscellaneous
-
-*   [polars-bio (⭐101)](https://github.com/biodatageeks/polars-bio) - Polars plugin for large-scale genomic analyses which is easy to use and considerable faster and more scalabe than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
 
 ## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
 

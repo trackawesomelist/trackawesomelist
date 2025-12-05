@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Dec 05, 2025](/content/2025/12/05/README.md)
+
+### Security / Runner
+
+*   [pompelmi (⭐391)](https://github.com/pompelmi/pompelmi) - Fast file-upload malware scanning for Node.js.
+
 ## [Dec 03, 2025](/content/2025/12/03/README.md)
 
 ### Testing Frameworks / Frameworks

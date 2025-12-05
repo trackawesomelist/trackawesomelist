@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 05, 2025](/content/2025/12/05/README.md)
+
+### Domain Specific Language / Logic DSL Applications
+
+*   [LogSay: An Efficient Comprehension System for Log Numerical Reasoning](https://ieeexplore.ieee.org/abstract/document/10494680) - ***IEEE Transactions on Computers***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=17053857493674669692)]. With the growth of smart systems and applications, high volume logs are generated that record important data for system maintenance. System developers are usually required to analyze logs to track the status of the system or applications. Therefore, it is essential to find the answers in large-scale logs when they have some questions. This work designs a multi-step “Retriever-Reader” question-answering system, namely LogSay, which aims at predicting answers accurately and efficiently. The proposed system can not only answers simple questions, such as a segment log or span, but also can answer complex logical questions through numerical reasoning. LogSay has two key components: Log Retriever and Log Reasoner, and the authors designed five operators to implement them. Log Retriever aims at retrieving some relevant logs based on a question. Then, Log Reasoner performs numerical reasoning to infer the final answer. In addition, due to the lack of available question-answering datasets for system logs, the authors constructed question-answering datasets based on three public log datasets and will make them publicly available. The evaluation results show that LogSay outperforms the state-of-the-art works in terms of accuracy and efficiency.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Abduction / Applications in AI
@@ -764,7 +770,7 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ### Domain Specific Language / Imperative DSL Applications
 
-*   [Universal chemical programming language for robotic synthesis repeatability](https://www.nature.com/articles/s44160-023-00473-6) - ***Nature Synthesis***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=3455106495990439366)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/rauschen-natsynthesisjan24.pdf)]. This paper presents an approach that uses a universal chemical programming language (χDL) to encode and execute synthesis procedures for a variety of chemical reactions, including reductive amination, ring formation, esterification, carbon–carbon bond formation and amide coupling on four different hardware systems in two laboratories. With around 50 lines of code per reaction, the approach uses abstraction to efficiently compress chemical protocols.
+*   [Universal chemical programming language for robotic synthesis repeatability](https://www.nature.com/articles/s44160-023-00473-6) - ***Nature Synthesis***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=3455106495990439366)]. \[[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/rauschen-natsynthesisjan24.pdf)]. The amount of chemical synthesis literature is growing quickly; however, it takes a long time to share and evaluate new processes among laboratories. This paper presents an approach that uses a universal chemical programming language (χDL) to encode and execute synthesis procedures for a variety of chemical reactions, including reductive amination, ring formation, esterification, carbon–carbon bond formation and amide coupling on four different hardware systems in two laboratories. With around 50 lines of code per reaction, the approach uses abstraction to efficiently compress chemical protocols.
 
 ## [Apr 11, 2024](/content/2024/04/11/README.md)
 
@@ -774,15 +780,15 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 ## [Apr 05, 2024](/content/2024/04/05/README.md)
 
-### Science Logology / Laboratory Automation
+### Domain Specific Language / Imperative DSL Applications
 
-*   [Convergence of multiple synthetic paradigms in a universally programmable chemical synthesis machine](https://www.nature.com/articles/s41557-020-00596-9) - ***Nature Chemistry***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=18024303106901939347)]. \[[Preprint](https://eprints.gla.ac.uk/231947/)]. This paper shows how the Chemputer synthesis robot can be programmed to perform many different reactions, including solid-phase peptide synthesis, iterative cross-coupling and accessing reactive, unstable diazirines in a single, unified system with high yields and purity.
+*   [Convergence of multiple synthetic paradigms in a universally programmable chemical synthesis machine](https://www.nature.com/articles/s41557-020-00596-9) - ***Nature Chemistry***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=18024303106901939347)]. \[[Preprint](https://eprints.gla.ac.uk/231947/)]. Although the automatic synthesis of molecules has been established, each reaction class uses bespoke hardware. This means that the connection of multi-step syntheses in a single machine to run many different protocols and reactions is not possible, as manual intervention is required. This paper shows how the Chemputer synthesis robot can be programmed to perform many different reactions, including solid-phase peptide synthesis, iterative cross-coupling and accessing reactive, unstable diazirines in a single, unified system with high yields and purity. Developing universal and modular hardware that can be automated using one software system makes a wide variety of batch chemistry accessible. This is shown by the proposed system, which performed around 8,500 operations while reusing only 22 distinct steps in 10 unique modules, with the code able to access 17 different reactions. The authors also demonstrate a complex convergent robotic synthesis of a peptide reacted with a diazirine---a process requiring 12 synthetic steps.
 
 ## [Apr 04, 2024](/content/2024/04/04/README.md)
 
-### Science Logology / Laboratory Automation
+### Domain Specific Language / Imperative DSL Applications
 
-*   [An integrated self-optimizing programmable chemical synthesis and reaction engine](https://www.nature.com/articles/s41467-024-45444-3) - ***Nature Communications***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=9157508627971047184)]. This paper presents a dynamically programmable system capable of making, optimizing, and discovering new molecules which utilizes seven sensors that continuously monitor the reaction. By developing a dynamic programming language, the work demonstrates the 10-fold scale-up of a highly exothermic oxidation reaction, end point detection, as well as detecting critical hardware failures.
+*   [An integrated self-optimizing programmable chemical synthesis and reaction engine](https://www.nature.com/articles/s41467-024-45444-3) - ***Nature Communications***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=9157508627971047184)]. Robotic platforms for chemistry are developing rapidly but most systems are not currently able to adapt to changing circumstances in real-time. This paper presents a dynamically programmable system capable of making, optimizing, and discovering new molecules which utilizes seven sensors that continuously monitor the reaction. By developing a dynamic programming language, the work demonstrates the 10-fold scale-up of a highly exothermic oxidation reaction, end point detection, as well as detecting critical hardware failures.
 
 ## [Apr 03, 2024](/content/2024/04/03/README.md)
 
