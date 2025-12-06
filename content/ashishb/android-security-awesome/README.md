@@ -6,6 +6,16 @@ A collection of android security related resources
 
 [ Daily / [Weekly](/content/ashishb/android-security-awesome/week/README.md) / [Overview](/content/ashishb/android-security-awesome/readme/README.md) ]
 
+## [Dec 06, 2025](/content/2025/12/06/README.md)
+
+### Tools / Static Analysis Tools
+
+*   [APKdevastate (⭐8)](https://github.com/rafigk2v9c/APKdevastate/) - Advanced analysis software for APK payloads created by RATs.
+
+### Tools / Dynamic Analysis Tools
+
+*   [Andriller (⭐1.5k)](https://github.com/den4uk/andriller) - software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Tools / Online Analyzers
@@ -14,8 +24,8 @@ A collection of android security related resources
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Brida (⭐1.8k)](https://github.com/federicodotta/Brida) - Burp Suite extension that, working as a bridge between Burp and Frida, lets you use and manipulate the applications' own methods while tampering the traffic exchanged between the applications and their back-end services/servers.
-*   [MPT (⭐35)](https://github.com/ByteSnipers/mobile-pentest-toolkit) - MPT (Mobile Pentest Toolkit) is a must-have solution for your android penetration testing workflows. This tool allow you to automate security tasks.
+*   [Brida (⭐1.8k)](https://github.com/federicodotta/Brida) - Burp Suite extension that, working as a bridge between Burp and Frida, lets you use and manipulate the applications' own methods while tampering with the traffic exchanged between the applications and their back-end services/servers.
+*   [MPT (⭐35)](https://github.com/ByteSnipers/mobile-pentest-toolkit) - MPT (Mobile Pentest Toolkit) is a must-have solution for your Android penetration testing workflows. This tool allows you to automate security tasks.
 
 ## [Jul 27, 2025](/content/2025/07/27/README.md)
 
@@ -306,7 +316,7 @@ A collection of android security related resources
 
 ### Tools / Dynamic Analysis Tools
 
-*   [AndroPyTool (⭐374)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, or VirusTotal analysis.
+*   [AndroPyTool (⭐374)](https://github.com/alexMyG/AndroPyTool) - a tool for extracting static and dynamic features from Android APKs. It combines different well-known Android app analysis tools such as DroidBox, FlowDroid, Strace, AndroGuard, and VirusTotal analysis.
 
 ### Exploits/Vulnerabilities/Bugs / Malware
 
@@ -510,7 +520,7 @@ A collection of android security related resources
 
 ### Tools / Dynamic Analysis Tools
 
-*   [Mobile-Security-Framework MobSF (⭐20k)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open-source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
+*   [Mobile-Security-Framework MobSF (⭐20k)](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open-source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis, and web API testing.
 *   [Drozer (⭐4.4k)](https://github.com/mwrlabs/drozer)
 *   [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - equivalent of doing Stub-based code injection but without any modifications to the binary
 *   [Inspeckage (⭐2.9k)](https://github.com/ac-pm/Inspeckage) - Android Package Inspector - dynamic analysis with API hooks, start unexported activities, and more. (Xposed Module)
@@ -540,7 +550,7 @@ A collection of android security related resources
 *   [Apktool](https://ibotpeaches.github.io/Apktool/) – really useful for compilation/decompilation (uses smali)
 *   [Android Framework for Exploitation (⭐196)](https://github.com/appknox/AFE)
 *   [Bypass signature and permission checks for IPCs (⭐84)](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
-*   [Android OpenDebug (⭐134)](https://github.com/iSECPartners/Android-OpenDebug) – make any application on the device debuggable (using cydia substrate).
+*   [Android OpenDebug (⭐134)](https://github.com/iSECPartners/Android-OpenDebug) – make any application on the device debuggable (using Cydia Substrate).
 *   [Dex2Jar (⭐13k)](https://github.com/pxb1988/dex2jar) - dex to jar converter
 *   [Enjarify (⭐2.7k)](https://github.com/google/enjarify) - dex to jar converter from Google
 *   [Fino (⭐108)](https://github.com/sysdream/fino)

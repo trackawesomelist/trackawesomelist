@@ -11,6 +11,7 @@ A collection of some awesome public Zig programming language projects.
 ### Misc / Zigged Project
 
 *   [neurosnap/zmx (⭐446)](https://github.com/neurosnap/zmx) : Session persistence for terminal processes
+*   [lightpanda-io/browser (⭐11k)](https://github.com/lightpanda-io/browser) : Headless browser designed for AI and automation.
 
 ## [Dec 03, 2025](/content/2025/12/03/README.md)
 

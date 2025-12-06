@@ -8,6 +8,13 @@
 
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
+### Google Dorks Tools
+
+*   [DorkGenius](https://dorkgenius.com/) - DorkGenius is the ultimate tool for generating custom search queries for Google, Bing, and DuckDuckGo. - Our cutting-edge app uses the power of AI to help you create advanced search queries that can find exactly what you're looking for on the web.
+*   [DorkGPT](https://www.dorkgpt.com/) - Generate Google Dorks with AI.
+*   [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database) - The GHDB is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
+*   [SearchDorks](https://kriztalz.sh/search-dorks/) - Generate Search Engine (Google, FOFA, Shodan, Censys, ZoomEye) Dorks using AI.
+
 ### Social Media Tools / Telegram
 
 *   [AgentFNS\_Bot](https://t.me/AgentFNS_bot) — Free instant counterparty check using official data (INN/OGRN).
@@ -81,7 +88,6 @@
 *   [Kagi Search](https://kagi.com/) - Liberate your search. Free of ads. Free of surveillance. Your time respected. You are the customer, never the product.
 *   [Presearch](https://presearch.com/) - Presearch is a decentralized, community-driven search engine that protects your privacy and rewards you when you search.
 *   [Qwant](https://www.qwant.com/) - The search engine that respects your privacy.
-*   [Search Encrypt](https://www.searchencrypt.com/home) - A search engine that uses local encryption to protect users’ search data.
 *   [Startpage](https://www.startpage.com/) - The world’s most private search engine.
 *   [swisscows](https://swisscows.com/en) - Anonymous search engine, a family-friendly, privacy-focused search engine based in Switzerland.
 
@@ -332,11 +338,6 @@
 *   [Search Abuseipdb (⭐2)](https://github.com/oseasfr/search-abuseipdb) - Tool to query IPs, ranges and ASN blocks in AbuseIPDB via API with CIDR notation.
 *   [Wpscan](https://wpscan.com) - Scan your WordPress site and get an instant report on its security.
 
-### Digital Footprint Tools
-
-*   [Mine](https://www.saymine.com/mineapp) - Mine allows you to discover where your personal data is, and reduce your online exposure to minimize digital risks.
-*   [Yorba](https://yorba.co/) - Yorba helps you regain control of your digital life. We find and delete old accounts, cancel unwanted subscriptions, and unsubscribe you from emails you never open—making your inbox cleaner, your footprint leaner, your privacy stronger.
-
 ### Pastebins
 
 *   [Context](https://ctxt.io/) - Share whatever you see with others in seconds.
@@ -429,10 +430,6 @@
 
 *   [Apollo.io](https://www.apollo.io/) - Free B2B Phone Number & Email Finder. 1200 credits per user/year for free plan.
 *   [ContactOut](https://contactout.com/) - Unlock the world's most accurate contact data. Find emails & phone for 300M professionals.
-
-### Email Search / Email Check / GitHub
-
-*   [Secureito](https://www.secureito.com) - Secureito detects data breaches involving your email and suggests protection measures.
 
 ### Domain and IP Research / GitHub
 
@@ -1505,7 +1502,6 @@
 *   [jsbin](https://Jsbin.com)
 *   [justpaste](https://Justpaste.it)
 *   [paste.debian](https://Paste.debian.net)
-*   [paste.ee](https://Paste.ee)
 *   [paste.kde](https://Paste.kde.org)
 
 ### Code Search
@@ -2101,7 +2097,6 @@
 ### Expert Search / GitHub
 
 *   [Academia](http://academia.edu) - is a platform for sharing academic research.
-*   [CanLaw](http://www.canlaw.com)
 *   [ExpertiseFinder](http://www.expertisefinder.com)
 *   [ExpertPages](http://expertpages.com)
 *   [Experts.com](http://www.experts.com)
@@ -2117,7 +2112,6 @@
 *   [PRNewswire](https://prnmedia.prnewswire.com)
 *   [ReseacherID](http://www.researcherid.com)
 *   [SheSource](http://www.shesource.org)
-*   [Speakezee](https://www.speakezee.org)
 *   [Sources](http://www.sources.com)
 *   [TRExpertWitness](https://trexpertwitness.com)
 *   [Zintro](https://www.zintro.com)
