@@ -6,6 +6,12 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 
 [ Daily / [Weekly](/content/FriendsOfCake/awesome-cakephp/week/README.md) / [Overview](/content/FriendsOfCake/awesome-cakephp/readme/README.md) ]
 
+## [Dec 06, 2025](/content/2025/12/06/README.md)
+
+### Notifications and Real-time Communication
+
+*   [Crustum/Notification plugin (⭐0)](https://github.com/crustum/notification) - The Notification plugin provides support for sending notifications across a variety of delivery channels.
+
 ## [Dec 04, 2025](/content/2025/12/04/README.md)
 
 ### Notifications and Real-time Communication

@@ -17,6 +17,10 @@ A collection of some awesome public Zig programming language projects.
 *   [captkirk88/zevy-raylib (⭐1)](https://github.com/captkirk88/zevy-raylib) : Framework for building games in Zig using raylib-zig and zevy-ecs.
 *   [captkirk88/zevy-ecs (⭐5)](https://github.com/captkirk88/zevy-ecs) : ECS similar to rust Bevy supporting very similar systems params support + more.
 
+### Misc / Zigged Project
+
+*   [neurosnap/zmx (⭐446)](https://github.com/neurosnap/zmx) : Session persistence for terminal processes
+
 ## [Nov 10 - Nov 16, 2025](/content/2025/45/README.md)
 
 ### Network / Zigged Project

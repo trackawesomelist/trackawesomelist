@@ -6,6 +6,12 @@ A list of awesome beginners-friendly projects.
 
 [ [Daily](/content/MunGell/awesome-for-beginners/README.md) / Weekly / [Overview](/content/MunGell/awesome-for-beginners/readme/README.md) ]
 
+## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
+
+### TypeScript
+
+*   [Vitest (⭐15k)](https://github.com/vitest-dev/vitest) *(label: good first issue)* <br> A blazing fast unit test framework powered by Vite.
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### JavaScript

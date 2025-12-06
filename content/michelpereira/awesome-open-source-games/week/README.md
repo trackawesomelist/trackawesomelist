@@ -8,6 +8,15 @@ Collection of Games that have the source code available on GitHub
 
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
+### Browser-Based / Others
+
+*   [Project: Starfighter (⭐48)](https://github.com/pr-starfighter/starfighter) - Space shoot 'em up game.
+
+### Native / Platform
+
+*   [ReTux (⭐37)](https://github.com/retux-game/retux/) - Platformer game inspired by SuperTux.
+*   [Super Bombinhas (⭐311)](https://github.com/victords/super-bombinhas) - Retro platformer game.
+
 ### Native / Sandbox
 
 *   [Starbound (⭐135)](https://github.com/rwf93/Starbound) - A 2D sandbox adventure game where players explore a vast procedurally generated universe.
@@ -25,6 +34,10 @@ Collection of Games that have the source code available on GitHub
 *   [Pikifen (⭐70)](https://github.com/Espyo/Pikifen) - Fan-made Pikmin-based engine, built with flexibility in mind.
 *   [Romanov's Vengeance (⭐312)](https://github.com/MustaphaTR/Romanovs-Vengeance) - Remake of C\&C Red Alert 2 based on [the OpenRA engine (⭐16k)](https://github.com/OpenRA/OpenRA)
 *   [Shattered Paradise (⭐78)](https://github.com/ABrandau/Shattered-Paradise-SDK) - Remake of C\&C Tiberian Sun based on [the OpenRA engine (⭐16k)](https://github.com/OpenRA/OpenRA)
+
+### Frameworks/Engines/Libraries / IOS
+
+*   [Unreal Engine (⭐3.5k)](https://github.com/EpicGames/Signup) - C++ AAA game engine. It isn't completely free, but you can easily get access to the full source code. <https://www.unrealengine.com/>
 
 ## [Jun 16 - Jun 22, 2025](/content/2025/24/README.md)
 
@@ -407,10 +420,10 @@ Collection of Games that have the source code available on GitHub
 ### Browser-Based / Others
 
 *   [Beast (⭐56)](https://github.com/dominikwilkowski/beast.js) - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
+*   [CyberPong (⭐7)](https://github.com/dreamtocode/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit.
 *   [Descensus 2 (⭐17)](https://github.com/TomWHall/Descensus2) - A TypeScript 2D physics game.
 *   [Hauberk (⭐2.1k)](https://github.com/munificent/hauberk) - Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
 *   [HeartLine (⭐3)](https://github.com/gamebytes/heartline.github.com) - Game made in 48 hours for the 2013 Global Game Jam.
-*   [CyberPong (⭐7)](https://github.com/dreamtocode/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit.
 *   [Squirts (⭐33)](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript.
 
 ### Native / Arcade

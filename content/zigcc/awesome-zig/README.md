@@ -6,6 +6,12 @@ A collection of some awesome public Zig programming language projects.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Dec 06, 2025](/content/2025/12/06/README.md)
+
+### Misc / Zigged Project
+
+*   [neurosnap/zmx (⭐446)](https://github.com/neurosnap/zmx) : Session persistence for terminal processes
+
 ## [Dec 03, 2025](/content/2025/12/03/README.md)
 
 ### Database / Zigged Project

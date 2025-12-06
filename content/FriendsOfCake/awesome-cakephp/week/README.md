@@ -11,6 +11,7 @@ A curated list of amazingly awesome CakePHP plugins, resources and shiny things.
 ### Notifications and Real-time Communication
 
 *   [Crustum/Broadcasting plugin (⭐0)](https://github.com/crustum/broadcasting) - The Broadcasting plugin provides real-time event broadcasting for CakePHP applications using WebSocket connections compatible with the Pusher protocol or Redis pub/sub.
+*   [Crustum/Notification plugin (⭐0)](https://github.com/crustum/notification) - The Notification plugin provides support for sending notifications across a variety of delivery channels.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 

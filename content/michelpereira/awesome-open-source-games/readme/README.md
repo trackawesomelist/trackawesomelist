@@ -238,12 +238,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 *   [Beast (⭐56)](https://github.com/dominikwilkowski/beast.js) - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
 *   [Binb (⭐303)](https://github.com/lpinca/binb) - Competitive, multiplayer, realtime, guess the song game.
+*   [CyberPong (⭐7)](https://github.com/dreamtocode/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit.
 *   [Dental Defender: Saga of the Candy Horde (⭐45)](https://github.com/cshepp/candyjam) - HTML5 shooter/tower defense game for the #CandyJam.
 *   [Descensus 2 (⭐17)](https://github.com/TomWHall/Descensus2) - A TypeScript 2D physics game.
 *   [Hauberk (⭐2.1k)](https://github.com/munificent/hauberk) - Hauberk is a roguelike, an ASCII-art based procedurally-generated dungeon crawl game. It's written in Dart and runs in your browser.
 *   [HeartLine (⭐3)](https://github.com/gamebytes/heartline.github.com) - Game made in 48 hours for the 2013 Global Game Jam.
+*   [Project: Starfighter (⭐48)](https://github.com/pr-starfighter/starfighter) - Space shoot 'em up game.
 *   [Psiral (⭐68)](https://github.com/petarov/game-off-2013) - JavaScript/HTML5 game, GitHub Game Off 2 winner.
-*   [CyberPong (⭐7)](https://github.com/dreamtocode/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit.
 *   [Squirts (⭐33)](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript.
 *   [The Killer (⭐15)](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame".
 *   [Turkey Cooking Simulator (⭐26)](https://github.com/fernjager/game-off-2013) - You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family.
@@ -339,6 +340,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 *   [Sky Engine (⭐16)](https://github.com/ilenburg/game-engine) - Custom engine 2D platform game made with OpenGL.
 *   [The Legend of Edgar (⭐130)](https://github.com/riksweeney/edgar) - 2D platform game with a persistent world.
 *   [The Secret Chronicles of Dr. M. (⭐220)](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.
+*   [ReTux (⭐37)](https://github.com/retux-game/retux/) - Platformer game inspired by SuperTux.
+*   [Super Bombinhas (⭐311)](https://github.com/victords/super-bombinhas) - Retro platformer game.
 *   [SuperTux (⭐2.7k)](https://github.com/SuperTux/supertux) - Classic 2D jump'n'run sidescroller with Tux.
 
 ### Puzzle/card/board
@@ -483,6 +486,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Frameworks/Engines/Libraries
 
+*   [Unreal Engine (⭐3.5k)](https://github.com/EpicGames/Signup) - C++ AAA game engine. It isn't completely free, but you can easily get access to the full source code. <https://www.unrealengine.com/>
 *   [Akihabara (⭐198)](https://github.com/Akihabara/akihabara) - Set of libraries, tools and presets to create pixelated indie-style 8/16-bit era games in JavaScript.
 *   [Allegro 5 (⭐2k)](https://github.com/liballeg/allegro5) - C++ libraries to make 2D games(graphics, sound, etc.).
 *   [Ammo.js (⭐4.4k)](https://github.com/kripken/ammo.js) - Direct port of the Bullet Physics engine to JavaScript using Emscripten.

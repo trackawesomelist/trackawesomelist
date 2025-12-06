@@ -1,30 +1,36 @@
 # Awesome List Updates on Dec 08 - Dec 14, 2025
 
-33 awesome lists updated this week.
+34 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [1. Awesome for Beginners](/content/MunGell/awesome-for-beginners/week/README.md)
+
+### TypeScript
+
+*   [Vitest (⭐15k)](https://github.com/vitest-dev/vitest) *(label: good first issue)* <br> A blazing fast unit test framework powered by Vite.
+
+## [2. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Utilities / Utility/Miscellaneous
 
 *   [pioz/countries (⭐92)](https://github.com/pioz/countries) — All you need when you are working with countries in Go. ☆`92`
 
-## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [3. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Polars plugins / Miscellaneous
 
 *   [polars-bio](http://biodatageeks.org/polars-bio/) - [Polars plugin (⭐101)](https://github.com/biodatageeks/polars-bio) for large-scale genomic analyses which is easy to use and considerably faster and more scalable than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
 
-## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Logic DSL Applications
 
 *   [LogSay: An Efficient Comprehension System for Log Numerical Reasoning](https://ieeexplore.ieee.org/abstract/document/10494680) - ***IEEE Transactions on Computers***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=17053857493674669692)]. With the growth of smart systems and applications, high volume logs are generated that record important data for system maintenance. System developers are usually required to analyze logs to track the status of the system or applications. Therefore, it is essential to find the answers in large-scale logs when they have some questions. This work designs a multi-step “Retriever-Reader” question-answering system, namely LogSay, which aims at predicting answers accurately and efficiently. The proposed system can not only answers simple questions, such as a segment log or span, but also can answer complex logical questions through numerical reasoning. LogSay has two key components: Log Retriever and Log Reasoner, and the authors designed five operators to implement them. Log Retriever aims at retrieving some relevant logs based on a question. Then, Log Reasoner performs numerical reasoning to infer the final answer. In addition, due to the lack of available question-answering datasets for system logs, the authors constructed question-answering datasets based on three public log datasets and will make them publicly available. The evaluation results show that LogSay outperforms the state-of-the-art works in terms of accuracy and efficiency.
 
-## [4. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [5. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### 👨‍💻 Development (9) / 🌍 Web Development (15)
 
@@ -49,13 +55,13 @@
     </p>
     </details>
 
-## [5. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
+## [6. Awesome Ebpf](/content/zoidbergwill/awesome-ebpf/week/README.md)
 
 ### Projects Related to eBPF / Observability
 
 *   [kyanos (⭐4.9k)](https://github.com/hengyoush/kyanos) - Kyanos is an eBPF-based network issue analysis tool that enables you to capture network requests, such as HTTP, Redis, and MySQL requests.
 
-## [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+## [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
 
 ### Software / Automation
 
@@ -96,7 +102,16 @@
 
 *   [godoxy](https://docs.godoxy.dev/) - High-performance reverse proxy and container orchestrator for self-hosters. ([Demo](https://demo.godoxy.dev/), [Source Code (⭐2.6k)](https://github.com/yusing/godoxy)) `MIT` `Docker/Go`
 
-## [7. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+## [8. Awesome Open Source Games](/content/michelpereira/awesome-open-source-games/week/README.md)
+
+### Browser-Based / Others
+
+*   [Project: Starfighter (⭐48)](https://github.com/pr-starfighter/starfighter) - Space shoot 'em up game.
+
+### Native / Platform
+
+*   [ReTux (⭐37)](https://github.com/retux-game/retux/) - Platformer game inspired by SuperTux.
+*   [Super Bombinhas (⭐311)](https://github.com/victords/super-bombinhas) - Retro platformer game.
 
 ### Native / Sandbox
 
@@ -116,19 +131,24 @@
 *   [Romanov's Vengeance (⭐312)](https://github.com/MustaphaTR/Romanovs-Vengeance) - Remake of C\&C Red Alert 2 based on [the OpenRA engine (⭐16k)](https://github.com/OpenRA/OpenRA)
 *   [Shattered Paradise (⭐78)](https://github.com/ABrandau/Shattered-Paradise-SDK) - Remake of C\&C Tiberian Sun based on [the OpenRA engine (⭐16k)](https://github.com/OpenRA/OpenRA)
 
-## [8. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
+### Frameworks/Engines/Libraries / IOS
+
+*   [Unreal Engine (⭐3.5k)](https://github.com/EpicGames/Signup) - C++ AAA game engine. It isn't completely free, but you can easily get access to the full source code. <https://www.unrealengine.com/>
+
+## [9. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/week/README.md)
 
 ### Notifications and Real-time Communication
 
 *   [Crustum/Broadcasting plugin (⭐0)](https://github.com/crustum/broadcasting) - The Broadcasting plugin provides real-time event broadcasting for CakePHP applications using WebSocket connections compatible with the Pusher protocol or Redis pub/sub.
+*   [Crustum/Notification plugin (⭐0)](https://github.com/crustum/notification) - The Notification plugin provides support for sending notifications across a variety of delivery channels.
 
-## [9. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
+## [10. Awesome Ada](/content/ohenley/awesome-ada/week/README.md)
 
 ### Networking and Communication Middleware / Apache License
 
 *   [coap-spark (⭐8)](https://github.com/mgrojo/coap_spark) - A formally verified implementation of CoAP, the Constrained Application Protocol.
 
-## [10. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
+## [11. Awesome Python Data Science](/content/krzjoa/awesome-python-data-science/week/README.md)
 
 ### Machine Learning / General Purpose Machine Learning
 
@@ -138,13 +158,13 @@
 
 *   [NumPy](https://numpy.org/) - The fundamental package for scientific computing with Python
 
-## [11. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+## [12. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Solutions / Dart - Official
 
 *   [`GCP Cost MCP Server`](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) - An MCP server built with Genkit for Go that enables AI assistants to estimate Google Cloud costs directly, replacing manual use of the GCP Pricing Calculator.
 
-## [12. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [13. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Frameworks
 
@@ -154,19 +174,19 @@
 
 *   [pompelmi (⭐391)](https://github.com/pompelmi/pompelmi) - Fast file-upload malware scanning for Node.js.
 
-## [13. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [14. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / UI & End-to-End Testing
 
 *   [Keploy](https://keploy.io) – Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
 
-## [14. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
+## [15. Awesome Rtc](/content/rtckit/awesome-rtc/week/README.md)
 
 ### Operations / Web/API Interfaces
 
 *   [Sayna (⭐5)](https://github.com/SaynaAI/sayna) - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
 
-## [15. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
+## [16. Awesome PICO 8](/content/pico-8/awesome-PICO-8/week/README.md)
 
 ### Contents / Tutorials
 
@@ -177,20 +197,20 @@
 *   [pico8-physics (⭐49)](https://github.com/jamesedge/pico8-physics) - Pico8 implementation of Box2d with 8 demos.
 *   [SCUMM-8 (⭐345)](https://github.com/Liquidream/scumm-8) - De-make of the SCUMM engine for making point-and-click classic adventures.
 
-## [16. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [17. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Productivity
 
 *   [EyeRest (⭐9)](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
     every 20 minutes, look at something 20 feet (\~6 meters) away for at least 20 seconds. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/necdetsanli/EyeRest)
 
-## [17. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [18. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Other LLM Frameworks / Videos Playlists
 
 *   [Mastra AI (⭐19k)](https://github.com/mastra-ai/mastra): a framework for building AI-powered applications and agents with a modern TypeScript stack.
 
-## [18. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [19. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Database / Zigged Project
 
@@ -201,19 +221,23 @@
 *   [captkirk88/zevy-raylib (⭐1)](https://github.com/captkirk88/zevy-raylib) : Framework for building games in Zig using raylib-zig and zevy-ecs.
 *   [captkirk88/zevy-ecs (⭐5)](https://github.com/captkirk88/zevy-ecs) : ECS similar to rust Bevy supporting very similar systems params support + more.
 
-## [19. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+### Misc / Zigged Project
+
+*   [neurosnap/zmx (⭐446)](https://github.com/neurosnap/zmx) : Session persistence for terminal processes
+
+## [20. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Database
 
 *   [ayarotsky/redis-shield (⭐95)](https://github.com/ayarotsky/redis-shield) - A Redis module that implements the token-bucket algorithm as a native command for high-performance rate limiting
 
-## [20. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
+## [21. Awesome Developer First](/content/agamm/awesome-developer-first/week/README.md)
 
 ### Testing
 
 *   [BitDive](https://bitdive.io/) - Zero-code integration testing for Java/Kotlin that generates tests from runtime application behavior.
 
-## [21. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [22. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Intentionally Vulnerable Systems / Intentionally Vulnerable Systems as Docker Containers
 
@@ -227,7 +251,7 @@
 
 *   [Awesome ElectronJS Hacking (⭐652)](https://github.com/doyensec/awesome-electronjs-hacking) - A curated list of awesome resources about Electron.js (in)security
 
-## [22. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
+## [23. Awesome Asyncio](/content/timofurrer/awesome-asyncio/week/README.md)
 
 ### Database Drivers
 
@@ -237,13 +261,13 @@
 
 *   [Short well-written intro to asyncio](https://masnun.com/python-generators-coroutines-native-coroutines-and-async-await/) - Generators, Coroutines, Native Coroutines and async/await.
 
-## [23. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
+## [24. Awesome Transit](/content/CUTR-at-USF/awesome-transit/week/README.md)
 
 ### GTFS Data Collection and Maintenance Tools / Rust
 
 *   [GTFS Studio](https://gtfs.studio) - Online editor for GTFS feeds
 
-## [24. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [25. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### PaaS
 
@@ -254,7 +278,7 @@
 
 *   [DocBeacon](https://docbeacon.io) - Secure document sharing with document tracking and engagement Analytics. Free plan supports up to 20 PDF documents (10 MB max), 10 contacts, and 2 shares per document with basic analytics for views downloads, time and engagement.
 
-## [25. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
+## [26. Awesome Plotters](/content/beardicus/awesome-plotters/week/README.md)
 
 ### Hardware / Plotters
 
@@ -303,13 +327,13 @@
 
 *   \#PenPlotter - [Bluesky](https://bsky.app/search?q=%23PenPlotter) and [Mastodon](https://mastodon.social/search?q=%23PenPlotter) hashtag with good plotterfolk activity.
 
-## [26. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [27. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### MCP
 
 *   [MCP MariaDB Server (⭐95)](https://github.com/MariaDB/mcp) - the official MariaDB MCP server.
 
-## [27. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [28. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Social Media Tools / Telegram
 
@@ -369,13 +393,13 @@
 *   [UsInfoBot](https://t.me/usinfobot) — Resolves username from ID (inline).
 *   [WhoisDomBot](https://t.me/WhoisDomBot) — Whois lookup for domains/IPs + dig/trace.
 
-## [28. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+## [29. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
 
 ### Resources / Data Formats
 
 *   [YAML (⭐429) (⭐427)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [29. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [30. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / API Development and Analysis
 
@@ -397,25 +421,29 @@
 
 *   [MiddleDrag (⭐4)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - Three-finger trackpad gestures for middle-click and middle-drag on macOS. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [30. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+## [31. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
 
 ### Miscellaneous
 
 *   [EmbedPDF](https://www.embedpdf.com/docs/svelte/introduction) - A modular, high-performance PDF viewer and editor built for Svelte, powered by PDFium. Fully extensible with plugins for annotations, redaction, thumbnails, and more.
 
-## [31. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [32. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Programming Languages Support / Web Development
+
+*   [rodrigoscc/nurl.nvim (⭐0)](https://github.com/rodrigoscc/nurl.nvim) - HTTP client with requests defined in pure Lua.
 
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
 *   [pebeto/dookie.nvim (⭐6)](https://github.com/pebeto/dookie.nvim) - A color scheme inspired by Plan9's acme editor.
 
-## [32. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [33. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [ipnav (⭐1)](https://github.com/clebertmarctyson/oh-my-zsh-ipnav) - Provides convenient aliases and completions for IP address operations [ip-navigator-cli (⭐1)](https://github.com/clebertmarctyson/ip-navigator-cli).
 
-## [33. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [34. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Data Lake Management
 
