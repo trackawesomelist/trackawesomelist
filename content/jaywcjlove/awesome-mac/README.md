@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Dec 07, 2025](/content/2025/12/07/README.md)
+
+### Utilities / Menu Bar Tools
+
+*   [Boring Notch](https://theboring.name/) - Turn your MacBook notch into a music and file control center. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TheBoredTeam/boring.notch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+### Utilities / Productivity
+
+*   [Trace](https://trace.techulus.xyz) - Open-source spotlight alternative and shortcut toolkit. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/arjunkomath/trace)
+
 ## [Dec 04, 2025](/content/2025/12/04/README.md)
 
 ### Utilities / General Tools

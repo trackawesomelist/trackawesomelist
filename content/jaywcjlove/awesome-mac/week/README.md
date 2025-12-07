@@ -14,6 +14,7 @@
 
 ### Utilities / Menu Bar Tools
 
+*   [Boring Notch](https://theboring.name/) - Turn your MacBook notch into a music and file control center. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/TheBoredTeam/boring.notch) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 *   [DynamicHorizon](https://dynamichorizon.app) - Enhances the notch with seamless media controls, airdrop, notifications, system indicators and lock screen widgets.
 
 ### Utilities / General Tools
@@ -23,6 +24,7 @@
 ### Utilities / Productivity
 
 *   [Table Habit (⭐1.1k)](https://github.com/FriesI23/mhabit) – A cross-platform habit tracker that helps you build micro-habits with growth curves and offline-first syncing. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/us/app/table-habit/id6744886469)
+*   [Trace](https://trace.techulus.xyz) - Open-source spotlight alternative and shortcut toolkit. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")](https://github.com/arjunkomath/trace)
 
 ### Utilities / System Related Tools
 
