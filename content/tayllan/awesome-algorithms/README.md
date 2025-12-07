@@ -6,6 +6,12 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 [ Daily / [Weekly](/content/tayllan/awesome-algorithms/week/README.md) / [Overview](/content/tayllan/awesome-algorithms/readme/README.md) ]
 
+## [Dec 07, 2025](/content/2025/12/07/README.md)
+
+### Beginner-Friendly / Interactive Learning & Visualization
+
+*   [See Algorithms](https://see-algorithms.com/) – Visualizes algorithms and lets users create and share custom graphs and binary trees.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Beginner-Friendly / Book
@@ -108,12 +114,6 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 *   [Math (⭐12k)](https://github.com/rossant/awesome-math#readme) - Freely available lecture notes on mathematics.
 
-## [Mar 17, 2021](/content/2021/03/17/README.md)
-
-### Beginner-Friendly / Interactive Learning & Visualization
-
-*   [redblobgames](https://www.redblobgames.com/) - interactive visual explanations of math and algorithms, using motivating examples from computer games.
-
 ## [Sep 11, 2020](/content/2020/09/11/README.md)
 
 ### Cheat Sheet / YouTube Playlist
@@ -156,7 +156,6 @@ A curated list of awesome places to learn and/or practice algorithms.
 
 ### Beginner-Friendly / Interactive Learning & Visualization
 
-*   [Algorithm Visualizer](http://algo-visualizer.jasonpark.me/) - Dozens of animated algorithms (with code), and you can also create your own.
 *   [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 
 ### Theory & Fundamentals / Book

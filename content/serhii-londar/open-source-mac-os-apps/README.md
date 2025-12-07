@@ -6,6 +6,27 @@
 
 [ Daily / [Weekly](/content/serhii-londar/open-source-mac-os-apps/week/README.md) / [Overview](/content/serhii-londar/open-source-mac-os-apps/readme/README.md) ]
 
+## [Dec 07, 2025](/content/2025/12/07/README.md)
+
+### 🛠️ Utilities (81) / ✏️ Text (11)
+
+*   [MiddleDrag (⭐4)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - Three-finger trackpad gestures for middle-click and middle-drag.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Links:** <a href='https://github.com/NullPointerDepressiveDisorder/MiddleDrag/releases/latest'><img src='https://img.shields.io/github/v/release/NullPointerDepressiveDisorder/MiddleDrag?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/NullPointerDepressiveDisorder/MiddleDrag'><img src='https://img.shields.io/github/stars/NullPointerDepressiveDisorder/MiddleDrag?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/NullPointerDepressiveDisorder/MiddleDrag' alt='License'/>
+
+    **Screenshots:**
+
+    <img src='https://raw.githubusercontent.com/NullPointerDepressiveDisorder/MiddleDrag/main/Screenshots/MiddleDrag-Demo.gif' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
 ## [Dec 05, 2025](/content/2025/12/05/README.md)
 
 ### 👨‍💻 Development (9) / 🌍 Web Development (15)
@@ -1004,7 +1025,7 @@
     </p>
     </details>
 
-### 🛠️ Utilities (80) / ✏️ Text (11)
+### 🛠️ Utilities (81) / ✏️ Text (11)
 
 *   [MonitorControl (⭐32k)](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
