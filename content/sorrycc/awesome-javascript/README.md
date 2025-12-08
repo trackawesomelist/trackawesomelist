@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/sorrycc/awesome-javascript/week/README.md) / [Overview](/content/sorrycc/awesome-javascript/readme/README.md) ]
 
+## [Dec 08, 2025](/content/2025/12/08/README.md)
+
+### Testing Frameworks / Assertion
+
+*   [Pocket Mocker (⭐299)](https://github.com/tianchangNorth/pocket-mocker) - In-browser visual network mocking tool, supports fetch/XHR interception.
+
+### Data Visualization / Runner
+
+*   [G6 (⭐12k)](https://github.com/antvis/g6) - A graph visualization engine.
+
 ## [Dec 05, 2025](/content/2025/12/05/README.md)
 
 ### Security / Runner
@@ -86,7 +96,7 @@
 
 ### Generators / Other
 
-*   [Astro (⭐54k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
+*   [Astro (⭐55k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
 
 ### ORM / Other
 

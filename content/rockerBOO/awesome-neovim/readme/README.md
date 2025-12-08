@@ -1623,6 +1623,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [notomo/cmdbuf.nvim (⭐133)](https://github.com/notomo/cmdbuf.nvim) - Alternative command-line-window plugin.
 *   [gelguy/wilder.nvim (⭐1.5k)](https://github.com/gelguy/wilder.nvim) - A plugin for fuzzy command line autocompletion.
 *   [vzze/cmdline.nvim (⭐20)](https://github.com/vzze/cmdline.nvim) - Helix-like command line with fuzzy autocompletion.
+*   [nvim-mini/mini.nvim#mini.cmdline (⭐8.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md) - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
 
 <!--lint disable double-link -->
 

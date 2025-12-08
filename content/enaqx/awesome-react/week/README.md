@@ -6,6 +6,12 @@ A collection of awesome things regarding React ecosystem
 
 [ [Daily](/content/enaqx/awesome-react/README.md) / Weekly / [Overview](/content/enaqx/awesome-react/readme/README.md) ]
 
+## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
+
+### React Awesome Components
+
+*   [markdown-to-jsx](https://www.npmjs.com/package/markdown-to-jsx) - A fast, versatile, and 100% CommonMark + GFM compliant markdown toolchain for React and other renderers.
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### React Component Libraries
@@ -43,7 +49,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Internationalization
 
-*   [react-inltayer (⭐404)](https://github.com/aymericzip/intlayer) - Internationalization focused on maintenability for React
+*   [react-inltayer (⭐441)](https://github.com/aymericzip/intlayer) - Internationalization focused on maintenability for React
 
 ### React Real Apps
 
@@ -114,7 +120,7 @@ A collection of awesome things regarding React ecosystem
 
 ### React Component Libraries
 
-*   [shadcn-ui (⭐100k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
+*   [shadcn-ui (⭐101k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
 
 ### React Awesome Components
 

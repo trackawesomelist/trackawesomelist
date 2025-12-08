@@ -2,7 +2,7 @@
 
 A list of amazing Newsletters
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4.2K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4.3K · 🏷️ Entertainment
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / [Weekly](/content/zudochkin/awesome-newsletters/week/README.md) / Overview ]
 
@@ -14,9 +14,9 @@ Inspired by the `awesome-*` trend on GitHub.
 
 The goal is to build a categorized community-driven collection of very well-known resources.
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines (⭐4.2k)](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines (⭐4.3k)](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
 
-Thanks to all [contributors (⭐4.2k)](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
+Thanks to all [contributors (⭐4.3k)](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
 *   [Frontend](#frontend)
     *   [General Web Development](#general-web-development)
@@ -141,6 +141,7 @@ Thanks to all [contributors (⭐4.2k)](https://github.com/zudochkin/awesome-news
 
 *   [Vue.js Newsletter](https://news.vuejs.org). Weekly dose of handpicked Vue.js news.
 *   [VueDose](https://vuedose.tips). Tips & tricks about the Vue ecosystem, for busy devs. Published weekly.
+*   [Weekly Vue News](https://weekly-vue.news). A weekly newsletter for Vue & Nuxt developers.
 
 #### Svelte
 
@@ -252,7 +253,7 @@ Thanks to all [contributors (⭐4.2k)](https://github.com/zudochkin/awesome-news
 
 ### R
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐788)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐791)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 
@@ -395,8 +396,7 @@ Thanks to all [contributors (⭐4.2k)](https://github.com/zudochkin/awesome-news
 *   [Monitoring Weekly](https://monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
 *   [SRE Weekly](http://sreweekly.com/). SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.
 *   [StatusCode Weekly](https://weekly.statuscode.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
-*   [Upcoming Kubernetes Events Newsletter](https://kube.events/newsletter). A weekly newsletter on curated meetups, conferences, training and webinars on Kubernetes.
-*   [Learn Kubernetes weekly](https://learnk8s.io/learn-kubernetes-weekly). Curated articles, tutorials, projects and events with a focus on Kubernetes.
+*   [Learn Kubernetes weekly](https://learnkube.com/learn-kubernetes-weekly). Curated articles, tutorials, projects and events with a focus on Kubernetes.
 *   [DevOps Bulletin](https://devopsbulletin.com). The latest DevOps trends in your inbox every week. From AWS, Terraform, and Kubernetes to CI/CD pipelines and cloud-native architecture, we've got you covered!
 
 ### Cloud Development
@@ -456,6 +456,7 @@ Thanks to all [contributors (⭐4.2k)](https://github.com/zudochkin/awesome-news
 *   [TechTok Today](https://techtok.today). Daily summarised and curated news in technology (as newsletter and in-website stories) picked from the most popular sources and fresh engineering blogs articles from leading tech companies.
 *   [Weekly Engineering Newsletter](https://weeklyengineeringnewsletter.substack.com). Every Sunday, delivering a digest of the week's most fascinating finds in the tech world.
 *   [Hacking Scale](https://newsletter.betterstack.com/). A bi-weekly newsletter about building and scaling software from engineers at Better Stack.
+*   [mainbranch](https://mainbranch.beehiiv.com/). A short, no-hype newsletter on software engineering fundamentals, practical features for better code, and platform updates that help ship faster.
 
 ## Leadership
 

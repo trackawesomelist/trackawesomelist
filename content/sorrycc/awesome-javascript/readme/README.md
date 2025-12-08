@@ -191,6 +191,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [expect.js (⭐2.1k)](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 *   [proxyquire (⭐2.7k)](https://github.com/thlorenz/proxyquire) - Stub nodejs's require.
 *   [Supertest (⭐14k)](https://github.com/visionmedia/supertest) - A popular HTTP assertion library for testing REST APIs, often used with other testing frameworks like Mocha or Jest
+*   [Pocket Mocker (⭐299)](https://github.com/tianchangNorth/pocket-mocker) - In-browser visual network mocking tool, supports fetch/XHR interception.
 
 ### Coverage
 
@@ -378,6 +379,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *   [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
 *   [jointjs (⭐5.1k)](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 *   [vizzu (⭐2k)](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
+*   [G6 (⭐12k)](https://github.com/antvis/g6) - A graph visualization engine.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
@@ -1046,7 +1048,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *   [Docusaurus (⭐63k)](https://github.com/facebook/docusaurus) - React-based static site generator by Facebook, ideal for content-centric websites.
 *   [Next.js (⭐136k)](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
 *   [Lume (⭐2.2k)](https://github.com/lumeland/lume) - Static site generator for Deno.
-*   [Astro (⭐54k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
+*   [Astro (⭐55k)](https://github.com/withastro/astro) - The web framework for content-driven websites.
 
 ## SDK
 

@@ -6,6 +6,18 @@ A curated list of analytics frameworks, software and other tools.
 
 [ Daily / [Weekly](/content/newTendermint/awesome-analytics/week/README.md) / [Overview](/content/newTendermint/awesome-analytics/readme/README.md) ]
 
+## [Dec 08, 2025](/content/2025/12/08/README.md)
+
+### General analytics
+
+*   [UXWizz](https://www.uxwizz.com/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests and more. `©` `Self-Hosted` `PHP`
+*   [Deepnote](https://deepnote.com/) - Deepnote is a drop-in replacement for Jupyter and an AI-native data workspace for modern data teams. ([GitHub (⭐2.3k)](https://github.com/deepnote/deepnote)) `Apache-2.0` `©` `SaaS` `TypeScript`
+
+### Analytics dashboards
+
+*   [Geckoboard](https://www.geckoboard.com/) - dashboard for key metrics in one place. `©` `SaaS`
+*   [Grafana](https://grafana.com/) -  open source dashboard for displaying metrics.([Grafana dashboard inspiration](https://logit.io/blog/post/the-top-21-grafana-dashboards-and-visualisations))
+
 ## [Nov 27, 2025](/content/2025/11/27/README.md)
 
 ### General analytics
@@ -43,12 +55,6 @@ A curated list of analytics frameworks, software and other tools.
 
 *   [Count](https://count.co/) - notebook-based analytics platform, use SQL or drag-and-drop to build queries. `©` `SaaS`
 
-## [Jan 28, 2021](/content/2021/01/28/README.md)
-
-### General analytics
-
-*   [userTrack](https://www.usertrack.net/) - Self-hosted web analytics with heatmaps, session-recordings, A/B tests and more. `©` `Self-Hosted` `PHP`
-
 ## [Jan 27, 2021](/content/2021/01/27/README.md)
 
 ### General analytics
@@ -61,9 +67,9 @@ A curated list of analytics frameworks, software and other tools.
 
 ### Developer analytics
 
-*   [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams `©` `SaaS`
 *   [Screenful](https://screenful.com/) - Visualise and share your project progress `©` `SaaS`
 *   [Haystack](https://usehaystack.io) - Metrics and insights for engineering teams `©` `SaaS`
+*   [Pull Panda](https://pullpanda.com/analytics) - Metrics and insights for engineering teams `©` `SaaS`
 *   [Plandek](https://plandek.com) - Metrics and insights for software delivery `©` `SaaS`
 *   [Moiva.io](https://moiva.io/) - A dashboard with charts and graphs to evaluate and compare any npm package. `©` `SaaS`
 
@@ -170,21 +176,15 @@ A curated list of analytics frameworks, software and other tools.
 *   [Brandwatch](http://www.brandwatch.com/) - Social media monitoring and analytics. `©` `SaaS`
 *   [Falconsocial](http://www.falconsocial.com/) - communications platform built on social media with analytics. `©` `SaaS`
 *   [Quintly](https://www.quintly.com/) - web-based tool to help you track, benchmark and optimize your social media performance. `©` `SaaS`
-*   [Kred](http://kred.com/) - Klout-like social media analytics platform. `©` `SaaS`
 *   [Buffer](https://bufferapp.com/) - Social media publishing and analytics platform. `©` `SaaS`
 *   [Topsy](http://topsy.com/) - Social analytics tool with search. `©` `SaaS`
 *   [SocialBlade](http://socialblade.com/) - premiere YouTube statistics tracking. `©` `SaaS`
 *   [Hootsuite](https://hootsuite.com/) - Social media management dashbaord. `©` `SaaS`
 *   [Sproutsocial](http://sproutsocial.com/) - Social media management and analytics platform. `©` `SaaS`
 
-### Developer analytics
-
-*   [GitSpo](https://gitspo.com/) - Analytics for Open-Source. `©` `SaaS`
-
 ### Analytics dashboards
 
 *   [Freeboard (⭐6.5k)](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups. `©` `SaaS`
-*   [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place. `©` `SaaS`
 *   [Klipfolio](https://www.klipfolio.com/) - Klipfolio is an online dashboard platform for building powerful real-time business dashboards for your team or your clients. `©` `SaaS`
 *   [Vizia](https://www.brandwatch.com/products/vizia/) - Visual command center dashboarding solution `©` `SaaS`
 
@@ -198,7 +198,7 @@ A curated list of analytics frameworks, software and other tools.
 
 ### Analytics dashboards
 
-*   [Chartbrew](https://chartbrew.com) - Chartbrew allows you to query your databases and APIs to create live charts and visualize your data. You can share your charts with anyone or embed them on your own sites, blogs, Notion, etc. ([Demo](https://app.chartbrew.com/live-demo), [Source Code (⭐3.5k)](https://github.com/chartbrew/chartbrew)) `MIT` `NodeJS`
+*   [Chartbrew](https://chartbrew.com) - Chartbrew allows you to query your databases and APIs to create live charts and visualize your data. Featuring automatic chart updates, sharing, embedding, printing, exporting, and team support with granular permissions. ([Demo](https://app.chartbrew.com/live-demo), [Source Code (⭐3.5k)](https://github.com/chartbrew/chartbrew)) `MIT` `NodeJS` `SaaS` `Self-Hosted`
 
 ## [Nov 16, 2020](/content/2020/11/16/README.md)
 
@@ -242,7 +242,7 @@ A curated list of analytics frameworks, software and other tools.
 
 ### Privacy focused analytics
 
-*   [Plausible Analytics](https://plausible.io/) - Lightweight and [open source (⭐24k)](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Source Code (⭐24k)](https://github.com/plausible/analytics/)) `MIT` `Elixir`
+*   [Plausible Analytics](https://plausible.io/) - Lightweight and [open source (⭐24k)](https://github.com/plausible-insights/plausible) web analytics. Doesn’t use cookies and doesn't track personal data. A privacy-friendly alternative to Google Analytics. ([Source Code (⭐24k)](https://github.com/plausible/analytics/)) `AGPL-3.0` `Elixir`
 *   [GoatCounter](https://www.goatcounter.com) - Easy web statistics without tracking of personal data; `SaaS` `Self-Hosted` ([Source Code (⭐5.3k)](https://github.com/zgoat/goatcounter)) `EUPL-1.2` `Go`
 *   [Shynet (⭐3.1k)](https://github.com/milesmcc/shynet) - Modern, privacy-friendly, and detailed web analytics that works without cookies or JS. Designed for self-hosting. `Apache-2.0` `Python`
 *   [Umami](https://umami.is/) - Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions. ([Demo](https://app.umami.is/share/ISgW2qz8/flightphp.com), [Source Code (⭐34k)](https://github.com/mikecao/umami)) `MIT` `Nodejs`

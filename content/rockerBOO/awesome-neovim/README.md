@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 08, 2025](/content/2025/12/08/README.md)
+
+### Command Line / Indent
+
+*   [nvim-mini/mini.nvim#mini.cmdline (⭐8.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md) - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
+
 ## [Dec 07, 2025](/content/2025/12/07/README.md)
 
 ### Language / Assembly

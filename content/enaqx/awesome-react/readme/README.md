@@ -72,7 +72,7 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Component Libraries
 
-*   [shadcn-ui (⭐100k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
+*   [shadcn-ui (⭐101k)](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
 *   [ant-design (⭐97k)](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 *   [material-ui (⭐97k)](https://github.com/mui/material-ui) - Ready-to-use foundational React components
 *   [chakra-ui (⭐40k)](https://github.com/chakra-ui/chakra-ui) - Component system for building SaaS products with speed
@@ -155,6 +155,7 @@ A collection of awesome things regarding the React ecosystem.
 *   [tagify (⭐3.9k)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 *   [puck (⭐10k)](https://github.com/measuredco/puck) - The visual editor for React
 *   [json-edit-react (⭐587)](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
+*   [markdown-to-jsx](https://www.npmjs.com/package/markdown-to-jsx) - A fast, versatile, and 100% CommonMark + GFM compliant markdown toolchain for React and other renderers.
 
 #### React Components Sandboxes
 
@@ -201,7 +202,7 @@ A collection of awesome things regarding the React ecosystem.
 
 *   [formatjs (⭐15k)](https://github.com/formatjs/formatjs) - Internationalize your web apps
 *   [react-i18next (⭐9.8k)](https://github.com/i18next/react-i18next) - Internationalization for React done right
-*   [react-inltayer (⭐404)](https://github.com/aymericzip/intlayer) - Internationalization focused on maintenability for React
+*   [react-inltayer (⭐441)](https://github.com/aymericzip/intlayer) - Internationalization focused on maintenability for React
 
 #### React Graphics and Animations
 

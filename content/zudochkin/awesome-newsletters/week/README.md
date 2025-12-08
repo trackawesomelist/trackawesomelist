@@ -2,9 +2,23 @@
 
 A list of amazing Newsletters
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4.2K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/zudochkin/awesome-newsletters/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 zudochkin/awesome-newsletters](https://github.com/zudochkin/awesome-newsletters) · ⭐ 4.3K · 🏷️ Entertainment
 
 [ [Daily](/content/zudochkin/awesome-newsletters/README.md) / Weekly / [Overview](/content/zudochkin/awesome-newsletters/readme/README.md) ]
+
+## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
+
+### JavaScript / VueJS
+
+*   [Weekly Vue News](https://weekly-vue.news). A weekly newsletter for Vue & Nuxt developers.
+
+### Devops / Svelte
+
+*   [Learn Kubernetes weekly](https://learnkube.com/learn-kubernetes-weekly). Curated articles, tutorials, projects and events with a focus on Kubernetes.
+
+### Technology in General / Svelte
+
+*   [mainbranch](https://mainbranch.beehiiv.com/). A short, no-hype newsletter on software engineering fundamentals, practical features for better code, and platform updates that help ship faster.
 
 ## [Nov 03 - Nov 09, 2025](/content/2025/44/README.md)
 
@@ -300,10 +314,6 @@ A list of amazing Newsletters
 ### Java / Svelte
 
 *   [Baeldung Weekly Review](https://www.baeldung.com/java-web-weekly). Keep up-to-date with the main developments in the Java world through this weekly guide.
-
-### Devops / Svelte
-
-*   [Learn Kubernetes weekly](https://learnk8s.io/learn-kubernetes-weekly). Curated articles, tutorials, projects and events with a focus on Kubernetes.
 
 ## [Nov 14 - Nov 20, 2022](/content/2022/46/README.md)
 
@@ -862,7 +872,7 @@ A list of amazing Newsletters
 
 ### R / Svelte
 
-*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐788)](https://github.com/rweekly/rweekly.org).
+*   [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub (⭐791)](https://github.com/rweekly/rweekly.org).
 
 ### Ruby / Svelte
 

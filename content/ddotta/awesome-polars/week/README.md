@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ [Daily](/content/ddotta/awesome-polars/README.md) / Weekly / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
+
+### Tools Built with Polars / Miscellaneous
+
+*   [octopolars (⭐1)](https://github.com/lmmx/octopolars) - Pull, filter, and walk a GitHub user's repositories with Polars by [@lmmx](https://github.com/lmmx).
+
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
 ### Polars plugins / Miscellaneous
@@ -201,9 +207,9 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *   [iban\_validation (⭐0)](https://github.com/ericqu/iban_validation) A set of projects to facilitate validation of ibans and getting the bank identifier and branch identifier in Rust, Python and Polars by [@ericqu](https://github.com/ericqu).
 
-### Tools build with Polars / Miscellaneous
+### Tools Built with Polars / Miscellaneous
 
-*   [polars-mas (⭐0)](https://github.com/idinsmore1/polars-mas) - A CLI tool and python library meant to perform large scale multiple association tests, primarily seen in academic research by [@idinsmore1](https://github.com/idinsmore1).
+*   [polars-mas (⭐0)](https://github.com/idinsmore1/polars-mas) - A CLI tool and Python library meant to perform large scale multiple association tests, primarily seen in academic research by [@idinsmore1](https://github.com/idinsmore1).
 
 ### Blog posts / Miscellaneous
 
@@ -229,7 +235,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 *   [polars-talib (⭐217)](https://github.com/Yvictor/polars_ta_extension) - Polars extension for Ta-Lib - support Ta-Lib functions in Polars expressions by [@Yvictor](https://github.com/Yvictor).
 
-### Tools build with Polars / Miscellaneous
+### Tools Built with Polars / Miscellaneous
 
 *   [polars-explorer (⭐35)](https://github.com/brutusyhy/polars-explorer) - A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by [@brutusyhy](https://github.com/brutusyhy).
 

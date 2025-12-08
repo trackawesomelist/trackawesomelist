@@ -12,6 +12,10 @@ A curated list of Rust code and resources.
 
 *   [envio (⭐908)](https://github.com/humblepenguinn/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/humblepenguinn/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/humblepenguinn/envio/actions/workflows/CICD.yml)
 
+### Libraries / Data streaming
+
+*   [wingfoil (⭐83)](https://github.com/wingfoil-io/wingfoil) - Graph based stream processing framework [![CI](https://github.com/wingfoil-io/wingfoil/actions/workflows/rust.yml/badge.svg)](https://github.com/wingfoil-io/wingfoil/actions/workflows/rust.yml)
+
 ### Libraries / Data structures
 
 *   [enum-map](https://codeberg.org/sugar700/enum-map) \[[enum-map](https://crates.io/crates/enum-map)] - An optimized map implementation for enums using an array to store values.

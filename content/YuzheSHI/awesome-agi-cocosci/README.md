@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ Daily / [Weekly](/content/YuzheSHI/awesome-agi-cocosci/week/README.md) / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 08, 2025](/content/2025/12/08/README.md)
+
+### System 1 & System 2 / Neural-Symbolic AI
+
+*   [How large language models need symbolism](https://academic.oup.com/nsr/article/12/10/nwaf339/8237444) - ***National Science Review***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=9866048591424428891)]. Advances in artificial intelligence (AI), particularly large language models (LLMs), have achieved remarkable success. This progress stems from ‘scaling laws’---performance improves with greater computation, data and model size. However, this paradigm has a crucial vulnerability: scaling laws are effective only when data are abundant. A foundational process for this is the human ability of ‘quotienting’: creating a compact symbolic space from a vast problem space, in a process akin to forming a mathematical quotient space via equivalence classes. The new strategy uses symbols as vessels for compressed human wisdom, creating maps that guide the powerful statistical intuition of LLMs, which is especially critical for tackling complex problems where usable data are, by nature, sparse. The next frontier for AI will not be conquered by scaling alone. The art of symbolization itself—the crafting of powerful abstractions—is therefore the central task ahead. If scaling laws have given models their powerful intuition, it is the art of the symbol that will provide the compass for genuine discovery.
+
 ## [Dec 05, 2025](/content/2025/12/05/README.md)
 
 ### Domain Specific Language / Logic DSL Applications

@@ -6,6 +6,12 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 [ Daily / [Weekly](/content/ddotta/awesome-polars/week/README.md) / [Overview](/content/ddotta/awesome-polars/readme/README.md) ]
 
+## [Dec 08, 2025](/content/2025/12/08/README.md)
+
+### Tools Built with Polars / Miscellaneous
+
+*   [octopolars (⭐1)](https://github.com/lmmx/octopolars) - Pull, filter, and walk a GitHub user's repositories with Polars by [@lmmx](https://github.com/lmmx).
+
 ## [Dec 05, 2025](/content/2025/12/05/README.md)
 
 ### Polars plugins / Miscellaneous
@@ -196,9 +202,9 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Mar 21, 2025](/content/2025/03/21/README.md)
 
-### Tools build with Polars / Miscellaneous
+### Tools Built with Polars / Miscellaneous
 
-*   [polars-mas (⭐0)](https://github.com/idinsmore1/polars-mas) - A CLI tool and python library meant to perform large scale multiple association tests, primarily seen in academic research by [@idinsmore1](https://github.com/idinsmore1).
+*   [polars-mas (⭐0)](https://github.com/idinsmore1/polars-mas) - A CLI tool and Python library meant to perform large scale multiple association tests, primarily seen in academic research by [@idinsmore1](https://github.com/idinsmore1).
 
 ## [Mar 20, 2025](/content/2025/03/20/README.md)
 
@@ -242,7 +248,7 @@ A curated list of Polars talks, tools, examples & articles. Contributions welcom
 
 ## [Feb 27, 2025](/content/2025/02/27/README.md)
 
-### Tools build with Polars / Miscellaneous
+### Tools Built with Polars / Miscellaneous
 
 *   [polars-explorer (⭐35)](https://github.com/brutusyhy/polars-explorer) - A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by [@brutusyhy](https://github.com/brutusyhy).
 
