@@ -6,9 +6,55 @@
 
 [ Daily / [Weekly](/content/serhii-londar/open-source-mac-os-apps/week/README.md) / [Overview](/content/serhii-londar/open-source-mac-os-apps/readme/README.md) ]
 
+## [Dec 08, 2025](/content/2025/12/08/README.md)
+
+### 🛠️ Utilities (83) / ✏️ Text (11)
+
+*   [Bye-AppQuit (⭐36)](https://github.com/designsbymuzeer/Bye-Mac-App) - A minimal native macOS app to quickly view and Bulk kill running processes.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Links:** <a href='https://github.com/designsbymuzeer/Bye-Mac-App/releases/latest'><img src='https://img.shields.io/github/v/release/designsbymuzeer/Bye-Mac-App?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/designsbymuzeer/Bye-Mac-App'><img src='https://img.shields.io/github/stars/designsbymuzeer/Bye-Mac-App?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/designsbymuzeer/Bye-Mac-App' alt='License'/>
+
+    **Website:** [https://github.com/designsbymuzeer/Bye-Mac-App (⭐36)](https://github.com/designsbymuzeer/Bye-Mac-App)
+
+    **Screenshots:**
+
+    <img src='https://github.com/user-attachments/assets/63dade24-d967-4946-89e5-f8ae44097b31' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
+### 🪟 Window Management (12) / ✏️ Text (11)
+
+*   [Ice (⭐24k)](https://github.com/jordanbaird/Ice) - Ice is a versatile menu bar manager that goes beyond hiding and showing items to offer a rich set of productivity features.
+
+    <details>
+    <summary>More</summary>
+    <p>
+
+    **Languages:** <img src='./icons/swift-16.png' alt='Swift icon' title='Swift' height='16'/>
+
+    **Links:** <a href='https://github.com/jordanbaird/Ice/releases/latest'><img src='https://img.shields.io/github/v/release/jordanbaird/Ice?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/jordanbaird/Ice'><img src='https://img.shields.io/github/stars/jordanbaird/Ice?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/jordanbaird/Ice' alt='License'/>
+
+    **Website:** <https://icemenubar.app/>
+
+    **Screenshots:**
+
+    <img src='https://icemenubar.app/gallery/ice-bar.png' width='400' loading='lazy'/>
+
+    <img src='https://icemenubar.app/gallery/menu-bar-item-search.png' width='400' loading='lazy'/>
+
+    </p>
+    </details>
+
 ## [Dec 07, 2025](/content/2025/12/07/README.md)
 
-### 🛠️ Utilities (81) / ✏️ Text (11)
+### 🛠️ Utilities (83) / ✏️ Text (11)
 
 *   [MiddleDrag (⭐4)](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) - Three-finger trackpad gestures for middle-click and middle-drag.
 
@@ -1025,7 +1071,7 @@
     </p>
     </details>
 
-### 🛠️ Utilities (81) / ✏️ Text (11)
+### 🛠️ Utilities (83) / ✏️ Text (11)
 
 *   [MonitorControl (⭐32k)](https://github.com/MonitorControl/MonitorControl) - Control your external monitor brightness, contrast or volume directly from a menulet or with keyboard native keys.
 
@@ -1895,7 +1941,7 @@
 
     **Links:** <a href='https://github.com/sarensw/MacPacker/releases/latest'><img src='https://img.shields.io/github/v/release/sarensw/MacPacker?display_name=tag&sort=semver' alt='Latest Release'/></a>   <a href='https://github.com/sarensw/MacPacker/'><img src='https://img.shields.io/github/stars/sarensw/MacPacker?style=social' alt='GitHub stars'/></a>   <img src='https://img.shields.io/github/license/sarensw/MacPacker' alt='License'/>
 
-    **Website:** <https://macpacker.app/ >
+    **Website:** <https://macpacker.app/>
 
     **Screenshots:**
 
@@ -2485,7 +2531,7 @@
     </p>
     </details>
 
-### ⏱️ Productivity (55) / ✏️ Text (11)
+### ⏱️ Productivity (57) / ✏️ Text (11)
 
 *   [Pennywise (⭐3.8k)](https://github.com/kamranahmedse/pennywise) - Pennywise opens any website or media in a small floating window that remains on top of all other applications. It's a great alternative to Helium.
 
@@ -7627,7 +7673,7 @@
     </p>
     </details>
 
-### 📊 Menubar (39) / ✏️ Text (11)
+### 📊 Menubar (40) / ✏️ Text (11)
 
 *   [Airpass (⭐593)](https://github.com/alvesjtiago/airpass) - Status bar Mac application to overcome time constrained WiFi networks.
 
@@ -9436,7 +9482,7 @@
     </p>
     </details>
 
-### 🪟 Window Management (11) / ✏️ Text (11)
+### 🪟 Window Management (12) / ✏️ Text (11)
 
 *   [AltTab (⭐14k)](https://github.com/lwouis/alt-tab-macos) - AltTab brings the power of Windows alt-tab to macOS.
 

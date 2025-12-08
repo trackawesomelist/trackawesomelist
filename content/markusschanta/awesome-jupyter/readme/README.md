@@ -8,7 +8,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ---
 
-# Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarkusschanta%2Fawesome-jupyter\&count_bg=%2379C83D\&title_bg=%23555555\&icon=\&icon_color=%23E7E7E7\&title=hits\&edge_flat=false)](https://hits.seeyoufarm.com)
+# Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![HitCount](https://hits.dwyl.com/markusschanta/awesome-jupyter.svg?style=flat)](http://hits.dwyl.com/markusschanta/awesome-jupyter)
 
 A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and resources. Jupyter is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
 
@@ -55,6 +55,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   [Articles/Guides/Tutorials](#articlesguidestutorials)
 *   [Contributing](#contributing)
 
+<!--lint disable no-repeat-item-in-description-->
+
 ***
 
 ## Runtimes/Frontends
@@ -68,7 +70,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   [JupyterLab (⭐15k)](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
 *   [JupyterLab Desktop (⭐4.2k)](https://github.com/jupyterlab/jupyterlab-desktop) - A desktop application for JupyterLab, based on Electron.
 *   [JupyterWith (⭐727)](https://github.com/tweag/jupyterWith) - Nix-based framework for the definition of declarative and reproducible Jupyter environments.
-*   [kaggle/docker-python (⭐2.7k)](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
+*   [kaggle/docker-python (⭐2.7k)](https://github.com/kaggle/docker-python) - Kaggle Python Docker image that includes datasets and packages.
 *   [ML Workspace (⭐3.5k)](https://github.com/ml-tooling/ml-workspace) - Docker image that includes Jupyter(Lab) and various packages for data science/machine learning.
 *   [nteract (⭐6.3k)](https://github.com/nteract/nteract) - Native desktop notebook frontend. <!--lint disable double-link-->
 *   [Panel (⭐5.5k)](https://github.com/holoviz/panel) - Notebooks as static files or interactive and standalone server-/client-side (via pyodide) apps.
@@ -82,13 +84,13 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   [callgraph (⭐79)](https://github.com/osteele/callgraph) - Magic to display a function call graph.
 *   [IllumiDesk (⭐44)](https://github.com/IllumiDesk/illumidesk) - Docker-based JupyterHub + LTI + nbgrader distribution for education.
 *   [IPythonBlocks (⭐160)](https://github.com/jiffyclub/ipythonblocks) - Practice Python with colored grids in Jupyter.
-*   [jupyter-drive (⭐419)](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
+*   [jupyter-drive (⭐419)](https://github.com/jupyter/jupyter-drive) - Google Drive for Jupyter.
 *   [jupyter-edx-grader-xblock (⭐46)](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook and write the score in the Open edX gradebook.
 *   [jupyter-viewer-xblock (⭐30)](https://github.com/ibleducation/jupyter-viewer-xblock) - Fetch and display part of, or an entire Jupyter Notebook in an Open edX XBlock.
 *   [jupyterquiz (⭐160)](https://github.com/jmshea/jupyterquiz) - An interactive quiz generator for Jupyter notebooks and Jupyter Book.
 *   [LTI Launch JupyterHub Authenticator (⭐72)](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
 *   [nbautoeval (⭐20)](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
-*   [nbgitpuller (⭐226)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
+*   [nbgitpuller (⭐226)](https://github.com/jupyterhub/nbgitpuller) - Sync a Git repository one-way to a local path.
 *   [nbgrader (⭐1.4k)](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks.
 *   [nbtutor (⭐470)](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line).
 
@@ -116,7 +118,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   [jupyter-manim (⭐198)](https://github.com/krassowski/jupyter-manim) - Display [manim (⭐82k)](https://github.com/3b1b/manim) (Mathematical Animation Engine) videos or GIFs in Jupyter notebooks.
 *   [lux (⭐5.4k)](https://github.com/lux-org/lux) - Recommends a set of visualizations whenever a dataframe is printed in a notebook.
 *   [mpld3](http://mpld3.github.io) - Combining Matplotlib and D3js for interactive data visualizations.
-*   [pd-replicator (⭐12)](https://github.com/scwilkinson/pd-replicator) - Copy a pandas DataFrame to the clipboard with one click.
+*   [pd-replicator (⭐12)](https://github.com/scwilkinson/pd-replicator) - Copy a Pandas DataFrame to the clipboard with one click.
 *   [Perspective (⭐9.9k)](https://github.com/finos/perspective) - Data visualization and analytics component, especially for large/streaming datasets.
 *   [pyecharts (⭐16k)](https://github.com/pyecharts/pyecharts) - Python interface for the [ECharts (⭐65k)](https://github.com/apache/incubator-echarts) visualization library.
 *   [pythreejs (⭐983)](https://github.com/jovyan/pythreejs) - Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
@@ -165,8 +167,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Version Control
 
 *   [databooks (⭐113)](https://github.com/datarootsio/databooks) - A command-line utility that eases versioning and sharing of notebooks.
-*   [git (⭐1.5k)](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
 *   [jupyter-nbrequirements (⭐21)](https://github.com/thoth-station/jupyter-nbrequirements/) - Dependency management and optimization in Jupyter Notebooks.
+*   [jupyterlab-git (⭐1.5k)](https://github.com/jupyterlab/jupyterlab-git) - Extension for Git integration.
 *   [nbdime (⭐2.8k)](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 *   [nbQA (⭐1.2k)](https://github.com/nbQA-dev/nbQA) - Run any standard Python code quality tool on a Jupyter Notebook, from the command-line or via pre-commit.
 *   [Neptune](https://docs.neptune.ai/integrations-and-supported-tools/ide-and-notebooks/jupyter-lab-and-jupyter-notebook) - Version, manage and share notebook checkpoints in your projects.
@@ -247,6 +249,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   [CoCalc](https://cocalc.com) - Notebooks with 17 supported kernel types, course management, LaTeX document authoring, simultaneous document editing and integration with the SageMath computer algebra system.
 *   [DataBlogs](https://www.datablogs.co/) - DataBlogs is an open-source data journalism platform that converts Jupyter notebooks into published articles on the web.
 *   [DataCamp Workspace](https://www.datacamp.com/workspace) - Jupyter-backed data science notebooks with built-in collaboration and publishing functionality.
+*   [Datalore](https://www.jetbrains.com/datalore) - Jupyter-compatible data science and analytics notebook solution for team collaboration by JetBrains.
 *   [Deepnote](https://www.deepnote.com) - Jupyter-compatible data science notebook with real-time collaboration, versioning and easy deployment.
 *   [Domino Data Lab](https://www.dominodatalab.com) - Data science platform with integrated collaboration tools, environment management and compute grid.
 *   [Google Cloud AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks) - Managed JupyterLab notebook instances configured with GPU-enabled machine learning frameworks on Google Cloud Platform.
@@ -273,8 +276,8 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 ## Community Resources
 
 *   Conference Talks - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
-*   GitHub - Search: [jupyter](https://github.com/search?type=Repositories\&q=jupyter)
-*   GitHub - Topics: [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
+*   GitHub - Search: [Jupyter](https://github.com/search?type=Repositories\&q=jupyter)
+*   GitHub - Topics: [Jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 *   Gitter - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 *   [jupyter-map](https://elc.github.io/jupyter-map/) - Map of university institutions that use Jupyter.
 *   [kandi Kits Topic](https://kandi.openweaver.com/explore/jupyter) - Discover popular Jupyter libraries, top authors, trending project kits, discussions, tutorials & learning resources.  <!--lint disable double-link-->
@@ -282,7 +285,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 *   PyPI - [`Framework :: Jupyter`](https://pypi.org/search/?\&c=Framework+%3A%3A+Jupyter)
     is the PyPI trove classifier for Jupyter projects.
 *   Reddit - Subreddits: [r/IPython](https://www.reddit.com/r/IPython/), [r/Jupyter/](https://www.reddit.com/r/Jupyter/)
-*   Stack Overflow - Tags: [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
+*   Stack Overflow - Tags: [Jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
 
 ## Articles/Guides/Tutorials
 

@@ -6,6 +6,22 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 [ Daily / [Weekly](/content/markusschanta/awesome-jupyter/week/README.md) / [Overview](/content/markusschanta/awesome-jupyter/readme/README.md) ]
 
+## [Dec 08, 2025](/content/2025/12/08/README.md)
+
+### Version Control
+
+*   [jupyterlab-git (⭐1.5k)](https://github.com/jupyterlab/jupyterlab-git) - Extension for Git integration.
+
+### Hosted Notebook Solutions
+
+*   [Datalore](https://www.jetbrains.com/datalore) - Jupyter-compatible data science and analytics notebook solution for team collaboration by JetBrains.
+
+### Community Resources
+
+*   GitHub - Search: [Jupyter](https://github.com/search?type=Repositories\&q=jupyter)
+*   GitHub - Topics: [Jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
+*   Stack Overflow - Tags: [Jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
+
 ## [Dec 07, 2025](/content/2025/12/07/README.md)
 
 ### Testing
@@ -217,7 +233,6 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Community Resources
 
-*   GitHub - Topics: [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 *   Gitter - [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 *   Mailing Lists - [Jupyter General Mailing List](https://groups.google.com/forum/#!forum/jupyter), [Jupyter in Education Mailing List](https://groups.google.com/forum/#!forum/jupyter-education) <!--lint enable double-link-->
 
@@ -336,7 +351,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Collaboration/Education
 
-*   [nbgitpuller (⭐226)](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
+*   [nbgitpuller (⭐226)](https://github.com/jupyterhub/nbgitpuller) - Sync a Git repository one-way to a local path.
 
 ## [Jan 06, 2021](/content/2021/01/06/README.md)
 
@@ -421,7 +436,7 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Visualization
 
-*   [pd-replicator (⭐12)](https://github.com/scwilkinson/pd-replicator) - Copy a pandas DataFrame to the clipboard with one click.
+*   [pd-replicator (⭐12)](https://github.com/scwilkinson/pd-replicator) - Copy a Pandas DataFrame to the clipboard with one click.
 
 ## [Apr 08, 2020](/content/2020/04/08/README.md)
 
@@ -450,7 +465,6 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Version Control
 
-*   [git (⭐1.5k)](https://github.com/jupyterlab/jupyterlab-git) - Extension for git integration.
 *   [nbdime (⭐2.8k)](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks.
 *   [ReviewNB](https://www.reviewnb.com/) - Code reviews for Jupyter Notebooks.
 
@@ -572,7 +586,6 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 ### Community Resources
 
-*   GitHub - Search: [jupyter](https://github.com/search?type=Repositories\&q=jupyter)
 *   PyPI - [`Framework :: Jupyter`](https://pypi.org/search/?\&c=Framework+%3A%3A+Jupyter)
     is the PyPI trove classifier for Jupyter projects.
 
@@ -617,10 +630,6 @@ A curated list of awesome Jupyter projects, libraries and resources
 
 *   [rst2ipynb (⭐18)](https://github.com/nthiery/rst-to-ipynb) - Convert standalone reStructuredText files to Jupyter notebook file.
 
-### Community Resources
-
-*   Stack Overflow - Tags: [jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
-
 ## [Aug 08, 2018](/content/2018/08/08/README.md)
 
 ### Runtimes/Frontends
@@ -630,14 +639,14 @@ A curated list of awesome Jupyter projects, libraries and resources
 *   [Jupyter Notebook (⭐13k)](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
 *   [JupyterHub (⭐8.2k)](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter.
 *   [JupyterLab (⭐15k)](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
-*   [kaggle/docker-python (⭐2.7k)](https://github.com/kaggle/docker-python) - Kaggle Python docker image that includes datasets and packages.
+*   [kaggle/docker-python (⭐2.7k)](https://github.com/kaggle/docker-python) - Kaggle Python Docker image that includes datasets and packages.
 *   [nteract (⭐6.3k)](https://github.com/nteract/nteract) - Native desktop notebook frontend. <!--lint disable double-link-->
 *   [Stencila (⭐852)](https://github.com/stencila/stencila) - Native desktop notebook frontend.
 
 ### Collaboration/Education
 
 *   [callgraph (⭐79)](https://github.com/osteele/callgraph) - Magic to display a function call graph.
-*   [jupyter-drive (⭐419)](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
+*   [jupyter-drive (⭐419)](https://github.com/jupyter/jupyter-drive) - Google Drive for Jupyter.
 *   [LTI Launch JupyterHub Authenticator (⭐72)](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
 *   [nbautoeval (⭐20)](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
 *   [nbgrader (⭐1.4k)](https://github.com/jupyter/nbgrader) - Assigning and grading of Jupyter notebooks.
