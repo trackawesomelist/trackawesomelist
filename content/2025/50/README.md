@@ -1,30 +1,46 @@
 # Awesome List Updates on Dec 15 - Dec 21, 2025
 
-14 awesome lists updated this week.
+16 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [1. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Miscellaneous
+
+*   [OpenReader WebUI](https://openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Demo](https://openreader.richardr.dev/), [Source Code (⭐240)](https://github.com/richardr1126/OpenReader-WebUI)) `MIT` `Docker`
+
+## [2. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [time-tracker (⭐1)](https://github.com/mike-fam/time-tracker-plugin) - Automatically tracks time spent on `git` branches across multiple repositories. Perfect for developers who want to understand their time allocation across different projects and branches.
+
+### Themes / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [adoz](https://github.com/unixorn/awesome-zsh-plugins/blob/main/README.md/daviosoo/adoz-zsh-theme) - A minimalistic theme with a focus on purple and blue color tones. Adoz provides a clean, modern prompt that displays essential information while maintaining a sleek aesthetic. Highly customizable by setting environment variables. Includes decorators for user\@hostname, current directory, timestamp and `git` status.
+
+## [3. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Machine Learning / Search and Analytic Databases
 
 *   [jbrukh/bayesian (⭐810)](https://github.com/jbrukh/bayesian) — Naive Bayesian Classification for Golang. ☆`811`
 
-## [2. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
+## [4. Awesome Polars](/content/ddotta/awesome-polars/week/README.md)
 
 ### Tools Built with Polars / Miscellaneous
 
 *   [octopolars (⭐1)](https://github.com/lmmx/octopolars) - Pull, filter, and walk a GitHub user's repositories with Polars by [@lmmx](https://github.com/lmmx).
 
-## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### System 1 & System 2 / Neural-Symbolic AI
 
 *   [How large language models need symbolism](https://academic.oup.com/nsr/article/12/10/nwaf339/8237444) - ***National Science Review***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=9866048591424428891)]. Advances in artificial intelligence (AI), particularly large language models (LLMs), have achieved remarkable success. This progress stems from ‘scaling laws’---performance improves with greater computation, data and model size. However, this paradigm has a crucial vulnerability: scaling laws are effective only when data are abundant. A foundational process for this is the human ability of ‘quotienting’: creating a compact symbolic space from a vast problem space, in a process akin to forming a mathematical quotient space via equivalence classes. The new strategy uses symbols as vessels for compressed human wisdom, creating maps that guide the powerful statistical intuition of LLMs, which is especially critical for tackling complex problems where usable data are, by nature, sparse. The next frontier for AI will not be conquered by scaling alone. The art of symbolization itself—the crafting of powerful abstractions—is therefore the central task ahead. If scaling laws have given models their powerful intuition, it is the art of the symbol that will provide the compass for genuine discovery.
 
-## [4. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
+## [6. Awesome Javascript](/content/sorrycc/awesome-javascript/week/README.md)
 
 ### Testing Frameworks / Assertion
 
@@ -34,7 +50,7 @@
 
 *   [G6 (⭐12k)](https://github.com/antvis/g6) - A graph visualization engine.
 
-## [5. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
+## [7. Awesome Analytics](/content/newTendermint/awesome-analytics/week/README.md)
 
 ### General analytics
 
@@ -46,13 +62,13 @@
 *   [Geckoboard](https://www.geckoboard.com/) - dashboard for key metrics in one place. `©` `SaaS`
 *   [Grafana](https://grafana.com/) -  open source dashboard for displaying metrics.([Grafana dashboard inspiration](https://logit.io/blog/post/the-top-21-grafana-dashboards-and-visualisations))
 
-## [6. Awesome React](/content/enaqx/awesome-react/week/README.md)
+## [8. Awesome React](/content/enaqx/awesome-react/week/README.md)
 
 ### React Awesome Components
 
 *   [markdown-to-jsx](https://www.npmjs.com/package/markdown-to-jsx) - A fast, versatile, and 100% CommonMark + GFM compliant markdown toolchain for React and other renderers.
 
-## [7. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
+## [9. Awesome Newsletters](/content/zudochkin/awesome-newsletters/week/README.md)
 
 ### JavaScript / VueJS
 
@@ -66,23 +82,28 @@
 
 *   [mainbranch](https://mainbranch.beehiiv.com/). A short, no-hype newsletter on software engineering fundamentals, practical features for better code, and platform updates that help ship faster.
 
-## [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Command Line / Indent
 
 *   [nvim-mini/mini.nvim#mini.cmdline (⭐8.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md) - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
 
-## [9. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
+## [11. Awesome Playwright](/content/mxschmitt/awesome-playwright/week/README.md)
 
 ### Integrations
 
 *   [Happo](https://docs.happo.io/docs/playwright) - Catch unexpected visual and accessibility changes and UI bugs.
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [12. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Development tools / Workflow Automation
 
 *   [envio (⭐908)](https://github.com/humblepenguinn/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/humblepenguinn/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/humblepenguinn/envio/actions/workflows/CICD.yml)
+
+### Development tools / Testing
+
+*   Assertions and Matchers
+    *   [googletest-json-serde](https://crates.io/crates/googletest-json-serde) [![Latest Version](https://img.shields.io/crates/v/googletest-json-serde.svg)](https://crates.io/crates/googletest-json-serde) - A collection of JSON matchers for googletest-rust, supporting paths, arrays, and objects. [![Build Status](https://github.com/chege/googletest-json-serde/actions/workflows/ci.yaml/badge.svg)](https://github.com/chege/googletest-json-serde/actions)
 
 ### Libraries / Data streaming
 
@@ -96,7 +117,7 @@
 
 *   [Rust Security Handbook (⭐171)](https://github.com/yevh/rust-security-handbook) - A 10-chapter handbook for writing actually secure Rust: type-safety, panic-proofing & more.
 
-## [11. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
+## [13. Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/week/README.md)
 
 ### 🛠️ Utilities (83) / ✏️ Text (11)
 
@@ -142,7 +163,7 @@
     </p>
     </details>
 
-## [12. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
+## [14. Awesome Jupyter](/content/markusschanta/awesome-jupyter/week/README.md)
 
 ### Version Control
 
@@ -158,13 +179,13 @@
 *   GitHub - Topics: [Jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
 *   Stack Overflow - Tags: [Jupyter](https://stackoverflow.com/questions/tagged/jupyter), [jupyter-notebook](https://stackoverflow.com/questions/tagged/jupyter-notebook)
 
-## [13. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [15. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Issue Tracking and Project Management
 
 *   [Helploom](https://helploom.com) - Customer support software that offers a live chat on the free forever plan. Simple, lightweight and beautiful. Setup is a simple copy-paste script. Built by a developer.
 
-## [14. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
+## [16. Free Programming Books (English, By Subjects)](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md)
 
 ### Machine Learning
 

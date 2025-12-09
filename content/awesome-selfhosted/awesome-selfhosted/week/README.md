@@ -6,6 +6,12 @@ A list of Free Software network services and web applications which can be hoste
 
 [ [Daily](/content/awesome-selfhosted/awesome-selfhosted/README.md) / Weekly / [Overview](/content/awesome-selfhosted/awesome-selfhosted/readme/README.md) ]
 
+## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
+
+### Software / Miscellaneous
+
+*   [OpenReader WebUI](https://openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Demo](https://openreader.richardr.dev/), [Source Code (⭐240)](https://github.com/richardr1126/OpenReader-WebUI)) `MIT` `Docker`
+
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
 ### Software / Automation
@@ -1726,7 +1732,7 @@ A list of Free Software network services and web applications which can be hoste
 
 ### External Links / Wikis
 
-*   Communities/forums: [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/c/selfhost on lemmy.ml](https://lemmy.ml/c/selfhost), [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [r-selfhosted forum](https://forum.r-selfhosted.com/), [/r/selfhosted Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [Homelab forum](https://homelabforum.com/), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
+*   Communities/forums: [/c/selfhosted on lemmy.world](https://lemmy.world/c/selfhosted), [/c/selfhost on lemmy.ml](https://lemmy.ml/c/selfhost), [/r/selfhosted on reddit](https://old.reddit.com/r/selfhosted/), [/r/selfhosted Matrix Channel](https://matrix.to/#/#selfhosted:selfhosted.chat), [/r/homelab on reddit](https://old.reddit.com/r/homelab/), [IndieWeb](https://indieweb.org/)
 
 ## [Jul 17 - Jul 23, 2023](/content/2023/29/README.md)
 

@@ -12,6 +12,11 @@ A curated list of Rust code and resources.
 
 *   [envio (⭐908)](https://github.com/humblepenguinn/envio) - A Modern And Secure CLI Tool For Managing Environment Variables [![build badge](https://github.com/humblepenguinn/envio/actions/workflows/CICD.yml/badge.svg?branch=main)](https://github.com/humblepenguinn/envio/actions/workflows/CICD.yml)
 
+### Development tools / Testing
+
+*   Assertions and Matchers
+    *   [googletest-json-serde](https://crates.io/crates/googletest-json-serde) [![Latest Version](https://img.shields.io/crates/v/googletest-json-serde.svg)](https://crates.io/crates/googletest-json-serde) - A collection of JSON matchers for googletest-rust, supporting paths, arrays, and objects. [![Build Status](https://github.com/chege/googletest-json-serde/actions/workflows/ci.yaml/badge.svg)](https://github.com/chege/googletest-json-serde/actions)
+
 ### Libraries / Data streaming
 
 *   [wingfoil (⭐83)](https://github.com/wingfoil-io/wingfoil) - Graph based stream processing framework [![CI](https://github.com/wingfoil-io/wingfoil/actions/workflows/rust.yml/badge.svg)](https://github.com/wingfoil-io/wingfoil/actions/workflows/rust.yml)

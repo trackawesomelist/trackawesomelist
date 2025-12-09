@@ -6,6 +6,13 @@ A curated list of Rust code and resources.
 
 [ Daily / [Weekly](/content/rust-unofficial/awesome-rust/week/README.md) / [Overview](/content/rust-unofficial/awesome-rust/readme/README.md) ]
 
+## [Dec 09, 2025](/content/2025/12/09/README.md)
+
+### Development tools / Testing
+
+*   Assertions and Matchers
+    *   [googletest-json-serde](https://crates.io/crates/googletest-json-serde) [![Latest Version](https://img.shields.io/crates/v/googletest-json-serde.svg)](https://crates.io/crates/googletest-json-serde) - A collection of JSON matchers for googletest-rust, supporting paths, arrays, and objects. [![Build Status](https://github.com/chege/googletest-json-serde/actions/workflows/ci.yaml/badge.svg)](https://github.com/chege/googletest-json-serde/actions)
+
 ## [Dec 08, 2025](/content/2025/12/08/README.md)
 
 ### Development tools / Workflow Automation
