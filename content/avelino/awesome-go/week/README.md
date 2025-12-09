@@ -6,6 +6,12 @@ A curated list of awesome Go frameworks, libraries and software
 
 [ [Daily](/content/avelino/awesome-go/README.md) / Weekly / [Overview](/content/avelino/awesome-go/readme/README.md) ]
 
+## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
+
+### Tutorials / Libraries for creating HTTP middlewares
+
+*   [50 Shades of Go](https://golang50shades.github.io/) - Traps, Gotchas, and Common Mistakes for New Golang Devs.
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Actor Model
@@ -214,7 +220,7 @@ A curated list of awesome Go frameworks, libraries and software
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
 *   [chaosmonkey (⭐16k)](https://github.com/Netflix/chaosmonkey) - A resiliency tool that helps applications tolerate random instance failures.
-*   [docker-volume-backup (⭐3.1k)](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
+*   [docker-volume-backup (⭐3.2k)](https://github.com/offen/docker-volume-backup) - Backup Docker volumes locally or to any S3, WebDAV, Azure Blob Storage, Dropbox or SSH compatible storage.
 *   [goma-gateway (⭐136)](https://github.com/jkaninda/goma-gateway) - A Lightweight API Gateway and Reverse Proxy with declarative config, robust middleware, and support for REST, GraphQL, TCP, UDP, and gRPC.
 *   [k0s (⭐5.6k)](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes distribution.
 *   [k9s (⭐32k)](https://github.com/derailed/k9s) - Kubernetes CLI to manage your clusters in style.
@@ -402,7 +408,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Logging
 
-*   [lazyjournal (⭐898)](https://github.com/Lifailon/lazyjournal) - A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods.
+*   [lazyjournal (⭐950)](https://github.com/Lifailon/lazyjournal) - A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods.
 
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
@@ -737,11 +743,11 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Utilities
 
-*   [sesh (⭐1.4k)](https://github.com/joshmedeski/sesh) - Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide.
+*   [sesh (⭐1.5k)](https://github.com/joshmedeski/sesh) - Sesh is a CLI that helps you create and manage tmux sessions quickly and easily using zoxide.
 
 ### Free e-books / Libraries for creating HTTP middlewares
 
-*   [Build a blockchain from scratch in Go with gRPC (⭐497)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
+*   [Build a blockchain from scratch in Go with gRPC (⭐501)](https://github.com/volodymyrprokopyuk/go-blockchain) - The foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC.
 
 ### Guided Learning / Libraries for creating HTTP middlewares
 
@@ -1615,7 +1621,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### DevOps Tools / Libraries for creating HTTP middlewares
 
-*   [decompose (⭐115)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
+*   [decompose (⭐118)](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
 
 ### Other Software / Libraries for creating HTTP middlewares
 
@@ -3382,7 +3388,7 @@ A curated list of awesome Go frameworks, libraries and software
 
 *   [argparse (⭐630)](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 *   [argv (⭐41)](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
-*   [carapace (⭐975)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
+*   [carapace (⭐995)](https://github.com/rsteube/carapace) - Command argument completion generator for spf13/cobra.
 *   [carapace-bin (⭐1.6k)](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
 *   [climax (⭐217)](https://github.com/tucnak/climax) - Alternative CLI with "human face", in spirit of Go command.
 *   [clîr (⭐196)](https://github.com/leaanthony/clir) - A Simple and Clear CLI library. Dependency free.
@@ -4545,7 +4551,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [go-feature-flag (⭐1.9k)](https://github.com/thomaspoignant/go-feature-flag) - A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
 *   [go-proxy-cache (⭐148)](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
 *   [lets-proxy2 (⭐100)](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
-*   [minio (⭐58k)](https://github.com/minio/minio) - Minio is a distributed object storage server.
+*   [minio (⭐59k)](https://github.com/minio/minio) - Minio is a distributed object storage server.
 *   [Moxy (⭐16)](https://github.com/sinhashubham95/moxy) - Moxy is a simple mocker and proxy application server, you can create mock endpoints as well as proxy requests in case no mock exists for the endpoint.
 *   [nginx-prometheus (⭐43)](https://github.com/blind-oracle/nginx-prometheus) - Nginx log parser and exporter to Prometheus.
 *   [nsq](https://nsq.io/) - A realtime distributed messaging platform.
@@ -5019,7 +5025,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [gocontracts (⭐114)](https://github.com/Parquery/gocontracts) - brings design-by-contract to Go by synchronizing the code with the documentation.
 *   [godal (⭐19)](https://github.com/mafulong/godal) - Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm.
 *   [gonerics (⭐113)](https://github.com/bouk/gonerics) - Idiomatic Generics in Go.
-*   [gotests (⭐5.2k)](https://github.com/cweill/gotests) - Generate Go tests from your source code.
+*   [gotests (⭐5.3k)](https://github.com/cweill/gotests) - Generate Go tests from your source code.
 *   [gounit (⭐87)](https://github.com/hexdigest/gounit) - Generate Go tests using your own templates.
 *   [hasgo (⭐144)](https://github.com/DylanMeeus/hasgo) - Generate Haskell inspired functions for your slices.
 *   [TOML-to-Go](https://xuri.me/toml-to-go) - Translates TOML into a Go type in the browser instantly.
@@ -5053,7 +5059,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [DepCharge (⭐23)](https://github.com/centerorbit/depcharge) - Helps orchestrating the execution of commands across the many dependencies in larger projects.
 *   [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
 *   [docker-go-mingw (⭐53)](https://github.com/x1unix/docker-go-mingw) - Docker image for building Go binaries for Windows with MinGW toolchain.
-*   [Dockerfile-Generator (⭐185)](https://github.com/ozankasikci/dockerfile-generator) - A go library and an executable that produces valid Dockerfiles using various input channels.
+*   [Dockerfile-Generator (⭐184)](https://github.com/ozankasikci/dockerfile-generator) - A go library and an executable that produces valid Dockerfiles using various input channels.
 *   [dogo (⭐273)](https://github.com/liudng/dogo) - Monitoring changes in the source file and automatically compile and run (restart).
 *   [drone-jenkins (⭐38)](https://github.com/appleboy/drone-jenkins) - Trigger downstream Jenkins jobs using a binary, docker or Drone CI.
 *   [drone-scp (⭐162)](https://github.com/appleboy/drone-scp) - Copy files and artifacts via SSH using a binary, docker or Drone CI.
@@ -5081,7 +5087,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [kool (⭐706)](https://github.com/kool-dev/kool) - Command line tool for managing Docker environments as an easy way.
 *   [kubernetes (⭐119k)](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
 *   [kwatch (⭐990)](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
-*   [lstags (⭐339)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
+*   [lstags (⭐341)](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 *   [lwc (⭐32)](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
 *   [manssh (⭐308)](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
 *   [Moby (⭐71k)](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.
@@ -5100,7 +5106,7 @@ A curated list of awesome Go frameworks, libraries and software
 *   [skm (⭐997)](https://github.com/TimothyYe/skm) - SKM is a simple and powerful SSH Keys Manager, it helps you to manage your multiple SSH keys easily!
 *   [StatusOK (⭐1.6k)](https://github.com/sanathp/statusok) - Monitor your Website and REST APIs.Get Notified through Slack, E-mail when your server is down or response time is more than expected.
 *   [terraform-provider-openapi (⭐279)](https://github.com/dikhan/terraform-provider-openapi) - Terraform provider plugin that dynamically configures itself at runtime based on an OpenAPI document (formerly known as swagger file) containing the definitions of the APIs exposed.
-*   [traefik (⭐58k)](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
+*   [traefik (⭐60k)](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
 *   [trubka (⭐337)](https://github.com/xitonix/trubka) - A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protocol buffer and plain text events to/from Kafka.
 *   [uTask (⭐1.3k)](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
 *   [Vegeta (⭐25k)](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
@@ -5351,7 +5357,6 @@ A curated list of awesome Go frameworks, libraries and software
 
 ### Tutorials / Libraries for creating HTTP middlewares
 
-*   [50 Shades of Go](https://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) - Traps, Gotchas, and Common Mistakes for New Golang Devs.
 *   [A Guide to Golang E-Commerce](https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo?utm_term=golang-ecommerce-ponzu-cms-demo) - Building a Golang site for e-commerce (demo included).
 *   [A Tour of Go](https://tour.golang.org/) - Interactive tour of Go.
 *   [Build web application with Golang (⭐44k)](https://github.com/astaxie/build-web-application-with-golang) - Golang ebook intro how to build a web app with golang.

@@ -6,7 +6,20 @@ A curated list of amazingly awesome open source resources related to broadcast t
 
 [ Daily / [Weekly](/content/ebu/awesome-broadcasting/week/README.md) / [Overview](/content/ebu/awesome-broadcasting/readme/README.md) ]
 
+## [Dec 09, 2025](/content/2025/12/09/README.md)
+
+### SCTE-35
+
+*   [threefive (⭐12)](https://github.com/superkabuki/threefive) - SCTE-35 Parser and Encoder for MPEGTS.
+*   [x9k3 (⭐6)](https://github.com/superkabuki/x9k3) - Adaptive Bit Rate HLS Segmenter and SCTE-35 Injector.
+
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
+
+### Animation, Graphics & Video Playout
+
+*   [Blender](https://projects.blender.org/blender/blender) - 3D creation suite supporting 3D modelling, animation, motion tracking, video editing, and more (overview [here](https://developer.blender.org/)).
+*   [Sofie - TV Automation (⭐405)](https://github.com/Sofie-Automation/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
+*   [StreamShapers - Ferryman (⭐17)](https://github.com/Streamshapers/StreamShapers-Ferryman) - Web App to generate HTML-Graphics from Lottie.JSON files / from Adobe AfterEffects.
 
 ### Clocks & Studio Screens
 
@@ -29,12 +42,6 @@ A curated list of amazingly awesome open source resources related to broadcast t
 
 *   [DVBlast](https://www.videolan.org/projects/dvblast.html) - A simple and powerful MPEG-2/TS demux and streaming application.
 *   [Opencaster (⭐72)](https://github.com/aventuri/opencaster) - A free and open source MPEG2 transport stream data generator and packet manipulator.
-
-### Animation, Graphics & Video Playout
-
-*   [Blender](https://projects.blender.org/blender/blender) - 3D creation suite supporting 3D modelling, animation, motion tracking, video editing, and more (overview [here](https://developer.blender.org/)).
-*   [Sofie - TV Automation (⭐405)](https://github.com/Sofie-Automation/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
-*   [StreamShapers - Ferryman (⭐17)](https://github.com/Streamshapers/StreamShapers-Ferryman) - Web App to generate HTML-Graphics from Lottie.JSON files / from Adobe AfterEffects.
 
 ### LiveIP
 
@@ -74,7 +81,7 @@ A curated list of amazingly awesome open source resources related to broadcast t
 *   [Codem-isoboxer (⭐118)](https://github.com/Dash-Industry-Forum/codem-isoboxer) A small browser-based MPEG-4 (ISOBMFF) parser.
 *   [FFmpeg](https://ffmpeg.org) - A cross-platform solution to record, convert and stream audio and video. Supports SMPTE ST 2110.
 *   [LibAV (⭐1.1k)](https://github.com/libav/libav) - Open source audio and video processing tools.
-*   [libbw64 (⭐37)](https://github.com/ebu/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
+*   [libbw64 (⭐37)](https://github.com/ebu/libbw64) – Header-only Broadcast Wave 64 (ITU-R BS.2088) C++11 library.
 *   [rgain3 (⭐57)](https://github.com/chaudum/rgain3) - Tools and Python3 library to read, write and calculate Replay Gain - fork of the original by Felix Krull.
 *   [SoX](https://sourceforge.net/projects/sox/) - The Swiss Army knife of sound processing programs.
 
@@ -115,7 +122,7 @@ A curated list of amazingly awesome open source resources related to broadcast t
 
 *   [Ultraschall](https://github.com/Ultraschall) - Suite of Plugins and UI tweaks to use with the DAW [Reaper](https://www.reaper.fm/) tailored towards Podcasters ([ultraschall.fm](https://ultraschall.fm/))
 
-### Rundown automation
+### Rundown Automation
 
 *   [OnTime (⭐774)](https://github.com/cpvalente/ontime) - Web based time keeping system for live events with a broadcast clock view.
 *   [SuperConductor (⭐305)](https://github.com/SuperFlyTV/SuperConductor) - Rundown/playout controller for CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices among others.
@@ -276,15 +283,15 @@ A curated list of amazingly awesome open source resources related to broadcast t
 
 ## [May 27, 2020](/content/2020/05/27/README.md)
 
+### Animation, Graphics & Video Playout
+
+*   [Macadam (⭐117)](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga (⭐5)](https://github.com/Streampunk/sevruga)) graphics.
+
 ### Codecs
 
 *   [Lame](https://lame.sourceforge.io/) - A high quality MPEG Audio Layer III (MP3) encoder.
 *   [Opus](https://www.opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec.
 *   [TwoLame](https://www.twolame.org/) - An MPEG Audio Layer 2 (MP2) encoder.
-
-### Animation, Graphics & Video Playout
-
-*   [Macadam (⭐117)](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga (⭐5)](https://github.com/Streampunk/sevruga)) graphics.
 
 ### Radio Production
 
@@ -534,6 +541,11 @@ A curated list of amazingly awesome open source resources related to broadcast t
 
 ## [Jun 16, 2017](/content/2017/06/16/README.md)
 
+### Animation, Graphics & Video Playout
+
+*   [Aurena (⭐132)](https://github.com/thaytan/aurena) - A network distributed media playback system.
+*   [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
+
 ### Codecs
 
 *   [FLAC](https://www.xiph.org/flac/) - Free Lossless Audio Coding, used by some broadcasters for audio exchange, storage.
@@ -547,11 +559,6 @@ A curated list of amazingly awesome open source resources related to broadcast t
 
 *   [DVB Inspector](https://sourceforge.net/projects/dvbinspector/) - An open-source DVB analyzer.
 *   [dvbshout (⭐10)](https://github.com/njh/dvbshout) - Tool to send DVB audio to a shoutcast server or a RTP stream.
-
-### Animation, Graphics & Video Playout
-
-*   [Aurena (⭐132)](https://github.com/thaytan/aurena) - A network distributed media playback system.
-*   [CasparCG](http://www.casparcg.com/) - A professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
 
 ### Hybrid Radio
 

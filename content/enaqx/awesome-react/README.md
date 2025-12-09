@@ -6,11 +6,15 @@ A collection of awesome things regarding React ecosystem
 
 [ Daily / [Weekly](/content/enaqx/awesome-react/week/README.md) / [Overview](/content/enaqx/awesome-react/readme/README.md) ]
 
-## [Dec 08, 2025](/content/2025/12/08/README.md)
+## [Dec 09, 2025](/content/2025/12/09/README.md)
 
-### React Awesome Components
+### React Component Libraries
 
-*   [markdown-to-jsx](https://www.npmjs.com/package/markdown-to-jsx) - A fast, versatile, and 100% CommonMark + GFM compliant markdown toolchain for React and other renderers.
+*   [ruixen-ui (⭐42)](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
+
+### React Renderers
+
+*   [markdown-to-jsx (⭐2.3k)](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain
 
 ## [Nov 30, 2025](/content/2025/11/30/README.md)
 

@@ -5,6 +5,7 @@
 
 - [Top Repos](top/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
+  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome List](/content/content/sindresorhus/awesome/README.md)
   - [Public Apis](/content/content/public-apis/public-apis/README.md)
@@ -13,7 +14,6 @@
   - [Awesome Python](/content/content/vinta/awesome-python/README.md)
   - [Awesome for Beginners](/content/content/MunGell/awesome-for-beginners/README.md)
   - [Awesome Rust](/content/content/rust-unofficial/awesome-rust/README.md)
-  - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Open Source Mac Os Apps](/content/content/serhii-londar/open-source-mac-os-apps/README.md)
   - [Awesome Javascript](/content/content/sorrycc/awesome-javascript/README.md)
   - [Awesome Algorithms](/content/content/tayllan/awesome-algorithms/README.md)

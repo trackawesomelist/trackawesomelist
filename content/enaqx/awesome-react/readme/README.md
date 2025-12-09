@@ -85,6 +85,7 @@ A collection of awesome things regarding the React ecosystem.
 *   [react-email (⭐17k)](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
 *   [8bitcn-ui (⭐1.2k)](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 *   [headlessui (⭐28k)](https://github.com/tailwindlabs/headlessui) - Completely unstyled, accessible UI components for React
+*   [ruixen-ui (⭐42)](https://github.com/ruixenui/ruixen.com) - Modern, lightweight React component library with elegant design
 
 #### React State Management and Data Fetching
 
@@ -155,7 +156,6 @@ A collection of awesome things regarding the React ecosystem.
 *   [tagify (⭐3.9k)](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 *   [puck (⭐10k)](https://github.com/measuredco/puck) - The visual editor for React
 *   [json-edit-react (⭐587)](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
-*   [markdown-to-jsx](https://www.npmjs.com/package/markdown-to-jsx) - A fast, versatile, and 100% CommonMark + GFM compliant markdown toolchain for React and other renderers.
 
 #### React Components Sandboxes
 
@@ -197,6 +197,7 @@ A collection of awesome things regarding the React ecosystem.
 *   [remotion (⭐25k)](https://github.com/remotion-dev/remotion) - Make videos programmatically with React
 *   [react-pdf (⭐16k)](https://github.com/diegomura/react-pdf) - Create PDF files using React
 *   [react-figma (⭐2.7k)](https://github.com/react-figma/react-figma) - A React renderer for Figma
+*   [markdown-to-jsx (⭐2.3k)](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain
 
 #### React Internationalization
 
