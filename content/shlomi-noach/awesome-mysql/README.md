@@ -8,6 +8,11 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ## [Dec 11, 2025](/content/2025/12/11/README.md)
 
+### MCP
+
+*   [MySQL MCP Server (⭐1)](https://github.com/askdba/mysql-mcp-server) - Advanced MCP server exposing MySQL via the Model Context Protocol
+*   [TiDB MCP Server](https://pingcap.github.io/ai/integrations/tidb-mcp-server/) - MCP Server for TiDB.
+
 ### Toolkits
 
 *   [Swoof (⭐28)](https://github.com/StirlingMarketingGroup/swoof) - Ultra fast MySQL table importer that stages swaps through temporary tables and supports file/clipboard targets.

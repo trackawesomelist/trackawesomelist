@@ -8,6 +8,10 @@ A collection of awesome projects in Zig.
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
+### Game Field / Zigged Project
+
+*   [darltrash/zcutenet](https://codeberg.org/darltrash/zcutenet) : A cute\_net.h binding and wrapper for Zig, for realtime networking.
+
 ### GUI / Zigged Project
 
 *   [rcalixte/libqt6zig (⭐148)](https://github.com/rcalixte/libqt6zig) : Qt 6 for Zig.

@@ -169,6 +169,8 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 ## MCP
 
 *   [MCP MariaDB Server (⭐95)](https://github.com/MariaDB/mcp) - the official MariaDB MCP server.
+*   [MySQL MCP Server (⭐1)](https://github.com/askdba/mysql-mcp-server) - Advanced MCP server exposing MySQL via the Model Context Protocol
+*   [TiDB MCP Server](https://pingcap.github.io/ai/integrations/tidb-mcp-server/) - MCP Server for TiDB.
 
 ## Proxy
 
