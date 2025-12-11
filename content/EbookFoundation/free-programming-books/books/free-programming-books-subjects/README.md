@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/week/README.md) / [Overview](/content/EbookFoundation/free-programming-books/books/free-programming-books-subjects/readme/README.md) ]
 
+## [Dec 11, 2025](/content/2025/12/11/README.md)
+
+### Cloud Computing
+
+*   [Distributed Systems 4th edition](https://www.distributed-systems.net/index.php/books/ds4/ds4-ebook/) - Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
+
 ## [Dec 08, 2025](/content/2025/12/08/README.md)
 
 ### Machine Learning
@@ -1439,12 +1445,6 @@
 ### Software Architecture / Mathematics For Computer Science
 
 *   [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)
-
-## [Aug 22, 2022](/content/2022/08/22/README.md)
-
-### Cloud Computing
-
-*   [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/) - Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
 
 ## [Aug 12, 2022](/content/2022/08/12/README.md)
 

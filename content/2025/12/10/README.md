@@ -1,12 +1,19 @@
 # Awesome List Updates on Dec 10, 2025
 
-6 awesome lists updated today.
+7 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Mac](/content/abordage/awesome-mac/README.md)
+## [1. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+
+### Contributing 🌻 / 🚀 **[Submit a new resource here!](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=submit-resource.yml)**
+
+*   First and foremost, best efforts are made to ensure that any resource on this list is free of malware, bloatware, or other unwanted risks.
+*   Second, being a *curated* list, every entry is manually evaluated and "tested out" to see if it actually delivers value to Claude Code users. If you want an *un-curated* list, you can find many great resources [here](https://github.com/search?q=%22claude+code%22\&type=repositories\&s=stars\&o=desc).
+
+## [2. Awesome Mac](/content/abordage/awesome-mac/README.md)
 
 ### Utilities / Productivity
 
@@ -16,19 +23,19 @@
 
 *   [asmvik/yabai (⭐28k)](https://github.com/asmvik/yabai) — A tiling window manager for macOS based on binary space partitioning ☆`27,669`
 
-## [2. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+## [3. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Domain Specific Language / Declarative DSL Applications
 
 *   [Penrose: from mathematical notation to beautiful diagrams](https://dl.acm.org/doi/abs/10.1145/3386569.3392375) - ***ACM Transactions on Graphics***, 2020. \[[All Versions](https://scholar.google.com/scholar?cluster=7935816003253127595)]. This work introduces a system called Penrose for creating mathematical diagrams. Its basic functionality is to translate abstract statements written in familiar math-like notation into one or more possible visual representations. Rather than rely on a fixed library of visualization tools, the visual representation is user-defined in a constraint-based specification language; diagrams are then generated automatically via constrained numerical optimization. The system is user-extensible to many domains of mathematics, and is fast enough for iterative design exploration. In contrast to tools that specify diagrams via direct manipulation or low-level graphics programming, Penrose enables rapid creation and exploration of diagrams that faithfully preserve the underlying mathematical meaning. The authors demonstrate the effectiveness and generality of the system by showing how it can be used to illustrate a diverse set of concepts from mathematics and computer graphics.
 
-## [3. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+## [4. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
 
 ### Coding Standards
 
 *   [F-35 Fighter Jet's C++ Coding Standards](https://www.stroustrup.com/JSF-AV-rules.pdf)
 
-## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [5. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -90,13 +97,13 @@
 
 *   [YAML (⭐430) (⭐430)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [5. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
 
 ### Tools / Services
 
 *   [promptfoo (⭐9.4k)](https://github.com/promptfoo/promptfoo): Test and evaluate LLM applications built with LangChain. Compare prompts, models, and RAG pipelines. Red team with multi-turn attacks and catch security vulnerabilities in CI/CD. ![GitHub Repo stars](https://img.shields.io/github/stars/promptfoo/promptfoo?style=social)
 
-## [6. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
+## [7. Awesome Love2d](/content/love2d-community/awesome-love2d/README.md)
 
 ### Helpers
 
@@ -113,4 +120,5 @@
 
 ---
 
+- Prev: [Dec 11, 2025](/content/2025/12/11/README.md)
 - Next: [Dec 09, 2025](/content/2025/12/09/README.md)

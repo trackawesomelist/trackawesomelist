@@ -8,6 +8,10 @@
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
+### Cloud Computing
+
+*   [Distributed Systems 4th edition](https://www.distributed-systems.net/index.php/books/ds4/ds4-ebook/) - Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
+
 ### Machine Learning
 
 *   [Practical Deep Learning for Coders](https://course.fast.ai) - fast.ai
@@ -1241,10 +1245,6 @@
 *   [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
 
 ## [Aug 22 - Aug 28, 2022](/content/2022/34/README.md)
-
-### Cloud Computing
-
-*   [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/) - Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
 
 ### Misc / Mathematics For Computer Science
 

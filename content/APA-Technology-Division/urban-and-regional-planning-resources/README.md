@@ -2,9 +2,15 @@
 
 Community list of data & technology resources concerning the built environment and communities. 🏙️🌳🚌🚦🗺️
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/APA-Technology-Division/urban-and-regional-planning-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 APA-Technology-Division/urban-and-regional-planning-resources](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources) · ⭐ 308 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/APA-Technology-Division/urban-and-regional-planning-resources/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 APA-Technology-Division/urban-and-regional-planning-resources](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources) · ⭐ 311 · 🏷️ Miscellaneous
 
 [ Daily / [Weekly](/content/APA-Technology-Division/urban-and-regional-planning-resources/week/README.md) / [Overview](/content/APA-Technology-Division/urban-and-regional-planning-resources/readme/README.md) ]
+
+## [Dec 11, 2025](/content/2025/12/11/README.md)
+
+### Vendor Data Resources / Land Use and Land Cover
+
+*   [Cotality](https://www.cotality.com/) - Provides high quality land parcels data, providing instant access to detailed property characteristics, sales records, valuation and digital copies of current county assessor documents.
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
@@ -26,7 +32,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
-*   [Tile2Net (⭐201)](https://github.com/VIDA-NYU/tile2net?tab=readme-ov-file) - Tile2Net is an end-to-end tool for automated mapping of pedestrian infrastructure from aerial imagery. It provides a deep learning models that semantically segments pedestrian infrastructure from imagery for digitization. It is also available on the Esri Atlas of [models](https://www.arcgis.com/home/item.html?id=c0d520baa30d4b47ab36232231c17875).
+*   [Tile2Net (⭐202)](https://github.com/VIDA-NYU/tile2net?tab=readme-ov-file) - An end-to-end tool for automated mapping of pedestrian infrastructure from aerial imagery. It provides a deep learning models that semantically segments pedestrian infrastructure from imagery for digitization. It is also available on the Esri Atlas of [models](https://www.arcgis.com/home/item.html?id=c0d520baa30d4b47ab36232231c17875).
 
 ## [May 04, 2025](/content/2025/05/04/README.md)
 
@@ -38,7 +44,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Public Data Resources / Equity and Environmental Justice
 
-*   [Screening Tools](https://screening-tools.com/) - Screening Tools is a project of Public Environmental Data Partners that is archiving and providing federal datasets related to environmental and social vulnerability screening. Datasets distributed and screening tools made available through this site include EJ Screen and CDC SVI for example.
+*   [Screening Tools](https://screening-tools.com/) - A project of Public Environmental Data Partners that is archiving and providing federal datasets related to environmental and social vulnerability screening. Datasets distributed and screening tools made available through this site include EJ Screen and CDC SVI for example.
 
 ## [Jan 22, 2025](/content/2025/01/22/README.md)
 
@@ -75,7 +81,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
-*   [3D Street](https://www.3dstreet.org/) - 3D Street is an open-source 3D street design and virtual reality application that allows users to directly import their street designs from Streetmix into an interactive 3D web scene. Apart from the community version, it also provides a Pro version with integration with Google Earth and further customization.
+*   [3D Street](https://www.3dstreet.org/) - An open-source 3D street design and virtual reality application that allows users to directly import their street designs from Streetmix into an interactive 3D web scene. Apart from the community version, it also provides a Pro version with integration with Google Earth and further customization.
 
 ## [Sep 09, 2024](/content/2024/09/09/README.md)
 
@@ -135,17 +141,17 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Coding Resources / Python
 
-*   [Madina (⭐202)](https://github.com/City-Form-Lab/madina) - This is a package of classes and functions to streamline the representation and analysis of urban networks. This library includes a Python implementation of the Urban Network Analysis Tools.
+*   [Madina (⭐203)](https://github.com/City-Form-Lab/madina) - This is a package of classes and functions to streamline the representation and analysis of urban networks. This library includes a Python implementation of the Urban Network Analysis Tools.
 
 ## [Mar 19, 2024](/content/2024/03/19/README.md)
 
 ### Platforms and Software Resources / AI in Planning Tools and Platforms
 
-*   [Anthropic](https://www.anthropic.com/) - Anthropic provides access to a class of advanced large language models called Claude designed to provide human-like text responses and engage in conversational interactions.
+*   [Anthropic](https://www.anthropic.com/) - Provides access to a class of advanced large language models called Claude designed to provide human-like text responses and engage in conversational interactions.
 
 ### Platforms and Software Resources / Economic Development and Econometric Platforms
 
-*   [Remi](https://www.remi.com/) - REMI is a leading provider of state, local, and national macroeconomic policy analysis models.
+*   [Remi](https://www.remi.com/) - A leading provider of state, local, and national macroeconomic policy analysis models.
 
 ## [Mar 12, 2024](/content/2024/03/12/README.md)
 
@@ -169,14 +175,14 @@ Community list of data & technology resources concerning the built environment a
 
 ### Public Data Resources / Politics
 
-*   [OpenPrecincts](https://gerrymander.princeton.edu/) - OpenPrecincts is a data and software resource to open the redistricting process to all citizens and ensure that district boundaries are fair for all voters.
+*   [OpenPrecincts](https://gerrymander.princeton.edu/) - A data and software resource to open the redistricting process to all citizens and ensure that district boundaries are fair for all voters.
 
 ## [Feb 04, 2024](/content/2024/02/04/README.md)
 
 ### Vendor Data Resources / Built Environment
 
-*   [CyberCity3d](https://www.cybercity3d.com/) - CyberCity3D offers a diverse range of digital city models from stero imagery and keeps an extensive library in 130 cities.
-*   [PLW Model Works](https://plwmodelworks.com/industries/) -  PLW Model Works combines geospatial modeling expertise to create highly detailed, photo-accurate 3D polygonal city models for different industries.
+*   [CyberCity3d](https://www.cybercity3d.com/) - Offers a diverse range of digital city models from stero imagery and keeps an extensive library in 130 cities.
+*   [PLW Model Works](https://plwmodelworks.com/industries/) -  Combines geospatial modeling expertise to create highly detailed, photo-accurate 3D polygonal city models for different industries.
 
 ## [Jan 27, 2024](/content/2024/01/27/README.md)
 
@@ -188,7 +194,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Vendor Data Resources / Infrastructure
 
-*   [Geomate](https://geomate.ca/en/) - Geomate provides HD vector maps from high-resolution aerial imagery to support autonomous vehicles and urban planning use cases.
+*   [Geomate](https://geomate.ca/en/) - Provides HD vector maps from high-resolution aerial imagery to support autonomous vehicles and urban planning use cases.
 
 ## [Dec 28, 2023](/content/2023/12/28/README.md)
 
@@ -202,7 +208,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
-*   [Enscape](https://enscape3d.com/) - Enscape is an easy-to-use rendering software that produces quick, realistic and customizable rendering images for urban design and architectural visualization. The tool integrates well with commonly used 3D modeling softwares such as Rhino, SketchUp, etc.
+*   [Enscape](https://enscape3d.com/) - An easy-to-use rendering software that produces quick, realistic and customizable rendering images for urban design and architectural visualization. The tool integrates well with commonly used 3D modeling softwares such as Rhino, SketchUp, etc.
 
 ## [Nov 29, 2023](/content/2023/11/29/README.md)
 
@@ -214,7 +220,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Vendor Data Resources / Travel Behavior
 
-*   [AirSage](https://airsage.com/) - AirSage is a well-known provider of location based services and GPS data from cell phones operating in the space since 2000.
+*   [AirSage](https://airsage.com/) - A well-known provider of location based services and GPS data from cell phones operating in the space since 2000.
 
 ## [Nov 01, 2023](/content/2023/11/01/README.md)
 
@@ -232,7 +238,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / AI in Planning Tools and Platforms
 
-*   [OECD AI Policy Observatory](https://oecd.ai/en/) - OECD AI Policy Observatory provides a platform for resources on applications, poicy implications, and literature regarding Artificial Intelligence.
+*   [OECD AI Policy Observatory](https://oecd.ai/en/) - Provides a platform for resources on applications, poicy implications, and literature regarding Artificial Intelligence.
 
 ## [Aug 04, 2023](/content/2023/08/04/README.md)
 
@@ -262,7 +268,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / AI in Planning Tools and Platforms
 
-*   [ChatGPT](https://chat.openai.com/) - ChatGPT is an advanced language model designed to generate human-like text responses and engage in conversational interactions. Additional Information: [Act Like a Planner](https://apa-technology-division.github.io/like-a-planner).
+*   [ChatGPT](https://chat.openai.com/) - An advanced language model designed to generate human-like text responses and engage in conversational interactions. Additional Information: [Act Like a Planner](https://apa-technology-division.github.io/like-a-planner).
 *   [University of Oregon, AI Software List](https://blogs.uoregon.edu/artificialintelligence/ai-software/) - A blog cataloguing existing AI resources compiled by university researchers and local policy experts.
 
 ## [Apr 25, 2023](/content/2023/04/25/README.md)
@@ -275,7 +281,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Data Specifications / Transportation
 
-*   [OpenSidewalks (⭐56)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
+*   [OpenSidewalks (⭐57)](https://github.com/OpenSidewalks/OpenSidewalks-Schema) - A data specification for routable pedestrian networks and describing and sharing pedestrian network and pedestrian network-adjacent data.
 
 ## [Apr 05, 2023](/content/2023/04/05/README.md)
 
@@ -285,7 +291,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Other Resources / Other GitHub Resource Lists
 
-*   [ai-collection (⭐8.6k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
+*   [ai-collection (⭐8.7k)](https://github.com/ai-collection/ai-collection) - Review of the generative AI landscape including tools/utilities.
 
 ## [Apr 03, 2023](/content/2023/04/03/README.md)
 
@@ -297,10 +303,10 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Immersive Planning and Design Platforms
 
-*   [Arkio](https://www.arkio.is/) - Arkio is a new cloud-based collaborative spatial design software that allows planners, designers, and stakeholders to create 3-D models of buildings and neighborhoods over VR and other devices.
-*   [InCitu](https://www.incitu.us/) - InCitu is an AR platform designed to support urban planners in the analysis and visualization of urban data by representing scale models of buildings, affordable housing, mixed-use development, parks, and bridges.
-*   [Polycam](https://poly.cam/) - Polycam is a mobile application that allows planners to scan and digitize objects and places from the real world for use in 3-D models, making photogrammetry easy with the use of their smartphone's camera.
-*   [Spatial](https://www.spatial.io) - Spatial is a highly collaborative web, mobile, and VR application planners use to create immersive co-experiences and spaces in environments including the Metaverse.
+*   [Arkio](https://www.arkio.is/) - A new cloud-based collaborative spatial design software that allows planners, designers, and stakeholders to create 3-D models of buildings and neighborhoods over VR and other devices.
+*   [InCitu](https://www.incitu.us/) - An AR platform designed to support urban planners in the analysis and visualization of urban data by representing scale models of buildings, affordable housing, mixed-use development, parks, and bridges.
+*   [Polycam](https://poly.cam/) - A mobile application that allows planners to scan and digitize objects and places from the real world for use in 3-D models, making photogrammetry easy with the use of their smartphone's camera.
+*   [Spatial](https://www.spatial.io) - A highly collaborative web, mobile, and VR application planners use to create immersive co-experiences and spaces in environments including the Metaverse.
 *   [Spectracities](https://www.spectracities.com/) - Spectra is an open source VR and mixed reality platform that allows planners and designers to combine physical placemaking and digital worldbuilding to reimagine the city making process, from single projects and infill development to large-scale immersive environments.
 *   [Unreal Engine](https://www.unrealengine.com/en-US/) - Epic Games Unreal Engine is a XR engine that allows planners to not just create visualizations, but create immersive environments that gamify community involvement, decision-making, and the planning process.
 
@@ -308,7 +314,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Immersive Planning and Design Platforms
 
-*   [TwinMotion](https://www.twinmotion.com/en-US) - TwinMotion is an easy to use real-time visualization software that creates offline renderer-quality images, animations, and panoramas, together with interactive 360° videos and VR presentations built on Unreal Engine.
+*   [TwinMotion](https://www.twinmotion.com/en-US) - An easy to use real-time visualization software that creates offline renderer-quality images, animations, and panoramas, together with interactive 360° videos and VR presentations built on Unreal Engine.
 
 ## [Feb 05, 2023](/content/2023/02/05/README.md)
 
@@ -334,15 +340,15 @@ Community list of data & technology resources concerning the built environment a
 
 ### Vendor Data Resources / Infrastructure
 
-*   [Cyclomedia](https://www.cyclomedia.com/us) - Cyclomedia captures accurate visual data including imagery and LIDAR at street level and transforms it into valuable insights.
+*   [Cyclomedia](https://www.cyclomedia.com/us) - Captures accurate visual data including imagery and LIDAR at street level and transforms it into valuable insights.
 
 ### Planning Coding Resources / Python
 
-*   [Peartree (⭐206)](https://github.com/kuanb/peartree) - Peartree helps explore GTFS data and their network characteristics.
+*   [Peartree (⭐207)](https://github.com/kuanb/peartree) - Helps explore GTFS data and their network characteristics.
 
 ### Planning Coding Resources / R
 
-*   [r5r (⭐220)](https://github.com/ipeaGIT/r5r) - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
+*   [r5r (⭐222)](https://github.com/ipeaGIT/r5r) - Is an R package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car) leveraging the Conveyal R5 routing engine.
 
 ### Educational and Informational Resources / Podcasts
 
@@ -401,7 +407,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
-*   [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool) - Climate Mapping for Resilience and Adaptation (CMRA) integrates information from across the federal government to help people consider their local exposure to climate-related hazards. People working in community organizations or public agencies can use the site to help them develop equitable climate resilience plans to protect people, property, and infrastructure. Additional Information: [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
+*   [Climate Mapping For Resilience and Adaptation](https://resilience.climate.gov/#assessment-tool) - Integrates information from across the federal government to help people consider their local exposure to climate-related hazards. People working in community organizations or public agencies can use the site to help them develop equitable climate resilience plans to protect people, property, and infrastructure. Additional Information: [CMRA Assessment Tool](https://livingatlas.arcgis.com/assessment-tool/home)
 
 ## [Nov 03, 2022](/content/2022/11/03/README.md)
 
@@ -467,17 +473,17 @@ Community list of data & technology resources concerning the built environment a
 ### Planning Coding Resources / Python
 
 *   [Geemap (⭐3.8k)](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
-*   [Geoplot](https://residentmario.github.io/geoplot/) - Geoplot is a high-level Python geospatial plotting library. It is an extension to cartopy and Matplotlib which makes mapping easy: like Seaborn for geospatial.
+*   [Geoplot](https://residentmario.github.io/geoplot/) - A high-level Python geospatial plotting library. It is an extension to cartopy and Matplotlib which makes mapping easy: like Seaborn for geospatial.
 *   [Urbansprawl (⭐87)](https://github.com/lgervasoni/urbansprawl) - The urbansprawl project provides an open source framework for assessing urban sprawl using open data. It uses OpenStreetMap (OSM) data to calculate its sprawling indices, divided in Accessibility, Land use mix, and Dispersion.
-*   [Xarray-spatial](https://xarray-spatial.org/) - Xarray-Spatial implements common raster analysis functions using Numba and provides an easy-to-install, easy-to-extend codebase for raster analysis.
+*   [Xarray-spatial](https://xarray-spatial.org/) - Implements common raster analysis functions using Numba and provides an easy-to-install, easy-to-extend codebase for raster analysis.
 *   [Momepy](http://docs.momepy.org/en/stable/) - A library for quantitative analysis of urban form - urban morphometrics. It is part of PySAL (Python Spatial Analysis Library) and is built on top of GeoPandas, other PySAL modules and networkX.
-*   [rasterio (⭐2.4k)](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models.
+*   [rasterio (⭐2.5k)](https://github.com/rasterio/rasterio/blob/master/docs/index.rst) - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models.
 
 ### Planning Coding Resources / R
 
 *   [Motif](https://cran.r-project.org/web/packages/motif/index.html) - Describes spatial patterns of categorical raster data for any defined regular and irregular areas. It enables spatial analysis such as search, change detection, and clustering to be performed on spatial patterns.
 *   [Raster](https://cran.r-project.org/web/packages/raster/index.html) - Reading, writing, manipulating, analyzing and modeling of spatial data. The package implements basic and high-level functions for raster data and for vector data operations such as intersections.
-*   [Rgee (⭐747)](https://github.com/r-spatial/rgee) - Is an R binding package for calling Google Earth Engine API from within R. Various functions are implemented to simplify the connection with the R spatial ecosystem.
+*   [Rgee (⭐751)](https://github.com/r-spatial/rgee) - Is an R binding package for calling Google Earth Engine API from within R. Various functions are implemented to simplify the connection with the R spatial ecosystem.
 *   [Sfnetworks](https://cran.r-project.org/web/packages/sfnetworks/index.html) - Provides a tidy approach to spatial network analysis.
 *   [Stars](https://cran.r-project.org/web/packages/stars/index.html) - Reading, manipulating, writing and plotting spatiotemporal arrays (raster and vector data cubes) in 'R'.
 *   [stplanr](https://cran.r-project.org/web/packages/stplanr/index.html) - Tools for transport planning with an emphasis on spatial transport data and non-motorized modes including OD data processing and other functions.
@@ -488,39 +494,39 @@ Community list of data & technology resources concerning the built environment a
 ### Planning Coding Resources / Python
 
 *   [Pandas](https://pandas.pydata.org/) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
-*   [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - ArcPy is a Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
+*   [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - A Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
 *   [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/) - The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library to perform GIS visualization and analysis, spatial data management and GIS system administration tasks that can run both interactively, and using scripts. This library enables easy use of Pandas within the ArcGIS platform.
-*   [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - Partridge is a Python 3.6+ library for working with GTFS feeds using Pandas DataFrames.
+*   [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - A Python 3.6+ library for working with GTFS feeds using Pandas DataFrames.
 *   [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
-*   [UrbanSim (⭐522)](https://github.com/udst/urbansim) - UrbanSim is a platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
-*   [Pybikes (⭐590)](https://github.com/eskerda/pybikes) - Pybikes provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
-*   [Leafmap (⭐3.6k)](https://github.com/giswqs/leafmap) - Leafmap is a free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
+*   [UrbanSim (⭐523)](https://github.com/udst/urbansim) - A platform for building statistical models of cities and regions. These models help forecast long-range patterns in real estate development, demographics, and related outcomes, under various policy scenarios. Information: License: BSD License: Provider: UrbanSim Inc. (UDST).
+*   [Pybikes (⭐592)](https://github.com/eskerda/pybikes) - Provides a set of tools to scrape bike sharing data from different websites and APIs, thus providing a coherent and generalized set of classes and methods to access this sort of information.
+*   [Leafmap (⭐3.6k)](https://github.com/giswqs/leafmap) - A free and open-source Python package that enables users to analyze and visualize geospatial data with minimal coding in a Jupyter environment. Leafmap's interactive GUI allows no code layer management and analysis including a powerful analytical backend (i.e., [WhiteboxTools](https://www.whiteboxgeo.com/manual/wbt_book/intro.html)). Additional Information: [leafmap.org](https://leafmap.org/), [JOSS Article](https://joss.theoj.org/papers/10.21105/joss.03414), [Medium Article](https://medium.com/spatial-data-science/leafmap-a-new-python-package-for-geospatial-data-science-353735b3f889).
 *   [Prettymaps (⭐12k)](https://github.com/marceloprates/prettymaps) - A small set of Python functions to draw pretty maps from OpenStreetMap data.
 *   [HerePy (⭐84)](https://github.com/abdullahselek/HerePy) - A library that provides a Python interface to HERE APIs.
-*   [StreetTraffic (⭐28)](https://github.com/streettraffic/streettraffic) - StreetTraffic is a Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
+*   [StreetTraffic (⭐28)](https://github.com/streettraffic/streettraffic) - A Python package that crawls the traffic flow data of your favorite routes, cities by using the API provided by HERE.
 *   [PySAL](https://pysal.org) - The Python Spatial Analysis Library is a collection of algorithms for exploring spatial correlations and other spatial relationships.
 *   [city-seer-api](https://cityseer.benchmarkurbanism.com/) - A package for pedestrian-scale network-based urban analysis: network analysis, urban morphology, land use, accessibility, and statistical aggregations.
 
 ### Planning Coding Resources / R
 
 *   [ggplot2](https://ggplot2.tidyverse.org/) - Resource for plotting a wide range of data (useful for visualizing survey data). Additional Information: GNU GENERAL PUBLIC LICENSE.
-*   [leafgl (⭐284)](https://github.com/r-spatial/leafgl) - R package for fast web-gl rendering for leaflet maps.
+*   [leafgl (⭐285)](https://github.com/r-spatial/leafgl) - R package for fast web-gl rendering for leaflet maps.
 
 ### Platforms and Software Resources / Geospatial Data and Visualization
 
 *   [QGIS](https://qgis.org/en/site/) - This open source GIS suite allows users to create, edit, visualise, analyse and publish geospatial information on Windows, Mac, Linux, BSD and mobile devices.
 *   [kepler.gl](https://kepler.gl/) - Kepler is a data agnostic, WebGL empowered, high-performance web application for geospatial analytic visualizations. Additional Information: [API Reference](https://docs.kepler.gl/docs/api-reference).
 *   [flowmap-blue](https://flowmap.blue) - Create geographic flow maps representing your data published in Google Sheets. Visualize numbers of movements between locations (origin-destination data).
-*   [ScapeToad](http://scapetoad.choros.place/index.php) - ScapeToad is a cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data.
-*   [BlenderGIS (⭐8.6k)](https://github.com/domlysz/BlenderGIS) - BlenderGIS is a free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
+*   [ScapeToad](http://scapetoad.choros.place/index.php) - A cross-platform, open-source application designed to adjust the size of polygons based on some attribute. Use a shapefile as input and output to generate cartograms, geometries whose sizes are distorted based on data.
+*   [BlenderGIS (⭐8.6k)](https://github.com/domlysz/BlenderGIS) - A free and open-source add on for [Blender](https://www.blender.org/) which allows users to explore, query, and visualize data directly through Blender's GUI.
 
 ### Platforms and Software Resources / Public Engagement Tools and Platforms
 
 *   [PollEverywhere](https://www.polleverywhere.com/) - Provides the ability to generate polls and questions for interactive engagement on multiple platforms.
 *   [NJTPA Engage](https://engage.njtpa.org/) - Database of 300 + public engagement tools, techniques, and software. Searchable on multiple levels.
 *   [Ushahidi](https://www.ushahidi.com/) - Open-source crowdsourced mapping tool with the aim to empower communities around the world to tackle their own problems by collecting citizen input.
-*   [Social Pinpoint](https://www.socialpinpoint.com/) - Social Pinpoint is a proprietary digital public engagement tool that allows users to give feedback and share their inspirations through interactive maps, surveys, participatory budgeting exercises, and idea wall forums.
-*   [Hello Lamp Post](https://www.hellolamppost.co.uk/) - Hello Lamp Post is a proprietary text and SMS-based on-street public engagement tool that uses physical signage and mobile devices to get citizen feedback, improve wayfinding, promote local events and services, or provide creative educational content.
+*   [Social Pinpoint](https://www.socialpinpoint.com/) - A proprietary digital public engagement tool that allows users to give feedback and share their inspirations through interactive maps, surveys, participatory budgeting exercises, and idea wall forums.
+*   [Hello Lamp Post](https://www.hellolamppost.co.uk/) - A proprietary text and SMS-based on-street public engagement tool that uses physical signage and mobile devices to get citizen feedback, improve wayfinding, promote local events and services, or provide creative educational content.
 *   [Maptionnaire](https://www.maptionnaire.com) - Provides map-based tools for designing questionnaires, collecting survey data, and conveying information.
 
 ## [Jun 30, 2022](/content/2022/06/30/README.md)
@@ -565,7 +571,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Data Specifications / Built Environment
 
-*   [IFC](https://technical.buildingsmart.org/standards/ifc/) - IFC is a standardized, digital description of the built environment, including buildings and civil infrastructure. It is an open, international standard (ISO 16739-1:2018).
+*   [IFC](https://technical.buildingsmart.org/standards/ifc/) - A standardized, digital description of the built environment, including buildings and civil infrastructure. It is an open, international standard (ISO 16739-1:2018).
 
 ## [Feb 17, 2022](/content/2022/02/17/README.md)
 
@@ -577,7 +583,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Data Specifications / Transportation
 
-*   [CDS (⭐58)](https://github.com/openmobilityfoundation/curb-data-specification) - The Curb Data Specification provides data specifications for curb regulations alongside a connected event and metrics API intended to help cities manage their curb zone programs and surrounding areas, and measure the utilization and impact.
+*   [CDS (⭐59)](https://github.com/openmobilityfoundation/curb-data-specification) - The Curb Data Specification provides data specifications for curb regulations alongside a connected event and metrics API intended to help cities manage their curb zone programs and surrounding areas, and measure the utilization and impact.
 
 ## [Jan 18, 2022](/content/2022/01/18/README.md)
 
@@ -633,7 +639,7 @@ Community list of data & technology resources concerning the built environment a
 ### Platforms and Software Resources / Environmental and Climate Planning Tools and Platforms
 
 *   [Temperate](https://icleiusa.org/temperate-adaptation-planner/) - This user-friendly tool was developed by Azavea in partnership with ICLEI USA, with the primary purpose of facilitating a data-informed adaptation planning process in small-to-midsize communities with little to no devoted resources to plan for climate change impacts.
-*   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐247)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
+*   [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source (⭐249)](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
 
 ## [Nov 14, 2021](/content/2021/11/14/README.md)
 
@@ -668,14 +674,14 @@ Community list of data & technology resources concerning the built environment a
 
 ### Other Resources / Other Technology Resource Aggregators
 
-*   [The Nexus](https://www.urbanismnext.org/the-nexus) - The Nexus examines the potential impacts that new mobility, autonomous vehicles, e-commerce, and other innovations will have on cities and communities and catalogues various resources and tools related to them.
+*   [The Nexus](https://www.urbanismnext.org/the-nexus) - Examines the potential impacts that new mobility, autonomous vehicles, e-commerce, and other innovations will have on cities and communities and catalogues various resources and tools related to them.
 *   [Data Standards Directory](http://datastandards.directory/) - This open directory of data standards aggregates known data standard examples and features a taxonomy on how to understand their application.
 
 ## [Oct 30, 2021](/content/2021/10/30/README.md)
 
 ### Platforms and Software Resources / Urban Planning Tools and Platforms
 
-*   [UrbanCanvas](https://urbansim.com/urbancanvas) - UrbanCanvas Modeler is a web-based platform designed for planners and modelers to generate long-range, small area socioeconomic forecasts using [UrbanSim (⭐522)](https://github.com/UDST/urbansim) to inform Regional Transportation Plans.
+*   [UrbanCanvas](https://urbansim.com/urbancanvas) - Modeler is a web-based platform designed for planners and modelers to generate long-range, small area socioeconomic forecasts using [UrbanSim (⭐523)](https://github.com/UDST/urbansim) to inform Regional Transportation Plans.
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
@@ -683,8 +689,8 @@ Community list of data & technology resources concerning the built environment a
 
 ### Educational and Informational Resources / Podcasts
 
-*   [Talking Headways](https://streetsblog.libsyn.com/) - The Talking Headways podcast is a weekly podcast about transportation and urban design.
-*   [99% Invisible](https://99percentinvisible.org/) - 99% Invisible is a sound-rich, narrative podcast about all the thought that goes into the things we don't think about — the unnoticed architecture and design that shape our world.
+*   [Talking Headways](https://streetsblog.libsyn.com/) - This podcast is a weekly podcast about sustainable transportation and urban design.
+*   [99% Invisible](https://99percentinvisible.org/) - A sound-rich, narrative podcast about all the thought that goes into the things we don't think about — the unnoticed architecture and design that shape our world.
 *   [APA Podcast](https://www.planning.org/podcast/) - American Planning Association's podcast with interviews and discussions on planning topics going back to 2010.
 *   [Strong Towns Podcast](https://www.strongtowns.org/podcast) - The podcast explores how we can financially strengthen our cities, towns, and neighborhoods and, in the process, make them better places to live.
 
@@ -709,7 +715,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Public Data Resources / OpenStreetMap
 
-*   [Tasking Manager](https://tasks.hotosm.org/) - Tasking Manager is a platform where anybody can learn to use Open Street Map and contribute to mapping undermapped areas of the world. This work is critical for disaster preparation and resiliency in developing countries, so that aid workers and community members have access to accurate maps when disasters strike.
+*   [Tasking Manager](https://tasks.hotosm.org/) - A platform where anybody can learn to use Open Street Map and contribute to mapping undermapped areas of the world. This work is critical for disaster preparation and resiliency in developing countries, so that aid workers and community members have access to accurate maps when disasters strike.
 
 ## [Oct 21, 2021](/content/2021/10/21/README.md)
 
@@ -747,7 +753,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Public Data Resources / Transportation
 
-*   [Transitland](https://transit.land) - Transitland is an open data platform that collects GTFS, GTFS Realtime, and other open data feeds from over 2,500 transit operators in over 55 countries. Additional Information: [Interline](https://www.interline.io/), [GitHub](https://github.com/transitland).
+*   [Transitland](https://transit.land) - An open data platform that collects GTFS, GTFS Realtime, and other open data feeds from over 2,500 transit operators in over 55 countries. Additional Information: [Interline](https://www.interline.io/), [GitHub](https://github.com/transitland).
 *   [Global Urban Street Networks](https://geoffboeing.com/publications/street-network-models-indicators-world/) - Ready‐to‐use global street network models and calculated indicators in a GIS format. Additional Information: [Geopackage Download](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/E5TPDQ)
 
 ### Planning Data Specifications / Transportation
@@ -768,7 +774,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Coding Resources / Learning to Code
 
-*   [Urban Informatics & Visualization-Berkeley (⭐232)](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Noteboom examples. Provides various resources to applied Python in planning contexts.
+*   [Urban Informatics & Visualization-Berkeley (⭐239)](https://github.com/waddell/urban-informatics-and-visualization) - Urban Informatics and Visualization (UC Berkeley CP255) Class Jupyter Noteboom examples. Provides various resources to applied Python in planning contexts.
 *   [Esri's Python For Everyone](https://www.esri.com/training/catalog/57630436851d31e02a43f13c/python-for-everyone/) - This course provides the building blocks you need to use Python. You will create and run scripts using these building blocks, and you can apply them directly inside ArcGIS and to your own workflows.
 
 ## [Sep 18, 2021](/content/2021/09/18/README.md)
@@ -821,7 +827,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Vendor Data Resources / Land Use and Land Cover
 
-*   [EarthDefine](http://www.earthdefine.com/) - EarthDefine is using AI to transform earth sensor data into consumable geospatial information products including high resolution land cover classifications and building footprints.
+*   [EarthDefine](http://www.earthdefine.com/) - Using AI to transform earth sensor data into consumable geospatial information products including high resolution land cover classifications and building footprints.
 
 ## [Aug 17, 2021](/content/2021/08/17/README.md)
 
@@ -840,8 +846,8 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
-*   [TestFit](https://testfit.io/) - TestFit features algorithms and co-creation tools help developers, architects, urban planners and more to solve hotel, parking or multifamily building site plans in seconds.
-*   [Delve](https://www.sidewalklabs.com/products/delve) - Delve uses generative design and AI to reveal the very best options for your project priorities and site design metrics.
+*   [TestFit](https://testfit.io/) - Features algorithms and co-creation tools help developers, architects, urban planners and more to solve hotel, parking or multifamily building site plans in seconds.
+*   [Delve](https://www.sidewalklabs.com/products/delve) - Uses generative design and AI to reveal the very best options for your project priorities and site design metrics.
 
 ### Platforms and Software Resources / Transportation Planning Tools and Platforms
 
@@ -852,7 +858,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
-*   [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - CityEngine is advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that can help quickly create [streets (⭐209)](https://github.com/d-wasserman/Complete_Street_Rule) & [buildings](https://www.arcgis.com/home/group.html?id=01695af30a384c1e823fa4d72497309d#overview).
+*   [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - Advanced 3D modeling software for creating huge, interactive and immersive urban environments in less time than traditional modeling techniques. The cities you create using CityEngine can be based on real-world GIS data and the procedural rules that can help quickly create [streets (⭐209)](https://github.com/d-wasserman/Complete_Street_Rule) & [buildings](https://www.arcgis.com/home/group.html?id=01695af30a384c1e823fa4d72497309d#overview).
 
 ## [Aug 06, 2021](/content/2021/08/06/README.md)
 
@@ -863,7 +869,7 @@ Community list of data & technology resources concerning the built environment a
 ### Educational and Informational Resources / General Planning Information and News
 
 *   [Planopedia](https://www.planetizen.com/planopedia) - Organized by the Planning News aggregator [Planetizen](https://www.planetizen.com/) this mini-planning encyclopedia explores various urban planning concepts and terms.
-*   [ULI](https://uli.org/) - ULI is the oldest and largest network of cross-disciplinary real estate and land use experts in the world.
+*   [ULI](https://uli.org/) - The oldest and largest network of cross-disciplinary real estate and land use experts in the world.
 
 ## [Aug 04, 2021](/content/2021/08/04/README.md)
 
@@ -879,7 +885,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Educational and Informational Resources / Literature Resources
 
-*   [Policy Guides](https://www.planning.org/policy/guides/) - Policy Guides represent APA's official position on critical planning issues and arm planners with the tools to advocate for policies that create great communities for all.
+*   [Policy Guides](https://www.planning.org/policy/guides/) - Represent APA's official position on critical planning issues and arm planners with the tools to advocate for policies that create great communities for all.
 
 ## [Jul 31, 2021](/content/2021/07/31/README.md)
 
@@ -928,14 +934,14 @@ Community list of data & technology resources concerning the built environment a
 
 ### Other Resources / Other Technology Resource Aggregators
 
-*   [Harvard Dataverse](https://dataverse.harvard.edu/) - Harvard Dataverse is a repository for research data. It contains a wide variety of datasets spanning the sciences, many with public domain dedications.
+*   [Harvard Dataverse](https://dataverse.harvard.edu/) - A repository for research data. It contains a wide variety of datasets spanning the sciences, many with public domain dedications.
 
 ## [Jul 20, 2021](/content/2021/07/20/README.md)
 
 ### Vendor Data Resources / Urban Observation
 
 *   [Numina](https://numina.co/) - Utilizes edge computing devices that measures all kinds of curb-level activity. Anonymously and in aggregate, Numina delivers the volume counts, paths, and traffic behaviors of travelers and objects in streets.
-*   [Transoft](https://safety.transoftsolutions.com/) - Transoft ITS Safety solutions utilize computer vision to identify 'near-miss' behavior on streets. This technology was featured Planning Magazine in the [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
+*   [Transoft](https://safety.transoftsolutions.com/) - ITS Safety solutions utilize computer vision to identify 'near-miss' behavior on streets. This technology was featured Planning Magazine in the [Art of Learning by Example](https://www.planning.org/planning/2020/oct/art-of-learning-by-example/).
 *   [Automotus](https://www.automotus.co/) - Computer vision based platform that helps cities, airports, fleets, and businesses monitor the curb in real time. Enables curbside management policies that increase revenue while making streets less congested, more sustainable, and more equitable.
 
 ## [Jul 18, 2021](/content/2021/07/18/README.md)
@@ -964,13 +970,13 @@ Community list of data & technology resources concerning the built environment a
 
 ### Vendor Data Resources / Travel Behavior
 
-*   [WeJo](https://www.wejo.com/) - Wejo has made it simple and secure to share and access connected car data, on a global scale. This data can be used for everything from origin-destination analysis, safety & speed studies, and more.
+*   [WeJo](https://www.wejo.com/) - Has made it simple and secure to share and access connected car data, on a global scale. This data can be used for everything from origin-destination analysis, safety & speed studies, and more.
 
 ## [Jul 06, 2021](/content/2021/07/06/README.md)
 
 ### Public Data Resources / Demographic
 
-*   [Census Reporter](https://censusreporter.org/) - An open-source website that makes it easy to explore and report census data. Census Reporter automatically provides descriptive statistics, downloadable tabular data, and interactive visualizations of American Community Survey (ACS) data for the United States. Visualizations can be [embedded as HTML](https://censusreporter.org/examples/embed-charts/) iframes. Additional Information:License: MIT License Geographic Coverage: Contains geographies matching the coverage and scale of the [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) Provider: [About Page.](https://censusreporter.org/about/) Additional Links: [GitHub Repository. (⭐791)](https://github.com/censusreporter/censusreporter)
+*   [Census Reporter](https://censusreporter.org/) - An open-source website that makes it easy to explore and report census data. Census Reporter automatically provides descriptive statistics, downloadable tabular data, and interactive visualizations of American Community Survey (ACS) data for the United States. Visualizations can be [embedded as HTML](https://censusreporter.org/examples/embed-charts/) iframes. Additional Information:License: MIT License Geographic Coverage: Contains geographies matching the coverage and scale of the [ACS 2019 1-year and 5-year estimates.](https://web.archive.org/web/20210519000200/https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html) Provider: [About Page.](https://censusreporter.org/about/) Additional Links: [GitHub Repository. (⭐793)](https://github.com/censusreporter/censusreporter)
 *   [IPUMS National Historic GIS](https://www.nhgis.org/) - The National Historical Geographic Information System (NHGIS) provides easy access to summary tables and time series of population, housing, agriculture, and economic data, along with GIS-compatible boundary files, for years from 1790 through the present and for all levels of U.S. census geography, including states, counties, tracts, and blocks.
 
 ### Public Data Resources / Environment and Ecosystem Services
@@ -1004,30 +1010,30 @@ Community list of data & technology resources concerning the built environment a
 ### Platforms and Software Resources / Urban Design Tools and Platforms
 
 *   [Adobe Creative Suite](https://www.adobe.com/creativecloud.html) - Adobe's collection of 20+ desktop and mobile apps and services for photography, design, video, web, UX, and more. Popular products include Photoshop, Adobe Illustrator, and others.
-*   [GIMP](https://www.gimp.org/) - GIMP is an open cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems.
-*   [Inkscape](https://inkscape.org/) - Inkscape is vector-based, open graphic manipulation tool often used as a counterpart to GIMP.
+*   [GIMP](https://www.gimp.org/) - An open cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems.
+*   [Inkscape](https://inkscape.org/) - Vector-based, open graphic manipulation tool often used as a counterpart to GIMP.
 
 ## [Jun 21, 2021](/content/2021/06/21/README.md)
 
 ### Vendor Data Resources / Demographic
 
-*   [Data Axle](https://www.data-axle.com/) - Data Axle offers some of the most comprehensive and accurate business and consumer databases, boasting almost 400 distinct attributes across businesses and consumers in the United States and Canada.
+*   [Data Axle](https://www.data-axle.com/) - Offers some of the most comprehensive and accurate business and consumer databases, boasting almost 400 distinct attributes across businesses and consumers in the United States and Canada.
 
 ### Vendor Data Resources / Infrastructure
 
-*   [Ecopia](https://www.ecopiatech.com/) - Ecopia AI leverages AI to convert high resolution images of the earth into HD Vector Maps and to digitize infrastructure assets in a geospatial format.
+*   [Ecopia](https://www.ecopiatech.com/) - Leverages AI to convert high resolution images of the earth into HD Vector Maps and to digitize infrastructure assets in a geospatial format.
 
 ## [Jun 18, 2021](/content/2021/06/18/README.md)
 
 ### Platforms and Software Resources / Geospatial Data and Visualization
 
-*   [CARTO](https://carto.com/) - CARTO is a world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
+*   [CARTO](https://carto.com/) - A world leading Location Intelligence platform, enabling organizations to host & use spatial data and enable analysis for more efficient delivery routes, better behavioural marketing, strategic store placements, and much more.
 
 ## [Jun 11, 2021](/content/2021/06/11/README.md)
 
 ### Platforms and Software Resources / Urban Planning Tools and Platforms
 
-*   [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - ArcGIS Urban enables planners and design professionals to publish living plans and collaborate across teams with a web-based 3D application that supports scenario planning and impact assessment.
+*   [ArcGIS Urban](https://www.esri.com/en-us/arcgis/products/arcgis-urban/overview) - Enables planners and design professionals to publish living plans and collaborate across teams with a web-based 3D application that supports scenario planning and impact assessment.
 
 ## [Jun 05, 2021](/content/2021/06/05/README.md)
 
@@ -1037,7 +1043,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Coding Resources / Python
 
-*   [Geopandas](https://geopandas.org/) - GeoPandas is an open source project to make working with geospatial data in Python easier. GeoPandas extends the datatypes used by Pandas to allow spatial operations on geometric types.
+*   [Geopandas](https://geopandas.org/) - An open source project to make working with geospatial data in Python easier. GeoPandas extends the datatypes used by Pandas to allow spatial operations on geometric types.
 
 ## [Jun 01, 2021](/content/2021/06/01/README.md)
 
@@ -1086,7 +1092,7 @@ Community list of data & technology resources concerning the built environment a
 
 ### Planning Coding Resources / Other
 
-*   [civic-tech-patterns (⭐203)](https://github.com/codeforamerica/civic-tech-patterns) - Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
+*   [civic-tech-patterns (⭐204)](https://github.com/codeforamerica/civic-tech-patterns) - Common patterns and anti-patterns for civic tech and civic applications. Additional Information: Provided by Code for America.
 
 ### Planning Coding Resources / Web and JS
 
@@ -1108,21 +1114,21 @@ Community list of data & technology resources concerning the built environment a
 
 ### Vendor Data Resources / Travel Behavior
 
-*   [Replica](https://replicahq.com/platform) - Replica is a data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
+*   [Replica](https://replicahq.com/platform) - A data platform providing rich origin-destination, spend, and scenario impact analysis based on an activity based modeling process.
 *   [SafeGraph](https://www.safegraph.com/) - Points of interest (POI) provider providing information on destination locations and their characteristics such as spending rates in the United States.
 *   [StreetLight Data](https://www.streetlightdata.com/) - Provides data using smartphones as sensors to measure vehicles, bikes, and pedestrians across North America. Carry out your mission on time and under budget, with 24/7 access to counts, O-D, and other metrics you need.
 
 ### Planning Coding Resources / Python
 
-*   [OSMnx (⭐5.3k)](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
+*   [OSMnx (⭐5.5k)](https://github.com/gboeing/osmnx) - Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.
 
 ## [May 20, 2021](/content/2021/05/20/README.md)
 
 ### Public Data Resources / OpenStreetMap
 
-*   [OpenStreetMap](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map. This collaborative project is one of the largest databases of volunteered geographic information in the world. Its contents include points of interest, routable networks, and other geodata.
+*   [OpenStreetMap](https://www.openstreetmap.org/) - The free wiki world map. This collaborative project is one of the largest databases of volunteered geographic information in the world. Its contents include points of interest, routable networks, and other geodata.
 *   [MetroExtracts](https://www.interline.io/osm/extracts/) - Each day, OSM Extracts by Interline mirrors the entire OpenStreetMap planet and creates city and region sized extracts ready for download into formats ready for GIS.
-*   [Overpass Turbo](https://overpass-turbo.eu/) - Overpass Turbo is a web-based data mining tool for OpenStreetMap. It runs any kind of Overpass API query, shows the results on an interactive map, and allows users to export query data in the form of GeoJSON files (which may be converted to Shapefiles). It also provides helpful support for new users in the form of the "Wizard" tool. Using Overpass Turbo, you can query virtually any location globally using dedicated tags in Open Street Map.
+*   [Overpass Turbo](https://overpass-turbo.eu/) - A web-based data mining tool for OpenStreetMap. It runs any kind of Overpass API query, shows the results on an interactive map, and allows users to export query data in the form of GeoJSON files (which may be converted to Shapefiles). It also provides helpful support for new users in the form of the "Wizard" tool. Using Overpass Turbo, you can query virtually any location globally using dedicated tags in Open Street Map.
 
 ## [May 19, 2021](/content/2021/05/19/README.md)
 
@@ -1148,17 +1154,13 @@ Community list of data & technology resources concerning the built environment a
 
 *   [Esri Tapestry Segmentation](https://www.esri.com/en-us/arcgis/products/tapestry-segmentation/zip-lookup) - Provides concise information on the demographic, economic, education and consumer characteristics of populations based on ZIP code.
 
-### Vendor Data Resources / Land Use and Land Cover
-
-*   [CoreLogic](https://www.corelogic.com/) - Provides high quality land parcels data, providing instant access to detailed property characteristics, sales records, valuation and digital copies of current county assessor documents.
-
 ### Planning Data Specifications / Transportation
 
-*   [SharedStreets](https://www.sharedstreets.io) - SharedStreets Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by SharedStreets. Additional Information: [GitHub (⭐188)](https://github.com/sharedstreets/sharedstreets-ref-system)
+*   [SharedStreets](https://www.sharedstreets.io) - Referencing System is a global, non-proprietary linear referencing system for describing streets maintained by SharedStreets. Additional Information: [GitHub (⭐188)](https://github.com/sharedstreets/sharedstreets-ref-system)
 *   [GTFS](https://developers.google.com/transit/gtfs) - The General Transit Feed Specification is a popular standard for describing transit systems.
 *   [shared-row (⭐18)](https://github.com/d-wasserman/shared-row) - A data specification for representing street right of ways.
-*   [GBFS (⭐868)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
-*   [MDS (⭐725)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
+*   [GBFS (⭐871)](https://github.com/NABSA/gbfs) - The General Bikeshare Feed Specification is a standardized data feed for shared mobility system availability.
+*   [MDS (⭐726)](https://github.com/openmobilityfoundation/mobility-data-specification) - The Mobility Data Specification is a data standard to enable communication between mobility companies and local governments.
 *   [MTLFS (⭐10)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - The Managed and Tolled Lanes Feed Specification is intended to be used by the managed lanes and toll industry for the standardization and sharing of dynamic toll rates, and any managed lane purpose including but not limited to, ramp metering, bus only lanes, express lanes, especially if the resources are being priced dynamically.
 
 ### Planning Coding Resources / Python

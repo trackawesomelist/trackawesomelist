@@ -51,6 +51,7 @@ A curated list of awesome system integration software and resources.
 
 ### Projects / Message Broker
 
+*   [Apache Pulsar (⭐15k) (⭐15k)](https://github.com/apache/pulsar) - Versatile pub/sub and streaming platform offering scalable, low-latency messaging for modern applications.
 *   [Centrifugo (⭐9.6k) (⭐9.6k)](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server that minimizes delay in delivering events to online users.
 *   [LavinMQ (⭐826) (⭐826)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
 
@@ -436,16 +437,10 @@ A curated list of awesome system integration software and resources.
     *   [Insomnia (⭐37k) (⭐38k)](https://github.com/Kong/insomnia) - A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.
     *   [posting (⭐10k) (⭐11k)](https://github.com/darrenburns/posting) - A modern, terminal-based API client designed for efficient and seamless API interactions.
     *   [Postman](https://www.postman.com/product/api-client/) - The industry-standard tool for API development and testing, featuring automation, mock servers, and collaborative documentation.
-    *   [Requestly (⭐5.6k) (⭐5.6k)](https://github.com/requestly/requestly) - Lightweight Git-Friendly API Client Built for Modern Developers.
+    *   [Requestly (⭐5.7k) (⭐5.6k)](https://github.com/requestly/requestly) - Lightweight Git-Friendly API Client Built for Modern Developers.
     *   [resty (⭐2.6k) (⭐2.7k)](https://github.com/micha/resty) - A Lua-based HTTP client framework providing an interactive shell for streamlined REST service testing.
     *   [SoapUI (⭐1.6k) (⭐1.7k)](https://github.com/SmartBear/soapui) - A comprehensive open-source solution for testing both SOAP and REST web services with extensive automation features.
     *   [Wombat (⭐1.4k) (⭐1.4k)](https://github.com/rogchap/wombat) - A cross-platform desktop gRPC client with automatic proto parsing, TLS support, and intuitive UI for testing unary, streaming, and bidirectional gRPC requests.
-
-## [Jul 29 - Aug 04, 2024](/content/2024/31/README.md)
-
-### Projects / Message Broker
-
-*   [Apache Pulsar (⭐14k) (⭐15k)](https://github.com/apache/pulsar) - Versatile pub/sub and streaming platform offering scalable, low-latency messaging for modern applications.
 
 ## [Jul 22 - Jul 28, 2024](/content/2024/30/README.md)
 

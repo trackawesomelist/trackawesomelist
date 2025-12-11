@@ -28,6 +28,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
     *   [Development](#development)
     *   [GUI](#gui)
     *   [HA](#ha)
+    *   [MCP](#mcp)
     *   [Proxy](#proxy)
     *   [Replication](#replication)
     *   [Schema](#schema)
@@ -51,7 +52,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 *   [MySQL Explain Analyzer (⭐97)](https://github.com/Preetam/explain-analyzer) - A web-based analyzer of `EXPLAIN FORMAT=JSON` output, providing comments, scalability analysis and permalinks for saved samples.
 *   [mysql-statsd (⭐101)](https://github.com/db-art/mysql-statsd) - A Python daemon to collect information from MySQL and send it via StatsD to Graphite.
 *   [MySQLTuner-perl (⭐9.4k)](https://github.com/major/MySQLTuner-perl) - A script that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
-*   [Prometheus (⭐61k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.4k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
+*   [Prometheus (⭐62k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.4k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
 *   [pstop (⭐208)](https://github.com/sjmudd/ps-top) - a top-like program for MySQL, collecting, aggregating and displaying information from performance\_schema.
 *   [Wireshark](https://gitlab.com/wireshark/wireshark/) - a protocol analyzer that can decode the MySQL protocol.
 *   [Dolphie (⭐1k)](https://github.com/charles-001/dolphie) - a modern terminal tool for real-time analytics into MySQL/MariaDB & ProxySQL
@@ -114,7 +115,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 *   [PyMySQL (⭐7.8k)](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 *   [Ruby Mysql2 gem (⭐2.3k)](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
 *   [MyZql (⭐64)](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
-*   [wtx (⭐326)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
+*   [wtx (⭐332)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
 ## Deployment
 
@@ -140,7 +141,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 *GUI frontends & applications*
 
 *   [Adminer (⭐7.2k)](https://github.com/vrana/adminer/) - Database management in a single PHP file.
-*   [DBeaver (⭐47k)](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
+*   [DBeaver (⭐48k)](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
 *   [HeidiSQL (⭐5.6k)](https://github.com/HeidiSQL/HeidiSQL) - MySQL GUI frontend for Windows.
 *   [ILLA Cloud (⭐12k)](https://github.com/illacloud/illa-builder) - Low-code internal tool builder integrated with Mysql, can be used as GUI for Mysql.
 *   [mycli (⭐12k)](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -211,7 +212,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 *Sharding solutions/frameworks*
 
 *   [Jetpants (⭐1.1k)](https://github.com/tumblr/jetpants) - An automation suite for managing large range sharding clusters, by Tumblr.
-*   [Vitess (⭐20k)](https://github.com/vitessio/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+*   [Vitess (⭐21k)](https://github.com/vitessio/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
 
 ## Toolkits
 
@@ -221,6 +222,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING (⭐2.5k)](htt
 *   [go-mysql (⭐4.9k)](https://github.com/go-mysql-org/go-mysql) - A pure go library to handle MySQL network protocol and replication.
 *   [MySQL Utilities (⭐276)](https://github.com/mysql/mysql-utilities) (deprecated) - a collection of command-line utilities, written in Python, that are used for maintaining and administering MySQL servers, either individually, or within Replication hierarchies.
 *   [Percona Toolkit (⭐1.4k)](https://github.com/percona/percona-toolkit) - a collection of advanced command-line tools to perform a variety of MySQL server and system tasks that are too difficult or complex to perform manually.
+*   [Swoof (⭐28)](https://github.com/StirlingMarketingGroup/swoof) - Ultra fast MySQL table importer that stages swaps through temporary tables and supports file/clipboard targets.
 *   [UnDROP (⭐413)](https://github.com/twindb/undrop-for-innodb) - a tool to recover data from dropped or corrupted InnoDB tables.
 
 # Resources

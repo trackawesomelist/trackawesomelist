@@ -2,11 +2,11 @@
 
 A curated list of awesome commands, files, and workflows for Claude Code
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hesreallyhim/awesome-claude-code/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) · ⭐ 17K · 🏷️ LLM
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/hesreallyhim/awesome-claude-code/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) · ⭐ 18K · 🏷️ LLM
 
 [ [Daily](/content/hesreallyhim/awesome-claude-code/README.md) / Weekly / [Overview](/content/hesreallyhim/awesome-claude-code/readme/README.md) ]
 
-## [Oct 13 - Oct 19, 2025](/content/2025/41/README.md)
+## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
 ### Contributing 🌻 / 🚀 **[Submit a new resource here!](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=submit-resource.yml)**
 

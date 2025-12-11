@@ -6,6 +6,12 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 [ [Daily](/content/shlomi-noach/awesome-mysql/README.md) / Weekly / [Overview](/content/shlomi-noach/awesome-mysql/readme/README.md) ]
 
+## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
+
+### Toolkits
+
+*   [Swoof (⭐28)](https://github.com/StirlingMarketingGroup/swoof) - Ultra fast MySQL table importer that stages swaps through temporary tables and supports file/clipboard targets.
+
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
 ### MCP
@@ -22,7 +28,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Connectors
 
-*   [wtx (⭐326)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
+*   [wtx (⭐332)](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
 ## [Dec 09 - Dec 15, 2024](/content/2024/50/README.md)
 
@@ -50,7 +56,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 
 ### Analysis
 
-*   [Prometheus (⭐61k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.4k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
+*   [Prometheus (⭐62k)](https://github.com/prometheus/prometheus)/[mysqld\_exporter (⭐2.4k)](https://github.com/prometheus/mysqld_exporter) - Time series database for real-time monitoring and alerting.
 
 ### Connectors
 
@@ -79,7 +85,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 ### GUI
 
 *   [Adminer (⭐7.2k)](https://github.com/vrana/adminer/) - Database management in a single PHP file.
-*   [DBeaver (⭐47k)](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
+*   [DBeaver (⭐48k)](https://github.com/dbeaver/dbeaver/) - A cross-platform SQL and NoSQL database client.
 *   [HeidiSQL (⭐5.6k)](https://github.com/HeidiSQL/HeidiSQL) - MySQL GUI frontend for Windows.
 *   [MySQL Shell (⭐212)](https://github.com/mysql/mysql-shell/) - Advanced client and code editor for MySQL that supports development and administration for the MySQL Server and MySQL InnoDB cluster (AdminAPI) with an interactive JavaScript, Python, or SQL interface.
 *   [MySQL Workbench (⭐972)](https://github.com/mysql/mysql-workbench) - provides DBAs and developers an integrated tools environment for database design & modeling; SQL devleopment; database administration.
@@ -104,7 +110,7 @@ A curated list of awesome MySQL software, libraries, tools and resources
 ### Sharding
 
 *   [Jetpants (⭐1.1k)](https://github.com/tumblr/jetpants) - An automation suite for managing large range sharding clusters, by Tumblr.
-*   [Vitess (⭐20k)](https://github.com/vitessio/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
+*   [Vitess (⭐21k)](https://github.com/vitessio/vitess) - vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services.
 
 ### Toolkits
 
