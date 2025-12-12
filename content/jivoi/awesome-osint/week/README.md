@@ -8,6 +8,14 @@
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
+### Speciality Search Engines
+
+*   [CertKit Certificate Search](https://www.certkit.io/tools/ct-logs/) - Fast search for public SSL/TLS certificate records.
+
+### Social Media Tools / Telegram
+
+*   [user-scanner](https://github.com/kaifcodec/user-scanner.git) — Check a username's presence across dev/social/gaming/creator site
+
 ### Domain and IP Research / GitHub
 
 *   [Qualys SSL Check](https://www.ssllabs.com/ssltest/) - SSL Test configuration compliance.

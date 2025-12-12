@@ -209,6 +209,7 @@ Thanks to our main contributors
 *   [BrightCloud](https://brightcloud.com/tools/url-ip-lookup.php) - Checks the reputation, category, and potential threats associated with a URL or IP address.
 *   [Browserleaks](https://browserleaks.com/) - BrowserLeaks tests your browser for privacy and fingerprinting leaks
 *   [Censys](https://search.censys.io/) - Searcher that monitors and analyzes devices.
+*   [CertKit Certificate Search](https://www.certkit.io/tools/ct-logs/) - Fast search for public SSL/TLS certificate records.
 *   [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center) - IP and Domain Reputation Center for real-time threat detection
 *   [CiteSeerX](http://citeseer.ist.psu.edu)
 *   [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
@@ -623,6 +624,7 @@ Thanks to our main contributors
 *   [TuriBot](https://t.me/TuriBot) — Resolves username from Telegram ID.
 *   [Unamer](https://telegram.me/unamer_bot) — Username ownership history.
 *   [username\_to\_id\_bot](https://t.me/username_to_id_bot) — Returns user/chat/channel/bot ID.
+*   [user-scanner](https://github.com/kaifcodec/user-scanner.git) — Check a username's presence across dev/social/gaming/creator site
 *   [UsInfoBot](https://t.me/usinfobot) — Resolves username from ID (inline).
 *   [WhoisDomBot](https://t.me/WhoisDomBot) — Whois lookup for domains/IPs + dig/trace.
 

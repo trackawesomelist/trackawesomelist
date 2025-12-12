@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Dec 12, 2025](/content/2025/12/12/README.md)
+
+### Speciality Search Engines
+
+*   [CertKit Certificate Search](https://www.certkit.io/tools/ct-logs/) - Fast search for public SSL/TLS certificate records.
+
+### Social Media Tools / Telegram
+
+*   [user-scanner](https://github.com/kaifcodec/user-scanner.git) — Check a username's presence across dev/social/gaming/creator site
+
 ## [Dec 11, 2025](/content/2025/12/11/README.md)
 
 ### Domain and IP Research / GitHub
