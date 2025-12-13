@@ -314,17 +314,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Swoof (⭐28)](https://github.com/StirlingMarketingGroup/swoof) - Ultra fast MySQL table importer that stages swaps through temporary tables and supports file/clipboard targets.
 
-#### [22. Awesome Zig](/content/zigcc/awesome-zig/README.md)
-
-##### Game Field / Zigged Project
-
-*   [darltrash/zcutenet](https://codeberg.org/darltrash/zcutenet) : A cute\_net.h binding and wrapper for Zig, for realtime networking.
-
-##### GUI / Zigged Project
-
-*   [rcalixte/libqt6zig (⭐148)](https://github.com/rcalixte/libqt6zig) : Qt 6 for Zig.
-
-#### [23. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [22. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Domain Specific Language / Declarative DSL Applications
 
@@ -335,7 +325,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [How large language models need symbolism](https://academic.oup.com/nsr/article/12/10/nwaf339/8237444) - ***National Science Review***, 2025. \[[All Versions](https://scholar.google.com/scholar?cluster=9866048591424428891)]. Advances in artificial intelligence (AI), particularly large language models (LLMs), have achieved remarkable success. This progress stems from ‘scaling laws’---performance improves with greater computation, data and model size. However, this paradigm has a crucial vulnerability: scaling laws are effective only when data are abundant. A foundational process for this is the human ability of ‘quotienting’: creating a compact symbolic space from a vast problem space, in a process akin to forming a mathematical quotient space via equivalence classes. The new strategy uses symbols as vessels for compressed human wisdom, creating maps that guide the powerful statistical intuition of LLMs, which is especially critical for tackling complex problems where usable data are, by nature, sparse. The next frontier for AI will not be conquered by scaling alone. The art of symbolization itself—the crafting of powerful abstractions—is therefore the central task ahead. If scaling laws have given models their powerful intuition, it is the art of the symbol that will provide the compass for genuine discovery.
 
-#### [24. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [23. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### [zush](https://github.com/shyndman/zush) 🦥 - Mid-Performance ZSH Configuration
 
@@ -357,31 +347,31 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [scog (⭐0)](https://github.com/Agentrifat/scog) - Scog is the Shell COmpletion Generator. This tool helps you easily manage and generate command completions for your shell environment.
 
-#### [25. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
+#### [24. Awesome Ironsworn](/content/Billiam/awesome-ironsworn/README.md)
 
 ##### Hacks and homebrew / Starforged
 
 *   [Legacy Iron](https://www.drivethrurpg.com/en/product/534886/legacy-iron-starforged-asset-pack?affiliate_id=844973) - Asset pack for Starforge, based on the original Ironsworn assets
 
-#### [26. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
+#### [25. Awesome Webaudio](/content/notthetup/awesome-webaudio/README.md)
 
 ##### Packages / Apps
 
 *   [Drumhaus](https://drumha.us/) – a browser-based drum machine with step sequencing, pattern variations, and groove editing.
 
-#### [27. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [26. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
 
 ##### Utilities / Clipboard Tools
 
 *   [ClipFlow (⭐2)](https://github.com/praneeth552/clipflow) - Free clipboard history manager with terminal-style navigation. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/praneeth552/clipflow) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-#### [28. Awesome Math](/content/rossant/awesome-math/README.md)
+#### [27. Awesome Math](/content/rossant/awesome-math/README.md)
 
 ##### Tools
 
 *   [Structural Engineering Tools (SEPCO Engineering) (⭐0)](https://github.com/sepcostructural/structural-engineering-tools) - Free online calculators for beam diagrams, Canadian steel section properties, and pressure conversions.
 
-#### [29. Awesome Polars](/content/ddotta/awesome-polars/README.md)
+#### [28. Awesome Polars](/content/ddotta/awesome-polars/README.md)
 
 ##### Polars plugins / Finance
 
@@ -391,49 +381,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [octopolars (⭐1)](https://github.com/lmmx/octopolars) - Pull, filter, and walk a GitHub user's repositories with Polars by [@lmmx](https://github.com/lmmx).
 
-#### [30. Awesome Go](/content/abordage/awesome-go/README.md)
-
-##### Machine Learning / Search and Analytic Databases
-
-*   [jbrukh/bayesian (⭐811)](https://github.com/jbrukh/bayesian) — Naive Bayesian Classification for Golang. ☆`811`
-
-##### Text Processing / Utility/Miscellaneous
-
-*   [Dynom/TySug (⭐19)](https://github.com/Dynom/TySug) — A project around helping to prevent typing typos. TySug (Typo Suggestions) suggests alternative words with respect to keyboard layouts ☆`19`
-
-#### [31. Awesome Mac](/content/abordage/awesome-mac/README.md)
-
-##### Utilities / Productivity
-
-*   [asmvik/skhd (⭐7.7k)](https://github.com/asmvik/skhd) — Simple hotkey daemon for macOS ☆`7,654`
-
-##### Utilities / Window Management
-
-*   [asmvik/yabai (⭐28k)](https://github.com/asmvik/yabai) — A tiling window manager for macOS based on binary space partitioning ☆`27,683`
-
-#### [32. Awesome Ai](/content/abordage/awesome-ai/README.md)
-
-##### Gemini / Laravel
-
-*   [automateyournetwork/GeminiCLI\_Slash\_Listen (⭐16)](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) — A /listen feature for Gemini CLI ☆`16`
-
-#### [33. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+#### [29. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ##### Frameworks
 
 *   [ADK-Rust (⭐10)](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust with model-agnostic design (Gemini, OpenAI, Anthropic), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
 
-#### [34. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Media / Cursorline
-
-*   [\~elisoli/nekovim](https://git.sr.ht/~elisoli/nekovim) - Flexible Discord rich presence.
-
-##### Command Line / Indent
-
-*   [nvim-mini/mini.nvim#mini.cmdline (⭐8.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md) - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
-
-#### [35. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+#### [30. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ##### Security and PKI
 
@@ -443,19 +397,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Helploom](https://helploom.com) - Customer support software that offers a live chat on the free forever plan. Simple, lightweight and beautiful. Setup is a simple copy-paste script. Built by a developer.
 
-#### [36. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [31. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Miscellaneous
 
 *   [OpenReader WebUI](https://openreader.richardr.dev/) - EPUB, PDF, DOCX, MD, and TXT file text to speech document reader. Read documents in realtime with high-quality TTS; or extract audiobooks. ([Demo](https://openreader.richardr.dev/), [Source Code (⭐240)](https://github.com/richardr1126/OpenReader-WebUI)) `MIT` `Docker`
 
-#### [37. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+#### [32. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
 
 ##### Software and Tools
 
 *   [Calcmatic](https://calcmatic.app) - Free profit calculator for Amazon FBA/FBM with full fee breakdown with graphs.
 
-#### [38. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+#### [33. Awesome Osint](/content/jivoi/awesome-osint/README.md)
 
 ##### Speciality Search Engines
 
@@ -469,12 +423,66 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Observatory⁩ enhances web security by analyzing compliance with best security practices.
 
-#### [39. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
+#### [34. Awesome Claude Code](/content/hesreallyhim/awesome-claude-code/README.md)
 
 ##### Contributing 🌻 / 🚀 **[Submit a new resource here!](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=recommend-resource.yml)**
 
 *   First and foremost, best efforts are made to ensure that any resource on this list is free of malware, bloatware, or other unwanted risks.
 *   Second, being a *curated* list, every entry is manually evaluated and "tested out" to see if it actually delivers value to Claude Code users. If you want an *un-curated* list, you can find many great resources [here](https://github.com/search?q=%22claude+code%22\&type=repositories\&s=stars\&o=desc).
+
+#### [35. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Media / Cursorline
+
+*   [\~elisoli/nekovim](https://git.sr.ht/~elisoli/nekovim) - Flexible Discord rich presence.
+
+##### Dependency Management / Quickfix
+
+*   [JesperLundberg/projektgunnar.nvim (⭐20)](https://github.com/JesperLundberg/projektgunnar.nvim) - C# dependency manager with support for handling references between projects and solution files.
+
+##### Command Line / Indent
+
+*   [nvim-mini/mini.nvim#mini.cmdline (⭐8.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md) - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
+
+#### [36. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+##### Game Field / Zigged Project
+
+*   [darltrash/zcutenet](https://codeberg.org/darltrash/zcutenet) : A cute\_net.h binding and wrapper for Zig, for realtime networking.
+
+##### Web Framework / Zigged Project
+
+*   [nurulhudaapon/zx (⭐79)](https://github.com/nurulhudaapon/zx) : A full-stack web framework for Zig.
+
+##### GUI / Zigged Project
+
+*   [rcalixte/libqt6zig (⭐148)](https://github.com/rcalixte/libqt6zig) : Qt 6 for Zig.
+
+#### [37. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### Machine Learning / Search and Analytic Databases
+
+*   [jbrukh/bayesian (⭐811)](https://github.com/jbrukh/bayesian) — Naive Bayesian Classification for Golang. ☆`811`
+
+##### Text Processing / Utility/Miscellaneous
+
+*   [Dynom/TySug (⭐19)](https://github.com/Dynom/TySug) — A project around helping to prevent typing typos. TySug (Typo Suggestions) suggests alternative words with respect to keyboard layouts ☆`19`
+
+#### [38. Awesome Mac](/content/abordage/awesome-mac/README.md)
+
+##### Utilities / Productivity
+
+*   [asmvik/skhd (⭐7.7k)](https://github.com/asmvik/skhd) — Simple hotkey daemon for macOS ☆`7,654`
+
+##### Utilities / Window Management
+
+*   [asmvik/yabai (⭐28k)](https://github.com/asmvik/yabai) — A tiling window manager for macOS based on binary space partitioning ☆`27,685`
+
+#### [39. Awesome Ai](/content/abordage/awesome-ai/README.md)
+
+##### Gemini / Laravel
+
+*   [automateyournetwork/GeminiCLI\_Slash\_Listen (⭐16)](https://github.com/automateyournetwork/GeminiCLI_Slash_Listen) — A /listen feature for Gemini CLI ☆`16`
 
 ---
 
@@ -1244,7 +1252,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md) - ([Source ⭐ 4K, 📝 23&#x2F;09&#x2F;15 ](https://github.com/uraimo/Awesome-Swift-Playgrounds)) - A List of Awesome Swift Playgrounds
 - [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 2K, 📝 11&#x2F;24 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
 - [Awesome Vala](/content/desiderantes/awesome-vala/README.md) - ([Source ⭐ 207, 📝 11&#x2F;24 ](https://github.com/desiderantes/awesome-vala)) - A curated list of Vala projects
-- [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source ⭐ 1.9K, 📝 12&#x2F;11 ](https://github.com/zigcc/awesome-zig)) - A collection of awesome projects in Zig. 
+- [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source ⭐ 1.9K, 📝 12&#x2F;13 ](https://github.com/zigcc/awesome-zig)) - A collection of awesome projects in Zig. 
 - [Go Recipes](/content/nikolaydubina/go-recipes/README.md) - ([Source ⭐ 4.4K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/nikolaydubina/go-recipes)) - 🦩 Tools for Go projects
 - [Js Must Watch](/content/bolshchikov/js-must-watch/README.md) - ([Source ⭐ 13K, 📝 22&#x2F;01&#x2F;20 ](https://github.com/bolshchikov/js-must-watch)) - Must-watch videos about javascript
 - [Jstips](/content/loverajoel/jstips/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;12&#x2F;07 ](https://github.com/loverajoel/jstips)) - This is about useful JS tips!

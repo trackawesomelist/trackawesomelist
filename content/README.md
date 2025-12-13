@@ -24,17 +24,27 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [ADK-Rust (⭐10)](https://github.com/zavora-ai/adk-rust) - Production-ready AI agent development kit for Rust with model-agnostic design (Gemini, OpenAI, Anthropic), multiple agent types (LLM, Graph, Workflow), MCP support, and built-in telemetry.
 
-#### [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [2. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+
+##### Software and Tools
+
+*   [Calcmatic](https://calcmatic.app) - Free profit calculator for Amazon FBA/FBM with full fee breakdown with graphs.
+
+#### [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Media / Cursorline
 
 *   [\~elisoli/nekovim](https://git.sr.ht/~elisoli/nekovim) - Flexible Discord rich presence.
 
-#### [3. Awesome Amazon Seller](/content/ScaleLeap/awesome-amazon-seller/README.md)
+##### Dependency Management / Quickfix
 
-##### Software and Tools
+*   [JesperLundberg/projektgunnar.nvim (⭐20)](https://github.com/JesperLundberg/projektgunnar.nvim) - C# dependency manager with support for handling references between projects and solution files.
 
-*   [Calcmatic](https://calcmatic.app) - Free profit calculator for Amazon FBA/FBM with full fee breakdown with graphs.
+#### [4. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+
+##### Web Framework / Zigged Project
+
+*   [nurulhudaapon/zx (⭐79)](https://github.com/nurulhudaapon/zx) : A full-stack web framework for Zig.
 
 ### [Dec 12, 2025](/content/2025/12/12/README.md)
 
@@ -161,7 +171,23 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Swoof (⭐28)](https://github.com/StirlingMarketingGroup/swoof) - Ultra fast MySQL table importer that stages swaps through temporary tables and supports file/clipboard targets.
 
-#### [9. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+#### [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+
+##### Domain Specific Language / Declarative DSL Applications
+
+*   [LegalLanguage: A Domain-Specific Language for Legal Contexts](https://link.springer.com/chapter/10.1007/978-3-030-37933-9_3) - ***EEWC'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=12637991160754186719)]. Nowadays legal ontologies have been used in the legal domain, however, being poorly explored in legislative and production processes. This paper analyses the adoption of legal ontologies as a tool to support these processes, in particular, related to activities span from the submission of bills and their subsequent authoring and ratification. This paper introduces the state of the art of legal (or normative) ontologies; and also discusses some application examples. The analysis of this state of the art allows us to identify some problems, namely regarding the activities involving the authoring and validation of laws that tend to be very human-intensive and error-prone. As a consequence of this analysis, the authors introduce the LegalLanguage, a language particularly suitable for the authoring and specification of law(s) in a more rigorous and systematic way, that would allow to keep track different types of intra and inter-laws relationships (e.g., structural, order or temporal relationships between articles or even between laws).
+
+#### [10. Awesome Osint](/content/jivoi/awesome-osint/README.md)
+
+##### Domain and IP Research / GitHub
+
+*   [Qualys SSL Check](https://www.ssllabs.com/ssltest/) - SSL Test configuration compliance.
+
+##### Other Tools / GitHub
+
+*   [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Observatory⁩ enhances web security by analyzing compliance with best security practices.
+
+#### [11. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ##### Game Field / Zigged Project
 
@@ -171,27 +197,11 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [rcalixte/libqt6zig (⭐148)](https://github.com/rcalixte/libqt6zig) : Qt 6 for Zig.
 
-#### [10. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
-
-##### Domain Specific Language / Declarative DSL Applications
-
-*   [LegalLanguage: A Domain-Specific Language for Legal Contexts](https://link.springer.com/chapter/10.1007/978-3-030-37933-9_3) - ***EEWC'19***, 2019. \[[All Versions](https://scholar.google.com/scholar?cluster=12637991160754186719)]. Nowadays legal ontologies have been used in the legal domain, however, being poorly explored in legislative and production processes. This paper analyses the adoption of legal ontologies as a tool to support these processes, in particular, related to activities span from the submission of bills and their subsequent authoring and ratification. This paper introduces the state of the art of legal (or normative) ontologies; and also discusses some application examples. The analysis of this state of the art allows us to identify some problems, namely regarding the activities involving the authoring and validation of laws that tend to be very human-intensive and error-prone. As a consequence of this analysis, the authors introduce the LegalLanguage, a language particularly suitable for the authoring and specification of law(s) in a more rigorous and systematic way, that would allow to keep track different types of intra and inter-laws relationships (e.g., structural, order or temporal relationships between articles or even between laws).
-
-#### [11. Awesome Go](/content/abordage/awesome-go/README.md)
+#### [12. Awesome Go](/content/abordage/awesome-go/README.md)
 
 ##### Text Processing / Utility/Miscellaneous
 
 *   [Dynom/TySug (⭐19)](https://github.com/Dynom/TySug) — A project around helping to prevent typing typos. TySug (Typo Suggestions) suggests alternative words with respect to keyboard layouts ☆`19`
-
-#### [12. Awesome Osint](/content/jivoi/awesome-osint/README.md)
-
-##### Domain and IP Research / GitHub
-
-*   [Qualys SSL Check](https://www.ssllabs.com/ssltest/) - SSL Test configuration compliance.
-
-##### Other Tools / GitHub
-
-*   [Mozilla HTTP Observatory](https://developer.mozilla.org/en-US/observatory) - Observatory⁩ enhances web security by analyzing compliance with best security practices.
 
 ---
 
@@ -961,7 +971,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Swift Playgrounds](/content/uraimo/Awesome-Swift-Playgrounds/README.md) - ([Source ⭐ 4K, 📝 23&#x2F;09&#x2F;15 ](https://github.com/uraimo/Awesome-Swift-Playgrounds)) - A List of Awesome Swift Playgrounds
 - [Awesome V](/content/vlang/awesome-v/README.md) - ([Source ⭐ 2K, 📝 11&#x2F;24 ](https://github.com/vlang/awesome-v)) - A curated list of awesome V frameworks, libraries, software and resources.
 - [Awesome Vala](/content/desiderantes/awesome-vala/README.md) - ([Source ⭐ 207, 📝 11&#x2F;24 ](https://github.com/desiderantes/awesome-vala)) - A curated list of Vala projects
-- [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source ⭐ 1.9K, 📝 12&#x2F;11 ](https://github.com/zigcc/awesome-zig)) - A collection of awesome projects in Zig. 
+- [Awesome Zig](/content/zigcc/awesome-zig/README.md) - ([Source ⭐ 1.9K, 📝 12&#x2F;13 ](https://github.com/zigcc/awesome-zig)) - A collection of awesome projects in Zig. 
 - [Go Recipes](/content/nikolaydubina/go-recipes/README.md) - ([Source ⭐ 4.4K, 📝 24&#x2F;07&#x2F;07 ](https://github.com/nikolaydubina/go-recipes)) - 🦩 Tools for Go projects
 - [Js Must Watch](/content/bolshchikov/js-must-watch/README.md) - ([Source ⭐ 13K, 📝 22&#x2F;01&#x2F;20 ](https://github.com/bolshchikov/js-must-watch)) - Must-watch videos about javascript
 - [Jstips](/content/loverajoel/jstips/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;12&#x2F;07 ](https://github.com/loverajoel/jstips)) - This is about useful JS tips!

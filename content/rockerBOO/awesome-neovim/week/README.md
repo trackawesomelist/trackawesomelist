@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [\~elisoli/nekovim](https://git.sr.ht/~elisoli/nekovim) - Flexible Discord rich presence.
 
+### Dependency Management / Quickfix
+
+*   [JesperLundberg/projektgunnar.nvim (⭐20)](https://github.com/JesperLundberg/projektgunnar.nvim) - C# dependency manager with support for handling references between projects and solution files.
+
 ### Command Line / Indent
 
 *   [nvim-mini/mini.nvim#mini.cmdline (⭐8.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-cmdline.md) - Module of `mini.nvim` for command line tweaks. Adds autocompletion with customizable delay, autocorrection for words with fixed candidates, and autopeek command range in a floating window.
@@ -84,10 +88,6 @@ Collections of awesome neovim plugins.
 
 *   [necrom4/convy.nvim (⭐19)](https://github.com/necrom4/convy.nvim) - Easily convert strings between various formats.
 *   [wsdjeg/ctags.nvim (⭐7)](https://github.com/wsdjeg/ctags.nvim) - Generate tags files and update tags option automatically.
-
-### Dependency Management / Quickfix
-
-*   [JesperLundberg/projektgunnar.nvim](https://github.com/JesperLundberg/projektgunnar) - C# dependency manager with support for handling references between projects and solution files.
 
 ### Editing Support / Comment
 
@@ -1858,7 +1858,6 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [pluffie/md-babel.nvim](https://codeberg.org/pluffie/md-babel.nvim) - Run code chunks from Markdown files, like `org-babel`.
 *   [mistricky/codesnap.nvim (⭐896)](https://github.com/mistricky/codesnap.nvim) - Snapshot plugin with rich features that can make pretty code snapshots.
 
 ### Editing Support / Scrollbar

@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [\~elisoli/nekovim](https://git.sr.ht/~elisoli/nekovim) - Flexible Discord rich presence.
 
+### Dependency Management / Quickfix
+
+*   [JesperLundberg/projektgunnar.nvim (⭐20)](https://github.com/JesperLundberg/projektgunnar.nvim) - C# dependency manager with support for handling references between projects and solution files.
+
 ## [Dec 08, 2025](/content/2025/12/08/README.md)
 
 ### Command Line / Indent
@@ -83,12 +87,6 @@ Collections of awesome neovim plugins.
 ### Utility / Cursorline
 
 *   [mcauley-penney/visual-whitespace.nvim (⭐406)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
-
-## [Nov 22, 2025](/content/2025/11/22/README.md)
-
-### Dependency Management / Quickfix
-
-*   [JesperLundberg/projektgunnar.nvim](https://github.com/JesperLundberg/projektgunnar) - C# dependency manager with support for handling references between projects and solution files.
 
 ## [Nov 20, 2025](/content/2025/11/20/README.md)
 
@@ -2159,10 +2157,6 @@ Collections of awesome neovim plugins.
 *   [mistricky/codesnap.nvim (⭐896)](https://github.com/mistricky/codesnap.nvim) - Snapshot plugin with rich features that can make pretty code snapshots.
 
 ## [Apr 05, 2024](/content/2024/04/05/README.md)
-
-### Utility / Cursorline
-
-*   [pluffie/md-babel.nvim](https://codeberg.org/pluffie/md-babel.nvim) - Run code chunks from Markdown files, like `org-babel`.
 
 ### Editing Support / Scrollbar
 

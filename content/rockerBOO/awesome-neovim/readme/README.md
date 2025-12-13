@@ -1051,7 +1051,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [Zeioth/distroupdate.nvim (⭐10)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the Git repository of your config.
 *   [SUSTech-data/neopyter (⭐145)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
 *   [terje/simctl.nvim (⭐39)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
-*   [pluffie/md-babel.nvim](https://codeberg.org/pluffie/md-babel.nvim) - Run code chunks from Markdown files, like `org-babel`.
 *   [mistricky/codesnap.nvim (⭐896)](https://github.com/mistricky/codesnap.nvim) - Snapshot plugin with rich features that can make pretty code snapshots.
 *   [AlejandroSuero/freeze-code.nvim (⭐31)](https://github.com/AlejandroSuero/freeze-code.nvim) - Code screenshot plugin that makes use of [freeze (⭐4.2k)](https://github.com/charmbracelet/freeze) inside the editor, it lets you **copy** the generated image to **paste it anywhere**.
 *   [ysmb-wtsg/in-and-out.nvim (⭐83)](https://github.com/ysmb-wtsg/in-and-out.nvim) - Quick navigation in and out of surrounding characters.
@@ -1313,7 +1312,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [Saecki/crates.nvim (⭐1.1k)](https://github.com/Saecki/crates.nvim) - Rust dependency management for `Cargo.toml`.
 *   [piersolenski/import.nvim (⭐261)](https://github.com/piersolenski/import.nvim) - Import modules faster based on what you've already imported in your project.
 *   [Silletr/LazyDeveloperHelper (⭐9)](https://github.com/Silletr/LazyDeveloperHelper) - Python dependencies manager, with auto-adding to your `requirements.txt` file.
-*   [JesperLundberg/projektgunnar.nvim](https://github.com/JesperLundberg/projektgunnar) - C# dependency manager with support for handling references between projects and solution files.
+*   [JesperLundberg/projektgunnar.nvim (⭐20)](https://github.com/JesperLundberg/projektgunnar.nvim) - C# dependency manager with support for handling references between projects and solution files.
 
 <!--lint disable double-link -->
 

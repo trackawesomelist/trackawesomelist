@@ -6,6 +6,12 @@ A collection of awesome projects in Zig.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Dec 13, 2025](/content/2025/12/13/README.md)
+
+### Web Framework / Zigged Project
+
+*   [nurulhudaapon/zx (⭐79)](https://github.com/nurulhudaapon/zx) : A full-stack web framework for Zig.
+
 ## [Dec 11, 2025](/content/2025/12/11/README.md)
 
 ### Game Field / Zigged Project

@@ -12,6 +12,10 @@ A collection of awesome projects in Zig.
 
 *   [darltrash/zcutenet](https://codeberg.org/darltrash/zcutenet) : A cute\_net.h binding and wrapper for Zig, for realtime networking.
 
+### Web Framework / Zigged Project
+
+*   [nurulhudaapon/zx (⭐79)](https://github.com/nurulhudaapon/zx) : A full-stack web framework for Zig.
+
 ### GUI / Zigged Project
 
 *   [rcalixte/libqt6zig (⭐148)](https://github.com/rcalixte/libqt6zig) : Qt 6 for Zig.

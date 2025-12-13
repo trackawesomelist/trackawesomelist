@@ -62,6 +62,10 @@
 
 *   [darltrash/zcutenet](https://codeberg.org/darltrash/zcutenet) : A cute\_net.h binding and wrapper for Zig, for realtime networking.
 
+### Web Framework / Zigged Project
+
+*   [nurulhudaapon/zx (⭐79)](https://github.com/nurulhudaapon/zx) : A full-stack web framework for Zig.
+
 ### GUI / Zigged Project
 
 *   [rcalixte/libqt6zig (⭐148)](https://github.com/rcalixte/libqt6zig) : Qt 6 for Zig.
@@ -127,7 +131,7 @@
 
 ### Utilities / Window Management
 
-*   [asmvik/yabai (⭐28k)](https://github.com/asmvik/yabai) — A tiling window manager for macOS based on binary space partitioning ☆`27,683`
+*   [asmvik/yabai (⭐28k)](https://github.com/asmvik/yabai) — A tiling window manager for macOS based on binary space partitioning ☆`27,685`
 
 ## [17. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
@@ -348,6 +352,10 @@
 ### Media / Cursorline
 
 *   [\~elisoli/nekovim](https://git.sr.ht/~elisoli/nekovim) - Flexible Discord rich presence.
+
+### Dependency Management / Quickfix
+
+*   [JesperLundberg/projektgunnar.nvim (⭐20)](https://github.com/JesperLundberg/projektgunnar.nvim) - C# dependency manager with support for handling references between projects and solution files.
 
 ### Command Line / Indent
 
