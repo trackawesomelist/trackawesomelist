@@ -36,22 +36,36 @@
 
 *   [Asigna](https://asigna.io) - Multisig Wallet for Bitcoin, Ordinals, BRC20s, and Stacks.
 *   [Leather Wallet](https://leather.io/) - Open Source wallet for connecting to Bitcoin and Stacks web applications. Also for mobile.
+*   [OKX Web3 Wallet](https://web3.okx.com/download) - Multi-chain wallet that also supports Stacks.
 *   [Xverse Wallet](https://www.xverse.app) - Mobile wallet application and browser extension for managing Bitcoin, STX and stacking (partly open source).
+*   [WalletConnect](https://docs.reown.com/advanced/multichain/rpc-reference/stacks-rpc) - Documentation how to use Wallet Connect (Reown) with Stacks.
 
 ### Apps / Stacks Web Applications
 
 *   [STXER](https://stxer.xyz/) - An explorer, debugger and simulator for Stacks transactions.
 *   [Blocksurvey](https://blocksurvey.io) - AI-driven survey platform with focus on data ownership and privacy.
+*   [AIBTC](https://aibtc.com/) - A coordination network of AI agents working towards measurable tasks.
+*   [FatStx](https://fatstx.github.io/) - An annual transaction viewer for e.g. tax declaration.
+
+### Apps / Blockchain Name System
+
+*   [BNS V2](https://www.bnsv2.com/) - Hub for all Blockchain namespaces on Stacks, with transaction history and analytics.
 
 ### Apps / DeFi
 
 *   [FakFun](https://fak.fun) - Platform for exchange, launch, wrapping for memecoins build on Bitcoin.
+*   [Arkadiko Protocol](https://arkadiko.finance) - Stable coin (USDA) based on self-repaying loans.
+*   [Granite](https://granite.world/) - A Bitcoin liquidity protocol that provides the non-custodial, secure, and decentralized way to borrow against Bitcoin.
+*   [BSD](https://www.bsd.money/) - A synthetic, digital dollar backed by Bitcoin using over-collateralized lending model.
+*   [USDh](https://app.hermetica.fi) - A Bitcoin-baked, yield-bearing synthetic dollar using short perpetual futures position and institutional-grade custodians.
+*   [Stacks Pulse](https://www.stackspulse.com/) - Real-time on-chain Stats for Stacks DeFi.
 
 ### Apps / Stacking Apps
 
 *   [Stacking on Leather](https://app.leather.io/stacking) - App to stack Stacks token directly or with a pool.
+*   [Stacking Tracker](https://stacking-tracker.com) - Overview of Stacking and historical data [Source code (⭐2)](https://github.com/StackingDAO/stacking-tracker).
 
-### Clarity Resources / Libraries
+### Clarity Resources / Libraries & Protocols
 
 *   [blaze](https://gist.github.com/r0zar/414e91d3e6769644981b4918141a1708) - A protocol for signature-based authorization.
 
@@ -62,10 +76,18 @@
 ### App Development / Client Libraries
 
 *   [Stacks.js (⭐968)](https://github.com/stx-labs/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
+*   [go-stacks (⭐2)](https://github.com/cbadawi/go-stacks) - Golang SDK for interacting with the stacks blockchain.
+*   [x402 Stacks](https://www.x402stacks.xyz) - A protocol and SDK for building payment-gated APIs on the Stacks Blockchain.
+*   [Stacks Connect (⭐84)](https://github.com/stx-labs/connect) - A library for connecting apps with Stacks accounts.
+*   [Sign-In With Stacks (⭐1)](https://github.com/pradel/sign-in-with-stacks/) - A library for creating and verifying Sign-In with Stacks messages.
 
 ### App Development / CLI
 
 *   [@stacks/cli (⭐968)](https://github.com/stx-labs/stacks.js/tree/main/packages/cli) - Command line interface for interacting with auth, storage, and transactions.
+
+### App Development / Indexing and Querying APIs
+
+*   [Stacks Monitoring (⭐1)](https://github.com/alexlmiller/stacks-monitoring) - Grafana Dashboard for Stacks nodes.
 
 ### Learning Resources / Written Tutorials
 

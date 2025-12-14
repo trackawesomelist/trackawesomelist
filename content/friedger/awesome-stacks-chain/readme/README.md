@@ -32,7 +32,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Clarity Resources](#clarity-resources)
     *   [Developer Tools](#developer-tools)
     *   [Example Contracts](#example-contracts)
-    *   [Libraries](#libraries)
+    *   [Libraries & Protocols](#libraries--protocols)
     *   [Contracts](#contracts)
     *   [Non-Fungible Tokens](#non-fungible-tokens)
     *   [Fungible Tokens](#fungible-tokens)
@@ -57,7 +57,9 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 *   [Asigna](https://asigna.io) - Multisig Wallet for Bitcoin, Ordinals, BRC20s, and Stacks.
 *   [Leather Wallet](https://leather.io/) - Open Source wallet for connecting to Bitcoin and Stacks web applications. Also for mobile.
+*   [OKX Web3 Wallet](https://web3.okx.com/download) - Multi-chain wallet that also supports Stacks.
 *   [Xverse Wallet](https://www.xverse.app) - Mobile wallet application and browser extension for managing Bitcoin, STX and stacking (partly open source).
+*   [WalletConnect](https://docs.reown.com/advanced/multichain/rpc-reference/stacks-rpc) - Documentation how to use Wallet Connect (Reown) with Stacks.
 
 ### Stacks Web Applications
 
@@ -66,11 +68,12 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Send Many](https://sendstx.com) - An application to send STX and other tokens to many recipients in one transaction.
 *   [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source (⭐6)](https://github.com/friedger/speed-spend)).
 *   [Blocksurvey](https://blocksurvey.io) - AI-driven survey platform with focus on data ownership and privacy.
-*   [MultiSafe (⭐29)](https://github.com/Trust-Machines/multisafe) - A shared crypto vault for managing Stacks (STX) and Bitcoin (BTC).
-*   [Charisma (⭐5)](https://github.com/pointblankdev/dungeon-master) - Community-run memecoin DAO on the Stacks Blockchain.
+*   [AIBTC](https://aibtc.com/) - A coordination network of AI agents working towards measurable tasks.
+*   [FatStx](https://fatstx.github.io/) - An annual transaction viewer for e.g. tax declaration.
 
 ### Blockchain Name System
 
+*   [BNS V2](https://www.bnsv2.com/) - Hub for all Blockchain namespaces on Stacks, with transaction history and analytics.
 *   [btc.us](https://btc.us) - An application for .btc names.
 *   [Owl.link](https://owl.link) - An application to create linking page for BNS names.
 
@@ -81,10 +84,12 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Zest Protocol](https://www.zestprotocol.com/) - Decentralized borrowing and lending on Bitcoin and Stacks.
 *   [FakFun](https://fak.fun) - Platform for exchange, launch, wrapping for memecoins build on Bitcoin.
 *   [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
-*   [Arkadiko Protocol (⭐73)](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
-*   [STX20 (⭐27)](https://github.com/fess-v/stx20-standard) - Protocol to create and share digital artifacts on Stacks.
+*   [Arkadiko Protocol](https://arkadiko.finance) - Stable coin (USDA) based on self-repaying loans.
+*   [Granite](https://granite.world/) - A Bitcoin liquidity protocol that provides the non-custodial, secure, and decentralized way to borrow against Bitcoin.
+*   [BSD](https://www.bsd.money/) - A synthetic, digital dollar backed by Bitcoin using over-collateralized lending model.
+*   [USDh](https://app.hermetica.fi) - A Bitcoin-baked, yield-bearing synthetic dollar using short perpetual futures position and institutional-grade custodians.
 *   [STXTools](https://stxtools.io/) - Charts, transactions, price alerts for DeFi on Stacks.
-*   [Stacks Pulse (⭐14)](https://github.com/pradel/stackspulse) - Real-time on-chain Stats for Stacks DeFi.
+*   [Stacks Pulse](https://www.stackspulse.com/) - Real-time on-chain Stats for Stacks DeFi.
 *   [Signal21](https://signal21.io/) - On-chain analysis for Bitcoin L1, L2 and Dapps.
 *   [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol (discontinued).
 *   [CityCoins](https://minecitycoins.com) - Tokens for cities (winding down).
@@ -102,6 +107,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Xverse pool](https://pool.xverse.app/) - Stacking pool built into Xverse mobile app.
 *   [Stacking DAO](https://www.stackingdao.com/) - Liquid stacking on Stacks.
 *   [Lisa](https://app.lisalab.io) - Liquid stacking on Stacks using rebasing.
+*   [Stacking Tracker](https://stacking-tracker.com) - Overview of Stacking and historical data [Source code (⭐2)](https://github.com/StackingDAO/stacking-tracker).
 
 ## Clarity Resources
 
@@ -119,11 +125,12 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Example Contracts (⭐13)](https://github.com/hirosystems/clarity-examples) - A collection of sample smart contracts to serve as a starting point for writing your own.
 *   [Audited Example Smart Contracts (⭐82)](https://github.com/clarity-lang/book/tree/main/projects) - Another collection of smart contract examples, these have been audited for security.
 
-### Libraries
+### Libraries & Protocols
 
 *   [blaze](https://gist.github.com/r0zar/414e91d3e6769644981b4918141a1708) - A protocol for signature-based authorization.
 *   [uint256 (⭐9)](https://github.com/KStasi/clarity-uint256-lib) - A library for converting values into 256-bits.
 *   [clarity-bitcoin (⭐20)](https://github.com/friedger/clarity-bitcoin) - A library to verify Bitcoin transactions.
+*   [STX20 (⭐27)](https://github.com/fess-v/stx20-standard) - Protocol to create and share digital artifacts on Stacks.
 
 ### Contracts
 
@@ -138,6 +145,8 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [DualX (⭐3)](https://github.com/westridgeblockchain/dualX) - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
 *   [ExecutorDAO (⭐52)](https://github.com/MarvinJanssen/executor-dao) - A Clarity framework for building DAO functionality into your smart contracts.
 *   [Digital Will (⭐1)](https://github.com/LoRdSoban/Cryptonomers) - Conditional fund transfers.
+*   [MultiSafe (⭐29)](https://github.com/Trust-Machines/multisafe) - A shared crypto vault for managing Stacks (STX) and Bitcoin (BTC).
+*   [Charisma (⭐5)](https://github.com/pointblankdev/dungeon-master) - Community-run memecoin DAO on the Stacks Blockchain.
 
 ### Non-Fungible Tokens
 
@@ -160,6 +169,10 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Stacks.js (⭐968)](https://github.com/stx-labs/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks Blockchain.
 *   [stacks.rs (⭐8)](https://github.com/52/stacks.rs) - A Rust toolkit to interact with the Stacks Blockchain.
 *   [stacks.py (⭐4)](https://github.com/rohitverma007/stackspy) - Python Library to interact with the Stacks Blockchain.
+*   [go-stacks (⭐2)](https://github.com/cbadawi/go-stacks) - Golang SDK for interacting with the stacks blockchain.
+*   [x402 Stacks](https://www.x402stacks.xyz) - A protocol and SDK for building payment-gated APIs on the Stacks Blockchain.
+*   [Stacks Connect (⭐84)](https://github.com/stx-labs/connect) - A library for connecting apps with Stacks accounts.
+*   [Sign-In With Stacks (⭐1)](https://github.com/pradel/sign-in-with-stacks/) - A library for creating and verifying Sign-In with Stacks messages.
 
 ### CLI
 
@@ -172,6 +185,7 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 *   [Self-Hosted Render (⭐10)](https://github.com/stacksfoundation/render-stacks) - One-click deploy tool to self-host a Stacks node on Render.
 *   [Self-Hosted Digital Ocean](https://marketplace.digitalocean.com/apps/stacks-blockchain) - Digital Ocean droplet for running a Stacks node.
 *   [Self-Hosted Docker (⭐34)](https://github.com/stacks-network/stacks-blockchain-docker) - Tool to run a self-hosted Stacks node with Docker.
+*   [Stacks Monitoring (⭐1)](https://github.com/alexlmiller/stacks-monitoring) - Grafana Dashboard for Stacks nodes.
 
 ## Learning Resources
 
