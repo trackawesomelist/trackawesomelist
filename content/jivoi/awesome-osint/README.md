@@ -6,15 +6,25 @@
 
 [ Daily / [Weekly](/content/jivoi/awesome-osint/week/README.md) / [Overview](/content/jivoi/awesome-osint/readme/README.md) ]
 
+## [Dec 14, 2025](/content/2025/12/14/README.md)
+
+### Username Check / GitHub
+
+*   [user-scanner](https://github.com/kaifcodec/user-scanner.git) — Check a username's presence across dev/social/gaming/creator site
+
+### Geospatial Research and Mapping Tools / GitHub
+
+*   [GeoGuessr.ai](https://geoguessr.ai) - AI-powered geolocation tool for identifying locations from images.
+
+### Other Tools / GitHub
+
+*   [ArkhamMirror (⭐3)](https://github.com/mantisfury/ArkhamMirror) - Local-first AI document intelligence with offline RAG, contradiction detection, knowledge graphs, and vision AI table extraction.
+
 ## [Dec 12, 2025](/content/2025/12/12/README.md)
 
 ### Speciality Search Engines
 
 *   [CertKit Certificate Search](https://www.certkit.io/tools/ct-logs/) - Fast search for public SSL/TLS certificate records.
-
-### Social Media Tools / Telegram
-
-*   [user-scanner](https://github.com/kaifcodec/user-scanner.git) — Check a username's presence across dev/social/gaming/creator site
 
 ## [Dec 11, 2025](/content/2025/12/11/README.md)
 

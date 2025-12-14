@@ -12,6 +12,14 @@ Collections of awesome neovim plugins.
 
 *   [\~elisoli/nekovim](https://git.sr.ht/~elisoli/nekovim) - Flexible Discord rich presence.
 
+### Utility / Cursorline
+
+*   [leo-alvarenga/quoth.nvim (⭐3)](https://github.com/leo-alvarenga/quoth.nvim) - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
+
+### Debugging / CSV Files
+
+*   [fschaal/azfunc.nvim (⭐3)](https://github.com/fschaal/azfunc.nvim) - Seamlessly debug Azure Functions with automatic DAP integration.
+
 ### Dependency Management / Quickfix
 
 *   [JesperLundberg/projektgunnar.nvim (⭐20)](https://github.com/JesperLundberg/projektgunnar.nvim) - C# dependency manager with support for handling references between projects and solution files.
@@ -50,7 +58,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Colorscheme Switchers
 
-*   [itsfernn/auto-gnome-theme.nvim (⭐7)](https://github.com/itsfernn/auto-gnome-theme.nvim) - Fast colorscheme switcher following GNOME system's light/dark mode (based on `gsetting monitor`).
+*   [itsfernn/auto-gnome-theme.nvim (⭐12)](https://github.com/itsfernn/auto-gnome-theme.nvim) - Fast colorscheme switcher following GNOME system's light/dark mode (based on `gsetting monitor`).
 
 ### Media / Cursorline
 
@@ -101,7 +109,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [Zeioth/markmap.nvim (⭐209)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
+*   [Zeioth/markmap.nvim (⭐211)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 *   [tttol/md-outline.nvim (⭐4)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 
 ### Language / Assembly
@@ -123,7 +131,7 @@ Collections of awesome neovim plugins.
 
 ### Editing Support / Scrollbar
 
-*   [qwavies/smart-backspace.nvim (⭐19)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
+*   [qwavies/smart-backspace.nvim (⭐20)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
 *   [ckolkey/ts-node-action (⭐372)](https://github.com/CKolkey/ts-node-action) - A framework for executing functional transformations on Tree-sitter nodes.
 
 ### Split and Window / Tmux
@@ -2292,7 +2300,7 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
 *   [Tsuzat/NeoSolarized.nvim (⭐203)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
-*   [calind/selenized.nvim (⭐28)](https://github.com/calind/selenized.nvim) - Lua port of [selenized (⭐873)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
+*   [calind/selenized.nvim (⭐28)](https://github.com/calind/selenized.nvim) - Lua port of [selenized (⭐874)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
 
 ### Split and Window / Indent
 

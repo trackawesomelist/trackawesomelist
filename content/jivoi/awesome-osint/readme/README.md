@@ -624,7 +624,6 @@ Thanks to our main contributors
 *   [TuriBot](https://t.me/TuriBot) — Resolves username from Telegram ID.
 *   [Unamer](https://telegram.me/unamer_bot) — Username ownership history.
 *   [username\_to\_id\_bot](https://t.me/username_to_id_bot) — Returns user/chat/channel/bot ID.
-*   [user-scanner](https://github.com/kaifcodec/user-scanner.git) — Check a username's presence across dev/social/gaming/creator site
 *   [UsInfoBot](https://t.me/usinfobot) — Resolves username from ID (inline).
 *   [WhoisDomBot](https://t.me/WhoisDomBot) — Whois lookup for domains/IPs + dig/trace.
 
@@ -673,6 +672,7 @@ Thanks to our main contributors
 *   [SherlockEye](https://sherlockeye.io/) - Search for publicly available information connected to a username, uncovering associated profiles and activities across the web.
 *   [Snoop (⭐3.5k)](https://github.com/snooppr/snoop/blob/master/README.en.md) - Search for a nickname on the web (OSINT world)
 *   [Social Analyzer (⭐20k)](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+*   [user-scanner](https://github.com/kaifcodec/user-scanner.git) — Check a username's presence across dev/social/gaming/creator site
 *   [User Search](http://www.usersearch.org) - Find someone by username, email, phone number or picture across Social Networks, Dating Sites, Forums, Crypto Forums, Chat Sites and Blogs, 3000+ sites Supported!
 *   [User Searcher](https://www.user-searcher.com) - User-Searcher is a powerful and free tool to help you search username in 2000+ websites.
 *   [WhatsMyName](https://whatsmyname.app/) - check for usernames across many different platforms.
@@ -1145,6 +1145,7 @@ Thanks to our main contributors
 *   [Flash Earth](http://www.flashearth.com)
 *   [GeoGig](http://geogig.org)
 *   [GeoInfer](https://geoinfer.com) - Image geolocation tool, no EXIF data required.
+*   [GeoGuessr.ai](https://geoguessr.ai) - AI-powered geolocation tool for identifying locations from images.
 *   [GeoNames](http://www.geonames.org)
 *   [Google Earth Pro](https://www.google.com/intl/en/earth/versions/#earth-pro)
 *   [Google Earth](http://www.google.com/earth)
@@ -1583,6 +1584,7 @@ Thanks to our main contributors
 ## [↑](#-table-of-contents) Other Tools
 
 *   [aadinternals](https://aadinternals.com/osint) - Provides tools and insights for advanced analysis and security testing of Azure Active Directory (AAD) and Microsoft 365.
+*   [ArkhamMirror (⭐3)](https://github.com/mantisfury/ArkhamMirror) - Local-first AI document intelligence with offline RAG, contradiction detection, knowledge graphs, and vision AI table extraction.
 *   [Barcode Reader](http://online-barcode-reader.inliteresearch.com) - Decode barcodes in C#, VB, Java, C\C++, Delphi, PHP and other languages.
 *   [BeVigil-CLI (⭐133)](https://github.com/Bevigil/BeVigil-OSINT-CLI) - A unified command line interface and python library for using BeVigil OSINT API to search for assets such as subdomains, URLs, applications indexed from mobile applications.
 *   [Cyberbro (⭐478)](https://github.com/stanfrbd/cyberbro) - A self-hosted application, available as a Dockerized, for effortless searching and reputation checking of observables. Extracts IoCs from raw input and check their reputation using multiple services.
