@@ -6,6 +6,13 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ [Daily](/content/CodyReichert/awesome-cl/README.md) / Weekly / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
+
+### REPLs / Third-party APIs
+
+*   [icl (⭐45)](https://github.com/atgreen/icl) - an enhanced REPL for the terminal. MIT.
+    *   based on Slynk: shares many features with Slime.
+
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
 ### JSON
@@ -775,6 +782,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 *   [cl-repl (⭐33)](https://github.com/lisp-maintainers/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [GPL3](http://www.gnu.org/copyleft/gpl.html).
     *   binary releases: simply download a binary (Ubuntu, OSX, Windows) and run it.
     *   [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
+    *   compared to icl: has an interactive debugger, has a `!` shell shortcut, has an `%edit` command, has classic readline-based autocompletion (icl has a drop-down), not based on Slynk, can't connect to a running Lisp image.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
@@ -1252,6 +1260,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   [SBCL on Chocolatey for Windows](https://community.chocolatey.org/packages/sbcl) (unofficial)
     *   \[WIP, 2021] [Static Executables with SBCL](https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html).
     *   [SBCL Windows builds supporting Windows 7+ (⭐6)](https://github.com/lockie/sbcl-w7), packaged into NSIS installer and updated monthly (unofficial)
+    *   *tip: to enhance the default terminal experience of SBCL, see also `icl` or `cl-repl` in the Editors section below.*
 
 ### Changing the syntax
 

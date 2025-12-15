@@ -6,6 +6,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 [ [Daily](/content/ziadoz/awesome-php/README.md) / Weekly / [Overview](/content/ziadoz/awesome-php/readme/README.md) ]
 
+## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
+
+### Table of Contents / Markup and CSS
+
+*   [Djot (⭐12)](https://github.com/php-collective/djot-php) - A PHP parser for [Djot](https://djot.net/), a modern light markup language (successor of Markdown).
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Table of Contents / Framework Extras
@@ -16,7 +22,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Content Management Systems (CMS)
 
-*   [OpenMage (⭐912)](https://github.com/OpenMage/magento-lts) - Fork of EoL Magento 1 e-commerce platform.
+*   [OpenMage (⭐913)](https://github.com/OpenMage/magento-lts) - Fork of EoL Magento 1 e-commerce platform.
 
 ## [Apr 14 - Apr 20, 2025](/content/2025/15/README.md)
 
@@ -54,7 +60,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Date and Time
 
-*   [CalendR (⭐463)](https://github.com/yohang/CalendR) - A calendar management library.
+*   [CalendR (⭐464)](https://github.com/yohang/CalendR) - A calendar management library.
 
 ### Table of Contents / Strings
 
@@ -118,7 +124,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / E-commerce
 
-*   [Brick Money (⭐1.8k)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
+*   [Brick Money (⭐1.9k)](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 
 ### Table of Contents / Numbers
 
@@ -142,7 +148,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Code Quality
 
-*   [Laravel Pint (⭐3k)](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
+*   [Laravel Pint (⭐3.1k)](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
 
 ### Table of Contents / Event
 
@@ -150,12 +156,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Filtering, Sanitizing and Validation
 
-*   [Symfony HTML Sanitizer (⭐272)](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
-*   [Valinor (⭐1.4k)](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
+*   [Symfony HTML Sanitizer (⭐273)](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
+*   [Valinor (⭐1.5k)](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
 
 ### Configuration / Miscellaneous
 
-*   [Laravel Serializable Closure (⭐593)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
+*   [Laravel Serializable Closure (⭐594)](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 
 ### Configuration / PHP Installation
 
@@ -169,8 +175,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / LLMs
 
-*   [Instructor for PHP (⭐294)](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
-*   [OpenAI Client (⭐5.6k)](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
+*   [Instructor for PHP (⭐297)](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
+*   [OpenAI Client (⭐5.7k)](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 *   [OpenAI Client for Laravel (⭐3.6k)](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 *   [PHP Mistral AI SDK (⭐15)](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
 
@@ -222,7 +228,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Security
 
-*   [Secure Headers (⭐538)](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
+*   [Secure Headers (⭐545)](https://github.com/BePsvPT/secure-headers) - A package that adds security related headers to HTTP response.
 
 ### Table of Contents / Code Analysis
 
@@ -230,23 +236,23 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / E-commerce
 
-*   [Shopsys Framework (⭐344)](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
+*   [Shopsys Framework (⭐347)](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
 
 ### Table of Contents / Strings
 
-*   [Hyphenation (⭐52)](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm
+*   [Hyphenation (⭐53)](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm
 
 ### Configuration / Miscellaneous
 
-*   [Ganesha (⭐644)](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
+*   [Ganesha (⭐646)](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 
 ## [Mar 04 - Mar 10, 2024](/content/2024/10/README.md)
 
 ### Table of Contents / Security
 
 *   [OWASP](https://owasp.org/) - Explore the world of cyber security.
-*   [Roave Security Advisories (⭐2.8k)](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
-*   [Zap (⭐14k)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
+*   [Roave Security Advisories (⭐2.9k)](https://github.com/Roave/SecurityAdvisories) - This package ensures that your application doesn't have installed dependencies with known security vulnerabilities.
+*   [Zap (⭐15k)](https://github.com/zaproxy/zaproxy) - An integrated penetration testing tool for web applications.
 
 ## [Feb 26 - Mar 03, 2024](/content/2024/9/README.md)
 
@@ -282,7 +288,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Event
 
-*   [Elephant.io (⭐132)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
+*   [Elephant.io (⭐133)](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 
 ### Configuration / Development Environment
 
@@ -305,7 +311,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Testing
 
-*   [Nette Tester (⭐475)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
+*   [Nette Tester (⭐478)](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 
 ### Table of Contents / Code Analysis
 
@@ -335,7 +341,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / API
 
-*   [PackageGenerator (⭐434)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
+*   [PackageGenerator (⭐435)](https://github.com/WsdlToPhp/PackageGenerator) - Package Generator generates a PHP SDK from any WSDL.
 
 ## [Jan 01 - Jan 07, 2024](/content/2024/1/README.md)
 
@@ -379,15 +385,15 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / PDF
 
 *   [Browsershot (⭐5.1k)](https://github.com/spatie/browsershot) - Convert HTML to an image, PDF or string.
-*   [Gotenberg (⭐332)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
+*   [Gotenberg (⭐337)](https://github.com/gotenberg/gotenberg-php) - A PHP client for interacting with Gotenberg.
 
 ### Table of Contents / Office
 
-*   [OpenSpout (⭐1k)](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
+*   [OpenSpout (⭐1.1k)](https://github.com/openspout/openspout) - A community driven fork of `box/spout`, a PHP library to read and write spreadsheet files (CSV, XLSX and ODS), in a fast and scalable way.
 
 ### Table of Contents / NoSQL
 
-*   [MongoDB (⭐912)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
+*   [MongoDB (⭐916)](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP Driver.
 
 ### Table of Contents / Authentication and Authorization
 
@@ -417,7 +423,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Strings
 
-*   [Portable ASCII (⭐570)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
+*   [Portable ASCII (⭐569)](https://github.com/voku/portable-ascii) - A library to convert strings to ASCII.
 
 ## [Jun 27 - Jul 03, 2022](/content/2022/26/README.md)
 
@@ -427,7 +433,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Testing
 
-*   [Foundry (⭐758)](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
+*   [Foundry (⭐761)](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
 
 ### Table of Contents / Security
 
@@ -479,7 +485,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Asset Management
 
-*   [Laravel Mix (⭐5.3k)](https://github.com/laravel-mix/laravel-mix) - An elegant wrapper around Webpack for the 80% use case.
+*   [Laravel Mix (⭐5.2k)](https://github.com/laravel-mix/laravel-mix) - An elegant wrapper around Webpack for the 80% use case.
 
 ### Table of Contents / Database
 
@@ -491,7 +497,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / API
 
-*   [Jane (⭐662)](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
+*   [Jane (⭐666)](https://github.com/janephp/janephp/) - An OpenApi client generator with validation support.
 
 ### Table of Contents / Serverless
 
@@ -504,7 +510,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / Infrastructure
 
-*   [RoadRunner (⭐8.3k)](https://github.com/roadrunner-server/roadrunner) - High-performance PHP application server, load-balancer and process manager.
+*   [RoadRunner (⭐8.4k)](https://github.com/roadrunner-server/roadrunner) - High-performance PHP application server, load-balancer and process manager.
 
 ### Configuration / PHP Websites
 
@@ -542,7 +548,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Merge Plugin (⭐979)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
+*   [Composer Merge Plugin (⭐980)](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several `composer.json` files.
 *   [Composer Normalize (⭐1.1k)](https://github.com/ergebnis/composer-normalize) - A plugin for normalizing `composer.json` files.
 *   [Composer Require Checker (⭐972)](https://github.com/maglnet/ComposerRequireChecker) - CLI tool to analyze composer dependencies and verify that no unknown symbols are used in the sources of a package.
 *   [Tooly (⭐103)](https://github.com/tommy-muehle/tooly-composer-script) - A library to manage PHAR files in a project using Composer.
@@ -565,7 +571,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Event
 
-*   [Pawl (⭐612)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
+*   [Pawl (⭐613)](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 
 ### Table of Contents / Database
 
@@ -578,9 +584,9 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Markup and CSS
 
 *   [Essence (⭐769)](https://github.com/essence/essence) - A library for extracting web media.
-*   [Embera (⭐349)](https://github.com/mpratt/Embera) - An Oembed consumer library.
-*   [Shiki PHP (⭐303)](https://github.com/spatie/shiki-php) - A [Shiki (⭐12k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
-*   [VObject (⭐589)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
+*   [Embera (⭐350)](https://github.com/mpratt/Embera) - An Oembed consumer library.
+*   [Shiki PHP (⭐303)](https://github.com/spatie/shiki-php) - A [Shiki (⭐13k)](https://github.com/shikijs/shiki) code highlighting package in PHP.
+*   [VObject (⭐590)](https://github.com/sabre-io/vobject) - A library for parsing VCard and iCalendar objects.
 
 ### Table of Contents / JSON
 
@@ -593,7 +599,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Caching and Locking
 
-*   [Lock (⭐944)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
+*   [Lock (⭐945)](https://github.com/php-lock/lock) - A lock library to provide exclusive execution.
 
 ### Configuration / Miscellaneous
 
@@ -635,11 +641,11 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Dependency Management Extras
 
-*   [Composer Patches (⭐1.6k)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
+*   [Composer Patches (⭐1.7k)](https://github.com/cweagans/composer-patches) - A plugin for Composer to apply patches.
 
 ### Table of Contents / Testing
 
-*   [PHP MySQL Engine (⭐559)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
+*   [PHP MySQL Engine (⭐560)](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
 
 ### Configuration / PHP Websites
 
@@ -703,8 +709,8 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Debugging and Profiling
 
-*   [PCOV (⭐759)](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
-*   [Symfony VarDumper (⭐7.4k)](https://github.com/symfony/var-dumper) - A variable dumper component.
+*   [PCOV (⭐761)](https://github.com/krakjoe/pcov) - A self-contained code coverage compatible driver.
+*   [Symfony VarDumper (⭐7.5k)](https://github.com/symfony/var-dumper) - A variable dumper component.
 *   [Whoops (⭐13k)](https://github.com/filp/whoops) - A pretty error-handling library.
 
 ### Configuration / PHP Books
@@ -715,7 +721,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Testing
 
-*   [Infection (⭐2.1k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
+*   [Infection (⭐2.2k)](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
 
 ### Configuration / PHP Internals Reading
 
@@ -766,12 +772,12 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Micro Frameworks
 
 *   [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-*   [Silly (⭐928)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
+*   [Silly (⭐929)](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 
 ### Table of Contents / HTTP
 
-*   [Nyholm PSR-7 (⭐1.2k)](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
-*   [Laminas Diactoros (⭐533)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
+*   [Nyholm PSR-7 (⭐1.3k)](https://github.com/Nyholm/psr7) - A super lightweight PSR-7 implementation. Very strict and very fast.
+*   [Laminas Diactoros (⭐535)](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP Message implementation.
 
 ### Table of Contents / Middlewares
 
@@ -844,7 +850,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / Serverless
 
-*   [Yo! Symfony TOML (⭐208)](https://github.com/yosymfony/toml) - A PHP parser for [TOML (⭐20k)](https://github.com/toml-lang/toml).
+*   [Yo! Symfony TOML (⭐209)](https://github.com/yosymfony/toml) - A PHP parser for [TOML (⭐20k)](https://github.com/toml-lang/toml).
 
 ### Configuration / PHP Installation
 
@@ -900,7 +906,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / Third Party APIs
 
-*   [Square (⭐115)](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
+*   [Square (⭐116)](https://github.com/square/connect-php-sdk) - The official Square PHP SDK for payments and other Square APIs.
 
 ## [Jan 20 - Jan 26, 2020](/content/2020/3/README.md)
 
@@ -938,7 +944,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Continuous Integration
 
-*   [Setup PHP (⭐3.1k)](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
+*   [Setup PHP (⭐3.2k)](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
 ### Table of Contents / Navigation
 
@@ -981,7 +987,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Event
 
 *   [Swoole (⭐19k)](https://github.com/swoole/swoole-src) - An event-driven asynchronous and concurrent networking communication framework with high performance for PHP written in C.
-*   [Workerman (⭐11k)](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
+*   [Workerman (⭐12k)](https://github.com/walkor/Workerman) - An event driven non-blocking I/O library.
 
 ### Table of Contents / Office
 
@@ -1076,7 +1082,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Data Structure and Storage
 
-*   [msgpack.php (⭐402)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
+*   [msgpack.php (⭐403)](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the [MessagePack](https://msgpack.org/) serialization format.
 
 ### Configuration / Third Party APIs
 
@@ -1103,7 +1109,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / PHP Installation
 
-*   [Brew PHP Switcher (⭐997)](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
+*   [Brew PHP Switcher (⭐999)](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
 
 ## [Jun 11 - Jun 17, 2018](/content/2018/24/README.md)
 
@@ -1117,7 +1123,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / Infrastructure
 
-*   [appserver.io (⭐965)](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
+*   [appserver.io (⭐966)](https://github.com/appserver-io/appserver) - A multithreaded application server for PHP, written in PHP.
 
 ## [Jun 04 - Jun 10, 2018](/content/2018/23/README.md)
 
@@ -1130,7 +1136,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Micro Framework Extras
 
 *   [Slim Twig View (⭐304)](https://github.com/slimphp/Slim-Views) - Integrate Twig into Slim.
-*   [Slim PHP View (⭐269)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
+*   [Slim PHP View (⭐270)](https://github.com/slimphp/PHP-View) - A simple PHP renderer for Slim.
 
 ### Table of Contents / Testing
 
@@ -1239,7 +1245,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Caching and Locking
 
-*   [APIx Cache (⭐116)](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing.
+*   [APIx Cache (⭐115)](https://github.com/apix/cache) - A thin PSR-6 cache wrapper to various caching backends emphasizing cache tagging and indexing.
 
 ## [May 08 - May 14, 2017](/content/2017/19/README.md)
 
@@ -1273,7 +1279,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Routers
 
-*   [Aura.Router (⭐502)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
+*   [Aura.Router (⭐501)](https://github.com/auraphp/Aura.Router) - A full-featured routing library.
 
 ### Table of Contents / Dependency Injection
 
@@ -1281,7 +1287,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Database
 
-*   [Aura.Sql (⭐563)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
+*   [Aura.Sql (⭐564)](https://github.com/auraphp/Aura.Sql) - Provides an extension to the native PDO along with a profiler and connection locator.
 *   [Spot2 (⭐600)](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ### Table of Contents / Command Line
@@ -1313,7 +1319,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Authentication and Authorization
 
-*   [SocialConnect Auth (⭐560)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
+*   [SocialConnect Auth (⭐561)](https://github.com/socialConnect/auth) - An open source social sign (OAuth1\OAuth2\OpenID\OpenIDConnect).
 *   [TwitterOAuth (⭐4.3k)](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ## [Mar 06 - Mar 12, 2017](/content/2017/10/README.md)
@@ -1388,7 +1394,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Middlewares
 
-*   [Relay (⭐326)](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
+*   [Relay (⭐325)](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 
 ### Table of Contents / Testing
 
@@ -1436,7 +1442,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Configuration / Miscellaneous
 
-*   [noCAPTCHA (⭐367)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
+*   [noCAPTCHA (⭐366)](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 
 ## [May 02 - May 08, 2016](/content/2016/18/README.md)
 
@@ -1466,7 +1472,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Routers
 
-*   [Route (⭐663)](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
+*   [Route (⭐661)](https://github.com/thephpleague/route) - A routing library built on top of Fast Route.
 
 ### Table of Contents / Static Site Generators
 
@@ -1494,7 +1500,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Files
 
-*   [CSV (⭐3.4k)](https://github.com/thephpleague/csv) - A CSV data manipulation library.
+*   [CSV (⭐3.5k)](https://github.com/thephpleague/csv) - A CSV data manipulation library.
 *   [Gaufrette (⭐2.5k)](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 
 ### Table of Contents / Imagery
@@ -1505,7 +1511,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Testing
 
 *   [Alice (⭐2.5k)](https://github.com/nelmio/alice) - An expressive fixture generation library.
-*   [Codeception (⭐4.8k)](https://github.com/Codeception/Codeception) - A full stack testing framework.
+*   [Codeception (⭐4.9k)](https://github.com/Codeception/Codeception) - A full stack testing framework.
 *   [PHPSpec (⭐1.9k)](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
 *   [PHPUnit (⭐20k)](https://github.com/sebastianbergmann/phpunit) - A unit testing framework.
 
@@ -1518,7 +1524,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Table of Contents / Passwords
 
 *   [GenPhrase (⭐117)](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
-*   [PHP Password Lib (⭐372)](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
+*   [PHP Password Lib (⭐373)](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 
 ### Table of Contents / Code Analysis
 
@@ -1526,7 +1532,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 *   [PHP Parser (⭐17k)](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 *   [PHPLOC (⭐2.3k)](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 *   [PHPQA (⭐561)](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
-*   [UBench (⭐563)](https://github.com/devster/ubench) - A simple micro-benchmark library.
+*   [UBench (⭐564)](https://github.com/devster/ubench) - A simple micro-benchmark library.
 
 ### Table of Contents / Architectural
 
@@ -1534,9 +1540,9 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Debugging and Profiling
 
-*   [PHP Console (⭐529)](https://github.com/Seldaek/php-console) - A web debugging console.
+*   [PHP Console (⭐528)](https://github.com/Seldaek/php-console) - A web debugging console.
 *   [PHP Debug Bar](http://phpdebugbar.com/) - A debugging toolbar.
-*   [xDebug (⭐3.3k)](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
+*   [xDebug (⭐3.4k)](https://github.com/xdebug/xdebug) - A debug and profile tool for PHP.
 *   [XHProf (⭐2.6k)](https://github.com/phacility/xhprof) - A profiling tool originally developed by Facebook.
 
 ### Table of Contents / Navigation
@@ -1595,7 +1601,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Authentication and Authorization
 
-*   [Json Web Token (⭐7.4k)](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
+*   [Json Web Token (⭐7.5k)](https://github.com/lcobucci/jwt) - Json Tokens to authenticate and transmit information.
 *   [Opauth (⭐1.6k)](https://github.com/opauth/opauth) - A multi-provider authentication framework.
 *   [Sentinel Social](https://cartalyst.com/manual/sentinel-social/2.0) - A library for social network authentication.
 *   [Sentinel](https://cartalyst.com/manual/sentinel/2.0) - A framework agnostic authentication & authorisation library.
@@ -1657,7 +1663,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### Configuration / Third Party APIs
 
 *   [Mailgun (⭐1.1k)](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
-*   [Stripe (⭐3.9k)](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
+*   [Stripe (⭐4k)](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 *   [Twilio (⭐1.6k)](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 
 ### Configuration / Miscellaneous
@@ -1718,7 +1724,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Email
 
-*   [Mautic (⭐8.9k)](https://github.com/mautic/mautic) - Email marketing automation
+*   [Mautic (⭐9k)](https://github.com/mautic/mautic) - Email marketing automation
 
 ## [Feb 08 - Feb 14, 2016](/content/2016/6/README.md)
 
@@ -1746,7 +1752,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Asset Management
 
-*   [JShrink (⭐759)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
+*   [JShrink (⭐760)](https://github.com/tedious/JShrink) - A JavaScript minifier library.
 
 ### Table of Contents / Geolocation
 
@@ -1787,7 +1793,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Framework Extras
 
-*   [CakePHP CRUD (⭐375)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
+*   [CakePHP CRUD (⭐376)](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
 
 ## [Aug 24 - Aug 30, 2015](/content/2015/34/README.md)
 
@@ -1803,11 +1809,11 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Passwords
 
-*   [Password-Generator (⭐302)](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
+*   [Password-Generator (⭐304)](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
 
 ### Table of Contents / Architectural
 
-*   [Pipeline (⭐997)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
+*   [Pipeline (⭐995)](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.
 
 ## [Aug 03 - Aug 09, 2015](/content/2015/31/README.md)
 
@@ -1903,7 +1909,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Numbers
 
-*   [ByteUnits (⭐166)](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
+*   [ByteUnits (⭐167)](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 
 ### Table of Contents / API
 
@@ -1933,7 +1939,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Imagery
 
-*   [Image Optimizer (⭐911)](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
+*   [Image Optimizer (⭐912)](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
 
 ## [Aug 25 - Aug 31, 2014](/content/2014/34/README.md)
 
@@ -2077,7 +2083,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Markup and CSS
 
-*   [HTML5 PHP (⭐1.7k)](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
+*   [HTML5 PHP (⭐1.8k)](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 
 ## [May 13 - May 19, 2013](/content/2013/19/README.md)
 
@@ -2101,7 +2107,7 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 ### Table of Contents / Command Line
 
-*   [Commando (⭐796)](https://github.com/nategood/commando) - Another simple command line opt parser.
+*   [Commando (⭐801)](https://github.com/nategood/commando) - Another simple command line opt parser.
 *   [Cron Expression (⭐4.9k)](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
 
 ### Table of Contents / Strings

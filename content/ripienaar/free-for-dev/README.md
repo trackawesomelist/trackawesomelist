@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Dec 15, 2025](/content/2025/12/15/README.md)
+
+### APIs, Data, and ML
+
+*   [Earnings Feed](https://earningsfeed.com/api) - Real-time SEC filings, insider trades, and institutional holdings API. Free tier includes 15 requests per minute.
+
 ## [Dec 12, 2025](/content/2025/12/12/README.md)
 
 ### Security and PKI
@@ -3186,12 +3192,6 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Email
 
 *   [DNSExit](https://dnsexit.com/) - Up to 2 Email addresses under your domain for free with 100MB of storage space. IMAP, POP3, SMTP, SPF/DKIM support.
-
-## [May 15, 2022](/content/2022/05/15/README.md)
-
-### APIs, Data, and ML
-
-*   [file.coffee](https://file.coffee/) - A platform where you can store up to 15MB/file (30/MB file with an account).
 
 ## [May 14, 2022](/content/2022/05/14/README.md)
 
