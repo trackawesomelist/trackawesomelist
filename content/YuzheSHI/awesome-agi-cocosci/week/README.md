@@ -6,6 +6,12 @@ An awesome & curated list for Artificial General Intelligence, an emerging inter
 
 [ [Daily](/content/YuzheSHI/awesome-agi-cocosci/README.md) / Weekly / [Overview](/content/YuzheSHI/awesome-agi-cocosci/readme/README.md) ]
 
+## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
+
+### Domain Specific Language / Declarative DSL Applications
+
+*   [GarmentCode: Programming Parametric Sewing Patterns](https://dl.acm.org/doi/abs/10.1145/3618351) - ***ACM Transactions on Graphics***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=9890151343262605598)]. Garment modeling is an essential task of the global apparel industry and a core part of digital human modeling. Realistic representation of garments with valid sewing patterns is key to their accurate digital simulation and eventual fabrication. However, little-to-no computational tools provide support for bridging the gap between high-level construction goals and low-level editing of pattern geometry, e.g., combining or switching garment elements, semantic editing, or design exploration that maintains the validity of a sewing pattern. This work suggests the first DSL for garment modeling - GarmentCode - that applies principles of object-oriented programming to garment construction and allows designing sewing patterns in a hierarchical, component-oriented manner. The programming-based paradigm naturally provides unique advantages of component abstraction, algorithmic manipulation, and free-form design parametrization. The authors additionally support the construction process by automating typical low-level tasks like placing a dart at a desired location. In the prototype garment configurator, users can manipulate meaningful design parameters and body measurements, while the construction of pattern geometry is handled by garment programs implemented with GarmentCode.
+
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
 ### Domain Specific Language / Declarative DSL Applications

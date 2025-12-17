@@ -12,7 +12,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 #### -= Awesome TypeScript =- [Awesome Elasticsearch (⭐5k)](https://github.com/dzharii/awesome-elasticsearch) →
 
-> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome (⭐417k)](https://github.com/sindresorhus/awesome) lists.
+> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome (⭐421k)](https://github.com/sindresorhus/awesome) lists.
 
 ## More awesome resources
 
@@ -162,7 +162,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [Grunt](http://gruntjs.com/) tasks:
     *   [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts
 *   [Zwitterion (⭐593)](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
-*   [Nx (⭐28k)](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
+*   [Nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 
 ## Cloud Data Warehousing
 
@@ -190,7 +190,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [bun](https://bun.sh/) - Bun is a fast JavaScript runtime, package manager, bundler, test runner
 *   [deno](https://deno.land/) - A secure runtime for JavaScript and TypeScript
 *   [OXC (⭐18k)](https://github.com/web-infra-dev/oxc) - A suite of high-performance tools for JavaScript and TypeScript written in Rust
-*   [biome (⭐22k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
+*   [biome (⭐23k)](https://github.com/biomejs/biome) - Biome formats and lints your code in a fraction of a second
 *   [SweetIQ/schemats (⭐1.1k)](https://github.com/SweetIQ/schemats) Generate typescript interface definitions from SQL database schema
 *   [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
 *   [TypeScript Standard (⭐31)](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
@@ -198,9 +198,9 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [type-config (⭐23)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 *   [Zapatos](https://jawj.github.io/zapatos/) - Zero-Abstraction Postgres for TypeScript
 *   [dep-tree (⭐1.7k)](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
-*   [itertools-ts (⭐73)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+*   [itertools-ts (⭐78)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 *   [ParaglideJS](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) - An i18n compiler that generates fully typesafe translations
-*   [pg (⭐382)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
+*   [pg (⭐606)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 *   [nocodb (⭐59k)](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 *   [jqlite (⭐11)](https://github.com/Jay-Karia/jqlite) - ⚡ The query language for JSON
 *   [pompelmi (⭐391)](https://github.com/pompelmi/pompelmi) - File-upload malware scanning for Node.js to help prevent Remote File Inclusion (RFI), with adapters for Express, Koa, and Next.js
@@ -246,11 +246,11 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [@core/match (⭐45)](https://github.com/tani/ts-match) - Type-safe destructuring assignment with pattern-match validation
 *   [io-ts (⭐6.8k)](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
 *   [zod (⭐41k)](https://github.com/vriad/zod) - TypeScript-first schema validation with static type inference
-*   [valibot (⭐8.2k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
+*   [valibot (⭐8.3k)](https://github.com/fabian-hiller/valibot) - Valibot is a Typescript schema library with static type inference, and it's exceptionally lightweight compared to Zod, with no dependencies.
 *   [runtypes (⭐2.7k)](https://github.com/pelotom/runtypes) - Runtime validation for static types
 *   [ts-codec (⭐19)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
 *   [ow (⭐3.9k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
-*   [superstruct (⭐7.1k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
+*   [superstruct (⭐7.2k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
 *   [computed-types (⭐363)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 *   [json-schema-to-ts (⭐1.7k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 *   [Yunomix (⭐5)](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
@@ -269,14 +269,14 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 ### Web
 
-*   :octocat: [Angular (⭐99k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+*   :octocat: [Angular (⭐100k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 *   :octocat: [It-Tools](https://it-tools.tech/) - Collection of handy online tools for developers, with great UX
 *   :octocat: [Fedify (⭐881)](https://github.com/fedify-dev/fedify) - TypeScript framework for building federated server apps powered by ActivityPub and the fediverse
 *   :octocat: [feednext.io (⭐323)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
 *   :octocat: [ionic (⭐52k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 *   :octocat: [React-UWP (⭐1.2k)](https://github.com/myxvisual/react-uwp) - React Components that Implement Microsoft's UWP Design & Fluent Design.
 *   :octocat: [palantir/plottable (⭐3k)](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: <http://plottablejs.org>)
-*   :octocat: [APIs-guru/graphql-voyager (⭐8k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
+*   :octocat: [APIs-guru/graphql-voyager (⭐8.1k)](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
 *   :octocat: [Rebilly/ReDoc (⭐25k)](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
 *   :octocat: [excaliburjs/Excalibur (⭐2.2k)](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
 *   :octocat: [Bobril (⭐369)](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: <http://bobril.com/>)
@@ -287,7 +287,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [Cycle.js (⭐10k)](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code.
 *   :octocat: [Tridactyl (⭐6k)](https://github.com/tridactyl/tridactyl) - A Firefox browser addon that replaces browser's control mechanism with one modelled on the one true editor, Vim.
 *   :octocat: [armour/vue-typescript-admin-template (⭐5.7k)](https://github.com/Armour/vue-typescript-admin-template) - A vue-cli 3.0 & typescript minimal admin template + a production-ready front-end solution for admin interfaces ([demo](https://armour.github.io/vue-typescript-admin-template/#/dashboard))
-*   :octocat: [n8n.io (⭐158k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
+*   :octocat: [n8n.io (⭐162k)](https://github.com/n8n-io/n8n) - Open Source Workflow Automation Tool
 *   :octocat: [Dnote (⭐3k)](https://github.com/dnote/dnote) - A command line notebook with a multi-device sync and a web interface.
 *   :octocat: [Thin Backend (⭐1.2k)](https://github.com/digitallyinduced/thin-backend) - Realtime Backend for your Single Page Apps, with End-to-End Type Safety thanks to types being derived from the Postgres Schema
 *   :octocat: [Flowbite (⭐9k)](https://github.com/themesberg/flowbite) - Open-source component library built on top of Tailwind CSS featuring interactive UI components built with TypeScript
@@ -336,18 +336,18 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [Libstack](https://libstack.io) - A collection of various modules to create Typescript server easily and ready to be deployed on Docker.
 *   :octocat: [tinyhttp (⭐2.9k)](https://github.com/talentlessguy/tinyhttp) - A modern Express-like web framework for Node.js, written in TypeScript and compiled to Native ESM.
 *   :octocat: [ZenTS (⭐34)](https://github.com/sahachide/ZenTS) - A modern Node.js and TypeScript first framework for building rich web applications
-*   :octocat: [Booster Framework (⭐440)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
+*   :octocat: [Booster Framework (⭐441)](https://github.com/boostercloud/booster) - Event-driven cloud native GraphQL open-source framework, part of the Booster Cloud ecosystem. It makes use of high-level abstractions and conventions. (see also: <https://booster.cloud>)
 
 ### AI
 
 *   :octocat: [MastraAI (⭐19k)](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.
-*   :octocat: [VoltAgent (⭐4k)](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
-*   :octocat: [Tambo (⭐811)](https://github.com/tambo-ai/tambo) - React SDK for building generative UIs with MCP support.
+*   :octocat: [VoltAgent](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
+*   :octocat: [Tambo (⭐914)](https://github.com/tambo-ai/tambo) - React SDK for building generative UIs with MCP support.
 *   :octocat: [Maxim AI (⭐5)](https://github.com/maximhq/maxim-js) - JS/TS SDK for enabling Maxim observability. Maxim is an enterprise grade evaluation and observability platform. (see also: <https://getmaxim.ai>)
 
 ### Standalone apps
 
-*   :octocat: [Visual Studio Code (⭐179k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+*   :octocat: [Visual Studio Code (⭐180k)](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 *   :octocat: [alm (⭐3k)](https://github.com/alm-tools/alm) - A next generation IDE just for TypeScript written in TypeScript + React
 *   :octocat: [App Outlet (⭐399)](https://github.com/app-outlet/app-outlet) - An universal linux app store for AppImages/Flatpaks/Snaps written in TypeScript + Angular
 *   :octocat: [SnowFS](https://github.com/snowtrack/snowfs) - a fast, scalable version control file storage for graphic files
@@ -379,18 +379,18 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [substitute.js (⭐210)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
 *   :octocat: [TypeMoq (⭐428)](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
 *   :octocat: [fast-check (⭐4.7k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
-*   :octocat: [Suites](https://suites.dev) - A unit-testing framework for TypeScript backends utilizing inversion of control and dependency injection.
+*   :octocat: [Suites (⭐506)](https://github.com/suites-dev/suites) - Unit testing framework for TypeScript backends working with inversion of control (IoC) and dependency injection frameworks.
 *   :octocat: [InversifyJS (⭐12k)](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
-*   :octocat: [TypeORM (⭐36k)](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+*   :octocat: [TypeORM](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
     *   :octocat: [Safe-TypeORM (⭐230)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
-*   :octocat: [MikroORM (⭐8.7k)](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
+*   :octocat: [MikroORM](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 *   :octocat: [DrizzleORM](https://orm.drizzle.team/) - Lightweight TypeScript ORM, SQL-like library for flexible data access, serverless-ready, with zero dependencies.
 *   :octocat: [Prisma (⭐45k)](https://github.com/prisma/prisma) - Modern database access (ORM alternative) for Node.js & TypeScript | PostgreSQL, MySQL & SQLite
     *   :octocat: [prisma-markdown (⭐516)](https://github.com/samchon/prisma-markdown): Generates markdown document composed with ERD diagrams and their descriptions.
 *   :octocat: [Neuledge (⭐236)](https://github.com/neuledge/engine-js) - Neuledge is a universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
-*   :octocat: [Typetta (⭐114)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
+*   :octocat: [Typetta (⭐116)](https://github.com/twinlogix/typetta) - Typescript ORM for Node.js that uses GraphQL as schema definition language | Supports all main SQL databases and MongoDB.
 *   :octocat: [TypeGQL (⭐428)](https://github.com/prismake/typegql) - Set of tools for creating GraphQL schema directly from typed TypeScript class.
-*   :octocat: [TSTL (⭐625)](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
+*   :octocat: [TSTL](https://github.com/samchon/tstl) - Implementation of C++ STL (Standard Template Library) in TypeScript. Provided modules are containers, iterators, algorithms and functors.
     *   :octocat: [ECol (⭐10)](https://github.com/samchon/ecol) - Extension of TSTL containers; collections dispatching Elements I/O events.
     *   :octocat: [TGrid (⭐166)](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of TSTL, supporting RFC (Remote Function Call).
     *   :octocat: [Mutex-Server (⭐31)](https://github.com/samchon/mutex-server) - Critical sections controller, like mutex and semaphore, in the network level.
@@ -400,7 +400,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [io-ts (⭐6.8k)](https://github.com/gcanti/io-ts) - Type validation at runtime
 *   :octocat: [mokia (⭐113)](https://github.com/varHarrie/mokia) - A mock server integrated data simulation and http service.
 *   :octocat: [sub-events (⭐39)](https://github.com/vitaly-t/sub-events) - Strongly-typed events.
-*   :octocat: [ts-audio (⭐339)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
+*   :octocat: [ts-audio (⭐340)](https://github.com/EvandroLG/ts-audio) - an agnostic and easy-to-use library to work with the `AudioContext` API
 *   :octocat: [tslog (⭐1.5k)](https://github.com/fullstack-build/tslog) - A powerful logging library with native TypeScript support: beautiful interpolation, native V8 stack trace, secret masking, support for requestIds based on AsyncLocalStorage
 *   :octocat: [tsParticles (⭐8.6k)](https://github.com/matteobruni/tsparticles) - A lightweight library for easily creating particles animations for websites (Supports also ReactJS, VueJS, Angular, Svelte and others)
 *   :octocat: [statek (⭐9)](https://github.com/pie6k/statek) - Reactive state management library
@@ -410,7 +410,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [interface-forge](https://www.npmjs.com/package/interface-forge) - Test data factories using TypeScript types and interfaces
 *   :octocat: [iter-ops (⭐150)](https://github.com/vitaly-t/iter-ops) - Operations with iterable objects
 *   :octocat: [Remult (⭐3.2k)](https://github.com/remult/remult) - End-to-end type-safe CRUD and frontend-backend model code sharing in fullstack TypeScript applications.
-*   :octocat: [Jest (⭐45k)](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
+*   :octocat: [Jest](https://github.com/facebook/jest) - A comprehensive JavaScript testing solution. Works out of the box for most JavaScript projects.
 *   :octocat: [diod (⭐153)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
 *   :octocat: [@deliberative/crypto (⭐29)](https://github.com/deliberative/crypto) - A Typescript/WebAssembly library for public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling. Runs on Nodejs, ESM, CommonJS and the browser.
 *   :octocat: [castore (⭐268)](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application
@@ -424,7 +424,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [text-smart-trimmer (⭐3)](https://github.com/vaidehimani/text-smart-trimmer) - A lightweight TypeScript utility for trimming text while choosing to preserve word boundaries, punctuation, and custom suffixes.
 *   :octocat: [nano-string-utils (⭐75)](https://github.com/Zheruel/nano-string-utils) - Ultra-lightweight string utilities with zero dependencies. Tree-shakeable, fully typed, and optimized for modern JavaScript.
 *   :octocat: [safe-fetch (⭐80)](https://github.com/asouei/safe-fetch) - Zero-dependency fetch wrapper with safe results, dual timeouts, smart retries and normalized TypeScript errors.
-*   :octocat: [stunk (⭐157)](https://github.com/I-am-abdulazeez/stunk) - Lightweight, framework-agnostic state management library with atomic chunks for fine-grained reactivity, simple and applicable for any Typescript applications.
+*   :octocat: [stunk (⭐160)](https://github.com/I-am-abdulazeez/stunk) - Lightweight, framework-agnostic state management library with atomic chunks for fine-grained reactivity, simple and applicable for any Typescript applications.
 *   :octocat: [blastore (⭐5)](https://github.com/sergey-shablenko/blastore) - A minimal, high-performance storage wrapper for localStorage, AsyncStorage, memory or any sync/async backend — with full TypeScript type safety.
 *   :octocat: [FilterQL (⭐279)](https://github.com/adamhl8/filterql) - A tiny query language for filtering structured data
 *   :octocat: [ffetch (⭐180)](https://github.com/fetch-kit/ffetch) – TypeScript-first `fetch` wrapper with retries, timeouts, circuit breaker, and lifecycle hooks. Zero runtime deps, works wherever `fetch` does

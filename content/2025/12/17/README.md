@@ -1,24 +1,30 @@
-# Awesome List Updates on Dec 22 - Dec 28, 2025
+# Awesome List Updates on Dec 17, 2025
 
-18 awesome lists updated this week.
+4 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ### Domain Specific Language / Declarative DSL Applications
 
 *   [GarmentCode: Programming Parametric Sewing Patterns](https://dl.acm.org/doi/abs/10.1145/3618351) - ***ACM Transactions on Graphics***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=9890151343262605598)]. Garment modeling is an essential task of the global apparel industry and a core part of digital human modeling. Realistic representation of garments with valid sewing patterns is key to their accurate digital simulation and eventual fabrication. However, little-to-no computational tools provide support for bridging the gap between high-level construction goals and low-level editing of pattern geometry, e.g., combining or switching garment elements, semantic editing, or design exploration that maintains the validity of a sewing pattern. This work suggests the first DSL for garment modeling - GarmentCode - that applies principles of object-oriented programming to garment construction and allows designing sewing patterns in a hierarchical, component-oriented manner. The programming-based paradigm naturally provides unique advantages of component abstraction, algorithmic manipulation, and free-form design parametrization. The authors additionally support the construction process by automating typical low-level tasks like placing a dart at a desired location. In the prototype garment configurator, users can manipulate meaningful design parameters and body measurements, while the construction of pattern geometry is handled by garment programs implemented with GarmentCode.
 
-## [2. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+### Other Free Resources
+
+*   [JSON Viewer Tool](https://jsonviewertool.com/) – View, format, validate, minify, and convert JSON data directly in the browser (no API key required).
+
+## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [Suites (⭐506)](https://github.com/suites-dev/suites) - Unit testing framework for TypeScript backends working with inversion of control (IoC) and dependency injection frameworks.
 
-## [3. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [4. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -54,115 +60,6 @@
 *   [sqlvet (⭐496)](https://github.com/houqp/sqlvet) — Performs static analysis on raw SQL queries in your Go code base to surface potential runtime errors. It checks for SQL syntax error, identifies unsafe queries that could potentially lead to SQL injections makes sure column count matches value count in INSERT statements and validates table- and column names.
 *   [TencentCodeAnalysis](https://tca.tencent.com/) — Tencent Cloud Code Analysis (TCA for short, code-named CodeDog inside the company early) is a comprehensive platform for code analysis and issue tracking. TCA consist of three components, server, web and client. It integrates of a number of self-developed tools, and also supports dynamic integration of code analysis tools in various programming languages.
 
-## [4. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
-
-### Gemini / Laravel
-
-*   [Jasonzhangf/gemini-cli-router (⭐16)](https://github.com/Jasonzhangf/gemini-cli-router) — routing your gemini-cli to openai 3rd party providers ☆`16`
-
-## [5. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
-
-### Tools / CI
-
-*   [drifthound (⭐6)](https://github.com/treezio/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
-
-## [6. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
-
-### no-std crates / WIP
-
-*   [locate-rs (⭐0)](https://github.com/trembel/locate-rs): Microcontroller-optimized solver for Indoor Localization (Multilateration / TDOA) - [![crates.io](https://img.shields.io/crates/v/locate-rs.svg)](https://crates.io/crates/locate-rs)
-
-## [7. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
-
-### Monitoring/Statistics/Perfomance / Samples
-
-*   [Releem](https://releem.com) - Performance monitoring and optimization tool for MySQL & MariaDB that delivers actionable insights and safe automation for misconfigurations, slow queries, schema issues, and deadlocks, reducing manual work at scale.
-
-## [8. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
-
-### AI
-
-*   [OpenCreator](https://opencreator.ai/) - All-in-one AI workspace for creating product visuals (images and videos) with node-based workflow automation and batch generation.
-
-## [9. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
-
-### Note Taking / Cursorline
-
-*   [nbeversl/urtext\_neovim (⭐1)](https://github.com/nbeversl/urtext_neovim) - An implementation of Urtext.
-
-### Utility / Cursorline
-
-*   [necrom4/calcium.nvim (⭐22)](https://github.com/necrom4/calcium.nvim) - A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support.
-
-## [10. Awesome Go](/content/abordage/awesome-go/week/README.md)
-
-### ORM / HTTP Clients
-
-*   [FrancoLiberali/cql (⭐16)](https://github.com/FrancoLiberali/cql) — CQL: Compiled Query Language ☆`16`
-
-## [11. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
-
-### Package Management / Build Systems
-
-*   [FetchDependency (⭐3)](https://github.com/jpetrie/fetch-dependency) - Configuration-time retrieval, configuration and building of dependencies. [`[MIT]`](https://opensource.org/licenses/MIT)
-
-## [12. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
-
-### Table of Contents / Markup and CSS
-
-*   [Djot (⭐12)](https://github.com/php-collective/djot-php) - A PHP parser for [Djot](https://djot.net/), a modern light markup language (successor of Markdown).
-
-## [13. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
-
-### REPLs / Third-party APIs
-
-*   [icl (⭐45)](https://github.com/atgreen/icl) - an enhanced REPL for the terminal. MIT.
-    *   based on Slynk: shares many features with Slime.
-    *   interactive inspector
-    *   experimental `,explain` command that fires up Gemini or Claude CLI.
-
-## [14. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
-
-### APIs, Data, and ML
-
-*   [Earnings Feed](https://earningsfeed.com/api) - Real-time SEC filings, insider trades, and institutional holdings API. Free tier includes 15 requests per minute.
-
-### Other Free Resources
-
-*   [JSON Viewer Tool](https://jsonviewertool.com/) – View, format, validate, minify, and convert JSON data directly in the browser (no API key required).
-
-## [15. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
-
-### Gems / Other external resources
-
-*   [subflag-rails (⭐1)](https://github.com/subflag/sdk/tree/main/packages/subflag-rails) - A gem for feature flags and dynamic config that uses ActiveRecord. [🔴](https://rubygems.org/gems/subflag-rails)
-
-## [16. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
-
-### Applications / Audio and Music
-
-*   [mierak/rmpc (⭐1.8k)](https://github.com/mierak/rmpc) \[[rmpc](https://crates.io/crates/rmpc)] - A modern and configurable, terminal based MPD Client with album art support
-
-### Libraries / Data streaming
-
-*   [fluvio (⭐5.1k)](https://github.com/fluvio-community/fluvio) - Programmable data streaming platform [![CI](https://github.com/fluvio-community/fluvio/actions/workflows/ci.yml/badge.svg)](https://github.com/fluvio-community/fluvio/actions)
-
-### Libraries / Logging
-
-*   [fast/logforth (⭐194)](https://github.com/fast/logforth) - A versatile, extensible, and easy-to-use logging framework for Rust applications. It allows you to configure multiple dispatches, filters, and appenders to customize your logging setup according to your needs.
-
-## [17. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
-
-### Browsers / Audio Record and Process
-
-*   [Helium](https://helium.computer/) - A free, open-source, private and honest web browser based on Chromium with Ublock Pre-Installed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/imputnet/helium) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-## [18. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
-
-### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
-
-*   [claude-code-zsh-completion (⭐2)](https://github.com/1160054/claude-code-zsh-completion) - Adds completions for Anthropic's [Claude Code CLI](https://docs.claude.com/) with support for 120+ languages. Includes dynamic completion for MCP servers, plugins, and session IDs.
-
 ---
 
-- Next: [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
+- Next: [Dec 16, 2025](/content/2025/12/16/README.md)
