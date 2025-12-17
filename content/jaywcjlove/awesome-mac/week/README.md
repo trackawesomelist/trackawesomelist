@@ -12,6 +12,10 @@
 
 *   [Helium](https://helium.computer/) - A free, open-source, private and honest web browser based on Chromium with Ublock Pre-Installed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/imputnet/helium) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
+### Proxy and VPN Tools / Audio Record and Process
+
+*   [Jumper VPN](https://jumpervpn.com/) - VPN Client for Mac and other platforms, secure, fast VPN proxy.
+
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
 ### Utilities / Clipboard Tools

@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Dec 17, 2025](/content/2025/12/17/README.md)
+
+### Proxy and VPN Tools / Audio Record and Process
+
+*   [Jumper VPN](https://jumpervpn.com/) - VPN Client for Mac and other platforms, secure, fast VPN proxy.
+
 ## [Dec 15, 2025](/content/2025/12/15/README.md)
 
 ### Browsers / Audio Record and Process

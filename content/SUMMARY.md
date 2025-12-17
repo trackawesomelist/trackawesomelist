@@ -4,10 +4,10 @@
 
 
 - [Top Repos](top/README.md)
-  - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
-  - [Awesome Chatgpt Prompts](/content/content/f/awesome-chatgpt-prompts/README.md)
+  - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
+  - [Awesome Chatgpt Prompts](/content/content/f/awesome-chatgpt-prompts/README.md)
   - [Awesome Go](/content/content/avelino/awesome-go/README.md)
   - [Awesome List](/content/content/sindresorhus/awesome/README.md)
   - [Awesome Rust](/content/content/rust-unofficial/awesome-rust/README.md)
@@ -40,6 +40,7 @@
   - [Awesome Godot](/content/content/godotengine/awesome-godot/README.md)
   - [Awesome Db Tools](/content/content/mgramin/awesome-db-tools/README.md)
   - [Awesome Cmake](/content/content/onqtam/awesome-cmake/README.md)
+  - [Awesome Gbdev](/content/content/gbdev/awesome-gbdev/README.md)
   - [Awesome Langchain](/content/content/kyrolabs/awesome-langchain/README.md)
   - [Awesome Remote Job](/content/content/lukasz-madon/awesome-remote-job/README.md)
   - [Awesome Vue](/content/content/vuejs/awesome-vue/README.md)
@@ -53,7 +54,6 @@
   - [Awesome Dotnet](/content/content/quozd/awesome-dotnet/README.md)
   - [Awesome Love2d](/content/content/love2d-community/awesome-love2d/README.md)
   - [Magictools](/content/content/ellisonleao/magictools/README.md)
-  - [Awesome Bigdata](/content/content/newTendermint/awesome-bigdata/README.md)
 - [All Tracked List](all-repos/README.md)
   - [Agentic AI](agentic-ai/README.md)
     - [Awesome Gemini Cli](/content/Piebald-AI/awesome-gemini-cli/README.md)
