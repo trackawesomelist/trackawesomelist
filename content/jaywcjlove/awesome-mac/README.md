@@ -6,6 +6,17 @@
 
 [ Daily / [Weekly](/content/jaywcjlove/awesome-mac/week/README.md) / [Overview](/content/jaywcjlove/awesome-mac/readme/README.md) ]
 
+## [Dec 18, 2025](/content/2025/12/18/README.md)
+
+### Developer Tools / API Development and Analysis
+
+*   [Mockoon](https://mockoon.com/) - Create mock APIs in seconds. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mockoon/mockoon)
+
+### Utilities / Clipboard Tools
+
+*   [Paste Quick](https://wangchujiang.com/paste-quick/) - A simple, privacy-first clipboard manager. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/paste-quick/6723903021)
+*   [OneClip (⭐73)](https://github.com/Wcowin/OneClip) - A simple and professional macOS clipboard manager. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Wcowin/OneClip) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
 ## [Dec 17, 2025](/content/2025/12/17/README.md)
 
 ### Proxy and VPN Tools / Audio Record and Process
@@ -1097,12 +1108,6 @@
 ### Utilities / File Organization Tools
 
 *   [Rapidmg](https://rapidmg.branchseer.com/) 1-Click extracting apps from DMG images to the "Applications" folder. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/rapidmg/id6451349778)
-
-## [Sep 28, 2023](/content/2023/09/28/README.md)
-
-### Utilities / Clipboard Tools
-
-*   [Boop](https://boop.okat.best/) - Snippet tool that provides various functionalities like JSON formatting, MD5 Checksum, reverse string, encode, and much more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/IvanMathy/Boop)
 
 ## [Sep 27, 2023](/content/2023/09/27/README.md)
 

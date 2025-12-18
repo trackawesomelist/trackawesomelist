@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
+### Colorscheme / Tree-sitter Supported Colorscheme
+
+*   [nvim-mini/mini.nvim#colorschemes (⭐8.4k)](https://github.com/nvim-mini/mini.nvim#plugin-color-schemes) - Color schemes included in `mini.nvim`. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
+
 ### Note Taking / Cursorline
 
 *   [nbeversl/urtext\_neovim (⭐1)](https://github.com/nbeversl/urtext_neovim) - An implementation of Urtext.
@@ -15,6 +19,10 @@ Collections of awesome neovim plugins.
 ### Utility / Cursorline
 
 *   [necrom4/calcium.nvim (⭐22)](https://github.com/necrom4/calcium.nvim) - A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support.
+
+### Code Runner / Quickfix
+
+*   [wsdjeg/code-runner.nvim (⭐5)](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
@@ -50,7 +58,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
-*   [pebeto/dookie.nvim (⭐6)](https://github.com/pebeto/dookie.nvim) - A color scheme inspired by Plan9's acme editor.
+*   [pebeto/dookie.nvim (⭐9)](https://github.com/pebeto/dookie.nvim) - A color scheme inspired by Plan9's acme editor.
 
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
@@ -371,9 +379,9 @@ Collections of awesome neovim plugins.
 
 *   [cljoly/telescope-repo.nvim (⭐236)](https://github.com/cljoly/telescope-repo.nvim) - Telescope picker to jump to any repository (Git or other) on the file system.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Colorscheme Creation
 
-*   [svermeulen/text-to-colorscheme (⭐315)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
+*   [svermeulen/text-to-colorscheme (⭐315)](https://github.com/svermeulen/text-to-colorscheme) - Allows the user to generate colorschemes with a text prompt using OpenAI's GPT API.
 
 ### Note Taking / Cursorline
 
@@ -554,10 +562,6 @@ Collections of awesome neovim plugins.
 ### Color / Assembly
 
 *   [nvim-mini/mini.nvim#mini.hipatterns (⭐8.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
-
-### Colorscheme / Tree-sitter Supported Colorscheme
-
-*   [nvim-mini/mini.nvim#colorschemes (⭐8.4k)](https://github.com/nvim-mini/mini.nvim#plugin-colorschemes) - Color schemes included in `mini.nvim` plugin. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
 
 ### Colorscheme / Colorscheme Creation
 
@@ -3719,10 +3723,6 @@ Collections of awesome neovim plugins.
 *   [imbacraft/dusk.nvim (⭐55)](https://github.com/imbacraft/dusk.nvim) - Dusk is a lightweight, aesthetically minimal Neovim config, written in Lua, able to provide for web and Java development.
 
 ## [May 30 - Jun 05, 2022](/content/2022/22/README.md)
-
-### Colorscheme / Tree-sitter Supported Colorscheme
-
-*   [theniceboy/nvim-deus (⭐73)](https://github.com/theniceboy/nvim-deus) - Vim-deus with Tree-sitter support.
 
 ### Utility / Cursorline
 

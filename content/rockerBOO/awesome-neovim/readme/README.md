@@ -689,7 +689,6 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [Th3Whit3Wolf/onebuddy (⭐101)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
 *   [ishan9299/modus-theme-vim (⭐177)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
 *   [sainnhe/edge (⭐981)](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material.
-*   [theniceboy/nvim-deus (⭐73)](https://github.com/theniceboy/nvim-deus) - Vim-deus with Tree-sitter support.
 *   [bkegley/gloombuddy (⭐48)](https://github.com/bkegley/gloombuddy) - Gloom inspired theme.
 *   [Th3Whit3Wolf/one-nvim (⭐115)](https://github.com/Th3Whit3Wolf/one-nvim) - An Atom One inspired dark and light colorscheme.
 *   [Th3Whit3Wolf/space-nvim (⭐48)](https://github.com/Th3Whit3Wolf/space-nvim) - A spacemacs inspired dark and light colorscheme.
@@ -729,7 +728,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [adisen99/apprentice.nvim (⭐45)](https://github.com/adisen99/apprentice.nvim) - Colorscheme written in Lua based on the [Apprentice (⭐912)](https://github.com/romainl/Apprentice) color palette with Tree-sitter and built-in LSP support.
 *   [olimorris/onedarkpro.nvim (⭐996)](https://github.com/olimorris/onedarkpro.nvim) - Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants.
 *   [rmehri01/onenord.nvim (⭐617)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
-*   [nvim-mini/mini.nvim#colorschemes (⭐8.4k)](https://github.com/nvim-mini/mini.nvim#plugin-colorschemes) - Color schemes included in `mini.nvim` plugin. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
+*   [nvim-mini/mini.nvim#colorschemes (⭐8.4k)](https://github.com/nvim-mini/mini.nvim#plugin-color-schemes) - Color schemes included in `mini.nvim`. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
 *   [luisiacc/gruvbox-baby (⭐442)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full Tree-sitter support.
 *   [titanzero/zephyrium (⭐26)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with Tree-sitter support.
 *   [rebelot/kanagawa.nvim (⭐5.7k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
@@ -760,7 +759,6 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [cryptomilk/nightcity.nvim (⭐71)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
 *   [polirritmico/monokai-nightasty.nvim (⭐157)](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
 *   [oxfist/night-owl.nvim (⭐326)](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode (⭐2.9k)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
-*   [svermeulen/text-to-colorscheme (⭐315)](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
 *   [miikanissi/modus-themes.nvim (⭐382)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
 *   [alexmozaidze/palenight.nvim (⭐24)](https://github.com/alexmozaidze/palenight.nvim) - Palenight colorscheme supporting Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
 *   [scottmckendry/cyberdream.nvim (⭐1.2k)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
@@ -789,7 +787,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [jpwol/thorn.nvim (⭐58)](https://github.com/jpwol/thorn.nvim) - A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
 *   [calind/selenized.nvim (⭐28)](https://github.com/calind/selenized.nvim) - Lua port of [selenized (⭐874)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
 *   [motaz-shokry/gruvbox.nvim](https://gitlab.com/motaz-shokry/gruvbox.nvim) - A new gruvbox theme with a different background color for the hard variant, and comes with 4 variants.
-*   [pebeto/dookie.nvim (⭐6)](https://github.com/pebeto/dookie.nvim) - A color scheme inspired by Plan9's acme editor.
+*   [pebeto/dookie.nvim (⭐9)](https://github.com/pebeto/dookie.nvim) - A color scheme inspired by Plan9's acme editor.
 
 ### Lua Colorscheme
 
@@ -809,6 +807,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [nvim-mini/mini.nvim#mini.colors (⭐8.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
 *   [nvim-mini/mini.nvim#mini.hues (⭐8.4k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hues.md) - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
 *   [loganswartz/polychrome.nvim (⭐26)](https://github.com/loganswartz/polychrome.nvim) - A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL.
+*   [svermeulen/text-to-colorscheme (⭐315)](https://github.com/svermeulen/text-to-colorscheme) - Allows the user to generate colorschemes with a text prompt using OpenAI's GPT API.
 
 ### Colorscheme Switchers
 
@@ -1251,6 +1250,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [chrisgrieser/nvim-justice (⭐34)](https://github.com/chrisgrieser/nvim-justice) - Lightweight integration of the `just` task runner.
 *   [pewpewnor/pilot.nvim (⭐5)](https://github.com/pewpewnor/pilot.nvim) - Run your projects and files quickly with keybindings, and configure how to run them on the fly.
 *   [ok97465/ipybridge.nvim (⭐8)](https://github.com/ok97465/ipybridge.nvim) - Run Python code, execute Jupyter cells, debug, and explore variables.
+*   [wsdjeg/code-runner.nvim (⭐5)](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
 
 <!--lint disable double-link -->
 

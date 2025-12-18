@@ -6,12 +6,23 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Dec 18, 2025](/content/2025/12/18/README.md)
+
+### Readline, ncurses and other graphical TUI helpers / Third-party APIs
+
+*   [old-norse (⭐12)](https://github.com/nallen05/old-norse) - a low-latency, grid-based terminal graphics engine with an integrated event loop. MIT.
+    *   mouse support, 60fps rendering, deploy anywhere via SSH or TTYD.
+*   [uncursed (⭐28)](https://github.com/Plisp/uncursed) - cross-platform library for writing terminal interfaces with minimal dependencies. BSD\_3Clause.
+    *   a higher-level buffered drawing abstraction and low-level utilities are provided.
+
 ## [Dec 15, 2025](/content/2025/12/15/README.md)
 
 ### REPLs / Third-party APIs
 
 *   [icl (⭐45)](https://github.com/atgreen/icl) - an enhanced REPL for the terminal. MIT.
     *   based on Slynk: shares many features with Slime.
+    *   interactive inspector
+    *   experimental `,explain` command that fires up Gemini or Claude CLI.
 
 ## [Dec 11, 2025](/content/2025/12/11/README.md)
 
@@ -1965,7 +1976,7 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   👍 [FSet](https://common-lisp.net/project/fset) - A functional, set-theoretic collections data structure library. [LLGPL](http://opensource.franz.com/preamble.html).
     *   defines four major types: seqs (sequences), maps (hash-tables), sets and bags (like sets, but they remember the number of times each member has been added to it).
-    *   an extension: [jfon](https://git.sr.ht/~skin/jfon) - an attempt at porting JZON (JSON parsing library) to FSet.
+    *   an extension: [jfon (⭐0)](https://github.com/djha-skin/jfon) - an attempt at porting JZON (JSON parsing library) to FSet.
 
 ### Lambda shorthands
 

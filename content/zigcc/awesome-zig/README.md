@@ -6,6 +6,20 @@ A collection of awesome projects in Zig.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Dec 18, 2025](/content/2025/12/18/README.md)
+
+### Data Structure and Algorithm / Linker
+
+*   [CogitatorTech/ordered (⭐30)](https://github.com/CogitatorTech/ordered): A sorted collection library (sorted sets and sorted maps) for Zig
+
+### Command Line and Argument Parser / Linker
+
+*   [CogitatorTech/chilli (⭐41)](https://github.com/CogitatorTech/chilli): Chilli 🌶️ is a minimalistic CLI framework for Zig.
+
+### Compilers and Interpreters / Linker
+
+*   [Element 0 (⭐17)](https://github.com/Element0Lang/element-0): A small embeddable Lisp dialect written in Zig.
+
 ## [Dec 13, 2025](/content/2025/12/13/README.md)
 
 ### Web Framework / Zigged Project
@@ -39,8 +53,8 @@ A collection of awesome projects in Zig.
 
 ### Game Field / Zigged Project
 
-*   [captkirk88/zevy-raylib (⭐1)](https://github.com/captkirk88/zevy-raylib) : Framework for building games in Zig using raylib-zig and zevy-ecs.
-*   [captkirk88/zevy-ecs (⭐5)](https://github.com/captkirk88/zevy-ecs) : ECS similar to rust Bevy supporting very similar systems params support + more.
+*   [captkirk88/zevy-raylib (⭐2)](https://github.com/captkirk88/zevy-raylib) : Framework for building games in Zig using raylib-zig and zevy-ecs.
+*   [captkirk88/zevy-ecs (⭐8)](https://github.com/captkirk88/zevy-ecs) : ECS similar to rust Bevy supporting very similar systems params support + more.
 
 ## [Nov 07, 2025](/content/2025/11/07/README.md)
 
@@ -1183,6 +1197,7 @@ A collection of awesome projects in Zig.
     *   [clebert/llama2.zig (⭐48)](https://github.com/clebert/llama2.zig) : Inference Llama 2 in pure Zig.
     *   [renerocksai/gpt4all.zig (⭐96)](https://github.com/renerocksai/gpt4all.zig) : ZIG build for a terminal-based chat client for an assistant-style large language model with \~800k GPT-3.5-Turbo Generations based on LLaMa.
     *   [EugenHotaj/zig\_gpt2 (⭐39)](https://github.com/EugenHotaj/zig_gpt2) : Neural Network Inference Engine in Zig. GPT2 inference engine written in Zig. The inference engine can run [NanoGPT (⭐51k)](https://github.com/karpathy/nanoGPT).
+    *   [CogitatorTech/zigformer (⭐34)](https://github.com/CogitatorTech/zigformer): ZigFormer is an transformer-based LLM implemented in pure Zig
 
 ### Database / Zigged Project
 

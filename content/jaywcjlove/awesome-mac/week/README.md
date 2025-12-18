@@ -8,6 +8,10 @@
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
+### Developer Tools / API Development and Analysis
+
+*   [Mockoon](https://mockoon.com/) - Create mock APIs in seconds. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/mockoon/mockoon)
+
 ### Browsers / Audio Record and Process
 
 *   [Helium](https://helium.computer/) - A free, open-source, private and honest web browser based on Chromium with Ublock Pre-Installed. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/imputnet/helium) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
@@ -15,6 +19,11 @@
 ### Proxy and VPN Tools / Audio Record and Process
 
 *   [Jumper VPN](https://jumpervpn.com/) - VPN Client for Mac and other platforms, secure, fast VPN proxy.
+
+### Utilities / Clipboard Tools
+
+*   [Paste Quick](https://wangchujiang.com/paste-quick/) - A simple, privacy-first clipboard manager. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/paste-quick/6723903021)
+*   [OneClip (⭐73)](https://github.com/Wcowin/OneClip) - A simple and professional macOS clipboard manager. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Wcowin/OneClip) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
@@ -981,10 +990,6 @@
 ### Security Tools / Audio Record and Process
 
 *   [swiftGuard (⭐426)](https://github.com/Lennolium/swiftGuard) - Lightweight App that safeguards your System's USB Ports from any Unauthorized Access and performs various Counter-Measures. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Lennolium/swiftGuard) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-
-### Utilities / Clipboard Tools
-
-*   [Boop](https://boop.okat.best/) - Snippet tool that provides various functionalities like JSON formatting, MD5 Checksum, reverse string, encode, and much more. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/IvanMathy/Boop)
 
 ## [Sep 18 - Sep 24, 2023](/content/2023/38/README.md)
 

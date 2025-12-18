@@ -540,7 +540,7 @@ lists and sequences:
 
 *   👍 [FSet](https://common-lisp.net/project/fset) - A functional, set-theoretic collections data structure library. [LLGPL][8].
     *   defines four major types: seqs (sequences), maps (hash-tables), sets and bags (like sets, but they remember the number of times each member has been added to it).
-    *   an extension: [jfon](https://git.sr.ht/~skin/jfon) - an attempt at porting JZON (JSON parsing library) to FSet.
+    *   an extension: [jfon (⭐0)](https://github.com/djha-skin/jfon) - an attempt at porting JZON (JSON parsing library) to FSet.
 *   [sycamore (⭐128)](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD\_3Clause][15].
     *   comparison: [FSet vs. Sycamore](https://scottlburson2.blogspot.com/2024/10/comparison-fset-vs-sycamore.html)
 *   [modf (⭐69)](https://github.com/smithzvk/modf) - a setf-like macro for functional programming.
@@ -1699,6 +1699,10 @@ do better? We can always build a binary.*
 *   [cl-progress-bar (⭐19)](https://github.com/sirherrbatka/cl-progress-bar/) - progress bars, just like in Quicklisp ! [MIT][200].
     *   and [progressons (⭐14)](https://github.com/vindarel/progressons), a progress bar on one line, for real an dumb terminals. MIT.
 *   [text-draw](https://codeberg.org/shinmera/text-draw) - Toolkit to draw graphics using pure Unicode text only: boxes, backgrounds, checkboxes and radio buttons, lines, arrows, tables, trees… zlib.
+*   [old-norse (⭐12)](https://github.com/nallen05/old-norse) - a low-latency, grid-based terminal graphics engine with an integrated event loop. MIT.
+    *   mouse support, 60fps rendering, deploy anywhere via SSH or TTYD.
+*   [uncursed (⭐28)](https://github.com/Plisp/uncursed) - cross-platform library for writing terminal interfaces with minimal dependencies. BSD\_3Clause.
+    *   a higher-level buffered drawing abstraction and low-level utilities are provided.
 
 ## Shells, shells interfaces
 
@@ -1857,6 +1861,8 @@ Tools:
 
 *   [icl (⭐45)](https://github.com/atgreen/icl) - an enhanced REPL for the terminal. MIT.
     *   based on Slynk: shares many features with Slime.
+    *   interactive inspector
+    *   experimental `,explain` command that fires up Gemini or Claude CLI.
 *   [cl-repl (⭐33)](https://github.com/lisp-maintainers/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [GPL3][2].
     *   binary releases: simply download a binary (Ubuntu, OSX, Windows) and run it.
     *   [colorthemes (⭐12)](https://github.com/koji-kojiro/lem-pygments-colorthemes).
