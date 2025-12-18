@@ -2,9 +2,16 @@
 
 🔥 List of Genkit talks, plugins, tools, examples & articles! Contributions welcome!
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xavidop/awesome-firebase-genkit](https://github.com/xavidop/awesome-genkit) · ⭐ 96 · 🏷️ LLM
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/xavidop/awesome-firebase-genkit/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 xavidop/awesome-firebase-genkit](https://github.com/xavidop/awesome-genkit) · ⭐ 102 · 🏷️ LLM
 
 [ [Daily](/content/xavidop/awesome-firebase-genkit/README.md) / Weekly / [Overview](/content/xavidop/awesome-firebase-genkit/readme/README.md) ]
+
+## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
+
+### Plugins / Golang - Community
+
+*   Vector Store Plugins
+    *   [`qdrant`](https://github.com/qdrant/qdrant-genkit/tree/main/go) - Plugin for Qdrant Vector Stores.
 
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
@@ -45,6 +52,8 @@
     *   [`genkitx-chromadb`](https://genkit.dev/docs/plugins/chroma/) - Plugin for Chroma Vector Stores.
     *   [`genkitx-neo4j`](https://genkit.dev/docs/plugins/neo4j/) - Plugin for Neo4j Vector Stores.
     *   [`genkitx-cloud-sql-pg`](https://genkit.dev/docs/plugins/cloud-sql-pg/) - Plugin for Cloud SQL for PostgreSQL Vector Stores.
+    *   [`genkitx-weaviate`](https://github.com/xavidop/genkitx-weaviate) - Plugin for Weaviate Vector Stores.
+    *   [`genkitx-mongodb`](https://github.com/mongodb-partners/genkitx-mongodb/tree/main/plugin) - Plugin for MongoDB Vector Stores.
 
 ### Plugins / Python - Official
 
@@ -69,6 +78,7 @@
     *   [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
     *   [`pgvector`](https://genkit.dev/go/docs/plugins/pgvector/) - Plugin for PostgreSQL (PGVector) Vector Stores.
     *   [`postgresql`](https://genkit.dev/go/docs/plugins/cloud-sql-pg/) - Plugin for Cloud SQL for PostgreSQL Vector Stores.
+    *   [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) - Plugin for Weaviate Vector Stores.
 *   Monitoring Plugins
     *   [`googlecloud`](https://genkit.dev/go/docs/plugins/google-cloud/) - The Google Cloud plugin exports Genkit's telemetry and logging data to Google Cloud's operation suite.
 *   Other Plugins:
@@ -237,4 +247,4 @@
 
 *   [Firebase](https://x.com/firebase) - Official Twitter account for Firebase.
 *   [Genkit Discord server](https://discord.gg/qXt5zzQKpc) - Official Discord server for Genkit.
-*   [Genkit GitHub (⭐5k)](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.
+*   [Genkit GitHub (⭐5.2k)](https://github.com/firebase/genkit) - Official GitHub repository for Genkit.

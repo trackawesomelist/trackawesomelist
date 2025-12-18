@@ -6,6 +6,14 @@ Everything that makes working with databases easier
 
 [ Daily / [Weekly](/content/mgramin/awesome-db-tools/week/README.md) / [Overview](/content/mgramin/awesome-db-tools/readme/README.md) ]
 
+## [Dec 18, 2025](/content/2025/12/18/README.md)
+
+### Data / Data Profilers
+
+*   [Data Profiler (⭐1.5k)](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
+*   [Desbordante (⭐451)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+*   [YData Profiling (⭐13k)](https://github.com/ydataai/ydata-profiling) - A general-purpose open-source data profiler for high-level analysis of a dataset.
+
 ## [Dec 16, 2025](/content/2025/12/16/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
