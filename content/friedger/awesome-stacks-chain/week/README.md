@@ -6,6 +6,12 @@ A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Tr
 
 [ [Daily](/content/friedger/awesome-stacks-chain/README.md) / Weekly / [Overview](/content/friedger/awesome-stacks-chain/readme/README.md) ]
 
+## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
+
+### Clarity Resources / Developer Tools
+
+*   [secondlayer (⭐1)](https://github.com/ryanwaits/secondlayer) - TypeScript code generation for Clarity contracts with React hooks and testing utilities. Inspired by Clarigen.
+
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
 ### Apps / Wallets
