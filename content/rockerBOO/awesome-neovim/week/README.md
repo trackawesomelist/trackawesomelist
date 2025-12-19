@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
+### Project / Assembly
+
+*   [mrjones2014/codesettings.nvim (⭐32)](https://github.com/mrjones2014/codesettings.nvim) - Load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings easily.
+
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
 *   [nvim-mini/mini.nvim#colorschemes (⭐8.4k)](https://github.com/nvim-mini/mini.nvim#plugin-color-schemes) - Color schemes included in `mini.nvim`. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
@@ -1784,7 +1788,6 @@ Collections of awesome neovim plugins.
 *   [Abstract-IDE/Abstract-cs (⭐110)](https://github.com/Abstract-IDE/Abstract-cs) - Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
 *   [comfysage/evergarden (⭐520)](https://github.com/comfysage/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
 *   [jim-at-jibba/ariake.nvim (⭐23)](https://github.com/jim-at-jibba/ariake.nvim) - A port of the great Atom theme. Beautiful, dark colour scheme.
-*   [RRethy/base16-nvim (⭐615)](https://github.com/RRethy/base16-nvim) - Neovim plugin for building base16 colorschemes. Includes support for Tree-sitter and LSP highlight groups.
 *   [niyabits/calvera-dark.nvim (⭐158)](https://github.com/niyabits/calvera-dark.nvim) - A port of [VSCode Calvara Dark (⭐12)](https://github.com/saurabhdaware/vscode-calvera-dark) Theme to Neovim with Tree-sitter and many other plugins support.
 *   [Everblush/nvim (⭐288)](https://github.com/Everblush/nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
 *   [mellow-theme/mellow.nvim (⭐392)](https://github.com/mellow-theme/mellow.nvim) - A soothing dark color scheme with Tree-sitter support.
@@ -1795,6 +1798,10 @@ Collections of awesome neovim plugins.
 ### Colorscheme / Colorscheme Creation
 
 *   [ThemerCorp/themer.lua (⭐259)](https://github.com/ThemerCorp/themer.lua) - A simple highlighter plugin for Neovim. It has a huge collection of colorschemes. It also has ability to create colorschemes for Vim/Neovim and other supported apps (such as kitty and alacritty).
+
+### Colorscheme / Colorscheme Switchers
+
+*   [RRethy/base16-nvim (⭐615)](https://github.com/RRethy/base16-nvim) - A base16 colorscheme builder. Includes support for Tree-sitter and LSP highlight groups.
 
 ### Bars and Lines / Statusline
 

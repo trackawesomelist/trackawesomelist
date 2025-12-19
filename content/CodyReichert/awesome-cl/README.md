@@ -6,6 +6,14 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 [ Daily / [Weekly](/content/CodyReichert/awesome-cl/week/README.md) / [Overview](/content/CodyReichert/awesome-cl/readme/README.md) ]
 
+## [Dec 19, 2025](/content/2025/12/19/README.md)
+
+### To third parties
+
+*   [cl-remizmq](https://fossil.cyberia9.org/cl-remizmq/index) - ZeroMQ sockets, messages, timers, atomics, and proxies.
+    *   low-level and high-level APIs. Tested with libzmq 5.2.5, any v4.x and v5.x should work, v3.x may as well.
+    *   maybe also: [pzmq (⭐38)](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
+
 ## [Dec 18, 2025](/content/2025/12/18/README.md)
 
 ### Readline, ncurses and other graphical TUI helpers / Third-party APIs
@@ -1642,12 +1650,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 *   [alive (⭐248)](https://github.com/nobody-famous/alive) -  Common Lisp Extension for VSCode. Public domain.
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
-
-## [Sep 26, 2021](/content/2021/09/26/README.md)
-
-### To third parties
-
-*   [pzmq (⭐38)](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
 
 ## [Sep 23, 2021](/content/2021/09/23/README.md)
 

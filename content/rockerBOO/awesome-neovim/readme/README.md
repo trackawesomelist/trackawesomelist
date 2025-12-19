@@ -623,6 +623,7 @@ Collections of awesome neovim plugins.
 *   [LucasTavaresA/headers.nvim (⭐4)](https://github.com/LucasTavaresA/headers.nvim) - Zero-config header/footer warnings.
 *   [zongben/proot.nvim (⭐9)](https://github.com/zongben/proot.nvim) - Lightweight project navigator with telescope.
 *   [wsdjeg/rooter.nvim (⭐19)](https://github.com/wsdjeg/rooter.nvim) - Change working directory to project root.
+*   [mrjones2014/codesettings.nvim (⭐32)](https://github.com/mrjones2014/codesettings.nvim) - Load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings easily.
 
 <!--lint disable double-link -->
 
@@ -697,7 +698,6 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 *   [tanvirtin/monokai.nvim (⭐380)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 *   [ofirgall/ofirkai.nvim (⭐133)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
 *   [savq/melange-nvim (⭐904)](https://github.com/savq/melange-nvim) - Warm colorscheme written in Lua with support for various terminal emulators.
-*   [RRethy/base16-nvim (⭐615)](https://github.com/RRethy/base16-nvim) - Neovim plugin for building base16 colorschemes. Includes support for Tree-sitter and LSP highlight groups.
 *   [fenetikm/falcon (⭐820)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 *   [andersevenrud/nordic.nvim (⭐175)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
 *   [AlexvZyl/nordic.nvim (⭐950)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
@@ -822,6 +822,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 *   [LmanTW/themify.nvim (⭐58)](https://github.com/LmanTW/themify.nvim/tree/main) - A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim.
 *   [nishu-murmu/ThemeSwitch.nvim (⭐4)](https://github.com/nishu-murmu/ThemeSwitch.nvim) - Light weight color scheme switcher.
 *   [Erl-koenig/theme-hub.nvim (⭐23)](https://github.com/Erl-koenig/theme-hub.nvim) - Manage and install colorschemes via telescope-pickers.
+*   [RRethy/base16-nvim (⭐615)](https://github.com/RRethy/base16-nvim) - A base16 colorscheme builder. Includes support for Tree-sitter and LSP highlight groups.
 
 <!--lint disable double-link -->
 

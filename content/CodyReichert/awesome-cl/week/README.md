@@ -8,6 +8,12 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
+### To third parties
+
+*   [cl-remizmq](https://fossil.cyberia9.org/cl-remizmq/index) - ZeroMQ sockets, messages, timers, atomics, and proxies.
+    *   low-level and high-level APIs. Tested with libzmq 5.2.5, any v4.x and v5.x should work, v3.x may as well.
+    *   maybe also: [pzmq (⭐38)](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
+
 ### Readline, ncurses and other graphical TUI helpers / Third-party APIs
 
 *   [old-norse (⭐12)](https://github.com/nallen05/old-norse) - a low-latency, grid-based terminal graphics engine with an integrated event loop. MIT.
@@ -1597,10 +1603,6 @@ A curated list of awesome Common Lisp frameworks, libraries and other shiny stuf
     *   see the Cookbook: [using VSCode with Alive](https://lispcookbook.github.io/cl-cookbook/vscode-alive.html)
 
 ## [Sep 20 - Sep 26, 2021](/content/2021/38/README.md)
-
-### To third parties
-
-*   [pzmq (⭐38)](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
 
 ### Compression / decompression / Third-party APIs
 

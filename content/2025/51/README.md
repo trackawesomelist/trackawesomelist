@@ -1,12 +1,26 @@
 # Awesome List Updates on Dec 22 - Dec 28, 2025
 
-25 awesome lists updated this week.
+26 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [1. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+
+### Productivity / Testing
+
+*   [hns (⭐59)](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
+
+### Utilities / Academia
+
+*   [OneCite (⭐44)](https://github.com/HzaCode/OneCite) - Universal toolkit to generate citations.
+
+### Files and Directories / File Sync/Sharing
+
+*   [share (⭐49)](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
+
+## [2. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Data Structure and Algorithm / Linker
 
@@ -20,7 +34,7 @@
 
 *   [Element 0 (⭐17)](https://github.com/Element0Lang/element-0): A small embeddable Lisp dialect written in Zig.
 
-## [2. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [3. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Commands
 
@@ -55,50 +69,54 @@
 
 *   [OpenContracts (⭐1.1k)](https://github.com/Open-Source-Legal/OpenContracts) - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
 
-## [3. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
+## [4. Awesome Generative Deep Art](/content/filipecalegario/awesome-generative-deep-art/week/README.md)
 
 ### Image Segmentation / Deforum
 
 *   [MuseGen](https://musegen.org): An AI music studio for lyric writing and song generation, built for creators
 
-## [4. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
+## [5. Awesome LaTeX](/content/egeerardyn/awesome-LaTeX/week/README.md)
 
 ### Online editors
 
 *   [Octree](https://useoctree.com) - Online editor with AI writing assistance.
 
-## [5. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
+### Tools centered around equations
+
+*   [Image to LaTeX](https://www.underleaf.ai/tools/image-to-latex) - AI-powered converter that transforms images of handwritten notes, equations, or tables into clean LaTeX code.
+
+## [6. Awesome Firebase Genkit](/content/xavidop/awesome-firebase-genkit/week/README.md)
 
 ### Plugins / Golang - Community
 
 *   Vector Store Plugins
     *   [`qdrant`](https://github.com/qdrant/qdrant-genkit/tree/main/go) - Plugin for Qdrant Vector Stores.
 
-## [6. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
+## [7. Awesome Pentest](/content/enaqx/awesome-pentest/week/README.md)
 
 ### Android Utilities
 
 *   [cSploit (⭐3.5k)](https://github.com/cSploit/android) - Advanced IT security professional toolkit on Android featuring an integrated Metasploit daemon and MITM capabilities.
 
-## [7. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
+## [8. Awesome Gbdev](/content/gbdev/awesome-gbdev/week/README.md)
 
 ### Related projects / Syntax highlighting packages
 
 *   [visual-sm83](https://iceboy.a-singer.de/visual6502/expert-sm83.html) - A visual transistor level simulation of the Game Boy CPU core in JavaScript, running in a browser.
 
-## [8. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [9. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / Declarative DSL Applications
 
 *   [GarmentCode: Programming Parametric Sewing Patterns](https://dl.acm.org/doi/abs/10.1145/3618351) - ***ACM Transactions on Graphics***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=9890151343262605598)]. Garment modeling is an essential task of the global apparel industry and a core part of digital human modeling. Realistic representation of garments with valid sewing patterns is key to their accurate digital simulation and eventual fabrication. However, little-to-no computational tools provide support for bridging the gap between high-level construction goals and low-level editing of pattern geometry, e.g., combining or switching garment elements, semantic editing, or design exploration that maintains the validity of a sewing pattern. This work suggests the first DSL for garment modeling - GarmentCode - that applies principles of object-oriented programming to garment construction and allows designing sewing patterns in a hierarchical, component-oriented manner. The programming-based paradigm naturally provides unique advantages of component abstraction, algorithmic manipulation, and free-form design parametrization. The authors additionally support the construction process by automating typical low-level tasks like placing a dart at a desired location. In the prototype garment configurator, users can manipulate meaningful design parameters and body measurements, while the construction of pattern geometry is handled by garment programs implemented with GarmentCode.
 
-## [9. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [10. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   :octocat: [Suites (⭐506)](https://github.com/suites-dev/suites) - Unit testing framework for TypeScript backends working with inversion of control (IoC) and dependency injection frameworks.
 
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [11. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -114,12 +132,13 @@
 *   **xenon** :warning: — Monitor code complexity using [`radon`](https://github.com/rubik/radon).
 *   [flay](https://ruby.sadi.st/Flay.html) — Flay analyzes code for structural similarities.
 *   [flog](https://ruby.sadi.st/Flog.html) — Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
-*   [Roodi](https://github.com/roodi/roodi) — Roodi stands for Ruby Object Oriented Design Inferometer. It parses your Ruby code and warns you about design issues you have based on the checks that it has configured.
+*   [Roodi (⭐277)](https://github.com/roodi/roodi) — Roodi stands for Ruby Object Oriented Design Inferometer. It parses your Ruby code and warns you about design issues you have based on the checks that it has configured.
 *   **verible-linter-action** :warning: — Automatic SystemVerilog linting in github actions with the help of Verible Used to lint Verilog and SystemVerilog source files and comment erroneous lines  of code in Pull Requests automatically.
 
 ### Other / [Other](#other-1)
 
 *   **NodeJSScan** :warning: — A static security code scanner for Node.js applications powered by libsast and semgrep that builds on the njsscan cli tool. It features a UI with various dashboards about an application's security status.
+*   [TangleGuard](https://tangleguard.com/) :copyright: — A tool that helps developers to understand and maintain their software architecture. It generates interactive, configurable dependency graphs out of source code, with all packages and modules included. You can choose the level of details and get what portions of your codebase gets rendered. That way you get a quick understanding of the software's architecture and detect unwanted dependencies and spaghetti code which harm efficient maintenance and leads to technical debt and inflexibility.
 *   [mdl (⭐2k)](https://github.com/mivok/markdownlint) — A tool to check Markdown files and flag style issues.
 *   **njsscan** :warning: — A static application testing (SAST) tool that can find insecure code patterns in your node.js applications using simple pattern matcher from libsast and syntax-aware semantic code pattern search tool semgrep.
 *   **HasMySecretLeaked** :warning: :copyright: — HasMySecretLeaked is a project from GitGuardian that aims to help individual users and organizations search across 20 million exposed secrets to verify if their  developer secrets have leaked on public repositories, gists, and issues on GitHub projects.
@@ -134,25 +153,25 @@
 *   [sqlvet (⭐496)](https://github.com/houqp/sqlvet) — Performs static analysis on raw SQL queries in your Go code base to surface potential runtime errors. It checks for SQL syntax error, identifies unsafe queries that could potentially lead to SQL injections makes sure column count matches value count in INSERT statements and validates table- and column names.
 *   [TencentCodeAnalysis](https://tca.tencent.com/) — Tencent Cloud Code Analysis (TCA for short, code-named CodeDog inside the company early) is a comprehensive platform for code analysis and issue tracking. TCA consist of three components, server, web and client. It integrates of a number of self-developed tools, and also supports dynamic integration of code analysis tools in various programming languages.
 
-## [11. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
+## [12. Awesome Ai](/content/abordage/awesome-ai/week/README.md)
 
 ### Gemini / Laravel
 
 *   [Jasonzhangf/gemini-cli-router (⭐16)](https://github.com/Jasonzhangf/gemini-cli-router) — routing your gemini-cli to openai 3rd party providers ☆`17`
 
-## [12. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
+## [13. Awesome Opentofu](/content/virtualroot/awesome-opentofu/week/README.md)
 
 ### Tools / CI
 
 *   [drifthound (⭐6)](https://github.com/treezio/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
 
-## [13. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
+## [14. Awesome Embedded Rust](/content/rust-embedded/awesome-embedded-rust/week/README.md)
 
 ### no-std crates / WIP
 
 *   [locate-rs (⭐0)](https://github.com/trembel/locate-rs): Microcontroller-optimized solver for Indoor Localization (Multilateration / TDOA) - [![crates.io](https://img.shields.io/crates/v/locate-rs.svg)](https://crates.io/crates/locate-rs)
 
-## [14. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
+## [15. Awesome Db Tools](/content/mgramin/awesome-db-tools/week/README.md)
 
 ### Monitoring/Statistics/Perfomance / Samples
 
@@ -164,13 +183,17 @@
 *   [Desbordante (⭐451)](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
 *   [YData Profiling (⭐13k)](https://github.com/ydataai/ydata-profiling) - A general-purpose open-source data profiler for high-level analysis of a dataset.
 
-## [15. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
+## [16. Awesome Lowcode](/content/antdimot/awesome-lowcode/week/README.md)
 
 ### AI
 
 *   [OpenCreator](https://opencreator.ai/) - All-in-one AI workspace for creating product visuals (images and videos) with node-based workflow automation and batch generation.
 
-## [16. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [17. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Project / Assembly
+
+*   [mrjones2014/codesettings.nvim (⭐32)](https://github.com/mrjones2014/codesettings.nvim) - Load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings easily.
 
 ### Colorscheme / Tree-sitter Supported Colorscheme
 
@@ -188,25 +211,31 @@
 
 *   [wsdjeg/code-runner.nvim (⭐5)](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
 
-## [17. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [18. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### ORM / HTTP Clients
 
 *   [FrancoLiberali/cql (⭐16)](https://github.com/FrancoLiberali/cql) — CQL: Compiled Query Language ☆`16`
 
-## [18. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
+## [19. Awesome Cmake](/content/onqtam/awesome-cmake/week/README.md)
 
 ### Package Management / Build Systems
 
 *   [FetchDependency (⭐3)](https://github.com/jpetrie/fetch-dependency) - Configuration-time retrieval, configuration and building of dependencies. [`[MIT]`](https://opensource.org/licenses/MIT)
 
-## [19. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
+## [20. Awesome Php](/content/ziadoz/awesome-php/week/README.md)
 
 ### Table of Contents / Markup and CSS
 
 *   [Djot (⭐12)](https://github.com/php-collective/djot-php) - A PHP parser for [Djot](https://djot.net/), a modern light markup language (successor of Markdown).
 
-## [20. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [21. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+
+### To third parties
+
+*   [cl-remizmq](https://fossil.cyberia9.org/cl-remizmq/index) - ZeroMQ sockets, messages, timers, atomics, and proxies.
+    *   low-level and high-level APIs. Tested with libzmq 5.2.5, any v4.x and v5.x should work, v3.x may as well.
+    *   maybe also: [pzmq (⭐38)](https://github.com/orivej/pzmq) -  ZeroMQ 4.0+ Common Lisp bindings. Unlicense.
 
 ### Readline, ncurses and other graphical TUI helpers / Third-party APIs
 
@@ -222,7 +251,7 @@
     *   interactive inspector
     *   experimental `,explain` command that fires up Gemini or Claude CLI.
 
-## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [22. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### APIs, Data, and ML
 
@@ -240,14 +269,15 @@
 ### Other Free Resources
 
 *   [JSON Viewer Tool](https://jsonviewertool.com/) – View, format, validate, minify, and convert JSON data directly in the browser (no API key required).
+*   [ToolsHref](https://toolshref.com) - A suite of free developer utilities including Java code generation (JSON-to-POJO, cURL-to-Java), static analysis, and DevOps config builders (Docker, K8s, Nginx).
 
-## [22. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
+## [23. Awesome Rails](/content/gramantin/awesome-rails/week/README.md)
 
 ### Gems / Other external resources
 
 *   [subflag-rails (⭐1)](https://github.com/subflag/sdk/tree/main/packages/subflag-rails) - A gem for feature flags and dynamic config that uses ActiveRecord. [🔴](https://rubygems.org/gems/subflag-rails)
 
-## [23. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [24. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
@@ -261,7 +291,7 @@
 
 *   [fast/logforth (⭐194)](https://github.com/fast/logforth) - A versatile, extensible, and easy-to-use logging framework for Rust applications. It allows you to configure multiple dispatches, filters, and appenders to customize your logging setup according to your needs.
 
-## [24. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [25. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Developer Tools / API Development and Analysis
 
@@ -280,7 +310,7 @@
 *   [Paste Quick](https://wangchujiang.com/paste-quick/) - A simple, privacy-first clipboard manager. [![App Store](https://jaywcjlove.github.io/sb/ico/min-app-store.svg "App Store Software")](https://apps.apple.com/app/paste-quick/6723903021)
 *   [OneClip (⭐73)](https://github.com/Wcowin/OneClip) - A simple and professional macOS clipboard manager. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/Wcowin/OneClip) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [26. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Completions / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

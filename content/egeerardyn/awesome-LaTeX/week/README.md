@@ -12,6 +12,10 @@ Curated list of LaTeX awesomeness
 
 *   [Octree](https://useoctree.com) - Online editor with AI writing assistance.
 
+### Tools centered around equations
+
+*   [Image to LaTeX](https://www.underleaf.ai/tools/image-to-latex) - AI-powered converter that transforms images of handwritten notes, equations, or tables into clean LaTeX code.
+
 ## [Dec 01 - Dec 07, 2025](/content/2025/48/README.md)
 
 ### Bibliography tools

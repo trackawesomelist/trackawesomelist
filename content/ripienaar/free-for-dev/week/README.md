@@ -24,6 +24,7 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 ### Other Free Resources
 
 *   [JSON Viewer Tool](https://jsonviewertool.com/) – View, format, validate, minify, and convert JSON data directly in the browser (no API key required).
+*   [ToolsHref](https://toolshref.com) - A suite of free developer utilities including Java code generation (JSON-to-POJO, cURL-to-Java), static analysis, and DevOps config builders (Docker, K8s, Nginx).
 
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 

@@ -6,6 +6,12 @@ Curated list of LaTeX awesomeness
 
 [ Daily / [Weekly](/content/egeerardyn/awesome-LaTeX/week/README.md) / [Overview](/content/egeerardyn/awesome-LaTeX/readme/README.md) ]
 
+## [Dec 19, 2025](/content/2025/12/19/README.md)
+
+### Tools centered around equations
+
+*   [Image to LaTeX](https://www.underleaf.ai/tools/image-to-latex) - AI-powered converter that transforms images of handwritten notes, equations, or tables into clean LaTeX code.
+
 ## [Dec 18, 2025](/content/2025/12/18/README.md)
 
 ### Online editors

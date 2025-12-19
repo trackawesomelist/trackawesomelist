@@ -1177,6 +1177,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [RustViz (⭐2.8k)](https://github.com/rustviz/rustviz) — RustViz is a tool that generates visualizations  from simple Rust programs to assist users in better  understanding the Rust Lifetime and Borrowing mechanism. It generates SVG files with graphical indicators that integrate  with mdbook to render visualizations of data-flow in Rust programs.
 
+*   [TangleGuard](https://tangleguard.com/) :copyright: — A tool that helps developers to understand and maintain their software architecture. It generates interactive, configurable dependency graphs out of source code, with all packages and modules included. You can choose the level of details and get what portions of your codebase gets rendered. That way you get a quick understanding of the software's architecture and detect unwanted dependencies and spaghetti code which harm efficient maintenance and leads to technical debt and inflexibility.
+
 *   **warnalyzer** :warning: — Show unused code from multi-crate Rust projects
 
 <a name="sql" />
@@ -1824,6 +1826,8 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 *   [Reviewdog (⭐8.9k)](https://github.com/haya14busa/reviewdog) — A tool for posting review comments from any linter in any code hosting service.
 
 *   [Symfony Insight](https://insight.symfony.com/) :copyright: — Detect security risks, find bugs and provide actionable metrics for PHP projects.
+
+*   [TangleGuard](https://tangleguard.com/) :copyright: — A tool that helps developers to understand and maintain their software architecture. It generates interactive, configurable dependency graphs out of source code, with all packages and modules included. You can choose the level of details and get what portions of your codebase gets rendered. That way you get a quick understanding of the software's architecture and detect unwanted dependencies and spaghetti code which harm efficient maintenance and leads to technical debt and inflexibility.
 
 *   [Violations Lib (⭐153)](https://github.com/tomasbjerre/violations-lib) — Java library for parsing report files from static code analysis. Used by a bunch of Jenkins, Maven and Gradle plugins.
 
