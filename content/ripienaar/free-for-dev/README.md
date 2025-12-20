@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Dec 20, 2025](/content/2025/12/20/README.md)
+
+### Miscellaneous
+
+*   [Calcmatic](https://calcmatic.app) — Free online calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance. No login required.
+
 ## [Dec 19, 2025](/content/2025/12/19/README.md)
 
 ### Other Free Resources

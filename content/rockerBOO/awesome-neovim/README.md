@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 20, 2025](/content/2025/12/20/README.md)
+
+### Colorscheme / Assembly
+
+*   `[TS]` - Has Tree-sitter highlighting.
+*   `[LSP]` - Has LSP Semantic Tokens support.
+*   `[L/D]` - Has both "light" and "dark" variants.
+*   `[Lua]` - Is written in Lua.
+*   `[Fnl]` - Is written in Fennel.
+
 ## [Dec 19, 2025](/content/2025/12/19/README.md)
 
 ### Project / Assembly
@@ -14,9 +24,9 @@ Collections of awesome neovim plugins.
 
 ## [Dec 18, 2025](/content/2025/12/18/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [nvim-mini/mini.nvim#colorschemes (⭐8.4k)](https://github.com/nvim-mini/mini.nvim#plugin-color-schemes) - Color schemes included in `mini.nvim`. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
+*   [nvim-mini/mini.nvim#colorschemes (⭐8.4k)](https://github.com/nvim-mini/mini.nvim#plugin-color-schemes) - `[TS][LSP][L/D][Lua]` Color schemes included in `mini.nvim`. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
 
 ### Code Runner / Quickfix
 
@@ -72,9 +82,9 @@ Collections of awesome neovim plugins.
 
 ## [Dec 01, 2025](/content/2025/12/01/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [pebeto/dookie.nvim (⭐9)](https://github.com/pebeto/dookie.nvim) - A color scheme inspired by Plan9's acme editor.
+*   [pebeto/dookie.nvim (⭐9)](https://github.com/pebeto/dookie.nvim) - `[TS][Lua]` A color scheme inspired by Plan9's acme editor.
 
 ## [Nov 30, 2025](/content/2025/11/30/README.md)
 
@@ -150,9 +160,9 @@ Collections of awesome neovim plugins.
 
 ## [Nov 17, 2025](/content/2025/11/17/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [motaz-shokry/gruvbox.nvim](https://gitlab.com/motaz-shokry/gruvbox.nvim) - A new gruvbox theme with a different background color for the hard variant, and comes with 4 variants.
+*   [motaz-shokry/gruvbox.nvim](https://gitlab.com/motaz-shokry/gruvbox.nvim) - `[TS][L/D][Lua]` A new gruvbox theme with a different background color for the hard variant, and comes with 4 variants.
 
 ### Colorscheme / Colorscheme Switchers
 
@@ -258,9 +268,9 @@ Collections of awesome neovim plugins.
 
 ## [Nov 07, 2025](/content/2025/11/07/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [jpwol/thorn.nvim (⭐58)](https://github.com/jpwol/thorn.nvim) - A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
+*   [jpwol/thorn.nvim (⭐58)](https://github.com/jpwol/thorn.nvim) - `[TS][LSP][L/D][Lua]` A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
 
 ### Note Taking / Cursorline
 
@@ -332,7 +342,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [wsdjeg/git.nvim (⭐8)](https://github.com/wsdjeg/git.nvim) - An asynchronous git command wrapper plugin, using `:Git` command instead of `:!git`.
+*   [wsdjeg/git.nvim (⭐8)](https://github.com/wsdjeg/git.nvim) - An asynchronous Git command wrapper plugin, using `:Git` command instead of `:!git`.
 
 ### Editing Support / Scrollbar
 
@@ -366,9 +376,9 @@ Collections of awesome neovim plugins.
 
 *   [markgandolfo/dartboard.nvim (⭐15)](https://github.com/markgandolfo/dartboard.nvim) - Mark files and quickly access them, inspired by Harpoon and Lasso.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [pmouraguedes/neodarcula.nvim (⭐11)](https://github.com/pmouraguedes/neodarcula.nvim) - A dark theme with support for transparency, dimming, LSP semantic tokens and more.
+*   [pmouraguedes/neodarcula.nvim (⭐11)](https://github.com/pmouraguedes/neodarcula.nvim) - `[TS][LSP][Lua]` A dark theme with support for transparency, dimming, LSP semantic tokens and more.
 
 ### Icon / Cursorline
 
@@ -437,9 +447,9 @@ Collections of awesome neovim plugins.
 
 *   [leblocks/hopcsharp.nvim (⭐10)](https://github.com/leblocks/hopcsharp.nvim) - Provides LSP-less navigation and type-hierarchy information in C# repositories.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [kuri-sun/yoda.nvim (⭐10)](https://github.com/kuri-sun/yoda.nvim) - Muted green palette for focused, balanced editing.
+*   [kuri-sun/yoda.nvim (⭐10)](https://github.com/kuri-sun/yoda.nvim) - `[TS][LSP][L/D][Lua]` Muted green palette for focused, balanced editing.
 
 ## [Oct 19, 2025](/content/2025/10/19/README.md)
 
@@ -449,7 +459,7 @@ Collections of awesome neovim plugins.
 
 ### Fuzzy Finder / Assembly
 
-*   [dmtrKovalenko/fff.nvim (⭐981)](https://github.com/dmtrKovalenko/fff.nvim) - Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, git status bonuses and much more.
+*   [dmtrKovalenko/fff.nvim (⭐981)](https://github.com/dmtrKovalenko/fff.nvim) - Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, Git status bonuses and much more.
 
 ### File Explorer / Assembly
 
@@ -472,7 +482,7 @@ Collections of awesome neovim plugins.
 ### Test / Quickfix
 
 *   [zkucekovic/tdd.nvim (⭐6)](https://github.com/zkucekovic/tdd.nvim) - Opens or creates the matching PHPUnit test file for a given class, based on PSR-4 namespace mappings.
-*   [nvim-neotest/neotest-jest (⭐145)](https://github.com/nvim-neotest/neotest-jest) - Neotest adapter for running jest tests.
+*   [nvim-neotest/neotest-jest (⭐145)](https://github.com/nvim-neotest/neotest-jest) - Neotest adapter for running Jest tests.
 *   [MisanthropicBit/neotest-busted (⭐15)](https://github.com/MisanthropicBit/neotest-busted) - Neotest adapter for running busted tests using Neovim as a Lua interpreter.
 
 ### Neovim Lua Development / Quickfix
@@ -527,7 +537,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [yus-works/csc.nvim (⭐37)](https://github.com/yus-works/csc.nvim) - Conventional commit scope completion that learns from git history.
+*   [yus-works/csc.nvim (⭐37)](https://github.com/yus-works/csc.nvim) - Conventional commit scope completion that learns from Git history.
 *   [404pilo/aicommits.nvim (⭐10)](https://github.com/404pilo/aicommits.nvim) - Generate conventional commit messages using AI.
 
 ### Database / Competitive Programming
@@ -561,9 +571,9 @@ Collections of awesome neovim plugins.
 
 *   [onlyati/quadlet-lsp.nvim (⭐9)](https://github.com/onlyati/quadlet-lsp.nvim) - Provides completion, hover and other language server features for Podman Quadlet files.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [wurli/cobalt.nvim (⭐23)](https://github.com/wurli/cobalt.nvim) - A (mostly) faithful port of the classic blue theme from TextMate.
+*   [wurli/cobalt.nvim (⭐23)](https://github.com/wurli/cobalt.nvim) - `[TS][LSP][Lua]` A (mostly) faithful port of the classic blue theme from TextMate.
 
 ## [Oct 07, 2025](/content/2025/10/07/README.md)
 
@@ -595,9 +605,9 @@ Collections of awesome neovim plugins.
 
 ## [Sep 29, 2025](/content/2025/09/29/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [uhs-robert/oasis.nvim (⭐61)](https://github.com/uhs-robert/oasis.nvim) - Desert theme from Vim ported to Neovim and made modern with 12 variants, a collection of dark themes for every color of the rainbow.
+*   [uhs-robert/oasis.nvim (⭐61)](https://github.com/uhs-robert/oasis.nvim) - `[TS][LSP][L/D][Lua]` Desert theme from Vim ported to Neovim and made modern with 12 variants, a collection of dark themes for every color of the rainbow.
 
 ## [Sep 25, 2025](/content/2025/09/25/README.md)
 
@@ -631,9 +641,9 @@ Collections of awesome neovim plugins.
 
 *   [DrKJeff16/project.nvim (⭐97)](https://github.com/DrKJeff16/project.nvim) - An actively maintained fork of [`ahmedkhalf/project.nvim`](https://github.com/ahmedkhalf/project.nvim) with documented code, `fzf-lua` support and new features.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [y3owk1n/base16-pro-max.nvim (⭐5)](https://github.com/y3owk1n/base16-pro-max.nvim) - Base16 for modern Neovim — not just colors.
+*   [y3owk1n/base16-pro-max.nvim (⭐5)](https://github.com/y3owk1n/base16-pro-max.nvim) - `[TS][LSP][Lua]` Base16 for modern Neovim — not just colors.
 
 ## [Sep 08, 2025](/content/2025/09/08/README.md)
 
@@ -982,10 +992,10 @@ Collections of awesome neovim plugins.
 
 *   [TheLeoP/powershell.nvim (⭐71)](https://github.com/TheLeoP/powershell.nvim) - First class powershell editor integration. Includes LSP, debugging (requires nvim-dap) and $psEditor API support.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [datsfilipe/min-theme.nvim (⭐54)](https://github.com/datsfilipe/min-theme.nvim) - It's a port of Min, a minimal theme for VSCode, written in Lua.
-*   [github-main-user/lytmode.nvim (⭐18)](https://github.com/github-main-user/lytmode.nvim) - A unique in-between theme inspired by LYT-Mode for Obsidian. Not quite dark, not quite light — just right.
+*   [datsfilipe/min-theme.nvim (⭐54)](https://github.com/datsfilipe/min-theme.nvim) - `[TS][LSP][Lua]` It's a port of Min, a minimal theme for VSCode, written in Lua.
+*   [github-main-user/lytmode.nvim (⭐18)](https://github.com/github-main-user/lytmode.nvim) - `[TS][LSP][Lua]` A unique in-between theme inspired by LYT-Mode for Obsidian. Not quite dark, not quite light — just right.
 
 ### Utility / Cursorline
 
@@ -1007,7 +1017,7 @@ Collections of awesome neovim plugins.
 ### Motion / GitLab
 
 *   [HawkinsT/pathfinder.nvim (⭐57)](https://github.com/HawkinsT/pathfinder.nvim) - Enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval.
-*   [millerjason/neovimacs.nvim (⭐4)](https://github.com/millerjason/neovimacs.nvim) - Provides emacs movement and buffer keybindings while in insert mode.
+*   [millerjason/neovimacs.nvim (⭐4)](https://github.com/millerjason/neovimacs.nvim) - Provides Emacs movement and buffer keybindings while in insert mode.
 
 ### Split and Window / Indent
 
@@ -1019,10 +1029,10 @@ Collections of awesome neovim plugins.
 
 ## [May 16, 2025](/content/2025/05/16/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [datsfilipe/vesper.nvim (⭐190)](https://github.com/datsfilipe/vesper.nvim) - It's a port of the popular VSCode theme Vesper, written in Lua.
-*   [ntk148v/slack.nvim (⭐5)](https://github.com/ntk148v/slack.nvim) - A ported Slack colorscheme.
+*   [datsfilipe/vesper.nvim (⭐190)](https://github.com/datsfilipe/vesper.nvim) - `[TS][LSP][Lua]` It's a port of the popular VS Code theme Vesper, written in Lua.
+*   [ntk148v/slack.nvim (⭐5)](https://github.com/ntk148v/slack.nvim) - `[TS][L/D][Lua]` A ported Slack colorscheme.
 
 ### Note Taking / Cursorline
 
@@ -1078,9 +1088,9 @@ Collections of awesome neovim plugins.
 
 *   [doodleEsc/translator.nvim (⭐5)](https://github.com/doodleEsc/translator.nvim) - A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [ptdewey/monalisa-nvim (⭐9)](https://github.com/ptdewey/monalisa-nvim) - A dark and colorful Mona Lisa inspired colorscheme.
+*   [ptdewey/monalisa-nvim (⭐9)](https://github.com/ptdewey/monalisa-nvim) - `[TS][LSP][Lua]` A dark and colorful Mona Lisa inspired colorscheme.
 
 ### Note Taking / Cursorline
 
@@ -1240,9 +1250,9 @@ Collections of awesome neovim plugins.
 
 ## [Feb 23, 2025](/content/2025/02/23/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [thesimonho/kanagawa-paper.nvim (⭐336)](https://github.com/thesimonho/kanagawa-paper.nvim) - Remixed light and dark Kanagawa colourschemes with muted colors.
+*   [thesimonho/kanagawa-paper.nvim (⭐336)](https://github.com/thesimonho/kanagawa-paper.nvim) - `[TS][LSP][L/D][Lua]` Remixed light and dark Kanagawa colourschemes with muted colors.
 
 ## [Feb 17, 2025](/content/2025/02/17/README.md)
 
@@ -1270,9 +1280,9 @@ Collections of awesome neovim plugins.
 
 *   [Thiago4532/mdmath.nvim (⭐192)](https://github.com/Thiago4532/mdmath.nvim) - A Markdown equation previewer, using Kitty Graphics Protocol.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [neko-night/nvim (⭐57)](https://github.com/neko-night/nvim) - A buffet of colorschemes for every taste and mood.
+*   [neko-night/nvim (⭐57)](https://github.com/neko-night/nvim) - `[TS][LSP][L/D][Lua]` A buffet of colorschemes for every taste and mood.
 
 ## [Feb 04, 2025](/content/2025/02/04/README.md)
 
@@ -1314,9 +1324,9 @@ Collections of awesome neovim plugins.
 
 ## [Jan 21, 2025](/content/2025/01/21/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [m15a/nvim-srcerite (⭐6)](https://github.com/m15a/nvim-srcerite) - A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
+*   [m15a/nvim-srcerite (⭐6)](https://github.com/m15a/nvim-srcerite) - `[TS][Lua]` A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
 
 ## [Jan 19, 2025](/content/2025/01/19/README.md)
 
@@ -1364,7 +1374,7 @@ Collections of awesome neovim plugins.
 
 ### Git / Quickfix
 
-*   [mrloop/telescope-git-branch.nvim (⭐10)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your git branch across multiple commits.
+*   [mrloop/telescope-git-branch.nvim (⭐10)](https://github.com/mrloop/telescope-git-branch.nvim) - A telescope picker to find which files and preview what changes have been made to your Git branch across multiple commits.
 
 ### Split and Window / Indent
 
@@ -1558,9 +1568,9 @@ Collections of awesome neovim plugins.
 
 *   [max397574/colortils.nvim (⭐434)](https://github.com/max397574/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [zenbones-theme/zenbones.nvim (⭐1k)](https://github.com/zenbones-theme/zenbones.nvim) - A collection of Vim/Neovim colorschemes designed to highlight code using contrasts and font variations.
+*   [zenbones-theme/zenbones.nvim (⭐1k)](https://github.com/zenbones-theme/zenbones.nvim) - `[TS][LSP][L/D][Lua]` A collection of Vim/Neovim colorschemes designed to highlight code using contrasts and font variations.
 
 ### Bars and Lines / Statusline
 
@@ -1585,9 +1595,9 @@ Collections of awesome neovim plugins.
 
 ## [Oct 31, 2024](/content/2024/10/31/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [bartekjaszczak/finale-nvim](https://gitlab.com/bartekjaszczak/finale-nvim) - A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting.
+*   [bartekjaszczak/finale-nvim](https://gitlab.com/bartekjaszczak/finale-nvim) - `[TS][LSP][Lua]` A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting.
 
 ## [Oct 27, 2024](/content/2024/10/27/README.md)
 
@@ -1619,9 +1629,9 @@ Collections of awesome neovim plugins.
 
 ## [Oct 15, 2024](/content/2024/10/15/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [bartekjaszczak/luma-nvim](https://gitlab.com/bartekjaszczak/luma-nvim) - A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
+*   [bartekjaszczak/luma-nvim](https://gitlab.com/bartekjaszczak/luma-nvim) - `[TS][LSP][L/D][Lua]` A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
 
 ### Session / Indent
 
@@ -1635,10 +1645,10 @@ Collections of awesome neovim plugins.
 
 ## [Sep 23, 2024](/content/2024/09/23/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [bakageddy/alduin.nvim (⭐17)](https://github.com/bakageddy/alduin.nvim) - A port of [alduin (⭐481)](https://github.com/AlessandroYorba/alduin) theme to Lua with Tree-sitter and semantic highlights support.
-*   [diegoulloao/neofusion.nvim (⭐225)](https://github.com/diegoulloao/neofusion.nvim) - A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
+*   [bakageddy/alduin.nvim (⭐17)](https://github.com/bakageddy/alduin.nvim) - `[TS][LSP][Lua]` A port of [alduin (⭐481)](https://github.com/AlessandroYorba/alduin) theme to Lua with Tree-sitter and semantic highlights support.
+*   [diegoulloao/neofusion.nvim (⭐225)](https://github.com/diegoulloao/neofusion.nvim) - `[TS][LSP][Lua]` A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
 
 ## [Sep 22, 2024](/content/2024/09/22/README.md)
 
@@ -1666,9 +1676,9 @@ Collections of awesome neovim plugins.
 
 ## [Sep 04, 2024](/content/2024/09/04/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [qaptoR-nvim/chocolatier.nvim (⭐20)](https://github.com/qaptoR-nvim/chocolatier.nvim) - An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.
+*   [qaptoR-nvim/chocolatier.nvim (⭐20)](https://github.com/qaptoR-nvim/chocolatier.nvim) - `[TS][LSP][Lua]` An espresso/kimbie inspired chocolatey theme adapted from ellisonleao/gruvbox.nvim theme as a code template.
 
 ### Neovim Lua Development / Quickfix
 
@@ -1713,9 +1723,9 @@ Collections of awesome neovim plugins.
 *   [farias-hecdin/CSSVarViewer (⭐10)](https://github.com/farias-hecdin/CSSVarViewer) - Easily visualize the content of your CSS variables in a virtual text.
 *   [farias-hecdin/CSSVarHighlight (⭐6)](https://github.com/farias-hecdin/CSSVarHighlight) - Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [killitar/obscure.nvim (⭐77)](https://github.com/killitar/obscure.nvim) - A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
+*   [killitar/obscure.nvim (⭐77)](https://github.com/killitar/obscure.nvim) - `[TS][LSP][Lua]` A pastel dark colorscheme inspired by the palette Mellow. Support Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
 
 ### Terminal Integration / CSV Files
 
@@ -1759,9 +1769,9 @@ Collections of awesome neovim plugins.
 
 ## [Aug 08, 2024](/content/2024/08/08/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [samharju/serene.nvim (⭐44)](https://github.com/samharju/serene.nvim) - A soothing and dark Tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
+*   [samharju/serene.nvim (⭐44)](https://github.com/samharju/serene.nvim) - `[TS][Lua]` A soothing and dark Tree-sitter/LSP-supported theme for relaxing your eyes after using more vibrant colorschemes.
 
 ## [Aug 07, 2024](/content/2024/08/07/README.md)
 
@@ -1823,9 +1833,9 @@ Collections of awesome neovim plugins.
 
 ## [Jul 22, 2024](/content/2024/07/22/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [0xstepit/flow.nvim (⭐278)](https://github.com/0xstepit/flow.nvim) - Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
+*   [0xstepit/flow.nvim (⭐278)](https://github.com/0xstepit/flow.nvim) - `[TS][L/D][Lua]` Carefully designed colors to help focusing during coding plus fluorescent details. Support many plugins and tools.
 
 ## [Jul 18, 2024](/content/2024/07/18/README.md)
 
@@ -1968,9 +1978,9 @@ Collections of awesome neovim plugins.
 
 ## [May 23, 2024](/content/2024/05/23/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [slugbyte/lackluster.nvim (⭐502)](https://github.com/slugbyte/lackluster.nvim) - A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
+*   [slugbyte/lackluster.nvim (⭐502)](https://github.com/slugbyte/lackluster.nvim) - `[TS][LSP][Lua]` A delightful mostly grayscale colorscheme that is soft on the eyes, and supports heaps of plugins.
 
 ## [May 22, 2024](/content/2024/05/22/README.md)
 
@@ -2073,23 +2083,20 @@ Collections of awesome neovim plugins.
 
 *   [GnikDroy/projections.nvim (⭐245)](https://github.com/GnikDroy/projections.nvim) - Tiny project + session manager.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [Abstract-IDE/Abstract-cs (⭐110)](https://github.com/Abstract-IDE/Abstract-cs) - Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
-*   [comfysage/evergarden (⭐520)](https://github.com/comfysage/evergarden) - A comfy Neovim colorscheme for cozy morning coding.
-*   [niyabits/calvera-dark.nvim (⭐158)](https://github.com/niyabits/calvera-dark.nvim) - A port of [VSCode Calvara Dark (⭐12)](https://github.com/saurabhdaware/vscode-calvera-dark) Theme to Neovim with Tree-sitter and many other plugins support.
-*   [Everblush/nvim (⭐288)](https://github.com/Everblush/nvim) - A dark, vibrant and beautiful colorscheme written in Lua.
-*   [mellow-theme/mellow.nvim (⭐392)](https://github.com/mellow-theme/mellow.nvim) - A soothing dark color scheme with Tree-sitter support.
-*   [maxmx03/fluoromachine.nvim (⭐288)](https://github.com/maxmx03/fluoromachine.nvim) - Synthwave x Fluoromachine port.
-*   [uncleTen276/dark\_flat.nvim (⭐43)](https://github.com/uncleTen276/dark_flat.nvim) - A Neovim colorscheme written in Lua ported from Dark Flat iTerm2 theme, with LSP and Tree-sitter support.
-*   [uloco/bluloco.nvim (⭐397)](https://github.com/uloco/bluloco.nvim) - A fancy and sophisticated colorscheme for night and day coding. Supports LSP, Tree-sitter and all the plugins you love.
+*   [Abstract-IDE/Abstract-cs (⭐110)](https://github.com/Abstract-IDE/Abstract-cs) - `[TS][LSP][Lua]` Colorscheme written in Lua, specially made for roshnivim with Tree-sitter support.
+*   [comfysage/evergarden (⭐520)](https://github.com/comfysage/evergarden) - `[TS][LSP][L/D][Lua]` A comfy Neovim colorscheme for cozy morning coding.
+*   [niyabits/calvera-dark.nvim (⭐158)](https://github.com/niyabits/calvera-dark.nvim) - `[TS][Lua]` A port of [VSCode Calvara Dark (⭐12)](https://github.com/saurabhdaware/vscode-calvera-dark) Theme to Neovim with Tree-sitter and many other plugins support.
+*   [Everblush/nvim (⭐288)](https://github.com/Everblush/nvim) - `[TS][LSP][Lua]` A dark, vibrant and beautiful colorscheme written in Lua.
+*   [mellow-theme/mellow.nvim (⭐392)](https://github.com/mellow-theme/mellow.nvim) - `[TS][LSP][Lua]` A soothing dark color scheme with Tree-sitter support.
+*   [maxmx03/fluoromachine.nvim (⭐288)](https://github.com/maxmx03/fluoromachine.nvim) - `[TS][LSP][Lua]` Synthwave x Fluoromachine port.
+*   [uncleTen276/dark\_flat.nvim (⭐43)](https://github.com/uncleTen276/dark_flat.nvim) - `[TS][LSP][Lua]` A Neovim colorscheme written in Lua ported from Dark Flat iTerm2 theme, with LSP and Tree-sitter support.
+*   [uloco/bluloco.nvim (⭐397)](https://github.com/uloco/bluloco.nvim) - `[TS][LSP][L/D][Lua]` A fancy and sophisticated colorscheme for night and day coding. Supports LSP, Tree-sitter and all the plugins you love.
 
 ### Colorscheme / Colorscheme Creation
 
 *   [ThemerCorp/themer.lua (⭐259)](https://github.com/ThemerCorp/themer.lua) - A simple highlighter plugin for Neovim. It has a huge collection of colorschemes. It also has ability to create colorschemes for Vim/Neovim and other supported apps (such as kitty and alacritty).
-
-### Colorscheme / Colorscheme Switchers
-
 *   [RRethy/base16-nvim (⭐615)](https://github.com/RRethy/base16-nvim) - A base16 colorscheme builder. Includes support for Tree-sitter and LSP highlight groups.
 
 ### Bars and Lines / Statusline
@@ -2137,9 +2144,9 @@ Collections of awesome neovim plugins.
 
 ## [Apr 25, 2024](/content/2024/04/25/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [jim-at-jibba/ariake.nvim (⭐23)](https://github.com/jim-at-jibba/ariake.nvim) - A port of the great Atom theme. Beautiful, dark colour scheme.
+*   [jim-at-jibba/ariake.nvim (⭐23)](https://github.com/jim-at-jibba/ariake.nvim) - `[TS][LSP][Lua]` A port of the great Atom theme. Beautiful, dark colour scheme.
 
 ## [Apr 22, 2024](/content/2024/04/22/README.md)
 
@@ -2179,9 +2186,9 @@ Collections of awesome neovim plugins.
 
 ## [Apr 06, 2024](/content/2024/04/06/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [ptdewey/darkearth-nvim (⭐68)](https://github.com/ptdewey/darkearth-nvim) - A dark and earthy colorscheme supporting Tree-sitter and LSP.
+*   [ptdewey/darkearth-nvim (⭐68)](https://github.com/ptdewey/darkearth-nvim) - `[TS][LSP][Fnl]` A dark and earthy colorscheme supporting Tree-sitter and LSP.
 
 ### Utility / Cursorline
 
@@ -2219,13 +2226,13 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [SUSTech-data/neopyter (⭐145)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and jupyter lab, edit in Neovim and preview/run in jupyter lab.
+*   [SUSTech-data/neopyter (⭐145)](https://github.com/SUSTech-data/neopyter) - The bridge between Neovim and Jupyter lab, edit in Neovim and preview/run in Jupyter Lab.
 
 ## [Mar 24, 2024](/content/2024/03/24/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [loganswartz/sunburn.nvim (⭐21)](https://github.com/loganswartz/sunburn.nvim) - A colorscheme sitting somewhere between pastels and solarized, emphasizing readability and hue uniformity above all else.
+*   [loganswartz/sunburn.nvim (⭐21)](https://github.com/loganswartz/sunburn.nvim) - `[TS][Lua]` A colorscheme sitting somewhere between pastels and solarized, emphasizing readability and hue uniformity above all else.
 
 ### Colorscheme / Colorscheme Creation
 
@@ -2235,13 +2242,13 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Web Development
 
-*   [luckasRanarison/tailwind-tools.nvim (⭐582)](https://github.com/luckasRanarison/tailwind-tools.nvim) - Unofficial TailwindCSS tooling.
+*   [luckasRanarison/tailwind-tools.nvim (⭐582)](https://github.com/luckasRanarison/tailwind-tools.nvim) - Unofficial Tailwind CSS tooling.
 
 ## [Mar 20, 2024](/content/2024/03/20/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [kevinm6/kurayami.nvim (⭐9)](https://github.com/kevinm6/kurayami.nvim) - Dark (only) theme.
+*   [kevinm6/kurayami.nvim (⭐9)](https://github.com/kevinm6/kurayami.nvim) - `[TS][LSP][Lua]` Dark only theme with Tree-sitter support.
 
 ### Preconfigured Configuration / Competitive Programming
 
@@ -2251,13 +2258,13 @@ Collections of awesome neovim plugins.
 
 ### Debugging / CSV Files
 
-*   [Willem-J-an/visidata.nvim (⭐34)](https://github.com/Willem-J-an/visidata.nvim) - Render pandas dataframes in nvim-dap using the power of visidata.
+*   [Willem-J-an/visidata.nvim (⭐34)](https://github.com/Willem-J-an/visidata.nvim) - Render Pandas dataframes in `nvim-dap` using the power of visidata.
 
 ## [Mar 17, 2024](/content/2024/03/17/README.md)
 
 ### Git / Quickfix
 
-*   [isak102/telescope-git-file-history.nvim (⭐88)](https://github.com/isak102/telescope-git-file-history.nvim) - Open/preview contents of the current file at a specific commit, without using git checkout.
+*   [isak102/telescope-git-file-history.nvim (⭐88)](https://github.com/isak102/telescope-git-file-history.nvim) - Open/preview contents of the current file at a specific commit, without using `git checkout`.
 
 ## [Mar 15, 2024](/content/2024/03/15/README.md)
 
@@ -2321,9 +2328,9 @@ Collections of awesome neovim plugins.
 
 *   [rasulomaroff/reactive.nvim (⭐238)](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [samharju/synthweave.nvim (⭐59)](https://github.com/samharju/synthweave.nvim) - Synthwave '84 colorscheme port.
+*   [samharju/synthweave.nvim (⭐59)](https://github.com/samharju/synthweave.nvim) - `[TS][LSP][Lua]` Synthwave '84 colorscheme port.
 
 ### Terminal Integration / CSV Files
 
@@ -2347,10 +2354,10 @@ Collections of awesome neovim plugins.
 
 *   [desdic/marlin.nvim (⭐31)](https://github.com/desdic/marlin.nvim) - Like harpoon, but with key differences like project path, split support, no UI.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [sxwpb/halfspace.nvim](https://gitlab.com/sxwpb/halfspace.nvim) - A semi-light colorscheme for minimal eye melting.
-*   [bartekjaszczak/distinct-nvim](https://gitlab.com/bartekjaszczak/distinct-nvim) - Theme with distinct syntax colours. Supports Tree-sitter and semantic highlighting. For people who love multi-colour syntax highlighting.
+*   [sxwpb/halfspace.nvim](https://gitlab.com/sxwpb/halfspace.nvim) - `[TS][LSP][Lua]` A semi-light colorscheme for minimal eye melting.
+*   [bartekjaszczak/distinct-nvim](https://gitlab.com/bartekjaszczak/distinct-nvim) - `[TS][LSP][L/D][Lua]` Theme with distinct syntax colours. Supports Tree-sitter and semantic highlighting. For people who love multi-colour syntax highlighting.
 
 ### Motion / GitLab
 
@@ -2378,9 +2385,9 @@ Collections of awesome neovim plugins.
 
 ## [Feb 19, 2024](/content/2024/02/19/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [jthvai/lavender.nvim](https://codeberg.org/jthvai/lavender.nvim) - Purple-hued dark mode colorscheme; a complete rewrite of shaunsingh/moonlight.nvim.
+*   [jthvai/lavender.nvim](https://codeberg.org/jthvai/lavender.nvim) - `[TS][LSP][Lua]` Purple-hued dark mode colorscheme; a complete rewrite of shaunsingh/moonlight.nvim.
 
 ### Editing Support / Scrollbar
 
@@ -2438,9 +2445,9 @@ Collections of awesome neovim plugins.
 
 ## [Feb 03, 2024](/content/2024/02/03/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [sontungexpt/witch (⭐71)](https://github.com/sontungexpt/witch) - The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
+*   [sontungexpt/witch (⭐71)](https://github.com/sontungexpt/witch) - `[TS][LSP][L/D][Lua]` The primary stinvim distro colorscheme includes the default feature of dimming inactive windows, along with various other customization options for users.
 
 ## [Jan 31, 2024](/content/2024/01/31/README.md)
 
@@ -2464,7 +2471,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [gsuuon/model.nvim (⭐392)](https://github.com/gsuuon/model.nvim) - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), PaLM, HuggingFace and local engines like llamacpp.
+*   [gsuuon/model.nvim (⭐392)](https://github.com/gsuuon/model.nvim) - Integrate LLMs via a prompt builder interface. Multi-providers including OpenAI (+ compatibles), `PaLM`, `Hugging Face`, and local engines like `llamacpp`.
 
 ## [Jan 27, 2024](/content/2024/01/27/README.md)
 
@@ -2486,9 +2493,9 @@ Collections of awesome neovim plugins.
 
 ## [Jan 17, 2024](/content/2024/01/17/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [HoNamDuong/hybrid.nvim (⭐139)](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
+*   [HoNamDuong/hybrid.nvim (⭐139)](https://github.com/HoNamDuong/hybrid.nvim) - `[TS][LSP][Lua]` A dark theme written in Lua.
 
 ## [Jan 16, 2024](/content/2024/01/16/README.md)
 
@@ -2566,9 +2573,9 @@ Collections of awesome neovim plugins.
 
 ## [Dec 28, 2023](/content/2023/12/28/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [scottmckendry/cyberdream.nvim (⭐1.2k)](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
+*   [scottmckendry/cyberdream.nvim (⭐1.2k)](https://github.com/scottmckendry/cyberdream.nvim) - `[TS][L/D][Lua]` A high-contrast, futuristic & vibrant coloursheme.
 
 ### Utility / Cursorline
 
@@ -2643,9 +2650,9 @@ Collections of awesome neovim plugins.
 
 ## [Dec 01, 2023](/content/2023/12/01/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [alexmozaidze/palenight.nvim (⭐24)](https://github.com/alexmozaidze/palenight.nvim) - Palenight colorscheme supporting Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
+*   [alexmozaidze/palenight.nvim (⭐24)](https://github.com/alexmozaidze/palenight.nvim) - `[TS][LSP][Fnl]` Palenight colorscheme supporting Tree-sitter, LSP *(including semantic tokens)* and lots of plugins.
 
 ## [Nov 29, 2023](/content/2023/11/29/README.md)
 
@@ -2711,7 +2718,7 @@ Collections of awesome neovim plugins.
 
 ### AI / Diagnostics
 
-*   [jpmcb/nvim-llama (⭐274)](https://github.com/jpmcb/nvim-llama) - LLM (Llama 2 and llama.cpp) wrappers.
+*   [jpmcb/nvim-llama (⭐274)](https://github.com/jpmcb/nvim-llama) - LLM (LLaMA 2 and `llama.cpp`) wrappers.
 
 ### Syntax / Assembly
 
@@ -2733,9 +2740,9 @@ Collections of awesome neovim plugins.
 
 ## [Nov 16, 2023](/content/2023/11/16/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [calind/selenized.nvim (⭐28)](https://github.com/calind/selenized.nvim) - Lua port of [selenized (⭐874)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
+*   [calind/selenized.nvim (⭐28)](https://github.com/calind/selenized.nvim) - `[TS][LSP][L/D][Lua]` Lua port of [selenized (⭐874)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
 
 ## [Nov 15, 2023](/content/2023/11/15/README.md)
 
@@ -2749,9 +2756,9 @@ Collections of awesome neovim plugins.
 
 *   [stevanmilic/nvim-lspimport (⭐78)](https://github.com/stevanmilic/nvim-lspimport) - Automatically resolves imports for undefined terms. Useful with `pyright` language server.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [Tsuzat/NeoSolarized.nvim (⭐203)](https://github.com/Tsuzat/NeoSolarized.nvim) - NeoSolarized colorscheme with full transparency.
+*   [Tsuzat/NeoSolarized.nvim (⭐203)](https://github.com/Tsuzat/NeoSolarized.nvim) - `[TS][LSP][L/D][Lua]` NeoSolarized colorscheme with full transparency.
 
 ## [Nov 12, 2023](/content/2023/11/12/README.md)
 
@@ -2783,7 +2790,7 @@ Collections of awesome neovim plugins.
 
 ### Code Runner / Quickfix
 
-*   [benlubas/molten-nvim (⭐1k)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the jupyter kernel. Output (including image output) is rendered in a floating window below the code.
+*   [benlubas/molten-nvim (⭐1k)](https://github.com/benlubas/molten-nvim) - Enables running code chunks via the Jupyter kernel. Output (including image output) is rendered in a floating window below the code.
 
 ## [Nov 02, 2023](/content/2023/11/02/README.md)
 
@@ -2791,9 +2798,9 @@ Collections of awesome neovim plugins.
 
 *   [mangelozzi/rgflow.nvim (⭐105)](https://github.com/mangelozzi/rgflow.nvim) - Quickly get RipGrep results into an editable Quickfix list, while learning RipGrep's CLI.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [miikanissi/modus-themes.nvim (⭐382)](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
+*   [miikanissi/modus-themes.nvim (⭐382)](https://github.com/miikanissi/modus-themes.nvim) - `[TS][LSP][L/D][Lua]` Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
 
 ## [Oct 30, 2023](/content/2023/10/30/README.md)
 
@@ -2847,9 +2854,9 @@ Collections of awesome neovim plugins.
 
 ## [Oct 17, 2023](/content/2023/10/17/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [oxfist/night-owl.nvim (⭐326)](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode (⭐2.9k)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
+*   [oxfist/night-owl.nvim (⭐326)](https://github.com/oxfist/night-owl.nvim) - `[TS][LSP][Lua]` A [Night Owl colorscheme port from VSCode (⭐2.9k)](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
 
 ## [Oct 16, 2023](/content/2023/10/16/README.md)
 
@@ -2903,9 +2910,9 @@ Collections of awesome neovim plugins.
 
 *   [dense-analysis/neural (⭐509)](https://github.com/dense-analysis/neural) - Integrate LLMs for generating code, interacting with chat bots, and more.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [polirritmico/monokai-nightasty.nvim (⭐157)](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
+*   [polirritmico/monokai-nightasty.nvim (⭐157)](https://github.com/polirritmico/monokai-nightasty.nvim) - `[TS][LSP][L/D][Lua]` A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
 
 ### Editing Support / Scrollbar
 
@@ -2938,9 +2945,9 @@ Collections of awesome neovim plugins.
 
 ## [Sep 21, 2023](/content/2023/09/21/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [cryptomilk/nightcity.nvim (⭐71)](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
+*   [cryptomilk/nightcity.nvim (⭐71)](https://github.com/cryptomilk/nightcity.nvim) - `[TS][LSP][Lua]` A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
 
 ### Bars and Lines / Tabline
 
@@ -2996,9 +3003,9 @@ Collections of awesome neovim plugins.
 
 ## [Sep 13, 2023](/content/2023/09/13/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [ribru17/bamboo.nvim (⭐428)](https://github.com/ribru17/bamboo.nvim) - A warm green theme.
+*   [ribru17/bamboo.nvim (⭐428)](https://github.com/ribru17/bamboo.nvim) - `[TS][LSP][Lua]` A warm green theme.
 
 ## [Sep 12, 2023](/content/2023/09/12/README.md)
 
@@ -3008,9 +3015,9 @@ Collections of awesome neovim plugins.
 
 ## [Sep 11, 2023](/content/2023/09/11/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [judaew/ronny.nvim (⭐16)](https://github.com/judaew/ronny.nvim) - A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
+*   [judaew/ronny.nvim (⭐16)](https://github.com/judaew/ronny.nvim) - `[TS][LSP][Lua]` A dark colorscheme, which mostly was inspired by the Monokai originally created by Wimem Hazenberg.
 
 ## [Sep 07, 2023](/content/2023/09/07/README.md)
 
@@ -3040,9 +3047,9 @@ Collections of awesome neovim plugins.
 
 ## [Aug 27, 2023](/content/2023/08/27/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [Verf/deepwhite.nvim (⭐142)](https://github.com/Verf/deepwhite.nvim) - A light colorscheme inspired by [flatwhite-syntax (⭐185)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.4k)](https://github.com/rougier/elegant-emacs).
+*   [Verf/deepwhite.nvim (⭐142)](https://github.com/Verf/deepwhite.nvim) - `[TS][LSP][Lua]` A light colorscheme inspired by [flatwhite-syntax (⭐185)](https://github.com/biletskyy/flatwhite-syntax) and [elegant-emacs (⭐1.4k)](https://github.com/rougier/elegant-emacs).
 
 ### Formatting / Comment
 
@@ -3050,9 +3057,9 @@ Collections of awesome neovim plugins.
 
 ## [Aug 24, 2023](/content/2023/08/24/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [askfiy/visual\_studio\_code (⭐212)](https://github.com/askfiy/visual_studio_code) - A Neovim theme that highly restores VSCode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using VSCode.
+*   [askfiy/visual\_studio\_code (⭐212)](https://github.com/askfiy/visual_studio_code) - `[TS][LSP][L/D][Lua]`  A Neovim theme that highly restores VSCode, so that your friends will no longer be surprised that you use Neovim, because they will think you are using VSCode.
 
 ## [Aug 23, 2023](/content/2023/08/23/README.md)
 
@@ -3157,9 +3164,9 @@ Collections of awesome neovim plugins.
 
 *   [nvimdev/lspsaga.nvim (⭐3.7k)](https://github.com/nvimdev/lspsaga.nvim) - A light-weight LSP plugin based on Neovim's built-in LSP with a highly performant UI.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [nvimdev/zephyr-nvim (⭐371)](https://github.com/nvimdev/zephyr-nvim) - A dark colorscheme with Tree-sitter support.
+*   [nvimdev/zephyr-nvim (⭐371)](https://github.com/nvimdev/zephyr-nvim) - `[TS][Lua]` A dark colorscheme with Tree-sitter support.
 
 ### Startup / Cursorline
 
@@ -3171,9 +3178,9 @@ Collections of awesome neovim plugins.
 
 ## [Jul 19, 2023](/content/2023/07/19/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [AlexvZyl/nordic.nvim (⭐950)](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
+*   [AlexvZyl/nordic.nvim (⭐950)](https://github.com/AlexvZyl/nordic.nvim) - `[TS][Lua]` Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
 
 ## [Jul 17, 2023](/content/2023/07/17/README.md)
 
@@ -3199,9 +3206,9 @@ Collections of awesome neovim plugins.
 
 ## [Jul 11, 2023](/content/2023/07/11/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [xero/miasma.nvim (⭐462)](https://github.com/xero/miasma.nvim) - A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
+*   [xero/miasma.nvim (⭐462)](https://github.com/xero/miasma.nvim) - `[TS][LSP]` A dark pastel color scheme inspired by the woods. Built using lush and supports Tree-sitter, diagnostics, CMP, Git-Signs, Telescope, Which-key, Lazy, and more.
 
 ### Bars and Lines / Tabline
 
@@ -3213,15 +3220,15 @@ Collections of awesome neovim plugins.
 
 ## [Jul 08, 2023](/content/2023/07/08/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [2nthony/vitesse.nvim (⭐65)](https://github.com/2nthony/vitesse.nvim) - Vitesse theme Lua port.
+*   [2nthony/vitesse.nvim (⭐65)](https://github.com/2nthony/vitesse.nvim) - `[TS][LSP][Lua]` Vitesse theme Lua port.
 
 ## [Jul 05, 2023](/content/2023/07/05/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [zootedb0t/citruszest.nvim (⭐241)](https://github.com/zootedb0t/citruszest.nvim) - A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
+*   [zootedb0t/citruszest.nvim (⭐241)](https://github.com/zootedb0t/citruszest.nvim) - `[TS][LSP][Lua]` A colorscheme that features a combination of bright and juicy colors reminiscent of various citrus fruits, with LSP and Tree-sitter support.
 
 ## [Jun 29, 2023](/content/2023/06/29/README.md)
 
@@ -3245,9 +3252,9 @@ Collections of awesome neovim plugins.
 
 ## [Jun 23, 2023](/content/2023/06/23/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [sonjiku/yawnc.nvim (⭐15)](https://github.com/sonjiku/yawnc.nvim) - Theming using pywal, with a Base16 twist.
+*   [sonjiku/yawnc.nvim (⭐15)](https://github.com/sonjiku/yawnc.nvim) - `[TS][LSP][Lua]` Theming using pywal, with a Base16 twist.
 
 ## [Jun 21, 2023](/content/2023/06/21/README.md)
 
@@ -3273,9 +3280,9 @@ Collections of awesome neovim plugins.
 
 *   [TobinPalmer/rayso.nvim (⭐82)](https://github.com/TobinPalmer/rayso.nvim) - Create code snippets in Neovim using [ray.so](https://ray.so).
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [dasupradyumna/midnight.nvim (⭐232)](https://github.com/dasupradyumna/midnight.nvim) - A modern black Neovim theme with comfortable color contrast for a pleasant visual experience, with LSP and Tree-sitter support.
+*   [dasupradyumna/midnight.nvim (⭐232)](https://github.com/dasupradyumna/midnight.nvim) - `[TS][LSP][Lua]` A modern black Neovim theme with comfortable color contrast for a pleasant visual experience, with LSP and Tree-sitter support.
 
 ## [Jun 05, 2023](/content/2023/06/05/README.md)
 
@@ -3372,9 +3379,9 @@ Collections of awesome neovim plugins.
 
 *   [yaocccc/nvim-hl-mdcodeblock.lua (⭐35)](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight Markdown codeblock using Tree-sitter.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [nyngwang/nvimgelion (⭐131)](https://github.com/nyngwang/nvimgelion) - Neon Genesis Evangelion but for Vimmers.
+*   [nyngwang/nvimgelion (⭐131)](https://github.com/nyngwang/nvimgelion) - `[TS]` Neon Genesis Evangelion but for Vimmers.
 
 ## [Apr 24, 2023](/content/2023/04/24/README.md)
 
@@ -3418,7 +3425,7 @@ Collections of awesome neovim plugins.
 
 ### Resource / OS-specific
 
-*   [Dotfyle](https://dotfyle.com) - Dotfyle is a site for sharing and discovering Neovim configs and plugins.
+*   [Dotfyle](https://dotfyle.com) - A site for sharing and discovering Neovim configs and plugins.
 
 ## [Apr 15, 2023](/content/2023/04/15/README.md)
 
@@ -3507,9 +3514,9 @@ Collections of awesome neovim plugins.
 
 ## [Mar 12, 2023](/content/2023/03/12/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [neanias/everforest-nvim (⭐396)](https://github.com/neanias/everforest-nvim) - A Lua port of the Everforest colour scheme.
+*   [neanias/everforest-nvim (⭐396)](https://github.com/neanias/everforest-nvim) - `[TS][LSP][L/D][Lua]` A Lua port of the Everforest colour scheme.
 
 ### Terminal Integration / CSV Files
 
@@ -3543,9 +3550,9 @@ Collections of awesome neovim plugins.
 
 ## [Feb 26, 2023](/content/2023/02/26/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [nyoom-engineering/oxocarbon.nvim (⭐1.5k)](https://github.com/nyoom-engineering/oxocarbon.nvim) - A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
+*   [nyoom-engineering/oxocarbon.nvim (⭐1.5k)](https://github.com/nyoom-engineering/oxocarbon.nvim) - `[TS][LSP][L/D][Lua]` A dark and light Neovim theme written in fennel, inspired by IBM Carbon.
 
 ## [Feb 25, 2023](/content/2023/02/25/README.md)
 
@@ -3567,9 +3574,9 @@ Collections of awesome neovim plugins.
 
 ## [Feb 20, 2023](/content/2023/02/20/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [embark-theme/vim (⭐712)](https://github.com/embark-theme/vim) - A deep inky purple theme leveraging bright colors.
+*   [embark-theme/vim (⭐712)](https://github.com/embark-theme/vim) - `[TS]` A deep inky purple theme leveraging bright colors.
 
 ### Bars and Lines / Colorscheme Switchers
 
@@ -3609,9 +3616,9 @@ Collections of awesome neovim plugins.
 
 *   [jinzhongjia/LspUI.nvim (⭐258)](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI that wraps LSP operations.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [savq/melange-nvim (⭐904)](https://github.com/savq/melange-nvim) - Warm colorscheme written in Lua with support for various terminal emulators.
+*   [savq/melange-nvim (⭐904)](https://github.com/savq/melange-nvim) - `[TS][LSP][L/D][Lua]` Warm colorscheme written in Lua with support for various terminal emulators.
 
 ### Preconfigured Configuration / Competitive Programming
 
@@ -3619,9 +3626,9 @@ Collections of awesome neovim plugins.
 
 ## [Feb 06, 2023](/content/2023/02/06/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [svrana/neosolarized.nvim (⭐166)](https://github.com/svrana/neosolarized.nvim) - Dark solarized colorscheme using colorbuddy for easy customization.
+*   [svrana/neosolarized.nvim (⭐166)](https://github.com/svrana/neosolarized.nvim) - `[TS][LSP][Lua]` Dark solarized colorscheme using colorbuddy for easy customization.
 
 ### Editing Support / Scrollbar
 
@@ -3787,9 +3794,9 @@ Collections of awesome neovim plugins.
 
 *   [desdic/telescope-rooter.nvim (⭐26)](https://github.com/desdic/telescope-rooter.nvim) - Makes sure to always start telescope (and only telescope) from the project/root directory.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [ramojus/mellifluous.nvim (⭐411)](https://github.com/ramojus/mellifluous.nvim) - Pleasant and productive colorscheme.
+*   [ramojus/mellifluous.nvim (⭐411)](https://github.com/ramojus/mellifluous.nvim) - `[TS][LSP][L/D][Lua]` Pleasant and productive colorscheme.
 
 ### Utility / Cursorline
 
@@ -3824,9 +3831,9 @@ Collections of awesome neovim plugins.
 
 *   [otavioschwanck/telescope-alternate.nvim (⭐106)](https://github.com/otavioschwanck/telescope-alternate.nvim) - Alternate between common files using telescope.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [gbprod/nord.nvim (⭐281)](https://github.com/gbprod/nord.nvim) - An arctic, north-bluish clean and elegant Neovim theme, based on Nord Palette.
+*   [gbprod/nord.nvim (⭐281)](https://github.com/gbprod/nord.nvim) - `[TS][LSP][Lua]` An arctic, north-bluish clean and elegant Neovim theme, based on Nord Palette.
 
 ### Code Runner / Quickfix
 
@@ -3881,9 +3888,9 @@ Collections of awesome neovim plugins.
 
 ## [Nov 07, 2022](/content/2022/11/07/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [bluz71/vim-nightfly-colors (⭐916)](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight colorscheme with modern Neovim support including Tree-sitter.
+*   [bluz71/vim-nightfly-colors (⭐916)](https://github.com/bluz71/vim-nightfly-colors) - `[TS][LSP][Lua]` A dark midnight colorscheme with modern Neovim support including Tree-sitter.
 
 ## [Oct 30, 2022](/content/2022/10/30/README.md)
 
@@ -3950,9 +3957,9 @@ Collections of awesome neovim plugins.
 
 ## [Oct 09, 2022](/content/2022/10/09/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [ray-x/starry.nvim (⭐242)](https://github.com/ray-x/starry.nvim) - A collection of modern Neovim colorschemes: material, moonlight, dracula (blood), monokai, mariana, emerald, earlysummer, middlenight\_blue, darksolar.
+*   [ray-x/starry.nvim (⭐242)](https://github.com/ray-x/starry.nvim) - `[TS][LSP][L/D][Lua]` A collection of modern Neovim colorschemes: material, moonlight, dracula (blood), monokai, mariana, emerald, earlysummer, middlenight\_blue, darksolar.
 
 ## [Oct 06, 2022](/content/2022/10/06/README.md)
 
@@ -4177,7 +4184,7 @@ Collections of awesome neovim plugins.
 ### Remote Development / Indent
 
 *   [chipsenkbeil/distant.nvim (⭐1.3k)](https://github.com/chipsenkbeil/distant.nvim) - Edit files, run programs, and work with LSP on a remote machine from the comfort of your local environment.
-*   [jamestthompson3/nvim-remote-containers (⭐923)](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside docker containers, just like VSCode.
+*   [jamestthompson3/nvim-remote-containers (⭐923)](https://github.com/jamestthompson3/nvim-remote-containers) - Develop inside Docker containers, just like VSCode.
 *   [esensar/nvim-dev-container (⭐679)](https://github.com/esensar/nvim-dev-container) - Neovim devcontainer.json and general development container support.
 
 ### Split and Window / Indent
@@ -4198,7 +4205,7 @@ Collections of awesome neovim plugins.
 
 ### Game / Tmux
 
-*   [alec-gibson/nvim-tetris (⭐207)](https://github.com/alec-gibson/nvim-tetris) - Bringing emacs' greatest feature to Neovim - Tetris!.
+*   [alec-gibson/nvim-tetris (⭐207)](https://github.com/alec-gibson/nvim-tetris) - Bringing Emacs' greatest feature to Neovim - Tetris!.
 *   [seandewar/nvimesweeper (⭐107)](https://github.com/seandewar/nvimesweeper) - Play Minesweeper in your favourite text editor.
 *   [seandewar/killersheep.nvim (⭐76)](https://github.com/seandewar/killersheep.nvim) - Neovim port of killersheep.
 
@@ -4209,10 +4216,10 @@ Collections of awesome neovim plugins.
 
 ## [Sep 22, 2022](/content/2022/09/22/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [Th3Whit3Wolf/onebuddy (⭐101)](https://github.com/Th3Whit3Wolf/onebuddy) - Light and dark atom one theme.
-*   [ofirgall/ofirkai.nvim (⭐133)](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
+*   [Th3Whit3Wolf/onebuddy (⭐101)](https://github.com/Th3Whit3Wolf/onebuddy) - `[TS][L/D][Lua]` Light and dark atom one theme.
+*   [ofirgall/ofirkai.nvim (⭐133)](https://github.com/ofirgall/ofirkai.nvim) - `[TS][LSP][Lua]` Monokai theme that aims to feel like Sublime Text.
 
 ## [Sep 20, 2022](/content/2022/09/20/README.md)
 
@@ -4297,9 +4304,9 @@ Collections of awesome neovim plugins.
 
 ## [Aug 14, 2022](/content/2022/08/14/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [Mofiqul/adwaita.nvim (⭐273)](https://github.com/Mofiqul/adwaita.nvim) - Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
+*   [Mofiqul/adwaita.nvim (⭐273)](https://github.com/Mofiqul/adwaita.nvim) - `[TS][LSP][L/D][Lua]` Colorscheme based on GNOME Adwaita syntax with support for popular plugins.
 
 ### Debugging / CSV Files
 
@@ -4321,9 +4328,9 @@ Collections of awesome neovim plugins.
 
 ## [Aug 09, 2022](/content/2022/08/09/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [rebelot/kanagawa.nvim (⭐5.7k)](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
+*   [rebelot/kanagawa.nvim (⭐5.7k)](https://github.com/rebelot/kanagawa.nvim) - `[TS][LSP][L/D][Lua]` A dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
 
 ### Utility / Cursorline
 
@@ -4348,9 +4355,9 @@ Collections of awesome neovim plugins.
 
 ## [Jul 23, 2022](/content/2022/07/23/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [lewpoly/sherbet.nvim (⭐71)](https://github.com/lewpoly/sherbet.nvim) - A soothing colorscheme with support for popular plugins and Tree-sitter.
+*   [lewpoly/sherbet.nvim (⭐71)](https://github.com/lewpoly/sherbet.nvim) - `[TS][Lua]` A soothing colorscheme with support for popular plugins and Tree-sitter.
 
 ## [Jul 20, 2022](/content/2022/07/20/README.md)
 
@@ -4364,9 +4371,9 @@ Collections of awesome neovim plugins.
 
 ## [Jul 14, 2022](/content/2022/07/14/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [rockyzhang24/arctic.nvim (⭐204)](https://github.com/rockyzhang24/arctic.nvim) - A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
+*   [rockyzhang24/arctic.nvim (⭐204)](https://github.com/rockyzhang24/arctic.nvim) - `[TS][LSP][Lua]` A Neovim colorscheme ported from VSCode Dark+ theme with the strict and precise color picking for both the editor and UI.
 
 ## [Jul 12, 2022](/content/2022/07/12/README.md)
 
@@ -4402,7 +4409,7 @@ Collections of awesome neovim plugins.
 
 ### Motion / GitLab
 
-*   [abecodes/tabout.nvim (⭐837)](https://github.com/abecodes/tabout.nvim) - Jump out of brackets, quotes, objects, etc.
+*   [abecodes/tabout.nvim (⭐837)](https://github.com/abecodes/tabout.nvim) - Jump out of bracket pairs, quotes, objects, etc.
 
 ## [Jun 22, 2022](/content/2022/06/22/README.md)
 
@@ -4418,9 +4425,9 @@ Collections of awesome neovim plugins.
 
 ## [Jun 11, 2022](/content/2022/06/11/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [ldelossa/vimdark (⭐69)](https://github.com/ldelossa/vimdark) - A minimal Vim theme for night time. Loosely based on vim-monotonic and chrome's dark reader extension. A light theme is included as well for the day time.
+*   [ldelossa/vimdark (⭐69)](https://github.com/ldelossa/vimdark) - `[TS][L/D]` A minimal Vim theme for night time. Loosely based on vim-monotonic and chrome's dark reader extension. A light theme is included as well for the day time.
 
 ### Editing Support / Scrollbar
 
@@ -4471,9 +4478,9 @@ Collections of awesome neovim plugins.
 
 ## [May 12, 2022](/content/2022/05/12/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [chrsm/paramount-ng.nvim (⭐20)](https://github.com/chrsm/paramount-ng.nvim) - A dark color scheme written using Lush. Tree-sitter supported.
+*   [chrsm/paramount-ng.nvim (⭐20)](https://github.com/chrsm/paramount-ng.nvim) - `[TS][Lua]` A dark color scheme written using Lush. Tree-sitter supported.
 
 ### Editing Support / Scrollbar
 
@@ -4560,9 +4567,9 @@ Collections of awesome neovim plugins.
 
 ## [Apr 05, 2022](/content/2022/04/05/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [phha/zenburn.nvim (⭐109)](https://github.com/phha/zenburn.nvim) - A low-contrast dark colorscheme with support for various plugins.
+*   [phha/zenburn.nvim (⭐109)](https://github.com/phha/zenburn.nvim) - `[TS][Lua]` A low-contrast dark colorscheme with support for various plugins.
 
 ## [Mar 30, 2022](/content/2022/03/30/README.md)
 
@@ -4613,15 +4620,15 @@ Collections of awesome neovim plugins.
 
 ## [Mar 11, 2022](/content/2022/03/11/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [cpea2506/one\_monokai.nvim (⭐188)](https://github.com/cpea2506/one_monokai.nvim) - One Monokai theme written in Lua.
+*   [cpea2506/one\_monokai.nvim (⭐188)](https://github.com/cpea2506/one_monokai.nvim) - `[TS][LSP][Lua]` One Monokai theme written in Lua.
 
 ## [Feb 28, 2022](/content/2022/02/28/README.md)
 
-### Colorscheme / Lua Colorscheme
+### Colorscheme / Assembly
 
-*   [lalitmee/cobalt2.nvim (⭐112)](https://github.com/lalitmee/cobalt2.nvim) - A port of cobalt2 colorscheme using colorbuddy.
+*   [lalitmee/cobalt2.nvim (⭐112)](https://github.com/lalitmee/cobalt2.nvim) - `[Lua]` A port of cobalt2 colorscheme using colorbuddy.
 
 ### Git / Quickfix
 
@@ -4660,9 +4667,9 @@ Collections of awesome neovim plugins.
 
 ## [Jan 19, 2022](/content/2022/01/19/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [Mofiqul/dracula.nvim (⭐743)](https://github.com/Mofiqul/dracula.nvim) - Dracula colorscheme for Neovim written in Lua.
+*   [Mofiqul/dracula.nvim (⭐743)](https://github.com/Mofiqul/dracula.nvim) - `[TS]` Dracula colorscheme for Neovim written in Lua.
 
 ## [Jan 03, 2022](/content/2022/01/03/README.md)
 
@@ -4672,15 +4679,15 @@ Collections of awesome neovim plugins.
 
 ## [Dec 29, 2021](/content/2021/12/29/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [titanzero/zephyrium (⭐26)](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with Tree-sitter support.
+*   [titanzero/zephyrium (⭐26)](https://github.com/titanzero/zephyrium) - `[TS][Lua]` A zephyr-esque theme, written in Lua, with Tree-sitter support.
 
 ## [Dec 27, 2021](/content/2021/12/27/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [luisiacc/gruvbox-baby (⭐442)](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full Tree-sitter support.
+*   [luisiacc/gruvbox-baby (⭐442)](https://github.com/luisiacc/gruvbox-baby) - `[TS][LSP][Lua]` A modern gruvbox theme with full Tree-sitter support.
 
 ## [Dec 10, 2021](/content/2021/12/10/README.md)
 
@@ -4700,9 +4707,9 @@ Collections of awesome neovim plugins.
 
 ## [Dec 04, 2021](/content/2021/12/04/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [andersevenrud/nordic.nvim (⭐175)](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
+*   [andersevenrud/nordic.nvim (⭐175)](https://github.com/andersevenrud/nordic.nvim) - `[TS][Lua]` A nord-esque colorscheme.
 
 ## [Dec 01, 2021](/content/2021/12/01/README.md)
 
@@ -4712,9 +4719,9 @@ Collections of awesome neovim plugins.
 
 ## [Nov 12, 2021](/content/2021/11/12/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [catppuccin/nvim (⭐7k)](https://github.com/catppuccin/nvim) - Warm mid-tone dark theme to show off your vibrant self! With support for native LSP, Tree-sitter, and more.
+*   [catppuccin/nvim (⭐7k)](https://github.com/catppuccin/nvim) - `[TS][LSP][L/D][Lua]` Warm mid-tone dark theme to show off your vibrant self! With support for native LSP, Tree-sitter, and more.
 
 ## [Nov 04, 2021](/content/2021/11/04/README.md)
 
@@ -4730,9 +4737,9 @@ Collections of awesome neovim plugins.
 
 ## [Oct 30, 2021](/content/2021/10/30/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [ellisonleao/gruvbox.nvim (⭐2.4k)](https://github.com/ellisonleao/gruvbox.nvim) - Gruvbox community colorscheme Lua port.
+*   [ellisonleao/gruvbox.nvim (⭐2.4k)](https://github.com/ellisonleao/gruvbox.nvim) - `[TS][LSP][L/D][Lua]` Gruvbox community colorscheme Lua port.
 
 ## [Oct 28, 2021](/content/2021/10/28/README.md)
 
@@ -4762,25 +4769,22 @@ Collections of awesome neovim plugins.
 *   [nvim-telescope/telescope.nvim (⭐19k)](https://github.com/nvim-telescope/telescope.nvim) - Telescope.nvim is a highly [extendable (⭐19k)](https://github.com/nvim-telescope/telescope.nvim/wiki/Extensions) fuzzy finder over lists. Built on the latest awesome features from Neovim core. Telescope is centered around modularity, allowing for easy customization.
 *   [ibhagwan/fzf-lua (⭐3.9k)](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, Git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [Mofiqul/vscode.nvim (⭐916)](https://github.com/Mofiqul/vscode.nvim) - A Lua port of vim-code-dark colorscheme with VSCode light and dark theme.
-*   [marko-cerovac/material.nvim (⭐1.1k)](https://github.com/marko-cerovac/material.nvim) - Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
-*   [mhartington/oceanic-next (⭐1.2k)](https://github.com/mhartington/oceanic-next) - Oceanic Next theme.
-*   [bkegley/gloombuddy (⭐48)](https://github.com/bkegley/gloombuddy) - Gloom inspired theme.
-*   [Th3Whit3Wolf/one-nvim (⭐115)](https://github.com/Th3Whit3Wolf/one-nvim) - An Atom One inspired dark and light colorscheme.
-*   [Th3Whit3Wolf/space-nvim (⭐48)](https://github.com/Th3Whit3Wolf/space-nvim) - A spacemacs inspired dark and light colorscheme.
-*   [ishan9299/nvim-solarized-lua (⭐200)](https://github.com/ishan9299/nvim-solarized-lua) - Solarized colorscheme in Lua (Neovim >= 0.5).
-*   [navarasu/onedark.nvim (⭐1.9k)](https://github.com/navarasu/onedark.nvim) - A One Dark Theme (Neovim >= 0.5) written in Lua based on Atom's One Dark Theme.
-*   [nxvu699134/vn-night.nvim (⭐44)](https://github.com/nxvu699134/vn-night.nvim) - A dark Neovim colorscheme written in Lua. Support built-in LSP and Tree-sitter.
-*   [adisen99/codeschool.nvim (⭐44)](https://github.com/adisen99/codeschool.nvim) - Codeschool colorscheme written in Lua with Tree-sitter and built-in LSP support.
-*   [projekt0n/github-nvim-theme (⭐2.4k)](https://github.com/projekt0n/github-nvim-theme) - A GitHub theme, kitty, alacritty written in Lua. Support built-in LSP and Tree-sitter.
-*   [FrenzyExists/aquarium-vim (⭐310)](https://github.com/FrenzyExists/aquarium-vim) - A dark, yet vibrant colorscheme.
-*   [adisen99/apprentice.nvim (⭐45)](https://github.com/adisen99/apprentice.nvim) - Colorscheme written in Lua based on the [Apprentice (⭐912)](https://github.com/romainl/Apprentice) color palette with Tree-sitter and built-in LSP support.
-
-### Colorscheme / Lua Colorscheme
-
-*   [metalelf0/jellybeans-nvim (⭐123)](https://github.com/metalelf0/jellybeans-nvim) - A port of jellybeans colorscheme.
+*   [Mofiqul/vscode.nvim (⭐916)](https://github.com/Mofiqul/vscode.nvim) - `[TS][L/D][Lua]` A Lua port of vim-code-dark colorscheme with VSCode light and dark theme.
+*   [marko-cerovac/material.nvim (⭐1.1k)](https://github.com/marko-cerovac/material.nvim) - `[TS][LSP][L/D][Lua]` Material.nvim is a highly configurable colorscheme written in Lua and based on the material palette.
+*   [mhartington/oceanic-next (⭐1.2k)](https://github.com/mhartington/oceanic-next) - `[TS][L/D]` Oceanic Next theme.
+*   [bkegley/gloombuddy (⭐48)](https://github.com/bkegley/gloombuddy) - `[TS][Lua]` Gloom inspired theme.
+*   [Th3Whit3Wolf/one-nvim (⭐115)](https://github.com/Th3Whit3Wolf/one-nvim) - `[TS][L/D][Lua]` An Atom One inspired dark and light colorscheme.
+*   [Th3Whit3Wolf/space-nvim (⭐48)](https://github.com/Th3Whit3Wolf/space-nvim) - `[TS][L/D][Lua]` A spacemacs inspired dark and light colorscheme.
+*   [ishan9299/nvim-solarized-lua (⭐200)](https://github.com/ishan9299/nvim-solarized-lua) - `[TS][Lua]` Solarized colorscheme in Lua (Neovim >= 0.5).
+*   [navarasu/onedark.nvim (⭐1.9k)](https://github.com/navarasu/onedark.nvim) - `[TS][LSP][Lua]` A One Dark Theme (Neovim >= 0.5) written in Lua based on Atom's One Dark Theme.
+*   [nxvu699134/vn-night.nvim (⭐44)](https://github.com/nxvu699134/vn-night.nvim) - `[Lua]` A dark colorscheme written in Lua.
+*   [adisen99/codeschool.nvim (⭐44)](https://github.com/adisen99/codeschool.nvim) - `[TS][LSP][Lua]` Codeschool colorscheme written in Lua with Tree-sitter and built-in LSP support.
+*   [projekt0n/github-nvim-theme (⭐2.4k)](https://github.com/projekt0n/github-nvim-theme) - `[TS][LSP][L/D][Lua]` A GitHub theme, kitty, alacritty written in Lua. Support built-in LSP and Tree-sitter.
+*   [FrenzyExists/aquarium-vim (⭐310)](https://github.com/FrenzyExists/aquarium-vim) - `[TS][L/D]` A dark, yet vibrant colorscheme.
+*   [adisen99/apprentice.nvim (⭐45)](https://github.com/adisen99/apprentice.nvim) - `[TS][L/D][Lua]` Colorscheme written in Lua based on the [Apprentice (⭐912)](https://github.com/romainl/Apprentice) color palette with Tree-sitter and built-in LSP support.
+*   [metalelf0/jellybeans-nvim (⭐123)](https://github.com/metalelf0/jellybeans-nvim) - `[TS][Lua]` A port of jellybeans colorscheme.
 
 ### Utility / Cursorline
 
@@ -4808,9 +4812,9 @@ Collections of awesome neovim plugins.
 
 ## [Oct 26, 2021](/content/2021/10/26/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [rmehri01/onenord.nvim (⭐617)](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
+*   [rmehri01/onenord.nvim (⭐617)](https://github.com/rmehri01/onenord.nvim) - `[TS][LSP][L/D][Lua]` A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 
 ## [Oct 25, 2021](/content/2021/10/25/README.md)
 
@@ -4832,9 +4836,9 @@ Collections of awesome neovim plugins.
 
 ## [Oct 20, 2021](/content/2021/10/20/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [olimorris/onedarkpro.nvim (⭐996)](https://github.com/olimorris/onedarkpro.nvim) - Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants.
+*   [olimorris/onedarkpro.nvim (⭐996)](https://github.com/olimorris/onedarkpro.nvim) - `[TS][L/D][Lua]` Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants.
 
 ## [Oct 10, 2021](/content/2021/10/10/README.md)
 
@@ -4852,25 +4856,25 @@ Collections of awesome neovim plugins.
 
 ### Formatting / Comment
 
-*   [sbdchd/neoformat (⭐2k)](https://github.com/sbdchd/neoformat) - A (Neo)vim plugin for formatting code.
+*   [sbdchd/neoformat (⭐2k)](https://github.com/sbdchd/neoformat) - A code formatting runner.
 
 ## [Sep 09, 2021](/content/2021/09/09/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [EdenEast/nightfox.nvim (⭐3.8k)](https://github.com/EdenEast/nightfox.nvim) - A soft dark, fully customizable Neovim theme, with support for LSP, Tree-sitter and a variety of plugins.
+*   [EdenEast/nightfox.nvim (⭐3.8k)](https://github.com/EdenEast/nightfox.nvim) - `[TS][LSP][L/D][Lua]` A soft dark, fully customizable colorscheme with support for LSP, Tree-sitter and a variety of plugins.
 
 ## [Sep 06, 2021](/content/2021/09/06/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [rafamadriz/neon (⭐200)](https://github.com/rafamadriz/neon) - Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
-*   [bluz71/vim-moonfly-colors (⭐1.2k)](https://github.com/bluz71/vim-moonfly-colors) - A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
-*   [ChristianChiarulli/nvcode-color-schemes.vim (⭐306)](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - Nvcode, onedark, nord colorschemes with Tree-sitter support.
-*   [folke/tokyonight.nvim (⭐7.6k)](https://github.com/folke/tokyonight.nvim) - A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
-*   [rockerBOO/boo-colorscheme-nvim (⭐234)](https://github.com/rockerBOO/boo-colorscheme-nvim) - A colorscheme with handcrafted support for LSP, Tree-sitter.
-*   [ray-x/aurora (⭐371)](https://github.com/ray-x/aurora) - A 24-bit dark theme with Tree-sitter and LSP support.
-*   [kdheepak/monochrome.nvim (⭐154)](https://github.com/kdheepak/monochrome.nvim) - A 16 bit monochrome colorscheme that uses hsluv for perceptually distinct gray colors, with support for Tree-sitter and other commonly used plugins.
+*   [rafamadriz/neon (⭐200)](https://github.com/rafamadriz/neon) - `[TS][LSP][L/D][Lua]` Customizable colorscheme with excellent italic and bold support, dark and light variants. Made to work and look good with Tree-sitter.
+*   [bluz71/vim-moonfly-colors (⭐1.2k)](https://github.com/bluz71/vim-moonfly-colors) - `[TS][LSP][Lua]` A dark charcoal colorscheme with modern Neovim support including Tree-sitter.
+*   [ChristianChiarulli/nvcode-color-schemes.vim (⭐306)](https://github.com/ChristianChiarulli/nvcode-color-schemes.vim) - `[TS]` Nvcode, onedark, nord colorschemes with Tree-sitter support.
+*   [folke/tokyonight.nvim (⭐7.6k)](https://github.com/folke/tokyonight.nvim) - `[TS][LSP][L/D][Lua]` A clean, dark and light Neovim theme written in Lua, with support for LSP, Tree-sitter and lots of plugins.
+*   [rockerBOO/boo-colorscheme-nvim (⭐234)](https://github.com/rockerBOO/boo-colorscheme-nvim) - `[TS][Lua]` A colorscheme with handcrafted support for LSP, Tree-sitter.
+*   [ray-x/aurora (⭐371)](https://github.com/ray-x/aurora) - `[TS][LSP][Lua]` A 24-bit dark theme with Tree-sitter and LSP support.
+*   [kdheepak/monochrome.nvim (⭐154)](https://github.com/kdheepak/monochrome.nvim) - `[TS][Lua]` A 16-bit monochrome colorscheme that uses [HSLuv](https://www.hsluv.org/) for perceptually distinct gray colors, with support for Tree-sitter and other commonly used plugins.
 
 ## [Aug 28, 2021](/content/2021/08/28/README.md)
 
@@ -4880,9 +4884,9 @@ Collections of awesome neovim plugins.
 
 ## [Aug 14, 2021](/content/2021/08/14/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [rose-pine/neovim (⭐2.9k)](https://github.com/rose-pine/neovim) - All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
+*   [rose-pine/neovim (⭐2.9k)](https://github.com/rose-pine/neovim) - `[TS][LSP][L/D][Lua]` All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ### Utility / Cursorline
 
@@ -4938,9 +4942,9 @@ Collections of awesome neovim plugins.
 
 ## [Jul 05, 2021](/content/2021/07/05/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [shaunsingh/nord.nvim (⭐958)](https://github.com/shaunsingh/nord.nvim) - Neovim theme based off of the Nord Color Palette.
+*   [shaunsingh/nord.nvim (⭐958)](https://github.com/shaunsingh/nord.nvim) - `[TS][Lua]` Neovim theme based off of the Nord Color Palette.
 
 ## [Jun 27, 2021](/content/2021/06/27/README.md)
 
@@ -4962,9 +4966,9 @@ Collections of awesome neovim plugins.
 
 ## [Jun 17, 2021](/content/2021/06/17/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [dracula/vim (⭐1.4k)](https://github.com/dracula/vim) - Famous beautiful dark powered theme.
+*   [dracula/vim (⭐1.4k)](https://github.com/dracula/vim) - `[TS][LSP]` Famous beautiful dark powered theme.
 
 ## [Jun 16, 2021](/content/2021/06/16/README.md)
 
@@ -4984,9 +4988,9 @@ Collections of awesome neovim plugins.
 
 *   [NTBBloodbath/cheovim (⭐343)](https://github.com/NTBBloodbath/cheovim) - Neovim configuration switcher written in Lua. Inspired by chemacs.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [NTBBloodbath/doom-one.nvim (⭐238)](https://github.com/NTBBloodbath/doom-one.nvim) - Lua port of doom-emacs' doom-one.
+*   [NTBBloodbath/doom-one.nvim (⭐238)](https://github.com/NTBBloodbath/doom-one.nvim) - `[TS][L/D][Lua]` Lua port of doom-emacs' doom-one.
 
 ## [Jun 11, 2021](/content/2021/06/11/README.md)
 
@@ -4998,9 +5002,9 @@ Collections of awesome neovim plugins.
 
 *   [winston0410/range-highlight.nvim (⭐209)](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (\~ 120loc) that highlights ranges you have entered in commandline.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [sainnhe/gruvbox-material (⭐2.4k)](https://github.com/sainnhe/gruvbox-material) - Gruvbox modification with softer contrast and Tree-sitter support.
+*   [sainnhe/gruvbox-material (⭐2.4k)](https://github.com/sainnhe/gruvbox-material) - `[TS][LSP]` Gruvbox modification with softer contrast and Tree-sitter support.
 
 ### Editing Support / Scrollbar
 
@@ -5012,9 +5016,9 @@ Collections of awesome neovim plugins.
 
 ## [Jun 09, 2021](/content/2021/06/09/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [sainnhe/everforest (⭐3.7k)](https://github.com/sainnhe/everforest) - A green based colorscheme designed to be warm, soft and easy on the eyes.
+*   [sainnhe/everforest (⭐3.7k)](https://github.com/sainnhe/everforest) - `[TS][LSP][L/D]` A green based colorscheme designed to be warm, soft and easy on the eyes.
 
 ## [Jun 08, 2021](/content/2021/06/08/README.md)
 
@@ -5045,9 +5049,9 @@ Collections of awesome neovim plugins.
 
 ## [May 27, 2021](/content/2021/05/27/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [tanvirtin/monokai.nvim (⭐380)](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
+*   [tanvirtin/monokai.nvim (⭐380)](https://github.com/tanvirtin/monokai.nvim) - `[TS][LSP][Lua]` Monokai theme written in Lua.
 
 ### Git / Quickfix
 
@@ -5066,11 +5070,11 @@ Collections of awesome neovim plugins.
 
 *   [davidgranstrom/nvim-markdown-preview (⭐111)](https://github.com/davidgranstrom/nvim-markdown-preview) - Markdown preview in the browser using pandoc and live-server through Neovim's job-control API.
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [tomasiser/vim-code-dark (⭐993)](https://github.com/tomasiser/vim-code-dark) - A dark color scheme heavily inspired by the look of the Dark+ scheme of VSCode.
-*   [sainnhe/sonokai (⭐1.9k)](https://github.com/sainnhe/sonokai) - High Contrast & Vivid Color Scheme based on Monokai Pro.
-*   [sainnhe/edge (⭐981)](https://github.com/sainnhe/edge) - Clean & Elegant Color Scheme inspired by Atom One and Material.
+*   [tomasiser/vim-code-dark (⭐993)](https://github.com/tomasiser/vim-code-dark) - `[TS]` A dark color scheme heavily inspired by the look of the Dark+ scheme of VSCode.
+*   [sainnhe/sonokai (⭐1.9k)](https://github.com/sainnhe/sonokai) - `[TS][LSP]` High Contrast & Vivid Color Scheme based on Monokai Pro.
+*   [sainnhe/edge (⭐981)](https://github.com/sainnhe/edge) - `[TS][LSP][L/D]` Clean and Elegant Color Scheme inspired by Atom One and Material.
 
 ### Debugging / CSV Files
 
@@ -5115,9 +5119,9 @@ Collections of awesome neovim plugins.
 
 ## [Apr 12, 2021](/content/2021/04/12/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [fenetikm/falcon (⭐820)](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
+*   [fenetikm/falcon (⭐820)](https://github.com/fenetikm/falcon) - `[TS][Lua]` A colour scheme for terminals, Vim and friends.
 
 ## [Mar 05, 2021](/content/2021/03/05/README.md)
 
@@ -5147,6 +5151,6 @@ Collections of awesome neovim plugins.
 
 ## [Nov 23, 2020](/content/2020/11/23/README.md)
 
-### Colorscheme / Tree-sitter Supported Colorscheme
+### Colorscheme / Assembly
 
-*   [ishan9299/modus-theme-vim (⭐177)](https://github.com/ishan9299/modus-theme-vim) - This is a color scheme developed by Protesilaos Stavrou for emacs.
+*   [ishan9299/modus-theme-vim (⭐177)](https://github.com/ishan9299/modus-theme-vim) - `[TS][L/D][Lua]` This is a color scheme developed by Protesilaos Stavrou for emacs.

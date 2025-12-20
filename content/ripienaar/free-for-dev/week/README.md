@@ -21,6 +21,10 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 *   [CodedThemes](https://codedthemes.com/) - Offers a well-crafted admin dashboard & and UI kits designed to simplify and speed up modern web development.
 
+### Miscellaneous
+
+*   [Calcmatic](https://calcmatic.app) — Free online calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance. No login required.
+
 ### Other Free Resources
 
 *   [JSON Viewer Tool](https://jsonviewertool.com/) – View, format, validate, minify, and convert JSON data directly in the browser (no API key required).
