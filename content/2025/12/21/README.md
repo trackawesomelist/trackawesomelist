@@ -1,12 +1,31 @@
 # Awesome List Updates on Dec 21, 2025
 
-3 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [1. Go Recipes](/content/nikolaydubina/go-recipes/README.md)
+
+### Guides / Analyze function callsites with [go-callsite-stats](https://github.com/nikolaydubina/go-callsite-stats)
+
+*   [Go Optimization Guide](https://goperf.dev/)
+*   [Go 101](https://go101.org/)
+
+## [2. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+### AI Client / Other Tools
+
+*   [Maestro](https://runmaestro.ai) - Run multiple AI coding agents in parallel with a spec-driven workflow. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/pedramamini/Maestro)
+
+## [3. ALL About RSS](/content/AboutRSS/ALL-about-RSS/README.md)
+
+### RSS2ARCHIVE / For Android device
+
+*   [RSS Librarian](https://www.rsslibrarian.ch/librarian.php) [![Open-Source Software](https://github.com/AboutRSS/ALL-about-RSS/raw/master/media/open-source.png)](https://github.com/thefranke/rss-librarian)
+
+## [4. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -25,13 +44,13 @@
 
 *   [JSLT (⭐681) (⭐679)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
 
-## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### AI / Diagnostics
 
 *   [carlos-algms/agentic.nvim (⭐63)](https://github.com/carlos-algms/agentic.nvim) - Chat interface for AI ACP providers such as Claude, Gemini, Codex, OpenCode and Cursor.
 
-## [3. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
+## [6. Awesome Cakephp](/content/FriendsOfCake/awesome-cakephp/README.md)
 
 ### Queue
 
