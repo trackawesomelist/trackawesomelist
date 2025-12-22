@@ -21,6 +21,10 @@
 *   [tmux (zpm-zsh) (⭐20)](https://github.com/zpm-zsh/tmux) - Plugin for [tmux](https://tmux.github.io).
 *   [tmux (zsh-contrib) (⭐0)](https://github.com/zsh-contrib/zsh-tmux) - Plugin for [tmux](https://tmux.github.io). Includes automatic window title updates based on running command, command name display during execution, job reference resolution (fg, %1) to actual command names and automatic title truncation (max 20 characters).
 
+## [3. Awesome Username Finding tool](/content/notthetup/awesome-webaudio/README.md)
+
+*   [360username](https://360username.com/) - Search a username across 90+ social platforms to find matching profiles. [Add your website](https://github.com/zultanmh-create/AddTo360Username.git)
+
 ---
 
 - Next: [Dec 21, 2025](/content/2025/12/21/README.md)
