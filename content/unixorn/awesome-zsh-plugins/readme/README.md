@@ -848,8 +848,9 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 
 *   [1password (⭐4)](https://github.com/agpenton/1password-zsh-plugin) - Adds [1Password](https://1password.com/) functionality including a `opswd` command that wraps the `op` command. It takes a service name as an argument and copies the password for that service to the clipboard.
 *   [256color (⭐148)](https://github.com/chrissicool/zsh-256color) - Enhances the terminal environment with 256 colors. It looks at the chosen `TERM` environment variable and sees if there is respective ncurses' terminfo with 256 colors available. The result is a multicolor terminal, if available.
-*   [abbr (olets) (⭐711)](https://github.com/olets/zsh-abbr) - Manages auto-expanding abbreviations that expand inline when you hit space, inspired by the fish shell.
 *   [abbr-path (⭐12)](https://github.com/felixgravila/zsh-abbr-path) - Adds functionality of the `theme_title_use_abbreviated_path` parameter from some oh-my-fish themes.
+*   [abbr-preview (⭐0)](https://github.com/cohml/zsh-abbr-preview) - Previews [abbr (⭐711)](https://github.com/olets/zsh-abbr) abbreviations as you type.
+*   [abbr (⭐711)](https://github.com/olets/zsh-abbr) - Manages auto-expanding abbreviations that expand inline when you hit space, inspired by the fish shell.
 *   [abbrev-alias (⭐121)](https://github.com/momo-lab/zsh-abbrev-alias) - Provides functionality similar to `vim`'s abbreviation expansion.
 *   [actiona (⭐4)](https://github.com/matthieusb/act) - Make it easier to call [actiona (⭐638)](https://github.com/Jmgr/actiona) scripts from your command line. Includes tab completions.
 *   [activate-py-environment (⭐30)](https://github.com/se-jaeger/zsh-activate-py-environment) - Automagically detects and activates your python environments (`poetry`, `virtualenv` and `conda`) while traversing directories.
@@ -1440,7 +1441,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [npm (zfben) (⭐1)](https://github.com/zfben/zsh-npm) - Use `n` as `npm` aliases with `noglob` prefix and more. Based on the Oh-My-Zsh [npm (⭐183k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/npm) plugin.
 *   [npms (⭐9)](https://github.com/torifat/npms) - Utility powered by [fzf (⭐76k)](https://github.com/junegunn/fzf) for using npm scripts interactively. Requires [fzf (⭐76k)](https://github.com/junegunn/fzf) and [jq](https://stedolan.github.io/jq/).
 *   [nvim-appname (⭐27)](https://github.com/mehalter/zsh-nvim-appname) - Maintain multiple Neovim configurations with `NVIM_APPNAME` with full tab completion of available flags, available neovim applications, and neovim arguments/flags. Requires neovim v0.9+
-*   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐28k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
+*   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐29k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
 *   [nvm-auto-use (jrr997) (⭐1)](https://github.com/jrr997/zsh-nvm-auto-use) - Automatically manages your Node.js versions with [nvm (⭐90k)](https://github.com/nvm-sh/nvm) based on your current directory.
 *   [nvm-auto-use (martvdmoosdijk) (⭐0)](https://github.com/martvdmoosdijk/zsh-nvm-auto-use) - Automatically switches node version with `nvm use` when a `.nvmrc` is detected.
 *   [nvm-auto-use (tomsquest) (⭐18)](https://github.com/tomsquest/nvm-auto-use.zsh) - Calls `nvm use` automatically whenever you enter a directory that contains an `.nvmrc` file with a string telling `nvm` which node to use.
@@ -1728,7 +1729,8 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 *   [tmux-ssh-syncing (⭐4)](https://github.com/alberti42/tmux-ssh-syncing) - Synchronize your `tmux` window names with active `ssh` sessions. This plugin dynamically updates the [`tmux`](https://tmux.github.io) window name to reflect the remote hosts of active `ssh` sessions in the same window. It also restores the original window name when all `ssh` sessions are closed.
 *   [tmux-vim-integration (⭐5)](https://github.com/jsahlen/tmux-vim-integration.plugin.zsh) - Open files in a running `vim` (or NeoVim) session, from an adjacent [tmux](https://tmux.github.io) pane.
 *   [tmux-zsh-vim-titles (⭐30)](https://github.com/MikeDacre/tmux-zsh-vim-titles) - Create unified terminal titles for `tmux`, ZSH, and Vim/NVIM, modular.
-*   [tmux (⭐20)](https://github.com/zpm-zsh/tmux) - Plugin for [tmux](https://tmux.github.io).
+*   [tmux (zpm-zsh) (⭐20)](https://github.com/zpm-zsh/tmux) - Plugin for [tmux](https://tmux.github.io).
+*   [tmux (zsh-contrib) (⭐0)](https://github.com/zsh-contrib/zsh-tmux) - Plugin for [tmux](https://tmux.github.io). Includes automatic window title updates based on running command, command name display during execution, job reference resolution (fg, %1) to actual command names and automatic title truncation (max 20 characters).
 *   [tmuxrepl (⭐25)](https://github.com/csurfer/tmuxrepl) - Simple ZSH plugin to have a R-EP-L [tmux](https://tmux.github.io) session.
 *   [todotxt (⭐2)](https://github.com/Neluji/omz-todotxt) - Adds aliases for [todo.sh (⭐23)](https://github.com/benignoc/alfred-todotxt/).
 *   [toggl (⭐5)](https://github.com/natterstefan/toggl-zsh-plugin) - Adds a `toggl-week` command to display the total working hours tracked on [toggl.com](https://toggl.com)

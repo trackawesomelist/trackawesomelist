@@ -6,6 +6,15 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 
 [ [Daily](/content/unixorn/awesome-zsh-plugins/README.md) / Weekly / [Overview](/content/unixorn/awesome-zsh-plugins/readme/README.md) ]
 
+## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [abbr-preview (⭐0)](https://github.com/cohml/zsh-abbr-preview) - Previews [abbr (⭐711)](https://github.com/olets/zsh-abbr) abbreviations as you type.
+*   [abbr (⭐711)](https://github.com/olets/zsh-abbr) - Manages auto-expanding abbreviations that expand inline when you hit space, inspired by the fish shell.
+*   [tmux (zpm-zsh) (⭐20)](https://github.com/zpm-zsh/tmux) - Plugin for [tmux](https://tmux.github.io).
+*   [tmux (zsh-contrib) (⭐0)](https://github.com/zsh-contrib/zsh-tmux) - Plugin for [tmux](https://tmux.github.io). Includes automatic window title updates based on running command, command name display during execution, job reference resolution (fg, %1) to actual command names and automatic title truncation (max 20 characters).
+
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
 ### [sheldon](https://github.com/rossmacarthur/sheldon)
@@ -1088,7 +1097,7 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [dirbrowse (⭐3)](https://github.com/giovannilupi/dirbrowse/) - Customized version of the [dirbrowse (⭐183k)](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/dircycle) plugin in [oh-my-zsh](https://ohmyz.sh).
-*   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐28k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
+*   [nvim-switcher (⭐0)](https://github.com/dacarey/zsh-nvim-switcher)- Manages switching between `nvim` distributinons such as [Lazyvim](https://www.lazyvim.org/), [kickstart (⭐29k)](https://github.com/nvim-lua/kickstart.nvim) or a home made configuration.
 *   [touchplus (⭐4)](https://github.com/raisedadead/zsh-touchplus) - Create files with `touch` including the path.
 *   [zellij (tranzystorek-io)](https://codeberg.org/tranzystorekk/zellij.zsh) - Provides an environment that autostarts [zellij (⭐28k)](https://github.com/zellij-org/zellij) as your terminal's multiplexer.
 
@@ -2864,7 +2873,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
 *   [256color (⭐148)](https://github.com/chrissicool/zsh-256color) - Enhances the terminal environment with 256 colors. It looks at the chosen `TERM` environment variable and sees if there is respective ncurses' terminfo with 256 colors available. The result is a multicolor terminal, if available.
-*   [abbr (olets) (⭐711)](https://github.com/olets/zsh-abbr) - Manages auto-expanding abbreviations that expand inline when you hit space, inspired by the fish shell.
 *   [abbr-path (⭐12)](https://github.com/felixgravila/zsh-abbr-path) - Adds functionality of the `theme_title_use_abbreviated_path` parameter from some oh-my-fish themes.
 *   [abbrev-alias (⭐121)](https://github.com/momo-lab/zsh-abbrev-alias) - Provides functionality similar to `vim`'s abbreviation expansion.
 *   [actiona (⭐4)](https://github.com/matthieusb/act) - Make it easier to call [actiona (⭐638)](https://github.com/Jmgr/actiona) scripts from your command line. Includes tab completions.
@@ -3295,7 +3303,6 @@ A collection of ZSH frameworks, plugins, themes and tutorials.
 *   [tmux-simple (⭐6)](https://github.com/TBSliver/zsh-plugin-tmux-simple) - Simple plugin for using [tmux](https://tmux.github.io) with ZSH.
 *   [tmux-vim-integration (⭐5)](https://github.com/jsahlen/tmux-vim-integration.plugin.zsh) - Open files in a running `vim` (or NeoVim) session, from an adjacent [tmux](https://tmux.github.io) pane.
 *   [tmux-zsh-vim-titles (⭐30)](https://github.com/MikeDacre/tmux-zsh-vim-titles) - Create unified terminal titles for `tmux`, ZSH, and Vim/NVIM, modular.
-*   [tmux (⭐20)](https://github.com/zpm-zsh/tmux) - Plugin for [tmux](https://tmux.github.io).
 *   [tmuxrepl (⭐25)](https://github.com/csurfer/tmuxrepl) - Simple ZSH plugin to have a R-EP-L [tmux](https://tmux.github.io) session.
 *   [toggl (⭐5)](https://github.com/natterstefan/toggl-zsh-plugin) - Adds a `toggl-week` command to display the total working hours tracked on [toggl.com](https://toggl.com)
 *   [toggle-command-prefix (⭐23)](https://github.com/xPMo/zsh-toggle-command-prefix) - Add a widget to toggle a prefix to a command. Binds Alt+s to prefix a command with `sudo` by default.

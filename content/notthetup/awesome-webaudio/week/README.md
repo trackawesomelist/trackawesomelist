@@ -6,6 +6,12 @@ A curated list of awesome WebAudio packages and resources.
 
 [ [Daily](/content/notthetup/awesome-webaudio/README.md) / Weekly / [Overview](/content/notthetup/awesome-webaudio/readme/README.md) ]
 
+## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
+
+### Packages / Apps
+
+*   [All-in-One Advanced BPM Tool](https://tapbpmhub.com/) – Instantly measure song speed by tapping or using the spacebar. Features MIDI input, optional sound clicks, and real-time BPM visualization. Essential for producers, DJs, rhythm gamers.
+
 ## [Dec 15 - Dec 21, 2025](/content/2025/50/README.md)
 
 ### Packages / Apps
