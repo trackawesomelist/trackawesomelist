@@ -2,9 +2,15 @@
 
 A curated list of testing resources
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/TheJambo/awesome-testing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) · ⭐ 2.1K · 🏷️ Testing
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/TheJambo/awesome-testing/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 TheJambo/awesome-testing](https://github.com/TheJambo/awesome-testing) · ⭐ 2.2K · 🏷️ Testing
 
 [ [Daily](/content/TheJambo/awesome-testing/README.md) / Weekly / [Overview](/content/TheJambo/awesome-testing/readme/README.md) ]
+
+## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
+
+### Software / AI & LLM Testing
+
+*   [promptfoo (⭐9.4k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 
 ## [Dec 08 - Dec 14, 2025](/content/2025/49/README.md)
 
@@ -36,8 +42,8 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [Tests Coverage Tool (⭐9)](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
-*   [Swagger Coverage Tool (⭐13)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
+*   [Tests Coverage Tool (⭐10)](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
+*   [Swagger Coverage Tool (⭐15)](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 
 ### Software / UI & End-to-End Testing
 
@@ -45,7 +51,7 @@ A curated list of testing resources
 
 ### Software / Performance & Load Testing
 
-*   [Load Testing Hub Panel (⭐20)](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
+*   [Load Testing Hub Panel (⭐22)](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
 
 ## [Feb 24 - Mar 02, 2025](/content/2025/8/README.md)
 
@@ -63,7 +69,7 @@ A curated list of testing resources
 ### Software / UI & End-to-End Testing
 
 *   [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
-*   [Hercules (⭐878)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
+*   [Hercules (⭐891)](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
 
 ## [Dec 16 - Dec 22, 2024](/content/2024/51/README.md)
 
@@ -103,7 +109,7 @@ A curated list of testing resources
 
 ### Software / UI & End-to-End Testing
 
-*   [playwright-bdd (⭐558)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
+*   [playwright-bdd (⭐573)](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 
 ## [Jan 08 - Jan 14, 2024](/content/2024/2/README.md)
 
@@ -141,7 +147,7 @@ A curated list of testing resources
 
 *   [Dapp.tools](https://dapp.tools/) - Command-line tools and smart contract libraries for Ethereum.
 *   [Ganache](https://trufflesuite.com/ganache/) - Personal Ethereum blockchain for running tests.
-*   [Foundry (⭐9.8k)](https://github.com/foundry-rs/foundry) - Fast, modular toolkit for Ethereum development.
+*   [Foundry (⭐9.9k)](https://github.com/foundry-rs/foundry) - Fast, modular toolkit for Ethereum development.
 *   [Hardhat](https://hardhat.org/) - Ethereum development and testing environment.
 *   [Truffle Suite](https://trufflesuite.com/) - Comprehensive smart contract development suite.
 *   [Robot Framework Solidity Testing Toolkit (⭐13)](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - Robot Framework integration for Solidity testing.
@@ -154,7 +160,7 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [RestQA (⭐92)](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
+*   [RestQA (⭐93)](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
 
 ### Training (Includes developer training for automation testers) / Mind Mapping & Documentation
 
@@ -176,7 +182,7 @@ A curated list of testing resources
 
 ### Software / Test Data Management
 
-*   [Touca (⭐507)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
+*   [Touca (⭐508)](https://github.com/trytouca/trytouca) - Continuous regression testing for behavioral and performance comparisons.
 
 ## [Jun 06 - Jun 12, 2022](/content/2022/23/README.md)
 
@@ -188,7 +194,7 @@ A curated list of testing resources
 
 ### Software / API Testing
 
-*   [Keploy (⭐13k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
+*   [Keploy (⭐14k)](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 
 ## [Nov 22 - Nov 28, 2021](/content/2021/47/README.md)
 
@@ -208,7 +214,7 @@ A curated list of testing resources
 
 ### Software / Service Virtualization
 
-*   [DeepfakeHTTP (⭐529)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
+*   [DeepfakeHTTP (⭐531)](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 
 ## [Jun 28 - Jul 04, 2021](/content/2021/26/README.md)
 
@@ -288,7 +294,7 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [Awesome JMeter (⭐760)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+*   [Awesome JMeter (⭐764)](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 
 ## [Oct 21 - Oct 27, 2019](/content/2019/42/README.md)
 
@@ -322,7 +328,7 @@ A curated list of testing resources
 
 ### Others / Useful References
 
-*   [Software Testing Interview Tool (⭐49)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
+*   [Software Testing Interview Tool (⭐50)](https://github.com/TheJambo/ToDoInterviewTest) - A very buggy To Do List to facilitate face to face interviews.
 
 ## [Jul 30 - Aug 05, 2018](/content/2018/31/README.md)
 
@@ -388,8 +394,8 @@ A curated list of testing resources
 
 ### Suggested Awesome Lists / Useful References
 
-*   [The Original (⭐417k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
-*   [Application Security (⭐6.7k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
+*   [The Original (⭐421k)](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+*   [Application Security (⭐6.8k)](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 *   [Selenium (⭐1.1k)](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 *   [Security (⭐14k)](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 
@@ -403,7 +409,7 @@ A curated list of testing resources
 
 ### Software / Security Testing
 
-*   [OWASP ZAP (⭐14k)](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
+*   [OWASP ZAP (⭐15k)](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
 
 ### Software / Browser Extensions & Utilities
 

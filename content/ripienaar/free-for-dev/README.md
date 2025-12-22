@@ -6,6 +6,12 @@ A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo
 
 [ Daily / [Weekly](/content/ripienaar/free-for-dev/week/README.md) / [Overview](/content/ripienaar/free-for-dev/readme/README.md) ]
 
+## [Dec 22, 2025](/content/2025/12/22/README.md)
+
+### Authentication, Authorization, and User Management
+
+*   [360username](https://360username.com/) - A free tool to search a username across 90+ social platforms to find matching profiles.
+
 ## [Dec 20, 2025](/content/2025/12/20/README.md)
 
 ### Miscellaneous

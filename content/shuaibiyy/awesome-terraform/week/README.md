@@ -6,6 +6,21 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 
 [ [Daily](/content/shuaibiyy/awesome-terraform/README.md) / Weekly / [Overview](/content/shuaibiyy/awesome-terraform/readme/README.md) ]
 
+## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
+
+### Official Resources
+
+*   [Introduction to Terraform](https://developer.hashicorp.com/terraform/intro)
+*   [Terraform Documentation](https://developer.hashicorp.com/terraform/docs)
+
+### Tutorials and Blog Posts / Google Cloud
+
+*   [IAC - Terraform and Terragrunt on Google Cloud](https://www.academeez.com/courses/terraform) - Open source MIT Licensed course about creating infrastructure on Google Cloud using Terraform/OpenTofu and Terragrunt
+
+### Providers / Vendor supported providers
+
+*   [terraform-provider-scp (⭐23)](https://github.com/splunk/terraform-provider-scp) - Provider for Splunk Cloud Platform.
+
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
 ### Tools / Community providers
@@ -17,8 +32,6 @@ Curated list of resources on HashiCorp's Terraform and OpenTofu
 ### Official Resources
 
 *   [Hashicorp Terraform Blog](https://www.hashicorp.com/en/blog/products/terraform)
-*   [Introduction to Terraform](https://web.archive.org/web/20251001030259/https://developer.hashicorp.com/terraform/intro)
-*   [Terraform Documentation](https://web.archive.org/web/20251003045432/https://developer.hashicorp.com/terraform/docs)
 
 ### Tutorials and Blog Posts / How-To
 

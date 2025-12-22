@@ -227,7 +227,7 @@ Collections of awesome neovim plugins.
 *   [nvim-mini/mini.nvim#mini.completion (⭐8.5k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-completion.md) - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
 *   [saghen/blink.cmp (⭐5.7k)](https://github.com/saghen/blink.cmp) - Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
     *   [saghen/blink.compat (⭐207)](https://github.com/saghen/blink.compat) - Compatibility layer for using `nvim-cmp` sources on `blink.cmp`.
-    *   [Kasier-Yang/blink-cmp-avante (⭐97)](https://github.com/Kaiser-Yang/blink-cmp-avante) - `blink-cmp` source for Avante.
+    *   [Kasier-Yang/blink-cmp-avante (⭐99)](https://github.com/Kaiser-Yang/blink-cmp-avante) - `blink-cmp` source for Avante.
     *   [krissen/blink-cmp-bibtex (⭐9)](https://github.com/krissen/blink-cmp-bibtex) - `blink.cmp` source for BibTeX citation files.
     *   [Kaiser-Yang/blink-cmp-git (⭐80)](https://github.com/Kaiser-Yang/blink-cmp-git) - `blink.cmp` source for Git.
     *   [disrupted/blink-cmp-conventional-commits (⭐23)](https://github.com/disrupted/blink-cmp-conventional-commits) - `blink.cmp` source for [Conventional Commits](https://www.conventionalcommits.org/).
@@ -425,7 +425,7 @@ Collections of awesome neovim plugins.
 *   [kiyoon/Korean-IME.nvim (⭐29)](https://github.com/kiyoon/Korean-IME.nvim) - OS-independent Korean input method that converts English inputs to Korean in-place.
 *   [bennorichters/taal.nvim (⭐17)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
 *   [walkersumida/deepl.nvim (⭐5)](https://github.com/walkersumida/deepl.nvim) - Translates text using the DeepL API with multiple output modes (float, replace, append).
-*   [acidsugarx/babel.nvim (⭐1)](https://github.com/acidsugarx/babel.nvim) - Translate text using Google Translate with async support, float display, and multi-picker integration.
+*   [acidsugarx/babel.nvim (⭐8)](https://github.com/acidsugarx/babel.nvim) - Translate text using Google Translate with async support, float display, and multi-picker integration.
 
 <!--lint disable double-link -->
 
@@ -1366,6 +1366,7 @@ then it is not supported:
 *   [wsdjeg/git.nvim (⭐7)](https://github.com/wsdjeg/git.nvim) - An asynchronous Git command wrapper plugin, using `:Git` command instead of `:!git`.
 *   [Mauritz8/gitstatus.nvim (⭐9)](https://github.com/Mauritz8/gitstatus.nvim) - Interactive Git status window with support for staging, unstaging, and committing files.
 *   [esmuellert/vscode-diff.nvim (⭐585)](https://github.com/esmuellert/vscode-diff.nvim) - VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
+*   [ajatdarojat45/commitmate.nvim (⭐2)](https://github.com/ajatdarojat45/commitmate.nvim) - An AI-assisted commit message generator following common commit conventions.
 
 ### GitHub
 

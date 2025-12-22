@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ [Daily](/content/rockerBOO/awesome-neovim/README.md) / Weekly / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
+
+### Git / Quickfix
+
+*   [ajatdarojat45/commitmate.nvim (⭐2)](https://github.com/ajatdarojat45/commitmate.nvim) - An AI-assisted commit message generator following common commit conventions.
+
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
 ### AI / Diagnostics
@@ -67,7 +73,7 @@ Collections of awesome neovim plugins.
 
 ### Language / Assembly
 
-*   [acidsugarx/babel.nvim (⭐1)](https://github.com/acidsugarx/babel.nvim) - Translate text using Google Translate with async support, float display, and multi-picker integration.
+*   [acidsugarx/babel.nvim (⭐8)](https://github.com/acidsugarx/babel.nvim) - Translate text using Google Translate with async support, float display, and multi-picker integration.
 
 ### Colorscheme / Assembly
 
@@ -191,7 +197,7 @@ Collections of awesome neovim plugins.
 
 *   [saghen/blink.cmp (⭐5.7k)](https://github.com/saghen/blink.cmp) - Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
     *   [saghen/blink.compat (⭐207)](https://github.com/saghen/blink.compat) - Compatibility layer for using `nvim-cmp` sources on `blink.cmp`.
-    *   [Kasier-Yang/blink-cmp-avante (⭐97)](https://github.com/Kaiser-Yang/blink-cmp-avante) - `blink-cmp` source for Avante.
+    *   [Kasier-Yang/blink-cmp-avante (⭐99)](https://github.com/Kaiser-Yang/blink-cmp-avante) - `blink-cmp` source for Avante.
     *   [krissen/blink-cmp-bibtex (⭐9)](https://github.com/krissen/blink-cmp-bibtex) - `blink.cmp` source for BibTeX citation files.
     *   [Kaiser-Yang/blink-cmp-git (⭐80)](https://github.com/Kaiser-Yang/blink-cmp-git) - `blink.cmp` source for Git.
     *   [disrupted/blink-cmp-conventional-commits (⭐23)](https://github.com/disrupted/blink-cmp-conventional-commits) - `blink.cmp` source for [Conventional Commits](https://www.conventionalcommits.org/).
