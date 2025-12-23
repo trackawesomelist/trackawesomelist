@@ -6,6 +6,13 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Dec 23, 2025](/content/2025/12/23/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   **bodyclose** :warning: — Checks whether HTTP response body is closed.
+*   [CodeDepends (⭐90)](https://github.com/duncantl/CodeDepends) — Static Code Analysis for R.
+
 ## [Dec 19, 2025](/content/2025/12/19/README.md)
 
 ### Other / [Other](#other-1)
@@ -198,7 +205,6 @@
 *   **py-find-injection** :warning: — Find SQL injection vulnerabilities in Python code.
 *   **pydocstyle** :warning: — Check compliance with Python docstring conventions.
 *   **PyT - Python Taint** :warning: — A static analysis tool for detecting security vulnerabilities in Python web applications.
-*   **CodeDepends** :warning: — Static Code Analysis for R.
 *   **cane** :warning: — Code quality threshold checking as part of your build.
 *   **Churn** :warning: — A Project to give the churn file, class, and method for a project for a given checkin. Over time the tool adds up the history of churns to give the number of times a file, class, or method is changing during the life of a project.
 *   **laser** :warning: — Static analysis and style linter for Ruby code.
@@ -995,7 +1001,6 @@
 *   [elvis (⭐427)](https://github.com/inaka/elvis) — Erlang Style Reviewer.
 *   [i-Code CNES for Fortran (⭐63)](https://github.com/lequal/i-CodeCNES) — An open source static code analysis tool for Fortran 77, Fortran 90 and Shell.
 *   [aligncheck](https://gitlab.com/opennota/check) — Find inefficiently packed structs.
-*   [bodyclose (⭐321)](https://github.com/timakin/bodyclose) — Checks whether HTTP response body is closed.
 *   [deadcode (⭐53)](https://github.com/tsenart/deadcode) — Finds unused code.
 *   [dogsled (⭐73)](https://github.com/alexkohler/dogsled) — Finds assignments/declarations with too many blank identifiers.
 *   [errcheck (⭐2.5k)](https://github.com/kisielk/errcheck) — Check that error return values are used.
@@ -1024,7 +1029,7 @@
 *   [misspell (⭐1.4k)](https://github.com/client9/misspell) — Finds commonly misspelled English words.
 *   [nakedret (⭐131)](https://github.com/alexkohler/nakedret) — Finds naked returns.
 *   [nargs (⭐86)](https://github.com/alexkohler/nargs) — Finds unused arguments in function declarations.
-*   [prealloc (⭐658)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
+*   [prealloc (⭐659)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
 *   [revive](https://revive.run) — Fast, configurable, extensible, flexible, and beautiful linter for Go. Drop-in replacement of golint.
 *   [staticcheck](https://staticcheck.io) — Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 *   [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.

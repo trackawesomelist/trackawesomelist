@@ -70,25 +70,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Bithoven IDE](https://bithoven-lang.github.io/bithoven/ide/) -  Web IDE for Bithoven, A High-Level, Imperative Language for Bitcoin Smart Contracts.
 
-#### [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
-
-##### Marks / Assembly
-
-*   [dimtion/guttermarks.nvim (⭐42)](https://github.com/dimtion/guttermarks.nvim) - Display marks in the buffer gutter.
-
-##### Colorscheme / Assembly
-
-*   ***`[TS]`*** - Has Tree-sitter highlighting.
-*   ***`[LSP]`*** - Has LSP Semantic Tokens support.
-*   ***`[L/D]`*** - Has both "light" and "dark" variants.
-*   ***`[Lua]`*** - Is written in Lua.
-*   ***`[Fnl]`*** - Is written in Fennel.
-
-##### Git / Quickfix
-
-*   [ajatdarojat45/commitmate.nvim (⭐2)](https://github.com/ajatdarojat45/commitmate.nvim) - An AI-assisted commit message generator following common commit conventions.
-
-#### [8. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
+#### [7. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
 ##### [Expeditionary Force](https://www.goodreads.com/series/185650-expeditionary-force) (2016-) *by [Craig Alanson](https://en.wikipedia.org/wiki/Craig_Alanson)* [4.38] / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
 
@@ -113,13 +95,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   Gateway
 *   Ground State
 
-#### [9. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+#### [8. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ##### Animations
 
 *   [ssgoi (⭐729)](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support.
 
-#### [10. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+#### [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ##### Contents / Personalization
 
@@ -133,6 +115,35 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Ghost Brower (⭐0)](https://github.com/SAHILDUDHAL21/Ghost-Browser) - Simple Web Browser that does not track any User by [Sahil Dudhal](https://github.com/SAHILDUDHAL21)
 *   [Battery Info (⭐0)](https://github.com/SAHILDUDHAL21/Battery-Info) - Battery Health Checker For Android by [Sahil Dudhal](https://github.com/SAHILDUDHAL21)
+
+#### [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+
+##### Programming Languages / [Other](#other-1)
+
+*   **bodyclose** :warning: — Checks whether HTTP response body is closed.
+*   [CodeDepends (⭐90)](https://github.com/duncantl/CodeDepends) — Static Code Analysis for R.
+
+#### [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+##### Plugin Manager
+
+*   [zuqini/zpack.nvim (⭐48)](https://github.com/zuqini/zpack.nvim) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
+
+##### Marks / Assembly
+
+*   [dimtion/guttermarks.nvim (⭐42)](https://github.com/dimtion/guttermarks.nvim) - Display marks in the buffer gutter.
+
+##### Colorscheme / Assembly
+
+*   ***`[TS]`*** - Has Tree-sitter highlighting.
+*   ***`[LSP]`*** - Has LSP Semantic Tokens support.
+*   ***`[L/D]`*** - Has both "light" and "dark" variants.
+*   ***`[Lua]`*** - Is written in Lua.
+*   ***`[Fnl]`*** - Is written in Fennel.
+
+##### Git / Quickfix
+
+*   [ajatdarojat45/commitmate.nvim (⭐2)](https://github.com/ajatdarojat45/commitmate.nvim) - An AI-assisted commit message generator following common commit conventions.
 
 ---
 
@@ -148,20 +159,20 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 6. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 54K 📝 12&#x2F;20 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
 7. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 417K 📝 11&#x2F;24 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
 8. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 381K 📝 11&#x2F;24 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
-9. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 68K 📝 12&#x2F;10 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-10. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 20K 📝 12&#x2F;23 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+9. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 20K 📝 12&#x2F;23 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+10. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 68K 📝 12&#x2F;10 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 11. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 71K 📝 12&#x2F;09 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
 12. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 271K 📝 11&#x2F;24 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 13. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 17K 📝 12&#x2F;22 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
 14. [Awesome Php](/content/ziadoz/awesome-php/README.md) - ([Source ⭐ 32K 📝 12&#x2F;15 ](https://github.com/ziadoz/awesome-php)) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 15. [Awesome Pentest](/content/enaqx/awesome-pentest/README.md) - ([Source ⭐ 25K 📝 12&#x2F;18 ](https://github.com/enaqx/awesome-pentest)) - A collection of awesome penetration testing resources, tools and other shiny things
-16. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 80K 📝 12&#x2F;06 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
-17. [Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md) - ([Source ⭐ 18K 📝 12&#x2F;20 ](https://github.com/sindresorhus/quick-look-plugins)) - List of useful Quick Look plugins for developers
-18. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 18K 📝 12&#x2F;19 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
-19. [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 46K 📝 12&#x2F;08 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-20. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 28K 📝 12&#x2F;13 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-21. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 24K 📝 12&#x2F;14 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
-22. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K 📝 12&#x2F;19 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+16. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K 📝 12&#x2F;23 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+17. [Awesome for Beginners](/content/MunGell/awesome-for-beginners/README.md) - ([Source ⭐ 80K 📝 12&#x2F;06 ](https://github.com/MunGell/awesome-for-beginners)) - A list of awesome beginners-friendly projects.
+18. [Quick Look Plugins](/content/sindresorhus/quick-look-plugins/README.md) - ([Source ⭐ 18K 📝 12&#x2F;20 ](https://github.com/sindresorhus/quick-look-plugins)) - List of useful Quick Look plugins for developers
+19. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 18K 📝 12&#x2F;19 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
+20. [Open Source Mac Os Apps](/content/serhii-londar/open-source-mac-os-apps/README.md) - ([Source ⭐ 46K 📝 12&#x2F;08 ](https://github.com/serhii-londar/open-source-mac-os-apps)) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
+21. [Awesome Datascience](/content/academic/awesome-datascience/README.md) - ([Source ⭐ 28K 📝 12&#x2F;13 ](https://github.com/academic/awesome-datascience)) - :memo: An awesome Data Science repository to learn and apply for real world problems.
+22. [Awesome Osint](/content/jivoi/awesome-osint/README.md) - ([Source ⭐ 24K 📝 12&#x2F;14 ](https://github.com/jivoi/awesome-osint)) - :scream: A curated list of amazingly awesome OSINT
 23. [Awesome Javascript](/content/sorrycc/awesome-javascript/README.md) - ([Source ⭐ 35K 📝 12&#x2F;08 ](https://github.com/sorrycc/awesome-javascript)) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 24. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 11K 📝 12&#x2F;18 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
 25. [Awesome Terraform](/content/shuaibiyy/awesome-terraform/README.md) - ([Source ⭐ 6.2K 📝 12&#x2F;22 ](https://github.com/shuaibiyy/awesome-tf)) - Curated list of resources on HashiCorp's Terraform and OpenTofu
@@ -313,7 +324,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;10&#x2F;01 ](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)) - machine learning and deep learning tutorials, articles and other resources 
 - [Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md) - ([Source ⭐ 2.1K, 📝 24&#x2F;12&#x2F;27 ](https://github.com/arbox/machine-learning-with-ruby)) - Curated list: Resources for machine learning in Ruby
 - [Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md) - ([Source ⭐ 967, 📝 22&#x2F;08&#x2F;27 ](https://github.com/arbox/nlp-with-ruby)) - Curated List: Practical Natural Language Processing done in Ruby
-- [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K, 📝 12&#x2F;19 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K, 📝 12&#x2F;23 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
 ### Content Management Systems
 

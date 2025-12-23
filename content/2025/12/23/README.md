@@ -1,12 +1,19 @@
 # Awesome List Updates on Dec 23, 2025
 
-5 awesome lists updated today.
+6 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+## [1. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   **bodyclose** :warning: — Checks whether HTTP response body is closed.
+*   [CodeDepends (⭐90)](https://github.com/duncantl/CodeDepends) — Static Code Analysis for R.
+
+## [2. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ### Contents / Personalization
 
@@ -21,13 +28,13 @@
 *   [Ghost Brower (⭐0)](https://github.com/SAHILDUDHAL21/Ghost-Browser) - Simple Web Browser that does not track any User by [Sahil Dudhal](https://github.com/SAHILDUDHAL21)
 *   [Battery Info (⭐0)](https://github.com/SAHILDUDHAL21/Battery-Info) - Battery Health Checker For Android by [Sahil Dudhal](https://github.com/SAHILDUDHAL21)
 
-## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
+## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/README.md)
 
 ### Animations
 
 *   [ssgoi (⭐729)](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support.
 
-## [3. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
+## [4. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
 ### [Expeditionary Force](https://www.goodreads.com/series/185650-expeditionary-force) (2016-) *by [Craig Alanson](https://en.wikipedia.org/wiki/Craig_Alanson)* [4.38] / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
 
@@ -52,7 +59,11 @@
 *   Gateway
 *   Ground State
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [5. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Plugin Manager
+
+*   [zuqini/zpack.nvim (⭐48)](https://github.com/zuqini/zpack.nvim) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 
 ### Marks / Assembly
 
@@ -66,7 +77,7 @@
 *   ***`[Lua]`*** - Is written in Lua.
 *   ***`[Fnl]`*** - Is written in Fennel.
 
-## [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+## [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ### Rust Libraries
 

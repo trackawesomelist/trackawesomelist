@@ -111,6 +111,7 @@ Collections of awesome neovim plugins.
 *   [alyxshang/nuwa.nvim (⭐7)](https://github.com/alyxshang/nuwa.nvim) - A light Neovim package manager.
 *   [piersolenski/plugin-addict.nvim (⭐11)](https://github.com/piersolenski/plugin-addict.nvim) - A stupidly simple way to quickly install plugins.
 *   [synapse.nvim (⭐4)](https://github.com/OriginCoderPulse/synapse.nvim) - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
+*   [zuqini/zpack.nvim (⭐48)](https://github.com/zuqini/zpack.nvim) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 
 <!--lint disable double-link -->
 

@@ -8,6 +8,10 @@ Collections of awesome neovim plugins.
 
 ## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
 
+### Plugin Manager
+
+*   [zuqini/zpack.nvim (⭐48)](https://github.com/zuqini/zpack.nvim) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
+
 ### Marks / Assembly
 
 *   [dimtion/guttermarks.nvim (⭐42)](https://github.com/dimtion/guttermarks.nvim) - Display marks in the buffer gutter.

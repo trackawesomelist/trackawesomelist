@@ -459,7 +459,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [aligncheck](https://gitlab.com/opennota/check) — Find inefficiently packed structs.
 
-*   [bodyclose (⭐321)](https://github.com/timakin/bodyclose) — Checks whether HTTP response body is closed.
+*   **bodyclose** :warning: — Checks whether HTTP response body is closed.
 
 *   [deadcode (⭐53)](https://github.com/tsenart/deadcode) — Finds unused code.
 
@@ -536,7 +536,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 
 *   [OSV-Scanner](https://osv.dev/) — Vulnerability scanner written in Go which uses the data provided by OSV.dev. Developed by Google to scan dependencies across multiple languages and package managers for known vulnerabilities. Supports container scanning, license scanning, and guided remediation. Works with lockfiles, SBOMs, and container images to identify security issues.
 
-*   [prealloc (⭐658)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
+*   [prealloc (⭐659)](https://github.com/alexkohler/prealloc) — Finds slice declarations that could potentially be preallocated.
 
 *   [Reviewdog (⭐8.9k)](https://github.com/haya14busa/reviewdog) — A tool for posting review comments from any linter in any code hosting service.
 
@@ -1001,7 +1001,7 @@ Also check out the sister project, [awesome-dynamic-analysis (⭐1.1k)](https://
 <a name="r" />
 <h2>R</h2>
 
-*   **CodeDepends** :warning: — Static Code Analysis for R.
+*   [CodeDepends (⭐90)](https://github.com/duncantl/CodeDepends) — Static Code Analysis for R.
 
 *   [cyclocomp (⭐48)](https://github.com/MangoTheCat/cyclocomp) — Quantifies the cyclomatic complexity of R functions / expressions.
 
