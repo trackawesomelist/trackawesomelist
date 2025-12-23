@@ -2,7 +2,7 @@
 
 Sci-Fi worth consuming
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 4.3K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 4.7K · 🏷️ Entertainment
 
 [ [Daily](/content/sindresorhus/awesome-scifi/README.md) / [Weekly](/content/sindresorhus/awesome-scifi/week/README.md) / Overview ]
 
@@ -14,7 +14,7 @@ Sci-Fi worth consuming
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*For fantasy books, see [awesome-fantasy (⭐1.3k)](https://github.com/RichardLitt/awesome-fantasy).*
+*For fantasy books, see [awesome-fantasy (⭐1.4k)](https://github.com/RichardLitt/awesome-fantasy).*
 
 ![](https://cloud.githubusercontent.com/assets/170270/7630100/242bda3a-fa33-11e4-881a-589cffa0c421.gif)
 
@@ -43,6 +43,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 *   [Movie Series](#movie-series)
 *   [TV Series](#tv-series)
 *   [Comic Books](#comic-books)
+*   [Audiobooks](#audiobooks)
 *   [Links](#links)
 
 ## Novels
@@ -365,7 +366,7 @@ This book has a banger name. The story of a conman wizard who's not really a wiz
 
 #### [Red Dwarf](https://www.goodreads.com/book/show/70956.Red_Dwarf_Omnibus) (1989) *by [Grant Naylor](https://en.wikipedia.org/wiki/Grant_Naylor)* \[4.3]
 
-Actually four books by two authors. It was made into a TV series but the books should be consumed instead. Very high quality over the top deep space trouble with anti-hero Lister and his crew. - [@montao](https://github.com/montao)
+Actually four books by two authors. Based on the TV series of the same name, but the books should be consumed instead. Very high quality over the top deep space trouble with anti-hero Lister and his crew. - [@montao](https://github.com/montao)
 
 <details>
   <summary>Description</summary>
@@ -1661,6 +1662,40 @@ So, you’re able to share in Ender’s cleverness, too. That’s what makes thi
 
 </details>
 
+#### [Expeditionary Force](https://www.goodreads.com/series/185650-expeditionary-force) (2016-) *by [Craig Alanson](https://en.wikipedia.org/wiki/Craig_Alanson)* \[4.38]
+
+The Expeditionary Force is a sprawling science-fiction saga that blends military sci-fi, space opera, and irreverent humor into a fast-paced, character-driven adventure. Centered on U.S. Army Sergeant Joe Bishop and his unlikely partnership with an all-powerful, arrogant artificial intelligence nicknamed Skippy the Magnificent, the series takes readers from a sudden alien invasion of Earth into the depths of interstellar politics and warfare. While it is corny at times, and there's definitely some deus ex machina going on, the 19 Books, short novel *Trouble on Paradise*, the Audio Only *Homefront* and the two books in the *Mavericks* Series create an absolutely gripping story for which I drop everything to listen to the next installment when it releases. The Audio book series spoken by R.C. Bray is just masterfully done as well. [@Anuril](https://github.com/Anuril)
+
+<details>
+  <summary>Description</summary>
+
+> At the outset in Columbus Day, humanity is blindsided when the Ruhar, a fur-covered alien species, devastate Earth in a strike that pushes civilization back toward pre-industrial levels. In the chaos, Bishop is swept up into the fledgling United Nations Expeditionary Force, a human contingent drafted into an intergalactic conflict between the Ruhar and the reptilian Kristang. Against all odds—and armed with little more than grit, military training, and moments of baffling luck—Bishop and a small band of soldiers ally with the Kristang, discovering that humans are hopelessly outclassed in firepower and technology. [Source](https://www.terranceacrow.com/posts/expeditionary-force-book-review/)
+
+</details>
+
+Books:
+
+*   Columbus Day
+*   SpecOps
+*   Paradise
+*   (Trouble on Paradise)
+*   Black Ops
+*   Zero Hour
+*   Mavericks
+*   Renegades
+*   (Homefront) (Audio only)
+*   Armageddon
+*   Valkyrie
+*   Critical Mass
+*   Brushfire
+*   Breakaway
+*   Fallout
+*   Failure Mode
+*   Aftermath
+*   Task Force Hammer
+*   Gateway
+*   Ground State
+
 #### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines) (2013-) *by [Marko Kloos](https://www.markokloos.com/)* \[4.05]
 
 A very entertaining military drama that has continued to grow on me, book by book. [@AlexKeyes](https://github.com/alex-keyes)
@@ -1780,7 +1815,7 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 ### Fantasy
 
-*Fantasy books which contain elements of science fiction. For pure fantasy, see [this list (⭐1.3k)](https://github.com/RichardLitt/awesome-fantasy).*
+*Fantasy books which contain elements of science fiction. For pure fantasy, see [this list (⭐1.4k)](https://github.com/RichardLitt/awesome-fantasy).*
 
 #### [The Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun) (1993, 1994, 1996) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* \[4.0]
 
@@ -3619,6 +3654,16 @@ Y: The Last Man is graphic novel series unlike any other I have read. The "last 
 
 </details>
 
+## Audiobooks
+
+Some books are also exceptional as audiobooks. Some are not. Here is a space for the former.
+
+#### [The Martian](https://www.audible.com/pd/The-Martian-Audiobook/B082BHJMFF) *by Andy Weir*, narrated by *R.C. Bray*
+
+I loved this audiobook. I am not sure if this narrator's edition is still publicly available, however. - [@RichardLitt](https://github.com/RichardLitt)
+
+See the book above for the description.
+
 ## Links
 
 *   [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319) - Hacker News
@@ -3629,5 +3674,5 @@ Y: The Last Man is graphic novel series unlike any other I have read. The "last 
 
 ## Credit
 
-Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids (⭐4.3k)](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
+Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids (⭐4.7k)](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
 

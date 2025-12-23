@@ -2,9 +2,34 @@
 
 Sci-Fi worth consuming
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 4.3K · 🏷️ Entertainment
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/sindresorhus/awesome-scifi/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 sindresorhus/awesome-scifi](https://github.com/sindresorhus/awesome-scifi) · ⭐ 4.7K · 🏷️ Entertainment
 
 [ [Daily](/content/sindresorhus/awesome-scifi/README.md) / Weekly / [Overview](/content/sindresorhus/awesome-scifi/readme/README.md) ]
+
+## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
+
+### [Expeditionary Force](https://www.goodreads.com/series/185650-expeditionary-force) (2016-) *by [Craig Alanson](https://en.wikipedia.org/wiki/Craig_Alanson)* [4.38] / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
+
+*   Columbus Day
+*   SpecOps
+*   Paradise
+*   (Trouble on Paradise)
+*   Black Ops
+*   Zero Hour
+*   Mavericks
+*   Renegades
+*   (Homefront) (Audio only)
+*   Armageddon
+*   Valkyrie
+*   Critical Mass
+*   Brushfire
+*   Breakaway
+*   Fallout
+*   Failure Mode
+*   Aftermath
+*   Task Force Hammer
+*   Gateway
+*   Ground State
 
 ## [May 22 - May 28, 2023](/content/2023/21/README.md)
 

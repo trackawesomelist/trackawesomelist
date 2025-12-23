@@ -1,30 +1,98 @@
 # Awesome List Updates on Dec 29 - Jan 04, 2025
 
-6 awesome lists updated this week.
+10 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [1. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+
+### Contents / Personalization
+
+*   [Libre PaperWall (⭐0)](https://github.com/SAHILDUDHAL21/libre-PaperWall) - Free WallPaper App with Unlimited Downloads created by [Sahil Dudhal](https://github.com/SAHILDUDHAL21).
+
+### Contents / Social Network
+
+*   [Unoffical LeetCode Client (⭐0)](https://github.com/SAHILDUDHAL21/LeetCode-Unofficial-Mobile-App) - Minimalist LeetCode Mobile Client by [Sahil Dudhal](https://github.com/SAHILDUDHAL21).
+
+### Contents / Tools
+
+*   [Ghost Brower (⭐0)](https://github.com/SAHILDUDHAL21/Ghost-Browser) - Simple Web Browser that does not track any User by [Sahil Dudhal](https://github.com/SAHILDUDHAL21)
+*   [Battery Info (⭐0)](https://github.com/SAHILDUDHAL21/Battery-Info) - Battery Health Checker For Android by [Sahil Dudhal](https://github.com/SAHILDUDHAL21)
+
+## [2. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
+
+### Animations
+
+*   [ssgoi (⭐729)](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support.
+
+## [3. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
+
+### [Expeditionary Force](https://www.goodreads.com/series/185650-expeditionary-force) (2016-) *by [Craig Alanson](https://en.wikipedia.org/wiki/Craig_Alanson)* [4.38] / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
+
+*   Columbus Day
+*   SpecOps
+*   Paradise
+*   (Trouble on Paradise)
+*   Black Ops
+*   Zero Hour
+*   Mavericks
+*   Renegades
+*   (Homefront) (Audio only)
+*   Armageddon
+*   Valkyrie
+*   Critical Mass
+*   Brushfire
+*   Breakaway
+*   Fallout
+*   Failure Mode
+*   Aftermath
+*   Task Force Hammer
+*   Gateway
+*   Ground State
+
+## [4. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+
+### Rust Libraries
+
+*   [Bithoven (⭐22)](https://github.com/ChrisCho-H/bithoven) -  A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.
+
+### Playgrounds
+
+*   [Bithoven IDE](https://bithoven-lang.github.io/bithoven/ide/) -  Web IDE for Bithoven, A High-Level, Imperative Language for Bitcoin Smart Contracts.
+
+## [5. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / AI & LLM Testing
 
 *   [promptfoo (⭐9.4k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+## [6. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Authentication, Authorization, and User Management
 
 *   [360username](https://360username.com/) - A free tool to search a username across 90+ social platforms to find matching profiles.
 
-## [3. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+
+### Marks / Assembly
+
+*   [dimtion/guttermarks.nvim (⭐42)](https://github.com/dimtion/guttermarks.nvim) - Display marks in the buffer gutter.
+
+### Colorscheme / Assembly
+
+*   ***`[TS]`*** - Has Tree-sitter highlighting.
+*   ***`[LSP]`*** - Has LSP Semantic Tokens support.
+*   ***`[L/D]`*** - Has both "light" and "dark" variants.
+*   ***`[Lua]`*** - Is written in Lua.
+*   ***`[Fnl]`*** - Is written in Fennel.
 
 ### Git / Quickfix
 
 *   [ajatdarojat45/commitmate.nvim (⭐2)](https://github.com/ajatdarojat45/commitmate.nvim) - An AI-assisted commit message generator following common commit conventions.
 
-## [4. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [8. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Official Resources
 
@@ -39,13 +107,13 @@
 
 *   [terraform-provider-scp (⭐23)](https://github.com/splunk/terraform-provider-scp) - Provider for Splunk Cloud Platform.
 
-## [5. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [9. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
 *   [All-in-One Advanced BPM Tool](https://tapbpmhub.com/) – Instantly measure song speed by tapping or using the spacebar. Features MIDI input, optional sound clicks, and real-time BPM visualization. Essential for producers, DJs, rhythm gamers.
 
-## [6. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [10. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
