@@ -6,14 +6,28 @@
 
 
 
-## [1. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [1. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+
+### Components & Libraries / UI Utilities
+
+*   [ssgoi (⭐729)](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
+
+### Components & Libraries / UI Components
+
+*   [Toastflow (⭐102)](https://github.com/adrianjanocko/toastflow) - 💡 Headless toast (notification) engine + Vue 3 renderer (TS-first, CSS-first theming, highly customizable).
+
+### Components & Libraries / Dev Tools
+
+*   [PocketMocker (⭐449)](https://github.com/tianchangNorth/pocket-mocker) - Visual, browser-based HTTP mocking tool for front-end apps. Intercepts fetch/XHR, supports SmartMock rules, delay/error simulation and works great when developing Vue apps.
+
+## [2. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   **bodyclose** :warning: — Checks whether HTTP response body is closed.
 *   [CodeDepends (⭐90)](https://github.com/duncantl/CodeDepends) — Static Code Analysis for R.
 
-## [2. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [3. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Personalization
 
@@ -27,12 +41,6 @@
 
 *   [Ghost Brower (⭐0)](https://github.com/SAHILDUDHAL21/Ghost-Browser) - Simple Web Browser that does not track any User by [Sahil Dudhal](https://github.com/SAHILDUDHAL21)
 *   [Battery Info (⭐0)](https://github.com/SAHILDUDHAL21/Battery-Info) - Battery Health Checker For Android by [Sahil Dudhal](https://github.com/SAHILDUDHAL21)
-
-## [3. Awesome Svelte](/content/TheComputerM/awesome-svelte/week/README.md)
-
-### Animations
-
-*   [ssgoi (⭐729)](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support.
 
 ## [4. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
