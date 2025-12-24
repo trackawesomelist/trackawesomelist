@@ -48,19 +48,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [terraform-provider-scp (⭐23)](https://github.com/splunk/terraform-provider-scp) - Provider for Splunk Cloud Platform.
 
-#### [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
-
-##### Authentication, Authorization, and User Management
-
-*   [360username](https://360username.com/) - A free tool to search a username across 90+ social platforms to find matching profiles.
-
-#### [5. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+#### [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ##### Software / AI & LLM Testing
 
 *   [promptfoo (⭐9.4k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 
-#### [6. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
+#### [5. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/README.md)
 
 ##### Rust Libraries
 
@@ -70,7 +64,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Bithoven IDE](https://bithoven-lang.github.io/bithoven/ide/) -  Web IDE for Bithoven, A High-Level, Imperative Language for Bitcoin Smart Contracts.
 
-#### [7. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
+#### [6. Awesome Scifi](/content/sindresorhus/awesome-scifi/README.md)
 
 ##### [Expeditionary Force](https://www.goodreads.com/series/185650-expeditionary-force) (2016-) *by [Craig Alanson](https://en.wikipedia.org/wiki/Craig_Alanson)* [4.38] / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
 
@@ -95,7 +89,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   Gateway
 *   Ground State
 
-#### [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+#### [7. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ##### Components & Libraries / UI Utilities
 
@@ -109,7 +103,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [PocketMocker (⭐449)](https://github.com/tianchangNorth/pocket-mocker) - Visual, browser-based HTTP mocking tool for front-end apps. Intercepts fetch/XHR, supports SmartMock rules, delay/error simulation and works great when developing Vue apps.
 
-#### [9. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
+#### [8. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/README.md)
 
 ##### Contents / Personalization
 
@@ -124,14 +118,14 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [Ghost Brower (⭐0)](https://github.com/SAHILDUDHAL21/Ghost-Browser) - Simple Web Browser that does not track any User by [Sahil Dudhal](https://github.com/SAHILDUDHAL21)
 *   [Battery Info (⭐0)](https://github.com/SAHILDUDHAL21/Battery-Info) - Battery Health Checker For Android by [Sahil Dudhal](https://github.com/SAHILDUDHAL21)
 
-#### [10. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+#### [9. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
 
 ##### Programming Languages / [Other](#other-1)
 
 *   **bodyclose** :warning: — Checks whether HTTP response body is closed.
 *   [CodeDepends (⭐90)](https://github.com/duncantl/CodeDepends) — Static Code Analysis for R.
 
-#### [11. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [10. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Plugin Manager
 
@@ -152,6 +146,18 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Git / Quickfix
 
 *   [ajatdarojat45/commitmate.nvim (⭐2)](https://github.com/ajatdarojat45/commitmate.nvim) - An AI-assisted commit message generator following common commit conventions.
+
+#### [11. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+
+##### Authentication, Authorization, and User Management
+
+*   [360username](https://360username.com/) - A free tool to search a username across 90+ social platforms to find matching profiles.
+
+#### [12. Awesome Go](/content/abordage/awesome-go/README.md)
+
+##### Stream Processing / Other Software
+
+*   [fulminate-io/machine (⭐164)](https://github.com/fulminate-io/machine) — Machine is a workflow/pipeline library for processing data ☆`164`
 
 ---
 
@@ -881,7 +887,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Fp Js](/content/stoeffel/awesome-fp-js/README.md) - ([Source ⭐ 6K, 📝 11&#x2F;24 ](https://github.com/stoeffel/awesome-fp-js)) - :sunglasses: A curated list of awesome functional programming stuff in js
 - [Awesome Frege](/content/sfischer13/awesome-frege/README.md) - ([Source ⭐ 27, 📝 19&#x2F;08&#x2F;14 ](https://github.com/sfischer13/awesome-frege)) - :star: Useful resources for the Frege programming language
 - [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 158K, 📝 12&#x2F;09 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-- [Awesome Go](/content/abordage/awesome-go/README.md) - ([Source ⭐ 2, 📝 12&#x2F;15 ](https://github.com/abordage/awesome-go)) - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
+- [Awesome Go](/content/abordage/awesome-go/README.md) - ([Source ⭐ 2, 📝 12&#x2F;24 ](https://github.com/abordage/awesome-go)) - Structured collection of Go frameworks, libraries, tools, and resources. Automatically maintained and up-to-date with metadata, filtering, and comprehensive categorization.
 - [Awesome Groovy](/content/kdabir/awesome-groovy/README.md) - ([Source ⭐ 720, 📝 23&#x2F;07&#x2F;11 ](https://github.com/kdabir/awesome-groovy)) - A curated list of awesome groovy libraries, frameworks and resources
 - [Awesome Haskell](/content/krispo/awesome-haskell/README.md) - ([Source ⭐ 2.8K, 📝 22&#x2F;12&#x2F;16 ](https://github.com/krispo/awesome-haskell)) - A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
 - [Awesome Idris](/content/joaomilho/awesome-idris/README.md) - ([Source ⭐ 353, 📝 20&#x2F;01&#x2F;24 ](https://github.com/joaomilho/awesome-idris)) - 𝛌 Awesome Idris resources
