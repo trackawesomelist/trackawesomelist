@@ -28,6 +28,10 @@ Collections of awesome neovim plugins.
 
 *   [ajatdarojat45/commitmate.nvim (⭐2)](https://github.com/ajatdarojat45/commitmate.nvim) - An AI-assisted commit message generator following common commit conventions.
 
+### Split and Window / Indent
+
+*   [wsdjeg/bufdel.nvim (⭐4)](https://github.com/wsdjeg/bufdel.nvim) - Delete buffers without changing windows layout.
+
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 
 ### AI / Diagnostics

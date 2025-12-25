@@ -1700,6 +1700,7 @@ then it is not supported:
 *   [MisanthropicBit/winmove.nvim (⭐14)](https://github.com/MisanthropicBit/winmove.nvim) - Easily move, swap, and resize windows.
 *   [ycdzj/win-mover.nvim (⭐11)](https://github.com/ycdzj/win-mover.nvim) - Window mover that avoids moving side windows.
 *   [mkajsjo/windowcolumns.nvim (⭐7)](https://github.com/mkajsjo/windowcolumns.nvim) - Column-first window management.
+*   [wsdjeg/bufdel.nvim (⭐4)](https://github.com/wsdjeg/bufdel.nvim) - Delete buffers without changing windows layout.
 
 ### Tmux
 

@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 25, 2025](/content/2025/12/25/README.md)
+
+### Split and Window / Indent
+
+*   [wsdjeg/bufdel.nvim (⭐4)](https://github.com/wsdjeg/bufdel.nvim) - Delete buffers without changing windows layout.
+
 ## [Dec 23, 2025](/content/2025/12/23/README.md)
 
 ### Plugin Manager
