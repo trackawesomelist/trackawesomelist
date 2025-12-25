@@ -68,6 +68,7 @@ Inspired by the [awesome (⭐421k)](https://github.com/sindresorhus/awesome) lis
     *   [Weather](#weather)
     *   [Browser Replacement](#browser-replacement)
     *   [Internet Speedtest](#internet-speedtest)
+    *   [Science](#science)
 *   [Command Line Learning](#command-line-learning)
 *   [Data Manipulation](#data-manipulation)
     *   [Processors](#processors)
@@ -289,6 +290,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [gdb-dashboard (⭐12k)](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 *   [loadtest (⭐2.6k)](https://github.com/alexfernandez/loadtest) - Run load tests.
 *   [Step CI (⭐1.8k)](https://github.com/stepci/stepci) - API testing and QA framework.
+*   [bats-core (⭐5.7k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
 
 ## Productivity
 
@@ -482,6 +484,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [speed-test (⭐3.9k)](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 *   [speedtest-cli (⭐14k)](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 *   [bandwhich (⭐11k)](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+
+### Science
+
+*   [periodic-table-cli (⭐259)](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
 
 ## Command Line Learning
 
@@ -732,7 +738,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [terminals-are-sexy (⭐13k)](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 *   [awesome-zsh-plugins (⭐17k)](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.
 *   [awesome-nodejs clis (⭐64k)](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) – Node.js modules and resources.
-*   [x-cmd (⭐3.7k)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
+*   [x-cmd (⭐3.8k)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
 
 ## License
 

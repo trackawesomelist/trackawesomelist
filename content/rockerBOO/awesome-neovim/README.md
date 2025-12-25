@@ -12,6 +12,10 @@ Collections of awesome neovim plugins.
 
 *   [wsdjeg/bufdel.nvim (⭐4)](https://github.com/wsdjeg/bufdel.nvim) - Delete buffers without changing windows layout.
 
+### Workflow / Competitive Programming
+
+*   [letieu/jira.nvim (⭐107)](https://github.com/letieu/jira.nvim) - Manage Jira tasks with a beautiful UI.
+
 ## [Dec 23, 2025](/content/2025/12/23/README.md)
 
 ### Plugin Manager

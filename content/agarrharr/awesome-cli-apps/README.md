@@ -6,6 +6,16 @@
 
 [ Daily / [Weekly](/content/agarrharr/awesome-cli-apps/week/README.md) / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Dec 25, 2025](/content/2025/12/25/README.md)
+
+### Development / Testing
+
+*   [bats-core (⭐5.7k)](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+
+### Utilities / Science
+
+*   [periodic-table-cli (⭐259)](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
+
 ## [Dec 19, 2025](/content/2025/12/19/README.md)
 
 ### Productivity / Testing
@@ -108,7 +118,7 @@
 
 ### Other Resources / Emoji
 
-*   [x-cmd (⭐3.7k)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
+*   [x-cmd (⭐3.8k)](https://github.com/x-cmd/x-cmd) - Ecosystem of cli tools, featuring a wide array of improve core utils, AI access and more.
 
 ## [Sep 24, 2025](/content/2025/09/24/README.md)
 
@@ -320,7 +330,7 @@
 
 *   [clevercli (⭐159)](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
 
-### Command Line Learning / Internet Speedtest
+### Command Line Learning / Science
 
 *   [yai (⭐849)](https://github.com/ekkinox/yai) - AI powered terminal assistant.
 
@@ -615,7 +625,7 @@
 
 *   [tiptop (⭐2k)](https://github.com/nschloe/tiptop) - System monitor.
 
-### Command Line Learning / Internet Speedtest
+### Command Line Learning / Science
 
 *   [explainshell](https://www.explainshell.com/) - Type a snippet to see the help text for each argument.
 
@@ -719,7 +729,7 @@
 *   [Terminal velocity](https://vhp.github.io/terminal_velocity/) - A fast note-taking app.
 *   [eureka (⭐854)](https://github.com/simeg/eureka) - Input and store your ideas.
 
-### Command Line Learning / Internet Speedtest
+### Command Line Learning / Science
 
 *   [cmdchallenge](https://cmdchallenge.com) - Presents small shell challenge with user submitted solutions.
 *   [howdoi (⭐11k)](https://github.com/gleitz/howdoi) - Instant coding answers.
@@ -812,7 +822,7 @@
 *   [lazydocker (⭐48k)](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 *   [docker-pushrm (⭐149)](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 
-### Data Manipulation / Internet Speedtest
+### Data Manipulation / Science
 
 *   [visidata (⭐8.7k)](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
 
@@ -983,7 +993,7 @@
 
 ## [Nov 04, 2019](/content/2019/11/04/README.md)
 
-### Command Line Learning / Internet Speedtest
+### Command Line Learning / Science
 
 *   [navi (⭐17k)](https://github.com/denisidoro/navi) - Interactive cheatsheet tool.
 
@@ -1391,7 +1401,7 @@
 *   [SAWS (⭐5.3k)](https://github.com/donnemartin/saws) - Supercharged AWS CLI.
 *   [s3cmd (⭐4.8k)](https://github.com/s3tools/s3cmd) - Fully-Featured S3 client.
 
-### Command Line Learning / Internet Speedtest
+### Command Line Learning / Science
 
 *   [The Fuck (⭐95k)](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 *   [tldr (⭐60k)](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
