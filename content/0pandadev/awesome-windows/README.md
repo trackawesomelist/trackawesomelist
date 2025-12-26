@@ -12,6 +12,26 @@ An awesome & curated list of tools and apps for Windows 10/11.
 
 *   [FlexASIO](https://flexasio.com/) - A universal ASIO driver that delivers low-latency, high-quality sound. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/dechamps/FlexASIO)
 
+### Databases Clients
+
+*   [pgAdmin](https://www.pgadmin.org/) - Feature-rich, open-source administration and development platform for PostgreSQL. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/pgadmin-org/pgadmin4)
+
+### IDEs
+
+*   [Rust Rover](https://www.jetbrains.com/rust/) - A powerful IDE for Rust development.
+
+### Networking
+
+*   [Nmap](https://nmap.org/) - A free, open-source network scanner used for discovering hosts, services, and vulnerabilities on computer networks through advanced port scanning and OS detection techniques. [![Open-Source Software](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/opensource.svg)](https://github.com/nmap/nmap)
+
+### Terminal
+
+*   [Termius](https://termius.com) - Modern SSH Client built for productivity and collaboration.
+
+### Virtualization
+
+*   [VMWare Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - The leading local virtualization platform for building, testing and demoing software using virtual machines. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
+
 ## [Dec 02, 2025](/content/2025/12/02/README.md)
 
 ### Productivity
