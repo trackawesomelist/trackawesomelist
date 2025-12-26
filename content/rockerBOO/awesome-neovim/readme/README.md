@@ -989,6 +989,7 @@ then it is not supported:
 *   [happyeric77/joplin.nvim (⭐5)](https://github.com/happyeric77/joplin.nvim) - Joplin notes utilities: tree browser, search, open, and Telescope integration.
 *   [ymich9963/mdnotes.nvim (⭐3)](https://github.com/ymich9963/mdnotes.nvim) - Simple and improved Markdown note taking.
 *   [nbeversl/urtext\_neovim (⭐1)](https://github.com/nbeversl/urtext_neovim) - An implementation of Urtext.
+*   [losch/ztl](https://codeberg.org/losch/ztl) - A fast static note generator in a single binary with everything built-in.
 
 <!--lint disable double-link -->
 
@@ -1750,6 +1751,12 @@ then it is not supported:
 <!--lint enable double-link -->
 
 ## Workflow
+
+<!-- lint disable double-link -->
+
+*   [kuri-sun/comment-graph.nvim (⭐2)](https://github.com/kuri-sun/comment-graph.nvim) - Integration with [comment-graph (⭐2)](https://github.com/kuri-sun/comment-graph) that makes your codebase traceable at a glance.
+
+<!-- lint enable double-link -->
 
 *   [letieu/jira.nvim (⭐107)](https://github.com/letieu/jira.nvim) - Manage Jira tasks with a beautiful UI.
 *   [m4xshen/hardtime.nvim (⭐3.6k)](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.

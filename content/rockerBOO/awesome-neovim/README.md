@@ -6,6 +6,16 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 26, 2025](/content/2025/12/26/README.md)
+
+### Note Taking / Cursorline
+
+*   [losch/ztl](https://codeberg.org/losch/ztl) - A fast static note generator in a single binary with everything built-in.
+
+### Workflow / Competitive Programming
+
+*   [kuri-sun/comment-graph.nvim (⭐2)](https://github.com/kuri-sun/comment-graph.nvim) - Integration with [comment-graph (⭐2)](https://github.com/kuri-sun/comment-graph) that makes your codebase traceable at a glance.
+
 ## [Dec 25, 2025](/content/2025/12/25/README.md)
 
 ### Split and Window / Indent

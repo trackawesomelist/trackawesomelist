@@ -4,13 +4,13 @@
 
 
 - [Top Repos](top/README.md)
-  - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome Mac](/content/content/jaywcjlove/awesome-mac/README.md)
+  - [Free for Dev](/content/content/ripienaar/free-for-dev/README.md)
   - [Awesome Vue](/content/content/vuejs/awesome-vue/README.md)
+  - [Awesome Rust](/content/content/rust-unofficial/awesome-rust/README.md)
   - [Awesome Selfhosted](/content/content/awesome-selfhosted/awesome-selfhosted/README.md)
   - [Awesome Chatgpt Prompts](/content/content/f/awesome-chatgpt-prompts/README.md)
   - [Awesome Go](/content/content/avelino/awesome-go/README.md)
-  - [Awesome Rust](/content/content/rust-unofficial/awesome-rust/README.md)
   - [Awesome Neovim](/content/content/rockerBOO/awesome-neovim/README.md)
   - [Awesome List](/content/content/sindresorhus/awesome/README.md)
   - [Awesome Cli Apps](/content/content/agarrharr/awesome-cli-apps/README.md)
@@ -2115,6 +2115,7 @@
 - [Days](daily/README.md)
   - [2025](2025/month/README.md)
     - [12](2025/12/day/README.md)
+      - [Dec 26, 2025](2025/12/26/README.md)
       - [Dec 25, 2025](2025/12/25/README.md)
       - [Dec 24, 2025](2025/12/24/README.md)
       - [Dec 23, 2025](2025/12/23/README.md)
