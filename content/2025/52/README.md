@@ -1,12 +1,45 @@
 # Awesome List Updates on Dec 29 - Jan 04, 2025
 
-21 awesome lists updated this week.
+25 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
+## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+
+### Domain Specific Language / Declarative DSL Applications
+
+*   [VMC: A Grammar for Visualizing Statistical Model Checks](https://ieeexplore.ieee.org/abstract/document/10700937) - ***IEEE Transactions on Visualization and Computer Graphics***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=884768102185861577)]. Visualizations play a critical role in validating and improving statistical models. However, the design space of model check visualizations is not well understood, making it difficult for authors to explore and specify effective graphical model checks. VMC defines a model check visualization using four components: (1) samples of distributions of checkable quantities generated from the model, including predictive distributions for new data and distributions of model parameters; (2) transformations on observed data to facilitate comparison; (3) visual representations of distributions; and (4) layouts to facilitate comparing model samples and observed data. This work contributes an implementation of VMC as an R package. The authors validate VMC by reproducing a set of canonical model check examples, and show how using VMC to generate model checks reduces the edit distance between visualizations relative to existing visualization toolkits. The findings of an interview study with three expert modelers who used VMC highlight challenges and opportunities for encouraging exploration of correct, effective model check visualizations.
+
+## [2. Awesome D](/content/dlang-community/awesome-d/week/README.md)
+
+### Testing Frameworks
+
+*   [fluent-asserts (⭐46)](https://github.com/gedaiu/fluent-asserts) - Fluent assertion framework with expressive syntax and detailed error messages.
+
+## [3. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/week/README.md)
+
+### Software / Health and Fitness
+
+*   [FitTrackee](https://docs.fittrackee.org/) - Simple workout/activity tracker. ([Source Code (⭐1k)](https://github.com/SamR1/FitTrackee)) `AGPL-3.0` `Python/Docker`
+
+### Software / Miscellaneous
+
+*   [Movary (⭐659)](https://github.com/leepeuker/movary) `⚠` - Web app to track and rate your watched movies. ([Demo (⭐659)](https://github.com/leepeuker/movary?tab=readme-ov-file#demo)) `MIT` `Docker/PHP`
+*   [Wishlist (⭐415)](https://github.com/cmintey/wishlist) - Wishlist application that you can share with your friends and family. `MIT` `Docker/K8S`
+
+### Software / Money, Budgeting & Management
+
+*   [monetr](https://monetr.app/) - Budgeting application focused on planning for recurring expenses. ([Source Code (⭐505)](https://github.com/monetr/monetr)) `FSL-1.1-MIT` `Docker/K8S`
+
+## [4. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+
+### Libraries / Chrome Extensions
+
+*   :octocat: [Corgi (⭐198)](https://github.com/cardog-ai/corgi) - TypeScript VIN decoder with optimized SQLite database. Fully offline, <1ms decodes, complete NHTSA dataset in 21MB.
+
+## [5. Awesome Zig](/content/zigcc/awesome-zig/week/README.md)
 
 ### Tools / Text Editors
 
@@ -14,8 +47,17 @@
 *   [ziglang/vscode-zig](https://codeberg.org/ziglang/vscode-zig) : Zig language support for VSCode.
 *   [ziglang/zig.vim](https://codeberg.org/ziglang/zig.vim) : Vim configuration for Zig.
 *   [ziglang/zig-mode](https://codeberg.org/ziglang/zig-mode) : Zig mode for Emacs.
+*   [zed-extensions/zig (⭐50)](https://github.com/zed-extensions/zig) : Zig extension for Zed editor.
 
-## [2. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+### Logging Processing / Linker
+
+*   [muhammad-fiaz/logly.zig (⭐31)](https://github.com/muhammad-fiaz/logly.zig) : A modern, production-grade, high-performance structured logging library for Zig, built for speed and scalability.
+
+### Parser Library / Linker
+
+*   [tree-sitter/zig-tree-sitter (⭐73)](https://github.com/tree-sitter/zig-tree-sitter) : Zig bindings to the [Tree-sitter](https://tree-sitter.github.io/zig-tree-sitter/) parsing library.
+
+## [6. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### General Libraries
 
@@ -64,13 +106,13 @@
 
 *   [Better Translation Manager (⭐35)](https://github.com/andersmelander/better-translation-manager). `[Delphi]` Translation Manager.
 
-## [3. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
+## [7. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
 ### Credits / Shell Utilities
 
 *   [jaywcjlove/awesome-mac (⭐97k)](https://github.com/jaywcjlove/awesome-mac)
 
-## [4. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
+## [8. Awesome Windows](/content/0pandadev/awesome-windows/week/README.md)
 
 ### Audio
 
@@ -96,7 +138,7 @@
 
 *   [VMWare Workstation Pro](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) - The leading local virtualization platform for building, testing and demoing software using virtual machines. ![star](https://github.com/0PandaDEV/awesome-windows/raw/main/assets/star.svg)
 
-## [5. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [9. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
@@ -111,19 +153,19 @@
 
 *   [fork (⭐72)](https://github.com/immortal/fork) - Library for creating a new process detached from the controlling terminal (daemon)
 
-## [6. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
+## [10. Awesome Mac](/content/jaywcjlove/awesome-mac/week/README.md)
 
 ### Audio and Video Tools / File Sharing
 
 *   [Sangeet](https://github.com/YashvardhanATRgithub/Sangeet) - A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
 
-## [7. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
+## [11. Collective Ai Tools](/content/Hyraze/collective-ai-tools/week/README.md)
 
 ### Code Assistant
 
 *   [ReviewCerberus (⭐6)](https://github.com/Kirill89/reviewcerberus) - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis. `#free`
 
-## [8. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [12. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Development / Testing
 
@@ -133,7 +175,7 @@
 
 *   [periodic-table-cli (⭐259)](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
 
-## [9. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
+## [13. Awesome Postgres](/content/dhamaniasad/awesome-postgres/week/README.md)
 
 ### Contents / GUI
 
@@ -143,13 +185,13 @@
 
 *   [Atlas4D (⭐4)](https://github.com/crisbez/atlas4d-base) - Open-source 4D spatiotemporal platform combining PostGIS, TimescaleDB, pgvector, and H3 for unified geospatial and time-series intelligence.
 
-## [10. Awesome Go](/content/abordage/awesome-go/week/README.md)
+## [14. Awesome Go](/content/abordage/awesome-go/week/README.md)
 
 ### Concurrency / Stream Processing
 
 *   [fulminate-io/machine (⭐164)](https://github.com/fulminate-io/machine) — Machine is a workflow/pipeline library for processing data ☆`164`
 
-## [11. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [15. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Utilities
 
@@ -163,7 +205,7 @@
 
 *   [PocketMocker (⭐449)](https://github.com/tianchangNorth/pocket-mocker) - Visual, browser-based HTTP mocking tool for front-end apps. Intercepts fetch/XHR, supports SmartMock rules, delay/error simulation and works great when developing Vue apps.
 
-## [12. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [16. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
@@ -174,7 +216,7 @@
 
 *   [Code Pathfinder](https://codepathfinder.dev) — An open-source security suite aiming to combine structural code analysis with  AI-powered vulnerability detection. Built for advanced structural search, derive  insights, find vulnerabilities in code.
 
-## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
+## [17. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Personalization
 
@@ -189,7 +231,7 @@
 *   [Ghost Brower (⭐0)](https://github.com/SAHILDUDHAL21/Ghost-Browser) - Simple Web Browser that does not track any User by [Sahil Dudhal](https://github.com/SAHILDUDHAL21)
 *   [Battery Info (⭐0)](https://github.com/SAHILDUDHAL21/Battery-Info) - Battery Health Checker For Android by [Sahil Dudhal](https://github.com/SAHILDUDHAL21)
 
-## [14. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
+## [18. Awesome Scifi](/content/sindresorhus/awesome-scifi/week/README.md)
 
 ### [Expeditionary Force](https://www.goodreads.com/series/185650-expeditionary-force) (2016-) *by [Craig Alanson](https://en.wikipedia.org/wiki/Craig_Alanson)* [4.38] / [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
 
@@ -214,7 +256,7 @@
 *   Gateway
 *   Ground State
 
-## [15. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
+## [19. Awesome Bitcoin](/content/igorbarinov/awesome-bitcoin/week/README.md)
 
 ### Rust Libraries
 
@@ -224,19 +266,23 @@
 
 *   [Bithoven IDE](https://bithoven-lang.github.io/bithoven/ide/) -  Web IDE for Bithoven, A High-Level, Imperative Language for Bitcoin Smart Contracts.
 
-## [16. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
+## [20. Awesome Testing](/content/TheJambo/awesome-testing/week/README.md)
 
 ### Software / AI & LLM Testing
 
-*   [promptfoo (⭐9.4k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
+*   [promptfoo (⭐9.6k)](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
 
-## [17. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+### Software / UI & End-to-End Testing
+
+*   [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
+
+## [21. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
 
 ### Authentication, Authorization, and User Management
 
 *   [360username](https://360username.com/) - A free tool to search a username across 90+ social platforms to find matching profiles.
 
-## [18. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [22. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
@@ -281,7 +327,7 @@
 *   [kuri-sun/comment-graph.nvim (⭐2)](https://github.com/kuri-sun/comment-graph.nvim) - Integration with [comment-graph (⭐2)](https://github.com/kuri-sun/comment-graph) that makes your codebase traceable at a glance.
 *   [letieu/jira.nvim (⭐107)](https://github.com/letieu/jira.nvim) - Manage Jira tasks with a beautiful UI.
 
-## [19. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
+## [23. Awesome Terraform](/content/shuaibiyy/awesome-terraform/week/README.md)
 
 ### Official Resources
 
@@ -296,13 +342,13 @@
 
 *   [terraform-provider-scp (⭐23)](https://github.com/splunk/terraform-provider-scp) - Provider for Splunk Cloud Platform.
 
-## [20. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
+## [24. Awesome Webaudio](/content/notthetup/awesome-webaudio/week/README.md)
 
 ### Packages / Apps
 
 *   [All-in-One Advanced BPM Tool](https://tapbpmhub.com/) – Instantly measure song speed by tapping or using the spacebar. Features MIDI input, optional sound clicks, and real-time BPM visualization. Essential for producers, DJs, rhythm gamers.
 
-## [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
+## [25. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/week/README.md)
 
 ### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 

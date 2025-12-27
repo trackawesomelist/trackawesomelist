@@ -14,6 +14,15 @@ A collection of awesome projects in Zig.
 *   [ziglang/vscode-zig](https://codeberg.org/ziglang/vscode-zig) : Zig language support for VSCode.
 *   [ziglang/zig.vim](https://codeberg.org/ziglang/zig.vim) : Vim configuration for Zig.
 *   [ziglang/zig-mode](https://codeberg.org/ziglang/zig-mode) : Zig mode for Emacs.
+*   [zed-extensions/zig (⭐50)](https://github.com/zed-extensions/zig) : Zig extension for Zed editor.
+
+### Logging Processing / Linker
+
+*   [muhammad-fiaz/logly.zig (⭐31)](https://github.com/muhammad-fiaz/logly.zig) : A modern, production-grade, high-performance structured logging library for Zig, built for speed and scalability.
+
+### Parser Library / Linker
+
+*   [tree-sitter/zig-tree-sitter (⭐73)](https://github.com/tree-sitter/zig-tree-sitter) : Zig bindings to the [Tree-sitter](https://tree-sitter.github.io/zig-tree-sitter/) parsing library.
 
 ## [Dec 22 - Dec 28, 2025](/content/2025/51/README.md)
 

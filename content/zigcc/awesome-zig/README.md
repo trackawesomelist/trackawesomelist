@@ -6,6 +6,20 @@ A collection of awesome projects in Zig.
 
 [ Daily / [Weekly](/content/zigcc/awesome-zig/week/README.md) / [Overview](/content/zigcc/awesome-zig/readme/README.md) ]
 
+## [Dec 27, 2025](/content/2025/12/27/README.md)
+
+### Tools / Text Editors
+
+*   [zed-extensions/zig (⭐50)](https://github.com/zed-extensions/zig) : Zig extension for Zed editor.
+
+### Logging Processing / Linker
+
+*   [muhammad-fiaz/logly.zig (⭐31)](https://github.com/muhammad-fiaz/logly.zig) : A modern, production-grade, high-performance structured logging library for Zig, built for speed and scalability.
+
+### Parser Library / Linker
+
+*   [tree-sitter/zig-tree-sitter (⭐73)](https://github.com/tree-sitter/zig-tree-sitter) : Zig bindings to the [Tree-sitter](https://tree-sitter.github.io/zig-tree-sitter/) parsing library.
+
 ## [Dec 26, 2025](/content/2025/12/26/README.md)
 
 ### Tools / Text Editors
