@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Dec 27, 2025](/content/2025/12/27/README.md)
+
+### Other / [Other](#other-1)
+
+*   [Code Pathfinder](https://codepathfinder.dev) — An open-source security suite aiming to combine structural code analysis with  AI-powered vulnerability detection. Built for advanced structural search, derive  insights, find vulnerabilities in code.
+
 ## [Dec 23, 2025](/content/2025/12/23/README.md)
 
 ### Programming Languages / [Other](#other-1)
@@ -92,7 +98,7 @@
 
 ### Other / [Other](#other-1)
 
-*   [DatabaseConsistency (⭐1.1k)](https://github.com/djezzzl/database_consistency) — The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
+*   [DatabaseConsistency (⭐1.2k)](https://github.com/djezzzl/database_consistency) — The tool to avoid various issues due to inconsistencies and inefficiencies between a database schema and application models.
 
 ## [Sep 22, 2025](/content/2025/09/22/README.md)
 
@@ -1034,7 +1040,7 @@
 *   [staticcheck](https://staticcheck.io) — Go static analysis that specialises in finding bugs, simplifying code and improving performance.
 *   [structcheck](https://gitlab.com/opennota/check) — Find unused struct fields.
 *   [structslop (⭐833)](https://github.com/orijtech/structslop) — Static analyzer for Go that recommends struct field rearrangements to provide for maximum space/allocation efficiency
-*   [unconvert (⭐385)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
+*   [unconvert (⭐386)](https://github.com/mdempsky/unconvert) — Detect redundant type conversions.
 *   [unparam (⭐567)](https://github.com/mvdan/unparam) — Find unused function parameters.
 *   [varcheck](https://gitlab.com/opennota/check) — Find unused global variables and constants.
 *   [wsl (⭐338)](https://github.com/bombsimon/wsl) — Enforces empty lines at the right places.

@@ -170,6 +170,10 @@
 *   **bodyclose** :warning: — Checks whether HTTP response body is closed.
 *   [CodeDepends (⭐90)](https://github.com/duncantl/CodeDepends) — Static Code Analysis for R.
 
+### Other / [Other](#other-1)
+
+*   [Code Pathfinder](https://codepathfinder.dev) — An open-source security suite aiming to combine structural code analysis with  AI-powered vulnerability detection. Built for advanced structural search, derive  insights, find vulnerabilities in code.
+
 ## [13. Open Source Flutter Apps](/content/tortuvshin/open-source-flutter-apps/week/README.md)
 
 ### Contents / Personalization
@@ -236,7 +240,12 @@
 
 ### Plugin Manager
 
+*   [lumen-oss/rocks.nvim (⭐989)](https://github.com/lumen-oss/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
 *   [zuqini/zpack.nvim (⭐48)](https://github.com/zuqini/zpack.nvim) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
+
+### LSP / LSP Installer
+
+*   [mason-org/mason.nvim (⭐9.9k)](https://github.com/mason-org/mason.nvim) - Portable package manager that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 
 ### Marks / Assembly
 
@@ -249,10 +258,15 @@
 *   ***`[L/D]`*** - Has both "light" and "dark" variants.
 *   ***`[Lua]`*** - Is written in Lua.
 *   ***`[Fnl]`*** - Is written in Fennel.
+*   [everviolet/nvim (⭐543)](https://github.com/everviolet/nvim) - ***`[TS][LSP][L/D][Lua]`*** A comfy colorscheme for cozy morning coding.
 
 ### Note Taking / Cursorline
 
 *   [losch/ztl](https://codeberg.org/losch/ztl) - A fast static note generator in a single binary with everything built-in.
+
+### Neovim Lua Development / Quickfix
+
+*   [lumen-oss/luarocks-tag-release (⭐53)](https://github.com/lumen-oss/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 
 ### Git / Quickfix
 
