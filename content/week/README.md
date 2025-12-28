@@ -321,25 +321,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [VMC: A Grammar for Visualizing Statistical Model Checks](https://ieeexplore.ieee.org/abstract/document/10700937) - ***IEEE Transactions on Visualization and Computer Graphics***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=884768102185861577)]. Visualizations play a critical role in validating and improving statistical models. However, the design space of model check visualizations is not well understood, making it difficult for authors to explore and specify effective graphical model checks. VMC defines a model check visualization using four components: (1) samples of distributions of checkable quantities generated from the model, including predictive distributions for new data and distributions of model parameters; (2) transformations on observed data to facilitate comparison; (3) visual representations of distributions; and (4) layouts to facilitate comparing model samples and observed data. This work contributes an implementation of VMC as an R package. The authors validate VMC by reproducing a set of canonical model check examples, and show how using VMC to generate model checks reduces the edit distance between visualizations relative to existing visualization toolkits. The findings of an interview study with three expert modelers who used VMC highlight challenges and opportunities for encouraging exploration of correct, effective model check visualizations.
 
-#### [20. Awesome Go](/content/abordage/awesome-go/README.md)
-
-##### Concurrency / Stream Processing
-
-*   [fulminate-io/machine (⭐164)](https://github.com/fulminate-io/machine) — Machine is a workflow/pipeline library for processing data ☆`164`
-
-#### [21. Awesome Mac](/content/abordage/awesome-mac/README.md)
-
-##### Credits / Shell Utilities
-
-*   [jaywcjlove/awesome-mac (⭐97k)](https://github.com/jaywcjlove/awesome-mac)
-
-#### [22. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
+#### [20. Awesome Developer First](/content/agamm/awesome-developer-first/README.md)
 
 ##### Search
 
 *   [Cognee](https://www.cognee.ai/) - AI Memory layer for agents. Knowledge graph + vector search for contextual retrieval and reasoning. [![Cognee](https://img.shields.io/github/stars/topoteretes/cognee?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/topoteretes/cognee)
 
-#### [23. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+#### [21. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
 
 ##### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
 
@@ -354,13 +342,13 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 *   [bright-catpuccin (⭐1)](https://github.com/Tailung42/bright_catppuccin_zsh_theme) - A vibrant, modern ZSH prompt built on the beautiful Catppuccin Mocha palette with bright color vibes. Includes decorators for `git` status, python `venv`, conda env, smart path truncation, command execution time for long-running commands, optional username\@hostname, smart path truncation, background jobs and command exit status.
 *   [infinite (⭐1)](https://github.com/The-Infinitys/zsh-infinite) - A highly customizable and dynamic ZSH theme written in Rust. Infinite offers a powerful CLI tool to manage your ZSH prompt's appearance, allowing for dynamic content, sophisticated coloring, and unique visual separators.
 
-#### [24. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
+#### [22. Awesome Tmux](/content/rothgar/awesome-tmux/README.md)
 
 ##### Plugins
 
 *   [tmux-git-worktree (⭐8)](https://github.com/nigelgreenway/tmux-git-worktree) An opinionated plugin to either delete, select or create git worktrees and branches, and then open in a new window within the current tmux session
 
-#### [25. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+#### [23. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ##### Web / Playground
 
@@ -369,6 +357,19 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 ##### Libraries / Chrome Extensions
 
 *   :octocat: [Corgi (⭐198)](https://github.com/cardog-ai/corgi) - TypeScript VIN decoder with optimized SQLite database. Fully offline, <1ms decodes, complete NHTSA dataset in 21MB.
+
+#### [24. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+
+##### Audio and Video Tools / File Sharing
+
+*   [Sangeet](https://github.com/YashvardhanATRgithub/Sangeet) - A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+
+#### [25. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+
+##### Multimedia
+
+*   [Showtime](https://gitlab.gnome.org/GNOME/showtime) - Distraction-free video player.
 
 #### [26. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
@@ -389,18 +390,51 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [monetr](https://monetr.app/) - Budgeting application focused on planning for recurring expenses. ([Source Code (⭐505)](https://github.com/monetr/monetr)) `FSL-1.1-MIT` `Docker/K8S`
 
-#### [27. Awesome Mac](/content/jaywcjlove/awesome-mac/README.md)
+#### [27. Awesome Go](/content/abordage/awesome-go/README.md)
 
-##### Audio and Video Tools / File Sharing
+##### Concurrency / Stream Processing
 
-*   [Sangeet](https://github.com/YashvardhanATRgithub/Sangeet) - A beautiful audiophile music player with 10-band EQ, karaoke mode, and time-synced lyrics. ![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software") ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
-*   [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software](https://jaywcjlove.github.io/sb/ico/min-oss.svg "Open Source Software")](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware](https://jaywcjlove.github.io/sb/ico/min-free.svg "Freeware")
+*   [fulminate-io/machine (⭐164)](https://github.com/fulminate-io/machine) — Machine is a workflow/pipeline library for processing data ☆`164`
 
-#### [28. Awesome Gnome](/content/Kazhnuz/awesome-gnome/README.md)
+#### [28. Awesome Mac](/content/abordage/awesome-mac/README.md)
 
-##### Multimedia
+##### Audio & Video / Utilities
 
-*   [Showtime](https://gitlab.gnome.org/GNOME/showtime) - Distraction-free video player.
+*   [bitgapp/eqMac (⭐6.4k)](https://github.com/bitgapp/eqMac) — System-wide audio equalizer and mixer ☆`6,421`
+
+##### Design & Graphics / Image Tools
+
+*   [MochiDiffusion/MochiDiffusion (⭐7.8k)](https://github.com/MochiDiffusion/MochiDiffusion) — Run Stable Diffusion natively on Mac ☆`7,825`
+
+##### Developer Tools / Developer Utilities
+
+*   [intitni/CopilotForXcode (⭐8.3k)](https://github.com/intitni/CopilotForXcode) — GitHub Copilot and ChatGPT for Xcode ☆`8,251`
+*   [twostraws/ControlRoom (⭐6k)](https://github.com/twostraws/ControlRoom) — Control Xcode Simulator from macOS app ☆`6,022`
+*   [okwasniewski/MiniSim (⭐2.2k)](https://github.com/okwasniewski/MiniSim) — Menu bar app for iOS and Android simulators ☆`2,177`
+
+##### Developer Tools / Virtualization
+
+*   [insidegui/VirtualBuddy (⭐7k)](https://github.com/insidegui/VirtualBuddy) — macOS VM GUI for Apple Silicon ☆`7,004`
+
+##### Reading & Writing / Note-taking
+
+*   [tw93/MiaoYan (⭐7.2k)](https://github.com/tw93/MiaoYan) — Lightweight Markdown editor ☆`7,221`
+
+##### Security / System Security
+
+*   [seemoo-lab/openhaystack (⭐12k)](https://github.com/seemoo-lab/openhaystack) — Build your own AirTags via Find My network ☆`12,436`
+
+##### System Tools / Menu Bar
+
+*   [macmade/Hot (⭐2.8k)](https://github.com/macmade/Hot) — CPU thermal throttling monitor in menu bar ☆`2,839`
+
+##### System Tools / Package Managers
+
+*   [mas-cli/mas (⭐12k)](https://github.com/mas-cli/mas) — Mac App Store command-line interface ☆`11,876`
+
+##### Credits / Shell Utilities
+
+*   [jaywcjlove/awesome-mac (⭐97k)](https://github.com/jaywcjlove/awesome-mac)
 
 ---
 
@@ -1076,7 +1110,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Linux Containers](/content/Friz-zy/awesome-linux-containers/README.md) - ([Source ⭐ 1.6K, 📝 23&#x2F;06&#x2F;11 ](https://github.com/Friz-zy/awesome-linux-containers)) - A curated list of awesome Linux Containers frameworks, libraries and software
 - [Awesome Low Code](/content/zenitysec/awesome-low-code/README.md) - ([Source ⭐ 395, 📝 07&#x2F;14 ](https://github.com/zenitysec/awesome-low-code)) - Awesome Low Code platforms, vendors, tools and resources
 - [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 97K, 📝 12&#x2F;28 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [Awesome Mac](/content/abordage/awesome-mac/README.md) - ([Source ⭐ 7, 📝 12&#x2F;26 ](https://github.com/abordage/awesome-mac)) - Curated collection of awesome macOS applications, tools, and resources. Auto-updated and always current with metadata, categorization, and quality filtering.
+- [Awesome Mac](/content/abordage/awesome-mac/README.md) - ([Source ⭐ 7, 📝 12&#x2F;28 ](https://github.com/abordage/awesome-mac)) - Curated collection of awesome macOS applications, tools, and resources. Auto-updated and always current with metadata, categorization, and quality filtering.
 - [Awesome Nix](/content/nix-community/awesome-nix/README.md) - ([Source ⭐ 4.6K, 📝 11&#x2F;24 ](https://github.com/nix-community/awesome-nix)) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [Awesome Nodejs](/content/sindresorhus/awesome-nodejs/README.md) - ([Source ⭐ 64K, 📝 11&#x2F;24 ](https://github.com/sindresorhus/awesome-nodejs)) - :zap: Delightful Node.js packages and resources
 - [Awesome Nodered](/content/naimo84/awesome-nodered/README.md) - ([Source ⭐ 351, 📝 23&#x2F;02&#x2F;23 ](https://github.com/naimo84/awesome-nodered)) - A collection of interesting nodes and resources for Node-RED

@@ -134,6 +134,40 @@
 
 ## [10. Awesome Mac](/content/abordage/awesome-mac/week/README.md)
 
+### Audio & Video / Utilities
+
+*   [bitgapp/eqMac (⭐6.4k)](https://github.com/bitgapp/eqMac) — System-wide audio equalizer and mixer ☆`6,421`
+
+### Design & Graphics / Image Tools
+
+*   [MochiDiffusion/MochiDiffusion (⭐7.8k)](https://github.com/MochiDiffusion/MochiDiffusion) — Run Stable Diffusion natively on Mac ☆`7,825`
+
+### Developer Tools / Developer Utilities
+
+*   [intitni/CopilotForXcode (⭐8.3k)](https://github.com/intitni/CopilotForXcode) — GitHub Copilot and ChatGPT for Xcode ☆`8,251`
+*   [twostraws/ControlRoom (⭐6k)](https://github.com/twostraws/ControlRoom) — Control Xcode Simulator from macOS app ☆`6,022`
+*   [okwasniewski/MiniSim (⭐2.2k)](https://github.com/okwasniewski/MiniSim) — Menu bar app for iOS and Android simulators ☆`2,177`
+
+### Developer Tools / Virtualization
+
+*   [insidegui/VirtualBuddy (⭐7k)](https://github.com/insidegui/VirtualBuddy) — macOS VM GUI for Apple Silicon ☆`7,004`
+
+### Reading & Writing / Note-taking
+
+*   [tw93/MiaoYan (⭐7.2k)](https://github.com/tw93/MiaoYan) — Lightweight Markdown editor ☆`7,221`
+
+### Security / System Security
+
+*   [seemoo-lab/openhaystack (⭐12k)](https://github.com/seemoo-lab/openhaystack) — Build your own AirTags via Find My network ☆`12,436`
+
+### System Tools / Menu Bar
+
+*   [macmade/Hot (⭐2.8k)](https://github.com/macmade/Hot) — CPU thermal throttling monitor in menu bar ☆`2,839`
+
+### System Tools / Package Managers
+
+*   [mas-cli/mas (⭐12k)](https://github.com/mas-cli/mas) — Mac App Store command-line interface ☆`11,876`
+
 ### Credits / Shell Utilities
 
 *   [jaywcjlove/awesome-mac (⭐97k)](https://github.com/jaywcjlove/awesome-mac)
