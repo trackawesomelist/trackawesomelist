@@ -295,6 +295,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [Treehouse (⭐175)](https://github.com/treehousedev/treehouse) - Open source lightweight library to build your own note-taking tool.
 *   :octocat: [GOUI (⭐6)](https://github.com/intermesh/goui) - Open source User Interface library with lots of components for building web applications
 *   :octocat: [InDom (⭐4)](https://github.com/constcallid/indom) - <4KB stack-agnostic modern DOM library with automatic cleanup, TypeScript source and type definitions.
+*   :octocat: [Bubble Lab (⭐934)](https://github.com/bubblelabai/BubbleLab) - Open Source TypeScript-native workflow automation platform with AI-powered generation, full observability, and exportable code.
 
 ### Web/ReactJS
 

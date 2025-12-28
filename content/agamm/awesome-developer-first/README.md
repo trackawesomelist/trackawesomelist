@@ -2,9 +2,15 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.4K · 🏷️ Business
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.5K · 🏷️ Business
 
 [ Daily / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / [Overview](/content/agamm/awesome-developer-first/readme/README.md) ]
+
+## [Dec 28, 2025](/content/2025/12/28/README.md)
+
+### Search
+
+*   [Cognee](https://www.cognee.ai/) - AI Memory layer for agents. Knowledge graph + vector search for contextual retrieval and reasoning. [![Cognee](https://img.shields.io/github/stars/topoteretes/cognee?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/topoteretes/cognee)
 
 ## [Dec 02, 2025](/content/2025/12/02/README.md)
 
@@ -66,7 +72,6 @@ A curated list of awesome developer-first tools products.
 ### Gen UI
 
 *   [AI SDK by Vercel](https://ai-sdk.dev/) - SDK for creating Gen UI applications. [![AI SDK by Vercel](https://img.shields.io/github/stars/vercel/ai?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/vercel/ai)
-*   [ChatBotKit](https://chatbotkit.com/) - A node SDK for generating AI chats, with the ability to utilize Gen UI responses. [![ChatBotKit](https://img.shields.io/github/stars/chatbotkit/node-sdk?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/chatbotkit/node-sdk)
 *   [Coframe](https://coframe.ai/) - Automatically optimizes your website’s copy, images, and UI with AI.
 *   [Horizon UI](https://horizon-ui.com/) - A shadcn boilerplate with backed in Gen UI AI components.
 *   [Magic Patterns](https://magicpatterns.link/dev) - Prototype product ideas with AI. [![LW24 participant](https://img.shields.io/badge/featured-LW24-8957E5.svg?style=flat-square\&labelColor=0D1117\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
@@ -87,12 +92,6 @@ A curated list of awesome developer-first tools products.
 ### Monitoring
 
 *   [Instatus](https://instatus.com) - Uptime monitoring, incident response, and status pages.
-
-## [Aug 20, 2025](/content/2025/08/20/README.md)
-
-### Analytics
-
-*   [Repohistory](https://repohistory.com/) - GitHub repo analytics tool. [![Repohistory](https://img.shields.io/github/stars/repohistory/repohistory?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/repohistory/repohistory)
 
 ## [Jul 29, 2025](/content/2025/07/29/README.md)
 
@@ -115,12 +114,6 @@ A curated list of awesome developer-first tools products.
 ### Testing
 
 *   [CodSpeed](https://codspeed.io) - Continuous Performance Testing in CI environments. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
-
-## [Jul 18, 2025](/content/2025/07/18/README.md)
-
-### AI Coding
-
-*   [Jolt AI](https://usejolt.ai) - An AI codegen and chat tool for 100k to multi-million line codebases that automatically identifies context files, handles multi-file changes, and matches code styles.
 
 ## [Jul 01, 2025](/content/2025/07/01/README.md)
 
@@ -265,10 +258,6 @@ A curated list of awesome developer-first tools products.
 ### GEO
 
 *   [AirPinpoint](https://airpinpoint.com/) - API for Apple AirTags tracking. [![LW24 participant](https://img.shields.io/badge/featured-LW24-8957E5.svg?style=flat-square\&labelColor=0D1117\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
-
-### Integrations
-
-*   [OpenInt](https://openint.dev/) - Open-source embeddable product integrations. [![OpenInt](https://img.shields.io/github/stars/openintegrations/openint?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/openintegrations/openint) [![LW24 participant](https://img.shields.io/badge/featured-LW24-8957E5.svg?style=flat-square\&labelColor=0D1117\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 
 ### Monitoring
 

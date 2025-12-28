@@ -8,6 +8,10 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
 
+### Web / Playground
+
+*   :octocat: [Bubble Lab (⭐934)](https://github.com/bubblelabai/BubbleLab) - Open Source TypeScript-native workflow automation platform with AI-powered generation, full observability, and exportable code.
+
 ### Libraries / Chrome Extensions
 
 *   :octocat: [Corgi (⭐198)](https://github.com/cardog-ai/corgi) - TypeScript VIN decoder with optimized SQLite database. Fully offline, <1ms decodes, complete NHTSA dataset in 21MB.

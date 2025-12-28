@@ -2,7 +2,7 @@
 
 A curated list of awesome developer-first tools products.
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.4K · 🏷️ Business
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/agamm/awesome-developer-first/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 agamm/awesome-developer-first](https://github.com/agamm/awesome-developer-first) · ⭐ 1.5K · 🏷️ Business
 
 [ [Daily](/content/agamm/awesome-developer-first/README.md) / [Weekly](/content/agamm/awesome-developer-first/week/README.md) / Overview ]
 
@@ -25,7 +25,7 @@ The definition of developer-first for this repo is:
 + 👀 Watch this repo to get notifications about new products we find
 ```
 
-For the latest additions [click here (⭐1.4k)](https://github.com/agamm/awesome-developer-first/commits/main).
+For the latest additions [click here (⭐1.5k)](https://github.com/agamm/awesome-developer-first/commits/main).
 
 ## Contents
 
@@ -85,7 +85,6 @@ For the latest additions [click here (⭐1.4k)](https://github.com/agamm/awesome
 *   [GitHub Copilot](https://github.com/features/copilot) - The “OG” AI IDE everyone heard about. Still kind of feels behind, but does integrate nicely with GitHub.
 *   [IntelliCode](https://visualstudio.microsoft.com/services/intellicode) - Visual Studio’s AI offering from Microsoft.
 *   [JetBrains AI](https://www.jetbrains.com/ai) - JetBrains’s AI offering integrated into most of their IDEs.
-*   [Jolt AI](https://usejolt.ai) - An AI codegen and chat tool for 100k to multi-million line codebases that automatically identifies context files, handles multi-file changes, and matches code styles.
 *   [Kilo Code](https://kilocode.ai) - Fast, open-source AI coding agent for VS Code and JetBrains. [![Kilo Code](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/Kilo-Org/kilocode)
 *   [OpenHands](https://all-hands.dev/) - an open-source Devin alternative. [![OpenHands](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/All-Hands-AI/OpenHands)
 *   [Qodo](https://www.qodo.ai/) - Focusing on confident code generation (focused on testing well).
@@ -107,7 +106,6 @@ For the latest additions [click here (⭐1.4k)](https://github.com/agamm/awesome
 *   [Plausible](https://plausible.io/) - Simple, privacy-friendly, and open-source web analytics tool. [![Plausible](https://img.shields.io/github/stars/plausible/analytics?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/plausible/analytics)
 *   [PoeticMetric](https://poeticmetric.com/) - Privacy-first, regulation-compliant, fast analytics tool.
 *   [PostHog](https://posthog.com/) - Open-source product analytics platform. [![PostHog](https://img.shields.io/github/stars/posthog/posthog?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/posthog/posthog) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
-*   [Repohistory](https://repohistory.com/) - GitHub repo analytics tool. [![Repohistory](https://img.shields.io/github/stars/repohistory/repohistory?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/repohistory/repohistory)
 *   [Segment](https://segment.com/) - Collect user data and send it to your other tools.
 *   [Tinybird](https://www.tinybird.co/) - Real-time data streams to APIs. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 
@@ -294,7 +292,6 @@ For the latest additions [click here (⭐1.4k)](https://github.com/agamm/awesome
 *Or Generative UI, Dynamic User Experiences, Adaptive UI.*
 
 *   [AI SDK by Vercel](https://ai-sdk.dev/) - SDK for creating Gen UI applications. [![AI SDK by Vercel](https://img.shields.io/github/stars/vercel/ai?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/vercel/ai)
-*   [ChatBotKit](https://chatbotkit.com/) - A node SDK for generating AI chats, with the ability to utilize Gen UI responses. [![ChatBotKit](https://img.shields.io/github/stars/chatbotkit/node-sdk?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/chatbotkit/node-sdk)
 *   [Coframe](https://coframe.ai/) - Automatically optimizes your website’s copy, images, and UI with AI.
 *   [Horizon UI](https://horizon-ui.com/) - A shadcn boilerplate with backed in Gen UI AI components.
 *   [Magic Patterns](https://magicpatterns.link/dev) - Prototype product ideas with AI. [![LW24 participant](https://img.shields.io/badge/featured-LW24-8957E5.svg?style=flat-square\&labelColor=0D1117\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
@@ -336,7 +333,6 @@ For the latest additions [click here (⭐1.4k)](https://github.com/agamm/awesome
 *   [Apideck](https://www.apideck.com) - Integration marketplace builder, one-API with 3rd parties for quick development.
 *   [Metorial](https://metorial.com) - Connect AI agents to 600+ integrations with a single interface. OAuth, scaling, and monitoring included.
 *   [Nango](https://www.nango.dev) - Hundreds of pre-built product integrations with 250+ APIs, customizable in code. [![Nango](https://img.shields.io/github/stars/nangoHQ/nango?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/NangoHQ/nango)
-*   [OpenInt](https://openint.dev/) - Open-source embeddable product integrations. [![OpenInt](https://img.shields.io/github/stars/openintegrations/openint?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/openintegrations/openint) [![LW24 participant](https://img.shields.io/badge/featured-LW24-8957E5.svg?style=flat-square\&labelColor=0D1117\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev/lw/2024/mega#participants)
 *   [Panora](https://panora.dev) - Easy, flexible API to add customer-facing integrations to your SaaS product. [![Panora](https://img.shields.io/github/stars/panoratech/panora?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/panoratech/panora)
 *   [Revert](https://revert.dev) - Open-source unified API to build B2B product integrations. [![Revert](https://img.shields.io/github/stars/revertinc/revert?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/revertinc/revert)
 *   [Sequin](https://sequin.io/) - Interface with third-party services using SQL. [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
@@ -497,6 +493,7 @@ For the latest additions [click here (⭐1.4k)](https://github.com/agamm/awesome
 *Index and search your content as a service API.*
 
 *   [Algolia](https://www.algolia.com/) - Search as a service and full suite of search APIs.
+*   [Cognee](https://www.cognee.ai/) - AI Memory layer for agents. Knowledge graph + vector search for contextual retrieval and reasoning. [![Cognee](https://img.shields.io/github/stars/topoteretes/cognee?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/topoteretes/cognee)
 *   [Meilisearch](https://www.meilisearch.com/) - Open-source, fast, and relevant search engine. [![Meilisearch](https://img.shields.io/github/stars/meilisearch/meilisearch?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/meilisearch/meilisearch) [![featured on launchweek.dev](https://img.shields.io/badge/featured-0D1117.svg?style=flat-square\&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzYwIiBoZWlnaHQ9IjM2MCIgdmlld0JveD0iMCAwIDM2MCAzNjAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+IDxyZWN0IHdpZHRoPSI2MCIgaGVpZ2h0PSIzMDAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjYwIiB5PSIzMDAiIHdpZHRoPSIxMjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjI0MCIgeT0iMzAwIiB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIGZpbGw9IndoaXRlIi8+IDxyZWN0IHg9IjMwMCIgd2lkdGg9IjYwIiBoZWlnaHQ9IjMwMCIgZmlsbD0id2hpdGUiLz4gPHJlY3QgeD0iMTgwIiB3aWR0aD0iNjAiIGhlaWdodD0iMzAwIiBmaWxsPSJ3aGl0ZSIvPiA8L3N2Zz4=)](https://launchweek.dev)
 *   [Swiftype](https://swiftype.com/) - Search as a service (crawlers and React ready).
 *   [Typesense Cloud](https://cloud.typesense.org/) - Open-source and hosted search as a Service. [![Typesense](https://img.shields.io/github/stars/typesense/typesense?style=flat-square\&logo=github\&labelColor=%230D1117\&color=%23161B22)](https://github.com/typesense/typesense)
@@ -542,5 +539,5 @@ For the latest additions [click here (⭐1.4k)](https://github.com/agamm/awesome
 
 ## Contributing
 
-See here: [CONTRIBUTING.md (⭐1.4k)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
+See here: [CONTRIBUTING.md (⭐1.5k)](https://github.com/agamm/awesome-developer-first/blob/main/CONTRIBUTING.md)
 

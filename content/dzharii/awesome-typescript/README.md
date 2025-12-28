@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Dec 28, 2025](/content/2025/12/28/README.md)
+
+### Web / Playground
+
+*   :octocat: [Bubble Lab (⭐934)](https://github.com/bubblelabai/BubbleLab) - Open Source TypeScript-native workflow automation platform with AI-powered generation, full observability, and exportable code.
+
 ## [Dec 27, 2025](/content/2025/12/27/README.md)
 
 ### Libraries / Chrome Extensions
