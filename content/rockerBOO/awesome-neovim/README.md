@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 29, 2025](/content/2025/12/29/README.md)
+
+### Utility / Cursorline
+
+*   [stikypiston/cheaty.nvim (⭐5)](https://github.com/stikypiston/cheaty.nvim) - A simple, configurable cheatsheet.
+
 ## [Dec 27, 2025](/content/2025/12/27/README.md)
 
 ### Plugin Manager
@@ -104,7 +110,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [leo-alvarenga/quoth.nvim (⭐3)](https://github.com/leo-alvarenga/quoth.nvim) - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
+*   [leo-alvarenga/quoth.nvim (⭐5)](https://github.com/leo-alvarenga/quoth.nvim) - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
 
 ### Debugging / CSV Files
 
@@ -164,11 +170,11 @@ Collections of awesome neovim plugins.
 
 ### Media / Cursorline
 
-*   [melMass/echo.nvim (⭐11)](https://github.com/melMass/echo.nvim) - Seamless sound integration for your editing workflow.
+*   [melMass/echo.nvim (⭐13)](https://github.com/melMass/echo.nvim) - Seamless sound integration for your editing workflow.
 
 ### Game / Tmux
 
-*   [piersolenski/skifree.nvim (⭐5)](https://github.com/piersolenski/skifree.nvim) - Play the Windows 3.1 SkiFree game.
+*   [piersolenski/skifree.nvim (⭐14)](https://github.com/piersolenski/skifree.nvim) - Play the Windows 3.1 SkiFree game.
 
 ## [Nov 26, 2025](/content/2025/11/26/README.md)
 
@@ -180,17 +186,17 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [QuentinGruber/pomodoro.nvim (⭐45)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
+*   [QuentinGruber/pomodoro.nvim (⭐46)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
 
 ### Git / Quickfix
 
-*   [esmuellert/vscode-diff.nvim (⭐585)](https://github.com/esmuellert/vscode-diff.nvim) - VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
+*   [esmuellert/vscode-diff.nvim (⭐829)](https://github.com/esmuellert/vscode-diff.nvim) - VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
 
 ## [Nov 24, 2025](/content/2025/11/24/README.md)
 
 ### Utility / Cursorline
 
-*   [mcauley-penney/visual-whitespace.nvim (⭐406)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
+*   [mcauley-penney/visual-whitespace.nvim (⭐413)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
 
 ## [Nov 20, 2025](/content/2025/11/20/README.md)
 
@@ -258,11 +264,11 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [Zeioth/markmap.nvim (⭐211)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
+*   [Zeioth/markmap.nvim (⭐212)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 
 ### Editing Support / Scrollbar
 
-*   [qwavies/smart-backspace.nvim (⭐20)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
+*   [qwavies/smart-backspace.nvim (⭐21)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
 *   [ckolkey/ts-node-action (⭐374)](https://github.com/CKolkey/ts-node-action) - A framework for executing functional transformations on Tree-sitter nodes.
 
 ## [Nov 11, 2025](/content/2025/11/11/README.md)
@@ -275,18 +281,18 @@ Collections of awesome neovim plugins.
 
 ### Language / Assembly
 
-*   [bennorichters/taal.nvim (⭐17)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
+*   [bennorichters/taal.nvim (⭐18)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
 
 ### Utility / Cursorline
 
-*   [gisketch/triforce.nvim (⭐207)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+*   [gisketch/triforce.nvim (⭐215)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 
 ## [Nov 09, 2025](/content/2025/11/09/README.md)
 
 ### Completion / Diagnostics
 
 *   [saghen/blink.cmp (⭐5.7k)](https://github.com/saghen/blink.cmp) - Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
-    *   [saghen/blink.compat (⭐207)](https://github.com/saghen/blink.compat) - Compatibility layer for using `nvim-cmp` sources on `blink.cmp`.
+    *   [saghen/blink.compat (⭐209)](https://github.com/saghen/blink.compat) - Compatibility layer for using `nvim-cmp` sources on `blink.cmp`.
     *   [Kasier-Yang/blink-cmp-avante (⭐99)](https://github.com/Kaiser-Yang/blink-cmp-avante) - `blink-cmp` source for Avante.
     *   [krissen/blink-cmp-bibtex (⭐9)](https://github.com/krissen/blink-cmp-bibtex) - `blink.cmp` source for BibTeX citation files.
     *   [Kaiser-Yang/blink-cmp-git (⭐80)](https://github.com/Kaiser-Yang/blink-cmp-git) - `blink.cmp` source for Git.
@@ -304,7 +310,7 @@ Collections of awesome neovim plugins.
 
 ### Formatting / Indent
 
-*   [saghen/blink.indent (⭐152)](https://github.com/saghen/blink.indent) - Performant indent guides with scope on every keystroke.
+*   [saghen/blink.indent (⭐169)](https://github.com/saghen/blink.indent) - Performant indent guides with scope on every keystroke.
 
 ## [Nov 08, 2025](/content/2025/11/08/README.md)
 
@@ -318,7 +324,7 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [wsdjeg/mru.nvim (⭐7)](https://github.com/wsdjeg/mru.nvim) - Manage and display your Most Recently Used (MRU) files.
+*   [wsdjeg/mru.nvim (⭐8)](https://github.com/wsdjeg/mru.nvim) - Manage and display your Most Recently Used (MRU) files.
 
 ### Debugging / CSV Files
 
@@ -328,11 +334,11 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Assembly
 
-*   [jpwol/thorn.nvim (⭐58)](https://github.com/jpwol/thorn.nvim) - ***`[TS][LSP][L/D][Lua]`*** A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
+*   [jpwol/thorn.nvim (⭐61)](https://github.com/jpwol/thorn.nvim) - ***`[TS][LSP][L/D][Lua]`*** A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
 
 ### Note Taking / Cursorline
 
-*   [ymich9963/mdnotes.nvim (⭐3)](https://github.com/ymich9963/mdnotes.nvim) - Simple and improved Markdown note taking.
+*   [ymich9963/mdnotes.nvim (⭐4)](https://github.com/ymich9963/mdnotes.nvim) - Simple and improved Markdown note taking.
 
 ### Dependency Management / Quickfix
 
@@ -449,9 +455,9 @@ Collections of awesome neovim plugins.
 
 ### Neovim Lua Development / Quickfix
 
-*   [chrisgve/databox.nvim (⭐12)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐20k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
-*   [BirdeeHub/lze (⭐89)](https://github.com/BirdeeHub/lze) - A lazy-loading library for Neovim plugins.
-*   [lumen-oss/lz.n (⭐228)](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for Neovim plugins.
+*   [chrisgve/databox.nvim (⭐11)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐20k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
+*   [BirdeeHub/lze (⭐94)](https://github.com/BirdeeHub/lze) - A lazy-loading library for Neovim plugins.
+*   [lumen-oss/lz.n (⭐232)](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for Neovim plugins.
 
 ### Git / GitHub
 
@@ -469,13 +475,13 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [YousefHadder/markdown-plus.nvim (⭐162)](https://github.com/YousefHadder/markdown-plus.nvim) - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
+*   [YousefHadder/markdown-plus.nvim (⭐172)](https://github.com/YousefHadder/markdown-plus.nvim) - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
 
 ## [Oct 22, 2025](/content/2025/10/22/README.md)
 
 ### Utility / Cursorline
 
-*   [ahkohd/buffer-sticks.nvim (⭐67)](https://github.com/ahkohd/buffer-sticks.nvim) - Cosmetic buffers indicator & picker.
+*   [ahkohd/buffer-sticks.nvim (⭐69)](https://github.com/ahkohd/buffer-sticks.nvim) - Cosmetic buffers indicator & picker.
 
 ## [Oct 21, 2025](/content/2025/10/21/README.md)
 
@@ -627,7 +633,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Assembly
 
-*   [wurli/cobalt.nvim (⭐23)](https://github.com/wurli/cobalt.nvim) - ***`[TS][LSP][Lua]`*** A (mostly) faithful port of the classic blue theme from TextMate.
+*   [wurli/cobalt.nvim (⭐24)](https://github.com/wurli/cobalt.nvim) - ***`[TS][LSP][Lua]`*** A (mostly) faithful port of the classic blue theme from TextMate.
 
 ## [Oct 07, 2025](/content/2025/10/07/README.md)
 
@@ -2791,7 +2797,7 @@ Collections of awesome neovim plugins.
 
 ### Colorscheme / Assembly
 
-*   [calind/selenized.nvim (⭐28)](https://github.com/calind/selenized.nvim) - ***`[TS][LSP][L/D][Lua]`*** Lua port of [selenized (⭐874)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
+*   [calind/selenized.nvim (⭐28)](https://github.com/calind/selenized.nvim) - ***`[TS][LSP][L/D][Lua]`*** Lua port of [selenized (⭐876)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
 
 ## [Nov 15, 2023](/content/2023/11/15/README.md)
 

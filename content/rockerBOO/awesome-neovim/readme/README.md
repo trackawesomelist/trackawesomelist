@@ -239,7 +239,7 @@ Collections of awesome neovim plugins.
     *   [SergioRibera/cmp-dotenv (⭐91)](https://github.com/SergioRibera/cmp-dotenv) - `nvim-cmp` source for environment variables (from system and `.env` files).
 *   [nvim-mini/mini.nvim#mini.completion (⭐8.5k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-completion.md) - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
 *   [saghen/blink.cmp (⭐5.7k)](https://github.com/saghen/blink.cmp) - Really fast completion with LSP & snippet support, along with signature help, cmdline completion, and autobracket support (based on semantic tokens).
-    *   [saghen/blink.compat (⭐207)](https://github.com/saghen/blink.compat) - Compatibility layer for using `nvim-cmp` sources on `blink.cmp`.
+    *   [saghen/blink.compat (⭐209)](https://github.com/saghen/blink.compat) - Compatibility layer for using `nvim-cmp` sources on `blink.cmp`.
     *   [Kasier-Yang/blink-cmp-avante (⭐99)](https://github.com/Kaiser-Yang/blink-cmp-avante) - `blink-cmp` source for Avante.
     *   [krissen/blink-cmp-bibtex (⭐9)](https://github.com/krissen/blink-cmp-bibtex) - `blink.cmp` source for BibTeX citation files.
     *   [Kaiser-Yang/blink-cmp-git (⭐80)](https://github.com/Kaiser-Yang/blink-cmp-git) - `blink.cmp` source for Git.
@@ -379,7 +379,7 @@ Collections of awesome neovim plugins.
 *   [yaocccc/nvim-hl-mdcodeblock.lua (⭐35)](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) - Highlight Markdown codeblock using Tree-sitter.
 *   [kiran94/edit-markdown-table.nvim (⭐28)](https://github.com/kiran94/edit-markdown-table.nvim) - Edit Markdown Tables using Tree-sitter.
 *   [richardbizik/nvim-toc (⭐44)](https://github.com/richardbizik/nvim-toc) - Easily generate table of contents for Markdown files.
-*   [Zeioth/markmap.nvim (⭐211)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
+*   [Zeioth/markmap.nvim (⭐212)](https://github.com/Zeioth/markmap.nvim) - Visualize your Markdown as mindmaps.
 *   [tadmccorkle/markdown.nvim (⭐214)](https://github.com/tadmccorkle/markdown.nvim) - Configurable tools for Markdown files, including inline-style, link, and navigation keymaps, table of contents, improved list editing, and more.
 *   [mpas/marp-nvim (⭐47)](https://github.com/mpas/marp-nvim) - Present using Markdown with [Marp](https://marp.app/).
 *   [MeanderingProgrammer/render-markdown.nvim (⭐3.8k)](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Improve viewing Markdown files directly.
@@ -392,7 +392,7 @@ Collections of awesome neovim plugins.
 *   [nvim-telescope/telescope-bibtex.nvim (⭐132)](https://github.com/nvim-telescope/telescope-bibtex.nvim) - Telescope extension to search and paste BibTeX entries into your TeX files.
 *   [Thiago4532/mdmath.nvim (⭐193)](https://github.com/Thiago4532/mdmath.nvim) - A Markdown equation previewer, using Kitty Graphics Protocol.
 *   [OXY2DEV/markdoc.nvim (⭐48)](https://github.com/OXY2DEV/markdoc.nvim) - Tree-sitter based `markdown -> vimdoc` converter.
-*   [YousefHadder/markdown-plus.nvim (⭐162)](https://github.com/YousefHadder/markdown-plus.nvim) - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
+*   [YousefHadder/markdown-plus.nvim (⭐172)](https://github.com/YousefHadder/markdown-plus.nvim) - Provides a full editing experience for Markdown files which includes support for lists, links, TOC, and more with simple and fast keymaps.
 *   [Myzel394/easytables.nvim (⭐133)](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit Markdown tables with a live preview and useful helpers.
 *   [tttol/md-outline.nvim (⭐4)](https://github.com/tttol/md-outline.nvim) - Automatically displays an outline for Markdown files.
 
@@ -435,7 +435,7 @@ Collections of awesome neovim plugins.
 *   [sontungexpt/vietnamese.nvim (⭐11)](https://github.com/sontungexpt/vietnamese.nvim) - A Vietnamese input method engine with native support to type Vietnamese in insert mode.
 *   [doodleEsc/translator.nvim (⭐5)](https://github.com/doodleEsc/translator.nvim) - A powerful AI-powered translation plugin, leveraging OpenAI's GPT models to provide high-quality translations with natural language understanding.
 *   [kiyoon/Korean-IME.nvim (⭐29)](https://github.com/kiyoon/Korean-IME.nvim) - OS-independent Korean input method that converts English inputs to Korean in-place.
-*   [bennorichters/taal.nvim (⭐17)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
+*   [bennorichters/taal.nvim (⭐18)](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
 *   [walkersumida/deepl.nvim (⭐5)](https://github.com/walkersumida/deepl.nvim) - Translates text using the DeepL API with multiple output modes (float, replace, append).
 *   [acidsugarx/babel.nvim (⭐8)](https://github.com/acidsugarx/babel.nvim) - Translate text using Google Translate with async support, float display, and multi-picker integration.
 
@@ -685,7 +685,7 @@ then it is not supported:
 <!--lint enable awesome-list-item-->
 
 *   [kuri-sun/yoda.nvim (⭐10)](https://github.com/kuri-sun/yoda.nvim) - ***`[TS][LSP][L/D][Lua]`*** Muted green palette for focused, balanced editing.
-*   [wurli/cobalt.nvim (⭐23)](https://github.com/wurli/cobalt.nvim) - ***`[TS][LSP][Lua]`*** A (mostly) faithful port of the classic blue theme from TextMate.
+*   [wurli/cobalt.nvim (⭐24)](https://github.com/wurli/cobalt.nvim) - ***`[TS][LSP][Lua]`*** A (mostly) faithful port of the classic blue theme from TextMate.
 *   [datsfilipe/min-theme.nvim (⭐54)](https://github.com/datsfilipe/min-theme.nvim) - ***`[TS][LSP][Lua]`*** It's a port of Min, a minimal theme for VSCode, written in Lua.
 *   [github-main-user/lytmode.nvim (⭐18)](https://github.com/github-main-user/lytmode.nvim) - ***`[TS][LSP][Lua]`*** A unique in-between theme inspired by LYT-Mode for Obsidian. Not quite dark, not quite light — just right.
 *   [datsfilipe/vesper.nvim (⭐194)](https://github.com/datsfilipe/vesper.nvim) - ***`[TS][LSP][Lua]`*** It's a port of the popular VS Code theme Vesper, written in Lua.
@@ -811,8 +811,8 @@ then it is not supported:
 *   [y3owk1n/base16-pro-max.nvim (⭐6)](https://github.com/y3owk1n/base16-pro-max.nvim) - ***`[TS][LSP][Lua]`*** Base16 for modern Neovim — not just colors.
 *   [ellisonleao/gruvbox.nvim (⭐2.4k)](https://github.com/ellisonleao/gruvbox.nvim) - ***`[TS][LSP][L/D][Lua]`*** Gruvbox community colorscheme Lua port.
 *   [pmouraguedes/neodarcula.nvim (⭐11)](https://github.com/pmouraguedes/neodarcula.nvim) - ***`[TS][LSP][Lua]`*** A dark theme with support for transparency, dimming, LSP semantic tokens and more.
-*   [jpwol/thorn.nvim (⭐58)](https://github.com/jpwol/thorn.nvim) - ***`[TS][LSP][L/D][Lua]`*** A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
-*   [calind/selenized.nvim (⭐28)](https://github.com/calind/selenized.nvim) - ***`[TS][LSP][L/D][Lua]`*** Lua port of [selenized (⭐874)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
+*   [jpwol/thorn.nvim (⭐61)](https://github.com/jpwol/thorn.nvim) - ***`[TS][LSP][L/D][Lua]`*** A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
+*   [calind/selenized.nvim (⭐28)](https://github.com/calind/selenized.nvim) - ***`[TS][LSP][L/D][Lua]`*** Lua port of [selenized (⭐876)](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
 *   [motaz-shokry/gruvbox.nvim](https://gitlab.com/motaz-shokry/gruvbox.nvim) - ***`[TS][L/D][Lua]`*** A new gruvbox theme with a different background color for the hard variant, and comes with 4 variants.
 *   [pebeto/dookie.nvim (⭐9)](https://github.com/pebeto/dookie.nvim) - ***`[TS][Lua]`*** A color scheme inspired by Plan9's acme editor.
 *   [metalelf0/jellybeans-nvim (⭐122)](https://github.com/metalelf0/jellybeans-nvim) - ***`[TS][Lua]`*** A port of jellybeans colorscheme.
@@ -946,7 +946,7 @@ then it is not supported:
 
 ## Media
 
-*   [melMass/echo.nvim (⭐11)](https://github.com/melMass/echo.nvim) - Seamless sound integration for your editing workflow.
+*   [melMass/echo.nvim (⭐13)](https://github.com/melMass/echo.nvim) - Seamless sound integration for your editing workflow.
 *   [\~elisoli/nekovim](https://git.sr.ht/~elisoli/nekovim) - Flexible Discord rich presence.
 *   [edluffy/hologram.nvim (⭐1.4k)](https://github.com/edluffy/hologram.nvim) - A cross platform terminal image viewer. Works on macOS and Linux.
 *   [HakonHarnes/img-clip.nvim (⭐835)](https://github.com/HakonHarnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
@@ -998,7 +998,7 @@ then it is not supported:
 *   [athar-qadri/scratchpad.nvim (⭐12)](https://github.com/athar-qadri/scratchpad.nvim) - Effortlessly manage scratchpads within your favorite editor.
 *   [echaya/neowiki.nvim (⭐113)](https://github.com/echaya/neowiki.nvim) - The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD).
 *   [happyeric77/joplin.nvim (⭐5)](https://github.com/happyeric77/joplin.nvim) - Joplin notes utilities: tree browser, search, open, and Telescope integration.
-*   [ymich9963/mdnotes.nvim (⭐3)](https://github.com/ymich9963/mdnotes.nvim) - Simple and improved Markdown note taking.
+*   [ymich9963/mdnotes.nvim (⭐4)](https://github.com/ymich9963/mdnotes.nvim) - Simple and improved Markdown note taking.
 *   [nbeversl/urtext\_neovim (⭐1)](https://github.com/nbeversl/urtext_neovim) - An implementation of Urtext.
 *   [losch/ztl](https://codeberg.org/losch/ztl) - A fast static note generator in a single binary with everything built-in.
 
@@ -1012,7 +1012,7 @@ then it is not supported:
 
 *   [necrom4/calcium.nvim (⭐22)](https://github.com/necrom4/calcium.nvim) - A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support.
 *   [necrom4/convy.nvim (⭐17)](https://github.com/necrom4/convy.nvim) - Easily convert strings between various formats.
-*   [gisketch/triforce.nvim (⭐207)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
+*   [gisketch/triforce.nvim (⭐215)](https://github.com/gisketch/triforce.nvim) - Gamified stat tracker with XP, levels, achievements, and activity heatmaps for your coding sessions with lualine integration.
 *   [gaborvecsei/usage-tracker.nvim (⭐129)](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
 *   [mateuszwieloch/automkdir.nvim (⭐30)](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
 *   [jghauser/mkdir.nvim (⭐233)](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
@@ -1071,7 +1071,7 @@ then it is not supported:
 *   [ariel-frischer/bmessages.nvim (⭐58)](https://github.com/ariel-frischer/bmessages.nvim) - Replace the default :messages window with a configurable, auto-updating buffer.
 *   [backdround/tabscope.nvim (⭐56)](https://github.com/backdround/tabscope.nvim) - Make tab-local buffers.
 *   [linrongbin16/gentags.nvim (⭐23)](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
-*   [mcauley-penney/visual-whitespace.nvim (⭐406)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
+*   [mcauley-penney/visual-whitespace.nvim (⭐413)](https://github.com/mcauley-penney/visual-whitespace.nvim) - See whitespace characters in Visual selections, like VSCode.
 *   [Zeioth/distroupdate.nvim (⭐10)](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the Git repository of your config.
 *   [SUSTech-data/neopyter (⭐147)](https://github.com/SUSTech-data/neopyter) - Edit in Neovim and preview/run in Jupyter Lab.
 *   [terje/simctl.nvim (⭐39)](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
@@ -1105,18 +1105,19 @@ then it is not supported:
 *   [piersolenski/brewfile.nvim (⭐18)](https://github.com/piersolenski/brewfile.nvim) - Manage your [Homebrew](https://brew.sh/) [Brewfile](https://docs.brew.sh/Brew-Bundle-and-Brewfile).
 *   [ravsii/timers.nvim (⭐13)](https://github.com/ravsii/timers.nvim) - Timer manager, a clean Lua API, supporting multiple timers, persistence, UI, and plugin integrations.
 *   [francescarpi/buffon.nvim (⭐29)](https://github.com/francescarpi/buffon.nvim) - Buffers navigation, reorganize and close.
-*   [ahkohd/buffer-sticks.nvim (⭐67)](https://github.com/ahkohd/buffer-sticks.nvim) - Cosmetic buffers indicator & picker.
+*   [ahkohd/buffer-sticks.nvim (⭐69)](https://github.com/ahkohd/buffer-sticks.nvim) - Cosmetic buffers indicator & picker.
 *   [gpanders/nvim-moonwalk (⭐77)](https://github.com/gpanders/nvim-moonwalk) - Use any language that compiles to Lua anywhere in your Neovim configuration.
 *   [markgandolfo/lightswitch.nvim (⭐22)](https://github.com/markgandolfo/lightswitch.nvim) - Toggle various options using the `nui.nvim` library.
 *   [johannww/tts.nvim (⭐16)](https://github.com/johannww/tts.nvim) - Text to speech tool based on the Microsoft Edge online services.
 *   [doctorfree/cheatsheet.nvim (⭐65)](https://github.com/doctorfree/cheatsheet.nvim) - Searchable cheatsheet.
 *   [gaborvecsei/cryptoprice.nvim (⭐22)](https://github.com/gaborvecsei/cryptoprice.nvim) - Check the price of the defined cryptocurrencies.
 *   [nxhung2304/lastplace.nvim (⭐21)](https://github.com/nxhung2304/lastplace.nvim) - Intelligently restore your cursor position when reopening files.
-*   [wsdjeg/mru.nvim (⭐7)](https://github.com/wsdjeg/mru.nvim) - Manage and display your Most Recently Used (MRU) files.
+*   [wsdjeg/mru.nvim (⭐8)](https://github.com/wsdjeg/mru.nvim) - Manage and display your Most Recently Used (MRU) files.
 *   [gruvw/strudel.nvim (⭐337)](https://github.com/gruvw/strudel.nvim) - Live coding controller for [strudel](https://strudel.cc).
 *   [wsdjeg/ctags.nvim (⭐7)](https://github.com/wsdjeg/ctags.nvim) - Generate tags files and update tags option automatically.
-*   [QuentinGruber/pomodoro.nvim (⭐45)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
-*   [leo-alvarenga/quoth.nvim (⭐3)](https://github.com/leo-alvarenga/quoth.nvim) - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
+*   [QuentinGruber/pomodoro.nvim (⭐46)](https://github.com/QuentinGruber/pomodoro.nvim) - Use the Pomodoro Technique with built-in session tracking and break reminders.
+*   [leo-alvarenga/quoth.nvim (⭐5)](https://github.com/leo-alvarenga/quoth.nvim) - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
+*   [stikypiston/cheaty.nvim (⭐5)](https://github.com/stikypiston/cheaty.nvim) - A simple, configurable cheatsheet.
 
 ### CSV Files
 
@@ -1307,9 +1308,9 @@ then it is not supported:
 *   [2KAbhishek/utils.nvim (⭐10)](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 *   [YaroSpace/lua-console.nvim (⭐85)](https://github.com/YaroSpace/lua-console.nvim) - A handy scratch pad / REPL / debug console for Neovim Lua development.
 *   [DrKJeff16/wezterm-types (⭐142)](https://github.com/DrKJeff16/wezterm-types) - WezTerm config type annotations for Lua Language Server.
-*   [chrisgve/databox.nvim (⭐12)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐20k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
-*   [BirdeeHub/lze (⭐89)](https://github.com/BirdeeHub/lze) - A lazy-loading library for Neovim plugins.
-*   [lumen-oss/lz.n (⭐228)](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for Neovim plugins.
+*   [chrisgve/databox.nvim (⭐11)](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age (⭐20k)](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
+*   [BirdeeHub/lze (⭐94)](https://github.com/BirdeeHub/lze) - A lazy-loading library for Neovim plugins.
+*   [lumen-oss/lz.n (⭐232)](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for Neovim plugins.
 
 <!--lint disable double-link -->
 
@@ -1379,7 +1380,7 @@ then it is not supported:
 *   [404pilo/aicommits.nvim (⭐10)](https://github.com/404pilo/aicommits.nvim) - Generate conventional commit messages using AI.
 *   [wsdjeg/git.nvim (⭐7)](https://github.com/wsdjeg/git.nvim) - An asynchronous Git command wrapper plugin, using `:Git` command instead of `:!git`.
 *   [Mauritz8/gitstatus.nvim (⭐9)](https://github.com/Mauritz8/gitstatus.nvim) - Interactive Git status window with support for staging, unstaging, and committing files.
-*   [esmuellert/vscode-diff.nvim (⭐585)](https://github.com/esmuellert/vscode-diff.nvim) - VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
+*   [esmuellert/vscode-diff.nvim (⭐829)](https://github.com/esmuellert/vscode-diff.nvim) - VSCode-style side-by-side diff with two-tier highlighting (line + character level) using VSCode's algorithm implemented in C.
 *   [ajatdarojat45/commitmate.nvim (⭐2)](https://github.com/ajatdarojat45/commitmate.nvim) - An AI-assisted commit message generator following common commit conventions.
 
 ### GitHub
@@ -1506,7 +1507,7 @@ then it is not supported:
 
 ## Editing Support
 
-*   [qwavies/smart-backspace.nvim (⭐20)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
+*   [qwavies/smart-backspace.nvim (⭐21)](https://github.com/qwavies/smart-backspace.nvim) - Context-aware backspace which handles pairs, whitespace and indentation.
 *   [TheLazyCat00/replace-nvim (⭐1)](https://github.com/TheLazyCat00/replace-nvim) - Replace part of your code with the contents of the `+` register using textobjects.
 *   [wurli/split.nvim (⭐34)](https://github.com/wurli/split.nvim) - Provides a mapping to split text by delimiter, giving an inverse of the native J command.
 *   [csessh/stopinsert.nvim (⭐33)](https://github.com/csessh/stopinsert.nvim) - Automatically exit Insert mode after inactivity.
@@ -1626,7 +1627,7 @@ then it is not supported:
 
 ### Indent
 
-*   [saghen/blink.indent (⭐152)](https://github.com/saghen/blink.indent) - Performant indent guides with scope on every keystroke.
+*   [saghen/blink.indent (⭐169)](https://github.com/saghen/blink.indent) - Performant indent guides with scope on every keystroke.
 *   [nvimdev/indentmini.nvim (⭐271)](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin by using the `nvim_set_decoration_provide` API function.
 *   [lukas-reineke/indent-blankline.nvim (⭐4.8k)](https://github.com/lukas-reineke/indent-blankline.nvim) - IndentLine replacement in Lua with more features and Tree-sitter support.
 *   [LucasTavaresA/simpleIndentGuides.nvim (⭐10)](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) - Indentation guides using the built-in variables.
@@ -1746,7 +1747,7 @@ then it is not supported:
 *   [jim-fx/sudoku.nvim (⭐80)](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
 *   [csessh/aoc.vim (⭐7)](https://github.com/csessh/aoc.nvim) - Simple little elf who fetches Advent of Code puzzle input for you.
 *   [seandewar/actually-doom.nvim (⭐125)](https://github.com/seandewar/actually-doom.nvim) - Editing text is boring; play DOOM instead!.
-*   [piersolenski/skifree.nvim (⭐5)](https://github.com/piersolenski/skifree.nvim) - Play the Windows 3.1 SkiFree game.
+*   [piersolenski/skifree.nvim (⭐14)](https://github.com/piersolenski/skifree.nvim) - Play the Windows 3.1 SkiFree game.
 
 ### Competitive Programming
 

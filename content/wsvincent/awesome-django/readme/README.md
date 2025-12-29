@@ -241,6 +241,7 @@ or buying <a rel="sponsored" href="https://django.threadless.com/">official merc
 
 ### Full-stack frameworks
 
+*   [Django LiveView (⭐139)](https://github.com/Django-LiveView/liveview) - Framework for creating dynamic, reactive interfaces server-side with Django templates. Real-time updates via WebSocket with decorator-based handlers.
 *   [Django-Bridge (⭐262)](https://github.com/kaedroho/django-bridge) - The simple way to build React frontends for Django applications.
 *   [ReactPy (⭐8.1k)](https://github.com/reactive-python/reactpy) - It's React, but in Python. Insert dynamically rendered Python into Django templates using the [ReactPy-Django module (⭐354)](https://github.com/reactive-python/reactpy-django).
 *   [Reactor (⭐638)](https://github.com/edelvalle/reactor/) - Phoenix LiveView, but for Django.
@@ -586,8 +587,8 @@ For a complete listing of in-print books, check out [DjangoBook.com](https://dja
 *   [Flagsmith (⭐6.1k)](https://github.com/Flagsmith/flagsmith) - Open-source Feature Flagging, Remote Config, and AB testing.
 *   [OpenContracts (⭐1.1k)](https://github.com/Open-Source-Legal/OpenContracts) - Enterprise-grade document analytics platform that combines automated PDF parsing, vector embeddings, and LLM integration.
 *   [Baserow](https://gitlab.com/baserow/baserow) - Open source no-code database and Airtable alternative built with Django and Vue.js.
-*   [Django CRM Admin (⭐455)](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
-*   [linkding (⭐9.7k)](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
+*   [Django CRM Admin (⭐466)](https://github.com/DjangoCRM/django-crm) - Open source Python CRM built entirely on Django Admin Site.
+*   [linkding (⭐9.8k)](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed to be minimal, fast, and easy to set up using Docker.
 *   [pythonic-news (⭐544)](https://github.com/sebst/pythonic-news) - Hacker News clone.
 
 ## Django REST Framework
