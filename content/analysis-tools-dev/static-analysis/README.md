@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/analysis-tools-dev/static-analysis/week/README.md) / [Overview](/content/analysis-tools-dev/static-analysis/readme/README.md) ]
 
+## [Dec 29, 2025](/content/2025/12/29/README.md)
+
+### Programming Languages / [Other](#other-1)
+
+*   [gocyclo (⭐1.5k)](https://github.com/fzipp/gocyclo) — Calculate cyclomatic complexities of functions in Go source code.
+
 ## [Dec 27, 2025](/content/2025/12/27/README.md)
 
 ### Other / [Other](#other-1)
@@ -168,7 +174,6 @@
 *   **dingo-hunter** :warning: — Static analyser for finding deadlocks in Go.
 *   **dupl** :warning: — Reports potentially duplicated code.
 *   **goast** :warning: — Go AST (Abstract Syntax Tree) based static analysis tool with Rego.
-*   **gocyclo** :warning: — Calculate cyclomatic complexities of functions in Go source code.
 *   **interfacer** :warning: — Suggest narrower interfaces that can be used.
 *   **lll** :warning: — Report long lines.
 *   **maligned** :warning: — Detect structs that would take less memory if their fields were sorted.

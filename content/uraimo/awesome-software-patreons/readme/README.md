@@ -2,7 +2,7 @@
 
 A curated list of awesome programmers and software projects you can support!
 
-[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 502 · 🏷️ Miscellaneous
+[🏠 Home](/README.md) · [🔥 Feed](https://www.trackawesomelist.com/uraimo/awesome-software-patreons/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 uraimo/awesome-software-patreons](https://github.com/uraimo/awesome-software-patreons) · ⭐ 520 · 🏷️ Miscellaneous
 
 [ [Daily](/content/uraimo/awesome-software-patreons/README.md) / [Weekly](/content/uraimo/awesome-software-patreons/week/README.md) / Overview ]
 
@@ -92,6 +92,7 @@ A tangible way to give back to the open source community!
 *   [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
 *   [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - Wiki platform built with Node.js.
 *   [WireGuard](https://www.patreon.com/zx2c4), [#2](https://github.com/sponsors/zx2c4) - Next generation secure network tunnel.
+*   [Wireshark](https://wiresharkfoundation.org/donate/) - Helping as many people as possible understand their networks as much as possible.
 *   [Xfce](https://opencollective.com/xfce) [#2](https://opencollective.com/xfce-eu) - Desktop environment for UNIX-like operating systems.
 *   [Zig](https://www.patreon.com/andrewrk) [#2](https://github.com/sponsors/ziglang) - System programming language which prioritizes robustness, optimality, and clarity.
 *   [Zrythm](https://liberapay.com/Zrythm) - A highly automated and intuitive digital audio workstation.
@@ -121,7 +122,7 @@ A tangible way to give back to the open source community!
 *   [ApexCharts](https://opencollective.com/apexchartsjs) - JavaScript charts library.
 *   [Asset-Importer-Lib](https://www.patreon.com/assimp) -  Loads 40+ 3D file formats into one unified and clean data structure for game-developers.
 *   [Babel](https://www.patreon.com/henryzhu) - JavaScript compiler.
-*   [Dear ImGui (⭐65k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
+*   [Dear ImGui (⭐70k)](https://github.com/ocornut/imgui/wiki/Sponsors) - Immediate Mode Graphical User interface for C++.
 *   [Hapi.js](https://opencollective.com/hapijs) - Node.js framework.
 *   [HaxeUI](https://www.patreon.com/haxeui) - User interface toolkit.
 *   [Iced](https://github.com/sponsors/hecrj), [#2](https://ko-fi.com/hecrj_) - A cross-platform GUI library for Rust, inspired by Elm.
@@ -338,7 +339,7 @@ A tangible way to give back to the open source community!
 
 ## Contributing
 
-Please take a quick look at the [contribution guidelines (⭐502)](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors (⭐502)](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
+Please take a quick look at the [contribution guidelines (⭐520)](https://github.com/uraimo/awesome-software-patreons/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors (⭐520)](https://github.com/uraimo/awesome-software-patreons/graphs/contributors); you rock!
 
 ## License
 

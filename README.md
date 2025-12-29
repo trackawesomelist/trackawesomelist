@@ -36,6 +36,24 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [Django LiveView (⭐139)](https://github.com/Django-LiveView/liveview) - Framework for creating dynamic, reactive interfaces server-side with Django templates. Real-time updates via WebSocket with decorator-based handlers.
 
+#### [4. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+
+##### Programming Languages / [Other](#other-1)
+
+*   [gocyclo (⭐1.5k)](https://github.com/fzipp/gocyclo) — Calculate cyclomatic complexities of functions in Go source code.
+
+#### [5. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md)
+
+##### Open Source Projects
+
+*   [Wireshark](https://wiresharkfoundation.org/donate/) - Helping as many people as possible understand their networks as much as possible.
+
+#### [6. Awesome Cpp](/content/fffaraz/awesome-cpp/README.md)
+
+##### Scripting
+
+*   [MicroQuickJS (⭐4.7k)](https://github.com/bellard/mquickjs) - MicroQuickJS (aka. MQuickJS) is a JavaScript engine targeted at embedded systems. \[MIT]
+
 ### [Dec 28, 2025](/content/2025/12/28/README.md)
 
 
@@ -92,51 +110,45 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 ##### Design & Graphics / Image Tools
 
-*   [MochiDiffusion/MochiDiffusion (⭐7.8k)](https://github.com/MochiDiffusion/MochiDiffusion) — Run Stable Diffusion natively on Mac ☆`7,825`
+*   [MochiDiffusion/MochiDiffusion (⭐7.8k)](https://github.com/MochiDiffusion/MochiDiffusion) — Run Stable Diffusion natively on Mac ☆`7,826`
 
 ##### Developer Tools / Developer Utilities
 
 *   [intitni/CopilotForXcode (⭐8.3k)](https://github.com/intitni/CopilotForXcode) — GitHub Copilot and ChatGPT for Xcode ☆`8,251`
-*   [twostraws/ControlRoom (⭐6k)](https://github.com/twostraws/ControlRoom) — Control Xcode Simulator from macOS app ☆`6,022`
+*   [twostraws/ControlRoom (⭐6k)](https://github.com/twostraws/ControlRoom) — Control Xcode Simulator from macOS app ☆`6,025`
 *   [okwasniewski/MiniSim (⭐2.2k)](https://github.com/okwasniewski/MiniSim) — Menu bar app for iOS and Android simulators ☆`2,177`
 
 ##### Developer Tools / Virtualization
 
-*   [insidegui/VirtualBuddy (⭐7k)](https://github.com/insidegui/VirtualBuddy) — macOS VM GUI for Apple Silicon ☆`7,004`
+*   [insidegui/VirtualBuddy (⭐7k)](https://github.com/insidegui/VirtualBuddy) — macOS VM GUI for Apple Silicon ☆`7,009`
 
 ##### Reading & Writing / Note-taking
 
-*   [tw93/MiaoYan (⭐7.2k)](https://github.com/tw93/MiaoYan) — Lightweight Markdown editor ☆`7,221`
+*   [tw93/MiaoYan (⭐7.2k)](https://github.com/tw93/MiaoYan) — Lightweight Markdown editor ☆`7,229`
 
 ##### Security / System Security
 
-*   [seemoo-lab/openhaystack (⭐12k)](https://github.com/seemoo-lab/openhaystack) — Build your own AirTags via Find My network ☆`12,436`
+*   [seemoo-lab/openhaystack (⭐12k)](https://github.com/seemoo-lab/openhaystack) — Build your own AirTags via Find My network ☆`12,446`
 
 ##### System Tools / Menu Bar
 
-*   [macmade/Hot (⭐2.8k)](https://github.com/macmade/Hot) — CPU thermal throttling monitor in menu bar ☆`2,839`
+*   [macmade/Hot (⭐2.8k)](https://github.com/macmade/Hot) — CPU thermal throttling monitor in menu bar ☆`2,844`
 
 ##### System Tools / Package Managers
 
-*   [mas-cli/mas (⭐12k)](https://github.com/mas-cli/mas) — Mac App Store command-line interface ☆`11,876`
+*   [mas-cli/mas (⭐12k)](https://github.com/mas-cli/mas) — Mac App Store command-line interface ☆`11,880`
 
 ### [Dec 27, 2025](/content/2025/12/27/README.md)
 
 
 
-#### [1. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
-
-##### Other / [Other](#other-1)
-
-*   [Code Pathfinder](https://codepathfinder.dev) — An open-source security suite aiming to combine structural code analysis with  AI-powered vulnerability detection. Built for advanced structural search, derive  insights, find vulnerabilities in code.
-
-#### [2. Awesome D](/content/dlang-community/awesome-d/README.md)
+#### [1. Awesome D](/content/dlang-community/awesome-d/README.md)
 
 ##### Testing Frameworks
 
 *   [fluent-asserts (⭐46)](https://github.com/gedaiu/fluent-asserts) - Fluent assertion framework with expressive syntax and detailed error messages.
 
-#### [3. Awesome Zig](/content/zigcc/awesome-zig/README.md)
+#### [2. Awesome Zig](/content/zigcc/awesome-zig/README.md)
 
 ##### Tools / Text Editors
 
@@ -150,25 +162,25 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [tree-sitter/zig-tree-sitter (⭐73)](https://github.com/tree-sitter/zig-tree-sitter) : Zig bindings to the [Tree-sitter](https://tree-sitter.github.io/zig-tree-sitter/) parsing library.
 
-#### [4. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
+#### [3. Awesome Testing](/content/TheJambo/awesome-testing/README.md)
 
 ##### Software / UI & End-to-End Testing
 
 *   [DeviceLab](https://devicelab.dev) - Private device lab infrastructure for mobile testing. Connect your own iOS/Android devices and run Appium, Maestro, or XCUITest remotely via WebRTC. Zero-trust architecture keeps test data on your network.
 
-#### [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
+#### [4. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/README.md)
 
 ##### Domain Specific Language / Declarative DSL Applications
 
 *   [VMC: A Grammar for Visualizing Statistical Model Checks](https://ieeexplore.ieee.org/abstract/document/10700937) - ***IEEE Transactions on Visualization and Computer Graphics***, 2024. \[[All Versions](https://scholar.google.com/scholar?cluster=884768102185861577)]. Visualizations play a critical role in validating and improving statistical models. However, the design space of model check visualizations is not well understood, making it difficult for authors to explore and specify effective graphical model checks. VMC defines a model check visualization using four components: (1) samples of distributions of checkable quantities generated from the model, including predictive distributions for new data and distributions of model parameters; (2) transformations on observed data to facilitate comparison; (3) visual representations of distributions; and (4) layouts to facilitate comparing model samples and observed data. This work contributes an implementation of VMC as an R package. The authors validate VMC by reproducing a set of canonical model check examples, and show how using VMC to generate model checks reduces the edit distance between visualizations relative to existing visualization toolkits. The findings of an interview study with three expert modelers who used VMC highlight challenges and opportunities for encouraging exploration of correct, effective model check visualizations.
 
-#### [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+#### [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ##### Libraries / Chrome Extensions
 
 *   :octocat: [Corgi (⭐198)](https://github.com/cardog-ai/corgi) - TypeScript VIN decoder with optimized SQLite database. Fully offline, <1ms decodes, complete NHTSA dataset in 21MB.
 
-#### [7. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
+#### [6. Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md)
 
 ##### Software / Health and Fitness
 
@@ -183,7 +195,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [monetr](https://monetr.app/) - Budgeting application focused on planning for recurring expenses. ([Source Code (⭐505)](https://github.com/monetr/monetr)) `FSL-1.1-MIT` `Docker/K8S`
 
-#### [8. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+#### [7. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ##### Plugin Manager
 
@@ -201,6 +213,12 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 *   [lumen-oss/luarocks-tag-release (⭐53)](https://github.com/lumen-oss/luarocks-tag-release) - A GitHub action that publishes your Neovim plugins to LuaRocks.
 
+#### [8. Static Analysis](/content/analysis-tools-dev/static-analysis/README.md)
+
+##### Other / [Other](#other-1)
+
+*   [Code Pathfinder](https://codepathfinder.dev) — An open-source security suite aiming to combine structural code analysis with  AI-powered vulnerability detection. Built for advanced structural search, derive  insights, find vulnerabilities in code.
+
 ---
 
 - Next: [Dec 26, 2025](&#x2F;content&#x2F;2025&#x2F;12&#x2F;26&#x2F;README.md)
@@ -209,18 +227,18 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 
 1. [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 265K 📝 12&#x2F;28 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 2. [Awesome Mac](/content/jaywcjlove/awesome-mac/README.md) - ([Source ⭐ 97K 📝 12&#x2F;28 ](https://github.com/jaywcjlove/awesome-mac)) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-3. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 116K 📝 12&#x2F;22 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-4. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 74K 📝 12&#x2F;24 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
-5. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 54K 📝 12&#x2F;26 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
-6. [Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/README.md) - ([Source ⭐ 139K 📝 12&#x2F;13 ](https://github.com/f/awesome-chatgpt-prompts)) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-7. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 158K 📝 12&#x2F;09 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
-8. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 20K 📝 12&#x2F;29 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
-9. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 17K 📝 12&#x2F;28 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
-10. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 417K 📝 11&#x2F;24 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
-11. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 18K 📝 12&#x2F;25 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
-12. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 381K 📝 11&#x2F;24 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
-13. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K 📝 12&#x2F;27 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-14. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 68K 📝 12&#x2F;10 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+3. [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 69K 📝 12&#x2F;29 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+4. [Free for Dev](/content/ripienaar/free-for-dev/README.md) - ([Source ⭐ 116K 📝 12&#x2F;22 ](https://github.com/ripienaar/free-for-dev)) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+5. [Awesome Vue](/content/vuejs/awesome-vue/README.md) - ([Source ⭐ 74K 📝 12&#x2F;24 ](https://github.com/vuejs/awesome-vue)) - 🎉 A curated list of awesome things related to Vue.js
+6. [Awesome Rust](/content/rust-unofficial/awesome-rust/README.md) - ([Source ⭐ 54K 📝 12&#x2F;26 ](https://github.com/rust-unofficial/awesome-rust)) - A curated list of Rust code and resources.
+7. [Awesome Chatgpt Prompts](/content/f/awesome-chatgpt-prompts/README.md) - ([Source ⭐ 139K 📝 12&#x2F;13 ](https://github.com/f/awesome-chatgpt-prompts)) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+8. [Awesome Go](/content/avelino/awesome-go/README.md) - ([Source ⭐ 158K 📝 12&#x2F;09 ](https://github.com/avelino/awesome-go)) - A curated list of awesome Go frameworks, libraries and software
+9. [Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md) - ([Source ⭐ 20K 📝 12&#x2F;29 ](https://github.com/rockerBOO/awesome-neovim)) - Collections of awesome neovim plugins.
+10. [Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md) - ([Source ⭐ 17K 📝 12&#x2F;28 ](https://github.com/unixorn/awesome-zsh-plugins)) - A collection of ZSH frameworks, plugins, themes and tutorials.
+11. [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K 📝 12&#x2F;29 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+12. [Awesome List](/content/sindresorhus/awesome/README.md) - ([Source ⭐ 417K 📝 11&#x2F;24 ](https://github.com/sindresorhus/awesome)) - 😎 Awesome lists about all kinds of interesting topics
+13. [Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md) - ([Source ⭐ 18K 📝 12&#x2F;25 ](https://github.com/agarrharr/awesome-cli-apps)) - 🖥 📊 🕹 🛠 A curated list of command line apps
+14. [Public Apis](/content/public-apis/public-apis/README.md) - ([Source ⭐ 381K 📝 11&#x2F;24 ](https://github.com/public-apis/public-apis)) - A collective list of free APIs
 15. [Awesome Django](/content/wsvincent/awesome-django/README.md) - ([Source ⭐ 11K 📝 12&#x2F;29 ](https://github.com/wsvincent/awesome-django)) - A curated list of awesome things related to Django
 16. [Awesome React](/content/enaqx/awesome-react/README.md) - ([Source ⭐ 71K 📝 12&#x2F;09 ](https://github.com/enaqx/awesome-react)) - A collection of awesome things regarding React ecosystem
 17. [Awesome Python](/content/vinta/awesome-python/README.md) - ([Source ⭐ 271K 📝 11&#x2F;24 ](https://github.com/vinta/awesome-python)) - An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -380,7 +398,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Machine Learning Tutorials](/content/ujjwalkarn/Machine-Learning-Tutorials/README.md) - ([Source ⭐ 12K, 📝 21&#x2F;10&#x2F;01 ](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)) - machine learning and deep learning tutorials, articles and other resources 
 - [Machine Learning with Ruby](/content/arbox/machine-learning-with-ruby/README.md) - ([Source ⭐ 2.1K, 📝 24&#x2F;12&#x2F;27 ](https://github.com/arbox/machine-learning-with-ruby)) - Curated list: Resources for machine learning in Ruby
 - [Nlp with Ruby](/content/arbox/nlp-with-ruby/README.md) - ([Source ⭐ 967, 📝 22&#x2F;08&#x2F;27 ](https://github.com/arbox/nlp-with-ruby)) - Curated List: Practical Natural Language Processing done in Ruby
-- [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K, 📝 12&#x2F;27 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+- [Static Analysis](/content/analysis-tools-dev/static-analysis/README.md) - ([Source ⭐ 14K, 📝 12&#x2F;29 ](https://github.com/analysis-tools-dev/static-analysis)) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
 ### Content Management Systems
 
@@ -787,7 +805,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Selfhosted](/content/awesome-selfhosted/awesome-selfhosted/README.md) - ([Source ⭐ 265K, 📝 12&#x2F;28 ](https://github.com/awesome-selfhosted/awesome-selfhosted)) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Awesome Sketch](/content/diessica/awesome-sketch/README.md) - ([Source ⭐ 730, 📝 17&#x2F;10&#x2F;03 ](https://github.com/diessica/awesome-sketch)) - :books: delightful stuff for SketchApp students.
 - [Awesome Software Architecture](/content/simskij/awesome-software-architecture/README.md) - ([Source ⭐ 1.8K, 📝 23&#x2F;05&#x2F;03 ](https://github.com/simskij/awesome-software-architecture)) - A curated list of resources on software architecture
-- [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 502, 📝 04&#x2F;23 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!
+- [Awesome Software Patreons](/content/uraimo/awesome-software-patreons/README.md) - ([Source ⭐ 520, 📝 12&#x2F;29 ](https://github.com/uraimo/awesome-software-patreons)) - A curated list of awesome programmers and software projects you can support!
 - [Awesome Speakers](/content/karlhorky/awesome-speakers/README.md) - ([Source ⭐ 757, 📝 23&#x2F;08&#x2F;24 ](https://github.com/karlhorky/awesome-speakers)) - Awesome speakers in the programming and design communities
 - [Awesome Sre](/content/dastergon/awesome-sre/README.md) - ([Source ⭐ 9.1K, 📝 22&#x2F;09&#x2F;02 ](https://github.com/dastergon/awesome-sre)) - A curated list of Site Reliability and Production Engineering resources.
 - [Awesome Stacks](/content/stackshareio/awesome-stacks/README.md) - ([Source ⭐ 3.3K, 📝 24&#x2F;03&#x2F;08 ](https://github.com/stackshareio/awesome-stacks)) - A curated list of tech stacks for building different applications & features
@@ -914,7 +932,7 @@ We track over 500 awesome list updates, and you can also subscribe to daily or w
 - [Awesome Common Lisp Learning](/content/GustavBertram/awesome-common-lisp-learning/README.md) - ([Source ⭐ 175, 📝 23&#x2F;10&#x2F;17 ](https://github.com/GustavBertram/awesome-common-lisp-learning)) - A curated list of awesome Common Lisp learning resources
 - [Awesome Composer](/content/jakoch/awesome-composer/README.md) - ([Source ⭐ 880, 📝 07&#x2F;16 ](https://github.com/jakoch/awesome-composer)) -  :sunglasses: A curated awesome list for Composer, Packagist, Satis, Plugins, Scripts, Composer related resources, tutorials.
 - [Awesome Coq](/content/coq-community/awesome-coq/README.md) - ([Source ⭐ 364, 📝 11&#x2F;24 ](https://github.com/coq-community/awesome-coq)) - A curated list of awesome Coq libraries, plugins, tools, verification projects, and resources [maintainer=@palmskog]
-- [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 68K, 📝 12&#x2F;10 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [Awesome Cpp](/content/fffaraz/awesome-cpp/README.md) - ([Source ⭐ 69K, 📝 12&#x2F;29 ](https://github.com/fffaraz/awesome-cpp)) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [Awesome Crystal](/content/veelenga/awesome-crystal/README.md) - ([Source ⭐ 3.5K, 📝 11&#x2F;24 ](https://github.com/veelenga/awesome-crystal)) - :gem: A collection of awesome Crystal libraries, tools, frameworks and software
 - [Awesome D](/content/dlang-community/awesome-d/README.md) - ([Source ⭐ 736, 📝 12&#x2F;27 ](https://github.com/dlang-community/awesome-d)) -   A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.
 - [Awesome Dart](/content/yissachar/awesome-dart/README.md) - ([Source ⭐ 2.2K, 📝 23&#x2F;09&#x2F;05 ](https://github.com/yissachar/awesome-dart)) - A curated list of awesome Dart frameworks, libraries, and software
