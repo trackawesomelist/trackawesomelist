@@ -6,6 +6,12 @@
 
 [ Daily / [Weekly](/content/vuejs/awesome-vue/week/README.md) / [Overview](/content/vuejs/awesome-vue/readme/README.md) ]
 
+## [Dec 30, 2025](/content/2025/12/30/README.md)
+
+### Components & Libraries / UI Utilities
+
+*   [@nabaraj/vue-pagination (⭐0)](https://github.com/nabaraj/vue-pagination-npm-package) - A lightweight Vue 3 pagination component with TypeScript types and customizable slots.
+
 ## [Dec 24, 2025](/content/2025/12/24/README.md)
 
 ### Components & Libraries / UI Components

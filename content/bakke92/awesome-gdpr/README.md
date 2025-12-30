@@ -2,9 +2,15 @@
 
 Protection of natural persons with regard to the processing of personal data and on the free movement of such data.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bakke92/awesome-gdpr](https://github.com/bakke92/awesome-gdpr) · ⭐ 202 · 🏷️ Security
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/bakke92/awesome-gdpr/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung) · [😺 bakke92/awesome-gdpr](https://github.com/oppoverbakke/awesome-gdpr) · ⭐ 240 · 🏷️ Security
 
 [ Daily / [Weekly](/content/bakke92/awesome-gdpr/week/README.md) / [Overview](/content/bakke92/awesome-gdpr/readme/README.md) ]
+
+## [Dec 30, 2025](/content/2025/12/30/README.md)
+
+### Privacy by Design - Guides for developers (art. 25)
+
+*   [dstack (⭐410)](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
 
 ## [Jul 07, 2024](/content/2024/07/07/README.md)
 
@@ -58,7 +64,7 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Rights of the data subject (art. 12 - 23)
 
-*   [Open source privacy notice template (Juro) (⭐172)](https://github.com/juro-privacy/free-privacy-notice)
+*   [Open source privacy notice template (Juro) (⭐179)](https://github.com/juro-privacy/free-privacy-notice)
 
 ## [Feb 11, 2022](/content/2022/02/11/README.md)
 
@@ -70,7 +76,7 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Related
 
-*   [Awesome: Privacy (⭐12k)](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
+*   [Awesome: Privacy (⭐18k)](https://github.com/pluja/awesome-privacy#readme) - List of free, open source and privacy respecting services and alternatives to privative services.
 
 ## [Apr 05, 2021](/content/2021/04/05/README.md)
 
@@ -100,17 +106,17 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Related
 
-*   [Developers Guide to HIPAA Compliance (⭐1.6k)](https://github.com/truevault/hipaa-compliance-developers-guide)
+*   [Developers Guide to HIPAA Compliance (⭐1.7k)](https://github.com/truevault/hipaa-compliance-developers-guide)
 
 ## [Feb 24, 2021](/content/2021/02/24/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
-*   [CNIL - GDPR Developer Guide (⭐319)](https://github.com/LINCnil/GDPR-Developer-Guide)
+*   [CNIL - GDPR Developer Guide (⭐350)](https://github.com/LINCnil/GDPR-Developer-Guide)
 
 ### Tools
 
-*   [Website Evidence Collector (WEC) (⭐425)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
+*   [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
 
 ### Publications
 
@@ -155,7 +161,7 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Related
 
-*   [Awesome: Humane Tech (⭐3k)](https://github.com/humanetech-community/awesome-humane-tech#readme)
+*   [Awesome: Humane Tech (⭐3.1k)](https://github.com/humanetech-community/awesome-humane-tech#readme)
 
 ## [Sep 23, 2019](/content/2019/09/23/README.md)
 
@@ -173,7 +179,7 @@ Protection of natural persons with regard to the processing of personal data and
 *   [ENISA: Recommendations for a methodology of the assessment of severity of personal data breaches](https://www.enisa.europa.eu/publications/dbn-severity)
 *   [Google, SRE: Managing Incidents](https://landing.google.com/sre/sre-book/chapters/managing-incidents/)
 *   [Troy Hunt: Data breach disclosure 101](https://www.troyhunt.com/data-breach-disclosure-101-how-to-succeed-after-youve-failed/)
-*   [Awesome Incident Response (⭐7.3k)](https://github.com/meirwah/awesome-incident-response)
+*   [Awesome Incident Response (⭐8.7k)](https://github.com/meirwah/awesome-incident-response)
 *   [GDPR Enforcement Tracker](http://www.enforcementtracker.com/) - Overview of fines and penalties.
 
 ### Data Protection Authorities (art. 51 -59)
@@ -196,5 +202,5 @@ Protection of natural persons with regard to the processing of personal data and
 
 ### Related
 
-*   [Privacy Respecting (⭐1.9k)](https://github.com/nikitavoloboev/privacy-respecting)
-*   [Awesome: Security (⭐310k)](https://github.com/sindresorhus/awesome#security)
+*   [Privacy Respecting (⭐2k)](https://github.com/nikitavoloboev/privacy-respecting)
+*   [Awesome: Security (⭐425k)](https://github.com/sindresorhus/awesome#security)

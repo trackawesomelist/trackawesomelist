@@ -30,6 +30,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 *   [Game dev](#game-dev)
 *   [Communications](#communications)
     *   [Network](#network)
+    *   [Cloud & remote services](#cloud-remote-services)
     *   [Serial port](#serial-port)
     *   [Event bus](#event-bus)
 *   [GUI](#gui)
@@ -39,7 +40,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
     *   [Viewers](#viewers)
     *   [Other GUI](#other-gui)
 *   [Database](#database)
-*   [Cloud Services](#cloud-services)
 *   [Scripting](#scripting)
 *   [Machine Learning](#machine-learning)
 *   [Non-visual Classes/Utils](#non-visual-classesutils)
@@ -269,6 +269,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *   [TurboRaylib (⭐42)](https://github.com/turborium/TurboRaylib). `[Delphi]` `[FPC]` TurboRaylib is a cool and clean [raylib](https://www.raylib.com/) bindings for Object Pascal. Support Windows, Linux, OSX. TurboRaylib have many examples that work in Delphi and Lazarus.
 
+*   [ImGui-Pascal (⭐70)](https://github.com/Coldzer0/ImGui-Pascal). `[Delphi]` `[FPC]` ImGui-Pascal is [ImGui (⭐70k)](https://github.com/ocornut/imgui) binding (crossplatform GUI lib) with the latest version & docking. Support Windows, Linux, OSX.
+
 *   [abmaze (⭐7)](https://github.com/DosWorld/abmaze). `[FPC]` `[TP]`Aldous-Broder algorithm implementation in Pascal for maze generation. Contains few optimizations.
 
 ## Communications
@@ -299,10 +301,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 *   [Delphi IOCP (⭐251)](https://github.com/ymofen/diocp-v5). `[Delphi]` Implements several network classes based on Windows IOCP technology. Socket, HTTP, Ntrip servers and clients.
     // *Quite well documented and good styled code but Chinese only.*
 
-*   [delphi-aws-ses (⭐33)](https://github.com/monde-sistemas/delphi-aws-ses). `[Delphi]` Amazon Simple Email Service (AWS SES) library for Delphi applications.
-
-*   [delphi-slackbot (⭐27)](https://github.com/monde-sistemas/delphi-slackbot). `[Delphi]` Delphi library to send messages on [Slack](https://slack.com) using slackbot.
-
 *   [Kitto (⭐35)](https://github.com/EtheaDev/kitto). `[Delphi]` Allows to create Rich Internet Applications based on a data model that can be mapped onto any database. The client-side part uses ExtJS (through the ExtPascal library) to create a fully AJAX application, allowing you to build standard and advanced data-manipulating forms in a fraction of the time. Kitto is aimed at Delphi developers that need to create web application without delving into the intricacies of HTML, CSS, JavaScript or learning to use a particular library such as ExtJS, yet it allows access to the bare metal if required. Also newer versions [Kitto 2 (⭐96)](https://github.com/EtheaDev/kitto2) and [Kitto 3 (⭐37)](https://github.com/EtheaDev/kitto3) are available.
 
 *   [Daraja Framework (⭐158)](https://github.com/michaelJustin/daraja-framework). `[Delphi]` `[FPC]` Lightweight HTTP server framework for Object Pascal (Delphi 2009+ / Free Pascal 3.0). Implementing RESTful services is supported via the [daraja-restful (⭐25)](https://github.com/michaelJustin/daraja-restful) extension.
@@ -313,21 +311,13 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *   [mORMot](#general-libraries). RESTful ORM and SOA services via interfaces over high performance HTTP server, MVC/MVVM web sites
 
-*   [SDriver (⭐64)](https://github.com/andrea-magni/SDriver). `[Delphi]` Delphi wrapper for [Slack](https://slack.com) API.
-
 *   [Hprose for Delphi/Lazarus (⭐122)](https://github.com/hprose/hprose-delphi). `[Delphi]` `[FPC]` High Performance Remote Object Service Engine. It is a modern, lightweight, cross-language, cross-platform, object-oriented, high performance, remote dynamic communication middleware. It is not only easy to use, but powerful. This project is the implementation of Hprose for Delphi/Lazarus.
-
-*   [TelegaPi (⭐42)](https://github.com/rareMaxim/TelegaPi). `[Delphi]` Library for working with Telegram messenger Bot API in Delphi.
-
-*   [fp-telegram (⭐89)](https://github.com/Al-Muhandis/fp-telegram). `[FPC]` Library for working with Telegram bots API in FreePascal/Lazarus.
 
 *   [DelphiZeroMQ (⭐134)](https://github.com/grijjy/DelphiZeroMQ). `[Delphi]` Delphi implementation of ZeroMQ Majordomo protocol and CZMQ high level binding.
 
 *   [GrijjyFoundation](#general-libraries). IOCP/EPOLL sockets, socket pools, HTTP, HTTP/2, OpenSSL, ProtocolBuffers.
 
 *   [STOMP Client (⭐147)](https://github.com/danieleteti/delphistompclient). `[Delphi]` `[FPC]` STOMP client for Embarcadero Delphi and FreePascal. The project can use INDY (Delphi) or Synapse (Delphi or FreePascal).
-
-*   [delphiXero (⭐16)](https://github.com/littleearth/delphiXERO). `[Delphi]` XERO cloud accounting API for Delphi.
 
 *   [BesaSoap (⭐19)](https://github.com/besasoftware/besasoap). `[Delphi]` The BesaSoap library is designed to help programmers develop faster and more native web service client applications. Represents C# or Java like native class support, nullable data types and custom attributes.
 
@@ -337,7 +327,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *   [Internet Tools](#xmljsonyaml). XPath/XQuery/JSONiq/CSS/HTML; functions to perform HTTP/S requests on Windows/Linux/macOS/Android, an XSLT-inspired webscraping language, and an auto update class.
 
-*   [Delphi Cross Socket (⭐461)](https://github.com/winddriver/Delphi-Cross-Socket/). `[Delphi]` Delphi cross platform socket library (Chinese). Uses different IO models for different platforms: IOCP (Windows), KQUEUE (FreeBSD(macOS, iOS, etc)), EPOLL (Linux(Linux, Android)). Supports TCP, HTTP/HTTPS, WebSocket with SSL/TLS.
+*   [Delphi Cross Socket (⭐461)](https://github.com/winddriver/Delphi-Cross-Socket/). `[Delphi]` `[FPC]` Delphi/FPC cross platform socket library (Chinese). Uses different IO models for different platforms: IOCP (Windows), KQUEUE (FreeBSD(macOS, iOS, etc)), EPOLL (Linux(Linux, Android)). Supports TCP, HTTP/HTTPS, WebSocket with SSL/TLS.
     // *Zero-copy stream architecture for maximum throughput. 10K+ concurrent connections. [English comments fork (⭐17)](https://github.com/bero/Delphi-Cross-Socket)*
 
 *   [ToroKernel (⭐160)](https://github.com/torokernel/torokernel). `[FPC]` This is a library-kernel that allows freepascal applications which are specially ported to run alone in the system. Toro is compiled within the user's application thus resulting in a single binary that can boot on baremetal or as a guest in a modern hypervisor,e.g., hyperv, kvm, qemu, firecraker. ToroKernel addresses the development of microservices by providing a dedicated API.
@@ -349,8 +339,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 *   [Delphi-RabbitMQ (⭐64)](https://github.com/HeZiHang/Delphi-RabbitMQ). `[Delphi]` RabbitMQ driver for Delphi
 
 *   [DelphiGrpc (⭐180)](https://github.com/ultraware/DelphiGrpc). `[Delphi]` Implementation of the realtime and streaming gRPC protocol
-
-*   [Google API for Delphi (⭐139)](https://github.com/googleapi/googleapi). `[Delphi]` Google API for Delphi
 
 *   [Delphi JOSE and JWT Library (⭐492)](https://github.com/paolo-rossi/delphi-jose-jwt). `[Delphi]` Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)
 
@@ -367,11 +355,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 *   [LazWebsockets (⭐120)](https://github.com/Warfley/LazWebsockets). `[FPC]` This provides a small Websocket server and client implementation written for the FPC and Lazarus. It is fully based upon the fcl ssockets unit and therefore independent from any additional dependencies except from the FCL.
 
 *   [NetCom7 (⭐210)](https://github.com/DelphiBuilder/NetCom7). `[Delphi]` This set of components is the fastest possible implementation of socket communications, in any language; this is an extremely optimised code on TCP/IP sockets.
-
-*   [VK API (⭐33)](https://github.com/HemulGM/VK_API). `[Delphi]` Library for working with Vkontakte (Russian social network) API in Delphi. Full API (with Bot samples).
-
-*   [AWS SDK for Dephi (⭐141)](https://github.com/landgraf-dev/aws-sdk-delphi). `[Delphi]` Unofficial AWS (Amazon Web Services) SDK for Delphi.
-    **WARNING! Requires paid libs from TMS**
 
 *   [Voice Communication (⭐14)](https://github.com/terrylao/voice_communication). `[Delphi]` Voice Communicator Components.
     // *Implement RTP, RTSP, SHOUT, SNTP, STUN protocols and multiple audio format endocing/deconding*
@@ -405,14 +388,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *   [RealThinClient SDK (⭐183)](https://github.com/teppicom/RealThinClient-SDK/). `[Delphi]` Flexible and modular framework for building reliable and scalable cross-platform Applications with Delphi, designed for the Web by utilizing HTTP/S with full IPv4 & IPv6 support and built-in multi-threading, extensively stress-tested to ensure the highest stability
 
-*   [Ntfy for Delphi (⭐78)](https://github.com/hazzelnuts/ntfy-for-delphi). `[Delphi]` Friendly library to push instant notifications using ntfy.sh servers in Delphi
-
-*   [DelphiOpenAI (⭐299)](https://github.com/HemulGM/DelphiOpenAI). `[Delphi]` OpenAI GPT-3 API for Delphi
-
-*   [IPInfo API (⭐14)](https://github.com/HemulGM/IPInfo_API). `[Delphi]` Wrapper for IP Info API service
-
-*   [TGBot Mini API (⭐39)](https://github.com/HemulGM/TGBotMini). `[Delphi]` Fast and simple API for creating a Telegram bot
-
 *   [JabberClient (⭐7)](https://github.com/HemulGM/HGMJabberClient). `[Delphi]` Jabber Client. XMPP protocol
 
 *   [libssh2 Delphi (⭐93)](https://github.com/pult/libssh2_delphi). `[Delphi]` `[FPC]` Delphi/Pascal Wrapper around the library libssh2, ssh and sftp protocols
@@ -423,6 +398,42 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 *   [WebSocket.pas (⭐29)](https://github.com/biot2/WebSocket.pas) `[Delphi]` `[FPC]` WebSocket Client & Server Library with pure Object Pascal source code
 
 *   [nats.pas (⭐12)](https://github.com/biot2/nats.pas) `[Delphi]` `[FPC]` An Object Pascal Client for NATS based on libnats-c
+
+*   [Firebase Services for Delphi (⭐208)](https://github.com/SchneiderInfosystems/FB4D) `[Delphi]` Cross-platform (FMX/VCL/Console) library for the following Firebase Services (Google): Firebase RT-DB, Firestore DB, Cloud Storage, VisionML, Firebase Authorization, and Firebase Functions. The library supports all platforms (Windows, Mac, iOS, Android, and Linux).
+
+## Cloud & remote services
+
+*APIs for cloud and other remote services*
+
+*   [delphi-aws-ses (⭐33)](https://github.com/monde-sistemas/delphi-aws-ses). `[Delphi]` Amazon Simple Email Service (AWS SES) library for Delphi applications.
+
+*   [delphi-slackbot (⭐27)](https://github.com/monde-sistemas/delphi-slackbot). `[Delphi]` Delphi library to send messages on [Slack](https://slack.com) using slackbot.
+
+*   [SDriver (⭐64)](https://github.com/andrea-magni/SDriver). `[Delphi]` Delphi wrapper for [Slack](https://slack.com) API.
+
+*   [TelegaPi (⭐42)](https://github.com/rareMaxim/TelegaPi). `[Delphi]` Library for working with Telegram messenger Bot API in Delphi.
+
+*   [fp-telegram (⭐89)](https://github.com/Al-Muhandis/fp-telegram). `[FPC]` Library for working with Telegram bots API in FreePascal/Lazarus.
+
+*   [delphiXero (⭐16)](https://github.com/littleearth/delphiXERO). `[Delphi]` XERO cloud accounting API for Delphi.
+
+*   [Google API for Delphi (⭐139)](https://github.com/googleapi/googleapi). `[Delphi]` Google API for Delphi
+
+*   [VK API (⭐33)](https://github.com/HemulGM/VK_API). `[Delphi]` Library for working with Vkontakte (Russian social network) API in Delphi. Full API (with Bot samples).
+
+*   [AWS SDK for Dephi (⭐141)](https://github.com/landgraf-dev/aws-sdk-delphi). `[Delphi]` Unofficial AWS (Amazon Web Services) SDK for Delphi.
+
+*   [Ntfy for Delphi (⭐78)](https://github.com/hazzelnuts/ntfy-for-delphi). `[Delphi]` Friendly library to push instant notifications using ntfy.sh servers in Delphi
+
+*   [DelphiOpenAI (⭐299)](https://github.com/HemulGM/DelphiOpenAI). `[Delphi]` OpenAI GPT-3 API for Delphi
+
+*   [IPInfo API (⭐14)](https://github.com/HemulGM/IPInfo_API). `[Delphi]` Wrapper for IP Info API service
+
+*   [TGBot Mini API (⭐39)](https://github.com/HemulGM/TGBotMini). `[Delphi]` Fast and simple API for creating a Telegram bot
+
+*   [ImgBB API (⭐5)](https://github.com/HemulGM/ImgBB.API). `[Delphi]` ImgBB.com API Wrapper
+
+*   [OWM API (⭐4)](https://github.com/HemulGM/OWM_API). `[Delphi]` OpenWeatherMap.com API Wrapper
 
 ## Serial port
 
@@ -667,10 +678,6 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *   [Bold for Delphi (⭐0)](https://github.com/bero/BoldForDelphi). `[Delphi]` Model-Driven Architecture (MDA) framework and ORM. Design your domain model in UML and generate Delphi classes and database schemas. Features OCL (Object Constraint Language) for queries and derived attributes, automatic UI synchronization, built-in undo/redo, optimistic locking, and object subscriptions. Persistence via FireDAC, UniDAC or XML, supporting most modern databases. This fork adds Unicode and modern Delphi support. [Official Embarcadero repo (⭐155)](https://github.com/Embarcadero/BoldForDelphi) is for Delphi 7.
 
-## Cloud Services
-
-*   [Firebase Services for Delphi (⭐208)](https://github.com/SchneiderInfosystems/FB4D) `[Delphi]` Cross-platform (FMX/VCL/Console) library for the following Firebase Services (Google): Firebase RT-DB, Firestore DB, Cloud Storage, VisionML, Firebase Authorization, and Firebase Functions. The library supports all platforms (Windows, Mac, iOS, Android, and Linux).
-
 ## Scripting
 
 *Using script engine in your applications*
@@ -704,6 +711,10 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *   [QuickJS-Engine (⭐98)](https://github.com/Coldzer0/QuickJS-Pascal). `[Delphi]` `[FPC]` Delphi and Free Pascal bindings for Bellard's [QuickJS](https://bellard.org/quickjs) JavaScript Engine.
 
+*   [Thorium (⭐10)](https://github.com/horazont/thorium). `[Delphi]` `[FPC]` Powerful embedded scripting language written in FreePascal. It features a pluggable compiler and typing system, and ships with easy and fast import of host classes using RTTI. It also allows to call host methods and functions without the need for wrapper functions, thus saving the developer (that is you) the time to write these.
+
+*   [JvInterpreter (part of Project JEDI VCL) (⭐655)](https://github.com/project-jedi/jvcl). `[Delphi]` `[FPC]` Pascal script interpreter
+
 ## Machine Learning
 
 *Machine learning and neural networks*
@@ -717,6 +728,10 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 *   [CAI Neural API (⭐407)](https://github.com/joaopauloschuler/neural-api). `[FPC]` Pascal-based deep learning neural network API optimized for AVX, AVX2 and AVX512 instruction sets plus OpenCL capable devices including AMD, Intel and NVIDIA. This API has been tested under Windows and Linux.
 
 *   [TensorFlow.Delphi (⭐84)](https://github.com/Pigrecos/TensorFlow.Delphi). `[Delphi]` [TensorFlow](https://tensorflow.org) library binding for Delphi. It aims to implement the complete Tensorflow API in Delphi which allows Pascal developers to develop, train and deploy Machine Learning models with the Pascal Delphi
+
+*   [Ascension (⭐28)](https://github.com/inversed-ru/Ascension). `[Delphi]` `[FPC]` A research programme aimed at the development of a general-purpose global optimization framework. Its core components are intelligent algorithms called metaheuristics, which are applicable to a wide variety of optimization problems.
+
+*   [sherpa-onnx (⭐9.5k)](https://github.com/k2-fsa/sherpa-onnx). `[Delphi]` `[FPC]` Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86\_64 servers, websocket server/client, support 12 programming languages
 
 ## Non-visual Classes/Utils
 
@@ -958,6 +973,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *   [DFF Library](http://www.delphiforfun.org/programs/library/Default.htm). `[Delphi]` `[FPC]` Big Floating Point, Big Integers, Astronomical calcualtions
 
+*   [LMath](https://sourceforge.net/projects/lmath-library) `[FPC]` Provides routines and demo programs for numerical analysis, including mathematical functions, probabilities, matrices, optimization, linear and nonlinear equations, integration, Fast Fourier Transform, random numbers, curve fitting, statistics and graphics. It is entirely written in Pascal and does not depend on external libraries.
+
 ## Command-line
 
 *Libraries for parsing command-line arguments*
@@ -1068,7 +1085,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *Tools that help dealing with OS-specific internals*
 
-*   [GLibWMI](http://sourceforge.net/projects/glibwmi). `[Delphi]` Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo, etc. Allow access WMI Classes: WIN32\_Bios, WIN32\_Printers, WIN32\_DiskDrive.
+*   [GLibWMI (⭐44)](https://github.com/germanestevez/GLibWMI). `[Delphi]` Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo, etc. Allow access WMI Classes: WIN32\_Bios, WIN32\_Printers, WIN32\_DiskDrive.
 
 *   [MemoryMap (⭐167)](https://github.com/AlexanderBagel/ProcessMemoryMap/tree/master/MemoryMap). `[Delphi]` Set of classes to get all the info about a memory of a running process.
 
@@ -1213,6 +1230,8 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 
 *   [IDE-Notifiers (⭐15)](https://github.com/DGH2112/DGH-IDE-Notifiers). RAD Studio IDE plug-in to display notifications of various operations in the IDE as they occur.
 
+*   [C4D-Validate-Components (⭐15)](https://github.com/Code4Delphi/C4D-Validate-Components). `[Delphi]` Utility for automatic validation of Delphi forms. Excellent to be used for both new projects and legacy products. Facilitating form field validations and reducing code complexity. It can be used for both DBWare and non-DBWare components.
+
 ## Plugins for other IDE's
 
 *   [Delphi IDE theme editor / Delphi IDE Colorizer](#rad-studio-ide-pluginswizards). Supports Appmethod, Lazarus and Smart Mobile Studio.
@@ -1299,4 +1318,7 @@ Feel free to suggest other missing nice projects either by comments or pull requ
 *   [DFMJSON (⭐35)](https://github.com/masonwheeler/DFMJSON). `[Delphi]` Library to convert between Delphi's .DFM (or .FMX) format and JSON. It can be used to parse a DFM file into an Abstract Syntax Tree in JSON, which can then be edited and the results turned back to DFM format.
 
 *   [James - The Delphi Project Manager (⭐51)](https://github.com/alefragnani/delphi-james). `[Delphi]` It makes your life easier while switching from one project to another. If you see yourself manually installing components and updating Delphi settings every time you have to switch from one project to another, James may help you.
+
+*   [OpenAPI Client Generator (⭐89)](https://github.com/landgraf-dev/openapi-delphi-generator). `[Delphi]` Generate Delphi client SDKs for any REST API defined with the OpenAPI specification. This generator can read an OpenAPI document (from local file or URL) of a REST API and generate Delphi classes that you can use to invoke such REST API endpoints in a friendly way.
+    // *Open source but requires commercial TMS BIZ library for build (trial version will do as well). Binaries are available*
 

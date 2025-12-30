@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Dec 30, 2025](/content/2025/12/30/README.md)
+
+### Tools / Playground
+
+*   [Rev-dep (⭐35)](https://github.com/jayu/rev-dep) - Trace imports, identify circular dependencies, find unused code, clean node modules — all from a blazing-fast CLI.
+
 ## [Dec 28, 2025](/content/2025/12/28/README.md)
 
 ### Web / Playground

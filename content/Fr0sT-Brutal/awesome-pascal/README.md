@@ -6,6 +6,57 @@ A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, r
 
 [ Daily / [Weekly](/content/Fr0sT-Brutal/awesome-pascal/week/README.md) / [Overview](/content/Fr0sT-Brutal/awesome-pascal/readme/README.md) ]
 
+## [Dec 30, 2025](/content/2025/12/30/README.md)
+
+### Game dev
+
+*   [ImGui-Pascal (⭐70)](https://github.com/Coldzer0/ImGui-Pascal). `[Delphi]` `[FPC]` ImGui-Pascal is [ImGui (⭐70k)](https://github.com/ocornut/imgui) binding (crossplatform GUI lib) with the latest version & docking. Support Windows, Linux, OSX.
+
+### Cloud & remote services
+
+*   [delphi-aws-ses (⭐33)](https://github.com/monde-sistemas/delphi-aws-ses). `[Delphi]` Amazon Simple Email Service (AWS SES) library for Delphi applications.
+*   [delphi-slackbot (⭐27)](https://github.com/monde-sistemas/delphi-slackbot). `[Delphi]` Delphi library to send messages on [Slack](https://slack.com) using slackbot.
+*   [SDriver (⭐64)](https://github.com/andrea-magni/SDriver). `[Delphi]` Delphi wrapper for [Slack](https://slack.com) API.
+*   [TelegaPi (⭐42)](https://github.com/rareMaxim/TelegaPi). `[Delphi]` Library for working with Telegram messenger Bot API in Delphi.
+*   [fp-telegram (⭐89)](https://github.com/Al-Muhandis/fp-telegram). `[FPC]` Library for working with Telegram bots API in FreePascal/Lazarus.
+*   [delphiXero (⭐16)](https://github.com/littleearth/delphiXERO). `[Delphi]` XERO cloud accounting API for Delphi.
+*   [Google API for Delphi (⭐139)](https://github.com/googleapi/googleapi). `[Delphi]` Google API for Delphi
+*   [VK API (⭐33)](https://github.com/HemulGM/VK_API). `[Delphi]` Library for working with Vkontakte (Russian social network) API in Delphi. Full API (with Bot samples).
+*   [AWS SDK for Dephi (⭐141)](https://github.com/landgraf-dev/aws-sdk-delphi). `[Delphi]` Unofficial AWS (Amazon Web Services) SDK for Delphi.
+*   [Ntfy for Delphi (⭐78)](https://github.com/hazzelnuts/ntfy-for-delphi). `[Delphi]` Friendly library to push instant notifications using ntfy.sh servers in Delphi
+*   [DelphiOpenAI (⭐299)](https://github.com/HemulGM/DelphiOpenAI). `[Delphi]` OpenAI GPT-3 API for Delphi
+*   [IPInfo API (⭐14)](https://github.com/HemulGM/IPInfo_API). `[Delphi]` Wrapper for IP Info API service
+*   [TGBot Mini API (⭐39)](https://github.com/HemulGM/TGBotMini). `[Delphi]` Fast and simple API for creating a Telegram bot
+*   [ImgBB API (⭐5)](https://github.com/HemulGM/ImgBB.API). `[Delphi]` ImgBB.com API Wrapper
+*   [OWM API (⭐4)](https://github.com/HemulGM/OWM_API). `[Delphi]` OpenWeatherMap.com API Wrapper
+
+### Scripting
+
+*   [Thorium (⭐10)](https://github.com/horazont/thorium). `[Delphi]` `[FPC]` Powerful embedded scripting language written in FreePascal. It features a pluggable compiler and typing system, and ships with easy and fast import of host classes using RTTI. It also allows to call host methods and functions without the need for wrapper functions, thus saving the developer (that is you) the time to write these.
+*   [JvInterpreter (part of Project JEDI VCL) (⭐655)](https://github.com/project-jedi/jvcl). `[Delphi]` `[FPC]` Pascal script interpreter
+
+### Machine Learning
+
+*   [Ascension (⭐28)](https://github.com/inversed-ru/Ascension). `[Delphi]` `[FPC]` A research programme aimed at the development of a general-purpose global optimization framework. Its core components are intelligent algorithms called metaheuristics, which are applicable to a wide variety of optimization problems.
+*   [sherpa-onnx (⭐9.5k)](https://github.com/k2-fsa/sherpa-onnx). `[Delphi]` `[FPC]` Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86\_64 servers, websocket server/client, support 12 programming languages
+
+### Math
+
+*   [LMath](https://sourceforge.net/projects/lmath-library) `[FPC]` Provides routines and demo programs for numerical analysis, including mathematical functions, probabilities, matrices, optimization, linear and nonlinear equations, integration, Fast Fourier Transform, random numbers, curve fitting, statistics and graphics. It is entirely written in Pascal and does not depend on external libraries.
+
+### OS
+
+*   [GLibWMI (⭐44)](https://github.com/germanestevez/GLibWMI). `[Delphi]` Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo, etc. Allow access WMI Classes: WIN32\_Bios, WIN32\_Printers, WIN32\_DiskDrive.
+
+### RAD Studio IDE plugins/wizards
+
+*   [C4D-Validate-Components (⭐15)](https://github.com/Code4Delphi/C4D-Validate-Components). `[Delphi]` Utility for automatic validation of Delphi forms. Excellent to be used for both new projects and legacy products. Facilitating form field validations and reducing code complexity. It can be used for both DBWare and non-DBWare components.
+
+### Other
+
+*   [OpenAPI Client Generator (⭐89)](https://github.com/landgraf-dev/openapi-delphi-generator). `[Delphi]` Generate Delphi client SDKs for any REST API defined with the OpenAPI specification. This generator can read an OpenAPI document (from local file or URL) of a REST API and generate Delphi classes that you can use to invoke such REST API endpoints in a friendly way.
+    // *Open source but requires commercial TMS BIZ library for build (trial version will do as well). Binaries are available*
+
 ## [Dec 26, 2025](/content/2025/12/26/README.md)
 
 ### General Libraries
@@ -23,10 +74,6 @@ A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, r
 ### Database
 
 *   [Bold for Delphi (⭐0)](https://github.com/bero/BoldForDelphi). `[Delphi]` Model-Driven Architecture (MDA) framework and ORM. Design your domain model in UML and generate Delphi classes and database schemas. Features OCL (Object Constraint Language) for queries and derived attributes, automatic UI synchronization, built-in undo/redo, optimistic locking, and object subscriptions. Persistence via FireDAC, UniDAC or XML, supporting most modern databases. This fork adds Unicode and modern Delphi support. [Official Embarcadero repo (⭐155)](https://github.com/Embarcadero/BoldForDelphi) is for Delphi 7.
-
-### Cloud Services
-
-*   [Firebase Services for Delphi (⭐208)](https://github.com/SchneiderInfosystems/FB4D) `[Delphi]` Cross-platform (FMX/VCL/Console) library for the following Firebase Services (Google): Firebase RT-DB, Firestore DB, Cloud Storage, VisionML, Firebase Authorization, and Firebase Functions. The library supports all platforms (Windows, Mac, iOS, Android, and Linux).
 
 ### Template
 
@@ -270,10 +317,6 @@ A curated list of awesome Delphi/FreePascal/(any)Pascal frameworks, libraries, r
 *   [ICU4PAS](http://www.crossgl.com/icu4pas/index.html). `[Delphi]` `[FPC]` Object Pascal, cross platform, Direct Class Wrapper over the mature and widely used set of C/C++ ICU libraries providing Unicode support, software internationalization (i18n) and globalization (g11n), giving applications the same results on all platforms. You can use it on Windows with Delphi and FreePascal and on Linux with Kylix and FreePascal.
     // *Hadn't been updated since 2007 but ICU interface probably remains the same*
 *   [FreePascal Generics.Collections (⭐128)](https://github.com/maciej-izak/generics.collections). `[FPC]` FreePascal Generics.Collections library (TList, TDictionary, THashMap and more)
-
-### OS
-
-*   [GLibWMI](http://sourceforge.net/projects/glibwmi). `[Delphi]` Component Library for Delphi that encapsulate the classes for access to WMI of Windows in a set of VCL. BiosInfo, PrinterInfo, DiskInfo, etc. Allow access WMI Classes: WIN32\_Bios, WIN32\_Printers, WIN32\_DiskDrive.
 
 ### RAD Studio IDE plugins/wizards
 

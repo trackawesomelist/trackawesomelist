@@ -1,18 +1,18 @@
-# Awesome List Updates on Jan 05 - Jan 11, 2026
+# Awesome List Updates on Dec 30, 2025
 
-13 awesome lists updated this week.
+7 awesome lists updated today.
 
-[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
+[🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [1. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
 *   [dstack (⭐410)](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
 
-## [2. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [2. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Game dev
 
@@ -63,13 +63,13 @@
 *   [OpenAPI Client Generator (⭐89)](https://github.com/landgraf-dev/openapi-delphi-generator). `[Delphi]` Generate Delphi client SDKs for any REST API defined with the OpenAPI specification. This generator can read an OpenAPI document (from local file or URL) of a REST API and generate Delphi classes that you can use to invoke such REST API endpoints in a friendly way.
     // *Open source but requires commercial TMS BIZ library for build (trial version will do as well). Binaries are available*
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
 *   [LargeModGames/spotatui (⭐151)](https://github.com/LargeModGames/spotatui) \[[spotatui](https://crates.io/crates/spotatui)] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [![Continuous Deployment](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml/badge.svg)](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml)
 
-## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Community Resources
 
@@ -165,60 +165,24 @@
 *   [Let's Encrypt Mosquitto Docker Container](https://hub.docker.com/r/pythonlinks/letsencrypt-mosquitto) - Easier TLS certificate management for brokers.
 *   [mqttsa (⭐51)](https://github.com/stfbk/mqttsa) - Broker mis-configuration detection for cyber protection.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [@nabaraj/vue-pagination (⭐0)](https://github.com/nabaraj/vue-pagination-npm-package) - A lightweight Vue 3 pagination component with TypeScript types and customizable slots.
 
-## [6. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Tools / Playground
 
 *   [Rev-dep (⭐35)](https://github.com/jayu/rev-dep) - Trace imports, identify circular dependencies, find unused code, clean node modules — all from a blazing-fast CLI.
 
-## [7. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+## [7. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Testing / Data Profiler
 
 *   [daffy (⭐25)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.
 
-## [8. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
-
-### Scripting
-
-*   [MicroQuickJS (⭐4.7k)](https://github.com/bellard/mquickjs) - MicroQuickJS (aka. MQuickJS) is a JavaScript engine targeted at embedded systems. \[MIT]
-
-## [9. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
-
-### Open Source Projects
-
-*   [Wireshark](https://wiresharkfoundation.org/donate/) - Helping as many people as possible understand their networks as much as possible.
-
-## [10. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
-
-### Programming Languages / [Other](#other-1)
-
-*   [gocyclo (⭐1.5k)](https://github.com/fzipp/gocyclo) — Calculate cyclomatic complexities of functions in Go source code.
-
-## [11. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
-
-### Third-Party Packages / Full-stack frameworks
-
-*   [Django LiveView (⭐139)](https://github.com/Django-LiveView/liveview) - Framework for creating dynamic, reactive interfaces server-side with Django templates. Real-time updates via WebSocket with decorator-based handlers.
-
-## [12. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
-
-### Archives and primary sources / Switzerland
-
-*   [swissnatcoll](https://swissnatcoll.ch/) - Swiss Natural History Collections portal providing open access to specimen data from natural history collections preserved in Switzerland.
-
-## [13. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
-
-### Utility / Cursorline
-
-*   [stikypiston/cheaty.nvim (⭐5)](https://github.com/stikypiston/cheaty.nvim) - A simple, configurable cheatsheet.
-
 ---
 
-- Next: [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
+- Next: [Dec 29, 2025](/content/2025/12/29/README.md)
