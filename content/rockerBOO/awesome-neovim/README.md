@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Dec 30, 2025](/content/2025/12/30/README.md)
+
+### Plugin Manager
+
+*   [OriginCoderPulse/synapse.nvim (⭐4)](https://github.com/OriginCoderPulse/synapse.nvim) - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
+
 ## [Dec 29, 2025](/content/2025/12/29/README.md)
 
 ### Utility / Cursorline
@@ -151,10 +157,6 @@ Collections of awesome neovim plugins.
 *   [pebeto/dookie.nvim (⭐9)](https://github.com/pebeto/dookie.nvim) - ***`[TS][Lua]`*** A color scheme inspired by Plan9's acme editor.
 
 ## [Nov 30, 2025](/content/2025/11/30/README.md)
-
-### Plugin Manager
-
-*   [synapse.nvim (⭐4)](https://github.com/OriginCoderPulse/synapse.nvim) - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
 
 ### Language / Assembly
 

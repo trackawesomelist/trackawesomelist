@@ -116,7 +116,7 @@ Collections of awesome neovim plugins.
 *   [nvim-mini/mini.nvim#mini.deps (⭐8.5k)](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
 *   [wsdjeg/nvim-plug (⭐23)](https://github.com/wsdjeg/nvim-plug) - Asynchronous plugin manager written in Lua.
 *   [piersolenski/plugin-addict.nvim (⭐11)](https://github.com/piersolenski/plugin-addict.nvim) - A stupidly simple way to quickly install plugins.
-*   [synapse.nvim (⭐4)](https://github.com/OriginCoderPulse/synapse.nvim) - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
+*   [OriginCoderPulse/synapse.nvim (⭐4)](https://github.com/OriginCoderPulse/synapse.nvim) - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
 *   [zuqini/zpack.nvim (⭐48)](https://github.com/zuqini/zpack.nvim) - A thin layer on top of `vim.pack` to support lazy-loading and `lazy.nvim`'s declarative spec.
 
 <!--lint disable double-link -->

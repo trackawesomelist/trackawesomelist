@@ -6,6 +6,16 @@
 
 [ [Daily](/content/agarrharr/awesome-cli-apps/README.md) / Weekly / [Overview](/content/agarrharr/awesome-cli-apps/readme/README.md) ]
 
+## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
+
+### Entertainment / Music
+
+*   [spotatui (⭐151)](https://github.com/LargeModGames/spotatui) - Spotify client.
+
+### Utilities / macOS
+
+*   [anvil (⭐97)](https://github.com/0xjuanma/anvil) - Config management and app installations.
+
 ## [Dec 29 - Jan 04, 2025](/content/2025/52/README.md)
 
 ### Development / Testing
@@ -93,11 +103,11 @@
 
 ### Utilities / Network Utilities
 
-*   [rustnet (⭐1.4k)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
+*   [rustnet (⭐1.5k)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 
 ### Data Manipulation / YAML
 
-*   [config-file-validator (⭐441)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+*   [config-file-validator (⭐484)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### Files and Directories / Directory Listing
 
@@ -120,13 +130,13 @@
 
 ### Files and Directories / Files
 
-*   [scc (⭐7.8k)](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
+*   [scc (⭐7.9k)](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
 
 ## [Sep 01 - Sep 07, 2025](/content/2025/35/README.md)
 
 ### Utilities / SSH
 
-*   [xxh (⭐5.8k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
+*   [xxh (⭐5.9k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
 
 ### Utilities / Network Utilities
 
@@ -171,7 +181,7 @@
 
 ### Files and Directories / File Managers
 
-*   [xplr (⭐4.6k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
+*   [xplr (⭐4.7k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
 
 ### Files and Directories / Disk Usage
 
@@ -183,7 +193,7 @@
 
 ### Files and Directories / Search
 
-*   [television (⭐3.9k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
+*   [television (⭐4k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 
 ### Version Control / Git
 
@@ -261,7 +271,7 @@
 
 ### Productivity / Testing
 
-*   [fjira (⭐246)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+*   [fjira (⭐250)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 
 ### Productivity / Finance
 
@@ -328,7 +338,7 @@
 
 ### Entertainment / Video
 
-*   [yt-dlp (⭐138k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐140k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ### Productivity / Note Taking and Lists
 
@@ -555,7 +565,7 @@
 
 ### Productivity / Time Tracking
 
-*   [Bartib (⭐792)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐799)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 
 ## [Dec 27 - Jan 02, 2021](/content/2021/52/README.md)
 
@@ -687,7 +697,7 @@
 
 ### Productivity / Finance
 
-*   [ticker (⭐5.8k)](https://github.com/achannarasappa/ticker) - Stock ticker.
+*   [ticker (⭐5.9k)](https://github.com/achannarasappa/ticker) - Stock ticker.
 
 ## [Jun 07 - Jun 13, 2021](/content/2021/23/README.md)
 
@@ -717,7 +727,7 @@
 
 ### Development / Chat
 
-*   [grex (⭐7.9k)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
+*   [grex (⭐8k)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 
 ### Development / Devops
 
@@ -764,7 +774,7 @@
 
 ### Development / Database
 
-*   [usql (⭐9.6k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
+*   [usql (⭐9.7k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 
 ## [May 03 - May 09, 2021](/content/2021/18/README.md)
 
@@ -929,12 +939,6 @@
 
 *   [utt (⭐347)](https://github.com/larose/utt) - Simple time tracking tool.
 
-## [Dec 02 - Dec 08, 2019](/content/2019/48/README.md)
-
-### Entertainment / Music
-
-*   [spotify-tui (⭐19k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
-
 ## [Nov 25 - Dec 01, 2019](/content/2019/47/README.md)
 
 ### Entertainment / Books
@@ -1005,7 +1009,7 @@
 
 ### Files and Directories / File Managers
 
-*   [lf (⭐8.8k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐8.9k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ## [Jul 22 - Jul 28, 2019](/content/2019/29/README.md)
 
@@ -1132,7 +1136,7 @@
 *   [doing (⭐1.2k)](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
 *   [ffscreencast (⭐1.8k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐46)](https://github.com/specious/meetup-cli) - Meetup.com client.
-*   [terjira (⭐897)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [terjira (⭐898)](https://github.com/keepcosmos/terjira) - Jira client.
 *   [ipt (⭐13)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
 *   [Buku (⭐6.9k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
@@ -1178,7 +1182,7 @@
 
 ### Development / Release
 
-*   [clog (⭐901)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐902)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 
 ## [Mar 11 - Mar 17, 2019](/content/2019/10/README.md)
 
@@ -1294,7 +1298,7 @@
 *   [Instant-Music-Downloader (⭐1.4k)](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
 *   [pianobar](https://6xq.net/pianobar/) - Pandora client.
 *   [somafm-cli (⭐152)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
-*   [mpd (⭐2.5k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
+*   [mpd (⭐2.6k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
 *   [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 *   [musikcube (⭐4.6k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 

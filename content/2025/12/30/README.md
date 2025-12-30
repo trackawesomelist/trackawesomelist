@@ -1,18 +1,40 @@
 # Awesome List Updates on Dec 30, 2025
 
-7 awesome lists updated today.
+10 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
+## [1. Awesome Langchain](/content/kyrolabs/awesome-langchain/README.md)
+
+### Tools / Services
+
+*   [Tenuo (⭐2)](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents. Task-scoped tokens with offline verification, proof-of-possession binding, and native LangChain/LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
+
+## [2. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+
+### Plugin Manager
+
+*   [OriginCoderPulse/synapse.nvim (⭐4)](https://github.com/OriginCoderPulse/synapse.nvim) - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
+
+## [3. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/README.md)
+
+### Entertainment / Music
+
+*   [spotatui (⭐151)](https://github.com/LargeModGames/spotatui) - Spotify client.
+
+### Utilities / macOS
+
+*   [anvil (⭐97)](https://github.com/0xjuanma/anvil) - Config management and app installations.
+
+## [4. Awesome Gdpr](/content/bakke92/awesome-gdpr/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
 *   [dstack (⭐410)](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
 
-## [2. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
+## [5. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/README.md)
 
 ### Game dev
 
@@ -63,13 +85,13 @@
 *   [OpenAPI Client Generator (⭐89)](https://github.com/landgraf-dev/openapi-delphi-generator). `[Delphi]` Generate Delphi client SDKs for any REST API defined with the OpenAPI specification. This generator can read an OpenAPI document (from local file or URL) of a REST API and generate Delphi classes that you can use to invoke such REST API endpoints in a friendly way.
     // *Open source but requires commercial TMS BIZ library for build (trial version will do as well). Binaries are available*
 
-## [3. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
+## [6. Awesome Rust](/content/rust-unofficial/awesome-rust/README.md)
 
 ### Applications / Audio and Music
 
 *   [LargeModGames/spotatui (⭐151)](https://github.com/LargeModGames/spotatui) \[[spotatui](https://crates.io/crates/spotatui)] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [![Continuous Deployment](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml/badge.svg)](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml)
 
-## [4. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
+## [7. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/README.md)
 
 ### Community Resources
 
@@ -165,19 +187,19 @@
 *   [Let's Encrypt Mosquitto Docker Container](https://hub.docker.com/r/pythonlinks/letsencrypt-mosquitto) - Easier TLS certificate management for brokers.
 *   [mqttsa (⭐51)](https://github.com/stfbk/mqttsa) - Broker mis-configuration detection for cyber protection.
 
-## [5. Awesome Vue](/content/vuejs/awesome-vue/README.md)
+## [8. Awesome Vue](/content/vuejs/awesome-vue/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [@nabaraj/vue-pagination (⭐0)](https://github.com/nabaraj/vue-pagination-npm-package) - A lightweight Vue 3 pagination component with TypeScript types and customizable slots.
 
-## [6. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [9. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Tools / Playground
 
 *   [Rev-dep (⭐35)](https://github.com/jayu/rev-dep) - Trace imports, identify circular dependencies, find unused code, clean node modules — all from a blazing-fast CLI.
 
-## [7. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
+## [10. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/README.md)
 
 ### Testing / Data Profiler
 

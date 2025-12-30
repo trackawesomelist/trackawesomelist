@@ -18,7 +18,7 @@
 
 > A curated list of command line apps.
 
-Inspired by the [awesome (⭐421k)](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome (⭐425k)](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -115,12 +115,12 @@ Inspired by the [awesome (⭐421k)](https://github.com/sindresorhus/awesome) lis
 *   [itunes-remote (⭐433)](https://github.com/mischah/itunes-remote) - Control iTunes via CLI.
 *   [pianobar](https://6xq.net/pianobar/) - Pandora client.
 *   [somafm-cli (⭐152)](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
-*   [mpd (⭐2.5k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
+*   [mpd (⭐2.6k)](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon.
 *   [ncmpcpp (⭐2.4k)](https://github.com/arybczak/ncmpcpp) - mpd client.
 *   [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 *   [musikcube (⭐4.6k)](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 *   [beets (⭐14k)](https://github.com/beetbox/beets) - Music library manager and tagger.
-*   [spotify-tui (⭐19k)](https://github.com/Rigellute/spotify-tui) - Spotify client.
+*   [spotatui (⭐151)](https://github.com/LargeModGames/spotatui) - Spotify client.
 *   [swaglyrics-for-spotify (⭐343)](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 *   [dzr (⭐240)](https://github.com/yne/dzr) - deezer.com player.
 *   [radio-active (⭐565)](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
@@ -134,7 +134,7 @@ Inspired by the [awesome (⭐421k)](https://github.com/sindresorhus/awesome) lis
 *   [mps-youtube (⭐8.6k)](https://github.com/mps-youtube/mps-youtube) - Youtube player.
 *   [mpv](https://mpv.io) - Superior video player.
 *   [editly (⭐5.2k)](https://github.com/mifi/editly) - Declarative video editing.
-*   [yt-dlp (⭐138k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+*   [yt-dlp (⭐140k)](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
 
 ### Movies
 
@@ -171,7 +171,7 @@ Inspired by the [awesome (⭐421k)](https://github.com/sindresorhus/awesome) lis
 *   [bcal (⭐674)](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations.
 *   [bitwise (⭐705)](https://github.com/mellowcandle/bitwise) - Base conversion and bit manipulation.
 *   [cgasm (⭐381)](https://github.com/bnagy/cgasm) - x86 assembly documentation.
-*   [grex (⭐7.9k)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
+*   [grex (⭐8k)](https://github.com/pemistahl/grex) - Generate regular expressions from user-provided test cases.
 *   [iola (⭐167)](https://github.com/pvarentsov/iola) - Socket client with REST API.
 *   [add-gitignore (⭐709)](https://github.com/TejasQ/add-gitignore) - Interactively generate a .gitignore for your project based on your needs.
 *   [is-up-cli (⭐365)](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
@@ -215,7 +215,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [pgcli (⭐13k)](https://github.com/dbcli/pgcli) - Postgres client with autocompletion and syntax highlighting.
 *   [sqlline (⭐646)](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 *   [iredis (⭐2.7k)](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
-*   [usql (⭐9.6k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
+*   [usql (⭐9.7k)](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
 
 ### Devops
 
@@ -247,7 +247,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 ### Release
 
 *   [release-it (⭐8.8k)](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
-*   [clog (⭐901)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
+*   [clog (⭐902)](https://github.com/clog-tool/clog-cli) - A conventional changelog for the rest of us.
 *   [np (⭐7.7k)](https://github.com/sindresorhus/np) - A better `npm publish`.
 *   [release (⭐3.6k)](https://github.com/vercel/release) - Generate changelogs with a single command.
 *   [semantic-release (⭐23k)](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
@@ -298,11 +298,11 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [ffscreencast (⭐1.8k)](https://github.com/cytopia/ffscreencast) - A ffmpeg screencast with video overlay and multi monitor support.
 *   [meetup-cli (⭐46)](https://github.com/specious/meetup-cli) - Meetup.com client.
 *   [NeoMutt](https://neomutt.org) - Email client.
-*   [terjira (⭐897)](https://github.com/keepcosmos/terjira) - Jira client.
+*   [terjira (⭐898)](https://github.com/keepcosmos/terjira) - Jira client.
 *   [ipt (⭐13)](https://github.com/drselump14/ipt) - Pivotal Tracker client.
 *   [uber-cli (⭐1.2k)](https://github.com/jaebradley/uber-cli) - Uber client.
 *   [Buku (⭐6.9k)](https://github.com/jarun/Buku) - Browser-independent bookmark manager.
-*   [fjira (⭐246)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
+*   [fjira (⭐250)](https://github.com/mk-5/fjira) - Fuzzy finder and TUI application for Jira.
 *   [OverTime (⭐414)](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 *   [CookCLI (⭐1k)](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 *   [hns (⭐59)](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
@@ -314,7 +314,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 *   [Timewarrior (⭐1.5k)](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 *   [Watson (⭐2.5k)](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 *   [utt (⭐347)](https://github.com/larose/utt) - Simple time tracking tool.
-*   [Bartib (⭐792)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
+*   [Bartib (⭐799)](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 *   [arttime (⭐1.2k)](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
 
 ### Note Taking and Lists
@@ -341,7 +341,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [moeda (⭐149)](https://github.com/thompsonemerson/moeda) - Foreign exchange rates and currency conversion.
 *   [cash-cli (⭐249)](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 *   [cointop (⭐4.4k)](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
-*   [ticker (⭐5.8k)](https://github.com/achannarasappa/ticker) - Stock ticker.
+*   [ticker (⭐5.9k)](https://github.com/achannarasappa/ticker) - Stock ticker.
 
 ### Presentations
 
@@ -379,6 +379,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [stronghold (⭐1.2k)](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 *   [dark-mode (⭐676)](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 *   [clippy (⭐184)](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
+*   [anvil (⭐97)](https://github.com/0xjuanma/anvil) - Config management and app installations.
 
 ### Terminal Sharing Utilities
 
@@ -389,7 +390,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### SSH
 
 *   [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
-*   [xxh (⭐5.8k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
+*   [xxh (⭐5.9k)](https://github.com/xxh/xxh) - Bring your favorite shell wherever you go through SSH.
 
 ### Network Utilities
 
@@ -399,7 +400,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [certificate-ripper (⭐847)](https://github.com/Hakky54/certificate-ripper) - Extract server certificates.
 *   [neoss (⭐214)](https://github.com/PabloLec/neoss) - User-friendly and detailed socket statistics.
 *   [gg (⭐1.9k)](https://github.com/mzz2017/gg) - One-click proxy without installing v2ray or anything else.
-*   [rustnet (⭐1.4k)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
+*   [rustnet (⭐1.5k)](https://github.com/domcyrus/rustnet) - Network monitoring with process identification and deep packet inspection.
 *   [sshuttle (⭐13k)](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
 
 ### Theming and Customization
@@ -524,12 +525,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [strip-json-comments-cli (⭐73)](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON.
 *   [GROQ (⭐228)](https://github.com/sanity-io/groq-cli) – JSON processor with queries and projections.
 *   [gron (⭐14k)](https://github.com/tomnomnom/gron) - Make JSON greppable.
-*   [config-file-validator (⭐441)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+*   [config-file-validator (⭐484)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### YAML
 
 *   [dyff (⭐1.6k)](https://github.com/homeport/dyff) - YAML diff tool.
-*   [config-file-validator (⭐441)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
+*   [config-file-validator (⭐484)](https://github.com/Boeing/config-file-validator) - Validate configuration files.
 
 ### Columns
 
@@ -549,11 +550,11 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [midnight-commander (⭐624)](https://github.com/MidnightCommander/mc) - A feature rich visual file manager.
 *   [Vifm](https://vifm.info/) - VI influenced file manager.
 *   [nnn (⭐21k)](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration.
-*   [lf (⭐8.8k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+*   [lf (⭐8.9k)](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 *   [clifm (⭐1.5k)](https://github.com/leo-arch/clifm) - The command line file manager.
 *   [far2l (⭐2.1k)](https://github.com/elfmz/far2l) - Orthodox file manager.
 *   [yazi (⭐31k)](https://github.com/sxyazi/yazi) - Blazing fast file manager.
-*   [xplr (⭐4.6k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
+*   [xplr (⭐4.7k)](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
 
 ### Deleting, Copying, and Renaming
 
@@ -586,7 +587,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [organize-rt](https://gitlab.com/foxido/organize-rt) - organize-cli in Rust with more customization.
 *   [RecoverPy (⭐1.7k)](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 *   [f2 (⭐2.3k)](https://github.com/ayoisaiah/f2) - A cross-platform tool for fast, safe, and flexible batch renaming.
-*   [scc (⭐7.8k)](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
+*   [scc (⭐7.9k)](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
 
 ### File Sync/Sharing
 
@@ -634,7 +635,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 *   [rare (⭐341)](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
 *   [skim (⭐6.2k)](https://github.com/lotabout/skim) - A general fuzzy finder written in Rust, similar to fzf.
 *   [ast-grep (⭐12k)](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
-*   [television (⭐3.9k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
+*   [television (⭐4k)](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 
 ## Version Control
 
