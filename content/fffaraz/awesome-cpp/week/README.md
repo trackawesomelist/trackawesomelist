@@ -8,6 +8,15 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## [Jan 05 - Jan 11, 2026](/content/2026/1/README.md)
 
+### Frameworks
+
+*   [sfl library (⭐144)](https://github.com/slavenf/sfl-library) - a header-only C++11 library that provides several new or lesser-known containers, some of which can be used in C++20 constant expressions. \[zlib]
+
+### Networking
+
+*   [CZMQ (⭐1.3k)](https://github.com/zeromq/czmq) - High-level C binding for ØMQ. \[MPL2] [website](http://czmq.zeromq.org/)
+*   [Zyre (⭐933)](https://github.com/zeromq/zyre) - Local Area Clustering for Peer-to-Peer Applications. \[MPL2]
+
 ### Scripting
 
 *   [MicroQuickJS (⭐4.7k)](https://github.com/bellard/mquickjs) - MicroQuickJS (aka. MQuickJS) is a JavaScript engine targeted at embedded systems. \[MIT]
