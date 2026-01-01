@@ -1,12 +1,24 @@
 # Awesome List Updates on Jan 01, 2026
 
-6 awesome lists updated today.
+8 awesome lists updated today.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
+## [1. Awesome Zsh Plugins](/content/unixorn/awesome-zsh-plugins/README.md)
+
+### Plugins / [superconsole](https://github.com/alexchmykhalo/superconsole) - Windows-only
+
+*   [flow-cli (⭐0)](https://github.com/Data-Wise/flow-cli) - ADHD-friendly ZSH workflow tools. Start working in 10 seconds with `work`, track wins for dopamine with `win`, stay oriented with `dash`. Includes smart dispatchers for git, R, Quarto, and Claude Code.
+
+## [2. Awesome Cern](/content/CERN/awesome-cern/README.md)
+
+### Physics/mathematics analysis/simulation / Event Management
+
+*   [GeoModel](https://geomodel.web.cern.ch): GeoModel - A Detector Description Toolkit for HEP experiments.
+
+## [3. Awesome Integration](/content/stn1slv/awesome-integration/README.md)
 
 ### Projects / API Management
 
@@ -67,7 +79,7 @@
 *   [Apache Avro (⭐3.2k) (⭐3.2k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
 *   [YAML (⭐436) (⭐436)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
-## [2. Free for Dev](/content/ripienaar/free-for-dev/README.md)
+## [4. Free for Dev](/content/ripienaar/free-for-dev/README.md)
 
 ### Web Hosting
 
@@ -77,19 +89,19 @@
 
 *   [SlingSite](https://slingsite.github.io) - Create all the optimized versions of your images and videos. For Free. In bulk. For each image, you get the following formats: AVIF, WEBP and JPG in the three selected resolutions (desktop, tablet, mobile) For videos, you get: WebM (codec VP9), MP4 (codec HEVC aka H.265) and MP4 (codec AVC aka H.264) plus the cover image with the first frame.
 
-## [3. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
+## [5. Awesome Typescript](/content/dzharii/awesome-typescript/README.md)
 
 ### Libraries / Chrome Extensions
 
 *   [rehydra (⭐28)](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK to anonymize PII locally before sending prompts to LLMs and seamlessly rehydrate the response.
 
-## [4. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
+## [6. Awesome Neovim](/content/rockerBOO/awesome-neovim/README.md)
 
 ### Colorscheme / Assembly
 
 *   [dybdeskarphet/gruvbox-minimal.nvim (⭐7)](https://github.com/dybdeskarphet/gruvbox-minimal.nvim) - ***`[TS][L/D][Lua]`*** A Gruvbox Material theme conceptually inspired by Alabaster.
 
-## [5. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
+## [7. Awesome Jax](/content/n2cholas/awesome-jax/README.md)
 
 ### Libraries
 
@@ -101,7 +113,7 @@
 *   [vivsim (⭐28)](https://github.com/haimingz/vivsim) - Fluid-structure interaction simulations using Immersed Boundary-Lattice Boltzmann Method. <img src="https://img.shields.io/github/stars/haimingz/vivsim?style=social" align="center">
 *   [MBIRJAX (⭐19)](https://github.com/cabouman/mbirjax) - High-performance tomographic reconstruction. <img src="https://img.shields.io/github/stars/cabouman/mbirjax?style-social" align="center">
 
-## [6. Awesome Datascience](/content/academic/awesome-datascience/README.md)
+## [8. Awesome Datascience](/content/academic/awesome-datascience/README.md)
 
 ### General Machine Learning Packages / Deep Learning architectures
 
