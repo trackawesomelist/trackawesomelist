@@ -1,30 +1,123 @@
 # Awesome List Updates on Jan 05 - Jan 11, 2026
 
-20 awesome lists updated this week.
+24 awesome lists updated this week.
 
 [🏠 Home](/README.md) · [🔍 Search](https://www.trackawesomelist.com/search/) · [🔥 Feed](https://www.trackawesomelist.com/week/rss.xml) · [📮 Subscribe](https://trackawesomelist.us17.list-manage.com/subscribe?u=d2f0117aa829c83a63ec63c2f&id=36a103854c) · [❤️  Sponsor](https://github.com/sponsors/theowenyoung)
 
 
 
-## [1. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
+## [1. Awesome Integration](/content/stn1slv/awesome-integration/week/README.md)
+
+### Projects / API Management
+
+*   [Gravitee.io API Management (⭐366) (⭐366)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+*   [WSO2 API Manager (⭐952) (⭐952)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+
+### Projects / API Design
+
+*   [OpenAPI Style Validator (⭐228) (⭐228)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
+
+### Projects / API Gateway
+
+*   [Apache APISIX (⭐16k) (⭐16k)](https://github.com/apache/apisix) - A high-performance, dynamic gateway featuring real-time traffic management and powerful plugin integrations.
+*   [Gloo Edge (⭐142) (⭐142)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
+*   [Spring Cloud Gateway (⭐4.8k) (⭐4.8k)](https://github.com/spring-cloud/spring-cloud-gateway) - Leverages the Spring ecosystem to deliver robust routing, filtering, and security for microservices.
+
+### Projects / Business Rules Engine
+
+*   [Drools (⭐6.2k) (⭐6.2k)](https://github.com/apache/incubator-kie-drools) - Open-source engine that supports advanced Decision Model and Notation (DMN) with Eclipse IDE integration for efficient rule development.
+*   [OpenL Tablets (⭐187) (⭐187)](https://github.com/openl-tablets/openl-tablets) - Flexible open-source decision management system that simplifies defining and executing business rules and decision tables.
+*   [ZEN Engine (⭐1.5k) (⭐1.5k)](https://github.com/gorules/zen) - A cross-platform, open-source Business Rules Engine written in Rust that executes JSON Decision Models through interconnected graphs of decision tables, functions, and expressions.
+
+### Projects / Data Integration
+
+*   [Estuary Flow (⭐859) (⭐859)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
+
+### Projects / Data Mapping Solution
+
+*   [AtlasMap (⭐210) (⭐210)](https://github.com/atlasmap/atlasmap) - Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.
+
+### Projects / Enterprise Service Bus
+
+*   [WSO2 Enterprise Integrator (⭐394) (⭐394)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
+
+### Projects / Integration Frameworks
+
+*   [Frank!Framework (⭐153) (⭐153)](https://github.com/frankframework/frankframework) - Low-code Java messaging framework that simplifies system connectivity and data integration through configurable XML setups.
+
+### Projects / Message Broker
+
+*   [BlazingMQ (⭐3.1k) (⭐3.1k)](https://github.com/bloomberg/blazingmq) - Distributed message queuing system focused on efficiency and reliability for modern workflow needs.
+*   [LavinMQ (⭐837) (⭐838)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
+
+### Projects / Self-Service Integration
+
+*   [n8n (⭐165k) (⭐165k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+
+### Projects / Workflow Engine
+
+*   [Bonita (⭐172) (⭐172)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
+
+### Resources / API Specification
+
+*   [AsyncAPI (⭐5k) (⭐5k)](https://github.com/asyncapi/spec) - An essential tool for developing Event-Driven Architectures (EDA) and enables engineers to build a better tooling ecosystem.
+
+### Resources / Data Formats
+
+*   [Apache Avro (⭐3.2k) (⭐3.2k)](https://github.com/apache/avro) - Data serialization system that provides compact, fast, and efficient serialization of structured data. It supports schema evolution, allows for efficient data compression, and is designed to work well with big data processing frameworks.
+*   [YAML (⭐436) (⭐436)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+
+## [2. Free for Dev](/content/ripienaar/free-for-dev/week/README.md)
+
+### Web Hosting
+
+*   [Oaysus](https://oaysus.com) - Visual page builder for developer-built React, Vue, or Svelte components. Free tier includes 1 site with unlimited pages, form submissions, and global CDN hosting.
+
+### Storage and Media Processing
+
+*   [SlingSite](https://slingsite.github.io) - Create all the optimized versions of your images and videos. For Free. In bulk. For each image, you get the following formats: AVIF, WEBP and JPG in the three selected resolutions (desktop, tablet, mobile) For videos, you get: WebM (codec VP9), MP4 (codec HEVC aka H.265) and MP4 (codec AVC aka H.264) plus the cover image with the first frame.
+
+## [3. Awesome Jax](/content/n2cholas/awesome-jax/week/README.md)
+
+### Libraries
+
+*   [Dynamax (⭐902)](https://github.com/probml/dynamax) - Probabilistic state space models.
+
+### Libraries / New Libraries
+
+*   [astronomix (⭐44)](https://github.com/leo1200/astronomix) - differentiable (magneto)hydrodynamics for astrophysics in JAX <img src="https://img.shields.io/github/stars/leo1200/astronomix?style=social" align="center">
+*   [vivsim (⭐28)](https://github.com/haimingz/vivsim) - Fluid-structure interaction simulations using Immersed Boundary-Lattice Boltzmann Method. <img src="https://img.shields.io/github/stars/haimingz/vivsim?style=social" align="center">
+*   [MBIRJAX (⭐19)](https://github.com/cabouman/mbirjax) - High-performance tomographic reconstruction. <img src="https://img.shields.io/github/stars/cabouman/mbirjax?style-social" align="center">
+
+## [4. Awesome Datascience](/content/academic/awesome-datascience/week/README.md)
+
+### General Machine Learning Packages / Deep Learning architectures
+
+*   [jSciPy (⭐5)](https://github.com/hissain/jscipy) - A Java port of SciPy's signal processing module, offering filters, transformations, and other scientific computing utilities.
+
+### Books / Visualization Tools
+
+*   [JavaScript for Data Science](https://third-bit.com/js4ds/) - Free html page
+
+## [5. Awesome Agi Cocosci](/content/YuzheSHI/awesome-agi-cocosci/week/README.md)
 
 ### Domain Specific Language / DSL Program Synthesis
 
 *   [Enhancing Robot Program Synthesis Through Environmental Context](https://proceedings.neurips.cc/paper_files/paper/2023/hash/0c1e94af650f5c74b1f3da467c2308c2-Abstract-Conference.html) - ***NeurIPS'23***, 2023. \[[All Versions](https://scholar.google.com/scholar?cluster=17630134586050451683)]. Program synthesis aims to automatically generate an executable program that conforms to the given specification. Recent advancements have demonstrated that deep neural methodologies and large-scale pretrained language models are highly proficient in capturing program semantics. For robot programming, prior works have facilitated program synthesis by incorporating global environments. However, the assumption of acquiring a comprehensive understanding of the entire environment is often excessively challenging to achieve. This work presents a framework that learns to synthesize a program by rectifying potentially erroneous code segments, with the aid of partially observed environments. To tackle the issue of inadequate attention to partial observations, the authors propose to first learn an environment embedding space that can implicitly evaluate the impacts of each program token based on the precondition. Furthermore, by employing a graph structure, the model can aggregate both environmental and syntactic information flow and furnish smooth program rectification guidance. Extensive experimental evaluations and ablation studies on the partially observed VizDoom domain authenticate that the method offers superior generalization capability across various tasks and greater robustness when encountering noises.
 
-## [2. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
+## [6. Awesome Mysql](/content/shlomi-noach/awesome-mysql/week/README.md)
 
 ### Backup
 
 *   [Databasus (⭐4k)](https://github.com/databasus/databasus) - tool for scheduled MySQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 
-## [3. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
+## [7. Awesome Osint](/content/jivoi/awesome-osint/week/README.md)
 
 ### Domain and IP Research / GitHub
 
 *   [isMalicious](https://ismalicious.com) - Threat intelligence platform aggregating malicious IP and domain data from multiple security feeds with real-time reputation scoring and threat categorization.
 
-## [4. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
+## [8. Awesome Cl](/content/CodyReichert/awesome-cl/week/README.md)
 
 ### MCP servers
 
@@ -49,19 +142,19 @@
 
 *   [hunchentoot-recycling-taskmaster (⭐6)](https://github.com/y2q-actionman/hunchentoot-recycling-taskmaster) - a taskmaster implementation for Hunchentoot, aiming to improve connection establishment efficiency through thread-pooling and flexible thread count adjustment. BSD\_2Clause.
 
-## [5. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
+## [9. Awesome Lit](/content/web-padawan/awesome-lit/week/README.md)
 
 ### Component Libraries
 
 *   [AgnosticUI (⭐748)](https://github.com/AgnosticUI/agnosticui) - A CLI-based UI component library that copies Lit web components directly into your project. Full React and Vue wrappers for native framework experience.
 
-## [6. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
+## [10. Awesome Langchain](/content/kyrolabs/awesome-langchain/week/README.md)
 
 ### Tools / Services
 
 *   [Tenuo (⭐2)](https://github.com/tenuo-ai/tenuo): Capability-based authorization for AI agents. Task-scoped tokens with offline verification, proof-of-possession binding, and native LangChain/LangGraph integration. ![GitHub Repo stars](https://img.shields.io/github/stars/tenuo-ai/tenuo?style=social)
 
-## [7. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
+## [11. Awesome Cli Apps](/content/agarrharr/awesome-cli-apps/week/README.md)
 
 ### Entertainment / Music
 
@@ -71,13 +164,13 @@
 
 *   [anvil (⭐97)](https://github.com/0xjuanma/anvil) - Config management and app installations.
 
-## [8. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
+## [12. Awesome Gdpr](/content/bakke92/awesome-gdpr/week/README.md)
 
 ### Privacy by Design - Guides for developers (art. 25)
 
 *   [dstack (⭐410)](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
 
-## [9. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
+## [13. Awesome Pascal](/content/Fr0sT-Brutal/awesome-pascal/week/README.md)
 
 ### Game dev
 
@@ -128,13 +221,13 @@
 *   [OpenAPI Client Generator (⭐89)](https://github.com/landgraf-dev/openapi-delphi-generator). `[Delphi]` Generate Delphi client SDKs for any REST API defined with the OpenAPI specification. This generator can read an OpenAPI document (from local file or URL) of a REST API and generate Delphi classes that you can use to invoke such REST API endpoints in a friendly way.
     // *Open source but requires commercial TMS BIZ library for build (trial version will do as well). Binaries are available*
 
-## [10. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
+## [14. Awesome Rust](/content/rust-unofficial/awesome-rust/week/README.md)
 
 ### Applications / Audio and Music
 
 *   [LargeModGames/spotatui (⭐151)](https://github.com/LargeModGames/spotatui) \[[spotatui](https://crates.io/crates/spotatui)] - A Spotify terminal client with native streaming, synced lyrics, and real-time audio visualization [![Continuous Deployment](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml/badge.svg)](https://github.com/LargeModGames/spotatui/actions/workflows/cd.yml)
 
-## [11. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
+## [15. Awesome Mqtt](/content/hobbyquaker/awesome-mqtt/week/README.md)
 
 ### Community Resources
 
@@ -230,25 +323,29 @@
 *   [Let's Encrypt Mosquitto Docker Container](https://hub.docker.com/r/pythonlinks/letsencrypt-mosquitto) - Easier TLS certificate management for brokers.
 *   [mqttsa (⭐51)](https://github.com/stfbk/mqttsa) - Broker mis-configuration detection for cyber protection.
 
-## [12. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
+## [16. Awesome Vue](/content/vuejs/awesome-vue/week/README.md)
 
 ### Components & Libraries / UI Utilities
 
 *   [@nabaraj/vue-pagination (⭐0)](https://github.com/nabaraj/vue-pagination-npm-package) - A lightweight Vue 3 pagination component with TypeScript types and customizable slots.
 
-## [13. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
+## [17. Awesome Typescript](/content/dzharii/awesome-typescript/week/README.md)
 
 ### Tools / Playground
 
 *   [Rev-dep (⭐35)](https://github.com/jayu/rev-dep) - Trace imports, identify circular dependencies, find unused code, clean node modules — all from a blazing-fast CLI.
 
-## [14. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
+### Libraries / Chrome Extensions
+
+*   [rehydra (⭐28)](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK to anonymize PII locally before sending prompts to LLMs and seamlessly rehydrate the response.
+
+## [18. Awesome Data Engineering](/content/igorbarinov/awesome-data-engineering/week/README.md)
 
 ### Testing / Data Profiler
 
 *   [daffy (⭐25)](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Pandas/Polars/PyArrow/Modin.
 
-## [15. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
+## [19. Awesome Cpp](/content/fffaraz/awesome-cpp/week/README.md)
 
 ### Frameworks
 
@@ -263,35 +360,39 @@
 
 *   [MicroQuickJS (⭐4.7k)](https://github.com/bellard/mquickjs) - MicroQuickJS (aka. MQuickJS) is a JavaScript engine targeted at embedded systems. \[MIT]
 
-## [16. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
+## [20. Awesome Software Patreons](/content/uraimo/awesome-software-patreons/week/README.md)
 
 ### Open Source Projects
 
 *   [Wireshark](https://wiresharkfoundation.org/donate/) - Helping as many people as possible understand their networks as much as possible.
 
-## [17. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
+## [21. Static Analysis](/content/analysis-tools-dev/static-analysis/week/README.md)
 
 ### Programming Languages / [Other](#other-1)
 
 *   [gocyclo (⭐1.5k)](https://github.com/fzipp/gocyclo) — Calculate cyclomatic complexities of functions in Go source code.
 
-## [18. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
+## [22. Awesome Django](/content/wsvincent/awesome-django/week/README.md)
 
 ### Third-Party Packages / Full-stack frameworks
 
 *   [Django LiveView (⭐139)](https://github.com/Django-LiveView/liveview) - Framework for creating dynamic, reactive interfaces server-side with Django templates. Real-time updates via WebSocket with decorator-based handlers.
 
-## [19. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
+## [23. Awesome Digital History](/content/maehr/awesome-digital-history/week/README.md)
 
 ### Archives and primary sources / Switzerland
 
 *   [swissnatcoll](https://swissnatcoll.ch/) - Swiss Natural History Collections portal providing open access to specimen data from natural history collections preserved in Switzerland.
 
-## [20. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
+## [24. Awesome Neovim](/content/rockerBOO/awesome-neovim/week/README.md)
 
 ### Plugin Manager
 
 *   [OriginCoderPulse/synapse.nvim (⭐4)](https://github.com/OriginCoderPulse/synapse.nvim) - A modern, lightweight plugin manager with beautiful UI, intelligent dependency management, tag/branch support, and post-install command execution.
+
+### Colorscheme / Assembly
+
+*   [dybdeskarphet/gruvbox-minimal.nvim (⭐7)](https://github.com/dybdeskarphet/gruvbox-minimal.nvim) - ***`[TS][L/D][Lua]`*** A Gruvbox Material theme conceptually inspired by Alabaster.
 
 ### Utility / Cursorline
 

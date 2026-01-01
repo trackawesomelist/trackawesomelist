@@ -198,9 +198,9 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [type-config (⭐23)](https://github.com/Saul-Mirone/type-config) - A generator for tsconfig.
 *   [Zapatos](https://jawj.github.io/zapatos/) - Zero-Abstraction Postgres for TypeScript
 *   [dep-tree (⭐1.7k)](https://github.com/gabotechs/dep-tree) - Render your project's file dependency tree and/or validate it against your own rules.
-*   [itertools-ts (⭐78)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+*   [itertools-ts (⭐77)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 *   [ParaglideJS](https://inlang.com/m/gerre34r/library-inlang-paraglideJs) - An i18n compiler that generates fully typesafe translations
-*   [pg (⭐606)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
+*   [pg (⭐618)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 *   [nocodb (⭐59k)](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 *   [jqlite (⭐11)](https://github.com/Jay-Karia/jqlite) - ⚡ The query language for JSON
 *   [pompelmi (⭐435)](https://github.com/pompelmi/pompelmi) - File-upload malware scanning for Node.js to help prevent Remote File Inclusion (RFI), with adapters for Express, Koa, and Next.js
@@ -252,7 +252,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   [ts-codec (⭐19)](https://github.com/julienvincent/ts-codec) - TypeScript Codecs for encoding, decoding and validating data
 *   [ow (⭐3.9k)](https://github.com/sindresorhus/ow) - Function argument validation for humans
 *   [superstruct (⭐7.2k)](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data
-*   [computed-types (⭐363)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐362)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 *   [json-schema-to-ts (⭐1.7k)](https://github.com/thomasaribart/json-schema-to-ts) - Dynamic type inference from JSON schemas
 *   [Yunomix (⭐5)](https://github.com/LancerComet/MyWebLibs/tree/master/Yunomix) - A form validation toolkit which is designed in AOP form.
 *   [typia (⭐5.4k)](https://github.com/samchon/typia) - 20,000x times faster runtime validator using pure TypeScript type. Only one line required like `typia.assert<T>(input)`. Also, supports 200x faster JSON serialization, and Protocol Buffer features. 🚀 (see also <https://typia.io/docs>)
@@ -273,7 +273,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [Angular (⭐100k)](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
 *   :octocat: [It-Tools](https://it-tools.tech/) - Collection of handy online tools for developers, with great UX
 *   :octocat: [Fedify (⭐901)](https://github.com/fedify-dev/fedify) - TypeScript framework for building federated server apps powered by ActivityPub and the fediverse
-*   :octocat: [feednext.io (⭐323)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
+*   :octocat: [feednext.io (⭐322)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
 *   :octocat: [ionic (⭐52k)](https://github.com/ionic-team/ionic) - An open-source mobile app development framework build in TypeScript
 *   :octocat: [React-UWP (⭐1.2k)](https://github.com/myxvisual/react-uwp) - React Components that Implement Microsoft's UWP Design & Fluent Design.
 *   :octocat: [palantir/plottable (⭐3.1k)](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: <http://plottablejs.org>)
@@ -344,8 +344,9 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 *   :octocat: [MastraAI (⭐19k)](https://github.com/mastra-ai/mastra) - Mastra is an opinionated TypeScript framework that helps you build AI applications and features quickly.
 *   :octocat: [VoltAgent (⭐4.4k)](https://github.com/voltagent/voltagent) - A TypeScript framework for building and running AI agents with tools, memory, and visibility.
-*   :octocat: [Tambo (⭐914)](https://github.com/tambo-ai/tambo) - React SDK for building generative UIs with MCP support.
+*   :octocat: [Tambo (⭐1.8k)](https://github.com/tambo-ai/tambo) - React SDK for building generative UIs with MCP support.
 *   :octocat: [Maxim AI (⭐6)](https://github.com/maximhq/maxim-js) - JS/TS SDK for enabling Maxim observability. Maxim is an enterprise grade evaluation and observability platform. (see also: <https://getmaxim.ai>)
+*   :octocat: [rehydra (⭐28)](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK to anonymize PII locally before sending prompts to LLMs and seamlessly rehydrate the response.
 
 ### Standalone apps
 
@@ -381,7 +382,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [substitute.js (⭐210)](https://github.com/ffMathy/FluffySpoon.JavaScript.Testing) - A fluent mocking library for TypeScript ported from NSubstitute.
 *   :octocat: [TypeMoq (⭐428)](https://github.com/florinn/typemoq) - A simple mocking library for TypeScript.
 *   :octocat: [fast-check (⭐4.7k)](https://github.com/dubzzz/fast-check) - Property based testing framework for TypeScript.
-*   :octocat: [Suites (⭐506)](https://github.com/suites-dev/suites) - Unit testing framework for TypeScript backends working with inversion of control (IoC) and dependency injection frameworks.
+*   :octocat: [Suites (⭐507)](https://github.com/suites-dev/suites) - Unit testing framework for TypeScript backends working with inversion of control (IoC) and dependency injection frameworks.
 *   :octocat: [InversifyJS (⭐12k)](https://github.com/inversify/InversifyJS/) -  powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
 *   :octocat: [TypeORM (⭐36k)](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
     *   :octocat: [Safe-TypeORM (⭐230)](https://github.com/samchon/safe-typeorm) - Enhances `TypeORM` in the compilation level and supports automated performance tuning tools through the application level joining. Furthermore, your raw SQL queries would be ensured safety by type meta programming.
@@ -417,7 +418,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 *   :octocat: [diod (⭐155)](https://github.com/artberri/diod) - A very opinionated and lightweight inversion of control container and dependency injector for Node.js or browser apps.
 *   :octocat: [@deliberative/crypto (⭐29)](https://github.com/deliberative/crypto) - A Typescript/WebAssembly library for public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling. Runs on Nodejs, ESM, CommonJS and the browser.
 *   :octocat: [castore (⭐271)](https://github.com/castore-dev/castore) - Typescript library to easily implement Event Sourcing in your application
-*   :octocat: [sweet-monads (⭐354)](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
+*   :octocat: [sweet-monads (⭐355)](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
 *   :octocat: [simple-mask-money (⭐174)](https://github.com/codermarcos/simple-mask-money) - 💰 Simple mask money is a light, safe and typed package to format money!
 *   :octocat: [Color-Core (⭐14)](https://github.com/iamlite/color-core) - `color-core` is a powerful, type-safe color manipulation library for TypeScript and JavaScript applications. It provides a comprehensive toolkit for working with colors across multiple color spaces, making it an indispensable tool for developers working on projects that require advanced color handling.
 *   :octocat: [PigmentTS (⭐4)](https://github.com/Jay-Karia/pigment-ts) - A lightweight utility for color manipulation and conversion.
@@ -437,6 +438,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 *   [duckduckgo-ai-chat (⭐94)](https://github.com/mumu-lhl/duckduckgo-ai-chat) - Providing Duckduckgo AI Chat API, which can use gpt-4o-mini for free.
 *   [Neurolink (⭐101)](https://github.com/juspay/neurolink) - Universal AI development platform that unifies 12+ AI providers (OpenAI, Anthropic, Google, Bedrock, Azure) with MCP support, multi-provider failover, and production-ready enterprise features. TypeScript SDK + CLI.
+*   [rehydra (⭐28)](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK to anonymize PII locally before sending prompts to LLMs and seamlessly rehydrate the response.
 
 # Video Courses
 

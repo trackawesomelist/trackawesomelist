@@ -6,6 +6,12 @@ Collections of awesome neovim plugins.
 
 [ Daily / [Weekly](/content/rockerBOO/awesome-neovim/week/README.md) / [Overview](/content/rockerBOO/awesome-neovim/readme/README.md) ]
 
+## [Jan 01, 2026](/content/2026/01/01/README.md)
+
+### Colorscheme / Assembly
+
+*   [dybdeskarphet/gruvbox-minimal.nvim (⭐7)](https://github.com/dybdeskarphet/gruvbox-minimal.nvim) - ***`[TS][L/D][Lua]`*** A Gruvbox Material theme conceptually inspired by Alabaster.
+
 ## [Dec 30, 2025](/content/2025/12/30/README.md)
 
 ### Plugin Manager
@@ -106,11 +112,11 @@ Collections of awesome neovim plugins.
 
 ### Note Taking / Cursorline
 
-*   [nbeversl/urtext\_neovim (⭐1)](https://github.com/nbeversl/urtext_neovim) - An implementation of Urtext.
+*   [nbeversl/urtext\_neovim (⭐3)](https://github.com/nbeversl/urtext_neovim) - An implementation of Urtext.
 
 ### Utility / Cursorline
 
-*   [necrom4/calcium.nvim (⭐22)](https://github.com/necrom4/calcium.nvim) - A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support.
+*   [necrom4/calcium.nvim (⭐40)](https://github.com/necrom4/calcium.nvim) - A powerful [`lua-lib-math`](https://www.lua.org/pil/18.html) in-buffer calculator with visual mode, functions and variable support.
 
 ## [Dec 14, 2025](/content/2025/12/14/README.md)
 
@@ -252,11 +258,11 @@ Collections of awesome neovim plugins.
 
 ### Syntax / Assembly
 
-*   [MeanderingProgrammer/treesitter-modules.nvim (⭐92)](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) - Original modules from nvim-treesitter master branch.
+*   [MeanderingProgrammer/treesitter-modules.nvim (⭐118)](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) - Original modules from nvim-treesitter master branch.
 
 ### Utility / Cursorline
 
-*   [gruvw/strudel.nvim (⭐337)](https://github.com/gruvw/strudel.nvim) - Live coding controller for [strudel](https://strudel.cc).
+*   [gruvw/strudel.nvim (⭐355)](https://github.com/gruvw/strudel.nvim) - Live coding controller for [strudel](https://strudel.cc).
 
 ### Split and Window / Tmux
 
@@ -297,12 +303,12 @@ Collections of awesome neovim plugins.
     *   [saghen/blink.compat (⭐209)](https://github.com/saghen/blink.compat) - Compatibility layer for using `nvim-cmp` sources on `blink.cmp`.
     *   [Kasier-Yang/blink-cmp-avante (⭐99)](https://github.com/Kaiser-Yang/blink-cmp-avante) - `blink-cmp` source for Avante.
     *   [krissen/blink-cmp-bibtex (⭐9)](https://github.com/krissen/blink-cmp-bibtex) - `blink.cmp` source for BibTeX citation files.
-    *   [Kaiser-Yang/blink-cmp-git (⭐80)](https://github.com/Kaiser-Yang/blink-cmp-git) - `blink.cmp` source for Git.
+    *   [Kaiser-Yang/blink-cmp-git (⭐83)](https://github.com/Kaiser-Yang/blink-cmp-git) - `blink.cmp` source for Git.
     *   [disrupted/blink-cmp-conventional-commits (⭐23)](https://github.com/disrupted/blink-cmp-conventional-commits) - `blink.cmp` source for [Conventional Commits](https://www.conventionalcommits.org/).
     *   [mikavilpas/blink-ripgrep.nvim (⭐101)](https://github.com/mikavilpas/blink-ripgrep.nvim) - `blink.cmp` source for `ripgrep` / `git grep`.
-    *   [bydlw98/blink-cmp-env (⭐17)](https://github.com/bydlw98/blink-cmp-env) - `blink.cmp` source for environment variables.
+    *   [bydlw98/blink-cmp-env (⭐19)](https://github.com/bydlw98/blink-cmp-env) - `blink.cmp` source for environment variables.
     *   [bydlw98/blink-cmp-sshconfig (⭐5)](https://github.com/bydlw98/blink-cmp-sshconfig) - `blink.cmp` source for `sshconfig` files.
-    *   [mgalliou/blink-cmp-tmux (⭐9)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐40k)](https://github.com/tmux/tmux).
+    *   [mgalliou/blink-cmp-tmux (⭐10)](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` source for [tmux (⭐40k)](https://github.com/tmux/tmux).
     *   [moyiz/blink-emoji.nvim (⭐68)](https://github.com/moyiz/blink-emoji.nvim) - `blink.cmp` source for GitHub Markdown emojis.
     *   [erooke/blink-cmp-latex (⭐11)](https://github.com/erooke/blink-cmp-latex) - `blink.cmp` source for LaTeX.
 
@@ -403,7 +409,7 @@ Collections of awesome neovim plugins.
 ### Utility / Cursorline
 
 *   [josephburgess/nvumi (⭐54)](https://github.com/josephburgess/nvumi) - Natural language calculator in a scratch buffer.
-*   [johannww/tts.nvim (⭐16)](https://github.com/johannww/tts.nvim) - Text to speech tool based on the Microsoft Edge online services.
+*   [johannww/tts.nvim (⭐17)](https://github.com/johannww/tts.nvim) - Text to speech tool based on the Microsoft Edge online services.
 *   [doctorfree/cheatsheet.nvim (⭐65)](https://github.com/doctorfree/cheatsheet.nvim) - Searchable cheatsheet.
 
 ### Git / Quickfix
@@ -616,11 +622,11 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Web Development
 
-*   [yelog/i18n.nvim (⭐44)](https://github.com/yelog/i18n.nvim) - Internationalization (i18n) management with LSP support for `Vue`, `React`, `Java` and more.
+*   [yelog/i18n.nvim (⭐46)](https://github.com/yelog/i18n.nvim) - Internationalization (i18n) management with LSP support for `Vue`, `React`, `Java` and more.
 
 ### Code Runner / Quickfix
 
-*   [ok97465/ipybridge.nvim (⭐8)](https://github.com/ok97465/ipybridge.nvim) - Run Python code, execute Jupyter cells, debug, and explore variables.
+*   [ok97465/ipybridge.nvim (⭐9)](https://github.com/ok97465/ipybridge.nvim) - Run Python code, execute Jupyter cells, debug, and explore variables.
 
 ## [Oct 08, 2025](/content/2025/10/08/README.md)
 
@@ -675,7 +681,7 @@ Collections of awesome neovim plugins.
 
 ### LSP
 
-*   [p00f/clangd\_extensions.nvim (⭐565)](https://github.com/p00f/clangd_extensions.nvim) - Off-spec `clangd` features for the built-in LSP client.
+*   [p00f/clangd\_extensions.nvim (⭐566)](https://github.com/p00f/clangd_extensions.nvim) - Off-spec `clangd` features for the built-in LSP client.
 
 ## [Sep 23, 2025](/content/2025/09/23/README.md)
 
@@ -711,7 +717,7 @@ Collections of awesome neovim plugins.
 
 ### Note Taking / Cursorline
 
-*   [happyeric77/joplin.nvim (⭐5)](https://github.com/happyeric77/joplin.nvim) - Joplin notes utilities: tree browser, search, open, and Telescope integration.
+*   [happyeric77/joplin.nvim (⭐6)](https://github.com/happyeric77/joplin.nvim) - Joplin notes utilities: tree browser, search, open, and Telescope integration.
 
 ## [Sep 01, 2025](/content/2025/09/01/README.md)
 
@@ -859,17 +865,17 @@ Collections of awesome neovim plugins.
 
 ### Utility / Cursorline
 
-*   [Owen-Dechow/videre.nvim (⭐129)](https://github.com/Owen-Dechow/videre.nvim) - Explore JSON, YAML, and TOML files as nested unit/node-based graphical representations.
+*   [Owen-Dechow/videre.nvim (⭐130)](https://github.com/Owen-Dechow/videre.nvim) - Explore JSON, YAML, and TOML files as nested unit/node-based graphical representations.
 
 ## [Aug 22, 2025](/content/2025/08/22/README.md)
 
 ### Note Taking / Cursorline
 
-*   [jameswolensky/marker-groups.nvim (⭐51)](https://github.com/jameswolensky/marker-groups.nvim) - Take persistent code notes without modifying code.
+*   [jameswolensky/marker-groups.nvim (⭐52)](https://github.com/jameswolensky/marker-groups.nvim) - Take persistent code notes without modifying code.
 
 ### Terminal Integration / CSV Files
 
-*   [LuxVim/nvim-luxterm (⭐9)](https://github.com/LuxVim/nvim-luxterm) - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
+*   [LuxVim/nvim-luxterm (⭐10)](https://github.com/LuxVim/nvim-luxterm) - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
 
 ## [Aug 17, 2025](/content/2025/08/17/README.md)
 
@@ -901,13 +907,13 @@ Collections of awesome neovim plugins.
 
 ### Remote Development / Indent
 
-*   [uhs-robert/sshfs.nvim (⭐14)](https://github.com/uhs-robert/sshfs.nvim) - Mount remote systems via SSHFS with smart picker auto-detect (Telescope/Oil/Snacks/Neo-tree/fzf-lua/Yazi/Ranger etc.).
+*   [uhs-robert/sshfs.nvim (⭐136)](https://github.com/uhs-robert/sshfs.nvim) - Mount remote systems via SSHFS with smart picker auto-detect (Telescope/Oil/Snacks/Neo-tree/fzf-lua/Yazi/Ranger etc.).
 
 ## [Aug 06, 2025](/content/2025/08/06/README.md)
 
 ### Syntax / Assembly
 
-*   [fei6409/log-highlight.nvim (⭐138)](https://github.com/fei6409/log-highlight.nvim) - Generic log syntax highlighting and log filetype management support.
+*   [fei6409/log-highlight.nvim (⭐141)](https://github.com/fei6409/log-highlight.nvim) - Generic log syntax highlighting and log filetype management support.
 
 ### Utility / Cursorline
 
@@ -917,7 +923,7 @@ Collections of awesome neovim plugins.
 
 ### Programming Languages Support / Markdown and LaTeX
 
-*   [brianhuster/live-preview.nvim (⭐281)](https://github.com/brianhuster/live-preview.nvim) - Live preview HTML, Markdown and Asciidoc in the browser.
+*   [brianhuster/live-preview.nvim (⭐286)](https://github.com/brianhuster/live-preview.nvim) - Live preview HTML, Markdown and Asciidoc in the browser.
 
 ## [Aug 02, 2025](/content/2025/08/02/README.md)
 
@@ -4547,14 +4553,14 @@ Collections of awesome neovim plugins.
 ### Completion / Diagnostics
 
 *   [hrsh7th/nvim-cmp (⭐9.2k)](https://github.com/hrsh7th/nvim-cmp) - Completion engine written in Lua, successor of `nvim-compe`.
-    *   [hrsh7th/cmp-cmdline (⭐609)](https://github.com/hrsh7th/cmp-cmdline) - `nvim-cmp` source for cmdline completion.
-    *   [saadparwaiz1/cmp\_luasnip (⭐783)](https://github.com/saadparwaiz1/cmp_luasnip) - `nvim-cmp` source for `LuaSnip`.
-    *   [hrsh7th/cmp-buffer (⭐666)](https://github.com/hrsh7th/cmp-buffer) - `nvim-cmp` source for buffer words.
-    *   [hrsh7th/cmp-path (⭐684)](https://github.com/hrsh7th/cmp-path) - `nvim-cmp` source for filesystem paths.
+    *   [hrsh7th/cmp-cmdline (⭐611)](https://github.com/hrsh7th/cmp-cmdline) - `nvim-cmp` source for cmdline completion.
+    *   [saadparwaiz1/cmp\_luasnip (⭐773)](https://github.com/saadparwaiz1/cmp_luasnip) - `nvim-cmp` source for `LuaSnip`.
+    *   [hrsh7th/cmp-buffer (⭐667)](https://github.com/hrsh7th/cmp-buffer) - `nvim-cmp` source for buffer words.
+    *   [hrsh7th/cmp-path (⭐685)](https://github.com/hrsh7th/cmp-path) - `nvim-cmp` source for filesystem paths.
     *   [hrsh7th/cmp-nvim-lsp (⭐1.5k)](https://github.com/hrsh7th/cmp-nvim-lsp) - `nvim-cmp` source for the built-in LSP client.
     *   [hrsh7th/cmp-nvim-lsp-signature-help (⭐677)](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help) - `nvim-cmp` source for displaying function signatures from an LSP client.
     *   [hrsh7th/cmp-nvim-lua (⭐325)](https://github.com/hrsh7th/cmp-nvim-lua) - `nvim-cmp` source for the Neovim Lua API.
-    *   [petertriho/cmp-git (⭐416)](https://github.com/petertriho/cmp-git) - `nvim-cmp` source for `git`.
+    *   [petertriho/cmp-git (⭐417)](https://github.com/petertriho/cmp-git) - `nvim-cmp` source for `git`.
     *   [lukas-reineke/cmp-under-comparator (⭐189)](https://github.com/lukas-reineke/cmp-under-comparator) - `nvim-cmp` function for better sorting.
     *   [SergioRibera/cmp-dotenv (⭐91)](https://github.com/SergioRibera/cmp-dotenv) - `nvim-cmp` source for environment variables (from system and `.env` files).
 

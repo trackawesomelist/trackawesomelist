@@ -6,6 +6,12 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 [ Daily / [Weekly](/content/dzharii/awesome-typescript/week/README.md) / [Overview](/content/dzharii/awesome-typescript/readme/README.md) ]
 
+## [Jan 01, 2026](/content/2026/01/01/README.md)
+
+### Libraries / Chrome Extensions
+
+*   [rehydra (⭐28)](https://github.com/rehydra-ai/rehydra-sdk) - A zero-trust SDK to anonymize PII locally before sending prompts to LLMs and seamlessly rehydrate the response.
+
 ## [Dec 30, 2025](/content/2025/12/30/README.md)
 
 ### Tools / Playground
@@ -28,13 +34,13 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [Suites (⭐506)](https://github.com/suites-dev/suites) - Unit testing framework for TypeScript backends working with inversion of control (IoC) and dependency injection frameworks.
+*   :octocat: [Suites (⭐507)](https://github.com/suites-dev/suites) - Unit testing framework for TypeScript backends working with inversion of control (IoC) and dependency injection frameworks.
 
 ## [Nov 19, 2025](/content/2025/11/19/README.md)
 
 ### AI / Playground
 
-*   :octocat: [Tambo (⭐914)](https://github.com/tambo-ai/tambo) - React SDK for building generative UIs with MCP support.
+*   :octocat: [Tambo (⭐1.8k)](https://github.com/tambo-ai/tambo) - React SDK for building generative UIs with MCP support.
 
 ## [Nov 18, 2025](/content/2025/11/18/README.md)
 
@@ -279,7 +285,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Tools / Playground
 
-*   [pg (⭐606)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
+*   [pg (⭐618)](https://github.com/datawan-labs/pg) - Browser PostgreSQL Playground, no server, just client and pglite (postgresql wasm)
 
 ## [May 27, 2024](/content/2024/05/27/README.md)
 
@@ -309,7 +315,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Tools / Playground
 
-*   [itertools-ts (⭐78)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+*   [itertools-ts (⭐77)](https://github.com/Smoren/itertools-ts) - Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 
 ## [Dec 26, 2023](/content/2023/12/26/README.md)
 
@@ -420,7 +426,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Libraries / Chrome Extensions
 
-*   :octocat: [sweet-monads (⭐354)](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
+*   :octocat: [sweet-monads (⭐355)](https://github.com/JSMonk/sweet-monads) - Typescript library for popular monads (such as `Maybe` or `Either`) and performant iterators.
 
 ### :free: Free Courses / Chrome Extensions
 
@@ -891,7 +897,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Web / Playground
 
-*   :octocat: [feednext.io (⭐323)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
+*   :octocat: [feednext.io (⭐322)](https://github.com/feednext/feednext) - An open-source social media application built with Typescript on both client-server side.
 
 ## [Jul 03, 2020](/content/2020/07/03/README.md)
 
@@ -910,7 +916,7 @@ A collection of awesome TypeScript resources for client-side and server-side dev
 
 ### Validation / Playground
 
-*   [computed-types (⭐363)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
+*   [computed-types (⭐362)](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 
 ## [Jun 21, 2020](/content/2020/06/21/README.md)
 
